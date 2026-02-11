@@ -10,7 +10,7 @@ This is a work-in-progress repository for machine-extracted, manually fixed mark
 * In the **wip** folder, is manual fixing work-in-progress. Whatever is here can be expected to be in much better shape than the raw markdowns. In what I've edited I've made placeholders for issues (mainly worked on 3e supplmenet "Lions of the North", which was in horrible shape to start).
 * In the **done** folder, I expect to place finished Markdown files in tip-top shape as I/we progress.
 
-The public is welcome to commit new and better versions of any of these files (I mainly expect this to be by manual edit while referencing the original works). Please make sure to provide information on what's been corrected, as well as any remaining issues. I'll try to quickly accept improvements to the repository after review (make my life easier, and it will be faster).
+The public is welcome to commit new and better versions of any of these files (I mainly expect this to be by manual edit while referencing the original works). Please make sure to provide information on what's been corrected, as well as any remaining issues. I'll try to quickly accept improvements to the repository after review (make my life easier, and it will be faster). *As of now, the 3rd edition supplements are most in need.*
 <br/>
 <br/>
 <br/>
