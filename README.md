@@ -1,4 +1,4 @@
-![](https://atlas-games.com/atlas-cms/resources/styles/arm5openlicenselogo.png)
+![](arm5openlicenselogo.png)
 <br/>
 # The Complete Corpus in Friendly Markdown Format
 ### All 53 official books of the Ars Magica RPG Open License
