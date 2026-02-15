@@ -1,6 +1,14 @@
 # Guardians of the Forest: The Rhine Tribunal
 
 
+
+Mythic Germany is the birthplace of the Order of Hermes. From the sinister faerie heights of the Black Forest, through the prosperous and venerable cities of the Rhineland, to the fog-ridden Harz Mountains, to the lowland plain and Crintera's island retreat on the Baltic coast, the Rhine Tribunal is a diverse landscape of countless magical and faerie forests, interspersed with a patchwork of powerful realms, where prince-bishops vie with dukes and merchant gilds for temporal power. This is the land of the epic Nibelungenlied, the heroic conquests of Charlemagne and Frederick Barbarossa, the miracles of St. Boniface, the splendor of the Imperial Cathedrals, the gifts of minstrels and wood-wives, and the curses of witches and the Wild Hunt.
+
+Guardians of the Forests reveals the many unique traditions of the First Tribunal, its archaic politics and lost glories, its reverence for its founders and its woodlands, the workings of the Great Library of Durenmar, and the secrets of those who pursue obscure wilderness paths in search of the primal power of the Forest. The region of the Rhine Gorge receives a special focus its lost covenants, vis sources, sites of legend, towns, castles, inhabitants, and a mysterious curse are all detailed providing a perfect location to jump-start an Ars Magica™ 5th Edition saga.
+
+
+
+
 **AUTHORS:** Mark Shirley and Andrew Smith **EDITING AND DEVELOPMENT:** David Chart **COVER ILLUSTRATION:** Grey Thornberry
 
 **INTERIOR ART:** Grey Thornberry, Wilhelm Beckmann, K.
@@ -31,39 +39,104 @@ Copyright 2005 Trident, Inc. d/b/a Atlas Games. All rights reserved. Reproductio
 
 **Ars Magica**, Mythic Europe, Covenants, Guardians of the Forests and Charting New Realms of Imagination are trademarks of Trident, Inc. Order of Hermes, Tremere, and Doissetep are trademarks of White Wolf, Inc. and are used with permission.
 
-
 **Digital Edition Version 1.0**
+
+
 
 
 # *Table of Contents*
 
-**Chapter I: Introduction**<br>
-Germany<br>The Rhine Tribunal<br>History and Myth<br>How to Use This Book<br>
-**Chapter II: History of Mythic Germany**<br>
-Germania Magna<br>The Great Migration<br>The Merovingians<br>The Frankish Empire<br>The Rise of the New Empire<br>Frederick Barbarossa1
-**Chapter III: Tribunal History & Customs**<br>
-History<br>Upon Being a Rhine Magus<br>Tribunal Gatherings<br>The Gilds of the Rhine Tribunal
-**Chapter IV: The Forest**<br>The Forest3<br>The Paths Through the Forest
-**Chapter V: The Rhine**<br>The Upper Rhine<br>Upper Lorraine<br>The Lower Rhine<br> Lower Lorraine<br>Triamore 
-**Chapter VI: The Black Forest**<br>Durenmar<br>Dankmar <br>Swabia<br>
-**Chapter VII: The Lowlands** <br>Friesland<br>Waddenzee<br>Holstein<br>Oculus Septentrionalis<br>Saxony
-**Chapter VIII: Central Germany **<br>The Harz Mountains<br>
-Fengheld<br>
-Thuringia<br>
-Franconia<br>
-Bavaria<br>
-**Chapter IX: The Eastern Marches**<br>
-The Baltic Sea<br>Rügen<br>Crintera<br>Pomerania<br>The Margravate of Brandenburg <br>The Margravate of Meissen<br>The Margravate of Lusatia <br>
-**Chapter X: Bohemia**<br>Bohemia<br>Irencillia<br>The Margravate of Moravia<br>Roznov       
-**Chapter XI: Rhine Sagas**<br>Establishing Your Covenant<br>The Crintera Schism<br>Wind, Wave, and Ice<br>Between the Devil and the Deep<br>Blue Sea<br>The Hidden Covenant<br>
-**Chapter XII: Curse of the Rhine Gorge**<br> Local Hermetic History<br>The Saga Begins<br>The Rhine Gorge<br>The Westerwald<br>The Mosel Valley<br>Establishing a Covenant<br>The Curse
-**Appendices**<br>
-Appendix A: Languages and Names<br>
-Appendix B: Timeline<br>
-Appendix C: Bibliography                                                      |
+**Chapter I: Introduction**
+Germany
+The Rhine Tribunal
+History and Myth
+How to Use This Book
+
+**Chapter II: History of Mythic Germany**
+Germania Magna
+The Great Migration
+The Merovingians
+The Frankish Empire
+The Rise of the New Empire
+Frederick Barbarossa1
+
+**Chapter III: Tribunal History & Customs**
+History
+Upon Being a Rhine Magus
+Tribunal Gatherings
+The Gilds of the Rhine Tribunal
+
+**Chapter IV: The Forest**
+The Forest3
+The Paths Through the Forest
+
+**Chapter V: The Rhine**
+The Upper Rhine
+Upper Lorraine
+The Lower Rhine
+Lower Lorraine
+Triamore 
+
+**Chapter VI: The Black Forest**
+Durenmar
+Dankmar
+Swabia
+
+**Chapter VII: The Lowlands** 
+Friesland
+Waddenzee
+Holstein
+Oculus Septentrionalis
+Saxony
+
+**Chapter VIII: Central Germany **
+The Harz Mountains
+Fengheld
+Thuringia
+Franconia
+Bavaria
+
+**Chapter IX: The Eastern Marches**
+The Baltic Sea
+Rügen
+Crintera
+Pomerania
+The Margravate of Brandenburg
+The Margravate of Meissen
+The Margravate of Lusatia
+
+**Chapter X: Bohemia**
+Bohemia
+Irencillia
+The Margravate of Moravia
+Roznov 
+
+**Chapter XI: Rhine Sagas**
+Establishing Your Covenant
+The Crintera Schism
+Wind, Wave, and Ice
+Between the Devil and the Deep
+Blue Sea
+The Hidden Covenant
+
+**Chapter XII: Curse of the Rhine Gorge**
+Local Hermetic History
+The Saga Begins
+The Rhine Gorge
+The Westerwald
+The Mosel Valley
+Establishing a Covenant
+The Curse
+
+**Appendices**
+Appendix A: Languages and Names
+Appendix B: Timeline
+Appendix C: Bibliography                                                    
 
 
-# *Chapter One Introduction*
+
+# *Chapter One: Introduction*
+
 *Herzlich Willkommen!* You have come to the Rhine Tribunal, the oldest and greatest of them all. Here, at the center of the Order of Hermes, at covenants steeped in ancient wisdom and majesty, the power of Hermetic magic reigns supreme. Or at least, so its magi would have you believe... In reality this vision is naught but a wistful and distant memory of elderly magi hidden away in dusty Durenmar towers. The Rhine Tribunal of 1220 AD is a rather different place to that which the Founders and Charlemagne knew. Magic has now retreated, hidden away from the many cities of a burgeoning empire, where bishops vie with dukes and merchants for temporal power. Yet among these mundanes, more than a few magi also secretly cast their net, grasping for their share of the spoils. Others choose instead to spurn the mundanes and hide among the countless forests, where the old powers remain undimmed — such magi proclaim themselves the guardians of these wildernesses. But are they really the masters of these domains, or merely the servants of the ancient spirits that they house? Magi with divergent interests prosecute petty political squabbles; apathy reigns and the Tribunal stagnates. Perhaps you are the one who will restore the Rhine to its former glory?
 
 ## *Germany*
@@ -4614,48 +4687,89 @@ Adam, Adolf, Albert, **Albrecht**, **Andreas** (Andrew), Anshelm, **Arnold**, Ar
 This appendix provides a summary of the major events of mundane and mythic history in the Rhine Tribunal, and a short excursus into the future.
 
 ### *Past Events*
-- 53 BC Julius Caesar produces the first written account of the German peoples.
-- 51 BC Caesar successfully concludes his campaign in Gaul. The lands immediately to the west of the Rhine are conquered and divided into the provinces of Germania Superior and Germania Inferior.
-- 38 BC Establishment of a Roman settlement at the site of Cologne.
-- 16 BC Roman founding of Augusta Treverorum (Trier) as a regional capital. This is the oldest city in Germany and predates the Romans.
-- 13 BC Founding of Moguntiacum (Mainz).
-- 9 AD The Roman legions are defeated by the Cheruscan hero Arminius (Hermann) at the Teutoburger Forest.
-- 50 Colonia Agrippensis (Cologne) becomes a city.
-- 51-96 Construction of the limes fortifications, which secures Roman territory in the lands beyond the Rhine and the Danube, Germania Magna; the 2nd century AD marks the greatest extent of the Roman empire.
-- 64 Establishment of a Mercurian temple at the later site of Durenmar in the Black Forest. The priests of Mercury attempt to usurp the primeval power of the Hercynian Forest that covers most of Germany.
-- 74 The Black Forest Road is completed with the aid of Mercurian priests.
-- 98 Tacitus writes Germania.
-- 3rd century The Romans abandon the limes and retreat in the face of repeated attacks by Franks, Alemanni, and Goths.
-- 306-337 Augusta Treverorum (Trier) reaches its zenith under the rule of Constantine the Great, becoming capital of the western Roman empire; construction of the Cathedral of St. Peter, the oldest church in Germany.
-- 341 Some of the Goths convert to Christianity; Wulfilas becomes the first German bishop and translates the bible to Gothic.
-- 4th century The Huns begin invading Europe.
-- 413 The Burgundians settle in the city of Worms on the Rhine.
-- 430-453 Events from the Nibelungenlied: the great knight Siegfried arrives in Worms, weds Kriemhild, and is later slain.
-- 445 Attila murders his brother and becomes undisputed leader of the Huns.
-- 451 Attila conquers the Burgundians at Worms and weds the widowed Kriemhild.
-- 451 The Battle of Chalons an alliance of Romans, Franks, and Visigoths lead by the legendary Merovech defeat the Huns and Ostrogoths in Gaul, ending Attila's westward conquests.
-- 452 Pope Leo miraculously saves the city of Rome from the army of the Huns.
-- 453 The Burgundians war on the Huns and are destroyed; Attila the Hun is killed.
-- 455 The Vandals sack Rome.
-- 470-485 Successful campaigns of the Visigoth king Euric across western Europe.
-- 476 Fall of the western Roman empire as Italy is conquered by the Gothic king Odovacar; the beginning of the Dark Ages.
-- 481 Clovis, a Gifted descendent of Merovech, rises to become king of the Franks; the start of the Merovingian dynasty.
-- 496 Clovis is baptized and becomes the first Christian Frankish king. His  people follow suit, although paganism takes centuries to fade among the Franks.
-- 507 Clovis has by now defeated the Romans, the Burgundians, and the Visigoths, united the Franks, and established a capital in Paris.
-- 511 Death of Clovis, though his magical lineage endures.
-- 561 Under Chlotar, son of Clovis, the Frankish kingdom has grown to include all of Provence, Burgundy, and Swabia.
-- 567 Sigebert wars on Chilperic; the Frankish kingdom fractures and becomes corrupted.
-- 594 St. Gregory of Tours writes the *Historia Francorum* (History of the Franks).
-- 687 Pepin "the Large," of the Frankish mayoral dynasty, gives himself the title *Dux et Princeps Francorum,* and rules most of the Frankish empire. The power of the Merovingian kings is by now insignificant — they are little more than puppets.
-- 7th and 8th centuries Irish and British missionaries begin work in the pagan lands of Germany to the north and east of the land of the Franks — Frisia, Saxony, and Bavaria.
-- 718 The English monk St. Boniface begins his missionary work throughout Germany.
-- 725 St. Boniface miraculously fells the Donar Oak, a great pagan relic, in Thuringia. The potency of pagan magics and relics begins to wane throughout the land, as does belief in the Old Ways. The power of the great Hercynian Forest is broken and divided among the numerous lesser and separate forests it has become.
-- 731 Trianoma meets Bonisagus in his Alpine cave, becomes his apprentice, and learns his great invention, the Parma Magica.
-- 731-767 Trianoma travels widely and contacts numerous wizards who visit with Bonisagus — many of these become Founders. Learning from his visitors, Bonisagus gradually improves his unified system of magic. The mysterious maga Merinita comes out of the wilderness and convinces the sorceress Bjornaer to abandon her shapeshifting tradition and join the new Order. Bjornaer is condemned by her former fellows, including the sorceress Gyongy.
-- 738 Charles Martel, illegitimate son and successor of Pepin II, campaigns successfully against the barbarian tribes.
-- 742 Birth of Charles (later Charlemagne), son of Pepin III.
-- 751 Pepin III "the Short" becomes king proper, crowned by St. Boniface; the start of the Carolingian dynasty, as the last of the Merovingians is retired to a monastery. He is the first king to seek the Pope's anointment.
-- 754-756 Pepin III campaigns south of the Alps and conquers Lombardy, establishing a German presence inItaly.
+53 BC Julius Caesar produces the first written account of the German peoples.
+
+51 BC Caesar successfully concludes his campaign in Gaul. The lands immediately to the west of the Rhine are conquered and divided into the provinces of Germania Superior and Germania Inferior.
+
+38 BC Establishment of a Roman settlement at the site of Cologne.
+
+16 BC Roman founding of Augusta Treverorum (Trier) as a regional capital. This is the oldest city in Germany and predates the Romans.
+
+13 BC Founding of Moguntiacum (Mainz).
+
+9 AD The Roman legions are defeated by the Cheruscan hero Arminius (Hermann) at the Teutoburger Forest.
+
+50 Colonia Agrippensis (Cologne) becomes a city.
+
+51-96 Construction of the limes fortifications, which secures Roman territory in the lands beyond the Rhine and the Danube, Germania Magna; the 2nd century AD marks the greatest extent of the Roman empire.
+
+64 Establishment of a Mercurian temple at the later site of Durenmar in the Black Forest. The priests of Mercury attempt to usurp the primeval power of the Hercynian Forest that covers most of Germany.
+
+74 The Black Forest Road is completed with the aid of Mercurian priests.
+
+98 Tacitus writes Germania.
+
+3rd century The Romans abandon the limes and retreat in the face of repeated attacks by Franks, Alemanni, and Goths.
+
+306-337 Augusta Treverorum (Trier) reaches its zenith under the rule of Constantine the Great, becoming capital of the western Roman empire; construction of the Cathedral of St. Peter, the oldest church in Germany.
+
+341 Some of the Goths convert to Christianity; Wulfilas becomes the first German bishop and translates the bible to Gothic.
+
+4th century The Huns begin invading Europe.
+
+413 The Burgundians settle in the city of Worms on the Rhine.
+
+430-453 Events from the Nibelungenlied: the great knight Siegfried arrives in Worms, weds Kriemhild, and is later slain.
+
+445 Attila murders his brother and becomes undisputed leader of the Huns.
+
+451 Attila conquers the Burgundians at Worms and weds the widowed Kriemhild.
+
+451 The Battle of Chalons an alliance of Romans, Franks, and Visigoths lead by the legendary Merovech defeat the Huns and Ostrogoths in Gaul, ending Attila's westward conquests.
+
+452 Pope Leo miraculously saves the city of Rome from the army of the Huns.
+
+453 The Burgundians war on the Huns and are destroyed; Attila the Hun is killed.
+
+455 The Vandals sack Rome.
+
+470-485 Successful campaigns of the Visigoth king Euric across western Europe.
+
+476 Fall of the western Roman empire as Italy is conquered by the Gothic king Odovacar; the beginning of the Dark Ages.
+
+481 Clovis, a Gifted descendent of Merovech, rises to become king of the Franks; the start of the Merovingian dynasty.
+
+496 Clovis is baptized and becomes the first Christian Frankish king. His  people follow suit, although paganism takes centuries to fade among the Franks.
+
+507 Clovis has by now defeated the Romans, the Burgundians, and the Visigoths, united the Franks, and established a capital in Paris.
+
+511 Death of Clovis, though his magical lineage endures.
+
+561 Under Chlotar, son of Clovis, the Frankish kingdom has grown to include all of Provence, Burgundy, and Swabia.
+
+567 Sigebert wars on Chilperic; the Frankish kingdom fractures and becomes corrupted.
+
+594 St. Gregory of Tours writes the *Historia Francorum* (History of the Franks).
+
+687 Pepin "the Large," of the Frankish mayoral dynasty, gives himself the title *Dux et Princeps Francorum,* and rules most of the Frankish empire. The power of the Merovingian kings is by now insignificant — they are little more than puppets.
+
+7th and 8th centuries Irish and British missionaries begin work in the pagan lands of Germany to the north and east of the land of the Franks — Frisia, Saxony, and Bavaria.
+
+718 The English monk St. Boniface begins his missionary work throughout Germany.
+
+725 St. Boniface miraculously fells the Donar Oak, a great pagan relic, in Thuringia. The potency of pagan magics and relics begins to wane throughout the land, as does belief in the Old Ways. The power of the great Hercynian Forest is broken and divided among the numerous lesser and separate forests it has become.
+
+731 Trianoma meets Bonisagus in his Alpine cave, becomes his apprentice, and learns his great invention, the Parma Magica.
+
+731-767 Trianoma travels widely and contacts numerous wizards who visit with Bonisagus — many of these become Founders. Learning from his visitors, Bonisagus gradually improves his unified system of magic. The mysterious maga Merinita comes out of the wilderness and convinces the sorceress Bjornaer to abandon her shapeshifting tradition and join the new Order. Bjornaer is condemned by her former fellows, including the sorceress Gyongy.
+
+738 Charles Martel, illegitimate son and successor of Pepin II, campaigns successfully against the barbarian tribes.
+
+742 Birth of Charles (later Charlemagne), son of Pepin III.
+
+751 Pepin III "the Short" becomes king proper, crowned by St. Boniface; the start of the Carolingian dynasty, as the last of the Merovingians is retired to a monastery. He is the first king to seek the Pope's anointment.
+
+754-756 Pepin III campaigns south of the Alps and conquers Lombardy, establishing a German presence inItaly.
 
 754 St. Boniface is martyred; he is buried in Fulda.
 
@@ -4663,9 +4777,11 @@ This appendix provides a summary of the major events of mundane and mythic histo
 
 767 Foundation of the Order of Hermes at Durenmar. Bonisagus and the other Founders swear the Oath of Hermes. The first Tribunal gathering takes place.
 
-- 767-773 Flambeau departs Durenmar with a number of his apprentices to found the covenant of Val-Negra in the Pyrenees. Several other magi also depart after the Founding and establish other covenants, based on the Durenmar model.
-- 768 Charlemagne becomes king of the Franks.
-- 771 Bjornaer and her followers travel to the island of Rügen and hold a council. Thereafter, House Bjornaer holds a gathering there every twelve years.
+767-773 Flambeau departs Durenmar with a number of his apprentices to found the covenant of Val-Negra in the Pyrenees. Several other magi also depart after the Founding and establish other covenants, based on the Durenmar model.
+
+768 Charlemagne becomes king of the Franks.
+
+771 Bjornaer and her followers travel to the island of Rügen and hold a council. Thereafter, House Bjornaer holds a gathering there every twelve years.
 
 772-782 Charlemagne campaigns at length against the pagan Saxons, and eventually conquers and subdues them. The defeated Saxons face either baptism or death.
 
@@ -4817,114 +4933,207 @@ This appendix provides a summary of the major events of mundane and mythic histo
 
 1146-1147 The Second Crusade widespread slaughter of Jews in many Rhine cities and Würzburg, amidst religious fervor. The Saxons mount their own campaign against the pagan Wends in Pomerania and the northeastern Marches.
 
-- 1151 Rhine Tribunal of 1290 AA: Dankmar accuses Durenmar of faerie molestation and of plundering faerie sites of the Black Forest for vis; with the support of Crintera, Irencillia, and Fengheld, Durenmar is fined ten pawns of vis to every other covenant in the Tribunal and restricted from taking further vis from faerie sites for fourteen years, unless a peace is made with the fae. The covenant of Triamore is founded, attached to the court of Emperor Conrad III, by magi of the newly formed Apple Gild.
+1151 Rhine Tribunal of 1290 AA: Dankmar accuses Durenmar of faerie molestation and of plundering faerie sites of the Black Forest for vis; with the support of Crintera, Irencillia, and Fengheld, Durenmar is fined ten pawns of vis to every other covenant in the Tribunal and restricted from taking further vis from faerie sites for fourteen years, unless a peace is made with the fae. The covenant of Triamore is founded, attached to the court of Emperor Conrad III, by magi of the newly formed Apple Gild.
 
-- 1152 Conrad III dies before being crowned in Rome; he is succeeded by his nephew, Frederick I "Barbarossa."
+1152 Conrad III dies before being crowned in Rome; he is succeeded by his nephew, Frederick I "Barbarossa."
 
-- 1155 Ulm becomes a Free Imperial City. 1157 Henry "the Lion," duke of Saxony and rival to Frederick I, seizes the settlement of Lübeck and develops it into a city.
-- 1158 Rhine Tribunal of 1297 AA: The magi of Oculus Septentrionalis are fined for not having fulfilled their charter in establishing a base to study the Order of Odin. Agnes of Irencillia extraordinarily announces a sighting of the Founder Merinita in Bohemia, but little credence is paid to this claim.
-- 1162 Fifteenth Grand Tribunal of the Order of Hermes. The Rhine Tribunal once again loses a boundary dispute over Poland to the Novgorod Tribunal (formerly the New Slavonic Tribunal).
-- 1164 The Relics of the Three Magi are taken by Frederick I from Milan, and placed in the cathedral of Cologne.
-- 1165 Rhine Tribunal of 1304 AA: The covenant of Treverorum are found guilty of interfering in the affairs of mundanes and the Church, given a fine of fifty pawns of vis, and warned in the strongest possible terms to repair relations with the inhabitants of Trier without delay. Oculus Septentrionalis announces its new location in Lübeck to the Tribunal. The Quaesitores, however, prompted by the current troubles of the Tribunal's other city covenant, Treverorum, insist on additions to their charter. The covenant of Terschelling is founded on the Friesian island of the same name.
-- 1168 The island of Rügen is invaded by the Danish king, Valdemar I; the pagan temple of Arkona is broken and christianization of the island begins. Crintera is thrown into confusion and crisis.
+1155 Ulm becomes a Free Imperial City. 1157 Henry "the Lion," duke of Saxony and rival to Frederick I, seizes the settlement of Lübeck and develops it into a city.
 
-- 1172 Rhine Tribunal of 1311 AA: Treverorum is abandoned by its sole surviving magus and abolished.
-- 1179 Death of Hildegard of Bingen.
-- 1179 Rhine Tribunal of 1318 AA: Primus Urgen of House Bjornaer accuses Oculus Septentrionalis of aiding the Danish invasion of Rügen, and kills its leader Prudentum in a Wizard's War.
-- 1180 Henry's lands in Saxony are divided and he is sent into exile.
-- 1186 Rhine Tribunal of 1325 AA: Crintera is denied permission from the Tribunal to expel the Danish invaders of Rügen under the "Guardians of the Forest" ruling.
-- 1189 Hamburg is granted numerous trade privileges by Frederick I and becomes a Free Imperial City.
-- 1182-1192 The Third Crusade.
-- 1190 The Order of Teutonic Knights is founded in Acre, in Palestine.
-- 1190 Frederick I dies on crusade he is drowned while attempting to cross the River Seleph in Asia Minor on horseback.
-- 1190-1197 Reign of Henry VI.
-- 1191 Avarret of Bonisagus is elevated to Primus of House Bonisagus, marking a return to the conservative philosophy of refining the existing Hermetic theory.
-- 1194 Birth of Frederick, son of Henry VI.
-- 1194 Rhine Tribunal of 1333 AA, occurring a year late to accommodate the Grand Tribunal: Falke of Bjornaer fails to persuade the Tribunal to permit the defense of Crintera.
-- 1195 Sixteenth Grand Tribunal of the Order of Hermes.
-- 1198 Two rival kings are elected in Germany: Philip of Swabia (Hohenstaufen) and Otto of Brunswick (Welf).
-- 1200 Rhine Tribunal of 1339 AA: Another covenant has been destroyed in the Rhine Gorge — Rheinstein falls to an army of irate mundanes, led by the archbishop of Trier. The Tribunal rules that magi are forbidden from practicing any form of magical activity in the Rhine Gorge, for the next twenty years.
-- 1201 The Danish king Valdemar II "the Victorious" conquers Holstein.
-- 1202 The Livonian Order of the Knights of the Sword is formed in Pomerania and Livonia to prosecute a crusade against the pagans of the Baltic.
-- 1203 Falke of Fengheld covenant becomes Prima of House Bjornaer.
+1158 Rhine Tribunal of 1297 AA: The magi of Oculus Septentrionalis are fined for not having fulfilled their charter in establishing a base to study the Order of Odin. Agnes of Irencillia extraordinarily announces a sighting of the Founder Merinita in Bohemia, but little credence is paid to this claim.
 
-- 1204 The Fourth Crusade; Constantinople is taken.
-- 1204 A great festival is held at the Wartburg in Thuringia.
-- 1205 Birth of the legendary knight and minstrel Tannhäuser.
-- 1206 Albertus Magnus (later to become a famous natural magician and saint) is born.
-- 1207 Rhine Tribunal of 1346 AA: The new magi of Terschelling controversially rename their covenant Waddenzee, and completely rewrite their charter. After a Quaesitorial investigation, the Tribunal narrowly rules that this does not constitute a new covenant.
-- 1208 Philip of Swabia is murdered by Otto of Wittelsbach, the Count Palatine, in Bamberg.
-- 1209 Otto IV (of Brunswick) is crowned emperor in Rome.
-- 1210 Otto IV is excommunicated (and later deposed).
-- 1213 Before slipping into Final Twilight, Primus Avarret of House Bonisagus selects maga Murion as his successor. This is a deliberate snub to the arguably more qualified Occultes (who he deems too dangerous), and Murion's selection signifies the continued dominance of the conservative philosophy in the House.
-- 1214 The Battle of Bouvines Philip II, king of France, supported by Frederick, defeats the combined armies of Otto IV, the English, and the Flemish.
-- 1214 Frederick II is crowned king in Aachen.
-- 1215 Three Rhine magi found a covenant called Heorot on Zealand (technically territory of the Novgorod Tribunal).
-- 1217 The Fifth Crusade.
-- 1218 Death of Otto IV.
-- 1218 Death of Berthold V, the last Zähringen duke of Swabia. The Hohenstaufens subsume much of the Zähringen lands.
-- 1219 Nuremberg becomes a Free Imperial City.
-- 1220 Frederick II grants a number of customs privileges at the Diet of Frankfurt. He then travels to Rome, vows to undertake a new crusade, and is crowned emperor. He spends the next several years in Italy and Sicily. The hedge wizard Michael Scot becomes his court magician.
+1162 Fifteenth Grand Tribunal of the Order of Hermes. The Rhine Tribunal once again loses a boundary dispute over Poland to the Novgorod Tribunal (formerly the New Slavonic Tribunal).
+
+1164 The Relics of the Three Magi are taken by Frederick I from Milan, and placed in the cathedral of Cologne.
+
+1165 Rhine Tribunal of 1304 AA: The covenant of Treverorum are found guilty of interfering in the affairs of mundanes and the Church, given a fine of fifty pawns of vis, and warned in the strongest possible terms to repair relations with the inhabitants of Trier without delay. Oculus Septentrionalis announces its new location in Lübeck to the Tribunal. The Quaesitores, however, prompted by the current troubles of the Tribunal's other city covenant, Treverorum, insist on additions to their charter. The covenant of Terschelling is founded on the Friesian island of the same name.
+
+1168 The island of Rügen is invaded by the Danish king, Valdemar I; the pagan temple of Arkona is broken and christianization of the island begins. Crintera is thrown into confusion and crisis.
+
+1172 Rhine Tribunal of 1311 AA: Treverorum is abandoned by its sole surviving magus and abolished.
+
+1179 Death of Hildegard of Bingen.
+
+1179 Rhine Tribunal of 1318 AA: Primus Urgen of House Bjornaer accuses Oculus Septentrionalis of aiding the Danish invasion of Rügen, and kills its leader Prudentum in a Wizard's War.
+
+1180 Henry's lands in Saxony are divided and he is sent into exile.
+
+1186 Rhine Tribunal of 1325 AA: Crintera is denied permission from the Tribunal to expel the Danish invaders of Rügen under the "Guardians of the Forest" ruling.
+
+1189 Hamburg is granted numerous trade privileges by Frederick I and becomes a Free Imperial City.
+
+1182-1192 The Third Crusade.
+
+1190 The Order of Teutonic Knights is founded in Acre, in Palestine.
+
+1190 Frederick I dies on crusade he is drowned while attempting to cross the River Seleph in Asia Minor on horseback.
+
+1190-1197 Reign of Henry VI.
+
+1191 Avarret of Bonisagus is elevated to Primus of House Bonisagus, marking a return to the conservative philosophy of refining the existing Hermetic theory.
+
+1194 Birth of Frederick, son of Henry VI.
+
+1194 Rhine Tribunal of 1333 AA, occurring a year late to accommodate the Grand Tribunal: Falke of Bjornaer fails to persuade the Tribunal to permit the defense of Crintera.
+
+1195 Sixteenth Grand Tribunal of the Order of Hermes.
+
+1198 Two rival kings are elected in Germany: Philip of Swabia (Hohenstaufen) and Otto of Brunswick (Welf).
+
+1200 Rhine Tribunal of 1339 AA: Another covenant has been destroyed in the Rhine Gorge — Rheinstein falls to an army of irate mundanes, led by the archbishop of Trier. The Tribunal rules that magi are forbidden from practicing any form of magical activity in the Rhine Gorge, for the next twenty years.
+
+1201 The Danish king Valdemar II "the Victorious" conquers Holstein.
+
+1202 The Livonian Order of the Knights of the Sword is formed in Pomerania and Livonia to prosecute a crusade against the pagans of the Baltic.
+
+1203 Falke of Fengheld covenant becomes Prima of House Bjornaer.
+
+1204 The Fourth Crusade; Constantinople is taken.
+
+1204 A great festival is held at the Wartburg in Thuringia.
+
+1205 Birth of the legendary knight and minstrel Tannhäuser.
+
+1206 Albertus Magnus (later to become a famous natural magician and saint) is born.
+
+1207 Rhine Tribunal of 1346 AA: The new magi of Terschelling controversially rename their covenant Waddenzee, and completely rewrite their charter. After a Quaesitorial investigation, the Tribunal narrowly rules that this does not constitute a new covenant.
+
+1208 Philip of Swabia is murdered by Otto of Wittelsbach, the Count Palatine, in Bamberg.
+
+1209 Otto IV (of Brunswick) is crowned emperor in Rome.
+
+1210 Otto IV is excommunicated (and later deposed).
+
+1213 Before slipping into Final Twilight, Primus Avarret of House Bonisagus selects maga Murion as his successor. This is a deliberate snub to the arguably more qualified Occultes (who he deems too dangerous), and Murion's selection signifies the continued dominance of the conservative philosophy in the House.
+
+1214 The Battle of Bouvines Philip II, king of France, supported by Frederick, defeats the combined armies of Otto IV, the English, and the Flemish.
+
+1214 Frederick II is crowned king in Aachen.
+
+1215 Three Rhine magi found a covenant called Heorot on Zealand (technically territory of the Novgorod Tribunal).
+
+1217 The Fifth Crusade.
+
+1218 Death of Otto IV.
+
+1218 Death of Berthold V, the last Zähringen duke of Swabia. The Hohenstaufens subsume much of the Zähringen lands.
+
+1219 Nuremberg becomes a Free Imperial City.
+
+1220 Frederick II grants a number of customs privileges at the Diet of Frankfurt. He then travels to Rome, vows to undertake a new crusade, and is crowned emperor. He spends the next several years in Italy and Sicily. The hedge wizard Michael Scot becomes his court magician.
 
 ### *Future Events*
 
-- 1221 Rhine Tribunal Gathering of 1360 AA.
-- 1225 Thomas Aquinas (later a saint) is born.
-- 1225 Frederick II marries Isabelle of Brienne, heiress to the kingdom of Jerusalem, in Brindisi.
-- 1225 Engelbert I, archbishop of Cologne, is murdered.
-- 1226 Lübeck becomes a Free Imperial City.
-- 1227 Frederick II is excommunicated for delay in embarking on crusade (he and his army are struck with fever). The Danish king Valdemar II is defeated; Holstein and Pomerania return to the Holy Roman Empire.
-- 1227 Rhine Tribunal Gathering of 1366 AA, held a year earlier than usual to accommodate the Grand Tribunal next year. Gathering of Twelve Years at Crintera.
-- 1228 The Sixth Crusade. Frederick's lands in Italy are invaded by Pope Gregory IX.
-- 1228 Seventeenth Grand Tribunal of the Order of Hermes.
-- 1229 Frederick II is crowned king of Jerusalem.
-- 1230 The Treaty of San Germano Frederick II and the Pope are reconciled; the emperor is absolved.
-- 1235 Frederick II returns to Germany with a varied retinue of Moors and other foreigners, and a menagerie of exotic animals. He marries the English princess Elizabeth at Worms, and imprisons his rebellious son Henry. The Peace of Mainz — promulgation of the Laws of the Empire by Frederick II, the first imperial law in the German language. An imperial court is established and restrictions are placed on the right of private feuds.
-- 1235 Rhine Tribunal Gathering of 1374 AA.
-- 1237 The Livonian Order of the Knights of the Sword is reprimanded and subsumed into the Teutonic Order, after numerous excesses in Baltic lands. The Mongols attack and conquer much of eastern Europe. The Teutonic Order, seizing on the weakness of the Russians, attacks them from the west.
-- 1239 Pope Gregory IX excommunicates Frederick II for the second time, labeling him a heretic and beast of the apocalypse.
-- 1239 Gathering of Twelve Years at Crintera.
+1221 Rhine Tribunal Gathering of 1360 AA.
 
-- 1240 The Teutonic Knights conquer Prussia.
-- 1241 The Treaty of Hamburg and Lübeck is signed, marking the beginning of the Hanseatic League; in subsequent decades they are joined by many other northern cities.
-- 1242 Rhine Tribunal Gathering of 1381 AA.
-- 1243 Famine and a plague of rats spread across Germany.
-- 1245 Frederick II is deposed by order of Pope Innocent IV. Frederick's son Conrad struggles to retain control in Germany; the Church is divided between loyalty to the Pope and to Frederick.
-- 1248 Cologne begins construction of a mighty new cathedral, which will be a more fitting home for the Relics of the Three Magi.
-- 1249 Rhine Tribunal Gathering of 1388 AA.
-- 1249-1252 The Seventh Crusade.
-- 1250 Frederick II dies in Florentina in Italy. He is succeeded by his son Conrad IV. Aachen and Erfurt become Free Imperial Cities.
-- 1251 Gathering of Twelve Years at Crintera.
-- 1254 Death of Conrad IV; the Great Interregnum (a period of nineteen years in which the imperial throne remains empty) begins.
-- 1254 The right to appoint the German king is by now restricted to seven Electors (Kurfürsten): the archbishops of Mainz, Cologne, and Trier, the king of Bohemia, the duke of Saxony, the Count Palatine of the Rhine, and the margrave of Brandenburg.
-- 1254 The Rhine League is formed an alliance of cities which successfully attacks a number of robber baron castles along the Rhine Gorge. The League supports the claim of William of Holland to the throne, but he dies two years later battling the Friesians.
-- 1256 Rhine Tribunal Gathering of 1395 AA.
-- 1257 Electors are divided between Richard of Cornwall and King Alfonso of Castile. In the absence of Alfonso, Richard is crowned in Aachen.
-- 1258 Crops fail in Germany; famine and disease follows. The flagellant movement arises as a result, the members of which conduct self-flagellation to atone for the sins for which God is punishing them.
-- 1261 Eighteenth Grand Tribunal of the Order of Hermes.
+1225 Thomas Aquinas (later a saint) is born.
 
-- 1263 Rhine Tribunal Gathering of 1402 AA, Gathering of Twelve Years at Crintera.
-- 1267 Death of Tannhäuser.
-- 1270 The Eighth Crusade.
-- 1270 Rhine Tribunal Gathering of 1409 AA.
-- 1273 Rudolf I of Hapsburg is elected; the end of the Great Interregnum.
-- 1273 Thomas Aquinas, having studied under Albertus Magnus, completes the *Summa Theologiae.*
-- 1274 Death of Thomas Aquinas.
-- 1275 Gathering of Twelve Years at Crintera.
-- 1277 Rhine Tribunal Gathering of 1416 AA.
-- 1278 The Battle of the Marchfeld Rudolf I defeats King Otakar of Bohemia near Vienna and claims the duchies of Austria and Styria.
-- 1280 Death of Albertus Magnus.
-- 1284 The Pied Piper of Hamelin miraculously leads away first the city's rats and then (after he is given no payment) the city's children with his magical flute.
-- 1284 Rhine Tribunal Gathering of 1423 AA.
-- 1287 Gathering of Twelve Years at Crintera.
-- 1288 Cologne becomes a Free Imperial City.
-- 1289 Rudolf I restores order to Thuringia at the Diet of Erfurt.
-- 1291 Rhine Tribunal Gathering of 1430 AA.
-- 1291 Death of Rudolf I; he is succeeded by Adolf of Nassau.
-- 1294 Nineteenth Grand Tribunal of the Order of Hermes.
-- 1298 Rhine Tribunal Gathering of 1437 AA.
-- 1298 Adolf is deposed and Albrecht, son of Rudolf I, is elected. Albrecht I defeats and slays Adolf at the Battle of Göllheim in the Palatinate.
-- 1299 Gathering of Twelve Years at Crintera.
+1225 Frederick II marries Isabelle of Brienne, heiress to the kingdom of Jerusalem, in Brindisi.
+
+1225 Engelbert I, archbishop of Cologne, is murdered.
+
+1226 Lübeck becomes a Free Imperial City.
+
+1227 Frederick II is excommunicated for delay in embarking on crusade (he and his army are struck with fever). The Danish king Valdemar II is defeated; Holstein and Pomerania return to the Holy Roman Empire.
+
+1227 Rhine Tribunal Gathering of 1366 AA, held a year earlier than usual to accommodate the Grand Tribunal next year. Gathering of Twelve Years at Crintera.
+
+1228 The Sixth Crusade. Frederick's lands in Italy are invaded by Pope Gregory IX.
+
+1228 Seventeenth Grand Tribunal of the Order of Hermes.
+
+1229 Frederick II is crowned king of Jerusalem.
+
+1230 The Treaty of San Germano Frederick II and the Pope are reconciled; the emperor is absolved.
+
+1235 Frederick II returns to Germany with a varied retinue of Moors and other foreigners, and a menagerie of exotic animals. He marries the English princess Elizabeth at Worms, and imprisons his rebellious son Henry. The Peace of Mainz — promulgation of the Laws of the Empire by Frederick II, the first imperial law in the German language. An imperial court is established and restrictions are placed on the right of private feuds.
+
+1235 Rhine Tribunal Gathering of 1374 AA.
+
+1237 The Livonian Order of the Knights of the Sword is reprimanded and subsumed into the Teutonic Order, after numerous excesses in Baltic lands. The Mongols attack and conquer much of eastern Europe. The Teutonic Order, seizing on the weakness of the Russians, attacks them from the west.
+
+1239 Pope Gregory IX excommunicates Frederick II for the second time, labeling him a heretic and beast of the apocalypse.
+
+1239 Gathering of Twelve Years at Crintera.
+
+1240 The Teutonic Knights conquer Prussia.
+
+1241 The Treaty of Hamburg and Lübeck is signed, marking the beginning of the Hanseatic League; in subsequent decades they are joined by many other northern cities.
+
+1242 Rhine Tribunal Gathering of 1381 AA.
+
+1243 Famine and a plague of rats spread across Germany.
+
+1245 Frederick II is deposed by order of Pope Innocent IV. Frederick's son Conrad struggles to retain control in Germany; the Church is divided between loyalty to the Pope and to Frederick.
+
+1248 Cologne begins construction of a mighty new cathedral, which will be a more fitting home for the Relics of the Three Magi.
+
+1249 Rhine Tribunal Gathering of 1388 AA.
+
+1249-1252 The Seventh Crusade.
+
+1250 Frederick II dies in Florentina in Italy. He is succeeded by his son Conrad IV. Aachen and Erfurt become Free Imperial Cities.
+
+1251 Gathering of Twelve Years at Crintera.
+
+1254 Death of Conrad IV; the Great Interregnum (a period of nineteen years in which the imperial throne remains empty) begins.
+
+1254 The right to appoint the German king is by now restricted to seven Electors (Kurfürsten): the archbishops of Mainz, Cologne, and Trier, the king of Bohemia, the duke of Saxony, the Count Palatine of the Rhine, and the margrave of Brandenburg.
+
+1254 The Rhine League is formed an alliance of cities which successfully attacks a number of robber baron castles along the Rhine Gorge. The League supports the claim of William of Holland to the throne, but he dies two years later battling the Friesians.
+
+1256 Rhine Tribunal Gathering of 1395 AA.
+
+1257 Electors are divided between Richard of Cornwall and King Alfonso of Castile. In the absence of Alfonso, Richard is crowned in Aachen.
+
+1258 Crops fail in Germany; famine and disease follows. The flagellant movement arises as a result, the members of which conduct self-flagellation to atone for the sins for which God is punishing them.
+
+1261 Eighteenth Grand Tribunal of the Order of Hermes.
+
+1263 Rhine Tribunal Gathering of 1402 AA, Gathering of Twelve Years at Crintera.
+
+1267 Death of Tannhäuser.
+
+1270 The Eighth Crusade.
+
+1270 Rhine Tribunal Gathering of 1409 AA.
+
+1273 Rudolf I of Hapsburg is elected; the end of the Great Interregnum.
+
+1273 Thomas Aquinas, having studied under Albertus Magnus, completes the *Summa Theologiae.*
+
+1274 Death of Thomas Aquinas.
+
+1275 Gathering of Twelve Years at Crintera.
+
+1277 Rhine Tribunal Gathering of 1416 AA.
+
+1278 The Battle of the Marchfeld Rudolf I defeats King Otakar of Bohemia near Vienna and claims the duchies of Austria and Styria.
+
+1280 Death of Albertus Magnus.
+
+1284 The Pied Piper of Hamelin miraculously leads away first the city's rats and then (after he is given no payment) the city's children with his magical flute.
+
+1284 Rhine Tribunal Gathering of 1423 AA.
+
+1287 Gathering of Twelve Years at Crintera.
+
+1288 Cologne becomes a Free Imperial City.
+
+1289 Rudolf I restores order to Thuringia at the Diet of Erfurt.
+
+1291 Rhine Tribunal Gathering of 1430 AA.
+
+1291 Death of Rudolf I; he is succeeded by Adolf of Nassau.
+
+1294 Nineteenth Grand Tribunal of the Order of Hermes.
+
+1298 Rhine Tribunal Gathering of 1437 AA.
+
+1298 Adolf is deposed and Albrecht, son of Rudolf I, is elected. Albrecht I defeats and slays Adolf at the Battle of Göllheim in the Palatinate.
+
+1299 Gathering of Twelve Years at Crintera.
+
+
 
 ## *Appendix C: Bibliography*
 
@@ -4985,9 +5194,9 @@ These works were referred to in writing this supplement, and may be of use to th
 
 #### **GENEALOGY**
 
-Obsidian, B. *Regnal Chronologies - Germany*: http://www.hostkingdom.net/germany.html
+- Obsidian, B. *Regnal Chronologies - Germany*: http://www.hostkingdom.net/germany.html
 
-*German Genealogy*: http://www.genealogienetz.de/genealogy.html
+- *German Genealogy*: http://www.genealogienetz.de/genealogy.html
 
 #### **MYTHS AND LEGENDS**
 
@@ -5013,5 +5222,4 @@ Obsidian, B. *Regnal Chronologies - Germany*: http://www.hostkingdom.net/germany
 - Gardner, R., Gaston, N., and Masson, R. *Tolling the Rhine in 1254 - Complementary Monopoly Revisited*: http://www.indiana.edu/~workshop/papers/gardner\_102802.pdf
 
 - *LEO English-German Dictionary*: http://dict.leo.org/
-
 
