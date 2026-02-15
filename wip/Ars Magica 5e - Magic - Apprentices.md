@@ -1,6 +1,6 @@
 
 
-# *Credits*
+# Credits
 
 **AUTHORS:** Matt Ryan with Erik Dahl
 
@@ -46,7 +46,7 @@ Copyright 2012 Trident, Inc. d/b/a Atlas Games. All rights reserved. Reproductio
 - £ä\Ê£xnÇn£ÓnÇÊÊUÊÊ- £Î\ÊÇn£xnÇn£ÓnÎ
 
 
-# *Contents*
+# Contents
 
 | I. Introduction                  | 5 | Bastard<br><br>9              | Know-It-All<br>11                  |
 |----------------------------------|---|-------------------------------|------------------------------------|
@@ -65,7 +65,7 @@ Copyright 2012 Trident, Inc. d/b/a Atlas Games. All rights reserved. Reproductio
 | Virtues & Flaws9                 |   | Inconspicuous<br>11           | A STANDARD APPRENTICESHIP15        |
 | Apprentice<br>9                  |   | Infatuation<br><br>11         |                                    |
 
-# *List of Inserts*
+# List of Inserts
 
 | Aging Chart<br>7                      |
 |---------------------------------------|
@@ -216,15 +216,15 @@ Houses of
 | SCHOLAE<br>MAGICAE63               |    |
 
 
-## *Chapter One*
+## Chapter One
 
-# *Introduction*
+# Introduction
 
 Welcome to *Apprentices*, a supplement for **Ars Magica Fifth Edition**. Every magus, regardless of House, begins his magical career as an apprentice, and this supplement focuses on that time in a character's life. While power and prestige may await him, an apprentice's life can also be tiring and unglamorous. He is surrounded by his studies reading, writing, the seven liberal arts, the practice of spellcasting, and the intricacies of enchantments — and is regularly subjected to noisome work and tedious labor. Living within a covenant, an apprentice also plays with his friends, explores the wondrous magical and medieval world of Mythic Europe, and unavoidably gets into trouble.
 
 *Apprentices* also includes guidelines and stories for other child characters as well — unGifted boys and girls with different backgrounds. The sons and daughters of the covenant's inhabitants, children are a natural manifestation of any long-running saga. Grog and companion-level child characters are the playmates, friends, enemies, and antagonists of apprentices, and can be as important as they are. Descriptions of childhood during the medieval period provide the stage for these characters, who await your troupe's imagination to scamper through their own adventures.
 
-# *Stories About Children*
+# Stories About Children
 
 The legends of Mythic Europe include many stories about children. As a child, Merlin saw the underground battling dragons that were preventing King Vortigern from building his castle, thereby saving his own life and preparing the way for Uther Pendragon. King Arthur, Herakles, and Cú Chulainn are other famous examples. The stories of their childhood are every bit as dangerous and exciting as those told about their adult lives. *Apprentices* will help you craft similar stories for your players' characters' childhoods.
 
@@ -232,7 +232,7 @@ Remember that your group is telling stories about children, not for children. As
 
 If your adventure is for child characters exclusively, you need to think about the consequences of the players failing. It is much easier to fail as a child than as an adult character. Child characters have low Ability scores and suffer an aging modifier to their Characteristics. Keep this in mind when you design adventures. Be aware that your players' child characters will fail. That is part of childhood. While you may want grim consequences, you might also want less severe results. Such failures naturally lead to more roleplaying adventures. For example, rather than a dragon incinerating a helpless child, the beast commands the child to clean its cave. Who knows what he will find in the fiend's lair?
 
-# *Ages of Man*
+# Ages of Man
 
 Medieval thinkers like to classify things, and the human life cycle or "the ages of man," is included in the
 
@@ -241,7 +241,7 @@ vast repertoire of categorized items. Originating from the pens of pagan writers
 
 The ages of man are apt titles for the different stages of life. Younger characters are more accurately identified by their age of man category: an infant character is between birth and seven years old, a child character between eight and 14, and an adolescent character between 15 and 21. Between each stage of life is a liminal period, when a character can change, transitioning from one stage to the next. The transformational period allows a player to modifier his character, changing Virtues and Flaws that no longer accurately describe the character.
 
-# *How to Use This Book*
+# How to Use This Book
 
 *Apprentices* focuses on child characters by providing opportunities for them in play, showing how infants, children, and adolescents can have important roles in the daily functions of your covenant. New rules are kept to a minimum and are used to cover specific events and opportunities found when playing a young character. Because there are several nuances to creating a younger character, chapter two is devoted entirely to that task. **Inherited** and **Child Virtues and Flaws** are new types of Virtue and Flaw allowed only to young characters.
 
@@ -254,9 +254,9 @@ Chapter 5: Adolescentia describes ages 15 through 21, the core of Hermetic appre
 One final caveat: situations will occur in which you and your troupe must decide how to apply the information contained in this supplement to rules found in other **Ars Magica Fifth Edition** products. Every character has had a childhood and the childhood rules can be used for every character in Mythic Europe, but how that specifically happens depends on the character, her location, and her role in your stories. Learned Magicians, Muspelli, diabolists, spirit votaries, and faerie doctors all had childhoods, but a volume of this size cannot address all of the issues that arise when addressing specific concerns with the panoply of non-Hermetic traditions that exist in Mythic Europe. Use *Apprentices* as a guide to further the enjoyment of your adventures in Mythic Europe.
 
 
-## *Chapter Two*
+## Chapter Two
 
-# *Creating Young Characters*
+# Creating Young Characters
 
 Creating characters younger than adults is similar to creating adult characters: a player starts with a concept and then selects game specific attributes to define the character in play. Example childhoods are provided for those desiring assistance. Because children interact with the game world differently from adult characters, many of these attributes — Characteristics, Virtues & Flaws, Abilities, etc. — need adjusting when applied to young characters.
 
@@ -266,15 +266,15 @@ It is natural, although not nec-
 
 essary, to foresee a desired end for a child character's growth. While I might be creating a knight's son as my character, I ultimately envision the character as a knight when he comes of age. Players who enjoy such forecasting can influence a character's future development by guaranteeing predetermined Virtues and Flaws (see Inherited Virtues and Flaws later in this chapter). Discuss with your troupe how you see these Virtues and Flaws developing, and ask their assistance in steering the character along this path. Besides predetermined Virtues and Flaws, there are methods that allow your young character to change as he grows into an adult. There are also set stages that allow you to change your character if he has not developed to your liking, changing the character so he more accurately reflects your vision of him.
 
-# *General Characteristics*
+# General Characteristics
 
 Child characters are most obviously distinguished from adult characters by factors derived from their age and size. To be sure, some of these factors are disadvantages to adventuring in Mythic Europe, but even the greatest weakness can be the source of drama for your troupe.
 
-## *Age*
+## Age
 
 One of the most important decisions when creating a young character is selecting his starting age. Choose the life stage that you would most like your character to explore: infancy, childhood, or adolescence. Any age is allowable, but some will be more challenging than
 
-## *Aging Chart*
+## Aging Chart
 
 In the chart below, apply the Characteristic Modifier to all of the character's Characteristics.
 
@@ -299,11 +299,11 @@ others. Characters younger than 14 have penalties applied to Characteristics and
 
 A character's starting age also determines the number of starting experience points, as detailed later.
 
-## *Characteristics and Size*
+## Characteristics and Size
 
 Like adult characters, younger characters have 7 points allocated toward Characteristics, with Virtues and Flaws adding or subtracting points from that total. A score of 0 represents an average Characteristic for the character's age group. Once determined, Char-
 
-## *Example Childhoods*
+## Example Childhoods
 
 The following Ability packages describe how to spend the 45 experience points a character has accumulated by age 5, to speed up character creation. Most of them come from **Ars Magica Fifth Edition**, though there are some additions.
 
@@ -330,7 +330,7 @@ The following Ability packages describe how to spend the 45 experience points a 
 
 acteristics for young characters are negatively adjusted because of age. Use the accompanying Age Chart to determine a character's Characteristic Modifier and Size Modifier. The character will eventually outgrow both penalties as he ages.
 
-## *Virtues & Flaws*
+## Virtues & Flaws
 
 A character's age has no bearing on the number of Virtues and Flaws allowed. Like their adult counterparts, younger characters have a number of Virtues and Flaws determined by the type of character. Young grogs can have up to three points of Virtues and Flaws, and young companions and apprentices can have up to ten. Many existing Virtues and Flaws are appropriate for younger characters, although some need to be modified to better suit them.
 
@@ -340,13 +340,13 @@ At character generation, the number of Virtues must equal the number of Flaws. T
 
 Characters do not have to have the maximum number of Virtues
 
-## *Changing Social Status*
+## Changing Social Status
 
 Social Status Virtues and Flaws are likely to change during the course of play. Since a child usually follows her parent's vocation, most of these changes are minor. Son of Peasant becomes Peasant when the character comes of age. Sometimes, the change is more dramatic and requires a completely different Social Status Virtue or Flaw than was previously possessed. For example, a young squire (Minor Virtue: Son of Knight) kills a priest and becomes an outlaw (Major Flaw: Outlaw). In such cases, simply change the Social Status Virtue or Flaw. You do not need to change other Virtues and Flaws, nor do you need to re-balance the character's total allotment of Virtues and Flaws to account for the change.
 
 and Flaws allowed by charactertype, and you may always choose fewer Virtues and Flaws than your character is allowed.
 
-## *Social Status Virtues & Flaws*
+## Social Status Virtues & Flaws
 
 Every character needs a Social Status Virtue or Flaw. In most cases, a child follows the vocation of his father, a long standing tradition developed from the legal practices of the old Roman Empire. When a child's parent is socially recognized, the child character has the same Social Status Virtue or Flaw. Designate the Social Status Virtue or Flaw as, "Son of (Social Status)" or "Daughter of (Social Status)." The child has similar privileges and opportunities to the parent, and the same social limitations. The child of covenfolk would have the Free Social Status Virtue: Son of Covenfolk.
 
@@ -373,7 +373,7 @@ The child's parents are unknown or deceased. Someone else serves as the child's 
 If the character starts play as an apprentice, he has the Free Social Status Virtue: Apprentice.
 
 
-## *Virtues That Grant Experience Points*
+## Virtues That Grant Experience Points
 
 Some Virtues, like Warrior and Educated, give characters additional experience points by indicating that the character had a past that warrants such a boon. A younger character's past is not extensive enough to account for these experiences and such Virtues are prohibited for characters created younger than 14.
 
@@ -381,7 +381,7 @@ Both the Skilled Parens Virtue and the Weak Parens Flaw make assumptions about t
 
 The Skilled Parens Virtue and Weak Parens Flaw are prohibited if the apprentice character's sources of instruction, including parens, covenant, and library, have stats. If the parens is not detailed, perhaps an NPC without stats, then the Virtue or Flaw may be selected. A Skilled Parens has a Teaching Source Quality of 19, and teaches an apprentice Abilities and Arts 12 times (1 season for 12 years). He also has a highest applicable Lab Total of 50 and teaches the apprentice spells three times (one season for three years). A Weak Parens has a Teaching Source Quality of 8 and a highest applicable Lab Total of 30 for teaching spells.
 
-## *Virtues & Flaws That Affect Size*
+## Virtues & Flaws That Affect Size
 
 All human babies are born Size –3. A normal baby grows to Size 0 by age 14, but not everyone is normal in Mythic Europe. Some characters are smaller or larger than their peers.
 
@@ -389,7 +389,7 @@ During the first year, a baby who will become larger or smaller than normal grow
 
 Characters who are smaller than normal remain stunted, and while her playmates grow in size, she does not. Continually adjust a smaller character's Size downward, keeping in mind that a human baby cannot be smaller than Size –3. This means that smaller characters remain smaller during their childhood. A character with the Flaw Small Frame, for example, will stay Size –3 until he is 12, when he changes to Size –2. A Dwarf stays Size –3 until he is 14, when he becomes Size –2.
 
-## *Inherited Virtues & Flaws*
+## Inherited Virtues & Flaws
 
 In a general sense, Virtues and Flaws denote a character's strengths and weaknesses. A child character may not have developed such strengths and weaknesses at the point in life at which the player creates him. That is, the player wants the character to develop in a certain way, but wants to play the character before those developments manifest. **Inherited Virtues and Flaws** allow the player to create that situation. Only magus and companion characters can start play with Inherited Virtues and Flaws.
 
@@ -403,7 +403,7 @@ cal event that triggers the Virtue or Flaw manifesting. "Inherited" merely means
 
 All Inherited Virtues and Flaws must materialize by adulthood (age 21). They can manifest at any age, either through player decision — "I want this to happen when Rufus is 10" — or in response to a gaming session — "That was a very fun encounter and would explain Rufus' growth spurt; let's do it!"
 
-## *Child Virtues & Flaws*
+## Child Virtues & Flaws
 
 Characters age 20 and younger can select **Child Virtues and Flaws**, a new type of Virtue and Flaw that reflects childhood boons and banes that are outgrown by adulthood. If you select a Child Virtue or Flaw for your character, you must exchange the Child Virtue or Flaw for another Virtue or Flaw of like value (Minor for Minor, Major for Major) during one of the Transitions of Maturation (see later).
 
@@ -479,7 +479,7 @@ Some supernatural agent — Divine, Infernal, Faerie, or Magic has granted the c
 
 This Flaw is only available for Gifted characters. Whenever you roll a potential botch on a magical activity, whether or not you actually botch, you must also check for turbulence (explained in the next chapter). The character cannot attempt to control this turbulence, as he focuses on preventing the potential calamity represented by the botch dice. The effects of turbulence are always bad.
 
-## *New Flaws*
+## New Flaws
 
 These Flaws are appropriate for both children and adult characters.
 
@@ -532,13 +532,13 @@ How The Gift returns should be decided by the storyguide. Examples are surviving
 
 The troupe should consider carefully how the character will fit into the saga. If he replaces a player's magus, he has a very serious Flaw. If he replaces a companion, he will become much more powerful when the Story Flaw is resolved. Either approach can work, with care.
 
-# *Abilities*
+# Abilities
 
 Each character gains a number of experience points for Abilities depending on the character's starting age. After 5 years of age, the character gains 15 experience points a year. Those with the Wealthy Virtue receives 20 experience points per year, and a character with the Poor Flaw receives 10. These can be spent on any Ability the character currently has, General Abilities logical for such a character to have, and Abilities allowed him by his selected Virtues. If the child character has a Supernatural Ability, the player may spend experience points to increase its score.
 
 A Gifted character may possess a Supernatural Ability without the corresponding Supernatural Virtue. The player simply selects a Supernatural Ability for the character. This is an option, not a requirement; many Gifted children
 
-## *Optional Rule: Abilities for Infants*
+## Optional Rule: Abilities for Infants
 
 Most characters will begin play after five years of age, the player having selected an example childhood or created an equal childhood. For players who want to make a character who is five years old or younger, use this optional rule to determine how many experience points he receives. For each of the first five years of a character's early childhood, he receives 24 experience points per year. 15 of these yearly experience points must be spent on a Living Language, typically the child's parent's native language, but situations could exist where a second or third Living Language receives experience points. The remaining 9 experience points must be spent in Area Lore, Athletics, Awareness, Brawl, Charm, Folk Ken, Guile, Stealth, Survival, Swim, or any Supernatural Ability the character may have due to a Supernatural Virtue or The Gift.
 
@@ -551,11 +551,11 @@ If you are making an apprentice character midway in his career, use the standard
 
 A character's Ability scores are limited by his age; young characters have a maximum Ability score of 5 (**ArM5**, page 31). Hermetic Arts are not limited by age.
 
-# *Transitions of Maturation*
+# Transitions of Maturation
 
 There are three liminal stages that every young character goes through, during which the controlling player may change Virtues and Flaws. These stages appear between the ages of man, when a person steps from one age into the next. The first transitional stage is between ages 7 and 8, when a character stops being an infant and becomes a child, the second between ages 14 and
 
-## *More Powerful than Normal*
+## More Powerful than Normal
 
 It is conceivable, and even probable, that creating a young Gifted character and advancing him season by season using the rules in this supplement will result in a character more powerful than a magus created using only the main rules found in **Ars Magica Fifth Edition**. This need not be the case, and that decision lies with your troupe and how far they want to deviate from the standard apprenticeship.
 
@@ -579,7 +579,7 @@ Virtues and Flaws that reflect a character's background are only allowed if the 
 
 On paper, these changes are instantaneous and the character is immediately recalculated if necessary. Make the change during the first season of the year of the age of man that the character is entering: 8, 15, and 21. While not as immediate as on paper, in game this change still happens quickly. A sudden growth spurt or unnatural knack with a particular skill set is fairly natural, especially for children in Mythic Europe. It takes roughly a season for the change to occur, and others will notice that the child is going through a dramatic, but not unnatural, change.
 
-## *A Standard Apprenticeship*
+## A Standard Apprenticeship
 
 Most Gifted, Hermetic characters are created as magi, starting play after their apprenticeship. *Apprentices* allows players to create younger characters, who begin play during or even before apprenticeship. Because this process is dynamic, allowing a multiplicity of starting points, *Apprentices* offers a model for a standard apprenticeship that can
 
@@ -596,9 +596,9 @@ In the first year, the parens Opens the Arts, so the apprentice gains Exposure e
 
 During the final three years, the parens teaches the apprentice spells. To teach 120 levels of spells in three years the apprentice's parens needs a highest applicable Lab Total of 40. Thus, each year the apprentice gains 40 experience points to spend on spells. As learning spells is a Laboratory Activity, the apprentice gains 2 experience points from exposure in every season, for a total of 8 over the year. At the end of the final three years, the apprentice has gained 120 spell levels and 24 experience points. The grand total of 15 years of apprenticeship using this model is 241 experience points and 120 spell levels.
 
-## *Chapter Three*
+## Chapter Three
 
-# *Infantia: Birth to Age 7*
+# Infantia: Birth to Age 7
 
 *She urged all that was possible to divert me from marriage — that it was a bond always fatal to a philosopher; that the cries of children and the cares of a family were utterly inconsistent with the tranquility and application which study require.* 
 
@@ -606,11 +606,11 @@ During the final three years, the parens teaches the apprentice spells. To teach
 
 Why did people have children in the 13th century? To extend a family name or inheritance, to increase the pool of personal labor, to guarantee a caregiver for one's waning years, or as a natural consequence of the bliss of copulation? Perhaps this and more, but planned or unplanned, prepared or unprepared, people regularly had children. Historically, the 13th century experienced a slight population growth.
 
-# *The First Years*
+# The First Years
 
 Even the tale of how an infant enters the world of Mythic Europe has story potential.
 
-## *Birth and Blessing*
+## Birth and Blessing
 
 A number of rituals and practices surround the birth of a new baby, all of which are designed to mitigate the inherent risks of childbirth and the first years of life.
 
@@ -644,13 +644,13 @@ Some children are born out of wedlock, either from an unmarried mother or a unio
 
 mother and child have a negative reputation in their community. The child cannot inherit or own property, unless legally recognized by the father. Sometimes bastards are convenient. Because bastards cannot inherit property, noble fathers view their illegitimate sons as loyal warriors who cannot interfere with their recognized heirs. This is successful to a degree, but easily leads to entanglements and succession struggles. Illegitimate urban children are raised in hospitals, the medieval equivalent of orphanages, where free hospitality is offered to the poor and indigent. Some are abandoned, left at crossroads or on church porches. If the mother hopes someone will find and raise the child, she leaves a small packet of salt with the child.
 
-## *Early Childhood*
+## Early Childhood
 
 Raising children is seen as woman's work in the 13th century. Noble and wealthy women have a female staff to help raise the children, and nurses, wet nurses, and rockers women hired to rock the cradle are common jobs. A peasant woman fills all these roles herself, as well as doing her other household chores. Childhoods are surprising similar for people within the same ethnic and socio-economic group.
 
 An infant is usually walking within four or five seasons. Once mobile, children invariably begin playing, a necessary activity for them to develop into well-adjusted, capable adults. The most common type of play is mimicking adults, copying adult behavior and
 
-## *Companion: Noble Child*
+## Companion: Noble Child
 
 **Characteristics:** Int +1, Per –1, Pre 0, Com –3, Str +1, Sta +2, Dex +3, Qik +2 (–4 Characteristic modifier due to age)
 
@@ -694,12 +694,12 @@ activities as best as a child is able. Toys are always popular, as are dolls, ca
 
 Once they are more adept physically, games like ball games, athletic events, and throwing games are extremely popular with boys and girls. Well-to-do children also play games that strengthen their mental capabilities: chess, backgammon, and dice.
 
-# *Born with The Gift*
+# Born with The Gift
 
 The Gift may or may not be inheritable, and each troupe must to determine for themselves the likelihood of Gifted parents birthing a Gifted baby. **Ars Magica Fifth Edition** makes no definitive statement either way, but the implied default setting is that The Gift is completely random. If heredity influences the matter then a Gifted parent increases
 
 
-## *Apprentice: Foundling Child*
+## Apprentice: Foundling Child
 
 **Characteristics:** Int +3, Per 0, Pre +1, Com +2, Str 0, Sta +1, Dex –2, Qik –1 (–4 Characteristic modifier due to age)
 
@@ -743,7 +743,7 @@ Hermetic magi have been known to procreate, in the hopes that their offspring wi
 
 It is unlikely that a player will play a newborn character and more likely that the players' characters will interact with a Gifted baby. Most of the time this isn't any different to interacting with a mundane baby, although low level Turbulences (see later) might frequently occur. As mentioned, curious supernatural agents may become involved.
 
-## *Gifted Babies*
+## Gifted Babies
 
 The Gift is not always present at birth (see later), but if it is present than the Gifted infant has a much rougher time than its mundane peers. The negative social influence of The Gift permeates every relationship in life, both intimate and incidental. Long-term association can override these negative social reactions, but that does not guarantee
 
@@ -751,17 +751,17 @@ The Gift is not always present at birth (see later), but if it is present than t
 
 loving parents. A mother might love her Gifted baby, or she might be immediately repulsed by the newborn. Babies with the Blatant Gift are often destroyed or abandoned. Even babies with the regular Gift can be seen as a curse, and grudgingly raised from Christian charity rather than parental affection. It all depends on your players and how they see their character's background. A Gifted child abandoned two hours after birth and raised by a group of magical wolves is just as viable as a Gifted child who is loved and protected by his mother and father.
 
-## *The Gift Revealed*
+## The Gift Revealed
 
 Sometimes The Gift is subtle and difficult to detect. An infant with the Gentle Gift might never be
 
-## *Story Seed: Fetch the Baby*
+## Story Seed: Fetch the Baby
 
 One of the covenant's magi hears of a child whom she suspects is Gifted, based on reports of spontaneous fires igniting in the child's presence. The village is day's walk distant so she sends a group of grogs, the player characters, on a simple mission: retrieve the newborn. Upon arrival, the baby has incinerated its parent's hut and angered the villagers, who are on the verge of burning the baby and its parents as witches. Even if the grogs can save the family and convince them to bring the baby to the covenant, the return journey is anything but easy. Small fires continue to ignite and draw the irate attention of the valley's faerie folk, who strike back at the travelers. Meanwhile an Infernal hawk follows the party, hoping to snatch the baby away while the grogs are not paying attention. Can the players return from such a "simple" mission?
 
 noticed, while a newborn with the Blatant Gift might be instantly and correctly cataloged. The Gift reveals itself in several unpredictable ways. Sometimes it is evident at birth, other times it is triggered by puberty or an early traumatic event. It can also linger in a child well into adulthood. The sooner The Gift appears, the earlier a child can be discovered and begin her Hermetic training. The most difficult days of a
 
-## *Story Seed: An Introductory Adventure*
+## Story Seed: An Introductory Adventure
 
 The largest town in the area is having a holiday, and folks from near and far attend. Hundreds of children have come, including the player characters. Each player should have a six or sevenyear-old infant character. One or two players should have Gifted infants, although their Gift has not revealed itself yet. During the festivities, a game of football commences in a nearby field, and the children begin kicking an inflated pig's bladder around. As the game builds in excitement, one of the Gifted children undergoes her first Turbulence, which is an especially visual display that interrupts the game. The generated fear that surges through the crowd forces the second (and other) Gifted character to have a Turbulence, at which point fear runs rampant.
 
@@ -775,11 +775,11 @@ Gifted child's life are those between the time her Gift manifests and the time s
 
 The negative social consequences of The Gift accompany its emergence. As soon as a child's Gift presents itself, she suddenly finds herself shunned by her peers and village members. Even loving and dutiful parents can be affected, as The Gift pushes them away from the magical child. Friends depart and life becomes lonely and fraught with suspicious looks, secret accusations, and sometimes open hostility. While the Church forbids abandoning children, some Gifted children are still left in the wilderness to fend for themselves, and abandonment is an especially large risk for a Gifted infant.
 
-## *Turbulence*
+## Turbulence
 
 Many infants are emotionally volatile, having outbursts and temper tantrums over the smallest things. This otherwise normal behavior can lead to complications for a Gifted child, given his inherent magical ability. Intense emotional displays, or situations of heightened stress, can lead to unwanted and uncontrollable magical displays. A temper tantrum could cause a nearby book to ignite; a sudden scare might cause a rain cloud to form and burst in a room; or a bully's attack could result in the assailant being propelled through the air in the opposite direction. Hermetic magi refer to these displays as **Turbulences** (Latin *turbula,* plural *turbulae*): a child's uncontrolled Gift lashing out and affecting the child or other nearby targets.
 
-## *Incurring a Turbulence*
+## Incurring a Turbulence
 
 Whenever a Gifted character botches a stressful activity that includes magic, he runs the risk of incurring a Turbulence. "That includes magic" can be taken literally or loosely. The troupe should decide how tightly they want to adhere to this rule, and whether the storyguide has a free hand in deciding when a child should check to incur a Turbulence. Some storyguides might decide that being in a supernatural aura or regio is enough to warrant a Turbulence check, while others might insist that the botch result from an activity using a Supernatural Ability. Discuss this with your troupe so that you all know when a Turbulence check will be made. The troupe must also decide if incurring a Turbulence replaces the botch, or is in addition to whatever else might happens due to the botched roll. For younger characters, it is suggested that a Turbulence replace the botch, so as not so slow down the game.
 
@@ -795,11 +795,11 @@ Age is also an important factor. If the player's roll is less than or equal to t
 
 *Exempli Gratia: Erik's seven year old character, Eleanor, uses her Supernatural Ability: Magic Sensitivity to see if a rock she found is magical. Erik botches the roll and must roll to incur a Turbulence. Eleanor Intelligence is +3, modified to –1 due to age. She is standing in a Magic Aura of 2. Erik rolls a stress die (9) + Intelligence (– 1) + Aura (2) for a total of 10. The storyguide's stress die roll is 6. Erik's roll is higher than the storyguide's roll and higher than Eleanor's age, so Eleanor incurs a Turbulence.*
 
-## *Controlling Turbulences*
+## Controlling Turbulences
 
 If a Turbulence occurs, the character tries to control it. This is similar to adult magi controlling Temporary Twilight. The player rolls an Stamina + stress die against the character's Warping Score + stress die. If the first roll is greater than the second, the character controls the Turbulence. If the first roll is less than or equal to the second roll, the character fails to control the Turbulence.
 
-### *Apprentices*
+### Apprentices
 
 **CONTROLLING A TURBULENCE: Stamina + stress die vs. Warping Score + stress die**
 
@@ -813,7 +813,7 @@ A Turbulence usually manifests as a low magnitude magical effect, although more 
 
 **UNCONTROLLED TURBULENCE MAGNITUDE: Warping Score + stress die total – Stamina + stress die total/2**
 
-## *Effects of Turbulence*
+## Effects of Turbulence
 
 Turbulences can manifest as any combination of Technique and Form, sometimes influenced by the character's Virtues and Flaws, but not always. If the character has an Affinity or Puissant Art, that Art is a good choice. However, the storyguide may choose any Art combination she likes. Despite Bonisagus' achievements, magic is not scientific and cannot be absolutely controlled. The only predictable fact of magic is that it is unpredictable.
 
@@ -834,17 +834,17 @@ Turbulence episodes get fewer and further between as the character grows older. 
 
 You'll need to decide how this affects your game in play. You won't be rolling for Turbulences when time is passing in the background, so it ultimately won't matter when going season-to-season. If an adventure happens in the covenant, a Gifted character won't be able to do much magically without an invitation token, which would logically be the character's first order of business before continuing the adventure. Players don't need to actively avoid Turbulences, and should view them as a fun consequence of playing an emotional, untrained child.
 
-## *Turbulences and the Aegis of the Hearth*
+## Turbulences and the Aegis of the Hearth
 
 Because your saga probably takes place in an Hermetic covenant, you need to know how a Turbulence interacts with the covenant's *Aegis of the Hearth*. Essentially, treat the Turbulence like any other magical effect. If the child incurring the Turbulence participated in the *Aegis of the Hearth* spell, then the Turbulence is not hindered by the *Aegis.* If the child didn't participate in the *Aegis*, then the Turbulence is affected, and likely won't happen. Subtract half the level of the *Aegis of the Hearth* spell from the roll the player makes to incur a Turbulence. There is still a chance that the Turbulence happens, but it is very slim.
 
 Magi debate whether apprentices who still suffer Turbulences should participate in the *Aegis* ritual. An apprentice must be able to work magic, and her regular practicing of low-level spells and spontaneous effects would be crippled by even the weakest *Aegis*. Learning an Art means that the student practices it during instruction, which necessitates the casting of low-level spontaneous spells. Some magi argue that an apprentice should be given an invitation token, like a visiting magus, which can be taken away at will, allowing only specific times during which the apprentice can cast spells and practice magic. At other times, when he doesn't have an invitation token, the apprentice can't practice magic and can't incur Turbulences.
 
-# *Infant Characters and Stories*
+# Infant Characters and Stories
 
 Playing an infant character is challenging. There are almost no roleplaying opportunities for babies, and only a few for toddlers and the very young. No one is going to ask the four year old to save the covenant from the invading Mongols!
 
-## *Character Design Notes*
+## Character Design Notes
 
 Negative Characteristic and Size modifiers from age make an infant character extremely fragile. Because his Stamina is modified by age, his Soak is low, and his small
 
@@ -860,7 +860,7 @@ Despite the challenges, playing an infant allows a player to stumble through his
 
 trampled, and adult characters usually laugh off social faux pas made by the child. Players can enjoy the looseness infancy offers. Their characters focus on play instead of work, and regularly disregard their responsibilities.
 
-## *Infant Stories*
+## Infant Stories
 
 Mythic Europe is a place of wonder. Civilization — either a village, castle, or covenant — offers a cornucopia of new and intriguing experiences for an infant. The wild land, the fields and forest beyond, are even more tantalizing, and the unknown adventures lying past those areas are even more enticing to an excitable child character. Everything is new, and little is familiar.
 
@@ -869,7 +869,7 @@ Lazy days of frolic rapidly pass like water down a stream. It won't be long befo
 Most stories involving infants will likely present them as storyguide characters, and include their parents or other adults. They are the objects of the adventure instead of the subjects, and are there to be watched, rescued, guarded, found, or removed. Infants are irascible and difficult to manage. They can compound a simple
 
 
-## *Grog: Blacksmith's Son*
+## Grog: Blacksmith's Son
 
 **Characteristics:** Int +1, Per –1, Pre –1, Com –1, Str +3, Sta +2, Dex +2, Qik –2 (–4 Characteristic modifier due to age)
 
@@ -911,7 +911,7 @@ become annoying.
 
 narrow escapes, solving puzzles, identifying the culprit, and saving the day. Scale and threat level are important, and should be adjusted for younger characters. Instead of slinking through an enemy camp at night, perhaps a group of infants has to sneak past the kitchen staff.
 
-## *Children and Animals*
+## Children and Animals
 
 Children have a natural inclination for animals, and even the ugliest, most obstinate mule can be an attractive focus of attention for a curious child. Animals are likewise curiously attracted to children and provide ample ideas for stories and adventures. A curious animal, such as a cat, wants to know what the child is doing; a skittish animal, like a horse, might want physical reassurance; a reckless animal, such as a hound, wants the child to come play with it; and an aggressive animal, like a bull, wants to assert its dominance over the child. Supernatural animals are also interested in infants, and such beasts are vastly more interesting than their mundane counterparts. Infants are tempting targets, especially when the parent or caregiver is otherwise distracted. Divine animals might want to offer a fast blessing, or merely enjoy the sweet smell of a breast-fed baby. Infernal animals likely want a quick snack. Faerie animals rarely miss an opportunity to interact with a child, and magic animals' curiosity is often piqued enough to investigate. Any animal with a Might score that lives in proximity to children may come calling.
 
@@ -929,11 +929,11 @@ Many supernatural animals ape the roles of their mundane counterparts, all for s
 
 Gifted infants are often more curious and traditionally more intelligent than their playmates, and might purposefully look for supernatural animals, often leaving the safety of home to wander aimlessly in pursuit of the fantastic and incredible. A Gifted infant character wouldn't be the first to try to save a donkey from an oppressive master, ask a ravenous wolf to stop preying on a flock of sheep, of help a stranded blackbird find its way back to its nest. Supernatural animals may react to the Gift differently, although many do so in the same way as mundane humans. Mundane animals suffer the same negative social reaction to Gifted youths as mundane humans.
 
-## *Story Seed: A Toddler's Tale*
+## Story Seed: A Toddler's Tale
 
 An infant character passes the day playing with a household item that her family values: perhaps the family's only ladle, her father's favorite shovel, or her mother's silver necklace. Summoned for supper, the child leaves it outside and doesn't remember leaving it behind until later, while lying in bed for the night. Fearful of the repercussions, the infant slips out of bed and dashes off to where she last saw the item. It is gone. Did faeries take it? Another child? Or did her father or mother pick it up, meaning a wake-up whipping is waiting? The child wakes his siblings, and perhaps sympathetic adults (a nanny or other covenfolk), and a midnight hunt for the item begins.
 
-## *Story Seed: Who Stole the Baby?*
+## Story Seed: Who Stole the Baby?
 
 A Gifted baby is stolen from her cradle in the night. The family's hue and cry brings the player characters (all grog-level villagers) in the morning, and the village elder charges the player characters with finding and returning the baby. The trail leads through the nearby woods and
 
@@ -941,7 +941,7 @@ into the unknown hills. Is the culprit a troll intent on eating the child, an el
 
 
 
-## *Story Seed: The Curious Cleric*
+## Story Seed: The Curious Cleric
 
 In the 13th century, a clerk named Odo of Cheriton is wandering Mythic Europe, collecting stories about animals to use as examples of proper moral behavior in his sermons. Traveling mostly in the Normandy and Rhine tribunals, he has amassed quite a collection of tales, which he has added to medieval versions of some of Aesop's fables, perhaps the greatest teller of animal stories ever. The fables are brief, the animals can always talk and regularly exhibit types of human behavior, and the tale always ends representing a moral value.
 
@@ -962,9 +962,9 @@ A wounded wolf comes to the children characters seeking justice. He and his comp
 A sparrow lands on the laboratory window sill and tells an apprentice a tale. The birds held a great congress, in which they elected the peacock as their king because of his beauty. A raven disagreed, asking if the peacock could protect the flock from attack using his beauty. The other birds overruled the raven, which flew off in a huff. The sparrow then saw the raven talking to an eagle, and he overheard the raven's plan, that the eagle attack the birds to prove that the raven was right and the peacock weak. Terrified of the attack, the sparrow asks the child for help.
 
 
-## *Chapter Four*
+## Chapter Four
 
-# *Pueritia: Ages 8 to 14*
+# Pueritia: Ages 8 to 14
 
 Childhood lasts from the ages of 8 to 14, universally regarded as the age when a child enters puberty. Transitioning from infancy, childhood is characterized by concentrated social learning and prolonged forays from the family hearth into the complicated world of adults. At this stage of life, a child is able to assist the same gender parent in daily chores, either in the household or in the field or workshop. This is the age when noble boys and girls are fostered, leaving their family home to live with
 
@@ -974,7 +974,7 @@ UnGifted child player characters are likely to be sons and daughters of covenfol
 
 Covenants provided a kinder atmosphere for Gifted children. While each individual suffers the same pangs of social revulsion engendered by a child's Gift, overall the covenfolk know about these feelings, and many become used to the child over time. Again, proximity is the issue. A covenfolk who spends most of his life outside the immediate grounds — a wood cutter, charcoal burner, or shepherd — will never get over his feelings toward the child. This same man knows which side of his bread the covenant butters, however, and will not act against the child, even though he can't stand to be in its presence.
 
-# *Growing Up*
+# Growing Up
 
 Most mundane characters learn to be adults by copying their samesex parent, both vocationally and
 
@@ -983,7 +983,7 @@ Most mundane characters learn to be adults by copying their samesex parent, both
 A parent trains his child to be his replacement. This is probably not a conscious act; most
 
 
-## *Grog: Urchin*
+## Grog: Urchin
 
 **Characteristics:** Int –1, Per –2, Pre +3, Com +3, Str –2, Sta 0, Dex +1, Qik +1 (Characteristic Modifier –2)
 
@@ -1015,7 +1015,7 @@ Schooling exists in some areas, often rudimentary lessons given by a parish prie
 
 For those outside institutional learning, most of their learning is gained through copying an instructor, often a parent. Like their parents, grog and companion characters must work for two seasons and
 
-## *Story Seed: An Unlikely Ghost*
+## Story Seed: An Unlikely Ghost
 
 While traveling through a village, a magus and his companions hear rumors of a nearby abandoned castle haunted by a ghost. The villagers avoid the site, but the rumors may induce the magus to investigate. Ghosts can be entertaining and, if it is a Magic spirit, might indicate a Magic aura. The castle is a battered shell, strewn with piles of rubble and overgrown by ivy and thorny bushes. As soon as the party begins exploring the area, the mundane members are plagued by minor magical effects. The ground shifts and causes slipping, cloaks
 
@@ -1028,7 +1028,7 @@ Growing up in a covenant is similar to growing up in a village, town, or other s
 
 Life outside the covenant is harder, especially for a Gifted child. Depending on circumstances, his parents may still love and protect him. On the other hand, they may have been driven out of town due to their peculiar child. Friends should be few for a Gifted child living outside a covenant, where playmates are at least more likely, if not guaranteed. Everything depends on the player and the troupe, and the type of tales the group wishes to
 
-## *Companion: Merchant's Son*
+## Companion: Merchant's Son
 
 **Characteristics:** Int +1, Per 0, Pre +1, Com +3, Str 0, Sta 0, Dex –1, Qik 0 (Characteristic Modifier –1)
 
@@ -1068,15 +1068,15 @@ The merchant's son is based on the Traveling Childhood sample childhood. Because
 
 tell. A Gifted child could be ostracized from society and sent to live with the local witch, who forces the child to undertake dangerous missions into the faerie forest to collect ingredients for her foul potions. A Gifted child could also live in town, avoiding the street's bullies and finding peace only in his father's house, his sole friend a boy of the same age whom he has known since birth.
 
-# *Hermetic Apprenticeship*
+# Hermetic Apprenticeship
 
 Most apprentices begin their apprenticeship during childhood. Several other magical traditions, including many hedge and rival magicians, also select an apprentice while she is a child. Once found, the apprentice accompanies her new master to her new home, where she begins her training. While this is often exciting, it can also be frightening; the child is abandoning the known world — however painful it might be — for a new world. The journey toward a new life can be very daunting. A kind magus tells the child of the companionship, community, and power that lies ahead. An unkind magus uses the apprentice as he sees fit and cares not a whit about the child's feelings.
 
-## *Story Seeds: Finding a Parens*
+## Story Seeds: Finding a Parens
 
 Instead of an adventure in which an adult magus and his staff find an apprentice, a troupe could play the reverse: a Gifted child and his childhood friends leave town to find a wizard. The children know that their Gifted friend is "special" and think that aiding him will provide them with a new home, as well as foster the interest of a powerful magical benefactor in their future. There may be additional reasons why the children want to leave the village: an oppressive bully, uninterested parents, or an overbearing parish priest. After the children are discovered to be missing, the village reeve or bailiff or headman sends a search party to find them. Serfs can't just vacate the farm of their own volition! A prolonged chase ensues, with the player characters hunting through the mystical faerie woods looking for the rumored hidden wizards' tower, all the while hunted by the reeve and his hounds.
 
-## *Finding an Apprentice*
+## Finding an Apprentice
 
 In most Tribunals, the Order of Hermes does not have a dedicated branch of servants looking for Gifted individuals to become apprentices. The Thebes Tribunal is an exception, as is detailed in *The Sundered Eagle: The Theban Tribunal*. In other Tribunals, each magus finds his own apprentice. The traditional model has the magus scouring the rustic villages and urban squalor of Mythic Europe, looking for a Gifted youth. House Bonisagus has
 
@@ -1085,7 +1085,7 @@ a second, easier option because a Bonisagus magus can take another magus' appren
 
 The surest way of finding an apprentice is an adventure, one designed by the storyguide for the player's magus. However, this might not suit the other players or the troupe as a whole, who might be interested in other sorts of adventures. A player can instead declare that his magus is spending a season looking for an apprentice. The player makes a Perception + stress die roll against an Ease Factor of 12 to successfully find an apprentice (**ArM5**, page 106). Because success is difficult, a player has the option of seeking help from another player character or storyguide character who can spare the time to help the seeking magus. The assistant character makes a Characteristic + Ability check against an Ease Factor of 12. Success lowers the magus' Ease Factor by 3 if the assistant is a player character or by 1 if the assistant is a storyguide character. Multiple assistants are allowed. Both the magus and his assistants must spend the entire season looking for an apprentice. Assistants might include characters such as a female scholar companion making a Communication + Area Lore roll as she investigates neighboring nunneries, a knight using Presence + Etiquette to ask discreet questions at court, and a rogue using Intelligence + Folk Ken to glean information from villagers.
 
-## *Detecting the Gift*
+## Detecting the Gift
 
 Intellego Vim spells can detect The Gift. The base level is 10: "detect the traces of powerful magic," which will detect both the Blatant Gift and the Gentle Gift, as well as the regularly Gifted. It cannot differentiate between The Gift and the False Gift, however, suffering the usual limitations Hermetic magic has against the Infernal. Any spell used to identify The Gift must bypass the Magic Resistance, if any, of the target. A magus should remember that using Intellego Vim spells on another magus counts as scrying, and is forbidden by the Code of Hermes.
 
@@ -1109,12 +1109,12 @@ The caster's eyes become magically sensitive to Gifted individuals, who appear t
 
 Ex Miscellanea magi of the lineage of Pralix are very good at detecting Gifted individuals, using the Comprehend Magic Virtue that is inherent within the line (*Houses of Hermes: Societates*, page 128). Such a magus concentrates on finding Gifted hedge wizards to bring into the Order, rather than Gifted children to apprentice, but an apprenticeseeking magus who knows such a Pralixian magus might ask for aid. Since most magi do not have this Supernatural Virtue, many have designed spells to facilitate searching for an apprentice. Unfortunately, such spells are not always accurate. Detecting The Gift is not as straightforward as detecting a magical aura or an enchanted item. Supernatural powers are more common than The Gift, and spells designed to detect The Gift will sometimes inaccurately indicate those possessing other supernatural traits.
 
-## *Becoming an Apprentice*
+## Becoming an Apprentice
 
 Most of the time, the process is overwhelmingly easy: it is a statement of intent followed by a season of action. Once the child is found the magus returns to the covenant with the child and states that the child is his new apprentice. To finalize and
 
 
-## *Apprentice of House Bonisagus*
+## Apprentice of House Bonisagus
 
 **Characteristics:** Int +1, Per +1, Pre +1, Com –2, Str –1, Sta +3, Dex +1, Qik +1 (Characteristic Modifier –3)
 
@@ -1154,7 +1154,7 @@ legalize the procedure, the magus opens the Arts of his new apprentice. Childhoo
 
 During early apprenticeship, the promise of wielding mighty magical power seems distant. Instead of casting *Pilums of Fire*, she cleans her parens' laboratory, perhaps even his personal chambers, and studies la-
 
-## *Opening the Arts*
+## Opening the Arts
 
 Opening the Arts of the apprentice is the magical beginning of her career. Once her parens performs this season-long procedure, the apprentice can cast spells, although only the simplest spontaneous effects will be possible at first. Opening the Arts also legally binds the apprentice to the magus. Before this procedure, the Gifted
 
@@ -1172,14 +1172,14 @@ Children with a single Supernatural Ability are usually easy to Open to the Arts
 
 Simply meeting or exceeding the required Lab Total Opens the Arts of the apprentice, but destroys the Supernatural Ability. To maintain exciting Supernatural Abilities, the Lab Total must double the necessary level. Supernatural Abilities can also be converted into Hermetic Virtues, if the parens' Lab Total is high enough. Maintain or converting is the parens' decision. Supernatural Abilities derived from a Minor Supernatural Virtue convert into Minor Hermetic Virtues, and a Supernatural Abilities derived from Major Supernatural Virtues change into Major Hermetic Virtues. If converted, Supernatural Abilities must normally change into Hermetic Virtues that the parens possesses. This is similar to teaching the apprentice Hermetic Virtues (see later); only Hermetic Virtues possessed by the magus can be passed on, either through teaching or converting. While the parens need not know how to perform the Supernatural Ability, he must know how to perform the Hermetic Virtue. Alternatively, the parens may convert a Supernatural Virtue into an Hermetic Virtue he does not know, if the two Virtues are very
 
-## *Story Seed: I'm Not Going Anywhere!*
+## Story Seed: I'm Not Going Anywhere!
 
 Magi like to think that returning to the covenant with a Gifted child in tow is easy. Storywise, it is only if you want it to be. Most likely, the child is meeting the magus for the first time and reacts negatively to his Gift. Escape, not accompaniment, is a likely first thought. An interesting initial adventure might be for the player characters to re-
 
 turn to the covenant with a Gifted player character child. The child does everything possible to escape, while the other players act to contain the child without hurting her. This could be especially fun if the other player characters are grogs or companions, and do not have the necessary magical means to easily transport the child.
 
 
-## *Hermetic Terminology*
+## Hermetic Terminology
 
 Hermetic magi have adopted titles to refer to specific positions within the Order. Masters and apprentices have Latin titles as well. Both titles **parens** ("parent") and **filius** or **filia** ("son"/"daughter") are used by magi after apprenticeship. During apprenticeship, characters also use the following terms:
 
@@ -1215,7 +1215,7 @@ Not every magus Opens the Arts of his apprentice immediately. He might want the 
 
 There is also the chance that the magus never intended to Open the Arts of the Gifted child and is merely keeping her as a Gifted lab assistant. The Order frowns on this practice and most Tribunals declare that keeping a Gifted lab assistant is a low crime. While this is fine in legal theory, it is difficult to prosecute, because the defendant can always say that he was merely delaying Opening the child's Arts until the child was properly trained. Rather than a cumbersome and uncertain trial, magi prefer that an individual
 
-## *Teaching Schedule*
+## Teaching Schedule
 
 To ensure that a new apprentice learns everything necessary to become a magus, most new masters follow the following schedule, which is believed to come from letters Bonisagus wrote to Trianoma, and is more or less what the traditions of the Order dictate.
 
@@ -1240,17 +1240,17 @@ An apprentice cannot effectively work magic until she knows enough Latin, and is
 This test has come to be known as the Gauntlet, and every House has its own methods for determining whether their apprentices are ready to become magi. (See Chapter 5 for examples.)
 
 
-## *Story Seed: Midnight Rescue*
+## Story Seed: Midnight Rescue
 
 A magus discovers that a rival living in another covenant has been keeping a Gifted child as a laboratory assistant for two years and has yet to Open her Arts. The magus wants the child but doesn't want to risk using magical methods to take her. He is, however, willing to use mundane methods, and assembles a team of his covenant's grogs to undertake the mission. Can the grogs sneak into the rival covenant, find the Gifted girl, and escape with her?
 
-## *Story Seed: A Temporary Reprieve*
+## Story Seed: A Temporary Reprieve
 
 An overbearing and cruel parens mistakenly forgets to train his apprentice for a season during the year. Another magus notices this and, while the parens is distracted, abducts the apprentice and declares that he is the apprentice's new parens. Naturally, the first parens disagrees and demands the return of the apprentice, to which the second parens replies that it must be settled at Tribunal, five years hence. In the meantime, the apprentice must avoid the first parens, who will surely try to snatch him back, and learn as much as he can from his new parens. If the issue becomes too strained, one magus may declare Wizard's War against the other, and the apprentice's only hope is to survive the conflict. This can be particularly complicated if both magi live at the same covenant.
 
 act decisively and simply take the lab assistant as an apprentice. If the timing is right, and the lab assistant is taken a day or two before a new season begins, the rescuer could immediately begin Opening her Arts. This automatically makes her an apprentice, and immediately grants both magus and apprentice the legal protection offered by the Code of Hermes. Specifically, the former magus cannot charge in and demand his lab assistant be returned.
 
-## *Legal Issues*
+## Legal Issues
 
 The Code of Hermes contains several regulations concerning apprentices, which are easily summarized. A Gifted child is legally recognized as a magus' apprentice only when the magus opens the apprentice's Arts. This protection is immediate and begins on the first day of the season spent opening the apprentice's Arts. The parens must personally instruct the apprentice for one season during each year of apprenticeship, although the type of instruction is not specified. The parens must also "be the first to strike" if the apprentice, likely a magus at that point, turns against the Order.
 
@@ -1267,7 +1267,7 @@ might need to defend the apprentice from the former parens in future Wizards' Wa
 
 If an apprentice commits an Hermetic crime, then his parens is held liable. Most Tribunals assume that the apprentice acted under the magus' orders. If a magus can prove that the apprentice acted of his own volition, which Hermetic magic can do, then the Tribunal has a choice. It can deal with the apprentice as the magus' property and punish the parens, or treat the apprentice as an interloper without any legal recognition within the group. If a hedge
 
-## *Story Seed: A Convenient Suspect*
+## Story Seed: A Convenient Suspect
 
 A player character apprentice enters his parens' laboratory one morning and finds the magus dead, a knife sticking from his back. The magus was known to abuse the apprentice, who rightly suspects that if the crime is discovered, he will be blamed. The parens had a sworn enemy, another maga, and killing the parens and blaming it on the apprentice is surely within the maga's capabilities. Worse still, that maga is due to visit today, and the apprentice knows that she is scheduled to meet with the nowdead parens and the covenant's other magi at dinner. Can the apprentice avoid accusation and correctly identify the murderer? Can he claim credit for solving the mystery, or does he need a more likely detective, since few would believe a child?
 
@@ -1275,7 +1275,7 @@ wizard committed the crime, how would the Order respond? Essentially the parens 
 
 The Code of Hermes does not provide any means of appeal if the apprentice feels that his parens isn't abiding by the parens-apprentice bargain. An apprentice cannot petition for a new master, arrange better treatment from the current master, or attempt his Gauntlet early. As far as the apprentice is concerned, the Code guarantees that his pa-
 
-## *Story Seed: The Inheritance*
+## Story Seed: The Inheritance
 
 A magus acquires a Gifted child as his apprentice from a prosperous farmer, who is happy that the child has a place to go. A few years later, the father dies. With the child absent, the property defaults to the farmer's brother, who begins managing the estate. A nearby abbot learns of the property transfer, and knows that the child is not being cared for by the uncle. The abbot claims that the monastery should manage the estate until the child comes of age to inherit the farm. For the uncle to retain the property, he must raise the child. Humbly, even fearfully, the uncle approaches the magus and tells him the situ-
 
@@ -1329,7 +1329,7 @@ rens can treat him poorly, and his only recourse is to suffer through it. If he 
 
 House Bonisagus has additional legal privileges, because magi from that House can take an apprentice away from another magus. The House has some self-governing guidelines that apply, but these are merely suggestions, not laws (*Houses of Hermes: True Lineages*, page 17). Some Bonisagus magi trade apprentices for short periods of time through fosterage, effectively breaking the rule that an apprentice must receive personal instruction. Other Houses and other magi also foster apprentices. This is a breach of the Code, and if brought to trial, each fostering magus could be accused of a low crime if they are not also providing each apprentice a season of personal instruction during the fostering period. Because fosterage is always agreed to by both participating magi, the likelihood that one would charge the other with a crime is slight. Nor could either apprentice bring the parentes up on charges. Others could, however, and magi outside the fostering agreement could accuse either of the fostering magi of a low crime. Since fostering is common, most magi would view the accuser negatively, even though he may be technically right.
 
-## *Teaching Hermetic Virtues*
+## Teaching Hermetic Virtues
 
 Teaching an Hermetic Virtue combines aspects of learning a Supernatural Ability (**ArM5**, page 166) with learning a Mystery Cult Virtue (*The Mysteries Revised Edition*, page 13). The instructor, typically
 
@@ -1380,7 +1380,7 @@ The two most common ways characters gain Hermetic Flaws are through learning Her
 
 
 
-## *Study*
+## Study
 
 Educational instruction in the institutions of Mythic Europe begins around age seven. Future lawyers and clerics are taught the basics of the trivium, the first stage of medieval learning. An apprentice may also find himself behind a reading desk, as it is perfectly reasonable for a magus to send his apprentice to a mundane teacher. Rather than spend precious time teaching an apprentice Latin, Artes Liberales and Profession: Scribe, many magi use a tutor. Many covenants have such professionals on staff, scholastic instructors paid to teach Academic, Arcane, and other Abilities.
 
@@ -1410,11 +1410,11 @@ A magus may train his apprentice, using the rules for Training (**ArM5**, page 1
 
 A magus would better serve his apprentice in the long run if he learned how to teach (ie. if he gained a score in Teaching). While training might not be the best method of instruction, it does count as a season of one-on-one instruction.
 
-## *Story Seed: The Unlicensed Loan*
+## Story Seed: The Unlicensed Loan
 
 An apprentice character desires to read a tome written about a particular Art. However, the covenant has ruled that an apprentice may only study a book in the library once a year, and the apprentice has already been allowed this privilege. His parens suggests that the apprentice might have to take matters into his own hands, and promises to turn a blind eye to any strategies the youth might concoct, provided no one is hurt and nothing is destroyed. Maybe the apprentice could sneak into the library at night and replace the book with a lookalike, providing he can bypass the librarian's magical guardian night owl.
 
-## *Tales of Wondrous Enchantments*
+## Tales of Wondrous Enchantments
 
 Stories of King Arthur are popular in the 13th century. Arthur's mystical companion, Merlin, is a master of self-transformation spells and prophesies, and his tales capture the imagination of apprentices. Child apprentices love the drama of the tales and the legendary proportions Merlin assumes. Adolescent apprentices like debating whether the tales are true, arguing the pros and cons with their masters, their peers, and anyone who has an opinion.
 
@@ -1422,7 +1422,7 @@ Their favorite part of the story is when Merlin teaches magic to the young damse
 
 Whether these tales are true or not depends on your saga.
 
-## *Cantations*
+## Cantations
 
 When Hermetic magi speak of spells, they often use the Latin word *incantamen*, which can mean both formulaic and spontaneous spells. Over time various magi started using the Latin word *cantamen* to mean "little spell". When applied to the magical castings of a magus, the term can be insulting: *Vide Darii cantamen perdere!* ("Look at Darius' little spell of destruction!"). Using *cantamen* or "cantation" is very appropriate for a low-level spell cast by an apprentice, however, and magi often call a lowlevel formulaic spell a cantation, especially when the caster is an apprentice.
 
@@ -1580,7 +1580,7 @@ This spell animates a shoe, making it caper and jig under the caster's control. 
 
 (Base 1, +2 Voice, +1 Conc)
 
-## *Optional Rule: Learning Cantations in Play*
+## Optional Rule: Learning Cantations in Play
 
 Most magi don't take the time to teach cantations to apprentices. It is not the most effective use of time and a younger apprentice will be limited in what she can learn. An optional rule is to let the repeated casting of a low level spontaneous spell become a formulaic spell. At some point in the apprentice's mind, casting the same spontaneous spell over and over again
 
@@ -1640,7 +1640,7 @@ R: Per, D: Mom, T: Ind
 
 Like *The Physician's Eye*, this spell determines the general health of
 
-## *Apprentices*
+## Apprentices
 
 the caster. It is useful in discovering if a common cold or recurring ache is actually something more severe.
 
@@ -1729,7 +1729,7 @@ This spell creates a static copy of the caster, which sits on a stool and appear
 
 
 
-## *The Dream Witches*
+## The Dream Witches
 
 Some mothers threaten their misbehaving children with tales of bogeymen, horrible night creatures that devour bad girls and boys. A fairly common practice, the exact monster invoked differs by region, and depending where the family lives the traditional bogeyman might be goblins, bugbears, elves, or vampires. Apprentices soon realize that these traditional bogeymen are either fairly benign or easily managed through magic, and this psychological tool loses much of its impact.
 
@@ -1757,9 +1757,9 @@ This spell lets the caster speak directly into the target's mind for as long as 
 
 (Base 3, +1 Touch, +1 Conc)
 
-## *Chapter Five*
+## Chapter Five
 
-# *Adolescentia: Ages 15 to 21*
+# Adolescentia: Ages 15 to 21
 
 Adolescence is the third stage of life, running from 15 to 21 years of age. Poets refer to this as the age of lovers, when a boy is no longer a child, yet not quite a man. An adolescent boy is given adult responsibilities while still receiving the tolerance his youthful years deserve. At 15, a character's Characteristics are no longer penalized for age, meaning that he often shifts into more adult roles. It is common for a 15 year old boy to join his lord's levy and march to war, or for an apprentice to stand
 
@@ -1769,7 +1769,7 @@ The teenage years bring all sorts of accompanying troubles. Puberty is a complic
 
 An apprentice achieves his maximum usefulness to his parens during this stage of life. Besides becoming an important laboratory assistant, the apprentice can perform other tasks in place of his parens. With several years of training under his belt, the apprentice might start performing duties that would otherwise require the magus to waste time on lesser projects, or that would distract him from his work. The invitation to assist a master in the lab is an important rite of passage and a sign of great status among an apprentice's peers, since it carries the connotation that the apprentice is no longer a child.
 
-# *Coming of Age*
+# Coming of Age
 
 By 15, most boys and girls have become productive members of society. Most have taken firm steps
 
@@ -1777,7 +1777,7 @@ By 15, most boys and girls have become productive members of society. Most have 
 
 
 
-## *Story Seed: Against the Master's Wishes*
+## Story Seed: Against the Master's Wishes
 
 In many areas of Mythic Europe, peasants are forbidden to leave the land they work without the permission of their feudal master. An adolescent who leaves home for the city is actually breaking the law. A landed noble notices that several of his serfs' sons are leaving the manor and heading to town, and asks the magi if they can help retrieve the boys. The player characters could be the fleeing apprentices, trying to outrun the noble's pursuing posse, or agents from the covenant sent to retrieve the boys. This could be a good introductory adventure. Players make adolescent characters who then flee home, heading for the nearest city but inadvertently meeting the covenfolk and magi sent to find them.
 
@@ -1790,7 +1790,7 @@ cows to pasture. Rural adolescents may have a younger sibling in tow, charged wi
 
 A good many rural adolescents leave home during this time and head for town, which offers better employment opportunities, unsupervised freedom from parents, and the intoxicating lure of urban excitement. Not every adolescent goes willingly. Some are sent against their wishes by parents who hope to provide their children with a better livelihood. These adolescents are in addition to the number sent as apprentices to city guilds and those sent for institutional education. Besides working menial labor jobs, of which there are many, the vast majority of rural adolescents become
 
-## *Story Seed: The Thrills of Love*
+## Story Seed: The Thrills of Love
 
 Romantic infatuations strike the young quickly and ferociously, generated by a single glance, a casual touch, or a scented letter. Adolescents may abandon their sense of reason to chase a pretty face, braving all sorts of dangers just to be near the one they love. This is the stuff of many medieval legends and the romance literature popular in the 13th century.
 
@@ -1830,7 +1830,7 @@ An adolescent is easily taken by flights of fancy, easily distracted from work b
 
 Not every boy or girl becomes a productive member of society, and a good number instead become unproductive elements: beggars, thieves, layabouts, and cutthroats, to name just a few. Bad luck and ill circumstances lead many to such lives, but some actually aspire to such evil trades. While child rogues and thieves can be a nuisance and inconvenience, adolescent outlaws and troublemakers can be dangerous. Legally, most areas treat an adolescent offender as an adult. An adolescent is too young to inherit property, but not to hang for murder, heresy, or theft. While a child might receive a pardon for even the vilest crime, a boy or girl in her teens will not. While the family surely grieves, the crowd won't flinch at a hanged 16 year old boy or a 14 year old girl burned at the stake.
 
-## *Marriage*
+## Marriage
 
 The average age that most peasant boys marry is 18 to 25, while most girls marry around 17 or 18. Historical evidence for marriage is scant in the 13th century, and while records exist of kings, princes, and wealthy nobles marrying much younger partners, such behavior is limited to perhaps 1% of Mythic Europe's population. In most cases, the man is older than the woman. For the vast majority of the population, the agrarian peasantry, marriage for male characters happens after adolescence. For a female characters, however, it is very likely that she will enter this most holy of unions before she turns 21.
 
@@ -1843,7 +1843,7 @@ To end a legal marriage, a priest must annul the marriage by deciding that it wa
 
 Some players may have heard of the legend of the "right of the first night," *jus primae noctis* or *droit du seigneur* (the lord's right). According to this legend, in some countries, the lord of the land had the right to sleep with any man's bride on the first night of her marriage. Although popular in several 20th century films, the legend of the right of first night is not medieval, and most likely arose in the 19th century, as an aspersion cast against the Middle Ages.
 
-## *Supernatural Interests*
+## Supernatural Interests
 
 Children are easier targets than adults, and some supernatural creatures intentionally target younger characters because of this vulnerability. Removed from the home and outside direct parental control and protection, adolescents are more at risk than younger children. Adolescentia is probably the age of man where the biggest developmental changes occur, during which characters change from a child into an adult. This transition does not go unnoticed by Mythic Europe's supernatural denizens.
 
@@ -1857,11 +1857,11 @@ Where there is sin, there is also salvation. Divine creatures take a more passiv
 
 Faeries take a keen interest in the liminal stages that begin and end the adolescent age of man. Susceptible and naive, a 15 year old is the perfect target for many faeries, who greedily lap up the adolescent's vitality. Some faeries actually feed on the flesh and bones of adolescents, but the vast majority seek the easily induced emotional surges of a young adult. A troll living under a bridge might challenge an adolescent to inspire courage, its preferred form of vitality. A faerie prince might promise to save an adolescent girl from her life as a servant by whisking her away to his faerie castle, while a faerie princess might need to be saved from a giant. The Woman of the Wheat Fields is a particularly nasty faerie from the Stonehenge Tribunal. Typically, she has a faerie servant abduct a boy traveling through the wheat fields and bring him to her.
 
-## *Story Seed: Time to Die*
+## Story Seed: Time to Die
 
 An adolescent son of a martial grog hears of a terrifying forest faerie whose role is to challenge a young man to combat, as a necessary step to that man's adulthood. Not understanding the role of faeries and assuming that there is no real threat, the boy decides to corral his adolescent companions into going with him to face the monster. The monster, a variant of a Fachan (*Realms of Power: Faerie*, page 77), expects to be killed by a champion's blade, but only after a fierce struggle. It is a deadly combatant and the creature will happily kill a novice warrior. Can the boys defeat the faerie or must they return home and ask for help?
 
-## *Story Seed: Where's the Money?*
+## Story Seed: Where's the Money?
 
 The steward of the covenant regularly attends the small town's Wednesday market, but is unable to go this week because of other duties. He gives a group of adolescents a pouch of pennies and a grocery list, and sends them on their way. Along the road, the characters encounter a faerie peddler who offers to sell them his cow. Buying the cow costs all their money, and in reality is a rabbit. If the characters refuse, the faerie secretly changes their coins into leaves. In the small town, when it is time to pay for the supplies, the characters discover the faerie's spell. The merchant is upset and the steward surely will be, unless the characters can locate the faerie and force him to remove the spell.
 
@@ -1869,7 +1869,7 @@ Surrounded by her court of fairy damsels, she holds the child down, flays his ha
 
 Magic creatures are the least interested in adolescents; their general lack of interest in humanity is not suddenly lessened the moment an adolescent walks on the scene. A thinking magic creature might be briefly interested in a youth, but much depends on the creature in question. A magic unicorn might be calmed by a pure adolescent girl, and a magic lioness might lick the wounds of an unconscious adolescent boy. A griffin probably views an adolescent as an easy meal. Unthinking magic things, such as elementals and spirits, won't notice the difference between an adolescent and an adult.
 
-# *Life in the Covenant*
+# Life in the Covenant
 
 Most youthful player characters likely live in the covenant with the rest of the troupe's characters, although it is equally conceivable that they live in a nearby village or town,
 
@@ -1880,7 +1880,7 @@ Adolescent characters can undertake the same adventures adult characters can, an
 
 An apprentice likely has days here and there that are free from chores or arcane duties. Having seen how his parens orders the covenfolk around, he could mimic this behavior, targeting fellow adolescents instead of their parents. Perhaps he has decided on some grand adventure, or more likely is charged with performing some errand for his parens. Quickly assembling his party, he is off, out the covenant doors and on the road to adventure.
 
-## *Life in the Laboratory*
+## Life in the Laboratory
 
 An adolescent apprentice spends much of his time working in his parens' laboratory. Physically, he is nearly an adult, having outgrown the negative modifier applied to Characteristics, and if his parens has properly prepared him, the apprentice has some skill in Magic Theory. Every magus can have at least one helper. More requires a score in Leadership (**ArM5**, page 130), and it is the rare apprentice who cannot offer any assistance at this stage of his career. How much time the apprentice spends assisting his parens is up to the magus and his arcane preferences. A Bonisagus or Verditius apprentice might spent all of his time enclosed in the sanctum, assisting three seasons out of the year and receiving instruction in the fourth season, which also happens in the parens' laboratory. A Merinita or Bjornaer apprentice might find himself following his parens around the countryside, partaking in adventures rather than working in the lab.
 
@@ -1901,15 +1901,15 @@ An apprentice has other capacities besides assisting in the lab, and if the cove
 
 If a spare lab exists, the apprentice can improve it. The *Covenants* book includes a large list of laboratory improvements. The apprentice must have the required Magic Theory score to make laboratory refinements
 
-## *New Laboratory Flaw: Shared Lab*
+## New Laboratory Flaw: Shared Lab
 
 *Covenants* introduced lab Virtues and Flaws, which describe laboratory merits and defects. **Shared Lab** is a Free Outfitting Flaw. The lab is not large enough for the resident magi working on independent projects, each of whom needs at least 500 square feet of space. *–2 General Quality, –2 Safety*
 
-## *Story Seed: Where Did the Cat Go?*
+## Story Seed: Where Did the Cat Go?
 
 A magus is spending a season making a magical cat his familiar, when the cat decides to go for a stroll. One of its powers is to shape-change into a person, which it does, and heads into the fields to play with the peasants. The magus orders his apprentice to bring the cat back by nightfall. The adolescent, who doesn't know the peasants very well, asks other adolescent covenfolk to help him. Can the characters find and return the cat in time?
 
-## *Story Seed: Visiting a Colleague*
+## Story Seed: Visiting a Colleague
 
 The magus wants to visit a friend of his, but does not want to waste his entire season traveling to his friend's covenant. He sends his apprentice, accompanied by a few grogs, with strict instructions to reach the destination at a specific time. The apprentice carries a rug, of which the magus has a small piece, and at the desired time, the apprentice will unroll the rug and the magus will use Rego Corpus magic and the small piece as an arcane connection to instantly travel to the location. The rug can't be unrolled in the magus' friend's covenant, as the *Aegis* would stop the Rego Corpus spell. The apprentice must make the journey and find a safe place to unroll the rug, on time.
 
@@ -1943,20 +1943,20 @@ A second way to win is to force
 
 the opponent to break concentration, which ends the Ager Belli spell. The first apprentice casts a spell to distract his opponent, while maintaining his own Ager Belli spell. Maintaining a spell while casting a second requires a Stamina + Concentration + stress die against an Ease Factor of 15. This is a risky ploy, because if he loses concentration on his Ager Belli spell, he loses the match. If he is successful, however, he casts a second spell at his opponent. This spell can jostle his opponent, distract him, confuse him, or otherwise interfere with him maintaining his spell. The opponent must make a Stamina + Concentration roll to see if he can maintain his Ager Belli spell. The storyguide must decide the Ease Factor based on the second spell's effect, using the sug-
 
-## *Story Seed: Where Are My Bat Wings?*
+## Story Seed: Where Are My Bat Wings?
 
 During a seasonal laboratory activity, the magus runs out of bat wings. The apprentice must travel to the far side of the forest and spend an evening catching live bats. Friends in tow, the apprentice leads a group of same-age grogs to the selected location. Anything could happen: the apprentice catches too many bats in a net and they carry him away, he catches another magus' familiar bat, or the first bat he catches is really a faerie prince.
 
-## *Story Seed: Investigating Evil*
+## Story Seed: Investigating Evil
 
 Nearby peasants are concerned that the local church is failing them. The priest refuses to preach, more people in town are getting sick, and the church grounds seem inexplicably eerie at night. With nowhere else to go, they ask the magus for help. He sends his apprentice to investigate, telling him to take something from the church that can act as an arcane connection, so that the magus can watch it from afar. The peasants are correct; the church is under the sway of a demon. This simple mission places the apprentice face-to-face with a demonic entity and its possessed priest.
 
-## *Story Seed: Missing Mail*
+## Story Seed: Missing Mail
 
 The local redcap is late. The magus is expecting some vis, which the redcap is supposed to be carrying. Since he is known as a recalcitrant drunk, the magus suspects the redcap is lingering in a village inn and sends his apprentice out to meet him. A few days later, along the regular route, the apprentice discovers that a knight has thrown the redcap in his gaol, thinking him a thief. The apprentice could just return to the covenant with this news, but perhaps thinks of the glory that awaits him if he frees the redcap and punishes the knight.
 
 
-## *New Spell: Ager Belli*
+## New Spell: Ager Belli
 
 **CrIm 10 R:** Touch, **D:** Conc, **T:** Ind **Req:** Rego
 
@@ -1972,7 +1972,7 @@ Bellum is not just for two; other players can also join the game by simply sitti
 
 Bellum is popular in large covenants, where it is played by both apprentices and young magi. Theoretically, Bellum matches are civil affairs, but these matches have been known to get out of hand, especially when players have been drinking alcohol. Bellum players have been known to withdraw from the contest early, to then push, shove, even trade blows with other players. The most extreme example of this happened at the Grand Tribunal of 1162, when a large Bellum game turned into a minor riot.
 
-## *Failing an Apprentice*
+## Failing an Apprentice
 
 The rigors of Hermetic study prove too difficult for some, and occasionally apprentices fail in their efforts to master Bonisagus' teachings. Losing The Gift is the main reason apprentices fail, although some are abandoned by their masters. An apprentice who loses his Gift cannot continue his magical training, having lost all his arcane powers. Once The Gift is lost, the character immediately gains the Minor Social Status Virtue: Failed Apprentice (**ArM5**, page 42), which replaces the Free Social Status Virtue: Apprentice. The character can still find work at the covenant as a laboratory assistant or scribe, but her career as a maga has ended.
 
@@ -1990,12 +1990,12 @@ A Gift that is not permanently lost is suppressed. Instead of losing the Gift en
 
 Storyguide character apprentices may lose The Gift in the same way, by choice. If the storyguide thinks this would better serve the saga, she can decide that the storyguide character's Gift is lost or suppressed. Alternatively, the storyguide can let the dice decide, and an optional method exists to determine if the apprentice loses his Gift. Every time a storyguide character apprentice works a stressful laboratory season, as described previously in Laboratory Turbulences, roll a stress die. If you roll a 0, roll an additional number of botch dice equal to the parens' Lab Total divided by 10 (round up). If any of those dice come up 0, the apprentice has lost his Gift. The number of botches and the importance of the NPC in the saga should determine if the loss is temporary or permanent.
 
-## *Apprenticeship's End: The Gauntlet*
+## Apprenticeship's End: The Gauntlet
 
 The Gauntlet is the test each parens sets his apprentice to determine whether she has succeeded and is ready to become an Hermetic maga. Every apprentice's Gauntlet is different, designed to test their specific skills, although several Houses have standard Gauntlets that many members use to test apprentices. The Gauntlet must be passed to the master's satisfaction; there is
 
 
-## *Story Seed: Trial by Fire*
+## Story Seed: Trial by Fire
 
 A powerful magus of House Flambeau has placed a bet with all masters in the Tribunal that have apprentices nearing maturity. He believes that apprentices have gone soft, and could not succeed at a Gauntlet as difficult as the ones they had when he was an apprentice. He offers a wager of 10 pawns of vis to every magus, betting that their apprentices cannot pass a Gauntlet of his design without their masters' interference. If the apprentices are in grave danger, he will probably allow their masters to assist, but in that case all bets are off.
 
@@ -2029,7 +2029,7 @@ It is possible that an apprentice could convince her parens to give her a season
 
 Any magus can teach the apprentice the final key, although doing so before the apprentice swears the Oath of Hermes is a High Crime. Essentially, such a magus is passing the secret of Parma Magica to someone who is not technically a member of the Order. While an apprentice is certainly under the auspices of the Order, she is not a member until she swears the Oath of Hermes.
 
-## *Post-Apprenticeship*
+## Post-Apprenticeship
 
 Having successfully completed apprenticeship, an apprentice character becomes a maga of the Order of Hermes. Her time is hers, no longer subjected to the will of her master, and she can pursue any avenue of life she likes. The very next stage for many is to find a proper home. Some join existing covenants and some form new covenants with other recently Gauntleted magi. Magi of the Rhine Tribunal often spend a few years visiting established covenants and taking advantage of that area's rules of hospitality (see *Guardians of the Forests: The Rhine Tribunal*).
 
@@ -2041,7 +2041,7 @@ to acknowledge the parens' efforts. Conversely, many covenants give a sizable gi
 
 The recommended minimum Ability scores for a magus are Artes Liberales 1, Latin 4, Magic Theory 3, and Parma Magica 1 (**ArM5**, page 32). While good, these are still only recommendations. An apprentice is a magus if he has been opened to the Arts, trained for 15 years, and then passed his Gauntlet to his master's satisfac-
 
-## *Houses of Hermes Gauntlets*
+## Houses of Hermes Gauntlets
 
 While each Gauntlet is designed individually for an apprentice, commonalities exist within the Houses regarding the Gauntlet an apprentice undergoes. Use this section as a guideline for developing Gauntlet adventures, but do not feel restricted by these examples. House-specific Gauntlets are fully explained in the *Houses of Hermes* series.
 
@@ -2066,11 +2066,11 @@ House Ex Miscellanea does not have any formal Gauntlet procedures, and each of t
 
 tion. A master could Gauntlet an apprentice who doesn't read, speak Latin, or know any Magic Theory. Such an apprentice wouldn't have been much help in the lab, and will make a sorry magus. His parens will suffer shame and social stigma for producing such an odd offspring. Most agree that every magus who undergoes an Hermetic apprenticeship should know how to read and write, speak Latin, and know his way around an Hermetic laboratory.
 
-# *Scholae Magicae*
+# Scholae Magicae
 
 The notion of a group of magi forming a *scholae magicae*, or school of magic, to train Hermetic apprentices was an early idea. Based on the
 
-## *Houses of Hermes Gauntlets (cont'd)*
+## Houses of Hermes Gauntlets (cont'd)
 
 ### **HOUSE FLAMBEAU**
 

@@ -1,5 +1,5 @@
 
-# *Credits*
+# Credits
 
 **Authors:** Erik Dahl, Mark Faulkner, Lachie Hayes, Ben McFarland, Christian Jensen Romer
 
@@ -49,7 +49,7 @@ Copyright 2014, 2015 Trident, Inc. d/b/a Atlas Games. All rights reserved. Repro
 Digital Version 1.0
 
 
-# *Contents*
+# Contents
 
 | I. Introduction                    | 6 | The Massacre at Montgey            | Covenfolk41                    |    |
 |------------------------------------|---|------------------------------------|--------------------------------|----|
@@ -190,7 +190,7 @@ Digital Version 1.0
 | Culture & Traditions134 |  |
 |                         |  |
 
-### *IX. The Lost Covenant of Val-Negra 135*
+### IX. The Lost Covenant of Val-Negra 135
 
 | History135                |  |
 |---------------------------|--|
@@ -217,7 +217,7 @@ Digital Version 1.0
 | The Aerie Clan 141           |  |
 | Lifecycle of the Aerie141    |  |
 
-### *List of Inserts*
+### List of Inserts
 
 | List of Inserts 5                       |
 |-----------------------------------------|
@@ -369,11 +369,11 @@ Digital Version 1.0
 |                                          |  |
 
 
-### *Chapter One*
+### Chapter One
 
-# *Introduction*
+# Introduction
 
-### *A Note on History and Myth*
+### A Note on History and Myth
 
 Much of the history presented here draws on real historical events, but allows the rich myths of southern France, the exaggerations of the troubadour songs, and the imagination of Basque storytellers to take precedence. Some liberties have been taken to enhance story potential. This is a land of dragons, where witches lurk in village covens, shepherds command the winds and herbs, and the legacy of Rome lies buried just beneath the bustle of daily life. Many mythic sites spring from more contemporary legends, while others have been woven from fantasy to make the tapestry more vivid.
 
@@ -383,7 +383,7 @@ Further south, beneath the shadow of the Pyrenees and away from human settlement
 
 Historically the stronghold of House Flambeau, the martial House's dominance has declined, even while they strengthened their commitment to noble codes and principles. Religious conflict tears the culture of Provence asunder, threatening the fields and towns of the Languedoc with the flames of war.
 
-### *How to Use this Book*
+### How to Use this Book
 
 This book is primarily designed for troupes whose saga is based in the Provençal Tribunal, but sagas set in neighboring Normandy in particular may be drawn into the conflict and stories of the region, perhaps even migrating to the southern lands permanently in the wake of the havoc wreaked by the Albigensian Crusade. Magi from more distant Tribunals may visit the Languedoc region as part of their official duties, during quests for Mystery initiations or in search of the magical treasures of fallen covenants and ruined Diedne enclaves.
 
@@ -391,13 +391,13 @@ These chapters provide background and details most characters would be expected 
 
 This sourcebook is a guide and reflects only one possible vision of the Provençal Tribunal in 1220. Any or all of the Hermetic elements presented here can be omitted or adapted to suit your saga. Likewise, although care has been taken to accurately present the complicated history, politics and geography of the region, this is not a history text. Your troupe must decide how closely to follow history and which additional resources help create the most rewarding stories.
 
-### *Chapter Two*
+### Chapter Two
 
-# *History & Culture*
+# History & Culture
 
 The weight of centuries of scholarship, culture, and romance lies heavy upon the Tribunal. From the ghosts of Roman glory to the strange magics of the Dark Ages, the echoes of a glorious past reach out to the turmoil of the present.
 
-### *The Roman Provinces*
+### The Roman Provinces
 
 The Provençal Tribunal comprises an area that Celtic tribes inhabited in antiquity. In what is now Gascony they were the Aquitanians, a Basque people. Greek traders, the Massalians, founded the cities of Marseilles and Trinquetaille as ports and traded upriver with the Celtic tribes of the eastern region, Arelat.
 
@@ -407,7 +407,7 @@ Only one major revolt marred the peace and abundance of Narbonensis. Tolosa (Tou
 
 In 419 AD the Romans fell back from the area in defense of Rome against the barbarian incursions, and the Visigoths swept down in to the region and established it as part of their kingdom. Arles held out for decades, the city only surrendering in 472, when it was overrun by the Visigoths. Even today. Roman remains litter the landscape, mingled with monuments built by faeries and giants.
 
-### *The Coming of Christianity*
+### The Coming of Christianity
 
 The first followers of Christ brought the faith to the region. Mary Magdalene and the Virgin Mary landed at Saintes Marie-de-la-Mer in the years following the crucifixion, and many churches hold relics relating to them. Lazarus, who had been raised from the dead by Christ, accompanied the Holy Virgin and became the first Bishop of Marseilles.
 
@@ -415,11 +415,11 @@ The area remained mainly loyal to the
 
 Roman religion however until the great Bishop Sernin of Toulouse (Saint Saturnin) suffered martyrdom at the hands of the Roman priests, being dragged to death by a bull around the streets of the city in 257. After his inspirational death the power of the Cult of Mercury was broken in the city, and Toulouse converted to the new religion, becoming a flourishing center of Christianity.
 
-### *The Gothic Kingdom of Septimania*
+### The Gothic Kingdom of Septimania
 
 As the Roman Empire declined, the Visigoths settled the region. Arian heretics, the Visigoths served as Imperial *foederati:* barbarian troops stationed in defense of the empire. In return for military service, they were granted rights to settle in Narbonensis in 462. In 475 they relinquished their rights to Narbonensis east of the Rhone in exchange for recognition of their full independence. The Visigothic Kingdom was named Septimania, in honor of its seven cities. Toulouse became its capital and the
 
-### *Story Seed: Golden Treasures*
+### Story Seed: Golden Treasures
 
 Rumors of golden treasures are common throughout the Tribunal. As well as the lost treasure of the lake of Toulouse, another treasure brought to the city and then lost to history was the riches seized in the Sack of Rome in 410. This included the legendary wealth and holy items taken from the Temple in the Siege of Jerusalem by the Romans in 70. Some of the holiest artifacts in the world may still lie hidden somewhere in the dusty lands around the city. There are also stories of the *aurum Tolosanum* containing treasures from the sack of Delphi in 279 BC. Whatever the truth, all the legends agree that gold is still hidden somewhere in the region, and protected by a deadly curse.
 
@@ -432,7 +432,7 @@ In 507, at the Battle of Vouillé, the Franks, under the great King Clovis, defe
 
 The Visigoths converted to mainstream Christianity by the middle of the sixth century. However the influence of the old Roman religion and the remnants of the Cult of Mercury remained strong. Church councils condemned the persistence of local paganism, focusing on the custom of not working on Thursdays in honor of Jupiter. It was these pagan remnants and the last Roman priests (*flamen*) whose secrets Priamitus and Apromor were to seek, and whose legacy forms the basis of the Hermetic Cult of Mercury at Aedes Mercurii (see Chapter 6: Pyrenees, Aedes Mercurii) today.
 
-### *The Frankish Conquest*
+### The Frankish Conquest
 
 By the middle of the sixth century, the Franks, a northern people, had largely defeated the Visigoths. Only in Narbonnais did the Visigothic Kingdom of Septimania survive. The Merovingian Frankish dynasty suffered from endless usurpation and royal murders, and a dark age of anarchy, pestilence, and famine descended upon the region. In Arelat, many of the former Roman cities fell to ruin and were abandoned, with only Marseilles prospering; and as drainage works fell into disrepair marshes took back land long cultivated. Local rebellions were common, and the local lords of Toulouse became increasingly independent, one eventually declaring himself Duke and becoming effectively independent of the Frankish throne.
 
@@ -440,7 +440,7 @@ In 719 the Moors attacked Septimania and took the capital Narbonne before procee
 
 The Franks conquered Septimania in 759, and the Pyrenees region of the Tribunal by the close of the eighth century. Frankish power now embraced the whole region, yet the Frankish dukes in the region craved autonomy. They rebelled frequently, and suffered devastating raids, pillaging, and burning of towns and crops from their northern overlords in response.
 
-### *The Early Order of Hermes*
+### The Early Order of Hermes
 
 With the foundation of the Order of Hermes, magi traveled to Durenmar for the First Tribunal meeting. As the population of the order grew, regional Tribunals were established in 773. These regions had no definite borders, but were instead composed of covenants located in more or less the same parts of the world.
 
@@ -458,18 +458,18 @@ Much of the Hermetic activity in the Val-Negra Tribunal at this time focused on 
 
 **Gelon of Verditius.** Verditius' first apprentice. He became Primus of the House in 801, though he lived at Val-Negra for decades. He was known for his many enchanted swords, and his followers established the Confraternity of Roland.
 
-### *The Covenant of Val-Negra*
+### The Covenant of Val-Negra
 
 Val-Negra, home to the Founder Flambeau, dominated the region politically. It was the largest covenant and included magi from many different Houses. The majority of the other covenants in the region belonged to House Diedne. Located deep in the Pyrenees, Val-Negra was an ideal location for Flambeau to train and quarter his wizardly army. Apromor expanded the covenant, establishing other Hermetic outposts at sites throughout the Pyrenees.
 
-### *Raiders!*
+### Raiders!
 
 In the middle of the ninth century, Vikings established camps all along the western shores of France. Outmatched and outsmarted, and even outmaneuvered, the Franks suffered when the Vikings negotiated an alliance with King Pepin II of Aquitaine, who was seeking independence from the Frankish King Charles the Bald. In 844 Pepin was accused of apostasy after he allied with a Viking adventurer named Jarl Oscar and allowed him to raid up the Garonne as far as Toulouse.
 
 Initially, the magi of the Tribunal avoided the struggle, until tales of strange rune magicians forced them to act against the Norse wizards. The Vikings were not the only threat, for Marseilles was looted and burned by Arab pirates in 838, by Byzantine freebooters in 849, and later by a rapacious
 
 
-### *Charlemagne*
+### Charlemagne
 
 The Frankish Carolingian dynasty faced constant rebellion from the southern lords, and King Charlemagne crushed the resistance in 770 en route to Spain. On his return from campaigning against the Moors in 778, the great tragedy of the Pass of Roncevaux occurred. Moors ambushed and slaughtered Charlemagne's rear guard in the mountain passes, and this still forms the basis of many of the great romances told by the troubadours. The death of Roland, Bishop Turpin, and the others is a tragic tale every child knows.
 
@@ -484,7 +484,7 @@ Two rogue Tytalan magi, who specialized in war magic and led a band of raiding A
 
 In 865 the Grand Tribunal defined seven regional Tribunals. Val-Negra officially became part of the Iberian Tribunal, which also included the Pyrenees and the northern Basque country. Most of France became part of the West Franks Tribunal, except for the small strip of land from Friesland down through Burgundy and Arelat called the Lotharingian Tribunal. Over time the borders of the Tribunal shifted again, with Normandy and the Rhineland subsuming the northern half of Lotharingia as covenants located there began attending one or the other Tribunal instead. This left the remnant, now known as the Provençal Tribunal, as a Mercer House covenant at Arles, a powerful autumn Diedne covenant at Lyon, and a few other covenants nestled in the Rhone valley and along the Mediterranean coast.
 
-### *The Schism War*
+### The Schism War
 
 Once the Schism War began, much fighting took place in Gascony as Diedne covenants fell to massed attacks from Val Negra. There was a great deal of activity among covenants in the Pyrenees whose magi attended the Iberian Tribunal. Val-Negra fell in the conflict, with survivors joining Aedes Mercurii and declaring themselves a Provençal covenant; many other covenants chose to join Provence at this time, partly to resist Tytalan expansion south into the region to claim the spoils of the fallen Diedne covenants. (See *The Lion & The Lily*, 16)
 
@@ -524,15 +524,15 @@ famed for its cruelty and the necromantic prowess of its magi, it was destroyed 
 
 **Yf** (821–911): A Diedne covenant off the coast of Arelat, this site fell long before the Schism War to the depredations of Fraxinetum. One of its members joined the efforts of Coenobium Rhodanien in revenge but her line faded away just before the Schism War.
 
-### *The Fall of Val-Negra*
+### The Fall of Val-Negra
 
 Little is known today of the fate of Val-Negra, once the most powerful covenant of the Tribunal. The destruction of the covenant in the Schism War is known, but the reason it never rose again is not. Given the glorious place the covenant holds in the history of the Order, the evacuation of the covenant and its replacement as domus magna of House Flambeau by Castra Solis might be expected to be better chronicled, but it is not. Curiously, even the exact location of the covenant somewhere in the far south of the Tribunal appears to be lost. The reasons for this are discussed in Chapter 9: Val-Negra.
 
-### *The Counts of Toulouse*
+### The Counts of Toulouse
 
 From the ninth century the counts of Toulouse were once again effectively independent of the distant Frankish
 
-### *Fallen Covenants of the Tribunal*
+### Fallen Covenants of the Tribunal
 
 The troubled history of the Tribunal has left many abandoned sites and Hermetic ruins which may hold forgotten magical resources or provide sites for future covenants. As well as those listed here, nine or more other former Diedne covenant sites exist, stricken from the records in the aftermath of the Schism War by the Quaesitores. Members of the Order are forbidden to seek them out, but now few magi know where they are not supposed to look. There are several other non-Diedne covenants that fell in the Schism War and have been lost to history, though their names can be found in old books and Tribunal records.
 
@@ -559,15 +559,15 @@ It should not be assumed all troubadours are sympathetic to the heretics (who ar
 
 An outgrowth of the remnants of Roman law, notaries appeared primarily in Narbonnais in the 1140s, drafting contracts and charters, developing concurrently with the consular governments common in communes. Notaries were first self-proclaimed, but later appointed by both secular and religious leaders as a means of creating a public office which helped develop the community through the authentication of agreements and documents which could be used in legal proceedings if needed. Their services helped stabilize communities and later notaries were prohibited from becoming clergy; those who took the tonsure gave up their membership to the notariate.
 
-### *An Occitanian Tribunal*
+### An Occitanian Tribunal
 
 Because of disputes between Normandy and the newly-extended Provençal Tribunal, the 1129 Grand Tribunal ruled the border between Provençal and Normandy Tribunals would be defined by where the people spoke Occitan. Although initially unpopular, this distinguishing characteristic of the Tribunal has been adopted by all of the magi of the area, to solidify their claims to its vis and other magical resources. In fact, they have so embraced this legal point that many Hermetic documents are written in both Latin and Occitan, including Tribunal minutes and proclamations.
 
-### *The Fall of Windgraven*
+### The Fall of Windgraven
 
 In 1197 the covenant of Windgraven, situated in the south of the County of Toulouse was destroyed by magi from Mistridge in a justly declared Wizard's War. Windgraven had long had a dark reputation, and the necromancers who lived there had few allies. The covenant consisted of a selection of squat stone towers situated on a rocky plateau in the remains of a Visigothic fortress. The Mistridge magi magically bombarded it with giant rocks, almost leveling the site, in a grim foreshadowing of their own fate a few years later.
 
-### *The Tribunal of 1207*
+### The Tribunal of 1207
 
 Held at Aedes Mercurii, this Tribunal spent a whole day discussing the implications of the Church's attempts to suppress Catharism. Ultimately no firm decision was made, although Oxioun of Tytalus, leader of Aedes Mercurii, spoke at length about the need to avoid interfering in mundane affairs. Oxioun and the large bloc of Mercurian magi were content to wait out developments from their
 
@@ -576,11 +576,11 @@ mountain sanctuary despite the misgivings of the lowland covenants of the Toulou
 
 A few months after the Tribunal closed, the papal legate was murdered near St Gilles and Pope Innocent III declared a crusade against the heretics of southern France. Shortly thereafter Protantus, the Traditionalist Chief Quaesitor, died and was replaced by the more flexible Tibaut, a Transitionalist without Mercurian affiliations. The coincidence passed unnoticed to most magi, although the deaths marked the beginning of great changes in the mundane and Hermetic politics of Provençal.
 
-# *Heretics*
+# Heretics
 
 One of the defining features of the Provençal Tribunal is the prevalence of heretics in its borders. While heretics can be found throughout Mythic Europe, many heresies are limited largely to academics and theologians, and are not a general danger to the wider community. However, in Provençal, heresy has become so widespread as to form a serious challenge to the Church.
 
-### *The Cathars*
+### The Cathars
 
 In the tenth century, the Provençal Tribunal saw the growth of a small heretical group, the Cathars. By 1220, the Cathar faith has become a major and entrenched regional rival to the Church. Their enemies call them Cathars, which means "pure ones," in mockery, or Albigensians after the town of Albi, a stronghold of the heresy. They refer to themselves as Believers, and regard themselves as true Christians, and the Church as hopelessly corrupt, and theologically in error.
 
@@ -590,7 +590,7 @@ The Cathars have developed a church structure of their own. Their "priests" are 
 
 Cathar doctrines vary. As heretics who have rejected the Church's authority, they are prone to internal disputes over doctrine, and Cathars have highly divergent opinions on religion, though the influence of
 
-### *Virtue: Troubadour/Trobairitz*
+### Virtue: Troubadour/Trobairitz
 
 *Minor, Social Status*
 
@@ -600,13 +600,13 @@ You are not tied to any community and survive by performing, entertaining, or do
 
 Troubadour characters often possess virtues such as Famous, Free Expression, Inspirational, Puissant Performance, Social Contacts, True Love, and Well-Traveled.
 
-### *Virtue: Notary*
+### Virtue: Notary
 
 *Minor, Social Status*
 
 Due to your training, you may take Academic Abilities during character creation; however, notaries may not be members of the clergy and are subject to secular law. Your responsibilities include drawing contracts, witnessing charters, verifying transactions and documents, and affixing a specially designed seal. Notaries generally receive their salary from their employer on Christmas. Notaries only have jurisdiction in specific realms or towns, such as the County of Nimes or the city of Montpellier. The Wealthy Virtue and Poor Flaw affect you normally.
 
-### *What is Heresy?*
+### What is Heresy?
 
 Heresy is the teaching of error as truth; the spreading of false doctrines. To be a heretic, one must remain within the faith in question—if you leave a faith, you are an apostate, and if you never held the faith you may be an infidel, but you are not a heretic. In Christianity truth is known through a number of sources, the most important of which are scripture (the Bible) and tradition (the teachings of the Church). Religious truth may also be known by special revelation (an individual's religious experiences such as visions or angelic encounters) and through natural theology (looking at the world and what can be established by empirical study of fallen creation) and by reason, where one logically examines the nature of things. All of these can be snares for the unwary, where errors or demonic deception can lead one astray, and heresies arise where people think for themselves and choose to ignore the authority of the Church, and are misled or mistaken. It is the duty of the clergy to confront error, and correct it by teaching correct doctrine.
 
@@ -637,13 +637,13 @@ The five dioceses are Agen, Albi, Carcassonne, Razes, and Toulouse. Surprisingly
 
 Six hundred Perfecti, equally split between men and women, survive mainly in the area around Toulouse and the Pyrenees where the heresy is strongest, and whole towns and villages of heretics can be found there. Cathar congregations also exist in the Rhine, Roman, Greater Alps, Normandy, and Iberian Tribunals. Cathars are simply too common and too visible for magi to ignore, and characters must learn to deal with the heretics in some way,
 
-### *A Note On Terminology*
+### A Note On Terminology
 
 As stated, the Cathars call themselves Believers (*Croyants*, Occitan, or *Credentes*, Latin), and their "priests" Good Men or Women (Occitan *Bon Homme, Bon Femme*). Outsiders call them Cathars, meaning "pure ones" and the "priests" *Parfaits (*French*)* or *Perfecti* (Latin), a jibe aimed at
 
 their supposed "perfection." As the terms Cathar and Perfecti are far more common today, and as Hermetic magi probably use these terms to describe the group, this book uses the familiar versions, but Cathar characters and their supporters use the correct terms.
 
-### *The Consolamentum*
+### The Consolamentum
 
 The consolamentum is the sacred rite of the faith, which baptizes the Cathar in the Holy Spirit and prepares him for death. It is administered by a Perfectus, and involves certain questions and responses, the Lord's Prayer and an exposition of its meaning in terms of the faith, and anointing with oil. It is vital not to sin or relapse in any way after it is administered; it can only be given once and provides a Faith Point (see *Realms of Power: The Divine Revised Edition*, page 74). As such, it is normally reserved for when death approaches. In the event death does not occur, it is common for Cathars to choose to starve to death, suffering the terminal fast to prevent the possibility of backsliding.
 
@@ -662,15 +662,15 @@ The Order of Hermes lacks a unified response to the Cathar heresy. While a numbe
 
 In turn, most Cathars distrust wizards or witches, and neither understand the Order of Hermes nor know a great deal about it. They are far more likely to attack those they perceive as sorcerers than the Church, as their pacifism often does not extend to supernatural entities and anyone casting spells or using magic is clearly a supernatural entity. Individual magi are fully accepted, and can even become Perfecti, but anything hinting at paganism or supernatural forces opposed to the Divine is usually evil in the eyes of Cathars. At least one Blatantly Gifted magus is believed to have lost his life at the hands of a superstitious mob of Cathars believing him a demon in human form.
 
-### *The Waldensians*
+### The Waldensians
 
 Not all heretics deeply oppose the Church like the Cathars. Some accept it, and long only to reform it. Most important of these are the Waldensians. Despite their enthusiasm for reform, they often stray into heresy. They were popular preachers who translated the Bible into Occitan, but 1215 saw the Waldensians condemned as heretics, even though Pope Innocent III believed them "good Christians." Waldensian characters may be modeled upon the Franciscans depicted in *The Church*, Chapter 8, as can their Dominican adversaries once they come to be organized in their efforts to convert back lost souls.
 
-### *The Luciferians*
+### The Luciferians
 
 Not all Cathars ally with the Divine realm, and not all claiming the Cathar mantle hold the same theological beliefs. Some extreme Cathar theologians call for the desecration of holy items and relics, an act considered terrible even by many other heretics. While many are casual diabolists who foolishly allow anger at the crusade and lust for personal power to tempt them down dark pathways of demonic lore, others are sincere holy men and women who have made fundamental doctrinal errors, and see Lucifer as the savior of mankind. This heresy originated in the Rhine Tribunal, but has adherents here, hiding among the Cathars and slowly spreading their corruption. They are detailed in *Realms of Power: The Infernal*, page 127.
 
-# *The Albigensian Crusade*
+# The Albigensian Crusade
 
 The recent history of the Tribunal has been marked by the atrocities and horrors of the Albigensian Crusade. This violence, now temporarily abated, will have had a strong impact on many characters from the Tribunal. The reason for the crusade is the prevalence of heresy in the region, and heretics can be found throughout the Tribunal, but the most infamous and numerous of these heretics are the Cathars, described earlier.
 
@@ -698,7 +698,7 @@ not driving heretics from their lands. In May 1207, Count Raimond VI of Toulouse
 
 At the meeting, Raimond equivocated and stalled negotiations with the legates. Angrily, they rode away and the count publicly threatened them with death in a frustrated outburst. The legates traveled through the night toward Arles, and before dawn celebrated mass while waiting for the ferry. After the service, one of the legates, Pierre de Castelnau, took his mule down to the riverbank to watch for the ferry. Suddenly a knight appeared, lance leveled, and struck down the unarmed cleric. Pierre de Castelnau was dying by the time the others reached him, his murderer having ridden off. He died asking God for forgiveness for his assailant; it was too late, and the first victim of the impending horror died as the sun rose.
 
-### *Playing a Perfectus*
+### Playing a Perfectus
 
 *Perfecti* are, by their nature, world-denying ascetics, and so may prove difficult characters to fit into many sagas. Despite that, some players may relish the challenge. In Mythic Europe, a few Perfecti have powerful supernatural abilities; these are represented by Mythic Companions, played in place of a magus (see *Realms of Power: The Divine Revised Edition,* page 94). It is, however, quite possible to play a Perfectus as a normal companion character.
 
@@ -734,11 +734,11 @@ When the crusaders arrived at the walled city of Carcassonne, it was clear the c
 
 When the French noble leaders of the crusade finished their forty days' service, they returned home. Arnaud Amaury and a committee elected a new leader, a minor knight called Simon de Montfort, who held estates in the Ile de Paris. He had lost his English estates by a decree of King John stating one could hold lands from the French King or from him; he had elected
 
-### *The Bogomils*
+### The Bogomils
 
 The Bogomils hold many doctrines in common with the Cathars, and may historically share a common origin, but while the Cathars are strongest in the Provençal Tribunal, the Bogomils can be found in the Thebes and Transylvanian Tribunals (see *Against the Dark* page 50 for details). The Bogomils and Cathars regard each other as brethren, and in the 12th and early 13th centuries there was a considerable traffic of missionaries and scholars between them. While geographical distance has increased their doctrinal differences, the two great dualist religious movements continue to be linked, and Bogomil preachers from the East continue to arrive to inspire and preach among the communities of the Languedoc.
 
-### *The Crusade and Your Saga*
+### The Crusade and Your Saga
 
 Any saga set in the Provençal Tribunal must face the reality of the recent horrors of the crusade, and it is highly likely that the events of the past eleven years have had a formative effect on newly Gauntleted magi, companions, and grogs alike. Are they Catholic, Cathar, Waldensian, Jewish, or of another faith group? How do they feel about the heretics? Do they support the crusade, or are they hostile to the de Montforts? Are they patriots supporting the southern lords, or do they look to the foreign French throne? It is likely that characters
 
@@ -746,7 +746,7 @@ of very different background and beliefs may come together in a covenant here, a
 
 When designing a character from the region, consider whether they have been caught up in any of the recent events, and how that back-history has influenced them. Did they survive Béziers? Fight at Muret? Take part in the betrayal at Carcassonne? Were they apprenticed in one of the covenants like Mistridge or Lariander that fell in the fighting?
 
-### *Saint Dominic*
+### Saint Dominic
 
 The Church did have one outstanding missionary among the heretics in this period, Dominic of Guzman (later Saint Dominic), who walked barefoot among the heretics, begging for alms and practicing the strict personal sanctity and holiness familiar to the region only from the Cathar Perfecti and Waldensian preachers. Defeating demons, preach-
 
@@ -806,7 +806,7 @@ Amaury de Montfort laid claim to Simon's titles, and Alice de Montfort continues
 
 In 1219, a second crusade began. Directed by the French royal court, the nobility of northern France supported this endeavor to incorporate the South within greater France. After taking Marmande and conducting a massacre there, the invaders were repulsed before the walls of Toulouse, and today Count Raimond is re-ascendent, restoring control over his County.
 
-# *Languages of Southern France*
+# Languages of Southern France
 
 The following living languages, each with distinct regional dialects, are spoken in the cultured lands of southern France. Most characters should take the appropriate dialect as a specialty but Educated or welltravelled speakers will have tried hard to rid themselves of their dialect and may have standard specialties (see **ArM5**, page 66).
 
@@ -828,7 +828,7 @@ A small number of Jews, particularly in Montpellier, speak Hebrew or the local P
 
 
 
-### *Example Southern French Names*
+### Example Southern French Names
 
 Many southern French names are similar to their northern French counterparts. See *The Lion and the Lily*, pages 136–137 for an extensive list of northern French, Breton and Flemish names that may be used for characters with northern French backgrounds. A selection of Occitan names with their northern French equivalents in parentheses is given here to aid in conversion, but some names are either the same as in French or without a direct French equivalent. Thus Raimond-Berengiers is the Occitan version of the more common French pronunciation of Raymond-Berengar, the Catalan count of Provence. Catalan names are similar to Occitan names and are used predominantly in the county of Provence and the southern coastal district of Rousillon — the Count of Provence is thus referred to as Ramon-Berenguer in his native Catalan domains.
 
@@ -873,19 +873,19 @@ The other pairs are so disparate that comprehension is likely to be based on sig
 *Example:* A character from Arles with Occitan 5 (Provençal/Languedoc) speaks to his fellows in Provence and the Toulousain with an effective score of 6, Occitan speakers with no dialect with an effective score of 5, Occitan speakers of different dialects with a score of 4, Burgundian or Catalan speakers with an effective score of 4, and speakers of French or Lingua Franca at an effective score of 3, but would have difficulty speaking with English crusaders if they spoke Anglo-Norman (effective score 2). He cannot be understood by speakers of Basque, however. A character speaking one of the southern Occitan dialects has the same communication issues, except he communicates with Burgundian speakers with more difficulty at an effective score of only 3.
 
 
-### *Chapter Three*
+### Chapter Three
 
-# *Hermetic Culture*
+# Hermetic Culture
 
 Unlike their northern neighbors, the magi of Provençal have lived easily until recently, generally remaining apart or hidden from settled mundane society in the southern wilderness and the bastions of the Pyrenees. The feudal society dominating the north exists here in a softer form, with emphasis placed more on paratge, the individual bonds and mutual responsibility between nobles, rather than the more hierarchical feudal culture of the north where it is harder for magi to hide from liege lord relationships. The Albigensian Crusade has now fragmented the structure and culture of the south while changing the entire mundane political landscape. Whether the Hermetic magi will retain their existing traditions or become more influenced by their more aggressive northern sodales, who ape feudalism even in Hermetic society (see *The Lion & the Lily*) remains to be seen.
 
 This book presents a Provençal Tribunal of just over a hundred magi. Not all the individual magi or apprentices in each covenant have been described, leaving room for player magi to have lived or been apprenticed in one of the existing covenants. Other covenants exist, one of which may belong to the player characters.
 
-### *The Covenant Oath*
+### The Covenant Oath
 
 One unusual aspect of the Provençal Tribunal is that covenant oaths are by the Peripheral Code enforceable by Tribunal rulings. This leads to many minor internal disputes which would in other Tribunals be resolved by certamen or by the covenant councils being brought to the attention of the whole Tribunal.
 
-### *Founding a New Covenant*
+### Founding a New Covenant
 
 Compared to the hurdles set before magi in the Rhine or Normandy Tribunals, founding a Provençal covenant is straightforward and relatively unrestricted. A group of magi may meet, agree to work with each other toward a common goal, draw up a suitable charter detailing their oath of covenant, and together swear to the oath—the act of taking an oath together being the most important component. The only legal aspect of concern is the requirement demanding a Quaesitor notarizes the charter, which renders the contents of the charter legally enforceable under the Peripheral Code, but some groups of magi delay this formality.
 
@@ -900,13 +900,13 @@ a disproportionate number of failed and abandoned covenants.
 
 One notable local peculiarity is the looser definition of a covenant: some Provençal covenants are spread over multiple locations. Indeed, in some cases all the magi live separately and only meet in council when necessary. Castra Solis is one example, where the Praeco and her filia are members of the covenant although they live at a distance near Mimizan and in Poitiers respectively. Another covenant, the Coenobium, has multiple sites scattered throughout the east of the Tribunal.
 
-### *Residency*
+### Residency
 
 In order to be considered a resident of the Tribunal, magi must have attended one of the last three Tribunals, or be granted the status by a vote at their first Tribunal. Magi Gauntleted in the Tribunal are automatically considered residents until three Tribunals have passed with them absent from the Tribunal meeting. If immigrants establish a covenant between Tribunals, the magi must either register with both the Redcaps and Praeco or with their closest neighbor; if they want to register with a neighbor, a Redcap leads them if they do not know the closest neighbor's site.
 
 Magi who have registered as resident in the Tribunal are considered residents until they claim residency in another Tribunal or attend and vote at another Tribunal's gathering. Magi claiming residency in a different Tribunal must register their departure from Provençal with either the Provençal Redcaps or the Praeco prior to voting in another Tribunal's gathering, or they are found in violation of the Peripheral Code.
 
-# *The Covenants of the Provençal Tribunal*
+# The Covenants of the Provençal Tribunal
 
 The Provençal Tribunal has three main power centers. In the west, the Mercurian magi of Aedes Mercurii and the Mithraian magi of Castra Solis dispute the true legacy of Val Negra and House Flambeau. In the east, the chapterhouses that compose the multi-site Coenobium attempt to prevent new covenants from forming. Nevertheless, the Tribunal has many covenants, and some, like Tolosa Paratge and Bellaquin, are of considerable age and prestige. The Crusade, and disagreements over what the Order's response to it should be, have led to a deeply divided Tribunal.
 
@@ -1053,7 +1053,7 @@ General opinion within the Tribunal
 
 holds that Tolosa Paratge is self-destructing. From a sense of decorum, the other covenants have tacitly agreed to let them resolve their own issues and see who, or what, emerges from the aftermath. Certainly individual magi of various covenants have personal opinions, and may act on these beliefs indirectly, but no one currently intends to act openly. Renaud of Stella Durus has concern for his pater, and the magi of the Coenobium always admired Tolosa Paratge's style, but for now, the general attitude is to wait and watch.
 
-### *Other Magi of Provence*
+### Other Magi of Provence
 
 A few other Hermetic groups and smaller covenants exist but seek to hide from the politics of the region.
 
@@ -1071,7 +1071,7 @@ The infamous Rusticani magus Tres Ex Miscellanea (see Chapter 1: History) and hi
 
 
 
-### *New Mercurian Rituals*
+### New Mercurian Rituals
 
 #### **Set the Stones of the Via**
 
@@ -1116,17 +1116,17 @@ In the years following the end of the Schism War, a Mercurian priest of Janus na
 
 posed to anything the Order of Hermes does, and do not attend Tribunal. They remain initially aloof to newly established covenants, with their attitude shifting from indifference to hatred. This change occurs over many seasons, and depends on how the magi treat the mundane populations surrounding their base. To those magi who seek to establish themselves as a ruling class, Tres' band responds aggressively, approaching the covenant with the intention of dissuading them. They would hate to have to teach the lesson of Mistridge again, but have no qualms about doing so. The Rusticani are an Ex Miscellanea tradition detailed in *Houses of Hermes: Societates*, pages 130–133.
 
-# *Cults & Factions of Provence*
+# Cults & Factions of Provence
 
 Mystery Cults are extremely important in the politics of the Provençal Tribunal. From the Mystery Houses, there are Bjornaer magi within the Coenobium (Chapter 8: Arelat), a clutch of Criamon magi and many Verditii magi in Narbonnais (Chapter 7), another Verditius magus in Toulouse (Chapter 4), and two powerful Merinita with their own variations on their House's secrets: the Praeco Dama and Luc of the Perpignan. There is also a renegade tradition forced from House Criamon and accepted in to House Ex Miscellanea, the Gorgiastic Cathars. These groups' ambitions transcend covenants, and are part of the wider Hermetic Culture.
 
-### *The Legion of Mithras*
+### The Legion of Mithras
 
 Most of the magi at Castra Solis staunchly support the Legion of Mithras (see *The Mysteries Revised Edition*, pages 118–122) and it is known the covenant is one of their bases of power. Many high-ranking initiates within the Order think the rumored Great Temple lies somewhere in France, perhaps even the very Mithraic temple Castra Solis was built to protect (see Chapter 5: Gascony: Castra Solis). However, the Legion existed long before the construction of the now-famous covenant, so perhaps not.
 
 The Mithraians in House Flambeau are in the main Christian (See *Houses of Hermes: Societates*, pages 16–19 for a description of the Mithraic faction). A few may actually worship the ancient pagan deity, but they
 
-### *New Mercurian Rituals cont'd*
+### New Mercurian Rituals cont'd
 
 #### **Hermetic Integration of the Via Mercuria**
 
@@ -1160,13 +1160,13 @@ keep this secret well; the majority regard Mithras as an allegorical and magical
 
 The Mithraians can often be individualistic, though many have joined the Milites and sworn the chivalric oath of service before Primus Garus (See *Houses of Hermes: Societates*, pages 15–16). The Mithraians are divided in their attitude to the rise of the Milites, but united in their absolute contempt for the Flambeau of the Cult of Mercury and their quiet determination to thwart the pretensions of Aedes Mercurii to the title of domus magna, and to defeat the political ambitions of their pagan brethren in anyway possible.
 
-### *The Cult of Mercury*
+### The Cult of Mercury
 
 Aedes Mercurii serves as the fractious and confused center of what now remains of the former Cult of Mercury (see *Houses of Hermes: Societates* pages 16–17) in the Provençal Tribunal. They possess many ancient magical secrets, left over and guarded jealously from the early history of the Cult before it divided and became the Neo-Mercurians of other Tribunals (see *The Mysteries Revised Edition*, pages 114–117). It is possible that magi who show exceptional promise will be invited to join the Cult of Mercury, and to be initiated into its secrets.
 
 The cult in Provence considers itself to be the true descendants of the ancient Mercurian Cult of Rome; they are antagonistic toward the Neo-Mercurian orders, whom they see as traitors and deluded fools. Within the Tribunal the priests (flamen) of the cult hold ceremonial positions by ancient tradition; despite their avowed paganism they perform rites that are largely uncontested because of the weight of tradition. At the start of each day of the Tribunal meeting they wear their elaborate masks and colorful robes of office. They are expected to speak for "the gods" in Hermetic ceremonies, reading signs and omens. Few magi take them seriously these days, and the official flamen at Tribunal is generally considered as irrelevant, an amusing piece of Hermetic tradition, or, to the more pious magi of Castra Solis, as blasphemous and worthy only of contempt. Yet the ancient tradition continues, and through the Cult the flamen
 
-### *Consecration of Priamitus*
+### Consecration of Priamitus
 
 **Ease Factor:** 21 (Major Virtue: Mercurian Magic known to the Mystagogue)
 
@@ -1180,11 +1180,11 @@ The revitalization of the Mercurian religion began in the mountains of the Pyren
 
 The Mercurians are rigorously isolationist with regards to mundane society, and have no desire to be involved with either Cathars or Church, holding that magi have no business interfering in mundane matters. They are arch-conservatives, and while they dream of a return of the glory that was Rome, they aim to keep the Order as disengaged from the mundane world as possible. They despise the Mithraian faction in House Flambeau, whom they see as falsely taking the title of domus magna for Castra Solis when Aedes Mercurii is clearly the true heir to the lost covenant of Val Negra.
 
-### *The Knights of the Green Stone*
+### The Knights of the Green Stone
 
 A small chapter of these chivalrous magi (described in *The Mysteries Revised Edition*, pages 131–132) thrives among the Ostal des Exiles in the Toulousain, with members in other covenants. (Chapter 4: Toulouse; Ostal des Exiles) They are led by Gilbert of Flambeau and have strong links with Rhine and Normandy magi of the cult. If you are not using the Knights of the Green Stone in your saga, you can safely ignore them.
 
-### *The Matres & Matrones*
+### The Matres & Matrones
 
 The origins of one of the most important Mystery cults of the region lie with the mater of the current Praeco, Dama of Merinita, in the late 800s. Not much is known about this maga, and Dama herself does not speak of her even to other members of the cult, but she is said to have come from the Thebes Tribunal. She lived in a covenant in the Médoc that she inherited (or stole) from Maugris of Diedne. She taught her magical secrets to her filii, Marie and Dama, and had strong ties to folk witches.
 
@@ -1192,7 +1192,7 @@ The cult is dedicated to the advancement of women, and gained most of its imager
 
 The cult includes some hedge wizards as well, and unGifted women who possess supernatural abilities and are thus granted ceremonial and organizational membership. The cult is not widely known, but can be uncovered with a cursory investigation; it is obscure, but not secret. Easily available information suggests that the Praeco Dama
 
-### *New Virtues*
+### New Virtues
 
 These Virtues are Initiated by the cult of the Matres and Matrones, and are probably only found among their members or those descended from them.
 
@@ -1209,13 +1209,13 @@ Feminine Sympathy is a Minor or Major Supernatural Virtue giving the initiate a 
 This Minor Supernatural Virtue allows the caster to benefit from Magic, Faerie, and Infernal auras, as if her powers were aligned to all three realms, and she is protected against gaining Warping Points from exposure to any of those auras. However, taking advantage of a foreign aura using this Virtue subtly taints the application of her magic, so that Divine and Infernal powers that sense holiness or unholiness recognize the character's dark influence as unholy. This Virtue is thought to be related to Chthonic Magic, and may have originally come to the Order and the cult from the Witches of Thessaly.
 
 
-### *The Procrustean League*
+### The Procrustean League
 
 A short lived and controversial alliance led by the Cathar sympathizer, Tolomae of Bellaquin, this group advocated open war against the Church in order to prevent the loss of Hermetic holdings in Provençal. Considered extremely dangerous by the majority of magi and renounced by both the conservative Mercurians of Aedes Mercuriae and the pragmatists of the Coenobium, House Jerbiton expelled Tolomae and declared him orbus (no longer a member of the House) in 1216. Tolomae was a suspect in the murder of the papal legate, Pierre de Castelnaudry, but fled without answering the investigating Quaesitor's questions. He was Marched in early 1218 for repeatedly interfering with mundanes, and slain.
 
 After his death, several of Tolomae's rumored supporters fled to other covenants or remain unaccounted for in the wake of the Albigensian crusade. They hide amongst the faidits, the dispossessed nobility of Langue d'Oc. Some magi wonder whether their cause will vengefully resurface in the near future, honed to bitterness by the recent catastrophe.
 
-### *Tres of Ex Miscellanea*
+### Tres of Ex Miscellanea
 
 Leader of a ragtag bunch of outcasts and opportunistic routiers from the northern armies, Tres is a rusticarii (a Craft magus, see *Houses of Hermes: Societates*, page 130) who returned to the Tribunal of his birth seeking vengeance. He is described in Chapter 5: Gascony.
 
@@ -1229,7 +1229,7 @@ Initiates into the second level are called Mothers (Matres) and take responsibil
 
 The recipients of the final level of initiation are the Matrons (Matrones), dedicated to advancing the cult's goals among magical organizations and with representatives of the supernatural realms. Any potential Matron must have a score of 6 in Organization Lore: Matres and Matrones, a Feminine Sympathy Trait of at least +3, must have raised a child or apprentice to maturity, and must be of an age to have undergone menopause. They learn either Intuition, Dark Magic (see sidebar), or Chthonic Magic (see *Realms of Power: The Infernal*, pages 123–124).
 
-### *An Ex Miscellanea Tradition: The Gorgiastic Cathars*
+### An Ex Miscellanea Tradition: The Gorgiastic Cathars
 
 The Cathars hold a wide spectrum of beliefs, and argue and fragment on doctrinal issues. On the whole most Cathars are very open about their beliefs — they are not gnostic, that is they do not claim that special knowledge is needed for salvation. Among the many differing interpretations of the Cathar faith preached, there is a small mystery cult of theurgists, whose teachings ultimately derive from the Teachings of Criamon the Founder. They identify themselves as members of the Cathar Church, observe the Consolamentum, and honor the Perfecti, yet are in fact heretics even as far as most Cathars are concerned. As they are a Mystery Initiatory tradition and associated with the Magic Realm not the Divine, they have remained largely undetected, and they choose not to enter theological disputes with their "less enlightened" coreligionists. As such few Cathars recognize them as anything but brethren.
 
@@ -1237,7 +1237,7 @@ The origin of the Gorgiastic Cathars lies in the tenth century, with a renegade 
 
 
 
-### *Potential Parentes of the Provençal Tribunal*
+### Potential Parentes of the Provençal Tribunal
 
 For players who want their characters to have completed their apprenticeship in the Tribunal, the following magi would make suitable parentes for the characters.
 
@@ -1308,7 +1308,7 @@ Anaïs founded a lineage through her two apprentices, who shared her religious b
 Gorgiastic Cathars as an Ex Miscellanea Tradition receive the Major Hermetic Flaw: Twilight Prone, the General Major Virtue Ghostly Warder (referred to as their 'Genius', a tutelary spirit), and the Minor Hermetic Virtue: Quiet Magic.
 
 
-# *The Tribunal of 1214*
+# The Tribunal of 1214
 
 Remembered as one of the most discordant gatherings since the Schism War, the Tribunal held after the outbreak of the Crusade led to violent disagreements between Provençal magi. Originally scheduled to be held in Toulouse, the violence of the intervening years and the presence of de Montfort's army outside the city's walls required an alternative and the gathering shifted to Castra Solis, much to the chagrin of the Mercurian magi. Recent Hermetic responses to the crusade and charges of mundane interference against various magi who claimed to be defending their magical power in the face of the Crusade dominated discussion. Many accused magi from the Normandy Tribunal of clandestine interference, some Flambeau magi boldly claimed that their Tytalan rivals engineered the crusade.
 
@@ -1316,7 +1316,7 @@ The outspoken Tolomae of Jerbiton argued for a coordinated Hermetic response to 
 
 During the Tribunal an attempt was made to bring charges against the magus Tres of Ex Miscellanea, who had armed a company of mercenaries with magical weapons claiming they were all his grogs, and employed them to destroy the covenant of Mistridge, leveling the magically conjured tower with magical siege artillery. Despite the fact Tres' actions were deplored by many, they were part of a justly declared Wizard's War, and no ruling exists restricting the employment of grogs in the pursuit of such an action. The vote was narrowly in his favour, and Tres wisely fled in to hiding to escape the vengeance of the friends of Mistridge.
 
-# *The Upcoming Tribunal of 1221*
+# The Upcoming Tribunal of 1221
 
 The next Tribunal meeting will take place, by agreement, in the ruins of Glanum (Chapter 8, Arelat: Glanum) in summer 1221. The Praeco Dama of Merinta, a maga of exceptional age and power, commands respect from many in the Tribunal, and is known to favor female magi. Despite her membership in Castra Solis, she lives apart in a small tower near Mimizan in Gascony, where she pursues her magical interests in seclusion. Perhaps for this reason she is regarded as acceptable by many Mercurians, and even Aedes Mercurii pay heed to her words if she chooses to speak.
 
@@ -1326,15 +1326,15 @@ Given the recent upheavals, it is likely that the dominating theme at council wi
 
 An issue also in many senior magi's minds is the growing power of the Coenobium, long respected as a source of stability and a paragon of cooperation amongst magi. The Jerbiton-and-Mercere controlled collective has greatly increased its influence, unopposed in the turmoil created by the recent destruction of several covenants by the crusaders. Its increasingly expanding hegemony makes even former allies uneasy. Tolosa Paratge's internal war may also be raised, if any magi feel the situation should be resolved by the Tribunal and bring a case.
 
-### *Chapter Four*
+### Chapter Four
 
-# *The County of Toulouse*
+# The County of Toulouse
 
 The County of Toulouse lies in the center of the Tribunal, situated in a shallow depression between the heights of the Pyrenees and the highlands of Provence. It is a land of castles, with the ranges of hills and rocky outcrops that rise above the plain topped by scattered fortifications. The towns and villages are built of either wattle, daub, and wood, or in the famous local brick that ranges in color from vivid pinks to bright reds. At dawn and sunset the "red towns" of the region glow with the sunlight's reflection on the brick houses, and the beauty of the scene is much remarked upon by northern visitors.
 
 Toulouse is a dusty land of orchards, vineyards and farms, crisscrossed by wide drovers' trails (sometimes a mile across). Vast flocks of cattle, sheep, and goats are driven to their summer pastures in the Pyrenees in late spring, and back to the lowland pastures in early autumn.
 
-# *The Counts of Toulouse*
+# The Counts of Toulouse
 
 After the Merovingian conquest of the region, royal appointees were set over Toulouse to administer the district, taking the title of comte. During the Carolingian era the role became hereditary, passing through primogeniture on the male side, though in the absence of a suitable male heir a daughter could inherit. The dynasty produced the Countess Phillippa Maude, Duchess of Aquitaine, in the late eleventh century; the title may well pass to a woman in the future. The current heir is Raimond, son of Raimond VI, however, and his daughter Joan, born in 1220, will only become countess if he has no sons.
 
@@ -1346,21 +1346,21 @@ Since the Crusade began Raimond has been stripped of many titles, and following 
 
 In 1218 Simon de Montfort was killed besieging Toulouse, and while Raimond's claims to the title are currently maintained by military force, he still works assiduously to be once again recognized as the legitimate count of Toulouse (a title claimed by Simon's son, Amaury). Today, following the failure of the Royal Crusade of 1217, when Prince Louis' army was turned back outside the walls of Toulouse, Raimond is firmly in control of the city and holds parts of the county. Whether he can reach agreement with the French throne and papacy and pass his inheritance to his faithful son remains to be seen. Raimond has one rather surprising supporter: Arnaud Almaric, the papal legate who uttered the infamous words outside Béziers, "Kill them all; God will know his own." Unlike the bishop of Toulouse, Foulques de Marseilles, who remains an implacable enemy of the count, Amalric the legate, a long time supporter of the Crusade, switched sides after the death of de Montfort and made his peace with Raimond.
 
-### *Toulouse Covenants*
+### Toulouse Covenants
 
 **Current Covenants:** Ostal des Exiles, Tolosa Paratge
 
 **Ruined, Abandoned, or Lost Covenants:** Windgraven, Lariander
 
-# *Toulouse*
+# Toulouse
 
 The regional capital, Toulouse is the most important city of the county and one of the largest, most cultured, and most prosperous cities in Mythic Europe. It forms the heart of the Languedoc; a former Roman and Visigothic capital, it is the city the whole region looks to, and regards itself as far more advanced economically and culturally than its northern rival, Paris. The inhabitants are ruled over by the counts, and an elected body, the Capitole, to whom the counts have abdicated much power. The only rival is the bishop who shares responsibility for justice within the city, a shared prerogative that leads to considerable turmoil and tension.
 
-### *The Walls*
+### The Walls
 
 Toulouse has a strong city wall that has withstood repeated sieges. It was besieged unsuccessfully by Simon de Montfort in the summer of 1211, though it opened its gates to him in 1215. After being expelled by the popular rising in the autumn of 1216, de Montfort unsuccessfully besieged the city from autumn 1217 until his death outside the walls in the summer of 1218. The summer of 1219 saw the Dauphin Louis unsuccessfully besiege the city once again, withdrawing as pestilence broke out in his army. The count's castle, the Château Narbonnais, stands on the western edge of Toulouse, within the city walls, and guards the western approaches to the city through a great gate. Simon de Montfort's wife Alice was forced to surrender the castle after holding out against the townsfolk on the return of Count Raimond in the autumn of 1217, but it usually forms a citadel if the walls of the city proper are breached.
 
-### *The Capitole*
+### The Capitole
 
 It is rare for Hermetic culture to influence mundane society, but the *Capitole* of Toulouse was influenced by the Hermetic Tribunal system. It was in return for unspecified favors from the Order of Hermes that Count Raimond IV in 1154 set up an elected chapter of magistrates to judge trade disputes and oversee legal cases on his behalf. (The law of the region is a magisterial system, based on Roman and Visigothic law, rather than the jury system of the north; *Lion and the Lily*, page 104). Originally consisting of four lawyers, two judges, and six prominent townsfolk known as sheriffs and appointed by the count, in 1188 the elected sheriffs expelled the judges and lawyers and took over their functions, and the *Capitole* took on the rights to control the guard, raise a militia, declare war, raise and set taxes, and regulate trade. Count Raimond V acquiesced, distracted by a conflict with Aragon and England, and since that time the twelve elected sheriffs, or capitouls, have effectively ruled Toulouse with the consent of the count.
 
@@ -1370,7 +1370,7 @@ The capitouls are elected by the householders of Toulouse who are of good standi
 
 The capitouls purchased a number of houses in 1190 that have been knocked together into the *Capitole* building, where citizens can petition the capitouls and where trade disputes, matters of taxation and guild laws, and justice are decided, and the capitouls work for the good of Toulouse. Considerable wealth, influence, or a story about the struggle to win them over will often be needed to get a favorable ruling. The capitouls are often split by their personal political agendas and those of the vested interests they represent, and a simple majority is needed to pass a law. Those who serve as capitouls are treated as at least minor nobility for the rest of their lives, regardless of actual birth status; they are treated with great respect and accorded the honorific title "sheriff" even after their term of office ends.
 
-### *Two Churchmen*
+### Two Churchmen
 
 Two churchmen associated with Toulouse will help determine the fate of the region. Both of them have had dealings with the Order of Hermes in the past, and undoubtedly will again in the future, but both are extremely dangerous men who must be handled with great care if disaster is to be avoided.
 
@@ -1378,7 +1378,7 @@ Two churchmen associated with Toulouse will help determine the fate of the regio
 
 One of the most controversial figures in the region, and one of the most powerful, Foulques de Marseilles is the bishop of Toulouse. He is hated and vilified by the majority of its citizens, even those formerly loyal to the Church. In his youth he was a troubadour of considerable prowess and reputation; a vision experienced 25 years ago caused him to renounce his former wicked ways. Now he is moved to tears and stern penance whenever he hears one of his songs sung, horrified that his vices endure. Entering the Church, he became a strong opponent of the moral laxity and easy going ways of life in the region, and in particular
 
-### *Toulouse, City of Towers*
+### Toulouse, City of Towers
 
 Toulouse's more prosperous citizens have long grown used to the occasional violence and turmoil of city life, and a number of minor noble families, capitouls*,* and wealthy citizens have invested in fortified towers within the city and a small guard, analogous to the Order's grogs. While de Montfort had the towers attached to the city wall razed after taking the city, there are still at least 20 towers within the city, and one is held by the "white" faction of the covenant of Tolosa Paratge. Acquiring or building a tower is a perfectly sensible option for magi or Wealthy companions who wish to maintain a presence in the city.
 
@@ -1433,7 +1433,7 @@ The Church takes its name from the distinctive lime whitewash used to paint it, 
 
 The wealthiest part of the city, Saint-Etienne is home to many nobles and prosperous citizens. In Toulouse, wealthy merchants and commoners can aspire to join the petty nobility, but the noble and commoner divide makes much less difference
 
-### *The Mystery of the Regio*
+### The Mystery of the Regio
 
 The regio containing the covenant is in some sense an echo of the ancient lake where the Tolosans offered sacrifices to ward off illness and maintain the prosperity of their city in the centuries before the Romans came to this region. It is known to be linked to the flow of the Garonne River, and this is the basis of Adam's experiments. What the magi of Tolouse do not realize is that it is also linked to the power and prosperity of the city itself – the recent catastrophic weakening of the aura and difficulty in reaching the regio was at least partially the result of the conquest by de Montfort, and the fall of Toulouse into internal conflict. The very magi reflect these tensions, and are driven in some mysterious way by these forces, as mirrored in the recent tragedies that have afflicted the covenant. Only if someone realizes that the city must be healed to save the covenant, and restores the pursuit of learning and culture, by perhaps founding a university within the city walls, or doing more to encourage Occitanian culture, will the regio survive. It is a by-product of the powerful genius loci of the city itself. Adam's experiment with La Garonne is simply a first step; it was the increased prosperity of the mills and shareholders, not the flow of water, that has positively effected the regio.
 
@@ -1474,7 +1474,7 @@ The regio containing the covenant is in some sense an echo of the ancient lake w
 **Appearance:** The genius loci of Toulouse usually manifests, if seen by Second Sight, as a damp mist, or a figure of indeterminate gender seemingly made out of water and pond reeds. It answers only to the name Tolosa, and the magi tend to avoid interfering with it, though they are aware it has weakened substantially in recent years. At night it can sometimes be found manifested in its human form, as a fisherman sitting on Adam Carpentiere's river barrage fishing, and is only too willing to chat to anyone. It rarely makes much sense though, at least to short-lived mortals.
 
 
-### *The Magic Lake*
+### The Magic Lake
 
 In ancient times, the inhabitants of Toulouse propitiated a spirit in a lake on the Garonne in what is now this district of the city. When pestilence spread from the marshy regions around the lake, offerings of gold and silver were consecrated and sacrificed to the lake waters, and the disease died away. No one knows the name of the deity who dwelled in the lake, but in 106 BC the Roman governor Quintus Caepio Severus had the lake drained, and took the great treasure that had accumulated in the muddy bottom. Rumor has it that something else, something more potent, more disturbing, was recovered from the lake; no one knows what it was, but many stories are told to this day. No immediate harm befell Severus despite the warnings of the Tolosate priests, and he founded a temple to Apollo here on what was once the site of the mysterious lake.
 
@@ -1497,7 +1497,7 @@ This is the area around the oldest bridge across the River Garonne, and its colo
 This is the quarter closest to the River Garonne, and has the colors of green and white. It is the site of the church of Our Lady of the Sea Bream, a twelve-sided basilica with a fine dome and finer gold mosaics, which holds a Black Madonna statue, Notre-Dame Noire. The church, built on the foundations of an ancient Roman temple to Apollo, is attached to a Benedictine monastery. In early May each year a procession of flowers is brought here, the church decorated, and a public feast held. If your saga follows history then within ten years the Augustinian poetry contest held in the orchard of Saint-Sernin will be transferred here, and develop into the Festival of the Flowers, where gold and silver flowers are awarded to the finest Occitanian compositions. The area is both Toulouse-nationalist and loyal to the Church, with Cathars unwelcome here.
 
 
-# *Tolosa Paratge*
+# Tolosa Paratge
 
 Situated in a regio within the city of Toulouse, amidst the ghostly memory of a once holy lake, this cosmopolitan covenant is composed of nine magi from five Houses: Jerbiton, Flambeau, Criamon, Ex Miscellanea, and a single Verditius. As an ancient, long established covenant, they have weathered centuries of Hermetic politics, but recent crises in the mundane world threaten to tear them apart. They have fallen victim to internal dissent and something akin to civil war, with recent Wizard's Wars called between members of the covenant having claimed two magi, leaving the rest in fear. They guard the genius loci of the city, and see themselves as servants of the city; when the citizens turned against themselves, madness and death struck the covenant. Some favor the Cathar cause, while others remain loyal to the Church, and both the Black and
 
@@ -1506,7 +1506,7 @@ White Brotherhoods claimed the support of some of the magi. All of them share a 
 
 The covenant is hopelessly divided into two factions. The magi who support Bishop Foulques are currently too fearful to enter the regio and have established laboratories in the city. The pro-Cathar magi have holed themselves up in the regio, fearing to leave, besieged by their former colleagues, and waiting for the inevitable outbreak of further Wizard's Wars. Both sides are acting in a manner that would scandalize most of the Order if it were more generally known.
 
-### *History*
+### History
 
 Tolosa Paratge was founded in the first wave of the Order of Hermes, and was one of the four original covenants of the Val Negra Tribunal. A House Diedne covenant, it was unusual for its size, having six or more members for two centuries. Once a leading site for Diedne magical research, the magi were rumored, unusually for their House, to be specialists in spirit magic, and developed a slightly sinister reputation within the Tribunal. Their refusal to admit a deputation of Quaesitors following the mysterious death of the senior Tremere maga in the Tribunal was one of the first incidents in the tragic events leading up to the Schism War.
 
@@ -1608,7 +1608,7 @@ The situation at Tolosa Paratge has long since passed the normal limits imposed 
 are treated with wary respect by both sides, but neither exactly encourage visits, being wrapped up in their own conflicts. When it becomes clear however that a valuable text was borrowed before the conflict started, and is now somewhere at Tolosa Paratge, the characters are sent to fetch it back. Can they help bring peace to the troubled covenant, or will they be drawn into the conflicts?
 
 
-### *The Toulouse Hinterland*
+### The Toulouse Hinterland
 
 The towns around Toulouse stand in golden fields of wheat, with rocky sheep pastures dotted with plants on low hills. Many of the towns have emulated Toulouse in casting off feudal duties and electing capitouls to pass laws and run the towns in the interest of the artisans and burghers. There are many small castles dotted around the region, some held by Crusaders, or those loyal to the Crusade, some by southern lords still sheltering Cathars and faidits (knights dispossessed by the crusade, and now landless and lord-less).
 
@@ -1620,7 +1620,7 @@ One of the strongest castles taken by de Montfort, the news has arrived that the
 
 This small castle and hamlet were home to Carolus St. Tropez, magus of Tolosa Paratge, just three miles from the city. Captured by de Montfort, it was taken back by St. Tropez and handful of men in the summer of 1213. The three crusader knights defending it (who had been burning crops around Toulouse, and perhaps not coincidentally destroying vis sources as well) were taken prisoner, and the rest of the garrison massacred. However, a mob broke into the dungeon in Château Narbonnais where they were being held, mutilated the knights, dragged them behind horses through the streets, and strung up their remains on gallows outside the city walls. St. Tropez believes the knights were controlled by the Gorgiastic Cathar Marc of Toulouse. St. Tropez has since slain Marc in a Wizard's War.
 
-### *Albi*
+### Albi
 
 The country south of Albi is notorious for its Cathar sympathies, so much so that the term "Albigensian" was applied to all the heretics, and to the Crusade to exterminate them. The area has many woodlands, and is haunted by the faerie White Ladies known as the Demesoilles. The local vineyards produce an unexceptional, cheap, but palatable wine drunk extensively throughout the whole of the Tribunal, and far beyond.
 
@@ -1634,7 +1634,7 @@ Castres is a fortified city that developed around the Benedictine monastery of S
 
 After their capture the two Good Men were tried, and one recanted and asked for mercy. These were to be the first Cathar victims of the crusade, and a discussion ensued. Eventually the assembled clergy decided he should be burned anyway, in case his repentance was not genuine, and that God could judge his soul. Both men were chained to a stake in the market place, and the fire lit, but even as the flames took the Cathar, the iron chains fell from the repentant sinner, who stepped unharmed from the fire, and so was spared.
 
-### *Agen*
+### Agen
 
 This region is the far north of the County of Toulouse. It is filled with low ranges of hills and woodlands and known for its sheep, more in keeping with the French landscape than the lands to the south. The area produces fine quality wool, and is prosperous, but the heretics are very strong here.
 
@@ -1647,7 +1647,7 @@ Lavaur is today a crusader stronghold,
 
 held by Gui de Lucy. The meadow where the Cathars were burned has become a field of ashes, where no grass or wild flowers grow, and the atrocity has led to the growth of an Infernal aura of strength 6.
 
-### *Cahors*
+### Cahors
 
 The city of Cahors is notorious for its moneylenders, whose usury has brought condemnation from the Church. The Jewish quarter houses some of these great moneylenders, but by no means all. Twenty years ago, at the insistence of the Church, Toulouse outlawed the mortgage and loan agreements that had been common in the region for centuries, and Cahors has taken over as the place to go to raise money fast. The towns around Cahors are primarily dedicated to the production of the superb local "black wine" (actually a deep red), which is exported all over Mythic Europe. Vineyards can be found on almost every south facing slope, and many are surmounted by castles.
 
@@ -1659,15 +1659,15 @@ A stronghold of Catharism, the town of Montcuq has a small castle that fell to d
 
 The Morlhon family had a history of crusading in the Holy Land, and it was while on crusade that Odo de Morlhon had a vision that told him to build a religious establishment dedicated to the Holy Sepulchre. On his return he did so, founding the monastery now under the rule of Cluny at the nearby town of Villeneuve. Despite this the crusaders, on taking the castle, made the lord a *faidit*, and his titles are still held by the de Montfort family. When the crusaders captured the castle and town in 1214 they found seven Waldensians, and although the Waldensians were not to be declared heretics until the Fourth Lateran Council in 1215 the papal legate had all seven burned in the market place anyway. Orthodoxy was no protection during the crusade, as the Lord of Morlhon found when he was dispossessed by the agents of the Church his family had served so faithfully. Pons de Morlhon has become a companion of the
 
-### *Story Seed: The Ghost of Na Geralda*
+### Story Seed: The Ghost of Na Geralda
 
 Lavaur is still haunted by a well known ghost, that of the beautiful and learned noblewoman Na Geralda who was murdered by the crusaders. Her spirit can manifest physically, and is dressed in fashionable noble dress, with no obvious signs of the trauma that led to her horrific death. She attempts to seduce suitable candidates into a *fin amor*, only revealing her ghostly state some way into the courtship, and then pleading with her lover to give her bones a proper burial. None so far have dared, and if refused she appears as a hideous mutilated corpse showing the horrible scars of her murder, and terrifies her unfaithful lover. The crusaders are aware that the death of Na Geralda was an atrocity, and wish her bones and memory to remain undisturbed so any who do try to lay the ghost to rest face the anger of Gui de Lucy and his men. The crusaders can not see the ghost (no one is sure why) and they do not believe the stories.
 
-### *Story Seed: A Rare Vintage*
+### Story Seed: A Rare Vintage
 
 Cahors Black is not just a very fine wine; a few flasks, when properly made, contain a potent source of Spell-like vis (see *Realms of Power: Magic*, page 121). A moneylender who runs the risk of being ruined by an unwise loan to a local noble offers the wine, which he has realized has extraordinary properties, to any person who can enforce his mortgage agreement and recover his money, or payments from the noble. The noble lives in Toulouse, and claims that the payment agreement is illegal (as it now is in that city) and that the debt is canceled. In 1201 existing agreements were honored as the law abolished them, but this agreement was made after mortgages were made illegal. It may take a ruling of the capitouls or the bishop to resolve — is even this special vis really worth it?
 
-### *Story Seed: The Traitors of Lolmie*
+### Story Seed: The Traitors of Lolmie
 
 The garrison at Lolmie saved their own lives by delivering Baudouin to the crusaders. With his dying breath he cursed his brother's bones to lie unburied forever, and cursed all the traitors of Lolmie to early graves. Many of the men have since died, in what appear to be inexplicable accidents, and the remainder are terrified and come to the covenant seeking help in lifting Baudouin's curse. Victims of the curse suffer an additional four botch dice until they seek forgiveness.
 
@@ -1699,7 +1699,7 @@ This is the site of a powerful castle, held by the King of Aragon since 1162 and
 
 This village no longer exists, being just an ashen field. The inhabitants were hanged for their part in the murder of a party of crusaders nearby in 1211. As the crusaders marched to join the siege of Lavaur, the Count of Foix fell upon them with a party of knights and the villagers, and no mercy was shown. Some six hundred crusaders were slaughtered by the peasants. In return, de Montfort showed no mercy to the villagers when he had finished with Lavaur. Both the village site and the wood where the original massacre happened have developed Infernal auras of strength 6, and dark things are seen scurrying through the trees at night. Within the haunted woods here stood the Tremere covenant of Lariander, destroyed by the crusaders in the reprisals.
 
-### *Carcassonne*
+### Carcassonne
 
 The district around Carcassonne was historically part of the Trencavel domains, and they ruled from the city. Endless warring with the counts of Toulouse has resulted in a landscape littered with castles. This is a hilly land, with forests of oak and beech, and the villages grow grain or vineyards depending upon the soil. Many pilgrims pass east through the region, en route to Santiago de Compostella in Iberia.
 
@@ -1739,7 +1739,7 @@ The lords of Lastours were firm supporters of the Trencavel, but Na Loba was bla
 
 The castle at Cabaret is one of the three strongest fortifications of the region.
 
-### *Story Seed: An Unrepentant Bishop?*
+### Story Seed: An Unrepentant Bishop?
 
 On the feast of Saint Nazarius (June 12th) a great service is held in the cathedral. Before the sacrament is administered, a suddenly troubled Bishop Gui calls out to the congregation that he is a usurper, and demands that Bishop Raimond be brought to officiate, handing him his mitre and vestments. Immediately after the Mass, Gui is bundled away by the crusaders and taken to the castle. At sunset he announces that he was bewitched and accuses Bishop Raimond of sorcery. Raimond flees and his friends call upon the characters to investigate and save him. Can they establish the truth?
 
@@ -1747,7 +1747,7 @@ On the feast of Saint Nazarius (June 12th) a great service is held in the cathed
 
 While they await the return of Cabaret, Na Loba's three daughters still have a strong claim to the three castles of Lastours. Having effectively been freed of their Trencavel overlords, the daughters do not wait passively for husbands and suitors, but instead use their dark charms and seductive allure to attempt to entrap good husbands. Only the stupidest of peasants believes the whispered stories that they are really werewolves. Anyone voicing the story soon vanishes, victim of the undoubted vindictiveness of the three heiresses and of Na Loba, who is still a formidable politician and mistress of intrigue. They are currently traveling around the country, seeking powerful allies to reclaim their birthright.
 
-### *Story Seed: The Scrabbling Dead*
+### Story Seed: The Scrabbling Dead
 
 It is said the garrison soldiers buried alive at Puisserguier still try to claw their way to the surface, and at night their corpses can be heard scratching at the loose earth and rock that holds them down. If they were to emerge they would undoubtedly seek vengeance upon the living. Soon they will emerge, unless a way is found to bury them deeper, or to put their spirits at peace. The moat has a strength 4 Infernal aura.
 
@@ -1793,7 +1793,7 @@ This was originally a powerful Visigothic fortress, but de Montfont took the mou
 A castle stands here upon a great dome of rock, with six huge strong towers. De Montfort and his crusaders chose to pass it by, and the magnificent fortress continues to dominate the area, sheltering faidits and heretics. Here, deep in the caverns under the rocky hill, hide a small covenant of the dispossessed magi from covenants destroyed in the fighting. This is the House of the Exiles, the newest of the Provençal covenants.
 
 
-# *Ostal des Exiles*
+# Ostal des Exiles
 
 Where do you go when your covenant is destroyed, your lab burnt down, your library in ashes? The Ostal des Exiles is one answer. Just as faidits make up a significant group in the politics of the region, so with the fall of great Hermetic covenants, it is unsurprising that some magi have found themselves similar dispossessed and become known as Hermetic faidits*.* Older, established magi have left for other Tribunals, yet for many younger magi this is unacceptable.
 
@@ -1801,7 +1801,7 @@ The Ostal des Exiles has come to exist as a new covenant, created since the Trib
 
 Whether the Ostal des Exiles would really go as far as to interfere with the Crusade remains to be seen, but one thing is certain. Should they do so in defense of their homeland, their chosen method will be subtle, designed not to bring "ruin upon their sodales." They have already experienced that.
 
-### *History*
+### History
 
 Aguilar had its origins in a Roman fortress, later strengthened by the Visigoths, and the grotto underneath was well known to the Order of Hermes as the site of a mithraeum and vis source. One of the great fortresses of the region, and long home to a substantial Cathar population, Aguilar has more recently become a place of shelter for large number of dispossessed minor nobles and knights.
 
@@ -1814,15 +1814,15 @@ She was to come to regret this; de Montfort's crusaders marched south, destroyed
 
 The destruction of Mistridge in a Wizard's War by Tres Ex Miscellanea added to the exiles, and it was Rixenda who first took shelter here at Aguilar. It was the charismatic Gilbert of Flambeau who united the Hermetic faidits however, and gave them a cause — resistance to the northerners, at any cost.
 
-### *Setting and Description*
+### Setting and Description
 
 Castle d'Aguilar was a Trencavel possession, taken by de Montfort in 1210. The de Termes family retreated to Termes, but the castle was retaken in 1213 and became a center of resistance to the crusade, with many faidits taking shelter within its walls and in the surrounding villages. The grottoes, a natural cave system that riddles the rocky mount on which the castle stands, are extensive and little known, but have a Magic aura of 3. Deep within the caves can be found a mithraeum (Magic aura 5), long used by members of House Flambeau pursuing mithraic mysteries. The Flambeau may soon discover the nascent covenant forming here, and be forced to decide how to react to the newcomers, though the mithraeum itself has been left untouched by the Hermetic faidits. It does, however, lie within the *Aegis of the Hearth* of the new covenant.
 
-### *Culture and Traditions*
+### Culture and Traditions
 
 The Hermetic faidits do not formally owe allegiance to the Lords of Termes, but their presence here is both known and tolerated. As a new covenant, as yet unrecognized by the Tribunal, the exiles act as a clearing house for any magi willing to work to fight the Crusade, and they are particularly keen to welcome any new members. The number of magi here fluctuates from the four magi who have established sanctums here, to sometimes eight or nine magi. If your saga includes the Knights of the Green Stone, an esoteric Mystery Cult detailed in *The Mysteries Revised Edition,* then the Ostal des Exiles is an important center for the cult.
 
-### *Magi*
+### Magi
 
 #### **Gilbert of Flambeau**
 
@@ -1856,14 +1856,14 @@ Garsenda dresses as an outlaw, eschewing the chivalric trappings favored by most
 
 Popilia came to the Order late in life, after her village exiled her. A former midwife, she had a second trade as a herbalist. Her midwifery led her to a dispute with a Perfectus named Sicart of Lavaur. Condemning bringing a child into the world as the greatest of sins, and denouncing sex, procreation and child rearing in the strongest of terms, he personally attacked Popilia, who flew at him with a knife. Expelled from her village for the assault, she broods over the incident still, and has developed a passionate hatred for the Cathars, while retaining an equally passionate determination to resist the northerners. However, the Crusade has only hardened her hatred of the heretics, whom she believes brought this horror upon the south. She has three children, two of whom are now adults, and the youngest of whom, Jacquemart, is only 15. Her loathing of the Cathars extends to the Gorgiastic Cathars of House Ex Miscellanea. The Pharmacopoeian tradition is described in *Houses of Hermes: Societates,* page 123.
 
-### *Covenfolk*
+### Covenfolk
 
 The covenfolk of the Ostal des Exiles are largely seasoned fighters. Unlike many covenants, the proportion of women and children is low, and if the covenant is to survive, this gender imbalance must be addressed. While many refugees have fled to the shelter of the castle, a large number of the womenfolk are celibate Cathars. This has led to an unusually masculine feel to the grogs, few of whom reside within the dark caverns, preferring to live in the surrounding villages. The turb trains for combat constantly, and is supported by the companions, mainly faidits; minor lords and knights, and serjeants, well mounted, armed, and armored, and willing to risk all in defense of their homeland.
 
 
-### *Chapter Five*
+### Chapter Five
 
-# *Gascony*
+# Gascony
 
 In 1220, the western part of the Provençal Tribunal is a great wedge-shaped chunk of wilderness called the province of Guyenne and Gascony, or simply Gascony, and considered a part of the Duchy of Aquitaine. The territory extends south and east from Bordeaux along the Garonne river until it reaches Charlemagne's Cross near Roncevaux in the Pyrenees, and includes all of the western coast as far as Bayonne. Gascony comprises three civilized regions corresponding to the three major cities: the northern area surrounding Bordeaux, the higher ground and bishopric at Auch near Toulouse and the southeastern border, and the southwestern edges near Bayonne where Gascony meets the Basque lands. The English crown has firmly held this land since Richard the Lionhearted made his home in Bayonne and crushed the local lords. The current king of England, Henry III, enjoys visiting his mother, who lives nearby. Traditionally, the dukes of Aquitaine established themselves in Bordeaux and ignored the rest of the region unless necessity demanded action. They
 
@@ -1875,7 +1875,7 @@ The Way of St. James, the third most popular pilgrimage in Mythic Europe after R
 
 knights have created commanderies from donated lands, building small communities to protect travelers and generate revenue for the crusaders in the Holy Land.
 
-### *The Way of St. James*
+### The Way of St. James
 
 Pilgrims have traveled to the shrine of St. James in Santiago de Compostela, established by Charlemagne as he marched to Zaragosa, from beyond the Pyrenees for centuries. By the beginning of the 1100s, the well-organized trip enjoyed acclaim across Europe, popularized by Aymeric Picaud's *Liber Peregrinationis*, a gift to Pope Callixtus. Five separate routes wind across France and Provence, marked with wayposts bearing the ancient sign of the scalloped shell, symbolizing not only the journey, but those walking its path. Travelers wear a scallop shell on their hat or as a pin, and are called "palmers," like pilgrims to the Holy Land. A dedicated support structure exists along the Way, beginning all over western Europe, converging just before the passage over the Pyrenees to Puenta la Reina in Navarra, and then continuing across northern Iberia before terminating at the cathedral of Santiago de Compostela.
 
@@ -1891,23 +1891,23 @@ The devout living alongside the Way of St. James established hospitals to feed a
 
 **The Via Tolosana,** originating in Arles and passing through Toulouse.
 
-#### *Faith & Flame*
+#### Faith & Flame
 
 The first four paths funnel to Roncevaux Pass by the town of Ostabat. Ostabat has two hotels, two hospitals, and over two dozen hostels, and over five thousand palmers a week pass through on their journey to the raw stone tunnel leading into Iberia. Constructed inside the tunnel, an inn operating in the pass provides a shelter from storms and snows while offering a place to rest mounts before continuing onward. Only the Via Tolosana uses a different pass; Italian wayfarers favor this one. Regardless of their road, pilgrims keep journals documenting their stops and the notable sites visited. In almost every town, one finds lodgings catering to pilgrims, bearing the Way's signature shell icon.
 
 See *The Church*, page 16, for more information about creating pilgrimage stories.
 
-### *Infernal Influences*
+### Infernal Influences
 
 In 1208, Pope Innocent III placed all of England under interdict to encourage King John's reconcilation with the Church. As part of his holdings, many of Gascony's churches closed and refused to celebrate mass for six years. In the relatively wild lands of southwestern France, a region with little traffic off the pilgrimage routes, a group of demons gained a foothold (see Six Deadly Spirits, nearby), and Infernal auras remain quite common, even in cities and villages where the Dominion holds sway during the day. At night, the Infernal often regains control. The interdict affected the Divine auras of the region in strange ways, leaving many weaker or altered from what one might expect, and no Divine aura less than seven is older than six years.
 
-### *Story Seed: The Way of Secrets*
+### Story Seed: The Way of Secrets
 
 Once a pagan mystery path, the route to Santiago de Compostela reflected a trip to the end of the world, where the sun died and the scallop became the symbol for rebirth from the sea. This original purpose was incorporated into stories of St. James rescuing a knight from the ocean. The pre-Roman path may offer insights into Diedne magic or links to Atlantis.
 
 Book Five of the *Liber Peregrinationis* offers advice for pilgrims, detailing recommended stopping places, relics for veneration, sanctuaries to visit, and the scams and bad food to avoid. While providing valuable insights into a piligrim's life and describing Santiago de Compostela and its cathedral, the text acts as a mystery script, possibly providing the path for Initiation into fertility magic secrets, or a method for amplifying a Hermetic longevity ritual's efficacy. At the time, the text's author remains unclear, and it demonstrates a great deal of Basque influence. Perhaps the authoring magus still lives in secrecy or hermitage—in the Pyrenees of either Provence or Iberia. He must be found to decipher the Initiation encoded within the manuscript. For most, a complete copy of the five books of the *Liber Peregrinationis* serves as a tractatus of Area Lore: Iberia, Area Lore: Provence, Artes Liberales (Music), Divine Lore, and Theology with a quality of 8.
 
-### *Story Seed: Six Deadly Spirits*
+### Story Seed: Six Deadly Spirits
 
 These demons arrived during the interdict of 1208 and linger in the wild lands of interior Gascony. A demon generally descends upon a community, possessing its more prominent members. Through their victims, they encourage the rest of the village to sin, eventually enveloping the town in an Infernal aura. Each demon favors a particular deadly sin (two, in the case of Cenodoxus Superbia), and if it can ensure its host dies unrepentant, the victim returns as a minor demonic creature or
 
@@ -1915,7 +1915,7 @@ ghost. Three demons remain active in the area, while the demon of Greed has move
 
 
 
-### *Cenodoxus Superbia, Lord of Pride and Envy*
+### Cenodoxus Superbia, Lord of Pride and Envy
 
 **Order:** Lord of the Vessels of Iniquity **Infernal Might:** 40 (Vim)
 
@@ -1975,13 +1975,13 @@ Beneath the south side of town, in a natural cavern, is a Mithraeum, an ancient 
 
 Further south of the city, on the banks of the river Leyre, stands the small hamlet of Belin. It supports a keep and a church, and is the purported birthplace of Eleanor of Aquitaine. The town enjoys a generous charter which draws many craftsmen. King Henry III is fond of the castle and prefers to make it his residence when visiting. The church is the resting place of Olivier de Viennes, Ogier the Dane, and several other of the Twelve Peers of Charlemagne. Ogier's famed sword, Cortana, forged of the same steel as Roland's mighty Durendal and formerly the weapon of King Arthur's knight Tristan, is missing from the crypt. The church grounds have a Divine aura of 4, and the air is laden with a very sweet perfume. On anniversary of Ogier's death, this blessed aroma can cure a sick penitent. On the anniversary of the Battle of Roncevaux, the scented air is laden with 5 pawns of Divine-tempered Creo vis.
 
-### *Bazas*
+### Bazas
 
 Situated on the edge of the Gascony Moors, at the confluence of the Garonne and Brion rivers, the walled city of Bazas serves as the seat of the bishopric. It is a regular stop on the Way of St. James starting from Limoges. Popular locations within the city include the Templar hospital established to serve travelers and the cathedral of St. John the Baptist, where pilgrims come to pray before continuing on to the Basque town of Ostabat. St. Veronica built the cathedral's oratory and the altar holds a relic of St. John's blood certified as authentic by Pope Urban in 1092, who returned to Bazas to preach the Crusade in 1096. It has a Divine aura of 5, which rises to 6 on August 29th, the feast day of the Baptist's beheading.
 
 The countryside to the southwest is mostly marshland with a few respectable stands of pine and oak only casually harvested by the locals. Shepherds tend to their flocks, watching from stilts to stay above the fens. The shepherds claim a brilliant white creature lives on the edges
 
-### *Gascony Covenants*
+### Gascony Covenants
 
 **Current Covenants:** Castra Solis (including Mimizan)
 
@@ -2042,18 +2042,18 @@ The rustic magus, Tres, his band of two other magi, and their custodes, use the 
 
 Wherever the demon goes, it warns of the terrible atrocities being performed in Narbonnais or across the sea "in the name of faith," and how people shouldn't imagine either going to join the Crusade or even join the defense of the nearby Crusade's targets, the Cathars. He infects people with the emotion of acedia, the sloth of inaction, convincing them they have no place participating in a fight that doesn't involve them, and that such an endeavor would not only lead to folly and misery for the target's family, but also serves uncaring nobles seeking to line their pockets.
 
-### *Blaye*
+### Blaye
 
 An ancient town established before Caesar's arrival in Gaul, Blaye served as an important part of Charlemagne's defense against the Saracens. The ancient king of Aquitaine, Charibert, and Charlemagne's greatest paladin, Roland, lie in white marble sarcophagi, buried beneath the Basilica of Saint-Romain in a crypt. Overlooking the estuary, the basilica is a popular stop for pilgrims traveling the Way of St. James; they pray at the crypt or the altar before crossing the Gironde river by ferry. The basilica has a Divine aura of 4, which increases to 5 on the 15th of August, the anniversary of Roland's death, and on the 24th of November, St. Romain's feast day. A hospice dedicated to Saint Nicolas operates here, specifically to offer care to pilgrims traveling the route.
 
 While the count of Angoulême rules Blaye, a local lord governs the prosperous port from the citadel, Castle Rudel, which adjoins the basilica. Although the same family has served in this castellan role for generations, they serve at the pleasure of the counts of Angoulême. The current lord, Geoffrey I, was recently confirmed by Hugh X of Lusignan, the count of Angoulême by marriage to Isabella of Angoulême, in Aquitaine (See *The Lion and the Lily*, page 68).
 
-### *The Médoc*
+### The Médoc
 
 The triangular area of land west and north of Bordeaux encompassing the coast and the mouth of the Gironde Estuary is mostly marshy wetlands. In antiquity, a Roman military post was set up in the area, to ensure the security of the road which traveled the coast. In the ninth century, the first medieval fortification was built on the Roman ruins using white limestone, giving it the name Blanquefort. The castle guards two roads: the first is called Levade, and links Bordeaux to Soulac in the northern part of the Médoc, and the second road is known as the Channel Soulac, which goes south to Bayonne. This road was a main artery of the Way of Soulac, or "Eng-
 
 
-### *Julian/Julia, the Tempter of the Way of St. James*
+### Julian/Julia, the Tempter of the Way of St. James
 
 **Order:** Tempters (Incubi/Succubi)
 
@@ -2127,7 +2127,7 @@ Hundreds of dolmens litter the fens and marshes of the Médoc, each with a Faeri
 
 
 
-### *Story Seed: The Hero's True Panopoly*
+### Story Seed: The Hero's True Panopoly
 
 Notably absent from the crypt in Blaye are both Roland's legendary relicladen sword, Durendal, and Roland's fabled Olifant, a signal horn carved from the horn of a unicorn and sundered by the force of Roland's dying act of sounding it. The fate of these objects is a mystery. The horn purportedly rests across the estuary in Bordeaux, in the basilica of Saint Seurin. Durendal's resting place is much more uncertain.
 
@@ -2137,7 +2137,7 @@ Although a sword remains in the cliff in 1220, it is also said that Charlemagne 
 
 The ghost Pyrene's (see Chapter 6, The Pyrenees) close association to the mountains means she likely witnessed the battle where Roland fell. If she can be convinced to travel to Rocamadour, or if the alleged sword is brought to her, she could validate its authenticity. If the weapon in the cliff is Durendal, then what has the Confraternity of Roland brought inside Verdi?
 
-### *The Helen of Gaul*
+### The Helen of Gaul
 
 First married at the age of 12, Isabella of Angoulême was once the Queen of England, the widow of King John and the mother of both fourteen yearold King Henry III and eleven year-old Richard, High Sheriff of Berkshire and future Holy Roman Emperor. Eleanor of Aquitane approved of her, and the English people called her "Messalina," "The Helen of Gaul," and a "siren," although her beauty infatuated them. She married Hugh without waiting to receive the consent of the king's council in England, a required procedure for a former queen of England. Traditionally, the council not only chose the queen dowager's second husband, but decided whether she should be allowed to marry at all. Isabella's defi-
 
@@ -2224,7 +2224,7 @@ of the Knights Templar in Languedoc, with 27 in Arelat, 20 in Gascony, 14 in Nar
 
 Depending on a facility's nature whether it watches over pilgrims, generates revenue, or both—anywhere from six to fifty brother-knights, an equal number of brother-sergeants and at least one chaplain priest form the garrison. Many of these warriors have participated in campaigns in France and Iberia, as well as crusades, and the commander is selected from among them by a vote of the members. One commander, called a tutor, is selected from local commanders to oversee operations within a country. The leader of the Templars claims the title of grand master. The current grand master is Peter de Montaigu, a native of Auvergne. His brother, Guerrin de Montaigu, is the grand master of the Knights Hospitaller. There are normally three Templar masters in the Tribunal. Giraud Brochard is the master of Aquitane and Guillaume d'Ailly, the Master of Provence and Spain. The Master of the Province and Balliwick of Provence died in 1219. Historically, the
 
-### *Story Seed: Ill-Met By Moonlight*
+### Story Seed: Ill-Met By Moonlight
 
 Oriande is an archetypal Faerie Queen, and may fulfill such a role in many different stories set in the area. For example, Oberon (see *The Lion and the Lily*, page 72) may consort with her, or perhaps quarrel with her over a child from the covenant. The Boar King (see *The Lion and the Lily*, page 119) might seek her hand and deem the magi or their companions as appropriate challenges to demonstrate his devotion. Alternatively, she might choose to meddle with a knight on a quest, waylaying and tempting him much like the faeries in Arthurian legends. She might manufacture
 
@@ -2247,7 +2247,7 @@ The Order of St. John of Jerusalem, or the Knights Hospitaller, also have a stro
 
 Founded and based in Iberia, the Knights of St. James of the Sword, or Order of Santiago, possesses only a few holdings in Provence, the most significant of which is the Bessaut Commandery and hospital of Our Lady Mary Magdalene. All of the Order's commanderies in the region are established along the Way of St. James, and primarily in Gascony. They serve solely to defend and assist pilgrims. A sizeable dona-
 
-### *Unicorn*
+### Unicorn
 
 *Perhaps because it was an emblem of Jesus' Incarnation or because it was believed to represent the fearsome passions of nature, the unicorn did not widely appear in early heraldry.*
 
@@ -2307,11 +2307,11 @@ a nimbus of soft white light, the unicorn's hooves and alicorn become razor shar
 
 tion from Guilhem de Mazerolles in 1219 funded the new hospital's construction at the Bessaut Commandery. A host of eight knights, their households and two score of men-at-arms operate from the compound, which is not associated with any nearby settlement. The Knight Commander is Juan Marcos Correa, a seasoned veteran of the Reconquista with a pleasant demeanor. He enjoys good relations with the other surrounding commanderies of other Orders, and his brother is also a member of the Order of Santiago in Iberia. The current grand master in Castile is Martín Peláez Barragán.
 
-### *Langon*
+### Langon
 
 Established on the left bank of the Gironde river, Langon functions as a trading port and a stop on the Way of St. James before continuing south to Bazas. It is also notable for the nearby Roquetaillade Castle — the first castle built by Charlemagne and now the home of the baron de La Motte. Each Lord de La Motte has improved upon the citadel to create the current structure, an imposing square castle with four towers. A group of faerie stoneworkers who live in the nearby caves make this continued expansion feasible. They have made a pact to serve the de La Motte family and so complete a construction project for each new lord. The details of this bargain are kept secret, and only passed from father to son at the old lord's deathbed.
 
-### *Marmande*
+### Marmande
 
 Founded by Richard the Lionheart around 1195 on the banks of the Garonne, the walled town of Marmande was, by 1209, the property of the Count of Toulouse. It was taken in 1212 by the forces of de Montfort, and then, after rebelling, again in 1213. In 1214 an English army approached, and the castle and town went over to King John's banner, but when the English retreated after the disaster at Bouvines the crusaders were unwilling to give the inhabitants another chance for treachery.
 
@@ -2319,7 +2319,7 @@ In the winter of 1218, just after Christmas, crusaders loyal to Prince Louis arr
 
 In 1220, the area is a great field of rubble and ashes where the charred bones of the five thousand victims of events of a year ago lie unburied. A strong Infernal aura of 6 remains here, rising to 7 on September 26th, the anniversary of the horrible event. On that night, those with Second Sight see the ground covered in the gruesome bloodsoaked handiwork of Prince Louis' men, as if the carnage had "rained down from the heavens." Ghosts are common here, as are Infernally corrupted crows which fed upon the abandoned carrion.
 
-# *Auch*
+# Auch
 
 Auch is situated on the river Gers, and ruled by the count of Armagnac, Pierre-Gerald. Auch has been the seat of an archdiocese since 879, when it was moved from nearby Eauze. However, the cathedral burned down in 1170 and its reconstruction has not proceeded beyond clearing the site of most of the rubble and raising a few portions of the outer walls. It has no Divine aura. Located in the approximate center of town, the old cathedral was built over the site of several *mithraea*. Hidden within the catacombs are six complete tauroctony altars crafted of white marble. Mithraeans performed purification rituals and mystery initiations at these altars. The structure immediately surrounding and including the altars has a Magic aura of 3. If your saga follows history, no further attempts to reconstruct this cathedral
 
@@ -2327,7 +2327,7 @@ happen until 1310, when only the ribs and vaults are completed, leaving a rough 
 
 The count does not like the archbishop, and this enmity has existed for some time, with its roots in the Albigensian Crusade. His father, the previous count, was known for his correspondence with the trobairitz, Lombarda. The two met in Toulouse and maintained an unrequited relationship throughout the Albigensian Crusade. The conflict kept them from reuniting before the count's death in 1219, and the current count feels the archbishop's support of the Crusade prevented his father's happiness.
 
-### *Agen*
+### Agen
 
 This otherwise unremarkable town on the Way of St. James is home to a small sect of Christians descended from a Diedne magus who successfully hid from the Order by renouncing his magic and becoming a hermit several years before the Schism War. The magus was a devout follower of St. Valerie of Limoges, purported to have personally known Valerie before her death and canonization. Every year, on the summer solstice, his followers make the short pilgrimage to Limoges and the Benedictine abbey of Chambon-sur-Voueize to visit her bones after lighting candles at the church of Saint Caprasius of Agen.
 
@@ -2335,29 +2335,29 @@ In truth, Estebe, formerly Bachlach of Diedne, was a pagan warrior-magus who des
 
 While their initiations are cryptic and secretive, and some claim they involve a ritual reenactment of St. Valerie's beheading, the Agen Valerenes have demonstrated powers of Intervention and Purity, as well as the virtues of Saint's Aid and Wilderness Sense. The group in Gascony is associated with the larger Valerene cult in Limoges, and the two often assist one another in larger initiations, but both struggle independently to acquire a special ring possessed by the bishop of Limoges. In 1172, during the investiture ceremony of Richard I as princeps of Aquitaine, it was called "the ring of Valerie" and proclaimed to ensure "he may be fortunate in deed, abundant in faith, and finally come to glory with the Lord of Lords." This relic, Valerie's proposed wedding ring, was returned to the bishop when Richard went on Crusade.
 
-### *La Romieu*
+### La Romieu
 
 This small village is roughly a mile from the site of a fairly prominent former Diedne covenant called Nemetannais. The covenant was founded in the mid-900s as a southern extension of Branugurix, but since the Schism War, the only distinctive characteristic of the area has been its unusual number of feral, magical cats, or matagots, considered descendants of the familiars kept by the magi, and who bear many distinctive qualities of the lineage of Diedne the Founder's familiar.
 
 The former covenant site was near a series of caves and six small, pyramidal monuments of garluche sandstone associated with declarations of "safe haven," called sauvete. However, these 12-to-15-foot monuments stretch back to time immemorial, and mark the boundaries of a Magic aura of level 3, which includes the cave complex. The caves, however, are of questionable stability, given how the covenant was destroyed by Flambeau magi.
 
-### *Story Seed: Scourge of the Way*
+### Story Seed: Scourge of the Way
 
 Drakes and worms have begun plaguing the pilgrims attempting to travel the Way of St. James. They are particularly terrible near Ostabat. The knightly orders of the region can handle an occasional small "dragon," but these numbers threaten to overwhelm them. They seek out the covenant and ask to establish a temporary relationship while "crusading" against the creatures. A group of questing Verditius and vacationing Jerbiton both agree to the knights' terms as well, and suggest an amicable competition and friendly wager between the hunting parties.
 
-### *New Virtue: Saint's Aid*
+### New Virtue: Saint's Aid
 
 *Major, Supernatural*
 
 This Virtue grants the Ability Saint's Aid at a score of 1. By beseeching St. Valerie (or another saint with a particular interest in the character) for help when performing Divine Powers and Methods or Holy Magic, the character may ignore the necessary Fatigue or Confidence cost. This blessing may be used a number of times between confessions equal to the character's score in Saint's Aid. This Virtue is always associated with the Divine realm.
 
-# *Bayonne*
+# Bayonne
 
 Rebuilt in the mid-tenth century by Basques and Viking settlers, Bayonne is a major shipbuilding port and whaling center in Aquitaine. Construction of its great cathedral of St. Mary of Bayonne began in 1213 and still continues, while the completed crypts now house the relics of the city's patron saint, Leon de Carentan, beheaded
 
 
 
-### *Matagot*
+### Matagot
 
 *"At first I thought it no different from other cats, perhaps oddly colored, but the creature has a definite taste for food and a vindictive nature. The gold was useful, I admit, but I can do without the temper of such a damnable, cruel beast."*
 
@@ -2411,7 +2411,7 @@ The matagot often reserves this power for those who refuse to release it. This p
 
 **Appearance:** A large, dark calico cat flecked with gold, but with tufted ears and dark eyes with a vicious look. Note that the matagot is a specific sort of magical creature, and not a magic cat lineage.
 
-### *Story Seed: Feed Me*
+### Story Seed: Feed Me
 
 The Sorginak know of the Lou Carcolh (see opposite page) which lives the hills near Bayonne, at the edge of the mountains, and they avoid the creature. It does not seem to roam too far from its cavern lair and attacks mostly pilgrims when it does. This steady stream of easy meals might be enough to placate the creature for now, but the witches are aware of the threat and closely monitor the situation. Occasionally, troublesome knights, interfering magi, or foolish bandits are led to the cave by one of the folk witches, both to supplement the monstrous beast's appetite and to eliminate problems. It just so happens the characters have arrived asking too many questions… questions with answers held in the Lou Carcolh's cave.
 
@@ -2447,7 +2447,7 @@ Although far more mundane than the coven of folk witches, the whalers of Bayonne
 
 **Personality Traits:** Lou Carcolh +3, Rav-
 
-### *Lou Carcolh*
+### Lou Carcolh
 
 enous +2, Uncaring +2
 
@@ -2494,7 +2494,7 @@ The site has a moderate Faerie aura of 4, centered on a muddy black rock almost 
 
 There is a copse of scrub trees inland from Mimizan covenant, on the northern side of the lake, where twelve members of the Basque folk witch community and some Ex Miscellanea members of the Order of Hermes meet every year to help Dama and discuss their machinations in the coming months. This area has a Faerie aura of 3. Dama leads these gatherings, initiating many into the mysteries of the Maters and Matrones cult (see Chapter 3: Hermetic Culture, Cults & Factions of Provence). Almost all of them view her as a granddame worthy of great respect, and a few revere her as a saint. One, Rebecca, a folk witch sorgina member of the Order, lives with Dama at her tower.
 
-### *Magi of Mimizan*
+### Magi of Mimizan
 
 Dama and Rebecca are the only residents of Mimizan.
 
@@ -2560,13 +2560,13 @@ Raised in a Basque village, Rebecca's father discovered a cache of Roman gold an
 
 Rebecca regularly acts as an emissary, messenger, or spy for Dama, utilizing her flight and shapeshifting powers to move quickly and remain hidden. She often travels back to her home village, where she spends time assisting the local whalers by secretly flying overhead. The hunters believe the appearance of her albatross form to be a good omen and cheerfully sail where she indicates. Rebecca also helps young mothers recover from childbirth through potions, but she demands the afterbirth as payment. The folk witch harvests 5 pawns of Corpus vis, her personal vis source, by rendering this material at an ancient hillside shrine on the Spring Equinox. Bordering on pagan, Rebecca has no qualms regarding the Maters and Matrones cult, feeling it is good and just to provide such empowerment to women; after all, doesn't mortal life spring from women?
 
-### *Pau*
+### Pau
 
 Established in the eleventh century by the count of Béarn to defend the fjord of the Gave de Pau river (which begins near the Breach of Roland), it occupies the northern bank, overlooking the crossing with two large, square towers. Many regional shepherds have used this fjord for bringing their flocks into or out of the same mountain pastures since antiquity. Bits of wool collected from brambles along this route generate 4 pawns of Creo vis on the spring equinox and 4 pawns of Muto vis on the autumn equinox
 
 Set at the foot of the Pyrenees, Pau and the county of Béarn are often torn between the politics of the crown of Aragon and the ongoing conflict of the Albigensian Crusade at its doorstep. While it is not a Cathar stronghold, the previous count of Béarn aided Toulouse and Foix on several occasions and its knights hold no love for the Crusaders. Notably, William Raymond is more active in Aragonese matters, while his son William favors the English in Aquitaine. If your saga follows history, William shifts his focus to the Aragonese when his father dies in 1223 and he attempts to take over the county of Cerdagne. (See Chapter 6: The Pyrenees.)
 
-### *Tarbes*
+### Tarbes
 
 Tarbes is the capital of the county of Bigorre, and nominally ruled by Guy de Montfort by marriage to Petronilla de Bigorre. Tarbes currently sees very little noble
 
@@ -2608,7 +2608,7 @@ Tarbes is the capital of the county of Bigorre, and nominally ruled by Guy de Mo
 
 total of 30 and at least a season of research to decipher. Intellego magics reveal that the ring contains four pawns of Mentem vis. It acts as an arcane connection to the spirit of Tharbis for those with the proper magics. Knowledge of the ring's power was lost when one of the bishops gave it to his successor on his deathbed, telling him to never forget its power.
 
-### *Lourdes*
+### Lourdes
 
 Lourdes sits on the banks of the Gave de Pau river, with numerous caves and quarries pocking the surrounding countryside. Boasting a large, square tower, the fortress stands to the east of the walled town, on a rocky promontory. It served as the ancestral home of the counts of Bigorre with foundations dating back to the Roman era. Those fighting in the Albigensian Crusade consider it a vital defensive structure in the region, key to controlling the salt mines of the local valleys and strategically more important than Tarbes.
 
@@ -2616,7 +2616,7 @@ The castle was the site of a miraculous conversion and victory against the Moors
 
 The Romans valued the local towns, such as Bagnères-de-Bigorre, for their invigorating natural baths. Lourdes has one such spring, located in a bend of the river, said to have healing properties. Collecting
 
-### *Story Seed: Time is Short*
+### Story Seed: Time is Short
 
 The current count, William Raymond, is an old man who rules from Tarbes while his son William administers Pau. The count's rights to Pau are contested because his brother's widow, Petronilla de Bigorre, married Guy de Montfort—Simon de Montfort's son. If your saga follows history, this conflict finds resolution in April of 1220, when Guy de Montfort is killed in a Crusade-related skirmish with the forces of the count of Toulouse near Castelnaudary, a market town in the Toulousain. If the characters forge an agreement with the younger William and engineer or even execute this skirmish, they might find a way to establish a covenant in the towers overlooking the river fjord. In exchange for guarding the crossing, maintaining the village, and collecting reasonable tolls, William would ignore their curious behavior and could focus on supporting his father's politics. However, this relationship is dangerously close to serving as a court wizards, and might prove troublesome if charges are brought against them at Tribunal.
 
@@ -2629,7 +2629,7 @@ the waters of the first spring melt yields 4 pawns of Creo vis.
 South of Lourdes is the village of Saint-Savin. It hosts an abbey and convent, and is notable for the fact that Roland, one of the Twelve Peers of Charlemagne, once stayed there while Charlemagne's army besieged Lourdes. In exchange for the hospitality, Roland fought and killed two giants. Much to the monks' dismay, the giants Passamont and Alabaster lived close to their priory, preying on their flocks. These faerie giants did not die, however, as their essence was concentrated in the skull fetishes Roland left behind. They now live deeper in the Pyrenees, giving rise to tales of mountain pastures and passes hunted by a tribe of vicious brutes.
 
 
-# *Castra Solis*
+# Castra Solis
 
 **Symbol:** A flaming yellow sun
 
@@ -2655,7 +2655,7 @@ In the opening salvo of hostilities, Diedne saboteurs compromised Val-Negra afte
 
 For the first time since the founding of the Order, Castra Solis experienced a period of rest and recovery after the Diedne's defeat. The new Primus of House Flambeau continued to live there, and began improvements. When the Normandy Tribunal divided in 1103, Castra Solis led the faction joining the newly-expanded Provençal Tribunal. Along with them came the magi of Sinapis, who abandoned their previous site to join the domus magna, as well as other smaller covenants in the area, including Mimizan. Since then, Castra Solis has remained stable and a powerful political force in Gascony and the Provençal Tribunal.
 
-### *The Magi*
+### The Magi
 
 Home to seventeen magi, most magi of Castra Solis belong to House Flambeau. They range in age from newly gauntleted magi to elderly, frail magi like Garus, the Primus. In the last twenty years, two older magi living at the covenant have died, both of them members of House Guernicus (and the Chief Quaesitor of the Tribunal at the time), and both of them younger than Garus — but everyone is reasonably certain he is next, including him. Beatrice, the acting Chief Quaesitor, is nominally a member of this covenant, but has been spending her time in Arelat, at the Coenobium.
 
@@ -2695,7 +2695,7 @@ However, it is possible none of this actually happened; Marie may have followed 
 
 A troubled woman, Beatrice is genuinely determined to do right, but with the crusade and all the deep hostility in the Tribunal, it is not clear any more what that is. Her pater was the previous Chief Quaesitor, Tibaut, and it is assumed that she will take over for him. She is young for Chief Quaesitor, since her predecessor died of old age just last year (as did his predecessor five years before, though he was even older than her pater), and would probably like to pass her authority to another member of her House if a better candidate appears. She is registered as part of the covenant of Castra Solis, but she has taken to spending all her time in the Arelat of late, possibly because of a falling out with the Primus of House Flambeau or the leaders of one of the Hermetic organizations based there.
 
-### *The Covenant*
+### The Covenant
 
 Since the Schism War, the covenant has been made to resemble a wealthy manor house or Roman villa, perched in the limestone hills located about halfway between Bordeaux and La Reole along the River Garonne. Many vineyards and fields surround the site, but these do not produce wine or wheat, and instead serve as tourney fields for the many events House Flambeau sponsors. The Magic aura surrounding the covenant only has a strength of 3. Castra Solis does not have a Mercere Portal, as the Primus never felt it needed one. It has a fine library with a focus on military subjects, and many enchanted devices available to defend the House when necessary. (For more information about the library or some of these devices, see *Houses of Hermes: Societates*, pages 13–14.)
 
@@ -2703,7 +2703,7 @@ At the base of the cliffs below the covenant is a riverside network of caves, pr
 
 Influence of the Christian milites and other pious magi living at Castra Solis over the years has given the Mithraic temple beneath the covenant a Divine aura of 4. Essentially a church, the services conducted here for the younger initiates of the Legion are very similar to the sacraments, including baptism, communion, and last rites. Hidden stairs lead from the covenant's library to the chambers behind the temple. A series of tombs, where the bodies of fallen milites rest honorably in the holy ground, also occupies the caves. Former Flambeau Primus Entisimon is buried there, though Kaeso is not.
 
-# *The Serpent's Venom*
+# The Serpent's Venom
 
 As described earlier, the Praeco Dama seems to be a skilled elder maga who has accomplished many of her goals. However, in truth, she placed herself in the thrall of her familiar, Maju, a powerful supernatural being who twisted her ambition and sympathies to its service. The faerie Maju bound her spirit to itself as surely as it was bound to her and through that connection it subtly corrupted all of her accomplishments.
 
@@ -2763,7 +2763,7 @@ pealing. The fact Dama created the Longevity Ritual for Alazais' mundane compani
 
 While Dama constantly meddles with the Basque Sorginak, she hasn't taken any more apprentices, as Maju thinks it is too risky. However, she is always available to initiate new cultists, as the mysterious aspects of being a Mystagogue suit her perfectly. She is very good at it, and while she does it without revealing her identity, Initiates strongly suspect who she is. She is also openly pagan, not Christian, which makes the magi of Castra Solis less sure of her, and gives the magi of Aedes Mercurii hope she is at least somewhat impartial.
 
-### *Fruit and Seeds*
+### Fruit and Seeds
 
 Player characters could become involved in Maju's plotting through investigating Dama's past actions, or be caught up in her future plans.
 
@@ -2773,7 +2773,7 @@ Discovering what happened to the last two Chief Quaesitors lies at the heart of 
 
 
 
-### *The Guide, cont'd*
+### The Guide, cont'd
 
 #### **Spells Known:**
 
@@ -2857,7 +2857,7 @@ Tibaut continued his investigation, but an offhand comment from Luc of Ara Maxim
 
 
 
-### *The Serpent*
+### The Serpent
 
 **Order:** Duke of False Gods **Infernal Might:** 45 (Vim)
 
@@ -2951,22 +2951,22 @@ Left to her own devices, Dama may just create an enduring but ultimately subdued
 All of this rests precariously on the tipping point of the role the storyguide wishes Dama to play in the saga—she may be the tragic maga who left a long series of nearly great but merely adequate accomplishments in her wake, whose only real legacy lies in her amazing long life, or she may become the examplar of a maga consumed by ambition, who disregarded the costs of her endeavors and ultimately left only a tarnished name and dire warning to those who failed to consider the consequences of their actions. And if, by chance, she manages to defeat the player characters, Maju transforms into a demon intent on carrying her soul to Hell, the Sorginak are sundered and retreat from Hermetic culture, and the Provençal Tribunal suffers another disheartening blow to the culture already ravaged by the Crusaders marching across the landscape.
 
 
-### *Chapter Six*
+### Chapter Six
 
-# *The Pyrenees and the Hispanic March*
+# The Pyrenees and the Hispanic March
 
 While the Hispanic March might be considered part of Iberia, portions of the kingdom of Castille and Navarre, as well as the kingdom of Aragon and the county of Barcelona stretch up into the Pyrenees to brush up against Provence. Lonely metal crosses planted on mountainsides and places where the spring melt flows north or south demarcate the border.
 
 Much like the patchwork of Narbonnais, these domains and their peoples are intimately tied not only to each other, but also their immediate neighbors with relationships stretching back generations. Noble ladies of the region married the king of England and the counts of Burgundy and Toulouse, while King Pedro II of Aragon wedded Marie of Montpelier. The rulers of these lands participated in the Reconquista as much as the Albigensian Crusade, and cared deeply about both outcomes.
 
-# *Domains of the Hispanic March*
+# Domains of the Hispanic March
 
 The Marca Hispanica consists of two primary regions, both divided into two portions. In the west, the kingdoms of Castile and Navarre hold the border. In the central foothills and the east, the crown of Aragon rules over the kingdom of Aragon and the county of Barcelona. Nestled within the bo-
 
 
 som of the Pyrenees lies the tiny realm of Andorra, the last true marcher county established by Charlemagne. These are busy, complicated realms, and this material only touches upon the portions which share the border of the Pyrenees with Provence. It is intended to provide additional context for mundane and political interactions and should not be considered a complete resource.
 
-### *Kingdoms of Castile and Navarre*
+### Kingdoms of Castile and Navarre
 
 Ferdinand III, the son of the current king of Leon, rules the kingdom of Castile and claims suzerainty over Sancho VII, king of Navarre, through an elaborate chain of events. Ferdinand inherited Castile from his mother in 1217. She surrendered it to him after the death of her younger brother, Henry I of Castile. Henry was thirteen years old and died after being struck by a tile falling from a rooftop. Henry's father was Alphonso VIII, a great contributor to the Reconquista and founder of the Order of the Knights of St. James of the Sword. Dissatisfied with Sancho VI's oath of fealty to his father, Alphonso VIII united much of Castile and Navarre by force, seizing his cousin's provinces of Álava, Guipúzcoa, and Biscay while Sancho VII campaigned in Africa, attempting to secure the support of the Almohads against Castile. Afterwards, Navarre reaffirmed its vassalage to Castile and pledged alliance to Ferdinand III of Castile, Sancho of Barcelona and regent of Aragon and Alphonso II of Portugal against the remaining Almohads in Iberia.
 
@@ -2974,7 +2974,7 @@ Ferdinand III, the son of the current king of Leon, rules the kingdom of Castile
 
 Located on the right bank of the Arga river, Pamplona enjoys a rich income provided by the influx of pilgrims traveling through its lands on the Way of St. James. The routes from the Tunnel Way and Roncevaux Pass continue through the lands of Pamplona. People take pride in facilitating the journey of the devout to Compostella. Heavily fortified after hundreds of years of conflict, Pamplona has a reputation as "a bit of a fortress," a city with high walls where people speak slowly and keep to their own business. A large number of ethnic Basques and Occitan immigrants make their home in Pamplona and the Provençal style of wandering trobairitz is quite popular. Despite its status as the capital of Navarre, most local authority comes from the bishop, the king's brother Ramiro, as Sancho VII retired to the monastery of Tudela after the Battle of Las Navas de Tolosa in 1212. Ramiro's sister, the Regent Blanca of Navarre, normally focuses her attention on military affairs to the south.
 
-### *Tangled Ties*
+### Tangled Ties
 
 Sancho VII of Navarre was brotherin-law of Richard the Lionheart, who married his sister, Berengaria, the only queen of England never to set foot in England. He considered Richard I a close ally and maintained good terms with John, the following king of England. His parents were Sancho VI of Navarre and Sancha of Castile, sister of Sancho III of Castile.
 
@@ -2982,11 +2982,11 @@ Alphonso VIII of Castile, Sancho VII of Navarre's regional contemporary and riva
 
 This made Sancho VII and Aphonso VIII cousins by blood, brothers-in-law by marriage, and alternately foes and allies on the battlefield—fully displaying the kind of complicated political-familial relationships common to the region in this era.
 
-### *Story Seed: A Timeless Monk*
+### Story Seed: A Timeless Monk
 
 Near Pamplona, the Cistercian monastery of San Salvador of Leyre is famous for its former abbot, St. Virila. The abbot sat entranced for 300 years listening to the song of a nightingale in order to better contemplate eternity. Renowned as early as 920, he awoke unaged and unaware of the passage of time. Was he possibly a forerunner of the pious magi, and do his relics—entombed beneath the monastery— hold any secrets?
 
-### *Story Seed: The Bitter Lord*
+### Story Seed: The Bitter Lord
 
 Frustrated at what he considers the theft of his ancestral birthright, the count of Labourd entertains the idea of turning to the sorginak for revenge. He plans to buy their services, using them to curse, intimidate, and blackmail the officials of Bayonne into submission. Then, when the situation becomes unbearable, he will offer to intercede on their behalf, in exchange for their fealty.
 
@@ -3006,7 +3006,7 @@ The people of Lower Navarre remain very involved in the industry surrounding the
 
 Soule shares the Oloron river as its northern border with the county of Béarn in Gascony. Its capital is Mauléon, governed by Ramon Guillem IV, who became the viscount in 1217. Lower Navarre forms its western boundary, and the valleys of Barétous and Salazar form its eastern and southern borders. Its primarily Basque population rarely speaks anything but Euskara and occasionally Occitan. Riddled with sinkholes and caves, the limestone hills of Soule serve as lairs for a few drakes and worms, said to be the progeny of Sugaar, and for countless lamia, who purportedly teach their mystic secrets to the Basque folk witches.
 
-### *Kingdom of Aragon and the County of Barcelona*
+### Kingdom of Aragon and the County of Barcelona
 
 The kingdom of Aragon and the county of Barcelona belong to the crown of Aragon and the region is collectively called Catalonia. Once ruled by Pedro II the Catholic, Simon de Montfort's forces killed the king at the Battle of Muret in 1213. His 12 year-old son, James I, currently resides in the political heart of Aragon, the city of Zaragoza. Nobles loyal to him plot to secure his ascension to power with a marriage to Eleanor, daughter of Alphonso VIII of Castile. Planned for the prince's 13th birthday in 1221, the marriage is intended to strengthen Aragon until James reaches majority in 1223. Sancho of Barcelona, James' uncle and the count of Roussillon and Cerdagne, as well as Sancho's son, Nuno Sanche, lord of Roussillon, Vallespir, Conflent and Cerdagne, act as regents of Aragon. They are further discussed in Chapter 7: Narbonnais.
 
@@ -3022,7 +3022,7 @@ Santa María de Ripoll is considered the religious heart of Catalonia and hosts 
 
 A holding of Nuno Sanche, Charlemagne established Conflent to include the Tét river valley and some surrounding lands. Over time, Conflent broke away from the Franks to become a familial holding, passing into the count of Barcelona's possession in the early 12th century. Many castles stand here, including the formidable structures in Castellano and Turres Betses. Villefranche-
 
-### *Covenants of the Pyrenees*
+### Covenants of the Pyrenees
 
 **Current Covenants:** Aedes Mercurii, Bellaquin, Miniata Sophia
 
@@ -3057,7 +3057,7 @@ The count of Urgell, Ermengol VIII, died in 1208. He successfully defended the r
 
 Elvira, the count's widow, continues to rule from La Seu d'Urgell since Ermengol's death, but her poor health means she is not expected to survive beyond the winter of 1220. She is desperately grooming their daughter, Aurembiaix, to succeed her. The countess married Aurembiaix to Álvaro Pérez de Castro, a Castilian noble, in 1212, in an attempt to strengthen Aurembiaix's position.
 
-### *Andorra*
+### Andorra
 
 The last survivor of the Pyrenees Marches established by Charlemagne, tiny Andorra consists of five united parishes: Canillo, Encamp, Ordino, La Massana, and Sant Julia de Loria. No lord lives in Andorra; they supposedly possess a charter granting them sovereignty over their lands, a reward from Charlemagne for their military service during his battles against the Moors. The Bishop of Urgell and Raymond Roger, count of Foix, both assert rights to Andorra. However, neither has successfully enforced their privilege, and the Andorrans largely ignore them or play the two against each other. The greatest tribute ever demanded from Andorra in recent memory was a gift of several hams and other samples of regional produce.
 
@@ -3065,21 +3065,21 @@ Though tiny, Andorra prospers and manages to export goods to both sides of the P
 
 Each of the five Andorran parishes contains a handful of tiny mountain villages. In 1220, the entire population numbers roughly three thousand people. Representatives of these parishes meet annually in the town of Andorra la Vella to discuss issues concerning regional rule and administration. However, native Andorrans possess neither lordship nor vassalage within their lands. Each one, from rich landowner to wage earning servant, considers himself an individual sovereign within Andorra.
 
-# *Geographic Locations*
+# Geographic Locations
 
 Many places of both history and magic in the Pyrenees have importance outside of their local area.
 
-### *Zugarramurdi Cave*
+### Zugarramurdi Cave
 
 A sorginak akelarre site (or folk witch gathering place) since antiquity, the enormous gallery of Zugarramurdi cave opens into a large meadow. A small stream runs through the cave and sorginak from Normandy, Iberia and Provence meet here every three years on the summer solstice, in a great gathering. Strange rituals and initiations take place while sorginak barter for vis and secrets. It has a Magic aura of 4, but vis extracted here is vis Infesta (*Realms of Power: the Infernal*, page 18).
 
-### *Roncevaux Pass*
+### Roncevaux Pass
 
 Part of the Way of St. James and the site of the great defeat of Charlemagne's army, Roncevaux pass hosts a church, the Chapel of Puerto de Ibañeta, a hostel for travelers and pilgrims, and a marker indicating where Roland fell in battle. The actual battlefield is in the nearby Valcarlos; the site is often visited by Verditius as part of their mystery rites. (*Houses of Hermes: Mystery Cults*, page 121)
 
 King Sancho VII of Navarre donated a portion of his spoils from the Battle of Las Navas de Tolosa to the church, including the great emerald that once adorned the turban of the sultan Miramamolín. The church also contains the statue of Our Lady of Roncevaux, a cedar and silver statue supposedly revealed to the priests by a deer. The whole area has a Divine aura of 3, which increases to 4 on the anniversary of the battle.
 
-### *Mount Perditu*
+### Mount Perditu
 
 Covered in pine forests and icy glaciers, Mount Perditu is the tallest moun-
 
@@ -3087,39 +3087,39 @@ Covered in pine forests and icy glaciers, Mount Perditu is the tallest moun-
 
 tain in the Pyrenees and draws its name from its remote nature: it is "lost" from the rest of civilization. It is part of the same area as the Breach of Roland, and its trio of peaks are said to have been formed by three sisters, transformed by their faith and grief after their village was destroyed by Visigoths. The Ghost of Pyrene sometimes lingers near its base or at the Breach of Roland.
 
-### *Breach of Roland*
+### Breach of Roland
 
 The Breach of Roland is a gap 40 paces wide with 100 pace-high cliffs, located in the opening above the circus of Gavarnie. Supposedly cut by Roland in an attempt to destroy his fabled sword Durendal as he bled to death from a terrible wound, the Breach is actually over 100 miles from Roncevaux. Inexplicably, the Breach has an aura of 2 which is randomly Magic or Divine, suggesting something very unusual.
 
-### *The Mallos de Riglos*
+### The Mallos de Riglos
 
 Located in the foothills of the Pyrenees, the nearly vertical pillars of the Mallos de Riglos are sedimentary stone, some rising 300 paces into the air.
 
 Roughly six miles to the east, on a limestone bluff, stands the mighty fortress of Castle Loarre. Built in the 11th century, it has been expanded several times, most recently by Pedro II, who built the outer walls and towers. A small village surrounds the castle, also called Loarre. An order of Augustine canons from Montearagón operates within the castle, and has done so since Pedro I granted them the privilege.
 
-### *Les Gorges de Galamus*
+### Les Gorges de Galamus
 
 Two days south of Perpignan, in the foothills of the Pyrenees, is the Gorges de Galamus with high, stark walls and a narrow passage of the Agly river. Clinging to the canyon walls is the hermitage of St. Anthony, dating back to least the seventh century. A curious place with a Divine aura
 
-### *Story Seed: Who Watches the Watchtower?*
+### Story Seed: Who Watches the Watchtower?
 
 A partially ruined tower sits atop Mount Urkulu, offering an excellent view to the north and south, and of the route through the Roncevaux Pass. Built by the Romans, many claim it is a Mercurian site, and it serves as a watchtower, allowing the sheriff's garrison to protect travelers. Men stationed there quickly depart on Fridays, however, as an active coven of sorginak hold akelarre within its walls—often summoning a wild aker for instruction or service or using their ecstatic magic (see Sorginak, later in this chapter) to answer questions or avenge slights.
 
-### *Story Seed: Looking for a Lord*
+### Story Seed: Looking for a Lord
 
 A covenant established in one of Pallars' many valleys or ruined keeps would have little concern regarding mundane interference both for their remote nature and for the limited governance — at least for a while. This situation remains unchanged until Roger II succeeds as count in 1234, becoming much more involved in regional politics and potentially taking an interest in any pet administrators or pretenders. In the interim, however, the covenant might see some competition for vis sites from the Basque sorginak or Dama's cult.
 
-### *Story Seed: Contested County*
+### Story Seed: Contested County
 
 The count of Ager, Urgell's cousin, claims Aurembiaix cannot inherit the county and threatens to take control of the county by force upon the countess' death. If your saga follows history, Guerau IV de Cabrera seizes Urgell in the winter of 1220 and Aurembiaix flees into exile, attempting to find a way to recover her birthright. She might become a Companion within a covenant, or act as a potential patron. In 1228, James I took an interest in her and had her marriage annulled on grounds of consanguinity. She then became James' concubine and he confirmed her rights of inheritance in exchange for the town of Lleida.
 
-### *Story Seed: A Giant Witch*
+### Story Seed: A Giant Witch
 
 The locals in Loarre claim a jentilak sorgina (a Basque giant, see the section on Basque Mythology and Magic later in this chapter) resides amongst the columns of the Mallos de Riglos, and once served as the folk witch of a village named Foz de Escalettes. As her gigantic nature became more apparent, the villagers fled. She used magic to pull more rock up from the earth in order to hide and live in seclusion. Magic auras and vis sites are common there.
 
 of 2, it has a pool deep within a cave fed by a spring dedicated to Mary Magdalene. The pool has a Magic aura of 3 and is reputed to have healing powers. An ancient stone set at the hermitage entrance is carved with a magic square reading "SATOR – AREPO – TE-NET – OPERA – ROTAS" which some claim imperfectly translates as "he who guides the plough sows the seed" and others believe means "to extinguish fire without water."
 
-### *Cave Systems*
+### Cave Systems
 
 Caves riddle the Pyrenees, and any of the numerous large subterranean systems might be potential covenant sites. The caves of Betharram (on the Toulousain side of the Pyrenees) are one possibility. The caves extend nearly three kilometers under the surface while boasting several large galleries and a flowing underground river. Many of
 
@@ -3133,7 +3133,7 @@ What does the tortured ghost of Pyrene know of Heracles? What happened to the se
 
 
 
-### *Pyrene the Spectre*
+### Pyrene the Spectre
 
 **Magic Might:** 14 (Mentem)
 
@@ -3179,7 +3179,7 @@ Lore: Pyrenees 5 (passes), Athletics 2 (sprinting), Awareness 5 (the living), Br
 
 **Appearance:** Pyrene manifests as a ghostly pale, yet breathtakingly beautiful, raven-haired woman with mangled lower legs, bloodied feet and a tearstreaked face. She wears only a ragged linen dress.
 
-# *Bellaquin*
+# Bellaquin
 
 **Symbol:** A red plumed hawk clutching a scroll, inside a gold circle
 
@@ -3189,7 +3189,7 @@ Now, twenty years later and located in Andorra, Bellaquin has reached an even gr
 
 
 
-### *History*
+### History
 
 Established in the waning times of the Schism War, magi originally built Bellaquin in the ruins of an abandoned castle restored with magic. Its Flambeau members intended it as a stronghold during the Schism War, but the conflict ended shortly thereafter and Bellaquin never participated. The Flambeau magi departed and gave Bellaquin to the Jerbiton who have presided over it ever since.
 
@@ -3202,7 +3202,7 @@ Entangled in feudal alliances, Bellaquin soon overextended itself, becoming caug
 
 allies. Supporting one side preferentially would be a flagrant Code violation. Refusing to support either would undoubtedly draw the nobles' wrath for failing their feudal obligations, serving only to increase the breadth of their potential Code violations. In a failed compromise, they assisted both sides through peaceful means, paying scutage and providing curative elixirs. Supported by senior Church officials seeking to eliminate Bellaquin, the warring nobles concluded that the magi had secretly instigated and fueled their conflict for personal gain. They turned their forces upon Bellaquin, destroying the castle in a surprise assault, abetted by a traitorous companion. The attack killed several magi and the lucky escapees evacuated to Andorra. With the damage limited to Bellaquin, no one pressed charges against the survivors.
 
-### *Setting and Description*
+### Setting and Description
 
 Originally founded in 1016, Bellaquin's current location was established in 1202. Now functioning as a large house built within a lacunae in the village and region of Ordino in Andorra, they endeavor to create a different sort of covenant, one more subtle but still engaged in mundane affairs.
 
@@ -3214,7 +3214,7 @@ Every magus at Bellaquin has customized his laboratory to some degree, and a vac
 
 Still deeply involved in mundane affairs, Bellaquin now employs far more subtle tactics. Instead of conspicuously consorting with powerful nobility, Bellaquin works through mercantile channels, utilizing an influential network on both sides of the Pyrenees and ranging as far as Germany and Italy. No actual trade occurs on the covenant grounds, but it lies at the heart of a financial machine. Bellaquin offers banking services to both mundanes and magi. They do not engage in money lending as the Italian bankers do, but provide the service of transferring funds between distant locations, similar to the Templars. Using Hermetic magic, they can easily transport funds or other resources to a prearranged location at established times, and with some extra effort to nearly any location.
 
-### *Magi*
+### Magi
 
 Bellaquin has five members, though only one member remains from the original location and one other is the filia of an old member. The rest of the current members joined after the relocation. Of the other members from the first site, three died in the attack which ended the old covenant, two departed the Tribunal afterwards, and three others have died or passed into Twilight since the transition.
 
@@ -3280,7 +3280,7 @@ Just a child of eight when the original covenant fell, she has truly only ever k
 
 A budding Imaginem specialist, Antoinette's sigil is the sound of barely audible whispers.
 
-### *Covenfolk*
+### Covenfolk
 
 Three groups inhabit the covenant, and some rivalry exists between them. During covenant relocation, Robert of Flambeau was invited to become a member and oversee security. One of his first actions was to hire a band of Almogavars to serve as custodes. He knew their captain and had his unGifted son, Michael, serve as the captain's secretary and protégé. The second group, the original covenfolk, were mildly resentful, but they had grown few in numbers and many were too old or uninterested in martial service. The third and largest group of covenfolk consists of Andorrans native to Ordino. They fill many miscellaneous roles as wage-earning employees, and a few fulfill specialist roles. Several miscellaneous minor groups also exist, as newer magi brought their own personal shield grogs. Artemis of Tremere is always accompanied by two wiry, leather-clad personal guards specially trained at Coeris, whom she calls "the Danior." Whispered rumors claim these two men are actually homunculi, secretly fashioned constructs less susceptible to Mentem magics, easily repaired, and possessing a bloodthirsty tendency to twist Artemis' orders. Trying to impress Michael and surpass the Tremere, Antoinette brought a quartet of Scandinavian warrior women back from an Itinerarium to serve as sanctum guards.
 
@@ -3291,13 +3291,13 @@ Robert of Flambeau recruited his band of elite Almogavars from Iberia and France
 Robert intends to equip each of these soldiers with at least one lesser enchanted device, providing them with added protection, increased stamina, or heightened senses, but he has only just begun this task.
 
 
-# *Aedes Mercurii*
+# Aedes Mercurii
 
 **Symbol:** A fiery dragon eating its own tail
 
 Just before the Schism War broke out, many of the Flambeau magi at Val-Negra left the domus magna, based on a vision one experienced, to form a separate covenant, and took a number of magi from other Houses with them. They seized control of a nearby outpost and the smaller halls scattered throughout the Pyrenees which once belonged to Val-Negra, including the great temple to Mercury from which they took the covenant's name. After the Schism War, to help establish their legitimacy, they spread the idea that Val-Negra covenant itself was no more, and that Aedes Mercurii had inherited its legacy. The brutal and prominent losses suffered by the covenant during hostilities only reinforced this idea. Thus, the covenant is now considered to be one of the most powerful regional covenants, although it doesn't match Val-Negra's former glory.
 
-### *Setting and Description*
+### Setting and Description
 
 Aedes Mercurii has two locations. The first consists of a series of low utilitarian buildings surrounding a majestic stone edifice located in the center of the Cirque du Gavernie, about two miles north of Val-Negra. The main building is called the Temple of Mercury, and seems to predate the birth of Christ. Some tales claim members of the original Order of Mercury constructed it, others say Priamitus and other founders of the Cult of Mercury designed it to appear ancient. It stands three hundred feet long, surrounded by carved columns, with an elegant and beautiful interior and ancient altars on every side before the holy of holies at the eastern end. Usually called "the Temple" (*Templum*) by those at the covenant, this site is accessed from the other part via a large Mercere Portal built into an archway between two courtyards. The Magic aura throughout the Cirque and the outer buildings is 4, increasing to 8 inside the temple proper.
 
@@ -3309,7 +3309,7 @@ tive Pic du Midi d'Ossau, which on a clear day is visible from Pau. Only 90 kilo
 
 Various other sites have also been considered part of the covenant, though none as significant as these two. Until recently, there was a large outpost at the city of Saint Jean Pied-de-Port, but, disastrously, the covenfolk who lived there came under suspicion of witchcraft from the local citizenry and the house became a casualty of a war when Richard the Lionheart razed the city in 1177. At one time there was another portal and entrance to the complex at the eastern edge of the Pyrenees, near Barcelona and north of Girona, though that too was abandoned, along with the portal to Val-Negra proper, at the beginning of the Schism War.
 
-### *The Magi*
+### The Magi
 
 Approximately 18 magi compose Aedes Mercurii, with 11 living at the Dorsum site, and the other 7 living remotely at the Templum. The covenfolk divide in more or less the same proportion. While the two settlements are part of the same covenant, over the years since the Schism War tensions have escalated between them. Though they still present a united front to outsiders, the magi living at the Templum and those living at the Dorsum have very different outlooks. Generally speaking, the Templum magi remain loyal to what they envision as the pagan and historical traditions of the Order of Mercury, while the only consistent quality of the Dorsum magi is their bitter opposition to Castra Solis and their perceived status as the inheritors of Val-Negra's legacy.
 
@@ -3400,24 +3400,24 @@ Proud +2
 
 One of the resident Redcaps at the *Dorsum* goes by the name of Berezi, and is a descendent of one of the Milvi Antiquiti (see *Houses of Hermes: True Lineages*, page 98), often spending her two seasons of service traveling between Aedes Mercurii and her mother's home covenant in the Roman Tribunal to obtain and deliver books for the magi of western Provençal. She possesses a magical device that allows her to transform herself and anything she carries into the shape of a bird.
 
-#### *Faith & Flame*
+#### Faith & Flame
 
 
-# *Miniata Sophia*
+# Miniata Sophia
 
 **Symbol:** A white hand, fingers pointed up and spread apart, on an ochre circle
 
 This Spring clutch of Criamon magi live within the Niaux cave, roughly a day's ride south of Foix. Hidden in the Vicdossos valley, a short journey north from Castle Miglos and the village of Niaux, they maintain a fairly isolationist attitude, rarely traveling beyond their home and the surrounding hills. However, the group has attended Tribunal for the last four gatherings, always voting and participating knowledgeably in discussion and debate. They have shown no clear preferences and have entered into no political alliances. They vote for options on issues that they deem the most morally apt, or they abstain.
 
-### *History*
+### History
 
 Founded by an eremite Criamon roughly 40 years ago, Miniata Sophia has begun interacting with the rest of the Tribunal only relatively recently. They announced themselves at the Tribunal gathering in 1193, registering their site with the Redcaps as the village of Niaux.
 
-### *Setting and Description*
+### Setting and Description
 
 Miniata Sophia stretches throughout the Niaux cave system—a subterranean labyrinth winding through 3 kilometers of galleries, formations, grottos, and most importantly, antediluvian wall art. The main gallery has dozens of paintings of horses, oxen, bison, antelope, and handprints, but samples are scattered throughout the tunnels. The ancient depictions are what drew the covenant's founder, Leonarda, to the site. Here, they have created a working relationship with the covenfolk in the village while pursuing an aspect of the Criamon philosophy, a variant of the Path of Walking Backwards (*Houses of Hermes: Mystery Cults*, page 70). The cave has a Magical aura of 4, and the main gallery has an aura of 5.
 
-### *Culture and Traditions*
+### Culture and Traditions
 
 Established within the cavern system, Miniata Sophia believes in a self-sufficient existence with little impact on the surrounding community. They sustain a very small collection of covenfolk in an unusual manner. The magi each take turns spending a season living as a guest amongst the villagers, sharing their Parma with a town "ambassador" and assisting with tasks necessary for the continued operation of the town. They avoid practicing magic in front of covenfolk, and try to ensure that the most helpful spells are cast under the cover of darkness. They do not perform lab work during this season, wearing the robes of a leper to both hide any Enigmatic Stigmata and discourage outsiders from approaching them. It also helps foster the cover story, which explains the magi as hermits, seeking enlightenment within the cave. Every three days, the magus in Niaux brings supplies to the mouth of the cavern, where another member meets them and takes the transfer of goods. The period is considered a necessary aspect of The Avenue of Surrender and the Station of the Service to Harmony for newcomers and a regular reminder of the lesson's importance.
 
@@ -3426,7 +3426,7 @@ The rest of the time, the magi study their Arts, the texts they trade via corres
 
 porated them into the later initiations of The Avenue of Healing and the Station of Rice and Honey, The Avenue of Adulation and the Station of Expression, and The Avenue of a Thousand Beautiful Faces and the Station of Exaltation. She has not yet reached the Avenue of Silencing Discordant Whispers and the Threshold of Repose, nor does she yet know how she would incorporate the art of Miniata Sophia into the initiation.
 
-### *The Magi*
+### The Magi
 
 Four magi live at Miniata Sophia; Leonarda, Tumbarius, and Hans are detailed below. There is one other member of Miniata Sophia, a Criamon adherent to the Path of Walking Backwards.
 
@@ -3436,7 +3436,7 @@ Four magi live at Miniata Sophia; Leonarda, Tumbarius, and Hans are detailed bel
 
 Leonarda is from Aragon, on the far side of the Pyrenees, but learned of the many caves and their paintings from a fellow Criamon during a visit to the Cave of Twisting Shadows shortly after her Gauntlet. Deciding she wanted to seek a new route for her path, and believing there was ancient wisdom to be found within the first homes of mankind, she set out to establish a sanctum in one of these caves. After wandering for some time, she found Niaux, and began her research. Over time, she established a relationship with the villagers, and they were happy to receive her help on many occasions. Leonarda's specialties are Creo, Rego, Corpus, and Vim, and she used these talents to create the relationships which have kept the covenant so well-informed. In exchange for twice-annual visits, Leonarda performed a Longevity Ritual and provided the Redcap Embeth with a pair of boots which allow her to perform a Leap of Homecoming. Embeth occasionally points interested Criamon to Niaux, but only after interviewing them and conferring with Leonarda.
 
-### *Story Seeds for Miniata Sophia*
+### Story Seeds for Miniata Sophia
 
 A number of issues could draw player characters into interacting with Miniata Sophia.
 
@@ -3466,23 +3466,23 @@ The second son of merchant from Aachen, Hans was initially enrolled in a seminar
 
 as possible. He is in no rush to find his way down the Path. His specialties are in Rego, Imaginem, and Terram.
 
-### *Covenfolk*
+### Covenfolk
 
 Quite unusually, there are no dedicated grogs at Miniata Sophia. The Criamon feel they do not need them. The village itself is under the protection of Arnaud de Miglos, the local viscount and vassal of Foix, who keeps a garrison within his castle. The villagers of Niaux, who (mostly indirectly) supply the covenfolk, have always paid their taxes on time and adequately, and in doing so have never drawn undue attention. A few of the covenfolk are the sort of hunting specialists who could serve as grogs, if absolutely necessary, but they primarily help augment the covenfolks' diet and serve as sentries only by virtue of their wide-ranging duties. There are a couple of better trained, widely-traveled covenfolk who occasionally venture abroad for items desired by the magi, but more often than not, this insular community continues to operate in quiet seclusion, regularly delivering small quantities of iron mined from the hills and processed into ingots or rod stock.
 
-# *The Basques*
+# The Basques
 
 The Basque Country covers much of the Pyrenees, especially in the west and along the Bay of Biscay. This overlaps portions of the Iberian and Provençal Tribunals, including both Upper and Lower Navarre and Gascony. The Basques form an independent ethnic and linguistic group, but one without a national identity. The Basque term "*Euskaldun*" translates as "one who speaks the Basque Language." Although casually used to refer to themselves as a people, the definition includes other people who learn to speak Basque and excludes Basques who don't speak the language. Basques currently share the region with Franks and Spaniards. They have also partially assimilated other cultures through intermarriage, but remain a distinct and separate people, resisting any attempts to dislodge or assimilate them.
 
-### *Basque Country*
+### Basque Country
 
 The region considered "Basque Country" has shifted over the centuries, growing, shrinking, and fragmenting several times. However, it has always centered on the Pyrenees, mainly in the west but having stretched further east in the past. The seven provinces considered Basque Country fall within the domain of the kingdoms of France, Navarre, and Castile in 1220. However, they retain a great deal of autonomy within their communities, maintaining their language and traditions and often ownership of their land. The provinces of Álva, Biscay, and Gipuzkoa are part of Castile, which also contains a few Basque settlements in other regions. Labour, Lower Navarre, and Soule are part of France. Upper Navarre, dominated by Castile, is the province with the largest concentration of Basques, but they are the most assimilated into the culture and nobility of the Spaniards.
 
-### *Language*
+### Language
 
 Euskara is the ancient language of the Basque people. Unrelated to any other tongue, it shares influences with those languages it encounters. Dialects vary by region, and Basques often speak other regional languages. In fact, for some Basques, Euskara may be a second tongue, with Occitan or another language as their native speech. Medieval Euskara uses the Latin alphabet, but in the distant past it utilized Ancient Iberian. The Basques maintain a unique system of numbering, which takes the form of strange and seemingly arcane shaped symbols representing numbers from 1 to 100 and most fractions.
 
-### *History*
+### History
 
 Basque mythology claims they inhabited the land after seizing it from the giants (*Jentilak*) and other beings. Early Basques made use of the mysterious Iberian alphabet, and likely interacted with the Iberians, the Celts, and Gauls. The historian Strabo records the Vascones tribe inhabiting the region now called Basque Country. Roman contact extends back to the 1st century AD, when Julius Cae-
 
@@ -3494,7 +3494,7 @@ From the ninth and into the tenth century, the southern Basque provinces made up
 Nevertheless, Basques still enjoy a great amount of autonomy in their lands. They are intermarried and integrated with the aristocracy and form a majority of the population. However, northern (Navarre) Basques more strongly identify with Occitan language and culture than Euskara. The southern (Castilian) provinces retain self government through fueros, charters granted by the Aragonese king guaranteeing their rights. The French provinces retain no special privileges, but the people are not often harassed. Medieval Basques lack a sense of unified national identity, and retain private ownership of their lands, rather than serving as the peasants of ruling nobles, so they are content with the current state of affairs.
 
 
-### *Culture*
+### Culture
 
 The Euskara language forms the primary feature of Basque culture. It embodies most aspects of their society and beliefs. For instance, family names derive from descriptions of geographic features or birthplaces, such as *Errekondo* (next to the stream), *Goikoetxea* (the house above), and others meaning "by the rock," "the old house," "on the mountain," or "by the ocean." This custom demonstrates the Basques' strong attachment to family and home.
 
@@ -3504,7 +3504,7 @@ Basques adopted Christianity in the fourth and fifth centuries. There are bishop
 
 Known as a vigorous mountain people, Basques foster a strong tradition as hardy sailors engaging in whaling and cod fishing. They use longboats or larger vessels launched from shore, and recently began using an innovation known as the rudder. Basque sailors work on merchant and naval ships from the Atlantic and Mediterranean, to the Channel, the North Sea, and beyond.
 
-### *The Song of Roland*
+### The Song of Roland
 
 In 778, Charlemagne crossed the Pyrenees, attempting to repel the Moors. He initially liberated Barcelona, but the stalled siege of Zaragoza forced his return to Gaul. The great emperor's forces were attacked three times in their retreat. First, the Moors ambushed him en route to Navarre. Then the rebellious Basques of Pamplona led an attack. Finally, when the main forces had crossed through the pass at Roncevaux, the true attack came. Basques claim guerillas ambushed the rear guard, equipped with only spears and shortswords, and wearing no armor. In truth, a monumental force of 400,000 Saracens, employing Basque guides and Jentilak mercenaries, attacked Roland. In a savage battle stretching across the valley, they defeated the Franks and plundered the baggage train while killing Charlemagne's nephew Roland, the force's commander. Another ten years passed before Charlemagne permanently liberated Barcelona and established the Pyrenees Marcher Kingdoms.
 
@@ -3512,11 +3512,11 @@ The popular chanson de geste known as the Song of Roland tells how Roland fought
 
 Other stories, popular among the Basques, tell of the Basque guerillas. Faeries thrive on human myths, and when they desire chosen mortals to relive and interact with this tale, depending on who they attempt to deceive or manipulate, Roland alternately battles either the Moors or a small group of clever and bold Basques.
 
-### *Mythology and Magic*
+### Mythology and Magic
 
 Considered a chthonic religion, Basque paganism focuses on the veneration of earthbound deities and natural forces and contains various "unclean" ecstatic rituals. Mari, an earth-mother goddess who capriciously brings fortune or calamity to the land, dominates the mythology. In legends, she rides a chariot of thunderclouds drawn by massive goats, or meets with Sugaar, her consort, to mate—both activities create further storms or droughts while sowing the both the seeds of good and ill fortune upon the people as
 
-### *Common Basque Names*
+### Common Basque Names
 
 #### **Female Names**
 
@@ -3544,7 +3544,7 @@ Mari and Sugaar spawned many offspring in addition to storms. Their children inc
 
 Other prominent figures in Basque myth are the jentilak, giants who ruled the land before the arrival of humans. The jentilak created the enormous stone monuments and other ancient structures scattered through the land. They taught the Basques tool use, agriculture, and metallurgy. They invented a game involving tossing large rocks back and forth, which still exists as a sport amongst the Basque people. According to one legend, jentilak fought alongside the Basques at the Battle of Roncevaux, helping defeat Roland's forces by hurling boulders at them. However advanced, they eventually retreated to mountaintops, where they have slowly faded away. Nearly extinct, a few jentilak remain as magical creatures or masquerading faeries dwelling deep in the mountains. For example, Olentzero is a jentil who visits
 
-### *Estranged Relatives*
+### Estranged Relatives
 
 Basque tolerance and the sense of unity based upon a shared language do not apply to a subgroup within their own community—"the Crestias," a people treated as outcasts (Consider the Outcast or Social Handicap flaws). They share the same language and many of the same cultural traits as other Basques, but have some distinctly different physical features and some dissimilar customs. They cannot own armaments, horses, or dogs, can only marry among themselves, and live segregated within the community, permitted only the poorer portions of the land. They have a separate entrance
 
@@ -3560,7 +3560,7 @@ The laminak (singular: lamia) are the river fae of the Pyrenees. Consummate buil
 
 Aker are goatmen who lurk near the meadows pocketing the hills and valleys of the Pyrenees. Sorginak often summon them to harass enemies or teach the secrets of the weather and land or the healing properties of local plants, or even to celebrate akelarre alongside a coven. Demons occasionally masquerade as Aker, attempting to corrupt sorginak by offering to teach Infernal abilities. (See *Guardians of the Forests*, page 50, and use statistics for the bockman.).
 
-### *New & Modified Virtues & Flaws*
+### New & Modified Virtues & Flaws
 
 The following Virtues & Flaws are presented with Basque characters in mind, but may apply to characters in different sagas. Those applicable only to sorginak hedgewitches are presented elsewhere.
 
@@ -3579,7 +3579,7 @@ tinct, your ancestors created enormous stone monuments, and invented both metall
 
 Descended from the river fae of the Basque Country, you favor either their hardworking or beautiful nature. You may add +1 to either your Stamina or Presence, but not to more than +3. Many mortals find you intriguing, but don't understand why. Characters with this Virtue have webbed toes.
 
-# *The Sorginak*
+# The Sorginak
 
 The sorginak (singular: sorgina, male: sorgin) are Basque folk witches descended from (and some still serving as) the priestesses of Mari. An unGifted sorgina can live a quiet existence in a Basque settlement, dispensing wisdom and minor magical assistance to those who know of her abilities (mainly women). The Gifted sorginak live on the fringes of settlements as reclusive outcasts. Some are trained as folk witches (*Hedge Magic*, page 31). Others are trained Hermetically, and with greater power and the negative effects of the Gift, they tend to bully their weaker sisters while vying with each other for dominance.
 
@@ -3589,7 +3589,7 @@ An uncertain number of Gifted sorginak reside in the Tribunal. About nine sorgin
 
 A magus, seeking a pagan wife, might try to steal the golden comb of a lamia. Laminak are forbidden to tread on sacred ground, making the fae an excellent choice for a wizard living in a covenant set far from civilization and one likely to produce a faerie-blooded heir. She may resent the theft, however, and conspire to escape along with any of her children
 
-### *Story Seed: Power, Unorganized*
+### Story Seed: Power, Unorganized
 
 The many sorginak do not attend Tribunal, and most are recognized as eremites within the Tribunal. A Tytalus or Trianoma seeking to break the larger covenants' political chokehold might attempt to seek out and befriend the sorginak, explaining the value of a united front at Tribunal gatherings.
 
@@ -3597,7 +3597,7 @@ Gifted sorginak spread between 13 covens located in the western Provençal Tribu
 
 Sorginak gather together in meetings called "akelarre," where the folk witches venerate their goddess, cast rituals, air grievances, and discuss current events. Akelarre are held in caves and stone circles on mountain clearings. These meetings, held on Friday nights, once drew many more women to participate in ecstatic ceremonies, but these witches still meet more frequently and in larger covens than others of their ilk from different lands. Far more of their peers live over the Pyrenees in northern Iberia, and periodically there are great conclaves of sorginak in the Zugarramurdi cave. Despite their pagan roots, not all sorginak are heathens. Many unGifted sorginak dwelling amongst Christian Basques either converted or formed a dual system of belief. Without The Gift, they cannot learn the full range of Preferred Abilities of a sorgina, but disdain many as unclean or unnatural magic.
 
-### *Sorginak History*
+### Sorginak History
 
 The power, presence and influence of the sorginak has faded since Charlemagne marched south. Many Basque women participated then, either as witches or as acolytes assisting in ceremonies. Gifted witches commanded a combination of respect and fear, and unGifted witches participated in many Initiations under their guidance. Three factors combined to weaken their power: the introduction of Christianity, attacks by other hedge wizards, and the rise of the Order of Hermes.
 
@@ -3611,26 +3611,26 @@ The unGifted, Initiated folk witches remained beneath the notice of most magi, a
 
 The Order of Hermes has accepted a few sorginak into House Ex Miscellanea over the years, but almost without exception they are Gifted rather than Initiated. Gifted sorginak in the Order tend to follow the Folk Witch tradition, rather than use standard Hermetic Arts. The Order has some influence in most covens, if only through intimidation, but a few remain reclusive and several Gifted sorginak shun the Order, living unaffiliated. Any covenant in Basque Country will have some sort of interaction with a sorginak coven, perhaps cordially neutral, but usually some sort of alliance or enmity (as per the Hedge Tradition Boon or Hook).
 
-### *Akelarre*
+### Akelarre
 
 Akelarre is the Basque term for the sabbat of the sorginak, but also refers to the location where these meetings take place.
 
 
 The sorginak meet more frequently than most other folk witch traditions, gathering at least one Friday a month for most covens and every Friday for the most active ones. A special akelarre is held a few times periodically throughout the year, drawing sorginak from multiple covens to a single location for a sort of Grand Sabbat. UnGifted and very pious sorginak try to avoid these meetings, but they are often bullied by their Gifted pagan sisters in animal form, and pressured into making periodic appearances. Mundane women are sometimes harassed into attendance, both for the appearance of swelled numbers and to assist in ceremonies.
 
-# *Sorginak Magic*
+# Sorginak Magic
 
 In game terms, the sorginak are a folk witch tradition, as described in chapter 3 of *Hedge Magic*. Some covens involve darker elements in their magic, like the manipulation of spirits. The primary difference is that the Cursing ability may be replaced by a variation of Hex, and sorginak may Initiate certain new Virtues.
 
-### *Favored Abilities*
+### Favored Abilities
 
 The seven Favored Abilities of a sorgina are Animal Ken, Dowsing, Flight, Healing, Hex (or Cursing), Second Sight, and Shapeshifter. UnGifted sorginak must purchase these as separate Virtues, and obviously cannot begin with them all. A Gifted sorgina begins with all seven of these Abilities, with variations depending upon the nature of her coven and lineage. Some aspects of these abilities are considered sinister, and pious sorginak and those who do not wish to be tainted avoid them. Hex is considered unclean, and Shapeshifter is considered unnatural. Many sorginak have the Skinchanger Virtue in place of Shapeshifter, which is considered acceptable, and some have Wilderness Sense replacing Hex or another ability. A few have Premonitions balanced by Visions at no extra cost.
 
-### *Initiations*
+### Initiations
 
 The sorginak reputedly practice wicked initiations and unclean magic. Most sorginak Initiation Scripts contain pagan elements, but there exist a few "clean" variations for many of the basic Favored Abilities. The Inner Mysteries have their basis in a more sinister nature, and no effort has been made to revise them as they are kept secret from non-sorginak. These include the Goetic Arts of Summoning and Command, Ecstatic Magic, a modified version of Chthonic Magic, and their own version of Ceremony. Details of these Virtues and Arts are discussed below. Initiations take place at an akelarre, and follow the usual rules.
 
-### *New & Modified Virtues & Flaws*
+### New & Modified Virtues & Flaws
 
 The following new Virtues and Flaws are available for sorginak characters, some during character creation and others only from Initiations (see Initiations, above). These can be used as ideas for other witches as well.
 
@@ -3648,13 +3648,13 @@ Finally, if she incorporates a knowingly blasphemous action in her magic, the so
 
 The sorgina gains the ability Ecstatic Magic at 1 and she may stray from her body in an intangible spirit form for one hour during akelarre with a successful Stamina + Ecstatic Magic + stress die roll against an Ease Factor of 12. For every 3 by which the roll exceeds the Ease Factor, the sorgina may stray for an additional hour. While straying, she may move with a Stamina + Athletics roll (Ease Factor 3) to visit places she sees daily. For every 3 the roll exceeds the ease factor, she may travel to places she has seen in the last week (Ease Factor 6), the last year (Ease Factor 9), not been in the last year (Ease Factor 12), and places she has never been but possesses an associated arcane connection (Ease Factor 15). While straying, she has the Second Sight ability equal to her Ecstatic Magic ability. The character manifests any carried accoutrements and may harm spirits in
 
-### *Male Sorginak*
+### Male Sorginak
 
 Uncommon, but slightly more prevalent than those found in other folk witch traditions, male sorginak are perceived as inept or effeminate by mundane society, and receive less training with their magic than their female counterparts. The Minor Flaws of Social Handicap and Poorly Trained Folk Witch are recommended, as well as one or more Flaws in their use of magic. A sorgin skilled with his magic or perceived as effective and masculine is rare. To possess both these qualities is very rare, and those who do are thought to be descended from Mikelatz, the son of Mari and Sugaar, lord of the raging storm. A sorgin still transforms into a lamia with sufficient Warping.
 
 
 
-### *The Many Faces of Mari*
+### The Many Faces of Mari
 
 Mari takes many forms and has many names, and is represented in multiple Realms. Mari is essentially a Primal Spirit (see *Realms of Power: Magic*, page 109), a **Kosmokrator**, an earth-mother goddess governing weather and fortune, and a protector of the ruling class. As such, Mari is also a Daimon that can manifest in multiple different aspects. As a being of magic, Mari has no need of human interaction and cares little for their activities. Indeed, she is often portrayed as shallow and capricious. Faerie manifestations of
 
@@ -3680,7 +3680,7 @@ Hermetic Virtues & Flaws suggested for Folk Witches are listed on page 36 of *He
 
 **Other Minor Virtues:** Intuition, Wise One
 
-### *Sorginak Powers*
+### Sorginak Powers
 
 The magic of a sorgina is much the same as any other folk witch (see *Hedge Magic Revised Edition*, Chapter 3). The complexities of that system are too numerous to summarize here. Troupes lacking access to the book are encouraged to improvise by substituting similar spell-like effects. This section explains the few ways that the sorginak powers are different from other Folk Witches.
 
@@ -3799,7 +3799,7 @@ See *Realms of Power: Infernal*, page 114.
 
 See *Realms of Power: Infernal*, page 117.
 
-### *Example Hexes*
+### Example Hexes
 
 *The Warty Prince*
 
@@ -3829,7 +3829,7 @@ The target's first child falls asleep on reaching the age of majority until the 
 
 
 
-### *Potent Magic*
+### Potent Magic
 
 *Minor or Major Hermetic Virtue*
 
@@ -3956,7 +3956,7 @@ Once the sorgina reaches a Warping Score of 10, she becomes one of the laminak a
 
 **Lamia Flaw:** The sorgina gains a Flaw appropriate for laminak. Examples include: Curse of Venus, Delusion, Disfigured (chicken, goat, or webbed feet), Envious, Lecherous, Obsessed (obtain and keep a gold personal comb), Offensive to Animals, Tainted with Evil, Weakness (personal comb).
 
-### *Hermetic Considerations*
+### Hermetic Considerations
 
 Relative to other traditions, the sorginak comprise a relatively large and well organized community of hedge wizards. However, they are concentrated in a small area dominated by a more powerful magical tradition, the Order of Hermes. In several situations, sorginak have come into conflict with Hermetic magi, and rivalries still occur occasionally. However, these are minor affairs, and most sorginak covens cooperate with the Order or try to avoid it. Basque magic has been of interest to several magi in the past, and some aspects have been incorporated as new Virtues. There is also a small Ex Miscellanea tradition of sorginak, but most Basque magi are actually of a traditional Latin House.
 
@@ -3969,21 +3969,21 @@ There are also Gifted Basques who have pursued other forms of Hermetic magic, th
 The magus uses non-Hermetic methods to cast Hermetic spells. While he still needs to employ obvious ritual actions, these are not the same words and gestures taught as part of Magic Theory within the Order, and other magi who are unfamiliar with the magus' tradition find it very hard to recognize which spell he is casting. Any attempt to determine the Form of his magical effect (**ArM5**, page 83) is made against an Ease Factor of 15, without the magnitude of the effect being subtracted from this Ease Factor as normal. If the character has any Supernatural Abilities, then he uses the same methods to cast his Hermetic magic as he does to use his non-Hermetic magic. The magus cannot choose to use the standard Hermetic methods instead of those of his native tradition, but can choose to reduce or forgo words and gestures in the usual fashion (**ArM5**, page 83).
 
 
-### *Chapter Seven*
+### Chapter Seven
 
-# *Narbonnais*
+# Narbonnais
 
 The region once known as "Gallia Narbonensis," or "Septimania," and now locally called Narbonnais, has been settled by the remnants of the Roman Empire for over a thousand years, witnessing many conflicts, and watching the intrigues of countless nobles. This is where Hannibal marched on Rome, where the Imperial legions began their conquest of Gaul, and where Charlemagne halted the advance of the Moorish armies into Europe. In the thirteenth century, Narbonnais plays host to the struggles of the count of Toulouse, the ascension of the king of Aragon, the interests of the king of France, and the atrocities of the Albigensian Crusade. Two active covenants operate in Narbonnais, Ara Maxima Nova and Stella Durus.
 
-# *Local Nobility*
+# Local Nobility
 
 Two men shape the mundane politics of the Narbonnais: Raimond VI, count of Toulouse, and James, king of Aragon. Until his death in 1218, Simon de Montfort was also a major player, and the impact of the Crusade is yet to fully play out.
 
-# *Territory of RaimondVI*
+# Territory of RaimondVI
 
 The counts of Toulouse administered the city of Toulouse for the Merovingians and the Carolingians, and this became a hereditary title supposedly owing fealty to the King of France but in truth existing as an independent realm commonly called Toulousain. It is covered in greater detail in Chapter 4. The counts have interests beyond that region, however, making them major players in Narbonnais as well.
 
-### *County of Lodeve*
+### County of Lodeve
 
 Part of the Aude river district, Lodeve is dominated by vineyards and herds of sheep. The region's Corbieres Mountains are the first foothills of the Pyrenees. The primary settlement in the county is the town of Lodeve, a popular stop on the Way of St. James to Compostela. The Knights Templar maintain a fortified, walled town a day's ride to the north of Lodeve.
 
@@ -3997,18 +3997,18 @@ The Grandmontine Order, which follows the Rule of St. Steven, maintains a priory
 
 A 450 ft. segmented arch bridge crosses the Herault River in the town of St. Thibery as part of the Via Domitia. Its Roman origins are questionable as the spans are inconsistent with other imperial construction. Is this the handiwork of a faerie or a demon?
 
-### *Covenants of Narbonnais*
+### Covenants of Narbonnais
 
 **Current Covenants:** Ara Maxima Nova, Stella Durus
 
 **Ruined, Abandoned, or Lost Covenants:** Himinis' Forge, Uxellodunum, Two Diedne covenants in the Massif Central whose names and locations are lost.
 
-### *Vis Site: The Ancient Wine Press*
+### Vis Site: The Ancient Wine Press
 
 Cut into the living stone near a vineyard, this large rectangular trough produces 4 pawns of Herbam in the pomace of the must—the solid portion of seeds, skins, and stems—if the grapes of the first harvest are stomped barefoot. Repeating the process with the last harvest yields 6 pawns of vis, but they are vis Infesta. In centuries past, an angry mob believed they discovered a pagan ritual being performed, and killed the young women thought to be participating. In truth, the women had been working on the last batch of grapes when fauns seduced them. The maids were caught just after lying with the faeries. Unconvinced by their pleas, the crowd stoned the girls to death.
 
 
-### *Old Man of the Bridge: The Tempter of St. Thibery*
+### Old Man of the Bridge: The Tempter of St. Thibery
 
 **Order:** Tempters (tenetores)
 
@@ -4058,11 +4058,11 @@ Cut into the living stone near a vineyard, this large rectangular trough produce
 
 **Appearance:** The demon manifests as a wizened old man in peasant's garb, carrying a large bundle of firewood sticks tied to its back. It moves with the assistance of a cane and carries a lantern. It attempts to convince travelers to dive into the river while it watches their possessions—asking for half of what the victim recovers and using its powers to amplify greedy feelings. As the dupe leaps into the river, the demon uses Rushing Wages of Greed, possibly drowning the individual.
 
-## *Vassals of Toulouse*
+## Vassals of Toulouse
 
 The counts of Toulouse have many vassals whose holdings are found in this region.
 
-### *County of Béziers*
+### County of Béziers
 
 The country of Béziers has been a holding of the counts of Carcassonne since 1034. From 1194 to 1209, Béziers was ruled by Raimond-Rogier Roger Trencavel, who was also the count of Carcassonne, the count of Albi, and the count of Razes, he owed fealty to both Peter II of Aragon and Raimond VI of Toulouse. He died a prisoner of the crusaders in 1209; see "Carcassonne" in Chapter 4: Toulousain. Like much of Provence, Béziers is a land of temperate climate with forested rolling hills.
 
@@ -4072,7 +4072,7 @@ Built as a colony for Roman veterans during Augustus Caesar's reign, Béziers ex
 
 As a stronghold of the Cathars, the city suffered greatly during the Albigensian Crusade. It was nearly burned to the ground, and while reconstruction began in 1215, there is still a long way to go. The new cathedral's construction utilizes the foundations of the old structure, which had stood since 1130. The tall limestone church of the Madeleine that served as the viscount's chapel is one of the city's few remaining structures. It was from the steps of this building that Arnaud Amaury uttered the infamous order "Kill them all; God will know his own." The other surviving house of God, the church of Saint Aphrodise, who Christianized the city, is built over a 3rd century necropolis. After the butchery committed by the crusaders, the entire city suffers under an Infernal aura of 7, which rises to 8 on the anniversary of the massacre (July 22nd) and drops to nothing during Advent and Lent.
 
-### *Duchy of Narbonne*
+### Duchy of Narbonne
 
 This used to be a hereditary office of the count of Toulouse referring to the rulership of the region, but Raimond VI was dispossessed of the duchy during the Albigensian
 
@@ -4087,7 +4087,7 @@ The cathedral of Saint-Just-et-Saint-Pasteur de Narbonne currently lies in a rui
 
 The Abbey of St Mary of Lagrasse, which lies about two days' ride west of the city, is still influential in the region. The abbot of Narbonne, Nimphridius, established the monastic community in the 7th century according to the Benedictine rule. It was elevated to the rank of abbey in 779 and enriched quickly thanks to the sponsorship of Charlemagne and donations from neighboring lords. It acquired lands, castles, priories and other assets. For example, in 1115, one of the viscounts of Narbonne, Aimery II, donated the village of Le Lac to the abbey to resolve a conflict with the archbishop. During the 12th century it ruled over a large territory spread through the dioceses of Toulouse and Béziers and the county of Urgell, but the Crusade has caused its decline.
 
-### *County of Nimes*
+### County of Nimes
 
 A hereditary holding of Toulouse since the ninth century, the county of Nimes is the eastern march of the count's lands. Full of rolling hills, streams, and forested regions with a pleasant Mediterranean climate, it
 
@@ -4112,7 +4112,7 @@ South of the Bramabiau Gorge, but still tucked into the hills between Millau and
 
 This spring near Nimes is said to have been established as a shrine dedicated to the son of Heracles by Gauls before the conquest of Julius Caesar. Others claim it to be the ancient altar once consecrated to the local magic spirit known as Volcae, a being venerated by the indigenous tribes until the Romans' arrival. A spirit still resides here, though greatly weakened by the spread of the Dominion and nearby seat of the bishopric in the converted Arena of Nimes. It produces three pawns of Creo or Aquam vis in the form of very clear, very small pools of steaming water which well up every summer solstice.
 
-### *March of Provence*
+### March of Provence
 
 The March is ruled by Raymond Berenguer IV, who is also the count of Provence. This forces the count of Provence to owe fealty to both Aragon and Toulouse.
 
@@ -4120,7 +4120,7 @@ The March is ruled by Raymond Berenguer IV, who is also the count of Provence. T
 
 The city of Avignon stands in the March of Provence, rising up behind the tall ramparts of a double wall and overlooking an impressive bridge across the Rhone river, which flows along the northern urban border. The castle stands on the remains of a Roman castrum and the town center hosts a thriving community of craftsmen and tradesmen's guilds. As of 1200, the consuls declared independence from Toulouse and the Holy Roman Empire, establishing a republic. It is described in greater detail in Chapter 8: Arelat.
 
-### *County of Rodez*
+### County of Rodez
 
 The county of Rodez was created from part of the old county of Rouergue, and was initially an appanage of Toulouse, until it was seized by the ancestor of the viscount in 1112. The House of Millau ruled Rodez in unbroken succession through the 13th century. The current count's father, Hugh II, sponsored the abbey of Bonnecombe. The current count of Rodez, Henry I, plans to take the cross and leave on Crusade. His son, Hugh, is only eight years old, and his father plans to leave him here, under the case of his mother is Algayette, heiress of Guy, lord of Scorailles. The House of Millau is a great supporter of the troubadour movement and Rodez is considered its heart. Hugh II and Henry I are both known as patrons of multiple troubadours. (Henry was preceded as count by two short-lived half brothers, Hugh and William.)
 
@@ -4133,11 +4133,11 @@ Known for the contentious relationships between the bishops of Rodez and the cou
 
 with its tall tower, and the church of Saint Amand; its choir holds sixth century tapestries representing the miracles of Amand, the patron saint of all who brew beer. St. Amand's church enjoys a Divine aura of 4.
 
-# *Territory of James of Aragon*
+# Territory of James of Aragon
 
 The king of Aragon also holds a great deal of land in this region.
 
-### *County of Gévaudan*
+### County of Gévaudan
 
 Held by the crown of Aragon since 1112, this domain was previously part of the diocese of Mende, and the bishop of Mende attempted to retake control of it repeatedly in the 12th century. It has eight barons who resisted the bishop's rule, despite the fact that King Louis VII granted the clergyman temporal power over the area with the Golden Bull of Gévaudan. These barons are sworn to James.
 
@@ -4149,7 +4149,7 @@ This city was established by the counts of Toulouse in 985 after pirate raids dr
 
 William VII of Montpellier established the school which was recognized in 1220 as the University of Montpellier, famous for its studies in medicine (and detailed further in *Art & Academe*, page 109). Marie of Montpellier, the city's hereditary ruler, married Peter II of Aragon in 1204 and gave birth to James there in 1208. This alliance confirmed Marie's claim to rulership and allowed the city to claim a charter which included a tradition of annually selecting twelve governing consuls.
 
-### *County of Millau*
+### County of Millau
 
 Millau became a part of the crown of Aragon through the same marriage that incorporated Gévaudan in the early 12th century. Later, Alphonso II granted the town of Millau a consular charter, allowing consuls to levy taxes and enforce laws. Located at the confluence of the Tarn and Dourbie rivers, Millau has a 17-span Roman-era bridge crossing the Tarn—one of the biggest such bridges in Mythic Europe. Its presence places the town on a significant trading route.
 
@@ -4159,7 +4159,7 @@ Countless enormous, ancient stone tables and standing stones, called dolmens and
 
 The Eglise Notre-Dame-de-I'Espinasse, the church of Millau, supposedly keeps a fragment of the Crown of Thorns as its relic. It has a Divine aura of 4.
 
-### *County of Roussillon*
+### County of Roussillon
 
 Roussillon derived its name from Ruscino, a small fortified place where Gaulish chieftains met to consider Hannibal's request for a conference. Although a very agricultural region, it is known for its vineyards and woad production. Woad is processed to create a light blue indigo dye used in clothing. The viscount even has a few small iron mines at the foot of the Pyrenees, and a small gold mine near Saint-Jean-Pla-de-Corts, but it does not produce much. When Viscount Gerard II died without heirs in 1172, rulership passed to Alphonso II of Aragon by a prior agreement with Gerard II and his nobles. Alphonso then made his brother Sancho the viscount. Sancho, supported by his son, Nuno, acts as regent for and occasionally conspires against James, who currently lives in Zaragoza.
 
@@ -4169,7 +4169,7 @@ As this is part of the border with Catalan, many fortifications have been built 
 
 The capital of the county, Perpignan was founded in the ninth century and became a partially self-governing commune in 1197. The traditional industries are wine, olive oil, cork, wool, leather, and iron. It is built along the banks of the Tet river, the largest waterway in Roussillon. High, thick walls surround the city, and the viscount maintains a compound including a chapel, hospital and castle, the Chateau de Rous-
 
-### *Story Seed: The Wolves of the Massif Central*
+### Story Seed: The Wolves of the Massif Central
 
 The wolves hunting in the wilds of the Massif Central are not mere beasts, but a small tribe of shapeshifting werewolves who prey on unfortunate travelers. They make their home in an ancient, Gaulish cave shrine with a Magic aura of 3. Can the hunters be tamed and their lair transformed into a covenant? The lack of neighbors means such a community could develop in seclusion from the bloody Albigensian Crusade, but may face difficulties acquiring necessary specialists and rarer supplies.
 
@@ -4177,17 +4177,17 @@ The wolves hunting in the wilds of the Massif Central are not mere beasts, but a
 
 The Crown of Thorns relic is a fragment of the larger crown in Constantinople and kept in a small, wire-mesh cage made of gold on a fine golden chain. The relic consists of a portion of the rush with three pairs of thorns. It acts as a regular relic (**ArM5**, page 48), with a Faith Score of 3 and the saintly power to Cure Blindness (*Realms of Power: The Divine Revised*, page 52). However, it is rarely drawn from its reliquary as the church priest has no desire to risk damaging it. The relic is paraded before the congregation as a part of the celebration of Lent.
 
-### *Vis Site: The Abandoned Mine*
+### Vis Site: The Abandoned Mine
 
 While quarrying stone or collecting tailings from a small abandoned mine, covenfolk discover a vein of iron or gold, perhaps with a pawn of vis evident. More surprising, every hundredth cartload of ore removed from the mine by hand has 2 pawns of Terram vis. The vis isn't present if the ore is removed magically. It isn't apparent how deep the vein runs, or whether the process of mining, rather than the ore itself, invests the vis in the site. Will the conditions of the mine prove dangerous to covenfolk unaccustomed to working underground? Will the vis run out if the ore vein is exhausted? The natural resources might be a welcome addition to the covenant's coffers, but will the new mining activity draw the attention of the local lord?
 
 sillon. The castle's 20 pace round tower dominates the site, and the hospital and chapel are both dedicated to St. John the Baptist. The hospital's mission is to serve the urban poor of Perpignan. The Order of Poor Sisters, or Poor Clares, operates in the city, working to establish a convent and living by Franciscan tenets.
 
-# *Vassals of Aragon*
+# Vassals of Aragon
 
 James of Aragon controls some part of the region through his vassals.
 
-### *County of Foix*
+### County of Foix
 
 The counts of Foix served the counts of Toulouse in the 11th and 12th centuries, but Raymond Roger I, the fifth Count of Foix, a troubadour and a relative of Raimond VI of Toulouse, was imprisoned by the Bishop of Urgell for a time in 1203, before being freed by Peter II of Aragon and swearing fealty to him. Raymond Roger I is famed for his generalship, chivalry, fidelity, and affection for haute couture. He is not just a patron of troubadours, but an author of verse himself. Although he is not a Cathar, Raymond Roger I married one and fought against Simon de Montfort in the Albigensian Crusade.
 
@@ -4195,43 +4195,43 @@ Charlemagne established the town of Foix. The Chateau de Foix, a castle built up
 
 The monastery of the Canons Regular of St. Augustine, which was established in 1104, houses the skeletal relics of St. Volusien, the patron saint of Foix who was kidnapped and tortured to death by Visigoths. A substantial structure, it is built with red sandstone and includes a church with three naves. The monastery serves as the spiritual and social center of Foix, and enjoys a Divine aura of 4.
 
-### *County of Provence*
+### County of Provence
 
 Raymond Berenguer IV rules the county of Provence in 1220, having escaped Templar captivity, married Beatrice of Savoy, and consolidated his inheritance. The land has seen Italian, Arabic, Frankish and now Catalan rulers. The river Durance acts as its border with the lands of Toulouse. Throughout this region, cathedrals and abbeys built in the 12th century often have fortress-like qualities to serve as protection for residents from pirate raids. The area is detailed further in Chapter 8: Arelat.
 
-# *Local Flavor*
+# Local Flavor
 
 These groups, places, and professions represent aspects of life common within Narbonnais.
 
-### *Moorish Raiders*
+### Moorish Raiders
 
 Beginning with the Umayyad conquest of Iberia in the eighth century, through the 12th century and to the present day, Moorish pirates have roamed the waters between the Straits of Gibraltar and Sicily like wolves. Primarily based in the Maghreb, from cities like Algiers, Marrakech, or Tangier, they plunder Christian Iberia, southern France, in particular Narbonnais, Italy and Sicily. They also operate out of the nearby Balearic Islands, with a brief cessation in 1115 after the Balearic Crusade, only to resume in the following year. Recently, the Italian city-states, the Norman Sicilians, and the Spanish kingdoms of Aragon and Castile have increased their grip on the Western Mediterranean, but they have not eliminated the pirate threat. One cannot journey from the Catalan Sea into the Ligurian or Sea of Sardinia without threat of attack and fear of slavery, which encourages travel in collected flotillas of vessels for added safety. As discussed in *City and Guild* (page 87), this area can be passed by Moorish vessels, magical assistance, or with a story.
 
 
 
-### *Jewish Scholars*
+### Jewish Scholars
 
 Arles, Montpellier, and Narbonne hold yeshivas, or Jewish religious schools, as described in *Realms of Power: The Divine Revised Edition* (pages 129–130), interpreting and recording Talmudic thought. Several respected rabbinical authorities and kabbalist mystics studied in Narbonne, including Moses ha-Darshan in the 11th century and Moses ben Joseph ben Merwan ha-Levi, who many considered one of the foremost Jewish mystics of his age, in the 12th. Referred to as Hachmei Provence, or "the wise of Provence," these yeshivas helped establish the literary styles and pedigree which still endure as a scholastic standard within the Jewish religious community.
 
-### *Knights of the Order of Aubrac*
+### Knights of the Order of Aubrac
 
 A small group of knights dedicated to guarding pilgrims traveling southwest along the Way of St. James to Compostela, and southeast toward Rome, was established in Aubrac at the Dômerie d'Aubrac in the 11th century and adopted the rule of St. Augustine in 1162. It maintains a number of satellite hospitals, called "commanderies," in the communes of Bozouls, Millau, Nazac, and Rodez. The Order of Aubrac maintains a competitive rivalry with the Hospitallers, who would like to absorb them, but have been unsuccessful thus far.
 
-### *Story Seed: A Pirate's Life*
+### Story Seed: A Pirate's Life
 
 A particularly brutal corsair has taken to raiding along the coast. Not content to simply attack trading vessels, he lands with groups of reavers to attack caravans and pilgrims. In one of these raids, he captures covenfolk out on business, possibly a companion or associate bound for the covenant with correspondence. In order to avoid a life of slavery, the hostage explains to the pirates that the covenant will pay a ransom, and so the slavers send a message to the covenant. However, the ship's captain has fueled the crew's recent successes by striking a bargain with a jinn known as "Howling Knife of the Dunes." The jinn knows of the Order and promises the kidnappers wealth beyond measure if they can capture one magus in particular. It seems the jinn has a second master—who have the characters angered?
 
-### *Story Seed: The Rampaging Golem*
+### Story Seed: The Rampaging Golem
 
 Servants of skilled kabbalists, Divinely blessed golems rarely act beyond the scope of their direction. However, when the grandson of the mystic who created it is unjustly lynched by a mob for a crime he did not commit (perhaps the handiwork of a nearby demon, infernally tainted Jinn, or faerie looking to stir up trouble), the golem is overwhelmed and begins to rampage. Seeking vengeance for the terrible wrong, it refuses to stop beating its way through the populace until finds the true culprit.
 
-### *Traveling Troubadours*
+### Traveling Troubadours
 
 While discussed regionally in Chapter 2, the local focus of troubadour activity is the county of Rodez, a fiefdom of the county of Toulouse. The viscount of Rodez, Henry I, is an established troubadour and he is encouraging his children to maintain his interest.
 
 Early troubadours came from the nobility, but over time, troubadours sprang from every walk of life. Fulk of Toulouse began his career as a troubadour, going on to repent and enter the clergy, eventually becoming the bishop of Toulouse in 1205 and involving himself in the Albigensian Crusade.
 
-### *Via Domitia*
+### Via Domitia
 
 Ancient even when the Romans paved and regularized its route, locals believe Heracles walked the path of the Via Domitia when he traveled through the region to
 
@@ -4241,25 +4241,25 @@ complete his 12 labors. Hannibal took this route on his march through Hispania t
 The road begins after crossing the Pyrenees near Perthus and passes through Perpignan, going on to Narbonne across a seven-arched bridge, then through Béziers, Montpellier, and Nimes before entering into the Kingdom of Arelat. It turns north at Cereste and continues into the Piedmont, crossing the Alps at the Col de Montgenevre the lowest primary pass between France and Italy. In antiquity, "mansiones" were spaced a day's journey apart, where travelers could rest, eat and continue their trip.
 
 
-# *Covenant of Stella Durus*
+# Covenant of Stella Durus
 
 **Symbol:** A shining five-pointed star
 
 Sited on the outskirts of Narbonne, this cosmopolitan covenant consists of Bonisagi, Flambeau, Jerbiton, and one particularly ambitious and long-sighted Tytalus interested in the chess games of noble alliances and marriages. Their interests include research on the magical spirits and ancient ruins throughout the countryside. An Autumn covenant, their personal goals often distract them from uniting as a cohesive force in politics, Hermetic or mundane, and they only want to remain unnoticed as the Albigensian Crusade progresses.
 
-### *History*
+### History
 
 Stella Durus began as a small estate on the left bank of the Aude, outside of Narbonne proper, maintaining an old manor farm. The magi here quietly worked alongside their neighbors, supporting the growth of the urban environment through the 11th and 12th centuries while recovering from the long-past founding members' participation in the Schism War and some forays against the Muslim occupation of Iberia. The current senior members of the covenant are the elder Bonisagus, Marcella, who is focused on uncovering a way to identify and harness the powers of a magical spirit—the spirit of the Aude river; and Jean Marie, a follower of Jerbiton who was looking for someplace pleasant to put down roots. Marcella's spirit of exploration combined with Jean Marie's bucolic attitude attracted Renaud and his current fascination with the regional Mithraic sites and the troubadours appearing across the countryside.
 
-### *Setting and Description*
+### Setting and Description
 
 The old Roman villa has been modified, added to, and rebuilt several times over since its initial construction. Always reclusive, the covenant members are often considered odd neighbors the other local residents ignore unless circumstances demand otherwise the servants of an oft-traveling merchant or very minor lord on Crusade. The defenses are nearly nonexistent, the structure is nothing remarkable. The covenant seems to have taken a policy of hiding in plain sight. There is a Magic aura of 2 in the basements, where a Roman mithraem once stood.
 
-### *Culture and Traditions*
+### Culture and Traditions
 
 Stella Durus has one overarching tenet: they are individuals banded together for the sake of mutual protection and sharing resources. In fact, that attitude was the reasoning behind the selection of their covenant name, referring to the stars that guide many explorers and playing on the multiple interpretations of the word "durus" as committed, rough, and enduring. These magi all have a loose interest in maintaining their home, but no uniting force to drive their covenant. Members regularly skip meetings, bicker over the distribution of maintenance tasks and try to find ways to keep their time their own. They like the proximity of Narbonne, but find the river does an excellent job of providing some measure of isolation.
 
-### *The Magi*
+### The Magi
 
 Five magi make their home at Stella Durus.
 
@@ -4368,17 +4368,17 @@ A Romanian arrival apprenticed in the Theban Tribunal, Ducaru joined the covenan
 
 Never seen without his distinctive goatskin cap, Ducaru's mastery of Mentem magics makes his goal a possibility, but his expert knowledge of Vim only seems to draw suspicion. He does not consider himself evil, but he also does not allow morals or society's expectations to limit his actions. He often takes actions, especially unexpected actions, simply to observe the outcome. The least involved in covenant operations, Ducaru always contributes at the most opportune moment. He keeps a game of chess running in a Perpignan tavern, where he is in the process of beating Etienne of Ara Maxima Nova. The two have been trading games for months. Redcaps now frequent the tavern, keeping current on the state of the game and placing wagers on who will win.
 
-### *Covenfolk*
+### Covenfolk
 
 The covenfolk and grogs of Stella Durus are a mix of nationalities, brought to the covenant by its various members over time. They seem to have blended well together, but occasional conflicts emerge. The staff members speak a half dozen different languages, which has led to most of the misunderstandings, but Marcella likes this diversity, and encourages covenfolk to keep their various language skills sharp. The highly competent and veteran turb languishes here, bored with little to keep them occupied. However, in keeping with the magi's request for an unobtrusive existence, they do not train or muster where they might be seen. Renaud wants to maintain their excellence, though, and has been working on ways around this problem.
 
-# *Covenant of Ara Maxima Nova*
+# Covenant of Ara Maxima Nova
 
 **Symbol:** A wine barrel
 
 Ara Maxima Nova is a Summer covenant made rich through trade in wine and cork. A group of Merinita and a Gifted Mercere established their laboratories while founding a splinter cult of Keepers of a Thousand Tales influenced by the Cult of Heroes and focused on the Via Domitia, the path both
 
-### *Story Seed: Marriages of Calculation*
+### Story Seed: Marriages of Calculation
 
 Ducaru may have assisted in Ramon Berenguer IV's escape from the castle in Aragon where Templars held him prisoner until 1219. Once restored as count of Provence, Raymond married Beatrice of Savoy in June of that year; this added Savoy to his lands, but more importantly, he would have four daughters.
 
@@ -4395,24 +4395,24 @@ While the timeframe of such alliances
 may be beyond the scope of many sagas, they represent exactly what Ducaru attempts to engineer from the shadows. How does he know which pairings to make? Is he a diviner? Does he have prophecies acquired from eastern oracles or is he simply an astute student of local politics? What does he gain from such alliances? What other unions are inspired by his whispers? Ducaru's longer timeframe might even run afoul of the characters, creating a rival in the established Tytalus.
 
 
-### *Vis Site: Heraclean Vis*
+### Vis Site: Heraclean Vis
 
 Travelers who walk the Via Domitia from the Pyrenees pass near Perthus to the pass at Col de Montgenevre while carrying the skin of a lion and spending the night encamped at six of the mansion sites find the skin to contain 6 pawns of Intellego vis. However, the magi of Ara Maxima Nova tend to keep a close watch on the road, and camping, for at least one of the sites involves sleeping in an open lot within Narbonne. The magi of Ara Maxima Nova do not yet know of the road's potential to generate vis, but some of the local fae do and might barter this knowledge.
 
 
 Heracles and Hannibal traveled through the region. The Merinita hope to tap into the spirits of the vineyards that have covered the hills since before Antiquity, seeking out the wisdom of the Dionysian mysteries while exploring the relationships between their journey of enlightenment, the Roman roads crossing the landscape, and the travels of Heracles.
 
-### *History*
+### History
 
 Established 25 years ago by its Merinita magi, Ara Maxima Nova is a covenant focused on the development of the cult created by its senior magus. Having investigated the trials of Heracles in the east and experienced several initiation breakthroughs via experimentation, they traveled west to explore the remaining labors and establish a home closer to Rome. The fact that Perpignan is run as a mostly self-governed commune suits the magi perfectly, and the unfettered access to the remaining portions of the Via Domitia made the choice even easier.
 
 Using their talents, they quickly became a top producer of wine and cork, known for high quality goods available even when weather or misfortune causes problems for others in the region. The covenant secured several dedicated customers who purchase their stock and ask few questions. With their mundane concerns and obligations met, the magi operate as they like with plenty of funds to spare.
 
-### *Setting and Description*
+### Setting and Description
 
 Ara Maxima Nova ("New Great Altar") is a collection of small structures surrounding a small villa attached to a series of vineyards and cork nurseries. Not completely isolated from their neighbors, they try to keep their appearance as mundane as possible, blending in with the scores of farming estates that make up the outskirts of Perpignan. They perform their Aegis ritual under the cover of darkness and hidden behind Luc's Imaginem magics, in order to keep the ritual's effects and protections secret from even the bulk of their covenfolk. Secrecy is of the utmost importance to the members of this covenant, who, while they don't deny membership in their House, are truly estranged from it.
 
-### *Culture and Traditions*
+### Culture and Traditions
 
 The covenant's location allows it to serve as an excellent base of operations, midway between the two destinations its members regularly seek out. They are friendly enough and tend not to get involved in Tribunal politics unless a matter threatens to encroach upon their research. Their studies of the Herculean legends have progressed better than investigations into the Dionysian Mysteries — if only because tales of the ancient hero were not subjected to the same sort of purging pagan mystery cults suffered. Three particular activities epitomize the magi of this well-established covenant.
 
@@ -4433,7 +4433,7 @@ The magi of Ara Maxima Nova have yet to find the Hesperides, renowned as one loc
 
 The faeries which coexist with the many farms and vineyards of the region are of particular interest to the Merinita of the covenant. They engage these creatures whenever possible, attempting to learn their natures and personalities, seeking to glean ancient secrets of the Dionysian mysteries. At this point, they have found several nymphs and satyrs, but none knowledgeable or willing to share about cult ceremonies.
 
-### *The Magi*
+### The Magi
 
 Four magi currently make their residence at Ara Maxima Nova.
 
@@ -4458,7 +4458,7 @@ His goals at this point include:
 
 With Luc since the beginning through a chance fostering, Etienne is primarily responsible for the maintenance and administration of Ara Maxima Nova as well as for interactions with visitors. An Animal, Herbam, Muto and Rego specialist, he contributes by keeping the structures in superior condition with an almost obsessive attention to detail. Stocky and taciturn with dark features and a piercing gaze, Etienne is a former lover of Luc, but ended the relationship when Luc married Miriam. While he is an active member of the cult, he has no desire to seek its innermost secrets. Rather, he wants to remain close to Luc and support the mystagogue's search for wisdom in anyway possible. Blessed with the Gentle Gift, he has a weakness for sweets and a good game of chess, often making excuses to enter Perpignan looking for both. Outside specific cult initiations, Etienne remains celibate and makes no effort to seek companionship. He does feel the time is right to begin training an apprentice, and intends to search for one very soon.
 
-### *Story Seed: The Expedition*
+### Story Seed: The Expedition
 
 Using the material presented in chapter 7 of *Ancient Magic*, a storyguide could easily create a joint venture between Ara Maxima Nova and the players' covenant, where the wealthy covenant funds an expedition driven by information gathered by the troupe's magi. Should a storm, created by the dragon which embodies the fierce currents, separate the groups' sailing vessels or cause a shipwreck as the group arrives, then separated groups could explore the islands for their secrets while attempting to find other survivors and a route home. Divided groups might even conflict with one another for control of the Hesperides after reuniting.
 
@@ -4475,14 +4475,14 @@ The younger sister of Luc, Jeanne compliments Etienne's support of their mystago
 
 The youngest magus of Ara Maxima Nova and the only one originally from outside of France, Guillermo recently became a member of the cult. His research into Hannibal and Heracles through the Cult of Heroes (and a misunderstanding with a local lord about Guillermo's relationship with the lord's wife) led him to leave his home in Genoa and seek the Via Domitia, where he repeatedly crossed paths with Luc. After several encounters, including some failed but genial certamen bouts fought over access to resources and ruins which culminated in extended discussions regarding the ideas of heroic ascension, Luc invited Guillermo to join and take the first series of initiations. His extensive knowledge of ancient tales and extreme familiarity with the area intrigued Luc, and the elder magus became fascinated with the Gifted Mercere. Guillermo recognizes this infatuation and nurtures it, hoping to learn as many of the cult's innermost secrets as possible. His loyalties, however, lie strictly to himself, and should he be forced to choose between some form of extreme sacrifice for the covenant and his own well-being, he is certain to choose himself. Shortly after his Gauntlet, Guillermo rescued a young Tremere named Sagittaire, who had been accosted by bandits. In gratitude, Sagittaire taught the Mercere the secrets of the Carvers' school of Certamen dueling (*Houses of Hermes: True Lineages*, page 138) and Guillermo has a reputation for freely acting as a champion for any Redcap in the Tribunal who asks.
 
-### *Covenfolk*
+### Covenfolk
 
 Ara Maxima Nova regularly recruits new covenfolk from peasants seeking new lives in the town proper of Perpignan, including those seeking respite from the Reconquista to the south. Despite occasional arguments about the practice, Etienne even supplements some personnel needs with slaves from Arab merchants. Many who work in the vineyard or cork operations have no idea of the masters they serve. A dedicated cadre of covenfolk work within the main structure, dutifully tending the specialized needs of the magi. Drawn from servants who show promise and loyalty, these covenfolk are well-cared for and generously compensated. However, covenant policy rarely allows them to travel any great distances — Luc wishes to keep his cult secret and has no desire to take unnecessary risks. The exceptions to this rule are, of course, the fairly small turb of welltrained grogs who accompany magi afield, work foremen, and those who negotiate with merchants in Perpignan.
 
 
-### *Chapter Eight*
+### Chapter Eight
 
-# *Arelat*
+# Arelat
 
 The eastern march of the Provençal Tribunal was the site of the first Roman settlements outside Italy. The medieval culture of the Church and the towns of the so-called Kingdom of Arelat and Provence overlie a tapestry of ancient Roman and Gallic ruins. Encompassing the area of the Kingdom of Lower Burgundy, it is bounded by the Rhone in the west except for the small County of Viviers, the town of Beaucaire, and the area of Lyonnais appended across the river. It stretches east along the Mediterranean coastline toward the Maritime Alps just past Nice. Over the last millennium the area was beset with repeated waves of barbarians: Franks, Lombards, and Saracens, only to be finally conquered by the armies of Charles Martel. In the 13th century it is more peaceful, and is a blossoming heart of the troubadour culture that is to spread throughout southern Europe.
 
@@ -4494,7 +4494,7 @@ Considered by its members to be an exemplar of Hermetic cooperation, some other 
 
 Some fear the Coenobium will attempt to dominate the disorganized Tribunal in the wake of the recent Albigensian Crusade. Perhaps they will do so in a less aggressive manner than the raiders under Sayyid, but some wonder if the might of the right is worse than that of the initial wrong that forged them. Whose side will the characters choose?
 
-### *Not the Lotharingian Tribunal…*
+### Not the Lotharingian Tribunal…
 
 Originally, the region within the Provençal Tribunal now referred to as Arelat was part of the Lotharingian Tribunal. This early entity ceased to exist after the Grand Tribunal decision of 898 that reassigned many of the northern covenants to either the Normandy or Rhine Tribunals. The rump left behind, comprising the lands of the Kingdom of Arles along the banks of the Rhone and scattered settlements in the Toulousain, became known as the Provençal Tribunal.
 
@@ -4518,7 +4518,7 @@ Provence and the Kingdom of Arelat is Frederick II, the Holy Roman Emperor. He h
 contrast to the Hermetic situation, much of the area is independent, controlled by minor lords or chartered towns such as the great river communes of Arles and Avignon. So far the region has escaped the devastation of the Albigensian Crusade, although several of its communes (and perhaps some of its magi) have lent discreet aid to both sides of the conflict.
 
 
-# *The Legacy of Fraxinetum*
+# The Legacy of Fraxinetum
 
 The now disbanded covenant of Fraxinetum (Latin: *"ash forest")* took its name from the surrounding groves of ash established by one of the founding magi, Sayyid Shajarat al-Darda. He was reputedly an Andalusian Flambeau Herbam specialist from northeastern Iberia, but House Flambeau deny this background. They claim Sayyid was a renegade from their philosophy, corrupted by his Tytalan lieutenant Nasr ibn Amaf. Some mutter he may even have been a Tytalus-trained infiltrator from the start.
 
@@ -4527,7 +4527,7 @@ Unknown to the Tribunal for its first century of existence, this small cadre of 
 
 The predominantly Jerbiton magi of the eastern lands of the Tribunal were forced to act. Drawing on their mundane family connections, their supporters within the Church and sympathetic allies amongst the nobility of Provence, the magi of several weak covenants founded a mutual protection pact. No overt Wizard's War was declared, but the Hermetic coalition subtly supported the mundane army amassed by William I of Provence. The bulk of the Moorish forces were routed at the Battle of Tourtour. Following a successful siege of their base, the Fraxinetum magi disappeared into the deeper forest and then seemingly disappeared. Their Moorish allies set sail back to Andalusia, leaving the coasts of Provence temporarily free from the pirates' scourge. The remaining Provençal magi, having learnt the value of cooperation and the benefits of acting through mundane forces, re-established themselves as the multi-site covenant that has become known as the Coenobium.
 
-# *The Rhone Valley*
+# The Rhone Valley
 
 Known as "the Bruiser" to the local boatmen, the Rhone is famed for its fierce currents, shallows, and spring floods making navigation difficult. Travel by barge is possible up to about Macon. The river combines with the Saone at Lyon to flow through the great furrow of *le sillon rhodanien* between the Massif Central to the west and the foothills of the Alps to the east, forming the southwestern frontier of the Holy Roman Empire. The land is poor and hot, swept by the fierce Mistral. The region is known for its luxury goods: wine, honey, limes, and olives.
 
@@ -4535,11 +4535,11 @@ A major trade route from north to south since pre-Roman times, only four bridges
 
 Travel from Macon to Arles takes about 3 weeks due to the river's navigational difficulties. At Arles, the goods are transferred onto smaller sailing barges for the last stage to the sea and then by larger ships or galleys onwards to other ports. Travel upstream is aided by hitching barges to teams of draft horses or using magic to offset the effect of the current, but typically takes at least one to two weeks longer.
 
-### *Avignon*
+### Avignon
 
 This town has dominated southern Provence since its commune was established in 1129. Considered semi-independent of the Holy Roman Empire and holding no allegiance to the local Catalan count of Provence, it is one of the central sites of the Coenobium
 
-### *Boats of the Rhone*
+### Boats of the Rhone
 
 The *utriculari,* or boatmen of the Rhone, form a powerful guild in the 13th century, controlling trade along the waterway. Although nominally based in Beaucaire, the largest concentration of guildmembers resides in Arles, where the majority of shipments transfer to ocean going vessels.
 
@@ -4547,7 +4547,7 @@ The *utriculari,* or boatmen of the Rhone, form a powerful guild in the 13th cen
 
 *Coches d'eau* — These "water coaches" are used by important travelers and nobles and either use sail or are drawn by horse. Jerbiton magi prefer this travel method over magic but the coaches are not usually available to Redcaps on mundane errands. As most riverboats are marked with a cross or other religious symbols for protection, many magi incorporate subtle wards within these designs to ease their journey.
 
-### *The Hermetic Toll and the Price of Hospitality*
+### The Hermetic Toll and the Price of Hospitality
 
 All magi openly visiting Avignon are asked to stop here and announce their intentions and length of stay, in line with the rules of Hospitality promulgated by House Jerbiton. The various Redcaps of the Tribunal, encouraged by Alazais, have made it known that a silver florin containing a pawn of vis should be donated as a gesture of good will. This vis is used to help support the non-Jerbiton Hermetic specialists retained by the covenant.
 
@@ -4555,7 +4555,7 @@ Magi conceding to this local custom receive a consul to guide and assist them du
 
 
 
-### *Drac, Lesser*
+### Drac, Lesser
 
 Common to the Rhone and its tributaries, the lesser drac are aquatic Faerie drakes that lure their helpless prey (washerwomen, children, or vagrants) into watery lairs through their illusory powers. Feeding on the fear the stories of their predations cause, these dragons are very different from Orms and act out stories in the role as Child Stealers or Sexual Predators. They possess some or all of the powers attributed to their elder namesake and are encountered along the more sinister sections of the Rhone's tributary streams.
 
@@ -4627,7 +4627,7 @@ The abbot of St André is a distant relative of the Les Baux family, and one of 
 
 secretly maintains good relations with the magi of the Coenobium. The clergyman sometimes entertains the more respectable of the local hedge wizards. Characters refusing the hospitality of the Coenobium may approach the abbott to allow them to lodge in the appropriately named Tower of Sorcerers, but any arrangement requires discretion or risks arousing the ire of the local bishop or the interests of the Coenobium.
 
-### *Beaucaire*
+### Beaucaire
 
 Beaucaire (Occitan: "beautiful rock") across from Tarascon on the western Languedoc bank of the Rhone is nominally part of the County of Toulouse. In 1216, the count has recently recaptured it from Simon de Montfort's forces after a short siege. The town is dominated by the powerful *utricularii* of the Boatmen's Guild, who control the wharves at the cliff's base, beneath the city. Unusually, the Coenobium maintains no presence in the town, but recent rumors of the return of the mysterious Drac, a local sorcerer-dragon believed to predate the formation of the Order, may draw them.
 
@@ -4637,7 +4637,7 @@ Local legend tells of a cruel sorcererdragon, the ancient Drac (*Occitan:* "drag
 
 As the story does not mention anyone ever slaying the elder dragon, it was believed to have died of old age, but a decade ago a spate of disappearances in or around Beaucaire has been attributed to the return of the creature. No further disappearances have been reported for the last few years and the townsfolk are beginning to forget the incidents, but one of the wells in the marketplace of Beaucaire is rumored to be still linked to the creature's lair.
 
-#### *Faith & Flame*
+#### Faith & Flame
 
 #### **Aucassin of Tytalus**
 
@@ -4647,13 +4647,13 @@ Although he does not attend Tribunal meetings, Aucassin has successfully maintai
 
 In the last two decades Aucassin has discovered that his Mythic Blood descends from the Drac of old and that he is therefore an heir to the creature's magical legacy. Within the complex he has discovered detailed instructions, expressed as images on the cave walls, for rituals promising immortality through unleashing the potential of the dragon blood running in his veins and a deeper level linked to the Magic Realm. The images and the regio together form parts of a Mystery Initiation Script designed to transform a human heir into a truly Magical being by maturing the initiate into a true elder Drac. He has uncovered what appears to be a portal into the Magic Realm via a boundary aligned to the Form of Imaginem, which is guarded on the other side by a sleeping dragon Vestige resembling a giant Drac (see *Realms of Power: Magic*, pages 21–23). Although he has harvested some of the unusual vis beyond the portal, he feels he is not ready to challenge the elder creature for his inheritance until he more deeply understands the ritual images.
 
-### *Tarascon*
+### Tarascon
 
 Imperial counterpart to Beaucaire on the west bank, Tarascon is known for its own local amphibious dragon legend. In the hills outside the settlement is the cave lair of the slain Tarasque, a six-legged amphibian beast tamed by St Martha and then cowardly slain by the villagers of Nerluc in AD 48. Although the remains of the beast have been scattered over the centuries, the lair deepens into a submerged cave network that may connect with other caves in the region. The cave has a weak residual Magic aura of 2, although stronger regiones are believed to exist and lesser cousins of the infamous dragon may lurk within.
 
 Just north of the town near a small island lies the battle site of the forces of Hannibal and the Volcae tribe, made famous as the Battle of the Rhone Crossing. On a clear moonlit night, travelers in boats have remarked seeing giant skeletal remains of elephants lying on the river bed and giant ghostly animal shapes marching beneath the currents.
 
-### *Arles*
+### Arles
 
 Arles is a free city or commune in the style of the Italian city-states, governed by an elected foreign *podesta* or chief magistrate since 1132. The *podesta* in turn appoints the remaining local consuls. In the 13th century it is a busy seaport, a popular embarkation point for Crusaders and pilgrims from northern France on their way to the Holy Land.
 
@@ -4703,7 +4703,7 @@ The peaceful settlement suffered the depredations of Fraxinetum (see earlier). I
 
 A single-arched bridge framed by two triumphal arches, the Pont Flavian crosses the River Touloubre near St. Chamas as part of the Via Julia Augusta. Built in antiquity, the structure has endured for more than one thousand years thanks in part to the faerie ogre who has taken up residence beneath it. The ogre can be bargained with, and a toll of sheep and beer often purchases a caravan's passage through this area.
 
-### *The Alpilles*
+### The Alpilles
 
 A range of limestone teeth jutting from the northern edge of the plain of the Crau, these little mountains resemble
 
@@ -4711,13 +4711,13 @@ A range of limestone teeth jutting from the northern edge of the plain of the Cr
 
 the greater Alps to such an extent that they are regarded locally as their diminutive offspring. Wild and untamed, they rise above the medieval town of St-Remy just to the north and contain areas of untouched wilderness, home to both Magic and Faerie auras and their respective creatures.
 
-### *Les Baux*
+### Les Baux
 
 The stronghold of Baux was razed in 1162 at the end of a long conflict known as the Baussenque Wars between its scions and the Catalan counts of Provence. Hugh III, son of Bertrand, is the current Seigneur of Baux but spends most of his time elsewhere, preferring the bustle of Marseilles, which he holds as viscount on behalf of the Holy Roman Emperor. His relatives include the Prince of Orange and many of the minor nobility of Provence. One of his younger cousins, Marcus, is well known amongst the family as the wizard Balthazar, a somewhat notorious member of the Coenobium.
 
 Beneath the plateau of Les Baux lies the infamous Val d'Enfer, a rocky valley associated with a weak Infernal aura of 2, known for the many sinister caves that line the gorge. These caves provide entrances to a Tartaran regio. The regio is the lair of the lesser demons of pride and ambition that have spurred on the Baussenque lords
 
-### *Story Seeds: Beaucaire & Tarascon, cont'd*
+### Story Seeds: Beaucaire & Tarascon, cont'd
 
 Characters may seek to access the watery labyrinth by following the descriptions and clues in Gervais' text. The encyclopedia contains the equivalent of 4 tractati of Quality 6, on Provençal Lore (history), Faerie Lore, Infernal Lore, and Magic Lore, and can be used to research the Drac and its lair. See *Art & Academe*, page 26 for details on additional uses of encyclopedias.
 
@@ -4733,7 +4733,7 @@ About a decade ago Aucassin kidnapped several children from the area, giving ris
 
 Aucassin has recently begun to abduct mundane servants to care for his young "hatchling". He has so far been able to use his magical talents and his position within the town to cover up the disappearances. Several abductees now dwell under magical compulsion within the cave complex, including a lavender seller wet-nurse and a young female scribe previously used by the Chief Redcap, Alazais. He has forced the latter to act as the child's Latin and Artes Liberales tutor. When another favored grog goes missing during a trip down the Rhone, will the characters investigate further and stumble upon the secretive magus' plans?
 
-### *Story Seeds: Arles*
+### Story Seeds: Arles
 
 Many stories could spring from this area.
 
@@ -4750,7 +4750,7 @@ The descendants of the necromancers apparently decamped to a secluded cave netwo
 When an enchanted sarcophagus ends up in the possession of the characters by chance, it may provoke interest in its origin and set off an investigation into the true fate of its former owners. Will the trail lead to a secret covenant in the Verdun Gorge or will they uncover a bloodstained path leading back into the past of the Coenobium?
 
 
-## *A Small Tarasque*
+## A Small Tarasque
 
 **Magic Might:** 20 (Animal)
 
@@ -4802,12 +4802,12 @@ into conflict over the preceding centuries.
 
 Carved into the rock beneath the valley is the Tremais, a roughly hewn sculpture depicting three figures commonly thought to represent Saints Lazarus, Mary Magdalene and Martha. The location is considered a minor pilgrimage site with a Divine aura of 4 but the Christian shrine lies within a larger Faerie aura of 2, as the original pre-Christian sculpture was dedicated to the Roman commander Marius, his wife, and the Syrian sibyl Martha before being adopted by missionaries seeking to convert the local populace.
 
-### *The Camargue*
+### The Camargue
 
 This swampy triangle between the deltas is formed by the two terminal branches of the Rhone. Trinquetaille, the unwalled suburb of Arles on the right bank of the Grande Rhone, provides entry to the Cam-
 
 
-### *The Ogre Under the Bridge*
+### The Ogre Under the Bridge
 
 **Faerie Might:** 20 (30) (Vim)
 
@@ -4863,13 +4863,13 @@ Although nominally only visitors to the Coenobium, the two Bjornaer magi who per
 
 
 
-### *The Ruins of Glanum*
+### The Ruins of Glanum
 
 Nestled to the south of the medieval town of St-Remy at the site of the old Roman settlement, pre-Schism Glanum was the site of two very short-lived Hermetic settlements of the same name in the ninth century — one Mercurian, one Mithraic. Both failed abruptly due to lack of diversity in magical skills and a fanatical prejudice against accepting members not aligned to their cult's philosophy. Neither covenant attempt lasted long enough to be formally recognized as covenants of the then Lotharingian Tribunal by having a Quaesitor review their charter.
 
 Since the Schism War the ruins have been abandoned but have recently been proposed as the compromise location for the next Tribunal gathering (see Chapter 3: Hermetic Culture). The site is currently considered off-limits for formal resettlement until this issue has been decided. Currently only Beatrice of Guernicus dwells here as a visitor to the Coenobium. Her sanctum effectively constitutes a small chapter of Castra Solis loosely dedicated to the bipartisan study of the Roman shrines associated with the various cults that once flourished there.
 
-### *The Legacy of Balthazar*
+### The Legacy of Balthazar
 
 The House of Baux claims descent from the historical figure of Balthazar, reputedly one of the three wise kings who visited the infant Christ. To reflect this ancestry, their arms contain the Star of Bethlehem, but their actions as a line have been less than Christian. The Gift occurs uncommonly frequently within this mundane family for reasons that are unclear, but which lend credence to Baussenque claims of a magical heritage.
 
@@ -4891,7 +4891,7 @@ Balthazarine descent grants a Minor Magical Focus with Fear or Obedience, and th
 
 
 
-### *Le Chevre D'Or*
+### Le Chevre D'Or
 
 Known to roam the crags of the Alpilles, the Golden Goat of Provence is said to guard the cave containing the legendary treasure of her father, Abd al-Rahman III, first Caliph of Cordoba. In its natural form its long coat gleams with a golden fire and it wears a golden coronet around its ebony horns. When encountered it may appear to be trapped and beg to be freed in first Arabic and then Occitan, shifting into the form of a breathtakingly beautiful Saracen princess if its pleas are ignored and promising its treasure to its savior.
 
@@ -4907,7 +4907,7 @@ Rarely, the young men lured by the princess do find a way out of the trap, but u
 
 Shepherds sometimes come across strands of the goat's golden wool snagged in bushes on the hillsides. Such wool is recognized by Hermetic magi as Imaginem-flavored Accrued vis (see *Realms of Power: Faerie*, page 19). Characters may be tasked with finding this wool by one of the more aesthetically minded magi of the Coenobium if they petition for membership of the Coenobium or wish to access its resources.
 
-### *Salt for Life, Life for Salt…*
+### Salt for Life, Life for Salt…
 
 Salt preserves, salt protects and salt pays — in the 13th century salt is a valuable magical and mundane commodity worth fighting over. The ruins of the abandoned Hermetic settlement of Castra Peccaius lie on the eastern bank of the Petit Rhone, just across from the future site of Aigues Mortes. Although the settlement has been abandoned for three centuries, the covenfolk of the Coenobium still travel here regularly to harvest a prized vis source from a particularly brackish pond just within the ruins. The magi of the Coenobium nominally lease this land from the nearby Abbey of Psalmody through their mundane dependents. In a few years time, if your saga follows history, the monks will sell the land to King Louis to establish the
 
@@ -4921,7 +4921,7 @@ Control of this small vis source, which produces only 1 to 3 pawns of vis per ye
 
 **Salt:** +5 preservation, +3 protection from evil spirits and demons
 
-### *St Gilles-du-Gard*
+### St Gilles-du-Gard
 
 Based on a hermitage founded by St Giles (Aegidius) in the seventh century, this Benedictine monastery is the first stopping point on the Via Tolosena from Arles. As a waypoint within a day's journey on the Way of St James to Santiago de Compostela (see Chapter 5: Gascony, for further details), the abbey and dependent town have become an important pilgrimage site in their own right and are famous as the birthplace and family holdings of the recent counts of Toulouse.
 
@@ -4935,23 +4935,23 @@ Visitors who spend the night sleeping beneath the boughs of Yf report dreaming o
 
 by an Infernal aura of 3. On the anniversary of Peter's death, the Rhone runs red like blood and small skull-shaped pebbles can be harvested for several pawns of Corpus vis, but the vis obtained is always Infernally tainted (see *Realms of Power: the Infernal*, pages 18–19).
 
-### *Orange*
+### Orange
 
 Originally the Celtic oppidum Arausio, then later a colony for the veterans of Caesar' Gallic War, this town has been ruled by the Les Baux family since the breakup of the Kingdom of Arles in 1033. Emperor Frederick I promoted the former county to a minor principality in 1163 as he passed through. The current count, Raymond I, still claims the viceroyalty of Arles since his troubadour father William's death in 1218 in the depths of an Avignon prison. His power is greatly limited by the strong influence of the local commune.
 
 One of the finest Roman theaters outside of Italy dominated the settlement's social life until closed by the Christians in 391, and in 1220 it remains in ruins from its sacking by the barbarian invasions of the fourth century. The triumphal arch constructed by Tiberius has been incorporated into the town walls as its northern gate but still retains a Magic aura of 2 that flickers into being at night when the Divine aura subsides. As it stands astride the old Via Agrippa, some Hermetic magi speculate the monument may hold some secrets into the ancient Road magic of their Mercurian past. Both Neo-Mercurians and Cult of Mercury members visit the site discreetly to look for possible clues in the inscriptions or architecture.
 
-### *Plaine de la Crau*
+### Plaine de la Crau
 
 This stony plain is of great interest to the magi of Ara Maxima Nova, as legend has it that the hero Heracles was confronted by the giants Bergion and Ligur, sons of Poseidon, on his return along the Via Domitia after successfully corralling the huge cattle of Geryon. Unarmed, the demigod prayed for assistance to Zeus and the plain produced the numerous rocks that he then employed with vigor as missiles, successfully defeating his larger enemies from a distance.
 
 The abundant round stones found on the plain make excellent slingshot or catapult stones depending on their size. Amongst the numerous irregularly shaped rocks can occasionally be found small, perfectly spherical specimens the size of a sling stone that are an unusual form of Terram vis. A handful of these pawns of vis are harvested yearly by the grogs of the Coenobium using lesser enchanted devices supervised by apprentice magi — a tedious and painstaking task used as a punishment for troublemakers or lazy underlings.
 
-# *Eastern Provence*
+# Eastern Provence
 
 The eastern regions of Provence were the site of one of the oldest Greek colonies in western Europe, and remain important in Mediterranean trade.
 
-### *Marseilles*
+### Marseilles
 
 Founded above the mouth of the river Lycaon by the Phocaean Greeks as Massalia, this port was a thriving prospect un-
 
@@ -4964,7 +4964,7 @@ These four small islands off the coast of Marseilles are uninhabited. The two la
 
 The youngest branches of the oldest yew each contain a pawn of Extraordinary Intellego vis that, if burnt, gives the bearer of the wooden brand the power to invoke the ability to communicate with the spirits of the dead as though casting the spell, *Whispers Through the Black Gate* (**ArM5**, page 130). Up to half a dozen branches can be harvested each year on All Soul's Eve, but each branch can only be used once.
 
-### *Toulon*
+### Toulon
 
 Nestled beneath the slopes of Mount Faron, this town was known in ancient writings for its dye-making from the earliest Phoenician settlements in the area. Its beaches are one of the few sources of the rare *murex* shellfish vital for producing imperial (true) purple, and the oak groves on the hillsides above maintain the *kermes* beetle that produces an almost as valuable crimson dye when crushed.
 
@@ -4972,7 +4972,7 @@ Nestled beneath the slopes of Mount Faron, this town was known in ancient writin
 
 The Coenobium maintains a small chapter house here at the location of the former Flambeau covenant of Telo Martius, run by a retired Redcap. Aloysius Porphyri is an un-Gifted alchemist who coordinates the harvesting of the two resources here and runs one of the dye-making works from the Coenobium's *Faith & Flame*
 
-### *Massifs des Maures*
+### Massifs des Maures
 
 Between Hyeres and Frejus lies this geological anomaly of granite, a stark contrast to the limestone hills of the rest of Provence. Blackened by dark forests, it takes name from the Saracen privateers who dominated the lands from the coast to the Alpine passes during the later eighth, ninth and tenth centuries.
 
@@ -4997,7 +4997,7 @@ The Coenobium's magically aided extraction process gives them a competitive adva
 
 Known as the *Stoechades* to Pliny and the ancient Greeks, this cluster of islands across from the ancient Greek settlement of Olbia is known for the lush pastures of lavender that cover its gentle slopes. A monastery claims the larger eastern island known as Ile du Levant, but pirates haunt the more secluded coves of Port-Cros and Porquerolles. The current scions of Fraxinetum still use the area as their base. The nearby Giens peninsula to the west is only accessible at extremely low tide and forms a fourth island for the majority of the year.
 
-### *The Pirate Isles*
+### The Pirate Isles
 
 Although no longer based in the original *fraxinet* in the Massif des Maures, the latest heirs of the Hermetic privateers have moved their base to the islands just off the southern coast. They continue to sponsor mundane raids on the coastal cities of Provence and disrupt the Catalan and Genoan ships plying their trade along the coast. Ahmad's ships are careful to target non-Hermetic shipping, relying on carefully placed mudnane spies to give the fleet of the Coenobium a wide berth.
 
@@ -5043,7 +5043,7 @@ an encircling forest of cork, oak and chestnuts was their base.
 
 Still dominated by the ruins of the old covenant fort, the razed site retains a Magic aura of 4. A palisade of densely packed ash trees created by the Herbam specialists surrounds the former covenant grounds. Remnants of the defensive rituals of the magi animate the larger ash trees to repel intruders that pass the outer perimeter, giving rise to stories of ghosts haunting the area and keeping the local peasants from looting the Hermetic ruins.
 
-### *Mount Ventoux*
+### Mount Ventoux
 
 The "Home of the Winds," this bald mountain marks the northern boundary of Provence and dominates the surrounding plains, and has long had an evil reputation as the source of the *Mistral*, the famous wind of Provence. Various chapels are built on its lower slopes, including a pair of chapels and a guard tower at Beumont-du-Ventoux and the large monastery of Notre-Dame-du-Groseau. Further north lies the Source du Groseau, a magical spring pouring from the cliff-face dedicated to the Celtic spring-deity Groselos and a potential source of Aquam vis.
 
@@ -5056,23 +5056,23 @@ preventing any vegetation from taking hold.
 
 The regio above the peak is home to numerous air spirits of varying Might ruled by a greater Daimon referred to as Ventoux. This elder spirit periodically looses his lesser kin to wreak havoc on the surrounding countryside, adding substance to the folktales of the hill as a source of malevolent spirits.
 
-### *Forcalquier*
+### Forcalquier
 
 Capital of the county of the same name stretching along the Durance River, the town's citadel dominates the landscape from the top of a steep conical hill. Countess Garsenda is the current regent. Her political marriage to Alfonso in 1209 granted her son Raymond-Berengar an extensive local inheritance to add to his lands held as the Catalan count of Provence.
 
 Garsenda is recognized as a trobairitz in her own right and is reputed to have magical powers beyond the mundane ability to inspire with song common to all troubadours. She is known as a famous patron of troubadours throughout the south. Her rumored lovers include at least one Jerbiton magus of the Coenobium. See Chapter 2: History and Culture for more details on troubadours and troubadour culture in Provence.
 
-### *Aix*
+### Aix
 
 The recently chosen capital of the County of Provence has its roots in the old Celtic oppidum or hill-fort of Entremont, but was replaced by the Roman camp of Aquae Sextiae, sited near the nearby thermal spring. The famous Roman general Marius defeated the descending horde of Teutones near here at Montagne Saint-Victoire in 102 BC — his troops slaying so many barbarians that the soil of the resulting Campi Putridi was enriched for years to come. Stories tell that 300 of the defeated chieftains were forced into the sinister Garagai gorge at the urging of Marius's Syrian sibyl, Martha. Their murdered spirits rise from the floor of the pit on the anniversary of the battle to reenact their defeat. The lip of the chasm has an Infernal aura of 2, although deeper
 
-### *The Ghosts of the Garagai Gorge*
+### The Ghosts of the Garagai Gorge
 
 The ghosts of the murdered chieftains are not actually Infernal spirits despite the prevailing aura, but rather specters aligned to the Magic realm — Teutonic counterparts to the ghostly soldiers of House Tremere (see *Houses of Hermes: True Lineages*, pages 126–127). Questioning the slain victims may provide an insight into the secrets of the lost tradition of Martha, the Syrian sibyl in the legends, who may have been from a lineage akin to the Canaanite Necromancers (see *Ancient Magic*, pages 30–39 for more details on Canaanite Necromancy).
 
 Even prior to the mass sacrifice, the chasm was said to be home to prophetic spirits that rose from the depths that may still be invoked by local *masques* or magi using necromantic magic. These older pagan spirits are best represented by Spirits of Deceit (see *Realms of Power: the Infernal*, page 38).
 
-### *Story Seed: The Magic Milestone*
+### Story Seed: The Magic Milestone
 
 Pope Urban II reconsecrated the local cathedral of St Apollinaris in 1095 after it was rebuilt in the Cluniac Romanesque style. Built into a column in its ambulatory is a milestone from the Via Agrippa roadway that carries an inscription in Latin attributing its sponsorship to Florentius Niger, a Roman senator believed to have been a priest of the Cult of Mercury. The inscription strongly radiates non-Hermetic magic. It may contain an Insight into the ancient Mercurian Road Magic of the original Mercurian priests or a clue to the whereabouts of a lost Mercurian temple.
 
@@ -5080,7 +5080,7 @@ Studying the milestone in its current position is difficult, but removing the bl
 
 in the gorge the strength rises and gives rise to yet unexplored Tartaran regiones, including a supposed entrance to Hell itself at its utmost bottom. Some local stories place the treasure cave of the Le Chevre d'Or here.
 
-### *Iles de Lérins*
+### Iles de Lérins
 
 Monks have dominated this area since the fifth century thanks to St Honoratus, who drove out the venomous snakes that infested the islands in antiquity. Although the serpents never returned, the Saracens did, repeatedly, and were responsible for the death of one of its abbots, St Porcarius, during the eighth century. The fortified Cistercian monastery of Lerins on the nearby Ile Saint-Honorat controls the walled town on the mainland, overlooked by a defensive tower on the Suquet hill.
 
@@ -5104,13 +5104,13 @@ The church of Notre Dame de Vie conceals the former peripteral Temple of Augustu
 the deepest lake of the area, fed by the river Leysse and believed to contain an Aquam aligned regio deep within its waters. Some Hermetic magi have reported sightings of the mysterious elemental *Men of the Lake* (*Realms of Power: Magic*, pages 93–94) in the area, but this has not been confirmed.
 
 
-# *Lower Burgundy*
+# Lower Burgundy
 
 Once part of the Kingdom of Lower Burgundy, or Cisjurania, declared by Boso of Provence at Arles in 879 and then part of the reunited Kingdom of Arelat in 933, this area fell under the imperial control of Conrad II in 1032. Lately it has become increasingly independent of its imperial overlords. Like its French counterpart in the Normandy Tribunal, the Duchy of Burgundy, the area is known for its cathedrals, monasteries, and pilgrimages rather than trade.
 
 The current Dauphine of Viennois and Countess Albon is Beatrice of Albon, grandmother of the eight year old Hugh IV of Burgundy, ruler of the Duchy of Burgundy in the Normandy Tribunal (see *The Lion and the Lily,* page 111–114). It is notably separate from the former Kingdom of Upper Burgundy formed by Rudolphe of Auxerre north of the Jura range in 888 and the Free County of Burgundy that lie within the Tribunal of the Greater Alps.
 
-### *Grand Chartreuse*
+### Grand Chartreuse
 
 This large monastic complex in the mountain cluster above the town of Grenoble consists of a main cloister of individual cells each with a high-walled garden connecting to a long corridor. Each so-called choir monk's living quarters consists of a two-story hermitage with a small walled courtyard isolated from its neighbor. Here the monks live a secluded life of communal retreat, devoting themselves to prayer.
 
@@ -5124,11 +5124,11 @@ The Great Motherhouse has a strong Divine aura of 7, strengthened by the simple 
 
 > This covenant is arguably the largest in the Tribunal, depending on the number of visiting magi present at any one time. The level of cooperation amongst the magi is somewhat unusual, but all members appreciate the benefit of being able to call upon the collective's extensive resources to defend their personal interests when required. The many Jerbiton magi here are focused less on the acquisition of magical power than on their various mundane pursuits. Despite being dominated by a single House philosophy, many of its members pursue somewhat varying visions of Beauty compared to their housemates elsewhere.
 
-### *Vienne*
+### Vienne
 
 Formerly the capital of the Gaulish Allobroges, then an important Roman colony, Vienne is the seat of the archbishop of northern Arelat. Although the legitimate count of the area on behalf of the emperor, the current prince-archbishop, Jean de Bernin, is constantly challenged by the local dauphins for control of the region. Armed conflict has not yet occurred but the situation threatens
 
-### *Aix Les Bains*
+### Aix Les Bains
 
 Once named Aquae Graticule (Latin: "waters of Gratian") to commemorate the emperor assassinated in Lyons in 383, the town was renowned as a bath during the Roman Empire. Travelers still frequent the hot thermal springs of the hilly country that forms the foothills of the Jura and the Alps.
 
@@ -5154,7 +5154,7 @@ The main site of Portus Cottiae and the three chapter locations may be suitable 
 
 **Ulcium**: Founded within the precincts of a temple to Mars Ultor, this site at Oulx controlled the Col du Mont Cenis pass used by Hannibal and then Charlemagne to invade the area that is now Lombardy. The old Mercurian cult temple to Mars can be accessed through a regio in the ruins above the small village. Although the most physically isolated, it is perhaps the easiest to resettle. Its position on the border with the Roman Tribunal may have unwelcome political consequences as older neighboring covenants feel their local vis sources threatened.
 
-### *History*
+### History
 
 This large multi-site covenant strung out along the lower Rhone and eastwards along the coast of the County of Provence consists of the heirs of several former covenants of Provence and eremitic magi who banded together in the late tenth century for mutual protection in response to the depredations of Fraxinetum (see earlier).
 
@@ -5166,7 +5166,7 @@ The victorious magi continued a policy of mutual cooperation and nepotism to the
 
 
 
-### *The Carthusian Order*
+### The Carthusian Order
 
 *Stat crux dum volvitur orbis ("The Cross is steady while the world is turning")* 
 
@@ -5188,7 +5188,7 @@ The former Romualdus has discovered that an awkward and shy younger novice, Brot
 
 the considerable mundane resources and influence of the Coenobium makes it a potentially powerful enemy if it regards its collective interests as being threatened.
 
-### *Setting & Description*
+### Setting & Description
 
 The heart of the urban covenant has been established at Avignon, although important holdings of the covenant are located in the city of Arles and at the entrance to the Camargue, throughout southern Provence and even as far north as Grenoble. In reality, the whole body of the Rhone supports the covenant magically and in a mercantile sense. Several Coenobium magi spend the majority of their time either on, alongside, or beneath the waters of the river at any time at least two magi are traveling up and down the river in large barges created by the resident boatwright. Smaller boats carry both visiting Redcaps from other Tribunals and the local unGifted Merceres on their errands. Many of the permanent enchantments available to the covenant's magi and Redcaps either target the whole river or remain effective as long as the individual is afloat on the Rhone or one of its major tributaries.
 
@@ -5333,13 +5333,13 @@ His resurrection appears to have awakened the latent magical powers of his Heroe
 
 He now believes, perhaps correctly, that the sword he carries is the mythical Sword of Ares — the weapon reputedly carried by Attila on his rampage into western Europe as "Scourge of God." To date he has not allowed investigation of his weapon to verify this claim.
 
-### *Covenfolk*
+### Covenfolk
 
 The Coenobium has no official roster of covenfolk — each consul maintains his or her own staff or agency of minions, grogs and allies depending on how best this allows them to pursue their interests (see *Houses of Hermes: Societates*, page 140–144 for more details on Agents). For many of the Jerbiton magi, their staff consists of their servants and unGifted family members, as well as any specialist companions they may support through mundane patronage including academics, artists, artisans, and more recently accomplished troubadours. Although not afforded the same level of respect as Hermetic magi, many of the local Provençal hedge wizards are considered allies of the Coenobium, providing a wider base of albeit lesser magical resources than would otherwise be expected from a covenant of non-magically inclined Jerbiton magi. This is mainly thanks to the political efforts of a dedicated lineage of Pralician magi, such as Lavandarius.
 
 The First Consul has the established right to ask another maga, consul or visitor*,*  to make use of their mundane and magical resources on behalf of the covenant, but the maga is under no obligation to agree. Most Coenobium magi appreciate the advantages of cooperating, citing the precedent of the covenant's founding in response to the common threat of Fraxinetum. The current First Consul, as Chief Redcap, can draw on an extensive network of Redcaps, retired Redcaps, and their families to pursue her agenda and policies, as well as trading on the goodwill she has garnered by promoting the Coenobium's interests and growth.
 
-### *Culture & Traditions*
+### Culture & Traditions
 
 *"Together we rule, divided we fall."* 
 
@@ -5363,9 +5363,9 @@ In return for their goodwill and support, the Coenobium expects visiting magi to
 The chosen patron is expected to familiarize the visitor with these expectations of courtesy and is responsible for the actions of the visitor during their stay. In addition, the patron is required to protect the guest from harm or inconvenience and present them with a symbolic gift on their departure. Although it carries more responsibility than tangible benefit, patrons are highly regarded by the other members of the Coenobium for their sacrifice. They may call upon other members of the covenant to support them in their duties or otherwise ask for a season of service to be waived in return for their time and effort.
 
 
-### *Chapter Nine*
+### Chapter Nine
 
-# *The Lost Covenant of Val-Negra*
+# The Lost Covenant of Val-Negra
 
 
 **Symbol:** A wagon wheel with spokes made of seven swords
@@ -5374,7 +5374,7 @@ One of the oldest covenants of the Order of Hermes, Val-Negra was once a paragon
 
 Some believe Val-Negra still exists in self-imposed isolation, deliberately hiding from the rest of the Order. Others say it's slowly fading into myth because of the mystical nature of Mount Perditu's regio, or has been absorbed by the Magic Realm. But a few say the potential remains for bold magi to seek out and revive Val-Negra.
 
-### *History*
+### History
 
 Complex and largely forgotten, the history of Val-Negra should only emerge from dedicated effort on the part of magi researching the many rumors, tales, few facts, and many obvious lies.
 
@@ -5405,7 +5405,7 @@ subdue this menace and reclose the door. But the ancient magical seal had been d
 
 This crisis caused a quiet panic. The Quaesitors made great effort to keep events secret from the Order at large, and decided Val-Negra must not rise again. The domus magna of House Flambeau moved to Castra Solis.
 
-### *Setting & Description*
+### Setting & Description
 
 The Black Vale (Val Negra) is located in a gorge of the Tessier River on the southern side of Mount Perditu in the Pyrenees. Cut deep into the living rock, the sun directly shines down into the ravine only during the peak hours of the day. The thick mists rising from the river below obscure even this small amount of light and inspired the name Val Negra, "the black vale."
 
@@ -5460,7 +5460,7 @@ This shrinks access to Val-Negra to a small circle of light ten paces in diamete
 
 From the circle of light, a successful regio perception reveals the entrance of a massive stone bridge across a vast chasm. There is nothing but desolate plateau on this side, but across the distance one may clearly see the crumbling yet still majestic fortress of Val-Negra built along the face of the mountain. The most impressive edifice, the great Black Tower, looms tall over the covenant. The outer walls still stand strong, and several other towers remain intact. Few interior buildings remain; most have crumbled into ruins. A vast garden of magical plants, grown wild, spreads over the area. Several scattered pits lead down into a network of caves and tunnels beneath the covenant. The Black Guard of the Aerie Clan stands constant watch, despite a lack of visitors in generations.
 
-### *Sites of Interest*
+### Sites of Interest
 
 A few sites within Val-Negra proper stand out as of particular interest.
 
@@ -5468,7 +5468,7 @@ A few sites within Val-Negra proper stand out as of particular interest.
 
 Crossing the chasm, one formally enters the precincts of Val-Negra. The path to the main gate crosses under a bridge between the Guardian's Tower on the right (overlooking the chasm) and the Black Tower on the left (built into and up out from the stone of the mountain). Neither can be accessed from here. Entering the Guardian's Tower requires crossing the bridge from the Black Tower, which can only be entered from in-
 
-### *Story Seed: Lighting the Way*
+### Story Seed: Lighting the Way
 
 In times past, Redcaps were equipped with enchanted lanterns which shone different colored lights illuminating a safe path through the regio all the way to Val-Negra. Obtaining one would make the journey much easier, but could form a story unto itself. Harco keeps such a lantern in their vault, and the Primus Garus owns one as well. But asking to borrow one will certainly raise questions.
 
@@ -5484,7 +5484,7 @@ Half the tower is embedded in the very mountain; only the top is unattached. The
 
 
 
-### *A Ruin Wreathed in Flowers*
+### A Ruin Wreathed in Flowers
 
 Fond of strange, magical plants, Astella of Jerbiton established a vast garden which yielded vis and herbs of virtue. Astella fled in the early days of the Schism War and the garden has since grown feral, covering much of the surface of Val-Negra. Bizarre creepers, strange exotic plants, and weird magical flowers have forced their tendrils deep within the rocks of the fortress walls; destroying the plants would cause many parts of the ruin to simply collapse into a stupendous pile of dust and falling rocks. Several rooms
 
@@ -5515,7 +5515,7 @@ This is the Iron Door.
 
 The ominous Iron Door has been a fixture of Val-Negra from the beginning. There is no record of who created it, nor how or why. Legend claims it has been here as long as the Aerie and their Shrine, and imprisons powerful demons or other malicious spirits. In truth, it probably originates sometime after Delendos created the Black Tower, and
 
-### *Shroud of Memories*
+### Shroud of Memories
 
 The truth of Val-Negra is simple. Only a few old and powerful magi still living have ever been there or know anything about it. Aware of the danger of the Iron Door, they discourage tourism and are reluctant to share information. Nevertheless, they may relish telling tales of Val-Negra's golden age, and player characters can thereby charm information from them via clever roleplaying. It is also a daunting task for young magi, and older magi quickly lose interest. But with some effort and wisely applied magic, the players could be the ones who reveal the mysteries of Val-Negra.
 
@@ -5525,7 +5525,7 @@ The Iron Door, magically protected by a powerful ward yet physically easy to ope
 
 The Adulteration is not in any sense actually Flambeau, who is long dead or passed into Final Twilight. Though it believes it is the Founder, it is naught but a horrific shadow of the great magus who once was. If released, it causes havoc and horror, devastating the countryside driven by pure angst and wrath. It is a crazed, psychopathic magical construct, built from the mistakes, the base desires, and the failings of the Founder.
 
-### *A Covenant of Ghosts*
+### A Covenant of Ghosts
 
 The catacombs house corpses of many ancient magi, and some of their ghosts walk these halls. They are keys to its legacy, but in death their memories are faded and distorted.
 
@@ -5604,17 +5604,17 @@ Beneath Val-Negra lies an extensive and complicated system of caves and catacomb
 Deep within the Catacombs lies the Shrine of the Aerie, their most important religious site. The cavern containing it is utterly awe inspiring; crystalline strata flash with color, the roar of a waterfall at one end sounds musical and imposing, and carvings created by generations of Aerie are of intense beauty. The atmosphere is very relaxing, inspiring visitors to sit down and forget their cares (storyguides may require an appropriate Personality Trait roll, but there is no magical effect).
 
 
-# *The Aerie Clan*
+# The Aerie Clan
 
 For generations, the Aerie have dwelled at Val-Negra. Their peaceful isolation was disrupted by outsiders seeking to plunder the magic of the mountain. Their tales speak of repelling foes ranging from Roman wizards to Carthaginian sorcerers. They were eventually subjugated by a cabal of Sahirs. The wizard Delendar liberated the Aerie and seized Val-Negra. Ever since, they've served him and his heirs with dedication. This included the Primi of House Flambeau until the relocation of the domus magna. Now they await the day when a (living) magus will return to claim that inheritance, a day that may never come.
 
 Aerie culture is centered around serving as covenfolk. They have forgotten any other way of life, and carry on as if Val-Negra were thriving and active. Aerie folk have names derived from classical Latin, and use that language for any writing if they are literate.
 
-### *Lifecycle of the Aerie*
+### Lifecycle of the Aerie
 
 The Aerie are mostly indistinguishable from each other; the only measurable differences being age, gender, and rank. The lifecycle of the Aerie serves as a guideline for character creation. Youths (appearing to be 21 or less) are Spring Characters, Adults (22 to 44) are Summer Characters, the Mature (45 to 66) are Autumn, and the Elders (67 to 99) are Winter Characters. The only exceptions are Romulus and Remus, who are always Winter characters no matter what physical age they are. The Aerie also believe in reincarnation, that each generation is reborn from the spirits of their elders. There is no apparent proof of these claims, and the naming rituals of infants held at the shrine have no detectable supernatural effect. The fact that there is no memory of past lives, only tales handed down through the ages, would seem to indicate that this is just superstition. But then there are Romulus and Remus, who seem to remember everything.
 
-### *The Adulteration of Flambeau (Malignancy, Autumn), cont'd*
+### The Adulteration of Flambeau (Malignancy, Autumn), cont'd
 
 command, +1 intricacy): Greater Power (15 levels); Improved Power (–2 Might cost)
 
@@ -5636,7 +5636,7 @@ command, +1 intricacy): Greater Power (15 levels); Improved Power (–2 Might co
 
 
 
-### *Character Guide: Aerie Guard*
+### Character Guide: Aerie Guard
 
 **Magic Might:** 10 (Mentem)
 

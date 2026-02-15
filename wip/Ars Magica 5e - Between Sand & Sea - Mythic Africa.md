@@ -1,6 +1,6 @@
 
 
-## *Credits*
+## Credits
 
 **AUTHORS:** Timothy Ferguson, Lachlan Hayes, Ben McFarland, Mark Shirley
 
@@ -40,7 +40,7 @@ Copyright 2014–2015 Trident, Inc. d/b/a Atlas Games. All rights reserved. Repr
 Digital Edition 1.0
 
 
-## *Contents*
+## Contents
 
 | Africa and Its People                           | 6 |
 |-------------------------------------------------|---|
@@ -605,9 +605,9 @@ Kairouan..........................................................56
 | Ba'al Ammon, Lord of Carthage 133           |  |
 |                                             |  |
 
-### *Chapter One*
+### Chapter One
 
-## *Africa and Its People*
+## Africa and Its People
 
 Welcome to Mythic Africa!
 
@@ -615,24 +615,24 @@ This continent, occupying a full quarter of our habitable zone, is mostly unexpl
 
 Herein are described the lands of Mythic Africa, as seen through the eyes of both Mythic Europeans and those who live here. This book can be used either for running stories where magi from Mythic Europe visit the mysterious continent across the sea, or as a setting for whole sagas with African characters. You will find here details of the geography, customs, and legends from the Atlantic coast to the Siwa Oasis the whole of Mythic Africa except for Egypt and Ethiopia. The lands of the Nile differ sufficiently from the rest of Africa to warrant separate treatment, and will be detailed in a future supplement for **Ars Magica Fifth Edition**.
 
-### *The Shape of the World*
+### The Shape of the World
 
 The habitable zone in which Mythic Europe lies is a quarter of the sphere of the earth, divided by the meridian and the equator. It consists of three continents, and Africa is the one bounded by the Mediterranean sea to the north and the River Nile to the east. The continent is named after the Roman province of Africa, a name preserved in the current Arab province of Ifriqiyeh. Its southern boundary is the Great Ocean that runs around the earth's equator, and the western limit is the Atlantic Sea. The existence of the Great Ocean has been deduced from indisputable logic rather than directly observed, since it lies at the center of a belt of intense heat and stunning dryness called the torrid zone.
 
 The torrid zone is where the sun is closest to the earth, and it scorches the land directly around the equator. The northern limit of the torrid zone is a matter of debate, but most agree that it extends no further north than the Tropic of Cancer, and probably ceases well to the south of this limit. It is almost universally accepted by the Christian West and Arab scholars alike that Africa is limited to the northern side of the equator, that the equatorial ocean is unpassable, and that the torrid zone is uninhabitable. There have been expeditions into the fringes of the torrid zone both by land and by sea, and those who have returned have brought back stories of fabulous lands beyond the desert. Stories that might arise from entering the torrid zone are explored later in this book.
 
-### *Themes*
+### Themes
 
 Mythic Africa has two dominant themes: wonder and hunger. To the natives, elements relating to either theme are so commonplace that they are rarely noticed or mentioned, but to outsiders these themes should stand out. Storyguides introducing Mythic Africa into a saga may wish incorporate elements from one or both of these themes, particularly during the characters' first experiences on the continent.
 
-### *A Note for Modern Readers*
+### A Note for Modern Readers
 
 Some might be surprised to see that this book refers to a land called Africa, but covers only a fraction of the continent that currently bears that name. However, in the thirteenth century this was Africa, not North Africa. It was generally accepted that Africa had a southern shore on the Great Ocean somewhere north of the equator, but this had never been witnessed because the proximity of the sun to the equator formed a torrid zone that is hostile to all life. The black-skinned inhabitants of the continent are mostly Ethiopians who live on the fringes of the torrid zone. The historical empires and kingdoms of sub-Saharan Africa are relegated to legend, since in Mythic Africa they exist within or beyond the torrid zone. However, the border of the torrid zone is ill-defined and need not be at a constant latitude throughout its extent. At the option of the storyguide there may be regions beyond the Great Desert that can support human life, or else these lands could lie within regiones.
 
 *Art & Academe* page 28 has a more complete discussion of the shape of the world in **Ars Magica Fifth Edition**, but pertinent material has been extracted here.
 
 
-### *A Land of Wonder*
+### A Land of Wonder
 
 Africa is an exotic continent to Mythic Europeans. It is filled with outlandish beasts, strange spirits, and savage monsters. Further, it is the point of origin of one of Christendom's biggest threats — the Moors of Al-Andalus in Iberia, an enemy that goes back half a millennium to the days of Charlemagne, originated in Mythic Africa. A European visiting the markets of Marrakesh will be overwhelmed by their strangeness; a welter of unusual smells, fabulous sights, and foreign sounds that he has never before encountered. Open plates are heaped high with fragrant spices, while at the next stall, impossibly-bright cloth flutters in the wind. He might see a group of blemmyae — headless humans with faces on their chests — trading nuggets of raw gold, the bulging panniers of their camels guarded by savage looking dog-headed men, each ten feet tall and covered in black fur.
 
@@ -640,7 +640,7 @@ Even at the edge of the desert, travelers experience heat like none they have ex
 
 In the deep desert one's sense of what is normal and what is strange is turned on its head. Distance and time seem to cease having true meaning; accidental travelers have reported visiting fabulous cities from ancient times, witnessing the congresses of demons, or speaking with angels.
 
-### *A Land of Hunger*
+### A Land of Hunger
 
 There is a spirit dwelling at the center of the Great Desert, a creature so mighty that it gives gods pause. It is the embodiment of the parching heat and the eroding winds, and seeks to consume everything, to suck all vitality out of the world, and leave nothing but dust behind. The Romans called it the *Fames Magna*, the Berbers know it as *Lazz*, the Arabs *Al-Ju'*: all these names mean the same thing — The Great Hunger.
 
@@ -652,11 +652,11 @@ While it might seem foolhardy, some humans serve the interests of the Great
 
 Hunger. The settuten (see Chapter 4: Realms) are a powerful group of non-Hermetic magicians who have powers of dissolution and dissension. Their legendary progenitor is the Yemma-t n Dunnit, the First Mother of the World, who mythology suggests might be foremost amongst the Great Hunger's servants.
 
-### *Sagas in Mythic Africa*
+### Sagas in Mythic Africa
 
 The wide expanse of Mythic Africa offers several reasons for magi to strike out to the frontier and for troupes to set a saga in this diverse and challenging environment. First, it presents a region of opportunity. Second, it offers a place of relative mundane and supernatural freedom. Third, Mythic Africa is a land of potential exploration, rife with lost ruins and magic places. From a metagame standpoint, Mythic Africa offers a great opportunity for players looking for an alternate setting without going too far afield. Its exotic nature allows players to enjoy the roles of outsiders, taking a "vacation" from the familiar trappings of Mythic Europe. This can provide easy opportunities to explore themes, characters, and situations that would be illsuited to the Christian lands across the Mediterranean before returning home to their covenants.
 
-### *Why Are There No Covenants in Mythic Africa?*
+### Why Are There No Covenants in Mythic Africa?
 
 Mythic Africa seems an intriguing possibility for young magi wishing to found a covenant. This leads them to wonder why the coast has not been settled before. There are several reasons why this may be the case, and one or more of these may be true in your saga.
 
@@ -684,7 +684,7 @@ Mythic Africa suffers infrequent waves of destruction, as uncompromising groups 
 
 This supplement doesn't detail any failed covenants in Mythic Africa, but troupes desiring them should include them.
 
-### *Virgin Territory*
+### Virgin Territory
 
 The opportunity to establish a covenant without political rivalry for resources will likely hold great appeal for magi aware of the kind of contention evident in a tribunal like the Rhine, or tired of the situation in a resource-poor tribunal like Normandy. In almost every situation, the competition for vis sites or mundane resources in Mythic Africa only arises from Moorish or Berber settlements and local hedge wizards or sahir. Certainly, there are occasional interactions with rare Trianomae or Seekers, but these are the exception rather than the rule.
 
@@ -702,7 +702,7 @@ Even more so than the Order of Hermes, the Latin Church has nearly no presence i
 
 Mythic Africa's physical isolation and political ambiguity also offer magi a second chance to establish a covenant despite declarations of Wizard's War or Wizard's March. In this instance, characters exiled from the Order of Hermes might hide from the wrath of their former sodales by taking advantage of the difficult terrain, hostile territory, and numerous supernatural creatures. While such an existence has its risks, the relative proximity to the rest of Europe may mean the magi can build a new life while still pursuing attempts to clear their name or maintaining some connection to the relatives and loved ones left behind. These same links to the past, however, may serve to lead Hoplites and opportunists to destroy anything built in this inhospitable paradise.
 
-### *Story Seeds*
+### Story Seeds
 
 A number of initial story seeds might draw magi to Mythic Africa or engage them once they establish a covenant.
 
@@ -727,11 +727,11 @@ The magi may arrive in the Maghreb while chasing the target of a Wizard's March 
 The covenant's activities threaten to create a nascent Order of Atlas, one bent on opposing the Order of Hermes. Trianoma magi come to dissuade the covenant with diplomatic entreaty. Hoplites actively but indirectly oppose them, attempting to
 
 
-### *The Spirit of Exploration*
+### The Spirit of Exploration
 
 Finally, Mythic Africa is a land of exploration, presenting chances to claim both magical and mundane resources. The lost secrets of Antiquity lie relatively untouched in the wilderness and buried beneath the sands. Many places require but modest efforts to recover the artifacts of the Egyptians, Phoenician, Greek, Roman, Berber tribes, and ancient Garmantians. But unquiet spirits, magical creatures and meddling faeries mean pulling these fragments from the dust may prove to be the easy part. While the ruins and hidden places of Mythic Africa preserve fragments of the past, the ports and souks offer ample opportunity to establish trade or communications as the Genoese maintain a bustling and jealously guarded exchange with ports on both sides of the Pillars of Hercules.
 
-### *Logistical Difficulties*
+### Logistical Difficulties
 
 Any covenant establishing itself in Mythic Europe may face a variety of problems related to its remoteness from the heartlands of the Order. Magi are required to be members of one (and only one) tribunal. As it is so far outside traditional tribunal boundaries, a tribunal might refuse to recognize the magi of an African covenant as members. Houses Mercere and Guernicus might oppose such a covenant, since their members would be required to travel periodically a great distance outside the bounds of the tribunal.
 
@@ -739,7 +739,7 @@ An African covenant is equally likely to find itself in the middle of a power st
 
 If accepted as part of a tribunal (or perhaps as a requirement for that ac-
 
-### *Story Seeds (Cont'd)*
+### Story Seeds (Cont'd)
 
 destroy their resources. House Flambeau remains divided, as some see this as an action opening a welcome second front to the Reconquista, while others want to keep the enemy disorganized. Will Castra Solis support or hinder the covenant? Throughout it all, the native sorcerers and hedge wizards gather their forces for a confrontation which will reshape the Maghreb.
 
@@ -762,7 +762,7 @@ The magi are members of the Seekers, looking for the lost magics of Carthage and
 
 ceptance), the characters may have to make provisions for redcaps to visit them. This might require the characters to create an enchantment which allows the swift passage of redcaps to Mythic Africa, or perhaps even the funding of a Mercere's Portal.
 
-### *Hermetic Presence*
+### Hermetic Presence
 
 In some sagas, troupes may prefer a light or nearly non-existent Hermetic presence in coastal Mythic Africa. This allows the troupe to focus on stories of exploration and colonization, rather than founding supply bases and maintaining contact with the order. This is particularly useful if the troupe's stories are set deep in the desert. In this supplement, points of Hermetic settlement have been left undefined. Troupes should apply any option which suits their stories to any of the cities in Mythic Africa, but future sourcebooks assume Mythic Africa has no Hermetic presence.
 
@@ -782,28 +782,28 @@ House Criamon has had Sufi members for centuries. They form a small group consid
 
 A few decades ago, the Primus of House Tremere asked House Mercere to scour Mythic Africa for Gifted children. This has created a generational cadre of magi who look Mythic African, and they have been dispatched to Mythic Africa to assess the region for threats or opportunities. This option suits troupes wanting to meddle with Mythic Africa society, surreptitiously control regions, and ferret out sources of power and opposition in the Maghreb.
 
-### *The Land*
+### The Land
 
 Medieval Arabic sources refer to Africa (excluding Egypt) as *Bilad al-Barbar* ("the land of the Berbers") or else *al-Maghrib* ("The West"). Mythic Europeans still use Roman names on their maps, with an ill-defined Gaetula for the center of the continent, and Ethiopia beyond that.
 
 Mythic Africa can be divided into four broad geographic areas. For clarity we have labeled these regions using the names used on medieval maps in order keep them distinct from the people or confederations that currently occupy the area. Three regions hug the coast of the Atlantic and Mediterranean Seas (from west to east): Mauritania, Numidia, and Tripolitania–Cyrenaica. The Arabs call these regions the Farthest, Middle, and Nearest West respectively. They are the most settled parts of Africa, where temperate winds from the sea allow Mediterranean forests, woodlands and shrubs to flourish. The fourth geographic area is the Great Desert, an exceptionally hot and arid region in the interior of the African continent, extending into the torrid zone. This section provides a brief geographic overview, which will be expanded in the following chapters.
 
-### *Mauritania*
+### Mauritania
 
 Mauritania, or *Al-Maghrib al Aqsa* ("The Farthest West") to the Arabs, occupies the Atlantic coast of Africa. The region is mostly a coastal desert; what plants grow here gain most of their moisture from the frequent fogs that roll in from the cooler sea. The cooling influence of the sea allow human habitation to extend south of the Tropic of Cancer. The Adrar highlands separate Mauritania from the blasting heat of the desert further west.
 
-### *Numidia*
+### Numidia
 
 The region of Numidia boasts the highest population density of all of Africa, excepting Egypt. Called *Al-Maghrib al Awsat* ("The Middle West") in Arabic, this region has a coastal Mediterranean climate thanks to the sheltering influence of the Atlas Mountains. Rather than a single range, the Atlas Mountains are actually a series of ranges; between the Tell Atlas on the coast and the barrier ranges of the Anti-Atlas, High Atlas, and Saharan Atlas further south are crop lands and pasture.
 
 The key populated areas are: Er Rif, a mountainous area between the Middle Atlas and the Straits of Gibraltar; the Tell, a high altitude plateau south of the Tell Atlas; and Ifriqiyeh in the Aures Mountains.
 
 
-### *Cyrenaica and Tripolitania*
+### Cyrenaica and Tripolitania
 
 Cyrenaica is the region immediately east of Egypt (thus the Arabic name of *al-Maghrib al Adna*, "The Nearest West"), whereas Tripolitania is the name given to the coastal region around the Gulf of Sidra to the north of the Libyan Desert. This is a poorly populated area, occupied mostly by the nomadic Banu Sulaym.
 
-### *The Great Desert*
+### The Great Desert
 
 The Great Desert (in Arabic *As-Sahra al-Kubra*, whence "Sahara") is a vast area of largely uninhabited land that occupies the majority of the known land mass of Africa. Labeled "Gaetula" on medieval maps, most westerners are under the mistaken impression that it is just a single wasteland of sand. This is only really true of the ergs, or sand seas, broad flat areas of windswept sand that forms into dunes. There are several ergs of vast size in the Great Desert, notably the Grand Erg south of the Atlas Mountains; the Great Sand Sea, the Ubari and Murzuq Deserts of Libya; and the Erg Chech and El Djouf east of Mauritania. Ergs generally have no human inhabitants. Outside of the ergs, most of the Great Desert consists of stony desert called *regs*, and vast rock plateaus called *hamada*. Salt flats dot areas in the shelter of mountains.
 
@@ -827,11 +827,11 @@ Tanezrouft (Berber: "Land of Thirst") is the most desolate part of the Great Des
 
 Tanezrouft is a region of dark sandstone hills riddled with steep canyon walls rising 250 to 500 paces in between dune fields. The blasting wind has scoured out geometric patterns from the sandstone, making hollows in the shape of perfect concentric ellipses or circles.
 
-### *What if I Don't Want Characters to Cross the Torrid Zone?*
+### What if I Don't Want Characters to Cross the Torrid Zone?
 
 Some storyguides might want the torrid zone to be an impermeable barrier that keeps the characters on the right side of the equator, and this can be an edict enforced by the power of the Divine. This is something that should be discussed with the players so that they know the bounds of the world in the saga; however, it needn't stifle the curiosity of the characters. As characters enter the torrid zone, a magus might expect to be able to ameliorate or negate the effects of heatstroke and sunburn, but could find himself unable to do so in the torrid zone. If the damaging heat and light derive from the proximity of the sun, they are products of the superlunar world, and therefore beyond the reach of Hermetic magic. Insights into research concerning the Limit of the Lunar Sphere could be productive in the torrid zone. As the characters penetrate deeper, the heat becomes more and more intense, and eventually overcomes even the strongest of defenses. Magic used to overcome the effects of the Divine edict fails, perhaps spectacularly. Furthermore, the torrid zone could be patrolled by angels who turn away any who attempt to cross.
 
-### *The Torrid Zone and Beyond*
+### The Torrid Zone and Beyond
 
 The torrid zone has an ill-defined border within the Great Desert. Some scholars talk of the torrid zone as a "ring of fire," as if it were a precise geographic border; if this is the case then it occurs further south than most travelers can reach. Throughout most of its length the torrid zone exists as an intensification of the heat and aridity of the desert. Deprivation rolls for thirst (see Chapter 3, The Great Desert, "Hazards of the Desert") increase to a two-hourly interval, and the sunlight on bare skin inflicts +5 non-combat damage over the same period. There are no known
 
@@ -851,15 +851,15 @@ According to medieval maps, Aethiopia (or Ethiopia) lies to the south of the Gre
 
 Logic dictates that there is another habitable zone on the other side of the equator, a twin to our own on this side of the meridian, but that it is forever unreachable due to the Great Ocean. Some have theorized that this might be the physical location of the Magic Realm.
 
-### *History*
+### History
 
 Mythic Africa's history stretches back far into antiquity, when it was the home of giants and non-human races. In historical records, Mythic Africa rose to prominence in the days of Carthage.
 
-### *Antaios and Tinjis*
+### Antaios and Tinjis
 
 In the time of legends, the giant Antaios (Antaeus to the Romans, Änti to the Berbers) used to dwell within Libya's desert. The giant was gradually building a temple to his father Poseidon out of the skulls of those he defeated in a wrestling match. He drew his might from his mother, the earth itself, and had her limitless strength. Herakles happened upon Antaios while on his way to his eleventh labor, the Apples of the Hesperides. He held the giant aloft during their match, severing him from the earth and leaving him as weak as a mortal. Herakles then crushed the giant's ribcage. Herakles took Antaios's wife Tinjis to bed, and fathered on her Sufax, who is the mythic ancestor of the Berber people. Sufax built the city of Tangier, which he named after his mother, and from here took over Antaios's role as guardian of the country of the Berbers.
 
-### *Carthage and the Romans*
+### Carthage and the Romans
 
 The Phoenician princess Dido founded the city of Carthage in 814 BC. At the height of the city's power it controlled a mighty trading empire that stretched from the Gulf of Sidra to the Atlantic Sea, and had colonies in Spain, Sicily, Sardinia, and Corsica. Meanwhile, Greek settlers controlled the eastern Maghreb, along the coast of Cyrenaica and Tripolitania, and built on the strength of Egypt following its conquest by Alexander the Great. Several Berber kingdoms emerged at this time and developed trading partnerships with Carthage. The greatest of these were
 
@@ -876,11 +876,11 @@ The Roman provinces in northern Africa were very prosperous and its inhabitants 
 
 The Berber tribes of the interior continued with their old way of life untouched by Roman influence beyond providing tribute and auxiliary troops for the great Roman army.
 
-### *Vandals and Byzantines*
+### Vandals and Byzantines
 
 In 422 the Vandals raided Mauritania Tingitana. Sensing trouble, Rome's *Comes Africae* (military governor of Africa) invited the Vandals under Gaiseric into northern Africa with the intent to confine them there, but they rejected any attempt to control them. These provinces were lost
 
-### *The Kahina*
+### The Kahina
 
 The Kahina (Arabic: al-Kahinat, "the seeress") was a Berber chief who fought against the Arabs in the seventh century. Her given name was Dihya: she acquired her epithet from her opponents who ascribed her military success to her ability to foresee the future. After taking over the resistance in the 680s she led the Berbers in several very successful campaigns, driving out the Arabs from Ifriqiyeh and keeping them besieged in Cyrenaica for over five years while she laid the land to waste. This lost her the support of the oasis dwellers who relied on the land she despoiled, and who felt this demonstrated her bias toward the mountain and desert tribes. With her support wavering, the final nail in her coffin was her betrayal by her adopted son to the Arab leaders. She died in battle, sword in hand, at the age of 127 years old.
 
@@ -892,7 +892,7 @@ Khalid ibn Yazid, the treacherous adoptive son of the Kahina stole Gurzil's idol
 
 to the empire until the province of Africa was reconquered by the Byzantine general Belisarius in 522. The western territory was lost to the Mauri, and never brought under Byzantine control. The Maghreb was too vast to be controlled from Constantinople; the empire was already weak thanks to wars with Persia. The Byzantines concentrated their efforts in Mythic Africa on the coastal towns, and used the rivalries between the local chiefs to prevent a general insurrection. As in the time of the Romans, the interior remained untouched by Byzantine influence; the dominant tribes of the Luwata (in the east), Sanhaja (in the west and center), and Zenata (in the south and south-west) controlled most of Mythic Africa.
 
-### *The Arab Invasion and the Berber Uprising*
+### The Arab Invasion and the Berber Uprising
 
 When the first incursions from Umayyad Egypt extended into Cyrenaica in 642, the Byzantines bribed them to leave. They returned in 670 led by 'Uqbah ibn Nafi, who founded the city of al-Qayrawan as his base of operations. From Ifriqiyeh (the Roman Province of Africa), 'Uqbah extended Arab rule over the whole of the Maghreb. In 683 he was slain by a Berber tribal chief named Kusayla, who vigorously opposed the Arab invasion.
 
@@ -903,7 +903,7 @@ magic the spirits managed to drive the wazirs back east.
 
 In Africa, the governors appointed by the Umayyad caliphs were quick to enforce Arab dominance over the Berbers through discrimination and slavery. Discontent was rife, and there was widespread revolt in 739. This uprising was united under Kharijite Islam; this sect had been fighting Umayyad dominance in Egypt, and its doctrines promoted egalitarianism that appealed to the independent Berbers. The timing of the revolt was fortunate; combined with the death of the caliph and a revolt in Egypt, the Umayyad dynasty collapsed under the pressure.
 
-### *The Dissident Dynasties*
+### The Dissident Dynasties
 
 When the Abbasids — who succeeded the Umayyads — came to the Maghreb, they discovered three centers of political authority had appeared in the vacuum left, and all rejected the political authority of the caliph. Two were Kharijite sects, the Rustamids in Tahart and the Banu Midrar in Sijilmasa. The third dynasty, the Idrisids of Fes, were Sunni but had fought on the side of the Shi'ites against the Abbasids.
 
@@ -923,12 +923,12 @@ Despite Abassid attempts to destabilize the Fatimid regime, by 969 the Fatimids 
 
 Fatimid authority in Egypt was threatened by an anarchic community of Arab bedouin clans that had grown through migration from other nomad tribes and from peasants seeking to escape debt and servitude. Before he was really aware of it, the caliph was facing over a quarter of a million individuals and at least 50,000 young warriors at the disposal of the clan chiefs. At the advice of his ministers, Caliph al-Mustansir requested the help of these clans in quelling the rebellion of the Zirid emirs, offering them governor positions in the conquered territory for their efforts. In 1051 the great nomad horde migrated west under the name of the Bani Hilal ("the children of the crescent moon"). Some occupied Cyrenaica, but the majority continued west, overwhelming whatever resistance the Zirids could offer. They were not interested in investing the towns and cities; instead they took possession of the grazing grounds at the edge of the desert. The Zirids attempted to treat with them, but the great migration had no leader, and the Zirids had nothing that they wanted. Some individual chiefs reluctantly accepted the suzerainty and judgments of the Zirid rulers, but the Bani Hilal were impossible to tax, and the town-based culture of the interior was destroyed in one fatal stroke of the Fatimid caliph. With his authority disintegrating, the Zirid emir retreated from Qayrawan to Mahdia on the coast, leaving the interior to the Bani Hilal. Northern Mythic Africa reverted to a patchwork of local Berber lordships, interspersed with the militant presence of nomadic Arab clan chiefs. The society of the steppe and plateaus of the Atlas mountains became mostly Arabic-speaking pastoralism rather than Tamazight-speaking agriculture.
 
-### *The Almoravids*
+### The Almoravids
 
 The *al-Murabitun* movement, also known as the Almoravid Dynasty, arose from a zealot of the Sanhaja Berber called Abdallah ibn Yasin. He was from the Gazzula tribe, but his brand of orthodox Islam went down poorly amongst his own people. He was invited to preach to the Lamtuna tribe by their chieftain Yahya
 
 
-### *The Marinids*
+### The Marinids
 
 The Ayt Mrin (Arabic *Banu Marin*) is a dynasty of Zenata Berbers. They have battled with the ruling Almohads since the very beginning, but in 1217 they won a decisive victory in the Rif, despite losing their leader Abd al-Haqq. His son Uthman ibn Abd has secured control of Er-Rif, and is looking to extend his influence over more of Africa. The Almohads have counterattacked in vain, and have even fortified their Iberian cities against a possible Marinid attack.
 
@@ -937,18 +937,18 @@ ibn Umar, who desired to refound the Sanhaja union, and saw ibn Yasin's mission 
 The successes of ibn Tashfin were not to persist long past his death. His son and successor Ali ibn Yusuf had not experienced the harsh life of his desertdwelling predecessors, but had grown up in the luxury of Marrakesh. His father's empire was eroded by the Christian kings of Iberia and the Almohads in Africa (see later). Just four years after Ali ibn Yusuf's death in 1143, Marrakesh was taken by the Almohads and the dynasty was at an end.
 
 
-### *The Almohad Caliphate*
+### The Almohad Caliphate
 
 Like the Almoravids, the Almohads (*al-Muwahhidun*, "the monotheists") began as a religious movement. Ibn Turmart of the Masmuda confederation had studied in Grenada and Baghdad, where he developed his doctrine of the strict unity of God, denying the independent existence of separate attributes of the Deity. He returned to the Maghreb in 1117, and agitated against the Almoravids, gathering a following and erected a fortress at Tinmel in the High Atlas. For eight years he harried the road linking Marrakesh to Sijilmasa whilst making alliances with more tribes and growing in strength. Their first proper battle was a failed siege of Marrakesh in 1130 which ended in disaster for the Almohads. Ibn Turmart died a few months later, but his death seemed to merely encourage his followers. Abd al-Mu'min took over the movement and was successful in driving out the Almoravids in a series of victories, and by 1147 had extended control of Africa as far as Egypt. Al-Andalus was gradually conquered from the Almoravids between 1147 and 1173.
 
 The current Almohad caliph is Yusuf al-Mustansir, who was just ten years old when his father died in 1213, and the caliphate is still largely under the control of the regency council put in place then.
 
-### *The People of Mythic Africa*
+### The People of Mythic Africa
 
 Africa does not in general consist of feudal states with clear national boundaries. Rather, each village is a member of a tribe, and the tribal leaders form confederations that usually generate or support a ruling dynasty. Currently, most of northern Mythic Africa is part of the Almohad confederation, whose rulers are Berbers.
 
 
-### *Berbers*
+### Berbers
 
 The Berbers (or Imazighen, singular Amazigh) are the aboriginal people of Africa, and a Berber dynasty currently rules most of the Maghrib. They are divided into three tribal confederations: Zenata, Masmuda, and Sanhaja.
 
@@ -963,11 +963,11 @@ The Sanhaja now occupies two geographically distinct regions. The eastern Sanhaj
 
 The Zenata are distributed throughout the Tell and northern Numidia. There is great rivalry between the Zenata (who were allied with the Caliphate of Cordoba) and the Sanhaja, who were allies of the Fatimids. The Marinids of Er-Rif are a Zenata tribe, as are the Banu Zayan (or Abd al-Wadids) who are gathering power in Tlemcen.
 
-### *Arabs*
+### Arabs
 
 The Arabs arrived in Mythic Africa in two major waves: the Umayyids in the eighth century and the Banu Hilal in the eleventh. The invasion by the Umayyid Caliphate in the eighth century resulted in the building of cities and the subjugation of native Berbers, leading to a city-dwelling Arab upper class
 
-### *African Languages*
+### African Languages
 
 The following Living Languages, each with distinct regional dialects, are spoken in the Maghreb and northwestern Africa. Most characters should take the appropriate dialect as a specialty but Educated or well-travelled speakers will have tried hard to rid themselves of their dialect and may have standard specialties (see ArM5, page 66).
 
@@ -1002,7 +1002,7 @@ The Maqil accompanied the Banu Hilal on their invasion of the Maghreb. They orig
 
 The Banu Sulaym originated in Nejd and Hejaz and followed the Banu Hilal and Maqil westwards. The Banu Hebib tribe of the Banu Sulaym settled in Cyrenaica, whereas the 'Awf, Debbab, and Zegb tribes settled west of them in Tripolitania and the fringes of Libyan Desert. After a century of feuding and civil war, the Debbab eventually came out as the dominant tribe.
 
-### *Others*
+### Others
 
 The Ayyubid Sultanate founded by Saladin currently controls Egypt, Cyrenaica and Tripolitania, as well as much of the Arabian Peninsula. They rule the region from Tripoli. The rulers set in place over Cyrenaican cities are Kurdish in origin, and supported by Bedouin and Turkish forces.
 
@@ -1010,7 +1010,7 @@ The Ayyubid Sultanate founded by Saladin currently controls Egypt, Cyrenaica and
 
 The Banu Khalida occupy twelve oases in the very south of Mauritania. They live further into the torrid zone than any other human race. They have seemingly limitless quantities of gold, and are blessed with well-irrigated soil and a temperate microclimate for their cities despite the blasting heat of their surrounds.
 
-### *African Languages (Cont'd)*
+### African Languages (Cont'd)
 
 inscriptions carved on ruins can be found throughout the wastes. Carthaginian is the classical Punic dialect spoken by the western Phoenician colonies that later formed the empire of Carthage but is now found only on inscription or uttered by the ghosts of the destroyed empire. Libyan refers to the pre-Punic languages of the Numidians and other tribes encountered by the first Carthaginian settlers and their Roman conquerors.
 
@@ -1061,7 +1061,7 @@ The Tuareg are a nomadic people sharing a common origin with the Berbers. They r
 
 Africa is home to a fair number of different kinds of Magic Humans, such as the headless Blemmyae, the dogfaced Cynocephali, and the childsized Tripithami. In general these do not mix with normal humans except in large cities, but encounters with them are not uncommon.
 
-### *Muslim Names*
+### Muslim Names
 
 Traditional Muslim names consist of some or all of a number of elements:
 
@@ -1070,7 +1070,7 @@ Traditional Muslim names consist of some or all of a number of elements:
 - 3. *Kunya*: This is the term "abu" (father of) or "umm" (mother of), prefixed to either the name of a child or an attribute, acquired either upon becoming a parent or as an epithet. This may appear before the *ism* or after the *nasab*.
 - 4. *Laqab*: An honorific or descriptive title, or occasionally a nickname, often held by nobility, religious notables or other important figures. Many *laqabs* consist of a compound term ending in "al-Din" (of the faith) or "al-Dawla" (of the state), while another common form is to start with "al-Malik" (the king), followed by
 
-#### *Between Sand & Sea*
+#### Between Sand & Sea
 
 a descriptive term. Individuals may have more than one *laqab*.
 
@@ -1092,7 +1092,7 @@ This breaks down into:
 
 A number of sample *isms*, *laqabs* and *nisbas* are given below. Other Muslim names may be found in many history books about the Middle East.
 
-#### **SAMPLE ARABIC** *ISMS*
+#### **SAMPLE ARABIC** ISMS
 
 - **Men's isms:** 'Abd Allah, 'Abd al-Rahman, Ahmad, 'Ali, Asad, Ayyub, Bakr, Badar, Dawud, Dirgham, Fadl, Ghassan, Ghazi, Harith, Harun, al-Hasan, al-Husayn, Ibrahim, 'Isa, Ishaq, Isma'il, Ja'far, Jamil, Kathir, Khalid, Khalil, Labid, Mahmud, Muhammad, Nu'man, Qasim, Rashid, Ridwan, Salih, Salim, Shibl, Sulayman, Tahir, Tamim, Tariq, Thabit, 'Umar, Usama, 'Uthman, Wahhab, Yahya, Yusuf, Zayd, Zibyan, Zubayr.
 - **Women's isms:** 'A'isha, Amina, Anisa, Bilqis, Busra, Dhakira, Duba'a, Dujaja, Durra, Fadila, Fatima, Ghazala, Ghaytha, Habiba, Hajir, Hakima, Hind, Jamila, Jumana, Kabira, Kabsha, Khadija, Khalila, Layla, Lubaba, Maryam, Maymuna, Nasiba, Nawal, Nawar, Qamra', Rabi'a, Rahima, Sa'da, Safiyya, Salma, al-Shafa', Shayma',
@@ -1106,7 +1106,7 @@ Given their predominance in government, Muslim *laqabs* are most commonly used b
 - **Men's laqabs:** 'Imad al-Din (Support of the Faith), 'Izz al-Din (Power of the Faith), Nur al-Din (Light of the Faith), Salah al-Din (Righteousness of the Faith), Sharaf al-Din (Honor of the Faith), Baha' al-Dawla (Beauty of the State), Majd al-Dawla (Glory of the State), Nasir al-Dawla (Aid of the State), Sayf al-Dawla (Sword of the State), Shams al-Dawla (Sun of the State), Nizam al-Mulk (Order of the Kingdom), Fakhr al-Mulk (Pride of the Kingdom), Taj al-Muluk (Crown of Kings), al-Malik al-'Adil (the Just King), al-Malik al-Afdal (the Most Excellent King), al-Malik al-Kamil (the Perfect King), al-Malik al-Nasir (the King who Aids), al-Malik al-Salih (the Righteous King).
 - **Women's laqabs:** Walidat Khalil (Mother of Khalil — used by the Mamluk *sultana* Shajar al-Durr (r. 1250), indicating her being mother to the son of al-Salih II Ayyub), Radiyyat al-Din (Approval of the Faith).
 
-#### **SAMPLE MUSLIM** *NISBAS*
+#### **SAMPLE MUSLIM** NISBAS
 
 - **Men's nisbas:** al-Kufi (of Kufa), al-Makki (of Mecca), al-Isfahani (of Isfahan), al-Farisi (of Persia), al-Khwarizmi (of Khwarizm), al-Kalbi (of the tribe of Kalb), al-Khazraji (of the tribe of Khazraj), al-Qaysi (of the tribe of Qays), al-Shaybani (of the tribe of Shayban), al-Ayyubi (of the family of Ayyub), al-Kutubi (the bookseller), al-Qalanisi (the hat-maker), al-Suyufi (the swordmaker), al-Shafi'i (follower of the Shafi'i school of law), al-Mutanabbi (claiming to be a prophet).
 - **Women's nisbas** appear in the
@@ -1115,7 +1115,7 @@ Given their predominance in government, Muslim *laqabs* are most commonly used b
 
 masculine or feminine forms in historical sources, depending on whether the author regards them as being part of the woman's name or the patrilineal genealogy. Generally if the *kunya* is placed after the *nasabs*, the *nisbas* will be in the feminine. The feminine forms of the above are: al-Kufiyya, al-Makkiyya, al-Isfahaniyya, al-Farisiyya, al-Khwarizmiyya, al-Kalbiyya, al-Khazrajiyya, al-Qaysiyya, al-Shaybaniyya, al-Ayyubiyya, al-Kutubiyya, al-Qalanisiyya, al-Suyufiyya, al-Shafi'iyya, al-Mutanabbiyya.
 
-### *Berber Names*
+### Berber Names
 
 Muslim name structures are generally used by most Berbers except the Tuareg, with only a few differences. Traditional Berber *isms* tend replace the Arabic components but *Laqabs* and *nisbas* tend to follow the Muslim model, although often using their Tamazight equivalents.
 
@@ -1129,17 +1129,17 @@ The majority of Tuareg have Tamazight names like other Berbers, although some me
 
 • **Women's isms:** Bahac, Barshako, Damya, Dassin, Dihya, Guraya, Hennu, Herru, Ijja, Ijju, Illi, Ittû, Izza, Kella, Kwella, Lalla, Lunja, Mamma, Mammas, Markunda, Meghighda, Menna, Siman, Siniman,Tadêfi, Taderfit, Tadla, Tafalkayt, Tafsut, Tafukt, Tagafayt, Taghbalut, Tagwerramt, Tagwilalt, Tagwillult, Tagwizult, Thiyya, Tajeddigt, Takama, Takensust, Taksimt, Tala, Tamalut, Tamanart, Tamaynut, Tamayyurt, Tamazight,Tamazzalt, Tamenzut, Tameqrant, Tamesmûtt, Tamezyant, Tamimt, Tamment, Tamseggint, Tanamart, Tanazârt, Tanebdatt, Tanefzawit, Tanirt, Tanemghurt, Tasa, Tasafut, Tasekkurt, Tatbirt, Taweckint, Tawenza, Tawzalt, Taylalt, Tayri, Tazêllayt, Tazenkwêt, Tazerwalt, Tazikit, Tazrurt, Tazrzît, Tecwwa, Tedus, Tidar, Tidir, Tifawt, Tilelli, Tingh, Tinhinan, Tinifsan, Tinitran, Tinsin, Tintadêfi, Tintafukt, Tintfsut, Tintifawin, Tintlelli, Tintziri, Tinwurgh, Titrit,Tiwul, Tizemt,
 
-### *This Is Not Real Islam*
+### This Is Not Real Islam
 
 Real-world Islam is too complex to be described in a role-playing sourcebook. This book instead contains simple guidelines to allow non-Muslims to play characters who are superficially suitable for telling stories similar to traditional folktales. No offense is intended by this. Players are encouraged to learn more about Islam, to enrich their game experience.
 
 Tiziri, Tlafulki, Tlatig, Tlaten, Tlayt, Tlaytmas, Tsul, Tuda, Tudatt, Tudert, Tufayyur, Tufitran, Tufitri, Tuftafukt, Tuftent, Tuftifawt, Tugertent, Tumert, Tunaruz, Tzeddig, Tzîl, Ultafa, Ultasila.
 
-### *Maghrebi Arabs*
+### Maghrebi Arabs
 
 Troupes who select a Mythic African setting for their sagas may opt for a mixture of character origins. This section helps players to maintain their role when playing African Arabs, who are the most numerous people in the northern part of the continent.
 
-### *Pick A Religion*
+### Pick A Religion
 
 The vast majority of characters who live in the Maghreb are Muslims. Muslim characters must publicly demonstrate certain virtues, or they gain negative Reputations. That being said, the True Faith Virtue is no more common in Mythic Africa than in Mythic Europe. Most Muslims fall short of the saintly ideal. As a rough guide, the further west an Arabic character comes from, the more religiously conservative he is likely to be, provided he is not from Marrakesh. Characters who are poor or nomadic are less likely to make excuses for luxuries than their urban co-religionists.
 
@@ -1203,7 +1203,7 @@ Many professions in this society are forbidden non-Muslims, forcing Dhimmis to f
 
 Another significant shadow industry is the supply and sale of alcohol. Muslims are forbidden to make, transport, or sell alcohol, but many drink it regularly. All Christians, in comparison, are meant to know a priest, and all priests require wine to perform the Mass. This means every Christian, in theory, knows a man who knows a man who makes wine. Many Muslims have a Christian contact who is their supplier. The main alcohol in the Maghreb is date wine, but this trade is also dominated by Christians.
 
-### *Always Speak Respectfully*
+### Always Speak Respectfully
 
 When communicating, characters from this region are careful to maintain the dignity of the person with whom they are speaking. They use a variety of techniques for this. Speaking in this way is one of the charms of the setting and troupes are encouraged to experiment with it.
 
@@ -1217,7 +1217,7 @@ A character unable to meet a reasonable request may lose face, so it is importan
 
 Respect for God is demonstrated by the use of the phrase "if God wills it" when speaking about intended actions. By using this phrase, the character is signaling his acceptance of God as author of human destiny. In any case, speaking about good fortune about to be realized is foolish, as it invites the Evil Eye from jealous rivals. This is represented as a +3 bonus on Hex rolls, to destroy the circumstance discussed, by any character who envies the speaker.
 
-### *How to Act*
+### How to Act
 
 This section highlights some key features of Maghrebi culture. Players are encouraged to consider them when determining the actions of their characters.
 
@@ -1247,11 +1247,11 @@ There's no particular Virtue representing fortune, and Hermetic magic cannot det
 
 People with fortune are often so thankful for their blessings that they become deeply religious. This leads them to True Faith and murabitinism, a sort of sainthood. Once a murabit dies, some of his fortune resides in his relics and place of entombment, which is also called a murabit. Many families have a favorite local saint, who they pray to as an intercessor, and whose tomb they visit once a year. A man who fails to perform this duty would not be surprised if spirits of place or faeries came to torment him, for failing to show respect to his family's benefactor.
 
-### *Agencies*
+### Agencies
 
 If your troupe is using the rules for agencies published in *Houses of Hermes: Societates* (pages 140–144), what the character is doing is constantly pushing up bond scores, so that when the character needs help, it can be requested without weakening the Bond markedly.
 
-### *Leisure of the Wealthy*
+### Leisure of the Wealthy
 
 Wealthy people have many diversions to fill their time.
 
@@ -1298,7 +1298,7 @@ Characters from this area spend a lot of time with family, friends, and business
 
 Many of the tasks which could be performed at home are instead performed in public to provide further opportunities for maintaining a character's social network. Communal bathing and food preparation, for example, allow characters to avoid wasting social time on necessary functions. Whenever your character is doing anything alone, seriously consid-
 
-### *The Jealous Wife*
+### The Jealous Wife
 
 This faerie possesses women who fall from the central favor of their husband, when another wife has good fortune. Note that this means a house in which all wives are treated equally cannot be inhabited by the Jealous Wife. The Jealous Wife sometimes uses poison, and sometimes seems incapable of it. This may indicate there are several of these creatures. The Jealous Wife can, if she chooses not to kill, instead keep causing wives to rise and fall in the husband's estimation, possessing each victim in turn.
 
@@ -1337,7 +1337,7 @@ Even religious rituals are performed at home. Circumcision is celebrated with a 
 
 Most magi live in a way that's considered particularly alien by Maghrebi people. A person who disappears into a laboratory for hours, without seeing other people, is weirdly antisocial. Those magi who lock themselves away for three months are clearly holy, hiding shameful acts, or insane. That most magi do not live with members of their
 
-### *The Jealous Wife (Cont'd)*
+### The Jealous Wife (Cont'd)
 
 #### **Powers:**
 
@@ -1358,7 +1358,7 @@ After the characters have given the dead chameleon to the lady's servant, can th
 
 family is considered tragic. People may assume that some terrible thing has occurred in the magus's homeland. That magi do not, generally, marry is considered both scandalous and extremely sad.
 
-### *Segregate by Sex*
+### Segregate by Sex
 
 Life is divided into public and private spheres in the Maghreb, and women are part of the private sphere, while men dominate both.
 
@@ -1376,15 +1376,15 @@ There are three main ways to have more than four partners. The first is to just 
 
 Jealous wives are as common in Arabic stories as evil stepmothers in European stories. Some magi have suggested that women who suddenly become vicious and violent when another wife becomes pregnant, finds treasure, or otherwise changes her status, are possessed by faeries or have been tempted by demons.
 
-### *The Berbers*
+### The Berbers
 
 The Berbers are the original inhabitants of Mythic Africa. They have witnessed the invasion of many other races — Phoenicians, Romans, Visigoths, Greeks, and several waves of Arabs but are still the dominant African culture. Closely allied to the Berbers are the Tuareg, a nomadic people of the Great Desert (see later).
 
-### *Appearance*
+### Appearance
 
 The Imazighen are a Mediterranean people, similar to Greeks or southern Italians in appearance, although their skin is usually more deeply weathered by the hot desert winds. They have an olive complexion and dark hair tones, although auburn and blond are not unknown.
 
-### *Moors, Berbers, or Imazighen?*
+### Moors, Berbers, or Imazighen?
 
 The term "Berber"derives from "barbari," a term used by the ancient Greeks to describe the people of Africa. Despite its lack of general use, it is a handy English word to describe the people and the culture native to Mythic Africa. The Berbers refer to themselves as *Imazighen* (singular *Amazigh*), meaning "free men"; this is the origin of a Roman name for them, the Mazices. The Romans more generally called the Imazighen "Mauri," from whence the Europeans get their term "Moor" which they apply indiscriminately to Berber and Arab alike.
 
@@ -1403,7 +1403,7 @@ line is extended and embellished with crosses and palm fronds that indicate the 
 
 Body markings are called *ahadjam*, and are usually more extensive and occur on both sexes, but are still more common on women. Designs on the back prevent and treat infertility, those on the breast enhance sensuality, those on the wrists and ankles protect against the evil eye, whereas those on the hands and feet are supposed to prevent possession by the *jnun*. A necklace tattoo might ring the neck bearing many potent symbols. A later insert describes some of the forms and purposes of traditional *ahadjam*. For special occasions, these symbols may be elaborated with *tawzayt*, temporary symbols marked with henna (orangebrown), saffron (yellow), or *harquus* (a black dye); such symbols are often elaborate, and require a specialist cosmetician called a *neggafa* to apply them. Some *ngagef* are magicians who endow these ceremonial tattoos with power.
 
-### *Berber Culture*
+### Berber Culture
 
 Berber society is nominally leaderless; indeed, they are united by a common resistance to the imposition of a centralized authority. Egalitarianism is a strong motivator of many Berber cultural traits; Berber villages, for example, have equal-sized houses — a rich man is not accorded any more space. Privacy and self-sufficiency are also very important to Berbers. It is considered shameful to buy milk, for example; it implies that the family cannot manage to support itself. Furthermore, excess should be freely given rather than sold.
 
@@ -1415,14 +1415,14 @@ The female space is found within the home. A Berber house is ruled by the wife o
 
 Despite the strict separation between men and women, the Imazighen are more permissive toward women than Arabs, in general. Monogamy is the norm, even though Islam permits the taking of up to four if a man is capable of supporting them.
 
-### *The Village*
+### The Village
 
 The village (in Tamazight, *thaddart*) is the heart of Berber life. Where possible, Berber villages are sited on the summit of hills dominating a valley below. The slopes are covered with closely packed houses, each one stepped back against the hill, giving a pyramidal appearance to the whole village, with the minaret of the mosque forming the apex. In the Atlas Mountains, it is common to build the village into the hill by excavating a whole cave system. Above-ground Berber settlements grow by extending further down the hill, so the older families are at the top and the newer arrivals toward the bottom. Villages can be tiny, with just 50 or so houses, but those near to trade routes can be huge — 1500 houses or more. In Berber towns and cities, there is a physical separation between male space and female space. The streets are covered with vaults and are frequented almost exclusively by men, who line the dark streets with benches. Above, the vaults and roofs form a network of communications for the town's women, unseen by the men except for fleeting glimpses when they cross gaps between houses. Women learn to be light on their feet and good jumpers, although there are ladders and bridges for the less agile.
 
 Each house is two or three stories, with a terrace on the flat roof. The house contains the family's worldly goods; livestock are kept on the ground floor, other possessions in the family room above them. The uppermost story usually has a drying room for grain and fruit. Only the upper stories have windows, to maintain privacy. Three or four houses cluster around a courtyard that has a single entrance to the street; these are occupied by the families of brothers or cousins. Several of these clusters make up a ward, or *thakherroubt*, which are often based along occupational lines. Each ward has its own communal cemetery, threshing room, and grain store. Mixed wards occupied by outsiders — Arabs or Jews, mainly — are found near the edge of the settlement. Wards are arranged in concentric rings due to the way Berber villages grow. Each ward has its own council, or *tajmait,* composed of representatives from each family or lineage and presided over by an elected official called the *amin*. All adult men are represented in the meetings, and must attend them or else pay a fine. Women are not permitted at the *tajmait*. The *tajmait* makes decisions on communal life, passes judgments, and issues fines for petty misdemeanors and unacceptable behavior. Money raised from the fines is spent on public works, the labor provided by the men of each ward as a form of taxation. Families with no representative have all decisions made for them by the *tajmait* as a whole until a suitable marriage can be arranged. The strongest penalty levied by the *tajmait* is excommunication: the offender is literally excluded from all communication; no-one will speak with him, trade with
 
 
-### *Kharijite and Ibadite Islam*
+### Kharijite and Ibadite Islam
 
 Kharijism was the earliest religious sect of Islam. They were supporters of the fourth caliph Ali (656–661), until he submitted to arbitration over his right to the caliphate. Some of his followers withdrew to east of the Tigris and thus earned the name *khariji*, seceders. The Kharijites became increasingly fanatical, and spawned several sub-sects, both moderate and extreme. They saw themselves as the only true Muslims, and sought to establish a community where the Qur'an was the sole authority. Their core belief was that anyone who committed a major sin ceased to be a Muslim and must be expelled from the Faith, and killed as an unbeliever unless he repented. Faith was justified only with correct belief and right action. The Kharijis rejected the dynastic approach to the caliphate. Rather, any irreproachable believer could be caliph, and any caliph could be deposed if his actions did not conform to religious law. Another basic principle of Kharijite Islam was jihad, which they saw as the sixth pillar of Islam. It was the obligation of all true Muslims to use the sword in order to establish truth. Khariji saw it as their religious duty to rebel against any authority who fell below their high standard of behavior. Finally, Khariji were radically egalitarian, accepting all believers as equal regardless of class or
 
@@ -1434,7 +1434,7 @@ him, or offer daughters for marriage.
 
 The most learned women of a ward form a group called the *tala*, named after the ward's fountain where they meet. It is taboo for men to approach the fountain; this is a uniquely female space equivalent to the *tajmait*. This group's principle function is to care for the bodies of the dead, but they also act as a kind of police force. They act on anonymous denunciations and take steps to control private behavior (unlike the *tajmait*, which controls public behavior). Accusations are investigated, and if necessary the *tala* decides on penances and punishments, which are enforced through pressure put on sons and husbands by their womenfolk. They provide counsel for those who ask, and can, on occasion, alter the customs of the community entirely.
 
-### *The Tribe*
+### The Tribe
 
 Berber villages occupy relatively equal pieces of territory with clearly demarcated boundaries between them. A group of villages — two to eight, sometimes more — within a given area forms a tribe or *'arsh*. Most trees and all vegetables grown on irrigated plots belong to the individual, whereas plow land put to grain crops if the rains come early belongs to the village. Pasture land is usually the property of the tribe as a whole. The tribe typically labors as a group to terrace new land in preparation for vegetable crops, and to build the underground channels that bring the water.
 
@@ -1442,7 +1442,7 @@ Members of a tribe trade with each other directly; Berbers do not hold markets, 
 
 Tribes sometimes join to form a confederation, or *thaqbilt*. These confederations make up the three chief Berber "super tribes" of the Zenata, Masmuda, and Sanhaja.
 
-### *Berber Beliefs and Folklore*
+### Berber Beliefs and Folklore
 
 Berbers are often considered superstitious by the Arabs of the coastal cities, an accusation that is not entirely unfounded. Islam was brought to Berbers by the Arabs, and it has always suffered amongst the Imazighen from that association. While most Berbers are nominally Muslim, their religious practices have pervasive influences from their pagan roots. This is most prominent in the Berbers of the interior, amongst whom is the greatest preponderance of pagan Berber tribes. Muslim Berbers are mostly followers of Ibadi Islam (see insert), and have little interest in persecuting others for their religious beliefs.
 
@@ -1469,7 +1469,7 @@ Pagan Imazighen also honor their dead ancestors as gods, and treat tombs as holy
 
 In the beginning there was just a man and a woman, and they lived beneath the earth in the sterile and dark Netherworld. The woman was called Yemma-t n Dunnit, the First Mother of the World, and she was a powerful witch. They had fifty sons and fifty daughters, who climbed through holes onto the light, fertile world above; these were the first men. Initially, Yemma-t n Dunnit was a beneficent (or at least, neutral) creatrix; she created the sun and moon, the stars, and all animals and plants. Having run out of things to create, she began to create destruction, and her evil grew. She instituted eclipses, dispute and discord, and even death. She is responsible for the hardships of the Berbers, while their enemies the Franks and Arabs prosper. The Yemma-t n Dunnit is the source of all evil counsel, malicious gossip, and hurtful lies. Many of her creations bear the marks of her evil: for example, the
 
-### *Story Seed: The Christians of the Desert*
+### Story Seed: The Christians of the Desert
 
 Swathed in their *litham* veils, carrying their long *takouba* swords, thin lances and cross-decorated shields of gazelle hide, Tuareg warriors sometimes appear similar to Frankish knights, albeit mounted on dromedary camels. Some Arabic writers refer to the nomads as *Nasara al-Sahra* (*Arabic:*  "Nazarenes of the Desert") from a belief that that the Tuareg are lost Christians adapted to life in the deep desert.
 
@@ -1487,7 +1487,7 @@ verse of the human world: mountains are deep pits, and ravines form cliffs acros
 
 The Netherworld is peopled by spirits of the dead, hideous giants like the *teryelen* (ogresses), and dwarfs that swarm everywhere like ants, with whom they share kinship. Pagan Imazighen believe that mankind was born in the Netherworld, but climbed up through a hole in the sky into the mundane world above. When they die, they return to the Netherworld, but they are not entirely cut off from the mundane world. A network of communications between the human world and the Netherworld exists, through tombs, wells, caves, and occasional iron gates built by *jnun*. Snakes in particular are the messengers between the Netherworld and ours, and should be treated with respect less they speak ill of you to your ancestors.
 
-### *The Tagelmoust*
+### The Tagelmoust
 
 The *tagelmoust* (Arabic: *litham*) is the dark blue veil worn constantly by Tuareg men. Composed of separate pieces of Sudanese cloth dyed indigo (see below), the veil is wrapped around the head to reveal only the eyes. The veil acts not only a practical protection against the sun and sand but is also central to the sense of identity of a male Targui — the Tuareg refer to themselves in Tamahak as Kel Tagelmoust, "The People of the Veil." Many Arab detractors however believe that the Tuareg use the litham to mask their extreme ugliness!
 
@@ -1541,7 +1541,7 @@ This blue dye with the color of European woad was once known as *indicum* to the
 
 The Netherworld is part of the Faerie Realm, although sections of it lie within Faerie regiones and can be more easily visited.
 
-### *The People of the Veil*
+### The People of the Veil
 
 *"The scorpion and the Tuareg are the only enemies you meet in the desert"* 
 
@@ -1549,7 +1549,7 @@ The Netherworld is part of the Faerie Realm, although sections of it lie within 
 
 The nomadic Tuareg (*Arabic:* "abandoned by god," singular: Targui) are a collection of aggressive nomad tribes that roam the deep expanses of the Great Desert centered around the Ahaggar and Aïr massifs (*Tuareg:* Atakor and Ayăr respectively). They instead refer to themselves as the Kel Tagelmoust (*Tuareg:* "the People of the Veil") or Kel Tamahak (*Tuareg:* "the People who speak Tamahak").
 
-### *Tuareg Culture*
+### Tuareg Culture
 
 *"Pillage is our work"* - Tuareg saying
 
@@ -1561,7 +1561,7 @@ These nomads take little care about food or hygiene and are purported to eat alm
 
 Many Tuareg men are illiterate but all Tuareg speak Tamahak, the southernmost dialect of Tamazight common to these nomads but distinct from that of the settled northern tribes.
 
-### *Tuareg Society*
+### Tuareg Society
 
 The basic unit of Tuareg society is the "drum group" or clan *(tewsit*)*,* a collection of families summoned by an *amghar* or war leader's large hemispherical war drum (*ettebel*). The larger societal unit of a *Kel* or confederation is a loose series of tribes (*tawsheten*) bound together under an *amenoukal,* nominally equivalent to a greater chieftain. Although respected, an *amenoukal* acts more as an impartial adjudicator for his confederation, albeit one who can be ignored without significant consequence.
 
@@ -1676,7 +1676,7 @@ The *inenden* are a pariah caste of wandering craftsmen. Believed to have Jewish
 
 This character is a member of one of the designated religious tribes of the Tuareg and is therefore accorded some authority over disputes and immunity from the usual feudal demands of the nobles. He may purchase Theology: Islam, Islamic Law and (Realm) Lore during character generation and gains an additional 50 XP to spend on these Abilities. The character begins with the Minor Flaw Noncombatant, which does not yield any points for buying Virtues.
 
-### *The Unholy Trinity*
+### The Unholy Trinity
 
 Medieval European Christians have many misconceptions about Islam, perhaps the most common of which is that Muslims worship an unholy trinity composed of three deities known as Mahound, Termagant and Apollyon. This misunderstanding is in part due to early contact with the Banu Khalida in Iberia.
 
@@ -1690,7 +1690,7 @@ The demon **Mahound** takes the form of a grotesque parody of a monotheistic pro
 
 
 
-### *The Banu Khalida*
+### The Banu Khalida
 
 *Out in front rides a Saracen, Abisme; King Marsile has no greater villain in his company,*
 
@@ -1717,7 +1717,7 @@ The Banu Khalida have a caste system that reflects their mixed ancestry. The Has
 
 The three upper castes are collectively called the bidan ("white") castes, and are supported by the lower two castes who are black-skinned. The 'Abid are the slave caste at the bottom of Banu Khalida society, and the Haratan are the freed slaves who form the bulk of the bureaucracy and army. Most bidan — even the commoner Znaga caste — have at least one house slave, and rich Hassani might own hundreds of 'Abid and employ dozens of Haratan. The arrogance of the Banu Khalida is such that they believe they have total control over the lower castes, and for the most part this is true. Despite the designation of 'bidan' for the upper castes, skin color is no real determinant of caste. There are ebony-skinned members of the bidan just as there are pale 'Abid and Haratan. The former come from high-
 
-### *Story Seeds: The Banu Khalida*
+### Story Seeds: The Banu Khalida
 
 A whole culture of diabolists is a rich source of stories.
 
@@ -1781,7 +1781,7 @@ The upper echelons of the Banu Khalida are goetic sorcerers (*Realms of Power: t
 
 
 
-### *Jurfaret*
+### Jurfaret
 
 **Characteristics:** Int 0, Per –2, Pre +2, Com +1 (0), Str +2, Sta +2 (+1), Dex +2, Qik +2 (0)
 
@@ -1833,7 +1833,7 @@ Rules for Summoning and Ablating can be found in *Realms of Power: the Infernal*
 
 The Banu Khalida are a warlike race. They do not conduct war for the acquisition of territory; they can carve as much as they need out of the torrid zone, limited only by the capacity of their priests to bind and command demons. They have little need for material wealth, having seemingly limitless gold reserves. Over the centuries Khalidi emirs have realized that sending their Hassane champions out to wage war on trade routes and nomad clans is the best way to prevent them from fomenting trouble at home. In the three hundred years or so that they lived in Iberia, there were always Christians against whom the Hassane could test their mettle, but the Banu Khalida were forced to migrate to an area conquered and then vacated by their Almoravid successors. They must now travel further afield to find opponents, which suits the emirs fine.
 
-### *Stories Involving the Banu Khalida*
+### Stories Involving the Banu Khalida
 
 The Banu Khalida have managed to maintain a thriving culture built on the subjugation of demons for nearly two centuries, and yet have not yet been destroyed by Hell for their temerity. That is not to say that they have any advantages that other practitioners of the black arts lack; Khalidi sorcerers are just as prone as others to disastrous botches and Vituperation. Simply because of the number of sorcerers operating in each city barely a year goes by without a demon breaking free and running amok.
 
@@ -1849,17 +1849,17 @@ Termagant wants blood to be spilt, as much and as often as possible. This demon 
 
 Apollyon is obsessed with greed; it creates gold to encourage merchants from the north to come here for trade; it corrupts them before sending them back. False Gods like Apollyon are able to summon riches from thin air, but this gold is invariably stolen from somewhere else.
 
-### *Chapter Two*
+### Chapter Two
 
-## *Geography of North Africa: Coasts*
+## Geography of North Africa: Coasts
 
 North Africa is divided into four bands, each of which suits a different type of transport for merchants, or groups of magi with supplies. The fastest travel is by ship along the coastline. To the west lie the Atlantic coastal cities of Mauritania and to the east, along the Mediterranean, stretches the old Roman province of Cyrenaica. The largest cities of the Maghreb lie in a fertile strip often called the Tell, and here carts are the fastest means of overland trade. Further south lies the High Plateau, which rises into the Atlas Mountains. In these regions, horses predominate. South of these lies the Great Desert. For most travelers, this is the land of camels.
 
-### *Coastal Travel*
+### Coastal Travel
 
 The swiftest way to travel in the Maghreb is by ship. The largest cities are near the coast, and ships frequently pass between them for trade and the transportation of pilgrims. Travel over water is also much safer than land travel. The advantage is so great that it is faster to travel to many Christian ports in Europe by ship, than to other North African cities by land. Piracy is currently relatively rare in this region. The rulers of the southern Iberian coast have a powerful navy, and use it to punish disruptions to the sea lanes.
 
-### *Story Ideas For Pirates*
+### Story Ideas For Pirates
 
 The presence of powerful and effective enforcement of naval law does not mean there is no piracy in this area, just that it takes a less overt form than in other parts of Mythic Europe. There are no pirate bases, with full time crews of outlaws; piracy in North Africa is more pernicious.
 
@@ -1884,14 +1884,14 @@ No Muslim nobleman would ever hire pirates, officially. Pirates are scum, and ar
 
 advantageous for each side to disrupt the other's trade. Some, unsubtle, people just have elements from their navy go pirating. Others hire mercenaries, using secret and dependable servants. These mercenaries can be merchants, but are often from the fringes of society: dhimmis, Christians from other lands, or marginal groups like magi. If characters are offered this role, they know to prepare for war. Even if they do not hoist the pirate flag, they can use the confusion to settle scores, gain resources, and protect their interests.
 
-### *Punic and Roman Sites*
+### Punic and Roman Sites
 
 The Phoenicians and Romans both established numerous colonies along the Mediterranean and Atlantic coasts of Africa. The Punic communities grew first, favoring rocky promontories overlooking deep natural harbors, optimal for the seafaring culture's explorers, merchants, and navies. These towns grew over the course of seven hundred years, trading and growing, becoming a part of the landscape and building the nation that would draw the ire of what would become the greatest empire since Alexander. The rivalry between Rome and Carthage became so rancorous that the Roman Senator, Cato the Elder, ended every speech to the Senate with the comment**, "***Carthago delenda est*" — Carthage ought to be destroyed. Their first war began in 264 BC, with the ascendant Rome supporting a usurping band of mercenaries against the dominant naval power of the Mediterranean at the time, Carthage. Twenty-three years of conflict left the Republic the new lord of the western waves and Carthage preoccupied with repulsing independent mercenaries who were attempting to overrun Sicily. They clashed again in 218 BC, in 17 years of conflict that saw Hannibal march elephants into Italy. Ultimately, a lack of reinforcements allowed Rome to survive and endure. Fifty years later, Rome took the role of aggressor, culminating in the siege and destruction of the city of Carthage itself. The conquering Roman legions filled the vacuum left in the wake of of the Punic empire's demise, occupying its former colonies. The Republic enlarged most of these settlements, using the newly incorporated provinces of Numidia and Mauretania as a favored region for retired legionnaires. Fresh arrivals developed the countryside, subdividing the coast into Mauretania Tingitana, Mauretania Caesariensis, Numidia, and Africa Proconsularis, or Cyrenaica. Many weathered the tribulations of the Empire to succumb to the ravages of the Vandals, only to be reconquered by Bellisarius and then later claimed by the Islamic expansion.
 
 Ruins lie scattered all across the Maghreb, from Sala Colonia (now Rabat) on the far southwestern Atlantic coast, to Cyrenaica on the eastern Mediterranean coast, not far from Egypt. Most surviving communities fell to the Arabs as they swept across the land. The army either conquered cities and made them a part of the Caliphate or simply left the remnants in place to be reclaimed by the sands. The Romans' two primary roads began in Tingis, now Tangier. The first, the Northern Road, follows the mountains east to Carthage, now Tunis, and then snakes along the coast, going all the way to Alexandria in Egypt. The second, the Western Road
 
 
-### *Wine, Women, and History*
+### Wine, Women, and History
 
 For those in search of the history of the Maghreb, few reliable sources exist. One of the most respected and oft-quoted is Ibrahim ar-Raqiq, an 11th century courtier, diplomat, and secretary to the Zirid Princes of Ifriqiya. He is also known for his texts on the less scholarly topics of wine, women, and song, such as Quṭb as-Surūr (On Wine). His legacy as a historian, however was cemented with the rare and valuable Tarikh Ifriqiyya wal-Maghrib:
 
@@ -1907,7 +1907,7 @@ Summa Area Lore: Maghreb (Level 4, Quality 10), Tractatus Area Lore: Great Deser
 
 runs south to Ad Mercuri and the ruins of Augustus Zilil before it splits in two, one fork following the ocean to Rabat and the other to Volubilis, now called Walili. The Northern Road network reaches fingers out all along the coast from mansion to villa to fort to city, a stony spiderweb grown over 700 years of Roman governance. In most places, the roads are more valuable than the dressed stone, and so looters ignore them and take masonry from ruined buildings instead.
 
-### *Arc Seed: Imperial Legacies*
+### Arc Seed: Imperial Legacies
 
 The Romans quickly and inexplicably abandoned many of the region's ruins at the end of the third century. While the Berber tribes may have had a hand in this departure, they had been present for a thousand years, and had not previously forced an exodus. Can ancient Roman ghosts be summoned to provide clues, possibly revealing an incident involving the great Hunger Spirit precipitated by Mercurian wizards who meddled with things best left undisturbed? Are the libraries and scrolls of the former priests still hidden in their sanctuaries or secreted away in forgotten refuges? Perhaps some fragments of the fabled network of road-magic? Magi or Seekers coming to investigate Maghreb's ruins may find more than they bargained for, as a large pack of bouda have moved in from the south and plan to pick the region clean.
 
@@ -1915,7 +1915,7 @@ The Romans quickly and inexplicably abandoned many of the region's ruins at the 
 
 While there are some abandoned ruins like those at Lixus or Iulia Valentia Banasa, many of the Roman and Punic sites in this area are still occupied, such as the coastal cities of Ceuta, once the Roman military town of Septa, or Mlila. In cases where the town remained inhabited, much of the former Roman architecture has been recycled for building materials, leaving only a few monuments or fragmentary structures. In places like Banasa or Lixus, locals have only scavenged some of stone over the centuries, leaving the ruins fairly substantial. Larger surviving communities include Tangier and Walili, formerly Volubilis, both discussed later.
 
-### *Story Seed: A Pirate Crown*
+### Story Seed: A Pirate Crown
 
 A legacy of independent rule is not easily forgotten, even after 150 years, and the pirate culture of Anfa secretly hopes to throw off the yoke of the Almoravid suzerain. Until the time is right to act on their plans, the pirates secretly subvert and undermine the regional governor's endeavors. A canny Tytalus may recognize the potential for machination, and take up Anfa's cause, working with the pirates-cumconspirators to make independence a reality. An even more devious rival may reveal the possible rebellion to an opposing Tytalus, using the situation to draw a target into the open.
 
@@ -1933,15 +1933,15 @@ This was the region most densely colonized by the Phoenicans and Romans, and the
 
 The Cyrenaica region borders the deep deserts of Libya and has few cities. It does have a large number of forts, and nearly 2000 fortified farms built by the Legio III Augusta. The defensive line of the Limes Tripolitana survived in some form into the 11th century, protecting the cities until the nomad warriors of the Banu Hillal Arab tribe overran the area. Within a few decades, the area was nearly abandoned to the sand and wind.
 
-### *The Western Coast*
+### The Western Coast
 
 The Western Maghreb region hosts several unusual sites, like the island of Mogador, nestled along an Atlantic coastline dotted with cities such as Anfa, Asfi, or the twin cities of Rabat and Sale. This is temperate coastline that occasionally suffers vicious winds laden with biting sand sweeping out of the dunes to the east, but also sports fertile plains and hills that help communities thrive.
 
-### *Anfa*
+### Anfa
 
 Anfa has a deep harbor and a strong wall surrounded by verdant farmland and overlooked by the tall tower of the great mosque's minaret. Like other cities along the coast, it was originally a colony established by Carthage and later incorporated into the Roman Empire. Its population consists primarily of Berbers, and from the seventh century to 1068, Anfa rejected rule by the Caliphate and created a city-state called the Kingdom of Anfa. The Almoravids, however, surrounded and conquered it, incorporating Anfa into their empire. Throughout all that time and to the present, the city has remained a haven for pirates raiding the Straits of Gibraltar and the Mediterranean. It is not simply a raider's port of call, however. Anfa is a bustling port, trading saharan goods, grain, and fabrics with many European cities, including Seville in Iberia and Genoa in Italy. All of this combines to create a very tolerant and cosmopolitan environment that, if not welcoming to foreigners, is most certainly not hostile. Some might consider Anfa the secret entrance into the Maghreb, one jealously guarded by those merchants who frequent it.
 
-### *Asfi*
+### Asfi
 
 Asfi is an ancient Punic colony, and the residents are renowned for their high quality pottery and rich fishing grounds. A trusted and valued trade partner with Marrakesh, its deep harbor is often quite busy with merchant vessels bringing in manufactured luxuries from Iberia or exporting exotic goods from beyond the Great Desert, and with trawlers hauling in their nets.
 
@@ -1957,7 +1957,7 @@ ascetics and writing his book *Bidayat al Mourid*, a record of Tassawuf, the mys
 
 The city claims a strange legend as the origin of its name. In the early 11th century, a large group of sailors accidentally made landfall on the Hesperides. They collected a number of souvenirs before the natives captured them, blindfolded them, and sent them back out on the waves with a storm on their heels, compelled to never set sail again once they arrived at their next port. Lost within the blustery winds of their captors' curse, the crew finally stepped on to the docks of Asfi and asked where they were. The locals told the mariners they were months away from their native land al-Andalus. Upon hearing this news, a sailor responded by saying, "Wa asafi" (Oh, my regret). The great geographer, Al-Idrisi stated the city was called "Asafi" from that point forward. Many of the descendants of these sailors still possess the relics their ancestors smuggled away from the Hesperides, including several accounts of how their ship arrived. For those seeking a way to reach the mythic destination of Heracles, these tales may prove priceless.
 
-### *Tales from the Wine Dark Seas*
+### Tales from the Wine Dark Seas
 
 Those searching for the Hesperides or the mysteries of Atlantis, or simply wanting to push the boundaries of the known world for fame or profit, may seek out stories of past explorers. Few are as famous as Hanno the Navigator of Carthage. The record of his journey only survives in translation, a book called *The Periplus of Hanno*.
 
@@ -1971,14 +1971,14 @@ Those searching for the Hesperides or the mysteries of Atlantis, or simply wanti
 
 Hanno's expedition returned with a tablet detailing the wonders and spectacles he found beyond the Pillars of Heracles, but it was lost with the sacking of Carthage. Hidden in the text lie specific clues necessary for avoiding the hazards Hanno faced and possibly finding the lost Hesperides or some other famous place, such as the Tin Islands. Construction or chance has uncovered a copper slate engraved with Punic text which may just be the actual tablet. Once deciphered, it could lead magi to a potential source of resources for their covenant which might be completely uncontested, but only if they are willing to plunge into the unknown.
 
-### *Island of Mogador*
+### Island of Mogador
 
 Noted in the Periplus of Hanno, the primary account of his expedition, the island of Mogador was renowned as the source of a specific sea snail. When crushed and prepared, its shell produces a rare dye once used to stain the purple stripe on the togas of Imperial Senators. The secret of this dye's production, reputed to create a terrible stench, is carefully guarded by the people who visit the island to harvest shells and live across the bay in the nearby town of Essaouira. The whole island has a Magic aura of 4 and remains uninhabited due to rumors of a bloodthirsty monster.
 
 A regio exists on the island, accessed through a ruined cellar door in an overgrown and crumbling Roman villa. In this regio, the Roman villa exists as it did at the height of the Imperial period, peopled with the descendants of the craftsmen and autocrats dedicated to the production of the dye for the Emperor.
 
 
-### *Rabat and Salé*
+### Rabat and Salé
 
 The towns of Rabat and Salé straddle the mouth of the Bou Regreg river. The Almohads used Rabat as a staging point for their conquest of Iberia, building up the Rabatu l-Fath fortress, or "Stronghold of Victory." Caliph Al-Mansur moved the capitol of the empire to Rabat in 1190 and began a great number of construction projects. He completed the great walls which surround it, and began the Hassan tower, an incomplete mosque intended to be the world's largest, capable of receiving 20,000 faithful, but construction stopped with the caliph's death in 1199. The tower stands 50 paces high, with internal ramps large enough to ride a horse up and surrounded by a forest of 200 columns supporting a cedar roof. Even in this partial state, the locals continue to use it as a mosque, and it has a Divine aura of 4.
 
@@ -1987,7 +1987,7 @@ Al-Mansur also encouraged the conversion of the nearby abandoned ancient Phoenic
 Paired with Rabat, Salé occupies the northern shore. A stout wall surrounds the city, and rowboats carry brisk traffic across the river at all times of the day and night. The settlement developed primarily as a result of the growth of Rabat in the last hundred years. A canal links the river to the Beb Mrisa souk, allowing some boats to sail directly into the souk.
 
 
-### *Pithecousa, the Island of Monkeys*
+### Pithecousa, the Island of Monkeys
 
 Not to be confused with the Island of Ischia near Naples (which was once called Pithecousa by the Greeks), Pithecousa is a legendary land ruled by monkeys that lies just off the African coast. Some say that it is found amongst the Balearic Islands or adjacent to Gibraltar, others claim it is through the Pillars of Hercules in the Atlantic Sea, still others place it within the expanse of the Nile Delta. In fact, any of these locations can be true, for Pithecousa sits within a regio that has several entrances. All these entrances are found at sea, within patches of unexpected fog. The regio has a Magic aura of 5. Those seeing through the regio boundary (Ease Factor 15, see **ArM5** page 189) perceive a conical island looming from the fog, its slopes redolent with lush vegetation, and they can land on its beaches. At certain times of year, particular headings through the fog lead directly through the regio to the island without needing any special abilities.
 
@@ -1996,7 +1996,7 @@ Not to be confused with the Island of Ischia near Naples (which was once called 
 Pithecousa has two enchantments that affect any who arrive on the island. All human characters (and other creatures affected by Corpus magic) on the island are targeted by a magical effect with a Penetration of zero that transforms everyone who does not resist into the shape of a mundane monkey. The type of monkey depends on the personality of the character; aggressive warriors tend to become hamadryades, clever characters become callithrices, and agile individuals become cercopitheci (see insert for details on monkey types). Unusual characters may take exotic forms. The character retains her Intelligence, all Virtues and Flaws, and all Abilities, but her clothes and equipment are not transformed, and are probably too big to use easily. Monkey characters are capable of communicating with other monkeys; they can understand but cannot speak a human language. A magus cannot properly form the Latin words of his spells, and is limited to casting spells with quiet words (**ArM5**, page 83). This transformation lasts all the time the
 
 
-### *Satyrus, an Ape*
+### Satyrus, an Ape
 
 **Magic Might:** 7 (Animal)
 
@@ -2063,7 +2063,7 @@ The second magical effect of the island is a ward that keeps out everything in h
 
 The origin of both effects is unknown; they seem to stem from the island itself, and derive from no form of magic familiar to the characters. Hermetic guidelines are given purely for investigative and dispelling purposes.
 
-### *Story Seeds: Pithecousa*
+### Story Seeds: Pithecousa
 
 An island of monkeys provides ample opportunities for stories.
 
@@ -2100,11 +2100,11 @@ On each half moon, the king receives tribute from his subjects. They form a line
 
 On each equinox, the tribute is combined with the Ceremony of the King's Urination. In great solemnity in front of his whole court, the King of Monkeys passes water seven times. All the monkeys watch with great interest but the purpose of this ceremony is not clear; observers have hypothesized that it might be some form of divination.
 
-### *The Rif*
+### The Rif
 
 The simple banded model for this region's geography has one glaring exception: the Rif. The Rif is a triangular, mountainous spike which juts up from Africa, to create a thin strait at Gibraltar. It has several important towns. It is currently held by the Marinid, a Berber tribe who are opposed to the Almohads currently ruling Marrakesh. The Marinid dominance of this area gives them a staging ground for raids into Almohad territory, and makes trade with and administration of the Spanish territories of the Empire more difficult.
 
-### *Tangier*
+### Tangier
 
 A city in the Rif likely to interest magi is Tangier. Under the Romans and Phoenicians, it was a modest port and trade city, but the Caliphate has grown Tangier into a busy maritime crossroads between Iberia, Europe, the Mediterranean, and the Great Desert caravan routes, maintaining a navy of sixty vessels. While it exports wool, hides, fruits, honey and wax, the city has a reputation for rough living, and St. Francis has called it "a city of madness and illusions."
 
@@ -2117,7 +2117,7 @@ Near Tangier, south of the city but before one reaches the mountains, stands the
 Also to the south lies is the Cave of Heracles, where the hero slept before
 
 
-### *The Marinids*
+### The Marinids
 
 The Marinids are portrayed as barbarians by Almohad loyalists, but that may not be true. Storyguides who prefer a rampaging horde, a bit like the Mongols, can certainly use the Marinids in this role, but there are other possibilities. In real life, the Marinids eventually did conquer the west of the Maghreb. From their capital in Fez, which they did not destroy when they finally invaded it, they ushered in an age of art and scholarship which, although it did not rival the height of the Almohads, was certainly superior to the court in Marrakesh in 1220. Discuss with your troupe what sorts of stories you'd like to tell, then pick a theme for the Marinids.
 
@@ -2183,7 +2183,7 @@ continuing on to finish his Eleventh Labor, slaying the dragon and recovering th
 
 The best examples of Roman stonework in this area survive in Walili, formerly the Imperial provincial capitol of Volubilis. Surrounded by fertile plains, the Berber king Juba II claimed it as his capital and Latin was spoken there until the Caliphate conquered the populace in 790. When the aqueduct fell into disrepair, residents shifted their homes to a nearby wadi, and the former city became their cemetery. Many buildings still display intact mosaics and statuary from the Roman era; the main road, the decumanus maximus, is intact; and the impressive basilica, forum, and triumphal arch of Caracalla harken back to the lost days of the Empire. A Magic aura of 3 covers the ruins.
 
-### *The Tell: Tunisia*
+### The Tell: Tunisia
 
 infrequently eaten.
 
@@ -2211,11 +2211,11 @@ Several important cities thrive within Tunisia, such as grand Marrakesh, bustlin
 
 This fertile region of North Africa is often called "the Tell." Characters traveling by land in the Tell may use wheeled vehicles, drawn by horses, donkeys, oxen, or camels. Donkeys and horses travel faster than oxen, but can carry or pull less cargo. Wheeled vehicles are worse than useless in the mountains and desert, where camels are preferred.
 
-### *Marrakesh*
+### Marrakesh
 
 The largest city in the region, and most influential, is the source of many story ideas. Called the "Red City," for the ochre-colored earth used in so many buildings, the sultan Abu Bakr founded Marrakesh at the foot of the Atlas Mountains in 1062 and it has served as the capital for numerous regional rulers. Its great marketplace and souk, the Djemaa El Fna, serves as the functional and social heart of the city. Exotic baubles from the deep desert, Christian slaves from Europe, slaves from the south, gold and salt out of the desert, and goods from all across the Maghreb may be found in the tents and stalls of this massive bazaar, mingling with more than a few faeries plying the crowds as merchants, performers, or street urchins.
 
-### *Story Seeds*
+### Story Seeds
 
 Travel is always a great source of stories, and this is particularly true in North Africa.
 
@@ -2246,7 +2246,7 @@ The current ruler is a seventeen year old boy. He is incapable of providing char
 
 None of these governors wants to be the first to break away. The Almohads might still have one good battle in them. Refugees fleeing Iberia might have revitalized the core Almohad cities, allowing them to field a more powerful army than expected. They might cut a deal with the Kings of Castile for aid. This means that each governor needs to answer a call to arms. At the same time, no governor wants to lose his best followers or his treasure in supporting the Almohads until the next crisis comes. All a governor need do to be independent, or perhaps even the next ruler of Marrakesh, is to make sure that someone else exhausts himself while destroying the Almohads.
 
-### *Saga Seeds*
+### Saga Seeds
 
 The decaying empire offers many opportunities for storytelling. Some require a little political meddling, which must be handled carefully to avoid breaching the Code.
 
@@ -2280,7 +2280,7 @@ Player characters who are skilled diplomats could stretch this invitation. The A
 
 House Flambeau has always hinted that it might be in some way responsible, with the possible assistance of God, for the stunning victory at Las Navas de Tolosa. Many other magi assume they meddled in the outcome. The Islamic forces suffered up to 150,000 casualties compared to 2,000 Christians, mostly from religious fighting Orders whom the Flambeau find inconvenient. Characters wanting to operate in Morocco need to remember this history: elements of House Flambeau quite likely broke the rules about annoying mundanes on the basis that there was no-one left to harm their sodales. Even if they did not, they are strongly suspected of having done so. Player characters coming to Morocco are entering the home territories of those who want revenge for the battle that cracked the Empire. Conversely, player characters who strongly identify themselves with the Order may find they have ready allies among those gnawing at the Empire's edges.
 
-### *Virtues for the Thieves of Marrakesh*
+### Virtues for the Thieves of Marrakesh
 
 The City of Marrakesh is named from the words "to cross over" or "to hide." Some dignified scholars claim that this is because it was a fortress that watched over the whole country. Many locals disagree, and say it was a tribute to the skill of the horse thieves who used to raid this camp, crossing over the walls and then hiding with the livestock.
 
@@ -2318,7 +2318,7 @@ A character with this Virtue gains a +9 bonus to Awareness rolls when searching 
 
 Using a mixture of acrobatics, climbing and dodging, this character can run through urban areas as if unobstructed. This gives a substantial advantage
 
-### *New Sample Childhoods for Those Raised by Thieves*
+### New Sample Childhoods for Those Raised by Thieves
 
 If a player is using the Detailed Character Creation Rules given on page 31 of the core rulebook, she may wish to use these suggested childhood Ability sets.
 
@@ -2342,7 +2342,7 @@ The character suffers no penalty for activities in low light, or even complete d
 
 The character can hide one item on his person, and attempts to find it suffer a –9 penalty on Awareness rolls. The item cannot be larger than a dag-
 
-### *The Sons of S*ā*s*ā*n*
+### The Sons of Sāsān
 
 In Arabic folklore, including the Maghreb, there are stories of a shadowy organization that nurtures bandits, thieves, murderers, prostitutes and other criminals. It is said to have arisen when a Persian prince named Sāsān lost his kingdom, and in his wanderings and depredations drew about himself a family of evildoers as retainers. The descendants of this court of villainy form a tribe, the Banû Sāsān, and aid each other against outsiders. They are said to be ruled, in each city, by a Beggar King. They are said to have tainted blood which aids in their crimes, they are said to run schools for each other's children, and they are whispered to have unhallowed places where they perform dark rites, to gain the power to commit greater evils.
 
@@ -2351,11 +2351,11 @@ Most criminals claim to belong to this group, although how tight a family this c
 ger, and the character may swap which items are hidden with a few minutes of work. Wealthy characters often procure collapsible tools to use in conjunction with this Virtue.
 
 
-### *Vis Site: Molting Beetle Husks*
+### Vis Site: Molting Beetle Husks
 
 In a hidden canyon wadi, a day's travel east of Marrakesh, scarab beetles of Virtue gather to shed their skins and dry in the bright desert sun. The husks are a sparkling indigo hue, and some Tuareg use them to dye their veils. When the husks are gathered in the late summer, after the sirocco has swept through the canyon, four pawns of Muto and Imaginem vis can be found. However, these husks also produce the most vibrant colored veils, and the nomads in the area prize them. Any magus attempting to acquire this source will need to come to terms with the tribe. It will not do to simply promise them the husks once the vis is removed, as this process destroys the useful properties of the shed carapaces. Aggressive actions may result in unpleasant future consequences for the magi, as this tribe often serves as guides to southbound caravans, and hold grudges across generations.
 
-### *Fes*
+### Fes
 
 Fes is the second city of the Empire, and has been invigorated by the arrival of refugees from Iberia.
 
@@ -2365,7 +2365,7 @@ Fes has the oldest university-like school in the region, and was, for centuries,
 
 Contrast this with how fragile it is. Three years ago Fes almost fell to the nomads. The last time a nomad tribe raided North Africa they pulled all the cities down, and destroyed all of the aqueducts, on the basis that cities were nothing but
 
-### *Al-Kairouine Madrasa*
+### Al-Kairouine Madrasa
 
 In the eighth century a pair of sisters, heiresses to a wealthy merchant, moved to Fes from Kairouan. One of these women used her inheritance to build a mosque. With the aid of other emigrants from her home city, this mosque was so well provided for that a school could be opened. By 1220, it is a great center of learning, drawing students from the Arabic world, and from the small communities in the Christian kingdoms of the Mediterranean.
 
@@ -2377,13 +2377,13 @@ resupply points for their enemies. In other parts of the Maghreb the decline of 
 
 The age of the Madrasa (a word which means "school" but in this case refers to something similar to a university) can also be contrasted with the new areas of the city. Many refugees from Iberia have settled in Fes. Aside from the Muslims is a vibrant Jewish quarter, and a surprising number of Christians. A local who wants diversion from his life can go to the new quarter. There, he hear music played on new instruments, discuss novel ideas, and eat food made with weird ingredients. This quarter is, in a very real sense, what rich locals do instead of bars and brothels.
 
-### *Vis Source: Figs of Two Colours*
+### Vis Source: Figs of Two Colours
 
 Outside Fes there is a fig tree which bears fruit out of season. Some of its fruit are white, others are black. If anyone eats the black fruit, horns emerge from his forehead (Monstrous Appearance Flaw.) The horns are also terribly sensitive, and cause the bearer great pain if struck. If the victim eats the white figs, the horns retract and disappear. It is said that a leper once married the daughter of the Sultan of Fes by tricking the ruler into eating the black figs, dressing as a foreign magician, the offering him the white ones as a cure. Some Hermetic hearers of this story may wonder if this leper was a magus, and where his tomb lies. The figs themselves contain Muto vis.
 
 *Art and Academe*, which describes European universities, has many plot hooks suitable for play in Fes.
 
-### *Tunis*
+### Tunis
 
 The city of Tunis is the largest port in the Maghreb. It has been a center of trade, and also of naval power, for the Almohads since they invaded this part of Africa in 1057. The loss of al-Andalus weakened the Almohads, preventing them from supporting the stronger navy they once possessed.
 
@@ -2420,7 +2420,7 @@ This means that the settings in which scenes may take place become more steadily
 
 Tunis faces a lake, and depends on the ocean, so proximity to the water is also an important thematic element. When you need to rapidly choose a character or setting, consider something to do with sailors, the navy, or the water.
 
-### *Tripoli*
+### Tripoli
 
 Tripoli is "the gateway to the Great Desert," the primary port in the gold and slave trade in the eastern Maghreb. It was originally a Carthaginian port called Oea, which eventually absorbed two neighboring cities and changed its name to reflect that it was three (tri-) cities (polis) combined into one. It is now the port most friendly to dhimmis, as it is dependent on their trade, even for sufficient bread to feed itself.
 
@@ -2431,7 +2431,7 @@ In most other cities in the Maghreb, people describe the medinas as filled with 
 Tripoli has the remnants of many cultures, layered one above the other. It was settled by the Phoenicians, refounded
 
 
-### *Kairouan*
+### Kairouan
 
 Kairouan is the fourth most holy city in Islam, and non-Muslims are forbidden to enter large sections of it, on pain of death. One of the oldest mosques, and certainly the largest, in North Africa stands here, believed to be the model for all of the other mosques in this region. This mosque acts as a focus of pilgrimages and religious study. Kairouan has the highest Dominion aura of any city in the Maghreb.
 
@@ -2439,7 +2439,7 @@ Kairouan's reputation as a center of learning, and as a court for the exilarchs 
 
 by the Greeks, traded with by the Egyptians, conquered by the Romans, taken by the Arabs, invaded by the Normans, and now is back in Berber hands. The practitioners of most Western schools of magic had time to establish colonies here. Given that the Normans were partially Christianised Norse warriors who had stopped off in northern France for a generation, even druids and Odinites might have made it to Tripoli. Magi, and other knowledgeable seekers, can find remnants of the various layers of mystical occupation in this city. Characters created on the fly should have some sort of link to ruins or artifacts from the earlier rulers.
 
-### *Other Communities of the North Central Tell*
+### Other Communities of the North Central Tell
 
 These are towns and communities located nearer to the northern coast of the Maghreb.
 
@@ -2459,7 +2459,7 @@ Tlemcen, once the small fort town (castra) of Pomeria, has since grown into an i
 
 Initially a Phoenician city, then Roman, and currently occupied by the kasbah of Algiers, Icosium was founded by twenty companions of Heracles. Dominated by whitewashed architecture, and built right to the shoreline, Algiers has several Roman cemeteries in the sea-cliffs to the west, and a high wall. Like Tlemcen, the wall recycled large amounts of demolished Imperial masonry when Arabs rejuvenated the site in 942 AD.
 
-### *Story Seed: Lost Virgilian Magics*
+### Story Seed: Lost Virgilian Magics
 
 The mosaics and auras hint at the presence of a previously unknown cabal of Virgilian sorcerers who once called Hadrumetum home. Fleeing the onslaught of the Arab army, they left a number of their texts and handiwork in the catacombs for safekeeping. Unfortunately, they never returned and their lost notes may lead the characters to Soussa. However, as the magi begin their investigations, they learn someone else is also searching the crypts. Do sahirs, infernalists, renegade Hermetics or the Augustan Brotherhood stalk them within the tunnels?
 
@@ -2467,7 +2467,7 @@ The mosaics and auras hint at the presence of a previously unknown cabal of Virg
 
 Abandoned but spectacular ruins still stand in places like Djémila, located at the confluence of two rivers, where there are arches, partially standing basilicas, a pair of fora, crumbling houses and temples, as well as a beautifully preserved amphitheater, and the forgotten mountain fortress of Tifesh, with its 3-pace-thick outer walls and three crumbling basilicas. Either of these sites, with a remnant Magic aura of 3, might serve as a site for a covenant.
 
-### *Other Communities of the Eastern Tell*
+### Other Communities of the Eastern Tell
 
 These are towns and cities located in the region near Tunis and its coast. The ruins of Carthage proper are discussed in greater detail later.
 
@@ -2486,7 +2486,7 @@ Founded in 1100 BC by the Phoenicians, Hadrumetum was one of the most important 
 
 Hippo Regius grew from a colony first settled by the Phoenicians in the 12th century BC; it garnered the appellation Regius, "of the King," after serveral Numidian kings erected pyramid tombs there. Situated near the mouth of the river Ubus, it became a major city in Roman Africa, famously known as the bishopric of Saint Augustine of Hippo in his later years. Many synods and councils convened in Hippo, helping establish the accepted books of the New Testament. It was conquered by the Arabs in 698, but they left the ancient site in the ninth century and moved a league north, calling the new city "Bouna Al Haditha," or Bouna the New. The abandoned ruins include the largest theater
 
-### *Story Seed: To Claim a Wife*
+### Story Seed: To Claim a Wife
 
 In one of the villages south of Girba, the mosque is renowned for a very special reason. The locals always leave the mosque by dusk, lest they encounter the group of capricious jinn who appear in the early evening, always accompanied by their many beautiful wives. It is said that any man who can survive a night in the company of the jinn may take one of their wives for his own. The jinn demand any suitor succeed at a series of tasks which change for each hopeful. Sometimes they require feats of strength, other times they demand the answer to a medley of riddles, or the discovery of an out-of-place object, and occasionally they ask for an entertaining story they have never heard before. Those who fail become slaves of the Jinn, whisked away to serve them for seven years. The wives are sometimes jinn and at other times they are human slaves caught or purchased by the jinn, but they always remain beautiful, even after departing the mosque.
 
@@ -2496,7 +2496,7 @@ in Africa, and the mostly destroyed Basilica of St. Augustine. The shell of the 
 
 To the south, military roads lead from Qusantina and Bouna to Roman Theveste, now Tbessa, and the nearby legionary town of Lambaesis; both possess extensive Roman remains. Tbessa is surrounded by a Byzantine wall with thirteen square towers, and its ruins include an amphitheater, a nearly complete Temple of Minerva, and the remains of the basilica of St. Crispinus, which include chapels, baptism urns, catacombs and gardens. Lambaesis is unoccupied, but has triumphal arches, undisturbed Roman graveyards, dry aqueducts and
 
-### *Vis Site: Heady Lotus Blooms*
+### Vis Site: Heady Lotus Blooms
 
 Found all over Djerba, the thorny lotus shrub grows very sweet berries, about an inch across with a hard seed. These are dried, processed into a sweet liquor, and eaten fresh. The berries grow from yellow or crème colored flowers with a distinctive five-petal and five-stamen bloom. The Lotophagi grow stands of the Lotus of Virtue, creating the narcotic fruits which held Odysseus' crew enthralled.
 
@@ -2507,15 +2507,15 @@ If three seeds of the Lotus of Virtue are enriched by exposing them to only the 
 the skeletal remains of temples to Aesculapius, Minerva, Jupiter, and Juno. No Christian inscriptions exist in the town, and it still has a Magic aura of 4, centered on the temples. Of particular interest, a column in the encampment bears the complete text of Emperor Hadrian's address to the Legio III Augusta. Only Tamagudi, seven leagues to the west, has better preserved ruins in all of Numidia, although roughly similar remaining structures. Hermetic wizards seeking to establish a covenant might be able to make the site habitable with some effort.
 
 
-### *Story Seed: Cyclopskin Handiwork*
+### Story Seed: Cyclopskin Handiwork
 
 A number of dolmens and ancient structures point to the race of singleeyed, sharp tusked giants which once lived on Malta. Their heavy wagons pushed deep ruts even into the stones all over the island. Occasionally, after a flood or earthquake, a skeleton of one of these enormous cyclopskin is found. Legends state they disappeared long ago, before the Romans ruled Malta, but they did not leave. The giants retreated into regiones, seeking out the caves, like Ghar Dalam, and living beneath the land. Some claim recent earthquakes experienced by the island are the result of the giants at war deep in the earth. These regiones can be entered when the night of the winter solstice coincides with a new moon; explorers must delve deep into the rock of Ghar Dalam without light sources, eventually emerging into the subterranean vaults of the cyclopskin. Can the giants be convinced to stop their war before the cities above are shaken to the ground?
 
-### *Islands of North Africa*
+### Islands of North Africa
 
 There are relatively few Mediterranean islands along the Maghreb coast, but the two most prominent are Djerba and Malta.
 
-### *Djerba*
+### Djerba
 
 Continuously occupied since the Phoenicians first settled it, this low lying island is one of the few along the north African coast. Once conquered by Roger of Sicily in the early 12th century, temperate and beautiful Djerba was the home of the Lotophagi, the magical lotus-eaters mentioned in the ancient tales of Odysseus. Known as Meninx by the Phoenicians and Girba by the Romans, villages and small communities litter
 
@@ -2524,7 +2524,7 @@ the landscape. On the north side of the island, the ghost town of Girba stands m
 
 Several diverse groups call Djerba home. A league south of Girba, large group of Jews have lived in the village Hara Seghira since before the fall of the Second Temple. Built with stones taken from Temple Mount, the Ghriba synagogue is their religious and social center. Considered a pilgrimage site for Kabbalists and those wishing to celebrate the holiday of Lag BaOmer, the synagogue boasts a Divine aura of 5. An enclave of Ibadi Muslims, similar to those in the oasis of Ghardaia, live in Ajim but shun outsiders and worship in underground mosques. The Lotophagi disappeared long ago, retreating into a few isolated regiones scattered about the island and marked by clusters of lotus shrubs. They avoid the current residents and appear very rarely to collect Lotus Fruit of Virtue on the Summer Solstice.
 
-### *Malta*
+### Malta
 
 Currently a part of the Holy Roman Empire, as a holding of the House of Hohenstaufen, Malta is largely a fortified garrison, dedicated to its own protection at the detriment of nearly any other activity after alternately being mostly depopulated and then recolonized by Arabs before becoming a part of the Kingdom of Sicily. It has been a Phoenecian, Roman, Vandal, Arab, and even Norman outpost over the years. Three main islands comprise the
 
@@ -2536,11 +2536,11 @@ Gozo is the second largest island of the trio. Local legends claim it served as 
 
 Malta has a strong Christian tradition, as Paul of Tarsus was shipwrecked on the island in 59 AD for three months and proselytized the inhabitants, healing the sick and founding the Christian community there. The Cathedral of Mdina, the capital, is dedicated to St. Paul and was extensively repaired after it fell into disrepair during the Muslim rule of Malta. Both it and the nearby catacombs in the village of Ir-Rabat, where early Christians held their secret Mass, have a Divine aura of 5.
 
-### *The Eastern Coast: Cyrenaica*
+### The Eastern Coast: Cyrenaica
 
 Settled by Greek refugees from the volcanic island of Thera in the Aegean, the plains below the Jebel Akhdar (*Arabic:* "the Green Mountain") were once known as the Pentapolis, a collection of small city-states initially dominated by the eponymous inland city of Kurene (known as Cyrene in Latin). After the Arab invasion of 643 the area became *al-Maghrib al Adna* ("the Nearest West")
 
-### *Kura, the Nereid of the Sacred Spring*
+### Kura, the Nereid of the Sacred Spring
 
 Once venerated by the citizens of Cyrene, the nymph Kura has retreated to within her regio. She can be reached only by following the rivulet from her sacred spring upstream from where it joins the river that passes through the local necropolis on its way to the Mediterranean. Currently the only human aware of Kura's ongoing presence is Zeynab, the youngest daughter of the village's headman. The girl stumbled into the nereid's regio last spring and has recently begun to visit the watery maiden regularly.
 
@@ -2565,11 +2565,11 @@ Despite their Islamic faith, the common folk of the area have inherited the anci
 
 As an isolated area outside of an existing Tribunal but far from any significant Islamic settlement, the hills of Cyrenaica make an appealing location for a Spring covenant of Theban magi, with or without the sponsorship of the magi's elders. Magi interested in recovering some of the lost glory of the abandoned Greek colonies will find much to discover here, although a recent attempt at settling the area by the Children of Olympos (see *The Sundered Eagle*, pages 125–127) failed under mysterious circumstances.
 
-### *The Ruins of Apollonia and Cyrene*
+### The Ruins of Apollonia and Cyrene
 
 Together with its port of Apollonia situated 8 miles to the north, Cyrene was a Roman metropolis and capital of the region until Diocletian favored its
 
-### *Muqadam, the Barbary Lion of Virtue*
+### Muqadam, the Barbary Lion of Virtue
 
 **Magic Might:** 40 (Animal)
 
@@ -2626,7 +2626,7 @@ The smaller town of Apollonia on the old Roman coast road about 20 miles from Si
 
 The unfettered Magic spirit of Kura, the water nymph of the sacred spring near the Temple of Apollon, still haunts the ruins of the inland site of Cyrene. A temple to the Faerie god Zeus lies near the track of the ruined Roman circus and shrines to Demeter and Dionysos are located within the old city walls. This inland site is dominated by a Faerie aura of 3 but the immediate grounds of the sacred spring have a Magic aura of 5 that leads to the regio where Kura dwells. The ruins of the Olympian temples have a corresponding higher
 
-### *Muqadam, the Barbary Lion of Virtue (Cont'd)*
+### Muqadam, the Barbary Lion of Virtue (Cont'd)
 
 (+3 Size). Muqadam sleeps with his eyes open, so enemies have a hard time taking him by surprise. ReAn 20 (Base 4, +2 Sun, +2 Size): Personal Power (20 levels, –1 Might Cost)
 
@@ -2655,23 +2655,23 @@ A Lion of Virtue has begun hunting any and all men he can find. This is Syyd, an
 
 #### strength Faerie auras of 4. Myrtoessa, the Hill of Myrtles and site of Apollon's seduction of Kura, overlooks the site. A grove of Myrtles of Virtue grows on its northern slopes.
 
-### *Leptis Magna*
+### Leptis Magna
 
 Nothing in all of Africa compares to the unspoiled ruins of Leptis Magna. Built up by Septimius Severus, its native son ascended to Emperor, it has nearly perfect triumphal arches, a largely intact basillica, an expansive theatre and forum, and even a sea-side temple to Serapis with a Magic aura of 2. The harbor is guarded by a Byzantine wall, and a lighthouse still looks out over the water. Many of the structures are half buried in sand, further preserving them. Other than the occasional caravan encampment, Leptis Magna has no significant inhabitants. Since the desert swallowed it, there is simply insufficient agricultural land nearby to support a population.
 
-### *The Jebel Akhdar*
+### The Jebel Akhdar
 
 These coastal mountains, a plateau covered in the forests that give its name, are riddled with wadis, rivers, and natural springs, and the highlands are one of the wettest areas in North Africa. Although isolated Muslim villages are found throughout the hills, the Faerie and Magic creatures found in the groves and valleys here resemble more the nymphs and fauns of mainland Greece than creatures elsewhere in the desert regions of Libya, where *ghul* and *jnun* dominate.
 
 Myrtle trees and herbs grow in abundance here and, as a result, honey is easily harvested by the common folk. Tainted by the nectar of plants they have fed on in the many Magic auras scattered throughout the hills, the Bees of Virtue here produce honey with varying magical properties.
 
-### *The Altars of the Philaeni*
+### The Altars of the Philaeni
 
 These two pillars set upon a small hill overlooking the easternmost point of the coast of the Gulf of Syrtis mark the ancient border between Carthage and the Greek colonies of Cyrenaica, and then later the line of division between the eastern and western halves of the Roman Empire. Legend claims the hill as the burial place of the two Philaenus brothers, athletic champions who set out in a running race to meet their Cyrenaican counterparts and thereby decide the border in Libya between the ancient powers. Accused of cheating, the heroes offered to be buried alive at the spot to confirm their claim, an offer the Cyrenaicans accepted.
 
 From the nearby coast road, the tumulus containing the bones of the two Carthaginians appears as a simple hillock beneath the rise of the southern escarpment that is surmounted by two piles of broken stone. On the mundane level the site has a weak Magic aura of
 
-### *Silphium, Asafoetidia or Fennel?*
+### Silphium, Asafoetidia or Fennel?
 
 Silphium is perhaps the most famous herb of antiquity, once the lifeblood of the economy of Cyrene and found on all the settlement's coinage, but it is generally believed to be extinct in 1220. Related to common fennel although much rarer, it was once found only growing wild on the coastal plains of Cyrenaica, resulting in a virtual monopoly for the lucky Cyrenes. The Emperor Nero is widely held to have consumed the last stalk out of curiosity, much to the lamentation of ancient herbalists.
 
@@ -2715,11 +2715,11 @@ Enterprising magi determined to meddle in mundane affairs may attempt to use the
 
 Together, the spirits of the Philaeni are considered inseparable daimonic Heroes with a pooled Magic Might 35, who can only be summoned through a combined theurgical rite performed by two wizards using *Wizard's Communion*. The ghostly twin athletes once guarded the border road linking the North African provinces and were called upon to grant swiftness of travel to the legions traveling along their protected stretch of road. These Punic daimons can also be asked to grant the power to duplicate a recently cast spell, to enforce that the truth be spoken, and to bring down a curse on oathbreakers.
 
-### *Siwa*
+### Siwa
 
 This large oasis lies in a long depression at the northwestern edge of the Great Sand Sea, marking the ancient border between ancient Libya and the Kingdom of Egypt. In antiquity, the oasis was famous as Ammonium, the site of the oracle of Ammon, the Libyan god equated with Zeus by the Cyrenaican Greeks and consulted by classical heroes such as Hercules and Perseus, even Alexander the Great. Tracks lead north to the coast at Sallum (Baranis) and Matruh (Paraetonium), northeast to the southern Ayyubid capital of Cairo and southwest across the sandy desert to the Tuareg outpost of Ghat. This site will be described in greater detail in a later supplement for Ars Magica.
 
-### *The Grand Plateau and the Atlas Mountains*
+### The Grand Plateau and the Atlas Mountains
 
 The Grand Plateau is comprised of foothills and highlands that border the Atlas mountains. Some areas are sufficiently fertile to support large towns, but most areas are grazed by nomadic flocks. Storyguides should use the plateau to tell the sorts of stories usually told in remote, rural areas in Europe.
 
@@ -2804,9 +2804,9 @@ When no other inspiration strikes, player characters should seek the Atlas Mount
 The mountains seem limitless, and beyond the sudden drop at their southern edge, lies the Great Desert.
 
 
-### *Chapter Three*
+### Chapter Three
 
-## *The Great Desert*
+## The Great Desert
 
 The Great Desert is not as impassable as it appears to the European imagination. Only about one quarter of the desert is actually sand, and travel across this part of the Great Desert is avoided whenever practicable. The remnant is a mixture of arid land, rock, and gravel; it is difficult to survive due to a lack of water. Characters who know the desert, however, find it arduous and unsafe, but passable, even using horses as mounts.
 
@@ -2814,7 +2814,7 @@ ter evaporates in a sandy region. True to Strabo's description, *wadis*, deep po
 
 Even within the harsh environment, places exist where water bubbles up from the earth, or where the seasonal rivers and streams collect in a shady place. These sanctuaries preserve life in an otherwise inhospitable land where the wind howls across the dunes to chew the very life from one's flesh. Nearly every source of water in the Great Desert is seasonal, a fleeting haven that lingers through the winter and spring only to gradually boil away through the summer and autumn. By comparison, oases offer established and constant sources of food and water, where Berbers, Tuareg, *jinn*, and an occasional exotic traveler may gather to trade, to talk, or to
 
-### *The Landscapes of the Great Desert*
+### The Landscapes of the Great Desert
 
 *The country was like a leopard's skin, spotted with inhabited places (which the Egyptians call "oases") that are surrounded by waterless and desert land...*
 
@@ -2822,7 +2822,7 @@ Even within the harsh environment, places exist where water bubbles up from the 
 
 There are six types of terrain encountered in the Great Desert. The kind most typically imagined by potential travelers is called *erg*, the rolling, windswept sand dunes nearly devoid of vegetation. In reality, roughly 20 percent of the desert consists of *erg*. More common are the stony plains called *reg*, long stretches comprised of sand and black, red, or white gravel. The actual desert is roughly 70 percent *reg*. The rest is divided between *hamadas* (s. *hamada*), or plateaus and mountainous regions scattered throughout the length of the desert, and *chott*, salt flats formed in the distant past, or when seasonal wa-
 
-### *Hazards of the Great Desert*
+### Hazards of the Great Desert
 
 The Great Desert presents a range of hazards that must be overcome if characters are to travel safely within it.
 
@@ -2841,7 +2841,7 @@ rest before continuing on to more hospitable locales.
 
 Each of the regions of the Great Desert contains these terrains. There are the Fezzan, the Central Desert, the Tanezrouft Desert in the west, and the Ténéré Desert in the south. Some claim the Fezzan and Ténéré Deserts join with the fabled Nubian Desert, but most consider these to be the thirst-induced ravings of men driven mad by vicious *iinn*.
 
-### *The Fezzan*
+### The Fezzan
 
 Sandy ergs comprise most of the Fezzan, though there are many areas of chott and saline depressions which sustain salt-adapted plants, like those in Siwa. In the west, Idehan Ubari Erg and the Great Erg form the boundary with the Central Great Desert. The Libyan Sand Sea forms the eastern boundary with Egypt, and the Al-Hamada al-Hamra (the Red Plateau) acts as a buffer between the desert and the Mediterranean in the north. In the south, the Ahaggar mountains and the Bilma Erg mark the beginning of the Ténéré. The vast, dark field of the Haruj hosts several slumbering volcanoes in the south, their calderas boasting hidden lakes. The Waw an-Namus in the southeastern Fezzan is one such volcano, distinctive due to a layer of black ash which coats its slopes and the surrounding area. This region was once the land of the Garamantian culture (see later in this chapter), but they disappeared with the coming of Islam, leaving only ruins, cemeteries, and a trade route bearing their name as a legacy.
 
@@ -2887,7 +2887,7 @@ The town of Murzuq is a popular stop on the Garamantian Road and the Bilma Trail
 
 With the dunes of the Ubari Erg looming to the south, this oasis consists of a group of twenty lakes ringed with date palms and rushes. Ruined villages crumble on the shores of several of the bodies of water, and the Tuareg who regularly camp here fish for small, red shrimp, which they grind into a paste and mold into cakes. While the water in the lakes is extremely salty, wells dug in the area provide fresh water. It is a 28 league journey to Sebha, but a mere 5 leagues to the east, the Garamantian cemetery of Hatya rises out of the sands.
 
-### *The Garamatians*
+### The Garamatians
 
 *Men dwell there called Garamantes, an exceeding great nation who sow on earth which they have laid on the salt...these Garamantes go in their four-horse chariots chasing the Ethiopians.*
 
@@ -2920,7 +2920,7 @@ Built before Garama atop a small plateau on the shores of a small lake and sprin
 
 The Garamantian legacy is visible in the fortress overlooking Ghat, and the necropolis north of town. Dried mudbricks compose the structures of the old town and the population persisted here due to the presence of the oasis, rather than reliance on foggaras.
 
-### *Garamantian Walking Dead*
+### Garamantian Walking Dead
 
 *Blackened by the sun, wearing nothing more than tattered rags, this creature moves with a deliberate, stuttering action*
 
@@ -2976,12 +2976,12 @@ The Garamantian sorcerer-kings used the Punic language and the Tifinagh alphabet
 
 The Garamantians venerated god Ammon, whom they called Aman, above all others. This was evident in their incorporation of his name in their own, and his priests in ancient Libya kept a temple at the oasis of Siwah. This temple and its oracle were still venerated and considered potent diviners in late antiquity, but there is little there now but ruins and a small village.
 
-### *Vis Site: The Forgotten Foggara*
+### Vis Site: The Forgotten Foggara
 
 Commanded to dig a new foggara as the rebellion began by a Garamantian noble with hopes of outlasting the turmoil, a group of corpse-miners disappeared from memory when slaves ambushed and killed their master before he could tell his fellows. Left to their task, they dug a vast reservoir beneath a rocky outcropping before water flooded their cave and left them unable to work further. The flowing foggara keeps a small wadi green, and, after rare storms, the overflow leaves 5 pawns of Aquam vis in the wadi. Held in the bone fragments of these lost workers which the current carries up to the surface, the vis litters the shore of the wadi. Is the noble's lost supply cache nearby?
 
 
-### *Story Seed: The Vexillation of the Fata Morgana*
+### Story Seed: The Vexillation of the Fata Morgana
 
 Acting upon visions seen by diviners in House Tremere of an impending Mongol invasion, a vexillation was created and sent into the desert of the Fezzan, using the cover of being a Genovese trading caravan. Charged with finding and establishing an emergency redoubt in the foggaras of the Garamantians, these Hermetic magi are fanatic about keeping their location and goals secret. What happens when the player characters accidentally scavenge one of their supply caches, or encounter the magi and discover their purpose amidst the crumbling ruins of the desert? Can a reasonable solution be found, or will the Tremere act with violence to protect the secrecy of the dedicated mission of their vexillation? Will a Wizard War conducted beyond the borders of Mythic Europe still follow the conventions of the Order, or can the two groups find a way to resolve the situation?
 
@@ -2991,7 +2991,7 @@ Garamantian magic was non-Hermetic and both very limited and erratic in the pres
 
 If considered for the purposes of Hermetic research, the rituals allowing a Garamantian sorcerer to bind a horde of corpses without an Arcane Connection to each should be considered a Minor Magical Breakthrough. Success allows the researcher to perform a simple supernatural ritual adding a corpse to a horde which is bound to an object. The Garamantians often used a crown or headdress adorned with a feather. A caster wearing the bound object may use the Voice and Group levels of effect for spells affecting or working through the horde, even if they remain at an Arcane Connection distance or have numbers far exceeding a usual Group. This ritual has no Penetra-
 
-### *The Iter Praeter Caput Saxi*
+### The Iter Praeter Caput Saxi
 
 Outside of the ruins of Roman Lepcis lies the entrance to a thin linear level 5 Magic regio that crosses the Fezzan, bypassing the old territory of the Garamantes and stretching for hundreds of miles to reach the fabled mountains of Agisymba. The *Bab Ras al-Hammada* or "Road Past the Stone Heads" is mentioned by Pliny as the secret route taken by the Roman general Valerius Festus in the first century AD.
 
@@ -3005,7 +3005,7 @@ The distant mundane location, potential for untapped magical resources, and easy
 
 Hermetic Intellego magic far exceeds Garamantian methods for sensing water in the desert. However, relics of such sorceries may help a researcher better understand Garamantian methods or assist with the translation of works written in Tifinagh. Buried in an urn in a small cave near Zinchecra, an initiation script in Tifinagh Punic details the last recorded method for gaining the Garamantian ability to Dowse for water. (See **ArM5**, page 64 for the Dowsing ability.) To selfinitiate this Virtue (Target Level 18), one must travel to the cut-stone pool of Zinchecra during the autumnal equinox (+3) after properly mummifying and entombing 10 individuals in Garamantian tombs (+3). There, one must take a purifying bath in the pool under the light of the moon while undergoing ritual scarring — which provides the equivalent of the Blatant Gift (+9). Upon exiting, if one's (Garamantian Lore + Presence + Initation Script bonus) value is greater than 18, one gains the virtue of Dowsing for drinking water. However, locating and deciphering this script may prove to be full arc in itelf. (See *The Mysteries: Revised Edition* page 13)
 
-### *The Central Great Desert*
+### The Central Great Desert
 
 The Central Great Desert is bounded by the Mediterranean in the north and the Ahaggar mountains in the south. The Ubari Desert makes up its eastern border, the Grand Western Erg and the Tademaït Plateau account for its western. The terrain consists mainly of erg sand dunes, rocky hamadas, and dry valleys. More than any other part of the Great Desert, the Central dDsert is very dry, rarely graced with rain, and with scant vegetation, even in the wadis. The Ahaggar mountains are tall peaks of hard, black rock formed into pinnacles, towers and crests, like huge pieces of volcanic basalt splintered and carved with an unimaginably large knife.
 
@@ -3027,7 +3027,7 @@ This is a small Tuareg and Berber oasis tucked into a valley on the western side
 
 Ghadames is controlled by seven clans of Berbers who have divided the city into as many districts, each with its own souk. The city is surrounded by a stout wall and the Ain al-Faras oasis lies at its heart. The Third Legion garrisoned the city for nearly 200 years and its crumbling, abandoned fort stands on a nearby hilltop to the southwest. Notably, covered walkways connect most of the buildings, creating a maze-like warren of alleyways which very effectively insulates the population from the worst heat, but conceals the activities of bandits and cutthroats who might prey on the unwary traveler. This also has the effect of creating a large number of lacunae in Ghadames, spaces where the city's normal Divine aura of 3 does not reach.
 
-### *Myrtle of Virtue*
+### Myrtle of Virtue
 
 In some hidden wadis grow Myrtle Trees of Virtue. Their leaves and berries are highly valued by a number of people. The Sardinians make a liqueur from the crushed berries called Mirto. The murabitin find it augments their dream interpretation. Amongst Jewish scholars, myrtle is considered to be both the symbol and scent of Eden. Certain theurgic practitioners find a sprig of myrtle on their tongue enhances their casting technique.
 
@@ -3049,7 +3049,7 @@ Often called "The Last Oasis" by those travelling the Garamantian Road, Ghat sit
 
 This oasis is another of the few strongholds of the Ibadi Muslims, a sect which believes any Muslim may lead the community and reserves the right to revolt against an unjust or heretical leader. Many of their number fled here from Tahert after the fall of the Rustamid Imamate in the early 10th century. There are also Ibadis in the neighboring Ghardaia oases and on the island of Djerba. A large mosque occupies the town square and the city's protective wall boasts six separate gates. The souk is noted for its arcade, providing shade to many of the vendors and for its active slave market, patronized by the jinn of the area. Date palm groves, and fruit and vegetable gardens flourish all around the city, fed by the oasis and their products sold in the market.
 
-### *The Redoubts of the Tuareg*
+### The Redoubts of the Tuareg
 
 The Tuareg dominate an area in the southern central reaches of the Great Desert, centerd on the great mountainous plateaus, but can be found anywhere within the confines of the sand. Within the Tazenrouft to the west and the greater expanse of the Tenere to the east and southeast, a string of waterless and otherwise inhospitable Magic auras almost encircles this cluster of mountains, except to the north where caravan route enters the Haggar massif. This makes the Tuareg homelands almost inaccessible without access to the Great Desert Regio Network — a multitude of regiones that are known to lead from the sands around the rocks and connect to other sites within the Sahara and perhaps other distant deserts (see the nearby insert).
 
@@ -3067,7 +3067,7 @@ The more remote and highest regions of the plateau are pocked with Magic auras. 
 
 A gem nestled in the bosom of the Ahaggar mountains near the edge of the Tassili n Ajjer plateau, Tamanghest is a rich oasis that supports groves of lemons, dates, figs, and almonds. Millet and wheat grow here, and the Tuareg keep small herds of goats for meat and milk. The herders of this village consider themselves the guardians
 
-### *The Cypresses of the Desert*
+### The Cypresses of the Desert
 
 The Tuareg hedge magicians use the wood from these cypresses to create their most powerful creations, but must beseech the spirits of the trees to sacrifice timber for their labors. A fallen limb from an individual tree contains Vim vis which grants different powers or Virtues to the supplicants as per the examples below:
 
@@ -3086,7 +3086,7 @@ to have healing properties.
 
 The northern massif known as the "Plateau of Rivers" is a rocky upland scored by deep gorges and hidden *gueltas.*  Ancient cypresses, known to the Tuareg as *tarout*, cluster in the higher eastern uplands of the Tassili n Ajjer. Each is over 2000 years old, gnarled and twisted, with its own personality. The oldest stand in a grove in the stony Wadi Amazar. Led by Tin-Balalan (*Tuareg:* "the one with the pool at its feet"), the trees are each the physical manifestation of powerful genius loci. Knowledgeable beyond man, each tree is a Magic guardian of their local area, similar to the elder trees of the German forests (see Chapter 4: The Forest, *Guardians of the Forest,* or *Realms of Power: Magic*, page 106).
 
-### *Faerie Tuareg and the Jnun*
+### Faerie Tuareg and the Jnun
 
 Although some of the southern Tuareg tribes such as the Kel Ifoghas, Iwellemmeden, and Kel Geres have a large number of Faerie blooded individuals, it is the *Kel Asouf*, or "People of the Empty Spaces," that are the true Faerie jnun of the deserts. These Faeries generally resemble the varied *jinn* of the more Muslim dominated lands to the north but are wilder and generally darker in behavior.
 
@@ -3096,7 +3096,7 @@ This southern collection of nine circular volcanic outcrops is noted for its gra
 
 The tallest peak of the plateau, Idoukal-n-Taghès, rises above the pilgrimage village of Abatol and hosts a Magic regio where the climate is similar to the Mediterranean. Within the Herbam-aligned aura grow a number of plants and herbs
 
-### *Saga Seed: An Atakor Covenant?*
+### Saga Seed: An Atakor Covenant?
 
 Isolated from the rest of the Order by mundane distance, the desert, and fierce nomad tribes, a the bastion of the Tuareg may at first seem an unlikely site for a Hermetic covenant or even a cooperative of sahir from the Order of Suleiman. But all these features may make it a desirable site for a group of wizards seeking to escape the political intrigues and mundane obligations of their traditional homelands, albeit at the price of extreme isolation.
 
@@ -3108,7 +3108,7 @@ not normally found in the desert, including examples of common European Herbs of
 
 Lying beyond the feared waterless Tanezrouft to the north, this sandstone massif is pocked with predominantly Faerie auras rather than Magic auras like the other three massifs. Sometimes known as the Adrar Ifoghas after the Kel Ifoghas tribe that claim the area, its rock art shows mainly scenes from nomad life, and appears to move and change from one visit to the next.
 
-### *Tanezrouft, the Western Great Desert*
+### Tanezrouft, the Western Great Desert
 
 Bounded on the west by the Atlantic, the Tanezrouft's long eastern border consists of the Western Erg, the Tademaït Hadama and the Ahaggar Mountains of the Central Great Desert, and the Bilma Erg of the Ténéré. In the north, the Chech Erg pushes against the Atlas Mountains, and there are few in this lonely region except the caravans and the most hardy of Tuareg nomads. The winds often sweep away the tracks of fellow travelers, and those lingering behind easily become lost or prey to the hyenas or jackals, which need no water.
 
@@ -3117,7 +3117,7 @@ Bounded on the west by the Atlantic, the Tanezrouft's long eastern border consis
 A wonder of cut-stone structures, the town of Iwalatan is the southern terminus of the Walata Road and the Taghaza Trail. The Massufa Berbers maintain a few groves of date palms here, growing melons in their shade and keeping herds of sheep. The many wells of this oasis produce crisp, clean water, water made all the more refreshing by the long, dry trip required to reach Iwalatan. Timbuktu is 100 leagues to the east-southeast, while the salt mines of Taghaza are 165 leagues to the north-northeast. The Walata Road leaves to the northwest, while the Taghaza Trail departs to the north. Several mosques grace the town, giving it a Divine aura of 3.
 
 
-### *Story Seeds*
+### Story Seeds
 
 #### **WAGES OF SIN**
 
@@ -3147,7 +3147,7 @@ Not truly an oasis, or even a wadi, Taghaza is a barren mining town carved out o
 
 This string of oases stretches for about 30 leagues at the edge of the Tanezrouft and the Central Great Desert. It boasts large stands of hundreds of date palms irrigated by seasonal pools and supplemented with foggaras, or wells carved into the rock to access the fossil water deep below. There are four fortified villages in the area, with thick walls and watchtowers, called *ksours* (s. ksour). The people in the small villages of Buda in the north and Reggane in the south maintain the foggaras. The other two ksours tend the date palm groves. The steep sandstone walls of the Tademaït Hadama, some rising to 500 paces, ring the oases along its southern and eastern edges, while numerous sand dunes slouch from the north and west, punctuated in places with sandstone outcrops. The sirocco wind often blows quite hard here and occasionally attacks caravans.
 
-### *Ténéré Desert*
+### Ténéré Desert
 
 The nine massifs of the Aïr Mountains overlook the Ténéré Desert. A Tuareg stronghold since time forgotten, the Aïr range is pocked with many acacia-shaded wadis, full after the rains of early autumn. Painted dogs hunt in packs, trying to steal from the herds of goats and camels kept by the nomads. The Erg of Bilma lies at the heart of the Ténéré, swaddling the Aïr range, and the Tibesti Mountains separate it from the Libyan Desert. The Ennedi Hamada rises up out of its southern border, where some claim one can see the Nubian Desert or stare into the haze of the Torrid Zone.
 
@@ -3164,7 +3164,7 @@ Nestled under the Kaouar Cliffs and protected from the desert dunes, Bilma is th
 
 A lonely citadel carved from volcanic rock in the middle of the Bilma Erg, Fachi functions much like Aouderas mining blocks of salt and trading water and palm dates for other supplies from caravans to survive. A few sweet lakes of fresh water mean most traders are more than willing to exchange their wares for the chance to replenish their supplies before pressing on the 65 leagues either east to Bilma or west to Timia. Fachi has a Magic aura of 4 due to its unspoiled nature and lack of a mosque.
 
-### *Story Seeds (Cont'd)*
+### Story Seeds (Cont'd)
 
 with the aid of their magic, may similarly draw attention from the existing power brokers of the region. Due to the harsh environment, Taghaza and Taodeni are particularly inhospitable — any inhabitants suffer a –3 on any Aging rolls due to the terrible living conditions (see **ArM5**, page 170) in addition to any effects of Warping inflicted by the local aura, making it a difficult location to maintain for a covenant without magical means of easing the perils.
 
@@ -3191,7 +3191,7 @@ This small Tuareg town is situated a day's journey north-northwest of the greate
 
 The last western outpost of the Bilma Trail, this Tuareg-occupied oasis boasts copper mines and date palm plantations. It is rumored to owe fealty to a wizard named Sogolon Conde. Beyond Takedda to the west lie the "Lands of Thirst," the deep desert and the routes to the purported realm of the Sorcerer-King of Sosso. It is 45 leagues east across the Bilma Erg to the Aïr Mountains and the shaded havens of Aouderas or Timia.
 
-### *Amur, the Pale Fox of Virtue*
+### Amur, the Pale Fox of Virtue
 
 *Slim and tawny, it darted among the brush with the young gazelle in its jaws. Uriens cursed as the beast stole his kill, and I'm almost certain it laughed as it ran..* 
 
@@ -3255,7 +3255,7 @@ Having snatched an item, like a bow, a satchel, or a waterskin, from a traveling
 
 Tuareg command this valley paradise, renowned for its enormous, deep stone well, which is filled with dark water and called a "guelta." The guelta never empties, and Timia supports small orchards of fruit trees. The road from Aouderas to Bilma passes through Timia, with 65 leagues of rolling sand dunes ahead of travelers before their next true rest in Fachi. To the west lies Takedda and Aouderas is just to the south.
 
-### *Trade across the Sands*
+### Trade across the Sands
 
 A number of routes crossed the Great Desert on the backs of camels and slaves. The journey is performed in stages, each of roughly 7 leagues (21 miles), and a trip in one direction usually requires between two and three months. Trade flows into and out of the desert, but gold, slaves, and salt drive the traffic north, and all manner of goods, but primarily slaves, glass and horses, go south. Some of the other goods taken north include ivory, gum arabic, ostrich feathers, kola nuts, ebony, and cloth. Caravans going south take dates, figs, sugar, cowries, copper, ironwork, paper, books, tools, weapons, cotton, and silk to serve as currency with the nomads, in addition to the highly prized commodities. The caravans also gather salt for trade in either direction, loading camels with two large slabs pulled from mines in the desert.
 
@@ -3265,7 +3265,7 @@ Berber and Tuareg nomads make up the majority of the traders from the south, bri
 
 Rumors from the returning merchants speak of a nominally Muslim kingdom across the sand, ruled by a powerful Sorcerer-King. Such stories are dismissed, however, as madness induced by howling winds and the solitude of the long journey. It is interesting to note, though, that something is demanding slaves for trade at the route destinations, and the merchants currently remain silent regarding their buyers.
 
-### *Arranging Caravans*
+### Arranging Caravans
 
 Trade across the Great Desert is a lucrative process, but one filled with danger, so merchants must co-operate to survive. Each merchant chooses which city his goods will depart from, and where they will be traded away. He then loads them on camels, and travels to the city of departure. At this point he usually sells his camels to buy rested ones. All of the merchants interested in trading at a target city gather, and they select a caravan guide. This is a complex process, because the success of the caravan is almost entirely dependent on this man's skill. The guide chooses a day of departure, which must be during the colder part of the year (October to
 
@@ -3350,7 +3350,7 @@ The Garamantian Road, named after the former rulers of the land it passes throug
 
 The Bilma Trail often begins in Cyrene or Cairo before plunging through the Great Sand Sea to arrive in Murzuq. From there, it turns south to snake between the Ahaggar and Tibesti Mountains, making for the Kaouar oases and Bilma. To reach Bilma, caravans pass over the great sand dunes of the Bilma Erg and the Ténéré, where
 
-### *Story Seed: The Archetypical Road*
+### Story Seed: The Archetypical Road
 
 The trade across the desert presents a completely archetypical Faerie opportunity to steal the vitality of those crossing, as it is essentially a road story. The entire experience the guides, the fearsome beasts, the bandits — all align with the fact these elements continue to survive despite the harsh conditions. So do the fay delight in the suffering of the slaves, or the misery of the travelers, or the greed of the merchants? Perhaps it is some combination of the three!
 
@@ -3367,7 +3367,7 @@ also provides protection from the sun and from wind-blown sand, without the need
 
 The Ride Ability allows those familiar with horses to ride camels. Many warriors prefer to fight from horseback, and will ride their camel to a battle then swap over, much as a European knight might ride to a tournament on a courser and then switch to his charger. See the Bestiary Appendix for camel statistics.
 
-### *The Mystery of the Sudan*
+### The Mystery of the Sudan
 
 The Sudanese do not want foreigners in their cities, beyond the trade camps at the edges of the desert. They certainly do not want them traveling further south than the Sahel — the fertile southern shore of the desert — and in some places prefer to trade with them at oases in the desert. Why this is so is unclear.
 
@@ -3384,7 +3384,7 @@ so repellent that the Arabs would cease to trade with the Sudanese if they disco
 - The Great Desert really is the edge of the world. The Sudan is in Faerie, and the faeries want the people praying five times a day to stay out of it.
 - The Sudanese don't care about gold. Gold, to the Sudanese, is like sand. They have been getting all the goods they want for the equivalent of sand for centuries, and they don't want
 
-### *Axudad, the Deathstalker Scorpion of Virtue*
+### Axudad, the Deathstalker Scorpion of Virtue
 
 *It scrambled over the dune, slate gray and strangely unfamiliar. Its spider-like eyes stared at me with a flat, inscrutable expression as its pincers flexed menacingly; it was a sight made more fearsome given the creature was roughly as big as a six-year old child. The tail arched over its body with a wicked stinger glistening with potent venom.*
 
@@ -3439,7 +3439,7 @@ people to stop bringing them useful stuff, essentially for free.
 
 • The faeries that rule the Sudanese want the journey, not the gold. All of the trade goods that have ever been bought to the Sudan are sitting in a big pile just outside Kombuh Saleh.
 
-### *Trade Goods Carried Across the Great Desert*
+### Trade Goods Carried Across the Great Desert
 
 Wheeled vehicles are not used to cross the desert, because roads cannot be kept clear of sand. This makes travel slower, more arduous, and reduces the amount of cargo each beast can carry. This in turn makes bulk trade across the Great Desert uncommon. Textiles, glassware, ceramics, paper, armaments, and horses are carried south to the desert communities. Gold and slaves are sent to the Mediterranean, along with cotton cloth, cattle hides, goatskins, and leatherwork, as lesser cargoes filling spaces in loads. Salt and copper are found in the desert itself, and travel south, purchased on the way by merchants traversing the Great Desert with other goods.
 
@@ -3453,13 +3453,13 @@ A swift breed of horse, the Barbary steed, has been bred in North Africa. These 
 
 If the Sudan is a strange faerie place, not just a kingdom that excludes foreign-
 
-### *The Silent Trade*
+### The Silent Trade
 
 Those who barter for gold guard the sources of their wealth jealously. Locals claim that two plants have roots of pure gold, but most believe these to be stories to fool the gullible. In those places where traders exchange goods for gold dust and nuggets, a curious tradition has evolved. The northern caravan masters leave their manufactured wares atop a large designated stone or platform. Then, they retreat out of sight. The gold traders then emerge and leave an amount of gold they feel adequate for the exchange before signaling and returning to observe from hiding. The caravan leaders return, and either take the gold or signal the traders again, indicating the sum is too little. This back and forth continues until the caravan takes their gold or their goods and departs.
 
 But who are these traders? Are they faeries who gain vitality from the exchange? Are they demons who breed the sin of greed amongst the caravan membership? Are they primitive tribesmen without language, or the emissaries of a lost kingdom, like Atlantis, Prester John, or the storied Sorcerer-King of Sosso?
 
-### *Axudad, the Deathstalker Scorpion of Virtue (Cont'd)*
+### Axudad, the Deathstalker Scorpion of Virtue (Cont'd)
 
 rock or small sand dune. MuIm 10 (Base 5, +1 Conc): Personal Power (10 levels, -1 Might cost, +10xp Concentration)
 
@@ -3481,7 +3481,7 @@ A neighboring tribe of Berbers seeks out the magi. Their chieftain's son has bee
 
 
 
-### *Demon of Thirst and Despair*
+### Demon of Thirst and Despair
 
 The statistics for this demon use the rules given in *Realms of Power: Infernal.*
 
@@ -3549,11 +3549,11 @@ ers, then these slaves can't just come from a kingdom further south. Perhaps the
 
 The slaves from south of the desert may, in your saga, not be human at all. They might be faeries, or magical constructs produced in strange factories. The Plinian races may be sold north as slaves. They could be spirits bound to solid forms, or the dead forced to labor for the living.
 
-### *Is The Great Desert Tied To A Realm?*
+### Is The Great Desert Tied To A Realm?
 
 The Great Desert can be interpreted in different ways, for various sagas, or to suit stories in a single saga. Troupes are encouraged to look through these
 
-### *Symbols of The Two Forces*
+### Symbols of The Two Forces
 
 The two forces have had various names. The Egyptians called the realm of the creative force the Black Land, and the realm of the destructive force the Red Land. Some spirits in the service of each side proclaim their loyalties with these colors. This detail, which has entered folklore, is copied by faeries. Many little details in faerie stories repeat the opposition of black and red: rival armies of ants, the chess pieces, and the clothes of feuding warlords each divide into black and red.
 
@@ -3563,13 +3563,13 @@ Red Black Desert River Mountain Oasis Sand Soil Chaos Order Foreigners Africans 
 
 The Set-beast The Horus-beast
 
-### *A Traditional Way of Killing Ghouls*
+### A Traditional Way of Killing Ghouls
 
 One traditional way of killing a ghoul that is troubling you is to flee to your house. Ghouls almost always taunt you for the first few nights, or let you get away with being partially eaten. Some offer to spare you for a night if you put a finger through the keyhole so they can suck blood from it, or bite it off. The next day, dig a grain storage pit behind your door.
 
 When the ghoul returns, taunt the creature to frenzy. Let it bash down the door and rush at you. It then falls into the hole, which you rapidly fill with firewood. Roast the ghoul, then fill in the hole. Even ghouls do this when they want to kill other ghouls. It is also a folkloristic way of killing lions.
 
-### *Aisha Qandisha*
+### Aisha Qandisha
 
 Aisha Qandisha is not designed as a player character. She is an ancient creature of sterility and temptation.
 
@@ -3623,7 +3623,7 @@ points, Init –2, Imaginem: A personal version of *Veil of Invisibility*, as pe
 
 ideas and use each as it suits the stories they wish to tell.
 
-### *Magical Interpretation: Two Great Spirits*
+### Magical Interpretation: Two Great Spirits
 
 Africa is the battleground between two great Magical spirits. These beings are so vast that magic is unable to affect them, and they cannot directly communicate with humans in any useful way. Each generates representatives and tools which it uses in the struggle against its opposite. These great spirits and their servants may interact with magi. Some servants may become familiars, drawing their magi into the war.
 
@@ -3652,7 +3652,7 @@ If the Hope suddenly becomes more powerful, rainfall in North Africa increases. 
 
 The Red and Black have powerful spirits as lieutenants, and player characters who seek them out may be Initiated into Mysteries that draw on the power of each side to harm the other. Red Initiations, like desiccation, are found in the following chapter of this book.
 
-### *Faerie Interpretation: The Land of Ghouls*
+### Faerie Interpretation: The Land of Ghouls
 
 In this interpretation, the edges of the Great Desert are guarded by spirits, who claim there is a vast kingdom of ghouls hidden within the miles of gravel and sand. Ghouls are generally evil, and crave the taste of human flesh. Occasionally they can be kind. There are recorded examples of girls rescued from ghoulish husbands sneaking away to return to the Kingdom of the Ghouls. There is a woman who lives there, to this day, with seven ghoulish brothers. She fled marriage with a sultan to return to her monstrous husband.
 
@@ -3662,7 +3662,7 @@ Folklore calls the Land of the Ghouls a kingdom, but the king never appears. He,
 
 The treasury of the ghouls is a cave that opens, if asked to in the name of a mysterious person. Characters stealthy enough to avoid the ghouls, remembering their extra-ordinary sense of smell, may hide and overhear the name when guards command the vault to open. This name may be an Arcane Connection to the Ghoul King, or to the creator of his vaults.
 
-### *Infernal Interpretation: The Punishment of God*
+### Infernal Interpretation: The Punishment of God
 
 In the beginning the world was a paradise, a garden, and all men lived off its plenty. Then Man invented deceit. When the first lie was told, God was deeply affronted, and forbade lying. He said to the men "You must not lie; every time you do I will punish you by throwing a grain of sand from the sky onto the Earth."
 
@@ -3670,7 +3670,7 @@ And men, who were foolish, said "What harm could that do? You can barely see a g
 
 The Great Desert, in this interpretation, has an Infernal aura of 2, but it is higher where people have hidden in the desert to commit crimes. Demons dance across the boiling sands of the desert, which is, in parts, almost like the Fiery Pit. Entrances to Hell are found in the mountains, and Infernal craftsmen make weapons for the war at the end of time at the Hoggar Mountains.
 
-### *High Fantasy Interpretation: The Crack Between the Worlds*
+### High Fantasy Interpretation: The Crack Between the Worlds
 
 The caravans that come out of the desert, in this version of Mythic Europe, do not come from a far-southern kingdom, but from other worlds, through portals deep within the desert itself.
 
@@ -3687,11 +3687,11 @@ In this variant, the Hope and the Hunger have been competing not only on this wo
 
 In this variant, the caravans come from deep in the Magical Realm, far beyond where magi normally go. They may be spirits, or the way the Realm is cleaned of material detritus left by travelers. Magi who follow the caravans go into the Twilight Void, and perhaps beyond, but never return to speak of what they have seen.
 
-### *The Sources of the Nile*
+### The Sources of the Nile
 
 This section presents you with some options when designing your version of Mythic Africa. Each of the following choices provides different plot hooks and saga ideas, suiting different styles of play.
 
-### *Actual Geography: Oasis Stories*
+### Actual Geography: Oasis Stories
 
 In the real world, the Nile rises in central Africa, and has little influence on the region this book considers. South of the Great Desert is a fertile band called the Sahel, which means "shore," and it is fed in the west by two large rivers, the Senegal and the Niger. This area is called the *Bilad-es-Sudan*, "Land of the Blacks" by Arabs, but has a mixture of Sudanese, Berber and Arab inhabitants. The kingdoms in this area are small and war-tossed. If your game's history follows real history for the region, they are struggling through the period between the fall of the Empire of Ghana in 1204, and the foundation, in about 1240, of the Empire of Mali.
 
@@ -3728,7 +3728,7 @@ Zerzura was built with obvious Egyptian influences. All of the people in Zerzura
 
 Why the Kushites are sleeping, and what will wake them, is not recorded. No Hermetic magus has yet heard this story, but once it circulates, many Seekers will wish to find this outpost of Pharaonic civilization.
 
-### *Fantastic Geography: Stories for the Nile of the Blacks*
+### Fantastic Geography: Stories for the Nile of the Blacks
 
 Many Medieval Arabic geographers believe that the Nile rises in the Atlas Mountains and heads south across the Great Desert. There it intersects the Nil-es-Sudan, which roughly follows the path of the real-world Senegal, the Niger, and a few other rivers all joined together. The Nile then turns east. It splits in two, creating a vast island. It then rejoins. After it crosses almost all of the Continent, it turns north. At this point it is joined by water from southern Africa, even, according to some geographers from the Mountains of the Moon, which are debatably on the other side of the unlivable region close to the Equator. The Nile then flows through Nubia and Egypt. Troupes should consider this version of the Nile if a high fantasy game appeals, or if they have character concepts or covenant designs which are better suited to a permeable Great Desert.
 
@@ -3779,17 +3779,17 @@ Arabic geographers insist there is a kingdom on the Western Nile where a perfect
 Another kingdom in the Western Nile has a strange ritual for selecting kings. Notable men of each area form a semicircle around the mouth of a cave, which is decked in treasures and bright cloths. A dragon with the body of a serpent, the head of a camel, and the mane of a lion crawls forth, and after surveying the men, pokes one on the chin with its nose, then turns back to slither into its home. The selected king must swiftly run up to the creature and pull a handful of hairs out if its mane or tail. The number of hairs accurately predicts how many years the king will rule. This is represented by the Death Prophecy Virtue, although some few kings do not actually die at the conclusion of their reigns. A player character with the right magic items could pin the dragon down and shave it bare. Do the locals accept this king? Can the dragon retaliate?
 
 
-### *Chapter Four*
+### Chapter Four
 
-## *The Realms of North Africa*
+## The Realms of North Africa
 
 All four of the supernatural realms have an important presence in Mythic Africa, and they create many stories.
 
-### *The Magic*
+### The Magic
 
 The Imazighen have a rich tradition of magic thanks to a late — and incomplete — penetration of Islam into Berber communities. In Arab folktales, the archetypal "evil wizard" is usually a Berber; ironically the most common stereotype in such tales is a Berber marabout or holy man (see later). Berber wonder-workers also include tattooists who use traditional symbols to invoke luck and health, and a witch-cult that serves a goddess with an ambivalent attitude towards mankind.
 
-### *The Winds of the Desert*
+### The Winds of the Desert
 
 The old tribes of the Maghreb worshipped nature and the various spirits which resided in the many sacred sites. Most of these spirits have faded away with the coming of Islam and the Divine, but one sort of Magical spirit has persisted, thanks to their wandering nature and their freedom from connection to any one unspoiled locale. These Magical spirits of the desert winds comprise a collection of eclectic and capricious entities who consider the region their home and demense, no matter what beliefs the men there espouse.
 
@@ -3816,7 +3816,7 @@ Finally, the **Sirocco** is the hot, dustbearing wind that comes from the southe
 
 All of these winds roam, visiting the Levant or the Mythic East, occasionally conferring with peers in Iberia, Provence, or the distant North, learning the events of the world. When they gather to discuss matters of Africa, it is in the Kaf Ajnoun, the Hall of Spirits in the Fezzan, near the Tasili n Ajjer. Rising out of the sands, this high rocky mountain, with its citadel-like silhouette, is shunned by the locals for its high temperatures, lack of nearby wadis,
 
-### *Sirocco, the Howling Thirst of the Maghreb*
+### Sirocco, the Howling Thirst of the Maghreb
 
 *At first, I thought him just another Tuareg warrior sharing the oasis. Then he looked up at us. Never before had I observed a glance of such ferocious intensity; the air grew noticeably warmer, our guide cried out and stammered about tending to the camels. Even my veteran turb flinched, and this alone was enough to tell me the significance of the creature before me.*
 
@@ -3871,7 +3871,7 @@ All of these winds roam, visiting the Levant or the Mythic East, occasionally co
 
 and treacherous slopes. It has a Magic aura of 7, and a regio on its summit contains a sumptuous palace where the Wind Spirits are attended by smaller zephyr spirits. In its halls, they discuss the state of the desert and the peoples, and what role, if any, they may choose to take in current or impending events. Most recently, they have discussed the Crusade in Damietta, and how they should respond if the conflict spreads west. Other debated topics have included the pirates of the Maghreb, the Romans and Garamantians, and the numerous caravans crossing the Great Desert. They favor actions and individuals that they believe keep the Great Desert a dangerous and wild place. Jinn come here to meet with the Winds, to trade slaves, trinkets, and vis. The Tuareg say the lights and drums of their celebrations can be seen and heard for leagues.
 
-### *Cult of the Sun and Moon*
+### Cult of the Sun and Moon
 
 In antiquity, the widespread worship of the Sun and Moon resulted in many small shrines being established throughout the Tell. Although the shrines were modest, this devotion was fanatical, recorded time and again by historians as an essential part of Ancient Libyan culture across the northern coast. Animal sacrifice was common. In some places, this Sun god was Sol Invictus, but in most, it was the goddess Tafuyt and the Moon was the god Ayyur. These beliefs persisted into the Christian era, with St. Augustine and Samuel the Confessor both reporting attempts by devoted local pagans to force them to sacrifice to the Sun Goddess. As part of the legacy of this, any non-Divine supernatural powers are commonly associated with the sun if practiced by a man, or the moon if by a woman. Berber magicians very often have the Cyclic Magic Virtue and/ or Flaw associated with the appropriate planetary body.
 
@@ -3879,7 +3879,7 @@ Sun magicians are known to Berbers under the general name of *imhergi* (singular
 
 Female magicians amongst the Berbers are called *settuten* (singular *settut*) regardless of the magic they employ. The settuten are priestesses of the First Mother of the World, who created the world, but also all the evil that plagues mankind. Their magic was taught them by Ayyur, god of the moon and of sacrifices. Moon Magic is visceral and passionate; it is often destructive, or uses destructive powers for constructive purposes.
 
-### *The Cult of the Dead*
+### The Cult of the Dead
 
 For the Berbers, ancestors remain an active aspect of their culture, even in death. They maintain a cult of interaction and communication with their predecessors, calling on them to help guide the present by seeing the future from beyond the grave.
 
@@ -3889,7 +3889,7 @@ Berber elders and marabouts use dreams to communicate with their honored dead, e
 
 To better receive the ancestor spirits' dream guidance, Berbers constructed special niches within their pyramid
 
-### *The Tomb of Tin Hinan*
+### The Tomb of Tin Hinan
 
 Set into the mountainside in Tilfilalt, the tomb is ten days south of Fes. The Ahaggar Mountains surrounding the tomb have spiritual significance to the settuten, since they are the center of the Great Desert, and may be the haunt of Lazz, "the Great Hunger." The Tuareg tribes take turns enjoying the honor of guarding the tomb and fanatically defend it from outsiders, although they do not halt settuten, regardless of their origin.
 
@@ -3899,7 +3899,7 @@ tomb complexes in which to sleep and receive their advice. Called "dream houses,
 
 The largest complex of these tombs sits atop two hills in Mauretania, where
 
-### *Tin Hinan the Shade*
+### Tin Hinan the Shade
 
 **Magic Might:** 35 (Me)
 
@@ -3957,7 +3957,7 @@ The one of the most famous tombs is Abalessa, the resting place of Tin Hinan, Qu
 
 Tin Hinan was unable to abandon her people even at her death, and her shade is bound to the desert. She answers petitions from the Brides of Ayyur and shares what information she can with them. Her overwhelming goal is to aid and protect the Imazighen, and so she remains until the tribes no longer seek her out.
 
-### *Tattoo Magicians*
+### Tattoo Magicians
 
 Most *imhergi* are drawn from a variety of learned magicians similar to Cunning Folk (*Hedge Magic Revised Edition*, page 101). Among Berber women are the *ngagef* (singular *neggafa*), cosmeticians who specialize in this type of sun magic despite being women.
 
@@ -3969,7 +3969,7 @@ Rather than verbal charms, imhergi and ngagef draw temporary tattoos called *taw
 
 a permanent tattoo (called an *ahadjam*) or inscription which is activated once it is uncovered. Once exposed it continues to work until all charges have gone or the duration expires, at which point it fades. An amherg uses Craft: Tattoo rather than Artes Liberales in his Lab Totals, and can benefit from Design & Inscription Bonuses (see Insert) when creating chartae and amulets.
 
-### *The Settuten*
+### The Settuten
 
 The *settuten* ("witches," singular *settut*) are primarily a specific tradition of Berber and Tuareg sorceresses, although any female practitioner of magic is called settut whether she is a member of this tradition or not. Most (but not all) have The Gift, forcing them to live apart from their tribes. The tradition is almost exclusively female; those few men who have become settut act and are treated as women in all respects. Settuten proclaim their status by wearing indigo shawls embroidered with moons and other symbols, and painting their lips and lining their eyes with blue makeup. When appearing an official capacity — attending a client, meeting with peers, or officiating at a ceremony — they stain their foreheads with yellow ochre and saffron.
 
@@ -4024,7 +4024,7 @@ Design & Inscription bonuses are used like Shape & Material bonuses to increase 
 
 their hounding of one while he remains in Berber lands.
 
-### *Settut Characters*
+### Settut Characters
 
 A settut may be Gifted or unGifted. If Gifted, the character usually takes the place of a player's magus character, whereas unGifted members are companion characters. Berber settuten are a Hedge Tradition that has Dissolution, Disjunction, Dismissal, Dissidence, and Magic Sensitivity as its Favored Abilities. Tuareg settuten have Dissolution, Dislocation, Dismissal, Dismay, and Magic Sensitivity as their Favored Abilities instead. Gifted Settuten do not have to subtract their total score in their Favored Abilities from the source quality to learn other Favored Abilities (*Hedge Magic Revised Edition*, page 9).
 
@@ -4039,7 +4039,7 @@ Warped Magic, Weak Magic, Weird Magic. Other Hermetic Virtues and Flaws may also
 
 Settuten must have a trade to support themselves; they often dispense both advice and health care to nearby villages, and act as exorcist, midwife, physician, and apothecary. Settuten may have the Herbalism Virtue (*Art & Academe*, page 55) to cover their folk medicine. This trade usually occupies two seasons each year, and settuten normally gain 15 experience points per year. All settuten require a Craft: Iharzen Ability to create the amulets that drive their magic, and usually have scores in Penetration, Finesse, Organization Lore: Settuten, Chirurgy, and a Profession Ability. They may take General and Arcane Abilities at character creation, but not Academic or Martial Abilities unless they possess a Virtue permitting such Abilities.
 
-### *New Virtues and Flaws*
+### New Virtues and Flaws
 
 Accelerated Abilities were introduced in *Houses of Hermes: Societates*; they advance in the same way as Arts, but are otherwise treated as Abilities in all respects.
 
@@ -4098,16 +4098,16 @@ This variant of the Skinchanger Virtue (**ArM5**, page 48) allows the character 
 
 This Virtue can be taken by nonsettuten characters.
 
-### *Settut Magic*
+### Settut Magic
 
 The magic of the settuten revolves around the Supernatural Abilities of Disjunction, Dislocation, Dismay, Dismissal, Dissidence, and Dissolution (Magic Sensitivity does not require amulets, but operates as described in **ArM5**, page 66). Using these Abilities requires the creation of amulets (called *iharzen* in Tamazight, singular *iharz*); these are usually made of fired clay, but some are made of other materials such as leather, metal, or even salt dough. An iharz is impressed with symbols from Berber mythology, allowing anyone with the appropriate Ability to recognize their purpose. There are two types of amulet, Greater and Lesser.
 
 
-### *Settuten and Vis*
+### Settuten and Vis
 
 Settuten are able to find and identify vis using Magic Sensitivity. They can use it to enhance their Casting Totals, gaining a +1 bonus for every pawn used, and can use a number of pawns at a time equal to the Supernatural Ability used. They also require vis for making Greater Amulets. They categorize vis according to their own magical paradigm. They favor Perdo and Vim vis, as these varieties can be used in any of their magic. They can also use Mentem vis for Dissidence and Dismay, Rego vis for Dismissal and Dislocation, any of the elemental Forms for Dissolution, and Intellego for Magic Sensitivity. They can detect other types of vis for what it is, but cannot use it in their magic.
 
-### *Studying Settut Magic*
+### Studying Settut Magic
 
 Experience points applied to the settut's magical Abilities usually comes from Practice; Gifted settuten can also study from vis. Settuten who hound Solomonic sorcerers from Berber lands or exorcise hostile spirits can also earn story experience. Rarely, a settut will agree to teach another in exchange for vis or Greater Amulets.
 
@@ -4125,7 +4125,7 @@ Each batch of Greater Amulets has a Potency, which is used to calculate a Castin
 
 
 
-### *Durations Available to Settuten*
+### Durations Available to Settuten
 
 The default Duration is Lunar Day. A settut can extend this duration by accepting a modifier to the Ease Factor. Other spell parameters (such as Range and Target) cannot be changed unless specified in the description of the Ability
 
@@ -4277,7 +4277,7 @@ Dissidence affects just one individual, although settuten often affect both part
 |-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 18                | Affect a casual<br>relationship, such                                                                                                                             |
 
-#### *Between Sand & Sea*
+#### Between Sand & Sea
 
 as between a mer
 
@@ -4355,7 +4355,7 @@ If the settut desires precise Dissolution (such as carving a statue with this po
 
 This is a variant of the Virtue found in Chapter Seven of *The Mysteries Revised Edition*. More information can be found
 
-### *Ceremonial Bonuses for Divination*
+### Ceremonial Bonuses for Divination
 
 Only those divination methods commonly used by settuten are listed here; see *The Mysteries Revised Edition* page 61 for more options.
 
@@ -4391,7 +4391,7 @@ Ceremonial Divination takes 15 minutes per magnitude of the spell being duplicat
 
 **PENETRATION TOTAL: Casting Total – Ease Factor + Penetration Bonus**
 
-### *Dispelling Magic*
+### Dispelling Magic
 
 Unlike other magical traditions, the settuten lack passive Magic Defenses. Instead, they avert hostile magic (from any Realm) through the active dispelling of incoming spells. Dispelling calls upon the settut's tradition's Supernatural Abilities through a durable talisman called a *jedwel* made out of metal or stone; these *jedwel* are commonly worn on a headband on top of the settut's shawl, and she loses the ability to dispel the corresponding type of magic if she no longer carries the *jedwel* (although the ability is not transferred to anyone who wears it instead). She can create a replacement *jedwel* in a few days if the appropriate materials are available.
 
@@ -4439,7 +4439,7 @@ Each jedwel is tied to a particular Supernatural Ability of the settuten, and ca
 
 *Disjunction*: The Snake made in silver or white enamel. This jedwel acts differently to the other four varieties, in that it can dispel preexisting magic of any type. It cannot be used to counter magic as it is being cast, and so does not require a roll for Dispelling Speed, but instead takes place in the settut's usual turn. The settut must be able to touch the target of the spell, and this dispelling method is usually used to break curses rather than used on a creature under the influence of beneficial magic. The Ease Factor for a Disjunction Jedwel Total is halved if the settut created the effect herself.
 
-### *Warping and the Tamzawit Curse*
+### Warping and the Tamzawit Curse
 
 A settut gains Warping points through the usual methods, although she does not take Warping points from living within a strong Magic aura, as normal for characters with Magic abilities. However,a settut does not suffer the same effects of Warping as regular folk. Instead she suffers a unique form of curse, causing her body to dissolve into a whirling column of sand and wind called a *tamzawit*. Berbers believe that all sandstorms and dust-devils are the ghosts of witches, and they might not be far from the truth. Old settuten with a high Warping Score become immense storms incapable of returning to human
 
@@ -4454,7 +4454,7 @@ After a lunar month as a tamzawit, a settut can try to end the curse. She makes 
 
 > **EASE FACTOR: 6 + Warping Score**
 
-#### **EFFECTS OF THE** *TAMZAWIT* **CURSE**
+#### **EFFECTS OF THE** TAMZAWIT **CURSE**
 
 When a settut recovers from the curse, she gains some kind of a mark from the experience. If she took more months to recover than her (new) Warping score, then the experience is bad, and she suffers one of these effects:
 
@@ -4470,7 +4470,7 @@ If she spent equal or fewer months than her Warping score under the Tamzawit Cur
 
 **New Mystical Virtue**: The settut gains a Minor Virtue.
 
-### *Settut Culture*
+### Settut Culture
 
 The settuten are an integral part of Imazighen culture, a situation that is alien to magi of the Order of Hermes, but which is familiar to the Order of Solomon further east. They often use their magical powers on behalf of their community; although if treated badly, a disgruntled settut can be a true curse. Gifted settuten live apart from towns and villages, often within an ancient tomb or that of a local marabout. The unGifted settuten are not forced by circumstance to separate themselves in this manner, but often do; either way the settuten do not marry, which is mildly scandalous within Berber society. They typically use herbal remedies to avoid pregnancy in emulation of their sterile goddess. When not using their magic, they teach women how to read and write, or act as healers, bone-setters and apothecaries. Some settuten (usually the unGifted ones) become prostitutes as a quick route to wealth.
 
@@ -4478,7 +4478,7 @@ The advice of the local settut is sometimes sought, most often by the *tala* (th
 
 The *Tisliten n Ayyur* have irregular meetings between local practitioners; there is also a grand convocation held every nineteen years. When attending
 
-### *A Note on Tuareg Males with Settut Powers*
+### A Note on Tuareg Males with Settut Powers
 
 As Tuareg settuten lack the Disjunction power of their cousins, Gifted Tuareg boys cannot be magically neutralized as easily. If discovered early such children are either raised as girls and inducted as settut, growing up with the Transvestite Flaw, sold as slaves to northern traders, or abandoned in the southern deserts in the hope they will be adopted by the Faerie jnun of the Kel Asouf or die of exposure. Some of these abandoned males are found and assimilated by the Blue Men, accepted by the outcast *inenden,* or perhaps even adopted by wandering sahir and Hermetic magi as apprentices.
 
@@ -4503,7 +4503,7 @@ When Taurgi bands meet, they may trade their settut with another band that has n
 
 Tuareg settuten do not hold local convocations. Whenever bands meet, their settuten share any information they have gleaned with their sisters, but that is as much social structure that they have. However, Tuareg settuten do attend the grand convocation, where they form an exotic spectacle, keeping themselves aloof from the other magicians and sneering at the lesser humans. Settuten who prefer the raider lifestyle rarely attend the regular convocations for fear of being accused of being *asehharen* (sahir). They deign only to speak with the *tineqiqqiten*, and only then in their own dialect of Tamazight. Distrustful of Berber 'witchcraft', they must nevertheless accept a Disjunction effect or be refused attendance.
 
-### *Entrancement and Induction*
+### Entrancement and Induction
 
 Entrancement and Induction appear similar, because they have a similar scale of Ease factors, but they differ in practice. Entrancement takes control of a character's will, and dictates their actions, but does not affect what they believe or experience. Induction causes a character to sense things which are not real, and may convince them of things which are not true, but does not force them to act.
 
@@ -4538,17 +4538,17 @@ The Daughters, when they appear in stories, seem to be highly educated, indeed t
 
 The Daughters are extremely interested in each others' welfare. The flocking instinct of the daughters takes their sociability beyond even that normal in the Maghreb, so that they almost always live in groups.
 
-### *Minor Magical Traditions*
+### Minor Magical Traditions
 
 There are many minor magical groups whose members are found in the Maghreb.
 
-### *The Daughters of Four Fathers*
+### The Daughters of Four Fathers
 
 This group of shapeshifters claim they all descend from a single mother. The origin story they tell is that there were four four friends were traveling on a long journey, and missing the company of women. The carpenter, who had the first watch, made a perfect model of a woman from wood. The tailor, who took the second watch, clothed it in a beautiful raiment. The magician, who had the third watch, gave it life. They always stop the story before they say what the thief did.
 
 Each daughter can take the shape of a dove at will. While in dove form a daughter can communicate by having one feather fly free, act as a quill, then rejoin her body. They are keen observers, have great wisdom, and are highly educated. Each is, in human form, supernaturally beautiful.
 
-### *Inducers*
+### Inducers
 
 Scholars in the Maghreb say that there are three types of magicians. The least powerful are those who cannot change the material world, but instead work upon the mind of a victim, to make it seem that they have. These are not illusionists in the Hermetic sense, because they do not manipulate species. A Hermetic magus creating the illusion of a diamond necklace generally creates something everyone can see. The diamond necklace created by an inducer can only be seen by the victim: even the inducer cannot see it.
 
@@ -4587,13 +4587,13 @@ This value can be reduced by 1 by each of the following factors: choose no more 
 - Illusion includes brush off (character in illusion returns character home, character falls asleep inside illusion and wakes up in bed)
 - No lost time (character in illusion explains it is all happening in
 
-#### *Between Sand & Sea*
+#### Between Sand & Sea
 
 - one night, no servants notice the character gone)
 - Real world effects (character's actions in illusion seem to have altered the real world in verifiable ways)
 - Follow up (the character has been convinced previous illusions were real, and this one is part of that larger story).
 
-### *Potteresses*
+### Potteresses
 
 There are several traditions of magical potteresses in Africa. This section deals with the weaker lineages of potteresses. Many have traditions concerning the gathering of clay. Some sacrifice chickens or rice before collecting their raw materials. Others will not gather clay on a Monday or Friday. Others have traditions concerning the use of clay. Most make pots by pressing clay over forms, and in some tribes the forms must be made by men whose first wives have died. A form made by a man whose wife has not died will curse, and even kill, a potteress who uses it.
 
@@ -4628,7 +4628,7 @@ Leather work and pottery are, in many sense, twinned arts in Desert Africa. Leat
 
 The highest calling is of the leather worker's art is the making of saddlery. Saddles often improve Ride rolls. Many bridles improve the stamina and pest resistance of the horse, by boosting its Athletics. Many halters and hobbles improve the Craft: Groom skill. North African tack has many more tassels than its European equivalents, and bridles often include a headband that crosses above the eyes. These keep away flies, but are often also enchanted with various effects to protect or empower the horse, or its rider.
 
-### *Rippers*
+### Rippers
 
 This type of minor magician is found in greatest concentration in the area around Tunis, although they have been reported as a far away as the Muslim settlements in Iberia and Sicily. A ripper's powers are very limited. He can cause things to tear open using his mind. This power does not work on people, so most rippers make a living as standover men in the markets of the large cities. Each cloth or livestock merchant pays the ripper a little, on a regular basis, and in exchange he does not destroy their cloth, or tear open the bellies of their beasts.
 
@@ -4652,7 +4652,7 @@ get one object per Fatigue level spent. This is a PeAn(He) 25 effect with +0 Pen
 
 This type of ripper cannot affect any fabric except leather, and cannot eviscerate animals. His advantage is that a single fatigue level allows him to destroy a group of leather objects. This causes metal armor to fall away, as the strips holding it together disintegrate. It destroys the tack of a horseman, forcing a Ride roll, with penalties of up to –9 depending on how dangerous his current maneuvers are. It can destroy the scabbard, belt and boots of a foe, allowing the ripper to flee or attack. This is a PeAn(He) 30 effect with +0 Penetration.
 
-### *Geomancers*
+### Geomancers
 
 Geomancy, known in Arabic as *ilm al-raml*, or the "science of the sand" is a divinatory practice based on repeatedly and seemingly randomly inscribing a series of marks in sand or earth. One Muslim legend states that the angel Jibril (Gabriel) taught the art to Idris, who began the tradition in pre-Islamic times. Another account ascribes this form of divination to an apocryphal eastern figure, Tumtum al-Hindi, who wrote a book on geomancy passed down through the ages by pre-Islamic prophets until it passed into the hands of one Khalaf al-Barbar of Medina, who became an early convert to Islam. The practice remains popular with the Tuareg, the semi-literate Arabic and Berber hedge magicians of the Maghreb, and with some lineages of Andalusian Ex-Miscellanea magi. It is thought to be less refined and sophisticated than astrology by most Hermetic magi and generally considered beneath the notice of more academic hedge wizard traditions.
 
@@ -4785,7 +4785,7 @@ The lesser geomantic question is designed exactly like a Hermetic spell. The Cas
 
 The character is particularly skilled with diving using geomantic techniques. The character receives 50 experience points that can be put into Divination (geomancy), Dowsing, Geomancy, (Realm) Lore, Profession: Soothsayer and Wilderness Sense. This Virtue does not grant any Supernatural Abilities; these must be purchased separately.
 
-### *The Inenden*
+### The Inenden
 
 This lower caste of craftsmen-pariahs exist outside the usual Tuareg "drum group" social structure and speak their own dialect of Tamazight called Tenet. Commonly feared as magicians unaligned to either the Sun or Moon magic of the northern Berbers, they suffer from the Outcast Flaw. Although unGifted, many inenden have the Offensive to Animals or Magical Air Flaws and suffer social penalties like other wizards. Their role superficially resembles that of the *bouda* of Morocco detailed below, but they lack shapeshifting powers.
 
@@ -4797,7 +4797,7 @@ The exceptional mundane items that these crafters make come in two types. The mo
 
 Some possess additional crafting powers represented by the Mythic Saddle-Maker (also Mythic Blacksmith, Mythic Woodcarver or Mythic Jeweler) Virtue limited to use with one Craft Ability as detailed later. Rare inenden possess the Major Virtue Touched by (Realm) (usually Magic but sometimes Infernal) and can create items using any Craft Ability they possess. These magical crafters
 
-### *Greater Inenden Craft Magic*
+### Greater Inenden Craft Magic
 
 Rare Gifted ineden may exist and possess more advanced magic at the troupe's discretion. Relying on amulets created from leather and metal work, rather than the henna based tattoos of their northern Berber equivalents, the *imerghi*, they may be similarly modeled using the mechanics for Cunning Folk presented in *Hedge Magic Revised Edition*. Unlike their European counterparts, they cannot use spoken charms (equivalent to the Flaws Laboratory Magician and No Text Casting), but may have skill in Mythic Herbalism.
 
@@ -4827,7 +4827,7 @@ The character may craft wooden saddles and other wooden items with magical effec
 
 To calculate the Craft Total, add the controlling characteristic to the Craft: Woodcarver Ability. As this field of work requires wit as well as deftness of hand, either Intelligence or Dexterity may be used; this is a permanent choice that must be made at character creation. This ability is most often aligned to the Magic or Faerie realm, but an In-
 
-### *Merin ag Gwafa, the Inenden Saddle-Maker*
+### Merin ag Gwafa, the Inenden Saddle-Maker
 
 This example Tuareg craft magician is designed as a Companion level character and balanced for use in play as a starting character. Deathly afraid of the spirits of the desert, Merin trades many of his wares for trinkets designed to ward off magic, although many of his supposed charms are in fact useless. His minor craft magic is aligned to the Magic realm. He uses his hedge magic abilities to create individualized saddles that impart a +3 bonus to ride skills or a score of Ride 8 (camels), or carry minor Animal aligned enchantments that calm a distempered animal, help a beast to go without water for a longer period or allow the mount to cross the shifting sands at greater speed. His wares are valuable to the nobles he serves but his pariah status prevents his permanent acceptance into a drum group for protection, forcing him to wander the Ahaggar.
 
@@ -4911,7 +4911,7 @@ The character can innately tell the quality of a manufactured item. If the item 
 
 This Virtue is identical to the Eye of Hephaestus Virtue presented in *City & Guild*, page 71.
 
-### *Wondrous Items*
+### Wondrous Items
 
 Magic abounds in Africa, and has left its mark in the blood of some craftsmen. Certain such individuals can instill minor magical enchantments into their creations. These items are called "wondrous" by their crafters and the buying public; Hermetic magi find this title grandiose. This magic-work is not Hermetic magic, although many of the resulting effects can be easily mirrored by minor formulaic spells.
 
@@ -4926,7 +4926,7 @@ Wondrous items are made for a specific customer. A blacksmith does not have a co
 It takes a least one season to create a wondrous item, during which a character cannot perform any other seasonal activities, although he can work alongside his staff while they are engaged in the regular operations of the workshop. He may be assisted by one helper for every two points he has in his Leadership score. The assistant need only have a score in the specific Craft Ability. The process begins
 
 
-### *The Hunger and the Dessicated Men*
+### The Hunger and the Dessicated Men
 
 Deep within the Tanezrouft, the "Land of Thirst," wander the Dessicated Men, a darker variant of the Blue Men. Variants of the Drowned Men presented in *Realms of Power: Magic* (see pages 96–97 for details), these Transformed Humans are created from Tuareg on the brink of death from thirst, heat and exposure. At the point of death, a magical pact is forged with the desert Daimon known as the Hunger or the Red and the nomad is brought back in a semblance of unlife as a servant of the greater spirit.
 
@@ -4954,7 +4954,7 @@ Wondrous items have verbal triggers to activate their power. The bearer touches 
 
 triggered by saying a small prayer, Infernal wondrous items by an unholy name, Faerie wondrous items by a quick song or pagan prayer, and Magic wondrous items by a special phrase or arcane word.
 
-### *The Blue Men of the Desert*
+### The Blue Men of the Desert
 
 Some of the Tuareg nomads who roam the deep desert are Warped over time by repeated exposure to the powerful Magic auras of the deep desert and the constant wearing of their enchanted *litham* veils, acquiring new Virtues and Flaws and ultimately transforming into a type of Magic Human known as the Blue Men. Nominally aligned to the great spirit known as the Black, these wanderers act as guardians against the more malevolent magical creatures that rise from the deepest deserts or cross through the thin boundaries between the mundane and Supernatural realms in such places.
 
@@ -4964,7 +4964,7 @@ There appear to be naturally born lesser Blue Men found in the deep desert who a
 
 **Inherited Virtues:** Dislocation, Geomancy, Greater Immunity: Deprivation, Lesser Geomancy, Lesser Immunity: Thirst, Personal Power: *Aura of Rightful Authority*, Desert Regio Network, Skinchanger (waral lizard), Ways of the Desert, Voice of the Desert.
 
-### *Story Seed: Predators and Prey Alike*
+### Story Seed: Predators and Prey Alike
 
 A pack of *bouda* has begun hunting the local countryside and acquired a taste for the covenfolk of the magi. Will the magi discover the source of these killings and obliterate the *bouda* or bind them to their service? What happens if the *bouda* manage to infiltrate the covenant and start hunting from the inside? If the *bouda* do serve the magi, will their new masters satisfy the shapeshifters' hunger for human flesh with slaves or make true scavengers out of them?
 
@@ -4974,11 +4974,11 @@ A pack of *bouda* has begun hunting the local countryside and acquired a taste f
 
 Blue Men characters with Magic Might should be created using the rules presented in *Realms of Power: Magic,*  Chapter 4.
 
-### *The Shapeshifters of the Maghreb*
+### The Shapeshifters of the Maghreb
 
 There are numerous kinds of hyena shapechangers in the Maghreb: a magical kin, a faerie, and a folk witch tradition.
 
-### *The Magical Bouda*
+### The Magical Bouda
 
 Shapeshifting hyena-men who delight in preying on children, the *bouda* are a magical kin aligned with Animal and Corpus magic (*Realms of Power:Magic*, page 89), blending into communities throughout the Maghreb and the Tell. They live and hunt with equal comfort in human or hyena form, but most of them only transform at night and return to human form with the dawn. Particularly potent *bouda* can take a hybrid man-hyena shape. Even while in hyena form, a *bouda* can speak with a human voice, using this ability to lure the unsuspecting into an ambush. Often running in packs led by women, *bouda* can terrorize an area with the constant threat of death for those traveling or working outside. Lovers attempting secret trysts often fall to their hunger.
 
@@ -5127,17 +5127,17 @@ While the *bouda* locks eyes, the target cannot run. The target may still use hi
 
 ReCo 5 (Base 2, +1 Eye, +1 Conc, +1 to affect both legs): Lesser Power (5 levels, –2 Might cost, +2 Init)
 
-### *The Plinian Races as Faeries*
+### The Plinian Races as Faeries
 
 Stories are told of the existence of the Plinian races, although they rarely fulfill any specific role in those stories other than as a wonder to behold. Nevertheless, a storyguide might prefer to use some or all of the monstrous races presented here as faeries rather than Magic Humans. This is a simple process, as most Magic Qualities have analogs amongst the Faerie Virtues. Faerie Powers are calculated the same way as Magic Powers. Faerie monstrous races will mostly be Incognizant of their status.
 
-### *Faerie Bouda*
+### Faerie Bouda
 
 In folklore, werehyenas have the following characteristics: larger than a normal size (Size +1 at least, Large), hairy and hunch-backed with hind legs shorter than forelimbs (Disfigure, Repellant and/or Hunchback) and glowing red eyes (Piercing Gaze).
 
 Many North African *jinn,* both Faerie and Infernal, have the ability to assume the form of a hyena and are often confused with magical *bouda*. Another form of the *bouda* is detailed below*,* a Dark Faerie creature found from Morocco to the Sudan that wears human shape during the day and reverts back to its hyena form at night. Although only narrowly cognizant, these Faerie *bouda* are intelligent and develop Pretenses to fit into the village societies they secretly plague, mimicking the magical *bouda*.
 
-### *Folk Witch Bouda*
+### Folk Witch Bouda
 
 Some human *bouda* of Morocco claim to belong to a legendary clan or tribe — their magic is believed to be passed down by their parents. Unlike the Folk Witches detailed in *Hedge Magic Revised Edition*, pages 33–54, these magicians are usually male (although their Gender Shift ability causes confusion) and have a more limited set of Favored Abilities aligned to the Faerie realm rather than the Magic realm. This is offset by en-
 
@@ -5153,20 +5153,20 @@ hanced control over their hyena form and gender, mind control powers, and either
 
 Human *bouda* accumulate Warping in the same manner as other hedge magicians, but as their Warping Score increases they transform slowly into an inhuman Faerie *bouda*, similar to the way a gruagach transforms into a troll (see *HMRE*, page 71–72). This replaces the usual Witch's Moon rules for this tradition.
 
-### *The Awful Truth About Anthropophagi*
+### The Awful Truth About Anthropophagi
 
 Anthropophagi share a Greater Malediction that prevents them from avoiding Acclimation through staying in a Magic aura; instead, they must conduct a ceremony at least once per year in which they eat human flesh. Without this ceremony, they lose a Magic Quality each year until they have none left and become an ordinary (if hideous) mortal. Some are fortunate enough to have a family member die, and they can partake in feasting on his body: one corpse can feed five individuals. Failing that, an anthropophagus has to take matters into his own hands to keep his family alive. Those who tire of the constant quest for human meat and allow themselves to succumb to Acclimation are usually the first to be preyed upon by their fellows. As a last resort, anthropophagi turn to nearby human settlements for their sustenance.
 
 A well-kept secret of the anthropophagi is that not all of them were born into the race. A human who partakes in the ceremony gains the Transformed Human Virtue balanced with the Greater Malediction Flaw. A village of anthropophagi sometimes spares a victim's life and share this secret, granting him continued immortality on the condition that he returns to his home and works to procure the sacred meal for them each year. A Transformed Human only gradually acquires the physical appearance of an anthropophagus: after partaking in five ceremonies he takes on the Disfigured Flaw to represent a degradation of his human features towards the horrid mien of an anthropophagus; after fifteen ceremonies he has become sufficiently monstrous that he must leave human society and take up residence with his new kin.
 
-### *The Monstrous Races of Africa*
+### The Monstrous Races of Africa
 
 Africa is home to numerous tribes of monstrous races. These were mentioned, along with similar races in India, by ancient historiographers like Ctesias, Megasthenes, and Pliny, and are sometimes referred to as the "Plinian races." In the main these peoples keep to themselves, living their lives much as their human neighbors do. On occasion they come into contact with humans, either through encounters in the wilderness, or because they visit towns to trade. While this is sufficiently uncommon to be a spectacle, knowledge of the existence and nature of these creatures is widespread, and they do not automatically provoke fear or hatred.
 
 In **Ars Magica Fifth Edition**, most of the Plinian monstrous races are Magic Humans (*Realms of Power: Magic*, Chapter 4). For sagas based in North Africa, they can be a curiosity born from the exotic
 
 
-### *Astomus Power*
+### Astomus Power
 
 **The Tongueless Voice** No cost, constant effect, Imaginem
 
@@ -5209,7 +5209,7 @@ Modified by his Magic Qualities, the weapon statistics for an anthropophagus's t
 
 **Magic Inferiorities**: Minor Flaw (Fragile Constitution), Minor Flaw
 
-### *Maritimus Power*
+### Maritimus Power
 
 **Double Sighted**
 
@@ -5222,7 +5222,7 @@ A maritimus can see distant things clearly. No matter how far away something is,
 InIm 30 (Base 3, +2 Sun, +4 Vision, +1 constant effect) Personal Power x2 (30 levels, –3 cost)
 
 
-### *Panotius Power*
+### Panotius Power
 
 **Auricular Flight**
 
@@ -5246,7 +5246,7 @@ The astomi have no mouth, but they have no need to breathe, eat, or drink. They 
 
 The blemmyae are a race of merchants who live mostly in the deserts of Libya, although there is a large tribe living in the upper reaches of the Nile. They make very little produce themselves, but
 
-### *Tripithamus Powers*
+### Tripithamus Powers
 
 **The Sun's Glance**
 
@@ -5280,7 +5280,7 @@ are consummate bargainers, and good at buying low and selling high. They lead ca
 
 Blemmyae have faces on their chests, lacking heads and necks. The shoulders of blemmyae are spaced wide apart, leaving their faces larger than those of a nor-
 
-### *Troglodyte Power*
+### Troglodyte Power
 
 **Eyes of the Bat**
 
@@ -5390,7 +5390,7 @@ Troglodyte tribes have been encountered by those clans of Berbers who dig caves 
 
 Troglodytes are thin and pale. They have tiny eyes that cannot tolerate bright light, but huge pink ears. They naturally go naked, but after encountering humans tend to adopt clothes traded with them, or else made from the animals that live in the cave depths; leather made from pale fish skins or mangy rat pelts, mostly. Troglodytes cannot speak; whether they have any capacity to learn speech is debatable, but none have ever heard them utter a single sound. They communicate with each other through touch and sign language, but this is unknown to humans and they use simple gestures to trade. Troglodytes are exceptionally fast, although humans usually only experience this as they flee from the light. They have a great hatred for snakes, and kill them wherever they find them.
 
-### *The Jnun*
+### The Jnun
 
 The jnun are an important class of supernatural creatures in Mythic Africa. While many of them are aligned with the Faerie realm, there are also many exceptions. The inhabitants of this region think more in terms of jnun than in terms of the supernatural realms to which these crea-
 
@@ -5399,14 +5399,14 @@ A secret brotherhood drawn from a select group of Tunisian fisherman commonly kn
 
 tures belong, which may cause confusion as magi try to learn about these beings.
 
-### *Jnun or Jnoun? – African Jinn and non-Jinn*
+### Jnun or Jnoun? – African Jinn and non-Jinn
 
 The terms *jnun*, *jnoun* and *jinn* are considered almost interchangeable, being just local dialect variations across the length of the Maghreb — the plural term *jnun*  is used more commonly the further west one travels, whereas *jnoun* is used in the lands once dominated by the Carthaginians and the purer usage of *jinn* is heard more often in Egypt or spoken by Arabic merchants visiting from the east.
 
 In mechanical terms, a *jinn* is a specific class of creature subject to the Art of Sihr and its legacy of command passed down from the wisdom of Suleiman. Although many *jnun* (and *jnoun*) are *jinn*, there are many exceptions, giving rise to tales of Libyan and Tunisian "jinn" being much more difficult to control than their eastern counterparts.
 
 
-### *Al-Maghrebi: the Dark Magicians of Morocco*
+### Al-Maghrebi: the Dark Magicians of Morocco
 
 Throughout the *Thousand Nights and One Nigh,* the motif of the evil Moroccan magician runs like a sinister thread linking together tales of foolish trusting youths transforming into wise heroes after falling foul of the wiles of Moorish enchanters. These Faerie wizards commonly have non-Arabic names, typically Berber but in some of the more western tales and retellings of the story a similar figure with magian origins and Persian features fills the role of the primary antagonist. Seemingly Zoroastrian versions of these faeries are referred to as al-Majusi.
 
@@ -5447,7 +5447,7 @@ Although Faerie creatures with many similarities to their land-dwelling jnun cou
 The Walad al-Ahmar ("sons of the Red") and the Walad al-Akhdar ("sons of the Black") are faerie creatures that live mainly amongst the people, albeit invisible or in the form of animals such as dogs, donkeys, camels, serpents, chickens, fish,
 
 
-### *Toaten (Ant-folk)*
+### Toaten (Ant-folk)
 
 **Magic Might:** 5 (Terram)
 
@@ -5502,7 +5502,7 @@ In the deep south of the desert dwell the nomadic Tuareg, thought by their Berbe
 
 The Kel Asouf are considered true jinn and can be affected by Sihr their links to eastern sahir are one of the reasons they are feared but respected by the Tuareg tribes, who resort to amulets and charms provided by their tribal settuten as protection.
 
-### *Lowhush — A Berber Bestiary*
+### Lowhush — A Berber Bestiary
 
 To the Berbers, a wasteland or *amadagh* represents the outskirts of the Otherworld, a Faerie tainted region characterized by reversal — rivers flow uphill, trees have roots that reach into the air, and sheep are black, with black milk. Although part underworld and land of the dead, an *amadagh* is above all a barren land, even if forested and is inhabited by dire threats and bestial dangers by definition. The *amadagh* is therefore where the *lowhush*  (Berber: "monsters," singular: *lwash*) are found, a collective term that encompasses dangerous mundane beasts, Magic spirits and monstrous Faeries.
 
@@ -5530,11 +5530,11 @@ This giant serpent has seven heads, resembling the hydra of Greek legends. A wat
 
 The *jnun* are also considered *lowhush*, although their forms and stories owe more to imported Arab and Bedouin concepts than native Berber beliefs.
 
-### *The Divine*
+### The Divine
 
 Unsurprisingly, varieties of Islam dominate Mythic Africa, and have done ever since the waves of the Prophet's followers rode out of Arabia in the seventh century. Common in the region, Murabitin and Sufi mystics provide elements troupes are just as likely to encounter beyond a city's walls as within an oasis' mosque.
 
-### *Murabitin*
+### Murabitin
 
 Murabitin (Arabic, singular murabit) or igurramen (Tamazight, singular agurram) play a unique role within the culture of the Maghreb. They are equal parts scholar, dream interpreter, religious hermit, and crafter of protective amulets. They tend to live in zawiyas (houses built near tombs) and act as caretakers for the shrine of the saint buried in a nearby tomb, venerating the saint through their study and prayer. First and foremost, they act as a source of religious authority, discussing interpretations of the Qur'an and law while mediating disputes amongst the Berber community living around them.
 
@@ -5547,7 +5547,7 @@ Sometimes, a brotherhood, or tariqa ("Path"), will form around a Murabit and his
 
 A few of the zawiyas stand near pre-Islamic tombs, and many of the murabitin at these places practice dream interpretation as a method of divination or communion with ancestor spirits, accessing the fragmentary memory of the community's past. The skill is not limited to these holy men, though, and murabitin across the Maghreb claim the ability to successfully decipher the secrets held within dreams. The knowledge marks the murabitin as heirs of Berber traditions from antiquity, and contemporary protectors of ancestor shrines.
 
-### *Story Seed: Dream a Dream of Days Past*
+### Story Seed: Dream a Dream of Days Past
 
 The characters discover the talents of the local murabit and seek him out to learn the location of a specific spirit, lost site, or other fragment of antiquity known to the restless dead ancestors the murabit can call. With knowledge stretching back to the days of the Roman Empire, the dreaming ghosts offer a rare, though occasionally unreliable, source of knowledge based on experiences from their lives. Could the murabit's talent serve as a stepping stone to the Ancient Magic of Canaanite Necromancy (see *Ancient Magic*) or Insight into creating an initiation for the Mystery of Dream Magic (See *The Mysteries Revised Edition*)? How do the characters intend to convince the pious murabit to share his wisdom — can a magus become an adopted son after rescuing the scholar's firstborn boy from a bargain with a sahir and an unsavory fate at the appetites of an insatiable slaver jinn?
 
@@ -5665,7 +5665,7 @@ The second use is a form of direct divination. In this case, the murabit is inte
 The Ease Factor is the level of the equivalent Momentary non-ritual Intel-
 
 
-### *Fae vs Infernal*
+### Fae vs Infernal
 
 As presented, the Punic deities are Infernal, but for storyguides who would prefer a faerie variant, one could view the priests of Carthage as Faerie hedge wizards specializing in Faerie Bargaining (See *Realms of Power: Faerie*, page 131), but unlike the contemporary art, their faerie patrons could ignore the demands of a broken deal.
 
@@ -5677,11 +5677,11 @@ lego Hermetic spell. Holding an Arcane Connection to a target allows the charact
 
 **Specialties**: Any appropriate Holy Power, own dreams, the dreams of others, dreams had under specific circumstances (Supernatural)
 
-### *Sufism and the Maghreb*
+### Sufism and the Maghreb
 
 Sufis believe the Qur'an speaks directly to their hearts as daily life's stories. Their relationship of the Divine is a personal one of all consuming love. Through
 
-### *Echoes of the Destroyed*
+### Echoes of the Destroyed
 
 The complete destruction of Carthage meant that little of their culture survived, and only scattered and incomplete accounts remain.
 
@@ -5759,11 +5759,11 @@ the Maghreb include:
 
 the east before returning to Seville and later moving to live out his days in Fes. He was very concerned with the nature of the soul and the theory of knowledge. Ibn al-Arabi carefully examined the Sufi belief which stated knowledge can only be achieved through purification of the soul combined with chaste living and the elimination of material desires. He died in Fes in 1143.
 
-### *The Gods of Carthage*
+### The Gods of Carthage
 
 While demons still exist in all those places you might expect to find them in Mythic Europe, and in such places as those described in the Great Desert, there are other Infernal legacies to be found in North Africa. Many of the more sinister *jnun* such as the lesser '*afarta*, *ghul* and shayatin are aligned to the Infernal Realm and European traders bring with them their own demons. However, one almost forgotten Infernal power lost to the rest of Mythic Europe hides to the south beyond the Mediterranean, the supposedly defeated gods of the Carthaginians.
 
-### *Punic Worship*
+### Punic Worship
 
 Records of the worship and theology of the Carthaginians comes from those outside sources that documented aspects of the Punic culture before its utter destruction in 164 BC. In fact, all surviving material on Carthage and its traditions was written by its enemies. The rest of the Mediterranean reviled the empire's tradition of sacrificing the "first fruits" to their gods in exchange for favor and assistance, which included burning the firstborn children of prominent citizens in enormous bronze altars. Several peace treaties demanded that the Carthaginians cease the practice, but they did not. Born out of the city of Tyre and ancient before the Romans were a tribe on the Tiber, Punic worship claims a wide and surprising heritage.
 
@@ -5781,7 +5781,7 @@ After mastering Taautus' mysteries, he studied the secret writings of Punic prie
 
 Punic worship had three primary tenets: celebration, sacrifice, and serpent worship. To honor and glorify their gods, they erected standing stones, or stelae (singular: stele), engraved with the symbols for their gods. Raising a stele dedicated to a particular god was one method for gaining the god's favor, or to show gratitude for assistance provided by the god. Most stelae discov-
 
-### *The Right of the Victors*
+### The Right of the Victors
 
 One of the last remaining texts on the religion and mythology of the people of Carthage comes from Eusebius's Praeparatio Evangelica, which tells of the works of Sanchuniathon, priest of Ba'al Ammon and sorcerer of Berytus. He tells how he deciphered the Levantine writings, deciphered mystic inscriptions in the Punic temples, learned the truth regarding the apotheosis of Punic gods — a truth their own priesthood later concealed with allegories and myths. Eusebius' intended to discredit pagan religion through the example of Sanchuniathon. He succeeded in creating the last literary map to the magic of the Punics, albeit it one clouded by the distance of time and the secondhand translation of his source, Phylos of Byblos.
 
@@ -5880,7 +5880,7 @@ Punic culture demanded that each new colony build a temple dedicated to Tanit an
 
 Now known as Tunis, Carthage is a shadow of its former glory, but still one of the grandest and richest cities in North Africa. The Punic and Roman sites have been abandoned and looted for cut stone, and little recognizable remains. Nearly 100,000 people live in sprawling, nearby Tunis, the provincial capital of the region for the Almohad Caliph, and its great harbor does brisk trade. Merchants from across the Mediterranean come to exchange goods for the gold and slaves brought out of the desert. In sagas which follow history, the governor of Tunisia seizes control of the city in 1228, declaring himself Emir and establishing the Hafsid dynasty. It is described further in Chapter 2: Coasts.
 
-### *Punic Deities*
+### Punic Deities
 
 The gods of Carthage came with the Phoenicians from the Levant out of deep antiquity. A collection of beings with Semitic origins and African influences, they ruled over Punic culture for a thousand years and then simply took up the Roman masks the legionnaires brought with the rule of Republic and Empire. While their conquerors forbid their more abhorrent practices, and killed or enslaved much of the populace, the Punic gods Tanit and Ba'al Ammon and their coterie did not disappear, they simply gained different servants.
 
@@ -6011,11 +6011,11 @@ Fatigue Levels: OK, 0/0, -1/-1, -3/-
 **Appearance:** A huge white dromedary or Bactrian camel of noble bearing.
 
 
-### *Dog, Painted (Kalb)*
+### Dog, Painted (Kalb)
 
 Much more social than the smaller jackal of the northern desert, this wild canine often hunts in packs of similar gender of up to 30 animals. Often found near the desert strongholds of the Tuareg, preying on the pastoralists' herds of goats, sheep or camels, a pack is capable of pursuing and killing gazelles and other antelopes on the open plains. For its size it has one of the most powerful bites of any dog, reflected by increased damage from the Crushing Jaws Quality. Its habit of disemboweling prey lends it a negative reputation as a bloodthirsty killer.
 
-### *Dog, Painted (Lycaon)*
+### Dog, Painted (Lycaon)
 
 **Characteristics:** Cun +0, Per 0, Pre –2, Com –4, Str -–, Sta +2, Dex +3, Qik +2
 
@@ -6058,11 +6058,11 @@ All painted dogs are fast runners and gain +3 on all rolls involving running, be
 
 A Bjornaer magus with a Painted Dog Heartbeast would have a choleric humor with a melancholic aspect.
 
-### *Fox (Tha'lab)*
+### Fox (Tha'lab)
 
 The fox is a symbol of guile and cunning in both Mythic Europe and Mythic Africa, featuring prominently in folklore. The tales of Reynard the Fox fooling the kingly lion, the foolish sheep or the greedy wolf are particularly common in France but local variations are heard particularly throughout Christian lands. In Arabic speaking lands the fox presented in stories similar to those of Reynard the fox is referred to as either Abu Hassan or Abu Suleiman. The African fox is smaller than its European cousins, but no less sly.
 
-### *Fox*
+### Fox
 
 **Characteristics:** Cun +1, Per 0, Pre –2, Com –5, Str –6, Sta –1, Dex +2, Qik +6
 
@@ -6088,7 +6088,7 @@ The fox is a symbol of guile and cunning in both Mythic Europe and Mythic Africa
 
 **Wound Penalties:** –1 (1), –3 (2), –5 (3), Incapacitated (4), Dead (5+)
 
-#### *Between Sand & Sea*
+#### Between Sand & Sea
 
 **Abilities:** Athletics 4 (running), Awareness 3 (food), Brawl 3 (bite), Hunt 4 (prey), Stealth 4 (stalking prey), Survival 4 (desert)
 
@@ -6104,13 +6104,13 @@ All foxes are excellent jumpers and get a +3 to all rolls involving jumping.
 
 Bjornaer magi with fox Heartbeasts are considered to have a choleric humor with a sanguine aspect.
 
-### *Goat (Maa'ez)*
+### Goat (Maa'ez)
 
 Goats are common in Mythic Europe and beyond – they are used for their meat, their milk and in some places their hairy hides. Transhumance, the movement of pastoralists and their herds from the coastal plains to the mountain pastures over the course of the year, is particularly common in Provence and the Maghreb.
 
 Many Christian tales of the Devil depict Satan as a black goat or humanoid he-goat presiding over a coven of witches, and folklore is full of tales of local hedge magicians assuming the form of goats. Popular moralising associates the goat with lechery due to their extreme activity when in rut.
 
-### *Goat (Capra)*
+### Goat (Capra)
 
 **Characteristics:** Cun –1, Per +1, Pre –4, Com –5, Str 0, Sta +1, Dex +2, Qik +1
 
@@ -6153,11 +6153,11 @@ All goats and sheep are good climbers and gain a +3 bonus to all rolls involving
 
 Bjornaer magi with wild goat Heartbeasts have a melancholic humor whereas those with wild sheep Heartbeasts are melancholic with a choleric aspect.
 
-### *Hyena (Dhubba)*
+### Hyena (Dhubba)
 
 In the thirteenth century hyenas, or *dhubba,* are found throughout the Levant, North Africa, Iraq, Persia, and lands beyond. These striped hyenas can be trained and tamed like dogs, even to the extent of becoming part of a dog pack if raised with hounds. Although not sacred to the ancient Egyptians, hyenas were used in hunting desert game. Some greater African specimens (Size +1) may be significantly larger than the standard sized versions detailed here and their Middle Eastern cousins (also Size –1). These fell beasts are often ridden by *jinn* or witches. The hyena is also a common animal form for *ghul* to assume.
 
-### *Hyena (Yena)*
+### Hyena (Yena)
 
 **Characteristics:** Cun +1, Per +2, Pre –4, Com –1, Str –1, Sta +2, Dex +1, Qik +2
 
@@ -6201,7 +6201,7 @@ The Hyena of Virtue, known as the *crocotta* or *kynolykos* (Greek: "dog-wolf"),
 
 A stone found in the body of a Hyena of Virtue can serve as a charm of protection for whoever wears it on his upper arm (Ward Against Faeries of the Desert) or alternatively grant the ability to see the future (Premonitions or Visions). In some cultures it is the eyes of the *crocotta* that grant similar powers. A charm made from the genitalia and anus grants the Venus's Blessing Virtue to the wearer according to Persian sources.
 
-### *Jackal (Wawi)*
+### Jackal (Wawi)
 
 Unlike the wolf, the jackal, or *ibn 'awa (wawi),* is not a pack animal and usually hunts alone or in mated pairs, or scavenges near the edges of human settlements. It is more friendly to man than its cousin the wolf and can be domesticated and even trained to act as a guardian, but not for hunting.
 
@@ -6243,11 +6243,11 @@ Found in the easternmost deserts and Egypt is the jackal-like creature is known 
 
 Such an unusual animal is almost certainly magical and may make a unique familiar if a magus can locate and befriend such an elusive creature, although its allegiance to an elder being aligned with destruction may give fainthearted magi pause. Alternatively, the *sha* may be dark Faerie hounds, the monstrous form of a shapeshifting hedge magician, or even an Infernal beast that seeks to trap an unwary magus into serving its long forgotten dark master.
 
-### *Lizard (Waral)*
+### Lizard (Waral)
 
 Tuareg myths consider these desert lizards to be ancestors of the current tribes and harming, killing, or eating a *waral* or *waran* is considered taboo. Found throughout the desert sheltering in the rock clefts or basking in the sun on flat stone outcrops, these reptiles have a sinister reputation among the other desert peoples.
 
-### *Lizard, Waral (Varanus)*
+### Lizard, Waral (Varanus)
 
 **Characteristics:** Cun +2, Per 0, Pre –6 (+3), Com -2, Str +5, Sta +2, Dex +2, Qik –1
 
@@ -6281,11 +6281,11 @@ Tuareg myths consider these desert lizards to be ancestors of the current tribes
 
 **Appearance:** These large grey lizards can become aggressive when provoked, lashing their tails when aroused. Their size and color varies depending on their habitat, with some specimens growing over 8 feet long, like the one detailed here. Although slow in gait, the creature's powerful jaws can snap closed quickly to lock around its prey and prevent escape.
 
-### *Ostrich (Na'aam)*
+### Ostrich (Na'aam)
 
 Scattered throughout northern Africa but more commonly found in Egypt, a slightly smaller version of this flightless bird ranges throughout northern Arabia and the Levant. Valued for their feathers, leather, and less so for their meat, they roam the semi-arid plains in great flocks but avoid the deep desert. Ostrich hunting remains a favorite pastime of nobles and rich sahir.
 
-### *Ostrich (Struthio)*
+### Ostrich (Struthio)
 
 **Characteristics:** Cun –2, Per +2, Pre –1, Com –2, Str +2, Sta +2, Dex +2, Qik +3
 
@@ -6326,11 +6326,11 @@ Some *jnun* tribes have bred their Faerie flocks to have magical powers dealing 
 
 Unlike other birds, an ostrich cannot fly or even glide but can run as fast as a gazelle if needed. Similar to horses, an ostrich gets a +3 to all rolls involving running.
 
-### *Scorpion, Monstrous (al 'Aqrab)*
+### Scorpion, Monstrous (al 'Aqrab)
 
 Known as *al 'Aqrab* in Arabic speaking lands, the scorpion is a common shape assumed by evil *jinn.* The creature presented below represents a type of "giant" black scorpion about the size of a small rabbit found in the Arabian deserts. The majority of scorpions encountered are Size –8 or smaller, but swarms of hundreds or thousands are treated as a single much larger creature (see later).
 
-### *Scorpion, Monstrous (Scorpio)*
+### Scorpion, Monstrous (Scorpio)
 
 **Characteristics:** Cun –2, Per –2, Pre –5, Com –6, Str –10, Sta +2, Dex +2, Qik +6
 
@@ -6392,7 +6392,7 @@ damage automatically each round, but this can be Soaked normally.
 
 Compared to the romantic image of its western counterpart in Mythic Europe, the *karkadann* or "Lord of the Desert" is a large and overtly aggressive beast. Found in the Persian deserts or the plains of North Africa, the *monoceros* is famed for attacking elephants by charging at their bellies and is often depicted skewering them on a long horn that arises from its forehead. It can be soothed by the ministrations of a virgin, but its horn is not an antidote against poisons like the *alicorn* of its western cousin.
 
-### *Unicorn, Eastern (Monoceros)*
+### Unicorn, Eastern (Monoceros)
 
 **Characteristics:** Cun –1, Per 0, Pre –4, Com –5, Str +8, Sta +1, Dex 0, Qik –1
 
@@ -6437,11 +6437,11 @@ The *karkadann* is too large to be taken as a Heartbeast for a Bjornaer unless t
 
 
 
-### *Vulture (Nasr)*
+### Vulture (Nasr)
 
 The Egyptian Vulture commonly found throughout the Levant, the Mythic Middle East and North Africa is sometimes referred to as "the Pharaoh's Chicken" due to its frequent depiction in Egyptian royal carvings. In ancient times the vulture was associated with the goddesses Isis, Mut, and Nekhbet, and was considered the symbol of the Kingdom of Upper Egypt with her wings spreading out to protect the pharaoh.
 
-### *Vulture, Egyptian (Vultor)*
+### Vulture, Egyptian (Vultor)
 
 **Characteristics:** Cun 0, Per +4, Pre –6 or +3\*, Com –2, Str -4, Sta +3, Dex +1, Qik +4
 

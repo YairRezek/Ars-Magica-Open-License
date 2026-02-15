@@ -1,6 +1,6 @@
 
 
-# *Credits*
+# Credits
 
 **Authors:** Timothy Ferguson (Island), Mark Lawford (Fourth Estate), Mark Shirley (Magitech)
 
@@ -42,7 +42,7 @@ Copyright © 2013–2015 Trident, Inc. d/b/a Atlas Games. All rights reserved. R
 Digital Version 1.0
 
 
-# *Contents*
+# Contents
 
 | Credits                                | 2 | The Church25                             |                    |
 |----------------------------------------|---|------------------------------------------|--------------------|
@@ -112,7 +112,7 @@ Digital Version 1.0
 | Conclusion 53               |  |
 |                             |  |
 
-#### *The Island of the Magicians 54*
+#### The Island of the Magicians 54
 
 | Construction:                       |  |
 |-------------------------------------|--|
@@ -210,7 +210,7 @@ Digital Version 1.0
 
 **Scrying as a Means of Correspondence.. 92** Remote Writing ...........................92
 
-#### *Transforming Mythic Europe* Example Device: Quills of Arcane Correspondence ..............93 *Description....................................93 Twinning the Quill ........................94* Example Device: The Unsubtle Knife..94 *Description....................................94 The Writing on the Wall ...............94* Clairvoyance & Clairaudience.........94 Example Device: Earring of Whispering Voices......94 *Description....................................94 A Signal of Intent ..........................94 The Ear for a Distant Voice...........95* Example Device: The Hermetic Speculum..............95 *Description....................................95 Summoning the Image of the Distant ..95 The Scrier Spied.............................95* Example Device: The Effigy of the Errant Image ....95 *Description....................................96 The Wandering Eidolon.................96* "I Will Not Use Magic to Scry..." ...96 Why it May Not Work: Lack of Penetration......................96 Societal Impacts...........................97 *Saga Seed: A Scrying Society........97*
+#### Transforming Mythic Europe Example Device: Quills of Arcane Correspondence ..............93 Description....................................93 Twinning the Quill ........................94 Example Device: The Unsubtle Knife..94 Description....................................94 The Writing on the Wall ...............94 Clairvoyance & Clairaudience.........94 Example Device: Earring of Whispering Voices......94 Description....................................94 A Signal of Intent ..........................94 The Ear for a Distant Voice...........95 Example Device: The Hermetic Speculum..............95 Description....................................95 Summoning the Image of the Distant ..95 The Scrier Spied.............................95 Example Device: The Effigy of the Errant Image ....95 Description....................................96 The Wandering Eidolon.................96 "I Will Not Use Magic to Scry..." ...96 Why it May Not Work: Lack of Penetration......................96 Societal Impacts...........................97 Saga Seed: A Scrying Society........97
 
 **The Copying of a Book................. 98** Limitations of Hermetic Theory.........99
 
@@ -427,9 +427,9 @@ the Third Square.....86
 
 The Wicked Boys of
 
-## *Chapter One*
+## Chapter One
 
-# *Introduction*
+# Introduction
 
 Hermetic magi have enough power to change the structure of Mythic Europe forever. *Transforming Mythic Europe* is about what happens when they decide to exercise this power. Three chapters in this book propose different ways in which the characters can cause such a transformation.
 
@@ -439,13 +439,13 @@ Hermetic magi have enough power to change the structure of Mythic Europe forever
 
 **Chapter Four** recasts magi as inventors, and the enchantments that they create as analogs of technological advancement. Transformation of Mythic Europe is effected through the distribution of these devices to nobles, clergy, and peasants.
 
-## *Planning for Long Sagas*
+## Planning for Long Sagas
 
 The process of transforming Mythic Europe is not something that is possible to complete in a few short adventures. It may be the life's work of one or more magi, and may take longer still to reach fruition. Any transformation is usually gradual, but once it has begun it is probably inexorable. The speed of integration depends very much on the innovation involved — there are historical examples that ably demonstrate the capacity for ideas and inventions to catch on fast, and these can be used as templates. Political or religious movements such as Catharism or Lutherism, or the Shepherd's Crusade, could inspire ideas for the spread of an idea among a sector of Mythic Europe. The speed at which inventions such as the padded horse collar, the waterwheel, and the printing press took off might provide inspiration for the spread of a physical innovation of great worth.
 
 Since transformation can be slow, integrating such story lines into a saga perforce lengthens the expected
 
-## *Assumptions about Mythic Europe*
+## Assumptions about Mythic Europe
 
 Depending on the type of transformation involved, you need to be clear about certain aspects of Mythic Europe and its inhabitants (in particular, the Order of Hermes) that are left flexible in the canonical setting of **Ars Magica Fifth Edition**. These include, but are not limited to: the laxity that the Order permits in interpreting the Code of Hermes; the spirit of cooperation within the Order; the availability of vis; and — if playing in a long-term saga — the size and growth of the Order.
 
@@ -453,7 +453,7 @@ Of these, the interpretation of the Code of Hermes is perhaps the most important
 
 span of that saga. This is especially true if the transformation is the brainchild of player characters, who want to see their work reap tangible rewards. However, it might not be player magi — or indeed, magi at all —who begin the process of change, and these characters might get caught up in it later on. Under this scenario, the process of transformation could have already begun when the saga starts, and its burgeoning spread poses challenges to the player characters from the start. This option also allows the player characters to oppose the change — for whatever reason and try to turn back the tide of social pressure favoring its further spread.
 
-## *Saga Speed*
+## Saga Speed
 
 Altering the speed of the saga (**ArM5** page 218) affects the manifestation of any transformation during play.
 
@@ -467,7 +467,7 @@ Sagas involving transformations are ideal for pulsed sagas, where the characters
 
 As an option, it might be interesting to run a few stories — or perhaps a mini-saga — set in the future, when the transformation of Mythic Europe is complete or almost complete. It is necessary to either advance the characters who could still be alive, or create new ones to fill in the gaps. Depending upon how much change the storyguide can envisage, the players might be shocked at the change wrought by their innovation, but remember that the characters have lived through the transformation, and it is no great wonder to them. This sort of story has the greatest impact if the effect wrought is different from that expected by its initiators.
 
-## *Saga Style*
+## Saga Style
 
 Introducing a transformation into an **Ars Magica Fifth Edition** saga can change the feel of the game, and the style of the saga. Of the three concepts in this book, the Order of Hermes as the Fourth Estate perhaps has the least dramatic impact on the feel of the game. The themes of such a saga include mundane interaction combined with politicking within the Order, both at Tribunal and Grand Tribunal level. While the characters are attempting to enact a major change to the manner in which the Order of Hermes is treated by mundane society, they are doing so within the established setting.
 
@@ -475,14 +475,14 @@ Creating an island of magicians, on the other hand, is a major working of magic,
 
 A world where enchanted items replace technological developments can be very similar to the canonical setting or radically different, depending upon the number, distribution, and impact of the devices. At one end of the scale, a magical invention such as a device that duplicates books can have an important impact but not one that makes Mythic Europe radically different. However, lots of individual inventions such as instant transportation, distant communication, and magically powered carts and chariots could make Mythic Europe resemble a steampunk or alternative science-fiction world. The changes can be as big as you want them to be.
 
-## *Future Events*
+## Future Events
 
 If you are planning a long-term saga you should consider the impacts that the players' characters — and the Order as a whole — could have on these events if they felt like getting involved. Mythic Europe in 1220 is designed to be a recognizable medieval world. Any saga for **Ars Magica Fifth Edition** can change the future course of Mythic Europe, but sagas involving elements from this book are guaranteed to do so. Troupes with an interest in alternative history may wish to explore in detail the impacts of their actions on wider events in Mythic Europe. There are plenty of sources of historical information available about the 13th and 14th century; for each major historical event consider what affect the saga's transformation can have. A simpler approach is to allow the saga to diverge from history early on, so that the storyguide need not worry about tracking events. Something to bear in mind is how the Order of Hermes might be transformed in the attempt to transform Mythic Europe. Such processes are rarely one way, and the Order must actively resist change if it wants to remain unaltered by a transformed Mythic Europe.
 
 
-## *Chapter Two*
+## Chapter Two
 
-# *The Fourth Estate*
+# The Fourth Estate
 
 Having sworn an oath to the Order, magi are forbidden from interfering in mundane events. There are seemingly as many definitions of "interfering" as there are magi, and because of the political nature of Hermetic law and justice, most magi err on the side of caution and remain withdrawn even where their power could make a positive difference.
 
@@ -490,7 +490,7 @@ There is another way, however. Magi of the Order of Hermes are the most powerful
 
 What if the Order threw off its protective cloak of secrecy? What if the Order chose to rule lands as the mundanes do, to demand rights and concede responsibilities? How might the world change and be improved, and what might the Order gain and lose in the process? This chapter explores the arguments for closer integration with the mundane world, the challenges that characters face in trying to move the Order towards that goal, and the stories that arise in a world where the Order of Hermes becomes the Fourth Estate. And in doing so, we see the Order of Hermes change at least as much as the world around it.
 
-## *The Four Estates*
+## The Four Estates
 
 Mythic Europe can be roughly divided into estates: those who pray, those who rule, and those who toil. In essence, these are the Church, the nobility, and the peasant and town classes. None of the three can live without the others; the Church provides spiritual guidance and moral authority, the nobility provides governance and security, and the working classes provide wealth and sustenance.
 
@@ -501,19 +501,19 @@ A fourth estate cannot interfere with the nobility's need to rule. Nor can they 
 
 educated individuals able to wield considerable power, the Order cannot reduce themselves to mere servants. As a new estate, they must find a niche at least the equal of the Church, while maintaining a position that is non-threatening to the nobility.
 
-## *The State of the World*
+## The State of the World
 
 Some might argue that members of the Order of Hermes are already integrated into Mythic Europe. But in reality, they frequently avoid mundane justice, choose not to pay taxes that are due, shun feudal obligations, and withhold their power from those in need. How many times has a magus waved his way past a tollgate without paying, or refused counsel to a noble whose lands are in danger? And what of the covenant grogs? To whom do they owe military service? And what right allows a magus to raise a tower overnight through ritual magic?
 
 Magi of Hermes currently do as they please, within the boundaries set for them by their Tribunal.
 
-# *Transformation*
+# Transformation
 
 This chapter guides troupes through the process of integrating the Order into the rest of Mythic European society; finding a place for it where the power that the Order wields can be used to benefit all, and ensuring that the Order gains legallyrecognized rights where it currently has none.
 
 This is done through a combination of politics, both internal to the Order to gain consensus, and externally with the nobility of Mythic Europe and the Church. Unfortunately, society being what society is, the peasantry gets very little say in the matter, although in regions where cities are growing in importance their voices are now beginning to carry more weight.
 
-## *The End State*
+## The End State
 
 While individual sagas are free to go only as far as they need to, this chapter has a particular end state in mind: namely, the integration of the Order of Hermes into Mythic Europe as the de facto fourth estate, where magi have the legally-enshrined right of rule over their own lands and the ability to influence the governance of all Mythic Europe. At the conclusion of this grand political project, magi of the Order of Hermes become recognized members of society. Not only that, but their covenants become legal entities too, and both magus and covenant alike gain the benefit of important rights at the cost of new obligations and responsibilities.
 
@@ -521,7 +521,7 @@ While each magus gains responsibilities as well as rights and benefits, individu
 
 Magi working within society, freed from the constant worry about how their actions will be perceived by their peers, are able to make a more prosperous world as they use their magic not only for their benefit but for the benefit of their new liege lords and vassals. Their unique perspective can ensure that the mundane and magical worlds continue to coexist without threat to either. Their wisdom and power influences the course of war, either to prevent it outright or bring it to a swift and decisive conclusion.
 
-## *Using Antagonists with this Chapter*
+## Using Antagonists with this Chapter
 
 *Antagonists* presents a number of well-developed characters who act to bring stories to the player covenant, usually by opposing the covenant's aims in some fashion. While this chapter changes the relationship of the world to the Order of Hermes, those antagonists can still be used as the face of many of the challenges described in this section.
 
@@ -554,7 +554,7 @@ Covenants become liege lords in their own right with authority over vassals of t
 
 Nobody within Mythic Europe has the freedom to do as they will. Every member of society is constrained by rules and convention and when the magi of the Order gain the benefit of rights, they must also concede certain responsibilities and obligations.
 
-## *Optional Guideline: The Cost of Breaking Convention*
+## Optional Guideline: The Cost of Breaking Convention
 
 A magus entering town in clothing not befitting a clerk or academic, trailing armed and armored men, and accompanied by an animal, is going to attract more attention than may be desirable and find cooperation harder to come by. Where a magus breaks convention, by dressing in a way that is above his station or according to no fashion, or by flaunting his familiar in public, he suffers an additional –1 social interaction penalty. This applies to the Gifted and Gentle-Gifted alike. Magi can avoid this penalty by making a conscious effort to follow convention. It is worth noting that any character adorned or attired other than according to his station should also receive this penalty.
 
@@ -565,7 +565,7 @@ Acting as counsel to a liege is not counted as part of the service and is a stan
 
 The magus gains legal responsibility for his vassals, both in terms of how he must behave towards them and in taking responsibility for their actions. The magus will be expected to arbitrate between conflicting vassals, to ensure that justice is done, and to keep his vassals in line against the threat of disharmony.
 
-## *Why the Order Would Want to Change*
+## Why the Order Would Want to Change
 
 The Order of Hermes sits outside Mythic Europe's legal structure and yet its members have the power to exert influence upon the world in several ways. First, magi of the Order take their apprentices from the world around them. In days gone by, when the world was a simpler place and workers of magic were closer to that world, their presence alone was enough to intimidate a child away from its parents. Things are perhaps not so easy now. More and more people are living in cities, and many people have become more worldly-wise. Every trade has need of apprentices and while parents are rightly happy and relieved when their son is taken on by a craftsman, they at least expect to maintain contact with the child, and some might expect to enjoy the fruits of his labor when they reach their dotage. Simply taking a child from his or her parents is criminal and the magi open themselves to charges, something that was once unconscionable.
 
@@ -579,14 +579,14 @@ As for familiars, leaving aside the possibility of having to pursue a particular
 
 By leveraging their influence with the nobility, the Order is able to establish rights in all the areas
 
-## *The Provision of Laboratory Texts*
+## The Provision of Laboratory Texts
 
 Laboratory Texts become important to an Order attempting to change its ways and engage with society. By ensuring that Laboratory Texts for practical magic, as opposed to yet another wand capable of spouting fire, are made available one particular barrier is removed. A Laboratory Text puts the creation of powerful devices within reach of younger magi, which allows them to pass the benefits on to those they interact with. So folios of useful and practical magic become more common as the effort to integrate goes on.
 
 
 described above: protected legal status, their own courts, jurisdiction over areas of magical interest, and grants of lands. So the Order slowly becomes a de facto Fourth Estate, separate from the clergy, the nobility, and the commoners, but an accepted and vital part of the world. Importantly, and this cannot be ignored, they gain a natural authority by stepping out of the shadows and embracing the world in which they live.
 
-## *The World on Hermetic Terms*
+## The World on Hermetic Terms
 
 The Transylvanian Tribunal represents a Hermetic state that exists *beside* the mundane world, but always slightly distant. While other Tribunals, such as Normandy and Thebes, may enjoy a well-defined structure, under House Tremere's influence, the Order in Transylvania has acquired the trappings of statehood, with Coeris at its head, taxes paid by magi under its purview, and magi stratified by status. However, these taxes and tithes are of vis, the service owed is spent as the Tribunal dictates, and the Tribunal imposes rules upon covenant membership and the rights and obligations of its magi. Of course, House Tremere argues that this is for the greater good, that the House simply provides the *structure*, and that the Tribunal itself provides the *authority*.
 
@@ -598,7 +598,7 @@ But this is *not* some grand power-
 
 play by House Tremere nor is it the nightmares of Tytalean magi come true. This is simply how the Transylvanian Tribunal has implemented its own form of societal change and this is how they implement the moral authority that they have claimed for themselves. They have the power and influence to avert conflict, to alleviate suffering, and ensure that justice and right is done by the mundane peoples of the Tribunal. The aims are the same, but the methodology is different. And this is a key difference between the Transylvanian Tribunal and the aims of the Hermetic Fourth Estate; Transylvania has seized the moral authority to act for the good of the Transylvanian people from outside society, while this change sees
 
-## *What Prevents the Order from Bettering the World?*
+## What Prevents the Order from Bettering the World?
 
 the Order take it from within.
 
@@ -606,7 +606,7 @@ With a change to the Code that governs the Order, the proscription against inter
 
 Once the Code has been clarified, and consensus built within at least a Tribunal, then magi experience more freedom to interact and improve the world around them. And in doing so, there are considerable benefits in store.
 
-## *The Process in Brief*
+## The Process in Brief
 
 - Introduce the difficulties of living close to yet apart from society (see *Leveraging Hooks, Boons, and Story Flaws* and *A Growing Awareness*)
 - Determine the rights and responsibilities in society that the magi want to take on
@@ -623,17 +623,17 @@ Once the Code has been clarified, and consensus built within at least a Tribunal
 
 through the various stages that may need to be completed before the Order can be fully assimilated.
 
-## *The Process of Change*
+## The Process of Change
 
 The process of change begins with engaging the player characters and showing them where magi could make a difference to the world, and revealing the opportunities to effect change. The detailed sections below provide suggestions for leveraging individual Story Flaws and covenant Hooks and Boons to bring Mythic Europe right to the covenant gates.
 
 The player characters then decide upon the particular legal rights that they want, including those they want to secure from the rulers of Mythic Europe and those they want to secure from the Order. For instance, they may want to secure right and title over areas of magical interest
 
-## *How to Bring About Change*
+## How to Bring About Change
 
 As with any arc introduced to the saga, the player covenant is key, so it is recommended that this change starts at a local level with the player characters. The magi of the covenant are confronted by a number of challenges and scenarios where their power could easily help but their Oath makes for a difficult moral decision. These stories are discussed in more detail below and this section principally discusses the means by which the covenant can be drawn into this plot, including how to leverage Story Flaws and covenant Hooks and Boons to give the characters and their covenant a stake in mundane peace and prosperity. It also draws a rough line from the start of the transition
 
-## *A Life's Work*
+## A Life's Work
 
 Bringing the change about is a significant saga thread and many stories will be devoted to preparing for the change, implementing it, and then living with the consequences. The pace of change is left for individual sagas to determine, but as a general rule it is suggested that progress be measured in the passing of Tribunals. With Tribunals held every seven years and a Grand Tribunal every 33 years, this saga thread could easily take four or five regional Tribunal meetings before the player magi have enough support to raise the issue at the Grand Tribunal.
 
@@ -658,7 +658,7 @@ With such a change across Mythic Europe, the world's other inhabitants must be e
 
 Once done, however, the Order of Hermes is freed from its self-imposed exclusion and is able to engage with the mundane world, mediate between magical and mundane, and bring a growing prosperity to the everyone.
 
-## *Leveraging Hooks, Boons, & Story Flaws*
+## Leveraging Hooks, Boons, & Story Flaws
 
 Covenants and individual characters alike provide means and motives for closer integration with the mundane world than some in the Order might be comfortable with. The sections here take a brief look at these story hooks and how they force covenants to interact and integrate with wider society. These are the kind of situations and dilemmas that most covenants face and most likely remain quiet about at Tribunal.
 
@@ -724,7 +724,7 @@ guilds, religious orders, or almost anything else.
 
 **True Love** (**ArM5**, page 59): There is nothing one would not do for one's true love, no matter the consequences. So, here again is an opportunity for characters to become involved in the mundane world, in ways that have significant impact, while retaining the sense of moral right. And that is important. The Order does not wish itself brought into conflict with mundane society, but resolving stories that arise from Story Flaws such as True Love shows that there may be a need to become involved and, perhaps, that there is a need for a new philosophy.
 
-## *A Growing Awareness*
+## A Growing Awareness
 
 The covenant must first see the inherent benefits of engaging with the mundane world over staying withdrawn and the problems of continuing to buck convention. The following events highlight the problems that society may have with the actions of magi.
 
@@ -749,7 +749,7 @@ wife. In return, he is willing to sign over the income from a moderate fief to t
 
 The sample encounters above are simple enough, but they introduce the two key questions that face the Order: what kind of help is appropriate, and how does the Order secure agreement with the mundanes? All of the story seeds above, depending upon the actions taken by the covenant, have the potential to be raised at Tribunal as charges of interference in mundane affairs, which provides the covenant the opportunity to defend its actions and promote controlled integration.
 
-## *The Tribunal*
+## The Tribunal
 
 While preparatory work may be done through the writing of texts designed to educate the Tribunal, House, or Order, the final debate must be held at Tribunal. For this, the debate rules presented in *Houses of Hermes: Societates*, page 91 are very useful. If an argument bonus has been generated prior to Tribunal, it can be applied to any debate which encompasses aspects of the polemic philosophy. As far as this chapter is concerned, any case touching upon the interference in mundane affairs is suitable as is a debate on clarifying the Peripheral Code itself.
 
@@ -811,7 +811,7 @@ Most Tribunals are resistant to change, which can make it difficult for a magus 
 
 Regardless of the prevailing wisdom, or the specific clauses of the Peripheral Code, the Tribunal is *the* place to negotiate agreements with like-minded magi. There is much
 
-## *Story Seed: Charges in a Foreign Court*
+## Story Seed: Charges in a Foreign Court
 
 Magi from a neighboring Tribunal where the Code has not been clarified to allow magi to act as counselors to mundane rulers cross the border to bring charges of interference against a covenant in this Tribunal. They allege that the magi influenced the inheritance of substantial estates on both sides of the Tribunal border, which in turn dispossessed the plaintiff covenant of lucrative sources of income. They charge that this interference has brought ruin
 
@@ -864,7 +864,7 @@ The characterizations above are broad and do not reflect the feelings of each in
 
 The leanings of covenants, gilds, septs, lineages, or cults are for individual troupes to determine but given the increasingly secret nature of these organizations rolls against Order of Hermes Lore will require higher Ease Factors, and rolls against specifi c House or Cult Lores may be required instead.
 
-## *The Grand Tribunal*
+## The Grand Tribunal
 
 Eventually, the matter is brought to the Grand Tribunal, likely not for the fi rst time, and the player characters once again become central to the cause. Political alliances need to be forged and arguments need to be won, as changing or clarifying the Code is not done lightly.
 
@@ -905,11 +905,11 @@ ion on whether the mundane world can be trusted or not.
 - **The Tremere Prima Poena**: Poena is an advocate of a Hermetic state existing within the mundane world just as has been implemented in Transylvania. She would be supportive of other Tribunals adopting the same model, but would she support a vision different to that demonstrated by House Tremere?
 - **The Tytalus Primi Buliste and Harpax**: House Tytalus may have two primi, but they have a single vote between them at the Grand Tribunal. The task may not be to persuade either to a given cause but maneuver both into agreeing a proxy able to vote on behalf of the House.
 
-# *How Politics Effects Change*
+# How Politics Effects Change
 
 We have looked at the need to change attitudes within the Order and later we will look at some of the magical effects that can be leveraged in negotiations with mundane society. Now, however, we look at the negotiations with those mundanes and with the denizens of the supernatural realms.
 
-## *Mundane Allies & Enemies*
+## Mundane Allies & Enemies
 
 To be clear, leaders of the mundane world are unlikely to support any move by the Order of Hermes to integrate itself into society without there being some clear benefit to them and their heirs. Openly acknowledging members of the Order means affording them the respect they are due, recognizing certain rights and relationships, and ensuring that their political inclinations are accommodated. All in all, it is potentially too much effort even before the thought of entertaining magi as guests at the feasting table.
 
@@ -938,11 +938,11 @@ But would doing so make a mockery of the economy? Such a service creates an endl
 
 Across Christendom and the East, learning and education is principally the preserve of the religious class. Cathedral schools and universities alike are staffed and run by those who have at least taken minor orders. They excel at teaching worldly topics: philosophy, the liberal arts, law, theology, and medicine. Magi, however, can reveal the wonders of the *supernatural* world. They can supplement theological study with experience of the
 
-## *Story Seed: The King's Favorite*
+## Story Seed: The King's Favorite
 
 The Tribunal has decided upon a new counselor to the king, and he is due to take up his position in the spring. The king, however, is displeased; he appoints one of the player characters to his council. How did the king even know of the characters? And why would he appoint them? What political game has the character found themselves involved in and how can they get themselves out of it?
 
-## *Story Seed: The Proctor of Hermes*
+## Story Seed: The Proctor of Hermes
 
 *The Church* supplement introduced this story seed. It is reproduced here given its relevance:
 
@@ -988,7 +988,7 @@ Additionally, enchanted tools may allow craftsmen to express their creativity li
 
 covenants and craftsmen learn their use, Mythic Europe starts to take on a fantastical appearance.
 
-## *The Supernatural Realms*
+## The Supernatural Realms
 
 One of the principal reasons for the Order becoming the fourth estate is the protection of magical and faerie spaces. It seems prudent then to engage the representatives of those realms in the project. If a noble or a city is to preserve ancient woodlands under its control it will expect something in return.
 
@@ -1004,7 +1004,7 @@ Magi would be instrumental in brokering these agreements and mediating when thin
 
 Vis sources, however, may become more contentious as mundanes start to understand their value to those who work magic. Mundanes could misapply their knowledge with dangerous results, destroying sources rather than nurturing them or withholding access in order to gain leverage over magi.
 
-## *Rivals Outside the Order*
+## Rivals Outside the Order
 
 *Rival Magic* presents a faction of Gifted wizards who have already ensconced themselves in the service of Mythic Europe's nobility: The Augustan Brotherhood. Although not present in every court, they may be present in *any* court. Operating as they currently do beneath the notice of the Order, they are unwilling to share their influence. While the player characters forge links with cities, nobles, and the clergy, the Augustan Brotherhood likely work against them, spreading lies and misinformation.
 
@@ -1014,11 +1014,11 @@ Discovering the Brotherhood actually provides an incentive for the Order to plac
 
 On the other hand, the Brotherhood may reveal themselves, placing themselves openly the under the protection and influence of their mundane allies in order to protect themselves against the Order's ultimatum to join or suffer the consequences.
 
-## *The Tools of Politics*
+## The Tools of Politics
 
 This section introduces two new activities: the writing of politically persuasive texts, and the recording of agreements in binding charters.
 
-## *Writing and Responding to Polemic*
+## Writing and Responding to Polemic
 
 It's a difficult thing to go to Tribunal and secure a shift in the understanding of the Order's place in the world. It is unrealistic to expect such a change to be accepted when it goes against everything that those magi at Tribunal have known. Any magus attempting such a foolhardy case is likely to gain a poor reputation. So what can be done?
 
@@ -1048,7 +1048,7 @@ If diatribes are the attack, then apologia form the defense. The apologia are th
 
 Apologia are written as summae or tractatus, as per **ArM5**, page 165, on the same Ability as the diatribe they have been written in response to. Each tractatus counts towards the normal limit on the number of tractatus that the author may write.
 
-## *Like Father, Like Son*
+## Like Father, Like Son
 
 We all tend to learn from our parents, and in the case of the Hermetic apprentice he leans from his parens. Opinions held by the teacher are most likely passed to the student at least until the student is advanced enough to explore further. To represent this, it is safe to assume that any character gaining his first level in a knowledge Ability through reading polemic shares the author's views on that subject.
 
@@ -1065,7 +1065,7 @@ The object of polemical texts is to persuade an audience to a way of thinking ah
 
 To write a polemic, the author writes a text on the knowledge that sets out their position. Authors have some flexibility in the level they choose to write to and the level should be high enough that readers are enticed to read it; few magi are prepared to waste a season reading something beneath them. Polemical tractatus are treated as level 5 for the purposes of circulating them. However, the quality of the text contributes a bonus to debates on the subject, so it is important for the author to find the right balance.
 
-## *Prevailing Wisdom Table*
+## Prevailing Wisdom Table
 
 | Reach                 | Level                                    |
 |-----------------------|------------------------------------------|
@@ -1107,7 +1107,7 @@ Each season spent circulating a text provides a bonus of +1 to the next Circulat
 On meeting the Ease Factor, the
 
 
-## *Correspondences and Other Texts*
+## Correspondences and Other Texts
 
 *Covenants* introduces the use of correspondences, letters written between magi and their associates to explore certain topics. The arguments and vitriol found in diatribe and apologia also find their way into correspondence between the quarreling magi and provide a 1 experience point benefit towards the target Ability each season as described in *Covenants*, page 90.
 
@@ -1115,11 +1115,11 @@ A magus engaged in such a written debate may also present the letters as support
 
 Magi may choose to combine their polemic, diatribe, or apologia works with other texts to make the texts themselves more attractive and their distribution easier. A particular volume may contain more than one item, such as a tractatus combined with a laboratory text, or a summa paired with a tractatus that expands the argument, for instance. For each other new item, i.e. one that has not been circulated before, the polemic, diatribe, or apologia gains +1 on attempts to circulate the text. All copies of the work to be circulated must have the same contents in order for this bonus to apply.
 
-## *Story Seed: Works of Sedition*
+## Story Seed: Works of Sedition
 
 A player Quaesitor is approached with a complaint of corruption made against a wellknown magus. It appears that the magus in question has been providing books of a seditious nature to impressionable young apprentices across the Tribunal in an attempt to sway the next generation of magi to his political thought. There are enough magi angry at this deceit that the Quaesitor feels pressured to act, but how has the magus broken the Code? What could he be charged with and what would the appropriate punishment be?
 
-## *Example Polemical Texts*
+## Example Polemical Texts
 
 The following texts are known to the Order and include works that have been influential in its development.
 
@@ -1168,7 +1168,7 @@ If you are not using the debate rules from *Houses of Hermes: Societates*, you s
 
 In order to counter the opinions put forward in a polemic a magus must first study that work for at least a season, regardless of whether the magus could normally gain benefit from that particular text. The magus then writes a diatribe refuting the material explored in the polemic and makes copies available, using the
 
-## *Winning the Argument Outline*
+## Winning the Argument Outline
 
 - The argument is defined and assigned a level according to the prevailing wisdom it is affecting.
 - The proponent of the argument writes the polemic text, determining Level and Quality as usual.
@@ -1179,7 +1179,7 @@ In order to counter the opinions put forward in a polemic a magus must first stu
 - The authors and their rivals write further apologia and diatribes to strengthen and weaken the argument respectively. This can be repeated until the parties cease or the matter is brought before Tribunal.
 - At Tribunal the argument total is used as experience points to buy a bonus (if the total is positive) or a penalty (if the total is negative). This modifies the proponent's debate scores.
 
-## *Example Polemic, Diatribe, and Apologia*
+## Example Polemic, Diatribe, and Apologia
 
 Robert de Charteris, sponsored by Protinus of Verditius, writes a polemic exploring the benefits of his Tribunal integrating with a changing mundane society. Robert has a +2 Communication, Latin 5 (Hermetic use) and Code of Hermes 10. Robert sets the level of the polemic at 4, one less than the maximum he can manage as he wants to focus on the quality of his argument. The polemic has a Level of 4 and a Quality of 11 (based on Communication of +2, + 6 as standard, and +3 for reducing the summa Level). It takes Robert a year to write.
 
@@ -1193,7 +1193,7 @@ With the Tribunal coming up fast, Robert writes an apologia and Protinus prepare
 
 
 
-## *Austerius Trianomae, the Opponent of Change*
+## Austerius Trianomae, the Opponent of Change
 
 Austerius is one of the Trianomae within House Bonisagus, a skilled politician and commentator on the history of the Order, the Houses, Tribunals, and factions found within them, and the laws they abides by. He has made a career out of re-educating those with ideas contrary to his view of the Order. He is ruthless in his support of the status quo and unflinching in his criticism of those who stand against him. Austerius makes the ideal opponent for any characters keen to bring about the integration of the Order into Mythic European society.
 
@@ -1282,17 +1282,17 @@ Any number of magi can write diatribes refuting the argument and, while they mus
 
 On writing or circulating a diatribe, the magus gains a new Reputation: Opposed to (ideal) 1 (Tribunal/ House/Order), or 5 experience points towards increasing that Reputation if he already has it.
 
-## *Story Seed: The Missing Letters*
+## Story Seed: The Missing Letters
 
 Preparing for an important debate and planning to confront his opponent with his own words by way of testimony, the magus discovers that the correspondence has been stolen. The magus and his allies must find the stolen letters before debate begins, but when the trail points to someone closer to home the magus must consider whether he's right to pursue the matter further.
 
-## *Story Seed: Interception*
+## Story Seed: Interception
 
 With the debate due the season after next, Austerius is bound to pull his usual trick of publishing a diatribe close enough to the Tribunal that there is no chance to respond. If he does, he'll take the advantage. And so his opponents resolve to steal the texts, or delay their publication, or intercept them and change them in some way. All they need to do is learn how and when he is circulating the manuscripts.
 
 
 
-## *Protinus Velox of Verditius, Supporter of Change*
+## Protinus Velox of Verditius, Supporter of Change
 
 Protinus is a rarity within House Verditius: a somewhat selfless magus. Only "somewhat," as he is still concerned about his own well-being, but his principle means of supporting himself is through supporting others. He wants to see the restrictions on interacting with wider society loosened as he can see the market for magical devices and services, and views so much of it as untapped. This would principally benefit those in his House, and if he can claim some of the credit at the vital moment his stock within his House will rise. So he is willing to lend tacit support and encouragement to any who take up the cause. A skilled scribe and bookbinder, his magical crafts are most effectively put to use in Intellego magics, at which he excels, though he does a good trade in his famous "spell books," which contain various enchantments that allow companions to go about tasks without the oversight of magi.
 
@@ -1386,7 +1386,7 @@ The proponent of the argument may choose not to debate it at the next Tribunal, 
 
 Where the debate is won, indicated by a positive Argument Strength at the end of the debate, any bonus from circulating the
 
-## *Story Seed: Oath or Contract*
+## Story Seed: Oath or Contract
 
 A Quaesitor, alerted to a growing closeness between a covenant and the bishop of their lands, finds the magi working closely with the Church. In all respects the covenant appears to be at the bishop's beck and call, but there is no denying the prosperity, resources, and respect the covenant seems to enjoy.
 
@@ -1400,7 +1400,7 @@ Importantly, while the victory may not be enough to have the motion carried at t
 
 There is no special experience point benefit from taking a debate to trial, although winning the debate is certain cause for experience.
 
-## *Charters*
+## Charters
 
 Mythic Europe is a place governed by rights and obligations. The feudal structure is one in which vassal bears an obligation of service to his liege, and the liege grants rights of freedom, support, and justice to his vassals.
 
@@ -1477,7 +1477,7 @@ The **Concordat of Worms** signed in 1122 bound Pope Calixtus II and the Holy Ro
 
 
 
-## *Realm Aligned Spells and Other Techniques*
+## Realm Aligned Spells and Other Techniques
 
 One of the challenges that magi face when attempting to use their magic within society is the deleterious effects of the Dominion. God's grace is prevalent throughout Mythic Europe and the East and all magical powers are affected. Magi may want to find ways around the problem that don't involve the years of self-sacrifice and piety needed to gain Holy Magic.
 
@@ -1505,7 +1505,7 @@ Assuming that history remains the same in your saga, King Henry III of England g
 
 Papal Bulls are types of charter issued by the Pope but they are usually unilateral in nature and concern any matter on which the Pope finds it necessary to make a decree. For instance, Pope Honorius III issued a bull forbidding the study of civil law in Paris, intending to promote theological studies in its stead. The terms of the bull ultimately proved unenforceable.
 
-# *Using Magic for Political Leverage*
+# Using Magic for Political Leverage
 
 The transformation is principally a political one and does not *directly* rely on magic of any kind; the hardest task is persuading the Order to change. But once the Order does decide to involve itself in the world, there are responsibilities that can be met through magic. Magic can be used as a bargaining tool to persuade the nobility and the Church to support
 
@@ -1518,11 +1518,11 @@ Successful displays of magic, wherein the magus makes a positive difference to t
 
 Once the magus has published a polemic in favor of the Order integrating itself into society, any device containing an effect of sixth magnitude or more given over to a community or noble (or a spell of similar magnitude cast to the same aim) earns the magus one experience point towards his Proponent of (ideal) Reputation.
 
-## *Health and Pestilence*
+## Health and Pestilence
 
 Along with war, the threat of pestilence and plague ranks with the prospect of failed harvests as among the biggest fears for a society reliant
 
-## *Warping While Under Constant Magical Effects*
+## Warping While Under Constant Magical Effects
 
 The following tables show the impact on targets subject to enchantments that have been designed to improve the living conditions modifier by +1. They assume that the effect's targets have no prior Warping Points. The first table assumes two level 20 enchantments.
 
@@ -1562,7 +1562,7 @@ While not catered for in this chapter, it is not just mundane healing that Herme
 
 
 
-## *Longevity Story Seeds*
+## Longevity Story Seeds
 
 The following seeds are appropriate where mundanes have been given longevity potions.
 
@@ -1610,11 +1610,11 @@ The second problem is that people start to outlive their welcome, or rather the 
 
 And the third, of course, is the loss of fertility that comes with extending one's own life. This may not be an issue for magi as they pass their legacy on through their knowledge, but a noble's legacy is passed through blood.
 
-## *Harvests and Livestock*
+## Harvests and Livestock
 
 Harvests are vital to the economy and the well-being of the population. Magic that can, at least, protect har-
 
-# *Can Magi Really Heal Lepers?*
+# Can Magi Really Heal Lepers?
 
 Although most are not aware of it, there are at least two forms of leprosy known in Mythic Europe. The first is Hermetic leprosy, which in essence is little more than the symptoms of leprosy. It is created by magic, though the learning of such spells is hard to justify. The second form is true leprosy and is a Divine curse.
 
@@ -1723,7 +1723,7 @@ Using Creo rituals, or Rego craft magic, castles and cathedrals can be built in 
 
 The Aegis of the Hearth ritual can be cast annually, offers protection against many magical and faerie threats, and importantly it does not Warp those living within it. Extending the offer of the Aegis of the Hearth to those of influence is certainly a way to build trust and can be used as leverage in future bargaining. Protecting a castle with the Aegis is a trivial matter as most covenants are of similar size to mundane castles or manor houses. Protecting anything larger, such as a village, town, or city, requires additional size modifiers to be designed into new variants.
 
-## *Peace and Governance*
+## Peace and Governance
 
 The Order cannot take on the role of governance as the fourth estate, but it can lend its magic to make the decisions behind governance easier. There are three main areas that magic can assist with: the deliverance of justice; the enforcement of agreements and contracts; and the verification of inheritance.
 
@@ -1733,7 +1733,7 @@ There are many Intellego Mentem spells that a magus can use to determine the tru
 
 But as members of the fourth estate, separate from those who govern, magi do not themselves hold court (unless so appointed by the legitimate rulers of their lands). At best their talents can be called upon to provide additional testimony or to pass opinion
 
-## *Story Seed: Who Will Rid Me of This Troublesome Magus?*
+## Story Seed: Who Will Rid Me of This Troublesome Magus?
 
 After many disagreements over the rights of magi within his kingdom, the king rages against the Praeco, culminating in the rhetorical question "who will rid me of this troublesome magus?" These private words reach the ears of both the player companions and a trio of ambitious and loyal knights. Can the companions safely assume the words to be the product of harmless frustration, or are the players now tasked with foiling a murder that nobody wants or the death of three knights seemingly acting on the orders of their king?
 
@@ -1741,7 +1741,7 @@ as to the truth of certain statements. The social effects of The Gift cannot be 
 
 Compelling a witness or the accused in any way would certainly seem to be against the laws of natural justice to us, but in Mythic Europe it
 
-## *Story Seed: The Disagreement of Kings*
+## Story Seed: The Disagreement of Kings
 
 After the death of the Praeco, two kings with lands in the same Tribunal clash over who they want as the next praeco. This is not how the Order does things; the position of praeco is granted by right, not elected. Can the player magi, acting as envoys to the kings, come to an accommodation? Does this issue risk breaking the trust that had been so hard-won? And what has the pope to say on the matter?
 
@@ -1797,7 +1797,7 @@ Should the magus wish it, he may also be able to command other information from 
 
 (Base 15, +4 Arcane Connection, +2 Ring)
 
-## *Protection from Invasion*
+## Protection from Invasion
 
 Hermetic magic allows for powerful warding effects that can protect places and individuals from harm.
 
@@ -1833,15 +1833,15 @@ There can be little excuse for casting this spell and even less for enchanting i
 
 (Base 5, +3 Sight, +2 Group, +4 size)
 
-# *Stories of the Fourth Estate*
+# Stories of the Fourth Estate
 
 The achievement of a fourth estate is not the end of the story; it is the beginning of a new paradigm. As such, the saga continues with the same mix of stories as before with the addition of those that arise from the Order engaging with society and a more relaxed attitude on questions of interference.
 
-## *Interest From Other Magical Traditions*
+## Interest From Other Magical Traditions
 
 While the local environment and political situation can be made better through magic, there are wider considerations. Magical traditions from elsewhere in the world — such as the sorcerers of the Levant and the
 
-## *Story Seed: The Gifted Student*
+## Story Seed: The Gifted Student
 
 The covenant becomes aware of a student studying at a nearby cathedral school who, from all accounts, exhibits signs of The Gift. Investigating, they find that the student is indeed Gifted but that he has apprenticed himself to one of the cathedral school masters, who is an un-Gifted learned magician.
 
@@ -1874,7 +1874,7 @@ In extreme cases, such as the defeat of Amazonia, or the absorption of the Augus
 
 
 
-## *The World of Academia*
+## The World of Academia
 
 The world of academia is changed. As magic is now so central to the world, academia starts to explore the realms, both intellectually and physically. Philosophers and adventurers seek out strange new worlds within the Magic realm, or look for long-lost loves in the Faerie realm. And they all need magical assistance.
 
@@ -1883,7 +1883,7 @@ Perhaps more insidious, it occurs to more than one noble that the lands of magic
 - The noted Franciscan scholar Walter Van den Zande asks the player magi to accompany him on a voyage to the Magic realm. He produces some notes that he found in Paris, which he understands shows a place where the world of men and the world of magic touch. He pleads with the covenant to assist him. Having opened the eyes of men to the wonders of the world, can they refuse him?
 - A jealous and disaffected noble seeks a way into the Magic realm where a man such as he can carve out a new kingdom. But his arrogance and greed have been snatched up by a faerie, who has driven the noble to the Faerie realm. There he has been granted a kingdom, a queen, and subjects. In his deluded state, the noble sends his army to attain yet more land. Only this time, the land is in the mundane world. And it belongs to the covenant.
 
-## *Mundane Engagement*
+## Mundane Engagement
 
 In return for magical aid and the benefit of their wisdom, mundane nobles start to treat covenants more like abbeys, bequeathing lands, granting fiefs, and providing patronage. Covenants and magi start to acquire "parishes" that they have a responsibility for and magi become embedded into the world around them like never before. At a local level this does two things. First, there may be resentment from the hedge wizards who have served that area for years without being noticed by their noble masters. And second, these parishes, with the increase in the overt use of magic, develop new places where magic or faerie powers flourish.
 
@@ -1905,13 +1905,13 @@ Of course, the goal in making the huge compromise in the Code is to arbitrate be
 - A Magic aura is waning, as with nothing to anchor it the aura is losing its power. Already, one of the regio levels has collapsed, perhaps lost forever. With a responsibility to husband the aura, the covenant persuades a hippogriff to make its nest in the aura as a way to anchor it and stem the loss. When it starts to hunt on the estates of a certain knight, however, the magi must find a way to keep the peace. And then the hippogriff comes into season and the males arrive, hungry and ardent.
 - The covenant receives a request from a knight living as a vassal of a neighboring covenant. He claims that they have been derelict in their responsibility to protect his land and his family from harm. It seems that a small dragon has taken to eating his cattle and the covenant has allowed the situation to continue. He asks that his liege covenant be held to account.
 
-## *The Old Guard*
+## The Old Guard
 
 Achieving the fourth estate does not instantly quiet the defeated skeptics. If anything, they may become more active in rooting out failures, finding cases where integration has damaged society or the Order. As the drivers behind the change, the player characters can expect to be called to account and dragged into cases that ultimately they have little connection with.
 
 Such encounters should be infrequent, but there is a backdrop of political briefing against the player characters and they are aware of their enemies before they strike.
 
-## *A New Kind of Politics*
+## A New Kind of Politics
 
 Each Tribunal has its own take on politics; the Rhine has its gilds, the Theban Tribunal its phylai, and Hibernia has its own cultural divide. But they all have a Praeco, generally the most senior magus in the Tribunal. And Tribunals all tend to employ some form of democratic process, however differently it may operate.
 
@@ -1922,13 +1922,13 @@ Integrating with society across Mythic Europe and the East may prompt some chang
 
 like the king and appreciate his own status, leaves the arrangements in the hands of the player characters. How do they entertain a king at Tribunal?
 
-# *Similar Kinds of Change*
+# Similar Kinds of Change
 
 The aims of turning the Order of Hermes into the fourth estate are threefold: allow the use of magic to make the world better, secure rights for the Order in society that is rapidly changing, and improve the world's understanding of the supernatural world and thereby protect it.
 
 The following changes do not take the Order all to way to the fourth estate but they each address at least two of the above aims.
 
-## *Spread Understanding of the Supernatural World*
+## Spread Understanding of the Supernatural World
 
 The Order could increase awareness and knowledge of the four realms; it only takes an understanding of Magic Lore to be able to enrich objects of Virtue, which is a strong accompaniment to the experimental philosophy practiced by academics. These enriched objects could become more common and their use potentially improve the lives of those living in Mythic Europe, or at least improve the lives of those with wealth and power enough to afford such items. But such a change, though raising the profile of magic in the world, does little to protect the activities currently carried out by those in the Order.
 
@@ -1939,7 +1939,7 @@ also use their experience with Mystery Initiations to empower companions with va
 
 The cost of this of course, however, is the identification or the development of a means to grant companions autonomous power of their own or supply them with suitable enchantments. And there is the added danger that once the companion has the power or the devices needed to effectively guide or support a mundane faction, the reliance on the Order is reduced, which may dilute the influence that the Order is able to exert.
 
-## *Work Within the Church*
+## Work Within the Church
 
 While interfering in the mundane world or serving as a court wizard may push the Order too far, perhaps accommodations can be made with the Church. This is a classic idea that comes up quite frequently, so it's worth spending some time looking at the options.
 
@@ -1951,7 +1951,7 @@ Holy magic is known within the Order, so a lack of piety is not an issue, but it
 
 The chapter describing Joseph of Napoli in *Antagonists* provides more material that may be of use to magi looking to work with the Church.
 
-## *Use Gifted Proxies*
+## Use Gifted Proxies
 
 The organization known as the Augustan Brotherhood described in *Rival Magic* is already embedded within the courts of Mythic Europe, and they already provide intelligence and service to the nobility. It may be politically more palatable to leverage these existing relationships, but the question is one of approach.
 
@@ -1966,7 +1966,7 @@ Implementing this kind of change, while aiming at the same goal, is a very diffe
 
 
 
-## *The World Changes Around the Order*
+## The World Changes Around the Order
 
 The Order is not the only magical tradition in Mythic Europe and, as the Augustan Brotherhood has shown, it is only a matter of time before one or more traditions take their places at the side of those who rule. Even unGifted hedge wizards, such as learned magicians and elementalists, can use their talents to advise those in power and to grant them some measure of dominion over the magical world in return for certain rights.
 
@@ -1993,11 +1993,11 @@ like covenants or Tribunals, which are geographically distinct from the rest of 
 
 governance or see the House withdraw from the Order.
 
-# *Opposing Integration*
+# Opposing Integration
 
 Having spent much of this chapter looking at how the player characters can influence the Order and bring about a change in favor of integrating with the mundane world, this section places the player characters in the roles of those, just like Austerius described above, who are opposing the change. But why would they oppose such a change? Most *players* tend to be fairly progressive in their outlook, which often carries over to the characters they play, and there's barely a troupe playing today whose characters haven't bent the non-interference rules to some degree.
 
-## *A Change for the Worse*
+## A Change for the Worse
 
 Becoming the fourth estate brings with it obligations. The player magi may recognize these as the thin end of the wedge, small concessions that soon build towards servitude and debt. They may also recognize that engaging with the mundane world will cause the Order to lose what focus it has; the pursuit of magic for magic's sake will be the preserve of a few fortunate or senior magi, while others are forced to contend with the difficulties thrown up by their new mundane peers.
 
@@ -2005,7 +2005,7 @@ Perhaps worst of all, in moving closer to political animals such as bishops, arc
 
 Outside of politics, a population accustomed to magic may feed Hell's ambitions; when the mundane world sees the advantages available through magic, corruptible individuals may accept the false powers granted by demons, learning how to wield their own magic in an attempt to raise themselves to the level of magi. Just as the Order begins to operate more openly, so Hell's influence may follow.
 
-## *Running Stories on the Verge of Change*
+## Running Stories on the Verge of Change
 
 The player characters are, or should be, the heroes of the saga. That means that they will tend to occupy the most reasonable ground in a world that confronts them with extremes. So the key is to make the change an *unreasonable* one and to have the player characters protecting the Order from itself.
 
@@ -2038,15 +2038,15 @@ Politics with the mundanes and the Church need not be abandoned, but the content
 
 With these measures, Magic auras can rise once more, drawing magical beasts from the Magic realm to the world for a time, and faeries will be able to feed upon the fresh vitality of magi regaining their heritage. The example of the Normandy Tribunal shows that closer integration with the mundane world, including aping its knights and tourneys, has done nothing to preserve magic, and it could be the responsibility of the player characters to pull the Order back from complacency.
 
-# *Conclusion*
+# Conclusion
 
 The need for Hermetic magi to be granted and enjoy certain rights is something that can be introduced into most sagas. Not every saga will want to to follow the full path detailed in this chapter, but it does provide for covenants that want to integrate more closely with society, to protect themselves from the jealousy of nobles and churchmen alike, and to argue in defense of their actions at Tribunal. Magi following this course gain officially recognized rights from those who rule the lands around them, new respect and recognition, and are able to better influence the good governance of the region.
 
 
 
-## *Chapter Three*
+## Chapter Three
 
-# *The Island of the Magicians*
+# The Island of the Magicians
 
 The Code of Hermes does not prevent magi ruling land; it prevents them from contesting its sovereignty with noblemen, and thereby harming other magi. In some parts of Mythic Europe, like England, this means that magi cannot own land, for all land belongs to the King and is held in vassalage. In other places, like southern France or Hungary, covenants which predate the current royal houses hold their land free of royal claim. There is nowhere in western Mythic Europe, however, that a magus can claim suffi-
 
@@ -2056,12 +2056,12 @@ In this saga seed, a group of magi sidestep this restriction by creating a count
 
 This chapter describes in detail the creation of one such land: an island in the North Sea, made from a circular stone wall that jackets an infill of earth.
 
-# *Construction: Earth Jacketed In Stone*
+# Construction: Earth Jacketed In Stone
 
 The spells and calculations given here are for a relatively simple island, but they also provide a good basis for more complex shapes and materials, if your troupe would prefer to customize their own land.
 
 
-## *Outer Wall Shapes*
+## Outer Wall Shapes
 
 The first step in this model of construction is to create a thick stone wall, which protects from erosion the earth placed behind it. Walls made by magic are faultless, unless the sigil of the magus mars them. A conventional wall is made of blocks that have been quarried, so can be no larger than what can be handled by teams of men with cranes. A Hermetic wall is, therefore, far stronger, or far thinner, than a conventional wall.
 
@@ -2087,7 +2087,7 @@ A tall cylinder is suitable for living in the deeper parts of the North Sea, and
 
 • A level 30 spell creates a wall 240 paces high, two paces thick, and just over a third of a mile in diameter.
 
-## *Simple Spells to Create Permanent Walls*
+## Simple Spells to Create Permanent Walls
 
 Spells to create simple geometric shapes are well understood by the Order, and have been used for fortification since the time of the Founders. The following spells create sufficient stone to create monoliths of the indicated shape and size.
 
@@ -2135,11 +2135,11 @@ A rectangular prism suffers greater ablation from the sea, and lacks the charmin
 
 For the same reasons that a hol-
 
-## *A Note on the Columbae*
+## A Note on the Columbae
 
 One group of magi, the Columbae, specialize in magi which affect circles and rings. They are described in *Houses of Hermes: Societates*, from page 113. A Columban magus is not required to create the magical island, but the assistance of one might prove valuable.
 
-## *Maximum Magnitudes Due to Complexity*
+## Maximum Magnitudes Due to Complexity
 
 Troupes should consider capping the number of magnitudes that complicated additional features add to the wall. They might, for example, agree that after adding three magnitudes for complexity, the magus can manipulate his creation into any shape he wishes, without adding extra magnitudes.
 
@@ -2163,7 +2163,7 @@ Wave action batters small stones and pieces of sand against sea walls. This caus
 
 The size of ablative slope needed varies depending on the wall it is protecting, but for empty cylinder walls, the spell to create an ablative slope is three magnitudes lower than the spell that creates the wall. This creates a slope of dirt equal in volume to the wall itself, which is excessive for most requirements. Ablative slopes can be larger if desired, so that they require less maintenance, or can be created by Rego magic that resurfaces the sea floor.
 
-## *Ornamentation*
+## Ornamentation
 
 Characters creating a massive wall to jacket their island may prefer that it not be a simple geometric figure. They can alter the initial spell to create many of the following effects by increasing the spell level. Alternatively, they can create the wall as a simple shape, and then retrofit it with Rego Terram spells, or the work of mundane craftsmen.
 
@@ -2192,7 +2192,7 @@ The dock area is not exposed to the hammering action of waves, so it does not su
 
 If the player characters wish to create statues atop the wall, or have relief figures carved in its surface, this is free if they are an expression of the sigil of the caster. If they are an artistic motif, they add a magnitude.
 
-## *Story Seed: Attack of the Giant Magical Snails*
+## Story Seed: Attack of the Giant Magical Snails
 
 Characters creating a stone jacketed island may attract predators that find magically-created stone tasty or useful. One predator of this type is the Sarmatian sea snail. Fortunately the snails eat so slowly that the player characters can remove them before the wall is breached.
 
@@ -2233,7 +2233,7 @@ This bite is made using a tongue covered in tiny, rasping teeth.
 **Appearance:** These giant snails are the size of a small pony each. They differ from garden snails in that they have hook-shaped feet, and a long, brightly colored, tail. Each also has a rack of tentacles atop its head, each terminating in a glowing, globular eye. These snails have a fringe of whiskers about their mouths, which give them the appearance of being mustachioed.
 
 
-## *Wall Materials Other Than Stone*
+## Wall Materials Other Than Stone
 
 The sea wall comes into contact with seawater, so stone — which does not corrode and resists impact — seems the best choice of material. Magi may, however, choose many other materials.
 
@@ -2264,7 +2264,7 @@ The wall can, theoretically, be built of wood or bone. Each of these substances 
 
 calculating volumes, stone, animal bone, and wood are equally difficult to produce. Wood and animal bone walls may alter the roles of the faeries which come to the island. Human bone is about as difficult to make as
 
-## *Backfilling the Enclosed Space*
+## Backfilling the Enclosed Space
 
 The space within the enclosing wall can be filled in various ways.
 
@@ -2282,7 +2282,7 @@ In this model, the characters note that the roots of plants, even great trees, r
 
 • For a cylindrical island 3 miles across, this requires just under 657 million cubic paces of dirt and soil.
 
-## *A Basic Quote*
+## A Basic Quote
 
 So, if your troupe decides they want a circular island thirty miles across, with a standard wall and filled with soil, then that requires just two spells, a level 35 and a level 40, and 15 pawns of vis. A maga can cast both spells in under four hours, if the long term fatigue levels lost in the first casting do not need to be recovered before the second ritual commences.
 
@@ -2330,7 +2330,7 @@ The magical island, having no natural spring, must get its drinking water via ma
 
 The space beneath sea level in the island can be filled with workspaces. This is a little counterintuitive, because when the island is first created the magi have enormous amounts of available space, and the resources to create vast storage spaces on the surface level. There are, however, some specialized rooms which are better underground. Magi may choose to fill the underground of their island with wine cellars, larders, magical furnaces, hypocaustic systems, catacombs, and laboratories. *Conjuring the Mystic Tower*, a spell which creates a single tower, adds 3 magnitudes for elaborate design, so a system which fills even larger areas of the island requires a spell of even greater complexity. Negotiate within the troupe.
 
-## *Surface Structures*
+## Surface Structures
 
 Magi who are highly skilled in Creo Terram might, in theory, create the superficial buildings of the island as part of the spell which creates the sea wall. This is more difficult than it initially appears, however. This method of creating the island first makes the stone wall, and then makes the earth fill. To make the buildings and waterways of the island at the same time as the wall requires either that the houses and canals have tall stone foundations, or that the earth fill that supports them be created at the same time as the wall. It is easier for most magi to create the island, and then alter its surface.
 
@@ -2439,7 +2439,7 @@ This spell can also be used to create stone lined riverbeds.
 
 (Base 3, +1 Touch, + 4 size)
 
-## *Surface Life*
+## Surface Life
 
 Having created an island the player characters need to develop it, so that it is something other than a desert of soil and stone and structures.
 
@@ -2475,7 +2475,7 @@ This spell covers just under 1.25 acres of land with thick grass about a pace hi
 
 (Base 1, +1 Touch. +2 Group, +1 size)
 
-## *How Many Peasants Are Needed?*
+## How Many Peasants Are Needed?
 
 A typical manor, for a landed knight, is 600 acres. This includes a mixture of land types, and highly fertile land can reduce this by a third. This provides 20 Mythic Pounds of income, before expenses, each year. Such a manor requires between 5 and sixty peasant families, depending on which industries they pursue. This means:
 
@@ -2500,7 +2500,7 @@ Larger animals may be introduced by magi, but may also be introduced by faeries.
 
 Bees, which are vital for the production of most crops, are generated by the decay of the corpses of cows. Player characters who create too many bees before they have flowers must watch them starve, but players who have flowers, and no bees, must watch them wither. Fortunately, things generated by magically created animals persist even if the spell's duration ends. Clever magi
 
-## *Story Seeds: Stolen Things of Natural Beauty*
+## Story Seeds: Stolen Things of Natural Beauty
 
 Some areas of fantastic appeal are tethered to the Magic Realm, and skilful magi can simply steal these areas and move them to their island. Doing this may provoke various forms of resistance:
 
@@ -2519,7 +2519,7 @@ retreats, so the player character, riding his stolen hill, may find he has compa
 
 on the piece of land, if he wishes. (Base 3, +1 Touch, +3 Moon, +4 Boundary, \* remember to add further magnitudes to increase Boundary size.)
 
-## *Story Seeds: Acquiring Ancient Structures*
+## Story Seeds: Acquiring Ancient Structures
 
 Many ancient structures might suit the player characters, but most are valued, and therefore guarded, by the magi of the surrounding Tribunals. A few exceptions exist, and player characters who make a Magic Lore or Area Lore roll against an Ease Factor of 9 can describe them to their sodales.
 
@@ -2567,13 +2567,13 @@ Magi wanting to absolutely ensure they have bees can add a Perdo requisite, to m
 
 (Base 10, +1 Touch +2 Sun +2 Group)
 
-# *Mystical Features*
+# Mystical Features
 
 After the player characters create their island, and deal with the immediate problems of housing themselves, their chattels, and their followers, they face a greater problem. The island is new and artificial; Magic auras, and the vis which arises in them, tend to be found near sites of ancient magic or natural beauty.
 
 If the characters realize this problem in advance, they can make preparations. If they do not prepare, then they must ameliorate.
 
-## *Auras*
+## Auras
 
 Magic auras develop in four main ways. Areas of great natural beauty develop auras through their innate connection to the Magic Realm. Ancient structures slowly develop magical tethers. The residue of powerful rituals can create an aura. Magical creatures live in Magic auras, and whether they create the aura, or merely strengthen them by their continued habitation, is unclear.
 
@@ -2691,7 +2691,7 @@ Places where potent spirits dwell eventually develop auras. Potent spirits usual
 
 Two creatures who might be convinced to come to the covenant and make their lair among the magi are provided nearby: a telechine and an aspect of Phorcys.
 
-## *Lack Of Vis*
+## Lack Of Vis
 
 Vis tends to form in areas which have Magic auras, and, as noted in the previous section, these are rare on newly created islands. Characters may get the vis they require through trade, by hunting it in nearby areas, or by calling faeries to the island.
 
@@ -2705,11 +2705,11 @@ The lack of readily available vis sources on land may force the magi to seek it 
 
 Other sources have a more obscure origin, like ambergris and amber, washing ashore. Rumors of ghosts ships and strange natural phenomena become story hooks.
 
-## *Story Seed: A Spare Farthing*
+## Story Seed: A Spare Farthing
 
 The greatest treasure with a link to the North Sea is that of King John. His baggage train was lost in a tidal surge as his forces crossed the Wash, just over three years ago. No part of the treasure has been recovered, save one tiny piece. A little, fl at crown, a hand span across and made of gold, was found by a laborer in the bog. It was perhaps the golden rim of a cup. This element of the hoard might act as an Arcane Connection to the rest. Sadly, the Redcap who heard the story of the fi nd, from the reed cutter, says that man sold it to a passing merchant for a farthing. How do the characters fi nd the merchant?
 
-## *Story Seeds: Faerie Kings*
+## Story Seeds: Faerie Kings
 
 The player characters may wish to attract a powerful faerie to the island. This great being is able to maintain some control over the many minor spirits which follow settlers to the new land. If the player characters do not appoint a mortal king, it is possible that a faerie simply usurps that role.
 
@@ -2821,7 +2821,7 @@ Costs 40 spell levels. (Base 30 +2 Sun)
 
 
 
-## *Treasures of Manannan*
+## Treasures of Manannan
 
 Manannan is reputed to have either four or five magic items, which he may lend to those who serve him. Even if these items are lost, they are so closely tied to his legend that he instantly has them available again. Sometimes he seems not to know they were ever destroyed. The items are, probably, expressions of his faerie powers. His items are:
 
@@ -2849,7 +2849,7 @@ Celtic faeries who acknowledge Manannan's role believe that he:
 - Can make humans into faeries.
 - Is a gatekeeper between the mortal and immortal lands.
 
-## *Tursus*
+## Tursus
 
 Tursus is almost a faerie god: he is the lord of beaches festooned with seals and plundered for walrus ivory. If the player characters have created an island with an internal harbor, then he wishes to raise his throne in its center and have his minions, the Auvekoejaks, enslave nearby human settlements.
 
@@ -2900,7 +2900,7 @@ One possibility is to have rooms within the fill of the island that lie on the s
 
 Faeries are troublesome neighbours, but their presence is valuable for magi. Faeries are made from vis. Some can distil vis. The most powerful faeries also create Faerie auras, which aid spellcasting and laboratory work. Player characters can draw faeries to the island deliberately, but even if they make no effort, faeries will follow the human settlers that the magi recruit.
 
-## *Ritual Wards and Other Boundary Spells*
+## Ritual Wards and Other Boundary Spells
 
 One advantage of a land which is completely encircled by a wall is that its jacket can act as the target for Warding spells. The circular shape of the land's wall makes it suitable for Ring and Circle wards, but these are difficult to cast. As per **ArM5** page 112, a magus must trace the Ring or Circle, cannot move faster than 10 paces per round, and must make an Intelligence + Concen-
 
@@ -2927,7 +2927,7 @@ This spell prevents rain falling on the island for a month. It may prove particu
 
 
 
-## *Auvekoejaks*
+## Auvekoejaks
 
 This tribe of northern merfolk is more vicious than their southern cousins. When the two types come into contact, they often make war on each other. The relationship is, deliberately, similar to the relationship between the Vikings and the southern nations. As an extension of this, a race of Norse faeries might invade the lands of the Saxon and Celtic faeries. This may send merfolk noblemen to the court of the magi as refugees, perhaps followed by whole tribes of their subjects.
 
@@ -3046,7 +3046,7 @@ There are three considerations for magi wanting to use the island's wall as a Bo
 
 • The basic Boundary is only 100 paces wide, so islands created using the methods described in this chapter require spells with additional magnitudes for the size of their targets. As examples, a circular island with a diameter of 3 miles requires 2 added magnitudes, a 30 mile diameter island requires 3 added magnitudes, and a 300 mile wide island requires 4 added magnitudes.
 
-#### **The Command of Every Beast ReAn 20\*,** Ritual
+#### **The Command of Every Beast ReAn 20\,** Ritual
 
 **R:** Touch, **D:** Conc., **T:** Boundary This spell allows the magus to give a command to every beast on the island. Commands for large groups of animals can be no longer than a sentence, because there are simply too many minds to control.
 
@@ -3159,7 +3159,7 @@ The inverted fishers form small villages near high places, mountains if they are
 
 
 
-## *Story Seeds: Faerie Tribes cont'd*
+## Story Seeds: Faerie Tribes cont'd
 
 take to their sky boats, and sail out of sight, returning with their nets filled with flocks of brightly colored birds. These they kill, salt, eat, and sell, much as fishers do with sea life.
 
@@ -3274,7 +3274,7 @@ This spell transforms the water in the canals of the island into another natural
 
 \* Remember to add further magnitudes to increase Boundary size. (Base 2, +1 Touch, +2 Sun, +4 Bound)
 
-## *Elemental Spirit of the Waves*
+## Elemental Spirit of the Waves
 
 **Deep within the waters are potent elemental spirits. If the characters construct their island by first casting up a great wall of stone, it is possible that one of these creatures will be penned inside. It must be dealt with because it has the power to shatter the wall in its quest for the open sea. The characters may only discover the creature exists if they cast spells to fill the space inside the wall, and find a great well, caused by the Magic Resistance of the creature, diverting the infill from landing upon it. A powerful water elemental enclosed in a tube of earth like this is both dying and furious.**
 
@@ -3326,11 +3326,11 @@ Adds +3 to the Soak score of all humans on the island, for the rest of the day o
 
 \* Remember to add further magnitudes to increase Boundary size. (Base 15, +1 Touch, +2 Sun, +4 Bound)
 
-# *Location: The North Sea*
+# Location: The North Sea
 
 The North Sea has been chosen as the site for this example for several reasons.
 
-## *Comparatively Shallow*
+## Comparatively Shallow
 
 Constructing the magical country in a shallow sea allows magi to have a greater area of land above the surface for any volume of created earth.
 
@@ -3347,13 +3347,13 @@ A covenant which covers much of the Dogger Bank destroys the fishing industries 
 
 There are legends of various faerie tribes which dwell in the depths of the sea, particularly in the area of the Dogger Bank, because it is visited by so many fishermen. When the area of sea that the magi rework becomes land, these faeries are forced into new roles. Some aquatic faeries are able to come onto land, like selkies and some merfolk. Others take on entirely new roles, to meet the expectations of the humans coming to colonize this new land.
 
-## *Surrounded by Turbulent Kingdoms*
+## Surrounded by Turbulent Kingdoms
 
 From the perspective of the player characters, the kingdoms surrounding the North Sea make good neighbors, because they lack naval forces of their Mediterranean counterparts. They also lack the infrastructure to rapidly create large, modern fleets. In the North Sea, naval battles do occur, but are comparatively rare, because kingdoms have land boundaries with their adversaries, and these are the theaters of conflict.
 
 On a deeper level, the kingdoms surrounding the North Sea lack Mediterranean-style war fleets because sea trade is less well developed, and because they are not internally unified. The cost of keeping nobles in line prevents kings from spending money on ships. This suits troupes, because it allows player characters to meddle in the surrounding kingdoms.
 
-## *Picking a Nobleman as King*
+## Picking a Nobleman as King
 
 The player characters, if they wish to select a king, face the least resistance if they select one from a family already noble in the surrounding lands. Most noble families have a genealogy, however spurious, which links them to some ancient hero or other, giving them an apparent authority. Selecting a peasant as a new king is possible: there's some precedent in history for the sons of farmers and tanners becoming emperors, but it's not as easy as promoting a nobleman. Ultimately, any king needs to prove his mettle, but moreso if his blood is considered base.
 
@@ -3371,7 +3371,7 @@ Isabella is a seven year old in distant Outremer, so her demands are few. Her la
 
 The great master of politics in Western Europe, the player characters need to deal with Phillip in some way, so vassalage might suit. Phillip has already doubled the size of his personal lands, shattered the rivals on his southern border, and wrecked the economy of England by fueling civil war and invasion. His interests are held most strongly by these powerful
 
-## *Story Seeds For Turbulent Kingdoms*
+## Story Seeds For Turbulent Kingdoms
 
 A saga set on an island in the North Sea can harvest mundane story seeds from Tribunal books for Stonehenge, Loch Leglean, the Rhine, and Normandy.
 
@@ -3385,7 +3385,7 @@ Medieval kingdoms occasionally expel the Jews, when religious mania turns agains
 
 
 
-## *Story Seed: The Coronation*
+## Story Seed: The Coronation
 
 If the player characters do create a king, and have him recognized, then they need to arrange coronation for their puppet. A coronation must occur, and must involve a vast panoply of people, and require great expense. Coronations cannot be simple. The only king in the region who has had a simple coronation in the last few centuries was Henry III, and the pope forced him to do it again, properly this time.
 
@@ -3434,15 +3434,15 @@ Jon holds land from the kings of Scotland and Norway, and would make a suitable 
 
 This bishop may have been a faerie. Bishop Adam was found as a baby in a basket on the church's step. The final straw for the people who killed him was his insistence that they all pay a traditional tax of butter on their herds, even though this meant he had far more butter and far less coin or meat than any sensible person could want.
 
-## *Does it Need to be a King?*
+## Does it Need to be a King?
 
 Independent counts and princes are found in many areas of Mythic Europe. They do not require a papal coronation and gain less Magic Resistance from the process than king. They also have less diplomatic prestige than kings.
 
-## *Hermetic Borderland*
+## Hermetic Borderland
 
 The North Sea is treated as a natural border by Hermetic Tribunals, so a magical island placed in the center of it becomes a contestable space. A Grand Tribunal ruling on the status of the Isle of Man, which indicated that the island belonged to whichever Tribunal could settle it, gives the characters precedent to join whichever surrounding Tribunal they wish, provided that Tribunal accepts them.
 
-## *Theological Matters*
+## Theological Matters
 
 The Roman Church claims universal power in Mythic Europe, and although it is contested in the East and Africa, player characters who create a new country must come to terms with the Church in some way.
 
@@ -3462,7 +3462,7 @@ The player characters have created, for all intents, a kingdom, and so it will b
 
 
 
-## *Story Seeds for the Hermetic Borderland*
+## Story Seeds for the Hermetic Borderland
 
 Each of the surrounding Tribunals has factions which would support, and others which would oppose, the addition of a huge territory to the Tribunal.
 
@@ -3485,7 +3485,7 @@ When the player characters begin to settle their island, a group of Tytalus magi
 
 
 
-## *Story Seeds for Theological Matters*
+## Story Seeds for Theological Matters
 
 The pope claims sovereignty over the entire earth, theoretically, but in practice lets kings rule. As a display of this, newly baptized kings from previously pagan lands often gifted with a crown by the pope, demonstrating his acceptance of the king's right to rule.
 
@@ -3516,13 +3516,13 @@ attention and special favor.
 
 **Someone new.** If a person of great piety dies during the foundation of the magical land, God may grant that person powers of intercession. The player characters may wish to campaign for the formal recognition of their local saint.
 
-## *The Eye of Hell*
+## The Eye of Hell
 
 There is a demon appointed for the subversion of every kingdom in the world. Some say that these are all Watchers, who fell when they married into the Race of Men. These are described on page 64 of *Realms of Power: The Infernal*. For the sake of this story, two other varieties are used. A demon claiming suzerainty over this new realm rises in the Infernal hierarchy.
 
 A horde of demons, majors and minor, rush to the kingdom, each vying for superiority. The two most powerful claimants are already the patrons of kingdoms, but are the least of their kind, because their kingdoms have fallen into the sea. They use the other demons, human servants, and even the magi, as pawns in their battle to become the patron demon of the new land. Each has minor demons as personal servants.
 
-## *Three Demons and their Retinues*
+## Three Demons and their Retinues
 
 These three demons are particularly appropriate to oppose player characters who create islands. Their retinues are also described below.
 
@@ -3530,7 +3530,7 @@ These three demons are particularly appropriate to oppose player characters who 
 
 This demon claims to be the god Neptune, the creator and destroyer of Atlantis. Magi with even the most ba-
 
-## *A Note on The Powers of Demons*
+## A Note on The Powers of Demons
 
 Many demons have powers which are variants of those gathered here.
 
@@ -3604,7 +3604,7 @@ This demoness takes the form of — and spreads through her mortal servants a re
 
 Neqael corrupted, but did not destroy, the half-imaginary land of Lyonesse. Most people who are aware of
 
-## *A Note on Tainted Vis*
+## A Note on Tainted Vis
 
 Detailed information on tainted vis can be found in *Realms of Power: Infernal*, on pages 18 and 19. Those troupes not using that set of rules might instead assume that all tainted vis:
 
@@ -3614,7 +3614,7 @@ Detailed information on tainted vis can be found in *Realms of Power: Infernal*,
 
 
 
-## *The Wicked Boys of the Third Square*
+## The Wicked Boys of the Third Square
 
 This tribe of small, evil spirits serves Rumael. They delight in racing across the decks of ships, or through the streets of towns, wrecking things. While racing they carry off prizes. They value beer highly, and also, for reasons which are unclear, hats. Occasionally a captain among these creatures is slightly more powerful (Add title of Master to Order, 5 Infernal Might, Reputation 3, Hierarchy 3, Qik +2, Imitative +2, Defense +8). He also has a fancier hat.
 
@@ -3717,7 +3717,7 @@ The mortal who grants the Red Knight permission to destroy his victims must have
 
 Some tribes of merfolk, around the coasts of France, and even further afield if interacting with Breton sailors, claim to be descendants of the people of Ys. They say they were changed into merrow as an act of mercy by God, when the sinners of Ys were killed. These merfolk have a traditional, intergenerational hatred of the Red Knight (or, at least, they believe they do). They will gladly die to see him destroyed. Characters who make an Intelligence + Faerie Lore roll against an Ease Factor of
 
-## *The Mavens of Etiquette in the Court of the Purple Bower*
+## The Mavens of Etiquette in the Court of the Purple Bower
 
 These courtiers are sexual demons who are, strangely, entirely chaste. They teach courtiers a distorted moral code, and the techniques of seduction.
 
@@ -3810,7 +3810,7 @@ tache far more than necessary +3, Flirtatious +2, Merciful –5
 
 **Appearance:** The Red Knight dresses impeccably, in enameled armor or costly scarlet clothes. He has red hair, a jaunty mustache, and arching eyebrows. He's roughish and charismatic. Unlike the other two major demons given here, he does not have Infernal servants. He often travels with a human squire or valet, who appears unaware of his nature.
 
-## *Other Faiths*
+## Other Faiths
 
 Player characters might choose settlers of a different religion, or of a Christian sect considered heretical by the papacy. The current pope, Honorius III, is strongly in favor of the crusading movement in the Baltic, the Reconquista in Iberia, the crushing of the Cathars in southern France, the Latin Empire in Constantinople, and the invasion of Muslim lands in Africa. One more theatre of war won't bother him.
 
@@ -3829,7 +3829,7 @@ for the role of bishop, or convince him of the need for immediate reporting to R
 
 Honorius is implacably opposed to Jews or Muslims working in the administration of any Christian king, particularly in roles which involve handling money. If the player characters promise to not employ Jews or Muslims directly, and to aid the Order of Preachers in their peaceful conversion, Honorius can be convinced not to demand their expulsion.
 
-## *A Boom in People and Trade*
+## A Boom in People and Trade
 
 Many of the kingdoms surrounding the North Sea are experiencing explosive population growth, and rapid urbanization. In Great Britain, the population is predominantly along the North Sea coast. In France, Paris, which connects to the North Sea by the heavily-trafficked Seine, is the largest city in the west of Mythic Europe. In the Baltic, alliances of merchants, and between towns, are forming, allowing them to prepare for greater adventures of commerce and speculation than ever before.
 
@@ -3838,11 +3838,11 @@ Many of the kingdoms surrounding the North Sea are experiencing explosive popula
 
 • The player characters may design their kingdom as a great emporium of the north, although in time this may lead to conflict with Venice. Venice lacks the power to send a war fleet into the North Sea in 1220, but it has sufficient money to bribe the nobles of surrounding nations into declaring war. As a corollary, if the player characters can prove this has occurred, then there are many covenants with interests in Venice, one of which may be pleased to aid the player characters in reprisal, in exchange for some other favor.
 
-# *Alternative Locations*
+# Alternative Locations
 
 There are many good reasons to place the magic land in the North Sea, but player characters may prefer one of these other locations.
 
-## *The Atlantic Ocean*
+## The Atlantic Ocean
 
 The depth of the Atlantic acts as a complicating factor to creating a truly massive island, as it is somewhat over 4000 paces deep, on average. The *Wedding Ring of Gaea*, given in an earlier insert, creates a wall of stone 4000 paces deep, two paces thick, and just under 1250 paces long, which is a circle 398 paces in diameter. *The Wedding Ring of Gaea* is, however, a level 35 spell, and some Hermetic magi are able to cast spells of far higher level than this.
 
@@ -3872,7 +3872,7 @@ They were washed up on a great island, which had, through sheer coincidence, sev
 
 west coast of Hibernia which may be suitable, but some of these may have been claimed by Hermetic covenants already.
 
-## *The Baltic Sea*
+## The Baltic Sea
 
 The Baltic Sea averages 60 paces in depth, which means:
 
@@ -3881,7 +3881,7 @@ The Baltic Sea averages 60 paces in depth, which means:
 
 The islands of the Baltic are, for the most part, owned and claimed by various kingdoms. That being noted, with the obvious exception of Gotland, most can be purchased from their current ruler, for a large enough fee. Bornholm is currently contested by the King of Denmark and the Bishop of Lund. The Ertholmene Archipelago is uninhabited, but perhaps lacks sufficient sea room about it to make it a viable choice.
 
-## *Saga Seed: Tartessos Emerges*
+## Saga Seed: Tartessos Emerges
 
 Tartessos, as described by the ancients, was a rich port at the furthest inhabited edge of the world. Phoenician traders who landed there could gain such cargoes, and realize such profits, that they could plate their anchors in silver before their return. Tartessos no longer exists — it may perhaps have been in Iberia — but the memory of it, the dream of it, persists.
 
@@ -3898,7 +3898,7 @@ language, who barter away rich goods for apparent trifles.
 
 Do the player characters oppose the return of Tartessos, or find a way to communicate with the Faerie gods, and parley with them? For inspiration, an alternative version of Tartessos is found in *Rival Magic.*
 
-## *The Black Sea*
+## The Black Sea
 
 The Black Sea is an interesting choice as site, located on the edge of the Hermetic world and lying between the Theban, Transylvanian and Novgorod Tribunals. This sea averages 1420 paces deep, which means that:
 
@@ -3909,7 +3909,7 @@ The Black Sea is an interesting choice as site, located on the edge of the Herme
 There are hundreds of faerie islands in the Black Sea, only one of which is geographically stable. Snake Island is described in greater detail in *Against the Dark: The Transylvanian Tribunal*.
 
 
-## *The Mediterranean*
+## The Mediterranean
 
 The Mediterranean requires more powerful spells to create an island of a particular size than the North Sea, lacking that body of water's strange shallowness. On average, the Mediterranean is 1630 paces deep, with lower wave height than the Atlantic. The *Wedding Ring of Gaea*, given in an earlier insert, creates a ring of stone 1,640 paces deep, two paces thick, and just under 970 paces (0.55 miles) in diameter.
 
@@ -3924,7 +3924,7 @@ Mercury on the site currently occupied by the largest mosque in the island chain
 - All of the islands off Greece are claimed by the Theban Tribunal's many member covenants, and their innate conservatism is unlikely to welcome an innovative land construction project.
 - Vis harvesting rights to all of the islands off the coast of Dalmatia are claimed by House Mercere, under the stringently enforced rules of the Transylvanian Tribunal.
 
-## *A Floating Island*
+## A Floating Island
 
 Player characters may prefer to create an island which is mobile. They can do this by changing the shape of the wall into a circular cap, and making it from pumice, a strange type of stone which floats in water.
 
@@ -3934,7 +3934,7 @@ Player characters may prefer to create an island which is mobile. They can do th
 
 Characters who create a floating island must find a way to steer it. If they have the aid of one of the vast magical monsters described earlier in this chapter, then smaller floating islands can simply be towed, if the creature will deign to perform such labor. Magic items may be used to push, drag or teleport the island. Alternatively, spells to control the island are simple to create.
 
-## *Story Seed: Earlier Floating Islands*
+## Story Seed: Earlier Floating Islands
 
 The island of Delos, in the Aegean Sea, was once a floating island. Zeus, lord of Olympus, tethered it to the sea floor with, depending on which source you prefer, great chains or thick pillars. Player characters intent on creating a floating island may wish to go to Delos, to see how it comes to float. Is it natural, is it the handiwork of ancient spellcasters, or is it the creation of creatures with supernatural powers? Delos is the meeting place of the Theban Tribunal, so characters may find collaborators in their research, or locals who do not want the mysteries of their region exposed to outsider eyes.
 
@@ -3949,9 +3949,9 @@ This spell does demonstrate the difficulty of steering with simple spells, howev
 (Base 2, +1 Touch, +2 Ring, +1 Circle, +6 Size)
 
 
-## *Chapter Four*
+## Chapter Four
 
-# *Magic as Technology*
+# Magic as Technology
 
 Mythic Europe is a world of Aristotelean physics, where magic manipulates the natural forces of the universe. Technological development is unlikely to develop down the same paths as historical Europe, since the differing laws of physics make some scientific developments impossible, and others yield contrary results. Magic is bound to be an integral part of the future development of Mythic Europe, and the most powerful wielder of magic in the thirteenth century is the Order of Hermes.
 
@@ -3961,7 +3961,7 @@ Troupes often try hard to avoid anachronism in **Ars Magica Fifth Edition**, bot
 
 This chapter focuses principally on four inventions as examples of enchantments that could change the face of Mythic Europe. These are intended to serve as paradigms of the kind of impact that magical technology could have on society. These examples are discussed first, and then the rest of the chapter is a more general discussion of the effects that magical technology can have on Mythic Europe.
 
-# *Scrying as a Means of Correspondence*
+# Scrying as a Means of Correspondence
 
 Considering the ubiquity of mobile phones in the modern era, it should be no surprise if players of **Ars Magica Fifth Edition** want their magi to invent magical analogs of these devices. This technological breakthrough is about communication over distances, a practice to which the term "scrying" is rightly applied, although the Code of Hermes also uses this term to designate a proscribed use of magic (more on this later).
 
@@ -3969,13 +3969,13 @@ The utility of such enchantments need not be explained to most players, but the 
 
 It may be that some covenants already have devices permitting communication between distant allies. Scrying devices become agents of transformation when they become commonly available to mundanes rather than just between members of the Order.
 
-## *Remote Writing*
+## Remote Writing
 
 The subtlest form of magical correspondence is an enchantment employing remote writing, where a message written at one location
 
 also appears at another. There are a number of ways in which this can be achieved, two of which are described below. Remote writing is less useful for conversations and more useful for imparting information, asking for help, and sending news. A key advantage of this type of magical technology is that it cannot be misconstrued as scrying by a Tribunal, or accidentally used to commit a Hermetic crime. It also presupposes that the intended recipient can read — a safe assumption if the message is for a Hermetic magus, but this can be more restrictive if intended for mundanes.
 
-## *Example Device: Quills of Arcane Correspondence*
+## Example Device: Quills of Arcane Correspondence
 
 This item is usually designed as two identical magical devices: a pair of perfectly matched goose quills. Inside the hollow shaft of each quill is an Arcane Connection to its partner; these Arcane Connections have been fixed in the laboratory to extend their durations indefinitely (**ArM5**, page 94). The enchantment within ensures that whatever is done with one quill is copied by the other, including dipping the pen into ink and writing on a page. Each item is typically left in a carefully prescribed position, lying on top of a sheet of parchment with an inkwell exactly placed and always filled with fresh ink. Failure to follow these procedures may mean that the message is not reproduced at the other location, either because the parchment was not registered correctly or no ink was picked up by the pen. Only one quill needs to be enchanted if one-way communication is all that is desired.
 
@@ -3997,7 +3997,7 @@ When the effect is triggered, any movements of the enchanted quill are exactly m
 
 (Base 1, +4 Arc, +1 Conc, +1 precise control; +4 12/day)
 
-## *Example Device: The Unsubtle Knife*
+## Example Device: The Unsubtle Knife
 
 Invented by Atrox of Tytalus, this device allows him to issue orders to any of his agents, who are scattered across the region. He keeps an Arcane Connection to each agent's home as a matter of course.
 
@@ -4013,13 +4013,13 @@ The effect is triggered by writing a message with the tip of the knife on a suit
 
  (Base 1, +4 Arc, +2 Sun, +1 clear letters; +2 3/day)
 
-## *Clairvoyance and Clairaudience*
+## Clairvoyance and Clairaudience
 
 Scrying is technically the use of Intellego spells at Arcane Connection Range, although for legal purposes the Code of Hermes has extended the use of the term to cover the use of any magic to spy or aid spying into a magus's affairs (*Houses of Hermes: True Lineages*, page 52). When magi talk of scrying however, they are normally thinking of clairvoyance (viewing things from a distance) or clairaudience (hearing things at a distance).
 
 Items involving scrying magic often employ similar Shape and Material bonuses. Rock crystal is perhaps the most potent, granting +5 clairvoyance (**ArM5** page 110). Electrum is an alloy of gold and silver that grants +3 scrying (*Houses of Hermes: Mystery Cults*, page 137), and silver offers a +2 bonus to Intellego effects (*The Mysteries Revised Edition*, page 33). Mirrors are a popular shape for scrying: not only do they include silver, they also grant a +6 bonus to effects that display images within the mirror (*Houses of Hermes: True Lineages*, page 139).
 
-## *Example Device: Earring of Whispering Voices*
+## Example Device: Earring of Whispering Voices
 
 Perhaps the simplest of all scrying devices, this enchantment takes the form of a piece of jewelry — usually an earring to make the best of the Shape and Material bonus of +5 to hearing effects. Occasionally these items are made as a matched pair with an integrated Arcane Connection to the other user, and these allow two people to communicate with one another no matter what the distance between them. The owner of a paired device who does not want a conversation overheard would do well to remove her earring and place it in a box or bag.
 
@@ -4054,7 +4054,7 @@ The user of the device can hear the voice of the person to whom she has an Arcan
 
 (Base 1, +4 Arc, +1 Conc; +2 3/day)
 
-## *Example Device: The Hermetic Speculum*
+## Example Device: The Hermetic Speculum
 
 The traditional design for this device is a polished sphere of rock crystal, taking advantage of the Shape and Material bonus for clairvoyance. Another common form for this device is a silver-backed mirror. A speculum ("mirror" in Latin) is a well-known magical device among sorcerers who indulge in speculomancy for their masters, often credulous lords and princes. Such sorcerers may be charlatans, hedge wizards, or both.
 
@@ -4084,7 +4084,7 @@ This spell operates like *The Invisible Eye Revealed* (**ArM5**, page 157): the 
 
 (Base effect, +1 to increase Duration from Conc to Sun, +1 to increase Target to Smell; +1 2/day; +3 environmental trigger)
 
-## *Example Device: The Effigy of the Errant Image*
+## Example Device: The Effigy of the Errant Image
 
 This is perhaps the most effective type of device for distant communication, because it allows two-way communication through a single device rather than having paired items with reciprocal Arcane Connections. The user of the device creates an image of himself at a distant location, and can see and talk to anyone there present. The chief disadvantage is that the enchantment is of eighth magnitude, and so is more difficult and more costly to create.
 
@@ -4102,7 +4102,7 @@ This effect causes the user's image to disappear from its current location and a
 
 The wielder can speak at the designated location and hear any responses, and he can also see everything he could if he were actually there. He cannot move his image from the immediate vicinity of the Arcane Connection, although he has some limited movement — he can pace up
 
-## *Story Seed: Inappropriate Use*
+## Story Seed: Inappropriate Use
 
 Once scrying devices make it into the hands of mundanes, it is only a matter of time before a magus becomes is the target of a mundane's curiosity. The victim raises a prosecution case against the manufacturer of the device for scrying. This might seem like a difficult case to argue, but the prosecuting counsel has a sympathetic Tribunal behind him, and this could go badly for the character who made the offending device.
 
@@ -4112,7 +4112,7 @@ Note that the image cannot enter an area protected by an *Aegis of the Hearth* u
 
 (Base 15, +1 Touch, +1 Conc, +1 additional sense, +1 requisite; +5 item maintains concentration)
 
-## *"I Will Not Use Magic to Scry..."*
+## "I Will Not Use Magic to Scry..."
 
 The scrying devices described above use Target Individual to directly spy on a person, but could equally use Target Room to relay the images of multiple individuals at once (provided they were in a room). If a magus happens to be in that area, then the user of the device has scried upon the other, and if a magus, has committed a High Crime. Designing the device with a Penetration of zero prevents this, but also prevents distant communication between magi. The two devices described above each have methods of signaling the recipient so he can suppress Magic Resistance, but this extends the resources needed to make the item in the first place.
 
@@ -4120,7 +4120,7 @@ Few tribunals would convict a magus if the possessor of a twinned device carried
 
 Remote writing technology has none of these perils. Even if a magus sees a message that was not intended for him he has not been scried upon, for the user of the device has gained no information about the other magus. It could be argued that a magus who reads a message intended for another has scried upon the author of that message, since since he has gained information about another magus through the use of magic. This is a very tenuous argument to make, and would probably be rejected by most Tribunals since the aggrieved magus was the initiator of the magic that caused the crime to occur.
 
-## *Why it May Not Work: Lack of Penetration*
+## Why it May Not Work: Lack of Penetration
 
 The Order of Hermes is liable to be very cautious around magic that permits an individual to scry on another. The Hermetic Oath is quite specific in prohibiting its members from scrying another maga or using magic to peer into her affairs. The Peripheral Code of a Tribunal might forbid magi from supplying scrying magic to their servants for this purpose as well.
 
@@ -4130,7 +4130,7 @@ not wholly innocent. However, this simple implementation of avoiding Penetration
 
 Remote writing devices present less of a problem; they can be made by a covenant and then given to an ally, allowing that ally to instantly communicate with them regardless of distance. Covenants may be unhappy about handing out permanent Arcane Connections to items within their covenant, however, even to trusted friends. Once such items are out in the world, it might be too easy for enemies to get their hands on them.
 
-## *Societal Impacts*
+## Societal Impacts
 
 It is a common aphorism that "knowledge is power," and this is particularly true in a world where news can be transmitted much faster than a courier can travel. Getting news of a battle just minutes after its conclusion confers a huge tactical advantage on a major noble conducting a war — on the assumption that these devices are scarce. Indeed, a cunning individual might pay a premium ensuring exclusivity over all copies of the device, which he gives to his trusted vassals and spies. It might be years before anyone discovers the source of his political and military success. The attempted patent on the device will not persist beyond this revelation; the spells needed to copy the device are relatively simple, and variants can be easily conceived by another magus.
 
@@ -4140,7 +4140,7 @@ If integration of scrying devices into Mythic Europe is achieved, the impacts wi
 
 The most basic devices are remote writers like the Quills of Arcane Correspondence. These have proved a boon to merchants, who can place orders with their suppliers without having to rely on couriers. Likewise, producers can inform their vendors instantly when new artisan goods are ready, and create a demand for their produce in advance of its arrival. Bankers use the devices to secure remote authentication, allowing transfer of funds to be arranged instantly. Lieges use the devices to communicate with their vassals, and they have changed the face of warfare, allowing orders to be clearly and unambiguously issued to distant troops. The commoners also have access to Quills, at least in towns. It is usual for a town ward to club together to raise the funds for devices connecting to several locations, and they are available to any member of that ward. The Quills are normally kept in a locked room, and
 
-## *I'm Sorry, Your Call Could Not Be Arcanely Connected*
+## I'm Sorry, Your Call Could Not Be Arcanely Connected
 
 Magical communication is reliant on Arcane Connections, and these would probably need to be fixed in the laboratory (**ArM5**, page 94), else they are in danger of becoming Arcane Connections to something else, such as the box they are stored in (**ArM5**, page 84). If scrying technology is to become widespread, then it is likely that the locations it would be possible to view or contact would be limited, due to the time and vis needed to perform this task. It is a laboratory activity that can be easily assigned to Hermetic apprentices and junior magi, however; even some hedge wizards are capable of fixing Arcane Connections. Public collections of Arcane Connections might be made available, each carefully labeled, and an individual could borrow one if he leaves a deposit and an Arcane Connection to himself. Both will be returned upon return of the borrowed material, but allow the collection's curators to track down unreturned reference material, and trace or punish those who are suspected of using such material in malfeasance.
 
@@ -4162,7 +4162,7 @@ The visual and auditory species produced by anyone within the circle drawn by th
 
 their neighbors. The recent fad is for devices that detect scrying, and some inventors have produced devices that prevent it entirely. There have been covert requests to the Order by certain high placed individuals for ways by which communication can be intercepted by a third party, but each object works through an Arcane Connection, which can only ever be joined to a unique object. Interception of communiqués requires obtaining an Arcane Connection to one of the two original devices and creating a third; and only half of the conversation would be heard unless an Arcane Connection to both devices was obtained. Whether or not this has been achieved is a secret of the artificers and their employers.
 
-## *Story Seed: Peeping Tom*
+## Story Seed: Peeping Tom
 
 A clandestine interest in invading another's privacy with scrying devices has attracted the interest of a demon. It supplies Arcane Connections to particularly licentious people, hoping that the peeping toms will imitate what they see. It can also manipulate the images, allowing nosy individuals to "witness" sinful behavior from public figures, leading to the public vilification of (amongst others) a friend to the covenant. The characters might be a target of the demon's false scrying when they begin to investigate.
 
@@ -4170,7 +4170,7 @@ have bought them for their populace, asking for particularly big mirrors so that
 
 There have been several public scandals revealed by the Specula and other scrying devices, and a lot of public debate has revolved around an individual's right to privacy. Of course, these are the same individuals who are more than happy to gossip about what they've discovered about
 
-# *The Copying of a Book*
+# The Copying of a Book
 
 This section discusses some of the ways in which books can be magically copied. This is not intended to be an exhaustive catalog of the methods of producing books with magic; other techniques certainly exist, limited only by the imagination of the players.
 
@@ -4179,7 +4179,7 @@ A key advantage of copying a book magically is that a spell or device does not h
 This means that texts on magical matters can be copied with as much ease as ones on mundane matters with a spell, whereas a scribe copying a book on a Hermetic Art needs to have a score in Magic Theory to avoid corrupting it.
 
 
-## *Limitations of Hermetic Theory*
+## Limitations of Hermetic Theory
 
 There are a few principles that pose problems for any magus attempting to change the manner in which the Order acquires and exchanges knowledge. These do not necessarily relate to the Limits of Magic, but may instead be part of the incomplete nature of Magic Theory. It may be that there are hedge wizards who know magic that does not have the same restrictions.
 
@@ -4192,7 +4192,7 @@ A magus cannot create knowledge using magic, and can only manipulate it indirect
 The Technique of Intellego is sometimes mistakenly seen as the Art
 
 
-## *Rego Craft Magic*
+## Rego Craft Magic
 
 This insert summarizes the rules for Rego craft magic. For more details, see *Covenants*, page 49.
 
@@ -4203,7 +4203,7 @@ Rego craft magic requires a Finesse roll, the Ease Factor for which is at least 
 
 of Knowledge. However, this Art in truth covers only the acquisition of information, not the information itself. Likewise, Mentem spells operate on sentient minds, not on the contents of those minds, so learning is not encoded with the Form of Mentem either. Words on a page are under the purview of the Form relating to the components of the ink used (mostly Herbam and Terram), or the page itself (Animal for parchment, other Forms for different media). Manipulating the words however gets no sense of the meaning therein. There is, for example, a profound lack of a spell that can translate the written word from one language to another, even though there is a spell that translates the spoken word in exactly this manner. This is because the mind that uttered a word can be interrogated for its meaning with Mentem magic, but written words are just artifices of ink and parchment that have no intrinsic thoughts behind them.
 
-## *Copying a Single Page*
+## Copying a Single Page
 
 Perhaps the simplest way to magically reproduce a text is to use Rego craft magic (see Insert) to duplicate the efforts of a copyist. Having a copy of the work to be copied present is essential, as is a stack of clean parchment (or other writing medium) and ink appropriate to the medium. Rego craft magic does not require quills, blotting powder, or other accoutrements of the copyist's craft; these items are not integrated into the finished manuscript and therefore not needed by the magic. As discussed earlier, magic cannot read, so the process of copying a page of text is a two stage process. A spell is first employed to lay an image of the text to be copied over a blank page, and then the Rego craft magic spell causes ink to follow the image's impression.
 
@@ -4227,11 +4227,11 @@ Variants of this spell with higher Duration allow a magus to use this spell to m
 
 (Base 1, +2 Voice, +2 Group)
 
-## *Copying an Entire Book*
+## Copying an Entire Book
 
 The spells in the previous section allow the copying of a single page at a time. However, a book usually contains more than a single page
 
-## *Quality Remaining After Copying*
+## Quality Remaining After Copying
 
 This table assumes an Ease Factor of 12 (i.e. Quality 7 to 9), a simple die roll, and no proofreading. For books requiring Finesse rolls of Ease Factor 9, add 3 to the Finesse Total; and subtract 3 for books requiring Finesse rolls of Ease Factor 15.
 
@@ -4258,11 +4258,11 @@ Since copying an entire book is at least a season's work for a mundane scribe, a
 
 Once a text has been copied onto loose sheets it should be gathered together and bound into a codex. Unbound books are easily damaged, since it is easy for individual sheets to go astray. Furthermore, parchment is prone to warping out of shape unless it is firmly pressed between wooden boards and clasped together. This damage can negatively affect the quality of the text. Finally, unbound books cannot have resonances (see earlier).
 
-## *Example Device: The Superb Scrinium*
+## Example Device: The Superb Scrinium
 
 A magus is unlikely to want to cast the same spell a hundred times to copy a text page by page. A more efficient way to do this would be to create an Enchanted Item which performs the task automatically. While the Superb Scrinium described here can copy and bind an entire book in a few hours, it does have its disadvantages. It takes twelve pawns of vis to prepare this item for enchantment, and another twelve pawns to instill the effects. It takes at least six seasons to create the item. It can only copy single sheets or codices, not other forms of books such as rolls or tablets, and only copies one side of each page (although it is rare to have writing on both sides of parchment). The biggest impediment is that the books produced by the Scrinium are rarely as good as the originals: they do not have any
 
-## *Discovering Mistakes*
+## Discovering Mistakes
 
 A magus might want to compare a magically or mundanely scribed copy of a text with the original to find mistakes. Intellego Imaginem can detect differences between copies, but cannot distinguish minor variations in pen-work from meaningful errors. A spell such as *The Copyist's Critical Eye* (below) could be enchanted into a device that can turn the pages of both texts simultaneously, and even mark the pages that differ using a linked trigger. The marked pages would still have to be checked by someone who understands the importance of the text, but it would greatly reduce the time this takes. Once mistakes have been identified they can be scraped out and corrected. As a rough guide,
 
@@ -4339,7 +4339,7 @@ This enchantment binds up to 800 individual sheets into a book (a base Individua
 
 (Base 3, +1 Touch, +2 Group, +1 requisite, +1 size; +2 3/day)
 
-## *Copying Laboratory Texts*
+## Copying Laboratory Texts
 
 In theory, Laboratory Texts can be copied with magic in exactly the same way as books on Abilities and Arts. Naturally, an exact duplicate of the text is made, so if a Laboratory Text is still written in its author's personal code, this will be replicated in the copy. A Laboratory Text is usually much shorter than other books (approximately one page per level of the effect), although it may not be written as a typical codex but take a more unusual form. It may be that a magus does not have the capacity to magically copy a book due to the form that it takes. For example, many magi scribe their laboratory texts into wax tablets, some use metal sheets and an enchanted stylus, still others cover the walls of the laboratory themselves with chalk notation.
 
@@ -4348,16 +4348,16 @@ Laboratory Texts are a lot less forgiving than a book on an Ability or an Art. T
 
 must be repeated, and a single botched page corrupts the entire Laboratory Text; something which will only be discovered when the Laboratory Text is used (wasting the season). If using Rego craft magic to duplicate Laboratory Texts, then consider that a professional scribe could copy fi ve levels of effects a day; 120 levels in a month, and 360 levels in a season. Using the earlier table, you would need a Finesse Total of 11 or more to copy a month's worth of Laboratory Texts fl awlessly page by page, or a Finesse Total of 14 or more to copy a season's worth in the same manner.
 
-## *Optional Rule: Hazardous Laboratory Texts*
+## Optional Rule: Hazardous Laboratory Texts
 
 Rather than requiring fl awless copying of every page of a Laboratory Text, the troupe could decide that errors introduced into Laboratory Texts do not make the Text useless, but can introduce unwanted effects into the product of the season of work. If the magically-copied Laboratory Text was created with insuffi cient Finesse, then whenever it is used, the magus must make an extra roll on the Experimentation Table (**ArM5**, page 109) with a risk modifi er equal to half the number of pages spoiled per ten pages total. Thus if four pages in ten were spoiled, the risk modifi er is +2. If a copy is made of the copy with magic, then the users of the second generation copy must make two extra Experimentation rolls, each potentially with its own risk modifi er. This option makes magical copying of Laboratory Texts possible, but often undesirable.
 
 
-## *Optional Rule: No Magical Copying of Laboratory Texts*
+## Optional Rule: No Magical Copying of Laboratory Texts
 
 Alternatively, you could rule as a troupe that Laboratory Texts are too sensitive to scribal errors to be copied with Rego craft magic. In a Mythic Europe that has magical copying of books, the production of Laboratory Texts becomes an artisan craft, with each one handwritten each time. This makes them a more valuable commodity.
 
-## *The Order's Response*
+## The Order's Response
 
 The Order of Hermes commonly sells books, either by public offer, by tender, by exchange, or by subscription (*Covenants*, page 94), and arrangements for a magus to visit a covenant and copy one of their books are relatively common. Technology to instantly reproduce these efforts could rapidly change the established order depending on the availability of the magic, although Hermetic magi are split as to whether this would be a change for the better or the worse.
 
@@ -4383,7 +4383,7 @@ Those Bonisagi who do not vehemently oppose the technology embrace it, as a supe
 
 Those more politically-savvy members of House Ex Miscellanea are eager to obtain books on the Arts. They believe that the Order has too long kept knowledge from them, allowing them to wallow in Hermetic backwaters as second class citizens. Writing, publishing, and disseminating books that discuss their own unique tradition not only simultaneously preserve those traditions but perhaps attract more recruits.
 
-## *Why it May Not Work: The Cow and Calf Oath*
+## Why it May Not Work: The Cow and Calf Oath
 
 The Cow and Calf Oath (*Covenants*, page 95) simply states that the purchaser of a book, or the recipient of a book as a gift, will not sell or give copies of that book without the permission of the original owner. The oath refers to a ruling in the Hibernian Tribunal, and is not part of the Code of Hermes in any other Tribunal, and yet it is exceptionally common as a "gentleman's agreement" throughout the Order. Sometimes, for books of the highest quality, the oath is specifically recalled and sworn to give it legal weight. Copying a high quality book normally entails seasons of diligent work which few magi are willing to undertake if they might incur the displeasure of the book's originator. However, a device like the Superb Scrinium permits the copying of a book in no time at all, making it far more tempting to contravene the
 
@@ -4413,7 +4413,7 @@ As it stands, the Cow and Calf Oath is not part of the Code anywhere other than 
 
 The Cow and Calf Oath does not protect texts belonging to non-magi, so the edicts of the Grand Tribunal have little effect on the ability of the invention to transform Mythic Europe. However, it would take an altruistic magus to pursue the considerable time and vis needed for this invention if there was no possibility of him being able to profit from the books in his own library — many of which are likely to have been gifts or bought from other magi under a Cow and Calf arrangement.
 
-## *An Erudite Society*
+## An Erudite Society
 
 The cost and time involved in creating a book is one of the principle reasons why they are the property
 
@@ -4432,7 +4432,7 @@ A device such as the Superb Scrinium could easily put all the scribes in a city 
 
 It is also likely that the non-religious scribes will incorporate and found a guild. Scribes do not have any strong reason to join a guild until their livelihoods are threatened, and they may join forces with other professions who make a living by writing, such as notaries and legal advocates. Monks are not allowed to join guilds, but they may well sympathize, and the guild could be supported by a monastery (or monastic order). The Learned Magicians (*Hedge Magic Revised Edition*, Chapter Five) may join forces with them; these hedge wizards are known for their parchment amulets and calligraphic chartae, and may be personally invested in maintaining a thriving industry. It may be that the parchment makers and ink-
 
-## *Optional Rule: Limits on Instant Transportation*
+## Optional Rule: Limits on Instant Transportation
 
 Some troupes consider instant transportation to be a bit too much like science fiction for their tastes. As an alternative to banning such spells entirely, it could be reconfigured as traveling in the blink of an eye. Rather than disappearing from one place and reappearing in another — a feat best left to saints and holy magicians the magus travels through every point between his point of departure and his destination in a mere moment. The spell *Gift of Frog's Legs* (**ArM5** page 134) epitomizes this approach: while the guideline specifies instant transportation up to 5 paces, the spell actually allows the target to jump that distance. Because essentially the character is flying exceptionally fast, anything he is wearing or carrying travels with him (even other creatures such as familiars, as long as they are small), but as noted in another insert
 
@@ -4448,7 +4448,7 @@ The political power of the Scribes' Guild depends on the role planned for them i
 
 Assuming that Hermetic books are manufactured at the same rate if not faster — than mundane books, the consequences for the Order are profound. Books are no longer priceless commodities that are copied only with great effort by skilled magi. There will always be a place in the Order for the artisan bookmaker who picks unique resonances and magical enhancements to set his work above all others. However, covenants might
 
-## *New Guidelines for Instant Transportation*
+## New Guidelines for Instant Transportation
 
 In all cases, add 1 magnitude to increase the distance to 50 paces, 2 magnitudes for 500 paces, 3 magnitudes for 1 league, 4 magnitudes for seven leagues, and 5 magnitudes to a place for which you have an Arcane Connection.
 
@@ -4489,11 +4489,11 @@ have hundreds of books, and if they own their own Superb Scrinium, have the capa
 
 In game terms, this greater provision of books might change the way that libraries are recorded in terms of game statistics. The system described in a nearby insert is suitable for covenants that contain at least fifty or so books.
 
-# *Travel in the Blink of an Eye*
+# Travel in the Blink of an Eye
 
 Travel is a tedious facet of life in Mythic Europe. The fastest that most people can ever travel is on a horse at full gallop, and such speeds cannot be maintained. The fastest a messenger has ever traveled is 90 miles in a single day, and this relies on multiple changes of horses. Yet journeying away from home is a necessary evil for many; most freemen attend markets in their nearest town every week to sell their wares, and even if they live in that town, they may need to travel to obtain raw materials or clients. Some priests need to travel between their parish churches to hold Mass and hear confession. Nobles (or their representatives) travel between the manors of their fiefs to dispense justice and collect taxes. Perhaps most of all, merchants must shift goods from their place of production to the point of sale, and for those trading in expensive or rare materials, this might entail great distances indeed. It is within the scope of magi to lighten this burden of travel.
 
-## *New Spells for Instant Travel*
+## New Spells for Instant Travel
 
 Some example spells for instant transportation are given here. These use the new guidelines from the nearby insert. These spells can easily be adapted into enchantments in devices. To make best use of Shape and Material bonuses they are often invested into enchantments in the shape of doorways (+5 magical transportation) or halls (+3 magical transportation), or incorporate opal (+4 travel).
 
@@ -4583,7 +4583,7 @@ This spell cancels the casting of any spell of instant transportation within a c
 
 (Base effect, +1 Touch, +2 Ring)
 
-## *Example Device: The Gate of Countless Vistas*
+## Example Device: The Gate of Countless Vistas
 
 This rather grand-sounding device is typical of an enchantment with powers of instant transportation designed for a sanctum, covenant, castle, or so forth. It is unusual in that it is enchanted with multiple copies of the same enchantment, each designed specifi cally for a different user of the device. In this manner, magi can avoid warping from the powerful mystical effect while remaining able to benefi t from the enchantment's effects. Naturally, as covenants grow, more potential users of the device arise, and an old covenant might have a chamber
 
@@ -4611,7 +4611,7 @@ Transports one person, his clothes, and his equipment to a location designated b
 
 (Base 35, +1 Touch)
 
-## *Example Device: Phylactery of the Cautious Maga*
+## Example Device: Phylactery of the Cautious Maga
 
 This invested item is principally designed for a maga who prefers to avoid danger, but tends to find herself in harm's way. When she utters a command word, the Phylactery gathers an Arcane Connection from the maga's current location, and then transports her to a safe place represented by an Arcane Connection already within the Phylactery. She can use the gathered Arcane Connection to scry the location she has just left to determine whether danger has passed, and use it to return to her original location once she deems it is safe. The effects described below allow the maga to complete one cycle of these effects each day; if she expects more trouble than this, she may wish to design the effects with more uses per day.
 
@@ -4663,7 +4663,7 @@ As the spell of the same name (**ArM5**, page 145); using the Arcane Connection 
 
 (Base 2, +4 Arc, +1 Conc, +2 Room)
 
-## *New Spells for Very Fast Travel*
+## New Spells for Very Fast Travel
 
 Not all magical transportation has to be in the blink of an eye. There are other means of travel that, while not instant, are still faster than anything currently available in Mythic Europe. This section includes a few spells which could act as inspiration for devices permitting other modes of transport.
 
@@ -4720,7 +4720,7 @@ The Duration of this spell cannot be extended beyond Momentary, since bolts of l
 
 (Base 30)
 
-## *What About The Hermes' Portal?*
+## What About The Hermes' Portal?
 
 The Order is in possession of a powerful Mercurian Ritual that allows unlimited instantaneous travel between two points over the course of its year-long duration — the *Hermes' Portal* (**ArM5**, page 156). House Mercere guard a secret lab procedure to make Mercere's Portals, which act just like a Hermes' Portal but are permanent (*Houses of Hermes: True Lineages*, pages 80, 100–101). However, these methods have several disadvantages compared to devices like the Gate of Countless Vistas. Both *Hermes' Portals* and Mercere's Portals link two places through mutual Arcane Connections, and once cast or created, this location cannot be altered. A *Hermes' Portal* requires two casters (or groups using *Wizard's Communion*) who can cast a 75th level Ritual spell, and it lasts just a year. The Mercere's Portals are slightly easier to create and are permanent creations, but still constitute a 65th level enchantment and, again, must be made as a pair. The total cost in vis is less than for a *Hermes' Portal*, but the requisite Lab Total is harder to achieve than the Casting Total for the Ritual spell, even if Laboratory Texts are available.
 
@@ -4790,13 +4790,13 @@ target is knocked off his feet and flung backwards one foot for every point of t
 
 (Base 30, +2 Sun)
 
-## *Warping Gained from Instant Transportation*
+## Warping Gained from Instant Transportation
 
 Spells and effects for instant transportation are often over 30th level, particularly if they transport a target an appreciable distance. This means that the targets of these spells accumulate a Warping point with every casting, and if a person, animal, or object is affected 5 times or more, it will suffer a Minor Flaw (**ArM5**, page 168), and another after 15 castings. Should one target experience 75 or more transits, it also accumulates a Minor Virtue. Flaws that result from repeated transportation magic might include Motion Sickness, No Sense of Direction or Lesser Malediction (feelings of loneliness and depression when away from home). Virtues might include Wilderness Sense (which includes a sense of where north is) or Homing Instinct (see *Realms of Power: Magic*, page 44).
 
 Even inanimate objects suffer warping (**ArM5**, page 167), and while warped packing crates are no great trial (as long as they are not reused), transporting an entire wagon and its contents is not such a good idea, since the wagon represents a substantial outlay of funds and is not disposable in the same manner. There are no clear rules regarding what happens when items become warped. Eating food warped by transport across Mythic Europe should not be any problem (it would only have one Warping point in any case), unless it suits the story for this to be an issue. Items that get heavily warped may develop a personality of their own, although it probably needs a more dramatic event, such as a botch, for an item to become truly sentient.
 
-## *Why it May Not Work: A Prohibitive Cost*
+## Why it May Not Work: A Prohibitive Cost
 
 Instant transportation is a high level effect. Even the basic version — *The Longest Step Made Short* described above — is eighth magnitude, and this permits just a single use per day. This represents a significant investment in time and vis even for a specialist in magical transportation. An option is to include effect expiry (**ArM5**, page 99); a magus could instill *The Longest Step Made Short* in a single season with a Lab Total of 48, if he was prepared to accept the limitation that the item would lose its magic after seven years.
 
@@ -4805,7 +4805,7 @@ If these problems are faced by the creation of just a single device, imagine the
 
 Portal network, but there are precious few Gifted Merceres. House Tremere might see the benefits of rapid transit, particularly if it permitted the mass movement of troops. Other Houses might be more or less interested depending on the saga.
 
-## *Societal Impacts of Magical Transportation*
+## Societal Impacts of Magical Transportation
 
 While conceptually simple, inventions incorporating instant transportation are only likely to be achieved by specialists in Rego — or magi with a Minor Magical Focus in Magical Transportation — due to the high levels of the effects involved.
 
@@ -4837,7 +4837,7 @@ Most civic Gates have Arcane Connections to neighboring cities on sale, with the
 
 When the devices first came into service, users were warned to not make more than four trips through the Gates in a lifetime, but this is routinely ignored since many of the signs of warping caused by the Gates are not immediately noticeable. The recommendation has since been relaxed to only 12 trips in a lifetime, and many stick to this since it is reinforced through the superstitious dread of the unlucky 13th journey. It is not widely known that if you are going to make five or more trips, you won't suffer from a second Flaw from warping until your 30th trip. The heavy level of warping that the concierges suffer is a poorly kept secret in cities, and the city slums are slowly filling with individuals with mental and physical deformities or supernatural aberrations. Beguines women from wealthy backgrounds who have taken lay religious vows and tend to the poor and sick — have begun to agitate against the use of the Gates, claiming they are a dangerous and corrupting influence on society. They use the former concierges as evidence of the threat. It has been several years, but people are starting to listen to the beguines, and some are looking to the creators of the devices as responsible for the situation.
 
-# *Creating Wealth with Magic*
+# Creating Wealth with Magic
 
 A temptation for many player magi is to use their magic to create untold wealth. It can be exceptionally simple to create wealth, either directly in terms of silver and gold, indirectly in the form of valuable goods, or as enrichment through the reduction of costs. The realization that magi do not have to live in abject poverty is a revelation to many apprentices, and a source of confusion too, because few magi adopt the extravagant lifestyles that their Arts could permit.
 
@@ -4852,7 +4852,7 @@ It is usually visitors to a region who pay for things in coin. A sure way to spo
 
 In addition to the difficulty in redeeming goods for coins outside market towns and cities, the magical creation of silver bears a real danger. The license to mint coins is perhaps the most jealously guarded right and is reserved for monarchs and — depending upon where one is in Mythic Europe — a few high ranking noblemen and archbishops. Even though the local economy does not rely on wealth invested into precious metals, the economy of a kingdom does; as a consequence, those found adulterating coinage or minting false money are dealt with in the most serious manner — nearly everywhere this is con-
 
-## *Direct Creation of Wealth*
+## Direct Creation of Wealth
 
 There are many ways to directly create wealth; this insert covers just two of them. Perhaps the simplest way of increasing one's personal wealth is through the direct creation of coins. These can then be spent as one would any other coins, although note the comments in the main text about Mythic Europe being a largely cashless society.
 
@@ -4885,7 +4885,7 @@ Magi wishing to improve their financial situation should therefore look outside 
 
 There are any number of ways in which Hermetic magi can create precious materials. Commodities created with magic only have potential value — they have no actual value unless they can be sold, preferably for their going price. The biggest problem is that Hermetic magic creates far too much of these valuable materials, tempting magi to sell it quickly and live a life of luxury. However, if the magi flood the market with their produce, then the price of that product — which is based solely on its scarcity — plummets. The characters then have the option to sell the rest of their stock at a fraction of its former value, or hold onto it until the market recovers, which might take decades, or even longer.
 
-## *Story Seeds: Precious Goods*
+## Story Seeds: Precious Goods
 
 If the characters attempt to enrich themselves by usurping a traditional right like the production of salt, they may find themselves in all sorts of trouble. What might seem like a simple scheme to make the covenant a little more comfortable for its inhabitants could quickly escalate into a "salt war" with the local holders of the rights. In the past, such confrontations have included adulterating the opposition's salt pans with poisonous metal salts which cause hair loss, cramping muscles, and intestinal distress in any who consume even small amounts. Finding the alchemist who poisoned the salt before he strikes closer to home could develop into a paranoid witch-hunt amongst the covenant's employees.
 
@@ -4895,7 +4895,7 @@ Cinnamon trees are wellknown for their propensity to spontaneously burst into fl
 
 Some incense trees are guarded by powerful spirits, who may resent the theft and farming of the sacred incense, and send a team of sorcerers to reclaim their child (see *Rival Magic*, Chapter Five for details of the perfume-sorcerers of Soqotra).
 
-## *Example Device: Potent Salts*
+## Example Device: Potent Salts
 
 The right to produce salt is possibly the most lucrative of the rights given to lords and monasteries by monarchs. Salt is less expensive than pearls and silver, but it is craved by all levels of society. One's social standing is often measured by the quality of salt one can offer one's guests at the table, but it is also heavily used by cooks and peasants alike to preserve meat and fish. The ubiquitous need for salt makes the rights to produce it very valuable, and in western Mythic Europe where salt mines are scarce, most salt derives from salt pans. Salt production and marketing is highly regulated as a town monopoly and, by setting prices, the salt makers maintain their profits. Salt rights representing the amount of brine that could be extracted each year are shared amongst certain of the townspeople. Town officials collect salt dues (or "sallage") in order to pay the fee owed to the king, which can be a hundred Mythic Pounds or more. Salt rights can only be passed on by inheritance; they cannot be purchased.
 
@@ -4918,7 +4918,7 @@ Saltwater is usually about seven parts salt to two hundred parts water; this spe
 
 (Base 3, +1 Touch)
 
-## *Example Device: The Garland of Prosperous Harvests*
+## Example Device: The Garland of Prosperous Harvests
 
 Amongst the most expensive commodities brought to the west are spices such as cinnamon, cloves, cardamom, and pepper. Various fantastic tales are told about their origins, but educated people are aware of Pliny the Elder's explanations of their origins among exotic trees and bushes of Persia and the semi-mythical Hind. Spices are expensive because they travel from so far, and a magus might be tempted to cultivate the trees in Mythic Europe. And it is not just spices — incenses such as olibanum (frankincense) and myrrh are similarly expensive and derive from the gums of exotic trees. The principle difficulty is that a magus cannot create what he cannot conceive, and few people in Mythic Europe have seen a pepper bush or cinnamon tree.
 
@@ -4930,7 +4930,7 @@ The Garland of Prosperous Harvests usually takes the form of a tall pole bearing
 
 
 
-## *Technological Cost Saving*
+## Technological Cost Saving
 
 As detailed in *Covenants* (page 66–69), a covenant can employ various cost-saving measures, and by far the most effective of these is replacing people with magic. Each laborer working for the covenant can reduce the expenditure on Provisions by one pound, but all the laborers can be replaced by an enchantment that produces an effect such as *The Instant Harvest* (earlier). Using the rule of thumb given in *Covenants*, this 35th level spell does the work of seven laborers, and thus saves seven pounds of expenditure every year. An item enchanted with *The Elfin Baker* can replace the need for employing a baker at the covenant and create a cost saving of at least four pounds a year.
 
@@ -4958,7 +4958,7 @@ Plants affected by this spell for a year always produce their maximum yield of f
 
 (Base 1, +1 Touch, +2 Sun, +2 Group, +1 Size; +1 2/day, +3 environmental trigger)
 
-## *Reducing Covenant Costs*
+## Reducing Covenant Costs
 
 The food bill is the largest category of expenditure in the day-today running of a covenant and so has the greatest potential for cost-saving. According to the economic system presented in *Covenants* (Chapter Five), it costs one Mythic Pound to support one point of inhabitants (in a spring covenant, a grog is one inhabitant point, a companion is three, a magus is five). Half this cost — i.e. 10 shillings — is taken up by provisions. Wages and consumables each account for another four shillings in every Mythic Pound, and the wear and tear on the fabric of the covenant accounts for the remaining two shillings per Mythic Pound.
 
@@ -5018,7 +5018,7 @@ If the covenant owned the land that the crops were grown on, then they can make 
 
 carters and dray men, chandlers, and so on. The wives and children of the farmers and tradesmen provide servants to the covenant; if the families are forced from a region, there will be a dearth of such individuals. Alternatively, with so many out of work farmers, covenants might see an increase in applications to join their turb. The social upheaval of replacing costs with magic should not be under-estimated as a source of stories highlighting the dependence of the covenant on the local community.
 
-## *Societal Impacts of the Creation of Wealth*
+## Societal Impacts of the Creation of Wealth
 
 Issues regarding the local impact of the magical creation of wealth have already been discussed above. There is an implicit assumption that when magi realize the impact their activities are having on a local level, then they cease in those activities at the very least, and at best make an attempt to set matters right.
 
@@ -5039,7 +5039,7 @@ Fast-forward several decades and the Order of Hermes is now the richest institut
 
 This increased presence has had unfortunate consequences. The Church in particular dislikes the Order's role, despite being one of its biggest clients. Believing strongly that the love of money is the root of all evil, some bishops have begun to preach on the perils of getting financially involved with the Order's financial business. They remind their flock that magi are first and foremost practitioners of wizardry, and those members of the Order whose business it is to watch mundane attitudes closely are uncomfortably reminded of the manner in which Jews, and in particular Jewish moneylenders, have been treated in the past.
 
-## *Why it May Not Work: The Silver Consensus*
+## Why it May Not Work: The Silver Consensus
 
 If magi are in danger of destabilizing local economies through the magical creation of wealth or through technological advances that simulate the creation of wealth in an indirect manner, the Order of Hermes may intervene. However, it is not in anyone's interest for the Order to simply forbid the creation of wealth; instead it is much better for the lawmakers of the Order to try to regulate wealth creation so that it is still possible for magi to live a comfortable life, and yet in a sustainable manner. This section describes a Tribunal ruling called the Silver Consensus, which attempts to tackle the issues involved.
 
@@ -5084,11 +5084,11 @@ Several Houses support the Consensus. Houses Guernicus and Jerbiton prefer that 
 
 The Consensus is not enforced strictly. For it to become a concern, the magus's illegal activities have to reach a value sufficient for it to draw attention. This is usually only after an inflationary bubble makes obvious to observers that there is something unbalanced within a region's economy. It is very easy for magi creating goods to collapse a local economy, because a little added wealth in an economy tends to magnify its effectiveness as it is spent. Similarly, pulling wealth out of an economy tends to do greater harm than immediately apparent.
 
-# *Other Examples of Magical Technology*
+# Other Examples of Magical Technology
 
 It is not possible to cover all possible impacts of magical technology that could be wrought by player magi. Invention often follows need, so player characters are most likely to seek technological solutions for problems specific to the saga. This section has a few further ideas for inspiration, which involve relatively simple inventions that can have significant ramifications.
 
-## *Mechanical Power*
+## Mechanical Power
 
 The majority of mechanical power in Mythic Europe is supplied by the labor of people and animals. The innovation of the padded collar a few hundred years ago permitted horses to outstrip oxen as the superior draft animal. Waterwheels — horizontal wheels at first, but gradually re-
 
@@ -5113,7 +5113,7 @@ In the hands of a mundane who has a general familiarity with gears and mechanics
 
 Where the Hermetic Generans would be particularly useful is in industrial processes, replacing wind power. The wind is currently the strongest source of power available, but it is highly variable and dangerous in excess. The Hermetic Generans produces a constant, strong force capable of operating ceaselessly without wear. This would not only increase output of current processes employing this technology, but would permit applications not currently possible, such as lathes, triphammers, mechanical saws, paddle boats, fans for blast furnaces, and mechanical clocks. Think of a world of clockwork and steam, rather than reaching its heyday in the 1700s, this could occur easily 400 years prior if there is sufficient supply.
 
-## *Warfare and Weapons*
+## Warfare and Weapons
 
 Because of the restrictions on interfering with mundanes, Hermetic magi do not often turn their thoughts to mass combat; however, magic can be devastatingly effective in wartime. It is not possible to detail all the ways in which a magus can apply magic to the battlefield, but inventive players can surely come up with any number of effects. This section offers a few ideas as to where magical technology can be of use. The use of magical technology in warfare is predicated on the fact that using or supplying such devices is not considered to contravene the Hermetic Oath, although clearly this is against the Code under the default setting. A circumstance where this might be permissible, for example, is if a warlord was supported by non-Hermetic wizards (or renegade magi), and the Order felt honorbound to respond in kind.
 
@@ -5149,7 +5149,7 @@ Magical technology has the potential to affect warfare in Mythic Europe as much 
 
 Mythic Europe — the Order might see the need to develop a more martial stance and become purveyors of magical weapons technology.
 
-## *Medicine*
+## Medicine
 
 Disease is perhaps the biggest cause of mortality and misery in Mythic Europe. All diseases are caused by an imbalance of the humors (see *Art & Academe*, Chapter 4), and the things that can cause such an imbalance are legion. A dearth or an excess of those things necessary for life can cause sickness, as can the presence of contranaturals such as a malign celestial influence, and super-naturals such as demons and faeries. Hermetic magic can tackle these external influences, but it is much more effective at directly affecting the humors themselves and creating conditions that are conducive to swift recovery. Ritual magic can be used to heal the disease completely, but this cannot be adapted to a form of technology because ritual spells cannot be made into enchantments.
 
@@ -5175,7 +5175,7 @@ It is not just the poor who would be affected. Feudal lords rely on producing ch
 
 Since contraception is sinful, husbands might be reluctant to fulfill their marital duties resulting in the wife acquiring legal grounds for divorce. There may be a backlash amongst the nobles against the new medical technology — at least, until the lords gets ill themselves. It could take several generations for a new social equilibrium to establish after such an upset.
 
-## *Further Ideas for Magical Technology*
+## Further Ideas for Magical Technology
 
 Here are some additional ideas and applications of enchantments to replicate technological advancements in your saga. You will need to come up with the appropriate statistics and guidelines for these enchantments, but these notes should get you started.
 
@@ -5196,11 +5196,11 @@ Preparing the land for harvest is the most intensive of all agricultural labors.
 
 The legal system could be revolutionized by a device which revealed the truth or falsehood of a statement; merchants and kings could find uses for such devices as well.
 
-# *Technology's Transformative Nature*
+# Technology's Transformative Nature
 
 The rest of this chapter considers some more general issues around introducing magical technology into a saga, and how it might transform Mythic Europe. The examples examined up to now represent a good range of the sort of impacts that the characters' actions could have, but every eventuality cannot be catered for. This section deals with the motivations, the processes, and the impacts of magical innovation.
 
-## *Medieval Concepts of Technology*
+## Medieval Concepts of Technology
 
 The technical arts have been the subject of many words written by the great thinkers and philosophers of both antiquity and the current day. For example, Plato divided technological pursuits into productive arts, which bring about something that did not previously exist, and acquisitive arts, which conquer by word or deed, or prevent others from acquiring things already produced. In the former category fall agriculture, medicine, construction, and painting and sculpture; among the acquisitive arts are learning, cognition, trade, fishing, hunting, and warfare. He and other classical scholars saw these arts as inferior to the liberal arts and philosophy, for they do not nourish the mind — indeed, many of them distract one from this noble pursuit.
 
@@ -5224,7 +5224,7 @@ Keen to contrast the artes mechanicae with the artes liberales, most 12th and 13
 
 Other lists exchange some of the above to consider painting, toolmaking, or alchemy; or elevate individual arts such as architecture, commerce, pottery, or navigation to independent status. Some classifications even designate magical practices such as divination, necromancy and illusions as mechanical arts.
 
-# *The Magus as Inventor*
+# The Magus as Inventor
 
 For many of its practitioners, Hermetic magic is a tool to overcome difficulties and make life easier — that is, it is a form of technology rather than an academic pursuit.
 
@@ -5234,11 +5234,11 @@ Whereas some magi seek Hermetic breakthroughs for the sake of intellectual satis
 
 For magic to become a technological advance — and to transform Mythic Europe — it must become available for use to a significant proportion of the population who can benefit from it. This goes beyond the sale of a few Lesser Enchantments to noblemen, although mass production is not necessarily required. For example, a single device that duplicates books can have an impact on society all on its own.
 
-## *Why Should a Magus Pursue Invention?*
+## Why Should a Magus Pursue Invention?
 
 Even the most obsessed Verditius craft-magus does not usually seek to transform Mythic Europe with his inventions, although this would indeed be an exercise in hubris. Most magi who specialize in enchantment are artisans, making unique items of high quality for themselves or for customers who can pay the astronomical price demanded. To truly transform Mythic Europe with an invention takes hard work and the sacrifice of resources that could have been spent on increasing personal power. So why might a magus do this? This section explores some motivations. Note that none of the motivations given below are mutually exclusive with the others; the impetus that drives a magus to invent is often a complex one.
 
-## *Enchantments are Arcane Connections*
+## Enchantments are Arcane Connections
 
 Before a covenant sets up in business selling magical technology, it might want to have a care for its own security. A lesser enchantment is an Arcane Connection to its creator that persists for weeks after creation, and invested items last years. As an option, a saga might decide that charged items remain Arcane Connections for days. Lesser enchantments can be kept at the covenant until the duration of the Arcane Connection has expired but makers of invested items could benefit from the following spell.
 
@@ -5274,7 +5274,7 @@ Because of the greater numbers of such individuals in society compared to those 
 
 Not all desire for social change is selfless, however. A magus can be motivated by a number of emotions or philosophies that have nothing to do with wealth, fame, or influence. For example, hatred for the ruling classes might lead to benefit for the poor, but not as its main goal.
 
-## *Manufacturing*
+## Manufacturing
 
 One of the downsides of Hermetic laboratory projects is the time and vis that they normally need to complete, neither of which is unlimited in supply. If we look at the development of technology in historical Europe, we find that the greatest advances occurred through the capacity to mass-produce key devices so that their benefits permeate throughout society. At no time did a single unique object create a technological revolution.
 
@@ -5292,7 +5292,7 @@ A magus might be unwilling to make multiple copies of the same enchantment, but 
 
 Some covenants place requirements on their members for seasons of work for the good of the covenant as a whole. These obligations in the charter can be exploited to obtain a magus' services with a minimum of grumbling, as long as the covenant as a whole is to benefit from the spread of the technology.
 
-## *The Sale of Enchantments*
+## The Sale of Enchantments
 
 Most Tribunals have established some rules regarding the sale of magical enchantments to mundanes. These are usually based around the clause of the Hermetic Oath that forbids interfering in the affairs of mundanes. A series of Tribunal rulings in 1061 made it illegal to accept money or other mundane goods as payment for arcane services from anyone other than a member of the Order of Hermes or a Hermetic covenant, and any magic sold in this manner to a non-magus must eventually lose its power. These rulings were confirmed by the 12th meeting of the Grand Tribunal in 1063, making them binding in all Tribunals.
 
@@ -5302,11 +5302,11 @@ The sale of enchanted items therefore continues across Mythic Europe through int
 
 The Quaesitores only need to step in to regulate the market when a magus has been too blatant, or is showing excessive favor to a single recipient, thereby acting much like a court wizard despite the pretext of using a subordinate for the actual sale. Another suspect activity is giving away enchantments for free, even if the intent is an innocent one. Providing magic to mundanes for no renumeration is a sure sign of acting as a court wizard, at least in the eyes of some magi.
 
-## *Why Hasn't This Happened Already?*
+## Why Hasn't This Happened Already?
 
 Before we go on to discuss how characters might achieve the production of magical technology, it is worth considering why this has not been done before. After all, the motivations for magical technology are many and varied, and the techniques
 
-## *Story Seed: Foreshadowing*
+## Story Seed: Foreshadowing
 
 If a troupe is planning to gift or sell magical devices to a favored mundane, the storyguide can foreshadow the social unrest that might result from this. A faerie (or enemy magician) seeking to cause mischief to the covenant ensures that one of the covenfolk discovers a minor magical device — a stout metal rod that has the power to momentarily soften any material with which it comes into contact. The covenant's smith might use it first, binding a handle onto it and using it as a forge hammer, as he no longer needs to heat the metal. Then the carpenter borrows the hammer and finds he can shape wood in ways he never could before. The mason discovers he can build walls without mortar. The gardener uses it to soften the packed earth. Even the cook has a use, using the rod to extract marrow from bones and roll out stiff pastry with ease. The problem is that there is just one such rod, and everyone wants it. The covenfolk become fractious as they compete to gain control over the miraculous device. The matter finally comes to the notice of the magi when the rod goes missing, and everyone accuses each other of hiding it for their own use. By this stage, desire for the object has become so strong that certain individuals are willing to lie, cheat, and falsely accuse others if it means they will possess it.
 
@@ -5340,17 +5340,17 @@ The Order of Hermes might actively discourages certain technological devices if 
 
 overturning the decision is difficult, and the magus may need to abandon his plans or continue them in secret.
 
-## *Luddites and Saboteurs*
+## Luddites and Saboteurs
 
 Disenfranchised skilled workers were a major cause of social unrest during the Industrial Revolution, and a troupe might wish to turn to that period for inspiration as to how society might react to magical technology. In early 18th century England, the Luddite movement organized the destruction of textile factories in a desperate attempt to preserve their jobs. The name "Ned Ludd" was attached to the workmen's manifestos left at the scenes of their crimes, giving the movement its name. Fearing a revolutionary conspiracy, the government ruthlessly repressed Luddite rioting. In France, disenfranchised workers threw their wooden shoes (sabots) into machinery to jam them, thus the name *saboteurs*.
 
 The proto-Luddites and early saboteurs of Mythic Europe will not attack the "factories," since assaulting a covenant filled with creepy wizards with eldritch powers is too much for the courage of most craftsmen. However, they can assault the supply lines, ostracize vendors, attack grogs gathering vis, and cause multiple other annoyances to the magi.
 
-# *Magic as an Agent of Social Change*
+# Magic as an Agent of Social Change
 
 This book is about how magi are capable of changing the face of Mythic Europe. For magical technology to achieve this, it must go beyond the creation of a single device for use by the covenant. A significant proportion of Mythic Europe must be affected by the invention for a true transformation to be achieved through the technology. This does not mean that there have to be hundreds of devices — a single device can have as much impact as a hundred if it does the work of a hundred men, even if the impact is strictly local. Furthermore, a single device can have a large impact if it is in the hands of one who controls the fate of thousands (or more). Due to the feudal structure of much of Mythic Europe, a device in the hands of a baron has the potential to change the lives of all his vassals and tenants.
 
-## *Social Consequences*
+## Social Consequences
 
 There are knock-on consequences of any technology that do not necessarily relate directly to the benefits offered. These social consequences may be difficult to predict, since they emerge from human behavior.
 
@@ -5384,7 +5384,7 @@ A second impact to the detriment of the economy is a device that removes the dep
 
 supplying their laborers with an enchantment that instantly plows their fields could actually destroy the livelihoods of all the peasant laborers who they have previously employed to do that task for them.
 
-## *Non-Hermetic Inventors*
+## Non-Hermetic Inventors
 
 While it is the preeminent magical tradition in Mythic Europe, the Order of Hermes does not have a monopoly on the production of enchanted items, and other wizards could effect a transformation in Mythic Europe.
 
@@ -5417,7 +5417,7 @@ Practitioners of experimental philosophy (*Art & Academe*, Chapter Five), these 
 One example of how Mythic Europe has already been transformed through alchemy is the use of Greek Fire by the Byzantine Empire (*The Sundered Eagle*, page 47). They cracked the problem of mass production through innovation and the almost limitless coffers of an empire. As a consequence, factories producing Greek Fire were scattered in secret locations across the Empire, although most have closed down since the fall of Constantinople in 1204. If other reagents could be mass-produced in the same manner, alchemists could easily become highly sought after as a route to political and military power.
 
 
-## *Inanis*
+## Inanis
 
 When vis is imbued into a physical object in preparation for enchantment or in the instilling of powers, its previous physical vessel crumbles, but leaves behind a residue. This used to be removed as part of the ordinary laboratory trash and never given a second thought. However, with the increased production of enchantments, large amounts of this residue was accumulating, and magi began to notice a strange phenomenon. The residue imbues the detritus from a laboratory with magic-sapping properties. The residue from one hundred pawns of vis is needed to make a single pawn of this *inanis* (meaning "void" or "emptiness"), which usually takes the form of a concretion of dust, dirt, pottery fragments, and other rubbish into a spongy gray mass. One pawn of inanis takes one round to stop a first magnitude magical effect from working within one pace. The inanis is unaffected by this sapping effect. Pawns are cumulative in terms of time taken, strength and range when in contact with one another, so five pawns would take five rounds to deplete a fifth magnitude effect at five paces. Effects are not partially canceled by inanis: if they have a level equal or lower to the maximum magnitude the effect is canceled, if it is greater then it is not affected. Effects originating from beyond the range of the inanis can pass through the radius of its effect, but if they linger within the area of effect they are diminished by it. The inanis absorbs the fluid vis that makes such effects possible. Supernatural creatures with a Might less than or equal to (5 x pawns) of inanis lose one Might for every season they spend within its area of effect. Concerns have been raised that inanis might also deplete auras or even destroy The Gift. The problem of what to do with the inanis that is gradually accumulating across Mythic Europe has become a major topic for debate for the Order; most magi refuse to have it anywhere near them.
 
@@ -5435,11 +5435,11 @@ The Mechanicians infused mechanical devices with wondrous abilities through the 
 
 If the secrets of the Mechanica of Heron were rediscovered, the ability to build technological devices producing semi-magical effects without the need for vis would be a major boon to any aspiring inventor. The devices described by Heron are almost by definition the types of invention that could transform Mythic Europe: any conceivable device that produces, controls, destroys, or changes earth, fire, air, or water are within the purview of his mechanicae, and they were also able to affect the human mind.
 
-# *The Process of Transforming Mythic Europe*
+# The Process of Transforming Mythic Europe
 
 The impact of any magical technology depends on both its dissemination and integration into the community that benefits from it. The first effects are likely to be seen local to the introduction of the device. There may be economic impacts initially, but once these stabilize, there is likely to be a period of growth and acceptance of the device. Other magi may get involved by duplicating the device from the inventor's Laboratory Texts, promoting its spread. Things may eventually advance to the point where the device is so widespread that its use is commonplace.
 
-## *Prerequisites for Change*
+## Prerequisites for Change
 
 For the Order of Hermes to make a major change to the course of Mythic Europe through magical technology, there are a few prerequisites for per-
 
@@ -5465,25 +5465,25 @@ Alternatively, the Order may have discovered a way to speed the process. If all 
 
 While not necessary for magical technology, there are some Breakthroughs in Magic Theory that either speed or ease the creation of enchantments. Such Breakthroughs include Single-Use Charged Items (*Hedge Magic Revised Edition*, page 102), Vis-less Enchantments (*Ancient Magic*, page 120) and Rune Magic (*Ancient Magic*, page 139). These innovations, once sufficiently integrated into Hermetic Magic Theory, could revolutionize the way in which enchantments are made, and remove some of the restrictions of time, resources, and workforce.
 
-## *Early Adoption*
+## Early Adoption
 
 Early on, inventor magi may need to work hard to get others to adopt their invention, a stage crucial to the creation of wealth, fame, influence, or desire for social change that has driven them to this in the first place. Thanks to the social penalty of The Gift, if the invention is intended for lords, craftsmen, or peasants, magi are better off employing mundane factors to handle the transactions. Even then, there is a general distrust of magical things — and things perceived as magical — in Mythic Europe, and it could be endlessly frustrating to magi that the device that could make life so much better for peasants lies abandoned in a barn because of a superstitious fear of it.
 
 Once this hurdle can be overcome, the benefits resulting from the device's usage should become apparent to the community employing it, and this generates interest in the device. Once interest leads to demand, the spread of the magical technology begins to gather momentum.
 
-## *Acceptance and Spread*
+## Acceptance and Spread
 
 Perhaps the hardest phase for any technological advance is keeping the interest in the device going. In this phase, the inventor magus will have to overcome problems of supplying the demand for his creation: Hermetic enchantments take at least a season's work in the laboratory, and many of them have a vis cost attached to them. The benefits to the inventor must outweigh the demands on his time to duplicate the device, unless he is able to farm out production to others (see earlier for a discussion of the problems of manufacture).
 
 If he is both hard-working and lucky, a magus might see benefits deriving from his invention within one to five years of its adoption. It is during this phase that one can expect to see increasingly larger perturbations to the social order caused by the invention (see Social Consequences, earlier).
 
-## *Widespread Integration*
+## Widespread Integration
 
 If the player characters are the inventors of technological magic, then they may never see this stage of the device's dissemination in Mythic Europe. However, if the player characters are particularly aggressive in the manner in which they spread use of the device, and the saga is sufficiently long lived, then they may live to see this transformation. Alternatively, this might be the time to introduce some of the playing styles discussed in Chapter 1: Introduction, and allow the characters to see a version Mythic Europe post integration of their technology in a flash-forward to the future.
 
 Inspiration for the sort of longterm changes that might result should be sought in the modern world. Players of roleplaying games are intimately familiar with technology, but it is often hard to see to see the impact that their character's invention might make when it first comes out. With hindsight we can see what a major leap forward the introduction of a certain invention has had, but this is difficult to predict at the time, particularly with the knock-on effects that one industry can have on another. For example, technological advances in the production of linen during the thirteenth century led to linen underwear becoming more common. This lead to a bonanza of raw material for the making of cheap paper, which in turn made writing materials more accessible to townsfolk and encouraged the rise of literacy in urban areas. The main cost of book production became the wages of the scribe, and with more people able to read, there was a need to find a means to drive book production costs downwards. Inventors started to experiment with printing, and the book press was born.
 
-## *Saga Seed: A Transformed Mythic Europe*
+## Saga Seed: A Transformed Mythic Europe
 
 Imagine a world which has been completely transformed through magical technology. The player characters are just one group of inventors amongst a host of others, Hermetic or otherwise. This section briefly discusses one possible outcome of widespread magical technology in Mythic Europe. It is described as if these changes have already occurred by the time the saga starts, which may not in fact be the case. The troupe may well decide to play through these transformations and be involved — or perhaps prevent — their described outcome.
 
@@ -5497,7 +5497,7 @@ Magic has permitted the rapid production of textiles, tools, and weapons, but al
 
 The outcome is the increased availability of materials and objects formerly restricted to the wealthy classes, such as parchment and books, fine cloth, forged iron, and hardwood tools. Increasingly, the cities of Mythic Europe are developing a disposable society in which shoddy tools are bought cheaply but not expected to last very long.
 
-## *The Other Houses*
+## The Other Houses
 
 **Bjornaer**: The dominant Harmonist faction of the house (*Houses of Hermes: Mystery Cults*, page 11) have largely eschewed Hermetic society, and taken to an adventuring life in flying ships and other devices of magical transportation. They search for new wonders in the natural and supernatural world, having tired of human-created wonders. The few Wilderists have dispersed: claiming back the wilds from humanity can no longer be supported by the Order.
 

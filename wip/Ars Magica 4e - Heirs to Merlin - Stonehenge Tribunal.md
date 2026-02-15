@@ -14,7 +14,7 @@ Ars Magica storyguides will come away from Heirs to Merlin with the background k
 
 
 
-## *Heirs to Merlin* CREDITS
+## Heirs to Merlin CREDITS
 
 **Author:** David Chart **Editor:** John Kasab
 
@@ -34,15 +34,15 @@ Pommer, and J. Scott Reeves
 
 **Commentary and Playtesting:** Michael de Verteuil, Nicole Lindroos, MaPhi Messner, Roderick Robertson, and Helen Steele
 
-#### *About the Author*
+#### About the Author
 
 **David Chart** has been writing for **Ars Magica** since 1993, although this is the first book he's written all by himself. He lives in Cambridge, which is why Cambridge rather than Oxford gets the magi, and has attended a role-playing event in the School of Pythagoras (yes, it's a real place, just not really a covenant). When not gaming, he works on the history and philosophy of science, which gives him an excuse to do **Ars Magica** research as part of his real job.
 
-#### *Author's Special Thanks*
+#### Author's Special Thanks
 
 I'd like to thank John Kasab for being a helpful editor, and Jeff Tidball for being an excellent line developer over the last three years.
 
-#### *Dedication*
+#### Dedication
 
 I'd like to dedicate this book to my parents, Alison Chart and Ian Chart, and my sister, Tana Silverland.
 
@@ -59,7 +59,7 @@ Errata for the fourth edition of **Ars Magica** is available on the Atlas Games 
 
 Saint Paul, Minnesota info@atlas-games.com • www.atlas-games.com
 
-# *Table of Contents Table of Contents*
+# Table of Contents Table of Contents
 
 | I: Introduction<br>4                                                                | VII. The Nobility<br>87                                                           |
 |-------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
@@ -111,7 +111,7 @@ Third, have the players create characters with backgrounds drawn from medieval c
 Finally, don't worry about it. Everyone wants to think that they are playing in the middle ages, so they won't be trying to pick holes in your descriptions. A covenant maneuvering for a borough charter while trying to convince the local priest not to claim tithes on its vis sources and fighting a writ of
 
 
-#### *Where Are the Stats?*
+#### Where Are the Stats?
 
 On a quick flick through this book, you won't see any game statistics. This is because there aren't any. This book is as much for players as for storyguides, and players should not know the non-player characters' statistics.
 
@@ -162,13 +162,13 @@ Bladud, who founded the city of Bath and encouraged magic throughout the realm. 
 Bladud was followed by King Leir, who had no sons, but three daughters: Goneril, Regan, and Cordelia. When he became old, he asked them how much they loved him, and while Goneril and Regan said that their love for him was greater than for any living thing, Cordelia said that she loved him as a father deserved. Leir, furious with his youngest daughter, had Goneril and Regan married in great pomp, but gave Cordelia to Aganippus, the king of the Franks, with no
 
 
-#### *On History*
+#### On History
 
 We hold the writings of the ancients in our hands, and they make times that were past even to them present to us, and yet we are mute; thus their memory lives, and ours dies. A notable wonder! The dead live, and the living are buried in their place. Our time perhaps has someone worthy of the mantle of Sophocles, but the great men of today are neglected, and the cast-off fringes of antiquity raised to honor.
 
 *— From Walter Map, De Nugis Curialium*
 
-#### *A Note on Sources*
+#### A Note on Sources
 
 The account of history up to Arthur is based closely on Geoffrey of Monmouth. History from the Saxons on is based on current scholarship.
 
@@ -177,7 +177,7 @@ dowry. Goneril and Regan, and their husbands, were given control of the country,
 
 Some years later Dunvallo Molmutius took the throne, winning it in battle. He established the Molmutine Laws, which made temples and the roads leading to them places of sanctuary. His reign was an era of peace, when no one dared to rob. His sons were Belinus and Brennius, and both wanted to be king. After his death they fought, until friends made peace between them, with Brennius, the younger, accepting the lordship of the north of the country, subject to his brother. A few years later, Brennius rebelled, and Belinus defeated him, driving him from
 
-#### *Brutus*
+#### Brutus
 
 Aeneas of Troy fled the fall of the city, finally arriving in Italy where he became king, marrying Lavinia, the daughter of King Latinus. After Aeneas died, his son Ascanius became king. Ascanius's son Silvius had a secret affair with one of Lavinia's nieces, marrying her and making her pregnant. When Ascanius found out, he consulted soothsayers about the child, and they said that he would be a boy who would cause the death of his father and mother, and, after wandering in exile, rise to the highest honor.
 
@@ -204,11 +204,11 @@ One hundred years after Arvirargus, Lucius was the king of the Britons. He heard
 After the death of Lucius, the pirate Carausius convinced Rome to give him some ships, and mercilessly plundered the coasts. Finally, with the aid of the Picts, he deposed the king and took control of the country himself, giving part of Albany to the Picts for their residence. The Roman Senate sent Allectus with three legions to defeat
 
 
-#### *Bladud's Library*
+#### Bladud's Library
 
 The characters come across references in ancient texts to a library gathered by Bladud in a secret cave somewhere in his realm, where all the secrets of magic were written down. Such a trove of magical lore would be invaluable to a covenant, but there are few clues to its location remaining, and if the characters look for it, other covenants are almost sure to find out. Even if they do find it, all the books are written in a lost language, and the magic they describe is not easily understood in Hermetic terms.
 
-#### *Belinus's Hoard*
+#### Belinus's Hoard
 
 When Belinus returned to Britain after the sack of Rome, he brought many treasures with him. These may have included texts and enchanted items looted from the Cult of Mercury, or from other Roman magicians. Since books are not obvious targets for most looters, they may survive, forgotten, in a room somewhere. The characters could find part of such a text used in the binding of a new book, and then try to track down the other parts.
 
@@ -221,7 +221,7 @@ From this time on, barbarian raids began to trouble the Britons, until finally R
 
 When the Britons were abandoned by Rome, the archbishop of London traveled to Brittany to ask the descendants of the British royal line to return to rule them. Constantine, the brother of the king of Brittany, took the offered throne and sailed to
 
-#### *The Prophecies of Merlin*
+#### The Prophecies of Merlin
 
 - "The Islands of the Ocean shall be given into the power of the Boar and it shall lord it over the forests of Gaul."
 - "A king who is blessed will fit out a navy and will be reckoned twelfth in the court among the saints."
@@ -258,11 +258,11 @@ The Anglo-Saxons were pagans, and in
 
 Nevertheless, progress was made, and in 663, at the synod of Whitby, the Roman customs were adopted by the whole of the English church. The last major heathen ruler was Penda of Mercia, who was killed by Oswiu of Northumbria in 654, and in 731
 
-#### *Offa's Dyke*
+#### Offa's Dyke
 
 Offa's Dyke stretches for more then seventy miles, and is clearly a work beyond the capacity of unaided mortals. It was completed in 787 with the assistance of Huarwar, a Welsh faerie who was bribed with 10,000 cattle. The bargain involved his being provided with 100 cattle every fourteen years thereafter, and recently the locals have neglected this. As a result, he has started to eat the northern parts of the dyke, and occasional villages.
 
-#### *Magi in Britain Before Pralix*
+#### Magi in Britain Before Pralix
 
 While Pralix was the first Hermetic maga to settle in Britain, she was not the first to visit the island. In the eighth century England was a major center of scholarship, and Jerbiton himself visited the Northumbrian monks. House Díedne had close links with the Welsh druids, although they did not join the Order. The main problem was the large number of indigenous, non-Hermetic traditions in the island. The Order was too small to enforce a "join or die" policy, and so responded by largely ignoring the problem. The war against Dav'nalleous provided a focus for the various British traditions, and House Ex Miscellanea a way for them to join the Order without giving up their history. The tribunal was thus incorporated more easily than the founders had dared to hope.
 
@@ -287,7 +287,7 @@ Meanwhile, the tribunal was growing with the foundation of several new covenants
 Alfred the Great became king of Wessex in 871, and set out to drive the Danes back.
 
 
-#### *Flavia of Jerbiton*
+#### Flavia of Jerbiton
 
 Flavia was trained by Jerbiton himself, and spent her first years as a maga in Rome and Constantinople. She was present at Charlemagne's coronation, and is said to have encouraged Irene in her assumption of the Byzantine throne. Perhaps she was dismayed by Irene's fate: at any rate, she vanished from Europe in 803. By 810, Jerbiton and the other magi of his house assumed that she had died. In 819 she reappeared, refusing to say where she had been, and immediately began searching for somewhere to found a covenant. She astonished everyone by choosing a remote area of the Stonehenge Tribunal, where she established Rosalba in 820.
 
@@ -320,11 +320,11 @@ Sometime in 1030 or 1031, Castrum Antiquum vanished. The Redcap traveled to the 
 When Athelstan died in 939, his brother Edmund was unable to hold the kingdom together, and it quickly collapsed under the pressure of Viking raids. The descendants of Alfred maintained their hold on the kingship, but the various parts of the country slipped away from them, until in 1016 Cnut, the younger brother of the king of Denmark,
 
 
-#### *The Forgotten Covenant*
+#### The Forgotten Covenant
 
 The magi acquire a collection of old Redcap letters. Many of them have been mutilated, with passages cut out, but one of the fragments remains in the bottom of the bag. It mentions "the two Díedne covenants of Stonehenge." This suggests that the obliteration of the Nameless Covenant was a cover story, used to explain the mutilations necessary for the total obliteration of a second covenant. Why were the quaesitores so eager to wipe it from memory?
 
-#### *Alfred and the Cakes*
+#### Alfred and the Cakes
 
 In 878 Alfred's war against the Danes was going badly, and he was forced to flee, alone, into the Somerset marshes, hiding from the enemy until he could rejoin his forces. Wandering the swamps, he saw a lonely cottage, and approached it, seeking refuge. The swineherd who lived there took pity on a man who was, apparently, nothing but a poor victim of the battles, and gave him shelter. Alfred remained there for several days, content with the bare necessities of life.
 
@@ -345,7 +345,7 @@ In 1058 Gruffyd ap Llewelyn of Wales attacked England, and Harold was engaged in
 
 All magi of the tribunal were sure that Gruffyd was a Díedne magus, returned to
 
-#### *Covenants of Stonehenge*
+#### Covenants of Stonehenge
 
 This is a list of all the covenants that have been founded in Stonehenge, together with some information about those not mentioned in the main text.
 
@@ -420,7 +420,7 @@ The tribunal had survived, and even grown slightly. Some magi from the Normandy 
 In 1100 the last magus of Lux Draconis died, and Blackthorn laid claim to the property of the defunct covenant. None of the other covenants had enough strength to challenge them, although Voluntas tried, and the infusion of money, books, and vis put Blackthorn firmly on the road to recovery, with Voluntas as its enemy. In 1104
 
 
-#### *The Tomb of William Rufus*
+#### The Tomb of William Rufus
 
 The body of William II was left lying in the forest for some time before some peasants slung it on a cart and took it to Winchester, where it was buried without ceremony. In fact, another corpse had been substituted for the king's, and he was taken elsewhere to be buried with full pagan ceremony, and a full complement of grave goods. The line of priests responsible has survived until 1220, with minor magical powers, and now they want to use the royal treasure to bribe their way into House Ex Miscellanea. Unfortunately, the treasure was protected by magic as well as a large amount of earth.
 
@@ -460,7 +460,7 @@ In 1163 the covenant of Stellasper was destroyed in a great storm which raged ov
 In 1162 the archbishop of Canterbury, Theobald, died, and Henry ensured that his chancellor, Thomas Becket, was elected to replace him. Thomas had been the king's faithful servant, imposing taxes on the church, and Henry expected him to continue in this fashion. Instead, he became a fierce
 
 
-## *The Disinherited*
+## The Disinherited
 
 Stephen's younger son, William, survived him, and retained control of substantial estates. His children or grandchildren could well be alive in 1220 (although William himself died in 1159), and interested in regaining the throne taken from their ancestor. They might be willing to offer substantial concessions, in the event of victory, to anyone who supported them, and might still be in control of enough land to offer bribes right away.
 
@@ -477,7 +477,7 @@ In 1170 the king and Becket were reconciled, and Becket returned to England. He 
 
 The death of Becket had a great impact throughout Europe. He was immediately venerated as a martyr, and the Pope officially canonized him in 1173. His cult spread quickly throughout the continent, and his tomb at Canterbury soon became the fourth main pil-
 
-#### *The Death of Thomas Becket*
+#### The Death of Thomas Becket
 
 Becket, pursued by the knights, entered the church itself. The monks gathered around him, so perturbed that they had abandoned the divine office, and rejoiced that he was still alive. Some, weeping from the danger, advised him to act one way, others in another. Becket himself went up to the high altar of the cathedral, and as he was ascending the steps Reginald FitzUrse appeared in the doorway to the cloister, armed and brandishing his sword, shouting "Now come to me, men of the king!" and behind him were many others.
 
@@ -519,11 +519,11 @@ In 1194, tribunals to prepare for the Grand Tribunal of 1195 were held throughou
 For the rest of Richard's reign, England was calm, while war raged on the continent.
 
 
-#### *Return of the Hero*
+#### Return of the Hero
 
 Many men followed Richard on Crusade, and he was not the only one to be taken prisoner. A young soldier could have been held in the East for thirty years, only returning home in the thirteenth century. These men had legal claims to property that had been held by others for years, including, perhaps, companions or the covenant itself. The aura of sanctity attaching to Crusaders gives them an initial advantage in court, especially if their opponents are impious magi.
 
-#### *The Return of Arthur*
+#### The Return of Arthur
 
 Arthur of Brittany would be 33 by 1220, if he were still alive, and would have a strong claim to the English throne. Henry III is still a minor, and thus vulnerable. Given the obscurity of his death, unscrupulous people could claim that he survived, and produce pretenders. Or he could, in fact, have survived, and be preparing to make a bid for his kingdom. Either way, his first act would most likely be to claim the duchy of Brittany. Deprived of the normal means of support, and of easy ways to prove his case, he might well seek the support of the Order. Magi can check his story by magic, and provide useful support, if they can keep clear of the quaesitores.
 
@@ -561,7 +561,7 @@ In 1217 Louis allowed his forces to be split, and the royalists routed half of t
 Over the next couple of years the effects of the war were resolved, and government reestablished. William Marshal, the regent, died in 1219, but Henry was fairly secure on the throne, and the realm officially at peace.
 
 
-#### *The Lost Treasure*
+#### The Lost Treasure
 
 The royal regalia would certainly count as an arcane connection to the king, and are likely to be magically linked to the entire kingdom. The troubles following their loss might suggest that they have been used in some kind of curse, possibly by a member of the Order of Hermes.
 
@@ -599,7 +599,7 @@ farmers, especially the lord of the manor and the rector of the parish. Few area
 
 Since most peasants eat what they grow, the notes on diet above also indicate the trends in farming. Cows are kept mainly for milk, and oxen are the main draft animals, although the use of horses is increasing. Sheep are kept mainly for their wool, although also for their milk in some areas, such as Wales, and poultry for their eggs. The only animals kept primarily for meat are pigs. The richer peasants might own half a dozen cows and a couple of dozen sheep, along with half a dozen pigs, while the poorest have no animals at all.
 
-#### *Agricola of Tytalus*
+#### Agricola of Tytalus
 
 Agricola was of peasant stock, and was taken for apprenticeship late, when he had already begun helping on the farm. Throughout his apprenticeship he said that the struggles were as nothing compared to the struggles involved in getting food from unwilling soil. He successfully completed his gauntlet at the first attempt, and joined the covenant of Castrum Antiquum, in the far north of the tribunal.
 
@@ -632,13 +632,13 @@ Tenants are also amerced (fined) for various offenses against the lord of the ma
 The role of the villagers is enhanced by the fact that the manorial courts are governed
 
 
-#### *Medieval English Money*
+#### Medieval English Money
 
 The only coin in medieval England is the silver penny, minted by the king and only by the king. This coin is about 92% silver, and is the most stable currency in Europe. The coins are very thin: it is common to vow a particular penny to a saint by bending it in half between the thumb and fingers. The hapenny (half a penny) and farthing (quarter of a penny) are made by cutting pennies up. Larger units also exist, but only as "money of account." Twelve pennies (12d) make a shilling, and twenty shillings (20s) make a pound (£1), which consists of a pound of silver, 240d. 13s 4d make a mark, two thirds of a pound. The half mark (6s 8d) and the mark are common amounts for fines or taxation. Pounds and marks are not minted, but money offered to pay a large fine would be weighed, rather than being counted.
 
 The English penny is worth between a half and one Mythic Penny (see *Ordo Nobilis,* to be released in 2000).
 
-#### *Peasant Incomes*
+#### Peasant Incomes
 
 It costs roughly £2 per year to support an average peasant family, unless you grow the food yourself. If you do have to buy food, the cost fluctuates wildly with the harvest. Only the top 20% are likely to have much in the way of a cash surplus for other expenses, and then only around £1 per year. Laborers live hand to mouth, and the middle strata of peasants can only make a surplus in the best years.
 
@@ -647,7 +647,7 @@ by "the custom of the manor." Often, the villagers in a group are the best autho
 
 Manors, parishes, and villages do not necessarily, or even often, have the same boundaries. It is very common for manors and parishes to contain more than one village, especially if there were very small settlements in the area, and not unusual for a village to be divided between two manors or parishes.
 
-#### *Peasant Prices*
+#### Peasant Prices
 
 These prices should be used as guidelines only. The price of grain can vary by a factor of five depending on the harvest, and England has just seen a period of relatively rapid inflation (see "The Peripheral Code," page 116).
 
@@ -695,11 +695,11 @@ A very popular outdoor sport is campball. This is played with a leather ball abo
 
 each village. The game is often violent, and deaths sometimes ensue.
 
-#### *A "Friendly" Match*
+#### A "Friendly" Match
 
 The covenant grogs become involved in a number of camp-ball games with the local village. If they have won recently, they are cheerful; if they have lost, depressed. Grogs may be wounded, or even killed. Killings could be revenge for some slight, under cover of the game, and perpetrated by either side. In any case, the magi will probably have to smooth things over. If the grogs win too consistently, the villagers may start to mutter about sorcerous assistance, and the magi will have to convince the grogs to lose a few games on purpose which might not be easy.
 
-#### *Villein Magus*
+#### Villein Magus
 
 One of the magi (or an important companion) was villein born. (Any magus with a peasant background may well have been.) His lord finds out about his whereabouts, and since English law does not recognize the Order of Hermes as canceling villeinage, the magus is still the lord's villein. The lord is not stupid, and sends a message to the magus promising not to pursue him if he will do one small favor. If the magus refuses, he will be dragged before the royal courts, and will have to prove his freedom, without breaking the Code. If he accepts, he will have to break the Code. His best bet is to try to get a charter of manumission (written evidence that he is free) from the lord, without doing anything too noticeable. The lord can issue such charters at will, but it is very hard to *force* him to do so.
 
@@ -726,7 +726,7 @@ Most houses are crowded together on the street side, with about fifteen feet of 
 The other possessions of townsfolk are generally similar to those of people who live in the country, except that farming equipment is replaced by whatever they need for their trade. The prices given in this book are so approximate that they may be taken to apply to the town as well, although at any particular time food should be more expensive and crafted goods cheaper in the towns.
 
 
-#### *The Nightingale*
+#### The Nightingale
 
 Two knights dwelt in a town, each in a fortified house. These houses were next to each other, separated by a common wall. One knight had a wise and elegant wife, and the other was a young man, renowned for prowess and bravery. The young knight fell in love with the other's wife, and paid court to her for so long that, won over by his persistence and fine qualities, she fell in love with him in return.
 
@@ -755,7 +755,7 @@ The largest single craft area is leather and leather goods, employing about 35% 
 
 Textile workers make up about 15% of the craftsmen (see page 55 for more on the textile industry). Spinning is often a source of secondary income, but weavers are one of the largest single crafts in many towns, and often the one that gives the civic authorities most cause for concern. They have a greater tendency to form themselves into gilds (see page 37) than most other professions, and can violently demand higher pay. Fullers process the woven cloth, and dyers complete the process. Clothiers, who turn the cloth into consumer goods, make up another 20% of the town's
 
-#### *House Prices in Town*
+#### House Prices in Town
 
 | House Type                                         | To build   | To rent, per year |
 |----------------------------------------------------|------------|-------------------|
@@ -765,7 +765,7 @@ Textile workers make up about 15% of the craftsmen (see page 55 for more on the 
 | 15'x15', for rent                                  | £2         | 2s 6d             |
 | 15'x15', poor quality                              | £1         | N/A               |
 
-#### *Urban Incomes*
+#### Urban Incomes
 
 The most successful merchants make up to £50 per year from trade. The richest craftsmen make around £5 per year, while an average figure is closer to £3. Laborers are paid as little as a penny a day, less if they receive food on the job.
 
@@ -790,7 +790,7 @@ The members of professions are not often very rich, and are often accused of ext
 
 Towns are part of the normal administrative structure of medieval England, subject to many of the same laws and authorities. However, certain customs are poorly suited to town life, and the inhabitants want freedom to trade. As a result, some towns have been able to obtain special rights and laws. This never took them outside the feudal structure,
 
-#### *Autocrat Hunting*
+#### Autocrat Hunting
 
 The covenant autocrat dies, and there is no suitable replacement within the covenant. The magi must either recruit someone else, or take time from their studies to manage to covenant themselves. Recruitment is not easy: competent officers are already employed, and would have to be lured away, which might offend their employers. Incompetent officers are easy to find, but bring their own problems. Alternatively, if the covenant has a very effective autocrat, he might be lured away into royal service, possibly even being made sheriff of the covenant's shire, and finding himself with legal authority over the covenant.
 
@@ -825,15 +825,15 @@ The gild merchant is often the only gild in a town, and its members usually have
 Craft gilds are not common at this point, mainly due to the small size of many towns. As a large town, London has many craft gilds, but in smaller towns there may be only one or two practitioners of a particular craft, making a gild rather pointless. Gilds for the larger crafts, such as weaving, are common elsewhere. Craft gilds have a monopoly on their craft within the town, and set standards of
 
 
-#### *The Borough Covenant*
+#### The Borough Covenant
 
 A charter of borough rights would give a covenant a secure place in the feudal hierarchy. The magi would inevitably be the mayor and aldermen, and would be placed beyond the normal reach of local mundane justice. Of course, they would have to pay an annual sum to the king, and find the resources to gain the charter in the first place, and convince the tribunal that their actions did not violate the Code. Even after the charter had been gained, the king might demand large sums of money to renew it, on almost any excuse, local magnates might challenge its validity, and if someone appealed to the king against the magi, they would have to defend their rights in the royal courts.
 
-#### *The Gild of St. George*
+#### The Gild of St. George
 
 The grogs decide to form their own gild, naming it after a warrior saint. The gild leaders (not necessarily the grog sergeants) set rules for rates of pay, and for who can be employed. At first, this doesn't interfere with the plans of the magi, and the organization becomes established. Then the grogs refuse to accept certain new recruits, or to go on certain expeditions. Maybe the magi want to take grogs away from the covenant during the annual gild feast, and they refuse to go.
 
-#### *The Jews*
+#### The Jews
 
 The Jewish community in England is small, and not of particular importance in European Jewry. The largest Jewish community, in London, has maybe 300 members, and in many places the entire Jewish population consists of a single family. Nevertheless, the Jews have considerable importance within England. They are under the direct protection of the king, and serve as an important source of revenue. This chapter can only give a brief overview of features of Jewish life in England; for more detail on Jewish life in general see *Kabbalah: Mythic Judaism.*
 
@@ -871,7 +871,7 @@ London is by far the largest and most important city in England. Its mayor signe
 The city stands on the north bank of the Thames, at the lowest point where the river can be bridged. London Bridge is maintained
 
 
-#### *Berechiah ben Natronai haNakdan*
+#### Berechiah ben Natronai haNakdan
 
 *Born 1162*
 
@@ -903,7 +903,7 @@ London has around a hundred and twenty parish churches, most very small, and wit
 
 The most important monastery is at St. Paul's Cathedral, where the chapter is made up of monks. The bishop of London's status does not match that of his city: the two archbishops and the bishop of Winchester clearly surpass him in importance, although his is still an important bishopric. St. Paul's is also the home of a school, which is particularly renowned for its legal teaching. There are also important schools at St. Mary le Bow and the monastery of St. Martin le Grand. Other
 
-#### *Churches of London*
+#### Churches of London
 
 *The saints to whom these churches are dedicated are also found elsewhere in the country, and thus may be drawn on for church names. In most places, a church is uniquely identified by its dedication.*
 
@@ -1000,7 +1000,7 @@ The palatinate had its origin in the reign of St. Calais, bishop from 1080 to 10
 The main buildings in Durham are the castle and the cathedral. The great Norman cathedral dominates the view and the life of the city, housing the shrine of St. Cuthbert. The castle guards the neck of the peninsula, and is the main residence of the bishops of Durham. The hill is almost entirely devoted to the priory and bishop, and the civic build-
 
 
-#### *St. Werburg and the Geese*
+#### St. Werburg and the Geese
 
 A large flock of wild geese were feeding on St. Werburg's wheat, destroying the harvest. She called her servants, and had the birds confined in a shed, as if they were domestic animals. The next morning she went to let them out, and noticed that one of them was missing. She asked the servants what had happened, and they told her that they had eaten it.
 
@@ -1042,7 +1042,7 @@ At the battle of Lincoln in 1217, the castle was on the king's side, while the t
 After the restoration of King Henry, the town did not see peace, as it was now the scene of struggles between Nicola de Hay and the earl of Salisbury. At present, Nicola con-
 
 
-#### *Miracles of St. Cuthbert*
+#### Miracles of St. Cuthbert
 
 Eleven years after his death, the most faithful men of the whole congregation decided to raise the relics of the holy Bishop Cuthbert from their sepulcher. When they first opened it they found, marvelous to tell, that the body was as undecayed as it had been when they first buried it. The skin had not decayed, nor had the sinews become stiff, and his limbs could still be bent at the joints. His vestments and footwear were not worn away where they had touched the body, and all retained their fresh color. The shoes with which the bishop was shod are kept against the relics, as testimony to this.
 
@@ -1069,7 +1069,7 @@ In 1209, however, things changed. A student killed his mistress in an argument, 
 
 It was five years before the matter was resolved. The masters were all clerks, and
 
-#### *St. Hugh's Swan*
+#### St. Hugh's Swan
 
 On the very day of Hugh's enthronement as bishop of Lincoln a great swan came to his manor at Stow. This bird was as much larger than a swan as a swan is larger than a goose, and had a yellow head, otherwise appearing pure white as other swans. Within a few days it had fought and killed all the other swans there, apart from one female, which it spared for company, not for breeding purposes.
 
@@ -1094,7 +1094,7 @@ Winchester has declined from its past glories, but is still a very important cit
 The development of civic independence has been greatly hindered by the proximity of royal and episcopal interests. The city does have a mayor, currently Elias Westman, and a gild merchant, but there are many exemptions from their authority. They have no control over the king's moneyers or officers, nor over the land of the Bishop's Soke, which covers a large portion of the city. There are two other small liberties (areas where the mayor has no authority), Chapman's Hall and God-begot,
 
 
-#### *Nicola de Hay*
+#### Nicola de Hay
 
 Nicola is the hereditary constable of Lincoln castle, and sheriff of the shire. Her father had no sons, and as his eldest daughter she inherited the English portion of his lands and authority. She married Gerard de Camville, who died early in the thirteenth century, and had one son. This son, Richard, had a single daughter, Idonea, who married William Longespee, the current earl of Salisbury and uncle of the king. Both Richard and Gerard were dead by 1217, and William would then inherit Lincoln in right of his wife, once Nicola was dead.
 
@@ -1347,7 +1347,7 @@ protection, fled to the castle to avoid a mob led by a fanatical monk and those 
 
 
 
-# *Chapter 5 Travel, Trade, and Industry Chapter 5 Travel, Trade, and Industry*
+# Chapter 5 Travel, Trade, and Industry Chapter 5 Travel, Trade, and Industry
 
 # Travel
 
@@ -1355,7 +1355,7 @@ It is not unusual for people to travel, no matter what their level in society. E
 
 The wealthy and powerful range even further afield. Many merchants obviously must travel to buy and sell their goods (see "Trade,"
 
-#### *Crossing the Neath*
+#### Crossing the Neath
 
 We hurried along the coast road to the Neath, with Morgan as our guide. This river has the most dangerous approach of those in South Wales, on account of its quicksands, and as we approached one of our pack horses, with all my baggage on it, was almost sucked under. It had taken the lower road with some of the other animals, and was jogging along in the middle of the group. In the end it was saved by our servants, at the risk of their own lives, and not without some damage to my books. Against Morgan's advice, we hurried across the quicksands in fear, because "Terror gave us wings." Before we made it through, we had realized the wisdom of his counsel. We crossed the river itself by boat, rather than a ford, because the passages change with every tide, and cannot be found at all after heavy rain.
 
@@ -1367,7 +1367,7 @@ Travel is not safe, however. Bandits are common, and it is normal for travelers 
 
 Rivers play an important role in inland travel, especially in the transport of goods. However, they are often blocked with fish weirs and nets, despite royal commands to keep them clear. Indeed, the clearing of the Thames and the Medway was required by one of the clauses of Magna Carta. Tolls were also charged on rivers, generally at bridges, where the passage of boats could be controlled.
 
-#### *Great Fairs of England*
+#### Great Fairs of England
 
 | Fair                  | Date                | Length       | Lord                 |
 |-----------------------|---------------------|--------------|----------------------|
@@ -1398,11 +1398,11 @@ Everything is traded at fairs, but the most important commodities are cloth and 
 
 While many traders work from tents or other temporary shelters, many fair sites have some permanent buildings. At St. Ives the fair takes over the front rooms of many houses in the town, while at Winchester the bishop has built an enclosure for the fair outside the town, with some permanent wooden stalls. Since most structures are light and made of
 
-#### *Free Redcaps*
+#### Free Redcaps
 
 Redcaps are subject to all the tolls on travel, and to assault and detention by local lords. While the Order discourages interference with them, it is difficult to strike the balance between intimidating nobles and provoking a response. If the Order could obtain a royal charter, granting the Redcaps freedom from toll and the protection of the king's peace, things would be much easier. Of course, it could be argued that the solution does more violence to the Code than the problem.
 
-#### *A Miner Covenant*
+#### A Miner Covenant
 
 The special rights granted to miners allow them a lot of freedom from interference from mundane authorities, and they are expected to excavate large underground areas and sell metal for their income. A covenant could set up as a mine, providing laboratories for the magi in the tunnels (which are dangerous for mundane visitors, of course) and even producing metal by magic. While initial permission would be needed, the lord would require nothing more than a regular payment, and would be unlikely to suspect the covenant's true nature.
 
@@ -1463,7 +1463,7 @@ The resident priest of a parish is usually barely literate, and is sometimes inc
 
 The rector is responsible for maintaining the church and supplying vestments and a chalice and paten for the mass. Non-resident rectors usually do not bother, and the vicarage may be too poor to maintain the church, with the result that the building
 
-#### *The Life of Clerics*
+#### The Life of Clerics
 
 Clerks should all strive to live continently and chastely, avoiding the sin of lust completely.
 
@@ -1481,7 +1481,7 @@ becomes unsafe. In addition, if the chalice or paten is broken and not replaced,
 
 A parish, then, should have a resident priest, assisted by at least one deacon and a clerk (who may be in minor orders). The church should be in good condition, and the priest should aid the poor of the village. This is the situation in at most 10% of parishes. A further 50% are functional with lapses (for example, the priest lives with a woman), while the remaining 40% lack a priest or a usable church, and thus cannot function at all. The worst cases involve an absent rector, a chaplain no one has seen for years, and a church that is a positive hazard. The Dominion in such parishes may well have vanished entirely.
 
-#### *The Tithe*
+#### The Tithe
 
 The tithe is a tenth of everything of which God gives the increase, and people are legally obliged to hand it over to their rector. The rules surrounding it are quite elaborate, covering all possible situations. The wealth of parishes varies enormously, from over £100 per year to less than four marks. In general, the richer parishes are in the north, because they are larger. Further, urban parishes tend to be poor, because little farming takes place. Instead, a tithe is collected on building rents.
 
@@ -1499,7 +1499,7 @@ Virtually all scholars are clerks, although many are only in minor orders. In pa
 
 Such education as there is for ordinary folk is provided by the church. A number of monasteries provide grammar schools, and parish clergy will often try to educate promising boys under their care. In the latter case, the quality of education will depend heavily on how educated the teacher is.
 
-#### *The Universities*
+#### The Universities
 
 Universities are a new feature of scholarly life, and there are only a handful in Europe. Of these, the most important are Paris and Bologna. Oxford is not much less important than Paris, and Cambridge is significant. Constitutionally, they are little more than loose associations of men with a common interest, and the award of the title "Master of Arts" simply indicates that those men find someone fit to teach in their town. The beginnings of organization are apparent: Both universities are headed by a chancellor, and there are rudimentary regulations for the control of students. (See Oxford, page 48, and Cambridge, page 43.)
 
@@ -1508,7 +1508,7 @@ Universities are a new feature of scholarly life, and there are only a handful i
 
 The bishop is not supposed to ordain a man unless he can show that he has a means of support. This rule is not strictly followed, however. It is estimated that there are 60,000 clerks in England and Wales, about 2% of the population. The parishes and monasteries are
 
-## *Magical Tithes*
+## Magical Tithes
 
 A learned priest is appointed to the parish including the covenant. He turns out to be a natural magician, and he demands a tithe of the covenant's vis supplies. As God gives the increase, they clearly qualify. If the covenant refuses to pay up, he may threaten to complain to the bishop. In that case, the covenant is in a no-win situation, and the other covenants of the Order would not look kindly on a ruling that diverted a tenth of their vis to the church. Subtle negotiation (or, perhaps, a tragic accident) is in order.
 
@@ -1519,7 +1519,7 @@ inadequate to support so many, so there are many men with no secure source of in
 
 The regulars are those people who live a holy life according to a rule (Latin *regulus,* rule). They are not all clergy, because some of them are women, nor are they all monks or nuns, although those classes of people do rep-
 
-#### *Master Robert Grosseteste*
+#### Master Robert Grosseteste
 
 *Born 1170*
 
@@ -1543,7 +1543,7 @@ resent most of them. This is supposed to be the holiest possible sort of life, a
 
 While all the regulars live under a rule, they do not all live under the same rule. There are many rules, so many that Pope Innocent III forbade the creation of new ones at the fourth Lateran Council, in 1215. This section describes the most important.
 
-#### *Benedictine*
+#### Benedictine
 
 The oldest, and most important, rule is the Benedictine, created by Benedict of Nursia for his monastery at Monte Cassino in Italy around 500 AD. It was not supposed to be rigorously ascetic, rather requiring the monks to live a simple and disciplined life, separated from the world. Their most important occupation is the *opus dei,* the mass, which is supposed to be said or sung at each of the canonical hours (see page 64). They are also supposed to engage in manual labor to support themselves, but that has fallen out of fashion, so that monks normally employ servants for such tasks. Benedictines are known as black monks, from the color of their habits.
 
@@ -1560,17 +1560,17 @@ The Cluniacs are a group within the Benedictines of houses that depend on the ab
 
 Most convents of nuns follow the Benedictine rule, which requires them to
 
-## *The Enemy of My Enemy*
+## The Enemy of My Enemy
 
 If the covenant has chilly relations with the local church and nobility, have a band of robbers set up and start causing them real trouble. It turns out that these robbers are all ordained. The local lord refuses to do anything, citing (correctly) benefit of clergy. The Church sends an official to preach to the bandits, but they ignore him. If the covenant dares to deal with them itself, all its members are excommunicated.
 
-## *The Coming of the Monks*
+## The Coming of the Monks
 
 The covenant has managed to keep its existence secret from everyone, pretending to be an ordinary village. Now, the lord of the manor has given the village to the Cistercians, who have come to drive the villagers off their land. If the covenant is well hidden, the magi might simply lose their source of labor and food. Since covenants and Cistercians tend to seek out the same sorts of areas, conflict between the two orders is likely to be common.
 
 have a man living nearby to act as priest in the Divine Office. This can cause problems, and the vow of stability is taken more seriously for nuns than for monks. Nevertheless, abbesses are among the most influential women in the country. Important nunneries include Godstow, near Oxford, which was founded in the twelfth century and houses the tomb of fair Rosamund, the mistress of Henry II; Shaftesbury, founded by Alfred the Great; and Wilton, in Wiltshire, where the widow of Edward the Confessor and the daughter of Harold Godwinson lived after the Norman Conquest. There are, in total, about 7,000 nuns in England.
 
-#### *Cistercian*
+#### Cistercian
 
 The Cistercians were founded by Robert of Molesme at Cîteaux, in 1098, but their extraordinary growth was due to Bernard of Clairvaux, the most influential churchman of the twelfth century. They follow the Benedictine rule, and in origin did so more strictly than most other Benedictine monasteries. They wear habits of undyed wool, and thus became known as the white monks, and build simple monasteries far from civilization. These areas have turned out to be excellent for sheep farming, and the Cistercian monasteries of Yorkshire are among the largest suppliers of wool in Europe. From the beginning there were laymen, the *conversi*, associated with the Cistercians, who were responsible for helping the monks with the farming. There are about 3,250 Cistercian monks in England and Wales.
 
@@ -1584,24 +1584,24 @@ The first Cistercian monasteries were founded in England around 1130, and the or
 
 Some convents of nuns are part of the Cistercian Order, albeit reluctantly on the part of the monks. They are not part of the normal chains of filiation, rather being placed under the control of a nearby male monastery.
 
-#### *Augustinian*
+#### Augustinian
 
 The rule of Augustinian canons is derived from a letter written by St. Augustine of Hippo (*not* the St. Augustine who converted the English), but has been much expanded from those bare bones. The canons are not monks, because they are not supposed to be sequestered from the world. They are bound to poverty, chastity, and obedience, but they are expected to involve themselves in work with the laymen near their canonry. The canons have a common life, but they are attached to a cathedral, collegiate church, or hospital, and thus have pastoral duties like a secular priest.
 
 There are a number of orders relying on the Rule of St. Augustine, including the Gilbertines (below), the Premonstratensians, and the Dominicans (page 64). These orders differ a great deal, and there are also many unaffiliated houses following the rule, some of which contain women rather than men. Thus, it is impossible to generalize about the behavior of regular canons, of whom there are about 3,500 in England and Wales.
 
-#### *Gilbertine*
+#### Gilbertine
 
 The order of St. Gilbert of Sempringham is unique in two ways. First, the order is confined to the east of England. Second, it has both male and female members. The women all follow the Benedictine Rule, and are rigorously enclosed. The clerical men follow the Augustinian Rule, and the laymen follow the Cistercian customs. The canons' first responsibility is to provide priestly services for the nuns, and despite careful precautions there are occasional scandals. The lay brothers do the farming, and the lay sisters act as servants for the nuns. There is an annual general chapter of the order, as for the Cistercians, which is attended by the prior of each house, who is always a canon. The most important house of the order is the first one, at Sempringham. There are about 1,000 members of the Gilbertine order, including both canons and nuns.
 
 
-#### *The Military Orders*
+#### The Military Orders
 
 The military orders are orders of monks who are also knights. The most famous are the Knights Templar, founded by Hugh de Payns and Godfrey of St. Omer in 1118, and strongly supported by Bernard of Clairvaux, and the Knights of the Hospital of St. John of Jerusalem. They have rules which allow them to fight, primarily against the Moslems, but they hold land all over Christendom, and both orders have a number of houses in England. These houses do not hold active knights, although retired warriors may be accommodated; rather, they gather funds and supplies and send them on to the Levant. The Templars are also notable for their involvement in banking, generally in lending money to help with Crusading, and for their tendency to build round churches, including one in London.
 
 
 
-#### *The Friars*
+#### The Friars
 
 There are no friars in England. The Dominicans, or Black Friars, arrive in 1221, the Franciscans, or Gray Friars, in 1224. The Dominicans are devoted to preaching and teaching in resistance to heresy, and are officially called the Order of Preachers. The Franciscans are devoted to being poor and imitating the life of Christ and the Apostles as far as possible, renouncing learning along with wealth. They are officially called the Order of Little Brothers, or Friars Minor.
 
@@ -1668,7 +1668,7 @@ The mass is performed entirely in Latin (and is named from the final words: "Ite
 Very few of the laity take communion because it is necessary to have received absolution beforehand, and to fast and abstain from sexual relations for three days. Thus, most laymen and women communicate once a year, or even less, although the Lateran Council in 1215 tried to set once per year as the minimum. When they do take commu-
 
 
-#### *The Mass of St. Gregory the Great*
+#### The Mass of St. Gregory the Great
 
 A certain woman used to provide the bread for the altar at which Pope Gregory said Mass, and one Sunday, when she was going to receive communion, Gregory held out the Host to her, saying "May the Body of our Lord Jesus Christ benefit you unto life everlasting." The woman burst out laughing, as if he had told a joke, and Gregory drew back the Host, laying it on the altar. In front of the whole congregation he asked her why she was laughing. She said, "Because you called this bread, which I made with my own hands, the Body of the Lord." Gregory was troubled by the woman's lack of faith, and lay before the altar in prayer. When he stood, he found the Host transformed into a finger. When the woman saw this, her faith was restored, and on Gregory's prayers it was turned back into bread, which she received in true piety.
 
@@ -1719,9 +1719,9 @@ The bishop's job is to support and oversee the clergy of his diocese. He has two
 
 The second, and more useful, episcopal power is the visitation. The bishop travels round his diocese, visiting the parish churches and religious houses and examining their behavior. It is very rare for the bishop to deprive someone of a benefice as the result of a visitation, but he will often require improvements to be made. Three things limit the effectiveness of visitations. First, the bishop may well be part of the royal administra-
 
-#### *Dioceses and Bishops in the Stonehenge Tribunal, 1220*
+#### Dioceses and Bishops in the Stonehenge Tribunal, 1220
 
-#### *Province of Canterbury*
+#### Province of Canterbury
 
 #### **Diocese Bishop**
 
@@ -1735,13 +1735,13 @@ Rochester Benedict of Sawston Salisbury Richard le Poore
 
 Winchester Peter des Roches Worcester William of Blois
 
-#### *Welsh Bishoprics*
+#### Welsh Bishoprics
 
 *(part of the Province of Canterbury)*
 
 **Diocese Bishop** St. Asaph Renier Bangor Cadwgan St. David's Iorwerth Llandaff William
 
-#### *Province of York*
+#### Province of York
 
 **Diocese Bishop**
 
@@ -1766,7 +1766,7 @@ The archdeacon is the most active of a bishop's subordinates. He is responsible 
 Canon law is the law of the Church, binding on all its members, wherever they live. It is based on the law of the Roman Empire, as extended and modified by the decrees and decisions of the Popes. The line between ecclesiastical and civil jurisdiction is not well defined, and is constantly disputed.
 
 
-#### *A Miracle of St. Wulfstan*
+#### A Miracle of St. Wulfstan
 
 Some merchants from Bristol were sailing to Ireland when they were caught up in a dreadful storm. The wind and rain raged, and the ship lost its oars, the ropes snapped, and finally the mast broke. The storm passed, but the ship was now drifting helplessly. The men on the ship saw nothing but death ahead of them. On the fourth day, one of the men was inspired by God, and spoke to the crew, "Those of you who are so lucky as to have Wulfstan as your bishop, pray now for aid."
 
@@ -1778,7 +1778,7 @@ When this tale was reported to Wulfstan, he would not comment on it, other than 
 
 *— From the Life of St. Wulfstan by William of Malmesbury*
 
-#### *The Visitation*
+#### The Visitation
 
 The bishop comes to carry out his visitation of the parish church near the covenant. If the covenant gets on well with the priest, the bishop is likely to find the man's preaching a little dubious. If they are hostile, the priest has the perfect opportunity to report the covenant to someone powerful enough to do something about it. If they have done away with the priest altogether (visitations did sometimes discover that there had been no resident priest for years), then the bishop is likely to be very annoyed. Add to this a retinue of fifty people, and the situation could be very tricky indeed. If the covenant is pretending to be a religious house, then the bishop will come to visit *them.*
 
@@ -1789,7 +1789,7 @@ At one level, canon law is having an important influence on the development of p
 
 The influence of canon law on daily life is more important to most people. Canon law, as would be expected, controls the administration of the sacraments. This does have a few wide-ranging consequences. First, anyone who has been ordained, even to minor orders, is entirely under the jurisdiction of the canon law. Any crime that he commits, even murder, must be judged by a church court. Since ordained judges are not allowed to spill blood, the worst that is likely to happen is that the criminous clerk will lose his ordained status and be set a heavy penance, probably involving a pilgrimage. He cannot be tried in civil courts for the same offense. (This privilege was won by Becket's martyrdom, and no lord or king would dare to ignore it.) This protec-
 
-#### *Stephen Langton*
+#### Stephen Langton
 
 *Archbishop of Canterbury, born 1165, archbishop since 1207*
 
@@ -1808,7 +1808,7 @@ tion also applies to layfolk closely associated with the church, most notably nu
 The second large area that the sacraments bring under the church's notice is marriage. Some issues related to marriage, including many of those relating to property, fall within the purview of the civil courts, but most are church business. Thus, the church must decide whether a marriage is valid, which may be difficult if it was contracted secretly (see "Marriage," page 68). This can be important if one partner wants to marry someone else, or if the couple have died and their children wish to inherit as legitimate heirs. Church courts can also annul marriages, finding that the couple were never really married in the first place, because they were too closely related, or one partner did not give free consent. Canon law also covers all sexual misdemeanors, from fornication to sodomy.
 
 
-#### *Walter de Grey*
+#### Walter de Grey
 
 *Archbishop of York, elected 1215*
 
@@ -1818,7 +1818,7 @@ In early 1215 John tried to impose him as archbishop of York, reputedly in fulfi
 
 On his return to England, Walter supported the young king, and Henry likes him. He was seriously ill for much of 1219, and thus has not done much since taking up his see. He has, however, got into a quarrel with Stephen Langton over whether he has the right to have his cross borne in front of him while he is in the southern province.
 
-#### *Richard de Marsh*
+#### Richard de Marsh
 
 *Bishop of Durham, elected 1217*
 
@@ -1847,7 +1847,7 @@ Within any business, canon law forbids a number of unfair practices. First, it i
 
 It is also illegal to manipulate prices. The fair price is the market price: what the buyer is willing to offer and the seller, to accept. Any attempt to manipulate this, by, for example, cornering the wheat market in a particular town, is illegal. There are terms for many of these techniques. If suppliers withhold a product to drive the price up, that is forestalling, while buying up all supplies and then selling at a higher price is engrossing. However, buying something cheaply in one place, transporting it a substantial distance (not just from the market town to the village), and then selling it at a profit is regarded as fair. The profit is the merchant's recompense for the risk he has undertaken.
 
-#### *Canonical Procedure*
+#### Canonical Procedure
 
 In theory all canon law cases are judged by the bishop of the diocese, but in practice most now appoint deputies, known as their officials or officials principal, to hear the cases for them in what is known as the "consistory court." The bishop may still hear cases in person, and this is called the "court of audience."
 
@@ -1858,7 +1858,7 @@ Once the defendant appears, the plaintiff must submit the libel, a formal, writt
 If the preliminaries are got through and the case actually comes to trial, the plaintiff and defendant must both swear that they are undertaking the prosecution and defense honestly, and not through malice. The plaintiff must then produce good evidence. Essentially, this means either a confession from the defendant (given in court), or two witnesses who have both seen and heard the relevant event. "Witness" is interpreted very strictly. If a priest is accused of concubinage, the witnesses must have seen and heard him engaging in coitus with the woman. Seeing
 
 
-## *An Engrossing Problem*
+## An Engrossing Problem
 
 If a covenant is living off stores of anything but cash, they could be brought before the church courts on a charge of engrossing. As long as their contacts are happy with them, there is unlikely to be a problem, but if they annoy a merchant he would probably have enough evidence to start proceedings against them. This could also apply if the covenant creates large quantities of some substance (to save vis), and then sells it off slowly to avoid flooding the market.
 
@@ -1873,7 +1873,7 @@ The first is investigation "through notoriety." If everyone knew who the crimina
 
 The second is the inquisitorial procedure, and it has been introduced over the last twenty years. It is not much used in England, but is growing in popularity elsewhere. A judge may initiate an investigation on the basis of
 
-#### *Notorious Heretics*
+#### Notorious Heretics
 
 The local bishop sends an agent to the covenant, indicating that many people accuse them of heresy, that, indeed, their heresy is almost notorious, and that they should think about proving their fidelity to the true church by undertaking some task for him. If the claim is even half convincing (for example, most magi never attend mass) the magi would be well advised to comply, or they may face summary judgment. Once the task is completed, they might want to work on their public image.
 
@@ -1881,7 +1881,7 @@ widespread belief that a crime has been committed, without waiting for an accuse
 
 The accuser in a criminal proceeding, and both plaintiff and defendant in a civil proceeding, may employ a proctor, or legal representative. These individuals need not have formal training, but generally have extensive experience of the courts, and have full authority to make decisions on their clients' behalf. The defendant in a criminal proceeding may not employ a proctor, nor may he or she receive legal advice.
 
-#### *Punishment*
+#### Punishment
 
 The judge in a church court has wide discretion over the punishment of convicted criminals. The aim is to make the punishment fit the crime, and, if at all possible, to help with the reform of the criminal. There need be no correlation between the apparent severity of the crime, and that of the punishment. For example, a rich engrosser might be fined a very large sum of money and sent on a pilgrimage to Rome, because otherwise he would sin again, while a poor and repentant heretic might be set to fast for two weeks and abstain from sex for a year, just to make sure that his repentance is genuine.
 
@@ -1910,13 +1910,13 @@ the saint will intervene in person, indicating where the body should be kept. Th
 
 Prayers to saints usually take the form of bargains — "If you save me now, I will do such and such for you." A common bargain is
 
-#### *A Miracle of St. Thomas Becket*
+#### A Miracle of St. Thomas Becket
 
 A bird that had learned human speech was being chased by a hawk. As it fled, it cried out a phrase it had been taught, "Saint Thomas, help me!" At once, the hawk fell dead from the sky, and the bird escaped.
 
 *— From the Legenda Aurea of Jacobus de Voragine*
 
-#### *A Miracle of St. Erkenwald*
+#### A Miracle of St. Erkenwald
 
 After a fire in London, a new reliquary was being constructed for St. Erkenwald, whose relics had miraculously survived. A foolish man named Eustace was in the habit of visiting the place where it was being built, and distracting the laborers with drunken jokes and antics.
 
@@ -1932,7 +1932,7 @@ to vow a penny, by bending it between the fingers as the prayer is uttered, or t
 
 The miracles, and behavior, attributed to saints were varied — see the legends in the sidebars for examples. Their essential attribute was their thaumaturgical power, and this could maintain a cult even when the church authorities did not fully approve. Of course, such a cult would be discouraged, possibly even persecuted, and so would most likely not last, but not all local saints were ever canonized by the Pope. (Theologically, this was not a problem, as canonization was merely human acknowledgment of a divine decision, and it was widely admitted that there were many saints who had not been canonized.)
 
-#### *Pilgrimage*
+#### Pilgrimage
 
 Pilgrimage is an important part of devotion to the saints. It usually involves a visit to the saint's tomb, but other holy sites also attract pilgrims, such as sites of martyrdom, or of important visions. It is common to vow to visit a saint's tomb if he helps you out of trouble, particularly if the saint is local. Pilgrimages are also imposed as penances for serious sins. They may also be undertaken as a kind of holiday, especially by the well off, although as pilgrims are seen as holy, they can often live by begging. This is discouraged, especially for women, as they can be driven to prostitution if their money runs out.
 
@@ -1949,11 +1949,11 @@ There are many festivals and holidays during the year, invariably connected with
 Christmas is the most important festival, although Easter is a more important religious date. Christmas sees the greater festival because it occurs in the middle of winter, when there is little work to do in the fields, and people thus have time to celebrate. The celebrations start on or a little before Christmas Day, and continue for the full twelve days of Christmas. Churches and houses are decorated with evergreen branches, particularly holly and ivy, and noble households hold great feasts. The greatest feast is often held on Twelfth Night, rather than Christmas Day, and the main dish is traditionally pork, with the boar's head forming the centerpiece of the display. At these feasts the Wassail Bowl or Cup will be passed round. This is a large bowl full of wine, which the host holds up, saying "Wassail." He is answered by the guests saying "Drinkhail," and he drinks from the bowl before passing it to the person next to him, who repeats the process. It is customary to give gifts around this time, whether on Christmas Day, January 1st, or Twelfth Night.
 
 
-#### *Saint Acies of Flambeau*
+#### Saint Acies of Flambeau
 
 Magi fulfill most of the criteria for sainthood: they have great power, being able to heal the sick and change the weather; they are more powerful in certain areas; and they are willing to smite their enemies and aid their friends in return for gifts. Thus, the local people might well decide that the magi are saints. This would draw the attention of the church, but if the magi spoke in support of the priesthood, paying tithes, and obeying the secular lords, and made a convincing show of orthodoxy, the priests might well confirm their sanctity, rather than stir up pointless trouble. They might even be convinced. The Order would not approve, but they can hardly declare a Wizards' March against acknowledged saints.
 
-#### *Pilgrimages to Adventure*
+#### Pilgrimages to Adventure
 
 Pilgrimages are a good way of getting characters to travel long distances. A pious character can have one imposed as penance (most player characters commit lots of sins), and even impious ones can have them imposed as penalties in a church court, perhaps as the result of a judgment from notoriety. Indeed, a court could impose the penalty on a fairly arbitrary group of characters, and the other members of the covenant would want to encourage them to go, to avoid further trouble. The pilgrimage could be to Canterbury, or to Rome, or to Jerusalem. On the way, the characters stumble across the storyguide's latest plot.
 
@@ -2036,7 +2036,7 @@ As befits a wealthy house and center of pilgrimage, the abbey has glorious build
 Fountains Abbey is a Cistercian foundation, one of the largest in England and the motherhouse of a filiation extending throughout the country and as far as Norway. It was founded in 1132 by monks from York. They had been inspired by the example of the
 
 
-#### *Henry of Essex*
+#### Henry of Essex
 
 Henry of Essex was one of Henry II's constables, and a great and powerful man. Alas, he not only failed to give St. Edmund his due, but also tried to take the saint's privileges away. The wicked man unlawfully deprived the saint of rents worth 5s, and tried to have a case transferred from the saint's court to his own on false grounds.
 
@@ -2082,7 +2082,7 @@ In the tenth century St. Dunstan was closely associated with Glastonbury. He was
 St. Dunstan went on to be archbishop of Canterbury and led a great reform of the
 
 
-#### *Abbot Thurstan*
+#### Abbot Thurstan
 
 A wicked dissension arose between Thurstan and his convent. He rejected the Gregorian chant, and tried to force the monks to use that of William of Fécamp. He also spent the abbey's wealth on his own business, and reduced the food given to the monks. They, especially the older ones, took this ill, and found his foreign habits hard to tolerate.
 
@@ -2166,7 +2166,7 @@ Women wear a kirtle, which is very long, often with a train, and belted with a g
 
 Headwear is quite varied, but women must wear something on their heads. The veil is a piece of cloth placed on the head so that a straight edge hides the hair on the forehead, while the rest drapes over the head and neck, and is crossed in front of the neck. The wimple, made of fine white linen or silk, covers the neck, and drapes down over the bosom. The ends are drawn up to frame the face, and
 
-#### *Major Nobility*
+#### Major Nobility
 
 #### **Main Holdings in England**
 
@@ -2213,11 +2213,11 @@ Most members of the nobility do not live in castles, which are reserved for the 
 
 The hall itself is usually approximately
 
-#### *Noble Incomes*
+#### Noble Incomes
 
 Noble incomes are derived almost exclusively from land. An annual income of £5 or more from rents on land makes you a minor member of the gentry, and an income of £20 qualifies you for knighthood. The incomes of the greatest nobles can reach several thousand pounds per year.
 
-#### *Noble Prices*
+#### Noble Prices
 
 Good Ale 1/2d per gallon Wine 2d – 6d per gallon
 
@@ -2288,11 +2288,11 @@ Hunting takes place on horseback, with hounds, and chases various animals: red d
 
 The tournament is a miniature war, held at an agreed time and place. Two teams are drawn up, generally of knights from certain areas, and areas are roped off where the combatants can retreat to safety. The two teams then fight until the end of the day, roaming the area as they wish. The participants try to avoid killing each other, but sneaky tactics are entirely legitimate, and injuries are common and expected. During the tourney knights try to take one another prisoner,
 
-#### *Unexpected Guests*
+#### Unexpected Guests
 
 A covenant built in a royal forest and protected by *The Shrouded Glen* would be almost immune from discovery. However, *The Shrouded Glen* is a Mentem spell and so does not affect animals. If a hunted deer fled towards the covenant, the hunters would be able to follow it, thus stumbling across the covenant. If this was handled right, the covenant could become known as a faerie castle, impossible to find under normal circumstances. If handled wrongly, it could be disastrous.
 
-#### *Rules for Households*
+#### Rules for Households
 
 Frequently tell both high and low to obey all your orders fully, promptly, and eagerly, without grumbling or contradiction, unless the orders go against God.
 
@@ -2321,11 +2321,11 @@ Tournaments are very popular with the nobility, less so with other authorities. 
 Chivalry is beginning to be rather more than simply the skill of fighting on horseback. Knighthood is commonly seen as an "order," even for laymen, and by fulfilling its duties a man can enter heaven just as well as a clerk. It is important that a knight be brave, strong, and skilled at arms, but he must also be courtly — capable of hiding his emotions, and dealing with the intrigues of court. They should defend the weak, but in time of war they cheerfully burn crops in the fields and whole cities, even if they will also help women and children to escape the flames
 
 
-#### *Tournament Assistance*
+#### Tournament Assistance
 
 The local lord approaches the covenant and asks for magical assistance for an upcoming tournament. He argues that since it is merely an entertainment, not a serious battle, such assistance would not be in breach of the Code, and suggests that it might stop him from denouncing the magi. If the covenant do assist him, he takes advantage of the melee to kill an old rival, and one of the covenant's rivals hauls them before the tribunal for interfering with mundanes.
 
-#### *The Tourney of the Virgin*
+#### The Tourney of the Virgin
 
 A group of knights were traveling to a tournament, hurrying because it was late afternoon, when they passed a chapel where the priests were about to celebrate a mass to the Blessed Virgin. One of the knights wanted to stop, but his companions refused. "If we stop here, we will miss the tournament." Faced with such obstinacy, the knight told them to go on ahead, and dismounted to enter the chapel.
 
@@ -2357,7 +2357,7 @@ Castles are the preserve of major lords, because their cost puts them out of rea
 
 In older castles, these are all contained in a single large tower. In castles dating back to the Norman Conquest, this tower may be made of timber, and stand on an earth mound. The mound usually rises about twenty feet, and forms an important part of the
 
-#### *William Marshal*
+#### William Marshal
 
 *1147–1219, earl of Pembroke from 1199*
 
@@ -2390,7 +2390,7 @@ Castles are not always sited in the most defensive locations. Sometimes this is 
 
 Castles were introduced to England by the Normans, and are used to control the surrounding territory, rather than to defend it. The Tower of London, for example, exists to ensure royal control of the city, not to protect
 
-#### *Ranulf de Blundeville, earl of Chester*
+#### Ranulf de Blundeville, earl of Chester
 
 *Earl since 1180*
 
@@ -2414,7 +2414,7 @@ it from invasion. This purpose is less important in England by 1220, but still v
 
 
 
-#### *William de Longespee, earl of Salisbury*
+#### William de Longespee, earl of Salisbury
 
 *Earl since 1198*
 
@@ -2455,7 +2455,7 @@ The highest court of the land is the court coram rege, where the king himself si
 The division of the law into criminal and civil cases is newly established, but has one important consequence. The accuser in a criminal case may not come to an agreement with the accused and have it confirmed by the court, while the parties in a civil case may.
 
 
-#### *Bricstan's Case*
+#### Bricstan's Case
 
 A man named Bricstan lived on the estate of the abbey of Ely. He was neither rich nor poor, but was content with his own goods. He lent money to his neighbors when they were in need, but because men are untrustworthy he took pledges against repayment. Thinking that he had no enemies, and inspired by God, he resolved to take the vows of a monk at Ely.
 
@@ -2474,11 +2474,11 @@ Criminal cases can be brought in the king's courts for major offenses — essent
 
 Once someone has been accused, he may be taken into custody and held until the next court — this is known as "attachment." If an attached suspect escapes, the officers responsible for holding him will be amerced. If the accused is not in custody, it is the responsibility of his tithing to bring him to court. The
 
-#### *Royal Justices, 1220*
+#### Royal Justices, 1220
 
 John of Guestling (knight) Ralf Hareng (knight) Thomas of Heydon (clerk) Robert of Lexington (clerk) Stephen of Segrave (knight)
 
-#### *Pleas of the Crown*
+#### Pleas of the Crown
 
 The magi, as is normal, keep order within their own covenant, punishing any offense. One of the grogs murders a local villager and, after some investigation, the magi try and execute him. A couple of weeks later, the sheriff arrives to summon the dead grog to the king's court. The magi find themselves appealed before the court for homicide or, if they're really unlucky, treason, for usurping the powers that rightly belong to the king.
 
@@ -2506,11 +2506,11 @@ A writ can be challenged on technical grounds. It may be poorly drafted, referri
 seisin and mort d'ancestor cannot be brought against close relatives, so the defendant can claim to be related to the plaintiff. Either party can also appeal directly to the king, although this only works if you already have a good relationship with him or one of his close counselors.
 
 
-#### *Novel Disseisin*
+#### Novel Disseisin
 
 The covenant acquires a vis source by certámen, and ejects the other covenant's guards. The guards bring a writ of novel disseisin in the county courts, and the characters have no legal case, since certámen is not a recognized part of the common law. It would even be difficult to show that the magi had refused to respect certámen, as the legal action was initiated entirely by mundanes. Unless the covenant can gain some powerful mundane allies, it will lose the vis source again.
 
-#### *Magna Carta*
+#### Magna Carta
 
 Selected clauses from the 1217 reissue:
 
@@ -2553,7 +2553,7 @@ have the authority to judge pleas of the crown, but lesser offenses, such as dis
 
 Twice a year the sheriff's tourn travels round all the hundred courts, taking the view of frankpledge. (The tourn is the sheriff's formal visitation of his shire, to collect taxes and enforce the law.) The view of frankpledge requires all the local men over twelve to attend, and each tithing must present any of its members who are known criminals for
 
-#### *Ralph de Neville*
+#### Ralph de Neville
 
 *Vice-chancellor*
 
@@ -2563,7 +2563,7 @@ He has been in the royal service for many years, and has had custody of the roya
 
 He holds many benefices, employing priests as vicars to perform the duties, and is quite wealthy. However, he is holding out hope for a bishopric, just as soon as he gets a papal dispensation from his bastardy. Ralph is an ambitious man, and not particularly pious, seeing the church mainly as a source of income. He is also a very efficient and effective bureaucrat, and a decent politician.
 
-#### *Falkes de Bréauté*
+#### Falkes de Bréauté
 
 Falkes is the son of an unmarried Norman peasant, and possibly the most powerful individual in England. Indeed, hostile chroniclers have described him as "more a king than the king". Certainly, the royal court does not at present have the power to confront him when he disobeys its commands.
 
@@ -2594,7 +2594,7 @@ The exceptions are the two palatine counties, Cheshire and Durham. Within those,
 account at all if suspected of treason. He is required to pay taxes to the king, and to be loyal to the monarch, but his activity is unregulated within his palatinate.
 
 
-#### *Sheriffs of England, 1220*
+#### Sheriffs of England, 1220
 
 *Proof of Wrongdoing*
 
@@ -2686,7 +2686,7 @@ The community of the village is the main court of justice, both for civil and cr
 Wales has never been a unified principality, although Lord Rhys of Deheubarth nearly managed it in the twelfth century and
 
 
-#### *Problems of Death*
+#### Problems of Death
 
 A covenant in Wales is built on land owned by the senior magus. He has no children, as is normal, and finally dies. His male relatives arrive at the covenant claiming ownership of all of it, and showing no desire to have sorcerers living on their land. The law is entirely on their side: the magi must either move, leaving much of their property behind, fight, or reach a political compromise. If they fight, they will be in trouble with the mundane authorities and the quaesitores.
 
@@ -2695,7 +2695,7 @@ Llewelyn the Great, the prince of Gwynedd, is making an attempt now. The complex
 
 Each court has a warband, and its head, the *penteulu*, is the highest official of the court, beyond the immediate royal family. The prince also has a council of leading nobles, whose advice he is expected to take, and their head is the *distain.* The distain is gradually taking on more functions as government expands, overseeing justice and administration. There are clerks attached to the court to deal with written records, although nothing as advanced as the English chancery, and the *gwas ystafell,* originally the keeper of the king's chamber, has evolved into a treasurer of sorts. For local government, the land is divided into commotes, and the highest official in each is the *rhaglaw.* However, the prince as yet has only a minor impact on these areas, and local custom is still the main guide to governance.
 
-#### *Llywelyn ab Iorweth, called the Great*
+#### Llywelyn ab Iorweth, called the Great
 
 *Prince of Gwynedd since 1194*
 
@@ -2728,7 +2728,7 @@ The Welsh church is undeniably part of Western Christendom, but it does have a c
 There are many churches which used to be clas churches, but which have been reformed. Sometimes they have been turned into normal parish churches, with single priests and narrower areas. Others have been converted to houses of Augustinian canons, cathedral chapters (at Bangor and St. Davids), or collegiate churches. Gerald of Wales, has spent much of his life campaign-
 
 
-#### *A Welsh Relic*
+#### A Welsh Relic
 
 A staff which is said to have belonged to St. Curig can be seen in the church of St. Germanus. It is all encased in gold and silver, and the top is in the rough shape of a cross. It has many miraculous powers, but is most effective in curing tumors. Anyone who presses it against a tumor and makes an offering of one penny will have the tumor removed.
 
@@ -2736,7 +2736,7 @@ One time, a man with a tumor gave a halfpenny, and half of his tumor went down. 
 
 *— From The Journey Through Wales by Gerald of Wales*
 
-#### *The Dream of Rhonabwy*
+#### The Dream of Rhonabwy
 
 Rhonabwy was a warrior of Powys, and one night he took shelter in a hall foul beyond imagining. The floor was covered with mounds and pits, and on the mounds one could hardly stand for they were slippery with cow-dung, while the pits would soak your feet to the instep with water and urine. The air was filled with smoke, and the beds were thin sheets drawn over sticks with a few wisps of straw, filled nonetheless with fleas. Rhonabwy could not sleep there, and saw a yellow ox-skin on the platform at the end of the hall. Thinking he might sleep there, he lay down on it, and quickly fell asleep.
 
@@ -2815,7 +2815,7 @@ It is customary to give the visiting Redcap three purses, each containing twenty
 
 Normal messages are delivered to a covenant the next time it is visited, which will be one or two months later. Messages for other tribunals are taken to Harco once a month, and messages for other tribunals from Stonehenge are collected from there. Thus, it will take one or two months for a message to be delivered, and at least the same length of time for a reply.
 
-#### *The Redcaps*
+#### The Redcaps
 
 *Jocelin:* Jocelin is in his late twenties, and has brown hair and beard, and green eyes. He has a soft spot for new covenants, and is usually the only Redcap a new covenant sees for a few years. He tends to ride his horses a bit harder than necessary. He has a ring that gives him magic resistance, and an enchanted shield.
 
@@ -2850,7 +2850,7 @@ The origins of the custom are a little hazy, but seem to date from the Schism Wa
 
 While the formal closure and reopening of the tribunal are unlikely to be set aside, covenants and praecones use a number of tricks to make the order of business more flexible. A dispute in which one covenant accuses another of interfering with the mundanes,
 
-## *The Peripheral Code*
+## The Peripheral Code
 
 #### **A.A. 1347 (AD 1208) • Financial Matters**
 
@@ -2881,7 +2881,7 @@ Of course, you can ignore all the information given here, or simply plunder it f
 Similar considerations apply to the magi given as members of the covenants. As it stands, the numbers of members of each House roughly match the proportion of each House in the Order as a whole, with a slight excess of Ex Miscellanea as the domus magna is in the Tribunal. However, changing the names, sexes, and House affiliations of these magi will not cause any major problems in the
 
 
-#### *Magus Ages*
+#### Magus Ages
 
 Each magus is given an approximate age. A young magus has been out of apprenticeship between zero and 30 years, a mature magus between 20 and 70 years, an old magus between 50 and 100 years, and an ancient magus over 80 years. In a few cases, ages are given more precisely.
 
@@ -2892,7 +2892,7 @@ material. You should also bear in mind that the descriptions given are their rep
 
 Until recently Blackthorn was the dominant political force in the tribunal. Most meetings were not quorate, which meant that the covenant could not be called to account, and at those which were it routinely controlled most of the votes. This changed radically over the last twenty years, and the magi are scrambling to adjust.
 
-#### *The Hunt*
+#### The Hunt
 
 One of the stories depicted on the walls of the great hall at Blackthorn is the Capture of the Wild Hunt. In the early twelfth century this group of faeries terrorized Wales and the Marches. They would appear on moonless nights, and sweep down from the sky to pursue hapless mortals across the land, finally seizing or killing them just before dawn. When they attacked a group they would only take one member, and anyone who could reach a church was safe, so the story spread.
 
@@ -2900,7 +2900,7 @@ Flumen of Tremere decided to deal with the fay, and prepared magic that would al
 
 He ran into the mountains, and into a cave near Blackthorn. The Hunt poured in after him, barely noticing the iron-bound doors at the entrance, or the veins of the metal in the walls. Their cry echoed in the caves, which curved back on themselves. Flumen dashed out of the entrance just ahead of the faeries, and slammed the doors shut with his magic. The cold iron was enchanted, and not even the most powerful huntsmen could break through it. Their cries of frustrated rage echoed through the mountains for weeks, and although they have now stopped, no one has seen the Hunt since.
 
-#### *Physical Appearance*
+#### Physical Appearance
 
 Blackthorn is located in a warren of caves under the Black Mountains in south Wales. Some of the caves are natural, but most have been excavated by Blackthorn and Tagelyn over the last two hundred years. The main entrance is at the back of a large cave in the mountains. The door is covered by an elaborate illusion of a rock wall, which even fools the sense of touch, and is constantly guarded, from the inside, by two of the grogs. There is a small window in the door which allows them to see the cave, and this window is glazed. It is impossible to find the door by mundane means, other than by going systematically over the wall of the cave with an axe and waiting to cut into it.
 
@@ -2912,13 +2912,13 @@ A dozen suites of rooms for visitors surround the hall. Each suite is entered th
 
 decorated with yet more wall paintings exalting the great deeds of Blackthorn's magi.
 
-#### *Customs*
+#### Customs
 
 Magi visiting for the tribunal will be ushered into the covenant as soon as they arrive, and shown to their suite. The seneschal always offers the use of the covenant's servants and supplies, even if the magi have obviously brought both. Delegations are welcome to stay for a month after the tribunal, at which point they are expected to leave. Very few people take up the whole of this offer, but it is not unusual for magi to stay another couple of days after the tribunal finishes to conclude personal business.
 
 Invited guests arriving at other times will be treated in much the same way. Unexpected visitors will be stopped in the cave at the entrance, until a magus comes to decide what to do. This applies even if the visitor is a mundane; if someone knows that the covenant is there, the magi want to know what is going on. People who have been invited by a particular magus may be asked to wait in the cave until that magus can be brought. Even then, they will rarely be taken anywhere but the guest quarters, as it is necessary to pass through the sanctum of one of the members of the covenant to reach the covenant's common areas. No magi of the tribunal would risk entering the sanctum of a Blackthorn magus.
 
-#### *Magi*
+#### Magi
 
 There are six magi at Blackthorn. It is generally believed that there is a strict hierarchy within the covenant, but the details are not known to anyone outside it.
 
@@ -2936,7 +2936,7 @@ Prelum of Tremere is also Goliard's filia, and her parens still holds her sigil.
 
 
 
-#### *Covenfolk*
+#### Covenfolk
 
 Any person conceived or born in Blackthorn can see equally well in full darkness or full daylight. The covenant draws its covenfolk almost exclusively from those born there, so there is generally no need to light the rooms or passages. The magi either use magic, or have a servant carry a lantern.
 
@@ -2950,7 +2950,7 @@ It seems that Blackthorn rotates people through the groups, because visiting mag
 
 Burnham covenant, in the far northeast of the tribunal, has little to do with the other covenants. It has only recently begun sending representatives to tribunal, and they abstain from most votes. It keeps similarly aloof from mundane affairs, relying on the grant of immunity that it obtained from Stephen dur-
 
-#### *Goliard of Tremere*
+#### Goliard of Tremere
 
 Goliard filia Flumen is, apparently, the leading light of Blackthorn. If she is not the leader of the covenant, the members are engaged in an elaborate charade to make sure that people think she is. She is approaching ninety, and looks to be in her early forties. Her black hair has streaks of gray, and her brown eyes are slightly bloodshot. She normally wears simple clothes, often simply bleached white rather than being dyed. However, she also possesses formidably elaborate robes of purple and crimson, decorated with gold embroidery and studded with gems. She normally wears these for the formal ceremonies at tribunal — the opening, the admission of apprentices and the fake closing and opening, and the real closing — but otherwise dresses in her simple outfits.
 
@@ -2966,17 +2966,17 @@ Any magus who wants to deal with Blackthorn normally finds himself talking to Go
 
 ing the civil war and had confirmed by Henry II afterwards. This grant allows them to maintain their castle without giving anything in return — or, at least, anything obvious. No one is sure whether they are just a group of careful mediocrities, or have great and deep plans.
 
-#### *Physical Appearance*
+#### Physical Appearance
 
 Burnham is a stone motte and bailey castle, with a river diverted to form a moat about both parts. Both the bailey wall and the keep appear to be of mundane construction. The wall around the bailey is simple, without defensive towers, although there is a parapet, and grogs stand guard on top of it. The bailey contains the living quarters for the covenfolk, the stables, and the workshops for craftsmen, as well as the kitchens.
 
 The keep is reached via a steep stairway, and contains the sancta of the magi, the library, and the council chamber. The top is crenellated, and magi are occasionally seen on the top, conducting rituals. Outsiders are not allowed to enter the keep, and only certain of the servants have that privilege.
 
-#### *Customs*
+#### Customs
 
 The covenant does not welcome visitors. The Redcaps are treated well enough to avoid resentment, but are never asked to stay longer. Uninvited guests, even magi, are turned away, and requests to visit are always denied. A magus with urgent news might be able to get an audience in the bailey, but such an event would be very rare.
 
-#### *Magi*
+#### Magi
 
 Aindread Ex Miscellanea arrived at Burnham shortly after his apprentice's gauntlet, and has, as far as anyone knows, only left once since, to present Caitlin at tribunal. He never answers letters, nor does he write to any other magi. He is a mature magus, but his magical interests are unknown.
 
@@ -2992,7 +2992,7 @@ Trutina the Quaesitor joined Burnham in 1195, and has attended all the tribunals
 
 
 
-#### *Covenfolk*
+#### Covenfolk
 
 Burnham's covenfolk don't talk to outsiders. They are all well dressed and equipped, although nothing about them really draws attention. The covenant does recruit from outside, apparently from outside the tribunal as well as locally.
 
@@ -3001,7 +3001,7 @@ Burnham's covenfolk don't talk to outsiders. They are all well dressed and equip
 
 Cad Gadu is the domus magna of House Ex Miscellanea, and the residence of the oldest maga in the tribunal. Normally, this would give it great influence, but since most members of Ex Miscellanea neither know nor care where their domus magna is, and Immanola is not the praeco, the covenant is relatively unimportant. This doesn't seem to bother its members, and the covenant keeps largely to itself.
 
-#### *Physical Appearance*
+#### Physical Appearance
 
 Cad Gadu is located in a set of regiones in North Wales. The mundane level is an island in a lake amid the mountains of Snowdonia. There is a wooden jetty, with a guardpost at the end, at the only point where
 
@@ -3018,7 +3018,7 @@ The building to the left contains the servants' quarters, kitchens, and great ha
 
 This level is still on an island, and the lake can be seen from the path. A mist hangs over it at all times, however, cutting the shore off from view. Visitors are discouraged from going further into the regio, and warned to stay on the path if they do so. On the next level the path follows a ridge with long, sheer drops to either side, with occasional side tracks leading to caves, the first of which have sanctum markers over the entrance. Reports about higher levels are conflicting: one visitor found a tiny island, barely six feet across, in the middle of a stormy sea, while another found a meadow that seemed to stretch for ever. It seems likely that there are several higher levels, and the magi of the covenant may not know about all of them.
 
-#### *Customs*
+#### Customs
 
 Uninvited visitors are always turned away at the jetty. Unless the characters want to make a war of it, they will have to send a letter via the Redcaps and get an invitation. This is hard to do, as the covenant does not want to encourage visitors. This is one reason why they are reluctant to host the tribunal. However, a magus offering a useful trade of books or vis may be invited to the covenant to finalize the deal, as may a magus who has particularly important information or who has done the covenant a great service.
 
@@ -3026,7 +3026,7 @@ All the magi and covenfolk can pass freely between regio levels, provided that t
 
 The covenant council chamber has a seat for Pralix, and any council, even when there are outside visitors present, always pauses for a few moments at the beginning, and the chairman opens it by saying "Well, it looks like Pralix isn't coming." The magi will explain that, while they don't really expect her to return, it is possible that she might, and they don't want to be disrespectful. They refuse to answer if asked where she might return from, but most people think that she went into the higher levels of the covenant's regio.
 
-#### *Magi*
+#### Magi
 
 Immanola is the prima of House Ex Miscellanea, and is described in the insert on the next page.
 
@@ -3040,7 +3040,7 @@ Culhwch Ex Miscellanea, a mature magus, was Gwrhyr's apprentice, and had to suff
 
 Findabair Ex Miscellanea can see how fallen and pathetic the magi of the covenant are, and wishes that things were different. However, she is too wrapped up in her own pleasures to do much about it but whine, which she does with delight whenever she can get an audience. Findabair is still a young maga, and is stunningly beautiful, with long blonde hair, blue eyes, and a perfect figure. She uses magic so that she can eat and drink as much as she wants without losing her looks. She normally dresses to seduce.
 
-#### *Covenfolk*
+#### Covenfolk
 
 All the mundanes at Cad Gadu are deeply grateful that Immanola is in charge, and dread the day that she dies and one of the other magi takes over. They spend most of their time trying to keep out of the way of the magi, with the exception of some of the young men, who hang around Findabair.
 
@@ -3048,7 +3048,7 @@ Gwydyon the librarian is the most important mundane in the covenant. He serves a
 
 Branwen, a woman in her early twenties, is the only member of the covenant who seems willing to act over its decay. She is trying to increase its mundane resource base, and is working on improving the defenses. She is in two minds as to the usefulness of the magi, but on the whole wants to recruit some
 
-#### *Immanola, prima of House Ex Miscellanea*
+#### Immanola, prima of House Ex Miscellanea
 
 Immanola is over a hundred and fifty years old, and looks ancient. She cannot walk without the aid of a crutch, and her hair is thin and pure white. Her face is lined with wrinkles, but her eyes are still a piercingly bright green. It is very difficult to read her emotions, and she will listen in silence for a long time before saying anything. When she does speak, she keeps it brief and to the point. She normally wears robes of deep rose, which shimmer gray as she moves. These are not always the Robes of Dusty Dawn, which symbolize her leadership of the house, but will be if she is seeing to official duties.
 
@@ -3066,21 +3066,21 @@ new members for the covenant, magi who will drag it out of its slump. Of course,
 
 Libellus is the newest covenant in the tribunal, and one of the largest. It has done very little of note so far, making it an unknown quantity in tribunal politics. Further details can be found in *Promises, Promises*, a free Jump Start Kit available from the Atlas Games web site at www.atlas-games.com.
 
-#### *Physical Appearance*
+#### Physical Appearance
 
 Libellus is a complex of a dozen buildings, surrounded by a stone wall. All the buildings are of stone, and most are thatched. Three have tiled roofs: the Council Chamber, the library, and Stephen Eruditus's sanctum. Each magus has one building as a sanctum, and other buildings include the kitchens, grog barracks, and stables. The buildings are plain and functional, and the perimeter wall does not have crenellations or a wall walk.
 
-#### *Customs*
+#### Customs
 
 The covenant is happy to receive visits from other magi, although it doesn't have the facilities to accommodate them for long. Stephen Eruditus will generally meet visitors himself — the other magi have little to do with the outside world. As a new covenant, it has no established customs.
 
-#### *Magi*
+#### Magi
 
 The covenant was founded, and is currently led, by Stephen Eruditus of Jerbiton. He is around seventy, although his longevity potion has held up well, and he looks to be in his mid-thirties. He was trained in the Rhine Tribunal, and has a reputation for taking risks. So far, he has always come out ahead, but starting a new covenant is the largest risk he has yet taken.
 
 The other magi of the covenant are newly arrived in the tribunal, and are little known, although they are all young magi. They are Meles of Bjornaer, Gregorius of Bonisagus, Lucidia of Flambeau, Jonaquil of Merinita, Justin of Tremere, and Fabricor of Verditius.
 
-#### *Covenfolk*
+#### Covenfolk
 
 Although the covenant is relatively new, the covenfolk have all been serving magi for several years now, and are thoroughly used to the Gift. They do not, however, have a very broad experience of magi, and may be confused by particularly eccentric specimens.
 
@@ -3088,7 +3088,7 @@ Although the covenant is relatively new, the covenfolk have all been serving mag
 
 Nigrasaxa is another relatively new covenant. Its foundation was instrumental in revitalizing the politics of the tribunal and, like Libellus, it is relatively large. Further details of Nigrasaxa and its inhabitants can be found in *Nigrasaxa,* a free mini-saga available from the Atlas Games web site at www.atlasgames.com.
 
-#### *Physical Appearance*
+#### Physical Appearance
 
 Nigrasaxa consists of two tall towers of shining black rock. They were conjured by magic, and their outer surfaces are smooth except where there are windows. The towers stand close together, and are linked by two short bridges, one about twenty feet from the ground and the other near the top. Only one of the towers contains a door: all access to the second tower is from the first.
 
@@ -3098,19 +3098,19 @@ The second tower contains the private areas of the covenant: the barracks and sa
 
 Chamber is at the top of the public tower, and occupies an entire floor. If people wish to meet the magi, they will be taken here, so that all the magi can attend if they wish. The public tower is rather sparsely furnished, and large areas appear to be unused, although they are kept clean and repaired as necessary.
 
-#### *Customs*
+#### Customs
 
 The covenant welcomes Hermetic visitors, and has enough guest rooms to accommodate any likely party. These rooms are not all furnished, however, so a large group may find that the grogs only get a room, and have to sleep on the floor.
 
 Visitors are not allowed to enter the private tower, although there are no sanctum marks over the bridges. The upper bridge is used only by the magi of the covenant, and connects to the floor below the council chamber, which also houses the library. Covenfolk always use the lower bridge.
 
-#### *Magi*
+#### Magi
 
 Maximianus of Bonisagus, the founder of the covenant, is a widely respected master of Corpus magic. He has written numerous important texts, most of which are in the library at Nigrasaxa, and was a typical theoretical Bonisagus. Over the last couple of decades, however, he has shown much more interest in the politics of the Order. He came to Stonehenge and founded a covenant specifically to break the cycle of invalid tribunals, and has recruited young magi to strengthen it. He is ancient, and thought to be on the verge of Final Twilight, but widely respected.
 
 The other young magi of the covenant have had little impact on the Order. They are Siffed of Criamon, Ariel of Flambeau, Morlen of Merinita, Caltis of Tremere, Herrit of Tytalus, and Thamik of Verditius.
 
-#### *Covenfolk*
+#### Covenfolk
 
 The day-to-day operation of the covenant is handled by William of Thanet. He has been the autocrat since the covenant was founded, and is very good at his job. He is starting to get old, however, and it isn't clear who will take over from him. William is a little overweight, and his gray hair is thinning.
 
@@ -3123,7 +3123,7 @@ Schola Pythagoranis is Jerbiton-dominated, and sited in the university town of
 
 Cambridge. The existence of the university is largely due to the covenant, as the magi encouraged scholars to come here when the university at Oxford was dissolved in 1209, and to remain when it reformed after 1215. The magi are at least as interested in scholarship as magical power, and try to stay out of tribunal politics. Archmage Milo of Bonisagus was a member of the covenant for several years while he prepared for his archmage contest, but he left after his success and joined Durenmar.
 
-#### *Physical Appearance*
+#### Physical Appearance
 
 Schola Pythagoranis does not have a single site, rather being scattered throughout Cambridge. The main center of the covenant is a large stone hall, known in the town as Schola Pythagoranis (The School of Pythagoras), near the river. This contains the library and the great hall. Edward of Milton, the warden, lives there along with a few covenfolk. Visitors are expected to come here.
 
@@ -3131,13 +3131,13 @@ The other magi all own their own houses in the town, and these houses have sanct
 
 The covenant also has a laboratory building on the edge of a faerie forest some distance outside town. This stone building is home to three or four covenfolk at all times, and normally at least one magus is there, working on magical projects. The faerie aura is clearly better than the Dominion aura of the town, but the covenant is looking for a magical aura to colonize.
 
-#### *Customs*
+#### Customs
 
 Schola Pythagoranis only admits magi or apprentices with the Gentle Gift, as they must be able to live among mundanes without causing trouble. The magi are scholars first and magi second, and those of the covenfolk who are also scholars are treated as peers of the magi in internal administration.
 
 Visitors are lodged, at the covenant's expense, in inns in the town. Mundane and magical visitors are equally welcome, although magi with normal or Blatant Gifts will be encouraged to make their stay brief. If they wish to speak to the whole council, they have to wait until the end of the season, as the summons from the remote laboratory disrupts work. The Redcaps deliver messages to the whole covenant to whichever magi are present at the time.
 
-#### *Magi*
+#### Magi
 
 Edward of Milton, follower of Jerbiton, is the oldest magus in the covenant, and its warden. He is a great teacher, and loves to do it, spending much of his time lecturing or disputing. He is a student of mundane as well as magical knowledge, and as a result he is quite weak for a magus of his age. He looks quite old, maybe in his late fifties, but he is still vigorous, particular when teaching an eager student. He has trained five apprentices in his time, an unprecedented number. He dresses as a cleric, and is in minor orders as an exorcist. His magical interests lie mainly in Mentem, so he is, in fact, extremely good at exorcising spirits.
 
@@ -3151,7 +3151,7 @@ it up. However, she is not just interested in making it more useful as a means t
 
 Fredegisa the Quaesitor is a reforming idealist. She is a brilliant young student of all laws, civil, canon, common and Hermetic, and spends much of her creative energies on devising new structures of Hermetic law. Her dream is to have these structures accepted by the Order, thus ushering in a new age of justice for all magi. She always dresses smartly, and is quite attractive in a severe sort of way. She tries to make a good impression on everyone she meets, but her conversation soon turns to her proposed reforms.
 
-#### *Covenfolk*
+#### Covenfolk
 
 Schola Pythagoranis has few grogs, as they would cause more problems than they solved in the center of the town. They do have enough ordinary servants to relieve the magi and scholars of normal daily concerns, however.
 
@@ -3163,13 +3163,13 @@ Another important scholar is Richard Rufus the Deacon. He is friendly with the m
 
 The wandering covenant is something of an enigma, appropriately enough for one led by a Criamon. No one is sure how old the covenant is, although it could be almost as old as the tribunal. Equally, no one is sure where it can be found: the Redcaps arrange their next meeting place anew every time. The only effective ways to find the covenant are to accompany a Redcap, or to send a message and arrange a meeting.
 
-#### *Physical Appearance*
+#### Physical Appearance
 
 Semitae is a group of wagons, usually about half a dozen. Three of these are unusually large, and made of iron so that they can safely contain laboratories. The iron wagons are enchanted to be lighter, and to make the ground over which they pass firm, so that they don't get stuck. The other wagons are a bit smaller, and wooden, and contain the rest of the covenant's property. The iron wagons are drawn by six horses each, the wooden ones by four.
 
 The covenant normally camps at night, unpacking tents from the wooden wagons and placing guards around their perimeter. They stay away from large towns, buying food direct from villages and sending a small group if they need to buy specialized items. They also stay away from other covenants, mostly out of courtesy.
 
-#### *Customs*
+#### Customs
 
 The covenant travels throughout the tribunal, following a path mapped out by Gerfallon. No one else can see any logic in it. For example, Semitae once spent two years circling London at a distance of fifteen miles, despite the inconvenience of needing to be ferried across the water once per circuit. It has never, as far as anyone else knows, stayed in one place for more than four nights.
 
@@ -3179,7 +3179,7 @@ Semitae breeds its own horses, which are not frightened of magi. They will trade
 
 The magi normally work at night and sleep during the day. This is because it is easier to sleep in a moving wagon than to conduct magical experiments. The exception is if they are studying from the library, in which case they will work during the day.
 
-#### *Magi*
+#### Magi
 
 Gerfallon of Criamon is described in the insert on the next page.
 
@@ -3192,7 +3192,7 @@ Junius of Verditius is an old magus at the height of his powers. He dresses simp
 
 Edward the White of Jerbiton is officially a member of the covenant, but he has taken himself off to explore distant lands, and no one expects to see him again. He took his sigil with him, so Semitae does not have access to his vote. (See *The Mythic Seas* for more information on Edward.)
 
-#### *Covenfolk*
+#### Covenfolk
 
 The covenfolk of Semitae are all vagrants and vagabonds. They join the covenant for a while, then drift off again later. While they are with the covenant, they are completely loyal, although they may try to rob it after they leave. It is generally suspected that Gerfallon uses magic to ensure loyalty, and releases people after a while so that their minds are not warped. Despite the probable magical enforcement, the covenfolk are treated well, which means that they tend to leave on good terms with the magi.
 
@@ -3202,11 +3202,11 @@ Ungulus is the classic Winter covenant, living on past glories while filled with
 
 William Fireheart of Flambeau was the covenant's most infamous member at the end of the twelfth century. He caused a lot of trouble in northern France, and in 1220 lost a Wizard's War to a magus of Fudarus. His death ended the line of Flambeau magi at the covenant, but that was met with little sadness.
 
-#### *Physical Appearance*
+#### Physical Appearance
 
 Ungulus is housed in a single tower, sitting on a ridge in the Lake District. The tower is round, and many floors high. Its outer surface is covered with intricate carvings, some of which clearly depict scenes, while others are snatches of Latin or other languages. Some sections look like writing, but have proved impossible to decipher, while still others seem to be entirely abstract. Many
 
-#### *Gerfallon of Criamon*
+#### Gerfallon of Criamon
 
 Gerfallon is of indeterminate age and varying sex, so for convenience I will use masculine pronouns. His skin appears to be completely covered with elaborate tattoos, and all his hair is shaved to make more room for them. He normally wears a robe with a deep hood and long sleeves, to avoid shocking the people the covenant encounters. These tattoos are the only thing about his appearance that remains constant. He sometimes changes appearance quite radically during a single conversation, while at others he has remained the same for an entire tribunal.
 
@@ -3218,13 +3218,13 @@ magi have suspected that the carvings have some overall meaning, but no one has 
 
 Inside, the covenant is filled with wealth, both magical and mundane. Visitors are kept to certain areas, mainly for their own protection, and these are filled with gilded furniture, rich tapestries, magical lighting and heating devices, and other magical items. There are more magical items in each guest bedroom than in most covenants. Those magi who have seen other areas of the covenant say that it is all like that.
 
-#### *Customs*
+#### Customs
 
 Visitors to the covenant are welcomed by the covenfolk, and taken to the guest quarters while a message is sent to the magi. It can take several days for the magi to respond to these messages, and since the magical items can take care of the guests it is not unusual for the covenfolk to forget that people are there. Magi who start wandering around looking for someone are likely to get in trouble with the magical defenses around the covenant, so most visitors settle for hanging around in the corridors near the entrance to grab a servant.
 
 The servants have innumerable rituals which they follow at various points, such as certain chants, or actions, which must be performed before opening a door or walking down a flight of stairs. Some of these deactivate magical locks or traps, still more used to, while some, most likely, were simply added by imaginative servants, and no one now wants to risk finding out which ones are really useful.
 
-#### *Magi*
+#### Magi
 
 Flavius Ex Miscellanea is described in the insert below.
 
@@ -3233,7 +3233,7 @@ Aquila of Bjornaer spends most of her time in eagle form, riding the thermals ar
 Sinead Ex Miscellanea was in love with Parsirus, the Verditius magus killed by the dragon, and burns for revenge against it. If
 
 
-#### *Flavius Ex Miscellanea*
+#### Flavius Ex Miscellanea
 
 Flavius is a frustrated magus. He knows that he is a member of a disintegrating covenant, and while he cannot bring himself to abandon it, he also realizes that he doesn't have the strength of purpose, or raw power, to pull it out of its downward spiral. He is an old magus, of average power for his age, and knows that he doesn't have long left before he passes into Final Twilight.
 
@@ -3257,7 +3257,7 @@ plete. Viator is weather-beaten, and appears to be quite old. He has lost nearly
 
 Espera of Merinita badly offended a faerie lord many years ago. She thinks she barely managed to escape his vengeance at the time, and has devoted herself to surviving ever since. She never leaves the covenant's Aegis, and is constantly pressing for it to be strengthened. She will not allow anyone else to join the covenant, in case they prove to be faeries in disguise, just seeking to be made part of the Aegis ritual. She wears a number of iron items, all enchanted to defend against faeries, and uses Muto Corpus to frequently change her appearance, to distract her enemy.
 
-#### *Covenfolk*
+#### Covenfolk
 
 The human covenfolk at Ungulus were all born within the covenant, from other covenfolk. As a result of inbreeding in a strong magic aura, all of them are a bit strange, although most can interact with people from outside without too many problems. However, many of the servants are not human.
 
@@ -3269,13 +3269,13 @@ Other servants are bound spirits, mostly invisible. They serve mainly as guards 
 
 Voluntas is one of the most vigorous and active covenants in the tribunal, and a center of opposition to Blackthorn, as it has been almost since its foundation. As it was founded by Norman magi, it has hostile relations with Horsingas in Loch Leglean, but this has not led to serious confrontation for several decades now. It has had a long and active Summer, but there are signs that, with the breaking of Blackthorn's immediate hold over the tribunal, it may be slipping into Autumn.
 
-#### *Physical Appearance*
+#### Physical Appearance
 
 Voluntas appears to be a large and sturdy manor house, built of stone. It has three wings, and a stone wall closes the open gap. This wall is pierced by a large gate, large enough to drive a cart through, which contains a wicket gate for pedestrians. The rear corners of the courtyard are occupied by two square towers, which contain the sancta of the magi. The council chamber and library are in the rear wing of the covenant, while the side wings contain the kitchens and servants' quarters.
 
 The covenant building is only fifteen minutes' walk from the village of Wilton, which serves as part of the covenant. Many of the covenfolk, especially the craftsmen, live here, and the inn here provides accommodation for guests. Most of the buildings of the village are stone, which is unusual in this area.
 
-#### *Customs*
+#### Customs
 
 Visiting magi are welcome at any time, and will be accommodated in Wilton while they want to stay. Julia handles most negotiations, although Kirist and Phessallia will involve themselves in discussions of some topics. Visitors will not generally be admitted to the main covenant, unless they need to speak to the Council, or have negotiated for use of the library.
 
@@ -3290,7 +3290,7 @@ Magi may also want to copy books from Voluntas's store. This is rather more rest
 
 ed. The magi of Voluntas generally ask that the other covenant supply books which will improve Voluntas's library as much as the book they want to copy will improve their own. This is generally difficult, and most covenants find it best to wait until Voluntas wants something from them, and then to hold out for copying rights in return.
 
-#### *Magi*
+#### Magi
 
 Corvus of Bjornaer has a raven heartbeast, and is a mature magus specializing in Intéllego magic. He always seems to know things before he is told them, which has led to suspicions that he scries on other members of the Order. Nothing has been proven, however, and he has claimed that, in many cases, it is merely an act. In human form he has black hair and dark eyes, and has a tendency to stare at people. He is also dismissive of certain customs, and almost never bothers to clothe himself if he has just changed from his heartbeast. If he is dressed, he normally wears black.
 
@@ -3300,7 +3300,7 @@ Julia of Jerbiton is described in the insert, and in the introduction to *Ars Ma
 
 Phessallia of Merinita is disliked by most magi in the tribunal. She has a close connection with the faeries of winter, and is appropriately cold to everyone. She spends quite a lot of time away from the covenant, traveling in the north. She claims that she is simply investigating the fay of the frozen regions, but she possesses a number of faerie items, of the sort that can only be obtained as gifts. She always wears white, and all of her skin is covered with an intricate network of scars. An old maga, she is thought to be particularly skilled in Perdo.
 
-## *Julia of Jerbiton*
+## Julia of Jerbiton
 
 Julia is the nearest thing to a leader that Voluntas has. While internal matters are generally decided by negotiation and compromise, the covenant seems happy to let her determine its relationships with the outside world. She is tall for a woman, with long black hair, pale skin, and a fine, low speaking voice. She normally dresses in deep blue robes, often decorated with silver embroidery. She is a mature maga, and specializes in Corpus and Mentem.
 
@@ -3314,7 +3314,7 @@ The tribunal of 1201 was her masterstroke. All at once, Blackthorn was off balan
 
 Desiderius of Verditius is a necromancer. He dresses in simple brown robes, and the smell of rotting flesh normally clings to him. Until recently, he had little interest in the living, but in the last few years he has come out of his shell, and started being positively sociable. Unfortunately, as an old magus who spent most of his life in a laboratory, he doesn't have much in the way of social skills, so he does not make many friends. This doesn't seem to bother him much, however, and people are generally too scared to be rude to him.
 
-#### *Covenfolk*
+#### Covenfolk
 
 Voluntas runs its mundane concerns like a normal manor, and most of the local mundanes think that that's what it is. The peasants in Wilton are split between the free and the serfs, but as the magi provide good housing and magical assistance in case of extreme need, none of the residents have any intention of leaving. In particular, an enchanted birthing chair means that almost all mothers and children survive childbirth, with the result that life expectancy is much higher here than elsewhere in the country.
 
@@ -3360,7 +3360,7 @@ Compounding this problem is the crown's need to give away some of its assets in 
 A second reason for the weakness is the peace treaty that ended the war. Louis of France was promised 10,000 marks for leaving England, and the king has yet to pay all of this. More importantly, the treaty specifies that all men shall recover the land that they held when the war began. Those who gained more land during the war are reluctant to give it up, and some of those who supported the king were rewarded with land taken from those who opposed him. Now the treaty
 
 
-#### *Pandulf*
+#### Pandulf
 
 *Papal legate since 1218*
 
@@ -3381,7 +3381,7 @@ The main bright point for the king is that the Church is absolutely on his side.
 
 If these domestic troubles aren't enough, Henry also faces international problems. Prince Llywelyn of Wales always acknowledges that Henry is his lord, but he doesn't act like it. During the civil war he took control of south Wales, with the exception of the Marshal holdings in the extreme southwest and southeast, and he now disposes affairs within the principality as he wishes. He is
 
-#### *Peter des Roches*
+#### Peter des Roches
 
 *Born 1168, bishop of Winchester since 1205*
 
@@ -3408,7 +3408,7 @@ The English lordships in Ireland supported Henry during the civil war, but now t
 Finally, there are the king's French possessions. Normandy was lost in 1204, but Poitou and Gascony remain. Philip of France has made several attempts to conquer these, and a truce between the two countries is about to expire. Negotiations are in progress to renew it, but these have yet to succeed. Furthermore, the king's administration in Poitou is currently without a head, as Geoffrey de Nevile, the seneschal, has returned to England to resign his office, on the grounds that he has not been given the resources necessary to carry out his role. The counts of Marche, powerful vassals of the king in Poitou, have only just stopped making threatening noises, but Queen Isabella, the king's mother and countess of
 
 
-#### *Hubert de Burgh*
+#### Hubert de Burgh
 
 *Justiciar since 1215*
 
@@ -3501,7 +3501,7 @@ Oswald's bones were transferred to Bardney Abbey, and at first the monks were re
 Some time later there was a small boy who had a serious fever, and was anxiously awaiting the next attack. One of the monks told him to go to Oswald's tomb and wait there until the fever left. He did as he was told, and while he waited by the tomb the
 
 
-#### *The Conception of Arthur*
+#### The Conception of Arthur
 
 King Uther Pendragon had gone to war with Duke Gorlois of Cornwall, seeking to take Ygerna for his own. But Gorlois had shut his wife up in the castle of Tintagel, and Uther could not take the castle by force. So the king took counsel with his thanes, and they advised him to seek the aid of Merlin. Uther agreed, and had the magician brought into his presence.
 
@@ -3719,7 +3719,7 @@ The White Horse is carved into the hillside below an ancient fortress marked out
 
 Wayland's Smithy is only a mile from the White Horse, and is the home of an invisible smith. If a horse is left outside the smithy, along with a penny on a certain stone, it will be shod during the night, and the penny taken. It is said that Wayland can shoe the White Horse itself, and that if he does so it
 
-#### *Llewellyn's Curse*
+#### Llewellyn's Curse
 
 We shall last as long as the wind blows hot on the backs of your necks, as long as the storms pound your tower walls, as long as the waves smash the sides of your ships, as long as the merciless sun looks down upon your abominations, sees your sins, and calls out for vengeance. We will return to haunt you.
 
@@ -3746,7 +3746,7 @@ Brought from Ireland by Merlin, Stonehenge is one of the most magical places in 
 In the center of the entrance stands a tall, unshaped pillar of stone, and there are
 
 
-#### *The Bringing of Stonehenge*
+#### The Bringing of Stonehenge
 
 After the murder of the flower of Britain at the hands of Hengest and his treacherous Saxons, King Aurelius turned his mind to the construction of a suitable monument. He spoke with his counselors, and they said that he should seek Merlin, and ask him for his advice. Aurelius thought that this was good advice, and sent men to bring Merlin to his presence.
 
@@ -4285,7 +4285,7 @@ London, churches of 41 London, map of 41 Long Man of Wilmington 154 Long Meg and
 
 *M* Maddan 7 magi 12 Magna Carta 25, 100, 104 Magnantrum covenant 22 Maiden Castle 154 Man-an-Tol 155 manor 29 Marcher Lords 111 mark 29 market 29 marriage 68, 73 marriage, Wales 109 marshal 94 mass 67 Matilda 18 Maundy Thursday 80 Maximianus of Bonisagus 126 mayor and council 36 Meles of Bjornaer 125 Mercer House 114 Merlin 10, 142, 153 Merlin's Well 150 Merlin, prophecies of 10 Merry Maidens 155 mesnie 92 military orders 63 milling 28 mining 54 Molmutine Laws 8 monasteries 64 money 29 moneylending 38 Morlen of Merinita 126 Mythic Penny 29
 
-#### *N*
+#### N
 
 Nameless covenant 12, 15 Nicola de Hay 49, 140 Nigrasaxa covenant 125, 141 nobility 87 nobility, Marcher 111 nobility, of Stonehenge 90 noble titles 87 Normans 17
 
@@ -4315,7 +4315,7 @@ Stephen Langton 24, 72 Stephen of Blois 18 Stonehenge (the site) 153 subdeacon 6
 
 *U* Ungulus covenant 15, 130 universities 59 university, of Cambridge 43 university, of Oxford 48 usury 75 Uther Pendragon 10
 
-#### *V*
+#### V
 
 Vanasalus of Criamon 129 Viator of Mercere 132 vicar 56 Vikings 12 village 26 villein 26, 30 visitation 70 Voluntas covenant 17, 133, 140, 141 Vortigern 10 Vortimer 10
 

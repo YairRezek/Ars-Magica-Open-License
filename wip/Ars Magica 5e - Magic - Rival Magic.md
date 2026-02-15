@@ -1,6 +1,6 @@
 
 
-# *Credits*
+# Credits
 
 **Authors:** Timothy Ferguson (Soqotrans), Chris Jensen Romer (Augustan Brotherhood), Matt Ryan (Amazons), Mark Shirley (Muspelli)
 
@@ -42,7 +42,7 @@ Copyright 2011 Trident, Inc. d/b/a Atlas Games. All rights reserved. Reproductio
 DIGITAL VERSION 1.0
 
 
-# *Contents*
+# Contents
 
 | Introduction                          | 6  | Prohibited Amazon Abilities 17   | Incantations25                 |  |
 |---------------------------------------|----|----------------------------------|--------------------------------|--|
@@ -91,17 +91,17 @@ DIGITAL VERSION 1.0
 | Minimum Abilities 17                  |    | Spell Types 25                   | Viea 43                        |  |
 |                                       |    |                                  |                                |  |
 
-#### **Amazons and the Order................ 45** The Amazon Enemy................. 45 Parma Magica Unveiled........... 46 An Amazon Saga ...................... 46 *Augustan Brotherhood 47* Secrets of the Augustan Brotherhood ............................. 47 History of the Augustan Brotherhood ............................. 48 *The Story of Ludowicus..............48 The Biography of Virgil.............50 The Growth of the Brotherhood...51 The Brotherhood and Frederick II...51* **Virgilian Magic............................. 52** The Schools and Virgilian Rites..52 **The Mechanics of Virgilian Magic .. 52** The Practice of Sortes Virgilianae ..................... 53 *Sortes Virgilianae Ease Factors...53 Improving Sortes Virgilianae.......54* The Practice of Vigilo .............. 54 *The Six Schools of the Vigilo Practice......................55 Designing Vigilo Rites................55 Range, Duration, and Target......55 Words and Gestures....................56* Vigilo Rites Guidelines............. 56 *Example School of Boreas Rites...57 Example School of the Naiads Rites.........................59 Example School of Prometheus Rites.........................59 Example School of the Stones Rites...........................60 Example School of the Sylvan Dryads Rites ............60 Example School of the Vigilant Bees Rites ................60 Learning Vigilo Rites..................61 Laboratory Research ..................61* The Practice of Animo ............. 61 *Vulnerability..............................61 Preparing an Item for Animation....62 Awakening the Animation...........63 Further Refinements.....................63 Inscribing Magic in Animations....63* Magical Defenses..................... 64 **Magical Dangers .......................... 64** Botches..................................... 65 Fated Destiny ........................... 65 *Favored by Fortune ....................65 Cursed by the Fates ....................65 Gates of Avernus ........................65* **Character Generation .................. 66** *Opening the Gift: The Tomb of Virgil.....................66 Training.....................................67* New Virtues.............................. 67 *Free Social Status, Court Wizard..67 Minor Special Virtue, Generous Master.........................68* Typical Virgilian Wizard Abilities ....................... 68 **Life at Court................................ 68 The Virgilian Magical Landscape .. 69** The Tomb of Virgil .................. 69 Virgil's Magic in Naples ........... 70 *The Musca — The Bronze Fly....71 The Macellum — The Marble Block in the Meat Market ...........71 Ovum Incantum — The Palladium of Naples............71 The Bronze Horse.......................72 The Ferrean Gate........................72 Virgil's Villa and Garden............72 The Statue with a Horn..............73 The Healthful Baths ...................73 The Bones of Virgil.....................73* Virgil's Magic in Rome ............. 73 *La Bocca Della Verita — The Magical Face......................73 The Emperor's Sepulcher..............73* **Integrating the Magic of Virgil.... 74** Sortes Virgilianae ..................... 74 *Major Hermetic Virtue: Sortes Virgilianae.......................74 Consequences of Integration.........74* Improved Watching Spells....... 74 *Minor Hermetic Virtue: Watching Spells.........................74 Consequences of Integration.........74* **Bibliography.................................. 74** *Muspelli 75* **Mythic Origins ............................. 75** Eschatology of the North ........ 76 *Don't They Know It's the End of the World?.................77* **Jotun Patrons of the Muspelli ..... 77** Aegir Sea-King......................... 77 Gullveig the Wicked ................ 78 Gymir Frost-Father................... 78 Leikin Hel-Queen .................... 79 Nidhogg Corpse-Tearer & Fenrir the Devourer .............. 79 Surtur the Black........................ 80 Urdur Fate-Spinner .................. 81 Other Lands, Other Villains .... 81 **Muspelli Characters ..................... 81**
+#### **Amazons and the Order................ 45** The Amazon Enemy................. 45 Parma Magica Unveiled........... 46 An Amazon Saga ...................... 46 Augustan Brotherhood 47 Secrets of the Augustan Brotherhood ............................. 47 History of the Augustan Brotherhood ............................. 48 The Story of Ludowicus..............48 The Biography of Virgil.............50 The Growth of the Brotherhood...51 The Brotherhood and Frederick II...51 **Virgilian Magic............................. 52** The Schools and Virgilian Rites..52 **The Mechanics of Virgilian Magic .. 52** The Practice of Sortes Virgilianae ..................... 53 Sortes Virgilianae Ease Factors...53 Improving Sortes Virgilianae.......54 The Practice of Vigilo .............. 54 The Six Schools of the Vigilo Practice......................55 Designing Vigilo Rites................55 Range, Duration, and Target......55 Words and Gestures....................56 Vigilo Rites Guidelines............. 56 Example School of Boreas Rites...57 Example School of the Naiads Rites.........................59 Example School of Prometheus Rites.........................59 Example School of the Stones Rites...........................60 Example School of the Sylvan Dryads Rites ............60 Example School of the Vigilant Bees Rites ................60 Learning Vigilo Rites..................61 Laboratory Research ..................61 The Practice of Animo ............. 61 Vulnerability..............................61 Preparing an Item for Animation....62 Awakening the Animation...........63 Further Refinements.....................63 Inscribing Magic in Animations....63 Magical Defenses..................... 64 **Magical Dangers .......................... 64** Botches..................................... 65 Fated Destiny ........................... 65 Favored by Fortune ....................65 Cursed by the Fates ....................65 Gates of Avernus ........................65 **Character Generation .................. 66** Opening the Gift: The Tomb of Virgil.....................66 Training.....................................67 New Virtues.............................. 67 Free Social Status, Court Wizard..67 Minor Special Virtue, Generous Master.........................68 Typical Virgilian Wizard Abilities ....................... 68 **Life at Court................................ 68 The Virgilian Magical Landscape .. 69** The Tomb of Virgil .................. 69 Virgil's Magic in Naples ........... 70 The Musca — The Bronze Fly....71 The Macellum — The Marble Block in the Meat Market ...........71 Ovum Incantum — The Palladium of Naples............71 The Bronze Horse.......................72 The Ferrean Gate........................72 Virgil's Villa and Garden............72 The Statue with a Horn..............73 The Healthful Baths ...................73 The Bones of Virgil.....................73 Virgil's Magic in Rome ............. 73 La Bocca Della Verita — The Magical Face......................73 The Emperor's Sepulcher..............73 **Integrating the Magic of Virgil.... 74** Sortes Virgilianae ..................... 74 Major Hermetic Virtue: Sortes Virgilianae.......................74 Consequences of Integration.........74 Improved Watching Spells....... 74 Minor Hermetic Virtue: Watching Spells.........................74 Consequences of Integration.........74 **Bibliography.................................. 74** Muspelli 75 **Mythic Origins ............................. 75** Eschatology of the North ........ 76 Don't They Know It's the End of the World?.................77 **Jotun Patrons of the Muspelli ..... 77** Aegir Sea-King......................... 77 Gullveig the Wicked ................ 78 Gymir Frost-Father................... 78 Leikin Hel-Queen .................... 79 Nidhogg Corpse-Tearer & Fenrir the Devourer .............. 79 Surtur the Black........................ 80 Urdur Fate-Spinner .................. 81 Other Lands, Other Villains .... 81 **Muspelli Characters ..................... 81**
 
 *Rival Magic*
 
 
 
-### Relationship with the Order of Hermes.............. 109 **Muspelli Saga: Approaching Twilight................. 109** *Sorcerers of Soqotra 110* **Origin ........................................ 110 Organization.............................. 111** The Four Tribes...................... 112 *Aloe.........................................112 Cinnabar .................................113 Myrrh .....................................113 Olibanum ................................113* Lesser Traditions .................... 115 **Magical Abilities ......................... 115** Sources of Power.................... 115 *Auras.......................................115 Incense Ceremony .....................115 Spirit Ally or Aide....................116 Soqotran Giant Gecko..............117*
+### Relationship with the Order of Hermes.............. 109 **Muspelli Saga: Approaching Twilight................. 109** Sorcerers of Soqotra 110 **Origin ........................................ 110 Organization.............................. 111** The Four Tribes...................... 112 Aloe.........................................112 Cinnabar .................................113 Myrrh .....................................113 Olibanum ................................113 Lesser Traditions .................... 115 **Magical Abilities ......................... 115** Sources of Power.................... 115 Auras.......................................115 Incense Ceremony .....................115 Spirit Ally or Aide....................116 Soqotran Giant Gecko..............117
 
 *Herons of Light.........................118 Soqotran Jinniyah (Evil) .........119*
 
-## *Rival Magic*
+## Rival Magic
 
 | Soqotran Jinniyah (Good)120     |
 |---------------------------------|
@@ -154,7 +154,7 @@ DIGITAL VERSION 1.0
 | Preserved Rolls141                      |
 | The Spark141                            |
 
-## *List of Inserts*
+## List of Inserts
 
 **Soqotran Sorcerers and** 
 
@@ -274,21 +274,21 @@ DIGITAL VERSION 1.0
 |                                         |  |
 
 
-## *Chapter One*
+## Chapter One
 
-# *Introduction*
+# Introduction
 
 Welcome to Rival Magic! In this book you will find described four complete magical traditions who pose a threat to the hegemony of the Order of Hermes. Unlike most hedge magicians, the traditions described here possess powers and abilities that are the match of those of the Order, despite lacking the flexibility of Hermetic magic. The Amazons and the Muspelli offer a physical threat. The **Amazons** harbor an ancient hatred for the Order that extends back to the days of the Founders. The **Muspelli** brood in the extreme north, working hard to bring about the end of this world and the birth of one where their giant masters rule. The **Sorcerers of Soqotra** pose a more subtle threat, since they are clearly powerful yet offer no excuse to the Order for an all-out war. Finally, the **Augustan Brotherhood** poses a social threat; emerging from the very heartland of the Order, its wizards perform magical tasks on behalf of mundane lords that magi will not do for fear of breaking the Code.
 
-## *Opening the Arts*
+## Opening the Arts
 
 The Hermetic Opening of the Arts is the Order of Hermes' equivalent of Opening The Gift. Rules for this are given in **ArM5** (page 106) and again in *Houses of Hermes: Societates* (page 128), but they do not address the possibility of the apprentice's Gift being already Opened by another tradition. If a magus attempts to Open the Arts of an apprentice whose Gift has already been Opened by a non-Hermetic tradition, add 30 to the Intellego Vim Lab Total required by the magus.
 
-## *Common Rules for Non-Hermetic Magic*
+## Common Rules for Non-Hermetic Magic
 
 These are common rules for non-Hermetic magic, although the traditions detailed in this book do not follow all of them. However, these rules apply unless the chapter explicitly says otherwise.
 
-## *The Gift*
+## The Gift
 
 The traditions described in this book all require The Gift of any practitioner.
 
@@ -343,7 +343,7 @@ Finally, wizards take apprentices to enhance their abilities and continue their 
 
 The Gift expresses itself in a very individual fashion, and one manifestation of this is as a casting sigil. All characters with The Gift and a supernatural Ability, Art, or power produce a sigil when they use their magic, which is akin to a signature. Like the sigils of Hermetic magi (**ArM5**, page 86), these sigils might affect the environment in which the spell was cast, the wizard herself, or the target of the spell; but they always allow the identification of a cast spell to a specific individual, although it may require magical investigation to reveal a sigil once a spell has been cast.
 
-## *The Limits of Magic*
+## The Limits of Magic
 
 The Limits of Magic are Hermetic theories that describe the boundaries of Hermetic magic, although some Hermetic theorists believe that a few of the limits are merely errors in Bonisagus' theory. The Limits of Magic are described in detail in **ArM5** (pages 79-80).
 
@@ -351,13 +351,13 @@ Rival magic is likewise normally bound by the Limits of Magic, which adds creden
 
 It is recommended that traditions devised by the troupe break no more than one of the Lesser Limits of Magic and do not break the Greater Limits of Magic at all. Rival traditions should also not break the new Limit of Magic Resistance (see insert), unless the troupe wants the extremely prejudiced persecution of the tradition by the Order of Hermes to form a significant part of the saga.
 
-## *Magical Arts and Supernatural Abilities*
+## Magical Arts and Supernatural Abilities
 
 Some magical traditions produce effects via combinations of Arts in a manner similar to how Hermetic effects are produced via combinations of Technique and Form Arts. Other magical traditions produce effects via Supernatural Abilities. Finally, some traditions use both Arts and Supernatural Abilities (although for separate effects).
 
 Magical Arts are not normally compatible with Hermetic Arts (or with the magical Arts of other traditions), so if a character somehow learns Arts from several traditions, they may not be combined to produce exotic effects. However, this could be a fruitful avenue for integration research projects (see later).
 
-## *The Limit of Magic Resistance*
+## The Limit of Magic Resistance
 
 No non-Hermetic tradition of wizards has a general resistance to magic.
 
@@ -378,7 +378,7 @@ Accelerated Abilities are the counterpart to Difficult Arts, and were introduced
 
 Some traditions have a set of favored Supernatural Abilities. Gifted characters who belong to these traditions do not have to subtract the total of their Supernatural Ability scores from the source quality to learn other Abilities that are favored by that tradition. Usually, the character has to undergo some sort of ritual — Opening The Gift — before he gains this benefit of the tradition. Favored Abilities have no meaning for unGifted characters as they cannot learn Supernatural Abilities at all. Characters with favored Abilities must subtract the total of all their Supernatural Abilities, including favored Abilities, from the source quality when learning Supernatural Abilities that are not favored.
 
-## *Magic Defenses*
+## Magic Defenses
 
 As noted above, no wizard can resist magic, but some wizards do have limited magical defenses that reduce the effect of magic.
 
@@ -417,13 +417,13 @@ the wizard's Magic Defenses can indirectly benefit other characters.
 
 **Veil of Secrecy**: If the wizard is targeted by any effect in the area of the wizard's specialty that tries to discover information about him, the player can make a Perception + Magical Defense Bonus simple roll against an Ease Factor of (6 + spell's magnitude). If successful, the information that the spell provides is somehow reduced. It might produce only a blurred image of his face, locate the general area in which he can be found rather than the exact location, or pluck only a partial answer from his mind. The spell always results in some useful information; if it cannot be reduced in scope (e.g. a spell to determine whether the wizard is dead or alive) then it works as intended.
 
-## *Warping*
+## Warping
 
 A rival wizard, like most characters, accumulates Warping Points, which contribute to his Warping Score. The wizard gains Warping Points via the usual methods (see **ArM5**, page 167), but as these wizards draw their power from the Magic Realm, he does not accumulate Warping points due to living in a strong magic aura.
 
 The response of each magic tradition to Warping is unique. Wizard's Twilight is the response of the Order of Hermes, and no non-Hermetic tradition has this particular response. Usually, unGifted wizards react similarly to mundane characters, gaining Flaws and Virtues (see **ArM5**, page 168), but Gifted wizards react more uniquely and unpredictably (see individual chapters).
 
-## *Vis*
+## Vis
 
 Some magical traditions use vis as described in the tradition chapters. Of course, even these wizards might use a different word to describe vis or may only recognize vis of specific Forms. However, this invites an important question: how do wizards detect vis?
 
@@ -434,7 +434,7 @@ Some magical traditions use vis as described in the tradition chapters. Of cours
 - If the character does not have supernatural means of detecting vis, then he may still have an understanding of the types of objects that might contain vis. If the character is presented with an array of objects that might contain vis (for example, he is searching a magus' Laboratory) make a Perception + (Rival Magic) Theory or Magic Lore roll against an Ease Factor of 12. If the roll is successful then the character has successfully identified which objects are most likely to be vis, but whether the objects really do contain vis or not is unknown (to him) until he tries to use the vis.
 - Alternatively, a character can use his understanding of magic to predict where vis might be found. In this case, make a roll for the character of Intelligence + (Rival Magic) Theory or Magic Lore against an Ease Factor of 15. If this roll is successful, the character has successfully figured out that, for example, the first fruit of the season is likely to contain vis. However, actually finding the first fruit is a trial-and-error process for the character, and may be a significant adventure in and of itself. See *Covenants* (page 72) for examples of the types of objects and places that the character might suppose contain vis.
 
-## *Virtues and Flaws*
+## Virtues and Flaws
 
 Note that some Story Flaws seem obligatory for rival magicians (such as Pagan for Amazons and Muspelli, and Known Wizard where there are both Hermetic and non-Hermetic player characters). This does not restrict one's choice of Story Flaw. For example, there is nothing to forbid a character with the Feud Story Flaw from also being a pagan; but by choosing Feud over Pagan as a Story Flaw, the player has indicated to her storyguide that she is more interested in being involved in stories having to do with her character's enemies than she is with his faith. In this case, her pagan nature becomes background color and a roleplaying opportunity instead.
 
@@ -498,16 +498,16 @@ Other Hermetic Virtues and Flaws may be suitable for individual traditions of ma
 
 Magic, Weak Magic, Weird Magic.
 
-## *Hermetic Integration of Rival Magic*
+## Hermetic Integration of Rival Magic
 
 Some Hermetic magi, particularly those of House Bonisagus, eagerly hunt down rumors of exotic traditions so that they may gain insights into magic theory. This is because some exotic traditions accomplish unusual effects that could, with considerable difficulty, be integrated into the Hermetic theory of magic, and thus duplicated by Hermetic magi. A new effect might even break a limit of magic, and much prestige would accrue to the Seeker responsible for extending the power of Hermetic magic in this way.
 
 Since Hermetic encounters with the traditions mentioned in this book are likely to be hostile — at least at first — the probability that a magus could have a meaningful dialog with a rival magician regarding the differences between their magical traditions is slim. However, should a détente be reached, suggestions for the Hermetic integration of aspects of the rival magic traditions are given in their respective chapters. The process for the integration of exotic magic into Hermetic theory is given extensive treatment in *Ancient Magic* pages 7–9, and *Hedge Magic Revised Edition* pages 14–16.
 
 
-## *Chapter Two*
+## Chapter Two
 
-# *Amazons*
+# Amazons
 
 Legends tell of a tribe of warrior women, great in war, which has forsaken men except for breeding. They fight, rule, and live together, refusing to join male-dominated society. They're said to cut off one of their breasts, both to emulate the strength of men and to distinguish themselves from other women. These "Amazons" are described by historians and epic poets, but none present a detailed account of the legendary women. Their stories are repeated hearsay and gross fabrications, intended to show how weird and wrong Amazons are compared to Greek society. Several stories hint at the nature of Amazons, but many are wrong.
 
@@ -519,7 +519,7 @@ Thalestris was drawn by Alexander the Great's illustrious reputation, and came t
 
 The Amazons are first described here as a whole: their history, location, and society. Following this, Amazonian magic is detailed — their sorceresses and the incantations and rites they perform. Lastly, their most powerful sorceress Viea is presented. This is the same woman whom Bonisagus captured, Trianoma's twin. She is still alive, in a fashion, and plots a terrible revenge on the Order of Hermes, combining her original magic, magic stolen from Bonisagus, and the magical tradition and martial prowess of the Amazons.
 
-## *The Amazon Nation*
+## The Amazon Nation
 
 The Amazons are a society of women, all trained in the art of war. The majority of Amazons live on the island Amazonia, and are lead by their queen. Smaller groups are scattered around the Black and Caspian Seas, living in secret enclaves with each group led by a general. Some of these raiding parties are large, giving the false impression that more than one tribe of Amazons exists. Though removed, they are tied to Amazonia and their queen.
 
@@ -527,7 +527,7 @@ Amazonian society is entirely militaristic and extremely competitive. There are 
 
 The basic social unit is the raiding party. Led by a general, it consists of a number of warriors banded together under her leadership to raid and plunder. Several raiding parties include a sorceress, whose arcane power aids the group. While she is mistrusted by all except her closest companions, the general recognizes her usefulness and utilizes it, despite the personal misgivings she might have about such a dishonest, disreputable character.
 
-## *History*
+## History
 
 Without written histories, Amazon elders rely on tradition and accepted mythology to explain their origin. The common story, retold in a number of ways, is that many centuries ago, a king and all his male warriors were defeated by a neighboring kingdom. Rather than admit defeat, the queen ordered the female population to arms and they rode into battle. Aided by a priestess, the queen's army routed the enemy, offering no mercy and taking no prisoners. Different legends place this event in different countries, including Greece, Scythia, and Colopherus.
 
@@ -539,7 +539,7 @@ to a foreign shore. There they quickly raided the neighboring kingdoms, stole ho
 
 The elements in common are that the Amazons resulted from a rebellious queen, who broke the social norms and avenged her husband. This queen then spread her followers, either through victory or defeat, making it difficult to trace their exact origin. In typical conqueror fashion, the Amazons took aspects of the defeated culture for their own, incorporating the combative style of the Scythian horsemen, the religious trappings of Egyptian culture, and the ethnocentric jingoism of the Greeks.
 
-## *Location*
+## Location
 
 Any educated character can tell a questioner where the Amazons live: "At the edge of the map." This is both accurate and purposeful. Since their defeat at Troy, Amazons have intentionally relocated to be as far away from male-dominated society as possible. When scholars say that the Amazons live at the southern, northern, or eastern edge of the map, they are correct.
 
@@ -555,7 +555,7 @@ by the middle of thirteenth century.
 
 The Mongol invasions are a turning point in Amazon history. Long isolated and separate, they will decide to re-enter the political arena, and voice their intentions with blood and steel.
 
-## *Society*
+## Society
 
 The Amazons exist in an egalitarian society that would scare visitors, if any were allowed. There are no classes or social distinctions. Every member is an Amazon, pure and simple — a woman trained in the art of war. Social ranking and advancement focus on the warrior's prowess and record of successes. Any Amazon can rise to the rank of queen, providing she has the skill to claim and hold the position.
 
@@ -573,7 +573,7 @@ The tale that every Amazon cuts off one of her breasts is false. It is a myth in
 
 Amazons still worship pagan gods —
 
-## *Amazonomachy*
+## Amazonomachy
 
 Amazonomachy is a Greek word that means "Amazon battle," a battle in which the entire tribe of Amazons takes part. Nearly any Greek writer who mentions the Amazons includes an Amazonomachy. Apollodorus' *Library* recounts the siege of Attica, which resulted from Theseus' and Heracles' raid on the Amazons. Heracles stole the magical war-belt of the queen, Hippolyte, and Theseus kidnapped the queen's sister, Antiope. Hippolyte and her army stormed Attica and laid siege to Athens. Despite their best efforts, they failed to rescue Antiope, who refused to return to her sisters.
 
@@ -598,13 +598,13 @@ Most sorceresses became raiders, assisting generals or leading smaller bands of 
 
 Other sorceresses live in isolated caves or hidden valleys not far from Amazonia, and a very few live in the island's central area, despite the hostile terrain. They are occasionally visited by Amazons; women seeking cures, magical assistance for child birth, or portents of their future. Such sorceresses often have a small gathering of kin living with them; biological sisters who have grown used to the Gifted individual over time. Such a life is hazardous, and many fall easy prey to more powerful sorceresses plundering their homes. Raised in the competitive environment of Amazon society, their first response is often violent. Nothing prevents a sorceress from killing another one; in fact, there is much to gain from another's defeat. Raw vis, enchanted items, captive magical animals, a Gifted apprentice, and a temple in a higher Magic aura are tempting spoils of battle.
 
-## *An Amazon Sorcerer*
+## An Amazon Sorcerer
 
 Since The Gift is rare, granted only to a few, Amazon society faces a challenge when an Amazon gives birth to a Gifted male child. Because of their huge gender bias, Amazons cannot accept a man as a sorceress. Realizing how rare The Gift is, and how few sorceresses the Amazons have, sometimes a conditional exception is made. If the boy child can be made a woman, he can be accepted as an apprentice and trained in Amazonian magic. This process is usually shrouded in secrecy, with only the child's mother, siblings, and the accepting sorceress aware of the deception. The ruse must be maintained; however readily the sorceresses admit that they need more members, seeing a man practicing Amazonian magic drives them into a blind fury.
 
 Such a deception can only be handled through mundane means; no Amazon spells exist to change a subject's gender. Because a sorceress does not interact regularly with society, merely dressing in women's clothes may achieve the desired end. Riding in raids and living with Amazons in encampments would prove more difficult, but not impossible. The character must take great pains to continuously appear to be a woman. Becoming wounded and seeking medical aid causes a problem, for example, as do other types of social interactions. A male Amazonian sorcerer should take the Flaw: Transvestite, which is changed from a Minor Personality Flaw to a Major Story Flaw because of the consequences if the charade slips.
 
-## *Characters*
+## Characters
 
 Amazon characters are created like regular **Ars Magica** characters, with certain exceptions. Certain Virtues and Flaws are not appropriate for Amazon characters, reflecting their closed society and strict adherence to tradition. A sidebar lists the prohibited Virtues and Flaws. Being pagans, Amazons are not allowed any Divine Supernatural Abilities or powers. An Amazon is just as susceptible to infernal and faerie agents as any person in Mythic Europe, so Virtues that grant Infernal or Faerie Abilities are allowed. Several
 
@@ -618,13 +618,13 @@ If you are creating an Amazon sorceress, use the regular rules up until she is t
 
 A starting Amazon sorceress must spend at least 60 experience points on spells, either incantations or rites. She may start with more, depending on how the player wants to spend the character's starting experience points. The highestlevel spell that she can learn is equal to her Temple Total in the Vowel and Consonant combination of the spell (Temple Totals are explained later). Assume that her mistress taught her in a temple with a Magic aura of 1 when calculating her Temple Totals during this stage of character generation.
 
-## *Amazon Sorceress Minimum Abilities*
+## Amazon Sorceress Minimum Abilities
 
 Amazon Chant 3 Amazonian Spellcraft 1 Amazon Cult Lore 1
 
 **Total Cost:** 40 Experience Points
 
-## *Prohibited Amazon Abilities*
+## Prohibited Amazon Abilities
 
 **General Abilities:** No General Abilities that pertain to other societies are allowed, especially Order of Hermes Lore and other (Organization) Lores that lie outside Amazonia.
 
@@ -632,7 +632,7 @@ Amazon Chant 3 Amazonian Spellcraft 1 Amazon Cult Lore 1
 
 **Arcane Abilities:** Code of Hermes, Magic Theory, Parma Magica
 
-## *New Amazon Abilities*
+## New Amazon Abilities
 
 These abilities were created for Amazon **Ars Magica** characters.
 
@@ -672,7 +672,7 @@ Amazonian Chant is available to Amazon sorceress characters without the need for
 
 Amazonian Spellcraft details the uses and procedures of creating Amazon incantations and rites. A sorceress must have Amazon Spellcraft to learn or invent new spells, but not to cast spells. This is different from Amazonian Cult Lore, which regulates participation in a rite. Specialties: learning spells, enchanted items, a single Art.
 
-## *Prohibited Amazon Virtues & Flaws*
+## Prohibited Amazon Virtues & Flaws
 
 **Major Hermetic Virtues:** All except for Gentle Gift and Mythic Blood
 
@@ -686,7 +686,7 @@ This list of Hermetic Virtues and Flaws is not exhaustive, and does not take int
 
 **Minor and Major Social Status Virtues & Flaws:** All are prohibited for Amazon characters. Players should select one of the modified or new Social Status Virtues or Flaws for Amazons.
 
-## *Modified Amazon Virtues & Flaws*
+## Modified Amazon Virtues & Flaws
 
 There are a handful of Hermetic Virtues and Flaws that Amazon characters can select, modified to reflect Amazon magic instead of Hermetic magic. Besides the listed changes, the Virtues and Flaws operate as normal.
 
@@ -719,7 +719,7 @@ The Amazon variant of Skilled Parens, this Virtue adds 60 extra experience point
 The player must always roll a stress die both for casting an incantation and aiming it, making this a Major Flaw for a sorceress.
 
 
-## *New Amazon Virtues*
+## New Amazon Virtues
 
 These virtues have been specially designed for Amazon characters.
 
@@ -761,7 +761,7 @@ The character is an Amazon sorceress. She begins play with a constructed temple 
 
 The sorceress has a more symbolic understanding of Amazon Vowels, viewing them as the beginning, middle, and end of the day, a woman's life, or a journey. Each time she raises one Vowel score through study, she receives 1 experience point in the other two Vowels.
 
-## *New Amazon Flaws*
+## New Amazon Flaws
 
 The following new flaws are appropriate for Amazon characters.
 
@@ -771,7 +771,7 @@ The following new flaws are appropriate for Amazon characters.
 
 The character is a male slave of the
 
-### *Rival Magic*
+### Rival Magic
 
 Amazons, having been either born in Amazonia or captured during a raid. If the character has an Amazon mother, he has spent his entire life in Amazonia and cannot take any Virtues that give access to Martial Abilities. If he was captured in a raid, he may have pre-existing weapon skills.
 
@@ -816,13 +816,13 @@ The sorceress character is still consid-
 
 ered an apprentice by her mistress, even though she has spent 15 years under her mistress' care and received all the required training in the Amazon Arts. The mistress has not pronounced the character a sorceress, so she is still viewed by her contemporaries as an apprentice. No one will respect her, her temple, or her work until she removes herself from her mistress' control.
 
-## *Weapons and Armor*
+## Weapons and Armor
 
 Amazons have a very distinctive style of armor and a preference for specific weapons. Two weapons in particular — a single-edged battle axe called a *sagaris* and a double-edged battle axe called a *labrys* are traditional for the Amazon army. The labrys is used by the cavalry, along with the Scythian bow as the preferred missile weapon, while the infantry uses both labrys and sagaris. Both infantry and cavalry wear a cotton hauberk laced with metal rings for armor, and carry a crescent-shaped shield called a *pelta* on their left arm.
 
 Besides these classical trappings, Amazons also use spoils of war, meaning that any available medieval weapon can be found in the Amazon army. Raid leaders may wear better armor (chain mail) and wield more effective weapons. Much depends on the predilections of the individual Amazon. Wearing captured chain mail at the Amazonopolis would be a social faux pas, but wearing it on the field might inspire bravery in a leader's troops. The only weapon an Amazon won't use
 
-## *Polemusa, an Amazon Warrior*
+## Polemusa, an Amazon Warrior
 
 **Characteristics:** Int +1, Per 0, Pre 0, Com –1, Str +2, Sta +1, Dex +3, Qik 0
 
@@ -872,17 +872,17 @@ In combat, Polemusa can lead a group of warriors a trained group, serving as bot
 
 Statistically, a labrys has the same combat stats as an axe, a sagaris as a pole axe, a Scythian bow as a short bow, a pelta as a round shield, and Amazonian armor is just like full metal reinforced leather armor.
 
-## *Amazonian Magic*
+## Amazonian Magic
 
 Amazonian magic focuses on the individual warrior rather than the four elements, demons, spirits, or other focuses common to other types of magic. Traditionally each spell was sung by a sorceress, who praised the mystical properties of the gods in hopes of enticing their attention and achieving predetermined results. Ancient Amazonian magic was practical, meaning that much of it covered the mundane nuisances of life, including healing, general health, leadership, and combat. Since few of the sorceresses' incantations produced flamboyant effects, witnesses believed that spells were mere prayers, and sorceresses simply priestesses. Nothing could be further from the truth.
 
 While Amazonian magic is not visually spectacular, it is potent. Developed by warrior women with military persuasions, many incantations are meant to be cast in combat at either an ally or an enemy. Like a striking spear, Amazonian incantations are fast and accurate. They are not subtle, and do not concern themselves with understanding nature or the magical universe. An Amazonian sorceress serves her family best by swiftly destroying its enemies.
 
-## *The Arts*
+## The Arts
 
 Originally, Amazonian magic was praise songs sung to their gods — hybrids of Hellenic deities influenced by the Egyptians and Scythians. The Amazon sorceress Viea, working with notes stolen from Bonisagus, was able to codify these prayers into a system that resembles
 
-## *Klymene, an Amazon Sorceress*
+## Klymene, an Amazon Sorceress
 
 **Characteristics:** Int +2, Per +2, Pre –1, Com +4, Str –1, Sta 0, Dex –1, Qik +1
 
@@ -996,7 +996,7 @@ While pagans, Amazons understand that each human has a unique, everlasting spiri
 
 Zoi can also target a person's Gift. Zoi is the sphere of magic that opens her Gift and allows her to use her magical potential to prolong her natural life.
 
-## *Ranges, Durations, and Targets*
+## Ranges, Durations, and Targets
 
 Amazonian magic differs from Hermetic Magic in that Ranges are not marked by physical distance but by emotional connection. Physical distance is not an issue, and a spell designed to aid a warrior works regardless of whether the warrior is right next to a sorceress or a continent away. Amazonian incantations have five Ranges: Personal, Sister, Cousin, Seen Stranger, and Unseen Stranger.
 
@@ -1012,7 +1012,7 @@ Once the emotional connection of a range is established, it does not worsen. A f
 
 There are five Durations for Amazonian magic: Momentary, Exchange, Hour, Day, and Month. Most of these are selfexplanatory. Exchange is a series of blows traded between combatants, and is equal to a combat round. The exact Duration of a specific incantation is augmented by the sorceress' score in Amazonian Chant, which acts as a multiplier for the incanta-
 
-## *Ranges and Durations List*
+## Ranges and Durations List
 
 In order from lowest to highest, this list gives the Ranges and Durations for Amazonian magic.\*
 
@@ -1026,7 +1026,7 @@ tion's Duration. Thus, an incantation with Duration: Exchange, cast by a sorcere
 
 The Target of a spell is always one specific person or thing — Target: Individual — and cannot be augmented to include more than one individual like Hermetic magic can. The Target must, however, be adjusted for size, meaning that larger targets can be affected as long as they are still a specific, single thing. An incantation can affect a giant, for example, but not a group. (See Changing Range, Duration, and Target, later.)
 
-## *Consonant Base Range and Duration List*
+## Consonant Base Range and Duration List
 
 Inventing a spell using the base Range and Duration of its Consonant does not add to the spell's level, regardless of how far up the scale any particular Range or Duration is. The base Range and Duration for all five Consonants are listed here.
 
@@ -1069,7 +1069,7 @@ individual. A spell's Target must match exactly, meaning that a spell with the b
 
 Amazonian Ranges, Durations, and Targets are not inclusive, meaning that an incantation designed at the Range: Seen Stranger will not work on a sorceress' companion. The Range and Target must match the target exactly.
 
-## *Spell Types*
+## Spell Types
 
 There are two types of Amazonian spells: incantations and rites. Sorceresses don't have the vast catalog of spells that magi have.
 
@@ -1104,7 +1104,7 @@ succeeds or fails. Consequently, any rite above the 8th magnitude will push the 
 
 A rite focuses a great amount of magical power at its target. An individual targeted by a rite gains Warping Points equal to the magnitude of the rite. If the targeted individual is a sorceress, she may subtract her Amazonian Cult Lore score from the Warping Points received from the rite. Regardless of her score, however, a targeted sorceress will always receive at least 1 Warping Point from being the target of an Amazon rite.
 
-## *Aiming Spells*
+## Aiming Spells
 
 Because Amazonian magic was created by warriors, every incantation and rite cast by a sorceress must be aimed at its target, just like a spear or an arrow. Successfully casting an incantation is only the first step; the incantation must then "hit" its intended target to be effective.
 
@@ -1128,7 +1128,7 @@ Factor is determined by the Range of the incantation or rite. Use the following 
 
 These two situations are not mutually exclusive. If, in combat, a target does not opt to make a Defense roll to avoid an incantation, use the non-combat Ease Factors to determine if the spell hits.
 
-## *Resisting Spells*
+## Resisting Spells
 
 The great liability of Amazon magic is that every spell, whether an incantation or rite, can be resisted by the target. Even mundane human and animal targets have a chance to resist Amazon magic, based on their physical fortitude or will-power measured against the strength of the sorceress' spell. Earth and sky have a chance to resist based on their density or severity. A rock, for example, is more likely to resist an incantation than dirt. If a target is hit by an incantation or rite, it may attempt to resist the magic. It does not have to, and a sorceress' allies would hardly resist her beneficial incantations. Targets incapable of choosing always attempt to resist.
 
@@ -1235,7 +1235,7 @@ or Vim vis. Since any sort of vis fed to a magical animal will potentially incre
 
 Hermetic magic also distinguishes vis by which Realm it is associated with, but Amazonian magic does not. Consequently, Infernally tainted vis could unintentionally be fed to a magical animal, as could Faerie or Divine vis. Mechanically, the result is the same for a magus using tainted vis in a ritual spell as for a sorceress sacrificing an animal fed tainted vis.
 
-## *The Sacred Sickness*
+## The Sacred Sickness
 
 Like Hermetic magi and other hedge magic traditions, Amazon sorceresses can gain Warping points and they suffer when gaining too many too quickly. The most common way to gain Warping points is botching while casting a spell, in which case the character receives 1 Warping point for each 0 rolled on the botch dice. When a sorceress receives 2 or more Warping Points, she collapses to the ground in an epileptic fit called "The Sacred Sickness."
 
@@ -1268,7 +1268,7 @@ A sorceress keeps an apprentice for fifteen years, another convention stolen fro
 
 The Gift haunts the mistress and apprentice throughout the apprenticeship course, interfering with teaching and other social intercourse. Eventually, providing they make some effort to establish a good teaching relationship, the pair get used to each others' Gift (see Chapter 1: Introduction, Growing Used to The Gift), and the penalty for social interactions will slowly diminish. The –3 penalty reduces to –2 after five years, and to –1 after ten years. By the end of apprenticeship, the sorceress can teach her apprentice without penalty, should she wish to. Forever after, the two can be considered to be used to each other's Gift. Not all sorceresses take this trouble, but those don't can often find that their apprentices become enemies, so tradition indicates that it is wise to do so.
 
-## *Additional Mysteries*
+## Additional Mysteries
 
 Opening an apprentice to the Amazon Arts is a type of initiation. A learned practitioner guides a novice through the necessary procedures to allow a specific transformation. Creating a scepter for the first time is another type of initiation, in which the sorceress intentionally wounds herself, giving herself a Flaw, to craft the item. Amazon magic used to have many such initiations, most of which Viea dismantled in her codification of Amazon Arts. Two remain, however, which she didn't alter either through lack of ingenu-
 
@@ -1303,7 +1303,7 @@ magic cannot affect horses, which possess a choleric or fiery humor. This initia
 
 The pinnacle of Amazonian mysteries, this initiation changes a living initiate into a magic human, mirroring the final effects of the Sacred Sickness while keeping the spirit in a living body. She becomes a being of the Magic Realm, no longer ages, and ceases to advance as a regular human character. She loses the ability to cast Amazon spells, and any current spells become magical powers of the creature. The initiate's Magic Might equals her highest Art score. This initiation confers the Major Supernatural Virtue: Transformed (Being) on the initiate (see *Realms of Power: The Magic Realm*, page 47). This Script is such a great secret that it is possible that no living sorceress knows it, and many do not believe it is even possible. However, the Amazon sorceress Viea used it, and determined sorceresses can track it down through legends.
 
-## *Magical Defenses*
+## Magical Defenses
 
 Amazons, like every other tradition of magic besides the Order of Hermes, do not have a general resistance to magic. Knowledge in the five Consonants, however, provides some protection against spells that affect those aspects of a sorceress (as explained in Chapter 1: Introduction, Magical Defenses). A sorceress' Magical Defense bonus equals her specific Art divided by 5.
 
@@ -1315,7 +1315,7 @@ Soma aids a sorceress in resisting spells and spell-like effects that do physica
 
 Zoi aids in resisting spells that target a sorceress' magical potential, and Kardia helps resist spells that alter her Personality Traits and other forms of mental control. Both Arts grant her the Accelerated Expiry defense.
 
-## *Integrating Hermetic and Amazonian Magic*
+## Integrating Hermetic and Amazonian Magic
 
 A magus could integrate aspects of Amazonian magic into Hermetic magic using the Hermetic Integration rules (see Chapter 1: Introduction, Hermetic Integration of Rival Magic). He will first need some inkling into the nature of Amazonian magic — either an artifact or a collaborator that provides an Insight. As Amazons are raised to be xenophobic, convincing one to collaborate would require a number of stories. An artifact would be easier to gain, perhaps a scepter recovered from a slain sorceress. Bonisagus' notebooks could also be considered such an artifact.
 
@@ -1325,18 +1325,18 @@ Amazonian Magic has much more to gain from Hermetic magic than the reverse. New 
 
 If a sorceress is interested in integrating Hermetic magic into her own magic, she uses the same rules that her Hermetic counterpart would. Enchanted devices would allow Insights, but books and notes would have to be read, meaning that she must first learn how to read. For any such notes to be meaningful, she needs Latin 4. If she can't read, she can't take notes during her Original Research, meaning she can't share Breakthrough Points with other sorceress pursuing the same Original Research. Owing to most sorceresses' nature, she wouldn't share anyways. If a sorceress player character undertakes such research, the storyguide and troupe should figure out which aspects of Hermetic magic are Minor, Major, or Amazonian Breakthroughs, using the same guidelines for Hermetic magic listed in the rules in *Ancient Magic* or *Hedge Magic Revised Edition*.
 
-## *Spells*
+## Spells
 
 Amazon spells in their current form are as follows.
 
-## *Api Effects*
+## Api Effects
 
 In their convoluted Egyptian-Greco mythology, Api is the Amazons' goddess of both the earth and sunlight. Api magic affects the earth, soil, and stone, opening and closing it under the direction of the sorceress. She can also manipulate sunlight using Api spells, lighting a dark space or obfuscating a lit area.
 
 Api spells are typically Range: Cousin, which metaphysically describes the relationship between the sorceress and the sun and the ground. This does not mean, however, that she can target any stone or piece
 
 
-## *Alala Api Guidelines*
+## Alala Api Guidelines
 
 Alala Api spells open the earth and earthworks, including buildings and structural defenses. They create gaping pits that reduce stone to rubble. Incantations that destroy earth cause permanent destruction, despite the actual Duration, since the earth cannot naturally repair itself.
 
@@ -1382,7 +1382,7 @@ The base Individual size of an Api spell is ten cubic paces of raw earth or 100 
 
 Closed or opened earth remains in the changed state after the magic ends, if it could stay that way by mundane means alone. A pit, opened by Alala magic, remains a pit, and a pit filled in by a Papaios Api spell stays filled in. It is useful to imagine the effects of Alala and Papaios magic as similar to a child playing in a sandbox. Opening the earth shifts dirt to the sides to make the pit, while closing a hole means pushing the outlying dirt around and in it. These changes are evident and scar the land, which the Amazons, being warriors, don't mind a bit.
 
-## *Ma'at Api Guidelines*
+## Ma'at Api Guidelines
 
 Ma'at Api magic lets a sorceress measure or know the land. Rudimentary incantations can indicate precise lengths, distances, and areas. More complex incantations allow knowledge of specific types of earth, stone, and metals. A sorceress can use the earth as a medium to tell how distant her enemies are, and the size of their army. Knowledge is power, and knowing a specific elemental allows a sorceress to control and command it. Such incantations must have Range: Seen Stranger.
 
@@ -1442,7 +1442,7 @@ This incantation lets a sorceress know where her enemies are. She casts the inca
 
 (Base 3, + 2 Size)
 
-### *Rival Magic*
+### Rival Magic
 
 ### **Sense the Potent Fodder**
 
@@ -1496,7 +1496,7 @@ This incantation pushes closed a moat,
 
 
 
-## *Papaios Api Guidelines*
+## Papaios Api Guidelines
 
 Papaios Api spells close the earth and cancel sunlight. They can dismiss or damage earth elementals, as a direct counterpart to Alala Api spells that summon them. They can damage the Might of a magical animal, if that creature is associated with the melancholy humor. Their biggest benefit is closing off a section of land from supernatural creatures, preventing entities with Might scores from entering.
 
@@ -1526,7 +1526,7 @@ This incantation protects an area of 100 square feet from supernatural creatures
 
 (Base 10, +2 Unseen Stranger, +1 Day, + 1 Size)
 
-## *Kardia Effects*
+## Kardia Effects
 
 Kardia deals with the humors and personality of the human body, targeting the part of the individual erroneously labeled "the heart" by Amazon sorceresses. Most people's personality is mutable, meaning that Kardia magic can make permanent changes. Personality Traits that are part of a character's Essential Nature, usually resulting from a Virtue or a Flaw, cannot be affected. Amazon magic is limited even when working on mutable Personality Traits. Only rites can produce permanent effects, and each rite needs a requisite Art. Amazon magic has only two appropriate Arts to make permanent personality changes: Api for melancholy personalities and Nux for sanguine personalities. Personalities governed by the other two humors, choleric and phlegmatic, cannot be made permanent. A list of appropriate Personality Traits for melancholy and sanguine humors is provided.
 
@@ -1543,7 +1543,7 @@ R: Sister, D: Day, T: Ind
 
 This incantation "heals" a lost shortterm Fatigue Level. This low-level incan-
 
-## *Alala Kardia Guidelines*
+## Alala Kardia Guidelines
 
 Alala Kardia spells open a target to a new personality, and increase a current Personality Trait. It opens her spirit to fresh breaths of life, granting her rejuvenation and erasing Fatigue. Alala Kardia can also open one aspect of the heart over the others, effectively balancing the humors of a sick individual so that she does not incur penalties from a disease. Curing a sick person with Alala Kardia is a temporary measure at best; it does not deal with the root cause of the sickness.
 
@@ -1591,7 +1591,7 @@ R: Unseen Stranger, D: Day, T: Ind
 
 This incantation will tell a sorceress if a person is possessed by a disease spirit up to Might 10 and the nature of that spirit. Since the disease spirit is unknown to the caster, the Range must be increased to Unseen Stranger. The incantation must penetrate the
 
-## *Ma'at Kardia Guidelines*
+## Ma'at Kardia Guidelines
 
 Ma'at Kardia spells measure the health of a target. By deciphering a target's symptoms, Ma'at Kardia spells can indicate if she is suffering from a disease. They can also measure a person's state of exhaustion, and indicate any Personality Traits she might have.
 
@@ -1603,7 +1603,7 @@ Ma'at Kardia spells measure the health of a target. By deciphering a target's sy
 
 **Level 4:** Indicate a weak Personality Trait (-1 or +1)
 
-## *Personality Traits for the Four Humors*
+## Personality Traits for the Four Humors
 
 The following list presents Personality Traits for the four humors, and is reprinted from *Art & Academe*, page 40.
 
@@ -1637,13 +1637,13 @@ R: Seen Stranger, D: Day, T: Ind This incantation lowers a target's Brave Person
 
 (Base 10, +2 Seen Stranger)
 
-## *Nux Effects*
+## Nux Effects
 
 Known by several other names, Nux was the goddess of the Milky Way, the stars, and the night sky. She was also a fertility goddess in some aspects, a protector of rulers, and the goddess of cows. During Viea's revamping of ancient Amazonian magic, many original Nux spells were transposed to other Arts, leaving Nux itself with a fairly limited sphere of effect. Nux spells currently affect the night and the sky, as well as animals that have a sanguine (air) humor.
 
 Nux magic can affect air elementals, using the same rules that Api magic uses for earth elementals. It can also affect
 
-## *Papaios Kardia Guidelines*
+## Papaios Kardia Guidelines
 
 Papaios Kardia spells close the heart, shutting down Personality Traits and expending Fatigue.
 
@@ -1674,7 +1674,7 @@ This incantation creates a severe rainstorm that gathers quickly and rains for t
 
 (Base 4)
 
-## *Alala Nux Guidelines*
+## Alala Nux Guidelines
 
 Alala Nux opens the sky, generating weather phenomena. It can also open current weather phenomena further, rushing them to their eventual completion. Thus, Alala Nux can both create a rain cloud, and force an existing rain cloud to become a storm cloud.
 
@@ -1716,7 +1716,7 @@ This incantation breaks a bird's wing, preventing it from flying away and escapi
 
 (Base 10)
 
-## *Ma'at Nux Guidelines*
+## Ma'at Nux Guidelines
 
 Ma'at Nux magic lets a sorceress measure the sky and night, and was originally used to forecast weather. Since Viea's introduction of early Hermetic methods, Ma'at Nux can read the sky for magical influences, much like Ma'at Api magic reads the earth. The only types of vis that Ma'at Nux rites can discern are Auram, some Aquam, and Vim. The Aquam vis must be a result of a weather phenomenon. Such rites require a Zoi requisite.
 
@@ -1780,7 +1780,7 @@ This incantation gives the sorceress knowledge of the Might score of a targeted 
 
 Level 20
 
-### *Rival Magic*
+### Rival Magic
 
 R: Cousin, D: Day, T: Ind
 
@@ -1788,7 +1788,7 @@ This incantation clears 10,000 cubic paces of sky of any weather conditions. For
 
 (Base 5, +1 Day, +2 Size)
 
-## *Soma Effects*
+## Soma Effects
 
 Soma affects the physical part of the body — the muscles and bones, sinews and skins, and the overtly visual aspects of the human form. Soma incantations cause wounds and cripple limbs, but also cure wounds and heal allies. Since most Soma incantations were developed to slay enemies, Amazon magic is cumbersome when curing wounds.
 
@@ -1796,7 +1796,7 @@ Soma magic only works on human beings. Other entities can be affected if they ha
 
 The base Individual for Soma magic is a Size –1 to +1 human. Spells that target larger or smaller individuals must add
 
-## *Papaios Nux Guidelines*
+## Papaios Nux Guidelines
 
 Papaios Nux magic closes the sky, reducing the severity of weather phenomenon or canceling them completely. It dismisses or damages air elementals and damages or reduces the Might of sanguine animals.
 
@@ -1850,7 +1850,7 @@ This incantation blinds a giant of Size +3. Similar incantations exist for giant
 
 (Base 20, +1 Size modifier)
 
-## *Alala Soma Guidelines*
+## Alala Soma Guidelines
 
 Alala Soma spells open the body, much like a sword stroke, doing damage to the target. Alala Soma incantations are personal favorites of many Amazon sorceresses. Incantations are swift and often decisive on the battlefield, designed for use against opponents. Like all Soma magic, Alala Soma incantations are only effective against human and human-shaped targets. Alala Soma spells also assist in childbirth, gently opening the body to allow the newborn an easier exit. Childbirth is similar to Wound Recovery, and is described in detail in *Art & Academe*, page 62–63.
 
@@ -1868,7 +1868,7 @@ Alala Soma spells open the body, much like a sword stroke, doing damage to the t
 
 **Level 20:** Instantly kill a person. Destroy a major sense of a person.
 
-## *Ma'at Soma Guidelines*
+## Ma'at Soma Guidelines
 
 Ma'at Soma spells allow a sorceress to gain information about the target. The most common use of such spells is to keep an eye on distant raiders, especially those close to the sorceress' heart. Though it is easier to gain information about the enemy, this is less advantageous than one might imagine. If the enemy is a man, then sorceresses need to know little else. Determining if a target is Gifted is possible, but since it requires a Zoi requisite, it is a rite rather than an incantation, and combat situations rarely provide the time for a sorceress to cast a rite.
 
@@ -1890,7 +1890,7 @@ This spell grants immediate knowledge of the target's physical health, instantly
 
 (Base 3, + 2 Sister)
 
-## *Papaios Soma Guidelines*
+## Papaios Soma Guidelines
 
 Papaios Soma spells close the body for healing purposes, much like suturing a wound. Because of the nuisances of Soma magic, it is easier to heal an enemy than a companion, although few sorceresses design such rites. Instantaneous healing requires a Kardia requisite, as the target's heart must be included in the magical procedure.
 
@@ -1948,17 +1948,17 @@ This rite instantly heals a Medium wound.
 
 (Base 15, + 2 Sister, +4 Month)
 
-## *Zoi Effects*
+## Zoi Effects
 
 Zoi incantations deal with spirits, both the incorporeal residents of the four Realms as well as the intangible individual spirit of a human target. Used against the
 
-## *Alala Zoi Guidelines*
+## Alala Zoi Guidelines
 
 Alala Zoi incantations summon spirits, opening the path for them to be drawn to the sorceress. Usually only dead Amazons are summoned, often to teach the sorceress but also to seek their counsel. Spirits have a spotty memory of their personal past, and tend to focus on one or two traumatic events from their living lives. Ghosts, demons, and other incorporeal spirits can also be summoned with Alala Zoi magic. The required Range of any such incantation depends on the relationship between the departed and the sorceress.
 
 **General:** Summon a spirit with Might equal to the base level of the spell.
 
-## *Amazon Spirits*
+## Amazon Spirits
 
 Since Amazonian sorceresses can summon the spirits of their slain companions, it is important to know the Might of the targeted spirit. When an Amazon dies, her ghost travels to an obscure part of the Magic Realm, where it rides, hunts, and fights in perpetuity. Her ghost has a Might equal to the Amazon's highest Martial Ability divided by two (round up). Most regular Amazon ghosts thus have a Might between 2 and 4. The ghosts of Amazonian sorceresses have a Might equal to their highest Art at the time of their death. Both warrior and sorceress Amazon ghosts are creatures of magic, and both have a Magic Might score. As magic entities, they are entitled to Qualities and Inferiorities, as explained in *Realms of Power: Magic*.
 
@@ -1971,7 +1971,7 @@ vast plethora of incorporeal spirits, Zoi magic summons, controls, and banishes 
 Zoi magic has less control over a human spirit that is still bound to a living target. Attached to the living, such a spirit cannot be summoned, controlled, or banished. The spirit can be hazily inves-
 
 
-## *Ma'at Zoi Guidelines*
+## Ma'at Zoi Guidelines
 
 Ma'at Zoi incantations measure the spirits, and can be used to gain useful information about ghosts and other incorporeal spirits. Seeing a spirit is relatively easy, although it becomes harder if the sorceress does not know the spirit. To see an unknown spirit, meaning one that is not an Amazon, the sorceress must cast the incantation at Range Unseen Stranger. If such a spirit exists within the scope of the sorceress' vision, it will appear to her.
 
@@ -2017,7 +2017,7 @@ This incantation summons an Amazon spirit of Might 5 or less for the first time.
 
 tigated and subtlety manipulated, however. These types of incantations awaken a Gifted warrior to her magical potential, and extend life in those so awakened. Zoi magic can also identify targets whose spirit is tainted by magic, including Gift-
 
-## *Styliane, an Amazon Sorceress Spirit*
+## Styliane, an Amazon Sorceress Spirit
 
 **Magic Might:** 20 (Corpus)
 
@@ -2108,7 +2108,7 @@ Level 10
 
 R: Seen Stranger, D: Hour, T: Ind
 
-## *Helene, an Amazon Warrior Spirit*
+## Helene, an Amazon Warrior Spirit
 
 **Magic Might:** 5 (Terram)
 
@@ -2135,7 +2135,7 @@ R: Seen Stranger, D: Hour, T: Ind
 Helene was a famous raider who fought Achilles and died by his sword. She is most often summoned to teach martial abilities, but can also serve as an invisible scout to spy on an enemy.
 
 
-## *Papaios Zoi Guidelines*
+## Papaios Zoi Guidelines
 
 Papaios Zoi incantations close spirits, either removing them from the mundane world or destroying their essence. Incantations that banish spirits only do so for as long as the incantation lasts. Incantations that destroy spirits do so in a moment, even if the incantation itself lasts for the base Duration of Zoi spells (Hour).
 
@@ -2171,7 +2171,7 @@ Level 10
 
 R: Seen Stranger, D: Hour, T: Ind This incantation destroys 5 points of
 
-## *Viea*
+## Viea
 
 For all intents and purposes, Viea is a monster. Her mind, once human, is now consumed with vengeance. Since her nemesis Bonisagus is destroyed, this hatred is focused on the Order of Hermes, his "children." She is a ghastly figure, a creature of dark crawl spaces and shadowy tombs, horrible of visage and temperament. While the Amazons as a whole might be converted from their animosity towards men, Viea will never be swayed from her murderous intentions.
 
@@ -2236,7 +2236,7 @@ Originally invented by the Amazon sorceress Viea, this incantation robs a Gifted
 
 (Base 15, + 1 Seen Stranger)
 
-### *Rival Magic*
+### Rival Magic
 
 ### **Extend the Servant's Service**
 
@@ -2248,13 +2248,13 @@ This rite allows the target to add a +3 bonus to her Aging rolls. This rite rema
 
 (Base 5, +2 additional magnitudes for additional bonuses, +2 Personal, +2 Month)
 
-## *Viea*
+## Viea
 
 Viea was born in 705, one of a pair of Gifted twins. She was always close to her sister, the Trianoma of Hermetic fame, and both were indoctrinated into the magic of the witches of Thessaly at an early age. Viea had a natural inclination for the various rituals for summoning and commanding spirits of the witches, while her sister was more prone to practicing the various hexes that the witches knew. They were nearly inseparable growing up, and this closeness continued into their young adulthood.
 
 Trianoma's dream and the sisters' journey to slay Bonisagus are recounted in *Houses of Hermes: True Lineages*, page 6. In brief, Trianoma had a vision that she and Viea were fighting, while Bonisagus looked on, and Trianoma killed her sister. Viea's interpretation of this dream was that the multitude of isolated wizards in the eighth century would force the sisters to raise arms against each other. To counter this, Viea suggested the pair seek out and kill this wizard. They tried and failed, and were captured by Bonisagus outside his
 
-## *Viea (cont'd)*
+## Viea (cont'd)
 
 Greater Power (30 levels, –2 point cost, +2 Init)
 
@@ -2316,13 +2316,13 @@ queen unearthed the grotesque figure and asked her advice. How was Amazonia to c
 
 And Viea, twisted and evil-minded, had a plan.
 
-## *Amazons and the Order*
+## Amazons and the Order
 
 In 1220, Queen Derimusa leads the Amazons — the same queen who ordered Viea brought from her tomb ten years ago. Her primary concern is the recent intrusion of the Mongols into the lands of the Cumans and the Khwarizms. Several of her warriors are demanding an invasion of Khwarizm, stating that a nearby general, Alcibrote, is already preparing her raiding party for such an incursion. Alcibrote's sorceress counselor, Bellolyte, thinks an invasion would succeed if the Amazons enlisted the aid of the centaurs, as they did thousands of years ago. Derimusa counters by saying that no Amazon has seen a centaur in years, let alone a tribe of the creatures. Derimusa's advisor, the sorceress Antiera, suggests moving the island, relocating from place to place within the Caspian Sea so that their enemies can not find them. Unfortunately, she has not completed the powerful rites required to do so, and needs time and resources to finish. Derimusa wonders how much time the Amazons have left.
 
 Viea has the boldest claim, stating that mankind has risen to power because of the Order of Hermes — puppet masters who hide in the shadows and control men's fate. Instead of worrying about these magi's soldiers, the Amazons should strike directly at them, flush them from their rat holes and leave their corpses to rot. Although this is utterly wrong, the Amazons don't know it. Viea's plan is easy to initiate, which the Amazons like. Raiding parties have entered the Thebes, Levant, and Novgorod Tribunals before, and while they haven't searched for magi, they could. Viea knows that magi like magical auras. She claims
 
-## *The Fate of Bonisagus*
+## The Fate of Bonisagus
 
 Records kept in the Thebes Tribunal recount that Bonisagus gathered a small adventuring party to search for Viea in 836. These manuscripts are silent concerning his success, and as far as history shows, he and his group never returned. Bonisagus' final adventure has been left purposefully blank. If his mission was successful and he found Viea, you will have to decide what happened. Viea will certainly remember meeting her nemesis, although gaining this information from her should be difficult. Perhaps Viea still has the founder's skeleton, maliciously preserved in her tomb. On the other hand, if Bonisagus failed to find Viea, his travels could have taken him near Amazonia, and a group intent on following the founder's final itinerary might accidentally run into an Amazon raiding party. Regardless of Bonisagus' success or failure, investigation of the founder's demise could be a subtle approach to introducing Amazons into your saga.
 
@@ -2332,7 +2332,7 @@ Viea proposes a large campaign aimed at the heart of the Order. Viea knows where
 
 Still, Queen Derimusa is undecided. Amazons continue to raid the border lands of the Cumans and the Khwarizm Empire. The Mongol invasion of Khwarizm, however, will demand an Amazon response, and by the end of the year Derimusa will have to decide on some action. Viea's plan will win out, unless some other councilor — perhaps a PC sorceress — suggests a viable alternative. Unfortunately, Viea's plan will not affect the Mongol invasion, regardless of its success or failure.
 
-## *The Amazon Enemy*
+## The Amazon Enemy
 
 If the Amazons follow through on their war against the Order of Hermes, there are several things to consider in your saga. Having heard of Amazons only in legends, magi will have no idea of their actual presence in Mythic Europe. Following Viea's plan, raiders appear out of the night, bent on destruction. The location of your covenant determines how soon a group of raiders might appear. Covenants in Novgorod, Thebes, and the Levant Tribunals are most at risk, based on proximity, but other covenants eventually become targets. The players should first hear rumors that some force has destroyed a distant covenant, and, if Viea's plan is successful, the rumors will indicate that it was the covenant's neighbors that destroyed them. Such news is sad, but not unduly troubling. When more covenants fall, however, or after a raid staged on Durenmar or one of the older covenants, the Order becomes alarmed.
 
@@ -2345,7 +2345,7 @@ man and Khwarizms might know that the Amazons live on an island in the Caspian S
 
 Other types of stories are possible including Amazons in your saga does not have to mean combat, battles, or total war. While predisposed to violence against male enemies, Amazons are more receptive to magae, and female player characters may hope to interact peacefully with the Amazons. Perhaps some Ex Miscellanea followers of Pralix can bring the Amazon sorceresses into the Hermetic fold. This is a tall order, and while a sorceress might listen to a woman wizard, she will have a hard time accepting male wizards as her equal. The queen would never submit to such an alliance, even if a majority of sorceresses thought it was a good idea. This could lead to civil war, or an exodus of the Amazon sorceresses.
 
-## *Parma Magica Unveiled*
+## Parma Magica Unveiled
 
 The Parma Magica is a mystery to Viea. She knows that some ritual is involved and assumes it to be linked to Hermetic magic, which it is. In reality, Parma Magica is merely an Arcane Ability, and any Gifted practitioner of any tradition could perform the ritual, if they knew how to do so. Magi know this and jealously protect this information. Many magi, however, in their attempt to quickly gain knowledge and power, have written and trade books about Parma Magica. If such a book fell into an Amazon's hands, the Order could be in real trouble.
 
@@ -2359,20 +2359,20 @@ Their first attack is critical. Protected by Parma Magica, several raiding group
 
 Running a war saga should be extremely dangerous. The Amazons are fast, ruthless, and persistent. Their passion for battle continually invigorates them, and many fight to the finish rather than surrender. The Amazon War should be as enthralling as the Schism War, and should help define the Order in the years to come. How the various Houses respond — the individual heroes and villains, the battles and sieges — will be entirely up to you and your troupe.
 
-## *An Amazon Saga*
+## An Amazon Saga
 
 On the other hand, you could decide to play Amazon characters. A raiding party consisting of a sorceress, a general (companion character), and several warriors (grogs) is ideal for a group of players. Each player should create a sorceress character. Unlike Hermetic magi, these characters will not be able to work together, so all members of the troupe should make Amazon warriors to fill out each one's raiding group. Initial stories could be simple raids, which would change into more complex military matters once the Mongols invade Khwarizm. Riders seek slaves, plunder, livestock, magical animals, and Gifted children. Since raids are far-ranging expeditions, such stories could take your players anywhere. The Novgorod and Levant Tribunals are the likely places to start. Stories can revolve from raiding party to raiding party, offering the players a chance to play all their characters.
 
 Once Viea's plan is accepted, and the Order of Hermes is your enemy, your raiding party will inevitably target covenants. Viea only knows of the older covenants, many of which have ceased to exist. Exploring a fallen covenant would still be entertaining, as raiders are always interested in spoils and booty. Both *Guardians of the Forest* and *The Lion and the Lily* list canonical covenants that make excellent targets: Fudarus and Confluensis (which will actually be Dragon's Rest) in the Normandy Tribunal, and Durenmar, Crintera, and Irencillia in the Rhine Tribunal. The targets in other tribunals are left up to the storyguide.
 
 
-## *Chapter Three*
+## Chapter Three
 
-# *Augustan Brotherhood*
+# Augustan Brotherhood
 
 Beyond the edges of Mythic Europe lie many threats to the Order of Hermes, challengers to the Order's security. Yet even within their own territory there is another threat, a secret and powerful fraternity of court wizards who hide in plain sight, protected by their powerful patrons in the nobility. The Order disdains most court wizards as charlatans, or ineffectual hedge magicians at best, and it is hard to act against them without interfering with the most powerful mundanes. Arrogantly, the Order has dismissed them as irrelevant, mere entertainers for hire performing duties that are below the dignity of any Hermetic magus. This is an arrogance that could be the downfall of the Order itself; for the truly powerful court wizards, linked by a secret society that knows no national boundaries, scheme and ready themselves for the day the new emperor of their choosing ascends to the throne of a domain the equal of the Roman Empire.
 
-## *Secrets of the Augustan Brotherhood*
+## Secrets of the Augustan Brotherhood
 
 The Augustan Brotherhood is a group of potential rivals to the Order of Hermes, which exists within the courts of Mythic Europe in 1220. A secret society, they are dangerous not just for their great magical ability, but also for their political intrigues and invisibility to the Order. While the Order knows almost nothing of these powerful wizards, the Augustans are very much aware of the Order of Hermes, and regard the Order with grave distrust.
 
@@ -2382,14 +2382,14 @@ Outsiders who witness a rite cast by these wizards may well suspect that they ar
 
 The Brotherhood is aware of the Order, though their information is fragmentary. They seek knowledge of the Order, which stands outside of feudal society and ultimately is likely to try to retain its autonomy rather than serve the Brotherhood's empire. While educated, many Hermetic magi appear to them as uncultured and immoral outlaws, standing outside of the feudal society that is home to the Brotherhood. The Brotherhood's members pride themselves on their learning and etiquette, and are completely at home in the courts of Mythic Europe. Even the Brotherhood's wizards, however,
 
-## *Is the Brotherhood a Threat?*
+## Is the Brotherhood a Threat?
 
 That a small group of magician scholars might dream of a return to the Roman Empire is not surprising. Many in the Order of Hermes may feel sympathies for such tolerant and educated men of letters, but regard them as little more than dreamers. The discovery of a long lost repository of magical learning in the Kingdom of Sicily, where their unusual ideas could take hold has, however, raised them from utopian dreamers to a group who might actually make a play for power. While their magic is limited, if they were to turn the attentions of their mundane supporters against the Order of Hermes, then terrible bloodshed could ensue. While their magic may be relatively weak, the swords and siege weapons of their allies are not. The Order of Hermes exists by the Code, and the Code forbids war against mundanes. If the mundane nobles were to take arms against the Order, could the Order stand against them?
 
 
 are outsiders by necessity, for they all suffer from The Gift's negative penalties to social interaction, and are extremely fractious and independent minded. While the Brotherhood tends to favor those with the Gentle Gift and extremely high Communication and Presence Characteristics, their internal struggles have for decades prevented any real united effort against the Order. Recently, however, the Brotherhood has learned of the Parma Magica, or rather have learned it is not a spell, and they are now actively conspiring to learn the secret. Only when they have managed to learn and disseminate the Parma Magica among their fellows can they hope to confront the Order. They are a tiny group in comparison to the Order of Hermes, but extremely potent in their own area of magical expertise.
 
-## *History of the Augustan Brotherhood*
+## History of the Augustan Brotherhood
 
 In 1130, Roger II was declared King of Sicily. His ancestors were the Normans who had captured Southern Italy, and formed a new aristocracy ruling over the Lombard, Arab, and Hellenic populace. The area was also religiously diverse, containing Latin Christians, Orthodox Christians, Muslims, and Jews. Soon he was to extend his sovereignty throughout southern Italy. The city of Naples chose to open its gates and join Roger's kingdom. However, when a revolt later broke out, the city of Naples joined the rebels. Roger's Saracen cavalry ravaged the countryside surrounding it, and a fleet of sixty ships was dispatched to storm the harbor, yet Naples managed to hold out successfully. Finally the city chose to submit, and remarkably peaceful terms were negotiated that left the city unsacked and its ruling class in charge and unpunished.
 
@@ -2466,7 +2466,7 @@ When Henry von Hohenstaufen became Holy Roman Emperor in 1191, he marched south,
 
 Within the Augustan Brotherhood itself, a short and sharp magical conflict broke out. Tancred was suspicious of the power of the wizards in the royal court, and began investigations. A series of assassinations and bitter in-fighting developed in the Brotherhood, and the victorious party supported Henry. How much easier to re-found the glory that was Rome when beginning with the Holy Roman Emperor as candidate? As Henry continued his attacks, the Brotherhood switched sides. How important this was to the political outcome is impossible to tell, but with Tancred's death in 1194 it seems likely that one of the Brotherhood was responsible for the unthinkable; Naples finally fell to Henry's forces. Once of Henry's generals, Conrad de Querfurt, was assigned the task of surveying the walls. During his inspection, he finally saw the magical glass egg that had defended the city, the *palladium*.
 
-## *Which Virgil is this?*
+## Which Virgil is this?
 
 Vergilius was his name; Virgil is the modern English and French form. Others use the more accurate Vergil, while in the Middle Ages he was often called Virgilius. Virgil as depicted in this biography — based on the *Life* by Aelius Donatus, with the later legendary stories woven in — does not bear any resemblance to the historical poet. This representation is accurate of Virgil as he was depicted in the 13th century, however; by the 15th century his legend changed to include diabolism, necromancy, control of spirits, and all kinds of fantastic additions from the Romances. These wild tales, in which Virgil is almost unrecognizable, probably begin to emerge in the early 1200s, and by 1300 stories of Virgil tricking the devil, dealing with faeries, and flying through the skies on a magic ship to a mountain of iron to steal a magical gem containing a demon are becoming popular among storytellers. Having some of these stories circulating in your saga's setting will obscure the real magic of Virgil, and it may be that some myths were deliberately spread by the Augustan Brotherhood to hide their secrets. In Mythic Europe, Virgil really was a great magician, unless your troupe decides otherwise.
 
@@ -2483,7 +2483,7 @@ In 1220, a Saracen revolt has led to many disaffected Muslims conducting guerril
 
 mankind. As yet, however, he does not appear to have any Infernal taint, despite the claims of the Papacy. In 1220 that conflict with the Papacy appears to be at an end, as he is crowned Holy Roman Emperor. The Brotherhood is triumphant, for it seems the glory that was Rome will now rise again. They have no doubt that Frederick is the new Augustus they've awaited, and believe Virgil to have prophesied.
 
-## *Virgilian Magic*
+## Virgilian Magic
 
 As we have seen, the magic of Virgil reflects an unusual Roman magical tradition, but a very famous one. Virgil trained no apprentices, and founded no school, but from the legacy in his tomb the Brotherhood reconstructed some fragments of this lost lore. Bonisagus was certainly aware of Virgil's work, as were later theorists like Notatus, who was a particularly avid grammatician, so it is unsurprising that the Order of Hermes' magical system derives a few elements from Virgil. While one of the precursor traditions of Hermetic Magic, and similar in some respects, the magical systems are now very distinct in how they are taught and their scope, and Virgilian magic is far more limited than its Hermetic equivalent. Those who practice Virgilian magic are frequently referred to as "wizards," owing to the Augustan Brotherhood's practice of serving as court wizards.
 
@@ -2493,7 +2493,7 @@ The Practice of Vigilo is divided into six Schools: Boreas, Naiads, Prometheus, 
 
 Virgilian Magic is associated with the Magic realm.
 
-## *The Schools and Virgilian Rites*
+## The Schools and Virgilian Rites
 
 Schools represent potent areas of magical expertise. The Schools of the Vigilo Practice allow for the casting of rites, and the Animo Practice allows these and Sortes Virgilianae effects to be placed into animations. Each point of score in a School is roughly equivalent to a Hermetic magnitude — so, for example, an Ability School of Prometheus 8 is approximately equivalent to a level 40 Hermetic score (appropriate Technique + Form, in this case perhaps Rego Ignem) for calculating Lab Totals.
 
@@ -2501,15 +2501,15 @@ A School is a Difficult Art; that is, it progresses in Experience points as an A
 
 Virgilian magic does not employ Magic Theory but instead an Ability called Virgilian Theory, which while similar in scope is directly associated with Virgilian magic.
 
-### *The Mechanics* • If a specific School is not known, rites associated with it or requiring it as a prerequisite may not be cast. A score
+### The Mechanics • If a specific School is not known, rites associated with it or requiring it as a prerequisite may not be cast. A score
 
-## *of Virgilian Magic*
+## of Virgilian Magic
 
 Virgilian Magic is divided into three Practices: Sortes Virgilianae, Vigilo, and Animo. Sortes Virgilianae and Animo are Supernatural Abilities, whereas the Schools of Vigilo advance as Difficult Arts (See Chapter One: Introduction, Difficult Arts). The six Schools of the Vigilo Practice each reflect a certain area of Virgilian magic, equivalent roughly to the Auram, Aquam, Ignem, Terram, Animal, and Herbam Forms of Hermetic magic.
 
 Opening the Gift to Virgilian Magic gives a score of 1 in Sortes Virgilianae, Animo, and one Vigilo School. Subse-
 
-## *Limits of Virgilian Magic*
+## Limits of Virgilian Magic
 
 Virgilian magic faces the same limits as Hermetic magic, although the rite Sortes Virgilianae does seem to infringe the Limit of Arcane Connections, as it relies upon the ancient prophetic wisdom of Virgil to be found in *The Aeneid*. In addition, the following limits apply:
 
@@ -2530,7 +2530,7 @@ quently, the Schools can be learned in any order, and new Vigilo Schools learned
 
 Sortes Virgilianae magic deals with divination-type effects, using a copy of *The Aeneid* to access the prophetic wisdom of Virgil and applying it to one's current situation. Vigilo magic can be used to create long-lasting wards, and to then do things to create magical effects which take effect when the ward is triggered. Finally, the Practice of Animo allows the creation of animated objects and magical items, but ones very different from the enchanted devices of Hermetic magic.
 
-## *The Practice of Sortes Virgilianae*
+## The Practice of Sortes Virgilianae
 
 One of the best known aspects of Virgil's magic, this involves opening a copy of The Aeneid at random, placing one's finger on the page, and reading the line indicated and the subsequent line. While the practice is widespread in Mythic Europe, and all educated folk know of the method, to gain meaningful results from it requires the secret understanding of Virgil's magic the Brotherhood alone possesses. For other people, and those whose Gift has not been opened to Virgilian Magic, the process simply fails.
 
@@ -2589,7 +2589,7 @@ level 50 or higher. Detect the presence of a mystical aura. Detect the presence 
 
 **Effect:** Learn all the magical and mundane properties of a mixture of liquids. Sense all useful information about a body. Sense all of the emotions in a being, including conflicting emotions and their relative strengths. Learn a fact that could be ascertained by an observer present in the target location by simple observation, like "is the city under siege?" or "is there water in the jar?" or even "is Theodoric in his sanctum?" Learn all the natural properties of a stone, earth, or metal object. Detect any active magic and any trace of positive magnitude left by earlier magic.
 
-### *Rival Magic*
+### Rival Magic
 
 Detect the sigil of any magic you have detected. Detect the Blatant Gift. Detect whether a creature or person has a mystic Might score, and which realm it is allied with (but note that demons are not discernible by this method).
 
@@ -2605,7 +2605,7 @@ Detect the sigil of any magic you have detected. Detect the Blatant Gift. Detect
 
 Sortes Virgilianae may be improved by practice, or by books written by another practitioner, or by being taught. But it is usually learned by in-depth study of *The Aeneid,* which is a Level 10, Quality 8 summa for this purpose.
 
-## *The Practice of Vigilo*
+## The Practice of Vigilo
 
 Vigilo is the second Practice of Virgilian Magic. It consists of six Schools that advance as Difficult Arts (See Chapter One: Introduction, Difficult Arts). Vigilo magic deals with warding areas, and far surpasses Hermetic magic in this area.
 
@@ -2699,7 +2699,7 @@ The base Ease Factor of a rite in the guidelines is given for Touch/ Momentary/P
 Virgilian magic cannot be cast at Personal Range, nor Voice Range, as the
 
 
-## *Example of Casting a Rite*
+## Example of Casting a Rite
 
 Frederick intends to stay at the castle of a baron who is known for his avaricious nature. His retinue has a chest full of silver, and he wishes it to be guarded. His court wizard Tomas therefore prepares a rite to make the silver rush out of the box if the pentagram is entered or erased by anyone but Frederick, and the silver coins swirl around in the air unnaturally as in a whirlwind, making a considerable noise. The appropriate Form is Terram, and the rite is therefore based upon the School of the Stones, and uses the School guidelines (Base Ease Factor 6 for highly unnatural movement; +6 for silver, a metal). He intends to draw a carefully constructed Pentagram on the flagstones, with Latin verses about thieves being dismayed chalked thereon. The area warded is the chest, and the target is the Pentagram, larger than any Individual trying to open the box. The range from the thief to the box at the time of triggering is Touch, and the desired duration Diameter (+3). So the Pentagram of the Swirling Silver is Ease Factor 15. He spends a season working on it, and gains a total of 14 experience points in the rite, which converts to the new rite Pentagram of the Swirling Silver 4, with 4 experience points over.
 
@@ -2717,13 +2717,13 @@ Virgilian magic can utilize the new Targets of Pentagram, equivalent to Part, an
 
 All Virgilian magic requires the loud declaration of a poetic series of stanzas to invoke the magic effect. Casting a rite is simply impossible if the Wizard cannot speak, and speaking in a normal voice gives a –6 penalty to the Casting Total, speaking in a soft voice –12. Freedom of movement and gestures is less important — if seriously impeded a –3 penalty is suffered, but no bonus can be gained for extravagant gestures.
 
-## *Vigilo Rites Guidelines*
+## Vigilo Rites Guidelines
 
 Vigilo rites can only be used to create magical effects that either prevent something happening to the warded area, bring something to afflict the triggering force, destroy something in the warded area, or preserve something in the warded area. Each Base Guideline is the Ease Factor for a Touch/Momentary/Pentagram rite. Even though Vigilo cannot use Individual Targets, the base Individual for each School is given to enable the calculation of the size of larger Targets.
 
 Base Ease Factors are modified as follows:
 
-## *New Targets*
+## New Targets
 
 **Pentagram (Target):** A Pentagram is a magical figure drawn upon the floor, similar in many ways to the Circle spells of Hermetic magic. The figure is not always a pentagram — hexagrams and other symbols are also used, and an Intelligence + Magic Theory roll against an Ease Factor of 12 will allow the School of the associated rite to be identified, with higher rolls providing more specific information. In addition, they always feature Latin verses alluding to their purpose as a necessary part of their design, so an Intelligence + Latin roll against an Ease Factor of 9 may be substituted for the Magic Theory roll. If the Ability Virgilian Theory is known, it may be employed against an Ease Factor of 3.
 
@@ -2752,7 +2752,7 @@ Designed by Tomas of Sicily, this rite wards a bay against the wind, and activat
 
 
 
-## *Rite of Boreas Guidelines*
+## Rite of Boreas Guidelines
 
 These rites usually affect air phenomena, like winds or odors rather than gases, which is a modern concept. Individual is a single phenomenon, such as one wind, one cloud, one bolt of lightning. Group is several related phenomenon, such as the clouds, winds, and rain in a storm. A base Individual for this rite is a weather phenomenon that affects the area within a standard Boundary — an area 100 paces across. The steps are very severe, severe, normal, minor.
 
@@ -2773,7 +2773,7 @@ These rites usually affect air phenomena, like winds or odors rather than gases,
 **Ease Factor 21:** Destroy a very severe weather phenomenon in the warded area: hurricane force wind, lightning strike, tornado.
 
 
-## *Rite of the Naiads Guidelines*
+## Rite of the Naiads Guidelines
 
 This School's rites affect water and all other liquids. They cannot affect liquids in a body, such as blood. Individual is a stretch of water with the same composition and current, such as a small pond, part of a stream, or a spring. Part is a part of an Individual. This category applies easily. Group is a number of Individuals that can include a large river where there are several different currents, a number of rivers flowing together, or a lake. Room, Structure, and Boundary are as normal; the rite affects all the liquids within the targeted area.
 
@@ -2825,7 +2825,7 @@ When a fire breaks out and consumes a house, extremely heavy rain begins to fall
 
 (Base 9, Sun +6, City +9)
 
-## *Rite of Prometheus Guidelines*
+## Rite of Prometheus Guidelines
 
 The base Individual is a large campfire or a fire in the hearth of a great hall.
 
@@ -2859,7 +2859,7 @@ Wards a ship against wave action, triggered when the ship first encounters a sev
 
 (Base 12, Sun +6, Structure +6)
 
-## *Rite of the Stones Guidelines*
+## Rite of the Stones Guidelines
 
 The base Individual for this School depends on the material involved. For sand, dirt, mud, clay, or similar substances, it is about ten cubic paces of stuff. For stone, it is a single cubic pace. For base metals, it is a cubic foot, while for precious metals it is a tenth of that. For gemstones, the base individual is one cubic inch in size. The guidelines are for controlling or destroying dirt, sand, mud, or clay; add +3 to effect stone or glass, add +6 for metal or gemstones. Manipulating objects with great precision may also require a higher Ease Factor.
 
@@ -2897,7 +2897,7 @@ This rite is cast upon river banks where they pass through a city, and activates
 
 (Base Ease Factor 15, Sun+6, Boundary +9)
 
-## *Rite of the Sylvan Dryads Guidelines*
+## Rite of the Sylvan Dryads Guidelines
 
 A base Individual for rites of this School is a plant roughly one pace in each direction.
 
@@ -2926,7 +2926,7 @@ This protective rite requires a large hearth fire, and is placed upon a room. If
 (Base 6, Diameter +3, Room +3)
 
 
-## *Rite of the VIgilant Bees Guidelines*
+## Rite of the VIgilant Bees Guidelines
 
 A base Individual for this School is an animal of about the same size as a pony, Size +1 or smaller.
 
@@ -3071,7 +3071,7 @@ A similar rite is one that meets the similar spell conditions (**ArM5**, page 95
 
 Schools may not be improved by laboratory research.
 
-## *The Practice of Animo*
+## The Practice of Animo
 
 The Practice of Animo is learned as a Supernatural Ability, called simply Animo. One of the most impressive powers practiced by Virgilian wizards is the creation of animations, that is objects (usually but not always statues) that, empowered by the awakening of their spirit, have taken on the semblance of life. Such animations are not automata as understood by the Order of Hermes. They are the result of powerful rites that awaken the Magic spirit of a masterpiece. The animation can be shaped by other Virgilian rites in much the way other magicians instill magic effects in enchanted devices. Animations are affected by auras as any creature of the Magic realm, and animations possess Magic Might, giving them some Magic Resistance.
 
@@ -3145,7 +3145,7 @@ Animations cannot speak, as noted above, and so cannot be taught to do so, nor t
 
 It is often the case that a wizard wishes to place a magical effect within an animation he has created — indeed, this is the primary purpose of most animations. Magic may be inscribed on the spirit in an animation in a manner similar to how Hermetic magi may instill effects in enchanted devices.
 
-## *Pseudo-Might*
+## Pseudo-Might
 
 One of the great theorists of Virgilian magic was Argometto, slain in the Brotherhood's internal disputes of the late twelfth century. He noted that the Magic Might of Virgilian animations differs from the way Might works in other magical creatures, in that most beings possess Might roughly proportionate to their magical power. Animations may possess high Might, but have no intrinsic magical powers. Argometto theorized that the Might of animations may be Pseudo-Might, and that it reflects power "borrowed" from an entity elsewhere, whose nature remains unknown. In other words, the wizards may not be creating magical life by animation, but instead they create a body that a pre-ex-
 
@@ -3210,7 +3210,7 @@ A Virgilian wizard's Magical Defense Bonus is equal to his score in a School or 
 | Sortes Virgilianae   | Any Intellego |
 | Practice             | or divination |
 
-## *Magical Dangers*
+## Magical Dangers
 
 Virgilian wizards are exposed to several hazards through the use of their magic. Magic is a dangerous art, and at
 
@@ -3219,11 +3219,11 @@ Virgilian wizards are exposed to several hazards through the use of their magic.
 
 times things go wrong. Quite apart from the normal risks of magic gone awry, Virgilian wizards are prone to drawing the attention of powerful supernatural creatures, which do not have their best interests at heart.
 
-## *Botches*
+## Botches
 
 Botches by magicians cause similar problems as for Hermetic magi, and the general guidelines one would use for Hermetic spells are applicable here. Botches involving divination give misleading information, often dangerously so. Botched Vigilo rites may have the wrong trigger action that leads to catastrophe, or affect the caster rather than the initiating force, or even cause unforeseen side effects in the warded area. Animo botches are even more dangerous — items may become inhabited by demons or run amok, as described in that section.
 
-## *Fated Destiny*
+## Fated Destiny
 
 Wizards can gain Warping Points from all of the normal sources of Warping (see **ArM5**, page 167). Like Hermetic magi, wizards also gain 1 Warping Point for every zero that comes up on the botch dice when using a rite, Animo, or Sortes Virgilianae. If a wizard receives 2 or more Warping Points from a single event, he may suffer the attention of powerful entities.
 
@@ -3256,7 +3256,7 @@ ing, and embracing the Church.
 
 When the character's Warping Score reaches 10, the character faces a story in which his death is inevitable, although he may influence the manner in which he faces it. Virgilian wizards fear that their souls pass on to the place they see through the Gates of Avernus, but there is no evidence either way; they may well face the same judgment as everyone else.
 
-## *Character Generation*
+## Character Generation
 
 All users of Virgilian magic must possess The Gift, which is taken as a free Virtue as normal. They may not choose Hermetic Virtues or Flaws, with the exceptions of Gentle Gift, Inoffensive to Animals, Personal Vis Source, Side Effect, Twilight Prone (which makes the wizard susceptible to Gates of Avernus; wizards do not experience Twilight), Blatant Gift, Susceptible to the Divine, Susceptible to Faerie, and Susceptible to Infernal.
 
@@ -3286,7 +3286,7 @@ It is standard for the hierophant to divine first to ensure the candidate's loya
 
 After initiation, the character gains 24 experience points per year during apprenticeship, which may be spent on Virgilian magic as well as on any other Abilities he has.
 
-## *Designing a Wizard Simplified*
+## Designing a Wizard Simplified
 
 Assign 7 pyramid points to Characteristics.
 
@@ -3306,7 +3306,7 @@ This represents a newly initiated Virgilian wizard. If you wish to represent an 
 
 Wizards acquire knowledge of their magic in much the same way Hermetic magi do. Training by a master is usually the source of initial knowledge, followed by the initiations. But once the fundamentals of the tradition are known, the student studies from texts. The texts of wizards are written using the normal rules from **ArM5**, page 165. Only three seasons per year are available for personal advancement — the remaining season must be dedicated to direct magical support of the wizard's patron, be it developing new Vigilo rites to meet specific needs, creating an animation to serve in some way, or simply dedicating the season to divinations for his benefit. These tasks should be in keeping with the wizard's abilities and interests to some extent, and so not punitive — troupes should allow considerable freedom, but it must always be remembered that the wizard is a paid employee, and not as free as an Hermetic magi.
 
-## *New Virtues*
+## New Virtues
 
 The following new Virtues are suitable for Virgilian wizards.
 
@@ -3322,7 +3322,7 @@ eral servants or guards. If the employer can feasibly obtain vis or other resour
 
 The wizard's master spent time teaching more of the magic of the Brotherhood than is normal. The character gains 72 additional experience points to spend on rites, the Brotherhood's Supernatural Abilities and Arts, and Organization Lore: Augustan Brotherhood. This is roughly equivalent to the Hermetic Virtue Skilled Parens.
 
-## *Typical Virgilian Wizard Abilities*
+## Typical Virgilian Wizard Abilities
 
 Virigilian wizards serve a very specific role in Mythic Europe, as court functionaries, in line with the aims of the Brotherhood. The practitioners of this magic are also superbly educated by the standards of Mythic Europe. Depending on the Social Status selected by the player, the character is likely to have some knowledge of the following Abilities from before apprenticeship: Civil and Canon Law, Intrigue, Etiquette, Languages, Medicine, Philosophiae, Profession (Scribe), Theology, and Lore Abilities related to the nobility of their area, as these are typical of those who are considered desirable for recruitment into the Brotherhood. After their Gift is opened they often study Concentration, Penetration, and (Realm) Lores, in addition to the powers of Virgilian magic.
 
@@ -3330,11 +3330,11 @@ All magicians must possess minimum scores of Latin 5, Artes Liberales 4, Virgili
 
 All wizards must dedicate at least one season a year to working for their patron (see earlier).
 
-## *Life at Court*
+## Life at Court
 
 Setting a saga in a mundane court, instead of a Hermetic covenant, is an option. Companions might be important political figures in the area, or influential members of the court itself. The focus on mundane politics and the interaction with society will lead to a very different kind of saga than those involving Hermetic magi. While the lord of the court probably remains a storyguide character, stories may focus on the great political and ecclesiastical issues of the day, immersing the troupe in an aspect of Mythic Europe that Hermetic magi attempt to distance themselves from.
 
-## *Example Character: Bici, Court Wizard*
+## Example Character: Bici, Court Wizard
 
 **Characteristics:** Int +3, Per +1, Pre +3, Com +5, Str –3, Sta 0, Dex 0, Qik 0
 
@@ -3385,11 +3385,11 @@ Noble courts do not revolve around magicians, and the wizards are at best highly
 
 As the court will be the center of the saga, the troupe should design their employer as a character, and draw up the genealogy of his dynasty pay particular attention to succession and to political and ecclesiastical relationships. The patron may well be completely unsympathetic to the Brotherhood's aims, and it is quite possible that most of the characters are unaware of what those aims are, or of the Virgilian wizard's allegiance. After all, the Brotherhood often seeks to place its members in courts hostile to the Holy Roman Emperor, to further their plans and win them over to support of Frederick. Such characters do not usually conduct assassinations or directly sabotage the court, but rather work subtly to direct affairs in a manner that furthers the Brotherhood's ambitions. The support of the patron is the goal, not his destruction, and even in cases where there is direct conflict, espionage is stressed over cold-blooded murder. At least most of the time.
 
-## *The Virgilian Magical Landscape*
+## The Virgilian Magical Landscape
 
 It is entirely possible that the secrets of Virgil's magic may be sought quite independently of the Augustan Brotherhood by Hermetic magi or other highly educated magicians; the myths are, after all, very well known. In this section we deal with the remaining artifacts created by Virgil, with his tomb, and with other secrets known to the
 
-## *Bronze Gates of the Tomb*
+## Bronze Gates of the Tomb
 
 Animation, non-mobile. Magic Might 9 (size +2, base metal +5; senses (touch) aware +5)
 
@@ -3413,7 +3413,7 @@ Base 3 R: Touch D: Sun +6 T: Boundary +9
 
 Brotherhood that might be discovered and investigated by Hermetic agents.
 
-## *The Tomb of Virgil*
+## The Tomb of Virgil
 
 The tomb of Virgil is mentioned in almost every biography of Virgil, and is therefore one of the best-known magical sites in Mythic Europe. The Brotherhood pays considerable attention to scholars who seek it, and usually have agents loitering in the vicinity, as well as locals well paid to report scholars asking unusual questions in the area.
 
@@ -3431,7 +3431,7 @@ It takes five rounds for the first serpents to slither here in an unnaturally fa
 
 
 
-## *The Silver Hammer Men*
+## The Silver Hammer Men
 
 Animations, mobile.
 
@@ -3465,7 +3465,7 @@ head.
 
 **Appearance:** The muscular statues are carved in ancient Roman clothes appropriate to blacksmiths, with Latin verses as "embroidered" trim.
 
-## *Trojan Warriors*
+## Trojan Warriors
 
 Animations, mobile.
 
@@ -3520,7 +3520,7 @@ In the event the tomb's many defenses are circumvented, the tomb chamber may be 
 
 studying here. The tomb has a Magic aura of 7, and so inflicts Warping on mundanes who spend a long time here. The Brotherhood does not know that the tomb can be studied in this way; they have treated it purely as a sacred site for initiations, and avoid disturbing it as much as possible. Were they to learn of its potential, this policy would be sorely tested.
 
-## *Virgil's Magic in Naples*
+## Virgil's Magic in Naples
 
 As well as the tomb of Virgil, Naples has a number of other magical devices created by Virgil that are well known to the general populace and show to visiting scholars. They're therefore a source of concern to the Augustan Brotherhood, as interested magicians often seek to understand their mysteries. An Intelligence + Magic Lore roll of 9 reveals that similar items, when taken from their cities and investigated in Hermetic laboratories, have shown only traces of former non-Hermetic magic, and are therefore considered to be only objects of popular superstition. In fact, removing a non-mobile animation from its location automatically dispels its enchantment; a roll of 15 suggests this possibility. The only way to examine many of these items properly would be to construct a lab around them, a difficult proposition given their locations, and something that would be sure to attract the attention of the local populace and the Augustan Brotherhood. Such items are not restricted to Naples, though — Rome, Byzantium, Paris, and other ancient cities also contain similar *talismantia* created using similar magics.
 
@@ -3599,7 +3599,7 @@ Animation, non-mobile. Magic Might 9 (size +2, base metal +5)
 
 School of the Vigilant Bees 21. Trigger: Activates at sunrise and sunset.
 
-### *Rival Magic*
+### Rival Magic
 
 Effect: Prevents any horse in the city from breaking its back.
 
@@ -3682,7 +3682,7 @@ Animation, non-mobile. Magic Might 5 (size -5, hard stone +4)
 
 *"Tempering the mixture with her heavenly hands, she pours it in a bowl, already crowned, With juice of medicinal herbs, prepared to bathe the wound"*
 
-### *Rival Magic*
+### Rival Magic
 
 Rite of the Stones 24. Trigger: Activates at sunrise and sunset. Effect: Destroys all dirt in the Baths, purifying the water.
 
@@ -3694,7 +3694,7 @@ The bones of Virgil reside in a niche in a high tower of the Castle dell' Ovo, w
 
 Of all the authors mentioned in this section, only Gervasius of Tilsbury and John of Salisbury recount the story of Ludowicus' discovery of the bones. They are not an animation, but some suspect they are actually an Arcane Connection to the Daimonic Virgil.
 
-## *Virgil's Magic in Rome*
+## Virgil's Magic in Rome
 
 Almost none of Virgil's magics in the city of Rome are known to survive. They reputedly included a magic scrying mirror, the Salvatio Romae, a group of statues of Roman soldiers that warned of rebellion in the provinces (and that exploded the day a virgin gave birth), and a stone horseman who rode the streets and struck dead with a sword any who broke curfew.
 
@@ -3720,7 +3720,7 @@ There remains one other artifact of Virgil's on display in Rome — Caesar's sep
 
 Virgilian magic is the source of potential breakthroughs for the magus who integrates it with Hermetic magic theory.
 
-## *Sortes Virgilianae*
+## Sortes Virgilianae
 
 ### **Suggested Breakthrough Points: 45**
 
@@ -3734,7 +3734,7 @@ Once integrated into Hermetic magic, the link between *The Aeneid* and the proph
 
 This Mystery Virtue is already well known to some Mystery Cult magi, and they may be unhappy if it becomes more widely available. The researcher may face those groups' responses, or recruitment offers if his research interests become known to the Order at large.
 
-## *Improved Watching Spells*
+## Improved Watching Spells
 
 #### **Suggested Breakthrough Points: 45**
 
@@ -3748,7 +3748,7 @@ The magus is able to create *Watching Ward* spells that do not need to be cast a
 
 The principal consequence of integrating this effect is to greatly increase the number of magical wards available to magi. This makes magical defenses far more prevalent, and slowly changes Hermetic culture as sanctums become more secure and magical "traps" more common.
 
-## *Bibliography*
+## Bibliography
 
 A number of 12th- and early 13th-century manuscripts that make excellent sources of inspiration are referenced in this chapter. Here are some useful modern works.
 
@@ -3763,9 +3763,9 @@ Spargo, John Webster. *Virgil the Necromancer: Studies in the Virgillian Legends
 Virgil. Trans. C Day Lewis. *The Aeneid.* Oxford, England: Oxford University Press, 1952.
 
 
-## *Chapter Four*
+## Chapter Four
 
-# *Muspelli*
+# Muspelli
 
 *Brother will fight brother and be his slayer, Brother and sister will violate the bonds of kinship; Hard it is in the world, there is so much adultery, Axe-age, sword-age, shields are cleft asunder, Wind-age, wolf-age, before the world plunges headlong. No man will spare another*.
 
@@ -3773,7 +3773,7 @@ Virgil. Trans. C Day Lewis. *The Aeneid.* Oxford, England: Oxford University Pre
 
 The Muspelli are a tradition of wizards with horrifying ritual power at their command. Their might eclipses that of the local wizards, and is potentially the match of that of the Order of Hermes. The Muspelli hide in the dark places of the world and foment their malicious spells; in the caves in the Scandinavian mountains, in the fens of Denmark, and in the dales of the pagan Baltic. They are worshipers of the *jotun* giants — the implacable primal spirits who embody the powers of nature — and this worship has given them enormous power. Worse still, they are devoted to the release of their imprisoned masters and the overthrow of the current world powers — Divine, Infernal, and Faerie — in favor of a realm under the rule of the jotnar. In short, they seek to cause Ragnarok, the Twilight of the Gods.
 
-## *Mythic Origins*
+## Mythic Origins
 
 Before there was land and sea, there was a seething cauldron of ice and venom in the north called Hvergelmir. It was matched in the south by a boiling fountain of fire called Urdarbrunn. Where the two forces of fire and ice met, the first living being formed. This was Ymir, the progenitor of all life and the world as it is now known. His limbs begat offspring on each other. From his arms were born his elder brood — a brother and sister named Mimir and Urdur. And from his legs were produced his younger brood — three sons named Gymir, Aegir, and Surtur.
 
@@ -3783,7 +3783,7 @@ The giant-twins Loki and Gullveig had survived the slaughter of their kin due to
 
 Immediately prior to his capture, Loki instructed certain humans in how to communicate with him and the other jotun giants imprisoned in the underworld, thus making the first Muspelli. He intended the Muspelli to prepare the way for Ragnarok by amassing power, recruiting others, and subtly loosening the hold that the supernatural powers have over the world. Each of the imprisoned jotnar (save Loki himself) has such servants, who wait for the day that the trumpet is sounded and war is enjoined.
 
-## *The Mythology of the Muspelli*
+## The Mythology of the Muspelli
 
 The legends of the Muspelli do not necessarily match those of the pagan past of the Norse people. The Muspelli heard these stories directly from the jotun giants, and so they consider their version to be authoritative. However, the imprisoned jotnar are not necessarily the most neutral of witnesses.
 
@@ -3791,7 +3791,7 @@ As explained in *Realms of Power: Magic*, the jotnar are mighty spirits of magic
 
 
 
-## *Eschatology of the North*
+## Eschatology of the North
 
 According to the prophecies of Urdur, mother of Odin, there will come a time of winter and war that heralds the coming apocalypse. The strife sown by the twins Loki and Gullveig bears fruit, and mankind degenerates, generation after generation. The sun grows weaker, and battlefields proliferate as humans numb their rising dread with bloodshed and debauchery. They abandon their gods and forget previous loyalties in the slaughter. Monstrous wolves and serpents will be seen on earth and feast on the dead.
 
@@ -3803,7 +3803,7 @@ The gods have not been standing idle, though. They gather their own forces: mort
 
 When battle is finally joined, Odin is the first casualty, perishing in the jaws of the monstrous wolf Fenrir. Thor is killed by his old adversary Jormungand the Midgard Serpent, Freyr falls to Surtur's fiery sword, and Heimdall is slain by Loki. All the gods will perish, as do all the monsters, and all men. The flames of Surtur scour the earth clean and consume the dead, a purification that returns the world to a pristine condition. The dominance of the gods has passed, and their mistakes and ambition are undone. However, the new world does not remain vacant; the gods, the giants, and mankind all have survivors, select individuals who were hidden away for this very eventuality, and a new age begins.
 
-## *Loki*
+## Loki
 
 Loki claimed kinship to the Aesir since he, like Odin, was the grandson of Ymir; although it is not clear whether Gymir, Aegir, or Surtur was his father. Loki has opposed the gods ever since they slew his family, though. His plans were subtle at first, but he soon grew rash as his schemes were thwarted. He tried to steal the gods' treasures — Thor's hammer, the apples of immortality, even the goddess Freyja herself who was the fertility of the earth. He coordinated the foes of the gods among the giants who had survived Odin's genocide. Finally, he caused the murder of their most beloved member, Baldur, revealing his true colors
 
@@ -3814,15 +3814,15 @@ Loki is the messiah figure of the Muspelli. At the end of days it is said that h
 
 It is unlikely that the world of **Ars Magica Fifth Edition** will end with Ragnarok; that which God has wrought will not be undone by a battle between Faerie and Magic beings. All three major Divine religions have prophecies regarding the End of Days, and while they differ in the details, they concur on the main doctrinal points — the coming of the Messiah, the resurrection of the body, eternal bliss for the faithful in heaven, etc. This differs substantially from the Twilight of the Gods. It seems likely that the powers of Magic know the truth, and that Urdur's prophecy is false — or at least, falsely interpreted. The jotnar have either deluded themselves or else deliberately lied to the Muspelli for whatever inscrutable reasons. The story of Ragnarok was also recounted by the faerie gods to their followers; depending on the cognizance of these faeries for their own stories, the truth is either unknowable or meaningless, and so they believe their own propaganda. Despite potentially being based on a lie, though, the power of the Muspelli is very real, and the jotnar clearly have some purpose for them in mind.
 
-## *Jotun Patrons of the Muspelli*
+## Jotun Patrons of the Muspelli
 
 When initiated into the ranks of the Muspelli (see Muspelli Characters, later), a character acquires one of the jotun giants as a patron. In this section, the attributes of eight jotnar are described — the ones who attract the most followers from among the Muspelli. There may be other jotnar with sufficient Might to channel power from their place of imprisonment to Muspelli, but these are left to the individual storyguide to create.
 
-## *Aegir Sea-King*
+## Aegir Sea-King
 
 Aegir means simply "sea," but it is also connected to "*aegja"* meaning "terror." The awesome strength of the western ocean
 
-## *Pronunciation and Glossary*
+## Pronunciation and Glossary
 
 The spelling of Old Norse terms in this chapter has been simplified: removing diacritical marks; replacing "þ" with "th," and "ð" with "d;" and standardizing the nominative endings of nouns. Stressed syllables are given in capitals; "ch" is pronounced as in Scottish "loch," and "ü" as in German "München." Old Norse is one of the most difficult European languages for native English speakers to pronounce, and the following is intended as an approximation only.
 
@@ -3869,7 +3869,7 @@ Aegir takes the appearance of a king, bedecked in gold. His hair and beard are l
 **Closest Allies**: His brother Gymir and his wife Gullveig, Loki's twin sister. Aegir
 
 
-## *What are the Jotnar?*
+## What are the Jotnar?
 
 The term "jotun" means simply "giant," and is sometimes used for all Norse giants. In this chapter, the latter are referred to simply as "giants" (the Norse term would be *thurs*), while "jotun" or "jotun giant" is used to describe a magical primal spirit of *kosmokrator* caliber with a Magic Might of at least 50 (see *Realms of Power: Magic*, page 109 for more details). For beings with this much power the designation of "spirit" has little meaning; they are theoretically capable of forming vast bodies at will from the raw stuff of the universe, and are truly creatures of monumental power. However, they are trapped in the underworld (which is presumed to be part of the Magic Realm) and cannot manifest on earth while their chains remain intact. Until the day that they are freed, they may only interact with the mundane world by sending Aspects, spirits who are vessels for a fraction of their power, and they are loath to do this lest it warns their captors of their schemes. (For more details on the Aspects of Daimons, see *The Mysteries Revised Edition*, page 75, or *Realms of Power: Magic*, page 102.)
 
@@ -3883,7 +3883,7 @@ detests his brother Surtur, and the two are often at odds.
 
 **Common Virtues and Flaws**: Greater Immunity to Drowning, Ways of the Ocean; Puissant Swim; Avaricious, Feud (with a follower of Surtur); Vow (dwell near sea)
 
-## *Gullveig the Wicked*
+## Gullveig the Wicked
 
 Gullveig is the sister of Loki, and the Norsemen held them responsible for most of the evil and strife in the world. Her followers claim that this mischief was directed at the gods, not at mankind. For disobeying the gods and teaching witchcraft to mankind, the Aesir-gods burned Gullveig at the stake; but death could not hold her and she returned to the earth. Twice more they caught and burned her, and twice more she escaped. She is now imprisoned in the Ironwood — doubtless part of the Magic Realm or a powerful regio — to the far east, where she gathers about her the mightiest of witches while serving as mother to a fearsome race of werewolves.
 
@@ -3901,7 +3901,7 @@ Gullveig goes by many names as part of her role as deceiver. She called herself 
 
 **Common Virtues and Flaws**: Nightwalker (see *Hedge Magic*, pages 103 – 119); Lesser Immunity to Poison, Skinchanger, Student of Magic; Meddler, Transvestite (for her male followers)
 
-## *Gymir Frost-Father*
+## Gymir Frost-Father
 
 Gymir is the ruler of Jotunheim, a legendary land of giants in the far east (or, more accurately, the Magic Realm). He takes the form of an immense eagle, and from his perch on the edge of the world he sends his freezing winds to torment mankind. Some legends place Gymir chained in the underworld from where he directs the actions of the giants. Gymir has tried many times to wrest control of the world from the gods. He particularly lusts after the goddesses of fertility and the earth; if he could control them and subsume their power, his domination of man would be complete. On one occasion he actually managed to get his hands on Thor's Hammer — the gods' foremost weapon against his kind — but he was tricked into relinquishing it. With his wife Aurboda (that is, Gullveig), he was the father of the first generation of frost giants.
 
@@ -3920,13 +3920,13 @@ sists in etin-mod (see later), because it is a Supernatural rather than General 
 
 **Common Virtues and Flaws**: Giant Blood, Greater Immunity to Exposure; Great Stamina, Large, Warrior; Hatred; Mentor (a giant), Disfigured
 
-## *Leikin Hel-Queen*
+## Leikin Hel-Queen
 
 This daughter of Loki is the ruler of Nifelhel, a dark and poisonous part of the underworld filled with unimaginable torments. She was born to Loki after he ate the heart of Gullveig, and the gods were so disgusted at her appearance that she was confined to the underworld. Nifelhel is the prison of the spirits of the giants drowned in the flood resulting from the death of Ymir, and since the giants need the permission of their gatekeeper to send power to their mortal servants, the Queen of Hel is accorded respect. Leikin — sometimes called Hel after her realm — is queen and prisoner herself; she is unable to leave her own realm, and she is reluctant to allow anyone else to leave either. Leikin resents those who have escaped her grasp, and end up in the lands of bliss or Valholl, and she is willing to send power to those of her servants who disrupt the sleep of the dead.
 
 Leikin appears as a giant maid; half of her body is fair but the other half is that of a rotted corpse, black and fly-blown, and both her legs are broken. She rides
 
-## *Gandar*
+## Gandar
 
 Each of the jotun patrons has a *gandur* (talismanic object, plural *gandar*) that enhances the power of a Muspelli during an *utiseta* ritual (see Trolldomur, later). These items are not necessarily enchanted, although many of them have unusual properties. Each gandur cannot be simply made; they must be quested after, although it is not unusual for a Muspelli to steal a gandur from a rival follower of the same patron.
 
@@ -3946,7 +3946,7 @@ an ugly horse who drinks the blood of the dead, and she is accompanied by *kveld
 
 **Common Virtues and Flaws**: Ghostly Warder (a spirit of sickness); Arcane Lore, Piercing Gaze; Blatant Gift, Plagued by Supernatural Entity (vengeful dead), Proud; Disfigured, Reclusive
 
-## *Nidhogg Corpse-Tearer & Fenrir the Devourer*
+## Nidhogg Corpse-Tearer & Fenrir the Devourer
 
 Nidhogg and Fenrir are the children of Loki. Like Leikin, they were born to Loki when he devoured the burned heart of his sister. A Muspelli usually takes only one of the brothers as his patron, but as each has the same goals they are treated together here.
 
@@ -3954,7 +3954,7 @@ Nidhogg is the mighty dragon that seeks the destruction of the World Tree. His b
 
 His brother Fenrir is a mighty wolf, restrained in the underworld by a magical cord made by the dwarfs out of impossible materials. It is the only fetter that he was unable to break, and the gods had to resort to trickery to bind him. At Ragnarok Fenrir is destined to swallow Odin Allfather, but only after he has feasted on both the
 
-## *Gandar Story Seeds*
+## Gandar Story Seeds
 
 ### **A Gandur by Any Other Name**
 
@@ -3965,7 +3965,7 @@ A Muspelli hears about or witnesses a magus using an invested item that takes th
 A Muspelli devoted to Surtur is asked to make an enchanted gandur. As well as requiring the raw ingredients, he also demands a fee: the heart of a magical serpent. He does not reveal that the serpent is the ally of a follower of Aegir.
 
 
-## *Names by Patron*
+## Names by Patron
 
 Followers of a particular jotun sometimes refer to themselves by a distinctive name to indicate that allegiance. These names are somewhere between nicknames, family names, and titles.
 
@@ -3989,7 +3989,7 @@ Followers of a particular jotun sometimes refer to themselves by a distinctive n
 
 **Common Virtues and Flaws**: Ways of the Forest; Berserk, Inoffensive to Animals, Well-Traveled; Greedy; Animal Companion, Feral Upbringing
 
-## *Surtur the Black*
+## Surtur the Black
 
 Surtur is the son of Ymir and brother of Gymir and Aegir. He claims to have learned the secrets of smithing magic from Mimir in the days before the gods turned against the jotnar. His skin is the color of ash, but covered in cracks that reveal the molten rock that seems to make up his body. He is the patriarch of a clan of fire giants who rule the volcanoes and forest fires. Surtur's wife is Sinmara (a guise of Gullveig) who sends evil dreams out to haunt the nights of the pagan faithful.
 
@@ -4031,7 +4031,7 @@ Urdur takes the aspect of a stern-looking elderly woman, although one unbowed by
 
 **Common Virtues and Flaws**: Death Prophecy; Common Sense, Luck; Compassionate; Higher Purpose, Visions.
 
-## *Other Lands, Other Villains*
+## Other Lands, Other Villains
 
 Scandinavia is the stronghold of the Muspelli; for this reason Norse terminology has been used throughout this chapter. It was only in Scandinavia that the displacement, extermination, or assimilation of the jotnar-worshiping aboriginal cultures was largely avoided. It is here that the stories of the primal beings and their upstart offspring are best preserved; these tales are still being told and recorded in the 13th century. However, cognates of the Muspelli can be found throughout northern and eastern Mythic Europe, and this section is intended to extend the scope of the Muspelli to these other regions. As a consequence of the fragmented nature of jotnar-worship in other cultures, a more limited number of patrons may be present in a non-Norse version of the Muspelli.
 
@@ -4043,12 +4043,12 @@ The Saxon people (from northern Germany and England) shared the closest connecti
 
 To be completely exotic, a storyguide might even desire to place Muspelli among the indigenes of Greece, as worshipers of the titans who preceeded the gods of Olympos. The twelve titans have quite different characters from the Norse jotnar, and it may be necessary to redesign the patrons of the Makhai (meaning "battlers," the Greek name for the Muspelli). Alternatively, the patrons could instead be the vengeful children of Mother Earth, born to punish the gods for their imprisonment of the titans. Gullveig would equate to Ekhidna, a monstrous she-dragon who presides over the corruption of the earth. Her children are Kerberos the Hell Hound (Fenrir), Hydra the She-Dragon (Nidhogg), and Gorgo the Witch of the Underworld (Leikin). Ekhidna's consort is Typhon (Gymir), the monstrous storm-demon that put the gods to flight. Surtur is remembered as Kyklops, the brother of Ekhidna and Typhon, who toils in his volcanic smithy.
 
-## *Muspelli Characters*
+## Muspelli Characters
 
 Muspelli are all Gifted Companions, with the free Virtue The Gift. They may have up to 10 points worth of Virtues and balancing Flaws — some of which may
 
 
-## *Supernatural Abilities by Jotun Patron*
+## Supernatural Abilities by Jotun Patron
 
 **Aegir:** Sjonhverfing, Storm's Eye, Threads of Fate, and Dowsing; plus EITHER Wildfire and Winter's Breath (from Gymir) OR Hex and Summon Animals (from Gullveig).
 
@@ -4068,7 +4068,7 @@ affect their ability to use their Supernatural powers, or grant access to additi
 
 Unlike Hermetic magi, Muspelli have no means of shielding each other from the social penalties of The Gift. This is a strong contributor to the lone nature of this tradition.
 
-## *Apprenticeship*
+## Apprenticeship
 
 Apprenticeship begins when a Muspelli finds a Gifted child and decides to initiate him into the magical tradition. Muspelli keep a close watch on families with known descent from giants, for they believe that children from such families are more likely to develop The Gift. They occasionally find themselves in conflict with a group of hedge magicians called the Trollsynir (see *Hedge Magic*, page 76), who also look among the giant-blooded for their apprentices.
 
@@ -4085,7 +4085,7 @@ Over the course of the following six years the Muspelli remains secluded near th
 After apprenticeship, a Muspelli must have a minimum score of 1 in the six Favored Supernatural Abilities of his patron. It is also a good idea for a Muspelli to have a score in the following Abilities: Concentration, Organization Lore: Muspelli, Dead Language: Jotun, and Penetration. Jotun is the language spoken by giants and the jotnar, and is also the sacred language of the Trollsynir as their equivalent of Pictish (*Hedge Magic*, page 56). However, Muspelli cannot understand or use the aspects of the jotnar language that serve as an equivalent to Magic Theory for the Trollsynir.
 
 
-## *The Etin-Mod*
+## The Etin-Mod
 
 All Muspelli are capable of taking on an immense physical form called the etinmod (or *jotunmodur* in Norse). The etinmod is a true expression of the devotion of the Muspelli to the power of the jotnar; it is the most distinctive feature of the magic of the Muspelli, for it is in this state that they are capable of their most powerful acts of magic (see Trolldomur, later).
 
@@ -4097,7 +4097,7 @@ Taking the etin-mod (and reverting to human form) takes one round, but does not 
 
 The initial form of the etin-mod is determined once, at character creation. It is a central feature of a Muspelli character, and its game statistics can be altered over time by communing with one's jotun patron (see Summoning the Jotun Patron, later), so it is worth producing a second
 
-## *New Virtues and Flaws*
+## New Virtues and Flaws
 
 The following Major Supernatural Virtues are described later under Trolldomur. Each one grants a Supernatural Ability at a score of 1. These Virtues can be taken by non-Muspelli, but only Muspelli can access the enhanced use of these Abilities through their ritual magic (see *Utiseta*, later).
 
@@ -4146,7 +4146,7 @@ The etin-mod cannot be maintained indefinitely. For every hour (or part thereof)
 
 The storyguide should make these rolls on behalf of the character since he has no idea how much he will suffer from his deprivation from the human form. Once a character takes an Incapacitating Wound from this deprivation, he reverts to human form, disrupting any ritual taking place. When this happens, he also gains sufficient experience points in his Gleipnir Score (see later) to increase it to the next level.
 
-## *Mundane Qualities Available to the Etin-Mod*
+## Mundane Qualities Available to the Etin-Mod
 
 A Mundane Quality can only be taken once unless specifically indicated otherwise. Other Qualities may be available at the discretion of the storyguide.
 
@@ -4187,7 +4187,7 @@ running.
 **Venomous:** One of the character's attacks (usually the bite) also delivers venom into the wound. Compare the Attack Advantage to the victim's Protection (not Soak). If the character's advantage is higher, then the victim suffers the effect of the venom, regardless of whether the bite inflicts an actual wound. The venom can be of one of two strengths (chosen when Quality is taken) — the character can chose from either: a venom that inflicts a Light Wound if a Stamina roll with an Ease Factor of 12 is failed; or one that inflicts a Medium Wound but has an Ease Factor of 9 to avoid the effects. This Quality may be taken more than once: each additional time increases the severity of the wound inflicted or adds three to the Ease Factor to avoid the effects.
 
 
-## *Magic Defenses*
+## Magic Defenses
 
 Muspelli receive a Magic Defense against certain Form-specific magical effects. The specific defenses they possess are listed below, and their mechanics are described in the introduction to this book. If a character does not possess a particular Supernatural Ability, she gains no defense.
 
@@ -4214,7 +4214,7 @@ Muspelli receive a Magic Defense against certain Form-specific magical effects. 
 
 **Supernatural Ability:** Winter's Breath **Magical Defense:** *Magical Fortitude* **Effect:** Defense against effects that affect ice, snow, or cold.
 
-## *Gleipnir, Warping, and Heipt*
+## Gleipnir, Warping, and Heipt
 
 Like Hermetic magi, Muspelli do not acquire Flaws and Virtues from Warping. When exposed to powerful magical energies beyond the character's control, the Muspelli risk invoking the *heipt* — the ancient and deadly feud between the giants and the gods. In response, the gods send one of their servants to punish the interloper.
 
@@ -4225,7 +4225,7 @@ Instead of Wizard's Twilight, whenever a Muspelli gains 2 or more Warping Points
 **Heipt Roll: Stamina + (Realm) Lore + stress die**
 
 
-## *A Valkyrie*
+## A Valkyrie
 
 **Faerie Might**: 20 (Corpus)
 
@@ -4275,7 +4275,7 @@ A *gipt* takes the form of increased knowledge. The character gains a number of 
 
 A *gleipnir* works to limit the magic of the Muspelli. The character adds a number of Heipt Points to his Gleipnir Score equal to twice the number of Warping Points he gained. *Example: A character has a Gleipnir score of 1, and gained 2 Warping Points. He now has a Gleipnir score of 1 (4).*
 
-## *Heipt and Foreign Auras*
+## Heipt and Foreign Auras
 
 Muspelli rarely stray into Divine or Infernal auras, but if they do, Heipt works differently. While safe from the attentions of the valkyries, they may receive a visitation of a different nature, although mechanically the resolution is the same — a *gipt* or a *gleipnir*. Muspelli are severely disadvantaged by Heipt in foreign auras, since they suffer a penalty to both Casting Totals and Magic Resistance whereas their opponents benefit; so they are almost certain to suffer a *gleipnir*.
 
@@ -4289,7 +4289,7 @@ Muspelli have no incentive to work together. They gain no benefit from collabora
 
 Leadership among the Muspelli is a product of pure force. A physically and magically powerful Muspelli can dominate others and force them to do his will. But without direct supervision, subjugated Muspelli are likely to work against their leader — they serve the very essence of rebellion, after all. More likely is the formation of temporary cabals where like-minded Muspelli work together to achieve some common, short-term goal. Such alliances are usually between members of the same patron since they share common goals, although a character occasionally requires an ally with different powers from his own. Muspelli also seek alliances with magical creatures, particu-
 
-## *Example Character: Kotkill Ulfsbrodir*
+## Example Character: Kotkill Ulfsbrodir
 
 ### **Human Form**
 
@@ -4358,7 +4358,7 @@ Thanks to his Gift, Kotkill was abandoned in the wild as a baby. Fortunately for
 **Appearance:** In etin-mod Kotkill is nearly nine feet tall, and covered in coarse gray hair. His arms bulge with muscles and are overly long, reaching almost to the ground. He is as comfortable on four legs as he is on two. His face is elongated into a muzzle bearing two-inch fangs.
 
 
-## *Example Character: Gunnvara Jarnvidja*
+## Example Character: Gunnvara Jarnvidja
 
 ### **Human Form**
 
@@ -4454,15 +4454,15 @@ If unprepared, Muspelli certainly pose no threat to a magus of the Order. Howeve
 *For example: Gunnvara (described later) suspects that some magi in the area (the player characters) may pose a threat to her plans. She arranges a chance encounter with them disguised as a faerie lady, and manufactures an encounter with one of her cohorts, a giant. This allows her to witness their tactics in battle, and to gain both Arcane Connections (stray hairs, blood-soaked bandages, discarded clothing) and Sympathetic Connections (their names). She then prepares an utiseta ritual tied to each of her opponents, and loads them into her gandur. When they finally confront her — which may be months later — she has powerful magics of high Penetration to use against them. A magus who uses combat spells might be struck blind by a Hex, or Entranced to not attack her. Warriors can be Hexed with Enfeeblement, or Entranced to attack their masters, or have Fate Twisted against them when they try to target her. She can only release one of these effects each round from her gandur; but since each one has already been cast days or weeks ago, any Wound or Fatigue Penalties inflicted on her during the fight do not affect her ability to use them. Of course, she would not be alone; her giant cohort is protecting her, and an army of the dead keeps grogs occupied. Finally, she has exchanged appearances with a hostage using her Sjonhverfing, and the characters may even end up "rescuing" her from peril!*
 
 
-## *Trolldomur*
+## Trolldomur
 
 The term *trolldomur* — literally, "the work of trolls" — is a generic term for magic in Old Norse, but is specifically used in a negative connotation as legally proscribed witchcraft. In **Ars Magica Fifth Edition**, trolldomur specifically refers to giant magic, as practiced by Muspelli. Trolldomur is based on the use of Supernatural Abilities, specifically the extension of those Abilities into ritual effects. Through these rituals — called *utiseta* — a Muspelli is capable of vast magical effects. However, his weakness is the time it takes to generate such power, and the state of exhaustion in which it leaves him.
 
-## *Utiseta*
+## Utiseta
 
 *Utiseta*, or "sitting-out," is the name given to a Muspelli's ritual acts to raise the power of a jotun. He sets up a platform
 
-## *A Lack of Collaboration*
+## A Lack of Collaboration
 
 Every Muspelli must work alone when performing *utiseta*, and if a character is the target of two *utiseta* rituals from different Muspelli, only the ritual with the highest Casting Total is applied. This is true even if the Muspelli use different Supernatural Abilities against the same target. Effects cast by the same Muspelli do not interfere with each other; for example, the Muspelli who shapeshifted a warrior can still entrance him. A character suffering from an *utiseta* can still be affected indirectly by a different *utiseta* if he is not part of the effect's Target; the shapeshifted warrior walking through a snowstorm magically summoned by a different Muspelli is affected by both, since the area is the target of the snowstorm, not the warrior.
 
@@ -4549,7 +4549,7 @@ The Muspelli can choose to end an *utiseta* ritual prematurely. The most common 
 
 Muspelli can employ vis in their *utiseta* to assist in the gathering of power more quickly. They must use vis of an Art appropriate to the ritual performed. When vis is used during *utiseta*, the Muspelli starts
 
-## *Practical Limits of Utiseta*
+## Practical Limits of Utiseta
 
 Performance of *utiseta* is ultimately less dependent on the Muspelli's Ability and/or Power Modifier as it is on the duration of the etin-mod. Even junior Muspelli who have good Power Modifiers can achieve immense *utiseta* totals, but sustaining the etin-mod long enough to gather sufficient power to complete those rituals would kill them. A character with Stamina 0 can spend an average of 7 hours in etin-mod before risking exhaustion, and has an average of 13 hours before a forced change into human form. Each point of Stamina extends these numbers by 1 hour. Lucky or unlucky Deprivation rolls will affect
 
@@ -4568,13 +4568,13 @@ Muspelli can also use vis of an appropriate Art to power non-ritual uses of thei
 
 **Vis Limit: Score in Supernatural Ability used**
 
-## *Breaking the Jotnar's Chains*
+## Breaking the Jotnar's Chains
 
 One of the duties given to the Muspelli by Loki was the destruction of the chains that bind the jotnar in the underworld. Whenever a Muspelli performs *utiseta* in a supernatural aura, that aura has the possibility of being weakened by the Muspelli's magic. The Muspelli believe that every time this happens, a link in the chain of their masters' bonds is consumed and the jotun moves one step closer to its release.
 
 Once an *utiseta* has been successfully completed in a supernatural aura, if the
 
-## *Aura-Damaging Story Seeds*
+## Aura-Damaging Story Seeds
 
 ### **Molesting the Faeries**
 
@@ -4600,20 +4600,20 @@ Faerie auras are particularly vulnerable to this effect due to the vehemence of 
 
 Magic auras are a special case; whenever the aura level drops due to the draining effect of *utiseta,* the aura simultaneously gains a point of a particular alignment toward Trolldomur magic. This alignment is resistant to being removed by *utiseta*, unlike other alignments of Magic auras. In effect, the lost point of aura strength is converted into a type of Magic aura that can only be used by Muspelli. (See the nearby insert for details on this alignment.)
 
-## *Summoning the Jotun Patron*
+## Summoning the Jotun Patron
 
 All Muspelli have the capability to summon an Aspect of their jotun patron; the process is taught to them during their apprenticeship under the jotun. Every Muspelli is actually an intrinsic Arcane Connection to his patron, making this process possible. Jotnar are summoned through a number of closely related rituals, each intended for a different purpose (described later), and each with its own difficulty. These rituals are never used frivolously, since the process has some inherent danger.
 
 Summoning a jotun must take place at a site sacred to the patron (see the Sacred Sites insert). It also requires two individuals, the Muspelli and an assistant, who take the
 
-## *Auras Aligned to Trolldomur*
+## Auras Aligned to Trolldomur
 
 A Magic aura acquires this alignment after a powerful *utiseta* is performed within. Trolldomur alignments have ratings between +1 and +9. Add the level of the aura to the rating of the Trolldomur alignment to obtain the aura bonus received by any practitioner of giant magic. Other characters with magical Abilities or powers cannot derive benefit from the Trolldomur alignment, and only get the benefit of the underlying Magic aura, if any.
 
 "Giant magic" includes not only any magic produced by Muspelli, but also the magic used by gruagachan and their Norse counterparts, the trollsynir (see *Hedge Magic*, pages 55 and 76 for more details on these magical traditions). It might also include other magical powers at the discretion of the storyguide.
 
 
-## *Sacred Sites*
+## Sacred Sites
 
 Sites that are sacred to a patron are essential to summoning the jotun patron. Some of sites are well known to the Muspelli and used regularly, while others are long forgotten. A site must have a Magic aura of at least 3, although some or all of this can consist of a Trolldomur alignment (see Auras Aligned to Trolldomur, earlier).
 
@@ -4727,17 +4727,17 @@ This script initiates the Teeth Quality. The Muspelli must seek out a pack of wo
 
 This script initiates an increase in Size by +1, but to no greater than 5. The character must seek out a giant who is at least Size +5 and who has a Magic Might (+3). She must serve the giant for a full season, doing whatever he says to the best of her abilities and without question (+1). The character takes the Deleterious Circumstances Flaw as an Ordeal, making her magic weaker when she is not touching bare ground with her bare feet (+3). The Muspelli also benefits from the intrinsic +3 bonus to initiating the etin-mod only.
 
-## *Muspelli Supernatural Abilities*
+## Muspelli Supernatural Abilities
 
 The following sections describe the Supernatural Abilities employed by Muspelli, and the effects achievable during *utiseta*. The example effects given are not spells, and do not need to be learned separately; they are merely illustrations of typical effects.
 
 
 
-## *Entrancement*
+## Entrancement
 
 Entrancement can be used against animals if the character also has the Animal Ken Virtue. A Blind character can still make sufficient "eye contact" to use this Ability if she knows roughly where her target is. (See **Ars Magica Fifth Edition**, page 65 for information on Entrancement.)
 
-### **Entrancement** *Utiseta* **Effects**
+### **Entrancement** Utiseta **Effects**
 
 Entrancement is equivalent to R: Eye, D: Conc, T: Ind. To derive the base Ease Factor, assume a target with a Stamina of 0 and an average die roll of 6. Thus an innocuous request has a base Ease Factor of 9.
 
@@ -4759,7 +4759,7 @@ R: Voice, D: Until (death occurs), T: Group
 
 A whole city of people, up to a thousand people, are turned to murder. Each person turns upon the nearest person and attempts to kill him; but if the nearest person is a loved one, then that target is immediately freed from the compulsion.
 
-## *Designing Supernatural Powers*
+## Designing Supernatural Powers
 
 Some Supernatural Abilities of the Muspelli allow the creation or summoning of, or transformation into, creatures with supernatural powers. If you have *Realms of Power: Magic,* these powers can be designed as either Magical Qualities (if the creature has a Might score) or by using the Greater Power or Lesser Power Virtues if it does not. Thus, a creature with 6 points of powers could have one Greater Power and three Lesser Powers; or one Greater Power, two Lesser Powers, and a Minor Virtue; and so on. If you do not have access to that book, use the following guidelines.
 
@@ -4773,7 +4773,7 @@ Otherwise, the effect ends only when the person has killed at least one other.
 
 (Base 18, +3 Voice, +9 Until, +6 Group, +9 size)
 
-## *Hex*
+## Hex
 
 (This Ability was first published in *Realms of Power: The Infernal*, page 92.)
 
@@ -4833,7 +4833,7 @@ A potential victim can avoid the effects of a hex by seeking out supernatural pr
 
 **Specialties**: A specific duration, one method of hexing, a particular effect. (Supernatural)
 
-### **Hex** *Utiseta* **Effects**
+### **Hex** Utiseta **Effects**
 
 Hex is equivalent to a R: Arc, D: Mom, T: Ind effect. The Delay modifier can be built into the effect by reversing the sign of the modifier. Although the default Range is Arcane, a Hex can be delivered at Touch (by drawing symbols) or Voice (by audibly cursing) Range, but the Ease Factor remains unchanged.
 
@@ -4849,11 +4849,11 @@ The mighty hero Grettir was slain by this foul curse, cast by his enemy's mother
 
 (Base 24, +3 week delay)
 
-## *Shapeshifter*
+## Shapeshifter
 
 You may change your shape into that of a mundane animal. (See **Ars Magica Fifth Edition**, page 67 for full details.)
 
-### **Shapeshifting** *Utiseta* **Effects**
+### **Shapeshifting** Utiseta **Effects**
 
 Shapeshifter is equivalent to R: Per, D: Conc, T: Ind, and has a base Ease Factor of 9.
 
@@ -4887,7 +4887,7 @@ The Muspelli turns into a dragon that is 6 Size points larger than the biggest a
 
 (Base 27, +6 Size)
 
-## *Sjonhverfing*
+## Sjonhverfing
 
 The character can create visual illusions through "twisting the sight," which is the literal meaning of Sjonhverfing. This Ability is often associated with fire through smoke, heat mirages, and colored flames, but it operates in a similar manner
 
@@ -4913,7 +4913,7 @@ The visual illusions created are not perfect; they sometimes waver and shimmer, 
 
 **Specialties**: animals, natural features, soldiers
 
-### **Sjonhverfing** *Utiseta* **Effects**
+### **Sjonhverfing** Utiseta **Effects**
 
 Sjonhverfing is equivalent to R: Voice, D: Sun, T: Room.
 
@@ -4939,7 +4939,7 @@ Alters the appearance of an entire valley to make it a place of bliss and tranqu
 
 (Base 24, +6 Boundary, +12 to affect four extra senses)
 
-## *Spadomur*
+## Spadomur
 
 The character can induce visions that grant her an insight into a problem. This is similar to the Visions Flaw, but the character can both deliberately summon a vision and choose its subject. Spadomur takes about an hour to perform. The character must have a firm question in mind about an event affecting a person, and she must have a symbolic connection to the subject of the vision in the form of an Arcane or Sympathetic Connection. The question must pertain to an event in the present, within the last 12 hours or so.
 
@@ -4964,7 +4964,7 @@ Example: A theft from a farmer.
 The Ease Factor is also modified according to the simplicity of the event under question. While the character receives an answer as a vision, the complexity is judged according to how simply the ques-
 
 
-## *Reflection Bonuses for Spadomur*
+## Reflection Bonuses for Spadomur
 
 Characters employing the following items to induce visions using Spadomur receive a +3 bonus to their Casting Total if the subject matter of the question is appropriate.
 
@@ -5002,7 +5002,7 @@ proper noun.
 
 **Specialties**: deaths, wars, love
 
-### **Spadomur** *Utiseta* **Effects**
+### **Spadomur** Utiseta **Effects**
 
 Spadomur is considered equivalent to R: Arc, D: Mom, T: Ind.
 
@@ -5026,7 +5026,7 @@ The "Volva's Prophecy" reveals a vision of Ragnarok to the character. From this 
 
 (Base 9, +18 Lifetime, +6 lengthy explanation)
 
-## *Storm's Eye*
+## Storm's Eye
 
 The character can raise storms. These have limited power on land; it is over the sea that their full fury is unleashed. To use this effect the caster merely has to call to the sky; clouds gather within moments. If he is on land, the clouds produce just rain; but by the shore or on open water, the rain
 
@@ -5061,7 +5061,7 @@ The Ease Factor achieved determines the strength of the resulting storm:
 
 **Effect On Water:** A violent storm; any boat's pilot must make a Dexterity + Profession: Sailor roll of Ease Factor 12 every hour just to keep afloat as the
 
-### *Rival Magic*
+### Rival Magic
 
 waves crash into the sides of the craft. Each failure results in a damage level; most ships have 6 to 12 damage levels depending on workmanship. When all damage levels are gone, the ship sinks. See *City & Guild*, page 77 for more details on damaging objects.
 
@@ -5079,7 +5079,7 @@ waves crash into the sides of the craft. Each failure results in a damage level;
 
 **Specialties**: coasts, mountains, at night
 
-### **Storm's Eye** *Utiseta* **Effects**
+### **Storm's Eye** Utiseta **Effects**
 
 Storm's Eye is equivalent to R: Touch, D: Sun, T: Ind.
 
@@ -5103,7 +5103,7 @@ A whole region is laid waste in a monthlong gale. This can be devastating to the
 
 (Base 15, +6 Sight, +3 Moon, +6 size)
 
-## *Summon Animals*
+## Summon Animals
 
 (This Ability was first published in *Houses of Hermes: Societates*, page 105.)
 
@@ -5137,7 +5137,7 @@ The character cannot directly communicate with the animals unless he has another
 
 **Specialties**: a particular type of animal (Supernatural)
 
-### **Summon Animals** *Utiseta* **Effects**
+### **Summon Animals** Utiseta **Effects**
 
 Summon Animals is equivalent to a R: Sight, D: Mom, T: Group effect. The base Ease Factor is 9.
 
@@ -5182,7 +5182,7 @@ Summons werewolves with a Magic Might of 10 and Size 0. The caster must have a S
 
 (Base 24, +3 Arc, +6 size)
 
-## *Threads of Fate*
+## Threads of Fate
 
 The character has the power to alter her fate. Fate — called *orlog* in Old Norse — is viewed by the Norse as implacable bonds around an individual that only godlike powers are capable of severing. However, a character with this Ability has the power to put a twist in the threads of fate (*orlog-thaettir*) and nudge outcomes in her favor. To enact a reweaving of her fate, the character must state the event she is affecting and the effect she is attempting. The event must be specific; permissible examples include "the coming battle with Kotkill," "my journey to Tomafjord," or "rescue my daughter." They cannot be narrower than this; a practitioner of Threads of Fate cannot name a specific action.
 
@@ -5206,7 +5206,7 @@ Only a single thread can affect any action, and all threads expire once both the
 
 **Effect:** Hint of the Weave: When the character activates the effect, she gets an inkling of how things will turn out in the immediate future. The player rolls a stress die, and leaves the result before her. The next stress action that the character takes will use that die,
 
-### *Rival Magic*
+### Rival Magic
 
 giving the player a chance to decide her next action depending on the result of the die. She should not wait too long to use the die, else the storyguide will ask for a frivolous action to remove the hint.
 
@@ -5228,7 +5228,7 @@ giving the player a chance to decide her next action depending on the result of 
 
 **Specialties**: mercantile enterprises, battle, rescue
 
-### **Threads of Fate** *Utiseta* **Effects**
+### **Threads of Fate** Utiseta **Effects**
 
 Threads of Fate is equivalent to R: Per, D: Moon, T: Ind. The base Ease Factor is nominally those given in the table, but the Muspelli should make allowances for the vagaries of fate when designing effects.
 
@@ -5279,7 +5279,7 @@ The caster curses the target with a Warped Fortune. She can affect anyone to who
 
 (Base 18, +12 Arc)
 
-## *Valgaldrar*
+## Valgaldrar
 
 The character can use Valgaldrar ("corpse spells") to temporarily revive a corpse. The target of this Supernatural Ability cannot have received any burial rites from the Church (or from any other Divinely sanctioned religion), and the corpse must be relatively intact. Most importantly, the head must still be attached and the body must have some flesh and skin still adhering to the bones. It takes fifteen minutes to chant the corpse-spells sufficiently to awaken the dead.
 
@@ -5318,7 +5318,7 @@ Protect a corpse from being affected by further valgaldrar. Any attempt to do so
 
 **Specialities**: kings, soldiers, compelling truth, animating the dead
 
-### **Valgaldrar** *Utiseta* **Effects**
+### **Valgaldrar** Utiseta **Effects**
 
 Valgaldrar approximates to R: Touch, D: Conc, T: Ind.
 
@@ -5338,7 +5338,7 @@ Valgaldrar Ease Factor 27 R: Touch, D: Sun, T: Group
 
 In *Gongu-Hrolfs Saga*, the wizard Grimur raises the dead soldiers of his employer every night so that they can wage war against his foe every day. He is even-
 
-### *Rival Magic*
+### Rival Magic
 
 tually prevented by the dwarf Mondull, who protects them from being affected by valgaldrar. This *utiseta* effect duplicates Grimur's power by raising up to 100 slain soldiers.
 
@@ -5352,11 +5352,11 @@ Raises a dauding with a Magic Might of 18 and the following Virtues: Greater Imm
 
 (Base 24, +6 Moon, +3 for a total of nine Virtue points)
 
-## *Wildfire*
+## Wildfire
 
 The character has control over flames and smoke. While he cannot start any fires with this Ability, he can cause a fire to spread further, or intensify its heat so that it causes more damage to things it touches. Skilled practitioners can produce unusual colors, shapes, or smoke from a normal flame. The caster can affect a fire about one pace across; this is equivalent to the main fire of a great hall, or the burning crown of a small tree or bush. Using this Ability requires extravagant gestures (but no sound); the caster flamboyantly describes with his hands the changes to the existing flames. He must be within line of sight of the flames he wishes to affect, and can be no more than 15 paces away. The effects of
 
-## *Norse Burial Customs and the Walking Dead*
+## Norse Burial Customs and the Walking Dead
 
 The icy conditions of Scandinavia are exceptionally good for the preservation of corpses, which are often mummified by the desiccating conditions of frozen soil. Bodies that are hundreds of years old are potentially within the reach of this Ability. Ancient heroes a common target of this magic — were often preserved in barrows formed like artificial caves. Within, the hero's treasures would be heaped up at the feet of a throne, upon which was propped the corpse of the deceased notable. Kings and mighty lords were often buried with their favorite thralls, horses, hounds, and hawks; even occasionally with their wives.
 
@@ -5396,7 +5396,7 @@ Cause a fire to act in a very unusual fashion; for example, hovering in the air 
 
 **Specialties**: burning forests, changing size, hearth fires, pyrotechnic tricks
 
-### **Wildfire** *Utiseta* **Effects**
+### **Wildfire** Utiseta **Effects**
 
 Wildfire is equivalent to a R: Voice, D: Mom, T: Ind effect.
 
@@ -5444,7 +5444,7 @@ Causes a volcano to erupt. Everyone within Sight Range of the fire mountain (inc
 
 (Base 30, +3 Sight, +12 Boundary, +6 size)
 
-## *Winter's Breath*
+## Winter's Breath
 
 A character with this Ability is capable of creating frost, ice, or snow. To invoke the winter weather, the character must beat on an immense drum. The weather conditions summoned appear after a few minutes, and last until the character stops drumming or until the maximum Duration expires, which depends on the season. In the summer the effects last just one hour, while in the winter they last for up to 12 hours. In the spring and autumn, the duration has a maximum of 3 hours. If the character wishes to continue the effect, he must make another Casting roll.
 
@@ -5484,7 +5484,7 @@ Freeze a sufficient thickness of river to cross.
 
 **Specialties**: during the spring, snow, over water
 
-## *Exposure and Frostbite*
+## Exposure and Frostbite
 
 Exposure to extreme cold is a form of Deprivation. The severity of the cold determines the interval between Deprivation rolls.
 
@@ -5544,7 +5544,7 @@ Frostbite is an additional danger of low temperatures. Characters who have succe
 **Frostbite Soak Total: Stamina + Survival + Condition Modifier + stress die**
 
 
-### **Winter's Breath** *Utiseta* **Effects**
+### **Winter's Breath** Utiseta **Effects**
 
 Winter's Breath is the equivalent of R: Voice, D: Conc, T: Ind.
 
@@ -5566,7 +5566,7 @@ Creates icebergs that float according to the local currents. This Ease Factor cr
 
 (Base 21, +6 Moon, +9 Group)
 
-## *The Raudskinna Compact*
+## The Raudskinna Compact
 
 Contrary to the beliefs of some members of the Order of Hermes, there is no "Order of Odin" lurking in Scandinavia with a rapacious eye on the southern lands. These stories have circulated for as long as the Order of Hermes has existed, originating in the battle against Damhan-Allaidh, where rune-wizards deployed their art against Pralix's forces (see *Ancient Magic*, pages 133–136 for more details).
 
@@ -5574,20 +5574,20 @@ The coming of Christianity to a society that has always been hostile to magic ne
 
 This section provides an option to troupes who wish to run stories pitting the Muspelli, the Norse magicians, and/or magi of the Order of Hermes against one another. It may be that the magi fail to distinguish between the two types of Norse magic and pursue both with equal vengeance. Alternatively, a covenant might side with either the Muspelli or the Norse magicians against the other, following the adage that "the enemy of my enemy is my friend."
 
-## *Formation*
+## Formation
 
 As remnants of the old pagan ways, magicians of all types were put under suspicion in Christian Scandinavia. They were dismissed from their positions as advisors, and the practice of witchcraft was soon outlawed. King Olaf II of Norway (later Saint Olaf) instituted a crusade against pagan places of worship in the 11th century, executing those found following false idols. As the Dominion flourished, supplanting Faerie and Magic auras, it seemed that the wizards of the north were doomed to extinction. Not only this, but ancient evils were stirring and rumors circulated of wizards hunted down and slain by jotun magic. There seemed to be no hope for the survival of Norse magic against such foes.
 
 The three authors of its salvation were Saemund Sigfusson, Bodvar Egilsson, and Halla of Straumfjord. Saemund "The Wise" was a Gifted Icelander of the late 11th century who trained at the University of Bologna and was a member of a nascent magical tradition called the *mathematici* (see *Hedge Magic*, pages 79–102). Struck by the similarities between the magic of the mathematici and the galdramen of his homeland, Saemund returned to the north in search of wizards, with a new drive to preserve Norse magic. There he met Bodvar, a vitki and son of the famed rune-wizard Egil Skallagrimsson. Bodvar introduced him to Halla, the leader of a coven of folk-witches. Together they conceived a compact that would regulate and protect the Norse wizards, regardless of tradition. Over the next ten years they vigorously promoted the compact and recruited other wizards to their cause. It became known as Raudskinna ("red-skin") because it was distributed in books bound in red leather. In 1116 at a gathering near Uppsala, 164 magicians from all over Scandinavia swore to uphold the Raudskinna compact. Saemund returned to Iceland, founded a school at Oddi, and became one of the most famous Icelanders of the age.
 
-## *The Hreppar*
+## The Hreppar
 
 Raudskinna operates and is maintained through the hreppur (plural hreppar), local organizations of 10 to 30 magicians who provide each other with mutual support and share duties. The hreppur also settles disputes between its members, and punishes those who break Raudskinna's laws.
 
 The hreppur meets three times a year, at the equinoxes and the summer solstice. It is governed by three leaders, or stjorir (singular stjori), whose main role is to represent their constituents should they be accused of witchcraft by the mundane authorities. Those chosen to be a stjori often have a respectable position in society, which helps them negotiate on behalf of their members; they are often unGifted for similar reasons. Stjorir are appointed by vote, and maintain their position for life unless
 
 
-## *Norse Magicians*
+## Norse Magicians
 
 The Norse magicians have been detailed in *Hedge Magic*. The principal types are summarized here.
 
@@ -5603,7 +5603,7 @@ Other members of the Raudskinna compact include characters with Supernatural Vir
 
 others due to their superior strength. Of course, this acceptance often lasts only until the combination of The Gift and some misfortune leads to the Gifted magician being blamed for a calamity, or being accused of being in league with the Muspelli. In general, Gifted members of the Raudskinna find that they must constantly defend themselves from groundless accusations of breaking its laws, and only the most tolerant play an active role for long. The resulting feuds have destroyed several hreppar over the years, and remain a threat to the future of the Raudskinna Compact. The rarity of The Gift, and the relative youth of the organization, mean that Raudskinna's members have not yet fully understood the threat The Gift poses.
 
-## *The Laws of Raudskinna*
+## The Laws of Raudskinna
 
 The purpose of Raudskinna is to provide a buffer between magicians and society, separating prejudice from malpractice. It regulates the profession of magician, determines the allocation of magical resources and sharing of duties, and acts as a court of dispute between members on matters that
 
@@ -5655,18 +5655,18 @@ If the magician chooses to involve himself in a mundane conflict, he can only us
 
 If a magician is attacked while at home or on an innocent journey, then he can use magic to drive his attackers off or aid his retreat. Even in these circumstances, the magician is not permitted to deliberately cause injury and his life must be under threat. The magician may still be liable for paying his defending stjori 6 marks if charges result from his actions.
 
-## *Relationship with Mundane Society*
+## Relationship with Mundane Society
 
 In most Scandinavian lands the profession of magician is recognized, if not accepted; employing a magician is relatively commonplace to keep mice from the grainstore, to protect sheep from blight, to gain fine weather for travel, or for luck in war. Legal proscriptions against magic — of which there are many — only forbid trolldomur (defined in law as magic intended to harm others), not magic in general. Practitioners of magic are treated no differently than members of other unsavory professions such as debt collectors or grave diggers; the unease they engender is inseparable from their craft.
 
 Most mundanes are unaware of the existence of Raudskinna and the hreppar. Those who are party to this information are alternately comforted by the knowledge that the magicians regulate their activities, and perturbed that they are organized. The authorities are generally content to allow them to police themselves. When charges of witchcraft are brought against a member of a hreppur, his stjori acts as his legal defender; but should a trial end in defeat, the hreppur abandons the defendant to the will of the court regardless of whether the trial was fair. The stjorir take pains to earn allies among local dignitaries and nobles for the benefit of their constituents, but if the magical and the mundane ever clash, they err on the side of the mundane.
 
 
-## *Relationship with the Muspelli*
+## Relationship with the Muspelli
 
 The hreppar of Raudskinna consider the Muspelli to be their most bitter enemies. For those who are pagan, the Muspelli are the most inimical foes possible since they are humans who have chosen to associate with the enemies of the gods. For Norse wizards who follow Christ, the fear that Muspelli inspire is not diminished; they are akin to diabolists of the darkest sort, since they are not just servants of the Devil, but those who actively seek the destruction of all humanity. There can be no accord between the two groups; and unfortunately for the future of Raudskinna, the magic of the Muspelli is the more terrible. Only their disorganization and comparative scarceness has prevented the Muspelli from wiping out the Norse magicians entirely.
 
-## *Relationship with the Order of Hermes*
+## Relationship with the Order of Hermes
 
 Contact between the Raudskinna and the Order of Hermes has been tenuous and sporadic. Several hreppar are aware of the existence of the Order, and they have been openly discussed. The prevailing attitude is tentative curiosity; the stjorir would like to know more about the Order, but since most contacts between the two groups of wizards have been either hostile or fleeting, the stjorir council caution.
 
@@ -5674,7 +5674,7 @@ The "Order of Odin" has been a bugbear to magi since Pralix's days, although the
 
 If the two sides ever do meet, they would probably be appalled at each other's practices. Members of the Raudskinna would detest the idea of isolating themselves from their families and society, and withdrawing from mundane activities and income. A magus would consider the Norse magicians to violate the central tenets of the Code of Hermes. Assimilation of the Norse wizards by the Order seems very
 
-## *Hermetic Integration and Muspelli Magic*
+## Hermetic Integration and Muspelli Magic
 
 No specific rules for Integration are offered in this chapter due to the unlikelihood of a Muspelli providing a magus with sufficient opportunity to gain a magical insight. In any case, integrating *utiseta* would require a complete redesign of Hermetic magic, since it is so dependent on channeling the power of the jotnar through an alternative form that is capable of withstanding the vast magical energies of an *utiseta*. However, a particularly brave researcher might survive the climate and monsters of the North long enough to pursue the following types of research:
 
@@ -5686,7 +5686,7 @@ No specific rules for Integration are offered in this chapter due to the unlikel
 
 unlikely, while mutual existence is hardly probable; so once the two groups formally meet, war seems a dreadful inevitability.
 
-## *Muspelli Saga: Approaching Twilight*
+## Muspelli Saga: Approaching Twilight
 
 Portents indicate that Ragnarok is approaching fast, and Muspelli are becoming more active on the orders of their patrons. Other Norse magicians have become aware that a peril they thought dead and gone is stirring once more. A saga based on this threat could involve characters who are Muspelli, other Norse magicians, or magi of the Order; although the latter only works if the characters are members of a northern Tribunal.
 
@@ -5703,9 +5703,9 @@ The Muspelli are not the only servants of the jotnar. Muspelli characters may fi
 Loki is prophesied to be the first jotun to break free, but there may well be pretenders to his name before this actually happens. A faerie who adopts the mythology surrounding the jotun-prince could cause havoc among vitkir and Muspelli alike, before its deception was uncovered.
 
 
-## *Chapter Five*
+## Chapter Five
 
-# *Sorcerers of Soqotra*
+# Sorcerers of Soqotra
 
 Soqotra, in the Arabian Sea's Gulf of Aden, is an island that is the stronghold of a caste of sorcerers. It is famous throughout Arabic lands, but the Order's members only became widely aware of it when an Arabic work was translated for the *Book of Roger —* a geographic compendium completed for the King of Sicily in the previous century. The wizards of Soqotra are famous, but only one detail is certain: they choose not to stray far from their island.
 
@@ -5723,7 +5723,7 @@ Soqotrans have three differing stories to account for the disappearance of the H
 
 Soqotran magic may have also gathered contributions from the states that came briefly to dominate its surrounding area. The Roman Empire, the Ethiopian kingdom of Axum, and the Imanate of Oman were, for a time, significant political and economic powers in the Red Sea.
 
-## *The Secret of Vis*
+## The Secret of Vis
 
 During the ancient wars, a magician of the Cinnabar Tribe discovered that magical creatures contain a substance that can be used to power spells, instead of the magical essences of the trees. Several younger spirits were slain for their vis, as a result. The King of the Olibanum Serpents killed that magician personally, and commanded that this never happen again. One of the effects of the dependence of Soqotran wizards on their spirits is that none of them know that the essences of the trees are simply examples of a broader class of magical substances.
 
@@ -5733,7 +5733,7 @@ The essences of trees can be used as vis by Hermetic magicians. Cinnabar vis is 
 
 Their magical practices may have been seen, and perhaps incorporated, by the Soqotrans. Soqotra is also regularly visited by traders from India and from even more obscure places further to the east.
 
-## *Organization*
+## Organization
 
 In 1220, Soqotra and some of its nearby islands are ruled by a caste of magicians. These magicians are only able to maintain their society with the continual aid of the magical spirits that act as their intermediaries and allies, circumventing the negative effects of their Gifts. Eight magicians are selected through a system of election and chance to form a ruling council called the Council of Tribes. These magicians communicate through spirit messengers, and practice governance through a small caste of unGifted assistants, who are usually descendants of magicians.
 
@@ -5743,7 +5743,7 @@ Each magician is specialized in one of these four styles of magic. Each tribe al
 
 The members of the Council of Tribes usually live in a gilded temple raised by Hellenic priests soon after their invasion, but they rarely truly meet. In most circumstances, they negotiate through messages carried by lesser olibanum
 
-## *Dueling*
+## Dueling
 
 Soqotrans, both magical and mundane, duel for prestige at public events by trading poems from memory. Each person recites a poem suited to a subject at hand, and then his rivals in turn recite. The person who runs out of poems last is deemed the wisest, which grants prestige and aids in negotiations. Soqotran wizards use this form of dueling instead of magical battle, since they lack a form of limited warfare equivalent to Hermetic certamen. This is mechanically an opposed roll of Communication + appropriate Magical Ability, or Communication + Folk Ken for duels between mundanes.
 
@@ -5753,7 +5753,7 @@ When the council meets, each councilor waits in a room that abuts a courtyard, f
 
 
 
-## *What's In The Box?*
+## What's In The Box?
 
 The altar of Serapis is not a solid block of gold; it is instead an ark. Arks are gilded boxes used to hold sacred objects. The King of the Olibanum Serpents always coils tightly about the ark when he brings the Council of Tribes together, but only the Myrrh Tribe suspects why. On the Myrrh Tribe's list of the dates of the births and deaths for gods, Serapis has no date of death.
 
@@ -5767,7 +5767,7 @@ and is under twenty one years of age, he does not vote in the ruling council. Si
 
 The Aloe Tribe is skilled in magic that restores damaged things. Its magicians are disproportionately women. Bitter aloes, which provide the vis for this tradition, are harvested only in years when the rain is good. This led, in ancient times, to the Aloe Tribe's defeat by the Olibanum Tribe, which has the ability to control the weather. The animosities between these tribes faded long ago, though. Today Aloe magic
 
-## *The Four Tribes*
+## The Four Tribes
 
 Each of the styles of magic practiced on Soqotra is practiced by a political group called a tribe. The members of a tribe almost never meet in person; spirits act as their intermediaries, instead. The Soqotran wizards believe this is an attempt to prevent the wars that led to the formation of the current political system, but it also allows the King of the Olibanum Serpents to control the flow of information between the Soqotran magicians. Each tribe's members are aided in their magical work by a group of allied spirits.
 
@@ -5775,7 +5775,7 @@ Each of the tribes is led by a potent spirit, which is related to the lesser spi
 
 All Soqotran sorcerers, regardless of their age, are instructed in a similar way. Magicians do not, in the Soqotran system, create other magicians and so there is no concept of apprenticeship. The one notable distinction is that if a magician is elected to the Council of Tribes by lot,
 
-## *Aloe Incense*
+## Aloe Incense
 
 Medieval European students of medicine are in two minds concerning aloe. Some claim that bitter aloe, a purgative medicine, and aloewood, resinous heartwood used as incense, come from the same tree. Others deny this. In this chapter it is assumed that the folklore that links aloewood and bitter aloes is false, because in the real world it is false. Player characters may not know this and troupes may prefer, for simplicity or thematic reasons, sagas in which bitter aloe does come from aloewood trees.
 
@@ -5797,17 +5797,17 @@ Like the Aloe Tribe's namesake, the plant from which cinnabar is taken is not fo
 
 Cinnabar can be harvested every two years, and the vis of the tree takes two years to form, although it can be stored in the tree for up to a further two years without loss. The magicians of this tribe do not, at the present time, co-ordinate their harvests. In the wars before the unification of the indigenous traditions, it was common for a group of Cinnabar magicians to all harvest their vis at the same time, and use this material for pre-emptive strikes on their enemies. Burning the cinnabar trees, an obvious tactic when fighting Cinnabar sorcerers, offends the spirits of all of the tribes, and so has never been widely practiced during Soqotran warfare.
 
-## *Cinnabar Incense*
+## Cinnabar Incense
 
 The term "cinnabar" is used for two completely different substances, one mineral and the other vegetable, which can both be used as a blood red dye. Pliny notes that even doctors find them confusing, which sometimes leads to the death of their patients. Mineral cinnabar cannot be used as incense. Veg-
 
 etable cinnabar is stored as garnet-colored droplets that are ground to powder before being mixed with fuel to make conventional incense. Soqotran sorcerers do not need to do this when casting their spells, although they usually do if the spell has Censer Duration. Cinnabar has an earthy, tangy smell.
 
-## *Myrrh Incense*
+## Myrrh Incense
 
 Myrrh incense is a reddish-brown resin, with stronger incense having a darker color. It has a heavy, earthy smell that is slightly bitter. It is associated in much of Mythic Europe with funereal customs. It is also used in anointing oil, particularly among Eastern Christians. Myrrh does not need to be ground to powder when mixed with fuel for burning, as it does not liquefy as many other resins do.
 
-## *Olibanum Incense*
+## Olibanum Incense
 
 Olibanum incense, called "frankincense" in English, is a resin that is pale yellow and chunky. The paler and more opaque the incense, the greater its quality is. Large single pieces are of higher quality than combined smaller pieces of the same weight. Olibanum is ground and mixed with fuel before use as conventional incense. Soqotran sorcerers may, however, use it in the raw form. They usually prefer to grind it if casting spells with Censer Duration. This has no mechanical advantage, but is seen as the correct way to treat the essence. Olibanum smells spicy, resinous, and slightly citric.
 
@@ -5832,7 +5832,7 @@ Magical olibanum is collected only for a fortnight each year, when the star Siri
 
 Theophrastus, a student of Aristotle, records that sailors were sent by Alexander the Great to spy out Soqotra. When they arrived on the island they were thirsty and ventured inland to look for water. Seeing no guards, they stole olibanum and myrrh from the trees. Unskilled harvesters usually damage the trees. This theft and injury may have led to the alliance of the Olibanum and Myrrh Tribes, traditionally rivals, against the Greek invaders.
 
-## *Character Creation Notes*
+## Character Creation Notes
 
 A Soqotran sorcerer is designed using the rules in the core book, with slight changes.
 
@@ -5867,17 +5867,17 @@ During subsequent training, which often takes 15 years, Soqotran sorcerers earn 
 For every additional year, the character earns 30 points that may be spent on Abilities at the rate of 1 point per experience point, or may be spent on spells at the rate of 3 levels for every 5 points.
 
 
-## *Lesser Traditions*
+## Lesser Traditions
 
 There are a few hedge witch traditions on the island, members of which are best constructed using the rules given in *Hedge Magic Revised Edition*. Soqotran hedge witches are skilled at cursing people, particularly to cause sickness, transform victims into civets, or ruin crops with poor weather. Some hedge witches can call up evil jinniyahs to cause mischief. The witches of Soqotra are also renowned throughout the Arabic lands for their ability to bewitch sailors with their smiles so that boats run aground on rocks, and to transform into seals.
 
 On Soqotra using witchcraft, particularly to harm others, is a crime. Those accused are tested by being weighted with heavy stones and dropped into deep water, then pulled back to the surface. If the accused has mud, sand, or pieces of shell on her feet, she is pronounced innocent. If she fails this test three times, then she is securely bound and returned to shore. The leader of her community then coats her head and eyebrows with the sap of a local tree. This makes all of her hair fall out, and prevents its regrowth. The woman is then shipped off the island on the next available boat, and forbidden to return. This test technically only determines if the woman is a witch, not if her powers were ill-used. There are some male witches of Soqotra, but female ones are far more common.
 
-## *Magical Abilities*
+## Magical Abilities
 
 Soqotran magicians have access to four Supernatural Abilities, called Aloe Magic, Cinnabar Magic, Myrrh Magic, and Olibanum Magic. They may be used to produce spell effects according to the following formula.
 
-### *Rival Magic*
+### Rival Magic
 
 **Casting Total:** 
 
@@ -5887,7 +5887,7 @@ A character who meets or exceeds the spell level casts successfully. A character
 
 As a rule for the construction of nonplayer characters, Soqotran sorcerers of equal age to a new Hermetic magus will have a score of 5 in the Ability favored by their tribe, with a +2 bonus due to Puissance. The leaders of each tribe will usually have a score of 9, with a +2 bonus for their Puissance. Some characters, with Affinities in the Ability of their tribe, reach these scores more quickly than their tribemates. Rather than racing to greater heights of power, they tend to broaden their study into the abilities of the other three tribes.
 
-## *Sources of Power*
+## Sources of Power
 
 Soqotran sorcerers gain their power from several sources. The sorcerer gains the highest bonus in each category.
 
@@ -5960,7 +5960,7 @@ Note that several of the powers given below are similar to, but cannot be simula
 
 *Teeth:* Init +3, Attack +14, Defense +12,
 
-## *New Major Flaw: Vulnerability (Tree)*
+## New Major Flaw: Vulnerability (Tree)
 
 Three of the four types of spirit ally on Soqotra die, or are at least banished to their respective realms, if their tree is destroyed. The tree shares the spirit's Magic Resistance, and the spirit can tell when its tree is harmed. It can always find the direction of its tree with a Concentration + Awareness roll of 6+. Herons of light do not have this flaw.
 
@@ -6198,11 +6198,11 @@ These creatures refer to themselves as "olibanum serpents," but from a Hermetic 
 
 **Abilities:** Awareness 3 (supernatural things), Bargain 3 (sorcerers), Brawl
 
-### *Rival Magic*
+### Rival Magic
 
 7+2 (bite), Charm 2 (magic users), Dominion Lore 2 (Soqotran), Etiquette 2 (magic users), Faerie Lore 2 (Soqotran), Finesse 1 (moving objects), Folk Ken 4 (Soqotran festivals), Olibanum Magic 9 (teaching), Guile 1 (magic users), Infernal Lore 2 (Soqotran),Magic Lore 5 (Olibanum), Magic Sensitivity 3 (places), Penetration 2 (Olibanum), Soqotra Lore 3 (magical places), Sorcerers of Soqotra Lore 4 (motivations), Speak Socotri 5 (magic users), Swim 1 (sea), Teaching 4+2 (sorcerers).
 
-#### **Powers:\*\*\***
+#### **Powers:\\\**
 
 *Gift of Vigor:* 0 points, Init –7, Corpus
 
@@ -6416,7 +6416,7 @@ Soqotran magicians use three styles of censer. **Braziers** are used when castin
 
 **Perpetual:** Soqotran sorcerers believe, and are taught, that magic does not expire unless specifically designed to do so. It is possible to dispel magical effects by crushing them with more powerful magic, by having a spirit consume its own magic (described later), or by bringing magical objects into contact with items close to the Divine, but these are exceptions. Spellcasting in general is thought of, by Soqotran sorcerers, as the creation of a naturally
 
-## *A Table of Comparisons*
+## A Table of Comparisons
 
 | Range, Duration, H | ermetic Equivalent H  | Far? How<br>Long?<br>ow                                  |  |  |
 |--------------------|-----------------------|----------------------------------------------------------|--|--|
@@ -6522,7 +6522,7 @@ Aloe 30
 
 R: Touch, D: Regrowth, T: Individual This spell removes the Impotence
 
-## *Aloe Magic Guidelines*
+## Aloe Magic Guidelines
 
 Aloe magic restores things, even things that have been seriously damaged by magic or natural forces. It can lend a biological attribute to damaged objects, so that they regrow their lost parts. The table below assumes that the base Range is Personal, and the base Target is Individual. The base Duration is Regrowth. Note that no Aloe effect is designed specifically for the person it is cast upon, and so the Warping rules apply.
 
@@ -6553,7 +6553,7 @@ Aloe magic restores things, even things that have been seriously damaged by magi
 \* Note that Aloe magic does not work on many Virtues and Flaws, and troupes should consider each spell's appropriateness. Social status, for example, cannot be altered using these spells. Similarly, characters marked by other Realms, by Warping, by inadequate teaching as an apprentice, or by age are unlikely to find relief through these spells.
 
 
-## *Seeding*
+## Seeding
 
 Spells like *The Fresh Minting of Swords* demonstrate a trick that Aloe magicians use called "seeding." Seeding is the duplication of objects by removing a small portion of a complete object, and then using Aloe magic to have this portion regrow to wholeness. This sliver is called a "seed," hence the name of the technique. Aloe magicians, and those who traffic with them, prize useful seeds.
 
@@ -6597,7 +6597,7 @@ R: Touch, D: Censer, T: Individual
 
 This spell allows a player to use the roll his character makes directly after the spell is cast in future rounds, until the duration of the spell expires. The player may choose not to continue to use the roll, which causes the spell to end.
 
-## *Cinnabar Magic and Aging*
+## Cinnabar Magic and Aging
 
 Characters skilled in Cinnabar magic age more slowly than mundane humans. This power does not stack with similar effects offered by other traditions of magic. A character making an Aging Roll may claim a Longevity Ritual modifier equal to half the character's score in Cinnabar Magic. As soon as the character does this the first time, he or she gains a Warping point and loses the ability to have children. The character then gains a Warping point every year, much as magicians with Hermetic Longevity Rituals do, because their life is being, in part, sustained with mystical energy.
 
@@ -6648,7 +6648,7 @@ This spell, used for the defense of the island and to aid piracy, makes the crew
 
 Cinnabar Magic Level 21 (Base 9, +3 Touch, +6 Group, +3 Censer) / MuCo 35 (Base 15 +5 Touch +10 Group)
 
-## *Cinnabar Magic Guidelines*
+## Cinnabar Magic Guidelines
 
 The cinnabar tree has magic that preserves things, such as health and luck. The spell effects of this tribe last a very long time, and its most-skilled users live to tremendous ages. There are relatively few young magicians skilled in Cinnabar magic, but most older magicians in the other three tribes learn at least a little, to extend their span of years.
 
@@ -6816,7 +6816,7 @@ This spell allows Olibanum magicians to order the wind to draw a vessel to any p
 
 Olibanum Magic 33 (Base 21, +9 Sight, +6 Censer) / CrAu 55 (Base 35, +15 Sight, +10 Censer)
 
-## *Olibanum Magic Guidelines*
+## Olibanum Magic Guidelines
 
 Olibanum magic allows its users to issue magical commands. Of the four styles of magic practiced on the island, Olibanum magic is most similar to a style of Hermetic magic. Rego specialists can produce many of the effects produced by Olibanum magic. The only substantial weakness of Olibanum magic compared with Hermetic Rego magic is that Rego permits orders that are implied, whereas Olibanum magicians have never learned that this is possible; indeed, it may not be for Soqotran magic.
 
@@ -6857,7 +6857,7 @@ The base Range for these spells is Personal, the base Duration is Momentary, and
 **Ease Factor 24:** Control all visible parts of an object of enormous size, like the ocean, sky, or mountains.
 
 
-## *Advancement*
+## Advancement
 
 Soqotran wizards are trained in magic by other magicians, their spirit allies, or by the other members of the spirit tribe to which their ally belongs. Soqotran sorcerers could learn from books or vis, but do not. Their society has been designed (by the spirits) so that they do not understand the potential of vis, and do not scribe magical books.
 
@@ -6871,7 +6871,7 @@ A Soqotran wizard gains levels toward spells each season that he studies with a 
 
 **Levels Gained Under Sorcerer Teacher Each Season: Teacher's Communication + Magical Ability + Teacher's Sources of Power\* – Ease Factor of the spell, until gained points equal Ease Factor**
 
-### *Rival Magic*
+### Rival Magic
 
 \* Sparks used are limited by the teacher's score in the appropriate Magical Ability.
 
@@ -6894,7 +6894,7 @@ Instead of suffering Twilight, Soqotran sorcerers transform into the shape of th
 
 These trees are magical, and after many years of care they produce vis. After many more years they develop the capacity to generate spirit guardians. Many Soqotran sorcerers believe that these spirit guardians are, in fact, the dead sorcerers themselves, returned through a form of spiritual transmutation. It does appear that some of the memories of the magician are vested in the spirit guardian of his tree form, but this is an inconclusive proof.
 
-## *Resources*
+## Resources
 
 The Soqotran sorcerers are unusual, from a Hermetic perspective, in that their tradition has access to the complete resources of a kingdom. The islands of the archipelago, although they are admittedly small and distant from the Order, are rich in desirable products like incense and metals, and have access to trade links that stretch as far as Serica.
 
@@ -6938,7 +6938,7 @@ Soqotra is on an ancient trade route, an alternative to the overland Silk Road. 
 
 Soqotra is a perfect haven for pirates. It lies on a valuable and highly trafficked
 
-## *The Church in Soqotra*
+## The Church in Soqotra
 
 The Soqotran Church is a Nestorian Church that was founded by St. Thomas when he was shipwrecked on the island in 52 AD. It is headed by a bishop who is appointed by the Patriarch of the Assyrian Church, and its writings use the East Syriac script. The Bishop of Soqotra does not approve of magic, and has formally condemned its sinfulness to the inhabitants of the island on many occasions, but the locals simply don't agree. They counter that magic is their ancestral custom, and that as such they will continue with it. Most Soqotran sorcerers are practicing, although not fervent, Christians. The bishop does not excommunicate them, because he feels that would just make matters worse.
 
@@ -6965,7 +6965,7 @@ There are several Soqotran creatures that have unusual magical abilities. The so
 The **Soqotra chameleon** is an unusual animal that contains a pawn of Imaginem vis. In addition to the power of changing its color to match its surroundings, it has the ability to steal a man's voice simply by staring at him. The power, similarly, prevents animals from crying out. The sorcer-
 
 
-## *Ambergris*
+## Ambergris
 
 Ambergris is a grey waxy substance usually found floating in the sea, or in the digestive tracts of whales. It is highly valued as medicine and as a base for perfume. Soqotrans extract ambergris from the whales they kill, and often find it washed up on beaches. There are two stories that explain the tremendous amount of ambergris found in these waters.
 
@@ -6985,13 +6985,13 @@ The **red leaper** is a sort of serpent that hides in a burrow beneath the earth
 
 These serpents are used individually as traps, but can also be commanded in
 
-## *Story Seed: The Lost City of Ubar*
+## Story Seed: The Lost City of Ubar
 
 The olibanum serpents recall that in ancient times there was an even more powerful king than their own. He dwelt near a town called Ubar, famous for its olibanum. The Koran records that God pushed Ubar into the sands, as chastisement for the spiritual transgression of her people. Ubar is another name for Irem, the City of Pil-
 
 lars, fabled for its incredible wealth. A Soqotran magician might pretend to be from Ubar when making contact with Hermetic magi, or if interrogated. An expedition to Ubar by Hermetic magi would force the King of the Olibanum Serpents to respond, since it hides information and power he wants to remain hidden.
 
-## *Saga Seed: The Flower of Immortality*
+## Saga Seed: The Flower of Immortality
 
 The story of Gilgamesh is little known in the European part of Mythic Europe. It is the saga of a great hero king, part god, who fears death and completes a series of quests to find death's cure. At the end of his quest, Gilgamesh goes to an island and plucks a flower from deep beneath the water. Following this, he goes to a cool lake to bathe, and a serpent steals the flower and eats it. Some students of Soqotran lore think the flower was a coral, and Soqotra is one of the few places near the
 
@@ -7004,7 +7004,7 @@ The sorcerers of Soqotra are not driven by a hatred of the Order, and lack any d
 
 Conflict between parts of the Order and the Soqotrans may, however, become inevitable. The Soqotrans do believe that the Order is likely to attempt to exterminate or enslave them, which makes them aloof and secretive with the magi. For this reason, too, initially they are unwilling to enter into talks with House Ex Miscellanea or other ambassadors of peace. And of course, there are elements in the Order who, once they discover how rich the Soqotrans are, live up to Soqotran prejudices.
 
-## *Ali, Known as Thomas, a Young Warrior of the Olibanum Tribe*
+## Ali, Known as Thomas, a Young Warrior of the Olibanum Tribe
 
 This young sorcerer is keen to test himself in battle, but his olibanum serpent and superiors know that he has little experience and may find mystical threats too difficult to deal with. His body does not react normally to Cinnabar magic, so he will age at close to the normal human rate. Knowing this, he has specialized in military magic, determined to lead a glorious, if brief, life. This character is designed to substitute for a player character Hermetic magus of similar age.
 
@@ -7055,7 +7055,7 @@ bone weapons, although not, unfortunately, claws. (Base 3, +6 Sun)
 **Appearance:** A young man of Arabic heritage.
 
 
-## *The Current State*
+## The Current State
 
 In 1220 the sphere of influence that the Soqotrans maintain, in order to ensure grain deliveries to their islands, is on the very fringes of the Hermetic world. The two groups are beginning to become aware of each other, although the information they have is incomplete and misunderstood.
 
@@ -7074,7 +7074,7 @@ The Soqotrans know rather more about the Order than the Order knows about the So
 
 The Soqotrans have a good idea of the structure of the Order, insofar as they know the names, philosophies, and preferred magical styles of the various Houses. They know Tribunals exist, and that they are law-making bodies. They know of the Redcap network, and what it is for. The King of the Olibanum Serpents and Queen of Myrrh have some understanding of the diversity of Hermetic spells, and it is clear to them that Hermetic magic is more powerful than their own. They are aware that Hermetic magi have generic Magic Resistance, although they don't know how the Parma Magica or Aegis of the Hearth work.
 
-## *Points of Potential Conflict*
+## Points of Potential Conflict
 
 Soqotran wizards might come off their island and contest with Hermetic magi for a variety of reasons.
 
@@ -7094,7 +7094,7 @@ A permanent Hermetic presence in the Red Sea triggers an information-gathering r
 
 In this scenario, at least initially, there is no war between the Order and the Soqotrans, merely between the sorcerers and local covenants — perhaps including the covenant of the player characters. On this scale, the Soqotrans are far more threatening. It may be that distant members of the Order do not see a benefit in contesting for power with a remote, if powerful, hedge tradition.
 
-## *Can the Order Ever Have Peace With Outsiders?*
+## Can the Order Ever Have Peace With Outsiders?
 
 There is the possibility that a Grand Tribunal might nominate the Soqotrans as "allies of the Order." The Code theoretically states that all magi must accept the allies of the Order as their own allies. What this means in practice is unclear, because a group as potent as the Soqotrans has never been permitted to continue to exist in the Hermetic area of influence. Can magi, for example, declare Wizard's War on individual Soqotrans if they are allies of the Order? Can magi cheat them in mercantile transactions, and if they do, how is this resolved? The Order's mechanisms for maintenance of peace are weak, but the Order's more peaceful magi know this, and a series of stories might be constructed around a special covenant set up to develop and police the relationship with the Soqotrans.
 
@@ -7122,7 +7122,7 @@ The King of the Olibanum Serpents needs an excellent reason to break his policy 
 
 An Order that is merely humbled, either by civil war or by successful war against a powerful external group like the Amazons, might draw the King of the Olibanum Serpents into negotiation. A weakened Order is more likely to agree to the king's demands for non-interference and the establishment of the Gulf of Aden and the Red Sea ports as an area for the exclusive use of his sorcerers. In this scenario, the king hopes that distance, wellwishes toward an ally, and careful politics will protect his people from the more violent Houses.
 
-## *Events That May Lead to Conflict or Détente*
+## Events That May Lead to Conflict or Détente
 
 Some events may push the two groups of magicians into each other's way, with only luck deciding if the contact is belligerent or amicable.
 
@@ -7143,7 +7143,7 @@ When there were but two gardens, one observed and one reported, there was some c
 
 The meaning of this pattern isn't clear. Each serpent, if asked, will answer from his own cosmology. Ladon may think that Soqotra was an Atlantean colony. The King of the Olibanum Serpents will believe that the Garden of the Hesperides is another concentration of magic, like Soqotra. Either explanation — that the gardens were left as markers by an ancient, waning society to aid those who followed, or that the gardens are a pattern that naturally recurs in places of great magical significance — leads to stories. If the gardens were left by a falling civilization, what other aids, and what sleeping threats, have they also left behind? If the gardens naturally occur, then are there others — where are they, and can the mystical links between them be used for communication or travel?
 
-## *Hermetic Breakthroughs from Soqotran Magic*
+## Hermetic Breakthroughs from Soqotran Magic
 
 A number of breakthroughs are possible to researchers who incorporate Soqotran magic into Hermetic practice.
 
@@ -7167,7 +7167,7 @@ The Perpetual Duration is a Hermetic Breakthrough. It is of great interest to al
 
 The ability to preserve luck (or from the player perspective, dice rolls) would be invaluable in mundane combat. How this feature of Soqotran magic works is unclear
 
-## *A Note on History*
+## A Note on History
 
 Oral folklore records that when Soqotra was invaded in 1800, the Wahhabi destroyed every book on the island that was not the Koran. There is no record, written by the Soqotrans themselves, concerning what their beliefs were during the medieval period.
 

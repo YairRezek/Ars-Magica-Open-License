@@ -1,5 +1,5 @@
 
-# *Credits*
+# Credits
 
 **Authors:** Erik Dahl, Timothy Ferguson, Mark Shirley
 
@@ -31,7 +31,7 @@ Copyright 2006 Trident, Inc. d/b/a Atlas Games. All rights reserved. Reproductio
 **Digital Edition Version 1.0**
 
 
-# *Table of Contents*
+# Table of Contents
 
 | Introduction                      | 4 | True Names 34                          |    | Mythic Companion: Devil Child 100   |     |
 |-----------------------------------|---|----------------------------------------|----|-------------------------------------|-----|
@@ -88,13 +88,13 @@ Copyright 2006 Trident, Inc. d/b/a Atlas Games. All rights reserved. Reproductio
 |                                   |   |                                        |    |                                     |     |
 |                                   |   |                                        |    |                                     |     |
 
-# *Introduction*
+# Introduction
 
-# *Mythic Evil*
+# Mythic Evil
 
 Welcome to *Realms of Power: The Infernal*, the second in the series of **Ars Magica Fifth Edition** supplements dealing with the supernatural realms of Mythic Europe. In *The Infernal*, you will explore the insidious evil that lurks outside the boundaries of every covenant's *Aegis of the Hearth*, that plots the downfall of every person's immortal soul, and that craves and encourages every sort of vile and immoral activity imaginable. From the demons born in the bottommost pits of Hell to the mighty angels fallen from Heaven, this book explores the armies of the Infernal realm, who seek to bring low the mighty and cover the land in shadow. From the poor souls misled by their wiles to the depraved folk who serve the Devil in exchange for temporal power, this book explores the followers of the Infernal realm, who seek to spread its corruption like a pestilence. And from the magic of the tall and mighty towers of magi to the miracles of the humble parish church, this book explores the enemies of the Infernal realm, whom the Infernal will stop at nothing to defeat.
 
-# *What is this Book?*
+# What is this Book?
 
 *Realms of Power: The Infernal* is a resource designed to help **Ars Magica** storyguides and players incorporate the Infernal realm into their sagas. It supplements, expands, and updates the sections The Infernal Realm (ArM5, page 186) and Infernal Creatures (ArM5, pages 196–198) in the main rulebook. While the material is based on real-world beliefs and practices, it is not intended to be an occult primer or historical reference. The stories this book encourages are works of fiction, involving imaginary characters engaging in what may be frightening or immoral activities, shared among players with enough maturity to decide for themselves what is right and wrong.
 
@@ -102,7 +102,7 @@ It is organized to read best from front to back, starting with this introduction
 
 For the most part, this book consists of entirely new material for **Ars Magica**, with setting information and many new rules specific to the Fifth Edition. Those elements of it that were inspired by ideas found in supplements for previous editions of the game have been substantially revised and rewritten for use with this incarnation. Nevertheless, the stories and settings incorporating the Infernal realm into Mythic Europe that have been published before are still compatible with the game suggestions presented here, with only a few generally mechanical modifications.
 
-# *Using this Book*
+# Using this Book
 
 **Ars Magica** focuses on myth and magic, in a setting where the Infernal realm is typically less immediate and players are more concerned with study, adventure, enchantment, and discovery. The Infernal realm's role is usually that of an antagonist, a threat to be avoided or dealt with quickly and decisively. How can this book be used to improve that setting? Here are some suggestions for incorporating the Infernal realm into that sort of game.
 
@@ -123,7 +123,7 @@ Simply put, the Infernal is terrifying. Horrors gather beyond the boundaries of 
 
 when appropriate, and the Infernal realm certainly makes for a good scare.
 
-## *Subtle Corruptions*
+## Subtle Corruptions
 
 Another way to use the Infernal realm in **Ars Magica** is to subtly change the focus of an existing saga, making the Infernal a more prominent part of the setting. Since you will be playing this out with a group of players, you should make sure they are willing to accept this new direction, as it may not be what they want to do with their characters. Or, if you play in a troupe with multiple storyguides, you might have one storyguide adopt the Infernal realm as a focus, and this player can oversee evil as one aspect of the shared setting. Here are some methods you might use to "corrupt" the game and make the Infernal a more prominent theme.
 
@@ -146,21 +146,21 @@ It might be that the best way to incorporate the Infernal into your game is thro
 
 Powers. They may bear a grudge against the Infernal, and seek to thwart it or destroy its servants at every opportunity. Or perhaps they have an evil secret, and are actually infernalists themselves. There are many ideas in this book for ways in which players can incorporate the Infernal realm into their characters, and these choices often suggest good directions for the saga all by themselves.
 
-## *In the Dark*
+## In the Dark
 
 An interesting storytelling device in a saga with this sort of direction is to incorporate the Infernal into the setting in such a way that the players are left in the dark as to the specifics of its involvement. A great evil lurking in the shadows inspires paranoia and social politics that can develop into powerful character interaction and new goals for players to pursue.
 
 
-#### *Realms of Power*
+#### Realms of Power
 
 
 However, it is a good idea to discuss this sort of focus with the troupe before beginning, so that the players are ready for the experience and can place themselves in the proper frame of mind. In a saga defined to integrate the Infernal from the very start, it is much easier for players to relinquish total control of their characters to allow for exciting surprises later.
 
-## *A Final Note*
+## A Final Note
 
 As *The Infernal* is about mythic evil, often you will be focusing on ideas and imagery that many players may find disturbing. This can heighten the tension by increasing your emotional investment in the game, but it can also offend players, making the experience unpleasant or even painful for them. You might want to establish some ground rules for cir-
 
-## *Bibliography*
+## Bibliography
 
  The following books are cited here as the authors' source material, and also as suggested reading for players interested in learning more about the various forms of evil that manifested in the Middle Ages and Mythic Europe.
 
@@ -201,13 +201,13 @@ Tweet, Jonathan and Nephew, John (1998) Festival of the Damned: Anniversary Edit
 cumstances that require a "fade to black," where the scene ends without describing certain events in detail. This serves two purposes: it helps make sure that no player will be made personally uncomfortable with playing out a particular scene, and it also gives the storyguide a better idea of what sort of story elements might have a powerful emotional effect on the other players in the game. For example, a player might make it clear that he is very uncomfortable with the idea of human sacrifice. Thus, the storyguide knows not to dwell too closely on that idea in the game, but also knows that the concept of human sacrifice will negatively affect that player. Antagonists who commit sacrifices will seem much more evil to that player, and it will be that much more satisfying for him to help defeat them.
 
 
-## *Chapter One*
+## Chapter One
 
-# *The Infernal Realm*
+# The Infernal Realm
 
 This chapter delves into the origin and nature of evil. Discussed here are the ponderings of theologians of all faiths on the types of evil, and how evil came to exist in a universe created by a supremely good God. This chapter also explores the nature of the Infernal realm itself, and the manifestations of its corruption on earth in the form of auras, regiones, and Infernally tainted vis.
 
-# *The Origin of Evil*
+# The Origin of Evil
 
 *But the Shaitan made an evil suggestion to him; he said: O Adam! Shall I guide you to the tree of immortality and a kingdom which decays not?* 
 
@@ -215,11 +215,11 @@ This chapter delves into the origin and nature of evil. Discussed here are the p
 
 Evil and the Infernal realm are synonymous terms; while the first may be considered a quality and the second a location, in reality they refer to exactly the same thing — the sum total of all the opposition to the desires and needs of individuals, and thus the source of all the sufferings of the world. All evil is negative rather than positive; it results not from the acquisition of something but rather the loss or privation of something. Evil implies a deficiency in perfection, hence it cannot exist in God who is by nature infinitely good; it is found only in finite beings, which, because of their origin from nothing, are subject to privation, and, through the opposition they encounter, are liable to an increase or decrease of whatever perfection they possess in the first place.
 
-## *Magic and Metaphysical Evil*
+## Magic and Metaphysical Evil
 
 Magic is often used to acquire capabilities that are not otherwise natural human capacities, such as spells that allow one to breathe water, to fly, to turn into an animal, and so forth. The goal of the magus is therefore to exceed the limitations of his own nature, that is, to overcome metaphysical evil. In Mythic Europe — where magic is known to exist — this apparently noble goal may help explain why the Church is so wary of magic. Only God is entirely free of metaphysical evil, so the use of magic in this manner is seen by some as an attempt to become like God, but without God's assistance — a tragic mistake of hubris. Some Christian magi argue that privation of The Gift in mundanes constitutes metaphysical evil in its own right, but this too seems dangerously close to excessive self-importance.
 
-## *Evil and Sin*
+## Evil and Sin
 
 Evil and sin are not the same thing. Only moral evil constitutes sinful behavior, acting in a manner that is not in accord with reason informed by the Divine law. Thus, experiencing suffering is not sinful, but it is physical evil. Causing suffering is a moral evil, and thus a sin. For more information, see Chapter 2: Sin and Redemption.
 
@@ -230,13 +230,13 @@ Theologians divide evil into three kinds: moral, physical, and metaphysical. Fir
 Limitations or privations imposed by one's own nature constitute **metaphysical evil**. Many would not consider metaphysical evil to be true evil, for it is the negation of a greater good, or the limitation of finite beings by other finite beings. Thus, the need for predatory animals to kill and the suffering caused by a desert climate both constitute metaphysical evil. The difference from physical evil is that this deprivation or limitation of a being is due to the being's own nature. Drowning is not a physical evil, because humans (unlike fish) do not have a nature that allows them to breathe water, even though it would be useful. However, lacking the ability to breathe water causes
 
 
-## *The Other Side*
+## The Other Side
 
 In the writings of the Jewish Kabbalists it is said that when God created (or rather, emanated) the world, it was necessary for him to limit his power. Had God not done this, there would have been no world in which finite, mortal entities could exist, no differentiation between the infinite Godhead and his creation. However, by constraining his boundless mercy with divine justice in this way, God defined a point where Creation is, and where Creation is not — the other side (in Hebrew, *sitra achra*), or the Infernal realm. The Kabbalists claim that the Infernal realm lies on the left-hand side of God, in the hole of the great abyss, and is ruled over by the Princes of Evil. It is composed of ten unholy spheres (called *qlippot*, or "shells"), which are perversions of the ten holy spheres (the *sefirot*) that govern God's creation.
 
 privation to a drowning man, and is thus a metaphysical evil. This is an evil for which none but the Creator can be held accountable.
 
-## *The Source of All Evil*
+## The Source of All Evil
 
 *God judged it better to bring good out of evil than to suffer no evil to exist.* 
 
@@ -250,7 +250,7 @@ However, the three major Divine religions uniformly attribute moral evil to the 
 
 The Infernal realm, then, as the embodiment of evil, is a distorted reflection of God's Creation. It has no energy of its own and is parasitic on the divine light for its activity. The Infernal realm would be harmless were it not for mankind, whose sins provide it with sufficient power to bring catastrophe to the world. Although the Infernal realm is not an entity that is independent of God, it frustrates the spiritual development of God's world. As the evil inclination, it leads man into sin and conceals holiness like a shell.
 
-## *The Place of Punishment*
+## The Place of Punishment
 
 *Begone from Me, accursed ones, to the eternal fire which has been prepared for the Devil and his angels.* 
 
@@ -261,7 +261,7 @@ The Infernal realm is not only the origin of mortal temptation and physical evil
 Holy Scripture uses two quite different terms for Hell. **Gehenna** (translated as *Tartarus* in Latin) is a place of hell-fire and brimstone, where weeping tears, creaking of teeth, and torment are eternal for those souls condemned to live there. This is the place most often described by Jesus and the Apostles when describing the damnation awaiting those who sin. However, Scripture also speaks of **Sheol** (translated as either Hades and Infernus in Latin); this
 
 
-## *The Geography of Hell*
+## The Geography of Hell
 
 In the 13th century, a tract called *Espurgatoire seint Patritz* (The Purgatory of St. Patrick) was widely circulated in Europe. It was translated into the vernacular sometime in the late 12th century by Marie de France, and described a mystical vision of the torments of Hell. In the poem, a knight is dragged by demons through Hell, where he witnesses the suffering of sinners as a series of different torments. He only escapes joining each torment by remaining true to his faith. The punishments he sees are as follows:
 
@@ -280,11 +280,11 @@ The knight eventually escapes by crossing a narrow bridge over a deep lake, and 
 
 term refers to a place of eternal darkness, where the dead are not punished physically but rather are deprived of Heaven, a torment of the soul rather than the body. This is equivalent to the limbo of Christian belief, which is the destination of the just who die in original sin but not mortal sin. Sheol is also used as a hypostasis for "the grave," referring to death in general.
 
-## *The Infernal Realm and Hell*
+## The Infernal Realm and Hell
 
 **Christian** cosmology places Hell as remote as possible from God's abode, for the damned are utterly estranged from God's love. Although God is omnipresent, he is said to dwell in Heaven, so Hell, which is a state of separation from God, is hidden in the dark abysses of the earth, divorced from the Divine light. For Christians, Hell is the place of punishment after death, and thus combines both Gehenna and Sheol. When theologians use the term Hell they may be referring to one of four different places:
 
-## *One Way Trip?*
+## One Way Trip?
 
 A common motif in legends is the possibility of escape from the torments of Hell. Stories involving a Hell-rescue are not suitable for all styles of saga, although some troupes may derive much enjoyment from planning and executing the release of a favored character. Stories such as these are really suitable for more high fantasy sagas, and should be the subject of a number of sessions of play. The first thing to consider is whether a soul *can* be saved. The disposition of souls after death is by Divine fiat, and is thus infallible. There is no possibility that a soul might be mistakenly sent to Hell, due to the omniscience of God. However, it may be possible that the agency of the Infernal might unjustly trap a soul in Hell. A demon might be able to drag a soul with it to the Pit, or the character may get caught in a devouring regio (see Infernal Regiones, below). In these cases, a rescue might be possible, although exceedingly difficult. First there is the matter of reaching the Gates of Hell, getting past any guardians set there by either God or the Devil, and then locating the specific soul amongst the millions of damned. The return trip is just as hard, with the rescuers likely as not pursued by the demons charged with the punishment and captivity of sinners.
 
@@ -309,13 +309,13 @@ In **Islam**, Hell has seven gates and seven houses, and the tormented souls are
 
 **Judaism** also holds that Hell has seven degrees of torment by cold, fire, and despair, and that a soul sentenced there passes through a diversity of punishments in each realm. *Sheol* is the depths of the earth where man is separated from God's love, *Abaddon* is Perdition, *Titahion* is the Filthy Mire, *Bar Shasketh* is the Pit of Destruction, *Tzelmoth* is the Shadow of Death, *Shaari Moth* are the Gates of Death, and *Gehinnom* is Hell itself. No one is to remain in Hell forever; after twelve months they are rescued by an angel and taken to Paradise. Only three sins damn one to Hell until its torments consume the sinner forever: denying the existence of God, denying the authority of the Divine over mankind, and rejecting the resurrection of the dead.
 
-# *Infernal Auras*
+# Infernal Auras
 
 Infernal auras are regions of distilled evil that emanate from the Infernal realm like the tendrils of a tumor. They are places where the powers of Hell have managed to achieve a foothold, either through the actions of sin or the direct intervention of Infernal powers. In most places in the world, evil is forced to be insidious and subtle in its activities; in Infernal auras, however, those restraints are removed, and evil reigns unbridled.
 
 At low aura strengths (1–2), Infernal auras may be difficult to recognize. Tempers may become short, and old arguments may resurface. Those who are more introverted in their behavior tend to become paranoid or acutely depressed. Storyguides should ask for Personality rolls more frequently, to rein in these unusual impulses. These effects are enhanced in moderately powerful Infernal auras (3–5), but such auras also have a physical effect on the environment. Natural plant growth is stunted, and poisonous vegetation and toadstools abound. Ill humors waft on the air, and objects are covered in a greasy coating. In auras that are more powerful still (6–8), the landscape might be twisted beyond all recognition, and hazardous to health. In wilderness regions, the sickly fruit of twisted trees may be poisonous to touch, and predatory animals are common, with no fear of mankind and filled with bloodlust. If the aura is underground, it is probably stiflingly hot, and the ground may spout flames. Demons abound in such auras (although they are rarely perceived) and they use their Envisioning Power (see Chapter 4: The Infernal Legions, Common Powers) to create delusions to haunt the visitor. The most powerful Infernal auras (9–10) are quite literally Hell on earth. Every moment that humans linger they are bombarded with hellish hallucinations and powerful Obsessions (see Chapter 4: The Infernal Legions, Common Powers). The risk of serious harm is ever-present, not just from the treacherous terrain, but also from the demonic inhabitants, usually dwelling in their grosser physical forms and indulging in all kinds of horrific activity.
 
-## *Infernal Auras in Play*
+## Infernal Auras in Play
 
 An Infernal aura usually has a focus, a center from which the evil radiates. This may be as simple as the physical location where an act of evil occurred, or as complex as an altar to false gods set up by a cult of demon-worshipers. The aura emanates from this focus in all directions, but tends to follow the rules of mundane geography. Thus, an Infernal aura may be stopped by a wall or a door close to the focus, even if it extends further from the focus when not impeded by a wall. Likewise, an Infernal aura in a house may extend down a corridor or up some stairs, although it may not affect neighboring rooms which are closer to the focus. Some Infernal auras may increase in strength closer to the focus, whereas others may be of equal strength wherever the aura extends. The former tend to have formed more recently, while those of the latter type have had longer to saturate the locality with corruption. The strength of an Infernal aura is irrelevant when determining the area over which it is spread; a powerful aura may occupy a tiny cellar, whereas a low aura might extend across an entire forest.
 
@@ -355,7 +355,7 @@ When a major sin is committed, one which imperils the soul of the sinner (see Ch
 If the corruption roll exceeds the Ease Factor to maintain an Infernal aura,
 
 
-## *Infernal Aura Examples*
+## Infernal Aura Examples
 
 | Example                                                    | Rating |
 |------------------------------------------------------------|--------|
@@ -372,7 +372,7 @@ If the corruption roll exceeds the Ease Factor to maintain an Infernal aura,
 
 aura, or 9 (6 + Dominion 3) to increase
 
-## *Example of Creating an Infernal Aura*
+## Example of Creating an Infernal Aura
 
 In a town house, a man in a fit of rage kills his entire family. Each of the six murders occasions a corruption roll, unmodified stress dice (because there is no temporary Infernal aura) that come up as 12, 4, 6, 9, 4 and 3. The Ease Factor to create a new Infernal aura in a Dominion aura of strength 3 is 9, which means that the scene of the bloody murders immediately acquires an Infernal aura of 2 (one for each of the successful corruption rolls). The house is shunned and left abandoned.
 
@@ -417,22 +417,22 @@ Of all the supernatural powers, Infernal auras are most harsh to those belonging
 
 Faeries are exceptionally unlikely to linger in Infernal auras; even the cruelest of the dark fae cannot match the malevolence of demons. The expression of Faerie-derived Supernatural Powers is often weak and ineffectual in Infernal auras.
 
-## *Tarnished Auras*
+## Tarnished Auras
 
 A **tarnished aura** has a resonance for a particular sinful behavior. Not all Infernal auras are tarnished, but many are; Infernal auras tend to come about through the practice of a specific heinous crime, and the tarnish is related to that specific misdeed. Furthermore, those who exert Infernal influence (see Chapter 2: Sin and Redemption) can tarnish an aura to suit their own proclivities. An Infernal aura can only have a single tarnish at a given time.
 
-## *Example Tarnished Aura: Das Goldene Kalb*
+## Example Tarnished Aura: Das Goldene Kalb
 
 In the town of Lübeck in northern Germany there is an upmarket tavern called *Das Goldene Kalb*. Somewhat less well-known is its secondary business — upstairs are a number of discreet and opulent chambers, where the lusts and perversions of certain select and wealthy clients are catered for by a number of courtesans. The tavern is owned by a member of House Jerbiton. Subtle magics greatly assist this enterprise and make it into a very profitable endeavor. For example, rich visitors who sample the wine often find their desires strangely heightened. The owner's third and most delicate business is crime and extortion — he has gathered blackmail information on numerous well-respected citizens (and magi, for that matter). Naturally, local churchmen are well-bribed and Quaesitors kept away from this establishment. The upstairs rooms of *Das Goldene Kalb* have an Infernal aura of strength 3, tarnished with Lust.
 
 Tarnishes are represented by assigning a sinful Personality Trait to the aura, and everyone within the aura suffers a modifier to Personality Traits equal to the strength of the aura. Thus, in an Infernal aura of 3 tarnished with Gluttony, a character with Greedy +1 acts as if she had a trait of Greedy +4, and a character with Temperate +2 effectively has Temperate –1. These unnatural emotions and feelings are subtle, and there is no reason for the character to suspect the influence of the supernatural. However, the player should be informed of the changes to his character's Personality Traits, so that he can adopt appropriate behavior for his character. Specifically, characters feel inclined to commit sins that they had previously not considered. Indulging in a sin that matches the tarnish of an aura is automatically a ritualized act of that sin, and thus inflicts a Warping Point and provides a Confidence Point (see Chapter 2: Sin and Redemption).
 
 
-#### *Realms of Power*
+#### Realms of Power
 
 *Example: A character enters* Das Goldene Kalb *(see insert), which is tarnished with Lust. He had not formerly been prone to this sin, but now feels the rise of passion within him. If he commits a sin of Lust that is commensurate with his new Lustful +3 trait (such as adultery) while influenced by this trait, he gains a Confidence Point at the cost of a Warping Point.*
 
-## *Corrupted Auras*
+## Corrupted Auras
 
 Some auras are so steeped in evil that they become places that embody the practice of certain sins. In encouraging those sins within their bounds, the corruption of the aura is reinforced further, continuing its own existence. **Corrupted auras** are permanently tarnished auras; their tarnish cannot be removed or altered by an Infernalist. These auras always have a strength of at least 3, and they have a corrupting effect beyond that supplied by their tarnish.
 
@@ -459,7 +459,7 @@ Example features of Debauched auras:
 
 
 
-## *Example Corrupted Auras*
+## Example Corrupted Auras
 
 #### **Liddesdale**
 
@@ -497,14 +497,14 @@ Example effects of a Perfidious aura:
 Lies become more believable in this aura; all attempts to spot a lie have the aura strength added to the Ease Factor. •
 
 
-## *The Devouring Regio*
+## The Devouring Regio
 
 There are rumors that some Infernal regiones are not fixed in location, but instead roam randomly through the world. These regiones seem to be attracted to evil souls, and they are said to open up around a person, swallow him along with those in close proximity, and then vanish. Of all the stories of regiones reaching directly to the Gates of Hell, it seems most likely that these regiones are of that type, delivering their victims straight to their eternal punishment. Nevertheless, they need not all lead straight to Hell, but instead some might keep their victims for weeks or months and then disgorge them back to earth. It has been suggested that these Devouring regiones might be a manifestation of Vituperation (see Chapter 9: Infernal Characters), giving the Infernal wizard a foretaste of the torments which await him. Alternatively, these regiones may be a method of the Devil to ensure that a particularly evil soul comes to him, or they may instead be directed by God to rid the world of the corruption before it is spread even further. More terrifying still, these regiones may be truly random.
 
 - Beings belonging to or affiliated with the Infernal realm receive a temporary Confidence Point upon entering the aura, even if they are not normally able to have Confidence. This point vanishes should the being leave the aura without spending it. •
 - Any character who fails a roll modified by Confidence within the aura is struck by the mind-numbing contempt of Hell, immediately losing all remaining Confidence Points, and is stunned for one round per 2 points lost. While stunned, the character cannot take any action other than to use a Dodge defense against physical attacks. As Confidence Points are spent after the roll but before the final result of the roll is learned, this effect is rare but savage. •
 
-# *Infernal Regiones*
+# Infernal Regiones
 
 Infernal regiones are those places that have been consigned to the supervision of the Infernal by God. Whereas Infernal auras are places of concentrated evil, Infernal regiones are the antechambers of Hell itself, and they serve a wholly different purpose of Hell's rulers. Infernal regiones form when the Divine presence is withdrawn, and the Authorities — that angelic choir charged with regulating Creation (see *Realms of Power: The Divine*, Chapter 2: Heaven and Earth) — no longer visit the locality. Infernal regiones are places where hope and happiness are abandoned. It is impossible to maintain a cheerful demeanor in an Infernal regio, and it is impossible to receive any form of pleasure.
 
@@ -525,11 +525,11 @@ Abyssal regiones are places in which the very gifts of God to mankind are withdr
 
 man mad. The mundane features of the landscape seem to fade into insignificance; those who stray into such dreadful regions stumble around in the shock of the withdrawal of their human faculties. There is a chill in the air, but not a physical chill (because the sensation of touch, like all senses, has been reduced), but instead the chill of the grave which saps the will and the strength. Every one of the eight Characteristics is reduced by a number of points equal to the strength of the aura in an Abyssal regio, and this effect lasts as long as the character remains within its boundaries. For every day spent in an Abyssal regio, a character must make an Intelligence roll against an Ease Factor equal to the aura strength. Failure indicates that madness sets in, and the character acquires one of the following Flaws: Compulsion, Delusion, Depressed, Fear, Obsessed, Prohibition, Simple-Minded, and Weak-Willed. The effects of these Flaws are not permanent unless the Intelligence roll was a botch; otherwise, they fade in a number of weeks equal to the aura strength.
 
-# *Infernal Warping*
+# Infernal Warping
 
 Warping is the response of any being to interaction with a supernatural realm. Infernal Powers and auras can cause Warping just as contact with powerful mystical effects from the Magic, Faerie, or Divine realm can. However, Warping is also a result of sin, as sin puts a character under the sway of the Infernal realm. Warping Points from Infernal sources do not need to be tracked separately from points acquired from other realms. However, if a character's Warping Points come primarily from Infernal sources (such as the practice of sinful behavior), then the character tends to acquire effects of Warping associated with their connection to the Infernal realm. Infernal Warping tends to result in Flaws that encourage sinful behavior and make it more difficult to resist immoral urges.
 
-## *Example Infernal Regio: The Vale of Hinnom*
+## Example Infernal Regio: The Vale of Hinnom
 
 The Vale of Hinnom is located immediately to the south and west of Jerusalem. The valley in pagan times was a place in which Molech (see Chapter 5: Demons as Corrupters, Adramelech) was worshiped with the sacrifice of children. The prophet Josiah rendered the valley ceremonially unclean by spreading over it human bones and other corruptions, putting an end to these dreadful religions. Hinnom became the site where the bodies of criminals and evildoers were burnt along with other rubbish in perpetual pyres. Due to the ritual defilement and the eternally-burning piles of rubbish, the name of the valley — in Hebrew, *ge-hinnom* — became used to describe the place of eternal fiery torment — Gehenna.
 
@@ -548,9 +548,9 @@ Situated in the valley of Hinnom is Aceldama ("the field of blood"), the point w
 **Warping Score of 6+**: At this level of sin, Hell is keen on acquiring this evil soul for itself. Age Quickly is a common penalty, as is Enfeebled. Occasionally, a demon is sent to the character to ensure that he does not repent, resulting in Plagued by a Demon.
 
 
-#### *Realms of Power*
+#### Realms of Power
 
-## *Causes of Infernal Warping*
+## Causes of Infernal Warping
 
 Infernal warping may result from the practice of sin or from exposure to powerful Infernal forces such as strong auras or Infernal sorcery. Of course, Warping Points can also result from magical, Faerie, and even Divine sources, but a character suffers the effects of Infernal Warping if the majority of Warping Points that contribute to this level of Warping have been through Infernal influence.
 
@@ -570,7 +570,7 @@ The Powers of Infernal beings may cause Warping; if the level of the Power is 30
 
 One Warping Point is gained for each zero on a botch dice when using an unholy Power or Infernal Supernatural Ability. Magical botches that occur in an Infernal aura can also be considered to induce Warping Points from an Infernal source.
 
-# *Infernal Vis*
+# Infernal Vis
 
 Vis can be tainted by the power of Hell due to close proximity to areas of concentrated evil, or because it derives from the bodies of slain demons. Only wizards who are affiliated with the Infernal realm may use this vis with impunity; all others must beware of Hell's corruption. Infernally tainted vis, examined using Hermetic magic, appears to be regular vis, and the taint cannot be detected. Like regular vis, it appears in multiple "flavors," which correspond to the Hermetic Arts. However, when used to enhance non-Infernal magic, it incurs an added risk.
 
@@ -606,13 +606,13 @@ Vis sordida inflicts none of these ill effects on Supernatural Powers derived fr
 
 The most vile and concentrated form of Infernal vis is called **vis prava**, or
 
-## *Example: Enchanting with Vis Sordida*
+## Example: Enchanting with Vis Sordida
 
 Carolus of Tytalus unwittingly uses three pawns of Vim vis sordida and five pawns of regular Vim vis opening an item for enchantment. His first invested effect is 20th level, and thus uses up 20 of the tainted levels, forcing an experimentation roll. Should his player roll a zero on the Experimentation table, he must roll six extra botch dice (three for each of the two pawns). The second effect he invests is also 20th level, but as this uses up the last ten tainted levels in the item, another experimentation roll is made. A botch on this roll requires only three extra botch dice. Further enchantments do not use tainted slots, so enchantment proceeds as normal.
 
 "wicked vis." This type of vis can be found in strong Infernal auras (strength 5 and above). Vim vis may be extracted from an Infernal aura (of any strength) by a Hermetic magus as if it were a Magical aura (ArM5, page 94); however, such vis is automatically vis prava. Furthermore, vis derived from the corpse of a powerful demon (with a Might greater than 25) is also vis of this type. It is exceedingly dangerous to use for anyone not aligned to the Infernal realm; any roll using vis prava is automatically a zero, forcing an immediate check for a botch, rolling two extra botch dice for every pawn of vis prava used; there is a minimum number of botch dice equal to the number of pawns used, regardless of Virtues, spell mastery, and the like. Botches using vis prava are therefore more than ten times more likely than when using regular vis. As before, botches using infernally tainted vis are always both unpleasant and perilous to the caster. In addition to this effect, attempting to study from vis prava inflicts a Warping Point per pawn employed as well as influencing Personality Traits, as described above.
 
-## *Story Seeds*
+## Story Seeds
 
 - Infernally tainted vis is not commonly known in the Order of Hermes, for its most common source is the corpses of demons, and those slain with *Demon's Eternal Oblivion* do not leave behind a corpse. This gives the storyguide plenty of opportunity to pass Infernal vis off as regular vis. •
 - The characters receive a payment of vis from another magus, which turns out to be tainted vis. This would naturally lead to suspicion regarding the character of the supplier, but he can no longer be found. Alternatively, perhaps the characters themselves unknowingly hand over the vis to other magi, incurring an investigation of themselves instead. •
@@ -623,13 +623,13 @@ If used to prepare an item for enchantment, even a single pawn of vis prava tain
 Vis prava vaporizes in a Divine aura of strength 5 or more, or when blessed by a person endowed with the authority of God (a ordained priest, for example). In the hands of a wizard aligned to the Infernal realm, vis prava offers a +5 bonus to Casting Totals per pawn employed, and does not incur any added chance of a botch, other than the standard risk of one extra botch die per pawn used. Furthermore, the Source Quality of Vis Study receives a +1 bonus for every pawn of vis prava used.
 
 
-## *Chapter Two*
+## Chapter Two
 
-# *Sin and Temptation*
+# Sin and Temptation
 
 In a world where demons might be hiding under any stone, and the Dominion protects the homes of God's people against their infernal designs, sin is a recognizable phenomenon that actually stains the transgressor's soul. In order to play characters who sin, and describe the plots of tempters who entice people to do evil, players must first understand exactly what sin means in Mythic Europe.
 
-# *What is Sin?*
+# What is Sin?
 
 *He that committeth sin is of the devil; for the devil sinneth from the beginning. For this purpose the Son of God was manifested, that he might destroy the works of the devil.*
 
@@ -645,13 +645,13 @@ Acts not committed in service to the Divine are only free of sin if they are tru
 
 This interpretation of right and wrong suggests that selflessly worshiping a god other than the focus of the Divine realm is not sinful, so long as the god or gods so worshiped are not Infernal. This is broadly true, depending upon the methods of worship. What the Church calls "veneration" is essentially profound respect for the being, such as the way devout Christians can revere saints and angels. If a pagan character behaves in a similar fashion, honoring her deities and heroes without actually worshiping them as the One True God, it is probably all right. This behavior would never be considered pious by those characters dedicated to the worship of the Divine, but at least it isn't sinful.
 
-## *Types of Sin*
+## Types of Sin
 
 There are two grades of sin: **mortal** or major sins, and **venial** or minor sins. Venial sins are light in their matter, things like impure thoughts or hasty actions that do no harm to anyone but the sinner, and these sins rarely have long-term consequences. Examples might include angry thoughts, proud speech, or carnal desires. Of greater interest to the Infernal realm are mortal sins, which are evil acts that leave a black mark upon the soul. It is mortal sins that demons seek to inspire, for it is from the effects of these sins that creatures associated with the Infernal realm draw their power. The "seven deadly sins" are good examples of behavior that leads to mortal sin, as are acts such as killing, lying, stealing, and blaspheming.
 
 Note that since sin requires a conscious act, or at least an acceptance of the act as the character's own, a character compelled to behave in a sinful way by supernatural powers does not commit sin. Theologically speaking, it is not possible for a character to sin inadvertently, though he does have a moral responsibility for his actions and should ensure that his convictions do not lead him to commit acts of sin in ignorance. However, it is always wrong for a character to support or receive aid from the Infernal realm, and a
 
-## *Sinful Traits*
+## Sinful Traits
 
 The desire to sin is one of the most important qualities of an infernal character, because besides describing the sorts of things the character is likely to do, it also addresses the likely reasons the character became evil in the first place. These tendencies are probably best described with the character's Personality Traits. Personality Traits are not sinful in and of themselves, however. They indicate habits and inclinations, tendencies toward selfish (and selfless) behavior, and general desires upon which the character typically wishes to act. An Infernal Power that gives a person a Personality Trait makes that person more tempted to indulge in that sort of activity, but the character still makes the choice of whether or not to do it.
 
@@ -673,7 +673,7 @@ The character may have some Personality Traits along the lines of "Tells silly s
 | Greedy     | Gluttonous, Needy, Self<br>Indulgent, Sickly, Weak      | Strong  | Healthy, Pious, Steady,<br>Temperate, Vigilant              |
 | Avaricious | Ambitious, Corrupt, Cunning,<br>Devious, Manipulative   | Just    | Even-handed, Fair, Honest,<br>Honorable, Straightforward    |
 
-## *Deals with the Devil*
+## Deals with the Devil
 
 The Infernal realm goes to great lengths to mask the essential weakness in its strategy, that people may renege on agreements concerning their immortal soul and repent at any time, and has come up with several methods to convince them not to do so. When a person makes a pact with a demon, the bargain is often sealed with an oath, perhaps in the form of a written contract or ceremonial promise, and the bargain is sometimes backed up with a curse that states what bad things will happen if it is broken. This cannot prevent the character's redemption, but it can make reneging seem less desirable, especially if the consequence of seeking forgiveness is immediate death or suffering caused to others. Demons also hope that a sinner's sense of honor will make him reluctant to break his word.
 
@@ -685,7 +685,7 @@ character who deals with demons or who uses Powers that he does not realize are 
 
 Whether or not a particular evil is deliberate is often a matter of some doubt, even for expert theologians, for even when clearly forced to act against their will, people often fear that they secretly desired the sin. Is it really selfless for the craftsman to work diligently at his trade, when doing so brings him wealth? How pious is the scholar who desires knowledge and joins a monastery to be surrounded by books? Does the noble crusader fight for God's glory, or for his own? These seeds of doubt are what tempters seek out and nurture, and may inspire intense soul-searching on the part of an intelligent and philosophical character, lest he begin to perceive his every act as selfish and so come to accept that his constant sin is inevitable. This line of thinking is a sure route to Hell.
 
-## *Redemption*
+## Redemption
 
 If God is easily offended, at least God's pardon is easily gained. He has, after all, established several holy organizations with chapter houses spread all throughout Mythic Europe that help sinners cleanse their souls of wrong and return to the path of righteousness — most notably
 
@@ -694,7 +694,7 @@ This, then, would seem to be the bane of the Devil's work, for there is nothing 
 
 The specific means by which characters can be absolved of their sins vary depending on their faiths and culture. Christians confess their sins and accept appropriate penance, while Muslims and Jews perform ritual fasts of atonement. For more details, see Beliefs and Practices in Chapters 4, 5, and 6 of *Realms of Power: The Divine*.
 
-## *Infernal Influence*
+## Infernal Influence
 
 *Harden not your heart, as in the provocation, [and] as [in] the day of temptation in the wilderness:*
 
@@ -734,13 +734,13 @@ This new trait represents a new passion awakened within the character. It may be
 Note that characters under infernal influence can easily possess more than three Personality Traits at any given time,
 
 
-## *Personality Flaws*
+## Personality Flaws
 
 For the purposes of rules involving Personality Traits, treat a Minor Personality Flaw as a +3 trait, and a Major Personality Flaw as a +6 trait. Characters under infernal influence may thus occasionally overcome these Personality Flaws with opposing Personality Traits, though they need constant encouragement and reinforcement to avoid returning to their old ways — these traits never become permanent as long as the character still has an opposing Flaw.
 
 as most of them are temporary. If these traits become permanent, the character might wind up with a long list of them. This can be difficult to roleplay, as so many powerful traits can pull the character in different directions, but it is certainly possible, and makes for a more complex character. It is still a good idea for players to go over their characters' traits periodically, and reduce or remove any traits that are no longer appropriate.
 
-## *Tarnish*
+## Tarnish
 
 Infernal auras are often places of powerful emotions, charged with human desire and passion. Infernalists can draw these emotions out of an Infernal aura, so that everyone who visits the site is infected with this feeling. This is called **tarnishing**, and the result is a **tarnished aura**.
 
@@ -748,7 +748,7 @@ Tarnishing an Infernal aura essentially gives it a sinful Personality Trait, and
 
 > **Tarnishing an aura: stress die + Presence + Leadership**
 
-#### *Realms of Power*
+#### Realms of Power
 
 A tarnished aura has a pervasive trait, called its **tarnish**, which affects everyone within the aura. This is described like a Personality Trait; a Tarnish Trait might be Lustful +3, for example, or Pious –2. The tarnish is added to similar Personality Traits, making them stronger, and subtracted from traits that oppose the tarnish, discouraging them. Any character that does not have similar or opposing Personality Traits simply gains the Tarnish Trait as a Personality Trait for as long as he remains in the aura. This represents how the tempting nature of the Infernal continually acts on characters who fall under its influence.
 
@@ -756,7 +756,7 @@ Infernal auras can only have one tarnish at a time, and only the strongest tarni
 
 Some special Infernal auras have a permanent tarnish, brought about when they are created, and these never fade (see Chapter 1: The Infernal Realm, Corrupted Auras).
 
-## *Gaining Confidence through Sin*
+## Gaining Confidence through Sin
 
 For the vast majority of people in Mythic Europe, sin feels pleasant. It may be impious and self-indulgent, and can cause them to feel guilty afterwards, but it is also something that many people seek out and enjoy. For this reason, characters who commit sins often gain a boost of self-worth and resolve that in **Ars Magica** is represented with Confidence Points.
 
@@ -769,9 +769,9 @@ The sins necessary to activate this form of infernal influence vary depending up
 Note that tarnished auras create an easy way for characters to gain Confidence, since they encourage a particular sin and automatically give characters that trait. Simply spending a season in a tarnished aura is usually sufficient for a character without an appropriate Personality Flaw to earn a Confidence Point, as the character feels compelled to indulge himself in appropriately sinful acts while he is there. He can even claim that "the Devil made him do it" after he repents his actions; the Infernal allows this as it encourages characters to return and sin again.
 
 
-## *Chapter Three*
+## Chapter Three
 
-# *The Devil and theOrigin of Demons*
+# The Devil and theOrigin of Demons
 
 *And when We said to the angels: Make obeisance to Adam; they made obeisance, but Iblis refused. He said: Why should I make obeisance to him whom You have created of dust?* 
 
@@ -779,7 +779,7 @@ Note that tarnished auras create an easy way for characters to gain Confidence, 
 
 The figure of the Devil — the personification of evil — is different according to which teachings are followed. To the Jews, he is a servant of God; to the Christians, he rebelled against God before the creation of Adam; whereas Islam teaches that the Devil rebelled because of the creation of Man. The discussion that follows considers the place of the Devil in all three of these Divine religions, although the concepts are presented as they are commonly understood by the followers of these religions, not necessarily the strict theological viewpoint.
 
-# *The Jewish Devil*
+# The Jewish Devil
 
 *I said: You are gods; and all of you sons of the Most High; Nevertheless you shall die like men, And fall like one of the Princes.* 
 
@@ -791,7 +791,7 @@ However, the Jews have a second figure in their demonological (rather than Bibli
 
 When Adam and Eve were cast out from the Garden of Eden, they wandered in the wilderness. During this exile (which lasted 130 years), Lilith came to Adam and lived as his concubine. According to Jewish lore, Lilith had been created by God as Adam's first wife, formed of clay in the same way as Adam himself. Lilith quarreled with Adam, refusing to be submissive to his will, for she was created as his equal. She fled from Eden and became one of the wives of Sammael. When Eden was lost to Adam, Lilith returned to him and she bore him every day one hundred children, all demons born of their adultery. According to the Jews, this is the origin of demons, born of the *sitra achra* when man sins. They are not fallen angels, for angels cannot rebel against God.
 
-## *The Christian Devil*
+## The Christian Devil
 
 *So the huge dragon was thrown down — that old serpent called the Devil and Satan, the seducer of the whole world — thrown down to earth, and his angels thrown down along with him.* 
 
@@ -808,7 +808,7 @@ When Satan was numbered among the angels at the beginning of time, he was both e
 
 Lucifer, transformed into Satan through his rebellion, transferred his hatred for God to man, who had been created in the likeness of the one he really despised. He swore to avenge himself, and did so by causing Eve, and thus Adam, to eat of the forbidden fruit. They were thus driven from paradise and robbed of their divine glory, allowing death to enter the world. Satan was punished again for this act; God turned the bottomless pit into the torment of Hell, making it a prison of pain for Satan and his demons. However, Satan had achieved his goal — mankind had fallen from God's grace through his original sin, and thus fell under Satan's power all his life. This miserable state of affairs is only made worse by the unnatural vices of the demons, which sink the human race into a
 
-## *The Islamic Devil*
+## The Islamic Devil
 
 *Say: I seek refuge in the Lord of men, The King of men,*
 
@@ -826,12 +826,12 @@ In gratitude for this deed, Iblis was made lord of the earth, and he became the 
 
 Iblis took four wives, the demons of prostitution named Lilith, Eisheth Zenunim, Naameh, and Agrat bat Mahlat. By these terrible she-demons he had five sons who are the scourge of mankind — Dasim (with dominion over discord), Al-Awar (debauchery), Sut (lies), Tir (fatal accidents) and Zalambur (mercantile dishonesty).
 
-# *The Fall of the Angels*
+# The Fall of the Angels
 
 Legends from all three major Divine religions tell of the wickedness of the humans who immediately predated the
 
 
-## *The Electors of Hell*
+## The Electors of Hell
 
 At the head of each of the nine orders of demons is an archdemon who directs all who are under him; if any can be considered kings of Hell, it is they. Known to the rabbis as the Maskim, these nine demons, chiefs among the rebellion against God, are seen as the ruling council — the Electors of Hell — who advise the Devil on his works. No game statistics for the Maskim are provided because they do not involve themselves with individual damnation of souls, but instead co-ordinate the execution of grander schemes through the actions of their subordinates. Suffice to say that each has an Infernal Might of 75. These fallen angels transcend the nine orders of demons, although they share characteristics with the demons they rule. The Maskim are:
 
@@ -858,9 +858,9 @@ Flood, and of how they transgressed the commands of the Creator by sinning and w
 However, God's predictions were as infallible as ever. Semyaza and Azael (or Harut and Marut, in the Qur'an) descended upon the earth with a host called the Watchers (also called Grigori). They mixed with the children of men, and soon sinned and transgressed through temptation by the Devil. They taught mankind the practices of sorcery and warfare, and took mortal wives to father children who were giants, 300 cubits high. When the sinning angels tried to return to Heaven they were refused admission by five archangels (Michael, Gabriel, Raphael, Uriel, and Suryal) and rebuffed by the Divine light, falling down to earth to became ministers and satellites of the Devil. The children who were born of mortal mothers and angelic fathers were of neither race, but had an intermediate nature, and were called the Nephilim (See *Realms of Power: The Divine*, Chapter 3: Blessed by God). They were not received by man, just as their parents had been refused admission into Heaven, and became the terrestrial demons upon their death (see Chapter 4: The Infernal Legions).
 
 
-## *Chapter Four*
+## Chapter Four
 
-# *The Infernal Legions*
+# The Infernal Legions
 
 *The whole earth has been corrupted through the works of Azazel: to him ascribe all sin.* 
 
@@ -883,7 +883,7 @@ Demons do not have a single origin. Some angels — the mightiest princes of evi
 
 be the "Infernal angels," who claim to be angels working in Hell at the command of God, although those who study demonic lore are divided as to whether these beings truly serve God or the Devil. There are no functional differences between any of these groups.
 
-## *The Spiritual Form of a Demon*
+## The Spiritual Form of a Demon
 
 When demons fell from the grace of God, they were cast into the mundane world and their formerly pure angelic bodies were infused with mortality. No longer were they solely beings of spirit — eternal and unchanging. Instead, they became beings with a foot in both the spiritual and the material world, and suffered the perils of a mortal form. It is thus possible for a demon to die, something impossible for the angelic race from which they originated. The same rules apply to all the terrestrial demons, who have the same duality of spirit and matter as the celestial demons.
 
@@ -898,7 +898,7 @@ The spiritual form of a demon may be likened to invisible smoke, or an odor (tho
 
 While spiritual, demons are not affected by the passage of time. They do not age, but neither do they recover from injuries they have sustained. They must assume a solid form and wait out the appropriate amount of time if they wish to get rid of physical damage. However, demons in either form are able to regain Might Points. Demons in their spiritual form possess all five modes of sensation of other physical beings, but are also able to sense spiritual beings as if they had the Second Sight Ability, using their Perception + Awareness total. A demon in spiritual form can only be slain be effects that deplete its Infernal Might (such as Perdo Vim spells); once its Might is entirely dissipated it is dead, gone forever. Its soul enters Hell as one of the damned, never to return to earth.
 
-## *The Physical Form of a Demon*
+## The Physical Form of a Demon
 
 The majority of demons (celestial and terrestrial demons alike, but not infernal ghosts) can coagulate their substance into a solid form through the manifestation of a Power common to all demons. In this form they are as material and substantial as any other object. This allows the demon to interact with other matter, but also makes it vulnerable to that matter; in this form it can hurt, but also be hurt. Demons assume this form to eat, drink, and fornicate with mankind, all things in which some of them take a great deal of pleasure. This form is also often better than the spiritual form for the temptation of mankind. Only while in this form is a demon is subject to time, and so they must assume this form to heal wounds. While physical, demons do not suffer from natural aging, and thus do not die of old age. However, a demon is susceptible to unnatural forms of aging such as spells or Supernatural Powers. The matter that makes up the physical body of the demon does not belong to it, but instead is merely "borrowed" from the universe; demons do not therefore generate Arcane Connections of any sort from these bodies.
 
@@ -906,13 +906,13 @@ Demons can usually only create a single physical body of fixed appearance. Only 
 
 Demons in physical form can be slain. If attacked physically, with weapons or damage-causing spells, while in its physical form, then they may be killed like any supernatural being, and it is the demon that dies, not just its physical form. The demonic soul heads straight for Hell like all damned souls, to be tortured there for eternity. In this situation, a corpse is left behind, which often contains vis (typically a pawn for every magnitude of Infernal Might). A demon's
 
-## *Updating the Bestiary*
+## Updating the Bestiary
 
 Due to the new rules presented here, some small changes need to be made to the demons presented in Chapter 13 of **Ars Magica Fifth Edition**. Those demons do not necessarily follow the rules for Characteristics presented below, so you may wish to alter them to fit with these rules. Furthermore, each needs to be assigned to one of the nine demonic orders, and given the general characteristics (Personality Traits, Virtues, Flaws, and Powers) of those orders, as well as the Powers shared by all demons. Michael is a Tempter, whose Obsession is Sensitive to Mockery. Bartholomew is a Spirit of Deceit with an Obsession of Avarice. While Polandrus has the shape of a wolf, he is not a Corrupt Beast, for he has true intelligence, which those unfortunates lack. He is instead a Fury, and has the Obsession of Secrecy.
 
 physical form does not possess any special resistance to particular types of damage (for example, fire or disease) unless this is specifically mentioned in the creature's description. However, being wholly artificial, the body has no nutritional needs, and needs not eat or drink (although it does need to breathe).
 
-## *Demonic Traits*
+## Demonic Traits
 
 *For such are false apostles, deceitful workers, transforming themselves into the apostles of Christ. And no marvel; for Satan himself is transformed into an angel of light. Therefore it is no great thing if his ministers also be transformed as the ministers of righteousness; whose end shall be according to their works.* 
 
@@ -1015,7 +1015,7 @@ Each demon can inflict only certain traits, representing its particular role in 
 
 *Envisioning*, 1 or 5 points, Init +0, Mentem: This Power allows a demon to appear in the dreams of a sleeping target (in which case it costs 1 point), or make the target experience a waking dream or vision (in which case it costs 5 points). A demon cannot instantly make substantial changes to a dream, but instead gradually twists it to take on a darker and frightening tone, and can speak through any figure from the victim's subconscious. A waking dream is more obvious; the victim suffers an immediate and powerful hallucination of whatever the demon desires. This may be so frightening that the victim is stunned for a round, and must make a Brave Personality roll against an Ease Factor of 9 or have an extreme reaction, such as retching, convulsions, or abject terror. This is the only way in which a spiritual demon can communicate with mortals.
 
-## *Example of Obsession*
+## Example of Obsession
 
 Bartholomew (ArM5, page 197) has the Obsession Trait of Avarice. He sees a nun collecting alms for an orphanage and bumps into her deliberately on the street. The nun's flash of anger over his apparent clumsiness gives Bartholomew the doorway he needs, and he imposes the trait upon her, spending three points from his Might Pool. When the nun is counting her pennies later that day, she has an opportunity to act on the demonically induced greed, so is forced to make an Avarice personality roll. She rolls a 5, +3 for the Obsession Trait, for a total of 8. Her opposing die roll is only a 6, but she also has the Generous Personality Trait, for a total of 9. She resists the impulse to steal, and resolves to pray harder, shocked that she even considered such an act.
 
@@ -1056,9 +1056,9 @@ Demons may be summoned and compelled by Hermetic magic, although the Oath of Her
 All demons are vulnerable to expressions of God's power, whether these are the sacraments of a faith, prayers from devout followers, or the relics of saints. Relics, as supremely holy items, are anathema to demons. They all have a Power called *Scourging the Infernal*, which means that they radiate an aura over an area with a radius equal to their Divine Might (i.e., their Faith score multiplied by ten) in feet. Demons may only enter this aura if their Infernal Might exceeds the Divine Might, and even if they manage to be within this aura, they take a number of points of damage equal to the relic's Divine Might each round, burnt by the holy fire which emanates from the relic (this damage may be soaked as normal). For more information on relics, see *Realms of Power: The Divine*, page 43. A character who has a focus for
 
 
-#### *Realms of Power*
+#### Realms of Power
 
-## *Religious Limitations on Demons*
+## Religious Limitations on Demons
 
 In Christian lands, all demons are forced to abandon their physical form at dawn on Holy Saturday (the day between Good Friday and Easter Day); furthermore, no demon may spend Might Points from this point until dusk on Easter Day. This is a reminder of Christ's victory over Satan and subsequent descent into Hell to bring the good news to the souls trapped there.
 
@@ -1084,7 +1084,7 @@ Weaknesses should be chosen from the following list:
 
 **Vulnerability:** A certain substance (see Abhorrent Material for appropriate examples) causes a Light Wound to the demon merely by touch. The more powerful the demon, the rarer this substance should be. Any weapons made of the material to which the demon is vulnerable inflict a Light Wound to the demon on a successful attack in addition to any damage inflicted as a result of the attack, even if the demon's soak absorbs all the other damage. Light is a common Vulnerability of weak demons.
 
-## *True Names*
+## True Names
 
 Demons, like angels, have secret names that act as a mystical connection to their spiritual essence. Names such as Adramelech, Nithael, and Polandrus are just demons' common names; these secret names require a special formula of strange incantations and gestures that takes only a few moments to recite, but is very difficult to learn. These unusual rituals are called True Names.
 
@@ -1115,7 +1115,7 @@ For more information on the personalities of demons, see Using Demons in the Sag
 A demon's Might Pool usually refreshes at a constant rate such that that
 
 
-## *The Demonic Orders Infernal Ghosts*
+## The Demonic Orders Infernal Ghosts
 
 Each of the nine orders described below has a number of different names, depending upon the language of the source. The names given below are translations of the Latin terms, but each order also has a Hebrew name.
 
@@ -1150,7 +1150,7 @@ Gibborim (singular gibboreh, Hebrew for "mighty ones")
 **Tempters:** Tentatores (singular tentator, Latin); Maligenii (singular maligenius, Latin for "evil spirits"); Shedim (singular shedeh, Hebrew for "demonic spirits"); Kakodaemones (singular kakodaemon, Greek for "filthy spirits")
 
 
-# *The Infernal Hierarchy*
+# The Infernal Hierarchy
 
 *Disgrace upon you, Azazel! For Abraham's lot is in heaven, but yours is upon the earth. Because you have chosen and loved this for the dwelling place of your uncleanness, therefore the Eternal Mighty Lord made you to be a dweller upon the earth, and through you every evil spirit of lies, and through you wrath and trials for the generations of ungodly men; for God, the Eternal Mighty One, has not permitted that the bodies of the righteous should be in your hand, in order that thereby the life of the righteous and the destruction of the unclean may be assured.*
 
@@ -1173,7 +1173,7 @@ or orders which have different names and functions. Naturally, the only beings w
 
 Each of the nine orders listed below has a name derived from Jewish lore and from Christian teaching, and fulfills a specific function in the corruption of man. Each order has certain features in common, such as Personality Traits and Powers (which are listed below), but each individual demon also has features that are unique to it. Furthermore, some of these orders may contain "families" of demons who share traits with each other and with the order as a whole.
 
-## *False Gods*
+## False Gods
 
 *Then the Devil took Jesus to a very high mountain and showed him all the kingdoms of the world in all their greatness, "All this I will give you," the Devil said, "if you will kneel down and worship me."*
 
@@ -1183,7 +1183,7 @@ The False Gods usurp the name of God by requiring worship, sacrifice, and adorat
 
 These demons appear in a physical form that is pleasing to the eye, in human shapes designed to put their viewers at ease; thus they are often handsome, beautiful, or kingly. They are always accompanied with an animal when they manifest; this is not a separate being, but actually part of the physical form.
 
-## *False Gods*
+## False Gods
 
 **Infernal Might**: not more than 30 **Ranks:** Master, Lord, and Duke are commonplace; Prince is uncommon
 
@@ -1202,7 +1202,7 @@ These demons appear in a physical form that is pleasing to the eye, in human sha
 • The characters come into possession of some material wealth created using a False God's Wealth of Nations Power. How can they explain this away when the original owner of the goods recognizes his own possessions?
 
 
-## *Spirits of Deceit*
+## Spirits of Deceit
 
 *... And the spirit said, "I will go forth, and I will be a lying spirit in the mouth of all his prophets." The Lord said, "Go and deceive him. You will succeed."*
 
@@ -1215,7 +1215,7 @@ other demons; however, they are also the most gifted liars, to the eternal frust
 
 The Spirits of Deceit take the forms of serpents or dragons, often with human features, such as faces or arms. However, they are also the most skilled shapeshifters among all the demons, and few see them in their true forms.
 
-## *Spirits of Deceit*
+## Spirits of Deceit
 
 **Infernal Might**: not more than 30 **Ranks:** Master and Lord are commonplace, Duke is uncommon, Prince is unusual
 
@@ -1246,7 +1246,7 @@ The Vessels of Iniquity are the inventors of all evil things and all wicked arts
 
 Every Vessel has a particular emotion or vice which is their specific province, and their appearances on earth are targeted at promulgating that sin in mortal beings.
 
-## *Avengers of Evil*
+## Avengers of Evil
 
 *No doom is ever executed on the world, whether of annihilation or any other chastisement, without the destroying angel in the midst of the visitation.* 
 
@@ -1254,7 +1254,7 @@ Every Vessel has a particular emotion or vice which is their specific province, 
 
 The Avengers of Evil also call themselves the Angels of Punishment, and it is their task (or so they say) to inflict punishment on sinners in both this world and the next. They claim that they work for God; the rabbinical writers claim that they are truly angels rather than demons, and serve the Devil in the punishment of the wicked with the permission of God. They fulfill their duties with a grim determination, showing no pleasure in the punishment and torture of mortal souls. The danger is that those who have suffered by their
 
-## *Vessels of Iniquity*
+## Vessels of Iniquity
 
 **Infernal Might**: not more than 30 **Ranks:** Master is commonplace, Lord is uncommon, Duke and Prince are unusual
 
@@ -1276,7 +1276,7 @@ An outbreak of apparent religious hysteria is caused by a Vessel of Iniquity, bo
 hand before mortal death may not seek redemption, feeling that their penance is done — which surely damns them to Hell to be punished for the same sin again. The Avengers of Evil appear as immense angels, perfectly-formed human forms with massive outspread wings, but their bodies are forged out of chains of solid fire. They reinforce their selfdeclared roles as agents of God by adopting names that resemble those of angels — for example, Kushiel (Rigid One of God), Shofiel (Judge of God), Makatiel (Plague of God), Pusiel (Fire of God), and Rogziel (Wrath of God). Each of the Angels of Punishment has a particular evil that it revenges, or a particular mode of punishment.
 
 
-## *Avengers of Evil*
+## Avengers of Evil
 
 **Infernal Might**: not more than 25 **Ranks:** Master is commonplace, Lord is uncommon, Duke is unusual, Prince is very unusual
 
@@ -1290,7 +1290,7 @@ hand before mortal death may not seek redemption, feeling that their penance is 
 
 A character is singled out for the attentions of an Angel of Punishment, although he believes that he has done nothing to merit such attention. Even confession of the minor sins he knows he has committed does not cause the demon to leave him alone. All authorities on these demons state that they only punish wrongdoers — why then is this demon pursuing an innocent?
 
-## *Demons of God or Infernal Angels? The Five Angels*
+## Demons of God or Infernal Angels? The Five Angels
 
 Two orders of demons, the Avengers of Evil and the Accusers, claim to be angels rather than demons. Of these two orders, the claims of the former are more believable than those of the latter, but the tasks that both perform are certainly in line with their stated aim to pursue the wicked and punish their crimes. They claim that they work for God, or that they work for the Devil with permission from God. Indeed, this latter position is the "official" position of Rabbinical Judaism on all demons, although mystical and popular Judaism both allow for the existence of evil demons.
 
@@ -1298,7 +1298,7 @@ Naturally, it is impossible to determine the truth of a demon's protestations of
 
 *40*
 
-# *of Punishment*
+# of Punishment
 
 The *Midrash Tehillin* (a Jewish mystical text) tells of the five angels of punishment that Moses encountered in the Second Heaven, the location of the Jewish Hell. These angels punished the sins most heinous to the Jewish people: Af deals with murderers, Hemah revenges idolatry, Meshabber punishes incest, Hesmed is the angel of annihilation, and Mashith punishes the wicked through the death of their children.
 
@@ -1307,14 +1307,14 @@ The *Midrash Tehillin* (a Jewish mystical text) tells of the five angels of puni
 
 
 
-## *Michael Psellos*
+## Michael Psellos
 
 A Byzantine philosopher and theologian who died in 1079, Psellos is best known for his dialogue on the nature of demons. He described six different types of Aerial Powers. The igneous demons (also called the *aethnici*) have their habitat in the upper air. They appear in diverse forms and shapes, such as flames, firebrands, and lizards. The aerial demons inhabit the air about us, and have the power to form bodies from the air. They are vicious beings concerned mainly with destroying the human realm with tempests. Terrestrial demons are, according to Psellos, the fallen angels who delight to live in secret alongside mankind. The fourth kind are the aqueous demons who dwell in lakes and rivers; they are racked with anger, and full of turbulence and deceit. The subterraneans are confined within the earth, dwelling in caverns, pits, and mines, and cause earthquakes. Finally, the heliophobic demons are those who hate the sun and never appear in the daylight; thus they are also called *lucifugus* ("fly-the-lights"). They have the power to kill by means of their breath or touch, and alone among the demons have no dealings with evil sorcerers; they may not be kept at bay with charms.
 
 *De Operationes Daemonum Dialogus* by Michael Psellos, Summa on Infernal Lore, Level 5, Quality 12
 
 
-## *Deluders*
+## Deluders
 
 *This second beast performed great miracles; it made fire come down out of heaven to earth in the sight of everyone. And it deceived all the people living on the earth by means of the miracles which it was allowed to perform in the presence of the first beast. The beast told them to build an image in honor of the beast that had been wounded by the sword and yet lived.* 
 
@@ -1324,7 +1324,7 @@ The Deluders (unlike the Spirits of Deceit) trick and deceive mankind in very sp
 
 testament to their ability to deceive. The natural form of a deluder is a jagged rent of darkness, filled with eyes, teeth, and pulsating organs, although they are able to fashion cloaks of delusion to allow them to appear in any form. They make extensive use of the Envisioning Power to grant false visions and dreams to their victims.
 
-## *Deluders*
+## Deluders
 
 **Infernal Might**: not more than 25 **Ranks:** Master and Lord are uncommon, Duke is unusual, Prince is very unusual
 
@@ -1343,9 +1343,9 @@ testament to their ability to deceive. The natural form of a deluder is a jagged
 A Deluder is revealed as having posed as a member of the Order of Hermes for over eight years. Every action that magus has taken must now be re-examined to discover the intent of the demon. The "magus's" apprentice is in great peril of being slain by hoplites. And what of the *real* magus? What was his fate? Does he still live, and was he really an unwilling participant?
 
 
-#### *Realms of Power*
+#### Realms of Power
 
-## *Aerial Powers*
+## Aerial Powers
 
 *And after these things I saw four angels standing on the four corners of the earth, holding the four winds of the earth so that no wind should blow on the earth, or on the sea, or against any tree. And I saw another angel ascending from the east with the seal of the living God: and he called out in a loud voice to the four angels, to whom it was given to hurt the earth and the sea.* 
 
@@ -1355,7 +1355,7 @@ Aerial Powers take the form of huge human figures, often composed of or surround
 
 Despite their name, the Aerial Powers are not confined to tempests, winds, and other weather phenomena. Each Aerial Power has command over one particular natural calamity; thus their ranks include the demon of landslides, the demon of wildfire, the demon of hail, and so forth.
 
-## *Furies*
+## Furies
 
 *Frowardness is in his heart, he devises mischief continually; he sows discord.* 
 
@@ -1363,7 +1363,7 @@ Despite their name, the Aerial Powers are not confined to tempests, winds, and o
 
 The seventh order of demons consists of the disseminators of strife, discord, war, and devastation. They represent the sins of the lion, that is, human reason subdued by animal passion. These flaws are also called sins of violence or bestiality, consisting of perverted appetite. The Furies embody those who submit to their impulses; not anger itself, but anger taken to an extreme, anger directed against one's self, one's belongings, against nature, or against God. The profligate who dissipate their goods for the sheer wanton lust of wreckage and disorder, the gossip who destroys another's reputation, the cruel child who tortures animals, the suicide who inflicts his anger on himself, the heretic who rails against God; all these are inspired by the Furies.
 
-## *Aerial Powers*
+## Aerial Powers
 
 **Infernal Might**: not more than 25 **Ranks:** Master and Lord are uncommon, Duke is unusual, Prince is very unusual
 
@@ -1378,7 +1378,7 @@ The seventh order of demons consists of the disseminators of strife, discord, wa
 - As a massive storm threatens to devastate a coastal village, the characters rush to banish the demon that lies at its heart. •
 - A diabolist master of Aerial Powers can be a mighty foe to the Order. At first, magi may be unaware of the demonic presence, for natural disasters, while unfortunate, do occur. However, when the third magus from the same covenant meets with an unfortunate accident while away from home, even the most cynical become suspicious. •
 
-## *Furies*
+## Furies
 
 **Infernal Might**: not more than 20 **Ranks:** Master is uncommon, Lord is unusual, Duke is very unusual
 
@@ -1408,7 +1408,7 @@ A child who is Gifted but severely abused by his family and peers finds a way to
 
 Fitting their nature, the Furies take the form of mixtures of brute and human. They delight in pushing mankind to the limit, driving them to the crisis point where passions take control and their victims lash out at those innocent of crime, such as those whom they love. To the rabbis, they are called the enim — the terrors — for nothing is more terrible than the passion that lies beneath the surface of every rational person.
 
-## *Accusers*
+## Accusers
 
 *And I heard a loud voice saying in heaven, "Now God's salvation has come! Now God has shown his power as King! Now his Messiah has shown his authority! For the accuser of our brethren has been thrown from heaven, he whom accused them before our God day and night."* 
 
@@ -1416,7 +1416,7 @@ Fitting their nature, the Furies take the form of mixtures of brute and human. T
 
 Like the Avengers of Evil, these creatures claim that they are angels, doing God's work in Hell. The "accusing angels" confront mortals with the consequences of their sins, but, unlike their more powerful brethren, they seem to take delight in tormenting sinners. They often work with other demons, using their unique Powers to uncover the sins of mortals. The Accusers take the appearance of traditional fiends, human-shaped but naked, with skin of an unnatural color (scarlet, green, blue, and so forth), a beak-like face, horns on the head, and a pair of batlike wings.
 
-## *Tempters & Evil Spirits*
+## Tempters & Evil Spirits
 
 *And lead us not into temptation, but deliver us from evil: For thine is the kingdom, and the power, and the glory, for ever. Amen.* 
 
@@ -1426,7 +1426,7 @@ The ninth order is the largest of all, populated as it is with the evil spirits 
 
 The Tempters as a whole most often appear as twisted mockeries of human beings, often black in color or daubed in filth. Many have a deformity, such as being blind, having the feet of a cockerel, or having their head at the bottom of their torso rather than the top. Those involved in the temptation of man usually have a deformity that can be concealed with clothing. Tempters are responsible for the propagation of sins of incontinence (that is, uncontrolled appetite). These are sins less of deliberate evil than of failure to resolutely choose good. They are the sins of self-indulgence, weakness of will, and easy yielding to appetite — the sins
 
-## *Accusers*
+## Accusers
 
 **Infernal Might**: not more than 20 **Ranks:** Master and Lord are unusual **Personality Traits**: Cruel +6 **Powers**
 
@@ -1438,7 +1438,7 @@ The Tempters as a whole most often appear as twisted mockeries of human beings, 
 
 The sinful acts of a magus attracts the attention of an Accuser that torments the character with misfortune and evil until he sets right the evil he has done. However, among so many sinful acts, how does the magus know which one he must set right?
 
-## *Tempters & Evil Spirits*
+## Tempters & Evil Spirits
 
 **Infernal Might**: not more than 20 **Ranks:** Master is unusual, Lord is very unusual
 
@@ -1457,13 +1457,13 @@ ish indulgence of lust — usually mutual — rather than rape, which is a sin o
 
 The Tempters may be broadly divided into two groups, each fulfilling different roles. Those demons known as the *tentatores* are the Tempters who try to ensnare mankind in sin, whereas the *maligenii* are evil spirits who work against mankind by making life more perilous.
 
-# *Using Demons in Your Saga*
+# Using Demons in Your Saga
 
 *Lest Satan should get an advantage of us: for we are not ignorant of his devices.* 
 
 — II Corinthians 2:11
 
-## *A Life Lacking in Virtue*
+## A Life Lacking in Virtue
 
 *The Devil and the other demons were created by God with a good nature; but they themselves through their own agency became evil. Man, however, sinned at the suggestion of the devil.*
 
@@ -1519,9 +1519,9 @@ A lack of prudence means that demons cannot act sensibly. They rely on their num
 Through the faculty of prudence, humans gain wisdom; that is, intellect tempered with memory and experience. Demons rarely take past experiences into account when acting, treating every situation as a new one. They are capable of remembering the past; it is just that they lack the ability to connect their memory with their intelligence. Demons are therefore prone to repeating their mistakes,
 
 
-#### *Realms of Power*
+#### Realms of Power
 
-## *Checklist for Roleplaying Demons*
+## Checklist for Roleplaying Demons
 
 No demon can do the following:
 
@@ -1591,11 +1591,11 @@ Temperance is also the virtue that gifts meekness and humility to humanity, and 
 
 Temperance also reins in anger. The vice of wrath is never far from the surface with a demon. A thwarted demon may indulge in a rampage of senseless fury before succumbing to despair, even to the extent of killing valuable henchmen or disrupting long-term goals.
 
-## *Human Assistance*
+## Human Assistance
 
 As has been made clear in the previous section, demons require humans for the execution of their plans. Demonic subordinates are generally more capable than the average human, but they have a
 
-## *Story Seeds: Human Assistance*
+## Story Seeds: Human Assistance
 
 - A noble's aged counselor, now blind, lives out his life in retirement in a manor house generously provided by his former employer. He receives regular visits from the noble's son, and they discuss hypothetical issues of morality and politics. The 'son' is, alas, a demon, taking advantage of the human's innate capacity for prudence to guide its schemes. •
 - A demon ensures the promotion of his clergyman dupe to high office. It guides his servant through dreams to achieve the its goals, but the clergyman uses his own tactics to achieve those goals. •
@@ -1613,12 +1613,12 @@ An intelligent demon places corrupted humans at key points in their plan, making
 
 Powerful demons have made an art form of suggesting plans to humans and letting them corrupt themselves. The need for demonic involvement is kept to the absolute minimum, providing tweaks, pushes, and supernatural involvement where necessary, but by and large demons watch rather than do.
 
-## *The Role of Demons*
+## The Role of Demons
 
 The powers of Hell have one goal in mind — the corruption of all humanity. However, it cannot be said that all demons have a common goal. In fact, it can be truthfully said that every single demon on Earth has a different reason for being there. In stark contrast to the Divine realm, which marshals God's forces like a well-oiled machine towards the salvation of mankind, the Infernal realm embodies chaos, discord, strife, and schism. Demons are not natural team players due to their innate selfishness, and their main strengths are the sheer number of demons active on earth and the natural propensity for man to sin.
 
 
-#### *Realms of Power*
+#### Realms of Power
 
 There are three major ways in which demons seek to ensnare humans in the interests of Hell. They seek to destroy, to deceive, and to corrupt.
 
@@ -1661,7 +1661,7 @@ Corrupters are usually able to rein in their impulses towards impatience, for co
 Chapter 5: Demons as Corruptors gives details of demons who are particularly suited to roles as Corrupters.
 
 
-# *A Directory of Demons*
+# A Directory of Demons
 
 | Name                                  | Might  | Order                         | Family            | Role                                    |
 |---------------------------------------|--------|-------------------------------|-------------------|-----------------------------------------|
@@ -1722,9 +1722,9 @@ Chapter 5: Demons as Corruptors gives details of demons who are particularly sui
 | Xaphan, Forge-man of Hell             | 15     | Aerial Powers                 | —                 | Destroyer (Chapter 7)                   |
 |                                       |        |                               |                   |                                         |
 
-## *Chapter Five*
+## Chapter Five
 
-# *Demons as Corrupters*
+# Demons as Corrupters
 
 #### **Adramelech, King of Fire**
 
@@ -1884,7 +1884,7 @@ Dodge: Init +7, Attack n/a, Defense +14, Damage n/a
 *Insignificance*, 0 points, Init 0, Vim: No Magic, Infernal or Faerie Power can force Bomburkhan to use any of his Powers.
 
 
-## *Decani*
+## Decani
 
 **Order:** Masters of the Avengers of Evil
 
@@ -2049,7 +2049,7 @@ Great Weapon 4 (great sword), Infernal Lore 2 (plots), Intrigue 4 (his "charge")
 
 **Powers:**
 
-## *Famuli*
+## Famuli
 
 **Order:** False Gods
 
@@ -2070,7 +2070,7 @@ An example of a famulus is
 *Obsession*, 1 to 3 points, Init –5, Vim: Pride. See Chapter 4: Infernal Legions, Demonic Powers.
 
 
-#### *Realms of Power*
+#### Realms of Power
 
 *Punish the Sinner*, 5 points, Init +3, Corpus: See Chapter 4: Infernal Legions, Avengers of Evil.
 
@@ -2132,7 +2132,7 @@ Hutriel (the "Rod of God") punishes the profligate, particularly those who are e
 
 **Characteristics:** Int +1, Per +3, Pre 0, Com 0, Str –3, Sta 0, Dex +4, Qik +3
 
-## *Story Seed: Lickspitten*
+## Story Seed: Lickspitten
 
 The player magi slay an infernalist, and discover amongst his belongings a "magical" talking cat, trapped in a cage for some nefarious purpose. Lickspitten actually climbed into the cage when it became obvious that his former master would meet his end. He would love to become the familiar of a magus of the Order....
 
@@ -2221,7 +2221,7 @@ Bludgeon: Init +4, Attack +9, Defense +7, Damage +6
 
 *Obsession*, 1 to 3 points, Init –5, Vim: Repentance. See Chapter 4: Infernal Legions, Demonic Powers.
 
-## *Incubi & Succubae*
+## Incubi & Succubae
 
 **Order:** Tempters
 
@@ -2250,7 +2250,7 @@ An example succubus is **Druia. Infernal Might**: 5 (Corpus) **Virtues and Flaws
 Metathiax is the decanus who inflicts diseases of the kidneys. When he uses his Punish the Sinner Power, stabbing abdominal pains are inflicted on the victim. The diseases he inflicts rot the kidneys and the bladder, causing extreme pain when urinating and the passing of blood. He rules the first third of Cancer's reign, and always commences his attacks during the full moon. A knowledgeable exorcist knows that the attacks of Metathiax may be calmed by the reading of poetry, and those who attempt such therapy may gain a bonus to recovery rolls equal to one=half of the poet's Ability score. Metathiax is thwarted by the angel Adonael.
 
 
-## *Ruchin*
+## Ruchin
 
 **Order:** Tempters
 
@@ -2366,7 +2366,7 @@ Claws: Init +1, Attack +15, Defense +13, Damage +8
 
 Diabolists have many uses for Valefar. His Powers assist conspiracy, and he is one of the demons that teaches how to manufacture magical items out of the remains of hanged criminals. Valefar can also find mandrakes for his masters. His imposing physical presence and knowledge of thievery make him a skilled guard. Because he is of relatively low intelligence, he is easily dominated by a quick-witted master. However, Valefar is not as dim-witted as one might think. He always leads his masters to the gallows before they can repent. He is aware that he is not a skilled schemer, but he knows many demons that are, and he is willing to work under their direction, so long as it always appears that he works alone. His limitation includes members of the Order of Hermes, who venerate Hermes. He therefore hates Hermetic magi and sets his people against them.
 
-## *Shedim*
+## Shedim
 
 **Order:** Tempters
 
@@ -2386,7 +2386,7 @@ An example of a shedeh is **Nitibus**. **Infernal Might:** 20 (Vim)
 
 *Protection of the Close Friend*, 0 points, Init +3, Mentem: The chosen victim of a shedeh cannot act directly against it without extreme provocation; it would be akin to attacking one's own mother. The victim may be as angry as they like with the demon, but actually physically opposing it requires a huge effort of will, which must be repeated every time the victim wants to renew his attacks.
 
-## *The Hand of Glory*
+## The Hand of Glory
 
 Valefar can teach any individual, whether Gifted or not, to make a hand of glory by taking the hand of a hanged murderer and dipping it in specially prepared wax. Those Valefar has aided in thievery are particularly suitable donors. The hand is fitted with candles made from a noxious wax, with wicks made from the hair of a dead man, so that each finger can be lit like a candle. A hand of glory has five charges, once per finger. Each has the effect described below, which can also be created by Hermetic magic, as the spell *Infernal Sleep of the Damned*. (Since this Power is identical to a possible Hermetic spell, some magi make Hermetic hands of glory, which need not even be hands; Valefar loathes magi who do this.) The Infernal item has Penetration 0, but does not suffer from Valefar's weakness unless the demon made it personally.
 
@@ -2406,9 +2406,9 @@ A hand of glory renders most people within a building, other than its holder, un
 
 
 
-## *Chapter Six*
+## Chapter Six
 
-# *Demons as Deceivers*
+# Demons as Deceivers
 
 #### **Andrew, an Infernal Ghost**
 
@@ -2608,7 +2608,7 @@ Hooves: Init +2, Attack +5, Defense +8, Damage +6
 *Change Form*, 0 points, Init 0, Corpus or Animal: See Chapter 4: Infernal Legions, Spirits of Deceit.
 
 
-#### *Realms of Power*
+#### Realms of Power
 
 *Trust of the Innocent*, 1 point, Init –1, Mentem: See Chapter 4: Infernal Legions, Spirits of Deceit.
 
@@ -2678,7 +2678,7 @@ Switch: Init +6, Attack +11, Defense +10, Damage +4
 
 Bordelon believes that meekness is a virtue, and that those who strive to better themselves are victims of pride. Her goal is to crush all ambition and prevent those whom she watches from committing the very sin of Satan himself. Bordelon chooses a child early on in his life and becomes his personal tormentor (granting the Story Flaw Plagued by a Demon). The child soon learns that the demon's periodic appearances are more frequent whenever he tries to distinguish himself from his peers, so her victims tend to become withdrawn, unambitious, and meek. Whenever her victim acts in a way that would grant a Confidence Point due to increased selfworth, he can expect a visit from Bordelon to punish the presumption.
 
-## *Enervators*
+## Enervators
 
 **Order:** Deluders
 
@@ -2731,7 +2731,7 @@ Dodge: Init +6, Attack n/a, Defense +10, Damage n/a
 *The Wordless Conversation*, 0 points, Init 0, Mentem: See Watchers.
 
 
-## *Infernal Dragons*
+## Infernal Dragons
 
 **Order:** Masters of the Spirits of Deceit
 
@@ -2755,7 +2755,7 @@ See Chapter 4: Infernal Legions, Deluders.
 
 Forcas is well known among natural magicians and other educated hedge wizards; he devotes his time to teaching them rhetoric, logic, and mathematics, as well as the Unholy Powers he knows. Like many Deluders, he claims to be an airy spirit (aligned to the Magic realm, rather than the Infernal realm), and seemingly teaches his lore out of goodwill. He usually acquires a famulus (see Chapter 5: Demons as Corrupters, Famuli) for any of his students who have magical abilities, so that the famulus can hide his Infernal nature. He can render people invisible, and can restore lost property. However, he claims to his students that he teaches them to become invisible, whereas in reality it is Forcas who enacts the illusion, hidden from sight in his discorporate form.
 
-## *Men of Good Intent*
+## Men of Good Intent
 
 **Order:** Spirits of Deceit
 
@@ -2821,7 +2821,7 @@ Dodge: Init +2, Attack n/a, Defense +5, Damage n/a
 
 *Whispers Behind the Back*, 2 points, Init 0, Mentem: See Chapter 4: Infernal Legions, Accusers.
 
-## *Spirits of Solomon*
+## Spirits of Solomon
 
 **Order:** Deluders
 
@@ -2868,7 +2868,7 @@ Punch: Init +1, Attack +7, Defense +7, Damage +6
 **Soak:** +5
 
 
-## *Watchers*
+## Watchers
 
 **Order:** Dukes of the Deluders
 
@@ -2970,9 +2970,9 @@ Premnemosyne is a demon of acedia, the spiritual version of the sin of sloth. Sh
 > Premnemosyne is currently active in a small town in the Rhineland, ruled by a nobleman under diabolic influence. She spreads folktales about a hero who will come to cast him down, so that people are tempted to wait for a savior who will never come.
 
 
-## *Chapter Seven*
+## Chapter Seven
 
-# *Demons as Destroyers*
+# Demons as Destroyers
 
 #### **Architectus, Demon Builder**
 
@@ -3070,7 +3070,7 @@ Long sword\*: Init 0, Attack +14, Defense +5, Damage +12
 
 *Worm of the Mind*, 5 points, Init 0, Mentem: Bael's toad head can spit a venom into the mouth of a sleeping victim, which
 
-## *Aethnici*
+## Aethnici
 
 **Order:** Aerial Powers
 
@@ -3090,7 +3090,7 @@ Flame and Heat
 
 *Elemental Control of Fire*, variable points, Init +1, Ignem: As the Power common to all Aerial Powers. The aethnici prefer effects such as Hornet Fire and Tremulous Vault of the Torch's Flame.
 
-## *Story Seed: The Demon's Daughter*
+## Story Seed: The Demon's Daughter
 
 Architectus raises children, partially as a hobby, but also as an extension of his grand schemes. He finds an orphaned girl with a strong Supernatural Talent and raises her as his own daughter in an Infernal regio. The girl always meets a heroic boy from the mundane world, always steals the whip that she thinks commands Architectus's horde of demons, and always arranges for her swain to escape with her. She uses the horde, controlled by the whip, to build a great castle and fill its treasury with gold stolen as a dowry, and then tricks her wrathful father into acquiescence.
 
@@ -3117,7 +3117,7 @@ burrows into his mind and destroys all volition. The victim becomes a mindless a
 Bael is one of the most terrible of his demonic order. He claims the title of King, which is clearly ironic, for he seeks to provoke wars between nations and
 
 
-## *Demons of the Fifth Trump Story Seed: Demons*
+## Demons of the Fifth Trump Story Seed: Demons
 
 **Order:** Furies
 
@@ -3173,7 +3173,7 @@ Fist: Init –4, Attack +6, Defense +2, Damage +4
 
 *Born of Rock*, 0 points, Init 0, Terram: The body of this demon is made from solid rock. This makes it exceedingly heavy and almost impossible to harm by mundane means.
 
-# *of the Fifth Trump*
+# of the Fifth Trump
 
 A group of Luciferans (see Chapter 13: Infernal Traditions) have summoned some of these demons to confirm their own interpretations of the Last Days. However, they had not counted on the demons being so powerful, were unable to bind them, and were eaten. The demons still prowl the region, spreading fear and confusion. A priest has recognized their description from the Book of Revelations, and has convinced his flock that the Fifth Trump has already been sounded.
 
@@ -3234,7 +3234,7 @@ Material, depending upon what their mother had been eating prior to their birth.
 
 Gavi was a greedy merchant in life who went to Hell for his sins. Desperate to rid himself of the sin of greed, thinking this will allow him to enter Heaven, Gavi forces his victims to carry out mad acts of charity. He gives all their money away, forces others to take their greatest possessions, and even force-feeds beggars.
 
-## *Dibbukim*
+## Dibbukim
 
 **Order:** Furies
 
@@ -3246,7 +3246,7 @@ An example of a Dibbuk is **Gavi**. **Infernal Might:** 15 (Mentem) **Weakness:*
 
 *Possession*, variable points, Init +2, Mentem: See Chapter 4: Infernal Legions, Demonic Powers.
 
-## *Fictiles*
+## Fictiles
 
 **Order:** Aerial Powers
 
@@ -3259,7 +3259,7 @@ In their natural form, the fictiles (singular fictilis) seem to be composed of w
 
 
 
-### *Realms of Power*
+### Realms of Power
 
 #### **Golab, Foe of the Seraphim**
 
@@ -3410,7 +3410,7 @@ Dodge: Init +3, Attack n/a, Defense +5, Damage n/a
 
 *Form of Man*, 0 points, Init 0, Corpus: See Chapter 4: Infernal Legions, Vessels of Iniquity.
 
-## *Lilin*
+## Lilin
 
 **Order:** Tempters
 
@@ -3422,7 +3422,7 @@ The lilin (singular lil) are the night spirits who give nightmares and smother c
 
 *Mass Hallucination*, 3 points, Init 0, Imaginem: Lilin using their Envisioning Power to influence someone's dreams can activate this Power so that other sleepers join the same dream. They can combine many dreams to make up to ten people experience the same nightmare, or they may involve other beings (usually other demons) as conscious agents in the victims' dreams.
 
-## *Lucifuges*
+## Lucifuges
 
 **Order:** Aerial Powers
 
@@ -3447,7 +3447,7 @@ The lucifuges are a breed of demon that naturally dwell deep in the earth and pr
 **Appearance:** In human form, Hulikang takes the appearance of a hulking man with a bruised face and broken nose. He always wears a knitted cap and scarf, as a tribute to his greatest mischief ever.
 
 
-## *Maggots*
+## Maggots
 
 **Order:** Tempters
 
@@ -3466,7 +3466,7 @@ An example of a maggot is **Mahonin**.
 
 ebration, he encourages intoxication and rivalries in the crowd. Once the crowd has been prepared, he frightens them, in the hope that they will become a violent mob. He is particularly skilled at disrupting sporting events between rival villages. Hulikang often works with a partner, a female demon who names herself Nike after the ancient Greek goddess of victory. When operating as a pair, each claims the portion of the crowd supporting one team in a competition, and tries to outdo the violence the other provokes. He is also the captain of a sports team consisting entirely of demons, called the Red Devils.
 
-## *Story Seed: Hulikang*
+## Story Seed: Hulikang
 
 A vis source takes the form of a yearly sporting contest between the covenant and a team of faeries. The winner of the contest receives the prize of vis. However, Hulikang has discovered the vis source, and if he is successful in influencing the winning team to violence, the prize becomes vis infesta (see Chapter 1: The Infernal Realm, Infernal Vis) instead. This situation can last for years before the characters realize that a demon is involved.
 
@@ -3561,7 +3561,7 @@ Dodge: Init +3, Attack n/a, Defense +8, Damage n/a
 
 **Appearance:** Morrighu appears with the body of a carrion crow, but the upper parts of an ancient woman. Huge black wings extend from her shoulders. She has long, pointed ears and is always accompanied by a strong wind.
 
-## *Mazzikim*
+## Mazzikim
 
 **Order:** Tempters
 
@@ -3579,7 +3579,7 @@ of the clergy)
 
 *Fear of the Wilderness*, 2 points, Init +1, Mentem: The victim of this Power suffers an overwhelming dread, and if he fails a Brave stress die roll against an Ease Factor of 7, he runs in fear until exhausted, or (if unable to run) collapses in a quivering heap until the sun rises. If the mazzik uses this Power when it may be seen, then anyone who sees it (up to ten people) is affected; otherwise it can affect only one target.
 
-## *Merry Devils*
+## Merry Devils
 
 **Order:** Vessels of Iniquity
 
@@ -3619,7 +3619,7 @@ Morrighu is a demon of warfare. In former times she was more powerful, and she c
 
 
 
-#### *Realms of Power*
+#### Realms of Power
 
 **Reputations:** Foe of Mankind 4 (Infernal), Lord of the Seraphim 5 (Infernal)
 
@@ -3750,7 +3750,7 @@ Splintered form: –1 (1), –3 (2), –5 (3), Incapacitated (4)
 
 *Piercing Eye*, 0 points, Init +5, Imaginem: Sabaoth's vision is not impeded by stone, wood, or metal.
 
-## *Reveners*
+## Reveners
 
 **Order:** Vessels of Iniquity
 
@@ -3821,7 +3821,7 @@ Grapple: Init +1, Attack +10, Defense +8, Damage n/a
 
 
 
-#### *Realms of Power*
+#### Realms of Power
 
 **Abilities:** Athletics 3 (sprinting), Awareness 3 (prey), Brawl 5 (teeth), Great Weapon 5+2 (cudgel), Hunt 4 (men), Survival 5 (foraging), Swim 3 (against the current)
 
@@ -3895,9 +3895,9 @@ Xaphan avoids combat where possible, evading his enemies, and incinerate their h
 
 *76*
 
-## *Chapter Eight*
+## Chapter Eight
 
-# *Corrupted Beasts*
+# Corrupted Beasts
 
 Corrupted beasts can become so in a number of different ways. Some are mundane beasts corrupted directly by the power of a demon, while others are born corrupted after a coupling between a demon and a beast. Creatures that dwell in an Infernal aura become corrupted by the very nature of the area; this may only become apparent in the offspring of animals moving into a weak Infernal aura, but is a result of Infernal Warping in stronger auras. Certain Infernal auras (see Chapter 1: The Infernal
 
@@ -3905,7 +3905,7 @@ Realm, Infernal Auras) may corrupt a creature overnight. Finally, some diabolist
 
 To create the game statistics of a corrupted beast, start with the statistics of a mundane beast (for example, using the rules in *Houses of Hermes: Mystery Cults,* pages 38–43), and apply the Corrupted Beast Flaw, described below. Balance this Flaw with a Virtue, or, if the beast has been corrupted for a long time, or was born in such a state, apply more Flaws to acquire further Virtues. Virtues and Flaws for corrupted beasts may only be chosen from the list below, and are described on the following pages. The corpse of a corrupted beast typically contains one pawn of vis for each 5 Might Points it possessed.
 
-## *Virtues & Flaws for Corrupted Beasts*
+## Virtues & Flaws for Corrupted Beasts
 
 **Compulsory Flaw:** Corrupted Beast **Virtues:** Greater Immunity, Greater Infernal Power, Ferocity, Lesser Immunity, Lesser Infernal Power
 
@@ -3926,9 +3926,9 @@ The beast has a weakness similar to those of demons. Choose an appropriate limit
 
 
 
-#### *Realms of Power*
+#### Realms of Power
 
-## *Example Horrifying Appearances*
+## Example Horrifying Appearances
 
 - The creature has a pair of huge but useless wings, which hang limply at the sides of its body. •
 - The creature's skin is transparent, so that its organs can be seen pulsating within its flesh. •
@@ -3990,7 +3990,7 @@ Bite: Init +2, Attack +11, Defense +10, Damage +5
 
 **Wound Penalties**: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20)
 
-#### *The Infernal*
+#### The Infernal
 
 **Abilities:** Athletics 4 (pursuit), Awareness 4 (keeping watch), Brawl 6 (bite), Hunt 4 (track by scent)
 
@@ -4039,9 +4039,9 @@ Kick: Init +1, Attack +13, Defense +5, Damage +12
 This horse is one of three created by an Infernalist magus in a tribunal at the fringes of the Order by repeated applications of a tainted version of *Steed of Vengeance* (MuAn 35). There were many failures before he successfully created these three corrupted beasts. Because the untainted version of the spell is wellknown, he is able to use the steeds in front of other magi with impunity.
 
 
-## *Chapter Nine*
+## Chapter Nine
 
-# *Infernal Characters*
+# Infernal Characters
 
 Almost as frightening as the creatures aligned with the Infernal realm are those mortals who follow the Devil, by choice or by chance, for they gain many new Supernatural Powers that they may use in Hell's service, though they may also inherit supernatural hindrances associated with their Infernal allegiance. They also learn new skills that aid them in practicing evil,
 
@@ -4050,7 +4050,7 @@ and over time they may even themselves become creatures of the Infernal realm.
 The Virtues and Flaws described below may be taken during character creation if the character has some association with the Infernal. He need not be an **infernalist** — that is, he does not need to be aligned with the Infernal realm — though some of them require him to have special infernal background Flaws, and others are part of a set of Powers that require multiple Virtues to have an effect (see Chapter 10: The Maleficia and Chapter 11: Ars Goetia). These are summarized here, and are also explained in
 
 
-# *False Powers*
+# False Powers
 
 Most Supernatural Virtues, Flaws, and Abilities are associated with only one particular realm. That is, while Premonitions could come from any realm of power, a particular character's Premonitions are due to one realm in particular. However, the Infernal realm is divisive and insidious, and so characters can have special Powers that are aligned with the Magical or Faerie realms, but which are also subtly tainted by the Infernal. These are called **False Powers**. From a practical standpoint, False Powers are no different from any other Supernatural Virtues or Flaws, save that Divine Powers (and some Infernal ones) perceive them as unholy. For example, a False Shapeshifting Power might be Faerie for the purposes of realm interaction bonuses and penalties, and appear to be associated with the Faerie realm when subjected to magical or faerie investigation. However, the Power would read as unholy when investigated by a character with the Divine Power to Sense Holiness and Unholiness.
 
@@ -4060,7 +4060,7 @@ Because of this false aspect, many people in Mythic Europe believe that all who 
 
 Others believe that False Powers are simply Powers that share a mystical sympathy with the Infernal realm, but that are not actually evil, evidenced by the fact that they do not interact with auras as Infernal Powers. Creatures of darkness,
 
-## *True or False?*
+## True or False?
 
 The Divine realm is utterly opposed to the Infernal realm; it sees anyone and anything associated with the Infernal as its enemy, to be either turned or destroyed. Divine beings generally treat the Powers of the Magic and Faerie realms as neutral; they either have the same choice between good and evil as human beings do, or they are like animals that have no existence in the hereafter and thus are not involved in the spiritual conflict between God and the Devil. The Infernal realm, however, does not consider anyone to be neutral. It embodies destruction and chaos, and is opposed to everything and everyone, even its own agents. Magical and faerie creatures are often the targets of its evil designs. But Hell does not only harm those it hates, for it also corrupts them and draws them into its service. Many demons are fallen angels, but others are faeries or magical beings that have also been transformed. Hell continually swells its ranks with creatures taken from anywhere it can get them.
 
@@ -4072,18 +4072,18 @@ Fortunately for magi with these sorts of abilities, the argument that False Powe
 
 Repeated use of Supernatural Powers in Infernal auras can eventually change them into False Powers via Warping, representing a corruption of the Power through long association with the Infernal.
 
-## *Tainting the Divine*
+## Tainting the Divine
 
 Some whisper that the forces of Hell can even taint Powers granted by the Divine, so that a holy saint might seem Infernal, or an angel inspire the same stench of unholiness as a demon. Most people are reluctant to believe this, but fear that it might be true.
 
 Powers can also become False because of supernatural botches, or the interference of infernal agents. See the False Powers Flaw, below, for an option for starting characters with False Powers.
 
-## *Mythic Companions*
+## Mythic Companions
 
 In **Ars Magica**, magi and other Gifted characters are inherently more powerful than mundane people, and so for reasons of game balance they are usually considered superior to companion characters.
 
 
-## *New Virtues*
+## New Virtues
 
 #### **Major, Hermetic**
 
@@ -4129,7 +4129,7 @@ However, sometimes a player wants to design a character without The Gift who can
 
 Mythic Companions have a special Free Virtue that describes what makes them unique, and like magi they receive a bonus Virtue point that describes their special focus. The player may then take up to ten points of Flaws as normal, but for them each of these Flaws is worth twice as many Virtues, so that a Mythic Companion with ten points of Flaws can have as many as 21 points of Virtues. The Free Virtue that describes the character often specifies how some of these points may be spent, and sometimes includes other limitations such as forbidden Virtues and Flaws, and required scores in particular Abilities taken during character creation. Mythic Companions may not take The Gift.
 
-# *Tainted Virtues and Flaws*
+# Tainted Virtues and Flaws
 
 Some of the Virtues and Flaws listed below are categorized as Tainted. These are for characters who have been tainted by demons, as described under Tainted Characters, below. Tainted Virtues and Flaws also belong to another category, such as Supernatural, and characters who
 
@@ -4137,7 +4137,7 @@ Some of the Virtues and Flaws listed below are categorized as Tainted. These are
 
 are not tainted may take them during character creation or receive them in response to Infernal Warping. However, a character should not begin with more than half of his starting Virtues or Flaws Tainted. This means no more than five points of Tainted Flaws and five points of Tainted Virtues (or ten points of Virtues for Mythic Companions).
 
-## *New Virtues*
+## New Virtues
 
 **Ablating**
 
@@ -4210,7 +4210,7 @@ The character has been exposed to the machinations of demons so often that he ha
 Some infernalists can teach corrupted knowledge, made possible by this Virtue. This gives the character the Supernatural Ability of Corruption at 1. See New Abilities, below, for details.
 
 
-## *Characters with Might Scores*
+## Characters with Might Scores
 
 Characters with a Might score are not human, strictly speaking. No being with a Might score can have Virtues which affiliate them to another realm, for they are full members of the supernatural realm which gives them their Might. This includes The Gift, True Faith, Faerie Blood, Blood of the Nephilim (see *Realms of Power: The Divine*), and any Supernatural Virtues that draw on sources from a different realm than that of their Might. They may not even take corrupted versions of these Virtues, such as The False Gift. If a character receives Magic Resistance from more than one source, these totals do not stack, even if they derive from the same realm (Infernal Might and an Infernal Power, for example); you simply use the higher total. Characters with a Might score are immune to all Warping (see Warping and Non-Humans, ArM5, page 168). They may, however, spend a point of their Might Pool to use any Ability or Power that normally incurs Warping (such as Incantation or gaining Confidence though sinning). Those with a Might score are immune to supernatural backlashes of their realm, such as Twilight, Hubris, Vituperation, and so forth, but still suffer any other consequences of a failed or botched roll when using their Powers.
 
@@ -4345,7 +4345,7 @@ Here are some common blessings. All, of course, are subject to storyguide approv
 - **Infernal Protection** (Incantation, Diablerie, Level 40): The character has a Magic Resistance score of 15. **•**
 - **Infernal Prowess** (Debauchery, Consumption, Level 40): The character has enhanced the effectiveness of her body, giving her a +3 bonus to either Soak or Damage, but adding 3 to her Load; or increasing her **•**
 
-#### *Realms of Power*
+#### Realms of Power
 
 Initiative, Attack, or Defense by 3, but penalizing her Fatigue rolls by the same amount.
 
@@ -4421,7 +4421,7 @@ The difficulty is that the wealth is cursed, so it lacks the natural increase in
 
 The wealth may be used to purchase the services of people, who, because they have souls, choose their own fates. The limitation that the wealth only allows itself to be spent sinfully remains, however, so it is likely to be given to amoral, covetous, envious, dangerous people.
 
-## *New Flaws*
+## New Flaws
 
 **Major, Personality**
 
@@ -4467,7 +4467,7 @@ Corrupted Abilities Corrupted Arts Corrupted Spells Impious Friend Manufactured 
 
 No Tradition Witch Marks
 
-## *New Flaws*
+## New Flaws
 
 #### **Corrupted Abilities**
 
@@ -4485,7 +4485,7 @@ The character has studied one of the Hermetic Arts from a corrupted source. Use 
 
 
 
-#### *Realms of Power*
+#### Realms of Power
 
 bonus (that is, when without it the roll would have failed) means he immediately acquires 5 experience points in that Art. However, uses of the Art that are neutral or selfless receive a –3 penalty, and if you fail the roll because of this penalty, he immediately loses 5 experience points in the Art.
 
@@ -4603,7 +4603,7 @@ Tainted people have difficult lives, but are not doomed from the moment of their
 - The process of creating and training tainted people contains random factors. These include inherited Flaws, like Tainted with Evil or Disfigured, which are personally painful, but might distance the character from her designed destiny. •
 - The character's relationships with other humans also provide •
 
-#### *Realms of Power*
+#### Realms of Power
 
 unpredictable elements. Most significantly, virtuous humans may notice the tainted person's tendency toward a certain type of sin, and teach them to resist it.
 
@@ -4645,9 +4645,9 @@ Vengeful Powers may be taken as a Hermetic Flaw, as applicable to Hermetic magic
 The character has minor disfigurements that those skilled in folk lore recognize as belonging to diabolists. These marks can be hidden with clothing. Characters who are thought of as witches are blamed for misfortunes and may be hounded from towns or killed.
 
 
-# *New Abilities*
+# New Abilities
 
-#### **Ceremony\***
+#### **Ceremony\**
 
 This Ability is used in conjunction with another Infernal Supernatural Ability or an Infernal Method and Power to produce a greater effect. The character must gather a group together and determine what effect they are going to enact. Since Ceremony increases the potency of Infernal power, at least one of the participants must possess the required Supernatural Ability (this character is called the **focus character**), and if it is a Power, whatever Method the character would normally use to activate it must be performed by each member of the group. Because of this, all of the participants are considered to be the caster when evaluating the effect.
 
@@ -4663,7 +4663,7 @@ Note that if every character in a coven has a score of at least 1 in Ceremony, i
 
 **Specialties:** with a certain Power or Ability, in particular circumstances, with a specific group or leader (Supernatural)
 
-#### **Chthonic Magic\***
+#### **Chthonic Magic\**
 
 This Supernatural Ability may only be learned by magi.
 
@@ -4671,17 +4671,17 @@ The character has the ability to draw upon the power of the Infernal with his ma
 
 **Specialties:** a particular sort of lab activity, using infernal vis (Supernatural)
 
-#### **Consumption\***
+#### **Consumption\**
 
 Through dark rites the character can manipulate the energy of living things, channeling it through himself or another (see Chapter 10: The Maleficia). **Specialties:** a specific target, a particular effect, in certain circumstances (Supernatural)
 
-#### **Corruption\***
+#### **Corruption\**
 
 The character is skilled at leading others to evil, without their being aware of it. This allows her to communicate in ways that subvert her audience, teaching corrupted knowledge and influencing those who heed her message. These practices rely on ceremonial and personal influence (see Chapter 2: Sin and Temptation), and have three effects.
 
 Firstly, she can exert ceremonial influence on anyone who listens to her, including strangers and player characters. By spending a Confidence Point, she can invoke a particular Personality Trait
 
-## *New Abilities*
+## New Abilities
 
 #### **Supernatural**
 
@@ -4721,25 +4721,25 @@ When she uses Corruption, roll a die (stress or simple, depending on the situati
 
 **Specialties:** ceremonial influence, personal influence, teaching
 
-#### **Debauchery\***
+#### **Debauchery\**
 
 The character focuses her will through a physical act, usually ceremonial
 
 
 
-#### **Diablerie\***
+#### **Diablerie\**
 
 The character can exert control over spirits, demons, and the Infernal realm (see Chapter 10: The Maleficia).
 
 **Specialties:** type of beings affected, a specific effect, in particular circumstances (Supernatural)
 
-#### **Effusion\***
+#### **Effusion\**
 
 The character wields power over the physical world through strife and malice, changing the properties of inorganic materials and controlling powerful forces of nature (see Chapter 10: The Maleficia).
 
 **Specialties:** causing a specific effect, a particular kind of material or phenomenon, in specific circumstances (Supernatural)
 
-#### **Hex\***
+#### **Hex\**
 
 The character can bring injury or ruin upon her enemies. There are three ways for her to activate this Power: by making eye contact with her victim and proclaiming her purpose loud enough for him to hear, by tracing temporary occult signs and symbols on her target that indicate the dark fate she intends, or by acquiring an Arcane Connection to her target and fashioning a recognizable representation that can channel the effect through sympathetic magic.
 
@@ -4780,14 +4780,14 @@ Hex is often a False Power (see False Powers, above) associated with the Magical
 
 **Specialties:** a specific duration, one method of hexing, a particular effect (Supernatural)
 
-#### **Incantation\***
+#### **Incantation\**
 
 Through blasphemous words, phrases, and prayers, the character invokes the power of the Infernal. He must chant his ritual in a loud voice, or detail the terms of the maleficium in writing (see Chapter 10: The Maleficia). This adds his Communication to your roll, and requires that he spend a point of Confidence to call the effect into being.
 
 **Specialties:** when invoking names, in writing, affecting a particular kind of target (Supernatural)
 
 
-## *Realm Affiliations*
+## Realm Affiliations
 
 Here are all of the Supernatural Virtues and Flaws that are referenced by this book, each with its associated supernatural realm for the purposes of evaluating realm interaction. For those that appear in the main book, these are the Infernal versions of those Virtues. All of them read as unholy if subjected to Divine investigation, any of them may be gained through Infernal Warping (see Chapter 1: The Infernal Realm), and many of them may be learned from a teacher of an Infernal tradition (see Chapter 13).
 
@@ -4835,26 +4835,26 @@ Some abilities (Command Animals or Amorphous, for example) involve no die rolls 
 | Summoning           | Faerie, Infernal, or Magic | Ch. 11                  |
 |                     |                            |                         |
 
-#### *Realms of Power*
+#### Realms of Power
 
 
 The character knows how to punish his enemies with diabolical curses that hinder and even destroy them using the power of the Infernal.
 
 **Specialties:** a particular effect, punishing a specific kind of sinner, a particular kind of target (Supernatural)
 
-#### **Phantasm\***
+#### **Phantasm\**
 
 The character can create and control demonic illusions that appear to be quite substantial.
 
 **Specialties:** causing a specific effect, a particular image, in specific circumstances (Supernatural)
 
-#### **Psychomachia\***
+#### **Psychomachia\**
 
 The character can possess and distort the mind, causing people to see things that are not there, act on their base desires, and obey his commands.
 
 **Specialties:** affecting a particular type of person, in particular circumstances, a specific emotion (Supernatural)
 
-#### **Sense Passions\***
+#### **Sense Passions\**
 
 The character can sense the personality and desires of an intelligent being by recognizing and identifying the different shades of tarnish on its soul. A Perception + Sense Passions roll against an Ease Factor of 9 lets her sense the most powerful emotion currently being experienced by the person, and a roll against an Ease Factor of 15 allows her to identify the character's most dominant Personality Trait. The effect must penetrate the target's Magic Resistance if it has any kind of supernatural protection, and since this is a Supernatural Ability, it is affected by auras.
 
@@ -4872,11 +4872,11 @@ Sense Passions is either a False Power (see False Powers, above), or is associat
 
 **Specialties:** auras, emotions, Personality Traits, in a general area (Supernatural)
 
-#### **True Name of (Being)\***
+#### **True Name of (Being)\**
 
 This is not an actual Ability, but rather a placeholder for knowledge gained from studying Infernal Lore. By learning a being's True Name, the character can affect it as if she had a permanent Arcane Connection to it. She learns this by studying the appropriate (Realm) Lore, which teaches her the True Name once she has gained 5 experience points, and also gives her a free experience point in that Arcane Ability. See Chapter 4: Infernal Legions, True Names for more information. (Special)
 
-# *Infernalists*
+# Infernalists
 
 The Infernal realm welcomes anyone and everyone into its sphere, and it is ridiculously easy to gain its Powers.
 
@@ -4884,7 +4884,7 @@ It is even possible for a character to start with an association with one realm 
 
 It stands to reason that it would be similarly possible to convert the other direction. This might be true, but if so it is very rare. Part of joining the Infernal realm is renouncing all ties to others. It is probably impossible for an Infernal being to return to Magic or Faerie after becoming a demon, because once a character becomes a player in the cosmic game of good versus evil, he cannot retire. However, he can switch sides; the Divine always welcomes defectors to its cause, and God's mercy is absolute if the sinner repents and strives to do better. True demons are said to be incapable of virtue, however, and so all of them have been exiled from Heaven for eternity. Many other supernatural beings are thought to have no immortal soul, being already dead or not of this world, and so God's mercy may have little value to them if, when they die, they cease to exist.
 
-## *Hierarchy*
+## Hierarchy
 
 Rank is very important to demons, as it influences how they treat each other; a duke of Hell must defer to a prince, even as he plots against him, because the prince
 
@@ -4897,7 +4897,7 @@ Any character that starts with Infernal or Infernally tainted Abilities, Virtues
 
 Infernalists and demons also have a **Hierarchy Score**, which is used in many of the formulas that determine the results of their Powers. This is simply the same as the score of the highest Reputation possessed by the character. This represents how the character has greater authority over demons and Infernal powers, but also represents a general ill-will and spiteful desire on behalf of the Infernal to see him fall, and greater suffering should Hell ever gain a hold of him.
 
-## *Vituperation*
+## Vituperation
 
 When an infernalist gains 2 or more Warping Points at once, or any time he tries to channel the power of the Infernal and fails to control it, his mind and body may be overcome with Infernal power, causing him great pain and suffering. Sometimes this is enough to cause lasting damage and leave terrible scars. The character must apply the following formula to determine if he suffers negative effects.
 
@@ -4915,7 +4915,7 @@ When the Vituperation is over, the character returns and must make an Aging roll
 
 Once this ordeal is over, the character's Confidence Score may be increased by one, if it is less than either his Warping Score or his Decrepitude. This represents how the terrifying experience hardens the character's resolve and increases his
 
-## *The Devil's Penance*
+## The Devil's Penance
 
 A devil once went to a confessor and confessed his sins. When he had finished, the confessor declared that it was impossible, he could not have committed all those acts in a thousand years. The devil answered that indeed, he was much older than a thousand years, for he was one of the demons who fell with Lucifer. The confessor asked him whether he wanted to do penance, and he said yes, so long as the penance was not too heavy for him. "Well," replied the confessor, "bow down thrice a day, saying: 'God, my Lord and Creator, I have sinned against thee; forgive me.'"
 
@@ -4925,7 +4925,7 @@ A devil once went to a confessor and confessed his sins. When he had finished, t
 
 self-reliance. The character also gains the same number of Confidence Points as he did Warping Points, though not if he botched the avoidance roll. For these reasons, an infernalist might choose to accept Vituperation without rolling to avoid it, in order to strengthen his will.
 
-## *Sacrifice*
+## Sacrifice
 
 All infernalists can perform ritual sacrifices to increase the potency of their Powers. Through an evil ceremony wherein a victim is restrained and killed, often slowly and through gruesome means such as cutting out its heart, the character dedicates the offering to the Infernal realm, which adds a bonus to his effect total. This bonus varies depending upon the type of sacrifice, as shown in the following chart, and typically adds about an hour to the length of the ritual.
 
@@ -4938,9 +4938,9 @@ All infernalists can perform ritual sacrifices to increase the potency of their 
 | human, innocent  | +10   |
 
 
-#### *Realms of Power*
+#### Realms of Power
 
-## *Profaning the Holy*
+## Profaning the Holy
 
 There is great power in the trappings of the Infernal realm, especially when it corrupts the mechanisms of the Divine, and many infernalists have learned that this Power can be harvested as a significant source of Infernal vis, repugnant though the process might be to outsiders. Anyone may profane, just as anyone may collect vis from a vis source, but it is most commonly done by infernalists and magi who have been seduced by power and seek more vis to use for their magic.
 
@@ -4960,7 +4960,7 @@ In the Christian-oriented world of Mythic Europe, it is not hard to imagine that
 
 Profaning rituals specifically designed to produce vis would surely see the characters burned or hanged as witches if discovered by the general public, and almost certainly damn their souls to Hell. Still, the siren song of unlimited vis, free for the taking, is a tempting call to sin. In desperate times, as a covenant grows to require more vis than is readily available, it is understandable that magi might allow themselves to heed its villainous voice.
 
-# *Tainted Characters*
+# Tainted Characters
 
 Demons may meddle with the creation of children to draw them under the demons' influence. The attention of the demon taints the child, which may make it appear to have inherited some of the demon's properties. The ill-educated, including the tainted person, might ascribe these properties to demonic blood. Demons often tell tainted people that they share a blood kinship, as a form of emotional manipulation. Tainted children grow into tools, which demons employ in their schemes.
 
@@ -4968,7 +4968,7 @@ Demons may meddle with the creation of children to draw them under the demons' i
 *96*
 
 
-## *Sources of Tainted Children*
+## Sources of Tainted Children
 
 Demons choose which children to taint, drawing them from four sources. Demons sometimes arrange for evil women to be impregnated by evil men, carrying semen from one to another. Some demons possess human bodies and create children using the natural capabilities of those bodies. Some children are marked through acts of great evil. Others have the misfortune to be near evil adults who have attracted the attention of the demons. These children are all tainted in a similar way.
 
@@ -4980,7 +4980,7 @@ Acts of great evil, performed against a child or its mother during pregnancy, ca
 
 Children born of evil parents sometimes attract the attention of demons by being in the vicinity of those whom demons consider interesting. These children inherit faults from their parents. The demon is interested in the parents because of these faults, and so it may appear that the child has the demon's taint, particularly if parents' sins are hidden vices.
 
-## *Demonic Uses for Tainted Characters*
+## Demonic Uses for Tainted Characters
 
 Demons do not taint children randomly; their progeny are tools. The time taken to create a tainted person detracts from the other schemes of the demons involved, so they are designed only for schemes of great importance. Tainted people are sometimes used for trivial mischief, provided it does not prevent them from fulfilling their designed destiny.
 
@@ -4988,7 +4988,7 @@ The schemes that lead powerful demons to taint children are extraordinarily conv
 
 Some Hermetic magi worry that there is a second class of tainted people: those raised as a race of willing servants. These servants provide their own children as servants, and may become numerous enough that those surplus to the demon's immediate needs can be expended on comparatively unimportant schemes. These tainted families can be difficult to destroy because killing all of the tribe's adult members is arduous, and having done so, the magus is left with the choice of murdering or arranging the upbringing
 
-## *Key Flaws for the Tainted*
+## Key Flaws for the Tainted
 
 Tainted player characters have either the Tragic Life Flaw (see New Flaws, above) or the Plagued by Supernatural Entity Flaw. The first is suited for characters still living within the control of their demonic creator. The second Flaw is for those who have rebelled against the demon's design, and incurred its enmity. Some nonplayer characters achieve freedom from their demonic creator. They lack both of these Flaws, but no tainted character begins play independent and unthreatened.
 
@@ -4998,14 +4998,14 @@ of a cluster of Infernally tainted, but innocent, children.
 
 Theorists suggest that some tainted people result from simple mischief. These are created as incidental harm by incubi or by possessing spirits as opportunities arise. Although there is no plan for them prior to their conception, the masters of these minor demons often find a tragic life to suit these tainted children. They might be a sort of gift, between subservient demons and their masters, or a trade commodity exchanged between senior demons.
 
-## *Inevitably Flawed*
+## Inevitably Flawed
 
 Demons designing tainted people have poor control over the process, since much of it occurs through a perversion of natural means. Some processes, like inheritance, are haphazard, so an element of randomness is inevitable. Most demons are able to accommodate their plans to the imperfections of their tools.
 
 Demons choose the mother and father of their tainted person with care. They arrange for a surrogate father or mother who has desirable properties that the child might absorb and express. The
 
 
-## *Example Tainted Characters*
+## Example Tainted Characters
 
 Most demonic attempts to create tainted people suitable for the Tragic Life Flaw fail. In the example characters given below, only one is following the path designed for him since before his birth. Demons find alternative uses for the products of their unsuccessful attempts.
 
@@ -5057,7 +5057,7 @@ The randomness of inheritance, and inevitable expressions of free will, may prev
 
 Most tainted people have traits that their designers did not wish to include. The chief of these is the Tainted with Evil flaw. This Flaw often occurs when the demon, or its servants, distort the human too far. The child may inherit other Flaws from their demonic foster parent. These include Disfigurements reflecting the parent's preferred shape, or any of its vulnerabilities.
 
-## *Pawns and Puppets*
+## Pawns and Puppets
 
 Demons usually control their tainted people through miseducation and character flaws. Their pawns are raised to see the world in a distorted way. Their mistaken beliefs control their behavior, by influencing what they see as moral deeds, and skewing their estimation of the likelihood of success for various courses of action. As a second safeguard, most tainted people have personality flaws which the demons use both as a mechanism to control the pawn's behavior in critical situations, and as an internal mechanism to influence the pawn toward sinful courses.
 
@@ -5069,18 +5069,18 @@ A few demons control their pawns by distorting their idea of how the world works
 
 A few tainted people have physical controllers. These minor demons reside in or near them and ensure their compliance to orders through illness and pain. These creatures flee from the body at the sacraments, so they are ineffective in healthy communities of believers. Magi might find them, however, in covenants that do not encourage their servants to attend the sacraments regularly.
 
-# *The Children of Demons*
+# The Children of Demons
 
 When the fallen angels were punished for their rebellion and became demons, they were cursed with a fallen nature. No longer partaking in a pure spiritual form, they shared characteristics with humans; namely, a desire to eat, a mortal life span, and the ability to reproduce. Demons in physical form revel in fornication, and when demons indulge in such acts with each other, they can produce more demons at an alarming rate. One of the reasons that the world is populated by demons is because of the unnatural lusts of the physical form. There are even some female demons who can couple with human males and produce further demons. Such children always belong to the Order of Tempters, who are among the weakest of demons, but such demons often have a unique insight into the human psyche and are among the best corrupters of mankind.
 
 However, it can also come to pass that a demon mates with a human and produces a child of mixed ancestry, still basically human, but imbued with Powers from Hell. These half-breed children are rare, because sexual intercourse for the sake of reproduction is an act of creation (except when its purpose is to make more demons!), and therefore antithetical to a demon's nature. Furthermore, not all demons are capable of producing a child with a human partner, and creating a demon-blooded human in any case is a willful act for a demon; it cannot happen by accident. The demon must take great pains to ensure that all profane forces align at precisely the right moment, usually done in a ritual setting. The demonblooded child is therefore created for a specific reason, and with careful planning on behalf of the parent. There are many tasks that demons cannot perform, and might be unwilling to entrust to a normal human minion. Finally, there is no Infernal race equivalent to the Nephilim (who are humans with angelic ancestry, see *Realms of Power: The Divine* pages 16–17, 34–35, and 66), because all humans with demon blood are sterile.
 
-## *Characters with Demonic Blood*
+## Characters with Demonic Blood
 
 Demonic children are not in the best interests of Hell, for they have no greater propensity to sin than any other human. Because they have free will, they can also seek salvation, and such an event would place a creature imbued with the power of
 
 
-#### *Realms of Power*
+#### Realms of Power
 
 to evil actions than any other human, and despite having power deriving from an Infernal source, is not necessarily bound for Hell.
 
@@ -5116,7 +5116,7 @@ Devil Children may take three more points of Virtues at no cost (to balance the 
 due to its basic nature. A character with demon blood cannot reproduce, although he feels the urge to do so. Similarly, he need not eat or drink, but still suffers hunger and thirst. It is therefore easier for such characters to fall prey to these impulses and indulge in sins of lust and gluttony, which serve no legitimate function, and thus are sinful. However, a demon-blooded human is no more prone
 
 
-## *Malachi, Devil Child*
+## Malachi, Devil Child
 
 **Infernal Might**: 11
 
@@ -5159,9 +5159,9 @@ Malachi is no great threat now, but he has the potential to be powerful once he 
 Malachi can be introduced to a saga through the release of a demon close to the characters' covenant. He first appears as an ambitious young man with a remarkable instinct for the emotions of others, and the characters may initially believe that he truly is destined to become a leader of men.
 
 
-## *Chapter Ten*
+## Chapter Ten
 
-# *The Maleficia*
+# The Maleficia
 
 The evil powers that most infernalists practice are called the **maleficia**  (plural, roughly "evil crafts"). This term refers to Infernal effects that resemble Hermetic spells, which require two Supernatural Abilities to cast: a **Method**, which describes what the infernalist must do to bring about the effect and also determines which Characteristic applies to his total, and a **Power**, which describes the sorts of effects that this activity produces. These combine together in a formula very similar to that of Hermetic magic.
 
@@ -5179,12 +5179,12 @@ Selfless acts committed using maleficia come with an inherent punishment for abu
 
 Maleficia are evaluated like other Supernatural Powers when they encounter Magic Resistance, and are considered Vim effects for the purposes of Form bonuses. They are affected by auras as the Infernal column on the realm interaction chart, and use the same rules as Hermetic magic for maintaining concentration, targeting, timing, Penetration, and so on. A maleficium does not necessarily take any longer than a Hermetic spell to cast, though some Methods require additional preparation time and are thus impossible to do quickly.
 
-# *Unholy Methods*
+# Unholy Methods
 
 The two Methods associated with the maleficia are known as Debauchery and Incantation. These are essentially the "Techniques" of Infernal effects; they describe what the infernalist must do to summon the power of the Infernal realm.
 
 
-## *Infernal Ranges, Durations, and Targets*
+## Infernal Ranges, Durations, and Targets
 
 Because of the unusual properties of effects powered by the Infernal realm, there are a few additional spell parameters for maleficia, in addition to those included in the rules for Hermetic magic. These parameters are described below. Any infernalist can incorporate these into a maleficium when designing the effect.
 
@@ -5198,13 +5198,13 @@ Sun, but also requires a second Duration to describe the triggered effect.
 
 **Passion (Target):** An effect with this Target acts on a group of people through their passions, affecting only those inclined towards a particular virtue or vice, which is integrated into the spell. Each character within the targeted area must roll a simple die and add or subtract any appropriate Personality Traits. Anyone with a total of 6 or higher is affected. Target Passion is the same level as Target Group, and is similarly modified by the size of the affected area.
 
-## *Debauchery*
+## Debauchery
 
 Debauchery means that the character must perform an evil ritual to cast the maleficium, requiring her to corrupt her own body, indulging in sinful activity with such passion that she suffers a long-term Fatigue level or Light Wound. This ceremony allows her to summon the necessary power for the effect from within herself, from her passion and desires boosted by the rush of excitement that accompanies committing evil acts. This uses the character's Stamina with the maleficium roll.
 
 This Method is slow when used with fatigue, as it generally takes about two minutes for the infernalist to put herself in the proper frame of mind. The necessary expenditure of energy sometimes comes from performing the activity associated with the sin, but more often it comes from the infernalist's vehemence and passion; for example, she might concentrate so powerfully on reliving her sins that she
 
-## *Example: Richard of Glastonbury*
+## Example: Richard of Glastonbury
 
 Richard of Glastonbury (see below) intends to grant himself an Infernal blessing, the power to tell good from evil. This will be represented by his gaining the Supernatural Ability of Sense Holiness and Unholiness. This is a base 15 Incantation/Diablerie effect, and he will cast it with Personal Range, Forsaken Duration, and an Individual Target, making it a Level 35 maleficium. Incantation is associated with Communication, and Richard's score is 5. He will recite corrupted passages of scripture (Incantation 5 + 1 for his specialty) to invoke his Infernal blessing (Diablerie 5 + 1 for his specialty), from within a Level 5 Infernal aura. He must spend a point of Confidence to activate the effect, and may also spend up to two additional points if needed, for
 
@@ -5217,7 +5217,7 @@ tires herself. The infernalist may instead choose to suffer a wound, perhaps cut
 sharp pain, and this is a much quicker technique, comparable to the speed of Hermetic magic.
 
 
-## *Powerful Maleficia*
+## Powerful Maleficia
 
 Since the formula for maleficia uses Abilities rather than Arts to generate a casting total, and Ability scores of greater than 5 are rare, infernalists are usually limited to fairly low-level effects. However, there are several things they can do to boost their totals in special circumstances, to give them an edge when it really matters. These include:
 
@@ -5235,13 +5235,13 @@ Since the formula for maleficia uses Abilities rather than Arts to generate a ca
 
 maleficium over the course of an entire season. This allows the character to add her Infernal Lore to the total, just as magi add their Magic Theory to their Lab Totals. Like a laboratory activity, this limits what else the character can do during that season, since she must spend most of the time committing the sinful acts necessary for the effect; but when the ceremony is completed you do not roll a die — there is no chance you will botch the roll. If you pay the costs of the ritual multiple times, she may still spend additional Confidence Points during the season.
 
-## *Incantation*
+## Incantation
 
 The infernalist chants words of power or names of spirits, drawing upon the power of the Infernal realm directly, and uses his Communication for the roll. This costs him a Confidence Point; he must focus his will upon his maleficium to channel the forces of Hell. Alternatively, he may gain a Warping Point, if he commits a sin appropriate to one of his Personality Traits while performing the rite (using the rules for gaining Confidence in Chapter 2: Sin and Redemption, Gaining Confidence through Sin). Note that this cost does not count against the number of Confidence Points he may spend on a particular action — he may spend as many Confidence Points as his Confidence Score on the roll, if he so desires.
 
 Incantation also allows him to recognize vis, and make use of vis in his rituals, in much the same way as Hermetic magi use vis to boost their spells. Each pawn of vis he expends while casting the maleficium gives him a +2 bonus to his casting total, so long as the type of vis is somehow appropriate to the effect. The number of pawns he can use in a single maleficium is limited to his (Incantation + Power). Also note that this vis should be infernal in nature; magical or faerie vis is unpredictable when used for these purposes and at the very least contributes twice as many botch dice. Vis associated with the Divine cannot be used at all, unless it has been profaned (as described in Chapter 9: Infernal Characters, Profaning the Holy).
 
-## *New Methods and Powers*
+## New Methods and Powers
 
 These Methods and Powers are not intended to be the final word on Infernal abilities in Mythic Europe, and storyguides should feel free to design additional Methods and Powers if they wish. For mechanical reasons, each new Method must be associated with at least two Powers, and each new Power must use at least one Method. Methods usually have a minor side benefit, in addition to enabling maleficia, and of course must specify a Characteristic to be used in the total.
 
@@ -5252,11 +5252,11 @@ As part of this Method, the character may also perform unholy rituals that last 
 In addition, this Method allows her to extend the length of the casting ritual even longer, so that she is performing the
 
 
-# *Unholy Powers*
+# Unholy Powers
 
 There are six unholy Powers, each of which is combined with an unholy Method to describe an effect. They broadly describe the sort of things an infernalist can do with the supernatural force he generates. Included below are guidelines for each Method and Power combination, and sample effects that give ideas of the maleficia that infernalists might cast.
 
-# *Consumption*
+# Consumption
 
 Infernal powers cannot create anything real, they can only twist, corrupt, and destroy. Consumption is thus the capability to draw upon the life and health of living beings and turn it to evil purposes. Through Debauchery, an infernalist can transform flesh and blood, changing the shape of his body and spirit; Incantation makes it possible for him to steal life from others, healing and restoring himself at their expense.
 
@@ -5268,7 +5268,7 @@ Debauchery, Consumption, Level 20 R: Touch, D: Mom, T: Ind
 
 The infernalist performs a ritual of corrupting the body, involving at least one other person, that permanently increases the target's Strength score by 1, though
 
-## *Consumption Guidelines*
+## Consumption Guidelines
 
 When these guidelines refer to a victim, they usually mean a second living target within range of the effect. This is usually a person, though it can affect an animal by adding an additional magnitude to the effect, or a plant by adding two magnitudes — plants usually simply wither and die when affected by these powers. The victim can even be the caster, as he is always within range. If the victim has Magic Resistance, the effect must penetrate it to have any effect on the target.
 
@@ -5367,7 +5367,7 @@ This maleficium instantly heals a Light Wound of any living thing within range, 
 
 (Base 15: +3 Sight)
 
-#### *Realms of Power*
+#### Realms of Power
 
 **Cast away your mortal soul / And keep it safe in mortal bowl**
 
@@ -5380,13 +5380,13 @@ If the object that hides his soul is ever broken or used for vis, he dies immedi
 (Base 40: +2 Voice)
 
 
-## *Diablerie*
+## Diablerie
 
 Since the earliest days, humanity has sought great power from the supernatural world, and drawn upon the nature of the four realms to fulfill his wishes. Diablerie represents Infernal influence over the supernatural realms, and through it Infernalists may learn to affect demons and other supernatural creatures, summoning and resisting them with Debauchery, and commanding them through Incantation. Unlike the Ars Goetia described in Chapter 11, these effects are limited to beings within range of the maleficium; the infernalist must have an Arcane Connection to affect a creature that he cannot perceive, though some demons answer summonses of their own volition.
 
 Diablerie maleficia that grant Powers to the target are usually Forsaken Duration (see the Infernal Range, Duration, and Target sidebar, above), essentially becoming constant effects. In some sense, a little bit of Hell takes residence in the character's soul, tainting him with evil but giving him a blessing of Infernal power
 
-## *Diablerie Guidelines*
+## Diablerie Guidelines
 
 When these guidelines refer to a supernatural creature, it means a specific entity with a Magical, Faerie, or Infernal Might score. Diablerie cannot affect the Divine.
 
@@ -5477,7 +5477,7 @@ The character commands a supernatural creature within the sound of her voice to 
 
 (Base 20, +2 Voice, +4 Forsaken)
 
-## *Effusion*
+## Effusion
 
 The Infernal realm is believed to have a strong connection to the physical world, so much so that many in Mythic Europe teach that earth is the Devil's realm, with God presiding over the spirit and the afterlife. Perhaps the Infernal Power of Effusion has evolved from these dark associations. Or, perhaps Effusion is simply an extension of the powers of Hell, the tormenting heat and cold ice that tortures the damned. Regardless of its origins, this Power allows infernalists to affect the elements in an unnatural fashion. Debauchery gives control over unseen forces, the warmer elements of fire and air, while Incantation affects the cold forms of base matter, water, and earth.
 
@@ -5490,7 +5490,7 @@ Failures involving Effusion usually involve losing control over the elements, ca
 
 **The stone prepared, his gift to grant With foulest craft he does enchant** Incantation/Effusion, General
 
-#### *Realms of Power*
+#### Realms of Power
 
 R: Touch, D: Year, T: Ind
 
@@ -5508,7 +5508,7 @@ This effect gathers severe winds, powerful enough to lift a person through the a
 
 (Base 4: +3 Sight, +1 Conc)
 
-## *Effusion Guidelines*
+## Effusion Guidelines
 
 Unnatural effects, such as phenomena summoned in a form outside their natural context, usually add two additional magnitudes to the level.
 
@@ -5582,7 +5582,7 @@ The character stretches out his hand and summons to it any object he can see or 
 
 (Base 5: +4 Arc)
 
-## *Malediction*
+## Malediction
 
 The Devil is said to be an expert at cursing, and his followers might gain some of his expertise by association. Malediction includes general curses, such as those that cause ills to befall the target, and destructive curses that can lay waste to anything within range. The former are called through Incantation, while the latter are based in Debauchery.
 
@@ -5626,7 +5626,7 @@ Incantation/Malediction, Level 50 R: Voice, D: Sun, T: Ind
 
 The infernalist utters a terrible curse at a victim, and causes him to lose the benefits of one of his Major Virtues for
 
-## *Malediction Guidelines*
+## Malediction Guidelines
 
 #### **Debauchery/Malediction**
 
@@ -5667,13 +5667,13 @@ The infernalist utters a terrible curse at a victim, and causes him to lose the 
 
 
 
-#### *Realms of Power*
+#### Realms of Power
 
 the duration. You can specify the type of Virtue (Hermetic, Supernatural, General) you wish for to affect, otherwise the storyguide chooses an appropriate Virtue. If it is a Supernatural Ability, it is as if the victim has no score in it. If it is another Virtue, it is simply as if the victim does not have it. This curse can even target The Gift, making it impossible for a magus to work magic, but only if he has no other Supernatural Virtues for the curse to affect.
 
 (Base 30: +2 Voice, +2 Sun)
 
-## *Phantasm*
+## Phantasm
 
 While infernalists cannot create anything real with their Powers, they can create illusions of things that seem so real that it is almost impossible to distinguish them from the truth. Through Debauchery, they can conjure these illusions or change solid things into phantasms, while Incantation allows them to control how they perceive their surroundings, even allowing them to make likely predictions about the future based on Infernal knowledge of the present.
 
@@ -5699,7 +5699,7 @@ This simple maleficium conjures a phantasmal horse, complete with tack and harne
 
 **I saw three unclean spirits, like frogs, out of the mouth of the dragon** Incantation/Phantasm, Level 20
 
-## *Phantasm Guidelines*
+## Phantasm Guidelines
 
 Particularly intricate phantasms, such as those that mimic a recognizable subject, or those with complex sensory components such as clear words or moving parts, add an additional magnitude to the effect. To produce a phantasm that can move or act under the character's mental direction adds two magnitudes.
 
@@ -5775,7 +5775,7 @@ The phantasm is a being of nightmare and imagination, but it has its own identit
 
 (Base 5: +4 Arc, +1 Sun, +2 unusual effect)
 
-## *Psychomachia*
+## Psychomachia
 
 Psychomachia is the Infernal Power over the mind and emotions, allowing the caster to influence and even control people and other living things. Incantation allows the caster to read and control hearts and minds directly, and with Debauchery the caster can change the target's personality: not simply making him sin, but making him *want* to sin.
 
@@ -5815,7 +5815,7 @@ The caster speaks a simple command to a group of people, which they must obey fo
 
 (Base 20: +2 Voice, +2 Sun, +2 Group)
 
-## *Mythic Companion: The Diabolist*
+## Mythic Companion: The Diabolist
 
 Everyone has heard the stories of the man who prays and prays to God for aid, but receives no miracle, and finally in desperation turns to the Devil, who appears before his eyes and promises him his heart's desire in exchange for his immortal soul. In Mythic Europe this sort of arrangement is quite well known among students of the occult, and many think that such a deal can be struck anywhere, by anyone, for demons are eager to teach the maleficia to those willing to damn themselves in exchange for power. Such is the might of the Infernal realm, that it can make even a lowly peasant into a mythic figure, the rival of magi and the saints.
 
@@ -5835,7 +5835,7 @@ If the character has taken the Major Supernatural Virtue Demon Blood or the Majo
 
 This leaves him with ten points of Flaws to spend, which balance out as many as 20 more points of Virtues. Half of these Virtues should be spent on Supernatural Virtues that are granted by the Infernal, as this is how the character gains his Mythic Companion status. These are usually the Methods and Powers associated with the maleficia, or Virtues like Infernal Blessing that come from close association with an infernalist tradition.
 
-## *Psychomachia Guidelines*
+## Psychomachia Guidelines
 
 #### **Debauchery/Psychomachia**
 
@@ -5897,7 +5897,7 @@ This leaves him with ten points of Flaws to spend, which balance out as many as 
 **Level 30:** Completely control a target's mind and emotions.
 
 
-## *Richard of Glastonbury, Diabolist*
+## Richard of Glastonbury, Diabolist
 
 **Characteristics:** Int +5, Per +2, Pre +2, Com +5, Str +1, Sta +2, Dex +1, Qik +1
 
@@ -5934,9 +5934,9 @@ Richard thinks that it is his duty to seek out the truth behind all the mysterie
 All of Richard's Infernal Blessings are Infernal Powers, which include the following Minor Virtues: Affinity with Artes Liberales, Affinity with Teaching, Affinity with Theology, Great Communication, Great Intelligence (x2), Improved Characteristics (x6), Puissant Artes Liberales, Puissant Teaching, and Puissant Theology. He has been designed with more Story Flaws than are usually allowed, to represent the unique qualities of his upbringing at Glastonbury Abbey, and two additional Minor Flaws, which he has gained through Infernal Warping (Delusion and Corrupted Abilities).
 
 
-## *Chapter Eleven*
+## Chapter Eleven
 
-# *Ars Goetia*
+# Ars Goetia
 
 *When thou art come into the land which the LORD thy God giveth thee, thou shalt not learn to do after the abominations of those nations.*
 
@@ -5948,13 +5948,13 @@ All of Richard's Infernal Blessings are Infernal Powers, which include the follo
 
 The Ars Goetia (literally, "the howling art") supposedly originated in the ancient world, and many believe it is derived from the secret arts practiced by Solomon and the Witch of Endor in the Bible. Those who learn the Goetic Arts are usually referred to as **sorcerers**, a word that has very negative connotations throughout Mythic Europe. For this reason, goetic practitioners might refer to themselves as "summoners" or "thaumaturgists," terms that are marginally less stigmatized, but this prejudice is difficult to overcome since their Powers tend to be associated with dark spirits of the night and strange, occult forces.
 
-# *The Goetic Arts*
+# The Goetic Arts
 
 The Goetic Arts use a study and spellcasting mechanic similar to the Hermetic magic system, though they are actually Supernatural Powers. There are four Arts that make up the Ars Goetia: Summoning, Ablating, Binding, and Commanding. These may be learned like Supernatural Abilities, though they are opened at 0 instead of 1, and increase as Arts, usually through studying books or learning from a master.
 
 Sorcerers also use Penetration with these Arts, and calculate Penetration much like Hermetic magi or other infernalists. That is, they multiply their Penetration score by a modifier that increases depending upon their sympathetic connection to the target. Like other infernalists, a character using the Goetic Arts may incorporate a sacrifice into his ritual to boost the strength of the effect.
 
-## *Summoning*
+## Summoning
 
 Summoning is the Art of drawing a spirit into the infernalist's presence, transporting it to him so that he may bargain with it or further target it with his Powers. The sorcerer may summon any incorporeal creature with Might using this Art, and may also affect incorporeal beings who have temporarily taken a physical form through some variation of possession, though he does not summon the body when he does so. The exception to this is demons, which have corporeal bodies made of pure spirit, and so can be summoned with this Art.
 
@@ -5994,18 +5994,18 @@ Once he has summoned a spirit, the sorcerer has many interesting options concern
 
 A sorcerer may also use this opportunity to affect the spirit with his other Powers, such as Ablating, Binding, or Commanding, each of which is described below. These Arts are more effective on a spirit that is held in a summoning circle, and if the spirit is free it will probably depart rather than submit to the effect, unless it has agreed to it as part of a bargain or trade.
 
-## *Summoning and Other Realms*
+## Summoning and Other Realms
 
 The Art of Summoning is not necessarily an Infernal Power (though Ablating, Binding, and Commanding are); like other Supernatural Powers it is often associated with Magic or Faerie, and uses one of those columns on the aura interaction chart. However, because of its sinister associations with spirits and the underworld, Summoning is always tainted — Divine Powers of investigation perceive its use as unholy, even if it is part of another realm. Yet it is still very appropriate for characters who practice necromancy, summon nature spirits, or study the magical mysteries of theurgy and synthemata (see *The Mysteries Revised Edition*). Future **Ars Magica** supplements may include other forms of Summoning that are not unholy by association (such as those that call faeries or animals), with related summoning Arts that characters can use to bind them to service.
 
 Note that if the Summoning or Scouring Total was not at least double the Target Level, then interacting with the spirit in any way, even simply talking with it, requires a Stamina + Concentration roll to maintain the circle (see the Concentration Table, ArM5 page 82). As stated above, there are trappings the sorcerer can integrate into the effect that make it easier for him to maintain concentration, but it is better not to have to roll, as there is always the chance of a botch.
 
-## *Ablating*
+## Ablating
 
 Ablating is the process of tearing at the spirit, grasping at it, and stealing away some of its essence, making the sorcerer stronger and leaving the spirit significantly weaker. This is always an Infernal Power, and it always aggravates the spirit, because it permanently reduces its Might Score, and any time the character uses it
 
 
-## *Bargaining with Demons*
+## Bargaining with Demons
 
 Knowingly dealing with demons is a very dangerous proposition, for without supernatural safeguards that force compliance they are under no obligation to follow through on their promises and in fact are very likely to betray the sorcerer. The payment they expect in exchange for their services is usually blatantly sinful, consisting of sickening requests like desecrating a church or slaying an innocent. If that weren't enough, demons often turn the tables and threaten the sorcerer instead, proposing bargains such as "Burn down the village, or I'll convince everyone in the region that you raped your sisters — even if you don't have any sisters!" Demons have great power at their disposal, but it is very difficult to get anything from them without performing
 
@@ -6050,7 +6050,7 @@ After the ablation, if the spirit has not been destroyed, it is immediately retu
 
 This is a very fast way to gain status in Hell, as infamy is just as good as respect among demons. Many characters find the benefits of ablation are powerful enough to tempt them to cross the line separating "kill the demons" from "take their stuff."
 
-## *Binding*
+## Binding
 
 Binding is the Goetic Art of changing a spirit so that it becomes part of a person or thing. The sorcerer forces the spirit into the target, changing it to conform to its new size, shape, and nature. This requires a cunning mind, and knowledge of the spirit's realm is also helpful. Botching this sort of effect may damage the spirit, or ruin the target, or perhaps cause the spirit to join with another target instead.
 
@@ -6076,7 +6076,7 @@ If the person or thing to which a spirit is bound is destroyed, the spirit is re
 
 Very few spirits agree to a binding; those that do usually expect something of great value in exchange for their sacrifice. Spirits who have been bound for a long time are often very bad-tempered and disoriented when released from their imprisonment and are as likely to attack their liberators as thank them.
 
-## *Commanding*
+## Commanding
 
 With the Commanding Art, the sorcerer may issue a command to a spirit, which it must obey. This requires him to draw upon his skill at communicating his desires, and also draws upon his knowledge of the spirit's realm. If the roll botches, this may release the spirit from his control, anger it, or weaken him.
 
@@ -6097,7 +6097,7 @@ Other common commands include:
 
 **"Advise me:"** Any spirit summoned can be compelled to answer ques- **•**
 
-#### *Realms of Power*
+#### Realms of Power
 
 tions truthfully, though it may omit facts or mislead the sorcerer in other ways. Once he has his answer, the spirit is released.
 
@@ -6119,7 +6119,7 @@ cannot harm the sorcerer directly unless he summons it again.
 Actions can be combined, as in "Journey to Semita Errabunda and slay Moratamis," but they must be succinctly stated in one command. Demons are notoriously crafty with words and delight in twisting instructions so that they have unintended consequences. Spirits also retain their discretion, and unless clearly instructed otherwise can carry out the commands as they think best. Thus, an instruction like "Destroy yourself" may not be effective, as the spirit can plan and execute the instruction very slowly, ensuring it does not succeed before the command's duration expires.
 
 
-## *Nicolai, the Summoner*
+## Nicolai, the Summoner
 
 **Characteristics:** Int +3, Per +3, Pre +1, Com +1, Str +2, Sta 0 (1), Dex –1 (1), Qik 0 (1)
 
@@ -6161,7 +6161,7 @@ Nicolai grew up in a small Lithuanian village. His parents, like many in their v
 
 Most spirits do not like being commanded without receiving something in return, and usually bear a grudge against the sorcerer if they have been held in service to him for a particularly long time.
 
-## *Mythic Companion: The Summoner*
+## Mythic Companion: The Summoner
 
 The first sorcerers were most likely the Sho'elim 'ov — literally "spirit borrowers" or "spirit consulters." They were Jewish summoners and necromancers versed in the occult, who are even mentioned in several chapters of the Bible. The men and woman of this sinister profession dwelt on the perimeters of society, and were often depicted as villains and monsters in Jewish fables, because their ability to contact and speak with the dead was expressly forbidden by the holy laws of the Torah.
 
@@ -6183,9 +6183,9 @@ In addition, the character receives **one** of these Minor Virtues at no cost:
 If the character takes the Major Flaw Diabolic Past or the Major Virtue Demon Blood, he may substitute another Minor Virtue in place of this one.
 
 
-## *Chapter Twelve*
+## Chapter Twelve
 
-# *Black Magic*
+# Black Magic
 
 Magic that is concerned with the Infernal realm is often called **nigromancy** (sometimes confused with "necromancy"), meaning "black magic." Hermetic magi usually refer to it as "diabolism," as it is essentially magic that deals with devils, and "dark magic" is another common title. All of these terms essentially describe magic that deals with demons in some way, though it is important to note that metaphysically, black magic is still part of the Magic realm, even though it is often tainted by the Infernal. That is, it is still Hermetic magic, not an Infernal Power.
 
@@ -6193,12 +6193,12 @@ Dealing with demons is prohibited by the Order of Hermes. Demonstrating any sort
 
 Of course, magi can also practice black magic without any Infernal Powers at all, simply by targeting demons with their Arts. This also breaks the Code, as it is still literally "dealing with demons," though the Order rarely acts against magi who are merely defending themselves. After the discovery of diabolism within House Tytalus in the early 900s, however, most magi began to limit their demontargeting spells to Perdo Vim effects that destroy them at Voice Range, and Rego Vim effects that ward them away, as both kinds of spells are clearly intended for self-defense. Three hundred years later, however, other applications have begun to creep back into Vim grimoires, such as Rego effects that hold a demon in place, or others that force a demon to do the will of the magus. Ostensibly these sorts of spells can protect the magus and his companions, by imprisoning the demon or commanding it to leave them alone, but magi with this sort of focus usually arouse the suspicions of the Quaesitores, and tend to be watched very carefully.
 
-## *Demon-Hunters*
+## Demon-Hunters
 
 Some magi decide to push the boundaries of the Code and seek out demons. They have many different reasons: for sport, for revenge, or perhaps to be the one who strikes first. The Order seems to have no official position on demon-hunters, as there have been Peripheral Code rulings both for and against them, and most Tribunals prefer to evaluate their actions on a case-by-case basis. Generally speaking, it is a Hermetic crime to aggravate demons, though destroying them is considered a laudable act.
 
 
-## *The Venatores*
+## The Venatores
 
 The Venatores ("Hunters") are a group of magi who have dedicated themselves to the eradication of demons. They sometimes refer to themselves as Apotropaic Magi, meaning "those who ward off or combat evil." These magi do not pass on their secrets and techniques in the usual fashion from master to apprentice; instead they seek out magi who are sorely troubled by demons and offer their knowledge to them as an "advanced apprenticeship." Consequently, the Venatores can be members of any House, are generally at least a decade out of apprenticeship, and are often specialized in Vim. When training a new Venator, the elder mentor typically spends one or more years teaching what he knows about demons and the Art of Vim to his pupil, and then leaves in pursuit of the foe once again. They have no formal contact with each other afterward, and so cannot truly be said to comprise a tradition or societas.
 
@@ -6209,7 +6209,7 @@ Venatores of all time, Rudolphus of House Bonisagus, was Wizard's Marched in 115
 
 Demon-hunters may be disliked by some in the Order, but they are positively loathed by the Infernal. Each demon they defeat increases their poor Reputation among demons, so that Venatores usually have a powerful Hierarchy Score. This often works to their advantage.
 
-## *Apotropaic Spells*
+## Apotropaic Spells
 
 There are two spells that are part of every demon-hunter's repertoire. *Demon's Eternal Oblivion* strips a demon of its Might, but it is the rare magus who can destroy a demon with a single casting of this spell, because the high level spells which do the most damage tend to have poor Penetration, and so are unlikely to affect the demon in the first place. Thus, the dedicated demon-hunter knows several versions of this spell at different levels.
 
@@ -6221,7 +6221,7 @@ Here are some other examples of spells that most magi of the Order of Hermes con
 
 **Fanning the Infernal Flames** CrVi Gen R: Voice, D: Sun, T: Ind
 
-## *Story Hook: A Dish Served Very Cold*
+## Story Hook: A Dish Served Very Cold
 
 The characters come across an ancient circle created by *Circular Ward Against Demons*, perhaps in a long-abandoned covenant. The circle seems to be empty, and it is possible that the characters do not even see it inscribed on the floor. The circle contains a demon, who is currently in spiritual form, and thus invisible to mortal sight. The demon has been here for a long time, and is eager for escape and revenge.
 
@@ -6251,7 +6251,7 @@ R: Arc, D: Conc, T: Ind
 
 The caster may speak with any demon to which he has an Arcane Connection. For the duration of the
 
-## *Apotropaic Guidelines*
+## Apotropaic Guidelines
 
 **Creo Vim**
 
@@ -6284,7 +6284,7 @@ spell, it may see and hear him as if he were standing before it, just as he can 
 (Base 5, +4 Arc, +1 Conc)
 
 
-#### *Realms of Power*
+#### Realms of Power
 
 #### **Muto Vim**
 
@@ -6383,17 +6383,17 @@ in secret to avoid arousing quaesitorial persecution.
 
 It allows the caster to add his (Mastery Score x Hierarchy Score) to the level of effect produced by the mastered spell. This may only be taken for spells that affect Infernal Might directly, such as *Demon's Eternal Oblivion* or *Circular Ward Against Demons*. Spells like *Aegis of the Hearth* that do not specify the type of Might they target are ineligible.
 
-## *Infernal Magic*
+## Infernal Magic
 
 There are many ways that a magus can find his magic closely aligned with the Infernal realm, voluntarily or involuntarily. It may be that his focus has a mystical sympathy with the Infernal, or that he secretly practices Infernal rituals in pursuit of greater power. He may even practice a corrupted form of magic, one that comes of a tainted upbringing or tragic curse. Three different forms of Infernal magic may be found below, each of which is well suited to both reluctant and enthusiastic infernalist magi.
 
-## *Chthonic Magic*
+## Chthonic Magic
 
 Some magi practice a kind of magic that is peripherally associated with the Infernal realm because of its negativity, though it is not actually diabolic. This low magic, or **chthonic magic**, is more associated with the gods of the underworld and spirits of the night than the servants of Hell. Such beings are not necessarily evil, but they have a dark reputation and are often conflated with demons in legends. Still, chthonic Powers are only ambiguously Infernal, and thus can be possessed and practiced by more sinister magi without their immediately being charged with diabolism.
 
 The chthonic magus becomes attuned to both Magical and Infernal auras, and so gains Warping Points from neither, and the benefits of both. He may also take full advantage of Infernal vis without suffering any of the negative consequences.
 
-## *Shape and Material Bonuses*
+## Shape and Material Bonuses
 
 | Amulet bearing the sigils of angels* | +7 ward against demons<br>+7 banish demons                                             |  |
 |--------------------------------------|----------------------------------------------------------------------------------------|--|
@@ -6422,13 +6422,13 @@ This form of magic is primarily represented by a Supernatural Ability: Chthonic 
 There are other benefits to this Virtue, but all of them make the character's magic a clearly Infernal Power when used, recognizable as such to magical and faerie Powers as well as Divine and Infernal ones, though he still benefits from Magic auras. He can use the special Ranges, Durations, and Targets associated with the maleficia in his spells — that is, he has access to Range Crossroads, Duration Cursed, Duration Forsaken, and Target Passion. If he has unholy Methods or Powers, he may substitute his scores in those Abilities for Philosophiae and Artes Liberales when casting appropriate
 
 
-#### *Realms of Power*
+#### Realms of Power
 
 rituals, so long as he performs the necessary actions associated with them. Use the guidelines for maleficia to determine which Method and Power (and which Technique and Form) are necessary for a particular effect. A chthonic magus may also act as the focus character for a ritual using the Ceremony Ability, adding the other participants' Characteristic and Method scores to his Casting Total as normal. And, he may bind a demon as his familiar if he so chooses.
 
 Finally, a chthonic magus may always add his lowest Art score to his Lab Total or Casting Total twice, much as if he had an applicable magical focus. To activate this, he must perform some kind of sinful act immediately before or during the casting, which influences and becomes part of the spell. This must be something that the caster himself knows to be wicked or evil (though not necessarily a mortal sin) and must be performed deliberately. Often this involves idolatry, sacrilege, profanity, or blasphemy: cursing at the target, invoking dark gods, or an ugly sacrifice. If the character already has his lowest Art score doubled (from a magical focus, for example), this effect triples it instead; that is, a chthonic magus with Diedne Magic would add his lowest Art three times when casting a spontaneous spell with fatigue.
 
-## *Goetic Magic*
+## Goetic Magic
 
 Magi who have studied the Ars Goetia may adapt them to Hermetic magic, and this is actually a fairly simple conversion, since the Techniques and Forms already support summoning and controlling spirits with the Arts of Rego and Vim.
 
@@ -6446,7 +6446,7 @@ The caster may add one of his scores in Summoning, Commanding, Binding, or Ablat
 
 This ability taints the spell by association with the Goetic Arts, and it always appears to be an Unholy Power when subjected to Divine or Infernal Powers of investigation.
 
-## *False Magic*
+## False Magic
 
 The Infernal has the ability to corrupt and impersonate the Powers of other realms, and one of the most insidious applications is for characters who have a version of The Gift that is not like that of other characters, but rather has been thoroughly corrupted by Infernal powers. This "False Gift" includes all the benefits and penalties of the magical version: the character suffers mistrust, suspicion, and envy among the mundane populace, and while he may learn magical Supernatural Abilities, because of his association with the Infernal realm these are actually False Powers that always appear unholy to Divine or Infernal Powers of investigation.
 
@@ -6456,7 +6456,7 @@ When exposed to Warping, instead of experiencing Twilight, a character with the 
 False magic is a tragic thing to possess, because once the character realizes the Infernal nature of his powers, he may decide that using them for any reason is a form of infernalism. Yet very few people would choose to give up their powers if placed in a similar position, and perhaps the character can justify the stain of his sins as a sort of unpleasant side effect of his Gift: damned by association with the Infernal realm, but not actually evil. This is a fascinating and tragic journey to roleplay, as the character must slowly accept that the thing that almost entirely defines him as a person in Mythic Europe is a lie.
 
 
-## *Releganta of Flambeau, False Maga*
+## Releganta of Flambeau, False Maga
 
 **Characteristics:** Int +2, Per –1, Pre +3, Com +2, Str 0, Sta +2, Dex –2, Qik –1
 
@@ -6507,9 +6507,9 @@ Releganta does not know that Rasus is an infernalist, and she does not really kn
 The False Gift has no cost, like its magical counterpart, though it requires the False Power Flaw (see Chapter 9: Infernal Characters). If the character is not a magus, he may also begin with one free Supernatural Ability as normal, but this is automatically another False Power, and he does not take the False Power Flaw again to modify it.
 
 
-## *Chapter Thirteen*
+## Chapter Thirteen
 
-# *Infernal Traditions*
+# Infernal Traditions
 
 *So when you recite the Qur'an, seek refuge with Allah from the accursed Shaitan,*
 
@@ -6527,7 +6527,7 @@ Any companion characters or magi who have somehow been touched by evil can learn
 
 Infernal traditions usually have four Supernatural Abilities in which they specialize (these are called their **Favored Abilities**). Members of the tradition can learn these Supernatural Abilities without suffering a penalty to their study totals, and do not need to subtract their scores in these Abilities when learning other Infernal Supernatural Abilities. However,
 
-## *Designing New Traditions*
+## Designing New Traditions
 
 The traditions in this book are not intended as an exhaustive list of every type of infernalist in Mythic Europe, but merely suggestions of what such a character might look like. You can easily create your own traditions if you wish, and the rules that follow are essentially tools with which you can outfit these characters to best represent their evil ways. It is also possible to create new traditions that are simply a variation on one of the traditions included here, that follow a different philosophy but essentially do the same sort of things.
 
@@ -6540,14 +6540,14 @@ characters can only receive this benefit from joining one Infernal tradition in 
 
 Infernal Supernatural Abilities are also described as Supernatural Virtues, and thus may be taken during character creation. Magi may also be able to initiate some of them through the corrupted rites of a Hermetic Mystery Cult (for rules that can be adapted to this purpose, see *The Mysteries Revised Edition*).
 
-## *Misguided Traditions*
+## Misguided Traditions
 
 Demons have deluded mankind in the past, claiming that they are benevolent beings who can provide great supernatural and spiritual benefit if offered worship. This is a favored tactic of the Spirits of Deceit and the Deluders; a few simple tricks and men think you are divine. Such traditions are also fertile ground for the cults that form around False Gods, for they teach their followers to believe that it is not sinful to worship them, and so lead them down the path of corruption and infernalism until they have become so dependent upon their Powers that they are unwilling to live without them.
 
 Infernalists who are new to a misguided tradition often do not believe they are practicing evil. What they do may not be sinful, and in fact they may genuinely and sincerely wish to do good, but because they use the power of the Infernal realm to do it, the results are always evil. Furthermore, the demons that deceive them into committing infernalism nurse their sinful traits like pride and wrath, leading them to the belief that the Divine is unfair or oppressive, and that their ends justify the means. Once they reach this point, mistaken infernalists rarely repent, as their evil ways have become a way of life, and their pride and wrath have developed into a full-blown vendetta.
 
 
-## *Infernal Tradition: The Luciferans*
+## Infernal Tradition: The Luciferans
 
 **Favored Abilities:** Debauchery, Diablerie, Malediction, Sense Passions
 
@@ -6617,7 +6617,7 @@ Others who learn of the Infernal nature of their vision of Lucifer come to accep
 
 
 
-## *Unknowing Evil*
+## Unknowing Evil
 
 It is quite possible to play a Luciferan infernalist who mistakenly believes he is a holy character, virtuous and pious. To maintain the illusion and thus create a better experience for the player, the storyguide might change some of the character's Powers slightly, labeling Debauchery, Diablerie, and Malediction as Purity, Adjuration, and Cursing. The player may not realize that his character has begun down the path to evil, but may use these Powers as Infernal versions of their Divine counterparts (found in *Realms of Power: The Divine*) until he learns the truth.
 
@@ -6629,7 +6629,7 @@ Through their Infernal Powers, Luciferans learn to summon up different aspects o
 
 In 1220, the Luciferans are strongest within the Christian Church, especially in Germany, Austria, and Bohemia. The city of Cologne has a thriving Luciferan community, as does the city of Krems, near Vienna. They are also attempting to infiltrate the Cathars in southern France since many of the heretics there already consider themselves to be in rebellion against the Church, they reason that it is not so great a step for those made fearful by Crusades and burning of their friends and neighbors to accept a powerful and more personable spirit as the one true God.
 
-## *Infernal Tradition: Strigae*
+## Infernal Tradition: Strigae
 
 **Favored Abilities:** Debauchery, Effusion, Phantasm, Ceremony
 
@@ -6644,7 +6644,7 @@ Since the earliest times, many demons have found it worthwhile to usurp preexist
 Perhaps the most famous example of this phenomenon comes from Rome in the years following the birth of Christ, when it came to be widely believed within scholarly and arcane circles that Pan, the wild god of the satyrs and faerie revelry, had died. How or why this could have happened is unclear, but many took this as a sign that the magic of the ancient world was dwindling, and that the power of monotheism was manifest. This left a void in the supernatural landscape of Mythic Europe, as with Pan's passing many of those who had worshiped him as a god of passion and the wilderness had no focus for their belief. Such an opportunity to be exploited by the wiles of the Devil! A few choice appearances of shaggy, horned demons at these secret rites earned Hell a handful of souls, and reinforced the idea
 
 
-## *The Benandanti*
+## The Benandanti
 
 On some nights of the year in northeast Italy, certain villagers go to sleep in the knowledge they will be meeting each other in their dreams. Armed with swords made of fennel branches, the Benandanti (as they are known) stride across the dreamscape to do battle with the stregoni, evil witches who seek to spread mischief. If they are successful, the stregoni are unable to affect the village with their wicked spells, and must wait until the next inauspicious night and attempt once again to break through the Benandanti lines. But should the stregoni succeed, the villagers suffer terrible nightmares, children sicken and die, cows run dry of milk, and the crops fail.
 
@@ -6658,7 +6658,7 @@ The Church condemned those who joined in this behavior, publishing a document ca
 
 Nearly every region of the world has a group of these night witches, usually called **strigae** or some variation thereupon. Each group is led by a senior infernalist of the tradition, who always has a special relationship with a demon, usually of the opposite sex. At its direction, the leader summons the other members of the coven to a meeting place by calling to them in dreams, drawing them to the evil ceremony that focuses their Infernal power. This might require a bloody hunt for an innocent victim, or an orgy where each person lies with the person next to them in the dark, or a ceremony where every participant must kiss the demon on the anus (considered a humiliating act of submission in the Middle Ages).
 
-## *Story Hook: The Night Battles*
+## Story Hook: The Night Battles
 
 While unaware of it, one of the characters was born with a caul, and when staying in a village plagued by the stregoni near one of the covenant's vis sources, he gets caught up in the rite of the Benandanti. He awakens in the middle of a rolling landscape, and other phantasmal nightwalkers appear around him and hand him a fennel stalk. Then the stregoni attack from the sky in the guise of women with the wings and
 
@@ -6671,7 +6671,7 @@ As other gods faded into legend, demons quickly stole their fame and many of the
 
 The leaders of this tradition are known for using their maleficia to summon great shadowy animals on which to ride, to travel great distances through the air in the blink of an eye, and to call down terrible storms and fires from the sky. Besides helping their familiar demons with their evil plots, these infernalists use their Powers to punish and threaten others, usually those that they believe have somehow wronged them. Revenge is a popular impetus. Envy is also common; many strigae attack other villages, or sometimes even their own, seeking to "even the score" and settle old feuds. A few strigae work alone, but more often they gather in groups of three, and their night ceremonies are almost always comprised of 13 participants.
 
-## *Infernal Tradition: The Witch-Hammers*
+## Infernal Tradition: The Witch-Hammers
 
 **Favored Abilities:** Ablating, Incantation, Psychomachia, Summoning
 
@@ -6681,7 +6681,7 @@ The leaders of this tradition are known for using their maleficia to summon grea
 
 This Infernal tradition is very unusual, in that it is an example of infernalists who primarily work against other infernalists. However, since much of the hierarchy of Hell is based on demons fighting other demons to achieve dominance over them,
 
-## *Fenicil and the Malleus Epistula*
+## Fenicil and the Malleus Epistula
 
 According to Hermetic legend, the first Primus of House Guernicus, Fenicil, discovered a strange letter that resembled the *malleus epistula* while he was searching for ancient knowledge he could use to unite his House. It is said that he decided the letter was diabolical, and instead of incorporating it into his secret rituals, he burned it. Later, he described it to some of his followers as a dangerous idea that might be used against magi. He is remembered as saying that "when fools have a hammer, everything seems a nail to them; this evil letter is a witch-hammer, and so it will find witches everywhere." In reference to this story, some Quaesitores refer to overzealous inquisitors as "witch-hammers," and thus it is the closest thing to a name this tradition possesses.
 
@@ -6696,7 +6696,7 @@ The origins of the famous letter are unknown; some copies were signed by the Byz
 The language of the letter has also changed with the years, naming different threats against the Church and Christian lands. In the first line, the letter originally referred metaphorically to itself as "the hammer of the north," meaning that it was a tool with which devout men of God might drive back the barbarian invaders and restore the glory of Rome. Over time, this has metamorphosed into other wordings, such as "the hammer of the infidels," "the hammer of the heretics," and even "the hammer of the witches." For this reason, it is sometimes called the *malleus epistula*, or hammer-letter, though never by members of the tradition. In fact, none of these infernalists know or recognize that they practice maleficia and sorcery, and they do not communicate with each other at all.
 
 
-## *The Orléans Heretics*
+## The Orléans Heretics
 
 In 1022 in the town of Orléans, a heresy was uncovered which was startling in its extent. A nobleman of northern France called Aréfast had the matter brought to his attention by his chaplain, who had journeyed to Orléans and had encountered the corruption of the priesthood there firsthand. Two of the priests he met had reputations for great wisdom and holiness, but upon undergoing instruction from them, the chaplain realized their heresy. When Aréfast reported this to the king of France, he was asked to investigate the issue, so he traveled to Orléans himself, pretending to be an earnest seeker. He was not alone; the priests had already gained other upper-class disciples, and he was told that the absurd teachings he had received up to now would be driven from his heart, and he would receive the true teachings of the Holy Spirit.
 
@@ -6712,7 +6712,7 @@ The letter includes sections describing methods for manipulating a trial, specif
 
 The *malleus epistula* is essentially a summa (Quality 26, Level 1) on all four Favored Abilities of the tradition, and by studying the document for a season, characters may learn one of these powers, along with suggestions for putting it to use. These include forcing suspected heretics and witches to confess, usually through many different forms of torture, and then burning them to death; and banishing demons (and any sort of supernatural creature is usually considered a demon) by compelling them to manifest and enacting special exorcism rituals, usually involving a bell, book, and candle. Success supposedly fills the infernalist with the power of God, as a reward for punishing the wicked.
 
-## *Story Hook: Legacy of Orléans*
+## Story Hook: Legacy of Orléans
 
 True to the fears of the bishop, some of the Orléans heretics escaped, and fled to safe houses where they were able to hide from those seeking to punish them for their crimes, and continue teaching their dangerous ideas to their disciples. One of their descendants, a priest, is suspected of practicing this heresy and was captured by a witch-hammer, but somehow managed to escape before the inquisition began. He arrives at the covenant and asks for sanctuary. He is
 
@@ -6721,19 +6721,19 @@ cagey about his past, but if his story is uncovered, he claims that the heretics
 In the last paragraph, the letter instructs the recipient to make six copies, and to anonymously send them to fellow members of the Church. It warns that if
 
 
-## *Corrupt Traditions*
+## Corrupt Traditions
 
 Some people are just plain evil, and need no encouragement from demons to sin. Although it is generally seen as wasted effort for demons to concern themselves with such individuals — damned as they already are — some demons manipulate such folk to corrupt others. As this corruption spreads, the demon may use the structure of a religion to control their growing band of evil men and women. Such infernalists cannot be entirely ignorant of the sinful nature of their activities, but may genuinely subscribe to a philosophy that teaches them their evil actions will secure them freedom from the torments of Hell.
 
 Other Infernal traditions are fully aware of the nature of the entities they serve, but do not do so for the love of evil. In ancient times, placatory cults were common, people who obeyed the dictates of a cruel god to appease it and avoid misfortune, or to convince it to go away and leave their people alone. Many of these deities may have been faeries or magical beings, but because their worship involved evil acts (such as human sacrifice, a common rite to ensure the fertility of the fields and avert the eyes of the neighboring tribes), such abhorrent forms of veneration became tainted with the power of the Infernal, and their adherents were unwittingly transformed into infernalists. In any case, appeasing a demon may solve the problem in the short term, but is a form of infernalism as it corrupts the soul — to avoid sin, a person must not give in to the Devil, no matter what the consequences.
 
-## *Infernal Tradition: Dark Gnostics*
+## Infernal Tradition: Dark Gnostics
 
 **Favored Abilities:** Diablerie, Entrancement, Incantation, Phantasm
 
 Of all the religious groups that were springing into existence during the first
 
-## *Joachim of Flora*
+## Joachim of Flora
 
 The writings and prophecies of the half-mythical Joachim of Flora can be found scattered throughout Mythic Europe, but are often given particular reverence by Gnostic infernalists. He seems to have been a worldly young nobleman of Calabria, who converted to the Christian faith in about 1175, when he began to experience strange and prophetic visions concerning the future and the past as described in the scriptures. He was ordained as a priest and took the vows of the Cistercian Order. Unwillingly, he was made abbot of the monastery of Curazzo, but fled from his charge in order to devote himself to the commission he had received from God.
 
@@ -6748,7 +6748,7 @@ millennium, the Gnostics have been given the most credit for the spread of devil
 Some of the cults deriving from Gnostic teaching have become Divine religions, such as Catharism, as they continue to selflessly revere one God above all others, even though this God does not conform exactly to the God of the Christian Church. However, there are many other groups of Gnostics still active in Mythic Europe in the 13th century who are knowingly Infernal, with beliefs based on a selfish and sinful philosophy. The Dark Gnostic tradition is made of up those who preach that sinful acts have
 
 
-## *Story Hook: Snake in the Grass*
+## Story Hook: Snake in the Grass
 
 The parish priest of a church near the covenant is replaced with a man clearly more educated and charismatic than the previous incumbent. The new priest is friendly and an inspiring teacher, and has a liberal attitude towards magic that might win him friends amongst the magi. The spiritual guidance he offers his flock is surprisingly libertine, subtly suggesting that whatever feels good is right, although he is never overt in his heresy, and in the main sticks to Church doctrine. The priest is actually a Dark Gnostic. He keeps snakes in a basket in the basement of his church, one of which is a Spirit of Deceit in disguise. This demon is gradually corrupting the parish with its Obsession, and the priest is reinforcing those beliefs with his teaching. The corruption is a slow process, but will pay off in the long term with a whole parish of corrupted worshipers.
 
@@ -6769,14 +6769,14 @@ These infernalist heretics tend to be drawn from the educated class of clerics, 
 
 Those who follow the Dark Gnostic tradition often use their maleficia to learn more about the world around them, and are said to gain extraordinary insight through their meditative rites. Despite the vile and wicked acts in which they regularly engage, they are generally introverted and passionless, their desires tending more towards ambition, knowledge, and power. Those of them who extract Infernal blessings from the demons they command come the closest to achieving the perfect order envisioned by Joachim of Flora, but over time the results are truly frightening to behold.
 
-## *Infernal Tradition: The Dread Host*
+## Infernal Tradition: The Dread Host
 
 **Favored Abilities:** Binding, Effusion, Incantation, Summoning
 
 Many peasant folk tales describe how the dead walk again among the living, in service to their Infernal masters or to commit greater sins than those they practiced in life. These tales might originate from the acts of this tradition, whose members believe that their status in Hell during life carries over to their status in Hell after death. That is, they imagine that they can become Infernal ghosts when they
 
 
-## *The Princes of Mecklenburg*
+## The Princes of Mecklenburg
 
 The lords and ladies of the noble family of Mecklenburg — named after their chief seat, situated between Rostock and Lübeck in Northern Germany were once princes of their realm. Their Sorbian dynasty is now in decline, not least due to their worship of a being called Radegast. The ancestors of the Mecklenburgs worshiped Radegast before Christianity ever came to this region, but it is unclear whether Radegast was always a demon. He may have once been a faerie lord who switched allegiance to Hell, or one of their ancestors who gained great power after death, or else he was usurped by the demon now calling himself Radegast. Whatever the truth, the Princes of Mecklenburg continue to venerate him, hidden in their castle, safe from the sight of the rest of the world.
 
@@ -6796,7 +6796,7 @@ The Mecklenburgs are all infernalists to some extent, members of the Dread Host.
 
 The Princes of Mecklenburg would make an excellent foe for a covenant of magi. While they have lost much of their former power, they have sufficient political clout — and sufficient blackmail material — to prevent them from being easily destroyed by the characters, even by those who are aware of their nature. Their Infernal power is also to be feared, and it is fortunate for the region that the family is so caught up in the power plays between brother and sister that their influence does not extend far beyond the walls of their sprawling castle.
 
-## *Story Hook: The White Sheep*
+## Story Hook: The White Sheep
 
 Miklos is the illegitimate son of one of the Mecklenburgs; he is despised because he refuses to partake in the worship of Radegast and the rites of the Dread Host, but he will not leave the castle because his mother is being held hostage there. She has long since lost her mind, having witnessed too much in her many years as a servant. Miklos is now in his late teens, and prone to mak-
 
@@ -6811,13 +6811,13 @@ do this is not clear, but the passing of the grim procession serves as a reminde
 
 These Infernal processions are rare in the 13th century, though as of 1220 there have been two notable instances in recent memory, both times at large fairs held in central Germany. According to accounts, the disturbing show was seen by many as a form of pious asceticism, and onlookers admired the passionless fortitude possessed by these apparently fanatical figures. It may be that the unfortunates forced to perform the *danse* do manage to avoid despairing of their condition and somehow endure the torture of their possession without losing faith, so escaping eternal damnation by the grace of God. However, the Dread Host believes that most people subjected to such horrors instead come to accept them and even perpetuate them, or seize any opportunity to end their miserable lives, and so become either willing infernalists for the cause or ghostly grist for their unholy mill.
 
-## *Infernal Tradition: The Mulhidun*
+## Infernal Tradition: The Mulhidun
 
 **Favored Abilities**: Ablating, Binding, Commanding, Summoning
 
 To the north of the Persian city of Mosul, and in the lands occupied by the Seljuks to the east of the Byzantine Empire, there is a widespread group of devil-worshipers greatly feared by the followers of Islam. According to legend, they worship a *shaitan* (demon) who has deceived them into believing that he is
 
-## *The Real Mulhidun*
+## The Real Mulhidun
 
 The Yezidi or Yazidi are Kurdish members of a small Middle-eastern religion that blends elements of Zoroastrianism, Manicheism, and Islam with local pre-Islamic beliefs and a smattering of other religions. They call themselves the Dasin; the name Yezidi is derived from the Pahlavi word *yazd*, meaning "angel." Most Yezidis live in Iraq, but there are other communities in Syria, Turkey, Iran, Georgia, and Armenia.
 
@@ -6833,7 +6833,7 @@ The Mulhidun (singular Mulhid) revere Enais, the Peacock Angel, as the salvation
 
 Unfortunately, a religion which promotes regular traffic with demons is by definition corrupt, and by following the blasphemy of Enais, the Mulhidun have been corrupted into an Infernal tradition. Instead of destroying demons for the good of all mankind, they use their power over them for selfish purposes. Instead of seeking salvation of the spirit, they seek comfort of the body. They benefit from
 
-## *Story Hook: The Demon Scholar*
+## Story Hook: The Demon Scholar
 
 The Mulhidun are among the most knowledgeable of demonologists, and have vast information about the Infernal realm, including many grimoires full of demonic True Names. Magi who are desperate to uncover information about a specific demon might be driven to track down a Mulhid expert. However, distinguishing an honest Mulhid from a corrupted one may prove to be a difficult task.
 
@@ -6848,13 +6848,13 @@ The reason that Hell allows this servitude to continue is twofold. Firstly, by e
 
 The Mulhidun are all considered to be infernalists, though in any given community there may only be a handful of actual sorcerers. Since they are capable of binding demons to unholy charms that at least appear to grant control over the demonic slaves, many outsiders mistakenly think they all have the power to command the demons that serve them.
 
-## *Hermetic Traditions*
+## Hermetic Traditions
 
 The Order of Hermes is not immune to the Devil's wiles, and in fact many examples of magi who practice diabolism and Infernally tainted magic have appeared in the organization throughout the years since the Founding. In general, demons love corrupting wizards, because magi already have enough magical power to make them powerful weapons in support of Hell's goals, and are typically hungry for still more power, so that it is easy to tempt them. Furthermore, magi generally avoid the Divine realm, making them unlikely to seek out repentance, and they are often susceptible to the sin of pride, making them less likely to decide they need to do so. All in all, magi are excellent targets for Infernal corruption.
 
 When a group of magi with similar goals and backgrounds regularly gather to practice their Arts and teach each other magic, it is called a Hermetic **societas**, and the three societates that follow often attract magi and other characters associated with the Order of Hermes who are particularly susceptible to corruption by the Infernal realm. Most Tribunals would probably not consider it a Hermetic crime merely to belong to such a group — whether it is based on an Infernal lineage, an evil Mystery Cult, or an immoral philosophy — but these characters should expect to be treated with suspicion and watched carefully for signs of Infernal activity by their sodales and the Quaesitores if their affiliation becomes widely known.
 
-## *Infernal Societas: The Damhadh-Duidsan*
+## Infernal Societas: The Damhadh-Duidsan
 
 **Favored Abilities:** Consumption, Incantation, Malediction, Shapechanging
 
@@ -6862,7 +6862,7 @@ When Pralix led her crusade into the British Isles to crush Damhan-Allaidh the S
 
 Many think that Damhadh-Duidas joined the Ordo Miscellany intending to betray them as an agent of Damhan-Allaidh. If that is the case, he never had the opportunity, perhaps because Pralix did not trust him and watched him carefully, forcing him to prove his loyalty
 
-## *Ogam Writing*
+## Ogam Writing
 
 Ogam (pronounced OH-yam) is a form of arcane writing practiced by the Damhadh-Duidsan and other wizards descended from Gaelic traditions, characterized by short strokes across a long vertical line, each letter represented by one to five strokes drawn very close to each other. Those who scribe with it often carve the runes into short sticks, or draw them upon the ground or their own bodies. Ogam writing has a mystical reputation, as the common people have usually seen it only on tombstones or curse-tablets, and its origins are unknown. Some think it is native to the British Isles, while others believe it is based on the Roman alphabet or some other form of writing from even further afield.
 
@@ -6873,7 +6873,7 @@ when it counted. They won two battles decisively because of his efforts, but he 
 Despite his questionable allegiance, Damhadh-Duidas's actions gained him the respect of his allies, and he joined the Order of Hermes as part of the new House Ex Miscellanea. He swore the Oath with the others and returned to Britain. There he taught two apprentices, continuing his magical tradition as an esoteric lineage within the Order, teaching them his secrets without revealing their Infernal nature. He always harbored a deep grudge against Pralix, however, and many believe he was ultimately responsible for her death.
 
 
-## *Story Hook: The Spider's Web*
+## Story Hook: The Spider's Web
 
 A character who belongs to the line of Damhadh-Duidas begins to experience powerful visions of anger and contempt, along with the image of a great spider trapped within a block of ice. As he watches, the ice begins to melt, and soon the creature is freed, rising up on a great flood of water that crashes towards him. It speaks words directly into his mind: "I am the Spider, and you know me. You have two choices: to join me and atone for the betrayal committed by your ancestor, or to be among the first to fall when I rise from my prison and regain my power. I am coming for you, deceiver, of this you can be sure, for we are bound by bonds that are stronger than blood and tighter than death." A series of images follow, including a black stone with what
 
@@ -6890,7 +6890,7 @@ Giant Blood is very common in the tradition — both Damhan-Allaidh and Damhadh-
 To design a magus from the Damhadh-Duidsan tradition, use the Ex Miscellanea character template, taking Puissant Corpus, Necessary Condition (runes), and either Shapechanging, Giant Blood, or Incantation for your free Virtues and Flaws. For a character without The Gift who descends from the same race of people, you might design a companion with one or more of the tradition's Favored Abilities, or even a Mythic Companion using the Diabolist template (see Chapter 10: The Maleficia).
 
 
-## *Infernal Societas: The Ordo Vagorum*
+## Infernal Societas: The Ordo Vagorum
 
 **Favored Abilities:** Consumption, Corruption, Debauchery, Psychomachia
 
@@ -6900,7 +6900,7 @@ Of course this is sinful behavior; it is pardonable, but still wrong, yet the *v
 
 Their secret society is structured similarly to the newly emerging mendicant orders, with a bishop or "archprimate" who oversees all the transient vagabonds within a large area, and who is responsible for what little organization their order requires. These senior infernalists are the ones who teach the maleficia to those initiated into their conventus. They use these Powers to improve themselves, to set a "good" example for others, and to make their ways seem more attractive. They also do their best to make the
 
-## *Story Hook: A House of Ill-Repute*
+## Story Hook: A House of Ill-Repute
 
 If it is true, as is often said among the Mercere, that Golias was a Redcap who lived with the infernalists at Fudarus, it may be too late to prevent the House from becoming corrupted. If these infernalist Redcaps are a localized phenomenon, the senior Redcaps might be willing to out them and see them Marched, but if they have spread throughout the Order it may be in the best interests of the House to keep them secret and deal with them internally, since their discovery by the other Houses would throw their organization into turmoil. They have seen how magi treat others accused of such crimes, such as the Tytalus diabolists and especially the Diedne, and they might believe that this scandal would lead to their disgrace, disbandment, and possibly even execution. They cannot allow this to happen, so instead they might begin to distance themselves from the Goliards, perhaps quietly suggesting that they be allowed to join House Jerbiton instead.
 
@@ -6915,9 +6915,9 @@ The vagabond order has very loose ties to the Order of Hermes, through the many 
 Both Redcap and non-Redcap vagantes should follow the requirements for joining the Goliards, as presented in *Houses of Hermes: True Lineages*. That is, they should take either Clerk or Educated, and have some sort of sinful Compulsion. They should also have a Virtue or Flaw that explains their Infernal background, such as Diabolic Past or Student of the Infernal, and may take any of the Favored Abilities listed above as Virtues during character creation. For a magus vaganti, the character should belong to either House Mercere or House Jerbiton, the latter designed with strong ties to the universities.
 
 
-#### *Realms of Power*
+#### Realms of Power
 
-## *Infernal Societas: The Witches of Thessaly*
+## Infernal Societas: The Witches of Thessaly
 
 **Favored Abilties:** Chthonic Magic, Commanding, Hex, Summoning
 
@@ -6938,7 +6938,7 @@ Some Thessalians remain in contact with their sisters who did not join the Order
 
 > — Lucan's *Pharsalia* 6:507, written in 65 A.D.
 
-## *Drawing Down the Moon*
+## Drawing Down the Moon
 
 The Thessalians were well known in the ancient world for practicing a form of sorcery known as "drawing down the moon," a kind of sexual magic practiced almost exclusively by the witches. This is typified in the literature by witches dancing naked in the dark and then literally capturing the moon and pulling it to earth, for the purposes of inspiring unnatural erotic attraction. This process turned the moon pale or blood-red, and could even remove it from the sky for a short time. Exactly what it was they were doing has been lost to the obscurity of the ages; some medieval writers suggest that the witches were predicting eclipses, while others believe that they caused them, and others maintain that they affected the moon in a more literal fashion, unbound by magic's inability to penetrate the lunar sphere.
 
@@ -6951,7 +6951,7 @@ A common use for this unusual harvest is the fashioning of *kolossoi*, dolls or 
 range of materials: wax, wool, and dough are most common, though lead, bronze, and clay are more lasting. If the *virus lunare* is added to the mixture before crafting the doll, it becomes a fixed Arcane Connection, lasting as long as the figurine is intact and recognizable as the target. This process is Magical, not Infernal, though of course the doll can be used for Infernal purposes.
 
 
-## *Story Hook: The Bad Seed*
+## Story Hook: The Bad Seed
 
 A baby is born to one of the Daughters of Erictho nine months after she participates in the rites of drawing down the moon, and it is found to have been blessed with The Gift. She leaves the child with one of her Thessalian sisters, a maga in the Order of Hermes, with the hope that it will be raised as a Hermetic wizard. However, the child's Gift is False, a result of the diabolic machinations that led to the witch's pregnancy, and the child will grow up with a form of unholy magic. The demons hope to manipulate the young apprentice into infernalism over time, and so gain an agent among the local wizards. This background might be combined with the rules for tainted characters (see Chapter 9: Infernal Characters) to create an interesting character concept for a starting magus.
 
@@ -6965,9 +6965,9 @@ free Virtues and Flaws. They might also learn Chthonic Magic during apprenticesh
 companions or Mythic Companions, should be designed like Spirit Masters, above, though they should also take Commanding and Hex during character creation.
 
 
-# *Contributors*
+# Contributors
 
-## *About the Authors*
+## About the Authors
 
 **Erik Dahl** writes code, music, and, of course, **Ars Magica** supplements in the land of Davis, California. There he has a happy home that he shares with his lovely wife, which makes it kind of a stretch for him to write about evil, corruption, pain, misery, and all the fun gaming material contained in this book. So, while reading, please instead pretend that he is a tortured soul chained to a fiery desk, whipped mercilessly by his unfeeling line editor, surrounded by a ring of demons that alternately berate and scorn him for the last book he had anything to do with, every day ruing that he ever signed his name to that Infernal contract.
 
@@ -6979,7 +6979,7 @@ The True Name of the unfortunate creature known as **Mark Shirley** is only soug
 
 *Dedication: From LMS, to Azazael, whose pedantry made me evil; and to B.Z. Bub, whose puns forced me to stay evil just to punish him.*
 
-## *About the Illustrators*
+## About the Illustrators
 
 **Jason Cole** attended the Academy of Art in San Francisco for two years before accepting a double scholarship to the Center for Creative Studies in Detroit. He is currently enrolled in F.I.T.'s MA in Illustration program.
 

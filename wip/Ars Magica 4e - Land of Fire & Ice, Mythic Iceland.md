@@ -28,13 +28,13 @@ Included in Land of Fire and Ice are:
 
 **Playtesters:** Damelon Kimbrough; Chris Frerking, Jeremiah Genest, Dan Koulomzin, Rob MacDougall, Kyle Niedzwiecki, Jess Pease, Kirby Vosbugh; Eric Kouris, Yves Leblanc, Stéphane Paquet, Hubert Quatreville;
 
-#### *About the Authors*
+#### About the Authors
 
-#### *Mark Shirley*
+#### Mark Shirley
 
 A number of stories are told about Mark Shirley. His doctorate was about counting flies and he has spent three years weighing slugs. He now writes computer programs about the Black Death, and teaches undergraduates how to get beetles to mate. He shares his life with two ferrets named after his grandmothers. He spends his spare time breeding armadillos for racing, and making life-sized papier maché models of giraffes as presents for his relatives. His grandfather was a druid. He seems oblivious to the violently clashing colors of his clothing, and he was once mistaken for a gnome. It is known that only one of the above facts is false.
 
-#### *David Woods*
+#### David Woods
 
 David Woods lives near Edinburgh with his wife Amanda, son Matthew and cat Jasmin. David would like to tell you what he does for a day job, but claims this would be a breach of national security. Some have speculated that his job involves reverse engineering captured alien technology and being flown about in black helicopters. Others speculate that he merely sits at a desk all day and plays around with various optical software packages, designing optics for defense avionics (whatever that means). David could not possibly comment. He will say that he is not an optician.
 
@@ -55,7 +55,7 @@ Project: Redcap archives and links to many of the fan-created **Ars Magica** pag
 
 Saint Paul, Minnesota info@atlas-games.com • www.atlas-games.com
 
-## *Land of Fire and Ice Table of Contents Land of Fire and Ice Table of Contents*
+## Land of Fire and Ice Table of Contents Land of Fire and Ice Table of Contents
 
 | Chapter 1:<br>Introduction                                                                                                         | Chapter 7:<br>Toframanna Saga                                                | Journey107<br>The Singing Caves109                                                       |
 |------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
@@ -133,7 +133,7 @@ Known only to dragons, giants and magical beasts, the whole island was covered w
 
 magical aura. In many places the aura grew
 
-## *Icelandic Names*
+## Icelandic Names
 
 Icelanders do not have family names. Instead they are described as being the son or daughter of their father (or very occasionally their mother). For instance, if Eirik had a daughter called Una, she would be known as Una Eiriksdottir (Una daughter of Eirik). His son Thord would be called Thord Eiriksson (Thord son of Eirik). Nicknames are often adopted to distinguish between people, thus Thord Eiriksson might also be known as Viga-Thord ("Battle-Thord") if he was a veteran, or Thord inn audgi ("Thord the rich") if he had accumulated wealth as a merchant.
 
@@ -147,7 +147,7 @@ strong enough to penetrate the magic realm itself (the magical analogue of Arcad
 
 According to the Heimskringla, by Snorri Sturluson, King Harald of Denmark sent a warlock to Iceland to find out about the place. The warlock visited the island in the shape of a whale. He saw the land filled with guardian spirits (landvaettir), and every time he tried to reach land, he was repulsed. In the East a great dragon rushed at him, accompanied by a train of serpents and toads. To the North a huge eagle was waiting for him, accompanied by many other birds. To the West a large gray bull bellowed at him and waded into the water, along with attendant land spirits. Finally, the warlock attempted landfall in the South, but a hill giant carrying an iron staff led a crowd of other giants against him. The warlock swam back to his
 
-## *The Guardians*
+## The Guardians
 
 Any magically powerful being approaching Iceland activates the magical defenses set up by its ancient residents. Guardian spirits (landvaettir, see page 32) constantly watch the coasts. If a threat is spotted the landvaettir gather into a host and approach the First Guardian. The First Guardian then leads them against the invader. If the First Guardian fails to repel the threat, the host passes to the Second Guardian, and so on.
 
@@ -168,7 +168,7 @@ The origins of these guardians are unknown, but they have protected Iceland from
 
 Around 790 Irish priests put their faith in God and set out in coracles heading west. Their faith led them to the Icelandic coast and for the
 
-## *Avoiding the Guardians*
+## Avoiding the Guardians
 
 The landvaettir only alert the Guardians if they perceive a magical threat to Iceland. The approaching person must have substantial magical power and harbor thoughts of destruction or hatred to the land or its inhabitants. This should be treated as the spell *Sight of the Transparent Motive* with a penetration of +45 (resistance is considered hostile).
 
@@ -187,11 +187,11 @@ Within sixty years all the agricultural land had been claimed and between ten an
 
 ## A New Society
 
-#### *The Chieftains and Householders*
+#### The Chieftains and Householders
 
 The richer settlers built temples to their favorite god and provided oxen and horses for sacrifice. This was expensive and marked a man out as one of means and authority. Such men gained a strong position in the district and soon acquired the title *godi* (plural *godar*), meaning
 
-## *The Landscape*
+## The Landscape
 
 The most striking feature of Iceland is the land itself. Few places in the world can boast such rugged beauty and diversity. In the lowlands, fast flowing rivers cut their way though lush meadows forming many spectacular waterfalls. These rivers seem unsure about where to run, their courses changing dramatically over the years. Deep gorges are cut though otherwise open plains, leaving travelers frustrated or worse.
 
@@ -220,7 +220,7 @@ Deforestation and grazing animals caused extensive erosion in the Icelandic high
 
 By comparison, the land of Ireland is 13% cultivated, 68% grassland, and 5% forest and woodland.
 
-## *Magical Landscape*
+## Magical Landscape
 
 The arrival of the Irish priests caused Iceland's magical aura to retreat from the lowland regions, leaving them mundane. In the relatively brief period of pagan temples weak faerie auras sprung up, but most vanished after conversion.
 
@@ -234,7 +234,7 @@ godly one. These chieftains were Iceland's elite, but initially the position gav
 
 The power of a godi was dependent on the number of householders (*baendur*, sing. *bondi*) he could attract. Householders could freely choose to ally with any godi. If two godar were in dispute the number of allies *(thingmen)* each had often had a great impact on the result.
 
-#### *Freemen, Freedmen and Slaves*
+#### Freemen, Freedmen and Slaves
 
 The settlers had many slaves, but immediately there was pressure to free them. Slave owners found that extra hands did not offset the cost of feeding them, and the first landowners often had a lot of excess land, which was a liability, as it had to be defended.
 
@@ -242,18 +242,18 @@ The solution was to give grants of freedom to slaves who became laborers and ten
 
 Most slaves were freed by the tenth century. Household slaves, with women serving as nurses, foster-mothers and concubines, were more enduring, but even this was very rare by the middle of the twelfth century. Although slavery was lawful throughout the Free State period, by 1220 only debt slaves are commonly seen.
 
-#### *Norse Magicians*
+#### Norse Magicians
 
 Norse magicians immigrated to Iceland with their countrymen. They included witches and seeresses called *volur* (singular *volva*), and wisemen call *visindamen.* Both often practiced *seithr,* a form of magic involving shamanic rituals. Attracted by its powerful spirits and abundant magical resources, many *galdramen* (sing. *galdraman*) settled in Iceland. Galdramen used spells, spoken in poetic verse or sung, to summon and bind spirits. Two other types of magicians were the Norse priests called *vitkir* (sing. *vitki*), whose magic came from devotion to the Aesir gods, and the *trollsynir* whose magic came from their blood.
 
 Iceland's magicians were busy in the early days of the settlement. With the Irish priests gone, violent landvaettir, trolls and other magical beasts plagued the settlers. Without the benefit of Christian burial the magical atmosphere occasionally reanimated corpses. These *draug*, as the Norse called them, plagued farms until they were slain by magic or metal. Only enchanted burials could prevent the corpse wandering about. Wards against trolls and spirits were also in high demand.
 
 
-## *Iceland and The Order*
+## Iceland and The Order
 
 Hermetic magi are currently unknown to Icelandic magicians and the Order's knowledge of Iceland is scant. In general the Order regards Nordic lands with suspicion. There are stories of a powerful Order of Odin, which many magi believe responsible for the destruction of all Hermetic covenants that try to settle in the region. As most Hermetic magi avoid even the Scandinavian mainland, few have even heard of Iceland. As of 1220, there is no known Hermetic presence.
 
-## *Climate*
+## Climate
 
 Iceland has fairly mild winter temperatures, but it does rain a lot. Typically a day does not pass without some rain, snow, sleet, or at least drizzle. Happily, Icelandic weather is very changeable and a brief shower is often followed by sun for the remainder of the day. However, periodic gales and fog make for truly miserable weather at times. The northern and eastern coastal regions fare better: the northern region is the sunniest while the eastern is the warmest.
 
@@ -297,7 +297,7 @@ In 982 Eirik the Red was outlawed from Iceland on manslaughter charges. Having a
 
 Eirik set out from Snaefelljokul and discovered Greenland. There was plenty of grassland for the taking, and the lands were rich in bears,
 
-## *Icelandic Flora and Fauna*
+## Icelandic Flora and Fauna
 
 When the settlers first arrived, the land was heavily wooded with dwarf willows, which were cleared for firewood and grazing. This massive deforestation led to soil erosion that gradually reduced the quality of the land for its farmers. Other areas of the coast were bog and marshland.
 
@@ -356,7 +356,7 @@ After a number of successful prosecutions the most prominent magicians in the co
 
 Eventually a typical Icelandic compromise was reached. The prominent baendur and godar quietly visited the old magicians. They guaranteed them that any suit for using non-malign magic would be crushed and any accusations of black sorcery would receive a fair hearing. Iceland had its magicians and witches back as open secrets and the Galdramen Hreppur continued meeting to ensure its members did not endanger their position again.
 
-## *The Lava Fields of Misdeeds*
+## The Lava Fields of Misdeeds
 
 Odadahraun, "the lava fields of misdeeds," lies north of the Vatnajokull glacier. This area forms the boundary of three of the four quarters (East, North and South), but strictly belongs to none of them. The Lava Field of Misdeeds is one of the wildest parts of Iceland, and is perhaps one of the most magical. There is more vis to be found here than in any other part of Iceland, among the twisted spires of rock and crumbling pumice, where sulfurous springs belch evil-smelling humors into the air, and the mighty glaciers and volcanoes provide a menacing backdrop.
 
@@ -380,7 +380,7 @@ In 1220 AD, the allegiance of this group remains of critical importance to conte
 
 ## The riki in 1220 AD
 
-#### *The Svinfellingar Family*
+#### The Svinfellingar Family
 
 The first family to expand beyond one or two godord, by 1220 they have acquired the whole Eastern Quarter and formed two *riki.*
 
@@ -388,19 +388,19 @@ Skaftafellsthing is ruled over by Orm Jonsson from 1212.
 
 Mulathing is under the command of Thorarin Jonsson, the brother of Orm, from 1220.
 
-#### *The Asbirningar Family*
+#### The Asbirningar Family
 
 Named after Asbjorn Arnorsson who lived around 1100, it was Kolbeinn Tumason who first ruled the Skagafjord (Hegranesthing) district of the Northern Quarter. He later acquired Hunavatnsthing and by his death in 1208 he had extended his territory to the western boundaries of the quarter. The current storgodar is his brother Arnor, however his health is failing and it looks likely that his son Kolbeinn the Young will soon inherit.
 
-#### *The Oddaverjar Family*
+#### The Oddaverjar Family
 
 Jon Loftsson at Oddi was held in extremely high esteem as an arbitrator in disputes among chieftains for all four quarters. Jon and two of his sons, Orm and Pall (later Bishop Pall) came to rule over all the chieftaincies in the district of Rangarthing. The family rules over the district as a group and with Bishop Pall's death in 1211 and Orm's death in 1218, the chieftaincies are now divided among Jon Loftsson's third son Saemundur and his children.
 
-#### *The Haukdaelir Family*
+#### The Haukdaelir Family
 
 Prominent in the Christianization process, this family controls all three chieftaincies of the Arnesthing district.
 
-#### *The Sturlungar Family*
+#### The Sturlungar Family
 
 This family descended from Sturla Thordarson at Hvamm in the Western Quarter. Although he never controlled more than one chieftaincy, his three sons are among the most powerful and ambitious chieftains of the 13th century.
 
@@ -616,7 +616,7 @@ Slaves were initially common in Iceland. They were either captured slaves (mainl
 
 When freed, the slave enters the class of freedmen. A new contract of dependence is made between the freedman and his former owner. Freedmen become dependents of the for-
 
-## *Matter of Honor*
+## Matter of Honor
 
 **Story Seed:** One of the magi has taken an Icelandic apprentice and completed his Hermetic training. The new filius receives an offer of a place in a spring covenant far away. However, the new covenant angers a local rival who collectively declares Wizard's War on the young magi. The player character receives a letter from his filius explaining the situation. He refuses to be driven from his new home and asks for his parens's help in negotiating a settlement.
 
@@ -661,7 +661,7 @@ The biggest impediment to marriage for many Icelanders is money. The law require
 As the Icelandic weather and long winter nights force people into their homes for long periods, Icelanders have found ways of passing the time. As well as the occasional board game, they like to tell stories and compose poetry. The ability to recite the sagas is highly thought of.
 
 
-## *Hof and Ohof*
+## Hof and Ohof
 
 *Thorstein lived at Borg in Borgarfjord; he was wealthy, a great leader, a wise man, gentle, and a man of moderation [hofsman] in all respects.*
 
@@ -752,7 +752,7 @@ Edible lichens are often used instead of ground meal. Birds are hunted and their
 
 Although their ancestors were famous for their seamanship, Icelanders have few ships due to the lack of wood. Internally Iceland is connected via an extensive system of horse paths, leading to almost every part of the country. Goods move around via packhorses and the tough Icelandic breed copes well with the often steep and rocky road network.
 
-## *Story Seeds*
+## Story Seeds
 
 - A neighbor of the covenant always gets a good harvest, even in the worst of weathers. This has made him particularly rich, and he demands silver (virtually impossible to get hold of in Iceland) in return for grain and meat. What is the secret of his success? Perhaps a witch has charmed his fields for him, burying magical stones at the boundaries. Perhaps he is friendly with the landvaettir (page 32), blessing him with prosperity. His greed, however, has upset his benefactor (whoever that is). What will happen when his crops suddenly fail?
 - Some years, even the best farmers cannot provide enough food for their household. When this happens to magi, what can they do? Allow people to starve? If not, how will they meet the shortfall? It is likely that most of the island has a similar dearth of food, after all.
@@ -791,7 +791,7 @@ A member who has lost more than one fourth of his herds to disease is entitled t
 Iceland's magicians have formed their own hreppur to safeguard their interests. The Galdramen Hreppur meets yearly at a magical site called Eldborg in the Western quarter five days after the end of the Althing. Like the hreppar formed by farmers, its members seek to organize their trade, allocation of common land and sharing of duties. Additionally the hreppur acts
 
 
-## *Story Seeds*
+## Story Seeds
 
 - Trading with the monasteries and cathedral schools on Iceland might be a way of developing a good library, especially seeing as both Holar and Skalholt harbor schools for Natural Magicians. Books on Philosophiae may well contain information that a Hermetic magus could learn from, and vice versa. When a merchant heading for Skalholt gets blown off course and ends up on Snaefellsnes with the magi, what will they do when they find out his cargo include several books on Hermetic magic destined for the bishop's school?
 - The walrus (or morse) is common around the western and northern coasts of Iceland, particularly during the winter when they haul up on the ice floes. Hunting walruses can be a dangerous business, not least because the walrus is a powerful opponent (see *The Medieval Bestiary*, page 90), but the rewards are great. Walrus ivory can fetch a high price, apart from the value of the exceedingly tough leather, the rich blubber, and the high quality meat. However, not all walruses are what they seem: shapechanged trollsynir or giants are only one possibility.
@@ -801,7 +801,7 @@ as a court of dispute between members on matters that cannot be taken to the *th
 
 The general rules of the hreppur are given below.
 
-#### *Magical Services (1220 AD)*
+#### Magical Services (1220 AD)
 
 A trollson, galdraman or vitkir must charge one standard ounce each day (or part) spent in performing a service, to a maximum of two standard marks (16 ounces) for each season.
 
@@ -809,7 +809,7 @@ Seithkona and witches may only charge half a standard ounce per day, to a maximu
 
 Ond (vis) use is charged at one standard mark per pawn.
 
-#### *Discretion*
+#### Discretion
 
 Members should do their best to ensure their magic is discreet. Any householder employing a magician should give his assurance that none of his household will take offense before magic is performed. If this assurance is broken then the magician is not held to account. Every effort should be make to limit the number of witnesses.
 
@@ -817,13 +817,13 @@ Supernatural affairs are not to be discussed with non-members unless it is unavo
 
 If a charge of witchcraft is brought against a member as a result of unjustified and indiscreet use of magic, then the member must pay the godi or storbaendur defending him six law marks. If the charge is a result of circumstances beyond the magician's control, the godi should defend him without charge.
 
-#### *Harvesting Ond*
+#### Harvesting Ond
 
 Any member may lay claim to any ond source that lies on his own lands. If the site is on common land then the first member to harvest the ond can claim the source. Anyone found harvesting on another's claim must return the ond and pay 1 mark for each pawn taken.
 
 If a magician dies with no heir, then his claims become vacant and the first person to harvest the site can establish a new claim. Others can claim sites that are abandoned. If this
 
-## *Ond*
+## Ond
 
 Ond is the 'vital force' that is Odin's gift to man in the heathen story of the creation of the human race from two tree trunks washed up on the shore.
 
@@ -843,7 +843,7 @@ If the magician chooses to involve himself in a mundane conflict he may only use
 
 If a magician is attacked while at home or on an innocent journey (not while on a raid), then he may use magic to drive the attackers off or aid his retreat. Even in these circumstances the magician is not permitted to deliberately cause injury and his life must be under threat.
 
-## *The Order of Odin*
+## The Order of Odin
 
 Whether this organization of Norse wizards exists or not is for individual storyguides to decide. However, senior members of the Order of Hermes believe that it exists and poses a real threat to the Order. The lack of any clear information on this organization only creates more anxiety. The galdramen hreppur would, on the surface, appear to be this Order of Odin. However, the galdramen hreppur is a purely Icelandic organization, created in Iceland on an Icelandic model to serve Icelandic needs.
 
@@ -866,7 +866,7 @@ Among the Christian Norse, the words troll and giant have become interchangeable
 
 
 
-## *Trolls*
+## Trolls
 
 **Characteristics:** Int –3, Per –1, Pre –2, Com –2, Str +6, Sta +4, Dex –1, Qik –2
 
@@ -898,13 +898,13 @@ Unconscious **Body levels:** OK, 0, 0, 0, –1, –3, –5, Incapacitated
 
 nar are powerful magical giants, often descended from Ymir's first brood. They remain the true embodiment of their race. Trolls are a degenerate form of giant: they are smaller, have little magic and dwell in caves, and tend to be stupid man-eaters. Originally true giants, their moral degeneracy is now reflected in their bodies. Trolls are normally descended from Ymir's second brood.
 
-#### *Giant Clans*
+#### Giant Clans
 
 The giant races are divided into clans and families. Trolls often no longer recognize, nor are recognized by, the clans of their ancestors.
 
 The largest giant clan is the Clan of Hrym, the leader of the Frost giants. To the pagan Norsemen, the powers of Frost were the most frightening and the most immediate threat to life. The Clan of Hrym is implacable, relentless in pursuit of their goals, but often the wisest of the giants. However, they are also man's great-
 
-## *Giants*
+## Giants
 
 **Characteristics:** Int +0, Per +6, Pre –4, Com 0, Str +15, Sta +20, Dex –1, Qik –1
 
@@ -932,7 +932,7 @@ The largest giant clan is the Clan of Hrym, the leader of the Frost giants. To t
 
 **Vis:** 12 pawns of Corpus vis in body.
 
-## *The Icelandic Giant Clans*
+## The Icelandic Giant Clans
 
 While trolls are always hostile to humans, some giants offer shelter and protection to travelers (usually outlaws given the remoteness of giant homes). A number of Icelandic trollsynir (see page 51) have resulted from unions between the bored and lonely daughters of hospitable giants and the occasional outlaw. Still, most Icelandic giants do not care for humans at all, but most have no contact since no sane human treks into their vast glaciers or volcanic homes.
 
@@ -948,7 +948,7 @@ The Clan of Bergelmir contains the Rockgiants. This is one of the oldest lineage
 
 
 
-## *Fylgjur*
+## Fylgjur
 
 The fylgjur (singular: fylgja) are spirits that attach themselves to certain humans. They are closely linked to the pagan Norse concept of the soul, and can be inherited from an ancestor just as any other trait might be passed on.
 
@@ -982,7 +982,7 @@ Closely allied with the alfar are the *husvaettir* or 'house-spirits', which bea
 
 The final type of landvaettir are known as *yarthkin*. These spirits could have once been members of any of the former groups, but their growing dislike for humankind has driven them
 
-## *Story Seed*
+## Story Seed
 
 Members of house Merinita may be fascinated by the landvaettir. They are different from faeries of the mainland, being equally at home in magical and faerie auras. The metaphysical implications could require a lifetime to investigate.
 
@@ -1064,7 +1064,7 @@ The Quarter Courts constitute the judicial arm of the *Althing*. Each holder of 
 
 The Fifth Court was established in 1004. Cases of *divided judgment* in the Quarter Courts are heard at the Fifth Court, as well as cases where the legal procedure itself has been abused (like perjury and bribery). All the godi appoint one judge to this court, resulting in 48 members. However, for each dispute, the accused and the plaintiff dismisses six members, bringing the total to thirty-six. Unlike the *varthing* and the Quarter Courts, only a simple majority is necessary to reach a judgment at the Fifth Court. A tie decides the case in favor of the prosecution, unless the case resulted from a *divided judgment* in a Quarter court, in which case lots are drawn.
 
-## *The Gragas*
+## The Gragas
 
 The Gragas (Grey Goose) is the title given to the laws contained in two manuscripts dated to the thirteenth or the early fourteenth century. The term Gragas was not used by thirteenth century Icelanders and the reader should not assume that Icelandic law was codified by it. Even the two lavishly prepared volumes that found their way to Old Royal Collection in Copenhagen do not completely agree. In 1220 the law is still suffering from the vagaries of its oral origins. Plenty of books of law exist but they may differ on the very detail on which a case rests.
 
@@ -1177,7 +1177,7 @@ Many disputes are settled privately before any legal process is begun.
 The most honorable form of settlement is *self-judgment*. This allows the victim to fix the terms of the settlement. The offering party either presumes that the victim will act with moderation, or the victim is so powerful that he can demand terms. The concept of honor is
 
 
-## *Stories involving the Law*
+## Stories involving the Law
 
 Law is central to Icelandic society. Even if the magi keep themselves isolated from mundanes, it will be difficult to impose the same restrictions on companions and grogs. At the very least it will be necessary to obtain supplies from somewhere, and one's neighbors are the logical choice.
 
@@ -1250,7 +1250,7 @@ Without much Roman authority the Icelandic Church found itself integrated into t
 
 Control of Church property had a great economic significance for those godar and baendur who had it. Donations to the churches passed through the hands of the *wardens* and directly or indirectly their wealth grew in response. The level of income increased in 1096 when the tithe law was introduced. The tithe was a 1% property tax and was divided into four
 
-## *The Christian Magical Schools*
+## The Christian Magical Schools
 
 In his youth Saemundur Sigfusson (1056-1133) was sent abroad to further his priestly education. He made his way to France, where he learned the principles of Natural Magic. On his return to Iceland he became influential, and was consulted on many matters. He founded a school at Oddi, and his son Eyjolf became headmaster there.
 
@@ -1300,7 +1300,7 @@ Monasteries in Iceland are extremely small, typically no more than ten monks in 
 
 The Benedictine monasteries are at Thingeyrar (1112 AD), Munkathvera (1155 AD) and Kirkjubaer (1186 AD). The Augustin-
 
-## *Story Seed*
+## Story Seed
 
 The nuns of Kirkjubaer need to secure sufficient resources or Skalholt will disband them. Word of the wealthy foreign scholars reaches them and the Abbess journeys to petition for their aid. The resources of the covenant can easily absorb the cost of supporting the seven nuns, who are almost self-sufficient anyway. Donating to the nunnery would generate a lot of good will and help reduce anxiety towards the foreign magicians. However, if the covenant is too generous, the monasteries may come asking as well.
 
@@ -1370,7 +1370,7 @@ Through his apprenticeship and subsequent career, each galdraman develops knowle
 
 The Hermetic guidelines can be used to calculate effect levels, but the storyguide should not feel bound by them. Ultimately it is the storyguide that sets Galdor effect levels, not the rulebook.
 
-#### *Song Talents*
+#### Song Talents
 
 Traditional Galdramen develop relationships with particular types of landvaettir by composing a set of praise songs and poems to them. These become the spells he uses to conjure and bind them. A score in a Song Talent represents a galdraman's relationship with particular types of spirit and the quality of his associated spell-songs. Galdramen learn new Song Talents through Galdor Initiation (see below).
 
@@ -1382,7 +1382,7 @@ Galdramen start with two free Song Talents of their choice.
 
 Galdramen are unable to use their magic if they cannot sing, and it fails them when they
 
-## *Available Songs*
+## Available Songs
 
 **Yfel-galdor**, curse songs: Summon spirits who delight in causing woe to the galdraman's foes. This can manifest as ill-luck or direct physical harm such as open wounds or diseases.
 
@@ -1430,7 +1430,7 @@ If the conjuring roll is greater than or equal to double the effect level, roll 
 
 The Might, and hence penetration, of the spirit is equal to the result of the conjuring roll.
 
-#### *Bargaining*
+#### Bargaining
 
 Galdramen can only achieve durations beyond Concentration by impressing and negotiating with the most powerful landvaettir. This process should ideally be roleplayed. The galdraman must journey out into the wilds and seek out an appropriate landvaettir lord. Once found he recites praise songs or poems he has composed in its honor, as well as making offers of vis and service. Landvaettir lords are sentient creatures and may refuse any request which they feel is unwise or against their interest. However, if the spirit is agreeable the galdraman can obtain an extended service from one of the spirit's minions. This process usually lasts at least a day per magnitude for a Conjuring service, but may last a whole season if associated with an Enchantment (see below).
 
@@ -1440,7 +1440,7 @@ If the service is to last more than a year landvaettir lords normally ask for ye
 
 Once the deal is done, the galdraman travels to the desired location and makes the normal conjuring roll. The conjured spirit must be given the agreed sum of vis (which it consumes) and in return the spirit maintains the effect for the agreed period. Regular tithes must be delivered at the times specified in the deal. Failure to supply the vis or service breaks the deal and can lead to reprisals. Ending ongoing deals may only be done amicably by mutual agreement.
 
-## *Conjuring Example*
+## Conjuring Example
 
 Einar is asked to ensure a section of path is warded against trolls and malign spirits. He travels into the wilds to find a regio where an Ol lord resides. The Ol lord greets him warmly and Einar enjoys his host's hospitality. The lord is impressed with the poem Einar composed for this visit and afterward the negotiation begins.
 
@@ -1454,7 +1454,7 @@ After a rest Einar tries again and rolls a 6. The landvaettir appears and Einar 
 
 Bargaining is also required to practice Galdor Enchantment (see below).
 
-#### *Health and Healing*
+#### Health and Healing
 
 Instant duration effects are not possible, but healing (lim-galdor) and birth (biarg-galdor) magic are still effective. These spirits act to enhance the body's natural recovery, rather than generate the Instant effects of Hermetic magic. Usually the spirits simply provide bonuses to recovery rolls. A galdraman may sing over a wounded or sick man and the spirit will help him recover. Add the magnitude of the effect to the recovery roll. However, the galdraman needs to keep the spirit in attendance for at least 12 in every 24 hours to help in recovery tests.
 
@@ -1482,14 +1482,14 @@ The Craft skill used limits the level of Galdor Wisdom and Song Talent when calc
 
 After the bargaining stage the enchantment only takes the time required to make the item. However, negotiations for lifetime enchantments normally last two or three months. Vis cost should be roughly in line with the Hermetic equivalent, and the spirit must be paid before being bound into the object.
 
-#### *Galdraman Longevity*
+#### Galdraman Longevity
 
 A Galdraman who knows the Birth-Songs (biarg-galdor) can strike a deal with a landvaettir lord to save him from the rigors of age. However, the landvaettir lord will always ask a service besides a vis tithe. The exact arrangement is up to the storyguide, but it should be commensurate with the age of the galdraman. The spirit does not specify that the galdraman himself complete the set task. Typical favors include: dismantling of a Christian shrine on a magical area, release of a captured spirit, driving out a diabolist who tortures spirits, creation of a charm to purify a stream.
 
 Once the deed has been done, the galdraman prepares a drink of specially brewed mead containing at least one pawn of vis per decade of his life. He then conjures a biarg spirit in a ritual manner. Once summoned the spirit enters the galdraman's body as he drinks the mead.
 
 
-## *Story Seed*
+## Story Seed
 
 A galdraman acquaintance of the characters asks that they solve some problem for him involving the landvaettir, not telling them that it is part of his longevity deal. The characters should respect this man sufficiently to attempt to help him; however, a rival magician is doing his best to thwart the characters' actions. They may not realize that their success or failure may well determine whether their old friend manages to survive the winter...
 
@@ -1519,13 +1519,13 @@ If a candidate does not have enough Galdor Wisdom, another galdraman (who knows 
 
 Traditional galdramen gain Twilight points like Hermetic magi. They gain points from longevity bargains and can enter Twilight on magic botches. Temporary twilight manifests as the magician's fylgja taking his spirit into the twilight void. On Final Twilight the fylgja simply does not return (with the magician's spirit at least). As Galdor magic always uses a stress die, they tend go on the *Long Hamfaring* earlier than most Hermetic magicians.
 
-## *Hermetic Potential*
+## Hermetic Potential
 
 The Norse traditions of Galdraman magic are far removed from either the Latin or Druidic roots of Hermetic magic. A Galdraman joining the Order will be able to learn the Parma Magica, but not Forms and Techniques.
 
 **Option:** If you are using the Mysteries, a galdraman and a Hermetic theurgist may be able to find enough common ground to learn from each other. Even if possible, a Hermetic galdraman is likely to wield a very crippled form of Hermetic magic, focused entirely on the theurgy mystae. However, his apprentices may be able to use more general Hermetic magic, but will probably lose most of their Norse heritage in the process.
 
-## *Sun Duration*
+## Sun Duration
 
 Duration Sun spells last until the sun next sets or rises. On midsummer day in Iceland, the sun is above the horizon for about 23 hours. Thus D: Sun spells cast at sunrise last about 23 hours and the same spell cast at sunset lasts 1 hour. On midwinter day the reverse happens. These times define the solstices. The shift in day length happens steadily throughout the year and in the middle of spring and autumn, day and night are of equal length.
 
@@ -1643,23 +1643,23 @@ An external soul is gained through Trollskap Initiation (see above) and counts a
 
 ## Arcane Abilities
 
-#### *Galdor Wisdom*
+#### Galdor Wisdom
 
 This Arcane Knowledge can only be gained if the Galdor Conjuring or Enchanting Virtue is possessed. This Knowledge represents the understanding of landvaettir that the galdraman has built up during his career. Should the galdraman move to a different country, the score in this knowledge temporarily drops to zero. As Galdor Wisdom caps Song Talents, initially the galdraman is powerless. For each season that the galdraman spends re-establishing his contacts with the landvaettir, 1 level of this knowledge is regained, up to a maximum of his former level. *Specialties:* Enchantment, Conjuring.
 
-#### *Scribe Runes*
+#### Scribe Runes
 
 This ability can only be gained if the Potency Virtue is possessed. It is not merely knowledge of the Runic alphabet (most literate Icelanders have this), but an understanding of how the mystical properties of the runes are invoked. A magician carves the runes, rubs his blood into them, and then verbally invokes the effect. Scribe Runes acts as a "magical language" and adds to magical talents that are affected by Potency (except Jotunn Affinity). Using Scribe Runes to enhance an Exceptional Talent often takes longer than Speak Jotunn (see below), but inscriptions have other advantages (see individual Talents for details). Norse is typically used, but any language will do. *Specialties:* A specific Exceptional Talent.
 
-#### *Speak Jotunn*
+#### Speak Jotunn
 
 Jotunn is the language of Norse giants. The language has many magical overtones and can be used by magicians with certain magical talents. It is closely related to Pictish, the language spoken by their Scottish cousins. A gruagach and a trollson can converse in their respective magical languages with a fluency penalty of only –1 to their scores. As a magical language, Speak Jotunn can be added, with Potency to many magical talents. Others can only learn this language if the Potency Virtue is possessed. *Specialties:* Insults, Praise.
 
-#### *Trollskap Wisdom*
+#### Trollskap Wisdom
 
 *Trollskap* is the Norse word for magic performed by trollsynir. It allows them to research new Exceptional Talents. Trollskap Wisdom is used in Trollskap initiation. *Specialties:* Curses, Divinations, and Illusions.
 
-#### *Trollson Lore*
+#### Trollson Lore
 
 Trollsynir have no formal organization, but this Ability allows trollsynir to recognize famous magicians of their breed, and it acts as a Giant Lore skill. A trollson can determine the clan of another trollson or a giant with this skill. *Specialties:* jotunn, specific Clan, female magicians.
 
@@ -1742,7 +1742,7 @@ This virtue grants an exceptional Talent called Gift, beginning at level 1. Gift
 
 Formula:
 
-#### **Stress die + Int + Gift + Magical Language\* + Potency**
+#### **Stress die + Int + Gift + Magical Language\ + Potency**
 
 \*Speak Jotunn or Scribe Runes
 
@@ -1767,7 +1767,7 @@ Formula:
 **Stress die + Int + Curse + Magical Language\* + Potency** 
 
 
-## *Gift Abuse*
+## Gift Abuse
 
 At some point a player may hit on a cunning plan to increase his magical abilities via his Gift talent. In principle a magician could Gift himself Mythic Intelligence, and +3 Knacks in all his Exceptional Talents, Speak Jotunn and Potency.
 
@@ -1784,11 +1784,11 @@ The base ease factor for a Curse is 7, modified according to the table below. If
 
 If the roll fails by less than seven, then neither character is affected. If the roll fails by seven or more, the storyguide has the option of laying a backlash Curse against the caster. The unfortunate magician cannot remove this Curse directly as it acts as if another had cast it. Treat such Curses as equal to the ease factor of the attempted Curse (see Lifting a Curse below).
 
-#### *Nidstong*
+#### Nidstong
 
 *He took in his hand a hazel-pole, and went to a rocky eminence that looked inward to the mainland. Then he took a horse's head and fixed it on the pole. After that, in solemn form of curse, he thus spake: 'Here set I up a nidstong, and this curse I turn on king Eric and queen Gunnhilda. (Here he turned the horse's head landwards.) This curse I turn also*
 
-## *Poetic Justice*
+## Poetic Justice
 
 The appropriateness of Gifts and Curses is an important part of this magic. Storyguides should feel free to add 1 to 14 points to the ease factor of a Curse or Gift that has no relation to what has gone on in the saga, and may likewise subtract 1 to 14 points from the ease factor that is particularly appropriate.
 
@@ -1798,7 +1798,7 @@ The appropriateness of Gifts and Curses is an important part of this magic. Stor
 
 Nidstong work slightly differently. Normally curses only affect a specific individual, but nidstong can be made to affect groups as well. In
 
-## *Gift and Curse Ease Factors*
+## Gift and Curse Ease Factors
 
 | Gift Ease Factor modifiers (Base 3)       |                                    | Prohibitions for Gifts                                   |     |
 |-------------------------------------------|------------------------------------|----------------------------------------------------------|-----|
@@ -1829,7 +1829,7 @@ Each day the nidstong stands the caster makes a curse casting roll against each 
 
 The ill luck of nidstong often touches more than just the intended victims and only the most callous magicians use them. Any Icelander or Norseman who sees a nidstong will knock it down immediately.
 
-#### *Lifting a Curse*
+#### Lifting a Curse
 
 The one who made the Curse can lift it if they can exceed their original roll. Otherwise, the condition needs to be determined and fulfilled. Anyone with the Curse Talent can attempt to determine the condition, by exceeding the caster's Curse total with their own roll. A 7th magnitude Intéllego Vim spell (or its non-Hermetic equivalent) can also reveal the condition.
 
@@ -1853,7 +1853,7 @@ Svonhverfing means "twisting the sight" and it is the art of illusion. This virt
 
 The Svonhverfing casting roll is:
 
-#### **Stress die + Intelligence + Svonhverfing + Magical Language\* + Potency + Aura.**
+#### **Stress die + Intelligence + Svonhverfing + Magical Language\ + Potency + Aura.**
 
 \*Speak Jotunn or Scribe Runes
 
@@ -1869,7 +1869,7 @@ This Virtue allows you to summon spirits to work magic. This virtue is available
 
 
 
-## *Svonhverfing Ease Factor modifiers*
+## Svonhverfing Ease Factor modifiers
 
 | 12 | Ill-defined sound — growling  | +3                                                                                                                                                                                    |
 |----|-------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1908,7 +1908,7 @@ Shapeshift allow a magician to alter his own form. Transform allows the magician
 
 Casting Total:
 
-#### **Stress die + Int + Talent + Magical Language\* + Potency + Aura**
+#### **Stress die + Int + Talent + Magical Language\ + Potency + Aura**
 
 \*Speak Jotunn or Scribe Runes
 
@@ -1918,15 +1918,15 @@ Alternatively, adding +6 to the ease factor allows all carried equipment to chan
 
 Magicians with the shapeshift talent often possess a number of forms they can assume without effort or risk (no die roll). A magician can effortlessly shapeshift into a number of forms equal to his shapeshifting score. However, the Ease Factor for these forms must be less than the total of his attribute and ability scores.
 
-#### *Shapeshift*
+#### Shapeshift
 
 The base ease factor is 6. A magician failing the roll may not attempt to assume that general form again until the next dawn. *Sight of the True Form* or Second Sight can identify Shapeshifted magicians. Magicians with the Shapeshifter ability may always return to their own form by rolling 3+ using the regular shapeshifting rules. Thus, such magicians have an easy defense to most shapeshifting magic (for example, Muto Corpus spells, Transform).
 
-#### *Transform*
+#### Transform
 
 The base ease factor is 10. The victim is stuck in the new form until freed by magic. *Sight of the True Form* or Second Sight can identify a transformed person, and the original magician always recognizes his victims. Magi can use spells to restore the transformed person. A level 20 effect (R: Touch, D: Mom T: Ind) will normally restore a person from animal form; level 30, from plant; level 35, from inanimate.
 
-## *Shapeshift and Transform Difficulty Modifiers*
+## Shapeshift and Transform Difficulty Modifiers
 
 | General<br>Transform Subject<br>has Magic<br>Resistance:                                                      | + Magic<br>Resistance<br>(use Corpus Parma)    |
 |---------------------------------------------------------------------------------------------------------------|------------------------------------------------|
@@ -1973,13 +1973,13 @@ The fact that mere farmers, many not even landowners, are empowered in this way 
 
 One method of beginning a campaign set in Iceland is given in Chapter 9. It is assumed that the magi are newly gauntletted residents of the covenant of Wormhout in the Normandy Tribunal. If you do not wish to use the **Spider in the Ice** storyline (detailed in the next chapter), here are a few ideas.
 
-#### *The Dragon's Bane*
+#### The Dragon's Bane
 
 Sir Ivain of De Panne (in Flanders), a landed knight loyal to the French Crown, has discovered a prophecy made by a dragon by the name of Pan Caudarax. The dragon has promised to raze the town in return for a past slight (see page 140 for the dragon's prophecy). Sir Ivain, anxious to save his town from the dragon, prepares to set sail for Iceland, where he knows the dragon has a lair. He plans to meet the dragon in combat and defeat it with his holy sword. The magi are encouraged to go with him. Perhaps their *sodales* are interested in the dragon, and the prospect of plentiful vis from the corpse. Perhaps they have a desire to protect Sir Ivain for some reason. Whatever the reason, their mere presence on the ship may be enough to trigger the Guardians (see page 7). If they get to Iceland, finding the dragon's lair may be difficult, but if they enlist the help of local magicians, then information on Pan Caudarax's weak spot may be forthcoming.
 
 If confronted Pan Caudarax will ask why the knight wishes to defend thieves? Once Sir Ivain understands that Pan Caudarax will only destroy De Panne when his hoard there is robbed, Sir Ivain will withdraw his challenge to combat and depart.
 
-#### *An Eye on the North*
+#### An Eye on the North
 
 The covenant of Heorot on Zealand in Denmark (see *Ultima Thule*) was established partially to investigate the threat of the Order of Odin. The Galdramen Hreppar may be the closest thing to the Order of Odin that exists outside the fireside tales of the Order of Hermes. If the Order learns of these associations of wizards, they may be intrigued or feel threatened (or both). Perhaps the best solution would
 
@@ -2000,11 +2000,11 @@ The following lists give some ideas for Iceland-born characters. Note that some 
 
 For the Story Arc called **Spider in the Ice** (see Chapter 8), it is important that at least one character has the Premonitions virtue. As this is a common virtue for Icelandic characters it should not be too hard to persuade someone to take it.
 
-#### *Magus-equivalents*
+#### Magus-equivalents
 
 **Trollson** (see page 51) **Traditional Galdraman** (see page 45)
 
-#### *Mythic Companions*
+#### Mythic Companions
 
 **Seithkona:** In most respects, the seithkonur of Iceland are identical to the cunningfolk of *Hedge Magic*. Their craft revolves around herbalism and the creation of charms and banes. However, instead of the Visions Exceptional Ability, a seithkona makes use of a fylgja (see page 32) and the Hamfarir Exceptional Talent (see page 55). Unlike her counterparts on the mainland, Icelandic seithkonur more rarely encounter faeries and so their skills should reflect this (Second Sight and Legend Lore, instead of Faerie Sight and Faerie Lore).
 
@@ -2012,7 +2012,7 @@ For the Story Arc called **Spider in the Ice** (see Chapter 8), it is important 
 
 **Spirit Masters** (from *Hedge Magic*): Summoners of spirits who practice a shamanic form of the galdramen's magic. The Icelandic sagas often refer to 'primitive' magicians as being from Finland.
 
-#### *Companions*
+#### Companions
 
 **Witch (heid):** Many Icelandic witches possess a Jotunn Affinity as well as the usual ability to curse. Some also possess the ability to Scribe Runes, Shapeshift or Transform. (Bane Maker +2, Magical Animal Companion +2, Herbalism +1, Bad Reputation (pagan) –1, Tainted with Evil –2)
 
@@ -2028,7 +2028,7 @@ For the Story Arc called **Spider in the Ice** (see Chapter 8), it is important 
 
 **Godi:** see page 21 and 66 (Godi +4, Prestigious Family +1, Feud –1–4)
 
-#### *Grogs*
+#### Grogs
 
 **Berserker:** In pagan days these warriors were devotees of Odin; in 13th century Iceland they are virtually unknown. A man unable to keep his temper has no place in a civilized society (Outcast –1, Berserk +1, Fury –3)
 
@@ -2038,11 +2038,11 @@ For the Story Arc called **Spider in the Ice** (see Chapter 8), it is important 
 
 ## Social Class Virtues and Flaws
 
-#### *Freeman +0*
+#### Freeman +0
 
 You are a freeborn man who does not own land or milk animals. You must seek employment in a household or as a hut-man.
 
-#### *Bondi +1*
+#### Bondi +1
 
 You are rich enough to form your own household and are classed as a bondi. You rent land from a landowner for a year at a time. If you fail support your livestock or your family, the landowner has a responsibility to support you. As a householder you have, in principle, free choice in your assembly attachment. How-
 
@@ -2050,29 +2050,29 @@ You are rich enough to form your own household and are classed as a bondi. You r
 
 ever, it is usual to choose the same godi as your landlord. As many landlords are in fact godar, you may have no real alternative.
 
-#### *Landowner +2*
+#### Landowner +2
 
 As well as being a bondi, you own land and pay thing-tax. You have full rights to take part in the thing, but may be asked to accompany your godi to the Althing or pay him money to support those that do.
 
-#### *Storbondi (big farmer) +3*
+#### Storbondi (big farmer) +3
 
 You are a particularly rich and influential farmer with a substantial income. You will probably own several tenant farms as well as one or more churches. You have the Temporal Influence Virtue without needing to buy it separately.
 
 You may be asked to act as an advocate in court cases by your tenants and friends.
 
-#### *Godi (chieftain) +4*
+#### Godi (chieftain) +4
 
 You have a substantial income from a large farm and several tenant farms. You possess a godord, which gives you a great deal of legal and political power (Temporal Influence Virtue for free). You appoint judges and form *panels of twelve* at both the *spring things* and *Althing*. You have a seat on the *law council*.
 
 Your central position in the legal structure and the support of your thingmen give you great influence over court cases. A court case involving one of your thingmen will often be transferred to you. If successful, you often receive most of the settlement, or property confiscated. You are, however responsible for enforcing any judgments you obtain.
 
-#### *Storgodi (big godi) +5*
+#### Storgodi (big godi) +5
 
 A storgodi usually owns more than one godord. You control a region called a *riki* and you must belong to one of the five families competing for domination of the country.
 
 You own many farms within your riki and in Icelandic terms are fantastically wealthy. However, as you have little right to any tax income from people with your dominion, you
 
-## *Icelandic Characters*
+## Icelandic Characters
 
 All Icelandic character begin the game with the following free abilities:
 
@@ -2084,15 +2084,15 @@ Characters who are from wealthy backgrounds (landowner or above) normally posses
 
 cannot easily raise or support full-time men-atarms.
 
-#### *Freedman –1*
+#### Freedman –1
 
 You are a former slave and are considered a dependant of your previous owner. He has an obligation to support you in hard times. Although free the stigma of slavery still effects you. You have a Bad Reputation of Freedman at 3.
 
-#### *Slave –2*
+#### Slave –2
 
 You are a slave, the property of your owner. You stand outside the law; your owner is held legally responsible for anything you do. You are not legally allowed to defend yourself, even if attacked, and your owner can punish or kill you with impunity.
 
-#### *Outlaw –3 to –5*
+#### Outlaw –3 to –5
 
 People are after your blood. It is illegal for anyone to give you any practical help or even advice. Only by killing three other outlaws can you obtain a legal reprieve. The level of the flaw represents the power of those who obtained the sentence. A man outlawed by a simple bondi (–3) might not have a large price on his head, but obtaining food and lodgings would still be extremely difficult. A man with a large price on his head will attract the occasional bounty hunter or opportunist (–4). A man outlawed by a godi will find himself actively hunted until the bitter end (–5).
 
@@ -2182,13 +2182,13 @@ This story-arc has two main locations. The first is in Iceland and the second mi
 
 ### Background
 
-#### *The Kerlingarfjoll Valley*
+#### The Kerlingarfjoll Valley
 
 Around 2000 BC the Cult of Thoth in Egypt was at the height of its power. A group of Thothian priests led by the legendary Setna sought out the most remote and secret place on the Earth in which to build a hidden temple to the god of magic. Spirits led them on into the heart of Iceland's barren elemental battlefield. There they found a valley shrouded in impenetrable mist. For years they sought a way to enter the valley, using all their magical knowledge and power, until one day a spell was cast that tore though the mist and revealed the valley to them. At its center stood a huge obsidian block out of which an arch was carved.
 
 They built a temple about the obsidian arch and began rituals they thought would open a gateway to Thoth himself. Eventually the priests perfected their rituals and the Gateway opened. Few who stepped through returned, but those that did found their powers multiplied. The power of Thoth's priests grew and they constructed minor gateways of their own. But the wheel of time turned and Egypt fell to chaos. Thoth's priests were slain or scattered and the sacred gateways to the valley were either destroyed or their location lost.
 
-#### *Damhan-allaidh*
+#### Damhan-allaidh
 
 The temple valley remained undisturbed for over two and a half millennia, until a particularly ambitious Pictish magician was inspired by Christian tales of demonic power. His interest quickly turned to the goetic arts.
 
@@ -2200,7 +2200,7 @@ Although Hetep had attempted this many times before, Setna had always spotted hi
 
 He emerged from the Snaefell crater in 730 and returned to Carnac. Hetep promised him ultimate power if he re-entered the obsidian gate, but it would no longer respond to him. Hetep assured him that he only needed to wait for Setna's power to weaken and the gate would no longer be barred to him.
 
-#### *Pralix*
+#### Pralix
 
 In 767 AD the Order of Hermes was founded and wizards throughout Europe received the 'Join or Die' offer. Damhan-allaidh would accept neither. Damhan-allaidh's use of sacrificial blood magic and his recruiting of demonic cultists forced the Order to act. A group of Flambeau and Tremere gathered to oppose the Scottish wizard, and battle was joined in 808. The Hermetic magi were soundly defeated, but Damhan-allaidh wisely decided to take the Carnac gateway to Scotland where the Order had no presence.
 
@@ -2231,7 +2231,7 @@ god and now serves the infernal. He was captured by the Hermetic magus Victor in
 
 **Victor:** Filius of Pralix, who founded the covenant of Vindolanda. He captured the demon Hetep and engaged it in a battle of wills in a futile attempt to extract the location of Damhan-allaidh's soulstone. He is trapped within his sanctum, and the battle continues. He is utterly consumed with the need to destroy Damhan-allaidh.
 
-#### *Victor and Vindolanda*
+#### Victor and Vindolanda
 
 Victor was Pralix's apprentice throughout the war, and his gauntlet was simply to survive the campaign. Pralix granted him his sigil and named him Victor in honor of the battle. Victor went on to found the covenant of Vindolanda, built on the ruins of one of the supply forts serving Hadrian's Wall. The other magi consisted of two theurgists and two gruagachan. They dedicated themselves to the goal of protecting Scotland from Damhan-allaidh's return, joining the Praeses Septentrionalis (Northern Guard).
 
@@ -2251,7 +2251,7 @@ Tremere and Flambeau magi routed Damhan-allaidh's forces the following year. Dur
 
 Damhan-allaidh's remaining followers fled north to the Shetlands and some went on to Iceland. However, Hetep's demonic minions continued to search for Victor's sanctum.
 
-#### *The Gateways*
+#### The Gateways
 
 These artifacts feature prominently within the Saga. The ritual of their construction was passed down through the centuries, from the priests of Thoth to the Cult of Mercury and then to the Order, as the Hermes Portal ritual. However, the original version was significantly more powerful.
 
@@ -2269,7 +2269,7 @@ The next step is to summon an earth serpent of the appropriate type. Although th
 
 If you are using *The Mysteries,* to cast the spell from text the reader requires a score in Hermetic Theurgy equal to the spell's magnitude. Alternatively any Hermetic magus can learn the spell, but they need to master it before use. An individual serpent can serve any number of gateways (although not at the same moment), but the more it is asked to serve the higher its price will be.
 
-#### *Daemonic Adjuration of [Name], Serpent of Thoth (ReVi Gen)*
+#### Daemonic Adjuration of [Name], Serpent of Thoth (ReVi Gen)
 
 R: Spec D: Spec T: Ind, ritual
 
@@ -2308,7 +2308,7 @@ Vis supply is another crucial feature of sagas and in the Toframanna saga suppli
 Secret Vis Source Vis Obligation
 
 
-## *Serpent of Thoth*
+## Serpent of Thoth
 
 **Magic Might:** 40
 
@@ -2336,11 +2336,11 @@ Secret Vis Source Vis Obligation
 
 Two non-player characters, Victor and Iain, lead the covenant of Vindolanda. Both are extremely wary of the wider Order knowing their affairs. After the first adventure the covenant of Wormhout will be aware of Vindolanda's survival. The Quaesitor Iphimedeia of Wormhout will initially investigate, but Iain and Victor will be able to reassure her that all is well. Iphimedeia will agree to register Vindolanda as a covenant of the Normandy Tribunal. Redcaps will deliver and collect from Iain's house in De Panne, but they will be forbidden to reveal that location to other magi. Wormhout covenant will honor its debt to Vindolanda and remain an ally.
 
-#### *Library Study*
+#### Library Study
 
 Wormhout will be happy to allow the magi to study their books, for their standard fee of 2 pawns of vis per season. The storyguide should generate a library suitable to support the magi's interests; at least until mid-saga, where they should begin to look to their own efforts.
 
-#### *Vis Exchange*
+#### Vis Exchange
 
 Vindolanda should quickly gain vis sources for Rego and Vim. Apart from vis gained through stories (including the Odadahraun, see Chapter 12), the only other source of vis will be from aura extraction, which also produces Vim. The magi will therefore need to exchange their Rego or Vim for other types. There are two ways the magi can do this.
 
@@ -2443,11 +2443,11 @@ The covenant of Wormhout lies in a forest just outside the town of the same name
 
 
 
-## *The Covenant Magi*
+## The Covenant Magi
 
 As the player characters are unlikely to conflict with these magi, only a brief description and minimum statistics are given. All have been magi for about 60 to 70 years and if the storyguide wishes to flesh out their statistics he might give them about 1200 exp in arts and 120 exp in Abilities.
 
-#### *Markus, Follower of Verditius*
+#### Markus, Follower of Verditius
 
 **Age:** 97
 
@@ -2465,7 +2465,7 @@ As the player characters are unlikely to conflict with these magi, only a brief 
 
 **Roleplaying Notes:** Thickset man of average height, with dark brown hair and green eyes, Markus is the leader of the covenant and is an expert in sacred architecture. His parens designed the regio gates and seals which form the covenant's primary defense. The foremost Verditius Alchemist in the Order was commissioned to brew his longevity potion and now he only needs to fear twilight or violent death. Although a specialist in the Art of Vim, he has managed to avoid any temporary twilight through a combination of cautious magic and good fortune. Still, even he has felt the pull of the void on occasion and the last time it nearly took him. He knows remarkably few spells, preferring to invest a device with any effect he wants. He dreads casting the Aegis ritual, although fortunately his enduring magic means one casting can last up to ten years. He is busy researching a way to better master rituals, to cast them without risk.
 
-#### *Vera, Follower of Bonisagus*
+#### Vera, Follower of Bonisagus
 
 **Age:** 92
 
@@ -2483,7 +2483,7 @@ As the player characters are unlikely to conflict with these magi, only a brief 
 
 **Roleplaying Notes:** A thin, diminutive woman, with graying blond hair and blue eyes, Vera is an important powerbroker in the Normandy Tribunal. Her high ideals have earned her several enemies down the years, even amongst some quaesitores. Her skill at Hermetic law, certámen and (unusually for a Bonisagus) Wizard's War has impressed even members of house Flambeau and Tytalus. Her specialty is deception and illusion, a tool her master used to teach that truth is always hard won. She now uses her knowledge and skill to expose the lies and self-deceptions that plague her and others. She often accompanies Iphimedeia on investigations.
 
-#### *Iphimedeia, Follower of Guernicus*
+#### Iphimedeia, Follower of Guernicus
 
 **Age:** 89
 
@@ -2501,7 +2501,7 @@ As the player characters are unlikely to conflict with these magi, only a brief 
 
 **Roleplaying Notes:** A tall woman, with a strong build, light brown hair and brown eyes, Iphimedeia is often called on to investigate alleged Hermetic crimes. She is generally well respected in the Tribunal, although her passion for impartial justice has left her with a number of powerful enemies. Her specialty is in Intéllego magics and her constant competition with Vera has helped them both become masters of their fields. Few magi in Normandy seriously believe that Iphimedeia could not detect their sigils on illegal magics, even those long expired. Several Marched magi have found their best illusions, transfigurations and masking spells useless in her presence.
 
-#### *Cornelius, Follower of Verditius*
+#### Cornelius, Follower of Verditius
 
 **Age:** 81
 
@@ -2592,7 +2592,7 @@ Within Lord Peter's private chambers lies what passes for a diabolist's laborato
 
 The players enter the first chamber of Victor's sanctum to find two-dozen corpses scat-
 
-## *Lord Peter's Men*
+## Lord Peter's Men
 
 **Characteristics:** Int +0, Per +1, Pre +0, Com –1, Str +2, Sta +1, Dex +1, Qik +1
 
@@ -2626,7 +2626,7 @@ The ice surrounding Victor remains intact. However, the silver streams from Vict
 
 After one attack on Donncadh, the demon quickly runs towards the far wall where a hidden door swings open. The demon flees down the tunnel at a rate impossible for a human to match. Shortly after this the tunnel collapses.
 
-## *Lord Peter*
+## Lord Peter
 
 **Characteristics:** Int +2, Per +0, Pre –1, Com +1, Str +1, Sta +2, Dex +1, Qik +0
 
@@ -2650,7 +2650,7 @@ Longsword +9 +8 +10 +4 +8 **Soak:** +15 (with magical cloak)
 
 **Roleplaying Notes:** A tall, thin man with typical Norman features and a short black beard, Lord Peter normally wears a long red cloak. His family came over to England in 1066 AD with William's army. One of his ancestors lived near Carnac and served Damhan-allaidh there, and the infernal has taken special interest in the family since then. Lord Peter received a fine education as a child and when his grandfather died he discovered a set of books on the occult. He has been promised greater magical power in return for releasing Hetep. His demonic familiar is a crow that once served as a messenger for Damhan-allaidh.
 
-## *Whisper, Lord Peter's Demonic Familiar*
+## Whisper, Lord Peter's Demonic Familiar
 
 **Infernal Might:** 25
 
@@ -2686,13 +2686,13 @@ The player characters should find themselves in the Scartaris sanctum, with Donn
 
 Victor will use his powers to send all the magi to sleep (the equivalent of a Rego
 
-## *The Thothian Watchers*
+## The Thothian Watchers
 
 These spirits were set the task of capturing and imprisoning Hetep by Thoth himself. However, they cannot capture Hetep while he possesses someone. Hetep can lose his watchers by returning to hell and in the past he did this as soon as they tracked him down. However, returning to hell now would undo his partial corruption of the sacred stelae.
 
 No stats are given for the watchers. They will not normally communicate will the magi and are completely fixated on their one task. Ealasaid's grimoire (see page 124) contains a spell to contact these creatures, which she used to inform them of Hetep's location. However, there is little point doing this now and they wait patiently for Hetep to make a mistake.
 
-## *Brighde, Donncadh's daughter*
+## Brighde, Donncadh's daughter
 
 **Characteristics:** Int +5, Per +2, Pre +2, Com +1, Str –4 (–1) \*, Sta +0, Dex –3 (–1)\*, Qik –3 (0)\*
 
@@ -2728,7 +2728,7 @@ Victor sits on one side of the table, with the magi in a semi-circle opposite. H
 
 "I understand that you are all looking for a covenant and it appears that mine is in need of new members. I therefore formally invite you all to join as full members effective immediately. The scroll in front of you contains the covenant's oath. I am willing to answer your
 
-## *The Covenant Oath*
+## The Covenant Oath
 
 I, \_\_\_\_\_\_\_\_\_\_\_, filius of \_\_\_\_\_\_\_\_\_\_\_\_, follower of \_\_\_\_\_\_\_\_\_\_\_\_\_ swear that I am a magus of the Order of Hermes. I swear that I speak these words of my own free will and with complete understanding of their significance.
 
@@ -2736,7 +2736,7 @@ I hereby renounce any and all ties to other Covenants, and do solemnly swear my 
 
 Thus may I be a valued member of this Covenant and work to ensure it grows hale and strong. I will not rest until the soul of Damhan-allaidh burns in the fires of hell and all his works are dust. May my magic desert me if my word this day proves false.
 
-## *Covenant Charter*
+## Covenant Charter
 
 a) This Charter shall govern the affairs of the Covenant Vindolanda and violation of its tenets shall be a violation of the Oath of the said Covenant. The Covenant is defined as the totality of the living magi who have sworn the Oath of Vindolanda and abide in accordance with its principles.
 
@@ -2778,11 +2778,11 @@ As soon as the characters agree to join Vindolanda and swear the oath of the cov
 
 The magi emerge from the tunnel halfway up the southern slope of the Snaefell volcano. The exit is naturally concealed and difficult to reach. Making their way down they see smoke and fire from several farmsteads between themselves and the coast. Following the trail of destruction leads them to a farmstead. If it is approached, horribly mutilated men, women and children will emerge and make a frenzied charge on the player characters.
 
-#### *The Storgodi*
+#### The Storgodi
 
 As the characters battle (or flee) the walking dead, a group of thirty men on horseback approach. The Storgodi Thord Sturluson leads them (his statistics can be found in Chapter 18). His initial attitude will depend greatly on the characters' behavior during the fight with
 
-## *Walking Corpses*
+## Walking Corpses
 
 **Infernal Might:** 10
 
@@ -2798,7 +2798,7 @@ As the characters battle (or flee) the walking dead, a group of thirty men on ho
 
 **Vis:** 1 Corpus in body (infernally tainted).
 
-## *Thingmen*
+## Thingmen
 
 **Characteristics:** Int +0, Per 0, Pre +0, Com +0, Str +1, Sta +1, Dex 0, Qik 0
 
@@ -2914,7 +2914,7 @@ Victor created an exploration tunnel at around 500 paces. The resulting stairway
 **Frigidarium (cold room):** This circular chamber is filled with cold water and those emerging from the laconicum are supposed to plunge straight into it.
 
 
-## *The Wildlife of Snaefellsnes*
+## The Wildlife of Snaefellsnes
 
 The whole of the Snaefellsnes peninsula is infested with trolls. When detailing the Scartaris covenant, the storyguide should keep in mind that the trolls should be considered enemies of the covenant. They will manifest themselves in the saga slowly, stealing sheep and the like, but if no reprisals follow, they will become bolder in their attacks.
 
@@ -2937,18 +2937,18 @@ Note that at present, Scartaris does not have any spare laboratories. Player mag
 
 The Scartaris sanctum is highly dependent on magical items. The details of the function and activation of each are written in a single tome in the library. Most were commissioned from magi of House Verditius, using the copious quantities of vis discovered when Iceland was first explored. The relevant information is provided below.
 
-#### *Gatestones*
+#### Gatestones
 
 As well as the gatestones that connected Scartaris with De Panne, Iain currently has an unused pair in a box under his bed.
 
 
-#### *Lighting*
+#### Lighting
 
 Within the gate room a brazier sits in the southeast corner. This provides lighting equivalent to sunlight through clouds. The effect is dependent on window-like architectural features in the ceiling; all rooms without their own lighting device possess these window features. It lights all areas, except for the magi's sancta, sleeping chambers and the library. If left alone its effect will be continuous. Alternatively, it can be turned on or off by a user twenty-four times per day. The effect includes an Imáginem requisite, which gives the illusion of open sky through the window features.
 
 Individual items provide lighting in the sanctums, library, private chambers and servant quarters. Each creates a weird shadowless light that suffuses the room and can be activated/deactivated twenty-four times per day.
 
-#### *Heating*
+#### Heating
 
 The same brazier that gives the light maintains the temperature for the main areas of the covenant. Its effect includes both Creo and Perdo and so it acts to maintain an even temperature, except in rooms with their own heating or cooling item, such as those in the bathing complex. The effect is constant, but touching the item and concentrating can control the exact temperature.
 
@@ -2956,7 +2956,7 @@ Individual items serve to regulate the various rooms of the bathing complex. Som
 
 The cooking range in the kitchen is also enchanted. The temperature of this item can also be adjusted by a user concentrating.
 
-#### *Water and Drainage*
+#### Water and Drainage
 
 A fountain in the kitchen draws and purifies water from a deep shaft leading to a glacial fissure. It can be activated an unlimited number of times per day, and maintains its flow while the user concentrates.
 
@@ -2964,15 +2964,15 @@ Two large silver vessels, partially hidden in the western wall of the great bath
 
 Lead lined drains carry away the continual overflow (when active) to a large bronze vat. The vat is invested with a powerful Perdo effect that destroys any inanimate material apart from metal and gemstones.
 
-#### *Miscellaneous*
+#### Miscellaneous
 
 The rack in the laundry room uses a Perdo Aquam effect to dry clothes. The air is kept fresh with a T: Structure version of *Chamber of Spring Breezes*.
 
 ### Library
 
-#### *Spells*
+#### Spells
 
-#### *Grimoire of the Hidden,* **by Timon, follower of Tremere**
+#### Grimoire of the Hidden, **by Timon, follower of Tremere**
 
 *Eyes of the Gnome (InTe 30)*
 
@@ -3000,11 +3000,11 @@ maintaining its shape. The pressure of the Rego effect fuses any cracks together
 
 This effect carves out a huge underground structure to the caster's design. The spell will change the surrounding earth or stone into solid granite, providing a great deal of support. However, unlike *Conjure the Mystic Tower*, the spell depends greatly on the caster's architectural skill. Elaborate designs may require an Intelligence + Architecture roll to ensure their longterm stability. The internal facing may be in whatever stone is desired, including the highest quality marbles and even complex mosaics. The caster must have a complete design before him as he casts the spell.
 
-#### *Grimoire of the Hearth,* **by Notatus, filius of Bonisagus**
+#### Grimoire of the Hearth, **by Notatus, filius of Bonisagus**
 
 The grimoire contains one *Aegis of the Hearth* spell, written at level 20. The work includes notes on its design and how it can be incorporated into Hermetic Theory. The book has been rebound with additional notes on how to design a similar ritual specifically for underground structures: a T: Str version, operating 5 levels higher than its spell level.
 
-#### *Hermetic Books*
+#### Hermetic Books
 
 *The Encyclopedia of the Hermetic Arts,* **by Cato filius of Bonisagus.** Effectively a set of Libri quaestionum on all arts, Target 0, Quality 13 and Target 3, Quality 13. Bound in five volumes.
 
@@ -3012,7 +3012,7 @@ The grimoire contains one *Aegis of the Hearth* spell, written at level 20. The 
 
 *Enchantments.* A concise set of descriptions and instructions for the enchantments present at Scartaris, Glyder-Fawr (Macomb's sanctum) and The Sea Temple (Ealasaid's sanctum). They contain no Hermetic information on their creation and cannot be used as lab texts.
 
-#### *Mundane Books*
+#### Mundane Books
 
 Artes Liberales *'The Heavens',* Summa 5, Quality 9; Craft (Architecture) *'On Architecture',* Summa 5, Quality 10; Legend Lore *'On the Gods'* Tractatus, Quality 9; Philosophiae *'Asclepius',* Summa 5, Quality 7; Philosophiae *'On the Gods',* Tractatus, Quality 6; Occult Lore *'Pupil of the World'* Tractatus, Quality 6.
 
@@ -3067,7 +3067,7 @@ The **Glyder Fawr Sanctum** belonged to Macomb, Ealasaid's former apprentice. Be
 
 The peak of Glyder Fawr lies north of the Welsh mountain Yy Wydda (Snowdon), about 10 miles east of the port of Caernarfon, off the pass of Llanberis. Glyder Fawr is just under a thousand paces above sea level and the sanctum lies about 100 paces beneath the peak, within its powerful +7 magical aura. Access to the passageway is via a cave system farther down the southern side of the mountain. The entrance to
 
-## *Ammon, Master of the Hidden Revels, Torturer of the Dead*
+## Ammon, Master of the Hidden Revels, Torturer of the Dead
 
 **Characteristics:** Int +1, Per +1, Pre –6, Com +0, Str +8, Sta +12, Dex +3, Qik +0
 
@@ -3099,7 +3099,7 @@ The peak of Glyder Fawr lies north of the Welsh mountain Yy Wydda (Snowdon), abo
 
 **Vis:** 8 Corpus in body, 4 Perdo in heart, 4 Mentem in brain
 
-## *Infernal Rat Swarm (10)*
+## Infernal Rat Swarm (10)
 
 **Individual Characteristics:** Cun +2, Per +2, Pre –6, Com +0, Str –7, Sta –3, Dex +0, Qik +1
 
@@ -3174,7 +3174,7 @@ Hieroglyphics on the temple walls tell of Setna's journey to the valley and the 
 
 The sacred architecture of the temple complex is focused on the opening of the gateway. Any other type of magic that normally benefits from a magical aura performed within this level of the regio receives no benefit from the magic aura. Infernal powers suffer the usual –9 to their penetration.
 
-#### *Visions*
+#### Visions
 
 Any Gifted person who views the Obsidian Gate will feel an intense desire to go through it. The first time a magus touches the gate they will fall into a fit and experience visions.
 
@@ -3188,7 +3188,7 @@ The ritual to open the obsidian gate can only be performed on or around the last
 
 The anointment oil requires eight pawns of Vim or Rego vis to prepare and acts as the vis offering in the ritual. Preparing the oil requires a lab, but only takes a day.
 
-#### *Call of the Obsidian Serpent ReVi 40*
+#### Call of the Obsidian Serpent ReVi 40
 
 R: Spec D: Spec T: Ind, ritual
 
@@ -3210,7 +3210,7 @@ At least two magi should attend. About mid-afternoon, during the feast, thirty h
 
 The ownership of a farmstead gives the magi and their companions legal residency in Iceland. As residents they are legally required to be attached to a godord. Being *in thing* is not a feudal contract as neither party is obliged to provide support. It may therefore be argued that it is permitted under Hermetic Law; however,
 
-## *How Does He Know?*
+## How Does He Know?
 
 It's possible that the magi did not demonstrate their magic during the initial adventure. How then would Blund know the magi are magicians?
 
@@ -3218,7 +3218,7 @@ First, they appeared on the Snaefellsnes without any known vessel, at the same t
 
 Even without these events, Icelanders would quickly come to know. Given the prevalence of magical talents like Second Sight and Magical Sensitivity, a magus's Parma and Gift would be quickly noted. Given the way rumors spread among farms, Blund would have come to hear of them. Without the protection of the Galdramen Hreppur the magi are easy targets.
 
-## *Blund Thorgilsson*
+## Blund Thorgilsson
 
 **Characteristics:** Int +0, Per –1, Pre –1, Com +1, Str +1, Sta +2, Dex +1, Qik +0
 
@@ -3249,7 +3249,7 @@ The curse appears to be causing all the fertile women and animals of his househo
 A character who makes a Per + Second Sight roll of 9+ will be able to witness a large cat spirit make a frenzied attack of a swarm of flies that appear over a rise and approach the farmstead. Intéllego Vim spells can also be used to detect the presence of the spirits.
 
 
-## *Una*
+## Una
 
 **Characteristics:** Int +2, Per +1, Pre +0, Com +1, Str –1, Sta +1, Dex +3, Qik +1
 
@@ -3262,7 +3262,7 @@ A character who makes a Per + Second Sight roll of 9+ will be able to witness a 
 **Roleplaying Notes:** A young woman of average height, with light blown hair and green eyes, Una has two daughters (4 and 2) but has suffered two miscarriages in the last year. She is pregnant again but is not aware of this yet.
 
 
-## *Hlokk (Beast of Virtue)*
+## Hlokk (Beast of Virtue)
 
 **Characteristics:** Cun +3, Per +2, Pre +0, Str –4 (+3)\*, Sta +0 (+1)\*, Dex +4, Qik +2
 
@@ -3306,7 +3306,7 @@ Additionally, in the center of the circle of pits stands a pole, mounted with a 
 
 The living eggs have a Magic Resistance of +40, a Soak of +40 and 10 Body levels. The infant within has a Magic Might of 20 and a Soak of +10. However, if the egg is broken the infant will immediately defend itself or try to escape. The discolored egg has no Magic Resistance and a Soak of only +5. Intéllego Animál magic on the dead egg will reveal the corpse of an infant dragon within. The shell contains 4
 
-## *Disease Spirits*
+## Disease Spirits
 
 **Magic Might:** 10
 
@@ -3358,13 +3358,13 @@ Over the next three hours most of Iceland's trollsynir, vitkir and galdramen, as
 
 Vifil will translate and explain the proceedings to the magi. The general rules regarding magic services, possession of vis ("ond" to the Norseman) sources and discretion are explained (see page 28). If the magi mention the Order of
 
-## *Trollsons*
+## Trollsons
 
-#### *Bard Snaefellsass*
+#### Bard Snaefellsass
 
 See page 141 for more details on this powerful trollson. He attends the hreppur to represent the interests of the giants, greater spirits and to some extent the trolls of the island. Although he is not the leader of all these groups, he has acted as mediator since the first settlement. Bard has a message from Pan Caudarax requesting that the 'Priests of Hermes' visit his lair, but apart from this, will probably not interact with the characters. He is aware that they have taken up residence in 'his' land (it was Bard who named Snaefellsnes and established the first settlement there), but is content just watching the characters.
 
-#### *Signy Grettisdottir, Hreppur Council Member*
+#### Signy Grettisdottir, Hreppur Council Member
 
 **Magic Resistance:** 63
 
@@ -3380,7 +3380,7 @@ See page 141 for more details on this powerful trollson. He attends the hreppur 
 
 **Roleplaying Notes:** Signy was raised by her giant mother and never met her outlawed father. Originally she was always provoking fights, but age has taught her a certain degree of caution. Trollsynir magic has taken a heavy toll on her body and she now looks more troll than human. She is attending the hreppur to support one of her descendents (Arnor Arngeirsson) in a dispute. The attack on Pan Caudarax's eggs is also of great concern. She is a member of the hreppur council.
 
-## *Vitkir*
+## Vitkir
 
 *Arnor Arngeirsson, Hreppur Council Member*
 
@@ -3394,7 +3394,7 @@ See page 141 for more details on this powerful trollson. He attends the hreppur 
 
 **Roleplaying Notes:** Arnor is the leader of the few remaining vitkir left on Iceland. Pagan practice is extremely difficult and has to be conducted in complete secrecy. Arnor's temple exists within a regio near his farmstead. Regiones like this, close to a farmstead, are extremely rare and valuable to vitkir, but several have passed out of vitkir hands. Arnor hopes reclaim them for vitkir who have recently fled the Norwegian mainland. However, he has been blighting fields and cattle to get the land up for sale and using his powers to hide this from the perceptions of the victims' fylgjur. A galdraman has discovered his activities and reported them to the hreppur. Arnor will argue that his actions were subtle and remain unsuspected by the victims. He also paid a fair price for each of the farms.
 
-#### *Leif Beogart*
+#### Leif Beogart
 
 **Age:** 51
 
@@ -3408,7 +3408,7 @@ Beogarts +2, Warlike –1
 
 **Roleplaying Notes:** A member of the Beogart family, who are a powerful family in Iceland. They are involved in a centuries-old feud with another family called the Odd-Karnors. Leif has no particular business at the hreppur, other then to make clear that he had no involvement in the attack on Pan Caudarax's eggs.
 
-## *Galdramen*
+## Galdramen
 
 *Biorn Egilsson, Leader of The Galdramen Hreppur*
 
@@ -3430,7 +3430,7 @@ Respectful +3
 
 Ro**leplaying Notes:** Biorn is the oldest galdraman in Iceland. Due to the dangers of Galdor spellcasting most have made the long hamfaring (Final Twilight) by his age. Biorn enjoys his position and is a skilled politician. Still, he knows his cannot resist the call of his fylgja forever. His goal is to maintain the peace for future generations. Ironically the conflicts between the two Christian fractions are proving the most difficult to resolve.
 
-### *Father Halldor Ormsson, Representative of the Holar School, Hreppur Council Member*
+### Father Halldor Ormsson, Representative of the Holar School, Hreppur Council Member
 
 **Age:** 56 **Size:** +0 **Confidence:** 3
 
@@ -3438,7 +3438,7 @@ Ro**leplaying Notes:** Biorn is the oldest galdraman in Iceland. Due to the dang
 
 **Roleplaying Notes:** Father Halldor attends on behalf of the schooled galdramen priests trained at Holar. He appears to seek to maintain the status quo among the magical fractions. However, maintaining and expanding his school's right to harvest various magical sites is his priority. The chaos caused by Bishop Gudmund has left the school to its own devices. When some of Skalholt's vis sites were left unharvested, Holar quickly claimed 'abandonment' and harvested the sites. Some members of Holar are questioning the authority of the galdramen Hreppur, claiming that they should not be bound by its rulings. Halldor realizes that the time is not right for Holar to make such a move, but he is not opposed in principle. The school is searching for a breakthrough that would allow them to achieve the same level of power as the trollsynir and traditional galdramen. Should they succeed they will press for independence.
 
-### *Father Vebrand Thoroddson, Representative of Skalholt School, Hreppur Council Member*
+### Father Vebrand Thoroddson, Representative of Skalholt School, Hreppur Council Member
 
 **Age:** 73 **Size:** +0 **Confidence:** 2
 
@@ -3446,9 +3446,9 @@ Ro**leplaying Notes:** Biorn is the oldest galdraman in Iceland. Due to the dang
 
 **Roleplaying Traits:** Father Vebrand attends on behalf of the schooled galdramen trained at Skalholt. Local priests normally harvest the school's vis sites. However in recent years several of these priests have passed away, and in consequence sites owned by the Skalholt School have briefly been left unharvested while new priests were found. Galdramen of Holar are now claiming the sites were abandoned long enough to enable new claims. Father Vebrand hopes the hreppur will rule against Holar and this appears likely. Normally 'abandonment' is only claimed after many years of disuse.
 
-## *Seithkona*
+## Seithkona
 
-#### *Aldis Kolbeinsdottir*
+#### Aldis Kolbeinsdottir
 
 **Age:** 81
 
@@ -3462,7 +3462,7 @@ Ro**leplaying Notes:** Biorn is the oldest galdraman in Iceland. Due to the dang
 
 **Roleplaying Notes:** Nominal leader of the Seithkona, her constantly fatalistic prophecies have been accurate enough at times for her ramblings to be listened to. Some have even claimed to avoid catastrophe by deciphering her riddled words. However, as an advocate on practical issues, she is not very effective.
 
-#### *Helga Grimsdottir*
+#### Helga Grimsdottir
 
 **Age:** 56
 
@@ -3514,11 +3514,11 @@ In addition Vifil will inform the magi about Odadahraun (see insert on page 14),
 
 The magi are responsible for protecting the nest-site, but how they achieve this is up to them. They cannot post guards there without some mundane cover. The magi would have to
 
-## *Story Seed*
+## Story Seed
 
 What about Pan Caudarax's mate? She is a true Scandinavian lindorm, a serpent-like dragon with small limbs and a venomous bite. She may well decide to swim to Iceland to see how her brood is getting on under their father's guidance. Of course, the characters fostering the youngsters may not realize who she is.
 
-## *Dragon Magi?*
+## Dragon Magi?
 
 According to the Oath, the magi can only provide Hermetic training to apprentices if they are to join the Order. Although there is no Hermetic law forbidding non-human members, many magi will be vexed at the idea. The magi face a choice and three possibilities are given below.
 
@@ -3571,7 +3571,7 @@ As the midday sun makes its brief appearance they reach the foot of the mountain
 
 The cave stretches far back into the mountain. Solrun explains that tomorrow they will go farther in. Solrun warns everyone against journeying into the cave system prematurely. "The truce does not come into force until the Longest Night" she explains. The truce is between the trolls who inhabit the caves and the giants who inhabit the mountains. Her father is considered the godi of all the giants in this region, and the trolls have reason to fear him.
 
-## *The Troll-Bride*
+## The Troll-Bride
 
 **Story seed**: Kollbjorn demands that the character marries his hideously ugly daughter Drit, because he cannot find a husband for her amongst the trolls. Skrukka imposes a Curse of Lost Love and Short Attention Span on the unfortunate groom, ensuring that he will want to turn up at the wedding to rid himself of the affects. The wedding should be a frightening affair. Horse and human meat are served, and violent games are played, including a rock catching game which the humans will be expected to participate in. Skrukka performs the ceremony, and the trolls drink themselves into a stupor. The trolls plan to eat their human guests (bar the groom), but Solrun turns up during the night to help them escape. They are be chased by Kollbjorn and his clan, who only call off the chase if several trolls are killed.
 
@@ -3628,7 +3628,7 @@ If the characters fail to make a good impression on these giants, they are treat
 
 The characters may resort to violence. If one (or more) of the giants is beaten fairly they
 
-## *The Scottish Giants*
+## The Scottish Giants
 
 The five giants are members of a clan of a dozen or so who originated in Scotland. They are stranded in Iceland, and the Icelandic giants barely tolerate their presence. By comparison, the Scottish giants are brutish, crude, and lacking in magic. This makes them little more than barbarians in the eyes of the natives. Their names are Suil Aon (sool-oon — One-Eye), Creagcas (kreg kos — Rock-Foot), Beinn (beyn — Mountain), Sruth Dubh (sroo-doo — Black Tide) and the leader Geamhradh Grian (gev-ra grean — Winter Sun). The Scottish giants are members of a clan on which Damhanallaidh has laid a magical compulsion called a *geas*. They are forced to remain in Iceland until they have visited the Temple of Thoth in the Kerlingarfjoll valley. This happened after Victor took possession of the Carnac gateway, as Damhanallaidh sought another way to the temple.
 
@@ -3658,25 +3658,25 @@ Vindsvall (for the eagle is the second guardian) has been forced into solid shap
 
 Once Vindsvall is out of the Dominion he calls his attendant landvetteir. Flocks of birds gather around, feeding him Might points. Vin-
 
-## *Story Seed: Iceland's Enemy*
+## Story Seed: Iceland's Enemy
 
 It has been left deliberately vague whether there actually is a systematic threat to Iceland's guardians. Is Einar Gamlisson working alone or being manipulated by someone unknown? Who is this?
 
-## *Story Seed: The Gray Bull*
+## Story Seed: The Gray Bull
 
 The third guardian of Iceland is the Gray Bull, who is owned by the Bishop of Skalholt (see page 7). As Bard is concerned about a supernatural attack (perhaps even by Damhan-allaidh himself), he may persuade the characters to 'rescue' the Gray Bull from the stifling power of the Dominion. However, Bishop Magnus Gizurarson is unwilling to part with his precious bull, which has given him great prosperity from the sheer number of fine calves he sires. The characters may need to conduct a raid to obtain the bull. Once it is let loose in pastures free from the Dominion, the Gray Bull will shake off the reins of domesticity, and over a matter of weeks (faster if in a magical aura) will grow dramatically in size. It will let no human approach it, and will resume its role as a defender of Iceland.
 
 dsvall recovers quickly, and stretches his wings. His body expands as he assumes his true form, and the second guardian flies off, accompanied by throngs of attending birds. Should the hermit witnesses this, he swears that he saw an angel.
 
-## *Guests at the Feast*
+## Guests at the Feast
 
 Bard's statistics can be found in Chapter 18.
 
-#### *Bard's daughters*
+#### Bard's daughters
 
 Bard has nine daughters, three by his first wife (Helga, Thordis and Solrun) and six by his second wife (Ragnhild, Flaumgerd, Thora, Thorkild, Geirrid and Mjoll). Under most situations these giantesses will seem like perfectly normal human women. Some, including Helga, have substantial magical powers, others are weaker, but all possess the Jotunn Affinity with Frost and the Healer talent. Helga, the eldest of the nine, does not get on well with her father and argues with him constantly (probably because they are very similar to each other), and she does not live with him. Should any of Bard's daughters marry a human, their offspring are likely to be trollsynir.
 
-#### *Thorkel Red-Cloak's son*
+#### Thorkel Red-Cloak's son
 
 **Magic Might:** 65
 
@@ -3694,11 +3694,11 @@ Bard has nine daughters, three by his first wife (Helga, Thordis and Solrun) and
 
 **Appearance and Roleplaying Notes:** Thorkel is Bard's half-brother; their mother Mjoll married the giant Red-Cloak after her first husband was killed by another giantking, Hardverk. Thorkel is a giant of the clan of Hrym, and their current leader. He is 40' tall, and could not be more dissimilar to his brother. He has a twisted parody of a face, topped by a mop of straight black hair. He has also walked with a pronounced limp ever since Bard broke his leg in a duel. Thorkel has a bad reputation as a troublemaker: he is violent, unprincipled and cunning. Like most giants he cares little about humans, but is not overtly hostile to them; they are an annoyance rather than an enemy.
 
-#### *Thorkel's sons*
+#### Thorkel's sons
 
 Thorkel has six sons, who all bear a strong resemblance to their father. Their names are Red-Cloak, Solvi, Svadi, Ox-Thorir, Asvald and Skeggi. All these giants have temperaments like their father, although Ox-Thorir finds humans intriguing, and wants to learn more about them. Red-Cloak is the eldest, and has a strong attraction to Helga Bard's daughter, although he is unable to admit this and it has expressed itself as a strong rivalry between the two. He has been known to play mean tricks on her, like stranding her on an ice floe and pushing her out to sea in a storm.
 
-#### *Kollbjorn, Troll-Chief*
+#### Kollbjorn, Troll-Chief
 
 **Magic Might:** 35
 
@@ -3718,7 +3718,7 @@ Thorkel has six sons, who all bear a strong resemblance to their father. Their n
 
 Kollbjorn is secure in his lordship over the local trolls. He is by far the meanest of a mean bunch, and he has the support of his mother (see below) and two henchmen Gapi and Gljufra-Geir.
 
-#### *Skrukka, Troll-Sorceress*
+#### Skrukka, Troll-Sorceress
 
 **Characteristics:** Int +2, Per –1, Pre –4, Com –2, Str +4, Sta +3, Dex –2, Qik –3
 
@@ -3856,17 +3856,17 @@ If the magi attempt to pursue Einar into Geirrodargard, they encounter him on th
 
 Alternatively, they can attempt to negotiate.
 
-#### *Reconciliation*
+#### Reconciliation
 
 Pan Caudarax killed Einar's first wife and their two children, and Einar has killed at least one child of the dragon. Einar's honor is partly satisfied and it is possible that the characters could negotiate a settlement. The feud could be settled in typical Icelandic fashion at the Galdramen hreppur, with each party paying compensation to the other. It may even happen that each is charged with fostering a child of the other; stranger things have happened in the sagas!
 
-#### *Rescue*
+#### Rescue
 
 However, the matter of immediate concern to Einar is the fate of his living children. The landvaettir he is negotiating with are Norns, spirits of fate summoned by Einar's orlog-galdor. He seeks knowledge of his children and the spirit's help in clouding the trolls' sight for the rescue. Einar has a high standing amongst the Norn landvaettir and their lady is willing to help.
 
 A feast is being prepared in Geirrod's palace to rally his people to war against Gudmund. The centerpiece of the feast will be the
 
-## *Gudmund of Glasvellir*
+## Gudmund of Glasvellir
 
 King Gudmund is an extremely ancient giant. He announces his lineage as son of Mimir, which makes him a cousin to Odin, father of the Norse gods (Mimir's sister Bestla was Odin's mother). Whether this claim is true or not is impossible to determine, but it is undeniable that Gudmund is extremely powerful. He customarily appears to be 20' in height, dressed in white with a rich scarlet cloak around his shoulders. He is extraordinarily handsome, with golden hair and blue eyes.
 
@@ -3954,7 +3954,7 @@ If Brighde is a player character you may wish to play out the mental struggle be
 
 Alternatively, if the players are quick and resourceful they may be in time to save Brighde, even if she fails to save herself.
 
-#### *Sanctuary Beneath the Waves* CrAu (req Re) 30
+#### Sanctuary Beneath the Waves CrAu (req Re) 30
 
 R: Touch D: Moon T: Room
 
@@ -4053,7 +4053,7 @@ At midnight, on the day the ritual can be performed, Damhan-allaidh and his alli
 Even with Hetep's magic, Damhan-allaidh will struggle to enter the upper levels of the regio. Hetep knows a ritual similar to *Tearing the*
 
 
-## *Story Seeds*
+## Story Seeds
 
 - In need of allies, Damhan-allaidh has attempted to unite the trolls of the Western Quarter under his leadership. Living on Snaefelsnes, where there is the largest concentration of trolls in Iceland, the characters cannot fail to notice. Furthermore, this task will not be easy for The Spider, as trolls are by nature territorial and quarrelsome.
 - **•** Damhan-allaidh has enlisted the help of Leiken, one of the most powerful of the yarthkin (see page 33) and leader of the *mara*, a type of evil landvaettir that causes nightmares. These witch-spirits appear as old women and literally ride their victims through terrifying dreams, sapping their energy. After a few *mara* attack members of the covenant, Victor may be persuaded to use his *Morphean Landscape* Power to allow the characters to combat the *mara* on their own terms. If Victor has already been killed, the characters will find it more difficult to combat the dream-spirits.
@@ -4103,7 +4103,7 @@ If the city is captured Geirrod orders his people to stop fighting and sues for 
 
 
 
-## *Hetep's Undead Form*
+## Hetep's Undead Form
 
 **Characteristics:** Int +0, Per +2, Pre N/A, Com +3, Str +10, Sta +15, Dex +5, Qik +8 **Infernal Might:** 60
 
@@ -4181,7 +4181,7 @@ Assuming the magi succeed, Hetep is imprisoned and the Magic Realm saved. Setna 
 
 
 
-## *The Golden Sphinxes*
+## The Golden Sphinxes
 
 **Characteristics:** Int +3, Per +5, Pre +3, Com +3, Str +15, Sta +20, Dex 15, Qik +10
 
@@ -4223,7 +4223,7 @@ The doors to the temple can only be opened by complex rituals, each more difficu
 
 knowledges useful in unlocking the gates are Magic Theory (or equivalent), Occult Lore, Enigmatic Wisdom, Philosophiae and Arts Liberales. The characteristic used is Intelligence
 
-## *The Sanctum of the Stelae*
+## The Sanctum of the Stelae
 
 This chamber is hemispherical with a diameter of 343 cubits (about 150 paces). The twin of the Obsidian Gateway stands in the center of this completely black chamber. Before the gateway is placed an immense statue of the Egyptian magician Setna. The statue is carved from a single block of gneiss and shows Setna seated on an ornate chair with an ibis (representing Thoth) clasping the back of his head. Normally, the spirit of Setna (see below) resides within the statue, although it is able to emerge from it if desired. For first impressions, the spirit will usually animate its statue to talk with visitors.
 
@@ -4242,7 +4242,7 @@ If the total does not equal or exceed the difficulty then the full base time is 
 
 
 
-## *Setna, Son of Rameses II*
+## Setna, Son of Rameses II
 
 **Characteristics:** Int +5, Per +3, Pre +3, Com +3
 
@@ -4266,11 +4266,11 @@ The doors are impossible to damage physically and are beyond the ability of Herm
 
 Once the characters have made it through all seven gateways they can enter the Sanctum of the Stelae and view the very source of man's understanding of magic. However, what they do once there is highly dependent upon whether Hetep's plan to corrupt the stelae has been effective or not.
 
-## *Setna's Blade*
+## Setna's Blade
 
 Setna will be able to provide the magi with a papyrus scroll detailing how to enchant a blade to kill a magician with an External Soul. The effect details are given below.
 
-#### *Setna's Blade* PeVi 40
+#### Setna's Blade PeVi 40
 
 R: Spec D: Spec (Constant Use) T: Ind This effect cannot be made into a spell, only invested into a weapon. Each weapon can only be used against a particular named individual. If the blade is driven through the heart of the intended victim, their soulstone will be destroyed and the victim will be slain. As long as the heart is pierced the victim is slain regardless of any magical resistance.
 
@@ -4716,7 +4716,7 @@ Shield +3 +6 +8 +4 +5
 **Roleplaying Notes:** Vifil is a tall thin man, with light brown hair and brown eyes. He is a moderately powerful galdraman and discreetly markets his services about the region. He is generally affable and generous to his neighbors in times of need. As well as running a farm he maintains a smithy, where he produces tools and occasionally weapons. He has a clubfoot that makes a lot of the farm work difficult, but he earns a good income from his blacksmithing and magical skills. His son now runs the farm and manages their three laborers. With the farm no longer needing so much attention, Vifil intends to concentrate on developing his magical skills.
 
 
-#### *History*
+#### History
 
 Adkins, R. and Adkins, L., *The Little Book of Egyptian Hieroglyphs*, Hodder and Stoughton, 2001
 
@@ -4746,13 +4746,13 @@ Tranter, S. N., *Sturlunga Saga: the rôle of the creative compiler*, Peter Lang
 
 *The Oxford History of Ancient Egypt*, ed. Shaw, I., Oxford University Press, 2000
 
-#### *Icelandic Magic*
+#### Icelandic Magic
 
 Flowers, S. E. *The Galdrabok*, Samuel Weiser, 1990. Although the first half of the book is a little 'new age', the second part consists of translations of genuine books of magic from the fourteenth and fifteenth centuries; excellent depiction of the Schooled galdramen.
 
 Jolly, K, Raudvere, C, *et al*. *Witchcraft and Magic in Europe: The Middle Ages*. Continuum International Publishing Group, 2001: One of the chapters is about attitudes towards witchcraft in medieval Iceland — a very interesting read.
 
-#### *Sagas*
+#### Sagas
 
 *Seven Viking Romances*, trans. Palson H. Penguin Books, 1985: These seven stories present a very good 'high fantasy' version of Scandinavia, although set largely in the tenth century and not specifically in Iceland.
 
@@ -4762,7 +4762,7 @@ Anonymous, *The Saga of King Hrolf Kraki*, trans. Byock, J. L., Penguin Books, 1
 
 Anonymous, *Eirik the Red and Other Icelandic Sagas*, trans. Jones, G., Oxford University Press, 1980
 
-#### *Internet Sources*
+#### Internet Sources
 
 Anonymous, *Egil's Saga*, trans. Green, W. C., in *The Internet Sacred Text Archive*: http://www.sacredtexts.com/neu/egil/index.htm (1st Nov 2002)
 
@@ -4780,7 +4780,7 @@ Snorri Sturluson, *Heimskringla*, trans. Laing, S., in the *Online Medieval and 
 
 *A simple guide to creating Old Norse names*: http://www.sit.wisc.edu/~sfriedemann/names/sgviking.htm
 
-#### *General*
+#### General
 
 Swaney, D., *Iceland, Greenland and the Faroe Islands*, Lonely Planet Publications, 1997
 

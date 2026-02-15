@@ -1,5 +1,5 @@
 
-# *Credits*
+# Credits
 
 **Authors:** Mark Lawford, Christian Jensen Romer, Matt Ryan, Mark Shirley
 
@@ -49,7 +49,7 @@ Copyright © 2013–2015 Trident, Inc. d/b/a Atlas Games. All rights reserved. R
 Digital Version 1.0
 
 
-# *Contents*
+# Contents
 
 | Chapter 1: Introduction               | 6  | Magi of Ireland 24                     |    | Setting & Physical Description 44    |    |
 |---------------------------------------|----|----------------------------------------|----|--------------------------------------|----|
@@ -233,9 +233,9 @@ Who You Work For..... 47 Story Seed: The Bay of Bannow...... 51 Story Seed: The 
 |                                         |                                                                     |
 
 
-## *Chapter One*
+## Chapter One
 
-# *Introduction*
+# Introduction
 
 *Céad míle fáilte!* A hundred thousand welcomes to you! *The Contested Isle* describes Mythic Ireland and the Hibernian Tribunal for your **Ars Magica 5th Edition** saga. Sitting on the western edge of Mythic Europe, Mythic Ireland is unique. Removed from continental involvement, the island maintains unique social and political systems developed centuries ago. The patchwork of tribal kingdoms is ruled by hereditary Irish kings, although many have been recently replaced by invading English lords. Still, the English conquest has not gone smoothly. The English king is too weak to manage his vassals, who fight among themselves. Skirmishes are endemic as the Irish raid cattle and the English grab land, and the sod trembles beneath pounding hooves and armored feet. Survival is tenuous and longevity uncertain.
 
@@ -243,13 +243,13 @@ Steeped in magic and the supernatural, Mythic Ireland is a place of wonder, home
 
 Hermetic magi have established a long history of living and studying, fighting and dying in Mythic Ireland. Covenants safeguard traditions, investigate the variety of faerie beings, explore the unknown, and enjoy their privileges. Largely formed in the ninth century, the Hibernia Peripheral Code has remained almost unchanged, much to the dislike of more recently arrived continental magi.
 
-## *A Tribunal of Conflict*
+## A Tribunal of Conflict
 
 Mythic Ireland sits at a tipping point. Several factions, mundane and magical, are pushing for control and power. Against each challenger stands a defender, often a group that is just as powerful and rapacious. Fractious to the core, the Tribunal's mundane groups rarely cooperate. An Irish prince is just as likely to raid his Irish neighbor as his English one. Magi quarrel with hedge wizards, and also with each other. Founded by Tytalus and Merinita magi, the Tribunal has several traditions that demand rivalry and challenge, each intended to make the Order stronger. Rules regarding faerie interactions are loosened, and several magi purposefully combat faeries. Marriages, kinfolk, and alliances weave through magical and mundane society, leaving princes, abbots, hedge wizards, and magi in a complicated web of interpersonal relationships.
 
 The Tribunal's magi stubbornly refuse to change their customs. In *The Contested Isle,* player characters can choose sides, becoming aggressor or defender in the impending magical, political, and cultural changes. They could be initiators who select an aspect of the Tribunal to change; moderators who hope to mitigate excessive damage during the transition; or defenders resisting the change. The undecided will be drawn into the fray — Mythic Ireland is too small for the luxury of bystanders. A rare few seek peace in a world of rattling swords, thundering hooves, and spell-cast fire.
 
-## *Hibernia in 1220*
+## Hibernia in 1220
 
 There are five provinces in Mythic Ireland: Connacht to the west, Leinster to the east, Munster to the south, Ulster to the north, and Meath in the middle.
 
@@ -265,15 +265,15 @@ There are many traditions of hedge wizardry; most of practitioners live in Conna
 
 
 
-## *Chapter Two*
+## Chapter Two
 
-## *The History of Mythic Ireland*
+## The History of Mythic Ireland
 
 At the beginning of Creation, Mythic Ireland was only half formed, a wooded island without lakes, rivers, meadows, animals, or people. Five waves of invaders, commonly called "the Five Peoples," landed, lived, and died before a sixth group, called the Gaels or Milesians, managed to achieve a permanent settlement. The Five Peoples found Mythic Ireland in an inchoate condition, unformed and changing into its current geography. By the time the Gaels arrived, the island had reached its final geographical state. The story of Mythic Ireland's history has been recorded in a single, seamless tale, which exists in several books, the most famous being *Lebor Gabála Érenn*, translated as *The Book of the Taking of Ireland* or *The Book of Invasions*. An-
 
 other complete manuscript, *Lebor Laignech* or *The Book of Leinster*, can be found in the Munster monastery of Tir-Dá-Glas on the Shannon River.
 
-## *The Five Peoples*
+## The Five Peoples
 
 Cessair, granddaughter of Noah, led the first group that landed in Ireland. Instructed by her grandfather to find a land uncontaminated by human vice, she hoped that Ireland would provide a safe haven from the Great Flood. It did not and her people died when the tide rose above Ireland's mountains. The only survivor was her druid, Fionntan, who survived by changing into a salmon. He could also assume the shapes of a stag, eagle, or boar, and is rumored to still be alive.
 
@@ -283,11 +283,11 @@ Arriving from Scythia, Nemed and his tribe were the third group of invaders. Nem
 
 Landing with soldiers, families, and druids, the Nemedians promptly settled, bringing lore and craft to the untamed wilderness. They cleared several plains and watched several lakes erupt from the ground. Their prosperity was soon noticed and coveted by the Fomórach.
 
-## *Story Seed: Finding Fionntan*
+## Story Seed: Finding Fionntan
 
 According to legend, Mythic Ireland's first druid still lives. Well over 4,000 years old, some seek the secret of his longevity. Many suspect he is a supernatural creature, but his realm affiliation is uncertain. Originally a pagan druid, hewas later converted to Christianity by a man named "Trefuilngid." Is Fionntan a divine creature, a human transformed into a magic creature, or a man who became a faerie? The answer to that question would help any magus seeking the same immortality. Fionntan lives in a cave, Fionntan's Grave, hidden beneath the River Shannon.
 
-## *Story Seed: The Secret of Ráth Cinn-Eich*
+## Story Seed: The Secret of Ráth Cinn-Eich
 
 Nemed built two royal forts, one in Munster and one in Ulster. Ráth Cinn-Eich sat on the slopes of Slieve Croob in Ulster, its foundation and underground passageways built by four Fomórach brothers, slaves of Nemed. Thousands of years later, House Diedne built a covenant over these ruins. Named the Widow's Throat, the covenant was destroyed in the Schism War. No one has ever explored the ruins, especially the deep passages built by the Fomóir. Perhaps there is treasure, Fomóir magic items, and secret Diedne lore hidden within.
 
@@ -303,7 +303,7 @@ The Fir Bolg and the Fomórach ignored the Tuatha Dé's requests for peaceful co
 
 The Tuatha Dé continued the Fir Bolg's political divisions and social practices. The pagan gods lived with the mortal population, which grew until humans eventually replaced faeries as kings. Tuatha Dé rule was not peaceful, and squabbles over land, cattle, and rights of succession frequently led to bitter warfare. The contemplative, peaceful culture the pagan gods initially brought was quickly forgotten and lost.
 
-## *The Sons of Míl*
+## The Sons of Míl
 
 The current people of Mythic Ireland are the **Gaels**, descendents of Gaedheal Glas, famous builder and linguist who allegedly constructed the Irish language from the best parts of the 72 languages spoken during the building of the Tower of Babel. Spreading from Egypt, the Gaels eventually settled along the northern coast of Spain. According to legend, the Gaels built a tower tall enough for the knight Míl (MEEL) to view Ireland. When it was foretold that his sons would rule the island, Míl sent his uncle and a small landing force to investigate. The group was slain by the Tuatha Dé.
 
@@ -316,7 +316,7 @@ The two most powerful brothers, Éremón and Éber, split the island in two, usi
 Hundreds of years of warfare followed, giving rise to legendary heroes who then formed their own family dynasties. The most famous is Cormac mac Airt, who ruled during the early third century. Protected since birth by five magic wards,
 
 
-## *The Four Treasures*
+## The Four Treasures
 
 The Tuatha Dé brought four treasures with them, signs of their sovereignty and indicators of their power. The Stone of Fál (*Lia Fál*) roars beneath the foot of a rightful king. The Spear of Lug guarantees victory to he who holds it. The Sword of Nuadha always strikes its target. The Dagda's Cauldron supplies unlimited stew and feeds an entire company of men. So equipped, victory was assured, and while the Tuatha Dé easily defeated the Fir Bolg they found the Fomórach much more difficult. Were the powers of these four items exaggerated?
 
@@ -335,7 +335,7 @@ High-kings were not the only heroes to achieve fame. The provincial king Ailill 
 
 The island's supernatural contingents, the Fir Bolg in Connacht, the Tuatha Dé underground, and the Fomórach offshore, left the Milesians alone. People encountered individual Fir Bolg and Tuatha Dé, but larger incursions ended. The groups kept the old promises and limited their interactions with man. The first Milesians kept careful watch for the Fomórach, but as the generations went by and no warships were seen, the lookout was abandoned.
 
-## *The Coming of Christianity*
+## The Coming of Christianity
 
 St. Patrick converted the pagan Irish to Christianity, but he was not the first Christian in Ireland. Palladius preceded Patrick, arriving with assistants Auxilius and Secondinus. Armed with copies of the doctrines of Ambrose and Augustine, Palladius felt well prepared to deal with the pagan Irish. Landing in Clonard and heading north, he was not welcomed by
 
@@ -351,15 +351,15 @@ Two Tytalus and two Merinita magi visited Mythic Ireland in 778, looking for the
 
 By the early ninth century, many traditions of native wizards still existed. Some stayed hidden, some were protected by powerful regional kings or safeguarded by Hermetic allies, and some were strong enough to fend for themselves. A score of the more powerful wizards assisted Pralix in the war against Damhan-Allaidh (see ArM5, page 10), and the survivors were immediately accepted into her new Order, which eventually became House Ex Miscellanea.
 
-## *The Ostmen and Rune Wizards*
+## The Ostmen and Rune Wizards
 
 Targeting monasteries for their wealth, Norwegian and Danish Vikings started raiding Ireland in the late eighth century. Dubbed "Ostmen" (Eastmen) because they came from the East, they struck without warning. At first they only came during the spring and summer, but by the early ninth century they decided to stay. They occupied and converted coastal Irish trading posts into
 
-## *Story Seed: The High-King's Treasure*
+## Story Seed: The High-King's Treasure
 
 Many high-kings were also adventurers, who sought out and found faerie treasures. Some of these finds were magic items rather than faerie glamors, because the Tuatha Dé regularly employed Gifted enchanters to make their treasures. Often these treasures were buried with the king. Other times they were retrieved by the Tuatha Dé, who then buried them again to hide them. Clans move infrequently enough that many still inhabit their ancestral homes. If a magus wants a particular magic item he's heard about, all he has to do is find a famous high-king who once owned it, head to that clan's traditional homestead, and start digging up grave mounds.
 
-## *Story Seed: Recovering the First Christian Mission*
+## Story Seed: Recovering the First Christian Mission
 
 A book in a remote monastery in Ulster mentions Palladius' mission to Ireland. Traveling from Leinster to Meath and eventually Ulster, the text says that Palladius was hounded by worshipers of Crom Cruach, a pagan god of death and destruction. At the church of the Kindred of Cormac in Ulster, Crom Cruach rose from the earth and destroyed Palladius, leaving the cleric's texts lying on the
 
@@ -369,7 +369,7 @@ ground. His followers buried the books, which included relics of Saints Peter an
 
 Lentinus of House Flambeau made many treaties with hedge wizards. He would promise protection to anyone who paid him vis. His prices were exorbitant, but those who refused soon suffered some magical attack that convinced them to accept Lentinus' terms. Lentinus died in a Wizard War. Never a member of a covenant, magi wondered where he had hidden his vis. Rumors circulated that he had an underground lair full of vis, arcane books, and other loot. This secret hiding place has never been found, and magi occasionally sneak into Connacht to look for it.
 
-## *Story Seed: The Missing Mercere Envoy*
+## Story Seed: The Missing Mercere Envoy
 
 With the Fomóir and Tuatha Dé allied with House Diedne, many magi wondered if the Fir Bolg would join the fray. The industrious Mercere Blakehalloc sailed to the Aran Islands and sought an audience with the Fir Bolg. Blakehalloc was never heard from again. As he was assumed to be one of the many casualties of the Schism War, no one ever went looking for Blakehalloc, and his mission to the Fir Bolg remains a mystery.
 
@@ -379,7 +379,7 @@ The newcomers also brought rune wizards. Having arrived only 20 years earlier th
 
 The Vikings were worse in other areas and the Order's attentions shifted from Ireland. Many Hibernian magi hoped that the Ostmen threat would unite the Order in Ireland, especially patching over the quarreling between Houses Ex Miscellanea and Diedne, but they were disappointed. Meanwhile, tensions between native wizards and Hermetic magi increased. Skirmishes with rune wizards, raids against native druids, and reprisal certamens were the order of the day.
 
-## *Hermetic Magi and Irish Wizards*
+## Hermetic Magi and Irish Wizards
 
 While individually weaker than their Hermetic rivals, the Irish wizards were members of existing túatha and could petition their king and his warriors for aid. Border skirmishes and disputes over resources were a constant problem. To end hostilities, the Order agreed to acknowledge the Coill Trí, a confederation of hedge wizards who had earned the title of druid, and to conclude a peace agreement with them. House Diedne refused, but on the verge of what many assumed would be open warfare, House Diedne retreated from Hibernian politics. In 851, Primus Obregon announced that Diedne magi would no longer protect her "undeserving sodales." Hibernian Diedne retreated to their covenants. In their absence, the Hibernian magi signed the Treaty of Cnoc Maol Réidh (see Chapter 10).
 
@@ -388,7 +388,7 @@ House Diedne still held a dominant position in Ireland. They did not recognize t
 
 In 865, Hibernian magi raised this point at the Grand Tribunal, but were told their treaty was illegal. Furthermore, Ireland was included with England and Scotland in the new Britannian Tribunal, and Hibernian magi were told they had to follow the Britannian Peripheral Code. Already displeased, the Irish contingent explained how important the Treaty of Cnoc Maol Réidh was. When given the choice between joining or dying, most Irish wizards would gladly fight and die, a course of action that would destroy the native magical traditions. The treaty would allow the traditions to continue, perhaps to be explored and incorporated into Hermetic magic. Invading magi threatened that accord, but the Grand Tribunal refused to recognize it.
 
-## *Tribunal Formation and the Early Years*
+## Tribunal Formation and the Early Years
 
 33 years later, following the Tytalus example of Tribunal secession, the Irish magi left the Britannian Tribunal. The new Hibernian Tribunal immediately ratified the Treaty of Cnoc Maol Réidh. Every individual treaty that existed between hedge wizard and magus was binding, and those who previously ignored such treaties were brought to heel. With external forces quelled, Hibernia concentrated on internal conflicts. The intrinsic rebelliousness and aggressiveness of the natives gave rise to several foundation pieces of Hibernia's Peripheral Code. Local rulings like treaties, trophies, and legal raiding were a safety valve for the island's endemic violence. If contained conflicts were allowed, then larger, more egregious outbursts would be few.
 
@@ -396,7 +396,7 @@ The 10th century was violent. Irish kings fought one other and the Ostmen. Prohi
 
 Diedne magi were plentiful but stayed behind closed doors, and the Coill Trí stayed in Connacht. The threat of the Ostmen rune wizards never developed into a war, although skirmishes were frequent. The Irish clans retained the interior of the island, and the Ostmen kept their coastal cities. As the Ostmen converted to Christianity, the two groups realized the benefits of mutual cooperation. The Irish appreciated the Ostmen's mercantile efforts and the ready pools of Scandinavian mercenaries, while the Ostmen enjoyed the steady supply of beef and leather for their exports.
 
-## *The Schism War*
+## The Schism War
 
 While skirmishes in Normandy and Provence hinted at greater, widespread violence, Hibernia magi were more concerned with a Munster king's bid for the seat of the high-king. Defeating the ruling clans of Munster and Leinster, Brian Bóramha (BREE-un BOE-roo, anglicised as Brian Boru) marched into Ulster and forced the Ua Néill high-king to abdicate. Leading thousands of troops, accompanied by Munster druids and hedge wizards, many thought Brian had the strength to politically unite Ireland into a single kingdom. The magi were so distracted that the Schism War surprised everyone.
 
@@ -410,11 +410,11 @@ With Circulus Ruber secure, the magi attacked and destroyed the Diedne covenant 
 
 Having subdued Ulster and Connacht, Brian Bóramha moved against the Ostmen and marched on Dublin. As the army moved east, Bóramha's druid, a dwarf named Muírcheartach mac Lía, told the Flambeau magi at Lámbaird that Bóramha had druids with him who called themselves "sons of Diedne." Surmising that the Diedne magi must have survived the fall of Lugh's Retreat, the Lámbaird magi traveled to the battle. Irish and Ostmen forces clashed at Clontarf on Good Friday 1014. As the Irish and Ostmen warriors split skulls and hewed limbs from bodies, the Flambeau stalked the battlefield looking for the Diedne. The combat between the Flambeau and the Diedne was brief, flamboyant, and lethal, and spelled the true end of House Diedne in Hibernia. The Irish defeated the Ostmen, who never threatened the Irish again, but Bóramha died in the battle. The army returned to Munster, too weak to impose its rule over the rest of the island.
 
-## *Two Turbulent Centuries*
+## Two Turbulent Centuries
 
 Bóramha's war upset the balance of power in Ireland. By breaking the Ui Neill hegemony of high-kingship, he showed that whoever was most powerful could become the high-king. Bóramha established the idea that the high-kingship was a position to fight for. Many tried, and the 11th and 12th centuries saw highkings from all five provinces. Not every
 
-## *Story Seed: Three Diedne Bodies*
+## Story Seed: Three Diedne Bodies
 
 No one is certain what happened to the corpses of the three Diedne magi who fell at Clontarf. Cliffheart covenant claims to have one as their cathach, even though they were not involved in the battle. Others say that Qui Sonant Pro Quieto buried the Diedne with their enemies, placing each in a grave with a Hermetic magus who would have been
 
@@ -427,7 +427,7 @@ The Church in Ireland underwent its own conflicts. The laity had become lax. Tit
 
 Violent and tumultuous, the 12th century was also a time of great art and craft. Book production increased, driven by the desire for the old tales to be recorded and remembered. Several monasteries became expert vellum manufacturers, while others became famous schools for book illumination. Hermetic culture added to the demand, and it is a rare Irish grimoire that isn't decorated with Celtic swirls and knots. Expert gold and silver work is displayed in personal jewelry and religious artifacts. But the island's fine arts and scholarship are hidden beneath the half-deserved reputation of a lawless, barbaric, violent place.
 
-## *The Irish Helen*
+## The Irish Helen
 
 The coming of the English was to change the Tribunal forever. In 1152, Diarmait Mac Murchada, King of Leinster, abducted Derbforgaill, wife of Tighearnán Ua Ruairc, the King of Briefne. The abduction proved the catalyst for an epic tragedy, and to this day Derbforgaill is likened to Helen of Troy, as her beauty caused a great war.
 
@@ -435,19 +435,19 @@ The lady herself was quite happy with the arrangement and settled down to live w
 
 On arrival there, Diarmait sought aid from King Henry II in recovering his kingdom. The new High-King of Ireland, Ruaidrí Ua Conchobair, had taken possession of Leinster. Diarmait failed to persuade King Henry to invade, so he gathered some English mercenaries and attempted a reconquest by himself.
 
-## *Strongbow Invades*
+## Strongbow Invades
 
 When Diarmait's initial attempt to reclaim Leinster faltered, he turned to the Welsh Marcher Lord Strongbow, Earl of Pembroke. Strongbow agreed to assist, and invaded Leinster, quickly placing Diarmait back on the throne. Diarmait's anger at those who had driven him to exile was infamous, and after one battle against the men of Ossory he had his English allies pile up two hundred severed heads of his slain foes. He searched through them for the head of one man he particularly hated, and proceeded to chew the head's lips and ears off.
 
 Strongbow married Aoife, Diarmait's daughter, and on the death of Diarmait took possession of the throne of Leinster. This was against (according to many Irish) the native Brehon Laws, but the mercenaries' power was such that nothing could be done.
 
-## *Henry & John in Ireland*
+## Henry & John in Ireland
 
 The military successes of Strongbow worried King Henry II of England, who set out for Ireland, determined to bring his vassal to heel. Strongbow capitulated immediately to his king, and once in Ireland, Henry also demanded vassalage from the Irish kings, who gave him tribute. In 1185, seeing that his barons were still carving out great holdings in Ireland, Henry appointed his son John as Lord of Ireland, and Prince John set off to receive homage from his vassals. Accompanying John, and returning later to witness the continuing conquest of Ireland, was a Welsh cleric called Gerald of Wales. Gerald wrote two books on his experiences in Ireland; the *Topography of Ireland,* and the *Conquest of Ireland.* Both books proved immensely popular in England and Wales, with their description of marvels and their characterization of the Irish as both savage and exotic. Despite their geographical proximity, even educated folk knew little of Ireland, and Gerald traveled England giving immensely popular public readings of his book, often to great crowds, and constantly revising the text.
 
 While Gerald proved popular with his book, Prince John's visit to Ireland was less of a success. Aged only 17, he displayed some of the lack of tact that later led to the Barons' Revolt in England. When the Irish kings came to do him homage, he openly mocked them and tugged at their long beards, winning few friends among them.
 
-## *The English Magi*
+## The English Magi
 
 For many magi of the Stonehenge Tribunal, Gerald's book came as a wakeup call. While some had visited or had dealings with the Irish magi, the Order in Ireland had become somewhat insular and little known, as close as it was. Many of the Stonehenge magi heard of the marvels of Hibernia and wondered at stories from Redcaps of vis so plentiful it was left unharvested, and of a quarter forbidden to Hermetic magi where it was said the druids still ruled. Hibernia was suddenly the talk of the Tribunal as a place of mystery, magical wealth, and potential threat. While some knew of the war between Diedne and the druids of Ireland, the mystery of Connacht caused them concern. What if the Coill Tri were actually the heirs of Llewellyn, last Primus of the Accursed House? What if the Order of Odin had gained a foothold
 
@@ -456,7 +456,7 @@ through the Ostmen's conquests?
 
 Henry justified the conquest of Ireland by reference to a Papal Bull, *Laudabiliter,* issued in 1155, that could be read as giving Henry the right to conquer Ireland and enforce reform of the Church there. There was in fact a strong reforming party in the Irish Church that had, over the last century, reformed the church on the continental model. This largely ended its ancient monastic character and replaced it with a church of dioceses and tithes on a similar line to the continental and English Church. In a similar manner, the Order of Hermes in Stonehenge, hearing increasingly from magi who had visited Hibernia of the strange customs and unusual Peripheral Code of that Tribunal, began to talk about the need for reform in Hibernia. A few Stonehenge magi attended the next Hibernian Tribunal. They were shocked at what they saw.
 
-## *English Expansion*
+## English Expansion
 
 Meanwhile Hugh de Lacy had conquered the Kingdom of Meath, and the King of Briefne had died in what may have been an assassination (or perhaps a tragic misunderstanding) during a peace parlay. The English had moved west into Munster, and north into Ulster. Yet Connacht, home to the High King Ruaidhrí Ua Conchobhair, remained free of the English. While Ruaidrí had submitted to Henry, the continued autonomy of Connacht concerned many in Stonehenge who feared what the hedge magicians of the Coill Tri might really represent, and that dark magic might underlie Ruaidrí's reign. Why was Connacht preserved from the conquest?
 
@@ -466,20 +466,20 @@ The Grand Tribunal at Durenmar in 1195 saw a long debate between magi denouncing
 
 The Grand Tribunal events led to more traffic between Hibernia and the continent, and an increasing number of appeals to Magvillus from magi who felt they had been unfairly treated by local Quaesitors. The Covenant of Elk's Run was founded in the immediate aftermath of the Tribunal. In 1209, the maga Swan of Ghent was killed during the Black Monday massacre when Ua Broin raiders killed a number of English settlers outside the walls of Dublin.
 
-## *The Siege of Praesis*
+## The Siege of Praesis
 
 In 1213, Holzner of Tytalus from the Rhine Tribunal joined the Covenant of Praesis. He then attempted to steal the cathach of Praesis and flee, and was slain by his sodales. His outraged parens, Ballack, left the Rhine Tribunal and journeyed to Hibernia where he laid siege to the covenant. Many Hibernian magi saw this as a clear cut case of foreign aggression, but by the conventions of the Tribunal, few intervened. The Siege of Praesis lasted a year, preventing the members of that covenant from attending the Hibernian Tribunal of 1214, and relations between Hibernian magi and those from outside the Tribunal were increasingly strained. Now Praesis has fallen, and peace may be restored, but it is an uneasy peace.
 
 The English lords increasingly assert their authority and adopt Irish ways to the chagrin of the English crown; the Irish kings chafe at foreign rule outside of the sanctaury of Connacht. The Order in Hibernia faces a similar crisis. Yet peaceful visits, trade in books, and mutual tolerance still exist, and the Hibernians regard themselves as faithful members of the Order of Hermes. Not every foreign magus is regarded with suspicion, and Hibernia may yet know peace if suspicion and misunderstanding on both sides can be overcome.
 
 
-## *Chapter Three*
+## Chapter Three
 
-# *Irish Culture*
+# Irish Culture
 
 The basic political and social framework of the Irish is the clan, an extended group of people who claim descent from a heroic forefather. The English are imposing their style of French feudalism and society atop these political and social institutions, and failing. Instead of replacing Irish culture they are adopting it, and are becoming "more Irish than the Irish themselves."
 
-## *The Land*
+## The Land
 
 Geographically Mythic Ireland is like a bowl. A ring of low mountains lines most of the coast, surrounding rolling plains and thick forests laced with rivers and dotted with lakes. The climate is warmer and wetter than neighboring England. Snow rarely falls and when it does it never lasts longer than three days. Rainfall is plentiful, more so in the west than the east, and some claim that it rains three days for every five. Flooding is a major concern and heavy rains risk washing away spring plantings.
 
@@ -495,7 +495,7 @@ Most of Mythic Ireland's interior is forested. Apple trees, hazels, and oaks gro
 
 Outlaws and fiannai live in the woods. A fian is a band of aristocratic young men who undergo a period of exile while awaiting their land inheritance. The fiannai are viewed positively as future warriors who must prove themselves worthy to the clan by surviving outside it for a time. Outlaws are legal outcasts denied aid and assistance. With the recent English invasion, many outlaws' only crime was owning land the English wanted, and took. Such men are heroes in their neighbors' eyes and will cause a great deal of trouble in the years to come.
 
-## *The Irish People*
+## The Irish People
 
 Society is centered on the clan, a lineage descent group forming a single corporate identity. The clan's social unit is the túath, which means "people" but includes the clan's native territory, its free clients, unfree clients, and slaves. Named after an eponymous hero ancestor, most túatha originated in the fourth and fifth century. New túatha appear when a powerful leader separates from his previous túath to form a new clan. A weak túath disappears when destroyed or absorbed by a more powerful túath. In 1220 there are approximately 125 túatha. The most powerful are the "five bloods": the Ua Néill of Ulster, the Máel Sechnaill of Meath, the Ua Conchobair of Connacht, Mac Murchadha of Leinster, and the Ua Briain of Munster.
 
@@ -505,7 +505,7 @@ Most people are daorcheile: slaves, unfree farmers, and poor free farmers. Slave
 
 The grád flatha have many rankings: lesser nobles (those with the minimum number of client bóaire), cattle lords, and greater nobles. The clan's most important nobles are the *derbfine* (DERB-inyuh), those within four generations of the current chief. Each clan is led by a chief or king (*rí*). The king of a single
 
-## *Eraic is a Reputation*
+## Eraic is a Reputation
 
 Eraic measures the social standing of mundanes and is treated as a Reputation within the character's túath. An example would be "Reputation: Eraic 1 (Ua Riain túath)." The Irish Social Status Virtue and Flaw Equivalents insert lists a character's starting Eraic score. Use these numbers for characters seeking to increase their honor and attain new social ranks. Characters can also use the Gratitude rules found in *Lords of Men*, page 7. A character needs 10 Gratitude Points to advance up a rung on the Irish social ladder.
 
@@ -518,7 +518,7 @@ The grád flatha also include the professional learned classes: the judges, poet
 
 
 
-## *Irish Social Status Virtue and Flaw Equivalents*
+## Irish Social Status Virtue and Flaw Equivalents
 
 Irish society has enough similarities to the French and English social systems for characters to use standard Social Status Virtues. The Irish do not have a title for "knight", but certainly have the social station as the lowest rung of the grád flatha.
 
@@ -534,7 +534,7 @@ A cattle lord must select the Major Virtue: Landed Noble and has an Eraic Reputa
 
 An Irish king must select the Virtue: Greater Noble, as described in *Lords of Men*, page 30. *Lords of Men* also describes the English social system and the Irish system is similar in ranking. An Irish rí tuaithe is equal to an English baron and a fuirig is essentially the same as an earl. Both a rí ruirech and a rí cóicid would be a duke to the English, although to the Irish a rí cóicid is higher in stature. The ard rí would be a king, but there hasn't been an Irish high-king since the English landed. A Greater Noble has an Eraic Reputation of 7.
 
-## *The Brehon Laws*
+## The Brehon Laws
 
 Early Irish law is complied in tracts called the brehon laws, after "brehon," the Anglicization of the Irish word *brithem*, meaning "judge." The brehon laws are civil, not criminal, laws, and concern marriages, hostages, fostering, political rank, and client-lord relationships. Instead of stating the punishment for a wrong, the brehon law recounts the fraction of the victim's eraic
 
@@ -548,7 +548,7 @@ The king is crowned in a sacred
 
 ceremony in which he symbolizes his commitment to his people by marrying the tribal lands. In some túatha the king marries a local faerie woman, a resident Tuatha Dé land goddess. In a highly ritualized ceremony, the king promises to abide by the laws and gods of his people, to do no harm, and universally share the king's truth of legal and moral judgment.
 
-## *Sex and Marriage*
+## Sex and Marriage
 
 Only one in 20 Irish marriages happen in a church. Most marriages are secular, the sole requirement being that the couple announce their intention to marry. Once announced, the marriage is legal. The Church disagrees, but most Irish clergy participate in rather than prevent this practice, ignoring the ecclesiastical reforms of the late 12th century. Easy marriage leads to easy divorce and easy remarriages. The nobility are the worst offenders, and many are serial monogamists, marrying and divorcing wives as they please. Some men take multiple wives at the same time, but this custom is fading. This loose attitude toward marriage allows a clan to grow rapidly. For example, one Ua Donnell chief has 18 sons from 10 different wives and 59 grandsons.
 
@@ -559,13 +559,13 @@ Hostages are noble sons given to a king to ensure a túath's proper behavior. Th
 
 Fostering is common among the nobility. At age 7, noble sons and daughters leave home and live with foster parents, the boys until they are 17 and the girls until they are 14. Fostered children form an emotional attachment almost as strong as with their parents. In all legal matters except for inheritance, a foster-son is as legitimate as a man's biological son. A man can expect his foster-sons to follow him into battle.
 
-## *Hospitality and Cuddy*
+## Hospitality and Cuddy
 
 A lord is expected to provide assistance for his clients during the lean times of the year. Such hospitality is never long or costly and defaults to an evening's meal and warm bed. All social superiors are expected to grant hospitality if asked. The accommodations offered by a king depend on his standing and the impression he wants to make. Stinginess signifies a bad king. Poets have immortalized such hosts with poems, and a Gifted satirist might lay a curse on the host's head. Demons actively seek poor hosts, and several legends tell how an abbot or king who didn't provide adequate hospitality was possessed by a demon. Travelers can expect hospitality at all times of the year. Monasteries offer a three-night stay, which includes a private room in an outlying building, wood for a fire, a blanket, and soup.
 
 Cuddy, Anglicized from the Irish *cuid Oidhche* ("a night's portion"), is the entertainment and nightly feast a client owes his lord. One of the king's privileges is traveling through the túath and feasting at the nobles' houses. Most clients do not have the option to refuse, and several clients have bemoaned a gluttonous king. Poor nobles must borrow from their neighbors to provide for the king's cuddy.
 
-## *Villages and Cities*
+## Villages and Cities
 
 A village is a ringfort, or *ráth*, wooden palisade walls surrounding a cluster of wooden huts. The larger and more powerful the clan, the larger the ráth. Unlike continental villages, a ráth can be moved; an entire clan can quickly uproot and shift to a different location. Ráths are not placed along rivers or roads, but tucked in more secure areas. Some small coastal ports exist, but the majority of the Irish people resided in the island's interior.
 
@@ -577,20 +577,20 @@ Mythic Ireland has almost a thou-
 
 sand ráths. The more powerful groups have abandoned a wooden palisade for stone walls. Religious centers — Armagh, Cashel, Kildare, Tuam, and Dublin and royal residences use stone. They have sacrificed mobility for stronger, more permanent protection.
 
-## *Time*
+## Time
 
 The Irish year is split in half. Winter precedes summer and begins on *Samhain* (SOW-wun), 1 November. Summer starts on *Bealtaine* (BAL-tun-yuh)*,* 1 May. Samhain marks the end of the harvest season and the beginning of the "dark half" of the year. On *Oíche Shamhna*, "the night of November" (31 October), ghosts and faeries stalk the night. The Tuatha Dé leave their summer homes for their winter mansions, disrupting other supernatural creatures. Bealtaine heralds the planting season and start of the "light half" of the year. It too is marked with celebrations and feasts and is a good time for annual charms and yearlong magical effects. Equally important are the celebrations of *Lughnasa* (LOOGna-sah), 1 August, and *Oímelg* (O-myelg), 1 February, more commonly called "the Feast of St Brighid". Lughnasa is the harvest festival and is celebrated on the closest Sunday to the first of the month.
 
 Although retaining and valuing some pagan elements, like the season-changing holidays, Mythic Ireland is thoroughly Christian. Christmas and Easter are the two largest holidays. On Easter, the rising sun dances with joy at the Resurrection, and anyone viewing it gains a +1 to any pious Personality Trait for the week. On Christmas Eve candles are lit and placed
 
-## *Story Seed: Hermetic Hospitality*
+## Story Seed: Hermetic Hospitality
 
 Many tribunals offer Redcaps and traveling magi hospitality. Some Hibernian covenants extend this offer to mundanes, which can lead to trouble. For example, Circulus Ruber allows a traveling rí cóicid and his party to stay overnight, magically creating lodgings and food for over
 
 200 guests. Magically created food does not provide sustenance, and in the morning the entire company is starving. The king demands 200 cows as compensation. As the covenant is unwilling to part with the cows, the player characters are asked to appease the king with an alternative solution.
 
 
-## *An Outsider's View*
+## An Outsider's View
 
 Gerald of Wales (Geraldus Cambrensis) rode with the first wave of English invaders and wrote about his adventures in two books, *Topographia Hibernica* ("The Topography of Ireland") and *Expugnatio Hibernica* ("The Conquest of Ireland"). Gerald spends a few pages on the nature of the Irish. Throughout his commentary Gerald blames the island for the people's misfortunes and barbarous nature. "This place finds people already accursed or makes them so."
 
@@ -610,7 +610,7 @@ Performance Magic is a common Virtue among Hibernia's Hermetic and hedge wizards
 
 A hedge wizard with Performance Magic generally uses it to line his own pockets and advance his clan's political agenda. Often this causes conflict with the English and leads to bloodshed. A Hermetic magus must be very careful if he tries this trick. The native poets don't like their roles usurped and the Order has restrictions about how a magus interacts with a mundane.
 
-## *Area Lore (Ireland)*
+## Area Lore (Ireland)
 
 Ireland is small. A man can walk from Ireland's west shore to east shore in four days, and north to south in eight. Its people are relatively informed about each other, often because of extensive family ties. Professional historians are paid to recount a people's history, and
 
@@ -618,13 +618,13 @@ the more accurate the tale the larger the stipend. Instead of having Area Lore A
 
 in windows to guide lost travelers. At midnight mundane animals gain the Divine power of speech, which lasts until dawn. Hearing an animal speak is extremely unlucky and most people stay clear.
 
-## *Entertainment*
+## Entertainment
 
 Two of the island's most prestigious professional classes are poets and musicians. Enjoyed by both English and Irish audiences, they move between the two cultures, saturating the English with Irish tales and ballads. Love songs are the current vogue. Required to memorize hundreds of tales before they can assume the title, a good poet can recite a perfectly appropriate tale for any occasion at which he is asked to perform.
 
 Hurling is a popular sport among Irish youths of all social classes, and avoided by the English. A player uses a wooden stick called a hurley (Irish: *camán*) to drive a brass ball. One team moves the ball towards a goal, while the other team defends it. Popular in Mythic Scotland as well, hurling can be dangerous. Injuries are frequent and deaths not unknown. Hibernia's faeries enjoy the sport, and a good hurling player might be abducted and forced to play a game of faerie hurling all night long. Hurley is not a separate Ability, and matches can be adjudicated using contested Characteristic + Athletics stress rolls.
 
-## *The English Opposition*
+## The English Opposition
 
 While the Irish and English vie for power, their very ideas of power and political might are different. A core difference is that the English value land and the Irish value cattle. Before the English
 
@@ -634,7 +634,7 @@ Irish sons inherit property equally from their father, through a complicated, le
 
 Kingly succession is also different. The English kings have started to establish the principle that the crown descends to the eldest son, as with other property. An Irish son has no guarantee that he will follow his father to the throne, and everything depends upon the decision of the derbfine. Another difference is that a higher king has no authority over a lower king's rule. For example, a fuirig cannot reverse a decision made by one of his client rí tuaithe. In the English system, the king has legal authority over every lord.
 
-## *Languages of Hibernia*
+## Languages of Hibernia
 
 The following Living Languages are spoken by the people living in the region described by this book. Each consists of one or more regional dialects, which are given in parentheses; most characters should take the appropriate one as a specialty. Educated or well-traveled speakers often try hard to rid themselves of their dialect, and may have standard specialties (see **ArM5**, page 66).
 
@@ -648,15 +648,15 @@ The lords of the Norman occupation speak the Anglo-Norman variant of French. The
 
 The preferred language of the educated classes is still Latin.
 
-## *Pronunciation of Gaelic*
+## Pronunciation of Gaelic
 
 Gaelic has many rules governing pronunciation, and they are too complex to do justice here. Pronunciations have been provided in many cases; for other terms we suggest online sources. Note that in these phonetic guides, stressed syllables are given in capital letters, and "kh" is used to represent the final sound of "loch", to distinguish it from the "ch" of "church'. Short vowels (as in "bat," "bet," "bit," "bot," and "but") are sometimes written in the phonetic guide with an "h" for clarity; thus "loh" is pronounced like "lot" without the final "t'. The important thing is making yourself understood among the troupe use whatever pronunciation with which you are most comfortable!
 
-## *Names*
+## Names
 
 As with all cultures, the Irish have their own naming customs and favored names.
 
-## *Irish Names*
+## Irish Names
 
 Irish names consist of a given name, which are then usually distinguished further using one or more of a patronymic byname, a clan affiliation byname, or a descriptive byname.
 
@@ -666,7 +666,7 @@ Clan affiliations are denoted using "Ua" for a man and "inghean Uí" for a woman
 
 Descriptive bynames are simply appended to the end of the name; for a woman they usually take the same modified initial letter. *Examples: Niall Bacach, Grainne Bhacach*.
 
-## *Dialects*
+## Dialects
 
 Characters who have a dialect as a specialty in a language suffer a penalty of –1 when speaking to someone who speaks a different dialect of the same language. For example, a character with Gaelic (Munster) 5 can speak to another Munster man with an effective score of 6 (including his specialization), to a Gaelic speaker with no dialect at a score of 5, and to an Ulsterman with a score of 4.
 
@@ -715,16 +715,16 @@ Buliste an Taotalas ("on TEE-tuh-lus") Ebroin an t-Éigse Measceal ("on TCHAY-sh
 
 House Diedne was not recorded as having used this custom, which came into fashion after the Schism War. Contemporary accounts often replace the byname Daodne ("DEED-uh-nyuh") with Deoradach ("JAYruh-dukh"), meaning "banished'.
 
-## *Non-Irish Names*
+## Non-Irish Names
 
 The names of the English settlers follow the patterns of their homelands. Noblemen and gentry use the conventions of Anglo-Normans, consisting of a given name and a byname, which may indicate their origin or paternity (often using the prefix "fitz," meaning "son"). The rest of the invaders use whatever conventions they have brought from their homelands — often Welsh or English. Some naturalized English have taken Irish versions of their English names.
 
 The people of Scandinavian descent who are resident in Dublin and southern Ireland occasionally still use Norsestyle names, but most have adopted Irish naming patterns using local variants of the names from their homeland. Given names are combined with a patronymic, a byname, or both.
 
 
-## *Chapter Four*
+## Chapter Four
 
-# *Hermetic Culture*
+# Hermetic Culture
 
 *The druid asked the king what he had seen in his vision, and Eochaid told him that he had dreamed of a great flock of black birds that came forth from the depths of the ocean and lay siege upon the people of Ireland and brought them to conflict and turmoil and confusion, so that the people were destroyed, yet one of them struck the noblest of the birds and cut off one of its wings.*
 
@@ -736,7 +736,7 @@ Hibernia is a contradictory beast; old and rediscovered, conservative yet strang
 
 Separated by custom, if not distance, Hibernia had fallen away from the rest of the Order for many years and its magi developed their own culture, still Hermetic but different from the continent. The newcomers view these ways as outdated, nonsensical, and often beneath the dignity of the Order of Hermes. Were the Tribunal blessed with more land then the two sides might have found easier accommodation, but as it is both sides must choose either to find an uneasy accommodation or to press for dominance.
 
-## *A Conflicted Tribunal*
+## A Conflicted Tribunal
 
 *When the people of Nemed heard Fionntan's counsel, dissension broke out among them, as a faction arose who felt that they should not flee from Ireland but rather they should do battle with the Fomórach and take the land by force of arms.*
 
@@ -754,7 +754,7 @@ And while Praesis fell, its siege continues to be a point about which the Tribun
 
 This leaves Hibernia with two principle Hermetic factions vying for their own view of Hermetic life in the Tribunal. While those conflicts play out politically, they are also played out in the direct and rash actions of wilder magi, with Praesis and Connacht as their focus.
 
-## *A Land Where History Repeats Itself*
+## A Land Where History Repeats Itself
 
 Ireland is a land where history is known to repeat. As detailed in Chapter 2: History, the early lineages succumbed to disease and plague, while successive later invasions established kingdoms before being swept aside by newcomers to the island. This is not lore, but truth.
 
@@ -763,7 +763,7 @@ The Treaty of Cnoc Maol Réidh (kuh-NOK MEEL RAY) is a centuries-old agreement b
 
 druids pushed back to Connacht, some believe that the Ordo Hiberniae will also be forced to retreat to Connacht leaving the recently-arrived continental magi to inherit the rest of Ireland. It can already be seen in the conquest of the English nobles, and they fear it in the coming of the English magi.
 
-## *Magi of Ireland*
+## Magi of Ireland
 
 The Ordo Hiberniae are those magi raised in the Tribunal to Irish lineages, descended from generations of magi who have lived and worked in Hibernia. They are well-schooled in Irish legend and their understanding of law and justice is as colored by Irish Brehon law as it is by the Code, and their view of the world is heavily influenced by the tales of the races that came before.
 
@@ -773,7 +773,7 @@ Eochaid's vision is important to understanding part of the Hibernian mindset. Th
 
 While the elder magi of Hibernia view the English with concern, some of the younger magi, especially those in their *macgnímartha* (MOC-guh-nee-mor-huh) (see later), have heard the English message. They now believe that no part of Hibernia should be denied to the Order, and that the outdated treaties with hedge wizards, beasts, and faeries should be annulled. The siege of Praesis on the Connacht border is a good case in point. While the instigators were English, a number of Irish magi joined them, and the siege itself would never have happened but for the outdated and dangerous promotion of violence enshrined in the Hibernian Peripheral Code.
 
-## *The English*
+## The English
 
 Most magi beyond Hibernia consider Hibernia backwards and strange. Most have heard the old stories of Hibernia as a land of faerie magic, too dominated by the fae for it to be of true magical value. Despite the occasional exchange of magi back and forth, the Order had little interest in Hibernia until England invaded Ireland around 1170.
 
@@ -798,13 +798,13 @@ And secondly, the culture of the Irish magi put distance between themselves and 
 
 As a result, with no great covenants, no great political upheavals to monitor, and seemingly no great magi to follow, Hibernia became a place of tale and rumor: sometimes spoken of, but rarely visited.
 
-## *Hermetic Culture*
+## Hermetic Culture
 
 Violence is a way of life in Hibernia. Wizard's War is easily declared and certamen is frequent, as is the use of grogs to raid rival covenants. Most covenants own resources outside their legally-protected territory and these are always at risk, but the magi of Hibernia take their oath seriously. The art is to assert dominance, not to kill, which is why certamen is challenged so freely. Grogs fare less well.
 
 There is an understanding in Hibernia that everything finds its level and that individuals and covenants are robust enough to find their own way. The threat of violence is a real one, and the best defense is often to simply be a good neighbor. The Peripheral Code does not mandate this, but those who fail to uphold this unspoken agreement often lament the consequences.
 
-## *The Macgnímartha*
+## The Macgnímartha
 
 Young magi in Hibernia undertake the macgnímartha or youthful exploits: a short period between apprenticeship and becoming a magus when the apprentice leaves the protection of his covenant and spends a year or more without the support of his parens. He has not sworn the Oath, does not know Parma Magica, and is considered outside Hermetic law. Most test their power against faeries, some engage mundanes, and others try their luck against Hermetic targets. In this last case, items successfully stolen from covenants are usually ransomed back. Remembering their own youthful exploits, magi rarely treat those in the macgnímartha harshly.
 
@@ -814,7 +814,7 @@ For most apprentices, macgnímartha lasts a year, or until such time as "his bea
 
 Despite social pressure, as failure to do so may reflect badly on the master, not all apprentices undertake the macgnímartha. Some choose instead to go to Leth Moga where they receive security, lodging, and the freedom of the libraries in return for assisting other magi, copying books, and similar duties.
 
-## *Wizard War*
+## Wizard War
 
 To outsiders, Hibernia's laws may seem at odds with Hermetic law. The Peripheral Code, however, is the principle source of law governing Wizard War and this often differs between Tribunals (as discussed in *Houses of Hermes: Societates*, page 23). Hibernia's Code has developed differently from the continent.
 
@@ -827,19 +827,19 @@ face to face many times during that time.
 
 The Siege of Praesis is the first example of an extended Wizard War that most of the English have seen. Given the result, the falling of Praesis into English hands, opinions are currently mixed on whether a formal challenge should be lodged.
 
-## *Certamen*
+## Certamen
 
 The niceties of certamen apparent on the continent do not apply in Hibernia. While the aggressor determines the Technique and the Defender determines the Form, neither has the right to veto. Neither are there any social norms around who may challenge, when, or how often.
 
 Certaman is often fought over resources that fall outside a covenant's legally-protected lands and between magi before hostilities escalate to Wizard War. The usual social stigma around refusal to fight is keenly felt in Hibernia but the use of vis carries no negative stigma.
 
-## *Fallen Covenants*
+## Fallen Covenants
 
 While the Siege of Praesis was the first extended Wizard War that most of the English had seen, it was far from the first in Hibernia's history. The endemic violence of the Tribunal means that dozens of covenants have fallen over its history. Most were not destroyed in a magical assault; rather, the constant pressure, and loss of a few magi, meant that they were no longer viable. In those cases, nothing remains but a few ruins in a Magic aura. Other fallen covenants are more interesting, and the sites may now be covered by Infernal auras generated by the final massacre when the covenant fell, or still contain the covenant's treasures, guarded by the magical traps that slew the attackers.
 
 It is almost impossible to found a covenant in Hibernia with fewer than a dozen fallen covenants within a day's travel, and at least one of those sites is almost certain to be interesting.
 
-## *A Story Told to Me by Éinri mac Cillíni*
+## A Story Told to Me by Éinri mac Cillíni
 
 "I had cause to visit the covenant of Vigil one season wherein my host, the magus Éinri mac Cillíni, told me a story of his parens that occurred during his macgnímartha.
 
@@ -857,7 +857,7 @@ The magus was affronted, "Why do you talk to me thus? I am a magus of the Order 
 
 And from that day, Bróccín was Cillíni's friend for he had taught him a valuable lesson, and all the druids and beasts of Ireland were friends with Bróccín."
 
-## *A Magical Responsibility*
+## A Magical Responsibility
 
 *And though the sons of Mil had taken Ireland, still the Tuatha Dé held great power over them. Therefor the sons of Mil gave dominion over all those places under the earth to the Tuatha Dé*
 
@@ -892,7 +892,7 @@ The extracting of vis from the aura is thought detrimental and against the princ
 
 Those creatures gifted with speech in any of the tongues of man are considered like man and may be represented at Tribunal. This status means that no covenant should molest them or take anything from their territory without permission or tribute in kind. In truth, even the Ordo Hiberniae is somewhat lax in this regard and the strength of the magus or covenant tends to impose itself in the power dynamics.
 
-## *Hermetic Literature*
+## Hermetic Literature
 
 The language of Hermetic literature is Latin, but, influenced by the example of the Church in Ireland, the use of vernacular Irish is increasing and it can be found in the glossing of Hermetic texts. This makes such embellishments difficult to follow for those who do not read Irish, and the +1 book quality (see *Covenants,* page 91) is not applied to their study total.
 
@@ -904,11 +904,11 @@ The continental magi find Irish books on Magic Theory to be overcomplicated and 
 
 
 
-## *The Treaty of Cnoc Maol Réidh*
+## The Treaty of Cnoc Maol Réidh
 
 The Treaty of Cnoc Maol Réidh was signed centuries ago. Successive Tribunals through the years have treated it as binding, behaved as if it were binding, and speak of it as if it were binding. There are some, on both sides of the Irish/English divide, who argue that this is no longer the case. It has not yet been formally tested at Tribunal as any mention of questioning the Treaty is generally shouted down and no reasonable debate can be held.
 
-## *A Simple Way of Life*
+## A Simple Way of Life
 
 Even the simple things that the Irish magi take for granted irk their continental colleagues. For instance, the English magi consider Irish vellum to be greasy and unsuited to their magical writings, with some choosing to import parchment for their own use. English magi often complain of the saltiness of the food and some even recruit cooks from their native countries.
 
@@ -918,7 +918,7 @@ Magi of the Ordo Hiberniae tend to refer to House Ex Miscellanea as "*The Younge
 
 Lastly, the two factions may be easily identified at Tribunal by their different styles of dress. Those of the Ordo Hiberniae typically wear a mantle in a patchwork of colors or patterns according to their status. Apprentices wear plain cloaks of a single color, those in their macgnímartha are permitted a cloak of three colors, magi wear five, and the praeco wears seven. Those magi deemed heads of their covenants wear six colors. This has not yet caught on with the recently-arrived magi and they typically wear fashions appropriate for their home Tribunal.
 
-## *Treaties and the Peripheral Code*
+## Treaties and the Peripheral Code
 
 *The Tuatha Dé called for a truce to be made between them, "Give unto the Fir Bolg the province of their choice," they said.*
 
@@ -928,7 +928,7 @@ Lastly, the two factions may be easily identified at Tribunal by their different
 
 Treaties record agreements between magi, covenants, or any other supernatural faction. Most Hibernian law consists of specific treaties created for specific individuals and cases rather than general rules. This makes it dense, cumbersome, and counter-intuitive. A ruling in a case involving vis, a magus, and a faerie and settled in the magus' favor in Munster in 1134 may not influence a case involving the same elements in 1220. This is deemed untenable by the English magi and they have demanded change at every Tribunal. In many ways, this mirrors the body of Brehon Law relied upon for centuries by the native Irish people before the mundane English nobles came.
 
-## *The Role of Treaties*
+## The Role of Treaties
 
 A treaty may be made between any individuals with right to be heard at Tribunal. This includes magi, covenants, the Order of Hermes, the Tuathe Dé, the Coill Trí, and so on.
 
@@ -937,7 +937,7 @@ They may be temporary, permanent, or have conditions specified which release the
 
 *Houses of Hermes: True Lineages*, page 63 discusses the Quaesitors and their role in negotiating and maintaining treaties between parties.
 
-## *Founding a Covenant*
+## Founding a Covenant
 
 The Order requires a magus to be resident in a Tribunal to exercise their right to vote (*Houses of Hermes: True Lineages*, page 49). In Hibernia, this is through membership of a recognized covenant. Those outside of a covenant are considered vagrant and risk exile, no matter how many years the magus has lived on Irish soil.
 
@@ -974,7 +974,7 @@ Unlike the continent, Hibernia does not recognize chapter houses nor liege and v
 
 Despite the obvious vulnerabilities, there are many independent magi who choose a solitary life over living with other magi and most Houses are represented among their number. In order to vote, they must produce a cathach, however, and must show that they have land, and prove their wealth through the keeping of cattle. In all respects, they must found a covenant, even though they may be its sole member.
 
-## *Attitudes to the Code*
+## Attitudes to the Code
 
 While treaties are the normal run of business with Hibernia, the Peripheral Code has some important provisions. The principle clarifications are outlined below.
 
@@ -982,7 +982,7 @@ While treaties are the normal run of business with Hibernia, the Peripheral Code
 
 **Slaying a Magus and Wizard War**: Slaying a magus outside of Wizard War is a high crime, though the standard defenses do apply. Any magus at-
 
-## *Extract from The Journey of Cernach an Chairn*
+## Extract from The Journey of Cernach an Chairn
 
 And so Cernach an Chairn visited Senaig mac Aedo, cousin to Ruarc mac Bran, the King of Leinster. He took with him a cloak of night, in which a prince of the Tuathe Dé was swathed from head to foot. He took with him a giant yoke of Gaillimhe birch, under which a Fir Bolg monk was weighed down. He took with him a finely-crafted box, which on the outside was clothed in sea-shells raked from the shores of Tory Isle and which on the inside the voice of the Fomórach was contained.
 
@@ -1024,7 +1024,7 @@ A hedge wizard has the right to petition a covenant for membership. In principle
 
 Wizard War must be declared against a hedge wizard before attacking him, just as for a Hermetic magus. Slaying a hedge wizard outside of this declaration is the crime of assaulting the allies of the Order. Magi who declare Wizard War on "all hedge wizards" (quite possible under the Hibernian Peripheral Code) have traditionally been persuaded to let the War lapse. So far, none of the English magi have made such a declaration.
 
-## *Attitudes to the Cathach*
+## Attitudes to the Cathach
 
 Any magus caught in possession of a justly-claimed cathach is treated just as if he had invaded a magus' sanctum. The successful thief must protect the cathach for a year from all other aggression if he is to claim the covenant's resources.
 
@@ -1034,7 +1034,7 @@ In any case, it would be a foolish covenant that left their cathach undefended, 
 
 The magi of Ireland recognized long ago that the best protection against aggression is to husband the land, give every man his due, and not deprive others of what is theirs.
 
-## *The Role of the Quaesitors*
+## The Role of the Quaesitors
 
 Hundreds of years of history and culture has given Hibernia's Quaesitors a Transitionalist outlook (see *Houses of Hermes: True Lineages*, page 41) and they interpret the Code in line with the Tribunal's cultural understanding.
 
@@ -1042,7 +1042,7 @@ Hibernia's Peripheral Code has been debated many times at Magvillus, both before
 
 Beyond the Code, Quaesitors in Hibernia fulfill the role of arbiters in disputes and their status and perceived wisdom means that they are often approached by those outside the Order for mediation or guidance.
 
-## *Sanctions*
+## Sanctions
 
 Just as Ireland's mundane justice typically shuns capital punishment, Hibernia rarely considers the March a fitting sanction, and this also applies to the removal of a magus' familiar or talisman. The main concerns of the Tribunal are to ensure recompense to injured parties and to correct errant behavior. As such, the Tribunal imposes fines, obligations, restrictions, and potentially exile.
 
@@ -1068,7 +1068,7 @@ The Coill Trí have certain obligations and should these not be fulfilled, their
 
 of each case. Those who displease the Order are forced to provide service or to give pawns of vis every season for a year, to stay out of a certain region, or accept some other punishment as befits the transgression.
 
-## *Tribunal Procedures*
+## Tribunal Procedures
 
 As elsewhere, each resident magus has one vote at Tribunal, which is held every seven years, is overseen by a Praeco, and administered by a presiding Quaesitor. Each gathering is held at Cnoc na Teamhrach, the Hill of Tara in Meath, home to the magical *Lia Fáil* or Stone of Destiny, and the covenant of Circulus Ruber traditionally makes all the arrangements including casting spells to erect a temporary settlement. The whole area at Tribunal time is a sea of smoking hearths, fluttering flags, servants, familiars, apprentices, and magi discussing the business of the last seven years. Each official session and meeting at Tribunal takes place in the large hilltop ráth that surrounds the Lia Fáil at the top of Cnoc na Teamhrach.
 
@@ -1080,7 +1080,7 @@ Covenants make a show of numbers and consortes, custodes, and other servants are
 
 Magic ensures good weather throughout the meeting and each covenant maintains an open-air fire pit with food always available. Bards and entertainers move through the meeting and the feeling is generally relaxed and conducive to good company. All this is quieted when the presiding Quaesitor calls each session to order.
 
-## *Representation*
+## Representation
 
 No magus may be represented without his covenant and no covenant may be represented without its cathach, which means that these powerful symbols of status must be transported to Tribunal and displayed throughout. The formerly-besieged covenant of Praesis did not travel to the last Tribunal and did not present its cathach. It is anticipated that its new rulers will have no such problems in future.
 
@@ -1106,7 +1106,7 @@ The Tuatha Dé confirm their ambassador at the Sacred Council, while the Fomóra
 
 Faeries other than the Tuatha Dé may send an ambassador. If they do not, House Merinita puts forward a representative at the Sacred Council. Beasts of the Magic realm that can speak and understand the ways of man may select a representative from within
 
-## *The Battle of Teamhrach*
+## The Battle of Teamhrach
 
 The Order of Hermes was loath to involve itself in the mundane conflict between the Viking kingdoms and the native Irish kings unless the northmen brought rune wizards. But in 980 Teamhrach was threatened by Olaf Cuaran, king of Dublin and Northumberland. Unwilling to see Teamhrach fall into the hands of northmen, the covenant of Vigil magically ensured a treaty between Máel
 
@@ -1120,13 +1120,13 @@ their own ranks. If they do not, a magus of the Order acts on their behalf. Indi
 
 These ambassadors are granted a voting sigil for the duration of the Tribunal and their votes count as the equal to any magus. The English magi oppose this most strongly and have argued the illegality and demeaning nature of it at every Tribunal since their arrival in Ireland.
 
-## *Irish Hermetic Terminology*
+## Irish Hermetic Terminology
 
 The Hibernian Tribunal has appropriated several Irish words to describe some of the particulars of the tribunal.
 
 **Brehon Laws:** The collected rulings of native Irish judges over the ages. They are civil laws more than criminal
 
-#### *The Contested Isle*
+#### The Contested Isle
 
 laws, and define political status, social relationships, inheritances, property rights, and compensation prices for offenses.
 
@@ -1156,7 +1156,7 @@ laws, and define political status, social relationships, inheritances, property 
 
 **Tuatha Dé Danann** (TOO-ah-ha JEY DON-on, also Tuatha Dé, TOO-ahha JEY): Faerie creatures, the pagan gods and heroes of ancient Ireland.
 
-## *The Ambassadors to the Tribunal*
+## The Ambassadors to the Tribunal
 
 The current ambassadors to the Hibernian Tribunal are:
 
@@ -1179,9 +1179,9 @@ The faerie Mug Ruith (MUG RIH) is styled after a famous Munster druid. Learning 
 Mug Ruith lives on Dairbhre Isle, off the western coast of the Kingdom of Desmond. He owns a collection of enchanted items, including a gleaming chariot, a magical shield, and a stone that could once change into a poisonous eel but appears to have lost its power. His faerie daughter, Tlachtga, lives with him, a powerful druid in her own right. Many magi have looked for their home on Dairbhre Island, in search of treasure or lore or both.
 
 
-## *Chapter Five*
+## Chapter Five
 
-# *The Province of Connacht*
+# The Province of Connacht
 
 *Good be the land and the kingdom thou dost inhabit; bountiful is its harvest, its honey, its fish, its wheat, and barleycorn, fair and mild is its weather. All that is necessary for thee is to be found in this land.*
 
@@ -1193,7 +1193,7 @@ However, a centuries-old treaty forbids them from plundering Connacht for its re
 
 The province is ruled by the kingdom of Connacht, which also enjoys fealty from the kingdom of Bréifne to the north. Both kingdoms have so far held out against the English, but while the Connachta kings jealously guard their borders and ruthlessly put down any incursions, they owe tribute to the English and rule by accord alone.
 
-## *Geography*
+## Geography
 
 Connacht's craggy coastline to the north, west, and south is filled with cliffs, bays, and islands. There are many natural harbors and the coastal villages live off the sea and its shore while their livestock graze the steep hillsides.
 
@@ -1203,11 +1203,11 @@ plains in the central region and mountainous ridges to the north, west, and sout
 
 The province is bordered to the north by Ulster, to the east by Meath and Leinster, and to the south by Munster.
 
-## *The Peoples of Connacht*
+## The Peoples of Connacht
 
 Connacht has a number of clans that wield influence over its territory, and it is also the last refuge of the Fir Bolg and the land of the Coill Trí. As a result, its people tend to be knowledgeable about the supernatural and consult freely with druids.
 
-## *The Connachta*
+## The Connachta
 
 The Connachta families claim descent from Conn Cétchathach (Conn of the Hundred Battles), the once High-King of Ireland. Cousins to the Uí Néill, they have wielded power across Connacht unchallenged for centuries despite deep-seated family rivalries.
 
@@ -1217,7 +1217,7 @@ The Connachta families claim descent from Conn Cétchathach (Conn of the Hundred
 
 **The Uí Maine** (OO-ee MAN-yuh) drove the Fir Bolg westward when they took their lands near the Sionainne. The influence of the Uí Maine in Connacht has waned in recent generations and the Fir Bolg still harbor grudges against them. Families of the Uí Maine include the Ó Ceallaigh, the Ó Domhnalláin, and the Ó Fallamháin.
 
-## *The Fir Bolg*
+## The Fir Bolg
 
 Defeated at the hands of the Tuatha Dé, the Fir Bolg retreated to Connacht and conceded the rest of Ireland. They occupied all of Connacht for hundreds of years until the Milesians came and drove them even further to the west. While diminished in number, the three tribes of the Fir Bolg can still be found on the Aran Islands.
 
@@ -1225,7 +1225,7 @@ With the exception of the Fir Domhnann, the Fir Bolg are Christian, having been 
 
 While their influence as rulers has all but gone, they still have a wisdom earned through countless victories, and defeats, making them invaluable counselors to the rulers of Connacht. The Fir Domhnann, however, resent the rule of man as it was their ancestor Gannan who was awarded Connacht to rule after the coming of the Fir Bolg to Ireland.
 
-## *The Druids and the Coill Trí*
+## The Druids and the Coill Trí
 
 The nobles of Connacht consult and protect numerous druids and few in Connacht would bar a druid's way. Those hedge wizards with the gift of foresight may now be seeing the omens changing for Connacht, and thus the Connachta should be mindful of their druids and their advice to prepare. Within a generation, the English may not be kept beyond the border.
 
@@ -1233,24 +1233,24 @@ Magic and Faerie auras are plentiful in Connacht, and even in the Dominion there
 
 The Coill Trí is an imposition upon the druids of Connacht by the Ordo Hiberniae and many resent the restrictions they endure and the tribute they must pay; every seven years, Connacht must give up seven Gifted Connachta children to the magi ruling Leinster, Munster, and Ulster. This does not sit well, but just as the Fir Bolg and the Tuatha Dé after them owed tribute to the Fomóir, and the kings of Connacht owe tribute to the English, so the druids of Connacht must accept the same.
 
-## *Booleys and Crannógs*
+## Booleys and Crannógs
 
 Connacht has many villages that move with the seasons so as to better support their livestock and to go where the work and harvests are. This results in a number of *booley* villages, collections of simple dwellings occupied for only a season or two before the occupants move on to fresh pastures. This leaves many villages free to be used by faeries and many a traveler has been lured to a wicked fate upon looking for shelter in a booley when the fae are at home.
 
 Crannógs are structures built upon stilts or platforms of timber and stone rising out of a lake. These man-made islands support homes and even small villages. Most are now empty and abandoned, left to faeries and druids.
 
 
-## *Story Seed: Falling on Deaf Ears*
+## Story Seed: Falling on Deaf Ears
 
 A Bréifne farmer seeks out a druid to ask for help, offering one seventh of his harvest for the next seven years. A witch, protected by an Uí Raghallaigh noble, has entranced the farmer's son and will not release him from her spell. Traveling east, the farmer finds magi of the Order, but do the magi feel able to intervene or must they work through agents?
 
-## *The Diocese of Triburnia*
+## The Diocese of Triburnia
 
 The Diocese of Triburnia, also known as Kilmore, is coterminous with the kingdom of Bréifne and falls under the administration of the Archdiocese of Armagh. Bishop Tuathal Ua Connachtaig courted controversy by swearing an oath of fealty to Henry II in 1172 in his capacity as Bishop of Kells. It was a move that angered many and the Church appears complicit in moves to give the English further influence over Bréifne affairs. This is perhaps something that Hermetic newcomers to Hibernia might seize upon.
 
 The current bishop is Flann Ó Connachtaig, a scholar with no desire to oppose English influence in the region.
 
-## *The Kingdom of Bréifne*
+## The Kingdom of Bréifne
 
 The kingdom of Bréifne (BREYFnuh) extends from Sligo on Ireland's western shore almost to Kells to the east. It borders Ulster to the north, Meath to the east, and the Kingdom of Connacht to the south. Importantly, it spans the River Sionainne, long considered the border between the province of Connacht and the rest of Ireland.
 
@@ -1262,7 +1262,7 @@ While the land is fertile, Bréifne is sparsely populated and replete with Magic
 
 Bréifne poses a particular problem for the Order. While the crown of Bréifne itself is subject to the *kingdom* of Connacht, the old treaty is unclear on whether *Connacht* is considered to stop at the Sionainne or to cover all lands subject to the kings of Connacht. At present, there are no covenants to be found in Bréifne and the Coill Trí argue that the land is theirs.
 
-## *Kings of Bréifne*
+## Kings of Bréifne
 
 The most influential families in Bréifne are the Uí Raghallaigh clan to the east and the Uí Ruairc clan to the west. These wealthy and militarily strong families command extraordinary loyalty from their people and have come to blows countless times over control of Bréifne, each with their own allies from within Connacht and beyond.
 
@@ -1273,7 +1273,7 @@ The English exert their influence in Bréifne affairs from outside Connacht and,
 
 If your saga follows real-world history, the feud between the two clans reaches a head in 1256 when Bréifne is split in two. The priory that stands on the Druim Leatan ridge separating Uí Ruairc from Uí Raghallaigh forms part of the boundary between the Bréifne Uí Raghallaigh to the east, and the Bréifne Uí Ruairc to the west. When this happens, both kingdoms remain subject to the kingdom of Connacht.
 
-## *West Bréifne*
+## West Bréifne
 
 The western part of Bréifne, ruled by the Uí Ruairc family, is a dramatic wooded land ringed with high mountains. These woodlands provide good hunting and are filled with wild pigs, boar, deer, and all manner of game birds. Wolves are also common, and eagles are often seen overhead.
 
@@ -1286,7 +1286,7 @@ The 50-foot tall Glencar Waterfall in Bréifne's north-west flows with clean fre
 
 The Black Pig's Dyke runs north to south through West Bréifne before running west to east and then rising south to north through East Bréifne. This Faerie trod is in a poor condition and is not currently continuous. The Connachta druids want to keep it that way; if it were replowed it would form a boundary around Ulster, which would carve into Connacht and open up more land for the Order of Hermes to claim.
 
-## *East Bréifne*
+## East Bréifne
 
 East Bréifne is bordered north and south by Ulster, Meath, and Leinster. Little wonder then that these Uí Raghallaigh lands are subject to interference from the English and their Irish vassals. Despite the constant antagonism, many magical places in the region have been preserved and magic is strong here.
 
@@ -1304,7 +1304,7 @@ Cavan sits to the south-east of a complex of small lakes, many of which support 
 
 At a distance of about five miles on each side, the towns of Kilmore and Cavan are surrounded by the Black Pig's Dyke to the west, north, and east.
 
-## *The Kingdom of Connacht*
+## The Kingdom of Connacht
 
 *When the people of Nemed told him of the tribute demanded by the Fomóir, Fionntan gave them wise counsel and told them that whatever tribute the Fomóir imposed upon them that it was in their power to either bear it or escape it.*
 
@@ -1314,13 +1314,13 @@ The last free king of Connacht was Ruaidhri Uí Conchobhair (ROO-ri OO-a CON-kho
 
 Ruaidhri Uí Conchobhair abdicated as High-King of Ireland and retired to the monastery at Cong, dying in 1198. The current king of Connacht is his half brother, Cathal Uí Conchobhair. If your saga follows real-world history, Cathal remains king of Connacht until 1224 when he is succeeded by his son Aedh. The title of high-king is lost forever, with the exception of two failed attempts to restore its authority.
 
-## *The Archdiocese of Tuam*
+## The Archdiocese of Tuam
 
 The archdiocese of Tuam is coterminous with the kingdom of Connacht, its range reinforcing the crown's authority over its lands. The placing of the diocese of Triburnia under the archdiocese of Armagh ignored the subject nature of the kingdom of Bréifne and has been a source of dispute ever since.
 
 The archdiocese covers eight dioceses; Killala and Achonry to the north; Mayo, Tuam, and Elphin centrally from west to east; and Annaghdown, Cill Mhic Dhuach, and Clonfert from the south-west to the south-east.
 
-## *The Diocese of Killala*
+## The Diocese of Killala
 
 Much of the diocese of Killala, consisting of the north-westerly tip of Connacht, is mountainous and sparsely-populated with extensive inland marshes and peat bogs.
 
@@ -1336,7 +1336,7 @@ The Stags of Broadhaven are a series of islands that rise steeply from the sea, 
 
 Conniving, lascivious, and duplicitous, Meadhbh knew every type of magic that could control a man's head and heart and she employed this against mortal and immortal alike. Those who think the faerie Queen Maedhbh powerless in death should think again. Her mortal form may be buried at Cnoc na Ré, but her spirit still holds court and she may be sought out by kings, princes, and druids, offering her power to those who would give themselves to her. Her jealous love for Connacht may be roused should the Ulaidh deign to attack and she could lead a mighty army out of the Otherworld to meet them on the battlefield.
 
-## *The Diocese of Achonry*
+## The Diocese of Achonry
 
 The diocese of Achonry is separated from Killala to the north by a ridge of mountains and from the Kingdom of Bréifne to the east by nothing more than good intentions. As a result, the people of Achonry must balance their favor between the Uí Ruairc kings of Bréifne and the Uí Conchobhair kings of Connacht.
 
@@ -1374,7 +1374,7 @@ The Fomórach king Balor of the Baleful Eye was slain by Lugh of the Tuatha Dé 
 
 search of a cathach to remove the eye from the lake, the aura would fade.
 
-## *The Diocese of Mayo*
+## The Diocese of Mayo
 
 The diocese of Mayo was officially dissolved in 1202 by a Papal legate, with all subject lands and monasteries transferring directly to Tuam. The clergy of Mayo have been resistant to the change despite the decision having been ratified by Pope Innocent III in 1216. If your saga follows real-world history, this is confirmed again in 1221 by a further legate and finally by Pope Gregory IX in 1240.
 
@@ -1390,7 +1390,7 @@ Both of these mountains provide excellent visibility across the land, which may 
 
 Visible from Néifinn, Lough Conn and its neighbor Lough Cullin, to which it is linked, form a lake complex nearly ten miles long. Lough Conn discharges to the Atlantic through the River Muaidhe (MOY), noted for the wealthy churches dotted along its length.
 
-#### *The Contested Isle*
+#### The Contested Isle
 
 It is said that Lough Conn was formed by a great boar being chased by Fionn mac Cumhaill and his hounds Conn and Cullin. As the magical boar ran, water poured from its feet, so much that the two lakes were created and Finn's hounds drowned. The boar was never caught and still roams freely in the Faerie realm, though it has not been sighted in the mortal world since the chase.
 
@@ -1414,7 +1414,7 @@ The island has a number of natural harbors, sheltered by the high cliffs, includ
 
 Clew Bay is a large natural ocean bay, protected at its mouth by the mountainous Clare Island and inshore by numerous drumlins, small submerged hills the tips of which just breach the surface. Some say the drumlins are actually faerie whales, free to roam the ocean at high tide but turning to stone when the tide turns. It is certain that nobody who counts the drumlins on different days arrives at the same count twice.
 
-## *Story Seed: An Appeal*
+## Story Seed: An Appeal
 
 A clerical companion character is approached by the clergy of Mayo to take their case to Rome to argue against the dissolution of their diocese. They feel an outsider's voice added to their own may give them the weight they need. When the cleric receives a menacing visit from agents apparently sent by the Archbishop of Tuam, it seems that Tuam is prepared to go to supernatural lengths to secure its hold on Mayo. But is the archbishop really behind this, or is he just a pawn in a larger game?
 
@@ -1430,7 +1430,7 @@ Caoranach herself was knocked from the sky, falling into the lake now called Lou
 
 Croagh Patrick itself is an important pilgrimage site and has a strong Divine aura. Numerous shrines to Patrick surround the mountain and a small church has been built on its summit. However, the roads in the area can be dangerous and robbers, faeries, and demons alike test the faith of those going to Lough Nacorra. If using the pilgrimage rules presented in *The Church*, page 16, these trials form useful oppositional elements when calculating the Pilgrimage Level.
 
-## *The Diocese of Tuam*
+## The Diocese of Tuam
 
 The city of Tuam is a fading center of political and economic power. It is here that the Uí Conchobhair dynasty sought to strengthen their grip on Connacht with a castle built in 1164. But the city has not fared well since then. Although home to five monasteries and several high crosses, Tuam has been without its cathedral since it burned to the ground in 1184. With the king's abdication in 1185, and the tensions with the English on Connacht's borders, little attention has been turned to rebuilding it.
 
@@ -1476,11 +1476,11 @@ The island itself is home to a monastery founded by St. Feichin, which has strug
 
 These twin islands about five miles off the Connemara coast bear a strange magical curse. Despite the islands' mild climate
 
-#### *The Contested Isle*
+#### The Contested Isle
 
 and plentiful food, those who live on the islands age more quickly than those on the mainland, suffering a –1 Living Conditions penalty. There are numerous ruins on the island, left behind by the monks who died without replacement, some as recent as the monastery founded by Saint Colman on Inishbofin that dissolved in the 10th century. Some research would be required to see whether an effect like the Aegis of the Hearth could protect inhabitants against the curse.
 
-## *The Diocese of Elphin*
+## The Diocese of Elphin
 
 The Diocese of Elphin occupies the eastern edge of Connacht and is bounded by the River Sionainne for its length. Those who live in the diocese look nervously across the Sionainne for signs of English aggression, and with good reason. The Hermetic covenant of Praesis is located on an island between Connacht and Leinster and it is well known that the Leinster druids have been at war with those of Connacht. Many men of Elphin have already died defending these druids, and with their loss the fear is that a new English assault cannot be far behind.
 
@@ -1509,7 +1509,7 @@ The town of Roscommon holds numerous market charters and many roads pass through
 Ten miles to south east of Roscommon, just south of Lough Ree, the English control a large stone bridge that spans the River Sionainne and joins Leinster and
 
 
-## *Story Seed: The Swords of the Fer Caille*
+## Story Seed: The Swords of the Fer Caille
 
 When a number of villages on the Meath side of the Sionainne are put to the sword by mysterious and savage warriors, the Bishop of Athlone asks the magi of Leinster for their help. These Fer Caille are faeries (*Realms of Power: Faerie*, page 77) looking for mortal heroes to fight and slay them. The trouble is that the Connachta men are following the Fer Caille example and raiding against Meath holdings. Can the magi arm and prepare their grogs and consortes to withstand the Fer Caille? And what orders do they give concerning the mortal men of Connacht?
 
@@ -1529,7 +1529,7 @@ Nine miles north of Roscommon is a small collection of barrows. These barrows co
 
 Near the small town of Athleague there is a single standing stone called the Castlestrange Stone. Egg-shaped and a yard along its longest dimension, the stone is inscribed with a single continuous winding pattern across its surface. There is no supernatural aura but those who have touched the stone claim it to be unnatural. As a result, few are prepared to move it from the shallow hillside on which it can currently be found.
 
-## *Story Seed: The Cry of the Banshee*
+## Story Seed: The Cry of the Banshee
 
 A banshee is heard to wail, and the youngest of the family Congal Mac an Fhailghigh sees it outside their home. The urchin immediately runs in to the night, and finds a way to discover the characters, asking them to help stop the banshee, or
 
@@ -1538,7 +1538,7 @@ change the doom on his family. The death will surely occur soon; will the charac
 
 It is similar to another stone near the village of Bullaun to the west, though that one is larger and more upright. The designs are strikingly similar. If the two could be studied together, perhaps the meaning behind the carvings could be discovered.
 
-## *The Diocese of Annaghdown*
+## The Diocese of Annaghdown
 
 The small diocese of Annaghdown has a small human population, but it is notable as Ireland's Fir Bolg population falls under its influence.
 
@@ -1557,7 +1557,7 @@ The Fir Domhnann of Árainn Meáin are the smallest of the three tribes and they
 
 Tempull Bheanáin is a small oratory situated on high ridge on the south-east of Árainn Thiar. It is outwardly very small and appears to be an abandoned ruin. On stepping through into the Terrestrial regio that overlays it (see *Realms of Power: The Divine Revised Edition*, page 13), however, the church is large and overwhelmingly beautiful and no harm may come to those inside.
 
-## *The Diocese of Cill Mhic Dhuach*
+## The Diocese of Cill Mhic Dhuach
 
 The Diocese of Cill Mhic Dhuach is the ancestral home of the Uí Fiachrach. It is now wealthy but lacking in the military might it needs to defend itself from raiders crossing the border from Munster to the south.
 
@@ -1573,7 +1573,7 @@ Fir Mhor is a large ring fort near the village of Bullaun and the larger town of
 
 The Rath is also home to a yard-tall standing stone, upright and rounded, and covered with a continuous swirling pattern. It is clearly related to the Castlestrange stone in Elphin and may even bear the same enchantments.
 
-## *The Diocese of Clonfert*
+## The Diocese of Clonfert
 
 The cathedral at Clonfert grew out of the earlier monastery and the church was started around 1180. A magical stonemason worked upon the great arch that surrounds the doors and such is the beauty of his work that supernatural beasts from all the realms traveled to see it. Even now, the stonework bears the images of those who came to see the stonemason work.
 
@@ -1595,11 +1595,11 @@ His work so far has centered on the creation of Amulets (*Hedge Magic Revised Ed
 
 what brought the Order their power, and what protected them while lesser wizards fell. So these wizards began to turn their abilities to research.
 
-## *Setting and Physical Description*
+## Setting and Physical Description
 
 The druids of Oireadh do not live and work together in the manner of Hermetic magi. Instead, they meet every season in the village of Oireadh, which is no more than two day's travel for each member. Each of these druids has his own aura supporting his own supernatural tradition.
 
-## *Culture and Traditions*
+## Culture and Traditions
 
 Oireadh is a collection of druids who support each other in their magical and mundane pursuits. The effect of The Gift has been hard to put aside, but living so far apart seems to help, as the antagonism inherent to The Gift only manifests when meeting in person. Each of the druids has his own helpers and messengers and these are frequently employed to take messages between the druids; they can often be encountered on the region's roads and tracks.
 
@@ -1607,7 +1607,7 @@ The more academically-minded of the Oireadh druids have turned their thoughts to
 
 Principally resident in Connacht, the druids of Oireadh have no love for the English.
 
-## *Magi*
+## Magi
 
 There are currently eight druids sworn to the Pact of Oireadh. It is important to note that, unlike the Order, Oireadh does not discriminate between traditions and so a Fir Bolg is free to sit at council with a Witch, a Goetic Sorcerer, and a Learned Magician. These principle members are described below.
 
@@ -1619,11 +1619,11 @@ There are currently eight druids sworn to the Pact of Oireadh. It is important t
 
 He sees his work as being for the greater good. While he would prefer to take the glory he is aware that it is the work of more than a single lifetime. He is cautious about revealing too much to the Coill Trí as he knows of their connection to the Ordo Hiberniae and is concerned as to their potential reaction. This is especially resonant as the Coill Trí recently took a Gifted child from him in order to provide tribute to the Hermetic magi across the border.
 
-## *The Pact of Oireadh*
+## The Pact of Oireadh
 
 The Pact of Orieadh is a group of druids intent on creating their own unified theory of magic with the ultimate aim — unknown to the Order — of creating their own form of Parma Magica.
 
-## *History*
+## History
 
 The covenant of Praesis was once a meeting place between the hedge wizards of Connacht and the Ordo Hiberniae. With all those years of dialog and exchange, it is not surprising that some of those hedge wizards would wonder at the magical secrets being kept from them.
 
@@ -1658,7 +1658,7 @@ Of the Pact of Oireadh, Mór Greannach is the one with the widest contacts among
 
 Mór Greannach is also the closest to Oireadh as she lives in nearby Carrowmore.
 
-## *Oireadh Story Seeds*
+## Oireadh Story Seeds
 
 The following story seeds serve to introduce Oireadh and its druids.
 
@@ -1695,13 +1695,13 @@ Tuathal maintains a well-equipped workshop in the coastal village of Rosbeg to t
 
 See *Realms of Power: The Infernal* (pages 114–119) for more information on the Goetic Arts.
 
-## *Covenfolk*
+## Covenfolk
 
 The druids do not have covenfolk as such but the villagers of Oireadh, having been well paid for their hospitality, are loyal to them. Over the years, they have learned where each of the druids can be contacted.
 
 The villagers are particularly wary of those who come to the village looking for the druids (treat this as an additional –1 to any social interaction rolls) and secretly send a messenger to Mór Greannach to warn her of the visitors.
 
-## *The Covenant of Praesis*
+## The Covenant of Praesis
 
 **Symbol**: A spear formed from thigh bones and a skeletal hand
 
@@ -1712,7 +1712,7 @@ The villagers are particularly wary of those who come to the village looking for
 
 Left to fend for itself by the Tribunal, the winter covenant of Praesis fell to foreign adventurers. Once the shining example of friendship between the druids of Ireland and the Order, to some it now represents the dangers posed by outsiders, while to others it demonstrates that Hibernia itself needs to change. Whatever the arguments, the new masters of Praesis face the hard task of dragging the covenant out of winter.
 
-## *Cathach*
+## Cathach
 
 The Gáe Bulg is a spear made from the bones of the monstrous witch Coinchenn, slain by Art, son of Conn. It is formed from her two great thigh bones and capped with her clawed right hand. If the spear should pierce its target, the clawed hand closes around the target's bones or guts, and it cannot be removed until the target is dead.
 
@@ -1732,7 +1732,7 @@ Praesis was stronger than it appeared, however, and the attack was resisted. Fro
 The siege lasted the turn of four seasons of stand-off, during which time numerous mundane mercenaries and several young magi, allies to both sides, lost their lives. While the covenants of Hibernia debated, the war continued. The sides seemed evenly matched, man-for-man and magic-for-magic, but Ballack's nerve held out longer. As the last of the Praesis' allies fled, Báetáin Ua Traimair of Praesis negotiated a peace with Ballack; the cathach in return for safe passage for Meadhbh. The terms were accepted and Ballack has been in control of Praesis ever since. Meadhbh claimed sanctuary at the covenant of Qui Sonant Pro Quieto.
 
 
-## *Setting and Physical Description*
+## Setting and Physical Description
 
 Praesis occupies a stone tower raised on a wooded island in Lough Ree. Sitting between Connacht and Meath, it has the village of Annaghmore to the west and Agharanagh to the east. It is far enough from both shores that spells with Voice range do not carry. The rubble from the original tower and covenant outbuildings lies scattered around and the new tower is the result of Hermetic ritual.
 
@@ -1742,17 +1742,17 @@ The location was originally chosen for its symbolism, sitting as it does between
 
 The western shore of Lough Ree is a faerie trod (*Realms of Power: Faerie*, page 21). The natural boundary has a Faerie aura of 5 and it has the power to take the traveler to a number of other trods across Connacht.
 
-## *Culture and Traditions*
+## Culture and Traditions
 
 Praesis is cold and austere, and the ruins of laboratories can be seen from nearly every window in the tower, serving as a reminder of the conflict. The covenant holds a weekly council to determine the whereabouts, state, and intent of Meadhbh and her supporters, and to ensure their defenses are as strong as possible in case they attempt to retake the covenant.
 
 Through the last two seasons Guillaume Flambeau of Normandy has been briefing his colleagues on interesting sites his spies have found across the Connacht border. Praesis often plays host to a changing roster of foreign magi recently arrived in Hibernia, and the gaze of these magi is shifting to Connacht with growing interest.
 
-#### *The Contested Isle*
+#### The Contested Isle
 
 Villages on both sides of Lough Ree are more fearful of magi and their servants than usual, only reluctantly providing goods and service. Treat those associated with Praesis as having the Infamous Flaw (**ArM5**, page 55) and the level 4 bad Reputation that goes with it.
 
-## *Magi*
+## Magi
 
 There are six magi who live at Praesis and a further two apprentices. The four principals are described below.
 
@@ -1776,7 +1776,7 @@ Báetáin Ua Traimair is a traitor. Originally one of the magi besieged *by* Bal
 
 He rarely leaves the old tower now. Every time he does he passes the burned homes of those he once knew. He can still hear their screams as the fire rained
 
-## *Story Seed: Remember Who You Work For*
+## Story Seed: Remember Who You Work For
 
 When a player character becomes involved in a cult or society, they are ordered to take a message to the errant Ballack who has been forgetting the debts he owes to some powerful and mysterious benefactors. While not a member of the cult, Ballack benefited from their aid. Can the younger magus exert the authority of the cult over Ballack?
 
@@ -1809,16 +1809,16 @@ Brought up in the covenant of Qui Sonant, Cacht is a Hibernian native, a maga of
 
 Having killed in Ballack's name, she subsequently lost interest in his aims. She has no particular cause and resides at Praesis only until one is brought to her, but she listens intently to Guillaume's reports on Connacht sensing a new conflict in the making.
 
-## *Covenfolk*
+## Covenfolk
 
 Aside from a few personal servants brought by the conquering magi, the covenant has yet to recruit new covenfolk. The exception is the turb of Breifne mercenaries led by Guillaume. They are content to work for to Guillaume as long as they are paid well and have a plentiful supply of food, fighting, wine, and women. The area around Praesis has learned to fear the men of Breifne.
 
 The giant-blooded Oscar von Harz is entirely without fear and is utterly loyal to Ballack. The white-haired giant is the current guardian of the Gáe Bulg and he can be found on a wooden platform looking out to Meath holding the terrible spear in challenge to those who would try to steal it. While outside the Aegis of the Hearth as convention dictates, the tower and the spear are actually within a regio, out of sight of the mortal world, and are well-warded and protected with magic. Oscar has seen his death, thanks to the magic of the Gáe Bulg. All anyone knows is that he has taken an interest in the legends of the Fir Bolg since being given the spear.
 
 
-## *Chapter Six*
+## Chapter Six
 
-# *The Province of Leinster*
+# The Province of Leinster
 
 *Now Diarmait mac Murchadha was a man tall of stature and stout of frame; a soldier whose heart was in the fray, and held valiant among his own nation. From often shouting his battle-cry his voice had become hoarse. A man who liked better to be feared by all than loved by any. One who would oppress his greater vassals, while he raised to high station men of lowly birth. A tyrant to his own subjects, he was hated by strangers; his hand was against every man, and every man's hand against him*.
 
@@ -1826,11 +1826,11 @@ The giant-blooded Oscar von Harz is entirely without fear and is utterly loyal t
 
 Leinster is the southeastern province of Ireland, enjoying a warmer and dryer climate than the rest of Hibernia. With many ports that encourage traders to cross the Irish Sea, it has strong links with England and Wales, particularly with the English port of Bristol. Once inland, the fertile coastal strip gives way to the Wicklow Hills, a low range of mountains that provide a natural barrier to invaders and have long acted as a refuge for outlaws and the dispossessed. The Kingdom of Leinster has waxed and waned in size over the centuries, and has at times been somewhat smaller than the Province of Leinster. Although the Ua Broin and Ua Túathal clans lead a fierce resistance from their hide-outs in the Wicklow hills, it is here that the English first came to aid Diarmait, King of Leinster, and it is here that their grip is strongest.
 
-## *The Peoples of Leinster*
+## The Peoples of Leinster
 
 Three cultures have shaped Leinster: the Laighin; the Osraighe who live in the west; and the Norse Vikings who founded the ports. The English have ruled for sixty years, but their influence is only beginning to be felt.
 
-## *The Laighin*
+## The Laighin
 
 Míl Espáine had four sons who reached Ireland, but it was Míl's uncle Lughaidh mac Íth who was the ancestor of the Laighin (LOH-yin), the tribe who give their name to Leinster. The Laighin were founded when Labraid Loingsech, a grandson of the high-king, was forced to eat the hearts of his grandfather and father. They had been murdered by his great uncle, who became high-king. From that day on the boy was struck dumb, or at least never spoke, until one day when he was hacked on the shins playing hurling, and cried out "I am hurt!" Someone shouted "Labraid!" that is, "he speaks!" and from then on that was his name.
 
@@ -1845,7 +1845,7 @@ The Kingdom of Leinster was founded by Úgaine Mór, a great Laighin High-King o
 After successfully recapturing his lands with the help of the English adventurers, Diarmait was devastated by the death of his son Domhnall. By marrying his daughter Aoife to Strongbow he passed the royal line to the English after his death in 1171.
 
 
-## *The Osraighe*
+## The Osraighe
 
 The former Kingdom of Ossory in the west of Leinster is home to an Érainn people called the Osraighe (OSray), that is "Deer People." They are the descendents of Oengus Osraigh and were a powerful kingdom until defeated by the Ulaidh at the Battle of Tola in 571, and subsequent wars against both the Vikings and Laighin that diminished their power until their kingdom split into three parts at the start of the 12th century. Their tuaths became part of the Kingdom of Diarmait mac Murchadha they rose up in rebellion until subjugated by Strongbow.
 
@@ -1853,17 +1853,17 @@ Their hostility to the English made them early targets for subjugation, with Wil
 
 # Leinster, but with the expulsion of King
 
-## *The Ostmen*
+## The Ostmen
 
 From the eighth century on, the Vikings raided Ireland. Soon they came to settle, founding the ports of Limerick, Cork, and Waterford, and — in Leinster — Dublin and Wexford as major Norse towns. Their influence was largely confined to the immediate hinterlands of the ports. The Norse soon began to intermarry with the native Irish population over whom they formed an elite warrior aristocracy within their towns.
 
 By the tenth century, the Norse had converted to Christianity and were greatly assimilated, while retaining certain aspects of their culture, and by the 11th century they were speaking a Hiberno-Norse dialect of the Irish language. As early as the Battle of Clontarf the Norse from Wexford joined forces with Brian Bóramha against their fellow Scandinavians, and the English invasion has eliminated Norse rule from the ports, though the Ostmen, as they are known, still comprise a recognizable racial and cultural minority, albeit one that speaks in the Irish language and has adopted Irish traditions.
 
-## *The County of Wexford*
+## The County of Wexford
 
 While only sixty years have passed since the coming of the English, the region around Wexford has become in many ways similar to England or Wales, with villages and markets, and a largely Anglicized population. It is culturally unique in Hibernia in this respect.
 
-## *Wexford*
+## Wexford
 
 *Fitz Stephens lost no time in preparing for the attack … an assault was made on the walls with loud cries and desperate vigor. But the townsmen were ready … casting down from the battlements large stones and beams … Withdrawing from the walls, they gathered on the neighboring strand and set fire to the ships they found lying there. On the* 
 
@@ -1880,36 +1880,36 @@ Wexford was a Viking settlement, and is still Norse in character. In 1169, King 
 
 The town has strong walls; before leaving for France from here in 1172, King Henry II granted the milling rights to the Templars, who maintain a small garrison.
 
-## *Bannow*
+## Bannow
 
 Bannow bay is a fine natural harbour and it was here that the English under Strongbow first landed, taking advantage of an ancient ráth on the promontory as a fortified camp before they marched on Wexford. The town is a prosperous port.
 
-#### *The Contested Isle*
+#### The Contested Isle
 
-## *Templeshanbo Church*
+## Templeshanbo Church
 
 A tiny hamlet at the foot of Mount Leinster, Templeshanbo was once the site of a monastery founded by Saint Colman named Temple Sean Bothe. The monastery is now gone, but the saint's feast day is still celebrated on October 27th. There is a curious pool near the church with a Dominion aura of 3 that is home to 13 wild ducks. If these ducks are hunted or disturbed they fly off and the waters turn brackish and stagnant until the ducks return. If anyone slays the ducks, the water in which the duck is cooked refuses to boil. Unless proper penitence is shown, the saint avenges the death of the duck by striking dead the offender. The ducks are extremely tame, and their feathers are a source of Divine Aquam vis once they have molted from the birds. Molted feathers may be collected freely.
 
-## *Enniscorthy*
+## Enniscorthy
 
 This is the fortified manor of Sir Gerald de Prendergast, a chivalric young English knight. He has ambitious plans to raise a great castle here like that of William Marshal the Younger.
 
-## *Story Seed: The Bay of Bannow*
+## Story Seed: The Bay of Bannow
 
 Bannow in 1220 is a thriving port, but one facing a problem. Over the last few years the harbor has increasingly silted up; navigation is becoming harder and harder, with larger ships forced to unload elsewhere. Some say this is part of a caileach's curse on the bay for allowing the English invaders to land, while others say a fisherman killed a seal maiden and has brought misfortune on the whole community. Whatever the reason, the rate seems much faster than has ever been seen before, and some say other harbors have started to silt up as well all round the coastline. What is the secret behind the bay's closure? Recently the town priest had a vision that where mud now threatened the town; air, fire, and water would bring about its total destruction. He is seeking learned help to save his home from the impending catastrophe.
 
-## *Story Seed: The Marshal's Curse*
+## Story Seed: The Marshal's Curse
 
 While William the Younger is a famous knight and important English official, he is a troubled man. He promised his beloved father he would hold his Irish lands intact, and does not want to restore the manors to the bishop, but he is unwilling to remarry and sire an heir until after the curse has been lifted. Has Ua Maíl Mhuaidh lifted the curse after their enforced reconciliation and exchanging the kiss of peace? The curse was to last until the manors were restored: William might seek out unusual assistance in finding a solution, even Hermetic magi.
 
-## *Story Seed: Helen of Ireland*
+## Story Seed: Helen of Ireland
 
 The "Helen of Ireland" stories give strength to a faerie named Aonghus who inspires romantic elopements and abductions to bring about wars. He is still actively attempting to inspire similar events, and will happily inspire infatuation, elopements or kidnappings. Despite their squabble Bishop Ua Maíl Mhuaidh has warned William the Younger of the faerie's malice, and this is the reason why William is building such a powerful castle, in which he plans to imprison his beautiful daughter to protect her from abduction as she grows up.
 
 
 Romantic and brave, he is very popular among the Irish in the area as well as the English settlers.
 
-## *Ferns*
+## Ferns
 
 An ancient capital of Leinster, Ferns was the refuge of King Diarmait mac Murchadha during the period before he called upon Strongbow and reconquered his lands. Here he lived with Derbforgaill, daughter of the King of Meath, whom he abducted from her husband Tigernán Ua Ruairc, the King of Bréifne. Known as "Helen of Ireland" for the role her abduction played in events that caused the Norman colonization, she lived here happily with her abductor. While all concerned are long dead, the story is much told and sung.
 
@@ -1923,15 +1923,15 @@ Standing in the center of the small town, Ferns Castle is home to William the Yo
 
 The elderly Bishop of Ferns, the Cistercian Ua Maíl Mhuaidh, is a favorite of the English throne (and the Papacy) despite being Irish born and having once stated in a sermon that Irish clerics had only begun to indulge in sexual misdeeds after seeing the example set by English and Welsh clergy. Renowned for his holiness and justice, he cursed the line of William Marshal to die out after William the Younger refused to return two manors illicitly seized by his father. This squabble has recently been patched up by the intervention of the Pope, but the manors are still in the Marshal's hands and he has no heir. The first Bishop of Ferns, Saint Yvorus, came here before Saint Patrick, and it was he who drove the rats from the village by his miraculous powers, as he did at Wexford.
 
-## *New Ross*
+## New Ross
 
 This was the site of a monastery founded by Saint Abban within the ancient kingdom of Ossory, and the English have founded a community here next to the ancient monastic ráth. It received a royal charter in 1207, and William Marshal helped develop it as a major port and built a stone bridge across the river, attracting trade and prosperity. The port has become just as known for its pirates as its merchants, and raids by the Irish clans have led to suggestions a wall should be built around the town. Agents of Theobald Butler are active in the town ensuring his right to wines offloaded is strictly enforced, but it is very much a frontier community and at times when the younger Marshal's men are distracted quite lawless.
 
-## *The Wicklow Region*
+## The Wicklow Region
 
 Consisting of the region around Carlow and Dublin, Wicklow is a low lying coastal plain rising sharply to the Wicklow mountains in the west. The mountains bar easy access for invaders to the plains of central Ireland. Some say they were formed by a miracle of Saint Brigid. The passes and roads that cross them are plagued by bandits and outlaws, and they presented a major barrier to Norse and later English invaders. The Ua Broin and Ua Túathal clans of the former rulers hide in the mountains, offering a fierce resistance to the English, who have Anglicized their names to O'Byrne and O'Toole. The wild nature of the terrain, with many dense woods, caves, and ravines between rocky hills, makes it almost impossible to tie down the outlaws and bring them under English authority.
 
-## *Baltinglass*
+## Baltinglass
 
 Here the ancient hero Glas slew one of the Swine of Drebrenn. The six monstrous swine were originally the three daughters of the witch Garbhdalbh and their husbands. Garbhdalbh magically changed them into terrible boars who ravaged Ireland until Queen Maebh and her consort Aillil managed to hunt them down and kill them. One died here at Baltinglass, and the name recalls the episode. A faerie form of the swine sometimes haunts the region, waiting for heroes to kill it, and until that time wreaks devastation upon the land.
 
@@ -1943,11 +1943,11 @@ On the hill above the tiny settlement is a ráth. Within is a mound with a stone
 
 King Diarmait mac Murchadha founded a Cistercian house here in 1148 with monks from Mellifont in Meath and the place became known as the "Valley of Salvation." Today it is home to 38 monks and 50 lay brothers, and one Christmas day they plan to defeat the faeries by marching to the top of the hill and raising a large wooden cross upon the mound. So far the abbot has counseled caution, but the monks are, in the main, enthusiastic for the plan. Baltinglass Abbey is currently involved in the Conspiracy of Mellifont, officially supporting their motherhouse against the Cistercian Order. While the abbot is an enthusiast for the actions of Mellifont in resisting Cistercian authority, his monks are loyal to Citeaux.
 
-## *Wicklow*
+## Wicklow
 
 Known to the Irish as Cill Mhantáin, meaning "church of the toothless one," the settlement was a Viking port, and retains a strong Norse feel. Here Strongbow's Norman ally Maurice fitzGerald built the Black Castle on a rocky headland overlooking the harbor. His son William FitzMaurice fitzGerald (married to Aoife the daughter of Strongbow) now rules over the town, which is a powerful center of English rule. The Ua Broin and Ua Túathal clans, now largely confined to the Wicklow hills by the English, often attempt to attack the town and the castle, so there is a strong military presence safeguarding this vital port.
 
-## *Glendalough*
+## Glendalough
 
 Glendalough — meaning "the valley of two lakes" — sits at the crossroads of two very important routes: the first road running east-west through the Wicklow Gap, crossing the second road running north-south from Dublin. It was home to the hermitage and later monastery of Saint Kevin. Glendalough was, until 1214, the center of the diocese of Glendalough, but the English have incorporated it in to the diocese of Dublin.
 
@@ -1963,15 +1963,15 @@ The story of Saint Kevin and the white fruit happened a long time ago, but the w
 
 There is an ancient tradition that anybody buried in the cemetery will go straight to Heaven and avoid spending time in Purgatory. The English churchmen mock this as superstition, but many heroes have chosen to be buried here in the past among the circle of miraculous willows.
 
-## *Story Seed: Divine Vis*
+## Story Seed: Divine Vis
 
 St. Kevin's Fruit has other properties, ones that will be especially interesting to magi. The fruit can be dried, and if properly dried using Hermetic theories — requiring that the drier has a score in Magic Theory — the fruit produces vis. It takes one month to properly dry one of St. Kevin's Fruits. The type of vis produced depends on where it was dried. If the fruit was dried in an area with a Magic aura it produces Corpus vis; if dried in a Divine aura the fruit yields Creo vis. Either way the vis is Divine.
 
-## *Story Seed: The Púca Speaks?*
+## Story Seed: The Púca Speaks?
 
 It is generally assumed that the Púca is an unintelligent beast, but this may not be so. It is possible it is willing to end its depredations in exchange for certain favors or conditions, and it may decide to speak to magi and request that it be ridden to Tribunal to represent itself there. However, it is of course possible that it is a powerful Infernal entity, and whatever its desires they are unlikely to be pleasant or easily met, even by the assembled magi.
 
-## *Archbishop Henry de Londres*
+## Archbishop Henry de Londres
 
 Archbishop Henry de Londres is a dynamic, ambitious figure of incredible personal bravery yet he has done much to anger the Irish and to destroy trust in the English. Henry summoned his tenants to appear before him with the title documents to their lands or else lose them; having taken possession of the deeds, he attempted to cast them into a fire, dispossessing his tenants of their lands. They immediately seized him, beat his attendants severely, and through sheer physical strength wrested back their deeds and forced Henry to concede their rights for fear they would slay him. This gave rise to his nickname among the tenants, "Henry the Scorcher." Rigorous in his enforcement of tithes on the citizens of Dublin, he showed little concern for the damage done by the Great Fire of 1190 that had left many in poverty. The exaction of the royal tallage, a tax on the citizens of Dublin in 1217, and Henry's unfortunate habit of simply taking goods he desired from merchants did little to win him favor. Another fire concerned him more: the Sacred Fire of Saint Brigid at Kildare that he has sworn to extinguish. His stated policy of denying bishoprics to Irish born priests, and only appointing English candidates, has been ruled illegal by the Pope; word has not yet arrived in Dublin of the pontiff's decision against him, but his claim that the diocese of Dublin holds the primacy over the traditional claim of Armagh (and the lesser claim of Cashel) has finally turned even the reform party in the Irish church against him. Very few people have a good word to say of Henry de Londres.
 
@@ -1979,13 +1979,13 @@ Archbishop Henry de Londres is a dynamic, ambitious figure of incredible persona
 
 The road here passes a cascading waterfall which tumbles down a rock face in to a black, silent pool of water. The area is haunted by a Púca (POO-ka), or kelpie, a malevolent being that takes the form of an attractive black horse wandering seemingly lost on the road. If mounted it immediately charges down the road at incredible speed, and plunges in to the pool where its unfortunate rider is either drowned or possibly consumed. While the locals know of the beast and avoid the road, especially at night, no one knows if this kelpie is a magical creature (*Realms of Power: Magic*, page 131) or a faerie version (*Realms of Power: Faerie,* page 89) or even infernal.
 
-## *Arklow*
+## Arklow
 
 Arklow is held by the nineteen year old Theobald Butler, the Butler of Ireland. He has the right by virtue of his office to offer a cup of wine to the King of England at the coronation, and to take two barrels of wine from every ship that unloads wine at an Irish port, so his agents are constantly busy across the island. His castle guards the harbor.
 
 There is a rock in the sea a few miles from Arklow where when the tide ebbs on one side it rises on the other. This powerful magical place is a source of Aquam vis, but many mariners have lost their lives in the treacherous waters around it. This place should not be confused with Arklow Rock, a hill some miles inland.
 
-## *Dublin*
+## Dublin
 
 Dublin is a Viking port, and was for centuries home to a large Norse slave market. Here many English and Welsh captives taken by piratical raids were sold, although this has now vanished under English rule. As elsewhere in Ireland, the Norse have long since adopted the Irish language and many Irish customs and law, but remain racially distinct. The Ostmen formed a ruling class within the city and, since the English invasion, have moved across the Liffey to the north to the settlement called Ostmantown. The Norse had built a wooden stockade and ditch around the town, but that has been replaced by a strong stone wall by the English who were besieged here early in the invasion period.
 
@@ -2006,15 +2006,15 @@ John Comyns, an Englishman, became Archbishop of Dublin after Lorcán died. In 1
 
 In 1204 King John ordered a strong castle to be built for the defense of Dublin. The castle is still under construction and consists of a square wall surrounding a courtyard with no keep, but with great circular towers at each corner. Immensely strong, it dominates the area.
 
-## *The Liberty of Kildare*
+## The Liberty of Kildare
 
 Created in 1206 by King John to assist in stamping out the resistance from the Uí Dúnlainge whom he had deposed, the Liberty of Kildare is still disputed
 
-#### *The Contested Isle*
+#### The Contested Isle
 
 territory in the north of Leinster, with the fierce Ua Broinand Ua Túathal clans fighting a guerrilla campaign from the Wicklow hills against the English lords who haveimposed their authority with a network of castles. The Liberty is a low lying inland area, bordered on the east by the Wicklow hills that stand between it and the center of English authority in Dublin.
 
-## *Kildare*
+## Kildare
 
 Know to the Irish as Cill Dara, it was here that in the last years of the fifth century St. Brigid founded an abbey that is home to both monks and nuns. One of the largest ráths in the region, the town flourishes as a regional center. It acted as a capital for the Uí Dúnlainge, who for centuries provided the royal dynasty of Northern Leinster. While the Uí Dúnlainge have not shown royal aspirations for two centuries now, their power in the region remains uncontested, and the three families — the Ua Broin, Ua Túathal, and Uí Dúnchada — continue to intrigue, with each tuath proclaiming a king and attempting to impose their will on the others. The Uí Dúnchada king Mac Gilla Mo-Cholmóg who ruled in the region closes to Dublin quickly accepted the English invaders, forming an alliance and taking the anglicized surname fitzDermot. The Ua Broin and Ua Túathal continue to resist English authority, with the Ua Túathal leading this alliance, and they have made the Wicklow Mountains a dangerous thorn in the side of the English administration.
 
@@ -2026,7 +2026,7 @@ The nuns and monks were dispersed, but a few remained to guard the sacred fire, 
 
 Extinguishing the flame may prove difficult. The perpetual fire stands outside the church surrounded by a wall of sharp thorn bushes, through which only the nineteen nuns who serve vigil here may pass safely. Each night one of the nuns takes up the task of guarding the fire, and any man who tries to enter is the enclosure is said to be struck down by a divine curse.
 
-## *Story Seed: Dousing the Fire*
+## Story Seed: Dousing the Fire
 
 Henry of Londres has been carefully considering reports of previous attempts to extinguish Saint Brigid's flame, and is a worried man. He has publicly announced that he will douse the fire, but if he fails the results will be a rise in the morale of the troublesome Ua Broin and Ua Túathal and doubtless their outlawed members will attempt to stop the ceremony. He therefore will proceed to Kildare with a large number of knights and mercenaries. He is certainly pragmatic enough to seek out magical advice and assistance in getting rid of what he suspects to be nothing more than ancient druidic magic, just in case his prayers do not prevail. He may well call upon a maga of the Order of Hermes to complete the task with him, trusting this magic-wielding woman to accomplish what may prove impossible for a man like him.
 
@@ -2040,13 +2040,13 @@ while in the past they fought each other, now they constantly raid and harass th
 
 The ancient monastery of Tulach-Fobhair stood just to the south of the current town, and was founded by Saint Fechin when he came here to negotiate the release of captives. Though the monastery has gone, the stone cross in the market place was set up in honor of this event, and crying out the name of the saint when imprisoned within voice range activates an ancient blessing to free all captives, as *The Captive Made Free* (see Chapter 12).
 
-## *Naas*
+## Naas
 
 This small town has developed rapidly in recent years with English settlers rededicating the church of Saint Patrick to Saint David (it is administered by the Knights Hospitaller). The town has long been of great significance. Naas is in Irish Nás na Ríogh*,* the meeting place of Kings, and in ancient times sacred kingship rites were performed here by the Kings of Leinster upon the motte known as the dun of Naas, a great earthwork mound. Controlling Naas is believed in some way to be related to the spiritual authority to rule the kingdom, though the secret of the kingship rites may have been lost.
 
 The town stands on the border between Ua Broin and Ua Túathal lands, and
 
-## *Bóinn, the Great White Cow, Tuatha Dé Danann River Goddess*
+## Bóinn, the Great White Cow, Tuatha Dé Danann River Goddess
 
 **Faerie Might:** 35 (Aquam)
 
@@ -2111,43 +2111,43 @@ Long ago the High-King of Ireland Túathal Techtmar had two daughters, Fithir an
 
 Overlooking the Bog of Allen to the west, this hill was in ancient times the royal palace of the kings of Leinster, later home to Finn. A great ráth here still has a strength 4 Faerie aura, and is a dangerous place to tread at night.
 
-## *Carbury*
+## Carbury
 
 Carbury was once the seat of Meiler FitzHenry, former Justiciar of Ireland. He built the motte and bailey castle here, though it was seized by Hugh de Lacy when he became justiciar, and it is now held by his son Walter de Lacy. The castle imposes English authority in the region around it, but each English lord is troubled by the ancient magic of the place. Carbury contains a faerie mound, Sidh Neachtain, "the fairy mound of Nuadha," and Nuadha still sleeps under the hill here. In a nearby regio is a faerie spring, known as the Well of Wisdom and home to magical salmon who can teach great secrets. The spring is ringed by nine willows and produces a potent amount of Imaginem vis whenever the nuts fall from the tree into the well. Most of the time the regio can only be entered by people guided by Nuadha or by following the River Boyne all the way upstream to this, its source. On Trinity Sunday it briefly manifests in the mundane world.
 
 Nuadha has a wife Bóinn (BONE), who often takes the form of a shining white cow. In ancient times she found her way to the spring, which exploded in a great torrent and formed the River Boyne. Bóinn and Nuadha often squabble; her unfaithfulness led to her giving birth to Aonghus by the Daghda. Doubtless this does much to explain the young Aonghus' interest in fostering stories of tragic romance leading to conflict, and Nuadha's well known dislike of Aonghus.
 
-## *Calverstown (Baile an Chalbhaigh)*
+## Calverstown (Baile an Chalbhaigh)
 
 Peter de Norrach, a descendant of Robert de St. Michael (companion to Strongbow) holds Castle Norragh at Calverstown, and the title of Baron Norragh. Nearby is the Augustinian abbey of Kilrush founded by William Marshal.
 
 
 
-## *Story Seed: The Witches of Kilkenny*
+## Story Seed: The Witches of Kilkenny
 
 Kilkenny has long been troubled by a coven of dark witches who are believed to be doing all they can to thwart the building of the accidentplagued cathedral. The truth is the accidents are exactly that; the witches of Kilkenny are members of the Coill Tri, and engaged only in a long running feud with each other. They are detailed in *Hedge Magic*, page 48.
 
 Investigating their actions and resolving their dispute may prove difficult given their secretive ways.
 
-## *Ossory*
+## Ossory
 
 The Kingdom of Ossory is a region of seven great plains occupied by an Érainn people, the Osraighe. For over a century subject to Leinster, they were great enemies of Diarmait mac Murchadha and his English allies, and the region continues to resist English encroachment, but has been subdued by the strong castles at Kilkenny and Kells.
 
-## *The Pass of Achad-ur*
+## The Pass of Achad-ur
 
 This was the site of a battle in 1169 between Diarmait Mac Murchada and his English allies and the Osraighe under Mac Giolla Phádraig. Diarmait and his mercenaries won possession of the pass, which leads to Munster through the hills, but retreated to Ferns. The Osraighe were scattered by the charge of the Norman cavalry. The pass remains an important route, and is plagued by bandits.
 
-## *Rock of Dunamase*
+## Rock of Dunamase
 
 This rocky outcrop had long been fortified but Meiler FitzHenry saw its strategic importance to the conquest and built a castle here. With Strongbow's marriage to Aoife the lands passed to his hands. Strongbow granted the Rock to William Marshal, who built a strong castle here now owned by his son, also William.
 
-## *Kilkenny (Cill Chainnigh)*
+## Kilkenny (Cill Chainnigh)
 
 In 1195, William Marshal built a great castle with four round towers, a curtain wall, and a ditch to protect the town and control the Osraighe. Kilkenny was an ancient monastic community with a church dedicated to Saint Canice, built by a ford in the River Nore. The town has flourished under English rule, being granted a charter in 1207. It was here that William Marshal married Strongbow's daughter Isabel de Clare, and appointed Geoffrey fitz Robert as seneschal. Fitz Robert soon took the title of Baron of Kells. When Marshal came to mistrust fitz Robert he took him as a hostage and held him at Hereford, where he died in 1211. Robert's son, William fitz Robert, succeeded to the title and holds the castle today. The old royal dynasty of Ossory, the Mac Giolla Phádraig, have taken the English name fitz Patrick and still hold considerable influence and power in the region, albeit as subjects of the English throne.
 
 Marshal built strong walls around the town, but outside of the original monastic community, and Kilkenny now has two separate centers: Irishtown, around the monastery; and the English Hightown, within the town walls. Irishtown is home to the magnificent cathedral, still under construction. In 1202 Bishop *Felix O*' Dulany moved the diocese of Ossory's cathedral here, and began work on a great stone church, and though he died that year the work continues.
 
-## *Kells*
+## Kells
 
 The small town of Kells (not to be confused with Kells in Meath) is known as the "city of the seven castles." Walled by the English, it has seven towers providing a strong defense for the Augustinian Priory of St. Mary founded in 1193 by Geoffrey fitz Robert. The town has achieved much prosperity under English rule, but is still subject to attacks by Osraighe clans who oppose the English.
 
@@ -2155,7 +2155,7 @@ The small town of Kells (not to be confused with Kells in Meath) is known as the
 
 A few miles from Kells is a clearing in the woods which holds an ancient cemetery, a place of great tranquility with a Magic aura of 4, and which may hold other secrets. An ancient round tower eighty feet high is open to the sky at the top, with four windows pointing in each of the cardinal directions. Some say the High-King Niall mac Áeda is buried here. The site is owned by the Priory of St. Mary, and the monks choose to let the site slumber in peace, but a covenant could be founded here among the sleeping dead if the abbot could be won over.
 
-## *Jerpoint Abbey*
+## Jerpoint Abbey
 
 This abbey was founded in 1180 by Donogh O'Donoghoe, a king of the Osraighe. The kings of Osraighe were strong supporters of the reform movement in the Irish Church, and founded a Cistercian abbey of St. Nicholas here. Previously it was the site of a failed Benedictine house founded in 1160 by Donogh's predecessor as king, Domnall Mac Giolla Phádraig, to house the relics of Saint Nicholas. They were brought here by Nicholas de Frainet, one of seven knights who returned from crusade with the bones of the saint. The Abbey is currently involved in the revolt against the Cistercian Order.
 
@@ -2165,12 +2165,12 @@ Within the abbey grounds is a ruined church. It holds the grave of Saint Nicho-
 
 
 
-## *Thomastown (Grianán)*
+## Thomastown (Grianán)
 
 This settlement was founded by Thomas fitz Anthony, just half a mile north of the Irish community of Grianán ("sunny place"). Thomas was a Welsh lord in the service of Strongbow, and still lives here happily with a large number of Welsh speaking retainers among his men and the settlers. Fitz Anthony has walled the town against Osraighe raids, and built his home, Grennan Castle, here.
 
 
-## *Ashenrise*
+## Ashenrise
 
 **Symbol**: A Scroll crossed with a Sword **Season**: Spring
 
@@ -2178,7 +2178,7 @@ This settlement was founded by Thomas fitz Anthony, just half a mile north of th
 
 Ashenrise's founders are magi from the Normandy Tribunal. Survivors of the fallen covenant Moles Magna, they have risen from the ashes of destruction and aspire to a dominant position in the Hibernian Tribunal. Their goal is to make the Tribunal more civilized by updating its barbaric Peripheral Code.
 
-## *History*
+## History
 
 Founders Helles and Pollices are refugees from Moles Magna (see *The Lion and the Lily: The Normandy Tribunal*, page 29). Following their covenant's collapse they traveled to Ireland, hearing that it had been settled by the Angevin Empire. Upon arrival, they discovered it was barely settled and that many of the barbaric native customs lingered. Needing a home, they decided to civilize the Tribunal's archaic legal traditions, considering it a worthy challenge to update Hibernia to 13th century standards.
 
@@ -2188,7 +2188,7 @@ Joined by three other magi, sodales brought from the Stonehenge Tribunal, the gr
 
 Since then Ashenrise has pushed to reform the Tribunal. Helles leads the debate, although as yet he has had little impact.
 
-## *Location*
+## Location
 
 Ashenrise castle sits in the Liberty of Carlow. Situated a few miles east of the River Barrow, north of New Ross, the castle grounds have a Magic aura of 1. The castle is held by Ralph fitz Stephen, a second cousin of Raymond le Gros, and was awarded to him for his help against the Uí Riain. The castle is build on a square plan, with a square tower in each of the fortification's four corners. Three towers hold two magi each, with the fourth tower reserved for mundane residences and activities. The courtyard holds a few wooden barns, storerooms, and a stables.
 
@@ -2196,7 +2196,7 @@ Ashenrise castle sits in the Liberty of Carlow. Situated a few miles east of the
 
 Ashenrise's cathach is the corpse of the former Merinita prima Rhiannon. She was buried with Christian rites, so Rhiannon's ghost is beyond Hermetic magic. The magi have magically enchanted the corpse, making it resistant to putrefaction and giving it the power to caper and dance on command. They have left the raw vis which has coalesced in its bones intact. It stands half a mile from the covenant's western tower, facing Connacht and Munster.
 
-## *Culture*
+## Culture
 
 Ashenrise magi strive to act as continental, civilized magi. Individual focuses in magic are pursued and fostered with lively discussions. They enjoy aristocratic pastimes, including hunting, hawking, and entertaining guests with extravagant feasts filled with song and dance. Their Hermetic neighbors regularly pester them with Wizard Wars and cathach raiding. They stoically defend Rhiannon's skeleton, and often take a passive part in the Wizard Wars by avoiding the aggressor. Ashenrise magi are not lawbreakers. Helles works to change the peripheral code at every Tribunal meeting, but until successful he and his sodales strictly follow the Hibernian Peripheral Code. Nevertheless, they do not participate in raiding cathachs nor do they force apprentices into the macgnímartha. But avoidance isn't enough, and Ashenrise wants to erase these archaic codes.
 
@@ -2207,7 +2207,7 @@ of imported settlers serve as the covenant folk. Ralph fitz Stephen commands fou
 
 The magi interact with mundanes; they do not hide that fact. The Gift is a liability and most have to act through agents, but they do involve themselves with their neighbors. They have not made oaths nor broken the Code of Hermes.
 
-## *Magi*
+## Magi
 
 Ashenrise's remaining original members are Helles, Pollices, and Dyfrgi, a Welsh Bjornaer magi with a wolf heartbeast. The three newer magi have all relocated from the Stonehenge Tribunal.
 
@@ -2247,7 +2247,7 @@ Dorján is handsome and charming, and were it not for his Gift he would be Leins
 
 Both have participated in a half-dozen Wizard Wars throughout their tenure in Hibernia. Always the defenders, Dorján has killed four magi and Konstanczia five.
 
-## *Lámbaird*
+## Lámbaird
 
 **Symbol**: A severed human arm **Season**: Summer **Cathach**: The preserved arm of a bard called Cairpre
 
@@ -2264,19 +2264,19 @@ Lámbaird's cathach is a false arm made of silver. It was made by a magical smit
 
 The hollow arm is worn by a member of the covenfolk over his own left arm, and it is considered a great honor to be chosen for this task. The arm incapacitates the wearer's own arm since it cannot be controlled by the wearer, but moves with a will of its own, animated, or so it is said, by the spirit of the murdered bard. The wearer of the cathach cannot leave the covenant's immediate vicinity nor live within the *Aegis of the Hearth,* to comply with the Tribunal's rules regarding cathaigh.
 
-## *History*
+## History
 
 In the midst of Diedne's purge of Ireland's native magicians (see Chapter 10), a druid called Raghallach had a chance encounter with Petrifer of House Flambeau, who had recently settled in Ireland. The two traveled together and they became friendly, at least until the druid discovered that his companion was a member of the Order of Hermes. Believing Diedne's actions to be sanctioned by the Order, Raghallach attacked Petrifer in a rage. The Flambeau was barely kept safe by his Parma Magica, and he was impressed by the ferocity of Raghallach's magic. After Raghallach had been subdued, Petrifer offered him membership in the Order of Hermes. The two restored their friendship, and they set up a camp in the Wicklow Mountains from which they offered shelter to any of Raghallach's tradition. Diedne initially refused to accept the druids' membership in House Flambeau; when her complaints to the Tribunal failed she resorted to Wizard War. As a result, only Raghallach and two others survived long enough to establish a significant cell within House Flambeau. The camp later became the covenant of Lámbaird, and Raghallach's druidic practices developed into a school of magical combat (*Houses of Hermes: Societates*, page 25).
 
 The magi of Lámbaird retained an abiding hatred for House Diedne, and enthusiastically pursued the Schism War in Hibernia and its surrounding Tribunals. The School of Raghallach enjoyed a brief surge in popularity as Flambeau magi flocked to the Wicklow Mountains to study under Lámbaird's magi and to fight Diedne magi. It was during this period that the covenant acquired its alternate name of "Lombard" as foreigners mutated the Irish name to a more familiar continental word.
 
-## *Setting and Physical Description*
+## Setting and Physical Description
 
 Lámbaird is situated in Gleann Molúra, a narrow, blind-ending valley seven miles long and less than half a mile wide. The steep sides of the ravine reach 2000 feet on either side throughout most of the glen's length. There is just one road leading into the valley, and it terminates in the covenant. The valley has a Magic aura of 2, which rises to 4 at the point where the covenant has been built.
 
 The buildings of the covenant are surrounded by a palisade of wooden stakes. Once inside, the visitor is normally struck by the clamor of noise — barking of dogs, the clash of weapons from soldiers on the training fields, and the bellowed orders of the magi. The main covenant building is a large wooden lodge, with two sweeping wings that house the magi. Behind the lodge are stables, kennels, and mews for the numerous horses, dogs, and birds of prey kept by the covenant.
 
-## *Culture and Traditions*
+## Culture and Traditions
 
 Lámbaird does not appear much like a Hermetic covenant. There is no library; texts are simply distributed among the magi who used them last. The laboratories of the magi are haphazard and cluttered, and contain much makeshift equipment due to the difficulty of getting decent apparatus this deep into the mountains. The magi themselves do not observe the inviolability of each other's sancta — although this laxity would not apply to outsiders! — and often appropriate equipment from each other's laboratories without permission.
 
@@ -2284,7 +2284,7 @@ The magi do not act much like scholars or wizards. They are at home in the woode
 
 
 
-## *The School of Raghallach*
+## The School of Raghallach
 
 **Recommended Virtue**: Life Boost or Puissant Penetration
 
@@ -2331,7 +2331,7 @@ noblemen and magi permit the covenant to buy the expensive laboratory equipment 
 
 Recently, the attentions of Lámbaird have turned toward the English who have invaded Ireland. They have been providing occasional magical support to the mountain clans resisting the incursions of the English into the Wicklow Mountains, and if their actions were known to the Tribunal, they would certainly be charged with interfering with mundanes. As yet, the magi of Lámbaird have not implicated the Order in their actions, having been careful to leave no witnesses behind. Their activities have been noticed however, and the covenant was reprimanded, but not sanctioned, by the Tribunal of 1193. They are fierce political opponents of covenants that they perceive as pursuing an "English" agenda.
 
-## *Magi*
+## Magi
 
 There are three magi of House Flambeau currently living at Lámbaird, along with the apprentices of the two older magi. There is room for several more magi, although rooms would have to be cleared of the furniture and stores that currently occupy them. The covenant rarely accepts magi joining them from outside; all of their current magi and most of their past members were trained here. Lámbaird sometimes has long-term visitors who come to join the School of Raghallach.
 
@@ -2352,7 +2352,7 @@ Brian of Cilldara is a small, thin man whose body is completely hairless. He is 
 
 Cliodna (CLEE-na) is the youngest of Lámbaird's magi, and has modeled herself on one of the warrior-queens of legend. She is as adept with a sword as she is with a spell, and is a superb equestrian and athlete. Cliodna has taken the epithet *inghean hIolair* ("daughter of the Eagle") since being adopted into a clan of magical birds of prey who lives in the mountains. Her familiar Artt is the son of the King of the Eagles.
 
-## *Inhabitants*
+## Inhabitants
 
 Most of the covenfolk are drawn from the Uí Broin, who have lived among the magi of Lámbaird since its foundation. The Uí Broin are a branch of the Uí Faelain, a royal dynasty of Leinster. They lost their ancestral lands around Cilldara in the Norman invasion, and Gleann Molúra is now home to the remnants of the family. The Uí Broin of Lámbaird are remarkably outspoken for covenfolk, and visiting magi are often surprised that, for example, a cook might order a magus to collect water from the well — but if he is the closest, and he is not doing anything else, he'll probably do it.
 
@@ -2363,7 +2363,7 @@ Many of the young men of the Uí Broin are trained as warriors, and Lámbaird ha
 
 
 
-## *The Paruchia of Nerius*
+## The Paruchia of Nerius
 
 **Symbol**: A skeletal hand, radiating light **Season:** Spring
 
@@ -2371,7 +2371,7 @@ Many of the young men of the Uí Broin are trained as warriors, and Lámbaird ha
 
 Within the Céli Dé can be found a tiny tradition who joined the Order of Hermes as part of House Ex Miscellanea in 1189. Currently comprising just three members, two monks and one *manaim,* they live on Little Saltee, an otherwise uninhabited island five miles off the Wexford coast, and have close links with the small community on neighboring Great Saltee.
 
-## *History*
+## History
 
 The Paruchia of Nerius was inspired by a vision that a Hermetic magus, Fedelmid of Limerick, had of the mysterious magus-saint Nerius (*Realms of Power: The Divine* page 91) while he was traveling on pilgrimage to Rome. In the Alps he stumbled upon a mysterious valley, where he had a series of bizarre visions that were to shape his life thereafter. Seeking out the secrets of Holy Magic he trained an apprentice, Indrechtach, who in turn taught a *manaim* of his monastery. All three are Gifted, though Indrectach lacks the Gentle Gift and had been expelled from his community. The three have established a new monastic community cum covenant on the Saltee islands.
 
@@ -2383,7 +2383,7 @@ The covenant's cathach is a relic of Saint Nerius himself, a skeletal hand. Give
 
 The skeletal arm of the martyred Holy Magus, Saint Nerius. It is kept in a small shrine on the clifftop of Great Saltee. It is said to have worked miracles according to the locals, but they are secretive concerning its powers for fear it will be taken by churchmen and be translated to a church on the mainland.
 
-## *Setting and Physical Description*
+## Setting and Physical Description
 
 Little Saltee is one of the two Saltee Isles, and is uninhabited except for the cells and small cave complex which forms the monastery for the three magi. The tides are treacherous, and there are no good landing points on the rocky shore but every Sunday the monks make their way across to Great Saltee for mass in the parish church, using an enchanted coracle built by Fedelmid. The score of inhabit-
 
@@ -2395,13 +2395,13 @@ ants on Great Saltee are fiercely loyal to the hermits and act as covenfolk for 
 
 The covenant is highly unusual in that while it maintains a library in a tall tower on Little Saltee, and labs in a cave system near the beehive shaped cells of the three hermits and small chapel they have built for their devotions, the island has no Magic aura, but rather a Divine aura of three. A small graveyard holds the bones of earlier hermits on this isolated spot, the only other inhabitants.
 
-## *Culture and Traditions*
+## Culture and Traditions
 
 The magus of this tradition most likely to interact with other magi of the Order is Indrechtach, who leads the prayers at the Tribunal meeting. Nonetheless despite their limited need for vis or for laboratory texts, the covenant welcomes Hermetic visitors, though their lack of a Magic aura prevents many staying long and abusing their hospitality, as does the limited diet, of which seaweed and birds eggs form a substantial part.
 
 The covenant represents a threat to many long-standing traditions of the Order and the Tribunal. Fedelmid and Indrechtach are both strongly opposed to paganism, blasphemy, and what they see as the unacceptable aspects of standard Hermetic teaching, and their long term program is the salvation of the Order by the teaching of Holy Magic. This has put them at odds with the Túath Buidheof the Coill Trí, some of the supernatural delegates to the Tribunal (including the Fomórach, Tuatha Dé and the Fir Bolg representatives), and they have uncomfortable relations with many of their own House and House Merinita. In fact they enjoy better relations with pro-reform English magi than with their fellow Irish magi, as they argue loudly for a Christianized Tribunal modeled on the continental model rather than ancient customs of Hibernia. As such they seek allies among newcomers to the Tribunal, and attempt to save their souls by persuading them of the benefits of Holy Magic.
 
-## *Magi*
+## Magi
 
 There are currently only three magi at Paruchia Nerius, though they would welcome other magi, even those from other Houses. The lack of a Magic aura makes it unlikely any would wish to join them, however.
 
@@ -2434,11 +2434,11 @@ Romantic +1
 
 Newly gauntleted, Cóemgen (COE-muh-gen) is a *manaim*, a man who observes the liturgical hours, but has not taken the full vows of a monk. He can marry, and indeed hopes to do so and to raise a family on Great Saltee, crossing back and forth to the covenant. Unfortunately there are no suitable single women on that island, and his Gift and excruciating shyness interfere with his romantic plans. Perhaps one day he will cross to Wexford and abduct a wife in his coracle, or perhaps he will form a romantic attachment to a female player character, and pursue her assiduously if awkwardly. Gentle and likeable, only his lack of experience with women and the negative effects of The Gift prevent this charming young man achieving his goal.
 
-## *Covenfolk*
+## Covenfolk
 
 The hermits of Little Saltee are almost self sufficient, but do enjoy the support of the twenty eight inhabitants of Great Saltee, two farming families and three fishermen brothers with their wives and children. The priest of St. Mary's church, Father Diarmaid, is a good friend to the covenant, and protective of his isolated parish, but the transgression which led to his posting here still haunts him, and he would be susceptible to blackmail if anyone threatened to reveal it.
 
-## *Indrechtach an t-Éigse Measceal, Céli Dé of Paruchia Nerius.*
+## Indrechtach an t-Éigse Measceal, Céli Dé of Paruchia Nerius.
 
 **Characteristics:** Int +2 Per +1 (1), Pre +1, Com +1, Str 0, Sta +1, Dex 0, Qik 0
 
@@ -2556,9 +2556,9 @@ Permanently mends a non-living product made of plant materials, sealing rips and
 (Base: 10, Intervention/Purity; +1 Touch)
 
 
-## *Chapter Seven*
+## Chapter Seven
 
-# *The Liberty of Meath*
+# The Liberty of Meath
 
 Meath is the fifth and smallest of the provinces of Ireland. Also called the Kingdom of Mide, from the Irish word for "middle," it has a significance far beyond its small size, and hence is ranked as a province rather than just another kingdom.
 
@@ -2566,7 +2566,7 @@ Meath was founded in ancient times by Túathal Techtmar, son of a High-King of I
 
 In the late fifth century the ruling Uí Enechglaiss were forced in to exile south to Arklow, where they can still be found, and the Uí Mael Sechlainn took possession of the region, providing several highkings. The Uí Mael Sechlainn are often known as the Southern Uí Néill. They too have been forced to flee following the arrival of the English. In 1172, the last King of Meath was deposed and the kingdom was granted to Hugh de Lacy, who held the territory until his death in 1186 despite falling from favor with King Henry II. Tighearnán Ua Ruairc, King of Bréifne, disputed the claim but was killed, so Hugh's son Walter de Lacy eventually took possession of Meath and it is an English possession today.
 
-## *What is a Liberty?*
+## What is a Liberty?
 
 Meath, the kingdom of Leinster and the earldom of Ulster are all Liberties, meaning the administration is run by the English crown through an appointee, who is Walter de Lacy in the case of Meath. De Lacy has the right to collect revenues for the king and administer justice, and he himself is subject to the Justiciar of Ireland. At this time the wool and cereals produced in the Liberties are sufficient to create a surplus for the English crown, but even so the king looks askance at the power of his great nobles in Ireland, and frequently takes hostages for their good conduct from among their sons, and at times orders them to
 
@@ -2574,7 +2574,7 @@ serve in England or France or grants their estates to others, to prevent any gro
 
 Justice in the Liberties has, since 1217, been in the form of itinerant justices, judges who progress around the country presiding over Assizes based upon English Common Law. Irish who are involved in case must find a translator, and have little hope in the unfamiliar judicial system, while their testimony is rarely considered equal to that of an English witness. Among the Irish traditional Brehon Laws are observed, and the assizes are seen as instruments of oppression and protection of English privilege.
 
-## *Drogheda-in-Meath*
+## Drogheda-in-Meath
 
 This is an exclusively English settlement and strongly garrisoned. Hugh de Lacy built the new walled town; Walter de Lacy built the stone castle overlooking the town on the hillside to the south. A thriving port, the town stands on both banks of the River Boyne, with Drogheda-in-Airgialla across the river to the north. Ships landing here are subject to inspection for wines by the agents of Theobald Butler, as well as customs and imposts due to Walter de Lacy. Despite this, there is continual traffic in and out of the port from Scandinavia and Iceland as well as the British Isles.
 
@@ -2586,22 +2586,22 @@ With one hundred monks and three hundred lay brothers, Mellifont dominates the C
 
 Nothing like this has been known before, and it has sent shockwaves through the monastic communities of Mythic Europe. The event has become known as the "Conspiracy of Mellifont," and while the abbot Thomas was nominally deposed by the Cistercian general chapter in Citeaux in 1217, he is still in office in Mellifont, backed by the daughterhouses and his monks. The Cistercians are preparing to send a deputation to restore discipline and expel the guilty abbots, and even the papacy may become involved, but a long and dark struggle may be ahead.
 
-## *Story Seed: The Conspiracy of Mellifont*
+## Story Seed: The Conspiracy of Mellifont
 
 The monks of Mellifont have done something quite incredible — rejecting the authority of their Order. While the reasons may lie in something as prosaic as the tensions between the Irish and English, or even their enjoyment of a sexually and morally lax lifestyle far outside of the strictness demanded by the Cistercian Rule, there may however be darker reasons behind the revolt that may drive stories. *The Church*, page 94, gives details on the Cistercian Order and gives one possibility for how they may have been corrupted infernally, though storyguides may choose their own explanation for the events afflicting the Irish Cistercians.
 
 One possibility is that the abbey's granges hold the key to events. The area of the Brú na Bóinne has been divided into granges, monastic farms worked by the monks and lay brothers, and carefully farmed with both sheep and crops. There are nine granges, each equivalent to a manor, built with one eye to defense: farm buildings and barns are built around the perimeter of each grange, and on high spots, many of which include ancient *sidhs* and *ráths.* Could the monks working among the ancient barrows and sacred places have stumbled upon some ancient magical secret?
 
-## *The Brú na Bóinne*
+## The Brú na Bóinne
 
 The Brú na Bóinne is a great plain of sidhs, stones and dolmens covering nearly two thousand acres on the bend of the River Boyne. The Boyne curves round the site, bordering it to the south, west and east, and the site was until recently untouched, overgrown and largely forgotten. Now the monks of Mellifont have built their granges
 
 
-## *Story Seed: The Haunting of New Grange*
+## Story Seed: The Haunting of New Grange
 
 Close to the grange lies a massive sidh, a mound coming to be called Newgrange after the farm. The lay brothers who work on the farm have reported all kinds of eerie and terrifying experiences, and have been many times witness to the destructing of the crops by trooping faeries. The Abbey of Mellifont has more serious problems with its revolt against the Cistercian Order and the authority of Citeaux, but now the steward and his family have vanished from the farmhouse (grange) one summer evening, and Abbot Thomas realizes he must seek help immediately. Can the characters save the monks from the wrath of Aonghus and the depredations of trooping faeries?
 
-## *The Legend of King Conaire*
+## The Legend of King Conaire
 
 Tara was the palace of King Conaire, born of a mysterious man who came to his mother in the form of a bird. As a result Conaire had a *geas*  that he could never harm a bird. When the time came for the bull feast at Tara, where the King would be elected by laying with a bull, Conaire set off in his chariot but was pursued by great birds. He raced ahead of them, until his horse was exhausted, whereupon the birds turned in to men and reminded him of his *geas.* They set him several more such magical restrictions and told him he must proceed naked to Tara where he would become King. On arrival he was hailed as fulfilling an omen seen by the chief druid, of a naked man riding in to Tara, and made king. His reign was prosperous, but he came to break several of the *geassa* lad upon him by the mysterious shapechangers. He was betrayed and killed in a terrible fight by three brothers he had sent into exile.
 
@@ -2611,7 +2611,7 @@ Aonghus is indeed a dangerous entity to meddle with (see Chapter 11.)
 
 The Cistercian granges are sometimes built on top of the sidhs, and the monks labor among the stones tending their fields and flocks. The most impressive sidh, home to Aonghus, lies at the latest Cistercian farm: New Grange.
 
-## *The Hill of Tara*
+## The Hill of Tara
 
 Of tremendous significance in terms of Irish history and royal authority, the Hill of Tara is a place alive in the imaginations of the Irish, and endlessly retold in their stories. Yet Tara in 1220 slumbers undisturbed; the site itself, while famous throughout the island, lies neglected and overgrown.
 
@@ -2624,7 +2624,7 @@ The Hill of Tara is a wide and shallow mound encircled by a ditch, the remains o
 
 The greatest of the Kings of Tara was Cormac mac Airt. Cormac ruled here centuries ago, and Fionn mac Cumhail often served him. His reign was a time of great prosperity, and many of the earthworks on the hill are remains of the great halls and monuments of his time.
 
-## *The Hill of Tlachtga*
+## The Hill of Tlachtga
 
 This ráth holds the sleeping daughter of Mug Ruith, the faerie druidess Tlachtga. Mug Ruith still visits from time to time in his fabulous flying machine, and his daughter sometimes leaves her sidh to converse with mortals who stray on to the hill.
 
@@ -2632,42 +2632,42 @@ Her story is tragic. When her father was learning magics from Simon Magus she wa
 
 She is remembered at Samhain, when the druids lit sacred fires upon the hill, and this was one of the royal sites of Meath. A great ráth guards the hilltop, and in 1168, Ruaidrí Ua Conchobair mustered a huge gathering here, but Tlachtga did not emerge on that occasion. In 1171, it was Tighearnán Ua Ruairc, King of Bréifne who came here to a parley with the English under Hugh de Lacy. De Lacy had been granted Meath, a claim Tighearnán hotly disputed. Under a flag of truce the two approached and began discussions, when a fight suddenly broke out and de Lacy's interpreter was cut down. De Lacy fled; his men speared and killed Tighearnán as he tried to mount his horse in what may well have been a conspiracy to assassinate him. Despite all of this, Tlachtga did not wake.
 
-## *Tailten*
+## Tailten
 
 Tailtu was a Spanish princess who married the last Fir Bolg High-King, Eochaid mac Eirc. Eochaid mac Eirc built his capital here, but it was destroyed after he was killed fighting the Tuatha Dé Danann invasion, and nothing remains of it, though it remains an important site for the Uí Néill. Tailtu was captured by Tuatha Dé Danann, and became foster mother of Lugh. She then cleared the plains of Ireland of forests to allow for the growing of crops, but the effort killed her, and she was buried here on Lammas, 1st August, amidst great mourning.
 
 Tailten Fair is held here every year to commemorate Tailtu and the original games held between the Fir Bolg and Tuatha Dé Danann before they resorted to battle. It is a joyous and ribald occasion as well as one of the few great markets of Ireland. Wrestling, horse racing, exotic
 
-## *The Book of Kells*
+## The Book of Kells
 
 The *Book of Kells* is believed by some to have been written by Saint Columba, but Gerald of Wales was correct when he said it was written by an angel in Heaven. The book is a beautifully illuminated copy of the Gospels, written in Latin in Irish miniscule, and a book any magus would treasure if he could possess it. It is, however, closely guarded after a theft in the 11th century. The *Book of Kells* is a Quality 9 summa with a Level of 5 in Theology and 3 in Dominion Lore if studied, and may have other secrets.
 
 trade goods, and luxuries can be found here every Lammas, and Tailten Marriages, temporary marriages that lasted for a year and a day, were contracted here, until the English and the Irish Church reformers declared them illegal just a few years ago to great popular disgust. The site has a Magic aura of 3 during the day, and a Faerie aura of 3 at night, an unusual condition.
 
-## *Kells*
+## Kells
 
 Not to be confused with Kells in Leinster, this town was briefly the center of a short-lived diocese, but is best known for the monastery founded by Saint Columba, with its church founded by Saint Patrick. The town has grown up around the abbey in typical Irish style. It is ruled by the abbot, who is comarba Columcille, that is, head of the paruchia of Saint Columba. Ironically it was here that the power of the *comarba* was broken by the synod of Kells that began here in 1152, though swiftly transferring to Mellifont, as it reformed the Irish church on a diocesan rather than a monastic basis.
 
 The monastery contains two famous books. One is the scathach of the Ó Domhnaill clan, a fine ancient psalter, carried by them in to battle and placed here for safe keeping by a scion of that Donegal clan. The other is the famous *Book of Kells.*
 
-## *Bective Abbey*
+## Bective Abbey
 
 This is a strong Cistercian house overlooking the River Boyne. Hugh de Lacy is buried here. The monks of Bective are more hospitable to travelers than many Cistercian houses. It is a daughter house of Mellifont Abbey and is currently involved in the Conspiracy of Mellifont, supporting their mother house against the Cistercian Order.
 
-## *Trim*
+## Trim
 
 This is home to the Cenél Lóegairi tuath. An ancient church here was founded by Saint Patrick, and twice burned (in 1008 and 1127) by enemies of those seeking sanctuary within. Despite these atrocities the church of St. Lommán was rebuilt, together with an Augustinian abbey dedicated to Saint Mary by Saint Malachy in 1140.
 
 The town is best known for its castle, the largest stone castle in Ireland; it was built by Walter de Lacy as a center for the administration of Meath. A massive fortification built upon a hill, it replaced the earlier ringwork castle built by his father and destroyed by the Irish. Walter de Lacy can frequently be found here, together with his retinue, and it was the site of an unusual event recently: the story of the Three Sisters of Trim.
 
-## *Delvin*
+## Delvin
 
 A stone castle was built here by Hugh de Lacy, and granted to his brother-in-law Sir Gilbert Nugent who took the title 1st Baron Delvin. Sir Gilbert's son Richard, known as Richard de Capella ("Richard of the horses") now holds the title of 2nd Baron, and as his name suggests he is known for his love of horse breeding. A fine horse market occurs
 
 
 here annually, and Richard sponsors horse races open to any person with a fine horse, with generous prizes of even finer horses or, for exceptional horsemen, a place at his court and perhaps knighthood.
 
-## *Clonmacnoise*
+## Clonmacnoise
 
 Situated on the east bank of the River Shannon, Clonmacnoise is one of the most famous ancient monastic sites in Ireland, on the border of Connacht and Meath. The stone cathedral was built in 909 by the high-king, and the last High-King of Ireland, Ruaidrí Ua Conchobair, was buried here in 1198. The community which grew up around the abbey has many other fine churches, however. **Temple Melaghlin** was built in 1200 by the southern Uí Néill (the Uí Mael Sechlainn), who had settled follow the usurpation of the crown of Meath by Hugh de Lacy in 1172, and remains the church of the royal dynasty. They also built the small church by the Shannon, a Romanesque structure with a fine bell tower which houses one of the ancient sacred bells of Ireland and **Temple Connor.** The nearby Nun's Church was endowed in 1160 by Derbforgaill, wife of Tighearnán Mór Ua Ruairc, whose abduction by Diarmait gave her the nickname "Helen of Ireland." The final church ringing the cathedral is the oldest, the burial place of St. Ciaran, and pilgrims may visit his tomb here, and then offer prayers in each of the churches as has become the custom.
 
@@ -2681,27 +2681,27 @@ One of the three high Celtic crosses which stand thirteen to fifteen foot tall i
 
 Another curiosity of Clonmacnoise are several large boulders of yellow sandstone. One of them bears inscriptions in the same odd symbols as found at the Brú na Bóinne, and the marks of a pair of human feet left in the rock. It is said locally to be the entrance to faerie fort, and is also known as the Horseman's Stone after a legend that a horseman in golden armor rides out and across the countryside on Midsummer night, the Feast of John the Baptist. The rider has not been seen for centuries, however, possibly because the priests of Clonamcnoise hold a procession to the rock and a blessing on that day. Twenty years ago Josiane of Merinita, a maga of the Normandy Tribunal, used Terram magics to shrink the rock and attempted to steal it for study in her laboratory. She hastened away with it securely loaded on a mule, but in the morning the rock was gone, and on returning to Clonmacnoise she found it just where she had first seen it. Perhaps wisely she did not make a second attempt.
 
-## *The Hill of Uisneach*
+## The Hill of Uisneach
 
 The Hill of Uisneach (OOSH-nakh) marks the mystical center of Ireland, and is the point where all five provinces — Ulster, Meath, Leinster, Munster, and Connacht — meet at the Ail na Míreann, the Stone of Division. The stone forms an Arcane Connection to the five provinces, if anyone were audacious enough to attempt a spell that effects a whole province. It also provides a x3 Sympathetic Magic modifier. Here the druids lit a great fire at Bealtaine, which could be seen as far as Tara, marking the beginning of the festival across Ireland. It was here also that the Milesians met Ériu, Banba, and Fódla, and Ériu's name was given to the island. Saint Brigid took her vows to become a nun here, and those to become a bishop. Many of the Tuatha Dé Danann sleep beneath the many sidh on the site. Many of the stones that form Stonehenge were stolen from the site by the druid Merlin, and to this day the site has a powerful Magic aura of 5.
 
 The stone is a traditional place for swearing oaths and making treaties that govern the whole Tribunal, and the potent aura led to the founding of a covenant here in the early days of the Order in Hibernia, but it vanished one summer's eve without a trace, and now the only records of its existence are fragmentary, even its name forgotten. Folk stories speak of a powerful magician who sought to rule all others in Ireland, but who broke a *geas* and was for his hubris taken by the Good Folk. The truth remains obscure. It seems likely that one day another covenant will rise upon the site.
 
-## *The Eiscir Riada*
+## The Eiscir Riada
 
 An eiscir, Anglicized as esker, is an embankment of sand and gravel that runs sometimes for several miles above the flat plains and watery bogs of central Ireland. Some say they were roads built by the Fomórach, Fir Bolg, or Tuatha Dé Danann, whereas others believe they were dragons turned to dirt when Saint Patrick expelled the serpents from Ireland. Whatever their cause, their elevation of up to fifty feet above the surrounding marshy terrain has led to their use as highways since ancient times. The most famous is the Eiscir Riada, with the Great Highway (An tSlí Mhór) running along the top from Durrow Abbey to Clonmacnoise. The Eiscir Riada is the diving line between Conn's Half to the north and Mogha's Half to the south.
 
-## *Chapter Eight*
+## Chapter Eight
 
-# *The Province of Munster*
+# The Province of Munster
 
 Munster, or Mumhan (MOO-wan), is Mythic Ireland's southern province. Originally split into Desmond (South Munster), Thomond (North Munster), and Ormond (East Munster), much of the province has been renamed and distributed to English lords. Irish kings keep English knights to the east, retaining native privileges in their ancestral cantreds, while English lords impose English law on their subjugated Irish vassals. The foreigners and Ostmen of the three Munster cities are ostensibly ruled by the English, yet act according to their own desires. Outlaw bands live in the forests, finding easy pickings from both Irish and English homes.
 
-## *The Peoples of Munster*
+## The Peoples of Munster
 
 Munster was the first province officially claimed by the Sons of Míl. The fertile province was given to Éibhear Fionn mac Míl, whose descendents divided into several túatha.
 
-## *Eoghanachta*
+## Eoghanachta
 
 Named after Eoghan Mór, the Eoghanachta (OWE-kho-nokh-tuh) were the strongest Munster clan for several hundred years. Over the centuries, the Eoghanachta separated into several clans. The most powerful are the Eoghanachta Caisail, centered around Cashel; the Eoghanachta Áine, centered around Cnoc Áine; and the Eoghanachta Locha Lein, centered around the Lakes of Killarny.
 
@@ -2715,13 +2715,13 @@ The mac Cárthaigh clan detests the Uí Briain and the Uí Súilleabhán of Kerr
 
 Another branch of the Eoghanachta Caisail, the Uí Súilleabháins (OO-ee SOOL-yav-awn) are descendents of a seventh century king of Munster. The family's most famous king, Fedelmid mac Crimthainn, was both king of Munster and abbot of Cork and Clonfert abbey. Continually warring with the mac Cárthaighs, the Uí Súilleabháin have recently suffered a crippling setback from the massacre of Raheen. They are still strong enough to mount resistance against the English.
 
-## *Dál gCais*
+## Dál gCais
 
 Originally from southeast Munster, the Dál gCais (DAWL GOSH), or "tribe of Cas," moved north as they grew in power. They settled east of Limerick before continuing north up the River Shannon. Eventually this area, and the lands between the Rivers Shannon and Fergus and the southern shores of Lough Derg, would be called the kingdom of Thomond.
 
 The Dál gCais attribute their success both to St Patrick and to Aoibheall, a faerie land-goddess living on the shores of Lough Derg. During their
 
-## *Story Seed: Returning the King*
+## Story Seed: Returning the King
 
 According to most histories Conn of the Hundred Battles killed Eoghan Mór at Magh Léana. The *Red Book of Cloyne*, however, says that a mortally wounded Eoghan Mór staggered from the battle to a nearby river. A faerie woman, Éadaoin, magically carried him inside an invisible yew tree. Healed from his wounds, Eoghan Mór still lives
 
@@ -2741,51 +2741,51 @@ While named after Brian Bóramha, high-king from 1002 to 1014, the Uí Briain fo
 
 The Dál gCais rí cóicid is expected to marry Aoibheall. As king of the most powerful Dál gCais tribe and candidate for the kingship, Brian married the faerie without hesitation. Some speculate that his marriage to this supernatural matron accounts for his rise to power, and that without Aoibheall's powers of futuresight Brian would never have become ard rí. Her divination ability was so accurate that many caller her bahfháidh Uí mBriain: "prophetess of the Uí Briains." According to legend, she visited Brian on the eve of the Battle of Clontarf and told the aging king that we would not survive the battle.
 
-## *Déise*
+## Déise
 
 A collection of clans living west of the River Nore in the area north of Waterford, the Déise (DEY-shuh) were once vassal tribes of the Eoghanachta. Originally living near Tara, they were evicted by High-King Cormac mac Airt when their founder, Aonghus Gaífhuileach ("bloody spear"), quarreled with one of Cormac's sons over a woman. When the English invaded, the southern Déise joined forces with the Ostmen to protect Waterford. But even their combined might failed. Surrounded by powerful neighbors, the Déise clans content themselves with re-
 
 
 spectfully serving their English overlords by day and causing as much mischief as possible by night.
 
-## *The English in Munster*
+## The English in Munster
 
 In 1210, King John gave his favorites lands in Munster, but retained Waterford, Limerick, and Cork. The lands north of Waterford were given to Robert le Poer; Thomond to Philip de Braose; and Desmond to Robert FitzStephen and Milo de Cogans. None of those men were able to claim the lands given to them, and in 1220 their sons have limited control over Munster. Hostile neighbors and a lack of large-scale military successes have kept their ambitions in check.
 
 The English offer military assistance to the factious Irish clans in their fights with each other. Both Desmond and Thomond have recently undergone succession wars, and every faction hired English mercenaries. Confusion and violence allowed the English to encroach into Desmond land. These advances are slow. Like their Irish neighbors, the English readily fight each other; land is land to an English knight. The cities are not much safer, as the Ostmen continually rail against their lords. Cork and Limerick cannot control the Ostman population, and the English allow them to keep raiding the countryside, indiscriminately plundering whoever they can.
 
-## *Kingdom of Desmond*
+## Kingdom of Desmond
 
 The political boundaries of Deas-Mhumhain, "southern Munster," are shrinking. Since the English invasion, royal land grants have pushed Desmond's border west of the newly created Liberty of Cork. Ruled by the mac Cárthaigh clan, Desmond vies with Thomond for the title of the strongest Irish kingdom in Munster. But where Thomond is usually at odds with its Connacht neighbors, Desmond suffers from the aftermath of a succession war. Five years ago, Cormac revolted against his brother Diarmait. Cormac failed to dethrone his brother and patched together a peace accord once they noticed the English advancing into the border.
 
 Small castles surround Desmond, both those hastily built by English knights and protective structures build by the Desmond nobility. Donagh Uí Mathghamhna has build a string of 12 castles along the southern coast of the kingdom, preventing enemies from landing on the Atlantic coast. Every noble family has castles, which they use for staging raids and as protective defenses. Desmond warriors are active every summer, staging annual assaults against either of the Ostmen cities of Youghal and Cork.
 
-## *Magh nAla*
+## Magh nAla
 
 Deprived of the city of Cork, the ruling mac Cárthaigh has made Magh nAla (MOKH NOL-uh), "the plain of swans," his home. A royal ráth hidden deep in the Blackwater River valley, Magh nAla is the meeting place for the mac Cárthaigh hostings. Surrounded by forests, it is difficult to find. During the winter months Magh nAla is a typical ráth, with a few hundred permanent residents and a thousand head of cattle. Each spring Diarmait summons every freeman and warrior in Desmond to war, and hundreds of men file out of the forest heeding his call.
 
-## *Cork*
+## Cork
 
 Sitting at the mouth of the River Lee, Cork was a small monastic community, home to Saints Finbarr and Nessan. In 1020 marauding Ostmen used it for a winter camp. Unlike other Irish cities, the Ostmen were ejected from Cork. A combined Uí Briain and mac Cárthaigh force stormed the walls while their druids blasted the earthen works with bolts of lightning. Cork did not stay under Irish control, and was recaptured by Ostmen from Dublin, Limerick, and Waterford. During the interim, the Uí Briain túath translated St Finbarr's relics from Cork to Killaloe. Although the city fell back into Ostmen hands, the king of Desmond was so strong that the Ostmen leaders submitted to his rule.
 
 Because of the successes of the English invaders, the Desmond king offered Cork to King Henry II as tribute. Henry quickly installed an English governor and
 
-## *Story Seed: The Midnight Builder*
+## Story Seed: The Midnight Builder
 
 The Uí Mathghamhna castles have gone up so fast that several magi think magical means were used. Unlike the hastily built motte and bailey castles of the English, these castles are all fortified stone. Is a magus aiding the túath by magically creating castles overnight? The covenant of Cliffheart, known Irish sympathizers, is not far from Uí Mathghamhna lands.
 
-## *Story Seed: Seeking the Plain of Swans*
+## Story Seed: Seeking the Plain of Swans
 
 As it is hidden in a dense forest, visitors must follow one of the few roads that wind through the woods, hoping that it leads to Magh nAla and not elsewhere. One of these roads is the highway of the *Coitse Bodhar*, or Silent Wagon, a two-wheeled chariot driven by an evil faerie woman who
 
 likes to run down travelers. Those knocked from the road are thrown into a wooded faerie regio, doomed to wander the immense faerie forest unless magical help arrives. Characters might be asked to find those initially seeking Mag nAla but forced off the road by the Coitse Bodhar.
 
 
-## *Story Seed: The Siege of Shandon Castle*
+## Story Seed: The Siege of Shandon Castle
 
 Sitting on a precipice overlooking the harbor, Shandon Castle is the keystone to Cork's defenses. Its squat, stone tower effectively protects the city from invasion. Cork's enemies know this, and Diarmait mac Cárthaigh has instructed his hedge magicians to destroy the castle. Capable of hurling lightning bolts, these men present a severe threat. If they are successful, the defeated might assume the wizards are members of the Order of Hermes, the most famous wizards in Ireland. Should the magi stop the hedge magicians?
 
-## *Story Seed: The Stealer of Secrets*
+## Story Seed: The Stealer of Secrets
 
 Following an old pagan tradition and foregoing Christian rites, some Uí Briain warriors are buried vertically, weapon in hand, facing north toward Connacht. Nearly a hundred burial mounds line Thormond's northern border. Recently, a hedge wizard has learned how to speak to these interned dead, and has begun raiding their memories for military secrets. The ghosts of those so plundered wail at the affront, causing a terrible din and upsetting local residents. The magi are approached for a solution, ideally to find and stop the hedge wizard, or at the least lay the wailing ghosts to rest.
 
@@ -2793,24 +2793,24 @@ garrison. Two years later mac Cárthaigh took the city back. Four years after th
 
 Chroniclers describe Cork as "an evil place." The English and Ostmen inside the walls barely get along, and none dare step foot outside the walls into territory firmly controlled by Desmond and Déise. The harbor provides the sole access from the city to the rest of the island and Mythic Europe. Despite this single point of entry, Cork is a very busy city, second only to Dublin in trade.
 
-## *Tech Dairbhre*
+## Tech Dairbhre
 
 Tech Dairbhre sits just off the Munster coast, connected to the mainland by a slim isthmus. The faerie Mug Ruith lives on the island, the self-proclaimed "most famous druid in Éire," and court wizard to King Mobd, leader of the Munster Tuatha Dé. Mug Ruith owns a flying machine, the roth rámach or "oared wheel," and wears a bull hide and bird mask when piloting his machine. Mug Ruith owns a collection of enchanted items, including a gleaming chariot, a magical shield, and a stone that can change into a poisonous eel. Mug Ruith regularly visits his daughter, Tlachtga, who lives on the Hill of Tlachtga (see Chapter 7).
 
-## *Kingdom of Thomond*
+## Kingdom of Thomond
 
 From the Irish *Tuadhmhumhain*, meaning "northern Munster," The Kingdom of Thomond is the traditional lands of the Dal gCais and the Uí Briain. Thomond is a buffer state between Connacht and the Liberties of Limerick and Tipperary, all of which have been recently targeted by Uí Briain raids.
 
 Donnchadh Cairbre Uí Briain is the King of Thomond in 1220. He is more concerned with the expansion of Connacht, his traditional enemy, than with English colonists, and is more than willing to hire English mercenaries from Tipperary and the de Burgo family.
 
 
-## *The River Shannon*
+## The River Shannon
 
 The river Shannon (Irish: Abha na Sionainne) is the longest river in Mythic Ireland, traveling almost 250 miles from its source in the Dartry Mountains to its mouth on the Atlantic Ocean. A natural barrier between east and west, the River Shannon forms most of the border between Connacht and Ulster. The river is named after the goddess Sionainn. Originally a mortal woman, she found a faerie well that granted the drinker knowledge. Removing the well's capstone, the rushing water overwhelmed her, drowning her and forming the River Shannon. Transformed through the process, faerie Sionainn travels the river in a small, hide-covered boat, overseeing the river's comings and goings.
 
 The entire river has a Faerie aura of 1. In remote areas along the river the aura increases, and some pools and secret eddies contain faerie regiones. Faeries are more dangerous to the west of the Shannon. Malevolent solitary faeries are common, and many of the ravages blamed on kings are actually the depradations of trooping faeries.
 
-## *Killaloe*
+## Killaloe
 
 Killaloe is the capitol of Thomond and center of power of the Uí Briain. Situated near the Thomond-Limerick-Tipperary border, Killaloe safeguards one of the few bridges that crosses the River Shannon. Originally a monastic community, its strategic importance prompted a Uí Briain king to built a palace in Killaloe. The palace, Kincora, still houses the rí ruirech.
 
@@ -2822,59 +2822,59 @@ Flannan was a seventh century abbot of the Killaloe monastery and nephew to the 
 
 A few yards from the cathedral's foundation rests the Ogham Stone. Waist-high, the message "A Blessing on Thorgrimr" is carved in Ogham on the stone's face, while on the stone's back a signature, "Thorgrimr carved this cross," is carved in Nordic runes. The stone is two hundred years old, at least, and no-one in the area now knows more than the inscriptions say, many of them not even that. It is magic, but its proximity to the cathedral has prevented anyone from taking it and studying it. It presents a mysterious connection between ancient druids, Norse wizards, and Christianity.
 
-## *The Burren*
+## The Burren
 
 The Burren is a large, rocky plateau on the coast of northwest Thomond. Essentially one giant piece of limestone approximately 100 square miles in area, it is crisscrossed with cracks, called "grikes," which divide the rock into thousands of smaller pavements. While the pavements are barren and devote of plant life, the grikes abound with long-bladed grasses and wild flowers, making the Burren a popular place to graze cattle and sheep. Dotted with nearly a hundred stone tombs and cairns, many faeries call the Burren home. The area and its faeries are frequently disturbed by cattle raiders.
 
-## *The Liberty of Tipperary*
+## The Liberty of Tipperary
 
 Formerly the Kingdom of Ormond, Tipperary is a border kingdom between Desmond and Thomond to the west, and Ossory to the east (see Chapter 6). Thick with Eoghanachta septs, the clans suffered when the Dal gCais cut down their sacred yew tree, transferring prestige and power from the Eoghanachta to the Dál gCais and more specifically the Uí Briain family. Already weakened, the English found the area an easy target. King John made Theobald Walter the Chief Butler of Ireland, a hereditary title, and awarded him lands in the north. William de Burgh gained the midlands, between Cashel and the town of Tipperary, centered at his castles at Kilfearkle and Athassel. Philip de Worcester gained the southern lands, including Cahir castle, which was build in 1142 by Conchovor Uí Briain.
 
 English possessions dot Tipperary like islands on a turbulent sea. Life can be peaceful, even enjoyable, in the Englishcreated towns such as Nenagh and Clonmel, and the English-controlled towns of Athassel and Cahir. But the roads are dangerous and travel between defended towns is either infrequent or well-guarded. The native Déisi and Eoghanachta clans happily waylay wanderers.
 
-## *Sídh Femen*
+## Sídh Femen
 
 Bodh Derg, son of the Dagda and ruler of the Munster Tuatha Dé, sits in his palace at Sídh Femen (the Mound of Fe-
 
-## *Story Seed: The Fish Wife*
+## Story Seed: The Fish Wife
 
 In one of the deeper river bends of the River Shannon lives a *bandraoi*, an evil sea-witch who can change shape into any type of fish. She can also appear as a beautiful woman, and in this guise lures fisherman to her embrace. Just as her paramour is puckering his lips to kiss her, she changes into a large pike, clamps her jaws down on his face, and drags him into her pool. Characters can either be victims of her trap or rescuers who free others from a marital drowning.
 
-## *Story Seed: The King's Treasure*
+## Story Seed: The King's Treasure
 
 Fearful after the recent raid, King Donnchadh buried his most valuable possessions in an undisclosed spot. His most faithful warrior bragged that he would defend the treasure even in death. Thinking this a good idea, Donnchadh killed him. The warrior's ghost lingers over the spot waiting to kill any treasure seekers. Forgetting where he buried it, and embarrassed about its guardian, King Donnchadh asks the characters to find the treasure without mentioning its protector.
 
-## *Story Seed: The Faerie Saint Flannan*
+## Story Seed: The Faerie Saint Flannan
 
 Famous as a preacher and holy seer, Flannan's sole power of divination allowed him to foresee when someone was going to die. The false story that he could presage any event has grown so large that a social faerie has adopted the role. The faerie visits the cathedral's architect at night, and inspires the man. The current abbot is concerned and asks the magi for help, pointing out that the cathedral is starting to look a little crooked, decorated with overt pagan images, and that the saint only visits the architect in his home, not at the cathedral.
 
 
 
 
-## *Story Seed: The Sacred Yew*
+## Story Seed: The Sacred Yew
 
 Before Christianity, the Eoghanachta worshiped the yew tree, and planted a sacred yew in the center of Cashel. During the Dál gCais raids Brian's brother, Muircheartach, cut the tree down. Eoghanachta hedge wizards claim that their clan won't regain its former might until a new tree is planted, and there is a wizard from the Uí Cerbaill túath who can make a yew seed grow overnight into a full-sized tree. The monks of Cashel cut the tree down, but the Uí Cerbaill sorcerer is persistent. A Cashel representative looks for a member of the Order of Hermes to help stop the Uí Cerbaill wizard.
 
 men). A vast underground complex, Sídh Femen has all the trappings of a royal Irish court, including faerie minstrels, courtiers, swineherds, warriors, and royal wives. Bodh Derg is a famous judge and interpreter of dreams, and other Tuatha Dé faeries regularly visit his court. His smith, Lén, makes enchanted items for the Munster Tuatha Dé. At the end of the day he throws his anvil to a nearby hill and when it lands the sparks from the anvil change into pearls. Normally these pearls disappear when Léns retrieves his anvil, but one night a year they remain and can be collected for Ignem vis.
 
-## *Cashel*
+## Cashel
 
 In the late 10th century Conall Corc founded Cashel, (Irish: *Caisel*), which became the home of the Eoghanachta kings. St Patrick crowned one of the Eoghanachta kings on the site, before blessing the rock with various miracles. With the rise of Dál gCais and the victories of Brian Bóramha, the Eoghanachta were ousted from Cashel. The site was given to the bishop of Limerick, forever removing it from lay hands and preventing the Eoghanachta from ever regaining their ancestral capital.
 
 
 A famous center of learning, Cashel teaches all those who can afford instruction. While not manufacturers of books, Cashel has quite a collection. The Redcap Gopstan once pretended to be an uneducated prince's son and lived with the monks for a year, merely to gain access to their library. At year's end, the headmaster asked Gopstan to give his regards to the Redcap's parens, the first sign that he had discovered Gopstan's ruse.
 
-## *The Silvermine Mountains*
+## The Silvermine Mountains
 
 Sitting in north Tipperary, part of the border with Thomond, the Silvermine Mountains are a circular cluster of wooded mountains separated by valleys. The highest peak, Keeper Hill, from Sliabh Coimeálta meaning "mountain of fosterage," towers over the others. According to legend, Sadhbh, a daughter of a Connacht king, married a Munster king and bore him two children. Spurned by her husband, Sadhbh hid on Keeper Hill and asked the local Tuatha Dé to raise the children, a twin boy and girl. Their fate is unknown.
 
 Keeper Hill provides a commanding view of the area and the Silvermine Mountains could easily hide an army among their hazel, hawthorn, and rowan trees. Magic auras are scarce, which could be why a covenant hasn't been founded within the easily defensible mountains. A thorough search might turn up a favorable site.
 
-## *The Liberty of Waterford*
+## The Liberty of Waterford
 
 Former called South Déisi by the Irish and rechristened the Liberty of Waterford, this was the first Munster territory to fall to the English. Close to Leinster, the province most firmly controlled by the English, this liberty is the safest in Munster. The boundary follows the River Suir north and west to Clonmel, runs west to the abbey town of Lismore, then south along the River Blackwater to Youghal and the coast.
 
-## *Waterford City*
+## Waterford City
 
 Another Irish fishing spot fortified by Viking raiders, Waterford was founded in the early 10th century. Like other towns, it has a concentration of Ostmen and foreigners. While there had been no love lost between the Waterford Ostmen and the neighboring Déisi, the two banded together to protect the city once the English arrived. The combined force withstood Strongbow's siege for a day but surrendered once a shabbily constructed tower was pulled down by the besiegers. Magnanimously, Strongbow spared the town, slaying only the two Ostmen leaders. He then quickly married Diarmaid Mac Murchadha's daughter, Aoife, laying the groundwork to forever change Irish politics.
 
@@ -2882,72 +2882,72 @@ Waterford is the "city of wines," and daily imports wine from Bordeaux. Waterfor
 
 Unlike Limerick, with its restless Ostmen and Irish, and Cork, surrounded by the ready and violent warriors of Desmond, Waterford is relatively peaceful.
 
-#### *The Contested Isle*
+#### The Contested Isle
 
 A minority of Déisi live inside its stone walls, but the majority of the inhabitants are Ostmen and English. While FitzAnthony might not be able to show much authority outside the walls, inside he is masterful sheriff.
 
-## *The Liberty of Limerick*
+## The Liberty of Limerick
 
 Before the English, the area of western Thomond and eastern Ormond belonged to the Uí Fidgenti clan, a subgroup of the Eoghanachta. Though often raided, the clan maintained its holding because Irish princes don't take land, only cattle, and both mac Cárthaigh and Uí Briain clans regularly used the Uí Fidgenti in their hostings. The English do take land, and have forced the Uí Fidgenti from their traditional holdings. Dubbed the Liberty of Limerick by King John, the territory is barely controlled by its English lords. The Uí Súilleabháin family offers persistent resistance from their castles in Kerry and west Cork.
 
-## *Croc Áine*
+## Croc Áine
 
 The two hills of Croc Áine overlook the plains of Munster and the nearby Lough Gur. Home to the land-goddess Áine, Croc Áine serves as the wedding site for all royal Munster marriages. Every year on the summer solstice, the nearby people travel to Croc Áine and light a bonfire on both summits. They then light "clairs," homemade straw bundles tied to wooden poles, and carry the lit clairs throughout their cultivated lands and herds. Correctly performing this ceremony grants all the participants a beneficial +1 aging modifier to Aging Rolls.
 
 Croc Áine is partitioned into four parts, one for each of Ireland's provinces (excluding Meath), with each parcel belonging to the faerie leader of the province. Every Tuatha Dé and social faerie attends this ceremony, standing invisibly among the crowd until midnight, at which point they enter Áine's sídh and commence their celebratory feast. The people know it is bad luck to see this, and hurry running the clairs so as to be done by midnight. Magi seeking an audience with any particular faerie in Munster will find him at Croc Áine on the solstice.
 
-## *Story Seed: The Secret Army*
+## Story Seed: The Secret Army
 
 Pockets of Irish resistance exist in the Liberty of Waterford. Déisi warriors occasionally muster and raid English towns and castles. Unlike the Wicklow Mountains in Leinster, Waterford does not have a specific location that hides the Irish resistance, and local English lords are baffled as to where this army hides. While certainly made up of local free and bondsmen living in the many Irish ráths, the leaders and elite warriors have to be full-time soldiers. Is their stronghold magically hidden, perhaps in the thick woods that line the liberty's interior regions? The magi of Ashenrise have taken an interest in this possibility and are asking redcaps what they might know.
 
-## *Story Seed: The Ruinous Toad*
+## Story Seed: The Ruinous Toad
 
 Before the English landed, a toad was discovered swimming in a puddle on a Waterford quay. Noteworthy because toads and their ilk were unknown in Mythic Ireland, seers announced that this ill portent heralded an evil time, and months later the English landed. Since then, more and more toads can be found and a French merchant is said to have successfully imported a poisonous snake. Have the English changed something in the supernatural fabric of Mythic Ireland that now allows poisonous creatures on the island?
 
 
-## *Lough Gur*
+## Lough Gur
 
 Several miles northwest of Croc Áine sits Lough Gur. The lake has a Faerie aura of 5 and an evil reputation. Every seven years it disappears entirely for the night, leaving a bank of impenetrable fog in its absence. The lake is surrounded by cairns and protected by sí gaoith, faerie whirlwinds that pull intruders into the lake and drown them. Áine sometimes meets her husband Manannán in the lake, but its most notorious occupant is a large faerie eel. A dangerous solitary faerie, the eel leaps from the lake at night and attacks visitors. Since no sane person would wander the shoreline at night, most nocturnal visitors are magi, collecting the faerie lake foam that collects on the shores. Under the full moon a night's collection is worth five pawns of Faerie-tainted Aquam vis.
 
 One of the larger cairns is a Bed of Dermot and Grainne, one of the 365 beds that can be found in Mythic Ireland. According to legend, the warrior Dermot eloped with the princes Grainne and hid throughout the island. Fionn mac Cumhaill reluctantly chased after them, but because the pair built secret hiding places each night, it took him a year to find them. The old druids claimed that a man could use the beds of Dermot and Grainne to gain supernatural powers, by following a complicated year-long initiation that includes finding all the beds and sleeping in them in the correct order.
 
-## *Limerick*
+## Limerick
 
 Originally a small Irish community, Limerick is another settlement created by wintering Ostmen. The last powerful Viking lord was slain by Brian Bóramha, who took Limerick as Thomond's capitol. Since then, the city has repeatedly changed hands through the dynastic struggles of the Uí Briain. Domnall Mór Uí Briain burned the city down in 1174 rather than let it fall to the English invaders. The entire area — the city and surrounding countryside — was heavily disputed until Domnall Mór's death in 1194, after which the English took the city and most of the surrounding lands. Limerick received its charter in 1197 and was given to Philip de Braose. King John's Castle, paid for and named after the king, was built in 1200 on King's Island, a small island off the Shannon estuary and part of Limerick.
 
 Limerick is unofficially divided into "English Town," the walled castle and buildings on King's Island, and "Irish Town," the walled structures on the banks of the Shannon that house the Ostmen and Irish. Because of its history as a royal Thomond residence, Limerick is one of the few cities with Irish inhabitants. Nighttime murders are frequent, and foreigners easily disappear into the harbor's depths. The de Braose lord spends so much time keeping the peace within Limerick that he is forced to let the surrounding countryside revert to its Irish ways.
 
-## *Dún Eochair*
+## Dún Eochair
 
 A ruin set along the River Maigue, Dún Eochair was the capital of the Uí Fidgenti before the clan was ousted from the area by the mac Cárthaighs. With the English colonists nearby, the site was abandoned by both clans. Hidden within a regio that occupies the old palace grounds is the palace of Cú Roí, the Munster king of the Ulster Cycle. A famous magician, warrior, and shape-changer, the faerie-hero Cú Roí sorely misses the people that used to live at Dún Eochair. His most frequent role in stories is as a judge, with a reputation for sound and fair decisions. Cú Roí can decide who is the better warrior, or poet, but he can also decide which is the better choice of actions for a person.
 
-## *Kerry*
+## Kerry
 
 Carruidhe, anglicized as "Kerry," is named after the Ciarraige clan, descendents of Ciar, the son of the Ulster exile Fergus mac Róich and Queen Medb of Connacht. Pressure from stronger túatha forced half of the clan to move north, to the Thomond-Connacht border. Those
 
 
 Kerry consists of mountains and peninsulas. The slopes of Slieve Mish swoop down to the shoreline of the Dingle Peninsula. Remote and dangerous, its most powerful túath is the Uí Súilleabháin, followed by the Uí Cinnéide and Uí Donnchadha túatha. Although recently weakened by the mac Cárthaigh clan, the Uí Súilleabháin clan is still large enough to keep the English lords in check, keeping them penned in their fortresses and ruling in name only.
 
-## *Tralee*
+## Tralee
 
 1210.
 
 Kerry's largest town, Tralee (Irish: Trá Lí) is a harbor and market town ruled by the Uí Súilleabháin clan. Sitting on Sleive Mish's northern edge, an ancient trail leads into the mountains and bypasses Scota's Grave, marked by a circle of tall stones hidden away in a small valley grove. Scota was an Egyptian princess and sorceress, wife to Gaedheal Glas and mother to the race of Gaels. Living in Egypt and nearly 2,000 years old, a mystery that still defies explanation, Scota traveled to Mythic Ireland to avenge the death of two of her sons, slain in the Milesians' initial war with the Tuatha Dé. Although she killed her sons' killers, she was later slain by Munster faeries. Buried where she fell, the grove has a Magic aura of five.
 
-## *Skellig Michael*
+## Skellig Michael
 
 Skellig Michael (Irish: *Sceilig Mhichíl*, meaning "Michael's Rock") is a rocky island nine miles from the coast. Steep and barren, it was a monastery for six hundred years before being abandoned in the 11th century. The monks left because
 
 of repeated Viking raids, but their stone huts remain, perched on the peak of the island's 750-foot-high cliffs. The entire island has a Divine aura of 3.
 
 
-## *Circulus Ruber*
+## Circulus Ruber
 
 **Symbol:** A hastily drawn red circle **Season:** Autumn **Cathach:** A Magic Cauldron
 
 The first covenant in Ireland, Circulus Ruber has the largest membership and the most vocal, self-appreciating members. Traditionalists, Circulus Ruber isn't interested in changing its time-honored methods. It appreciates Hermetic scholarship and applauds arcane invention, but it isn't about to reinvent Tribunal rules. Continental magi often feel like they are stepping back in time when visiting Hibernia, and Circulus Ruber goes to great effort to keep it that way.
 
-## *History*
+## History
 
 Circulus Ruber was found by two Tytalus and two Merinita magae, who had come looking for the Tuatha Dé Danann's four legendary treasures. They found an island embroiled in endemic warfare and home to thousands of faeries. The former appealed to the Tytalus and the latter to the Merinita. The four created and continued traditions that eventually became the Tribunal's Peripheral Code. The Tytalus members fostered conflict and individuality and the Merinita members emphasized the sustainability of the island's faeries and its mythical past.
 
@@ -2955,7 +2955,7 @@ After a year living in the Brú na Bóinne the magae moved to the less traveled 
 
 Through the centuries Circulus Ruber watched the island's conflicts, ignoring those it could and participating in those thought necessary. Mundane wars and territorial raids were avoided, but sometimes inevitable. Faerie conflicts were more frequent, and local druids and hedge wizards periodically caused trouble. The Ostmen's rune wizards were redoubtable opponents and fought several indecisive skirmishes with the magi. The Fomóir attack during the Schism War left lasting scars on the tower and the surrounding landscape. Throughout, Circulus Ruber has proved a staunch defender of the Irish magi's culture and the Hibernian Tribunal's Peripheral Code. The magi have so far ignored the English invaders, thinking they are ultimately inconsequential, although the magi riding English coattails may not be.
 
-## *Setting and Physical Description*
+## Setting and Physical Description
 
 The covenant is a large, round tower 120 feet high and 60 feet wide. An augmented version of *Conjuring the Mystic Tower*, the tower easily houses 12 magi and their staff. Each year the newest member paints a red circle running around the tower's waist, halfway between top and bottom. The magi live above the mundane staff, who reside on the lower levels. Traditionalists, Circulus Ruber always fulfills its wealth requirement with cattle.
 
@@ -2967,7 +2967,7 @@ Circulus Ruber's cathach is the magic cauldron first discovered by the covenant'
 
 Few know the cauldron's real powers, a closely guarded secret kept from the Tribunal. The cauldron will revive a dead warrior, providing that his head and spine are intact. This warrior cannot speak, but will fight for the next 24 hours under the command of the person who placed it in the cauldron. Llasar Llaes Gyfnewid's Cauldron will not revive a corpse a second time.
 
-## *Culture*
+## Culture
 
 Circulus Ruber sees itself as the Tribunal's leader and representative example. Adhering to romanticized notions of the past, the magi refuse to change the
 
@@ -2976,7 +2976,7 @@ Peripheral Code. Instead they emphasize the combative, individual nature of the 
 
 Promoters of violence, the magi are also Hibernian protectors. Members safeguard essential sites, sacred mounds, and other areas that the Tribunal deems important. They support both Mercer Houses, offering hospitality to traveling Redcaps. Tribunal obligation becomes covenant business, and Circulus Ruber's members readily sacrifice personal time for community efforts.
 
-## *Magi*
+## Magi
 
 Circulus Ruber currently houses eight magi, including the praeco and head Quaesitor.
 
@@ -3011,7 +3011,7 @@ Conán Derg (CUNN-awn JARG) is the oldest magus in Hibernia. He appears robust a
 Two months after the Tribunal meeting of 1186, while wandering alone along the Connacht border, Conán Derg was attacked and lost his right arm at the shoulder. While Hermetic magic can grow him a new arm, he refused. Citing the ancient Irish notion that a leader must be whole, he abdicated as praeco and retreated from Hermetic politics. Since that decision Conán Derg has seemed happier than he has been in years.
 
 
-## *Cliffheart*
+## Cliffheart
 
 **Symbol**: Three doves flying in a circle
 
@@ -3021,7 +3021,7 @@ Two months after the Tribunal meeting of 1186, while wandering alone along the C
 
 Cliffheart magi are interested in faeries. Regular interactions with Irish faeries have made the magi paranoid, so they take extreme measures to protect themselves. Staunch traditionalists, Cliffheart refuses to accept English magi and believes that Hibernia should continue its Irish traditions. To further this goal they are inventing a way to cast spells in Irish instead of Latin.
 
-## *History*
+## History
 
 Cliffheart was founded by three Merinita magi after their covenant, Cosán Ceolaire (English: "Warbler's Way"), was destroyed in the Schism War. Most Merinita magi didn't participate in the Schism War, but these three fought because of House Diedne's alliance with the Munster Tuatha Dé. After the final confrontation at the Battle of Clontarf, the magi moved to Cape Clear Island, lying just off Ireland's southwest shore.
 
@@ -3029,7 +3029,7 @@ Cliffheart never discovered why the Tuatha Dé allied with House Diedne. After t
 
 
 
-## *Location*
+## Location
 
 Cape Clear Island lies eight miles off Ireland's southern most shore. One mile wide and three miles long, the island is divided by an isthmus. The southern half is inhabited by a small monastic community, and the slightly larger northern half is empty except for the magi and several varieties of birds. A simple ráth surrounding a dozen huts, Cliffheart sits on a steep hill on the northern shore overlooking a small cove. Called the Cove of the Black Stream, the cove and the hill have a Magic aura of 3.
 
@@ -3039,7 +3039,7 @@ The northern half of Cape Clear Island receives a few mundane wanderers. To avoi
 
 Three standing stones are found outside Cliffheart, one of which is a Diedne magus turned into a stone obelisk. The obelisk has a hand-sized hole running through it, which, according to the magi, is a fatal wound. Cliffheart magi annually renew the spell, for if it were to end the magus would instantly die. Community members from the monastic village call the stones the Marriage Stones, and think that if a man extends his arm through the hole and grasps a woman's hand the pair will be together forever. The monks prevent couples from doing this, citing the practice as pagan and evil. Both the lovesick couples and the nay-saying monks cause minor problems for Cliffheart.
 
-## *Culture*
+## Culture
 
 Four of Cliffheart's six magi investigate faeries, which includes collecting, combating, interrogating, interviewing, and entertaining the Good Folk. The other two rarely leave the island and their sancta. The magi leave mundane chores and interactions to Maynard, Cliffheart's steward. Unlike other more traditional stewards, Maynard poses as a madman living among the island's birds. He tells people that the standing stones are haunted and should be left alone. Food and other supplies are brought ashore secretly, shipped in at the Cove of the Black Stream. Hermetic visitors either look for the dirt path leading to the standing stones or the anchorite living among the gulls and barnacle geese.
 
@@ -3059,7 +3059,7 @@ The covenant grounds are an intentional mess. Irish faeries dislike disorder, so
 - Sprinkling stale urine on the threshold of every doorway.
 - Never starting lab work or a journey on a Friday.
 
-## *Magi*
+## Magi
 
 Four of the six magi are Merinita magi and regularly travel the Tribunal. Besides the leader Faisgia, the other Merinita magi are the Rego specialist Ruaidrí Mór, the Herbam specialist Áine Dhubh (Black Ann), and the combative Coscrach Cam. The Bonisagus Palantus and the Verditius Styrbjórn rarely leave their laboratories.
 
@@ -3087,7 +3087,7 @@ in no immediate danger. Realizing that he loved his homeland, Styrbjórn petitio
 Palantus is a German magus trained in the Rhine Tribunal. A born linguist, he is researching a method to cast spells in Irish (*Ancient Magic*, page 29). To do so, Palantus has designed a spell that forces a faerie to speak in its archaic, more true language rather than using its Faerie Speech Pretense. He records these ramblings and uses them as a basis for his original research. Each interview can be used once. He is always eager to meet a new faerie and talk with it. The problem is that he doesn't feel comfortable outside a laboratory and his sodales don't like faerie visitors. He usually asks if he can use other Hibernia magi's laboratories to conduct his interviews.
 
 
-## *Elk's Run*
+## Elk's Run
 
 **Symbol:** A magnificent pair of Giant Elk's antlers
 
@@ -3097,7 +3097,7 @@ Palantus is a German magus trained in the Rhine Tribunal. A born linguist, he is
 
 The covenant of Elk's Run was founded only a few decades ago, but embodies the traditions of learning, hospitality, and scholarship that once made Ireland's covenants great. Yet not everyone is pleased to see this new foundation.
 
-## *History*
+## History
 
 One of the most recent of Hibernia's covenants, Elk's Run was founded to embody the best traditions of the golden age of the Order of Hermes in Ireland, and is known as Elk's Run owing to the strange manner in which it was established. When Oswald of Bonisagus and Lugardis of Guernicus arrived in 1159 they had cattle and silver, some vis sources formerly unknown to the Tribunal, and carried the giant elk antlers which were to act as the cathach for the covenant. They claimed the right to found a covenant here in a remote valley, and set about constructing a traditional style round tower.
 
@@ -3118,19 +3118,19 @@ And where it landed rose a great elk, taller at the shoulder than the tallest ma
 
 The covenant's cathach is the antlers of an Irish elk, an extinct beast larger than any found in the world today. Its powers are unknown beyond the fact that Oswald has somehow brought it to life and ridden it on three occasions now, each time in defense of his covenant.
 
-## *Setting and Physical Description*
+## Setting and Physical Description
 
 Nestled in a large, isolated valley in the Slieve Aught mountains to the west of Lough Derg in Munster, Elk's Run stands close to the border of forbidden Connacht to the north. The covenant consists of a group of three traditional towers, a small feasting hall and a good sized stone scriptorium, a small hamlet, pasture and fields, all nestled in the remote valley. Yet while the houses of the covenfolk, the towers, and the small stone building which holds the library are all clustered within the *Aegis of the Hearth*, the covenant lays claim to vast areas of mountain, lough and forest, and all the vis sources within.
 
-## *Culture and Traditions*
+## Culture and Traditions
 
 Elk's Run is a covenant dedicated to magical research and in particular to the collection of books. Oswald is known to have spent a great deal of time copying texts from the excellent library of the Archbishop of Armagh, where he learned the Ars Notoria, and trading texts with monasteries all over Hibernia. The Cow and Calf rule is strictly enforced; a copy of a book may be made, but can only be taken from the covenant if traded for a text of equivalent value. The library has a superb library of mundane books, and a fine collection of Laboratory Texts as well as some rare magical volumes. Many books are copied and leave Ireland from Elk's Run, sent to covenants all over Mythic Europe as gifts or in exchange for other books, and Oswald has earned a fine reputation for generosity and scholarship.
 
-#### *The Contested Isle*
+#### The Contested Isle
 
 In recent years as the English have encroached further across Ireland, however, Elk's Run has faced increasing hostility. While Oswald is increasingly reclusive and involved with running the scriptorium and the acquisition of new books, the other magi have become increasingly belligerent in the face of continued raiding, and have forged increasing links with English nobles. Lugardis has warned her sodales several times that their actions supporting the English may be seen as interfering with mundanes, but the general feeling of the magi is that to survive they must look to the English for assistance.
 
-## *Magi*
+## Magi
 
 There are currently three magi at Elk's Run, and two apprentices, both taught by Oswald. The covenant is increasingly beleaguered, both by raiding Irish clansmen of the local Uí Sheachnasaigh clan and by raiding Irish magi attempting to steal the cathach. There is increasingly little agreement on how to deal with the covenant's problems.
 
@@ -3165,21 +3165,21 @@ Igneous is from the Stonehenge Tribunal, and has only been in Hibernia for ten y
 
 He has developed a spell which creates a Boundary wall of fire, which he uses to encircle the covenant during a raid by its enemies, and he burns those caught inside before he tracks down the fleeing survivors. He wrongly believes that the Hibernia Tribunal has no enforced law among magi, and that his wanton killing of the Wandering Years raiders, Ua Cathail bandits and any hedge magician who irritate him and strays out of Connacht will go forever unpunished. Recently he has grown bored awaiting aggression, and has begun to wage Wizard War against those Irish magi he sees as having slighted his sodales or covenant, and he was an enthusiastic supporter of the Siege of Praesis, spending seasons there training the attacking magi in Ignem spells and a great deal to assist in the fall of the island covenant. He remains a firm supporter of Ballack and friend to the new Praesis.
 
-## *Covenfolk*
+## Covenfolk
 
 The locals are of the clan Cenél Áeda na hEchtge, and that clan are a branch of the Uí Fiachrach Aidhne who were the royal house of Connacht in ancient times. Two great families comprise the clan — the Uí Sheachnasaigh and the Ua Cathail — but it is the Uí Sheachnasaigh who serve as covenfolk here. The Ua Cathail resent the English magi and the aid they bestow upon their Uí Sheachnasaigh rivals, and may soon bring a formal complaint to the Tribunal. The other covenants of Ireland may support this despite Lugardis's best efforts, but it is doubtful; the interference with mundanes is likely to bring ruin upon their sodales and therefore an offense against the Code.
 
-## *The Mercer House of Leth Moga*
+## The Mercer House of Leth Moga
 
 Sister to Leth Cuinn, the Mercer House of Leth Moga (LEH MOG-ah) serves the covenants south of the Eiscir Raida. Since its beginning Leth Moga has been interested in preserving the Tribunal's history. While the northern redcaps practice martial feats, the southern redcaps are the eye-witnesses of the Tribunal, keeping detailed journals of their accounts. Like Leth Cuinn, Leth Moga is not a covenant. It does not keep a cathach nor need a wealth requirement. It exists because it serves the Tribunal, and its existence is safeguarded by numerous Hibernia Peripheral Code rulings.
 
-## *History*
+## History
 
 Leth Moga and Leth Cuinn were formed in 898, byproducts of Hibernia's first Tribunal meeting as an independent Tribunal. The Redcap Imag, wife of the abbot of the monastery of Cloyne, offered land and leadership and was granted the right to build the southern Mercer House. Her husband, Cian Ua Cathain, led the dozen monks and the monastery staff, and Imag managed the Mercer House. Following the example of monastic chroniclers, Imag recorded the Tribunal's Hermetic history in the *Red Book of Cloyne*, and subsequent leaders have continued the work.
 
 Initially the *Red Book of Cloyne* was publicly available. Following the Schism war, Leth Moga's leader Fergal mac Cuircc restricted its viewing. Having dutifully recorded the events of the Schism War in Hibernia, Fergal said that the magi needed to forget their war by literally closing the book on it. He continued the practice of recording history, but only other Redcaps could view the book. In the 12th century some magi complained, saying that the preserved eye-witness records could be useful testimony in legal proceedings. Fergal's son-in-law and successor, Diarmait, agreed that individual Redcaps' testimony should be available, but the *Red Book of Cloyne*, which he inherited from his father-in-law as personal property, falls under the protection of his sanctum marker. The Tribunal agreed, but several magi dislike this ruling.
 
-## *Location*
+## Location
 
 Leth Moga is located in the village monastery of Cloyne in the kingdom of Desmond. Wooden houses sit around a stone church and round tower. The monastery is not protected by a wooden palisade or a stone wall, and when threatened the monks and villagers lock themselves inside the stone tower. The Mercer House is a large wooden house and rarely used barn, built on the southern edge of the monastery. Sitting atop a Magic aura of 1, the drafty and cold barn serves is as an adequate laboratory. With no Gifted
 
@@ -3188,17 +3188,17 @@ Merceres in residence, Diarmait allows other magi to rent the laboratory for the
 
 Naturally formed tunnels and caverns run beneath the village, linking several important caves and underground chambers. The current abbot knows about some of these, and Diarmait knows a great deal more. The more valuable goods of the Mercere House — records, stored vis, and magical items — are kept behind locked doors, to prevent curious monks from stumbling upon them.
 
-## *Culture*
+## Culture
 
 The Redcaps and the monks remain on good terms, even with the recently dictated religious reforms. With a clear separation between the monks and the Redcaps, considerable interaction exits between the Mercer House members and the villagers. All of the Redcaps at Leth Moga are related, linked through the female line of their founder, Imag. Between the abbot, his immediate staff, and married Redcaps' family members, the Mercer House is hardly a secret.
 
 Leth Moga Redcaps frequently attend Hermetic functions, acting as witnesses and recorders. All of the Redcaps have undergone the Mystery Initiation to learn the Art of Memory. While each can accurately remember witnessed events, each is then asked to record their observations in the *Red Book of Cloyne*. Some Redcaps see this as a chore, but not an especially onerous one.
 
-## *Magi*
+## Magi
 
 None of the current members of the Mercer House are Gifted. Responsible only for the southern half of the Tribu-
 
-## *Story Seed: The Missing Book*
+## Story Seed: The Missing Book
 
 Leth Moga has few defenses. One morning, Diarmait discovers that the *Red Book* has been taken from the scriptorium. Knowing that the macgnímartha often steal cathachs, and even though the book isn't a cathach he immediately imagines that a young magus took the book. He asks the player characters to recover it. A false trail leads to the woods around the Killarny Lakes, but the true culprit is an older magus who would like a certain, inglorious event removed from the text. While the player characters scour the woods for a macgnímartha, the thief hopes to return the book unnoticed.
 
@@ -3225,17 +3225,17 @@ Diarmait's filius and son-in-law, Gopstan mac Diarmata (GOP-stun moc JAW- mat-uh
 Dashing and handsome, Luathan (LOOAH-han) is the most popular Redcap in the southern half of the Tribunal. Luathan has the temperament for the Cult of Heroes, but an unfortunate geas keeps him from learning any Virtue that would grant him quasi-magical abilities. "Forever mundane or forever lame," says the geas, laid on him by his angry mother when he accepted Redcap Ercc Cam's offer to train his nephew. Barred from the initiations popular at Leth Cuill, Luathan remained below the Esker Riada. Luathan makes good use of magical items. He has a cloak that can change him into an eagle and a harpoon that allows him to breathe underwater.
 
 
-## *Chapter Nine*
+## Chapter Nine
 
-# *The Province of Ulster*
+# The Province of Ulster
 
 Ulster or Ulaid (pronounced UHlodge) is the northernmost province of Ireland. In the days when the famed king Conchobhar mac Neasa ruled from Emhain Mhacha, the Ulaidh (UH-loy, meaning Ulstermen) gave Ireland some of its most powerful legends of heroes and kings. These tales form the *Ruadhraigheacht*, better known by its English name of *The Ulster Cycle*. None of the kingdoms that comprise the province in the thirteenth century have an Ulaidh king, but the Ulstermen are still fiercely proud of their heritage and remarkably coherent for a people who have lived under "foreign" kings for so long.
 
-## *The Peoples of Ulster*
+## The Peoples of Ulster
 
 The history of Ulster is one of warfare and bloodshed; not for nothing did the druids associate the northerly direction with battle and strife. It was in the north that the Tír Fhomóraig ("Land of the Fomórach") once stretched from east to west, and dominated the Nemedians and the Túatha Dé Danann (see Chapter 11). Once this monstrous race was driven from Ireland the land was settled by the victors, and soon entered the hands of the Érainn.
 
-## *The Érainn*
+## The Érainn
 
 The Érainn (AY-run) are one of the four root races descended from Míl Espáine (Chapter 2). As a vassal tribe of the Connachta they were scattered throughout Ireland, but hung on longest in the north as the Ulaidh. They were worshipers of Dáire (a name for The Dagda) and Macha, a goddess of sovereignty and horses.
 
@@ -3251,7 +3251,7 @@ The heroic struggle of the Ulaidh against the Connachta was ultimately futile; t
 
 Whilst the common people of western and central Ulster are Érainn living under Connachta kings, the true Ulaidh are the Dál bhFiatach (DAWL VYOT-uch) who ruled the eastern reaches of the province from Downpatrick until the coming of the English. The Dál bhFiatach were alternately allied with and in contest with the Dál nAraidhe (see Cruithnigh, later) who occasionally provided a provincial king. The purity of the Dál bhFiatach is evidenced by the fact that some families still suffer the Birth-Pangs of Macha (see Chapter 10), an ancient curse levied on true-blooded Ulstermen.
 
-## *The Cruithnigh*
+## The Cruithnigh
 
 The Cruithnigh (KRUH-nee) are not one of the four root races. They came to Ireland from Scotland (where they are called Picts) in search of wives, for they had no women. Éireamhóin mac Míl (see Chapter 2) gave them the widows of deceased Mílesians, on the condition that the Cruithnigh would have women as their leaders, a tradition that the Cruithnigh have kept ever since.
 
@@ -3261,13 +3261,13 @@ was crushed between the twin forces of Diedne (as a pagan priesthood that refuse
 
 On average slightly shorter than the Gaels, the Cruithnigh tend toward darker hair tones and eye color. They have a fondness for multicolored clothes, and often decorate their skin with tattoos. At least in Tír Fhomóraig (see later) and perhaps elsewhere, there are rare pockets of Cruithnigh paganism. The priests of this religion are identical to the gruagachan (see *Hedge Magic Revised Edition*, Chapter 7).
 
-## *The English*
+## The English
 
 The Anglo-Norman knight John de Courcy was granted Ulster by the king of England "if he could conquer it." He took this grant seriously, and marched on the province with twenty two knights and about three hundred soldiers. He passed through Meath and Airgíalla, and on the first of February 1177, took Down completely by surprise. The king of Ulster was Ruaidhrí mac Con Ulad Mac Duinn Sléibe of the Dál bhFiatach, who could not face de Courcy on the field of battle thanks to the curse of Macha's Birth-Pangs. Instead, the king fled to collect an army, and returned after a week once the curse had passed. The Ulaidh were panic-stricken by the sight of the Englishmen with their horses in full battle dress, and were routed. Even when they were supported by the Cenél nEóghain later that year, de Courcy seemed to have the favor of God, and was soon secure in the lordship of all the land east of the River Bann.
 
 In 1196, de Courcy defeated the king of Tír Chonaill and exacted tribute from that land, and after his brother was murdered by an Irishman in his court in 1198, he ravaged the northern lands of Ulster in revenge. Much of Ulster was under his control after these campaigns, but his downfall came when his old enemy King John took the throne in 1201. John de Courcy made the mistake of allying with King Cathal Crobhdearg Ua Conchobhair of Connacht, and in 1203 he was arrested in rebellion against the crown of England by Hugh de Lacy, younger son of the English Lord of Meath (Chapter 7). In May 1205, King John made Hugh de Lacy the first Earl of Ulster, granting him dominion of all the lands "as John de Courcy held it on the day when Hugh defeated him."
 
-## *Tír Chonaill*
+## Tír Chonaill
 
 Tír Chonaill (TCHEER CHUN-ull) is the name given to the lands of the Cenél gConaill, scions of the Uí Neill who rule Connacht. The land and the dynasty is
 
@@ -3278,11 +3278,11 @@ The current king, Domhnall Mór mac Eicnechain, is a direct descendent of Conall
 
 Tír Chonaill is a mountainous land, with the Derryveagh mountains (Cnoic Dhoire Bheatha) in the north and the Blue Stack Mountains (Cruacha Gorma) in the south. The land is typified by deep, green valleys where sheep are raised. The Blue Stacks form an impenetrable barrier between the north and south of the kingdom. The most fertile land in Tír Chonaill is in the valley of the river Finn and the region around Raphoe called the Laggan.
 
-## *Donegal*
+## Donegal
 
 Dun na nGaill ("fort of the foreigners") is the biggest town of Tír Chonaill, and is a stronghold of the Uí Domhnaill family. As the name suggests, the town was first built by Norse settlers and it became an important port. The town of Donegal is home to most of the *gallóglaigh* (foreign warriors, singular *gallóglach*) employed by the Uí Domhnaill. Most of these mercenaries are of mixed Norse-Gaelic descent, and hail from the Norse Kingdom of the Isles in western Scotland. There are twenty corrughadh (units of approximately 100 men) scattered in camps within and around Donegal, and they are a source of tension in the town. Gallóglaigh are known for their superb fighting skills using battle axes and greatswords; they are all heavily armored in chainmail. Tír Chonaill relies on this army for its defense, and unlike other kingdoms it does not rely on clansmen or levies. What the Uí Domhnaill gain in equipment and training, they lose in numbers.
 
-## *Lough Dearg*
+## Lough Dearg
 
 A large but shallow lake best known for one of its islands, Inisphadraig (pronounced IN-ish FOD-rug), which bears a famous pilgrimage destination, the Purgatory of Saint Patrick. Lough Dearg has several other islands, and legend has it that some of them are connected through tunnels that run under the lough.
 
@@ -3292,17 +3292,17 @@ This is one of the most important pilgrimage sites in Ireland. Legend has it tha
 
 Penitents arriving on Inisphadraig are met by a chapter of Augustinian monks who provide board and lodging for the pilgrim. The monks draw lots for the pilgrims, determining who stands vigil each night. Participants in the vigil experience a trip to the horrors of Purgatory.
 
-## *The Poisoned Glen*
+## The Poisoned Glen
 
 The Poisoned Glen is on the coast facing Toraigh Island (see Tír Fhomóraig, later). The black and scarred slopes of the mountains which overlook the Poisoned
 
-## *The Plagues of Tír Chonaill*
+## The Plagues of Tír Chonaill
 
 Tír Chonaill has been the point of origin of several plagues so great that they received names in the annals of Ireland's historians. The *Crom Chonaill* spread southwards in the sixth century, followed by the *Buidhe Chonaill* a century later. The Annals report that during another pestilence in 986 demons were seen cavorting among the dead. A pestilence called the *Rogh Rámhach* in 1084 was said to have killed a quarter of Ireland's population. Fortunately, the *Scuab a Fánait* that was prophesied in 1096 from the north of Tír Chonaill never materialized.
 
 It is said that a great dragon has been seen in the sky on the advent of each of these plagues. The fact that the fomórach (Chapter 10) are implicated in killing the Partholónians with plague, and that the remnants of this race are found on the islands to the north of Tír Chonaill, has not gone unnoticed.
 
-## *The Lucht Tighe*
+## The Lucht Tighe
 
 The Uí Domhnaill of the Uí Néill rely on eight household families to shoulder some of the burden of running Tír Chonaill, and other dynasties have a similar division of labor. Some covenants have followed a similar tradition among their covenfolk and instituted their own Lucht Tighe. The eight families of the Lucht Tighe of Tír Chonaill are:
 
@@ -3330,11 +3330,11 @@ OWE-un), as well as the Cenél nEóghain dynasty. Tír Eóghain is a relatively 
 
 Broadly bounded by the rivers Foyle, Bann, and Blackwater, Tír Eóghain is dominated by the Sperrin Mountains (*Sliabh Speirin*). The eastern reaches between these mountains and Lough Neagh are a flat expanse of peat bogs, which cannot sustain agriculture, and most of the population lives on the northern coast or the southern grainlands near Airgíalla.
 
-## *Aileach*
+## Aileach
 
 Situated on the peninsula of Inis Eóghain (IN-ish OWE-un), the hillfort of Aileach was once the capital of a kingdom of the same name which held Airgíalla and
 
-## *Raphoe*
+## Raphoe
 
 Ráth Bhoth was settled by Saint Columba, who founded a monastery here which was expanded by his kinsman Saint Adomnán. The cathedra of the Bishop of Raphoe is dedicated to Saint Adomnán, although the church itself has not been rebuilt since its destruction by John de Courcy in 1198.
 
@@ -3342,17 +3342,17 @@ Ráth Bhoth was settled by Saint Columba, who founded a monastery here which was
 
 This is a large stone circle on an isolated hilltop just two miles south of Raphoe. Sixty broad, triangular stones make up a circle nearly fifty feet in diameter. Some of the stones are separated by low boulders,while others are contiguous with the adjacent stone. The stones lean outward slightly. Most of the stones are about four feet high, but at the east and west points there are mighty pillars each over nine feet tall. There is a carving of a stone head among the stones, its face contorted as if blowing or screaming. There is evidence that there may have been at least three more heads among the stones, but they have now been destroyed or taken away. There is a Magic aura of 2 here.
 
-## *Tír Eóghain*
+## Tír Eóghain
 
 Eóghan was the brother of Conall Gulban and son of Niall of the Nine Hostages, who gave his name to Inis Eóghain and Tír Eóghain (pronounced TCHEER
 
 
-## *The Black Pig's Dyke*
+## The Black Pig's Dyke
 
 The *Gleann na muice duibhe* is a deep ditch, twelve feet deep in places, with up to four feet of earth banks on either side, that runs across the border of Ulster from Lough Cairlinn in the east to Donegal Bay in the west. It was plowed by the snout of an immense black faerie boar, and kept clear by that same boar every three years. The Black Pig was slaughtered by the magi of Vigil and its tusks retained as their cathach (Chapter 4); since then the dyke's path has not been replowed. The dyke is no longer continuous, and is in a shocking state of disrepair. The remaining sections of the dyke are a faerie trod with a Faerie aura of 1; if restored it would form a complete boundary around Ulster (although it would require seven size modifiers to craft a Target: Boundary spell that affected the entire province).
 
 
-## *Story Seed: The Neamh-Mairbh*
+## Story Seed: The Neamh-Mairbh
 
 The monument has been long forgotten, and the land is being cleared for agriculture. While cutting down a hawthorn over the grave, a terrible accident ensues and one of the workmen severs his hand with an axe. The blood soaks into the soil. A terrible rumbling is heard, and the workmen flee. That night, the dreadful Ábhartach rises from his grave. The storyguide should decide on the powers of Ábhartach (who could be a dark faerie magician or an infernallycorrupted sorcerer); he could easily be the major villain of a series of stories as he begins to exert control over the land once again.
 
@@ -3360,13 +3360,13 @@ Ulster as its vassals. It was here that Saint Patrick baptized Eóghain mac Neil
 
 The Grianán Ailigh — the fortress itself — was built by The Dagda as a monument to the sun, and was, for a time, the headquarters of the resistance against the Fomórach. The Grianán now stands abandoned, smashed by the might of the Munster forces and sacked by its king. King Muirchertach Ua Briain of Munster was determined to steal the Grianán to replace his fortress, which had been destroyed by the King of Aileach twenty years prior; he ordered each of his soldiers to bring a stone back home to Munster. However, faerie-built fortresses are not so easily stolen, and every stone taken was mysteriously replaced. The outer wall of the circular fortress is 17 feet high, 13 feet thick, and 77 feet in diameter. It would make an excellent site for a covenant, except that Vigil (see later) has declared an interest in Aileach. Whilst they have no legal right to prevent others investigating this Faerie-built hillfort, Vigil is likely to defend their claim with certamen and Wizard War.
 
-## *Beaghmore*
+## Beaghmore
 
 Situated in the middle of a peat bog in the southeastern foothills of the Sperrin Mountains, an Bheitheach Mhór ("the big place of birch trees") is an area of confusing auras and supernatural phenomena. Protruding through the peat are seven stone circles, a dozen cairns, and ten arrow-straight stone lines lined up on a northeast-southwest axis. The circles are arranged into three pairs and a singleton; the interior of the latter is filled with a thousand triangular stones standing upright, known locally as the "dragon's teeth." Each pair of circles has a different Magic aura ranging from 1 to 3, whereas the single stone circle has an aura of 4. Each of the rows of stones has an aura of 2 aligned with a different Form.
 
 Bressal Ua Boniségeas, who has examined this peat moorland extensively, has theorized that the conflicting auras are a result of a shattered regio, although whether this destruction was enacted on purpose or by accident is unclear.
 
-## *Doire*
+## Doire
 
 This town is situated on the Foyle river. Doire (DIR-yuh, or Derry to the English) means "oak grove" in Gaelic, and it was an important ritual site to the druids. Saint Columba established a monastery here in the sixth century after defeating the druids in a battle of words, and although they swore to return, they never did. The town now holds the cathedral of one of Armagh's bishoprics, the impressive Tempull Mór ("Great Church"), completed in 1160. Doire has suffered many raids by Vikings from the Isle of Man even up to the current day, and is well fortified on its seaward side. In the center of Doire is the city's central market square, four streets (Bishop's gate, Ferryquay gate, Shipquay gate, and Butcher's gate) radiate out from here, and each street leads to a gate in the city's walls. Doire is under the protection of the Mac Lochlainn family, who were kings of the Cenél nEóghain before the Uí Néills.
 
@@ -3375,7 +3375,7 @@ The English fort of Greencastle has recently been built at the entrance to Lough
 
 The monument of Ábhartach near the town of Slaghtaverty is a dolmen marking the grave of a horrid creature called a *neamh-mairbh*, or walking dead. Ábhartach (OR-vor-tach) was a dwarf and a magician, and when he was alive he ruled the locals using his wicked spells, spreading fear and discord. He was slain by a chieftain; some say it was Fionn mac Cumhaill, but others place the deed in the hands of Cathán, ancestor of the local Ua Catháin. Ábhartach was buried standing up, but he returned the next day to his ráth, as evil and potent as ever. He was slain and buried a second time, with the same result. The third time he was slain a druid advised he be buried head first and a monument raised over him; this time his magic was subdued and stayed in his grave.
 
-## *Lough Neagh*
+## Lough Neagh
 
 Lough Neagh was created when the giant hero Fionn mac Cumhail went to war with the Scottish giant Benandonner. He scooped up a clod of earth and hurled it at his rival, but the clod fell short of its target and landed in the Irish sea, forming the Isle of Man. The void where the earth came from formed Lough Neagh.
 
@@ -3388,13 +3388,13 @@ This is a large, heavily-wooded island in the south-west corner of Loch Neagh, a
 
 ing of 2. Apart from the fact that an English knight has just been granted the right to put a motte on the island, it would make a perfect spot for a covenant.
 
-## *Airgíalla*
+## Airgíalla
 
 Airgíalla (OR-ryeel-uh, called "Oriel" by the English) had its origins when three brothers — Colla Uais, Colla Meann, and Colla Fochra — returned from exile in Scotland after killing the father of High King Muireadhach Tíreach. He forgave them, and encouraged them to conquer Ulster. The Three Collas won six great battles against the Ulaidh; the seventh lasted a day and a night, and the soldiers were up to their waists in blood by the time it was done.
 
 Airgíalla is formed from a confederation of nine sub-kingdoms ruled by the descendants of the Three Collas and their chief supporters, but peopled by the native Érainn. The name Airgíalla, the "givers of hostages" came from the nine hostages offered to the Connachta. The high status of these political prisoners was indicated by the chains of gold that they wore. The current king is Donnchad Ua nAnluain.
 
-## *Armagh*
+## Armagh
 
 Armagh (AR-marr, originally *Ard Mhacha*) is the seat of one of Ireland's four archbishops. Many consider it the preeminent religious center of Ireland. The town was founded by Saint Patrick, after a lord named Dáire was persuaded to give Patrick the hill of Droim Saileach by a series of miracles. The hill became the site of a monastery, which grew into the city it is today. The cathedral of Armagh incorporates into the wall of its nave a pagan idol found in nearby Tóin re Gaoith that represents Nuada of the Silver Arm, a king of the Túatha Dé Danann. It also has the skull of Conchobhar mac Neasa (see The Érainn, earlier).
 
@@ -3408,26 +3408,26 @@ The palace of Conchobhar at Emhain Mhacha was called *Chraobhruadh*, "the redbra
 
 There are several other landmarks in the immediate vicinity of Emhain Mhacha. To the east are the remnants of Bron Bherg ("house of sorrows"), said to be the first hospital in Mythic Europe, built by Macha Mhuingruadh and in continual use until its destruction in 22 AD. To the northeast is Loughnashade ("lake of the treasure") where sacrifices were cast to the gods by Macha's druids — gold, sacrificed horses, and the heads of captured enemies. Finally, to the northwest is the King's Stables, where the sacred horses reserved solely for the use of the king were kept. The descendents of these perfect specimens still roam the region around Armagh, and some of them prove to be fíorláiridhe (see Chapter 10).
 
-## *Clogher*
+## Clogher
 
 *Cloch Oir* (meaning "golden stone") is the capital of the kingdom of Airgíalla, and the bishop of Clogher is more often called the Bishop of Airgíalla.
 
 The golden stone of the town's name is a reference to a pagan idol kept in the cathedral. The gold-covered stone was the relic of a local pagan cult. Cermand Cestach, the god of the stone, spoke through a *ban fáith* (a druidic priestess), and had an uncanny ability to see the future.
 
-## *Cuailnge*
+## Cuailnge
 
 This was once the capital of the kingdom of Conaille Muirtheimne, a tributary kingdom of Ulster. The people of Muirtheimne were (and still are) of Cruithnigh descent, of the Uí Echach Corbo. They occupied the land from the Cuailnge peninsula down to the mouth
 
-## *Macha*
+## Macha
 
 Several mortal women called Macha are connected to Emhain Mhacha. One was was the wife of Crunnchu, who boasted that his wife could outrun the best of horses. King Conchobhar held Crunnchu's life forfeit on the truth of that boast; and she was forced to race despite being heavily pregnant. She won the race but then collapsed, and gave birth to twins. Before she died she put a curse on Ulstermen that in the time of their greatest need they would be struck down with the pain she suffered for five nights and four days, a curse called the *ces noidhen* (difficulty of childbearing, see Chapter 10).
 
 
-## *Donn and Find*
+## Donn and Find
 
 Enemies for as long as one can remember, the faeries called Donn ("dark") and Find ("bright") have always fought with one another. They are consummate shapeshifters, and have taken the form of swineherds, hawks, fish, stags, warriors, phantoms, and maggots. Their most famous incarnations were as Donn Cuailnge and Findbheannach; the dark bull of Cuailgne and the white bull of Connacht, who were the initiators of the great cattle raid called the *Táin Bó Cuailgne*. Find's name has connotations of illumination and wisdom, as well as the brightness of daytime. Donn, on the other hand is associated with the dead, with phantoms, and with nighttime. The faeries are always trying to drag mortals into their endless war. Donn has recently caused a group of children with faerie blood to be born, which he hopes will become the core of his new army. Find has not yet responded to this move.
 
-## *The Statues of White Island*
+## The Statues of White Island
 
 These eight statues were carved by the same mason two to three hundred years ago.
 
@@ -3444,7 +3444,7 @@ of the Boyne; but most of this land has now been gifted by the Earl of Ulster to
 
 Legend has it that the Muirtheimne plain used to rest beneath the sea. Conchobhar mac Neasa, before he became king of Ulster, captured a daughter of the god Ler on the beach. In return for her release, the mermaid raised the plain from the sea and told him how to make a shield that would increase his strength while decreasing that of his enemies. Conchobhar commissioned the smith Culann for this task, who left his smithy on the Isle of Man and accepted the plain Muirtheimne from the king. This is the same Culann whose dog gave the great hero Cú Chulainn of Muirtheimne his name (Chapter 11).
 
-## *Drogheda Castle*
+## Drogheda Castle
 
 Called *Droichead Atha* (Bridge of the Ford) by the Irish, Drogheda is a town split in twain by the River Boyne. Drogheda-in-Meath, on the south bank of the river, has been taken over by the English, who have occupied the Norse-built fortress and extended its defenses. Drogheda-in-Meath was granted a town charter in 1194. Drogheda-in-Airgíalla is on the north bank of the river, and has grown from the trading post that served the castle. Since the English invasion, the king of Airgíalla has moved soldiers into his Drogheda, and seems to be prepared to prevent the English from taking the town — even though they have already conquered the lands immediately to the north and west.
 
@@ -3459,7 +3459,7 @@ The River Erne meanders through the middle of Fermanagh, opening into two loughs
 
 Boa Island is the largest of the islands, named after Badhbh, one of the bloodthirsty warrior goddesses of the Túatha Dé. There is a pagan idol here with two faces, one on either side of the statue. The figure has hunched shoulders and a protruding tongue. White Island has a collection of eight statues which the monks claim represent saints, but since opinion is divided as to which saints are represented, this seems unlikely.
 
-## *Magh Sléacht*
+## Magh Sléacht
 
 The "plain of adoration" was a holy site to the pagan Érainn. At Magh Sléacht they had a statue to Crom Cruach and his twelve sub-gods. According to some Merinita, Crom Cruach was a god associated with the sun; his twelve subordinates were the twelve months. Magh Sléacht was demolished by Saint Patrick, who caused the idols to sink into the ground. Since then, the tradition rose that the idol was to Crom Dubh, "the dark croucher," an image of the antichrist.
 
@@ -3469,27 +3469,27 @@ Magh Sléacht has a Faerie aura of 3. On occasion, a person who has rejected God
 
 instead enter dialog with his faerie copy. Crom Dubh is more than willing to teach faerie wizardry to a mortal under the guise of infernalism if it reinforces his own story.
 
-## *Sídh of Fionnachaidh*
+## Sídh of Fionnachaidh
 
 This is the Sídh of Lir, and an entrance to his Otherworld Tír Tairngire (the Land of Promise) where fish grazed like sheep. The White Fields ("fionnachaidh") become foam-topped waves. It is a favorite resting place of swans, in memory of the four children of Lir who spent nine hundred years in the shape of swans thanks to a curse from a jealous stepmother.
 
-## *Rath Chinneich*
+## Rath Chinneich
 
 The four sons of King Madán Muinreamhair (see Tír Fhomóraig, later) built the fortress of Rath Chinneich in a single day upon the order of Nemed. Once they were done, Nemed slew the fomórach to ensure that they could not build a better fortress for someone else. Four nearby hills designate the graves of the four fomórach, who were named Bog, Robhog, Ruibhne, and Rodan; however, slaying supernatural creatures like the fomórach is not easy, and some claim that the Mac Madáin are merely bound in death-like sleep, unable to wake due to the curse of the Túatha Dé. On the day they wake, they are sure to seek revenge on the descendents of Nemed.
 
-## *Earldom of Ulster*
+## Earldom of Ulster
 
 The Earldom of Ulster currently occupies the land formerly owned by the Dál bhFiatach and the Dál nAraide. It was conquered by the Norman knight John de Courcy, but is now the province of his arch-rival Hugh de Lacy, who was made earl in 1205.
 
-#### *The Contested Isle*
+#### The Contested Isle
 
 Since their arrival, the English lords have been building castles throughout the earldom. To the invaders, a castle is a symbol that what they have taken they intend to keep. In addition to the major castles listed below, de Courcy and de Lacy have also fortified the following: Dunseverick Castle, Dundalk Castle, Dromore Castle, and Green Castle. Vassal knights have built countless baileys and stone towers to supplement these castles.
 
-## *Antrim*
+## Antrim
 
 An important town which grew up around the monastery founded by Saint Aebh in the late fifth century. The Round Tower is a bell tower that used to belong to an early monastery; however, the monastery was burnt in 1147 during the English invasion and has not been rebuilt. The Bullaun Stone near the foot of the 90 foot tall tower has the impression of the knee and foot of a witch, who hurled herself from its top when the tower was completed.
 
-## *Bangor*
+## Bangor
 
 The town of Beannchor ("horned curve," a reference to the shape of the bay) has grown up around the abbey of Beannchor Mór established by Saint Comgall in 555. The abbey is famous as an eminent center of learning and the home of missionaries of early Christianity who spread across Mythic Europe. The abbey and town suffered greatly under the Viking raids of the eighth and ninth centuries, but were saved from destruction by a miracle. Until recently, the famed Saint Malachy (Chapter 12) was abbot here, as well as the Bishop of Down.
 
@@ -3499,7 +3499,7 @@ As well as a center of learning equal to the great theological colleges found on
 
 Near to Bangor Abbey is a valley in which Saint Patrick had a vision filled with angels. The site (which has a Divine aura of 2) is home to an entrance into a Celestial regio (*Realms of Power: The Divine*, page 14) with an aura of 5, a visit to which prompted the saint's vision. The inhabitant of the regio is Victorius, the angel set over Ireland and a member of the choir of principalities. The regio throngs with Victorius's subject angels who care for every aspect of Ireland and its people.
 
-## *Belfast Castle*
+## Belfast Castle
 
 *Beal Feirste* ("mouth of the sandbank") is the site of an ancient fortress, although the current castle was built by John de Courcy in 1177.
 
@@ -3509,22 +3509,22 @@ Near Belfast castle, the Giant's Ring is a massive earthwork nearly 200 paces in
 
 The Giant's Ring is a meeting place for the giants of Ireland, although they have not met in congress here for several hundred years. If a magus wishes to get in touch with a giant, he should inscribe the giant's name in ogham on a stone and place it within the tomb. The giant sends a messenger to the magus within forty days.
 
-## *Carrickfergus Castle*
+## Carrickfergus Castle
 
 Carraig Fhearghais ("rock of Fergus") was named after King Fearghus, who was
 
 
-## *Lúin Cheltchair*
+## Lúin Cheltchair
 
 The Spear of Celtchair is a magical weapon of great power. Celtchair (who was almost certainly a practitioner of the clesrada, see Leth Cuinn, later) had to keep it in a cauldron of blood else its shaft would burst into flames and it would pierce its owner. It has silver ferrules around its head, which spin and rattle in eagerness whenever battle was imminent. This spear — which Celtchair discovered on the field of the second battle of Magh Tuireadh — is almost certainly one of the Four Treasures of the Túatha Dé Danann. After Celtchair's death, the spear belonged to the sinister Dubhthach Daol Uladh, himself slain by the spear, as was Cúscraidh Meann Macha later. Its current whereabouts are unknown.
 
-## *Story Seed: Echoes at Erenagh*
+## Story Seed: Echoes at Erenagh
 
 The ruined monastery of Erenagh is still haunted by monks. Some of the survivors of the slaughter in 1177 meet here with co-conspirators recruited from Iniscourcy. Originally this was a political plot, seeking the expulsion of the English, but the ghosts of the butchered monks have been whispering compulsions to their mortal brothers. Now the monks seek bloody revenge.
 
 The characters become involved when an English associate of theirs suffers an unprovoked attack from an Irish monk, and investigation reveals that the perpetrator was possessed. If the characters retrace the monk's footsteps to Erenagh they might be in for an old fashioned horror story at the haunted monastery.
 
-## *Saint Machaoi*
+## Saint Machaoi
 
 Machaoi was a swineherd baptized by Saint Patrick. He was the founder of Nendrum monastery on the island named for him on Lough Cuan. Saint Machaoi was the teacher of Saint Colmán of Drom Mór. One day, Machaoi went into the forest to collect wood, and he encountered a miraculous bird that sang three strains to him. Each strain seemed like but moments, but actually lasted 50 years; when the saint emerged from the wood he found his hermitage had become a monastery, and they had built a shrine in his memory. His feast day is 23 June.
 
@@ -3534,7 +3534,7 @@ Saint Patrick presented Machaoi with a special crozier that had fallen from Heav
 
 shipwrecked nearby. The impressive castle on this peninsula was built by John de Courcy in 1177; a small bailey at the end of the promontory overlooks Belfast Loch and is surrounded by an inner ward and a mighty curtain wall. This served as the headquarters for his campaigns against the Ulaidh, and still serves as the caput of the earldom of Ulster under Hugh de Lacy. The earl has continued to strengthen the fortifications, adding a further tower to the east and an extension of the curtain wall to protect the seaward approach.
 
-## *Downpatrick*
+## Downpatrick
 
 Originally called Dún Leathghlaise but recently renamed Dún Phádraig ("Patrick's stronghold") to commemorate Ireland's saint, who is buried within the grounds of the cathedral. The Ulaidh and the Uí Néill quarreled over who should have the saint's body, which was retrieved on a cart pulled by two oxen. However, a miraculous illusion of another pair of oxen and a cart fooled the Uí Néill, and the body remained at Dún Leathghlaise. Downpatrick was the capitol of the old kingdom of the Dál bhFiatach.
 
@@ -3555,7 +3555,7 @@ This Cistercian abbey was founded by John de Courcy in 1180, as an act of repent
 
 *Sabhall Phádraig* is the death place of Saint Patrick. For twelve days after his death, there was no darkness here, and on his feast day the sun does not set here. This miracle has caused Saulpatrick to be the site of a minor pilgrimage — usually ending in nearby Downpatrick, where the saint's body is kept. Any Christian witnessing the miracle of the undying sun receives one Faith point. A spell of Duration Sun cast here on Saint Patrick's feast day lasts until the sun sets at the target's location, so can potentially last a day and a half. Parma Magica is similarly affected.
 
-## *Dundrum Castle*
+## Dundrum Castle
 
 This stronghold was built by de Courcy in 1180 on the site of an ancient fortress. The castle sits on a 200-foot tall hill overlooking the bay. After de Courcy's defeat by de Lacy he fled to his brother-in-law, King Ragnold of Man. He returned with a hundred long boats filled with Norse soldiers courtesy of the King of Man, landed at Strangford, and laid siege to Dundrum. However, he himself had built the castle too well, and he could not take it. He was captured and imprisoned, and spent the rest of his life in poverty. The stone tower of Dundrum is a recent addition courtesy of Earl Henry. The town that has grown up around the castle is now an important port for the earldom.
 
@@ -3563,19 +3563,19 @@ This stronghold was built by de Courcy in 1180 on the site of an ancient fortres
 
 Lough Cuan (whose name means "lake calm") is also known as Strangford Lough, from the Old Norse meaning "strong fjord." The Ards Peninsula stands between the lough and the sea, and bears a round tower at Kirkistown occupied and expanded by the English le Savage family. The Ards Peninsula also has a Cistercian abbey at Mainistir Liath, founded by John de Courcey's Manx wife. The Leath Cathail Peninsula forms the southern mouth of the lough. There are many islands in Lough Cuan, the largest of which is Machaoi island, named after a local saint (see insert). Machaoi island used to be home to Nendrum Monastery but it now lies in ruins, a casualty of the magical battle between Diedne and Pralix in 806 (see Chapter 10) — although it is not known which of the two magae destroyed the monastery. There is a Magic aura of 3 on Machaoi island, and a Magic aura of 2 throughout the Leath Cathail peninsula where the two magae continued their fight. Visitors here have noticed that the aura seems to provoke discord and strife between women, and for this reason it has not been colonized by a Hermetic covenant.
 
-## *Giants' Causeway*
+## Giants' Causeway
 
 The *Clochán na bhFomóraig* (CLORN noh VOH-mow-rug) is to be found on the north coast of Ireland, extending out into the sea. This vast mass of interlocking polygonal rock columns forms a series of massive stepping stones leading down from the cliff tops to under the sea. The sea and the wind conspire to make an eerie whistling, like hundreds of discordant pipes playing at once.
 
 One story credits Fionn mac Cumhaill with building the causeway as a means to walk to Scotland to fight his rival Benandonner, another giant. However, an older legend cites this as the place where the Túatha Dé Danann laid their curse against the Fomórach; each column represents one year of the curse, and when the wind and the sea have worn all 40,000 columns to sand then Ireland will be open to the ancient enemies of the Túatha Dé once again. The Giants' Causeway has a Faerie aura of 3.
 
-## *Mountains of Mourne*
+## Mountains of Mourne
 
 Called Boirche's Hills (*Beanna Boirche*) in Gaelic, the Mournes are a heather-covered range of mountains in southern part of the earldom. They are famed for their heavy mists in which it is easy to get lost, and locals blame the faeries for such tricks. When the mists clothe the mountains they have a Faerie aura of 2.
 
 The tallest of the mountains is Sliabh Dómhanghairt, named after Saint Dómhanghart who was a follower of Saint Patrick. Rather than dying, the saint took on the role of a perpetual guardian on top of the mountain named for him. The object of his guardianship is the graves on top of Sliabh Crúibe (see insert).
 
-## *Story Seed: The Demon Kings of Sliabh Crúibe*
+## Story Seed: The Demon Kings of Sliabh Crúibe
 
 Not actually one of the Mountains of Mourne, but lying north of them across a valley, the "mountain of the hoof" is rumored to be the burial place of twelve kings. Locals climb to the top of Sliabh Crúibe on Cairn Sunday (the first Sunday in August), and take with them a stone to help bury the kings; legend does not recount why. Magi have discovered that some of the stones carried up here contain vis. This vis has been accumulating for many years, and is divided among many stones.
 
@@ -3589,21 +3589,21 @@ kings buried is a very real one. Eleven out of the twelve graves contain a demon
 
 Named after the nearby settlement of *an Baile Núa* ("the new settlement"), Ballynoe is a large stone circle in the Mountains of Mourne — more than fifty close-set stones forming a circle nearly 30 paces in diameter, each one six feet high. It has a portalled entrance to the west, and within the circle facing the entrance is a horseshoe of further stones denoting an underground stonelined chamber. There is a Magic aura of 3 here. The circle at Baile Núa is the exact duplicate of another stone circle across the sea at Swinside in Cumbria. The two stone circles have a permanent enchantment similar to *Opening the Intangible Tunnel*, but of apparently unlimited level. Magi have discovered this, but have not been sure of the origin of this phenomenon or the best way of exploiting it. Original research could lead to a Major Breakthrough (*Houses of Hermes: True Lineages*, page 26) that allows Hermetic magic to connect two places in a similar manner. Investigators may also gain insight from the aberrant *Hermes' Portal* spell and Mercere's Portal enchantments.
 
-## *Newry*
+## Newry
 
 In a valley between the Mourne Mountains in the east and the Ring of Gullion in the south west lies the Cistercian Abbey of *Iúbhar Chinn Trábha* ("the yew at the head of the strand," called Newry by the English). The rebuilding of the older monastery in 1142 and occupation by the Cistercians has lead to the formation of a small town to serve the needs of the monks.
 
-## *Ring of Gullion*
+## Ring of Gullion
 
 An unusual geological feature, the Ring of Gullion is a perfect circle of hills around a central mountain called *Sliabh gCuillinn*. There is a lake on the mountain, which is a haunt of the Cailleach Beara, a faerie goddess associated with winter. Anyone swimming in the lake emerges as an ancient man or woman, having gained fifty years and sufficient aging points to raise their Decrepitude score by 2. The Cailleach Beara can be petitioned to reverse this effect, but even if she does, the character is left with some physical sign. Fionn mac Cumhaill, who was tricked by the crone-goddess, gained his white hair from this experience. The lake has a Faerie aura of 5, and the surrounding mountain a Faerie aura of 2.
 
-## *Tír Fhomóraig*
+## Tír Fhomóraig
 
 The Kingdom of the Fomórach (TCHEER UM-owe-ray) has been located on the islands north of Ireland ever since the Túatha Dé Danann cast them out after the Second Battle of Magh Tuireadh. The two principal strongholds of their dwindling population are Rathlin Island and Toraigh Island, but there have been rumors of fomórach as far away as Islay and Arran (in Scotland, not to be confused with the Aran Islands in Ireland). Since leaving Ireland the birth rate of pure-blooded fomórach has plummeted to almost nothing, and while they are immune to old age, they are still vulnerable to misadventure and disease. There may be less than one hundred fomórach left, and the number is decreasing.
 
 The King of the Fomórach is Madán Muinreamhair (Madán "thick-neck") who has no love of humans: his four sons were slain by Nemed (see Rath Chinneich, earlier). However, he has come to the realization that humans might be the salvation of his race, and has attempted to revitalize his race's blood by arranging marriages with the Cruithnigh of Rathlin (see later). His people detest these half-breeds and Pictbloods, but they may have little choice if they are to survive as a race.
 
-## *Rathlin Island*
+## Rathlin Island
 
 *Inis Reachlainn* was known to the Romans via Pliny (who called it Reginia) and Ptolemy (who knew it as Rhicina). A coalition of the Dál nAraide (See Cruithnigh, earlier) and the Fomórach dwells here. Between them they have resisted invasion by the Norsemen of Man and the Normans from England. While the humans are Christian, the Fomórach are not, and their go-betweens are human priests with fomórach
 
@@ -3611,7 +3611,7 @@ blood. The priesthood worships the fomóir gods, notably Domnu, the primal darkn
 
 King Madán maintains a tower on the southerly-most point of the island, where he gazes out over the land on which he is forever denied from setting foot.
 
-## *Toraigh Island*
+## Toraigh Island
 
 This island nine miles off the north coast of Ireland is home to about two dozen fomórach, and no humans dare set foot here. It was once the capitol of the Fomóir race. King Conand ruled from a mighty tower destroyed by the Nemedians, which was later rebuilt by his successor Balor Bailcbhéimneach (the "strong smiting") also called Balor na Suile Neimhe (Balor of the Evil Eye, see Insert). There is no longer a Fomóir king on Toraigh.
 
@@ -3619,22 +3619,22 @@ This island nine miles off the north coast of Ireland is home to about two dozen
 
 An inaccessible peak on the island bears the name of "Balor's Tower." Within this tower, Balor kept his daughter Eithne under lock and key, and yet Cian of the Túatha Dé Danann still managed to break in and father Lugh by her. During the reign of the Fomórach, Balor sat atop this tower and cast his baleful glance over Ireland; the barren slopes of the Poisoned Glen (see earlier) are testament to the enduring power of his eye. It is rumored that on occasion, an Aspect of Balor still occasionally visits the tower.
 
-## *Mercere House of Leth Cuinn*
+## Mercere House of Leth Cuinn
 
 The Mercere House of Leth Cuinn serves the covenants of the northern half of the Tribunal, using principally the Slighe Mhidhluachra, the Slighe Assail, and an tSlighe Mhór (Chapter 11). In stark contrast to their southern partner of Leth Moga, the northern Mercere House is known for its warlike nature, its training of warriors, and the heroic Redcaps it trains. Like Leth Moga, Leth Cuinn does not have a cathach. Its existence is guaranteed by the Hibernian Peripheral Code rather than by the rules that govern other covenants.
 
-## *History*
+## History
 
 Since its inception in 898, Leth Cuinn has been interested in martial pursuits. However, things took a dramatic turn in 1029 when Dáire Farranta (DAWR-yuh FOR-un-tuh) returned after a seven year absence and challenged the leader of the
 
-## *Balor na Suile Neimhe*
+## Balor na Suile Neimhe
 
 Balor of the Evil Eye is one of the most powerful of the primal fomóir race (see Chapter 10). As a powerful Daimon in the Magic Realm he interacted with the mundane world through the creation of Aspects (*Realms of Power: Magic*, page 102), although since his defeat by his half-blood grandson Lugh at the Second Battle of Magh Tuireadh he has not interfered in the mundane world, as agreed with the Túatha Dé Danann.
 
 Balor's most common Aspect was an immense monster with just one venomous fiery eye that was always kept covered with seven coverings. When just one was removed, plants would wither; with three removed, wood would begin to smoke; with the fifth gone, sparks would fly; and with all seven coverings removed, everything he looked at burst into flames. Living creatures caught in the gaze might be horribly burnt, or else they could be turned to stone or simply fall down dead, as Balor wished. Anyone caught by just the most peripheral glance was in Balor's power, and he could inflict his eye's curse at any point in the following year.
 
 
-## *Úathach of the Glen*
+## Úathach of the Glen
 
 Úathach ("spectre," pronounced OO-whukh) has not aged a day since she came to Ireland with Dáire Farranta. She is a faerie of considerable power, one of the few Tuatha Dé Danann still active in Hibernia in the thirteenth century. She is the granddaughter of Nuadha and Badhbh, two powerful battle gods, and she thrives on the vitality expended by young warriors learning and practicing the skills of warfare.
 
@@ -3644,17 +3644,17 @@ covenant — who was his parens — to Wizard War. Dáire won this war without a
 
 Leth Cuinn trains Redcaps in Heroic Virtues, and teach them the clesrada. In return for various considerations, Leth Cuinn also initiates other Redcaps as well as grogs and companions of magi into the clesrada as well. The sort of things they ask for include longevity rituals for the Tribunal's Redcaps, someone to cast the *Aegis of the Hearth* and *The Shrouded Glen* for three years (Leth Cuinn provides the vis and casting tablets), or enchantments for the Redcaps to use.
 
-## *Setting and Physical Description*
+## Setting and Physical Description
 
 Leth Cuinn is built on the shores of Lough Neagh in Ulster, at its northeasternmost point where the great Slighe Mhidhluachra turns west to Doire (Chapter 11). The Mercere House resembles nothing less than a king's hall, a bold gesture within the territory of the Earl of Ulster, and yet the hall is hidden from accidental discovery by the Shrouded Glen. Outside the hall is a combined parade ground and exercise yard where, at any one time, up to a dozen men can be seen practicing gymnastics, weapon play, and feats of strength and endurance.
 
-## *Culture and Traditions*
+## Culture and Traditions
 
 The most obvious tradition of Leth Cuinn is the practice of the clesrada by all the Redcaps and the majority of its sizable turb. Acquiring and retaining the *clesa* requires a great deal of physical effort and constant practice of weapon skills and athletic abilities, and its members have gained a reputation at Tribunal for their superb physical shape— and for their tendency to preen and display their prowess.
 
 Not only are all its Redcaps members of the warrior cult, they also spend time training grogs and companions sent to them by the Tribunal's covenants. Dáire an Chogaidh is an expert if terrifying drill-sergeant, who has been known to turn a bunch of raw recruits into an organized fighting force in a matter of months.
 
-## *Magi*
+## Magi
 
 Seven Redcaps use Leth Cuinn as their base, none of whom have The Gift. Their leader is Dáire Cú Ua Dáire, who is the current consort of Úathach. Five of the other Redcaps are his sons and daughters, and the seventh is his nephew.
 
@@ -3741,7 +3741,7 @@ The feat roll permits a vertical jump from a standing start, like a salmon leapi
 
 A feat roll grants the character +5 to Strength solely for the purpose of lifting something or supporting something's weight. Once the object is lifted or supported, the character's Strength remains sufficient to hold in position for every round that he continues to make his feat roll.
 
-## *Designing Clesa*
+## Designing Clesa
 
 Listed here are the famous clesa of the Ulster Cycle. There are other clesa, and the troupe is encouraged to invent their own. A cles allows a person to per-
 
@@ -3793,7 +3793,7 @@ If the character ever finds himself falling, his superior sense of balance can h
 
 A character who knows this cles and who also has the Perfect Balance Virtue gets the +6 bonus from that Virtue to his feat roll.
 
-## *Concentration Clesa*
+## Concentration Clesa
 
 These feats use meditation and extreme focus to train the body to do things beyond its normal limits.
 
@@ -3809,7 +3809,7 @@ This feat confers the ability to hold one's breath for extended periods of time.
 
 A feat roll permits wild contortion of the body within the skin to escape bonds or wriggle through small spaces. This includes dislocating wrists, shoulders, hips, or ankles; learning this feat also involves
 
-#### *The Contested Isle*
+#### The Contested Isle
 
 learning how to relocate the bones properly. To escape shackles requires an Ease Factor of 6 and dislocates the hand or foot. Wriggling through a space one Size smaller than the character requires an Ease Factor of 9 and dislocates one shoulder. Getting through a space that would normally only admit someone two sizes smaller requires an Ease Factor of 12 and dislocates a shoulder and a hip. Resetting a joint requires a round per location; until this is done the limb is useless.
 
@@ -3827,7 +3827,7 @@ A feat roll permits the character to contort her limbs and back, stretching unna
 
 This dangerous feat requires the character to concentrate when an opponent strikes at him, offering up no defense. If the feat roll succeeds, then part of character's body becomes momentarily insubstantial, and the opponent's blow passes straight through him causing no damage. The character cannot become wholly insubstantial, and cannot perform this feat in consecutive rounds.
 
-## *Single Weapon/ Great Weapon Clesa*
+## Single Weapon/ Great Weapon Clesa
 
 Any cles that uses the Single Weapon Ability may also be learned using the Great Weapon Ability instead. This decision is made at the time of acquiring the feat, and cannot be changed without Initiating the same feat again.
 
@@ -3860,7 +3860,7 @@ If the feat roll succeeds, use the difference between the Defense Total and Atta
 
 This feat involves jumping whilst swinging a weapon, with the intent to destroy armor. The character should choose one location: head, body, legs (treated as one location), right arm, or left arm. If the feat roll is successful, then the armor on that spot is sundered or left useless. Reduce the opponent's Protection by one fifth, rounded up. Alternatively, you could recalculate Protection based on the Expanded Armor Table in *Lords of Men*, page 140.
 
-## *Thrown Weapon Clesa*
+## Thrown Weapon Clesa
 
 These clesa do not need to Penetrate Magic Resistance; magical force is briefly applied to fling or aim the weapon, but it is not guided by magic.
 
@@ -3891,7 +3891,7 @@ This is a juggling feat that keeps up to nine balls or stones in the air at one
 time — one handed. A feat roll is needed to start juggling. A character can load a sling with one of these missiles without having to stop; else they can be thrown bare-handed at a rate of three per round. The stones can be hurled at three separate targets in one round as long as they are no more than three paces apart. A feat roll is needed to start juggling, and another to throw stones, but not to load a sling.
 
 
-## *Qui Sonant Pro Quieto*
+## Qui Sonant Pro Quieto
 
 **Symbol**: A rope of silver strung with balls of gold along its length
 
@@ -3903,21 +3903,21 @@ None know the truth for sure, but the legends say that the giant Finn MacCumhail
 
 This is also the location of the final resting place of Ireland's magi, hedge wizards, and even faerie and magical beasts, and the covenant acts as a great chantry wherein the magi and their covenfolk continually sing songs to honor the souls of fallen magi.
 
-#### *The Contested Isle*
+#### The Contested Isle
 
-## *Cathach*
+## Cathach
 
 Qui Sonant's cathach is a finely-crafted rope of silver from which hang balls of the purest gold. Despite its great size, long enough to wrap three times around a body, it is said to be the necklace once worn by Caer Ibormeith, wife to Aengus of the Tuatha Dé. The chain is displayed on the archway over the entrance to the covenant courtyard, only just outside the Aegis of the Hearth.
 
 When wrapped around a target, the chain has the power to protect that target against all effects of a Magic aura. In the case of Qui Sonant's aura, this means that the effect blocking Arcane Connections is suspended, which allows a corpse to be used in rituals to summon the deceased spirit.
 
-## *History*
+## History
 
 There have always been druids who sang the giant to sleep, and the site was old when the Order came to Ireland. Even then it was a burial ground for the magical powers of Ireland. When those druids joined the Order, the covenant was founded around them and the Order in Ireland has buried its dead there ever since.
 
 The Schism War saw large numbers of magi and their heroic companions brought to Qui Sonant. The records as to who was buried here during that time were lost after the war, but references remain in the numerous Vitae Magna found in Hibernian libraries.
 
-## *Setting and Physical Description*
+## Setting and Physical Description
 
 Qui Sonant is located high in the Ulster Cuailnge on a ridge of mountains said in local folklore to be where the giant Finn Mac-Cumhaill sleeps. It can only be reached by a series of treacherous winding tracks and frequently suffers harsh winters.
 
@@ -3950,11 +3950,11 @@ Ireland has a long history of burial practices that often seem strange to foreig
 
 Choosing interment at Qui Sonant is a cultural choice, allowing the magus's soul to rest, while allowing controlled access to his spirit for when his wisdom may be called upon.
 
-## *The Funerary Rites*
+## The Funerary Rites
 
 The body of a magus brought to Qui Sonant is first fixed as an Arcane Connection to the magus' spirit as per the standard laboratory action described in **ArM5**, page 94. Next, it is entombed in a cairn and surrounded by such grave goods as their covenant provides. Each tomb is then closed by an enchanted capstone that wards it against the elements, man, and beast. There is a secret trigger that suspends this effect so that the body can be reached if required. Each tomb is also enchanted with effects that keep the body from decaying. Should magi have other requirements, Qui Sonant meets them.
 
-## *Culture and Traditions*
+## Culture and Traditions
 
 Should the songs end, so the stories go, or the giant be disturbed, then the giant will wake and leave Ireland, taking his magic with him. These songs have been sung for centuries and they are an inescapable part of daily life at the covenant. All apprentices trained at Qui Sonant learn the songs by rote as do magi who join the covenant later.
 
@@ -3979,7 +3979,7 @@ Those wishing to consult the dead petition the covenant, which then consults wit
 
 All of Qui Sonant's spells are closely guarded and while laboratory texts and casting tablets for the required rites can be found in the covenant's inner library they are not made available to visitors.
 
-## *Magi*
+## Magi
 
 Qui Sonant's seven magi each owe one season's work per year to the covenant, spent managing the covenant's estates, researching the fallen magi, and in leading the songs. The principle magi of the covenant are described below.
 
@@ -4022,23 +4022,23 @@ His own magical proficiencies concern the summoning of spirits, but he feels tha
 
 He has trained one apprentice already and gained a new apprentice at the last Tribunal, thanks to the cordial relations he maintains with the Coill Trí. This influence is something he would be happy to bargain with in order to further his magical aims.
 
-## *Covenfolk*
+## Covenfolk
 
 Qui Sonant has no dedicated warriors as the covenfolk are all good men of Ireland and handy with an axe. All learn to sing, as they are obliged to join the chant, and all are familiar with both Organization Lore: Order of Hermes and Latin.
 
 Despite the often harsh weather and their sombre duties, the covenfolk want for little and the magi mark out certain holidays by holding feasts at which members of the covenant are honored and awarded gifts, usually clothes, shoes, tools, and utensils.
 
-## *Story Seed: The Body of a Ghost*
+## Story Seed: The Body of a Ghost
 
 Representatives of a covenant come to Qui Sonant asking to speak to a former member who died some fifty years previously. But when the summoning ritual fails it seems clear that someone has destroyed the spirit. Was it someone within Qui Sonant who broke this trust? Why would they do such a thing and what are they now trying to hide?
 
-## *Story Seed: Silence Falls on Those Who Sing*
+## Story Seed: Silence Falls on Those Who Sing
 
 A powerful force suddenly brings silence to the covenant of Qui Sonant Pro Quieto. No natural or magical sound can be made or heard, and with the songs ended, the ground begins to shake. The magi are called upon to find the cause and bring song back to the covenant. The Journey leads to the Magic realm where a great daimon has been entrapped and his power to govern the natural forces of sound on Earth stripped from him. The magi must defeat the daimon's captor and restore its power over sound and song before the giant wakes.
 
 
 
-## *Vigil*
+## Vigil
 
 **Symbol**: Two huge boar tusks wickedly curved from root to tip
 
@@ -4048,13 +4048,13 @@ A powerful force suddenly brings silence to the covenant of Qui Sonant Pro Quiet
 
 The covenant of Vigil stands watch over Hibernia, defending Ireland from those with dark designs on her people. Or at least that's how it used to be, but those days are long since gone and Vigil has grown fat and lazy on its past glories.
 
-## *Cathach*
+## Cathach
 
 The curled tusks of the black pig, six feet from tip to root, hang above a great arched gate in the wall that surrounds the covenant, where they are watched over by faerie guards. At Tribunal time, they are transferred to an elaborate wooden case for transport and display.
 
 They have the effect of tinting Faerie auras such that the aura passes on a "Protecting Ireland" +3 Personality Trait. The power of the tusks manifests similarly in Magic auras, aligning them to magic that protects Ireland from invasion. See *Realms of Power: Faerie*, page 104 and *Realms of Power: Magic*, page 15 for details.
 
-## *History*
+## History
 
 The original covenant of Vigil was founded in the Sperrin foothills by members of House Diedne. They laid claim to their status by hunting and killing the great black pig that created the deep ditches that later protected the old land of Ulster from southern invasion, taking its tusks as trophies.
 
@@ -4070,7 +4070,7 @@ In the years that followed, Vigil used the Diedne threat to justify its importan
 
 The last two hundred years, however, have seen Vigil descend into decadence and indolence. Having lost its focus, its members now trade on a reputation centuries past its time, yet believe that Vigil is all that stands between Hibernia and those who would threaten it.
 
-## *Setting and Physical Description*
+## Setting and Physical Description
 
 Cionn Mhálanna (KON WAR-lannuh) is Ireland's northern-most promontory, a jagged coastline jutting into the Atlantic, rich in ample grazing land but frequently lashed by the storms that sweep in from the sea. Vigil extends across the head as a number of halls and homesteads protected by ringforts, each housing one of the magi, their households, and their sanctums, and each enjoying a moderate Faerie aura. The old fortress of Vigil, raised by the original Merinita founders and perched on the rocks looking out to sea, has long been abandoned and little remains since its stone was taken away to service new buildings.
 
@@ -4087,7 +4087,7 @@ the only way to traverse the regiones, lose two long-term fatigue levels on both
 
 Some of the Hibernian elders know of Banhba's Crown, but most consider it simply a prepared casting space and are unaware of its intrinsic power.
 
-## *Culture and Traditions*
+## Culture and Traditions
 
 Vigil is defined by the rule of conspicuous consumption. The old Merinita of Vigil fought hard and enjoyed the spoils of their victories, trading vis to the Verditius who crafted arms and armor, which they used against the Vikings and the Diedne, winning more through conquest.
 
@@ -4097,7 +4097,7 @@ Vigil encourages its magi to take wives, not for dynastic or political purposes 
 
 Outsides may consider the magi of Vigil to be boastful, as all members construct winding tales of peril, adventure, and romance with themselves as the hero, often exaggerating the exploits of his familiar or the creation of his talisman. These stories have a purpose, however; the magi of Vigil all know the Merinita mysteries of Folk Magic, which uses such symbolism to enhance their magic.
 
-## *Magi*
+## Magi
 
 Vigil is a Merinita covenant, but due to a largely-forgotten treaty between the Vigil and House Verditius, one laboratory may be claimed by a member of that House.
 
@@ -4152,22 +4152,22 @@ Maoilfhinnéin believes that the old stories are destined to repeat and believes
 
 To this end, he has a number of schemes in play. First, through supporting their opinions at Tribunal he has reached out to the covenant of Lámbaird to heal the damage done by Éinri. Second, he has been encouraging Gráinne's overconfidence in recognition that a sacrifice may soon need to be made. And third, his allies in the sea returned the shards of Gráinne's first talisman to him. Having fixed the Arcane Connection, he is currently manipulating these shards into the hands of Guillaume Flambeau of Praesis who has been slighted on numerous times by Gráinne.
 
-## *Covenfolk*
+## Covenfolk
 
 Vigil's culture of excess extends to the covenfolk, who are well-dressed, wellfed, and have a tendency to over-familiarity at the covenant's frequent feasts and celebrations. There is also a class of warriors trained in the clesrada (see earlier). These *Two Dozen Men of Mhálanna* are well used to magic and they use faerie arms and armor forged in the times of past conflict to protect themselves. They can be a deadly force, and they are fiercely loyal to Vigil, and especially the maga Gráinne. They most often find themselves protecting Mhálanna from a Fachan king and his Fer Caille warriors (*Realms of Power: Faerie*, page 77).
 
 
-## *Chapter Ten*
+## Chapter Ten
 
-# *The Magical Landscape*
+# The Magical Landscape
 
 The first humans to arrive in Ireland had druids among their number, and they found a land of enchantment and magic. There were magical races already present, and supernatural creatures roamed its hills and forests.
 
-## *The Druids*
+## The Druids
 
 To magi who have been raised outside Ireland, the term "druid" is almost synonymous with House Diedne, and thus a word laden with unpleasant and fearful connotations. In Ireland, druidry and House Diedne have never suffered from the same conflation since the two represent wholly different traditions, now both believed extinct.
 
-## *The Learned Class*
+## The Learned Class
 
 What is known of the original druids today is a matter of hearsay and legend. They disappeared abruptly from society in the ninth century, but had been in serious decline well before that, persecuted by Saint Patrick and his followers. They were keepers of the lore, judges, and the counselors to kings, as well as priests of the old gods, soothsayers, and magicians. All of these functions involve power over words, either hoarding them in their prodigious memories, uttering them in judgment, or crafting them into satires or praise poems. Part of the current day ignorance of the druids is that they feared trapping their secrets in vellum and ink.
 
@@ -4183,7 +4183,7 @@ In Britain and on the continent, druids had similarly suffered. Celtic and Gauli
 
 When Diedne first came to Ireland in
 
-## *Druid Magic*
+## Druid Magic
 
 There are numerous examples of druidic magic in the various tales of the Irish, but they fall into a number of broad categories. The prodigious feats of **memory** appeared magical, but were actually the product of a highly trained mind. **Divination** was perhaps the most used of their true magics, calling visions through a number of techniques for kings and peasants alike. The druids were perhaps best known for their laying of **prohibitions** and **curses** that set apart champions and kings from the common man, and regulated good behavior. The ability to **change shape** of oneself and of others — was a common druidic power, often leveled as a curse in itself. Druids also seemed good at spinning **illusions**, and some had **control over the weather**, and this was their principle use in battle, summoning mist or storms to harry the enemy.
 
@@ -4192,11 +4192,11 @@ Except for weather control, the Pictish magicians called the gruagachan (*Hedge 
 
 This is not to say that Diedne herself was from a gruagach-like tradition. Diedne hailed from the Breton and Gaulish branch of magicians, who could have practiced entirely different magic. That is a decision that each saga has to make for itself, if it should become relevant.
 
-## *The Gods of the Druids*
+## The Gods of the Druids
 
 The religion of the ancient Irish had no organized pantheon or universal mythology. Anything could be a god — one of the Túatha Dé Danann (see Chapter 11), an ancestor, a champion, an animal, or even a local landmark such as a rock formation or an ancient tree. Anything supernatural was a god to them, no matter how small. As such, gods were not gods *of something*. There was no "god of war" or "god of the sky" like there were in other pagan pantheons. A god might be a warrior, or live in the sky, but that didn't make him its ruler or its personification. Not all gods received worship: each clan had their own gods and it was the job of the *fáith* to placate the family gods and to attend to their wishes. The draoithe were tasked with relations with the gods in general, negotiating with the denizens of the supernatural world who did not receive worship from the clan.
 
-## *Diedne and Pralix*
+## Diedne and Pralix
 
 Diedne met with Pralix in 806 on the shores of Lough Cuan (Chapter 9) in Ulster. Pralix had pursued some followers of Damhan-Allaidh to Ireland, and hearing of her presence Diedne made haste from Ailech to meet with her. Diedne believed that Pralix had come to assist in her pogrom against the druids; Pralix thought she could convince Diedne to allow her to enlist the druids without forcing them to join the Order. Neither side could see reason, and the two magae famously quarreled, their argument escalating into an illegal Wizard War. Neither maga brought charges against the other, and it was never revealed who struck first, or who fled the fight.
 
@@ -4205,11 +4205,11 @@ Diedne met with Pralix in 806 on the shores of Lough Cuan (Chapter 9) in Ulster.
 When Diedne returned, she did not come alone. Twenty-seven members of House Diedne landed near Wexford in 797, and dividing into three squads of nine, they stalked through Ireland in search of druids. Each was made the same offer, to join or die. Most chose to die. Diedne's ruthless campaign against the Irish druids lasted
 
 
-## *The Druids Today*
+## The Druids Today
 
 Most hedge magicians in Ireland in the 13th century claim descent from the druids, but this is probably not true in the majority of cases. Today, the term "druid" or draoi is applied to any magical practitioner with The Gift or who belongs to a hedge tradition; other wizards are called *asarlaí* (ASSer-lee, plural *asarlaithe*, ASS-er-lee-huh), or hedge wizard. Many of the oaths which constitute the Peripheral Code of Hibernia specify terms *inter druides et magos* — "between druids and magi " — and do not apply to the asarlaithe.
 
-## *The Coill Trí*
+## The Coill Trí
 
 The non-Hermetic wizards of Connacht are members of a federation called the Coill Trí. While belonging to many disparate traditions of magic, they all claim to be the inheritors of the splintered remnants of druid lore, and claim the druid title for themselves.
 
@@ -4223,7 +4223,7 @@ The Hibernian Order of Hermes encouraged wizards who were in conflict with magi 
 
 Today, the Coill Trí boasts a membership at least equal to that of the Hibernian Order of Hermes, but possibly much larger. There are some who try to make the Coill Trí more than it is, to use it as a force to mobilize the native magicians of Ireland for some deep purpose. These attempts usually fail because of The Gift, which forms a wedge of suspicion and distrust that drives any temporary alliance apart. The Order is more than happy with this arrangement.
 
-## *A Partner to Treaties*
+## A Partner to Treaties
 
 The Coill Trí is by no means a rival to the Order of Hermes. It is merely a legal entity with which the Order could make a single treaty, rather than hundreds of separate treaties with each individual tradition or draoi in Connacht. As such, it allows the Order to exert control over the hedge wizards. The Coill Trí has no central authority or formal rules, but then it takes no mutual actions nor has any ideals held in common. However, membership is rarely optional for draoithe; the Order uses the Coill Trí as a means to assert some control over Irish hedge wizards.
 
@@ -4231,11 +4231,11 @@ The principle benefit offered to hedge wizards joining the Coill Trí is freedom
 
 Under the terms of the treaty, the Coill Trí is expected to provide seven Gifted children at every tribunal meeting. Not all draoithe are capable of detecting The Gift and so those who offer their tithe sometimes have it rejected by the Order, which does little for good relations. Members of the Coill Trí occasionally have to be reminded of their obligation, and redcaps go into Connacht and make demands of known draoithe. The image of a red-capped stranger on the hunt for children to steal is one that has entered the public consciousness in Connacht, and on occasion the redcap has been forced to flee by an angry mob.
 
-## *Organization of the Coill Trí*
+## Organization of the Coill Trí
 
 The Coill Trí is divided geographically into seven *túatha* to ease the fulfillment of the Coill Trí's obligation to the Order. Each *túath* is responsible for finding one Gifted
 
-## *The Treaty of Cnoc Maol Réidh*
+## The Treaty of Cnoc Maol Réidh
 
 The treaty consists of a series of concise agreements, which have been added to since the original agreement; if a Hermetic Tribunal decides that a new clause is needed, and every *ceannaire* (see Organization of the Coill Trí, later) agrees to it, then the amendment is made and the clause becomes part of the treaty. There is little provision for draoithe to enact changes to the treaty; they must rely on a magus to propose it on their behalf.
 
@@ -4266,7 +4266,7 @@ This túath consists of a core of (mostly unGifted) Coill Trí visionaries who a
 
 Buidhe (BIH-yuh) is one of the Coill Trí's mystagogues. Widely believed to be mad, nevertheless many make the trip to his island home off the west coast of Connacht to receive instruction from him. There they might find him standing naked in the rain, in deep conversation with a rowan tree, or in a deep trance under a bull's skin. His prodigious memory holds a host of Initiation Scripts for Supernatural Virtues — some that he possesses, but many more that he does not — and if he can be made to focus on his visitor for long enough, he usually agrees to act as mystagogue.
 
-## *Tensions Within the Treaty*
+## Tensions Within the Treaty
 
 Some members of the Coill Trí and the Order of Hermes are dissatisfied with the current arrangement with the Order of Hermes, and do not wish to be bound by the terms negotiated centuries ago. The obligation that chafes the Coill Trí the most is the provision of Gifted children, but the arrogance and attitude of magi is also cause for complaint. Some magi use their superior magic to extort services from the Coill Trí, but the draoithe dare not bring the matter to the Tribunal because they don't trust the Order to control its bullies sufficiently.
 
@@ -4294,7 +4294,7 @@ Túath Rónáin has recently suffered the shame of discovering a diabolic coven 
 
 Rónán Brathair (ROAN-awn BROwar) is a Cistercian monk as well as a draoi, and was instrumental in rooting out the túath's corruption. Rónán uses the Holy Powers of Intervention and Understanding with the Method of Meditation. He would like to turn the Coill Trí more closely toward the worship of God, but has the humility to realize the enormity of that task.
 
-## *The Bards*
+## The Bards
 
 Unlike the fáithi and the draoithe, the sacred profession of bard managed to survive the twin threats of Christianity and Diedne. Overlooked as mere poets (to the former) or petty magicians (to the latter), they survived into the thirteenth century virtually unchanged. They preserve the old tales and Christian homilies in poetry and prose, as well as composing new works for their patrons the kings. They style themselves *filídh* (singular *filí*; both pronounced FILL-ee) rather than bard in order to distance themselves further from their druid origins.
 
@@ -4302,7 +4302,7 @@ Bardic learning is divided into nine grades. The first four years involve basic 
 
 Bards have inherited the traditional respect for druids given by the native Irish. While the concept of bardic immunity — once guaranteed by the high-king — has lapsed, the reputation of a bard holds a great deal of weight. An acknowledged bard can expect basic hospitality from Irish families, and it was long forbidden for individuals to start feuds with bards. Even bandits and thieves have a superstitious fear of attacking or stealing from a bard, and they can walk the roads of Ireland in relative safety with just their reputations to protect them.
 
-## *The Bardic Schools*
+## The Bardic Schools
 
 There are several bardic schools throughout Ireland, and they fulfill a role similar to the grammar and monastic schools in the rest of Mythic Europe.
 
@@ -4324,7 +4324,7 @@ The mac Craith are the hereditary poets and chroniclers of their Uí Brian kinsm
 
 near Waterford, and they are perhaps the most politically conspicuous of the bardic schools (the Uí Dálaigh are just as politically active, but are much more subtle).
 
-## *Bard Characters*
+## Bard Characters
 
 An **Ars Magica Fifth Edition** character generally has only one Social Status Virtue, and you should pick one that most accurately applies. The three new Social Status Virtues below represent certain finishing points in the bardic career, and each grant a set number of additional experience points that can be spent on appropriate Abilities.
 
@@ -4346,7 +4346,7 @@ The character has attended a bardic school and has passed the examination after 
 
 The character has attended one of the great bardic schools, either to receive an education (in which case he need not have attempted the punishing examination) or to commence training as a bard (in which case you should also take an appropriate bardic Social Status Virtue). For Senior or Master Bards (see later) this Virtue represents additional years of study. You receive 50 extra experience points to spend on Art of Memory, Profession: Storyteller, Profession: Poet, any Area Lore, or any Organization Lore.
 
-## *Performance and Sound*
+## Performance and Sound
 
 These new parameters cannot be used for Hermetic effects without an appropriate Virtue — Performance Magic (*The Mysteries Revised Edition*, page 29) for Duration: Performance, and Sensory Magic (*Houses of Hermes: Mystery Cults*, page 27) for Range: Sound.
 
@@ -4376,7 +4376,7 @@ The character has spent at least nine years of study at a bardic school and is a
 
 The character should be at least 25 years old, and must have a Profession: Storyteller or Poet of at least 5, and also a 5 in at least one of Area Lore, Organization Lore, Faerie Lore, or Magic Lore. You can spend experience points on Arcane Abilities at character creation, and have an extra 240 experience points to spend on Art of Memory, Profession: Storyteller, Profession: Poet, any Area Lore, any Organization Lore, Faerie Lore, or Magic Lore. (This is the Irish equivalent of the Magister in Artibus Virtue)
 
-## *Bards of Power*
+## Bards of Power
 
 Some senior bards retain the ancient magic of their druidic forebears, although not all bards of the higher grades are capable of such magic, and no bard will admit its existence. The magic that these characters possess is not in the performance of their art (this is covered by the Enchanting Music/Storytelling Virtue, see earlier), but instead in the composition of their works. Some bards of power are Máistirs (the Irish equivalent of Maestros, see *Art & Academe*, pages 133–135), who can make their poetry or stories supernaturally beautiful. Many Máistirs are also Wordsmiths, particularly among the filídh of the Uí hUiginn School, who sometimes can also work more complex Craft Magic like the Rusticani (*Houses of Hermes: Societates*, page 130).
 
@@ -4384,9 +4384,9 @@ Some senior bards retain the ancient magic of their druidic forebears, although 
 
 Wordsmiths are filídh who possess the Touched by (Realm) Major Supernatural Virtue (*City & Guild*, page 71), usually the
 
-#### *The Contested Isle*
+#### The Contested Isle
 
-## *Example Magical Stories and Poems*
+## Example Magical Stories and Poems
 
 The following stories are appropriate as wondrous tales or poems for Wordsmiths, using the stated Ease Factor (12 + magnitude + Effect Frequency modifier, see *City & Guild*, page 72, and **ArM5**, page 98 for the Effect Frequency modifier).
 
@@ -4449,13 +4449,13 @@ Touched by Faerie variant. This permits the character to make wondrous tales or 
 ed up. Wondrous tales are limited to Range Personal, Duration Performance, and Target Sound. Like other wondrous items, a wondrous tale can only be used by the person for whom it was designed, often the wordsmith himself. Anyone copying the tale — even if they get it exactly correct — will obtain the words but not the magic. As the intended recipient recites the tale it forms an Arcane Connection to him, and certain creatures including Hermetic magi — can capture the words and exploit this connection.
 
 
-## *Story Seed: The Ollamhain Heresy*
+## Story Seed: The Ollamhain Heresy
 
 In Ireland there also exists a tradition of faerie wizardry called the Ollamhain (*Realms of Power: Faerie*, page 135). This type of magic is not taught at any of the bardic schools; music is a deprecated art, and using it to conjure glamor is seen as a betrayal of bardic tradition. Further, this tradition has appropriated the bardic title of *ollamh* without carrying the burden of bardic lore and duty to tradition. As such, the Ollamhain are refused permission to style themselves filídh; nevertheless some do, and wordsmiths have used the Sacred Council (Chapter 4) to try to prosecute their rivals.
 
 A "bard" who aligns himself to the covenant's rival (or enemy) is actually an Ollamhain. Can the characters use the enmity of the bardic school to their advantage? They could spark a war of bitter satire and rhyming slander.
 
-## *Geasa*
+## Geasa
 
 A geas (or *geis*, both pronounced GESH) is an enchantment where certain actions result in a magical penalty. Geasa were a mainstay of the power of the druids: they were applied to kings and champions to mark them out as individuals of great note, and used to curse enemies. There are still hedge wizards who can craft a geas, and faeries who honor the old ways are particularly fond of them.
 
@@ -4465,11 +4465,11 @@ A prohibition geas consists only of the Prohibition Flaw. If the character break
 
 A blight geas is like a prohibition geas, except its trigger is not due to the actions of the character but has an external cause. The Baneful Circumstances Flaw is a blight geas, as is one of the most famous geasa, Macha's Birth Pangs, or the *ces noidhen* (see Eamhain Mhacha in Chapter 9).
 
-## *Conditions*
+## Conditions
 
 The condition of a geas usually revolve around a type of person or creature (priests, women, otters, horses), a class of objects (swords, crowns, cabbages), or a location (by a lough, under a roof, in Connacht). This thing is then linked to a specific circumstance (wearing it, eating it, harming it). The final element is the injunction of the geas. Prohibition geasa normally involve the injunction *never*: Never harm a woman; never help a priest; never swim in the sea. Fortifying geasa can also use never, but are usually formulated in a more positive manner using *always*: always assist a woman in need; always wear a beard; always sleep alone. Blight geasa are best phrased using *while* or *if*: while you are alone; while you are on the sea; if Ulster is in need.
 
-## *New Flaws*
+## New Flaws
 
 The following Flaws are consequences of blight geasa.
 
@@ -4486,7 +4486,7 @@ Something supernatural about the character's nature weakens him in relatively co
 
 To possess this Flaw, the character must be male, and a true-born Érainn (see Chapter 9). Whenever the character's home (village, parish, or province) is threatened, the character is afflicted by the stabbing pains of childbirth for nine half-days (five days and four nights). This pain is equivalent to a Medium wound: it is cumulative with other wound penalties and has a chance of worsening if the character indulges in activities while this wound persists (**ArM5**, pages 178–179), although he cannot die from this wound worsening. Chirurgy cannot assist any Wound Recovery rolls for this wound, because the pain is entirely phantom.
 
-## *The Magical Races of Ireland*
+## The Magical Races of Ireland
 
 Ireland has undergone a number of invasions of peoples onto its shores (see Chapter 2), and the remnants of many of them can still be found here. These may serve as protagonists and allies, antagonists and enemies, or even be player characters.
 
@@ -4513,7 +4513,7 @@ All fomórach are at home underwater. They suffer no penalties to Ability rolls 
 
 MuCo 15 (base 2, +2 Sun, +1 constant effect, +1 added effect, +1 Size) Personal Power (15 levels, –2 Might cost)
 
-## *The Fir Bolg*
+## The Fir Bolg
 
 The Fir Bolg (FYIR BOL-ug) arrived in Ireland after the flood that had destroyed the Nemedians. They came as three tribes: the Fir Bolg, the Fir Domhnann, and the Gaileoin; the first was the most numerous, and gave their name to the whole race. They landed in the south of Ireland, but soon spread throughout the land, and they were the first to divide Ireland into the same four provinces used today, with the exception of Meath. As they spread north they encountered the Fomórach cities on the coast and offshore islands. Relations were initially hostile, but peace was gained through the generosity of the Fir Bolg tributes. The Fir Bolg became a slave race to the Fomórach, growing the food to supply their tables, while their lords became indolent on the bounty of the Fir Bolg.
 
@@ -4523,11 +4523,11 @@ The Fir Bolg are now rare in Connacht, most now dwell on the Isles of Aran (see 
 
 It is said that the Fir Bolg were once human in form, but more so — taller, stronger, more handsome, and better skilled than any human. They were also peaceful, and expert farmers able to coax fertility out of the poorest soil. However, the Fomórach interbred with their subject race, and today there are few Fir Bolg who have escaped the deformities which descent from that race brings. Only the royal race of each of tribe still remain free from deformities.
 
-## *Fomóir Blood*
+## Fomóir Blood
 
 Humans can bear the blood of fomóir, although this is often hundreds of generations old. This can result in some sort of deformity. Mild cases can be simulated using either the Aquam Monstrosity (*Realms of Power: Magic*, page 49), Disfigured, Hunchback, or Obese Flaws. In extreme circumstances, a character might have a Monstrous Appearance as a Major Flaw (see the Major Magical Inferiority of the same name, *Realms of Power: Magic*, page 42). On the positive side, fomóir blood often confers the Giant Blood or Reserves of Strength Virtues, and a character must be descended from fomóir to possess the Ríastradh Virtue (see later). Those of fomóir blood are often wrathful, warlike, and violent individuals, but this is not universally true.
 
-## *The Three Tribes of the Fir Bolg*
+## The Three Tribes of the Fir Bolg
 
 The Fir Bolg tribe is still the largest and most dominant of the three tribes. King Rudraige Ua Sláine, who rules the Fir Bolg race as a whole, is from this tribe and lives on Árainn Mhór with the rest of his tribe. The Fir Bolg were converted to Christianity by Saint Grellan.
 
@@ -4535,7 +4535,7 @@ The Fir Domhnann, smallest of the tribes, were always the closest to the fomóra
 
 The Gaileoin are Christian in appearance, but unknown to the other tribes a cadre of Gaileoin infernalists control the tribe's king. The Gaileoin royal caste has become feeble-minded thanks to the meddling of the infernalists, and they are little more than puppet rulers. The Gaileoin as a whole have been slow to corrupt, but the race is more indolent and prone to casual sin than their neighbors.
 
-## *Cú Chulainn's Ríastradh*
+## Cú Chulainn's Ríastradh
 
 "Every part of him quivered like a bulrush in a running stream. His calves and heels and hams shifted to the front, and his feet and knees to the back, and the muscles of his neck stood out like the head of a young child. One eye was engulfed deep in his head, the other protruded, his mouth met his ears, foam poured from his jaws like the fleece of a three-year old ram. The beats of his heart sounded like the roars of a lion as he rushes on his prey. A light blazed above his head (the hero's light) and his hair became tangled about as it had been the branches of a red thorn bush stuffed into a gap in a fence … taller, thicker, more rigid, longer than the mast of a great ship was the perpendicular jet of dusky blood which out of his scalp's very central point shot upwards and was there scattered to the four cardinal points, whereby was formed a magic mist of gloom."
 
@@ -4547,7 +4547,7 @@ The Fir Bolg all possess the Magical Blood (Human) Virtue (*Realms of Power: Mag
 
 Royalty among the Fir Bolg is signified by the Gentleman/woman Virtue; which is about as much recognition as humans grant Fir Bolg titles. As well as being free from deformities (although a character with the Dark Secret or Black Sheep Flaws might harbor a covert or overt malformation, respectively), the royal caste usually has some power over fertility or healing, such as a Purifying Touch or the Control Fertility Virtue (*Houses of Hermes: Societates*, pages 105–106).
 
-## *Battle Transformations*
+## Battle Transformations
 
 The ancient Irish heroes were famous for their battle transformations which, along with the *clesa* (see Chapter 9: Ulster, Leth Cuinn), singled them out from the rank-and-file soldiers. These transformations were due to descent from the Fomórach, either directly or through a Firbolg intermediate. It is not necessary to possess any other Virtue or Flaw to represent this magical blood, although this may be the case (see Fomóir Blood, earlier).
 
@@ -4592,7 +4592,7 @@ If the *Ríastradh* involves a change in Size, then all armor is shed as the cha
 
 The *lúan láith*, or hero's light, is a physical projection of light from the forehead. It commonly manifests in characters who have the Berserk or Ríastradh Virtues. The character can will the light to appear with a moment's concentration, but it often manifests spontaneously at times of stress. It gutters and fades if the character acts in a cowardly manner. It can be seen by all even on the brightest day. The *lúan láith*
 
-## *The Fíorláir*
+## The Fíorláir
 
 **Magic Might:** 16 (Animal)
 
@@ -4648,16 +4648,16 @@ makes allies more brave, and strikes fear into the hearts of enemies. If the cha
 
 A similar phenomenon is the *sian caurad*, or hero's war cry. This has an aural rather than visual manifestation an unnerving cry — but otherwise has the same effect.
 
-## *Beasts of Virtue*
+## Beasts of Virtue
 
 Ireland has its own characteristic magical inhabitants.
 
-## *The Fíorláir*
+## The Fíorláir
 
 Occasionally, the seventh filly born to a mare with no intervening colt is born a "true mare" or fíorláir (pronounced FEER-lorra). No malicious force can interfere with a fíorláir, and anyone riding one is protected from harm. They are faster than all other horses. Any magus or lord would be overjoyed to own a fíorláir, but Hermetic
 
 
-## *The Contested Isle The Dobhar-Chú*
+## The Contested Isle The Dobhar-Chú
 
 attempts to breed one at the covenant of Lámbaird (see Chapter 6) have so far failed. Enslaving one with magic will immediately raise a complaint from the King of Eagles at Tribunal (see Chapter 4), so a magus must befriend one if he wishes to make use of her powers.
 
@@ -4667,7 +4667,7 @@ The *dobhar-chú* (pronounced DUH-worchoo) or king otter is an extraordinarily l
 
 The skin bearing the cross has legendary protective abilities, guaranteeing safety at sea to any boat on which it is pushed between the planks, safety from fire in any house in which it is nailed to the door, and safety from accidents for a man who carries it in his pocket. These properties are released through Enrichment (*Realms of Power: Magic*, page 124), but this is only successful if done by the person who killed the king otter (and survived its death curse!). The skin must be cured in salt (to protect a boat), smoke (to protect a house), or sweat (to protect a person). The cure must be renewed once a day, and rubbed 9 x 9 x 9 times. At the end of the season, the scrap of skin either grants a ship the Greater Immunity to Water Virtue, a house the Greater Immunity to Fire Virtue, or a person the Charmed Life Virtue (*Houses of Hermes: True Lineages*, page 104; briefly, the character has the Luck Virtue, and can spend a Confidence point to re-roll a 0 on a stress die rather than roll for a botch). Note that the first two effects protect the vessel or dwelling but not necessarily the people within them.
 
-## *Dobhar-chú*
+## Dobhar-chú
 
 **Magic Might:** 8 (Aquam)
 
@@ -4717,9 +4717,9 @@ The skin bearing the cross has legendary protective abilities, guaranteeing safe
 
 The dobhar-chú attacks the legs of its opponents and attempts to drag them into the water to drown them. Treat this as a grapple attack, and every round the grapple is maintained it draws the captured character closer to the water. Once in the water, the character is required to make a Deprivation roll every round if he struggles against the dobhar-chú. It is a canny opponent, and often spends Fatigue levels to exert itself in combat.
 
-## *Chapter Eleven*
+## Chapter Eleven
 
-# *The Faerie Landscape*
+# The Faerie Landscape
 
 Faeries are common in Mythic Ireland, and everyone has had some interaction with the Faerie realm. Encounters run from the peasant who sees a faerie progression from afar, to a king who marries a faerie woman in front of his clan. Public assemblies are held on sacred hills, most of which have a Faerie aura. Faerie homes — cairns, stone tumuli, and mounds — dot the countryside. Irish faeries are either entertaining and helpful or malevolent and dangerous. Several faeries kidnap, kill, or eat humans, and even helpful faeries are capricious and unreliable. To avoid the faeries' ire, the locals avoid using the word "faerie." Euphemisms include the good neighbors, *daoine maithe* (DEEN-yuh MAY-yuh), the people of the mound, *daoine sídhe* (DUN-yuh SHEE), and the host of the hills, *croc na gcnoc* (KROK na guh-NOK). Some simply refer to the faeries as *iad* (EE-AD), "Them."
 
@@ -4733,13 +4733,13 @@ Magi do know that these fanciful phrases refer in some way to the three differen
 
 The most common faerie home is a mound, called a *sídhe* (SHEE), a word that doubles for the faeries themselves. The mound's interior depends on the faerie. Some are rude dwellings with stone pillars holding up an earthen roof, and others are magical mansions filled with sunlight and summer breezes. Cairns and tumuli also house faeries, as do mountaintops, lake bottoms, forest hearts, and boggy marshlands. Some of these homes are just faerie auras, but a significant number are faerie regiones.
 
-## *The Five High Roads*
+## The Five High Roads
 
 On the night Conn of the Hundred Battles was born, five roads were discovered leading from the royal fort at Tara. These five 'High Roads' reach to all parts of Ireland. The term *slíghe* (SLEE) is reserved for these roads, which are wide enough for two wagons to pass side-by-side. The other roads of Ireland are not so reliable; many of them consist of rights or way rather than actual physical roads.
 
 Each of the High Roads has a Faerie aura of 2, and is a trod (*Realms of Power: Faerie*, page 21): a liminal space that is neither here nor there. Each road has two termini, one at Tara and one at the final destination of the road. At each of these termini, the Guardian of the Road can be evoked. Upon doing so, the Guardian seems to appear, but what actually happens is that the summoner is transported by the Guardian
 
-## *Story Seed: Sometimes They Return*
+## Story Seed: Sometimes They Return
 
 Faeries frequently relocate, moving from one home into another. A local child finds an abandon faerie ráth and makes it his new secret hideaway. After a month of play, the child suddenly goes missing, and the parents ask
 
@@ -4770,7 +4770,7 @@ The Great Road heads south from Tara, and then follows the line of the Eisgir Ri
 
 This road leads north from Tara, to Eamhain Mhacha through the foothills of the Mournes, then skirts the east and north shores of Lough Neagh and ends in Derry. The owner of the road is a faerie lord, who demands a game of fidhceall. Those who lose to him may not find themselves exactly where they had hoped to end up.
 
-## *Faerie Types*
+## Faerie Types
 
 There are four types of Irish faeries. The **pagan gods** are the most powerful and the least encountered. **Social faeries** re-enact the adventures of heroes and legendary figures from the island's past. **Trooping faeries** are violent gangs that roam the countryside causing destruction. **Solitary faeries** are unattached to a group, and are usually linked to a mountaintop, river bend, or swamp.
 
@@ -4778,11 +4778,11 @@ Each group has a set of traditions and roles that they follow. What is true for 
 
 Because of the high cultural value placed on stories, there are thousands of roles for faeries to play. Include among the Irish gods and heroes, for example, faeries will also copy saints, demons, and each other. This sometimes makes it difficult to discern if a supernatural creature from another realm is what it seems to be or is actually a faerie.
 
-## *Pagan Gods: the Tuatha Dé Danann*
+## Pagan Gods: the Tuatha Dé Danann
 
 Ireland's pagan gods are called Tuatha Dé Danann, which means "the children of Danu." Originally faeries attached to the powerful elemental spirit of the River Danube, the faeries were found by one of
 
-## *Redcaps and the High Roads*
+## Redcaps and the High Roads
 
 The Hibernian Tribunal does not have any Mercere's Portals to speed the transport of Redcaps across the island. Instead, the Redcaps have learned to exploit the High Roads. As part of his apprentice's Gauntlet, a Redcap is brought before one of the Road Guardians, whom he is expected to defeat in the usual way required by that faerie. The neophyte Redcap then enters a pact with the Guardian: in return for accept-
 
@@ -4799,7 +4799,7 @@ Several Tuatha Dé stories involve silly protagonists romping through ridiculous
 
 For example, the Dagda once fell into a pit filled with porridge and had to eat his way out to freedom. Soon after, while trying to seduce his Fomóir enemy's wife, his distended belly physically prevented him from the deed. Intend on repeating the task, he forces a village to dig a pit and fill it with porridge, a financially and physically daunting
 
-## *Common Hibernia Faerie Powers*
+## Common Hibernia Faerie Powers
 
 Though individuals, many faeries have the same powers, common throughout the greater community of Irish faeries. Most have Faerie Speech and Faerie Sight, two Minor Supernatural Virtues available to faerie characters (*Realms of Power: Faerie*, page 50). Most are also Humanoid Faeries, although monstrous faeries are not unknown. Invisibility is the most frequent power, with Flight being a close second (*Realms of Power: Faerie*, page 62). Other common faerie powers are:
 
@@ -4835,7 +4835,7 @@ The faerie can instantly travel to its home, as well as any other place to which
 
 (ReCo Base 35)
 
-## *Taboos*
+## Taboos
 
 Every race has specific items that protect against faeries. Many of the taboos listed in *Realms of Power: Faerie* work against Irish faeries. Religious symbols, herbs, and iron provide protection from many types of faeries, although the Tuatha Dé can use iron without a problem. Burying a horse skull underneath a house protects the residence from trooping faeries, as does keeping the hearth fire burning all year long. Fresh milk on the threshold prevents a solitary faerie from entering, and tying a red ribbon around a cow's tail protects her from social faeries. Other wards used to protect the home are birds' eggs and sheep bones built into the walls, holy items hung on the west wall, and marking sleeping children with soot from the hearth.
 
@@ -4901,7 +4901,7 @@ Quests don't need to be for glory and goods, and could be undertaken for more pr
 
 Just like the Irish they mimic, the Tuatha Dé are entangled in feuds and long-
 
-## *Social Faeries*
+## Social Faeries
 
 Faeries seek interaction with humans, and this is especially so of the social faeries, also called "hero-faeries" because of the he-
 
@@ -4916,7 +4916,7 @@ Some characters have so many tales told about them that some magi think several 
 
 Many Irish heroes protect their clan at some point in their story. To do so, a faerie
 
-## *Donn*
+## Donn
 
 The Dark One, Donn is the deathgod of the Tuatha Dé. Like a mundane king, he has sons, keeps cattle, and raids his neighbors. His palace, the rocky island of Teach Duínn off the Munster coast, is where the dead assemble. During wartime, Donn's three red-haired sons ride through the country spreading terror. They say the slain will rise at Teach Duínn and join Donn's army.
 
@@ -5008,7 +5008,7 @@ Irish legends claim that the devil can assume the shape of a dog, cat, and man. 
 
 A faerie devil wanders the roads at night, looking for travelers to cast dice against. He wagers a bag of coins against the traveler's soul. The faerie cannot actually take the man's soul, but he does have a faerie power that drains long-term fatigue
 
-## *Trooping Faeries*
+## Trooping Faeries
 
 An individual trooping faerie does not have a name and exists within the community of its troop. Separated from the horde and interrogated, it can only repeat topics of interest to the larger whole.
 
@@ -5100,7 +5100,7 @@ Cáilte is designed as a companionlevel player character.
 
 and leaves a man unconscious. One of the covenfolk meets this devil while running an evening errand. The following day he is weary and weak, and tells his friends that Satan is traveling the roads again. Preferring that the covenfolk not seek the local priest's aid, the magi intervene.
 
-## *Trooping Faeries*
+## Trooping Faeries
 
 *Slua si* (SLOO SHEE) in Irish, trooping faeries are roving gangs that wander the night causing destruction and sometimes death. It is hard to pinpoint who they are emulating, as they have played this role for so long that they are a story unto themselves. Some groups might be mimicked pagan warbands like the fianna or Ostmen raiders. Other groups might be copying the marauding English knights who are currently taking whatever they can grab. Some of the gangs look like semi-transparent replicas of contemporary soldiers, some look like hunched and hooded primeval clansmen, and others look like spectral phantoms flying through the air. These latter faeries are thought to be the restless dead, although they have no connection to either the Infernal or Divine realm.
 
@@ -5108,14 +5108,14 @@ and leaves a man unconscious. One of the covenfolk meets this devil while runnin
 
 Stories involving trooping faeries are threatening, at least to property if not to a character's life. Trooping faeries do not parley, except to exchange threats before attack. Mindless in their mayhem, other faeries have learned to use them. Trooping faeries are often used as the threat that a faerie protector wards against (see earlier). Trooping faeries can displace other faeries through their destructive wanderings. A story could involve another faerie asking for help because trooping faeries destroyed her home.
 
-## *Solitary Faeries*
+## Solitary Faeries
 
 A catchall category, solitary faeries are those who work alone. Sometimes a small band of faeries fits this category, like the three crones of Slievanamon, but only if they are unconnected to a larger collection of related faeries. The old crone who lives in the wood, the three-headed giant that regularly attacks Tara, and the sea monster that prowls Lough Derg are all solitary faeries.
 
 Solitary faeries are often just as harmful as trooping faeries. Some are monsters, waiting in remote areas ready to attack. Áillen mac Midgna is a three-headed magician who lives in northern Connacht and has repeat-
 
 
-## *The Head of Arastotail*
+## The Head of Arastotail
 
 The Irish believe that Aristotle was a magician, whom they call "Arastotail." Forever quarreling with his wife, who constantly thwarted his efforts to study bees, stars, and tides, Arastotail lost every argument. Her pestering aside, the magician sought ever-lasting life. To achieve immortality, he severed his own head and told his servant to bury it in a special place and retrieve it at dawn. Some stories say that the servant forgot and Arastotail died. Others say that the head started yelling for the servant and the muffled cries coming from the burial mound could be heard from far away. When an innocent farmer dug up the head, it commanded him to search for Arastotail's body.
 
@@ -5158,23 +5158,23 @@ edly set fire to Tara by vomiting up burning rocks. He attacks on a regular patt
 Some solitary faeries trick people before killing them. The old woman of the mountain might ask a local girl to sew for her, and only kills her if she doesn't finish the assigned sewing. Other faeries want service and sacrifice instead of slaughter. The old crone of the River Barrow drags swimmers to her underground lair, where they cook and clean for the faerie. Player characters often save the abducted or protect a group from the solitary faerie.
 
 
-## *Chapter Twelve*
+## Chapter Twelve
 
-# *The Divine Landscape*
+# The Divine Landscape
 
 Ireland is a beautiful land, haunted by angels, forged by saints, littered with monasteries and the tiny cells of hermit mystics. The people are pious, and call upon the Divine often, but they have a very pragmatic understanding of religion. This is in sharp contrast with the English churchmen who have claimed much authority on the island.
 
-## *Dioceses of Ireland*
+## Dioceses of Ireland
 
 The division of Ireland into dioceses came later than in England and represents an innovation that is still at times contentious. By last century the reform party had managed to impose a diocesan organization, but relations between the bishops and the abbots who head the ancient *comarba* (see below) are still troubled, with questions of authority still raised, though by 1220 the bishops' authority has become paramount. Most traditionalists still look to the *comarba* for leadership, and as the majority of Irish clergy are members of religious orders this is a natural tendency. Secular clergy — priests
 
-## *The Two Churches of Ireland*
+## The Two Churches of Ireland
 
 In Western Mythic Europe there is only one Church, which looks to the Pope in Rome for leadership. While all Irish churchmen accept the authority of that Church and see themselves as loyal to the Pope and the Church as an institution, in Ireland a strange situation has arisen. In 1220 almost everyone accepts that there are now two Churches in Ireland, both factions of the greater church: one based upon the native tradition, and to which we refer as the Irish Church; the other looking to the English Church and English throne, and hereafter referred to as the Anglo-Irish Church. The two are locked in conflict over matters of church discipline and organization, and vie to place their candidates in the bishoprics.
 
 Complicating the situation is the divide in the Irish Church between a party dedicated to reform of the native institution, and the traditionalists who look back to the old ways of monastic leadership in the church, based on the traditions of the apostolic saints.
 
-## *An Example of Diocesan Politics*
+## An Example of Diocesan Politics
 
 The story of the dispute between the dioceses of Waterford and Lismore demonstrates the spirit of the times. The Anglo-Irish Bishop of Waterford planned to incorporate Lismore into his diocese. He took a party of knights and seized the cathedral, expelling the bishop, Felix. When the Bishop of Waterford died in 1199, Bishop Felix returned to his cathedral, but another one of King John's appointees took over at Waterford. This man, Bishop Robert, then appealed to the papal legate. The dioceses were officially joined and Felix passed into retirement. The cathedral chapter of Lismore ignored the legate and elected a new bishop, Malachy, whom Bishop Robert's men promptly seized and imprisoned. He escaped and made his way to Rome, where Pope Innocent III re-instituted the diocese of Lismore and sent Bishop Malachy back to his seat; he arrived in 1204 to find his rival Robert had died.
 
@@ -5190,7 +5190,7 @@ Ancient Irish church bells have an unusual shape, like hollow pears, which conta
 
 — are however becoming more common and the English have made the training of priests a priority, with Dublin as the center for this initiative. Bishops often attempt to expand their diocesan boundaries, and incorporate smaller or weaker dioceses in the same way lords fight over their lands, trying to extend their territories. Before the English arrival this diocesan conflict was often caused by clan politics, with bishops closely allied with local kings. Sometimes the motive was purely the internal struggle between reformers and traditionalists. Today the struggle often reflects the Anglo-Irish Church's attempt to claim spiritual leadership over all of Ireland.
 
-## *The Irish Church*
+## The Irish Church
 
 The Irish Church has developed a unique flavor and many practices that are unfamiliar to the English churchmen who have come to Ireland. While the Irish Church is fiercely loyal to the Pope, and frequently appeals to the papacy on questions of religious practice, some within the Irish Church felt that the institution desperately requires reform, and in the 12th century a Reform party arose. Many synods were held where ecclesiastical abuses were ended, and matters of discipline (how the church is run) were debated. The reform party, based largely among the bishops, has done much to change the church in the direction of the customs and practice of the rest of the Western Church. A traditionalist party, often synonymous with the abbots of older monasteries, has resisted these changes. Both parties continue the debate not on matters of doctrine and theology, where there is general agreement, but on the customs and organization of the Irish Church.
 
@@ -5236,7 +5236,7 @@ Some priests marry, or have concubines, and their children then inherit their po
 
 Generally the reformers seek to disengage monks from local political loyalties, and sept influence, and the Anglo-Irish want to reorganize the monasteries in lines with the continental monastic orders.
 
-## *The Anglo-Irish Church*
+## The Anglo-Irish Church
 
 Despite the reform movement in Ireland, the English churchmen tend to condemn both reformers and traditionalists and push for a reform of the Church in Ireland in line with English practice. Indeed, many Irish bishops have been replaced with English churchmen. Such a practice is not unique to Ireland; even in Wales there is a tradition of not electing native born bishops where possible, owing to the influence of the English king. This is why even the fiercely loyal Giraldus Cambrensis struggled to achieve ecclesiastical rank in his own country. This became official policy under Prince John, and was later confirmed by a decree of Henry II: no native born Irishman was to be made a bishop, and the cathedral chapters were to accept royal appointments rather than, as was traditional, electing their bishops. This has proven the major bone of contention between the reform party of the Irish Church and the Anglo-Irish Church, as they resent ecclesiastical preferment being granted to the English and their own exclusion from office.
 
@@ -5247,7 +5247,7 @@ Soon after his arrival in Ireland in 1171, King Henry II demanded a synod of the
 There is a political aspect to this unwillingness to accept that the Irish Church can put its own house in order. Pope Adrian's letter *Laudabiliter* that authorized the English invasion of Ireland was granted in order that the Irish Church's perceived faults could be mended, and Ireland brought into line with English ecclesiastical tradition. As such to recognize the Irish Church as well run and
 
 
-## *A Note on Naming*
+## A Note on Naming
 
 Where two names are given for a saint, the first is the anglicized form given for familiarity (and ease of looking up more on information these saints), the second the Irish used in the 13th century. Some saints are also known by Latin names — Patrick, for example, is Patricius. Modern Irish renders it Padraig, and in his lifetime he was called Cothraige, but that name is long forgotten by 1220. St. Brigid is often rendered St. Brigit, or even Mary of the Gael, a popular title for her. Use whatever names best suits your troupe's needs.
 
@@ -5255,11 +5255,11 @@ disciplined is to undo the authority of the English crown's claim to the land.
 
 Now, however, the Pope has accepted the right of Irish clergy to hold office as bishops in their own country, and has rebuked the English for exceeding their authority. The fractious Irish church has begun to unite in the face of the organized hierarchy of the Anglo-Irish, who follow the clear ecclesiastical leadership of the bishop of Dublin, and who claim that Irish resistance to church reform is little more than a mask for rebellion against the authority of King Henry III.
 
-## *Petitioning the Pope*
+## Petitioning the Pope
 
 While now clearly divided into two rival churches, to the extent that the papacy files letters from Irish Bishops and Anglo-Irish bishops as if from separate nations, and occasionally sends legates to one or the other church, both parties are equally clearly part of the Western Church and obedient to the Pope. There is a long tradition in Ireland of appealing ecclesiastical decisions to the highest spiritual authority in the world, the Pope, and the Pope's decision is final, at least until a later appeal changes it. For centuries Irish churchmen have petitioned the Pope to resolve disputes, and this may have led to the idea that the Irish Church was in need of reform. It is entirely possible characters in your saga will ultimately wish to petition the Pope to ensure that a just decision is reached, or to correct abuses, and traveling to Rome for this purpose can make for an interesting story. *The Church*, page 46, has full rules for petitioning the Pope (or other churchmen) in your **Ars Magica Fifth Edition** saga.
 
-## *Saints of Ireland*
+## Saints of Ireland
 
 As well as St. Patrick there are over a hundred other saints popularly venerated in Ireland, and many Irish saints traveled abroad and are venerated in those foreign lands. The saints listed here however are all popular saints in Ireland itself, and while each has an associated region where he or she is especially popular, they are all venerated throughout the land. New Powers in addition to those in *Realms of* 
 
@@ -5274,7 +5274,7 @@ All Saints have the following statistics in *Ars Magica* terms.
 
 Devotion to the Saints is common in Ireland; Irish characters may call upon St. Patrick, St. Brigid, and St. Columba as patron saints of Ireland, as well as the Virgin Mary and their patron saints.
 
-## *Some Irish Saints*
+## Some Irish Saints
 
 The following saints are by no means an exhaustive list, and troupes should research local saints for their saga, using these as exemplars. Whereas in *Realms of Power: The Divine* all saints are assumed to have the same personality traits, here individual traits are given for each of the saints listed. Some may seem surprising, but as Giraldus Cambrensis unfairly wrote "the saints of this country seem to be of a vindictive cast of mind." They are, however, different in some ways to the English saints he was acquainted with. However, the Hook Meddlesome Saint (*Covenants*, page 23) may be very appropriate in a Hibernian saga, as the Irish saints are often interested in the affairs of magicians.
 
@@ -5330,7 +5330,7 @@ Brigid was born of a nobleman and a concubine who was immediately sold to a magi
 
 **Powers:** *Acknowledgment of Evil*, *Apparition, Banish Magical Monster, Borne up by Angels, Dysentric Infliction, Expel Demons, Multitude of Fish, Raise the Dead, Resist* 
 
-#### *The Contested Isle*
+#### The Contested Isle
 
 *Temptation, The Dutiful Shepherd, Walk Upon the Waters.* 
 
@@ -5468,7 +5468,7 @@ Saint Senan is most renowned for his triumph over the evil sea serpent the *Scat
 
 **Area of Veneration:** Munster, especially
 
-#### *The Contested Isle*
+#### The Contested Isle
 
 Tipperary and the diocese of Roscrea **Personality Traits:** Pious +3, Passive+2, Protective +2
 
@@ -5476,7 +5476,7 @@ Tipperary and the diocese of Roscrea **Personality Traits:** Pious +3, Passive+2
 
 St. Cronan lived in a time when many fierce raiders troubled the land of Ireland. He protected his parishioners from many attacks by working a miracle to make their enemies' weapons useless against them, though finally he and his monks chose to submit to martyrdom at the hands of the Vikings when they burned his monastery.
 
-## *New Powers and Curses for Irish Saints*
+## New Powers and Curses for Irish Saints
 
 The saints of Ireland have their own special concerns, and many of their miraculous powers are unusual; they have a great fondness for nature miracles, and many unique blessings and curses of which a devoted petitioner may gain the benefit. As there are far more Irish saints than those detailed here, storyguides can use these guidelines to assisting in creating typically Irish saints, in addition to those described in *Realms of Power: The Divine*, 88–89.
 
@@ -5519,7 +5519,7 @@ does it all it can to assist them. If the animal's trust is betrayed or is harme
 
 *Walk Upon the Waters,* 3 points, Init + 7, Corpus*.* One blessed by this power can walk upon the waves as if they were made of stone, and tread lightly over rivers or even the sea to a boat off shore, and back to the beach.
 
-## *Divine Tradition: the Céli Dé*
+## Divine Tradition: the Céli Dé
 
 *"In this year the Céile Dé came across the sea with dry feet, without a vessel; and a written roll was given him from heaven, out of which he preached to the Irish, and it was carried up again when the discourse was finished."*
 
@@ -5543,17 +5543,17 @@ A Céli Dé character is an exceptional person, and can be created as a Companio
 The covenant of Paruchia Nerius represents a small Hermetic group of Céli Dé who have joined House Ex Miscellanea. Hermetic Céli Dé characters are created as magi.
 
 
-## *Chapter Thirteen*
+## Chapter Thirteen
 
-# *The Infernal Landscape*
+# The Infernal Landscape
 
 True evil in Hibernia hides in the hearts of men and in the things that they do. Temptation, obsession, and possession are the tools of Infernal; if you hear your own voice urging you on to some questionable action, thenyou have encountered true evil.
 
-## *The First Acts of the Infernal*
+## The First Acts of the Infernal
 
 Obsession and temptation came early to Ireland. When Partholon's wife Delgnat had an adulterous liaison with a servant named Topa, a demon revealed the crime to Partholon by giving him the power to taste their betrayal on a cup they had shared. Partholon had Topa put to death, and thus the sins of adultery and jealousy were brought to Ireland.
 
-## *Infernal Relic: The Cup of Partholon*
+## Infernal Relic: The Cup of Partholon
 
 The cup of Partholon, an exquisite horn of red gold, embossed and engraved with the telling of Partholon's voyage to Ireland, is buried somewhere in Inis Saimera. The unwary magus in search of a cathach may go searching for Partholon's cup as a powerful symbol associated with Ireland's earliest years. But the horn is an Infernal relic with power over betrayal. Those who look upon it gain an Envious +3 Personality Trait, with a Penetration of +15, and a temptation to betray its owner and take the cup.
 
@@ -5563,13 +5563,13 @@ War is the third weapon employed by the Infernal in Ireland. When Nemed arrived 
 
 The Infernal promotes suffering any way it can, whether granting a king the battlefield and taking his son on the same day, or in helping an entire people lead themselves to slaughter.
 
-## *The Evils that Men Do*
+## The Evils that Men Do
 
 To grant false power indulges one man's venality, but make him want what his neighbors have, make him covet a man's wife, or the fertility of his land, and many souls can be brought to hell.
 
 There are two approaches typically used by demons in Hibernia: the first is to place a man under such hardship that he has nowhere but the dark path to turn; the second is to pique a man's interest and stoke it through envy and obsession until he is damned by his own actions.
 
-## *The Plagues Of Ireland*
+## The Plagues Of Ireland
 
 *Much inclement weather happened in the land of Ireland, which carried away corn, milk, fruit, and fish, from the people, so that there grew up dishonesty among them all, so that neither church, nor dún, nor covenant was spared.*
 
@@ -5580,7 +5580,7 @@ Ireland has always been beset by plagues, many with an Infernal source. With pla
 In such times, covenants would do well to seek out the source of the illness and hardship and end it before those affected are left with no option but to try to take the covenant's livestock and supplies. More than once, scarcity has led to the ravaging of churches and similar attempts upon covenants.
 
 
-## *The Library of Vigil*
+## The Library of Vigil
 
 The covenant of Vigil has a substantial library of casting tablets and laboratory texts concerned with combating Infernal illness and harsh weather. In years gone by, the magi of Vigil watched for signs of Infernal hardship sweeping from the north and helped the people of Ireland by combating the demons responsible. But the Infernal has lain low of late, long enough for Vigil to succumb to its own sins of indolence, and the library now sits dark and untouched in the waterlogged vaults beneath the lost fortress. References may be found to this knowledge in annals of Hermetic history, and those covenants affected by Infernal winters and plague may want to approach Vigil for access to this lost library.
 
@@ -5592,7 +5592,7 @@ The Order of Hermes does not stand alone between demonic plague and the populace
 
 Folk Witches, described in *Hedge Magic Revised Edition*, treat the afflicted with their healing magic, while the Nightwalkers, described in the same book, adopt their ghostly forms to combat the demonic spirits that cause illness and unrest. The few Elementalists found in Ireland may use their powers to moderate the winter cold or to bring the humors of their patients back into balance. Others within the Coill Trí have the power to expel illness from a place or to ward individuals against plague.
 
-## *Agents of Chaos*
+## Agents of Chaos
 
 There are three things that drive a man to dark deeds: love, land, and status. Those with them guard them jealously, while those without fight to get them. And so the Infernal in Ireland rarely offers these things to those without them already; the Infernal knows that each man would gladly damn his own soul, so they give gifts to the wealthy instead, and they take from those who have little enough already.
 
@@ -5602,14 +5602,14 @@ This was the fuel for the too-frequent infighting over the kingdom of Connacht. 
 
 Hermetic covenants are not immune to such manipulation. It is not recorded what led the Merinita of Vigil to turn against the Diedne all those years ago, but those who understand the workings of demons might have their own suspicions.
 
-## *Hibernian Demons: The Unseen Threat*
+## Hibernian Demons: The Unseen Threat
 
 The demons of Ireland understand the value of working unseen and unheard. They do this not out of the virtue of intelligence, but out of malicious cunning and cowardice. For the most part, any creature
 
 
 Hibernian demons have the power to take physical form if compelled, but by Saint Patrick's miracle no demon of Hibernia may adopt a serpentine shape. Any demon possessing the coagulation power must take a form other than serpentine or remain forever intangible while in Ireland.
 
-## *Common Powers*
+## Common Powers
 
 Temptation is the favored weapon employed by the Infernal in Hibernia and is achieved through the following powers, described in *Realms of Power: the Infernal*, from page 31.
 
@@ -5627,11 +5627,11 @@ Might Score by 10 points, which regenerates at a rate of one point per season sp
 
 *A Death in the Night,* 4 points, Init (Qik – 4), Animal/Corpus: Depending on the type of demon, this power kills either a single human or a single animal target. To use this power, the demon must first use its Envisioning power and enter the target's dreams. The dream inevitably turns to nightmare and when it does, the demon may unleash this power to kill its target. This is most often used to kill those who may be a calming or restraining influence on the demon's true target.
 
-## *Demons of Hardship*
+## Demons of Hardship
 
 Hibernia is teeming with demons that hide in breezes and travel in shadows. The Aerial Powers known as Fictiles (*Realms of Power: The Infernal*, page 69) are well-represented in Hibernia but there are other destroyers too with power over particular types of disaster, be it storm, flood, fire, illness, or famine. Even minor nuisances, such gates that become unlatched in the night, have hordes of demons dedicated to them, each with some small power to match.
 
-## *The Sluagh*
+## The Sluagh
 
 The Sluagh (SLOOA) are invisible spirits that can smell death's approach and gather in flocks to take the departing spirit away with them.
 
@@ -5645,11 +5645,11 @@ Once inside the house, one of the Sluagh catches their target's last breath and 
 
 If they cannot get in before their target dies, or if their target receives Extreme Unction (*Realms of Power: The Divine*, page 75), they have no power over the spirit.
 
-## *Devils of Folklore*
+## Devils of Folklore
 
 Most folklore concerning the devil and his minions actually relates to faeries playing the roles of devils or to ghosts seeking
 
-## *The Harvest Thief*
+## The Harvest Thief
 
 Invisible and intangible, the Harvest Thieves fly upon a breeze that moves through the crops yet always against the wind. Each Harvest Thief is a small and grey, no larger than a grain of wheat, with spindly limbs and long tapering ears. These creatures are set loose in their hundreds upon the world, where they seek out healthy crops to despoil.
 
@@ -5694,7 +5694,7 @@ These creatures are cowardly and easily warded against, both through magical mea
 Particular Harvest Thieves have a taste for particular crops and cannot stand the taste of any other. To find Harvest Thieves roaming the fields outside of harvest time is unusual.
 
 
-## *The Sluagh*
+## The Sluagh
 
 **Order:** Evil Spirit
 
@@ -5760,11 +5760,11 @@ Earlier Irish folklore has no trouble in identifying faeries and their kind for 
 
 They often now take the shape of Infernal imps that roam the roads at night looking for unwary travelers. Other faeries, in the roles of priests or wise women, are usually nearby to give the traveler chance to reaffirm his faith and be protected from the "devils" as they pass by. In return, the faeries gain vitality by playing out the roles of devil and redeemer alike.
 
-## *Folk Charms*
+## Folk Charms
 
 The demons of Ireland that have the Abhorrent Material/Circumstance, Compulsiveness, or Protected Group weaknesses are usually affected by the following:
 
-## *Infernal Places*
+## Infernal Places
 
 Ireland has its share of dark and evil places. Its battlefields have seen so much slaughter and cruelty that they have become corrupted and provide sanctuary for creatures that feed on fear and pain. Then there are Infernal auras arising from the corruption of mankind, places that continue to offer temptation. And lastly there are places where the world of the Infernal touches upon the mortal world, a font from which demons spill and corruption spreads.
 
@@ -5784,7 +5784,7 @@ After Patrick banished the demon Crom Cruach, forcing him far underground, the s
 
 Even now, it is considered strategically important. If your game follows the path of history, the Uí Raghallaigh once again meet the Uí Ruairc on Magh Slécht in
 
-## *Temoneth, Messenger of Delgnat's Betrayal*
+## Temoneth, Messenger of Delgnat's Betrayal
 
 The child of covetousness and deceit, Temoneth has been behind many of the ills to have befallen Ireland, starting with Delgnat's betrayal of her husband Partholon and including the Uí Ruairc queen Dervorgilla's elopement with her husband's mortal enemy Dermot MacMurrough. Temoneth is a master of lust and uses her powers to sow discord between man and woman. But she is also arrogant and cannot bring herself to molest those of low status where their superiors make more fitting sport.
 
@@ -5844,7 +5844,7 @@ Temoneth's chief weapon is her *Possession* power, with which she hides in the c
 
 
 
-## *Infernal Tradition: Cailleach Phiseogach*
+## Infernal Tradition: Cailleach Phiseogach
 
 The *Cailleacha Phiseogach* (KOL-yukh FISH-owe-gakh) are Infernal witches that put their powers in the employ of mundane lords in return for sanctuary and earthly riches. They are always female and they wear the trappings of wise women as they advise the sons of the Irish clans. Their maleficia allow them to bargain with and control supernatural creatures, to curse their enemies, to spy upon others from a distance, and even to see things past and yet to come. They often summon spirits or creatures from the Magic and Faerie realms and compel them to some task or other; although the Chailleach's power is Infernal she has a strong knowledge of all the realms.
 
@@ -5878,7 +5878,7 @@ The Connachta fort at the mouth of the Corrib is infernally-influenced; a naval 
 
 If your saga follows real-world history, the fort and the settlements it protects fall under siege again throughout the 1230s as the Normans make their push into Connacht. If the Infernal is not battled alongside the Normans, then Gaillimhe will continue to fall and to fail in protecting the people of Connacht.
 
-## *Hell on Earth*
+## Hell on Earth
 
 Inis Doney, a small island on Lough Erne in Ulster, has a dual nature. For the most part, the island is a calm place with a high Divine aura centered upon a finelybuilt church. It is said that even angels choose this church to hold their own mass in and that it enjoys the presence of many local saints. But there is also a place upon that island that no angel or saint can be compelled to look at; a dark path untouched by the Dominion, and leading to Infernal torment.
 

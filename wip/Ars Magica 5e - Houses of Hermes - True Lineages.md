@@ -14,7 +14,7 @@
 
 **PUBLISHER'S SPECIAL THANKS:** Jerry Corrick and the gang at the Source
 
-### *About the Authors*
+### About the Authors
 
 **Erik Dahl** lives in California and works as a database programmer. He indulges his creativity with games of all sorts and "fun rock" (many of his songs are available for free download at http://www.volvomaroon.com/). Because of this book, he now has several goofy red caps that he often forgets he is wearing, to his lovely wife's amusement.
 
@@ -42,9 +42,9 @@ October 2005
 **Digital Edition Version 1.0**
 
 
-### *Table of*
+### Table of
 
-# *Contents*
+# Contents
 
 | House Bonisagus4                  |  |
 |-----------------------------------|--|
@@ -214,9 +214,9 @@ October 2005
 
 Messengers and Heralds..........................82
 
-### *Chapter One*
+### Chapter One
 
-# *House Bonisagus*
+# House Bonisagus
 
 *"Brothers and Sisters, I bring you the potion that will cure our sorrows and bind our wounds. No longer need we conspire against each other; for now we stand together on the common ground that this knowledge has provided, and we can make peace. May all of you and all your filii use what I will teach you wisely."*
 
@@ -239,16 +239,16 @@ The following pages detail House Bonisagus, beginning with its Founders and its 
 Hermetic discoveries.
 
 
-## *History*
+## History
 
-### *The Founder Bonisagus*
+### The Founder Bonisagus
 
 Bonisagus was born in Florence in 690. Unsettled by his potent Gift, his parents sent him to live with his uncle, a deacon in the church Or San Michele, hoping that his soothing presence might cure the boy. His uncle realized
 
 
 
 
-### *Key Facts*
+### Key Facts
 
 **Population:** 81 (52 magi Bonisagi, 29 magi Trianomae)
 
@@ -258,7 +258,7 @@ Bonisagus was born in Florence in 690. Unsettled by his potent Gift, his parents
 
 **Favored Tribunals:** The Rhine and Roman Tribunals, followed by the Iberian and Provencal.
 
-### *Famous Figures*
+### Famous Figures
 
 **Bonisagus,** inventor of the Parma Magica and Hermetic magic theory, Founder of the House.
 
@@ -270,7 +270,7 @@ Bonisagus was born in Florence in 690. Unsettled by his potent Gift, his parents
 
 **Thamus Collis,** Primus during the Schism War. **Jovius,** last apprentice of Bonisagus, Marched by his parens.
 
-### *Durenmar: Domus Magna*
+### Durenmar: Domus Magna
 
 The domus magna of House Bonisagus is Durenmar, located in the Black Forest in the Holy Roman Empire (modern day Germany). Built on the ruins of a Mercurian temple, it is the site where the Twelve Founders swore allegiance to the Order of Hermes in 767. It consists of three towers, a forum and several outlying buildings standing in one of the forest's few valleys. The three towers are named after the three most important magi of House Bonisagus. The Tower of Bonisagus houses the Great Library, an unequaled collection of books. The Tower of Notatus contains the living quarters of the resident magi Bonisagi, including the Prima Murion. The Tower of Trianoma is home to the magi Trianomae, Redcaps, and other magi not of House Bonisagus. The Forum of Hermes is where the Rhine Tribunal meetings and the Grand Tribunals are held. Much more information about Durenmar can be found in *Guardians of the Forests: The Rhine Tribunal*.
 
@@ -291,7 +291,7 @@ Bonisagus also discovered many powerful magi during his travels. His first few m
 
 one encounter nearly killed him. Paradoxically, this same magus would later become one of the Twelve Founders. Bonisagus decided to invent some form of magical resistance to protect him. His efforts were delayed by robbers, who stole a satchel full of his books on his return trip to Rome. Bonisagus followed them to their secret lair, a cave in the Southern Alps, and retrieved his property. Chasing the thieves away, Bonisagus realized that the cave had been a shrine to Hermes before becoming the bandits' lair. He thought it an ideal place for his research, being both private and maintaining a magical aura. Within a year he had installed his library and laboratory. He began the duel task of formulating a universal magic theory and creating some type of magic resistance. He was not heard from again for ten years.
 
-### *The Founder Trianoma*
+### The Founder Trianoma
 
 Trianoma was born in Thessaly, from a long line of powerful female sorceresses, the same maternal bloodline as Circe and Medea. Thessaly is famous for its potent witches, and Trianoma and her twin sister Viea were no exception. They were trained in magic by their nurse, learning hexes and spell-songs as toddlers. Trianoma was also blessed with visions, strange portents that beguiled and frightened her. She rarely understood the visions, and relied upon her sister's interpretations to make sense of them.
 
@@ -299,7 +299,7 @@ One night Trianoma dreamt a terrible nightmare. She and her sister had been figh
 
 A year later Trianoma and her sister found Bonisagus's hide-away. Following Viea's advice, the sisters immediately attacked, their long hair loosed and woven with poisonous snakes. Trianoma's incantations and Viea's enchanted arrows failed to pierce Bonisagus's magical protection, and the magus easily defeated the sisters. Bonisagus imprisoned the women, threatening them with slavery if they did not teach him their song-magic. Viea balked at the offer but Trianoma craftily agreed.
 
-### *Story Seed: Legends of the Founder*
+### Story Seed: Legends of the Founder
 
 Many legends surround Bonisagus and Trianoma, and these are only a few of the fantastic stories attributed to the pair. Investigating these legends would make excellent adventures.
 
@@ -316,7 +316,7 @@ spells, Bonisagus taught both women some simple formulaic spells, invented under
 
 The magus was furious but Trianoma forbade any revenge. She was reminded of her dream that had started this journey. She believed hunting down her sister would drive the world of wizards to a horrible end. Instead, she used her sister's pilfering to suggest a new order of magi, where theft and murder would not be necessary. Bonisagus was reluctant, but Trianoma spoke of a society of magicians unlike any he had ever seen. He acquiesced and accepted her as his full apprentice, beginning her studies in earnest. Within a year she had learned his Hermetic theory and finally the Parma Magica.
 
-### *The Formative Years*
+### The Formative Years
 
 Trianoma set out across Europe, seeking powerful magi to join the nascent Order of Hermes. Bonisagus moved to an ancient Mercurian temple located in the Holy Roman Empire's Black Forest in 754. Forming the Order was slow work, taking almost thirty years to complete. During that time, Trianoma sent magi to Bonisagus, who worked closely with them to incorporate their magic into his universal theory. Some of the founders were reluctant to join, and it took Trianoma several visits to persuade them. Her constant offer of the Parma Magica to those who accepted her invitation eventually prevailed. In 767, twelve magi stood in the Black Forest and swore fealty to the new Order of Hermes. Trianoma refused to found a lineage herself, preferring the advantages of neutrality by remaining in Bonisagus' lineage. She promoted cooperation, fighting against the lingering spirit of competition inherent in all magi, and wished her descendants to do the same.
 
@@ -326,18 +326,18 @@ As the Order grew, Bonisagus and Trianoma decided they needed help overseeing th
 
 House Bonisagus responded unevenly to the early conflicts that threatened the Order of Hermes. Magi Bonisagi barely took notice of the calamities, preferring their personal research over any organized reaction. They deemed the Order sufficiently capable of handling events without their specific participation. Bonisagus was often accused of being self-centered and unaware of the world around him, and this perception clung to his lineage. Magi Trianomae launched themselves into these early problems, thinking every conflict could be resolved through peaceful negotiations and dextrous politicking. They realized their mistake with Damhan-Allaidh, who cared little for negotiations and preferred beheading magi to befriending them. They may have fared better in the other early crises, but since Trianoma's lineage followed her behavior of acting without recognition, their exact involvement is unknown. Those in the Order fond of conspiracy theories claim that magi Trianomae were behind House Tremere's "Sundering", although magi Trianomae publicly deny any such claim.
 
-### *Story Seed: The Lost Diary of Polus*
+### Story Seed: The Lost Diary of Polus
 
 Polus was a powerful magus living in the ninth century, who kept diaries of his life as a magus Trianomae. Several of his diaries still exist, residing in the Great Library of Durenmar. Recently one of his missing diaries has been found, containing specific information about his and other magi Triamonae's involvement in the Sundering. Besides claiming responsibility, the dairies clearly show how magi Trianomae repeatedly broke their Hermetic Oath by spying on Tremere magi. If this missing diary came to the Order's attention, it would seriously discredit House Bonisagus and its Trianoma lineage. Player characters are asked to discover whether this diary is genuine or a forgery.
 
 
-### *The Founder's End*
+### The Founder's End
 
 Bonisagus continued teaching Hermetic magic throughout the eighth century, teaching with a passion and accelerating magi through apprenticeship. The most exaggerated case was Jovius, a man accepted as apprentice in his twenties and sped through the complete Hermetic course in four years. Regrettably, Jovius lacked the maturity to be a magus even though he possessed the requisite lore, and within a few months of his gauntlet he was convicted of seriously breaching his Oath of Hermes. Bonisagus was forced to March his own filius, and the experience changed the archmagus. He left Durenmar and never took another apprentice. Rumors of his location and activities occasionally surfaced, but few facts could be determined. He attended the Grand Tribunals of 817 and 832, although he contributed to neither. He was last seen at the regular Thebes Tribunal meeting of 836, recruiting young magi for some secretive mission.
 
 Trianoma continued traveling from covenant to covenant — usually domus magnae — throughout the eighth and early ninth centuries. She always had an apprentice in tow, always accepting another as soon as her current charge took the Oath. She too attended the Grand Tribunal of 832, sharing a meal with her master. After supper, she retired to her private suite and died in her sleep.
 
-### *Story Seed: The Founders' End*
+### Story Seed: The Founders' End
 
 Viea was never found, nor was the property she took ever recovered. Some believe that the stolen volumes contained lost details of Bonisagus's theory, and that their recovery could repair some of the failings of Magic Theory. They claim Viea fled back to Thessaly and began a line of sorceresses whose magic could surpass the limits of Hermetic magic. Bonisagus's purpose at the Thebes Tribunal in 836 was to raise a band of adventures to find his enemy. Player characters could be recruited to explore the Greek islands looking for Bonisagus's lost books and, perhaps, his grave.
 
@@ -345,7 +345,7 @@ Trianoma did not die peacefully in her sleep during the Grand Tribunal of 832. K
 
 
 
-### *The Schism War*
+### The Schism War
 
 The Schism War was the gravest threat the Order ever faced. To House Bonisagus, its cure, the Renunciation of House Diedne, was as welcome as the amputation of a wounded limb. For that was precisely what it was, the sacrificing of one House to save the whole Order. Diedne had contributed her knowledge of spontaneous magic to Bonisagus's Magic Theory. She was the most versatile practitioner of spontaneous magic ever seen, and her lineage retained this spectacular ability. Magi Bonisagi felt great affection for House Diedne, and magi from both Houses were known to work together on various projects. Magi Trianoma felt quite the reverse. While they couldn't deny House Diedne's capabilities, they distrusted Diedne's lineage. Trianoma's personal feelings were passed down through Trianoma's lineage, based on her resentment of the many clandestine meetings Bonisagus and the pagan Diedne held.
 
@@ -353,46 +353,46 @@ Still, neither branch of House Bonisagus was prepared when the Schism War broke 
 
 In 1011, magi Trianomae convinced the Primus of House Guernicus to call an emergency Grand Tribunal instead of the Regular Tribunal meetings to deal with the situation. The Primi of House Bonisagus and House Mercere readily agreed. House Mercere offered its aid to quickly reach all the Primi and escort them to Magvillus. The summons went to as many covenants as the Redcaps could safely reach. The specifics of this emergency meeting can be found in the Guernicus chapter. The end result was the Renunciation of House Diedne and all its members. This decision caused many magi of House Bonisagus to resent their fellows. Destroying one of the founding Houses was hardly a model of cooperation and peaceful community. It was a heavy decision Bonisagus Primus Thamus Collis had to make, and once decided he abdicated his position — the only Primus to ever do so.
 
-### *Story Seed: A Pair in Isolation*
+### Story Seed: A Pair in Isolation
 
 Before the events of the Schism War, a Bonisagus and a Diedne magus isolated themselves from the rest of the Order to collaborate on magical research. Their hiding place was so remote that they missed the events of the Schism War entirely. Growing older, they each acquired and trained an apprentice in the twelfth century, to finish their research once they slipped into Final Twilight. The apprentices continued their master's efforts, neither one ever leaving their isolated valley, never attending any of the regular meetings of the Order, waiting until their research was complete before their triumphal return.
 
 Now they have returned, only to find their masters' covenant destroyed long ago, and one of the pair an enemy of the Order. They have invented a staff that can perform spontaneous magic, adding its magical ability to the wielder's for spectacular results. They can react with the player characters in a variety of ways, depending on the nature of the saga; they may ask for help or be instant antagonists.
 
-## *House Organization in 1220*
+## House Organization in 1220
 
 House Bonisagus is one of the smaller Houses of the Order of Hermes. Many of its members work independently, and the House has developed organizations to meet its magi's needs. House Bonisagus has only three levels of hierarchy. The Primus stands at the top of the hierarchy, naturally, and holds considerable power and influence. Beneath him are two Inner Circles, the Colentes Arcanorum and the Tenentes Occultorum, two groups of equal status charged with maintaining the specific interests of the House's two sides. The rest of the House consists of regular magi Bonisagi and magi Trianomae. Magi Bonisagi have invented ranks among themselves based on their research achievements, levels of prestige with accompanying titles. Magi Trianomae view themselves as equals. The Seekers are a group of magi intent on discovering the secrets of the Old Ones. They are a recognized group within House Bonisagus, but since they accept magi of other Houses, they sit somewhat outside the regular structure of the House.
 
 
 
 
-### *The Gender of the Lineage*
+### The Gender of the Lineage
 
 Some magi theorize that the Order needed both a male and a female founder to begin, that both male and female halves of mankind had to be represented to mirror the act of creation. However, this theory is not used to determine the gender of either branch in the lineage. Men and women are accepted into the House's two branches regardless of their gender, and are evenly distributed between the two branches. It is just as likely to meet a magus Bonisagi as a maga Bonisagi, and the same holds true for magi Trianoma. Gender discrimination does not exist within the House, although it certainly does in the mundane world a mere stone's throw away.
 
-### *House Nomenclature*
+### House Nomenclature
 
 Due to the House's dual founders, members have developed titles to differentiate between the followers of each branch. The titles are usually only used inside the House, by members referring to other members, and are not generally used outside House Bonisagus. To the Order at large, all members are proud to be known as 'Bonisagi', using the plural of their male founder's name as a catch all term.
 
 Inside the House, more specific names are used based on the genitive form of the individual founder's name, 'Bonisagi' or 'Trianomae'. Thus Tillitus Bonisagi is the correct term for Tillitus follower of Bonisagus, and Glaucon Trianomae is correct for Glaucon, follower of Trianoma. Groups of individual followers of a particular linage are known as magi Bonisagi or magi Trianomae. This seems confusing, since the plural and the genitive forms are exactly the same, but is not in context. If either follows a magus' name it means, 'of' that lineage, if no formal name proceeds the term it means 'group of.'
 
-### *The Ranks of Magi Bonisagi*
+### The Ranks of Magi Bonisagi
 
 It is easiest to understand the hierarchy of magi Bonisagi from the bottom up. Magi Bonisagi distinguish themselves by a status system based on research. There are four ranks for magi Bonisagi. Their titles are taken from ancient mystery cults, those that fascinated Bonisagus, and are based on the processional order of their celebratory parades. The first rank is the *boukoloi* ("cowherds"), magi a few years from apprenticeship with little accomplished research. The second rank is the *daduchos* ("torch-bearers"), magi who have shared some of their successful research. They are expected to attend the Grand Tribunal, showing reverence for their lineage and supporting their Primus. The third rank is the *cannophori* ("reed-bearers"). At this point a maga has made considerable strides in her research and must include her sigil in the pouch that determines the members of the Colentes Arcanorum (see below). They must also drop their current research and undertake a different task if commanded to by the Primus. The fourth rank and final rank below Primus is the *dendrophori* ("tree-bearers"). They must also contribute their sigils to the Colentes' pouch, but are immune from the Primus's demands regarding their research. Future Primi are selected from this rank.
 
 The rules used to determine a magi Bonisagi's rank can be found in the House Utilities section, under **House Acclaim**.
 
-### *The Inner Circles*
+### The Inner Circles
 
 The House has two councils of magi charged with maintaining the smooth functioning of the House. The first is the **Colentes Arcanorum**, a group of magi Bonisagi who are responsible for the collection, compilation, and dissemination of magical lore, theoretical practices, and arcane breakthroughs. Equally important are the **Tenentes Occultorum**, a group of magi Trianomae who ensure that those same secrets stay within the Order of Hermes. They are also the magi Trianomae who hover around the Order's borders, eagerly searching out other magical powers and practitioners.
 
-### *Colentes Arcanorum*
+### Colentes Arcanorum
 
 The Colentes Arcanorum ('Colens Arcanorum' singular) are five magi Bonisagi responsible for disseminating the recent research of the House to the other lineages. Rather than make each maga responsible for personally sharing her research, the Colentes exist to accomplish this task. A Colens Arcanorum serves for seven years, from one Tribunal to the next. The council members are chosen at random by the Primus. The name of every magus Bonisagi who has attained the rank of *cannophori* is inscribed on a clay coin and placed in a leather pouch. At some point during the Rhine Tribunal, the Primus draws five names from the pouch, the names of the next members of the Colentes Arcanorum. Redcap messengers are sent to tell these magi the news. It is possible — and has indeed happened — for a Colens to serve consecutive terms through this random process. This practice has been criticized by other Houses, especially the Tremere, who claim that the randomization of applicants minimizes the committee's quality. House Bonisagus feels the opposite is true; that random selection forces all magi Bonisagi of rank to remain up to date on important Hermetic pro-
 
 
 
-### *Story Seed: The Lost Lance*
+### Story Seed: The Lost Lance
 
 During the tenth century, Cerularius Bonisagi of the Normandy Tribunal developed the Lancea Magica, a magical attack that could pierce a magus' Parma Magica and deliver an unresisted lethal attack. Its efficiency was frightening, and the Colentes decided that it should be destroyed. Cerularius burned his Laboratory Texts and vowed to never investigate a similar effect.
 
@@ -424,7 +424,7 @@ The Tenentes Occultorum (singular 'Tenens Occultorum') are four magi Trianomae a
 
 Symmetry is an essential ingredient in many Hermetic practices, and the four Tenentes represent the seasons, each one symbolically mirroring the position he occupies. The Spring Tenens is a magus chosen immediately after his gauntlet; the Summer, Autumn, and Winter Tenentes each have more experience respectively. The Primus chooses from the entire line of the magi Trianomae, doing his best to match experienced magi to each position. Sometimes his decision is based on the present location of magi Trianomae, since each season's Tenens is responsible for a specific area.
 
-### *Story Seed: The Belligerent Benedictines*
+### Story Seed: The Belligerent Benedictines
 
 A tractatus on Parma Magica is missing. Sent from a magus Bonisagi to a Colens Arcanorum using a mundane messenger, it has gone missing near an abbey suspected of harboring "forbidden" books. The Autumn Tenens asks the player characters to investigate the abbey and its abbot, known for his resentment towards the Order, and search for the lost tractatus. Since a character's Gift will certainly upset the situation, the Tenens asks a group of companions to undertake this quest.
 
@@ -448,7 +448,7 @@ Even more fascinating than their directory of magi Bonisagi is the Tabula Geogra
 
 This resource is reluctantly shared; House Bonisagus feels that its contained knowledge could lead to gluttonous land-grabbing and overzealous avarice, causing strife among the Order's members. However, since every magus of the House has sworn to share his knowledge with the Order, the Primus has decided that the Gazetteer must be shared as well. Readers are allowed limited access; it is kept under lock and key at the Great Library at Durenmar and is written in the secret code of the magi Trianomae (see Trianoma's Cipher below).
 
-### *Colloquium Delectorum*
+### Colloquium Delectorum
 
 Every seven years the Colentes Arcanorum and the Tenentes Occultorum hold a meeting called the Colloquium Delectorum, 'Conference of the Committees', or Colloquium for short. The Colloquium is a traveling conference held at regular Tribunal meetings of one of the thirteen Tribunals. The location of the Colloquium is decided by the nine council members — five Colentes and four Tenentes — at the start of their appointment, each offering their preferred location (usually their home Tribunal), and the decision made by majority agreement. Since the council members don't meet until the end of
 
@@ -457,7 +457,7 @@ The Colloquium is a week-long conference held after the regular proceeding of th
 
 The council of Colentes can be called on by magi Bonisagi, either to remove the Primus (which has never happened) or to relieve an individual magus of a research obligation imposed by the Primus. This happens on the first day of the Colloquium, before the councils meet in private to discuss their individual tasks.
 
-### *The Primus*
+### The Primus
 
 The Primus of House Bonisagus is an auspicious position, the head of the House and the shoulders which bear the weight of the Order, symbolically if not legally. First and foremost, he is the Praeco of the both the regular Rhine Tribunals and the Grand Tribunal held every 33 years. Like other Praecos at other Tribunals, the Primus has the power to set the event's agenda and silence, even eject magi. The Primus uses these powers to unfold the Tribunal in accordance with his premeditated political intentions.
 
@@ -466,7 +466,7 @@ Internally, the Primus is responsible for steering the course of the House, dire
 
 
 
-### *Glaucon, magus Trianomae and Seeker*
+### Glaucon, magus Trianomae and Seeker
 
 **Characteristics:** Int +3, Per +3, Pre 0, Com +1, Str 0, Sta
 
@@ -528,7 +528,7 @@ A prospective Primus must meet several qualifications. First, he must be a magus
 
 Primus must have served as a Colens Arcanorum to experience the House's organization and bureaucracy. In 1220 there are a half dozen or so magi Bonisagi qualified to be Primus of the House.
 
-### *Seekers*
+### Seekers
 
 During the early days of the Order, some magi Trianomae forsook their political bent and became more interested in finding old magical sites than serving their fellows. Lusting after the secrets of the ancients, they sought old Mercurian temples and ancient magical sites. They searched for the Old Ones, primeval entities who they claim posed as the gods and goddesses of the ancients. The most active seeker was Lucian, Trianoma's first apprentice, who wished to renounce his lineage and begin a line of magi Seekers. The Primus, Notatus, refused his request, thinking the House already divided enough with two lineages. Lucian acquiesced to Notatus's judgment, but continued to lead an informal group of magi who displayed similar interests.
 
@@ -588,7 +588,7 @@ Magi of House Bonisagus search for knowledge. Magi Bonisagi focus on their indiv
 
 Bonisagus magi are separated into their respective strands before training begins. Apprentices follow in their parens' lineage: magi Bonisagi train future magi Bonisagi and magi Trianomae train future Trianomae. Their interests are not mutually exclusive; several magi Bonisagi are experts in Intrigue — like the current Prima Archmage Murion — while several magi Trianomae are proficient with Magic Theory.
 
-### *Apprentices*
+### Apprentices
 
 Bonisagus designed Magic Theory to be easily accessible to students. His first task was monumental; he had to teach Magic Theory to sorcerers trained in other fashions. His theory had to be flexible enough to incorporate their magic as well as teach them the methods of his theory. Those long years of work created a method of instruction that proved so useful that it was adopted by every House in the Order. Bonisagus and Trianoma proved such excellent teachers that the Founders readily acquiesced to the Oath's provision that they be allowed to take their followers' apprentices.
 
@@ -643,7 +643,7 @@ After this initial teaching the apprentices are exchanged again, this time to he
 This practice holds a small amount of danger for the apprentice, since he is under the control of a magus other than his parens. Because of this, fostering is not entered into lightly. Magi Bonisagi find it a privilege to exchange apprentices in this way, and tend not to abuse this practice. Because of the risk, however, they are not interested in extending this privilege to magi outside their direct lineage. Fostering is not practiced by magi Trianomae, who do not confine themselves to the laboratory like their House brethren. They do encourage its use, however,
 
 
-### *Optional Rule: Continuous Research*
+### Optional Rule: Continuous Research
 
 Magi who manage to avoid outside distractions and remain working in their laboratory on a single project — "lab rats" — can slowly gain an advantage over time. Continuous Research is a way for storyguides to reward players who manage to stay sheltered within their laboratory, forsaking all else and remaining dedicated to their research project. This is most evident in larger projects, those that require many seasons of laboratory work.
 
@@ -653,7 +653,7 @@ This optional rule has different effects in different sagas. In a slow saga (see
 
 since it builds communal ties and further increases the interdependence of House Bonisagus.
 
-### *Magi Bonisagi*
+### Magi Bonisagi
 
 Magi Bonisagi tend to be reclusive, eschewing the company of others as they work uninterrupted in their labs. Even a magus Bonisagi fresh from apprenticeship exhibits this behavior, viewing research as the ultimate method of unearthing the secrets of magic. He is at home in his laboratory, surrounded by tomes, and immersed among bubbling beakers and gurgling pots, the quintessential wizard, incorporating all aspects of magical possibilities and every arcane activity in his laboratory. Nothing magical disinterests him, whether that is familiar binding, item creation, longevity rituals, vis distillation
 
@@ -687,7 +687,7 @@ Two exceptions exist: newly-gauntleted magi Bonisagi who have not yet achieved a
 
 When magi Bonisagi do decide to collaborate, they work well together. Their natural affinity for the laboratory helps them, and they find they can overcome many of the constraints of a shared lab space that other magi find limiting. Their practice of fostering apprentices adds to their ability with multiple assistants. Because of this natural proclivity, magi Bonisagi can always have one more lab assistant then the normal **ArM5** rules would allow a magus character to have. This only applies to magi Bonisagi, their apprentices, and their familiars. For example, without a score in Leadership a maga Bonisagi can have two laboratory assistants besides her familiar.
 
-### *Magi Trianomae*
+### Magi Trianomae
 
 The other branch of House Bonisagus specializes in Hermetic politics, the volatile sea of influence, advice, and circumspect negotiations. The energies that their magi Bonisagi pour into internal research are mirrored externally by the magi Trianomae, who concentrate on protecting the Order by promoting tribunal cooperation and resourcefulness. Magi Trianomae use their political skill to further Trianoma's dream of a peaceful Order. Throughout their apprenticeships they are taught ways to cajole others into acceptable behavior, not through laws but by dialogue and analogy. Magi Trianomae focus understanding and influencing human nature.
 
@@ -727,9 +727,9 @@ The second and harder method is to decode a secret note. Decoding a note takes a
 
 **Decoding Trianoma's Cipher: Intelligence + Latin + stress die vs. 6 + author's Communication + Intrigue**
 
-## *House Utilities*
+## House Utilities
 
-### *House Acclaim: Status in House Bonisagus*
+### House Acclaim: Status in House Bonisagus
 
 Magi Bonisagi have developed a system of recognition within their branch of House Bonisagus to indicate the accumulated rewards of their research efforts. Magi advance through the ranks of this system based on their finished research efforts. This system of rank is called **House Acclaim**, and each type of laboratory activity is worth certain amount.
 
@@ -737,7 +737,7 @@ House Acclaim is a free Reputation that every magus Bonisagi character receives 
 
 House Acclaim is increased by Acclaim points. Different types of laboratory research are worth specific numbers of Acclaim points. House Acclaim increases like an Ability, propelling magi through the ranks of the House as it grows. House Acclaim is a community-based Reputation, and research findings must be made public for any House Acclaim points to be awarded. Reputation spreads by word of mouth, a slow process in the Middle Ages. Typically it takes a year per gained Acclaim point for the reputation to spread. Having a submitted text either a Lab Text or a tractatus — included in a folio both quickens and magnifies the reputation. The lucky author gains twice the Acclaim points listed on the following table if his research is included in a folio.
 
-### *Research and Acclaim Points*
+### Research and Acclaim Points
 
 | Type of Research<br>Acclaim Points                |
 |---------------------------------------------------|
@@ -761,7 +761,7 @@ The House uses this system of rank to determine who is above who, a snobbish pec
 
 
 
-### *House Acclaim Points and Score*
+### House Acclaim Points and Score
 
 |       | Acclaim Acclaim Points Acclaim point |                |             |  |
 |-------|--------------------------------------|----------------|-------------|--|
@@ -787,7 +787,7 @@ A magus Bonisagi of rank has an easier time finding an apprentice. You may add y
 
 so vehement that you gain the Major Story Flaw: Enemies.
 
-### *Folios*
+### Folios
 
 Folios are collections of Laboratory Texts and tractatus compiled by the Colentes Arcanorum the season after the close of the Colloquium Delectorum. They are thick volumes containing many pages of parchment, and at a glace can be confused with a weighty summa. Rather than an encyclopedic examination of a single topic however, folios contain information about a variety of topics. Having received submitted texts from other magi Bonisagi
 
@@ -884,7 +884,7 @@ Folk Ken can be countered with the Guile skill. A character attempting to deceiv
 
 Folk Ken and Intrigue are complementary. The former allows the character to judge the behavior of individuals and the latter allows the character to judge the interactions between these people. A series of Folk Ken rolls at Tribunal allows a bonus or penalty to an Int + Intrigue roll of between –3 and +3 at the storyguide's discretion. Like a Folk Ken roll this should be made in secret. A roll of 9+ allows for a fairly basic understanding of the main factions and their agendas. Higher rolls allows for greater understanding. Lower results give increasingly misleading impressions.
 
-### *New Virtues and Flaws*
+### New Virtues and Flaws
 
 Over the years House Bonisagus has included many members with particular Virtues and Flaws. Since the House can select other magi's apprentices, youths who exhibit these powers are often adopted into the House. However, this does not mean that Bonisagi are the sole recipients of these boons. Virtues and Flaws marked with an asterisk depend on the structure of House Bonisagus, and so are exclusive to the House. Others are not.
 
@@ -917,7 +917,7 @@ Over the years House Bonisagus has included many members with particular Virtues
 
 **Fostered Apprentice\*:** You were fostered as an apprentice, briefly serving another magus in his laboratory. You have a lasting relationship with this magus, similar to the relationship you have with your parens. You also have a connection to another magi Bonisagi that you trained with. Either of these people may ask favors of you, which you feel obligated to perform.
 
-## *Original Research*
+## Original Research
 
 It is the deepest desire of many Bonisagus magi to invent something new, something never before seen within the parameters of Hermetic magic. Many feel that original research is the core of Hermetic magic, the true passion of a magus Bonisagi, continuing the founder's inventiveness by pushing the limits of magic. Several, too, think this is the best way to fulfill the specifics of their Hermetic Oath, their duty to fearlessly explore the untold mysteries of magic. Still others push the limits of magic for vainglorious reasons, hoping to attach their name to a discovery that will last long after their longevity ritual has failed them.
 
@@ -1024,7 +1024,7 @@ Ultimately, a magus researcher wants to completely integrate his Breakthrough in
 
 
 
-### *Exempli Gratia: Original Research*
+### Exempli Gratia: Original Research
 
 Fresh from his gauntlet and newly installed in the covenant of Semita Errabunda, Tillitus Bonisagi decides he wants to break the Limit of Vis, which states that Hermetic magic cannot change the Art to which raw vis is attuned. The storyguide and the troupe decide that this is essentially a Muto Vis operation, and agree that any experimentation in these Arts, as well as Intellego, may lead to this discovery. Eagar for fame, Tillitus begins immediately.
 
@@ -1042,11 +1042,11 @@ Minor Breakthroughs, by definition, work within Hermetic parameters and are inst
 
 For example, a maga achieves a Major Breakthrough and invents the Hermetic Virtue Life Boost. She can teach this ability to other magi, granting each the Hermetic Virtue Life Boost once they learn it. A second Major Breakthrough would integrate Life Boost into regular Hermetic magic, meaning that every practitioner taught Magic Theory using this new technique would be able to use Life Boost.
 
-## *Example Discoveries*
+## Example Discoveries
 
 The following four discoveries are examples of original research. Storyguides may use them as innovations already present in the Order, as goals designed for players to invent, or simply as examples to base their own creations on. None of these should be considered canonical; rather they are mere examples and possibilities of recent House Bonisagus additions to the corpus of Hermetic knowledge.
 
-### *Arma Magica*
+### Arma Magica
 
 The Arma Magica, or 'magical defenses', are based upon Bonisagus's unique Parma Magica ritual. Bonisagus discovered that the Parma Magica could be stretched to protect others. This thins the protective energies of the shield and weakens its overall resistance, but is an excellent way to protect companions and apprentices. Arma Magica uses Parma Magica in similar ways, pressed back or "folded" the field of resistance upon itself for a variety of effects, called **folds**. Each fold is a Major Breakthrough, since each creates a new way of using an already existing Hermetic effect. There are six Parma Magica folds; inventing one is a grand accomplishment and inventing all six would make a magus legendary.
 
@@ -1080,7 +1080,7 @@ tance. Incoming spells that are resisted are held briefly. A magus may use this 
 
 **Parma Restricta:** The 'holding shield' allows the magus to enshroud another with a protective mantle through which magical powers may not pass. Much like a magical cage, the Parma Restricta surrounds a target, and any spell which the targets attempt to cast through the cage must penetrate the magus' resistance. The magus's Parma Magica Ability is decreased by 3. The target must be close enough to touch. It takes two minutes to invoke a Parma Restricta, hardly an instantaneous effect. If successful, both the magus and his target are protected. However, his Parma acts as a suppressor to the target, who must penetrate it to cast any spell of a range greater than Personal. This has often been used as a successful means to suppress a creature's magical ability.
 
-### *Parmulae*
+### Parmulae
 
 The Order has long sought a means of protecting its mundane members from magic. Redcaps would be especially interested in such a discovery. Parmulae are an example of one possible answer to this quandary. They are 'little shields', small objects like a broach or comb, which provide the wearer with Magic Resistance. Parmulae have two major liabilities; the shields are not permanent and they allow no variation in the level of magic resistance. Also, the Order as a whole would balk at accepting them, fearing that they could unduly harm the Order if they fell into the wrong hands. Paradoxically, the House that would be most resistant to Parmulae is Bonisagus, the same House could very well be behind their development.
 
@@ -1096,7 +1096,7 @@ You should discuss Parmulae with your troupe before allowing them into your saga
 
 must consider the impact of these protective devices upon their view of Mythic Europe before allow Parmulae into a saga.
 
-### *Figurine Magic*
+### Figurine Magic
 
 Figurine Magic is an ancient tradition, the practice of installing magical affects into a carved figurine meant for a single recipient. Through these figurines wizards create lasting magical affects for others, typically mundane folk, those who could most benefit from these minor artifacts. Several forms of this type of magic exist, from antiquity through the Middle Ages, and Figurine Magic is one such form. This is an example of a non-hermetic practice of magic being integrated into Hermetic magic through a Major Breakthrough, making a teachable Supernatural Virtue.
 
@@ -1136,7 +1136,7 @@ It would be interesting to move Figurine Magic out of the Supernatural Ability c
 
 Non-Hermetic practitioners of this art still exist, non-Gifted individuals who imbue figurines with magical enchantments. They follow the same rules as described above with one important distinction; they can not enchant a figurine with a Hermetic spell and are regulated to only enchanting Minor General or Supernatural Virtues into such items.
 
-### *Realm-Aligned Spells*
+### Realm-Aligned Spells
 
 Hermetic spells are influenced by the realm within which they are cast, suppressed by the Divine and Infernal Realms and slightly enhanced by the Faerie Realm, which also intensifies the probability for botches. Realm-Aligned spells are spells created to avoid this otherworldly influence, invented so that they remain unaffected when cast in the aura to which they are aligned. Not breaking any of the Limits of Magic, this is a Minor Breakthrough. It would be another Minor Breakthrough to include this as another of the special abilities available for mastered spells.
 
@@ -1150,7 +1150,7 @@ Realm-aligned spells can be cast in Realms other than which they were created fo
 
 For example, Glaucon the Seeker wants to invent a realm-aligned version of *Sight of the Transparent Motive* flavored for the Faerie Realm. His Magic Theory of 3 is reduced by his Faerie Lore of only 1. He still easily invents the spell in a single season. his player makes a note that this spell is a faerie realm-aligned spell with –1 botch die in a faerie aura or regio.
 
-## *Bibliography*
+## Bibliography
 
 Burkert, Walter. *Ancient Mystery Cults.* Massachusetts: Harvard University Press, 1987.
 
@@ -1160,13 +1160,13 @@ Meyer, Marvin W., ed. *The Ancient Mysteries.* San Francisco: Harper & Row, 1987
 
 Tweet, Jonathan. *The Order of Hermes.* Lion Rampant, 1990.
 
-### *Realm-Aligned Spell Interaction Table* **Realm-Aligned Spell Aura Type Magic Faerie Infernal** Magic no bonus + (1/2 aura) – aura Divine – (3 x aura) – (4 x aura) – (5 x aura) Faerie + (1/2 aura) no bonus – aura Infernal – aura – (2 x aura) no bonus
+### Realm-Aligned Spell Interaction Table **Realm-Aligned Spell Aura Type Magic Faerie Infernal** Magic no bonus + (1/2 aura) – aura Divine – (3 x aura) – (4 x aura) – (5 x aura) Faerie + (1/2 aura) no bonus – aura Infernal – aura – (2 x aura) no bonus
 
 *34*
 
-### *Chapter Two*
+### Chapter Two
 
-# *House Guernicus*
+# House Guernicus
 
 *"If we are to have an Order to regulate and command our behavior, let there be no question about it. Let there be no weakness in the law, let there be no exceptions for those who feel they are above the Code. If we are to have an Order of Hermes, we will give it the order of law."*
 
@@ -1191,7 +1191,7 @@ House Guernicus believes it stands against the wheel of fate, slowing it as best
 The majority of Guernicus magi hold the office of Quaesitor, named after the magistrates of the Roman Republic. The Quaesitores are the official judges and investigators of the Order. They oversee Tribunals and ensure they uphold the Code. If a magus is to be punished, it is a Quaesitor who sets the penalty. They inves-
 
 
-## *Chapter Structure*
+## Chapter Structure
 
 This chapter is split into ten main headings, listed below.
 
@@ -1213,11 +1213,11 @@ This chapter is split into ten main headings, listed below.
 
 
 
-### *Key Facts*
+### Key Facts
 
 **Population:** 98 (plus 41 non-Guernicus Quaesitors). **Domus magna:** Magvillus in the Rome Tribunal. **Prima:** The Archmaga Bilera. Known for her investigative and negotiation skills, Bilera was appointed Prima to help heal the rift between the Traditionalists and the Transitionalists.
 
-### *Famous Figures*
+### Famous Figures
 
 **Guernicus,** Founder of the House. **Fenicil,** researcher into ancient magical traditions. **Simprim,** founder of the Transitionalist movement.
 
@@ -1225,11 +1225,11 @@ This chapter is split into ten main headings, listed below.
 
 **Fenicil's Rituals:** The secret rituals of House Guernicus.
 
-## *History*
+## History
 
 The following history is written from the perspective of Guernicus scholars. It reflects their particular point of view and ideology. Scholars of other Houses would doubtless take issue with many points of interpretation expressed here.
 
-### *Before the Order*
+### Before the Order
 
 When the Cult of Mercury disbanded most Mercurians fell into destitution. With their Gift and limited magical repertoire, securing an honest living often proved impossible. Many used what powers they had for theft, robbery and extortion; no more than bandits with magic. With its knowledge so fragmented, most Mercurians had developed less than a dozen usable spells. After these were perfected, the easiest road to more power lay in acquiring the spells of others. Usually they sought these by the methods they knew best; theft and violence.
 
@@ -1248,7 +1248,7 @@ If he found a wizard suffering unjust persecution he would aid them. His honor, 
 With these allies he eventually he tracked his man down. The murderer was trapped in an underground chamber with the grimoires he had wished to steal. With no food, no water and only a single candle, learning the earth magic needed to escape was an impossible task.
 
 
-### *The Thief's Tomb*
+### The Thief's Tomb
 
 Guernicus never revealed where he entombed his prey. Although much of Guernicus's original earth magic was incorporated into Hermetic magic, Mercurian grimoires would still be valuable. Some think the suspicious Guernicus would have held back secrets from Bonisagus and that these grimoires would revolutionize Terram magic. Rumor has it that one tome dated back to the Cult of Mercury and held five of the original thirty-eight spells.
 
@@ -1256,7 +1256,7 @@ Over the years many magi have sought out clues to the location of the thief's to
 
 Guernicus never wanted the tomb to be found, so many members of his House would feel disturbing it to be an insult to their Founder's memory. Although not illegal, such an act will antagonize many Quaesitors. Any tomb raiders would be advised to keep their future activities strictly legal.
 
-### *The Order Forms*
+### The Order Forms
 
 As Trianoma sought out wizards to join the Order, she heard of Guernicus. His reputation for defending other wizards was extraordinary at that time. A number of Mercurians considered him a friend, ascribing his moral character to his Christian faith. Bonisagus needed knowledge of earth magic for his universal magic theory and Guernicus's excellent reputation was equally valuable to Trianoma. In 762 AD, the two met and Trianoma's legendary diplomatic skills were tested against Guernicus's suspicion and cynicism.
 
@@ -1272,7 +1272,7 @@ Even after Bonisagus had taught them Hermetic magic, Guernicus and Trianoma argu
 
 Magi of House Diedne held their ritual sites sacred to their religion. Diedne complained that other magi were desecrating her members' sacred places with intrusions. Criamon also found the privacy of his Mystery threatened. In response Guernicus, Criamon and Diedne demanded that the privacy of sanctums was protected. This and other proposals were agreed and soon a body of Tribunal rulings were formed, clarifying, expanding and embellishing the Code — the Peripheral Code. Satisfied with the result, Guernicus revised his estimate on the
 
-### *Polybius and the Order*
+### Polybius and the Order
 
 Polybius (202-122 BC) was a Greek from Arcadia (a district of Greece). In his youth his was an officer in the Achaean League, which sought to keep the Peloponnesus region independent of Rome. However, he was arrested and sent to Italy to await trial for conspiracy. Fortune smiled on him and he was befriended by an influential Roman family. With their patronage he became a respected historian. He witnessed the destruction of both Carthage and Corinth, in 146 B. C. and is credited with helping the Greeks accept the inevitability of Roman rule.
 
@@ -1285,13 +1285,13 @@ lifespan of the Order to, "Three score years and ten — or perhaps few more tha
 
 Exasperated, Trianoma asked what more was needed. Guernicus replied that the Order needed a magus dedicated to the task of keeping the peace, exposing transgression and ensuring the law was kept, yet it had none. Trianoma challenged Guernicus to be that magus and he accepted.
 
-### *The Quaesitores*
+### The Quaesitores
 
 As the years progressed Guernicus's apprentices shared their parens' responsibilities. These magi began to be known collectively as the Quaesitores.
 
 Magi of other Houses began to complain that they had no say in the application of the law. Guernicus met with the other Primi and agreed to allow magi of other Houses to become Quaesitors. Traditionally at least one member of every House must be given the Quaesitor title. These magi represent their House within the Quaesitores. However, the Guernicus Primus is careful only to grant the title to magi who are objective rather than partisan, on an individual basis at least. In fact, many even rule harshly against members of their Houses to ensure that they are not seen as showing favor. It is said that the last person one wants as a Quaesitor, is a Quaesitor from one's own House.
 
-### *The Life of Guernicus*
+### The Life of Guernicus
 
 Guernicus spent most of his years trying to guide the growing Peripheral Code as he thought best. He was often unsuccessful. He had wished the Order to be purely voluntary, but found little support. He managed to convince the First Tribunal to rule that magi should offer membership to peaceful wizards rather than simply kill them. This became the 'Join or Die' ruling, but in was quickly apparent that there was no will to enforce it. Tribunals were willing to accept any pretext for a killing. Flambeau, Tytalus and others used their Hermetic magic and Parma to embark on a purge of traditions they disliked. Guernicus and his filii set out and recruited as many as possible (sending them to others for House sponsorship), but many were still slain.
 
@@ -1321,7 +1321,7 @@ Rumor has it that Guernicus later foreswore his Arts and undertook a pilgrimage 
 
 Fenicil became Primus in 832 AD, but the fate of Guernicus was never revealed. Wild rumors suggested that Guernicus found a way to cheat both age and Twilight. They claim that he sleeps beneath the earth, waiting for the day the Order falls; just to witness his prediction with grim satisfaction.
 
-### *Fenicil*
+### Fenicil
 
 The early years of Fenicil's leadership were defined by Tremere's bid for domination. Hamstrung by the 817 AD ruling, the Quaesitores were spectators to its consequence, but Fenicil was not idle. In close partnership with the Diedne leadership, Fenicil continued Guernicus's secret preparations for war. As Guernicus magi prepared to assassinate Tremere, and Diedne magi stood ready for a general conflict, the Sundering occurred. Relieved, the Guernicus and Diedne leaderships kept their aborted plans secret.
 
@@ -1344,7 +1344,7 @@ It is rumored that one item has the power to scry on any magus in the Order with
 
 The Fenicil collection may now be the most extensive source on ancient magics within the Order. However, the extent of the collection is known only to the inner coun-
 
-### *Double Edged Sword*
+### Double Edged Sword
 
 Fenicil intended his work to unify the Order, however not everyone used it for this goal. From its creation the Order was primarily a society of Latin wizards. Only two of the Founders were non-Latin, Diedne and Bjornaer. Of these two, House Diedne was by far the most powerful and numerous; it was in fact the most powerful House in the Order. This sat uneasily with many Latin magi. The unity and power of House Diedne was found particular irksome by magi of House Tremere, who coveted their position.
 
@@ -1356,7 +1356,7 @@ This would be a real test for the Quaesitores. They failed suppress such zealots
 
 cil. All solicitations by Hermetic scholars to study or take copies of any text have been politely rejected.
 
-### *Duresca Scrolls*
+### Duresca Scrolls
 
 In the l0th century, documents were discovered at the covenant of Duresca in Iberia. These documents appeared to be a set of letters written between Guernicus and his filii. Within this correspondence the secret agenda of House Guernicus was described; to dominate first the Order and then the world. These letters became known as the Duresca scrolls and they caused quite a stir in the Order.
 
@@ -1364,7 +1364,7 @@ The Duresca scrolls were presented at the next Iberian Tribunal, but they were o
 
 A number of secret copies of the documents remain and occasionally a magus circulates new copies. The Quaesitores have little patience with such magi and charge them with endangering the Order by spreading known lies.
 
-### *Schism War*
+### Schism War
 
 As the conflict between House Tremere and Diedne slid towards open war, House Guernicus was in disarray. As skirmishes between Tremere and Diedne magi grew into outright battles, the Quaesitores knew they had lost control of the situation. Many Quaesitors thought that the two sides should be left to it, but the Guernicus Primus Antonius could not allow the complete breakdown in the rule of law to continue.
 
@@ -1386,11 +1386,11 @@ House Tremere's principle accusation against House Diedne was human sacrifice. T
 
 House Diedne fell, but House Guernicus rose stronger than ever. The Order had seen a general war between Hermetic magi and the destruction shocked everyone. The Quaesitores claimed that they could have prevented or ended the war earlier if they had had more authority and the traumatized Order gave them more; extending investigation immunity and the requirements for cooperation.
 
-### *Traditionalists / Transitionalists*
+### Traditionalists / Transitionalists
 
 Under Guernicus's influence the Code was framed to ensure the peace and the freedoms of individual magi. Guernicus constantly argued against any proposal that would unnecessarily restrict their freedoms or impose burdens. Therefore, traditionally there is great resistance to any proposal that would do so.
 
-### *Tribunals*
+### Tribunals
 
 Originally there was only one Tribunal in the Order. However, in 773 AD this Tribunal constituted the regional Tribunals and the Grand Tribunal. Scholars of the Code of Hermes refer to the original Tribunal as the First Tribunal. The First Tribunal met in 767 AD to form the Order and in 773 AD to form the regional Tribunals and the Grand Tribunal. The distinction between the First Tribunal and the Grand Tribunal is a legally important one.
 
@@ -1406,7 +1406,7 @@ In addition, he claimed that the Order had outgrown Guernicus's vision of a loos
 
 
 
-### *Lore of the Order: Transitionalist*
+### Lore of the Order: Transitionalist
 
 *"As Quaesitors of the Order, we carry a heavy burden. It is our duty to judge our brethren, always trying our best to be fair and impartial in all we decide. Fortunately, we have a great tool to aid us in this task — the Code of Hermes — carefully handed down to us from the original rulings to the most recent decisions of the Grand Tribunal. For ages we have made our decisions based upon strict interpretations of these rulings, and this always seemed enough.*
 
@@ -1434,11 +1434,11 @@ With the appointment of Bilera to Prima, much of the heat has been taken from th
 
 Traditionalists and Transitionalists now take their arguments to the rest of the Order.
 
-## *Organization*
+## Organization
 
 Although dedicated to the law, House Guernicus imposes no rigid control on its members. In general Guernicus magi are never ordered to do anything; any directive is in the form of a request.
 
-### *Population*
+### Population
 
 There are ninety-eight Guernicus magi in the Order and about thirteen apprentices. Tribunals have, on average, eight Guernicus magi and one Guernicus apprentice in training at any one time. Of this number, perhaps ninety are Quaesitors in good standing (see below).
 
@@ -1446,7 +1446,7 @@ On average a Tribunal will have three non-Guernicus Quaesitors. Therefore an ave
 
 
 
-### *Domus Magna*
+### Domus Magna
 
 The domus magna of House Guernicus is Magvillus, in the Roman Tribunal. It lies on the southern portion of the Apennine mountain range in the Kingdom of Sicily. Magvillus is located on a peak around nine miles north of the town of Potenza.
 
@@ -1469,13 +1469,13 @@ earth elementals; allies of Guernicus and still loyal to his
 
 Within the fortress there is a small chapel to serve the spiritual needs of the magi and grogs. It is dedicated to Nicholas of Myra, known for generosity to the poor, protector of the innocent and wronged. He raised to life three young boys who had been murdered and pickled in a barrel of brine to hide the crime. The altar of the chapel houses a shard of this barrel. Within the chapel a strong Divine aura overcomes the site's magical aura. However, this does not extend outside (normally at least).
 
-### *Prima*
+### Prima
 
 The current Primus is the Archmage Bilera. She was chosen for both her record and her apparent neutrality in the Traditionalist/Transitionalist debate.
 
 In many ways Bilera is the archetypical Guernicus Primus. Before taking office her life was one of quiet service to the Order. Bilera's magical interest lies in horticulture and the architecture of gardens. By careful cultivation
 
-### *The Imperfect Defense*
+### The Imperfect Defense
 
 For the two hours prior to sunrise on Good Friday, a strong Divine aura envelops the entire Magvillus fortress and the *Aegis of the Health* is suppressed. This may correspond to the trial of Jesus by the Sanhedrin. Guernicus thought it was God's reminder to House Guernicus of the fallibility of human justice. This is a great secret, known only to members of the inner council. Initially the council considered moving the chapel outside the fortress, but Guernicus urged the council to accept God's test of their faith (there was no knowing if it would have worked in any case).
 
@@ -1496,7 +1496,7 @@ In 1220 AD her main concern is to manage any change in her House towards the bes
 
 At Magvillus she has begun her most challenging project yet. Her mountain garden of shrubs and flowers is not yet complete, but in a few years it may rival the best in the Order.
 
-### *The Magvillus Council*
+### The Magvillus Council
 
 House Guernicus is ruled by the consensus of the Magvillus Council. There are two tiers to the Magvillus Council, the inner and outer. The inner tier consists of six Guernicus magi, plus the Primus. The outer tier consists of a non-Guernicus Quaesitor from each of the other Houses and the Presiding Quaesitor from each regional Tribunal. A member of the inner council is usually the Presiding Quaesitor of the Rome Tribunal; the Primus only presides at the Grand Tribunal. Thus the outer tier consists of twenty-four magi. It should be noted that a number of the Presiding Quaesitors may well be non-Guernicus magi, but specific House representatives must still be nominated by the inner Council.
 
@@ -1506,24 +1506,24 @@ The full council thus consists of thirty-one magi, including the Primus. The inn
 
 Membership of the inner council is by invitation of existing members. The inner tier is appointed for life. The new Primus is chosen by the full council and can be dismissed by the full council, although this has never happened.
 
-### *Assignments*
+### Assignments
 
 Newly gauntleted Guernicus magi are voluntarily assigned to Tribunals based on need. The Primus writes to prospective covenants on the new Quaesitor's behalf, requesting membership. Although it is within their rights to refuse, few covenants do so lightly. New Quaesitors accepting this assignment are looked on favorably by other Quaesitors, but they are free to seek covenants for themselves if they wish.
 
 Having a Quaesitor in a covenant is a mixed blessing. In conflicts with mundanes and other magi, a Quaesitor will seldom condone actions that step outside the law. However, they will pursue investigations against illegal activities against their own covenant with particular vigor. Young Quaesitors are often placed with spring covenants in areas where older covenants are known to be hostile.
 
 
-## *The Code of Hermes*
+## The Code of Hermes
 
 The following section relates to a generally agreed interpretation of the Code. These basic interpretations were formed from the First Tribunal rulings. Traditionalists accept that they can be further clarified and expanded by later Tribunal rulings, but wish to maintain this core.
 
 A Transitionalist sees these interpretations as subject to fundamental revision by collective agreement, both generally and on a case-by-case basis. More radical Transitionalists believe the Oath itself should be subject to revision and an entirely new Code written.
 
-### *Origins*
+### Origins
 
 When Guernicus decided what legal system the Order should adopt, most thought of Roman law. However, Guernicus dismissed the suggestion. Magi had been lawless barbarians for three hundred years; a barbarian law was the best that could be hope for. Thus
 
-### *The Law in Your Saga*
+### The Law in Your Saga
 
 For readability and brevity the following section mostly describes how Traditionalist Quaesitors would like Tribunals to interpret the Code. Whether magi of a Tribunal generally accept this interpretation or respect the Code at all is an open question. How lawful or lawless the Order is rests entirely at the discretion of troupes. In some, the Order may barely exist as an organization, with all Tribunals chaotic and their decisions dictated by the most powerful groups even on criminal matters. In others the law will show neither fear nor favor, with hedge wizards receiving equal legal protection with Archmagi. In some there will only be the Oath and personal judgment. Others will have formally written laws, with magi fighting cases over technicalities and wording like modern lawyers.
 
@@ -1534,7 +1534,7 @@ How uniform the Order is in its organization is also open. Within the same saga 
 
 Guernicus took the Germanic and Nordic tribal laws and re-cast them to suit the Order.
 
-### *Forfeit Immunity*
+### Forfeit Immunity
 
 The key form of defense from Hermetic charges is to claim the victim had forfeited their immunity.
 
@@ -1547,7 +1547,7 @@ Wizard War is one example of this. A combatant in a Wizard War is not legally pr
 
 Thus a magus may claim his attack on another magus was legal, as the victim's immunity was forfeit at the time. The Tribunal will weigh up any claim of forfeit immunity in the light of the actions of both parties.
 
-### *The Hermetic Oath*
+### The Hermetic Oath
 
 The following sections give a commentary on the Hermetic Oath, explaining the Traditionalist interpretation. Although derived from the First Tribunal rulings, for the sake of readability and clarity the rulings themselves are not given; rather, a condensed synthesis of them is presented.
 
@@ -1555,7 +1555,7 @@ In any case, in most sagas rulings will not be in the form of carefully worded s
 
 As a general guide, it is the spirit of the Code that is important and this is presented below.
 
-### *High and Low Crimes*
+### High and Low Crimes
 
 A clear and direct breach of the Code is designated a high crimes. These are:
 
@@ -1666,7 +1666,7 @@ Traditionalists maintain that even Grand Tribunal rulings should not conflict di
 
 However, regional or Grand Tribunals can create other provisions, like restricting the magical production of silver or how many official sanctums a magus may have. For the most part the Grand Tribunal does not try to define every detail of Hermetic life. Local Tribunals are left with great control over important details like property and inheritance law. They also have a good deal of scope in interpreting Grand Tribunal rulings. A Presiding Quaesitor will only step in with a veto (see below) if the Tribunal is clearly and unambiguously conflicting with any reasonable interpretation of the Oath, First or Grand Tribunal ruling. By these local rulings, a great deal of variation exists between Tribunals.
 
-### *Proxy Voting*
+### Proxy Voting
 
 A magus's right to vote holds even if they do not attend. A magus can give his sigil to an attending magus who agrees to act as proxy. In order to be legal the proxy needs to cast the vote according to the will of the owner. This is done in two principle ways.
 
@@ -1709,7 +1709,7 @@ If a Tribunal has residency requirements, a magus can fall delinquent of them; t
 
 This section guarantees all magi the right cast their single vote, according to their will, on all issues brought before their residential Tribunal and the Grand Tribunal. Implicit in this is the right to attend, although the Praeco can exclude magi who misbehave. Theoretically every magus has the right to attend the Grand Tribunal, but virtually all choose to free proxy (see the insert) their vote to representatives. The journey to Durenmar is often long
 
-### *Vagrancy*
+### Vagrancy
 
 Social pressure and threats of Wizard War aside, the only power backing up the authority of a Primus is the ability to expel members. By a First Tribunal ruling, magi are legally required to have a House. House vagrancy can therefore lead to a Wizard's March.
 
@@ -1724,7 +1724,7 @@ Magi can also be charged with vagrancy if they are without a residential Tribuna
 
 
 
-### *The Rhine Corruption*
+### The Rhine Corruption
 
 Early in the Order's history magi of the Rhine Tribunal began perverting the intention of proxy voting to acquire multiple votes. By agreement, an elder magus would grant proxy rights to another whenever they were not present at Tribunal and allow the proxy to transfer these rights as they wished. When the elder magus passed into Final Twilight or otherwise disappeared, his passing would not be recognized or reported. By this means extra votes began to accumulate within the elder ranks of Rhine magi.
 
@@ -1832,7 +1832,7 @@ In most Tribunals is a low crime to keep a Gifted child merely as a lab assistan
 
 
 
-### *Blood Rights*
+### Blood Rights
 
 Seven years ago a young maga gave birth to a Gifted child. As the child grew up, the maga diligently studied her Arts in preparation for the child's apprenticeship. At the age of six the child spoke Latin as his first language and already knew his letters. It was common knowledge in the covenant that the maga planned his initiation for the summer season.
 
@@ -1898,7 +1898,7 @@ Magi who aid or maintain friendly relationships with enemies of the Order may be
 
 A prosecution can be made for attacks against the friends and allies of individual covenants, but this is a difficult case to make. Few prosecutions are made under this provision.
 
-### *The Peripheral Code*
+### The Peripheral Code
 
 The Hermetic Oath is clarified, embellished and expanded by Tribunal rulings. These rulings are collectively known as the Peripheral Code. There are two types of Tribunal ruling, case and proposed. Case rulings result from convictions or acquittals in criminal cases. Proposal rulings are simply proposed for debate and the Tribunal decides to agree to it or not.
 
@@ -1912,7 +1912,7 @@ As cases often rest on intent and reasonableness, prior case rulings are often o
 
 
 
-### *The Legality of Certamen*
+### The Legality of Certamen
 
 In the early days of the Order the culture of distrust and violence was still strong. Many would not accept that a less powerful magus could defy them. They often rejected the equality of Tribunal justice and declared Wizard War on their opponents. These wars sometimes developed into bloody feuds between groups. To Guernicus this was to be expected, born of the flaw Flambeau had insisted on. Some of Guernicus's filii speculated that the situation would correct itself; after this bloody period magi would understand that Wizard War risked a spiraling cycle of killings. This risk would only increase as social connections deepened with later generations.
 
@@ -1955,11 +1955,11 @@ In general, these rulings cover matters favorable to the peace and stability of 
 
 If another **Ars Magica** book claims an act is a low crime, it should be understood that there is a ruling to that effect.
 
-## *Tribunal Procedures*
+## Tribunal Procedures
 
 Sooner or later player character magi will need to prosecute or defend a case. The basic Hermetic legal process is given below. Although the basics are universal to the Order, there is a great deal of variation between Tribunals over the details. The powers of the Praeco and the Presiding Quaesitor were defined by the rulings of the First Tribunal; thus they are held as unalterable by traditionalists.
 
-### *Preparing a Case*
+### Preparing a Case
 
 ### **DETERMINING THE PRINCIPLES**
 
@@ -1983,13 +1983,13 @@ The prosecuting principle must make reasonable effort to inform the defendant, t
 
 Crimes that occur, or are discovered, within three months of the Tribunal can be published at the Tribunal only if the defendant attends. Such cases are heard last in
 
-### *Settlements*
+### Settlements
 
 Bringing a case to Tribunal is time consuming, often costly and fraught with dangers. In many Tribunals this will be made worse by further elaborate rulings on procedure. A Tribunal's time is precious; unless the case is very serious magi do not wish to be bothered by it. Parties should seek a private settlement if possible and may face great pressure to settle. Senior magi will often step in to initiate a negotiation. If an Archmagus or senior Quaesitor offers to facilitate a settlement, player characters would be wise to accept.
 
 
 
-### *Lawful Tyranny*
+### Lawful Tyranny
 
 A defendant can threaten to declare Wizard War on the prosecuting principle, demanding they drop the case. This is perfectly legal. Depending on the style of saga, this may or may not be a problem. However, there are ways of checking it.
 
@@ -2008,7 +2008,7 @@ Both the prosecution and defense principle can transfer their case to another, w
 The most demanding task of a principle is to contact their respective witnesses and gather their testimony. This testimony needs to be checked for accuracy and consis-
 
 
-### *Presenting a Case*
+### Presenting a Case
 
 ### **PRIVATE HEARING**
 
@@ -2041,13 +2041,13 @@ Members of the Tribunal can then put questions to the defense and prosecution, a
 
 Once there are no more questions or discussion, the Praeco summarizes the case as he sees it and Tribunal votes. A simple majority decides, with the Praeco breaking any ties.
 
-### *Acquittal*
+### Acquittal
 
 If a case ends in an acquittal the prosecution principle is liable for all the defense principle's costs. This includes the costs of his advocate, private investigations, lost seasons and travel expenses for witnesses.
 
 If the same events are subject to a counter-case, that case begins immediately. The defendant principle becomes the prosecution principle and visa versa. Often no further evidence can be presented and so the tribunal moves immediately to a vote.
 
-### *Conviction*
+### Conviction
 
 If there is a conviction for a high crime, the prosecution can call for a Wizard's March. The convicted magi can make an appeal for mercy, after which there is a general debate on the proposition. After the Praeco feels there has been sufficient discussion he calls for a vote. A simple majority decides, with a tie defeating the motion.
 
@@ -2070,13 +2070,13 @@ If indirect testimony conflicts with other indirect testimony, only Quaesitorial
 
 
 
-### *Counter-Case Example*
+### Counter-Case Example
 
 Two magi are in dispute about the ownership of a vis source. Both have harvested from the site. Each charges the other with deprivation of magical property. The Praeco decides whose case is heard first. The Tribunal hears all the evidence and acquits the defendant. The other magus then becomes the defendant. The Tribunal has already heard and debated the evidence and so votes. Since they acquitted the first magus, the second magus should be convicted; unless the Tribunal is fickle.
 
 favorably. Others may choose to retain a dignified silence and accept whatever penalty is decided.
 
-## *Penalties*
+## Penalties
 
 Hermetic justice seeks to compensate and avenge the victim. The penalty depends on the loss or injury (of whatever sort) sustained by the victim. This includes endangerment and intent to cause loss or injury. If a victim cannot show this, the penalties are likely to be minimal. Thus a conviction may be a pyrrhic victory.
 
@@ -2097,7 +2097,7 @@ Punishments are purely retributive. They are of course redundant in the case of 
 
 remaining half of the estate goes to the inheritor.
 
-### *Determining Penalties*
+### Determining Penalties
 
 The first concern of the Presiding Quaesitor is to ensure the victim receives commensurate compensation (damages). If the crime warrants it, punishments will be handed down as retribution. In determining damages, fines and punishments the Quaesitor consults precedent and adjusts for specific circumstance. Damages and fines are paid in vis or in the form of enchanted devices.
 
@@ -2113,7 +2113,7 @@ A magus can appeal to the council of Magvillus if he believes the penalty is imp
 
 
 
-### *Wizard's March*
+### Wizard's March
 
 When a magus is cast out of the Order, he loses all legal protections. He is an outlaw. Any magus can kill him with impunity. The parens of a Marched magus has a duty to find and slay him, but usually there is no shortage of volunteers.
 
@@ -2127,7 +2127,7 @@ Magi that are a clear danger to the Order, like diabolists, are slain beforehand
 
 Some Tribunals have specially constructed wards that the defendant stands within while the Tribunal votes on high crimes. If Marched they remain within until the Tribunal is ruled valid and closed. After this the outcast is dispatched.
 
-### *Punishments*
+### Punishments
 
 Punishments are set in a hierarchy to accord with the seriousness of the conviction. In order of increasing severity:
 
@@ -2168,13 +2168,13 @@ After the cords have been cut, both magus and former familiar find each other's 
 
 The convicted magus's familiar must be killed. The horror of seeing your familiar's execution cannot adequately be expressed in words. Some magi have decided to accept a March rather than submit to this; this is seen as an honorable choice. They would rather take their chances as an outcast than meekly give their familiar up to the butcher's knife.
 
-## *Quaesitorial Duties and Powers*
+## Quaesitorial Duties and Powers
 
 Quaesitors enjoy a privileged status in Hermetic society, but this comes with responsibilities. Each Quaesitor is virtually autonomous in how he or she serves the Order. However, neglecting Quaesitorial duties will be noticed and eventually Quaesitorial status will be withdrawn.
 
 The worst thing a Quaesitor can do is abuse their position. This is one of few offences that the Magvillus Council will punish with expulsion from House Guernicus.
 
-### *Quaesitor in Good Standing*
+### Quaesitor in Good Standing
 
 Each Quaesitor must carry a letter, signed by the Primus of House Guernicus, which declares them to be a
 
@@ -2182,26 +2182,26 @@ Each Quaesitor must carry a letter, signed by the Primus of House Guernicus, whi
 
 Quaesitor in good standing (Quaesitor cum auctoritate). This letter must be less than seven years old to be valid. A Quaesitor has no authority without this document and cannot demand cooperation in investigations or preside at Tribunal.
 
-### *Investigation Duties*
+### Investigation Duties
 
 A Quaesitor in good standing has a duty to investigate serious complaints formally presented to him. It is up to the Quaesitor to judge which complaints are serious. He may ask for more compelling evidence from a complainant before embarking on a full investigation.
 
 He is also entitled to at least three seasons every year to pursue his own studies or attend to covenant responsibilities. This entitlement can be accrued and so a Quaesitor may make himself unavailable to investigate complaints for extended lab work. If he is unavailable he can pass the investigation to another or simply give the complainant the authority to investigate.
 
-### *Cooperation*
+### Cooperation
 
 By Grand Tribunal ruling, a Quaesitor in good standing can demand that magi cooperate with an official investigation. Without giving up their legal rights, a magus must assist an investigation if asked. Thus the magus should answer reasonable questions related to the investigation. He is never required to reveal legal magical secrets, but otherwise he should answer honestly and without evasion. Failure to cooperate with an investigation is a low crime.
 
 Magi should also allow their servants to be questioned. Similarly, if servants are commanded to evade questions or even lie, the responsible magi can be charged.
 
-### *Investigation Immunity*
+### Investigation Immunity
 
 Arcane investigation often involves Intellego magic. However, the Code normally protects a magus from this intrusion. Rather than grant the Quaesitores full immunity or completely forbid a primary method of investigation, the First and Grand Tribunals provided Guernicus and his filii with a set of guidelines for when such methods can be employed. These immunities can also be extended to agents of a Quaesitor.
 
 The scrying prohibition was instituted to protect magi's legitimate magical secrets, not their crimes. Any act performed while committing, or in preparation to commit, a crime is considered outside the protection of
 
 
-### *Sanctum Invasions*
+### Sanctum Invasions
 
 If they feel it necessary a Quaesitor can enter the sanctum of a magus under investigation. While within the sanctum, the Quaesitor and any of their agents are under forfeit immunity. Theoretically the sanctum owner can attack with impunity. However, as soon as the Quaesitor leaves their immunity is restored. The Quaesitor investigation immunity protects them against charges related to this invasion.
 
@@ -2221,7 +2221,7 @@ This limited immunity theoretically extends to any magus in honest investigation
 
 even a non-Quaesitor is fairly safe from prosecution; success is the key.
 
-### *Compensation*
+### Compensation
 
 Any vis spent in the course of pursuing an investigation is returned from Tribunal coffers (if available). If the coffers are low the Quaesitor may not be fully compensated. However, fines in the following Tribunal are likely to be particularly harsh, as this is usually their only income.
 
@@ -2235,7 +2235,7 @@ If a Quaesitor investigates and then prosecutes a case they will also receive on
 
 Morwena of Ex Miscellanea brought charges against Darius of Guernicus, for abuse of Quaesitorial privilege. Morwena claimed Darius had used his position as Quaesitor to conduct a vendetta against her for over thirty years. Morwena cited twenty-one separate investigations that Darius had conducted into her activities since she arrived in the Tribunal. Only four had come before Tribunal and only one had resulted in a conviction, and this was for a low crime. Seven investigations that initially focused on her eventually led to other magi. Darius claimed he had good cause for his suspicions, as Morwena's magical heritage was renowned for its dark practices. The Tribunal acquitted Darius, but he was called to Magvillus less than a year later and then moved to the Rhine Tribunal.
 
-### *Calling a Wizard's March*
+### Calling a Wizard's March
 
 In the most extreme circumstances a Quaesitor may decide to declare a Wizard's March, independent of any Tribunal. This is done when a magus poses a threat to the Order that requires immediate action. A typical example would be a magus discovered to be a diabolist. As magi who cooperate with a Tribunal are so rarely cast out, in practice the majority of Marches are called this way.
 
@@ -2244,7 +2244,7 @@ The next Tribunal meeting normally ratifies such decisions after the fact. At th
 
 By Grand Tribunal ruling, no Quaesitor can materially benefit in any way from calling a Wizard's March. Any property that he might acquire is given to the Tribunal coffers.
 
-### *Consultation and Arbitration*
+### Consultation and Arbitration
 
 A Quaesitor can be asked to help draft and/or witness formal agreements between covenants or individuals. This can be done via correspondence, at the Quaesitor's covenant, or it may involve travel.
 
@@ -2254,7 +2254,7 @@ The aim of the exercise is to produce a lasting peace and this is the primary co
 
 The Quaesitor is not obligated to provide these services, but it is common practice. The fee charged is
 
-### *Pardon Me*
+### Pardon Me
 
 Unknown parties engineer incidents in order to convince a player character Quaesitor that their enemy is a diabolist. Unless the Quaesitor is cautious, he may declare a Wizard's March in error. As Hoplites start hunting the hapless victim, the Quaesitor may discover the deception, but can he contact the Hoplites in time? If not, what will be the punishment at Tribunal?
 
@@ -2264,7 +2264,7 @@ The Quaesitor might mitigate his error by exposing the conspirators and prosecut
 
 entirely at the Quaesitor's discretion. A Quaesitor's reputation will often be made or broken by his conduct in these matters.
 
-### *Tribunal Duties*
+### Tribunal Duties
 
 Quaesitors perform a number of functions at Tribunal. The most important is the Presiding Quaesitor, but there are other roles. The Presiding Quaesitor has two advisers, who are consulted on all significant decisions. Quaesitors can also be asked to endorse testimony, which attests to its truthfulness.
 
@@ -2302,7 +2302,7 @@ Within the Order's history many magi have attempted to deceive a Quaesitor into 
 
 
 
-### *The Veto*
+### The Veto
 
 Of all the three arms of Order government, the Quaesitores have the least capacity to defend their position independently. As a group the Primi are fairly secure in their authority. Although it varies greatly between Houses, on average a magus will tend to follow his Primus even if he personally disagrees with a policy (to a greater or lesser degree). The authority of local Tribunals is inherently strong as the majority has an interest in its maintenance. The authority of the Quaesitores however, depends on the majority of magi and/or the Primi supporting that authority.
 
@@ -2333,11 +2333,11 @@ In perjury cases, more than one Quaesitor is normally present during testimony, 
 
 With the aid of infernal powers any magic can be fooled, and therefore this process is not totally certain. In cases with no known infernal connection, this endorsement is seen as ensuring truth. If conflicting endorsed testimony is discovered, there is immediate suspicion of infernal involvement. A senior Quaesitorial investigation will be conducted and both witnesses will be suspect until the matter is resolved.
 
-## *Guernicus Magi*
+## Guernicus Magi
 
 First and foremost, a Guernicus magus is a magus. His life is dominated by his magical interests. Being a Quaesitor or otherwise serving the Order is a part-time occupation. Apart from his preoccupation with the moral education of his pupils, Guernicus encouraged each to find their own magical path. He would make great efforts to foster their natural aptitudes, seeing them as God-given and thus precious.
 
-### *Apprenticeship*
+### Apprenticeship
 
 Guernicus apprentices receive strict instruction on morals and ethics throughout their study, so many Guernicus magi start with a good score in Philosophiae specialized in moral philosophy.
 
@@ -2347,7 +2347,7 @@ Guernicus apprentices normally spend little time as lab assistants. Instructing 
 
 The Guernicus gauntlet consists of a written examination on the Code of Hermes and practical tests of investigation, judgment and character. These practical tests might involve a mock investigation, a Tribunal trial or both. The apprentice plays the role of a Quaesitor in pursuit of justice. Such tests often involve a secret test of moral character; the apprentice is subtly given the opportunity to cheat on a test. The apprentice's response to this opportunity normally decides the Gauntlet. If an apprentice does cheat, he will be told he failed on an unrelated test. Thus the apprentice will believe his dishonestly was undetected. If an apprentice is dishonest three times, he will be allowed to enter House Guernicus, but not as a Quaesitor.
 
-### *Playing a Guernicus Magus*
+### Playing a Guernicus Magus
 
 There is great diversity within the House and not all are suited to investigative duties. However, all are expected to do their best if asked. If a magus is a particularly unsuccessful investigator, they can forego such activities, but unless they serve the Order in some other way they will be denied Quaesitorial status.
 
@@ -2363,13 +2363,13 @@ Many of the particular roles given below can be taken by member of other Houses.
 
 
 
-### *The Whole of the Law*
+### The Whole of the Law
 
 From both his statements and his policies, it is clear that Guernicus only supported the Order in so far as it allowed magi to live and study in peace. In Guernicus's opinion, if a magus minded his own business, kept to his own property and caused no trouble to others, the Order should leave him be. This principle is strictly applied within House Guernicus. The Primus and council only ever make requests of members, never commands. The idea of the Primus or council commanding a magus is a complete anathema to the principles of the House. If a member does not wish to serve the Order as a Quaesitor, he does not have to.
 
 The title of Quaesitor is a privilege with the House, not a right. If a member does not serve the Hermetic peace or the will of the council, the title will be withdrawn, but no other penalty will befall him. He is free to live and study magic without distraction if he wishes. Only if a member disgraces the House by abusing Quaesitorial privilege will he be expelled.
 
-### *Being a Quaesitor*
+### Being a Quaesitor
 
 The power of the Quaesitores comes almost entirely from the respect other magi have for the office. The powers they have derive from Tribunal rulings and even First Tribunal rulings can be reversed if the Grand Tribunal and the Primi wish it. However, this is unlikely to happen. Guernicus was of the firm opinion that only by the continuing efforts of his line would the Order stand, and not only do magi of House Guernicus believe this, most other magi believe it as well. Guernicus and his line developed and now maintain this respect and moral authority by holding themselves to the highest standards of conduct and integrity. In a reasonably lawful saga a corrupt Quaesitor will be rare. A Quaesitor may be disliked, even hated, but few are seen as disreputable or corrupt.
 
@@ -2382,19 +2382,19 @@ Charges were brought against Fulmen of Guernicus by a consortium of magi lead by
 
 Hoplites. Archmagus Stregos claimed that these secrets where obtained through breaching the original target's right to privacy, even though he was subsequently found guilty of a high crime. Fulmen did not contest the charge and apologized to Stregos for his lapse in judgment. The Presiding Quaesitor set the punishment as the loss of his familiar. Heartbroken and disgraced Fulmen renounced his membership in House Guernicus, saving his Primus from expelling him. Fulmen joined House Jerbiton and established a good reputation as an advocate and legal advisor.
 
-### *Being a Hoplite*
+### Being a Hoplite
 
 Occasionally a Guernicus magus finds his magic and temperament more suited to martial magic than investigative work. This predisposition is well respected in the House, as it recalls the passionate spirit of Guernicus. Quaesitors may well feel themselves under threat during an investigation, and in such cases they can call on allies to add magical muscle to the inquiry. If a magus acquires a reputation for taking on this duty, he will become generally known as a Hoplite.
 
 A number of Guernicus magi are able at both investigation and combat. These Hoplite Quaesitors are often sent to the more lawless Tribunals, well-suited to their robust investigations.
 
-### *Being an Advocate*
+### Being an Advocate
 
 Some Guernicus magi feel that they can serve the Order best by acting as a legal advocate. These magi take cases where principles feel threatened or are otherwise unable to conduct their case. Their fees are generally affordable even for poor magi.
 
 They also work to resolve disputes out of court, acting for one side but able to broker agreements between otherwise extremely hostile parties. Ideally Guernicus advocates work to bring peace and security to the Order. They stand between the weak and the strong and ensure justice is done.
 
-### *Being an Magical Investigation Specialist*
+### Being an Magical Investigation Specialist
 
 Guernicus magi with a particular aptitude are often called in to provide a brief service in support of a main investigation. These services should not disrupt their study. Most have spells that allow them travel magically and devices that enable Quaesitors to call on them as
 
@@ -2405,7 +2405,7 @@ needed. In particular, a specialist is often in great demand at Tribunal for end
 
 The most experienced specialists conduct research that pushes the boundaries of Hermetic Theory. One of the dreams of these magi is to break the Limit of Time. Rumors that the Quaesitores have a spell that can see into the past often circulate. If the researchers ever succeed, they will not advertise it.
 
-### *Being a Terrae-Magus*
+### Being a Terrae-Magus
 
 Although Guernicus never pushed his apprentices into his magical interests, a number of his pupils picked up on their master's special knowledge of Terram. Although House Guernicus is not a mystery cult, these pupils founded a cult dedicated to preserving Guernicus's earth magic. The cult accepts magi from any House, but the leader is always a Guernicus magus. This leader always finds his way to a seat on the inner council of Magvillus.
 
@@ -2413,7 +2413,7 @@ These magi are extremely fierce in magical combats and often follow the Hoplite 
 
 Amongst these cultists, many possess the divinatory ability of geomantia, making them investigators that even the wiliest fear. Many learn to summon and bargain with earth elementals. However, such magic is beyond the scope of this book.
 
-### *Guernicus Politics and Advancement*
+### Guernicus Politics and Advancement
 
 Members of the outer council are encouraged to invite other regional Quaesitors and their apprentices to accompany them to the meeting. These magi and apprentices are free to observe. There is normally a feast afterwards and this gives them the opportunity to socialize. As there are less than a hundred and fifty Quaesitors in the Order, virtually all know each other fairly well.
 
@@ -2434,7 +2434,7 @@ All this tends to make Guernicus magi cosmopolitan in attitude, and although the
 This frequent migratory policy makes the culture within House Guernicus fairly uniform. There are local quirks, as would be expected in any group of about a dozen individuals. However, the group dynamics of local Quaesitors change relatively quickly as members move in or out.
 
 
-## *Running Stories for a Quaesitor*
+## Running Stories for a Quaesitor
 
 A player-character Quaesitor provides a storyguide with the ideal hook for the occasional investigation story. However, it might become stale if run too often. Unless the storyguide wishes to make the defense of the Hermetic peace a central saga theme, such stories should not dominate.
 
@@ -2456,25 +2456,25 @@ left may lead to serious crimes. Where possible an experienced Quaesitor will tr
 
 Just in case it needed to be said, stories involving Hermetic law and Quaesitors should be entertaining, albeit challenging. What form the law takes in a saga should reflect the likes and dislikes of the troupe.
 
-## *Allies*
+## Allies
 
 Quaesitores are not the only members of the Order who feel the maintenance of the law is important. These other magi can aid Quaesitores in any number of ways. One of the most common ways to help maintain the law is for non-Quaesitors to conduct investigations themselves. If in good graces, such magi are often given a letter of authority by a Quaesitor, which gives them investigation immunity and enables them to demand cooperation. However, non-Quaesitors need to take more care with these liberties.
 
 Events can happen so quickly that a letter of authority cannot be obtained. In these cases, authority can be given retroactively, and normally is for successful investigations.
 
-### *Hoplites*
+### Hoplites
 
 Magi accompanying Quaesitors for protection are normally provided with letters of authority and play their part in the investigation. Powerful magi who perform this role become known as Hoplites.
 
 Many members of Houses Flambeau, Tytalus and Tremere value this role highly, as they often get the first opportunity to hunt down outcast magi. The position is rewarding primarily to the Hoplite's reputation, but can be materially rewarding at well.
 
-### *Redcaps*
+### Redcaps
 
 As another House dedicated to the welfare of the Order, Mercere magi are often keen to investigate potential Hermetic crimes. Without The Gift and being so well-traveled, Redcaps make ideal agents to investigate in mundane society. Traveling across the Tribunal, they are often the first to encounter evidence of interference with mundanes. Indeed, they are often the first to suffer from mundane anger at such activities.
 
 Unless they possess devices invested with Intellego effects, Redcaps are at a disadvantage when investigating magi more directly. They are also by far the least able to defend themselves should the need arise. Therefore, it is unusual, but not unknown, for a Redcap to conduct a direct investigation of a magus. They normally gather information in mundane society and pass it on to a Quaesitor.
 
-### *Custos*
+### Custos
 
 Many Quaesitors employ worldly-wise custos to act as eyes and ears in the mundane world, to complement the diligent Redcaps. Many are merchants who ply their trade about the Tribunal.
 
@@ -2482,7 +2482,7 @@ Those who supply specialist equipment and materials needed by Hermetic magi are 
 
 Occasionally, but rarely, a mundane agent has been placed within a covenant as a spy. If a covenant is known to screen its recruits, the subject's memory is altered to defeat standard Intellego Mentem screening. This use of magic is covered under investigation immunity.
 
-## *Quaesitorial Magic*
+## Quaesitorial Magic
 
 Since the beginning of the Order, cunning magi have attempted to use their magic to cover their crimes. From Guernicus onwards, Quaesitors have researched spells to defeat such attempts, often with the support of Bonisagus magi. Magi granted the title Quaesitor are taught the fruits of this research.
 
@@ -2495,7 +2495,7 @@ As well as protecting sanctums from invasion, additional rulings by the Grand Tr
 
 By Grand Tribunal ruling a book or scroll-case can also be marked with a House symbol. This marks it as secret within the House. Any other magus who reads it is committing a low crime.
 
-### *Acute Sense*
+### Acute Sense
 
 Intensive Quaesitorial training and techniques gives a chance to spot the tell-tale imperfections of Vim or Imaginem deceptions. This takes the form of a new mastery ability applicable to all magical sense spells. Only those who have received Quaesitorial training can take this ability.
 
@@ -2509,7 +2509,7 @@ If successful the Quaesitor will notice that something is not quite right. For i
 
 This ability can be taken twice. Taking it a second time allows the magus to add his Mastery score to the perception roll.
 
-### *Spell Traces and Sigils*
+### Spell Traces and Sigils
 
 One investigative tool is to examine active spells and the residual traces of spells (spell traces) to identify the caster. The higher the magnitude of the active spell the easier it is to detect and examine.
 
@@ -2537,7 +2537,7 @@ The inventor must have carefully studied the sigil he wishes to copy. Working fr
 
 
 
-### *Forceless Casting*
+### Forceless Casting
 
 When a magus casts a spell that targets a large area, he runs the risk of criminally affecting other magi. In order to reduce this risk, a magus can deliberately ensure the Penetration of a spell never exceeds '0'. In essence the magus casts the spell with no more effort than is required to avoid fatigue and opts not to use his Penetration skill. As most magi have at least a Magic Resistance of '0', he can ensure that his spell will not affect them; providing he does not botch.
 
@@ -2557,7 +2557,7 @@ The use of *Shroud Magic* can be known by the presence of an accompanying Muto V
 
 Other scenes are not discovered in time for spell trace magic. In these cases the investigator needs to use other techniques to get at the truth.
 
-### *Spells and Guidelines*
+### Spells and Guidelines
 
 **INTELLEGO CORPUS SPELLS**
 
@@ -2805,7 +2805,7 @@ Used as a Tribunal punishment, this spell requires the active cooperation of the
 
 
 
-## *Fenicil's Rituals*
+## Fenicil's Rituals
 
 These rituals are still largely Mercurian or pre-Mercurian in nature. Although a Technique and Form has been given, these Hermetic Arts are not involved in the casting or learning of these rituals. The Form is relevant only for the purpose of any Magic Resistance. The Ease Factor is used for casting, calculating the Penetration and determining vis cost. The Ease Factor does not relate to any Hermetic guideline and is only vaguely linked to the power of the effect. Characters with the Unstructured Caster flaw cannot learn these rituals at all.
 
@@ -2824,7 +2824,7 @@ As well as requiring many magi, these rituals are fantastically slow to cast and
 The advantage of these rituals is that they often generate an effect Hermetic magic would find difficult or impossible; otherwise they would be made Hermetic.
 
 
-### *Greater Rituals*
+### Greater Rituals
 
 These rituals take a whole season to enact. Treat as a lab activity in terms of time commitment.
 
@@ -2858,7 +2858,7 @@ Nemesis is thought to be an entity of the magic realm. If she physically manifes
 
 
 
-### *Greater Ritual Example*
+### Greater Ritual Example
 
 During the Schism War, thirty senior Guernicus magi were summoned by the inner council to enact the *Curse of Thoth* ritual. All the inner council also joined, making thirty-seven participants. The sum of mastery abilities was 130 (average ability of about 3.5). The Primus's stamina was +2 and the magic aura of Magvillus was +4. The die roll was 3. Thus the Casting Total for the ritual was:
 
@@ -2872,7 +2872,7 @@ However, if this ritual is enacted, the participants had better be totally sure 
 
 **Ease Factor:** 78
 
-### *Lesser Rituals*
+### Lesser Rituals
 
 Unlike the greater rituals these see occasional use, although the costs are still prohibitive. They are known to have real effects. Again, only Guernicus magi are taught these rituals.
 
@@ -2922,9 +2922,9 @@ This ritual is occasional used as a Tribunal punishment. However, it is seen as 
 **Ease Factor:** 24
 
 
-### *Chapter Three*
+### Chapter Three
 
-# *House Mercere*
+# House Mercere
 
 *"The entire Order stands on the brink of dissolution, and we are the only force that keeps it from toppling. How quickly the Houses and wizards have fallen into suspicion, competition, and vengefulness! How quickly they would fall upon each other in fear and confusion if we did not keep them together! Fear feeds on ignorance; knowledge starves the unknown. We bring word of what passes and where so that magi can feel safe, and we carry their words with us so that they may bring comfort to others. We are the salvation of the Order."*
 
@@ -2962,7 +2962,7 @@ He is said to have been the first to join Trianoma's cause, and it is whispered 
 
 
 
-### *Mercere's Portals*
+### Mercere's Portals
 
 Mercere discovered and brought the spell *Hermes' Portal* (ReTe75) to the Order, a spell used by the Cult of Mercury to allow distant Mercurians to gather more easily for their great rituals. In ancient times, building a Portal was a sign of trust, since it required magi to exchange arcane connections, and indicated a special relationship between them. Since the ritual lasted only a year, it was expected that magi would regularly renegotiate their arrangement, and thus Portals became a symbol of a magical alliance. After the Order was formed, Mercere's only magical achievement was to adapt the Portal effect into an invested device (it is assumed that he had help from Bonisagus on this impressive feat) and he built several of these, linking Harco and the other Founders' covenants to Durenmar in this same spirit of cooperation and trust.
 
@@ -2987,12 +2987,12 @@ This caused great conflict at Tribunal, for many of the Founders felt it was imp
 
 Mercere died soon after this. His body was cremated at Harco according to the ancient rites of the Cult of Mercury, and several of the other Founders were present,
 
-### *"Redcaps" and "Merceres"*
+### "Redcaps" and "Merceres"
 
 In this text, the term "Redcap" refers to an unGifted member of House Mercere. Gifted members are called "Mercere magi" or "Gifted Merceres," though note that all members of the House are considered magi for the purposes of their Oath and the Code. The general term "Mercere" refers to anyone, Gifted or unGifted, who belongs to the House.
 
 
-## *Redcaps*
+## Redcaps
 
 After the death of Mercere, the House suffered a period of great decline. While the Founder lived, his unGifted followers were respected by association, but without his influence they soon came to be regarded as a plebeian class within the Order. For decades they remained a small and insular House, before they began to take on many of the administrative duties that are now associated with the term "Redcap." They performed these duties so well, in fact, that the other Houses came to depend upon them. In particular, a Redcap named Belin became famous for always getting her messages through even the most dangerous of wars and weather, and it was because she wore a loose red cap like Mercere's that those without the Gift came to be favorably associated with the title.
 
@@ -3004,7 +3004,7 @@ In 1220, House Mercere is probably too disorganized to unite like that again, th
 
 
 
-### *Societies*
+### Societies
 
 Within the Order are many smaller groups of magi, each committed to an ideal, a cause, a particular study of magic, or any shared purpose that causes them to band together. Ex Miscellanea, Flambeau, Jerbiton, and Tytalus are considered House societies, but any number of smaller Hermetic societies may be found throughout the Order, which often include magi from many different Houses. Generally, any magus can join a society; they may have requirements for membership, but on the whole societies like having allies in their causes.
 
@@ -3018,7 +3018,7 @@ Thus, Redcaps are something of an anomaly in the Order of Hermes. They are not r
 
 To fulfill this mission, Redcaps take on many different duties, described below. Most of these duties do not exclusively belong to Redcaps, not in the same way that, say, Quaesitorial duties belong to official Quaesitors. Redcaps just tend to be the ones who do these things that other magi would think beneath them, to justify their membership in a magical Order. Since Redcaps visit almost every covenant, and any covenant might have a resident Redcap, the ideas that follow can also easily be adapted into story hooks for any saga.
 
-### *Messengers and Heralds*
+### Messengers and Heralds
 
 The primary duty of Redcaps is to act as couriers between covenants, and the House is organized to facilitate their performance of this role. A single Redcap might customarily visit the characters' covenant, but different Redcaps might stop by at any time, since there is no formal schedule or system of invitations. Redcaps are encouraged to visit covenants on their own initiative, and rewarded through self-interest.
 
@@ -3075,7 +3075,7 @@ Belin only spent about ten years of her life traveling, and afterwards raised ma
 
 **Requirements:** Characters who belong to this society are probably descended from Belin, but children who have demonstrated great promise and humility are sometimes adopted into this society on merit alone. Thus, they must take the Legacy flaw (see the Appendix, Virtues and Flaws) and should not take Personality traits that describe a proud or rebellious nature.
 
-### *Merchants and Bankers*
+### Merchants and Bankers
 
 House Mercere has always maintained a great interest in commerce and trade. In fact, many Redcaps carry mun-
 
@@ -3102,7 +3102,7 @@ Not that Redcaps fear charges of usury — most of Europe does not recognize vis
 
 The Redcaps set quite a humble standard for loans, though magi can borrow vis from each other at whatever terms they like. Characters going into business as vis-
 
-### *Usurers*
+### Usurers
 
 Lenders who don't care about accusations of usury might ask closer to 50% interest on common loans, and get away with up to 150% interest when they have a desperate customer. Such characters are extremely unpopular in Mythic Europe, and have many debtors who would be very happy if their creditor were to disappear or die suddenly.
 
@@ -3131,7 +3131,7 @@ Redcaps never accept unseen property as collateral. They must witness a demonstr
 
 In very rare circumstances, Redcaps will exchange or accept payment in silver; but this is usually frowned upon since it is harder for Redcaps to properly vouch for its value, and some Redcaps might be more likely to pocket
 
-### *Magical Silver*
+### Magical Silver
 
 **A. A. 1347 (A.D. 1208), Stonehenge Tribunal**
 
@@ -3150,7 +3150,7 @@ Unscrupulous Redcaps could just hang on to the profits, rather than turning them
 
 
 
-### *Hermetic Charity*
+### Hermetic Charity
 
 The mercantile practices of Redcaps are profitable enough that Mercer Houses occasionally have a surplus of vis. To avoid arousing the envy of their poorer sodales or tempting supernatural powers that punish such wealth, the Redcaps periodically assist deserving magi by leaving gifts of vis during their visits. By tradition, these missions of mercy are conducted at the beginning of winter, when yearly interest payments are paid to their investors, and are usually hidden so that they are not found until after the messenger is gone.
 
@@ -3186,7 +3186,7 @@ There are still Redcaps who engage in the practice of harvesting vis and transfe
 **Requirements:** None, though they often start out with vis of their own: Pawnbroker Redcaps may trade two levels of their starting magic items for a pawn of vis in their signature shape, and receive one pawn of vis a year from the House in lieu of magic items if they wish. They typically have devices that can measure vis and transfer it into other objects with Rego Vim, and should have at least one Craft Ability. These characters may also take the Hermetic Virtue Personal Vis Source, to represent vis they have discovered in the wild.
 
 
-### *Mercenaries and Guardians*
+### Mercenaries and Guardians
 
 Mythic Europe is a dangerous place, and many Redcaps make their living by protecting others on their journeys. Instead of (or in addition to) carrying messages, they escort other Redcaps through peril in exchange for a share of the take. These Redcaps are typically called **custodians** or custodial Redcaps (from the term *custodes*), and spend most of their time on dangerous roads, leading Redcaps through difficult or hard-to-find areas. In exchange, they receive an equal share of the pay, which is not as profitable as covenants usually tip a group of Redcaps the same amount as they would an individual.
 
@@ -3209,7 +3209,7 @@ Many custodial Redcaps also see it as their role not just to respect but also to
 
 Fines assigned as punishment at Tribunal are officially divided between the prosecutor of the case and the treasury. After Tribunal, if a Redcap collects an unpaid fine from the offender and deposits it in the coffers, he is given one-tenth its value from House funds. This makes it a profitable if unpopular duty, since even magi dislike collectors, and they may resent it when a Redcap visits their covenant only to extract payment. It can also be dangerous for the Redcap, since magi who do not agree with the verdict may argue the point with him, or take offense at
 
-### *Risky Business*
+### Risky Business
 
 While terribly frowned upon by the Order and the House, brave Redcaps with few scruples sometimes seize damages and fines using subterfuge and stealth. They reason that once a Tribunal has sentenced magi to pay a fine or hand over damages, that property no longer belongs to them. Charges can be brought against magi who fail to pay what they owe by the next Tribunal, but some Redcaps prefer not to wait, and this is often to their advantage. In highly-regulated Tribunals that strictly punish even the lowest of crimes, such cunning practices would probably not succeed, but on the edges of the Order where only obvious breaches of the Code receive official notice, there are many gray areas, as the following excerpts from the Peripheral Code demonstrate.
 
@@ -3251,7 +3251,7 @@ Most Bloodcaps are only comfortable living alone in haunted ruins, though they m
 
 **Requirements:** All Bloodcaps must take Faerie Blood (or Strong Faerie Blood), and the benefits of their faerie race are described in the Appendix (Virtues and Flaws, Faerie Blood). They should also take either a Greater Malediction (the sight of the cross or the sound of scripture causes their teeth and nails to fall out, causing them a light wound each round), or a Lesser Malediction (the cross and scripture cause them pain, requiring concentration rolls of 9+ for stressful actions). Bloodcap companions must be Redcaps, and tend to have magic items useful in combat — many Bloodcaps carry long, sharp pikes and wear iron shoes enchanted with *The Leap of Homecoming* (ReCo35).
 
-### *Minstrels and Wanderers*
+### Minstrels and Wanderers
 
 A surprising number of Redcaps serve somewhat reluctantly, working for their living but without enthusiasm for their position. That is, while they carry messages and perform other services to the Order, their hearts are not really in it, and they tend to be somewhat distant from the House as a whole. They perform their duty for their required seasons to fulfill their obligation, but the rest of the time they travel, spend their money, and generally ignore the great ideals of Mercere.
 
@@ -3259,7 +3259,7 @@ Wandering Redcaps might travel all parts of Europe, even going outside its bound
 
 
 
-### *Errant Redcaps*
+### Errant Redcaps
 
 Since Redcaps are officially magi, they have all the rights and privileges of other magi in the Order, including the freedom to do what they wish — there is no law that says they must serve for two seasons of every year. Yet when Redcaps neglect their duties, it angers and upsets true magi, who perceive them as unworthy freeloaders. Merceres fear that if this were to become widespread, it would lead to official restrictions on their activities or even a ruling in the Peripheral Code making the Gift a requirement for membership in the Order. Thus, the House does its best to punish those Redcaps who do not demonstrate the appropriate amount of dedication.
 
@@ -3293,7 +3293,7 @@ His reputation survived, even if he did not, and many years later a small group 
 
 They still have a small but devoted following within the Order of Hermes in Germany and northern France,
 
-### *Medieval Inns*
+### Medieval Inns
 
 Very few inns in Mythic Europe would fit the common depiction of them in fantasy literature: multiple stories, separate rooms, bath houses, a jolly innkeeper. Most of the time, they are the lowest level of hostelry, a second source of income for a home with an extra bed. Travelers staying with these occasional hosts are expected to bring their own provisions and cook them themselves over the fire, and sleep in the same room as, say, the man and his wife, their teenage daughter, and a one-year-old child.
 
@@ -3307,7 +3307,7 @@ where they continue to preach the Goliardic gospel of enlightened debauchery. Th
 
 
 
-### *The Goliard Credo*
+### The Goliard Credo
 
 *I believe — in dice I well believe, That got me often bite and sup, And many a time hath had me drunk, And many a time delivered me From every stitch and every penny. [...]*
 
@@ -3321,7 +3321,7 @@ where they continue to preach the Goliardic gospel of enlightened debauchery. Th
 
 Goliards are possible. Many of them also have Free Expression or are Inspirational, and might have a Hermetic Patron (see the Appendix, Virtues and Flaws), though these virtues are not essential, for not all Goliards are as accomplished in their artistic endeavors.
 
-## *Magical Merceres*
+## Magical Merceres
 
 While most of the House is made up of Redcaps, a small number of Merceres have The Gift. They tend to be less concerned with serving the Order, and have more freedom to find their own way. Gifted Merceres maintain close ties to the rest of their House, though they sometimes inspire distracting awe or envy among their unGifted sodales.
 
@@ -3341,7 +3341,7 @@ promiscuity. All Merceres, especially the women, begin having children at young 
 
 Since Mercere's followers regard their ancestry so highly, they usually know exactly who they are descended from, and tend to practice magic inherited from their masters. Mercere was said to have a natural affinity for Muto, and Creo is highly valued for many reasons (especially healing and making longevity potions), so even Mercere magi who prefer to discover their own magic receive special training in one of those Arts. Thus, starting Mercere magi always take either Puissant Art (Creo) or Puissant Art (Muto) as their free Virtue, unless they are deeply involved with one of the two unique House lineages that follow.
 
-### *Mercurian Magi*
+### Mercurian Magi
 
 Mercere had already taken his first apprentice before the Order formed, and had begun teaching the boy his secrets when Trianoma approached him. His new duties in the years that followed meant that his apprentice was given very sporadic lessons, and encouraged to develop on his own or accompany Mercere while traveling. After the Founding, Mercere established Harco and spent more dedicated time helping his follower with his studies, soon declaring the young man a new magus. It was his duty, he was instructed, to serve the new Order as he had served Mercere, and after swearing the Oath he was named Priamitus: last of an ancient line and first of a new one.
 
@@ -3349,7 +3349,7 @@ The first follower of Mercere held his ancestors in great awe. Priamitus had lit
 
 Other Houses helped him rebuild the Cult, particularly magi of House Flambeau. In fact, it is more accurate to say that he helped them, but because Priamitus learned Mercurian magic from Mercere and taught it to his many
 
-### *Cult Practices*
+### Cult Practices
 
 The Cult of Mercury keeps alive the pagan beliefs of the Romans before the spread of Christianity, where the many great powers of the natural world were worshipped as individual beings, not venerated as aspects of God's creation. Essentially, Mercury Cultists are Mediterranean nature-worshippers, and their ceremonies focus on anthropomorphizing forces like weather, death, love, war and so on. They do not practice human sacrifice, though they do offer animal sacrifices to their gods, and they burn their dead. They also put great store by omens, and practice all forms of divination and ceremonial magic to read and interpret these signs. They avoid the Church and the Dominion, which they see as stifling forces on the practices of pure magic if they consider them at all. Other magi who know about the Cult tend to think its members are backward zealots or dangerous heretics, and though they still honor their Hermetic heritage, they usually prefer to do so from a safe distance.
 
@@ -3369,7 +3369,7 @@ The Cult of Mercury includes magi from many different Houses, and is usually fou
 
 Hero-Cultists seek out exceptional children with supernatural attributes that indicate their divine nature, which they find through stories, investigative magic, or otherworldly visions. They then adopt them into the House as Redcaps. If nurtured and supported by the Order, they believe these potential demigods will grow into the power of their predecessors. Such heroes are very rare; there might be three or four of them in all of Mythic Europe, but their origins are obvious as they are especial-
 
-### *Heroes and Magic*
+### Heroes and Magic
 
 The magi of the Cult of Heroes use their magic to improve mere mortals, essentially praying to the gods for blessings on those who worship them. Their greatest ideal, the discovery that they believe would revive the greatness of the ancient world and bring about a new and Heroic Age, is a spell that would create the Gift. While it seems this is not yet possible, they have developed other promising rituals that elevate mundane men and women closer to this ideal. Only the most senior Merceres actually know these spells, but they frequently see use in the Mercurian rituals for which the Cult is famous, and they are often performed as rewards for those who loyally serve the Hero-Cult.
 
@@ -3383,7 +3383,7 @@ ly blessed by nature. They are clearly better than common men and women, and per
 
 Magi who belong to the Hero-cult should have either Mythic Blood (which allows them to take Heroic Virtues and Flaws) or Mercurian Magic, and should also be Pagan. They may substitute Mastered Spells for Puissant Art as their free virtue, and can choose from the Cult's special mastery abilities in addition to those in ArM5 when assigning this experience.
 
-### *Mutantes*
+### Mutantes
 
 Several years after the Order was founded, Mercere took another apprentice, who like Priamitus was also his son. Some suspect that the child's mother was also a member of the Order, but for whatever reason Mercere kept her identity secret, apparently even from the boy. He grew up at Durenmar, not Harco, as that was where Mercere preferred to spend most of his time in those days, and from an early age it was clear that he had great potential as a magical theorist.
 
@@ -3425,7 +3425,7 @@ Other legends unearthed by the Mutantes suggest that these early ancestors of He
 
 Thus, the Milvi Antiquiti, or "kites of old," consists of Mutantes and their companions who seek to preserve and distribute knowledge throughout the Order. They do this in two ways: they make copies of ancient books, and they lend these books to other magi. Because many of their books are in high demand, and because they assume the borrowers will make copies, the Milvi charge a small amount of vis for this service, usually 1p a season or 3p a year. Magi are generally willing to pay this for access to books that they wouldn't see otherwise, and starting covenants can generally get more value from a good book than studying from the vis it costs to borrow it.
 
-### *Milvini Spells*
+### Milvini Spells
 
 The Milvi Antiquiti have developed many spells that make use of their Mutantes heritage and magictaming skills. They generally keep these to themselves, though characters who earn their respect and who have some ability with Mutantum Magic might convince the Milvi to loan them a lab text, or commission a magical item from them, thus making these effects available to magi outside the society.
 
@@ -3438,7 +3438,7 @@ To carry books from covenant to covenant, the Milvi cast a spell that transforms
 
 **Requirements:** Milvini magi should take Mutantum Magic for their free virtue. Their Redcap followers usually learn Latin, Profession: Scribe and Magic Theory, so that they can write and copy books, and usually have a Milvinus magus for a Hermetic Patron (see Virtues and Flaws). Most have a magic item that casts a version of *Shape of the Ancient Kite* (MuCo40), usually in their feathered caps.
 
-### *Other Specialties*
+### Other Specialties
 
 All Mercere's followers tend towards independence with a hint of wanderlust, and while all Hermetic students are encouraged to follow their masters' lineages, not all of them do. Some seek their own form of magic, just as both of Mercere's apprentices did, and this is seen as a good thing as long as they aid the House and serve the Order. To that end, here are some suggestions for other directions to develop magi of House Mercere.
 
@@ -3456,11 +3456,11 @@ All Mercere's followers tend towards independence with a hint of wanderlust, and
 
 **Vis-Monkeys.** This is a disparaging term used by some members of the Order for magi who devote their time solely to tinkering in the lab; inventive geniuses can be found in any House, and the Mercere talent with Creo is very useful for making longevity potions and distilling vis. House Mercere is always buying magical devices, and their prices are very attractive, especially when they are making them for themselves.
 
-## *Laboratory Rules*
+## Laboratory Rules
 
 These include long-term activities as well as variations on standard lab work.
 
-### *Mastered Spell Special Abilities*
+### Mastered Spell Special Abilities
 
 Any time magi earn a level in a spell mastery ability, they may choose from these special abilities in addition to those in **Ars Magica** 5th Edition, as long as some of the experience points were taught by someone with the Ability. Most magi in the true lineages prefer to share this specialized knowledge only with their apprentices, though their methods may be written down in books that anyone can read, and it is not impossible for a master to decide to teach a student with very similar goals and loyalties.
 
@@ -3533,7 +3533,7 @@ This spell is less exhausting for you. If it is a Ritual, you lose normal Fatigu
 
 You may give control of this spell to another person, who is subsequently treated as the caster, or to an object that holds the spell like a charged item for its duration and casts it if an appropriate target comes into range. This cannot be taken for Ritual spells.
 
-### *Mercere's Portals*
+### Mercere's Portals
 
 This activity is generally restricted to Mercere magi. This is because they must spend a season studying an existing Mercere's Portal or the lab notes of someone who has already built one to learn the method of constructing them, and the House prefers to limit access to this information, keeping it exclusively inside House Mercere.
 
@@ -3546,11 +3546,11 @@ Arc; +10 for Unlimited uses). They can be built by different magi in different l
 
 After the two devices are enchanted in the lab, they are moved into place and a magical connecting ceremony similar to *Hermes' Portal* (ReTe75) is performed simultaneously in each location. This ceremony is learned as part of the procedure, and does not require a roll, but until it is completed the devices do not function. Once the two Portals have been connected, they cannot be moved without permanently destroying the effect.
 
-## *Magic Rules*
+## Magic Rules
 
 These are variations on the way Hermetic magic is performed.
 
-### *Mutantum Magic*
+### Mutantum Magic
 
 Mutantum Magic is a special form of metamagic found primarily in House Mercere. Thorough grounding in their lineage's magical philosophy and their natural affinity with change allows Mutantes to invent spells that have unusual power over magic, altering it in specific ways. Mutantes can use this metamagic when casting formulaic spells designed to take advantage of it, or investing magic items with appropriate effects. They can also write or teach the resulting spells in a way other Mutantes can understand and learn. These changes include:
 
@@ -3559,11 +3559,11 @@ Mutantum Magic is a special form of metamagic found primarily in House Mercere. 
 **Harnessing:** Spells normally last their duration and then end, but harnessed effects are put to work like domesticated animals, and can be released from their service when necessary. They are made to end prematurely simply by the caster concentrating on them; this takes about the same amount of time and concentration as casting a spell, and can be done over any distance. If distracted during this process, the caster may always try again.
 
 
-## *Spells*
+## Spells
 
 The unique magical abilities and interests of the Mercere lineages have found expression in new spells.
 
-### *Mutantum Spells*
+### Mutantum Spells
 
 The Mutantes design spells that have unusual variations on standard magic built into their effects, and only characters with the power to perform that kind of magic due to an appropriate Virtue can cast them. If a character cannot manage one of the qualities of the Mutantum spell, that character cannot learn it.
 
@@ -3650,7 +3650,7 @@ The spell is tethered, so that it may be controlled by another, and boosted so t
 
 (Base 2, +4 Arcane Connection, +1 Concentration; Boosted, Tethered)
 
-### *Other Spells*
+### Other Spells
 
 These spells are associated with the Cult of Heroes, and are rarely found outside of that society.
 
@@ -3695,7 +3695,7 @@ This ritual imbues the target with a kind of supernatural aura, similar to Might
 
 (Mercurian Ritual)
 
-## *Virtues and Flaws*
+## Virtues and Flaws
 
 These new Virtues and Flaws are most often found in characters belonging to House Mercere, but most are not exclusive to that House.
 
@@ -3707,11 +3707,11 @@ You should have some idea of the character's heritage, linking your background t
 
 
 
-### *Mythic Companions*
+### Mythic Companions
 
 Characters with Blood of Heroes are Mythic Companions, a new character type. These characters are closer in power to Hermetic magi than other companions, and can never have The Gift. More types of Mythic Companion will be introduced in future supplements.
 
-### *Heroic Characters in a Saga*
+### Heroic Characters in a Saga
 
 Heroic unGifted characters are very rare within House Mercere, even though the Cult of Heroes specifically seeks them out. In the wider world, they are incredibly rare. If possible, you should try to avoid having more than one Heroic unGifted player character in a saga, and if multiple players really want them you should come up with a good reason why there are so many in one place. There are not enough of them in the world for it to be mere coincidence.
 
@@ -3725,7 +3725,7 @@ Like The Gift, Blood of Heroes is a free Virtue. It is not possible to have both
 
 Only "Heroic" characters can take Heroic Virtues and Flaws. These are characters with the Blood of Heroes virtue or the Legacy flaw, or magi with Mythic Blood. Other story circumstances such as Latent Magic Ability might warrant taking them, at the storyguide's discretion.
 
-### *Virtues*
+### Virtues
 
 #### **BOOSTED MAGIC**
 
@@ -3914,7 +3914,7 @@ Usurer
 
 You are unusually sensitive to raw vis, and can tell whether or not an object contains any simply by touching it. You can also determine how many pawns it is worth by weighing it in your hand, and learn what Art it is associated with by examining it closely. In this way you can recognize magic items, active rituals, familiars, and other objects that require vis to prepare, though you cannot identify them or determine any specific details about them. You may also begin with the Magic Sensitivity virtue at no cost. Magic Sensitivity is not compulsory, if you do not want the penalty to Magic Resistance.
 
-### *Flaws*
+### Flaws
 
 ### **BOUND MAGIC**
 
@@ -3992,9 +3992,9 @@ You must take a specialty for one of your negative Characteristics, similar to a
 You often lend silver or other valuables to people at interest rates that many consider abusive. You get away with this somehow, possibly because you belong to a group that can avoid moral judgment for these actions, because you operate outside of the law, or perhaps because you lend a type of currency not accepted by the mundane population. You receive the equivalent of approximately ten pounds of silver each year from interest payments, though you may occasionally need to chase down debtors, and you have a poor reputation (Usurer) at level 4 within your community and the local region.
 
 
-### *Chapter Four*
+### Chapter Four
 
-# *House Tremere*
+# House Tremere
 
 *Words fail.*
 
@@ -4017,13 +4017,13 @@ Members of House Tremere assume that the world is chaotic and dangerous. They st
 
 Tremere thinking, art and literature praise the ethos of the wolf pack. Wolves are gentle with each other and savage to their enemies. They serve their families, particularly the dominant pair, and aid in the raising of their lair mates' cubs. The Dacians, from the word *daoi* meaning "wolves", ruled Transylvania before the Romans came, and went to war behind wolf-headed dragon ban-
 
-### *Symbols*
+### Symbols
 
 #### **MARS INCISED WITH A SQUARE**
 
 Members of House Tremere accept the inevitability of war, but no longer hunger for it. Tremere conceived of his House as an army, but his military adventures failed, and then the House suffered terribly during the Schism War. Modern Tremere accept the use of force where necessary, but prize cunning more than their ancestors. Many see the House's mark as a reminder that war is inevitable
 
-### *Key Facts*
+### Key Facts
 
 **Population:** 92 magi (41 in Transylvania)
 
@@ -4035,13 +4035,13 @@ Members of House Tremere accept the inevitability of war, but no longer hunger f
 
 utterly dominates politics.
 
-### *Famous Figures*
+### Famous Figures
 
 **Tremere,** Founder, developer of certamen. **Cercistum,** Primus at the beginning of the Schism War, killed in battle.
 
 
 
-### *Cult Stories*
+### Cult Stories
 
 The necromantic cult did not leave the cities to flee the Dominion. Most made lairs in the subterranean spaces of their cities, particularly in places like Naples, which surmounts an enormous cave complex. Occasionally, a Hermetic magus will discover that there was a necromantic presence in a city and mount an expedition to find their cult center.
 
@@ -4074,9 +4074,9 @@ The dye is self-mordanting, and changes color with time. It is initially blue-bl
 
 The House motto, — "The Will conquers all" — is rarely used. The Sundering demonstrated that it isn't true and quoting Tremere offends other magi pointlessly. He said several things that they resent, and the Quaesitorial motto opposes House Tremere's. Many Tremere magi favor classical aphorisms, particularly from Xenophon. A quote from King Lycurgus of Sparta serves a moral touchstone: "Obedience is of the highest benefit."
 
-## *History*
+## History
 
-### *Before the Order*
+### Before the Order
 
 House Tremere's ancestors were a tradition of diviners who summoned the ghosts of the recently dead and forced secrets from them. Initially servants of Aita, later Pluto, they became priests of Mercury Psychopompos the Conductor of Souls — when the Cult of Mercury swallowed their tradition during the reign of Augustus. They did not have temples, and met in secret, in the places of the dead.
 
@@ -4088,7 +4088,7 @@ While Guorna studied with Bonisagus, Tytalus and Tremere brutally slaughtered he
 
 When the Order formed, many assumed that Tremere would join House Tytalus. Tremere, however, bought powerful allies to the Tribunal — another necromantic remnant group from Dacia. Tytalus was unwilling to battle Tremere and his followers.
 
-### *The Final Founder*
+### The Final Founder
 
 Tremere was the youngest Founder and, although he would never admit it to anyone but himself, the weakest. During the Order's formation, Tremere sought ways to avoid becoming Tytalus's servant. He found allies among the other Founders, and then outside the Order.
 
@@ -4100,7 +4100,7 @@ Tremere attempted to subvert the Order's legal tradition. He aided Bonisagus in 
 
 
 
-### *The House View of Tremere in 1220*
+### The House View of Tremere in 1220
 
 Members of House Tremere do not venerate the Founder. They respect Tremere, but they are distant enough from him that they can analyze the flaws in his strategies. Many see him as a tragic figure, who reached for more than he could grasp. Although he was rightly doomed for his hubris, they have a sly affection for a person so willing to dare so much. This view is popular outside his House, also.
 
@@ -4113,7 +4113,7 @@ In a strategy stretching over decades, Tremere took control of vast sections of 
 A group of magi ruined his plans in 848. They broke the minds of Tremere's lieutenants, leaving him vulnerable to the many mages he had browbeaten into submission. The Primus of Guernicus arranged a truce between Tremere and his enemies. In exchange for his promise to cease his attempt to dominate the Order, Tremere's lieutenants were restored. To ensure Tremere kept his promise, the Primus of Guernicus removed his memory of who was responsible or where he had met them. Tremere agreed to have his memories monitored, to ensure he would find no way to recollect his foes.
 
 
-### *The House After Tremere*
+### The House After Tremere
 
 places of strength.
 
@@ -4123,7 +4123,7 @@ After a century, the leaders that had faced the Founder had passed away, and alt
 
 It is popular, in parts of the Order, to suggest that perhaps House Diedne did not deserve extermination.
 
-### *Why Did They Care?*
+### Why Did They Care?
 
 When rumors began to circulate that the members of House Diedne were practicing human sacrifice, most magi were unconvinced or disgusted, but only House Tremere felt driven to annihilate the druids. The Tremere say that this was a simple matter of principle, and many magi accept that explanation, but there was a deeper reason for their loathing of the Diedne wicker men. House Tremere's ancestors worshipped Aita, then Pluto, then Mercury. They served each god of the dead with devotion for centuries. Their tradition became secular because each god, in turn, abandoned them.
 
@@ -4135,7 +4135,7 @@ They don't think that gods are worth it.
 
 
 
-### *Amber Eyes*
+### Amber Eyes
 
 The Tremere returned sight to over a thousand blinded Bulgars with a single ritual, since this was the least expensive method. The new eyes the Bulgars grew were colored amber, the sigil of the maga who cast the ritual. Many of the covenfolk in Transylvania have inherited this eye color, which deepens with Warping. Children with these eyes are often named for the blind bard Thamyris, and are more likely to be homosexual than other characters.
 
@@ -4147,7 +4147,7 @@ At the end of the Schism, mundane warfare threatened the House's interests. In 1
 
 For around 60 years after the Schism, House Tremere became introspective again. Its leaders continued to interact politically with other magi, but its resources were spent in a reconstruction effort that was, with hindsight, excessive. The leaders of House Tremere knew that the Schism had devastated and impoverished the House, and could not be certain a further challenge did not await them. Many of the House's military magic items date from this time, built to replace items exhausted or destroyed in the Schism War. By 1071, House Tremere's leaders felt that their preparations against the absent leaders of House Diedne and easily corrupted Byzantines had become embarrassingly fulsome. Large numbers of Tremere magi begin to join multi-House covenants in the 1070s, in part to make the House appear less threatening to other magi.
 
-### *Mortal affairs*
+### Mortal affairs
 
 The Tremere have never formally decided to foment trouble among the nobility of their Tribunal but, on a purely local basis, they have tended to prevent power aggregating. This lack of powerful nobles has helped fuel an endless cycle of invasion and civil war. During the Twelfth Century, the Byzantine Empire invaded Hungary and Bulgaria, the two principal kingdoms in the Tribunal, over twenty times. Before 1185, patchy civil war was incessant.
 
@@ -4155,7 +4155,7 @@ In 1185 a pair of brothers, minor lords from near Tirnova, rebelled against the 
 
 The Bulgarian rebellion persisted under a series of kings leading to Ivan Asen II, the current Tsar of Bulgaria. Ivan II claims the title "Emperor of the Bulgars and Greeks" and is a skilled enemy of the Latins who currently occupy Constantinople. He wishes to take the capital from them, to serve as the center of his Bulgar-Greek Empire. The main factor protecting Constantinople from
 
-### *Peace Initiatives*
+### Peace Initiatives
 
 The previous Primus of Tremere gently supported the Asen rebellion, a policy the current Prima adheres to. This support was not formal alliance. The Primus simply directed that Tremere magi should assist local disputes to non-violent resolution. The Primus believed that stable monarchies would prevent brigandage, invasion, and the diabolism that accompanies widespread suffering. In Hungary, conflicts between the king, Andrew II, and his nobles are also gradually being resolved. The servants of Tremere magi have cordial dealings with many Hungarian nobles, so a constitutional system may develop. The daughter of Andrew II married John II in 1218, partially due to Tremere influence.
 
@@ -4179,17 +4179,17 @@ Single Tremere magi are sometimes found in covenants at the borders the House's 
 
 his armies, in the decade following 1220, is that it is the weakest of the four players in the game of empire on the Balkan Peninsula. Ivan is more worried about either Epirus or Nicea than the Latins.
 
-## *The House in 1220*
+## The House in 1220
 
 Tremere magi are usually raised in House covenants, and value the respect and company of their Housemates. They find reasons to meet each other between Tribunals, particularly Ceremonies of Welcome and funerals for their Housemates. Tremere magi gather for a few days before Tribunal meetings convene. Magi who have their own sigils gather at Coeris every ten years, to consider the future of the House. The House forms an extended, demanding family.
 
-### *Pragmatic Attitude*
+### Pragmatic Attitude
 
 Tremere magi are pragmatic almost to the point of pessimism. They believe that the world is not for the incautious, terrible things happen regularly, and those who prepare best survive. Those who do not prepare, who waste their time in frivolities, dishonor the sacrifices of other, better magi.
 
 Tremere magi are not as miserable as their philosophy might suggest. They enjoy the exercise of power and the study of the Arts. For the most part they love their parentes and apprentices and enjoy friendships. They pursue a variety of personal interests. Tremere magi simply believe that the House paid for these luxuries with blood. Those who have enjoyed them will pay again when necessary.
 
-### *Military Ethos*
+### Military Ethos
 
 The House maintains a state of military preparedness, because Tremere magi believe all sources of power require protection. They see the ability to defend themselves and their sodales as the basic test of maturity. When the House expects a long period of peace, as it does in 1220, it accumulates political and economic power. They see this storing up of materiel as insurance against future trouble.
 
@@ -4197,7 +4197,7 @@ The Doctrine, the Tremere method of war and philosophy for living, separates Tre
 
 Tremere magi consider it dishonorable to be unfit for war. The Tremere Doctrine emphasizes that a group in which each soldier carries his own gear travels faster than those which use draft animals, is able to redeploy into small sections, and recovers better from ambush. Many Tremere magi are able to swim, hike and fieldrepair equipment. The Tremere aesthetic prefers the lithe, athletic body. Tremere magae, in particular, look unusual to mundanes.
 
-### *Reverence for Order*
+### Reverence for Order
 
 House Tremere would like to rule the world. This attitude alienates many of their sodales. Their desire for domination is not, however, born directly from pride. Tremere magi believe that a global government would make life less chaotic. Fewer tragedies would occur, and crises would swiftly dealt with. Great accomplishments would be easier if magi pooled their efforts. The Tremere magi do not, however, trust anyone else to rule the world wisely.
 
@@ -4205,7 +4205,7 @@ Tremere's vision, a totalitarian empire, died in the Sundering. The magi Tremere
 
 The Magi of Tremere support the Order because, with a handful of gross exceptions, it has maintained peace between, and prevented diabolism by, the most dangerous people in Europe for many centuries. They don't think that its insular, manorial culture is the best way for magi to live or govern themselves, but other magi acquiesce to the Order, and it can be improved, however slowly.
 
-### *Extent*
+### Extent
 
 House Tremere dominates the Transylvania Tribunal absolutely. No Tremere proposal has failed to pass in over two hundred years. In 1220, 41 Tremere magi live in Transylvania, and 51 live in the other Tribunals, an outward-looking political posture. Another 20 magi and redcaps live in Transylvania as guests of the House. These are
 
@@ -4217,7 +4217,7 @@ The Transylvanian Tribunal is larger than House Tremere can effectively administ
 
 Young magi trained in the other Tribunals usually spend at least a few years in Transylvania before resuming duties in other Tribunals. This maintains the cultural cohesiveness of the House. Young magi acting without immediate support, for example those few who join forming Spring covenants just after their Gauntlet, were usually trained in Transylvania.
 
-### *Political Priorities*
+### Political Priorities
 
 ### **BLOCK VOTING**
 
@@ -4245,7 +4245,7 @@ House Tremere is interested in the abilities of the mystical groups beyond the O
 
 Tremere magi constantly seek to strengthen and enrich the House. The House claims many vis sites and sources of mundane wealth, and spares a portion of all
 
-### *Hospitality*
+### Hospitality
 
 Hospitality is the gift of somewhere safe to rest, goods required for a journey to continue, and defense against those wishing to attack the guest. The Tremere support the right of wizards to engage in War, but a Tremere magus hunted by a superior foe does not consider it dishonorable to hide in the sanctum of a senior Tremere magus. To do so is an admission that the younger magus is not an equal of their patron, but this is less embarrassing for Tremere magi than those of other Houses.
 
@@ -4260,7 +4260,7 @@ House Tremere interacts frequently with the groups protected from harm by the Co
 
 The House does not break the Code, according to its interpretation. The Tremere do not interfere with the mundanes, but do not consider honest trade interference, even if it advantages shrewd mundanes over cloddish ones. The Tremere do not molest faeries, but they often support certain faeries against others of their kind. The House is ambivalent about the Church, but tries to convince monasteries near covenants to sell their land, and hermits to settle as far away as possible. The House sees little difference between demons and gods. Their god used to carry a pitchfork, after all.
 
-## *Structure*
+## Structure
 
 The House has a simple structure. The Primus rules for life and appoints his or her own successor. The Primus selects highly effective subordinates, called exarchs, to oversee the House's affairs in one or more Tribunals. They manifest their schemes with the assistance of the experienced members of the House. These experienced members are older magi, in the autumn of their power. Experienced magi have skilled lieutenants who oversee projects for them. At the bottom of the hierarchy are newly Gauntleted magi. Members of the House do not have names for the ranks below exarch, but are aware they exist.
 
@@ -4346,7 +4346,7 @@ An experienced magus is one trusted to act, with little supervision, in the inte
 
 Some experienced magi are skilled in dealing with a particular threat, dark faeries for example. The House uses
 
-### *Material Aid in Your Saga*
+### Material Aid in Your Saga
 
 Storyguides and players should negotiate the degree of aid provided to Tremere characters.
 
@@ -4475,11 +4475,11 @@ The most important magus in the House, aside from the Primus, is the Legatus. Th
 
 
 
-## *Promotion by Force*
+## Promotion by Force
 
 The House compromises between a pair of promotional paths — one political, the other based on force. The House accepts that magi skilled at war must lead. Simultaneously, it knows that the logistical decisions of the House cannot be entrusted to people simply because they, personally, are powerful. The usual, political, method is given above: a magus progresses when his superiors feel he is right to progress. The alternative, which is entirely acceptable except in times of emergency, when disrupting the chain of command is anathema, is to claim one's due by a display of aptitude, through dueling. When dueling with other Tremere magi, it is dishonorable to use vis.
 
-### *Claiming the Name, to Move to the Role of Magus by Force*
+### Claiming the Name, to Move to the Role of Magus by Force
 
 The Gauntlet for House Tremere is a challenge, apprentice to master, for the title of magus. It is all-but unheard of for an apprentice to win the role of magus by force: doing so allows the apprentice to claim his sigil immediately. When the apprentice fails, a new name is granted instead. The new name tends to be grander than that used during apprenticeship, and is often chosen in consultation with the apprentice.
 
@@ -4489,7 +4489,7 @@ The master uses this certamen to display his apprentice's skills. The most senio
 
 Before the Gauntlet, a birchwood wand travels from the Primus to the tribunal's exarch, who gives it to the master. The parens gives this to the new magus, as their sigil. The young magus then asks their parens to "hold my sigil, and guide me in its prudent use". The parens accepts the birchwood wand and, if they do not hold their own sigil, sends it to their own parens, repeating the request. The young magus often acts as the sigil's bearer The conciliarius then sends the birchwood wand to the appropriate exarch.
 
-### *Claiming the Sigil, to Move to the Role of Experienced Magus by Force*
+### Claiming the Sigil, to Move to the Role of Experienced Magus by Force
 
 A magus's parens returns the sigil of their protégé after defeat in certamen, or at death. The protégé may challenge for their sigil, at a time of their choosing, once. After this, the magus may challenge at every Decennial meeting of the House. When the magus succeeds, he is usually presented his own talisman as his sigil. His birch wood sigil is returned to the magus's funerary niche. It is used to ignite the magus's funeral pyre.
 
@@ -4504,14 +4504,14 @@ A young magus who holds his own sigil is:
 
 The exarch or tribune selects which matters are trivial at each tribunal. A matter is not trivial simply because the House has no interest in the outcome. The tribune often wishes to trade support on such a matter for support on another issue. This makes the matter significant to the House. A weak exarch may declare significant matters trivial. A magus who refuses to vote with the House at tribunal is challenging the exarch for his role.
 
-### *Claiming the Tribunal's Dragon Banner, to Move to the Role of Exarch by Force*
+### Claiming the Tribunal's Dragon Banner, to Move to the Role of Exarch by Force
 
 The role of exarch is economic and executive, so disruptions to the exarchate distress the plans of the House. At the exarch's ascension, his senior colleagues meet. They debate who might be suitable to act as exarch if the post becomes vacant, agreeing to a pool of candidates who then duel for the role of heir. The exarch ensures that the heir is familiar with their plan for the exarchate. The
 
 
 
 
-### *Addled Secutor*
+### Addled Secutor
 
 The Archmagus Valerius is the current Secutor. Three months ago, an incident in a faerie forest damaged his mind. He is intermittently lucid, and has sought the aid of the player characters. His rival, Theodoros of Tytalus, has become aware of his injury. Theodoros has boasted that he intends to challenge Valerius to certamen, then claim he has the right to challenge the Prima.
 
@@ -4527,7 +4527,7 @@ To challenge an exarch is not within the normal course of ambition for a Tremere
 
 The Primus appoints and dismisses each exarch, so it challenges the primus's authority for a magus to remove an appointee. Sometimes the Primus simply selects the deposed exarch again and punishes the usurper. Primi have also, historically, accepted the new exarch, sent a third party to the tribunal as mediator or candidate, collapsed the disputed exarchate into a neighboring exarchate and, on one occasion, declared the challenger an Orbus and mustered the House to war against him. Even
 
-### *Dissent*
+### Dissent
 
 The House has never engaged in civil war but, at times, sections of the House have acted independently. This is not due to a failure of authority: it is always clear who is the Primus. Usually, dissent is due to a lack of charisma or coercion on the part of the Primus, and centers about an exarch.
 
@@ -4541,7 +4541,7 @@ A young player character living in a time of dissent may not, initially, notice 
 
 if the challenge is successful, and the Primus accepts them, the new exarch is ceremonially punished, to demonstrate that the authority of the Primus remains intact.
 
-### *Claiming the Sigil of Tremere, to Move to the Pole of Primus by Force*
+### Claiming the Sigil of Tremere, to Move to the Pole of Primus by Force
 
 Many Primi choose to retire. They assist the exarchs, but are usually left to their researches. If a Primus dies or retires, his legatus becomes Primus, and selects a new legatus.
 
@@ -4549,11 +4549,11 @@ At the Decennial the consiliari duel for the right to assess the competency of t
 
 The secutor may challenge the Primus as often as he wishes. It is impolitic to challenge more than once a year, unless an event renders the Primus inept. Similarly, the tradition of the House makes it usual for those who have defeated the secutor to challenge the Primus only once per victory. If the secutor dies, all interested Tremere magi gather at the next convenient event — such as a ceremony of welcome, funeral or tribunal — and duel for the privilege.
 
-## *Designing Magi of House Tremere*
+## Designing Magi of House Tremere
 
 Tremere magi are trained to be useful to the House. Virtually every magus is combat capable, and almost all have a field of special expertise. This allows their superiors to call upon the magus to solve difficulties for the House.
 
-### *Arts and Spells*
+### Arts and Spells
 
 Magi of Tremere usually desire to be excellent duelists, which means they specialize in four arts. This is because the other party in a duel can veto their rival's first choice of form or technique. Tremere was skilled in Rego, particularly with Mentem, and his descendants commonly select these two Arts. Rego Mentem spells lack direct offensive power, so many Tremere magi choose secondary arts that aid magical violence. In the current House, Muto is slightly more popular than the other techniques, and Terram, Animal, Corpus and Imaginem are all popular forms.
 
@@ -4572,7 +4572,7 @@ Some Tremere magi are skilled at controlling dreams. Many people in Mythic Europ
 
 
 
-### *Ghostly Armies*
+### Ghostly Armies
 
 Millions of pagans have died traumatically in Europe, and a skilled necromancer can summon many of them at the sites of their deaths. During the Schism, for example, a small group of necromancers lured a covenant of Diedne magi into battle at Kalkriese. The druids did not realize this was the site of one of the preliminary skirmishes in the Varius Disaster, which killed 60,000 Roman legionaries. Their ghosts demoralized and scattered the druids, who were then defeated in detail.
 
@@ -4580,7 +4580,7 @@ During the Schism, Primus Cercistum made many claims about his ability to call u
 
 Young magi are also encouraged to find remains, which summon ghosts away from their burial sites. The senior necromancer in the House, for example, carries a torc crafted from the teeth of a Scythian chieftain and his warriors, which allows him to summon thirty-four ghostly horsemen, away from the site of their internment. Kore, the fifth and only necromantic Prima, created the torc and for years afterward had young magi looking for an enormous bronze vessel made from the census arrowheads of the Scythian army. She hoped to bring an entire nation of dead to the battlefield. Kore was the first Primus replaced by force, on the grounds of insanity. Some necromancers search for the skull of Guorna the Fetid, hoping to learn the techniques of the archnecromantrix. Others fear she would find a way to claim the body of her pupil.
 
-### *Varieties of Ghost*
+### Varieties of Ghost
 
 Tremere magi have noted that there are many types of ghost. The commonest, those linked to the magical realm, are tied to the world either by unfinished business, or by a burden of sin. Many ghosts in Transylvania can construct permanent, solid forms. These are indistinguishable from the dark faeries of Western Europe. Why certain ways of dying create faeries, while others create ghosts, is not clear to Tremere magi. They are interested in sponsoring research into the question. Tremere magi are forbidden to summon the ghosts of the damned, because it breaches the Code. Many Tremere consider saints to be particularly powerful ghosts, but summoning saints does not work.
 
@@ -4894,7 +4894,7 @@ The webs of ethereal fishermen do not catch humans. Contact with the web does no
 
 Tremere magi are fascinated by the way that these spiders skirt the barrier between the material and ethereal states. They use controlled swarms of spiders to imprison ghosts. Tremere magi farm these spiders for their beautiful silk, from which they make formal robes. Their small, farmed colony is fed with pure Mentem vis. The silk becomes shimmering and translucent when dyed. Some Tremere believe there is a complete ethereal ecosystem, which magi glimpse only tangentially.
 
-### *Virtues and Flaws*
+### Virtues and Flaws
 
 Some other virtues have a particular resonance with the history of the House:
 
@@ -4916,7 +4916,7 @@ The Clumsy Magic flaw would cripple a Tremere magus in sagas that use the duelin
 
 The Favors flaw creates an obligation in addition to that caused by membership of the House.
 
-### *Abilities*
+### Abilities
 
 Members of House Tremere value Abilities that allow them to serve in times of crisis, and acquire power during peace. Many Tremere are masters of Intrigue and Bargain skillfully. Magical combat skills, like Penetration, Concentration, Parma Magica and Finesse are valued. Younger magi are expected to be able to fend for themselves on the Wizard's March, and so they develop some skill in Survival, Swim, Athletics (hiking) and Profession
 
@@ -4925,7 +4925,7 @@ Members of House Tremere value Abilities that allow them to serve in times of cr
 
 (soldier). Most cannot Hunt well, since the Tremere doctrine discourages foraging. A Tremere who is being groomed as a specialist in an area concentrates on skills that will aid in his missions. Leadership is useful in older magi and those who lead mortal forces.
 
-### *Magical Items Popular in the House*
+### Magical Items Popular in the House
 
 Tremere magi expect to carry their own gear, so they prefer small magical items, crafted out of expensive materials. Many members of the House believe that Tremere invented the wand as a more manageable version of the staff. Tremere magi like rings, for their portability and because they can be comfortably worn while sleeping. Pouches that allow a magus to carry a campaign's worth of food on his belt and flasks that draw water from nearby clouds are popular. Sacks that reduce the bulkiness of bedding and camping gear are valuable.
 
@@ -4939,7 +4939,7 @@ Rhodocrosite crystals are rare and fragile, so polished pebbles of the banded fo
 
 Opal occurs in significant European deposits only near Cserwenitsa in Hungary. A House covenant ensures House Tremere's supply. It assists magic related to the eye: ophthalmic medicine, illusions and invisibility. Blonde women who wear opals retain their hair color. Opal scratches easily, so it is not used in items likely to suffer damage.
 
-### *Specialist Roles*
+### Specialist Roles
 
 Each Tremere magus is trained in a role that serves the House. Some of these roles are descended, teacher to student, from functions in the order of battle used during the Schism. These have adapted to meet the contemporary needs of the House. Other specializations have developed to complement them.
 
@@ -5005,7 +5005,7 @@ These magi, descended from the Schism scouts, are trained to move through potent
 
 These magi are descended from a small corps of tricksters who, during the Schism, fed false information to House Diedne's human supporters, created bogus targets, hid Tremere scouts, and confused enemy signals. In the modern house, the signalers are the magicians who speed communication, although most dabble in the tricks of their illusionist ancestors. Of all branches of the House, Signalers seem to be most cheerful.
 
-### *Certamen reputations*
+### Certamen reputations
 
 A character encountering another duelist may roll on the following table to determine information about their potential foe:
 
@@ -5029,7 +5029,7 @@ Both members of House Tytalus +2
 
 Both members of House Tremere +3
 
-## *Dueling*
+## Dueling
 
 Certamen is a peaceful way of resolving disputes. If the two duelists are closely matched both seek to avoid Wizard's War, since the outcome is uncertain. If one is clearly inferior, he will submit rather than face death. There is less embarrassment, among militant magi, in concession after defeat at certamen than in negotiated concession. To reconsider one's position after loss at certamen is something other than cowardice.
 
@@ -5049,7 +5049,7 @@ Even a skilled duelist may develop a poor reputation if they use their abilities
 
 and if the challenge should be for love. Victory by first blow or surrender is usual, because Tremere magi consider it vulgar to force your rival to beat you unconscious. Other significant factors include the selection of venue, the wording of the challenge, and the acceptance or rejection of arts, the choice of final spell, the way a loser faces the spell, the words exchanged after the duel concludes and the actions of the defeated magus which demonstrate their acquiescence to the outcome. A magus must be powerful to attract respect, but one who demonstrates exquisite self-control is admired.
 
-### *Styles of Certamen*
+### Styles of Certamen
 
 Magi practice certamen in a variety of styles, called schools. Each school has a unique pattern of strengths and vulnerabilities. It is not usually possible for a magus to be a dedicated follower of more than one school because dueling is so dependent on trained reactions that attempting to master two styles makes a magus ineffective with either. Magi can, however, study with a member of a different school for a season and learn imperfect imitations of their signature techniques.
 
@@ -5158,7 +5158,7 @@ The Style of the Spear is based on wearing down an enemy's magical resistance du
 
 ful spear attack on the shared illusion varies with the sigil of the duelist and the context of the illusion, but sometimes looks like a long cylinder skewering the champion of the other duelist.
 
-## *New Spells*
+## New Spells
 
 ### **CREO ANIMAL SPELLS**
 
@@ -5190,7 +5190,7 @@ This spell allows a magus to read the thoughts of an animal, and give it directi
 
 **R:** Arc, **D:** Sun **T:** Ind, **Level 20**
 
-### *Shape and Material Bonus Table Additions*
+### Shape and Material Bonus Table Additions
 
 **Amber:** +3 Controlling movement, +2 Corpus. **Human Skull:** +4 destroy human body, +5 destroy human mind, +5 destroy or control ghosts, +10 destroy of control ghost of particular skull.
 
@@ -5338,7 +5338,7 @@ This spell, created by the Architects of Tremere, makes a circle of wall transpa
 
 (Base 3, +1 Touch, +2 Ring)
 
-### *New Virtues*
+### New Virtues
 
 ### **DHAMPIR**
 
@@ -5435,9 +5435,9 @@ A Harenarius may choose to fight as a member of one of his schools at the commen
 Nyktophylaxes, "night guards," are magi whose magic of Sun duration fails at noon and midnight, rather than dawn and dusk. Their name comes from their role as sentries during the Schism War.
 
 
-### *Appendix*
+### Appendix
 
-# *Timeline*
+# Timeline
 
 This list compiles the dates important to the four True Lineages. All dates are AD and conform to the mundane measuring of history rather than the Hermetic.
 

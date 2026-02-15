@@ -48,17 +48,17 @@ A few years later Julius and Lavinia take the first step of seeking volunteers f
 
 At this point the player characters have a number of options.
 
-### *Keep Quiet*
+### Keep Quiet
 
 The cautious option may initially be the best. Nevertheless, in the long term this strategy may bring ruin as whoever wins the resulting conflict will not appreciate the covenant's neutrality.
 
 **Story Seed (Vindolanda, anti-crusader):** These developments place the covenant of Vindolanda in an extremely difficult position. Assuming that Vindolanda's secrecy has been maintained, no magus outside the covenant suspects that Vindolanda is located in Iceland. Do the magi maintain their secrecy or do they reveal their hand and try to convince the Order that the death of Hadrianus was nothing to do with the Order of Odin?
 
-### *Aid the Hermetic Campaign*
+### Aid the Hermetic Campaign
 
 This may be the natural choice for characters ignorant of the true situation in Iceland. Even if they have had friendly contact with the galdramen hreppur, the player characters might decide that their duty to the Order overrides any concerns over the justice of the conflict. On the other hand, they may simply assume that the Order will be victorious and wish to be on the winning side. Alternatively, fear is a contagious thing. The destruction of Hermetic covenants in Norse lands happened and who caused these events if not the Order of Odin? The galdramen hreppur might seem harmless, but perhaps this is just a cover.
 
-### *Negotiate Peace*
+### Negotiate Peace
 
 If the characters enjoy a friendly relationship with the galdramen hreppur, they may wish to calm the Order's fears and negotiate a peace. This is extremely difficult, especially for young magi without a great deal of political or magical power. For Vindolanda, making the attempt necessitates revealing that the covenant continues to exist over three hundred years after its reported destruction. However, if magi of Vindolanda stand up to be heard, others stand with them. A number of magi have already claimed that the Order of Odin is a myth, only to be threatened and accused of betraying the Order by members of Houses Flambeau and Guernicus.
 
@@ -98,7 +98,7 @@ If Bard and Pan Caudarax are informed of the invasion, they are better prepared 
 
 Given that foresight talents are not uncommon among Icelandic magicians (Premonitions, Visions, Divination), there is a great disquiet over predictions of death and destruction. The report by the player characters gives firm information on the nature of the threat. The magi are asked what the galdramen hreppur might expect from Hermetic magi and why they are to be attacked.
 
-# *Vindsvall*
+# Vindsvall
 
 **Characteristics:** Cun +5, Per +10, Str +10, Sta +15, Dex +15, Qik +15
 
@@ -138,7 +138,7 @@ If only grogs and companions are sent, they escape the attention of the landvaet
 
 
 
-## *The Gray Bull*
+## The Gray Bull
 
 **Characteristics:** Cun +0, Per +5, Str +30, Sta +30, Dex +5, Qik +5
 
@@ -184,7 +184,7 @@ Unless informed by player characters, none of the crusaders is aware of the natu
 
 Julius is primarily an Ignem specialist, and his most powerful spells are designed for hunting renounced magi. However, his knowledge of Vim is no more than average and he has only learnt Perdo Vim spells against demons. Similarly, Lavinia is an Intéllego specialist, and although skilled at wards and necromantic magic, she has no offense spells against magical spirits.
 
-## *The Host*
+## The Host
 
 **Characteristics:** Varies **Magic Might:** 20 to 50
 
@@ -300,7 +300,7 @@ From this moment, the landvaettir lords give attendants to all galdramen on Icel
 
 **Story Seed (pro-crusader):** Julius commands the player characters to seek out a Hermetic covenant rumored to be present in the western quarter. With spirits as well as mundanes on the lookout for foreigners, this task is difficult. Any magus caught outside the protection of the *Aegis of the Hearth* at sunset or sunrise may be attacked by a landvaettir while their Parma is down. Any grog or companion without
 
-## *Gull Hellirsson*
+## Gull Hellirsson
 
 **Characteristics:** Int +3, Per +1, Pre –1, Com 0, Str +23, Sta +22, Dex +2, Qik +5
 
@@ -352,7 +352,7 @@ If this happens over a hundred giants storm across the valley and attack the cru
 
 At Vindolanda, the player characters either defeat Julius or escape. Landvaettir aid the player characters by throwing themselves before the spells of the Hermetic raiders. If the players are still losing, earth landvaettir may be able take them away though the mountain. Alternately they might be captured or it could be good oldfashioned "total party kill".
 
-### *Crusader Victory*
+### Crusader Victory
 
 If Bard is defeated the Hermetic forces continue their campaign and clear Iceland of its native magicians. During this exercise Lavinia becomes increasingly anxious as all her magical investigations lead to the conclusion that none of the Icelandic magicians knew anything of an Order of Odin and had never made any attack on the Hermetic covenants. Depending on player character actions, policy may change and the remaining Icelandic magicians be offered membership of the Order of Hermes. Whether any Icelandic magicians are left to accept at this point is for the storyguide to decide.
 
@@ -364,7 +364,7 @@ If the hreppur attempted to join the Order the Grand Tribunal may eventually rec
 
 **Story Seed (pro-crusader):** The magical war is over, but a hornet's nest of mundanes and churchmen has been stirred up. Without any evidence of a threat to the Order, the whole basis of the campaign seems empty. The anger of the mundanes may prompt Hermetic charges. If the hreppur attempted to join the Order then without evidence that they were a threat, all the crusader magi may be in serious trouble. Perhaps it is time to mitigate responsibility by negotiating a peace?
 
-### *Bard is Victorious*
+### Bard is Victorious
 
 If Bard succeeds and Julius still lives, the archmagus finds himself without a base. At sunset he is attacked and captured by Bard's forces. Yfel lords then take him away for their long and inventive amusement.
 
@@ -441,7 +441,7 @@ If the player characters supported the crusade, the settlement allows them to re
 **Story Seed (general):** If the galdramen hreppur joins the Order, Albinus works to integrate galdor magic into Hermetic Theory. Should he succeed galdramen may be taught Hermetic Theurgy and Hermetic theurgists may learn to summon landvaettir.
 
 
-## *Credits*
+## Credits
 
 **Writing:** Mark Shirley and David Woods
 

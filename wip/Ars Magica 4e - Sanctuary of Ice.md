@@ -10,7 +10,7 @@ This supplement takes familiar elements of Hermetic culture and rebuilds them, w
 
 
 
-## *Sanctuary of Ice* CREDITS
+## Sanctuary of Ice CREDITS
 
 **Author:** Timothy Ferguson
 
@@ -28,11 +28,11 @@ Kimbrough
 
 **Playtest Coordinators:** Adam Bank, David Cake, David Chart, Jeremiah Genest, John Kasab, Eric Kouris, Michaël de Verteuil, Pekka Marjola, Neil Taylor
 
-#### *Dedication*
+#### Dedication
 
 *For my family*
 
-#### *About the Author*
+#### About the Author
 
 Timothy Ferguson lives in Biloela, Australia. During the completion of this book he earned three degrees and lived in three different cities. It's traditional for librarians in Australia to spend a couple of years banished to obscure hamlets in the Outback, where there is so little to do that he might write another book, or finish another degree.
 
@@ -73,7 +73,7 @@ Errata for the first printing of the fourth edition of **Ars Magica** is availab
 
 Saint Paul, Minnesota info@atlas-games.com • www.atlas-games.com
 
-## *Sanctuary of Ice Table of Contents Sanctuary of Ice Table of Contents*
+## Sanctuary of Ice Table of Contents Sanctuary of Ice Table of Contents
 
 | Chapter 1: Introduction4<br>Saga Guide4               | Customs66<br>Magi67                        |
 |-------------------------------------------------------|--------------------------------------------|
@@ -122,11 +122,11 @@ Two of the seven official covenants haven't been described in this book — they
 
 Some of the chapters in the Alps draw all of their members from a single Hermetic lineage. The Close Family Ties virtue could be applied to this situation, and gives the characters a reason to work together and a cluster of supportive non-player characters with whom to interact. If you use this method, the 'family' will be an ongoing source of stories in the saga: magi trained by your parens's parens will ask for little favors, their filii will need to be extricated from difficult situations, and enemies of the senior members of the lineage may target their younger filii. This style of saga works best for those Houses whose members have a broad variety of talents.
 
-#### *The Patron Virtue*
+#### The Patron Virtue
 
 This virtue, when selected for a new magus, implies that he has the support of a powerful figure. In negotiation with your troupe, your character's patron can be defined as one of the leading magi described in the covenant chapters. The character's place in the Alps has been secured through nepotism. You have a place, but you need to work hard to earn the respect of your peers.
 
-#### *The Heir Virtue*
+#### The Heir Virtue
 
 The rulership of some chapters, or even one of the blank covenants, might be passed along a Hermetic line of descent. Characters with the Heir virtue might negotiate with the troupe so that they will, one day, have a free hand in the running of an Alpine chapter house. In this style of saga the player characters may live elsewhere until the heir comes into his inheritance, usually after the first story arc in the saga.
 
@@ -135,11 +135,11 @@ Older magi in the lineage can shamelessly manipulate heirs with threats to desig
 
 
 
-#### *Public Vis Source: a New Virtue*
+#### Public Vis Source: a New Virtue
 
 This virtue is suitable for those magi whose right to harvest from a vis source has been acknowledged in the Peripheral Code. It is a variant of "Secret vis source". It differs in three ways: it is more expensive (+2), it provides more vis (12 pawns) and everyone who can read the Code knows precisely where you get the vis from. Magi with this virtue can't be charged with Hermetic vagrancy — the Greater Alpine crime of having no vis supply — because they are independently wealthy. They automatically have a chair at tribunal, as discussed on page 9. Discuss with your troupe the placement and type of your vis source.
 
-#### *Start with Older Magi*
+#### Start with Older Magi
 
 An option is to start the saga with magi who are substantially older than usual. This style of saga is usually suitable only for experienced players.
 
@@ -236,7 +236,7 @@ Roman fathers had the right to kill children who displeased them, and the shadow
 The unwritten right of a magus to kill his progeny has a converse duty in the Alps. Some ancient magi, desperate for the vis to allow them to brew increasingly-ineffective longevity potions, attack their sodales. This is considered one of the forms of degradation and infamy that a dutiful filius should protect his parens from — generally by calling the other filii together and simultaneously
 
 
-## *Pietro continues…*
+## Pietro continues…
 
 Ostracism's not a Roman thing originally, but yes, each tribunal there's a secret ballot and the one with the most votes against him has to leave the Greater Alps for twenty-one years or be Marched. No Primus of Criamon's ever been ostracized, but the Jerbitons go, because they designed the system. You are allowed to just drop a blank sherd in the pot though. Sometimes no-one goes. Exile ends the day before Tribunal, so some magi are ostracized a second time…
 
@@ -328,7 +328,7 @@ The tendency toward emigration, like every other element of alpine Hermetic cult
 
 Emigration is also claimed to be good for the Order. The Alpine system regularly seeds new covenants at the edges of Hermetic influence, in Hibernia, the Levant, Africa and the steppes of Russia. It encourages young magi to put their lives on the line in border skirmishes in Iberia and Palestine. Even if these covenants fall, as many do, these sites become valuable foundations for the next wave of Hermetic colonizers. The Alps also acts as a sink for powerful selfabsorbed magi, drawing them out of the geopolitics of the frontier tribunals. This acts as a brake on conflict there. Finally, the Alpine covenants have the most experience in, and least cultural resistance against, euthanizing powerful magi whose need for vis makes them dangerous to their sodales.
 
-#### *Preparation for Sending a Filius Away*
+#### Preparation for Sending a Filius Away
 
 Most parentes do not simply abandon their filius after the Gauntlet. In the two or three years prior to their presentation, the parens communicates with members of their House in other tribunals, and attempts to place the young magus with a suitable covenant. Should this prove impossible, they contact other magi with apprentices of similar age, and suggest that they informally sponsor the formation of a new covenant. They then consult libraries and members of House Mercere to determine a suitable site, and sometimes arrange for one of the parentes to inspect possible locales. On rare occasions, a parens's covenant agrees to assist the new foundation, in exchange for a seasonal payment of vis.
 
@@ -343,11 +343,11 @@ Younger magi are encouraged to leave, but aren't sent away empty-handed. Most co
 
 When influential masters have selected a site for the group to settle, their guide is often a non-magical Redcap. If an earnest attempt is being made to found a new covenant, experienced mundane personnel will accompany this expedition, or follow on immediately after letters confirm that the site has been secured. At minimum, these include an autocrat and a skilled soldier to serve as turb captain.
 
-#### *When They are Called Back*
+#### When They are Called Back
 
 Each Alpine covenant can offer membership to magi, although they have different criteria for assessing candidates. The formal requirements for the membership of each covenant are given in a later chapter, but there are certain unspoken rules which are observed by all covenants. Magi who are publicly known, or strongly rumored, to have the following qualities attract special interest, either positive or negative.
 
-#### *Positive qualities*
+#### Positive qualities
 
 Has bound a familiar
 
@@ -359,7 +359,7 @@ Exudes vis, or has inherited a public vis source
 
 Owns powerful magic items Is a prolific author of prestigious works Is a skilled negotiator Has served as a hoplite Has Hermetic Prestige
 
-#### *Negative qualities*
+#### Negative qualities
 
 Has declared Wizard's War unnecessarily Spends vis in study at too young an age (in preference to researching from books)
 
@@ -375,25 +375,25 @@ Incursions from Transylvania, and raiding of vis sources in the Bavarian Common,
 
 Dividing the enemy is the policy of offering great rewards to a single party in exchange for betraying their allies in the
 
-## *Formal Clothing for Magi in the Alps*
+## Formal Clothing for Magi in the Alps
 
-#### *Toga Virilis*
+#### Toga Virilis
 
 The toga virilis is unornamented and white. It is presented to a magus directly after his acceptance into the Order, along with his sigil, but has no mystical function. It is a symbol of adulthood, and membership of the Order's decision-making body. Any ornamentation or ostentation is considered gauche. Unlike early Romans, almost all Alpine magi wear tunics under their togas; short sleeved for men, longsleeved for women. Togas are worn with shoes or boots. Romans wore sandals about the home, not to public events, and magi tend to follow this practice because snow makes sandals uncomfortably cold and sticky.
 
-#### *Praetexta*
+#### Praetexta
 
 A seamless toga with a purple stripe, this is worn by apprentices on extremely formal occasions. These include examinations, ceremonies of Welcome and the annual raising of their covenant's Aegis. Roman children had *bullae,* small gold charms, circular and marked with crescent moons, which were though to bring luck. Most apprentices have a *bulla*, which is inscribed with the name and covenant of their master. A few of these trinkets have been enchanted with useful effects. The toga praetexta is also worn by magistrates, and is worn by the Quaesitores on formal occasions. Many change into it just before the event, and then change out directly afterward, since the garment is slightly more restrictive than many magi like.
 
-#### *Pulla*
+#### Pulla
 
 The pulla is a brown or black toga, worn, in ancient times, by the poor. Among Hermetic magi, it is worn as a sign of mourning. Certain aggressive magi don the pulla when dispatching the Tokens of War, and continue wearing it until the third new moon.
 
-#### *Trabea*
+#### Trabea
 
 The ancient Roman emperors wore the purple toga, the trabea. No Alpine magus will wear a purple toga, because to do so would be to declare oneself superior to one's sodales — their ruler. Abuses of good taste appear in other tribunals occasionally.
 
-#### *Stolae*
+#### Stolae
 
 The classic Roman dress for adult women was the stola, which all but covered the body. Female mages in the Alps wear it, often covered by a robe called a palla, because it is so much warmer than a toga. When in a stola, women can wear sandals, because their feet are invisible, but most wear ankle-boots. The stola is traditionally worn with a veil that covers the lower face. Female mages, for whom the strict Latin term is *sagae*, sometimes wear togas. Roman women only wore togas on the night before marriage, but some sagae from militaristic Houses find the stola a bit fiddly, even for the limited business of Tribunal, and so have adopted masculine dress.
 
@@ -409,7 +409,7 @@ For example, the Greater Alpine Tribunal has been a strong supporter of the Novg
 
 Instead of designing a redcap as either a companion or an artless Hermetic magus, troupes might instead allow redcaps to be designed as mythic companions. A mythic companion, as described in Hedge Magic, takes the player's magus slot, but has abilities beyond those of a standard companion. The following description is a baseline: many mythic redcaps will stray from it. It is correct
 
-## *The Red Cap*
+## The Red Cap
 
 The red cap of office, worn by members of the House of Mercere, is the pellus. This is a Latin cap of liberty. Magi desiring to parley wore it, during the period between the fall of the Cult of Mercury and the founding of the Order of Hermes, much as soldiers raise a white flag. Mercere changed his House's symbol to the pellus after his final transformation, to suit its new direction.
 
@@ -417,7 +417,7 @@ The triangular badge on the red cap is the original symbol of House Mercere. It 
 
 for redcaps trained at Rorschach, but redcaps from other tribunals will have different abil-
 
-#### *A note in the diary of Esperance, follower of Verditius*
+#### A note in the diary of Esperance, follower of Verditius
 
 The Whitlam, to which I earlier found reference, was a magus two generations descended from the Founder Mercere, and of his magical lineage. Although others had held this opinion previously, he was the first to enunciate a doctrine that has given his name to many of the magic items of House Mercere.
 
@@ -489,7 +489,7 @@ Tarragon Vale's members vanished over a decade ago. In their absence, the Covena
 Hermetic magi have noticed that declarations of wizard's war, in the Alps, are more common in March than any other month. They attribute this to a sort of cabin fever suffered by magi who spend winter brooding over some perceived slight, then make declarations of war when the weather breaks. Since declarations take a month to come into effect, a disproportionate number of Wizard's Wars begin in late April — called the Frustration Week. Hermetic magi traditionally give each other gifts in Frustration Week. Those covenants which have trades of vis written as treaties into the Peripheral Code usually deliver to each other during Frustration Week, which makes it a busy time for redcaps.
 
 
-#### *Fetiales*
+#### Fetiales
 
 Although the covenants of the Alps have never been to war, individual wizards sometimes come to blows. The task of carrying their declarations falls to redcaps from Rorschach. When delivering these messages, redcaps always travel in threes, with a wizard of Mercere as the group's spokesman. In this role, the messengers are called fetiales, after the priests who would travel from Rome to another country so as to declare war upon it. It is traditional for one of the fetiales to carry a bag of salt, another a bag of coal, and the third — the leader — a complaint, which is the letter declaring and usually justifying the declaration of war.
 
@@ -529,7 +529,7 @@ Bids are taken in Vim vis, which can be problematic, since it allows magi to spe
 
 Hermetic magi have a decimal currency system for vis. The basic unit is the pawn, ten of which make a rook. Ten rooks make a queen, but this is usually only a unit of account. There is an older system, based on Roman currency, in which four quarters make a circle, and 25 circles make an aureaus. A circle, then, is four pawns of vis, which have usually been infused into a finger-ring or a flat metal disc about the width of a human palm. Contracts are written in circles and quarters in the Alps, because the Tremere invented the chess system, and the Alpine magi resent them. Younger magi, from other Tribunals, consider using circles slightly pretentious.
 
-#### *Midsummer's Eve (13th)*
+#### Midsummer's Eve (13th)
 
 On Midsummer Eve most Alpine chapters renew their Aegises, since it is so much more pleasant than Midwinter's Eve. This is also a night for gathering fern seeds (see page 100).
 
@@ -537,13 +537,13 @@ On Midsummer Eve most Alpine chapters renew their Aegises, since it is so much m
 
 ## August
 
-#### *Boot Burning (19th)*
+#### Boot Burning (19th)
 
 Jerbiton rejoined his mortal family on this day, hundreds of years ago. To demonstrate that his roaming was over, he burned his shoes in the small courtyard before the villa at Valnastium. Magi from House Jerbiton send gifts to their filii on this day, have some sort of feast, and burn worn-out shoes. This practice is slowly spreading to other houses, through the multi-house covenants. Jerbiton artists depicting the boot-burning often title their works to make reference to the return of the Biblical prodigal. This confuses churchmen and suggests that the young Jerbiton may not have been of sober, studious disposition.
 
 ## September
 
-#### *Baker's Day (5th)*
+#### Baker's Day (5th)
 
 Hermetic marriages usually take place soon after the fifth day of September. The fifth day of autumn was Jerbiton's wedding anniversary. He wrote a lengthy poem, considered a masterpiece, extolling the virtues of the day, as a metaphor for the virtues of his lovely wife. Jerbiton's wife is one of those puzzling figures from the Order's early history. Her name, Miriam, is one of the few points about her on which later scholars, and artists, agree — another is that Bonisagus loved her honey cakes and that Jerbiton took a basket of them to the first tribunal.
 
@@ -555,13 +555,13 @@ Confarreation is a marriage by contract, signed in the presence of ten witnesses
 
 ## October
 
-#### *Rauhnachte*
+#### Rauhnachte
 
 In Austria there is a festival late in October called Rauhnachte. On Rauhnachte some animals gain the ability to speak, and other magical powers. Rauhnachte is a traditional day of celebration for the familiars throughout the Tribunal. It is celebrated in a variety of ways at different covenants, for example the cats of Valnastium play a complicated scavenger hunt through the covenant's network of Hermes Portals. Bjornaer magi also have an affinity for Rauhnachte and withdraw from society on the day, but as with much of their House's tradition, what they do is not discussed.
 
 ## November
 
-#### *Games*
+#### Games
 
 Each year, in the period between the beginning of winter and the spring equinox, the Roman people celebrated sixty-seven days of games, in honor of various gods. Additionally, they held games every five, ten and hundred years. Alpine magi continue their tradition, with two minor changes: there are usually only four days of games at any covenant in the season and grogs are not deliberately killed.
 
@@ -574,11 +574,11 @@ The Romans had two other sets of games, the Decennials (each decade) and Secular
 
 ## December
 
-#### *Midwinter*
+#### Midwinter
 
 Most Hermetic covenants in other tribunals renew their Aegis in the depths of winter. This has never seemed a sensible policy in the Alps, because the most dangerous faeries and elementals are active in the winter, and at midwinter are at their height of influence. Not to mention that it is very cold.
 
-#### *Childermas (28th)*
+#### Childermas (28th)
 
 Ghosts of dead apprentices are said to haunt heir masters on Childermas, so its usual to cast "Lay to Rest the Haunting Spirit" on dead apprentices.
 
@@ -603,7 +603,7 @@ The Criamon are hospitable to visitors, and will allow other magi to come to the
 
 The magus who agrees to act as the visitor's tutor sometimes requests favors in exchange, but rarely seeks commodities as usual as money or vis. The visitor must be vouched for, financially, by another covenant, so that the Criamon do not
 
-## *The Cave of Twisting Shadows*
+## The Cave of Twisting Shadows
 
 **Symbol:** A stylized human eye, with the symbol for infinity as its pupil.
 
@@ -629,7 +629,7 @@ The magus who agrees to act as the visitor's tutor sometimes requests favors in 
 - Viscus filius Circum Perfico, follower of Criamon
 - Esther filia Gribbinus, follower of Criamon is arguably also a member…no one is sure.
 
-#### *Site –3*
+#### Site –3
 
 **Access Quality:** 0
 
@@ -643,7 +643,7 @@ The magus who agrees to act as the visitor's tutor sometimes requests favors in 
 - Magic items kept in the upper levels of this regio degrade, which makes it impossible to create labs with enhancements beyond +1 (–5)
 - All Enigmatic Wisdom rolls in the regio gain a +2 bonus. (+5)
 
-#### *Buildings +3*
+#### Buildings +3
 
 **Size:** +8. The covenant could house 18 magi and 40 specialists immediately. When Criamon magi gather from throughout Europe, they live as specialists, that is, they don't have labs and private rooms. Temporary facilities are required for this influx.
 
@@ -651,7 +651,7 @@ The magus who agrees to act as the visitor's tutor sometimes requests favors in 
 
 **Repair:** Average
 
-#### *Defenses –3*
+#### Defenses –3
 
 **Site:** All but unreachable from the mundane world but extremely easy to approach or assail from all "directions" from the land of magic (–8)
 
@@ -663,13 +663,13 @@ The magus who agrees to act as the visitor's tutor sometimes requests favors in 
 
 
 
-#### *Stores –2*
+#### Stores –2
 
 **Vis:** 100 pawns (0) **Supplies:** average (0)
 
 **Reputations:** Full of dead, insane or dead *and* insane people (–3), the Order of Hermes (–6)
 
-#### *Relations 0*
+#### Relations 0
 
 **Allies:** The Cave lies at the center of the spiritual life of Criamon magi. Were it to be seriously threatened with destruction, many would rally to save it, or at least rebuild it afterwards. This does not, however, lead them to assist the Cave in less desperate times. (0)
 
@@ -680,7 +680,7 @@ The magus who agrees to act as the visitor's tutor sometimes requests favors in 
 
 **Contacts:** Various Criamon magi, but these are contacts of the magi of the Central Clutch, through links between parens and filius (0).
 
-#### *Improvement*
+#### Improvement
 
 **Income:** nil (0)
 
@@ -688,7 +688,7 @@ The magus who agrees to act as the visitor's tutor sometimes requests favors in 
 
 **Inhabitants:** (+9) Most of the covenant's inhabitants are technically dead.
 
-#### *Library*
+#### Library
 
 The ghostly population of the covenant serves in lieu of a library, although some books are kept for trade. **Spells:** Equivalent to about 2100 levels of spells, remembering that magi need to get the ghost to agree to teach them. (+2)
 
@@ -698,7 +698,7 @@ The ghostly population of the covenant serves in lieu of a library, although som
 
 36/–56
 
-#### *Mystical Attributes*
+#### Mystical Attributes
 
 **Aura:** a continuous series of regiones linking the mortal and magical realms, but for practical purposes no laboratory can be used in the ninth level of the regio. (+15)
 
@@ -720,7 +720,7 @@ Visitors may be alarmed by the food provided to the covenfolk, much of which is 
 
 Primacy is an onerous duty. The selectee agrees to delay their ascension into Twilight, to help others comprehend the Enigma. As each primus nears Twilight, the Criamon gather, and then move in procession, through the labyrinthine halls of Twisting Shadows, to the eighth level of the regio. After a brief ceremony, which summons the ghosts of the previous primi, a magus from another House ritually murders the current primus. Why they ask an outsider to perform this function is unclear, but the Criamon consider the offer of this role a mark of deep respect.
 
-#### *Election*
+#### Election
 
 The Criamon, the ghosts of the Primi, and ritual witnesses from other Houses proceed to the ninth level of the Cave. The Criamon, past and present, then enter a communal trance. When a magus interprets their vision as marking them for Primushood, they stand and announce the conclusion of the process. All Criamon who have an Enigmatic Wisdom score of 7 or more are expected to be present for the selection ritual. They are considered useful contributors to the communal vision, and, if willing, may be selected as the Primus. Primi never wish to resign; the desire to serve beyond the limit of life is necessary for selection to this position.
 
@@ -731,7 +731,7 @@ On two occasions a magus skilled in Enigmatic Wisdom, initially invited as a rit
 
 This covenant isn't ruled by votes, but by consensus amongst its members. In the forming of consensus, the thoughts of the wisest magi hold the greatest weight. The covenant, in practice, is ruled through the
 
-## *How Do I Join This Covenant?*
+## How Do I Join This Covenant?
 
 Unless you are interested in dedicating your life to the study of the Enigma, you shouldn't join this covenant. If you are willing to become a sort of monk for the Enigma, and have a point of view that is both illuminating and infectious, the Council will probably seek you out. This covenant's members tend to be more Twilight prone than those of other covenants, so a steady stream of vacancies arises.
 
@@ -815,7 +815,7 @@ Hibernian initially, and with obvious filial connections to Bright Summer, Siobh
 
 Siobhan's three apprentices share her ability to suggest she knows a great deal that she'd like to tell you, but can't because you simply couldn't understand it if she did. This message isn't sent deliberately, and magi who notice the effect have a hard time picking exactly what one of these magi has said to give that impression. The Bonisagus who claimed Siobhan's latest apprentice suggests that their Gift has an odd flavor to it, so that their magical air, instead of frightening mundanes, makes their actions appear profound.
 
-## *The peril of excellence*
+## The peril of excellence
 
 Each Criamon magus decides whether to pursue excellence in his or her field of study. Some, like La, believe they will never personally find the solution to the Enigma, so they throw themselves deeply into their field of specialization, searching for clues they can pass on. Others seek personal enlightenment. These magi find excellence in any field suspicious, because the field of study they pursue can become a distraction from the greater goal. They illustrate this with the story of a nobleman who learned how to play chess to impress his king, but spent so long considering board positions that he was distracted from the intrigue of the court, and so retired to a monastery after rivals took his lands. The Central Clutch members tend toward those who embrace excellence, which is seen as a sacrifice.
 
@@ -831,7 +831,7 @@ Viscus is a variant of those Criamon who believe that the Universe's creative fo
 
 **Circum Perfico** is an elderly maga who believes that a Hermes Portal between the
 
-## *Hera, Autocrat and Chatelaine*
+## Hera, Autocrat and Chatelaine
 
 **Characteristics:** Int +3, Per +1, Pre +2, Com +2, Str N/A, Sta N/A, Dex +1, Qik +1
 
@@ -871,7 +871,7 @@ Hera's primary concern is the completion of the Enigma, but its easy to forget t
 
 
 
-## *Jane, the Fifth Primus*
+## Jane, the Fifth Primus
 
 **Characteristics:** Int +3, Per –1, Pre +3, Com +1, Str N/A, Sta N/A , Dex 0, Qik –2
 
@@ -928,7 +928,7 @@ People who are born, live the majority of their life at the covenant and die her
 The living covenfolk speak a Romansch dialect found nowhere else, although the personal servants of the magi speak Latin, as do the staff that watch the Gate. The ghosts here speak a variety of languages, some of which are extinct elsewhere. Although the ghosts refuse to teach Enigmatic Wisdom, they are willing to train students in any other skill or art. They form a reserve of information that substitutes in large part for a conventional library at this covenant.
 
 
-## *Training with the Primi*
+## Training with the Primi
 
 The Primi and ghosts of House Criamon have exceptionally high Art scores. Many have ceased to study the Arts actively, seeing that phase of their existence as behind them. The Primi, and the ghosts of the covenant, serve in lieu of its library, but it must be remembered that they are stingy with their information.
 
@@ -984,7 +984,7 @@ he Covenant of the Icy North, whose name demonstrates the Italian focus of its f
 and three most prominent chapter houses became terminal. Each denounced the others claiming to be the true Covenant of the Icy North, and the true owner of the covenant's vis sources. Slightly before the Tribunal stepped in to demand the closure of the excess chapters, and the redistribution of the covenant's resources, a new agreement was reached. The Covenant continued as a loose affiliation of autonomous
 
 
-## *The Motherhouse of the Covenant of the Icy North*
+## The Motherhouse of the Covenant of the Icy North
 
 **Symbol:** A spider web or snowflake made of three concentric hexagons, their corners joined with radiating lines which bisect each vertex, but do not extend to the middle of the smallest hexagon
 
@@ -1003,7 +1003,7 @@ and three most prominent chapter houses became terminal. Each denounced the othe
 
 Note that the Covenant of the Icy North has 13 other members, but they are not members of the Motherhouse.
 
-#### *Site –1*
+#### Site –1
 
 **Access Quality:** (as per prosperous peasants) (+1)
 
@@ -1013,7 +1013,7 @@ Note that the Covenant of the Icy North has 13 other members, but they are not m
 
 **Environment:** Average
 
-#### *Buildings +3*
+#### Buildings +3
 
 **Size:** 6 magi/20 specialists/50 grogs **Impressive Structures:** Tribunal Chamber (+1), Tribunal Accommodation Buildings (+1)
 
@@ -1021,7 +1021,7 @@ Note that the Covenant of the Icy North has 13 other members, but they are not m
 
 **Repair:** Average
 
-#### *Defenses +5*
+#### Defenses +5
 
 **Site:** Moderate slopes in all directions, with a road running to the front gate (+7)
 
@@ -1031,7 +1031,7 @@ Note that the Covenant of the Icy North has 13 other members, but they are not m
 
 **Repair:** Basic in all areas except the central building, which is good (+2)
 
-#### *Stores +2*
+#### Stores +2
 
 **Vis:** 100 pawns (0)
 
@@ -1039,7 +1039,7 @@ Note that the Covenant of the Icy North has 13 other members, but they are not m
 
 **Reputations:** The site of the Midsummer Fair (+3), Order of Hermes; Good employers (+1), local peasants
 
-#### *Relations –3*
+#### Relations –3
 
 **Allies:** Magvillus (+9, +1 intensity) **Enemies:**
 
@@ -1053,7 +1053,7 @@ Note that the Covenant of the Icy North has 13 other members, but they are not m
 
 
 
-#### *Improvement +3*
+#### Improvement +3
 
 **Income:** 700 silver a year (+2) **Vis supply:** 60 pawns per year (+6) **Inhabitants** : 6 magi, 20 specialists, 50
 
@@ -1087,7 +1087,7 @@ During the next forty years the political balance of the Covenant shifted decisi
 
 During the Sundering of Tremere, the Covenant of the Highest Aspiration fell, leaving its resources unclaimed. Several covenants rushed to assert ownership, and five militarized and nervous chapter houses were created in the Bavarian Alps. An emergency tribunal was called, and a compromise was reached. The Quaesitores would oversee the harvesting of the resources of the fallen covenant, and divide them among the remaining covenants. These vis sources are
 
-## *How do I join?*
+## How do I join?
 
 Many of the chapter houses in the Covenant of the Icy North are focused about a purpose; they are like dedicated covenants in other Tribunals. Sagas built around a research theme are particularly appropriate here.
 
@@ -1106,7 +1106,7 @@ Athena is an Intéllego specialist, appointed to this post by the Primus of Guer
 Trained in the Roman Tribunal, Athena doesn't dislike the Tremere, and favors a greater role for them in Alpine Tribunal politics. At the last Tribunal, she was forced to send away one of her hoplites, because she was a Tremere maga. Further even-handed-
 
 
-## *Mircalla, the Ghost of the Motherhouse*
+## Mircalla, the Ghost of the Motherhouse
 
 A Hermetic magus stole Mircalla's daughter. The mother followed them to the Tribunal meeting that was being held at the Motherhouse, but was unable to reclaim her child. Her kidnapper, whose name is not known, ordered his grogs to kill Mircalla and bury her, and, dutiful servants, they did. When she rose from the dead she crossed the Aegis of the Motherhouse, and has shrugged off attempts to lay her to rest.
 
@@ -1133,7 +1133,7 @@ Although her techniques wouldn't be accepted elsewhere, she's yet to receive a f
 
 A member of a beast-mage tradition from Hibernia, Kentigern's magical affinity is for dogs. He controls a pack of faerie hounds that prowl about the Midsummer Fair, growling at people that they think smell suspicious. A skilled tracker, he hunts magical animals through the blizzard, and air elementals through the sky. When a quarry is too powerful for him, he invites magi from the nearest covenant to assist.
 
-## *Kentigern of Ex Miscellanea, Quaesitor*
+## Kentigern of Ex Miscellanea, Quaesitor
 
 **Characteristics:** Int +3, Per 0, Pre 0, Com 0, Str +1, Sta +1, Dex 0, Qik –1
 
@@ -1211,7 +1211,7 @@ Aura of Rightful Authority (ReMe 20/+24)
 
 SCALES OF MAGICAL WEIGHT (InVi 5/+26) Sense the Nature of Vis (InVi 5/+26) Sense of Lingering Magic (InVi 30/+26)
 
-## *Kentigern's Items*
+## Kentigern's Items
 
 **Familiar:** Tobias, a faerie hound (see *Faeries* Revised Edition for statistics). Kentigern has gained immunity to wind chill and the ability to fly by running from the bond connection, as well as bonuses to his art scores, which have already been factored into the numbers given above. Tobias has gained the ability to command other animals, which has made him the leader of his pack. He can also cast "Soothe the Pains of the Beast" (laying on his tongue, since he has no hands) and carries Animál vis on his collar in case it is necessary). He's also gained the Clear Thinker and Visual Eidetic Memory virtues.
 
@@ -1219,7 +1219,7 @@ SCALES OF MAGICAL WEIGHT (InVi 5/+26) Sense the Nature of Vis (InVi 5/+26) Sense
 
 **Quaesitorial blindfold:** These blindfolds contain effects that assist the detection of deception, and aid clear and insightful reasoning. Kentigern has borrowed his from the covenant, just until his own detection spells are up to scratch.
 
-## *Kentigern's Spells*
+## Kentigern's Spells
 
 *Call the Basilisk (CrAn(Re) 50)*
 
@@ -1231,7 +1231,7 @@ This spell creates a basilisk (see the *Medieval Bestiary* Revised Edition, page
 
 (Design: Creates a small magical animal 35, Might 50 = minimum level)
 
-#### *Daughter of Zephyrs (CrAn(Re) 45)*
+#### Daughter of Zephyrs (CrAn(Re) 45)
 
 R: Touch; D: Sun/Perm; T: Ind. Spell Focus: Silver horseshoes +3
 
@@ -1239,7 +1239,7 @@ This spell creates a magical horse that can gallop through the air as well as ot
 
 (Design: Creates a large magical animal)
 
-#### *The Foes of the Ibis (CrAn(Re) 40)*
+#### The Foes of the Ibis (CrAn(Re) 40)
 
 R: Touch; D: Sun/Perm; T: Group
 
@@ -1251,13 +1251,13 @@ The ibis is linked to the cult of Thoth, and through him Hermes, so iaculii are 
 
 (Design: Creates a small magical animal 35, +5 extend target to group)
 
-#### *Liar's Chime (InMe(Im) 25)*
+#### Liar's Chime (InMe(Im) 25)
 
 R: Eye/Sight; D: Sun; T: Ind.
 
 A modification of Frosty Breath of the Spoken Lie (145), this spell switches requisites to Imáginem, so that a bell sounds when the target lies. In the Alpine climate, all breath looks frosty and in a hostile atmosphere a more decisive signal is necessary.
 
-#### *To Know the Owner as Might His Hound (InAn 25)*
+#### To Know the Owner as Might His Hound (InAn 25)
 
 R: Touch; D: Sun; T: Ind.
 
@@ -1265,7 +1265,7 @@ Allows Kentigern to sense what an animal senses. He uses this spell to gather in
 
 (Design: Read an animal's surface thoughts 20, extended duration +5)
 
-#### *The Thief of Memory (PeMe 25)*
+#### The Thief of Memory (PeMe 25)
 
 R: Eye/Sight D: Sun/Instant T: Individual
 
@@ -1303,7 +1303,7 @@ This tiny chapter house, slightly outside the town after which it is named, is t
 
 The trade passing through Rorschach provides cover for the House's operations in this tribunal. The chapter is linked by Hermes Portal to the motherhouse in Bavaria, and through it to several of the other chapter houses. The Rorschach Chapter have a standing offer that they will provide one-fifth of the vis required to create Hermes Portals, provided they are permitted to use them in carrying out their duties. These links are lucrative for the Mercere, and convenient for Alpine magi, since they allow luxury goods, like salt, inks and vellum, to be transported inexpensively from Rorschach to the motherhouse, from where they can be distributed.
 
-## *Pietrine Lineage, Virtue package +3*
+## Pietrine Lineage, Virtue package +3
 
 Players designing characters for the Pietrine lineage are required to heavily specialize in Auram magic — their usual starting scores are Auram 12, Creo 11, Rego 3. They must select Incantation of Lightning as one of their original spells -—even though casting it always costs fatigue. They must also take a version of Wings of the Soaring Wind that has been adapted for longer duration (ReAu25, duration Sun) — again, casting this spell costs fatigue. They are expected to grow into their spells.
 
@@ -1320,7 +1320,7 @@ This chapter house is the personal demesne of Archmagus Pietro, the most senior 
 
 Pietro's familiar is a leopard. He went hunting for a leopard to skin for his hoplite's sash, but his quarry circled him and attacked him from behind. Realizing that the leopard was sneakier than he was, Pietro courted it as his familiar. Now that it is bound Pietro's leopard, called Cinnamon, likes to catch birds by ambushing them from behind cloudbanks.
 
-## *Beloved Enemy (flaw, usually –2)*
+## Beloved Enemy (flaw, usually –2)
 
 Some magi thrive on conflict, but find that it's difficult to nurture an enemy over the decades. Many don't understand the way a good enemy can force you to grow, and so they do foolish things, like trying to kill their enemies. Some very few magi are lucky; they find the one enemy who's right for them.
 
@@ -1353,7 +1353,7 @@ Each has hinted they would kill the other's murderer, was someone else to succes
 Jacinta is the leader of the Rowan Sisterhood, an informal group founded during the purge of the Shadow Flambeau. Currently all but inactive as an organization, individual members of the Sisterhood continue a watch for diabolic or vampiric corruption. They maintain a small, distributed collection of specialized spells and items. Since membership of the Sisterhood passes to the oldest filius or filia of a member on her death, some of the sisters are male. This is kept private, since it makes the group appear smaller and less effective than it is.
 
 
-## *Joining This Covenant*
+## Joining This Covenant
 
 Entry into one of the little chapters of the Covenant of the Icy North is the easiest way for a group of young magi to be accepted into the Greater Alps Tribunal. Certain of these chapters are staffed at well below one magus for every ten pawns of income. Were a new source to be found, or the member of a single-magus Chapter to die, a group of apprentices, together with an older overseer, might be asked to fill the vacant chairs.
 
@@ -1394,7 +1394,7 @@ Rainbow fluorite: double bonuses above.
 
 Quartz and fluorite naturally formed together: +9 transformation between elements
 
-## *The Covenant Where Journeys End*
+## The Covenant Where Journeys End
 
 **Symbol:** A ring formed of sharp, upward circumflexes, the front ones overlapping the back to give the impression of depth.
 
@@ -1513,7 +1513,7 @@ This covenant has eight magi. Four of these are members of House Merinita, three
 
 An ice-distorted, faerie-blooded maga, Yselt rarely leaves the Covenant. Leader of both the Council and its community, she is a sort of stern aunt to her followers. Yselt's sigil is the icicle. Her distortion is so intense that some of her sodales worry she might be transformed into a faerie by her Final Twilight, assuming the role of the absent Queen. Since this might enhance the distortion of the covenfolk, twisting them into the shapes of the Queen's slain servants, Yselt might eventually need to be exiled.
 
-## *A Note on Names*
+## A Note on Names
 
 The name Mont Blanc won't be associated with this mountain on a map for over five hundred years, presuming Mythic Europe proceeds toward our present.
 
@@ -1555,7 +1555,7 @@ The Covenant's magi often send Miklos when they need an emissary to the outside
 
 
 
-## *Miklos*
+## Miklos
 
 **Characteristics:** Int +2, Per 0, Pre +2, Com +1, Str 0, Sta 0, Dex +1, Qik +1.
 
@@ -1611,9 +1611,9 @@ Disguise of the Transformed Image (MuIm15/+11)
 
 Thoughts Within Babble (ImMe25/+15) Posing the Silent Question (InMe20/+15)
 
-## *Miklos's Spells*
+## Miklos's Spells
 
-#### *Blizzard of Down (CrAn 20)*
+#### Blizzard of Down (CrAn 20)
 
 R: Near D: Dia T: Group Spell Focus: A pillow or cushion filled with down +1
 
@@ -1621,7 +1621,7 @@ This spell creates a huge wad of feathery down, which pours as a flittery stream
 
 (Design: Equivalent to the corpse of a very large animal in weight 15, –5 for only part of an animal, Increased range +10, Increased target +5, reduced duration –5.)
 
-#### *Cocoon of the Mulberry Worm (CrAn 30)*
+#### Cocoon of the Mulberry Worm (CrAn 30)
 
 R: Sight D: Sun T: Individual. Aimed –1 Spell Focus: A handkerchief made of silk This spell wraps the target in multiple layers of silk. In Miklos's version of this spell the silk is thin enough about the head that it does not cause suffocation. If the character can use a sharp edge, for example a drawn blade, to cut themselves free, they can remove the cocoon after 10 – Str rounds. Alternatively they may make a Str check of 12+ to break free, but are only allowed one attempt. Silk is the strongest woven fabric, and has a breaking strain above that of the soft metals.
 
@@ -1637,7 +1637,7 @@ This spell creates an entire set of clothes, complete with accessories. Since it
 
 (Design: Creates leather/wool +10, uses requisites to add colors and use plant based fibers.)
 
-#### *The Ninth Stitch (CrAn(He, Im) 10)*
+#### The Ninth Stitch (CrAn(He, Im) 10)
 
 R: Touch D: Sun/Instant T: Individual. Spell Focus: A silver needle +1
 
@@ -1645,7 +1645,7 @@ This spell magically repairs an item of clothing. It can't replace metal pieces,
 
 (Design: Creates leather/wool +10, uses requisites to add colors and use plantbased fibers.)
 
-#### *The Scold's Bridle (CrAn 20)*
+#### The Scold's Bridle (CrAn 20)
 
 R: Near D: Sun T: Individual. Aimed –5 Spell Focus: A horse's bit +3
 
@@ -1665,15 +1665,15 @@ Like many Jerbiton magi, Miklos is an artist. He is fascinated by magical clothi
 
 A bonded pair of magi of House Bjornaer, both of these magi take the shape of lammergeirs, bearded vultures. Eginhard is of middle age; Kamilla slightly younger. They share a large laboratory and have a single sanctum. Cohabitation is an unusual practice for magi, even Jerbitons who marry, but pair-
 
-## *How Do I Join?*
+## How Do I Join?
 
 Since the covenant is, in essence, a two-house covenant, a variety of strategies need to be gathered together to draw in a new group of player characters. In addition to those found in the Hermetic culture chapter consider the following ideas.
 
-#### *Be Cursed — Be Local*
+#### Be Cursed — Be Local
 
 Apprentices are rarely selected from the people raised at this covenant because they have such difficulty leaving when they reach maturity. That being said, when they are trained, they are allowed membership far more easily than non-distorted magi. Life as the weakest magus at the covenant involves a lot of time wasted leading expeditions, but that's perfectly suited for play. The compensating advantage is that ice-distorted magi tend to rise to the leadership of this covenant, so long as they don't turn into gnomes.
 
-#### *Offer Up Your First-born*
+#### Offer Up Your First-born
 
 As described under the entries for Miklos and Lyndsay, this covenant needs to import people who are willing to have chilbonded members of House Bjornaer sometimes find comfort in being in each other's presence, and so there are a few double labs in various covenants, which are partitioned after the original inhabitants pass away.
 
@@ -1686,11 +1686,11 @@ This covenant always has at least one member from House Bjornaer. An indiscrete 
 
 dren. This includes magi, since some members of the Covenant heavily support the idea that the Gift is hereditary. Magi planning to be parents are usually young.
 
-#### *Do Something These Magi Can't*
+#### Do Something These Magi Can't
 
 Journeys End accepts magi from many houses, provided they have particularly useful skills. The include, but aren't limited to, novel styles of Free Expression, unusual sorts of Faerie Blood, powerful faerie allies (Patron, Heir, Close Family Ties), faerie doctoring, and skills teaching children and midwifery. If one of the current mages has a specialty that you'd like your character to have, negotiate the non-player character's removal with your troupe.
 
-#### *Volunteer to Set up a Chapter on the Righi*
+#### Volunteer to Set up a Chapter on the Righi
 
 As described in the Righi section of the geography chapter, the magi of this covenant are keen to see giants return to the Righi. Younger magi attempting to find colonizers would first need to study the giants of Dachstein, to familiarize themselves with Giant social customs, then travel to Arcadia to find new settlers. While attempting these difficult feats, they would be members of a temporary chapter of the Covenant Where Journeys End, founded near the Righi. Were they to be successful the player characters membership would be invested into the covenant as permanent members.
 
@@ -1712,7 +1712,7 @@ Parties unknown exterminated the last members of the original priesthood, even t
 
 The other major interest of this covenant stems from a hobby of one of the Verditius consultants engaged here during the Eleventh Century. A keen student of Aquam magic, he founded a little lineage of Verditius magi fascinated by hydraulics.
 
-## *Sinews of Knowledge*
+## Sinews of Knowledge
 
 **Symbol:** An extended, vertical oval, like an Egyptian cartouche, divided vertically by wavy lines representing a waterfall. At the base a ruby is set.
 
@@ -1764,7 +1764,7 @@ Behind a waterfall on a minor tributary of the Danube
 
 **Reputations:** Famous (3) throughout the Order as the place where the finest maker of longevity potions usually lives.
 
-#### *Relations*
+#### Relations
 
 **Allies:** Passive Allies +8. This score represents those elderly magi who require that the service offered by Sinews of Knowledge continues, and who would therefore give the covenant aid in desperate times.
 
@@ -1772,7 +1772,7 @@ Behind a waterfall on a minor tributary of the Danube
 
 27 –24
 
-#### *Improvement*
+#### Improvement
 
 **Income:** 0. The covenant has no surplus income, which rankles the magi here no end. They were ordered to cease their previous ventures by the tribunal, because they were drawing attention to themselves by making goods from vis.
 
@@ -1853,7 +1853,7 @@ When Paxon dies, the next supreme potion brewer is likely to move to Sinews of K
 
 Balbina's name means "stammerer" which accurately describes her affliction, a curse that prevents her speaking correctly while casting spells. Trained in House Verditius, she is more traditional than most, because even with casting tools she has difficulty formulating spells, and finds her stammer embarrassing. Balbina is in charge of maintaining the odd devices her housemates have constructed here over the years, most significantly the overwheel that the covenfolk use to provide power for grinding, pumping water, circulating air and winching.
 
-#### *Beware — Optional Rules Ahead*
+#### Beware — Optional Rules Ahead
 
 Balbina's area of greatest skill is repairing enchanted items, a branch of Verditius Magic practiced by only a few each generation. It is kept obscure by its difficulty and costliness, since each repair is a different ritual, and needs to be designed from scratch. One of House Verditius's most skilled Creo Vim magi, Balbina's services are sufficiently expensive that most covenants replace their items, rather than repairing them. In part, her price is high because she gets a steady flow of commissions from magi digging up odd things in the Levant and other remote areas.
 
@@ -1875,7 +1875,7 @@ Sabastien has one of the highest Parma Magica scores in the Order. He has either
 
 Cara dwells in Sinews of Knowledge because the complex includes a vast under-
 
-## *Staff, wand and spindle*
+## Staff, wand and spindle
 
 The great flaw of the traditional accessory of a magus, the staff, is that a nose-high cylinder of wood with a gemstone on the end draws notice, and is unlikely to be mistaken for anything but a weapon. Some magi prefer wands, which can be slid into the sleeve. Female magi often sidestep this whole process by carrying their magic items in plain sight, as spindles, which they are expected to use just about anywhere.
 
@@ -1903,7 +1903,7 @@ Cara uses magic to control the conditions in the cavern-pools deep under the cov
 
 Ragoneda, a comparatively young Tytalus maga, acts as a negotiator for the Sinews of Knowledge on minor matters. She isn't a voting member of the covenant, but trades her service for library and laboratory time. She's the maga most likely to be in charge of doing practical, minor things at the Midsummer Fair, while her older covenmates seek contracts or indulge in politics. Ragoneda is a Corpus specialist and sometimes prepares longevity enchantments for young magi, who will upgrade them later in life. She prefers to enchant a small tattoo on her clients, because her sigil is particularly noticeable.
 
-## *Ragoneda filia Elisa, follower of Tytalus*
+## Ragoneda filia Elisa, follower of Tytalus
 
 **Characteristics:** Int +5, Per 0, Pre +1, Com +0, Str +0, Sta 0, Dex 0, Qik 0.
 
@@ -1963,9 +1963,9 @@ The Hidden Skin of the Serpent (MuCo(Au)30/+48)
 
 THE SUFFERING OF THE SEER (MuCo35/+60) Statue of Bone (MuCo50/+56) SHATTERED LEG (PeCo15/+48) Nagging Curse (PeCo20/+48) Grip of the Choking Hand (PeCo15/+36) Intestinal Suffering (PeCo40/+48) Rise of the Feathery Body (ReCo 5/+36) Leap of Homecoming (ReCo 35/+36) Seven League Stride (ReCo 35/+36)
 
-## *Ragoneda's Spells*
+## Ragoneda's Spells
 
-#### *Recreating the Inner Sea (CrAq(Co)25)*
+#### Recreating the Inner Sea (CrAq(Co)25)
 
 R: Touch D: Sun/Per T: Small The whites from a dozen eggs +1
 
@@ -1973,7 +1973,7 @@ Fills a container with a liquid in which human flesh can be kept alive, severed 
 
 (Design: Create a highly unnatural liquid +15, includes Charm against Putrefaction +10)
 
-#### *Shower of Needles (CrCo(Re)20)*
+#### Shower of Needles (CrCo(Re)20)
 
 R: Sight D: Mom T: Ind (Aimed 0) A wishbone +1
 
@@ -1981,7 +1981,7 @@ Showers target with bone needles for +10 damage
 
 (Design: Creates bone 5, movement through Rego +5, increase range to Sight +20, reduce duration to Momentary –10)
 
-#### *Rack of Thorns (MuCo20)*
+#### Rack of Thorns (MuCo20)
 
 R: Near D: Mom T: Ind. A white rose +2
 
@@ -1989,7 +1989,7 @@ The ribcage of the target warps and develops thorns of bone along its inner surf
 
 (Design: Change a limb +10, increased range +5, reduced duration –10. Doing something inside the body +15, as per "Lungs of water and death".)
 
-#### *The Hidden Skin of the Serpent (MuCo(An)30)*
+#### The Hidden Skin of the Serpent (MuCo(An)30)
 
 R: Touch D: Sun T: Ind. A snakeskin (+1)
 
@@ -1997,7 +1997,7 @@ This spell transforms the lower levels of the human dermis into osteodermal plat
 
 (Design: Make a body resistant to damage +30. Technically can be done without the requisite — but Ragoneda didn't design this spell herself.)
 
-#### *The Suffering of the Seer (MuCo35)*
+#### The Suffering of the Seer (MuCo35)
 
 R: Far D: Sun / Perm T: Ind. A white blindfold (+1)
 
@@ -2005,7 +2005,7 @@ This spell alters the structure of the victim's skull. Plates of bone slide down
 
 (Design: utterly change appearance +20, range extended +15)
 
-#### *Statue of Bone (MuCo50)*
+#### Statue of Bone (MuCo50)
 
 R: Near D: Sun/Perm T: Ind
 
@@ -2015,7 +2015,7 @@ Calcifies an enemy into a statue of bone. Ragoneda's reworking has many of the b
 
 (Design: Makes humans inanimate +40, increased range +10)
 
-#### *Nagging Curse (PeCo20)*
+#### Nagging Curse (PeCo20)
 
 R: Sight D: Mom T: Ind A piece of hard candy (+1)
 
@@ -2023,7 +2023,7 @@ The Nagging Curse cracks the enamel of one of the target's teeth, so that they s
 
 (Cause pain +10, increased range +10)
 
-#### *Intestinal Suffering (PeCo40)*
+#### Intestinal Suffering (PeCo40)
 
 R: Arcane D: Sun/Inst T: Small A tooth belonging to the target +5 This spell creates a small, sharp shard of bone in the intestinal tract of the victim. This eventually results in death, as it perforates their bowels. Characters making a Sta roll of 12+ recover after a fortnight.
 
@@ -2032,7 +2032,7 @@ R: Arcane D: Sun/Inst T: Small A tooth belonging to the target +5 This spell cre
 
 Ragoneda's sigil, the color of bone, permeates all of the effects she produces. For example if she reattaches a severed limb, that limb forever has a thin band of bonecolored skin along the join. When she took her own longevity potion, the color washed out of Ragoneda's body, so that she is a study in pale shades of bone and ivory. She dresses to match her unnatural skin tone. She often wears gloves, because her fingernails have serrations, like the teeth of an infant, and these change shape to match her emotional state.
 
-## *Ragoneda's apprentice*
+## Ragoneda's apprentice
 
 Ragoneda has an apprentice, Augustina, who has been in training for eight years. Augustina is also a bone maga, but works more strongly in the Animál form. This makes her less suitable as a mercantile magus, and so she is interested in developing combat experience in relatively safe situations. Her desire for adventure often leads her, and her companions, into trouble.
 
@@ -2045,13 +2045,13 @@ Ragoneda has been selected as the covenant's liaison to whichever spring covenan
 
 Sinews of Knowledge has few grogs, depending on publication of all its results, magical wards, and its hidden location for security. Its covenfolk, many of whom live in a small village at the base of the falls, speak a mixture of languages. Most know enough Latin for it to be the covenant's common language. Although the aura here distorts covenfolk, it is at its most intense in those areas where only magi are permitted to go. Most of the covenant's distortions are unnoticeable, various Immunities, but folktales suggest a more serious distortion suffered by the original priesthood, caused by ceremonial attendance to the skeleton. Its nature is not discussed with outsiders, but various Seekers claim to know the truth.
 
-## *How Do I Join?*
+## How Do I Join?
 
-#### *Be Rich or Entrepreneurial*
+#### Be Rich or Entrepreneurial
 
 This covenant has repeatedly been caught breaching the peripheral code rulings that restrict the amount of money covenants can make by creating valuable goods through magic. Young magi who can provide a solution to this covenant's financial problems are certain to be offered a place.
 
-#### *Be Somewhere Else Entirely*
+#### Be Somewhere Else Entirely
 
 This covenant's main problem with the magical production of wealth is that it can't dispose of the goods in sufficiently inconspicuous ways. As a final resort, the magi here are considering setting up a Hermes Portal that links the covenant to a chapter house in another Tribunal, preferably to the east. Given that founding a new chapter house would be a difficult process, they might instead be persuaded to enter into an alliance with a young covenant in a frontier Tribunal. This offers troupes the advantages of Alpine play and the freedom of the wilderness, but it makes their covenant increasingly dependent on good relations with Sinews of Knowledge.
 
@@ -2067,14 +2067,14 @@ Perched upon a misty hilltop in Unterwalden, Tarragon Vale's main building is a 
 The mages of Tarragon Vale were great metaphysical geographers and explorers, Hermetic pioneers in Arcadia and the Land of Spirits. Their great breakthrough was the Narrative Map, a device that displayed the underlying structures that support the variable topographies of mystical realms. This allowed them to deal with challenges on a structural level, instead of dealing with the ephemeral representative presented by the Realm. The Tarragonese had many enemies within from House Merinita, because their ideology stated that faeries were simply ways of interacting with underlying forces, which should be ignored now that better tools were available.
 
 
-## *How Do I Join?*
+## How Do I Join?
 
 If the player characters solve the puzzle of the Vanishing Away, then they have information of enormous value to a potentially-wealthy group of magi, and can bargain. One option is to have them request the right to settle here, perhaps paying a rent of vis to the heirs for a period of time. If they formally become the new members of Tarragon Vale, they inherit its legal position, including its debts and supernatural enemies, and these things are not clear even to the Quaesitores. Storyguides considering traditional dungeon delving might have the player characters pacify the things skulking in the many subterranean levels of the covenant while negotiating the defenses left by the original inhabitants.
 
 If someone else discovers what happened to this covenant's inhabitants, then the Tarragon Vale vis is handed out, and ownership of the covenant's vis sources is divided up. Some of the heirs will want to move to the Alps. If the player characters are part of this group it gives them a reason to draw together and provides the vis for the covenant stores. Many of the heirs will not want to move to the Alps, and could be convinced to sell their new properties. A covenant or group of covenants could purchase some of these to set up a new chapter house and place their filii there.
 
 
-## *Cymena the Redcap*
+## Cymena the Redcap
 
 **Characteristics:** Int +1, Per +2, Pre 0, Com 0, Str 0, Sta +2, Dex 0, Qik 0
 
@@ -2110,15 +2110,15 @@ Tarragon Vale had four magi when they were last seen, twenty-two years ago. No e
 
 The descendants of the Tarragon Vale magi want access to the huge stockpile of vis that the Quaesitores are holding. The
 
-## *Cymena's Items*
+## Cymena's Items
 
-#### *Pin*
+#### Pin
 
 An enchanted triangle of copper. *Heat object until warm* (CrIg 6: Touch/Momentary/Individual — Constant)
 
 *Eyes of the Cat* (MuCo(An) 10: Touch/Sun/Individual — 1 use per day)
 
-#### *Lickstone*
+#### Lickstone
 
 A small metal plate that attaches to the palette. In this case, it's golden.
 
@@ -2128,7 +2128,7 @@ A small metal plate that attaches to the palette. In this case, it's golden.
 
 Since Cymena lives at her home the usual spell crafted into lickstones, Leap of Homesoming, would not be useful to her and the magi at Rorschach have allowed her to trade lickstones.
 
-#### *Leaves*
+#### Leaves
 
 Carries a copper leaf in each boot. Each leaf contains a pawn of Rego vis, but has the secondary property of reducing blistering and ankle injuries. The leaves allow a single reroll of any die that would result in blisters or ankle injuries, and are not used up in the process.
 
@@ -2149,7 +2149,7 @@ he Founder Jerbiton was descended from a Roman soldier who had been granted Alpi
 Life in the valley still centers on the Roman villa. It is far more opulent than in Jerbiton's time, but many Primi prefer to build new palaces for themselves. Impressive residences dot the mountain terraces along the north side of the valley, testaments to the artistry and wealth of the senior magi of this House, who act as their "keepers". A peasantry who speak Rhaetian — a Rhateo-
 
 
-## *Valnastium*
+## Valnastium
 
 **Symbol:** A griffin collared with a wreath of olive branches
 
@@ -2157,7 +2157,7 @@ Life in the valley still centers on the Roman villa. It is far more opulent than
 
 **Founded:** 773 in a legal sense, practically around 775.
 
-#### *Members*
+#### Members
 
 By tradition Valnastium has either 20 or 21 members, but the membership churns far more rapidly than at other Autumn covenants. Valnastium has small chapters in Vienna, Constance, Saint Gallen and Geneva, and links to several large covenants in other Tribunals. The Valley itself, which serves as the Motherhouse, has 11 residents, but the members of the chapter houses and covenants in other tribunals drop by occasionally.
 
@@ -2183,15 +2183,15 @@ And:
 
 Usually there would be an extra magus in the "Bonisagus chair", described below, but currently it is being paid to a non-resident.
 
-#### *Site*
+#### Site
 
 **Access Quality:** as minor clergy +3 **Access Distances:** (20/40/-/-/40) –4 **Seclusion:** Strangers rarely come here +3 **Environment:** Crisp but otherwise average. 6/–2
 
-#### *Buildings*
+#### Buildings
 
 **Size:** +3 magi, +1 specialists +1 grogs **Impressive Structures**: palaces (11) **Quality:** palaces excellent (12) **Repair:** 0
 
-#### *Defenses*
+#### Defenses
 
 **Site:** Overlooked on three sides by mountains, river on fourth side runs through covenant. (2, –8)
 
@@ -2201,7 +2201,7 @@ Usually there would be an extra magus in the "Bonisagus chair", described below,
 
 **Repair:** Average(0)
 
-#### *Stores*
+#### Stores
 
 **Vis:** 100 pawns
 
@@ -2209,7 +2209,7 @@ Usually there would be an extra magus in the "Bonisagus chair", described below,
 
 **Reputations:** Excellent mundane library (Order of Hermes) 1, Beautiful but a little dull (–1) House Jerbiton.
 
-#### *Relations*
+#### Relations
 
 **Allies:** The abbot of Saint Gallen (5 points, 1 intensity)
 
@@ -2219,7 +2219,7 @@ Usually there would be an extra magus in the "Bonisagus chair", described below,
 
 **Contacts:** A cardinal whose grandfather was a Jerbiton magus (5)
 
-#### *Improvement*
+#### Improvement
 
 **Income:** 0
 
@@ -2229,7 +2229,7 @@ Usually there would be an extra magus in the "Bonisagus chair", described below,
 
 80 /–43
 
-#### *Library*
+#### Library
 
 (Note that parts of the famed Valnastium library are held in chapter houses.)
 
@@ -2237,7 +2237,7 @@ Usually there would be an extra magus in the "Bonisagus chair", described below,
 
 **Hermetic Books:** (+5) 900 levels **Mundane Books:** (+15) 1200 levels
 
-#### *Mystical Attributes*
+#### Mystical Attributes
 
 **Aura:** 3, with patches of Dominion 4 or less (0)
 
@@ -2257,7 +2257,7 @@ House Jerbiton thrives on culture, but the administrative center is hidden in a 
 
 As a distraction, the covenant maintains chapters in Vienna, Constance and, reputedly, outside major cities in many other tribunals. These are linked to Valnastium by Hermes Portals. The current Primus rarely leaves the Valley, but often has servants attend festivals elsewhere, capturing music and images in mirrors which he crafts. Under former Primi, drunken bands of Jerbiton habitually popped up in other people's tribunals hunting fun, but Primus Andru has clamped down, and these dipsotic revels are remembered only in drinking songs popular amongst grog turbs from Connemara to the Tigris.
 
-## *How Do I Join?*
+## How Do I Join?
 
 Be useful, be charming, be artistic or just visit and don't leave.
 
@@ -2270,7 +2270,7 @@ The problem with having a Hermes Portal in the basement is that you never can te
 Valnastium's rapid turnover of members, welcoming attitude to visitors, links to chapters and readiness to accept members of other Houses make it a simple covenant to hook characters into.
 
 
-#### *Primus and Secundi*
+#### Primus and Secundi
 
 The members of House Jerbiton, prior to the death of the incumbent Primus, elect his successor. Members need not travel to Valnastium to register a vote, since proxies and written expressions of preference, if witnessed by a quaesitor, are valid. The current primus has ten votes, Archmages three each, and all other members one. Purchasing proxies is perfectly legal, and politicking before the vote is occasionally intense. This is only usual if two magi interested in the process of administration contest for power. More often the magus most determined to become Primus gets the paperwork, and everyone else goes back to enjoying art. Primacy is for life, although several Primi have resigned, to dedicate additional time to their art, or to tourism. Following the lead of the College of Cardinals, which elects the Pope, the Primus is in no way required to follow through on promises made in exchange for support during the election.
 
@@ -2281,7 +2281,7 @@ Two Secundi — deputy Primi — are appointed and serve at the Primus's discret
 This covenant has around sixteen members, but there's always someone coming or going. The magi described below are regularly found at Valnastium, and consider it their home for the rest of their lives. Other Jerbiton magi frequently come for a few
 
 
-## *Andru, Primus of House Jerbiton*
+## Andru, Primus of House Jerbiton
 
 **Characteristics:** Int +4, Per 0, Pre 0, Com +1, Str 0, Sta 0, Dex 0, Qik 0.
 
@@ -2396,7 +2396,7 @@ Since the Greater Secundus does not live in the Valley, the Lesser Secundus must
 
 Constance is a leading member of the Craft School, a Hermetic movement that prizes beautiful and functional objects. Like most Crafters she is a mage-smith. She creates
 
-## *Andru's Spells*
+## Andru's Spells
 
 *Tickling the Humors (CrMe 20 / 25)*
 
@@ -2427,20 +2427,20 @@ Ergot is a fungus that affects grain, causing those who eat it to dance and have
 (Design :Vision of Infernal Terrors, just prettier.)
 
 
-## *Andru's Items*
+## Andru's Items
 
 Andru hasn't created many magic items, since he is able to borrow those that belong to his house. Items come to the house when a magus dies if they have no other magi who share the same teacher's teacher. Andru enjoys having a few surprises available and cycles the magic items he borrows from the house. It should be assumed he has access to items that contain virtually any mid-level effect, although he only carries a few at a time.
 
 The most famous item he has used publicly is the Standard of the Shadowy Men. It creates Group versions of Seven League Stride, an invisibility effect and grog-enhancing enchantments. The Standard was used in the battle with the Fanes. Andru's predecessors have created a few masks that have constant use versions of either Disguise of the New Visage or Image Phantom. His most trusted agents keep these. Andru has strong personal objections to the use of Enslave the Mortal Mind or similar will-sapping effects, and he doesn't use items containing them. Andru's sigil, a gold ring set with an amethyst, is kept by Carmine of Flambeau.
 
-#### *The Veil of Fire*
+#### The Veil of Fire
 
 Andru keeps Carmine's sigil, a bridal veil in the imperial Roman style. It is orange-red and is embroidered with the
 
 
 Hourglass of Flambeau. Carmine and Andru were married in the Greek ceremony but with Hermetic (which is to say pagan) symbols included, a fact they need to keep concealed while House Jerbiton courts the favor of the western church. Since neither wears a ring, they carry each other's sigils, which, as representations of the True Love virtue, have unpredictable properties that transcend the limits of Hermetic magic. The Order, especially House Merinita, is aware of the existence of this class of objects, which they call Favors, but since their unusual properties are inaccessible save to True Lovers, they are difficult to examine in laboratory conditions.
 
-#### *The Fingerbone of Cyrian*
+#### The Fingerbone of Cyrian
 
 Andru carries a relic of Cyrian, and he attributes to it the effects of his Charmed Life virtue. He's mistaken, but relics sometimes do manipulate coincidence. The tiny flake from a finger bone is sewn into a square of white silk the size of a handkerchief.
 
@@ -2496,7 +2496,7 @@ Grazia is an Animál specialist, who supervises Valnastium's stables, kennels an
 
 
 
-## *The Library of Valnastium*
+## The Library of Valnastium
 
 Valnastium's library, a genuine Temple of the Muses moved stone by stone from Greece, is one of the finest in the Order for research into mundane matters. Magi journey from distant corners of the Order to consult this immense collection, while others send reference queries and loan requests through the redcap network. Valnastium library has developed techniques centuries ahead of those used by the Church, and some of these have diffused throughout the Order. In part, this is because Valnastium trains librarians, who are then passed on to other covenants, and they carry with them the techniques of their school. Failed apprentices are sometimes sent to the library for training.
 
@@ -2514,7 +2514,7 @@ Kalliope, a magus of middle years, is the latest successor to an intermittent li
 
 Trained by the Primus's parens, Bronwyn is most interested in how the voice is used as a tool to cast magic: Hermetic phonotactics. Although her interest was initially physiological, she has recently become interested in rhyme and meter in spell performance. She is researching a new way of structuring the verbal component of spells, making them easier to learn, if harder to design. Her progress toward this discovery is slow, because she's flighty and gets distracted by other things.
 
-## *Designing a Lartan Player Character*
+## Designing a Lartan Player Character
 
 To play a Lartan magus, you need to design a Mythic Companion. Complete rules for Mythic Companions are included in *Hedge Magic*, but the essentials are:
 
@@ -2547,7 +2547,7 @@ certain chefs a hardy medium to export their magical food through conditions tha
 
 An exceptionally elaborate form of chef craft, descending from the Romans, allows a cluster of chefs to create astonishingly complicated banquets, in which each course is a lesser charm with a different effect. This practice requires Ingredients of Virtue, and therefore is used only on the most special of occasions. Before each Grand Tribunal chefs from across the Order gather to compare their skills and pledge fantastic ingredients to the Tribunal's banquet. After days of testing each other's wares, the chefs select one of their number, titled the promoscundus, to act as master of them all during the catering for the Grand Tribunal.
 
-#### *Smith*
+#### Smith
 
 An elderly, but powerful, man named François is the blacksmith in the Village of the Vale. His smithy is one of the most intensely magical places in the territory around the covenant. His family is large, both in number and in individual size, and many of them serve as grogs. Some have a valuable and frightening affinity for weapons (Knack), and these become grog sergeants at other covenants.
 
@@ -2560,7 +2560,7 @@ to use. Smiths are often the hedge magician of a village, like a crone on the hi
 
 Magical blacksmiths often have virtues selected from the following list: Craft Lesser Charm, Craft Greater Charm, Heal, Curse, Exceptional Strength, Knack (Blacksmithing), Large, Weather Sense, Enduring Constitution, Long-winded, Tough, Reserves of Strength, Superior Armaments. Those who are Lartans often have Free Expression or Inventive Genius, which allows them to find new ways to apply the power of iron.
 
-#### *Minstrel*
+#### Minstrel
 
 Minstrels use the almost-magical power of music to affect the emotions. Usually, their preferred effect is a strong suggestion that listeners should pay the minstrel money, but other effects are also common. Some minstrels work with religious music, evangelising the beauty of creation and the beneficence of the Lord. Others, of the relatively new German tradition of Meistersingers, spread joy through bitingly cynical parodies of the manners of the nobility, and the corruption of the Church.
 
@@ -2569,7 +2569,7 @@ Valnastium's chief minstrel, Chloe, is unusual in that she composes, in preferen
 Minstrels often have virtues from the following list: Knack (Sing or Play), Magic Item (instrument), Carefree, Free Expression, Mimicry, Reckless, Social Contacts, Troupe Upbringing, Venus's Blessing, Well-travelled, Gossip, Enchanting Music, Exceptional Communication, Light Touch, Patron, Protection. They tend to play stringed or
 
 
-## *Cuisine and Banqueting*
+## Cuisine and Banqueting
 
 The regional cuisine of Valnastium is based, distantly, on that of the Roman settlers, and variants of it are found in many covenants associated with House Jerbiton. The key condiments used on food are salt and cardamom, honey is used as a sweetener and lettuce leaves are eaten between courses, as palate cleansers, or after desserts. Many magi do not dine formally, preferring to eat simple, swift meals in their laboratories. Pastries are common, and small pans, which allow them to be reheated over braziers, are not unusual.
 
@@ -2588,7 +2588,7 @@ Carmine is one of the most beautiful women alive. Apparently in her early thirti
 
 Carmine arrived in the entourage of the Primus, forty-three years ago. Since he's so private a man, most of his entourage moved into an elegant house on a vine-planted hill, north of the river, that overlooks the small
 
-## *Muse (virtue +1)*
+## Muse (virtue +1)
 
 A muse can grant Free Expression to another character, or can increase the effects of Free Expression that a character already possesses, while the muse is with them. A muse whose artist already has Free Expression grants a +3 bonus on personality trait and skill rolls involved in producing art inspired by the muse. The muse chooses whom they will inspire, but not the form the inspired work will take. The vast majority of artists can only have a single muse at a time, and artists who can work with many muses simultaneously are thought to have mastered an arcane secret.
 
@@ -2617,7 +2617,7 @@ Andru has noticed that the Dominion seems to have different flavors in different
 In the Book of Genesis, God grants dominion over the Earth to Adam. Andru believes, and he doesn't confide this to any
 
 
-## *The Gardens of Valnastium*
+## The Gardens of Valnastium
 
 The gardens provide some of the covenant's food, but their produce includes more than fruit and vegetables. An island in the middle of one of the ponds is a corral for large culinary snails, which are delicious fried in butter with garlic. Several large clay pots are used as warrens for dormice, little mammals that are tasty minced and stuffed into other, larger, animals. The gardens contain several hives, and apprentices say that anyone upsetting the bees invites terrible luck.
 
@@ -2628,7 +2628,7 @@ For Hermetic visitors interested in history there are a few equals to Valnastium
 The gardens are important to Andru for many reasons. Jerbiton, who for a time at least had his laboratory on one of the lawns, laid them out and tending them is a sign of respect for the Founder. The gardens are a sign of wealth, power and order, used to impress those who come to the covenant. They demonstrate the fertility of the Earth under proper tending by human hands — a physical representation of his philosophy.
 
 
-## *A Jerbiton View of Faeries*
+## A Jerbiton View of Faeries
 
 House Jerbiton dislikes faeries, despite their beauty and artistic prowess. There are several reasons for this, but during Andru's tenure, it's his opinion that has colored his House's antipathy for the fae. His opinion derives from his faith, which states that faeries have no souls.
 
@@ -2671,43 +2671,43 @@ There are several lower, flatter areas in the western Alps where crop yields are
 
 in the Oberland, so few settlements are large. In the southern foothills of the Alps the warmer climate allows production of more Mediterranean crops.
 
-#### *Aareschlucht (Aare Gorge)*
+#### Aareschlucht (Aare Gorge)
 
 Near the village of Meiringen is a deep crevasse in which dwells the Tatzelwurmli, a monstrous, limbless land dragon or variant of the well worm. No Hermetic covenant has claimed harvesting rights at this site, because none has demonstrated capacity to harvest from the worm's lair.
 
-#### *Appenzellerland*
+#### Appenzellerland
 
 Appenzell is the main village in a secluded region of the area controlled by Saint Gallen. Its residents are the targets of ethnic humor in other areas. They are widely disparaged as unsophisticated rural yokels, even by those from other rural areas. Wrestling is particularly popular in this region, although the sport is pursued in many towns. Wrestling is covered by the Brawling skill.
 
-#### *Baden*
+#### Baden
 
 The town of Baden, whose name means "Bath," contains a series of sulfur springs that have been visited for their medicinal properties since Roman times. They are particularly effective against illnesses of the joints, heart and lungs, and are considered an excellent remedy for baldness and the heart-sickness of failed love. Many other villages near hot springs were popular holiday spots for discomforted Romans.
 
-#### *Vindonossa*
+#### Vindonossa
 
 Between Baden and Basel lie these ruins of a Roman fortress that defended Helvetia from the German hordes across the Rhine. Within its fallen walls is the castle of Hapsburg, from which that noble family takes its name. Bishop Werner of Straussburg, ancestor of the Hapsburgs, constructed it in the 11th century. A scion of the family, although not the most senior, lives here, and his ancestors rest on the family ground.
 
-#### *Basel*
+#### Basel
 
 Founded in A.D. 44 by the Romans, this city sits near the highest navigable point of the Rhine, and looks across the river to a smaller settlement that it also governs. It is a city of merchants and usurers, and is made cosmopolitan by the steady stream of trade that passes through it to the larger towns of the Alps. The bishop has ruled Basel since 1032, and its cathedral has been in place for less than two centuries.
 
 The Copper Rooster, an inn in Basel, is owned by House Mercere, and is used as a message transfer point. Redcaps from the three neighboring tribunals use it as a place to recuperate from long journeys, acquire
 
 
-## *How to Wrestle Like a Mountain Man*
+## How to Wrestle Like a Mountain Man
 
 The Alpine style of wrestling is a strength-based sport. Although agility is useful for attempting throws, this style of wrestling emphasizes power. A bout begins with two men matched by height if there are many contestants — standing on a circle of wood shavings. They shake hands and take up the starting stance. Each is bent over at the waist, resting their weight equally on both legs. Each grips the other on the belt and on the hem of short, sturdy trousers used in this sport. A referee starts the match, and then the men try to throw each other. The first whose back hits the wood shavings loses. Friendly matches last for five minutes. Those involving money continue until someone falls. As an alternative to hitting the ground, a wrestler also loses if his opponent holds him in a bridge. The bridge is a lock hold where the loser is face-upward and is bent over the upper leg of his opponent, which is thrust into the small of the loser's back.
 
 
 fresh horses, restock their saddlebags and drop off or collect messages that have been addressed across tribunal borders. Redcaps who have become too old for the arduous duties of the Hermetic postal service are often retired to the inn. This is why some of the tenants seem to lodge in the Copper Rooster indefinitely. Many retired redcaps train apprentices, as a way to continue serving the House. The inn is named, euphemistically, for the basilisk. These monsters seem to hatch in Basel more often than average.
 
-#### *Berne*
+#### Berne
 
 Berthold V, Duke of Zähringen, founded Berne in 1191. On the day he laid the first stone he went hunting and killed an enormous bear. Taking inspiration from this he named the village after his hunting prize. The Bernese quickly became important players in the politics of this region. It came under control of the Emperor in 1218. Berne is keen to expand into the surrounding region, and it eyes the surrounding villages covetously.
 
 Named for the bear slain by its founder, this city has an odd relationship with the
 
-## *Taking the Cure*
+## Taking the Cure
 
 Characters who take the cure, at any of the hot springs, must spend at least a month at a spa that is historically renowned for curing their particular malady. Afterward they may ignore the symptoms of an annoying or minor physical affliction for three years or until it worsens, whichever happens first. If the affliction worsens the character feels as though the affliction has just been gained, the previous level of affliction does not appear to return. If the character stays away from the baths for longer than three years, then one level of symptoms returns per month, with all returning the next winter.
 
@@ -2715,19 +2715,19 @@ The baths do not truly heal afflictions: the losses on the aging table remain un
 
 local ursine population. The ancient Celts in this region worshipped a bear goddess called Artio. A prince of Berne, according to folklore, was saved from a siege by an army of bears whose leader, a talking bear, he had befriended in the forest. Local myths talk of a merchant selling his daughter in marriage to a bear. The home of the talking bears is not known to the Order, but would be of interest to Bjornaer and Merinita magi.
 
-#### *Constance*
+#### Constance
 
 Constance is the main city on Lake Constance and regulates trade from Bavaria into the Alps. Its merchants and bishop, who is the ruler here, are extremely wealthy. Some commentators claim that Constance is the richest bishopric north of the Alps, but it is hard to be certain if this is true. What is clear is that when the bishop is of decisive character he plays a significant role in both secular and ecclesiastic politics.
 
-#### *Botzberg (Mons Voctieus)*
+#### Botzberg (Mons Voctieus)
 
 This is the site of the battle, which, in A.D. 69, ended Helvetian independence from Rome. This site is not generally haunted, but the remains here can be used to call up the ghosts of fallen soldiers. Many ghosts have reported that religious figures, who sound like primitive magi, were killed in the battle, and magi occasionally excavate in this area, seeking the skulls of these ancient wizards. Extended stays, especially sleeping on-site, stirs the spirits of the field to recreate their battle, with any Hermetic magi taking the role of the fallen Roman priests. A magus who survived the spirit battle would know where the skull he seeks was buried, but the groups of magi who have attempted this have all died, and been dumped on the edges of the field. The ghosts, apparently, don't want the newly dead magi haunting them.
 
-#### *Cirque d'Annibal*
+#### Cirque d'Annibal
 
 Close to the entrance of the Alps from the Burgundinian side through the little pass of Saint Bernard, is a field in which stands a vast circle of ten, ill formed monoliths. Hannibal waited for stragglers from his army here, and held a council of war before marching on into Italy. Members of the Order say this site is ill-omened, filled perhaps with the spirits of those who died on the march from Carthage. As the descendants of the Romans, they believe, their presence angers the fallen. The more melodramatic myths say the shadows here fuse into a demonic shape, part bronze, part man, but mostly elephant.
 
-#### *Domleschg*
+#### Domleschg
 
 This valley demonstrates the superabundance of castles in Rhaetia, holding 21 castles in various stages of use and decay. This site is of particular interest because it is believed that, in the years before the founding of the Order of Hermes, a remarkable battle took place here.
 
@@ -2736,7 +2736,7 @@ Legend has it that during the early years of the Order, a group of 15 druids liv
 
 
 
-#### *Einsiedeln*
+#### Einsiedeln
 
 Saint Meinrad was murdered on the site of the town of Einsiedeln in 861. A member of a powerful family, he had withdrawn from the world to spend his life in prayer before a figurine of the Virgin, which had been given to him by Saint Hildegarde, the abbess of Zurich. A pair of ravens, which he had tamed, followed his murderers when they fled to Zurich. As the reputation of the cell as a place of miracles spread, it was rebuilt and a community of Benedictines settled here.
 
@@ -2744,11 +2744,11 @@ In 968 the bishop of Constance traveled to Einsiedeln to consecrate a new church
 
 Of the abbeys of the western Alps, Einsiedeln is second only to Saint Gallen in terms of secular power. Its abbots are great princes, who are served by hereditary officers of noble lineage. From their vast riches the abbots of Einsiedeln paid for the construction of the Devil's Bridge in Saint Gotthard's Pass, or so they say. Others doubt it is the work of man, and locals swear it was constructed by the Devil, and can show the visitor great boulders thrown by the Devil when cheated of his price.
 
-#### *Fribourg*
+#### Fribourg
 
 This town lies southwest of Bern. Berhtold IV, a Zähringer, founded it in 1157. The House of Savoy continues the frenetic castle building in the area around it, erecting new fortifications at Gruyeres, Estervayer-le-Lac, and Morat during the thirteenth century.
 
-## *Follies*
+## Follies
 
 A desperate and self-destructive desire to build towns and castles typifies the noble families of the Alps. Following the lead of the now-extinct Zähringers, most noble families pour tremendous quantities of manpower and money into the construction of castles that have only temporary military value.
 
@@ -2758,19 +2758,19 @@ If Folly Spirits eat ghosts, it would explain the surprising rarity of haunted c
 
 Local legend says that if you stay up the night of Saint John's Eve you can catch the seeds of ferns. These are fiery, luminescent and golden. Peasants say servants of the devil are forced to give you a bag of money in exchange for them. Similar myths are found elsewhere in the Alps, linking fern seeds to wealth. Hermetic magi believe fern seeds contain Ignem vis, and call them "the blood of the Sun".
 
-#### *Geneva*
+#### Geneva
 
 Geneva is a relatively wealthy city that was ruled by first the Romans, who founded a bishopric here, and then the Burgundians. In 1220 Geneva's bishop rules the city, while its count rules the surrounding lands. His lands are, in turn, surrounded by fortified positions held by the House of Savoy.
 
-#### *Pierres de Niton*
+#### Pierres de Niton
 
 These are two large, flattish rocks that emerge from Lake Léman, slightly south east of the city of Geneva. Hermetic myth says that the members of House Díedne used to perform human sacrifices here, but that may be a distorted folk memory of the Romans who may have sacrificed to Neptune upon them. Gargantua, a giant, threw the largest of these stones into the lake. He is credited with digging Lac Léman and the creation of many of the hills and troughs around Geneva.
 
-#### *Lausanne*
+#### Lausanne
 
 A fortified town near Geneva, Lausanne was settled by the survivors of Alemmanian attacks on the Roman-settled town of Lousonna. In either locale their function was to ensure Roman possession of the approaches to Saint Bernard's Pass. Its inhabitants are in the process of rebuilding their cathedral, slowed by the enormous demand for laborers and masons bought about by the castle building mania.
 
-#### *Pfeffers*
+#### Pfeffers
 
 This is a Benedictine monastery founded in 713, near which are a series of hot springs. Since these springs are recessed in a crevice, patients are lowered into them using long ropes. Since lifting the patients out at the end of each day is so burdensome, it is
 
@@ -2779,11 +2779,11 @@ This is a Benedictine monastery founded in 713, near which are a series of hot s
 
 traditional to leave patients in the heated wells for a week at a time, lowering food to them occasionally.
 
-#### *Heiligenblut*
+#### Heiligenblut
 
 This village, whose name means "holy blood," is named after a vial of the blood of Jesus held in the local church. It was brought to the area by a Byzantine general who died here, of exposure, while on campaign. A member of House Tremere was Marched two centuries ago for attempting to steal the vial.
 
-#### *Interlaken*
+#### Interlaken
 
 Interlaken sits on a thin strip of land between two narrow lakes, Thun and Brienz, each a conduit of trade. It's a useful docking point for merchants coming along the lakes before heading south. A castle, Unspunnen, overlooks it. Last century the Unspunnens ruled much of the Oberland, but their line came to an end in a single female heir, a beauty called Ida.
 
@@ -2795,37 +2795,37 @@ The hill overlooking the western end of Lake Thun has been inhabited since befor
 
 Between Thun and Interlaken is a castle, called Spietz, which was founded by Attila the Hun for reasons unknown.
 
-#### *Lukerbad*
+#### Lukerbad
 
 Lukerbad has the hottest thermal pools in Europe. The usual procedure for use of the baths of Luek is to bathe for one hour on the first day after arrival, and then add an additional hour per day until the patient is bathing for four hours before noon, followed by an hour's nap, then four hours after dinner. A complete cure is thought to take three weeks. Lukerbad was the home of a powerful Flambeau maga named Sabina in the previous century. She disappeared, but her laboratory has never been found. Some magi suspect that Sabina was involved in unsavory theurgic practices, given that she lived near sulfurous wells.
 
-#### *Martigny*
+#### Martigny
 
 The Romans conquered the Martigny in A.D. 15 and it is the site of a festival that has continued since Roman times. Cows are encouraged to fight each other for the honor of becoming the Queen of the Herd. Hermetic magi have occasionally researched this festival, and some think that before the coming of the Dominion, it might have summoned a protective faerie spirit into the Queen, who then watched over the herds. The Queen of the Herd may have some link to the Mithran religion. If you are using the Legion of Mithras from *The Mysteries* in your saga, their Alpine meeting place is in this region.
 
-#### *Mount Pilatus*
+#### Mount Pilatus
 
 Mount Pilatus is a center of Alpine myth. It has so many unusual inhabitants that some Hermetic magi speculate that its slopes have a cluster of regiones that open unpredictably. It is the reputed lair of dragons, home of gnomes, eyrie of a witch, and haunt of a sinner cursed by the Lord. Locals avoid it, and punish anyone who attempts its ascent.
 
 Mount Pilatus is one of those sites in Mythic Europe that is always the source of new adventures. No matter how thoroughly characters survey it, no matter how many creatures they burn out of their lairs, there is always something new on the mountain, or in the mountain, or terrorizing the communities near the mountain. The mountain might be linked to Arcadia, or to the Realm of Magic, or both. Hermetic magi settling there would incite the local peasants and any residents would know no peace due to the mountain's inhabitants.
 
-#### *Pontius Pilate*
+#### Pontius Pilate
 
 Mount Pilatus takes its name from the unquiet spirit of Pontius Pilate. Those who climb the mountain anger him, and he retaliates with terrible weather, which damages the crops in the Lucerne region and makes the lake unnavigable for a few days. Even priests are forbidden to climb Pilatus, because few think that they can exorcise a spirit being justly punished by the Lord. His body lies incorrupt in an icy pool and he descends from the mountain once a year to wash his hands in the lake, which is said to then turn to blood. Hermetic magi once attempted to harvest vis from this ancient ghost. The following tribunal both made the act illegal and sent its commiserations to the sodales of the magi crushed in the avalanche that spoiled the attempt.
 
-## *Lucerne*
+## Lucerne
 
 Lucerne is a small fishing village near Mount Pilatus that becomes economically and politically significant with the opening of the Saint Gotthard Pass, around 1220. Sagas that focus on Mount Pilatus can consider it as their source of manufactured supplies.
 
-#### *Barbegazi*
+#### Barbegazi
 
 The gnomes of Pilatus are small and blue. They avoid coming below the tree line and sleep through the summer. They have huge feet that they can use as skis, or to dig tunnels through snow. These gnomes can affect the weather, calling down instant snowstorms to bury themselves and their enemies. The barbegazi, whose name probably means "icicle beards," are always male. They are found in much of Western Europe, living in tunnels on the tops of mountains that are permanently snowcapped.
 
-#### *Temple of Mercury*
+#### Temple of Mercury
 
 There is a ruined Temple of Mercury near Mount Pilatus. It is of intense interest to Hermetic historians, who try to link it to the three Founders whose *domus magnae* adjoin the Alps. Thus far their cogitations are inconclusive. The temple was used as the meeting place for tribunals before the Midsummer Fair became popular. It remains hidden by magic items that generate illusions, but is not currently inhabited by magi, or used regularly. It would be an excellent site for a chapter house.
 
-#### *Rhaetia*
+#### Rhaetia
 
 The main settlement of this area is the town of Chur, once a Roman colony. It has had a bishop for eight hundred years, but its new cathedral was finished in about 1150.
 
@@ -2834,11 +2834,11 @@ The main settlement of this area is the town of Chur, once a Roman colony. It ha
 
 Much of the territory of Rhaetia lives in a state of *faustrecht*, "club law," where rights go to the strongest. The area is scattered with castles, filled with nobles whose territories are insignificant. The owner of each claims sovereignty and rights over nearby peasants, terrorizing sustenance out of them. Many settlements in Rhaetia have independent entries.
 
-#### *Reichenau*
+#### Reichenau
 
 This island is owned by the Benedictine abbey founded upon it in 724. The abbey is extremely wealthy and has estates scattered down through the Alps to Italy. In the Munster Church, built in 806, lies Charles the Fat, who died here in 888. He is kept company by dozens of spurious treasures.
 
-## *Legends of Barbegazi*
+## Legends of Barbegazi
 
 There is a girl who lives in Lucerne with her mother. Three years ago she had an encounter with the barbegazi. The story, as she tells it, is that her mother was very ill, and too poor to afford the care of a doctor, or medicines, or even food. She was sent to ask her uncle for money, but he refused her, saying that it was not his responsibility to help. He called the girl's father, now dead, a spendthrift and a fool, and said that her mother was now reaping the folly of marrying him. He said he would rather have his fields filled with stones than help her. The girl begged for any small comfort for her mother, but her uncle mocked her and said he would not even give her the rind from his cheese. The girl fled his cottage in tears.
 
@@ -2846,7 +2846,7 @@ She paid little heed to her path, wandered from her way home, and met one of the
 
 That night, a terrible storm caused an avalanche which destroyed her uncle's cottage. He was crushed to death as his house was buried under tons of rubble. His fields were filled with stones.
 
-#### *Barbegazi*
+#### Barbegazi
 
 **Characteristics:** Int +2, Per +4, Str +2, Sta +5, Pre –1, Com 0, Dex +3, Qik +2.
 
@@ -2871,15 +2871,15 @@ The Righi is a mountain roughly halfway between Schwyz and Lucerne, thought by t
 
 
 
-#### *St Beatus' Cave*
+#### St Beatus' Cave
 
 In the Jungfrau region lie a series of caves that show signs of habitation by ancient and primitive people. This cave system is believed to have been the retreat of a British saint. He converted the people of this region to Christianity and performed many miracles, the most dramatic of which was evicting the previous tenant of this cave complex, a dragon.
 
-#### *Saint Bernard's*
+#### Saint Bernard's
 
 Benedictine monks support a hospice in this region, dedicated to, among other goals, saving those who become lost on the Saint Bernard Pass. There have been several monasteries in this pass, the earliest of which was founded either by Charlemagne's illegitimate brother, or his uncle, each of whom was called Bernard and led troops through this area. Yet another Bernard, whose pious service as leader of this community for four decades, led to his canonization, founded the current monastery in 962. At about the same time he founded a second house on the Little Saint Bernard Pass. Each of the houses of Saint Bernard was dedicated to Saint Nicholas of Myra, but Saint
 
-## *The Dogs of St. Bernard's*
+## The Dogs of St. Bernard's
 
 When modern readers think of a St. Bernard, they know only the dog that is the culmination of centuries of breeding. In 1220, the characteristic breed is in its infancy of development. Dogs, however, have been part of Alpine life since the Romans. Used in war and as draft animals, the large Roman dogs known as Molosser formed the basis for the St. Bernard breed. For many farmers in the mountains of the Alps, a dog is more useful than a horse as it can fulfill many draft chores and also will guard herds of cattle from marauding predators.
 
@@ -2889,7 +2889,7 @@ Late in the 11th century the monastery was razed, the monks dispersed and the su
 
 Prior to the foundation of the first monastery there was a pagan temple in the pass. First used by worshippers asking the protection of the Celtic mountain god, in
 
-## *Dragons and Dragonets*
+## Dragons and Dragonets
 
 A man was out hunting chamois on the mountain when he fell into a deep crevasse. Coming to his senses he found that he was in a great cavern, in which slept two dragons. The man hid himself when one of them stirred, but it simply uncoiled itself, licked a rock at one end of the cave, then went back to sleep. After three days of watching each dragon wake and lick the stone the chamois hunter, who was starving, licked the stone himself and found that it made his hunger end. The chamois hunter survived for months by licking the stone, until summer came and the dragons awoke at the same time. One flew off, and the second turned to glare at the spot where the man was hiding. Then it reached for him with its tail, and lifted him from the
 
@@ -2901,11 +2901,11 @@ Roman times it became an enclave of the priests of Jupiter. It was destroyed dur
 
 The hospice has strong, but informal, Hermetic ties. House Jerbiton assists in the identification of dead travelers, as part of their charming of the Church. The mundane merchant house behind which House Mercere shelters occasionally supports this monastery financially. Properly equipped Redcaps can use less developed passes, for example they use the Saint Gotthard long before it becomes popular among mundanes, but merchants in their less covert operation find this an essential waypoint.
 
-#### *Saint Gallen*
+#### Saint Gallen
 
 During the dark period between the fall of Rome and the rise of the Frankish empire,
 
-## *Blizzard demons*
+## Blizzard demons
 
 Monastic presence in the mountain passes is vital, because it protects travelers from a type of demon that dwells in the Alps. These creatures can cause blizzards, so that travelers become lost in the snow, and lose their faith when faced with their own mortality. Once their faith is broken, the demons slay them.
 
@@ -2914,7 +2914,7 @@ Celtic monks made valiant efforts to keep the light of civilization alive. One o
 
 
 
-## *Infernal Bridges*
+## Infernal Bridges
 
 The area about Lucerne lies on a trade route through the mountains that divide Italy (and the sea-lanes of the Mediterranean) from the agricultural lands and manufacturing centers of France and the Holy Roman Empire. This trade increases once St Gotthard's Pass, in the Ticino valley, is bridged, sometime around 1220. This bridge, like many in this Tribunal, is said to have been built by a devil.
 
@@ -2931,7 +2931,7 @@ Hermetic magi know that demons can be tricked, but most demons are sufficiently 
 
 Gallus's cell grew into a monastery, then a cathedral, as a town sprang up around the place where he had fallen into the briar
 
-## *Rosegarten*
+## Rosegarten
 
 One regio that is still accessible belongs to a dwarf king, Laurens, who rules a land of roses. Laurens made war on his neighbors to kidnap a beautiful faerie princess. Her family followed the path of roses back to his realm, and reclaimed her. They captured Laurens, and imprisoned him.
 
@@ -2941,31 +2941,31 @@ bush. True to the goal of the Celtic founders, Saint Gallen became a center of l
 
 During the 10th century the abbot fortified the town with a curtain wall and seven watchtowers. He and his Benedictines, perhaps 100 monks, took up weapons and conquered their neighbors. Since that time the abbot of Saint Gallen has controlled many of the surrounding territories.
 
-#### *Saint Pierre*
+#### Saint Pierre
 
 This tiny village contains a column raised by Constantine the Great, which initially sat at the highest point of Saint Bernard's Pass. It was erected in 339 to replace a statue of Jupiter Penninus, which the first Christian emperor ordered destroyed.
 
-#### *Saint Gotthard Pass*
+#### Saint Gotthard Pass
 
 This pass was opened for foot traffic around 1220, diverting traffic from the other Alpine passes, as it is a more direct route from Basel or Zurich to Italy. Locals claim the Devil built it but the abbot of Einsielden insists they paid for its construction. It is undergoing improvement, and may be ready for pack animals soon.
 
-#### *Saint Maurice*
+#### Saint Maurice
 
 This village is named after a Christian soldier martyred here in 302 for refusing to worship the Roman gods. The Ring of Saint Maurice, a powerful relic, is held by the archbishop of Salzburg.
 
-#### *Savoy*
+#### Savoy
 
 Those sections of the tribunal that lay in the Kingdom of Burgundy are in the territory of the house of Savoy. The Covenant Where Journeys End, an ancient covenant whose magi are predominantly members of House Merinita, claims many of the vis sources in the area, but most of the other Alpine covenants have at least one chapter house here, primarily to gather vis. This region has been ill-omened for the Order, as Hermetic settlements here were destroyed during the Schism War and the purge of House Tytalus. Journeys End was severely damaged during the civil war within House Merinita, and some predict that the next crisis that shakes the Order will be presaged by the destruction of a Hermetic settlement in this area. Hermetic magi of a less mystical bent point out that there was no warning from this area about the corruption of House Tremere, or the rise of the Shadow Flambeau.
 
 Savoy attracts Seekers interested in the various ruined Hermetic settlements, and the relatively stable chapters here are often the proving grounds for magi of middle age, or retirement quarters for ancient or addled magi. Savoy, and its ruler, are described on pages 24–27 of *A Medieval Tapestry*.
 
-#### *Val Fanes*
+#### Val Fanes
 
 The Fanes, a style of faerie, ruled a powerful kingdom in a valley in the Ticino region, but were conquered in ancient times by humans. They hide, awaiting the time of reckoning, when they shall have vengeance and rebuild their fallen palaces. Valnastium, the covenant in this area, favors priests because the aura of the chapels built on places of faerie power has bottled away many of the Fanes, leaving other important sites unguarded, and harvestable.
 
 A ruling in the Peripheral Code indicates that Primus Andru, leader of the Covenant of Valnastium, engaged in just war against one of the faerie kings in this region. He was pardoned as the Tribunal ruled that he had the right to defend those in his employ or under his protection from the manipulations of the faerie, who wished to use them as game-pieces. Gossip indicates that Andru claimed the crown of a summeraligned prince during this conflict. Discrete ill will is still felt between Valnastium and Journeys End over this issue.
 
-#### *Vervay*
+#### Vervay
 
 A society dedicated to the cultivation of the grape, called the Abbaye des Vignerons, is centered on Vervay. Every fifteen to twenty years the society sponsors a festival to celebrate viticulture. The finest grape-grower is crowned and presides over a procession and festival, and the most beautiful girl in the village is given a large dowry and is allowed to select the husband of her choice. The society acts like a guild, rewarding skilled growers with medals and pruning shears. Bronze tools were a traditional sacrifice to
 
@@ -2973,18 +2973,18 @@ A society dedicated to the cultivation of the grape, called the Abbaye des Vigne
 
 the goddess of the Rhaetians, so this festival may be very ancient.
 
-#### *Vorarlberg*
+#### Vorarlberg
 
 A small region on the flood plains of the upper Rhine, Voralberg is notable for its isolated villages, and relatively high faerie auras. The Romans had a fortress here, at the site of the regional capital, Bregenz. Several folktales from this area describe dragons, and "wandering scholars" who interact with them. Dragons in this region seem to be linked not to fire, but to tempests, storms and avalanches.
 
 There are many dragons in the area. A beggar destroyed a farm in Bezau with a pet dragon he led by a red piece of rope about its neck. Lake Sonderdach has a resident dragon, which speaks to those who would swim in the lake, warning them away. Vale Galina contains a cave where a hoard, deposited by a scholar, is guarded by a dragon. A man from Venice once came to the village of Sontag and mounted a dragon there, riding him off into the surrounding mountains. In this area Venedigers, "Men from Venice", are a type of faerie.
 
-#### *Winterthur*
+#### Winterthur
 
 Outside the village of Winterthur, near Zurich, is the home castle of the Kyburgers. Their territories extend north to the Rhine and east as far as Lake Constance. In that area they have about 100 other castles under vassalage, but given the vast number of castles in the Alps, this may not have been too difficult to achieve. As a demonstration, although Castle Kyburg is within two hours walk of Winterthur, a vassal of the Kyburgs constructed a second castle, overlooking the town, during the last century.
 
 
-#### *Zurich*
+#### Zurich
 
 The Romans, who named it Turicum, founded the city of Zurich. It was a customs port, mostly for textiles shipped south from Gaul. Trade along this route continued to be profitable, and Zurich gradually expanded in size and status. In 1218 it came under the control of Frederick, who became Holy Roman Emperor slightly later.
 
@@ -2992,7 +2992,7 @@ The Romans, who named it Turicum, founded the city of Zurich. It was a customs p
 
 Bavaria is a broad plateau surrounded and pierced by mountains. It is divided into northern and southern sections by the Danube. The ducal seat is at Regensberg, straddling the river at the highest point navigable by deep-draughted vessels. The
 
-## *The Traveler and the Dragon of Brand*
+## The Traveler and the Dragon of Brand
 
 A dragon was tormenting this village when a traveling scholar stopped here for the night. He said he had terrible powers, and the people became more afraid of him than the dragon. He offered to destroy the dragon and asked the villagers if he should destroy the beast with fire or water. Being more afraid of the man than the dragon, and more afraid of fire than water, they chose the latter.
 
@@ -3002,13 +3002,13 @@ Danube and its tributaries are major avenues for transport and trade. The river 
 
 Bavaria's wealth is found in trade, forestry and agriculture. With notable exceptions, for example, Augsburg, Bavaria has comparatively little mineral wealth.
 
-#### *Augsburg*
+#### Augsburg
 
 The people of Augsburg mine gold, silver and copper. This has made them extremely rich, and given their settlement extraordinary prestige.
 
 A series of secret tunnels have been found beneath Augsburg, linking two churches, one on each side of the city. The Quaesitores, and members of the Houses of Jerbiton and Criamon, have investigated these catacombs, and suspect, from the Hermetic symbols mixed into the religious iconography on the walls, that this was the residence of a religious magus. The identity, location and fate of this individual remain absolutely obscure. No covenant claims these tunnels, and they might be suitable for settlement by a chapter house, but the dominion aura of city has so far dissuaded those seeking a site.
 
-#### *The Danube*
+#### The Danube
 
 The Danube is one of Europe's major rivers. It rises from sources in the Black Forest and, fed by Alpine tributaries, flows in a roughly southeasterly direction, passing Regensberg and Vienna before leaving the tribunal. A few days travel after it enters Hungary its course turns south, before eventually turning east again and draining into the Black Sea. It is a major route for trade, being navigable for virtually all of its length, although it is subject to periods of flooding and low water, and parts freeze in winter.
 
@@ -3020,7 +3020,7 @@ lar in 1220. Charlemagne attempted to have a canal dug to link to the Danube to 
 
 The Covenant of the Sinews of Knowledge lies hidden behind a minor cataract that feeds the Danube.
 
-#### *Mittenwald*
+#### Mittenwald
 
 Mittenwald is renowned as home to a master carver who makes the very finest instruments. None can match his technique, yet, when he dies, one of the other instrument makers in the village somehow becomes the new master carver. The transition takes less than a day.
 
@@ -3028,12 +3028,12 @@ This is a remnant of one of the oldest forms of magic, atavism. By being where t
 
 Members of the Order who have investigated the master carver have found his technique and practices absolutely mundane. If the techniques of the master carver are followed exactly, the instruments created are not magical, merely excellent mundane versions.
 
-#### *Munich*
+#### Munich
 
 Although this area was settled for some time before their arrival, this town's history
 
 
-## *Danu*
+## Danu
 
 Danu is a river goddess of tremendous power. Unlike most river deities, who gain their power from an attachment to a single watershed, Danu is linked to a complicated web of rivers found throughout Mythic Europe. She embodies the Danube, the Dniepner, the Don and several other rivers with similar names in England and Ireland. Danu is also linked to the land of Ireland, but her presence there dimmed when the Gaels forced her children, the Tuatha de Danu, to become reclusive creatures that dwell under the Earth. She has a few followers in House Merinita, and they claim her area of influence spreads even further east, into Asia.
 
@@ -3045,7 +3045,7 @@ Danu is powerful beyond statistics and no longer interacts directly with mortals
 
 dates back to the 700s, when a band of Benedictines started a monastery here. A settlement formed about it, and is still expanding.
 
-#### *Regensberg*
+#### Regensberg
 
 Regensberg is the seat of the duke of Bavaria, and is the richest city in the region. It sits on the Danube, and trades with the cities to the east. Trade also flows through it over the Brenner Pass and down into Italy. The link is substantial enough that Italian cultural influences are starting to appear in the social life and architecture of the richer sections of the city.
 
@@ -3056,13 +3056,13 @@ As one travels east, the Alps grow mountainous and climatically unpleasant. In t
 
 The population of the eastern marches is concentrated in the eastern foothills, because soils are richer there and the land easier to farm. The ducal seat for Austria, the oldest eastern duchy, is on the Danube at Vienna. There is a cluster of other duchies in this region. The most significant pass in the east is the Brenner, in use since Roman times.
 
-#### *Burgenland*
+#### Burgenland
 
 The territory of Burgenland is divided between two tribunals, with its northern plains part of Transylvania. The southern
 
 
 
-## *Dolomite Legend*
+## Dolomite Legend
 
 The white color of the Dolomites is contrasted, in the local imagination, with the somber blackness of the Alps. Folklore suggests that the Salvani, a tribe of gnomes, made the mountains white.
 
@@ -3078,7 +3078,7 @@ and central area is a thin strip of wooded hills that lie at the very edge of th
 
 The settlement of Eisenstadt effectively marks the Tribunal border. The redcaps use an exchange point west of Eisenstadt, a small regio that contains a marble statue of the Trivia, the threefold goddess of the roads.
 
-#### *Dachstein*
+#### Dachstein
 
 Close to Dachstein lie a series of ice caves, which lead to a regio. In the Dachstein regio live a community of giants. The majority are not particularly bright. They are ruled by a small caste of magic weaving giants, who sometimes pretend to be as simple as their servants, but are exceptionally devious. The giants travel to Arcadia to forage, but their gateway leads to the Summer lands. They claim to be a raiding party that was harried by Summer Faeries and took refuge in the mortal world.
 
@@ -3086,7 +3086,7 @@ The giants are allies of the Covenant Where Journeys End and sometime trade with
 
 The giants of Dachstein claim an ancestral homeland on the edges of Arcadian Winter. The giants there are larger, smarter and more cultured than the Dachsteiners, who have been weakened by their proximity to the mundane realm. Giants, beings aligned to the Magical realm who live in Arcadia, fascinate those Hermetic magi who advocate retreat before the Dominion.
 
-#### *Dolomites*
+#### Dolomites
 
 The Dolomites are a region of mountains in the south-east of the Tribunal. Their inhabitants differentiate the Dolomites from the rest of the Alps because they are made predominantly of limestone, which gives them a paler colour. The erosion of other materials from around the limestone has left hills and mountains of unusual starkness. They sometimes look like single, enormous rocks. At sunrise and sunset, the limestone surfaces blaze with reflected colour and during each day, on an erratic schedule determined by the angles of their surfaces, the mountains glow in white.
 
@@ -3099,15 +3099,15 @@ sity determined by the lunar schedule. On nights with no moon, it does not rise.
 
 A second unusual phenomenon is that coral is sometimes found in the rocks here. Hermetic magi consider coral a useful substance, since it can be employed in antidemonic enchantments, so the life cycle of the coral plant is well understood. That coral is found beneath the earth on some of the highest mountains in Europe is bizarre. Some speculate that it is an earth coral that, like normal water coral, turns to stone when removed from its growing environment. Religiously inclined Jerbiton magi see it as the buried remnant of a crop that grew during Noah's Flood.
 
-#### *Klagenfurt*
+#### Klagenfurt
 
 Refounded in 1161, this Carinthian town was the site of one of Herakles's lesspublicized labors. The villagers were unable to drain the marshes nearby because of the lindworm, a dragon with a taste for the flesh of virgins. Fortunately Herakles wandered through the area and dispatched the creature, thereby making all the virgins in the vicinity quite grateful. The locals keep the skull of the lindworm to this day.
 
-#### *Melk*
+#### Melk
 
 The abbey at Melk was originally a castle of the Babenbergs, but was passed to the Benedictines a century and a half ago. The monks here are great collectors and cataloguers of knowledge, and their library is excellent. The abbey reports directly to the Pope, without intermediary bishops, and persistent rumor links it to a special school for Hermetic magi who take monastic and military vows, dedicating their lives to the war against demons.
 
-## *The Other Mine*
+## The Other Mine
 
 Emeralds are extremely rare in Europe, compared with the rest of the world. Stones in Mythic Europe, other than those created by magic, usually come from a series of mines near the shores of the Red Sea in distant Egypt. Some come from Asia, along the Silk Road. Others may come from Russia, in many ways even less accessible than the Levant. There is only one viable source of emeralds in Europe, exploited by the Romans, in the Habach Valley, near Salzburg.
 
@@ -3115,35 +3115,35 @@ No one knows just where it is.
 
 Many suspect that the mine will never be found. Some claim the faeries took the stones. A few continue prospecting, in the hope that the defenses of some ancient magus, who hid the site, will erode as time and the Dominion wash over them.
 
-#### *Salzburg*
+#### Salzburg
 
 This city has been the main settlement of a broad region of Alpine land since the Romans invaded in the first century. They mined salt here, which gives the town its name. The town was fortunate enough to avoid the destruction wrought on its neighbors by successive migrating tribes of barbarians. As a surviving city, it has tended to draw refugees from its desolated neighbors.
 
 One of the traditional gateways to the Alps, its size and wealth have made its leaders decisive players in regional politics for centuries. In the thirteenth century it is the seat of a powerful archbishop, who opposes the Duke of Austria. The archbishop keeps the ring of Saint Maurice, said to make one undefeatable in battle. His castle, thought impregnable, has never been successfully taken in siege.
 
-#### *St Wolfgang*
+#### St Wolfgang
 
 In 976 a priest named Wolfgang decided he wanted to found a church in the Abersee valley. He flung his axe at random and founded his church where it fell. He then challenged and defeated the Devil, so that he might never harm the new foundation. Wolfgang was canonized for his miraculous feats, and his church is a pilgrimage site. Characters who are plagued by demons sometimes retire from the world here. At any time, one or more of the monks may be a powerful, retired magus, hiding out from the servants of demons he has banished back to Hell.
 
-#### *Schwyz*
+#### Schwyz
 
 Slightly before the year 1200 the monks of the Einsielden were granted the lands around Schwyz, after claiming that they were uninhabited waste. The Schwytzers, whose opinion differed, violently assaulted the abbey's tenants. They then became active in international affairs, joining the coalitions that formed against the Emperor. Recently the Imperial mantle has descended on their ally, Frederick II.
 
 That it should be possible to misplace the Schwytzers seems extraordinary, even to Hermetic magi, who make a habit of ensuring nobles misplace Alpine villages. Many see the Vanishing Away of the magi from the Covenant of Tarragon Vale, which is nearby, and the sudden appearance of the Schywtzers as being too strongly linked for coincidence. If any of the other covenants have discovered a more detailed explanation they have yet to proffer it to their sodales.
 
-#### *Staubbach Fall*
+#### Staubbach Fall
 
 The Dust Fall is a thin cascade near Lauterbrunnen. Its height is so great and volume so little that before the water can strike the ground it dissipates into mist. This gives it the appearance of a diaphanous cloth whipped by the wind. During the winter an inverted icicle of monstrous proportions forms here: its cone towers halfway up the falls.
 
 The Dust Fall is a source of Imáginem vis, but its harvesting rights are highly mobile, traded as a high-value barter item amongst the magi of the Tribunal. Currently the right to harvest vis from the mists of Staubbach lies with Paxon of Verditius, but it is inconveniently distant from his own covenant, and he would be willing to sell were an intriguing offer to be made. This is a public vis source — see page 6.
 
-#### *Styria*
+#### Styria
 
 Styria is a broad swathe of foothills that stretch from the Austrian Alps down to the plains of Eastern Europe. Historically it is a border, a defensive line held by the Romans, and later Christians, against the steppe peoples who emerged from central Asia. Although there have been garrisons here since Roman times, Styria, along with Austria, was founded to defend the flank of the Frankish empire.
 
 During the period of relative peace in the 11th century, churches sprouted throughout this country much as castles sprouted elsewhere. This was part of the effort toward consolidation of the territory made by the ruling family, who died out in 1192. The new rulers, the Babenbergs, have continued in much the same vein.
 
-#### *Vienna*
+#### Vienna
 
 Vienna sits at the crossroads of two major trading routes: the Danube and the eastern Baltic-Italian route. The Romans, understanding its strategic importance, founded a city here, but when the Germanic peoples rolled back the borders of the Empire they abandoned this site, on the advice of a local saint.
 
@@ -3157,7 +3157,7 @@ Several Alpine covenants have interests in Vienna. The Rorschach Chapter of the 
 
 A basilisk hatched in a house in Vienna in 1212. The locals hope they destroyed it by chasing it into a well and pouring stones down upon it. Some Hermetic magi doubt the efficacy of this technique, noting that even if it works it leaves a dead basilisk in the groundwater. Several covenants would be grateful to anyone who could determine the fate of the basilisk.
 
-#### *Werfen*
+#### Werfen
 
 A complicated series of ice caves is hidden near Werfen. The caves have a magical aura of 4 and contain a fountain that pours forth 30 pawns of Imáginem vis each year, and they are mentioned a couple of times in the tribunal's Peripheral Code. Hermes Lore rolls of 9+ reveal two attempts to found chapter houses here, but each has failed. No covenant can claim the source, since they cannot demonstrate that they have the ability to consistently use it. Ambitious young magi might consider settling near the ice caves.
 
@@ -3165,7 +3165,7 @@ The only access to the caves is by foot through difficult terrain. New colonizer
 
 One of the potential chapters failed for logistical reasons — it had been planned badly from the beginning. The members of the other were found dead, although they showed no obvious injuries. Some had cut syllables of gibberish into the walls of the ice caves. The most widespread theory is that the cave is the lair of a lucifugus (see *Hedge Magic,* page 76). Others believe it might be some sort of delirium-inducing disease spirit or a monster that hibernates between feeds, like an ice wyrm.
 
-#### *Wörthsee*
+#### Wörthsee
 
 This lake, in Carinthia was once the site of a town of sinners. One evening a tiny man, with an equally diminutive keg under his arm, walked into the public house claiming to be an agent of the righteous anger of the Lord. He demanded the people of the town mend their ways, lest he pull the bung of his little barrel and flood the whole town. The drunkards of the inn mocked the little man, and, as good as his word, he drowned the village. Those sailing across the lake at night can still hear the bells of the church below the lake's still waters.
 
@@ -3212,7 +3212,7 @@ From the 9th until the 11th century, dukes of Bavaria were central to series of 
 
 Before histories were written a layer of villages covered the area of the eastern Alps. It is clear that some communities farmed, others mined; some trade occurred between the two. The Celts invaded about 500 BC, and founded a kingdom whose capital was at Noricum. The Romans, who traded with these Celts for iron and salt, invaded the area in 15 BC, securing the Danube as a frontier against the Germanic tribes to the north. Continued raiding by groups emerging from Asia and northern Europe eventually forced a Roman withdrawal, in AD 500. After much internal strife, the area was divided between the Bavarians, Slavs and Alemmanians. The Bavarians attempted to pacify their neighbors using evangelists, and the city of Salzburg, spiritual center of the region, traces its history from one of these attempts.
 
-## *Apocalypse Delayed*
+## Apocalypse Delayed
 
 Some Austrians believe that the world was meant to end in 1000. A dragon so large that it fed on other dragons was to rise up from the Earth and battle a gargantuan beast from the sea, thus heralding judgment and the unpleasantness due sinners at the end of the world. Saint Sylvester prevented the end of the world by slaying the creature as it awakened on New Year's Day. How far this set back Armageddon isn't clear. There is some confusion about which "Saint Sylvester" this was. It might have been Pope Sylvester II, widely thought to be a magician, whose pontificate ended slightly after the millennium.
 
@@ -3224,7 +3224,7 @@ In 976 a nobleman named Marchio Liutpoldos was made overlord of the nobles who h
 
 
 
-## *The Devil in the Details*
+## The Devil in the Details
 
 Many cathedrals are said to be constructed with the aid of devils. A usual condition of this contract of employment is that if the master mason supervising the construction speaks the name of any of the saints, then the Devil can take his soul. A story told of many other cathe-
 
@@ -3338,7 +3338,7 @@ Robinet, Isabelle (1993) *Taoist Meditation: The Mao-Shan Tradition of Great Pur
 
 
 
-#### *General Index*
+#### General Index
 
 Aareschlucht 97 Adrasteia 46 alcohol 34 amaranth 14 Andru filius Astrolabe, primus of Jerbiton 82 Angela filia Constance 87 Antares 52 Appenzellerland 97 Athena Alpina 45 Augsburg 111 Augustina filia Ragoneda 73 Baden 97 Baker's Day 26 Balbina filia Havelock 69 barbegazi 103, 105 Basel 97 baths 98 Bavaria 111, 120, 122 Bavarian Common 44 Bean-Spitting Day 24 Beloved Enemy 51 Bergenland 113 Berne 98 Black Lineage 86 black quartz 54 blizzard demons 107 blood of the Sun 100 Boot Burning 26 Botzberg 98 Bronwyn filia Astrolabe 88 Capra filia Bullfinch 59 Cara filia Sigurd 70 Carlo filius Innocu 58 Carmine filia Susannah 92 Cato 46 Cave of Twisting Shadows 29 chapters 10 Charlotte filia Lupina 58 Childermas 27 Chloe, Minstrel 91
 
@@ -3356,7 +3356,7 @@ redcaps 20, 50 Regensberg 113 Regina 39 Reichenau Rhaetia 103 Rhaetian 78 Righi 
 
 Yselt filia Rosalia 58 Zähringers 100, 123 Zurich 111
 
-#### *Index of New Spells*
+#### Index of New Spells
 
 Blizzard of Down (CrAn 20), p. 61 Call the Basilisk (CrAn(re) 50), p. 48 Cocoon of the Mulberry Worm (CrAn 30), p. 61 The Couturier's Art (CrAn(He, Im) 10), p. 61 Daughter of Zephyrs (CrAn(Re) 45), p. 48 The Foes of the Ibis (CrAn(Re) 40), p. 48 The Hidden Skin of the Serpent (MuCo(An) 30), p. 72 Intestinal Suffering (PeCo 40), p. 73 Liar's Chime (InMe(Im) 25), p. 49 Nagging Curse (PeCo 20), p. 73 The Ninth Stitch (CrAn(He, Im) 10), p. 61 Rack of Thorns (MuCo 20), p. 72 Recreating the Inner Sea (CrAq(Co) 25), p. 72 The Scold's Bridle (CrAn 20), p. 61 Shower of Needles (CrCo(Re) 20), p. 72 Statue of Bone (MuCo 50), p. 72 The Suffering of the Seer (MuCo 35), p. 72 The Thief of Memory (PeMe 25), p. 49 Tickling the Humors (CrMe 20/25), p. 85 To Know the Owner as Might His Hound (InAn 25), p. 49 Visions Beatific (MuIm(Me)
 

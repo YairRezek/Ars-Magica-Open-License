@@ -14,7 +14,7 @@ Blood & Sand is the indispensable guide to the Hermetic Tribunal of the Levant. 
 
 
 
-# *Blood and Sand* CREDITS
+# Blood and Sand CREDITS
 
 **Author:** Niall G. F. Christie
 
@@ -46,11 +46,11 @@ Saint Paul, Minnesota info@atlas-games.com • www.atlas-games.com
 
 
 
-### *About the Author*
+### About the Author
 
 Niall Christie is a professional medieval Islamic historian, with a primary specialty in the Crusades. His wife, Steph, is a professional mathematician, and so they don't argue about their work very much. Niall has been playing and writing material for Ars Magica since he was first introduced to the game in 1992, although this is his first book. Comments are welcomed, either to **niallchristie@yahoo.com**, or via the publisher.
 
-### *Dedication*
+### Dedication
 
 The author would like to dedicate this book to three people: to Damelon Kimbrough, for first encouraging him to publish games material; to Charles de Lint, for his words of wisdom; and to Steph van Willigenburg, for more than words can express.
 
@@ -136,7 +136,7 @@ Islamic tradition divides Uthman's reign into six good years and six bad, with t
 The last *rashid* was 'Ali ibn Abi Talib (r. 656-661), who was the Prophet's son-in-law. 'Ali spent his entire reign struggling against enemies, of whom the most significant was Mu'awiya ibn Sufyan, a relative of Uthman and the governor of Damascus. The two met in battle at Siffin in Iraq, but after fighting for a time they agreed to have their dispute arbitrated by representatives chosen from the two sides. As negotiations went
 
 
-# *Muslim Mages*
+# Muslim Mages
 
 Before Islam, the Middle East was home to a number of wizards, most of whom either lived in isolated places as hermits, or occupied positions as advisors to tribal rulers. With the rise of Islam, many of these wizards converted. Most continued to serve their chiefs or the new Muslim governors of their home territories, but many joined the Muslim armies as warrior mages. The precise size and quality of the magical contingents of Muslim armies varied, depending on the whims of the wizards who joined them, but it became normal for the caliph to be served by a small force of mages. As time went on, local sultans would also gather their own retinues of mages, and this situation persists up to the Middle Ages. This is not an ideal situation, for rivalries between wizards can still sometimes erupt into violence, crippling Muslim forces.
 
@@ -149,7 +149,7 @@ Although 'Ali was dead, he was not forgotten. His followers remained, and would 
 
 Even before 'Ali's death Mu'awiya had claimed to be the rightful caliph. After the assassination of his rival he moved the political capital of the Islamic world to Damascus in Syria, and began a tradition of hereditary succession to the caliphate by nominating his son Yazid as his successor. Mu'awiya was a member
 
-# *The Hermetic Arrival in the Levant*
+# The Hermetic Arrival in the Levant
 
 Charlemagne, a man of wisdom and culture, had more allies in the Order of Hermes than the Quaesitores would like to admit. One result of the embassies he exchanged with Harun was that he managed to secure the caliph's permission for the Order to found two covenants in the Levant. In 802 Urbs Rubra was founded at Petra in southern Palestine, followed by Urania in the Caucasus in 806. Harun himself took an interest in Hermetic magic, and it is rumored that he was taught its use by members of the Order. In Europe the area occupied by these covenants was soon recognized by Hermetic magi as a tribunal of the Order. It was named "the Tribunal of the East," as at the time the Order had not made any further progress in this direction.
 
@@ -174,11 +174,11 @@ From the mid-ninth century the power of the 'Abbasid caliphate began to decline.
 Although the Buyids were Shi'is, they maintained the existence of the Sunni caliphate under their control, not attempting to impose their doctrine on their subjects. Which Shi'i sect they adhered to is not clear. It seems that they preferred to find their own place within the established order rather than attempting to replace the Sunni caliph with a Shi'i one.
 
 
-# *End of Contact*
+# End of Contact
 
 After Harun's death civil war broke out between his sons. The attention of the Muslim world turned inward, and contact with the Hermetic covenants was brought to an abrupt end. The covenants found themselves forgotten by their former Muslim comrades, a state that was further reinforced by the fragmentation of the Muslim world. The tribunal continued to be a quiet backwater of the Order until the period of the Crusades.
 
-# *Saga Seed: Unusual Neighbours*
+# Saga Seed: Unusual Neighbours
 
 Harun's reign was an age of wonders, when interaction between the mundane and magical realms was at its height. In some areas *jinn* and humans interacted freely, sharing communities and trading with one another. It may be that in some remote areas this continues to be the case. The characters may find themselves sharing their lands with very strange neighbors!
 
@@ -187,13 +187,13 @@ Storyguides might also want to use this situation to parallel the interaction be
 
 The form of Islam followed by rulers of other provinces also varied widely, even if they acknowledged the caliph's authority.
 
-# *Saga Seed: Berber Wizards*
+# Saga Seed: Berber Wizards
 
 When the Fatimids invaded Egypt, they were supported by Berber wizards, who practiced a form of magic never encountered before by other Muslim wizards. The mages who opposed the invasion were utterly destroyed, and no magi of the Order ever had contact with them, so the magic they wielded remains a mystery, although the evidence would seem to suggest that it was of great power.
 
 News comes to the tribunal that a new leader has arisen among the Berbers, and even now is gathering a massive army, complete a large magical contingent, intending to invade Egypt and the rest of the Middle East. If the invasion is not stopped, it may change forever the face of the Levant. In addition, if the invasion happens to coincide with that of the Mongols (see below), the magi of the Levant may find themselves crushed between the hammer and anvil of two simultaneously invading forces.
 
-# *Story or Saga Seed: A Muslim Hermetic Tradition?*
+# Story or Saga Seed: A Muslim Hermetic Tradition?
 
 The characters encounter a Muslim magus whose magic bears a striking resemblance to that of Hermetic magi. Investigation reveals that this magus traces his magical lineage to Harun himself. It would seem that Harun was indeed taught Hermetic magic by members of the Order, and he passed what he learned on to a number of mages in his retinue, who passed it on to their own apprentices, and so on throughout the ages. How will the characters deal with this? It is normally forbidden for Hermetic magi to teach their magic to those outside the Order, but faced with this *fait accompli*, the characters might try to persuade the Muslim magus and others of his tradition to join. There might even be enough of them to form a new house! In this way the characters might win renown among their sodales. They may also make enemies among some of the more zealous crusading magi. Another consideration is how the Muslim Hermetic tradition may have evolved. The Muslim magi may have developed unusual powers or new techniques, which the characters may be keen to learn.
 
@@ -224,11 +224,11 @@ The Byzantine emperor's chief representative, Taticius, left Antioch in February
 
 The initial Muslim reaction to the arrival of the Crusaders was one of apathy and compro-
 
-# *A Time of Signs and Miracles*
+# A Time of Signs and Miracles
 
 The First Crusade was a time of signs and miracles. Comets heralded expeditions, ghosts of saints led the Latin armies into battle, and visions and other miracles became almost commonplace. Perhaps the greatest of these miracles occurred while the Crusaders were besieged in Antioch in 1098, a time of direst need. The leaders of the Latin forces were approached by a southern French servant named Peter Bartholomew, who had received several visions of St Andrew, revealing to him the location of the Holy Lance that pierced the side of Christ. Following his instructions, the Crusaders found the Lance under the cathedral Church of St Peter. Soon after they carried the Holy Lance in a sortie from the city and broke the siege. The Crusaders continued to carry the Lance into battle until 1101, when it was lost in Asia Minor. No one knows what became of it after then.
 
-# *Story Seed: Quest for the Lance*
+# Story Seed: Quest for the Lance
 
 The characters receive signs directing them to the resting place of the Lance. However, the quest will be long and hard, potentially taking many years, and will require the characters to prove themselves worthy of the relic. In this way the search could become as much an internal as external challenge for the characters.
 
@@ -238,7 +238,7 @@ mise. Many Muslim rulers made truces with the Crusaders, being preoccupied with 
 
 In October 1147, responding to calls for the Crusade, King Louis VII of France and Emperor Conrad III of Germany arrived at Constantinople. They fought their way across Asia Minor, eventually reaching the Latin states in Spring 1148. At a meeting of the High Court at Acre on the 24th of June, the decision was made to attack Damascus, even though at the time the city was allied with Jerusalem. The
 
-# *The Levant Tribunal*
+# The Levant Tribunal
 
 The First Crusade also saw an explosion of Hermetic activity in the Levant. Many Hermetic magi took part in the Crusade. Members of Houses Flambeau, Tremere and Tytalus in particular joined the crusading armies. Some were genuine Crusaders, fired by zeal for their faith. Others recognized the opportunity to plunder the resources of the East, while some Flambeau magi also sought revenge for what they saw as the murder of their founder by Muslim wizards. Some Muslim magi attempted to oppose the Hermetic onslaught. Latin chroniclers noticed in particular the activities of the sorcerers of Jerusalem, who used their magics to curse Latin war machines and build up the city's defenses. However, these Muslim wizards were few and far between, and not being centralized in a single organization, they were unable to stand for long against their Hermetic opponents.
 
@@ -251,7 +251,7 @@ attack was severely mismanaged and failed miserably. Conrad left the East on the
 
 Nur al-Din took control of Damascus in 1154, making himself the supreme Muslim ruler in Syria. At this point both Nur al-Din and the Crusaders turned their attention to Egypt, where the Fatimid caliphate was weak and ailing. During the 1160s both sides intervened in the country, and in 1168-9 a Muslim army sent by Nur al-Din, under the command of a Kurdish emir named Shirkuh, prevented the Crusaders from conquering it. Shirkuh became the vizier of the Fatimid caliph in 1169, but died a short time after. He was succeeded by his nephew, Salah al-Din, better known to modern historians as Saladin. Salah al-Din took control of the Fatimid caliphate, and abolished it in 1171, returning Egypt to the
 
-# *Treachery at Damascus*
+# Treachery at Damascus
 
 The failure at Damascus was the result of treachery on the part of some of the Latins resident in the Levant, who accepted bribes from the city's inhabitants to betray their comrades. For their betrayal they received what they thought was a chest full of gold coins. However, these had actually been enchanted by Muslim sorcerers, and so when they attempted to spend their wealth later, they discovered that the coins were actually only made of brass. Thus one betrayal was rewarded with another, and the Muslims managed to fend off the Latin attack at little cost to themselves.
 
@@ -260,11 +260,11 @@ fold of Sunni Islam. Rivalry between Salah al-Din and Nur al-Din threatened to t
 
 Salah al-Din now promoted himself as the rightful successor to Nur al-Din, and spent much time in the years from 1174-1187 subjugating Muslim rivals and creating a united state stretching from Egypt to northern Syria. Then on the 2nd July 1187 he attacked Tiberias. The king, Guy of Lusignan, had gathered a large army at Saffuriya from all parts of the Latin kingdom. Raymond, Count of Tripoli, whose wife was at Tiberias, advised the king against going out to fight, but Guy decided to attack the Muslim force. On the 3rd July, the army left Saffuriya and marched out across the barren plain towards Tiberias. Salah al-Din's forces cut the Crusaders off from the water sources, and after a night without food or water the Crusader army took up position at the Horns of Hattin, a twin-peaked hill. On the 4th of July the Crusaders were decisively defeated, the king and many nobles being taken prisoner, and the kingdom's holiest relic, a fragment of the True Cross, being seized. Jerusalem fell on the 2nd of October, and by the end of the year only a few parts of the Latin kingdom remained in Crusader hands.
 
-# *The Magical Powers of Nur al-Din*
+# The Magical Powers of Nur al-Din
 
 Nur al-Din is said by some to have had magical powers, taught to him by the mysterious prophet Khidr (see Chapter 7). In particular, Khidr is said to have taught Nur al-Din magic words that enabled him to obtain whatever he wanted, and to travel immense distances in the blink of an eye. It is possible that he may also have taught Nur al-Din secrets of longevity and prescience. In this case, the sultan may have faked his own death, foreseeing the destiny of his successor, Salah al-Din; indeed, Nur al-Din may even still be alive, working behind the scenes for the benefit of Islam.
 
-# *The Tribunal under Threat*
+# The Tribunal under Threat
 
 The unification of the Muslims under Zangi, Nur al-Din and Salah al-Din was also accompanied by a flocking of Muslim magi to their banners. Muslim magi were involved in the recapture of Edessa, and as stated above, were also involved in the defeat of the siege of Damascus in 1148. Muslim magi also co-ordinated their efforts with Nur al-Din and Salah al-Din, and at the Battle of Hattin Muslim mages slew many Hermetic magi and destroyed several contingents of the Crusader army. They later provided magical artillery for the recapture of a number of Latin strongholds, and by the end of 1187, several important Hermetic Crusader covenants had also been destroyed. The survivors blamed the counter-Crusading magi, saying that they had assisted the Muslim forces against them. Whatever the truth of these allegations, no definite evidence was ever forthcoming.
 
@@ -274,7 +274,7 @@ As a result of the defeat at Hattin, Henry II of England, his eldest son Richard
 
 According to the agreement made at Acre Salah al-Din was required to return the relic of the True Cross and Crusader prisoners in exchange for Muslim prisoners. There were delays and eventually Richard lost patience. He
 
-# *Aurora of Jerbiton and the Treaty of Baghdad*
+# Aurora of Jerbiton and the Treaty of Baghdad
 
 As peace was signed in 1192 between Richard and Salah al-Din, negotiations were also under way in Baghdad between the Order of Hermes and the Muslim leadership. The architect of these was a maga of House Jerbiton named Aurora Borealis. She had arrived in the Levant in 1169, and had founded a covenant near Jerusalem named "Domus Pacis." Her covenant was intended to be a place where members of the Order and other magical inhabitants of the region could meet and share knowledge. While the covenant flourished, Aurora found herself intrigued by the career of Salah al-Din, who was unifying the Muslim Levant under his rule. Recognizing the developing danger to the Order, in 1183 she contacted Salah al-Din, the caliph and their magical allies. She traveled to Baghdad and negotiated a possible treaty, then contacted the quaesitores at Magvillus, offering a possible end to the hostilities between the Order and the Muslims. The quaesitores jumped at the chance to impose some order on the chaotic tribunal.
 
@@ -297,11 +297,11 @@ with funding resulted in it being diverted to Zara in Dalmatia, where the city, 
 
 Salah al-Din's successors did not press home the advantage which their predecessor had given them, preferring to expend their time capturing territory from one another, and to maintain diplomatic links with the Latin states to take advantage of the trade routes across Latin territory to the sea. In 1218 it was decided that a Crusade should attack the major cen-
 
-# *Dispute with Thebes*
+# Dispute with Thebes
 
 In the wake of the Latin conquest of Constantinople, a number of Byzantine states were set up in places further east, at Nicaea and Trebizond. With the Byzantine refugees came several Theban magi, also seeking to establish themselves further east. The Tribunal of Thebes supported its magi, and so the border between Thebes and the Levant became disputed territory. War threatened to break out between the two tribunals, but was averted through the efforts of Aurora and other quaesitores from both tribunals. Now the Empire of Nicaea is considered part of the Theban Tribunal, while the Empire of Trebizond falls under the sway of the Levant. Not all magi are happy with this outcome, however.
 
-# *Possible Renewal of Hostilities*
+# Possible Renewal of Hostilities
 
 The Crusader attack on Egypt is placing the Treaty of Baghdad under considerable strain. According to the Muslim laws of *jihad*, truces should have a duration of no longer than ten years. As a result, the treaty has to be renewed every ten years. It is discussed at every tribunal meeting. Renewal has been achieved twice, in 1203 (after the tribunal of 1200) and (barely) in 1213 (after the tribunal of 1207). The matter is due to be discussed again at the meeting of 1221, to approve its renewal in 1223. Crusading magi have called vehemently for the rejection of the treaty this time, so that they can aid their mundane allies in Egypt. A scramble has begun to gather votes before the next meeting. The fate of the tribunal rests on the outcome of this meeting. The treaty may be kept, in which case little will change, or it may be rejected, in which case the tribunal may slide into chaos again.
 
@@ -311,7 +311,7 @@ tre of Muslim power, Egypt. An attack was made on Damietta. The sultan of Egypt,
 
 Provided the characters do not intervene, in 1220 a quarrel breaks out between the papal legate, Pelagius of Albano and the ruler of the Latin kingdom, John of Brienne. The Crusade loses its momentum, and in 1221 the Crusaders are cut off by the Nile flood outside al-Kamil's camp at al-Mansura. An eight-year
 
-# *To the Brink*
+# To the Brink
 
 The first half of the 13th Century is likely to be a tense time for the magi of Hermes, and it is very likely that the Treaty of Baghdad will be broken, particularly if the covenant of the True Cross (see Chapter 8) is destroyed. It may be that it will only be saved through some impressive diplomatic efforts. Storyguides may wish to give the characters the opportunity to become involved as mediators between opposing factions of magi, or between the Order and the caliph and Ayyubids. Whether their efforts are successful or not, the characters are likely to gain allies and enemies both within and outside the Order.
 
@@ -325,7 +325,7 @@ In 1250, Salah al-Din's descendents are overthrown by the Mamluks, former milita
 
 
 
-# *The Fall of the Levant Tribunal?*
+# The Fall of the Levant Tribunal?
 
 If the Treaty of Baghdad holds for this long, it may be that there will be a brief period of co-operation between the Order of Hermes and the Muslims against the Mongols. However, unless combined Hermetic-Muslim efforts are able to prevent it, the Mongol invasion in 1258 temporarily throws the Muslim mages, many of whom are killed in the onslaught, into confusion. Eventually the majority of the Levantine Muslim magi officially recognize the caliph and the Mamluk sultan as their overlords. The Treaty of Baghdad is likely to be broken soon after, as a result of Baybars's attacks on the Latin states, with the probable outcome that in the years that follow, the Order will gradually be beaten out of the Levant by the Mamluks and their magical allies, the last few magi being slain or fleeing soon after the fall of Acre in 1291. Only on Cyprus will Hermetic magi continue to be present for any significant amount of time.
 
@@ -366,55 +366,55 @@ An item is stolen from the covenant. The characters trace the item to Acre, but 
 
 reputation, as it numbers many criminals among its population. This is a result of recent developments in western law courts, which have started commuting some sentences to deportation to the Holy Land. Many western trading cities also have quarters here.
 
-### *The County of Tripoli*
+### The County of Tripoli
 
 The country of Tripoli extends north along the coast from Beirut to Valania, and slightly further inland than the Kingdom of Jerusalem. To the north-east it is bounded by Masyaf and the territory of the Assassins. As in the Kingdom of Jerusalem, the Latin nobility form the ruling class. After the death of Count Raymond III in 1187, the county passed into the control of the rulers of Antioch. Thus the current count, Bohemond I, is also the Prince of Antioch. Like the other Latin states, the county is also home to Muslim, Christian and Jewish natives. Tripoli derives most of its income from trade, and also the cultivation of fruit and cereals.
 
 
-### *Tripoli*
+### Tripoli
 
 Tripoli itself has been in Crusader hands since it fell to them in 1109. It has excellent defenses, being situated on a peninsula jutting north-west into the Mediterranean Sea. Thus it is surrounded by water on the south-west, north-west and north-east sides. A great wall defends its south-eastern side. Some 4000 yards to the south-east a castle situated on a ridge overlooks the city. This was built by the Crusader Raymond of St Gilles when he first besieged it in 1102. The area between the castle and the city is occupied by gardens and orchards. At the end of the peninsula of Tripoli are four islands. On the largest of these is a church built by the Crusaders.
 
 Although not as important as Acre, Tripoli is still a busy trading port on the Levantine coast. It is home to a large number of people, including both Latin and eastern Christians, Muslims and Jews. The merchant cities of Genoa, Venice and Pisa all maintain communes there. In addition to trade, the town is also known for the quality of its textiles and wine.
 
-### *The Principality of Antioch*
+### The Principality of Antioch
 
 Situated on the north-east corner of the Levantine coast, the Principality of Antioch is considerably smaller than the other Latin states. When Prince Bohemond III of Antioch died in 1201, it was intended that the principality would pass to his grandson Raymond-Rupen. However, Raymond-Rupen was displaced by his uncle Bohemond IV. He managed to regain the throne temporarily in 1216. However, in 1219 he was again displaced by his uncle. In 1219 Raymond-Rupen also inherited the throne of Lesser Armenia from his great-uncle Leon II, and so he is currently in Tarsus establishing himself there. However, he is likely to attempt to regain control of Antioch again, if he successfully stabilises his position in Tarsus. In the meantime, Bohemond IV has re-established himself in the capital city.
 
-### *Antioch*
+### Antioch
 
 Antioch itself is situated on the River Orontes, some twelve miles from the sea. It has been in Christian hands since 1098, when it was taken by the Crusaders. It is an important city for Christians, for it is here that St Peter founded his first bishopric, and it is now the seat of one of the Latin patriarchs. In the 1220s the city is a bustling trade center, home to both Latin and eastern Christians.
 
 The city is on the south side of the Orontes, on a plain between the river and Mount Silpius. Part of it is built on the lower slopes of the mountain, and the citadel overlooks it from the height. The walls are studded with four hundred towers, so that no part of the walls is out of bowshot. Within there are a hundreds of houses and markets. There are also gardens for cultivating crops and pasture lands for livestock. A tributary of the Orontes, the Onopnicles, cuts across the north-eastern side of the city.
 
-### *The Kingdom of Cyprus*
+### The Kingdom of Cyprus
 
 Cyprus is the youngest of the Latin states, and also the only one not located on the Levantine coast. The island is about 150 miles long and 70 miles wide. The northern and western sides are mountainous, while most of the rest of the island consists of a flat plain. It is a fertile land, and much of its income is derived from agriculture, although wine and salt are particularly important products.
 
 As has been described above, Cyprus has been ruled by the Lusignan dynasty since Richard the Lionheart sold the island to Guy de Lusignan in 1192. The kingdom is currently ruled by Guy's great-nephew Henry I. The Latins form the ruling classes, but the majority of the inhabitants are Greek, and the culture remains distinctly Greek in character. Most of the inhabitants of Cyprus live in rural areas.
 
-### *Nicosia*
+### Nicosia
 
 Nicosia, the capital of Cyprus, lies some sixteen miles from Kyrenia, the nearest port on the northern coast. It stands on the Pedheios River which, although it does not flow throughout the year, still occasionally floods in winter. The city is circular, with a surrounding stone wall. At its centre the Latins have built a great cathedral, named after St Sophia. Nicosia is prospering under Lusignan rule, and is fast becoming the most impressive capital in the Latin states. It is home to both Latins and Greeks.
 
-# *Saga Seed: A Cypriot Covenant?*
+# Saga Seed: A Cypriot Covenant?
 
 It may be that Cyprus has not yet been inhabited by magi of the Levant Tribunal. If this is the case, then the island would seem to be an ideal location for a new covenant. Trade is becoming of increasing importance to the island's economy, which would particularly please any Verditius or Jerbiton magi who chose to make their home there. However, the Lusignans are unusually wary of potential threats to their rule, so any magi establishing covenants on the island will have to be very careful to avoid offending the lords.
 
 
 
 
-### *Famagusta*
+### Famagusta
 
 On the east coast of Cyprus is Famagusta, which is a thriving city and port. Limassol was originally Cyprus' main port, but Famagusta is now taking over as the island's trade center, due to the fact that it is better placed for trade with Lesser Armenia and the Latin states. Thus one finds many merchants among its population. In addition to foreign visitors, the city is inhabited by a mixture of Latins, Greeks and Jews.
 
 # Other Christian States
 
-### *Lesser Armenia*
+### Lesser Armenia
 
 Also known as Cilicia, the country of Lesser Armenia originally formed a western branch of Greater Armenia (described below). It is mostly mountainous, although it has a narrow coastal plain that widens towards its eastern end. Originally a Byzantine state, in the 10th century Lesser Armenia was populated by a number of migrants from Greater Armenia. During the 11th century the inhabitants' relations with the Byzantines were mixed, and in the wake of the Byzantine defeat at Manzikert in 1071, a number of independent dynasties were set up in the area. The country survived the Seljuk domination, and continued to fight for independence during the Crusades, having variable relations with the Latins and Byzantines. Finally in 1198 Leon II was recognized as the king, being crowned in the cathedral at Tarsus in the presence of the papal legate Conrad of
 
-# *Story Seed: Illuminating Manuscripts*
+# Story Seed: Illuminating Manuscripts
 
 The characters obtain some illuminated manuscripts from Armenia, only to discover that the illuminations themselves are enchanted. The main function of the enchantments is unclear, although a side-effect (which probably leads to their discovery) is that they glow in the dark. Who created them, and what is their purpose? Is the illuminator even aware that their works are magical? The illuminations may be the work of a powerful mage. Alternatively, it may be a potential apprentice who is responsible.
 
@@ -422,23 +422,23 @@ Mainz. Leon died in 1219 after a 32-year reign, and was succeeded, as described 
 
 Lesser Armenia's main income is derived from timber from forests in the Taurus mountains, goatskins and goat-hair cloth. The country is also famous for illuminated manuscripts and metalwork, and trades with Genoa and Venice. Lesser and Greater Armenia have their own national church, rather than being part of the Latin or Greek churches. In Lesser Armenia this branch of Christianity is the faith of the rulers, unlike in Greater Armenia, where the rulers are Muslims.
 
-### *The Empire of Trebizond*
+### The Empire of Trebizond
 
 Originally part of the Byzantine Empire, the city of Trebizond withstood the Seljuk invasions of the 11th century. It remained under the rule of a Byzantine governor until a few days after the fall of Constantinople to the Latins in 1204. Then it was taken over by two brothers from the Comnenus family, Alexius and David, rivals of the Angelus family who until shortly before had ruled at Constantinople. With the support of the Georgians they set up a new empire on the southern coast of the Black Sea. Their empire originally occupied more of the coast to the east of its current border, but has lost territory to the Byzantines of Nicaea and the Turks since its foundation. The last defeat was in 1214, when the empire lost Sinope to the Turks. As a result of this defeat, the Byzantines of Trebizond are now required to give military service and tribute to the Seljuk sultan. However the empire has managed to exert greater control elsewhere, receiving tribute from the Crimea, on the northern side of the Black Sea. Alexius is still the emperor.
 
 The empire has a mild climate and fertile soil, making it ideal for growing olives and vines. Forests also flourish here. Thus the empire derives most of its income from trade in timber, olive oil and wine. Not surprisingly, the Greek church dominates here.
 
-# *Story Seed: In Jason's Footsteps*
+# Story Seed: In Jason's Footsteps
 
 In ancient times western Georgia was the site of the rich land of Colchis. It was here that Jason and the Argonauts came to claim the Golden Fleece. What happened to the fleece after Jason's death is unknown. The characters hear rumors of a new "Golden Fleece" that has appeared in western Georgia. Is it the original, which has somehow returned to its homeland, or is the name a metaphor for something else of value or interest? Whichever is true, the rumors would be worth investigating. The characters may find themselves following in Jason's footsteps and facing similar dangers in their quest to find out the truth.
 
-### *Georgia*
+### Georgia
 
 The Christian kingdom of Georgia lies to the east of the Black Sea. It is a country of mountains, hills and plateaux, with lowland areas only on the coast of the Black Sea and the valleys of the rivers Rioni and Kura. It was invaded by the Muslims in the 7th Century, and paid tribute to a Muslim governor until the mid-8th Century. There then began a period of continual warfare with the Muslims which continues today. In 1121 the original capital of Tiflis was taken from the Muslim conquerors by King Dawid II, who made it once again the capital of an independent country. The current king is Giorgi III Lasha.
 
 Georgia is inhabited by a number of different peoples, including Turks, Persians, Georgians, Armenians and Alans. There are both Christians and Muslims among its population, although like Armenia it has its own national Christian church, owing loyalty neither to the Pope in Rome nor the Byzantine Emperor.
 
-### *The Alan Tribes*
+### The Alan Tribes
 
 The mountains of the Caucasus and the country to the north of them are inhabited by a people known as the Alans. They are divided into a number of tribes living throughout the area. Most of the Alans are Greek Christians, although the strength of their loyalty to the church has been variable in the past.
 
@@ -451,35 +451,35 @@ Egypt has been in Muslim hands since it was first conquered in 639-42. Initially
 Not surprisingly, most of the cities of Egypt are located on the Nile, which provides both water for drinking and a means of transport. In the Nile delta and valley agriculture flourishes in the area covered by the annual floods, which
 
 
-# *Story Seed: Fact-finding Mission*
+# Story Seed: Fact-finding Mission
 
 The Alan lands are invaded by the Mongols in 1238. As part of this invasion, the covenant of Urania (see Chapter 8) is destroyed by Mongol shamans. There are no survivors, and no witnesses to bring news of what happened to the Order. The Mongol shamans also conceal their activities from all scrying magics. The characters are sent by the tribunal to find out what happened. The will have to sneak in, find out what happened, and sneak away again without being discovered and captured. If they succeed, the Order will be better able to deal with the Mongol threat, and the characters will gain respect in the eyes of their sodales.
 
 
 restore fertility to the soil, while much of the rest of the country is desert, inhabited for the most part by wandering Bedouin tribes. In addition to agriculture, Egypt also derives income from trade in products from the country itself, areas further up the Nile and from beyond the Indian Ocean, including spices, textiles, cereals, sugar and gold. In addition to the Muslims, Egypt is also home to Christians, most particularly of the Coptic church, and Jews.
 
-### *Cairo*
+### Cairo
 
 When the Muslims took Egypt, the leader of the Muslim forces, 'Amr ibn al-'As, founded a permanent encampment on the east bank of the Nile, named Fustat. When the Fatimids took over the area in 969, they founded a new capital, al-Qahira (Cairo, the Victorious) to the north of Fustat. Since then the two cities have begun to merge together, becoming known collectively as al-Qahira. The citadel, built by Salah al-Din, was the first major expansion outside the Fatimid city, although both Giza and Rawda island are important residential areas.
 
 As the capital of Egypt, Cairo is the main center of Ayyubid power. Its geographical location makes it hard to attack, and gives it control of goods passing up the Nile to the ports on the coast. Thus much of the city's income derives from trade and tolls. Cairo is also Egypt's intellectual and religious heart, partially due to the fact that in the wake of his destruction of the Fatimid caliphate, Salah al-Din founded a number of institutions dedicated to propagating Sunni Islam. In addition, as Salah al-Din's first capital the city by necessity developed a flourishing administrative culture. Like much of the rest of the country, Cairo is home to Christians and Jews, as well as Muslims.
 
-# *The Ring of Fire*
+# The Ring of Fire
 
 If one travels far enough south through Egypt, one crosses its borders and comes to the Christian kingdom of Ethiopia. It is said that if one has the strength and courage to travel even further south, one will come to the Ring of Fire, a place where the air burns and the sea boils. It is also said that if one passes beyond this ring, one comes to a land of wonders, including a great realm ruled by the good Christian king Prester John.
 
 
-### *Alexandria*
+### Alexandria
 
 Named after its founder, Alexander the Great, Alexandria in 1220 has lost the prominence it once had in Egyptian culture, being currently overshadowed by Cairo. Still, it is a world-class center of trade, rivaling the Italian cities. The city offers goods from the interior of Egypt, carried by barges up the Nile from Cairo. Its shipyards once supplied the Muslim navies with enough power to conquer Cyprus. Alexandria exports spices, sugar and cotton, while it imports olive oil, dyes, precious gems, arms and other goods from the Orient.
 
 A famous lighthouse stands in Alexandria, known as the Pharos. The ground level of the building has now been converted into a mosque, but the rest of the lighthouse still serves as a beacon for sailors. There also used to be a great library here, reputedly containing 500,000 volumes, but it was destroyed in the early 1st Century AD by the Roman conquerors.
 
-### *Damietta*
+### Damietta
 
 Damietta is a city in turmoil. In 1219, the Crusaders sacked the city with such violence that Frances of Assisi, accompanying Christian troops, decided that the Crusaders were less virtuous than covetous, and returned to Italy. The city now lies in Latin Christian hands. Muslim
 
-# *Story Seed: Under Pressure*
+# Story Seed: Under Pressure
 
 The characters are approached by agents of the sultan al-Kamil, seeking aid against (depending on the time period) the Crusaders or al-Mu'azzam of Damascus. Naturally, they characters are forbidden from meddling in mundane affairs by the Hermetic Code, but how will they convince the sultan of this? The rewards for helping him could be very great. On the other hand, he could make life extremely difficult for them if they refuse. Cruel storyguides may wish to complicate things further by also having the characters approached for aid by supporters of the other side.
 
@@ -492,7 +492,7 @@ Meanwhile, the garrison at Damietta is enjoying itself and Latin Christian settl
 Between Egypt and the Holy Land lies the peninsula of Sinai. Mountains cover the southern part of the area, surrounded by deserts, while one finds swamps in the north. Sinai's beaches on the Red Sea coast are also famous for their beauty. The area is of great importance to Islam, Judaism and Christianity, for they all trace some of their origins here. Mount Sinai, deep in the southern part of the peninsula, is the place where Moses received the Ten Commandments from God, an event that is of great importance to all three faiths. At the base of the mountain is St Catherine's Monastery, which is home to a number of Greek Orthodox monks. The monastery was founded in the 6th Century by the Byzantine emperor Justinian, though the monks trace their origins to the building in the 4th Century of a small chapel, next to the burning bush from which God spoke to Moses, by the empress Helena. It is dedicated to St Catherine because it is said that her body was
 
 
-# *Damietta and the Dominion Aura*
+# Damietta and the Dominion Aura
 
 Due to the violence of the sack of Damietta in 1219, the Dominion aura in the city is extremely low (+1) and vanishes altogether at night.
 
@@ -507,31 +507,31 @@ In the middle ages, the area corresponding to the modern states of Syria, Lebano
 
 Bilad al-Sham is mostly mountainous. In particular, two parallel mountain ranges run from north to south, with a rift valley between them. The western range is divided from the sea by a mostly narrow coastal plain. The eastern range is lower and more broken than the western, forming the western border of the Syrian desert, which extends to the Euphrates. Bilad al-Sham has fertile valleys where agriculture flourishes. The Holy Land, in particular, is wellknown for its fruit, sugar cane and indigo, although it is also a valuable source of minerals and rocks, including chalk, marble, sulphur, salt and bitumen. While the population of the area is mostly Muslim, it is also home to native Jews and Christians belonging to a variety of sects.
 
-### *Jerusalem*
+### Jerusalem
 
 Much has already been said about Jerusalem and the Crusades. When the city fell to the Crusaders, it had been in Muslim hands for over 400 years. They took it from the Byzantines in 638, and Sunni Muslim rule lasted until the 10th Century, when the Fatimids began to exert their influence over the area. The Fatimids ruled until 1071, when it became the object of seven years of fighting between them and a Turkish chieftain named Atsiz ibn Uvak. The Seljuks took control of the city in 1078, but some twenty years later the Fatimids retook the city. A year later, in 1099, Jerusalem was conquered by the Crusaders. As described earlier, the city remained in Latin hands until 1187, when it was taken by Salah al-Din. The city remains in Ayyubid hands in 1220.
 
 Jerusalem is currently in very poor condition, for in 1219 al-Mu'azzam of Damascus, fearing that it might be necessary to return the city to the Crusaders, ordered its destruction. Only the Temple area, the Church of the Holy Sepulchre and the citadel were spared. Now many houses lie empty, their Muslim inhabitants having fled east away from the anticipated Crusader arrival. However, the city remains home to a
 
-# *Mythic Jerusalem*
+# Mythic Jerusalem
 
 Not surprisingly considering its importance, Jerusalem is a site of many manifestations of supernatural power. More information on this aspect of the city may be found in Chapter 7.
 
 mixture of Muslims, Jews and eastern Christians. In times of peace it sees pilgrims from the west, followers of all three faiths. However, in view of current events in the Nile delta and the recent destruction, pilgrims are currently few and far between.
 
-### *Damascus*
+### Damascus
 
 Located on the edge of the desert, at the foot of the mountains of the Anti-Lebanon, Damascus was taken from the Byzantines by the Muslims in 635. After the death of Muhammad and the first caliphs (see Chapter 2) it became the capital of the Umayyads. With the fall of the Umayyads in 750, the capital of the Muslim world moved to Baghdad and Damascus was reduced to the status of a provincial town, ruled by governors on the behalf of the caliph. The town was taken by the Fatimids of Egypt in 970, who held it until 1076. The city was then ruled by a succession of Turkish dynasties until 1176, when it passed under the control of Salah al-Din. It has been ruled by the Ayyubids ever since, with the current ruler being al-Mu'azzam.
 
 Damascus prospered under the rule of Nur al-Din, and has continued to prosper under the
 
-# *Story Seed: Scholarly Attention*
+# Story Seed: Scholarly Attention
 
 The characters attract the attention of intellectuals from Damascus. Although not Gifted, the scholars are fascinated by Hermetic magic, and particularly with its relation to Classical wisdom. Initially the attention is flattering, and the magi may be tempted to invite the scholars as guests to their covenant. The scholars will certainly do their best to solicit such an invitation. However, as time passes the scholars start to become annoying, disrupting the characters' studies with their questions and generally getting in the way, in a very well-meaning and respectful fashion. The characters will have to get rid of the scholars without offending them, otherwise they may make enemies among the intellectual circles of Damascus.
 
 rule of Salah al-Din's successors. It is an active trade center, even visited by Italian merchants during more peaceful periods. Industry flourishes, and the city is well known for its silk brocades, copper utensils, glassware and tanned lambskins. The city also has an active intellectual and cultural life. Many religious institutions have been founded by the Ayyubids, and a number of scholars and writers have received their patronage. The administrative culture of the city is also flourishing. To protect Damascus from the Latins, the Ayyubids have strengthened its walls and reconstructed its citadel.
 
-### *Aleppo*
+### Aleppo
 
 On the northwest extremity of the Syrian desert, on the banks of a small river known as the Quwayq, the city of Aleppo stands in the centre of a vast chalk plain. It was taken from the Byzantines by the Muslims in 636, who built a great mosque in the city. For much of the time since Aleppo was a frontier city with the Byzan-
 
@@ -546,7 +546,7 @@ Under Salah al-Din's successors Aleppo has prospered. The fortifications have be
 
 To the east of Bilad al-Sham lies Iraq. The country stretches east to the borders of Persia and south to the Persian Gulf, with much of it being cradled by the Tigris and the Euphrates.
 
-# *Story Seed: A Tempting Prize*
+# Story Seed: A Tempting Prize
 
 An unusual feature of Aleppo is that it is impossible to be poisoned by snakes in the city. This is due to the effect of a talisman kept in one of the towers of the city wall, which is known as the Tower of the Serpents. The exact nature of this enchantment is unknown, but it would be a tempting addition to a covenant. However, it would also be extremely difficult to steal, and also to keep, once word got out of its new owners. In addition, it is not known if the enchantment will function outside the city.
 
@@ -554,7 +554,7 @@ Much of northern Iraq is mountainous, although agriculture flourishes around the
 
 As the country in which the caliphal capital is located, the dominant faith in Iraq is Sunni Islam. There are also large colonies of Christians and Jews living in the country. Not surprisingly for a country that saw a number of Shi'i revolts in the early years of Islam (see chapter two), it is also home to many Shi'i Muslims.
 
-### *Baghdad*
+### Baghdad
 
 Baghdad is the political centre of Islam, in that it is the seat of the caliph. Founded by the second 'Abbasid caliph, al-Mansur (r. 754-75), the city has been home to the caliphs for most of the 458 years that have passed since its first stones were laid in 762. The oldest part of Baghdad is the Round City, the original triple-walled city founded on the west bank of the Tigris by al-Mansur, at the center of which lies Bab al-Dhahab (the Golden Gate) the first caliphal palace. Over the next two centuries the caliphs expanded the city on both sides of the river, building mosques, palaces and gardens, so that it enjoyed a summer of intellectual and cultural achievement.
 
@@ -562,7 +562,7 @@ However, Baghdad has declined greatly since the old days. Repeated fires and flo
 
 
 
-# *Story Seed: A Strike at the Heart*
+# Story Seed: A Strike at the Heart
 
 At the next tribunal meeting, the magi of the Levant decide to break the Treaty of Baghdad, and in particular to attempt to cripple the caliphate's mages by striking at their leaders in the Muslim capital. The characters come under pressure from the Crusader magi to participate in the attack. How will they respond to this? If they have made friends among the Muslim magi of the tribunal, they may
 
@@ -571,7 +571,7 @@ be less than enthusiastic, but if they show any reluctance, their sodales may su
 
 result of the building of several *ribats* (hospices) for them by the caliphs. The caliphs are also building number of other religious institutions, in an attempt to ease tensions, remove the divisions in the community and promote a cultural revival.
 
-### *Mosul*
+### Mosul
 
 Mosul lies on the west bank of the Tigris, opposite the remains of the ancient city of Nineveh. Mosul was first taken by the Muslims in 641, and for most of its history since has remained in the hands of governors ruling on behalf of the caliph of Baghdad. In 1128 it was taken over by Zangi, and it remains a possession of his successors up to this day, despite being twice besieged by Salah al-Din himself. However, it recognizes Ayyubid overlordship. Currently Mosul is effectively ruled by a Mamluk regent, Badr al-Din Lu'Lu', ruling on the behalf of the emir al-Qahir Mahmud.
 
@@ -581,7 +581,7 @@ Mosul is defended by a double wall, a strong citadel and, on the east side, the 
 
 Asia Minor is the domain of the Seljuk sultans. They have ruled this land, known to the
 
-# *Story Seed: Preventative Measures*
+# Story Seed: Preventative Measures
 
 In 1226, the Sufi Jalal al-Din Rumi makes his home in Konya. Before his death in 1274, he will found an order of Sufis known as the Mevlevis, who will be famous in later years for their whirling dance rituals. A Criamon seer has learned of the impending foundation, and is travelling to Konya in order to influence Rumi's activities. The characters live closest to the Criamon's intended route, and are instructed by the quaesitores to stop him before he interferes. Should they fail, the Criamon's actions could lead to conflict between the Order, the mundanes and possibly God Himself!
 
@@ -589,7 +589,7 @@ Muslims as Bilad al-Rum (the country of the Romans), since the 11th Century. It 
 
 The social elite of Asia Minor are Turks, while those who live under their rule consist of a number of different ethnic groups, including Georgians, Armenians and even Persians, although most of the inhabitants are Muslims. The people here are strong and hardy. The town-dwellers trade with the other countries surrounding the Black Sea, including the Russians and the Venetians of Constantinople, via the port of Sinope. Their wood carvings and ceramics are particularly sought after. Those dwelling in more rural areas breed sheep and goats, as well as exceptionally fine fruit.
 
-### *Konya*
+### Konya
 
 Konya has been the Seljuk capital ever since the Crusaders took Nicaea in 1097, and it is from here that the current sultan 'Izz al-Din Kay Kawus rules. Originally a Byzantine military base, it was avoided by the original Muslim conquests, but was taken by the Seljuks in the 11th Century. It is home to a number of Greeks, Armenians and Jews, in addition to the Turkish rulers. In contrast to the rest of the area, Konya is well irrigated, making it both an agricultural and political center.
 
@@ -603,7 +603,7 @@ To the east of Asia Minor, and to the southwest of Georgia, lies Greater Armenia
 The population of Greater Armenia is mixed, consisting of Greek and Armenian Christians and Turkish Muslims. They grow cereal crops, fish in the rivers and mine for various metals and minerals, including silver and salt. The area is also well-known for its weaving, dyeing and embroidery.
 
 
-# *Saga or Story Seed: Braving the Elements*
+# Saga or Story Seed: Braving the Elements
 
 Due to the difficulties with regard to supply and provisioning caused by the severe winters, there are relatively few covenants in Greater Armenia, meaning that there are magical riches waiting to be discovered by the brave. The characters set up a covenant in the area, then discover that the elements themselves seem to be in opposition to them. Storms beat the covenant's defenses. Crops fail year after year, causing famine for years on end. Winters snows block mountain passes, cutting the covenant off from the rest of the world.
 
@@ -667,7 +667,7 @@ About the same time, the Order of the Hospital of St John of Jerusalem, original
 The military orders quickly grew in power. They were granted many privileges by the papacy, and became directly answerable only to the pope in religious matters. This immunity caused tension between the orders and the local clergy.
 
 
-# *Saga Seed: Templar Sorcerers?*
+# Saga Seed: Templar Sorcerers?
 
 It is not clear whether the Templars were actually guilty of the crimes of which they were accused. Philip IV was said to have been driven by a devout but morbid religious belief, expressing itself as a desire to establish royal authority over all. In addition, some 2/3 of the Templars' possessions were in the royal domain of France, and must have been a tempting prize. However, later historians eagerly took up and expanded on the theme, portraying the Templars as agents of the devil or powerful wizards. Whatever the truth of the matter, players of **Ars Magica** may wish to cast the Templars as diabolists or sorcerers, with potent magical abilities. This might have dire implications for the saga. The extent of the Templars' holdings in Europe and the Levant gives them the potential to be a major force in the area, and a serious rival to the Order. In addition, if they are to be diabolists, any activities they engage in will be hard to detect, as Hermetic magic is incapable of perceiving the deceptions of the Dark One and his minions. This means that the characters will have to rely on mundane methods to track the source of any such activities. Such stories could allow companions and grogs to shine.
 
@@ -678,20 +678,20 @@ They were also the recipients of large amounts of property, particularly strongh
 
 The end of the 12th Century saw the foundation of a third military order in the Latin states, the Teutonic Knights, also known as the Order of St Mary of the Teutons. The order traced its origins to a German hospice founded in Jerusalem during the early 1100, then destroyed after the fall of the city to Salah al-Din in 1187. During the Third Crusade a second, field hospital is said to have been founded by German Crusaders in Acre using sails and planks from their ships. This hospital was approved by Clement III in 1191, granted privileges by Pope Celestine III in 1196, and the following year it became the base for the new military order. In 1199 the order was approved by Pope Innocent III. The order grew rapidly, gaining possessions all over Europe, but retaining a particular connection with Germany. From there it would pursue interests in Slavic lands (see *The Dragon and*
 
-# *Story Seed: A Hermetic Military Order?*
+# Story Seed: A Hermetic Military Order?
 
 A number of zealous Hermetic magi, frustrated by the Order's peaceful relations with the Muslims, attempt to form a military order to fight them, hoping papal sanction might protect them from the quaesitores. They travel to the characters' covenant and attempt to recruit them. While eventual help from the quaesitores might be forthcoming, how will the characters deal with the undisciplined magi who are encamped on their doorstep and impatient for an answer?
 
 
-# *Latin Christian Characters in the Levant*
+# Latin Christian Characters in the Levant
 
 Latin Christian characters living in the Levant are generated in the same way as other characters. However, some of the current Virtues and Flaws are very rare, while others merely require renaming or minor alterations. In addition, they have access to some additional Virtues.
 
-# *Rare Virtues and Flaws*
+# Rare Virtues and Flaws
 
 *Companion Social Class:* **Faerie Doctor** (+4, WGRE, page 63). Faeries are rare in the Levant. See Chapter 7 below for more details. *General Virtues and Flaws:* Anything to do with the Fay.
 
-# *Renamed and Altered Virtues*
+# Renamed and Altered Virtues
 
 *Companion Social Class:*
 
@@ -699,7 +699,7 @@ Latin Christian characters living in the Levant are generated in the same way as
 
 **Lesser Noble** (+2): May also be used to represent holders of money-fiefs.
 
-# *New Virtues*
+# New Virtues
 
 *Companion Social Class:*
 
@@ -744,7 +744,7 @@ As noted above, when the Crusaders conquered the Levantine coast, they took cont
 - 7. **The Church of the East (Nestorians):** Being most significantly represented in Iraq and Persia, the church of the east was outside the Roman and Byzantine empires, and so took no part in the great church councils held there. The church's attitudes towards the Definition of Chalcedon are ambivalent, as it has a different understanding of what constitutes the Person of Christ. The Nestorians lay a particular emphasis on the humanity of Christ and the reality of his moral choices.
 - 8. **Maronites:** In 681 a council at Constantinople declared that Christ had two wills,
 
-# *Characters*
+# Characters
 
 Maronite characters should be generated in the same way as other Latin Christian characters above, although they will usually have Arabic as their first language. Other Christian and Jewish characters should also be generated using the rules above (Jewish characters may also use the guidelines in *Kabbalah*, pages 106-19), while Muslim characters should be generated using the rules in the next chapter. However with a few notable exceptions, subject peoples under Latin rule may never become nobles, and are rarely involved in commerce, and so any player wishing to play a subject who is a noble or merchant should have very good reasons for doing so. Local Christians, Jews and Muslims may never be members of a commune. Subjects are usually farmers or craftspeople, although one particular career open to them is as a dragoman (from the Arabic *turjuman*, translator):
 
@@ -769,7 +769,7 @@ Upon their arrival, the Crusaders supplanted the dominant, Greek Christian clerg
 
 The various subject peoples of the Levant speak a wide range of languages, including Greek, Hebrew and of course Arabic, which has also been learned by some of the more broadminded Latins.
 
-# *Foreigners in the Latin States*
+# Foreigners in the Latin States
 
 It is impractical, given the interaction between the Muslims and the Latins, to make widespread use of the Outsider Flaw to represent the position of foreign, and most particularly Muslim, visitors to the Latin states. As an alternative, it is assumed that while in the Latin states all foreigners receive a modifier to their social die rolls varying between –5 and +5, depending on the current state of relations between their home country and the state they are in, how far this affects who they are talking to and how far they are identifiable as foreigners. The Storyguide should decide the exact modifier to be used in any given situation.
 
@@ -785,7 +785,7 @@ There are a number of legal bodies in the Latin states. In addition to its gover
 
 While most cases are normally heard and sentences pronounced by juries, it is also known for more radical means to be used by the Latins to administer justice, including trial by combat
 
-# *Latin Coinage*
+# Latin Coinage
 
 As in Europe, the relative values of gold, silver and copper fluctuate wildly, making it impossible to ascribe exact values for the coins. However, Storyguides may find it convenient to assume that one besant equals 20 deniers, 40 oboles or 240 copper coins. One Mythic Penny equals 2 copper coins.
 
@@ -822,15 +822,15 @@ This section describes how most medieval Muslims live their lives, including som
 
 There are certain basic elements of theology defining Islam, common to Sunnis and Shi'is alike. God is unique, eternal, omniscient and omnipotent, with no partners or associates. He gave certain prophets the task of transmitting his commands to mankind, of which Muhammad was the last and Seal. Finally, human history will eventually be brought to its end by the Resurrection and Last Judgement, which is awaited by the dead in their tombs, with the exception of the prophets and martyrs, who go directly to Paradise. This end will be signaled by a terrible upheaval, after which the mahdi (messiah) will appear. Meanwhile, Jesus will slay Dajjal, the Antichrist, which will have appeared between Iraq and Syria. On the Day of Judgement the angel Israfil will blow a trumpet twice. The first blast will kill all living beings, with some exceptions, the second will bring all the dead who have ever lived to life. Each indi-
 
-# *Alternative Approaches to Islam*
+# Alternative Approaches to Islam
 
 In the world of **Ars Magica**, Islam is the "right" religion. So is Judaism, and so is Christianity. God works in mysterious ways, and so it is possible for all three faiths to be correct, even if mankind may not understand how. This is the approach adopted by this book. Other approaches require some modification of the rules presented in this book. Some suggestions follow, along the lines laid out in *Kabbalah*:
 
-# *God is Love*
+# God is Love
 
 Muslims are mistaken having, like Jews, denied Jesus, the one true Messiah. However, the church is also mistaken in assuming that Muslims are damned. Virtuous Muslims may attain a place in heaven, through living lives that are, in terms of their personal behavior and treatment of others, Christian. The main modification required to the rules for players following this option is the removal of Muslim Dominion auras from mosques and other sites of holy power. Some storyguides may prefer to reduce the power of these auras, reflecting an imperfect worship of God.
 
-# *God is Law*
+# God is Law
 
 The Muslims are right, and Christians and Jews are at best misguided, having denied or distorted God's revelation. However, through the acceptance of Muslim rule and the social restrictions and obligations associated with it, they may still attain a place in Paradise. This requires no change to the rules for Muslim auras presented here, but may require changes in the way Christianity and Judaism are played in the saga. *Kabbalah* presents some ideas for playing an imperfect Jewish faith. Similar changes will need to be made to the presentation of Christianity if this option is chosen.
 
@@ -852,7 +852,7 @@ The nominal head of the Muslim *umma* is the caliph. The Buyids and Seljuks seve
 
 As implied above, the Muslim world is divided up into a number of areas ruled by local dynasties. In the Levant, the Ayyubids rule Syria, the Holy Land and Egypt, the Seljuks
 
-# *Muslim Rulers and Divine Might*
+# Muslim Rulers and Divine Might
 
 If you are using the rules for Divine Might of Kings from *Ordo Nobilis* (page 9), then the caliph, the Shi'i *imams* and other major Muslim rulers also have Divine Might, also having been appointed by the will of God. As spiritual leader of the *umma*, the caliph has a Divine Might of 40, the same as that of the Pope. Rulers officially invested as sultans have a Divine Might of 30. Other Muslim rulers have a Divine Might of 20. Rulers' wives have a Divine Might which is 10 less than that of their husbands. The Shi'i *imams* have Divine Might of 40, matching that of the Sunni caliph.
 
@@ -861,7 +861,7 @@ rule Asia Minor and the caliph rules Iraq. Although the Ayyubids and Seljuks owe
 
 Rulers are normally served by viziers, who run their civil and military administration for them. Weak rulers are sometimes dominated by these viziers. Beneath the major rulers and their viziers, there are three major classes involved in running Muslim society.
 
-### *The Military Elite*
+### The Military Elite
 
 The heads of the local dynasties are served by emirs, the equivalent of western European nobility, to whom they may (but do not always) grant *iqta's* or *niyabas* (see below). These emirs are appointed by the ruler, and may be of local origin or from other parts of the Muslim world (as has been mentioned above, Salah al-Din was a Kurd). Thus one finds Turkish, Kurdish, Persian or Arab emirs.
 
@@ -873,33 +873,33 @@ The emirs are not organized into a formal hierarchy like that of the European no
 
 It should be noted that the standing armies of major rulers and their vassals often consist of a core of Mamluks, former slaves bought, trained as soldiers and then set free upon attaining adulthood. Although free, these Mamluks usually owe loyalty to their former masters. They are often of Turkish origin. In addition to the Mamluk core, Muslim armies generally contain other troops, including other troops raised by the emirs, mercenaries and Bedouin volunteers.
 
-### *The Civil Elite*
+### The Civil Elite
 
 Also important in running the Muslim world is the civil administration. The two most important sections in any ruler's civil administration are the *diwan al-insha'* (the office of correspondence) and the financial section, consisting of a number of *diwans* (administrative offices), devoted to the collection and redistribution of various revenues. Careers in civil administration are open to both Muslims and non-Muslims, and are entered through apprenticeship. Normally bureaucrats obtain a basic religious education before entering apprenticeship.
 
-### *The Religious Elite*
+### The Religious Elite
 
 Also called the *'ulama'* (the erudite, sing. *'alim*), the religious elite are headed by one chief judge (*qadi al-qudat*) from each of the four major schools of law (*madhhabs*, see below), each of whom is appointed by the ruler. The '*ulama'* are concerned with the religious life of the state, and range from the chief judges down to the lowest mosque attendant. Important positions include the *muftis* (people entitled to give a legal opinion) and the *qadis* (judges). Other positions include that of *mu'adhdhin* (caller to prayer) or *imam* (prayer leader). Some *'ulama'*, particularly the *qadis*, are also charged with a number of duties in the civil administra-
 
 
 
-# *Muslim Characters*
+# Muslim Characters
 
 Muslim characters, be they town dwellers, denizens of the countryside or nomads, are generated in the same way as other characters. However, some current Virtues and Flaws are forbidden to them, or at least very rare. Others merely require renaming or minor alterations. They also have access to some additional Virtues and Flaws. Finally, two new Academic Knowledges are also described; Theology: Islam and Islamic Law.
 
-# *Forbidden Virtues and Flaws*
+# Forbidden Virtues and Flaws
 
 *Companion Social Class:* **Mendicant** (+1), **Magister in Artibus** (+3; European-style universities do not exist in the Levant), **Priest** (+3), **Branded Criminal** (–1; Muslims do not brand convicted criminals)
 
 *General Virtue:* **Indulgences** (+2)
 
-# *Rare Virtues and Flaws*
+# Rare Virtues and Flaws
 
 *Companion Social Class:* **Faerie Doctor** (+4, WGRE, page 63)
 
 *General Virtues and Flaws:* Anything to do with the Fay
 
-# *Renamed and Altered Virtues*
+# Renamed and Altered Virtues
 
 *Companion Social Class:*
 
@@ -921,7 +921,7 @@ Muslim characters, be they town dwellers, denizens of the countryside or nomads,
 
 **Folk Magician** (+2): Use the guidelines listed under the 'Arrafs, in the next chapter.
 
-# *New Virtues and Flaws*
+# New Virtues and Flaws
 
 *Companion Social Class:*
 
@@ -943,7 +943,7 @@ Muslim characters, be they town dwellers, denizens of the countryside or nomads,
 
 **Eunuch** (–1): You are a eunuch, and so are unable to procreate. Regardless of when the operation was carried out, you display outward characteristics identifying you as a eunuch, which may make you seem odd in the eyes of other characters. You enjoy a certain freedom of movement among the sexes, and it is likely you were made a eunuch for work at a harem or a military school. This flaw is only available to male characters.
 
-# *New Academic Knowledges*
+# New Academic Knowledges
 
 **Theology: Islam —** This is the Islamic equivalent of Theology: Christianity. The major sources for Islamic theology are the Qur'an and the Sunna. Specialties include the Qur'an, debates and history (Intelligence).
 
@@ -953,13 +953,13 @@ Muslim characters, be they town dwellers, denizens of the countryside or nomads,
 
 with a number of duties in the civil administration.
 
-### *Other Groups*
+### Other Groups
 
 There are several other groups in Islamic society. The peasants (Ar. *fallahun*) work the land, much like European peasants. They are free subjects of the ruler, not bound to the land in the way that some European peasants are. Merchants ply their trade in cities. Special mention should also be made of the nomads, the Bedouin of the deserts and the Turcomans of the Asian steppe. Although some are headed by emirs, and settled in particular areas, many more remain nomadic, wandering where they will and staying outside the established social order. Although occasionally the source of trouble for rulers of settled areas, normally they maintain good relations with them, and can be a source of troops in time of war. Finally, there are the followers of other faiths living under Muslim rule. Their status is discussed under "Islamic Law," below.
 
 The Muslim world represents a variety of ethnic groups. In terms of social hierarchy, lower classes tend to come from the areas they inhabit while the elites, and most particularly the military elites, are mostly Turks, Kurds and Arabs. As Arabic is the official language of the medieval Muslim world, this means that many members of the elites are bilingual.
 
-# *Foreigners in the Muslim States*
+# Foreigners in the Muslim States
 
 As stated above with regard to the Latin states, it is impractical, given the interaction between the two sides, to make widespread use of the Outsider Flaw to represent the position of foreigners in the states of their opponents. So the same rule as has been described in the previous chapter should be used for foreigners in the Muslim states. Foreigners receive a modifier to their social die rolls varying between –5 and +5, depending on the current state of relations between their home country and the state they are in, how far this affects who they are talking to and how far they are identifiable as foreigners. As before, the Storyguide is the one who decides what the exact modifier will be.
 
@@ -969,7 +969,7 @@ Muslim relations with the Latins (whom they call *ifranj*, Franks) are best desc
 
 # Islamic Law
 
-### *The Sources of Islamic Law*
+### The Sources of Islamic Law
 
 Islam is both a religion and a social contract, and so the law humans should use to regulate their lives is contained in its teachings. There are a number of sources the Muslim use for this law, which is called in Arabic *al-shari'a*. These sources are known in Arabic as *usul alfiqh* (the principles of jurisprudence), and are as follows:
 
@@ -983,7 +983,7 @@ These are the major ways Muslim lawyers deal with legal cases. Some use of other
 
 After the death of Muhammad, there emerged a number of schools (Ar. *madhhabs*) of law, devoted to formalizing Islamic teachings on legal matters. Of the various schools which emerged, four predominated, known as the Hanafis, the Malikis, the Shafi'is and the Hanbalis, taking their names, respectively, from their founders Abu Hanifa (d. 767), Malik ibn Anas (d. 795), Muhammad al-Shafi'i (d. 820) and Ahmad ibn Hanbal (d. 855). Each school developed a slightly different interpretation of the Qur'an and *hadith*, with the result that their teachings on certain legal matters differ slightly. Probably the best-known example is the teaching of the Hanafis on the drinking of alcohol, for they only prohibit alcohol which is made from grapes.
 
-### *Crime and Punishment*
+### Crime and Punishment
 
 The *shari'a* divides crimes into categories:
 
@@ -1015,11 +1015,11 @@ Stoning or flogging
 
 Some other crimes also incur severe penalties. For example, apostasy is punished by death, as is the use of magic for evil purposes. Less serious offenses are punished with a verbal reprimand. Islamic law often requires a number of witnesses to a crime, making it difficult to impose penalties without adequate proof, and moderating the more severe penalties somewhat.
 
-### *Currency and Commercial Law*
+### Currency and Commercial Law
 
 The major currencies of the Muslim world are the golden *dinar* and the silver *dirham*. Theoretically a *dinar* is worth 10 *dirhams*, but in reality the value fluctuates according to the relative values of gold and silver. Sometimes a *dinar* can be worth 10 *dirhams*, at other times it can be worth 20, or even 50. In some areas a copper coinage is also used, called the *fals*. The
 
-# *Muslim Coinage*
+# Muslim Coinage
 
 Storyguides may find it convenient to assign a fixed value to the three Muslim coinages. A reasonable system would be 20 *dirhams* to the *dinar*, and 36 *fals* to the *dirham*. Thus a *dinar* is worth 720 *fals*. Looking across the cultures, for ease of exchange Storyguides may wish to assume that a Latin besant is equal to a *dinar*, a Latin denier is equal to a *dirham*, and a Latin copper coin is equal to about 3 *fals*. A Mythic Penny is worth about 6 *fals*.
 
@@ -1029,7 +1029,7 @@ Islamic law forbids usury and gambling, although it is not forbidden among follo
 
 Muslims may dedicate the income of an estate or property to a religious or charitable purpose, which may include the building of mosques, schools and hospitals, or relief for the poor. This is called a *waqf* (religious endowment). A *waqf* may provide for the family of the benefactor, as long as the proceeds eventually go to a charitable purpose, once the family has died out.
 
-### *Magic*
+### Magic
 
 Magic is permitted in Islam, as long as it is used for good purposes. Use of magic for evil purposes, on the other hand, is punishable by beheading.
 
@@ -1037,11 +1037,11 @@ Magic is permitted in Islam, as long as it is used for good purposes. Use of mag
 
 The term *jihad* refers to two sorts of individual effort towards spiritual goals. The greater *jihad* (*al-jihad al-akbar*) refers to the spiritual struggle one wages with oneself in order to mend one's evil ways. This is a necessary prerequisite for engaging in the lesser *jihad* (*al-jihad al-asghar*), which is the external *jihad* one wages against an enemy for the sake of Islam. In this way, the *jihad* is akin to the Christian Crusade. Islam divides the world into two areas, the *dar al-harb* (Abode of War), and the *dar al-Islam* (Abode of Islam). Muslims were originally required to fight until Islam was the universal religion, although some others were permitted to exist in subordinate positions (see below). Recently the *jihad* theory has been modified to allow for peaceful co-existence with other non-Muslim states, allowing trade and diplomatic relations between Muslims and non-Muslims. Truces are intended to be for no longer than ten years, but are frequently renewed. The *jihad* is both a defensive and offensive obligation, intended for both the expansion of Islam and its
 
-# *The Islamic Dominion Aura*
+# The Islamic Dominion Aura
 
 The Islamic Dominion aura is generated in the same way as other Dominion auras, and Muslim characters may have True Faith, and may pray for miracles (see ArM4, pages 243-4). Muslims may also use relics containing Faith Points (ArM4, page 244). Islamic Dominion auras are compatible with Christian and Jewish Dominion auras, and Muslims may benefit from Christian and Jewish auras, and vice versa. If more than one Dominion aura is present in any given place, the strongest predominates. The Islamic aura has its own Temper (see *Pax Dei*, pages 16-27), the effect of which is that the aura does not inflict any penalty on supernatural powers that are clearly used for the benefit of believers (here defined as pious Muslims or *dhimmis*). In any case of doubt, the usual penalties should be assigned (see ArM4, page 239).
 
-# *Areas of Muslim Divine Power*
+# Areas of Muslim Divine Power
 
 | Area                            | Aura |
 |---------------------------------|------|
@@ -1070,7 +1070,7 @@ defense. It is intended to be led by political authorities, although individuals
 As in the Latin states, the Muslim world has inhabitants following a number of other faiths, including Christians and Jews. These people are designated in Islamic law as *ahl alkitab* (the people of the book, as their religions are based on books), and are permitted to live in Muslim lands as long as they accept the status of *dhimmis* (or *ahl al-dhimma*, people of the pact). The pact mentioned is said to have been made during the reign of the Umayyad caliph 'Umar ibn 'Abd al-'Aziz (r. 717-20), although its origins pre-date this. The subject peoples are required to pay a special poll tax (Ar. *jizya*), to refrain from bearing arms, riding horses or building new places of worship. Their ability to testify in court is restricted, and the value of their testimony is less than that of Muslim men. Sometimes they are also required to wear distinctive dress. How far these restrictions are actually enforced varies, and sometimes reflects
 
 
-# *Invoking the Lesser Jihad*
+# Invoking the Lesser Jihad
 
 Storyguides may allow Muslim characters with True Faith to attempt to invoke the lesser *jihad* against an enemy. The character prays to God for aid, and rolls a stress die, adding Faith points, any appropriate Personality Trait (e.g. Pious) and any Dominion aura. The ease factor is 24+, modified by the Storyguide according to their assessment of the character's piety, how well the player is roleplaying and the appropriateness of invoking the *jihad* in the situation. If the roll is successful, the character and their companions (who may be an army!) may add the character's Faith score and any Dominion aura to their rolls (combat or otherwise) until the end of the battle. Note that if more than one character invokes the *jihad*, the most powerful (the highest total rolled) is the one that takes effect.
 
@@ -1081,14 +1081,14 @@ relations between the local Muslim rulers and the Latins. In early Islamic times
 
 # Daily Life
 
-### *The Pillars of Islam*
+### The Pillars of Islam
 
 The Muslim life is encapsulated in five basic duties, known as *arkan al-islam* (the pillars of Islam). These are as follows:
 
 - 1. *Shahada* **(testimony):** Muslims witness to their faith through two statements, which signify conversion to the faith. These are "*la ilaha illa Allah*" (there is no god except God) and "*Muhammadun rasul Allah*" (Muhammad is the messenger of God). These are repeated regularly as part of the ritual prayers.
 - 2. *Salat* **(prayer):** Muslims must perform ritual prayer five times every day, at fixed times. These are *fajr* (dawn), *zuhr* (midday), *'asr* (mid-afternoon), *maghrib* (sunset) and *'isha'* (evening). Before performing ritual prayer, Muslims must be in a state of ritual purity, achieved through either the greater ablution of complete immersion in water (Ar. *ghusl*) or the lesser ablution of washing the face, hands, feet and head (*wudu'*), depending on how impure the individual is (in other words, what they have done since the last prayer). In some situations, when water is in short supply, sand may be used to perform the ablutions. The time of prayer is announced by the *mu'adhdhin* (caller) who pronounces the call to prayer (*adhan*) from the minaret of the nearest mosque. Although the actual prayer may be performed anywhere, the nearest mosque is recommended. Prayer is always conducted facing Mecca. It is led by a Muslim who is known as the *imam*. Although any sufficiently knowledgeable Muslim may be the *imam*, it is usually an employee of the mosque. The actual prayer
 
-# *Non-Muslim Characters in Muslim Lands*
+# Non-Muslim Characters in Muslim Lands
 
 Broadly speaking, characters who are members of other faiths living under Islam follow the same guidelines given for Muslim characters above, although very few are members of the nobility, and none may be members of the religious classes (*'Alim, Qadi, Mufti*, Sufi), *Shahids* or Mamluks. Many Christians living under Islam are involved in the civil administration, while many Jews are merchants. As in the Latin states, another common career for members of other faiths under Islam is as a dragoman (described in the previous chapter).
 
@@ -1107,7 +1107,7 @@ Muslims may also choose to fast at other times in atonement for certain sins, in
 
 5. *Hajj* **(pilgrimage):** All Muslims who are able are required to make the major pilgrimage to Mecca at least once during their lives. The *hajj* is undertaken during the first half of Dhu'l-Hijja, the last month of the Muslim year. The pilgrims travel to the vicinity of Mecca, where they perform ritual purification and don garments consisting of two unsewn pieces of cotton, a state of dress that represents the equality of all believers. They must remain in a state of purity throughout the hajj. They walk around the Ka'ba seven times and run between two hillocks named al-Safa and al-Marwa, while making set prayers and invocations. Then on the 7th Dhu'l-Hijja the pilgrims take part in a prayer service in the mosque around the Ka'ba. The next day they assemble at Mina, where they stay overnight. Then they travel east to the plain of 'Arafat, where they take part in a prayer ritual, and also a ceremony known as the "standing." That night they stay at Muzdalifa, halfway between 'Arafat and Mina. The next day they return to Mina, where they throw seven pebbles at a column said to represent Satan. This is followed by the other major Muslim celebration, the 'Id al-Adha (feast of sacrifice), at which animals are slaughtered. They then return to Mecca and walk around the Ka'ba again. They may also run between al-Safa and al-Marwa if they have not done so already. Then the state of ritual purity is abandoned, men having their heads shaved, and women having a lock of hair cut off. Three days of celebration at Mina follow, including further stoning of Satan, and ending with further circumambulation of the Ka'ba.
 
-### *Family Life*
+### Family Life
 
 Islam also regulates various features of Muslim family life.
 
@@ -1140,7 +1140,7 @@ Islamic law lays out what becomes of the property of the deceased. The inheritan
 
 As will have become apparent, in some respects women have a less favorable position under Islamic rule than men — their share of inheritance is less, and they can be divorced easily. In some traditions the testimony of a women is regarded as having half the value of that of a man, and the seclusion and veiling of women is also encouraged. However, women have the same property rights as men, and in general the law instructs that they should be treated with respect and kindness. It should also be noted that the extent to which the strict letter of the law is followed varies from place to place. As has been described, some
 
-# *Muslim Ghosts*
+# Muslim Ghosts
 
 As implied above, the Muslim soul does not proceed immediately to heaven or hell, the exceptions being prophets and martyrs. Instead, dead Muslims wait patiently in their graves for the end of days and the Last Judgement. This last is a divine requirement, made effective by the Muslim funeral ceremony. This means that only Muslim ghosts that have not been given a Muslim funeral may be summoned. The majority of Muslim ghosts simply will not answer the summons, in obedience to God's will. Note that as mentioned above, prophets and martyrs have already passed on to Paradise. This means that they may not be summoned, regardless of whether or not they have been given a proper funeral.
 
@@ -1153,21 +1153,21 @@ As noted above, the drinking of alcohol is forbidden in Islam, although accordin
 
 # Intellectual and Artistic Culture
 
-### *Philosophy*
+### Philosophy
 
 As a result of the expansion of Islam and its subsequent interaction with the Byzantine Empire, many Classical texts passed into the Muslim world, particularly through the efforts of Christian and Muslim translators. These included philosophical works, which were welcomed by a number of Muslim intellectuals who then attempted to reconcile reason with faith. These included al-Kindi (d. 873), al-Razi (Rhazes, d. c. 925), al-Farabi (d. 950), Ibn Sina (Avicenna, d. 1037) and, later on, Ibn Rushd (Averroes, d. Morocco 1198). Islam encourages the use of reason by humans, but some of the ideas explored by the philosophers seemed to threaten mainstream Islamic dogma, attracting vigorous opposition from Muslim theologians, of whom the best known was al-Ghazali (d. 1111). In the 13th Century, philosophy continues to be seen by some as a danger to Islamic belief.
 
-### *Science*
+### Science
 
 The Umayyad and early 'Abbasid caliphates also saw the passing of many Classical, Indian and Persian scientific texts into the lands of Islam. Muslim, Christian and Jewish inhabitants of the area built on the knowledge of the ancients to make significant advances in various areas of science, simultaneously adapting them to suit Islamic society. Al-Razi, Ibn Sina, Ibn Rushd and the Jew Moshe ben Maimon (Maimonides, d. 1204), among others, made significant advances in medicine. Progress has also been made in alchemy, chemistry and physics. While study of all of these subjects has been advanced in particular by translations of Greek texts first made in the 8th Century, mastery of alchemy has also been attributed to earlier figures in Islamic history, including 'Ali ibn Abi Talib and Khalid, the grandson of the first Umayyad caliph, Mu'awiya. Famous alchemists of the 12th Century included the poet and statesman, Husayn 'Ali al-Tughra'i, and the preacher, 'Ali ibn Musa. Meanwhile in mathematics, the numbering system now used in Europe, commonly known as the "Arabic" numbers, was imported from India, and a number of advances were made, particularly in the field of algebra (*al-jabr*). Important Muslim mathematicians included al-Khwarizmi (after whom the algorithm is named, d. c. 840) and the Persian poet-mathematician 'Umar Khayyam (d. 1123). Astronomy and astrology also flourished in the Muslim world. Many of these discoveries then passed on to Europe through both Muslim Spain and, later, the Latin States in the Levant.
 
-### *Literary and Scholarly Writing*
+### Literary and Scholarly Writing
 
 From its earliest days, Islam saw a flowering of various forms of literature. A number of authors, including Khalil (8th Century) and Ibn Qutayba (d. 889), wrote works of philology, attempting to explain the meaning of the language of the Qur'an, and codify the Arabic language. The writing of history began with biographies of Muhammad (Ibn Hisham, d. 834), before spreading to encompass histories of places, dynasties, empires and even humanity itself. Two of the best known Muslim historians are al-Tabari (d. 922) and Ibn al-Athir (still living in 1220, d. 1233). A number of geographers were also active, including al-Mas'udi (d. 956) and al-Idrisi (d. 1154). Another important genre was *adab*, literature aiming both to entertain and instruct, of which the best known exponent was al-Jahiz (d. 869). Other works aimed almost entirely at entertaining were also written, of which the most well known was the so-called *Arabian Nights*, a collection of tales purportedly told over a thousand (or 1001) nights to a sultan, Shahriyar, by his vizier's daughter, Sheherezade. After finding his wife being unfaithful with a servant, Shahriyar had taken to taking virgins to his bed every night, then executing them the following morning to avoid betrayal. Sheherezade prolonged her life by telling tales to the sultan every night, but leaving them unfinished, so that he would let her live to finish them the following night. After almost three years of this, and her having borne him several children, Shahriyar decided to forsake his evil ways and keep Sheherezade as his wife.
 
 Poetry also flourished under Islam. Perhaps the most important genre in the Middle Ages is that of panegyric, praise-poems intended to celebrate a particular patron. Two particular pane-
 
-# *The Arabian Nights*
+# The Arabian Nights
 
 The origins of the *Arabian Nights* are unclear; a collection of stories, drawing on earlier folk tales, existed at least as early as the 10th Century, entitled *The Thousand Nights.* This was expanded on over the centuries, and it seems doubtful that the collection available to 21st-Century readers is entirely authentically medieval. In particular, some of the better-known stories, including those of A'la al-Din (Aladdin) and 'Ali Baba, may be 18th-Century additions. The alternative titles of the *Arabian Nights* and the *Thousand and One Nights* date from the 18th century.
 
@@ -1175,7 +1175,7 @@ gyrists of Zangi and Nur al-Din were Ibn Munir (d. 1153) and Ibn al-Qaysarani (d
 
 Many of these literary genres continue to flourish throughout the Middle Ages and beyond.
 
-### *Art and Architecture*
+### Art and Architecture
 
 Islam developed its own distinct style of art and architecture, which both incorporated elements from older cultures and established its own distinct identity. Islamic art expressed itself both through major monuments, including mosques and *madrasas* (religious colleges), and in minor arts, including textiles, ceramics, illumination, sculpture on wood and ivory, and various forms of metalwork. Decoration included geometrical shapes, calligraphy (on buildings, particularly mosques, as well as in manuscripts) and both animal and even human figures. Although some theologians objected to the use of living beings in art as being idolatrous, few Muslims followed their position, and the use of both stylized and natural human and animal figures continued to be widespread.
 
@@ -1191,7 +1191,7 @@ Sufis seek a closer union with God, through both personal piety and participatio
 
 
 
-# *Sufi Rituals*
+# Sufi Rituals
 
 No rules are given for Sufi rituals, as they fall under the category of Divine intervention. Results of such rituals should be adjudicated on a case-by-case basis by the storyguide.
 
@@ -1210,39 +1210,39 @@ theology; and they place greater emphasis on the teachings of the *imams*, as pa
 
 There are many branches of the Shi'a*.* Five are particularly important in the Levant, and are described below.
 
-### *The Ithna'ashari Shi'a*
+### The Ithna'ashari Shi'a
 
 The most numerous of the Shi'i divisions is the Ithna'ashari (Twelver) Shi'a, also known as the Imamis. They include many Bedouin tribesmen among their number. The Twelvers recognize a line of twelve *imams*, beginning with 'Ali and passing down through his family. After the death of the eleventh *imam*, al-Hasan al-'Askari in 874, they say that his son, Muhammad al-Mahdi, went into "lesser occultation" (*ghayba*), communicating with the world through a line of four emissaries, the last of whom announced, on his death bed in 941, that the *imam* was going into "greater occultation" (*ghayba kubra*), which would last until he returned as the *mahdi* at the end of time. For the moment, he would be with his Shi'a, but would not communicate with them. A number of duties, including the lesser *jihad*, have been suspended as a result of the *imam's* occultation.
 
-### *The Nusayris*
+### The Nusayris
 
 The Nusayris are a splinter group from the Twelvers, whose doctrine was rejected by the majority. They trace their origins to 859 and a figure named Muhammad ibn Nusayr al-Numayri, who claimed to be the *bab* (gateway) to the *imam*. Later they developed the doctrine that immediately below the ineffable deity there is a spirit from which there are emanations to the physical world in hierarchical order. The duty of these emanations is to lead fallen beings out of their bodies to heaven. The Qur'an is an initiation in devotion to 'Ali. This devotion has resulted in them also being called 'Alawis. The Nusayris are found in the Bahra' mountain range in northern Syria.
 
-### *The Fatimids*
+### The Fatimids
 
 During the time of the sixth *imam*, Ja'far al-Sadiq (d. 765), a group of Shi'is claimed that he had nominated his son Isma'il as his successor. When Isma'il died in 755 before his father, they recognized his son Muhammad as the seventh and final *imam*. They maintained that he was also the *imam* who would reappear as the *mahdi* at the end of time. They existed in secret until the middle of the 9th Century, before emerging as two movements, known collectively as the Isma'ilis. The first movement, the Qarmatians, were a revolutionary group found in Kufa in Iraq. The second and (in the Levant) more important group were the Fatimids. As has been described above, the Fatimids were most prominent in North Africa and Egypt, until their destruction in 1171.
 
 The Fatimids developed a doctrine that drew a distinction between the exterior teaching of religion and the inner truth behind it. The outer teaching changed with each prophet. The Fatimids saw history as a succession of cycles, in each of which there was a prophet followed by a number of *imams*. The Fatimid rulers themselves claimed to be *imams* as well as the rightful caliphs. The inner truth was of a God beyond all human knowledge, from which there proceeded a series of emanations through which the human world had been created. As described above, the Fatimids did not impose their doctrine on the general populace, who remained, in the main, Sunni Muslims.
 
 
-# *Story Seed: Fatimid Survivors?*
+# Story Seed: Fatimid Survivors?
 
 Although Salah al-Din did his utmost to destroy the dynasty, it may be that some Fatimids escaped the destruction. Perhaps a survivor will approach the player characters, seeking help to regain their throne. Given the Hermetic prohibition on mundane interference, the characters would be wise not to become involved, but the Fatimid survivor may have powerful allies who can affect the covenant, or may offer tempting rewards. In addition, the Fatimid may have the powers of the *imam*: not only Divine Might, but also the power to invoke the lesser *jihad* against the player characters if they will not help him...
 
 
-### *The Druze*
+### The Druze
 
 The sixth Fatimid caliph, al-Hakim (r. 996- 1021), was said by some to be insane. However, there were some Isma'ili extremists, led by a man named Hamza ibn 'Ali, who claimed that he was a manifestation of the Divinity. When al-Hakim vanished in 1021, Hamza claimed he had withdrawn to test his followers. Shortly after Hamza also vanished, and the movement was led by a man named al-Muqtana. Letters by him, along with writings by Hamza, form the Druze scripture, called *Rasa'il al-Hikma* (the Epistles of Wisdom). The Druze await the return of al-Hakim and Hamza. Little more is known of their doctrine, for they are extremely secretive. The Druze were rejected by the main Fatimid organization, and were hunted down in Cairo after al-Hakim's death in 1021. However, some managed to escape, taking refuge in the mountains of the Lebanon, where they continue to exist. The name Druze (Ar: Darazi), is taken from the name of another adherent of the sect, himself called al-Darazi.
 
-### *The Assassins*
+### The Assassins
 
 The word "assassin" derives from the Arabic *hashishi* (one associated with hashish), and is an uncomplimentary term probably used by the opponents of the Assassins to refer to their sect. They owe their origins to one of the most active propagandists of the Fatimid caliphate, a Persian named Hasan-i Sabbah, who in 1090 seized the fortress of Alamut, in northern Persia. From there he began a program of Fatimid propaganda and political assassination. Then in 1094 the Fatimid caliph al-Mustansir died. He had nominated his eldest son, Nizar, to succeed him, but the palace administration ousted him in favor of his younger (and more pliable) brother al-Musta'li. Hasan-i Sabbah and his followers sided with Nizar, becoming independent from the main Fatimid administration. It is from this stance that the Assassins are known by their other name of Nizaris. Nizar was murdered in prison in Alexandria, and his sons with him, but the Assassins claimed that a grandson had been successfully smuggled out and brought up at Alamut. In another version of the story it was a pregnant concubine of one of Nizar's sons who was smuggled out, and gave birth to the grandson at the fortress. During the years which followed, the Assassins established a sect arranged
 
-# *The Assassins in Ars Magica*
+# The Assassins in Ars Magica
 
 In **Ars Magica**, the master of the Syrian Assassins is always a mage, usually a *raqi*, but sometimes a *sahir* or a follower of another tradition (see the next chapter for information on the Muslim magical traditions). They use a mixture of ruses and magic to create feelings of fanatical devotion in their followers. In addition, the daggers with which they equip their followers have magical properties:
 
-# *The Assassin's Dagger*
+# The Assassin's Dagger
 
 The Assassin's dagger is distinctive for its gold hilt and polished blade. When the dagger is drawn, it casts the equivalent of *Endurance of the Berserkers* on the wielder (ArM4, page 128). The enchantment is such that only the Assassin for whom the dagger is constructed may use it. The dagger's power may be used three times per day. (Level Rationale: *Endurance of the Berserkers*, R. Touch, D. Salah, T. Ind. = ReCo 20).
 
@@ -1254,7 +1254,7 @@ Much of what is known about the Assassins was written by their opponents, but th
 
 Probably the greatest of the masters of the Syrian branch of the Assassins was Rashid al-Din Sinan, also known to the Crusaders as the Old Man of the Mountain. He ruled from 1162 until sometime between 1192 and 1194 and was said, like many of the masters of the Assassins, to have been a magician. In 1176, Salah al-Din besieged Masyaf, but is said to have withdrawn after a poisoned dagger and a threatening message from Sinan appeared in his tent overnight. Another story states that a messenger from Sinan came to the sultan, insisting on delivering his message in private.
 
-# *Story Seed: Stolen Property*
+# Story Seed: Stolen Property
 
 The characters accidentally intercept a shipment of Assassins' daggers from Syria to Persia, but only realize what they have found when they have had a chance to examine them in the lab. Naturally, the Assassins are keen to retrieve them, but how can the characters persuade them that they only obtained them by accident? To complicate things further, other parties, including the Order of Hermes, are interested in obtaining the shipment, and may bring pressure to bear upon the characters. How will they extract themselves from this predicament?
 
@@ -1293,7 +1293,7 @@ It should be noted that Muslim non-Hermetic mages of the Middle East always use 
 
 at anyone or anything within earshot of the magus. A spell cast with a Booming voice will reach 100 paces across an open area on a clear day. A Firm voice will reach 50 paces, and a Soft voice will reach 2 paces. Spells may not be cast silently using this range, but a magus using this range suffers no penalty (or bonus, for that matter) to his spellcasting total for using a non-standard voice. Either his voice is loud enough to reach his target, and the spell takes effect normally, or it is not, and the spell fails. Distances should be reduced by the Storyguide to take account of bad weather, obstructions and the like. They should also be increased to account for positive conditions, such as the target being downwind, or the caster being in an amphitheatre! It should be noted that this range may be used with inanimate targets. The target does not actually have to hear the magus to be affected, provided the sound reaches it. The target must be clearly and unambiguously identified in at least two independent ways, for example, "Ignus of Flambeau" and "the smelly magus with the red robes," or "soldiers hunting me" and "Ignus' bodyguards." The major advantage of this spell is that the caster does not require either sight of his target or an Arcane Connection in order to cast spells on it. If his target is within earshot, it will be targeted by the spell.
 
-### *Durations (from low to high)*
+### Durations (from low to high)
 
 - *Shahada*
 - *Adhan/Qira'a/Sura*
@@ -1313,7 +1313,7 @@ at anyone or anything within earshot of the magus. A spell cast with a Booming v
 *Sura***:** The spell lasts for as long as it takes to recite a *sura* (chapter) of the Qur'an. This ranges between a few seconds and half an hour, depending on the *sura*. An Int + Theology: Islam roll of 9+ is needed to choose a *sura* which is both suited to the occasion, and of the required length. Success indicates that the spell will last for exactly the amount of time the magus wants it to, up to a maximum of half an hour, assuming that the usual casting rolls are made. Failure reduces the duration of the spell to *Shahada*. A botch indicates that the spell lasts for an amount of time
 
 
-# *Adapting Islamic Ranges, Durations and Targets?*
+# Adapting Islamic Ranges, Durations and Targets?
 
 As a possible Major lab discovery, Storyguides may wish to allow magi to adapt Islamic ranges, durations and targets to Hermetic magic (see WGRE, pages 84-8 for information on original magical research). They may also allow non-Muslim magi to adapt them to their own faiths. Thus a Christian mage, for example, might be able to adapt the Minaret target to affect all who can hear the bells of the nearest church.
 
@@ -1324,7 +1324,7 @@ determined at random by the storyguide. The magus must recite the first *aya* (v
 
 *Sana***:** The spell lasts for a Muslim year, in other words, for 12 lunar months (12 x Moon duration) from the time it is cast.
 
-### *Targets (from low to high)*
+### Targets (from low to high)
 
 - Small
 - Individual
@@ -1343,7 +1343,7 @@ Faeries are extremely rare in the Mythic Middle East. This means that Middle Eas
 According to the Qur'an, *sihr* (magic) was taught to mankind by two fallen angels named Harut and Marut, to tempt them away from the straight path of Islam. Those they taught then passed on their knowledge to following generations. In some cases, the knowledge was corrupted under the influence of Greek and Latin texts, becoming the magic practiced by *raqis* and other natural magicians. In other cases, much was forgotten, leaving only the few snip-
 
 
-# *Calculating spell levels*
+# Calculating spell levels
 
 To calculate the level of a spell used by an Islamic-influenced mage, take the equivalent Hermetic spell from the Spells chapter of ArM4 (pages 102-60), look up the range, duration and target on the table below, replace these with the Islamic equivalents, then increase or decrease each as required, increasing or decreasing the level by 5 for each step. Thus the Hermetic spell *The Chirurgeon's Healing Touch* (CrCo 20), if converted to an Islamic spell with a range of Touch, a duration of Sun and a target of Individual will be level 25 (level 20, + 5 to increase the duration from *Salat* to Sun). Use the same process to convert an Islamic spell to a Hermetic one (starting with the Islamic range, duration and target, naturally).
 
@@ -1365,7 +1365,7 @@ To calculate the level of a spell used by an Islamic-influenced mage, take the e
 |            |            | Instant    |                                  |           |                      |
 
 
-# *Sample Islamic Spell: The Wrath of Allah*
+# Sample Islamic Spell: The Wrath of Allah
 
 (Islamic equivalent of Hermetic Rego Terram (with Creo and Ignem Requisites), Level 35)
 
@@ -1386,11 +1386,11 @@ The basic premise behind the magic practiced by the *sahirs* is that of summonin
 
 A *sahir* should be played as an alternative to a magus character in sagas. Whether the character is a member of the Order of Hermes or not is a matter of personal choice. However, a *sahir* who is not a member is likely to experience problems if they spend much time in Hermetic circles. A *sahir* who is a member of the Order must either take the +2 Virtue Outsider Trained in the Order (WGRE, page 61), or fulfill the requirements described in *Hedge Magic*, page 33. Most *sahirs* are Muslims, but some Christian and Jewish magi also practice the art.
 
-### *Characteristics*
+### Characteristics
 
 Purchase or roll characteristics as normal.
 
-### *Virtues and Flaws*
+### Virtues and Flaws
 
 *Sahirs* receive the Divination: Astrology, Magic Sensitivity and Second Sight Virtues for free. They may also take up to 10 points of Virtues, balanced with up to 10 points of Flaws. They have access to General Virtues and Flaws, and to any Hermetic Virtues and Flaws that the Storyguide sees fit. Like Hermetic magi, *sahirs* are obviously Gifted, so the Gentle Gift Virtue is equally useful to them.
 
@@ -1398,7 +1398,7 @@ Purchase or roll characteristics as normal.
 
 **Rare Virtues and Flaws:** Anything faerie related, due to the relative scarcity of the fay.
 
-### *Abilities:*
+### Abilities:
 
 *Sahirs* begin the game with the following Abilities:
 
@@ -1408,11 +1408,11 @@ Speak Own Language 5, *Sihr*\* 3, Divination: Astrology 2, Magic Sensitivity 2, 
 
 They may spend an additional number of points on Abilities equal to their Age + 9. They may choose freely from the Abilities listed on p. 53 of the **Ars Magica** rulebook, including Academic and Arcane Abilities, although they may not take Certámen, Parma Magica or Order of Hermes Lore.
 
-### *Familiarities*
+### Familiarities
 
 The character has 50 points to spend on Familiarities with specific entities. These represent the character's knowledge of specific supernatural entities, used to increase their ability to summon them, as described below. These are bought using the pyramid scale, in the same way as Abilities. Familiarities may be chosen with any of the planetary spirits, or with specific spirits, *jinn* or demons. In the case of spirits, *jinn* or demons, the entity's Magic or Infernal Might may not exceed the *sahir's* score in Int + *Sihr* + Leadership + Appropriate Lore (see below) + 10. The Storyguide and player should work together to design the entities with which the *sahir* wishes to have Familiarities.
 
-# *Sample Sahira: Wardat al-Quds Ex Miscellanea*
+# Sample Sahira: Wardat al-Quds Ex Miscellanea
 
 **Characteristics:** Int 0, Per –2, Str +1, Sta +3, Pre +3, Com +2, Dex –2, Qik –2
 
@@ -1452,7 +1452,7 @@ Wardat's wizard's sigil is a faint scent of roses that fills the air as she work
 
 ## Sihr
 
-### *Summoning Demons, Spirits and Jinn*
+### Summoning Demons, Spirits and Jinn
 
 *Sahirs* are expert in the summoning demons, spirits and *jinn*, and are adept at using them to serve their purposes and confound their enemies. The *sahirs'* ability to summon demons has caused variable responses among the magi of Hermes. Some use this ability as evidence of the diabolic nature of their magic.
 
@@ -1464,23 +1464,23 @@ Wardat's wizard's sigil is a faint scent of roses that fills the air as she work
 
 They may also summon, but not control, demons. Divine powers will not allow themselves to be summoned, nor will the Fay. In fact, since faeries are extremely scarce in the Levant and the Middle East, *sahirs* from these areas have little experience with such entities, and are unlikely even to attempt a summoning. It is easier for *sahirs* to summon entities about which they have some information, particularly if the have the entity's True Name. However, they may also attempt to summon general types of entity (an unspecified fire elemental or mountain *jinn*, for example).
 
-### *Preparation*
+### Preparation
 
 The actual procedure of summoning and controlling an entity is split into two main phases, *Istihdar* (summoning) and *Istikhdam* (use). Each is described below. Readers will note that reference is made to an "Appropriate Lore" being used in the summoning and control procedures. For infernally corrupted *jinn*, airy spirits, demons and ghosts, the appropriate Lore to use is Occult Lore. For daemons, spirits of the Near and Far Lands and uncorrupted *jinn*, the appropriate Lore is Legend Lore.
 
 However, before the actual summoning may take place, the *sahir* must first prepare the site in which the summoning will be performed and, if desired, draw a protective circle. These preparations take time. Basic preparation of the site takes a number of minutes equal to the Might of the entity being summoned. This preparation is performed differently by each *sahir*, but may include laying out ritual props, burning incensing and so forth. During this time the *sahir* may then choose to draw a protective circle. The actual drawing of the circle takes two rounds, should there be an urgent need for one. The strength of the circle is equal to:
 
-### **Stress die + Int +** *Sihr* **+ Appropriate Lore + Concentration + aura**
+### **Stress die + Int +** Sihr **+ Appropriate Lore + Concentration + aura**
 
 The Storyguide should roll the stress die in secret, and not inform the player of the exact result. The *sahir* and any companions stand within the circle, and no entity covered by the Appropriate Lore with a Might score less than or equal to the strength of the circle may harm it or those within it, nor may they enter it. The circle also prevents harm from entities covered by the other Lore up to half its score in Might. Thus a circle with a strength of 20 drawn to protect against uncorrupted *jinn* (Legend Lore) also provides a protection of 20 against daemons and spirits of the Near and Far Lands (Legend Lore), and 10 against corrupted *jinn*, airy spirits, demons and ghosts (Occult Lore). As an option, the *sahir* may draw a circle to protect against the specific entity to be summoned. In this case, the *sahir's* score in Familiarity with the entity may be added to the summoning total, but the circle will not give any protection at all against other entities. The basic circle is 3 paces across, but this may be increased by one pace per additional round spent drawing the circle. Should more than one circle be drawn, the second will dispel the first. The circle is also dispelled if it is broken in any way, either through someone leaving it or any part of it being erased. The entity summoned almost always arrives outside the circle, although a botched summoning could result in it appearing within it.
 
 Once the preparations are complete, the summoning may begin.
 
-### *Istihdar*
+### Istihdar
 
 To summon an entity, the *sahir* must exceed the entity's Might on a:
 
-### **Stress die + Pre +** *Sihr* **+ Appropriate Lore + Familiarity (if possessed) + aura**
+### **Stress die + Pre +** Sihr **+ Appropriate Lore + Familiarity (if possessed) + aura**
 
 Bonuses and penalties should be applied for Virtues and Flaws that affect contests of will, such as Strong-Willed. If the *sahir* has either an Arcane Connection to or a Familiarity with the entity summoned, the total is taken as calculated. If an attempt is being made to summon an unspecified entity, halve the total. Every attempted summoning takes a number of minutes equal to the entity's Might, and costs a Fatigue level per 15 minutes or part thereof spent on the summoning. The summoning consists of invocations, exhortations and ceremonial gestures, and so may not be performed if the *sahir* is unable to speak or move. Once it is complete, the *sahir* sits down to await the arrival of the entity. Should the summoning be unsuccessful, the *sahir* will realize this once it is complete. Should it be botched, the *sahir* will not realize this. Precise effects of the botch are left up to the storyguide, and may range from a simple no-show to a more powerful, but less friendly, entity arriving, or even to the entity appearing within the circle. If the summoning is successful, the entity must immediately travel to the *sahir* from the nearest possible location, by the fastest means available to it. Should the *sahir* leave the summoning area before the entity arrives, the compulsion placed upon it ends immediately.
 
@@ -1495,7 +1495,7 @@ be less or equal to that of the original summoner, the entity will not come, and
 
 Once the entity arrives, the next phase of the procedure begins, as the *sahir* attempts to make the entity do their will.
 
-### *Istikhdam*
+### Istikhdam
 
 The summoning ritual gives *sahirs* the ability to communicate with the entities they summon, and they also automatically have the Abilities Magic Sensitivity and Second Sight, as noted above. Thus, when the entity arrives, the *sahir* will be able to see it and communicate with it. When entities arrive, they are usually in a neutral frame of mind, or curious about the desires of their summoner. The exception to this is demons, who will be seeking a way to twist the summoning to their own ends, and preferably to corrupt the *sahir* in the process. At this point, the *sahir* must choose whether to bargain with or compel the entity.
 
@@ -1539,11 +1539,11 @@ Possible commands are as follows:
 
 Individual commands may be easily combined to have the entity perform more complicated tasks. A *sahir* might, for example, command an entity to "Go to the sultan's castle, tear down the walls, and then return here" (travel, perform, travel). Should the *sahir* behave in a particularly obnoxious way towards entities, they and others of their ilk are likely to pervert commands given to them. Word gets around...
 
-### *Invocation of Planetary Spirits*
+### Invocation of Planetary Spirits
 
 *Sahirs* may use their magic to invoke the spirits of the 7 planets: the Sun, the Moon, Mercury, Venus, Mars, Jupiter and Saturn. They do this in order to generate spell-like effects, which they may make more effective than those of their Hermetic counterparts through use of additional energy that flows from the planet. A specific area of magic is associated with each planet. To conduct the invocation, the *sahir* chooses a planet, states the general effect desired, then makes preparations similar to those involved in preparation for summoning. The *sahir* may choose to draw a protective circle, to protect against unwanted supernatural interference, following the rules above. The *sahir* then conducts an hour-long ritual, expends four Fatigue levels, and rolls:
 
-### **Stress die + Stamina +** *Sihr* **+ Divination: Astrology + Familiarity + Fatigue penalty + Aura**
+### **Stress die + Stamina +** Sihr **+ Divination: Astrology + Familiarity + Fatigue penalty + Aura**
 
 If the *sahir* does not have a Familiarity with the appropriate planet, then the spirit may not be invoked. The summoner must roll greater than 15 + a quality die to summon the spirit successfully. The variation in the number represents the fact that at some times their spirits will be easier to invoke than at others, depending on where they are in relation to the earth, interference from other astral phenomena and so on. Naturally storyguides should feel free to adjust this number, if they have been keeping an eye on planetary conditions in their saga! Remember that characters with Divination may gener-
 
@@ -1573,7 +1573,7 @@ Some of the types of magic associated with the planetary spirits overlap with ea
 
 *Sahirs* often spend time on the following seasonal activities:
 
-### *Study*
+### Study
 
 *Sahirs* have all the usual means of learning available to all characters, with the exception of study from vis (ArM4, pages 187-90).
 
@@ -1588,7 +1588,7 @@ Some of the types of magic associated with the planetary spirits overlap with ea
 **Stress die + Int +** *Sihr* **+ Concentration + Appropriate Lore (or**
 
 
-# *Sahirs and the Lunar Limit*
+# Sahirs and the Lunar Limit
 
 Some players may feel uncomfortable with the idea of the *sahirs* using magic that breaks the Lunar Limit. They may wish either to disallow the invocation of planetary spirits. Alternatively, they may wish to rule that while the *sahirs* think they are invoking planetary spirits, the aid they are receiving actually comes from earthbound spirits or, even worse, from demons.
 
@@ -1598,7 +1598,7 @@ Some players may feel uncomfortable with the idea of the *sahirs* using magic th
 
 Particularly ingenious ways of learning about entities may be rewarded by the storyguide with bonuses to this roll. The ease factor is the entity's Might. For planetary spirits, this is equal to 15 + a quality die, though storyguides may wish to vary this by up to 10 points either way according to the general weather conditions of the season. If the *sahir's* roll exceeds the ease factor, they immediately gain a number of experience points in this Familiarity equal to:
 
-### **(***Sahir's* **total – Entity's Might) ÷ 5 (round up)**
+### **(**Sahir's **total – Entity's Might) ÷ 5 (round up)**
 
 These points may be used to buy a new score or increase a current score in this
 
@@ -1610,7 +1610,7 @@ Familiarities may also be gained through other means, such as a long time spent 
 
 No Familiarity may exceed an entity's Might score. For all except planetary spirits, if the *sahir* has managed to attain such a score, then they have effectively learned the entity's True Name, since they will only fail to summon the entity on a botch, in most cases. Thus if a character learns an entity's True Name through other means, the automatically gain a Familiarity with the entity equal to its Might.
 
-### *Train Apprentice*
+### Train Apprentice
 
 Although generally solitary, *sahirs* do occasionally train apprentices. Apprentices add their Intelligence and *Sihr* scores to their masters' study into Familiarities, provided that the masters are engaged in General Study (see above). See ArM4, pages 100-101 and WGRE, page 37 for information on finding and training apprentices. With a little adaptation, these may be applied to apprentices of the *sahirs*.
 
@@ -1620,11 +1620,11 @@ Although generally solitary, *sahirs* do occasionally train apprentices. Apprent
 
 # Other Features of the Sahirs
 
-### *Aura Interaction*
+### Aura Interaction
 
 *Sahirs* use the Magic column of the Realm Interaction table to determine how they are affected by auras. Like all middle eastern magic users, they are affected by "The Faerie Problem" described above.
 
-### *Sigils*
+### Sigils
 
 Like Hermetic magi, *sahirs* often have quirks that permeate their magic as sigils.
 
@@ -1640,25 +1640,25 @@ The *raqis* (m. sing. *raqi*, f. sing. *raqiyya*) are the natural magicians of t
 
 
 
-### *Generating Raqi Characters*
+### Generating Raqi Characters
 
 Although a Mystic Companion, a *raqi* character should occupy a player's magus slot at character creation. *Raqis* may follow any faith. *Raqis* are generated in the same way as other natural magicians (*Hedge Magic*, page 40), with the following modifications:
 
-### *Starting Abilities*
+### Starting Abilities
 
 *Raqis* receive the following starting Abilities: Alchemy 4, Artes Liberales 3, Islamic Law 1, Disputatio 2, Magic Sensitivity 2, Scribe Arabic 2, Speak Arabic 4 (if Own Language is Arabic, then choose Persian, Greek or Latin as a secondary language), Philosophiae 3
 
 When spending their remaining experience points, they have access to the same Abilities as other Natural Magicians.
 
-### *Niranjat*
+### Niranjat
 
 *Raqis* may buy up to 50 levels of *niranjs* (sing. *niranj*, spells). They choose these from the list of Hermetic Formulaic (but not Ritual) spells. Their use is described below. They may choose *niranjs* of any Technique/Form combination, up to a maximum level equal to the Int + Alchemy + Philosophiae + 10.
 
-### *Differences between Natural Magic and Raqi Magic*
+### Differences between Natural Magic and Raqi Magic
 
 *Raqis* may do everything natural magicians may do (*Hedge Magic*, pages 41-4). In addition, they may also cast *niranjs* they know, in a similar way to Hermetic Formulaic spell-casting.
 
-### *Casting Niranjs*
+### Casting Niranjs
 
 Casting *niranjs* takes one combat round, the same time it takes for Hermetic magi to cast spells, and the same rules for targeting, concentration, words, gestures and so on apply. The *raqi* declares his or her intention to cast a *niranj*, and then calculates the following total:
 
@@ -1666,7 +1666,7 @@ Casting *niranjs* takes one combat round, the same time it takes for Hermetic ma
 
 The player then rolls a stress die, which is added to the total. If the new total is within 10 of the *niranj's* level, it goes off, and the *raqi* loses two Fatigue levels. If the roll equals or exceeds the level, then it goes off, and the *raqi* loses one Fatigue level. If the roll is not sufficient to reach within 10 of the level, then it fails, and two Fatigue levels are lost. Botches are at the storyguide's discretion. Vis may be used to increase the casting roll by + 5 per pawn of an appropriate Technique or Form used, up to a maximum bonus of the *raqi's* Int + Philosophiae. Vis may not be used to obtain extended ranges, durations and targets. Other items may not be used for Form and Effect bonuses when casting *niranjs*, unlike Spellcrafting.
 
-### *Learning Niranjs*
+### Learning Niranjs
 
 *Raqis* normally learn *niranjs* from books. Just as there are spell books circulating among the magi of the Order, so there are similar texts circulating among the *raqis*. To learn a *niranj*, the *raqi* should generate a lab total equal to:
 
@@ -1680,7 +1680,7 @@ A *niranj* is not as reliable as a Hermetic spell, and even learning it can be r
 
 The *'arrafs* (m. sing. *'arraf*, f. sing. *'arrafa*) are the middle eastern cunning folk. They are common throughout the region, in rural villages and urban centers. Due to both their skill at making potions and charms and their ability to predict the future, they are often consulted by the common folk of the area.
 
-### *Generating 'Arraf Characters*
+### Generating 'Arraf Characters
 
 An *'arraf* character is a Mystic Companion, who may be played as either a magus or companion character. Character generation is almost identical to that of the cunning folk (*Hedge Magic*, page 34). However, their starting Abilities are significantly different, and are listed below:
 
@@ -1688,7 +1688,7 @@ Chirurgy 2, Craft Charm 2, Craft Bane 2, Legend Lore 3, Divination (often astrol
 
 *'Arrafs* have a minimum age of 20, and receive age + 10 experience points with which to buy Abilities.
 
-### *Differences between Cunning Folk Magic and 'Arraf Magic*
+### Differences between Cunning Folk Magic and 'Arraf Magic
 
 Due to the scarcity of the fay in the Middle East, *'arrafs* approach their magic in a slightly different way to the cunning folk, placing greater emphasis on its purely magical aspect. They make greater use of divinatory techniques (they may use Divination as normal in addition to their usual abilities), allowing the stars, stones or sand patterns to be their guides. This affects their magic as follows:
 
@@ -1708,7 +1708,7 @@ Gather Wild Vis (dedicated season):
 
 The *zahids* (m. sing. *zahid*, f. sing. *zahida*) are Muslim ascetics. They seek, through an ascetic, pious life, to achieve a closer experience of God. Many *zahids* are Sufis, although this is not exclusively the case. The *zahids* are a source of concern for the magi of Hermes, due both to their ability to work extraordinary effects in Dominion auras, and the fact that many of them are members of Sufi *tariqas* (sing. *tariqa*, brotherhoods). It is the fear of some magi that under the leadership of the *zahids* these *tariqas* may one day present a unified threat to the Order.
 
-### *Generating Zahid Characters*
+### Generating Zahid Characters
 
 *Zahids* are Mystic Companions, generated in the same way as other ascetics (*Hedge Magic*, pages 50-1. However, they have slightly different starting Abilities, listed below:
 
@@ -1716,7 +1716,7 @@ Speak Arabic 3 (if Own Language is Arabic, then choose Persian or Turkish), Theo
 
 *Zahids* receive age + 10 experience points with which to buy Abilities. They do not possess Purity. *Zahids* are not bound by exactly the same strictures as other ascetics. They must behave as good Muslims, and usually eat plain food (some exceptions are made during Ramadan and Muslim festivals) and dress in simple clothes. However, they may marry and raise families. *Zahids* are frequently Sufis. They automatically gain either the Companion Social Class Virtue Wise One or the Companion Social Class Virtue Sufi at no cost. Many also possess the True Faith Virtue.
 
-### *Differences between Ascetic Magic and Zahid "Magic"*
+### Differences between Ascetic Magic and Zahid "Magic"
 
 *Zahids* would not regard their practices as being magic, but rather as effects stemming from their achievement of closer proximity to God. Nevertheless, the effects they achieve are
 
@@ -1738,11 +1738,11 @@ Mystic Understanding:
 
 There are numerous followers of other magical traditions in the Mythic Levant, from both the local area and places further east. *The Mysteries* describes two such traditions, the Isma'ili Shi'i Ikhwan al-Safa' (Brethren of Purity) and the Persian Magoi. As has been hinted above, the Syrian city of Harran is home to a group known as the Sabeans, who practice ancient rituals worshipping the stars. In the shadows of ancient statues and temples Egyptian priests invoke the power of their gods and goddesses. These are but four of many magical traditions to be found in the area. Sadly, space will not allow further discussion of these traditions here, but storyguides should feel free to create other exotic magi who inhabit the area.
 
-# *Christian Ascetics*
+# Christian Ascetics
 
 The rules given here deal with Muslim ascetics. However, there is no reason why they should not be adapted to cover Christian ascetics as well. For such characters, the following modifications are suggested to the rules given:
 
-### *Character Creation*
+### Character Creation
 
 Follow the character creation method given above, but naturally the character must be a good Christian, rather than a good Muslim! In addition to the strictures given above, the character must abstain from sexual activity. Some Christian ascetics also do not wash, regarding cleanliness as a luxury. Those who live near them might differ in this view! Starting Abilities are: Theology: Christianity 3, Sense Holiness & Unholiness 3, Concentration 3. The character has age + 33 experience points with which to buy Abilities. The number of allocated points has deliberately been left low here to allow others to be spent on background Abilities. For example, an ascetic from a monastery will wish to spend points on Academic Abilities (the Educated Virtue will be required). Likewise, one from a cave in the desert will wish to spend them on wilderness skills. Christian ascetics automatically gain the Companion Social Class Virtue Wise One at no cost. Many also possess the True Faith Virtue.
 
@@ -1750,27 +1750,27 @@ Christian ascetics may achieve Transcendences and Mystic Understanding in the sa
 
 Jewish perceptions of spiritual perfection do not really allow for asceticism (*Kabbalah*, pages 84-6). However, Jewish characters may derive significant supernatural benefits from the possession of Purity. These are described in *Kabbalah*, pages 84-85.
 
-# *What is the Order of Suleiman?*
+# What is the Order of Suleiman?
 
 This section gives a number of suggestions for ways in which the Order of Suleiman might be presented:
 
-### *The Magical Arm of the Caliphate*
+### The Magical Arm of the Caliphate
 
 The Order of Suleiman may be an official organ of the caliphate, founded in the early days of Islam and organizing the Muslim magi in the caliphal armies. In this case, the fragmentation of the Muslim world in the 9th century destroyed the Order of Suleiman's unity, just as it destroyed the political unity of the area. The rise of the Zangids and Ayyubids in the Levant enabled the Order of Suleiman to recover some of this unity, and again to become an effective fighting force for the cause of Islam.
 
-### *Preservers of Order*
+### Preservers of Order
 
 The Order of Suleiman may be an official organ of the caliphate with a different duty. It may be required not only to defend the *umma* against infidel sorcerers and other magical dangers, but also to regulate the Muslim magi, ensuring in particular that its members do not engage in overt displays of magic that will distress the normal populace. In this way the Order comes to resemble the quaesitores, enforcing its own code of conduct on Muslim magi.
 
-### *Seekers of the Wisdom of Solomon*
+### Seekers of the Wisdom of Solomon
 
 Solomon (Sulayman in Arabic) was believed to be the greatest wizard who ever lived, able not only to command *jinn*, spirits and demons, but also to bind them in lamps, rings and other items. The Order of Suleiman may be an organization dedicated to the recovery of the king's wisdom, with the ultimate goal of discovering how to perform these feats. In this case, their loyalties may be much more variable, and they will support whoever will help them to further their cause. They may also be quite ruthless in their dealings with others.
 
-### *Uniters of Wisdom*
+### Uniters of Wisdom
 
 The Order of Suleiman may be an organisation uncontrolled by magical, religious or political affiliation, seeking merely to facilitate the exchange of wisdom between all practitioners of magic. It welcomes all participants in this exchange, and maintains a loose network of messengers to facilitate communication and houses where magi may meet to discuss their arts. In this form, the Order would take a particular interest in the covenant of Domus Pacis. It would also be particularly vulnerable to diabolic corruption, since it places few limits on its members.
 
-### *Servants of Evil*
+### Servants of Evil
 
 The Order of Suleiman may be a group of evil magi or, even worse, diabolists, which seeks to corrupt other practitioners of magic. If it has managed to insinuate its members into positions of power throughout the Levant, or even the wider world, it could prove a serious threat to not only other Muslim magi, but also the Order of Hermes!
 
@@ -1797,7 +1797,7 @@ Faeries are rare in the Middle East, due not only to the fact that they thrive m
 
 Hermetic scholars are divided in their opinions regarding the origins and nature of the *jinn*. Some point to the teachings of the Qur'an, insisting that they are fire elementals. Others deny this, noting the fact that Iblis is sometimes described in the Qur'an as being a *jinn*, and therefore depicting them as demons. A third group of scholars point to the fact that they show greater free will and variation than the elementals known to most Hermetic scholars, and comment that their capricious, independent personalities and powers are more reminiscent of the fay. A fourth group suggest that they may be descended from giants. The few Hermetic scholars who have been able to contact the *jinn* say that they regard themselves as being descended from the first two creatures created
 
-# *Spirit Masters, Theurgists and Other Summoners*
+# Spirit Masters, Theurgists and Other Summoners
 
 For the purposes of summoning and control by spirit masters, theurgists and other magi, jinn are treated like other fire elementals. Hermetic magi may use either Ignem or Vim spells to summon and control them.
 
@@ -1812,17 +1812,17 @@ This is this book's official position on the *jinn*, but this does not mean that
 - 2. **The** *jinn* **are demons:** Give all of them Infernal Might, and have them affected by auras as other demons are.
 - 3. **The** *jinn* **are descended from giants:** Give all of them Magic Might, and remove any Psychomachia powers.
 
-# *Story Seed: Seeking Refuge*
+# Story Seed: Seeking Refuge
 
 A *jinni* arrives at the characters' covenant, heavily wounded and seeking a place to rest and recover. He offers to aid the covenant with his powers in return for shelter. However, unknown to the *jinni*, his enemies have pursued him, and will arrive not long after. If the characters have given the *jinni* shelter, they will have to deal with these enemies. If the enemies concerned are magi or Crusaders, this could cause major problems for the covenant.
 
-### *Homelands*
+### Homelands
 
 The main homeland of the *jinn* is the Mountains of Qaf, which are said to surround the earth. Little more is known of these mountains, and no human has ever been there. Many *jinn* prefer to live closer to humans, in order to share in the religious ambience of their society, in the case of pious *jinn*, or in order to have more chance of corrupting them, in the case of infernal *jinn*. This means that they often make their homes in regiones at or near sites frequented by humans, including wells, crossroads and rivers. Heathen *jinn* tend to be more solitary, living in the depths of the wilderness where they will not be disturbed.
 
 The *jinn* tell tales of another homeland, named Jinnistan, located deep within the earth. They say that this used to be the home of all their people, but a long time ago it was conquered and taken over by Iblis. Now only heathen and infernal *jinn* go there, for pious *jinn* are not welcome. This story had been the cause of concern for a number of magi, for if the homeland of the *jinn* is located in the Magic Realm, but is under the sway of the devil, then all creatures of magic are at risk, including the followers of Hermes.
 
-### *Innate Features*
+### Innate Features
 
 All *jinn* have the following innate features inherent to them:
 
@@ -1836,11 +1836,11 @@ All *jinn* have the following innate features inherent to them:
 - 8. All *jinn* have the Magical Air Flaw.
 - 9. As creatures of magic, *jinn* are bound to keep any agreements they make. A *jinni* will not give its word lightly, but if it does, it must keep it.
 
-### *The Orders of Jinn*
+### The Orders of Jinn
 
 There are said to be five orders of *jinn*, representing five levels of power within their ranks. The least powerful *jinn* are known as the *jann* (f. sing. *janna*). The next most powerful are the *jinn*, then the *shaytans* (m. sing. *shaytan*, f. sing. *shaytana*), then the *'ifrits* (m. sing. *'ifrit*, f. sing. *'ifrita*). Finally, the most powerful are the *marids* (m. sing. *marid*, f. sing. *marida*). In game terms, *jann* have Might of up to 10, *jinn* have Might 10 to 25, *shaytans* have Might 25 to 40, *'ifrits* have Might 40 to 55, and *marids* have Might of 55 and higher. Rather confusingly, all five of these terms are used interchangeably by mediaeval Muslims to refer to the *jinn* species as a whole!
 
-### *Jinn Powers*
+### Jinn Powers
 
 The *jinn* have a number of powers, many of which the Merinita note as being similar to those of the fay. The "standard" *jinn* powers are listed below. *Jinn* powers have Ratings ranging from 1 (weak) to 20 (very powerful). *Jinn* usually have a total number of points of Rating in powers equal to their Might. Many of these powers are the same as or have been adapted from the Faerie Powers listed in *Faeries* (See *Faeries*, pages 92-95 and pages 130-132). Unlike faerie powers, *jinn* powers stem from the Realm with which they are aligned (Infernal or Magic), and may be resisted like other spells and magical effects. For purposes of resistance, the Penetration of any given power is considered to be equal to its Rating plus the *jinni's* Might. Although durations of some powers vary, the effects of all *jinn* powers end at dawn (traditionally with the first cock-crow or call to prayer), even if they might otherwise last longer. The exception to this rule is effects that may be made permanent through the permanent expenditure of Might, as described below.
 
@@ -1848,55 +1848,55 @@ The *jinn* have a number of powers, many of which the Merinita note as being sim
 
 
 
-### *Bless*
+### Bless
 
 The *jinni* can reward mortals with good luck, health and wealth. The exact effect of the blessing depends on the *jinni* who gives it, but the level of the effect should be calculated by multiplying the Rating of this power by 5. Blessings often duplicate the effects of Hermetic spontaneous Creo spells. Unlike spontaneous spells, *jinn* may use this power to create Instant effects, provided that they permanently expend a number of Might points equal to the spell's magnitude (level ÷ 5), in addition to reaching this duration with their spell level. Note that *jinn* use the Islamic ranges, durations and targets listed under Middle Eastern Magic. A particularly benevolent *jinni* may expend Might for those blessed, or return every day to renew the blessing.
 
-### *Change Size*
+### Change Size
 
 The *jinni* may change its Size either up or down by a number of points up to or equal to its Rating. Thus a Size 0 *jinni* with a Rating of 3 in this power may change its Size to –3, –2, –1, +1, +2 or +3.
 
-### *Communicate with Animals/Plants*
+### Communicate with Animals/Plants
 
 The *jinni* may talk to animals or plants. The power at Rating 1 is considered to have a range of Voice, a duration of *Shahada* and a target of Individual. Each additional Rating point allows the *jinni* to increase one of these categories a step each time it uses the power, although it may freely choose which category or categories to increase each time. Note that the maximum duration for this power is still limited by the next sunrise.
 
-### *Control Animals*
+### Control Animals
 
 A Rating of 2 in this power allows the *jinni* to control a single animal until the next call to prayer (*adhan*). After initial eye contact is made between the *jinni* and the animal, there is no limit to how far the two may be separated. However, the *jinni* must concentrate on the controlled animal in order to make it do a specific task. Each additional 2 points of Rating allows the *jinni* either to increase the duration of the control by one call to prayer or control an additional animal, specified each time the power is initiated. Note that the duration of the control is still limited by the approaching sunrise, as usual.
 
-### *Control Element*
+### Control Element
 
 This power allows the *jinni* control over one of the elemental Forms of Aquam, Auram, Ignem or Terram. The *jinni* can cause effects with that element that duplicate Hermetic spontaneous spells of a magnitude equal to the *jinni's* Rating in the power (i.e. the level is equal to Rating x 5). Note that *jinn* use the Islamic ranges, durations and targets listed under Middle Eastern Magic. Duration is normally limited by the next sunrise, but *jinn* may use this power to create spells with Instant effects, provided that they permanently expend a number of Might points equal to the spell's magnitude (level ÷ 5), in addition to reaching this duration with their spell level. Because of their fiery elemental nature, *jinn* with the Control Ignem power count as having an additional point of Rating when using Creo Ignem effects, but one less point of Rating when using Perdo Ignem effects. Thus a *jinni* with Control Ignem 5 may create Creo Ignem effects of level 30 or less, Perdo Ignem effects of level 20 or less, and all other Ignem effects at level 25 or less.
 
-### *Control Person*
+### Control Person
 
 The effects of this power are similar to those of Rego Mentem spells like *Enslave the Mortal Mind*, with the victim getting an initial chance to resist with an Intelligence roll. The ease factor for the roll is equal to the *jinni's* Rating in the power. Additional rolls may be made when the victim is being forced to do something that is strongly against his or her will. A Rating of 2 in this power allows the *jinni* to control a single mortal until the next call to prayer (*adhan*). As with Control Animal, after initial eye contact is made between the *jinni* and the mortal, there is no limit to how far the two may be separated. Each additional 2 points of Rating allows the *jinni* either to increase the duration of the control by one call to prayer or control an additional mortal, specified each time the power is initiated. Note that the duration of the control is still limited by the approaching sunrise, as usual.
 
-### *Curse*
+### Curse
 
 At low Ratings, the *jinni* can afflict mortals with minor annoyances, such as having their milk curdled, their bread prevented from rising, and so forth. At high Ratings, Curse can cause persistent nightmares, prevent a patch of land from supporting life, inflict illness, madness and worse. The level of the effect is determined by multiplying the Rating by 5. Curses often duplicate the effects of Hermetic spontaneous Perdo spells. Note that *jinn* use the Islamic ranges, durations and targets listed under Middle Eastern Magic. Unlike spontaneous spells, *jinn* may use this power to create Instant effects, provided that they permanently expend a number of Might points equal to the spell's magnitude (level ÷ 5), in addition to reaching this duration with their spell level. A particularly vicious *jinni* may expend Might on a curse, or return every day to renew it.
 
-### *Enchant Objects*
+### Enchant Objects
 
 The *jinni* may create one magical item per day. The item is created out of thin air, and may be anything the *jinni* chooses. The effects in such an item typically duplicate the effects of Hermetically invested items of a level equal to the *jinni's* Rating x 5 in the power. The item vanishes with the following sunrise, unless the *jinni* permanently expends a number of Might points equal to the magnitude of the effect (level ÷ 5). Several *jinn* may combine their Ratings to create more powerful items, if they wish, sharing the Might cost if necessary. The maximum number of *jinn* who can work together in this way is equal to the Leadership score of the most powerful *jinni* involved. *Jinn* with this power are often sought out by unscrupulous magi and *sahirs* who force them to expend their Might to create items for them. Such sorcerers must be careful how they word their descriptions of the desired items, however, as a *jinni* abused in this way will seek to create an item which will harm its master, if at all possible. Such magi always have a bad reputation among the *jinn*.
 
-### *Fear*
+### Fear
 
 With a Rating of 1, a *jinni* can make a single mortal wary of it. With 3 to 5 points of Rating, a *jinni* can make a mortal cower in fear or flee, depending on the exact circumstances. Groups of mortals can be made to flee or cower by *jinn* with Ratings of 8 or more.
 
-### *Flight*
+### Flight
 
 The *jinni* may fly at a speed equal to 30 + Qik + Rating in paces per round. The maximum time for which the *jinni* may fly continuously is a number of hours equal to its Rating in the power. For rolls to control its flight, and most particularly for performing tricky maneuvers, the *jinni's* Ability in flight is considered to be equal to its Rating in the power.
 
-### *Healing*
+### Healing
 
 The *jinni* may heal one Body level of wounds or disease for each point of this power. It may heal either itself or others, but is unable to heal more times per day than it has points of Rating in this power. The effects of the healing fade with the following sunrise, unless the *jinni* permanently expends one point of Might per Body level healed.
 
-### *Insubstantial Form*
+### Insubstantial Form
 
 This power allows the *jinni* to assume a non-physical form. The precise appearance of the form may be varied at the *jinni's* discretion. Thus a *jinni* may choose, for example, to appear as a ghostly figure on one occasion, and as a pillar of smoke on another. While it is in this form physical objects cannot affect the *jinni*, nor can it affect physical things. The power does not make the *jinni* invisible. Insubstantial Form can be used for up to one hour for each point of Rating. The *jinni* may control the power during this time, changing between physical and insubstantial form at will (although not fast enough to derive any advantages from this power in combat). Some *jinn* are innately insubstantial, and do not need this power to remain so.
 
-### *Invisibility*
+### Invisibility
 
 Use of this power means that the *jinni* can not be detected by any normal mortal senses not just sight. Invisibility lasts for one hour per point of Rating of this power. The *jinni* may control the power during this time, becoming visible or invisible at will. Invisibility does not
 
@@ -1904,11 +1904,11 @@ Use of this power means that the *jinni* can not be detected by any normal morta
 
 work on those with the Virtues Faerie Sight or Second Sight, or on angels, demons and other such creatures. Magi may use magic to detect invisible *jinn*.
 
-### *Psychomachia*
+### Psychomachia
 
 Usually only possessed by infernal *jinn*, this power works in the same way as the demonic Psychomachia power (ArM4, page 254). The power may be used a number of times per day equal to the *jinni's* Rating. The *jinni's* Rating ÷ 5 (round up) is the modifier on Personality Trait rolls. The *jinni* may have this power several times over for different emotions.
 
-### *Shapechange to Animal*
+### Shapechange to Animal
 
 The *jinni* may change itself or others into any animate form, although the Size of the target may not be changed by more than the *jinni's* rating in this power. The *jinni* may vary the form, changing it, for example, into a black horse on one occasion, and a white horse on another. "Human" is allowed as an "animal" form, and is often used to imitate other humans (the storyguide should make a secret Int + Rating roll for the *jinni*, which is treated as the difficulty for others to notice the imposture on a Per + Awareness roll). Unwilling targets may make a Stamina stress roll of 9+ to resist the effect. While in animal form, the target of the power follows the usual rules for shapeshifters (ArM4, pages 251-2). If the power is used on itself, the *jinni* retains the ability to speak, but other targets do not. The Rating of this power also limits the number of times the *jinni* may use it per day. It costs one Fatigue level for the *jinni* to change its own shape, and two Fatigue levels for it to change the form of someone else. As with the other *jinn* powers, the effects wear off at sunrise. Rumors abound of *jinn* who have
 
@@ -1917,23 +1917,23 @@ The *jinni* may change itself or others into any animate form, although the Size
 
 managed to break this last limitation, and have transformed others into animal shapes for years, but no Hermetic scholar has managed to confirm these as yet.
 
-### *Shapechange to Object*
+### Shapechange to Object
 
 The *jinni* may change itself or others into any inanimate form, although the Size of the target may not be changed by more than the *jinni's* Rating in this power. The power may be used to imitate other objects (the Storyguide should make a secret Int + Rating roll for the *jinni*, which is treated as the difficulty for others to notice the imposture on a Per + Awareness roll). Unwilling victims may make a Stamina stress roll of 9+ to resist this power. If the power is used on itself, the *jinni* is still able to perceive its surroundings, and speak, but other targets are not. The Rating of this power also limits the number of times the *jinni* may use it per day. It costs one Fatigue level for the *jinni* to change its own shape, and two Fatigue levels for it to change the shape of someone else. As with the other *jinn* powers, the effects wear off at sunrise.
 
-### *Supernatural Characteristic*
+### Supernatural Characteristic
 
 The *jinni* has access to supernatural reserves of Intelligence, Strength, or whatever else is chosen by the storyguide. For a number of rolls per day equal to its Rating in this power, the *jinni* may increase the chosen Characteristic by 1 per point of Rating in this power. The maximum Rating at which the *jinni* may have this power for each Characteristic is equal to its Might ÷ 10 (round up).
 
-### *Summon*
+### Summon
 
 The *jinni* may summon other minor *jinn* to do its bidding. The Might of these minions is equal to the *jinni's* Might ÷ 2. No more than the *jinni's* Summon Rating may be present at any one time, with a maximum total Might equal to its Rating x 10. The summoning takes a number of minutes equal to 20 - the *jinni's* Summon Rating. The minions will serve the *jinni* as best they can, but will refuse to take part in any action that will involve unnecessary danger to themselves. They may also rebel if treated badly. Storyguides and players should remember that they are also individuals, and they should behave as such. Note that such a summoning is Momentary in duration: the minions are not transported back home again with the sunrise.
 
-### *Travel*
+### Travel
 
 The *jinni* may appear instantly anywhere it has been before. A *jinni* may also use this power to teleport to places it has never been before, for a maximum number of trips per day equal to its Rating in this power (remember to allow for trips back). In the latter case, the *jinni* must have heard of the place, have had it described to them or have an Arcane Connection, it may not be further away in miles than the *jinni's* Rating in this power, and the *jinni* must make an Int + Rating stress roll of 15+ in order to arrive in the right place. The storyguide should feel free to adjust the difficulty of this roll. If the *jinni* has an Arcane Connection, or a detailed map of the place, the ease factor should be reduced. If the description is particularly vague, it should be increased. The *jinni* may take one mortal along on the trip for every 5 points of power the *jinni* has. Note that such travel is Momentary in duration: the travelers are not transported back home again with the sunrise.
 
-### *Jinn Tribes*
+### Jinn Tribes
 
 There are said to be 112 tribes of *jinn*, spread throughout the earth; it is the names of these tribes that often confuses those who seek to determine the true nature of the *jinn*. Each tribe has different common characteristics that distinguishes it from the others. Storyguides may wish to use the tribes as a dynamic for adventures, or to give greater background to *jinn* non-player characters. Some of the names used by the tribes are the same as names used to refer to some of the orders of *jinn*. Four of the most common tribes are:
 
@@ -1943,9 +1943,9 @@ There are said to be 112 tribes of *jinn*, spread throughout the earth; it is th
 
 
 
-# *Sample Jinn*
+# Sample Jinn
 
-# *Amirat al-Jabal, Lady Emir of the Mountain*
+# Amirat al-Jabal, Lady Emir of the Mountain
 
 **Characteristics:** Int 1, Per 0, Str +10, Sta +10, Pre +4, Com 0, Dex 0, Qik –3
 
@@ -1977,7 +1977,7 @@ Motherly +3, Distracted +3
 
 Amirat al-Jabal is a huge *marida* of the *Marid* tribe who lives in the mountains of northern Syria. She takes very little interest in mortal affairs, preferring to devote her time to overseeing the welfare of the other *jinn* of the mountains. Many of the weaker *jinn* see her as a grandmother figure. Mortals who meet her may mistake her for a part of the mountain, for she stands some 15 feet tall, and is almost as broad, with sandy brown, stonelike skin. Her general shape is humanoid, but craggy and hairless. She is benevolent to those who treat her with respect, and terrible to those who attack her or her self-appointed charges. Her voice is low and rumbling. She is nominally Muslim, but erratic in her practice of the faith, often being distracted by the troubles of her junior brethren.
 
-# *Story Seed: Oops!*
+# Story Seed: Oops!
 
 By accident, the characters harm one of Amirat al-Jabal's charges. Furious, she hunts the characters down, seeking revenge or compensation. Her power makes her a dangerous opponent in combat, so negotiation would seem to be the preferable option. How will the characters talk their way out of this one?
 
@@ -1985,7 +1985,7 @@ often winged, or take the form of vapor. Many live underground or haunt ruins. I
 
 *Shaytan***:** *Shaytans* are very ugly, and most members of the clan are infernally corrupted. Indeed, Iblis himself is also known by the name Shaytan. The *shaytans* control humans, tempting them to acts of evil or forcing them into situations of danger. However, among their number there are a few who, conscious of the behavior of most of their tribe, dedicate themselves to helping those in need. Common powers include Control Person, Control Element and Curse. Common Virtues and Flaws include Higher Purpose (+1), Compulsion (–1) —
 
-# *Al-Qatil, The Slayer*
+# Al-Qatil, The Slayer
 
 **Characteristics:** Int 0, Per 0, Str +5, Sta +4, Pre –2, Com –3, Dex +5, Qik +4
 
@@ -2017,7 +2017,7 @@ often winged, or take the form of vapor. Many live underground or haunt ruins. I
 
 Al-Qatil is an infernal *jinni* of the *Ghul* tribe who spends his time serving as a mercenary for anyone who will employ him. Unpopular among other *jinn*, he mostly takes employment in the armies of mortals, delighting in conflict, bloodshed and the chance to eat those he kills while others are distracted be the mayhem of battle. In his natural form, al-Qatil appears to be a stocky humanoid with red skin, clad in chainmail and wielding a sword and shield. He usually uses his powers to change his appearance, in order to work his way into mortal armies.
 
-# *Story Seed: A Rogue Element*
+# Story Seed: A Rogue Element
 
 Al-Qatil disguises himself as a normal soldier and infiltrates the covenant's grogs. He spreads discord among them, provoking internal strife and sowing the seeds of rebellion. To prevent a mutiny, the characters will have to investigate the problem and deal with the cause.
 
@@ -2031,7 +2031,7 @@ to good or evil, Disfigured (–1) and Driving Goal (–1) — to serve good or 
 
 One of the most dangerous creatures found in the Levant is the *naddaha*. The *naddaha* is most commonly found in Upper (southern) Egypt. It takes the form of an old woman, usually clad in an all-covering black *milaya*, and lurks around wells or oases. When a potential victim comes within earshot, it calls him or her closer, usually with a request for a drink of water or some other plausible excuse. It particularly prefers beautiful victims, perhaps seeking some revenge for its own ugliness. When the victim comes too close, the *naddaha* will seize and crush him or her against its body, for beneath its clothes are long, razor-sharp spikes. The *naddaha* usually only attacks solitary individuals, hiding if more than one person approaches its haunt.
 
-# *Naddaha Statistics*
+# Naddaha Statistics
 
 **Characteristics:** Int 0, Per 0, Str +5, Sta +4, Pre +1 (–5 if unclad), Com 0, Dex +3, Qik +3
 
@@ -2057,7 +2057,7 @@ One of the most dangerous creatures found in the Levant is the *naddaha*. The *n
 
 **Vis:** 2 pawns Mentem in larynx
 
-# *Story Seed: Missing Persons*
+# Story Seed: Missing Persons
 
 The covenant is visited by the *qadi* of a local Muslim village. Several villagers have gone missing while fetching water from a well by a nearby river. The *qadi* seeks the characters' help to find them. However, unknown to the other villagers, a *naddaha* has taken up residence at the well, and the missing persons were its first victims. The characters will have to deal with the creature, if the well is to become usable again. However, when the creature is slain, the *qadi* will insist on the return of its victims' remains, which it has thrown into the river. This may take some effort, as the bodies are likely to have drifted downstream. The success or failure of the search may affect future relations between the village and the covenant.
 
@@ -2065,7 +2065,7 @@ The covenant is visited by the *qadi* of a local Muslim village. Several village
 
 Early in the earth's history, fallen angels bred with human women. The offspring of these unions were a race of giants known as the nephelim. Although strong, skillful and cunning, the nephelim also had a great capacity for sin, and in the end this was their undoing. Under their guidance, both their own race and humanity became so corrupt that God decided to destroy them. At his command, Gabriel incited a civil war among the nephelim, and they destroyed themselves. However, it may be that there are some few who survived, either repenting of their sin, or descend-
 
-# *Lilith*
+# Lilith
 
 More information on Lilith may be found in *Kabbalah*, page 139.
 
@@ -2075,7 +2075,7 @@ ing into further wickedness and depravity. Such creatures could prove to be grea
 
 In addition to creatures, there are also some mythic characters who may be encountered in the Levant. Three of these are described below.
 
-### *Lilith*
+### Lilith
 
 Lilith was the first wife of Adam. She demanded equality with her husband, but failed to achieve it, and so she left him and made her home near the Red Sea. There she became wife and mother to demons of all kinds. God sent three angels to command Lilith to return to her husband, but she refused, even when they threatened to kill her demonic offspring. They left her alone, and she began a vendetta against children, particularly boys. To this day, she con-
 
@@ -2084,15 +2084,15 @@ Lilith was the first wife of Adam. She demanded equality with her husband, but f
 
 tinues to kill or kidnap young children, though many Jewish mothers seek to prevent this by obtaining a protective amulet from a baal shem.
 
-### *Cain*
+### Cain
 
 Cain was the eldest son of Adam and Eve, and the older brother of Abel. When they grew up, Cain became a cultivator, while Abel became a shepherd. They both offered sacrifices to God, and when it became apparent that Abel's was the more pleasing, Cain became angry and slew his brother. In vengeance, God cursed him, saying, "Now art thou cursed from the earth, which hath opened her mouth to receive thy brother's blood from thy hand. When thou tillest the ground, it shall not henceforth yield unto thee her strength; a fugitive and a vagabond shalt thou be in the earth." (Gen. 4: 11-12). God placed a mark upon Cain, so that none would harm him, and he was banished to the Land of Nod, to the east of the Garden of Eden. Later Cain built a city, which he named after his son Enoch. Both the city and the son are now lost in the mists of time, but Cain wanders the earth still, cursed never to find a permanent home.
 
-### *Khidr*
+### Khidr
 
 Khidr (the Green One) is an important Muslim prophet. He is said to be immortal, having drunk or dived into the Water of Life, which he found by means of a shining jewel brought from Paradise by the prophet Adam. He wanders the world giving advice wherever God directs him; indeed, he is believed to have given guidance to all the prophets who have lived since his birth, with the exception of Muhammad, who instead tutored Khidr. He is also said to have taught magic to Nur al-Din. Khidr has power over the sky, the sea and all plant life,
 
-# *Khidr*
+# Khidr
 
 Khidr is best used as a mysterious advisor to the player characters. He is unlikely to reveal his true identity to them, and at times he will give advice that seems bizarre and unreasonable, although it will always be proved correct in the end.
 
@@ -2106,29 +2106,29 @@ From the Prophet's Seal Ring to the Apple of Husayn, tales are told of the mysti
 
 It is not surprising that there are many holy items to be found in the Levant. These require careful handling in **Ars Magica**. Like holy places (see Chapter 3) some will only be of importance to members of one of the three major religions of the area, while others are important to two, or even all three religious groups. Generally, relics contain Faith points, as described in ArM4, page 45, and sometimes have additional powers. However, these Faith points and powers will only be of use to characters who believe in the importance of said relic. Thus the True Cross, for example, is only effective for Christians.
 
-### *The Ark of the Covenant*
+### The Ark of the Covenant
 
 Built to carry the tablets of the Law given to Moses by God, the Ark of the Covenant was carried by the Jews throughout their journey from Egypt to the Holy Land. Eventually it was placed in the *debir* (Holy of Holies) in the Temple of Solomon, where it remained until the city was taken by troops from Babylon in 587 B.C. What became of it then is unknown. Some say it was hidden, while others say it was carried off by the victorious Babylonians. Whatever happened, it has never been found again.
 
 The Ark takes the form of a chest of setim wood, measuring two and a half cubits in length, and one and a half cubits in height and breadth. The chest and its lid are covered with gold, and the latter is surmounted by golden two cherubim facing one another. At the corners of the chest are rings of gold, through which two setim wood bars are threaded, enabling the Ark to be carried. Inside it contains the tablets of the Law, a golden vessel of manna and the rod of Aaron. For the Jews, the Ark is a powerful relic, containing 7 Faith points. It is also important to the Christians, for whom it contains 5 Faith points.
 
-### *The Head of John the Baptist*
+### The Head of John the Baptist
 
 John the Baptist, called Yahya in Arabic, is an important figure to both the Christians and the Muslims. John was beheaded by King Herod at the request of his step-daughter Salome, and a number of tales are told about what then became of the head. A number of cities in Europe claim to have the head of the Baptist, including Constantinople and several in France. In the Levant, it is claimed that the head of John the Baptist is in the Great Umayyad Mosque in Damascus. Originally the site had been occupied by a church, but shortly after the Muslims took the city in the 7th Century they demolished the church to make way for the mosque. It is said that the head was found in the ruins, still fully covered with its skin and hair. The mosque has remained the site of this relic ever since. How this relic works in **Ars Magica** is ultimately up to the Storyguide. Some may decide that most of the heads are fakes, and only one is the true head. Others may prefer to assume that all the heads are real, and that the multiplication of the heads is a miracle. A third option is that there is only one head, which is miraculously able to be in several places at once. This last option has intriguing possibilities, at is means that anything that happens to the head in one place might be visible in all the others. Whichever option is chosen, the head(s) contains 5 Faith points, usable by Christians or Muslims.
 
-### *The True Cross*
+### The True Cross
 
 When the Crusaders took Jerusalem in 1099, the new Latin patriarch of the city, Arnulf of Chocques, found a relic of the True Cross of Christ's crucifixion buried in the atrium of the Church of the Holy Sepulchre. This relic was regularly carried into battle by the Crusaders until it was lost to Salah al-Din at the Battle of Hattin in 1187. The Cross is currently still in Muslim hands. In the hands of a Christian, the True Cross is a powerful relic, containing 7 Faith points.
 
-### *The Prophet's Seal Ring*
+### The Prophet's Seal Ring
 
 During his life the Prophet had a seal ring made, which he used to seal official documents. This ring was passed down by the caliphs Abu Bakr and 'Umar, but the third caliph Uthman accidentally dropped it down a well halfway through his reign. From that day on Uthman's reign took a turn for the worse, ending six years later with his assassination, as has been described. The ring was never found. It is said to have been made of silver, with a seal made of onyx or carnelian, upon which were engraved the words "Muhammad Rasul Allah" (Muhammad, the Messenger of God). Should it ever be found again, it would prove to be a powerful relic in the hands of a Muslim, containing 7 Faith points.
 
-### *Dhu'l-Fiqar*
+### Dhu'l-Fiqar
 
 Dhu'l-Fiqar was the sword of the Prophet, which he gave to his son-in-law 'Ali. After 'Ali's death the sword passed to the 'Abbasids,
 
-# *Story Seed: Recovery Mission*
+# Story Seed: Recovery Mission
 
 The characters are required to recover the relic of the True Cross. In order to do so, they will firstly have to find out where it is kept, which will probably involve exploiting contacts within the Muslim nobility, or even infiltrating the palace of the Ayyubid sultan of Egypt. Once they have discovered its location, they will then have to steal it. An item of such value is likely to be well guarded, and may also be placed under magical wards and other defenses. In addition, the characters will have to steal the relic in such a way as to avoid bringing any suspicion upon the Order of Hermes.
 
@@ -2140,23 +2140,23 @@ but it remains a potent symbol for the Shi'is. The sword has two points, used to
 
 Accounts of magical artifacts are common in Middle Eastern folk tales, the best known of which are the *Arabian Nights*. The following are items drawn from its pages, and presented for use in sagas.
 
-### *The Ring of Badr Basim*
+### The Ring of Badr Basim
 
 Badr Basim was the son of a Persian king, Shah Zaman, and a mermaid named Julnar. He was given this item when he went to spend time with his mother's family. It takes the form of a gold seal ring, engraved with some of the names of God. It allows the wearer to breathe underwater, and also prevents him or her from being affected by strong sea currents or storms. The wearer is also ignored by sea creatures, even if he or she might otherwise be potential prey. (Level rationales: Allow the wearer to breathe normally underwater (as *Lungs of the Fish*), R. Personal, D. approx. *Qira'a*, T. Ind. = MuAq(Au) 5, protect the wearer from sea phenomena and creatures, R. Reach, D. approx. *Qira'a*, T. Group = ReAq(An) 25).
 
-### *The Book of the Stories of the Ancients*
+### The Book of the Stories of the Ancients
 
 Also known as the Book of Eld, this text was owned by 'Abd al-Wadud, the father of 'Abd al-Samad and his three brothers. He used the book to teach his sons magic, but before his death he arranged for it to be kept by the diviner al-Abtan, rather than risk his sons fighting over it. Al-Abtan was to give it only to the son who could bring him the treasure of al-Sharmadal. Two of 'Abd al-Samad's brothers died in the attempt, but 'Abd al-Samad succeeded with the help of a fisherman named Judar. What became of it afterwards is not known. The book is a large, heavy volume several inches thick, bound in green leather made from the hide of an unknown beast. It is an Authority (WGRE, pages 122-3) on *Sihr*. Many *sahirs* would sell their souls to obtain this book.
 
-### *The Apple of Husayn*
+### The Apple of Husayn
 
 Husayn was one of three sons of a great sultan, who challenged his sons to bring him back the most wondrous marvels they could find. The eldest brother 'Ali found a carpet which would transport those on it wherever they wished. The middle brother Hasan found an ivory tube tipped with a crystal which would allow the user to view whatever he or she wished, and Husayn, the youngest, found an apple with a fragrance that would cure all illnesses suffered by those who smelled it. Meeting on the way home, the brothers decided to use Hasan's tube to see their beloved adopted sister Nur al-Nahar, only to discover that she lay fatally ill. They used 'Ali's carpet to travel home immediately, but it was Husayn's apple that saved her life. The apple is as large as a melon, red on one side and gold on the other. Its fragrance cures all fatigue, illness and injury instantly. Use is unlimited. Due to its ability to break the Limits of Creation and Energy, Husayn's apple would be of great interest to the magi of Hermes. (Level rationale: Cure all fatigue, illness and injury, R. Touch, D. Inst., T. Ind. = CrCo 65. Due to its non-Hermetic nature, the power should be investigated at level 100).
 
-### *Magic Carpets, Beds and Other Furniture*
+### Magic Carpets, Beds and Other Furniture
 
 The carpet owned by Husayn's brother is but one of many beds, carpets and similar pieces of furniture used to travel great distances in the Middle East. Essentially these fall into two
 
-# *'Abd al-Misbah*
+# 'Abd al-Misbah
 
 **Characteristics:** Int 0, Per +2, Str +7, Sta +7, Pre –2, Com 0, Dex +3, Qik +4
 
@@ -2192,11 +2192,11 @@ pacitated
 
 'Abd al-Misbah stands about 12 feet tall, with very broad shoulders and jet-black skin. On his head are curling ram's horns. He wears baggy white trews and a matching sash. A permanently morose expression occupies his features, for now he is old, much of his power has been used up, and he is bitter about his fate. However, he still remains skilled with many of his abilities, even though much of his raw power is gone.
 
-# *Story Seed: Set Me Free!*
+# Story Seed: Set Me Free!
 
 The lamp passes into the possession of the characters. 'Abd al-Misbah requests that the characters set him free, and confides the secret of his release to them. The requirements are complicated, and will involve a great deal of effort on the part of the characters. However, 'Abd al-Misbah could prove to be a useful ally in the future, should they succeed. Of course, should the characters not be willing to help him, 'Abd al-Misbah will do his best to make life as difficult as possible for them until they reconsider!
 
-# *Note*
+# Note
 
 As has been stated earlier, the tale of A'la al-Din (or Aladdin) is one that may not originally have been in the *Arabian Nights*. Storyguides who are concerned with maintaining historical authenticity may not wish to use this item.
 
@@ -2210,7 +2210,7 @@ types, furniture used to travel instantaneously, and flying furniture. Both of t
 
 The speaker must either be able to see or have an Arcane Connection to the desired location. This power is most common to rugs and carpets (Level rationale: Transport the furniture and its occupants (R: Touch., D: *Shahada*, T: Group, ReAn(Co) 40, add a Herbam requisite to allow for moving wooden furniture = ReAn(Co, He) 40).
 
-### *The Lamp of A'la al-Din*
+### The Lamp of A'la al-Din
 
 A'la al-Din was a Chinese tailor's son who found a lamp served by a mighty *marid* (of the *Marid* tribe) named 'Abd al-Misbah (The Servant of the Lamp). He used the lamp to win the hand of a princess, to defeat his enemies and to gain fame and fortune. It was then handed down within A'la al-Din's family, with each of his descendents making use of 'Abd al-Misbah's powers as they wished. The lamp is made of copper, and finely crafted, if extremely battered. 'Abd al-Misbah is summoned from the lamp by rubbing it, and will serve whoever (physically) holds it. He may be given an unlimited number of commands from the list given under "Istikhdam" in Chapter 6 (the three wishes are a later invention). 'Abd al-Misbah may be freed from the lamp by whoever can fulfill the conditions of his release, although only he knows what these are.
 
@@ -2224,19 +2224,19 @@ There are many places of divine power in the Levant. Not surprisingly, the major
 
 A number of different manifestations of supernatural power may be found in Jerusalem. Some of these are detailed below.
 
-### *The Holy City*
+### The Holy City
 
 Jerusalem is the holiest site of the Levant. The city is of vital importance to Muslims, Christians and Jews. To the Muslims, it is the place from which Muhammad visited the seven heavens on a miraculous night journey (Ar. *almi'raj*), it is the dwelling-place of Abraham, and will be the site of the Resurrection and Last Judgement. To the Christians it is the site of the death and resurrection of Christ. To the Jews, it is the capital of the Promised Land and the site of the Temple. Thus the city has a wide variety of religious sites, pervaded by a variety of Dominion auras. Due to the holiness of the city, all the Dominion auras within it are one point greater in power than they would be in other cities, up to a maximum of 10. Thus the city generally has a Muslim Dominion aura of 4. The most important sites of Islam and Christianity, the Dome of the Rock, the Aqsa Mosque (major Muslim mosques) and the Church of the Holy Sepulchre (effectively the Christian cathedral) have Dominion auras of 10. Since the destruction of the Temple, Jewish auras have generally waned (see *Kabbalah*, page 8), but the Western Wall, which is all that remains of the Temple, has a Jewish Dominion aura of 10.
 
-### *The Hidden Temple*
+### The Hidden Temple
 
 It is whispered among the Jews of Jerusalem that the Temple, supposedly destroyed by the Romans in 70 A.D., was not actually destroyed, but was instead hidden from mortal view by God. Now it lies within a Divine regio, accessible only to those kohanim and rabbis who know how to reach it. Within the regio, the Temple remains in its splendor, a great building of limestone and cedar adorned with gold, including a *hekal* (Holy Place) and *debir* (Holy of Holies), surrounded by a number of other buildings and walled courts. In this regio the two great molten bronze pillars, Jachin and Boaz, also remain, guarding the door of the temple porch.
 
-### *The Holy Fire*
+### The Holy Fire
 
 On the eve of Easter, in the Church of the Holy Sepulchre, a miracle takes place every year. At midday a holy light shines forth from the tomb itself, rising to form a column of flame, a visible symbol of Christ's resurrection. From this flame a priest lights a candle. In the days of the Latin occupation the patriarch of Jerusalem did this, but now it is done by the most senior priest present. When the priest emerges from the tomb, he passes the flame to the people spread throughout the church, while everyone sings hymns of praise.
 
-### *The Ghosts of Jerusalem*
+### The Ghosts of Jerusalem
 
 Ever since the slaughter of 15th July 1099, Jerusalem has been a haunted city. While normally dominated by high-level Dominion auras, every year on the night of the 15th July, these auras are replaced by an Infernal aura of 5, and the ghosts of the slain fill the streets to overflowing, screaming, wailing and driving any who ventures outdoors insane. The characters become involved when one of them is caught outside on such a night, and driven insane. The recovery of this character's sanity could become a major quest, for the ghosts will only restore it if they themselves can be laid to rest, a process that can be as long and involved as the storyguide wishes.
 
@@ -2295,7 +2295,7 @@ Currently tribunal meetings are held at Domus Pacis, as Tau of Flambeau is the e
 
 # Aedes Veritatis
 
-### *General Description*
+### General Description
 
 Some five miles to the east of Damascus, at the top of a steep mountain accessible by only one twisting track on the west side, lies the covenant of Aedes Veritatis (the House of Truth). The covenant was established in 1112 by a young Jerbiton maga from Damascus, Maryam al-Dimashqiyya, as a stronghold for those magi of the Order who had chosen to take up arms against their Hermetic brethren, fighting for the Muslims of the area. The name translated into Arabic (Bayt al-Haqq) carries a wider meaning of "the House of What is Right," and was chosen to reflect what the covenant's inhabitants saw as the rightness of their mission. Through careful administration and swift establishment of defenses and local contacts, Aedes Veritatis became a bastion for the counter-crusading magi, and after Maryam's death at Hattin in 1187, the leadership of the covenant was taken over by her filius, Sharaf al-Din 'Umar. Since the making of the Treaty of Baghdad, 'Umar, his sodales and their Hermetic and mundane allies have continued to wage a secret war against the Crusader covenants, and
 
@@ -2308,14 +2308,14 @@ Aedes Veritatis consists of a great sandstone fortress, heavily reinforced again
 
 The covenant draws its income from a nearby quarry. It sells this stone in Damascus, from which it also buys the majority of its supplies. Some covenants once questioned whether this trade might be regarded as an indirect military intervention in the area, as the stone might be used for building fortifications. However, in this case the quaesitores ruled in Aedes Veritatis' favor, as the goods being traded were not magical, nor were they specifically made for war. A greater concern would be if the quaesitores discovered that 'Umar is an Ayyubid spy.
 
-### *Magi*
+### Magi
 
-### *Sharaf al-Din 'Umar*
+### Sharaf al-Din 'Umar
 
 Sharaf al-Din 'Umar is the head of Aedes Veritatis. He became the head of the covenant at the fairly young age of 35. Although it was a Muslim victory, most of the magi of the covenant were killed at the Battle of Hattin, and the one who remained, Heloise of Criamon, was happy to follow the wishes of Maryam al-Dimashqiyya, the covenant's founder, and allow the young 'Umar to take on the responsibilities of leadership. Heloise later left the covenant, claiming only that "it was time," and has not been seen since. Originally rather wild and hot-headed, 'Umar has since matured into
 
 
-# *Aedes Veritatis Statistics*
+# Aedes Veritatis Statistics
 
 **Symbol:** A stylised house with the Arabic word *haqq* (Truth, or What is Right) in it
 
@@ -2403,23 +2403,23 @@ Physically, 'Umar comes across as an unassuming man, of medium height and build,
 
 'Umar has a secret, unknown even to his sodales at Aedes Veritatis. He is both a member of the Order of Hermes and a servant of the Ayyubid sultans. Should this ever be discovered by the Order, 'Umar is likely to be Renounced. However, he is a powerful magus, and is likely to enlist the aid of other Muslim non-Hermetic magi, should this ever happen, so such Renunciation may not result in his death.
 
-### *Amber the Golden*
+### Amber the Golden
 
 Amber of Tremere joined the covenant in 1188, shortly after the Battle of Hattin and the reconquest of Jerusalem by the Muslims. She is now the second most senior member of the covenant, and a firm friend of 'Umar's. By nature she is fiercely independent, and so it is ironic that fate seems to have entwined her life with those of others. In addition to 'Umar, her life is bound up with that of her parens, Catullus of Tremere, who treats her as his protegée, and her cat familiar, Luigi. Amber joined the covenant of Aedes Veritatis as she objected to House Tremere's policy of support of the Crusades, which represented a control to which her independent spirit was not willing to submit. This brought her into disrepute with the senior members of the house, and it is only through the intervention of Catullus, himself a senior member of Coeris covenant, that she has not been "disciplined." However, Catullus is now edging towards Final Twilight, so Amber will need to seek other allies soon. As for Luigi, he chose her as much as she chose him, and they support each other without cramping each others' style.
 
 Physically, Amber is a strange-looking woman. Once, while making a potion during her apprenticeship, she mistakenly mixed two incompatible reagents. The resulting explosion sent her into temporary twilight, and left her with gold-colored skin, hair and eyes. She is of below-average height and lithe build. As a result of the bonding process with Luigi, her pupils are slitted. She has a natural aptitude with magic involving felines, and her general demeanor is equally cat-like. Amber usually wears a loose red robe, which is easy to remove when shapechanging, something that she does frequently. Her preferred forms are those of a cat or a leopard, and she has invented spells that allow her to adopt both. Luigi is an average-size cat, but his white fur is tipped with gold.
 
-### *Wardat al-Quds*
+### Wardat al-Quds
 
 Wardat al-Quds is described in Chapter 6, on page 67.
 
-# *Story Seed: A Shadow from the Past*
+# Story Seed: A Shadow from the Past
 
 Early on in his career 'Umar was attacked by a Crusader magus, whom he defeated and killed. According to the Code of Hermes 'Umar could be said to be guilty of a High Crime, slaying one of his sodales, and unfortunately there were no other witnesses to testify to the fact that 'Umar was acting in self-defense. The covenant of Foothold (see below) learns of this ghost in 'Umar's past (maybe even from the Crusader magus' ghost itself!) and seeks the player characters' aid to capture him and make him answer to the quaesitores and the tribunal. Ultimately, they want him to be Renounced, which will weaken the counter-crusading magi. Will the characters follow the letter of the law and aid the magi from Foothold, or refuse to aid what is quite obviously a political maneuver?
 
 # Domus Pacis
 
-### *General Description*
+### General Description
 
 Located at the base of a cliff some eleven miles north of Jerusalem, on one of the less well-traveled trade routes, Domus Pacis (or Dar al-Salam, "the Abode of Peace") takes the form of a roadside *khan* (trade hostelry), where merchants can stop overnight (it is from these merchants that some of the covenant's income is derived). The *khan* consists of a central courtyard, surrounded by a high wall, against which are two stories of buildings. The ground floor buildings include the covenant's smithy and rooms and stores for the use of the merchants, while the first floor rooms are used by most of the grogs and covenfolk. The magi and the remaining grogs live in a system of caves hidden underneath the *khan*.
 
@@ -2432,15 +2432,15 @@ Although a seemingly peaceful, inoffensive covenant, Domus Pacis is not without 
 
 who have access to information at the highest levels. In addition, the covenant is not very well defended, and it may only be the fact that its enemies do not consider the covenant to be important enough, coupled with fear of retribution from its powerful allies, which has prevented it from coming under more direct attack. However, the magi are energetic and determined, and so it may not be long before these problems are dealt with.
 
-### *Magi*
+### Magi
 
-### *Tau*
+### Tau
 
 Tau of Flambeau is the ruling Praeco of the tribunal, having been appointed to the position in 1207. Even at 133 years old, he still appears in many ways to be a typical Flambeau magus, fond of fire magic, overconfident and immature. However, he has greater depths to him than one might initially think, for underneath his slightly roguish demeanor he is basically a kind, honest man, who has a genuine desire to do right by people. He is also more intelligent and has a greater range of magical interests than the stereotypical Flambeau. However, few people look beyond his exterior at the real man within.
 
 At the start of his career Tau was apprenticed to a travelling Flambeau magus named Sigma, who unfortunately vanished into Final Twilight just before his filius was due to take his Gauntlet, while travelling to a covenant in Scotland. Tau found his way to the object of his master's travels, the House of Hermes' Wisdom, and after a short time was sent on his Gauntlet to find the nearest Flambeau gathering by the head of the covenant. After being recognized as a fully-fledged magus, he spent many years at a covenant in the Greater Alps, but his interest was piqued by the plans of a younger member of the covenant, Aurora of Jerbiton, who proposed
 
-# *Story Seed: The Italian Job*
+# Story Seed: The Italian Job
 
 Esther asks the characters to carry an important shipment of goods from Domus Pacis to a covenant in the Roman Tribunal. She offers tempting rewards, but refuses to reveal what the contents of the shipment is. Will the characters take the risk?
 
@@ -2448,13 +2448,13 @@ to found a new covenant in the Levant. Tau accompanied Aurora to the area, and h
 
 In his youth, Tau was a vigorous, dashing fellow, and something of that still remains, even though age has made him a bit slower, and in particular has severely impaired his hearing. He now appears to be in his seventies. His curly hair is silver, collar-length with a goatee beard, and he has laughing eyes and a friendly smile. Tau dresses in well fitting, good quality clothes, including a leather tunic, britches and shiny black boots. A shortsword hangs at his side.
 
-### *Felix*
+### Felix
 
 While it might be said that all magi are unusual, in at least one respect Felix is more unusual than most. He has lived at Dar al-Salam since birth, being the son of one of the covenfolk. However, he has only been a fullyqualified magus for five years. His Gift emerged when he was 28, and already a guard in the covenant's turb. His apprenticeship took the usual 15 years, and so he did not pass his Gauntlet until he was 43. Shortly afterwards, his parens, Raymond, was killed in a skirmish with a non-Hermetic wizard, a skirmish that also left Felix' right leg irreparably damaged. Felix took up his master's assigned quaesitorial duty, to keep a watchful eye on relations between House Criamon and the Kabbalists of the Levant. Felix has carried out this duty faithfully, though he prefers using mundane methods first, realizing that his comparatively-weak magic is more wisely used in a supporting role. He has actually established fairly good relations with the Kabbalists of the area, and fast gained a reputation for fairness among his sodales of the Order.
 
 Felix is a slightly plump, friendly-looking man of slightly below-average height. His right leg is badly malformed, meaning that he rarely stands up completely straight. He has aquiline features and medium brown colored hair, graying at the temples. He usually dresses in plain brown robes and carries a walking staff. Although skilled with weapons, he rarely carries
 
-# *Domus Pacis Statistics*
+# Domus Pacis Statistics
 
 **Symbol:** A hand **Season:** Summer **Founded:** 1169
 
@@ -2529,7 +2529,7 @@ she has fast become its most valued member. This is primarily due to her obsessi
 
 any, as his injury makes it difficult to fight, and combat holds little excitement for him now anyway.
 
-### *Esther*
+### Esther
 
 Esther is the most recent arrival at Dar al-Salam, having joined the covenant in 1197, but
 
@@ -2540,18 +2540,18 @@ Esther is an attractive woman, of medium height and build, with short blonde hai
 
 # Foothold
 
-### *General Description*
+### General Description
 
 Although not the oldest of the Crusader covenants, Foothold is the most vocal in its support of a return to the conflict of former years. It is the home of two violent and undisciplined French magi, Guillaume de Bourne of Flambeau and Rufus de Clary of House Tytalus, who arrived in the Levant in 1188, shortly after the fall of Jerusalem to Salah al-Din. They set up their covenant as a "constant foothold for the Order on the Levantine coast," and it is from this intention that its name is derived.
 
 The covenant is located on a hill ten miles east of the coast of the Kingdom of Jerusalem, some ten miles north-east of Acre and ten miles south-west of Tyre. On three sides of the hill the approach is steep and dangerous, but on the eastern side the slope is gentler and wooded. The covenant's inhabitants have begun to clear the woods on the fourth side, but this work has been fairly desultory so far, as the magi are too absorbed in their greater visions of
 
 
-# *Story Seed: Sins of the Father*
+# Story Seed: Sins of the Father
 
 Rufus has discovered something about one of the characters' parentes, which is not only embarrassing, but may also lead to the parens's execution under the dictates of the Code of Hermes. Worse still, he has obtained proof of what he has discovered. The character's parens contacts the character and companions, seeking aid. Will they help? The parens may offer a tempting reward. Perhaps Rufus could be "persuaded" to remain silent about the matter, or maybe they could steal the evidence from him. What can they do to solve the problem?
 
-# *Foothold Statistics*
+# Foothold Statistics
 
 **Symbol:** A flaming sword
 
@@ -2639,15 +2639,15 @@ and it may be that the magi will have to deal with these before long.
 
 Foothold has both allies and enemies in the tribunal. It is seen as the leader of the Crusader faction, as a consequence of which it is supported by other Crusader covenants, but is viewed with hostility by Aedes Veritatis and the other covenants opposing the Crusades. It also has a bad reputation among the quaesitores, who view it as a particular threat to the rather unstable peace, and suspect its magi of continued crusading activity. Finally, magi serving the Ayyubids also recognize the threat posed by the covenant, and so they have planted a number of scrying devices there. Using these, they hope to be forewarned of any sudden attacks by Foothold or its allies. It may well be that if the Treaty of Baghdad is ever broken, Foothold will be the first casualty of the renewed conflict.
 
-### *Magi*
+### Magi
 
-### *Guillaume de Bourne*
+### Guillaume de Bourne
 
 Guillaume de Bourne is, in many ways, the archetype of the Flambeau magus. His primary expertise lies in Ignem, and he is as much a warrior as he is a mage. Where he differs from the standard is in his piety and his genuine belief in the Crusade, the second of which has become an obsession for him. He believes that the Muslims should be driven from the Holy Land, which should be brought under the protection of the mother church. For him it is incidental that this expansion will also profit the Order of Hermes. Guillaume realizes that he is first and foremost a warrior, with little political acumen, and so he is content to allow Rufus de Clary to speak for the covenant at tribunal, and to deal with political matters. Guillaume prefers to concern himself with the covenant's turb, spending almost as much time training with the grogs as he does studying magic.
 
 Guillaume is a large, stockily-built man with black hair, a thin moustache and a thick accent. An ugly burn scar marks his right cheek, evidence of a battle with a powerful Muslim magus. He usually dresses in a plain tunic and trews, and always wears a gold cross pendant, while a longsword hangs at his left hip. In combat, he prefers to be unencumbered, wearing only a reinforced leather hauberk.
 
-### *Rufus de Clary*
+### Rufus de Clary
 
 Unlike his colleague, Rufus de Clary's zeal for conflict with the Muslims is not driven by piety, but rather by fear. As a child Rufus was subjected to unspeakable horrors and abuse by his parents, who were diabolists, before he was rescued by his master Gilles de Clary. Rufus still fears that there are demons after his soul, and so he has become obsessed with gaining magical power with which to protect himself from them. He believes that if the Order expands into Muslim territory it will be able to take over the magical riches of the area, of which he intends to secure his own share. In this way, for Rufus, the ends justify the means. However, in debate Rufus adopts the apparent view that the Crusade should go on for the good of the Order, not revealing what lies at the root of his enthusiasm.
 
@@ -2655,15 +2655,15 @@ Rufus is handsome, slim man with a slight stoop, very pale blond hair and very d
 
 # The Hermetic Embassy
 
-### *General Description*
+### General Description
 
 The Hermetic Embassy represents the Hermetic presence in the city of Baghdad. It is home to the two magi whose duty it is to maintain the Treaty of Baghdad and good relations with the caliph and the Ayyubid sultans, Aurora of Jerbiton and Spiral of Criamon. It is in the quarter of al-Qurayya, not far from the caliphal palace, and takes the form of a house built in Muslim style where the magi live with their bodyguards and servants. The covenant is maintained by Magvillus, the Domus Magna of House Guernicus, and so it is to this house that it is nominally affiliated, even though no members of the house actually live there. Aurora and Spiral have shown themselves to be dedicated to the purpose for which the covenant was founded, and so it is left largely to its own devices.
 
 The Hermetic Embassy is not without its enemies. Foothold and Aedes Veritatis, as the leaders of the Crusader and counter-Crusader factions, periodically trouble it with indirect and political attacks. However, this has not yet degenerated into violence, nor is it likely to, given the importance of Aurora and the influence of the quaesitores. That said, the covenant is in a slightly precarious position, in that if the Treaty of Baghdad is abandoned, it is likely that Aurora and Spiral will be forced to leave the city immediately.
 
-### *Magi*
+### Magi
 
-### *Archmage Quaesitor Aurora Borealis*
+### Archmage Quaesitor Aurora Borealis
 
 Much has already been said of Aurora and her activities in the tribunal. Born into a noble family in the Alps, she was struck by lightning when she was eight, somehow triggering her magical abilities and also giving her a vision of her eventual demise: Final Twilight caused by a second lightning strike. She was soon apprenticed to a maga with a penchant for astronomy, and grew from a bright young girl into an attractive and charming woman. Unlike her mater, Aurora was interested in more earthly subjects, and people in particular. She showed an early aptitude for Corpus magics, and also studied the art of Mentem extensively. After passing her Gauntlet, Aurora stayed at her mater's covenant for twenty years, becoming popular with the grogs and covenfolk, whom she did her best to aid with her magics. However, she eventually decided it was time to move on, and traveled to the Levant. What happened after her arrival has already been described.
 
@@ -2671,14 +2671,14 @@ Aurora is now 102, and an archmaga of considerable power. However, she is also b
 
 Aurora is a slim woman who appears to be in her late sixties. She has long, red hair streaked with gray. She dresses in bright, tastefully cut, multicolored robes. Although the lines in her face are becoming more marked, she is still a very attractive woman, and many a younger magus has fallen in love with her, though she has never allowed these crushes to progress further. Aurora has had only one apprentice, Macha, who is now a fully-fledged maga of the Order and a member of a covenant in Hibernia. She shares her mater's magical interests, though she leans more towards Mentem than Corpus.
 
-### *Spiral*
+### Spiral
 
 Spiral is the other member of the Hermetic Embassy. Although keen to help with the preservation of peace between the Order and
 
 
 
 
-# *The Hermetic Embassy Statistics*
+# The Hermetic Embassy Statistics
 
 **Symbol:** A white flag bearing the symbol of the Order of Hermes
 
@@ -2766,13 +2766,13 @@ of continuing the diplomatic relations between the Order and the Muslims. Spiral
 
 Spiral's primary magical specialty is in Intéllego Vim, and in the early years of his career as a magus he pursued his studies of these Arts with almost fanatical devotion, only spending time studying Corpus to enable him to create a powerful longevity potion, in order to give himself more time for the study of Intéllego Vim. However, more recently he has mellowed,
 
-# *Story Seeds: Aurora of Jerbiton*
+# Story Seeds: Aurora of Jerbiton
 
-# *Rescue Mission*
+# Rescue Mission
 
 As has been described earlier, in 1258 the Mongols take Baghdad and put the caliph and a number of important Muslim magi to death. If it is still in the city, the Hermetic Embassy is also a casualty of the onslaught. Most of the members are killed, but Aurora, now older and weaker, is taken prisoner by the Mongol shamans. Representatives from Magvillus, worried that she might be forced to give up secrets about the Order, send the player characters on a mission to rescue her, or kill her if this proves impossible. They will have to proceed very carefully if they are to succeed in this mission to the heart of enemy territory. In addition, if they choose the second option, they will have to justify their actions to the quaesitores upon their return.
 
-# *The Archmage's Challenge*
+# The Archmage's Challenge
 
 Like all archmages, Aurora had to defeat a challenge before she could be accepted as such. In her case, she solved a riddle set for her by a Criamon archmage, Emerich of the Rhine Tribunal. The riddle involved, "What may never be used in combat?" had the surprisingly straightforward answer of "Nothing." Now that Aurora is an archmage, it would be possible for ambitious characters to challenge her for the title, should they wish to do so. Storyguides should decide for themselves what her challenge is. It could form the basis for a story, or alternatively provide a leitmotif reflecting the nature of the saga.
 
@@ -2814,7 +2814,7 @@ Located deep in the lands of the Alans to the north-east of the Black Sea, the c
 
 Urania takes little interest in tribunal affairs as, due to its remoteness, many issues do
 
-# *Urania*
+# Urania
 
 Urania first appeared in the adventure *The Sorcerer's Slave*. As that adventure is intended to be set in the late 13th Century, the version presented here is intended to pre-date it. In particular, the magi of the covenant are different. For a full description of Urania, its layout, later inhabitants and relations with the Genjii, see *The Sorcerer's Slave*.
 
@@ -2946,13 +2946,13 @@ This breaks down into:
 
 A number of sample *isms*, *laqabs* and *nisbas* are given below. Other Muslim names may be found both in this book and in many history books about the Middle East.
 
-### *Sample Isms*
+### Sample Isms
 
 **Men's** *isms***:** 'Abd Allah, 'Abd al-Rahman, Ahmad, 'Ali, Asad, Ayyub, Bakr, Badar, Dawud, Dirgham, Fadl, Ghassan, Ghazi, Harith, Harun, al-Hasan, al-Husayn, Ibrahim, 'Isa, Ishaq, Isma'il, Ja'far, Jamil, Kathir, Khalid, Khalil, Labid, Mahmud, Muhammad, Nu'man, Qasim, Rashid, Ridwan, Salih, Salim, Shibl, Sulayman, Tahir, Tamim, Tariq, Thabit, 'Umar, Usama, 'Uthman, Wahhab, Yahya, Yusuf, Zayd, Zibyan, Zubayr.
 
 **Women's** *isms***:** 'A'isha, Amina, Anisa, Bilqis, Busra, Dhakira, Duba'a, Dujaja, Durra, Fadila, Fatima, Ghazala, Ghaytha, Habiba, Hajir, Hakima, Hind, Jamila, Jumana, Kabira, Kabsha, Khadija, Khalila, Layla, Lubaba, Maryam, Maymuna, Nasiba, Nawal, Nawar, Qamra', Rabi'a, Rahima, Sa'da, Safiya, Salma, al-Shafa', Shayma', Sumayta, Taliha, Tarifa, Tayma, Thubayta, 'Unayza, Walida, Yasira, Yasmina, Zahira, Zahra, Zaynab.
 
-### *Sample Laqabs*
+### Sample Laqabs
 
 Given their predominance in government, *laqabs* are most commonly used by men.
 
@@ -2960,7 +2960,7 @@ Given their predominance in government, *laqabs* are most commonly used by men.
 
 **Women's** *laqabs***:** Walidat Khalil (Mother of Khalil — used by the Mamluk *sultana* Shajar al-Durr (r. 1250), indicating her being mother to the son of al-Salih II Ayyub), Radiyyat al-Din (Approval of the Faith — *sultana* of Delhi (1236-40)).
 
-### *Sample Nisbas*
+### Sample Nisbas
 
 **Men's** *nisbas***:** al-Dimashqi (of Damascus), al-Makki (of Mecca), al-Maqdisi (of Jerusalem), al-Misri (of Egyt), al-Shami (of Bilad al-Sham), al-Kalbi (of the tribe of Kalb), al-Khazraji (of the tribe of Khazraj), al-Qaysi (of the tribe of Qays), al-Shaybani (of the tribe of Shayban), al-Ayyubi (of the family of Ayyub), al-Kutubi (the bookseller), al-Qalanisi (the hat-maker), al-Suyufi (the swordmaker), al-Shafi'i (follower of the Shafi'i school of law), al-Mutanabbi (claiming to be a prophet).
 
@@ -2972,7 +2972,7 @@ This appendix lists the main rulers of the Latin and Muslim states of the Levant
 
 # The Latin States
 
-### *The Kings of Jerusalem*
+### The Kings of Jerusalem
 
 Amalric II (I of Cyprus, 1198-1205)
 
@@ -2990,7 +2990,7 @@ John I (also of Cyprus, 1284)
 
 Henry I (II of Cyprus, 1285)
 
-### *The Counts (and last Countess) of Tripoli*
+### The Counts (and last Countess) of Tripoli
 
 Bohemond I (IV of Antioch, 1187)
 
@@ -3002,7 +3002,7 @@ Bohemond IV (VII of Antioch, 1275-87)
 
 Lucia (1289)
 
-### *The Princes of Antioch*
+### The Princes of Antioch
 
 Bohemond III (1163)
 
@@ -3018,7 +3018,7 @@ Bohemond VI (III of Tripoli, 1252, in name only after 1268)
 
 Bohemond VII (IV of Tripoli, in name only, 1275-87)
 
-### *The Kings of Cyprus*
+### The Kings of Cyprus
 
 Amalric I (II of Jerusalem, 1194)
 
@@ -3036,7 +3036,7 @@ Henry II (I of Jerusalem, 1285)
 
 # The Muslim States
 
-### *The 'Abbasid Caliphs*
+### The 'Abbasid Caliphs
 
 ### **In Baghdad:**
 
@@ -3058,7 +3058,7 @@ Al-Mustansir (1261)
 
 Al-Hakim I (1262)
 
-### *The Ayyubids and Mamluks of Cairo*
+### The Ayyubids and Mamluks of Cairo
 
 ### **Ayyubids:**
 
@@ -3108,7 +3108,7 @@ Al-Malik Al-Mansur Lachin (1296)
 
 Al-Malik Al-Nasir Muhammad I (1299 — second reign)
 
-### *The Ayyubids, Mongols and Mamluks of Damascus*
+### The Ayyubids, Mongols and Mamluks of Damascus
 
 **Ayyubids:**
 
@@ -3170,7 +3170,7 @@ Al-Malik Al-Mansur Lachin (1296)
 
 Al-Malik Al-Nasir Muhammad I (1299 — second reign)
 
-### *The Ayyubids, Mongols and Mamluks of Aleppo*
+### The Ayyubids, Mongols and Mamluks of Aleppo
 
 Ayyubids:
 
@@ -3214,7 +3214,7 @@ Al-Malik Al-Mansur Lachin (1296)
 
 Al-Malik Al-Nasir Muhammad I (1299 — second reign)
 
-### *The Seljuk Sultans of Asia Minor*
+### The Seljuk Sultans of Asia Minor
 
 Kay Khusraw I (1192 — first reign)
 
@@ -3412,7 +3412,7 @@ Muslims celebrate a number of holidays, including in particular those listed bel
 | 1195         | Last Grand Tribunal held.                                                                                                                                                                  | 1573         | Cyprus ceded to Ottomans.                                                                           |
 | 1197         | Crusaders retake Sidon and Beirut.                                                                                                                                                         |              |                                                                                                     |
 
-# *Glossary of Middle Eastern Terms*
+# Glossary of Middle Eastern Terms
 
 While Arabic grammar has its own rules for pluralizing nouns, it is a common convention in western writing to indicate the plurals of many Arabic words by simply adding s (e.g. *madrasas,* Sufis). That is the convention that has been used (with a couple of exceptions) throughout this book.
 
@@ -3690,7 +3690,7 @@ On the (very approximate) pronunciation guide: ah is pronounced approximately as
 - **al-Zuhara** (az-ZU-ha-ra, n.): Venus.
 - *zuhr* (ZUHR, n.): midday, a time of prayer.
 
-# *Select Bibliography*
+# Select Bibliography
 
 - *Arabian Nights*, trans. Burton, R. F. & ed. Zipes, J. New York & London: Penguin Books, 1991.
 - Bacharach, J. L., *A Middle East Studies Handbook*. Seattle & London: University of Washington Press, 1984.
@@ -3756,7 +3756,7 @@ On the (very approximate) pronunciation guide: ah is pronounced approximately as
 - Various Leading Orientalists, *The Encyclopaedia of Islam*. New Edition, 9 vols. and Supplements, Leiden: E. J. Brill, 1979-98.
 - Weber, E., *Petit Dictionnaire de Mythologie Arabe et des Croyances Musulmanes*. Paris: Editions Entente, 1996.
 
-# *Rules Reference Guide*
+# Rules Reference Guide
 
 The following guide lists the rules and saga and story seeds presented in this book, along with page numbers, to allow quick reference when required.
 
@@ -3960,122 +3960,122 @@ Covenant Statistics 112
 
 # Saga and Story Seeds
 
-### *A Muslim Hermetic Tradition?, page 10*
+### A Muslim Hermetic Tradition?, page 10
 
 The characters encounter Muslim mages who have been practicing Hermetic magic since the days of Harun al-Rashid. How will they deal with them?
 
-### *Unusual Neighbours, page 9*
+### Unusual Neighbours, page 9
 
 Who do the characters find it harder to live with - *jinn* or mundanes?
 
-### *Berber Wizards, page 10*
+### Berber Wizards, page 10
 
 A leader arises in the mountains of North Africa. He gathers the Berber tribes, including their mysterious wizards, and threatens the Levant Tribunal.
 
-### *Quest for the Lance, page 12*
+### Quest for the Lance, page 12
 
 The characters receive signs showing them the resting place of the Holy Lance, but will they be worthy of it?
 
-### *The Seedier Side of Acre, page 19*
+### The Seedier Side of Acre, page 19
 
 An item is stolen from the covenant. The characters must attempt to recover it from the worst elements of the population of Acre.
 
-### *A Cypriot Covenant? page 21*
+### A Cypriot Covenant? page 21
 
 Cyprus could be an ideal setting for a new covenant, if the magi can avoid upsetting the island's rulers.
 
-### *Illuminating Manuscripts page 22*
+### Illuminating Manuscripts page 22
 
 Who is responsible for magical illuminations on a batch of manuscripts, and what is the enchantment's function?
 
-### *In Jason's Footsteps, page 23*
+### In Jason's Footsteps, page 23
 
 The characters hear rumors of a new "Golden Fleece" in Georgia. Whatever the truth of these, they are worth investigating.
 
-### *Fact-finding Mission, page 23*
+### Fact-finding Mission, page 23
 
 The covenant of Urania is destroyed by Mongol shamans. The characters are sent by the tribunal to find out what happened.
 
-### *Under Pressure, page 25*
+### Under Pressure, page 25
 
 The characters are approached by agents of the sultan of Cairo, seeking aid against either the Crusaders or the sultan of Damascus. How will they avoid being forced to help him? In addition, what will they do if they are also approached by representatives of the other side?
 
-### *Scholarly Attention, page 27*
+### Scholarly Attention, page 27
 
 The characters attract the attention of intellectuals from Damascus. While initially flattering, this attention soon becomes annoying. How will the characters get rid of the scholars without offending the intellectual circle of the city.
 
-### *A Tempting Prize, page 28*
+### A Tempting Prize, page 28
 
 A talisman prevents the inhabitants of Aleppo from being poisoned by snakes. The characters may be tempted to steal it, but would it really be wise to do so?
 
-### *A Strike at the Heart, page 29*
+### A Strike at the Heart, page 29
 
 The characters come under pressure from Crusader magi to join an attack on the leaders of the mages serving the 'Abbasid caliph.
 
-### *Preventative Measures, page 30*
+### Preventative Measures, page 30
 
 A Criamon magus attempts to interfere in the foundation of a Sufi order. The characters are required to stop him.
 
-### *Braving the Elements, page 31*
+### Braving the Elements, page 31
 
 The characters set up a covenant in Greater Armenia. Will they be able to survive the harsh climate, and is it a natural phenomenon?
 
-### *A Hermetic Military Order? page 35*
+### A Hermetic Military Order? page 35
 
 A number of Crusader magi attempt to recruit the characters for a Hermetic military order.
 
-### *Templar Sorcerers? page 35*
+### Templar Sorcerers? page 35
 
 What mystical powers do the Templars wield, and what is their source?
 
-### *Fatimid Survivors? page 59*
+### Fatimid Survivors? page 59
 
 A survivor from the Fatimid dynasty attempts to employ the characters to help him regain his caliphal throne.
 
-### *Stolen Property, page 61*
+### Stolen Property, page 61
 
 The characters accidentally intercept a shipment of Assassins' Daggers. What will they do with them?
 
-### *Seeking Refuge, page 82*
+### Seeking Refuge, page 82
 
 A *jinni* seeks refuge from pursuers at the characters' covenant.
 
-### *Oops! page 88*
+### Oops! page 88
 
 The characters harm a *jinni* protected by Amirat al-Jabal. How will they explain themselves?
 
-### *A Rogue Element, page 89*
+### A Rogue Element, page 89
 
 Al-Qatil infiltrates the covenant's grogs, spreading discord and the seeds of rebellion.
 
-### *Missing Persons page 90*
+### Missing Persons page 90
 
 The *qadi* of a nearby village asks the characters' help to find some missing persons. However, they have fallen victim to a *naddaha*. The characters will have to be careful to avoid doing so as well!
 
-### *Recovery Mission, page 93*
+### Recovery Mission, page 93
 
 The characters must recover the relic of the True Cross from the Muslims.
 
-### *Set Me Free! page 95*
+### Set Me Free! page 95
 
 The lamp of A'la al-Din passes to the characters. Its servant asks them to set him free, and will be *very* unhelpful if they do not.
 
-### *A Shadow from the Past, page 104*
+### A Shadow from the Past, page 104
 
 The magi of Foothold attempt to have Sharaf al-Din 'Umar Renounced from the Order, and seek to enlist the characters' aid.
 
-### *The Italian Job, page 106*
+### The Italian Job, page 106
 
 Esther of Verditius seeks to employ the characters to carry a mysterious shipment of goods from her covenant to the Roman Tribunal. Will they accept?
 
-### *Sins of the Father, page 108*
+### Sins of the Father, page 108
 
 One of the character's parentes seeks his or her aid to prevent Rufus de Clary from revealing a dangerous secret.
 
-### *Rescue Mission, page 113*
+### Rescue Mission, page 113
 
 Aurora Borealis has been captured by Mongol shamans. The quaesitores send the characters to rescue her, or kill her if this proves to be impossible.
 
-### *The Archmage's Challenge, page 113*
+### The Archmage's Challenge, page 113
 
 What is the nature of Aurora of Jerbiton's archmage's challenge?

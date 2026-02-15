@@ -64,7 +64,7 @@ members of the covenant live in several separate buildings, although none of the
 
 The covenant currently has a minor problem; the magus who used to cast the Aegis of the Hearth has left, and no current members know the spell. Someone will have to, but none of the resident magi particularly want the responsibility.
 
-#### *The Wandering Regio*
+#### The Wandering Regio
 
 Level 7 of the regio is changes its appearance from time to time. It always looks very similar to the place it currently leads to, and when its appearance starts to shift, that is a signal that its connection point is about to shift. When the covenant sends expeditions out they always have someone stationed in the regio, to warn if the explorers are about to lose their easy route home. This isn't a popular job, because it is boring and doing it too often warps the guard.
 
@@ -119,7 +119,7 @@ While it is not pleasant to be standing next to one of these when it goes off, i
 CrIm 5 (Base 1, +1 Diam, +3 size, 1 use per day)
 
 
-## *Gerard*
+## Gerard
 
 by Neil Taylor
 
@@ -254,7 +254,7 @@ Despite being especially fond of fine quality ostentatious jewelry, he never wea
 
 
 
-# *Marie the Alewife*
+# Marie the Alewife
 
 By Sheila Thomas
 
@@ -504,7 +504,7 @@ He has demonstrated on numerous occasions that he is an effective fighter with b
 
 
 
-## *Marie the Perfumier*
+## Marie the Perfumier
 
 by Sheila Thomas
 
@@ -551,7 +551,7 @@ Marie's faerie inheritance goes back several generations. Her great, great grand
 She thinks herself a little better than many and was proud of her contacts with the richer and more powerful citizens of the city. Now, in the covenant, she plays up any contributions she makes to assisting the magi. She can be vivacious given a little encouragement such as a couple of mugs of wine or some dance music. She is keen on her work in fits and starts, which is usually no problem though she has been known to have to buy bread when she has not got around to making any.
 
 
-## *Isabelle the Beautiful*
+## Isabelle the Beautiful
 
 by Matt Ryan
 
@@ -602,7 +602,7 @@ She is the archetypical damsel in distress, a ubiquitous role in many legends of
 
 protective powers of God. Despite the outward appearance of any situation, she faithfully believes that everything will turn out exactly right.
 
-### *Background*
+### Background
 
 Isabelle is the youngest daughter of a landed knight, a lesser noble and vassal to the barons of Champagne, cousins to the king of France. Her father's kingdom is situated nearby the city of Troyes, whose annual fairs bring wealth and culture to the city. Isabelle enjoyed the fairs, strolling the twisting streets and crowded merchant stalls with her elder sisters. As she grew older, her natural beauty bloomed beyond compare.
 
@@ -616,14 +616,14 @@ cacophonous mount over the realm of the knight Sir Dorigen, that bold and intrep
 
 Dorigen planned an elaborate wedding, but it was not to be, and through circumstance and the whims of Lady Fortune, Isabelle was taken from him. So went the next several years of the lady's life, stolen from one ill-willed abductor by the next, until finally, through no choice of her own, she was brought to Semita Errabunda. The companions and magi had destroyed her last abductor, a lusting demon. Now, with no where else to go and resigned to the fact that she is most likely just waiting for her next abductor - Isabelle makes her home at the covenant.
 
-### *Role-Playing Isabelle*
+### Role-Playing Isabelle
 
 Isabelle is much more than she seems, and she will contribute more to the covenant than just a pretty face. She is a stoic resource of calm, especially during the most turbulent times. God has created Isabelle for a purpose, and while Isabelle doesn't know what that purpose is, she resolutely accepts her part in God's ineffable plan. It is her faith that allows her to remain unflustered.
 
 Her heavenly trust makes her more receptive to the lessons available in her past experiences. For example, she has been abducted by faeries so many times that she is well-versed in faerie lore, even though she never had a proper teacher. Her peacefulness is so inspiring that it can affect others, helping to calm them in tense situations. During times of strife Isabelle will provide a serene locus for frightened covenant folk.
 
 
-# *Jarvis, Master Huntsman*
+# Jarvis, Master Huntsman
 
 by Mark Shirley
 
@@ -678,7 +678,7 @@ In the worship of Herne, Jarvis has become a superlative huntsman. He made his n
 
 
 
-# *Jerome the Scribe*
+# Jerome the Scribe
 
 by Sheila Thomas
 
@@ -725,7 +725,7 @@ Jerome's training and skills make him a useful scribe. He is a quick and accurat
 
 
 
-## *Naimes*
+## Naimes
 
 by Neil Taylor
 
@@ -772,7 +772,7 @@ She recently arrived at the Covenant, not realising who or what they represent, 
 
 
 
-# *Brother Uberto*
+# Brother Uberto
 
 by Matt Ryan
 
@@ -826,7 +826,7 @@ The second thing Uberto found was that he liked the folks living at the covenant
 
 Uberto has remained with the covenant folk for over a year. He is still undecided about the nature of his visions, but is enjoying his conversations with the Criamon. The magi have allowed him to continue preaching. Uberto's insistence on finding heresy has slipped, but he maintains a ready eye, ever watchful for the Fiend and his demonic minions.
 
-#### *Role-Playing Uberto*
+#### Role-Playing Uberto
 
 Uberto is most at home on the road, and will rarely refuse a journey. At the same time, he has enjoyed his stay at the covenant, and likes the consistency of life it offers. While he is interested in investigating his visions, he also used them as an excuse to extend his stay. Uberto's latent magical gift hasn't materialized yet. Perhaps an especially strong vision will trigger its occurrence.
 
@@ -841,7 +841,7 @@ Uberto's superior is displeased with the lingering friar. This tension usually p
 
 
 
-# *Mansur ibn Fadl al-Baghdadi*
+# Mansur ibn Fadl al-Baghdadi
 
 by Niall Christie
 
@@ -1031,9 +1031,9 @@ Although he is a non-magus he is said to bear many enchanted devices. As well as
 Even without his magics, he is a powerful person and great hunter: he is physically strong, with keen senses, and as he devotes much of his spare time to physical pursuits, is highly skilled, most especially in the woods and forests of Mythic Europe, where he has an almost mystical attunement to the environment. As he grows, with the extended lifetime granted by a longevity potion, he will become an heroic hunter, or even an heroic warrior (were he to come into battle). With his out-going nature and taste for dangerous activities, he is likely to extend the repertoire of the bards and troubadours with his exploits, and enter the annals of Mythic Europe!
 
 
-## *Carolus*
+## Carolus
 
-### *Furax of House Tytalus*
+### Furax of House Tytalus
 
 by Mark Shirley
 
@@ -1081,7 +1081,7 @@ Incapacitated (16-20)
 
 **Encumbrance:** 0 (Burden 0)
 
-### *Spells Known:*
+### Spells Known:
 
 *Slipperiness of the Eel*\* (MuCo(An) 5/+9)
 
@@ -1113,7 +1113,7 @@ Incapacitated (16-20)
 
 
 
-### *New Spells*
+### New Spells
 
 **SLIPPERINESS OF THE EEL**
 
@@ -1141,7 +1141,7 @@ This slippery follower of Tytalus is an accomplished thief. Unbeknown to his sod
 
 Although he knows nothing of his ancestry, Carolus suspects that he may be descended from faeries (or other creatures) who revel in darkness. Sunlight is painful to him - bright sunshine will burn him after an hour's exposure, but even normal daylight is uncomfortable. All actions should be penalized by 1 to 3 points, depending on the strength of the sunlight. Additionally, he has always been incapable of creating light or fire, and his magic waxes in strength during the hours of the night. However, he has not displayed any other symptoms of faerie blood, so perhaps there is some other power at work here.
 
-### *Darius, filius Xerxes, follower of Flambeau*
+### Darius, filius Xerxes, follower of Flambeau
 
 by Niall Christie
 
@@ -1260,7 +1260,7 @@ to maintain contact with his (aging) pater, but they only see each other on rare
 
 Darius travelled to the covenant to establish a base from which he could seek out and destroy its enemies. He pursued this vocation with an enthusiasm that impressed his colleagues, and when the previous leader of the covenant recently passed into Final Twilight he accepted the position of head, seeing in this an opportunity to instill his values into the new, younger members swelling its ranks. Darius has been too busy to train an apprentice, but now he feels the need to pass on his legacy soon, as he suspects that he may have encountered his bane; he recently fought a powerful Renounced magus and his followers and was nearly killed, only "escaping" when a magical maelstrom sent him physically into Twilight. The traitor is still at large; Darius intends to kill him in the next confrontation and is even prepared to sacrifice himself to achieve this aim.
 
-# *Mari Amwithig of Merinita*
+# Mari Amwithig of Merinita
 
 by Neil Taylor
 
@@ -1304,7 +1304,7 @@ Agony of the Beast 1 (dogs), Eyes of the Cat 1 (at night), Grip of the Choking H
 
 **Encumbrance:** 0 (0)
 
-### *Spells Known:*
+### Spells Known:
 
 *Agony of the Beast* (PeAn 15/+25), Mastery 1 (Penetration)
 
@@ -1341,7 +1341,7 @@ Agony of the Beast 1 (dogs), Eyes of the Cat 1 (at night), Grip of the Choking H
 
 (\* New spell)
 
-### *New Spells:*
+### New Spells:
 
 **SLAY THE INNOCENT**
 
@@ -1399,9 +1399,9 @@ If a cast spell is blocked by the magic resistance of an opponent, she will try 
 Her vain desire to remain young, like the faeries, by the artificial means of a powerful longevity ritual, mean that she began her magical career owing a large favor to her parens, above the normal debt of any filia to parens. She has sent small gifts of raw Vis whenever she has managed; should he ask her to perform some task she knows she must obey even though it inconvenience her considerably.
 
 
-## *Moratamis*
+## Moratamis
 
-### *Follower of Cuernicus*
+### Follower of Cuernicus
 
 by Erik Dahl
 
@@ -1435,7 +1435,7 @@ by Erik Dahl
 
 **Arts:** Cr 1, In 12, Mu 1, Pe 7, Re 8; An 5, Aq 0, Au 0, Co 5, He 0, Ig 0, Im 10, Me 13, Te 0, Vi 5
 
-### *Spells Known:*
+### Spells Known:
 
 *Opening the Tome of the Animal's Mind* (InAn25/+18)
 
@@ -1482,9 +1482,9 @@ She usually performs her magic by looking people in the eye, and in fact has gro
 Moratamis is a stern judge, but she does have a soft spot for luxurious living. She enjoys good food and good wine, and does her best to ensure that the covenant has access to such amenities. She also sympathizes with women, especially young women in trouble, and may go out of her way to offer them her assistance. Otherwise, everyone who knows her is aware that she does not think highly of trickery and deceit, and will not hesitate to see those who bend the rules brought to justice.
 
 
-## *Tillitus*
+## Tillitus
 
-### *of House Bonisagus*
+### of House Bonisagus
 
 by Matt Ryan
 
@@ -1530,7 +1530,7 @@ duress), Finesse 1 (Auram), Folk Ken 2 (lower classes), French 3 (barroom cant),
 
 **Encumbrance:** 0
 
-#### *Spells Known:*
+#### Spells Known:
 
 *Panic of the Elephant's Mouse* (ReAn 15/+9)
 
@@ -1559,7 +1559,7 @@ In public with his peers he is clumsy and awkward, tongue-tied when he speaks an
 
 In Tillitus's case, you should try, try, try, try . . . you get the picture.
 
-### *Background*
+### Background
 
 Tillitus doesn't remember his mother or father, nor does he know the circumstances of his birth. He grew up with the village wise woman, the only woman in the village interested in aiding the abandoned child. During his birth he was cursed with ill luck by an unknown assailant, which so deeply affected him that it became part of his essential nature.
 
@@ -1583,7 +1583,7 @@ Tillitus's ill-luck continued throughout his apprenticeship. While he quickly le
 
 With a final parting gift and many more words of advice, Countenance hustled her protégé out the door. As a final act of kindness, she had procured a place for him among a distant Covenant. Tillitus left, with a smile on his face and a newly worn hole in his coin purse, spilling pennies in his wake. Countenance smiled, waved good-bye, and moved house once he had traveled out of sight.
 
-### *Role-playing Tillitus*
+### Role-playing Tillitus
 
 Tillitus's curse is such an integral part of his nature that he doesn't realize he is cursed. Instead he assumes that his failings are his fault and not a magical malady of any sort. While this has crushed his self-esteem, it has also driven him to surmount his own perceived shortcomings. He is not depressed, possessing a thriving spirit, but he is shy and a tat embarrassed. He has learned that alcohol will bolster his confidence, especially when spell casting, and will knock back a few drinks before especially important situations. He is
 
@@ -1596,7 +1596,7 @@ Tillitus isn't very interested in his personal background and would most likely 
 In play, the curse manifests itself as the opposite of the Minor General Virtue: Luck. Rather than giving Tillitus a penalty on die rolls that involve luck more than skill, the storyguide should play up the failings of the magus, making him roll more botch dice during spell casting is a good example. Tooling up the negative social aspects of Tillitus's Gift is another.
 
 
-### *Semita Errabunda –Virgil the Magical Cat*
+### Semita Errabunda –Virgil the Magical Cat
 
 **Magic Might:** 13 (Animal)
 

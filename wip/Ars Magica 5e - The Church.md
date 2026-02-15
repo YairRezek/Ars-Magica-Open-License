@@ -1,5 +1,5 @@
 
-# *Credits*
+# Credits
 
 **Authors:** Richard Love (Diocese), Christian Jensen Romer (Congregation, Rule, Corrupt), Sheila Thomas (Rule, Women, Franciscans), Alexander White (Templars)
 
@@ -63,7 +63,7 @@ Copyright 2012 Trident, Inc. d/b/a Atlas Games. All rights reserved. Reproductio
 DIGITAL VERSION 1.0
 
 
-# *Contents*
+# Contents
 
 | I. Introduction                      | 8  | Oppositional Elements 16          |   | Papal Legates 31             |  |
 |--------------------------------------|----|-----------------------------------|---|------------------------------|--|
@@ -173,7 +173,7 @@ DIGITAL VERSION 1.0
 
 
 
-### *VII. The Knights Templar 102*
+### VII. The Knights Templar 102
 
 | The Poor Knights 102             |
 |----------------------------------|
@@ -382,9 +382,9 @@ DIGITAL VERSION 1.0
 | Bibliography | 143 |
 
 
-## *Chapter One*
+## Chapter One
 
-# *Introduction*
+# Introduction
 
 Welcome to *The Church*. This book for **Ars Magica Fifth Edition** describes the Western Christian Church as it exists in Mythic Europe in the year 1220 AD.
 
@@ -393,13 +393,13 @@ Christianity is without doubt the most widespread religion in Mythic Europe. How
 This book is intended to help and to inspire your troupe to include the Church in your sagas. The covenant could have an ally in the nearby parish priest, or enemies amongst the cathedral canons who plot in the bishop's court. Pious covenfolk (and magi) may worship in the local parish church, or travel on pilgrimages. A nearby nunnery or monastery could be a source of spiritual and intellectual aid to the scholars of your covenant. Alternatively, a fallen monastery could be a sulfurous source of contagion, spewing corruption and despair into the lands about your covenant.
 
 
-## *The Church and the Divine*
+## The Church and the Divine
 
 *The Church* is first and foremost about the human institution that is the Western Christian Church. Of course, part of the Church's function is the organized worship of the Divine, and *Realms of Power: The Divine* contains information about the Divine. *The Church* extends the information in that book to provide more information about the organization of the Church and how it influences the day-to-day lives of the people of Mythic Europe.
 
 *Realms of Power: The Divine* and *The Church* complement each other, but your troupe does not need to have access to *Realms of Power: The Divine* to use or make sense of most of the information in this book.
 
-## *The Church and the Order of Hermes*
+## The Church and the Order of Hermes
 
 The Order of Hermes and the Church are both spread throughout all of Mythic Europe. The Order of Hermes certainly knows of the Church, and it is very likely that the Church has some inkling of the existence of the Order of Hermes. However, in this book we have left it to your troupe to decide exactly what the Church knows of the Order, and what the Church's attitude to the Order might be. Perhaps the Order of Hermes is a well-kept secret, in which case there may be little more than rumors circulating the papal curia. At the other extreme, maybe the existence of the Order is well known to the Church, with local bishops and the monastic and military orders regularly invited to send representatives to Tribunal meetings. Or maybe different segments of the Church have different ideas about what the Order of Hermes actually is.
 
@@ -410,26 +410,26 @@ Whatever is the case in your saga, thinking through the implications can (if you
 - What does the Church think about pagan magi?
 - Are the magi who keep in close contact with Church officials interfering with the mundanes?
 
-## *The Western Church*
+## The Western Church
 
 It is important to note that this book is only about the Western or Latin Church, which is centered in Rome. It is only in the eastern peripheries of Mythic Europe that the Eastern or Greek Church (centered in Constantinople and Jerusalem) has any sway. The Greek Church is similar in some ways to the Latin Church, as they both derive from the religion of the late Roman Empire, but the Greek Church is also quite different in many ways.
 
 The reader should also note that this book is not about heretical interpretations of the Church's teachings. This book describes the mainstream, dominant views of the Western Church.
 
-## *The Church in 1220 AD*
+## The Church in 1220 AD
 
 The Church is a large institution: it covers virtually all of Mythic Europe. In *The Church* we have attempted to describe what is true for the majority of Mythic Europe, and in fact (perhaps because of the central authority of Rome) many aspects of the Church are surprisingly uniform. Where there is room, we have also noted some regional differences in Church practices, but in other cases there has not been space to describe every local idiosyncrasy.
 
 The Church is also not fixed in time, and over the centuries it changes. *The Church* describes the state of the Church in the year 1220, and if your saga follows history, there are dramatic changes in the Church throughout the 13th century. For example, there are ongoing struggles concerning the powers of the pope over the bishops and secular rulers of Mythic Europe, new orders of monks are founded, and in the early years of the 14th century the papacy even leaves Rome. Although we have provided some historical pointers, how (and if) the Church changes throughout the course of your saga is up to your troupe, and may even depend upon the actions of your characters!
 
-## *The Mythic Church*
+## The Mythic Church
 
 The Church of Mythic Europe is based upon the real 13th-century Church, but they are not the same thing. This is not a history book; the Church of Mythic Europe is fictional and includes fictional, mythic elements that were not true of the real Church. No disrespect is intended to modern-day practitioners of any faith.
 
 
-## *Chapter Two*
+## Chapter Two
 
-# *The Congregation*
+# The Congregation
 
 The Church is not just the clergy, nor the buildings where they officiate. The Church is composed of the whole body of believers united in Christ, and the congregation is an essential element, and sometimes a powerful one. In England, recent decades have seen the development of churchwardens who oversee and help run the Church buildings. Similar roles are developing in Italy, France, and Germany. Congregations can also petition the local bishop to have an unpopular priest removed and for visitation, where a bishop tours the parishes questioning locals about their priest. This provides an important opportunity for the laity to speak ill of, or praise, the incumbent. In the case of serious problems with a priest, it is not uncommon for the congregation to boycott the parish church, and call on the Church authorities to remove and punish the offending clergyman.
 
@@ -441,7 +441,7 @@ Most people in Christendom accept the status of the Church, yet impiety is not u
 
 Such indiscipline is not usual though — while most districts have a village or two renowned for impiety or rowdy behavior, generally throughout Western Mythic Europe a tone of reverence and quiet attention can be found while the service is in progress, with relatively few nodding off to sleep or whispering to their neighbors. A sense of the sacred, the real presence of God (as reflected in the Dominion aura), and the fact that sermons and the ritual provide entertainment and color hold most worshipers' attention fully. (Those who went on the
 
-## *Purgatory*
+## Purgatory
 
 Human life culminates in death, and after death with the eternal fate of the soul. Various possibilities exist for that soul, including heaven and hell. But what of the possibility that a soul is not good enough for heaven, but not corrupt enough to be claimed for eternal punishment by the devil? There therefore are other options, including the limbo to which unbaptized pagans are consigned, and purgatory.
 
@@ -459,11 +459,11 @@ Almost everyone generally accepts the value of worship and the truth of the Chur
 
 So long as an individual confesses and takes part in the sacrament of communion once a year, and was baptized with water in the name of the Father, Son, and Holy Ghost, he remains a Christian and is entitled to a Christian burial, no matter how impious he was in life.
 
-### *Indulgences*
+### Indulgences
 
 Often misunderstood, indulgences are important aspects of the faith. An indulgence is not a payment for remission of sins, for that is the role of confession and absolution and is granted by God with a priest following the correct sacraments. An indulgence simply mitigates the length of a penance that has been decreed by the priest.
 
-## *Story Seed: The Obedient Congregation*
+## Story Seed: The Obedient Congregation
 
 While traveling, the characters enter a village church to attend Mass, and are surprised to find the priest less than welcoming. In fact, he appears to be positively worried upon seeing them. It soon becomes clear that the bishop is in the area conducting a visitation, and the priest is concerned that everything should go well — if the characters make inquiries, they will learn he is in danger of losing his benefice after repeated complaints about his inability to maintain discipline, and near-rioting in church. However, his congregation appears perfectly behaved, if withdrawn and rather reticent. The churchgoers follow every part of his service attentively, though they do seem to be led by a well-dressed fellow at the front, copying his every move — when he sneezes, they all sneeze. What is going on?
 
@@ -473,7 +473,7 @@ Many believe that indulgences might be purchased in life to reduce the length of
 
 
 
-## *Christian Death*
+## Christian Death
 
 The journey of the soul is always perilous, but rarely is the peril greater than as death approaches. A priest should absolve the sins of the dying with the last rites (see Chapter 3: Diocese, Sacraments), but it is also proper that the dying should meet death with the proper mix of resignation, piety, and faith in God's grace. Even when dead the peril is not over, for it is imperative that the body be buried according to the correct rites. If a soul is denied Christian burial, the spirit may rise as a
 
@@ -483,7 +483,7 @@ sisting on bread and water, and perhaps vegetables and beer, though local custom
 
 Fasting is usually a penance, though it can be undertaken as a sign of piety. A fast lasts for a season and grants a +1 noncumulative bonus to Petitioning a Saint (see *Realms of Power: the Divine*, page 87). But throughout the season in question, the character suffers from a single level of Fatigue at all times, owing to dietary restrictions.
 
-### *Example of Creating a Devout Character*
+### Example of Creating a Devout Character
 
 A shoemaker called Thomas with Piety +2 might be Devoted to two saints. He chooses Devotion: Blessed Virgin and Devotion: Saint Bartholomew. His player may not assign normal Experience Points to these Devotions, however. Instead, at character generation his player assigns two Devotion Points to the Devotions (equal to the value of the Pious trait of Thomas). So Thomas' player takes Devotion: Blessed Virgin 0 (1 point) and Saint Bartholomew 0 (1 point). Thomas also possesses a relic of Saint Edmund, and this grants him additional Devotion Points for the saint the relic belonged to in mortal life (see later).
 
@@ -493,13 +493,13 @@ Indulgences are often sold by wandering preachers called questors. The purchase 
 
 As well as purchasing the indulgence, it is then necessary to spend a season in charitable works to demonstrate sincerity, perhaps resulting in experience points in a Reputation: Piety equivalent to the seasons of indulgence purchased, and a single temporary Faith Point. (See *Realms of Power: The Divine* page 58 for details*,* but effectively a Faith Point can be treated as an additional Confidence Point).
 
-## *Vigils & Fasting*
+## Vigils & Fasting
 
 It is common practice for the devout to spend the night before an important event in prayer in a church, a practice called a vigil. A Fatigue level is lost, and will not be recovered until the character has made up a full night's sleep, but the character gains one Confidence Point that may be spent the next day on a specified virtuous task.
 
 Fasting usually involves abstinence from all rich foods and alcohol, and sub-
 
-## *Devotion*
+## Devotion
 
 Great piety is always exceptional. It goes beyond the norm of what is required by the Church, and is an active pursuit of holiness as a way of life. It is represented in the rules by the Personality Trait Pious, which can be taken by any character, but may also be represented by the Personality Flaw of that name. Many pious people choose to develop a particular reverence for a saint, or for an aspect of the life of Christ, or for some aspect of the Virgin Mary. They focus their veneration, love, and prayers through that entity, asking him or her (in the case of a saint or the Blessed Virgin) to intercede with God on the worshiper's behalf. This process is known as Devotion.
 
@@ -511,7 +511,7 @@ Trait Pious, if any. Negative scores in Pious are irrelevant here, as an impious
 
 Assign a Devotion Score of 0 to a number of saints (or the Virgin) equal to a character's positive score in the Personality Trait Pious (if any) — again treating the Minor Personality Flaw as a score of 3, and the Major Flaw as a score of 6 — and then distribute the Devotion Points among them. Further Devotions may be acquired in play, usually requiring a story or significant event related to the saint and character. Subsequent increases or decreases in the Personality Trait Pious after the game begins have no mechanical effect on Devotions, and Devotion Points are neither gained nor lost through these changes.
 
-## *The Benefits of Devotion*
+## The Benefits of Devotion
 
 The character can invoke for intercession any saint he has at least one Devotion Point in a Devotion towards, regardless of whether or not the saint is the character's patron saint or an appropriate saint to the matter at hand. Pious characters are likely to call upon more saints with greater success, because of their established relationships with those saints.
 
@@ -525,17 +525,17 @@ If the roll is successful, the saint uses one of his or her Divine powers to hel
 
 In addition to the sacraments, Christianity in Mythic Europe possesses a plethora of minor folk rituals and prayers, known as sacramentals. These range from prayers designed to cure toothache, to ritual blessings of crops and animals, to prayers designed to win the affections of a good husband, find lost items, or ensure peace and prosperity in a house. Many of the rites appear almost pagan to some eyes, but are in fact part of the normal Christian practice. These rites are versions of invoking a saint using the normal rules, and may involve anything from a procession of the whole parish on the saint's day, to a simple prayer performed by a couple on moving into their new house. Dominion Lore may often provide a clue as to an appropriate saint to invoke, and even if the saint is not a patron, the specific situation of the rite means that saint counts as appropriate to the task in hand, and the –15 penalty for invoking an unknown saint is not applied (*Realms of Power: The Divine*, page 87). Storyguides should design appropriate Powers for saints to reflect local customs and hagiography. For example, if the village church is dedicated to Saint Jerome, the congregation may know of his Power that pacifies wild beasts. If a young woman wishes to be become pregnant, and leads a white bull on a halter through the streets of Bury Saint Edmunds with the monks in solemn possession, Saint Edmund's power to *Bestow Fertility* is appropriate. Many local saints possess the power to *Bless Crops* or *Bless Livestock*, and are invoked solemnly in annual festivities.
 
-## *Relics & Devotion*
+## Relics & Devotion
 
 Possession of a relic associated with a specific saint gives a bonus of +2 to the Devotion Total per Faith Point in the relic for asking for that saint's intercession, but does so no more than once a day. Even if the character lacks a Devotion towards the saint whose relic is carried, he does not incur the –15 penalty for invoking an unfamiliar saint and does gain the bonus for the relic. Only one individual may use the bonus, and he must tend or carry the relic personally. However, a relic visited in a shrine can be employed for the bonus if the custodians agree, by intense veneration lasting a day.
 
 > **Relic Bonus: (Faith Points in relic) x 2 bonus to Devotion Total**
 
-## *The Costs of Devotion*
+## The Costs of Devotion
 
 Devotion requires the observance the saint's day each year — so Thomas the shoemaker will be busy on the Feast of the Queen of Heaven (May 1st), and August 24th (Saint Bartholomew's Day), and most likely November 20th (Saint Edmund's Day). A character failing to
 
-### *Patron Saints*
+### Patron Saints
 
 In *Realms of Power: The Divine*, it is suggested that characters can invoke a patron saint for intercession or their Powers. The patron is often the saint of the local church, the saint of the character's home region, village, or profession, or any other saint the character finds personally inspiring. Everyone, even the impious, can have a patron saint if they wish, and no Piety score is required. Devoted characters may invoke any saint they have a Devotion towards, though one of the saints they are devoted to is technically their patron saint — which is the player's choice.
 
@@ -546,7 +546,7 @@ Finally, anyone can invoke any saint whose traditional area of interest is immed
 
 celebrate the festival of his saint in some manner will lose at least three Devotion Points, and possibly more, as the troupe decides. The day is lost for the purposes of seasonal activities.
 
-### *Gaining Devotion Points*
+### Gaining Devotion Points
 
 A character can gain Devotion Points by various activities. It is possible to gain Devotion Points and Experience Points in the same season, and even for the same activity; Devotion Points must be spent on the appropriate Devotion, though, and may be used for no other purpose.
 
@@ -597,13 +597,13 @@ Pilgrimages are outlined in detail later in this chapter.
 
 A character with Visions or Premonitions who, during a story, experiences a dream or vision from a saint to whom he is devoted gains 1 Devotion Point.
 
-### *False Devotion*
+### False Devotion
 
 Devotion can be directed at any saint popularly acclaimed as such, whether or not he is officially recognized and canonized by the Church. It is quite common for people to be devoted to saints not yet recognized by the Church because the process of canonization has not begun, or because they are only popularly venerated locally. Canonization is not a requirement for someone to be in heaven and able to intercede, after all. Such saints can still work miracles by their Powers.
 
 It is unfortunately possible to be Devoted to, invoke, or just venerate someone who actually was a heretic, or aligned with a different realm — even the Infernal. However, this is not as dreadful a possibility as it first sounds. *Dulia* — proper respect granted to an entity, even a demon — is not worship, and neither is Devotion to a saint. The saint is merely asked to intercede on behalf of the character with God. So if a faerie, magical entity, or demon was mistakenly venerated, it might still choose to employ its own Powers or not, but no heresy would occur. If *latria* — that is worship reserved for God alone — was to occur, the results would be more serious. Even if offered to a saint or the Blessed Virgin, this kind of worship is a terrible sin. If worship is offered to a demon or faerie, or a magical creature, the repercussions may well be dire.
 
-## *Becoming a Saint*
+## Becoming a Saint
 
 One possibility is that a character might after death be accepted as a saint by the Church; and more importantly, be admitted to the assembly of saints by God, hence becoming a focus for Devotion. Such a character must have lived a life of exemplary piety, and died with a Personality Trait Pious of 6 or higher, with a sum of two secondary personality traits (that must both be on the list of traits associated with the Tempers) also not less than 6. The character must not have any personality traits associated with the sins, and must die absolved of sin, having been faithful to the Church and a regular participant at Mass. Those martyred for the faith are the primary candidates, as are holy virgins and those renowned for their charity and good works. Note that it is entirely possible for a person to be a true saint, capable of interceding, yet not be recognized as such yet by the earthly Church.
 
@@ -615,7 +615,7 @@ Official recognition by the Church requires an extensive process of petitioning 
 
 The decision as to whether to allow this option and the creating of a new cultus in your saga is a troupe one, and should be handled sensitively.
 
-## *Pilgrimages*
+## Pilgrimages
 
 Pilgrimages form a very important part of lay spirituality in Mythic Europe. A pilgrim sets out on a journey to a distant destination to visit a holy site or shrine. On the road he faces many ordeals and problems, and on arriving he offers praise to God and requests certain blessings in return for his onerous display of piety in making the journey. A pilgrimage may not be sullied by other business, for the pilgrimage is its own goal and reward; pilgrimage stories must be about just that — the pilgrimage.
 
@@ -629,7 +629,7 @@ Local authorities sometimes make
 
 some effort to protect pilgrim routes with patrols, and these routes have hostelries where pilgrims are common guests. Monasteries and churches often provide hospitality, as well, and pious locals may well do all they can to assist, but pilgrimage remains a dangerous venture.
 
-## *The Mechanics of a Pilgrimage Story*
+## The Mechanics of a Pilgrimage Story
 
 The character must have a clear aim in undertaking the pilgrimage. There are two types of pilgrimage, major and minor. A minor pilgrimage is a single-session story that centers on events on the road or at the destination. A major pilgrimage (usually to the Holy Land or perhaps Rome or Santiago) takes multiple stories and more than one season to complete and return, and involves some significant risk to the characters. The desired outcome of the pilgrimage often determines whether a major or minor pilgrimage is required. Grogs may elect to fully participate in pilgrimages (and can gain Major Virtues this way), or may just be along as useful servants.
 
@@ -654,7 +654,7 @@ A major pilgrimage is one that requires a Target Level of 30 and that takes mult
 
 A character may attempt to lose a Story, General, Social Status, Supernatural, or Personality Flaw by a pilgrimage if the troupe agrees it is appropriate. This could include Infernal Flaws or Infernally aligned Supernatural Abilities if the character's story is one of repentance and contrition. General and Supernatural Virtues might be gained by pilgrimage, again if the troupe feels it is appropriate, but would usually be aligned with the Divine realm. Some Virtues and Flaws, such as Privileged Upbringing and Educated, for example, are background Virtues not suitable for learning from a pilgrimage, nor does pilgrimage grant or remove Hermetic Virtues and Flaws. Common sense and troupe discretion should apply to whether the aim of a pilgrimage is suitable.
 
-## *Oppositional Elements*
+## Oppositional Elements
 
 The storyguide should design a story that includes elements each pilgrim must personally overcome to complete his pilgrimage. Failure to overcome any
 
@@ -696,7 +696,7 @@ In addition, it is important that the characters completely avoid mortal sin on 
 
 The storyguide can prepare the story in advance, but must be willing to change it to reflect choices made by the players. If a character fails an Oppositional Element it is worth mentioning this to the player, and allowing a later opportunity to remedy this by a different Oppositional Element later in the pilgrimage story. Pilgrimage stories should always be dramatic, and run a very real risk of character death or loss, but the rewards are commensurately great.
 
-## *An Example of a Pilgrimage Story*
+## An Example of a Pilgrimage Story
 
 Boniface wants to gain the Minor Virtue Unaging. The troupe decides this Virtue does not really represent anything that is likely to be bestowed by God for a pilgrimage, so after some thought Luke, Boniface's player, decides he would like the Major Flaw Lycanthrope removed. This seems acceptable, and requires a Target Level of 30 — a major pilgrimage. Kevin's character, the faithful shield grog Siderius, travels with him, and decides to make the pilgrimage in the hope of gaining the Major Virtue Guardian Angel (while Siderius is currently a grog, Kevin intends to make him a companion through this story). His Pilgrimage Target Level is also 30.
 
@@ -718,19 +718,19 @@ Even worse befalls Chrétien, though, after arriving in an Italian port. On the 
 
 While on pilgrimage, characters take every opportunity to visit shrines and see the relics and sights of the places they pass through. This is an excellent opportunity to gain Devotion Points for characters who possess Devotions; even a minor pilgrimage specifically to the saint's shrine, tomb, place of martyrdom, or similar grants 10 Devotion Points, plus 5 per additional site visited that is relevant to that saint's life, and up to 5 more for witnessing relics. So visiting the tomb of Saint James of Compostela will gain the character 10 Devotion Points in Devotion: Saint James if they possess it, and an additional 5 for viewing the relics of the saint there.
 
-## *Pilgrimage Destinations*
+## Pilgrimage Destinations
 
 There are several well-established pilgrimage routes that cross Mythic Europe, and books, guides, and pilgrim hostels make these desirable routes for travelers on a pilgrimage. There are many variations on each route, however, and some pilgrims prefer to follow a path of their own choosing. Among the well-known pilgrimage routes is the *Via Francigena*, which runs from Canterbury in England through France, across the Alps near Aosta, and down through Parma to Tuscany before reaching Rome. Also well traveled is the *Via Carolingia*, which goes from Aachen in northwest Germany, through Strasbourg, Basle, Como, Mantua, Ravenna, and Assisi to Rome.
 
 Most major pilgrimages are to the shrine of Saint James at Santiago de Compostela, to Rome, or to Jerusalem and the Holy Land.
 
-## *Taking the Cross*
+## Taking the Cross
 
 Crusades are still preached by the Church across Mythic Europe, and popular preachers still persuade many to "take the cross" and receive a free indulgence of all outstanding penance, in exchange for promising to serve the armies of the faith. While historically crusades aimed at the recovery of Jerusalem from the infidel, other crusades are currently being preached, and characters may choose to commit to any of them.
 
 In 1220, crusades preached include the Albigensian Crusade against the Cathars of Southern France (until 1229), the Fifth Crusade that set off in 1217 and is currently at Damietta in Egypt (ends in 1221), the Northern Crusade against the Estonians (ends in 1228), and the ongoing campaigns against the Muslims of Iberia. Someone committing to a crusade needs to find financial support for his travel and upkeep. He receives a single temporary Faith Point for the commitment, and may at the troupe's discretion remove any Social Status Flaw as he becomes a crusader. Bandits, outlaws, and similar often find this a useful escape from their troubles.
 
-## *Christian Mysticism*
+## Christian Mysticism
 
 There are those in Mythic Europe who dedicate their lives to the pursuit of the love of God — the mystics. Mystics do not have to be spooky introverts contemplating the dim recesses of the soul, reclusive hermits, or cloistered religious such as monks and nuns. Some mystics are ordinary laity who have achieved mystical states by dedicating themselves wholeheartedly to the quest, yet who still live within the world and are keen to share their insights with those around them.
 
@@ -764,7 +764,7 @@ The dangers of extreme contemplative mysticism manifest if the mystic loses sigh
 
 The second type of mysticism is often called **monistic mysticism**, in that central to the experience is the loss of a sense of self and a discovery of a feeling of the utter oneness of everything. Just as all creation emanates from the mind of God, so identification with the mind of God completely breaks down the apparent differences between objects and persons, as all are seen as just aspects of a greater Divine reality. This tradition can readily become *panentheistic* (that is, the belief that God permeates every aspect of Creation, from the lowliest
 
-## *Personality Traits, Sins, and Tempers*
+## Personality Traits, Sins, and Tempers
 
 Personality traits can be assigned to two categories, Sins and Tempers, to help understand a character's overall orientation. This table first appeared in *Realms of Power: The Divine*, page 40.
 
@@ -808,7 +808,7 @@ The two paths involve totally different ways of understanding, and are usually m
 
 Both forms of mysticism require the character to be aligned with the Divine realm. Any Warping experience she undergoes will take the form of Divine Ascent, but the results will be Divine Gloom (for Monistics) or Divine Form (for Contemplatives), both of which are explained in the relevant section, later.
 
-## *Contemplative Mysticism*
+## Contemplative Mysticism
 
 Pursuing contemplative-style mysticism involves an intense form of personal imaginative meditation on the life and sufferings of Christ; regular, often daily, attendance at Mass (and especially participation in the communion); and genuine personal repentance and abhorrence of sin. The aim is to lead an exemplary, Christlike life, and to mold the rough clay of the personality in imitation of him.
 
@@ -816,7 +816,7 @@ Mystics on this path seek to mirror God's love, and in the process may gain new 
 
 At the root of the contemplative path
 
-## *Divine Warping and the Contemplative Mystic*
+## Divine Warping and the Contemplative Mystic
 
 Characters engaged on the path of contemplative mysticism always experience Divine Form as their Divine Ascent Warping experience.
 
@@ -909,7 +909,7 @@ The character takes the cross and participates for at least a year in a Church -
 Having devised a Spiritual Path to the required Revelation, the character pursues the Path by completing enough Quest Components to equal or exceed the Path Total required. Success in this process grants the Revelation to the contemplative mystic.
 
 
-## *Monistic Mysticism*
+## Monistic Mysticism
 
 The monistic mystic perceives the whole of nature as suffused with the Divine, from the mystic themselves to every drop of rain, every tiny flower, every mighty mountain. This radical process of identification with the Godhead is a feature of some strands of Christian mysticism, where rather than defining and rarefying the self as in contemplative mysticism, the individual mystic seeks to lose the self in the eternal and endless reality of the Divine. Monism is at heart the sense that "all is ultimately One," and that One is God.
 
@@ -921,9 +921,9 @@ The character now suffers from a similar effect to that of the Hermetic Flaw Twi
 
 The risks of monistic mysticism are extreme, but there are benefits as well. Firstly, the character, when practicing a Holy
 
-#### *The Church*
+#### The Church
 
-## *Divine Warping and the Monistic Mystic*
+## Divine Warping and the Monistic Mystic
 
 Characters engaged on the path of monistic mysticism always experience Divine Gloom as their Divine Ascent Warping experience.
 
@@ -941,7 +941,7 @@ the loss of the character's mundane knowledge. The character must lose the same 
 - Monistic mystics are not affected by Celestial Disorientation (see *Realms of Power: The Divine*, page 14) as easily as other characters. They may add their Personality Trait Pious as an additional bonus to any Overcome Celestial Disorientation test they are required to make.
 - The character is now a beacon to all manner of beings from the supernatural world: angels, demons, elementals, and faeries. To these beings the holy character shines like a torch in the night, and draws them like bees to nectar. Their reaction to the character depends on the circumstances, the character, and the being in question's nature.
 
-## *Improving True Faith*
+## Improving True Faith
 
 Gaining or raising a score in True Faith always requires a particularly arduous search for spiritual insights. It may be a result of a major pilgrimage, or it may arise from many other situations, but the gaining of the Virtue True Faith is always the result of a story and a troupe decision that it is appropriate to the character, not just a game mechanic. It may well occur in the context of a pilgrimage or as a result of an encounter with an angel, but True Faith reflects how the character is played and dramatic changes in her life.
 
@@ -976,7 +976,7 @@ or Faerie Realm, and may subsequently substitute her Dominion Lore Ability for t
 
 • Finally, having integrated both the the Magic and Faerie Realms into her cosmological understanding, the character may choose to do the same with the Infernal, seeing the Infernal as simply an agent of the Divine that is subservient to the Divine Will.
 
-## *Life as a Hermit*
+## Life as a Hermit
 
 A hermit is someone who chooses to renounce the world, and live alone observing the liturgical hours as a monk would. Some are mystics, most are not. The tradition is in decline, and many hermits now choose to join monasteries, or are at least associated with a monastery; but hermits remain a common feature of the landscape of Mythic Europe. A hermit need not settle down in one place, for some are wanderers who travel begging for alms or doing casual work such as repairing roads and bridges, and hermits are not necessarily completely reclusive. Many hermits attend the local church, for example.
 
@@ -987,9 +987,9 @@ The most extreme hermits are the anchorites, who are sealed alone into a small c
 There is also an obvious connection between hermits and the Beguines, their male equivalents Beghards, and holy widows (see Chapter 5: Women).
 
 
-## *Chapter Three*
+## Chapter Three
 
-# *The Diocese*
+# The Diocese
 
 Mythic Europe is a patchwork of dioceses: the Ecclesiastical territories of the bishops of the Church. This chapter describes the roles of the clergy, from parish church to papal court.
 
@@ -997,13 +997,13 @@ The head of the Church is the pope — the bishop of the diocese of Rome and ben
 
 There are about 800 dioceses in Mythic Europe. In Italy there are almost 200 dioceses, many barely bigger than a parish would be in other parts of Mythic Europe. In England there are 21 dioceses, around 30 in Germany, 79 in France, and 13 in Scandinavia.
 
-## *Clergy Characters*
+## Clergy Characters
 
 Virtually every Hermetic covenant is located in a parish, which is part of a diocese. This is a fact that magi cannot avoid. Even a covenant located within a regio must have an entrance that lies within a parish. Every covenant must thus sometimes interact with the local clergy.
 
 To help decide the saga role of the local clergy, the troupe should describe some local churches using the Hooks and Boons system given later in this chapter, and create characters for a few of the priests, whether they're player characters or nonplayer characters. This process (particularly selecting each church's Hooks and Boons) should suggest stories where the covenant may interact with the Church.
 
-### *Virtues and Flaws*
+### Virtues and Flaws
 
 Some important Virtues and Flaws for clergy characters are listed below. You should only take one of the Senior Clergy, Priest, or Clerk Social Statuses for your character.
 
@@ -1112,11 +1112,11 @@ This Flaw (see **ArM5**, page 52) is appropriate for a clergyman who secretly vi
 
 The character lives according to a strict religious rule, which leaves little time for other activities. The character must spend one of his free seasons on the seasonal activity of worship (see later in this chapter). This is particularly suitable for monk and canon characters, but
 
-#### *The Church*
+#### The Church
 
 it is not compulsory. The Regular Flaw is compatible with Wealthy/Poor, but a Poor Regular character effectively has no free seasons and may be unsuitable as a player character. Magi can be Regular.
 
-### *Vows*
+### Vows
 
 The Major Story Flaw Monastic Vows (see **ArM5**, page 56) can be assigned to a character who has taken monastic or similar vows, as many members of the Church have. Of course, as this is a Major Story Flaw it may not be taken by grog characters, and it prevents other characters from having another Story Flaw. Obviously, this is an impediment to making grog characters and an interesting variety of other characters belonging to the Church. Thus, you should only take the Major Story Flaw Monastic Vows for a character if the troupe wishes to tell stories about his vows; perhaps stories about the moral dilemmas he faces, for example. If the troupe doesn't want to tell stories driven by the character's vows, then do not take the Monastic Vows Story Flaw. Take a Story Flaw that does represent the stories you wish to tell, instead.
 
@@ -1124,11 +1124,11 @@ Nonetheless, practically every Church character has taken some kind of vow. So, 
 
 Finally, it might be that your character has taken vows (and from time to time the character's vows may be an issue) but, in general, the troupe is not really interested in the effect vows have on him from either a story or personality perspective. In this case, just note that the character has taken vows, but do not assign a Virtue or Flaw to represent them.
 
-## *Faith Points*
+## Faith Points
 
 Faith Points may be spent like Confidence Points to gain a +3 bonus to a roll, and usually a character may only spend 1 Faith Point on each roll. Rare characters have the Virtue True Faith, which increases this limit and gives additional uses for Faith Points (see **ArM5** page 189, and *Realms of Power: The Divine* pages 56–60). Unless a character has True Faith, Faith Points do not automatically regenerate when spent, they must be earned.
 
-## *New Seasonal Activities*
+## New Seasonal Activities
 
 These seasonal activities may be performed by Church characters and others.
 
@@ -1147,7 +1147,7 @@ This seasonal activity is available to any Christian character. He spends the se
 Good works often involves working in the community giving alms to the poor or sick, but building a chapel or similar could count, too. Good works has a Source
 
 
-## *Recommended and Required Virtues, Flaws, and Abilities*
+## Recommended and Required Virtues, Flaws, and Abilities
 
 **The Pope, Cardinals, & Archbishops**
 
@@ -1179,11 +1179,11 @@ Recommended Minimum Ability Scores: Artes Liberales 1\*, Church Lore 3, Civil an
 
 of the bishop's office are a ring and crosier
 
-### *The Cathedral Chapter*
+### The Cathedral Chapter
 
 The cathedral chapter is a legal corporation made up of the canons of the cathedral (see Chapters of Canons, later), and it is very influential in the governance of the diocese. Characters who wish to petition the bishop will often need to negotiate with the cathedral canons — the clergy who serve the cathedral.
 
-### *Election of the Bishop*
+### Election of the Bishop
 
 The bishop is elected by a simple majority, in a secret ballot, of the cathedral canons. A new bishop must be elected within three months of his predecessor's death, and it is not possible for a canon to cast a vote by proxy. Although a canon is often elected, candidates do not need to be a member of the diocese, and the pope sometimes proposes a candidate for an important see — the office of a bishop. The candidate does not even need to be an ordained member of the clergy; he will be ordained as required upon his election.
 
@@ -1191,7 +1191,7 @@ The Third Lateran Council (1179) decreed that a candidate for bishop must be age
 
 Elections can be challenged by appealing to the pope (see Petitioning the Church, later). Apart from the candidate's poor education, birth, or reputation, other grounds for appeal include absence of some electors, people voting who were not entitled to, an election too soon or too long after the death of the previous
 
-## *Story Seed: The Magus Bishop*
+## Story Seed: The Magus Bishop
 
 A magus at the covenant, who has good relations with the cathedral canons, is elected bishop. If he accepts the office he will inevitably have to defend himself from charges of interference with the mundane. On the other hand, his canon friends may be offended if he refuses, and if he is careful he could use the bishopric to ensure smooth relations between the Order and the Church within his diocese.
 
@@ -1205,7 +1205,7 @@ Care of souls has a Source Quality of 2 for the priest, in Leadership, Area Lore
 
 Care of souls is similar to Tempering an Aura (see *Realms of Power: The Divine*, page 38) and the troupe may use those rules instead.
 
-## *The Bishop*
+## The Bishop
 
 The bishop is the elected head of the diocese, and is the chief priest, judge, and ruler of his people. The bishop's election is confirmed, and he is ordained, by either his archbishop or the pope. The symbols
 
@@ -1214,17 +1214,17 @@ bishop, or candidates who had committed simony. It may take several years for ap
 
 In the past there has been considerable conflict over the appointment of bishops by lay lords; powerful nobles (for example, the Holy Roman Emperor) may still attempt to appoint bishops. Such appointments are typically overturned by the papacy.
 
-## *In Partibus Infidelium*
+## In Partibus Infidelium
 
 If a diocese is overrun by infidel forces, a bishop is still appointed by the pope. A bishop whose diocese is in partibus infidelium has the same powers as a normal bishop, but lives outside his diocese. Which functions of the diocese are able to continue in this state obviously depends upon the attitude of the new infidel rulers.
 
 If, in your saga, a diocese is lost to some supernatural catastrophe, a pagan revival, or a Muslim or Mongol invasion, then the papacy may declare the diocese to be in partibus infidelium.
 
-### *Bishops as Feudal Lords*
+### Bishops as Feudal Lords
 
 In many German and Spanish dioceses, and a few in France and England, the bishop is also a baron. Controversy is common during the election of such bishops; the bishop is also a member of a feudal court, and he must choose sides in disputes between his lord and the pope. Jurisdiction in a bishop-baron's diocese, and its neighbors, is complex, especially as the borders of the barony and diocese may not quite coincide. A bishop-baron often has vassal knights, and just like any other feudal lord he could be embroiled in warfare, which is against canon law. Typically, a bishop-baron has the service of about 50 vassal knights, but he could have as many as 300. See *Lords of Men*, pages 30–36, for details on vassal knights.
 
-## *The Pope*
+## The Pope
 
 The pope is the head of the Church and the bishop of the diocese of Rome. He is elected by a two-thirds majority of the cardinals, who usually elect a fellow cardinal.
 
@@ -1239,7 +1239,7 @@ If your saga follows history, Honorius III dies on March 18, 1227 and is succeed
 
 Quaesitors approach a player character (ideally a senior magus with the Gentle Gift) and explain that they want him to act as proctor for the Order of Hermes in the papal curia. The character will become a Quaesitor and travel to Rome. His task is to ensure smooth relations between the Order and the Church. He can do this by intercepting inappropriate petitions from magi, presenting petitions on behalf of magi to the curia, and ensuring that no petitions that negatively impact on the Order are successfully brought by other parties. The position requires a magus so that he may resist both the Commanding Aura of Church officials and any efforts of other magi to interfere in Church processes.
 
-## *Some Papal Officials in 1220 AD*
+## Some Papal Officials in 1220 AD
 
 **Vice-chancellor:** Master Willelmus, subdeacon. He is succeeded in 1222 by the notary Master Guido.
 
@@ -1253,7 +1253,7 @@ Quaesitors approach a player character (ideally a senior magus with the Gentle G
 
 **Auditor litterarum contradictarum:** Master Otto da Tonengo, subdeacon. He is succeeded in 1225 by Master Sinibaldus Fieschi (who is elected pope Innocent IV in 1243).
 
-## *Legates Sent to the Order of Hermes*
+## Legates Sent to the Order of Hermes
 
 The Church is present everywhere in Mythic Europe, and thus the papacy is aware, in some sense, of the existence of the Order of Hermes. Precisely how accurate papacy's knowledge is, how well spread that knowledge
 
@@ -1261,7 +1261,7 @@ is, and what its attitude to the Order is, is up to your saga. In any case, it i
 
 the name Gregory IX. Ugolino (born in 1170) is a trusted ally of Honorius III, and his diplomacy as papal legate is famed.
 
-## *The Cardinals*
+## The Cardinals
 
 The cardinals are the closest advisors of the pope. They help him to perform his duties in Rome and often act as his legates elsewhere in Mythic Europe. The cardinals are appointed by the pope, and in 1220 come from all over Mythic Europe. There can be up to 53 cardinals at any one time, but the number fluctuates throughout the 13th century and sometimes there are as few as ten. Cardinals are usually considered to outrank bishops and archbishops, but during the 13th century their influence varies. There are three ranks of cardinals:
 
@@ -1271,7 +1271,7 @@ The cardinals are the closest advisors of the pope. They help him to perform his
 
 **Cardinal-deacons:** There can be up to 18 cardinal-deacons.
 
-### *The Papal Curia*
+### The Papal Curia
 
 The curia is the papal court, which has been both enlarged and streamlined under Innocent III and Honorius III. One of their innovations is to assign many of the highest official roles to young, capable sub-deacons rather than to cardinals. If your saga follows history, the curia becomes increasingly powerful throughout the 13th century.
 
@@ -1314,7 +1314,7 @@ Judicial officials help the pope to make rulings on disputed cases, appeals, and
 
 **Auditores: T**hese officials are appointed as required on a case-by-case basis from the cardinals, bishops, and the papal capellani as a temporary position. Auditores can judge any legal case or petition brought to the papacy, including those brought in person (rather than via letters). However, the pope reserves disputes over elections to himself. The precise jurisdictional
 
-#### *The Church*
+#### The Church
 
 boundaries between the penitentiarius and the auditores are unclear in the 13th century.
 
@@ -1324,7 +1324,7 @@ boundaries between the penitentiarius and the auditores are unclear in the 13th 
 
 The capellani is the college of priests, deacons, and sub-deacons who serve in Rome. It is organized much like any other cathedral chapter. The capellani perform the liturgy in the Roman churches, serve in the curia, and act as papal legates. The number of capellani varies; in 1220 there are 70.
 
-## *Papal Legates*
+## Papal Legates
 
 Papal legates are the representatives of the pope. Legates are appointed by the pope and there are several grades:
 
@@ -1334,18 +1334,18 @@ Papal legates are the representatives of the pope. Legates are appointed by the 
 
 **Legati nati:** Some archbishops carry this title. In earlier centuries, the legati nati (sometimes called vicarii apostolici) had geographical territories that encompassed several archdioceses. The legatus natus supervised his subordinate archdioceses and could consecrate archbishops. By 1220, the title of legatus natus has no real power associated with it, although some archbishops still use this historic title.
 
-## *The Archbishop*
+## The Archbishop
 
 The archbishop (or metropolitan) is a bishop who also has responsibility over up to a dozen neighboring dioceses. An archbishop's jurisdiction is called a province, and nearly every diocese is part of a province. However, there are a few dioceses that are instead directly subject to Rome. Such fila specialis dioceses include most of Scotland; Leon, Cartagena, and Burgos in Spain; Bamberg in Germany; and Pavia and Ferrara in Northern Italy. Those dioceses within the province of Rome are also directly subject to Rome.
 
 The archbishop is ordained by, and receives his symbol of office (the pallium) from the pope or a papal legate. The pope can raise any diocese to the rank of archdiocese, and usually each of the bishop's successors become an archbishop, too. The pope can also present the archbishop's pallium to a simple bishop, for noted service to the Church. In this case, the rank of archbishop does not pass onto his successor and he has no provincial jurisdiction, but he does receive the Commanding Aura supernatural power.
 
-### *Patriarch*
+### Patriarch
 
 The Latin Church has appointed patriarchs at Jerusalem, Antioch, and Constantinople, who serve either alone or in parallel with a Greek patriarch. Although it is not frequently used in the West, patriarch is a rank between archbishop and pope; many ambitious Western archbishops seek to raise themselves to the rank of patriarch. If your saga follows history,
 
 
-## *Story Seed: A Troublesome Minster*
+## Story Seed: A Troublesome Minster
 
 In parts of Mythic Europe, the system of parishes was predated by that of minsters. A minster was a superior church, which had aristocratic patronage and ruled over a constellation of subordinate churches who paid it tribute. In 1220, a few churches that were once minsters are still referred to as such, but often the minster is now technically a deanery.
 
@@ -1353,13 +1353,13 @@ Former minsters usually have a large number (up to a dozen) of dependent chapels
 
 A chapel near the covenant, where the covenfolk worship, is still trapped in this dependent relationship with a minster. The minster is attempting to reassert the payment of its tribute, and the chaplain asks the magi for assistance. Obviously, the magi will need to be careful if they get involved, as the minster is rich and influential.
 
-## *Major Covenant Boon: Archdeacon Agent*
+## Major Covenant Boon: Archdeacon Agent
 
 The local archdeacon is an agent of the covenant. He ensures that the Church does not pry too closely into the covenant's affairs, and he keeps the covenant informed on changes among the local priests.
 
 the following archdioceses are raised to primacies during the thirteenth century: Mainz, Cologne, Trier, Magdeburg, and Salzburg in Germany; Saint Andrew's in Scotland; Armagh in Ireland; Lund in Scandinavia; Gniezno in Poland; Toledo and Tarragona in Spain; and Esztergom in Hungary. However, again if your saga follows history, the efforts of these primates to create a new Western rank superior to an archbishop ultimately fails.
 
-## *The Archdeacon*
+## The Archdeacon
 
 The archdeacon, the bishop's deputy, has responsibility over a territorial subset of the diocese — the archdeaconry. He is usually appointed by the bishop, but in some dioceses he is elected by the canons of his church. Originally the archdeacon only advised the bishop, but over the centuries more and more power has accumulated to him. In 1220, he is the chief judge of canon law within the archdeaconry, and his court travels regularly among his parishes. He often retains a portion of the fines that his court imposes, and as he has the right of visitation he has a large influence over the administration of his parishes. In some dioceses, the archdeacons have greater effective power than the bishop.
 
@@ -1367,17 +1367,17 @@ The archdeacon must be ordained as a deacon. Occasionally, a priest undertakes t
 
 There is considerable regional variation in the number of archdeacons in a diocese. For example, in Canterbury there is one, in Cologne there are four, in Constance ten, in Mainz 22, in Munster 34, in Hildesheim 40. An archdeaconry may include anywhere between a few hundred and few dozen parishes.
 
-## *The Dean*
+## The Dean
 
 There are two types of deans. A rural dean is the head of a group of up to two dozen rural parishes called a deanery. The other type of dean is the head of a chapter of canons; he is the leader of the priests of a large urban church. Chapters of canons and their deans are discussed later.
 
 The rural dean's church is usually the oldest and largest in the deanery, and his office is an unusual one as the deanery is a subdivision of the archdeaconry; he is subordinate to the archdeacon, but the dean also represents the bishop directly. This means that the deans may be forced into choosing sides in the event of conflict between bishop and archdeacon. The dean convokes meetings of the deanery clergy several times a year, and he has visitation rights over his subordinate parishes. Some rural deans use the title archpriest, which dates from an earlier Church period.
 
-## *Clerics*
+## Clerics
 
 In 1220, around two percent of the population are clergy, but they are not evenly distributed. In poor rural districts there is just the curate and his parish clerk, whereas in towns there might be several parishes each with a chapter of canons. Since the 11th century, the Church in Mythic Europe has emphasized that clerics are a separate caste, but of course, not all of the clergy are as pure and pious as the Church would claim. Clerics are born
 
-### *Story Seed: The Vicar-General*
+### Story Seed: The Vicar-General
 
 A new bishop is elected in the diocese, and he is appalled at the power that his predecessors have allowed to accumulate with the archdeacon. He creates a new office, the vicar-general, and assigns to him the duty of holding a canon court that visits the rural parishes — currently the main duty of the archdeacon. The archdeacon
 
@@ -1388,7 +1388,7 @@ to common society, most are the sons of peasants, and they share all the faults 
 
 There are two main types of clerical members of the Church: those in minor orders and those in major orders. The minor orders are doorkeeper, lector, exorcist, and acolyte. The major orders are sub-deacon, deacon, priest, and bishop. A character progresses through each of these grades in order: becoming a doorkeeper, advancing to lector, and so forth. It is not expected, however, that everyone will progress through the entire sequence. In 1220 the ranks of acolyte, sub-deacon, and deacon are seen as life-long offices, and there is no sense that someone who lives to an old age as a deacon has failed because he has not become a priest.
 
-## *Ordination*
+## Ordination
 
 Each step a clergyman takes through the orders is marked by an ordination ceremony, and in a populous diocese there might be 300 ordinations per year. Usually, a person is ordained in his birth-diocese; to be ordained elsewhere he needs the permission of the bishop of his birth-diocese.
 
@@ -1396,7 +1396,7 @@ Ordination is a seasonal activity, with a Source Quality of 2 in either Civil an
 
 During the ordination season, the ordinand is examined by the bishop (or the delegated archdeacon or dean). The examination is oral and can take up to several hours; there is no requirement for clergy to be literate. Normally, the ordinand must travel for the examination, or he will have to wait until his parish receives a visitation.
 
-#### *The Church*
+#### The Church
 
 In game terms, the examination is represented by comparing the character's Examination Total against the appropriate Ease Factor for that rank:
 
@@ -1446,11 +1446,11 @@ If the character botches his ordination examination he can *only* try again if h
 
 Characters are usually ordained one grade at a time. However, sometimes an ordinand is accelerated through the grades. The main reason this happens is that a low-ranking clergyman (or even a layman) is elected bishop. However, even if a character is ordained in several grades at once, he gains only 1 Faith Point due to ordination.
 
-### *Minor Orders*
+### Minor Orders
 
 The minor orders all wear tonsures and clerical robes. They are subject to canon law and may be married, although they are expected to marry a virgin. Characters in minor orders must be male.
 
-### *Possession and Exorcism*
+### Possession and Exorcism
 
 Possession by demons is a common occurrence in Mythic Europe, and exorcists have a special responsibility to help the possessed. Rules for possession are given in *Realms of Power: The Infernal*, page 32; the demon invests a fraction of his Infernal Might Pool in the victim (the energumen) in order to control her.
 
@@ -1484,7 +1484,7 @@ The acolyte is the greatest of the minor orders, and the symbols of his office a
 
 Many acolytes serve as parish clerks, and others perform minor duties for the Church as scribes, messengers, or distributors of alms. Most Church characters encountered outside of churches are acolytes on minor missions for the diocese.
 
-## *Major Orders*
+## Major Orders
 
 Like the minor orders, the major orders all wear tonsures and clerical robes. They are also subject to canon law. The major orders are celibate.
 
@@ -1506,11 +1506,11 @@ A bishop cannot ordain a priest who has no means of financial support. This usua
 
 A priest should always wear his clerical dress, even when on journeys. The most important item of dress is his stole, which he receives at his ordination.
 
-## *Canon Law*
+## Canon Law
 
 Canon law is based on papal decrees or bulls, and it is used by the Church throughout Mythic Europe, although there are minor regional differences in how some decrees are interpreted. There are several compendiums of papal decrees, called decretals, in circulation. One common volume is Gratian's *Decretum* (Civil and Canon Law Summa; Level 5, Quality 11).
 
-### *Canon Courts*
+### Canon Courts
 
 Archdeacons travel throughout their jurisdiction (see Visitation, later in this chapter) and hold court in the parishes they visit. The bishop's court is the court of appeal, and he can choose to hear other cases, too. The final court of appeal is the papal curia. In some dioceses rural deans, and even the parish priest, also act as canon judges, but generally the archdeacons have monopolized this duty. In any case, the judge employs a notary (usually an acolyte or sub-deacon) who travels with him, keeping a record of cases and judgments.
 
@@ -1518,7 +1518,7 @@ Archdeacons travel throughout their jurisdiction (see Visitation, later in this 
 
 Clergy are not subject to secular justice, so clergymen found guilty by a secular court are passed to the bishop's court to be tried again. Most secular courts are thus observed by agents of the bishop to
 
-## *Story Seed: A Catechumen Covenant*
+## Story Seed: A Catechumen Covenant
 
 A pious *pereginator* (itinerant magus) visiting the covenant is appalled at the covenant's isolation from the Church, and he fears for the immortal souls of the unbaptized covenfolk. He helps the covenfolk petition the Church for assistance, which dispatches a pair of bright young exorcists to the covenant. The eager exorcists spend the season at the covenant performing daily exorcisms on the covenfolk, and providing verbal instruction on Christianity. At the end of the season spent as catechumens adults undergoing instruction in Christianity prior to baptism — the covenfolk will travel to the nearby parish church and be baptized. As baptism dispels supernatural effects, this may cause problems if the magi are using magic to augment or control the covenfolk.
 
@@ -1553,7 +1553,7 @@ Lay and clergy can receive **monition** — an official warning. Even serious of
 
 Many crimes are punished by a **public penance***.* Some examples include soldiers who make military use of church buildings presenting their arms to the altar; clergymen who argue in the church grounds then standing on opposite sides of the altar chanting the psalter at each other for a day; or a parishioner who stabs another in the church providing rushes to cover the church floor.
 
-## *Bishops and Blood*
+## Bishops and Blood
 
 Those bishops who are also feudal lords may have difficulty avoiding involvement in the shedding of blood. Confession lifts divine punishment for this transgression, though, and the papacy can also take action to correct or replace bishop-barons. However, the papacy will be cautious, as the bishopbaron's feudal allies may leap to his defense.
 
@@ -1563,7 +1563,7 @@ Canon courts can **imprison** characters in either a monastery or nunnery. Wealt
 
 Clergy can have their benefice **suspended**, either for short periods or permanently. Usually, suspension is only inflicted after the clergyman has been given a monition and a chance to reform.
 
-## *Canon Law Cases*
+## Canon Law Cases
 
 The following types of cases are typical of those a canon court might hear.
 
@@ -1587,7 +1587,7 @@ Prostitution, casual sex, and giving birth within the first nine months of marri
 
 The church, churchyard, and cemetery are places of sanctuary, within which it is forbidden to spill blood or brawl. Many fugitives from lay justice thus seek the safety of a church. Sanctuary is granted for up to 40 days, after which time the fugitive should surrender to the lay authorities. In
 
-## *Story Seed: The Heresy of Hermes*
+## Story Seed: The Heresy of Hermes
 
 In parts of Mythic Europe, having a tonsure and demonstrating proficiency in Latin is sufficient evidence of being a clergyman. A magus accused of murder has thus claimed Ecclesiastical protection, and then (maybe via Rego Mentem magic) been acquitted of the crime via compurgation. Unfortunately for the nearby player-covenant, the
 
@@ -1629,17 +1629,17 @@ Since 1215, slander has been a canon offense. The Church's intention is that by 
 
 Rarely, minor cases of sorcery are brought to the canon court. A typical penance involves wearing a white sheet before the congregation, although canon courts are ambivalent about whether minor sorcery (except as evidence of infernalism or paganism) is a crime. Serious cases of sorcery are prosecuted by secular courts, which can impose death as a punishment.
 
-## *The Parish*
+## The Parish
 
 The parish is the main unit of Ecclesiastic administration in Mythic Europe, and a diocese might contain between several hundred and one thousand parishes. The size of parishes can vary considerably, from a few acres enclosed by town walls to a tract of land several miles across, encompassing thousands of acres of farmland.
 
-### *Story Seed: Hermetic Sanctuary*
+### Story Seed: Hermetic Sanctuary
 
 A desperate magus seeks sanctuary during Wizard War. Does his opponent ignore the laws of the Church?
 
 The player characters could be participants in the Wizard War. Alternatively, the players might be involved after the fact when the Church sends a legate to the tribunal to protest against, fine, or excommunicate a magus who has violated Church sanctuary.
 
-### *Relics*
+### Relics
 
 Relics are the remains of saints, or objects used by the saint, and are described in detail in *Realms of Power: The Divine,* pages 43–46. The basics are summarized here:
 
@@ -1649,7 +1649,7 @@ Relics are the remains of saints, or objects used by the saint, and are describe
 - Relics radiate an aura hostile to the Infernal, which extends a number of feet equal to the relic's Might Score. Creatures with an Infernal Might may only enter the aura of hostility if their Might Score exceeds that of the relic, and even then, they suffer damage equal to the relic's Might Score each round (although this may be Soaked).
 - Some relics have other supernatural powers related to the saint's life.
 
-## *The Parish Church*
+## The Parish Church
 
 Parish life is centered around the parish church, where the rector (a priest) recites the liturgy and conducts Masses and burials. The rites of the parish protect the parishioners from supernatural peril, and the priest provides a conduit to the Divine.
 
@@ -1663,7 +1663,7 @@ Most churches contain towers, from which the church bells are rung. A few church
 
 Many churches have a raised platform
 
-## *Church Auras*
+## Church Auras
 
 Divine auras radiate from the church altar for as far as the church bells can be heard, or to the edge of the parish boundary, whichever is closer. A small parish might be entirely covered by a Divine aura. The strength of the aura depends upon the distance from the altar and the size of the church:
 
@@ -1677,11 +1677,11 @@ Divine auras radiate from the church altar for as far as the church bells can be
 | Fields of a rural parish | 1          |
 |                          |            |
 
-## *Spells in Church*
+## Spells in Church
 
 A typical rural church has a floor area of about 500 square feet, but urban churches can be much larger. For Hermetic magic, the nave and each floor of the tower count as separate Rooms. Aisles and the transepts are a part of the nave. If it is petitioned off, the chancel is a separate Room, otherwise it is also part of the nave. The entire church may be targeted as a Structure, and unless the church is unusually large no size modifier is required.
 
-## *Story Seed: The Reconstructed Temple*
+## Story Seed: The Reconstructed Temple
 
 Some churches are constructed from stone salvaged from Roman buildings. A magus receives a vision that indicates how a temple of Mercury was thus broken down and rebuilt as the local cathedral. The vision is specific enough for the magus to rebuild the temple, which his vision seems to indicate will form a gateway to a regio or possibly the Magic Realm itself. Can the magus find a way to reclaim the temple from the cathedral?
 
@@ -1691,11 +1691,11 @@ The parish church is often constructed of stone, and may be the only strongly bu
 
 There is a considerable regional variation in churches. Multiple domes and cupolas are common in Italy and southern France, whereas spires are more common in Germany, northern France, and England. Older churches that date to the Roman Empire are usually built in the basilica style (a long, columned east-west hall) with the altar in a semi-circular apse at the east end.
 
-## *The Parish Priest*
+## The Parish Priest
 
 The parish priest is the representative of the Church. He is usually locally born, or at least from within the diocese. For a priest from further afield, finding a common lan-
 
-## *Hermetic Magic and the Sacraments*
+## Hermetic Magic and the Sacraments
 
 Magi can observe the supernatural effects of the Sacraments, and it is common knowledge within the Order that the Sacraments are supernatural Divine powers. For example, a baptismal name cannot be used as a Sympathetic Connection to aid Penetration (unlike a birth name), Mass does indeed change simple bread and wine into something Divine, and bodies that have received Extreme Unction cannot be affected by
 
@@ -1733,7 +1733,7 @@ The priest conducts the Mass and the other Sacraments. There are seven Sacrament
 
 The parish priest is assisted by a clerk (often an acolyte, sometimes a sub-deacon). The clerk helps with the liturgy,
 
-## *Story Seed: The Lost Priest*
+## Story Seed: The Lost Priest
 
 A priest exorcises the demons from an abandoned village in his parish, after which he returns to his church and appears well. Unfortunately, in the weeks that follow the priest goes mad, until finally he locks himself in the church tower, braying like a donkey. In fact, a fragment of the priest's mind is trapped in an Infernal regio in the abandoned
 
@@ -1758,7 +1758,7 @@ Large parishes often contain subordinate churches called chapels. The priest app
 When the bishop learns that a parish priest is ill, senile, or mad he appoints a co-adjudicator to perform the priest's responsibilities. Sometimes (especially in temporary appointments) the co-adjudicator is the priest of a neighboring parish, who must scurry between the two parishes. The incumbent priest may either recognize his incapacity and willingly accept his replacement, or he may fight the presence of a co-adjudicator. Sometimes the co-adjudicator takes advantage of his temporary control of the parish coffers and resources.
 
 
-## *The Perambulation*
+## The Perambulation
 
 On Rogation Day (April 25th) the priest and parishioners walk the boundary of the parish. This rowdy procession, called the perambulation, can take many hours (or even a few days in a large rural parish), and there are frequent stops at charitable households along the way for food and drink. The perambulation is an opportunity for the parishioners to note how well crops are growing, for the clerk to assess the tithe, and for wayward parish boundary markers to be replaced. The yearly perambulation creates a path around the perimeter of the parish, which can become obscured if the perambulation is not walked (as occasionally happens). This leads to confusion when the perambulation is resumed in later years.
 
@@ -1766,7 +1766,7 @@ As neighboring parishes walk the perambulation on the same day, two groups of wa
 
 The perambulation is sometimes walked in urban parishes too, but it is less common.
 
-## *The Benefice*
+## The Benefice
 
 The benefice is the income associated with a parish church. This is usually as-
 
@@ -1774,7 +1774,7 @@ The benefice is the income associated with a parish church. This is usually as-
 
 The covenant is an institutional holder of several parish benefices. The covenant collects the benefice incomes (a Typical Source of income) and is responsible for assigning curates to perform Mass. The parishes need not necessarily be geographically close to the covenant, and could even be in a different diocese. On the other hand, if the covenant is built within one of its parishes, then the congregation may be mostly covenfolk. This Boon may be taken multiple times.
 
-## *Story Seed: The Overgrown Glebe*
+## Story Seed: The Overgrown Glebe
 
 In rural parishes part of the benefice is a plot of land, sometimes called a glebe. This is usually a plot of about 5 to 10 acres that the priest and his staff personally farm. This is much the same size as the land a freehold peasant would farm. In wealthier parishes the glebe could be hundreds of acres, and the priest can collect a substantial income from renting it out.
 
@@ -1795,7 +1795,7 @@ A priest with a benefice who is resident at a covenant, or spends a lot of time 
 
 Two priests can exchange benefices, the usual reason being a falling out between the priest and his parishioners. The exchange requires the permission of the bishop and if the benefices are in different dioceses both bishops must agree. In some parts of Mythic Europe, the bishop's clerks act as brokers for these
 
-## *Spells to Affect a Parish*
+## Spells to Affect a Parish
 
 If the parish is clearly defined by natural or man-made boundaries, then the entire parish may be affected using spells that have the Boundary target. This is rare, but if so, then participating in the yearly perambulation is an opportunity for a magus to cast such spells. A rural parish of typical size requires a spell with a Boundary target, with a +4 Size Modifier. A typical urban parish requires a Boundary target with a +1 Size Modifier.
 
@@ -1829,9 +1829,9 @@ Hermetic covenants are not exempt from the tithe, and are occasionally visited b
 
 A character can petition the pope for a benefice, who may order a bishop to grant one. These requests are difficult for the bishop to refuse, and in 1220 a number of benefices scattered throughout Mythic Europe are effectively controlled by the pope. If your saga follows history, then this trend develops rapidly throughout the 13th century: in 1050 Pope Leo IX controlled no benefices outside the province of Rome, whereas by the end of the 13th century the pope directly controlled over 100,000 benefices (the majority in Europe). This increase in papal power is opposed by other bishops.
 
-#### *The Church*
+#### The Church
 
-## *Rural Parishes*
+## Rural Parishes
 
 A typical rural parish has a congregation of a few hundred peasants, and covers several thousand acres of countryside (an area a few miles across). The parish lands are often coincident with a manor and might encompass several villages. If a parish includes the lands of several small manors, the parish church is usually constructed near the border between the manorial lands. A few enormous parishes cover up to 100,000 acres of land.
 
@@ -1845,11 +1845,11 @@ As a rough rule, the Church accepts that no peasant should need to travel more t
 
 Nobles usually worship at private chapels, and virtually every castle has a chapel, as do many manor houses, guild halls, and similar places. Private chapels are not open to the public, and the license granted by the bishop often explicitly limits their use to the members of the family or community that established them. The license is sometimes limited to a particular period of time, too (a few years). Occasionally,
 
-## *Story Seed: A Concerned Priest*
+## Story Seed: A Concerned Priest
 
 Many of the covenfolk travel to a nearby village to attend church. The parish priest is concerned at the long journey that the covenfolk must make, and suggests that they apply to the bishop for permission to build a chapel nearer to the covenant (see Petitioning the Church, later).
 
-## *Covenant Boon: Covenant Chapel*
+## Covenant Boon: Covenant Chapel
 
 A private chapel is built within (or very near) the covenant for the covenfolk and magi to worship at. It may be a room in a tower, or a separate building. The chapel has a Divine aura of 3, which will overwhelm auras of 3 or less aligned to other realms. However, unless the chapel has bells, the aura in
 
@@ -1864,7 +1864,7 @@ Private chapels sometimes lack a nave, because in theory there is no congregatio
 
 The owner of a private chapel is expected to pay the salary of the chaplain and for the upkeep of the chapel itself. However, influential nobles can arrange for a priest with a benefice elsewhere to be granted a leave of absence to perform the service in their chapel instead.
 
-## *Urban Parishes*
+## Urban Parishes
 
 Within town there is roughly one parish church for every 300 to 400 inhabitants. Most towns thus have somewhere between one and six parishes, and very large cities (like London, Paris, Florence, etc) have more than 100 parishes. Unlike rural parishes, the jurisdictions of urban parishes are usually very precisely defined: they follow street or property boundaries, which are sometimes marked to indicate the parish borders.
 
@@ -1896,7 +1896,7 @@ Chapters usually range in size from six to a few dozen canons. Chapter offices i
 
 The provost, dean, and hebdomadarius must be ordained priests. The other canons (even the office holders) need not be ordained as priests — some are only acolytes in minor orders.
 
-## *Visitations*
+## Visitations
 
 One of the duties of the bishop (which is frequently deputized to his archdeacons and deans) is to visit each of the parishes within his diocese, once a year. Monasteries and nunneries must also be visited, and an archbishop has visitation rights in any of the parishes of his subordinate dioceses. In addition, the Fourth Lateran Council (1215) ruled that any parish with known heretics should be visited at least twice a year. Most bishops also consider the (known) presence of a Hermetic covenant to be a good reason for more-frequent parish visitation.
 
@@ -1914,25 +1914,25 @@ on the size of the traveling retinue of the senior clergy:
 
 Most bishops, archdeacons, and rural deans spend at least one season a year in visitation. This can be one of his non-free seasons (as visitation is one of his duties). A season spent on visitation is worth 2 exposure experience points in Church Lore, Civil and Canon Law, Area Lore, or Ride for the visitor and his retinue.
 
-## *Visitatio ad Limina*
+## Visitatio ad Limina
 
 Bishops are also required by canon law to report, in person, to the pope every four years on the state of their diocese. Many bishops are reluctant to fulfill this obligation (the journey can be long, dangerous, difficult, and uncomfortable), and need frequent reminders of their duty. It is allowable for the bishop to send an archdeacon in his stead.
 
-## *Synods*
+## Synods
 
 Synods are meetings of the clergy. The dean, archdeacon, bishop, and archbishop all regularly convoke synods to discuss the spiritual and material needs of their respective jurisdictions, and the meetings are usually hosted by their church. Most parish priests attend at least one synod a year, and maybe as many as one a season. Noble and monastic representatives are often invited to synods, and known Hermetic covenants might be invited to send representatives too. The synod itself takes a couple of days and, unless a character needs to travel an extraordinarily long distance, attending a synod does not disrupt his seasonal activities. Occasional absences from regional synods are willingly tolerated, but many absences will be seen as possible evidence of heretical beliefs.
 
-#### *The Church*
+#### The Church
 
 
-## *Ecumenical Councils*
+## Ecumenical Councils
 
 Ecumenical councils are special synods called and presided over by the pope. The last Ecumenical council was called in 1213 by Pope Innocent III and began in November 1215. The council was held in Rome and was attended by more than 400 bishops, the heads of the military orders, and over 800 abbots and deans of chapters. Envoys were sent by most of the major nobles of Mythic Europe and several attended in person, but there was little participation by the Greek Church. A number of magi also attended the council in the retinue of either lay or clerical dignitaries. As far as the Order of Hermes is aware, these magi only witnessed proceedings; none are known to have interfered in the council using magic. The council process took about two weeks, and its main purposes were to make ready for a new crusade, to issue new Church doctrines, and to consolidate the pope's reforms of the Church and canon law.
 
 There have been twelve Ecumenical councils: Nicaea I (325), Constantinople I (381), Ephesus (431), Chalcedon (451), Constantinople II (553), Constantinople III (680-681), Nicaea II (787), Constantinople IV (869), Lateran I (1123), Lateran II (1139), Lateran III (1179), and Lateran IV (1215). If your saga follows history, the next Ecumenical council is held in 1245 in Lyons. It is convened to excommunicate and depose the Emperor Frederick II, and to call a new crusade against the Saracens and Mongols. Another council is held in Lyons in 1274; it effects a (temporary) reunion with the Greek Church and refines the rules for papal elections.
 
 
-## *Petitioning the Church*
+## Petitioning the Church
 
 In Mythic Europe, the Church has a lot of resources that your characters may want to use. Perhaps they want to borrow money or land, exhume a body, move a church, build a new church, excommunicate an enemy, appoint an ally to the bishopric, have a departed friend made a saint, or have a crusade declared against their enemies. As the Church is a bureaucracy, it can be mobilized to do all of these things and more. However, *because* the Church is a bureaucracy, it also takes time and effort to access its resources. Of course, the higher a character is in the Church hierarchy the more independent authority he has, but even a bishop must sometimes seek the permission or help of the papacy.
 
@@ -1940,7 +1940,7 @@ The following rules can help the troupe decide whether a character can convince 
 
 Petitions can form the basis of rewarding stories, but sometimes your troupe will just be interested in whether or not a petition to the Church is successful, and not want to spend a long time on roleplaying events peripheral to the main story. These rules are intended to help in such circumstances. On the other hand, if you choose to tell stories about dealing with the Church, then these rules can be used as a guide to the sorts of resources that a character needs to get certain things done.
 
-## *The Petition Total*
+## The Petition Total
 
 The basic mechanic is to generate a Petition Total that is compared to an Ease Factor. If the Petition Total equals or exceeds the Ease Factor, then the request is granted by the appropriate officers of the Church.
 
@@ -1948,7 +1948,7 @@ The basic mechanic is to generate a Petition Total that is compared to an Ease F
 
 The following are example Ease Factors for petitions. The list is not exhaustive, it is merely a guide.
 
-## *Modifiers to the Petition Total*
+## Modifiers to the Petition Total
 
 The following modifiers apply to both a written and audience petition.
 
@@ -2026,7 +2026,7 @@ Support: The character has a negative reputation with the Church
 
 **Petition:** Change or reform canon law (priests can marry, for example); interdict an entire kingdom.
 
-## *Henri of Toulouse's Petition*
+## Henri of Toulouse's Petition
 
 One night Henri of Toulouse has a vision in which he builds, stone by stone, a monastery on a hill overlooking a gently winding river. Some weeks later, while traveling between two towns, Henri finds the exact location. To found the monastery he directs his scribe to write a petition to the papal curia. In order to make a convincing case, Henri needs a Petition Total of 18 or greater:
 
@@ -2040,7 +2040,7 @@ One night Henri of Toulouse has a vision in which he builds, stone by stone, a m
 
 This gives the petition a Petition Total of 19, which is a convincing case. For the troupe, Henri's attempts to gain all this support are opportunities to tell stories.
 
-## *The Petition of the Parish of Long Melford*
+## The Petition of the Parish of Long Melford
 
 In 1220 the parishioners of Long Melford have a late harvest, and it is obvious that faithfully observing all the scheduled religious festivals will cause the parishioners to starve over the winter. Thus, their priest writes a petition to the bishop for permission to move the saints' feast days until the winter. This requires a Petition total of 9, which is met by:
 
@@ -2073,7 +2073,7 @@ Your character does not need to be literate to write letters to the Church; he m
 
 An audience petition is a social interaction so penalties for The Gift apply to this total, but they do not apply to a written petition. Of course, if a magus meets Church officials directly he could take the opportunity to cast spells to encourage officials to make the correct decision.
 
-## *Acting Without Authority*
+## Acting Without Authority
 
 A bishop (or equivalently ranked character) may grant any petition or take any action with an Ease Factor of up to 15 without consulting his peers or superiors.
 
@@ -2085,7 +2085,7 @@ A character may also take actions that
 
 he does not have authority for. Whether this causes a problem or not depends on whether the character's superiors find out, the personalities of the characters involved, and the particular circumstances.
 
-### *Appealing a Petition*
+### Appealing a Petition
 
 Your characters may appeal another character's successful petition. An appeal is treated like any other petition: a Petition Total is generated, and the Ease Factor to overturn the original petition is 3 + the Petition Total of the original successful petition.
 
@@ -2097,7 +2097,7 @@ If the appeal's Petition Total is insufficient to overturn the original petition
 
 If an appeal is not made in the same season as the original petition, then the appeal has a –3 penalty to its Petition Total. Politically active characters keep a close watch on the Ecclesiastical courts in order to rapidly appeal unfavorable decisions.
 
-## *Creating Game Statistics for a Church*
+## Creating Game Statistics for a Church
 
 These rules allow the troupe to describe a church using Build Points, Hooks, and Boons in the same way that a covenant can be described using these terms (see **ArM5**, page 68-74). Describing the churches near the covenant helps indicate how the Church may have an impact on your saga.
 
@@ -2122,7 +2122,7 @@ You may usually choose up to 10 points of Hooks for the church.
 
 **Chapel:** A chapel has a base Divine Aura of 3, and 50 build points.
 
-## *Resources*
+## Resources
 
 Churches may have these resources:
 
@@ -2132,7 +2132,7 @@ Every church has a copy of the missal and many churches have substantial librari
 
 
 
-## *Some Common Christian Books*
+## Some Common Christian Books
 
 *The Bible*: Summa, Theology (Level 10, Quality 3); Summa, Church Lore (Level 3, Quality 3). See *Realms of Power: the Divine*, page 86. (45 build points)
 
@@ -2208,7 +2208,7 @@ The church priests form a chapter of canons, and there are always at least half 
 
 The church (usually a cathedral) has a school attached. There are many characters in minor orders attached to the church as either pupils or teachers.
 
-## *Example Churches*
+## Example Churches
 
 #### **Urban Parish**
 
@@ -2263,9 +2263,9 @@ The church curate is incompetent. If discovered, the curate may be removed and t
 By custom, anyone may seek sanctuary within a vast area of land several miles around the church (this may be the entire parish). This means that the priest is often in conflict with the sheriff.
 
 
-## *Chapter Four*
+## Chapter Four
 
-# *The Rule & Religious Life*
+# The Rule & Religious Life
 
 This chapter discusses the life of the religious of western Mythic Europe. In the east the religious of the Orthodox faith follow different traditions, but even there monasteries of the Western orders can be found.
 
@@ -2276,7 +2276,7 @@ Religious houses play an important role in the world outside their walls, provid
 
 The majority of monks in western Mythic Europe follow the Rule of Saint Benedict. The assumption is that in your saga the Benedictine order is neither corrupt, nor necessarily filled with holy monks. Instead, like any institution, it is a mix of good and bad, saints and sinners. Depending upon the way you want to portray the Church in your stories, you may wish to alter this to suit your individual saga's themes. As most of the religious orders follow variants of the Rule of Saint Benedict, this "standard" is set out in some detail.
 
-## *Becoming a Monk or Nun*
+## Becoming a Monk or Nun
 
 Those who wish to join a monastery or nunnery are actively discouraged and treated harshly for four or five days upon their arrival, to ensure they are truly committed to the vocation. If they persist they are admitted, and become novices. Their clothes are kept, however, and put in storage, in case they should be expelled before taking vows.
 
@@ -2294,7 +2294,7 @@ The three chief vows that are sworn as solemn oaths are for chastity, poverty, a
 
 The vow of obedience entails observ-
 
-## *A Note on Terms*
+## A Note on Terms
 
 The term "religious" is the technical term for monks and nuns. "Houses" in the religious sense are simply monasteries or nunneries. In the 13th century, the word "convent" applies to the body of monks (or nuns) who comprise the monastery (or nunnery), and the place where nuns live is always a nunnery. Other terms can cause confusion; for example, a "monastery" can be an abbey ruled by an abbot, or a priory ruled by a prior, but the monks live and pray the same way.
 
@@ -2302,13 +2302,13 @@ ing the Rule of Saint Benedict (or other applicable rule) and the will of the ab
 
 The vow of humility or poverty is a central part of the life of the religious,
 
-## *Story Seed: The Novice's Nuptials*
+## Story Seed: The Novice's Nuptials
 
 The son of a friend of the covenant, after being disappointed in love, has run away and joined a monastery. The misunderstanding has subsequently been cleared up, his lover now wishes to marry him, and his father is desperate to get news to him. The abbot, who believes the boy has a true vocation, is blocking messages and letters. Can the characters find a way to communicate to the lad, or perhaps get his clothes to act as an Arcane Connection? What if he does not wish to leave the monastery?
 
 and if one should err he must demonstrate penitence by laying flat on the floor before all the convent, arms spread out in a cross, and confessing his sin. Poverty means renouncing any hope of inheritance, and handing over all one's worldly goods to the house. Everything the religious use,
 
-## *The Opus Dei, Divine Office*
+## The Opus Dei, Divine Office
 
 The recitation of the Divine Office — daily prayers recited at the canonical hours, also called the Liturgy of the Hours — is as follows.
 
@@ -2349,7 +2349,7 @@ The vow of chastity entails celibacy, no relationships with the opposite sex, an
 
 The monk, on taking vows, has his head shaved leaving a ring of hair called a tonsure. A nun has her hair cut short.
 
-## *The Rule of Saint Benedict*
+## The Rule of Saint Benedict
 
 Monks live under a rule, which lays down a complex set of regulations for community life. The most famous and most widespread rule in Mythic Europe is that of Saint Benedict. The rule also sets out in some detail the day-to-day cycle of life in the monastery, for monks and nuns live by a timetable and are deeply aware of the passage of time.
 
@@ -2382,7 +2382,7 @@ Nuns often argue, under the influence of the devil. Quarrels must be ended as so
 
 Numerous examples of story ideas based on disciplinary problems are presented in Chapter 5: The Women, Misbehavior, many of which are applicable to male characters, also.
 
-### *The Church*
+### The Church
 
 #### **Property and Possessions**
 
@@ -2394,15 +2394,15 @@ Any wealth owned by someone entering the religious life should be humbly offered
 
 No nun should have a personal servant, but may be helped as necessary by younger members of the community.
 
-## *Food and Drink*
+## Food and Drink
 
 Two different types of meal are prepared, in case one meal is not liked by some of the monks, so they may choose. A
 
-## *Sign Language (Monastery)*
+## Sign Language (Monastery)
 
 Sign Language is a number of related languages used by monks to communicate with each other when speech is forbidden. A score of 5 allows fluency equivalent to a native spoken language Ability, while a score of 1 represents simple everyday monastic terms only. While it is usually clear that sign language is being used, characters may choose to use it subtly so that it is not obvious that they are speaking about someone present. A score is in the language employed in a specific monastery (or nunnery). It defaults to an Ability in the language of other monasteries of the same order at –3, except in the case of daughter houses and the parent house, where the relationship is –1, and those sharing a parent house (–2). Other orders give a penalty of –4, as the language has diverged considerably. So, for example, a Cistercian and a Cluniac monk are only likely to be able to share very basic information. Within a particular house, however, the language adapts to local needs, and it can have a surprisingly rich vocabulary for normal situations. The unexpected and unique may prove impossible to convey even if totally fluent — there is probably no sign language for "Are the guests casting spells in the Chapterhouse?" for example.
 
-## *Story Seed: Signs in Silence*
+## Story Seed: Signs in Silence
 
 The characters are staying at a monastery where they believe an Infernalist cult may be operating. Unfortunately, the abbot is suspicious of them because of The Gift, and has imposed strict silence upon the monks. (Monks may only speak to guests with the Abbot's express permission, anyway.) The investigation has
 
@@ -2442,7 +2442,7 @@ Monks are often called by duties to go on a journey, or they may be working too 
 
 If a long journey is undertaken, the other monks should pray for their absent brother daily, and on his return the traveler must go to the chapel, prostrate himself, and give account of his sins. He may not speak of anything he saw or heard outside of the monastery to other monks, though one assumes he reports fully to the abbot.
 
-### *Monastic Roles and Positions*
+### Monastic Roles and Positions
 
 The monastery is a complex and completely self-supporting community, at least in theory. However, by the 13th century the Benedictine houses often rule large estates gained through donations, and some abbots are also lords of manors and even have knights owning them feudal dues and military service. It is by this time common for monasteries to possess servants, and also considerable numbers of peasants who work the fields for them, giving them more time to work on copying books, prayer, and good works at best, and to spend in moral laxity and luxury at worst.
 
@@ -2487,7 +2487,7 @@ Players should pick from the same range of Abilities for an abbot or abbess. The
 
 The terrar is the monastery's land agent, responsible for estates and lands. Nunneries are rarely rich enough to require one. If no suitably skilled monk is available, a professional layperson is employed in this capacity. It is a demanding job, ensuring
 
-## *The Problem with Priors*
+## The Problem with Priors
 
 "It often happens that grave scandals arise in monasteries out of the appointment of the prior; since there are some who, puffed up with the wicked spirit of pride and thinking themselves to be second abbots, set up a despotic rule, foster scandals, and excite quarrels in the community …"
 
@@ -2505,7 +2505,7 @@ The rule states that humility and obedience to the abbot are the desired traits 
 
 This character will benefit from Abilities such as Bargain, Folk Ken, and Profession: Cellaress. A cellaress character with Premonitions (unexpected visitors) could be entertaining.
 
-## *Story Seed: Good and Faithful Servant?*
+## Story Seed: Good and Faithful Servant?
 
 A friend of the covenant is employed as terrar at a large Benedictine monastery nearby. He is honest, friendly, and curiously naive and gullible, but he seems to do an excellent job. One day he is seized by men acting on command of the abbot, when it becomes clear there
 
@@ -2559,7 +2559,7 @@ The chancellor is the librarian, and also oversees the scriptorium and acquires 
 
 Two types of chronicle found in monastery libraries are of particular interest to magi. Miracula contain ghost stories of those returning from purgatory to warn others, and miracles of the saints, especially the local saints celebrated in that house. They are read by the devout to foster Devotion (see Chapter 2: Congregation, Devotion), but are also useful for
 
-## *Some Religious Orders*
+## Some Religious Orders
 
 Traditionally, all monastic foundations, whether for men or women, followed the Rule of Saint Benedict or that of Saint Augustine. During the 12th century, the number of religious foundations grew dramatically. While many took the conventional line, several alternatives to the traditional rules became available. The Cistercians did not officially acknowledge nunneries in their order until 1213 (and if your saga follows history, will try to stop any more women joining them in 1228). Some communities of religious women ran without adherence to any of the officially recognized rules but, at the Fourth Lateran Council in 1215, the pope obliged all such institutions to formally adopt one of the existing, approved rules. The Augustinian Rule was fashionable at the time, so was taken up by some. A few communities are as yet undecided.
 
@@ -2592,7 +2592,7 @@ research into past events. Another type of book, the mirabilia, contains stories
 
 Many abbots are ordained as priests, on election if not before, but not all. In monasteries where there is no ordained priest, a clergyman must be retained to celebrate Mass. In many Benedictine monasteries one brother is ordained and performs this role, but receives no special privileges. A nunnery also has a priest who celebrates Mass and takes confession; he is one of the few men who can enter the guarded confines of the women's world.
 
-## *The Religious in Your Saga*
+## The Religious in Your Saga
 
 An obvious question is why would anyone want to play a religious in a saga, and how do they feature in stories, given that they live in enclosed communities, and have retreated from the world?
 
@@ -2607,9 +2607,9 @@ A small monastery might have four to six monks, a large one over a hundred, but 
 Even if the magi have no direct connection with a monastery town, or with land owned by a monastery, and their local church is not appropriated to a monastery, they will still probably stay at a number of Religious Houses. When moving around the countryside, where inns and accommodation can be sparse, it is customary to seek shelter and hospitality at a local monastery, and offer a small donation in the morning for the night's accommodation. Any characters who set out on a journey are likely to spend a considerable amount of time in monasteries, and will find the porters and hostillars an excellent source of local news and geographical information gleaned from other travelers.
 
 
-## *Chapter Five*
+## Chapter Five
 
-# *The Women*
+# The Women
 
 When it comes to the roles of female characters in a saga, troupes have total freedom to decide for themselves how closely they want to abide by the conventions of medieval society. Historically, options for women in the Church in 1220 are restricted, of course; troupes playing in the canon version of Mythic Europe, or wanting even closer similarities with real history, are limited to the characters described in this chapter. However, **Ars Magica Fifth Edition**, pages 220–222, sets out a range of saga types with different degrees of historical research. If you want nuns with an active social life outside the nunnery, or women priests, then go ahead.
 
@@ -2617,7 +2617,7 @@ The troupe must also decide how strictly the characters enforce the detailed rul
 
 Remember that player characters are unusual, often exceptional, people; strong and influential female religious characters are entirely appropriate in this context. See the details on Hildegard of Bingen later in this chapter for an example of such a character.
 
-## *Female Religious in the Covenant*
+## Female Religious in the Covenant
 
 A player character may live in a covenant as a female religious if she is a beguine or penitent. She may also do so as an anchoress if there is a church at the covenant suitable for her cell. In most dioceses, permission from the bishop is necessary in both these cases; a Petition Ease Factor of 9 is appropriate. If a player character nun wants to live at a covenant, or indeed, anywhere outside a nunnery, the Petition Ease Factor is 12 and senior clergy from other dioceses are likely to question the situation if it comes to their notice. The Monastic Vows Story Flaw is probably suitable for all female religious characters trying to live correctly in a covenant. The exception is if the covenant itself is in a nunnery, beguinage, or cell; this concept is exemplified by the covenant of Cunfin, which hides in a regio at a Cistercian monastery in the Champagne region of France (see *The Lion and the Lily*, page 106).
 
@@ -2631,13 +2631,13 @@ A player character in a covenant, whether grog, companion, Mythic Companion, or 
 
 Characters who previously lived the life of a religious might join a covenant as a place of refuge. An example is the Curious Nun from *Realms of Power: The Divine*, page 95, who brings several useful Abilities to the covenant. An educated nun could prove a valuable teacher of Artes Liberales and Latin for children in a covenant, particularly young apprentices, and her knowledge of Church Lore could help the covenant in its relations with the Church. Harboring a runaway nun is risky, however, as the Church authorities will seek her out in order to return her to a nunnery.
 
-### *Options for Absent Players*
+### Options for Absent Players
 
 The enclosed lives of most female religious characters, and some of the men, does not mean that characters like them cannot be used in stories. Such a character would be suitable for a player who wants to be part of a saga but lives too far away to participate in game sessions in person. The character could interact with the others by correspondence, if some way can be found for letters to pass to and fro with sufficient speed and reliability. This might be by means of a servant at the nunnery who has reason to meet someone from the covenant regularly, perhaps at the local market, to exchange letters. The enclosed character might let down letters in a basket from a window to a young person from the covenant, who is sent every other afternoon to wait an hour in case the basket appears. If the character's communications are important enough, and the covenant can afford it, a box could be enchanted with a suitable Rego Animal spell to transport a parchment put inside it; although discovery of such a device would undoubtedly cause difficult questions to be asked, both by the Church and by the Quaesitores.
 
 The enclosed character, if an anchoress, is less restricted, since she can legitimately talk with visitors and pass things through the window of her sealed cell. A letter tucked under some vegetables or slipped inside a book could be passed unobserved, although the servants of an anchoress would notice eventually. Visitors to the anchoress could carry verbal messages, though, with predictable possibilities for error in repeating them.
 
-## *Nuns*
+## Nuns
 
 The life of a nun is in many ways very similar to that of a monk, following the Rule of Saint Benedict or one of the more recent derivations (see Chapter 4: The Rule and Religious Life), although the rules concerning enclosure are usually more strictly enforced for women. Many nuns are forbidden to step outside the nunnery and may not receive visitors without permission. This suits many of them well, especially the most pious, who are eager to put worldly things behind them and devote themselves to a life of prayer and service to God. Others may welcome seclusion because there is something outside the walls that they fear, such as an unwelcome arranged marriage or a violent husband. Life in a nunnery is just about the only honorable alternative to marriage for women, unless they find an opportunity to join a covenant.
 
@@ -2659,7 +2659,7 @@ Some of this freedom is under pressure from the Church. In earlier times, nunner
 
 A small nunnery might have only three or four professed nuns, while a mediumsized one typically houses twenty. Nunneries are almost invariably poor compared to monasteries. The annual income per head may be as low as 10% to 15% of that for a monastery of comparable status, and is hardly ever over 50%. Benefactors prefer to donate to a monastery where there are priests who will celebrate Mass for their souls when they die. Financial difficulties also arise from the limitations for nuns regarding hard manual labor, so they are much less able than monks to generate income for themselves. A nunnery is also far less likely than a monastery to own a relic, and its library is usually considerably smaller and less likely to own rare books unless there have been authors living there. One
 
-## *Fontrevrault and Las Huelgas*
+## Fontrevrault and Las Huelgas
 
 These are examples of the richest, most influential nunneries.
 
@@ -2680,7 +2680,7 @@ In addition to the traditional nunneries, where prayer and contemplation are mea
 
 #### for women where care of the sick in a general hospital or in a leper community is their purpose in life. In these places, much of the work is likely to be undertaken by laywomen attached to the nunnery, who often come from the poorer groups in society. A place in this type of establishment may be the closest a pious woman from a family outside the nobility can get to becoming a nun.
 
-## *The Rule*
+## The Rule
 
 Life in a nunnery generally follows the same pattern as that in a monastery; see Chapter 4: The Rule and Religious Life for details of the offices that structure the day, and the general style of life lived according to the rule. This section covers regulations and practices that govern
 
@@ -2694,7 +2694,7 @@ other location.
 
 To keep sleep at bay during vigils, light work is encouraged, of a sort that will not distract the mind from the readings. Anyone who does get sleepy must stand. Nuns must not talk at table, but must listen attentively to readings then meditate upon them. In need, signs may be used to communicate. The nun is urged to avoid oaths and curses, nor should she speak loudly. Conversation should not take place during work unless unavoidable and, while working, the nuns should listen to suitable readings, meditate on God's word, or pray silently. All nuns should spend the first
 
-### *Story Seeds*
+### Story Seeds
 
 #### **Appealing to the Bishop**
 
@@ -2726,13 +2726,13 @@ two hours of the day reading.
 
 There must be no desire to look attractive. If any men are seen, the nuns must not look on them immodestly and all must guard each other's modesty. Men must not be admitted to the enclosed area, apart from the bishop, the sponsor of the nunnery, priest, deacon, subdeacon, and one or two readers. If the sponsor is admitted, the abbess or an alternative respectable witness must accompany him. If men must be employed for building or repair works, the abbess must approve them. Women who are not nuns or do not belong to the nunnery community may not enter. The abbess may meet callers in the parlor with two or three nuns in attendance. Banquets must not be provided for anyone except, very rarely, for a benefactress or visiting holy woman. A nun may speak with a female relative in the presence of a superior. A nun may not be godmother to anyone.
 
-## *Characters in a Nunnery*
+## Characters in a Nunnery
 
 All nuns have taken vows of poverty, chastity, and obedience. Characters will normally only take the Monastic Vows Story Flaw if some highly unusual circumstance means they are living away from the religious community, in an environment where keeping those vows is a struggle and stories develop from this. The other women living in a nunnery —lay sisters, novices, and, in some, ladies who have retired from the world outside — do not take these vows. The Minor Flaw Regular is often appropriate for nuns.
 
 Most nuns come from a noble family, so Privileged Upbringing is a common Virtue. Artes Liberales, Latin, and Church Lore are the Abilities expected of all nun characters, even if only at a low level; some suitable background detail is needed to explain why a character lacks any one of these. Noble women usually learn needlecrafts as they grow up, so most nuns have Craft skills in one or more of embroidery, seamstress, and perhaps even lace making. The Ability to spin wool is also very common. There are other practical skills that are important to the nunnery, as well. In large, richer foundations the cooking,
 
-## *Story Seeds*
+## Story Seeds
 
 #### **Too Late**
 
@@ -2768,7 +2768,7 @@ There are quite a few unhappy lovers in nunneries. A girl who sees the man she l
 
 If a nobleman is defeated in battle, the noble women of his household often choose to take refuge in a nunnery to avoid harsh treatment by the victor. Sometimes a woman enters a nunnery because her husband decides to become a monk. Once there, she may decide to take vows after a suitable period in the novitiate. Such a woman may struggle since she arrives with an unsound vocation, and she probably suffers from a reluctance to be there compounded by anger and resentment. She brings knowledge of the world outside, which is of interest to those enclosed before they had a chance to learn about men and running a household. Such a woman could be a very unsettling influence in a nunnery, and an interesting character to play.
 
-## *Héloïse*
+## Héloïse
 
 Héloïse is the most famous example of the disappointed lover as a nun. Canon Fulbert of Notre Dame set in motion a tragic love affair when he engaged a tutor for his niece Héloïse. The tutor, Peter Abelard, was a highly regarded scholar in the young University of Paris, while Héloïse was an intelligent young woman who loved learning. When a child was born and their secret marriage was discovered, Abelard was sent away, disgraced and mutilated, to live in a monastery. He, in turn, persuaded Héloïse that she must become a nun.
 
@@ -2787,7 +2787,7 @@ In some ancient noble families, it has become traditional for some of its women 
 
 Characters should have some significant reason for their situation, if unwillingly placed in a nunnery; this includes a substantial number of the Virtues and Flaws. A character with Plagued by Supernatural Entity, Supernatural Nuisance, Faerie Friend, or Ghostly Warder can be too much trouble for their families. Strong Faerie Blood and Giant Blood can result in an unnatural appearance just as off-putting to a potential husband as Crippled, Disfigured, and Hunchback. A nunnery might take some persuading to accept a young girl who is Tainted with Evil, though. Sim-
 
-## *Christina of Markyate*
+## Christina of Markyate
 
 Christina's story provides ideas for use in the background of a character who takes refuge in a nunnery, or for a story about such a character.
 
@@ -2805,7 +2805,7 @@ ple-Minded characters or those with certain Social Handicaps might be marriageab
 
 There are new spiritual movements growing across Europe, some tending towards the heretical and others seeking to revive the ways of the earliest days of the Church. A woman or girl with new ideas can be a very unsettling influence in a nunnery, whether her ideas are orthodox or not. The strongest such development is the followers of Francis, as described in detail in Chapter 8: The Franciscans.
 
-## *Misbehavior*
+## Misbehavior
 
 Entertaining story opportunities are easy to find in breaking the rules and flouting authority, and the following should provide a storyguide with some ideas. Since the percentage of nuns without a true vocation to the religious life is higher than found among monks, it is hardly surprising that there is more bad behavior among the inhabitants of nunneries. Demons take every opportunity they can, but it is the Tempters (*Realms of Power: The Infernal*, pages 43–44) who are busiest in a nunnery, using people with no real commitment to the religious life as willing and unwilling tools to spread sin. They assail the devout by playing on any wavering of confidence in their faith or in their calling to religious life. They tempt those with any sort of power to abuse it. See *Realms of Power: The Infernal*, pages 20–24, for the background and game treatment of sin and temptation.
 
@@ -2822,7 +2822,7 @@ Nuns with power over others can be tempted to abuse it. The distance between exe
 
 It is usually easy for a nun to get permission from her superiors for a visit to the
 
-## *Story Seeds*
+## Story Seeds
 
 #### **Forbidden Love**
 
@@ -2852,7 +2852,7 @@ When the bishop discovers a nunnery where many of the nuns are living sinful liv
 
 Contrasting sets of written records provide examples of misdemeanors on the part of nuns. Bishops are required to make visitations every few years to check on each nunnery. Their reports
 
-## *Story Seeds*
+## Story Seeds
 
 #### **New Foundations**
 
@@ -2883,7 +2883,7 @@ from such visits include details of faults found in administration and behavior,
 
 In the secular sphere, the exploits of misbehaving nuns are equally noted. Educated people write instructive verses and stories about them, with a moral attached. Jongleurs and goliards report the same things, but in the form of poems, songs, or stories for entertainment. Sometimes they emphasize the plight of the nun enclosed against her will, drawing out the sympathy of the audience, while at other times they give a bawdy account of sexual activity. Verses like this are so common that the reprobate nun is a character type known to everyone.
 
-## *Canonesses*
+## Canonesses
 
 Like a nun, a canoness takes vows of chastity and obedience and lives according to a religious rule, usually the
 
@@ -2910,11 +2910,11 @@ They start and end the day by gathering together in the church for prayer, and h
 
 Beguines rely on the local parish priests to say Mass and hear their confessions; although in some instances, in towns and cities where there are numerous churches, the link between beguines and any specific priest is less fixed than the Church likes, because it makes it harder to monitor their activities. Most beguines are looked on favorably by the Church authorities on account of their chastity, good works, and prayer. However some of them are teaching, writing, and even preaching, which brings them into conflict with Church authority. They use the language of those around them in preference to Latin, which upsets Church leaders. Many of them have an intense devotion to the holy eucharist and desire holy communion as often as every week, which is viewed as very disturbing since the custom among most religious is to partake just a few times annually. Such devotion leads some beguines along the path to mysticism (see later), and some of them slide into heresy through lack of close spiritual guidance.
 
-## *Beguinages of the Near Future*
+## Beguinages of the Near Future
 
 A very substantial beguinage — such as that of Saint Elizabeth in Ghent grows, if your saga follows history, to occupy a plot of land encircled by ditches and a wall within which are a church, a cemetery, a small hospital for the inhabitants, and homes. There are numerous houses in the enclosure, where the women live in small groups and each has a small garden. The women have little personal property, just their clothing, a bed, and a chest. There are two chaplains resident. One woman, called the principal mistress, is selected to be in charge of the beguinage; her position is reviewed annually. She appoints the women who are responsible for each of the houses in the community. Any woman wishing to absent herself from the beguinage for more than an hour or so needs her permission, and must go with companions, so each can watch the other. The principal mistress must give her permission for anyone joining the community and for any building or demolition work. She also has the duty to correct any member who breaks the rules. Punishment in extreme cases may involve transfer to a different beguinage or expulsion. With care, it might just be possible for a covenant to hide inside one of the larger beguinages.
 
-## *Penitents*
+## Penitents
 
 Not long ago, swept up by a similar sentiment, women in northern Italy began living as penitents, and the movement is spreading fast. It began among the ruling classes as an urban interpretation of the eremitic life. In contrast to the beguines, the emphasis is on penitence, and they take up the religious life with the intention of permanency. At first, the movement accepted only married and widowed women, but now it is beginning to allow others. The essential feature of their life is following traditional personal penitential practices, including lengthy fasts and dressing in sackcloth and ashes. They hold property in common in small groups, but lack any organization, unlike beguines. Also unlike beguines, they remain at a distance from society and do not engage in work or trade.
 
@@ -2925,7 +2925,7 @@ In years to come, if your saga follows history, women alone or in small groups l
 The Social Status Virtue Religious is correct for characters of this type; however, most are illiterate. Players may take the Flaw Ability Block: Academic to cover this situation.
 
 
-## *Using an Anchoress in the Saga*
+## Using an Anchoress in the Saga
 
 An anchoress can live in a village closely linked to a covenant, or, with care, can be located actually in a covenant. And unlike cloistered religious, she can interact with a wide range of people through her window and act through intermediaries, particularly her own servants. Two different players might enjoy taking the roles of anchoress and servant to develop stories through their relationship. It may well be more fun if they do not adhere too strictly to the ideal rule, but find entertaining ways to bend and break it — and then have to make their confession and excuses.
 
@@ -2933,21 +2933,21 @@ A covenant may have contacts with an anchoress in town who is something of a bus
 
 This can be a good choice of character type for someone who wants to be involved as a player character in a saga but is living away and will participate by email.
 
-### *Becoming an Anchoress in England*
+### Becoming an Anchoress in England
 
 Before being allowed to take up the enclosed life of an anchoress, a woman in England requires permission form the local bishop, who has a duty to test her vocation. When he is convinced, a special ceremony is performed. The candidate enters the church and prostrates herself at the western end, opposite the altar. Two clerks stand over her and recite a litany. She is blessed by the sprinkling of holy water and the smoke of burning incense. She stands and is presented with two lighted candles, one representing love of God and the other love of one's neighbor. Readings from scripture and a psalm follow, then the two candles are placed on the altar and Mass is celebrated. After Mass, the clergy recite the psalms for the dead while the candidate is led to her cell. There she is sprinkled with dust before entering, and the door is closed behind her.
 
-## *Recluses*
+## Recluses
 
 Holy hermits are not rare, although they are not often female. Women living alone in remote places may be suspected of being hedge magicians, cunning women, or witches, and may have to try to prove themselves otherwise. There is a growing tendency among Church authorities to disapprove of women living in this way, so a hermit character may come under pressure from nobility or clergy to enter a nunnery. It is not at all unusual for a woman ostensibly living in solitude to be accompanied by a female servant or two, especially if the woman concerned is from a noble family; these still count as hermits. A holy hermit probably gets gifts of food from the people living in the vicinity, who hope she will pray for them. Their isolation and chosen lifestyle make such characters hard to incorporate into a saga. They are probably most useful as occasional nonplayer characters.
 
 A pious woman with The Gift may find the life of a holy hermit to be a good option, and a maga with no inclination to piety but with The Blatant Gift may find the hermit life suitable. A character of this sort can be a useful choice for a storyguide who wants to run a player character just once in a while. Another possibility is for the isolated maga to be a shared character who is a specialist in something the player characters are weak in, and who might step in from time to time to help out in stories of a particular sort, when she can be played by a member of the troupe whose own magus is not involved in the story.
 
-## *Carmelite Nuns*
+## Carmelite Nuns
 
 The Order of Our Lady of Mount Carmel (or Carmelite Order) is a religious order, which originated from groups of hermits living in the Holy Land, on the slopes of Mount Carmel. There are numerous caves there, around the site of the well that was used by the prophet Elijah. In 1220, the group is well established there and lives under a rule approved by the papal legate in Jerusalem. Its members devote themselves to solitude, penance, prayer, and contemplation. Originally all men, a few women find themselves drawn to the same style of life. The women are likely to be found in the most remote caves, living in total poverty and seclusion. If your saga follows history, the rule followed by the Carmelite hermits receives papal approval in 1226. The hermits move from the Holy Land in 1238 to settle in Cyprus and Sicily, reach England in 1240, and establish a settlement in southern France in 1244.
 
-## *Anchoresses*
+## Anchoresses
 
 The life of an anchoress is more closely linked to society than that of a nun, while still being enclosed to a significant degree, and is a highly respected mode of life. It is governed by rules, but many of them are optional. It is suitable for the woman who has a vocation to the religious life but who does not want to be entirely cut off from the world. It is typically only open to the more wealthy, but an anchoress has female servants who also follow the rules and routines of religious life, so the role of servant to an anchoress is a choice available to poorer women. Prior to taking up residence in her cell, an anchoress may have lived as a nun, but this is not usual. Once installed as an anchoress, the woman's former life is irrelevant, and she is equally respected whether a widow or a virgin.
 
@@ -2956,7 +2956,7 @@ Many anchoresses' cells are attached to a church, built onto the side or end of 
 
 to a nunnery or stand alone. There is usually a window giving onto the street, and a door through which her servants come and go.
 
-## *The Anchoress' Rule (Ancrene Riwle)*
+## The Anchoress' Rule (Ancrene Riwle)
 
 The Ancrene Riwle was written in England during the early 13th century for a group of three anchoresses. It is based heavily on the rules that govern monks and nuns, but differs to suit the circumstances of an anchoress in general and allows for individual variations under the guidance of the woman's confessor. The primary requirements of obedience, chastity, and permanence of abode remain. The rule warns against making other vows, for example with regard to fasting, dress, or times of prayer, because of the danger of breaking such a vow. Instead, it recommends only acting as if such vows have been made. By adopting some of the rules in play, a character becomes distinctively religious.
 
@@ -2974,7 +2974,7 @@ The anchoress should dress simply in plain, warm clothing. She should not do pen
 
 The anchoress should gently correct faults in the behavior of her servants, imposing penances if need be, and should work to maintain harmony between them. She should sometimes read to her servants, to instruct them. She should be more generous with food, drink, and clothing to her
 
-## *Story Seeds*
+## Story Seeds
 
 #### **Defying the Bishop**
 
@@ -3000,7 +3000,7 @@ If someone has to go out to obtain food, the anchoress should have two servants 
 An anchoress may have unusual means of leaving her cell, and might be able to get away with it, if she is careful, although she will have to deal with her conscience. She may, for example, have an enchanted item that allows her to leave her cell through a wall, or the means to use Leap of Homecoming to reach another location, and later return to the cell. Perhaps one unique cell contains access to a regio where the anchoress can work and explore without technically leaving her cell; this could suit a pious maga.
 
 
-## *Mystics*
+## Mystics
 
 Among religious women, gifts of prophecy and visions are sometimes a blessing and sometimes an affliction. Such people can be found in nunneries or living in seclusion. They are not easy to live with, but their intimate link with God earns them the care and respect of those around them. The mystical state is generally understood to be a form of prayer. It is commonly believed that God gives such gifts to those who live most closely according to his commandments, and are seen to show humility, penitence, and great love. However, it is hard to prove whether this way of life is the cause or the result of profound mystical religious experiences, which impart direct personal knowledge of God. See Chapter 2: Congregation, Christian Mysticism for more information on mystics and their lives, and for rules governing mysticism in play.
 
@@ -3008,13 +3008,13 @@ In most case, the experiences of a religious mystic are covered by the Visions F
 
 In the 12th century and early 13th century, more mystics live in Germany and Flanders than elsewhere, and they usually live in nunneries. In other places, there are a few mystics among the beguines and anchoresses as well. If the local bishop is convinced that a nun's mystical experiences are genuinely of divine origin, the nun gains a Reputation as a mystic, which is likely to spread rapidly throughout the local diocese. If the content of the visions touches on points of theology, it is usual that the pope must also be convinced that the revelations come from God. Mystics with the most profound visions may be commanded by God in their visions to write them down, or they may choose to do so for themselves, or be told by a superior to record their experiences or dictate them to another. Once recorded, they may be disseminated and the mystic's reputation be carried further afield.
 
-### *Hildegard of Bingen*
+### Hildegard of Bingen
 
 Hildegard, who died in 1179 in the Rhineland, was a renowned mystic during her lifetime and in 1220 is known and honored throughout Mythic Europe for her visions and also for her scholarship. Characters may want to study her writings and could meet people who knew her personally. Many describe her as having had an "overpowering, electrifying presence," although this may derive as much from her reputation as her personal Presence.
 
 She was the tenth of her parents' children, so they promised her to the Church. It became apparent very early on that she had a special relationship with God, but she kept her earliest visions secret. At the age of eight she was sent to live with an anchoress named Jutta, who taught her the rudiments of reading and writing. For many years, Jutta was the only person with whom she shared what she learned in her visions. Hildegard and Jutta joined the community of nuns at the Benedictine abbey at Disibodenberg, in the Rhineland,
 
-## *Some Books by Hildegard of Bingen*
+## Some Books by Hildegard of Bingen
 
 *Know The Ways Of The Lord (Scivias)* Tractatus, Theology (Quality 13)
 
@@ -3050,7 +3050,7 @@ her book on the subject includes her understanding of the flow of the blood, rep
 
 A few writings in Hildegard's own hand — her *Unknown Letters and Unknown Language* — are in a script of her own devising and use complex constructions, novel words, and abbreviations, which makes them hard to read. Characters will be better off with copies made using conventional script and vocabulary, if they can find any. Some members of House Criamon have been working to decipher these, in expectation of finding there a link between the Divine and the Enigma.
 
-## *Marie of Oignes: Beguine and Mystic*
+## Marie of Oignes: Beguine and Mystic
 
 Marie was one of the founders of the beguine movement, and her story may provide inspiration for a beguine character's background, or her visions might feature in a story.
 
@@ -3060,7 +3060,7 @@ The Holy Spirit inspired her to cry, enraptured, whenever she gazed upon a cruci
 
 A community of lay religious women grew up around her at Oignes, and Marie died there in 1213.
 
-## *Elizabeth of Schönau*
+## Elizabeth of Schönau
 
 Elizabeth was born in 1129 near Bonn to a family with strong connections with the Church, went to live in a Benedictine nunnery in Schönau at the age of 12, and took her vows a few years later. Her mystical experiences, which began in 1152, were usually inspired by participation in a religious service or listening to readings from the Bible or the life of a saint. In her visions, Christ, his mother Mary, an angel, or the saint of the day appeared to instruct her about the readings and liturgy, or she saw scenes from the life of Christ or the saints that she had heard about.
 
@@ -3068,22 +3068,22 @@ She corresponded with Abbess Hildegard in Bingen and, like her, wrote of her vis
 
 The Church has not tested the validity of these visions as yet, because, unlike Hildegard's, they do not deal with theology; the Church authorities might call on religious player characters to help if such examination was called for. Elizabeth wrote other books, including *The Book of God's Way*; this writing includes warnings and instruction to laity and clergy at all
 
-## *Saint Severus of Ravenna*
+## Saint Severus of Ravenna
 
 Severus was a married archbishop who lived in the fourth century. He is a saint that a married priest or priest's wife might well call on for support (see *Realms of Power: The Divine*, page 87). Severus was married to Vincentia and they had a daughter, Innocentia, before his election to the post of archbishop of Ravenna. At that time, clerical wives were common and had the title of presbyteria or sacerdotissa. The
 
 marriage was clearly entirely acceptable to God because the archbishop was chosen directly by him, signaled by the sending of a dove to settle on his head not just once, which was all that was necessary to indicate who should have the post, but three times. The family stayed together until death and all three share the same grave, which could be a place of pilgrimage for a married priest or his wife.
 
 
-## *Visions to Come*
+## Visions to Come
 
 If your saga follows history, mystics soon become more common. There are some who, in 1220, are young children. Hildegard's mystical visions started when she was only three years of age, so it would not be surprising if some these little ones were also having mystical religious experiences. Characters may encounter the likes of Zita and Malfalla of Portugal, who are infants in 1220; Hadewijch of Antwerp, who is a child still in 1220 but so overcome by her intense love of God that she feels she will die of love without his strength to support her; or Mechthild of Magdeburg, who was born in 1210 and starts having her visions in 1222, with direct experience of the Holy Spirit.
 
-## *False Visions*
+## False Visions
 
 Given the slightest chance, a Spirit of Deceit delights in giving people false visions (see *Realms of Power: The Infernal*, page 38). It can be very difficult to prove whether or not a particular mystical experience is genuinely divine. The task usually falls to the local bishop; if there is a degree of understanding between a bishop and a covenant or an individual member of the Order of Hermes, he may well request discreet assistance. If the person under investigation is a nun confined within an enclosed community
 
-## *Story Seed: Novices*
+## Story Seed: Novices
 
 A well-dressed, mature woman approaches the nunnery to ask if they are willing to take in three girls as novices. Her story is that she is a widowed noblewoman fallen on hard times since her husband died, and these three are her charges, daughters of herself and her deceased sister. The girls say all the right things to support this, and profess a strong desire to devote their lives to God. In fact, the three girls are nothing of the sort, but are boys disguised with help from the demon that is masquerading as the older woman (a Spirit of Deceit, see *Realms of Power: The Infernal*, page 38). The "novices" aim to maintain the disguise as long as possible, only dropping it when they have contrived to be alone with a nun and persuaded her to commit a serious sin. However, lacking patience and restraint, they reveal themselves in the dormitory after a few nights have passed without a successful seduction. Demonic help should enable them to keep this up for quite a while if the nuns do not let on, and if the "novices" can cope with the long periods of prayer in chapel, but their time will be up when a pregnancy is detected. Unless something is done to remove them before then, the young men leave once all the nuns have betrayed their vows, at which point the demon stops helping them, its job done.
 
@@ -3098,7 +3098,7 @@ Take as example the case of a young woman out gathering firewood in an ancient f
 The fae may also be inclined to give illusory substance to characters and incidents they find out about, for instance when they overhear someone praying aloud or reciting a psalm or parable. The person who witnesses an illusion will very likely claim to have seen a vision. What does the Church do when the apparently mystical experience is reported? How do the fae respond, if a group of clergy turn up in one of their favorite spots determined to pray for a vision themselves?
 
 
-## *Priests' Wives and Mistresses*
+## Priests' Wives and Mistresses
 
 In 1123, at the First Lateran Council, Pope Calistus II decreed that clerical marriages were invalid. The ruling was widely ignored, so in 1139, under Pope Innocent II, the Second Lateran Council confirmed the previous council's decree. In 1215, Pope Innocent III's Fourth Lateran Council reinforced it. Nevertheless, in a great many places, and not all of those remote from the bishops' power centers, there are priests with wives or "hearth-mates." Acknowledging this fact, the Holy Roman Emperor Frederick II made a ruling that the offspring of clerical marriages be provided for from their parents' estates. This is because one of the greatest fears is that Church property should fall into the hands of a priest's family, that their support should become a burden to the Church, and that money donated to the Church should be used for support of a priest's family. Saint Paul's recommendation that a priest without a wife is better able to give his attention to God is, for many, of secondary importance here.
 
@@ -3106,7 +3106,7 @@ If your saga follows history, disapproval of priests' wives and mistresses grows
 
 A large parish probably has clerics in minor orders to assist the priest, and also laymen with special responsibilities. A deacon or sub-deacon should be unmarried, but a married man who promises complete sexual abstinence can be admitted to these orders, and his wife has a position within the local church. Other Church assistants provide opportunities for female characters, as well; for example, a sacristan can be a married layman, and the wife of such a person could be a suitable choice for a female character intended to be closely involved with the day-to-day running of the parish while married, in an area where married priests are inappropriate. See *Realms of Power: The Divine*, pages 81–82 for examples of clerics in minor orders who can have wives.
 
-## *Imposters*
+## Imposters
 
 A woman may pretend to be a man in order to get access to positions in the Church that are denied to women. She may want to enter a monastery for pious or impious reasons, for example. Without supernatural aid of some sort, it is highly unlikely that a woman could masquerade as a male for long enough to obtain the education necessary to become a priest, or to keep her disguise well enough to survive the close communal life of a monastery. However, in very unusual circumstances, or with supernatural assistance, anything along these lines is possible.
 
@@ -3116,11 +3116,11 @@ Characters may know something of the legend of "Saint Joan," said to have held t
 
 A female character desiring to take up the religious life as a man might pray for aid to Saint Eugenia, an early Roman martyr who, legend has it, took on men's clothing to escape persecution and went on to became an abbot. If Divine help is not offered, Infernal help might well be; demons will make it easier for women to pretend to be men, and vice versa. Men pretending to be women in order to get inside a nunnery are a popular topic for bawdy songs. A character able to Gender Shift (an Infernal Minor Supernatural Tainted Virtue, see *Realms of Power: The Infernal*, page 85) can play it both ways, of course.
 
-## *Sample Characters*
+## Sample Characters
 
 These stats are provided to help integrate female religious into your saga.
 
-## *Holy Maga (House Ex Miscellanea)*
+## Holy Maga (House Ex Miscellanea)
 
 **Characteristics:** Int +3, Per +2, Pre –1, Com 0, Str 0, Sta +2, Dex –2, Qik –1 **Size:** 0
 
@@ -3161,7 +3161,7 @@ As a player character, this character is suitable for a player who is not always
 
 The character can be customized with 60 points of spells.
 
-### *Companion Templates*
+### Companion Templates
 
 The following female companions are suitable for Ars Magica sagas.
 
@@ -3252,7 +3252,7 @@ Born into a minor noble family, the Imposter was never much interested in study 
 
 See *Realms of Power: The Infernal*, pages 85 and 89 for details on the tainted Virtues and Flaws. This character can be developed with up to 5 more points of Flaws and Virtues.
 
-## *Grog Templates*
+## Grog Templates
 
 Female grogs such as these may also fit well into your saga.
 
@@ -3337,9 +3337,9 @@ This character can have another Minor Flaw and with it, another Minor Virtue.
 If this character lives in an area where her status as the wife of a priest is scandalous, then she needs to take the Dark Secret Flaw (and consequently be Companion level and play a significant part in stories). Her role in the parish, under these circumstances, may be similar but must remain clandestine.
 
 
-## *Chapter Six*
+## Chapter Six
 
-# *The Corrupt*
+# The Corrupt
 
 "Not long after, Saint Guthlac being awake in his cell between his hours of prayer, he discerned all his cell to be full of black troops of unclean spirits. They crept in under the door, also through chinks and holes, and coming both through the earth and from the sky filled the air, as it were, with dark clouds ..."
 
@@ -3349,7 +3349,7 @@ Where does the devil try hardest to spread corruption? Nowhere is the spiritual 
 
 Corruption can take many forms. Human vice and profligacy are by far the most common; most monastic orders and Church institutions unknowingly harbor individuals prone to vice and human error. Heresy and ignorance are not uncommon, either; folk beliefs exist that the Church authorities look askance at, though many practices founded in popular piety and local custom are simply accepted without much theological scrutiny. Corruption in this chapter, however, means something far more insidious — the wiles of Satan, and the Infernal realm's attempt to tarnish the bride of Christ, the Church, by seducing her to sin. A corrupt order is one that has become institutionally corrupted, and rather than serving the armies of God now fights alongside the forces of hell in the great war for the souls of Mythic Europe.
 
-## *Storyguiding Corruption*
+## Storyguiding Corruption
 
 Telling stories about corruption in the Church is a chance to bring suspense, creeping horror, and shocking revelations in to your saga. Mythic Europe is filled with
 
@@ -3364,7 +3364,7 @@ When it comes to the corruption, again it is wise to avoid modern clichés drawn
 
 Stories about corruption should be ultimately stories about moral choices that present opportunities for temptation, and the lure of worldly gain, at the expense of a character's soul. Evil can be explicit, but the story will be stronger if the evil can appear sympathetic or appealing, and if the characters are forced to make choices, and to resist temptation, until they see the hand of the Infernal behind the events. Ultimately evil in Mythic Europe is never attractive — **Ars Magica** is not film noir, and when the situation is fully understood, evil should be shocking, disgusting, and offensive.
 
-## *Heresy and Corruption*
+## Heresy and Corruption
 
 One particular area of difficulty for storyguides is heresy, something that lies at the heart of many medieval Infernal plots. Given that the major monotheisms of Judaism, Christianity, and Islam all contain Divine truth in Mythic Europe, even where to human reason they appear to be in conflict (see *Realms of Power: The Dominion* for a discussion of this), it may seem strange that certain ideas are deeply wrong and spiritually damaging. Again, storyguides should be sensitive here, and must decide which ideas are so wrong that they actually endanger a character's soul and cross the line in to Infernalism.
 
@@ -3383,11 +3383,11 @@ Where heresy is genuinely Infernal,
 
 though, sacrilege and blasphemy usually follow. The desecration or abuse of the holy generally causes strong reactions in Mythic Europe, and is a way in which the Infernal swiftly gains in power.
 
-## *Three Holy Orders*
+## Three Holy Orders
 
 In this section three of the religious orders of Mythic Europe are briefly presented in more detail, with details of how the observance of the rule and the culture of their monasteries varies from the Benedictine norms presented in Chapter 4: The Rule. Each of the groups is provided as an example of a potentially corrupt order, with information on the nature of the corruption, the demonic influences underlying the order's corruption, and suggestions for using this order as corrupt in your saga. Even if the order is not corrupt in your saga, this material will allow you to represent them. Other orders are discussed in Chapter 4: The Rule and Chapter 8: The Franciscans. The military orders of warrior monks are discussed in Chapter 7: The Templars.
 
-## *The Order of Cluny*
+## The Order of Cluny
 
 The order of Cluny began as a movement within the Benedictine Order in the 10th century. The Burgundian monastery of Cluny imposed a strict interpretation of the Rule of Saint Benedict, at a time of widespread popular perception of monks as lax, venal, and corrupt. Cluny's founder, the Duke of Aquitaine, chose not to exercise the usual influence that nobles who established religious houses expected to maintain, instead making the new monastery free from secular authority and subject only to the pope. The pope approved this arrangement, and the monastery therefore stands completely independent of the diocese and local church.
 
@@ -3397,7 +3397,7 @@ By its example, Cluny was to touch almost every religious house in western Mythi
 
 Because of this perceived purity, Cluny was popular with the Church authorities and lay folk, and therefore received a great deal of support and many financial bequests and endowments. The fashionable nature of the Cluniac order provided the seeds of its downfall, though, for by the mid-12th century Cluniac houses were often as rich if not richer than Benedictine houses, and newer reforming movements dedicated to poverty and ascetic rigor (such as the Cistercians) had developed, and become more popular. The Cluniacs, long seen as expressing the best of the reforming movement in monasticism, are in 1220 perceived by many as decadent and lax, perhaps with some justification.
 
-### *What Makes the Cluniacs Different?*
+### What Makes the Cluniacs Different?
 
 As the austerity and rigor of the early Cluniac communities have softened with years and wealth, Cluny has developed a strong tradition, or feel, of its own. In several ways it varies from its Benedictine parent, and the rule has been modified.
 
@@ -3405,7 +3405,7 @@ As the austerity and rigor of the early Cluniac communities have softened with y
 
 Technically, the answer is no, there is no such thing as the Cluniac order. All Cluny houses follow the Rule of Saint Benedict, and wear the same black robes as are worn by many Benedictines, though reputedly of better cloth. Cluny is a movement within the Benedictines, not a separate order, but in the 13th century it has developed so far from its Benedictine roots as to be popularly regarded as, and in real terms effectively be, an independent order. Answering only through its own feudal-like structure to the Abbot of Cluny, 13th-century characters will speak of the "Cluniacs" or "Order of Cluny" quite naturally.
 
-### *Mortuary Masses*
+### Mortuary Masses
 
 The term mortuary Mass can mean any Mass for the remembrance of the dead, that is a requiem Mass, but the term is also used in a far more sinister way in Mythic Europe. It is widely believed that if a funeral Mass is celebrated for a man or woman still living, he will die. Such an activity is classified therefore as murder, but some corrupt priests are known to perform the Infernal rite (as a blasphemous perversion of a holy rite is Infernal) in exchange for money.
 
@@ -3452,11 +3452,11 @@ A large number of Abbots of Cluny were later to become bishops, and yet retained
 
 The abbeys and priories of the Cluniacs were in the past extremely wealthy, and that wealth is displayed in their magnificent buildings, ceremonial vestments, and altar goods. The Cluniac houses are often decorated with somber memorials of the dead, scenes of judgment, even the three corpse kings who remind worshippers that even the greatest must come to the equality of the grave — but they are beautifully decorated. The early chest tombs that in some cases have the artistic innovation of the dead depicted upon
 
-## *The Hermit and the Devils*
+## The Hermit and the Devils
 
 A Sicilian hermit was high on the slopes of Mount Etna one day when he heard voices from within the fiery volcano. Climbing up he peered over the top, to see a group of demons lounging around below, moaning and complaining. The hermit heard the demons' explanation for their discomfiture; so many souls were being snatched from them and purgatory by prayers, alms, and Masses, leaving them with too few to torment for their tastes. The hermit rushed to tell Odilo, fifth Abbot of Cluny, who in response created the Feast of All Souls on the 2nd of November to save even more souls from the pains of purgatory. Shortly thereafter the ghost of Pope Benedict, saved from purgatory himself by the intervention of Cluny, appeared at the abbey to grant his blessing and authority to the festival. The festival is a Christian one, but perversely this day the Dominion is weaker than usual; Infernal auras increase in strength by one, and some of the dead walk once more.
 
-### *Story Seed: Fleeing the Mob*
+### Story Seed: Fleeing the Mob
 
 A Jewish friend of the covenant is forced to flee after his house is attacked by an angry mob. Not knowing even the accusations against him, he flees to the covenant, but his persecutors are not far behind. His family failed to escape, and he has been forced to
 
@@ -3470,7 +3470,7 @@ their lids, not as they were in life but as a skeleton or shroud-wrapped corpse,
 
 For a novice to be accepted into a Cluniac house, he is expected to journey to Cluny, and there spend a year to absorb the Cluniac culture and explore his vocation. All Cluniacs are expected to journey to Cluny before taking their vows, or as has been the case for over a century owing to the historically large number of postulants, to journey to Cluny after their vows have been taken to affirm them. Not all Cluniac monks manage to achieve even this lesser goal, but it remains the ideal. The novices are not allowed to fully
 
-## *The Demon BaalBaruth, Corrupter of Monks*
+## The Demon BaalBaruth, Corrupter of Monks
 
 **Order:** Spirits of Deceit **Infernal Might:** 25
 
@@ -3522,7 +3522,7 @@ For a novice to be accepted into a Cluniac house, he is expected to journey to C
 
 participate, being barred from chapter meetings and often eating separately and performing menial tasks and manual labor until they have taken their full vows, at which time they are welcomed fully in to the life of the community.
 
-### *The Corrupt Cluniacs*
+### The Corrupt Cluniacs
 
 If Cluny is the corrupt order in your saga, then the downfall of one of the holiest orders of the religious is complete, and a major victory has been achieved for the Infernal. Because of the order's standing outside of local diocesan and noble sponsors' control, and the distance of papal authority from the many Cluniac houses, they are able to run their own affairs; once supernatural evil became established it would have been very hard for them to be discovered and purified. The authoritarian structure of Cluny adds to this risk; if the Cluniacs have fallen to the Infernal, the Infernal has powerful strongholds across western Mythic Europe.
 
@@ -3548,7 +3548,7 @@ The two, a knight and a monk, had been separated soon after their entry to purga
 
 The monk, Gobert of Eze, had a different experience. Having escaped purgatory driven mad by what he had seen, tortured and confused by evil spirits he lacked the will or faith to resist, he sought out a necromancer who taught him sorcerous arts. His hope was to control the dead who followed him, crying out to him to save them. On his return a few years later to Cluny, he called together the monks who had expressed doubts and told them Henricianism was false, but he also told them of the horrors he had seen, and that the necromantic arts would demonstrate
 
-## *The Demon Patarus*
+## The Demon Patarus
 
 **Order:** Accusers **Infernal Might:** 15
 
@@ -3620,7 +3620,7 @@ A small number of monks remain who are completely innocent, pious, and strugglin
 Discovering the nature of the Cluniac corruption, if it exists in your saga, may be easier than convincing the papacy of the terrible truth.
 
 
-## *The Cistercians*
+## The Cistercians
 
 The Cistercians were, like the Cluniacs, born out of a reforming zeal and a wish to return to the original Rule of Saint Benedict, strictly enforced. At the end of the 11th century, a group of French monks from various abbeys left their houses. All had been involved in reform, and all had found that the Cluniac order was too lax and decadent, and filled with sinful behavior. These monks of good birth and education formed a community of their own at Cîteaux, dedicating it on March 21st, 1098 — the Feast of Saint Benedict.
 
@@ -3628,17 +3628,17 @@ The Cistercians took off at an incredible rate, and by 1220 have 400 monasteries
 
 The Cistercians enjoy excellent relations with the Knights Templar, and a number of other military orders. This influence and friendship comes about partly through the efforts of one very important Cistercian, Bernard of Clairvaux, because of his and the order's efforts in preaching the Second Crusade.
 
-## *Bernard of Clairvaux (1090–1153)*
+## Bernard of Clairvaux (1090–1153)
 
 Saint Bernard, the founding abbot of Clairvaux Abbey in Burgundy, was one of the greatest Church leaders, dominating Mythic Europe in the first half of the 12th century. He was born in 1090 and entered the abbey of Cîteaux in 1112, bringing thirty young nobles with him, including four of his brothers. Another brother and his father joined him later. Bernard's Mythic Presence and astonishing writing ability drew many to Clairvaux and the other Cistercian monasteries. He defended the Cistercians against the Cluniac order (showing little of the diplomacy for which he was later known), he was involved in ending a papal schism, and he acted as a negotiator between England and France. His strong will, pugnacious nature, and towering intellect allowed him to dominate those around him. He preached the Second Crusade, worked hard for the military orders, and raised vast armies. In his last years. he rose from his sickbed and went into the Rhineland to defend the Jews against a savage persecution. He finally died in 1154, though he was physically frail for most of his life. He was canonized in 1173, and his feast day is August 20th.
 
-### *Story Seed: The Ring of Saint Bernard*
+### Story Seed: The Ring of Saint Bernard
 
 Many stories circulate about how the Templars gave Bernard the personal seal ring of Solomon, which they had found under the temple in Jerusalem. Some rumours claim that one of his assistants stole the ring, and used it to raise monasteries and great abbey churches all over Europe on behalf of the order by commanding demons, but Bernard rebuked him and the devil claimed the unfortunate man. Such romances have nothing to do with history, or do they?
 
 The knowledgeable might wonder if the ring of Solomon refers to Ars Notoria (*Realms of Power: The Divine*, page 97), or even if the ring allowed the summoning of Architechtus (*Realms of Power: The Infernal*, page 66). There are legends attached to a number of Cistercian houses claiming they were built for a noble using sorcery to bind demons, but afterwards he repented and gave the building over to the order to save his soul. Sometimes folk tales contain much truth.
 
-## *What Makes the Cistercians Different?*
+## What Makes the Cistercians Different?
 
 The Cistercians split off from the reforming Cluniacs when they became too lax and lost their reforming zeal. Unless noted, the Cistercians are closer to the Benedictine ideal, following the rule as closely as possible and not adopting the unique features of the Cluniac order despite their origins in that movement. A small point, but one worth noting, is that the Cistercians wear white and are known as the "White Monks," whereas the Benedictines and Cluniacs are called the "Black Monks."
 
@@ -3673,12 +3673,12 @@ As well as Saint Bernard, Saint Malachy of Armagh, Saint Almeric, and Saint Step
 
 While the Dominican friars are gaining dominance in this field, the Cistercian monks have always been important in the fight against heresy, leaving their monasteries to preach to the laity about error and heresy. They play a vital role in opposing the Cathar heresy in the Languedoc, and continue to collect and read questionable books in order to root out heresies.
 
-### *The Corrupt Cistercians*
+### The Corrupt Cistercians
 
 The Cistercians, with their retreat from the world, rapidly increasing wealth, and powerful friends in the military orders,
 
 
-## *The Three Ages of the World*
+## The Three Ages of the World
 
 Joachim of Flora taught that God dealt with the world in three dispensations, or ages. The first age was that of God the Father, and was marked by the Jewish Law and the covenant with Abraham, Moses, and the prophets. That age passed with the coming of Jesus Christ, which ushered in the age of the Son when the Gospel and the Church ruled over man. Now, however, the end of that age is almost upon the world, and in these end times the birth pangs of the new age can be discerned. The next age will be the Age of the Spirit, where spiritual illumination will fall upon men and women who have no need of the Church, for they will be guided by the Divine light and wisdom of the Holy Spirit. The Church has become degenerate and corrupt, and the age to come will sweep it away and be ruled by a spiritual order of the just, who appear to be monastic.
 
@@ -3713,7 +3713,7 @@ Far from rejecting the world as corrupt, Tino teaches that one should celebrate 
 
 So this is Tino's goal, to immanentize the eschaton and bring about the end times, along with a new utopian age of love and peace ruled over by his order of spiritual mystics, the Illuminati, which is hidden within the Cistercian order. In the twenty years since he began he has made astonishing progress, far more than even he could have predicted, in converting abbots and hence houses all over the Cistercian order to his beliefs. Hundreds of monks are now loyal to his ideals, and many are receiving confirmatory secret visions and revelations of their own.
 
-#### *The Church*
+#### The Church
 
 There are three degrees of initiation into the group, though these are not formal ranks as in a mystery cult. The lowest group is those monks who have been exposed to the teachings of Joachim, accept the idea of the coming end of the age, and believe that the institutional Church is corrupt. Many are fervent disciples of the second group, who comprise those who have had a mystical illumination, and who have experienced visions and prophecies of events to come. This group has already cast off the shackles of the Church's teaching, and feels liberated enough to break their vows, scorn the symbols of Ecclesiastical office, and work towards the end of the age and ushering in of the Age of the Spirit. They secretly commit venial sins to demonstrate their freedom and state of grace.
 
@@ -3721,7 +3721,7 @@ Finally there is the inner circle, who meet in the castle of a sympathetic noble
 
 A few of them have noted the similarity in name between Joachim's first monastery, Corrazo, and Chorazon, the city where it is traditionally held the Antichrist will be born. It was this fact that first alerted Tino to the realization that Joachim was an Antichrist; in a manner typical of the man, he immediately took the idea on board and adjusted his theology to fit. Some of his disciples have now performed the black pilgrimage to the ruins of Chorazon in the Holy Land, seeking spiritual visions, and have received further revelations supporting their new beliefs. Recently they have been instructed that the disciples of Saint Francis, the Franciscan Friars, should be recruited subtly into the plan, and some
 
-## *Sample Characters*
+## Sample Characters
 
 tentative connections have been made.
 
@@ -3737,14 +3737,14 @@ The following character stats are provided to help storyguides integrate a corru
 
 **Virtues and Flaws:** Diabolist; Senior Clergy; Ceremony, Debauchery, Diablerie, Educated, Enticer of Multitudes, Great Communication x 2, Improved Characteristics, Incantation, Inspirational, Psychomachia; Corrupted Abilities, Diabolic Past, Dark Secret (Infernalist), (False) Visions, Palsied Hands, Plagued by Supernatural Entity,
 
-## *A Note on the Illuminati*
+## A Note on the Illuminati
 
 The term illuminati historically derives from the followers of Joachim of Flora. If players in your saga are likely to link it with later connotations and uses, such as modern conspiracy theory,
 
 Adam Weishaupt's Bavarian Illuminati, or Nesta Webster's paranoid writings, it is probably better to use the term Joachimite, or the slightly anachronistic term Brethren of the Free Spirit.
 
 
-## *The Demon Jaevert*
+## The Demon Jaevert
 
 **Order:** Duke of the Deluders (Watchers) **Infernal Might:** 40
 
@@ -3821,7 +3821,7 @@ The demon behind this elaborate deception is Jaevert, Duke of the False
 
 Millennium. Jaevert does not create these heresies, but for centuries wherever a false prophet has announced the end, Jaevert has gained influence and meddled to ensure false doctrines are taught, false hopes are raised, and then they're dashed resulting in cynicism and loss of faith. He often appears to prophets and visionaries in the guise of an angel of light, leading them into corruption and ultimate despair and damnation.
 
-## *The Vallumbrosans*
+## The Vallumbrosans
 
 One of the smaller orders in Mythic Europe, the Vallumbrosans can be found in the Tribunals of Rome, Iberia, Provencal, Normandy, Rhine and the Greater Alps, but the majority of their monasteries are on the Italian peninsula. Founded in the early 11th century, the name derives from "shadowy valley," Vallombrosa, the motherhouse that is located in the mountains twenty miles from Florence.
 
@@ -3829,7 +3829,7 @@ Saint John Gualbert was the founder, and his story is well known. When one of hi
 
 As with most successful new monastic orders, the Vallumbrosans were reacting against the laxity of Benedictine life, and were far more austere and strict in their application of the rule. So much so, in fact, that they failed to attract many novices, and it was only after the original severity was slightly tempered that the Vallumbrosans began to found new monasteries and spread. The order appeals to the extremely ascetic, some would say masochistic. This has given them a tremendous reputation as spiritual supermen, though from the beginning there has also been controversy and rumors of something wrong with the order.
 
-### *What Makes the Vallumbrosans Different?*
+### What Makes the Vallumbrosans Different?
 
 The Vallumbrosan order is quite distinct in many ways, but like the other orders discussed in this chapter, it is based upon the Rule of Saint Benedict. The differences and unique points are briefly outlined here. The most visible aspects are their tawny brown habits and that Vallumbrosans are never encountered outside their monasteries, apart from abbots who are found occasionally wherever the pope is.
 
@@ -3853,7 +3853,7 @@ not take the vows. There are a few Vallumbrosan nuns, but they live in a dwellin
 
 Vallumbrosans are a rigorously enclosed order, who never leave their monasteries under any circumstances. The only exception is that the abbots travel about on monastic business, and often can be found around the papal court. Even the lay brothers are excluded from the chapter and chapel of the full monks, who live lives of almost total seclusion. Visitors are discouraged and no guest quarters are provided, though the lay brothers will put up guests on the monks' behalf, outside the monastery walls. Communication with friends and families is severely discouraged.
 
-## *If the Vallumbrosans are Corrupt*
+## If the Vallumbrosans are Corrupt
 
 It may be tempting to have the Vallumbrosans as the corrupt order, simply because they are a small group whose secretive ways do attract controversy, and who are unpopular in some clerical circles. This is rooted in events in the second half of the 11th century, which are probably little known 150 years later, unless the characters research the history of the order. In the middle of the 11th century a scandal erupted in Florence when it became clear that certain prominent Churchmen were buying and selling Ecclesiastical positions — the sin of simony. An anti-corruption party formed, and the monks of Vallombrosa headed it, led by one monk named Peter. Fighting broke out between the two factions, and the Vallumbrosan monastery of San Silvi was burned down. Since that time fires have been a common problem for houses of this order, and some suspect a curse, yet in fact such fires are usually started by novices breaking under the
 
@@ -3861,7 +3861,7 @@ When the Bishop Peter Mezzobarbo demanded his accusers face trial, Saint Robert 
 
 strain.
 
-### *The Demon Varriar*
+### The Demon Varriar
 
 **Order:** Lord of the Avengers of Evil
 
@@ -3937,16 +3937,16 @@ deception is Varriar, Lord of Discipline. When passing in human form he dresses 
 
 Abbot Curtaigne moves freely among the order's houses, but his influence extends far beyond. Wherever he can promote masochism and false pride in suffering in monks, and in every monastery where just spiritual authority is replaced with sadism and brutality, Varriar can be found, often in human form as a visiting guest, subtly encouraging these horrors. Note that Varriar is determined that none should die as a result of privation and the torturous penances inflicted, as that would make them martyrs to the faith. Rather, Varriar always aims to break the monks' spirit, and cause them to curse God and rebel.
 
-## *Chapter Seven*
+## Chapter Seven
 
-# *The Knights Templar*
+# The Knights Templar
 
 The Poor Knights of the Temple of Solomon are a group of warrior monks whose pledge to defend Christendom has led them to become one of the most powerful orders in Mythic Europe. In the 13th century, the Order of the Temple has over 7,000 knights, brother-sergeants, officials, and priests, and more than 800 castles, preceptories, and chapterhouses. They stand above lay and clerical authority alike, answering to the pope alone. In Mythic Europe, the Knights Templar are pious monks, bankers, builders of temples and fortresses, diplomats and advisors, merchants and land-owners, and defenders of the Holy Land.
 
 This chapter details the history and organization of the Poor Knights, and advice on how to play a Templar character. It also provides some guidelines on adapting the information to play members of other military orders.
 
 
-## *The Poor Knights*
+## The Poor Knights
 
 The story of the Templars begins in Jerusalem, following the Holy City's bloody capture. Nine knights led by Hugh of Payns and Godfrey of St-Omer proposed a community of knights to protect the pilgrims traveling to the Christian sites in the Latin kingdoms.
 
@@ -3959,7 +3959,7 @@ Land. The influential Bernard of Clairvaux was instrumental in gaining the Templ
 
 Pope Innocent II issued a papal bull of privileges in 1136, which declared the Templars be "regarded especially as part of God's knighthood." This bull, known as the *Omne datum optimum,* established the new Knights Templar as exempt from all authority except that of the papacy itself, as well as giving them the right to have their own priesthood.
 
-## *The Fifth Crusade*
+## The Fifth Crusade
 
 The Fifth Crusade began in 1217 and ends 1221. Its main target is Egypt, the seat of Muslim power in the Middle East.
 
@@ -3967,11 +3967,11 @@ It was not until after Innocent III's death in 1216 that his constant planning f
 
 In 1218, the assembled armies sailed from Acre to Damietta. A year later, after the death of the Templar Grand Master, the
 
-## *Templars and Scandal*
+## Templars and Scandal
 
 The Templars are unique among the monastic orders in being free of scandal. The strict discipline and rule of the Templars means that most infractions and complaints are heard and dealt with internally. They are relatively free of rumors of womanizing, gambling, and drinking, especially when compared with the scandals that beset other orders, such as the Dominicans, Franciscans, Teutons, and Hospitallers. Similarly, there are no scandals regarding homosexuality, as there were with the Hospitallers and other monastic orders.
 
-## *The Order Ends*
+## The Order Ends
 
 If your saga follows history, the Templars continue to grow in power, influence, prestige, and wealth throughout the 13th century and very early 14th, until 1307. In that year, the French king arrests all Templars in his domain, and subsequently many Templars confess to heresy and blasphemy. In 1312, the pope dissolves the Knights Templar; most brothers join other crusading orders or become monks.
 
@@ -3983,7 +3983,7 @@ By 1220, the crusade is in danger of fall-
 
 ing apart, and the few remaining crusader strongholds in Palestine are under increased pressure. Money is running low and German forces have not yet arrived. In July 1220, a delegation of Templars and Hospitallers carries Pope Honorius III's financial contribution to the Fifth Crusade from Rome.
 
-## *The Templars and the Crusades*
+## The Templars and the Crusades
 
 The Templars were one of three major standing crusading armies, which came to the aid of the Christian rulers of the Holy Land, and later aided Christian kings' efforts to recapture Jerusalem.
 
@@ -4029,13 +4029,13 @@ also a common practice in other religious orders). The Templars then receive som
 
 Donations are made by all kinds of people from all walks of life — from a few coins, small parcels of land, a horse, or armor, to tracts of land, holdings, farms, and even villages, as well as tax exemptions.
 
-## *Templars in England*
+## Templars in England
 
 Since the first visit by Hugh of Payns to London in 1128, the Templars have had a chapterhouse in London. The order received the patronage of powerful and influential lords. They were entrusted with maintaining several castles for Henry II during marriage negotiations, and successfully persuaded Thomas Becket to accept the Constitutions of Clarendon. Under King John, the Templar Commander Aymeric of St. Maur was personal envoy for the king. Aymeric advised King John during his dispute with the pope, and advised him to sign the Magna Carta at Runnymede.
 
 In 1220, the Templars continue to hold a prominent position in the court of King Henry III. While the kingdom is effectively ruled by regents, the Templars continue to maintain the king's treasury, oversee his navy, and act as the king's almoner (official responsible for distributing charitable donations to the poor). They have also recently lent the crown a great deal of money, to help stabilize the rule of the young king. The influential Aymeric has been replaced by Alan Marcell, who is one of the king's chief military and
 
-### *Templar Endowments*
+### Templar Endowments
 
 The Templars have a grand history of endowments from the lords of Mythic Europe, and rapidly became one of the wealthiest organizations in the West. From the mid-1100s, the Templars developed an extensive network of property.
 
@@ -4043,7 +4043,7 @@ Since the Council of Troyes, kings, dukes, and barons have donated vast sums of 
 
 Indeed, it is common in Mythic Europe for a dying noble to "give" himself to the order in the last few days of his life, so as to do penance for his sins (this was
 
-## *Grand Masters of the Temple of Solomon*
+## Grand Masters of the Temple of Solomon
 
 Hugh of Payns (1119-1136) Robert of Craon (1136-1149) Everard of Barres (1149-1152) – retired Bernard of Trémélay (1152-1153) Andrew of Montbard (1153-1156) Bertrand of Blanquefort (1156-1169) Philip of Nablus (1169-1171) – retired Odo of Saint-Amand (1171-1179)
 
@@ -4058,7 +4058,7 @@ The English province of the order holds land throughout England — in Essex, Ke
 
 In the future (if your saga follows history), the Templars gradually fall out of favor with King Henry III, and by the 1250s they are replaced in most of their positions by Hospitallers, who are generally seen as more educated and better administrators.
 
-## *Templars in France*
+## Templars in France
 
 The Templars in France are at the centers of power, and own and administer huge swathes of land and garrison enormous castles. In Paris, the Temple acts as the official treasury of King Philip II, taking in receipts of taxation and organizing payments to officials, soldiers, and so on, as well as storing important documents, such as treaties and wills. When he is in Paris, the king and his family often prefer to stay in rooms at the Paris Temple. For more information about the Paris Temple, see *The Lion and the Lily*, page 80.
 
@@ -4068,7 +4068,7 @@ Many of the most senior Templars are personal friends of the king and other lord
 
 The Templars, particularly the many brother-sergeants, are a part of the growing class of literati taking over the administration of the royal government. The Templars are seen as loyal, godly, honest, and lacking in self-interest, not to mention possessing marvelous military skills. In France, they act almost as an arm of the royal government.
 
-## *Story Seeds*
+## Story Seeds
 
 #### **The Templars' Helper**
 
@@ -4089,13 +4089,13 @@ Does the Code of Hermes recognize the archmage's decision? As a confrater, is he
 Before he retired, the former English Commander Aymeric of St. Maur ordered the construction of a new, massive mill in London. Now it is nearing completion in record time, and when constructed will be one of the largest sources of wealth for the Poor Knights. For the past year, Templars and their servants have been seen trekking around England's mythic sites, many of which are seasonal vis sources, and many seem to have been harvested, possibly by the Templars. Have the Templars discovered a way to sense and use vis to help in the construction of their mill, or are they being assisted? Rumor has it that one covenant's vis sources have remained untouched.
 
 
-## *Templars and Demonic Wealth of Nations*
+## Templars and Demonic Wealth of Nations
 
 The great stores of wealth protected by the Templars are an ideal source of stolen wealth for the demonic False Gods (see *Realms of Power: The Infernal*, page 37). While Templar storehouses are often targets of the False Gods, they receive some protection thanks to the Dominion that shrouds their preceptories, as well as intervention by patron saints and guardian angels. The relics that are often stored alongside mundane treasurers also ward against greedy demons.
 
 They administer many castles on behalf of the king and other great nobles, typically in trust or when a fort is disputed between heirs or rivals, and periodically act as intermediaries between warring nobles in France, with the authority of the king.
 
-### *Templars in Iberia*
+### Templars in Iberia
 
 The Templars have been involved in the Christian Reconquista of the Iberian Peninsula since the Second Crusade, when Christians in Iberia used the opportunity to attack and depose their Muslim rivals, and begin repopulating the area under Christian rule. In addition to supporting the Reconquista with direct military aid, the Templars aid the local Iberian nobles by colonizing marginal lands too dangerous or risky to be developed by the lords themselves. The Templars build or expand fortifications in these areas, and attract settlers and farmers into areas under great risk of attack by Muslim raiders and other bandits. Despite their many domains, the Templars are not present in the Iberian Peninsula in great numbers. Their real strength is their ability to mobilize at a moment's notice and remain in the field for a long time, unlike the secular nobles in the region, who struggle to field an army for more than forty days or during harvest time.
 
@@ -4113,7 +4113,7 @@ If your saga follows history, in the near future there will be an attempt by Afo
 
 In Aragon, the Templars have been present since 1130, supporting Ramon Berengeur II, Count of Barcelona and Marquis of Provence. Ramon himself became a confrere of the Templars, and gave the Poor Knights the castle of Granyena. Other lords in the area made donations,
 
-## *Story Seeds*
+## Story Seeds
 
 #### **Stolen Wealth**
 
@@ -4134,7 +4134,7 @@ The Templars in Aragon are entitled to a tenth of all rents, a fifth of the boot
 
 If your saga follows history, under King James I of Aragon (1213–1276), the Poor Knights, Hospitallers, and native military orders play a vital role in the attempts to capture the Balearic Islands of Majorca and Minorca, and in Valencia. Although the Templar and Hospitaller masters sit on James' private advisory council, the Templar commander, Stephen of Belmonte, is far less close to King James than the Hospitaller commander, Hugh of Forcalquier.
 
-## *Templars in Germany and Eastern Europe*
+## Templars in Germany and Eastern Europe
 
 The Templars' role in Germany and the pagan lands of Eastern Europe is at its formative stage. The order has only just acquired its first significant holdings in Germany, in Thuringia and Austria, due to the patronage of those lords who participated in the crusades. The Templars also received some donations from the emperor, Frederick II Hohenstaufen, although not enough for the order to establish itself in the emperor's territories.
 
@@ -4145,7 +4145,7 @@ Many Christian lords in areas such as Lower Silesia, Poland, and Eastern Germany
 
 presence in these areas in 1220. In the next few decades, should your saga follow history, the Templars follow the Teutons into Eastern Europe, establishing preceptories and fortresses in Bohemia and Moravia at Templeštejn and Čejkovice, Prussia at Tempelburg and Łuków, as well as Hungary at Esztergom and Egyházasfalu. Their main role will be to protect Christian colonizers, who start to settle the great primeval forests of Hungary, Poland and Russia. Over these years, the Teutons are both allies and rivals.
 
-## *Templars in Italy*
+## Templars in Italy
 
 In central Italy, the Templars are particularly well established, possessing over twenty churches and preceptories in the area. Some of the Templar chapels are starting to become sites visited by pilgrims, and most of the Templar chapterhouses in Italy are attractively decorated with frescos depicting victories in the crusades, aspects of Templar daily life, or images from saints' lives. Additionally, many of the churches throughout Italy receive funding from the Templars for renovations and repairs. These great Templar churches possess vast agricultural estates. If your saga follows history, by the 1250s and 1260s the Templars start to become prominent in the flagellant movement (a movement of pious Christians who believed that the Last Judgement was nigh and purged themselves of sin by publicly weeping and flagellating themselves), led by papal chamberlain and Templar Brother Bonvicino.
 
@@ -4156,7 +4156,7 @@ The Templar commanders in Italy often become embroiled in local disputes, especi
 A Templar representative is stationed at the papal curia in Rome semi-permanently, and he actively intervenes with the pope in the interests of the order. Debate is occurring at the general chapter as to whether the Templars should station a permanent ambassador with the pope.
 
 
-## *Templars in the Holy Land*
+## Templars in the Holy Land
 
 Since the recapture of Jerusalem by Saladin, the Poor Knights have lost most of their holdings in the Holy Land. Nevertheless, they have chapterhouses in all major towns in the crusader states, and occupy many fortresses. Many of the castles that they control in the Holy Land were given or sold to them because the Christian lord did not have the resources to garrison it himself.
 
@@ -4190,7 +4190,7 @@ the Latin rulers of Greece, they largely act as free agents. There are only a fe
 
 Overall, the area is not one of great concern for the Templars, and they have little time for Latin Christian disputes with Greek Christians. The local commander is seriously giving thought to selling back a lot of the land to local Greeks, rather than incur ill will over their occupation.
 
-### *Other Military Orders*
+### Other Military Orders
 
 Mythic Europe has myriad military orders of crusading monks. While they all have a unique history and culture, most are similar to the Templars in organization and mission. Only the Hospitallers come close to rivalling the Templars in size, power, influence, and wealth. The smaller military orders play a supporting role to the Templars in the Holy Land, and are minor rivals for donations in Europe.
 
@@ -4202,7 +4202,7 @@ The Order of the Knights of Saint John — known as the Hospitallers — began a
 
 The Hospitallers are mostly drawn from Spanish and Italian knights, whereas the Templars draw most of their recruits
 
-## *Story Seed: The Tomb Raiders*
+## Story Seed: The Tomb Raiders
 
 Troupes whose sagas are located in the Tribunal of Thebes may find that characters who seek out long-lost treasurers in ruined Hellenic temples are racing not only against rival Seekers, but also a team of tomb-raiding Templars. The commander of the Latin Kingdoms has a special team lead by Stephan of Tusculum, a ruthless Templar brother-sergeant on the lookout for any and all mystic and Divine relics. Stephan is an expert on the occult, and has many contacts across Greece and the Levant.
 
@@ -4249,11 +4249,11 @@ Formed in Acre to care for the poor and sick and bury the dead after the Third C
 
 If your saga follows history, the order will be reformed in 1228 by the Bishop of Winchester, Peter of Roches, who turns them into a crusading order based on the Teutons. They gain papal privileges in 1258 and are granted holdings in England, where the king is their patron. Even after 1228, their role as a military order is never prominent, although knights do join and fight in the Holy Land.
 
-## *Templar Organization*
+## Templar Organization
 
 The Knights Templar are organized according to a monastic rule, making their structure similar to other monastic orders. At the top of the hierarchy sits the grand master based in Acre, the Templar headquarters since 1191.
 
-## *Story Seeds*
+## Story Seeds
 
 #### **Overturning the Will**
 
@@ -4273,7 +4273,7 @@ A Genoese ship commissioned by the Order of Saint Thomas to ferry the preserved 
 
 
 
-## *Chapters and Provinces*
+## Chapters and Provinces
 
 At a regional level the Templars organize into provinces, as a part of which all full members meet in chapter meetings.
 
@@ -4291,7 +4291,7 @@ All general chapter meetings are held in the strictest secrecy, and it is at the
 
 Outsiders are sometimes permitted to address the general chapter meetings, although typically these would be only the
 
-#### *The Church*
+#### The Church
 
 most prominent of diplomats or representatives, such as papal representatives or the spokesmen of kings; or alternatively, specialists brought in to give advice.
 
@@ -4309,7 +4309,7 @@ There are broadly three options, and elements from each can be combined. Additio
 
 **The Mundane Chapter**: Chapter meetings are similar to the courts of lords and bishops, in that they consider complaints and pleas from applicants from across the Templars' holdings. They run similarly to board meetings in
 
-## *Designing a Templar Priory*
+## Designing a Templar Priory
 
 The Diocese chapter in this book and the *Covenants* supplement have guidelines for describing churches using the covenant rules. The rules there are more than adequate for describing a Templar priory or chapterhouse.
 
@@ -4319,7 +4319,7 @@ modern businesses; brothers sit around great tables, servants report from the gr
 
 **The Dark Chapter**: The Templars are Infernally corrupted and their chapter meetings see dark rituals and worship of diabolical idols, severed heads, and other devilish figures. Prominent Templar officers desecrate the cross and the eucharist.
 
-### *Ranks and Titles*
+### Ranks and Titles
 
 The bureaucracy of the Templars is large and expanding rapidly. Although the rule sets out a number of ranks and titles, many more are created and discarded as the need arises. Local areas can have unique ranks not present in other provinces, while special titles can be created for specific missions and tasks, only to be abolished once the job is complete.
 
@@ -4346,7 +4346,7 @@ The grand master is involved in a major dispute with Frederick II, the Holy Roma
 
 A great proliferation of offices exists within the Knights Templar. Directly beneath the grand master are four great officials: the **grand commander** (formerly known as the seneschal), the **marshal**
 
-### *The Grand Master*
+### The Grand Master
 
 #### **The Grand Master's Commanding Aura**
 
@@ -4371,7 +4371,7 @@ The grand master's seal is a Divine relic, conferring great spiritual authority 
 Each commander and great officer has his own seal. Some are unique to the individuals who hold them, while others are associated with the office. For example, the seal of the Templar Master of England has the image of the Angus Dei (the Lamb of God). Some seals may possess supernatural powers or contain relics, although only the grand master's seal is a holy relic by its own nature.
 
 
-## *Story Seed: Independence*
+## Story Seed: Independence
 
 Rumors abound among those who keep tabs on papal politics that Grand Master Peter has little regard for Pope Honorius III. Long independent of episcopal and secular authority, the Templars' leader and his close confidants are rumored to dream of true independence from all earthly authority, including that of the pope himself.
 
@@ -4394,7 +4394,7 @@ As the military commander of the Poor Knights, the marshal is responsible for th
 The draper holds the responsibility for the clothes and linens of the order — a seemingly minor role, but one that comes with great power and authority. The draper has the power to remove any possession from any member of the order, including full brother-knights, if he believes that the person has more than is proper or if the possession is ostentatious. The draper ensures that all Templars are dressed appropriately — "decently" as the Templar Rule deems it.
 
 
-## *Arabic-Speaking Templars*
+## Arabic-Speaking Templars
 
 It is not uncommon to find Templars who speak Arabic or Syrian, or other Muslim tongues. Nothing in the Templar Rule forbids it, but it is far from the norm. Templar commanders — most noticeably the grand master — more regularly employ translators, many of whom may be Muslims themselves. This is a frequent practice in the Holy Land, and few crusader lords would raise an eyebrow at this, although it is rather
 
@@ -4448,7 +4448,7 @@ Despite the religious prohibition on contact with women, the Templars regularly 
 
 This position, which is still supported by most of the leadership of the order, costs the Templars a great deal, as women often bring money, influence, and other valuables when they join a religious order.
 
-#### *The Church*
+#### The Church
 
 #### **Confreres and Consoeurs**
 
@@ -4456,7 +4456,7 @@ A great number of lay-folk join the order as associate members, taking the vows 
 
 Other associates are men who take temporary vows for the duration of a pilgrimage, or women whose husbands are full Templars. Finally, the order also houses other religious people, such as hermits and anchoresses living in separate cells in the commandery, but who are cut off from other residents.
 
-## *The Templar Faith*
+## The Templar Faith
 
 *Not unto us, O Lord, not unto us, but unto Thy Name be the Glory.*
 
@@ -4464,13 +4464,13 @@ Other associates are men who take temporary vows for the duration of a pilgrimag
 
 Although the Templars take monastic vows, strictly speaking they are not monks. Unlike monks who live in an enclosed house and fight spiritual battles, the Templars actively live in the world,
 
-## *Templar Chaplains and Petitioning*
+## Templar Chaplains and Petitioning
 
 This book introduces new activities for clergy, including petitioning (see the Chapter 5: The Diocese). Rather than petitioning bishops or other priests, Templar clergy petition their commanders, the Templar grand master, or the pope. They can also petition local bishops, but this is not necessary. Brother-priests may, without reference to any outside authority, perform any action with an Ease Factor of 18 or less, although such actions may only refer to the members of the order, its lands, or its servants.
 
 For example, a brother-priest could authorize the exhumation of the body of a dead Templar, or anybody buried on Templar lands, but could not exhume a body buried in a non-Templar church. Similarly, a brother-priest could refuse communion to anyone in the Templars' own chapels, or grant it, but could not forbid communion given by a non-Templar priest in a non-Templar church. Templar chaplains must petition the pope or bishops for the consecration of a saint.
 
-## *Story Seed: The Miser*
+## Story Seed: The Miser
 
 In a remote area of Mythic Europe, perhaps not far from the character's covenant, a retired Templar called Nicholas has lived for many years on a pension provided by his order. He is entitled to receive a small amount of food, a servant, clothes, and a small annual stipend. Food and clothes are provided by local farmers, who are paid each year by the Templars. Rather than spend any of his stipend on himself, he saves up every penny to give back to the Templars. Every few years, Nicholas travels to the nearest Templar chap-
 
@@ -4499,7 +4499,7 @@ The Templars claim to possess a great number of relics. In both the Levant and t
 The Templars display relics during periods of crisis. During droughts, the Temple in Acre carries out one of their most precious relics and parades it through the streets: a bronze cross made from the bathtub in which Christ bathed. This cross possesses powerful healing qualities and often makes it rain. Many of the Templars' other powerful relics are stored in Acre, including reliquary heads of saints — the preserved skulls of prominent saints, stored in gold, silver, and jewel-encrusted casings. Another relic is a cross made from the bronze bowl used by Christ to wash the feet of the apostles.
 
 
-## *Trained Group Combat*
+## Trained Group Combat
 
 Templar brother-knights and brother-sergeants who train together for a season are considered a trained group for the purpose of combat (see **ArM5,** page 173). Although the military training that Templar brothers receive is similar across Mythic Europe, without a season of training together, they cannot form trained groups
 
@@ -4507,13 +4507,13 @@ Kept within a crystal phial, the Templars possess a small portion of Christ's bl
 
 In the West, the Templars also possess a bewildering array of relics. In the Paris Temple, the Poor Knights keep the silvercovered skull of Saint Ursula of Cologne, and many of the relics of the 11,000 virgins martyred with Saint Ursula. Many lords store their relics with the Templars while on pilgrimage or crusade. They also allow borrowers to use relics as pledges for loans.
 
-## *Daily Life*
+## Daily Life
 
 The Templar's day differs little from that of a Benedictine monk, although the rule allows for the fact that Templars need to be kept in fighting readiness. They follow the strict Templar Rule and owe absolute obedience to the orders of the grand master or their local commander. Their fortresses are designed internally as monasteries. Every aspect of the life of the knight is regulated and regimented. Particular emphasis is placed on conduct on the battlefield.
 
 Although the Templar Rule is strict, and their reputation for discipline is well deserved, the Templars are notably pragmatic. They regularly make exceptions and concessions for brother-knights and sergeants, especially for those Templars
 
-## *Story Seed: The Unfailing Banner*
+## Story Seed: The Unfailing Banner
 
 A sahir traveling with a contingent of Muslim warriors stumbles across a small band of Templars flying the *beauseant*. Knowing that the Templars will flee in the face of a much larger force, but wanting to take the opportunity to kill as many of them as he can, the sahir orders one of the *jinn* in his command to hold the Templar banner aloft, so that the Templars fight to their deaths.
 
@@ -4523,7 +4523,7 @@ The requirements of functioning day-to-day mean that Templars regularly interact
 
 Templars spend all their spare time preparing for war, mending or tending to arms and armor or horses, or if all of that is done, they are to whittle tent-posts or pegs or anything else that would be useful for war.
 
-# *Calling on*
+# Calling on
 
 *God's Aid*
 
@@ -4537,12 +4537,12 @@ The Templars have established military tactics, which are recorded in their rule
 
 Another key part of the Templar's warfare is the famous black and white banner. This has both tactical and symbolic importance. While the banner is raised, no Templar is permitted to retreat. It also represents the center of the order's troops, and is the place to which the troops withdraw to regroup and charge again. Its loss is a symbolic disaster —
 
-### *Templar Prisons*
+### Templar Prisons
 
 The Poor Knights keep secret prisons across Mythic Europe. Mostly, these prisons are used to house brothers who are being punished, but they can also keep hostages and other prisoners who local lords may want to disappear. Those condemned to a secret Templar prison are never seen again.
 
 
-## *Templar Saints and Festivals*
+## Templar Saints and Festivals
 
 The Templars celebrate an array of saints and feasts, which are laid out in the rule and often see the Poor Knights and their senior officers performing menial and humbling tasks, such as washing the feet of the poor and homeless, distributing food and money, or fasting. Major feasts and festivals include Easter, the Nativity, the Annunciation, the Ascension, Pentecost, the Exaltation of the Cross, the Epiphany, All Saints, the Assumption of Our Lady, the Nativity of Our Lady, and the Finding of the Holy Cross. They also commemorate many saints' days. These feasts and fasts are observed even during war-time.
 
@@ -4550,7 +4550,7 @@ though spares are kept by the gonfanier — and the brothers prefer to die rathe
 
 The Templars are also very familiar with siege warfare, and possess impressive siege engines, artillery, and other machinery aimed at tearing down or overcoming fortifications. During the Fifth Crusade, they have three great trebuchets as well as siege-towers on their ships outside Damietta.
 
-## *Joining the Order of the Temple*
+## Joining the Order of the Temple
 
 In 1220, there is no written procedure for becoming a member of the order, although there is an established tradition (by 1260, this tradition will be formalized in the rule).
 
@@ -4567,7 +4567,7 @@ Children — called novices — are often welcomed by the Templars, who need a s
 
 The Templars also very occasionally take in orphans or children suffering from great poverty in the expectation that they will join the order when they became adults. However, they prefer to direct such children to monastic orders, or to the Hospitallers.
 
-## *The Templar Rule*
+## The Templar Rule
 
 The Templar Rule is one of the most important documents owned by the order. A copy of the rule, in French and translated into Latin, exists in most Templar chapterhouses. The rule lays out in intricate detail the organization, holdings, hierarchy, faith, feast days, and penances of the order.
 
@@ -4587,7 +4587,7 @@ The Templar Rule is an extremely austere set of regulations, and is generally co
 
 The secrecy of the Templars is legendary, and most of their communal activities take place in private, behind closed doors. Templar brothers take part in religious and other ceremonies every day. Many do not know the exact purpose of the activities they are participating in, as most of the ceremonies are conducted in Latin.
 
-### *Relations with Outsiders*
+### Relations with Outsiders
 
 The Poor Knights fight for Christendom, and therefore necessarily have many and complex relations with individuals and groups outside the order.
 
@@ -4611,7 +4611,7 @@ Most of the great nobles of Mythic Europe have excellent relations with the Temp
 
 The Templars see lords, knights, and nobles as their key sources of donations, lands, and recruits, so most commanders try to keep good relationships with local lords. Similarly, the great wealth and power, and the lending capacity, of the Templars means that most lords want to keep the Poor Knights onside. Despite this good will, the Templars often create problems for local lords through their unilateral commercial activities. In London, for instance, the Templars have caused a lot of trouble for local fishermen and traders near the New Temple on the Thames by causing a blockage on the river to power their mill.
 
-## *Woolen Cords*
+## Woolen Cords
 
 Most Templars wear woolen cords around their waist in place of a belt, as a sign of chastity. Many of these woolen cords are thought by the Templars to be sacred objects, invested with holiness at the Temple of the Holy Sepulchre. Those Templars who have not travelled to the Holy Land ask pilgrims to touch or wind their woolen cords
 
@@ -4634,7 +4634,7 @@ The Templars as an order have little interest in wizards or magic. Individual co
 
 It is entirely possible that the Templars have made loans to Hermetic covenants, or even possess Hermetic magic devices as payment or securities. Hermetic magi
 
-## *How Much Do the Templars Know About Magi?*
+## How Much Do the Templars Know About Magi?
 
 The attitude of the Templars toward the Order of Hermes is dependent on your saga's assumptions on how open or secretive the two orders are. A highly mythic saga could have mystic Templars working alongside Hermetic magi, or as rivals for Mythic Europe's magical resources. An historically accurate saga would see the Templars as primarily a military organization with no interest in the Order of Hermes. In between these two, individual Hermetic magi would have relationships with individual Templars, with varying levels of communication, cooperation, and conflict.
 
@@ -4649,13 +4649,13 @@ With all the rules and restrictions on Templar conduct, it may seem that they ar
 
 who are prominent in mundane society — especially those with an interest in the crusades — may even seek out the advice and counsel of the Templars.
 
-## *Templar Characters and Stories*
+## Templar Characters and Stories
 
 Templar characters can fit into a wide variety of stories and sagas. Members of the Templars come from a diverse range of social roles, backgrounds, and nations. Nothing in the Templar Rule prevents a Templar character from being associated with a Hermetic covenant, although like any character with outside loyalties there is potential tension.
 
 Additionally, Templar characters could be tasked with a specific mission involving the troupe's covenant — allowing them some latitude with the strict Templar Rule, requirements of communal life, and interaction with outsiders. Although Templars are not allowed to have private correspondence, they can write letters and correspond with outsiders as a part of their official responsibilities.
 
-## *Templars as Crusaders*
+## Templars as Crusaders
 
 Templar characters involved in stories about the crusades are likely to find themselves at the center of action and intrigue. There are several permanent garrisons of Templars in Acre and other crusader outposts. Templar knight characters could be advisors to crusader lords or even the pope's representatives, or in direct conflict with them over diplomatic and military strategy.
 
@@ -4665,11 +4665,11 @@ For sagas set around the events of the Fifth Crusade, Templar characters could b
 
 Templar crusaders in Iberia could also find themselves allied to Hermetic magi who see the Reconquista as a just war; likewise in the Holy Land.
 
-## *Templars as Bankers and Merchants*
+## Templars as Bankers and Merchants
 
 Stories and activities laid out in the supplement *City and Guild* are good sources for Templar characters with a mercantile
 
-## *Templar Banking, Letters of Credit & Insurance*
+## Templar Banking, Letters of Credit & Insurance
 
 The Templars have instituted a system of deposits and loans. This allows Christian pilgrims in a particular area to leave their wealth in the care of the local Templars. In exchange, they receive a letter from that priory stating the value of the deposit. The letter is encrypted using a cypher, and there are other features so that the Templars can ensure authenticity.
 
@@ -4684,7 +4684,7 @@ A Templar character could be an excellent companion character for a covenant tha
 
 Templar characters could also be significant players in the fairs and markets across Mythic Europe. Especially in England and France, Templar characters could be involved in running the fairs, selling their wares, or issuing letters of credit.
 
-## *Templars as Advisors and Diplomats*
+## Templars as Advisors and Diplomats
 
 For sagas with a political or diplomatic focus, Templar characters fit in naturally at any mundane court — including Muslim nations. Their vows of loyalty to the grand master and pope mean that they are considered trustworthy and neutral in many situations, so Templars often act as diplomats and negotiators between nobles in conflict. The rich and powerful could seek out the advice of a Templar character with a reputation for giving sage counsel.
 
@@ -4692,7 +4692,7 @@ Templar characters focusing on being the advisors to the magnates of Mythic Euro
 
 Likewise, sagas focusing on the Church will find Templars in episcopal and papal courts, or even important monasteries.
 
-## *Templars as Spies*
+## Templars as Spies
 
 For favored patrons, the Templars perform discreet services: writing encoded letters, secret orders, and messages, and engaging in espionage. Templar characters could be ordered to infiltrate Muslim cities and noble courts, or carry covert letters of excommunication from the pope — or even spy on Hermetic covenants.
 
@@ -4700,24 +4700,24 @@ Templars are exceptionally suited to the role of espionage, either in the servic
 
 Across Mythic Europe, Templar characters could be in disguise, act as spy-masters, or even be spies themselves. In this line of work, the Poor Knights spend a great fortune ensuring they get the best intelligence in the Holy Land and Iberia.
 
-## *Templars as Priests*
+## Templars as Priests
 
 The order contains within it a microcosm of the clerical orders, with its own ranks of priests. All brother-priests are ordained priests before they are admitted to the order, and they retain their Ecclesiastical rank, and may even be promoted by bishops or senior clergy within the order. Sagas with a Church focus could see a Templar brother-priest character as a regular visitor to the court of a bishop or abbot. Brother-priest characters could be useful allies to other religious characters, as they are exempt from local canon laws and episcopal authority. Brother-priest characters could fit into most Church-focused sagas.
 
-### *Templars as Lords*
+### Templars as Lords
 
 Sagas that involve the running of estates, or the stories that arise from the
 
 
 Templar characters could be either brother-knights or brother-sergeants, and as the owners of lands would possess most of the rights and privileges of a mundane lord: command over any serfs and the ability to mete out justice for minor crimes (major crimes such as murder or serious assault need a higher authority). Such Templar characters may be the only full Templars in the chapterhouse, with the other characters being non-religious or associate members.
 
-### *Templars as Sailors*
+### Templars as Sailors
 
 There have been Templar sailors and captains since the Second Crusade. Robert of Sabloel, before joining the order and becoming the grand master, had been King Richard of England's admiral and one of his most trusted vassals. Sagas set at sea or involving trade could include Templar characters as sailors (brother-sergeants or confreres), or as captains and admirals (brother-knights).
 
 In 1220, the Templars are starting to assemble their own fleet; a saga could involve the formation of that navy, as well as the frequent battles between the Templars and Muslim pirates. Hermetic characters with a reputation for nautical knowledge could be sought out by the Templars to aid them in building ships at their shipyards in Acre, navigating the pilgrimage routes between Italy and the Holy Land, or even commanding a ship.
 
-## *Templars as Treasure Hunters*
+## Templars as Treasure Hunters
 
 The Poor Knights have a voracious appetite for holy relics. Their principle aim in Greece is to acquire relics from
 
@@ -4727,11 +4727,11 @@ Templar characters can take the Wealthy Major Virtue, and also the Poor Major Fl
 
 the many churches across the war-torn area. Templar characters tasked with uncovering lost or mysterious relics could find themselves allied with Hermetic Seekers, scouring the Holy Land, Egypt, or Greece. Such Templar characters could travel incognito, and other characters (or even other troupe members) may not even know.
 
-## *Creating Templar Characters*
+## Creating Templar Characters
 
 Templar characters come from all walks of life, and are recruited to fill areas of need. Craftsmen, veterans, sailors, and mercenary captains from across Mythic Europe and the Holy Land are welcomed into the order. Most brother-knights are from the West — France, England, Italy, or Iberia — or are *poulains* — Syrian-born Westerners. The other brothers are more ethnically diverse, including Syrian, Armenian, and Greek Christians.
 
-## *Modified Templar Virtues*
+## Modified Templar Virtues
 
 The following virtues are modified to be Templar specific versions of the virtues that appear in *Realms of Power: The Divine*, page 92.
 
@@ -4749,7 +4749,7 @@ The character is a brother-knight in the Poor Knights of the Temple of Solomon, 
 
 The character is a chaplain of the Poor Knights of the Temple of Solomon,
 
-## *Templar Equipment*
+## Templar Equipment
 
 #### **Brother-Knights**
 
@@ -4773,7 +4773,7 @@ which has the same implications as the Priest Minor Virtue (**ArM5**, page 47), 
 
 The character is a member of the Poor Knights of the Temple of Solomon, but not a knight or a nobleman. He has sworn a lifelong vow of obedience, poverty, and chastity, but this may not be enforced as strictly for him as it would be for a brother-knight. He is answerable only to his superiors in the order and the pope. You may also take Martial Abilities during character generation. The character wears the red cross of the Templars on a black tunic. This Virtue is only available to male characters.
 
-### *New Templar Virtues*
+### New Templar Virtues
 
 The following are new virtues designed for Templar characters.
 
@@ -4810,7 +4810,7 @@ The character is technically a brotherknight or brother-sergeant for the Poor Kn
 
 The character is a commander within the Poor Knights of the Temple of Solomon and has authority over all aspects of the order in a province or preceptory. This Virtue also grants the Temporal Influence Minor Virtue, as the character has the ear of any important nobles or clergymen in the area. He also has access to the considerable wealth of the Templars, including any funds, lands, and resources, although he has no extra time. He may levy taxes and tithes over the lands he controls as if he were a landed noble or bishop, and charge service fees on monies he lends, and he may even act as a judge for minor lay crimes committed on his lands. Because of his high position, he is a wellknown figure and has a Reputation of level 3 in his area. He is expected to support the order's crusading efforts if he is in the West, and if he lives in the East he is be expected to participate directly. Should the grand master die and the character lives in the East, he has the right to participate in
 
-#### *The Church*
+#### The Church
 
 choosing a new grand master. This Virtue includes the effects of the Brother-Knight Virtue, and likewise can only be taken by male characters.
 
@@ -4826,7 +4826,7 @@ The character holds a position within the local hierarchy of the Poor Knights of
 
 A member of the Poor Knights of the Temple of Solomon, the character enjoys great respect and admiration among his fellow brothers. This may be because of a great act of heroism or piety, or because of the rank or station he possessed before he joined the order. He starts with a Reputation of level 3 within the Templars.
 
-## *New Ability*
+## New Ability
 
 The Templars have their own Organization Lore, as follows.
 
@@ -4834,24 +4834,24 @@ The Templars have their own Organization Lore, as follows.
 
 This Ability reflects knowledge and experience of the rule and regulations of the Poor Knights of the Temple of Solomon,
 
-## *Templar Ciphers*
+## Templar Ciphers
 
 The Templars have a system of encryptions and ciphers to protect their communications. Access to the ciphers is granted by the Organization Lore: Knights Templar Ability. Using the ciphers allows a Templar to write letters or messages that can only be read by someone with the cipher. If someone wants to decrypt the code without the cipher, the player must succeed in an Intelligence + Artes Liberales (Arithmetic) roll against an Ease Factor of 21.
 
 A Templar with an Organization Lore: Knights Templar Ability of 5 or more can attempt to decrypt the message, with an Intelligence + Organization Lore: Knights Templar roll against an Ease Factor of 12.
 
-### *Story Seed: Stolen Cipher*
+### Story Seed: Stolen Cipher
 
 The Templar ciphers are kept in special ledgers in most provincial commandries. Their existence is treated with the greatest of secrecy. The Templars would stop at nothing to maintain the secrecy of these ledgers or reclaim them if stolen. Possessing a ledger would allow its owner to forge Templar communications and letters of credit. There are many in Mythic Europe who would go to great lengths to possess one of these ledgers.
 
 
-## *Templar Sign Language*
+## Templar Sign Language
 
 While eating and carrying out numerous other tasks, the Templars are required to maintain absolute silence. As a result, the Templars have adapted the sign language used by the monastic orders such as the Cistercians and Benedictines to hand signals that can also be useful on the battlefield. However, the Templar sign language is very limited — only simple commands and requests are possible, such as asking for bread or salt at the dinner table, or signaling a charge.
 
 familiarity with important members of the order, information about its provinces, military strategy, and current activities, and insight into the ongoing goals and concerns of the Templars. This Ability also gives the character knowledge of the Templar sign language, allowing him to communicate simple messages in silence to other Templars. Finally, this Lore grants knowledge of the Templar's encryption ciphers. This Ability is normally available only to characters possessing a Virtue that grants membership of the Templars, although outsiders may possess it with the troupe's permission. **Specialties**: personalities, history, politics, tactics, sign language, a particular region. (General)
 
-## *Sample Characters*
+## Sample Characters
 
 Storyguides may use the following character stats to bring the Knights Templar into their sagas.
 
@@ -4938,7 +4938,7 @@ These are the traits of a young Templar brother-sergeant who has gained signific
 
 **Virtues and Flaws:** Brother-Priest; Magic
 
-#### *The Church*
+#### The Church
 
 Sensitivity, Student of the Divine; Proud, Raised from the Dead;\* Lecherous (minor)
 
@@ -4963,15 +4963,15 @@ Sensitivity, Student of the Divine; Proud, Raised from the Dead;\* Lecherous (mi
 Raised from the dead by the grace of a saint, this brother-priest joined the Templars after this miracle (which is the source of his Warping).
 
 
-## *Chapter Eight*
+## Chapter Eight
 
-# *The Franciscans*
+# The Franciscans
 
 Early in the 13th century, the Holy Spirit sent a challenge to the world through one particular individual — Francis, a merchant's son living in Assisi, Italy. Francis' response to God's call is making people in all walks of life, from the pope down, reconsider their relationship with God. His followers, and those of his cousin Clare, share the life of the poorest, supporting themselves by manual labor when possible, begging when it is not. They call themselves the Little Brothers (Friars Minor) and Poor Sisters, and live in humility, charity, and sympathy with nature, urging everyone, by their example, to re-examine their motives and actions in the light of the Gospels.
 
 Through the example of Francis and his followers, God seeks to remind people of the example set by the early Church, and so reduce selfishness and improve faith, hope, and charity, with the intention of saving souls. Anyone who wishes to live a truly Christian life must accept these challenges, or reconcile their conscience if they do not. Those who do not truly aspire to the Christian ideal, but like to appear to be doing so, must also decide how to approach these challenges.
 
-## *Franciscans in the Saga*
+## Franciscans in the Saga
 
 News of the new Friars Minor movement has spread very rapidly, so characters in sagas set anywhere in Mythic Europe have a good chance of encountering someone who has heard one of the Friars Minor preach. Characters may meet, or even be, friends or relations of one of the members of the new group. The friars themselves are keen travelers, so it is
 
@@ -4987,7 +4987,7 @@ He recruits followers from the nobility, bidding them give their wealth to the p
 
 He sends preachers out on foot, ignoring the rule on enclosure and stability
 
-## *The Challenges of Francis*
+## The Challenges of Francis
 
 of abode, and they preach to peasants in the vernacular. This is a challenge to the complacent, long-standing Benedictine monasteries, and to the authority and control exercised by the Church itself.
 
@@ -5012,12 +5012,12 @@ not unusual for characters in Italy, Spain, Portugal, France, Morocco, Syria, or
 
 Characters who hear the preaching of a charismatic, inspirational friar — even Francis himself — may well have an emotional response. This might induce them to change their habits, so as to become more charitable and pious. Such characters might be inspired to give away property, either their own or some belonging to the covenant, or to follow the preacher when he moves on, so as to hear more of his stirring words. In contrast, a character antagonistic to the Church might be roused to act against the preacher and stir up trouble.
 
-## *Joining the Franciscans*
+## Joining the Franciscans
 
 Men and women join the Franciscans as Little Brothers or Poor Sisters as an alternative to the more-established religious orders. While the Virtue Mendicant Friar covers male Franciscan characters, it is not appropriate for female Franciscan characters. They should take the Social Status Religious, described in Chapter 3: The Diocese, and any combination of suitable Virtues and Flaws to highlight those aspects of the character's life and beliefs that the troupe wants to use in stories. Note that, conventionally, Mendicant Friar requires that the character also take Monastic Vows. However, if the stories to be told using this character do not center on his vows, alternatives may be taken (see Chapter 3: The Diocese, Virtues and Flaws).
 
 
-## *Mendicants*
+## Mendicants
 
 The mendicants are distinguished from other religious in that they do not have possessions, either personally or as a group. They are allowed, by Church law, to beg and live on the charity of others. They are linked to others in their tradition without being tied to a specific place, although the women are usually required to live in a settled community. They are not under control of the local bishop, answering to their own leaders and the pope. They serve the poor and preach the gospel, particularly in urban communities. Friars and nuns belong to the Franciscans, Dominicans, or Carmelites. Friars often travel, and may come into conflict with local clergy over preaching and administering the Sacraments to their parishioners.
 
@@ -5032,7 +5032,7 @@ Approval for the new movement came from Pope Honorius III in 1216. By 1219, ther
 
 A character wishing to be a member of the Order of Preachers will have the Educated Virtue and, if male and he does not already have Magister in Artibus, he will be sent to a university to study theology and will almost certainly be ordained. Such a character may be part of a community of similar people, living in a small priory or nunnery in a university city or, if male, may be part of a small group traveling to extend the reach of the order, preaching as they go.
 
-## *Preaching*
+## Preaching
 
 While sermons in the vernacular are an important part of the church experience, popular preaching tends to occur outside, in barns, churchyards, or wherever a crowd can gather. Preachers are treated as stars, with people traveling many miles, sometimes days, to see them. Reputation is everything, and preachers are perhaps best treated as performers using the *Art & Academe* rules, pages 125–129, to describe their personal development in terms of increases in the Ability Profession: Preacher and their reputation.
 
@@ -5045,7 +5045,7 @@ Casual attendance at a preacher's meetings can act as a source for exposure expe
 If a character dedicates a season of free time to following a preacher, the study source is equal to the Aesthetic Quality of the preacher's performance in the relevant Ability. The Ability must be known by the preacher, and the study total can not raise it to a score equal to the preacher's ability. It is always possible to learn Profession: Preacher by listening to a preacher, instead of the intended subject, if the listener so desires. The preacher may also try to inculcate temporary Personality Traits in the audience, as noted in Chapter 3: The Diocese, Care of Souls and *Art & Academe*, page 13.
 
 
-## *Francis' Life & Growth of the Franciscans*
+## Francis' Life & Growth of the Franciscans
 
 Francis was born in 1181 into the family of a prosperous cloth-merchant, who christened him Giovanni. His mother came from Provence and his father, Pietro Bernadone, often traveled that way for trading opportunities and happened to be in France when his son was born, so the boy was nick-named Francesco, "the Frenchman," or in English, Francis. He had a little education, acquiring the basics of reading and writing in Latin. As soon as he was old enough, he started to help in the family business. He led an active social life and became a leader among the affluent youth of Assisi.
 
@@ -5059,7 +5059,7 @@ When he reached Rome in 1209, Francis had eleven followers with him, all barefoo
 
 Francis and his followers returned to
 
-### *Francis of Assisi*
+### Francis of Assisi
 
 **Characteristics:** Int +1, Per 0, Pre +4, Com +2, Str 0, Sta –1 (1), Dex –1, Qik –1
 
@@ -5092,7 +5092,7 @@ the valley close to Assisi, where their life of prayer, fasting, and good works 
 
 Player characters may meet one or more of the founder members, such as Sylvester of Assisi or Bernard of Quintavalle, Rufino — both priests and cousins of Clare (see this chapter, Clare of Assisi). There is also Leo, another priest; he is known to some as Brother Lamb of God, and is Francis' confessor and scribe. Among the early followers are also Giles of Assisi (a farmer's son, noted for his fervent prayer and mysticism), Masseo (known for his eloquence and courtesy), Anthony of Padova, Simon of Assisi, Christopher of Romagna, Peter Catanio, Sabbatinus, Moricus the short, John of Capella, Philip the tall, John of San Costanzo, Juniper, Barbarus, Bernard Vigilante de Vida, and Angelo Tancredi from Rieti (a noble knight before joining).
 
-### *Spreading the Movement*
+### Spreading the Movement
 
 In 1212, Francis set out for the Holy Land, but God had other ideas and the
 
@@ -5104,23 +5104,23 @@ In 1219, Francis and a dozen companions set sail for the Holy Land to join up wi
 
 
 
-## *The Franciscans Today*
+## The Franciscans Today
 
 The crisis at the heart of the movement (see the next section) has not affected most of the followers as yet, who wander through the towns and countryside of central Italy and beyond preaching of peace, love, and repentance. Always, they are careful to respect parish priests and never preach without their permission. They are clearly loyal to the institution and hierarchy of the established Church.
 
 As the interest in Francis' message has grown, more time is spent on preaching, leaving less for work, so the group has become entirely dependent on what food they beg for. They refuse to use coins, taking only the food and drink that they are offered, and going hungry if they must. The only semi-permanent buildings they have for themselves are simple wattle and daub huts where they sleep on the ground, owning no furniture. They have very few books and no other possessions.
 
-## *Letter of Approval: Cum Delicti*
+## Letter of Approval: Cum Delicti
 
 Honorius, bishop, servant of the servants of God, to the venerable brother archbishops and bishops, and to the beloved sons, the abbots, deans, archdeacons and other prelates of the Church, greetings and apostolic blessings.
 
 Since our beloved sons, brother Francis and his companions in the life and religion of the Little Brothers, have rejected the vanities of this world and have chosen a way of life deservedly approved by the Roman Church, and they spread through the various parts of the world, after the example of the Apostles, sowing the seed of the word of God, we beseech and exhort all of you in the Lord, and by these apostolic letters command you. When members of the aforesaid brotherhood present themselves to you bearing these letters, receive them as Catholic faithful, showing yourselves favorable and kind to them out of reverence for God and us.
 
-## *Current Crises*
+## Current Crises
 
 The success of the new movement was so sudden and so great that new groups of followers set themselves up in Italy and elsewhere, with no organization, no novitiate system, and only the basic initial rules to live by. With some 5,000 members now claiming to be followers of the absent Francis, Cardinal Ugolino took control, desiring that the Church as a whole might benefit from the example of the friars. The cardinal tried to make the friars live more like Benedictines, and went so far as to propose that a friar become a bishop. These views were not acceptable to Francis, and as soon as he heard what was going on, he set out for Assisi. On his return to Italy, he started trying to return the movement to his own ideals, but he did not have the necessary organizational abilities and
 
-## *Brother Elias Bonibarone, Minister General of the Little Brothers*
+## Brother Elias Bonibarone, Minister General of the Little Brothers
 
 **Characteristics:** Int +2, Per –1, Pre +1, Com +2, Str 0, Sta 0, Dex +1, Qik 0
 
@@ -5143,7 +5143,7 @@ The success of the new movement was so sudden and so great that new groups of fo
 Elias Bonibarone was born in 1180 at Belvilia, near Assisi, into the family of a mattress-maker. He followed the family trade at first but gained some education and went to Bologna, his father's hometown, to study. He supported himself there by working as a scribe. He was among the earliest followers of Francis. In 1217, Francis sent Elias to the Holy Land, leading a small group of friars with the intention of settling and preaching there. In 1219, Elias was put in charge of the activities of the Friars Minor in Syria, but he returned to Italy in 1220, when Francis did. If your saga follows history, Elias remains at the head of the movement until May 1227. By then, he has upset many who adhere to the original rule of absolute poverty by his methods for acquiring land and money to erect what he believes to be a suitable resting place and memorial to Francis. Giovanni Parenti, provincial of Spain, succeeds him.
 
 
-## *Story Seeds*
+## Story Seeds
 
 #### **Who is to Blame?**
 
@@ -5175,7 +5175,7 @@ A friar who is an ordained priest comes across a place where the vegetation is p
 
 struggled. When he found a group of friars in Bologna living in a house of stone and deep into plans with the university to open a school, Francis realized that his creation had grown beyond his control. Unless your saga changes things, in 1220, at a meeting of the general chapter of the Friars Minor, Francis attempts to resign his position as leader. With Francis' health failing, much of the active leadership is handled by Brother Elias (see his stats for details).
 
-## *Brothers and Sisters*
+## Brothers and Sisters
 
 In his preaching, it is clear that Francis calls the earth his mother, and believes that the sun, wind, and fire are his brothers, and the moon and stars are his sisters. He has even been heard to talk of his sister Bodily Death. Most of his followers accept the terms unquestioningly, but magi are likely to look for very particular meanings in such statements. Francis has not yet explained to anyone why he professes these beliefs. During the period soon after he took up the religious life, while spending many hours meditating and praying in a cave in a small valley just outside Assisi, he glimpsed something of the nature of God's creation, which he expresses in these
 
@@ -5194,7 +5194,7 @@ Magi with an interest in Theurgy (*The Mysteries: Revised Edition*, Chapter 9) m
 
 Magi with an interest in Planetary Magic (*The Mysteries: Revised Edition*, page 30) may wish to question Francis about his understanding of the moon and stars, because they know how to invoke the influence of planets when instilling effects into enchanted devices. Perhaps he can teach them something new and valuable to improve their knowledge and understanding. A Mystery Cult built around this skill may
 
-## *Miracles of the Little Brothers*
+## Miracles of the Little Brothers
 
 God's interest in the Friars Minor is made evident by the number of miracles he performs for them. Here are examples witnessed since the founding of the movement, to suggest what might occur in a saga.
 
@@ -5217,7 +5217,7 @@ need to investigate whether he was ever a member. Perhaps he is able to initiate
 
 Magi may suspect that, if Francis does communicate with spirits of any sort, he probably has the Virtue Second Sight and strong views concerning those who seek to command and exploit spirits. Magi may expect that this will bring him into conflict with members of the Order of Hermes who have dealings with spirits in any way.
 
-## *Birds and Animals*
+## Birds and Animals
 
 It has been noted by many that, as well as preaching to people, Francis occasionally preaches to animals and birds. It appears that he believes that, since they are all creatures created by God, they deserve care and to hear his words. There is no doubt that birds fall silent to listen, and normally shy animals approach closer to
 
@@ -5226,13 +5226,13 @@ hear and see him better. What is unknown, unless Francis himself knows the answe
 
 No one has yet investigated to find out if there is anything special about the particular creatures that attend his sermons. Perhaps only those with some link to the Divine pay attention, although, if this is so, there are considerably larger numbers of creatures with Divine connections than previously suspected. It is possible that creatures touched by the supernatural in other ways might show an interest. If an animal with Infernal Might was in the audience, Francis might find it disruptive. Similarly, an animal or apparent animal of the Faerie Realm might be drawn to his preaching if Francis is using parables. A member of House Bjornaer might attend one of these sermons in the wild and learn something about the other creatures there, and about Francis himself.
 
-## *Clare of Assisi*
+## Clare of Assisi
 
 Clare (or Chiara) was born into the well-off noble family of Favarone di Offreduccio and his wife, Ortolana, in the Italian town of Assisi in 1194. She first heard Francis preach in 1210 and was inspired by his preaching and way of life. She felt drawn to follow his example, but her family expected her to make an advantageous marriage. So she made a secret assignation with Francis and his followers, where she dedicated herself to following Francis' way of life. Francis recognized that it was entirely inappropriate for females to wander the roads preaching and begging, but his ideal of absolute poverty was something they could follow. He sent her to live with the Benedictine nuns at Saint Paul's nunnery near Bastia, Umbra. Francis knew she would be safe there because the penalty was automatic excommunication for a person who attacked anyone taking refuge there.
 
 When her family disowned her a few days later, and she no longer had to stay under the protection of Saint Paul's nunnery, she moved from there to join a small group of penitential women close to Assisi and near to Francis' favorite church of Saint Damian. Her sister, Catherine, came there to join her the following week. Only Clare's prayers and a miracle saved Catherine from the men who came to drag her back home. Clare welcomed her sister into the penitential community and gave her a new name, Agnes.
 
-### *The Poor Sisters*
+### The Poor Sisters
 
 Seeing that other women wished to adopt his teachings, Francis arranged for Clare to be the leader of a community of women at the church of Saint Damian, whence they acquired the name "Damianites," although they call themselves the Poor Sisters. Clare was appointed as abbess here in 1215, although she was very reluctant and only agreed because Francis insisted and she had promised obedience to him. It was against the original pattern of the community to have any distinctions between the sisters but, with pressure from the rulings at the Fourth Lateran Council, Francis saw that the sisters would only be permitted to keep their way of life if they adopted some of the aspects of a traditional nunnery. Clare responded by making sure she did more than her share of the menial and unpleasant tasks.
 
@@ -5245,7 +5245,7 @@ From the start, the women lived according to a "form of life," a set of guidelin
 
 In 1219, Cardinal Ugolino, wishing to see the community of Poor Sisters following a more structured rule, presented the community at Monticelli with a document based on the conventional Benedictine Rule. Clare rejected the clause that permitted the nuns to own property in common, as contrary to the determination to remain utterly poor. She chose to modify it as seemed right to her, so she devised her own version of the rule — the first to be written by a woman — using Francis' ideas for the Little Brothers as the core. It governs their life of spiritual poverty and works of charity. The main difference between this rule and those followed by other nuns is that total enclosure is not required, so a nun may go out for an approved reason. The nuns are required to fast every day except Christmas, if they can and are not serving outside the nunnery. Those who are allowed outside must not stay out longer than necessary, must act with discretion so as to avoid scandal, must be careful what they repeat outside about anything said or done inside the nunnery, and must not speak gossip from the outside world once they are inside again. Many other rules adopted by this order come from the traditional list, reinforcing regulations that are being forgotten in many communities. The completed, written rule will be
 
-## *Clare of Assisi*
+## Clare of Assisi
 
 **Characteristics:** Int +1, Per +2, Pre 0, Com +2, Str 0, Sta 0, Dex 0, Qik 0
 
@@ -5283,14 +5283,14 @@ As the friars travel widely to preach, the sisters travel to found new religious
 
 Unless something in your saga changes things, Clare becomes unwell in 1224 but continues to inspire her sisters until her death in 1253, by which time there are at least 150 communities of Poor Sisters across the continent, from Poland and Slovakia to France. In 1228, Pope Gregory IX authorizes the Poor Sisters' way of life with a new "privilege of poverty" which confirms their right to refuse any endowment of land or any other gifts.
 
-## *Holy Tradition: Franciscans*
+## Holy Tradition: Franciscans
 
 **Favored Abilities:** Intervention, Meditation, Purity, Understanding.
 
 For a minority of Franciscans, their lives as religious allow them to develop supernatural Abilities when under the spiritual guidance of more-experienced fellow Franciscans. Although no Franciscan or other member of the Church would consider it as such, certain outsiders may recognize elements that make the Franciscans look like a Mystery Cult or Holy Tradition, and it is convenient to treat it as such. This Holy Tradition is only open to a character who adopts the life of a Franciscan friar, or joins the Poor Sisters. See *Realms of Power: The Divine*, page 47 for more information on Holy Traditions.
 
 
-## *Joining the Tradition*
+## Joining the Tradition
 
 A character may be designed as a member of the Holy Tradition during character creation. In these circumstances, the Supernatural Virtues that bestow the favored Abilities must be balanced by Flaws in the conventional manner, and Monastic Vows is compulsory. Players are encouraged to select Flaws that result from following one or more of the Initiation Scripts given here. The character has been Initiated by a charismatic member of the Little Brothers or Poor Sisters, who may continue to act as spiritual guide and counselor.
 
@@ -5357,11 +5357,11 @@ Note: The location and experience of fasting closely match a period in the life 
 
 Francis is guided by angelic advice to suit the Initiation Script to the spiritual needs of each individual candidate. Thus some of the original followers have two or more of these Virtues through Initiation by Francis himself as Mystagogue, but may have different Flaws. There are one or two who have alternate Powers and Methods, too. Once Francis has died, this advice will no longer be available, and it is never available to other Mystagogues unless a suitable story is played out to acquire such an advisor. Other Mystagogues may unknowingly use an unsuitable Script (one that varies from the standards set out here but in a way that does not suit the Initiate). This bends the rules set out in *The Mysteries: Revised Edition* in order to prevent all Franciscan Initiates having the same Flaws as each other, and to explain how it is that there are numerous Initiates among the earliest Franciscans but far fewer later on.
 
-## *The Order of Hermes & the Franciscans*
+## The Order of Hermes & the Franciscans
 
 There are no generally known or documented interactions between members of the Order of Hermes and the Friars Minor as yet. There are, however, stories told here and there, and probably some private correspondence that may come to light. It is said by some that the Franciscans' rejection of many of the ways of thinking that are currently so widespread in the Church is a strong indication that they may well be far more sympathetic towards magi and those who serve them.
 
-## *Franciscans in the Future*
+## Franciscans in the Future
 
 If things progress in your saga as in history, the followers of Francis take his new way of religious life to Germany in 1221, England in 1224, and Hungary in 1228. If things take their historical course, Francis works on new rules for his followers and produces, in 1221, a new rule for the friars (approved by Pope Honorius in 1223 as the Regula Bullata), and a rule for laymen, called Tertiaries, who follow the lifestyle except that they do not take clerical vows and remain living with their families.
 
@@ -5400,7 +5400,7 @@ Right from its earliest days, it has been hard for the friars to retain absolute
 
 Would a covenant or player character agree to hold funds on behalf of a friar such that they could be used later for purchase of necessities? What if a friar wanted money retained for use later on things that were not essential but just useful? There could
 
-## *Story Seeds*
+## Story Seeds
 
 #### **The Unwelcome Friar**
 
@@ -5424,7 +5424,7 @@ Francis repeatedly declined certain concessions offered for his followers, but a
 
 Something may happen to change the Church's view of the Franciscans. Perhaps a change of pope to one with very conservative views who sees them all as a threat, or even as heretical. Maybe some supernatural accident has very unfortunate consequences and the movement is seen as too dangerous, in which case, the fall from favor might affect only one part of Mythic Europe. Under such circumstances, some of the Franciscan friars and nuns who have supernatural Virtues might go into hiding and their Holy Tradition develop as a secret within the Church. The story of how they find suitable teachers and develop the new secret tradition could form a saga theme.
 
-## *Sample Characters*
+## Sample Characters
 
 There is a character sheet for a Franciscan teacher character as a Companion in *Realms of Power: The Divine*, page 96. That character is designed as someone who will enthusiastically set about the conversion of any characters in a covenant who are not pious Christians.
 
@@ -5436,7 +5436,7 @@ He made the excuse to himself that he had not yet decided which course of action
 
 Of course, what he has is a Hermetic enchanted item, lost by a Redcap. When someone comes looking for it, they find the friar before long. If he has shown it to anyone who understands these things before the Redcaps catch up with him, it may be harder to retrieve.
 
-## *Grog Templates*
+## Grog Templates
 
 The following characters are suitable as Franciscan additions to a saga.
 
@@ -5481,9 +5481,9 @@ The following characters are suitable as Franciscan additions to a saga.
 **Abilities:** Animal Handling 1 (wild mammals), Animal Ken 3 (wild mammals), Area Lore: Italy 3 (towns), Area Lore: Provence 3 (towns), Artes Liberales 2 (reading aloud), Awareness 2 (poor people), Charm 2 (children), Chirurgy 1 (broken bones), Church Lore 2 (monasticism), Concentration 1 (preaching), Folk Ken 2 (the poor), Italian 5 (preaching), Latin 4 (preaching), Franciscans Lore 2, Provençal 3 (preaching), Teaching 1 (children), Theology 2 (heaven)
 
 
-## *Appendix*
+## Appendix
 
-# *Bibliography*
+# Bibliography
 
 #### **II. The Congregation**
 

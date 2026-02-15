@@ -1,6 +1,6 @@
 
 
-# *Credits*
+# Credits
 
 **Authors:** Timothy Ferguson, Richard Love, Matt Ryan, Mark Shirley **Development, Editing, & Project Management:** David Chart
 
@@ -201,11 +201,11 @@ Digital Version 1.0
 | Volante Adiran, Gifted Mercere77          |    | The Hippocratic Staff98                       |    | Ice Harvesting130                                |     |
 | Local Creatures 78<br>Builders (Diviæe)78 |    | The Rite of Healing99<br>Universal Poultice99 |    | Vampire Hunters 130<br>An Inauspicious Birth 130 |     |
 
-#### *The Sabotnik..................................131 The Glog........................................131 The Taltós and the Kresnik..............131* A Dark Parentage........................ 132 *The Dhampir..................................132 The Vampirdzhi..............................132* **Hunters' Arts ............................. 132** New Virtues................................ 132 *Dhampir.........................................133 (Foe) Art........................................133 Scry Art.........................................133 Slay Art.........................................134 Ban Art..........................................134* Hunter Characters...................... 134 Scry............................................. 134 *Forging the Initial Connection .........134 Using the Scrying Connection.........135*
+#### The Sabotnik..................................131 The Glog........................................131 The Taltós and the Kresnik..............131 A Dark Parentage........................ 132 The Dhampir..................................132 The Vampirdzhi..............................132 **Hunters' Arts ............................. 132** New Virtues................................ 132 Dhampir.........................................133 (Foe) Art........................................133 Scry Art.........................................133 Slay Art.........................................134 Ban Art..........................................134 Hunter Characters...................... 134 Scry............................................. 134 Forging the Initial Connection .........134 Using the Scrying Connection.........135
 
 *Exploitation of Scry by a Foe .........135* Ban .............................................. 135 *Creating a Physical Ban.................135*
 
-## *Against the Dark*
+## Against the Dark
 
 | Creating a Supernatural Ban136                             |     |
 |------------------------------------------------------------|-----|
@@ -249,7 +249,7 @@ Digital Version 1.0
 
 *Appendix: Glossary 144*
 
-## *List of Inserts*
+## List of Inserts
 
 | Klingsohr 8                                |  |
 |--------------------------------------------|--|
@@ -403,9 +403,9 @@ Digital Version 1.0
 |                                                                              |  |
 
 
-## *Chapter One*
+## Chapter One
 
-# *Introduction*
+# Introduction
 
 The Transylvanian Tribunal is a fantastic setting for sagas. It is all that a reader expects. It is a land of haunted mountains, of dimly lit forests, of ruined castles and moonlit roads. Werewolves and vampires flourish, and folk magicians hunt them with silver and prayer and hawthorn and whips.
 
@@ -419,17 +419,17 @@ Transylvanian society is constantly under pressure, as it straddles the border b
 
 The magi of Transylvania differ from Western magi also. They have been welded into a great machine of governance and war by House Tremere. Their life is peaceful but their obligations are far greater than in Western Tribunals. Transylvanian covenants, or what the magi here have instead of covenants, are interdependent. They specialize in a way not seen in the West.
 
-## *A Note on History*
+## A Note on History
 
 The history of the many ethnic groups present in the Transylvanian Tribunal has been cobbled together from the folklores of the real world nationalities presented. No historian, holding any of the many competing views, would agree that our history is correct. Further, some readers may find the way we have mangled their national history offensive. We apologize for this.
 
 The competing national histories of the Balkan states simply cannot be resolved, without offense, because so many of them contain material that is false. We choose not to judge which these are, and instead we have selected the pieces of folklore which best suit a game manual. This setting, therefore, includes groups who may not have been in any designated area historically, to allow players broader scope for their character designs. Similarly, folklore with storytelling potential from nations which make no claim to a 13th-century presence in Transylvania, like the Roma and Turks, has occasionally been allowed to sneak into the work.
 
-## *A Note on Tone*
+## A Note on Tone
 
 Transylvania is synonymous with horror for many readers. The horror stories set there are, however, not really set there at all. The Transylvania of horror stories is a tidy version of England, with German names. To sate readers who bought this book expecting horror, there is chapter about telling stories of fear. This is not, however, a book about the Transylvania of the Western imagination. It's about Transylvania as described by the people who lived there. It has horrific elements, but they are not the focus of this book.
 
-## *A Note on Oppida*
+## A Note on Oppida
 
 Transylvanian magi call the legal entities they are members of "covenants," but the physical places where they reside *oppida*, or "camps" (sing. *oppidum*). Many covenants outside Transylvania call the multiple places of residence within a single legal covenant its "chapter houses" but this term is of Jerbiton invention, and is based on a metaphorical similarity to the way monks meet in Western monastic dependencies.
 
@@ -441,17 +441,17 @@ The other difference is that members of an oppida don't all need to be members o
 
 Further detail is given in Chapter 2.
 
-# *Geographic Primer*
+# Geographic Primer
 
 The Transylvanian Tribunal includes the lands of the Carpathian Basin, the mountains that cradle them excluding the Alps, and some additional areas to the west and south. These added territories push the Tribunal's borders out the Adriatic and Black Seas. The Tribunal's southern border lacks any geological basis. The boundary is entirely political, based on the location of vis sources claimed by magi on either side.
 
 Local folklore and further geographical details are given in the chapters for oppida in each of the Tribunal's regions.
 
-## *Mountains*
+## Mountains
 
 The greatest features of the Tribunal's topography are the mountains, the rivers, and the plains. The Carpathian Mountains form a great crescent, divided by many passes and valleys, which shields the mundane kingdom at the core of the Tribunal from Eastern invaders. A series of other mountain ranges, in the west and south of the Tribunal, complete the basin's edges. The mountains have few inhabitants, but the mines for silver, gold, and salt, which support the royal court and much of the country's economy, are hidden among them. Within the boundary of the mountains lies the Great Plain.
 
-## *Plains*
+## Plains
 
 The Great Plain is a fertile but floodprone area. In areas with sufficient elevation and drainage, grain crops and vineyards thrive. The soil in this Tribunal is, on average, far more fertile than that in other parts of Mythic Europe. Settlement on many parts of the plain is difficult, because there's little timber or stone to build with. The plain, in places, is a sea of grass, filled with folkloristic monsters and ancient cairn graves.
 
@@ -466,7 +466,7 @@ Some Hungarian writers suggest that the rivers can be used to give travelers an 
 
 
 
-## *Klingsohr*
+## Klingsohr
 
 In 1207, the Margrave of Thuringia held a contest to find the greatest bard in the world. The finest musicians came from across Europe, and were allowed to name their own prize. They agreed that mere gold was an insult to their calling, and that the winner should be given the title of "king of poetry," the homage of all other poets, and a crown of bay leaves. To mark the earnestness of this musical war, it was agreed that all who competed for the crown, but failed to win it, would be so disconsolate that it would be a mercy to have them put immediately to death.
 
@@ -480,15 +480,15 @@ empty field near Tisza. Klingsohr was utterly uninterested in wealth, and felt n
 
 Klingsohr still lives somewhere in this area, wandering in peasant clothes, and singing Hungary's beauty to itself. He predicts the future to those who need it, or are kind.
 
-## *The Coasts & Southern Mountain Ranges*
+## The Coasts & Southern Mountain Ranges
 
 The Tribunal has settlements outside the great basin of the Plain. These oppida are usually alien covenants that have joined the Tribunal. These serve as gateways to other Tribunals, and provide services that the Tremere and their allies find useful.
 
-# *Sites For New Covenants*
+# Sites For New Covenants
 
 Players looking for sites for new covenants or oppida might consider the following:
 
-## *Kal Valley and Lake Balaton*
+## Kal Valley and Lake Balaton
 
 The Kal Valley is a secluded region in the west of the Tribunal. It is suited for sagas that want to have a base near the major cities of Hungary and Italy, while still being in the wilderness. In folklore, it is remarked as being perhaps the most boring place on Earth. Its name is a cliché for the back of nowhere, but this means troupes can put whatever they like here, without disrupting those pieces of real history which they wish to keep.
 
@@ -506,7 +506,7 @@ Europe's largest thermal lake is in this area, and it supplies both Ignem and Aq
 
 Somewhere along the length of this river, Attila, king of the Huns, ancestor of the Magyars and founder of Buda, is entombed. After his death, his servants diverted the water of the river Tisza with a canal, and buried him with great ceremony. His warriors all slashed themselves so that they bled, and rode circles about his corpse, reciting dirges. They then enclosed him in caskets of iron, silver, and gold, and killed the laborers who had played any part in his burial, so that the location of his corpse should pass from memory. His grave goods may include the Sword of Mars, a magical weapon which fell from the sky and gave him the power to scourge the world.
 
-## *Sunken City*
+## Sunken City
 
 This is a Roman city that has fallen, mostly intact, into the Black Sea. It was connected, in ancient times, with astronomers and their Mysteries. It gives the player characters easy access to Greek cul-
 
@@ -523,7 +523,7 @@ The spirits of the island forbid any woman to ever set foot upon its shores, and
 Tremere magi, and their companions, sometimes seek out Achilles to discuss warfare with him. His spirit is less angry and driven than it was during life. Others seek out his love, Queen Helen, to discern the locations of ancient cities and temples. Some researchers suggest that Achilles and Helen,
 
 
-## *Wasn't Achilles Gay and Buried Somewhere Else?*
+## Wasn't Achilles Gay and Buried Somewhere Else?
 
 The best known version of the story of Troy, the *Iliad*, certainly has him buried elsewhere. Philostratus, Maximus of Tyre, Pausanias, and, of course, all the local people, believe the story given here.
 
@@ -533,13 +533,13 @@ as the paragonic Man and Woman, are the core of a mystery cult, but House Tremer
 
 The 77th island of the Black Sea is plunged in darkness so thick a spoon can stand in it. In the middle of the island are three reeds, and trapped inside the center reed is a maiden, said to be the fairest on the Earth. The other two reeds contain her handmaids. They are guarded by a witch, who must die the instant the Reed Maiden is released. The darkness is so thick that only a mount reared on dragon milk, fed burning coals, and given fire to drink can penetrate it.
 
-# *Languages in the Balkans*
+# Languages in the Balkans
 
 The South Slavonic language covers a family of languages which in the 13th century are poorly differentiated. The main groups are Bulgarian and Serbian, with the former having the most speakers. Bulgarian principally uses the Cyrillic alphabet, whereas the Serbian group (which includes Slovene, Bosnian, and Croatian) is mostly written with the Latin script. Church Slavonic is a dialect of South Slavonic used in the Orthodox Church in Slavic lands, and uses the Glagolitic alphabet.
 
 Vlach is spoken by the Romanians, and it is a variant of the Vulgar Latin spoken in
 
-## *Against the Dark*
+## Against the Dark
 
 the late Roman Empire. Speakers of Latin find some mutual compatibility between that language and Vlach. The Aromanian dialect is spoken in Illyria and northern Greece.
 
@@ -549,7 +549,7 @@ The Cumans speak Kipchak and the Pechenegs speak Oghuz, both Turkic languages th
 
 **South Slavonic** (Bulgarian, Serbian, Church Slavonic) **Vlach** (Romanian, Aromanian) **Oghur\*** (Bulgar) **Oghuz** (Turkish, Turkman, Azerbaijani, Pecheneg) **Kipchak** (Cuman, Kipchak) **Magyar** (Hungarian, Transylvanian)
 
-#### \* Dead language
+#### \ Dead language
 
 **Low German** (Saxon)
 
@@ -568,7 +568,7 @@ Even without knowing a specific language, a character who knows a language that 
 
 So, a native Bulgarian — South Slavonic (Bulgarian) 5 — has an effective score of 6 when talking to his countrymen, but can still converse with a Serbian with an effective score of 4. However, even if literate, he cannot read Serbian unless he is also familiar with the Latin script.
 
-## *Names*
+## Names
 
 The following names are appropriate to characters in the Transylvanian Tribunal. Where appropriate, English equivalents have been given. The Slavic letter "š" is pronounced as "sh," and "ž" or "zh" is pronounced like the "s" in "measure."
 
@@ -594,7 +594,7 @@ Adél, Ágnes, Ágota, Aliz, Amália, Anasztázia, Angyalka, Anikó, Anna, Arank
 
 Alin, Andrei, Anghel, Cătălin, Claudiu, Corneliu, Cosmin, Decebal, Dorin, Doru, Emilian, Flaviu, Florin, Ghenadie, Haralamb, Horatiu, Horea, Iancu, Ion (John), Iuliu, Lucian, Lupul, Marku, Mihai, Mircea, Mugur, Neculai (Nicholas), Ovidiu, Petru, Răzvan, Sorin, Tibor, Valeriu, Viorel, Virgiliu
 
-## *Against the Dark*
+## Against the Dark
 
 # **Vlach (Romanian) Names, Female**
 
@@ -609,9 +609,9 @@ Adem, Alp, Altan, Asil, Aslan, Aydin, Bariş, Berk, Berkant, Berker, Bulut, Bura
 Asli, Aygül, Aylin, Ayşe, Aysel, Aysu, Aysun, Basak, Belgin, Berna, Bilge, Burcu, Canan, Ceren, Deniz, Derya, Dilara, Dilek, Ebru, Ece, Eda, Ekin, Elif, Elmas, Emel, Emine, Esen, Esin, Fidan, Filiz, Gizem, Gonca, Gözde, Gül, Gülay, Gülbahar, Gülistan, Hande, Havva, Hazan, Ipek, Irmak, Kelebek, Kiraz, Meryem, Müge, Nergis, Nesrin, Nilüfer, Nuray, Özge, Özlem, Pembe, Pinar, Şebnem, Sevda, Sevgi, Simge, Tülay, Tutku, Yağmur, Yeter, Yildiz, Yonca, Zeynep
 
 
-## *Chapter Two*
+## Chapter Two
 
-# *Hermetic Culture*
+# Hermetic Culture
 
 Transylvania is more than House Tremere's center of power: its magi believe the Tribunal is a practical demonstration of the validity of House Tremere's ethos. House Tremere believes that magi should work together to create a better world. This sounds idealistic, but the magi of Tremere are patient and pragmatic. This Tribunal is the best way of living they have implemented so far, but they haven't finished yet.
 
@@ -623,23 +623,23 @@ It will take many generations. It will demand heartbreaking sacrifices. It will 
 
 In Transylvania, it has already begun.
 
-# *House Tremere*
+# House Tremere
 
 House Tremere's policies and ethos directly affect the life of every magus living in Transylvania. This section reviews the parts of Transylvania society over which the House retains direct control.
 
-## *Armed Force*
+## Armed Force
 
 House Tremere is the core of Order's militia during crises. The Code must be enforced to be effective. House Tremere is the most credible threat to the dominant covenants in any of the regional Tribunals. Some magi see House Tremere as a guarantor of the stability of the Order.
 
 The Tremere capability to threaten the dominant covenants of other Tribunals makes some of these covenants hostile. The House does not station its members in the Tribunals where its presence is unwelcome. There are few Tremere in the Greater Alps, Normandy, Theban, and Novgorod Tribunals. This creates a concentration of force in Transylvania, which makes neighboring Tribunals cautious.
 
-## *Logistics*
+## Logistics
 
 The House is only able to respond to crisis if it has the supplies necessary, and the transportation required to deploy them. The many resources used by Tremere magi in peacetime, detailed in *House of Hermes: True Lineages*, are elements of the Tremere logistical system that are surplus to prudent insurance.
 
 
 
-## *Military Saga & Story Seeds*
+## Military Saga & Story Seeds
 
 House Tremere is always looking for allies, and this lets player characters become involved in House Tremere's military skirmishes. The House seeks allies because it can't commit its resources everywhere, because in distant Tribunals there's no easy way for it to garrison territory, and because it sees its military allies as political assets. They are people used to the Tremere mindset and way of operating, who have tasted success with Tremere support. Allies also have unusual abilities, which extend the options of Tremere field commanders.
 
@@ -655,7 +655,7 @@ House Tremere offers assistance to the player characters. They can provide vis a
 
 House Tremere's skill at organization and logistics can be used in peacetime, for disaster relief. In this story seed, a plague, flood, or famine has descended on a large swath of Mythic Europe. The endangered section includes the player characters' covenant. The Tremere are initially not willing to intervene, because it may cause trouble with the nobility and their resources can probably be better used elsewhere. Characters who frame their argument for intervention using elements of the Tremere ethos — about making the world a better place, where disasters can be countered by skill and cooperation — can convince the Tremere. Aid may take the form of physical goods or magic items, which the player characters can use to end the crisis, or may take the form of skilled assistants, whom the player characters command. The player characters then investigate and remedy the cause of the disaster.
 
-## *Logistical Saga & Story Seeds*
+## Logistical Saga & Story Seeds
 
 House Tremere's transportation and supply network can provide hooks for stories, when it fails or extends, and can provide ways to get characters to stories, if they are distant or in inhospitable environments.
 
@@ -672,17 +672,17 @@ While doing this, the player characters seek the few survivors of the attacks, t
 When the war begins, the player characters keep channelling useful supplies to the combat forces, their success in stories being directly mirrored by the success of the magi fighting the faeries. If the player characters suffer a serious setback, then faerie raiders break through the combat forces and into the army's rear zone. The player characters need to hold the faeries off until the combat forces can reform and relieve them or, better, use the stores of logistical material to crush the faeries between the logistical team and the combat forces. The saga ends when the player characters discover the source of the new faeries, and destroy them, or recruit them for their own purposes.
 
 
-## *The Difference Between House Tremere and the Transylvanian Tribunal*
+## The Difference Between House Tremere and the Transylvanian Tribunal
 
 House Tremere does not directly control every aspect of life in this Tribunal, although its influence is ubiquitous. The House directly controls the resources which it requires to feel secure. That is, it controls directly the things it feels it needs to respond to prepare for emergencies and rebuild afterward. It uses its allies and the Tribunal's primary officer, the Praeco, to control those resources which are vital for the progress of Transylvanian society, but which can be reconstructed after an emergency passes.
 
-## *Story Seed: The Book of Places To Avoid*
+## Story Seed: The Book of Places To Avoid
 
 The Earnest Sons precisely note the location of places that resist the presence of its assessment teams, and the nature of the obstacle faced. Over centuries, these reports have been compiled into a great book. This is perhaps the largest list of places it is considered unwise to go in all of Mythic Europe. The book fascinates magi who would like to make a reputation as killers of magical beasts and tamers of wild faeries. These candidates send details of what sort of thing they'd like to face in combat, or what kind of problem they wish to solve, and the vexillation scours its records for a suitably challenging site. This sort of combat tourism isn't officially sanctioned by the House or Tribunal, but has become a rite of passage for some young magi, and is popular with those seeking magical components from particular spirits.
 
 Player characters can access these resources directly if they are members of the House, or can convince a Tremere magus to aid them. House Tremere is always interested in having promising young magi owe favors.
 
-## *Communications*
+## Communications
 
 House Tremere is strongest when its many members act in concert. This requires an excellent communications network. It is obvious to the House that any attacker would attempt to disrupt its communications. In response, the House has developed multiple, independent communication networks, backed by a series of contingencies for lost contact.
 
@@ -690,19 +690,19 @@ House Tremere is strongest when its many members act in concert. This requires a
 
 Non-secret communications within the Tribunal are sent by Redcap. The Tremere consider Redcaps especially useful because they carry the ideas that reinforce the Transylvanian culture. They are also guides in war, since they are familiar with the mystical terrain of Europe. Redcaps are not just mail carriers; they disseminate news, art, and propaganda on behalf of the House. House Tremere would like there to be far more Redcaps in the Order than there are at present, which is a source of historical tension between the two Houses. For story seeds relating to Redcaps, see the later chapter on Histria, which describes the Mercere House for this Tribunal.
 
-## *Capacity Building*
+## Capacity Building
 
 The House wants the resources of the Tribunal's lands to be fully and efficiently utilized. There is a vexillation of magi and Redcaps who are primarily responsible for this. The group was instigated by Tremere himself, under the name the Earnest Sons of the Grid and Chain.
 
 The Earnest Sons' scouting teams lack the killing power required to tame the dangers of the Transylvanian wilderness. Their initial assessments are fed back to the groups' leaders, who send more powerful magi to secure areas, or seek the aid of nearby oppida. The group also identifies areas suitable for the foundation of new oppida. They pass these recommendations to the Prima of Tremere, who in turn directs the Praeco to recruit suitable magi for the task. The Praeco prefers to offer the role to the apprentices of allies of the House, and may gather them from several Tribunals.
 
-# *Tribunal Overview*
+# Tribunal Overview
 
 The Tremere view the Order as fragile but useful, so they support it. They believe the Order to be, for now, the best tool available to prevent magi in other Tribunals from slaughtering each other, making pacts with Satan, or declaring themselves gods. These aberrations of good sense, they believe, happen regularly when magicians are left to decide their own fates. The Order allows sufficient peace for the Tremere to build strength and evangelize.
 
 House Tremere dominates the Transylvanian Tribunal, but does not need to corrupt it. The Tremere method of block voting ensures that its members can get what they want, entirely legally and democratically, within the Order's structures and traditions. House Tremere sees the Tribunal as a valuable tool for the maintenance of the society that it has constructed. House Tremere wants the Tribunal, as a legal institution, to flourish.
 
-## *The Praeco*
+## The Praeco
 
 The Praeco is the theoretical leader of the Tribunal, although the Prima of Tremere actually makes policy for Transylvania's governance. Praecohood in Transylvania is not earned by age; it is assigned by a democratic vote. This allows the magi of Tremere pick whoever they like. The Praeco of Transylvania is a servant of House Tremere, but still has far wider authority than his equivalents in other Tribunals. A magus does not become Praeco in Transylvania without the approval of the Prima of Tremere, and does not stay Praeco if he angers her. The current Praeco is Archmagus Albertus of Lycaneon.
 
@@ -721,11 +721,11 @@ The Tribunal has made a series of binding rulings concerning oppida. Every maga 
 
 The final two rulings effectively mean every oppidum must have at least one Tremere member and one non-Tremere member. This odd member, appointed to prevent corruption in House Tremere, and treason in the non-Tremere oppida, is called an *aedile*. Aediles have no particular duties, but they have a right to emergency audience with the Praeco and chief Quaesitor. The disappearance of, or declaration of War upon, an aedile is considered serious by the Quaesitores. In oppida with even numbers of cives and non-cives, there are two aediles.
 
-# *Legislature*
+# Legislature
 
 The Transylvanian Tribunal, as a lawgiving body, has many roles. The process of voting at Tribunal on contentious issues is similar to all other Tribunals, as described in *Houses of Hermes: True Lineages*. In Transylvania, Tribunal meetings are quick and short, and
 
-## *Regulating Magical Settlement & Residency*
+## Regulating Magical Settlement & Residency
 
 In Transylvanian, the Praeco, as representative of the Tribunal, enters a written agreement with each resident magus, which grants him his place in Transylvanian society. Each agreement must be witnessed by a Quaesitor, and they are formally entered into the Peripheral Code at Tribunal meetings. This agreement is called the magus' "privilege." There are five broad styles of privilege, although individuals may have slightly different rights and duties, depending on the negotiations which preceded the signing. Further differences may be added as punishments or rewards. Each privilege permits membership of at least one of the five covenants.
 
@@ -743,7 +743,7 @@ Coloniae may expect:
 - Free use of resources negotiated in their privilege.
 - A proportion of new resources discovered, as negotiated.
 
-## *Triumph of Asclepius*
+## Triumph of Asclepius
 
 Following the Sundering, Tremere held the Tribunal together by offering concessions to the leaders of the other covenants. Each of the covenants also made various binding contracts with the others, to make secession unprofitable. These resources are still dispensed, although they are now collected and distributed by the Tribunal. The leadership of this covenant, and the resources granted to the leader as part of Tremere's concession, are called the Triumph of Asclepius.
 
@@ -778,7 +778,7 @@ Citizens are permitted to:
 - Relocate from camp to camp as desired, if non-Tremere.
 - If numerically dominant in an oppidum,
 
-## *Against the Dark*
+## Against the Dark
 
 select the aedile. This effectively must be a non-Tremere, because the aedile needs to come from the non-dominant group.
 
@@ -869,7 +869,7 @@ Foederati have individually negotiated agreements, but usually they include the 
 - Train apprentices.
 - Expect their eldest apprentice to be accepted as a foederate, under conditions comparable to those of the magus.
 
-## *Decorations*
+## Decorations
 
 Decorations are ornamental jewelry pinned to, or patterns embroidered into, the robes of magi who have performed services which the Tribunal wishes to particularly note. Some magi wear their decorations daily, while many think that ostentatious and wear them only for Tribunal meetings. The expression and placement of the decoration varies at the whim of the wearer, although Tremere magi prefer subtle designs. Decorations are not repeated. If a magus performs the actions required to earn a decoration twice, it is not awarded a second time. Characters with a lesser decoration replace it if they do something notable enough to earn a higher decoration.
 
@@ -904,7 +904,7 @@ Foederati are usually required to seek permission before:
 - Selling magic items to outsiders (although the socii of the Tribunal are not considered outsiders).
 - If numerically dominant in the oppidum, selecting a particular person as their oppidum's aedile.
 
-## *Legalities of Residency*
+## Legalities of Residency
 
 The agreement between a magus and the Tribunal cannot overwhelm a magus' rights under the Code. Technically, the Grand Tribunal could rule that, despite a magus accepting a privilege, he is not bound to forsake rights which are granted him by the Code, such as the right to train an apprentice. This has not occurred for several reasons:
 
@@ -952,28 +952,28 @@ The note, though, isn't a forgery. It's genuine. As the magus was trying to extr
 
 The trapped prince is slowly and subconsciously attempting to rebuild his body. Characters may discern this with an Intelligence + Faerie Lore roll against an Ease Factor of 12, once they notice the effect the note's presence is having on the environment. Wooden objects on which the note rests become brittle, and trails of sawdust lead to the note. Nearby milk or beer, if left uncovered, vanish. Small faeries may try to steal or consume the note, rescuing the prince, or stealing his role.
 
-# *Public Financier*
+# Public Financier
 
 The Praeco collects and distribute taxes for a range of projects that the Tribunal has approved. The projects assigned to the Praeco by the Tribunal vary after each meeting, and so the taxes she is permitted to levy are also adjusted. Civitates, socii, coloniae and some foederati are required to give reasonable aid to the Praeco's projects. At minimum, a large vis source has been set aside for the use of Praeco. This income was originally intended to provide for the maintenance of the wards of the Tribunal site, but the Quaesitores now fulfill this duty.
 
-## *Stipends*
+## Stipends
 
 The Praeco also collects the stipends given to the Redcaps and Quaesitores, and distributes them. The resources used to provide stipends are described in the Peripheral Code. Collections are made under the auspices of the Praeco, and Redcaps under her direction make the deliveries. This legal separation allows the Tremere to monitor how much vis the Redcaps and Quaesitores are claiming without spying. It also allows the Quaesitores to state that the stipends are not a vast annual bribe from House Tremere.
 
-## *Promissory Notes*
+## Promissory Notes
 
 The Praeco's current method of funding her activities, through reserved vis sources and specific taxes, sits alongside an older system that is still used for diplomacy and trade. Before the Praeco was granted taxing powers, she funded her projects from reserved vis sources, but was permitted to take loans against that income, issuing letters promising payment. Promissory notes are still issued, and some ancient notes are still traded, having never been redeemed, because they act as a high-value currency.
 
-# *Judiciary*
+# Judiciary
 
 An effective system of law is vital to the members of this Tribunal. The roles of Praeco, Quaesitor, and Hoplite are treated with respect and given extra powers and duties in Transylvania. Where the law is weak, as in some Western Tribunals, magi need to huddle in castles that defend their greatest resources from raiders. Transylvanian magi refuse to live fearful, stunted lives.
 
-## *Quaesitores*
+## Quaesitores
 
 The Quaestiores have little to complain of in this Tribunal. The Code is followed consistently, even if the interpretation is heterodox and the concentration of Tremere votes makes true democracy rare. Powers some Quaesitors have been seeking in other Tribunals, to levy taxes and demand aid against renounced wizards, have been granted them here. In this Tribunal, the senior magi do not
 
 
-## *Judiciary Story Seeds*
+## Judiciary Story Seeds
 
 #### **Annual Tribunals**
 
@@ -1005,7 +1005,7 @@ Quaesitores are permitted to call emergency Tribunals to deal with legal matters
 
 Some Quaesitores have, in the broadest sense, never approved of the Order's system of trial by jury. A crime should not be forgiven because the political connections of the magus protect him from the enforcement of the Code. The Code is, however, a practical document: magi are only guilty if the people who will have to perform the lynching agree upon that guilt. In this respect, Transylvania is no worse than anywhere else. House Guernicus could, if sufficiently annoyed, ask that a Grand Tribunal reopen a case concluded by the Transylvanian Tribunal. The problem for the Quaesitores, though, is that unless an overt breach of the Code occurs, Tremere block voting is perfectly legal.
 
-## *Wizard's War*
+## Wizard's War
 
 It is the distinct preference of the majority of magi in Transylvania that wizards fight wizards only during Marches approved by a vote at an emergency Tribunal. Transylvanian magi retain their right, under the Code of Hermes, to capriciously declare War. The Tremere, and the Quaesitores, would prefer they never invoke that right.
 
@@ -1042,23 +1042,23 @@ Duelists for love may not:
 - Combine sexual intercourse with certamen.
 - Challenge a duelist weakened by a previous duel.
 
-# *Negotiations with Outsiders*
+# Negotiations with Outsiders
 
 The Tribunal's representatives, often appointed by the Praeco, act as diplomats on behalf of the inhabitants of the Tribunal. Magi who live in Transylvania, who are not senior Tremere, are required to limit their interaction with outsiders in a few key areas.
 
-## *Story Seed: Smuggling Animals*
+## Story Seed: Smuggling Animals
 
 The Tribunal forbids the unlicensed export of magical animals. These are highly sought in vis-poor Tribunals, which lack a wide range of creatures suitable as familiars. The player characters, off on another story, stumble upon evidence that a magus is penning magical animals for smuggling. How do they investigate this? Why is the magus not simply selling the animals to the Redcaps, and having them sell to outsiders? Using Redcaps as middlemen is perfectly legal, but it's also meticulously recorded. What secret use do these animals have?
 
-## *Diplomacy*
+## Diplomacy
 
 Many oppida are forbidden to enter treaties with foreign covenants or Tribunals. Various commercial engagements can be developed with foreign covenants, but they must either be read into the Peripheral Code, or approved by the Praeco and witnessed by a Quaesitor.
 
-## *Recruitment*
+## Recruitment
 
 Magi may not import Gifted children into the Tribunal, or invite magi as settlers. They may, however, request that the Praeco invite a particular magus to settle, and may request a particular Gifted child be bought into the Tribunal. This allows the Tremere to limit the population of the Tribunal.
 
-## *Vis & Magic Item Sales*
+## Vis & Magic Item Sales
 
 Most Transylvanian magi are forbidden to sell vis or magic items to outsiders. The exceptions are the Praeco, the Primus of Tremere, the socii, and their delegates. The Tribunal has appointed the camp of Old Histria, which is dominated by socii, as the site of record for all sales of vis and magical items in the Tribunal. Magi selling goods do not necessarily need to ship them to Histria, but can instead exchange matching letters, which are notarized by a Quaesitor.
 
@@ -1067,11 +1067,11 @@ This system allows the representatives of the Praeco to act as alternative buyer
 The system barring vis sales also limits the sale of many types of magical animal. House Tremere has used magical animals in its doctrine of war for centuries and is continually seeking new breeding stock. This legal restriction allows them to act as preferred buyer for exports, or co-bidder for imported animals.
 
 
-# *The Oppidum of Coeris*
+# The Oppidum of Coeris
 
 Coeris is House Tremere's main place for storing the tools to complete its designs. It's also, by tradition, the seat of power of the Primus of Tremere. This means that if the Primus decides something is urgent, and requires first call on the resources of the House, she can access them immediately.
 
-## *History*
+## History
 
 The site of Coeris was used in ancient times by Dacian magicians. The remoteness of the region, called Maramures, prevented the Romanization or Christianization of the area, allowing a variant of
 
@@ -1081,7 +1081,7 @@ Dacian magic to continue until the arrival of the Tremere. Tremere slew the faer
 
 Following the Sundering, Tremere no longer trusted the security of his domus magna, and so moved his headquarters, keeping the name, from where Lycaneon now is to current Coeris. Tremere's successor, Albanus, used anger directed at Tremere's legacy to solidify the House under his leadership. This allowed the successive Primi of Tremere to redefine the role of Coeris. This prevented Coeris from looking like the older parts of Lycaneon, Tremere's first "throne from which to rule the world."
 
-## *Setting and Description*
+## Setting and Description
 
 Coeris overlooks a river that flows through the valleys of Maramures. This is a region of low, picturesque mountains and deep, difficult valleys, which provide excellent defense against conventional armies. The elevation of this region means that winters are very cold, and summers almost Mediterranean. The area around Coeris is still heavily forested, with oak and silver birch, but all the trees within a mile of the oppidum itself have been removed.
 
@@ -1091,7 +1091,7 @@ Coeris has many layers of magical defenses. Many of these were built by a magus 
 
 Deep beneath Coeris lies a cave, called the Altar of the Standards. Within it is a cleft in the earth, claimed to be the path taken by Orpheus into the underworld. It is called the Gate of Eurydice by the magi of House Tremere. Surrounding it are memorial niches, commemorating all the Tremere who have ever died. The sigils of most rest in their recesses, including that of Tremere himself.
 
-## *What is the Gate of Eurydice?*
+## What is the Gate of Eurydice?
 
 There are many caves claimed to be that of Orpheus, and the Tremere magi make no particular claim that theirs is the true one. If asked, the Tremere answer, "The magi who lived here before the Founder arrived thought it was the Path to Hades used by Orpheus, but we do not celebrate the Orphic mysteries and have no proof they were right." This line means they do not need to describe in any detail what the Gate really does. It is a permanent, open connection to the Magic Realm. It connects to an insula called The City Below by Tremere magi. The City Below is a place to which the people of Coeris will retreat if the covenant becomes indefensible. It's almost an afterlife, but perhaps one the House could return from, after time passes and its enemies
 
@@ -1107,13 +1107,13 @@ In your campaign, you might prefer an alternative explanation. The Gate might:
 
 The walls of Coeris are a glowing white, from centuries of limewashing. Many of the roofs are made of slates of rhodochrosite, a mineral found in the cave complexes of this region. It is made up of red, white, and
 
-## *Culture and Traditions*
+## Culture and Traditions
 
 pink bands.
 
 Coeris is designed to allow the Prima to do what she considers necessary. House Tremere is designed to ensure that Primae consider useful things necessary. Coeris is the point where the theoretical power of the House is transformed into strategy. Its culture and traditions all revolve, eventually, back to its role as the center of an ambitious and militant House.
 
-## *Dragonesti*
+## Dragonesti
 
 A large town called Dragonesti is one and a half miles to the east. The residents of Dragonesti are free, but the town acknowledges that it lives on the land belonging to the wizards. The town's stone walls, paved streets, sewerage system, and wells were created with magic. Dragonesti provides food and craftsmen to Coeris, but the taxes here are lighter than elsewhere in Hungary.
 
@@ -1125,7 +1125,7 @@ tical of outsiders, including priests, but are Christian. Dragonesti and Coeris 
 
 House Tremere's values are enforced internally, not just because the Tremere believe they are right, but because it makes Hermetic politics easier. Other magi know what House Tremere's members stand for. They also know that a publicly notarized deal with
 
-## *Hard Power Story Seeds*
+## Hard Power Story Seeds
 
 Stories based on the coercive force of the House use elements of hard power as the thing the characters must rescue, or the reward for a story well played.
 
@@ -1277,7 +1277,7 @@ Young, blonde, and sarcastic, Angiola is a Gently Gifted maga used by Poena as h
 
 Angiola is the maga most likely to appear if the characters have dismally failed a task among the mortals, and need rescuing. She's in charge of tidying up problems between magi and mundanes in this Tribunal. If the characters make any pretense of being noblemen, she regularly checks in with them. She acts as chief aide to Janus of Tremere.
 
-## *Magi*
+## Magi
 
 Coeris currently houses 20 magi, all of whom are members of House Tremere, with the exceptions of Archmagus Dominic of Tytalus and Issac of Merinita. Five of these magi are in Coeris for a year, either to acculturate their apprentices or as part of a rotation. Two more are young Tremere magi being "seasoned," performing missions for the House while awaiting more permanent placement in a covenant in another Tribunal. The remaining 13 form the core of House Tremere's policy-creating body.
 
@@ -1317,7 +1317,7 @@ Dominic knows that on one occasion, the Corruption, House Tremere did decide tha
 
 Dominic is a great ally for player characters to have. He has the ear of the Prima, and is at the center of things in Coeris, but he's not a Tremere magus. He always needs favors, because there's always a Tytalus magus trying to do something weird to someone undeserving. He can repay them from his vast number of contacts, tremendous store of devious advice, and his talent for necromantic mayhem.
 
-## *The Book of Legacies*
+## The Book of Legacies
 
 This vast white tome contains a list of every item, magic or mundane, controlled by the House. There are only 12 copies of the book, and many of those are kept in Coeris. A copy is held by the exarchs of foreign Tribunals, by the Primus, by her designated successor, and by the leader of Lycaneon covenant. The existence of the book is, itself, kept secret.
 
@@ -1345,7 +1345,7 @@ Horatius rarely leaves Coeris, but player characters from other places may still
 
 Horatius does not currently seek the Primushood, and is unlikely to win it on his own in the near future. If the House divided, he'd make a great compromise Primus. If Horatius
 
-## *The Blessings of the Dead*
+## The Blessings of the Dead
 
 Within the vast storehouse of material recorded in the Book of Legacies are the talismans of Tremere magi who have passed away. Since talismans are constructed without the usual material constrains of magic item creation, but persist after their makers die, these are some of the most potent magic items in Mythic Europe. Many older Tremere, not particularly interested in laboratory work in their younger years, are assigned time and resources, as Twilight approaches, to ensure they leave behind a powerful talisman. These items are called the Blessings of the Dead, and are treated reverentially by the Tremere. It is an honor to carry the talisman of a great heroine of the House, particularly if she was an ancestor.
 
@@ -1403,19 +1403,19 @@ Tatiana is the secretary for emergencies. It's her job to come up with solutions
 
 Characters are most likely to meet Tatiana when something truly awful is about to happen. She appears, commandeers their aid and resources, and then sends them into terrible situations. Her job is to buy time for the House and Order to react, and magi who don't assist her when she asks are, in some circles, forever tarnished by the disgrace of it.
 
-## *Keepers of the Silence of the Temple*
+## Keepers of the Silence of the Temple
 
 Tatiana is privately a member of the Keepers of the Silence of the Temple. This small, secretive and unofficial societates takes its name from a historical incident. In 356 BC, a young man set fire to the Temple of Artemis in Ephesus, and then readily confessed his crime, because, he said, it would make him famous throughout the ages. He was put to death, and all mention of his name forbidden. Tatiana and her colleagues believe that, on a far too regular basis, Tytalus magi deliberately do profoundly stupid things for fame. Her organization is dedicated to destroying first the person, then the memory, of these vandals.
 
-# *Plot Hooks*
+# Plot Hooks
 
 Characters who live at Coeris can be involved in stories on a Europe-wide scale.
 
-## *Allies in Foreign Tribunals*
+## Allies in Foreign Tribunals
 
 Normandy Tribunal has always been a problem for House Tremere, because it is full of Tytalus magi. As a counterweight, House Tremere has been aiding one of the Autumn covenants, called Oleron. The Oleronese are politically belligerent, and have set up a small covenant as bait for Tytalus raiders, without discussing this with House Tremere. When the Tytalus magi take the bait and attack the covenant, this draws Oleron into a clash with some powerful Tytalus magi. They assume that House Tremere will aid them. The player characters are dispatched to deal with this issue: how much aid do they want to give, and how publicly do they want to give it? How can they make the conflict stop, at advantageous terms, before it spirals into widespread war?
 
-## *Culture*
+## Culture
 
 The unique way that Transylvanian magi live provides opportunities for storytelling.
 
@@ -1429,7 +1429,7 @@ The tournament needs to run smoothly, and the player characters are made respons
 
 House Tremere's chief poet is elderly and wishes to retire in the next year. His role, in the House's policy, is to create memorable works which influence the Reputation of the House. The player characters are asked to find his replacement.
 
-## *Mortals*
+## Mortals
 
 House Tremere is particularly interested in the protection of its non-magical agents.
 
@@ -1439,7 +1439,7 @@ There is a king in another Tribunal who is seeking ways to pressure magi into pa
 
 
 
-## *Monica Ierne of Tremere, Archmaga and Legata*
+## Monica Ierne of Tremere, Archmaga and Legata
 
 Moinca of Ireland is a skilled combat maga who took the role of legata, field commander of the House, two years ago, when Poena became Prima. As legata, Monica is Poena's heir. She is expected, should Poena die or become indisposed, to act as Prima for the time it takes to call together an emergency meeting of the Council. Monica has her own sigil, and that of Tatiana, described later.
 
@@ -1613,7 +1613,7 @@ This spell creates a shaft 10 feet square and 100 feet deep. The shaft is not re
 
 ing an incident that the Quaesitores will take a dim view of. The player characters are sent as a recovery team, but they are told to make the rescue look deniable. The man has already been convicted of using forbidden magic, so making it look like he escaped with faerie or diabolic aid is not, of itself, a problem. They then need to bring the ally back to Hungary, where witchcraft, legally speaking, does not exist.
 
-## *Politics*
+## Politics
 
 Hermetic politics is played slightly differently as the representative of a militant House, expected to enforce order.
 
@@ -1633,7 +1633,7 @@ The Houses of Verditus and Bonisagus are co-sponsoring a Grand Tribunal resoluti
 
 It seems to Poena that House Bonisagus and Verditius get all the vis, but leave the collection and enforcement, with its costs and dangers, to House Guernicus and its militant allies. How will the vis be collected, what will the penalty for non-payment be, and how will that be enforced?
 
-## *Against the Dark*
+## Against the Dark
 
 She is also concerned that the project itself is less worthy than others the vis could be spent on. Is it better to establish taxation as a principle, then make what it is spent on useful, or demand it be useful to begin with?
 
@@ -1652,7 +1652,7 @@ House Tremere wants to campaign at Grand Tribunal to have a spell, called the As
 
 A team of Redcaps helping a magus move from one oppidum to another has drawn the House's attention to a statue their client owns. It is part of a set that displays the likeness of each founder, and is carefully relabelled "Pralix," but does not match any other portrayal of her. They believe that it is
 
-## *Silexa, a Familiar Wolf*
+## Silexa, a Familiar Wolf
 
 Silexa is not one of the native white wolves, being of Irish extraction, but she has great seniority in the strange community of wolves that depends on House Tremere.
 
@@ -1708,7 +1708,7 @@ Mental communication as per **ArM5**, page 105, complex variant.
 
 
 
-## *Talisman: Flint Wand*
+## Talisman: Flint Wand
 
 Monica's wand is a cylinder of flint with bronze bands. It has the following attunements, not all of which are used in the enchantments currently placed within it:
 
@@ -1846,7 +1846,7 @@ up to this. One possible resolution is that the magus is sincere, but he has not
 
 The House owns some uncrewed, magically powered submersibles which are used for spying. One has been attacked by a magical creature, and is currently wedged in its lair. The player characters are tasked with assessing ways to recover it. The complicating factor is that its presence in the waters outside a covenant that is unfriendly to House Tremere clearly violates the Code.
 
-## *Security*
+## Security
 
 The House's widespread interests make it vulnerable to local disruptions.
 
@@ -1858,7 +1858,7 @@ A serial killer has murdered three people, whose link seems to be that they are 
 
 There's a type of vis drawn from a faerie flower called amaranth, which causes pleasant hallucinations in magi, but also leads to addiction and Warping. Amaranth is destroyed wherever it is found in Transylvania, but the characters have just discovered a massive amaranth source. Do they keep the vis, and use it for non-drug related purposes? Do they harvest it as a drug? Do they use their new stash to infiltrate the Amaranth supply chains that run through House Mercere and Merinita?
 
-## *Successions*
+## Successions
 
 The House's method of succession, by appointment and dueling, is straightforward and quick, but that doesn't stop magi from trying to influence the outcome.
 
@@ -1882,17 +1882,17 @@ Alternatively, while the consiliari are being summoned, Monica is Prima. This gi
 An exarch in another Tribunal has had a conversation about how, if he had his choice, he'd just kill the local bishop and put the Christians to the sword, to sort out this whole Dominion problem. This was overheard and has circulated as gossip through the Redcap network. Later, the bishop is murdered. The Quaesitores say it was done by a mortal political rival, but there is a scandal regardless. Poena needs to remove the exarch and select a replacement. The more difficult task for the player characters is reconciling the disgraced magus with his loss of status, and finding a way for him to become an asset to the House again.
 
 
-## *Chapter Three*
+## Chapter Three
 
-# *The Hungarians (Magyars)*
+# The Hungarians (Magyars)
 
 In 1220, Hungary dominates the north of the Tribunal. Even those areas which are not formally part of Hungary often have nobles of Hungarian descent, and communities of Hungarians in larger towns.
 
-# *Political Structure*
+# Political Structure
 
 The current king of Hungary, Andrew (Andrais), has embarked upon a scheme of social change, the "new institutions," to strengthen his kingdom. Devolution of power and wealth to his nobles is meant to make Hungary more formidable in war. The reforms are, however, incomplete, and may be ill-advised.
 
-## *Traditional Political Structure*
+## Traditional Political Structure
 
 Hungary's royal lands are divided into a series of *megye*, or counties. Each is led by an *ispán*, or count, appointed by the king. There are 72 counties, and most counts rule more than one. They are represented in each extra county by a deputy, called a curial count. Counts support themselves with rent from peasants, plus a third of the taxes, tolls, and fines of the county. Counts are considered equal in status to a bishop.
 
@@ -1902,7 +1902,7 @@ Frontier counts are called *marchio,* in Latin. A march has a defensive system o
 
 The fringes of Hungary do not have counties. Transylvania is ruled by a line of *voivodes* (princes) appointed by the King of Hungary, each holding the role only for a few years. Croatia is ruled by an appointed governor, whose title is *ban*. Slovenia may also have a ban. Dalmatia's cities rule themselves under an agreement with the Crown.
 
-## *New Institutions*
+## New Institutions
 
 King Andrew has created a new class of nobles, his barons, who are considered superior to counts. There are 20 barons, each holding at least one county, who are selected from the highborn nobility. Andrew can dismiss a baron from an office, but generally only by giving them an alternative and lucrative role.
 
@@ -1917,11 +1917,11 @@ Andrew has also given vast royal territories to his barons. Those who favor his 
 
 Andrew has also arguably damaged the county system in two other ways. Foreign settlements, such as those granted to the Saxons, are outside the jurisdiction of counts, which erodes revenue. In the last decade, King Andrew has created many "royal servants," free men who are arguably outside the control of the counts. This has created tension between the old nobility and the newly free.
 
-# *Social Structure*
+# Social Structure
 
 Hungarian society is similar to that found in other Tribunals, with a few unique features. Hungarians are restrained, polite, and formal. They are very pedantic about their precedence, which is set at birth. Hungarians give their surnames, then their first names, a unique feature for Europeans. They do not discuss money, but are open to all other forms of conversation, even on taboo subjects like heresy.
 
-## *Serfs and Free Men*
+## Serfs and Free Men
 
 Serfs are property and may be bought and sold. Serfs may be ordered to do work,
 
@@ -1949,7 +1949,7 @@ Each count has a band of free warriors as the core of his banner. They may not l
 There are two main groups of half-free, the *udvornici* and the *conditionarii*.
 
 
-## *Hungarian Social Classes as Virtues and Flaws*
+## Hungarian Social Classes as Virtues and Flaws
 
 Serfs, udvornici, most free men, and castle folk use the Peasant Free Virtue.
 
@@ -1975,11 +1975,11 @@ The udvornici are "royal serfs." That is, they are serfs on the extensive royal 
 
 The conditionarii are peasants who have a duty, at a village level, to provide a good or service to the king. These duties are very specific. One village provides all of the royal cooks, another all the door keepers, another all the coopers, another all the jesters, and so on through dozens of professions. Some groups instead provide goods to the court. One group is required to pay in beaver furs, another marten furs, another honey, another blocks of iron, and so on. Conditionarii are half-free, because their duties, like a free man's, are limited by the custom of their tax conditions.
 
-## *Hospites*
+## Hospites
 
 Hospites are "guests" who, in exchange for taxes or services, are allowed land on which they may live by their own laws and customs. Hospites have golden freedom, and they may leave their land if they wish. All Transylvania Saxons, Khwarezmians in the royal service, and Szeklers, for example, are free men.
 
-## *Petty Nobles*
+## Petty Nobles
 
 A landowner is noble in Hungary, regardless of how small his property is. Land comes to a family in a number of ways: ancient ownership; land grants from the king, the Church, or a nobleman; or invasion of surrounding lands. Inheritance in Hungary is by equal division among sons and grandsons of the property of the deceased. This makes even large estates implode into tiny fragments over generations. The usual way of preventing this is for a nobleman to give his land to a favored relative before he dies, cutting off tiny slivers to give to his other children so they retain their noble status. The royal house does not evenly divide its lands, which allows it to retain its strength.
 
@@ -1987,7 +1987,7 @@ All land in Hungary not owned by the Church or loaned by the King to one of his 
 
 Many of the greater nobles are counts. As royal officers, they have a duty to fight on the king's behalf using the resources of their
 
-## *Nobility: A Clarification*
+## Nobility: A Clarification
 
 There are moves afoot in Hungary to define the role and status of the nobleman. If your saga follows history, these will crystallize in the Golden Bull in 1222, which ties nobility to landholding. In 1220, however, various Hungarians believe that people are noble by whichever one of the following best describes the holder of the belief:
 
@@ -2002,7 +2002,7 @@ There are moves afoot in Hungary to define the role and status of the nobleman. 
 A player character can claim to be noble if she has any of these attributes, but other nobles will not necessarily agree that they share status. Note that the victorious premise in this tussle, that the landed are noble, means that many magi are noble, or can become so with trivial effort. This does not require an Oath of Fealty, and so does not breach the Code.
 
 
-## *King Bela's Finances*
+## King Bela's Finances
 
 King Bela, the grandfather of the current king, prepared a list of his finances when attempting to arrange a marriage to a foreign princess in the late 12th century. He claimed income of 166,000 marks (110,666 pounds) a year, plus services. He may have been exaggerating for effect, but this is 50 percent higher than the income of the king of France, and double that of the king of England. Bela was ridiculously wealthy, and his income was in silver, not in service or agricultural products.
 
@@ -2021,24 +2021,24 @@ burg via Vienna. Eztergorm sits at the junction of these three routes, and is on
 
 county. They are under no obligation, however, to rouse their personal servants.
 
-## *High-Born Nobility*
+## High-Born Nobility
 
 The gentry of Hungary are drawn from 108 families that claim to be descended from a pagan chieftain (not necessarily Hungarian) in the initial invasion. The members of this group may use "from the kindred of X" as a title. The greater a family's poverty, the more they insist they are noble using this method, since they have no other way of demonstrating their status. Kindred use the same symbol on their coat of arms, an idea borrowed last century from the king. They are not political entities, and hold no property in common except perhaps a burial abbey.
 
-## *Greater Nobles*
+## Greater Nobles
 
 The greater nobility of Hungary are descended, in the most part, from royal servants. Royal servants may be native or foreign. They are raised from bondship to nobility, given a little land, and become men of the king's household. In return for excellent service, they are given increasingly large sections of land and, with it, great economic power.
 
-## *The King*
+## The King
 
 The king's allodial land is the vastest in the kingdom. It is a mixture of territorial blocks and villages. Each section centers on a *curtis* (royal manor). Much of it is "forest," in the legal sense of land reserved for the royal
 
 
-# *The Three Court Cities*
+# The Three Court Cities
 
 The royal court proceeds around three cities and this triangle is the core of the Hungarian state.
 
-## *Esztergorm*
+## Esztergorm
 
 Esztergorm is the capital of Hungary, and its largest city. The city is ancient, and was a camp for the Romans, Attila the Hun, and the first king of the invading Hungarians. The Castle Hill (or *Várhegy*) lies close to the river, allowing fortification and the control of river traffic for taxation.
 
@@ -2052,11 +2052,11 @@ The city lies between the hill and river. It has around 11,000 inhabitants, many
 
 often hires foreigners to bring skills useful to the court into Hungary, and these servants live in the city to be near their employment. Second, the laws of the kingdom require all foreign merchants to offer their wares for sale at Esztergorm, so that they can be conveniently purchased by the court. Some of these merchants settle in the city, to act as agents and suppliers for their countrymen.
 
-## *Székesfehérvár*
+## Székesfehérvár
 
 This city is surrounded by marshland, which made it defensible in ancient times. When the Hungarians invaded, their king saw the military potential of the place and
 
-## *The Estate of the Wizards*
+## The Estate of the Wizards
 
 For as long as records have been kept, there has been a large, elegant building, similar to a Roman villa but three stories high, in the royal capital. Its residents say it was once outside the town, but that the city has expanded around it, leaving a moat of formal gardens. The Estate of the Wizards is a mansio, a place where magi can stay that is maintained by House Mercere. The local nobility know that if they have complaints against magi, they can be lodged here. In cases where the right of justice is disputed, the king's judges and the servants of the magi can contest jurisdiction here. That magi usually interact with mundanes through servants is a traditional right, protected by the Holy Crown of Hungary. Similar mansios are scattered around the Tribunal: some public, many private.
 
@@ -2064,7 +2064,7 @@ fortified it. Saint Stephen built a basilica here and appointed a bishop. Since 
 
 Székesfehérvár is not the capital, but it is the city that the royal family uses for many ceremonial functions. The king is always
 
-## *Story Seeds for the Royal Mint*
+## Story Seeds for the Royal Mint
 
 Esztergorm contains Hungary's only mint, and the reminting of coins is one of the main sources of royal income. Enforcement of standards is taken far more seriously in Hungary than in other countries, where the right to mint is sold to noblemen. Coins are regularly reminted, and the king's staff is very skilled at detecting forged coins. Magi who do not take sufficient care when making coins with created silver are more likely to be caught in this Tribunal than in any other.
 
@@ -2094,7 +2094,7 @@ One of the king's inspectors of coins has disappeared. The king's minister think
 
 crowned, and preferably buried, in Székesfehérvár. Important pilgrimages start here. When the nobles gather for a diet (like a parliament), it generally occurs here. Although the king's treasure is stored in Esztergorm, those pieces which have ceremonial functions are usually kept in Székesfehérvár. The most important of these is the Holy Crown.
 
-## *Veszprém*
+## Veszprém
 
 The smallest of the three cities, the castle here predates the Hungarian invasion. Saint Stephen founded the first bishopric in Hungary here. The town was a favorite of Stephen's queen.
 
@@ -2106,11 +2106,11 @@ The Bishops of Veszprém, weakest and poorest of their class, are usually closel
 
 Veszprém houses a college where royal diplomats are trained for international service. The artes liberales are taught here, together with law. The library of the college is one of the finest in Hungary.
 
-# *Village Life*
+# Village Life
 
 The average village has 30 to 40 households. The houses are scattered about, not confined to streets. Most Hungarians only use their houses for bad weather accommodation, and have tents near their houses that they use in preference. Huts are timberframed, lack windows or chimneys, and have
 
-## *The Holy Crown of Hungary*
+## The Holy Crown of Hungary
 
 The traditions of the Holy Crown lie at the center of royal legitimacy in Hungary. The Hungarians were originally a central Asian people, and so their ideas concerning legitimacy are strange from the perspective of Western Europeans. The Doctrine of the Holy Crown was first explained by Saint Stephen, although it has been developed by other thinkers since that time.
 
@@ -2146,7 +2146,7 @@ Villages move as land becomes exhausted. In 1092 a Church council demanded that 
 
 Animal husbandry hasn't dominated agriculture in Hungary for a couple of centuries, but it still holds a central place in Hungarian culture. There are huge pasturages owned by nobles all across the country. Cattle and sheep are the commonest stock, followed by pigs which are fed on mast. Peasant animals are penned in winter. Peasants are permitted to fish, and sturgeons reach as far up the Danube river as Pozsony and Tokaj. Peasants are allowed to hunt indeed, in some areas they are required to, because hospites often pay an annual tax in marten pelts, honey, mead, or wax. Bears, wolves, wisents, and aurochs are all found in the Tribunal, and are not reserved for noblemen, as in some other kingdoms.
 
-## *Witches Don't Exist (So Magi Are Not Witches)*
+## Witches Don't Exist (So Magi Are Not Witches)
 
 In the 11th century, King Coloman the Learned passed a law which said simply this: witches do not exist, therefore no trials for witchcraft may be held. The Quaesitors investigated this, as circumspectly as they were able, but were not able to find a Hermetic magus responsible for Coloman's action. King Coloman's law persists: witchcraft is not a crime in Hungary.
 
@@ -2160,22 +2160,22 @@ As a result, the Tribunal polices lesser magicians. Most hedge magicians in this
 
 The Order does not dare to fail in its duty to police its own. The right to do so is guaranteed not by the King, but by the Crown, and the Crown of Hungary is a quasi-angelic presence whose body is co-terminous with the kingdom. The Crown is no more interventionist than its mistress, the Virgin Mary, but compared to the petty mortal kings of Stonehenge or Iberia, it is far more able to bring magi to task if they fail to deliver justice.
 
-# *The Church*
+# The Church
 
 Saint Stephen, the father of Hungary, introduced Roman Christianity as a tool for centralizing power. He used it to eradicate paganism, which is extinct in the country with the exception of the Cumans. He also used Christianity to destroy tribalism, which he replaced with the county system. Several counties make a diocese, and each diocese has a bishop. Each bishop answers either to the Archbishop of Esztergorm who is the senior and crowns the kings of Hungary — or the Archbishop of Kalocsa. Each of these is, theoretically, a close ally of the King.
 
-## *Finance*
+## Finance
 
 The Church is a major landholder in Hungary. The largest holdings belong to the two archbishoprics, and to the bishoprics of Pecs and Ordea (which keeps the Divine Dexter, the mummified hand of Saint Stephen) The richest and most powerful cathedral chapter is at Székesfehérvár, which keeps the Holy Crown (which is alive, and Divine) and looks after the buried kings of Hungary. Its provost is like a count, with archdeacons administering each county on his behalf. The largest and richest monastery in Hungary is at Pannonhalma, which had 2200 households under its governance in
 
 
-## *The Founders of the Fectores*
+## The Founders of the Fectores
 
 Radomir was a young, idealistic, and especially bright member of House Tremere. Although he was no initiate himself, he had made a particular study of a necromancer cult called the Disciples of the Worm (*The Mysteries Revised Edition*, page 129) whom he believed were descendents of the Dacian necromancers who had supported Tremere. His interest in ghosts and the walking dead proved a perfect foil to Murat's in-depth knowledge of vampire lore.
 
 Murat of Terezin was already quite experienced before he approached Coeris, and had gathered many scraps of hunter lore, discovering that the Arts need not be restricted to vampires. Murat of Terezin was secretly a dhampir himself, and became a vampire upon his death. The vampire survived long enough to become a *kukudhi* (a human infiltrator, see "Vampires That Take Human Form" in Chapter 8: Creatures), and now lives distant from Laniena with his fourth mortal wife. The vampire is the father of over twenty children, all of whom are dhampirs. Only Murat the Younger is aware of the elder Murat's status, and he permits him to exist knowing that the vampire provides a steady supply of Faerie-Blooded hunters, and thus far, at least one Gifted child.
 
-## *Story Seed: Sordid Family Business*
+## Story Seed: Sordid Family Business
 
 A character could be one of Murat of Terezin's children, only finding out later in life that she has a dark legacy and is fated to kill her own father. Alternatively, if Lexander (see later) discovers that Murat the Younger permitted a vampire to live, this news could bring down the wrath of House Tremere on the oppidum.
 
@@ -2183,7 +2183,7 @@ A character could be one of Murat of Terezin's children, only finding out later 
 
 The Church tithe in Hungary is less onerous than in other lands, because of the large lands the Church holds, and the low population of Hungary compared to the Western European kingdoms. The tithe is always collected on grain and wine, and in some places it is collected on other farming or mining products. Tithes are increasingly paid in coin, a recent, but almost complete, innovation. Romanians, being Orthodox, do not pay a tithe, but pay a sheep tax called the fiftieth instead.
 
-## *Law*
+## Law
 
 The systematic foundation of churches has been royal policy since Saint Stephen's time. Every ten villages must have a church. It must be built and maintained by the villagers, and supplied with two manses, two serfs, a mare, a horse, six oxen, two cows, and thirty small animals. Books for the church are provided by the bishop of the area. The vestments of the priests and altar cloths are provided by the king, or his local representative. Failure to build, maintain, or provide for a church is a serious offense, punished by royal officers.
 
@@ -2192,11 +2192,11 @@ Many of the laws defining punishment for failure to live in a manner appropriate
 The Church in Hungary is very confident in its power, and so sees little need for draconian measures to prevent conversion to other faiths. Pagan activities are so rare in Hungary that the Church has reduced the penalty for them to simple fasting. Large groups of Jews and 30 villages of Sunni Turks work in the royal service, particularly in trade, coinage, and the treasury. The proscriptions from the Lateran Council, that Muslims can't handle Christian money and that Jews need to wear distinctive clothes, are not enforced.
 
 
-# *The Oppidum of Laniena*
+# The Oppidum of Laniena
 
 Originally part of the Scholomance, Laniena soon developed into a separate oppidum and relocated to its current location. The principle business of Laniena ("slaughterhouse") is the training of the Fectores. These are an experiment by House Tremere, a cadre of hunters of supernatural threats who wield potent non-Hermetic magic derived from the native magical traditions of the Balkans. So far, this experiment has been deemed a success.
 
-## *History*
+## History
 
 In its history, House Tremere has been plagued by vampires. The biggest threat has been infiltration following the death of a dhampir magus, which has become enough of a problem that House Tremere now forbids its members to take a dhampir as an apprentice. The last incursion was about a hundred years ago when the vampire of a deceased magus sought out dhampirs, had them trained, then killed them to make them into vampires.
 
@@ -2207,11 +2207,11 @@ Murat's ace in the hole was an ancient store of initiatory scripts recorded by a
 
 served a taltós clan for many months. Years of experimentation followed before Murat of Terezin and Radomir had discovered a means by which a Gifted individual could be Opened to the Hunters' Arts (see Chapter 9: Hedge Traditions). Radomir called these individuals the *interfectores*, or the slayers, but this quickly became abbreviated to Fectores.
 
-## *Setting and Description*
+## Setting and Description
 
 The buildings composing Laniena's oppidum lie immediately outside the entrance to the largest of the Aggtelek caves in northern Hungary. A few sturdily built houses abut a high semi-circular wall guarding the entrance to Baradla Cave. A thick hedge of black hawthorn has been cultured to surround the homes of the magi and their covenfolk. This complex is a training ground for the Fectores, and it has an arena, several workshops for metalsmithing and carpentry, and its own chirurgeon and apothecary's laboratory.
 
-## *The Aggtelek Caves*
+## The Aggtelek Caves
 
 All of the Aggtelek Caves are sites of startling beauty, and many of them have a Magic aura. Baradla, as the biggest and most spectacular, has the most powerful aura of 5. Like its fellows, Baradla is filled with fantastic stalactites and stalagmites, columns, rock flows, and other such formations. Many of these features are tinged with red, green, or violet, and in places it seems like the rock has melted like tallow in the sun. Both Imaginem and Muto vis can be collected in Baradla Cave.
 
@@ -2221,7 +2221,7 @@ Ochtinska Cave is one of the smallest of the caves, and yet one of the most inte
 
 Baradla Cave is over sixteen miles long, and is a maze of twisting passages, blind ends, and obscured chambers, some of which are believed to link up to other caves in the region. Only Lexander has investigated the caves in any great detail, and even he has not been everywhere. All entrances he has discovered have been protected with powerful warding enchantments, for Lexander's favorite training method is to release a supernatural creature such as a vampire or werewolf into the cave, and then send his pupils in to hunt it down through decidedly hostile terrain.
 
-## *Fectores Versus Hermetic Fectores*
+## Fectores Versus Hermetic Fectores
 
 Laniena arranges the training of Fectores in non-Hermetic magic, despite the fact that they all have the capacity to learn Hermetic magic. To some, this seems like a waste. However, many of the Gifted individuals they find or are sent are not suited to apprenticeship. Most are not of a scholarly bent, and have no desire to spend fifteen years of their lives bent over books and learning laboratory secrets. The Fectores are warriors against the hostile forces that assail mankind. Most of them come from backgrounds that do not adapt easily to the life of a Hermetic apprentice — they are peasants, soldiers, or faerie-blooded dhampirs who are driven to the role of a hunter by feelings of obligation toward the community. Fifteen years of study just delays them from doing what they really want to do: hunt down and kill foes.
 
@@ -2236,7 +2236,7 @@ Some magi are of the opinion that training Gifted children as Fectores is equiva
 Ultimately, it is the opinion of the Tribunal (that is, House Tremere) that matters, and current policy is for Laniena to continue to train Fectores, considering them to be a valuable resource. Three Fectores can be trained in the time that it typically takes to train a Hermetic apprentice, allowing their numbers to swell despite the tradition's notoriously short life expectancy. In a war against supernatural or magicwielding foes, House Tremere will be ready with Fectores on the front line. Laniena is aware that it exists only on the sufferance of the Tribunal. Should they displease House Tremere, it would be simple for them to be charged with the High Crime of depriving a magus of his magical power.
 
 
-## *Culture and Traditions*
+## Culture and Traditions
 
 Laniena's purpose is to train Fectores, a type of non-Hermetic magician skilled in the Hunter's Arts (see Chapter 9: Hedge Traditions). Fectores usually become members of House Ex Miscellanea, although the Fectores are loyal to House Tremere rather than the Order of Hermes as a whole. While the stated reason is to maintain the security of the Order, others cannot help questioning the real purpose behind the Fectores. Gifted children who show great promise may become Hermetic Fectores instead, magi Ex Miscellanea who wield both the Hermetic Arts and the Hunters' Arts.
 
@@ -2252,11 +2252,11 @@ The Fectores, unlike many other hedge traditions, do not have Magical Defenses e
 
 Murat of Terezin was the first of a new *societas* within House Ex Miscellanea. He
 
-## *Against the Dark*
+## Against the Dark
 
 trained three apprentices, the youngest of whom — also called Murat — is one of the magi of Laniena. Hermetic Fectores are just like other magi Ex Miscellanea. They choose one of the three Practice Arts as their free Major non-Hermetic Virtue, along with its free Foe Art. Their free Minor Hermetic Virtue is a Minor Magical Focus in harming a particular supernatural creature; this usually matches the Foe Art that they possess. Their Major Hermetic Flaw is Weak Spontaneous Magic; the methodical preparation typical of a hunter comes at the expense of flexibility.
 
-## *Magi*
+## Magi
 
 Laniena is currently occupied by just two magi, although anyone interested in the Hunters' Arts is welcome to join. Lexander and Murat the Younger are the filii of the oppidum's founders, but unlike their parentes, they are at constant loggerheads.
 
@@ -2279,7 +2279,7 @@ Murat the Younger was trained by Murat of Terezin, the founder of the Fectores, 
 
 Murat the Younger is a hospes, although his personal privilege permits him to take apprentices without seeking approval from the Praeco, to encourage him to train as many apprentices as he can contribute to the Tremere war machine.
 
-## *Covenfolk*
+## Covenfolk
 
 Laniena employs several elite warriors who are trained to fight under the command of a Fector, whether Hermetic or non-Hermetic.
 
@@ -2288,17 +2288,17 @@ Laniena employs several elite warriors who are trained to fight under the comman
 Bendis is the most capable of the oppidum's non-Hermetic Fectores. Named after the mother-goddess of the ancient Thracians, Bendis is both warrior and hedge magician. She typically wears leather armor, and carries a bow armed with vampire-slaying arrows. She is a strong leader, and has a hand-picked band of cohorts trained in both weapons and lore.
 
 
-## *Chapter Four*
+## Chapter Four
 
-# *The Bulgarians*
+# The Bulgarians
 
 In 1220, the Second Bulgarian Empire under Tsar Ivan Asen II rules most of the Balkans, from the Black Sea to the Morava River, and includes Wallachia north of the Danube. The capitol is at Tarnovo, and the empire also includes the great cities of Niš, Sredets, Silistra, and the ports of Varna and Nesebar. Tsar Ivan is an aggressive ruler determined to restore his ravaged empire to its former glory, and if your saga follows history, in the next ten years, he extends his dominance over Thrace, Macedonia, and Epiros, and encroaches on Serbian territory in the west, adding Belgrade and Vukovar to the Empire.
 
-# *Geography of Bulgaria*
+# Geography of Bulgaria
 
 Bulgaria has always been important with respect to trade routes. On land, Bulgaria links the Bosphorus with Central Europe, either via the Danube and Romania or else the ancient route through Adrianople, Plovdiv (Philippopolis), Sredets, Niš, and Belgrade.
 
-## *The Danube*
+## The Danube
 
 The Danube River flows through the enormously fertile northern region of Bulgaria, and is the breadbasket of the empire. The Danube delta forms an enormous wilderness of swamps and marshes extending over about one thousand square miles, largely covered with tall reeds. The Dobrudja Plain to the south of the delta is characterized by sandy steppes and low mountains rich in copper; although prone to droughts, the Dobrudja is remarkably fertile when irrigated.
 
@@ -2314,7 +2314,7 @@ of Trapezitsa is the monastery of Saint Ivan Rilski, which holds the relics of t
 
 The Nov Grad and the neighborhood of Assenova on the right bank are home to the artisans and craftsmen of Tarnovo, whereas it is principally the noblemen who maintain residences on top of either hill.
 
-## *The Stara Planina*
+## The Stara Planina
 
 The Old Mountains (*Stara Planina*) dominate the heartland of Bulgaria. Called Haemus by the Ancients, the narrow range stretches nearly 400 miles westward from the Black Sea. These mountains are covered in meadows, offering lush grass to flocks of sheep and herds of cows. Below the pasture is a forest zone dominated by beeches, and below that the foothills are well-suited to arable farming. The mountains form a climatic barrier, sheltering the Thracian Plain to the south from the worst of the cold winters suffered by Romania.
 
@@ -2322,7 +2322,7 @@ The Old Mountains (*Stara Planina*) dominate the heartland of Bulgaria. Called H
 
 Saint Ivan Rilski (John of Rila) was a hermit, healer, and mystic who died in 946. He
 
-## *The Galleries of Tarnovo*
+## The Galleries of Tarnovo
 
 In Roman times, the great city of Nikopolis ad Istrum was situated about 12 miles north of Tarnovo. When it was sacked by the Huns in 447, legend tells that the Roman inhabitants fled to a settlement built on Trapezitsa Hill with the fabulous wealth of Nikopolis. They built galleries deep into the hill, and hid the treasure within, guarded by many dangerous traps and pitfalls. Treasure hunters have been searching for the Roman hoard ever since.
 
@@ -2335,7 +2335,7 @@ spent twelve years living in a cave, followed by three years in a hollowed out o
 
 Lying in the Rila Mountains to the south of Sredets, the Seven Lakes are a series of interconnected lakes, with the highest at over 8,200 feet and the lowest at 6,900 feet. Through some quirk of the faerie magic of this region, the water does not simply flow from the highest to the lowest, but in an entirely illogical sequence. The area has a Faerie aura of 3, and each lake has a Faerie regio of aura 6. Each lake is home to a *vila* (of the water maiden variety, see Chapter 8: Creatures) named after the lakes; which are (from highest to lowest): Salzata ("The Tear"), Okoto ("The Eye"), Babreka ("The Kidney"), Bliznaka ("The Twin"), Trilistnika ("The Trefoil"), Ribnoto Ezero ("The Fish Lake"), and Dolnoto Ezero ("The Lower Lake"). The seven vilas are rival sisters, and offer those who bathe in their waters a faerie gift if they will spend a year and a day in their underwater homes. However, the vila is bound to kill their guest on the last day of his stay.
 
-## *The Plains*
+## The Plains
 
 South of the Stara Planina are two great plains, the Sredets Plain to the west, and the Thracian Plain to the east, separated by the Gates of Trajan. The wide Sredets Plain is dominated by the peak of Mount Vitosha, the northernmost of the Rila Mountains. The Thracian Plain is best known for its horses and its grapes.
 
@@ -2343,13 +2343,13 @@ South of the Stara Planina are two great plains, the Sredets Plain to the west, 
 
 One of the main cities of the First Bulgarian Empire, Sredets is famous as a center for
 
-## *Baldwin's Tower*
+## Baldwin's Tower
 
 Baldwin's Tower overlooks the Frankhissar, and was built to house Emperor Baldwin of the Latin Empire of Constantinople, who was captured in battle by Tsar Kaloyan in 1205. Baldwin was initially treated as a valuable hostage and treated well, but the Frankish nobleman sealed his own fate by trying to seduce Kaloyan's Cuman wife (or, according to some, the Bulgarian empress accused Baldwin of rape after he spurned her). Baldwin was walled up in the tower and the screams were heard over the Frankish quarter for months until they abruptly ceased one night. The tsar announced Baldwin's death to the pope.
 
 Some say that the tsar had his enemy decapitated and his skull made into a drinking cup. They claim to have seen the headless corpse of the emperor around the tower, denied a Christian burial and seeking revenge on the Asen line. However, there are others who claim that Emperor Baldwin is still alive, held captive by the current tsar for some unknown purpose. Based on these rumors, at least one group of foreigners has attempted to gain entrance into the tower and free their leader, but the tower remains resolutely impregnable.
 
-## *Story Seed: The Trials of Saint Ivan Rilski*
+## Story Seed: The Trials of Saint Ivan Rilski
 
 The brothers of Saint Ivan Rilski's monastery are highly influential in Bulgarian politics, since they are perceived to speak for the people's patron saint. When the player characters need some help with the local *bolyeri* (noblemen), they might turn to the monks for a favor. Before they will help, the monks demand they seek the favor of the saint by spending twelve days in the cave, three days in the oak tree, and seven days on a high rock. During this three-week ordeal, the characters are tested by the saint for their purity of purpose. If they pass, the characters may acquire the monastery as an ally. A similar procedure might act as Initiation into a Holy Tradition dedicated to the saint.
 
@@ -2367,14 +2367,14 @@ The brothers of Saint Ivan Rilski's monastery are highly influential in Bulgaria
 
 *Strike Dumb*, 1 point, Init +8, Corpus: The target of this power is rendered entirely mute. This situation persists until the saint chooses to lift the curse.
 
-## *Story Seed: One Groom for Seven Sisters*
+## Story Seed: One Groom for Seven Sisters
 
 It is possible to gather all seven gifts from the seven vilas, although dangerous to say the least. Each sister provides the means to escape the death offered by one of her sisters. Local wisdom suggests that Babreka is the best lake in which to start, as its vila grants the ability to pierce faerie illusions, which is useful to foil the death offered by Dolnoto, who is the most skilled in manipulating glamour. Reportedly, Dolnoto's gift of a lesser immunity to poison is useful in foiling the death offered
 
 by one of the other sisters, who typically poisons her guests. Each gift is equivalent to a Minor Virtue, and is accompanied by a Faerie Charm. A clever magus or sufficiently motivated mundane could discover the order in which water flows between the seven lakes, thus revealing the order that the sisters must be visited. It is said that a man who can claim all seven gifts becomes the lord of the seven sisters, and they are forced to pay him homage and follow his commands.
 
 
-## *The Boyana Master*
+## The Boyana Master
 
 Vasiliy is a Maestro (*Art & Academe*, page 133), and his frescoes quite literally make men weep with their beauty. The Boyana Master has already attracted the attention of an angelic patron. Unfortunately, the priest of Boyana has become the target of a demon's interest, thanks to his own native pride in the work being completed in his church. The congregation of Boyana have become pawns in the battle for souls between the angel and the demon. It may be that Vasiliy himself recognizes the spiritual turmoil and asks for help from the characters, but like most Maestros, he is somewhat oblivious of anything other than his art. Instead, the characters might be asked by the angel or manipulated by the demon into finishing off their rival.
 
@@ -2392,15 +2392,15 @@ The Madara Plateau rises suddenly from the Thracian Plain in an almost vertical 
 
 At the foot of the plateau is a path winding up to a large cave, which is a natural amphitheater beneath a huge overhang of rock. The cave is draped in greenery, and is the source of a small spring. The ancient Bulgars worshiped the three nymphs of the waters at this site.
 
-## *The Southern Mountains*
+## The Southern Mountains
 
 The Rhodopes Massif are a maze of ridges and valleys offering summer pasture above forests of pine and fir. To the north and west are the Pirin and Rila mountain ranges, which almost join up with the Stara Planina at the Gates of Trajan.
 
-# *Bulgarian History*
+# Bulgarian History
 
 Bulgaria is a land shaped by invasion. From the time of Augustus (63 BC-14 AD) it was an integral part of the Roman Empire, occupied by Thracians. The Goths invaded Thrace in 250, and again in 376, slaying Emperor Valens in a great battle near Adrianopolis and settling the region. The Goth settlers adopted the Christian faith of the Thracians, and Bulgaria was an important center of Christianity right up to the invasion of the Slavs during the reign of Emperor Justinian (527-565). The Slavs poured over the entire Balkan peninsula as far as the Adriatic and the shores of the Aegean, and a large proportion of the native population were slaughtered, led away
 
-## *Story Seed: Starosel*
+## Story Seed: Starosel
 
 Starosel would be an excellent site to locate an oppidum — it has a strong Magic aura of 6, and has a ready-made and excellently defensible structure. Both Terram and Herbam vis can be collected within a few yards from the tomb temple. However, Starosel is guarded by a magical spirit who is the genius loci of this place, and is strongly resistant to change. The spirit manifests as a vaguely defined female figure formed from black soil and red clay, and has extensive powers over elemental earth. It can call upon the local plants to assist it
 
@@ -2412,7 +2412,7 @@ The confederation of the Seven Tribes of the Slavs ruled the Balkans for about a
 
 The well-organized and massive immigrations of Khan Asparukh and his Bulgar followers, from north to south of the Danube between 679 and 681, heralded the formation of the First Bulgarian Empire, a mighty Slavo-Bulgar state that persisted until 1018. The Bulgars introduced to the chaotic Slavic world the notion of an imperial destiny backed by a rigid military and social hierarchy answerable to a single chief, the Sublime Khan. Despite its strong start, the First Bulgarian Empire was riven with internal strife and wars with the Byzantine Empire to the south. Krum the Conqueror was one of the empire's most famous (and most feared) leaders, adding Hungary and Transylvania to the empire in 803, and defeating two Byzantine Emperors in battle and besieging Constantinople before his sudden and mysterious death in 814. Christianity was accepted in Bulgaria some 70 years later under Khan Boris, who took the baptismal name of Michael.
 
-## *The Mysterious Asens*
+## The Mysterious Asens
 
 Ivan Asen I was the first ruler of the Second Bulgarian Empire, followed by his brothers and nephews. However, their origins are shrouded in mystery; no one questions their right to rule, but none know from what authority it derives. Asen and his brothers came from nowhere to lead the rebellion against the Byzantines on behalf of the Bulgarian people, and
 
@@ -2422,19 +2422,19 @@ Boris' son Symeon was the first to call himself "tsar" (emperor) rather than "kh
 
 The First Bulgarian Empire finally succumbed to Byzantine rule in 1018, and only ended it in 1185 despite a series of rebellions. The 11th century brought further invasions: first the Pecheneg nomads from the east, then the Magyar from the north, followed immediately by the Tatar Uzes from Russia. Three brothers — Teodor Petar, Ivan Asen, and Kaloyan — eventually led the Bulgarians to freedom from the Byzantines. Kaloyan, who reigned from 1197 to 1207, restored the Bulgarian Empire, and his nephew Ivan Asen now rules as tsar. Kaloyan's marriage to a Cuman bride brought the Bulgarian tsars a strong alliance with the nomad tribe, but one which has to be ritually renewed every summer. Ivan Asen II has occupied the throne for only two years, but already shows promise, starting with his marriage to the daughter of the King of Hungary.
 
-# *Bulgarian Society and Culture*
+# Bulgarian Society and Culture
 
 Bulgarians are sturdy and compact in build, often with dark hair and tanned complexions. The men favor baggy trews tucked into high boots and the women wear colorful skirts; both sexes wear embroidered shirts and waistcoats or bodices. Considered less volatile and flamboyant than their Serbian neighbors, Bulgarians are industrious, tolerant, and hospitable, but are dogged fighters in pursuing a just cause.
 
 The Bulgarians are ruled by a *tsar*, who claims the title of "Emperor and Autocrat of all Bulgarians and Vlachs," implying sovereignty of the people rather than the lands. He rules through the bolyeri (noblemen, sing. *bolyar*) who are divided into 100 noble families, both *bolyeri veliki* (great bolyars) and *bolyeri mali* (minor bolyars). The great bolyars, along with the Patriarch of the Bulgarian Church, constitute the Bolyar Council, or *Sinklit*, which advises the tsar on matters of policy. Administratively, the empire is divided into *horas*, ruled by a *kefaliya*, a title equivalent to duke. Each kefaliya has one or more vassal *katepans* (equivalent to count) who rule *katepanikons*.
 
-# *Story Seed: The Madara Horseman*
+# Story Seed: The Madara Horseman
 
 A local bolyar, with whom the characters have had previous contact, begs them for shelter from a terrible spell cast upon him by a faerie wizard. He is being hunted by the Madara Horseman, who will not let up until the bolyar is dead. The involvement of a wizard might be sufficient incentive to meddle with mundanes in this instance. The truth of the matter is that the bolyar himself paid the wizard to summon the Horseman hoping to set it against his enemies. However, the Horseman had been listening to the whispered prayers of his people, and saw the bolyar's ambition and pride as the biggest threat in the region. The wizard's only real crime is to know that this was likely to happen, but not warn the unpopular bolyar of the consequences. Having discovered this, the characters must decide whether to help the bolyar, or allow nature to take its course. In the latter case, there is a chance that the lion who opposes the Horseman might interfere with what some would consider justice.
 
 The Madara Horseman should have a Faerie Might of at least 20, although this could be more depending on the needs of the people and the success of the rite which awakens him. The Lion should have a Faerie Might to match that of the Horseman.
 
-## *The Bulgarian Church*
+## The Bulgarian Church
 
 The Bulgarian Orthodox Church traces its descent from Saints Cyril and Methodius, who were welcomed to Bulgaria by Boris I in 886. When Bulgaria and Constantinople signed a peace treaty in 927, the patriarch
 
@@ -2443,7 +2443,7 @@ of Constantinople recognized the independent status of the Bulgarian Church, whi
 
 One of the first tasks of the Asen dynasty in the Second Bulgarian Empire was the restoration of the autocephalous Bulgarian Church, and they established a new archbishopric at Tarnovo, the capital of the new empire. The Patriarch of Constantinople remained resolutely against the independence of the Bulgarian Church; and the Asens turned toward the Church in Rome to gain political purchase against the obdurate patriarch. In 1203, Pope Innocent III proclaimed the Archbishop of Tarnovo the "Primate and Archbishop of all Bulgaria and Wallachia"; aligning the Bulgarian Church with the Roman Catholic Church, although Ohrid remains an Eastern Orthodox diocese. It is thought that Tsar Ivan Asen II and the Archbishop of Tarnovo are still attempting union with the Orthodox Church, but only on their own terms.
 
-## *The Bogomils*
+## The Bogomils
 
 Bogomilism is a dualistic religion that came to prominence in the tenth century. The word "Bogomil" means "dear to God" in Bulgarian, and despite attempts to exterminate the sect by both state and church, the religion not only persists, but has achieved some Europe-wide notoriety. The Bogomils teach that God had two sons, Satanael and Michael. The elder Satanael rebelled against God and created the lower heavens and the earth. He also created mankind, but had to appeal to God to supply the souls. Satanael made a covenant with Adam, permitting him to till the soil as long as he and his descendents paid homage to Satanael. Eventually, Michael was sent forth in the shape of a man, and was called Jesus. He broke both the covenant and the hold that Satanael had over mankind, and for this, the elder brother engineered the crucifixion and built the institutions of the Christian Church to control man through a new covenant. The Bogomils therefore hold that everything which is socially created does not come from God but rather Satan, and they refuse to pay taxes, work as serfs, or enlist in armies. They do not worship in churches, but instead gather in homes to offer praise to God.
 
@@ -2454,17 +2454,17 @@ The Bogomils see themselves as the champions of the poor against feudal oppressi
 Bogomilism is a non-Christian Divine religion. When Bogomils gather to pray, they usually generate a Dominion aura (*Realms of Power: The Divine Revised Edition*, page 11), and it is usually granted a Calm temper (*Realms of Power: The Divine Revised Edition*, page 39) by the starets. However, the Dominion aura of the Bogomils is in schism with that of the Orthodox Church, and usually fades in between services. Bogomil dedets and starets have the Wise One Social Status Virtue; the former usually have the Temporal Influence Virtue as well. Bogomil missionaries are often members of a Holy Tradition or Mythic Companions — use the template for the Cathar Perfecti (*Realms of Power: The Divine Revised Edition*, page 94), but exchange Transcendence for either Intervention or Adjuration.
 
 
-# *The Oppidum of Evredika*
+# The Oppidum of Evredika
 
 Evredika is an oppidum found scattered throughout the Rhodopes Mountains, guarding several sites associated with the legend of Orpheus. The oppidum is named after the Bulgarian name of Eurydice, the doomed lover of the legendary Orpheus.
 
-## *History*
+## History
 
 The southern Rhodopes Mountains have been an important cultic center for the worship of Orpheus since classical times. The two great deities of Thrace were Orpheus and Zagreus (Dionysus, to the Greeks), and both were extensively worshiped in the Rhodopes.
 
 When the Cult of Orpheus (*Houses of Hermes: Societates*, page 120) joined the Order of Hermes, their two most important sacred sites on Lesbos (see *The Sundered Eagle*, Chapter 6) and in the Rhodopes became part of the Hermetic landscape. Evredika was formally instituted as an oppidum in 1001, although it had existed as an informal religious cult for many decades prior to this.
 
-## *Setting and Description*
+## Setting and Description
 
 The sancta of Evredika's magi are scattered throughout the Rhodopes Mountains, each one living alone and rarely visiting the other magi. They occupy an assortment of caves, sturdy houses, and well-hidden stone towers. The members of Evredika meet once a year in a green meadow near Gela (see later), a spot surrounded by mountains, when the *silivriak* is in blossom.
 
@@ -2484,15 +2484,15 @@ The Cult of Orpheus holds no great reverence for this site, recognizing the desc
 
 This magical site consists of a stone city atop the summit of a hill in the eastern Rhodopes. The ancient city, once an important site of worship of Zagreus, has been abandoned by mundanes for several centuries, although a small town has grown up at the base of the hill, which refers to their ancient neighbor as the "City of Ghosts." Evredika's
 
-## *Why Not Thebes?*
+## Why Not Thebes?
 
 Evredika seems better suited to the Theban Tribunal than the Transylvanian Tribunal, but when overtures have been made, they received a hostile reception from Theban Jerbiton magi. They look down on the musical nature of the Cult of Orpheus as "peasant reels" devoid of beauty. Furthermore, most Jerbiton magi are offended by the pagan nature of the Cult. Evredika's magi would rather be ignored by House Tremere than scorned by House Jerbiton.
 
-## *The Silivriak*
+## The Silivriak
 
 Formed from the blood of Orpheus when he was slain by the Maenads, the silivriak — otherwise known as the Orpheus flower — has delicate pink bellshaped blossoms. It can be thoroughly dried, even scorched in a fire, and yet will still grow afresh each year. The first flowers of the year are a source of Imaginem vis for the oppidum. The flowers that contain vis are Plants of Virtue that can be Enriched (*Realms of Power: Magic*, page 124) by composing a poem every day for 90 days, and reciting those poems to the plant. The plant is then crushed, and three strings of a traditional lyre are anointed with the juice. The lyre grants its player the Enchanting Music Ability with a score of 3, although it can only affect those who are bereaved of a loved one. This Ability cannot be increased with experience, and replaces any score in the Enchanting Music Ability that the player might have. Once a string breaks (such as on a botch when played) it loses its magic forever, decreasing the score in Enchanting Music by one per string.
 
-## *Story Seed: Territorial Dispute*
+## Story Seed: Territorial Dispute
 
 The Rhodopes Mountains where Evredika maintains its sancta are far to the south and east of the Theban covenant of Gigas. However, Gigas is House Tremere's poorly disguised cat's paw in the Theban Tribunal (see *The Sundered Eagle*, Chapter 5), and have been told not to contest the resources claimed by Evredika. When a hunting party, lead by a nobleman with a "pet" white wolf, takes vis from all of Evredika's sources, Gigas seems to be the most likely perpetrator. Assuming their protestations of innocence are true, who is trying to set Gigas up, and why?
 
@@ -2507,7 +2507,7 @@ Nearby is a cave shaped like a woman's womb; at its far end is a carved rock alt
 
 Evredika is first and foremost an oppidum of magi from the Cult of Orpheus, a societas within House Ex Miscellanea. House Tremere is usually careful to chose an aedile who is sensitive to the practices of the Cult of Orpheus, and usually one who has some appreciation for music.
 
-## *Magi*
+## Magi
 
 All Evredika's magi except Yekaterina have a foederatus privilege. There are six magi here, five of whom are members of the Cult of Orpheus.
 
@@ -2540,17 +2540,17 @@ Yekatarina is the latest in a series of aediles to Evredika. Oeagrus usually man
 
 Yekaterina is slim and blond, and typically wears a mask made from a skull that she has begun to make into her talisman.
 
-## *Covenfolk*
+## Covenfolk
 
 In the ancient Orphic tradition, women are excluded from sites of cultic importance, and must remain in the unhallowed buildings occupied by the oppidum. The priests of Zagreus-Dionysis at Perperikon are initiates of Divination & Augury (*The Mysteries Revised Edition*, page 58), using principally the pyromancy method.
 
 
 
-# *The Oppidum of Seuthopolis*
+# The Oppidum of Seuthopolis
 
 Seuthopolis is a fortified town in the southern extremities of the Tribunal. It is a hoplite base, placed on the border between Transylvania and Thebes. Its magi try, with some success, to prevent tensions between the two Tribunals from erupting into crossborder raiding. It also oversees the Tribunal meeting site for the Transylvania.
 
-## *History*
+## History
 
 Seuthopolis was the capital of the Thracian tribes at the time of the Roman invasion. The Thracians were ruled by a priest king dedicated to chthonic gods. After the Roman conquest, these cult activities were suppressed. They were revived by a small sect of Verditius magi, who formed a covenant in the Theban Tribunal.
 
@@ -2558,9 +2558,9 @@ The Covenant of the Four Divinities was always populated by precisely two senior
 
 In the centuries since, the oppidum has lost its cultic character and become the base for this Tribunal's Quaesitores and hoplites. House Guernicus has forbidden its members from worshipping the chthonic gods of the ancient Thracians. Three members of the House have, at various times, been removed from office for irrationality, and their membership of the cult seems the likely link. Initiates of their Mysteries gain hubris (like Verditius magi; see *House of Hermes: Mystery Cults* for details) and the attendant tendency to vendettas.
 
-## *Against the Dark*
+## Against the Dark
 
-## *Setting and Description*
+## Setting and Description
 
 Seuthopolis is, superficially, a fortified town, following the plan of many similar small towns in Bulgaria. It does not pay homage to any nobleman, and is publicly ruled by a council of five elderly men who represent the carpenters, shepherds, weavers, and potters of the area, with a leader selected from the group of four, then immediately replaced by his guild. It has a charter it claims goes back to the Emperor Diocletian, which is a cunning forgery.
 
@@ -2580,7 +2580,7 @@ House Guernicus has accepted responsibility for the maintenance of the Tribunal 
 
 The facilities in the regio have been expanded somewhat, but attendance at Transyl-
 
-## *Saga Seed: The Valley of the Thracian Kings*
+## Saga Seed: The Valley of the Thracian Kings
 
 Characters sent to excavate the valley of the Thracian kings face many interesting challenges. Stories include:
 
@@ -2599,7 +2599,7 @@ Newly arrived magi from other Tribunals are cautioned to bring a comfortable pai
 
 Between the two Promenades is the Hall of the Tribunal. The Hall is basically a vast roof, held up by columns in a vaguely Greek style. The vast majority of the columns are unadorned, but a few have been carved in commemoration of magi who have performed great deeds for the Order. Beneath the magically illuminated and beautifully adorned ceiling there is a designated seat for every magus in the Tribunal, but it is so spacious that an additional hundred magi could be added with no difficulty. These seats form a series of horseshoes about a dais, which holds the Throne of the Praeco. The Throne is carved from oak, and many myths surround its origin.
 
-## *Culture and Traditions*
+## Culture and Traditions
 
 It's an axiom of Transylvanian law enforcement that in other Tribunals, crime happens between covenants, while in this Tribunal, crime happens within oppida. The Quaesitores of this Tribunal have grappled for centuries with ways of investigating crimes between magi who live together. This has spurred Transylvania's Quaesitores in radically new directions, and made them mainstays of the Transitionalist movement within their House.
 
@@ -2631,13 +2631,13 @@ The mundanes of this area have bowed repeatedly to the Byzantine and Bulgarians 
 
 This settlement's people are perhaps the least affected by Hermetic service of any of the oppida. They do not conform to the Tremere ideal found in many other oppida: loyalty, literacy, militancy, meritocracy. They are not seeded with ex-Redcaps. Seuthopolis is old-fashioned in the sense that it, like many Western covenants, is staffed by people who have fled the mundane world, seeking, if not a better life, then at least a different one. The Quaesitors find this gives their community a useful set of skills, including some that are a little shady, which they can utilize in their work.
 
-## *Magi*
+## Magi
 
 There are eight Guernicus magi at the oppidum, assisted by six lictors. Benilda, the leader of the oppidum, is most interested in research, crafting magic items, and matters of Hermetic law. By preference, she sends Vigila to deal with "domestic matters," investigations of crimes within oppida, Scipio to deal with mediation between oppida, and Caledonia to deal out punishments or "investigate forcefully." Each is usually supported by a pair of lictors and a younger Guernicus, giving Benilda three distinct teams with different skills. As a matter of security, only two teams are ever deployed at once.
 
 The section that follows describes the four senior Guernicus magi and the lictors of the enforcement team. The lictorial members of the mediation and domestic investigation teams change regularly, with most lictors only serving for three years. Terencia and Saturnino are more durable members of the lictorial service. The undescribed hoplites are usually members of House Tremere, but recently the Prima has redeployed some
 
-## *Against the Dark*
+## Against the Dark
 
 of the Tremere from this oppidum to Lycaneon. This creates space for player characters at the oppidum.
 
@@ -2775,19 +2775,19 @@ Faeries rarely have original ideas and cannot usually train humans in abilities,
 
 
 
-# *The Oppidum of Tablinum*
+# The Oppidum of Tablinum
 
 Tablinum is an oppidum located on the coast of the Black Sea among the dunes and wetlands of the Danube delta. Tablinum's purpose is to store information, including records, spell texts, and artifacts. It is a kind of Tribunal museum and storehouse. Little of the oppidum exists in the mundane world, merely a few grogs of Slavic descent, living in a small village with a palisade, who spend their days fishing in small boats surrounded by vast scavenging flocks of white pelicans and graceful egrets.
 
 The only thing that distinguishes the site is a magnitude 8 *Aegis of the Hearth* surrounding the village palisade, and a magical bell that can be rung to attract the attention of the magi of Tablinum. Curiously, the bell does not make a sound—the sound can only be heard in the regiones of Tablinum.
 
-## *History*
+## History
 
 Tablinum was founded in 878 (that is, in the years following The Sundering), and located at the site because of the large number of regiones that lie superimposed upon each other here. As the Tribunal was limited to five covenants, by the terms of The Sundering, Tablinum had no real official status or officially recognized permanent residents. It was just a place where magi stored artifacts. However, when the concept of oppida became widespread, Tablinum reinvented itself as a oppidum with permanent resident curators.
 
 
 
-## *Setting and Description*
+## Setting and Description
 
 The oppidum of Tablinum is quite different from the typical residences of magi.
 
@@ -2816,7 +2816,7 @@ If several characters study simultaneously from the same exhibit, the Source Qua
 
 Little exists outside the oppidum buildings and in many regio levels the buildings have no external openings. If a character does manage to leave the exhibition halls he finds that the outside light is thick and red like a late summer evening (or maybe early morning). However, no sun can be seen in the darkening sky. The buildings are surrounded by large featureless dunes,
 
-## *Curators of Tablinum*
+## Curators of Tablinum
 
 878-900 **Akilina.** The First Curator, she is said to have discovered the site for Tablinum in the mid-800s. Akilina appointed Potitus (her apprentice) as her successor, resigned, and disappeared in 917. She is presumed dead but, as recently as 1137, magi studying at Tablinum have reported meeting her (or someone claiming to be her) in the labyrinth of regiones.
 
@@ -2838,13 +2838,13 @@ Little exists outside the oppidum buildings and in many regio levels the buildin
 
 1170- **Nestor.** Noted for research on regiones.
 
-## *Leap of Homecoming and Regiones*
+## Leap of Homecoming and Regiones
 
 *Leap of Homecoming*, and similar Rego Corpus spells, instantly transport the caster to a location to which he has an Arcane Connection to. In general, nothing prevents the caster from crossing a regio boundary in this manner. On the other hand, *some* regiones cannot be entered or left via Rego Corpus effects. Some magi have theories about why this is so, but there seems to be no reliable way to predict how a regio will interact with Rego Corpus magic.
 
 Unless otherwise noted the regiones at Tablinum can be entered and left with Rego Corpus magic (assuming that the caster has suitable Arcane Connections).
 
-## *Exhibit Source Quality*
+## Exhibit Source Quality
 
 The Source Quality of an exhibit depends on the number of items in the exhibit. Defining the exact Source Quality of each exhibit is left to the needs of your troupe's saga. Each exhibit may have a different Source Quality, and you may like to use the following guidelines:
 
@@ -2862,7 +2862,7 @@ Of course, the current owners of potential exhibits (who may well be magi) will 
 
 If the magi are Tremere, they might be assigned to the vexillation Convectoris-Tablinum, which is tasked with adding to the exhibit collection.
 
-## *Magi*
+## Magi
 
 Four magi currently live at Tablinum.
 
@@ -2907,13 +2907,13 @@ appears to be Theodora's father (or grandfather). However, this similarity is ob
 
 In contrast, Theodore is very quiet. He speaks little, except to his two nannies. The nannies are now elderly women in their seventies — one nearly blind, the other bedridden — who still live together in the nursery regio, quietly filling the empty spaces with senile clucking. Theodore certainly never raises his voice, and he keeps his laboratory, clothes and person immaculate and spotless. However, Theodore has some very odd ideas. He once confided in Nestor that many of the exhibits should be destroyed. He has long believed that body hair harbors disease, and he magically keeps his entire body hairless. Theodore even eschewed the longevity ritual for many years, not imbibing his potion until his fiftieth year; it is possible that this was just an obscure attempt to taunt Theodora, who vainly drank her potion in her early twenties, and then almost immediately regretted her consequent sterility. Recently, Theodore told Demetrius that The Order had outlived its purpose.
 
-## *The Open Exhibits*
+## The Open Exhibits
 
 All Tremere characters have right of access to any of the open exhibits. Characters from other covenants are usually granted access by the curator. The exception is any character who damages, steals, or otherwise interferes with the exhibits. Vandals (even Tremere) are expelled from the oppidum and never allowed access again. At least, that is the theory — characters may rehabilitate themselves in the eyes of the curator, particularly for minor offenses.
 
 Most characters use the exhibits to study (see insert) and while several characters can study from a single exhibit, this reduces the effective Source Quality of the exhibit. This means that certamen (for love) is often used to solve disputes over study access to an exhibit. If a character wants to study from an
 
-## *Against the Dark*
+## Against the Dark
 
 exhibit, roll a stress die against an Ease Factor of 3. If the roll is successful, then no other character wants to use the exhibit that season. If the roll fails, then one other character wants to use the exhibit. If the roll is a botch, then many characters want to use the exhibit that season. Roll a further (simple) die. The number on this die is the number of other characters wanting to use the same exhibit.
 
@@ -2939,7 +2939,7 @@ The Scriptorium is not a true exhibit. Instead, in this regio are living quarter
 
 The Scriptorium also has a permanent staff of six scribes. They work in a hall that smells faintly of burnt tallow, the silence only
 
-## *Maintaining the Exhibit Halls*
+## Maintaining the Exhibit Halls
 
 Exhibits composed mostly of books and other texts need little maintenance, but other exhibits require periodic checking of wards, special preserving spells, or even feeding (as with the Animal exhibits). The curator, and the other permanent magi, ensure that any such maintenance is conducted, assisted in this task by the servants who live in The Scriptorium. Supervising maintenance occupies one magus full-time, although much of the actual work is performed by about a dozen grogs housed in the Scriptorium. Nestor is the curator but, currently, the four magi who live at Tablinum share the maintenance responsibilities. This occupies each magus for a season per year.
 
@@ -2972,7 +2972,7 @@ Any Tremere character can freely copy spells (or other Lab Texts) from here, and
 
 Note that the Spell Hall does not contain a Laboratory, and Lab Texts may not be removed from the exhibit hall. A character may only copy the texts; he may not invent spells or item effects directly from the Lab Texts. Despite the general prohibition on removing Lab Texts from the Spell Hall, the permanent residents of Tablinum do actually frequently take the Lab Texts to their laboratories.
 
-## *The Laboratories at Tablinum*
+## The Laboratories at Tablinum
 
 #### **Nestor's Laboratory**
 
@@ -3022,7 +3022,7 @@ In terms of game mechanics, *The Chronicle* is treated as an encyclopedia (see *
 
 A character may also look up a fact in *The Chronicle*. Looking up a fact takes about an hour (or perhaps longer for detailed information), following which an Intelligence + Order of Hermes Lore (or Code of Hermes) + stress die roll against an Ease Factor is made. The troupe must determine the Ease Factor depending on the obscurity of the fact. The character receives a +1 bonus to the roll for every complete 50 years of *The Chronicle* to which he has access. A character with access to the complete Chronicle, which dates back to the foundation of the Order in 767, therefore receives a +9 bonus. The bonus for extra volumes only applies if the character is researching something that spans several volumes. For example, to discover how many
 
-## *The Laboratories at Tablinum, cont'd*
+## The Laboratories at Tablinum, cont'd
 
 ## **Theodore's Laboratory**
 
@@ -3064,7 +3064,7 @@ This spartan laboratory is available for the use of guests. It contains a galler
 
 While the magi are studying at Tablinum, a delegation arrives from the Church. The Latin Church has recently (since 1204) taken control of large portions of Constantinople (south of Tablinum), and church scholars have found, among the records of the Greek Church, mention of Tablinum's hoard of relics. A papal legate has been sent to Tablinum to discover whether Tablinum and the relic hoard really exist, and if so, to relocate the relics to Rome. Nestor approaches the visiting magi for help in dealing with the church delegation.
 
-## *Story Seed: Limitless Temptation*
+## Story Seed: Limitless Temptation
 
 Curiously, the labyrinth of The Dungeon exhibit contains the largest number of objects of any of the exhibits. This fact is not immediately clear, as the convoluted twists and turns of the exhibit disguise its true extent. However, any character that spends a season studying the exhibit becomes aware that the exhibit is much larger than the catalogues would suggest.
 
@@ -3114,7 +3114,7 @@ There are many, many empty regiones that contain only vacant halls, standing amo
 
 
 
-## *The Hidden Exhibits*
+## The Hidden Exhibits
 
 The hidden exhibits are regiones whose existence is merely speculated upon by the majority of the Tribunal. Some magi do claim to have visited the hidden exhibits, but such magi might be either liars or madmen. Whether any of these exhibits exist is a matter for your saga. It is possible that some of these exhibits may have existed in the past but have long since been dismantled.
 
@@ -3147,13 +3147,13 @@ This exhibit is rumored to contain realia that relate to other powerful, extinct
 This exhibit purportedly contains a vast array of magical weapons. Many of the exhibits are said to have been created by both sides during, and immediately prior to, the Schism War. The Warehouse is said to be a Tremere contingency against the day The Order is once more split by warfare.
 
 
-## *Chapter Five*
+## Chapter Five
 
-# *The Slavs*
+# The Slavs
 
 The Slavs are an ethnic group of people living in central and eastern Mythic Europe, primarily between the Baltic and Black Seas. During the sixth and seventh century the Slavs migrated south into the Pannonian Plain, the Carpathian Mountains, the Danube Basin, and the Balkan Peninsula. History does not record why they left, where exactly they came from, or even who they really were. Ptolemy described them as two Lithuanian tribes, the Stavani and the Soubenoi, but does not specifically locate their original homeland. Four hundred years later Byzantine scribes mention three tribes — the Venethi, Antes, and Sclaveni — also originating from an undefined northern locale. In the 13th century there are too many named Slavic tribes for an educated scribe to record, and the tribes are all generally referred to as Slavs. Individual tribes naturally use their personal tribal name, but since few Slavic tribes hold political power, this is only of interest to them.
 
-# *Overview*
+# Overview
 
 Though many and individually fierce, the Slavs as a whole never developed into a cohesive, permanent political power. A small number of Slavic groups have become political powers: the Serbs, the Bošnjanin (Bosniaks), and the Croats. Other Slavic groups remain vassals of the Hungarian and Bulgarian kings, happily paying tribute and co-existing with the neighboring Vlachs, Greeks, Magyars, Petchenegs, and other races. The paradoxical nature of the Slavs allows them to assimilate other cultures easily while at the same time maintaining essential traditions that retain a Slavic identity.
 
@@ -3161,7 +3161,7 @@ The Slavs' lasting strength and longevity lie in their mobility and strong famil
 
 Most Slav settlements do not have defenses, but a few north of the Danube River are surrounded by a raised, earthen wall topped with a wooden palisade. The chieftain, his military retainers, and his most immediate extended kin live inside, but several families not as tightly connected live outside the walls. Several "wolf-pits" — concealed holes dug into the ground — offer additional protection. The settlement's agricultural fields surround the wall and are in turn encompassed by the community's common pasturelands. Both types of settlement are
 
-## *Story Seed: The Székely Anchorite*
+## Story Seed: The Székely Anchorite
 
 Slavic legends, especially those of the Serbs and Croats, say that the leader of the mass migration that first moved the tribes from the lands north of the Carpathian Mountains was a mystical hermit, a taltós of unsurpassed power. Rising above the petty squabbles of local chieftains, this man united his people and led them south to a promised land. During times of strife communities return to this myth, saying that someday a taltós will appear who will deliver them from their sufferings, overpower their cruel overlords, and bring a time of peace and prosperity. This myth is more popular in tribes that have not risen to positions of political power, and is most often heard in communities living in the
 
@@ -3187,7 +3187,7 @@ In 1220, the major Slavic groups in the Transylvanian Tribunal are the Serbs, Cr
 
 
 
-## *The Weapons of the Slavic God*
+## The Weapons of the Slavic God
 
 Folk legends say that Perun had several fantastic weapons that he regularly employed against the dragon Veles. His most common weapon was his firestone arrow, a stone arrow that when thrown would change into a lighting bolt. Throughout the Pirin Mountain range travelers can find "Perun's stones" or fulgurites — natural hollow glass tubes formed when lighting strikes the mountain soil. Two to three inches in diameter and up to several feet long, most of these stones contain a pawn or two of Auram vis. Longer specimens called "Perun's arrows" have been found that are spelllike vis, and if hurled will actually turn into a lightning bolt before striking the target. Unlike Perun's stones, Perun's arrows are always found in magic auras.
 
@@ -3205,7 +3205,7 @@ The most powerful weapon associated with Perun is his golden apples. According t
 
 people have Slavic roots mixed in their ethnicities. Smaller Slavic groups include the Krashovani living near the Timok River in Serbia, the Šokci living in the Pannonian Plains along the Sava River, the Gorani living south of Serbia in the northern areas of the Despotate of Epiros, the Montenegrins living in the province of Zeta in southern Serbia, and the Székely living in the eastern Carpathian Mountains.
 
-## *The Old Ways*
+## The Old Ways
 
 In 1220, all of the tribes of Slavs have converted to Christianity, a relatively easy process because the Slavs already believed in a supreme god, one who ruled his diverse pantheon with much more power than the minor deities. To the Slav peasant, Christianity was an addition to his old beliefs rather than a replacement of them. Instead of calling his supreme god Perun — or Rod, Svarog, Svantevit, or Triglav as other tribes did — he called it "God" and left it at that. Many 13th-century Slavs are thoroughly Christian and at the same time still hold many pagan beliefs. Local priests call this *dvoeverie*, or "double faith," and note that it is more prevalent north of the Danube River.
 
@@ -3215,7 +3215,7 @@ The old ways are not just fireside tales told for the entertainment of children.
 
 If Perun and Veles are beings of the Magic realm, then perhaps lost magic traditions can be found by exploring these sites or investigating those who exclusively follow the old religion. According to written sources, holy sites are sacred clearings found in forests or atop remote mountains. The clearing is surrounded by a wooden fence and protected by werewolves. Some of the sacred glens have statues of Perun: a wooden or stone figure with multiple heads.
 
-# *The Serbs*
+# The Serbs
 
 The original Slavic settlers of Serbia entered the Balkan Peninsula in the sixth and seventh centuries, as part of the great Slav migration that swept from the north. Scholars are unsure if they were originally a distinct tribe or an offshoot of a larger tribe. One of the oldest Serbian legends tells of a great anchorite leader who brought the tribe from their homeland at the request of Emperor Heraclius, who asked the Serbs to serve as mercenaries in the Roman army. Refused entry into the more fertile areas of Roman Dacia by the whimsical emperor, the Serbs eventually settled in the geographically diverse lands they still inhabit in the 13th century.
 
@@ -3224,7 +3224,7 @@ Like other Slavs, the Serbs are organized around the extended family unit, the *
 
 against the other to retain his hold over the area. Similar events happened in Bosnia and Croatia, so that by the 13th century each is viewed as an individual country, although both have subservient connections to their more powerful neighbors.
 
-## *Geography*
+## Geography
 
 Serbia sits along the western edge of the Transylvanian Tribunal, at the junction of the Balkan Peninsula and Eastern Mythic Europe. The original occupants settled in an area bordered by the Sava and Danube Rivers on the north, the Morava River on the east, and the Adriatic coast on the south west. The northwestern territories developed into Croatia and Bosnia, two ethnically similar principalities, which lie on the western half of Serbia's northern border, across from the Drina River. The eastern half of the north borders the Kingdom of Hungary, and the eastern edge of Serbia abuts the Kingdom of Hungary and extends south to the Adriatic Sea.
 
@@ -3270,7 +3270,7 @@ Nemanja had three sons: Stefan Vukan, Stefan the First-Crowned (Stefan II, his s
 
 Stefan II's brother, Sava, is arguably more important to the Serbs than his ruling brother. Retreating from the political troubles of his family, Sava joined the community of monks on Mouth Athos. Returning to Studenica Monastery in Serbia in 1208, Sava began to organize the Serbian Orthodox Church. In 1219 Sava petitioned the Patriarch of the Greek Church to make the church of Serbia autocephalous, meaning that it is self-ordained and can make its
 
-## *Story Seed: The King's Sons*
+## Story Seed: The King's Sons
 
 Stefan II's first wife was Eudocia Angelina, daughter of the Byzantine Emperor Alexius Angelus, and his second is Ana Dandolo, daughter of the Venetian Doge Enrico Dandolo. The mother of five of Stefan II's children, Eudocia was accused of adultery by her husband and chased from Serbia in 1200. In 1220 Stefan II and Eudocia's eldest sons, Radoslav and Vladislav, are 28 and 26 years old. Both are taking their leisure in the principality of Zachlumia, located on the Adriatic coast. The young men spend their days hunting, fishing, and wandering the countryside.
 
@@ -3282,13 +3282,13 @@ own decisions in appointing bishops and archbishops. At the same time, the patri
 
 In 1220, Serbia is a strong kingdom, both politically and religiously. With the Nemanja brothers controlling both the church and state, they are able to keep the various principalities cohesively joined. By playing neighbor against neighbor by making and breaking various alliances, Serbia remains a political figure even though its wealth and military strength are a mere shadow of the Kingdoms of Hungary and Bulgaria.
 
-## *The Christian Schism*
+## The Christian Schism
 
 The split between Eastern and Western Christianity runs through the Kingdom of Serbia, creating an almost tangible line between those subservient to the pope and those subservient to the patriarch. Croatia, to the west, owes allegiance to the pope and follows the customs of the Roman Church. Bosnia is a buffer zone, with the Bosnia Church following its own doctrines (see later). Serbia itself is ostensibly Roman. When Stefan II was crowned king by the papal legate, most of the dioceses in Serbian officially adopted the rites of the Western Church. Some refused. The Bay of Kotor and Ston, two coastal cities that have long supported the Greek Church, continue to practice Eastern Orthodoxy.
 
 Because of this mix, the Serbs have an unusually high tolerance for religious diversity. The split between the Roman and Greek Church is not the great divide that foreigners expect. Many have a foot in both camps; Stefan II was crowned king through the Roman Church yet Serbia's religious autonomy was granted by the Greek Church. In the early 13th century, Serbia has not yet had to deal with the imposed conflicts. Every priest in Serbia is supposed to speak Latin and be able to perform the rites of the Western Church, but many cannot. The issue is not
 
-## *Story Seed: The Impending Crusade*
+## Story Seed: The Impending Crusade
 
 Incited by the Bosnia Church's refusal to deal with the country's Patarians, Pope Honorius II has sent a papal legate to the King of Hungary to exhort Andrew II to attack the heretics. The king is making obvious moves to take matters into his own hands. Warriors are assembling throughout the Tribunal and clerics are preaching against the Patarians. Rumors that the king will launch a crusade to burn out the heretics are easily believed as Hungarian knights congregate. Crusades are like catapults, and can often miss their intended targets while still raining destruction on innocent bystanders.
 
@@ -3300,11 +3300,11 @@ Historically, nothing happened for a dozen years, until Pope Gregory IX convince
 
 between priest and parishioner but between priest and religious superior; Rome wants all priests to perform the western rites. While this is tolerated in 1220, it will become problematic in the years to come.
 
-# *Serbia's Slavic Neighbors*
+# Serbia's Slavic Neighbors
 
 The Kingdoms of Bulgaria and Hungary are not Serbia's only neighbors. The Bošnjanin and Croats are ethnically more similar to the Serbs that the Bulgars and Magyars. Weaker in political power, their political relationships are different from those of Serbia. Both are vassals of the King of Hungary, as is Stefan II, but whereas Stefan has been crowned a king, the Bosnian and Croatian rulers are merely *bans*, a title equivalent to duke. Bosnia and Croatia are weaker than Serbia, but Hungarian support and sporadic internecine feuding in Serbia have kept Stefan II from claiming these territories.
 
-## *Bosnia*
+## Bosnia
 
 Bosnia is entirely landlocked, bordered by Croatia to the west, Serbia to the south and east, and Hungary to the north. Its northern extremities occupy parts of the Pannonian basin, running as far north as the Sava and Danube Rivers. Sitting atop the Dinaric Alps, much of Bosnia is mountainous and hilly. Seven major rivers drain into the distant Adriatic Sea, the largest of which is the Neretva River, which separates Bosnia from Serbia and, once the river turns south, Serbia from Croatia. Human settlements dot the river banks. In the 13th century, the largest communities are: Vrhbosna (a pre-cursor to modern-day Sarajevo), home to the ruling family and center of the religious community; Banja Luka ("Duke's Meadow") in the northwest; and Zenica on the Bosna River. Vrhbosna houses one of House Mercere's oldest mansiones. This semi-public trading post is notorious for the amount of trouble that occurs on its premises. Arguments are daily events and brawls common. A year ago fisticuffs between two local merchants escalated to murder. None of the visiting magi
 
@@ -3315,7 +3315,7 @@ Called the *Banate* of Bosnia — *Banate* being a Slavic word for "frontier pro
 
 Alongside their tolerance for fellow Christians, the Serbs and Croats also tolerate the alleged religious heresy of the Bosnian Church, but this sentiment is not shared by Bosnia's more powerful neighbors. Recent letters from the King of Hungary command that the Bosnia Church purge itself of the Patarians. The Bosnia Church officially claims that there are no heretics in Bosnia and has ignored these commands. If you saga follows medieval history, the Kingdom of Hungary will soon invade Bosnia.
 
-## *Croatia*
+## Croatia
 
 Croatia sits at the border of western and eastern Mythic Europe, sandwiched between the Italian communes on her left and the Slavs of Serbia and Bosnia and the Magyars of Hungary on her right. Croatia is geographically diverse: the foothills of the Alps extend into Croatia's western border, the lush valleys and plains of the Pannonian basin lie to the north, the densely wooded Dinaric Alps form her eastern border, and to the south sits the rocky coastline of the Adriatic Sea.
 
@@ -3336,7 +3336,7 @@ Better known as "Zara," the name given it by Italian merchants, Zadar is the mos
 
 The peace treaty is a sham and most citizens know it. Zadar's overall prosperity hasn't suffered, just shifted hands, which makes the situation worse for the locals. Re-
 
-## *Story Seed: Diocletian's Palace*
+## Story Seed: Diocletian's Palace
 
 The Roman Emperor Diocletian (245 – 316 AD) was born near the city of Salona, in the Roman Province of Dalmatia. He constructed a huge limestone palace near his birthplace and retired there after his reign. Centuries after his death the palace was used as an administrative building for the various governments that ruled the area. Nearby Salona was a focal point of Croatia's Christian conversion in the ninth century, and legends say that the monks Cyril and Methodius invented the Glagolitic alphabet used to translate the Gospels into Old Slavonic in one of the palace buildings. A favored site for refugees and those escaping religious persecution, Diocletian's Palace lies in ruins in 1220, a broken fragment of its former glory.
 
@@ -3348,12 +3348,12 @@ sentments run high and violence regularly occurs on nighttime docks and in dark 
 Soon after the violence of 1203, House Tremere built a zenodochium in a regio in a magical lacuna found in the city. Anticipating more fighting, the building was staffed by a competent surgeon and a few assistants. The House lost contact with the men several months later and the regio itself seems to have disappeared. Efforts to find the men have tapered off over the years, but occasionally young magi try their hand at finding the surgeon.
 
 
-# *The Oppida of Histria*
+# The Oppida of Histria
 
 Histria contains two closely linked oppida, Old Histria and Shrouded Bay. These camps claim the resources of a large Adriatic peninsula and its surrounding islands. Originally Histria was a covenant in the Roman Tribunal, but its magi now serve as the gatekeepers to the Transylvanian Tribunal, and are its main negotiators with foreigners. These camps, together, serve as the Mercere House for the Tribunal.
 
 
-## *History*
+## History
 
 Histria takes its name, however distantly, from the tribe that occupied this peninsula when the Romans invaded. The Romans named the territory after its inhabitants. The Covenant of Histria, then in the Roman Tribunal, took the name of the peninsula as its own. It asserted a right to the resources of the entire area, using its name to emphasize that claim.
 
@@ -3361,7 +3361,7 @@ The incessant political conflicts in that Tribunal wore Histria down, and its me
 
 Rego vis washes up on one of the beaches of an island called Cres. It seems to form after storms, but it steadily accrues through the year, rather than being harvested annually. Cres is too far from Old Histria for its magi to deter raiders. A chapter house was thus established here to defend Cres from raids by Transylvanian Tremere magi. When Histria joined Transylvania, the settlement on Cres, called Shrouded Bay, also became an oppidum. It is theoretically independent, but the two camps have mutual membership and are closely allied.
 
-## *Setting and Description*
+## Setting and Description
 
 The Istrian peninsula is cradled by the northern Adriatic Sea. Its coastal areas have a Mediterranean climate. To the northwest the ground rises through a series of forested hills into low mountains. This area has forests filled with pine and oak.
 
@@ -3423,7 +3423,7 @@ also refer to *zmije zatocnice —* votaress snakes*.*
 
 Some Seekers would like to enter the tomb. They believe that Medea transformed her brother into an airy spirit, who could act as the patron for a mystogogic cult. The serpent guardians may play some role in the Ordeals of his servants. Most magi dismiss this speculation, but a few souls desperate for Medea's secret of regeneration have tried to break into Aspytrus's Tomb, and been killed by potent wards. Some say Medea left these, others claim that they have been placed here by the Histrians, and yet others contend that a cult serving Aspytrus already exists.
 
-## *Culture and Traditions*
+## Culture and Traditions
 
 Istria's oppida serve as the gateway to the Transylvanian Tribunal. They attract members who wish to be close to, but not within, the Roman Tribunal. Old Histria is the Mercere House for the Tribunal, and acts as a recruiting center, training site, and com-
 
@@ -3441,7 +3441,7 @@ The problem, here, is that House Mercere does not recognize many of these Redcap
 
 As detailed in Chapter 8, the children of many forms of Transylvanian vampire make excellent Redcaps. Local representatives of House Mercere are always happy to seek out children that may have the mild, useful supernatural talents granted by vampire blood.
 
-## *Story Seeds for the Mercere House*
+## Story Seeds for the Mercere House
 
 Characters in the service of the House Mercere have the same duties found in all Mercere Houses: they recruit, train, support, and rescue Redcaps. The family is, however, so much larger in this Tribunal than in others that it poses unique problems.
 
@@ -3472,7 +3472,7 @@ Many stories dealing with trading, piracy and salvage can be developed using the
 
 The magi of Histria are the most likely to act as Tribunal envoys to the domus magnae in the regions to the east of the Tribunal. Harco, Magvillis, Valnastium, and the Cave of Twisting Shadows are all ruled by powerful personalities who have a range of needs and priorities. Envoys are always sent in pairs, at minimum: a Tremere and a non-Tremere magus as co-representatives of the Tribunal. Player characters who can strike favorable deals with these senior magi can rapidly gain a reputation outside the Tribunal.
 
-## *Magi*
+## Magi
 
 There are currently eight Gifted Histrian magi, plus many unGifted Redcaps, and three other Gifted magi who are members, but are currently in Venice. The unGifted are full members of Histeria, and vote in its internal ballots. Two magi are not detailed below, to allow space for NPCs with strong hooks to the player characters.
 
@@ -3502,7 +3502,7 @@ Every few years, his laboratory-bound life annoys Accursius to the point where h
 
 Leontine is the chief negotiator for the Tribunal. She is only thirty, but is one of the most skilled communicators in Mythic Europe. She is usually accompanied on her missions by Merit of Tremere, who currently resides in the Venice chapter house. He is an older Tremere with a shaven head, a muscled frame, and a gaze that can crack bricks. Leontine is being encouraged to nurture her unique talent for diplomacy, at the expense of her mystical abilities. She accepts the rationale of this trade-off, and is happy with it, for now.
 
-## *Saga Seed: Diplomats*
+## Saga Seed: Diplomats
 
 Characters who regularly act as envoys, or their assistants, travel to the most awe-inspiring places in Mythic Europe. They are honored guests at powerful Autumn covenants. They visit the courts of the mightiest rulers in Mythic Europe. They are sent to negotiate in-
 
@@ -3573,7 +3573,7 @@ Many of the senior Redcaps in this Tribunal feel that shipping in a new magus fr
 
 Volante is the maga who turns up when something terrible has happened to a Redcap. She is the one characters will report to if they discover one slain. She is a mistress of flight magic, and is the effective controller of the (small) military elements in the Redcap fleet. The magic items she can loan to player characters are those that allow Redcaps to "force passage through difficult regions." She is always looking for favors on behalf of her House, and personally she's currently seeking a suitable magical bird for her familiar.
 
-## *Local Creatures*
+## Local Creatures
 
 There are many faeries active in Istria, and some of them are particularly powerful.
 
@@ -3601,9 +3601,9 @@ Redcaps, who sometimes prefer to travel at night, hate strigons. They may be att
 A race of wise and friendly dragons can be found in Istria. See the dragon section of Chapter 8: Creatures for more details on these beasts..
 
 
-## *Chapter Six*
+## Chapter Six
 
-# *Peoples of the Transylvanian Border*
+# Peoples of the Transylvanian Border
 
 The Transylvanian border region contains a variety of people, many from smaller ethnicities not described in other chapters. Some groups have invaded from the east and remain, while others have been asked to settle here by the kings of Hungary. These settlers boost the population to prevent future invasion, and bring specialist skills that allow the rich natural resources of this region to be exploited. Aside from the groups mentioned here, each of the larger ethnic groups, which have their own chapters, are also represented in Transylvania's population.
 
@@ -3623,7 +3623,7 @@ This makes it difficult to garrison against the return of the expelled tribal gr
 
 Cuman religion is Tengrist, focusing on a sky god who is creator. The indigenous magicians are shamans, and have powers similar to those of the Hungarians taltos (see *Hedge Magic Revised Edition,* page 115) allowing scrying, weather control, rapid healing, and swift travel. The Cumans do not, it appears, have shamans equivalent in power to those seen in Bulgaria before Christianization eliminated them. Some members of House Tremere believe this indicates that something other than Christianization destroyed the most powerful local shaman groups, while other suggest that the Cumans do have powerful shamans, they just do not become involved in frontier wars, and therefore their magic is rarely witnessed.
 
-# *The Szeklers and Pechengs*
+# The Szeklers and Pechengs
 
 The Szeklers (Latin, *Siculi*) are the remnant of the army of Attila the Hun, left behind in the Tribunal by his son as a beach-head for the Hunnish army's return. Their name means "frontier guards." When the Magyars appeared a few centuries ago, claiming to be of Hunnish descent, the Szeklers allied with them. The Szeklers now speak Hungarian, but remain a separate class in modern Hungary, in part due to their military service.
 
@@ -3639,7 +3639,7 @@ As a nation they have a special magical power that defends them from genocide. I
 
 The Pechengs were a loose confederacy of nomadic warriors who used to rule the western area of what is now Cumania. When
 
-## *The Cumans in War*
+## The Cumans in War
 
 *Kaloyan was not in Adrianople for long, but he sent the Cumans against the Latins, to use the Cuman war techniques against them. Now it was the habit of the Latins to ride on prancing horses that were completely covered by armor, so that their charges against the enemy were slow. The Cumans, by contrast, were armored more lightly, so they attacked the enemy more freely*. – George Acropolites
 
@@ -3647,11 +3647,11 @@ The Pechengs were a loose confederacy of nomadic warriors who used to rule the w
 
 – Niketas Chiontes.
 
-## *A Potential Future*
+## A Potential Future
 
 If your saga's history follows medieval history, the Mongols shatter the Cuman confederacy at the Battle of Kalka in 1223. 20,000 families of Cumans settle in Hungary, under the agreement that they will become Christians and fight the Mongols if they return. Other Cuman groups are incorporated into the Golden Horde and lose their distinctive identity. In 1237, a massive wave of migration makes Thrace a "desert" according to period writers. 10,000 families of Cumans enter the service of the Nicene Emperor in exchange for land. The two princes take Latin wives, but one remains pagan. In 1241, when the pagan prince dies, he is buried outside the walls of Constantinople with traditional rites including a burial mound, the sacrifice of 24 horses, and the voluntary human sacrifice of ten of his finest warriors.
 
-## *Palace of the Giant King*
+## Palace of the Giant King
 
 The giants who live in the Szelker lands have a king. When this king is deposed or dies, his successor builds a new palace for himself, abandoning his predecessor's home. There are several sites in the Szelker lands that were once the palaces of giants. One is particularly famous because its king, the giant Balbona, would summon the other giants to conference with enormous golden bells. These were buried deep underground at Balbona's death, but still ring on feast days, which causes harmless earthquakes.
 
@@ -3659,21 +3659,21 @@ The giants who live in the Szelker lands have a king. When this king is deposed 
 
 Many Pecheng warriors entered Hermetic service when their lands were taken. Pecheng shamans also entered the service of House Tremere at this time. Pechengs are *hospites* as described in the Hungarians chapter.
 
-# *Teutonic Knights and Transylvanian Saxons*
+# Teutonic Knights and Transylvanian Saxons
 
 The Teutonic Knights — more formally, the Order of the Hospital of St. Mary of the Germans in Jerusalem — are the youngest of the military orders of warrior-monks, founded some twenty years ago in the Holy Land. Although a young order, the Teutonic Knights have already become a significant presence in the Transylvanian Tribunal. For more information on the Crusading orders in general, see *The Church*, Chapter 7.
 
-## *Origins*
+## Origins
 
 After the death of the Hohenstaufen emperor Friedrich Barbarossa in 1189, most of the German nobles who had joined the Third Crusade hurried back to their lands, leaving only a devout few to honor their vows and join the siege at Acre. However, the besieging armies were beset with disease, and the Hospitallers favored their own — the French and English — over the Germans. A group of crusaders from Bremen and Lübeck decided to found a hospital order for the German sick, and Duke Friedrich of Swabia garnered support from his brother the Emperor, the Templars, the Hospitallers, and the patriarch of Jerusalem. With such prestigious support, Pope Celestine III was quick to approve the new monastic order.
 
-## *Good and Evil Faerie Courts*
+## Good and Evil Faerie Courts
 
 In the Szeklers' lands, the good faeries are ruled by one queen, the evil faeries by another. The good queen, named Firtos, has a palace of gold. The evil queen is named Tartos. Her palace is lit by three glowing diamonds the size of human heads, hung from golden chains. Her treasures are bars of gold, gold lions with carbuncle eyes, a gold chicken with her chicks, and gold casks filled with coins.
 
 When more German crusaders arrived in the Holy Land in 1197, they found the Teutonic Order thriving, providing not only care for the sick and injured, but also hostels for the newly arrived, and money and food for the destitute. The frontier forts of the crusader kingdom were poorly garrisoned, and since the Teutonic Order was populated by former knights who had taken up the religious life, the new arrivals concluded that they could take on military as well as hospital duties; in 1198 the pope issued a new charter to this effect.
 
-## *Customs and Structure*
+## Customs and Structure
 
 The body of laws that govern the Teutonic Order are known as the customs, and they are written in German so that every (literate) member can understand them. They involve vows of poverty, chastity, and obedience. The Teutonic Knights are obliged to tend the sick, but where this is not compatible with their military and religious duties, the hospital duties are carried out by a specialized non-noble branch of the Teutonic Order. The knights attend services held at the usual canonical hours, and are required to wear priestly clothes covered with a white mantle bearing a black cross. Rather than be entirely abstemious, the Teutonic Knights are warned to shun secular gatherings where the wine runs freely and where light entertainment might entice them to sin. They are expected to avoid the company of women. Punishment for breaking the customs run from whipping and deprivation of food right up to spending months or years in shackles in the dungeons. Three crimes warrant expulsion and possibly execution: cowardice in the face of the enemy; going over to the infidels; and sodomy.
 
@@ -3692,19 +3692,19 @@ Brother Theoderich is the master of the mission in Transylvania, but with the ho
 The Burzenland lies within the Carpathian mountains. The Order of Teutonic Knights has the right to administer its own
 
 
-## *Teutonic Knight Characters*
+## Teutonic Knight Characters
 
 Members of the Teutonic Order may be priests, knights, or graymantles (either men-at-arms or chirurgeon-physicians). The knights are all of noble birth, but some are drawn from the *ministerales*, or serf-knights of the Holy Roman Empire, and may enter the Order with very little (the Poor Flaw). Teutonic Knights very commonly carry relics (the Relic Virtue), often in the hilt of their swords.
 
 The Teutonic Order is principally a fighting order, and values Martial Abilities over all else, but they also are schooled in Theology and Church Lore so as to better understand their mission. As monks as well as warriors, Teutonic Knights often invoke God's aid before entering battle against infidels or pagans (*Realms of Power: the Divine*, page 41), so knowledge of Dominion Lore is highly prized.
 
-## *The Transylvanian Saxons*
+## The Transylvanian Saxons
 
 Colonization of Transylvania by Germans started in the middle of the 12th century, but it was really under the Teutonic Knights that volunteer settlers from the Holy Roman Empire — principally from Saxony — began to emigrate here in substantial numbers. These settlers were needed by the Teutonic Knights to produce grain, wool, and meat for their Order, and grant them the self-sufficiency they desire. The Saxons also work in mines controlled by the Teutonic Knights to bring forth gold and silver (half of which they must give to the Hungarian crown) as well as iron ore (which they trade or smelt themselves).
 
 The land settled by the Transylvanian Saxons is larger than that directly controlled by the Teutonic Order. The region is called *Siebenbürgen* by the Saxons, after their seven principal fortified towns: Bistritz, Hermannstadt, Klausenburg, Kronstadt, Mediasch, Mühlbach, and Schässburg. The Burzenland occupies just the southeastern part of this area.
 
-## *The Future of the Teutonic Order in Transylvania*
+## The Future of the Teutonic Order in Transylvania
 
 The ambition of the Teutonic Order proves to be its downfall in Transylvania. If your saga follows medieval history, King Andrew II returns home from crusade in 1222 to face a hostile nobility. They force from him an agreement called the Golden Bull that allows the nobility to govern the actions of the king. Nevertheless, he refuses to rescind the grant of the Burzenland, increasing the disaffection of his nobles.
 
@@ -3734,11 +3734,11 @@ The character is a knight of the Teutonic Order, and it is his duty to be ready 
 
 The character is a member of the Teutonic Order, but not a knight or nobleman. He has sworn a vow (which may be lifelong or twenty years) of obedience, poverty, and chastity, but this may not be enforced as strictly for him as it would be for a brother knight. He is answerable only to his superiors and the pope. He may be a clerk or physician, in which case he can take Academic Abilities during character generation. Alternatively, he may be a man-at-arms, and can take Martial Abilities during character generation. Unless he is Poor, he may have superior equipment appropriate to his role; for a man-at-arms this means high-quality weapons and armor, and a horse. He wears the black cross of the Teutonic Order on a gray surcoat. This Virtue is only available to male characters.
 
-## *Stories Involving the Teutonic Order*
+## Stories Involving the Teutonic Order
 
 House Tremere and the Teutonic Order have similar goals in the region: to establish an autonomous state for the good of mankind under their respective guidance. The plan of the Teutonic Knights is to continue to extend their territory along the Danube River valley, occupying the land from the Burzenland to the Black Sea. Through their successful tactic of controlling swathes of countryside with garrisoned forts, they will be able to re-open the land route to Constantinople that has been unsafe to crusaders since the coming of the Cumans. The danger
 
-# *New Blessing Guideline*
+# New Blessing Guideline
 
 **Level 15**: Extend the beneficial effects of a relic over a standard Group of men. Size modifiers may be added to extend the effect further. The target of the spell is the relic, not the men affected by the relic's powers.
 
@@ -3765,7 +3765,7 @@ In a more holy version of the Teutonic Order, the lands conquered by the knights
 Some sagas might prefer the Teutonic Order to be a sinister organization that seeks to gain dominance over man on behalf of its infernal masters. Under this option, the Order is less concerned with exterminating pagans as it is amassing political control over territory. The infernal Teutonic Order is obsessed with occult knowledge, and might capture shamans, witches, and taltos in order to learn their secrets. A fair few of the Order's upper echelons are goetic sorcerers (*Realms of Power: The Infernal*, page 114), and the rest are will-
 
 
-## *Story Seeds: The Teutonic Order*
+## Story Seeds: The Teutonic Order
 
 A pagan hedge wizard who has had unfriendly contact with the Order of Hermes in the past is captured by a garrison of Teutonic Knights, and he confesses to them what he knows about magi. Even allowing for embellishment by this unfriendly witness, the Order of Hermes' secrecy could well work against it in this case. Since the Order of Hermes would rather that the Teutonic Knights remain unaware of its existence altogether, correcting their misapprehensions is in breach of the Tremere edict regarding secrecy. When the garrison start picking Hermetic targets, the characters are drafted to deal with this delicate situation. They must strike a fine balance in deciding what they reveal about the Order of Hermes' true purpose and existence or else simply eliminate the entire garrison and ensure there are no witnesses.
 
@@ -3777,7 +3777,7 @@ Any of the three versions of the Teutonic Order presented here could be a foe to
 
 Likewise, the Teutonic Order could just as easily be an ally, although one used carefully to avoid breaking the Code of Hermes. The knights have few friends among the Hungarians, and they are isolated from the main chapter of their Order. A hand offered in friendship may well be accepted, even if the intent isn't pure.
 
-# *The Vlachs*
+# The Vlachs
 
 The native people of the northern areas of the Tribunal are called "Vlachs," a Byzantine term coined in the 10th century. The Vlachs live north of the River Danube in the eastern portion of the Kingdom of Hungary, both north and south of the Carpathian Mountains. The people refer to themselves as *rumân* or *roman*, descendants of the original inhabitants of the area. Like the Tribunal as a whole, this area was frequently repopulated by foreign invaders and migratory tribes, and it is difficult to specify how native the current people may be. The first named tribe, the *Getae*, were conquered by Darius during the Persia wars described by Herodotus (sixth century B.C.). Later conquered by the Roman Empire, who called them *Dacii* (the Dacians), the population continued under Roman rule. Roman influence had a lasting effect, and the area was from then after called "Dacia." Generations of commercial contact and intermarriage between Roman and Dacian blurred the physical and cultural distinctions of both people. When the Roman administration withdrew from the area in 275, they left behind a conglomeration of Romanized Geto-Dacian people, mostly farmers and sheepherders.
 
@@ -3785,7 +3785,7 @@ With the urban centers' defenses abandoned, the pastoral Vlachs became the victi
 
 The Vlachs have three social groups: the land-owning noble boyars, dependent peasants, and independent peasants. Boyars who hold power are called *jupani* (singular *jupan*), *cnezi* (singular *cneaz*), or *voievozi* (singular *voievod*), all equivalent titles to a feudal duke. Boyars and their warrior entourages live in large settlements full of dependent peasants. Large communes of independent peasants also exist, called *obote*, which are self-governing economic settlements run by elected officials and whose inhabitants hold the land in common ownership. Communes are not completely autonomous; they must pay tribute to the ruling government body (in this case the Magyars of the Hungarian Kingdom). Commune citizens have more rights than dependent peasants, the greatest being the right to relocate at will. As in other countries of Myth-
 
-## *The Swords of the Teutonic Order*
+## The Swords of the Teutonic Order
 
 In a saga with an Infernally-tainted Teutonic Order, favored knights are gifted with swords prepared by the goetic sorcerers of the Order. Each great sword has a demon bound within it, which serves as a receptacle for the following effect. Owners of these swords have reported that they can hear the demon bound within whispering to them in their dreams.
 
@@ -3803,15 +3803,15 @@ ic Europe, dependent peasants are tied to the land they work and cannot move abo
 
 The Vlachs, along with the Greeks, are one of the oldest Christian races. According to legend the Apostle Andrew brought Christianity to the Vlachs, preaching in the Dobrogea region located between the Black Sea and the lower Danube. Most of the area was converted by the second and third centuries. Even though the Roman Empire had fled the area, the Vlachs maintained ties with Roman Christians, so that in the 13th century Vlachs follow the Western Orthodoxy of the Roman Church instead of Eastern Orthodoxy, like many of the area's neighbors. Vlach bishops continue to owe their alliance to the pope rather than the Byzantine patriarch. Like the Slavs who live in the same area, the Vlachs worshiped a single god before their conversion and this preference for monotheism facilitated the acceptance of Christianity.
 
-## *Geography*
+## Geography
 
 The Carpathian Mountains are a central feature of the area inhabited by the Vlachs, forming a backwards L through the middle of the combined regions. To the north and west of the mountains is Transylvania, a derivation of the Latin words "trans" (beyond) and "sylva" (forest) combined to refer to the land "on the other side of the forest." The entire area sits atop a high plateau rising 1,200 feet on average above sea level. More Vlach lands sit to the south of this arm of the Carpathians, resting between the mountains and the Danube River. More Vlach lands sit further to the east of the Carpathians, past the Milcov River and south of the Cheremosh River, which separates the territory from the Ukraine. This hilly area levels out into plains as the area runs to the Black Sea. In the past this entire area was called Dacia
 
-## *Story Seed: The Bran Pass*
+## Story Seed: The Bran Pass
 
 Because the Bran Pass is an important land route, House Tremere built a zenodochium in the pass (see "The Hospital," Chapter 7). Located atop a steep cliff face on the southern end of the pass, a group of southern knights has recently taken up residence, harassing commercial traffic as it passes. The leader, a second-cousin of the King of Hungary's nephew, is a rebellious man who hopes to raise a Vlach force and ultimately confront royal forces. House elders want the zenodochium reclaimed and ask the player characters to address this situation. This is a good test for young magi. Do they kill everyone and hide the bodies, perhaps drawing royal attention, or find a subtler way to remove the knights?
 
-## *Story Seed: The Waters Furious*
+## Story Seed: The Waters Furious
 
 Behind a Carpathian mountain named "The Priest's Mountain" lies the small Vlach village of Ikafalva. A small brook called the Furus runs along one edge of the town. According to old Magyar legends, the village founder was a famously strong Magyar, not a Vlach, who claimed the surrounding countryside for his people. Shouting that he was a warrior-servant of the Goddess Furuzsina, the hero fell in the final battle that secured the area for his tribe. A spring spouted from where his blood touched the earth, and continues to be the source of the Furus. According to the nearby villages, the people of Ikafalva are unnaturally strong because they drink from these waters.
 
@@ -3836,7 +3836,7 @@ Pass has been used by travelers for centuries. The 13th century sees the beginni
 
 These early stages of territorial control could easily lead to war-mongering, as any Tremere can see. Stable, easily identified borders usually lead to independence. Closing the Bran Pass would further separate the southern plains from Hungary, allowing the leading voivode to break his feudal bonds. House Tremere can get pulled into this situation from nearly every side, depending on how closely connected they are to any of the principal parties. A southern voivode could ask for assistance in building a castle, or a Transylvanian voivode might ask for help in destroying a Teutonic Knights' castle. Every mundane group has a small military force at hand, which could readily lead to small-scale military actions as they raid each other's territory. Perhaps House Tremere merely wants to keep the current status quo and moves to anonymously diminish the military strength of all participants equally.
 
-## *The Cult of Zalmoxis*
+## The Cult of Zalmoxis
 
 Before worshiping Christ, the native Geto-Dacians worshiped Zalmoxis, a monotheistic deity favored by the rich and powerful. As more and more of their countrymen converted to Christianity, worship of Zalmoxis became hidden, retreating underground and into the hidden recesses of the Carpathian Mountains. Similar to the various pagan Rome mystery cults, the Cult of Zalmoxis shrouded itself with secrets, obfuscating the truth and limiting religious rites to a select few. The wealthy and arrogant congregation stubbornly continued their zealous devotions, having both the means and tenacity to continue the cult for centuries.
 
@@ -3845,17 +3845,17 @@ According to the cult, before Zalmoxis became a god he was a student of Pythagor
 The size of the cult of Zalmoxis isn't known, but both princes and priests suspect that it continues in several Vlach principalities. Evidence of the cult's rites can be found, especially the gruesome tradition in which, every five years, a messenger is sent to Zalmoxis. This messenger is thrown atop a pointed spear to accomplish this. If the spear kills him it means Zalmoxis has accepted the messenger and is pleased. If the spear does not kill him, Zalmoxis is displeased and the messenger is refused entry into the god's otherworldly eternity.
 
 
-# *The Oppidum of Lycaneon*
+# The Oppidum of Lycaneon
 
 Lycaneon is the physical embodiment of many ancient Tremere schemes for power, or safety. It was originally the domus magna of House Tremere, the "throne from which to rule the world," in the words of the Founder. It has never served in that role, and now acts as one of the great manufactories of the Order.
 
-## *History*
+## History
 
 The Founder Tremere established Lycaneon as the center of his House. He was drawn by the enormous deposits of gold, silver, copper, lead, zinc, and salt found in these mountains. Lycaneon served as his domus magna until the Sundering, and is connected to Harco with this Tribunal's Mercere Portal. Following the Sundering, Tremere moved his base of operations to Coeris, but retained Lycaneon as the manufacturing center for his House.
 
 Lycaneon is busiest when war is expected, or when rebuilding the House's stores of material after a conflict. It was expanded, and staffed to capacity, for many decades after the Schism War. Its resources were fully mobilized almost a year before the Corruption of Tytalus was formally disclosed at Tribunal,
 
-## *Story Seed: The Return of Zalmoxis*
+## Story Seed: The Return of Zalmoxis
 
 The southern range of mountains that encloses the Maramures region contains several separate groups of cultists, each led by a *vrajitoarea* (plural: *vrajitoarele*) a Vlach with the powers of a folk witch (*Hedge Magic Revised Edition*, Chapter 3). Unlike some folk witches in other Tribunals, the vrajitoarele are associated with the Magic realm and none of their powers are infernally tainted. One group is led by a charismatic Gifted vrajitoarea, who is slowly asserting his influence over the
 
@@ -3865,7 +3865,7 @@ which suggests House Tremere knew that conflict was coming.
 
 Lycaneon currently houses 14 magi. This is above the peacetime baseline, which is eight magi, but far below full capacity, which is 32. The disruption to the Theban Tribunal caused by the Fourth Crusade has weakened House Tremere's rivals. Some of the magi who would usually be acting as hoplites at Seuthopolis have been reallocated here, and are pursuing projects for the Prima. A pair of Verditius magi have also been hired, bringing the total to three. In peacetime, the Tremere usually have only one Verditius employed here, as Verditius magi are so touchy with each other. Two more of the oppidum's magi are Bonisagus performing original research using spare laboratories: they have agreed to train the Tremere in any useful breakthroughs they develop.
 
-## *Setting and Description*
+## Setting and Description
 
 Lycaneon is a forested mountain that has been hollowed out using Terram magic. This has created a massive facility, much of which is mothballed, awaiting a project or crisis that suits each particular section. The aura of Lycaneon is, in some places, exceptionally high (9), but areas that cause Warping are usually vacant, as there is plenty of workspace, most of the time, in safer areas.
 
@@ -3908,7 +3908,7 @@ filled with imperialist detail incongruous to the modern House. Most walls in th
 
 The room containing the Mercere Portal, for example, contains an 18-foot statue of Tremere, with a huge eagle of solid gold alighting on his wrist. Similarly, the Grand Refectory has a statue of Tremere (this time only 12 feet tall — none of his statues are human height) with his hand upon the head of a subdued dragon, again made of gold. These statues, which are merely representative of his general preference, have been retained because each is a magic item. They are useful for defence if Lycaneon is attacked, but also immediately assail anyone who attempts to remove them.
 
-## *Culture and Traditions*
+## Culture and Traditions
 
 Lycaneon is the oppidum where House Tremere makes magical and specialized mundane items. Its membership is flexible, because members of the House often travel to Lycaneon to use the excellent laboratories here, if engaged in a significant project. Its long-term members are very informal with each other, particularly by the standards of House Tremere. Their work is non-competitive and, within the select group of senior Tremere, not secret. This fosters a collegial atmosphere, suitable for honest discussions of expensive and dangerous research.
 
@@ -3918,7 +3918,7 @@ Tremere designed Lycaneon as a manufactuary, and the House has continually upgra
 
 Lycaneon's magi create new magic and mundane items to fill holes in the strategic
 
-## *Gold Isn't Really Worth Much*
+## Gold Isn't Really Worth Much
 
 All of the gold in the mountain on which Lycaneon rests was mined out, by grogs with magic items, in the first few decades of the covenant's life. There are slightly over four thousand tons of gold, and twice that of silver, sitting in a vast storage cavern underneath Lycaneon. There is very little the Tremere can use it for.
 
@@ -3946,7 +3946,7 @@ When a crisis occurs, and multiple covenants fall, the Order has more members th
 
 Lycaneon has 32 laboratories, with various specializations, and space for many more sancta. This ridiculously large number is a vestige of the Schism War. Lycaneon was redesigned to house the huge number
 
-# *The Infernal Aura of Körösfö*
+# The Infernal Aura of Körösfö
 
 Once there was a town called Körösfö, made the richest in the Tribunal by gold and silver mines. Every person who lived there was as rich as a nobleman. Their children wanted for nothing, and had the best philosophers as teachers, but they were never taught to work, being so wealthy that it was not necessary.
 
@@ -3958,7 +3958,7 @@ Perhaps God allows the cross to be found every so often to allow virtuous men to
 
 When visitors ask why each ingot kept in Lycaneon has the word Körösfö inscribed on its surface, they are told this story.
 
-## *Saga Seed: Rapid Response Force*
+## Saga Seed: Rapid Response Force
 
 In this saga, the Prima of Tremere has decided to curry the goodwill of distant covenants by establishing a team of military specialists who can be rapidly, and publicly, deployed to other Tribunals to aid covenants in combat. The player characters bivouac and resupply at Lycaneon, but are sent through the network to deal with problems that appear near any of the covenants on the Harco network of portals. As the saga progresses, the characters discover a link between the combat zones they are subduing — like a cluster of faer-
 
@@ -3972,7 +3972,7 @@ ies, or separate diabolist groups serving a single master. Suitable foes include
 - Corrupted Hermetic magi.
 - Raiding Diedne magi (surprise!) or faeries pretending to be them.
 
-## *Story Seed: Covenant Failure*
+## Story Seed: Covenant Failure
 
 Storyguides can use oppidum of Lycaneon as a second-chance setting. This means that storyguides can design stories in which the player characters play for high stakes without worrying that if they fail, the saga will end. Following a crushing defeat, the player characters instead fight their way clear of nearby enemies and retreat to Lycaneon. After years of suitable preparation, both political and magical, they retake their covenant's site.
 
@@ -3991,7 +3991,7 @@ Lycaneon's name refers to the packs of magical white wolves that are the custodi
 
 The wolves of the mountains claim that their ancestors were humans, who were turned into wolves as part of a religious ceremony. They were stranded in animal shape following the Silencing of the Oracles, an ancient calamity. Sometimes a cub is born who is a throwback to these ancestors, and becomes human on the first, middle, and last nights of summer. With training these strange children can control their transformations, and they enter the service of the House in various roles. These wolves sometimes marry humans, and their children seem more prone than other children to nightwalking in wolf shape (See *Hedge Magic: Revised Edition* Chapter 6 for details on Nightwalkers.)
 
-## *Magi*
+## Magi
 
 There are currently 14 magi at Lycaneon, but most have been left undescribed so that storyguides may flesh out the oppidum as needed.
 
@@ -4071,14 +4071,14 @@ The senior Verditus in this Tribunal, Zalmoxis has worked here for over forty ye
 A persistent problem for House Tremere is that their magical focus, certamen, precludes any member having a magical focus suitable for making longevity rituals. Lesser longevity rituals are often purchased from young Verditus magi. Excellent longevity rituals are expensive, but the House arranges for them to be made available to senior Tremere, so that their wisdom and skill remain accessible to the House for an extended life. Many of these rituals are simply purchased from Corpus specialists in other Tribunals, but the House always ensures that at least one longevity specialist is close at hand, so that, in Order-wide emergencies, their ability to train apprentices as healers and extenders of life is preserved.
 
 
-# *The Oppidum of the Scholomance*
+# The Oppidum of the Scholomance
 
 Travelers' tales from the Carpathian Mountains occasionally speak of a mysterious castle overlooking a high mountain pass, which only appears at the heart of a storm, and is gone whenever storm-tossed travelers seek refuge there. Locals nod sagely, and tell them they have glimpsed the fabled Scholomance.
 
 The legend of the Devil's School is told throughout the Balkans and beyond; its name is whispered in the Byzantine corridors of power and even in the court of the Holy Roman Emperor. According to the legend, the doors of this school are open to only the most gifted individuals, who are taught the secrets of nature, the language of animals, and all magic spells by the Devil himself. Only ten students are admitted at a time, and at the end of the seven years they leave brimming with forbidden knowledge; all except for one, who the Devil claims for his own and who is never seen again. In reality, the Scholomance is run by an oppidum in Transylvania and is a school for recruiting agents, companions, and apprentices.
 
 
-## *Education in the Transylvanian Tribunal*
+## Education in the Transylvanian Tribunal
 
 Unlike Western Europe, the Transylvanian Tribunal does not have a preponderance of famous schools, other than the dubious reputation of the Scholomance. The schools of Mostre and Veszprém are the closest thing the region has to universities. Mostre's school is a cathedral school of the Bosnian Church, specializing in theology, cosmology, ethics, and medicine. The cathedral school in the Hungarian city of Veszprém teaches the Artes Liberales and Civil & Canon Law, as well as training diplomats.
 
@@ -4086,13 +4086,13 @@ The seats of the various bishoprics across the region usually have grammar schoo
 
 Given its reputation, it is perhaps unsurprising that the Church has taken an interest, and a papal legate has been ordered to investigate rumors of the Scholomance and its devilish practices. He has sought lodging among the Teutonic Order (see Chapter 5) while he prepares his case. Since the only people who know anything concrete about the school are either magi or those who have attended it, the legate has yet to discover anything other than hearsay.
 
-## *History*
+## History
 
 The Order had been aware for a while of a "ghostly castle" in the Carpathians, but it was not until 1095 that Jeremiah of Tremere discovered the secrets of its regio and gained entrance to the tower for the first time. Never one to pass up a useful resource, Coeris claimed the site thirty years later, and turned it into a mansio — a waypoint for Redcaps serving the north of the Tribunal. A few years later, it expanded its operations to the training of Redcaps, and soon after also became a training ground for mundanes of interest to House Tremere.
 
 Within the last ten years or so, Simium (the current headmaster of the School) has been corresponding with the covenant of Polyaigos in the Theban Tribunal. Polyaigos has a similar remit to teach pupils prior to apprenticeship; they also train mundane agents, although they have a decidedly more military bent to their curriculum. There is talk of an exchange program between Polyaigos and the Scholomance and Laniena (see Chapter 3), but the centuries-old distrust and dislike between Thebes and Transylvania has prevented this thus far.
 
-## *Setting and Description*
+## Setting and Description
 
 The Scholomance resides in an isolated valley high in the Carpathian mountains south of Hermannstadt. The valley itself contains a small unnamed lake and little else other than a Magic aura of 3; on calm days the lake is mirror smooth, and reflects the entire sky in its surface. The tower inhabited by the oppidum resides entirely within a regio, and there is usually no sign of it, except during violent storms. When lightning rages about the crags of the valley, the Scholomance is visible, perched on a cliff's edge overlooking a rarely used pass. At such times the regio (which has a Magic aura of 5) lies open and anyone can walk in; but the regio is capricious, and the tower disappears as readily as it appears. Occasionally, the tower appears in other locations, mostly within the mountains of the Tribunal, but sometimes in more far-flung localities. On one memorable occasion the Scholomance opened its doors in the midst of a sandstorm in a mighty desert. The headmaster of the school (see later) can exert some control over the appearance of the tower in its valley, but its far wanderings appear to be random, albeit infrequent.
 
@@ -4106,7 +4106,7 @@ The third and final story is reached by a single staircase that is always guarde
 
 All corridors of the tower and some of the rooms have enchantments that garble the sound of any speech so that it cannot be understood. This discourages idle chatter between the pupils and prevents them from overhearing matters that they have no right to know. Most of the study rooms have similar enchantments that smear written text for anyone but the single person touching the text, preventing pupils from easily discovering what the others are studying. These
 
-## *Storm-Chasers*
+## Storm-Chasers
 
 The opening of the regio's borders during storms indicates a connection to the Storm Wizards (see Chapter 9: Hedge Traditions), and these hedge wizards have certainly shown an interest in the site. Twice in the past, these wizards have joined forces and tried to take the tower by force, using their pow-
 
@@ -4115,7 +4115,7 @@ ers to keep the tower from fleeing into its regio. Both times they have been suc
 
 methods are not foolproof, but add to the mystique of the school.
 
-## *Culture and Traditions*
+## Culture and Traditions
 
 The Scholomance is first and foremost a school. It accepts ten pupils at a time, all at once, and they remain for a total of seven years. These pupils have many different origins, but fall into one of three categories. First are the mundane scholars. The Scholomance is famed as a school of esoteric knowledge, and scholars from across Mythic Europe seek to be admitted, ignorant of its connection to the Order of Hermes. They have all managed to make the acquaintance of a former pupil of the school, and received an invitation from the school to attend. Of those that apply only the most favored will secure a place, and it is rumored that noblemen, bishops, and even kings have attended in their youth. The Scholomance usually picks applicants who are of interest to House Tremere, either as mundane agents, contacts, or companions. These lucky few seek to learn subjects that cannot be studied through more usual methods of education, subjects which are often considered to be occult knowledge or even called the "dark arts."
 
@@ -4137,7 +4137,7 @@ Attending the Scholomance is a good way to explain Virtues such as Educated, Arc
 The members of the oppidum take on duties of teaching at the school in return for access to the Scholomance's superior library. Their efforts are supplemented by non-Hermetic teachers who make up the school's
 
 
-## *Playing Gifted Children*
+## Playing Gifted Children
 
 An alternative saga for **Ars Magica Fifth Edition** could start the characters before their apprenticeship starts, or else sometime after the Opening of the Arts. Having them as members of the Scholomance's class gives an opportunity for characters of different backgrounds to meet and form friendships. The *Apprentices* sourcebook is a great help for a saga of this kind.
 
@@ -4153,7 +4153,7 @@ This story works particularly well if the player character has risen to a positi
 
 companions. Magi are expected to spend one season a year teaching, and mature magi of House Tremere are often assigned to the oppidum in preparation for them taking an apprentice of their own. If a magus has his own apprentice at the school, he is required to fulfill his obligation to his apprentice in addition to teaching another pupil. Teaching is often performed one-on-one, but if the Scholomance is currently short of members, the master may be assigned a small study group. Magi are required to extend their Parma around those they teach to negate the social effects of The Gift.
 
-## *Magi*
+## Magi
 
 The Scholomance has four Hermetic sancta, and enough room to accommodate four more magi as guest tutors. Currently there are only three resident magi, following the recent departure of one of its members for a distant Tribunal. The guest quarters are used by magi assigned as tutors to the oppidum; they must use the shared laboratory if they desire to perform lab work while resident here. The Scholomance prefer magi who have some interest in the liberal arts, natural philosophy, or occult lore, or who possess some Supernatural Ability.
 
@@ -4170,7 +4170,7 @@ Having spent years at a lectern or bent over a table, Simium's back is bowed and
 
 Melanchthon was forced to leave the Rhine Tribunal after a series of public disputes with a prominent member of House Bonisagus left him branded as both an empiricist and atheist, and unlikely to ever succeed on a political stage within that Tribunal's hierarchy. The accusation of atheism is unfair;
 
-## *Story Seed: The Specialist*
+## Story Seed: The Specialist
 
 A character who possesses a Supernatural Ability is asked to do a stint teaching that Ability at the Scholomance. A pupil with that Ability has come to the school for teaching, but he is a troubled child. It turns out that all of his former teachers, before he en-
 
@@ -4181,7 +4181,7 @@ like most Tremere, he is impious but not an atheist *per se*. His true crime was
 
 The Scholomance allows Melanchthon to pursue his own curriculum with the pupils of the school. He is specifically interested in the teaching of moral philosophy and rhetoric, drawing on non-standard texts deemed heretical or blasphemous by the establishment. He dreams of a time when his pupils enact his humanist agenda in the universities and courts of Mythic Europe.
 
-## *Covenfolk*
+## Covenfolk
 
 The Scholomance employs just three soldiers, relying on the remoteness of the tower to discourage visitors. Most of the grogs are servants; they grow and prepare food for the pupils and masters, and perform menial tasks like cleaning. The servants have orders to ignore all pupils as if they were deaf and mute. The punishments threatened for disobedience are sufficiently terrible that infractions are rare.
 
@@ -4191,11 +4191,11 @@ There are also several specialists who are each experts in a particular field, w
 
 Sebastian is something of an enigma. He was the only inhabitant of the tower when Jeremiah of Tremere first entered it, and he is still alive having apparently not aged a day. Most of the magi assume he is some variety of magic kin rather than a human, but those few who are rude enough to probe him with magic have failed to discover anything, including a Might score. This has bred a certain paranoia that the headmaster tries to keep in check. Sebastian tells each headmaster his secret (or part of it, at least), and he is sufficiently trusted to help in the logistics of
 
-## *Story Seed: A Snake in the Classroom*
+## Story Seed: A Snake in the Classroom
 
 The characters are teaching at the Scholomance when one of the class gains access to the upper library by somehow defeating the guardians of the third story. A search of the uppermost story fails to locate him, although several important texts have been stolen, including a summa on the Parma Magica. Further investigation suggests that the pupil was actually a member of another magical tradition. It is now a race to find the thief before he is able to get the valuable book to his compatriots. If they fail, the future of the Scholomance may have to be re-evaluated.
 
-## *A Haunt of Dragons*
+## A Haunt of Dragons
 
 The Carpathian mountains are home to dragons (see "Dragons" in Chapter 8: Creatures) in sufficient numbers that they are merely an uncommon sight. The local dragon king is Aževastjepan, a seven-headed zmaj who enforces the Pax Draconis ruthlessly and has outlawed aždaje from his realm (with varying success). No magus has dealt directly with Aževastjepan and his lair is unknown even to other dragons, but they speak of him with awe. The similarity of the dragonking's name with that of the Scholomance's caretaker has been noticed by some magi. No one is known to have challenged Sebastian directly over this connection, but those noticing it tread more carefully in his presence.
 
@@ -4210,24 +4210,24 @@ Ludmilla is a Romanian *strigoica*, or witch. In addition to being a Gifted memb
 Ludmilla is a slim woman in her midfifties, with a look of fading beauty. Her hands are knotted with swollen knuckles, and she prefers to keep them hidden. When nightwalking, her *phantasticum* takes the form of a white moth with the face of a beautiful young girl.
 
 
-## *Chapter Seven*
+## Chapter Seven
 
-# *Networks of Hidden Fortresses*
+# Networks of Hidden Fortresses
 
 The two organizations described in this chapter control many sites scattered about the Tribunal which, by coincidence, all share the form of a hidden fortress. These two networks help troupes to design sagas about highly mobile magi, who visit many areas of the Tribunal, so that full use can be made of all the material presented in this book.
 
 These fortresses differ from mansiones, the network of rest stops maintained by members of House Mercere. These accommodations are designed for travelers, much like coaching houses, and troupes telling highly mobile sagas may wish to include them among the options for shelter and chance encounters on the road. Mansiones are described in greater detail in the Shrouded Bay section of Chapter 5 in this book.
 
 
-# *The Hospital*
+# The Hospital
 
 The Hospital is neither a covenant, nor an oppidum. Instead, it is a service provided by the Transylvanian Tribunal, to the magi of the Transylvanian Tribunal. The intent is that, if any magus falls ill or is wounded while traveling in the Tribunal, then he may find his way (or be brought by his grogs) to a safehouse. These traveler's safehouses, referred to as zenodochia, contain enchanted items that either help the magus to heal, or cure him directly. As zenodochia are intended to be used by magi who are far from their oppidum, few are actually constructed near oppida.
 
-## *The Zenodochium*
+## The Zenodochium
 
 Each zenodochium contains magical items, casting tablets, mundane supplies, and up to two rooks of Corpus vis that can be used by magi in need. The magical items and casting tablets are not supposed to be removed, and the vis and other supplies must be replaced as soon as the magus is able to. Stealing vis from a zenodochium is a Low Crime. However, a magus who takes vis and then finds himself unable to repay is usually
 
-## *Story Seed: The Plague House*
+## Story Seed: The Plague House
 
 Fresh from a hard fought battle against faeries or other enemies, the grogs bring their heavily wounded master to a rural zenodochium. When they arrive, they discover a young woman in the main hall, sleeping the deep sleep of the nearly dead. Her breath is very light, her pale skin is blotched and covered in an angry rash, and she smells of vomit and excrement. The woman has a plague.
 
@@ -4246,11 +4246,11 @@ The zenodochia network was devised during the Schism War. The Tremere generals r
 
 Unfortunately, the ambitions of the wartime Tremere generals may have proven greater than the subsequent resources and dedication of the Tribunal. In theory, there are hundreds of zenodochia. In reality, many were never built. Precisely how many zenodochia exist, and whether the Tribunal is still enthusiastic in 1220 to maintain and expand the network, is left as a decision for your saga. There could be as few as a dozen functioning zenodochia, or there might be hundreds.
 
-## *Placement of Zenodochia*
+## Placement of Zenodochia
 
 Most zenodochia are in rural or wilderness areas, although a few are in large towns. Although the coverage of the zenodochia network is incomplete, it is rare for a magus to be very far from a zenodochium. Few magi know the precise location of every extant zenodochium, although Tremere are generally better informed. Grogs are permitted to use the facilities, and a magus is held responsible for any damage that his grogs cause. Redcaps
 
-# *Casting Tablets*
+# Casting Tablets
 
 Zenodochia contain a number of spells written on casting tablets. Full rules for casting tablets are given in *Covenants*, page 89–90. Briefly, any magus may cast a spell from a casting tablet. A casting tablet may be used multiple times. Generate a Casting Total as if the magus knew the formulaic spell or ritual, and remember to include Wound and Aura Penalties. The magus cannot vary the spell in any way, and cannot expend vis on the Casting Total, although he must spend the required vis for a ritual spell.
 
@@ -4262,7 +4262,7 @@ zenodochia usually contain no staff. Some zenodochii are empty wooden houses bes
 
 Obviously, characters in your saga who have been to a zenodochium can usually find their way back to those safehouses again. However, to check whether a character knows the location of a close zenodochia, which he has not been previously visited in your saga, make an Intelligence + Order of Hermes Lore roll. This is against an Ease Factor of 9, if the character has lived in the Transylvanian Tribunal for at least 1 year; for visitors, the Ease Factor is 12. In either case, Tremere characters have a +3 bonus to the roll. Alternatively, you may make an Intelligence + Area Lore roll against an Ease Factor of 12. However, if the Area Lore is particularly narrow — say, a single village — then there may be no zenodochia within its remit. These Ease Factors assume that zenodochia are relatively common. Increase the Ease Factors by 3 if zenodochia are rare in your saga.
 
-## *The Curantis*
+## The Curantis
 
 A special officer of the Tribunal, the Curantis, is appointed at each Tribunal meeting, for a term that lasts until the next Tribunal meeting. The Curantis' duty is to travel among the network of zenodochia, checking that each is in order and making repairs, and he is expected to construct at least one new zenodochium during his term of office. The Curantis spends about a season each year traveling the zenodochia network.
 
@@ -4275,7 +4275,7 @@ Although the Curantis is technically voted into his office by the Tribunal, the 
 The Curantis is accompanied by his Notary. The Curantis' Notary is a magus, selected by the previous Curantis, who acts as aedile to the Curantis. The Notary is often a Redcap. Freshly gauntleted magi may also serve this function.
 
 
-## *Minor Covenant Hook: Zenodochium*
+## Minor Covenant Hook: Zenodochium
 
 There is a zenodochium within a day's travel of the covenant. The covenant may freely make use of the zenodochium, but must replace any vis or other items that are used or removed. The covenant will be visited once every few years by the Curantis while on his tour of inspection of the zenodochia, and if the nearby zenodochium is found to be damaged, the covenant
 
@@ -4283,7 +4283,7 @@ will surely be the first point of inquiries.
 
 The zenodochium will be periodically used by other magi who are injured while passing through the region near the covenant. An injured magus or his companions might visit the covenant during his convalescence, either out of curiosity or for assistance in dealing with whatever peril befell him.
 
-## *Story Seed: The Disease Trap*
+## Story Seed: The Disease Trap
 
 The characters travel to a zenodochium carrying a heavily wounded companion. Unbeknownst to the characters, the *Hippocratic Staff* has been removed from the zenodochium and replaced with an *Ague Staff*, which causes disease. This trap may have been laid by the character's enemies, or it may be intended for someone else. If the characters survive, can they discover what has happened, and identify and prosecute those responsible?
 
@@ -4303,7 +4303,7 @@ This effect activates every dawn and inflicts the ague upon any character in the
 
 (Base 15, +1 Touch, +3 Structure; +3 Environmental Trigger)
 
-## *Zenodochium Items*
+## Zenodochium Items
 
 The following enchanted items and casting tablets are stored in zenodochia. Occasionally, some items may be missing, but this is rare, as it means that a previous occupant has stolen something.
 
@@ -4454,11 +4454,11 @@ This enchanted iron horseshoe is hung above the entrance to the zenodochium. It 
 (Base 3, +1 Touch, +2 Sun +3 Structure; +4 Constant Effect, +6 Penetration 12)
 
 
-# *The Oppidum of Kezdö Válasz*
+# The Oppidum of Kezdö Válasz
 
 Kezdö Válasz is a commitment rather than a physical site. Its members swear to be the first to respond to threats and promise to abandon laboratory work and personal study at a moment's notice. The oppidum is not located in a single place; rather, it is a series of forts. All of the members are citizens of the Tribunal, cives, including foreign magi who would otherwise be considered foederati. Joining Kezdö Válasz can be viewed as instant citizenship to the Tribunal, but it is not a guarantee. Tremere magi permanently keep this privilege, but magi of other Houses must renegotiate this privilege if they leave Kezdö Válasz.
 
-## *History*
+## History
 
 Originally named Primum Responsans, Latin for "initial response," this oppidum is better known by the Hungarian name *Kezdö Válasz*. In 1008, the Tremere magus Norsius established an oppidum to defend the Tribunal's borders during the Schism War. More
 
@@ -4467,7 +4467,7 @@ historian than military expert, Norsius was inspired by the defensive features o
 
 As the kingdoms of the Balkan Peninsula emerged, Norsius' filius, Gasparus, took his parens' idea one step further. He spread the forts throughout the Tribunal, allowing the magi of Kezdö Válasz to live near any potential problem area, internal or external. So as not to become static and immobile, each pair of magi promised to move after every Tribunal meeting, relocating every seven years to a new fort. Forts were created as necessary and magi moved, taking their sanctum markers and laboratories with them. Sometimes old forts were destroyed but other times they remained, with some few being reused over the decades. The entire operation was organized by the oppidum's leader, who traditionally lived in the first fort Norsius created.
 
-## *Setting and Description*
+## Setting and Description
 
 Currently there are four active forts in the Tribunal, each home to two magi. All the forts are physically the same: a twostory stone building with a single entrance, pierced by narrow arrow slits, and a taller watchtower rising from one of the corners. The ground floor holds a kitchen and great hall, where most of the daily routine activities happen. Two circular stairways are built in the thick walls, one leading up to the second story and watchtower, and one leading down to the basement, where supplies and
 
@@ -4482,7 +4482,7 @@ After the Transylvania's Tribunal meeting, the magi choose new locations for the
 
 fort, it will be destroyed. Casting tables exist that can reduce a fort to rubble. Abandoned forts are generally left empty.
 
-## *Culture and Tradition*
+## Culture and Tradition
 
 Most of the time the magi of Kezdö Válasz lead lives much like their fellows. Seasons are spent in the laboratory or library, studying Arts, improving Arcane Abilities, and enchanting items. Different from their fellows, however, is the pledge to leave the fort immediately if a threat arises. As they wait, poised to act, the magi focus on spells and enchanted devices that allow long-distance communication and instantaneous travel. To ensure that they are the first on the scene, the oppidum keeps a network of spies and mundane agents in key positions throughout the Tribunal.
 
@@ -4490,7 +4490,7 @@ Kezdö Válasz has approximately 55 grogs in total. Not all of the mundane staff
 
 Speed is essential and every member of the oppidum has developed ways to move rapidly to distant locations. Norsius originally thought magi should ride horses, a romantic yet impractical notion, and invented spells and enchanted devices that suppressed
 
-## *Fort Locations*
+## Fort Locations
 
 Kezdö Válasz's forts can be anywhere, placed specifically for adventures in your Tribunal. While not movable, a fort is easily created and destroyed with magic, so that locations can easily change. As mentioned, the only permanent fort is located near Sarmizegethusa. Other possible locations for forts are:
 
@@ -4503,7 +4503,7 @@ Kezdö Válasz's forts can be anywhere, placed specifically for adventures in yo
 - West of the Carpathian Mountains on the Pontic-Caspian steppe, an area notorious for large gatherings of Cuman warriors.
 - North of Adrianople on the Bulgarian-Byzantine border.
 
-## *The Treasure of Decebalus*
+## The Treasure of Decebalus
 
 In 105, the Roman Emperor Trajan invaded Dacia because the Dacian king Decebalus had broken the terms of a treaty. As the superior Roman army marched toward his palace, Decebalus hid his kingdom's treasure. He ordered captive Roman soldiers to divert the Sargetias River, and hid the majority of his and his nobles' wealth in the river bed, sealing the vast quantities of gold and silver in place with stones, and then allowed the Sargetias to return to its regular course. More treasure was hidden in the many grottoes and underground caverns along one stretch of the river. Killing every captive involved in the effort, Decebalus thought his treasure secure.
 
@@ -4532,7 +4532,7 @@ Essedarius is the fourth leader in Kezdö Válasz's history, a direct descendent
 
 New in his position, Essedarius has not faced any real threats yet. He is keenly aware of the growing conflict between Bosnia and Hungary, and fears the widespread slaughter that a crusade might bring. He has identified several Hungarians knights who frequently cross the border searching for heretical Patarians to kill. He warns his agents to stay out of their way, but will defend his Bosnian spies if they are attacked. To prove his leadership capabilities, Essedarius has not been living in his fort but in the field, staying at a camp with six armed grogs. He believes this display shows his commitment to the oppidum, while others complain that it is a waste of his time and he should be working to improve his Arts instead.
 
-## *Story Seeds for Kezdö Válasz's Magi*
+## Story Seeds for Kezdö Válasz's Magi
 
 Kezdö Válasz readily accepts young magi as members, both newly gauntleted Tremere and foreign magi who would otherwise be coloniae. It is one of the easier oppida to join, and is an ideal way to introduce new magi to the Tribunal. New members might be paired with other new members or with older magi. They will be placed in a fort, and each receives an equal share of the oppidum's privileges and responsibilities. New members are not free agents exactly, and must follow the commands of Essedarius, the oppidum's leader. His agenda is always full, and he will never run out of errands and missions for the younger members.
 
@@ -4570,7 +4570,7 @@ In the 16 years since his joining, Adulio has been mostly disappointed at the la
 
 Like Essedarius, Adulio likes to ride. He has a magic bridle crafted by Essedarius that soothes a horse and allows the beast to carry the magus. Adulio's father was a horse breeder and the magus has a good eye for well-bred mounts.
 
-# *Story Seeds for Kezdö Válasz's Environs*
+# Story Seeds for Kezdö Válasz's Environs
 
 Every seven years, Kezdö Válasz's magi leave their old forts for new forts. Not every fort is destroyed when the magi leave, and if they think they may use it again, the magi let the fort stand. Even if they never intend to return, if the casting tablet with the *Destroy the Fort* spell isn't handy, the magi may just abandon the fort. A few forts lie scattered about in locations that no longer interest the magi of Kezdö Válasz. While all were originally constructed in Magic auras, things change. Some remaining forts rest in Magic auras, a few in Faerie auras, and one or two sit in Infernal auras.
 
@@ -4589,13 +4589,13 @@ Neculai is a member of Clan Sirnas, the branch of magi within House Bjornaer who
 Neculai's heartbeast is a pern, also called a honey buzzard: a kite-sized, migratory raptor that usually preys on wasp and hornet larva, but will also eat small reptiles, birds, and mammals. Flying is an ideal mode of transportation for the Tribunal's rugged terrain. Recently, Essedarius has asked Neculai to visit Leona at the remote Prokletije fort, ostensibly to keep her informed of the oppidum's business but also to keep her under observation.
 
 
-## *Chapter Eight*
+## Chapter Eight
 
-# *Creatures*
+# Creatures
 
 The many strange creatures of the Transylvanian Tribunal cannot all be described here. The broad classes of monster popular in local folktales are described here, but storyguides should strive to make each example a distinctive person. A Transylvanian vampire, dragon, or witch is a particular and unique individual.
 
-# *Dragons of the Tribunal*
+# Dragons of the Tribunal
 
 Of all the creatures that prowl the remote landscapes of the Transylvanian Tribunal, none are more terrible than the dragons. The Transylvanian Tribunal covers hundreds of thousands of square miles of land, more than half of it nestled behind nearly impenetrable forests, tortuous ravines, and imposing mountain peaks. Hundreds, perhaps thousands of dragons live in the Tribunal. These fierce beasts can be found in several locations: secluded forest gulches, hidden valleys in the vast plains, rugged river ravines, remote castles, and beneath the surface of the Tribunal's many lakes and rivers. Superior (literally and metaphorically) to all these climes are the towering peaks of the Tribunal's mountains, which offer ideal homes for the reclusive beasts.
 
@@ -4609,7 +4609,7 @@ Hermetic magic makes a clear and accurate distinction between Infernal and Magic
 
 *Realms of Power: Magic* has several ranks of dragon and dragon-kind, from the lowly serpents to the powerful true dragon (page 74). Transylvania's dragons are all true dragons, even those that don't conform to the Transylvanian standard of four legs, bat wings, and multiple heads. Weak dragons have Infernal or Magic Might Scores between 15 and 30, typical dragons between 30 and 40, and the most powerful dragons have Might scores between 40 and 50. Legendary dragons have Might scores around 60.
 
-## *Infernal Dragons*
+## Infernal Dragons
 
 Called *aždaja* in the Slavonic languages (pl. *aždaje*), an Infernal dragon is not a demon but an Infernal beast. Unlike other Infernal beasts, aždaje are intelligent instead of cunning. Aždaje raid and plunder without remorse, amassing wealth and inflicting harm. In aždaje society, might makes right; the stronger aždaje control the weaker. Lesser aždaje hope to grow in power and then reverse the social situation. Reveling in their power, the stronger aždaje take the better lairs and hunting grounds. This hierarchy is controlled through strength. Reputation matters, but an aždaja controls his inferiors by punishing them when they disobey or get in his way.
 
@@ -4620,7 +4620,7 @@ Not every aždaja is a multi-headed quadruped. Some aždaje have no legs and res
 
 Like a Magical dragon, an aždaja prefers to live in a remote location. Although the locations may be similar, the trappings are not. Infernal dragon lairs are dark, desolate places, creeping with despair and edged in rot. Usually placed in Infernal auras, the vast majority of these auras are corrupted with the taint of malevolence (*Realms of Power: The Infernal*, page 15).
 
-## *Magical Dragons*
+## Magical Dragons
 
 To most Tribunal residents the magic dragons aren't much better than the aždaje. Called *zmaj* (pl. *zmajevi*), magic dragons lust after the same things — wives and treasure — and often use the same means to get them. Whereas the aždaje know that they are inflicting harm on humans, the zmajevi aren't aware of the destruction they cause or the hate they engender. Far from stupid, a zmaj is simply unconcerned with his neighbors' ill feelings. Zmajevi are often multi-headed and darkly hued, like aždaje, and have a size range similar to their Infernal counterparts. Some zmajevi walk on two hind legs, a physical characteristic unique to the Magic dragons. Such zmaj have short forearms ending in clawed hands that can manipulate items, tools, and weapons.
 
@@ -4628,7 +4628,7 @@ Zmajevi lairs are very different from aždaje lairs, although the difference is 
 
 Zmajevi also live in a social hierarchy, like their infernal cousins the aždaje. The
 
-## *Upokorituma, an Aždaja*
+## Upokorituma, an Aždaja
 
 Aždaje are corrupted beasts, not demons, and follow the rules found in *Realms of Power: The Infernal*, page 77. In most cases, a corrupted beast is a tainted version of a mundane beast, and game statistics are created by adding Infernal Virtues and Flaws to the mundane beast's existing statistics. Because there are no mundane dragons, a corrupted dragon's game statistics can either be created using a combination of Infernal Virtues and Flaws (*Realms of Power: The Infernal*, pages 77–79) and Virtues and Flaws appropriate for beasts (*Houses of Hermes: Mystery* Cults, pages 38–43). You may also add Infernal Virtues and Flaws to a Magic dragon, using the rules found in *Realms of Power: Magic*. In the latter case, the dragon is a creature of the Infernal realm, and has Infernal Might instead of Magic Might, even if it has powers created using the rules for Magic creatures. The following example uses Infernal Virtues and Flaws and standard Virtues & Flaws to create a sample aždaja.
 
@@ -4678,7 +4678,7 @@ Upokorituma lives along the upper Danube, hiding in gulches and hard-toreach rav
 
 zmajevi social framework is based on reputation, and consists of remembered favors and slights, assistances and injustices. The zmajevi of the Transylvanian Tribunal have co-existed for thousands of years and have a long history of interactions. They remember the violent years, before Fetillusclaviceps created the peace (see insert), and the relatively tranquil time of the last few centuries. The stronger still abuse the weaker, taking their treasure and property, but it is tempered by other relationships and the threat of retribution by other zmajevi. A stronger zmaj might not take a weaker zmaj's recently abducted wife, if that zmaj is somehow attached to a more powerful third party. This complicated social structure resembles human feudal society, but also contains several intricacies pertinent only to dragons. While the magi of House Tremere don't exactly understand how it works, it has worked well enough over the years to keep the zmajevi making only occasional raids against human society.
 
-## *Pax Draconis*
+## Pax Draconis
 
 The Roman Empire brought trade, urban centers, and a degree of lasting peace to Dacia. They also brought a dragon, a powerful Roman worm named Fetillusclaviceps who enjoyed secretly watching the Romans. Like an amused child watching a hill of ants, Fetillusclaviceps observed the legions as they imposed Roman rule on the local inhabitants. He was frequently interrupted by native dragon attacks, rapacious beasts who struck without warning or provocation. Dacia, at the time, was a battlefield for dragons. Zmajevi and aždaje warred without peace or patience, engaged in a constant struggle that regularly spilled outside the areas native to dragons and into human places. The Dacian tribes were too disorganized to fight back, and most claimed the reptilian depredations were signs from their angry pagan gods. Fetillusclaviceps realized that the Romans wouldn't ignore the dragons. Years of watching the Romans had shown how persistent they could be. Fetillusclaviceps thought the dragons would lose if they clashed with the Romans.
 
@@ -4698,11 +4698,11 @@ The peace works, most of the time. It needs to be periodically reinforced, and F
 
 Fetillusclaviceps has been sighted a halfdozen times in the last three centuries, but he never directly encountered by a magus, nor has his lair been discovered. The dragon has not been seen in more than 50 years. Some Tremere magi wonder if the past sightings were really Fetillusclaviceps or one of their own, copying the Founder's impersonation of the beast. There is no official Tremere policy to continue pretending to be the Roman dragon, as far as anyone knows, although it does make a certain amount of sense. Frequent appearances keep the aždaje and the zmajevi in line, making them less of a problem for Hermetic and mundane society.
 
-## *Dragon-Born*
+## Dragon-Born
 
 A zmaj with a human wife can produce human offspring. Born in the dragon's lair, the children rarely remain with their father,
 
-## *Danaslepih, a Zmaj*
+## Danaslepih, a Zmaj
 
 Danaslepih is young by zmaj standards. Born blind, he has developed acute senses of smell and hearing, and can travel about his territory effortlessly. He knows the smell of every plant in the Tribunal, and if he smells grain crops growing too close to his home, he destroys them. His lair is hidden among a closely growing group of horse-chestnut trees along the Drina River in western Serbia.
 
@@ -4765,7 +4765,7 @@ Danaslepih is young by zmaj standards. Born blind, he has developed acute senses
 Danaslepih generally prowls the borders of his territory, hunting deer and protecting his grove from encroaching farmers. He is not violent, although he can be very rude. When encountering a farmer, he destroys the man's crops and changes the farmer into a tree. Like other zmajevi, Danaslepih is looking for a wife.
 
 
-## *Dragon-Born Statistics*
+## Dragon-Born Statistics
 
 **Inherited Virtues:** Greater Immunity (fire)**;** Personal Power, Self-Confident **Common Flaws:** Greedy (women or gold)
 
@@ -4787,7 +4787,7 @@ and it is more common for the child to be returned to the mother's kinfolk. A zm
 
 Dragon-born look like regular men and women to most people. A viewer with Second Sight will see that the dragon-born's pupils are slit like a snake's instead of round, and that the dragon-born's skin has a reflective shine to it, like light reflecting off scales. Dragon-born are another type of Magic Kin, as described in *Realms of Power: Magic*, page 89. Like others of their ilk, each dragon-born character has "Inherited Virtues" and "Common Flaws" that must be purchased at character generation.
 
-## *The Dragon War*
+## The Dragon War
 
 With few interruptions, the Pax Draconis has held, maintaining the peace between the aždaje and the zmajevi, and keeping their depredations against human neighbors to a minimum. Most altercations with dragons are with individuals, who are often defending their lairs or recovering stolen property. But this could change at any time. The only thing holding the dragons in check is the Pax Draconis, and the only thing that gives the treaty its weight is Fetillusclaviceps. If Fetillusclaviceps was removed, then the dragons would seize new opportunities, revenging old grudges and taking whatever they could. Every dragon wants more, especially gold, and being egotistical by nature, every dragon thinks that it deserves more than it has. Violence would rule the day and descend like a plague on mankind.
 
@@ -4812,7 +4812,7 @@ ons. He convinces his brethren that the magi are in league with Fetillusclavicep
 - **• What's Good for the Neighbors is Good for Us.** Infernal forces are on the rise in the nearby Theban Tribunal, ever since the demon Akgah sundered of the Divine forces protecting Constantinople (see *The Sundered Eagle*, page 139). Viewing the scene from his mountain aerie, a powerful aždaje named Rabidanadas thinks he could manage the same in Transylvania. Since the Roman dragon hasn't been seen in 50 years, Rabidanadas hopes to coerce a band of aždaje into testing their strength against the Kingdom of Bulgaria.
 - **• We Have Been Deceived!** It is discovered, either by dragons or magi, that Fetillusclaviceps is long gone, and that the last several sightings have been a magus masquerading as the Roman dragon to keep the peace. If this ruse is discovered by dragons, they instantly react violently, each hoping for new territory and plunder taken from the Order of Hermes. Once one group falls out of line, the rest follow, and dragon raids evolve into raging war. If a magus discovers this ruse, the threat is even more dangerous. Pretending to be the dragon could be construed
 
-## *Against the Dark*
+## Against the Dark
 
 as breaking the Oath of Hermes, since the magus is dealing with Infernal beasts in a fashion. How does House Tremere respond? If they stop the ruse, it will only be a matter of time before the dragons test their boundaries, most likely initiated by the aždaje.
 
@@ -4827,7 +4827,7 @@ The best trigger involves your player characters, somehow, as a result of one of
 
 As the storyguide, you could create a single plot for your players to follow, but you might be safer creating situations for the players, rather than forcing them along a single course of action. Each situation should be more dramatic than the previous, escalating the damage caused by the war
 
-## *A Dragon-Riding Storm Wizard*
+## A Dragon-Riding Storm Wizard
 
 There is a legend in Transylvania that says thunderstorms are caused by a dragon-riding wizard, the right-hand man of the devil. According to the tale, 10 students are chosen periodically and taught the secrets of nature and magic at the Scholomance, a school hidden in the mountains (see Chapter 7). Nine of the scholars return to mankind, but the tenth is kept by the devil, given an aždaja to ride, and assists the fiend in making bad weather.
 
@@ -4866,13 +4866,13 @@ defensive characters. In any event, let the player characters' actions influence
 - **• Helping Others Helps Us.** To truly defeat Rabidanadas, the magi of Transylvania must go to Thebes to defeat the demon Akgah. Only then can the dragon war be ended. Theban magi will naturally suspect foul play, but if successful, Transylvanian magi could heal a wound that has festered between the Tribunals for centuries. Doing so might clean House Tremere of its tarnish, allowing others to finally forgive the House for its tumultuous past.
 - **• The Culprit Among Us.** It is true: a Hermetic magus had been posing as Fetillusclaviceps for the past century. A renowned Flambeau seeker, he had tracked the elder dragon to its lair and killed the beast, only to realize that, by killing the
 
-## *Against the Dark*
+## Against the Dark
 
 Roman dragon, he had sundered the Pax Draconis. Rather than admit his error, he began the subterfuge. This could have several outcomes. Continuing the impersonation is likely a Hermetic crime, and if caught, House Tremere will lose the rest of its credibility. Can the magi of House Tremere find a replacement for the Roman dragon?
 
 **• Find the Column.** The war can only be settled if the original instigators, Leontine Adiran and her zmaj debate partner, can settle their feud. Characters discover that Dominic of Tytalus, the aedile of Coeris, stole the column to purposefully start the confrontation. Did he intentionally start the war, or was it a simple test of his protégé that spiraled out of control? Dominic is gone, either killed or missing, and the column cannot be found. Perhaps it is hidden deep within Coeris, although the player characters' superiors don't believe it is. The characters must clandestinely foil the covenant's many defenses to retrieve the column (see *Legends of Hermes,* Chapter 5*)*.
 
-# *Giants and their Mothers*
+# Giants and their Mothers
 
 Giants are notorious faeries who prowl the countryside — kidnapping princesses, waylaying travelers, and stealing horses. Unlike other areas of Mythic Europe, where giants are often portrayed as being as stupid as they are strong, Transylvanian giants are more refined. Interchangeably called ogres, giants carry arms and armor similar to knights, build holdings and homesteads, raise and even ride horses. They can be witty and charming, if it is their wish, but many would rather be bashing heads than bandying words.
 
@@ -4881,7 +4881,7 @@ To accommodate the different roles they play, many Transylvanian giants can chan
 
 
 
-## *Georghe and Ladislau, a Pair of Giant Brothers*
+## Georghe and Ladislau, a Pair of Giant Brothers
 
 Neighbors to their mother, Georghe and Ladislau have built adjacent homesteads that share a common border. Over the years, each has tried to push the fence that separates the two homesteads onto the other's land, hoping that the other brother won't notice. When he invariably does, the two come to blows. Because they are evenly matched, these quarrels can last for hours with neither gaining the upper hand.
 
@@ -4921,7 +4921,7 @@ tack +14, Defense +4, Damage +16
 
 The brothers' farms are adjacent to a road. When the pair battle, they inevitably fight in the road, especially if one notices an approaching traveler. The battle will obstruct travel, and after a few minutes of traded blows, one of the giants asks the traveler to intervene, either to settle the disagreement between them or to pick up arms against the requestor's brother.
 
-## *Nicoleta, a Giant's Mother*
+## Nicoleta, a Giant's Mother
 
 Nicoleta exists as a shadowy figure living deep within the forest, known by the local populace but routinely avoided. She goads her son into action, prompting him to inflict whatever evils he can on his human neighbors. Because of her horrendous wrath, people prefer to suffer her son's sporadic intrusions instead of permanently removing him and angering her. While the giant's behavior might be bad, his mother's will undoubtedly be worse.
 
@@ -4970,17 +4970,17 @@ Nicoleta lives on her horse farm, hidden in a remote valley of the Madara Platea
 
 seconds before combat. Changing shape is as common as changing size, and many giants have powers that turn them into other things. Some giants can shapechange into pear trees, others into brooks, and others into poisonous flowers. While inconspicuous, such changes are dangerous for the giant, who can be hurt when in a different form.
 
-## *Giants' Mothers*
+## Giants' Mothers
 
 While giants are individuals, each has one thing in common besides his immense size: a mother. A giant's mother is always a sorceress, and invariably smarter than her son. She selects the home, manages the household and the herd of horses, guides her son's decisions, and wrathfully pursues those who best him. While a faerie giant can exist within his role perfectly well without a mother, a faerie giant mother is often more reliant on a son to manage, cajole, and verbally abuse. Though she doesn't draw vitality from the giant son, the faerie gives her role significant meaning. If she loses her son, she searches for another, becoming either listless and withdrawn, or irritable and violent, until she adopts a new one.
 
 Another strikingly odd commonality in giants is hair growing inside the mouth, often under the tongue but sometimes also inside the cheeks. The strange physical deformity is hereditary, and those with giant blood also have hair growing under the tongue. The hair does not impair the giantblooded speaker's speech and can be hard to notice in conversation.
 
-## *Faerie Horses*
+## Faerie Horses
 
 A faerie horse exists to serve a hero as a mount, martial companion, and sage advisor. It also knows that it must spend a period of time imprisoned on a giant's mother's ranch, kept filthy and underfed so as to disguise its faerie nature. The typical story of a faerie horse is to be discovered and saved from a horse farm, serve a hero with advice and as a means of transportation, and finally leave the hero moments before his final victory, so that the hero can achieve his goal on his own. An alternative version of this story finds the fa-
 
-## *Costache, a Captive Giant*
+## Costache, a Captive Giant
 
 Another common giant is the one trapped in a king's palace, locked away in a room that guests are forbidden to enter, and contained in a spike-lined wooden barrel bound with three iron chains. Easy to initially capture, Costache is difficult to keep. He has a magical power that makes residents of the palace curious, and he thrives on the anxiety and wonder produced by those who know they are investigating where they shouldn't.
 
@@ -5014,7 +5014,7 @@ Another common giant is the one trapped in a king's palace, locked away in a roo
 
 **Vis:** 4 pawns of Mentem vis in his tongue **Appearance:** Costache looks like a large, captive prince or nobleman, with tattered robes, tussled hair, and dirty skin. His eyes nearly sparkle with treachery and malevolence. A few moments after being freed, Costache's clothes regain a like-new appearance, and he suddenly becomes well-groomed and clean.
 
-## *Fet-Frumos, a Faerie Horse*
+## Fet-Frumos, a Faerie Horse
 
 **Faerie Might:** 10 (Auram)
 
@@ -5055,13 +5055,13 @@ erie horse imprisoned as a giant's mount, but still waiting to be saved by the h
 
 A faerie horse tends to be one of the more cognizant faeries living in the Tribunal, and most are fully aware of the role they play in human interactions and their means of gaining vitality. His awareness of his role and the ways it interplays with other faeries, especially giants and their mothers, allows the faerie horse a degree of foresight that mundane characters may interpret as divination. He cannot see into the future, but because he is more cognizant than other participating faeries, he knows that a giant will try to steal a maiden and, once thwarted, his mother will attack the maiden's castle. The faerie horse only has this insight when involved with other faeries; he will have no idea or helpful information if an Infernal dragon attacks the castle.
 
-# *Vampires*
+# Vampires
 
 All the lands of the Transylvanian Tribunal are infested with vampires. Every district has been affected by vampires at some time, and most people know of someone who has been the victim of a vampire. The vampire seems to be a Slavic phenomenon, although stories have permeated westwards into the Rhine Tribunal, and southwards into the Theban Tribunal.
 
 Other creatures may drain the life from the living, but a vampire specifically takes the form of a known deceased individual within or just outside a particular community. Contrary to Slavic belief (see insert), a vampire is not normally the spirit of the deceased giving horrible life to his corpse. Instead, a vam-
 
-## *Story Seed: The Lady and the Vampire*
+## Story Seed: The Lady and the Vampire
 
 A young man and woman fall in love, but because the man is poor, his paramour's parents refuse him permission to marry, and he kills himself in shame. The youth subsequently rises as a vampire, and while the young lady adored the man in life, she is repelled by the vampire. She asks the characters for help and they might seem to slay it quite easily; however, the woman becomes sick as her vitality is drained each night. Simply slaying a vampire with magic or weapons cannot sate a vampire's thirst for vitality; only the correct rites can do that. If efforts to destroy the creature are made, but without the correct rites, only temporary surcease is gained; another faerie will take the form of the corpse and continue its depredations.
 
@@ -5069,7 +5069,7 @@ pire is a form of faerie that derives vitality both from blood and from the fear
 
 Every vampire is unique. While the tales about vampires often give them similar properties and powers — thus the regional variants in vampires discussed later — each one has its own set of rituals for preventing it from forming in the first place, and for laying it to rest for good, and its own set of limitations and vulnerabilities. This has lead to a wealth of conflicting and contradictory information among humans about the best way to thwart and destroy vampires.
 
-## *Becoming a Vampire*
+## Becoming a Vampire
 
 Various superstitions suggest who will become a vampire after death. The most commonly held beliefs are that the following people or circumstances create a vampire: any corpse that an animal jumps over or alights upon; any corpse that has a living person's shadow fall upon it; the victim of any untimely death, including those killed by natural forces, by animals, or by other men; anyone who dies a bloodless death (such as drowning); anyone unbaptized or excommunicated at time of death; anyone who committed a mortal sin in life; anyone born during the Unclean Days (the 12 Days of Christmas); any witch or sorcerer; anyone born with a caul; where there are seven children of the same sex, the seventh child; any child of a vampire.
 
@@ -5077,7 +5077,7 @@ None of these situations actually causes a person to become a vampire *per se*. 
 
 Folklore has a whole host of precautions that are supposed to prevent a vampire attack; these rituals in truth feed the faerie vitality, causing it to become sated and to move on. If the rites are not performed correctly, the vampire instead seeks vitality from the villagers in the form of blood and fear. It takes the form of the corpse during the day (having disposed of the real corpse) and often resides in its coffin, but at night prowls about in a number of different forms. If the vampire is hunted and slain in the correct manner, its need for vitality is satiated, and it moves on, perhaps reforming in a different shape in another district. If the rituals surrounding its destruction are
 
-## *Slavic Belief*
+## Slavic Belief
 
 The Slavic pagan belief is that the spirit is quite distinct from the body, and is free to leave even during life. Issuing forth from a sleeping person, the spirit takes the shape of a bird, butterfly, snake, mouse, point of light, or may enter a tree. Such a spirit is called a *zduhacz* or a *sjenovik* (shadow). The spirit of any domesticated animal might become zduhacz. A witch
 
@@ -5112,9 +5112,9 @@ The living often take precautions to prevent a recent corpse becoming a vampire.
 - Drive an aspen or hawthorn stake through the navel, the heart, and/or the behind.
 - Pile stones on the grave.
 
-## *Against the Dark*
+## Against the Dark
 
-## *The Vampire Life Cycle*
+## The Vampire Life Cycle
 
 A common motif among the vampires in the Transylvanian Tribunal is that they go through a series of phases in their existence. Each of these phases has different characteristics, but each one retains the essential vampiric feature of feeding on the vitality of others to their detriment. Immediately after death, a vampire takes an invisible, ghostlike form (the zduhacz) and haunts the family of the deceased. After seven days (or forty), the vampire takes on a physical but shapeless form called a *gadja*.
 
@@ -5122,14 +5122,14 @@ If it survives 40 days as a gadja, then it takes on the human form of the deceas
 
 This vampire (a *kukudhi*) masquerades as a human, taking up a trade, and settling down with a family, all the time making nocturnal forays for human blood. These vampires have lost the traditional vulnerability to daylight, although they are hurt by direct sunlight and tend to stay inside during the day. Any children arising from an old vampire such as this become *dhampirs* (see Chapter 9, Hedge Traditions). Vampires are most active between St Andrew's Eve (November 30th) and St George's Eve (April 23rd); and this is when most dhampirs are sired.
 
-## *Creating a Vampire Character*
+## Creating a Vampire Character
 
 Vampires are intended as storyguide characters. There is no sympathy for the vampire in Mythic Europe. They are ravening beasts, driven to cause illness and death by their very nature, and this single-mindedness makes them inappropriate as player characters. Players wanting a character who is damned by a dark fate should probably look elsewhere. This being said, there is some small scope for an unusual character in the form of a kukudhi vampire (see The Vampire Life Cycle, earlier). Such vampires can become sufficiently selfaware that they might make suitable player
 
 
 
 
-## *Powers for Vampires*
+## Powers for Vampires
 
 This insert describes some powers commonly possessed by vampires. They commonly cause disease and weakness, or call down natural disasters on a region. Many of these powers may also be designed to affect livestock.
 
@@ -5224,11 +5224,11 @@ For each vampire, pick a method of dispatch that results in permanent death:
 - Decapitate the body.
 - Drive a hawthorn (or aspen) stake through the navel (or heart).
 
-## *Vampire Bestiary*
+## Vampire Bestiary
 
 The following section describes character templates for various vampires, built with
 
-## *Magi as Vampire Slayers*
+## Magi as Vampire Slayers
 
 Vampires are attracted to the psychic wounds of a community that has suffered some trauma, and destroying them is not a simple task of just destroying the faerie. Even if a magus extracts the vis from the corpse (killing it permanently), another vampire is attracted by the community's wound and takes up where the other left off. The rituals associated with slaying a vampire heal the wound correctly and sate the vampire with vitality, driving it off once and for all.
 
@@ -5240,7 +5240,7 @@ The human-like vampire is the most common variety in the region. It takes the fo
 
 The humanoid vampire is known by a number of different terms throughout the different people of the Balkans: *platenik* or *ubour* among Bulgarians; *drakus* among the Thracians of the Rhodopes; *moroi* by the Vlachs (pl. *moroii*; fem. sing. *moroaica*; fem. pl. *moroaice*); *oiocoi* by the Transylvanians; *lampir* among Bosnians; and *upir* among the Ruthenian people.
 
-## *Powers for Vampires (cont'd)*
+## Powers for Vampires (cont'd)
 
 #### **Focus Powers**
 
@@ -5307,7 +5307,7 @@ This power allows the character to perform minor supernatural feats when using i
 (Base 10, +2 Sun, +1 constant)
 
 
-## *Human-like Vampire*
+## Human-like Vampire
 
 **Faerie Might:** 15 (Corpus)
 
@@ -5357,7 +5357,7 @@ These vampires are a stage in the lifecycle of the human-shaped vampires (see Th
 
 Vampires are not always human. Venomous snakes are the animals most likely to become vampires. Stallions, lambs, and
 
-## *Bestial Vampire*
+## Bestial Vampire
 
 **Faerie Might:** 20 (Animal)
 
@@ -5394,7 +5394,7 @@ Like the humanoid vampires, bestial vampires go by a variety of different names.
 Bestial vampires are covered in thick gray fur, and have sharp teeth and claws, and appear wolf-like (or more rarely, bearlike or dragon-like), although walking on two legs. Despite their immense strength, bestial vampires have no bones, and are able to squeeze themselves through the tiniest
 
 
-## *Incorporeal Vampire*
+## Incorporeal Vampire
 
 **Faerie Might:** 5 (Ignem)
 
@@ -5436,7 +5436,7 @@ not actually avoid physical attacks
 
 This vampire has 7 points of Virtues and Flaws.
 
-## *Gadja*
+## Gadja
 
 **Faerie Might:** 10 (Corpus)
 
@@ -5470,7 +5470,7 @@ This vampire has 7 points of Virtues and Flaws.
 
 The gadja has 4 points of Virtues and 7 points of Flaws.
 
-## *Vampire Snake*
+## Vampire Snake
 
 **Faerie Might:** 5 (Animal)
 
@@ -5507,7 +5507,7 @@ Damage –5
 The vampire snake has 3 points of Virtues and 3 points of Flaws.
 
 
-## *Vampire Tree*
+## Vampire Tree
 
 **Faerie Might:** 10 (Herbam)
 
@@ -5560,7 +5560,7 @@ Not all vampires are faeries. Sometimes, a demon consumes a corpse, and takes th
 With its ability to blend into society without fear of detection, the broukolak often sets up trade in a nearby village where it will not be recognized. They are fearsome predators, first eating the flesh and drinking the blood of the deceased's relatives, then ranging further abroad. An area with a broukolak suffers a general decline in health and vitality as it feeds at night on both livestock and on men.
 
 
-## *Broukolak*
+## Broukolak
 
 **Order:** Vessel of Iniquity **Infernal Might:** 20 (Corpus)
 
@@ -5616,7 +5616,7 @@ The strigoi viu or vjestitza is a witch who leaves her body at night and takes t
 
 These characters are Nightwalkers (*Hedge Magic Revised Edition*, Chapter 6), but they may have other powers. Malicious stri-
 
-## *Thief's Valerian*
+## Thief's Valerian
 
 There is a weed which grows in Faerie-touched areas of Transylvania, that has heart-shaped yellow leaves that look flecked with blood. Also called *jarbe cherului* ("key flower") or irongrass, this strange plant undoes any mundane lock, lifts any mundane bar, and shifts any mundane bolt. To command the Thief's Valerian, it must be collected at daybreak on all fours; thieves say it sprouts where rainbows touch the earth. The character must cut the ball of his palm, and plant a sprig of the weed into the cut, where it will thrive and grow on his blood. Mundane courts in the Tribunal know the powers of ironweed, and cut the sprigs out if they find them in the hands of criminals.
 
@@ -5633,7 +5633,7 @@ If implanted in a person's hand, Thief's Valerian can open locks, lift door bars
 (Base 4, +1 Touch, +1 Part, +1 requisite; +3 6/day)
 
 
-## *Story Seed: House Bjornaer as the Enemy*
+## Story Seed: House Bjornaer as the Enemy
 
 House Bjornaer are resolutely opposed to shapeshifters (see Chapter 1 of *Houses of Hermes: Mystery Cults*), particularly those who are organized into cults or brotherhoods. They are intolerant of varcolaci, whose brotherhoods strongly resemble the Infernal cult that they hate and fear. They may even be hostile to the shapeshifting kings of the Transylvanian Tribunal, although this enmity may be mollified if the Divine provenance of this power is demonstrated.
 
@@ -5653,11 +5653,11 @@ A varcolac character has either the Shapeshifter Virtue if he was born a werewol
 
 Most tales of werewolves center on rural villages and remote outposts of civilization, but not every werewolf is a living vampire stalking his fellow villagers. Some stories relate that kings have the power to turn into wolves and other creatures, a living example of God's promise that man should have dominance over the beasts of the wood and field. In Mythic Europe, kings crowned by the religious representatives of both the Roman and Greek Church receive a Magic Resistance of 10 (*Realms of Power: The Divine*, page 43). If that king is of Slavic, Magyar, or Vlach blood, he also receives the free Supernatural Major Virtue: Shapeshifter. The allowable forms for this Virtue are wolf, lion, and dragon; the Divine origin of this power permits the dragon shape despite the usual restrictions on the Shapeshifter Ability. Stefan II of Serbia has this power and can change into a dragon when he so desires.
 
-# *Vilas (White Ladies)*
+# Vilas (White Ladies)
 
 Most of the communities in this Tribunal tell stories of beautiful faerie women, dressed in pale clothes, or naked. These faeries all have similar names, but play different roles
 
-## *Generic Minor Vila*
+## Generic Minor Vila
 
 This weak vila is suitable for stories with grogs, or other characters lacking magical powers or Resistance. She is suitable as a player character, but will be more useful in most covenants if given additional powers and a larger Might pool to support them. Any added Virtues need to be balanced with Flaws.
 
@@ -5687,7 +5687,7 @@ As an antagonist, augment these statistics using the suggestions for customizati
 
 in each community. Storyguides designing vilas should use the statistics for a generic faerie woman, and then tailor them to the role that the particular vila plays. Vampiric vilas should be created using the suggestions in the Vampire section.
 
-## *Wards*
+## Wards
 
 Vilas often have a Sovereign Ward Flaw for a strand of their own hair. Vilas encountering a character with a strand of their hair revert to their basic form (which is sometimes human, and sometimes animal) and cannot cause that human harm, whether with their powers or through indirect means.
 
@@ -5695,7 +5695,7 @@ The hair of a vila is often a Minor External Vis source. (*Realms of Power: Faer
 
 Traditional Wards for vilas include food, special cakes, and ribbons, These offerings can be left near a particular house to protect it, or placed just outside the homes of vilas, to protect communities. These offerings are made at the verges of woodlands, the edges of roads, the banks of rivers, and the mouths of wells.
 
-## *Powers Found In Many Roles*
+## Powers Found In Many Roles
 
 Five powers seem to be common among vilas, regardless of the role they are currently playing.
 
@@ -5705,7 +5705,7 @@ Many vilas can take animal shape, or are faerie animals that take human shape. M
 
 Personal shapeshifting powers include:
 
-## *Against the Dark*
+## Against the Dark
 
 *Transform into Animal*: 2 points, Init –2, Animal: Transforms the character into a specified land animal of human size or smaller for Sun duration
 
@@ -5760,7 +5760,7 @@ Many vilas draw humans into the Faerie realms.
 
 *Spirit Away*: Variable. This is the power that allows faeries to assist the passage of mortals to their Realm. It is discussed at length in Chapter 2 of *Realms of Power: Faerie.* Troupes not using these rules should just assume the attempt succeeds when it suits the story.
 
-## *Role-Specific Powers*
+## Role-Specific Powers
 
 Vilas for specific story roles can be created with the following modifications. If the vila is a player character, added Virtues must be balanced with Flaws. Points for added Pretenses can be gained by selecting the Ostentatious Major Virtue or Pretentious Minor Virtue. The first adds 10 times the average age of the PC magi points to the character's pool of pretense points. The second adds 5 times the average age of the PC magi points.
 
@@ -5836,7 +5836,7 @@ Vilas as maidens of the woods seem similar to the nymphs of other areas of Mythi
 
 level 25 or less in the area of its glamor. *Transform Victim Into (animal)*: 3 points, Init –3,
 
-## *Against the Dark*
+## Against the Dark
 
 Animal: Turns a character who can hear the voice of the vila into a specified animal for Sun duration.
 
@@ -5848,7 +5848,7 @@ Vilas are also sometimes confused with folk witches. Those performing this role 
 
 *Healing* (Focus power): by Magnitude, Init – (Qik – 5): Allows the faerie to simulate
 
-## *Ecology of Transylvanian Faeries*
+## Ecology of Transylvanian Faeries
 
 **Giants have daughters who are vilas.**
 
@@ -5859,9 +5859,9 @@ Vilas are also sometimes confused with folk witches. Those performing this role 
 any Hermetic healing spell up to level 25. *Prophecy*: Faeries can't really see the future. Some have Virtues which allow them to pretend to, while others use a mixture of obfuscation and spying to pass themselves off as oracles. Some vilas with this power need to keep their eyes propped open with iron bars weighing 300 pounds.
 
 
-## *Chapter Nine*
+## Chapter Nine
 
-# *Hedge Traditions*
+# Hedge Traditions
 
 Transylvania, a land of mixed cultures, has representatives of hedge traditions from many parts of Mythic Europe. This chapter focuses on two traditions not found elsewhere: storm wizards and monster hunters. Players desiring hedge wizard character from any other supplement may find local representatives of nearly any group. The local law, which forbids trying practitioners for witchcraft, has also attracted settlers from many lesser magical traditions.
 
@@ -5873,11 +5873,11 @@ However, a few of these dismal, unwanted children have The Gift. Their cries do 
 
 Such is the manner in which the Transylvanian hedge tradition of storm wizards both finds and opens The Gift of its new apprentices. The Transylvanian storm wizards are an old but lonely Gifted tradition. Almost exclusively male, these bearded giants make their solitary homes in caves well above the snowline.
 
-## *Storm Wizards and the Order*
+## Storm Wizards and the Order
 
 Most magi know little about storm wizards, apart from the fact that they summon and manipulate storms, and that there are supposed to be fewer than half a dozen storm wizards haunting Transylvania. Many common folk believe that all storms are called by storm wizards, but magi can plainly see that only a small fraction of the storms which wrack Transylvania have magical origins. Of course, as the storms created by storm wizards actually appear to
 
-## *Thietmar*
+## Thietmar
 
 **Characteristics:** Int 0, Per +1, Pre 0, Com 0, Str +3, Sta +3, Dex 0, Qik 0
 
@@ -5909,13 +5909,13 @@ Most magi know little about storm wizards, apart from the fact that they summon 
 
 **Appearance:** The storm wizard Thietmar is a tall, shy man. He hides his face deep within a wild, unkempt beard, and he dresses in fetid, poorly cured, ice-jeweled furs and hides. He has an uneasy relationship built on mutual fear and distrust with the villagers scattered about the foot of the mountain. Thietmar and the villagers have arrived at a complex routine of caches and paths, whereby they leave "gifts" of food for him, and he moves storms away from their settlements, all without needing to meet.
 
-## *Story Seed: The Largest Prey*
+## Story Seed: The Largest Prey
 
 While traveling in the mountains, an unexpected storm falls upon the magi and their grogs. As the group shivers together through the cold night, a flash of lightning illuminates the figure of a man. At first, the grogs are startled as the man seemed very close, but a further lightning strike reveals that he is, in fact, a distant giant. Subsequent flashes of lightning show that he seems to be actually pursued by the lightning; several spears of jagged light even hit the giant as they watch him.
 
 The party has stumbled upon a storm wizard initiation. Do they interfere in the ritual and save the giant? Might they decide to help the storm wizard? Depending on the outcome, either the giant or the storm wizard may become an ally (or enemy) of the covenant.
 
-## *Heart of the Storm Initiation*
+## Heart of the Storm Initiation
 
 The storm wizard initiate gains Giant Blood Major Virtue.
 
@@ -5933,7 +5933,7 @@ Several storm wizards did, in fact, join the Order of Hermes (as members of Hous
 
 Quite what the storm wizards' goals are (if any) is a mystery.
 
-## *Storm Wizards and Giants*
+## Storm Wizards and Giants
 
 Storm wizards all have the Supernatural Virtue Giant Blood (see **ArM5**, page 43). If you are making a storm wizard character, this Virtue is free. Storm wizards do not gain this Virtue by being literally descended from giants. Instead, at the end of their apprenticeship, storm wizards undergo a mystery initiation in which they must slay a true giant and eat his heart. Tracking down a giant and acquiring a suitable Arcane Connection to him (to aid Penetration) can take the young storm wizard several seasons.
 
@@ -5941,7 +5941,7 @@ Undergoing this ritual marks a true storm wizard and gains him the Giant Blood V
 
 
 
-## *Storm Wizard Magic*
+## Storm Wizard Magic
 
 Storm wizards are exclusively Gifted, and their powers are derived from the Magic realm. Their magic consists of three favored Supernatural Abilities: Storm Calling, Storm Riding, and Storm Fighting. Storm wizards also have an Arcane Ability, Organization Lore: Storm Wizards, and access to a new seasonal activity called ice harvesting.
 
@@ -5957,7 +5957,7 @@ To move a storm, make a Storm Calling roll against an Ease Factor that depends o
 
 A storm wizard may move any storm, regardless of whom (if anyone) created it. If two (or more) storm wizards wish to move the same storm, then the storm moves according to the direction of whomever rolls the greatest Storm Calling roll (which also
 
-## *Storm Wizard Magic Game Mechanics*
+## Storm Wizard Magic Game Mechanics
 
 #### **Penetration with Storm Wizard Powers**
 
@@ -6013,7 +6013,7 @@ The Ease Factor for Storm Riding depends on what the storm wizard wants to achie
 
 **Ease Factor 15:** The storm wizard may cause another character to travel instantly to any point in the storm. The storm wizard must be touching the target char-
 
-## *Storm Calling Ease Factors*
+## Storm Calling Ease Factors
 
 The Base Ease Factor for creating and moving a storm is 0. The storm creation Ease Factor is modified by both the Duration and Size of the storm. The storm moving Ease Factor is modified by only the Size of the storm.
 
@@ -6090,7 +6090,7 @@ The character is a storm wizard.
 
 This Arcane Ability is an Organization Lore that concerns the magic, personalities, and special locations (such as magical ice sites) of the storm wizard tradition. It is also used in ice harvesting and storm wizard initiations. **Specialties:**  ice harvesting, initiations, history, locations, personalities.
 
-## *Story Seed: The Ice Cave*
+## Story Seed: The Ice Cave
 
 The player characters stumble upon a cave high in the mountains. The icy surfaces of the cave are carved with strange runes and depictions of hazy figures striding over stormy mountains. There is a strong magic aura in the cave, and the walls of the cave are imbued with a number of pawns of Auram vis, which the magi could extract using spells similar to *Gather the Essence of the Beast*.
 
@@ -6109,11 +6109,11 @@ Storm wizards require special magical ice that does not melt in order to use the
 
 **"Ice" Harvesting: (Intelligence + Organization Lore: Storm Wizard + Magic Aura) / 3 (round up) pawns of Auram vis per season**
 
-# *Vampire Hunters*
+# Vampire Hunters
 
 Vampire hunters are almost as common as vampires in the Mythic Balkans and Romania. They are a special class of human: touched in some way to make them particularly effective against the blood-drinking creatures that terrorize peasants at night. What is less well-known is that their magic can be turned against all supernatural creatures, not just vampires. Traditionally there are two ways in which one can become a hunter: through particular circumstances surrounding one's birth, and through having a vampire as a parent. However, in recent years, a third type of vampire hunter has come into existence: the Hermeticallytrained hunter or *fector* (see the Laniena section in Chapter 3: Hungary).
 
-## *An Inauspicious Birth*
+## An Inauspicious Birth
 
 The circumstances around a character's birth can make him particularly suited to slaying vampires and other supernatural creatures. Throughout the Balkans, there are a number of unlucky circumstances and taboos regarding one's birth — both when and how it occurs. An individual who breaks one of these taboos, through no fault of his own, is set apart from society, and occupies a liminal role in his community. This makes him the target of much supernatural activity, but also gives him a greater capacity to combat it.
 
@@ -6131,7 +6131,7 @@ Not all sabotnici become vampire hunters, but all benefit from the protective ef
 
 The *glog* (pl. *glogove*) is a character who is born feet first, or with teeth or red hair. The glog is named after the black hawthorn, which is also called glog, a potent defense against vampires. Unlike the sabotnik, who are usually skilled at finding vampires, the glog's special skill usually revolves around protecting people from vampires, or occasionally destroying them. Glogove usually craft weapons such as staves or swords from the wood of the black hawthorn, although these are mainly used defensively rather than
 
-## *Against the Dark*
+## Against the Dark
 
 offensively. Glogove are often aggressive and argumentative; they are known to have a fearful temper, which often gets them into trouble in the community. It is also common for them to excel in physical pursuits.
 
@@ -6141,7 +6141,7 @@ The taltós is a Hungarian magician born with special powers to fight off evil c
 
 The *kresnik* is similar to the taltós, but is found in the Balkans, particularly in Serbia and Slovenia. Kresnici are specifically opposed to a group of sorcerers and vampires called the kudlaci. A kresnik is born with a clear or white caul and has powers to promote fertility, whereas a kudlak is born with a red or black caul, and works to kill livestock and sap the vitality from crops. When a kudlak dies, he becomes a type of vampire (see the Vampires section of Chapter 8: Creatures).
 
-## *Zuban, a Four-Eyed Dog*
+## Zuban, a Four-Eyed Dog
 
 **Magic Might:** 5 (Animal)
 
@@ -6185,14 +6185,14 @@ Awareness 3 (keeping watch), Brawl 3 (bite), Hunt 3 (track by scent), Leadership
 
 Zuban is suitable as a Magical Animal Companion, or perhaps as a grog character. In the latter case, his Cunning should be made into Intelligence.
 
-## *Black Hawthorn*
+## Black Hawthorn
 
 Black hawthorn is a slow-growing wood that twists as it grows, and has little use in carpentry since it can't be made into planks. It has these Shape and Material Bonuses:
 
 **Shape and Material Bonuses** Protection from vampires +7 Protection from evil +4 Prevent disease +4
 
 
-## *The Taltós Legacy*
+## The Taltós Legacy
 
 Over 1000 years ago, a powerful tradition of hedge wizards walked the Balkans. They were called the *taltós*, and they possessed many varied powers, from shapeshifting to spiritwalking, from potion making to vampire slaying. The taltós were the wise men of the Hun tribes.
 
@@ -6200,7 +6200,7 @@ However, the taltós were a fractious and argumentative people, a personality th
 
 The powers of the taltós and the kresnik are fully described in the Nightwalker chapter of *Hedge Magic Revised Edition*.
 
-## *A Dark Parentage*
+## A Dark Parentage
 
 Many vampires make their former family home their first stop after rising from their graves. If the deceased's widow still lives there, the vampire seeks her out and impregnates her with a child. This posthumous child grows up to be a powerful vampire-hunter.
 
@@ -6218,17 +6218,17 @@ Unlike the dhampir, the vampirdzhi usually becomes a hunter out of necessity, an
 
 Like dhampiri, the vampirdzhia are liable to rise as vampires after death, unless appropriate precautions are taken. Untrained vampirdzhia may be unaware of this, and a village may have a perpetual vampire problem, thanks to the propagation of the curse through family lines.
 
-# *Hunters' Arts*
+# Hunters' Arts
 
 The Hunters' Arts are the remnants of a shattered hedge tradition of magic. For nearly 1000 years, these Arts have not been passed on as a coherent whole, but instead as fragmentary knowledge deriving from the taltós of old. There are three Practices that are akin to Hermetic Techniques: Scry, Ban, and Slay. Each of the Practices is coupled with a Foe Art that is analogous to a Hermetic Form, although much smaller in scope than a Form. Practice Arts are bought as Major Supernatural Virtues, whereas Foe Arts are Minor Supernatural Virtues, but a character buying his first Practice Art as a Virtue gets one free Foe Art at no additional Virtue point cost. A character taking more than one Practice Art does not gain additional Foe Arts. Experience points in the Hunters' Arts can be gained from Exposure, Adventures, Practice, Teaching, and Books (**ArM5**, Chapter 10). However, there are very few texts on the Hunters' Arts, and most have been written by Hermetic practitioners (see the Laniena section in Chapter 3 on Hungary).
 
 Most hunters are entirely unaware of the existence of the Foe Arts, and never gain experience in them, due to the splintered nature of their magical tradition. They are therefore unable to apply the Practice Arts to any other type of supernatural creature other than the Foe that comes free with the first Practice Art, which is most often the Vampire Foe.
 
-## *New Virtues*
+## New Virtues
 
 These new virtues are designed for vampire hunter characters.
 
-## *The Hunters' Arts and Mortal Foes*
+## The Hunters' Arts and Mortal Foes
 
 The Hunters' Arts are most effective against supernatural creatures, but they can also affect applicable humans and creatures who are aligned to a Supernatural Realm — that is, have one or
 
@@ -6256,7 +6256,7 @@ There are many different variants of this Virtue, each one specific to a particu
 Choosing this Virtue gives the character the Scry Art with an initial score of 0. Scry is a Difficult Art, meaning that it is treated as any other Art except that it uses the Ability
 
 
-## *Connections to a Foe*
+## Connections to a Foe
 
 Some Arcane and Sympathetic Connections are commonly used in the Hunters' Arts are given here, in addition to those in **ArM5**, page 84.
 
@@ -6282,7 +6282,7 @@ Some Arcane and Sympathetic Connections are commonly used in the Hunters' Arts a
 - \*\* Includes a dhampir himself.
 
 
-## *Penetration and the Hunters' Arts*
+## Penetration and the Hunters' Arts
 
 Most of the Hunters' Arts need to Penetrate Magic Resistance to have an effect; where they do not, this is noted. The Penetration Total is calculated in the same way for all Arts:
 
@@ -6304,11 +6304,11 @@ Choosing this Virtue gives the character the Slay Art with an initial score of 0
 
 Choosing this Virtue gives the character the Ban Art with an initial score of 0. Ban is a Difficult Art, meaning that it is treated as any other Art except that it uses the Ability Advancement Table rather than the Art Advancement Table. The Ban Art must be combined with at least one (Foe) Art to be used.
 
-## *Hunter Characters*
+## Hunter Characters
 
 Sabotnici and glogove characters should have the Second Sight Virtue, and possibly the Magic Sensitivity Virtue in addition. If they have developed their vampire-hunting abilities, they are most likely to have the
 
-## *Against the Dark*
+## Against the Dark
 
 Scry Art, or, for the glogove, the Ban or Slay Art. A female sabotnik might have the Dream Interpretation Virtue (*Realms of Power: The Divine Revised Edition*, pages 136). A glog typically has experience as a Warrior, skill with a weapon (represented by an Affinity or Puissant Single Weapon), and all too often, the Wrathful or Fury Flaws. Characters born during the Wolf Holiday might be Skinchangers or Lycanthropes, and have the Animal Ken Virtue.
 
@@ -6318,7 +6318,7 @@ Dhampir and vampirdzhi characters should take the Dhampir Virtue (see earlier) t
 
 All hunter characters can benefit from knowing Arcane Abilities, particularly Faerie Lore, for the best ways of warding against and killing the most common types of foes, and Penetration; the Virtues Wise One or Arcane Lore are therefore useful. Hunters do not require The Gift, but a Gifted hunter can be more potent than an unGifted one (see the Laniena section of Chapter 3: Hungary).
 
-## *Scry*
+## Scry
 
 The Scry Art allows a character to track a creature for which she has an applicable Foe Art by forming a mystical connection with it.
 
@@ -6374,7 +6374,7 @@ A foe that is aware that a scryer has made a connection to it can sometimes expl
 
 Once the foe is aware of its tracker, it can employ any power or spell that has a Range of Eye, Sight, or Arcane on the scryer whenever she attempts a roll to sense the foe. The foe must be waiting for the scryer to make contact, and it must be active and capable of spending Might (so some types of vampires cannot do this during the day) or using the power. The foe is assumed to have an Arcane Connection to the scryer with a multiplier of +2, and can exploit any sympathetic connection provided by the Scry effect. Scryers are usually very careful about over-using their powers against a powerful foe.
 
-## *Ban*
+## Ban
 
 The Ban Art allows a character to protect himself or others against the physical or supernatural powers of a foe through the creation of warding amulets.
 
@@ -6447,7 +6447,7 @@ A Weakening Ban must Penetrate the foe's (Vim) Magic Resistance to have an effec
 
 A foe finding itself within the warded area has its Might Score reduced by a number of points determined by the power of the Ban; if its Might pool is now higher than its Might Score, it loses Might points equal to the difference. This suppression of Might Score affects Magic Resistance, Penetration, ability to cross wards, and any other effect that targets Might Score. However, the suppression in Might Score is temporary; if the foe leaves the warded area, its Might Score returns to its former value, but any Might points lost do not come back. The ban does not impede the movement of the foe. A foe is not dissipated or killed if its Might Score is suppressed to zero or below; this simply means that it can no longer use any of its supernatural powers, and has a zero Magic Resistance while within the warded area.
 
-## *Slay*
+## Slay
 
 The Slay Art allows a character to craft a magical weapon designed to kill a specific foe designated by one of his applicable Foe Arts. When correctly prepared, this weapon can fell an opponent in a single blow.
 
@@ -6476,7 +6476,7 @@ When the weapon is used against its designated foe, it must strike the foe to ha
 
 Once a slayer's weapon has been successfully used against a foe, it loses all magi-
 
-## *Relevant Facts About Foes*
+## Relevant Facts About Foes
 
 Some examples of what constitutes relevant facts include:
 
@@ -6490,7 +6490,7 @@ Some examples of what constitutes relevant facts include:
 - Why a man became a vampire.
 - Date and place of birth or death.
 
-## *Tibor of Borša*
+## Tibor of Borša
 
 **Characteristics:** Int +1, Per 0, Pre 0, Com –2, Str +2, Sta +2, Dex +2, Qik 0
 
@@ -6544,11 +6544,11 @@ Hunters also have a role working in concert with Hermetic magi. The Ban Art is p
 
 the weapon also loses its magic. An expired weapon made with the Slay Art is magically inert. While it can still be used as a normal weapon of its kind, it cannot henceforth be used again for the Slay Art, or in fact, be enchanted using any other magical procedure.
 
-# *Hunting Vampires*
+# Hunting Vampires
 
 While other applications of the hunters' Arts are known, the majority of hunters in the Transylvanian Tribunal turn their powers toward the destruction of vampires
 
-## *Preventing Vampires*
+## Preventing Vampires
 
 If a person is suspected of being liable to becoming a vampire, then precautions may be taken to prevent this. Broadly speaking, precautions fall into two categories: those performed on the corpse, and those on the place of death of the deceased.
 
@@ -6560,7 +6560,7 @@ The efficacy of these measures varies, according to the type of vampire that is 
 
 A list of preventative measures against vampires can be found in Chapter 8: Creatures.
 
-## *Killing Vampires*
+## Killing Vampires
 
 If precautionary measures are not used, or the wrong ones are used, then a vampire may rise to stalk the area. Each vampire has a very precise manner in which it can be killed; if mistakes are made, then the vampire can reform and continue its predation on the region. As a consequence, the slaying of the vampire is often left to the professionals.
 
@@ -6578,17 +6578,17 @@ Once the grave site has been warded, and the body exhumed, the vampire must be d
 Examples of appropriate methods to ward and dispatch a vampire can be found in the Creatures chapter.
 
 
-## *Chapter Ten*
+## Chapter Ten
 
-# *Horror Stories*
+# Horror Stories
 
 Transylvania, surrounded by dark forests and perilous mountains, haunted by vampires and ghouls, is a wonderful setting in which your troupe can tell horror stories. The following advice is intended to give your troupe some suggestions on how to construct an **Ars Magica Fifth Edition** horror story. It is unlikely that you will want to use all of this advice in a single story, and, of course, your troupe may have better ideas for the sorts of stories that you want to tell. Please think of this advice as merely a prompt to help you think of your own stories.
 
-# *Horror Plots*
+# Horror Plots
 
 These are some examples of horror story plots and themes. Of course, there's no need for your horror story to precisely follow one of these archetypes, and there is some overlap between these examples. Combining elements from different plots may help you to construct an innovative narrative.
 
-## *Savant versus Monster*
+## Savant versus Monster
 
 In this plot, the monster can only be defeated by the savant, who often goes out of his way to find the monster. The savant is commonly a character with specialist knowledge or skills —perhaps a magus, or a vampire hunter — but he may be privileged due to a mere accident of birth (Death Prophecy or Faerie Blood, for example). In addition to the savant and monster characters, this plot often has a number of witness characters. Usually, many of the witness characters are killed or terrorized by the monster prior to the final battle between monster and savant.
 
@@ -6602,15 +6602,15 @@ Ambiguity over which character is truly the monster and which is truly the savan
 
 An interesting reversal of this plot is the nemesis, who is a monster, motivated by revenge, justice, curse, or prophecy, who tries to hunt down and slay the savant. Nemesis stories are often dominated by the psychoses of a disturbed savant — the actual monster is almost an incidental detail.
 
-## *The Psychopath or Bogeyman*
+## The Psychopath or Bogeyman
 
 In this plot, the monster has no real discernible motivation, except possibly to eat his victims. The monster just exists to kill and kill again. A psychopath may not even be particularly good at killing, choosing to prey on the weak, such as children, the elderly, or pious monks. What is terrifying is not the psychopath's lethality, but his meaningless, irrational insanity. Faerie creatures make particularly good psychopaths, as do covenfolk driven mad by Warping.
 
-## *The Horde*
+## The Horde
 
 Here, the main characters are overwhelmed by an endless, implacable flood of monsters. Sometimes, individual monsters are relatively easy to kill, but even so, each dead monster is easily replaced by another shuffling corpse or demon. Even the Mongol invasion could function in this capacity, the Asian warriors seeming as "other" as monsters to the Transylvanians. The main characters have no hope of triumphing over the horde. Their best chance is escape, and even that hope is likely forlorn. Faeries and demons (and animated corpses!) make for great opponents in horde stories. Mundane
 
-## *Sources*
+## Sources
 
 Films, books, and other media are good sources of inspiration for horror stories. For example, some of the archetypical plots discussed here are based on film criticism by K. Newman's *Nightmare* 
 
@@ -6621,11 +6621,11 @@ hordes are possible, too. For example, a few lost grogs terrorized by a large ga
 
 story is likely to involve kidnapping and assassination attempts, but may contain direct supernatural enemies, too.
 
-## *The Idiots*
+## The Idiots
 
 The main characters behave like idiots — they separate into small groups, break mystical wards, and trust strangers, which helps the monster to eliminate them oneby-one. Obviously, this plot relies upon the whole troupe playing along with the story, which the players may be reluctant to do with long-term characters. A useful device is get around this problem is to have the main saga characters discover a frightful slaughter. The horrific story of the slaughter can then be told by the troupe in flashback (perhaps reported by a summoned ghost) using temporary, disposable characters.
 
-## *Cult Conspiracy*
+## Cult Conspiracy
 
 In this paranoid plot, the main characters are the disposable pawns of a vast shadowy conspiracy. Perhaps the characters have accidentally stumbled upon the conspiracy, and must now be silenced. Alternatively, the characters may be members of the conspiracy who have outlived their usefulness, been deemed traitors, or chosen as sacrifices to the wicked power they serve. This sort of horror
 
@@ -6633,20 +6633,20 @@ In this paranoid plot, the main characters are the disposable pawns of a vast sh
 
 There are a large number of possible conspiracies in the Transylvanian Tribunal, including House Tremere itself. Mystery Cults, House Diedne refugees or revivalists, and infernalists may also be at work, subverting power to their purposes. However, remember that the Order of Hermes is generally quite adept at identifying the source and sigil behind magical attacks, so if the conspiracy includes magi, they will likely be reluctant to engage the main characters directly for fear of identification. Indirect attacks are also be likely to fuel the paranoia of the main characters. Of course, wellprepared cultists may be able to defeat some standard Hermetic investigative techniques, perhaps through the clever use of the *Shroud Magic* effect, and pacts with infernal forces.
 
-## *The Madness of the Frontier*
+## The Madness of the Frontier
 
 Large parts of Transylvania are wilderness. Sparsely populated and hard to survive in, the isolated terrain is enough to drive even the most stalwart characters to a desperate frenzy, and those characters exiled from the
 
 
-## *The Horror of the Human Body*
+## The Horror of the Human Body
 
 Changes to the human body are a common horror theme. An advantage of this theme is that monster characters from such stories can easily be (or become) a long-term player character. Lycanthropy, vampirism, leprosy, warping, Mystery Cult initiation, and possession are all horrific ways that a character's body can change. The changing body of a pregnant woman can also be a source of horror, especially if the pregnancy is the result of rape, and even more so if the father is an alien, supernatural creature. Unnatural changes to a growing child have much the same effect.
 
-## *Nature's Revenge*
+## Nature's Revenge
 
 In this plot, the natural world turns on the characters. Faerie or magical wilderness spirits are good monster characters for this plot. If the covenant makes use of magical servants of this kind, these servants might revolt, turning a magus' home into a horror. Alternatively, the covenant's aura, disturbed by the magi's vis harvest, may birth a magical terror to eliminate the human parasites feeding upon it.
 
-## *History Repeats*
+## History Repeats
 
 Many horror stories have an element of repetition: perhaps the main characters find the remains of the monster's previous victims, or stumble across some kind of cycle for example, every seven years, the monster wipes out a lonely farmhouse. Discovering information about the previous story cycles, perhaps including how the cycle can be broken, may even help the characters to survive. Faerie monsters are very likely to be involved
 
@@ -6654,19 +6654,19 @@ Many horror stories have an element of repetition: perhaps the main characters f
 
 in a periodic ritual like this, as faerie monsters are effectively created by the stories told about previous manifestations. However, a monster from another realm might also (consciously or subconsciously) time his slaughter with a periodic natural phenomenon — for example, planetary conjunctions, or returning comets. Ghost stories frequently involve the repetition of the events and circumstances of the original deaths.
 
-## *Post-modern Horror*
+## Post-modern Horror
 
 In a postmodern horror story, some characters are aware that they are in a horror story, and they believe that, by acting either with or against genre conventions, they can maximize their chances of survival. The characters may be right or wrong about this. In **Ars Magica Fifth Edition**, such a story could be appropriate if some of the characters are cognizant faeries. It could also be appropriate if some of the characters are magi with sophisticated knowledge of faeries, who believe that they are dealing with faerie monsters. (This is, of course, just the sort of double-bluff that demons would attempt to contrive.)
 
-# *Horror Techniques*
+# Horror Techniques
 
 The following techniques may help the storyguide to create memorable horror stories. Not all of these techniques will work with all troupes, so it is a good idea to think about the sensibilities of your players, and concentrate on one or two appropriate techniques.
 
-## *One Time, One Place*
+## One Time, One Place
 
 Many successful horror stories occur in a very limited location (a ruined castle, for example) or over a limited period of time (Walpurgis Night, for example). The point of this is to create a feeling of claustrophobia, isolation, and intensity in the action. It also restricts the options of the characters. Setting the story in a location with fixed boundaries — within a regio, on an island, or where violent weather prevents travel — is a good way to achieve this effect. Of course, if the player characters have access to powerful magic, it may be difficult to restrict their travel options.
 
-## *Vivid Imagery*
+## Vivid Imagery
 
 Try to use *short*, vivid descriptions of characters and locations. For example, compare these two descriptions:
 
@@ -6680,7 +6680,7 @@ One useful strategy to get around both of these problems is to, before the gamin
 
 Note that the idea here is *not* for the storyguide to bore the players while she reads out large blocks of carefully prepared colorful prose. The idea is to have one or two *short*, memorable, evocative images that can be used *repeatedly* for the major characters and locations in the story. These evocative images should just be descriptive phrases, not whole sentences, so that they are easy to work into the story as it develops.
 
-## *Implication*
+## Implication
 
 Many effective horror stories do not explicitly describe the horrific events of the story. Instead, either the aftermath or the careful foreshadowing of events are presented, with only brief glimpses of the horror itself. In this case, the audience has to fill in the implied details from their own imagination, without the clumsy, clichéd mediation of the author.
 
@@ -6693,23 +6693,23 @@ Unfortunately, the technique of implication breaks this agreement: the sto-
 
 ryguide deliberately refrains from describing all the important points. This is fine for the storyguide to do consciously and occasionally for effect. However, the players are likely to become frustrated and annoyed if they think that they are losing control of what happens to their characters because the storyguide is hiding important information about the story from them. The storyguide should be careful that she does not use sparseness of information as a way to "outwit" the players.
 
-## *Violence*
+## Violence
 
 Horror stories usually involve considerable violence. Often most (or even all) of the characters in the story are killed, and those who are not are usually traumatized or tortured. However, you should carefully decide with your troupe how comfortable they are with explicit violence. Perhaps, as a rough guide, you could aim at the violence levels in the films and television shows that you all enjoy watching.
 
 It is perfectly fine for the violence in a horror story to occur mostly off-stage, and it can be much more effective to understate, rather than overstate, the violence, allowing the players' imaginations to fill in the gory details through implication, as previously discussed. Note that, when using the combat resolution mechanics, the abstract system already tends to push the violence of combat off-stage.
 
-## *Death of Player Characters*
+## Death of Player Characters
 
 Player character death is a real problem with using horror stories in an ongoing saga. On the one hand, it makes little sense for many characters to survive most horror stories. On the other hand, a saga is usually about the long-term development of characters over many different stories.
 
 One good technique is for the troupe to use different, more expendable characters for the bulk of the horror story. Perhaps the main saga characters only arrive late in the story, to dispatch the monster, after most of the story characters are already dead. To ensure that the players are still emotionally attached to the temporary, dying, horror story characters, try to introduce a few of the characters to the saga in an earlier game session, preferably in a non-horror story.
 
-## *Inversion of Normal Conventions*
+## Inversion of Normal Conventions
 
 Breaking the conventions and expectations of the characters (and players) is a good technique for unsettling the players and creating a feeling of unease. Perhaps a gang of children are killing off the city watch, one by one. The characters might discover a village where the people munch on grass and defecate in the fields like animals. Or they may encounter a gang of outlaws raiding a sleepy monastery, only to be captured, tortured, dismembered, and eaten by the cannibal monks. This technique is most successful when, early on in the story, the conventions expected by the players *are* obeyed. Establishing normalcy in this way provides a contrast when conventions are suddenly overthrown.
 
-## *Broken Narrative*
+## Broken Narrative
 
 Breaking the flow of the story by flashing forward or backward can be a great technique for disorienting the players. This technique is also useful for revealing information to the players that helps them to make sense of the story, but which their characters could not plausibly discover. Flashbacks can also be a good way of introducing temporary characters who can suffer horrific fates without disrupting the long-term viability of the saga.
 
@@ -6720,11 +6720,11 @@ It is important to remember that not all horror stories need to have a blood-dre
 
 Mundane opponents also create more opportunities for the players to question the morality of their own characters' actions, which can be an important element of a good horror story. Beheading a werewolf or impaling a vampire might be too easily considered a "good" action, but murdering the mad wife of the turb sergeant should be considerably more ambiguous.
 
-## *Props*
+## Props
 
 Some troupes like to use props such as music, sound effects, photographs or drawings of characters and locations, and even physical exemplars of the weapons and other items that the story characters encounter. Props can certainly help make the story experience more immersive, for some players. However, be aware that using props requires a lot of careful thought and planning, and even the use of well-made props will not necessarily make your story more engrossing or entertaining — in fact, props can be a big distraction for some players. Whether or not props will work for your troupe is a matter for your own judgment.
 
-# *Transylvanian Tribunal Horror Stories*
+# Transylvanian Tribunal Horror Stories
 
 It is by no means compulsory to tell horror stories in the Transylvanian Tribunal. Political stories, stories about mundane interference, and any other sort of story in-
 
@@ -6736,7 +6736,7 @@ volving magi are perfectly viable. However, Transylvania has a reputation for it
 - **• Werewolves** are common in parts of Transylvania.
 - **• Vampire Hunters** make for good savant characters and are often effective against other sorts of monsters. Some vampire hunters have a parent who is a vampire, and the slaying of the parent can make for a good horror story. Vampire hunters may also make for good *monster* characters. For example, dhampiri vampire hunters are doomed to become vampires
 
-## *Against the Dark*
+## Against the Dark
 
 upon their death.
 
@@ -6750,9 +6750,9 @@ of savant.
 - **• Magi** from House Tremere and the wider Order of Hermes are good characters to take on the savant role in a horror story. On the other hand, magi can also take on the role of monster, particularly that of a nemesis or a psychopath. Magi are also suitable antagonists for a conspiracy-based horror story.
 
 
-## *Appendix*
+## Appendix
 
-# *Glossary*
+# Glossary
 
 **Aedile:** An odd member of an oppidum who limits corruption. Basically a non-Tremere in a Tremere-dominated oppidum, or a Tremere in a non-Tremere oppidum.
 

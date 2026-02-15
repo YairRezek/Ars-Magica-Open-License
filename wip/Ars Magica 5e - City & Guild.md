@@ -1,7 +1,7 @@
 
-## *City & Guild*
+## City & Guild
 
-# *Credits*
+# Credits
 
 **authors:** Timothy Ferguson (Goods, Travel, Trade), Richard Love (Towns), Matt Ryan (Craft, Gilds, Prices), Sheila Thomas (Fairs, Towns)
 
@@ -27,7 +27,7 @@
 
  **special thanks:** Jerry Corrick and the gang at the Source
 
-## *About the Authors*
+## About the Authors
 
 **timothy ferguson** lives on the Gold Coast, Australia. He spends much of his time teaching people how to use boxes of magic and lightning. He is a librarian.
 
@@ -305,7 +305,7 @@ Sea Monsters......87
 | Weights and Measures140          |
 |                                  |
 
-## *About the Illustrators*
+## About the Illustrators
 
 *Appendix: Price List 143* **Medieval Money ...................... 143**
 
@@ -320,11 +320,11 @@ Sea Monsters......87
 **D. Malachi Penney** invites you to see more of his work on the world wide web at www.pen-paper.net/artgallery/Malachi/.
 
 
-## *City & Guild*
+## City & Guild
 
-# *Introduction*
+# Introduction
 
-# *Welcome to Town!*
+# Welcome to Town!
 
 Unless your saga is set right on the very fringes of the civilized world, the magi and covenfolk will inevitably come into contact with urban settlements and the activities centered upon them. Even though there may be some skilled craftsmen who live and work in a covenant, sooner or later something will be needed that must be bought from outside — perhaps a flawless glass candelabrum for an enchantment or a pair of finest kidskin gloves for a maga no longer able to bear the touch of iron. Few covenants are self-sufficient in even day-to-day commodities, and covenfolk may be sent to purchase
 
@@ -332,7 +332,7 @@ cheese from the local market or to order shipments of wine at an annual fair.
 
 This book provides background information on the urban centers of Mythic Europe, craft activities and the guilds that control them, the lives of merchants, and the trade that is the lifeblood of towns and cities.
 
-# *The Hermetic Order in Mythic Europe*
+# The Hermetic Order in Mythic Europe
 
 It is important to remember that the Hermetic Order is a part of the fabric of Mythic Europe. Nobles and the Church are generally aware of the existence of the Order, and peasants may be aware of a local covenant. Within the town, townsmen may also be aware of a nearby covenant, particularly if the magi or grogs frequent the market; craftsmen, in specialized fields, may occasionally manufacture laboratory goods for magi; and mercantile factors may deal with the covenant's purchasing agents, or even buy produce from the covenant. Of course, broader Mythic Europe is likely to be misinformed, and prejudiced, about the precise details of the Order of Hermes, but the Order is nonetheless an obscure rather than a secret group.
 
@@ -411,9 +411,9 @@ Theophilus, *On Divers Arts*, trans. Hawthorne, J., and Smith, C. S., Dover Publ
 sodales." Some activities — flooding the market with magical goods, or the devastation of towns, for example — are clearly violations of the Code, but the legality of many other activities is contestable. In fact, Tribunal politics is a very important factor in determining whether a particular interaction with the mundane is, or is not, a violation of the Code. A magus who is politically powerful within his Tribunal has more latitude in his affairs with the mundane, although he may also have more enemies seeking opportunities to sanction him.
 
 
-## *Chapter One*
+## Chapter One
 
-# *Towns & Cities*
+# Towns & Cities
 
 It is a warm, sunny day in one of the grandest cities of Mythic Europe. Sunlight reaches down between the
 
@@ -428,7 +428,7 @@ Victor is excited by the bustle of commerce and industry all around him and the 
 
 > where they have recently completed construction of a magnificent new chapel; and if possible track down a comb fine enough for Moratamis of House Guernicus to use in an enchantment. Then he will be free to call at the castle to swap hunting stories with his Lordship's eldest son. However, his first quest is for a mug of ale.
 
-# *Urban vs. Rural*
+# Urban vs. Rural
 
 Towns and cities are complex, diverse, and boisterous places to be, and while their individual characters are varied, they are fairly easy to define. While all villages and some towns still fit into the long-standing feudal pattern of life, most towns and all cities have laws and institutions that are distinctly different from those of rural areas. A town's charter (see Town Charters, below) and the rights is gives, particularly with regard to trade, are what make it a town. A city is a large town that
 
@@ -439,27 +439,27 @@ Distinctions between the inhabitants of urban areas are based on class, guild, a
 
 Citizens take pride in their home town, competing with others around to be the best (except in Germany, where there is often a spirit of cooperation) by contributing to funds to pay for the erection of prestigious public buildings such as cathedrals, bridges, encircling walls, towers, and harbors; putting up large private buildings like palaces, warehouses, and guildhalls; commissioning documents to record their history and activities; and having a unique seal to authenticate these, identifying them clearly with their place of origin.
 
-# *Origins*
+# Origins
 
 Ancient Greek civilization promoted urban life and spread the idea across the Mediterranean lands where it was adopted and expanded by the Etruscans and the Romans. The latter established towns and cities throughout their empire but these fell into decay when the empire crumbled, except in Byzantium, Arab lands (including southern and eastern Spain), and Italy. By 1220, in many parts of Mythic Europe, society is in a period of urban expansion that started 40 or 50 years ago, so many towns and cities have a lot of new buildings or show signs of overcrowding. A good number of towns, particularly in southern Europe, have grown on the foundations of Roman towns, and some retain a vestige of the Roman layout. Often they have been able to make good use of recycled building stone and the distinctive thin, red Roman bricks, and may even retain some of the ancient structures (for example, see the city of Trier described in *Guardians of the Forests: The Rhine Tribunal*, pages 129– 130). Mercurian magi (see *Houses of Hermes: True Lineages*, page 95) pay particular attention to these towns as likely places to find traces of the Cult of Mercury. Some towns have grown up at sites that are naturally well suited to trade, for example on a navigable river, a suitable place for a bridge or safe harbor, or at the junction of major roads. Others have developed at places of pilgrimage, or around a castle or a monastery. Similarly, a thriving market on a site that has been used for that purpose since the dawn of time may well have become the nucleus for a settlement.
 
 A relatively new phenomenon is the planned new town, established by a rich member of the nobility on a site of his own choosing. Such a settlement has the encircling wall and citizens' rights that make it a town, but usually lacks an obvious nucleus. Many are set up for commercial reasons, while others are largely agricultural and some are political. For example, new towns are established in border areas to stake a claim on territory and were used thus by the Normans when making their mark on England and Wales during the 11th and 12th centuries (63 towns were founded during the latter). If your saga follows history, the new trend gathers pace. Norman new towns proliferate in Wales and England, both Norman English and French lords initiate them in Aquitaine and Gascony to claim power and land, and many new towns are planted in Germany and Eastern Europe to introduce new agricultural methods to Slav areas and raise more taxes from them. Many fail to attract sufficient economic activity to sustain them. A nearby covenant could well have reasons to hasten the decline or support the growth of such a town.
 
-# *Town Charters*
+# Town Charters
 
 A town charter distinguishes a town from a crowded collection of buildings and grants rights and privileges, or customs, to the citizens of the town, who, in return, pay taxes. It is the legal and economic foundation of the town, and is a living document, in the sense that modifications can be made — privileges and restrictions may be added or removed. Charters have been granted to towns for several centuries, but many of the great cities of Mythic Europe date from antiquity and hence predate their charter. In their case, charters often ratify rights that existed previously, and the process of negotiating the exact form of these "ancient rights" can cause considerable conflict between burgesses and their feudal lord. New charters are also sometimes imposed upon existing towns as a consequence of military conquest.
 
-## *Becoming a Townsman*
+## Becoming a Townsman
 
 To become a townsman or burgess it is, at a minimum, necessary for a character to live in the town continuously for a year and a day, after which he is accorded rights and privileges under the charter. Some town charters require additional conditions for citizenship, generally with the aim of restricting citizenship to the wealthy. Some possible additional conditions for prospective citizens include: owning land, constructing a house, swearing an oath to defend the town, having a trade, or being a member of a guild. In Toledo, and some other Spanish towns, a man's wife must live permanently in the town for him to be eligible for citizenship, which prevents itinerant merchants from claiming citizenship of several towns. Clerical inhabitants cannot usually become the citizens of towns, as they are held accountable to canon law — and their rights may be *inferior* to the rights of townsmen.
 
 In addition to gaining their rights under the charter, becoming a townsman creates a sympathetic connection between the character and all others living under the same charter (including those in other towns under the same family of charters). The connection can be exploited to provide a +1 multiplier bonus to the Penetration score of a magical attack (see ArM5, page 84). If a character becomes a citizen of another town, a new sympathetic connection is formed, which ties the character to the new town, and the previous sympathetic connection is severed.
 
-## *The Lord*
+## The Lord
 
 A charter is granted by an authority figure: the lord who claims suzerainty over the land that the town occupies. Usually this is a king, a lesser noble, a bishop, or the abbot of a monastery, but there are no universal rules about who may grant a charter. The only real requirement to be a charter lord is to make a claim of ownership over the land on which the town is sited. Sometimes, such claims are contestable, and cause disputes between lords. To avoid warfare, these disputes must often be adjudicated by some "neutral" party, like the Church or a feudal overlord. Unless a town is very important, lords are usually reluctant to resort to warfare, and wary of being drawn into a broader conflict, other neighboring lords often try to help find a peaceful solution. Clearly, the burgesses of a town prefer the most generous of the competing charter lords, and sometimes, especially if the town is large, their preferences may ultimately decide a conflict between charter lords.
 
-## *Story Seed: Charter Documents*
+## Story Seed: Charter Documents
 
 Rego vis may be extracted from charter documents that have been signed by town representatives and the granting lord. Most town charter documents provide only one pawn of Rego vis, which is tainted by the Divine, so this is a very inefficient method of obtaining vis, but very large towns might provide more vis. This action can be seen as an unnecessary interference with the mundane — a charge that most magi are unwilling to risk for such a poor return. Significantly, however, extracting the vis destroys the sympathetic connections created by the charter, so a paranoid magus living in a town may wish to destroy the documents for this purpose. Charters are valued, so it requires considerable finesse to acquire the documents. Magi seeking them may need to substitute copies for the originals, and so on.
 
@@ -468,7 +468,7 @@ Rego vis may be extracted from charter documents that have been signed by town r
 Noble lords grant charters as a means of control, to ensure loyalty, and to gather revenue. The kings of England, for example, place a strong emphasis on the control of coastal towns and maritime ports, and have thus founded ports or granted royal charters to prosperous or strategically important coastal towns that were previously chartered by lesser lords (Liverpool, 1208; Newcastle upon Tyne, 1070; Portsmouth, 1194). Similarly, Derby, Leicester, Lincoln, Nottingham, and Stamford were all granted charters in the ninth and tenth centuries by Danish kings as a method of consolidating military
 
 
-## *Story Seed: The Faerie Charter*
+## Story Seed: The Faerie Charter
 
 A company of soldiers, dressed in the livery of the local mundane lord, is discovered, lost, near the covenant. The soldiers' captain, a young knight eager to please his lord, explains that the group is searching for the town of Nottingwood. The town once paid a tax to the lord, on whose land it is built, but for the last seven years the tax has not been seen at the castle. The lord himself is curiously unwilling to do anything about this behavior, but the young captain has resolved to personally collect the tax this year.
 
@@ -531,13 +531,13 @@ In return for his services, the demon might appropriate the tithe normally grant
 
 Some land-owning covenants have also granted charters to towns on their lands (see insert), but this is controversial and can be easily construed as an unnecessary interference with the mundane.
 
-## *Common Privileges*
+## Common Privileges
 
 From the perspective of the burgesses, a charter granted by a noble is much the same as a charter granted by an ecclesiastic; both ecclesiastical and noble charters typically include most of the privileges described below. Charters granted by supernatural lords are more varied, reflecting the nature of the charter lord. Normally, the same rights are granted to all townsfolk, although some charters distinguish between burgesses and mere inhabitants. In return for their charter, townsfolk collectively pay an annual tax to the lord. A typical tax for a town of several hundred burgesses is 40 pounds (a noble of average wealth might collect a tax from several such towns). Particularly avaricious lords may demand a greater amount of tax and supernatural lords might demand a non-monetary payment, like mortal wives or special festivals.
 
 Town charters provide legal assurances. Typically, burgesses can only be tried by courts within the town, and have no obligation to attend external courts — especially arbitrary feudal courts. Charters also often simplify legal processes by
 
-## *The Customs of Lorris*
+## The Customs of Lorris
 
 Lorris, a small town in France, was first granted customary rights by King Louis VI, which were later confirmed by Louis VII in 1155. The grant of rights included:
 
@@ -569,13 +569,13 @@ Finally, town charters usually regulate the buying and selling of land. This is 
 
 it can be sold; for example, it might only be permissible to sell land to residents, or certain groups might be prohibited from owning land. Some ecclesiastical lords have banned the sale of town land to the Order of Hermes.
 
-## *Town Governance*
+## Town Governance
 
 The governance of a town is theoretically dictated by the charter, and usually town officials cooperatively make decisions for the whole town. Important or long-term decisions are made at town meetings that sometimes may be attended by ordinary citizens, even though decisions are made by the officials themselves — usually by a council of aldermen or magistrates, possibly led by a mayor. Dictatorial systems are rare, and even when a charter reserves substantial powers to the charter lord or another individual, most decision-making is actually devolved to appointed officials.
 
 Town officials also perform daily duties like assessing taxes, setting prices, or holding criminal courts. Sometimes, officials have responsibility for particular areas — for example, portmen are appointed to assess tolls at port, coroners are primarily concerned with assessing the value of fines resultant from violent deaths (which typically accrue to the crown), bailiffs hold criminal courts, and guild-masters police the statutes of town guilds — but other officials have wide areas of concern. The exact titles and duties of town officials depends upon local language, local history and geography, and regional idiosyncrasy, which should all be considered by the troupe when choosing roles for town officials. For example, a town without a port obvi-
 
-## *Town Officials*
+## Town Officials
 
 As being a town official is usually a temporary office it is not really suitable as a Virtue or Flaw, and is perhaps better incorporated into a saga as part of a story. If a troupe desires, however, a Virtue modeled upon the Minor Social Status Virtue: Town Magistrate (see Crime) can be used. For a more general town official, the requirement to have a score in the Civil and Canon Law Ability and the benefit of being able to access Academic Abilities during character generation should both be dropped.
 
@@ -586,7 +586,7 @@ During the 13th century, most towns are growing rapidly, and although town offic
 
 if they cannot be citizens, but they are unlikely to dominate decision-making, except in towns granted charters by ecclesiastical lords. In some towns, particularly in Italy, officials are politicized and form factions. This can result in rival factions, backed by wealthy families, dominating different quarters of the town, and preventing effective governance.
 
-## *Families of Town Charters*
+## Families of Town Charters
 
 Sometimes a town is given the same charter as an existing town, which creates families of towns with similar laws. Some daughter towns are entirely independent of their mother, while others are politically dominated by their parent. Some example families of town laws are the laws of Freiburg (see insert), Lübeck, and Cuenca.
 
@@ -594,7 +594,7 @@ The town of Lübeck received its charter in 1188 from Frederick Barborossa, Empe
 
 The law or fuero of Cuenca contains one thousand clauses and regulates inheritance, criminal law, military service, irrigation and pasture rights, the use of public baths, and Christian-Jewish relationships. It was granted to Cuenca by Alfonso VIII of Castile, in 1190, soon after he liberated the town from the Muslims. Since then several other reconquered towns in Iberia have been granted the same charter.
 
-## *The Law of Freiburg*
+## The Law of Freiburg
 
 The Law of Freiburg was first granted in 1120, by Conrad Zähringen, and has been revised several times since. Freiburg is located on the edge of the Black Forest (see *Guardians of the Forests*, page 64) and prior to 1120 the site was uninhabited, but by gathering merchants (mostly from Cologne) and granting them land in the town the lord was able to quickly populate the town. The charter has also been granted to several other towns, including Diessenhofen (1178) and Berne (1191). The main provisions of the charter are:
 
@@ -644,7 +644,7 @@ Outside the walls are the cemeteries, and the hospices for lepers. These are est
 
 A visitor to a town or city that is unknown to him will have difficulty finding his way about, as there are no maps or signposts. The castle perched up on a hill, and the spire of a church or minaret of a mosque stand out, but to get anywhere else the visitor must ask the inhabitants or follow his ears or nose. Storyguides may make good use of how very easy it is for the visitor to become disorientated and lost in an urban area, particularly for a visitor used to life in a secluded covenant.
 
-## *Defenses*
+## Defenses
 
 Towns and cities are proud of their ditches, walls, and towers, which may be there more as a show of affluence or as a symbol of independence rather than from any military necessity, although many towns grew up adjacent to a castle and walls extend from this strong point to surround the town.
 
@@ -657,17 +657,17 @@ appropriate symbol that will impress upon the mind of the visitor the glory and 
 
 Sometimes the physical walls, towers, and ditches are inadequate protection. At such times, the relics of saints and martyrs held in the local churches may be brought out and taken around the town in solemn procession as prayers are said asking the patron to come to the aid of the town. This counts as ceremonial influence tempering the aura to Loyal, Calm, or Brave, depending on the situation faced (see *Realms of Power: The Divine*, pages 38–40).
 
-## *Open Spaces*
+## Open Spaces
 
 The distinction between urban and rural is blurred when it comes to agriculture. There are plots of land within the walls for growing crops, sometimes for fruit and vegetables only, but in some instances for grain too. If the town is surrounded by agricultural land, the townsfolk may well be expected to assist with the harvest both inside and outside the town. Cattle may be allowed to graze on land within the city boundary, for a fee if there is no common grassland, while hens are often kept in people's back yards, sometimes with pigs.
 
-## *Zoning*
+## Zoning
 
 To a large extent, those doing the same kinds of jobs are grouped together. In cases such as butchers and tanners, this has the great advantage of keeping the mess and smell confined to one district. There is little tendency to segregate richer and poorer; since wealthy men often like to buy up several smaller plots on which to build new city-center homes, neighborhoods may be very diverse.
 
 In a large city, foreigners, meaning anyone from another city, and aliens, meaning anyone from another country, usually live in close proximity. There is quite often an area where the Jews have their homes and their own public buildings, and streets where all the immigrants from a particular region live. This may be imposed, but also happens naturally as new arrivals turn to fellow-countrymen when seeking employment and accommodation.
 
-## *Streets*
+## Streets
 
 Road surfaces may be just hardpacked earth, but major thoroughfares that have to carry carts are surfaced with stone, either slabs or cobbles. Repairs are generally carried out by adding new surfacing material on top of the old, so the street surface is frequently at a higher level than the entrances to the adjacent buildings. It is common to have a channel down the center of the street to collect refuse
 
@@ -677,13 +677,13 @@ Fire is the town-dweller's great fear, so for safety there are laws requiring th
 
 
 
-## *Markets*
+## Markets
 
 The marketplace may be an area of open ground used for other purposes, such as grazing, on other days, or it may be an open area used only for markets and other gatherings. In central and southern Europe, trees or arcades provide welcome shade here. In older towns, where hardly any free space can be found in the town center, the sellers set up along the side of the streets, making it hard to get through that part of the town on market days. In circumstances such as these, some people make use of their own front room as a place to sell from, and become shop owners.
 
 It is common for live animals to be sold separately from other things, and in the largest urban areas, markets are frequently further subdivided, so one finds special areas for the sale of some of the following: bread, pies; cloth, clothing; cheese, butter, milk, eggs; fish; fruit and vegetables; grain, flour; livestock; meat, including both that of domesticated animals and game; live poultry; wood, including timber, domestic utensils, baskets, spades, cartwheels; wool, hides, yarn. Other things are sold, of course, but do not have a special market place dedicated to them. See Chapter 6: Fairs and Markets for more information.
 
-## *Places of Work*
+## Places of Work
 
 Rich merchants own or rent warehouses and offices within the city. Practitioners of other trades that simply require a room, for example scribes, are likely to operate from their own dwelling place or a rented room anywhere that suits them. Craftsmen requiring workshops may rent a ground floor room or, if successful enough, own workshop space around a courtyard where they also live. Occupations that inevitably produce strong smells, particularly the butchers, tanners, and dyers, are grouped together, the last pair usually being located beyond the city walls along with the fullers. Also on the fringe of the built up area are lime kilns, windmills, and water mills. Workshops for manufacture of items from pottery, glass, or metal require fires so are likely to be sited on the outskirts too. Coastal and riverside towns have an area set aside for the fabrication of rope and netting.
 
@@ -691,7 +691,7 @@ Most large urban communities lie beside or astride a navigable waterway, and as 
 
 Locating a covenant or even just a chapter house in a town or city without drawing unwanted attention is a challenge to the knowledge and imagination of any magus. A magic aura is more likely to be found in a regio or underground, but even when taking advantage of such a site, a way of getting in and out unobtrusively is desirable. There is a lot to be said for hiding in full view. For example, if an alehouse backs onto a smithy and covenant rooms lie below both, there are plausible reasons for a lot of people coming and going and the occasional explosion or fire. Urban magi and covenfolk should avoid being drawn into local politics but often find it difficult to keep their distance from everyone who might try to exploit them or just make friends with them. See *Covenants,* page 27, for suggested Hooks and Boons to make up an urban covenant.
 
-## *Places of Prayer*
+## Places of Prayer
 
 Almost every city in Christian lands has within it a cathedral and several parish churches, and also churches and chapels associated with particular religious foundations. Most towns in densely populated areas have flowed around at least two parishes, so neighborhood churches can be common even in quite minor urban settlements, many of the smaller churches being without a resident priest and just used by the local inhabitants for their private devotions. In contrast, some settlements have expanded in lightly settled areas and comprise a single, large parish. Towns are putting up new churches independently of the religious orders, with priest and people contributing to a building that is a matter of civic pride. Rich individuals like to improve their chances of avoiding Hell by making donations to the Church, but a desire for earthly status means that many want their donations to be visible. Recently, this has taken the form of asking for an altar to be set up in that person's name, and many existing churches are being modified to accommodate them. In the same way, guilds may pay for chapels dedicated to their members. See the insert for information on what churches and cathedrals look like.
 
@@ -705,7 +705,7 @@ In the lands held by the Moors and Arabs, places of worship are very different (
 
 In lands where the influence of the Byzantine Empire is strong, evidence of this long heritage is clear. For example, Ravenna, which had strong links with the Eastern Emperor, contains several great basilicas and small baptisteries where the highly colored and detailed mosaics on the inner walls and ceilings, dating from the fifth and sixth centuries, far outshine any wall paintings in brilliance. Venice's Basilica of Saint Mark was built in the 11th century in the Byzantine style and has glittering wall mosaics of its own. The basilica displays riches plundered from Constantinople quite recently, during the Fourth Crusade.
 
-## *Building Styles*
+## Building Styles
 
 The early 13th century sees a great surge of investment in building by the Church and the citizenry.
 
@@ -717,7 +717,7 @@ Recently, architects and builders in France have discovered that pointed arches 
 Beside it stands the Doge's palace, in the style of a Byzantine fortress. Constantinople itself has the magnificent sixth century church dedicated to Santa Sophia (Holy Wisdom). Although it appears plain and massive from outside, so marvelous is its construction of vaults, domes, and windows when viewed from within, and so dazzling its mosaics and colored marble, that one can immediately see it was divinely inspired.
 
 
-## *Regional Variations in Church Design*
+## Regional Variations in Church Design
 
 In England, the roofs of olderstyle buildings are generally of wood rather than the stone that is used in France. Unlike the relatively compact French cathedrals, new ones being constructed in England have a very much longer nave, extended transepts, and no eastern apse.
 
@@ -742,7 +742,7 @@ Among many of the clergy, cities are seen primarily as the breeding ground for e
 
 only thinking about taking its fi ght against heresy to the urban centers as preachers. Canons, too, live and work alongside the urban populations that support them, most often doing pastoral work including care of the sick and insane, the aged, and lepers. Although the urban populace celebrates the same holy days as everyone else, their festivities are adapted to their environment so that a procession through the streets, perhaps behind a banner, a crucifi x, or a statue of a saint, is a common sight.
 
-## *Places of Learning*
+## Places of Learning
 
 Because a degree of literacy is necessary for most positions in the Christian Church structure, many monasteries and cathedrals provide some basic tuition to boys, either within their own buildings or in a closely associated grammar school. Education of boys and young men is given higher priority in Jewish communities, so there is at least one place of learning for them if the city has a Jewish Quarter (see *Realms of Power: The Divine*, pages 131–132). In the parts of the world where Arab infl uence is strong, it is similarly important for boys to learn the holy texts, so education to that end is provided at the mosque.
 
@@ -750,7 +750,7 @@ Specialist schools and universities are very rare, and are little more than gath
 
 Siena (1240), and Valladolid (1250). Each is of great interest to magi and it is probable that if there is not yet a covenant of some sort in each of these cities, there will be before too long. It may be that members of the Order are involved in establishing one or more, particularly magi of House Jerbiton who may wish to join the academic circles. On the other hand, such places of learning are very likely to compete with the Order for non-Hermetic books and could be seen as a threat to be monitored closely.
 
-## *Other Public Buildings*
+## Other Public Buildings
 
 The buildings that a city erects for the administration of government, law, and trade refl ect the power and affl uence of the town as a whole and of those among the wealthy burgesses who like to spend money for the public good, whether out of charity or the desire to show off. Thus, in some parts of northern France, northern Italy, Flanders, Germany, Poland, and Hungary, the major commercial centers boast public buildings grander than their cathedrals. Guildhalls typically resemble the home of a wealthy man, having a main hall, kitchen, and ancillary rooms including storage areas, and, in rare instances, also a chapel and stable. In some of the richest citderives from trade in fabrics, a cloth hall for the exchange of fabrics has been built; construction of a particularly grand one in the new style was started in Ypres last year.
 
@@ -771,7 +771,7 @@ ies where wealth
 
 will be persuaded by payment to give a visitor somewhere to sleep. The very rich living in the countryside maintain a town house to use when they or their servants have to stay, for example to collect rents. Others make use of their contacts to obtain shelter. A large city probably has a rudimentary inn where food and a sleeping space in the shared common room can be bought.
 
-## *Housing*
+## Housing
 
 All but the wealthier citizens rent their homes from those who are rich enough to own property, whether the local lord or a monastery, a merchant, or simply a neighboring successful burgess. The poorer citizens, if single, are likely to live in a small wooden hovel at the back of a shared courtyard, or in a windowless upper story room shared by several people. A poor family may be able to afford one or two rooms for sleeping, while sharing an oven, a privy, and a source of water — typically a well or fountain — with other families. Better off families occupy more rooms. A merchant or craftsman aspires to his own house with a cook fire and storage space for himself and his family, apprentices, and servants.
 
@@ -784,7 +784,7 @@ rural counterparts. Typically, two, three, or four buildings are arranged around
 
 The homes of the well-to-do in countries other than those around the Mediterranean are largely of the same materials as those of the poorer classes, having a timber frame with infill of wattle and daub, and roofed
 
-## *Place of Safety*
+## Place of Safety
 
 In many towns, the only building of stone that can be made at all secure is the church. Visiting merchants who wish to keep their wealth safe, whether it be in goods or coin, often ask the priest to keep it for them so it is safeguarded both by the physical structure of the building and the sanctity of the place. Those with something valuable to protect who prefer not to discuss the matter with the clergy are likely to bury their precious items in the churchyard to take advantage of the assumption that hardly anyone would dare to steal from such a place. The ground there is often disturbed, so a new area of digging is rarely noticed.
 
@@ -792,7 +792,7 @@ in thatch of straw, rushes, or reeds, or with wooden shingles. In London, for ex
 
 Homes in areas under strong Arab influence are adapted to the heat of the southern sun. The rulers in Muslim lands live in grand fortified palaces, often austere externally but highly decorated within by carved stone and brightly colored geometrically patterned tiles. Some are immense; for example, the Alcazar in Seville includes a harem large enough for 800 women in addition to the staterooms and workrooms. Covered living spaces are arranged around a series of courtyards and are designed to provide shade. Pumping systems carry water into the building to feed fountains and pools. The non-aristocratic live in narrow streets with scarcely room for two donkeys to pass, where high walls provide shadow; fabrics may be stretched across to increase the shade. The more affluent have dwellings similar to the nobility but on a smaller scale, down to a single, small courtyard opening onto the street through a narrow gate. The poorest homes are small and dark with flat roofs where the inhabitants may sleep in the cool of the night air.
 
-# *Populace*
+# Populace
 
 The number of people living in a particular urban community is said to be larger the further away it is, at least as far as cities are concerned. To those living in or near them, the vast majority of cities have less than 2,000 inhabitants and only about sixty have a population of twice that or more (see Town Profiles, below). In the lands bordering the eastern side of the Adriatic, Greece, and Bulgaria, once-great cities have shrunk and urban living has declined so far that only small towns exist.
 
@@ -807,15 +807,15 @@ A great many of the people living in a city work to serve the merchants, craftsm
 
 In a few urban areas a group of supernatural beings may live in a regio quite apart from the mundane activities. Others choose to involve themselves with certain aspects of urban life. A brownie or similar household faerie may help a craftsman in his work, perhaps doing the finest, most detailed work. Another may help with sales by making sure goods are moved to where they can be seen or reached easily. Every city is likely to be home to a few animals naturally at home in urban areas but having supernatural characteristics. One such may be a fay cat that really can be simultaneously stealing food in the kitchen, tripping someone up on the steps, and watching every passerby while appearing to be fast asleep in the sun. There are also the magical dogs who epitomize loyalty, and so involve themselves in the affairs of their owner, working to protect them, or seeking out a lost child and guiding it home.
 
-## *Family Life*
+## Family Life
 
 Although urban families tend to be smaller than rural ones, children frequently remain living with their parents for longer. In many parts of Europe, urban men marry rather late and often marry women considerably younger than themselves, so widows are quite common. Poorer families lack the funds to marry off their daughters so this, along with the prolonged bachelorhood, plus the large number of priests and the religious, means that a relatively high proportion of the urban population consists of unmarried adults. One effect of this is to increase the opportunities for temptation into sins of the flesh; another is to strain sympathy between young and old.
 
-# *Diet*
+# Diet
 
 Diet in towns is similar to that in the country. However, the fact that all towns must import a substantial amount of their food means that there are some differences.
 
-## *Grain and Bread*
+## Grain and Bread
 
 Grains (wheat, barley, oats, rye) are the most common foodstuff in the towns of Mythic Europe, and are imported from either the local countryside or from other towns. Of these, wheat is the most popular because it can be easily stored, and many towns have public granaries. Some Italian towns use their granaries to distribute wheat as a charitable dole, reminiscent of the practices in classical Rome. Town officials (backed by public funds) often guarantee high prices to merchants for grain, to ensure that the town is preferentially supplied in times of famine or shortage. These guarantees have also allowed many merchants to make their fortune shipping grain.
 
@@ -830,11 +830,11 @@ Town mills refine grains to make flour from which bread is baked. As few househo
 
 er's oven. White bread, made from highly refined wheat, is a high status food. The majority of townsmen, however, eat brown breads that contain other, less refined, grains. Poorer town dwellers, who cannot afford bread, eat porridges or gruels.
 
-## *Drink*
+## Drink
 
 Grains are also brewed to make ale, but this can only be kept for a few days. Wine, made from grapes, can, on the other hand, be stored for at least several years and is thus exported from France, Italy, and Spain. Ale or wine is drunk daily in the home, but taverns are rare and it is a sign of status to be able to afford, both in time and cost, to drink a lot of alcohol. Urban water sources are often polluted by town industries and so are not drunk, if they can avoid it, by town dwellers.
 
-## *Meat, Vegetables, & Fish*
+## Meat, Vegetables, & Fish
 
 Town butcheries slaughter cattle, pigs, and sheep for local meat consumption. Cattle are imported from the countryside, although a few are kept in town for dairy produce or are used as beasts of burden in poor towns. Pigs, sheep, and fowls are often farmed within the town walls. Wild animals (deer, boar, hare, and wild birds) are also eaten in small towns, but large towns are too populous for hunting to supply significant quantities of food. The wealthy, in displays of conspicuous consumption, flavor their meat with expensive spices including pepper, cinnamon, ginger, cloves, cubeb (similar to pepper but with a strong lemon aroma), and galingale (similar to ginger). These are all imported from the orient, via Constantinople, and Venetian merchants control the spice trade within Mythic Europe.
 
@@ -842,17 +842,17 @@ Vegetables are cheap and eaten by the poor, who cannot afford meat, but are rare
 
 Fish are an important component of the urban diet because, as fish are spontaneously created, they bypass religious restrictions on the consumption of the products of coition. Some fish are kept in urban ponds, or caught in local rivers, but the most common fish eaten in Northern Europe is deep sea herring. Many coastal towns have developed significant fishing industries to catch and process (salt, dry, and smoke) herring for export.
 
-## *Famine*
+## Famine
 
 Towns are insulated from the effects of famine because food can be imported from regions that are not suffering from famine via a port, and town granaries smooth out minor fluctuations in food supply. In addition, the high prices that goods fetch in town mean that what little food is available in the surrounding countryside is sent to the town market, rather than being used to feed starving rural peasants. This partly explains why town officials act to inflate the prices of staple goods, like grain, within the town. Short of armed rebellion, there is little that rural peasants can do about this state of affairs and, of course, the *owners* of farmland (who often live in the town anyway) ensure that they themselves are well fed. A famine that lasts for years, or is spread over a wide geographical area, will eventually affect town inhabit-
 
-## *Story Seed*
+## Story Seed
 
 On feast days, wealthy burgesses in the town host a sumptuous banquet at which the poor of the town are served for free. However, for the last year the burgesses have been unable to host a feast, not because they cannot afford it, but because some supernatural power has been sabotaging the feast preparation — roasting meat burns to a cinder, stored grain is found to have rotted, and wine turns to vinegar. Somehow, the townsfolk decide that this is the fault of the magi living in a covenant near the town. Unless the magi can quickly discover the saboteur of the feast, they have to contend with a riot, which may result in the deaths of many townsmen, causing both alarm in neighboring regions and consequences for the magi at Tribunal. The saboteur could be a faerie, a demon, or perhaps the agents of a rival covenant attempting to provoke an incident for political gain at Tribunal.
 
 ants and the poor will be disproportionately affected, perhaps suffering deprivation (see Diseases). Wealthy burgesses solve the problems of longterm famine by emigration.
 
-# *Disease*
+# Disease
 
 The human body is composed of four humors. Each humor is a reflection of an element, a season, and a set of conditions: blood, corresponding to air and spring, is hot and wet; yellow bile, fire and sum-
 
@@ -860,7 +860,7 @@ The human body is composed of four humors. Each humor is a reflection of an elem
 
 mer, is hot and dry; black bile, earth and autumn, is cold and dry; and phlegm, corresponding to water and winter, is cold and wet. Excess of a humor causes an imbalance in the body, which is disease, and treatment is often based on the application of a counter-balancing humor;
 
-## *Anachronism and Disease*
+## Anachronism and Disease
 
 In Mythic Europe disease is caused, as stated, by humoral imbalance. Sometimes this is prompted by living conditions, and the humors are often aggravated by demons and occasionally by other supernatural agents. In particular, troupes should note that diseases are *not* caused by viruses, or bacteria, *nor* are they usually contagious, *nor* can they be spread by vectors such as vermin.
 
@@ -868,7 +868,7 @@ for example, an excess of black bile (cold and dry) can be treated by the applic
 
 Diseases are prevalent in towns because they contain sources of humoral imbalance, especially bad air from smoke and odors from dyes, animal dung, sewage, tanneries, and butcheries. A town's location may also favor a particular humor; for example, the inhabitants of a cold and wet coastal town will suffer from an excess of phlegm. Precisely how often a character must be tested for exposure to sources of humoral imbalance is at the discretion of the storyguide. As a rough guide, a character who is newly arrived in town may need to be tested once or twice during his fi rst season of residence. Long-term town residents mostly contract diseases as a consequence of Aging — an illness result, indicated by the Crisis Roll (ArM5, page 170), may be represented by a disease chosen from those below, at the storyguide's discretion. Note that some diseases have consequences even if the character survives the crisis. Long-term town-residents may also contract diseases if their local environment changes (a new butchery opens in the neighborhood, for example) and some diseases (childbed fever or leprosy, for example) can be triggered by the activities of the character.
 
-## *Leprosy*
+## Leprosy
 
 *And the leper in whom the plague is, his clothes shall be rent, and his head bare, and he shall put a covering upon his upper lip, and shall cry, Unclean, unclean.*
 
@@ -885,7 +885,7 @@ Town charters frequently contain rules for dealing with lepers, which may includ
 
 Lepers gain the Major General Flaw Leprosy. This Flaw may also be taken during character generation. The disease caused by the spell *Curse of the Leprous Flesh* (ArM5, page 133) is not true leprosy, but has similar effects.
 
-## *The Ague*
+## The Ague
 
 The ague is caused by bad air, and outbreaks cluster around urban sources of bad air (especially sewage and tanneries). Its main symptoms are a regular cycle of chills and fever. The length of each cycle indicates the type of humoral imbalance: a continual fever indicates phlegm, a quotidian fever occurs daily and indicates blood, a tertian fever occurs every third day (inclusive) and indicates black bile, and a quartan fever occurs on every fourth day and indicates yellow bile.
 
@@ -893,7 +893,7 @@ If a Stamina roll against an Ease Factor of 3, 6, or 9 (depending upon the stren
 
 and always inflicts a Heavy Wound, while the other fevers only inflict Medium or Light Wounds. A related disease, the fen ague, is endemic in marshland.
 
-## *St. Anthony's Fire*
+## St. Anthony's Fire
 
 St. Anthony's fire is an excess of blood caused by a minor disease demon in the victim's intestines. Symptoms include a red rash, intestinal pain, visions, muscular spasms, contortions, and a burning sensation in the extremities. Eventually the limbs begin to rot and the victim dies.
 
@@ -901,11 +901,11 @@ If a Stamina roll against an Ease Factor of 9 is failed, then the demon has foun
 
 The demon has a Might of 10 (Corpus) and can be exorcised using a ritual known to the Order of the Hospitalers of St. Anthony, which was established in 1095 and named after a fourth century Egyptian hermit. The order has many houses in continental Europe and an important chapter house on Threadneedle Street, London.
 
-## *Tarantism*
+## Tarantism
 
 Tarantism is an excess of yellow bile, caused by the bite of a faerie tarantula. The disease triggers an irresistible urge to dance — to the point of exhaustion — along with thirst, unusual sexual urges, and pain around the bite mark. Tarantism is at
 
-## *Living Condition Modifier*
+## Living Condition Modifier
 
 A Living Condition modifier is applied to the Aging Roll (ArM5, page 170). Additional modifiers are given below:
 
@@ -919,7 +919,7 @@ A Living Condition modifier is applied to the Aging Roll (ArM5, page 170). Addit
 
 For example, a character who lives in a town (–2, ArM5, page 170), is a leper (–2), and works in a tannery (bad air trade, –1) has a total Living Condition modifier of –5.
 
-## *Major General Flaw: Leprosy*
+## Major General Flaw: Leprosy
 
 A leper has a permanent –2 modifier to her Living Condition (with an additional –1 if she lives in a leper colony), and whenever she undergoes an Aging Crisis (ArM5, page 170) the leper sustains a Heavy Wound in addition to any other result. Lepers cannot gain a positive reputation due to a pungent rotting smell that they emanate.
 
@@ -928,7 +928,7 @@ its worst during summer, although it may take years to manifest, and the disease
 A character bitten by a faerie tarantula is afflicted with tarantism unless a Stamina roll is made against an Ease Factor of 9. Once per season a Stamina Roll against an Ease Factor
 
 
-## *Black Death*
+## Black Death
 
 Black Death, or the plague, does not exist in Mythic Europe. If your saga follows history, then Black Death arises in 1347 in Constantinople. It is a demon that appears as the shrouded reaper, although it is invisible to the mundane senses. Black Death is summoned by an Infernal ritual, and members of the Hermetic Order might contribute to or avert earlier attempts by infernalists to summon Black Death.
 
@@ -936,29 +936,29 @@ of 3 (or 6 in summer) must be made for each afflicted character. If this is fail
 
 Tarantism is not fatal, but the character requires care during her bouts of frenzied dancing; at a minimum she must be fed by others. Hearing a particular tune, the tarentella, cures the listener, and often an epidemic of tarantism is followed by the arrival in town of faerie minstrels who offer to cure the disease — for a price.
 
-## *Childbed Fever*
+## Childbed Fever
 
 The act of giving birth causes swings in a woman's balance of humors, which make her vulnerable to the childbed fever demon. This demon attempts to enter the woman's body as the baby leaves, where it causes chills, fever, abdominal pain, nausea, and in terminal cases a rotting of the reproductive organs that can spread to the rest of the body.
 
 When a character gives birth a Stamina roll against an Ease Factor of 6 is made. If the roll is failed the demon, which has a Might of 10 (Corpus), causes a Heavy Wound. If there were birthing complications (prolonged labor, placenta retention, conception during menstruation, or a still-birth, for example) an Incapacitating Wound is caused, instead. This is a magical attack and can be resisted with Magic Resistance.
 
-## *The Bloody Flux*
+## The Bloody Flux
 
 The bloody flux is an excess of phlegm caused by living in cold, wet conditions. It is common in towns and among campaigning armies; symptoms include diarrhea, chills, cramps, a running nose, and bloody stools.
 
 If a Stamina roll against an Ease Factor of 3, 6, or 9 (depending upon the extent of the excess phlegm) is failed, then the character contracts the bloody flux and suffers either a Medium, Heavy, or Incapacitating Wound, again depending upon the extent of the excess phlegm.
 
-## *Worms*
+## Worms
 
 Worms are agglomerated excesses of the blood humor. In a healthy person worms quickly disperse, but in an unhealthy person they build up and overwhelm the body. Children and infants are very susceptible to worms, as their bodily humors are intermixed with milk.
 
 A character with an excess of blood contracts worms if a Stamina roll against an Ease Factor of 6 is failed. This causes no immediate health effects, but a further Stamina roll must be made every season for the character, also against an Ease Factor of 6. Failing the seasonal roll inflicts a Medium Wound.
 
-## *Abscesses*
+## Abscesses
 
 Abscesses are caused by the absence of humors and are a common affliction during famine. Deprivation causes wounds (see ArM5, page 180) that manifest as pustules or abscesses on the body. Black pustules indicate a lack of yellow bile, and develop from Incapacitating Deprivation Wounds. Yellow pustules indicate a lack of black bile and result from Heavy Deprivation Wounds. Grey pustules indicate a lack of blood and result from Medium Deprivation Wounds. Light Deprivation Wounds cause red pustules, and indicate a lack of phlegm.
 
-# *Crime*
+# Crime
 
 Unlike the country, where populations are small and everybody knows their neighbor, towns are relatively anonymous and a character may attempt to literally get away with murder. In fact, murder is not the most serious crime in Mythic Europe — thievery is. This is because murder can be a "crime of passion" — and therefore primarily the fault of drink, demons, or another momentary madness — while thievery, burglary, and robbery are all only ever premeditated acts and hence worse sins.
 
@@ -967,7 +967,7 @@ Crimes are committed by ordinary people, and there are no guilds of thieves or o
 
 interrupt and attempt to apprehend any criminals that they observe; but, unlike a police force, the city-watch has no formal investigative function and does not generally attempt to solve crimes that have already happened, unless perhaps they were committed against the city-watch itself. The city-watch only interrupts
 
-## *Judicial Procedure*
+## Judicial Procedure
 
 crimes that are in progress.
 
@@ -977,13 +977,13 @@ The first step in a trial is an accusation, made by the plaintiff against the de
 
 At the time of accusation, the court has to decide whether it has jurisdiction or not. Town courts do not hold jurisdiction over a man
 
-## *Minor Social Status Virtue: Town Magistrate*
+## Minor Social Status Virtue: Town Magistrate
 
 The character has a position of judicial responsibility in the town, with a small staff of minor officials (up to five individuals). The character must be a citizen, have a score of at least 3 in the Civil and Canon Law (or Common Law) Ability, and is paid a wage or gains special privileges in return for his services. Being a magistrate occupies the character for two seasons each year, but he is free for the remaining two seasons. Academic Abilities may be bought for the character, during character generation.
 
 who disciplines his wife or children, nor do they hold jurisdiction over Church officials, who are tried by their own ecclesiastical courts under canon law. Commercial law and heresy are also judged under canon law, by the Church (see ArM5, page 205). The court can also dismiss a case it deems frivolous. Otherwise, the town court claims jurisdiction over the town's inhabitants. Additionally, there is a regional hierarchy of towns; thus, if a case involves men from several towns it is heard in the court of the most important town in the region. This only applies in relatively homogenous regions, like much of England and France. In Northern Italy, for example, a large town never cedes judicial authority to its rivals and such inter-town antagonism may lead a criminal to seek sanctuary in a rival town. Very small towns may also defer to the court of a larger neighbor. In the absence of any other agreement, town courts also claim jurisdiction over supernatural beings,
 
-## *Court Decisions*
+## Court Decisions
 
 A court session can make for an interesting story, but if the troupe wants to quickly decide a case, make a Communication + Civil and Canon Law roll against an Ease Factor of 6, on behalf of the defendant or his proxy. If the roll is successful, the defendant is found innocent. In England, the Common Law Ability is used instead. As this is a social interaction, penalties for The Gift and other Virtues and Flaws apply. The Ease Factor is modified by the following:
 
@@ -995,12 +995,12 @@ The majority of credible witnesses declare the defendant is guilty +3
 
 Civil Law, unlike Canon Law, can accept arguments that are based on logic, and so the Artes Liberales (logic) Ability can be used to influence whether a particular witnesses declarations are considered credible, or not, by the court.
 
-## *Islamic Law*
+## Islamic Law
 
 The teachings of Islam explicitly address criminal and legal matters, and thus Islamic law, or *al-shari'a*, is well defined, although there are certainly different schools of law. Troupes wishing to resolve cases using Islamic law are referred to *The Divine*, page 105.
 
 
-## *Trial by Ordeal*
+## Trial by Ordeal
 
 A defendant who insists his innocence, even when the court finds him guilty, can choose to undergo a trial by ordeal. These are administered by the Church, as it is through Divine intervention that the innocence of the defendant is proved. Trials by ordeal are archaic and severely limited or banned by many town charters. See *Realms of Power: The Divine*, page 78, for more details on trials by ordeal.
 
@@ -1016,13 +1016,13 @@ but a magistrate who doubts his ability to enforce a decision may decline to hea
 
 Once the court decides that there is a case to answer, guilt or innocence is decided, often very quickly, on the basis of witness statements, sometimes known as oaths. The strength of each oath depends upon the perceived character of the oath maker, and whichever side assembles the best selection of supporting oaths prevails. Evidence may also be produced, especially seized property
 
-## *Approvers*
+## Approvers
 
 Approvers are criminals who confess to a hanging crime, but reduce their sentence to exile by accusing their accomplices. This system is open to abuse and is an aberration of English common law not found elsewhere in Mythic Europe.
 
 that was allegedly stolen, but there are no formal procedures to gather evidence and many courts meet their costs by selling confiscated, stolen property. Forensic science does not exist and evidence gathered through magical means is normally treated very suspiciously. In some towns, particularly in Italy, the magistrate, or a panel of magistrates, decides guilt, while in other towns, especially in northern Mythic Europe, a jury of townsmen decides. A majority decision has traditionally been sufficient for panels or juries, but recently some town charters dictate that a unanimous decision is required.
 
-## *Sentencing*
+## Sentencing
 
 If a defendant is found guilty, the court passes sentence. Sometimes, the town charter dictates the sentence, but often magistrates have some discretion. A magistrate might consider mitigating circumstances like provocation or alcohol, particularly when deciding whether a death is a premeditated murder or a "crime of passion."
 
@@ -1032,14 +1032,14 @@ Murder, accidental death, rape, assault, petty thievery, and failure to observe 
 
 Sometime minor crimes (prostitution, begging, and petty thievery) may instead be punished by public shaming and ridicule, such as by placing the victim in stocks or tying them to a pole (pillory) for a period of time, in a public place.
 
-## *Prison*
+## Prison
 
 Court buildings may include small prisons with cells for a few inmates. Prisoners are either awaiting trial or execution (as incarceration is not used for punishment), and are fed, but may be required to purchase their meals. Normally, visitors are not allowed, aside from Church and court officials, although some jailers are amenable to bribes. Towns without prisons may hold prisoners in stocks for short periods.
 
 
 Prisons can also house political prisoners, such as wealthy prisoners of war held for ransom, but these are usually the prisoners of nobles and are as likely to be incarcerated in a castle tower or the camp of a campaigning army.
 
-# *Shows of Feeling*
+# Shows of Feeling
 
 With such a concentration of people, conditions can be ripe for mass hysteria. While the authorities are keen for the populace to rise up *en masse* in defense of the city, the mob can react with violence against those same authorities or a scapegoat. Riots in the streets are usually directed against anyone who stands out as being different, so anyone with The Gift is potentially at risk. In periods of economic hardship, citizens often band together to vent their feelings on a particular individual or group. Magi or other inhabitants of a covenant themselves, or traders and craftsmen made noticeably better-off by their known association with strange people, even if nothing is known about the covenant, are likely targets for this unrest. Violent discontent can turn against the town's patron saints if they appear to be neglecting their duty to mediate between the citizens and their Creator, or failing their protectorate in some other way. In this case, the peoples' action typically takes the form of humiliating the relics of the saint, for example placing the reliquary containing them on the fl oor of the church on a bed of thorns until the problem is resolved (see *Realms of Power: The Divine*, page 87). If conditions are right, a charismatic preacher can easily rouse the townsfolk to extravagant displays of piety and extreme penitential practices, for example group public fl agellation. Celebrations too can become heightened in the crowded streets of a city, generating a carnival atmosphere, which, perhaps with help from minor demons, may sweep people along
 
@@ -1048,7 +1048,7 @@ The largest towns in Mythic Europe, with populations over 50,000, are Constantin
 
 Following are some brief notes on some towns of various sizes and levels of importance that the magi might visit. The information about the smaller towns (Ipswich, Kolding, and Anizy-le-Château) can be easily transferred to small towns in other regions, by troupes that are not bothered by historical inaccuracy, as can some of the story seeds for the larger towns.
 
-## *Florence*
+## Florence
 
 Florence (Florentia) was founded by Julius Caesar in 59 BC at the confl uence of two streams, the Arno and the Mugone. It was briefl y a center for the Cult of Isis, until conversion to Christianity in the third century at which time two churches, San Lorenzo and Santa Felicita, were built. There are now 48 churches within Florence, but much of the
 
@@ -1057,13 +1057,13 @@ old Roman city still stands, including baths, pavements, and a sewage system.
 
 Today, Florence has a well-developed cloth industry and a banking industry that, if your saga follows history, will dominate Mythic Europe within the next 50 years. The Florentine sky is pierced by 90 towers, each the preserve of a noble family. Alliances of these families, tower societies, control portions of the city, and since 1216 the city has been split by a feud between two factions: the Guelphs and Ghibellines. Imitating the tower societies, the city merchants formed, in 1182, their own societies, the Arte dei Mercanti, which have spread to many other cities. The final piece on the crowded chessboard of Florentine politics is the commune, whose officials are elected for two month terms and have governed Florence since 1138, except for a brief period from 1185, when Frederick Barbarossa conquered Northern Italy and imposed
 
-## *Story Seed: Florence*
+## Story Seed: Florence
 
 In Piazza San Firenze, part of the old Roman settlement, is a magical regio within which stands the Roman Temple of Isis. The Temple appears abandoned, but it is in good repair and a covenant could be sited within it. The High Priestess and her immediate followers may still occupy hidden, higher levels of the regio and relics of both the Cult of Isis and the Cult of Mercury can be found in the Temple. The relics of the Roman cults could be a rich source of Hermetic innovation, but a covenant sited in Florence would run the risk of becoming embroiled in the feuds that dominate the city.
 
 a marquis. The paralysis of internal political squabbling has caused the city to institute the office of Podesta; this is an outsider arbiter invited by the city to lead it in times of external military threat.
 
-## *Constantinople*
+## Constantinople
 
 The Greek city of Byzantium was founded in 658 BC by the sailor Byzas, at a site suggested by the Oracle at Delphi. The gateway between Europe and the Orient, it is a vibrant trading city, and has a market for religious relics. In 73 Byzantium became part of the Roman province of Bithynia-Pontus and, following a revolt in 196, the city was recaptured by the Roman Emperor Septimus Severus, who constructed the Hippodrome arena, baths, and palaces in the city. The Emperor Constantine renamed the city Constantinople in 324, declared it the new Roman capital, and built within it many churches and monuments. The Roman Empire collapsed in the west, but with its new capital remained strong in the east, until 1204 when the knights of the Fourth Crusade captured Constantinople. They crowned Baldwin IX, Count of Flanders, the first emperor of the Latin Empire of Constantinople, but Baldwin did not reign for long and in 1205, while in battle against King Ivan of Bulgaria, he mysteriously disappeared. He is believed to be dead, but there are rumors of sightings in Flanders. The current Latin Emperor is Robert of Courtney.
 
@@ -1073,27 +1073,27 @@ Constantinople is partitioned into eight sections, each independently governed u
 
 different Crusader groups. Venetian merchants occupy the three most favorable sections and the Venetian clergy, who deposed their orthodox Byzantium brethren, also dominate the many churches. Constantinople has declined since the arrival of the crusaders, as trading profits now flow to Venice.
 
-## *London*
+## London
 
 London, the largest city in Britain, is a center of commerce located in the south of England. London was completely destroyed in 61 by the Romans, following Queen Boudica's rebellion, but they rebuilt the city in 100, and it grew to have a population of 30,000 on the eve of Rome's retreat from Britain. Following the departure of the Romans, London's population slumped. It was sacked, again, by Vikings in 851, then resettled by King Alfred in 883, and has since regrown.
 
 London is very crowded, plagued by rats, and fire regularly destroys portions of the city. The polluted river Thames, straddled by London Bridge, runs through the city and is a potent source of disease. The bridge is made of stone and was completed in 1209. The largest landowner in London is the Church, but the authority of the highest public office, the Lord Mayor, stems from a royal charter. The mayor heads a council of aldermen, and the first mayor, Henry fitz Ailwyn, served for 23 years from 1193. He oversaw the formulation of the city's first modern charter in 1204. In 1215 King John granted an updated charter, and the current Lord Mayor, Serlo Le Mercer, took office in 1218.
 
-## *Brugge*
+## Brugge
 
 In 862, the first Count of Flanders, Baldwin I, was exiled for kidnapping and marrying Judith, daughter of the French king, Charles the Bold. When he arrived at the site of Brugge he fought a ferocious bear that attacked from the forest. Baldwin was victorious, but the bear, magically transformed, joined Baldwin's retinue, and became the first citizen of Brugge.
 
-## *Story Seed: Brugge*
+## Story Seed: Brugge
 
 Brugge was once little more than a castle that collected tolls from merchants crossing the Reie river, but its fortunes changed in 1134 when a storm altered the coastline and carved a deep channel, the Zwin, that brought the town to within a mile of the sea. A sea dragon created the storm, in a secret agreement with Countess Jeanne's great-grandfather, Derrick of Alsace. Two sailors, thought to have recently drowned, have arrived in town, claiming to be the dragon's emissaries. They threaten to render the Zwin impassable if accumulated tolls owed to the dragon are not paid.
 
-## *Story Seed: Constantinople*
+## Story Seed: Constantinople
 
 The covenant is approached by an agent of the Byzantine Emperor, Theodore Lascaris, who lives in exile in Nicea. The agent explains that in antiquity the goddess Hecate saved Byzantine from siege by Phillip of Macedon, and he offers a rich reward to the magi if they will help contact the goddess to expel the city's Latin usurpers. Hecate is a powerful faerie who lives in a regio coincident with
 
 Constantinople, which can only be entered by a character following a ritual path illuminated by a crescent moon. The precise method to enter Hecate's regio has been lost, however, and the magi need to find an archaic account of the ritual. If they do manage to contact Hecate, the magi must convince her to assist the exiled emperor, and she was sorely offended by the city's conversion to Christianity under the Romans.
 
-## *Story Seed: London*
+## Story Seed: London
 
 In the grounds of the Tower of London is the Royal Menagerie, which houses exotic animals, including lions, ostriches, and zebras, that have been gifted to the King of England by his peers. A faerie queen, calling herself Titania, has recently gifted the King of England a hippogriff, but it has fallen ill, leading agents of the king to seek out the magi for assistance. The magi can establish that the hippogriff has been poisoned by the strong Divine aura emanating from the many churches of London, and that it will die within a few seasons. The king's court does not wish to insult the faerie queen by killing her gift, but the court also feels that returning the hippogriff or moving it to a country estate will equally insult the queen. Quite apart from these considerations, the magi may wonder why the faerie queen is exchanging gifts with the King of England, and what she received in return.
 
@@ -1102,7 +1102,7 @@ The current lord of the town is the Countess Jeanne of Flanders, who is without 
 
 Today, Brugge is a major power in the wool, weaving, and cloth industries. A council of elected officials governs the city, collects taxes, and supervises public works including the canals that link the city to the sea. Foreign merchants are permitted to own property and a number of foreign enclaves have begun to grow outside the walls of the town proper. Craftsmen are not allowed to own property and have fewer rights than merchants.
 
-## *Acre*
+## Acre
 
 Acre is the major port in the Kingdom of Jerusalem and the center
 
@@ -1111,17 +1111,17 @@ of Christian activity in Outremer, or the Holy Lands. It is a very dangerous pla
 
 Acre's harbor is surrounded by enclaves of Pisan, Genoese, Venetian, and Marseilles merchants. Each enclave has its own charter, churches, fortifications, markets, and system of taxation. Acre's urban landscape is further complicated by the presence of the military orders, the Hospitaller Knights of St. John, the Teutonic Knights, and the Knights
 
-## *Story Seed: Acre*
+## Story Seed: Acre
 
 An Hermetic covenant sited near Acre may be mistaken for an outpost of a military order, particularly if it has an obviously armed turb, and therefore it is likely to be attacked — probably by Muslim forces, but possibly by a military order seeking to gain an edge over their rival orders. If Hermetic magi are known to be in or near Acre, they are likely to be approached by one or more Crusader factions that either seek magical assistance for their military strategies or seek help to recover relics captured by Muslims.
 
 Templar, each of which control their own sections of the city. Finally, as Jerusalem has not been re-conquered, Acre is the nominal capital of the Kingdom of Jerusalem and a further section of the city is under the control of the king. St. Francis of Assisi visited Acre during his time with the Crusaders, but he departs for Venice in July 1220, to resolve a crisis in the Franciscan Order, and never returns to the Holy Land.
 
-## *Ipswich*
+## Ipswich
 
 Ipswich has a population of around 300 burgesses, and is the chief town in the county of Suffolk. Originally an Anglo-Saxon settlement, it was granted a charter in 1200 by King John, of England, giving the townsfolk a court, exemption from tolls throughout England, a merchant guild with a monopoly on milling in the area, and the right to
 
-## *Story Seed: Ipswitch*
+## Story Seed: Ipswitch
 
 Reports have reached the bailiffs of Ipswich that the nearby covenant mills its own grain with a magical millstone. Concerned that the town's monopoly on milling is in danger the bailiffs send a delegation to the covenant to investigate. The bailiffs intend to destroy, or perhaps capture, the magical millstone. Clearly, the magi can easily prevent this happening if they wish, either by killing the bailiffs, or by using Imaginem or Mentem magic. However, if the magi's impedance of the elected bailiffs is discovered it may ultimately draw down the wrath of the King of England, in whose name the bailiffs operate.
 
@@ -1130,11 +1130,11 @@ elect two bailiffs and four coroners to administer the town. In return, the town
 
 Ipswich has a large grain market on Cornhill Street, which also sells local meat, timber, fish, wool, bread, and dairy products. Market day is Tuesday and traders pay an annual fee of three pence. At the quay, foreign imports can be purchased, including iron from Spain and Normandy. The bailiff's tollhouse, St. Mary's Church, St. Mildred's Church, and the mills of the merchant guild are the most important buildings in town. The county jail has just been constructed in Ipswich.
 
-## *Kolding*
+## Kolding
 
 Kolding is a small trading town built at the head of Kolding Fjørd, on the border between the Kingdom of Denmark and Duchy of Schleswig. Currently, the King of Denmark
 
-## *Story Seed: Kolding*
+## Story Seed: Kolding
 
 The townsfolk have just begun to plan the construction of a stone church, dedicated to Saint Nicholas, which will replace a small wooden church. It will take about 30 years to complete the church, partly because of the interference of a local faerie winter king who fears the encroaching Dominion aura. Eventually, the townsfolk approach the covenant for assistance in dealing with the faerie nuisance. Saint Nicholas is venerated, in northwestern Mythic Europe, for miraculously resuscitating three children who had been murdered by an innkeeper who pickled them in brine.
 
@@ -1142,22 +1142,22 @@ The townsfolk have just begun to plan the construction of a stone church, dedica
 
 In 1220, Kolding has 200 inhabitants whose prosperity relies on both a fishing industry, based in the Fjørd, and a weekly market for farm produce. The town also controls the sole crossing over the river Kolding, which must be used by road traffic between Denmark and Schleswig this is the road route taken by merchants from Germany, further to the south. A royal customs house collects taxes from cattle merchants using the Sønderbro bridge, but, as the town's current charter is only rudimentary, most taxes are sent directly to the king.
 
-## *Anizy-le-Château*
+## Anizy-le-Château
 
 Anizy-le-Château is a town with a population of 300 that dominates a constellation of fourteen smaller towns in Laonnoise (southwest of Laon in France). In the past, the towns were harshly taxed by their lord, the Bishop of Laon, so in 1174 the townsfolk petitioned King Louis VII for a charter — which he granted. This outraged the bishop, Roger of Rozoy, who marched on the town, and in 1177 his knights, in a battle near the town mill, slaughtered both the town militia and their allies from the neighboring towns of Laon and Soissons. The king seized the bishop's worldly goods in retaliation, but was forced to back down and revoke the town's charter in 1179 because the Bishop's cousin, the count of Hainault, was an important ally of England with whom the king was unwilling to risk conflict.
 
 In 1185, the new French king Philip Augustus summoned Bishop Roger and representatives of the townsfolk. He imposed a compromise charter that fixed rent and appointed a court of 12 echevins to try disputes between the bishop and town, but tensions still remain.
 
-## *Ilium*
+## Ilium
 
 This port town, on the Aegean coast south of Constantinople, has magnificent walls built by Poseidon within which lives a population of 1,000. The town is located in a faerie
 
-## *Story Seed: Ainzyle-Château*
+## Story Seed: Ainzyle-Château
 
 Despite the compromise charter, the bishop of Laon still places an impossible tax burden on the town, and the townsfolk are planning for mass emigration to the town of Soissons. The bishop's agents have discovered this and approach the covenant, which also lies within the bishop's diocese, for assistance in suppressing the brewing revolt in the town. If the magi assist the bishop they open themselves up to accusations of unnecessary interference in the affairs of the mundane; but, conversely, if they don't assist the bishop's agents the bishop may attempt to expel the covenant from his lands.
 
 
-## *Story Seed: Ilium*
+## Story Seed: Ilium
 
 A female member of the covenant is approached by a merchant while at market. The merchant claims to be from the town of Ilium, and he tells her of a beauty contest held by lord Priam's son Paris during Ilium's mid-summer fair. Convinced that the woman's beauty will win the contest, the merchant offers to take her to Ilium in return for a share of the prize.
 
@@ -1165,14 +1165,14 @@ grants the townsfolk a market, an assembly that judges criminal cases, and the r
 
 Hermetic scholars are divided as to whether this actually is the Trojan town besieged by the ancient Greeks, or merely a faerie imitation. The
 
-## *Further Information*
+## Further Information
 
 *Guardians of the Forests* provides some information about towns located in the Rhine Tribunal, and the supplements for the other tribunals provide relevant information about the towns within them. Troupes that wish to set an historically accurate saga in a large city may like to visit their local library for further information about the city, as there is insuffi cient room in this text to provide all details
 
 
-## *Chapter Two*
+## Chapter Two
 
-# *Labor*
+# Labor
 
 *A normal character must work for two seasons, and gets two seasons "free." However, he cannot leave his job for two seasons, as the free time is spread over the year. Thus, he can only undertake study that he could do in and between his job. The two seasons spent working generate Exposure experience.*
 
@@ -1201,13 +1201,13 @@ The Wealthy Virtue and Poor Flaw determine how much free time a character has, b
 
 Constantinople's Silk Makers' Guild also receive this level of income. There are perhaps three merchants and a half-dozen guild deans in all of Europe with this much power. Player characters never start with this level of income.
 
-# *Labor and Livelihood*
+# Labor and Livelihood
 
 A character working to earn a livelihood gains Labor Points, which represent the time the character spends tending his business. A character gains no Labor Points in a season where he does something other than tend his business; that is, if he gains experience other than Exposure experience. The one exception to this is that some stories allow a character to improve his business, thus gaining Labor Points while also gaining Story experience (see Labor Points from Stories, below).
 
 A character gains (primary Characteristic + Craft) or (Communication + Profession) Labor Points per season worked. This figure is multiplied by two if the character is Poor, by three if the character is average, and six if the character is Wealthy. It costs 36 Labor Points to maintain a character's business interests at their current level. Therefore, a Poor character works for three seasons a year, an average character for two, and a Wealthy character for one.
 
-## *Improving Wealth and Social Status*
+## Improving Wealth and Social Status
 
 Characters who accumulate surplus Labor Points may spend them to increase their financial and social status.
 
@@ -1221,7 +1221,7 @@ A character striking bad financial times can lose his level of wealth or Social 
 
 Moving to a higher income band costs the Labor Points noted above, but also costs a season of time. This reflects the arrangements required for a character to purchase the vehicles, hire the employees, and secure the premises suited to a merchant of the higher status. Moving to a Greater or Legendary source of income also requires success in explanatory stories, in which the merchant is the main character. Some troupes may require multiple stories for advancement.
 
-## *Overwork*
+## Overwork
 
 Characters may speed their advancement by working harder, or spending less, than society requires. This gives the character a poor Reputation for impiety or avarice. Players should be aware that modern views on money and work are alien in Mythic Europe. The following guidelines will help them model appropriate behavior.
 
@@ -1241,7 +1241,7 @@ Characters who feel little compunction against killing the murderous little anim
 
 also choose to live as an average or Poor person, which provides an extra season of Labor Points every three years, or every year, respectively. This imposes 1 or 3 experience in a Reputation for miserliness every year.
 
-## *Labor Points from Stories*
+## Labor Points from Stories
 
 Characters gain additional Labor Points by completing stories that improve their economic or social status. Many adventure seeds have been scattered through this book, and each has a value in seasons of Labor Points. A "season" equals however many points a character would normally earn from (primary Characteristic + Craft) x Wealth
 
@@ -1260,11 +1260,11 @@ As a guide, stories earn:
 
 Stories completed swiftly sometimes do not prevent the character from working for Labor Points during a season.
 
-## *Investing Time*
+## Investing Time
 
 Characters may invest their time or profits, as represented by Labor Points, to improve their businesses. Investments, like Ability training and laboratory work, are essentially minor stories that the character is involved in, without the troupe actually playing them. In the non-dangerous story hooks given in this book, a Labor Point reward is given for if the incident is played, and a smaller reward is given for if the story is just an investment.
 
-## *Money and Investment*
+## Money and Investment
 
 Labor Points cannot be directly converted into money, because they represent the merchant's time, or the rewards he has gained for spending time fruitfully. This means that a Labor Point from a capo, who runs a trading empire, is worth far more than a Labor Point from a journey-
 
@@ -1282,9 +1282,9 @@ This means that 6 Labor Points from a Poor person, or 12 from an Average person,
 Characters may use this table to invest money into a business, but generally may not use it to convert their Labor Points into Mythic Pounds. There is no practical way for most merchants to sell moments of their surplus time in this way, although craftsmen can: see Chapter 4: Crafts, for details.
 
 
-## *Chapter Three*
+## Chapter Three
 
-# *Guilds*
+# Guilds
 
 With the rise of city populations and the increasing governmental autonomy of many urban centers, medieval craftsmen have developed organizations to protect and provide for their common trade. A **guild** is a community of workers, both employees and employers, who all engage in the same livelihood. There are three types of guilds: **craft guilds**, **service guilds**, and **merchant guilds**. Craft guilds are groups of craftsmen who produce finished goods, and service guilds are groups of laborers who provide a service. Merchants also band together in guilds, but these differ slightly from craft and service guilds and are detailed in Chapter 7: Trade.
 
@@ -1301,7 +1301,7 @@ While all guilds operate using the same principles, not all guilds are equal, an
 Guilds are not international entities. The Guild of Blacksmiths in Paris has much in common the Guild of Blacksmiths in Venice, but they are not connected in any official capacity, and a Parisian guild member is as forbidden from working in
 
 
-## *Guild Member Ages & Abilities*
+## Guild Member Ages & Abilities
 
 Much of a guild member's rank depends on his age, which should also indicate the number of years he has been working at his craft. The following chart provides a rough guideline for appropriate Craft Ability scores for a guild member depending on his age and rank. It also suggests a secondary Ability necessary for certain ranks of guild characters. It can also be helpful in determining a starting character's appropriate Craft Ability. These are only suggestions and should not be used to impose arbitrary limits on any troupe's saga.
 
@@ -1330,7 +1330,7 @@ Some guilds demanded longer lengths of apprenticeship from the young men learnin
 | Carter, Armorer                          | 11                             |
 | Silversmith,<br>Chestmaker,<br>Bookmaker | 12                             |
 
-# *Guild Members*
+# Guild Members
 
 Guild members are divided into **apprentices**, **journeymen**, **masters**, **senior masters**, and the master of the guild, the **dean**. Guilds elect their own leaders from within their membership and obtain the legal right to hold their own courts, where litigation between members and from dissatisfied clients can be adjudicated. To ensure that all guild members are following proper procedures, guilds have a board of officials whose responsibility is to police its members. **Guild officials** are selected from the ranks of the senior masters. These officials are called a variety of names by different guilds, and while "alderman" and "bailiff" are common titles, many guilds merely refer to them as "officers". They regulate both the internal activities of the guild and its external concerns.
 
@@ -1344,7 +1344,7 @@ Guild Lore is an (Organization) Lore Ability that covers the rules and bylaws of
 
 deans must have a Guild Lore score of 3. Leadership is important for guild members who intend to employ multiple workers in their workshops to meet their guild requirements. Artes Liberales is required for master guild member characters, who deal in written contracts, itemized inventory lists, and a large accumulation of guild regulatory documents. These documents are primarily written in the craftsman's native vernacular, so a score in Latin is not needed, although it is handy for the proliferating trade manuals written by ecclesiastical craftsmen.
 
-## *Guild Apprentices*
+## Guild Apprentices
 
 Guild apprentices are young boys who are learning their trade from an experienced guild craftsman. Most apprentices learn from their
 
@@ -1410,7 +1410,7 @@ An apprentice piece is a shoddy product, and would never be offered for sale. It
 
 The unlucky few who fail when making their apprentice piece continue to serve their master for another season, at which point they may attempt another piece. If an apprentice cannot pass this test by the time he is 20 years old, he is dismissed as incompetent. He gains the bad Reputation of Incompetent 3 in the town he apprenticed in. Such unfortunates sometimes find themselves employed at a covenant, willing to work for the unsavory Gifted overseers rather than face a life of not working at all.
 
-## *Journeymen*
+## Journeymen
 
 Journeymen are craftsmen who have been trained as apprentices by a guild master and legally empowered by their guild to practice their craft. Journeymen own the tools necessary for their trade and have the legal right to work to make a living. Each journeyman has his own personal stamp to mark the goods that he has made. As a member of the guild, a journeyman may work for a master, making a binding contract with him for a set wage over a stipulated period of time. He may supervise the master's apprentices and sell his crafts in the master's shop.
 
@@ -1445,7 +1445,7 @@ Bargaining for a good contract is an essential skill for every journeyman. To re
 | 12             | +1                              |
 | 15             | +2                              |
 
-## *Story Seed: "No Work, No Pay"*
+## Story Seed: "No Work, No Pay"
 
 A distraught wife shows up at the covenant asking for help. Her husband, a journeyman goldsmith, has been ill for several months. His contract, like most journeymen's, states he must work a certain number of hours per day, six days a week, and that he does not get paid when he doesn't work, whether through illness, religious festivals, or other mitigating circumstances. Doctors can't relieve his illness and his health steadily deteriorates. His wife is sure
 
@@ -1472,7 +1472,7 @@ A journeyman must pay an annual fee to his guild. The fee varies among guilds, w
 
 Journeymen characters advance in season experience points just like
 
-## *Obano, Journeyman Swordsmith*
+## Obano, Journeyman Swordsmith
 
 **Characteristics:** Int +1, Per +1, Pre
 
@@ -1516,11 +1516,11 @@ His former master dealt illegally with his suppliers, and Obano has evidence of 
 
 any other character, receiving two Exposure and two free seasons of experience points per year. One of their Exposure seasons will typically be spent training one of the apprentices working for their master.
 
-## *Guild Masters*
+## Guild Masters
 
 Master characters must have the Minor Social Status Virtue Guild Master. They should be at least twenty-five years old at character
 
-## *Doolin, Guild Master Clothier*
+## Doolin, Guild Master Clothier
 
 **Characteristics:** Int +1, Per –1, Pre +2, Com 0, Str –1, Sta –1, Dex +3, Qik 0
 
@@ -1570,7 +1570,7 @@ It is rare for a master to live at a covenant, since his guild operates in an ur
 
 
 
-## *Senior Masters*
+## Senior Masters
 
 Senior masters have been practicing their craft as masters for ten years or more. They continue to have all of the rights they had as masters, the biggest change being the weight their opinions carry in guild meetings. These are the men to whom other members defer to when faced with perplexing or complicated guild dilemmas.
 
@@ -1581,7 +1581,7 @@ Senior masters have the option of owning more than one workshop, a very lucrativ
 
 ters may effectively operate a number of workshops equal to one half their Leadership score rounded up.
 
-## *Guild Officials*
+## Guild Officials
 
 Senior masters serve as guild officials, men who are selected to oversee the regular operation of the guild and to ensure that guild members adhere to guild rules. The guild officials approve the acceptance of both journeymen and masters, legally recognizing their position at the request of another master. They witness the newly appointed craftsman's signing of the guild roster and accept his registration fee. They are also responsible for collecting other dues guild members owe, including annual dues and levied fines. Complaints about masters are brought to the officials, who have been authorized to legally deal with such suits. The most common complaints are that a good is inferior and below standard guild quality, or that a shipment of delivered goods was less than the specified amount. The complaint is either brought to an individual guild official or the board of officials. An official is assigned to investigate the complaint, using whatever resources he has available, before the board determines the guilt or innocence of the accused master. The officials levy a fine or, in the most extreme cases, expel the master from the guild.
 
@@ -1602,7 +1602,7 @@ From among the guild officials, one or two are selected to serve as **inquisitor
 
 If you wish your character to be a guild official or an inquisitor, he must have the Major Social Virtue Senior Master. Since most guilds change officials frequently, there is no other game mechanic necessary. Your storyguide can either run a story or two in which your character achieves his goal, or merely allow him to already be in that role. Stories involving your character as an inquisitor can be just as entertaining as a story about how he got that position.
 
-## *Guild Dean*
+## Guild Dean
 
 At the head of every guild sits the dean of the guild, a senior member chosen to represent the guild politically. Different guilds use different titles to designate the dean of the guild; "hansgraf" and "doyen" are popular titles in the north. In some areas, guilds are often referred to as the (Craft) House, and the dean of the guild is known as the Count of the (Craft) House.
 
@@ -1660,7 +1660,7 @@ A dean receives a large annual stipend from his guild. This stipend runs from 20
 The life of the dean is spent meeting with officials, guild members, town governors, ecclesiastics, and secular nobles. He negotiates the many contracts and privileges his guild desires, dealing with the aforementioned parties to increase his guild's stability and revenues. He signs every guild document and contract, and is responsible for every outside interaction the guild participates in. He and his personal staff organize feast days and holy day parades, debating his guild's place in the parade with the other guild masters. He is interested in how parallel guilds operate in other towns and travels to or entertains foreign guild masters who share his trade.
 
 
-# *Craftswomen*
+# Craftswomen
 
 *If a woman wants a trade, she had best become a nun.*
 
@@ -1678,7 +1678,7 @@ Opportunities for advancement are actually better for women who practice in a ma
 
 For your **Ars Magica** saga, this means that any character, regardless of sex, can play any craft role the player desires. The free General Virtue Male Guild Sponsor allows female characters to participate in any
 
-## *Craftsmen Social Status Flaws*
+## Craftsmen Social Status Flaws
 
 Some craftsmen have fallen on hard times or made awkward decisions in the past that have negatively affected their social status. You may select one of the following Flaws instead of the nearby Virtues for your character's social status. Remember that every character must have either a Social Status Virtue or Flaw.
 
@@ -1710,7 +1710,7 @@ The guild system introduces several new social divisions among craftsmen in Myth
 
 **Guild Dean (Major):** The character is the ultimate authority of his guild, the man who decides many of the important decisions that face the guild and represents it politically. The character is involved in town politics, long-term trade contacts, and negotiations with other guilds and local craftsmen. The town's population views him as an important and prestigious member of their community. You may select Academic Abilities at character generation.
 
-# *Craft Guilds*
+# Craft Guilds
 
 Craft guilds exist in urban centers with a prosperous economy and a predilection for a particular craft, often based on local resources. The most prestigious, profitable trades are run by guilds. Similar guilds that exist in different towns are not connected, although they possess similar regulations for their members. Thus, there is not one international Wool Makers'
 
@@ -1738,7 +1738,7 @@ Guilds that deal in large-scale operations that produce common goods are likely 
 
 For sagas starting in 1220, guilds generally correspond directly to a particular Craft Ability, and allow all the workers who practice that craft to be members. For sagas set in the late 13th or early 14th centuries, guilds are increasingly defined based on Craft Ability specializations. For example, 1220 sagas might include a single Blacksmiths' Guild, whereas a 1300 saga could instead have Locksmiths', Horseshoers', and Nail Makers' Guilds. Similarly, in 1220 a Scribes' Guild might include percamenarii (makers of parchment), copyists, illuminators, bookbinders, and booksellers, but by the end of the 13th century, each of these divisions of labor may have its own guild. The same might be true for a Wool Producers' Guild, which might separate into Shearers', Bleachers', Dyers', Weavers', Fullers' (who fold and press the cloth), Tailors', and Second-Hand Sellers' Guilds.
 
-# *Service Guilds*
+# Service Guilds
 
 Service guilds are organized around a particular service provided rather than a good produced, but despite this obvious difference, they operate similarly to their craft guild brethren. The earliest service guilds, sometimes called professional guilds, were for doctors, lawyers, and judges. These well-trained men provide specialized and expensive services, and have banded together to make sure that they get paid a reasonable fee. Operating in such lucrative fields and being highly educated, these men have the financial and intellectual wherewithal to form guilds. In addition, many of them have ties to wealthy nobles, merchants, and other urban governors, which also facilitated their guilds' early development.
 
@@ -1750,11 +1750,11 @@ their system of regulated labor, and the late 13th century saw a cascade of prof
 
 Characters participating in service guilds should conform to all of the regular rules of craft guilds, including the ranks of members, lengths for apprenticeship, and rights and responsibilities of each type of member. Replace the requirement for specific scores in a Craft Ability with a requirement for the same score in a Profession Ability. Rather than workshops, service guild characters operate **labor pools**, which are gangs of employees who assist the master laborer.
 
-# *Specific Guilds*
+# Specific Guilds
 
 The sections that follow detail a number of guilds that can be found in any urban environment in Mythic Europe. Space precludes detailed treatment of the hundreds of guilds that exist in Mythic Europe, and this section provides merely a sampling.
 
-## *Blacksmiths*
+## Blacksmiths
 
 Blacksmiths are steeped in the mystical power of iron. The blacksmith is frequently the strongest man in the village, and is often the most virile. Some blacksmiths are believed to be able to cure or curse with a touch, while others can change the weather. Each blacksmith is a master of forge and bucket, of bellows and hammer, and he makes other people powerful.
 
@@ -1764,7 +1764,7 @@ Blacksmiths work iron ore into tools, horseshoes, and other finished hardware. T
 
 A blacksmith's shop is smoky, smelly, loud, and hot. The iron is heated to become malleable and then hammered into shape, usually taking several sessions of heating and hammering. Beside horseshoes, blacksmiths make nails, bolts, wheel rims, cooking pots, and plowshares. They
 
-## *Story Seed: a Thief in the Night*
+## Story Seed: a Thief in the Night
 
 A blacksmith is plagued by a faerie, who routinely sneaks into his shop and steals one of his tools, replacing it with a replica made of clay. Because of the many sorts of punches, awls, and hammers that the smith uses, this substitution is not immediately noticed, and the smith has no idea how often the faerie visits. The theft is noticed when the blacksmith uses one of the forgeries and it breaks immediately.
 
@@ -1779,7 +1779,7 @@ Apprentices are not required to provide an apprentice piece or pass any sort of 
 
 The patron saint of blacksmiths is Saint Dunstan, whose feast day is May 19.
 
-## *Tanners*
+## Tanners
 
 Tanners work in offal and excrement to make leather out of skinned animal hides. Wealthy residents demand that tanners work outside towns, because of the smell of the tanning process. The moment the process is finished, however, rich people buy leather copiously. Potential buyers can find their way to "Tanners Street" by following their nose. Tanners know that every shoe, every book, every bridle, was once covered in shit. They tend to be cheerful souls, not given to idolizing the rich. God Himself is, after all, a tanner (Genesis 3:21).
 
@@ -1793,7 +1793,7 @@ Tanners are useful to a covenant because they are guides to a community that lie
 
 The patron saint of tanners is Saint Bartholomew, whose feast day is August 24.
 
-## *Glass Makers*
+## Glass Makers
 
 Glassmakers practice the art of fragility. Glass is destroyed, in its creation and during its use, with a moment's inattention. It is the material of ephemera and reflections. The rich use it for beautiful adornments that might, with a single slip or blow, be destroyed.
 
@@ -1814,7 +1814,7 @@ Because of their work requires multiple furnaces, glass makers do not work in th
 
 The patron saints of glassmakers are Saint Luke (feast day October 18) and Saint Mark (feast day April 25).
 
-## *Armorers*
+## Armorers
 
 Armor symbolizes the barrier separating the nobility from the rising merchant class. The armorer is usually forbidden to use the product of his labor. While a glassmaker may drink from a glass, or a weaver wear clothes he has made, armorers do not have the right to wear armor. Many urban communes impose restrictions on who can legally wear armor, and only the nobility and the town authorities have that right.
 
@@ -1837,7 +1837,7 @@ An armorer's apprentice must be able to construct a full suit of chainmail by hi
 
 The patron saint of armorers is Saint Eligius, whose feast day is December 1.
 
-## *Clothiers*
+## Clothiers
 
 Clothing allows people to communicate their role and status. This allows other people to defer to them appropriately. The function of clothiers (also known as tailors), then, is to make apparent, through their work, the quality of the wearer. The clothier allows the nobleman to look noble and the priest to display his piety. Clothing hides the body, but reveals the nature of the wearer.
 
@@ -1856,7 +1856,7 @@ Clothiers do not repair torn clothes. This task has been delegated to the cloth 
 
 The patron saint of clothiers is the recently canonized Saint Homobonus, a tailor from Cremona who regularly gave free clothes to the poor. His feast day is November 13.
 
-## *Shoemakers*
+## Shoemakers
 
 Shoemakers permit travel, which allows people to become greater than ever they could if they remained home. Every pilgrim requires comfortable shoes. Every quester needs stout boots. Every merchant requires durable footwear. Shoes separate people from the earth, just far enough that they can find other places in which to thrive.
 
@@ -1875,7 +1875,7 @@ An apprentice must merely complete the length of his apprenticeship to achieve j
 
 The patron saints of shoemakers are Saint Crispin and Saint Crispinian, two third-century Roman preachers who made shoes instead of living off alms. Their feast day is October 25.
 
-## *Masons*
+## Masons
 
 Many masons have lives of toil, but also of service. They are the builders of castles, cathedrals, bridges, and all other great architectural works. Each of these buildings has a dramatic effect on surrounding people, and the masons can take pride in what their work achieves. Many sign stones set into the foundations of their buildings, which provides them with a subtle, mystical connection to the site.
 
@@ -1907,7 +1907,7 @@ The patron saint of bakers is Saint Honoratus of Arles, whose
 
 feast day is January 16. In the years to come they will also adopt Saint Elizabeth of Hungary as a patron saint. She will die in 1231 and be canonized four years later. Her feast day is November 17.
 
-## *Slavers*
+## Slavers
 
 The Roman Empire and much of early medieval Mythic Europe was built on the sweat and toil of slaves, and though abating, this practice continues in the 13th century. Christian slaves have been forbidden by the Church and many secular rulers since the ninth century, but the sale of non-Christian slaves is still allowed. Slaves come from the Slavic lands, Spain, Africa, Constantinople, and the shores of the Black Sea.
 
@@ -1924,9 +1924,9 @@ Characters desiring to free slaves will find allies in the Church. Three orders 
 You should be aware that not every troupe will appreciate the inclusion of slavery in their saga, and the buying and selling of human beings could be found distasteful. Players wishing to play slave or slaver characters should consult *Guardians of the Forest* and use the Virtue and Flaw suggested on page 102.
 
 
-## *Chapter Four*
+## Chapter Four
 
-# *Crafts*
+# Crafts
 
 In the 13th century most working people derive their subsistence from the land, engaging in the agricultural occupations that are still the foundation of Mythic Europe's society. Like their forefathers, they till the soil of inherited fi elds, raise cattle, grow crops, develop additional arable land, herd sheep and feral pigs, and regularly combat nature's intrusions into their cultivated holdings. Agricultural concerns permeate every aspect of medieval life and touch every member of society, regardless of social rank or geographical location. Even Paris, one of the largest community centers of the West, has set aside specifi c districts of the city to accommodate the populations' agricultural needs for raising livestock and personal vegetable gardens.
 
@@ -1941,7 +1941,7 @@ Regular craftsmen are independent operators, working at their own trade under th
 
 Even the simplest tailor knows that he'll sell more shirts in an area where more shirts are worn. Larger population centers also provide craftsmen with more autonomy. Rather than live under the yoke of a distant lord or unapproachable cleric, an urban craftsman enjoys a degree of per-
 
-## *Companions vs. Grogs*
+## Companions vs. Grogs
 
 There is a natural assumption that **Ars Magica** companion characters should be of a higher social rank than grog characters. This is not necessarily so. Companions and grogs are defined by their narrative role; if you want your character to be a central protagonist in the troupe's stories, no matter what his craftsman rank, make him a companion. If your character is only a minor participant in the saga, make him a grog. Master craftsmen can be grogs, and apprentices can be companions. You must, however, adhere to the maximum number of Virtues and Flaws for grog and companion characters.
 
@@ -1957,13 +1957,13 @@ Craftsmen characters may train apprentices in their trade, usually family member
 
 The majority of craftsmen living in covenants are regular craftsmen. Despite their often odd environments, covenants offer craftsmen a safe and secure home in which to practice their trades. Focusing on magical endeavors, the rule of the magi is rather lax, and craftsmen find considerable freedom concerning their own affairs. Ecclesiastics can be demanding, nobles temperamental, and urban governments restrictive. While the covenant certainly makes demands on a craftsman's goods, and most likely owns the craftsman's workshop, commodities are exchanged for rent, and covenant craftsmen do not face the demands of providing room and board that their rural and urban counterparts do.
 
-## *Laborers*
+## Laborers
 
 People who perform regular tasks but create no finished products are called **laborers**. Mythic Europe is awash with such folks, who perform sundry tasks, from the most unsavory chores of digging ditches, cleaning latrines, and hauling garbage, to the more prestigious positions of waiting on bishops, cooking for princes, and serving town aldermen. Gangs of laborers are an urban phenomenon. Much of the day-to-day labor necessary to keep a rural village running is done by the residents, although bands of migrant workers wander Mythic Europe looking for temporary agricultural work.
 
 A laborer character must have the free Social Status Virtue Laborer. He does not have a Craft Ability, but rather a Profession Ability to cover the activities by which he makes his livelihood. His Profession Ability score covers his negotiations over wages, so he does not necessarily need a Bargain score, although it could be helpful in other urban activities. A score in Folk Ken might further benefit this and other social interactions.
 
-## *Covenant Craftsmen*
+## Covenant Craftsmen
 
 Most **Ars Magica** covenants include a handful of craftsmen, either specialists bought with covenant Build
 
@@ -1976,7 +1976,7 @@ Covenant craftsmen could be those who have been expelled from a guild or found i
 
 Covenants that derive their income from a trade should also consider how they fit into the greater scheme of craftsmen in Mythic Europe. To avoid serious trouble, the craftsmen should be legal masters of the guild, living outside town but operating by the guild rules. This allows them to sell their produced goods in town without any problems. If they are not guild members, they cannot sell their products in town, and you must determine where they do sell them. Perhaps they attend annual fairs and pay an increased town tax for participating. Conversely, the products could all be sold illegally, dodging local trading regulations and providing goods to carefully chosen buyers. Again, you should decide how much interaction you want with local guilds and how often you want that interaction to affect stories. Legal guild members foster fewer stories, while illegal or questionable practices should foster more.
 
-# *Crafting Items*
+# Crafting Items
 
 A craftsman's life is spent in his workshop, bent over his workbench from sunup to sundown, regularly called away from his labors by curious customers and potential buyers. The work week is interrupted by
 
@@ -2010,7 +2010,7 @@ is doing absolutely nothing for one season a year.
 Storyguide character craftsmen are assumed to be busily working in their workshops, and only need to follow these rules when asked to make a specific item, or when commissioned by the player characters for a shipment of goods. Craftsman characters use these rules to determine how many items of their trade they can produce, for creating specialized items, and for making minor enchanted items, for those who have the ability to make such things.
 
 
-# *The Workshop*
+# The Workshop
 
 The first thing a craftsman needs to pursue his craft is an adequate workshop. It takes a season to build such a workshop, either starting one from scratch or converting an existing building. The cost of construction depends on the type of goods to be manufactured. Workshops for inexpensive goods cost one Mythic Pound to construct, while those for standard goods cost two, and those for expensive goods cost five.
 
@@ -2020,17 +2020,17 @@ Rural craftsmen live in a variety of dwellings. Most common is a single story bu
 
 The size of a workshop is less fixed for a craftsman character than the size of a Hermetic laboratory is for a magus (see *Covenants*). A clothes dyer needs more room to work than a goldsmith. A craftsman character's workshop is assumed to be of an
 
-## *Specialization*
+## Specialization
 
 The intent of the specialization rules is to allow a character to gain a +1 bonus to a single aspect of a broader Ability. Craftsmen characters should pick a single item of the many that they can craft to specialize in. Alternatively, you can pick a specific sort of workshop activity your character specializes in, or a specific quality of the goods your character can produce (see Crafting Items). Good examples include Craft Blacksmith (locks), Craft Jeweler (votive crowns), Craft Embroiderer (table clothes), Craft Ivory (altars), Craft Painter (religious miniatures), Craft Weaver (shoddy goods), Craft Armorer (excellent helmets), and Craft Carpenter (standard residential houses).
 
 adequate size for the proper operation of his trade and the number of helpers he can employ. Unlike a Hermetic lab, a larger workshop does not increase the amount of goods a craftsman character can produce, as this is determined solely by the skill of the crafter and the number of employees he can effectively oversee.
 
-## *Workshop Innovation*
+## Workshop Innovation
 
 Many craftsmen seek to improve their craft, hoping to utilize the latest advances in technology to augment their training. This information is spread by guild inquisitors and visiting members of the trade. It is also one of the many topics discussed at the guild hall. While many crafters have a reluctance to incorporate
 
-## *Working with Related Material*
+## Working with Related Material
 
 Sometimes situations might force a craftsman character to work with materials not related to those required by his regular occupation. A local war might force a blacksmith to make swords, or a magus might ask a goldsmith to make a ring out of copper. Exotic substances are also considered to be unrelated to a craftsman's regular materials. Harness makers do not regularly make horse tack out of dragon hide, but can if asked to.
 
@@ -2055,7 +2055,7 @@ It takes a season to improve a character's workshop, once the minimum number of 
 
 In 1220, the wheelbarrow is the leading technological advancement. Other in-period new technologies are percussion drilling, artesian wells, rat traps, glass mirrors, windmills, and Arabic numbers. Spectacles will be invented near the close of the 13th century, but might already exist in Hermetic enclaves.
 
-## *Raw Materials*
+## Raw Materials
 
 Having an adequate workshop, the craftsman must acquire the raw materials necessary for his trade. Sometimes attaining these materials is regulated by a guild, through specific contracts and supplies, but often he has free rein in gathering them. Storyguide craftsmen automatically have the materials required to produce their goods, unless otherwise stipulated by a specific story that affects the characters. Player characters automatically start with suitable raw materials, and only need worry about additional raw materials if they want to improve their Workshop Total or start a new workshop.
 
@@ -2072,7 +2072,7 @@ It takes a season to improve a workshop's Raw Material score, once the minimum n
 
 Unlike innovations, better raw materials need to be maintained. It costs 5 Labor Points per point of Raw Material to sustain a business with a positive Raw Material score. This additional cost is added to the regular Labor Point cost of sustaining a business for a year (which is 36 Labor Points).
 
-# *Basic Craftsman Production*
+# Basic Craftsman Production
 
 There are five qualities of finished goods in **Ars Magica**: shoddy, standard, superior, excellent, and minor enchanted goods. Standard quality goods are self-explanatory, but the four other quality types are explained below.
 
@@ -2082,11 +2082,11 @@ To determine the quality of the goods he produces in a given season, a craftsman
 
 Success is measured against the **Craft Level** of a desired seasonal activity. If the Workshop Total equals or exceeds the Craft Level, the character produces a specific amount and quality of finished goods. The exact amount of produced items depends on the trade.
 
-## *Finished Goods*
+## Finished Goods
 
 A character creates finished goods in a season by comparing his Workshop Total against a Craft Level, both of which are influenced by various modifiers. The standard Craft Level, which assumes adequate space, necessary materials, and no distractions, is 6. If the Workshop Total equals 6, then standard quality goods
 
-## *Primary Characteristic*
+## Primary Characteristic
 
 Many of the craftsman formulas in this chapter use the term "**primary Characteristic**." A character's primary Characteristic is the Characteristic most used for his specific craft, usually Strength or Dexterity. Usually the primary Characteristic demanded by a craft is Dexterity, measuring the agility and nimbleness of a character's hands, hand-to-eye coordination, and manual precision. Some craft trades have other demands, and use Strength (for a blacksmith, miner, or logger) or Stamina (cloth dyer or baker). A common rule of thumb is that craftsmen use Dexterity and laborers use Strength. There are exceptions. For example, a wine caller – a laborer who wanders the markets proclaiming the merits of a particular vintage and the tavern that carries it – would use Communication. You and your troupe should decide which Characteristic is appropriate for a given character's occupation.
 
@@ -2099,7 +2099,7 @@ are made. If the total falls below 6, shoddy goods are produced. A workshop tota
 The Craft Level is influenced by outside variables dependent upon extraneous situations that are usually determined by the storyguide, so she may raise this Craft Level as she sees fit. Substandard raw mate-
 
 
-# *Seasonal Production Chart*
+# Seasonal Production Chart
 
 The following chart shows how many individual items can be made within a season's time, as well as the craftsman guild responsible for making each item. Each lot is based on a craftsman with an appropriate Craft Ability score of 5. Characters with different Ability scores make more or fewer items. Divide the character's Craft Ability score by five, then multiply this number by the number of items that a basic craftsman would make in a season. Finally, round up to get the number of items produced. Thus, a tailor with a Craft Tailor score of 7 would produce 45 suits of clothes in a season. 7 divided by 5 is 1.4; 1.4 times 32 is 44.8, which is rounded up to 45.
 
@@ -2143,17 +2143,17 @@ Many of these items cannot be made by a single craftsmen, and assume a team of s
 
 rials, magical interference, famine, war, plague, and guild politicking are typical examples (see the insert).
 
-## *Shoddy Quality Items*
+## Shoddy Quality Items
 
 Items of shoddy quality look and feel like standard quality items, and usually the buyer cannot tell the difference between the two. Shoddy items perform exactly like standard quality items. Every trained craftsmen can make shoddy items with even minimal Craft Ability scores. They are not as durable as regular goods and their production could cause guild craftsmen trouble if they are caught selling them. The difference is that they break more easily. In general, if a character botches while using a shoddy item, the item breaks, in addition to the normal effect of the botch. A craftsman will be able to tell the difference between a shoddy and standard item by making a Perception + Craft Ability + simple roll against an Ease Factor of 6. He may only do this for goods he could manufacture himself.
 
-## *Superior Items*
+## Superior Items
 
 Superior quality items are better than standard finished goods: prettier, more durable, and exceptionally well made. Guild craftsmen are usually proficient enough to regularly make superior items, helped by their work force to increase their reputations and annual incomes. Exceptional urban and rural craftsmen can create superior items single-handedly.
 
 Superior quality items have one of their features increased: their strength, durability, or appearance. They contribute a +1 bonus to a specific activity when used. Beautifully
 
-## *Finished Goods Craft Levels*
+## Finished Goods Craft Levels
 
 The standard Craft Level used for seasonal crafting is 6. This can be modified, and the following chart offers suggestions for doing so. Anything that might somehow hamper production raises the Craft Level. Modifying the basic Craft Level also changes the Craft Levels of different quality goods. For example, if the storyguide decides that the Basic Craft Level is 9, then a craftsman character needs a 15 to make superior goods and an 18 to make excellent goods.
 
@@ -2170,7 +2170,7 @@ The standard Craft Level used for seasonal crafting is 6. This can be modified, 
 
 crafted clothing and apparel allow the wearer to add +1 to a specific social roll. For non-military items, the player should determine a specific situation to which this +1 bonus is added. Situations that would receive a bonus for a character's specialization in an Ability are good examples. Superior cloaks could add +1 to a Charm roll for first impressions, or a superior tapestry could add to an Etiquette roll to deal politely with guests in the room where it is hung. A diet of superior bread sustained for a whole year gives a +1 aging modifier to Aging rolls. Tools allow the crafter to add +1 to his roll when he is making a specific item. Superior shields add +1 to defense rolls, and a superior sword adds +1 to an attack roll. Superior armor grants the user a +1 to his armor's protection value.
 
-## *Excellent Quality Items*
+## Excellent Quality Items
 
 Excellent items are generally made for a specific person or purpose. Each is a beautifully crafted work of art. They decorate cathedrals, clothe bishops, adorn papal legates, accessorize ladies, and enhance knights. They have higher bonuses in play than superior quality items, cost more to purchase, and take more skill to create.
 
@@ -2179,7 +2179,7 @@ Like superior quality items, excellent items gain bonuses to one of their featur
 **Total Bonus Limit: Craft Ability / 3, rounded up**
 
 
-## *Regarding Enchanted Items*
+## Regarding Enchanted Items
 
 Hermetic magi theorize that magic is the reflection of a perfect realm, and that created magical items are facsimiles of a single perfect image of a specific item. Not all magi follow this Platonic thinking, but all admit that when enchanting devices, magical effects adhere more strongly to better crafted items.
 
@@ -2189,7 +2189,7 @@ Since few magi can craft superior quality items, many covenants seek long-term r
 
 An excellent longsword adds its bonus to both attack and defense rolls. Excellent armor increases a character's Soak, and excellent shields increase his defense roll. Excellent shoes could add the bonus to Long-Term Fatigue rolls made at a journey's end, gowns could add to all Etiquette rolls, and excellent parchment could add to a scribe's rolls to make a book. Some adjudication is necessary, and you and your troupe determine the exact situations in which an excellent item's bonus applies.
 
-## *Wondrous Items*
+## Wondrous Items
 
 Magic abounds in Mythic Europe, and has left its mark in the blood of some craftsmen. Certain such individuals can instill minor magical enchantments into their creations. These items are called "wondrous" by their crafters and the buying public; Hermetic magi find this title grandiose. This practice existed long before Bonisagus invented his magical theory, and is more common than many magi willingly admit. Much of Bonisagus' original work involved mimicking smiths' and weavers' enchantments with minor Hermetic spells. This sort of magic-work is not Hermetic magic, although many of the resulting effects can be easily mirrored by minor formulaic spells.
 
@@ -2204,7 +2204,7 @@ Wondrous items are made for a specific customer. A blacksmith does not have a co
 It takes a least one season to create a wondrous item, during which a character cannot undertake any other workshop activity, although he can work alongside his staff while they are engaged in the regular operations of the workshop. He may be assisted by one helper for every two points he has in his Leadership score. The assistant need only have a score in the specific Craft Ability. The process begins by taking exact measurements and weights of the item's recipient, as
 
 
-## *Craftsmen Supernatural Virtues*
+## Craftsmen Supernatural Virtues
 
 Three Supernatural Virtues exist that should be available only for craftsmen characters. Your troupe may decide to let other characters take them at character generation, but only the Eye of Hephaestus is potentially usable for a character who does not have a Craft Ability or vocation.
 
@@ -2224,7 +2224,7 @@ well as collecting her hair, blood, and other bodily excreta. After selecting th
 The Craft Level of a wondrous item has a base of 12. Like other finished goods, the Craft Level can be modified by the storyguide according to the situation. Then, estimate the level of effect a Hermetic spell that mirrors the power the character wishes to instill would have, and add the magnitude to the Craft Level. The powers of a wondrous item are not as flexible as Hermetic enchanted items. The Range of the effect must be Personal or Touch, since wondrous items can only affect themselves or the bearer of the item, the Duration cannot be greater than Sun, and the Target must be Individual. The craftsman must also determine how often he wishes this power to occur. Consult the Effect Frequency Table (ArM5, page 98) and add this number to the Craft
 
 
-## *Common Wondrous Items*
+## Common Wondrous Items
 
 Here is a suggested list of some of the common magical effects that wondrous items can have. They can serve as guidelines for your troupe in creating such minor enchantments. Each item works once per day. Craft Levels have been included in the examples. They are determined by the magnitude of the Hermetic effect + 12.
 
@@ -2265,13 +2265,13 @@ A wondrous item can only be used by the person for whom it was crafted. Hermetic
 
 Wondrous items have verbal triggers to activate their power. The bearer touches the item and recites a specific word or phrase determined by the crafter during construction. Divine wondrous items are triggered by saying a small prayer, Infernal wondrous items by an unholy name, Faerie wondrous items by a quick song or pagan prayer, and Magic wondrous items by a special phrase or arcane word.
 
-## *Assistants*
+## Assistants
 
 Craftsman characters can employ assistants to boost their Workshop Totals. Regular craftsmen typically have an apprentice helper, and guild craftsmen may have multiple assistants. A character is limited in the number of assistants he can have by his Leadership score. If the character is a regular craftsman, he may have apprentices equal to his Leadership score. If he is a guild member, he may have either apprentices or journeymen equal to his Leadership score. Journeymen are more skilled than apprentices, but only work for a guild master. Regardless of Leadership, every craftsman may have a single apprentice helper.
 
 Each assistant adds half his Craft Ability score to the Workshop Total. For multiple assistants, add all their Craft Ability scores together before dividing by two and rounding up. Usually, assistants' Labor Points are not important, and their livelihoods are assumed to mirror the shop's owner's livelihood. If he prospers, they prosper. Player character assistants do need to maintain their own livelihoods, though, so players must calculate their character's Labor Point totals independent of their employer's. Apprentices are the exception, since they are learning their trade and living under the master's roof, and do not calculate Labor Points.
 
-## *Craftsman Manuals*
+## Craftsman Manuals
 
 Typically, medieval craftsmen did not make written records of their workshop efforts. Nearly every craftsman is trained in the same manner, making such texts valueless. A trained smith does not need to read a book to learn how to make a horseshoe, and there is little that he could contribute to the overall trade if he detailed his process of making one. Thus, most craftsmen are not interested in reading or writing a book about their trade, nor are they concerned with the exact blueprints for an individual item. Indeed, most craftsmen cannot read or write.
 
@@ -2283,7 +2283,7 @@ Craft manuals can be used by any craftsman who is undertaking the activity descr
 
 Some very famous craft manuals exist in the 13th century, including John de Garlande's *Dictionarius*, about moneychangers, clasp makers, cup makers, jewelers, and harness makers, and the monk Theophius' *On Divers Arts*, about painters, glass makers, and metalworkers. Both of these manuals add +4 to a craftsman character's Workshop Total.
 
-## *Workshop Exertion*
+## Workshop Exertion
 
 There may be times when a character wants to push his crafting abilities, striving for goals that seem impossible based on his current capabilities and work force. This is exhausting, as he puts his back into working harder, taking fewer breaks, and spending late nights in the workshop. Guilds restrict the hours of operation that a workshop can function, but are lenient if the master only abuses these restrictions once every other year or so. Craftsmen who are not guild members are not restricted in their workshop practices.
 
@@ -2333,7 +2333,7 @@ Every notable act that a craftsman character succeeds at in his profession earns
 
 Bad news spreads even faster than good news. Successive seasons of producing shoddy goods lower a character's (Craft) Reputation. If the score becomes negative, give the character a positive reputation as a bad craftsman. Each season past the first that a character makes shoddy goods subtracts one experience point from his (Craft) Reputation, or adds to a Reputation for being a bad craftsman.
 
-## *Selling Finished Goods*
+## Selling Finished Goods
 
 Once an item is made, it is sold from the workshop or included in a larger lot for sale. Craftsmen are
 
@@ -2377,14 +2377,14 @@ craftsman's roll, to a maximum discount of 50%. Botching means the craftsman mak
 
 This die roll should never replace roleplayed interactions between craftsmen and clients. Many troupes enjoy the verbal repartee of the market square, the boisterous bickering and price dickering. Use a die roll to quickly handle a sale, or to settle an argument that threatens to consume too much game time.
 
-## *Basic Laborer's Service*
+## Basic Laborer's Service
 
 Like craftsmen, laborers use a similar seasonal formula to determine how successful they are at their occupation. Instead of a Workshop Total compared to a Craft Level, they generate a Labor Total and compare it to a Profession Level. Both are derived in a similar fashion to craftsmen's totals. Labor Level is the laboring character's primary Characteristic + Profession Ability and the Profession Level has a base of 6, modified in the same way Craft Levels are.
 
 If a character's Labor Total is above the Profession Level, he provides standard quality services for the season. If it is below his Profession Level, his services are shoddy. He can provide superior quality service the same way a craftsman can make a superior quality item. Labors cannot provide excellent or wondrous quality services. Laborers have a (Profession) Reputation, just like craftsmen have a (Craft) Reputation, and earn and spend Labor Points to maintain their livelihoods and expand their business.
 
 
-# *Damaged Goods*
+# Damaged Goods
 
 Crafted goods break, often at the most inopportune times, no matter how well-made they might be. Regular wear and tear is easily repaired by regular maintenance, performed by a skilled craftsman or by the owner, who generally understands how to keep his items in good working order.
 
@@ -2433,7 +2433,7 @@ If the stress check fails, the item loses one of its damage levels. If the stres
 There are two situations that may harm an item and call for a stress check. The most common is when you roll a botch on an activity. This commonly occurs in combat, and
 
 
-# *Locks and Keys*
+# Locks and Keys
 
 As merchants and guild masters accrue large sums of money, they invest in devices to secure their financial gains. Medieval locks are very similar to their modern day counterparts, being mechanized metal devices used for fastening doors, chests, and manacles. Despite their expense, they are relatively common, and most craftsmen, merchants, clerics, and nobles own a lock or two to keep their valuables safe. Most covenants have a locked door or chest to protect their vis stores. Locks and keys are significant symbols of status and importance. Keys are often worn around the neck or otherwise displayed to show that the owner is prosperous enough to have wealth that needs such costly security measures.
 
@@ -2475,33 +2475,33 @@ Wondrous items made by craftsmen cease to function if they sustain any damage. A
 
 To avoid excessive bookkeeping, it is suggested that a player only track the damage of his character's primary item, either sword, suit of armor, cart, or magic wand. Tracking damage can be helpful when roleplaying the attention and care a character would give his cherished item.
 
-## *Repairing Damaged Goods*
+## Repairing Damaged Goods
 
 A skilled craftsman can repair an item that is damaged. It is a fairly straightforward process that does not require a die roll, only the absence of the item from the owner for a period of time. An absolutely broken item cannot be repaired, however. Broken items must be discarded, being too damaged to warrant any repair effort.
 
 The craftsman must be able to make the item he is repairing, although he does not have to personally have made the damaged item itself. Damaged standard quality items are automatically repaired in a season. Superior and excellent quality items are also automatically repaired. However, the craftsman must have a Craft Ability equal to the twice the bonus of the item to repair it. He must also spend one Labor Point for every damage level he repairs.
 
-## *Chapter Five*
+## Chapter Five
 
-# *Travel*
+# Travel
 
 This chapter helps troupes to create the routes that link their covenants to cities, and gives guidance regarding the amount of time required to travel to and from other stories.
 
 Most medieval people never travel more than a few miles from the village of their birth. Those who do travel tend to do so for mercantile reasons. There are many exceptions — pilgrims, crusaders, magi — but when these people travel, they do so using infrastructure created and maintained by commerce.
 
-# *Means of Transport*
+# Means of Transport
 
 Three complementary means of transport form the trade network of Mythic Europe. Sea travel is the cheapest, in pence per mile, and the fastest method for prolonged travel. River travel is about twice as expensive as sea travel, because riverboats are smaller than seafaring ships, and have more crewmembers per ton of cargo. Road travel is between eight and twenty times more expensive than sea travel, and is far more arduous.
 
 Travelers on many routes use all the three means of travel, to reduce delay and expense. On shorter routes, it is common for passengers or cargo to land at a seaport, travel inland along the river system, and then continue to final destinations by road. River transport is so much faster and cheaper that in some areas — on routes over the Alps, for example — merchants transfer themselves, and their cargo, from horse to boat and back again several times. Places where these transfers occur usually become villages.
 
-## *Roads*
+## Roads
 
 The Roman highway system is all but gone. Travelers have reverted to the routes followed before the uncompromising Romans ruled their straight roads across the continent. Roads now curl along ridge tops and snake along rivers, seeking bridges and shallow fords.
 
 Roads come in three types. Dirt roads are little more than tracks, and can usually accommodate beasts of burden provided the weather remains good. Light carts can use some of them, in flat areas during good weather. Gravel roads are uncommon, but are suited for beasts of burden in all weather, and suit light carts when the terrain is relatively level and the weather clear. Many graveled roads have drainage ditches on either side. Paved roads are rare, but are suited for carts, even in poor weather.
 
-## *Bridges*
+## Bridges
 
 Bridges in Mythic Europe are rare, and usually wooden. Stone bridges, which guarantee easy passage over a river, are so rare that small towns rapidly grow up about any new bridge on a major route. In stormy seasons, routes move surprisingly large distances to include the new bridge.
 
@@ -2524,7 +2524,7 @@ Areas lacking bridges sometimes have ferries, which are slower and cost each tra
 
 A ford is a shallow place in a river where a person who is willing to get wet can cross. Fords are sufficient for most pilgrims, but are useless for most traders. Pack animals carrying waterproof goods, or those that can be soaked and dried without damage, can use fords. Carts usually find fords impassable. Streams deeper than the axle of the cart, or with a muddy bottom, cannot be passed by carts.
 
-## *Stops*
+## Stops
 
 Near large cities, along major trade routes, there are inns approximately every eight miles. This distance is considered appropriate for a third of a day's passenger travel. The inn provides merchants and passengers with a stopping place. They can water and feed their mounts, eat meals, and purchase any minor supplies they require. Small inns are little more than large houses, where the traveler shares a bed with the innkeeper's family. Larger inns, particularly those within cities, offer less crowded accommodation to those willing to pay for it.
 
@@ -2546,7 +2546,7 @@ Many large inns have storage space that can be used to warehouse goods. •
 
 ers to repair vehicles. Innkeepers can also provide introductions to people in less savory professions. The innkeeper does not charge his guests for this service, but the workers that are hired usually pay a gratuity for the referral.
 
-## *Rivers*
+## Rivers
 
 The map of the major trade routes in Mythic Europe demonstrates the importance of rivers to commerce, but it is slightly deceptive, as it charts only the routes taken by people traveling between cities. Along the main channel, shown on the map, a fine filigree of creeks, tributaries, lakes, and streams envelops each river. These allow a city placed upon the river to draw resources from throughout the river's watershed. These unmapped tributaries are a vital part of the economic network of Europe. They also provide local traders with useful sites and resources, accessible through the Area Lore skill, as described below.
 
@@ -2562,26 +2562,26 @@ Each river has a series of myths surrounding it. These may serve as inspirationa
 - The Rhine is haunted by the Lorelei, a nymph that sings men to their doom. •
 - The Rhone ends at the wild and inhospitable Camargue Delta, where a ghostly horse keeps a larder of up to 100 wicked children. •
 
-## *Area Lore: The Hinterland as a Resource*
+## Area Lore: The Hinterland as a Resource
 
 The Area Lore Ability is used to find people, resources, and places within a city or its hinterland. Characters who successfully roll Intelligence + Area Lore against the Ease Factors given in the Area Lore Ease Factors table know how to contact people, or find resources, but need other Abilities, like Charm or Bargain, to acquire goods cheaply, or convince people to offer assistance. Characters who spend most of their time in a city, like craftsmen, subtract 3 from Area Lore rolls to find material in the hinterland. Characters who spend most of their time in the hinterland, like local carriers or characters that live in rural covenants, subtract 3 to find things in the city.
 
-# *Vessels*
+# Vessels
 
 The vessels described below have carrying capacities based on tonnage. A tun is a large barrel of wine, and a ton of cargo takes up as much space and carrying capacity as a tun.
 
-## *Land Vessels*
+## Land Vessels
 
 One horse carries a load of about 400 pounds (0.15 tons) and costs half a pound. A two-wheeled cart, pulled by two or three horses, has a maximum load between one-half and three-quarters of a ton. It costs onetwelfth of a pound (twenty pence). These carts distribute bulky material within local regions. One might carry a single barrel of wine. Four-wheeled carts, pulled by six horses, can carry loads of up to 1.25 tons and cost one-sixth of a pound (forty pence). Four-wheeled carts require excellent roads and dependable bridges. The largest carts are far more expensive than lighter ones, having ironrimmed wheels and axles. Smooth, wide, paved roads, such as a covenant might create magically, allow carts with six-horse teams that can pull 1.75 tons, and cost one pound each.
 
 Land transport requires far fewer staff than shipping. A single person can effectively lead and tend three pack beasts if walking with a halter to the first beast, or six if riding. Each cart, however, requires a single driver. Carts traveling long distances often have a second driver, who alternates with the first and acts as a guard.
 
-## *River Barges*
+## River Barges
 
 The size of barges varies across Europe, because their maximum size depends on the depth of their river or lake. The largest Thames barges, for example, are capable of coastal trade, and carry around 20 tons to London.
 
 
-# *Area Lore Ease Factors*
+# Area Lore Ease Factors
 
 6+ A shop selling any common product or service, desired by all people, and places where goods may be had for free, like fishing and hunting spots
 
@@ -2638,7 +2638,7 @@ How to contact mundane people who have taken efforts to be anonymous, like smugg
 
 Optimally, they have three crewmembers, but many have only a man and a boy. The largest Pisan barges also engage in coastal trade and are approximately the same size. As their goods travel up the Arno, three different sizes of barge are used, each progressively smaller as the river gets shallower, with the smallest only one-twentieth the capacity of the sea-barges. Lighters, which are used to land cargo from vessels too large to dock at quayside, vary in size, but those found in the English Wash are about 25 feet long and can carry eight tons of cargo.
 
-## *Seagoing Ships*
+## Seagoing Ships
 
 The **buss** is a distant descendant of the Viking knarr. It is, comparatively, a small, long, narrow design with a shallow draft. The buss is commonly used in coastal, local trade. It is also used for fishing. It carries around 20 tons and has eight or less crew.
 
@@ -2663,7 +2663,7 @@ Southern ships use lateen sails, which are more difficult to manage than the squ
 
 A sailing ship costs four pounds per ten tons of cargo it can carry. This does not include the additional cargo space a merchant may liberate by sailing with less than a full crew.
 
-## *Comparison of Traveling Speeds*
+## Comparison of Traveling Speeds
 
 The following figures are ranges. The lowest figure assumes that the vessel is able to make good progress, hindered only by occasional poor terrain or poor weather. The highest figure assumes excellent terrain and accommodating weather. Players performing their own research should note that all distances and speeds are given in standard, not nautical, miles.
 
@@ -2677,7 +2677,7 @@ The following figures are ranges. The lowest figure assumes that the vessel is a
 - Many ventures stall for weeks waiting for the weather to break.
 - Couriers willing to break their horses, with a steady supply of remounts, have sometimes managed 90 miles per day. •
 
-## *Comparison of Traveling Costs*
+## Comparison of Traveling Costs
 
 It costs a couple of magi and a half dozen grogs one pound to travel with a merchant for two weeks. An adventuring party, therefore, pays six pounds to charter a small, crewed ship for a season. They occupy around a ton of cargo capacity. This includes a fortnight's worth of provisions, which are refreshed when possible. Ships that hug the coast, restocking regularly, may carry less foood and water, so that a group of eight passangers requires only half a ton of cargo space. Pirate vessels often operate this way, as it allows their vessels to have larger crew sizes.
 
@@ -2692,11 +2692,11 @@ Road travel costs between eight and 20 times more than sea travel, depending on 
 
 Much of the cost of travel goes to pay for food, tools, and accomodation. A local trader or ship captain carrying passengers can usually pocket 10% of his travel costs as profit.
 
-# *Ship Combat*
+# Ship Combat
 
 Combat between ships in Mythic Europe usually involves an aggressor boarding a victim, and the two crews engaging in cramped melee. Pirates and warships have an advantage when boarding because they do not carry cargo, and can allocate that space to additional combatants. Light shipboard artillery is available in medieval Europe, but it is rarely able to sink enemy ships. Ramming and shearing oars with catheads are the usual alternative to boarding, but are only effective in galleys.
 
-## *Softening the Enemy*
+## Softening the Enemy
 
 Shipboard artillery is used to kill enemy sailors. A successful attack with a ballista (huge crossbow) kills an enemy crewman. It has a range of six hundred yards and takes ten rounds to reload, so the number that can be picked off this way depends on the rate at which the ships are closing with each other. A successful attack with a light catapult has a range of 200 yards and throws up sharp splinters of decking, which incapacitates (simple die / 2) enemies. It also takes ten rounds to reload. Each artillery piece, and all the ammunition it could be reasonably expected to use on a normal journey, requires a quarter ton of cargo space. Ships may not mount more than one artillery piece per 20 tons of cargo space, and artillery fired into a melee kills friend and foe indiscriminately.
 
@@ -2704,7 +2704,7 @@ Galleys are designed to ram their enemy, then back oars, to withdraw from contac
 
 Shearing oars is a combat maneuver where a galley uses a specially designed ram to cut off an opposing galley's oars above the waterline. The ends of the oars flail when this occurs, incapacitating (2 times a simple die) of the opponent's rowers, and leaving the opponent unable to make way until new oars are shipped from the hold or undamaged side.
 
-## *Boarding and Melee*
+## Boarding and Melee
 
 If a predatory ship attempts to engage a fleeing victim, the two captains compare rolls of (stress die + Intelligence + Profession + up to 3 for experienced crews). The victorious captain either has the opportunity to board the victim, or the opportunity to
 
@@ -2715,19 +2715,19 @@ Melee between pirates and merchant crews is conducted using the group combat rul
 
 Crew size is one of the great advantages of warships. Ships that have to sail far enough that the crew
 
-## *Greek Fire*
+## Greek Fire
 
 Greek fire is a sticky, flammable substance that cannot be extinguished by water. The Byzantine navy, prior to the fall of Constantinople, used siphons and ceramic pots flung from catapults to incinerate enemy vessels. The secret of the manufacture of Greek fire, or a similar concoction made in imitation by Arabic alchemists, is closely guarded. Characters might acquire it, as part of a major story.
 
 requires supplies, particularly water, may have eight added crewmen for each ton of cargo space lost. Ships packed with people that do not require supplies, for example raiders from a nearby town, may have 16 added crewmen for every quarter ton of cargo foregone. For small ships, this magnifies the crew size tremendously. Rich houses might consider having a warship paired with a supply ship, so that it can be densely crewed.
 
-## *Sea Monsters*
+## Sea Monsters
 
 This book lacks sufficient size to detail the range of creatures that might assail a ship. Most small creatures lack the ability to puncture seasoned wood, and so cannot affect the fabric of the hull directly. Those of human size may be able to make small punctures in the hull, given time. The holes they make are small enough to be patched before the ship founders, and the crew is usually able to attack the creature while it works. Against small creatures, ships are very durable.
 
 Creatures Size +4 and above find ships easy to destroy. Ships are so large that melee attacks against them automatically hit, and missile weapons have a +6 attack bonus. Pounding or crushing attacks warp the frame of the ship, springing its seams and allowing the hull to flood. In brief, ships are as vulnerable to large monsters as breadbaskets are to humans: a large monster pounding or crushing a ship is treated as an environmental effect, much like a fire. It will destroy the ship in a certain number of rounds, selected by the storyguide, unless the player characters deal with it first.
 
-# *Sea Trade*
+# Sea Trade
 
 The sea trade in Mythic Europe is divided into two regions, the north and the south. The southern region includes the Mediterranean and the Black Sea, which are separated by the Bosphorus, the straits at Constantinople. The northern region includes the Atlantic coast, the English Channel, the North Sea, and the Baltic. The Muslim lands in Iberia separate the two regions. The southern region is the richer of the two, having a larger population and volume of trade. The two regions also link via land routes over the Alps, and by eastern river routes.
 
@@ -2797,7 +2797,7 @@ The distances on the Naval Tables include inland travel from a port to the named
 
 
 
-## *Naval Trade Tables, Continued*
+## Naval Trade Tables, Continued
 
 |                    | Algiers | Barcelona | Genoa | Marseilles | Naples | Palermo | ma<br>Pal | Pisa | me<br>Ro | Valencia | Gibraltar<br>Junction | Junction<br>Messina | Syracuse<br>Junction | Junction<br>Tunis |
 |--------------------|---------|-----------|-------|------------|--------|---------|-----------|------|----------|----------|-----------------------|---------------------|----------------------|-------------------|
@@ -2831,19 +2831,19 @@ The distances on the Naval Tables include inland travel from a port to the named
 | Tunis Junction             | 24   | 20         | 5                | 22                  | 17         | 14    | 18     | 20                         | 6                   | 5                    | 0                 |
 
 
-## *Chapter Six*
+## Chapter Six
 
-# *Fairs & Markets*
+# Fairs & Markets
 
 The inhabitants of Mythic Europe do not make everything they need. Even peasants buy tools and clothes, and the nobility and towndwellers buy even more. This supports a network of markets, for local exchanges, and fairs, for trade on a national and international level. Many covenants also make extensive use of the opportunities these trading venues offer.
 
-# *Markets*
+# Markets
 
 The market is the primary source of foodstuffs that one does not produce for oneself. No farming family, smallholder, or community of nuns is likely to exist entirely on what they produce themselves or can obtain by barter with acquaintances. Some covenants may be largely self-sufficient where day-to-day provisions are concerned, but most need to obtain at least some of their requisites from the market. It acts as a center of exchange for the neighborhood, drawing in buyers and sellers from up to seven miles away — a distance that allows enough time to travel to market, conduct business, and return home in one day. Markets have the same purpose the world over, but differ from one another in the range of goods on sale (see Chapter 8: The Goods of Europe), the smells of the foodstuffs and other merchandise, the language used to shout out the virtues of the goods, the dress of the people crowding round the stalls, the animals there to be bought and sold or carry goods, and the setting of the market, which might occupy an open area but is just as likely to be spread out along the streets (see Chapter 1: Towns and Cities, Markets).
 
 In large villages and small towns, the market is held regularly, in the same place on the same day of the week. Larger towns probably have two market days every week, and a city may well hold a market of some
 
-## *Sunday Trading*
+## Sunday Trading
 
 The Biblical Commandment to keep the Sabbath day holy was so widely and blatantly ignored in England that the Pope sent Eustace, Abbot of Flay in 1200, to lead a mission. So eloquent was his preaching, and so marvelous were the miracles that he performed, that many places closed down their Sunday markets entirely or moved them to another day of the week. The mission was such a success that by 1220 the transfer of Sunday markets to other days is almost complete throughout the country.
 
@@ -2859,13 +2859,13 @@ In most parts of Europe, the market is only open for business in the morning; a 
 
 When buying goods in a market, coin normally changes hands even though the customers are usually poor or of only moderate means. If a member of the community is known to be suffering hardship and a seller feels charitable, then an informal credit arrangement is often permitted with payment promised in cash or kind at a later date. Prices of common goods are affected by growing conditions, by illness among livestock, and when an excessive amount of clipped coin is in circulation. Payment by installments is often arranged for expensive items like oxen or carts.
 
-# *Competition*
+# Competition
 
 The grant of permission to start up a new market is good news for the local lord or institution that is going to benefit from the tolls collected, but can be bad news for others. If the new one is sited too close to a pre-existing market, it threatens the prosperity — and even the existence — of the older market and the income enjoyed from its tolls by the landowner. A particularly determined sponsor may offer to charge no toll for the first few years a new market operates in order to lure trade away from the pre-existing market.
 
 If a new market is started up some way away, but on the main road that many sellers use to reach
 
-## *Story Seed: Competition*
+## Story Seed: Competition
 
 Permission is granted to start a market within five miles of the one where some of the covenant's provisions are bought regularly, or where the beneficiary of the market tolls is a nobleman or religious house allied to a player character. If the new one cannot be stopped, perhaps it can be moved to a different day of the week? Some delicate political negotiations will be necessary. Alternatively, the new market may benefit a valuable ally, pulling the covenant in both directions at once.
 
@@ -2873,13 +2873,13 @@ the older market, a forceful owner can intercept these people and oblige them to
 
 A rare threat to a market occurs only in time of war, when a ruler can decree that instead of taking food to market, all must be supplied directly for the sustenance of the army when they are in the area. On a smaller scale, a similar restriction may be imposed when a visiting nobleman and his entourage or an equivalent group of high status comes to visit, when markets for as much as ten miles around may be temporarily closed so that everyone with surplus foodstuffs to sell has to bring them to where the honored host can acquire them to feed his visitors. This might cause problems for a covenant that depends on purchasing locally.
 
-# *Goods on Sale*
+# Goods on Sale
 
 Early in the morning, those with goods to sell travel to the appointed place and set out their wares. Frequently — especially in village and small town markets — these are individuals selling the excess that remains after taking what their own families need from what they grow, rather than professional traders. As well as grain, flour, bread, pulses, green and root vegetables, fruit, nuts, mushrooms, honey, eggs, butter, cheese, ale, meat, and the like, there is often live poultry. The location, the season, and the weather play a big part in controlling what is available. Other goods often available include candles, simple wooden and ceramic dishes, cooking pots and pans (the metal ones often mended), second-hand clothing, small leather items like pouches and belts, items carved from horn or bone, yarn, combs, simple buckles, ornaments and pins, and baskets. If there happens to be a craftsperson in the neighborhood, and they make things that are affordable by and useful to ordinary people, then her presence can make one market distinct from others, although in urban areas it is more usual to buy such goods at the workshop. The availability of some commodities depends on local geography, for example, fishing nets and reeds. Similarly, local edible specialties, perhaps fresh sea fish or bacon, are only found in certain places.
 
 In cities and larger towns, rural products required by urban artisans are on sale and markets usually offer cloth, firewood, hides, rope, horses, oxen, cows, sheep and goats, and also a few exotic and luxury items acquired by merchants at a fair. If the market is in a port where foreign
 
-## *Story Seed: The Legend of Lady Godgifu*
+## Story Seed: The Legend of Lady Godgifu
 
 The populace of a market town not far from the covenant is suffering under a heavy tax burden imposed by the local lord. His wife has taken the side of the townsfolk against her noble husband's heavy taxes and has been nagging him for quite a while about the matter. Exasperated, he has promised to reduce them if she is willing to ride naked on a horse through the busy marketplace. He has no doubt that she will refuse to do this.
 
@@ -2890,7 +2890,7 @@ traders come, or on a route they often use when heading to a fair, their wares a
 If the market is held in a place of pilgrimage, there are plenty of people catering to the pilgrims. There are certainly badges of lead or pewter showing a symbol connected with the history of the relevant saint that a pilgrim can buy to adorn his hat as proof that he arrived. Another common souvenir is a small tin or pewter
 
 
-## *Weights and Measures*
+## Weights and Measures
 
 Across Mythic Europe, the units used to measure out goods vary. The same quantity can have different names, and the same word can mean different amounts, from one place to another. Even when using the same measuring vessel, the amount may be heaped or striked (filled to the brim then leveled off). Some goods have their own special systems of measure. Even counting is not uniform, for example in parts of England "one hundred" of something might as likely mean 120 as 100. This table based on the British system may be useful as a quick guide to units for retail transactions, with sufficient detail to add flavor to the game.
 
@@ -2946,20 +2946,20 @@ Across Mythic Europe, the units used to measure out goods vary. The same quantit
 
 8 drachms= 1 ounce
 
-## *Story Seed: Golden Grains*
+## Story Seed: Golden Grains
 
 A chicken served up to the grogs at the covenant one feast day contains three grains of gold. It may be that the fowl sometimes scratch up and ingest grains of gold and if they can trace the origins of the bird, there may be riches for the taking! It was purchased locally last market day from a woman who has sold the covenant poultry before. She obtains birds from a number of suppliers, and not always the same ones. Recently she has had difficulty finding enough, so has bought from a few sources further away. It was from one of these that this chicken came, but the seller cannot identify the origin of a particular bird, least of all a plucked, cooked one. Will the magi care enough to help the grogs? Will they try to stop them going adventuring?
 
 In fact, the hen had been feeding in a yard near a goldsmith's workshop.
 
-## *Story Seed: A Run of Bad Luck*
+## Story Seed: A Run of Bad Luck
 
 Some time ago, two traders fell out. One went to a cunning man and had a charm made, which he concealed in the part of the marketplace where his rival usually set out his goods. From then on, goods arrayed there have always looked rather shoddy. The first victim of the charm soon went out of business, much to the other trader's satisfaction, but he did not live long to enjoy the benefit of eliminating his rival, succumbing to an ague a few months later. So, the charm remains without anyone knowing why no seller prospers in that position.
 
 ampoule of holy water to be worn on a string around the neck as a portable source of blessing. This is particularly relevant where a sacred spring or well is involved, but the custom is often followed in other places using water blessed by a priest. If the pilgrim has undertaken the journey to pray for healing on behalf of someone else, an ampoule is just the thing to take back to him since, if handled throughout with piety, use of the blessed water — for example by dipping the patient's fingers into it before making the sign of the cross, or reverently washing the patient's face with it — can grant a +3 bonus to the next Recovery roll. While the badges are authentic when purchased at the site of pilgrimage and the water in the ampoules is usually blessed, any reputed relics on sale are less reliably genuine, for while there is no doubt at all that there are many miraculous relics of the blessed saints and holy martyrs, such are most often kept by the Church or the nobility in honor and safety; it would be a very fortunate woman indeed who bought something so
 
 
-## *Story Seed: Changeling*
+## Story Seed: Changeling
 
 An odd-looking newcomer starts to come regularly to market for food. She does not buy much and says very little, but pays with good silver coin. Many take her for a foreigner. No one knows who she is or where she comes from, and when a local lad tried to follow her for several weeks running, he somehow always lost her in the crowd. The woman is of the fae, part of a group living in a patch of woodland not far away, which has taken a human child to raise and needs human food to sustain it. The covenant may be asked for help by the distraught parents. A covenant servant might find the stranger has bought the last of the cheese on sale and, rather than risk the consequences of returning without it, follows the woman to offer to buy it, and does not lose sight of her until he has become lost on the faerie regio hidden in the woods.
 
@@ -2967,13 +2967,13 @@ precious at a market. From time to time, one of the heavenly host guides a truly
 
 On market day, the local population can more than double, and all these visitors need sustenance, so food and ale for immediate consumption is available from sellers in the marketplace and from buildings close by. Menfolk who have driven to market in a cart often spend much of the morning talking and drinking here while their wives are busy spending money. For many, attendance on market day is a social highlight, and the opportunity to chat and exchange news is as important as any shopping. This can be an excellent opportunity to pick up the local gossip and ask questions of people who are more likely than many to have the time and inclination to be informative.
 
-# *God of Commerce*
+# God of Commerce
 
 The god of trade in the Greek pantheon was Hermes, or Mercury as the Romans knew him, so it is unsurprising that he continues to watch over certain markets, mainly in towns in the more remote areas of Greece, and in regions once colonized by Greece or Rome where the Dominion is unusually weak.
 
 Fairly ordinary people sell ordinary goods at such markets, but where a visitor from Western Europe might expect to see a market cross there is a herm pillar, old and worn so it looks like a simple standing stone. (Originally it would have been a fertility symbol having a bearded human head surmounting a phallus. These were often set up in cities outside houses and on street corners, or set along roads as milestones in the Hellenic world.) Close by is a fount of water from a spring once sacred to the god. Before the market opens, superstitious traders pour a libation from the spring over the herm and sprinkle their booths and — if it will not damage them — their wares also, in hopes that it will help them turn a good profit. The marketplace normally has a magical aura of 1, rising to 2 when
 
-## *Other Traditions*
+## Other Traditions
 
 In areas where the Norse pantheon was revered, the god who oversaw trade and commerce was Odin under his title Farmagud (god of cargoes), because he frequently took on human form to wander about the world; he was known as Wotan in German lands and as Woden in Britain. Among his many other areas of interest is magic. His symbols include the spear, raven, and wolf, any of which could take the place of the herm pillar in the Roman example. As a fickle god, any dealings with him are risky.
 
@@ -2984,7 +2984,7 @@ the market is in progress, which may be sufficient to overwhelm any Dominion aur
 Alternatively, this part of the market may be in a regio within a busy city market. The regio is reached by going down a certain narrow alley between two stalls. If the marketplace lies over a suitable pagan site, such as the foundations of a Roman temple, one or two of the people collecting dues from the stallholders inside the regio are devotees of Mercury or servants of
 
 
-## *Goods from St. Michael?*
+## Goods from St. Michael?
 
 Sellers tend to occupy the same spots in the market every week, but in a large, busy city market, sometimes a visitor or even a local resident can become confused. In a relatively quiet location, she may come across a previously unnoticed booth where the salesman is the patron saint of some trade.
 
@@ -3012,7 +3012,7 @@ his priests, who may be persuaded to conduct individuals to the higher level of 
 
 and temple in the style of ancient Rome. A fountain in the center of the courtyard gushes out around the base of a large stone statue of Mercury in his role as god of commerce. Carvings around the temple depict a busy market in a thriving Roman city. The priest guarding access to the temple's inner room may be willing to offer something of value in exchange for a particular service, for example increasing devotion to Mercury among the population in the surrounding area. If the Church finds out about this, the market will very soon lose its pagan and magical aspects.
 
-# *Infernal Trading*
+# Infernal Trading
 
 The most attractive market of all may appear wherever and whenever there is a good chance to corrupt people. It is run entirely by demons or their agents, some of whom may be human and others not. It is a bustling place, where the smell of good food and the sound of lively music draw people in. Infernal deceit makes the goods seem better than they really are. The goods on sale are cheap enough to be affordable, but not suspiciously so — indeed, the price asked may vary to fit the means of the potential customer. Tempting free samples are offered when someone is wavering on the edge of a fall.
 
@@ -3024,7 +3024,7 @@ in food, drink, pretty ribbons, or books; or to gloat over how much they have sa
 
 Games of chance or skill in such markets start off fairly harmlessly, but before long the player fi nds her money has run out and she is being urged to pay with a kiss, her clothing, and eventually — if she persists — her child, and fi nally her soul. Or perhaps a wrestling bout goes the player's way after strong initial opposition, and he is cheered on to seriously injure his opponent. A simple game of accuracy in throwing or shooting an arrow may develop so the participant fi nds she is asked to knock the miter off a dummy representing the bishop, and then fi nally to take aim at a crucifi x to be victorious.
 
-# *Faerie Trading*
+# Faerie Trading
 
 Fairs and markets held by and for the fay are not uncommon, but it is usually hard for anyone outside that milieu to fi nd out about them. One needs an informative contact, a certain knowledge of Faerie Lore, or a degree of luck. Whether it is good luck or bad luck depends upon the nature of the faeries concerned and the behavior of the visitor. Such a market may be entirely the province of one group of faeries, for example those associated with one particular aspect of the world, or it might involve many kinds. Whatever its character, the fair or market refl ects human events suffi ciently closely that it should soon be clear to the visitor that it is a gathering for the purpose of exchange.
 
@@ -3032,12 +3032,12 @@ As to what is being exchanged, just about anything could be. It may be unusual v
 
 The fay often have odd ideas on what constitutes fair exchange, and negotiations can be prolonged and perhaps bewildering. Some faeries stick to bargains when they are unable to avoid making them, although it can be exceedingly diffi cult to bring them to the point. It is highly unlikely for a faerie trader to have any interest in accepting coin, but it may be possible to exchange a fay item for a different type of payment, perhaps a lock of golden hair, a particular service, or — in the case of the rash or desperate — for an unspecifi ed future favor. The consequences of any exchange made may remain obscure for a long time. It is generally recognized that consumption of faerie food and drink is best avoided; tales of those trapped for ages in Arcadia or other Faerie realms after ingesting just a sip or morsel are too numerous to all be untrue.
 
-# *Fairs*
+# Fairs
 
 For many people, the height of excitement is to go to the fair. It is a place to see and be seen, to witness strange sights, meet new people, acquire new and unusual things (by purchase, barter, trickery, or theft),
 
 
-## *Story Seed: The Lost Child*
+## Story Seed: The Lost Child
 
 A child of about four years of age is found hiding underneath a stall towards dusk. The child is frightened, tearful, and lost. Few are inclined to help because the child seems alarmingly odd. She looks much like any other scruffy little child, but has The Gift or some other supernatural power — such as the Tainted with Evil Flaw — that repels most people. At fi rst, the child is too scared to make much sense if anyone does get her to talk. If she has The Gift, mundane characters do not trust the child, and the same effect makes it hard for a Gifted character to win the child's trust.
 
@@ -3067,16 +3067,16 @@ Despite the advantages that a fair brings, relations between the town and the fa
 
 Part of the fairground is set aside for animals, and there the air is filled with the din of horses, oxen, sheep, goats, and pigs, plus dogs, both those for sale and those that accompany their masters as a defense against wolves and thieves. Another group set apart are the cooks, bakers, and smiths, since the risk of fire is taken very seriously. A local regulation may require every stallholder and householder to have a bucket of water ready in case of emergency. For safety, fires are prohibited in the fairground at night, and a curfew between sunrise and sunset is likely.
 
-# *Law & Finance*
+# Law & Finance
 
 By 1220 there is a system of very well-established trading conventions and practices for mundane fairs.
 
-## *Grant of a Fair*
+## Grant of a Fair
 
 It is a great honor to be given the right to hold a fair. Such permission is usually only given by the ruling monarch to a member of the nobility, an abbot, or a bishop, but a town may be awarded the right. It is a highly desirable gift because the right to hold a fair comes with the right to make money out of it in a myriad ways (see insert), and also to dispense justice during it, and take profits from any court proceedings. A medium-sized fair, such as one drawing customers from across a
 
 
-## *Making Money from a Fair*
+## Making Money from a Fair
 
 **Tolls:** Payments required for carts, people and beasts, to pass town gates and roads.
 
@@ -3108,7 +3108,7 @@ county and having a special attraction like a large sale of horses, might provid
 
 A covenant might find a way to become the owner of a lucrative fair, perhaps through a companion who is a minor nobleman, and use it as a significant source of income if they can continue it without attracting unwanted attention from the mundane authorities. A typical annual fair for a town counts as a Lesser Source of Income, a county horse fair combined with sale of cloth and a wide range of other goods counts as Typical, while one that draws traders from across Europe counts as Greater. See *Covenants,* page 16, for the Minor Resources Boon Rights, under which a covenant could have the right to hold a fair.
 
-## *Trading Law*
+## Trading Law
 
 For the system of trade to work, making it economic for merchants to transport goods over long distances and risking the dangers of travel, it is essential that there is trust between trading partners and an understanding that agreements can be enforced. Courts of law set up at the great international fairs provide a means of settling disputes in front of an international audience. People pass on news of the
 
@@ -3119,34 +3119,34 @@ Frequently goods are sold for cash or exchanged for other goods, but if delivery
 
 identifying words also written on each face. A cut is made about half way through the stick on one face, about three inches from one end, and then the stick is split from the other end as far as that cut. Each of the people involved take one of the two unequal pieces so that the pair can be reunited to settle any later dispute about the debt. The *instrumentum ex causa cambii*, or recognizance, is a document signed by the seller, the buyer, or the buyer's agent, and by an independent witness or notary, which is used to record a sale agreement. At the larger fairs, wardens are appointed to oversee contracts and ensure that the details are properly recorded.
 
-## *Weights and Measures*
+## Weights and Measures
 
 The legal process of assize covers the quality, price, and measure of bread, wine, and ale on sale at the fair, and the accuracy of the weights and measures used. Someone has the duty of tasting the ales to make sure they are good enough, which is important because ale only keeps a few days yet is in such demand that up to half the local women may brew for the occasion. A standard set of vessels is kept as the legal measures for fluids, flour, grain, and so on, and a set of weights is similarly kept. There is also a bar of iron for use as a recognized standard of length. All of these may be used by all. The problem lies in the fact that such standards only apply locally, and may be quite different elsewhere, even when the same measuring words are used. Accurate measurement is unlikely, and opportunities for fraud abound. (See Chapter 8: The Goods of Europe, for details of units for quantities of goods).
 
-## *The Group Responsibility for Quality Control*
+## The Group Responsibility for Quality Control
 
 Merchants from the same region often band together at fairs, especially when trading abroad and facing foreign rules and customs of trade. Before offering anything for sale at a fair, it is usual for a merchant to open his goods for inspection by the other merchants from his home area, so that they can be sure of their quality, since their collective reputation is at stake. Groups may appoint guild wardens or inspectors to monitor activities during the fair to ensure their reputation is maintained. Any wrongdoing, such as selling goods falsely weighed, prepared, or described, may result in a merchant being fined by his peers or, for a serious offense, ostracized.
 
 Foreign merchants may be asked to prove that they have sufficient resources at hand, in coin or in trade goods, to keep themselves and their servants while away from home. It is common for a guild to ban their members from engaging in games of chance during a fair. They may also be banned from standing as pledge in court for anyone outside their own group. If any merchant fails to pay a debt, it is likely that all merchants present from the same city will be obliged to pay up at a later fair, for example paying a fee of one penny for each shilling's worth of goods they have to sell.
 
-## *Royal Prise*
+## Royal Prise
 
 At all the great fairs, royalty and other powerful customers makes purchases, either in person, or, more frequently, through agents or servants.
 
-## *Story Seed: Cloth of Gold*
+## Story Seed: Cloth of Gold
 
 A covenant requires a very special gift for a noble family and so commissions a Redcap or a companion to purchase a rare and rich fabric, perhaps an Italian silk brocade or cloth of gold, from the fair. When the agent tries to buy some on display at one of the stalls, the seller apologizes, saying that the clerk of the great wardrobe has demanded all that the merchant has on behalf of the king, or if more appropriate in the saga, that the archbishop requires it for a new vestment. How will the covenant manage if their agent returns without the gift? Will the potential purchaser insist, at the risk of drawing attention from crown or Church? The covenant is offering to pay immediately in cash, while the others insist on credit and may never pay — will the merchant take the money? If he does, will the covenant help him avoid the inevitable trouble?
 
 They often buy in bulk, to clothe and feed their large households, whether they consist of servants and men at arms, or monks or nuns. A royal customer is generally undesirable, since any kudos are outweighed by the loss of earnings due to the royal prise, which is a special low price that royalty expects, such that it is a form of tax on the seller. A group of merchants from the same guild may agree to share the burden jointly. Despite a low price, it is not at all uncommon for a powerful buyer to delay payment for a long time, or not to pay at all. This is often acknowledged by the king, so there is a public announcement made and a cer-
 
 
-## *Money is the Root*
+## Money is the Root
 
 In Christian countries it is usual to mark the opening of the fair by celebrating a special Mass, which tempers the aura to Just according to the rules for ceremonial influence (see *Realms of Power: The Divine*, pages 38–41). Initially, a fair starts under the protection of its patron saint, but as time passes people forget about the saint and the protection fades quickly. With so many opportunities to sin on hand, it is likely that Infernal agents are busy at work. Characters with Second Sight or Sense Holiness and Unholiness may notice demons urging sellers to give short measure, whispering in the ears of those collecting tolls that they should overcharge, prompting bankers to charge interest, or guiding those of weak morals to prostitutes.
 
 emony conducted in which the royal agent's credentials are presented to an official of the fair for scrutiny, to ensure that the merchants know who is buying on behalf of royalty. The royal agent may be instructed by his employer to only obtain goods from those merchants known to be affluent enough to not be much injured by the attentions of royalty.
 
-## *Paying Up*
+## Paying Up
 
 All small payments are made on the spot in cash, but bills for large amounts of the best woolen cloth can run to 100 pounds, with prices for individual lengths running two to four pounds. Customers are not expected to carry such large sums, and the custom is for payment and
 
@@ -3156,7 +3156,7 @@ If the covenant is negotiating for several months' supply of wine or fabric to c
 
 The larger fairs have clerks to keep note of the sums of money spent and owed, but the Roman numerals used outside Arab regions do not lend themselves to easy recoding and arithmetic, so that errors are frequently made in long account rolls.
 
-## *Jurisdiction at the Fair*
+## Jurisdiction at the Fair
 
 The noble or ecclesiastic who has been given the right to hold a fair also has the right to uphold justice during the fair, over-riding any such rights of a nearby town. This often extends beyond the bounds of the fair itself — the income from fines is so attractive that the fair court (sometimes known as the Court of Piepowder, from the French *pied poudre*, referring to the dusty feet of the itinerant tradesman) takes over all trade-related prosecutions in the vicinity for the duration of the fair, whether associated with the fair or not.
 
@@ -3165,7 +3165,7 @@ Merchant law concerns itself mostly with debt and contract, is less formal than 
 The owner of a fair rarely presides herself, and is more likely to appoint someone with extensive administrative and legal experience to hold this prestigious office. Clerks are engaged to keep records of the cases, and bailiffs are recruited to carry out the orders of the court. Punishments are most often fines, though at some fairs a local building is rented to serve as a temporary prison for those convicted
 
 
-## *Godric — Peddler, Pirate, Hermit, & Saint Story Seed:*
+## Godric — Peddler, Pirate, Hermit, & Saint Story Seed:
 
 Saint Godric's veneration is centered in northeastern England, but his career took him over much of Mythic Europe. He started as a peddler, then became a merchant, shipping cargo between Scotland, Denmark, and Flanders. His business partner was lost at sea and, when hard times reduced his resistance to temptation, Godric took up piracy in the Mediterranean. An encounter with King Baldwin I of Jerusalem led to repentance and pilgrimages to the shrines of St. James at Compostela, Rome, and Jerusalem before he returned to settle in England. In a vision, St. Cuthbert told him to settle at Finchale near Durham, where he dwelt as a hermit. He became renowned for his austere lifestyle, the hymns he composed, and his prophecy. He died on 21 May 1170 at the age of 105. His grave is against what was the north wall of his church, although the monks of Durham have since built a shrine to St. Godric and established a priory on the site. Pilgrims often go there as part of a visit to the shrine of St. Cuthbert at nearby Durham cathedral.
 
@@ -3178,11 +3178,11 @@ of serious crimes, particularly theft, and occasionally a pillory is put to use.
 
 Regulations particular to the fair are enforced, and watchmen and armed guards are employed to patrol the fairground and apprehend wrongdoers. Butchers can be required to obtain a license to operate at the fair, as a means of reducing health risks and taking in money. Fires are forbidden on the fairground. Rubbish must be disposed of so as to leave the ways clear. Prostitutes and lepers are banned from the fairground and anyone discovered letting out a room to a harlot is fined (but it keeps on happening anyway).
 
-# *Joint Ventures*
+# Joint Ventures
 
 It is a considerable expense to build up sufficient stock to take to a fair, and to pay for servants, transport, and a booth to trade from. Sometimes merchants go into partnership with others who can provide capital in return for a share in the profits, including members of the nobility, ecclesiastics, and even rich widows. Such an arrangement might suit a covenant very well as a means of making money with minimal time and effort, although it is risky. Will the magi be tempted to provide their active partner with magical devices to facilitate his part of the arrangement, or to get involved if things go wrong?
 
-# *Traders and Goods*
+# Traders and Goods
 
 See Chapter 8: The Goods of Europe for details on the sources of raw materials and everyday items on sale at every fair, and the luxury goods that may be available but can only be reliably found at the largest fairs. The closer the fair is to a major source, the more likely a commodity is to be on sale. It is perfectly possible for items of supernatural origin to turn up as exotica, and the seller may well be entirely unaware of the source.
 
@@ -3198,17 +3198,17 @@ On the fairground, whether it is in the city or outside it, booths are grouped a
 There is often vigorous competition between merchants, although temporary partnerships may be created for short-term cooperation. A merchant bringing goods a long way might send a courier ahead to be there when the fair opens to cry the praises of the goods due to arrive in hopes of making an early sale. This is quite often successful, with goods being purchased sight-unseen. Rich merchants employ factors and brokers, who may be found mingling with the crowds while praising their employer's merchandise.
 
 
-# *The Great Fair Cycles*
+# The Great Fair Cycles
 
 The largest fairs in a region often occur in a cycle, since the owners of both fairs lose out if two are held too close together. A few of these cycles are particularly important in Mythic Europe, but the Champagne cycle is easily the most significant.
 
-## *The Champagne Cycle*
+## The Champagne Cycle
 
 The Champagne cycle fairs form the trading center of Mythic Europe, providing an opportunity for goods to move to England, Flanders, Scandinavia, and the Baltic from Italy, Spain, and Byzantium, and vice versa. The region is well placed with respect to the overland routes to Italy, Provence, Flanders, Bohemia, the Baltic, and Iberia. The pre-eminence of the Champagne fairs in recent years is based on the ability of the counts of Champagne to guarantee to all merchants their personal security and the security of their property while at the fair and while traveling to and from the fair. They are even known to offer restitution for any goods stolen in transit. In order to make the guarantee work, they prohibit use of their fairs by merchants from places where the ruler refuses to cooperate with the fair administrators, including the assurance of safe conduct and the pursuit of debtors.
 
 The clerks in Champagne are more diligent than most about recording contracts where a fee is involved; unlike other fairs, Champagne has importance apart from the trade in goods as a financial center for the exchange of coins,
 
-## *The Champagne Cycle*
+## The Champagne Cycle
 
 **Lagny:** January 1 for 6 weeks **Bar-sur-Aube:** mid-Lent for 2
 
@@ -3230,11 +3230,11 @@ Unlike other fairs, where everything on sale is available throughout the fair, t
 
 arrangement of credit, and settlement of accounts.
 
-## *The Five Fairs of Flanders*
+## The Five Fairs of Flanders
 
 The Flanders cycle comprises fairs successively in Lille, Mesen, Ypres, Torout, and Bruges, held between February and November. Like the Counts of Champagne, the Flemish rulers make efforts to keep the roads safe for those going to or from their fairs. They are built on the cloth trade centered on Ypres, Ghent, Douai, and Bruges, particularly the trade in fine woolen and linen cloth. Transport of goods by water is very much the rule here, with tolls to be paid to different authorities along the way; at Lille
 
-## *The English Fair Cycle*
+## The English Fair Cycle
 
 **Stamford:** Ash Wednesday to Palm Sunday (owner: Earl Warenne)
 
@@ -3252,11 +3252,11 @@ The Flanders cycle comprises fairs successively in Lille, Mesen, Ypres, Torout, 
 
 cargoes must be off-loaded and carried on horseback past rapids, while at Douai boats must negotiate a lock. Transport this way is quicker than by road, but costly.
 
-## *England's Great Fairs*
+## England's Great Fairs
 
 The fairs at Boston, Stamford, St. Ives, King's Lynn, and Winchester, and possibly also Northampton and Bury St. Edmunds, are major ones. They serve as local fairs for their own area, but also attract merchants from far afield. Merchants from all over England, and visitors from Flanders, France, Italy, Ireland, Brabant, and beyond are found there. The primary purpose of these fairs is the sale of English wool to the merchants of Flanders, and also the sale of cloth woven both in England and
 
-## *Looking Ahead*
+## Looking Ahead
 
 If your saga follows real history, the Champagne and Flanders fair cycles fade in the 14th century, as those in southern Germany increase in importance when trade routes to the east and over the Alps develop. After 1300, the major fairs are held at Bergenop-Zoom, Antwerp, Leipzig, Friedberg, Frankfurt-am-Main, Geneva, Lyon, Bozen, and Medina del Campo.
 
@@ -3266,13 +3266,13 @@ The timing of the Boston fair means more deals for wool are done there than at a
 
 The fair on St. Giles' Hill, Winchester is the most important in the country and the only one where Redcaps are always in attendance. It attracts merchants from Aragon, Toulouse, Normandy, Germany, and Flanders, many of whom tend to stay on and trade in the town until the end of September. Tin from Cornwall and gold from Wales can be obtained there. The fair site has grown out from its origins at the foot of an old barrow where a pagan festival was held at about the same time of year.
 
-## *Unfair Competition*
+## Unfair Competition
 
 If your saga follows history, the success of St. Giles' Fair will be threatened when in 1245 King Henry III establishes a fair at Westminster to be held in mid-October to benefit Westminster Abbey and celebrate his devotion to St. Edward the Confessor. At this fair he promises that the king's prises (the reduced prices of goods to royalty) will be dropped, and also that royal debts will be settled immediately. To make sure it is a success, he bans all other trading in London for the duration and has proclamations made at all the major fairs, putting pressure most heavily on Winchester.
 
 A grid of streets with permanent buildings has been laid out around the church of St. Giles, outside the city walls. Many of these are only occupied part of the year. Open land around is used for temporary stalls, a parking area for carts, and a place to tether horses and other animals.
 
-## *Hermetic Mid-Summer Fair*
+## Hermetic Mid-Summer Fair
 
 It is often inconvenient to trade in secret or through agents at mundane fairs, so for some years now a covenant in the Tribunal of the Greater Alps has held a gathering in early June, lasting for up to eight days. Here magi trade in vis, books, enchanted devices, and anything else.
 
@@ -3284,17 +3284,17 @@ Trades may be negotiated individually, or goods entered into an auction run by t
 
 The hosts are not expected to provide lavish hospitality. Very senior visiting magi are accommodated in guest quarters, but most visitors make use of the field set aside for tents and other temporary structures. Feasts are held on the first and last day of the fair, to which all visiting magi are invited, and on other days food and drink are available as at any other fair. Games and contests are arranged to keep grogs and servants occupied while the magi negotiate and chatter.
 
-## *Thessalonica*
+## Thessalonica
 
 While of lesser importance than Champagne to covenants in the western tribunals because of distance, the great fair of Thessalonica, known as the Demetria, rivals those of Champagne in size and the range of goods on offer. Covenants in the tribunals of Novgorod, Transylvania, Thebes, and the Levant often take advantage of this opportunity. Merchants come from as far as France, Portugal, Castille, Sicily and Italy, Egypt, Nicea, Hungary, and Bulgaria as well as the immediate surroundings. Proximity to Constantinople means that rare and rich goods from the East are more easily come by here than at any of the western fairs, which is enough to tempt many covenants to send a representative, particularly when exotic materials are required for enchantments.
 
-# *Regional and Local Fairs*
+# Regional and Local Fairs
 
 Many towns and some villages have the right to hold a fair once a year. Such a fair is almost always fixed to start on a saint's day and, if the place is blessed with the relics of a saint or martyr, the fair is held on that feast day, since all those pilgrims need food and drink and may well be persuaded to spend on other goods and entertainments. The duration is unlikely to be more than two or three days at first, though this may be extended as a reward or favor. While some fairs are to benefit local nobles, many minor fairs have been established to raise funds for a monastery, abbey, convent, or some other charitable cause, for example a leper hospice.
 
 A significant fair which offers more than the local market is likely to be sited close enough to a navigable river that goods can arrive by boat, and also close to a major road, as goods are often carried by ox-drawn cart or — as with cattle, horses, and geese — come on their own feet. There one can purchase agricultural equipment and minor luxuries as well as livestock and agricultural produce. The smallest fairs take place in the grounds around a church, but such are unlikely to attract visitors from further than the next village. Such a local event would be timed to fit into the agricultural cycle so that most people would be free to attend. Foodstuffs and the products of local craft workers are on sale; itinerant peddlers offer ribbons, trinkets, a few common spices, pouches, and pins; and there may be a hedge magician offering minor charms and cures. Everyone is expected to attend, and rents for land and buildings are often payable at fairs.
 
-## *Examples*
+## Examples
 
 Saint Denis's Lendit Fair near Paris was founded by King Dagobert in the seventh century and was the most important fair in France until the Champagne cycle took over. Now it attracts fewer foreign merchants but it is still regionally important. It runs from the feast of St. Denis (October 9th) for a month. More recently, in 1109, a second Lendit fair was initiated, starting on 12th June. Both Lendit fairs are for the benefit of the Abbey of St. Denis, although the University of Paris has the right to send representatives to the June fair to request their annual allowance of parchment and money donated, willingly or otherwise, by the merchants.
 
@@ -3303,9 +3303,9 @@ In the Rhineland, the most important fairs are held in Cologne at Easter and in 
 In England, the university town of Cambridge controls three local fairs — Garlic, Midsummer (Barnwell), and Stourbridge — and one at Reach, the fenland end of the Devil's Dyke (a linear ridge and ditch earthwork). In addition there are fairs permitted at ten of the surrounding villages.
 
 
-## *Chapter Seven*
+## Chapter Seven
 
-# *Trade*
+# Trade
 
 Late last century, the commercial network of Europe began to change irrevocably. Many new mines become commercially viable, and precious metal became comparatively common. Europe's economy began to switch from agrarian barter to one in which it is possible for people to buy and sell using money. This process, monetarization, is continuing and accelerating. It has allowed the major noblemen of Europe to cease their earlier habit of traveling about their demesnes, eating through the foodrents of their vassals, and settle their courts in major cities.
 
@@ -3315,7 +3315,7 @@ Cities breathe silver. The agrarian nobility accept money from their vassals as 
 
 This provides commercial opportunities for those willing to risk their lives and fortunes on the road. A new type of person has appeared in the West: people who, like magi, lie outside the division of the world into those who toil, those who pray, and those who war. These are people who can catch the city's breath and keep a little for themselves: the merchants.
 
-# *Virtues and Flaws for Traders*
+# Virtues and Flaws for Traders
 
 All traders have a Social Status Virtue representing the style of trade in which they engage. This determines their social position and degree of affluence. These Virtues, in ascending order of wealth, are: Merchant (which suits urban merchants and local carriers), Merchant Adventurer, Factor, and Capo. A character may have
 
@@ -3327,7 +3327,7 @@ Players creating traders might also consider the following Virtues: Affinity wit
 
 Merchants have many of the same Flaws as other wealthy people. Personality Flaws are particularly suited to young merchants, who have access to wealth, but few of the traditional obligations that bind the landed nobility. Players might also consider two Flaws specific to merchants the Favors Flaw may be used to represent a merchant's indebtedness, and the Employed by Company Flaw suits characters who work primarily for a salary.
 
-## *Companies*
+## Companies
 
 A company, also often called a "house," is a durable financial relationship usually formed between a small number of men related by blood or marriage. Many companies originate from a father who brings his sons into his business. After the father dies, each son has a share in the business, and is called a partner. The partners select someone, usually one of their number, to manage the daily affairs of the business.
 
@@ -3339,7 +3339,7 @@ Any variety of merchant may work for a company, or a corporate body like an abbe
 
 Carrying cargo for a company is less risky, and less profitable, than independent trading, but many independent merchants accept consignments from a company when they cannot find sufficient cargo. Over time, the company finds traders with whom it can work comfortably. If sufficiently talented, these merchants are asked to join the company as employees, or, if they have capital, junior partners.
 
-## *New Virtues*
+## New Virtues
 
 #### **Capo**
 
@@ -3377,7 +3377,7 @@ For one commodity, and products manufactured from it, the character never fails 
 
 This form of secular instruction, given by tutors to the scions of merchant houses, emphasizes practical skills likely to make the student suited to a leadership role in the family business. The character may purchase Academic Abilities during character creation. She also gains 50 additional experience points, which must be spent on Academic Abilities, Bargain, the Organization Lore of the character's company, Profession Merchant, or the language of trade in the company's region (usually Latin, Greek, or Arabic).
 
-## *New Flaws*
+## New Flaws
 
 #### **Bigamist**
 
@@ -3403,7 +3403,7 @@ The character has a lot of daughters and needs to participate in stories to marr
 
 Young merchants often marry for financial reasons. The character has married for money, not love, and seeks solace outside his marital bed. Unhappily married characters must hide their affairs of the heart from their spouses, their spouses' families, and possibly from their partners' spouses. In many areas, separation due to infidelity is permitted, although this is not divorce. In many such cases the wife's dowry must be returned, in part or full.
 
-# *The Urban Merchant*
+# The Urban Merchant
 
 An urban merchant, the least affluent type, lives in a single city, and sells wares in its market. If there is a fair near the city, the merchant might visit it, but these merchants do not seek fairs distant from home. Urban merchants are retailers: they sell goods to their final users. They should select the Merchant Social Status Virtue.
 
@@ -3414,7 +3414,7 @@ Covenants have many uses for urban merchants. They may be hired inexpensively. T
 
 an information gathering resource. Urban merchants often have excellent Area Lore, as described in Chapter 5: Travel.
 
-## *Scale of Affluence*
+## Scale of Affluence
 
 Poor urban merchants act as peddlers on behalf of wealthier merchants or traders. They buy a basket of stock each morning, and sell it in the streets during the day. Peddling is, in many cases, a sort of disguised begging. Some peddlers do not even own their stock and basket.
 
@@ -3423,7 +3423,7 @@ An average urban merchant lives in a rented house in the town. The merchant's wa
 Wealthy merchants own their own home, and trade from a store near the market that they might own. Most are rich because they trade in something a little unusual, which allows them to draw richer clients, or because they have a monopoly on a commodity for a lucrative section of the city.
 
 
-## *Investments Suited to all Merchants*
+## Investments Suited to all Merchants
 
 All merchant types may invest their surplus Labor Points, or spend their spare seasons, in the following ways.
 
@@ -3455,7 +3455,7 @@ Players may trade labor for the finer things in life, like clothes and expensive
 
 The character spends a great deal of time trying to get two nonplayer characters to marry. This costs two seasons' worth of Labor Points, which are lost. The introducer of the couple is given an honored place at their wedding, which allows him to develop 1 point in any suitable Reputation. It also allows him to meet many members of the social class of the couple, and this provides the Social Contacts Virtue, which fades after three years, unless the character arranges another marriage. The couple, or the couple's parents at the player's discretion, owe the character Favors, like the Flaw.
 
-## *Stories Suited to All Merchants*
+## Stories Suited to All Merchants
 
 The stories suited for each stratum of merchant also suit those above, so most stories suiting the poorest merchants are appropriate for any type of merchant. Many stories may be used as investments instead, although this earns fewer Labor Points. Suitable gains in Labor Points are given at the end of most entries, although some stories result in the immediate gain of a whole level of wealth, or simply preserve the merchant from disaster.
 
@@ -3612,7 +3612,7 @@ The best example of this are the Fleets of Venice, in which investment is so pop
 
 A character caught up in an unraveling economy needs either to secure his money first, and ride out the collapse, or find a way to halt the demands for immediate repayment. Sometimes this has been achieved by gathering powerful people together and having them finance a bank that guarantees that the debts of the failing business will be paid, on the strength of the Reputation of the partners. If this prevents the cascade of demands for repayment, it saves the city's businesses. In some cities, Venice for example, the guilds have a form of insurance payment that provides a similar service. (One season's worth of Labor Points)
 
-# *The Local Carrier*
+# The Local Carrier
 
 Local carriers follow a single route, carrying the same stable commodities, for many years. This is lucrative in the many areas where one group of carriers has a monopoly on the right to transport goods. In other areas, local carriers supplement their income with craftwork, theft, or day labor during the harvest season. Local traders often travel together in caravans, sometimes mixed with pilgrims, so that bandits do not catch them alone on the road. All local traders have the Merchant Virtue.
 
@@ -3623,7 +3623,7 @@ independent traders are willing to work for a larger organization, like a covena
 
 An important variant of the land carrier is the waterman. Watermen are responsible for shipping goods along rivers, along coasts, and over fords. They also carry passengers, which can be lucrative on short, busy routes. In large cities lacking sufficient bridges — Paris and Venice are examples — the Guild of Watermen is particularly powerful.
 
-## *Scale of Abundance*
+## Scale of Abundance
 
 A local carrier with the Poor Flaw usually travels with a single pack animal's worth of goods. Some have no home, carrying a few prized possessions as they travel. Some settle down with relatives or at inns when the winter comes, and use Craft Abilities make money during the hiatus.
 
@@ -3632,7 +3632,7 @@ A local carrier of average wealth carries enough cargo to fill a single four-whe
 The wealthiest local carriers may run a caravan of a dozen carts, or command a coastal trading ship. Each owns a home, with servants, in a city. They also often own a warehouse, and many have purchased a second, dependable source of income with their profits.
 
 
-## *Stories with Local Carriers*
+## Stories with Local Carriers
 
 Local carriers make valuable covenfolk. A local trader knows the places along his route better than virtually any non-resident, has contacts in each place, and is skilled at purchasing and transporting goods.
 
@@ -3691,7 +3691,7 @@ makes every merchant responsible for the good behavior of all of his countrymen 
 
 Some courts would consider a writ of reprisal against the Order, if the representatives of a covenant were convicted of improper dealing. Such a writ is sufficient evidence of interfering with the mundanes for a Quaesitor to review the activities of the characters. (One season's worth of Labor Points)
 
-# *The Merchant Adventurer*
+# The Merchant Adventurer
 
 Many young men, from wealthy families, make speculative voyages to establish their fortunes. They usually lack developed trading skills, but are supported by a crew that have made similar voyages before, perhaps with the young man's father or uncles. The young merchant's patron carefully selects these supporters. A variety of Flaws can be used to represent the merchant adventurer's relationship with the person or organization that provided him sufficient credit to launch a career.
 
@@ -3699,7 +3699,7 @@ All merchant adventurers, regardless of wealth or poverty, are in command of a s
 
 When a city is threatened, its leaders expect merchant adventurers to fight on the city's behalf under the direction of the master of the city's fleet. Only the richest cities have true warships; most depend on their merchants for naval power. Even those with warships require cargo vessels to carry supplies, act as troop transports, and carry messages.
 
-## *Stories for Merchant Adventurers*
+## Stories for Merchant Adventurers
 
 Covenants and merchant adventurers often find a commercial relationship lucrative. A covenant that generates wealth, using magic, can send it to distant markets where mundane people are less likely to notice it. Magi also find merchant ships a useful method of travel. Young merchants like rich passengers. The goods most magi require are available in most large cities. This allows a ship to find return cargo easily and avoid areas suffering depressed trade.
 
@@ -3785,7 +3785,7 @@ depress markets for a long period afterward, if an area has been ransacked, or i
 
 Warfare increases the demand for some strategic cargoes. These include weapons and mercenaries. If important coastal cities or castles are besieged, a merchant adventurer can develop a useful Reputation, and make a tidy sum, running the blockade. Blockade-runners use small, swift vessels to slip through the cordon of warships that prevent a besieged place from being supplied by sea. Runners are very popular with the besieged, but make enemies of the besiegers. Blockade running requires a seasonal shiphandling roll (Dexterity + suitable Profession) against an Ease Factor of 15, with failure indicating identification of the runner's vessel and battle with blockading ships. (One and a half seasons' worth of Labor Points as a story, one season's worth of Labor Points as investment of time)
 
-# *The Factor*
+# The Factor
 
 The Latin title, *factotum*, literally means "person who does everything." Some companies give their factors other titles, like "agent," "governor," or "administrator." Factors control their employer's assets in the city and have a great deal of autonomy on daily matters. They do not personally travel to perform trade, but assist commerce by preparing supplies, maintaining equipment, and aggregating cargoes. Factors are often the sons or nephews of partners in their house. Inexperienced factors are provided with skilled counselors.
 
@@ -3795,7 +3795,7 @@ The factor also maintains the company's secondary interests, which usually inclu
 
 Factors are skilled in Bargain, Civil or Common Law, Folk Ken, Leadership, and Profession Trader. Most factors have a little skill in whatever Craft Ability creates their main product; Weaving is the commonest example. A wealthy factor inevitably draws the attention of the nobility and the Church, and requires Abilities like Charm, Etiquette, and Intrigue deal with them.
 
-## *Scale of Affluence*
+## Scale of Affluence
 
 All factors have large, wellappointed homes, staffed with several servants. These include a few sentries or bodyguards. Failure to maintain this lifestyle reduces the factor's Reputation and commercial opportunities, so low-income factors go deeply into debt, in preference to allowing their standards to fall.
 
@@ -3806,7 +3806,7 @@ The Factor Virtue is also used for independent traders who have sufficient capit
 
 to that of a minor landholder. A wealthy, independent factor lives in luxury that minor nobles envy. Some factors marry into the noble class, or have their sons knighted. Wealthy, independent factors may live more lavishly than their company equivalents, since they are not answerable to owners.
 
-## *Stories with Factors*
+## Stories with Factors
 
 Covenants find relationships with factors useful. Factors have sufficient capital that they can aggregate a covenant's manufactured supplies for a period and send them as a single shipment. Factors that manage workshops can provide skilled labor to the covenants, as needed. These traders are often the first people in a town to learn important news. Company factors often have personal wealth that they cannot display, lest their superiors think they are using company funds. They might invest these funds with magi, or use them to purchase magical items.
 
@@ -3853,7 +3853,7 @@ A house may hire people to whisper into the ears of the influential. This costs 
 
 
 
-# *Skullduggery*
+# Skullduggery
 
 Characters engaged in commercial law-breaking use their Intrigue Ability to hire skilled professionals. If these incidents are played in stories, the criminals use their own Ability scores. If the crimes are resolved without a story, the hiring character rolls Communication + Intrigue and uses the result in place of the proxy's roll, to determine the degree of success. Characters with excellent Intrigue hire the very best people, and get excellent results. Factors without Intrigue skills hire servants who do. Characters whose proxies must defend against crime — sentries or bodyguards for example — use their own skills during stories. For non-played events, they may use either their own skills or the Communication + Intrigue of whoever hired them. Some young capos, with poor Intrigue skills, are protected by a phalanx of their father's hires.
 
@@ -3886,7 +3886,7 @@ Agents can be instructed to perform many varieties of sabotage. They charge a po
 
 The type of sabotage attempted also adds to the sentry's roll. This reflects the time and difficulty required to inflict damage on the facility.
 
-## *Sabotage Table*
+## Sabotage Table
 
 | Type<br>of Sabotage | Sentry's<br>Aw<br>areness<br>Bonus | Examples                                                                                                                                                 |
 |---------------------|------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -3908,7 +3908,7 @@ Theft allows the factor not only to harm enemies, but make a tidy sum at the sam
 
 A powerful weapon for the dueling factor is fomenting treachery among his enemies. Convincing a captain and crew to scuttle a ship, another factor to change companies, or a partner to sabotage his own firm usually costs a great deal of money, so treachery is often only an option where exploitable dissatisfaction already exists. One of the reasons captains and factors are paid percentages of profits rather than simple salaries (by richer companies, anyway) is to dissuade treachery. Some traitors act from principle, however, and others from passion, and these are the hardest to dissuade.
 
-#### *City & Guild*
+#### City & Guild
 
 | Largesse: The Costs<br>of Excellent Building |            |
 |----------------------------------------------|------------|
@@ -3945,7 +3945,7 @@ Factors administer the many non-trading investments that their houses have. The 
 Merchants are often the targets of extortion by noblemen. Many nobles seize goods, or request them at bargain prices. Some enact tolls that affect profitable new industries. In times of war, a nobleman may prohibit anyone from trading with his rival. Merchants may hire bandits to harass the servants of noblemen, or damage their property, but it is rare for individual merchants to raise armies. Town councils sometimes do this, but merchants prefer to encourage nobles to take militant action against a mutual enemy, compensating them for the trouble. (Turning aside the will of a powerful noble is worth one season's worth of Labor Points)
 
 
-# *Intrigue and the Art of Indirect Action*
+# Intrigue and the Art of Indirect Action
 
 Characters who oppose nobles may attempt skullduggery, but often find it less dangerous to strike indirectly at their enemies, by supporting noble allies with money and information. For intrigue to find information or allies, they must exist. A character who has led a blameless life is armored against Intrigue. The following Ease Factors, for an Intelligence + Intrigue roll, demonstrate what a character might learn about potential allies, or the harm they may cause by spreading gossip. The noble to be harmed is referred to as the target.
 
@@ -3990,7 +3990,7 @@ Factors encourage young merchants to work for the company. This can be difficult
 
 and gain that number of Labor Points, plus the benefits of one Favor per 10 points, rounding up.)
 
-# *The Capo*
+# The Capo
 
 A capo is the leader of a merchant company. Capos do not travel for trade, but may act as factor of the local branch of the company, and appoint factors to the other branches. The capo sets the grand strategy for the trading house, and engages in politics to assist its trade. The capo also deals directly with powerful people who can influence the house's fortune, like major noblemen and senior clergy. All characters with this role must select the Capo Social Status Virtue.
 
@@ -4000,13 +4000,13 @@ Capos who act as factors require the same skills. Other capos are primarily poli
 
 A covenant may find areas of mutual benefit with a capo. Many capos are interested in magic items, such as longevity rituals. Capos can repay magi through favors, using their enormous, if diffuse, temporal power. They are also one of the few groups in Mythic Europe who don't need to pay for magic items with rights, promises, and favors: capos can pay in coin, or with information drawn from their networks of contacts.
 
-## *Scale of Affluence*
+## Scale of Affluence
 
 The capo's wealth depends on the prosperity of his house, and his degree of control over its branches. A poor capo might be an independent factor who has accepted a large amount of credit, and dispatched his brother to found and manage a branch in another city. Other poor capos are the scions of failing houses. They are asset-rich, and have the marvelous buildings of previous generations, but are cash-poor due to trading loses. An average capo lives luxuriously, like a nobleman. A wealthy capo is richer than minor kings.
 
 The capo's house serves as the company's central office. It is used for business meetings, entertaining significant clients, and demonstrating the house's success through ostentatious displays of wealth. Many capos engage in lavish public spending.
 
-## *Stories for Capos*
+## Stories for Capos
 
 The capos of major trading houses are some of the richest and most powerful people in Europe. They solve most of their problems by sending skilled associates to apply as much money or force as is required. Stories for capos focus on those things that associates cannot do for the capo: planning the future of the house, negotiating with other powerful people, and seeking pleasure.
 
@@ -4043,11 +4043,11 @@ The capo may elect to bring his company into a new industry, or a
 
 new city, by creating a new branch. Founding a branch usually requires a tremendous amount of money to be transported, for use as stake capital. A branch, at minimum, requires a fine house for the factor, warehouse space, and sufficient money to begin aggregating cargoes. It also usually includes additional amounts for sundry expenses like employing guards, hiring merchants, purchasing vehicles, and arranging monitoring agents to spy on the factor. (Half a season's worth of Labor Points)
 
-# *Trade and the Order of Hermes*
+# Trade and the Order of Hermes
 
 Hermetic magic is an incomparable advantage to a trader. Examples follow, but most troupes will be able to find even more ways to use magic surreptitiously to advantage. There is little reason for most magi to be poor. Troupes creating, or obtaining, vast amounts of wealth using magical assistance, however, should familiarize themselves with the Inflation rules given in *Covenants*, Chapter 5: Wealth & Poverty.
 
-## *Creating Wealth Using Magic*
+## Creating Wealth Using Magic
 
 Magi are able to create wealth almost effortlessly. Aside from the simple creation of commodities, magi may use magic in the following ways to generate profits:
 
@@ -4060,7 +4060,7 @@ Magical gathering of commodities. •
 - Magi may use magic to assist travel, which reduces travel time, a key expense. •
 - Most ships are forced to skip from port to port along a coast, so that they can refill with water and provisions. Minor enchanted items that make seawater potable, and items that attract birds and fish for food, allow characters to sail straight to their destination. This dramatically reduces travel time, shore leave, and possibly crew morale. •
 
-## *Novelties*
+## Novelties
 
 In addition to using Hermetic magic directly, magi often know of strange technologies, either lost since Roman times or found only in remote lands, with the potential to revolutionize trade if they spread.
 
@@ -4102,7 +4102,7 @@ bigger, but it cannot become more dense. Ships beyond 60 feet long are therefore
 
 Vertically integrated industries capitalize at the source of raw materials, because this reduces transport costs. The wool trade, for example, is vital to both of the manufacturing areas in Western Europe, but a vertically integrated industry would have the wool processed at its sources, in England and Spain, so that the lighter and more valuable cloth could be exported. The north Italian and Flemish cities would lose their role.
 
-## *Stories for Magi*
+## Stories for Magi
 
 The following stories are suitable for groups led by magi, but merchants involved in them still earn up to two and a half seasons' worth of Labor Points, depending on the merchants' role in the story.
 
@@ -4146,13 +4146,13 @@ Europe's gold comes primarily from trade with North Africa, although small, spor
 The Order is afraid Europe will have either too little silver to buy Serican goods, as seemed likely before the mines at Freiburg were discovered in 1168, or that magically produced silver will flood the market, making it valueless to the Sericans. Even now, some Hermetic scholars of trade wonder how the Sericans receive so much silver every year, yet continue to want more. Some say that there are many nations between Europe and Serica, and these have not all suffered surfeit of silver. Others believe the Sericans are monsters who eat silver.
 
 
-## *Chapter Eight*
+## Chapter Eight
 
-# *The Goods of Europe*
+# The Goods of Europe
 
 This chapter lists products of many industries that a troupe might select as covenant income sources. It also includes luxurious items, suitable as rewards for characters who complete difficult stories, or as the materials for Hermetic enchantment. Commodities can be divided into three classes: bulk goods, manufactured goods, and luxury goods.
 
-# *Bulk Goods*
+# Bulk Goods
 
 Bulk goods are those that are traded in enormous volume between their sites of production and the cities that consume them. These include salt, food, drink, cooking oil, fuel, timber, and industrial materials. Most cities cannot supply these basic needs from their hinterlands, although many supplement international trade with locally produced goods. The profit on bulk goods is modest but sure, even for short journeys.
 
@@ -4235,7 +4235,7 @@ Salt makes bread and other starchy foods palatable. The production of salted mea
 
 **Wool** prices dip in spring. The most valuable wool comes from England, although Iberian wool is almost as fine, and many other areas produce coarse wools.
 
-# *Manufactured Goods*
+# Manufactured Goods
 
 Volumes of manufactured goods worthy of trade are produced in the large cities of Europe and in two industrial regions, located in northern Italy and Flanders. The two industrial regions link over the Alps, which is an expensive route. Goods also move between them, in far smaller quantities, through the Black Sea and the Muslim lands of the Iberian Peninsula. Some merchants predict that, if the Reconquista in Iberia continues, the Atlantic route will become more dependable and the number of ships following it will increase.
 
@@ -4261,7 +4261,7 @@ The northern European industrial area is smaller than the Italian, but is still 
 
 **Tapestries and Embroideries** are heavy cloths that display colorful designs. In tapestries, commonly from the Levant and Africa, this is woven into the cloth. England, in particular, is famous for embroidery, where colored thread is stitched through a length of fine wool to create patterns similar to tapestries.
 
-# *Luxury Goods*
+# Luxury Goods
 
 Luxury goods are used by the powerful to display their status. In many parts of Europe it is forbidden for poor people to own these status symbols. Clothing, in particular, is often regulated, but the women of the merchant class are surprisingly adept at finding legal loopholes to allow them to continue wearing fabrics, furs, and ornaments that are forbidden.
 
@@ -4298,7 +4298,7 @@ The prices given for expensive fabrics, below, are for rare, luxurious items mad
 
 **Weapons** are manufactured in most of the capital cities of Europe's kingdoms. The area around Milan is famous for the quality of its armaments, and its capacity to produce enormous numbers of weapons to order.
 
-# *Commercial Sources of Trade Goods*
+# Commercial Sources of Trade Goods
 
 The following lists of commercial sources of trade goods include only those places that merchants consider useful for purchasing large volumes of material, at prices that allow prof-
 
@@ -4307,11 +4307,11 @@ itable transport. Most goods can be found in any large city, and are available i
 
 Fish is an exceptional case. Any coastal town can provide fish at an exportable rate. Some locales are particularly famous for fish, and these are listed below.
 
-## *Africa*
+## Africa
 
 **Principal Ports (Alexandria, Tunis, Algiers):** Dyes, *Gold*, Inks, Ivory, Cheap Potash, *Cheap Spices*, Wax, Wool
 
-## *Baltic Sea*
+## Baltic Sea
 
 **All Areas:** *Amber***,** Grain, Pitch, Timber, Wood
 
@@ -4325,7 +4325,7 @@ Fish is an exceptional case. Any coastal town can provide fish at an exportable 
 
 **Sweden (Abo, Stockholm):**  Copper, Iron
 
-## *Black Sea*
+## Black Sea
 
 (Excluding Romania)
 
@@ -4333,7 +4333,7 @@ Fish is an exceptional case. Any coastal town can provide fish at an exportable 
 
 **Crimea (Kaffa):** *Furs*, *Slaves*, Wax **Trebizond (Trebizond):** *Cotton*, Ivory, Silk, Spices
 
-## *British Isles*
+## British Isles
 
 **All Areas:** *Foodstuffs (Cheese)*, Grain, Leather
 
@@ -4341,7 +4341,7 @@ Fish is an exceptional case. Any coastal town can provide fish at an exportable 
 
 **Ireland (Cork, Dublin):** Flax, Furs **England (Bristol, London, Scarborough, Southampton):**  Amber, *Brass*, *Coal*, *Embroidery*, Lead, *Fine Raw Wool*, Silver (the wool surplus creates an oversupply of silver in the economy), *Tin*
 
-## *France*
+## France
 
 (Including Calais and Gascony, excluding the industrial area in Flanders and Belgium)
 
@@ -4351,7 +4351,7 @@ Fish is an exceptional case. Any coastal town can provide fish at an exportable 
 
 **Southern (Marseilles, Narbonne, Salins-les-Bains, Toulouse):**  Dye, *Salt*, Slaves, *Wine*
 
-## *Germany*
+## Germany
 
 **All Areas:** Dye, Coal, Iron, Pitch, Cheap Potash, Timber
 
@@ -4363,11 +4363,11 @@ Fish is an exceptional case. Any coastal town can provide fish at an exportable 
 
 **South:** Flax, *Timber*, Wine
 
-## *The Holy Land and Ionian Asia Minor*
+## The Holy Land and Ionian Asia Minor
 
 **Principal Ports and Cities (Beirut, Smyrna, Rhodes, Nicosia, Tyre):** *Alum*, Cotton, *Dye (Indigo and others)*, *Potash*, Saffron, *Spices*, Sugar (particularly in Cyprus), *Fine Silk*, *Tapestries*
 
-## *Iberia*
+## Iberia
 
 **All Areas Except Mallorca:** Dye (Woad, Crimson), Iron, *Olive Oil*, Paper, Wax, *Wool*
 
@@ -4377,7 +4377,7 @@ Fish is an exceptional case. Any coastal town can provide fish at an exportable 
 
 **North and Center (Lisbon, Oporto, Corunna, Salamanca, Toledo):** *Soap*, *Weapons*
 
-## *Italy, Adjacent Islands, and Dalmatia*
+## Italy, Adjacent Islands, and Dalmatia
 
 **East Adriatic Coast (Ragusa, Spalato, Venice, Zara):** Alum, Cloth (all types), Fish, *Glass*, Iron, Jewelry, *Salt*, *Ships*
 
@@ -4390,17 +4390,17 @@ Fish is an exceptional case. Any coastal town can provide fish at an exportable 
 
 **Southern Alpine Towns:** Copper, *Iron*, Lead, Tin (small quantities)
 
-## *Low Countries*
+## Low Countries
 
 **Principal Ports and Cities (Arras, Brussels, Bruges, Ghent, Liege, Utrecht):** Brass *(Liege)*, Copper, Dye (Woad, Madder), Linen, Cheap Silk Cloth, Tapestry, Timber, Wool Cloth (particularly sewn into luxurious *trousers* from Bruges)
 
-## *Romania and the Byzantine Successor States in Europe and Aegean Islands*
+## Romania and the Byzantine Successor States in Europe and Aegean Islands
 
 **Romania (Constantinople):** Honey, *Olive Oil*, Perfumes, Salt, *Raw Silk*, *Cheap Silk Cloth*, Slaves, Spices, Wax, Wine
 
 **Crete:** *Saffron (small quantities)*, Wine
 
-## *Southern Russia, Poland, and Hungary*
+## Southern Russia, Poland, and Hungary
 
 **Russia (Kiev):** *Furs*, *Fish (Sturgeon)*, Cheap Potash, *Average Pearls*, Timber, Wood
 
@@ -4410,7 +4410,7 @@ Fish is an exceptional case. Any coastal town can provide fish at an exportable 
 
 (Cattle), Gold (small quantities), Leather
 
-## *Places So Far as to Verge on the Mythical*
+## Places So Far as to Verge on the Mythical
 
 **Everywhere:** *Gemstones* (type varies by place)
 
@@ -4422,13 +4422,13 @@ Fish is an exceptional case. Any coastal town can provide fish at an exportable 
 
 **Serica:** *Silk*, *Spices*
 
-# *Prices of Goods*
+# Prices of Goods
 
 The list beginning on the next page gives a universal price for many commodities. All prices are in Mythic Pounds of silver per tun or ton. Some items are not ever sold by the ton, as noted, but are listed for comparison. This allows players whose characters are producing wealth magically to determine the value of the goods that they create. The categories are described in greater detail in *Covenants,* page 71, but players should assume that shoddy goods are used by the poor, standard goods are those used by most people, superior goods are used by the wealthy, and expensive goods are suitable only for the richest people.
 
 The table has a series of gaps. The highest category, Flawless, is unused here. A ton of this quality of material is difficult to source or sell. Many entries have no value for Excellent. Hashed marks (#) indicate that tons of these commodities, of Excellent quality, cannot be procured. Asterisked (\*) commodities are sold at differing purities, which pull the price away from average price. Silver, for example, is usually sold as an alloy called bullion, which is, at best, 10% copper. Silver that is more or less debased than usual has a price reflecting its metal content.
 
-## *Weights and Measures*
+## Weights and Measures
 
 Dry goods are usually measured by weight, in pounds, for retail sale. Sixteen ounces equal one pound, or 1/2,420 of a ton. Many continental merchants use a different system, from Troyes, where the pound is divided into 12, larger, ounces.
 
@@ -4447,7 +4447,7 @@ Cloth is measured by length, in yards, or ells. Thirty-six inches equal three fe
 **36 inches = 3 feet = 1 yard**
 
 
-# *Prices of Goods Table*
+# Prices of Goods Table
 
 | Commodity               | Shoddy          | Standard | Superior | Expensive | Notes                                                                                     |
 |-------------------------|-----------------|----------|----------|-----------|-------------------------------------------------------------------------------------------|
@@ -4481,7 +4481,7 @@ Cloth is measured by length, in yards, or ells. Thirty-six inches equal three fe
 
 *continued on next page*
 
-# *Prices of Goods Table, Continued*
+# Prices of Goods Table, Continued
 
 | Pewterware<br>375<br>750<br>1,500<br>#<br>Expensive pewterware is unknown; people<br>who could afford it buy silverware instead.<br>Pitch<br>1<br>2<br>4<br>20<br>Potash<br>20<br>#<br>#<br>400<br>Potash has only cheap and expensive forms.<br>Pottery<br>20<br>70<br>140<br>700<br>Saffron<br>*<br>*<br>*<br>25,000<br>Sold by the ton only rarely<br>Salt<br>*<br>*<br>*<br>120<br>Silk Cloth<br>12,500<br>25,000<br>50,000<br>#<br>Sold by the roll<br>Silk, Raw<br>300<br>500<br>600<br>#<br>Silver<br>250*<br>1,650*<br>2,200*<br>2,420<br>Slaves<br>1<br>2<br>4<br>#<br>Slaves cost between 5 and 10 pounds each.<br>Soap<br>0.5<br>1<br>5<br>10<br>Spices<br>5<br>50<br>1,500<br>2,000<br>Tapestries<br>100<br>3,000<br>6,000<br>#<br>Timber<br>2.5<br>5<br>10<br>25 | Commodity | Shoddy | Standard | Superior | Expensive | Notes |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|--------|----------|----------|-----------|-------|
@@ -4505,15 +4505,15 @@ Cloth is measured by length, in yards, or ells. Thirty-six inches equal three fe
 | Wool Cloth<br>50<br>150<br>300<br>3,000                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |           |        |          |          |           |       |
 | Wool, Raw<br>25<br>50<br>100<br>500                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |           |        |          |          |           |       |
 
-## *Appendix*
+## Appendix
 
-# *Price List*
+# Price List
 
 Unlike other fantasy roleplaying games, **Ars Magica** has not typically concerned itself with prices for common goods. A character's personal possessions are determined by her Social Status Virtue and the troupe's general idea of appropriate starting items, rather than the amount of common coins she has jingling in her wallet. With a new emphasis on craftsman and merchants, however, stories may drift into the arena of personal expenses and available spending money. A fair will be more fun for a grog if he has twelve shillings to spend, for example, than if the storyguide waves her hands and says, "you have enough for a dagger and a night spent drinking."
 
 This section details medieval money and offers a suggested price list for common goods. Prices are listed for story flavor, to help give storyguides an idea of how much an individual dagger will cost a player's character. These prices should not be used to detail annual incomes of merchants or crafters.
 
-# *Medieval Money*
+# Medieval Money
 
 There are two types of money used in an **Ars Magica** saga: actual money in the form of coins, and
 
@@ -4528,7 +4528,7 @@ Eastern coins are based on the same Roman currency that Charlemagne used, but in
 In the West, a Mythic Pound equals 20 Mythic Shillings and 240 Mythic Pennies. In the East, a Mythic Pound equals two Mythic Bezants or Denars.
 
 
-# *Price List*
+# Price List
 
 Prices for a fixed good fluctuate across Mythic Europe, depending on the availability of raw materials in an area and the proclivities of the craftsmen living there. Still, a hierarchy of prices exists, and shoes are
 

@@ -82,7 +82,7 @@ ISBN: 978-1-58978-251-8
 Made of FSC®-certified paper that was responsibly sourced.
 
 
-# *[Memorials](#page-7-0)*
+# [Memorials](#page-7-0)
 
 
 panning nearly 40 years, Ars Magica is an intergenerational game that has sparked long-lasting communities across the globe. Our crowdfunding campaign comments were filled with memories of loved ones gone to Final Twilight, for whom Ars
@@ -815,7 +815,7 @@ Much more information about the Peripheral Code and its enforcement can be found
 
 
 
-# *The Code of Hermes*
+# The Code of Hermes
 
 *"I, Bonisagus, hereby swear my everlasting loyalty to the Order of Hermes and its members.*
 
@@ -3005,11 +3005,11 @@ The realm of a Virtue or Flaw determines how it interacts with supernatural aura
 
 A Major Personality Flaw is an aspect of the character's personality that defines them and drives stories. You should suggest projects that your character might have to the troupe, so that the storyguide can use them to create plots if everyone likes the idea. Similarly, the troupe or storyguide can suggest that this might be a good moment for the character's Flaw to get the better of them. (Conversely, the storyguide can certainly say that this would be a really bad moment, and then you should keep the Flaw under control, to avoid spoiling the game for everyone.)
 
-# *IV*
+# IV
 
-## *Social Statuses by Culture*
+## Social Statuses by Culture
 
-#### *All Cultures Western Christendom estern Islamic*
+#### All Cultures Western Christendom estern Islamic
 
 Merchant Falconer **MAJOR VIRTUES** Failed Apprentice Mendicant Friar Senior Master Gentleman/woman Priest Senior Bard Lone Redcap Religious **MINOR FLAWS**
 
@@ -3031,7 +3031,7 @@ Outcast Jurist **MINOR VIRTUES**
 
 **MINOR VIRTUES** Rabbi Shadchan
 
-## Redcap *Eastern Christendom North Africa* Venditor
+## Redcap Eastern Christendom North Africa Venditor
 
 **MINOR FLAWS** Clerk Notary Mazdean Priest Branded Criminal Eunuch Priest *Provençal* Companion Animal Falconer Religious Outlaw Leader Knight **MAJOR VIRTUES** Perfectus Outsider Marshal Archieunuch Troubadour/Trobairitz
 
@@ -3078,7 +3078,7 @@ Tainted Virtues and Flaws are associated with the Infernal realm, and can be gra
 At the troupe's discretion, non-tainted versions of some of these powers may also be available, and associated with the Magic or Faerie realm.
 
 
-## *List of Virtues*
+## List of Virtues
 
 Elemental Magic Master Bard Masterpiece Faerie-Raised Magic Muqta' Method Caster
 
@@ -6079,7 +6079,7 @@ It is, however, useful to have the Withstand Casting Virtue even with Life- Link
 Example: Some time later, Vita tries again, hoping to cast another level 20 spell. However, she botches, and her Casting Total is zero. She would normally lose 6 Fatigue levels (1 for spontaneous casting, plus 1 for Vulnerable Casting, plus 4 for the shortfall in Casting Total), but she can withstand 3 Fatigue levels lost, and only suffers a net loss of 3 Fatigue levels. The spell fails, but she is still conscious.
 
 
-## *Flaws*
+## Flaws
 
 **HERMETIC, MAJOR** Diabolic Past Poor Blatant Gift Difficult Underlings Repellent Chaotic Magic Enemies The Constant Expression Envied Beauty **HERMETIC, MINOR** Deficient Technique Evil Destiny Bound Casting Tools Difficult Longevity Ritual Excommunicate Bound Magic Environmental Magic Condition Favors Brutal Artist Magic Addiction Feud Careless Sorcerer Necessary Condition Indiscreet Clumsy Magic Restriction Mistaken Identity Corrupted Arts Rigid Magic Monastic Vows Corrupted Spells Short-Ranged Magic Oath of Fealty Creative Block Suppressed Gift Raised from the Dead Deficient Form Twilight Prone Rector/Proctor Deleterious Circumstances Unnatural Magic Servant of the (Land) Difficult Spontaneous Magic Unstructured Caster Supernatural Nuisance Disjointed Magic Vulnerable Magic Suppressed Gift Disorientating Magic Waster of Vis Tainted Offspring Exciting Experimentation Weak Magic Resistance Tormenting Master Fettered Magic Weak Spontaneous Magic Tragic Life Flawed Parma Magica
 
@@ -9689,7 +9689,7 @@ The 'Loyal to Covenant' Personality Trait of any individual within the covenant 
 
 To calculate Prevailing Loyalty, calculate the total modifier for each magus in the covenant as given in the nearby table, then divide by the number of magi in the covenant.
 
-## $B_{\text{ASE}} \ L_{\text{OYALTY}} = \\ total \ of \ Gift \ modifiers / number \ of \ magi$
+## $B{\text{ASE}} \ L{\text{OYALTY}} = \\ total \ of \ Gift \ modifiers / number \ of \ magi$
 
 Make a note of this Base Loyalty, for if the membership of the covenant changes, adjustments will need to be made to Base Loyalty without affecting any later modifications in loyalty due to player actions. The total **loyalty points** are
 
@@ -11884,7 +11884,7 @@ Embitterment is a Major Supernatural Ability that allows the speaker to make a l
 
 To embitter a target, the player states the exact specifications of how the target will act against the intended victim. He then rolls the character's Communication + Embitterment + a stress die and compares it to a variable Ease Factor, which depends on the level of aggression he wishes to instill, and the level of loyalty possessed between the target and the former ally. Since this is a Supernatural Ability, the roll always uses a stress die. The Embitterment power of the Nemthengacha is a Magic power for purposes of determining its interaction with the other realms of power; it seems likely that an Infernal version also exists.
 
-## $E_{\text{MBITTERMENT}} \; Roll: \\ Communication + Embitterment + Stress \; Die \\$
+## $E{\text{MBITTERMENT}} \; Roll: \\ Communication + Embitterment + Stress \; Die \\$
 
 Consult the following chart to determine the Ease Factor.
 
@@ -12948,7 +12948,7 @@ If your stabilization season succeeds, you gain one breakthrough point per magni
 
 As a side affect to this stabilization process, you receive Warping Points from your attempts to understand this new magic. The number of Warping Points gained is the magnitude of the effect minus a simple die. If you gain 2 or more Warping Points you must roll to avoid Wizard's Twilight (page 228). You can obviously mitigate the chance of gaining Warping Points by experimenting with lower magnitude effects. However, this lengthens your original research process, since it is your accumulated effect magnitudes that ultimately add up to your Breakthrough. Experimenting with higher magnitude spells hastens you toward your Breakthrough and increases your risk of Wizard's Twilight.
 
-# $\begin{array}{c} W_{\text{ARPING}} \ P_{\text{OINTS}} \ G_{\text{AINED}}; \\ The \ \text{magnitude} \ of \ the \ Stabilized \ Discovery} \\ \text{-} \ a \ \text{simple} \ die \end{array}$
+# $\begin{array}{c} W{\text{ARPING}} \ P{\text{OINTS}} \ G{\text{AINED}}; \\ The \ \text{magnitude} \ of \ the \ Stabilized \ Discovery} \\ \text{-} \ a \ \text{simple} \ die \end{array}$
 
 You receive Warping Points whether you succeed or fail at stabilizing your discovery. If your stabilization attempt fails, you may spend another season and try it again. You may continue to stabilize your discovery until you succeed, providing you spend consecutive seasons until you succeed and you do not suffer some dire event along the way.
 
@@ -13005,7 +13005,7 @@ A new Virtue may be Initiated according to the normal rules for Mysteries. The d
 
 A second Major Breakthrough integrates a Major or Hermetic Breakthrough completely into Hermetic magic. If this succeeds, any magus may create an effect using the Breakthrough as long as he has a Lab Text, and then may use the Breakthrough freely. As for Minor Breakthroughs, the same applies to any magus taught Arts or spells by a magus who understands the Breakthrough. Experimentation is always suitable for this second Breakthrough, and integration may be used if there are suitable non-Hermetic traditions to study.
 
-## *Shape and Material Bonuses Table*
+## Shape and Material Bonuses Table
 
 |                        | Shape and Material Bonuses Table       |                         |                                                    |
 |------------------------|----------------------------------------|-------------------------|----------------------------------------------------|
@@ -20058,7 +20058,7 @@ For a magus, taming an animal is a laboratory activity, and the creature must be
 
 Mundane beasts can also be tamed, and (for this purpose only) mundane beasts have an effective (Animal) Might of 1 + 2 x Confidence Score. Note that taming a beast is a social activity, so penalties for The Gift apply to the number of points accumulated in a season, creatures with Magic Might are often not affected by The Gift in this way.
 
-## \*\*\*
+## \\\
 
 appropriate to the creature — Aquam for a kelpie, Ignem for a fire elemental, and so on.
 
@@ -25573,7 +25573,7 @@ Magi can observe the supernatural effects of the Sacraments, and it is common kn
 
 Due to this overwhelming evidence of the Divine, most magi believe in the existence of God, and many would describe themselves as Christians. However, even a magus who identifies himself as Christian would almost certainly be considered by the Church to have a heretical view of the world, colored as it will be by the magus' knowledge of the supernatural.
 
-## \*\*\*\*
+## \\\\
 
 for God in a concrete way. Common penances involve saying a certain number of prayers or psalms, giving charity or helping the poor in some other way, or going on a pilgrimage to a shrine, at a distance depending on the severity of the sin.
 
@@ -26807,7 +26807,7 @@ Award one point at the end of a session for each of the following that a charact
 - Entertainingly well roleplayed. This means that the player portrayed the character well, and in a way that entertained and enhanced the fun of the other players.
 - Bonus. This point is awarded if the storyguide thinks that the character or player did something that deserves a reward, but which does not fall under the above categories. You should only award one bonus point per character per session.
 
-## Reputation \$\frac{p\_{19}}{p\_{28-29, 386}}\$
+## Reputation \$\frac{p\{19}}{p\{28-29, 386}}\$
 
 ## Changing Reputations
 
@@ -26912,11 +26912,11 @@ Stamina check against Ease Factor, take indicated wound on a failure
 | Mature tree felled onto character | +18                                                                   |
 | Inside collapsing stone building  | +21                                                                   |
 
-## Don-Combat Damage Rolls \$\\^{181}\_{p407}
+## Don-Combat Damage Rolls \$\\^{181}\{p407}
 
 Non-combat Damage Total: Damage Bonus + Stress Die Non-combat Soak Total: Soak Total + Stress Die.
 
-## Damage Table \$\,^{179}\_{\partial 394}
+## Damage Table \$\,^{179}\{\partial 394}
 
 | Size          | Light | Меріим | HEAVY | Incapacitating | DEAD |
 |---------------|-------|--------|-------|----------------|------|
@@ -26969,7 +26969,7 @@ All combat rolls use stress dice.
 - 3. Repeat step 2 for the next highest initiative if they attack.
 - 4. Once all parties have acted once, return to step 2 for the first party again. Initiative is not re-rolled.
 
-## Combat & Damage Totals \$\( \begin{array}{c} p\_1 & p\_2 & p\_3 & p\_4 & p\_3 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4 & p\_4
+## Combat & Damage Totals \$\( \begin{array}{c} p\1 & p\2 & p\3 & p\4 & p\3 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4 & p\4
 
 INITIATIVE TOTAL: Quickness + Weapon Initiative Modifier - Encumbrance + Stress Die
 
@@ -27125,9 +27125,9 @@ Cost: A general indication of the cost of the weapon. More expensive weapons are
 
 <sup>\*\*\*</sup> Includes the lance, if used dismounted.
 
-## *Magic Rules*
+## Magic Rules
 
-#### *Formulaic Spellcasting Sequence p81 p213*
+#### Formulaic Spellcasting Sequence p81 p213
 
 If you already know the spell …
 
@@ -27146,7 +27146,7 @@ If your Casting Total is …
 - a. higher, your spell affects the target.
 - b. equal or falls short, your spell is ineffective.
 
-#### *Ritual Spellcasting Sequence p81 p213*
+#### Ritual Spellcasting Sequence p81 p213
 
 If you spend 15 min and 1 pawn of vis per per spell magnitude …
 
@@ -27168,7 +27168,7 @@ If you spend 15 min and 1 pawn of vis per per spell magnitude …
 - a. higher, your spell affects the target.
 - b. equal or falls short, your spell is ineffective.
 
-#### *Spontaneous Spellcasting Sequence aneous p81 p214*
+#### Spontaneous Spellcasting Sequence aneous p81 p214
 
 If you're making up a new spell …
 
@@ -27184,13 +27184,13 @@ If you're making up a new spell …
 - a. higher, your spell affects the target.
 - b. equal or falls short, your spell is ineffective.
 
-## *p81-82 Casting Spells p213*
+## p81-82 Casting Spells p213
 
 **CASTING SCORE:** 
 
 Technique + Form + Stamina – Encumbrance+ Aura Modifier
 
-## *Formulaic Magic*
+## Formulaic Magic
 
 **CASTING TOTAL:** Casting Score + Die Roll
 
@@ -27200,7 +27200,7 @@ Technique + Form + Stamina – Encumbrance+ Aura Modifier
 | –1 to –10                      | Yes            | 1                      |
 | –11 or lower                   | No             | 1                      |
 
-## *Ritual Magic*
+## Ritual Magic
 
 **CASTING TOTAL:**
 
@@ -27214,7 +27214,7 @@ Casting Score + Artes Liberales + Philosophiae + Stress Die
 | –11 to –15                     | No             | 4                      |
 | –16 or more                    | No             | 5                      |
 
-## *Words and Gestures*
+## Words and Gestures
 
 | WORD  | MODIFIER | GESTURES    | MODIFIER | VOICE RANGE              |
 |-------|----------|-------------|----------|--------------------------|
@@ -27223,7 +27223,7 @@ Casting Score + Artes Liberales + Philosophiae + Stress Die
 | Quiet | –5       | Subtle      | –2       | 5 paces                  |
 | None  | –10      | None        | –5       | 0 paces<br>(caster only) |
 
-## *Spontaneous Magic*
+## Spontaneous Magic
 
 **FATIGUING CASTING TOTAL:** (Casting Score + Stress Die)/2
 
@@ -27309,7 +27309,7 @@ If Penetration exceeds Magic Resistance, that target is affected.
 
 Supernatural Creature: Might Score + Aura Modifier
 
-## Typical Might Scores \$\,^{\begin{align\*} pt 191 - 192 \\ pt 425 \end{align\*}
+## Typical Might Scores \$\,^{\begin{align\} pt 191 - 192 \\ pt 425 \end{align\}
 
 | Score | Example                                                               |
 |-------|-----------------------------------------------------------------------|
@@ -27584,7 +27584,7 @@ MAXIMUM LEVELS IN ONE TECHNIQUE AND FORM: Teacher's Lab Total in that Technique 
 
 > HIGHEST LEVEL OF AN INDIVIDUAL SPELL: Student's Lab Total in the Technique and Form of the spell
 
-## Binding a Familiar \$\frac{p\_{104}}{p\_{267}}
+## Binding a Familiar \$\frac{p\{104}}{p\{267}}
 
 Familiar Bonding Lab Total:
 
@@ -27623,7 +27623,7 @@ BONUSES:
 
 ## **Enchanted Items**
 
-## Material and Size Tables \$\,^{p97}\_{p255}\$
+## Material and Size Tables \$\,^{p97}\{p255}\$
 
 | Base Points |
 |-------------|
@@ -27674,7 +27674,7 @@ Linked trigger: +3 levels
 | 50 uses per day | +6       |
 | Unlimited       | +10      |
 
-## Offect Expiry \$\frac{p\_{99}}{p\_{257}}\$
+## Offect Expiry \$\frac{p\{99}}{p\{257}}\$
 
 | ITEM LASTS | Excess Modifier |
 |------------|-----------------|
@@ -27764,7 +27764,7 @@ Modified Effect: Roll a simple die and add your risk modifier. If you were inves
 
 
 
-# Case Factors for Creating and Crafting Objects \$\begin{array}{c} p\_{168-170} \\ p\_{308} \end{array}\$\$
+# Case Factors for Creating and Crafting Objects \$\begin{array}{c} p\{168-170} \\ p\{308} \end{array}\$\$
 
 The Ease Factors in the table below include the +3 adjustment for magic use, and assume that a mundane craftsman could complete the work in no more than a day.
 
@@ -27780,7 +27780,7 @@ The Ease Factors in the table below include the +3 adjustment for magic use, and
 | Remarkable           | 24             | The finest work done by grandmasters of a craft                                                   |
 | Almost<br>Impossible | 27             | The epitomes of skill in a craft                                                                  |
 
-## Magical Craft \$\frac{p\_{168-170}}{p\_{306-307}}
+## Magical Craft \$\frac{p\{168-170}}{p\{306-307}}
 
 Rego Craft Magic
 
@@ -27843,9 +27843,9 @@ Stress die (no botch) + age/10 (round up)
 | 21         | 1 Aging Point in Int and Per                                                                                   |
 | 22+        | Gain sufficient Aging Points (in any<br>Characteristics) to reach the next<br>level in Decrepitude, and Crisis |
 
-## *Seasonal Activities*
+## Seasonal Activities
 
-#### *Advancement Tables p164 p49*
+#### Advancement Tables p164 p49
 
 |       | ART |                        | ABILITY |             |
 |-------|-----|------------------------|---------|-------------|
@@ -27875,7 +27875,7 @@ Stress die (no botch) + age/10 (round up)
 
 **To raise to:** The number of experience points required to raise a score by one point to that number.
 
-#### *Writing Books p165 p379*
+#### Writing Books p165 p379
 
 **SUMMA SOURCE QUALITY**: Author's Communication + 6 + bonus
 
@@ -27891,7 +27891,7 @@ or 6 + Profession (Scribe) points towards a summa.
 
 Three times as fast as careful copying, copy Source Quality is 1 lower than copied book.
 
-## *Advancement Source Qualities dvancement*
+## Advancement Source Qualities dvancement
 
 **Exposure Source Quality:** 2 **Adventure Source Quality**: 5–10 **Practice Source Quality**: 4–8, usually 4
 
@@ -27917,7 +27917,7 @@ taught + 3
 
 **Supernatural Ability Source Quality (New Ability Only):** Normal Source Quality – Total Score in Supernatural Abilities
 
-## *p165 Distractions p379*
+## p165 Distractions p379
 
 | MONTHS LOST | TOTAL | EXAMPLE |
 |-------------|-------|---------|
@@ -27929,7 +27929,7 @@ taught + 3
 
 # **E**
 
-# *Spells Index*
+# Spells Index
 
 | Aegis Of The Hearth                         |
 |---------------------------------------------|
@@ -28200,7 +28200,7 @@ taught + 3
 | Image From The Wizard Torn                                      |
 | (ReIm 35) 352<br>Image Of The Beast (InAn 5) 316                |
 
-## *Spell Guidelines*
+## Spell Guidelines
 
 | ANIMAL                                                                                       | IGNEM                                                                                                   |
 |----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
@@ -28543,7 +28543,7 @@ Mirror Of Opposition (Form)
 |   |  |
 |   |  |
 
-## *Bestiary Index*
+## Bestiary Index
 
 | Adder (Viperis) (Beast)429                 | Horse, Courser                                   |
 |--------------------------------------------|--------------------------------------------------|
@@ -28636,7 +28636,7 @@ Mirror Of Opposition (Form)
 | And Water (CrAu 65)327<br>Wreaths Of Foul Smoke       |
 | (CrAu 10)326                                          |
 
-# *Traditional Index*
+# Traditional Index
 
 | Abandoned Apprentice (Flaw)119     |
 |------------------------------------|

@@ -1,5 +1,5 @@
 
-# *Credits*
+# Credits
 
 **Authors:** Volker Bürkel and Christoph Safferling (Aurulentus), Timothy Ferguson (Alexander), Tim Goldbeck (Scipio), Daniel Kemler (Conscientia, Maris), Mark Lawford (Petalichus, Yestin), Pitt Murmann (Tolides), Saul Roberts (Gwidion), Mark Shirley (Hugh, Julia, Marcus Tauros, Persephone), Erik Tyrrell (Lambert, Ranulf)
 
@@ -29,7 +29,7 @@ Copyright 2011 Trident, Inc. d/b/a Atlas Games. All rights reserved. Reproductio
 DIGITAL VERSION 1.0
 
 
-# *Contents*
+# Contents
 
 | Introduction:                     |    | Ignem Spells30                          |    | Corpus49                         |    |
 |-----------------------------------|----|-----------------------------------------|----|----------------------------------|----|
@@ -162,9 +162,9 @@ DIGITAL VERSION 1.0
 | The Map of Many Places104          | Talisman: Crwth of Yestin 143       |
 
 
-### *Introduction*
+### Introduction
 
-# *Beyond the Expected*
+# Beyond the Expected
 
 Welcome to *Magi of Hermes*. This book presents fifteen unique magi of the Order of Hermes, along with their magical creations, to be used in your saga.
 
@@ -207,9 +207,9 @@ Second, it's a source of new spells and enchanted items. These can be used witho
 In short, this book is a collection of magical resources for your saga, to be used as you see fit. Enjoy!
 
 
-### *Chapter One*
+### Chapter One
 
-# *Alexander of Jerbiton*
+# Alexander of Jerbiton
 
 **Concept:** A magus who spends his life exploring the deserts of North Africa, developing spells to change himself and his attendants into animals to better travel in those harsh lands.
 
@@ -217,7 +217,7 @@ Even as an apprentice, Alexander was fascinated by the idea of traveling to Nort
 
 Alexander of Jerbiton is of average height, with olive skin and dark hair. He is scrawny when young, becoming wiry as he ages. His skin becomes increasingly leathery and his face becomes more lined, due to his exposure to the heat of the Egyptian climate. He wears the clothing of the locals wherever he goes.
 
-### *Alexander at Gauntlet*
+### Alexander at Gauntlet
 
 **Characteristics:** Int +2, Per 0, Pre 0, Com +1, Str 0, Sta +2, Dex 0, Qik 0
 
@@ -265,7 +265,7 @@ Alexander of Jerbiton is of average height, with olive skin and dark hair. He is
 
 **Design Notes:** His design totals so far are: Abilities 300, Arts: 135, Spells: 115.
 
-### *Alexander +15 Years*
+### Alexander +15 Years
 
 **Characteristics:** Int +2, Per 0, Pre 0, Com +1, Str 0, Sta +2, Dex 0, Qik 0
 
@@ -326,9 +326,9 @@ les 1 (geography), (Apprenticeship Covenant) Lore 1 (workshops), Athletics 1 (wa
 
 **Design Notes:** His design totals are now: Abilities: 300 + 160 = 460 total; Arts: 135 + 170 = 305 total; Spells: + 120 + 80 levels = 200 total.
 
-### *Magi of Hermes*
+### Magi of Hermes
 
-### *Alexander +30 Years*
+### Alexander +30 Years
 
 **Characteristics:** Int +2, Per 0, Pre 0, Com +1, Str 0, Sta +2, Dex 0, Qik 0
 
@@ -404,7 +404,7 @@ Mastery 1 (Quiet Casting)
 
 **Design Notes:** Alexander's design totals are: Abilities: 460 + 195 = 655 total; Arts: 305 + 90 = 395 total; Spells: 205 + 190 = 395 total. Note that he gains 20 experience more than an average magus would in this period.
 
-### *Alexander +45 Years*
+### Alexander +45 Years
 
 **Characteristics:** Int +2, Per 0, Pre 0, Com +1, Str 0, Sta +2, Dex 0, Qik 0
 
@@ -490,7 +490,7 @@ Mastery 1 (Penetration) *A Source of Tremendous Pride* (MuCo(An)
 
 **Design Notes:** Alexander's design totals are: Abilities: 655 + 135 = 790 total; Arts: 395 + 243 = 638 total; Spells: 390 + 55 = 445 total.
 
-### *Alexander +60 Years*
+### Alexander +60 Years
 
 **Characteristics:** Int +2, Per 0, Pre 0, Com +1, Str 0, Sta +2, Dex 0, Qik 0
 
@@ -571,11 +571,11 @@ Mastery 1 (Quiet Casting) *Retreat as Flying Vermin* (MuAn(Co)35/+36)
 
 **Activities in the last 15 years:** Alexander's apprentice has completed training. Alexander continues to focus on spells that aid expeditions.
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 **Design Notes:** Alexander's design totals are: Abilities: 790 + 145 = 935 total; Arts: 638 + 115 = 753 total; Spells: 445 + 125 = 570 total. During this period Alexander's travels seriously reduce his study, and this slows his acquisition of experience markedly.
 
-### *Alexander +75 Years*
+### Alexander +75 Years
 
 **Characteristics:** Int +2, Per 0, Pre 0, Com +1, Str 0, Sta +2, Dex 0, Qik 0
 
@@ -646,11 +646,11 @@ Mastery 1 (Quiet Casting)
 **Design Notes:** Alexander's design totals are: Abilities: 935 + 210 = 1145 Total; Arts: 753 + 20 = 773 total; Spells: 570 + 205 = 775 total.
 
 
-# *Alexander's Animal Shapes*
+# Alexander's Animal Shapes
 
 The following animal shapes are generic. To modify them to suit a particular human, see the rules on page 23 of *Houses of Hermes: Mystery Cults*. The animals given below also reflect the daily experience of people who live in North Africa. Campaigns for which North Africa is a distant and legendary place may choose to make these animals more dangerous, for example by allowing cobras to spit venom, scorpions to kill more readily with their stingers, and crocodiles to snap people in half more easily.
 
-### *Asp (Egyptian Cobra)*
+### Asp (Egyptian Cobra)
 
 **Characteristics:** Cun –1, Per –2, Pre –6, Com –6, Str –6, Sta +2, Dex +2, Qik +2
 
@@ -692,7 +692,7 @@ See *Venomous Bite* in Powers, below.
 
 Asps are generally nocturnal, but are not so disadvantaged by daylight as to earn the Flaw of the same name.
 
-### *Bat*
+### Bat
 
 **Characteristics:** Cun –1, Per +3, Pre 0, Com –2, Str –18, Sta 0, Dex +2, Qik +11
 
@@ -724,7 +724,7 @@ Asps are generally nocturnal, but are not so disadvantaged by daylight as to ear
 
 In emergency situations, where food has been scarce, Alexander has occasionally turned his group into bats, fed them insects or tiny amounts of fruit, and then allowed the spell to lapse in the morning. A well-nourished bat transforms into a well-nourished human, so this extends an expedition's supplies markedly. Grogs find the thought of eating insects distasteful, but while in bat form their senses of smell and taste make insects a delicacy.
 
-### *Camel*
+### Camel
 
 **Characteristics:** Cun –2, Per 0, Pre –4, Com –5, Str +1, Sta +3, Dex 0, Qik –2
 
@@ -758,7 +758,7 @@ In emergency situations, where food has been scarce, Alexander has occasionally 
 
 Camels are well adapted to arid environments. They can find water by smell: open water sources have the same distinct smell as the air after rain. Camels can survive without water for extended periods, and are able to travel in mild sandstorms without harm. Their hooves have a unique design that splays when they travel on loose-packed surfaces, like sand, so that they do not sink into it as deeply as a human or hoofed animal does. This allows them to travel more swiftly on sand than horses, and to be less fatigued by running on sand than other animals are.
 
-### *Crocodile*
+### Crocodile
 
 **Characteristics:** Cun +1, Per 0, Pre –2, Com –5, Str 0, Sta 0, Dex +1, Qik +3
 
@@ -774,9 +774,9 @@ Camels are well adapted to arid environments. They can find water by smell: open
 - \*\* The ripple-dampening camouflage of crocodiles is effective even when they are moving slowly in water.
 - \*\*\* See Powers section, below.
 
-### *Magi of Hermes*
+### Magi of Hermes
 
-### *Equipment for Alexander's Attendants*
+### Equipment for Alexander's Attendants
 
 Alexander's attendants are often transformed into animals. It is vital that his party have equipment that does not require requisites to transform.
 
@@ -809,7 +809,7 @@ Alexander's attendants are often transformed into animals. It is vital that his 
 
 Crocodiles have a sense of the movement of water around their bodies, which allows them to track nearby moving objects without looking at them.
 
-### *Lion*
+### Lion
 
 **Characteristics:** Cun +1, Per 0, Pre 0, Com 0, Str +6, Sta +3, Dex +2, Qik +1
 
@@ -842,11 +842,11 @@ Crocodiles have a sense of the movement of water around their bodies, which allo
 
 **Appearance**: The lion is a legendary beast more often depicted in artwork than encountered in the flesh. It can weigh up to 490 pounds and have a body length of over ten feet. It has a short, broad muzzle with powerful jaws and teeth. Its coat is tawny and the male lion has a dark, shaggy mane. The fearsome roar of the lion can be heard from a great distance.
 
-# *New Spells*
+# New Spells
 
 Alexander has developed the following new spells.
 
-### *Animal Spells*
+### Animal Spells
 
 #### **Recruiting A Tiny Phalanx**
 
@@ -868,7 +868,7 @@ Alexander uses this ability to plate friendly animals, including his grogs when 
 
 (Base 15, +2 Voice, +1 Diameter, +2 Group)
 
-### *Aquam Spells*
+### Aquam Spells
 
 #### **Bag of Teeth**
 
@@ -882,7 +882,7 @@ Each tooth may become just under a hundred cubic feet of water. This means that 
 
 (Base 4, +1 Touch, +3 Moon, requisite free)
 
-### *Auram Spells*
+### Auram Spells
 
 #### **Clouds of Obscuring Sand**
 
@@ -913,7 +913,7 @@ Wards against sandstorms by repelling the breezes that carry dust. It is powerfu
 
 (Base 10, +1 Touch, +2 Ring)
 
-### *Corpus Spells*
+### Corpus Spells
 
 #### **Eyes of the Housecats**
 
@@ -951,7 +951,7 @@ The ability to take the shape of a vulture allows Alexander to forage for food, 
 
 (Base 20, +2 Sun)
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 #### **Retreat As Flying Vermin**
 
@@ -986,7 +986,7 @@ MuCo(An) 45 R: Voice, D: Sun, T: Group Used to transform the covenant's ser-
 
 (Base 10, +2 Voice +2 Sun +2 Group +1 for size change)
 
-### *Herbam Spells*
+### Herbam Spells
 
 ### **Bag of Feathers**
 
@@ -998,7 +998,7 @@ This spell is used to lessen the load carried by expeditions, by transforming al
 
 (Base 4, +1 Touch, +3 Moon, +2 Group, +1 requisite (changes animal products into lighter animal products).
 
-### *Ignem Spells*
+### Ignem Spells
 
 #### **Conflagratious Lanyard**
 
@@ -1031,9 +1031,9 @@ When this spell is cast around a camp, it lowers the temperature within the site
 
 (Base 4, +1 Touch, +2 Ring)
 
-### *Magi of Hermes*
+### Magi of Hermes
 
-### *Imaginem Spells*
+### Imaginem Spells
 
 #### **The False Dune**
 
@@ -1045,7 +1045,7 @@ Sometimes Alexander can't just make an unnaturally cool, dark space, surrounded 
 
 (Base 2, +1 Touch, +2 Ring)
 
-### *Mentem Spells*
+### Mentem Spells
 
 #### **Avoiding the Blame**
 
@@ -1068,7 +1068,7 @@ This spell makes Alexander's grogs look and sound like small rocks. Alexander is
 
 (Base 2, +2 Voice, +1 Concentration, +2 Group)
 
-### *Terram Spells*
+### Terram Spells
 
 #### **Rapid Excavations**
 
@@ -1079,9 +1079,9 @@ This spell allows Alexander to turn large volumes of sand into water, which rapi
 (Base 3, +2 Voice, +2 Sun, +2 Part, +1 large target)
 
 
-### *Chapter Two*
+### Chapter Two
 
-# *Aurulentus of Jerbiton*
+# Aurulentus of Jerbiton
 
 **Concept:** This seventh son of a seventh son is deeply concerned with his family, and develops many spell effects concerned with health, fertility, and care for children as a result.
 
@@ -1089,7 +1089,7 @@ This is the story of Aurulentus of Jerbiton, an unusual magus as he comes from a
 
 It is a story of many generations of hope and struggle, differing views and planning. Aurulentus can expect to witness the heralded powerful magus: his grandson would be the sought-after seventh son in the seventh generation. Over the course of his life, Aurulentus specializes in Corpus magic and uses his special affinity with fertility to accomplish a noteworthy feat: he develops a Longevity Ritual that does not render him infertile and tries to extend this feat to other people's Longevity Rituals.
 
-### *Aurulentus at Gauntlet*
+### Aurulentus at Gauntlet
 
 **Characteristics:** Int +2, Per 0, Pre +3, Com +2, Str 0, Sta +1, Dex 0, Qik –2
 
@@ -1153,9 +1153,9 @@ wedding ring **Encumbrance:** 0 **Spells Known:**
 
 It is assumed that for every spell present in the **ArM5** rulebook a Lab Text either exists or was procured. All other spells and items were invented in the laboratory, except for the starting spell *Phantasmal Troupe.*
 
-### *Magi of Hermes*
+### Magi of Hermes
 
-### *Aurulentus +15 years*
+### Aurulentus +15 years
 
 **Characteristics:** Int +2, Per 0, Pre +3, Com +2, Str 0, Sta +1, Dex 0, Qik –2
 
@@ -1220,7 +1220,7 @@ It is assumed that for every spell present in the **ArM5** rulebook a Lab Text e
 **Activities in the past 15 years:** Thirteen years were spent learning and two years (8 seasons) in the lab. At the age of 34, Aurulentus binds his familiar, a Tortoise named Zeno (after Zeno of Elea). The Bond Scores are: Bronze +3, Silver +1, Gold +1, for a CrCo Lab Total of 40. Zeno granted the virtue Unaging. Aurulentus invented the spells *Pose Clotho's Question* and *Pose Nona's Question* (both in a single season)*, Verifying the Presence of Artemis' Blessing, The Maculate Noblewoman*, and *Widening the River Styx* (re-invented twice in one season)*,* experimenting on all for his breakthrough research. He spent two seasons stabilizing his research.
 
 
-### *Aurulentus +30 years*
+### Aurulentus +30 years
 
 **Characteristics:** Int +2, Per 0, Pre +3, Com +2, Str 0, Sta +1, Dex 0, Qik –2
 
@@ -1244,7 +1244,7 @@ It is assumed that for every spell present in the **ArM5** rulebook a Lab Text e
 
 **Arts: Cr** 16(1)**, In** 10**, Mu** 10**, Pe** 10**, Re** 11**; An** 5**, Aq** 5**, Au** 5**, Co** 16(1)**, He** 5**, Ig** 5**, Im** 10**, Me** 6(2)**, Te** 5**, Vi** 7(6)
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 **Powers:**
 
@@ -1276,7 +1276,7 @@ It is assumed that for every spell present in the **ArM5** rulebook a Lab Text e
 
 **Activities in the past 15 years:** First, five years were spent in the lab (20 seasons), as Aurulentus was getting desperate to finish his research. Semira is younger than him, but soon she would show signs of aging. Aurulentus spent two seasons inventing the spell *Artemis' Fertility*, and a further two seasons re-inventing the same spell twice. The spell *Bane of the Decrepit Body* was learned and re-invented twice, additionally *The Maculate Noblewoman* was re-invented three times. Four seasons were spent on experimenting with eight Longevity Rituals, and a further four seasons on stabilizing the research efforts. The breakthrough is successfully stabilized! Aurulentus immediately created a Longevity Ritual for himself and his wife. Only after this is accomplished, he sets to empower the bond of his familiar with the power *Mental Communication* and invent the spell *Eye of the Sage.* The remaining 10 years were spent learning.
 
-### *Aurulentus +45 years*
+### Aurulentus +45 years
 
 **Characteristics:** Int +2, Per 0, Pre +3, Com +2, Str 0, Sta +1, Dex 0, Qik –2
 
@@ -1349,7 +1349,7 @@ Guile 1 (lying to wife), High German 5 (Allemannisch), Intrigue 2 (gossip), Orde
 
 *Seven Leagues Travel* (ReCo 35/+33)
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 *Bountiful Feast* (CrHe 35/+35)
 
@@ -1375,7 +1375,7 @@ Guile 1 (lying to wife), High German 5 (Allemannisch), Intrigue 2 (gossip), Orde
 
 **Activities in the past 15 years:** Having accomplished his goal of finding a Longevity Ritual preserving the fertility of both his wife and himself, Aurulentus can now relax and turn to much-neglected standard Hermetic research. Ten years were spent learning and 5 years in the lab. Aurulentus catches up with spell inventions, learning the standard spells from lab texts. Additionally, he creates the items *The Face of Paris*, *Communication of the Lovers*, and *Reunion of the Lovers.* A season is also spent on writing up his research findings. Word spreads slowly of his success, but a few nearby magi show their interest in his works.
 
-### *Aurulentus +60 years*
+### Aurulentus +60 years
 
 **Characteristics:** Int +2, Per 0, Pre +3, Com +2, Str 0, Sta +1, Dex 0, Qik –2
 
@@ -1507,9 +1507,9 @@ Guile 1 (lying to wife), High German 5 (Allemannisch), Intrigue 2 (gossip), Orde
 
 **Activities in the past 15 years:** Eight years were spent learning and seven years in the lab, creating many items for his wife. The spells *Blessing of Artemis' Fertility*, *Incantation of the Warriors Made Whole*, *Bestow the Blessing of Apollon*, *Ears of a Grateful Father*,
 
-### *Magi of Hermes*
+### Magi of Hermes
 
-### *Familiar: Zeno the Tortoise*
+### Familiar: Zeno the Tortoise
 
 **Magic Might:** 15
 
@@ -1555,11 +1555,11 @@ ram: By withdrawing completely into his shell, Zeno becomes invulnerable to all 
 
 *Housearrest of the Unruly Child, It's Raining Men*, and *Parental Inquisitiveness* were invented. The items *Bachelor's Door*, *Army of the Infant*, *Bed of Rapid Convalescence*, *Comb of Aphrodite*, *Crib with a Mother's Touch*, *Guardian of Decency*, *Nappy without Nuisance*, *Traveller's Comfort*, and *Soothe the Mother's Anxiety* were created. Two additional seasons of work are needed for the spells, so the above mentioned workload was made in 15 years and two seasons.
 
-# *Background Information*
+# Background Information
 
 Aurulentus' connection to his family is very different than the norm among magi. The following is information about his family history and the impact it has on his career as a magus.
 
-### *Aurulentus and his Ancestors*
+### Aurulentus and his Ancestors
 
 Aurulentus' great-great-great-grandfather, Askanius, visited Greece where he met and fell in love with a nymph of Artemis. She bore him his seventh son (named Alexander) and an ageing priest of the goddess revealed to him that every seventh son of his family would hold a measure of Artemis herself in his blood. Furthermore, once seven continuous generations of seventh sons were born, this seventh son in the seventh generation would be able to reshape magic. Alexander started a mission to ensure that in every generation at least seven sons were born. Aurulentus is in the fifth generation. Not surprisingly, his corporeal father took him as his apprentice early in his childhood. At the age of 13, he was told of the full extent of the prophecy and the differing views his ancestors had on how to father seven sons — something that is now also expected of him. Around the age of 18, Aurulentus found the only comfort of
 
@@ -1567,15 +1567,15 @@ Aurulentus' great-great-great-grandfather, Askanius, visited Greece where he met
 
 his youth: Semira, the daughter of a Latin instructor. Because of this love, Aurulentus revised his understanding of the prophecy: the only woman whom he wanted to have children with was Semira. In order to have seven sons with one and the same woman, it was necessary to guarantee the health and fertility of both man and woman for a sufficiently long time, prompting his research into Creo and Corpus magics. During his career, Aurulentus invents numerous spells concerned with childbirth and healing, as well as creating a number of items and spells designed to facilitate the daily life of a mother of many children. His most impressive feat, however, will be the invention of a Longevity Ritual that preserves his fertility.
 
-### *Longevity Breakthrough*
+### Longevity Breakthrough
 
 If you use the Original Research rules from *Houses of Hermes: True Lineages,* page 26 these are the steps used by Aurulentus to complete his Minor Hermetic Breakthrough. He gained valuable breakthrough insights from the following research: studying the Bronze Cord of his familiar, exploring the controlled aging process of the spell *Bane of the Decrepit Body* (three separate inventions were needed), investigating the reasons for the infertile Longevity Rituals using the spell *The Maculate Noblewoman* (four different inventions were needed to perfect the spell), inspecting the Hermetic treatment of Aging Crises using the spell *Widening the River Styx* (again needing three starts), three times probing the fertility concepts of his own spell *Artemis' Fertility,* and finally experimenting with numerous Longevity Rituals of fourth magnitude. Unsuccessful research directions were the analysis of a woman's fertility using the spells *Pose Clotho's Question* and *Pose Nona's Question*. Also not promising was his idea of watching an actual act of conception using the spell *Verifying the Presence of Artemis' Blessing.*  Six seasons in total were spent on stabilizing his research.
 
-# *New Spells*
+# New Spells
 
 Aurulentus has developed the following new spells.
 
-### *Corpus*
+### Corpus
 
 ### **Widening the River Styx**
 
@@ -1645,7 +1645,7 @@ R: Touch, D: Year, T: Boundary, Ritual Increases the fertility of all within the
 
 Aurulentus points out that at his Covenant a higher than average rate of births is apparent, but most magi believe this to be merely a fluke. Other magi theorise that the
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 mundanes are influenced by the fact that the magi have many children, and thus also act in a promiscuous way. So far, no-one has been able to replicate the spell, although Aurulentus gives copies of the Lab Texts of the spell freely to anyone asking for them.
 
@@ -1675,7 +1675,7 @@ Determines the sex of an unborn child. Hermetic magic can only distinguish the u
 
 InCo 10 R: Touch, D: Mom, T: Ind
 
-### *The Prophecy: A Faerie Game?*
+### The Prophecy: A Faerie Game?
 
 What happens after (or if) the seventh son in the seventh generation is born? Maybe nothing — the priest of Artemis and the nymph both could have been faeries who started a bet to see if they could fool seven generations of magi.
 
@@ -1693,7 +1693,7 @@ Accurately determines the underlying reason for the infertility of the target.
 
 Aurulentus successfully used this spell to compare two groups: those infertile from natural causes and those rendered infertile by a Longevity Ritual. Exploring the fundamen-
 
-### *The Family Tree*
+### The Family Tree
 
 Below is a short list of Aurulentus' ancestors, each generation using a different approach to sire seven sons.
 
@@ -1745,7 +1745,7 @@ Holds the target completely motionless for the duration of the spell. In additio
 
 Chur is a troublesome grog of the covenant. A lesser version of this spell was used to stop him when he was doing mischief. Aurulentus soon realized that a more-powerful version would have many uses: as a combat spell, as a spell to act without witnesses, and as a spell to stop nosy mundanes. It was once used on a friendly grog who came under the influ-
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 ence of a mind control spell to stop him from attacking his group without harming him.
 
@@ -1783,7 +1783,7 @@ This is an improved version of the *Seven-League Stride*, sometimes used by Auru
 
 (Base 30, +1 Touch)
 
-# *Imaginem*
+# Imaginem
 
 ### **Comeliness of the Crone**
 
@@ -1819,11 +1819,11 @@ Creates illusionary music from a direction that the caster specifies. A full tro
 
 
 
-# *Enchanted Items*
+# Enchanted Items
 
 Aurulentus has created the following enchanted items.
 
-### *Army of the Infant*
+### Army of the Infant
 
 This invested item is a collection of wooden army figures: horses, soldiers, generals, and siege weapons. Each has detailed markings and is fully colored. The figures can be moved at command and are capable of emitting the appropriate noises: horses neigh, soldiers yell. This set of toys was created by Aurulentus for his sons; a similar set was made for his daughters, depicting different families of animals with corresponding sounds.
 
@@ -1851,11 +1851,11 @@ Creates sounds appropriate for the toy. Full speech is not possible at this leve
 
 (Base 1, +1 Diam, +2 Group, +2 at command, +10 levels unlimited uses per day)
 
-### *Bachelor's Door*
+### Bachelor's Door
 
 This invested item is a nondescript door leading to an antechamber where guests can be welcomed and attended to. Aurulentus has all of his daughters await their suitors for the first time behind this door. The thoughts of the entering person will be read to determine if he only wishes to bed any of the fe-
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 males that are present in the room. Should this be the case, a second effect will be triggered that will bar the person from entering the room.
 
@@ -1883,7 +1883,7 @@ If this effect penetrates, then no human target may pass the doorway into the an
 
 (Base 15, +1 Touch, +1 Conc, +5 levels device maintains concentration, +3 levels triggered effect)
 
-### *Bed of Rapid Convalescence*
+### Bed of Rapid Convalescence
 
 CrCo 34
 
@@ -1895,7 +1895,7 @@ A leather sick-bed engraved with Creo and Corpus runes, as well as symbols of Ap
 
 (Base 15, +1 Touch, +2 Sun, +1 level 2 uses/day, +3 levels environmental trigger)
 
-### *Comb of Aphrodite*
+### Comb of Aphrodite
 
 PeAq 15
 
@@ -1909,7 +1909,7 @@ passes through its teeth. Aurulentus contrived this lesser enchanted device for 
 
 (Base 4, +1 Touch, +10 levels unlimited uses per day)
 
-### *Communication of the Lovers*
+### Communication of the Lovers
 
 InIm 21
 
@@ -1921,7 +1921,7 @@ Two matching silver amulets, each being an Arcane Connection to the other. When 
 
 (Base 2, +4 Arc, +1 Conc, +5 levels item maintains concentration, +1 level 2 uses/day)
 
-### *Crib with a Mother's Touch*
+### Crib with a Mother's Touch
 
 A simple, wooden crib with a crystal centrally fixed along the headpiece. This is an invested item made by Aurulentus to give the mothers of the Covenant a bit more free time.
 
@@ -1938,7 +1938,7 @@ Listens to the baby in the crib. When the baby starts to scream, the second effe
 (Base 1, +1 Touch, +2 Sun, +1 level 2 uses/day, +3 levels environmental trigger)
 
 
-### *Nappy without Nuisance*
+### Nappy without Nuisance
 
 ReHe 17
 
@@ -1950,7 +1950,7 @@ Once triggered by the first effect, this effect will rock the crib slightly, hop
 
 (Base 3, +1 Conc, +5 levels item maintains concentration, +5 levels 24 uses/day, +3 levels triggered effect)
 
-### *Guardian of Decency*
+### Guardian of Decency
 
 A silver necklace with three small beryl stones attached to it. The invested item detects if the wearer is touched by a man and then removes any indecent emotions from him. Aurulentus created this item after he found out that a boy from a neighboring village had aggressively pursued one of his daughters.
 
@@ -2000,7 +2000,7 @@ They destroy any human excreta that are contained within, thus eliminating the n
 
 (Base 4 (by analogy to the PeAn 4 guideline "destroy something made of animal products"), +1 Touch, +10 levels unlimited uses)
 
-### *Reunion of Lovers*
+### Reunion of Lovers
 
 ReCo 40
 
@@ -2012,7 +2012,7 @@ Female boots made from finest calf skin, with small, intricately decorated wings
 
 (Base 30, +1 Touch, +5 levels for 24 uses/ day)
 
-### *Soothe the Mother's Anxiety*
+### Soothe the Mother's Anxiety
 
 This invested device was created by Aurulentus to calm the many mothers of the Covenant. A number of the devices have been produced over the years. It consists of a small mirror and a separate handle, one being an Arcane Connection to the other. The handle can be put into a room and listens to all noises therein. If a noise louder than a whisper is detected, it triggers the second effect: the mirror displays the image and the noises of the room in which the handle is kept. The mothers are thus able put their babies to sleep and watch them, while still being able to be occupied with other work.
 
@@ -2039,7 +2039,7 @@ Displays the images and sounds of the room scryed into by the triggering effect 
 
 (Base 2, +1 Touch, +1 Diam, +2 move at command, +1 intricacy, +10 levels unlimited uses/day, +3 levels triggered effect)
 
-### *The Face of Paris*
+### The Face of Paris
 
 PeCo 14
 
@@ -2051,7 +2051,7 @@ This razor, although blunt, will remove any and all body hair where it touches t
 
 (Base 3, +1 Touch, +10 levels unlimited uses)
 
-### *Traveller's Comfort*
+### Traveller's Comfort
 
 ReAu(Ig) 24
 
@@ -2064,9 +2064,9 @@ This sturdy and nondescript travelling cloak protects the wearer from rain and k
 (Base 4, +1 Touch, +2 Sun, +1 Ig requisite, +1 level 2 uses/day, +3 levels environmental trigger)
 
 
-### *Chapter Three*
+### Chapter Three
 
-# *Conscientia of Bonisagus*
+# Conscientia of Bonisagus
 
 **Concept:** This "lab rat" develops effects to order for other magi, to gather resources for her own research project that has yet to bear fruit.
 
@@ -2099,7 +2099,7 @@ Discovered at an early age in a rural village outside Carcassone, Conscientia of
 **Wound Penalties:** –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20)
 
 
-### *New Flaw: Exciting Experimentation*
+### New Flaw: Exciting Experimentation
 
 *Minor, Hermetic*
 
@@ -2143,9 +2143,9 @@ Your character's experiments tend to have a flair for the … dramatic. When rol
 
 **Sigil:** When Conscientia casts her spells, lines around the target appear twisted and broken. Her voting sigil is five curved lines forming a pentagram.
 
-### *Magi of Hermes*
+### Magi of Hermes
 
-### *Conscientia +15 Years*
+### Conscientia +15 Years
 
 **Characteristics:** Int +4, Per +2, Pre +1, Com +1, Str –1, Sta –2, Dex 0, Qik 0
 
@@ -2217,7 +2217,7 @@ Your character's experiments tend to have a flair for the … dramatic. When rol
 
 **Activities in the last 15 Years**: Conscientia has taken a position at Durenmar as a librarian in the Great Library. She has spent seven seasons inventing spells and items, one season binding her familiar, and one season developing a longevity ritual with a score of 10.
 
-### *Conscientia +30 Years*
+### Conscientia +30 Years
 
 **Characteristics:** Int +4, Per +2, Pre +1, Com +1, Str –1, Sta –2, Dex 0, Qik 0
 
@@ -2302,7 +2302,7 @@ favors), Code of Hermes 1 (nitpicking details), Etiquette 1 (apologies), Finesse
 
 **Activities in the last 15 Years**: Since settling in at her job, Conscientia has spent a lot of time working on her own personal projects. She has spent 16 seasons inventing new spells and items, and one season reinventing her longevity ritual.
 
-### *Conscientia +45 Years*
+### Conscientia +45 Years
 
 **Characteristics:** Int +4, Per +2, Pre +1, Com +1, Str –1, Sta –2, Dex 0, Qik 0
 
@@ -2310,7 +2310,7 @@ favors), Code of Hermes 1 (nitpicking details), Etiquette 1 (apologies), Finesse
 
 **Virtues and Flaws:** The Gift; Hermetic Magus; Adept Laboratory Student, Affinity with Creo, Affinity with Magic Theory, Affinity with Muto, Book Learner, Great
 
-### *Familiar: Aureus the Exotic Bird*
+### Familiar: Aureus the Exotic Bird
 
 **Magic Might:** 20 (Ig)
 
@@ -2414,11 +2414,11 @@ of people who are not currently in the room, and her reflection is ever so sligh
 
 
 
-# *New Spells*
+# New Spells
 
 Conscientia has developed these spells.
 
-### *Animal Spells*
+### Animal Spells
 
 ## **Doublet of Silk, That's Impenetrable**
 
@@ -2455,7 +2455,7 @@ A fine preparation to a Wizard's War, this spell commands a biting insect, such 
 
 (Base 15, +2 Voice, +2 Sun)
 
-### *Auram Spells*
+### Auram Spells
 
 ### **Conjure From the Mist**
 
@@ -2477,7 +2477,7 @@ Conscientia learned this spell from her parens, who developed it after overheari
 
 (Base 5, +2 Ring, +1 Touch)
 
-### *Corpus Spells*
+### Corpus Spells
 
 #### **Touch of the Blessed Virgin**
 
@@ -2491,7 +2491,7 @@ Conscientia swears this was developed for a friend, and she has never personally
 
 
 
-### *Charged Items and Potions*
+### Charged Items and Potions
 
 Often overlooked in Hermetic workings, charged items can be an essential part of a magus' repertoire. Charged items are unique in their ability to produce large effects where normal enchanted items or spontaneous magic prove too difficult or time consuming to make, and without the cost in vis. Larger effects are far easier to enchant into charged items, so they are a perfect solution if more than a few uses aren't necessary. They also have the benefit of being produced in large quantities so that they may be given out to multiple individuals. A variety of effects, both small and large in magnitude, can be handed out, enabling those who posses them to deal with situations they might normally be ill-equipped to deal with.
 
@@ -2600,7 +2600,7 @@ This useful potion acts as *Winds of Mundane Silence*. One of the most utilitari
 (+1 Touch, +15 Penetration)
 
 
-### *Herbam Spells*
+### Herbam Spells
 
 ### **Statim Sessio**
 
@@ -2612,7 +2612,7 @@ Favored by magi young and old who just need a quick rest, this spell creates a c
 
 (Base 3, +1 Touch, +2 Sun)
 
-### *Ignem Spells*
+### Ignem Spells
 
 #### **Evening's Comfort**
 
@@ -2628,7 +2628,7 @@ After many sleepless nights spent chilled to the bone, enough was enough. Slippi
 
 The first spell Conscentia developed on her own, this spell works as *Palm of Flame*, but experimentation has produced a small side effect. Each time the spell is cast, the flame produces the smell of a random odor. Oddly enough, the most common scent produced is elderberry. Needless to say, this spell has proven difficult to trade.
 
-### *Imaginem Spells*
+### Imaginem Spells
 
 #### **Veneficus Enigma**
 
@@ -2638,7 +2638,7 @@ R: Touch, D:Conc, T: Ind
 
 Developed as a quick game for magi, the *Veneficus Enigma* creates the illusion of a small puzzlebox in the palm of the caster's hand that can be manipulated by another. When cast, the caster sets the puzzle for the *Veneficus Enigma.* The illusory box then produces lights and sounds that are clues on how to open it. Figuring out the puzzle requires an Intelligence + Artes Liberales roll versus an Ease Factor equal to the casters Intelligence + Artes Liberales + 5. Traditionally, the caster holds an item in
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 the palm of his hand when he casts this spell, to be retrieved as the "prize" when the box is opened. Removing the box from the caster's hands to reveal the item without solving the puzzle is considered extremely impolite.
 
@@ -2664,7 +2664,7 @@ Created in conjunction with *Be Rid the Tell Tale Smoke*, this large circle spel
 
 (Base 1, +2 Ring, +1 Touch, +1 additional sense)
 
-### *Mentem Spells*
+### Mentem Spells
 
 #### **Robed in Angelic Beauty**
 
@@ -2717,7 +2717,7 @@ This spell acts as *Enslave the Mortal* mind, with one exception. The target rem
 (Base 20, +1 Eye, +2 Sun)
 
 
-# *Terram Spells*
+# Terram Spells
 
 ### **Conjure the Ocean's Breath**
 
@@ -2759,7 +2759,7 @@ R: Touch, D: Mom, T: Part
 
 (Base 3, +1 Touch, +1 Part, +3 Size)
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 ### **Saving the Apprentice's Time**
 
@@ -2771,15 +2771,15 @@ Realizing she could squeeze in a few more precious moments of lab time, Conscent
 
 (Base 3, +1 Touch, + 2 Room)
 
-### *New Guideline: CrTe 15*
+### New Guideline: CrTe 15
 
 Repair a crafted item, returning it to an "as new" state.
 
-# *Enchanted Items*
+# Enchanted Items
 
 Conscientia has created these items.
 
-### *Apollo's Lyre*
+### Apollo's Lyre
 
 Apollo's Lyre was originally made to appease Conscientia's discontented grogs, who kept complaining about the insufferable living conditions in the forgotten depths of a subterranean lab. A small brass lyre, decorated with strips of engraved cinnamon wood, Apollo's Lyre can play a number of different melodies, songs, or compositions at the caster's whim. Each string on the lyre, when plucked, plays a different tune. This Lab Text quickly became a popular trade item in Conscientia's stock.
 
@@ -2797,7 +2797,7 @@ Conscientia's effect requires a single pawn of vis to invest, allowing a greater
 
 (Base 1, +1 Conc, +1 tune, +2 3/day, +5 item maintains concentration)
 
-### *Cooking Stone*
+### Cooking Stone
 
 This is a small piece of stone with a brass inlay in the shape of a hearth. When it's placed into a pot of water, the water boils instantly. When the cook is finished, all he needs to do is empty the pot, and retrieve the stone. This item deviates from the Hermetic tradition of overly complex and symbolic names, but occasionally pragmatism has its place.
 
@@ -2805,7 +2805,7 @@ This is a small piece of stone with a brass inlay in the shape of a hearth. When
 
 CrIg 15 R: Touch, D: Mom, T: Ind Pen +0, Unlimited/Day This effect boils water on contact. (Base 4, +1 Touch, +10 unlimited uses)
 
-### *Cultellus*
+### Cultellus
 
 This small knife with a basalt handle was developed as a trade for some very nice lab equipment. The patron wished a small kitchen knife enchanted with the ability to dispel Parma. Conscientia was halfway through the project before she realized the consequences of what she was making. When confronted, the patron never returned to claim his payment. Conscientia has always claimed to have never finished the project, and to have destroyed what notes she had.
 
@@ -2821,7 +2821,7 @@ When this knife contacts a magus, it will dispel any Parma Magica with a score o
 
 (Base 10, + 1 Touch, +6 50/day, +16 32 Penetration)
 
-### *Dico Calculus*
+### Dico Calculus
 
 This small stone was created for a blind Criamon who needed an aid in reading. When drawn over a page, the stone "sees" the words on the page and transmits the images into the user's mind.
 
@@ -2842,7 +2842,7 @@ When activated, the object senses the iconic species of whatever it's touching.
 
 (Base 1, +1 Touch, +1 Conc, +5 item maintains concentration, +10 unlimited uses)
 
-### *Ferramenta Glacies*
+### Ferramenta Glacies
 
 This inconspicuous item looks like a normal pick, but with a small crystal embedded in the handle. When touched to water, it freezes a block of ice that can be used for trade, storage, or consumption.
 
@@ -2850,7 +2850,7 @@ This inconspicuous item looks like a normal pick, but with a small crystal embed
 
 ReAq 14 R: Touch, D: Mom, T: Ind Pen +0, Unlimited/Day Instantly freezes surrounding water into ice. Further applications keep the ice frozen. (Base 3, +1 Touch, +10 unlimited uses)
 
-### *Hermes' Horn*
+### Hermes' Horn
 
 This is an intricately carved ram's horn with a tiny emerald charm embedded in it, that when blown will cause an entire flock to become passive and easy to control. A user can control a large herd, single-handedly driving them to and from pasture.
 
@@ -2862,9 +2862,9 @@ This effect calms a herd of animals (up to 1,000 animals), making them far easie
 
 (Base 4, +2 Sun, +2 Group, +2 Voice, +2 size)
 
-### *Magi of Hermes*
+### Magi of Hermes
 
-### *Mjolnir's Equal*
+### Mjolnir's Equal
 
 When the wielder yells a warrior's call, this hammer can shatter the strongest shield and sunder even steel, crushing weapons, armor, and the poor soul who owns them. No object of metal or wood can withstand the blow of this hammer. This weapon can't destroy leather armors, but leather armors do little to stop the blow from even a mundane warhammer.
 
@@ -2876,7 +2876,7 @@ Upon activation, a metal or wooden item touching the hammer is utterly destroyed
 
 (Base 3, +1 Touch, +2 Metal, +1 Herbam Req, +10 unlimited uses)
 
-### *Shulpea's Bowl*
+### Shulpea's Bowl
 
 This small wooden bowl is constantly filled with a non-nutritious food such as flatbread or pretzels. The food is not nourishing, but it helps the determined magus through those long lab sessions and experiments that just can't be stopped for dinner. This food is also perfect for lab conditions, as it won't stain, isn't greasy, any crumbs vanish after a few minutes, and it won't get all over the magus' fragile books or equipment.
 
@@ -2888,7 +2888,7 @@ Every two minutes, this bowl fills itself with a specific food (determined when 
 
 (Base 2, +1 Touch, +1 Diam, +2 Group, +1 Size, + 10 unlimited uses, +3 environmental trigger: Diameter)
 
-### *Traveler's Cloak*
+### Traveler's Cloak
 
 This handy cloak is a favorite among the Redcaps, as well as grogs who routinely sleep under the stars. When placed upon the ground, the cloak transforms the earth underneath so that it is soft and warm like a mattress. This effect ends at sunrise, assuring a hasty awakening.
 
@@ -2901,7 +2901,7 @@ This effect alters the earth under the cloak, softening it and warming it to the
 
 (Base 3, +1 Touch, +2 Sun, +1 Part, +1 Stone, +1 Ignem Req.)
 
-### *Vessel of Etain's Children*
+### Vessel of Etain's Children
 
 This sinister item is forged as a gold necklace with many fittings. The necklace itself has no power, but the jewel fittings hold a secret. When a drop of blood (easily gathered through *Summon the Eldritch Bond*) is placed into an empty fitting, it is transmuted into a polished stone within the fitting. This keeps useful Arcane Connections nearby and in an inconspicuous state. As the necklace itself isn't magical, new fittings can be added as needed.
 
@@ -2913,7 +2913,7 @@ When blood is placed within the enchanted fitting, it's transformed into an attr
 
 (Base 4, +1 Touch, +2 Sun, +1 2/say, +3 environmental trigger: sunrise/sunset)
 
-### *Vulcan's Favored*
+### Vulcan's Favored
 
 Vulcan's Favored isn't so much an item, but an effect that can be placed on items like tools, horseshoes, weapons, or any other commonly used metal object. Often a bronze seal is affixed to the item. The effect keeps it in repair and "like new." With Vulcan's Favor, bent tools reshape themselves, worn horseshoes mend, and blades never dull. The items can be traded away, or used by the grogs around the covenant. Weapons with Vulcan's Favor are sought by paranoid magi who don't trust their own grogs, as they can't defeat even the weakest Magic Resistance.
 
@@ -2930,9 +2930,9 @@ Constantly repairs the enchanted item, extending the item's life and returning i
 (Base 15, +2 Sun, +1 2/day, +3 environmental trigger: sunrise/sunset)
 
 
-### *Chapter Four*
+### Chapter Four
 
-# *Gwidion of Verditius*
+# Gwidion of Verditius
 
 **Concept:** A master at magically enhancing plants, his greatest creation may be the living tree that serves as his home.
 
@@ -3003,7 +3003,7 @@ The Tree of Life has its roots in every religion and culture throughout the worl
 
 **Voting Sigil:** Gwidion doesn't vote at tribunal anymore, but when he did his sigil was the image of the mythical world tree from his dreams.
 
-### *Gwidion +15 years*
+### Gwidion +15 years
 
 **Characteristics**: Int +3, Per 0, Pre 0, Com 0, Str –1, Sta +2, Dex –1, Qik –1
 
@@ -3071,7 +3071,7 @@ with Herbam, Affinity with Terram, Educated, Oak Gild Trained, Privileged Upbrin
 
 **Activities in the last fifteen years:** After much travel in his youth, Gwidion finds an unoccupied forest in which to locate his covenant, far from Durenmar and with only a limited aura. After setting up his lab, Gwidion struggles to help the peasants of the sounding villages as drought and famine wreak havoc. With the aid of his magic, Gwidion is able to help bring bountiful crops in each season and even keep many of the village homes warm during the following winter. During his travels, Gwidion earned 60 experience points in Abilities, 245 experience points in Arts, and designed 145 levels of spells.
 
-### *Gwidion +30 Years*
+### Gwidion +30 Years
 
 **Characteristics**: Int +3, Per 0, Pre 0, Com 0, Str –1, Sta +2, Dex –1, Qik –1
 
@@ -3157,11 +3157,11 @@ with Herbam, Affinity with Terram, Educated, Oak Gild Trained, Privileged Upbrin
 
 **Activities in the last fifteen years:** While he might not get out as much anymore to plow the fields with his fellow covenfolk, his magic is still quite active in the development of vast farmlands. That brings
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 in the majority of his covenant's income. During the summer of his 50th year, Gwidion felt the effects of age at last creeping up on him, so he took a sabbatical from his usual research to trade his skills as a lab assistant for a longevity ritual. The ritual cost him 14 pawns of Creo vis and grants him a bonus of +5 to add to his covenant's bonus of +1, for a total aging modifier of 6. During this period, Gwidion earned 225 experience in Abilities, 75 experience in Arts, and designed 120 levels of spells.
 
-### *Gwidion +45 Years*
+### Gwidion +45 Years
 
 **Characteristics**: Int +3, Per 0, Pre 0, Com 0, Str –1, Sta +2, Dex –1, Qik –1
 
@@ -3261,7 +3261,7 @@ in the majority of his covenant's income. During the summer of his 50th year, Gw
 
 **Activities in the last fifteen years:** Gwidion spends much of his time strolling in the forest and awakening or just generally conversing with the plants. During this period, Gwidion earned 365 experience in Arts and designed 115 levels of spells.
 
-### *Gwidion +60 years*
+### Gwidion +60 years
 
 **Characteristics**: Int +3, Per 0, Pre 0, Com 0, Str –1, Sta +2, Dex –1, Qik –1
 
@@ -3334,7 +3334,7 @@ cated, Oak Gild Trained, Privileged Upbringing, Skilled Parens, Well-Traveled, V
 
 *Prune Plant* (PeHe 5/+39)
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 *Wilt* (PeHe 25/+39)
 
@@ -3362,7 +3362,7 @@ cated, Oak Gild Trained, Privileged Upbringing, Skilled Parens, Well-Traveled, V
 
 **Activities in the last fifteen years:** Bees have become a new obsession for the old magus, and after a few years of study and several bits of parchment sent to Durenmar on the matter, the covenant can now add the year-round production of honey to its annual income. During this period, Gwidion earned 65 experience in Abilities, 345 experience in Arts, and designed 40 levels in spells.
 
-### *Gwidion +75 years*
+### Gwidion +75 years
 
 **Characteristics**: Int +3, Per 0, Pre 0, Com 0, Str –2, Sta +2, Dex –1, Qik –1
 
@@ -3470,7 +3470,7 @@ Age has now caught up with him, and he leans heavily on his stick as he walks.
 
 **Activities in the last fifteen years:** During the spring of his 93rd year, Gwidion once again traded services with a fellow magus for a longevity ritual. The ritual cost him 19 pawns of Creo vis and granted him a bonus of +9 to add to his covenant's bonus of +1, for a total aging modifier of 10. During this period, Gwidion earned 135 experience in Abilities and 316 experience in Arts.
 
-### *Gwidion +94 Years*
+### Gwidion +94 Years
 
 **Characteristics**: Int +3, Per 0, Pre 0, Com 0, Str –2, Sta +2, Dex –1, Qik –1
 
@@ -3502,7 +3502,7 @@ Age has now caught up with him, and he leans heavily on his stick as he walks.
 
 **Powers:** None
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 **Twilight Scars:** The magus must stand in the sunlight for an hour after every meal or his food will not digest. Compelling voice. His footsteps leave puddles behind him.
 
@@ -3566,7 +3566,7 @@ Age has now caught up with him, and he leans heavily on his stick as he walks.
 
 **Activities in the last nineteen years:** Gwidion concocted a spell that built a great fortress of oak, dirt, and green limbs. During this period, Gwidion earned 460 experience points in Arts and designed 105 levels of spells.
 
-### *Gwidion +105 years*
+### Gwidion +105 years
 
 **Characteristics**: Int +3, Per 0, Pre 0, Com 0, Str –2, Sta +2, Dex –1, Qik –1
 
@@ -3650,14 +3650,14 @@ Age has now caught up with him, and he leans heavily on his stick as he walks.
 
 **Appearance:** Unable to walk at all now without help, his frail, withered frame is nothing like the man who once used to hike the mountains and forest paths of his youth.
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 **Activities in the last eleven years:** Gwidion adopted a sapling from the forest fire years back and made it his talisman. Enchanting it with movement, it now carries him from place to place and is his constant companion in these, the twilight years of his life. Knowing that death or Final Twilight await, Gwidion spent much of this time seeing that the covenant is enchanted with every form of comfort, that his forest is given adequate protection from fire and drought, and that his hives of bees is set up just so. He has plans to permanently awaken Edward (his pet name for his riding tree), and enchant into the large oak powers to awaken other trees to life and movement, call rainstorms, and protect his forest and friends from harm from until *Disenchantment* brings the great oak down. However, that will only happen if he manages to last another fifteen years. During this period, Gwidion earned 126 experience points in Arts and spent 16 seasons in the lab enchanting items in an effort to prepare his covenant for the day he will no longer be there.
 
 
 Gwidion has devised the following new spells.
 
-### *Animal Spells*
+### Animal Spells
 
 ### **Voice of the King**
 
@@ -3669,7 +3669,7 @@ This spell works much as *Commanding the Harnessed Beast* (**ArM5**, page 120), 
 
 (Base 15, +2 Voice, +1 Diameter, +1 Group)
 
-### *Herbam Spells*
+### Herbam Spells
 
 #### **Circle of Eternal Spring**
 
@@ -3731,7 +3731,7 @@ This spell causes razor-sharp thorns to spring out of every plant or plant-made 
 
 (Base 4, +2 Voice, +1 Diameter, +2 Group)
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 # **Blades of Grass, Leaves of Cutting**
 
@@ -3824,7 +3824,7 @@ The magus can make a whole wood of plants (up to 10,000 individuals in mass) mov
 
 (Base 10, +2 Voice, +2 Sun, +2 Group, +3 size)
 
-### *Ignem Spells*
+### Ignem Spells
 
 #### **Warmth of the Wood**
 
@@ -3846,9 +3846,9 @@ This spell cools the bark of a tree, the wood of a cart, or even the planks of a
 
 (Base 4, +1 Touch, +2 Sun, +1 Part)
 
-### *Magi of Hermes*
+### Magi of Hermes
 
-### *Imaginem Spells*
+### Imaginem Spells
 
 # **Sight of the Blossom, Ears of the Oak**
 
@@ -3858,7 +3858,7 @@ R: Arcane Connection, D: Sun, T: Group While using this spell, the magus can see
 
 (Base 2, +4 Arcane Connection, +2 Sun, +2 Group)
 
-### *Terram Spells*
+### Terram Spells
 
 #### **Tilled Soil**
 
@@ -3880,11 +3880,11 @@ Using this spell, the magus can shape an amount of earth equal to the mass of a 
 
 (Base 2, +3 Sight, +1 Part, +1 Size, +1 Elaborate, +2 stone)
 
-# *Enchanted Items*
+# Enchanted Items
 
 Gwidion created the following items.
 
-### *Staff of Silent Forest Stride*
+### Staff of Silent Forest Stride
 
 All plants that are touched by this lesser enchanted item make no sound when they are pushed side, stepped on, or brushed up against.
 
@@ -3902,7 +3902,7 @@ This effect destroys all sound species that a plant could make for the duration 
 
 (Base 1, +2 Voice, +1 Diameter, +1 Part, +1 Size, Unlimited uses +10 lvls)
 
-### *Stone Disk of Warmth of Wood*
+### Stone Disk of Warmth of Wood
 
 These disks were enchanted so as to keep the entire covenant warm during the cooler months of the year. During the hotter months, the disks are kept inside a steel box just outside the covenant to prevent their effects from unbalancing the covenant's winter enchantments.
 
@@ -3922,7 +3922,7 @@ This effect keeps the covenant warm during the winter. (See the new spell, earli
 
 
 
-### *Stone Disk of Frosted Timber*
+### Stone Disk of Frosted Timber
 
 These disks were enchanted to keep the entire covenant cool during the hotter months of the year. During the cooler months, the disks are kept inside a steel box just outside the covenant to prevent their effects from unbalancing the covenant's summer enchantments.
 
@@ -3940,7 +3940,7 @@ This effect keeps the Covenant cool during the spring and summer. (See the new s
 
 (Base 4, +1 Touch, +2 Sun, +3 Structure, +3 lvls Environmental Trigger (Sunrise/Sunset), +1 Herbam Requisite, +1 lvl 2 uses a day)
 
-### *Stone Disk of Evergreen*
+### Stone Disk of Evergreen
 
 This stone disk, roughly the size of a large shield, is usually kept near the covenant's hearth and keeps all the plants within the covenant healthy year round.
 
@@ -3958,13 +3958,13 @@ This Effect keeps a Plant in perfect health all year round.
 
 (Effect: Base 1, +1 Touch,+2 Sun, +3 Structure, +3 Size; +3 lvls Environmental Trigger (Sunrise/Sunset), +1 lvls 2/day)
 
-### *Stone Disk of Controlled Growth*
+### Stone Disk of Controlled Growth
 
 This stone disk, roughly the size of a large shield, is usually kept near the covenant's hearth and keeps all the plants within the covenant from growing out of control.
 
 Lesser Enchanted Item, 5 pawns of Herbam vis to invest.
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 ### **Controlled Growth**
 
@@ -3978,7 +3978,7 @@ This effect keeps the plants within the target structure from growing beyond the
 
 (Effect: Base 4, +1 Touch,+2 Sun, +3 Structure, +3 Size; +1 lvls for 2 uses a day, +3 lvls for Environmental Trigger (sunrise/ sunset))
 
-### *Fresh Air Vines*
+### Fresh Air Vines
 
 These vines snake their way all around the covenant, and their blooms provide a continual fresh breeze of air to every room, balcony, and even around the trunks and branches, making the leaves continuously sway. The Ring of Ever Bloom and Circle of Growth that surround the covenant affect the vines as well, keeping them healthy and forever in bloom.
 
@@ -4012,7 +4012,7 @@ As the new spell (see earlier), but with a constant effect so that the vines do 
 
 (Base 3, +2 Sun, +1 Unnatural, +3 Size, +1 lvl 2 uses a day, +3 lvls environmental trigger [sunrise/sunset])
 
-### *Water Vines*
+### Water Vines
 
 These vines also snake their way throughout the entire covenant, providing fresh water from a nearby stream to all the different rooms of the covenant.
 
@@ -4048,7 +4048,7 @@ This effect reads the surface thoughts of all those touching the buds.
 
 As the new enchanted item effect described for Fresh Air Vines.
 
-### *Wall of Iron Thorns*
+### Wall of Iron Thorns
 
 A great wall of blackberry bushes, which is actually all just one very big single bush, that is approximately 1 pace deep and 4 paces high and completely encircles the external perimeter of the covenant. The bush itself is iron-hard and razor-sharp, and acts as very effective protective barrier for keeping intruders out of the covenant.
 
@@ -4081,7 +4081,7 @@ The plant grows large, but in an altered way. Its roots snake out through the di
 
 (Base 4, +1 Touch, +2 Sun, +3 Size; +1 lvl 2 uses a day, +3 lvls environmental trigger)
 
-### *Sun Ivy*
+### Sun Ivy
 
 The glowing leaves of this ivy snake their way through the covenant, providing light as bright as the day for the magi to read and work by.
 
@@ -4103,9 +4103,9 @@ The leaves of this ivy glow brightly and together they provide light as bright a
 
 As the enchanted item effect described for Wall of Iron Thorns.
 
-### *Magi of Hermes*
+### Magi of Hermes
 
-### *Storm Tree*
+### Storm Tree
 
 The Storm Tree helps to protect Gwidion's forest from drought and potential forest fires.
 
@@ -4133,7 +4133,7 @@ This effect can tell when the plant is in need of water.
 
 (Base 1, +1 Touch, +2 Sun; +1 lvl 2 uses a day, +3 lvls environmental trigger)
 
-### *Poppy Beds*
+### Poppy Beds
 
 These beds of poppies make the ground soft for the grogs and magi to sleep upon. They grow in special beds inside the covenant.
 
@@ -4156,7 +4156,7 @@ This effect makes the earth and hard wooden floors of the tree fortress soft and
 As the enchanted item effect described for Wall of Iron Thorns.
 
 
-### *The Boiling Bush*
+### The Boiling Bush
 
 The blooms of this rose bush snake through the covenant and have a special presence in the kitchen and bathing areas. The instant the red blooms of these roses touch water, it starts to boil. The effect continues until the water is actually boiling, which typically takes around a minute.
 
@@ -4176,7 +4176,7 @@ R: Touch, D: Concentration, T: Individual The blooms boil all water that touches
 
 As the enchanted item effect described for Wall of Iron Thorns.
 
-### *Bath of the Yellow Roses*
+### Bath of the Yellow Roses
 
 These yellow roses snake throughout the covenant, but are pruned especially to bloom in the bathing areas; the Water Vines are placed above the blooms, so that when they are activated the water will fall down across the blooms and become instantly warmed and perfect for bathing.
 
@@ -4198,7 +4198,7 @@ R: +1 Touch, D: Concentration, T: Individual The blooms warm all water that touc
 
 As the enchanted item effect described for Wall of Iron Thorns.
 
-### *Tree Hive*
+### Tree Hive
 
 This hive of honey bees is used to pollinate and in many ways protect the covenant's farm lands. The Tree Hive itself can hold up to 2,000 bees with the king. (The average normal honey bee hive has between 200 to 500 bees)
 
@@ -4228,15 +4228,15 @@ This spell makes every bee in the hive passive for a day. This means that the gr
 
 (Base 10, +1 Touch, +2 Sun, +2 Group; +1lvls 2 uses a day, +3lvls Environmental Trigger (sunrise/sunset))
 
-### *Ring of Mixed Compost*
+### Ring of Mixed Compost
 
 Waste removal in the covenant involves a combination of three enchantments. The first was to design the covenant so that every bed chamber had its own private privy, with a long shaft that leads down into a room on the ground floor. The shafts are
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 kept clean by the water vines; every time a grog or magus uses his privy, he just activates the vines and water rushes down the shaft, carrying the waste with it to the bottom chamber. The liquid is then reabsorbed into the earth and tree, while the
 
-### *Enchanting Giant Plants*
+### Enchanting Giant Plants
 
 A magus cannot enchant something that does not fit in his laboratory. Gwidion can get around this with his plants by enchanting them while they are young and small, and then using magic to make them much larger once the enchantment is complete. In many cases, the magic to make the plants large is part of the enchantment. In others, it is allowed for in the initial enchantment, so that it does not count as damage to the item.
 
@@ -4256,7 +4256,7 @@ This effect to mixes the dirt, waste, and plant material at night until it becom
 
 (Base 5, +1 Touch, +2 Sun, +2 Circle, +1 Corpus Requisite, +1 Herbam Requisite, +3 lvls environmental trigger (sunset).)
 
-### *Rings of Basketed Transport*
+### Rings of Basketed Transport
 
 There are four rings in the forest used to transport people and supplies. The enchantments actually affect larger-than-life baskets, big enough and strong enough to hold up to thirty people comfortably. When the rings move a basket, they take the people, animals, and whatever else is inside the basket along.
 
@@ -4283,7 +4283,7 @@ When the right mental command is made, the enchanted ring of stones moves the gi
 As the enchanted item effect described for Water Vines.
 
 
-# *Talisman: Gwidion's Riding Tree*
+# Talisman: Gwidion's Riding Tree
 
 In his old age, Gwidion found it more and more difficult to go outside the covenant and harvest vis, so he created his Talisman. Gwidion's Talisman is a (now) fully grown oak, but due to its various enchantments it has become severely Warped over the years, so that its branches resemble hands, its roots feet, and upon its trunk is a great gnarled face whose expression seems to change with the seasons and the moods of its creator. In his advanced years, Gwidion uses the tree to move around his forest and visit the covenant's farms and bee hives to make sure all is going well. Gwidion has even thought about expanding his tree's size and then simply building his lab right atop it, but as yet he has not gone that far with the great oak.
 
@@ -4379,9 +4379,9 @@ Keeps heat and fire at bay, unable to approach within one pace of the tree or th
 (Base 4, +2 for up to +15 damage, +1 Touch, +2 Sun, +2 Group, +1 lvl for 2 uses a day, +3 lvls for environmental trigger (sunrise/sunset), +3 Size)
 
 
-### *Chapter Five*
+### Chapter Five
 
-# *Hugh of Flambeau*
+# Hugh of Flambeau
 
 **Concept:** A magus who relishes physical combat, and who has developed many spells and enchanted items to make him a more formidable opponent.
 
@@ -4391,7 +4391,7 @@ Hugh has a natural talent for combining magic and combat. His mother told him th
 
 After nearly a half-century of service, Hugh has become a prominent member of the tribunal, taking it upon himself to hunt down Marched magi with a group of loyal grogs and impose the punishment of the Order. Two decades after his apprenticeship Hugh came to the attention of the Legion of Mithras (see *The Mysteries, Revised Edition*, pages 118–122), a Mystery cult devoted to the defense of the Order from outside threats. He was initiated and has achieved the second rank, called the Bride. He has made excursions beyond the bounds of the Order's territories to investigate rumors of hostile magicians, and slain several hedge wizards as a consequence. He personally does not feel that any of the magicians he has faced posed a serious threat to the Order, but he is a loyal soldier and does what he is told.
 
-### *Hugh at Gauntlet*
+### Hugh at Gauntlet
 
 **Characteristics:** Int +1, Per –2, Pre –1, Com 0, Str +2, Sta +3, Dex +1, Qik 0
 
@@ -4463,7 +4463,7 @@ S includes Short-Ranged Magic
 
 **Voting Sigil:** A hand axe engraved with the symbol of House Flambeau.
 
-### *Hugh +15 years*
+### Hugh +15 years
 
 **Characteristics:** Int +1, Per –2, Pre –1, Com 0, Str +2, Sta +3, Dex +1, Qik 0
 
@@ -4814,15 +4814,15 @@ Latin 4 (shouting), Leadership 4 (soldiers), Legion of Mithras Lore 2 (initiatio
 
 **Activities in the last 15 years**: Hugh spent four seasons improving his talisman with
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 three further effects. The familiar bond to Bathild was empowered with a second effect taking four season, Hugh's apprentice received his remaining 10 seasons of training and has become a magus in his own right. In the last 15 years Hugh gained 135 experience points in Arts and 165 experience points in Abilities.
 
-# *New Spells*
+# New Spells
 
 Hugh has developed the new spells that are listed here.
 
-### *Corpus*
+### Corpus
 
 #### **Assume the Stature of the Giants of Eld**
 
@@ -4848,7 +4848,7 @@ Up to ten men of Size +1 become capable of running as fast as a horse. Hugh uses
 
 (Base 2, +1 Touch, +1 Conc, +2 Group)
 
-### *New Guideline: MuCo 5*
+### New Guideline: MuCo 5
 
 Add or remove human body parts from the target in such a way that he no longer looks human. These parts are normally functional, although a spell may be deliberately designed so that they are not. The Target is Part, not Individual (although Group and higher Targets work as normal).
 
@@ -4874,7 +4874,7 @@ Adds +3 to the Size of a standard group of men. The targets' clothing, armor, an
 
 (Base 3, +1 Touch, +1 Diam, +2 Group, +1 size, +1 to increase equipment as well)
 
-### *Herbam*
+### Herbam
 
 ### **Halt the Piercing Shafts**
 
@@ -4886,7 +4886,7 @@ This ward prevents any ranged weapons made of wood and/or metal from harming the
 
 (Base 15, +1 Diam, +1 Terram requisite)
 
-### *Mentem*
+### Mentem
 
 #### **Breaking the Captain's Baton**
 
@@ -4898,7 +4898,7 @@ The target ceases to be able to coordinate a squad of soldiers as a Trained Grou
 
 (Base 4, +2 Voice)
 
-### *Terram*
+### Terram
 
 #### **Blunting the Iron's Bite**
 
@@ -4908,7 +4908,7 @@ R: Voice, D: Diam, T: Ind
 
 Cast against any bladed weapon, this spell warps and blunts the blade hopelessly.
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 The affected weapon has its total damage (including Attack Advantage) reduced to half (round up). The weapons return to their undamaged state once the Duration expires. While this could be invented as a Perdo Terram spell, Hugh prefers this version since it has the additional effect of making the affected weapons blocked by Magic Resistance. Hugh often casts this spell forcelessly, against the most dangerous-looking of his foes.
 
@@ -4954,11 +4954,11 @@ Up to twenty shields rise into the air and form a circle around the caster or an
 
 (Base 3, +1 Touch, +2 Sun, +2 Group, +2 affect metal)
 
-# *Enchanted Items*
+# Enchanted Items
 
 Hugh has created the gauntlet Tonatris, as described below.
 
-### *Tonatris*
+### Tonatris
 
 This enchanted gauntlet is shaped like the caestus used by a gladiator in Roman times; a tough leather glove buckled around the wrist, but with no fingers. The leather is
 
@@ -4990,11 +4990,11 @@ This effect is triggered when the wearer of the gauntlet strikes a being with hi
 
 (Effect: Base 15, +1 Touch; Modifications +4 12/day, +6 Penetration)
 
-# *Talisman: Troll's Wife*
+# Talisman: Troll's Wife
 
 Hugh has enchanted a long-hafted bearded axe as his talisman. He calls this Troll's Wife, in deference to a Northern tradition to name an axe after a fearsome monster. Only the
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 haft has been enchanted, allowing the blade to be unimpeded by Magic Resistance. The weapon is beautifully made: the head is made of steel with an iron edge, and inlaid silver depicts mythological scenes of heroes slaying dragons and giants. The haft is made of holly wood, perfectly sized to Hugh's height and reach, and bound in bands of brass. It is carved with horses, eagles, and wolves. Near the axe head are six inlaid discs, three of amber and three of bloodstone. This weapon was made personally for Hugh at great expense, and is of excellent quality (see *City & Guild*, pages 69–70), granting a +3 to Attack and Defense rolls when using it. The weapon otherwise has the statistics of a pole axe.
 
@@ -5058,9 +5058,9 @@ Hugh invested this effect because when he first created many of the effects in h
 (Effect: Base 15, +1 Touch; Modifications: +5 24/day, +3 linked trigger)
 
 
-### *Chapter Six*
+### Chapter Six
 
-# *Julia of Ex Miscellanea*
+# Julia of Ex Miscellanea
 
 **Concept:** This weaver's faerie blood lets her produce enchanted cloth and clothing of the highest caliber, though she rejects her heritage and as a result is tormented by her fey ancestor — a spider prince.
 
@@ -5070,7 +5070,7 @@ Julia is somewhat of a loner, preferring not to join a covenant but instead sell
 
 The spider prince who is her ancestor resents her rejection of him, and sends his many-legged minions to torment her on a regular basis.
 
-### *Julia at Gauntlet*
+### Julia at Gauntlet
 
 **Characteristics:** Int +1, Per –2, Pre 0, Com 0, Str 0, Sta +2, Dex +3, Qik 0
 
@@ -5116,7 +5116,7 @@ The spider prince who is her ancestor resents her rejection of him, and sends hi
 
 **Sigil:** Julia's casting sigil is a thread-like weave, while her voting sigil is an embroidered swatch of cloth.
 
-### *Julia +15 years*
+### Julia +15 years
 
 **Characteristics:** Int +1, Per –2, Pre 0, Com 0, Str 0, Sta +2, Dex +3, Qik 0
 
@@ -5148,7 +5148,7 @@ The spider prince who is her ancestor resents her rejection of him, and sends hi
 
 **Twilight Scars:** her arms are permanently
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 dyed blue; loose fibers spontaneously braid or knot themselves in her presence.
 
@@ -5459,11 +5459,11 @@ This is actually two effects, one to allow Julia to share words, images, and emo
 
 apprentice. Julia has also invested two more effects into her familiar bond (2 seasons), and instilled another three effects in her talisman (4 seasons). Finally, she has spent two seasons making the brooch she calls Fruit of the Loom. She has also acquired 110 experience points in Arts and 120 experience points in Abilities.
 
-# *New Spells*
+# New Spells
 
 Julia has developed several new spells, details of which are given here.
 
-### *Animal Spells*
+### Animal Spells
 
 #### **Shearing the Unseen Sheep**
 
@@ -5547,7 +5547,7 @@ R: Touch, D: Mom, T: Ind
 
 This spell crafts a single woolen garment from either raw fleeces or from spun wool. This spell is suitable for producing a cotte, cyclas, ganache, bliaut, cappa, or chausses (see the Clothing of the Thirteenth Century insert). A Finesse roll is necessary to determine the success of the craft magic; the Ease Factor is 12 if raw fleece is employed, or 9 if the base material is spun wool. The clothes produced are of standard quality; increase the Ease Factor for particularly fine or complex craft. If the Finesse roll fails, the caster is left with a useless mess of wool. Creating a fabric of a different color than the raw material requires a supply of appropriate dye, but does not change the Ease Factor. Julia typically uses this spell to manufacture clothes out of the magical cloth that she makes (see Enchanted Items, later). She does not have a spell that directly creates mundane clothing of wool due to the difficulty (it would be a similar spell to *Sturdy Mantle of the Traveler*, earlier). Instead, it is much easier to simply create fleeces (see *Shearing the Unseen Flock*, later) and then craft
 
-### *Clothing in the Thirteenth Century*
+### Clothing in the Thirteenth Century
 
 Many of Julia's spells create or craft items of clothing; this insert gives some details on the broad trends in clothing across Europe. Readers are encouraged to investigate the individual styles of the country in which their saga is set for a more-accurate picture of clothing.
 
@@ -5582,7 +5582,7 @@ The target's clothes develop a life of their own, and tighten around their owner
 (Base 10, +2 Voice, +1 Diam, +2 Group)
 
 
-### *Corpus Spells*
+### Corpus Spells
 
 ### **Sealing the Lips**
 
@@ -5594,7 +5594,7 @@ The target is rendered unable to speak. It appears that his lips have been stitc
 
 (Base 2, +2 Voice, +2 Sun)
 
-### *Herbam Spells*
+### Herbam Spells
 
 ### **Clothe the Naked Form**
 
@@ -5616,7 +5616,7 @@ This spell creates a tent of waterproof canvas and wooden poles that is large en
 
 (Base 1, +1 Touch, +2 Sun, +2 Group, +2 treated and finished product)
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 #### **Weaver's Trap of Threads**
 
@@ -5673,11 +5673,11 @@ The caster traces out a design on a piece of cloth, and a piece of thread follow
 
 (Base 15, +1 Touch)
 
-# *Enchanted Items*
+# Enchanted Items
 
 Julia created the following items.
 
-### *Loom of the Kabouters*
+### Loom of the Kabouters
 
 This beautiful loom is expertly made from elm and is a vertical loom, a relatively
 
@@ -5704,9 +5704,9 @@ The loom weaves wool into an intricate tapestry described when the effect is tri
 
 (base 1, +1 Touch, +2 Group, +1 size, +1 intricacy)
 
-### *Magi of Hermes*
+### Magi of Hermes
 
-### *The Fruit of the Loom*
+### The Fruit of the Loom
 
 This brooch is an unremarkable piece of jewelry consisting of twisted ropes of copper wire forming a simple warp and weft pattern beneath a cast copper apple. This tiny item of base metal was prepared with five pawns of Vim vis, and has currently been instilled with three pawns' worth of effects.
 
@@ -5720,7 +5720,7 @@ The clothes to which the brooch is pinned can be utterly changed in their style 
 
 (base 3, +1 Touch, +1 Conc, +2 Group, +1 requisite; +5 item maintains concentration, +3 6/day)
 
-### *Magical Cloth*
+### Magical Cloth
 
 Julia's stock in trade is the creation of fabulous cloths that cannot be duplicated with mundane craft. She makes these fabrics as charged items using her Craft Magic Virtue rather than the usual process for making charged items. While this means she uses her Casting Total rather than her Laboratory Total, it takes her mere days to instill the effects rather than a season. Since she can manufacture at least one sheet of fabric each day through mundane means, it takes her one day per charge to create these charged items. She usually instills one charge into each sheet. For example, if her Casting Total is 23, it takes four days to make four sheets of cloth containing the *Iridescence of the*  *Mallard's Head* effect, each holding one charge. She generally does not trigger the magic of the charged item until it has been formed into a garment, and each piece of cloth can have only a single magical effect. Julia's Enduring Magic often extends the duration of each effect to be much longer than specified.
 
@@ -5791,7 +5791,7 @@ Not actually formed from the hair of a unicorn (despite what she tells clients!)
 
 (Base 5, +1 Touch, +2 Sun)
 
-# *Talisman: Forfex Princeps*
+# Talisman: Forfex Princeps
 
 The "Prince of Shears" is Julia's talisman. These clothier's shears are two feet long and constructed from iron. Inlaid onto the blades are intricate filigrees of gold, copper, and lead. The invested item was initially prepared with ten pawns of Vim vis and currently has no enchantment space remaining.
 
@@ -5846,9 +5846,9 @@ The shears can cut through any mineral substance that they can close around — 
 (Base 3, +1 Touch, +2 affect metal; +2 3/day)
 
 
-### *Chapter Seven*
+### Chapter Seven
 
-# *Lambert of Merinita*
+# Lambert of Merinita
 
 **Concept:** This trader of goods and materials uses his magic to support his mercantile activities and his family, and overcome the social handicap of his Gift.
 
@@ -5858,7 +5858,7 @@ Lambert focuses his magic around the Art of Mentem, Faerie Magic, and the mercan
 
 Lambert is driven to haggle and make deals whenever he can, although his efforts in this field meet with mixed results. He is practiced in the art of bargaining, and becomes more so as he ages. He is also a skilled communicator with a formidable presence, yet The Gift makes it difficult for people to trust him; some (both human and faerie) who have forged agreements with Lambert often suspect that they have been poorly dealt with even if they can't think of any reason why they should feel so. Magi, on the other hand, are protected from the effects of Lambert's Gift, and so cutting deals with other members of the Order is a source of great joy for Lambert.
 
-### *Lambert at Gauntlet*
+### Lambert at Gauntlet
 
 **Characteristics:** Int +1, Per +1, Pre +3, Com+2, Str 0, Sta +1, Dex –1, Qik –1
 
@@ -5886,7 +5886,7 @@ Incompatible Arts (Rego Imaginem and Rego Mentem) , Unimaginative Learner \* Hou
 
 
 
-### *Initiation into the Mystery of Arcadian Travel*
+### Initiation into the Mystery of Arcadian Travel
 
 Lambert has undergone initiation into the Minor Virtue of Arcadian travel through the group of Merinitae called the Wayfarers, using the script presented on page 80 of *Houses of Hermes: Mystery Cults*. During his Ordeal of Initiation, he made his way from Bayeux cathedral into a Faerie regio in the forested hills of Bayeux County, while being pursued by faerie boars. As a result of his initiation, Lambert
 
@@ -5922,7 +5922,7 @@ When using Arcadian Travel, Lambert creates charms with the skill Profession (st
 
 **Voting Sigil**: Lambert's voting sigil is a wooden dowel carved into a caduceus. Lambert has on occasion turned inquires regarding his voting sigil into discussions regarding the mercantile association of Mercury.
 
-### *Lambert +15 years*
+### Lambert +15 years
 
 **Characteristics:** Int +1, Per +1, Pre +3 (1), Com+2, Str 0, Sta +1, Dex –1, Qik –2 (1)
 
@@ -5992,13 +5992,13 @@ cates. He frequently dresses in the garb of a successful merchant. Although it i
 
 **Activities in the last fifteen years:** Lambert, 15 years out of apprenticeship, has children who are able to take care of themselves, and he even has a few grandchildren. Lambert has undergone Initiation in the mystery of Arcadian Travel through the Wayfarers (*Houses of Hermes: Mystery Cults*, page 80). Lambert leaves most of the face-to-face dealing in his family's mercantile industry to his children, for fear of being accused of interfering with the mundanes (and because his children do not suffer from the corrosive social effects of The Gift). However, his love of bargaining frequently leads him into faerie auras and regiones to strike bargains with the fay. Much of Lambert's magical research in this period of his life involves providing tools for his family to use. By this point of his life, Lambert's mercantile activities have earned him the enmity of a powerful group of faeries. During this period, Lambert spent one season inventing Piercing the Faerie Veil and one season inventing The Inexorable Search, both with the assistance of Laboratory Texts. Lambert spent three seasons inventing Pull of Blood (with the help of unusual laboratory schedules and experimentation), four seasons inventing Scent of Loose Purses, and three seasons inventing Stench of Hate. Lambert spent one season copying Laboratory Texts to exchange for his casting tablet of the Locked Storehouse. Lambert spent three seasons serving House Merinita and the Wayfarers in conjunction with his Initiation into the Mystery of Arcadian Travel. During these fifteen years, Lambert gained 135 experience points in Abilities and 195 experience points in Arts (and an additional 39 from his affinity with Mentem).
 
-### *Lambert +30 years*
+### Lambert +30 years
 
 **Characteristics:** Int +1, Per +1, Pre +3(1), Com+2 (1), Str 0, Sta +1, Dex –1, Qik –2
 
 **Size:** 0 **Age:** 61 (47) **Decrepitude:** 0 (3) **Warping Score:** 4 (10)
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 **Confidence Score:** 2 (5)
 
@@ -6049,7 +6049,7 @@ cates. He frequently dresses in the garb of a successful merchant. Although it i
 
 two seasons inventing Oath Breaker's Confession, and two seasons inventing Opinions of the Masses. Lambert has spent one season learning Mind Cleansed of Treachery from a Lab Text, and one season learning Thoughts Within Babble from Laboratory Texts. He has spent one season opening the Doorframe of the Wary Steward, and two seasons enchanting it. During this period, Lambert has gained 110 experience points in Abilities and 190 experience points in Arts (and an additional 25 experience points in Mentem due to his Affinity). Lambert has also devoted three entire seasons to spending time with his children and grandchildren.
 
-### *Lambert +45 years*
+### Lambert +45 years
 
 **Characteristics:** Int +1, Per +1, Pre +3(1), Com+2, Str 0, Sta +1, Dex –1, Qik –2
 
@@ -6077,7 +6077,7 @@ two seasons inventing Oath Breaker's Confession, and two seasons inventing Opini
 
 **Wound Penalties**: –1 (1-5), –3 (6-10), –5 (11-15), Incapacitated (16-20), Dead (21+)
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 **Abilities:** Area Lore: Brittany 2 (geography), Area Lore: Normandy 2 (politics), Artes Liberales 2 (arithmetic), Bargain 5 (with faeries), Carouse 2 (games of chance), Charm 2 (first impressions), Dominion Lore 1 (Divine creatures), Etiquette 2 (church), Faerie Lore 3 (bargaining with faeries), Faerie Magic 3 (Charm creation), Folk Ken 2 (townsfolk), French 5 (Lorain), Guile 2 (fast talk), Infernal Lore 1 (demons), Intrigue 2 (rumor mongering), Latin 5 (Hermetic use), Leadership 2 (inspiration), Low German 2 (Flemish), Magic Lore 1 (creatures), Magic Theory 5 (inventing spells), Merinita Lore 2 (Wayfarers), Occitan 2 (Provencal), Order of Hermes Lore 1 (politics), Parma Magica 4 (Mentem), Philosophae 2 (ritual magic), Profession: Merchant 2 (commodity speculation), Profession: Storyteller 3 (faerie tales), Ride 2 (speed), Teaching 2 (merchants)
 
@@ -6150,11 +6150,11 @@ P includes spell potency bonus
 
 
 
-# *New Spells*
+# New Spells
 
 Lambert has developed the following new spells.
 
-### *Animal Spells*
+### Animal Spells
 
 **Soothing Voice of the Stableman**
 
@@ -6170,7 +6170,7 @@ The effect of the Blatant Gift is sufficiently strong to make animals frenzied w
 
 (Base 2, +2 Voice, +2 Sun, +1 size)
 
-### *Aquam Spells*
+### Aquam Spells
 
 #### **Patch of Drought**
 
@@ -6180,13 +6180,13 @@ R: Voice D: Momentary, T: Individual
 
 The caster destroys the water in a patch of mud or a puddle up to 20 paces in diameter. Repeated use of this spell can make travel using a cart significantly faster in wet
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 weather and possible on even dirt roads during adequate weather.
 
 (Base 4, +2 Voice)
 
-### *Corpus Spells*
+### Corpus Spells
 
 #### **Pull of Blood**
 
@@ -6198,7 +6198,7 @@ This spell informs the caster of the direction and distance to each living desce
 
 (Base 4, +1 Touch, +3 Bloodline)
 
-### *Herbam Spells*
+### Herbam Spells
 
 #### **Locked Storehouse**
 
@@ -6212,7 +6212,7 @@ Lambert has traded to acquire a casting tablet (*Covenants* page 89) of the spel
 
 (Base 4, +1 Touch, +4 Year+1, +3 Structure, +1 complexity)
 
-### *Mentem Spells*
+### Mentem Spells
 
 ### **Missive of Memory**
 
@@ -6361,11 +6361,11 @@ R: Eye, D: Bargain & Momentary, T: Individual, Faerie
 Like all spells of Bargain Duration, this spell is cast immediately after the caster strikes a bargain with the target, and only takes effect if the target breaks his part of the bargain
 
 
-# *Enchanted Items*
+# Enchanted Items
 
 Lambert has developed or traded for these enchanted items.
 
-### *Coins of Loose-Tongued Patrons*
+### Coins of Loose-Tongued Patrons
 
 Lambert acquired these two silver coins through trade with a fellow magus. Each coin bears a crown on one side and a likeness of Mercere on the other. The image of Mercere is laughing on the Coin of Enthusiastic Patrons, and grimacing on the Coin of Petulant Customers. Each of the two coins is a lesser enchanted device created with three pawns of vis. Lambert does not always keep these items to himself; rather they are frequently held by other members of his family. Lambert finds that the most valuable use of the coins is not in using them to strike advantageous bargains, but in allowing his family to receive copious accurate feedback regarding what people think of their merchandise (indeed, frequent use of the coins could lead to Warping of his family).
 
@@ -6386,7 +6386,7 @@ a room, the coin enchants the room to alter the proclivities of people within it
 
 (Effect: Base 10, +1 Touch +2 Room)
 
-### *Doorframe of the Wary Steward*
+### Doorframe of the Wary Steward
 
 Lambert was unable to create the Coins of Loose-Tongued Patrons for himself. He exchanged the following invested device to acquire them. At no point does Lambert posses a copy of this device, but he does have Lab Texts for its creation that he would be willing to part with for a suitable price.
 
@@ -6406,7 +6406,7 @@ Lambert secured a Lab Text for this spell from the Merinita who developed it, in
 
 (Base 25, +1 Eye, +3 Momentary & Bargain)
 
-### *Vim Spells*
+### Vim Spells
 
 # **Wrappings of Metaphysical Iron**
 
@@ -6421,7 +6421,7 @@ Lambert finds that faeries rarely confront him about his use of this spell when 
 (Base Effect, no modifier Ring to Sun)
 
 
-### *Granary Chest*
+### Granary Chest
 
 This is a large oaken chest with brass hardware of simple design. The chest measures two and a half feet wide, a foot and a half deep, and foot and a half tall. The Granary Chest is an invested device opened with eight pawns of vis (opening only the wood, as the highest capacity component). The chest is invested with three powers.
 
@@ -6435,7 +6435,7 @@ R: Personal, D: Day (constant), T: Room Any item consisting entirely of plant ma
 
 certain bag colors to particular contents. This
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 has helped to reduce difficulties, but has not completely eliminated them.
 
@@ -6465,7 +6465,7 @@ This power slowly moves any liquids out of the chest over a period of minutes an
 
 (Effect: Base 1, +2 Sun, +2 Room; Modifications +1 level 2 activations per day, +3 levels environmental trigger)
 
-### *Token of the Harvest Evening*
+### Token of the Harvest Evening
 
 This lesser enchanted device is a small wooden hourglass about the size of a chess piece bearing sulfur inlays. This device is enchanted with the following power.
 
@@ -6482,15 +6482,15 @@ All plant material kept in the same room as the Token of the Harvest Evening is 
 (Effect: Base 1, +1 Touch, +2 Sun, +2 Room; Modifications +1 two activations per day, +3 environmental trigger)
 
 
-### *Chapter Eight*
+### Chapter Eight
 
-# *Maris of Tytalus*
+# Maris of Tytalus
 
 **Concept:** A magus who lives at sea, constantly testing his magic against the raw fury of the elements, and searching beneath its waters for ancient magical sites.
 
 Maris of Tytalus has lived in solitude for most of his Hermetic life, sailing the *Paregro Mare* from his island sanctuary of Slvolder located in the Oresund Straight. Maris felt cheated by the covenant lifestyle the Order encouraged, and the intentional and unintentional assistance it provided. As a Calliclean Tytalus, he felt the assistance provided by the *Nomos* undermined the great conflict. To grow as a magus, Maris felt he needed a rival that wasn't as flexible, fragile, or arbitrary as *Nomi*. As soon as he was able, Maris decided to leave the *Nomos* for a more worthy adversary, *Natura*. Looking to test himself against the worst nature could throw at him, Maris vowed never to accept aid from another individual until he had dominated his rival, *Natura*. Maris now lives alone on the Baltic Sea, fending for himself without friend or teacher. When Maris is ashore, he spends most of his time in his lab, developing ways of easing his life on the ocean and overcoming the challenges *Natura* presents him with. While on the seas, Maris gathers supplies, tends to underwater gardens, and trawls the seas for ancient magical sites long lost under the waves where other magi are unable, or unwilling, to explore.
 
-### *Maris at Gauntlet*
+### Maris at Gauntlet
 
 **Characteristics:** Int +1, Per +1, Pre 0, Com –1, Str +1, Sta +2, Dex +1, Qik +1
 
@@ -6522,7 +6522,7 @@ Maris of Tytalus has lived in solitude for most of his Hermetic life, sailing th
 
 **Arts: Cr** 10, **In** 5, **Mu** 5, **Pe** 5, **Re** 5, **An** 5, **Aq** 5, **Au** 5, **Co** 1, **He** 5, **Ig** 5, **Im** 1, **Me** 1, **Te** 1, **Vi** 1
 
-### *Ormurin Langi*
+### Ormurin Langi
 
 *Ormurin Langi* or "The Long Serpent" is an old ballad about King Olaf Tryggvason, who violently brought Christianity to Norway. In the tale, King Tryggvason's fleet is attacked by a massive force from his enemies, the Swedish and Norwegian kings. Tryggvason's armada, although outnumbered, violently opposes and eventually repulses the two opposing fleets. However, Tryggvason's flagship, the *Long Serpent*, is critically damaged in a third attack by his countryman, Eiríkr Hákonarson. Knowing that his ship is doomed, Tryggvason and his crew jump overboard into the frigid waters never to be seen again.
 
@@ -6585,9 +6585,9 @@ This great battle is said to have taken place in the Oresund Straight, near the 
 
 **Sigil:** When Maris casts a spell, he grasps at ethereal threads connecting him to his target, weaving them into a desired effect. His voting token is a snowflake bound in a spiral.
 
-### *Magi of Hermes*
+### Magi of Hermes
 
-### *Maris +15 years*
+### Maris +15 years
 
 **Characteristics:** Int +1, Per +1, Pre 0, Com –1, Str +1, Sta +2, Dex +1, Qik +1
 
@@ -6683,13 +6683,13 @@ Damage +8
 
 **Appearance:** Maris is a gruff, weathered man of Nordic descent. He keeps himself in a practical, maintainable appearance, with hair uncut, and often with a month or more growth of beard. Due to his lengthy excursions underwater, Maris almost constantly smells of salt and the ocean, and often has bits of seaweed and other bits of debris stuck about him. Living on the seas keeps Maris far more muscular and in
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 shape than most of his fellow magi, who often let their physical capabilities slacken in favor of more intellectual advances. Combined with Maris' Norse heritage, he can be quite an imposing sight when others catch a glimpse of him through the morning fogs.
 
 **Activities in the last 15 Years**: It didn't take long after his full initiation into the Order for Maris' philosophies to come to light. After only five years of living the covenant lifestyle, Maris decided to leave and forge his own way. After spending five years out at sea alone, the *Paregro Mare* was beached during a horrendous storm that seemed to have a life of its own. Maris had washed up on the shores of Slvolder*,* exhausted and near death. Here he lived for another five years until he thought he had perfected his Arts enough to tempt *Natura* once again. During this time, he crafted for himself a longevity ritual, with a score of 8. (For experience purposes, time spent on the boat is split between exposure and practice of relevant abilities; time spent on the island is used for lab work, studying vis, etc.)
 
-### *Maris +30 years*
+### Maris +30 years
 
 **Characteristics:** Int +1, Per +1, Pre 0, Com –1, Str +1, Sta +2, Dex +1, Qik +1
 
@@ -6784,7 +6784,7 @@ casting) *Eyes of the Cat* (MuCo(An) 5/+18): Mastery 1
 
 **Activities in the last 15 Years**: Maris spent a decade out at sea, perfecting his system of hunting down magical treasures claimed by the deep, and learning. Once again a powerful storm nearly claimed Maris and the *Paregro Mare*, sucking them down in a huge vortex. Only intervention by a school of helpful merfolk saved Maris and his ship. Again returned to the island of Slvolder, Maris continued his work in overcoming each challenge *Natura* could muster. (Experience is split with ten years out at sea, five on the island.)
 
-### *Maris +45 years*
+### Maris +45 years
 
 **Characteristics:** Int +1, Per +1, Pre 0, Com –1, Str +1, Sta +2, Dex +1, Qik +1
 
@@ -6883,7 +6883,7 @@ casting) *Eyes of the Cat* (MuCo(An) 5/+18): Mastery 1
 **Activities in the last 15 Years**: Maris was once again thwarted in his goals when the storm that had so many times ruined his plans came again. This time a huge wave capsized the *Paregro Mare*, spilling all of its supplies into the ocean. Injured during the storm, Maris drifted nearly a week without food until he beached on the shores of Slvolder. Angered and infuriated, Maris spent the next decade on Slvolder, swearing that when he next left the island, he would never return. (Experience is divided with five years aboard ship and ten on the island.)
 
 
-### *Maris +60 years*
+### Maris +60 years
 
 **Characteristics:** Int +1, Per +1, Pre 0, Com –1, Str +1, Sta +2, Dex +1, Qik +1
 
@@ -6915,7 +6915,7 @@ casting) *Eyes of the Cat* (MuCo(An) 5/+18): Mastery 1
 
 **Abilities:** Area Lore: Scandinavia 2 (Baltic Sea), Artes Liberales 2 (astronomy), Athletics 2 (climbing), Awareness 3 (notice),
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 Chirurgy 1 (first aid), Code of Hermes 1 (technicalities), Concentration 3 (spell concentration), Etiquette 1 (Hermetic), Finesse 3 (precision), Fishing 3 (trap fishing), Great Weapon 2 (harpoon), Latin 4 (writing), Magic Lore 2 (creatures), Magic Theory 6 (enchanting items), Navigation 2 (sea), Norse 5 (nautical terms), Order of Hermes Lore 1 (history), Order of Odin Lore 1 (history), Parma Magica 2 (Aquam), Penetration 3 (Rego), Philosophiae 2 (natural), Profession: Sailor 3 (storms), Survival 3 (winter), Swim 3 (diving), Tytalus Lore 1 (philosophies)
 
@@ -6995,11 +6995,11 @@ tery 1 (multiple casting) *The Unseen Porter* (ReTe 10/+36): Mastery 1
 
 **Activities in the last 15 Years**: After his last encounter with *Natura*, Maris was left scornful and angered. After spending longer than he ever had on the island, he once again ventured forth, swearing never to return. He used the *Paregro Mare* to seed underwater gardens for food supplies, and new items were forged and spells invented. The great plan had finally come together. Maris did set sail from Slvolder on the first day of the new year 1300. Maris has since been lost to the Order, without a single sighting of his ship in recent memory.
 
-# *New Spells*
+# New Spells
 
 Maris has developed these spells during his self-imposed isolation.
 
-### *Animal Spells*
+### Animal Spells
 
 #### **Securing the Harvest**
 
@@ -7011,9 +7011,9 @@ This ward prevents any mundane pest from entering and absconding with the food g
 
 (Base 1, +1 Touch, +2 Ring)
 
-### *Magi of Hermes*
+### Magi of Hermes
 
-### *Aquam Spells*
+### Aquam Spells
 
 #### **Sense the Tide's Boundaries**
 
@@ -7045,7 +7045,7 @@ This spell turns the targeted section of water to mist, causing swimmers and shi
 
 (Base 3, + 2 Voice, +1 Part, +2 Size)
 
-### *Herbam Spells*
+### Herbam Spells
 
 ### **Grow the Bountiful Feast**
 
@@ -7069,7 +7069,7 @@ This ritual creates a number of edible or food-producing plants. The plants appe
 
 (Base 1, +1 Touch, +2 Group, +1 Size, *ritual*)
 
-### *Ignem Spells*
+### Ignem Spells
 
 ### **Repel Winter's Clutches**
 
@@ -7081,7 +7081,7 @@ Rapidly warms the target with an internal heat. This can be used to quickly defr
 
 (Base 3, +1 Touch, +1 Conc)
 
-### *Terram Spells*
+### Terram Spells
 
 #### **Form the Hermetic Boundary**
 
@@ -7094,11 +7094,11 @@ Forms a large, stone circle where cast. The circle, which is nine paces across, 
 (Base 3, +1 Touch, +3 Moon, +2 Size)
 
 
-# *Enchanted Items*
+# Enchanted Items
 
 Maris has designed the following items.
 
-### *Ever-Tempting Trap*
+### Ever-Tempting Trap
 
 Every sailor knows the fickleness of the sea. One day fish are leaping into your nets, while the next the ocean is as barren as any desert. These traps help keep the holds full, but even with magical assistance, you can't catch fish that aren't there. Each trap must be tailored to a particular kind of prey; Maris has made one for cod. When using the appropriate trap to catch the right prey, the Ever-Tempting Trap gives a bonus of +5 to fishing checks.
 
@@ -7112,7 +7112,7 @@ This effect creates the illusion of a certain bait inside the trap, allowing it 
 
 (Base 3, +2 Sun; +1 2/day, +3 environmental trigger: sunrise/set)
 
-### *Eyeglass of Nereus*
+### Eyeglass of Nereus
 
 This rusty eyepiece is essential to navigating the dreadful weather conditions of the northern seas, as well as getting the drop on a foe in a well-placed fog.
 
@@ -7120,7 +7120,7 @@ This rusty eyepiece is essential to navigating the dreadful weather conditions o
 
 InAu 25 Pen +0, 24/day R: Touch, D: Conc, T: Vision As *True Sight of the Air* (**ArM5**, page 127).
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 (Effect: Base 1, +1 Touch, +1 Conc, +4 Vision; +5 24/day, +5 item maintains concentration)
 
@@ -7128,7 +7128,7 @@ InAu 25 Pen +0, 24/day R: Touch, D: Conc, T: Vision As *True Sight of the Air* (
 
 InIm 35 Pen +0, 24/day R: Touch, D: Conc, T: Vision As *Eyes of the Eagle* (**ArM5**, page 145). (Base 3, +1 Touch, +1 Conc, +4 Vision; +5 24/day, +5 item maintains concentration)
 
-### *Foul Weather's Bane*
+### Foul Weather's Bane
 
 Living in the Baltic Sea is dreadful and dangerous. This cloak makes life a little more bearable. Keeping the wearer warm and dry, this cloak gives a +5 modifier to soak versus exposure. Also, the cloak will not freeze, nor will ice build up upon the cloak or the wearer.
 
@@ -7156,7 +7156,7 @@ Warms the wearer, shielding him from winter's harshest weather.
 
 Base 2, +2 Sun, +1 Touch; +1 2/day, +3 environmental trigger: sunrise/set)
 
-### *Gorget of Salty Breath*
+### Gorget of Salty Breath
 
 This gorget allows the wearer to function normally underwater. Water turns to breathable air, the body strengthens to withstand the crushing weight of the deep, and the voice of the wearer will be carried far and wide.
 
@@ -7195,7 +7195,7 @@ This simple effect changes any vocalizations made by the caster into a loud high
 
 (Base 1, +1 Touch, +2 Sun; +1 2/day, +3 environmental trigger: sunrise/set)
 
-### *The Nailed Down Chamber Pot*
+### The Nailed Down Chamber Pot
 
 This unassuming chamber pot, nailed to the deck of the *Paregro Mare* (to avoid any "accidents" on the rolling seas), is probably the most-used item on the ship.
 
@@ -7214,7 +7214,7 @@ All human waste, and all associated un-
 
 (Base 4, +1 Touch, +1 Aquam Req; +10 unlimited uses)
 
-### *Neptune's Anchors*
+### Neptune's Anchors
 
 This is a series of small weights attached to a long length of rope and dragged behind the *Paregro Mare.* Using a system akin to modern trawl fishing, Maris scours the seas for sources of magical power. When the *Paregro Mare* comes near one of these underwater sites, the rope pulls tight as the anchor points the way*.* With a successful Intelligence + Navigation roll against an Ease Factor of 9, the user can nail down the location of a discovered site with enough accuracy to make a dive.
 
@@ -7230,7 +7230,7 @@ This effect pulls the rope towards the sensed vis, much like a magnet. The taut 
 
 InVi 19 Pen +0, Constant Effect R: Vision, D: Sun, T: Ind This effect detects nearby vis sources. (Base 1, +4 Vision, +2 Sun, +1 2/day, +3 environmental trigger: sunrise/set)
 
-### *Naiad's Cask*
+### Naiad's Cask
 
 With this device, fresh water is just an arm's length away. After being filled with sea water, the Naiad's Cask will dispense clean, fresh drinking water.
 
@@ -7238,7 +7238,7 @@ With this device, fresh water is just an arm's length away. After being filled w
 
 PeTe(Aq) 20 Pen +0, 24/day R: Touch, D: Mom, T: Ind
 
-### *Voices in the Ocean*
+### Voices in the Ocean
 
 Humans are not aquatic creatures by nature, and Hermetic magic was certainly not designed with submerged use in mind. There are several fundamental differences between casting a spell underwater and casting a spell in the open air. Unless aided by magical means, no words and only subtle gestures may be used to cast spells while submerged, accruing the normal casting penalties. Note that sound has a difficult time leaving the water, and Voice-Range spells cast while submerged can only affect targets in, or touching the surface of, the water. Drowning is not the only threat an adventurous magus needs to worry about. The great weight of the ocean can crush unsuspecting magi. After each 10 meters of descent, a character looses one tenth of his current depth minus soak (extra soak from armor does not apply) in Fatigue Levels.
 
@@ -7248,7 +7248,7 @@ All salt within the container is destroyed, even if in solution, leaving drinkab
 
 (Base 3, +1 Touch, +2 Mineral, +1 Complex; +5 24/day)
 
-### *Roll of Endless Rope*
+### Roll of Endless Rope
 
 This incredibly useful device manifests itself as a long piece of vine, wrapped around a wooden spindle. When the end of the plant is tugged, ten feet of vine unwraps itself from the spindle. This vine is strong and sturdy as a good piece of rope, but the vine is not permanent, and all rigging generally must be replaced every duration. The grown vine may be cut off and used without destroying the device, as long as the original amount of vine remains intact (five feet coiled around the spindle).
 
@@ -7264,7 +7264,7 @@ The attached vine grows an additional ten feet per activation.
 
 (Base 1, +1 Touch, +3 Moon; +10 unlimited uses)
 
-### *Shroud of the Healed Body*
+### Shroud of the Healed Body
 
 Sickness and injury are ever-present risks on a ship, and with a one-man crew, a very serious threat. This shroud, emblazoned with the cross of St. John, keeps a man in health, and helps heal him when sick or injured.
 
@@ -7280,7 +7280,7 @@ If the Shroud of the Healed Body is worn for the duration of a wound or sickness
 
 (Base 5, +1 Touch, +2 Sun; +1 2/day, +3 environmental trigger: sunrise/set)
 
-### *Tryggvason's Chart*
+### Tryggvason's Chart
 
 This large circle of cured leather is attached to the *Paregro Mare's* navigation console. Attached to the map is a weighted leader line that's thrown off the back of the ship. On the map appears a real-time depiction of the surrounding ocean and all the information a sailor could need, including tides, depth information, and other ships. As long as the notation this map provides is understood by the sailor, he gets an additional +5 to his Navigation rolls.
 
@@ -7304,7 +7304,7 @@ This effect produces an image of the information gathered by *Reveal the Ocean's
 
 (Base 1, +1 Touch, +2 Sun; +1 2/day, +3 environmental trigger: sunrise/set, +3 linked trigger)
 
-# *Talisman: Paregro Mare*
+# Talisman: Paregro Mare
 
 Built by Maris' own hand, the *Paregro Mare's* design is based on an amalgam of the Knarr-type long ship, and the later Buss-type vessel. The ship itself is oar-less, foregoing the shallow draft in favor of a lower deck, like the Buss. Supporting only a single mast with one sail, the *Paregro Mare* has room for about 30 tons of cargo and can reach up to 10 knots under favorable conditions. It holds a cramped sanctum below deck, and Maris has practically lived on this vessel ever since leaving the Novgorod Tribunal. Enchanted as his talisman soon after its completion, the *Paregro Mare* has had several effects instilled within it, as well as having had several enchanted devices attached to it that allow it to be sailed by Maris alone, and to withstand the worst man or nature can throw at it.
 
@@ -7317,7 +7317,7 @@ Built by Maris' own hand, the *Paregro Mare's* design is based on an amalgam of 
 - +4 Create/Control Winds
 - +7 Protection from Storms
 
-### *Save Our Ship*
+### Save Our Ship
 
 PeAq 27 Pen +0, 3/day
 
@@ -7327,7 +7327,7 @@ When *Save Our Ship* takes effect, all water in the hold of the ship is destroye
 
 (Base 10, +1 Touch, +2 Room; +2 3/day)
 
-### *Eye of the Storm*
+### Eye of the Storm
 
 ReAq 8
 
@@ -7337,7 +7337,7 @@ All waves, crests, or other masses of water (mundane or otherwise) break and par
 
 (Base 2, +2 Sun; +1 2/day, +3 environmental trigger: sunrise/set)
 
-### *Ward the Drowning Waves*
+### Ward the Drowning Waves
 
 ReAq 33
 
@@ -7349,7 +7349,7 @@ Upon activation, *Ward the Drowning Waves* expels all water from the lower hold 
 
 (Base 5, +1 Touch. +1 Conc, +2 Room; +3 6/day, +5 item maintains concentration)
 
-### *Control the Reckless Vessel*
+### Control the Reckless Vessel
 
 ReAq(Au) 35
 
@@ -7362,7 +7362,7 @@ This effect fills the *Paregro Mare's* sails with a stiff breeze, as well as con
 
  Base 4, +1 Touch, +1 Conc, +2 Size, + 1 Req.; +5 24/day, +5 item maintains concentration)
 
-### *Hull of Unbreakable Iron*
+### Hull of Unbreakable Iron
 
 MuHe (Te) 24 Pen +0, Constant Effect R: Per, D: Sun, T: Ind
 
@@ -7370,7 +7370,7 @@ The *Paregro Mare's* hull has been enchanted to be as hard as metal. The thick t
 
 (Base 4, +2 Sun, +2 Size; +1 2/day, +3 environmental trigger: sunrise/set)
 
-### *Helios' Companionship*
+### Helios' Companionship
 
 CrIg 24
 
@@ -7383,9 +7383,9 @@ The lower deck of the *Paregro Mare* has been enchanted to produce enough light 
 Base 3, +2 Sun; +2 Room, +1 Heat; +1 2/day, +3 environmental trigger: sunrise/set)
 
 
-### *Chapter Nine*
+### Chapter Nine
 
-# *Marcus of Criamon*
+# Marcus of Criamon
 
 **Concept:** This giant-blooded magus seeks to create living beings by combining the features of two or more existing creatures, with the minotaur as his final goal.
 
@@ -7393,7 +7393,7 @@ Marcus Tauros of Criamon's immense size has always been a source of great embarr
 
 During his initiation into the mysteries of House Criamon, he received a vision of his past life as a Minoan priest on the island of Crete, and saw himself create the monstrous minotaur from a man and a sacred bull. He has devoted his learning to recreating that act, believing that if he can successfully call across the Wheel of Time to his former life, he can improve his perceived deficiencies in body and mind, and make a better self. When he completes this research, it is likely that he will overcome his Low Self-Esteem Flaw and gain a Confidence Score of 1. His single-mindedness in pursuing his obsession has meant that he has neglected many of the typical significators of Hermetic maturity, such as a familiar or apprentice, and he only began his talisman after forty years as a magus.
 
-### *Marcus at Gauntlet*
+### Marcus at Gauntlet
 
 **Characteristics:** Int +3, Per +2, Pre 0, Com –1, Str +3, Sta +3, Dex –2, Qik –1
 
@@ -7453,7 +7453,7 @@ F includes Magical Focus
 
 **Sigil:** Marcus' casting sigil is horns, normally in shadow or as a ghostly image. His voting sigil is a bronze bull's head.
 
-### *Marcus +15 years*
+### Marcus +15 years
 
 **Characteristics:** Int +3, Per +2, Pre 0, Com –1, Str +3, Sta +3, Dex –2, Qik –1
 
@@ -7530,7 +7530,7 @@ times during research. F includes Magical Focus
 
 **Activities in the last 15 years**: Three years after his Gauntlet, Marcus was initiated onto the Path of Seeming (*Houses of Hermes: Mystery Cults*, pages 64–67), and eight years later he attained the second Station, that of True Sight. Each of these initiations took a season of his time. He has created his longevity ritual (a tattoo over his heart), and has spent two seasons stabilizing the results of his Original Research (he gained 9 breakthrough points in these 15 years). He has prepared the floor of his laboratory for enchantment, and invested one effect into it, which took him two seasons. He has invented or learned 145 levels of spells, and gained 115 experience points in Abilities and 130 in Arts.
 
-### *Marcus +30 years*
+### Marcus +30 years
 
 **Characteristics:** Int +3, Per +2, Pre 0, Com –1, Str +3, Sta +3, Dex –2, Qik –1
 
@@ -7623,13 +7623,13 @@ times during research F includes Magical Focus
 
 **Appearance:** Marcus is massive; eight foot tall and broad with it. He dresses in simple clothing and invariably hunches his shoulders in a futile attempt to hide his size. He has an olive complexion and black hair, and wears a beard (but
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 no mustache) trimmed close to his jaw line. The stigmata of the Path of Seeming have manifested as an interlocking labyrinth pattern centered around his forehead. When he performs magic, the stigma shifts and rotates as if charting his path through the maze.
 
 **Activities in the last 15 years**: During the last 15 years Marcus was initiated into the third station on the Path of Seeming, which took him a season. He has spent two seasons crafting four Canopic Jars as Lesser Enchanted items, and three seasons enchanting the tattoo on his abdomen. He instilled the second effect into his laboratory enchantment, which took one season. Marcus also spent two seasons investigating the Minoan labyrinth at Knossos, which lead him to several insights into their ancient magic (see Marcus' Original Research, later). He has now acquired a total of 25 breakthrough points, having spent two seasons stabilizing the successes of his studies. He has invented or learned 135 levels of spells, and gained 105 experience points in Abilities and 140 in Arts.
 
-### *Marcus +45 years*
+### Marcus +45 years
 
 **Characteristics:** Int +3, Per +2, Pre 0, Com –1, Str +3, Sta +3, Dex –2, Qik –1
 
@@ -7743,7 +7743,7 @@ A includes attunement of talisman
 
 **Activities in the last 15 years**: During the last 15 years, Marcus has enchanted a second effect into the Mark of Protection (taking one season), and a third effect into the Labyrinth of the Open Mind (taking two seasons). He has prepared his talisman for enchantment, attuned it to himself, and invested three effects, taking a total of seven seasons. He also spent one season stabilizing the breakthrough he made. Due to his advanced abilities, the seasonal method has been used henceforth to determine his spells; in the last 15 years he has acquired 230 levels in 13 seasons, and has now acquired a total of 41 breakthrough points; he is on the verge of completing his research. He has gained 120 experience points in Abilities and 140 in Arts.
 
-# *Original Research*
+# Original Research
 
 *Many neckless faces sprouted, arms were wandering bereft of shoulders and eyes roamed alone in search of foreheads.*
 
@@ -7753,7 +7753,7 @@ Marcus' obsession is with the Counter-Cyclical Alam (see *Houses of Hermes: Myst
 
 Marcus has accumulated 41 breakthrough points through Original Research and Insight towards this Major Breakthrough, which would manifest as a Hermetic Virtue called Hermetic Metamorphosis (see insert for the likely result of this Original Research). The spells here represent his attempts to pursue this path. He also invented *The Wizard's Mount*, *Prying Eyes*, and *The Beast Remade* (from **Ars Magica Fifth Edition**), which yielded him 5 breakthrough points, from the latter.
 
-### *Animal Spells*
+### Animal Spells
 
 **Worm of the Soil**
 
@@ -7787,7 +7787,7 @@ R: Touch, D: Sun, T: Part
 
 Creates a pair of bird wings, joined at their base. The wings flap frantically in ran-
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 dom flight for the duration of the spell, since they lack sense organs or a mind to guide them. If released in an enclosed space, the erratic flight of the wings provides sufficient distraction to impose a –3 penalty on all rolls requiring mental effort or concentration, and adds an extra botch die to all activities. The guideline used in this spell creates a living bird rather than an animal's corpse, and the Part Target produces just the wings.
 
@@ -7823,7 +7823,7 @@ R: Touch, D: Moon, T: Ind
 
 The target animal reverts to a feral form and throws off all its training and domesti-
 
-### *New Virtue: Hermetic Metamorphosis*
+### New Virtue: Hermetic Metamorphosis
 
 *Minor, Supernatural & Hermetic*
 
@@ -7875,9 +7875,9 @@ The targeted animal is given a pair of wings. It does not immediately know how t
 
 (base 25, +1 Touch, +2 Sun)
 
-### *Disembodied Leg* **Size** –3 **Combat**: *Kick:* Init –1, Attack +0, Defense –1, Damage +3 **Soak** +0 **Wound Penalties**: –1 (1–2), –3 (3–4), –5 (5–6), Incapacitated (7–8), Dead (9+)
+### Disembodied Leg **Size** –3 **Combat**: Kick: Init –1, Attack +0, Defense –1, Damage +3 **Soak** +0 **Wound Penalties**: –1 (1–2), –3 (3–4), –5 (5–6), Incapacitated (7–8), Dead (9+)
 
-### *Corpus Spells*
+### Corpus Spells
 
 #### **A Limb Bereft**
 
@@ -7910,7 +7910,7 @@ This spell results from an Insight (see *Ancient Magic*, pages 8–9) Marcus rec
 
 (base 2, +1 Touch, +4 Year; level 20 due to ritual effect)
 
-### *Vim Spells*
+### Vim Spells
 
 #### **Kiss of the Enigma**
 
@@ -7924,11 +7924,11 @@ The target acquires two Warping Points, and, if a Hermetic magus, must check to 
 
 
 
-# *New Spells*
+# New Spells
 
 Marcus has also created some spells that do not constitute part of his research.
 
-### *Corpus Spells*
+### Corpus Spells
 
 # **Bushy Tail of the Branch-Dancer**
 
@@ -7976,7 +7976,7 @@ R: Touch, D: Sun, T: Part
 
 The target of this spell gains the head of
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 a bull. The target's capacity to speak is not affected by the spell, but his voice is. The target may use his horns as a weapon, using the Brawl Ability and the following weapon statistics: Init +2, Attack +3, Defense +2, Damage +3
 
@@ -7992,11 +7992,11 @@ The target is rendered completely immobile for the duration of the spell. This s
 
 (base 5, +1 Touch, +2 Sun, +1 Animal requisite)
 
-# *Enchanted Items*
+# Enchanted Items
 
 Marcus has designed the following enchanted items.
 
-### *The Labyrinth of the Open Mind*
+### The Labyrinth of the Open Mind
 
 Marcus has enchanted the floor to his laboratory to assist in his magical investigations. It is made from two types of wood, one pale and the other stained dark. The complex pattern produced at Marcus' exacting instructions forms a labyrinth, and Marcus' sanctum has been arranged so that items of furniture and pieces of laboratory equipment are located in mystically significant locations. Each "path" of the interlaced design is enchanted with a different effect, all of which are designed to provide magical enhancements to his laboratory activities (see *Covenants*, page 121 for details of Magic Items for Laboratories).
 
@@ -8034,7 +8034,7 @@ This effect grants the target the ability to see the internal organs of humans o
 
 (base 5, +1 Conc, +4 Vision, +1 Animal requisite; +5 item maintains concentration)
 
-### *Canopic Jar*
+### Canopic Jar
 
 This jar takes the form of a rotund human figure about 18 inches tall made of alabaster. The lid of the jar is carved into the shape of the figure's head; of Marcus' four copies, one has the head of a hawk, one a lion, one
 
@@ -8049,7 +8049,7 @@ Any bodily organ placed inside is protected from putrefaction while it remains w
 
 (base 2, +1 Touch, +2 Sun; +1 2/day, +3 environmental trigger)
 
-### *The Mark of Protection*
+### The Mark of Protection
 
 Marcus has a tattoo depicting the sun in its glory that covers his entire abdomen. He has enchanted this tattoo as an invested item, preparing it for enchantment with 6 pawns of vis (tattoos have a base material cost of 2 — see *Houses of Hermes: Mystery Cults*, page 51 — and its size gives it a multiplier of 3). The purple ink that was used to inscribe the tattoo was extracted from the murex shell, and the crushed shells were also included, granting a Shape and Material bonus of +2 to protective effects. The tattoo holds two effects, occupying all 6 pawns' worth of space.
 
@@ -8065,13 +8065,13 @@ Marcus has a +4 to all Soak rolls. However, due to the experimentation used to c
 
 InCo 20 R: Arc, D: Mom, T: Ind Pen 0, 1/day
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 The target always knows exactly where he is in relation to one or more Arcane Connections he has in distant locations. The more Arcane Connections to himself he has, the more accurate his estimation of position; he can feel the tug of each one as he turns in a full circle, and the relative strength tells him the distance. Consequently, the caster is never lost. Marcus invented this effect after one of his ordeals on the Path of Seeming left him hundreds of miles from home in a land where no-one spoke his language.
 
 (base 3, +4 Arc, +1 complexity)
 
-# *Talisman: Bucephalos*
+# Talisman: Bucephalos
 
 Marcus began to develop his talisman comparatively late in his career, since he has been obsessively pursuing his original research. It shares its name (meaning "oxfaced") with Alexander the Great's favorite horse. It is a wooden staff four feet long, which for the giant-sized Marcus is proportioned like a walking stick rather than a weapon. The shaft is made of linden wood and is wide — three inches in diameter. The staff's head is a glossy chunk of magnetite carved into the shape of a bull's head. The eyes of the bull are topaz. It was prepared for enchantment with 12 pawns of Vim vis (the highest single-cost part of the item is the tiny semi-precious stones), and has been attuned as a talisman. It currently has 3 effects occupying 9 pawns' worth of space.
 
@@ -8112,9 +8112,9 @@ A metal or stone object targeted by this effect is momentarily transformed into 
 (base 2, +2 Voice, +2 affect metal; +5 Penetration, +5 24/day)
 
 
-### *Chapter Ten*
+### Chapter Ten
 
-# *Persephone of Tytalus*
+# Persephone of Tytalus
 
 **Concept:** Driven by vengeance against her pater, she and her disfigured sister use magic to enhance their network of agents, giving them a great deal of mundane influence.
 
@@ -8124,7 +8124,7 @@ When Marie-Helene passed her Gauntlet, she took the name "Persephone of Tytalus,
 
 Persephone maintains a network of agents (see sidebar) although most are not aware that they work for her; she contacts them either through an intermediary or in disguise. Her agents are principally spies, gathering information that Kore sorts through for useful intelligence about their targets. Many of her spells and enchantments revolve around ways in which she can use her agents more efficiently in her plans, which have tended to drift from revenge to general meddling in the politics of her tribunal.
 
-### *Persephone at Gauntlet*
+### Persephone at Gauntlet
 
 **Characteristics:** Int +2, Per –1, Pre +3, Com +2, Str –1, Sta +1, Dex –1, Qik 0
 
@@ -8209,7 +8209,7 @@ Mendicant Friar, Pity +2, Resources: A nun who believes the two sisters to be in
 
 **Voting Sigil:** A silver bracelet bearing an onyx.
 
-### *Persephone +15 years*
+### Persephone +15 years
 
 **Characteristics:** Int +2, Per –1, Pre +3, Com +2, Str –1, Sta +1, Dex –1, Qik 0
 
@@ -8288,7 +8288,7 @@ uncovered in the manner of unmarried women. She prefers to dress in simple cloth
 
 **Activities in last 15 years**: Persephone's first enchantment was the Coins of Mirth, Charged Items of which she initially made six. She made a second batch using the Lab Text and gained another seven. She spent another season in the lab creating the Bracelet of Clandestine Insignificance. Finally, Persephone started work on the Signet of Hallam, preparing the item for enchantment and instilling the first effect (in exchange for this item, her covenant has made both Persephone and Kore a longevity ritual). In the last 15 years Persephone, has also gained 159 experience points on Abilities, learned or invented 59 levels of spells, and earned 192 experience points in Arts. Due to her Secondary Insight Virtue, it was assumed that the average source quality for studying the Arts was 8. Consequently, she gained an extra 40 experience points in Forms and an extra 26 experience points in Techniques.
 
-### *Persephone +30 years*
+### Persephone +30 years
 
 **Characteristics:** Int +2, Per –1, Pre +3 (1), Com +2, Str –1 (1), Sta +1, Dex –1 (1),
 
@@ -8316,7 +8316,7 @@ Qik –1 **Size:** 0 **Age:** 51 (40)
 
 **Wound Penalties**: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+)
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 **Abilities:** Artes Liberales 3 (logic), Charm 2 (elders), Concentration 1 (jostled), Finesse 2 (Imaginem), Folk Ken 1 (nobles), French 5 (Norman), Guile 3 (disguise), Intrigue 2 (Hermetic), Latin 4 (arguing), Magic Theory 6 (enchanting jewelry), Order of Hermes Lore 2 (House Tytalus), Parma Magica 3 (Corpus), Penetration 3 (Mentem), Philosophiae 3 (Tytalan philosophy), Stealth 1 (towns), Teaching 2 (Arts)
 
@@ -8382,7 +8382,7 @@ Mastery 1 (Fast Cast)
 
 spent three seasons instilling three more effects into the Signet of Hallam. She has created two copies of the Charged Item she calls Pigeon Amulets. She has begun to train an apprentice, and has spent four seasons so far on her education. In the last 15 years, Persephone has also gained 71 experience points in Abilities, learned or invented 95 levels of spells, and earned 224 experience points in Arts. Due to her Secondary Insight Virtue it was assumed that the average source quality for studying the Arts was 8. Consequently, she gained an extra 32 experience points in Forms and an extra 26 experience points in Techniques.
 
-### *Persephone +45 years*
+### Persephone +45 years
 
 **Characteristics:** Int +2, Per –1, Pre +3 (1), Com +2 (1), Str –1 (1), Sta +1, Dex –1 (1), Qik –1
 
@@ -8421,7 +8421,7 @@ spent three seasons instilling three more effects into the Signet of Hallam. She
 
 **Twilight Scars:** Her eyes shine faintly green
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 in the dark, clothes become of darker hue as the day progresses and lighten again during the night, all ale within 3 paces becomes water, her hair ripples
 
@@ -8430,7 +8430,7 @@ casts a spell.
 
 **Equipment:** Coins of Mirth (0 – 13, depending on how many she has distributed),
 
-### *Companion: Kore*
+### Companion: Kore
 
 Kore harbors a hatred for her sister's pater that outmatches Persephone's. She is capable of much greater passion — whereas Persephone's resentment is academic and considered, Kore's is visceral. She feels that Persephone has become distracted with being a maga, so has taken the burden of the vendetta onto herself. Unknown to her sister, her pater is observed at all times by mundane agents, who are occasionally assisted with purloined magical devices. She has launched several clandestine attacks
 
@@ -8584,15 +8584,15 @@ T includes Talisman attunement bonus
 
 **Activities in last 15 years**: Persephone has spent 11 seasons completing her apprentice's training. She has instilled the last effect into the Signet of Hallam, and created eight more Pigeon Amulets using her laboratory text. Persephone has spent five seasons on her talisman: preparing it for enchantment, attuning it as a talisman, and instilling two effects in it. She has also spent three seasons preparing and enchanting a twinned item for her sister Kore. She has invented 85 levels of spells, but
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 these are counted as four seasons in the laboratory due to her advanced Arts. She also spent a season inventing the *Invisible Hand of the Thief spell* from a laboratory text that she had to buy from a colleague. In the last 15 years, Persephone has also gained 85 experience points in Abilities and earned 165 experience points in Arts. Due to her Secondary Insight Virtue, it was assumed that the average source quality for studying the Arts was 8. Consequently, she gained an extra 24 experience points in Forms and an extra 22 experience points in Techniques.
 
-# *New Spells*
+# New Spells
 
 Persephone has designed the following new spells.
 
-### *Animal Spells*
+### Animal Spells
 
 #### **Remake the Tailor's Craft**
 
@@ -8604,7 +8604,7 @@ Transforms a set of clothing into different clothes. The substance and color mus
 
 (Base 2, +1 Touch, +2 Sun, +2 Group)
 
-### *Imaginem Spells*
+### Imaginem Spells
 
 ### **Trigger the Distant Power**
 
@@ -8637,7 +8637,7 @@ R: Touch, D: Sun, T: Ind
 This spell is a variant of *Aura of Ennobled Presence*, except that it causes the target to appear more guileless, gullible, and naïve. The character gets a +3 to rolls to deflect suspicion
 
 
-### *New Guideline: ReTe 4*
+### New Guideline: ReTe 4
 
 Transport a target instantly up to five paces. Add one magnitude for 50 paces, two magnitudes for 500 paces, three magnitudes for one league, four magnitudes for seven leagues, and five magnitudes for a place to which you have an Arcane Connection.
 
@@ -8645,7 +8645,7 @@ or convince others of his innocence. To those affected by the caster's Gift, his
 
 (Base 3, +1 Touch, +2 Sun)
 
-### *Mentem Spells*
+### Mentem Spells
 
 #### **Catching the Eye**
 
@@ -8709,7 +8709,7 @@ The target forgets meeting the caster. Prior contact between the caster and the 
 
 (Base 4, +1 Eye)
 
-### *Terram Spells*
+### Terram Spells
 
 ### **Short Step of the Ghost**
 
@@ -8731,15 +8731,15 @@ Instantly transports any single object to the hand of the caster. The object mus
 
 The base level for this effect is that for a very unnatural motion. However, for instant transportation the Rego Corpus guidelines are consulted, which adds one magnitude for instant transportation over 5 paces, two magnitudes over 50 paces, and so forth.
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 (base 4, +2 Voice, +1 affect restrained objects, +1 for 50 paces transportation)
 
-# *Enchanted Items*
+# Enchanted Items
 
 Persephone prefers to craft items in the form of jewelry, since most of the items are designed for her own use or that of her sister Kore.
 
-### *Coin of Mirth*
+### Coin of Mirth
 
 Persephone makes these Charged Items in reasonable quantity, and keeps them on hand should she need a distraction. She makes them in the form of a common coin of the realm, usually something of low value that she distributes to her unknowing dupes in exchange for street food or trinkets. She triggers them remotely using her *Triggering the Distant Power* spell, which can activate several coins at once. The spectacle of two or three people simultaneously erupting into spontaneous laughter is usually sufficient distraction to allow Persephone to cast a spell with vulgar magical effects and remain unnoticed.
 
@@ -8755,7 +8755,7 @@ When activated, this coin causes the person who it is touching to burst into unc
 
 (Base 4, +1 Touch, +1 Diam)
 
-### *Bracelet of Clandestine Insignificance*
+### Bracelet of Clandestine Insignificance
 
 This simple silver bangle is a Lesser Enchantment created by Persephone to avoid unwanted attention. It cost her two pawns of vis to make.
 
@@ -8772,7 +8772,7 @@ Persephone is careful not to wear the bracelet wherever she may be in the compan
 
 (base 2, +1 Touch, +1 Conc; +5 item maintains concentration, +5 24/day)
 
-### *Signet of Hallam*
+### Signet of Hallam
 
 This Invested item effects a specific disguise — one impersonating Lord Richard of Hallam — that is commonly used by Persephone, Kore, or one of the maga's trusted agents. The ring is made with two trigger words, one of which is used by male characters, and the other by female characters to initiate all of the same effects and also change the sexual characteristics of the target to those of a male. When the trigger word is said, each effect is initiated in the order presented below, one per round.
 
@@ -8840,7 +8840,7 @@ Prevents the detection of any of the effects in this item by magic, unless the I
 
 (Base effect (5), +1 Touch, +2 Sun, +2 Group; +1 2/day, +3 environmental trigger)
 
-### *Pigeon Amulet*
+### Pigeon Amulet
 
 Named after the bird stamped on its surface, this brass coin-shaped amulet has a hole in the top allowing it to be threaded onto a necklace or leather thong. Each one is made as a pair from the same batch of metal, and are separated at the end of the enchantment process. One half is kept by the maga as an Arcane Connection to the other half; Persephone neatly labels these with the name of the owner of the other half, and hangs them on her wall. These Arcane Connections typically last for years. Persephone distributes these Charged Items to potential agents who she may wish to recruit at a later date, or to skilled operatives to whom she issues personal instructions.
 
@@ -8856,7 +8856,7 @@ When activated, this amulet causes the person who it is touching to have a naggi
 
 (Base 5, +1 Touch, +3 Moon)
 
-### *Fides Sororis*
+### Fides Sororis
 
 This Invested Item is physically the twin of Persephone's talisman, made at the same time from the same batch of gold, and bearing seven strands of the maga's hair as a fixed Arcane Connection. The ring was prepared for enchantment with 10 pawns of vis, and has been invested with 5 pawns' worth of effects. Persephone gave this ring to her sister Kore.
 
@@ -8882,11 +8882,11 @@ The target's face is changed to be that of Persephone of Tytalus. The face is al
 
 (Base 3, +1 Touch, +1 Conc, +1 Part, +1 requisite; +5 item maintains concentration, +5 24/day)
 
-# *Talisman: Amor Sororis*
+# Talisman: Amor Sororis
 
 Persephone's talisman is a simple gold ring. Wound around the unadorned band are seven strands of her sister Kore's hair, which are a fixed Arcane Connection. Kore possesses an identical ring with seven strands of Persephone's hair, but the enchantments in
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 this ring are very different (see Fides Sororis earlier). The ring was prepared for enchantment with 10 pawns of vis, and currently has one pawns' worth of space left.
 
@@ -8923,15 +8923,15 @@ As the spell of the same name, except that the talisman takes the strain of conc
 (Base effect, +4 Arc, +1 Conc; +5 item maintains concentration)
 
 
-### *Chapter Eleven*
+### Chapter Eleven
 
-# *Petalichus of Verditus*
+# Petalichus of Verditus
 
 **Concept:** Spinning webs of intrigue through the use of secret Mysteries, this crafter of seemingly humble devices is as secretive, manipulative, and vindictive as his arachnid familiar implies.
 
 Petalichus the Weaver of Veriditus is the latest in the line of Arachne's Children, a diminished cult of weavers within House Verditius. He learned to weave magic into the most humble of devices, while others in his House wrought great weapons and exquisite rings. But beyond his House, his learning in philosophy and the artes liberales brought him to the attention of others, and he was soon adopted into the Cononites, a secretive mystical cult within the Order of Hermes that seeks out, reveres, and safeguards the more esoteric works of Conon of Samos and other Greek scholars such as Euclid, Apollonius, and Archimedes. The cult taught Petalichus its secret magic, and in return Petalichus crafted tools and devices to help its members use that learning more effectively. Petalichus the Weaver is as secretive, manipulative, and vindictive as his arachnid familiar leads others to suspect. Though his crafts may be humble, his ambitions are lofty and he often brings the full power of his knowledge and craft to bear on his enemies. He is a dangerous man, operating out of sight and through agents and proxies, concealed behind a web of deceit and confusion.
 
-### *Petalichus at Gauntlet*
+### Petalichus at Gauntlet
 
 **Characteristics**: Int +2, Per +2, Pre 0, Com 0, Str –1, Sta 0, Dex +2, Qik –1
 
@@ -9003,7 +9003,7 @@ Petalichus the Weaver of Veriditus is the latest in the line of Arachne's Childr
 
 **Casting Tools**: Petalichus uses a number of oversized needles pinned into his cuffs, each corresponding to a different spell. Each needle carries a different thread, and as the spell is cast the needle is pulled from his cuff and pierced through a cloth held in the other hand.
 
-### *Petalichus +15 years*
+### Petalichus +15 years
 
 **Characteristics**: Int +2, Per +2, Pre 0, Com 0, Str –1, Sta 0, Dex +2, Qik –1
 
@@ -9063,7 +9063,7 @@ Petalichus the Weaver of Veriditus is the latest in the line of Arachne's Childr
 
 *The Weaver's Subtle Art* (ReAn 5/+13\*)
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 *Arachne's Tuition* (ReCo 20/+16) *Spasms of the Uncontrolled Hand* (ReCo 5/+16) *Lamp without Flame* (CrIg 10/+20) *Tales of the Ashes* (InIg 5/+14) *Prying Eyes* (InIm 5/+9) *Sight of the Transparent Motive* (InMe 10/+18) *Aura of Rightful Authority* (ReMe 20/+16) *Scales of the Magical Weight* (InVi 5/+11)
 
@@ -9073,7 +9073,7 @@ Petalichus the Weaver of Veriditus is the latest in the line of Arachne's Childr
 
 **Activities in the last 15 years**: Over the course of the last 15 years, Petalichus began his journey through the Verditius mysteries taking his first initiation. He also began to stretch his mundane knowledge, seeking out books and correspondences concerning mathematics, geometry, and astrology. While he has not yet encountered the Cononites, they know of him and have been watching his progress. Petalichus invented his (level 8) longevity ritual during this period, and it takes the form of a ritual unbinding and binding of his beard with specially prepared cords.
 
-### *Petalichus +30 years*
+### Petalichus +30 years
 
 **Characteristics**: Int +2, Per +2, Pre 0, Com 0, Str –1, Sta 0, Dex +2, Qik –1
 
@@ -9157,7 +9157,7 @@ Petalichus the Weaver of Veriditus is the latest in the line of Arachne's Childr
 
 **Activities in the last 15 years**: During this period of Petalichus' life, he was approached by the Cononites and initiated into its secret society. He gained their trust quickly. He has all but turned his back on his traditional Verditius Mysteries. It is worth noting that the Initiations Petalichus has endured up to this point have left him unable to work Spontaneous magic, as he now suffers from both the Weak and Difficult Spontaneous Magic flaws. He is reliant on a number of casting tablets supplied by his brother Cononites (see *Covenants*, page 89) for many simple spells. Assume that Petalichus has any reasonable Intellego spell up to fourth magnitude. He also began to experiment with creating ligatures (*Art & Academe*, page 68) at this time, another influence from the Cononites.
 
-### *Petalichus +45 years*
+### Petalichus +45 years
 
 **Characteristics**: Int +2, Per +2, Pre 0, Com 0, Str –1, Sta 0, Dex +2, Qik –1
 
@@ -9263,15 +9263,15 @@ described later), Distaff of Petalichus talisman (as described later).
 
 **Appearance**: Now looking like a man in his mid-fifties, with his twisted and bound beard turning grey, his hair receding, and his brows thick and protruding, Petalichus has the presence of authority that only maturity can bring. He is adorned with devices (both of his own making, and others the provenance of which may never be certain), rings, his talisman, a large book slung in a satchel, his heavy robes, and Idmon his sinister arachnid familiar.
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 **Activities in the last 15 years**: Much of Petalichus' time during this period was spent crafting his numerologist's book, copies of which he supplied to the Cononites cult. His ambitious nature also asserted itself and he created a number of items with overtly offensive aims. As Petalichus approached his seventieth year, he finally bested his age-old enemy Solar Magnus while both were scouring Canterbury for an ancient text. His future is uncertain from this point onward, though his friends within the Cononites may exploit their connections and influence in his defense.
 
-# *New Spells*
+# New Spells
 
 Petalichus has developed these spells.
 
-### *Animal Spells*
+### Animal Spells
 
 ### **Unmake This Cloth**
 
@@ -9283,7 +9283,7 @@ This spell unravels an item made of cloth, whether it be wool, linen, cotton, or
 
 The garment, tapestry, or other item is disassembled carefully with all knots undone and stitching unpicked.
 
-### *Familiar: Idmon the Spider*
+### Familiar: Idmon the Spider
 
 **Characteristics**: Int –3, Per –2, Pre –5, Com –6, Str –10, Sta +1, Dex +3, Qik +4
 
@@ -9452,7 +9452,7 @@ A Herbam casting requisite is required for tapestries using plant-based thread.
 
 (Base 1, +1 Touch, +1 Part, +1 for size, +1 for Finesse)
 
-### *Corpus Spells*
+### Corpus Spells
 
 #### **Arachne's Tuition**
 
@@ -9468,7 +9468,7 @@ This spell is designed to assist with the training of physical skills, notably c
 
 This version was developed generations ago within Petallichus' line of Verditius weavers, though others certainly exist elsewhere within House Verditius and perhaps also in other Houses.
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 Two seasons of using this spell on an apprentice counts as one year of being under a constant magical effect as per **ArM5**, page 168, and inflicts 1 Warping point in that year.
 
@@ -9490,7 +9490,7 @@ As the base effect for warding spells is Touch, Ring, Circle, the Arcane Circle 
 
 (base 15, +1 Arcane Circle)
 
-### *Imaginem Spells*
+### Imaginem Spells
 
 ## **To See As Though a Plethron Distant**
 
@@ -9511,7 +9511,7 @@ The Target is based on Room, but is more complex as it allows unbounded spaces t
 
 (Base 2, +3 Sight, +1 Concentration, +3 Special target based on Room +1)
 
-### *Mentem Spells*
+### Mentem Spells
 
 #### **The Unwelcoming Room**
 
@@ -9526,7 +9526,7 @@ Petalichus knows the effect The Gift has on mundanes, and recognizes that the fe
 (Base 4, +3 Line, +1 Concentration, +2 Room)
 
 
-### *Vim Spells*
+### Vim Spells
 
 ### **A Day's Grace**
 
@@ -9550,7 +9550,7 @@ spell is triggered.
 
 (base 15, +1 Touch, +2 Hours - equivalent of Sun)
 
-### *Sample Rotes*
+### Sample Rotes
 
 Petalichus has invented the following effects as Rotes, the simple magical effects available to students of Hermetic Numerology. See *The Mysteries Revised Edition*, page 92 for details on casting.
 
@@ -9585,11 +9585,11 @@ MuMe 4
 
 R: Eye, D: Sun, T: Ind As the spell listed in **ArM5**, page 149.
 
-# *Enchanted Items*
+# Enchanted Items
 
 Petalichus created the following items.
 
-### *Items of Quality*
+### Items of Quality
 
 Many of the items Petalichus made for both his mundane and his Hermetic customers were Items of Quality (see *Houses of Hermes: Mystery Cults*, page 124) that he was able to create after being initiated into the deeper Mysteries of his House. Those listed below are just a sample.
 
@@ -9612,13 +9612,13 @@ Despite its name, this cuirass is leather, not steel. Petalichus brought out the
 
 Petalichus has brought out his loom's intrinsic quality to work cloth. As a loom has a very specialized use, it benefits from a +4 shape and material bonus to weave cloth (Petalichus could instead have brought out a +2 shape and material bonus with Imaginem). This bonus applies to all mundane weaving work done on the loom. He also spent a season investing the loom with the *Day's Worth of Weaving* spell effect (see above) with two uses per day. The Finesse rolls required by this effect also benefit from the +4 bonus.
 
-### *The Cloak of Authority*
+### The Cloak of Authority
 
 ReMe 24 R: Eye, D: Sun, T: Ind Pen +0, 12/day
 
 This exquisite ceremonial cloak, embroidered with majestic and astrological iconography, was designed for a mundane noble who, in the way of Byzantine politics, was uncertain of the loyalty of those around him. The cloak is invested with *The Aura of Rightful Authority* (**ArM5**, page 151) with 12 uses per
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 day. The jeweled clasp at the cloak's throat forms the focus for the Eye contact Range, and the device is activated through stroking this clasp.
 
@@ -9626,7 +9626,7 @@ This cloak brought Petalichus to the attention of the Tribunal. His handiwork wa
 
 (base5, +1 Eye, +2 Sun; +4 12/day)
 
-### *Sanctum Door Hanging*
+### Sanctum Door Hanging
 
 This tapestry, which is large enough to hang in front of a sizable door, bears a stark white sanctum marker against a deep red background. From a distance it appears plain, though threaded through with various shades. A closer look reveals unnerving images of damnation and death that loom out of the tapestry.
 
@@ -9652,7 +9652,7 @@ Alongside the pain, the target hears a thousand demonic voices crying out for hi
 
 (base 4, +1 Touch, +2 requisites; +10 unlimited/day, +10 penetration)
 
-### *The Light of Fell Disease*
+### The Light of Fell Disease
 
 PeCo 30 R: Touch, D: Mom, T: Room Pen: +0
 
@@ -9674,7 +9674,7 @@ Quaesitor Valeria of the covenant of Donum Chanuti uncovered evidence that Petal
 
 (base 20 +1 Touch, +2 Room)
 
-### *Dreams You Shall Not Wake From*
+### Dreams You Shall Not Wake From
 
 CrIg 48 R: Touch, D: Mom, T: Room Pen: +30, 1 charge
 
@@ -9686,7 +9686,7 @@ Through subterfuge, Petalichus successfully deployed this device in his infamous
 
 (base 15 +1 Touch, +2 Room; +15 penetration, +3 environmental trigger)
 
-### *The Map of Many Places*
+### The Map of Many Places
 
 In(Re)Im(An) 25 R: Sight, D: Mom, T: Vision Pen: +0, 1/Day
 
@@ -9698,7 +9698,7 @@ If used with Hermetic Geometry Arcane Line, Circle, and Ring spells, the map red
 
 (base 1, +3 Sight Range, +4 Sight Target, +1 complexity)
 
-### *The Convenient Door*
+### The Convenient Door
 
 ReTe(He) 25 R: Touch, D: Diam, T: Structure Pen: +0, 1/Day
 
@@ -9713,7 +9713,7 @@ The chalk in the bag is non-magical and is incidental, being used simply to acti
 
 (base 4, +1 Touch, +1 Diameter, +3 Structure, +1 Herbam requisite, +1 affect stone)
 
-### *Greater Numerologist's Book*
+### Greater Numerologist's Book
 
 This heavy book brings together copies of *De Astrologia* (a work on astrology containing the Chaldean Observations), *Parapegma* (forecasts of the risings and settings of the stars), and *Pros Thrasydaion* (a mathematical work concerning conics and circles and their intersections). This unique collection of works, kept alive by the Cononites, serves as a focus for both Numerological and Astrological spell casting.
 
@@ -9747,7 +9747,7 @@ As T*he Worldly Halysis* except that this effect operates through the form of Co
 
 (base 3, +4 Arcane Connection; +2 3/ day, +15 penetration)
 
-# *Talisman: Distaff of Petalichus*
+# Talisman: Distaff of Petalichus
 
 Petalichus took a greatstaff in the shape of a distaff as his talisman, to represent his heritage. But the staff is full of mathematical resonances, from being carved and shaped with four sides rather than rounded smooth, to the complex ratios between the positioning of symbols and inscriptions up its shaft. These symbols are picked out in white against the deep black polish of the staff.
 
@@ -10211,11 +10211,11 @@ around his face is bleached from long exposure to hot fires at close range. He i
 
 **Activities in the last 15 years:** During these 15 years, Ranulf took an apprentice. Ranulf's mentor passed into Twilight at a very advanced age and Ranulf presented a fixed Arcane Connection to himself (created by his apprentice) to the castellan of Castra Solis to fill the void left by his mentor's passing (*Houses of Hermes: Societates*, page 13). Ranulf's weakness with Intellego spells was exposed during a certamen challenge at a Flambeau tournament, and many of his housemates know of this weakness. Ranulf has become very interested in the possibilities inherent in using fires that are Arcane Connections
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 to one another, although he has only just begun to develop spells exploring their use. Ranulf spent two seasons investing *Shriek of the Impending Shafts* into his talisman, and two seasons investing *Defense of the Roaring Furnace* in his talisman. Ranulf spent one season creating the Chest of the Ember Seed. Ranulf spent one season learning *Wind of Mundane Silence* and one season learning *Opening the Intangible Tunnel,* both with the help of laboratory notes. Ranulf expended one season inventing *Self Immolation*, two seasons inventing *Ward against Immolation*, one season inventing *Unified Flame*s, three seasons inventing *Wizard's Boost (Vim)*, and three seasons inventing *Transformation of Fire*. Ranulf has spent one season searching for his apprentice and 14 seasons training his apprentice. Ranulf gained 35 experience points in Abilities and 175 experience points in Arts (with an additional 35 Art experience points received due to his affinity with Ignem).
 
-### *Pilum of Fire and Other Common Spells*
+### Pilum of Fire and Other Common Spells
 
 *Pilum of Fire* is a popular spell within the Order of Hermes, and it is especially popular with the faction of Flambeau who follow the School of the Founder.
 
@@ -10227,11 +10227,11 @@ An example of a spell specifically tailored to be used with another is *Boreal F
 
 While many magi muse that a spell similar to *Pilum of Fire* with a longer range or with a less-intense flame that would allow better penetration might be better suited to their particular needs, the resources that exist within the Order that specifically relate to *Pilum of Fire* make it the spell used by magi more often than might be warranted by its utility alone.
 
-# *New Spells*
+# New Spells
 
 Ranulf has designed these new spells.
 
-### *Ignem Spells*
+### Ignem Spells
 
 ### **Coat of Prometheus**
 
@@ -10375,7 +10375,7 @@ This spell is an example of magic created to match the needs of the magus. For m
 (Base 3, +4 Arcane Connection, +2 Sun, +2 Group)
 
 
-### *Terram Spells*
+### Terram Spells
 
 ### **Transmutation of Fire**
 
@@ -10385,7 +10385,7 @@ This spell transmutes an object of stone, wood, or soil, or part of some such ob
 
 (Base 5, + 2 Voice, +2 Sun, +1 part, +1 to affect stone, +1 Herbam requisite)
 
-### *Vim Spells*
+### Vim Spells
 
 ### **Group Wizard's Boost (Form)**
 
@@ -10403,7 +10403,7 @@ R: Voice, D: Momentary, T: Individual
 
 The Target of the targeted spell increases by one category; all targets affected by the expanded spell must be legal targets for the original spell. There are ten versions of *Wizard's Expansion*, one for each form. The targeted spell must be at least one magnitude lower than this spell. A single spell may not be affected more than once with this spell, but when two magi cooperate, a spell can be the target of both *Wizard's Expansion* and *Wizard's Reach*, providing that one of the two Muto Vim spells
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 is at least two magnitudes higher than the target spell.
 
@@ -10419,11 +10419,11 @@ Ranulf uses *The Patient Spell* to provide himself with an opportunity to cast *
 
 (Base effect, +1 Touch, + 1 Concentration)
 
-# *Enchanted Items*
+# Enchanted Items
 
 Ranulf has created the following items.
 
-### *Ribbon of Arcane Preservation*
+### Ribbon of Arcane Preservation
 
 This is an eighteen-inch-long silk ribbon with the following single effect enchanted into it as a lesser enchantment using three pawns of vis. This item was created from a set of laboratory notes passed between hoplites.
 
@@ -10437,7 +10437,7 @@ R: Touch, D: Const, T: Ind
 
 When the Ribbon of Arcane Preservation is tied around an object, the magics in the ribbon work to delay the degradation of any Arcane Connections that the object has. Arcane Connections affected by the Effect will decay as if they had a duration two levels higher on the Arcane Connection chart (**ArM5** page 84). Arcane Connections that
 
-### *New Guidelines: CrVi*
+### New Guidelines: CrVi
 
 Creo Vim spells and powers can be used to prolong the durations of Arcane Connections in a manner analogous to the way that Perdo Vim effects can decrease their duration. Arcane Connections under the effects of a Creo Vim spell still decay, but at a slower rate than they do naturally. An Arcane Connection that is being preserved by a Creo Vim spell does not have its penetration multiplier increased. Unlike Perdo Vim magics that permanently degrade connections instantly, Creo Vim spells only retard the decay of connections during their duration. Spell guidelines are similar to the guidelines for Perdo Vim Arcane Connection spells.
 
@@ -10452,7 +10452,7 @@ normally decay in hours will instead decay in weeks while the ribbon is tied aro
 
 (Effect: Base 10, + 1 Touch, +2 Sun; Modifications +1 level 2 uses per day, +3 levels environmental trigger)
 
-### *Chest of the Ember Seed*
+### Chest of the Ember Seed
 
 This is a small stone box the size of an apple, that's lined with fired clay and held closed by leather straps. Ranulf has enchanted the box as a lesser enchanted device with the following power, using four pawns of vis:
 
@@ -10466,11 +10466,11 @@ Objects that are placed within this box are heated enough to glow red-hot. Ranul
 
 (Effect: Base 5, +2 Sun, +1 Touch, +2 Group; Modifications: +3 levels environmental trigger, +1 level 2 uses per day)
 
-### *Laboratory of Ranulf*
+### Laboratory of Ranulf
 
 Ranulf opened the wooden room that serves as his laboratory as an invested device. The room is opened as a compound device with only the highest vis capacity component (the limestone fireplace) instilled with vis. The room was opened with twelve pawns of vis. Seven of these twelve pawns are filled with enchantments. The room has three effects invested in it.
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 With reference to the laboratory personalization rules in *Covenants*, pages 113 and 115, this item provides the Excessive Heating, Excessive Lighting, and Lesser Feature (Ignem specialization) Virtues to Ranulf's laboratory without any modifications to the laboratory's Upkeep or Safety values. While this item was being integrated into his laboratory, Ranulf's laboratory acquired the Highly Organized Virtue, as well.
 
@@ -10511,7 +10511,7 @@ This effect calls into being up to ten flames that may appear at any specified p
 
 (Effect: Base 10, +1 Rego requisite, +1 concentration, +2 group; Modifications +5 levels item maintains concentration, +6 levels 50/day)
 
-# *Talisman: Staff of Ranulf*
+# Talisman: Staff of Ranulf
 
 Ranulf enchanted a staff for his talisman. The staff is made of coiled lengths of ash, hazel, and oak, and it is bound with iron, inset with leaden and silver traceries, and has a tiny ruby mounted in a silver ring just above where it is held. It was originally opened with 15 pawns of vis to fill the ruby.
 
@@ -10555,7 +10555,7 @@ R: Voice, D: Conc, T: Ind (+1 size)
 
 This effect changes the flames of the target fire to be as hard and stable as stone. The flames still have no weight and the target fire still produces both heat and smoke. Ranulf often uses this effect in combination with the *Topiary of Flames* effect to create temporary structures. The target fire can be no larger
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 than a small house or large hut (ten times the size of a standard Ignem individual).
 
@@ -10606,15 +10606,15 @@ Defense of the Roaring Furnace burns any fast-moving wooden item that comes with
 (Effect: Base 30, + 3 Voice equivalent non-standard; Modifications +10 levels unlimited uses, +3 levels linked trigger)
 
 
-### *Chapter Thirteen*
+### Chapter Thirteen
 
-# *Scipio of Merinita*
+# Scipio of Merinita
 
 **Concept:** Casting his magic through music and illusion, this son of a faerie king searches for his true love despite his father's interference.
 
 Scipio of Merinita was once named Pierre, and is the son of a poor peasant woman and a faerie king of bright summer. Soon after his birth he was abducted and taken to the court of his father, where he learned to use his inherent magical powers to create music and illusions. But he was not alone, because some other very beautiful boys and girls also lived in the court. One of them was a girl named Vinella. Soon the two recognized that there was true love between them. The king was afraid of the love between his son and foster daughter (who he desired, as well) so he sold the boy to a Merinita maga. She turned the boy, who dreamed of becoming a hero to regain his beloved Vinella, into a magus. Soon after his Gauntlet he moved out to the world to find her, always watching for his father's men who try to lure him away from his quest for his true love.
 
-### *Scipio at Gauntlet*
+### Scipio at Gauntlet
 
 **Characteristics:** Int +1, Per 0, Pre +2, Com +2, Str –2, Sta 0, Dex +2, Qik 0
 
@@ -10650,7 +10650,7 @@ Scipio of Merinita was once named Pierre, and is the son of a poor peasant woman
 
 *Eyes of the Cat* (MuCo(An) 5/+3) *Curse of the Unruly Tongue* (ReCo 5/+12) *Jump of the Lynx* (ReCo 20/+12) *Told Story* (CrIm 20/+16)
 
-### *Story Seeds*
+### Story Seeds
 
 ### **Gauntlet**
 
@@ -10680,7 +10680,7 @@ Scipio of Merinita was once named Pierre, and is the son of a poor peasant woman
 
 **Sigil:** His casting sigil is a red fox that manifests and even acts in his spells. His voting sigil is a red wand with the wooden head of a fox.
 
-### *Scipio +15*
+### Scipio +15
 
 **Characteristics:** Int +1, Per 0, Pre +2, Com +2, Str –2, Sta 0, Dex +2, Qik 0
 
@@ -10704,7 +10704,7 @@ Scipio of Merinita was once named Pierre, and is the son of a poor peasant woman
 
 **Abilities:** Artes Liberales 1 (ceremonial magic), Athletics 1 (running), Awareness 2 (spotting), Bargain 2 (music payment), Brawl 1 (dodging), Carouse 2 (drinking songs), Charm 1 (first impressions), Concentration 2 (spell concentration), Enchanting Music 3 (friendship), Etiquette 2 (faeries), Faerie Lore 2 (faerie forests), Faerie Magic 3 (spells), Finesse 1 (Imaginem), Folk Ken 2 (faeries), Guile
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 1 (fast talk), High French 5 (music), French Kingdom Lore 1 (towns), House Merinita Lore 2 (Initiations), Intrigue 1 (rumormongering), Latin 4 (texts), Legerdemain 1 ("magic" tricks), Magic Lore 1 (forests), Magic Theory 3 (spells), Music 3 (lyre), Order of Hermes Lore 1 (magi), Parma Magica 3 (Vim), Penetration 1 (Imaginem), Philosophiae 1 (ceremonial magic), Profession: Trouvere 2 (love songs), Second Sight 1 (faeries), Stealth 1 (sneak), Survival 1 (finding routes), Swim 1 (rivers)
 
@@ -10728,11 +10728,11 @@ Scipio of Merinita was once named Pierre, and is the son of a poor peasant woman
 
 
 
-### *Performance Magic (Music)*
+### Performance Magic (Music)
 
 Scipio uses the Performance Magic rules from *The Mysteries: Revised Edition*, page 29. This lets him use singing and playing instead of words and gestures to cast spells. In addition, he can maintain concentration while he performs his music with no need for a Concentration roll.
 
-### *Scipio +30*
+### Scipio +30
 
 **Characteristics:** Int +1, Per 0, Pre +2, Com +2, Str –2, Sta 0, Dex +2, Qik 0
 
@@ -10760,7 +10760,7 @@ Scipio uses the Performance Magic rules from *The Mysteries: Revised Edition*, p
 
 **Abilities:** Artes Liberales 1 (ceremonial magic), Athletics 1 (running), Awareness 2 (spotting), Bargain 2 (music payment), Brawl 1 (dodging), Carouse 2 (drinking songs), Charm 2 (first impressions), Concentration 2 (spell concentration), Divine Lore 1 (angels), Enchanting Music 3 (friendship), Etiquette 2 (faeries), Faerie Lore 3 (faerie forests), Faerie Magic 4 (spells), Finesse 2 (Imaginem), Folk Ken 2 (faeries), Guile 2 (fast talk), High French 5 (music), French Kingdom
 
-### *Glamour Spells*
+### Glamour Spells
 
 Scipio uses the Glamour Magic rules from *Houses of Hermes: Mystery Cults*, pages 101-102. In short, this allows him to create illusions that are more real than other illusions: they are resisted by the Parma Magica, can do real damage, move things, and so on, but they are only affected by Imaginem spells.
 
@@ -10818,7 +10818,7 @@ Lore 2 (towns), House Merinita Lore 3 (Initiations), Intrigue 1 (rumormongering)
 
 **Activities in the last 15 years:** He spends four seasons on his talisman, one for finding a familiar, one for binding it, two for his Mysteries (gained Glamour and Vulnerable Magic), and seven on spell design. During experimentation he made a discovery for 15 experience points in Magic Theory. He gains 330 experience for 11 full years plus 15 experience through experimentation. 150 experience from these 15 years are spent on Abilities (for a total of 575), 195 experience are spent on Arts (for a total of 500). Spells were all created in lab seasons, some with experimentation.
 
-### *Scipio +45*
+### Scipio +45
 
 **Characteristics:** Int +1, Per 0, Pre +2, Com +2, Str –2, Sta 0, Dex +2, Qik 0
 
@@ -10894,7 +10894,7 @@ ic), Athletics 1 (running), Awareness 2 (spotting), Bargain 2 (music payment), B
 
 *Hiding the Ill-Bred Bard* (PeIm 15/+30)
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 *Color Explosion (ReIm 15/+33) The Generous Patron* (MuMe 15/+30)
 
@@ -10904,7 +10904,7 @@ ic), Athletics 1 (running), Awareness 2 (spotting), Bargain 2 (music payment), B
 
 **Activities in the last 15 years:** He spends 15 seasons with his apprentice, one for his longevity ritual, and six on spell design. He gains 270 experience points for nine full years, plus 10 experience for a half year. 120 experience are spent on Abilities (for a total of 695), 150 experience on Arts (for a total of 650). Spells were all created in lab seasons, some with experimentation.
 
-### *Scipio +60*
+### Scipio +60
 
 **Characteristics:** Int +1, Per 0, Pre +2, Com +2, Str –2, Sta 0, Dex +2, Qik 0
 
@@ -10914,7 +10914,7 @@ ic), Athletics 1 (running), Awareness 2 (spotting), Bargain 2 (music payment), B
 
 **Personality Traits:** Meddler +3, Wanderlust
 
-### *Story Seeds*
+### Story Seeds
 
 ### **+30 Years**
 
@@ -11010,7 +11010,7 @@ ic), Athletics 1 (running), Awareness 2 (spotting), Bargain 2 (music payment), B
 
 **Activities in the last 15 years:** He spends seven seasons on spell design and one on enchanting his familiar. He gains 390 experience points for 13 full years. 150 experience are spent on Abilities (for a total of 840), 240 experience on Arts (for a total of 890). Spells were all created in lab seasons, some with experimentation.
 
-### *Scipio +75*
+### Scipio +75
 
 **Characteristics:** Int +1, Per –1(0), Pre +2, Com +2, Str –2, Sta 0, Dex +2, Qik –1(0)
 
@@ -11122,7 +11122,7 @@ ic), Athletics 1 (running), Awareness 2 (spotting), Bargain 2 (music payment), B
 
 **Activities in the last 15 years:** He spends seven seasons on spell design, one for rebuilding his lab (after destroying it in experimentation), one on his familiar (reforging the bond), two for his talisman, and one for a magical item. He gains 360 experience points for 12 full years. 155 experience are spent on Abilities (for a total of 995), 205 experience on Arts (for a total of 1095). Spells were all created in lab seasons, some with experimentation.
 
-### *Scipio +90*
+### Scipio +90
 
 **Characteristics:** Int +1, Per –1, Pre +2(1), Com +2, Str –2, Sta -1, Dex +2, Qik –1
 
@@ -11156,7 +11156,7 @@ ic), Athletics 1 (running), Awareness 2 (spotting), Bargain 2 (music payment), B
 
 **Encumbrance:** 0 (0)
 
-### *Story Seeds*
+### Story Seeds
 
 #### **+75 Years**
 
@@ -11174,7 +11174,7 @@ ic), Athletics 1 (running), Awareness 2 (spotting), Bargain 2 (music payment), B
 
 *Servant of Fire* (MuIm(IgMe) 35/+42\*)
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 *Hiding the Ill-Bred Bard* (PeIm 15/+46) *Invisible Arms* (Pe(Cr)Im25/+46) *Color Explosion* (ReIm 15/+47) *The Generous Patron* (MuMe 15/+39) *Stolen Moments* (PeMe 35/+33) *Sinister Road* (ReMe 20/+36) *Dancing Mania* (ReMe 30/+36) *Endless Laughter* (ReMe 30/+36) \* Includes Magical Focus
 
@@ -11185,7 +11185,7 @@ ic), Athletics 1 (running), Awareness 2 (spotting), Bargain 2 (music payment), B
 
 Scipio has developed these spells.
 
-### *Auram Spells*
+### Auram Spells
 
 ### **Bridge of Gnomes**
 
@@ -11207,7 +11207,7 @@ This spell gives an existing rainbow the hardness of good stone or iron. It is s
 
 (Base 10, +3 Sight, +2 Sun, –1 for only one property change)
 
-### *Corpus Spells*
+### Corpus Spells
 
 #### **High Tree or Small Boulder**
 
@@ -11312,7 +11312,7 @@ R: Personal, D: Diameter, T: Individual Like *Gift of the Frog's Legs,* but with
 
 (Base 10, +1 Diameter, +1 for no falling damage)
 
-### *Herbam Spells*
+### Herbam Spells
 
 ### **How God Created Them**
 
@@ -11334,7 +11334,7 @@ This spell makes a stringed, wooden instrument play music. The spell lasts until
 
 (Base 3, +1 Touch, +1 While, +1 Animal requisite, +1 complexity)
 
-### *Ignem Spells*
+### Ignem Spells
 
 #### **Summer's Blessing**
 
@@ -11346,7 +11346,7 @@ This spell turns the heat and flames of a large campfire into a small, very hard
 
 (Base 5, +2 Voice, +2 Sun, requisite is free, +1 constantly releasing heat)
 
-### *Imaginem Spells*
+### Imaginem Spells
 
 #### **Smoke of Escaping**
 
@@ -11467,7 +11467,7 @@ R: Touch, D: Sun, T: Individual
 
 Alters the appearance of a person to make him look more innocent and trustworthy. His facial features become softer and more childish. The character receives a +3 on appropri-
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 ate rolls. This doesn't undo the effects of The Gift (see page 75 of **ArM5**), but works well for magi who have the Gentle Gift.
 
@@ -11558,7 +11558,7 @@ targets of different Sizes. This makes the target effectively invisible as far a
 
 (Base 1, +2 Voice, +1 Diameter, +2 fast moving image, +1 change with movements)
 
-### *Mentem Spells*
+### Mentem Spells
 
 #### **The Generous Patron**
 
@@ -11594,7 +11594,7 @@ ReMe 30
 
 R: Voice, D: Concentration, T: Individual
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 The target of the spell dances in a wild and ecstatic way for as long as the caster concentrates. The target dances so fast and wildly that he must make a Stamina roll against an Ease Factor of 6 every round to avoid losing a Fatigue level.
 
@@ -11608,11 +11608,11 @@ R: Voice, D: Concentration, T: Individual The target's body is shaken by loud, u
 
 (Base 15, +2 Voice, +1 Concentration)
 
-# *Enchanted Items*
+# Enchanted Items
 
 Scipio's creations include the following.
 
-### *Bottomless Bag*
+### Bottomless Bag
 
 A bag made from dragon leather. It is a lesser enchanted device made with experimentation in one season, using 4 pawns of vis in total.
 
@@ -11670,9 +11670,9 @@ Makes the target dance until he has no Fatigue levels or the duration ends. Ever
 (Effect: Base 15, +2 Voice, +2 Sun; +4 12/day, for a total of 39 levels)
 
 
-### *Chapter Fourteen*
+### Chapter Fourteen
 
-# *Tolides of Flambeau*
+# Tolides of Flambeau
 
 **Concept:** The apprentice of a marched Infernalist, he is obsessed with darkness and cold as a result of the influence of demons that still surround him, waiting for him to fall.
 
@@ -11680,7 +11680,7 @@ Born a Silesian bond-slave, Tolides of Flambeau served his tormenting master in 
 
 Having never known love, but only the foul and heinous whisperings of the Infernal, Tolides' mind resembles a wild beast's. He is a predator well trained in the art of destruction, but a cornered animal nonetheless. From his earliest youth he was raised to regard the Church as his greatest enemy, and the idea of seeking salvation does not occur to him. Unable to depart from his nightmarish course, Tolides, just like his master before him, is likely to be Marched. Tolides' fate is tragic insofar as he, being a feral hunter rather than a sly plotter, has no real desire for power beyond what is necessary to secure his meager existence. He seeks peace and tranquility through the perfection of his art, but is unlikely to obtain either.
 
-### *Tolides at Gauntlet*
+### Tolides at Gauntlet
 
 **Characteristics**: Int +2, Per +1, Pre 0, Com –2, Str +1, Sta +2, Dex +1, Qik +1
 
@@ -11716,7 +11716,7 @@ age +4
 
 
 
-### *New Virtues and Flaws*
+### New Virtues and Flaws
 
 # **New Virtue: See In Darkness**
 
@@ -11770,7 +11770,7 @@ sidian pellet. **Encumbrance:** 0 (0)
 
 **Sigil:** Black writhing vapor that unfolds around the caster, exaggerated by the magus' Warped Magic. Tolides' voting sigil is an obsidian wand; he keeps it with him to ensure that no one else can use it, but never uses it himself.
 
-### *Tolides +15 years*
+### Tolides +15 years
 
 **Characteristics**: Int +2, Per +1, Pre 0, Com –2, Str +1, Sta +2, Dex +1, Qik +1 **Size**: 0
 
@@ -11822,11 +11822,11 @@ sidian pellet. **Encumbrance:** 0 (0)
 
 **Activities in the last 15 years:** While trying to survive in the harsh environment of Eastern Europe, Tolides acquired many practical skills. He gained 180 experience points in Abilities, and 120 experience in Arts in total. In 20 seasons in the lab, he learned and developed new spells and items that helped him to further his various goals. Of the items he enchanted, two were given away in exchange for favors he received in return. One of the beneficiaries helped him with his longev-
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 ity ritual, an endeavor that took him one of his Lab seasons. He also enchanted and attuned his talisman.
 
-### *Tolides +30 years*
+### Tolides +30 years
 
 **Characteristics**: Int +2, Per +1, Pre 0, Com –2, Str +1, Sta +2, Dex +1, Qik +1
 
@@ -11909,13 +11909,13 @@ Wizard's Sidestep (ReIm 10/+16)
 
 ear to the other. In the presence of other people, Tolides appears as if carved out of stone, resting still and without motion. His movements appear slow and deliberate, almost arthritic, only to strike out with cat-like speed at the slightest sign
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 of hostility. He tends to keep his hands hidden in the wide sleeves of his black robes where they rest in anticipation, a dagger prepared and ready. His posture and facial features appear elegant, but his diction and way of addressing people suggest that he has spent his whole life among the beasts of the wilderness rather than among civilized human beings. His low voice sounds raspy, and he speaks only when absolutely necessary.
 
 **Activities in the last 15 years:** Tolides gained Abilities worth 140 experience points, and Arts worth 160 experience. He spent 25 experience on mastering spells, and 5 experience on learning the True Name of a demon. He was approached by his familiar-to-be, and bonded it. His dealings with the Infernal were discovered, and he was Marched. Having successfully fled the assault of the Order, probably with Infernal assistance, he searched for and found a place with a stronger aura (level 4) that he made his new residence. He spent one season preparing his new laboratory. In total, he spent 16 seasons performing lab work. Due to his dealings with the Infernal, and spending a lot of time in and exposed to Infernal auras, Tolides gained a considerable amount of Warping.
 
-### *Familiar: An Imp*
+### Familiar: An Imp
 
 **Order:** Tempters (Maligenii) **Infernal Might:** 10 (Vim)
 
@@ -11965,7 +11965,7 @@ One day, Tolides is approached by an imp — a lesser demon — that offers to w
 
 Tolides binds the imp that, like him, is primarily a creature of darkness, by calling upon his Perdo Ignem Lab Total. He establishes a Gold and Silver Cord of score 1 each, and a Bronze Cord of score 3.
 
-### *Tolides +33 years*
+### Tolides +33 years
 
 **Characteristics**: Int +2, Per +1, Pre 0, Com –2, Str +1, Sta +2, Dex +1, Qik +1
 
@@ -12043,7 +12043,7 @@ Mastery 1 (Fast Casting)
 
 *Domain of Darkness* (PeIg 45/+36)
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 *Prying Eyes* (InIm 5/+9)
 
@@ -12071,11 +12071,11 @@ tery 2 (Fast Casting, Magic Resistance)
 
 **Activities in the last 3 years:** Tolides spent three seasons developing his greatest achievement, the spell *Domain of Darkness*. Spending almost an entire three years in his lab, he learned another True Name of a demon, and fine-tuned his battery of spells to stand prepared against the continuous threat of being discovered and slain by the Hoplites of the Order.
 
-# *New Spells*
+# New Spells
 
 Most spells and enchantments that Tolides invented over the described period of time are supposed to further his goal to rid the world around him of light and warmth, to make it more bearable for him. Most of his creations are influenced by gloom and decay, reflecting their creator's view of the world.
 
-### *Corpus Spells*
+### Corpus Spells
 
 ### **Track By Scent**
 
@@ -12136,7 +12136,7 @@ R: Sight, D: Mom, T: Ind
 
 The effect of this spell is similar to *The Wound That Weeps* (**ArM5**, page 133), though its cosmetic component and modified Range
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 make it appear somewhat differently.
 
@@ -12167,7 +12167,7 @@ Black, oily tears appear in the eyes of all individuals of the affected Group, b
 
 (Base 5, +2 Voice, +2 Group, free cosmetic effect)
 
-### *Ignem Spells*
+### Ignem Spells
 
 ### **Banishment of Warmth**
 
@@ -12221,7 +12221,7 @@ The spell must be targeted at an object, individual, or other specific point in 
 
 PeIg 25 R: Voice, D: Diam, T: Group
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 For two minutes, all members of the affected Group are thoroughly chilled. Living targets lose one Fatigue level per round until they fall unconscious, while objects are considered frozen. The chill does not persist long enough to actually damage living targets.
 
@@ -12241,7 +12241,7 @@ A brief note on the specific use of this spell that should not to be mistaken fo
 
 (Base 2, +1 Touch, +4 Year, +4 Boundary, +2 Size)
 
-### *Imaginem Spells*
+### Imaginem Spells
 
 ### **Chamber of Muffled Passing**
 
@@ -12255,7 +12255,7 @@ Due to his Quiet Magic, this limitation doesn't impair Tolides much, unless he w
 
 (Base 3, +1 Touch, +1 Diam, +2 Room)
 
-### *Vim Spells*
+### Vim Spells
 
 #### **Chastise the Unruly Fiend**
 
@@ -12281,11 +12281,11 @@ In Tolides' version of the spell, it appears as if the target is trapped in a da
 
 (Base effect (4), +3 Sight, +1 Diam)
 
-# *Enchanted Items*
+# Enchanted Items
 
 Tolides has created the following items.
 
-### *Arrows of Defeat*
+### Arrows of Defeat
 
 Tolides created a set of enchanted arrows for a shady noble who had reason to fear his opponent's cavalry's strength in battle, and was pleased to learn about an effective means to counter this threat on the field. The arrows have been specifically designed to cover long distances, instead of featuring armor piercing or superior damage qualities. In the hands of an expert archer, and aimed at the ground right in front of the foremost rider, even a single well-placed arrow deals considerable damage to a small galloping army that is not quick enough to avoid the pit that seems to come from nowhere.
 
@@ -12299,7 +12299,7 @@ R: Touch, D: Mom, T: Part
 
 The magical effect of the enchanted arrows is equivalent to the spell *Pit of Gaping*  *Earth* (**ArM5**, page 155), but operates at Range Touch instead of Voice. Consequently, each arrow, being a carrier for the spell, must be aimed and fired to reach its target, because the arrows themselves do not have any supernatural flight qualities. After leaving the string of the bow used to propel it forward, and upon touching solid, earthen ground, each of the enchanted arrows destroys earth as described for *Pit of Gaping Earth*.
 
-### *Magical Weapons*
+### Magical Weapons
 
 Enchanted weapons based on PeCo that affect a target at Range Touch must hit the opponent to take effect; that is, they require a positive Attack Advantage. Armor made from Terram or Animal does not prevent damage caused by a Corpus effect per se, so the attack need not successfully deal damage. All mundane properties and statistics of a magical weapon apply normally, unless the weapon does not penetrate the Magic Resistance of the target (**ArM5**, page 85), in which case the weapon has no effect.
 
@@ -12307,7 +12307,7 @@ As a typical trait of one of Tolides' creations, black vapor eerily emerges from
 
 (Base 3, +1 Touch, +1 Part, +1 size, free cosmetic effect)
 
-### *Torus of Fire Protection*
+### Torus of Fire Protection
 
 An inconspicuous pendant, this enchanted item comes in the form of a small, brown torus made of fired clay. For Tolides, it serves as a constant means of protection against fire as long as the size of the threat does not exceed the size of a campfire.
 
@@ -12322,7 +12322,7 @@ Small mundane fires that come into contact with the item are extinguished, as ar
 
 (Effect: Base 4, +1 Touch; +10 unlimited uses)
 
-### *Poniard of Deliverance*
+### Poniard of Deliverance
 
 Tolides deployed an almost-identical dagger during his apprenticeship, but that weapon was confiscated by the Quaesitores at the time he turned in his former master. It had to be reconstructed from scratch by the now-ownerless magus. Although Tolides usually shuns open combat as worthy only of fools, he sometimes still succumbs to his predatory nature, and makes use of melee weapons instead of ranged magic to deal with an opponent face to face.
 
@@ -12340,7 +12340,7 @@ When activated by quickly flicking it in the wielder's wrist, this dagger works 
 
 (Effect: Base 5, +1 Touch; +5 penetration, +5 24/day)
 
-### *Sting of the Viper*
+### Sting of the Viper
 
 When Tolides fell victim to the alluring charm of a salacious creature, he agreed to protect her against her numerous enemies in return for a multitude of other services. His present for her came in the form of an ornate, nicely crafted hair pin of considerable size that is usually worn in combination with an equally impressive comb to hold and accentuate long, dark hair. The
 
@@ -12362,7 +12362,7 @@ When the pin is driven into the flesh of the target, black ripples spread from t
 
 (Effect: Base 10, +1 Touch, free cosmetic effect; +3 effect use, +2 3/day)
 
-### *Source of Tranquillity*
+### Source of Tranquillity
 
 The Lab Total used to create this Lesser Enchantment includes a +5 material bonus for darkness granted for items made of obsidian stone, and +5 for knowing *Well Without Light*, a similar spell. The creation cost three pawns of vis.
 
@@ -12378,7 +12378,7 @@ This enchantment is instilled in a tiny, obsidian figurine that resembles an ugl
 
 (Effect: Base 3, +1 Touch, +2 Sun; +2 Room; +1 2/day, +3 environmental trigger)
 
-### *Rod of Mutilation*
+### Rod of Mutilation
 
 Tolides enchanted this rod for a diabolist in exchange for services received, one of which was the beneficiary's aid with a non-Hermetic variant of his longevity ritual, an endeavor the magus could not have undertaken on his own due to his deficiency in the Art of Creo. The item is a wand carved from human bone, shod in iron for better durability. It clearly bears the marks of its maker: the embedded destructive energy pulses in the form of vibrant darkness whenever the rod is used to hit a target.
 
@@ -12400,7 +12400,7 @@ The victim of a broken leg is considered to suffer from the Lame Flaw (**ArM5**,
 
 (Effect: Base 15, +1 Touch, +1 Part, free cosmetic effect; +5 penetration, +3 6/day)
 
-# *Talisman: Orb of Immanent Darkness*
+# Talisman: Orb of Immanent Darkness
 
 Tolides' talisman is a black obsidian orb. He has treasured the dark stone for as long as he can remember, mostly for its cool touch and the soothing of pain it seems to provide him. Still, it took him time and effort to collect enough knowledge and resources to undertake its attunement to the aspect of darkness.
 
@@ -12427,9 +12427,9 @@ The intensity of light close to the head and upper part of the body of the perso
 (Effect: Base 2, +1 Touch, +2 Sun, +1 Part; +3 environmental trigger, +1 2/day)
 
 
-### *Chapter Fifteen*
+### Chapter Fifteen
 
-# *Yestin of Jerbiton*
+# Yestin of Jerbiton
 
 **Concept:** A traveling bard, whose magic enhances his music and makes his journeys easier, even as he's plagued by a meddlesome faerie.
 
@@ -12437,7 +12437,7 @@ Yestin Ap Llewelyn of Jerbiton is an impressionable dreamer, an idealist always 
 
 Yestin's magic falls into three strands: magic to aid him in his travels, magic to support his music, and magic to help solve the riddles in which Taliesin involves him. Yestin maintains strong ties with his mater Ffanci ferch Fflam of Jerbiton.
 
-### *Yestin at Gauntlet*
+### Yestin at Gauntlet
 
 **Characteristics**: Int +2, Per 0, Pre +1, Com +2, Str –1, Sta 0, Dex +1, Qik 0
 
@@ -12519,7 +12519,7 @@ Yestin's magic falls into three strands: magic to aid him in his travels, magic 
 
 **Sigil**: Yestin's spells and device effects always enjoy a moment of calm, like an intake of breath, before releasing themselves. He votes with a simple, though highly polished, wooden flute.
 
-### *Yestin +15 Years*
+### Yestin +15 Years
 
 **Characteristics**: Int +2, Per 0, Pre +1, Com +2, Str –1, Sta 0, Dex +1, Qik 0
 
@@ -12593,7 +12593,7 @@ Yestin's magic falls into three strands: magic to aid him in his travels, magic 
 
 *The Well-Trodden Path* (ReTe 10/+7)
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 *Nature's Kindest Seat* (ReTe 25/+20) *Sense of Faerie Power* (InVi 2/+1) *Sense of Infernal Power* (InVi 2/+1)
 
@@ -12609,7 +12609,7 @@ pair his crwth.
 
 **Activities in the last 15 Years**: Over the last 15 years, Yestin has concentrated on improving his Arts but has also spent a number of years working towards new spells. He developed his longevity ritual, which takes the form of a brief song that Yestin must sing each morning.
 
-### *Yestin +30 Years*
+### Yestin +30 Years
 
 **Characteristics**: Int +2, Per 0, Pre +1, Com +2, Str –1, Sta 0, Dex +1, Qik 0 **Size**: 0
 
@@ -12697,11 +12697,11 @@ pair his crwth.
 
 Yestin's eyes glitter with a light all their own, and his hair is threaded through with copper.
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 **Activities in the last 15 Years**: Yestin has spent the last 15 years practicing his music, in addition to creating a number of items. He also opened and attuned his crwth and bow as his talisman, into which he enchanted all the effects described later. He has added only a few spells to his repertoire, and these only in the last few years.
 
-### *Yestin +45 Years*
+### Yestin +45 Years
 
 **Characteristics**: Int +2, Per 0, Pre +1, Com +2, Str –1, Sta 0, Dex +1, Qik 0
 
@@ -12808,11 +12808,11 @@ Yestin's eyes glitter with a light all their own, and his hair is threaded throu
 
 **Activities in the last 15 Years**: Yestin started to keep his distance from others of the Order during this stage of his life, as word about his unusual beliefs spread. Despite this he did engage a Verditius to create a spear for his newly employed shield grog, and he still found time to create a number of Song Stones to give as gifts to magi and mundanes alike. But his own magical studies have extended only so far as creating spells that allow him and his companions to more easily traverse regio boundaries.
 
-# *New Spells*
+# New Spells
 
 Many of Yestin's early spells have actually been passed down through generations of itinerant Jerbiton musicians. Others were invented as part of his magical training when his mater, Ffanci ferch Fflam, guided him in the laboratory.
 
-### *Herbam Spells*
+### Herbam Spells
 
 ### **The Magic Flute**
 
@@ -12834,13 +12834,13 @@ R: Touch, D: Mom, T: Ind, Ritual
 
 This ritual spell mends a damaged wooden musical instrument. The instrument
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 is returned to the peak of its former condition; that is, the height of its playing life after the instrument had matured and settled, and before decay or accident had affected it. The instrument is also cleaned of all dirt by this spell, as that helps bring it closer to its ideal.
 
 Instruments that have more than one part, such as a fiddle and its original bow, are treated as the same item and are both repaired so long as all parts are present at the
 
-### *New Guideline: CrHe 15*
+### New Guideline: CrHe 15
 
 Restore a manufactured wooden item that has been damaged to the peak of its capabilities. This spell can also restore decay, but the damage must be light.
 
@@ -12867,7 +12867,7 @@ Casting requisites are required for non-Herbam components.
 
 (Base 5, +1 Touch, +2 Complexity)
 
-### *Ignem Spells*
+### Ignem Spells
 
 #### **Let This Fire Sing You to Sleep**
 
@@ -12914,9 +12914,9 @@ Petalichus the Weaver of Verditius bought a copy of this spell from Yestin when 
 
 (Base 4, +2 Sun)
 
-### *Magi of Hermes*
+### Magi of Hermes
 
-### *Imaginem Spells*
+### Imaginem Spells
 
 ### **Confound the Rival Singer**
 
@@ -12950,7 +12950,7 @@ It may be possible to apply the spell to the spoken word, perhaps to an orator o
 
 (Base 1, +3 Sight, +1 Conc)
 
-### *Mentem Spells*
+### Mentem Spells
 
 ### **The Welcome Stranger**
 
@@ -13025,7 +13025,7 @@ Yestin invented this spell as a means to more easily solve those mysteries that 
 
 (Base 5, +1 Eye, +2 Sun)
 
-### *Terram Spells*
+### Terram Spells
 
 #### **The Wisdom of Sleep**
 
@@ -13076,7 +13076,7 @@ Yestin's sigil manifesting in this spell can occasionally take his audience by s
 
 (Base 3, +1 Touch, +2 Sun, +2 Group, +1 Complexity)
 
-### *Vim Spells*
+### Vim Spells
 
 # **A Song of All These Faerie Places**
 
@@ -13115,11 +13115,11 @@ As *A Song of All These Faerie Places* but affecting Magic regio boundaries.
 
 (Base 3, +1 Touch, +1 Conc, +2 Group, +1 Creo requisite, +1 Imaginem requisite)
 
-# *Enchanted Items*
+# Enchanted Items
 
 Yestin has created the following items.
 
-### *Cloak of Wilderness Refuge*
+### Cloak of Wilderness Refuge
 
 As Yestin aged, he began to enjoy sleeping out under the stars less and less. It wasn't so much the effort of carrying a tent around with him that he objected to, but rather having to put it up. This lesser enchanted woollen cloak is the result.
 
@@ -13133,7 +13133,7 @@ When triggered, the cloak expands and reforms into a large tent complete with te
 
 (Base 5, +1 Conc; +5 item maintains concentration)
 
-### *Song Stones*
+### Song Stones
 
 These small stones are charged items that store a song or music within themselves, which can then be released later. Yestin usually paints his song-stones in bright colors, and tends to give them freely to friends as amusements.
 
@@ -13151,7 +13151,7 @@ Charged Item, 0 Penetration, 1/day
 
 This spell captures a song or other music sung while a small stone is enchanted, and imprisons it within. The song is of a quality equal to the creator's Communication
 
-### *Magi of Hermes*
+### Magi of Hermes
 
 + Music total, and is always of a tone and content chosen by the creator. The creator can freely change the "voice" that sings with each stone, but must make a Finesse roll as described in **ArM5**, page 143, to determine how accurately he can mimic a known voice other than his own.
 
@@ -13159,7 +13159,7 @@ When the stone is asked to sing or to speak its message, the song is freed and i
 
 (Base 1, +1 Diameter, +1 intelligible speech)
 
-### *The Spear of Lleu*
+### The Spear of Lleu
 
 With his advancing years, Yestin became less trusting of his brothers across the Order and took to employing a bodyguard to whom he entrusted this spear. He commissioned the Spear of Lleu from a Verditius working on the Isle of Oxney, a man rumored to have visited the forge of Wayland Smith himself.
 
@@ -13183,7 +13183,7 @@ Also enchanted into the Spear of Lleu, this effect inflicts a Heavy Wound on a h
 
 (base 15, +1 Touch; +3 6/day, +11 Penetration)
 
-# *Talisman: Crwth of Yestin*
+# Talisman: Crwth of Yestin
 
 Yestin's talisman is his crwth and bow, a form of welsh harp played either with a bow or by plucking the strings. It was inevitable that his treasured crwth would become his talisman. A gift from his mater, the crwth has been with him since before his Gauntlet and its music has been a constant companion.
 

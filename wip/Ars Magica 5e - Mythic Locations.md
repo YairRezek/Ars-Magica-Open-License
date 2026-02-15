@@ -417,7 +417,7 @@ Location: More than a century ago a magus of House Tytalus sought to win great r
 
 was never heard from again. The few magi who know of this have never gone looking. The place is shunned by locals and only spoken of in hushed voices as cursed and haunted. But now knowledge of the place has resurfaced. The cursed forest threatens the life of all but the most determined and skilled, and requires strength of will and leadership. Are the player magi up to the challenge of following in the footsteps of their long dead sodalis in search of greatness and treasure? Braving this place not only solves the mystery of the curse, it also offers a place of mystery to call one's own.
 
-# *The Farne Islands*
+# The Farne Islands
 
 **Geographic Location**: A small archipelago of islands.
 
@@ -427,7 +427,7 @@ was never heard from again. The few magi who know of this have never gone lookin
 
 There are several mysteries to solve amongst the islands, from the politics of the selkie courts to the identity of the mysterious inhabitant of Crumstone Rock. With stories drawn from all four supernatural Realms, these islands are sure to be of interest to members of the Order of Hermes.
 
-# *The Poisoned Battlefield*
+# The Poisoned Battlefield
 
 **Geographic Location**: The Mendip Hills, or wherever Roman miners were once found.
 
@@ -437,7 +437,7 @@ There are several mysteries to solve amongst the islands, from the politics of t
 
 A very thin layer of green.
 
-# *The Purgatory of St Patrick*
+# The Purgatory of St Patrick
 
 **Geographic Location**: A cave under an island on a lake
 
@@ -447,7 +447,7 @@ A very thin layer of green.
 
 It is rumored that a fountain of eternal youth lies within Purgatory, as does a mirror that can find any soul, and a furnace that can change Essential Nature. One can meet with the souls of those who are beyond the reach of Hermetic magic, or perhaps even bring a loved one back from the dead. Those surviving Purgatory may enter the Earthly Paradise; those getting trapped behind may be consigned to Hell.
 
-# *The Temple of Mercury*
+# The Temple of Mercury
 
 **Geographic Location:** In a Magic regio. The entrance is located in any territory that was once part of the Roman Empire.
 
@@ -461,7 +461,7 @@ where the temple actually was has been lost. The player characters might discove
 
 The Roman Cult of Mercury is a wellknown antecedent to the Order of Hermes, and Bonisagus is known to have based some of his Hermetic theory on Mercurian rituals. The obvious use of the fallen temple is therefore as a resource to aid the recovery of further Mercurian rituals, and to inspire refinements to Hermetic theory. Pagan magi may also wish to restore the temple as a functioning site of worship. The temple site could be used as the location of a covenant.
 
-# *The Toy Fair in Devil's Lane*
+# The Toy Fair in Devil's Lane
 
 **Geographic Location:** In a faerie regio. There are entrances in many cities.
 
@@ -471,7 +471,7 @@ The Roman Cult of Mercury is a wellknown antecedent to the Order of Hermes, and 
 
 The player characters might visit the toy fair to buy or commission items, or to take advantage of the regio to travel to a distant Tribunal. The multiple entrances in many Tribunals also create questions of Hermetic jurisdiction over the covenant. The player characters could also decide to join, or usurp, the toy fair covenant.
 
-# *The Truffle Matron*
+# The Truffle Matron
 
 **Geographic Location**: A small forest near Dijon in Burgundy, the dense forests of Périgord in Aquitaine, the Istrian peninsula in Croatia, or the Bohemian Forest.
 
@@ -481,7 +481,7 @@ The player characters might visit the toy fair to buy or commission items, or to
 
 This chapter discusses one of the sources of truffles in Mythic Europe. Characters visiting the Matron of the Truffles are presented with the opportunity to enhance their knowledge and magical power through interaction with her subjects.
 
-# *The Wolf's Court*
+# The Wolf's Court
 
 **Geographic Location**: In the depths of a dense forest
 
@@ -491,7 +491,7 @@ This chapter discusses one of the sources of truffles in Mythic Europe. Characte
 
 Characters might wonder at the wolves' capacity to enforce justice. Those who investigate might uncover secrets reaching back as far as Ancient Rome, and attract the unwanted attention of those dedicated to preserving those secrets.
 
-# *What the Magi Know*
+# What the Magi Know
 
 There is a possibility that a character has heard something about a location before she visits. Exactly what she might know is determined by an appropriate Intelligence + Ability roll measured against a set Ease Factor. The Ability used depends on the location, and each location lists the appropriate Ability required for the roll. In some situations knowledge is gleaned by two rolls. For example, a character might have to succeed with an Area Lore roll, to see if she knows an area's legends, before determining if she can incorporate her understanding of the location's magic with a Magic Lore roll. Some locations allow more than one type of Ability check. Each location's specific rolls are explained in its chapter.
 
@@ -576,7 +576,7 @@ The first hospitals around Bath were outside the town itself. The baths were con
 
 The hospital inside the town, Saint John the Baptist, was built about forty years ago. It caters for the infirm poor, rather than for the acutely sick, so many 'inmates' live for extended periods at the hospital, under the care of the master, the monks appointed by the priory, and two or three women "not noble, but suitable." The hospital follows the classic design of medieval hospitals, in that it is
 
-# *Ancient Sites of Power: Story Seeds for King Bladud*
+# Ancient Sites of Power: Story Seeds for King Bladud
 
 Prince Bladud led a life filled with mystical events, and so many stories can be developed from his legend.
 
@@ -674,22 +674,22 @@ Towns with baths also exist outside the old Roman Empire. For example, in Sijilm
 
 Troupes whose sagas are not in Stonehenge should just insert Bladud's story, with minor changes, into the region which their characters inhabit. Bladud's kingdom was little larger than a county, and has little bearing on modern England. Similarly, storyguides may place a minor, ancient king in the Alps, on the borders of the Pyrenees, on an individual island in the Mediterranean, or at an isolated oasis in North Africa, without stretching the credulity of players.
 
-# *Inhabitants*
+# Inhabitants
 
 The mistress of Bath has not abandoned her demesnes, although the silencing of the oracles has weakened her, and forced her to hide in plain sight. Storyguides seeking alternatives, either for this site of baths found elsewhere in Europe, may find the latter two creatures more suitable for their stories.
 
 
 Page 76 of *Realms of Power: The Infernal* includes a demon particularly suitable for bathhouses not heated by a spring, but instead warmed by boilers. Xaphan is the stoker of the fires of Hell. He is a lord of arsonists.
 
-# *Introducing Bath into the Saga*
+# Introducing Bath into the Saga
 
 Magi may be drawn to Bath for healing, by the society of others, by the presence of mystical creatures, or by the rumor of ancient artifacts.
 
-# *Taking the Waters*
+# Taking the Waters
 
 Many characters suffer injuries, or are subject to the effects of Flaws, that can be soothed by the baths. Different bathing places are known to be useful for varying conditions, and there are at least three bathing places here. Storyguides can use this flexibility to make the baths a site desirable to the characters.
 
-# *Anne, a Lady "Not Noble But Suitable," cont'd*
+# Anne, a Lady "Not Noble But Suitable," cont'd
 
 Anne's. After she has no further use for the elemental her control of it lapses, but the creature remains. This is a Ritual Power and reduces Anne's Might pool for a time after its use. Her Might pool replenishes by 1 point for every month, at the rise of the full moon, and by 5 points on spring tides. Making sacrifices to her in the ancient Roman style also regenerates her Might, but no-one has done that in centuries, and she would not encourage it in these, more Christian, times.
 
@@ -725,7 +725,7 @@ The complete Roman ritual of bathing is not followed in most of the baths still 
 Roman bath-houses, called thermae, vary in elaborateness, but many have the following features. Passing by outer buildings or rooms,
 
 
-# *Minerva Sulis*
+# Minerva Sulis
 
 This Romano-Celtic goddess has not been active for many centuries, but if a person wakes her, she may return to her traditional duties. One way of waking the goddess (or convincing a faerie to take on the role of goddess) is finding, and then worshiping, the head of the statue that once presided in the temple of Minerva at Bath. This artifact was buried in a ditch by the Christians who smashed the statue, and lies five feet beneath the surface of the ground, but could be uncovered by a gravedigger, a builder laying foundations, or tradesmen excavating a cellar. Minerva Sulis is not designed as a player character.
 
@@ -782,7 +782,7 @@ The bath also has other rooms, which are not visited by bathers. One room contai
 
 Bathing is less civilized than it was in Roman times. The baths are open to the sky, al-
 
-# *Balneator: Lord of the Merry Devils*
+# Balneator: Lord of the Merry Devils
 
 Balneator is a Merry Devil, a sort of demon that encourages the hedonism of groups. Balneator particularly encourages conspiracy and fornication. He takes the form of a young nobleman often found in the baths.
 
@@ -848,20 +848,20 @@ In Bath in 1220, although the Roman facilities are still used, they have been si
 
 When the sick use the baths, the process differs depending on how wealthy the bathers are. At the simplest, ill people just bathe with everyone else unless they have worrisome sicknesses like leprosy; then they bathe separately. A sick nobleman might expect to fast or eat food that aids his condition, be bled or otherwise treated, pray, and be carried to the baths. He is then coated with the magical mud of the area or with oils suggested by his physicians. After a pause to allow the treatments to have effect, he stews in the water for a suitable time, then is lifted from the water and again coated with suitable medicines. He is finally swaddled in thick fabric and carried to bed. The bedclothes may be treated with strong-smelling herbs. Further treatment may follow under the care of his physician. Poor people may be bathed in a way similar to this, if monks are providing the services through a hospital.
 
-# *Hermetic Meetings*
+# Hermetic Meetings
 
 Magi meet for many reasons other than Tribunals. These meetings are often held in places where the participants can do or see something a little unusual or interesting. Thermal baths may host meetings such as Ceremonies of Welcome, Mystery Cult worship, the activities of the social societies of House Jerbiton, the planning meetings of Tremere vexillations and mutual meditation circles of Criamon magi. The characters may attend the baths deliberately, but initially as a venue for another story to which they are incidental.
 
-# *Mercere Houses*
+# Mercere Houses
 
 Redcaps control many properties, spread in a loose network over Mythic Europe, and these may include thermal baths. The baths may have initially have been settled to provide facilities for traveling magi. Others may have been developed as sites to provide medical care for redcaps injured in their duties, or suffering age-related infirmities. Player characters may first encounter the baths casually, while on their way to another story.
 
 
-# *House Tytalus and Bladud the Leper Magus*
+# House Tytalus and Bladud the Leper Magus
 
 Bladud was a leprous, cthonic magus who was cured by some secret method. Later real-world myths say he bathed in magical mud while working as a swineherd. This is of particular interest to members of House Tytalus. Many Tytali are afflicted with leprosy. It cannot be treated by Hermetic means, as
 
-# *Effects of the Baths*
+# Effects of the Baths
 
 The baths grant bonuses to characters healing from sickness, by correcting the humors through application of heat, cold, and medicinal oils. A character attempting Disease Recovery rolls adds +5 if given a full course of care, +3 if she bathes regularly and cares for herself, and +1 if she simply bathes each day until the symptoms abate. See *Art and Academe* page 46. If using the rules on page 58, then apply this bonus to the Disease Recovery total as a form of stackable magical aid.
 
@@ -875,13 +875,13 @@ Alternatively, choose an effect or effects to tempt the player characters:
 
 it is closely tied to their cthonic powers, but Bladud shared these, and is said to have been easily cured by some method he discovered at Bath. It may simply be that the baths themselves suppress the illness, in which case it is imperative to some members of the House to claim the waters for their own use and examination. The Cross Baths are used by lepers; they are forbidden the other baths.
 
-# *Researching Bath*
+# Researching Bath
 
 The foundation of Bath is recorded in Geoffrey of Monmouth's *Historia Regum Britanniae (The History of the Kings of Britain).* Geoffrey gives a little further information in *Vita Merlini* (*The Life of Merlin*). (Tractatus, Area Lore: Britain, Quality 9)
 
 Details about the administration of the Church lands of Bath, including the accounts of the priory, are held in the library of the Priory at Bath. (Tractus, Organisation Lore: Bishopric of Bath and Wells, Quality 9).
 
-# *Hooks for Using Bath Again*
+# Hooks for Using Bath Again
 
 Most characters return repeatedly to Bath because the effects of its waters fade over time, or are needed again as the character incurs new injuries. Characters can be drawn back to Bath by the society which forms around the baths, as different people meet there. Beyond this, player characters may seek out the magical secrets of the baths, or indulge in local politics.
 
@@ -889,7 +889,7 @@ Most characters return repeatedly to Bath because the effects of its waters fade
 
 A little known local poem states that the springs are heated, not by an enchanted rock, but by a strange alchemical engine of Bladud's devising. It is fueled by seven salts, combined with brimstone, wine, and many other things, in four large barrels. Two of these are of brass and two are of glass. The way the salts are
 
-# *A Fourth Set of Baths?*
+# A Fourth Set of Baths?
 
 In the local language the three main baths here are called the Hot Baths, the Baths of the Cross, and the Baths of Alaron. The latter either means "foreign, old writing" and refers to the Latin inscriptions left by the Romans, or, if you accept Geoffrey of Monmouth's account, was the name of King Bladud's consort. If your saga follows real history, the Baths of Alaron are renamed the King's Bath in 1225. For many hooks, it is convenient to assume that in addition to the public baths, used by the mundanes and the sick, there is at least one additional set of baths maintained for Hermetic convenience.
 
@@ -910,13 +910,13 @@ probably left powerful elementals, or demons,
 
 *Two tunne\* ther beth of bras, And other two imaked of glas; Bladud, King of Britain*
 
-# *Story Seed: Penitent Ghosts*
+# Story Seed: Penitent Ghosts
 
 Throughout the Empire the capsarii — bath slaves — were notorious for stealing the personal effects of bathers. In Imperial Bath, however, theft was a terrible mistake. Minerva Sulis accepted the sacrifice of, or at least killed, thieves nominated on the lead curse tablets thrown into the waters.
 
 The baths are, therefore, haunted by pitiful, disfigured ghosts, who are attempting to return spiritual versions of the things which they stole. This is very difficult, because they cannot leave the baths and are most active at night when there are few visitors. Magi who aid these ghosts may be given secrets in exchange. The ghosts often overhear the conversations of the bathers, and can pass useful details to their allies. Some also know how things were done in Imperial Bath, and can locate lost structures, like temples, the causeway, and the library.
 
-# *Vis*
+# Vis
 
 This chapter leaves open the ultimate Realm alignment of the baths, so the vis and auras found here vary depending on the creatures the storyguide chooses to include.
 
@@ -950,7 +950,7 @@ The returned doll grants a particular building a ward against faeries of Might 1
 
 
 
-# *Bath Staff*
+# Bath Staff
 
 Baths traditionally had slaves who acted as barber-surgeons, masseurs, and entertainers. These roles are now either not performed, or are performed by monks. It is only at the most successful baths, which are visited by large numbers of people, that lay people can support businesses providing services to the bathers. Some nobles, knowing this, bring large numbers of their own servants to the baths.
 
@@ -958,7 +958,7 @@ Vendors of food and drink are an exception; they found at most baths, if not for
 
 Bath staff are ignored by most people, who, in the relaxed circumstances of the bath, are more loquacious than usual. Player characters may bribe these staff, or plant agents among them, to spy on their rivals.
 
-# *Seeking the Mystical Salts*
+# Seeking the Mystical Salts
 
 Brass is an alloy of copper and zinc. It is made in quantity in many parts of Mythic Europe, but particularly Islamic areas and in Germany. There are some brassworkers who are willing to make strange items for magi, but many have links to the Church, so the characters need to be circumspect in selecting an artisan.
 
@@ -992,7 +992,7 @@ Player characters may wish to replicate the device for several reasons:
 - Once the player characters have replicated the Fermenter, it may be possible to change the salts within it, either creating baths which offer different virtues, or relief from different flaws.
 - The Fermenter may be a more versatile device that it appears. For example, salts may be a potion which has a magical effect, the brass sections may give that effect an Until Duration, and the glass sections may spread the effect through the medium of the water. If this is the case then player characters may be able to replace the potion, allowing the bath to be tuned to individual needs.
 
-# *Story Element: Secret Rooms*
+# Story Element: Secret Rooms
 
 The bath-house or outer buildings may also contain other, secret rooms. These may include:
 
@@ -1001,7 +1001,7 @@ The bath-house or outer buildings may also contain other, secret rooms. These ma
 - Religious rooms. The baths may have chapels, or even temples, to saints, pagan gods, demons, or spirits. These may be abandoned, converted to other functions, used for simple worship, or employed for Mystagogic Initiations.
 - Living quarters: Creatures from most realms find it more comfortable to reside in auras of their realm. Such beings may have claimed rooms in the bath complex as domiciles.
 
-# *Seeking the Mystical Salts, cont'd*
+# Seeking the Mystical Salts, cont'd
 
 or from camel dung. An artificial Sal Ammoniac can be purchased from Egyptian merchants, although its source is secret. It is probably made by Egyptian alchemists using a secret technique — out of seawater, vitriol and an artificial Sal Alkaline made from animal dung and straw — but in sagas interested in Mysteries, the existence of this salt may indicate that a community of worshipers of Zeus Ammon still exists. Sal Ammoniac makes tin bind into alloys with copper or iron more easily.z
 
@@ -1016,7 +1016,7 @@ term conim appears in some versions of the Bible, to refer to the plague of lice
 Sal Almelke (Sal al-Malki) means "salt of the king." What this refers to is unclear. It may be a salt of Bladud's own devising, and storyguides can send the player characters to the ruins of the Stamford University, or some other place, to look for its method of manufacture. It may refer to any number of other kings, the most difficult perhaps being King Melchior of Persia. In the Western tradition, Melchior was one of the three kings who came to witness the Nativity of Christ. He was probably a Zoroastrian, so this may be some secret kept by the priests of that religion. The relics of the gifts of the Magi were kept in the Royal Palace of Constantinople until 1204, but following the invasion of that city, their whereabouts are disputed.
 
 
-# *Paths through the Material*
+# Paths through the Material
 
 It's best to tell stories which are closely bound to the goals of the player characters, and the themes negotiated through the covenant creation process. It's also good to be able to just pick up material and use it right away, without having to digest it. If you're short on time, try these paths through this chapter
 
@@ -1026,7 +1026,7 @@ The player characters have an ally whose sanity is lost in the baths. They disco
 
 The Stamford Fermenter (see earlier) explodes, destroying the town. Faeries implicate magi in the destruction, making reference to Bladud while mocking the servants of the Order. The player characters quieten the nobles, and then come to Bath seeking answers Anne can offer them, for a price: she wants the magi to aid the bishop. Anne's plan is for the bishop's reforms to succeed. This brings wealth to Bath, but also leads the bishop to either relocate permanently to Wells, or become the Archbishop of a larger see. A more easily swayed alternative replaces him, just as Anne wishes.
 
-# *Politics*
+# Politics
 
 There are powerful people around Bath who need favors, and could prove useful allies to magi willing to accommodate them.
 
@@ -1078,23 +1078,23 @@ In the early sixth century the Irish monk Brendan the Navigator set sail heading
 In this fictitious addition to the legend of St. Brendan, the monk and his party mistakenly landed on the Isle of the Sleeping Fomóir, where they visited a community of monks. Warmly received, Brendan then scaled the island's mountain to view the western sea, but his trip was interrupted by vicious giants, their unnaturally large mouths filled with razor-sharp teeth, who chased him and his fellows from the island. Blown back to the island in the night, his vessel was mistaken for a pirate ship. The island's monks resisted its landing and the abbot was accidentally killed in the scuffle. After the funeral, a magic dove told Brendan that he needed to baptize the Fomóir, a magic creature roused from his slumbers at the mountain's summit. Carving a baptismal font, Brendan met with the Fomóir's underlings, an enslaved band of Tuatha Dé
 
 
-# *Story Seed: Ghost Stories*
+# Story Seed: Ghost Stories
 
 Ancient Greek, Doliónian, and Alexandrian ghosts haunt the ruins of Kyzikos. The particular ghost encountered depends on the situation and the troupes' needs. For example, a Doliónian ghost hampers the magi exploring the ruins, or the ghost of an Alexandrian engineer demands that the magi help him finish the bridge to the mainland. A ghost can act as the initial draw to get the players to the island. An elder magus asks the characters to travel to ruined Kyzikos to capture Thales of Miletus' ghost, one of the seven great sages of Greece, who died while vacationing there.
 
 Danann faeries, and asked if he could meet the Fomóir. They agreed and Brendan baptized the entire group. The Fomóir went back to sleep and Brendan sailed away.
 
-# *The Geography of Bear Island*
+# The Geography of Bear Island
 
 The Greeks call the island Arktonnessos (Bear Island) and Oros Arkton (Bear Mountain), using both terms interchangeably. Bear Island is a misnomer — it is a peninsula instead of an island — but its actually physical nature does not stop people from calling it an island. Sitting on the southern shore of the Sea of Marmara, Bear Island is in the Cappadocian area known as the Troad. 17 miles long from east to west, and nine miles wide, the island has a variety of terrains, including mountains, forests, coastal shores, plains, and a marsh. The interior is densely wooded mountains, uninhabited by men. Most of the island's citizens live in the coastal city of Artakia, although a hundred or so fishermen and their families live around the island's shores. Harbors line the coast. The majority of the harbors are small, with room for one or two small fishing vessels, while the few larger harbors can hold many ships.
 
-# *Civilization*
+# Civilization
 
 Bear Island has a small population of natives, descendents of the original inhabitants, the Doliónes. Once a proud Greek city-state, the island was eventually conquered by Alexander the Great. He built two bridges to the mainland, hoping to increase the island's accessibility and importance, but this initiative was lost after Alexander's death. In the intervening years Kyzikos stayed unimportant and its population declined. In 1220, the city of Kyzikos is a ruin, its citizens having left and joined their neighbors in the city of Artakia. At one time fishing villages could be found around the island's coasts, tucked in the many natural harbors, but by 1220 they have dwindled to small groups of single family dwellings.
 
 The Greek citizens are currently ruled by Latin conquerors, victors of the siege of Constantinople. The Latin presence is weak because Bear Island is a minor jewel in the commercial crown of the formerly Byzantine-controlled Mediterranean Sea. It is light duty for the oppressors, and dayto-day Greek life continues with little Latin interruption.
 
-# *What the Magi Know*
+# What the Magi Know
 
 Though the Quest for the Golden Fleece is a well-known legend, the events of Bear Island are missing from most western renditions. Players may make an Intelligence + Area Lore: Anatolia or Area Lore: Theban Tribunal Lore roll. The legend is more popular in the east than the west, and an eastern magus receives a +3 bonus.
 
@@ -1158,7 +1158,7 @@ Besides the several dozen natural coves and anchor points along Bear Island, the
 
 Most landings go unnoticed. Only at Fair Haven are incoming ships seen by the harbormaster. Bear Island's many unwatched harbors maker the island a favorite hiding spot for pirates and other clandestine activities.
 
-# *The Uncivilized Wilds*
+# The Uncivilized Wilds
 
 Past the beaches of white sand, the island's interior is rough and rugged. A thick forest mantle cloaks the mountain range that runs west to east. Mount Klapsi sits in the west, followed by the double-peaked Mount Dindymon, with Bear Mountain to the east. The interior is dangerous wilderness. Mount Klapsi and Bear Mountain are tall, rising nearly as high in elevation as Mount Dindymon. Wooded and steeply sloped, both are home to wild boars, bears, and the occasional lion. Travelers are rare, and even the island's inhabitants refuse to enter the dense, deep forests. Mt. Dindymon is home to the titaness, is described in detail later.
 
@@ -1166,7 +1166,7 @@ Past the beaches of white sand, the island's interior is rough and rugged. A thi
 
 Bridging the short gap to the mainland is a low-lying, swampy isthmus. Travel along it is difficult, and avoided. At one point in time a channel was cut through the isthmus to allow maritime passage, but it was blocked and filled in a thousand years ago. Since then the isthmus as served as a natural defense for the islanders.
 
-# *Auras and Vis Sites*
+# Auras and Vis Sites
 
 Bear Island has all four types of supernatural auras. A large Dominion aura is centered on the cathedral dedicated to St. Tryphaena, set in the middle of Artakia. A powerful Infernal aura surrounds the Leimonian Plain's burial mound. Faerie auras are numerous and include most of the sites Jason visited. Magic auras can be found at the peak of Mt. Dindymon and at the source of the Spring of Artakia.
 
@@ -1176,7 +1176,7 @@ Found in the center of Artakia, the Cathedral of St. Tryphaena is large, squat, 
 
 Tryphaena was a married woman who lived in Kyzikos City during the first century. Devoted to Christ, she refused to worship the Roman gods and was sentenced to death. Divine miracles repeatedly saved Tryphaena, first from an oven, then from
 
-# *Story Seed: The Initiation of Mithras*
+# Story Seed: The Initiation of Mithras
 
 The Legion of Mithras is one of the Order of Hermes' more popular Mystery Cults (Mystery Cults Revised Edition, page 118). Several of the cults' Initiation Scripts require initiates to visit sites made famous by ancient heroes. The locations of Herakles' adventures are often exploited for these scripts. One script in particular requires an Initiate to travel to Chytus Harbor and slay a giant while there. A Flambeau magus asks the magi for help getting to the island, although they can't help him fight the sole giant he expects to meet. Of course, as a tribe of Gegenees inhabits the nearby wood, the magus will need assistance.
 
@@ -1226,7 +1226,7 @@ Dindyméné calmed the winds for Jason and allowed the Argonauts to leave, but a
 
 While the magi are otherwise occupied, the city magistrate asks the grogs for assistance. The Fugitive Stone has broken its chain and left, and the magistrate would rather ask the player characters than his Latin overseers. The trail is easy follow. The Fugitive Stone has rolled into a small cove where a pirate ship has landed. The pirates are relaxing on the beach when the grogs arrive. Can the grogs defeat the pirates and return the Fugitive Stone before the Latin overlords notice its absence?
 
-# *Story Seed: In Through the Backdoor*
+# Story Seed: In Through the Backdoor
 
 The faerie forest regio is large and uncharted, and could easily connect to any other faerie regio in the troupe's saga. Characters might accidentally wander onto the Jasonian Way while lost in another faerie forest. Since the faerie otherworld ignores mundane geography, characters from anywhere in Mythic Europe could find themselves lost on Bear Island.
 
@@ -1240,7 +1240,7 @@ The Temenos of Dindyméné sits in the center of the hollow formed by the two su
 
 The temenos is also the doorway to a Magic regio and a Faerie regio. Because the Magic aura overrides the Faerie aura, it is usually easier to enter the Magic regio than the Faerie regio. At certain times of the year, however, the Faerie aura increases to 4 and suppresses the Magic aura. These times of the year are the anniversary of the Argo's landing (27 May), the summer and winter solstices, and the dates of various ancient festivals to the pagan gods. These last dates are not specified, to facilitate ease of play, and the happy coincidence that the characters arrive on the eve of a forgotten festival, which would make it easier to enter the Faerie regio rather than the Magic regio.
 
-# *Regiones and Specific Magical Features*
+# Regiones and Specific Magical Features
 
 Jason's visit left indelible marks on the supernatural landscape, and almost every magical physical feature is connected to the Argonaut's adventure on Bear Island.
 
@@ -1250,7 +1250,7 @@ The Jasonian Way is a faerie regio that runs from the Altar of Apollo of Landing
 
 The regio's entrances are at its termini, either the end at the harbor or the point near the summit. Both lie in a Faerie aura, which offers travelers the chance to find the regio. The majority of the path exists solely in the regio, with no related path in the mundane realm. Because the Jasonian Way is so strongly attached to Faerie, without a mundane counterpart, the regio has a Faerie aura of 7. Entering the Jasonian Way is more difficult at City Harbor (Faerie aura 1) than the summit's Faerie regio (Faerie aura 6), because
 
-# *Entering the Temenos of Dindyméné's Regiones*
+# Entering the Temenos of Dindyméné's Regiones
 
 Both the Faerie and Magic regiones can be entered from the temenos, which has a predominant Magic aura of 3. A permanent path leads from the temenos to the Faerie regio, regardless of the temenos' current aura. One of the chestnuts surrounding the temenos is rotten, with a hole in its trunk that passes through the tree. The hole is at the base of the tree and about 3 feet in diameter. A character who circles the grove ten times, walking counterclockwise outside the ring of trees, and then crawls on his hands and knees through the hole in the chestnut enters the Faerie regio. Some of Artakia's citizens know this secret, notably the more rambunctious youths, who learned it from their grandparents. There is no a similar procedure to enter the Magic regio, as far as any of the locals know.
 
@@ -1302,11 +1302,11 @@ more easily find the plagiarist Valerius Flaccus' *Argonautika*, a dull but accu
 
 The Theban Redcaps are the most likely source of information on Bear Island. Among their recorded journals and tallies of deeds kept at their covenant, Alexandria, are directions to and descriptions of the island. Specifics are limited. The Temenos of Dindyméné is mentioned, and the suspicion that magi might be able to interact with her. A few hasty entries say that past magi searched unsuccessfully for the xoanon.
 
-# *Shipwrecked!*
+# Shipwrecked!
 
 The Sea of Marmara is busy. Her waves carry merchants, warriors, pilgrims, and pirates. Just north of the Holy Land and near the western end of the Silk Road, all sorts of vessels could accidentally end up beached on Bear Island's shores. As in the original myth, characters are blown to the island and trapped, as high winds continue to keep their ship bound to the coast. Other vessels are also trapped, and if the shipowners know that the player characters are magi they might ask them for help. To escape with their ship, the characters need to propitiate Dindyméné, just as Jason did. They do not necessarily have to build a xoanon, but must somehow convince the Daktyls to quell Dindyméné's imprisoning winds.
 
-# *Looking for Treasure*
+# Looking for Treasure
 
 Few magi are interested in monetary loot, but companions and grogs can be. Sailors say that chests full of lost Kyzikos staters are buried on the island. Depending on the proximity to the covenant, the group's companion or grog characters might mount a quick expedition to Bear Island, and quickly find that they need the help of the magi.
 
@@ -1315,11 +1315,11 @@ Dindyméné's xoanon is a powerful, pre-Hermetic artifact. Magi interested in an
 
 Mt. Dindymon. The Daktyls need the xoanon in case they want to wake Dindyméné, and do not allow it to be taken. If their Faerie regio is threatened, they carry the xoanon down the Jasonian Way, and at some point along its length veer off the path into the vast faerie forest, hiding it somewhere in the woods.
 
-# *Looking for a Familiar*
+# Looking for a Familiar
 
 The halcyon is a legendary bird, especially among the sailors of the Thebes Tribunal. Legendary creatures make good familiars, and a magus hearing of the bird might want it. A magus searching for the halcyon is certain to run into the island's supernatural inhabitants, especially since the bird eats the Magic regio's vis. On nights of the full moon she visits the Magic regio to eat Herbam or Terram vis, depending on her gastronomic mood. When not in the Magic regio or making her nest at sea, the bird lives in the branches of the faerie forest, and the only way to find her is to wander off the Jasonian Way.
 
-# *Looking for Arcane Lore*
+# Looking for Arcane Lore
 
 The Idaian Daktyls are well versed in ancient Mystery Cults, especially those once used by supplicants to commission faerie aid. Their insight into arcane mysteries can transfer to other cults. Inquisitive cult members may use this knowledge to invent new Initiation Scripts for their Mystery Cult. Their secrets could create Mystery Initiation scripts or improve Hermetic magic. Houses Verditius (crafting) and Tytalus (leper healers) might be most interested, but Hermetic researchers (Bonisagus) would also enjoy meeting the Daktyls.
 
@@ -1330,7 +1330,7 @@ Many of the islands of the Thebes Tribunal contain monsters. The horrendous Scyl
 
 In the Jason myth, the heroes killed hundreds of Gegenees. In accordance with that role, a faerie Gegenes leaves his former body behind once slain, and his essence returns to the underwater rock that hold his external vis. The faerie then crafts a new body out of faerie glamor, a process that takes an indeterminate amount of time. Although this is still the same faerie, it is possible for the new body to view the old, if it so desires. The corpse left behind does not contain any vis, and is solid for several years before dispersing into faerie nothingness. In the short-term, a trophy hunter can find an unlimited supply of Gegenees to hunt.
 
-# *Waking the Titaness*
+# Waking the Titaness
 
 The unique feature of Bear Island, beyond her treasures, lore and interesting faeries, is Dindyméné, the sleeping titaness. Hearing that a titaness is bound beneath Mount Dindymon, either through interactions with the island's population or from Hermetic information networks, a magus might want to purposefully wake Dindyméné. Several motivations exist. A magus might want to control the titaness as a soldier in his personal retinue, another might want to learn from the titaness, while perhaps a third simply wants to set her free and see what happens. Imprisoned by Zeus and his siblings long ago, Dindyméné can only be awoken or bound by a specific faerie ritual.
 
@@ -1338,7 +1338,7 @@ The Daktyls can wake Dindyméné by using an ancient ceremony, which all ten mus
 
 > **Wake Dindyméné: Faerie Lore + Communication + stress die vs. 18**
 
-# *Gegenes*
+# Gegenes
 
 A Gegenes (pl: Gegenees) is a sixarmed aboriginal living on the forested slopes of the mountains of Bear Island. The Gegenees roam the woods in packs, ever eager to find and destroy intruders. While not purposefully protecting the Temenos of Dindyméné, their savage nature keeps visitors away. There are no females or children, only fierce male Gegenees warriors.
 
@@ -1393,7 +1393,7 @@ Gegenees can also form groups in combat. Up to six Gegenees can combine in an un
 The Gegenees live in the forested hills of Bear Mountain, and constantly watch Chytus Harbor, which both serves the legendary role they play and safeguards their external vis. Savage to the core, they attack any who land.
 
 
-# *Dindyméné, the Mother-Goddess*
+# Dindyméné, the Mother-Goddess
 
 The titaness Dindyméné is called many names throughout the Thebes Tribunal: Kybélé in Phrygia, Kubaba in Anatolia, and Rhea on mainland Greece. Daughter of Uranus and Gaia, the primordial sky and earth gods, Dindyméné is the mother of Zeus and his siblings. Besides being the gods' mother, she embodies fertility, mountains, nature, and wild beasts.
 
@@ -1562,13 +1562,13 @@ The Personal Vis Source mentioned in the halycon's Virtues and Flaws is not loca
 
 Although they have lived on Bear Island for centuries, the Daktyls are not bound to the island. Several of the faeries head for the mainland, their curiosity piqued by the player character magi's recent visit. Two remain, a male named Titias and a female named Kyllénos, who are unable to control sleeping Dindyméné's moods. After several windstorms and an earthquake, the villagers decide to destroy the sacred glen, thinking that burning the scar of paganism from the land will bring God's favor and end the inclement weather. Titias and Kyllénos seek out the magi and ask for assistance. Can the magi stop the villagers and find the eight wandering Daktyls?
 
-# *Reestablishing the Balance*
+# Reestablishing the Balance
 
 Bear Island's inhabitants exist in a network of stable relationships. The Greek citizens grow their crops, fish the ocean, and stay out of the forest. The Gegenees enforce the border between coastal civilization and the wild interior. The Daktyls play false intercessors for the few inquisitive village youths brave enough to ignore their elders' warnings and venture up Mt. Dindymon. The halcyon builds its nest, infrequently inspects moored ships, and feasts on the island's Herbam vis. Dindyméné shifts in uneasy slumber.
 
 The members of the relationship network react to the player characters' intrusions. If
 
-# *Idaian Daktyl*
+# Idaian Daktyl
 
 Assistants to the titaness, the Idaian Daktyls were intermediaries between Dindyméné and her human worshipers. This once important role has faded to almost nothing. Visitors are few. None come to worship, and only the younger men and women come to investigate, curious about their grandparents' tales of the "forest people." Some understand that Dindyméné is an ancient goddess, but the majority think it just another word for the island. The Daktyls don't care if the mortals understand the exact arrangement, as long as they are sought out as intermediaries between the villagers and something. Five of the Daktyls are male, and five female. The males are renowned metal-workers and aligned with Terram, while the females are famous healers and aligned with Corpus.
 
@@ -1627,7 +1627,7 @@ any component is threatened, the other elements move to correct the imbalance. S
 
 If the characters make massive changes to the island's inhabitants on their first visit, the islanders over-react as a result. For example, a massive assault against the Gegenees makes the survivors invade Artakia. The attack sends ripples through the mundane component of the Theban Tribunal, which eventually impacts the Tribunal's magi. A Greek magus accuses the player character magi of molesting the island's faeries, and demands that they be punished. A Hermetic lawyer suggests that the magi act proactively and assuage the raiding Gegenees, before the case comes to trial.
 
-# *Home Sweet Home*
+# Home Sweet Home
 
 Bear Island is a good location for a covenant, being isolated, with a healthy crop of annual vis, and several supernatural auras and regiones. Mundane society is accessible but removed, an ideal situation for most magi. The supernatural inhabitants will prove challenging, but determined magi should be able to placate the neighboring Daktyls and Gegenees.
 
@@ -1637,7 +1637,7 @@ With its Magic aura of 6, the Magic regio is a much more powerful location. Fear
 
 In the Theban Tribunal, each covenant needs to bind a patron spirit. Any single Daktyl could serve as a patron spirit, although this will rouse jealousy and envy in the other faeries. Impetuous magi might try to bind Dindyméné as a patron spirit. They must first wake her and survive her wrath before negotiating the binding pact.
 
-# *Variations*
+# Variations
 
 If you have renamed Bear Island as the Island of the Sleeping Fomóir, and moved it from the Theban Tribunal to the Hibernia Tribunal, you will need to adjust the island's inhabitants. Most of these changes are merely a matter of replacing a name with a more appropriate one.
 
@@ -1733,13 +1733,13 @@ AIRY SPIRITS ARE DEFINED IN Realms of Power: Magic as magical spirits of flora, 
 If one or more of the player magi are from House Tytalus, or if they are well-versed in the history of this controversial Founder, the story of a magus Tytalus going to a supernaturally affiliated forest and never heard from again easily
 
 
-# *The Nature of the Curse*
+# The Nature of the Curse
 
 Contrary to rumors, the hostile nature of the Cursewood is not caused by a curse at all, but by Wyzwanie. He is the spiritual embodiment of primal, hostile woodlands, which, in turn, he exists to protect. Anyone daring to enter is thoroughly tested to see whether he meets the high standards set. Wyzwanie repeatedly tests intruders by causing the terrain and environment to lash out, and tries to sabotage any attempts to ease the passage. The point is to drive away or kill those too weak to be worthy of his respect. A favored method is to strike first at the pack animals and supplies, then the servants, and guards of the leader. Anyone succeeding in his challenges is welcomed into his inner domain to meet him.
 
 About a century ago an artifact of the powerful demon of rage and war, Terentia, was lost in Wyzwanie's domain, and he decided to prevent it from being abused. Wyzwanie increased the demands on challengers. The tests serve to gauge whether the intruder is there to take the dark artifact or, alternatively, has sufficient strength and the correct mindset to destroy it. Since the rise of the infernal influence Wyzwanie has suffered torment and is extremely hard to appease, making the demands harder to meet. Until this problem is resolved Wyzwanie will not strike a deal.
 
-# *The Affiliation of Regulus*
+# The Affiliation of Regulus
 
 The affiliation of Regulus is important to characters aiming to research him and the Cursewood. If the player magi live in an old covenant, Regulus was once a member here. It doesn't matter whether they are young or experienced. If they live in a covenant formed within the last century, Regulus was once a member of the covenant where either an older member or one of the player magi's parentes originate. Information has been passed down from master to apprentice through the years, but not widely circulated. As an alternative, old covenant records or correspondence about the situation can be found in the library. See the section on Research later.
 
@@ -1749,15 +1749,15 @@ In Pomerania, in the eastern marches of the Rhine Tribunal, bordering on Novgoro
 
 The main challenge in the location is surviving the hostile terrain and environment, which is unnatural and evil due to the Infernal taint of the place. The effect of the spirit's intervention is to have nature itself resist any trespassers and any change, and after any clearance the elements of the place soon revert to their original and wild form, making the woods almost impenetrable. An expedition not guided by tough and skilled specialists and commanded by a strong-willed and resourceful leader is likely to not only fail in penetrating the woods but risks a horrible death.
 
-# *Variant: Theban Tribunal*
+# Variant: Theban Tribunal
 
 The Cursewood can easily be placed in the south-eastern part of the Order's domain. For use in the Tribunal of Thebes it can be placed almost anywhere in Anatolia a fair distance inland and from major settlements. This can conceivably be in the Empire of Nicea. The genius loci is called Diekdikitís. For more local flavor switch the willow trees to hazel and the pines to cypress with no changes in stats.
 
-# *Variant: Hibernian Tribunal*
+# Variant: Hibernian Tribunal
 
 The Cursewood could also be set in the Hibernian Tribunal with only superficial changes. A suitably remote place would be in the Ulster region halfway between Lough Neagh and the northern coastline. Dúshlán will be the name of the genius loci; the rest of the Cursewood can be used with no other changes.
 
-# *Variant: Normandy Tribunal*
+# Variant: Normandy Tribunal
 
 Finally, the Cursewood could be placed in the Normandy Tribunal with little change. An example of a remote place is midway between Vannes and St. Brieve. The genius loci should instead be called Aergad. No further changes are necessary.
 
@@ -1767,7 +1767,7 @@ The Cursewood covers a roughly circular area about 30 miles across, with Regulus
 
 
 
-# *What is Known about Pomerania*
+# What is Known about Pomerania
 
 At the first mention of the Cursewood, players may make a roll of Intelligence + Area Lore: Pomerania.
 
@@ -1793,7 +1793,7 @@ The effects sound like ones caused by a single powerful spirit.
 
 Penetrating the Cursewood is difficult and dangerous, and the main theme of the location is this challenge. It tests the leadership, cooperation, determination, and strength of will of those involved. Wyzwanie's challenges are henceforth referred to as hazards. Each of the five stages represents a leg of the journey and causes the loss of one Long Term Fatigue Level. The storyguide describes the terrain and situation — along with any choices and lets the players plan and choose to take countermeasures, using the mechanics described later. The troupe needs to choose a leader and a guide, although these roles can be changed in each stage. The leader is the person in charge of making final decisions, most likely a magus, but it could be a grog captain if the magi defer to him when in danger. Ideally it would be the character with the best Leadership Ability. The guide is the point man who uses his skills to make good progress and avoid dangers. This might be
 
-# *Forest Lore*
+# Forest Lore
 
 An individual with Forest Lore (see *Guardians of the Forest*, page 37) can try to commune with the forest spirit, but as this is a foreign place the character must have an Ability level of at least 3 to have any effect.
 
@@ -1929,7 +1929,7 @@ buzzing of mosquitoes, or the croak of what sounds like enormous frogs.
 - **Attack from a Corrupted Tree.** In the swamp, this is a willow.
 - **Churning waters.** A sudden current whirls victims around and carries them toward the edge of the woods in a suddenly formed river. Victims roll Strength + Swimming (or Profession: Boating) against an Ease Factor of 12 to reach the safety of the river banks. Failure means that the victim is pulled along adding another hazard during this stage to account for the increased time spent. A single botch carries the victim far, losing all progress during this stage, while a triple botch sends them out of the Cursewood to start all over again.
 
-# *The Center of the Woods*
+# The Center of the Woods
 
 The center of the woods holds the key to solving the mystery and getting the rewards.
 
@@ -1943,11 +1943,11 @@ Entry to the regio is gained by crossing the low wall, where Wyzwanie discreetly
 
 Just inside the wall stands a menacing old tree. It is an ancient, twisted oak with ash gray bark and leaves the color of blood. Lines and contours in the bark make the trunk look like a face in pain. From one of the branches hangs a length of rotting rope. This is where Regulus was hanged, and his bones can be found scattered below the tree inside the regio.
 
-# *The Infernal Aura of the Cursewood*
+# The Infernal Aura of the Cursewood
 
 Emanating from the old oak near the encampment where Regulus was hanged, an Infernal aura with a rating of 5 covers the area to the edge of the Cursewood. The aura is a Malevolent aura, a specific kind of corrupted aura brought about by cruelty, the heinous sins of the diabolists, and the murder of Regulus and their foul rituals following this event. This phenomenon is explained in detail in *Realms of Power: The Infernal,* pages 12–14, but, the most important effects are listed here:
 
-# *Using Shortcuts and Magic*
+# Using Shortcuts and Magic
 
 Bear in mind that magi may very well succeed in using shortcuts to the center of the woods. Flying over the treetops, tunneling below the forest floor, or getting an Arcane Connection to the center to teleport to are among the obvious ideas. However the regio can only be entered by those led by Wyzwanie, and he only allows this once he is satisfied. Persistent magi who find clever shortcuts may very well earn his respect that way, in the end.
 
@@ -1958,14 +1958,14 @@ On the other hand the use of magic to deal with the hazards is by no means disco
 - All physical activities suffer 5 additional botch dice from the aura; this includes all rolls for trek progress. Botches are more likely to result in injury, with Wound level equal to number of botches.
 - Any old wounds caused specifically by demons reopen, no matter how long ago they occurred. An Incapacitating or Heavy wound reopens as a Wound two steps lower than the original.
 
-# *The Regio*
+# The Regio
 
 Regulus' encampment is now hidden in a Magic regio of level 7. If Wyzwanie allows it, the regio may be entered by simply crossing the wall. Any not deemed worthy remain at
 
 
 the mundane level. The encampment appears as it was before it retreated into the regio. At the side of the central lake is an area cleared of trees, where a stream from the hills feeds the lake. At the bank, a rowboat is tied to a stake. A moderately sized cottage has been built from stacked boulders, and is marked with Regulus' sanctum marker. Inside there is space for a lab, but one has not yet been set up; the cottage only holds his books on magical subjects, and his journals. The oak clearly has unnatural features resembling a face in agony. Below the oak are the bones of Regulus, partly covered by dirt and growing weeds. His spirit has long since ventured into the Magic Realm through his continued challenge of the powers surrounding him. Here also lie scattered his enchanted devices; see the section on magical treasures later. Wyzwanie shows himself in the form of a huge boulder covered in vines, and starts to tell his story. For details about Wyzwanie, see Inhabitants later.
 
-# *Vis Sites*
+# Vis Sites
 
 Below are given a number of vis sources from which the storyguide can choose; not all of them need be present or accessible at once. Only use the ones which best fit your saga and its vis balance. Some could also be held back for introduction later on.
 
@@ -1993,11 +1993,11 @@ On top of a hill where lightning strikes often stands a clump of trees, all with
 
 Tainted vis stays corrupted, but once the Magic aura is dominant any future vis is clean, normal, magical vis. After a full year with no Infernal influence, all vis sources are free from corruption.
 
-# *Story Seed: Hell in the Backyard*
+# Story Seed: Hell in the Backyard
 
 Does a diminishing Infernal aura simply fade out? Perhaps a tricky demon draws the remaining Infernal aura into a regio where he hides and grows in power. For example, Kraxios Lord of Wrath sees an opportunity here to ply his wicked trade. He has the power to cause people to dream witnessing their friends and neighbors perform acts of bestial atrocity, and to posses these false witnesses in order to egg them on to urge others to punish the imagined culprits. Kraxios affects several grogs who all become paranoid, spy on each other, spread rumors and in time perform sinful acts — or so he hopes. Eventually one or more grogs affected by this start causing trouble at the covenant. While the magi can contain this, it takes hard work to unravel the plot, which in the end leads to the unknown regio in the Cursewood.
 
-# *Changing the Aura*
+# Changing the Aura
 
 To remove the Infernal aura, the characters must first remove the source of the infernal taint so it no longer feeds the aura, and then develop another, stronger aura. If the oak is destroyed, and the remains of Regulus are properly buried, the Infernal aura sits dormant and neglected, making it possible to diminish it.
 
@@ -2048,11 +2048,11 @@ The effect binds a being affiliated with the Magic realm within a circle touched
 
 (Effect: Base Effect; +5 for 24 uses/day, +16 for Penetration)
 
-# *Inhabitants*
+# Inhabitants
 
 Apart from the genius loci itself, inhabitants of the Cursewood are limited to corrupted trees. Living for a time in the Infernal aura have caused these to become disfigured and truly evil. The effects of the curse have awakened some of the trees to a certain degree, and the Infernal taint has corrupted them.
 
-# *Magical Treasures*
+# Magical Treasures
 
 Inside the cottage housing his sanctum, hidden inside the magical regio, are found the magical resources of Regulus. His artifacts lie among his scattered bones at the Old Oak, and all his vis stores were expended during his last stand. However, a stout cabinet with carved doors holds his books safely.
 
@@ -2154,15 +2154,15 @@ A *Significato* is a magically occurring phenomenon which magi may utilize in th
 
 magic spirits inhabiting the object, equivalent to 2–4 pawns of vis for study. At least one Significato can be found for each of Auram, Aquam, Herbam and Terram; clues to these are found in the journal of Regulus. Any individual Significato may only be studied once per year, and Wyzwanie allows the use of only one each season. As long as the Infernal aura is dominant, the Significatos count as vis sordida, as explained earlier. Unless an agreement is reached with Wyzwanie, the Significatos can't be used, since the curse actively repels intruders and makes study impossible.
 
-# *Variant: Dark Faerie Aura*
+# Variant: Dark Faerie Aura
 
 The one change here is that the heinous acts performed by Terentia's diabolical minions merely resulted in a modest Infernal aura. This quickly disappeared again after the diabolists left and no longer indulged in sinful rituals. At this point, a dark faerie prince called Schwarzholz saw his opportunity. He was originally a powerful force in the neighboring valley who tormented the locals and gained vitality from the countermeasures they took against him. As Wyzwanie grew in strength and increased the effects of his curse to protect the Infernal device, the few locals who had ventured here simply stopped coming. As the diabolists left, Schwarzholz moved in and played the part of demonic taint. He can send out ravens to confuse travelers and the closest residents and lead them astray to terrorize once they set foot in his domain. The Cursewood is, in fact, under the control of a moderately powerful Faerie aura, but faerie powers and illusions result in the same effects as the Malevolent Infernal aura in the form of added botch dice, added damage, and penalties to Abilities and magic. These effects need to penetrate and use the Might of Schwarzholz. A storyguide using this option may need *Realms of Power: Faerie* in order to better manage the mechanics of faeries and in order to design Schwarzholz's powers. Schwarzholz is equal in power to Wyzwanie. He manages to fool the genius loci into thinking there is still an Infernal taint, to maintain his continued torment.
 
-# *Variant: Wyzwanie as a Faerie*
+# Variant: Wyzwanie as a Faerie
 
 Wyzwanie could instead be a powerful faerie. The rest of the story, including the Infernal taint, is kept unchanged. This would result in his domain in the woods being a powerful Faerie regio rather than a Magic one, and cleansing the area of the infernal corruption results in a dark faerie forest. The vis sources found here are faerie-aspected as well; however, the Significatos are universal and usable by magi with no changes. Wyzwanie as a faerie is not evil but certainly malicious, and his challenges make sense, since the precautions and suffering of intruders are what feed him vitality. The very nature of faeries means that Wyzwanie cannot be dealt with in the same way as if he were a daimon, since faeries want and need interaction with humans. Wyzwanie has faerie powers close to what the daimon-version has, but the storyguide may find *Realms of Power: Faeries* very useful with regard to the concept of vitality, among other things. The prospect of owning a faerie forest with faerie resources is likely less appealing to most Houses, but would be a great boon to Merinita magi. Regulus was interested in winning challenges and gaining power, so any powerful creature would do.
 
-# *Researching the Cursewood*
+# Researching the Cursewood
 
 Although no living person has been to the place, it is not beyond dedicated researchers to find some information. Once Regulus' name is known, what little is recorded about him can be found. His home covenant — be it the player magi's or one of their parentes' holds records and information. Covenant rolls can be studied, correspondence can be read, and magi descended from his contemporaries can be interviewed.
 
@@ -2173,7 +2173,7 @@ Regulus' sodales in his home covenant know that he found something very challeng
 
 Official House Mercere records list him as giving his home covenant as the place to leave messages for him, under the condition that he was personally responsible for collecting them. House Guernicus notes him officially entering the Order upon completing his Gauntlet and swearing the Code. Considering the fact that he was Tytalus, there are few remarks about him in legal documents. Apparently, he reported having fought some diabolists and something about the demon Terentia, but there was no suspicion of him handling the situation in any improper way. Casual remarks label him as having Vim as a special interest. Records among his fellow Tytali wisely enough contained no information about his activities or whereabouts, but they confirm his identity, history, and interest in Vim and spirits.
 
-# *Corrupted Trees*
+# Corrupted Trees
 
 A corrupted tree does not fight using the usual rules. The tree waits for an opportune moment when a lone individual is distracted, just below its branches, or even resting up against the trunk. It then makes a surprise attack to grapple or immobilize the victim and proceed to digest his body. Content with one victim, most trees try to fend off other people by striking them with its branches. The multiple branches do not attack as a group, and only one branch attacks each victim at a time. Due to the sheer size and toughness of the tree, only heavy, sharp-edged weapons stand a chance of hurting it. Living wood counts as "barely flammable," requiring Ignem spells of base 10, or fire damage of +15. The storyguide needs to use common sense regarding other spell attacks. *Crystal Dart* works, but *Piercing Shaft of Wood* can't hurt it. Most of its attacks cause Deprivation from lack of air, for which rules can be found in *ArM5,* page 180.
 
@@ -2247,15 +2247,15 @@ Survivors of the first expedition have returned home to recuperate and are curio
 
 arcane secrets and resources can be found and can even work on restoring the woods to a place of magic.
 
-# *Chasing Rivals*
+# Chasing Rivals
 
 Even though the magi were careful to not share any important facts with anyone else about the first expedition, known rivals or other opportunistic and supernaturally skilled individuals (Hermetic or exotic as best fits the saga) have found out something. The rivals are looking for the infernal artifact, ignorant of its exact nature. Not only are they mounting a sizable expedition to the Cursewood is, but one of the grogs from the previous expedition is missing. This should get the minds of the magi stirring. What do the rivals know? What do they want? Are they sufficiently skilled and well-prepared to conquer the Cursewood? Are they going to discover great magical secrets and in a sense steal these, leaving the player magi with nothing more than the scars from the first expedition? The player magi need to hurry if they want to beat their rivals to the goal. Alternatively, the storyguide can arrange for rumors of the rivals' preparations to reach the player magi in advance in order to give them a season or two to prepare.
 
-# *Bringing Criminals to Justice*
+# Bringing Criminals to Justice
 
 Magnus the Quaesitor approaches the magi who are veterans of the trip to the Cursewood. Even if little information has been shared with the Order, he knows at least the location and the cursed nature of the place. He was recently working on a case of suspected diabolism practiced by a Hermetic maga and her infernalist cohorts. A Hoplite on their tracks last reported them as taking refuge in the Cursewood, from where they have failed to return. Magnus asks the magi to do their duty and help bring the criminals to justice. Since one can only guess what vile deeds they are up to in the infernal place, time is of the essence. If the player magi succeed in convincing Magnus that they need time to prepare, he insists they send scouts to keep an eye on things and make sure the criminals don't get away. Even if the diabolists have all perished in the woods, he feels obliged to find their earthly remains, summon the ghosts and interrogate them to make sure the diabolical plot does not reach further. Some characters may be suspicious of a Quaesitor so bent on entering a cursed forest to summon Infernal ghosts, of course.
 
-# *Destroying the Infernal Artifact*
+# Destroying the Infernal Artifact
 
 One of the Infernal artifact's powers is the ability to reform if destroyed or to move to another physical form, although this takes time. It can be hidden under the deepest seas, entombed below ground, or tossed into a volcano, but Terentia is forever drawn to it. These are only temporary solutions which open up further stories. For true and permanent disposal the artifact must be taken to a truly holy place, and only a completely pious person can destroy it. In game mechanical terms it needs to be taken to a cathedral or other place with a Dominion aura of at least 5. Here, an ordained clergyman possessing True Faith can, after hours of prayer and ceremony, destroy the artifact by expenditure of a Faith Point. The artifact need have no powers that can affect the characters; maybe only a demon can use it. It can, of course, be given powers if that suits the story the troupe wants to tell.
 
@@ -2305,13 +2305,13 @@ This castle was an ancient stronghold of the Britons prior to the Romans, and th
 
 The current constable of the castle is John Wascelin, who has nominal suzerainty over the Farne Islands. Bamburgh Castle is particularly well-garrisoned; the Scottish border is only 15 miles away, and assaults against English strongholds have been common in the last few decades, as the Scottish king tries to assert his claim over Northumberland. Bamburgh possesses several siege ballistas and employs its own master balister to operate them.
 
-# *Getting to the Islands*
+# Getting to the Islands
 
 The communities of the coastal region rely on fishing to make a living, and a fisherman will be reluctant to give up a day's work to ferry a group of strangers around. Offering coins in recompense is not much of an incentive; his family can't eat silver, and most rural economies only use hard cash to pay manorial fines and feudal dues, relying on barter to obtain daily necessities. That said, a sailor might be persuaded if the incentive is high enough. The sailors of the Northumberland coast are very superstitious, a character trait that is only enhanced by the presence of The Gift. They
 
 
 
-# *What You've Heard*
+# What You've Heard
 
 Locals get a +3 bonus to their Area Lore: Northumberland rolls for what they know about the Farne Islands.
 
@@ -2341,7 +2341,7 @@ The waters around the Farne Islands are the haunt of selkies: faeries who take t
 
 There is an ancient magical power connected to some of the islands that seeks to sink ships
 
-# *Island Terminology*
+# Island Terminology
 
 The names of the islands contain several elements derived from Old English words now obsolete. A *car* is simply a rock, particularly one isolated from others and rising out of the sea. A *shad* is a bank, usually one posing a risk to ships. A *gut* is a channel or strait too narrow to admit a fishing boat.
 
@@ -2349,7 +2349,7 @@ watch the sky and local birds for omens, and can be spooked by the slightest irr
 
 The constable at Bamburgh has boats permanently harbored for the purpose of travel, but he won't lend them to a group of characters unless they possess some sort of authority, and an explanation as to their business on the islands that form part of his wardship. Of course, such obstacles to obtaining a boat can be overcome with magic, theft, or by owning one's own boat.
 
-# *The Inner Islands*
+# The Inner Islands
 
 The group of islands closest to land are less obviously supernatural than those that are further out.
 
@@ -2441,7 +2441,7 @@ Saint Cuthbert's legend has it that he sat on the easternmost of these paired is
 
 A character finding himself stranded on the island can be sustained by limpets and mussels, and can drink rainwater, and suffer no ill effects for the ordeal. Even in the worst of weathers he need not fear exposure if his faith is strong enough, nor need he fear the twice daily inundation of the island. If he prays during the hour that the island is totally immersed (requiring a Stamina + Concentration roll of Ease Factor 6) then he can survive without air to breathe. Spending a whole year here can form part of a Test of Faith that can lead to an increase in a character's Faith Score (*Realms of Power: the Divine*, page 59).
 
-# *The Outer Islands*
+# The Outer Islands
 
 The outer islands are home to several supernatural creatures. Those closer to shore — Staple and Brownsman Islands, and the Wamses — are faerie in nature, whereas those farther out are the domain of magical creatures.
 
@@ -2472,7 +2472,7 @@ This island is united with Staple Island at low water, but separated at high tid
 
 North and South Wamses are two magical beings fighting for dominance, which they do by changing size. At low tide they are joined at their bases, and dormant. As the tide comes in the Wamses Gut forms between them, and the islands start to swell. North Wamses is large in area but squat; South Wamses is smaller in cross-section but taller than its sister. The two islands expand by tiny amounts; North Wamses trying to get taller, and South Wamses wider. As they stretch and strain, the islands might shake loose boulders or earth, which could be a danger to mariners sailing too close. These discarded pieces of the islands might be of interest to magi, since collectively they generate a pawn of Muto and a pawn of Terram vis each year.
 
-# *Story Seed: Seal Warfare*
+# Story Seed: Seal Warfare
 
 The characters might get involved with the conflict between the selkie king and Brown Wullie. Selkie-blooded characters are the easiest to get involved their faerie parent is a member of one of the camps. However, any characters exploring the islands could come into contact with either selkie leader and be dragooned into providing assistance. The selkie king needs to regain control of his name; once he has done this he can go to war against Brown Wullie and reintegrate the rebels into his court. Brown Wullie hasn't yet decided what to do with the king's name, but he is enjoying his freedom from his control. He may even have ambitions to become selkie king.
 
@@ -2483,7 +2483,7 @@ For an interesting twist, one of the players could take Brown Wullie as his char
 The name of the Selkie King is an insubstantial but audible form of vis currently trapped inside a seashell. Anyone holding the shell to his ear hears the name, and becomes its new receptacle. The name can be spoken just once each time a person becomes the receptacle of the name. If it is spoken out loud, any single person who heard it said becomes the name's new receptacle (chosen at random); no-one else — including the former receptacle — can remember what the name was. Alternatively, a receptacle can whisper the name into another person's ear or into a seashell. The vis can be used by a receptacle or anyone holding the seashell, but doing so destroys the name and the king; anyone with Faerie Lore knows this. There are five pawns of Animal vis residing in the king's name.
 
 
-# *Story Seed: Island Tectonics*
+# Story Seed: Island Tectonics
 
 South Wamses is plotting with the Nameless Rock to its east; if the two were able to join together, then the combined island would be both wider and taller than North Wamses. With each tide, the Nameless Rock is squeezing tiny amounts closer to its conspirator. The characters might be witness to the narrowing of the gut between the islands — indeed, they might get caught in between! If the contest between the sisters is ever settled, the magi may lose their supply of vis, so it is within their interests to keep them competing.
 
@@ -2551,7 +2551,7 @@ Longstone Island has a fish-shaped rock near the cliff's edge on its northeast c
 
 The three rocks that make up Knivestone are well-named; they rise out of the water like three knife blades lying on their back and pointing north east.
 
-# *Isolates*
+# Isolates
 
 There are a number of islands separated from the two main gatherings of Farne Islands.
 
@@ -2588,7 +2588,7 @@ Of this small collection of islands, only Crumstone has a presence at high tide.
 
 Nothing is known of him, not even his name. It is popularly believed that he is an abjurer — a man who has committed a heinous crime, but is of sufficient status to avoid capital punishment, so that instead he was forced to abjure the kingdom of England and never set foot on its soil again. This is an astute guess; Osgood is indeed an abjurer, but he is more than that, he is also a Drowned Man (*Realms of Power: Magic*, page 96). He perished at sea while carrying out his exile, but was returned to the world of living by a mysterious power dwelling in the sea (see Big Harcar, earlier). In return for his new life he serves the whims of his unseen master, which includes occasionally luring ships onto Big Harcar. When not acting under these murderous orders, he makes amends by saving other mariners, rowing out to save them one at a time in his skiff, managing even in the worst of weathers thanks to the powers he has been granted. Osgood is a loner with a compassionate side; he is ashamed of his secret career as a wrecker, and keeps it hidden from anyone who befriends him.
 
-# *Variant: Alternative Locations*
+# Variant: Alternative Locations
 
 The Farne Islands can be moved to any sparsely occupied coastal region. They are small enough that the storyguide need not find actual islands to substitute. Without the capacity to sustain even a single person for any great period of time, the impact of these islands on a region is minimal. That said, the following examples are all based on real island groups.
 
@@ -2622,15 +2622,15 @@ selkies in this version of the Mythic Location.
 
 natural aura, might incur warping and develop a supernatural Flaw. Many of these creatures would make good familiars for appropriatelyminded magi.
 
-# *Inhabitants*
+# Inhabitants
 
 There are a number of creatures that can be found on the Farne Islands, both mundane and supernatural. Even the mundane animals, if they spend too much time within a super-
 
-# *A Selection of Fish*
+# A Selection of Fish
 
 The waters around the Farne Islands are teaming with fish. A character template for a generic fish is provided, with a number of variations for different species.
 
-# *The Puffin Joker (Fratercula Hilaris)*
+# The Puffin Joker (Fratercula Hilaris)
 
 **Characteristics:** Cun –1, Per +2, Pre +1, Com –2, Sta 0, Str –8, Dex +2, Qik +6
 
@@ -2664,7 +2664,7 @@ The waters around the Farne Islands are teaming with fish. A character template 
 
 This puffin has been warped by the magic of the Outer Farnes. Once per day it can perform a silly dance, bobbing its head and flicking its wings, accompanied by bowing and stamping its feet. Anyone seeing the dance bursts out laughing unless she makes an appropriate Personality roll (such as Stoic or Humorless) of Ease Factor 9. Those who fail can do nothing but laugh until the puffin stops. This effect has no Penetration, but sometimes warped puffins perform this dance as a group, which gives the effect a cumulative +1 Penetration for every five puffins beyond the first.
 
-# *Correspondences of the Farne Islands*
+# Correspondences of the Farne Islands
 
 The following table gives one-to-one correspondences for the variant locations described in the main text.
 
@@ -2690,7 +2690,7 @@ The following table gives one-to-one correspondences for the variant locations d
 
 The remora is a small fish that is a bane to all sea travelers. It can suck so powerfully that it can bind a ship in place, holding it completely motionless. A storm could be raging with crashing waves, but the ship remains rooted to the spot, unable to move. Its name comes from Latin *mora* meaning "a delay." The Greeks similarly call it echeneis, "ship-delaying."
 
-# *Magical Seabirds*
+# Magical Seabirds
 
 Amongst the many thousand birds that arrive from March onward are a fair number of Magic Animals.
 
@@ -2702,7 +2702,7 @@ Eider ducks are a species of large, seagoing ducks with a distinctive wedge-shap
 
 Eider ducks live on the islands all year around; they do not undergo the mass migrations of most of the other birds.
 
-# *Template: A Fish*
+# Template: A Fish
 
 **Characteristics:** Cun –3, Per –2, Pre –5, Com –6, Str –8, Sta +3, Dex 0, Qik +4
 
@@ -2756,7 +2756,7 @@ Some birds are particularly associated with stormy weather at sea. Cormorants ar
 
 Petrels and fulmars look a little like gulls; the fulmar that nests in abundance on the Farnes has a white head and gray plumage on its body, while petrels are mostly black or dark gray. Petrels are the heralds of bad weather and the subject of great superstition; they can sometimes be seen stirring up a storm by flying over the waves and paddling the surface with their feet. Local sailors will never kill one least the storms take revenge.
 
-# *The Selkies*
+# The Selkies
 
 Statistics for a selkie king are given on page 91 of *Realms of Power: Faerie*. Brown Wullie should also have the statistics of a selkie king. The king has the External Vis Virtue (page 50), which is his name, currently in the possession of his Brown Wullie (see Brownsman Island).
 
@@ -2829,7 +2829,7 @@ A more direct way to bring the characters to the islands is have them shipwreck 
 Characters planning a sea-voyage might desire help from an eider duck, who can guarantee safety from all but magical storms. They must go to the Farne Islands to either catch one or persuade one to come with them. An eider does not need to be willing for its power to calm waves to take effect, but Saint Cuthbert might be offended at any mistreatment of his favored animals.
 
 
-# *Eider Duck of Virtue*
+# Eider Duck of Virtue
 
 **Season**: Spring
 
@@ -2873,7 +2873,7 @@ but the very fiercest of storms. This is a constant effect that is active whenev
 
 Due to a miracle enacted by Saint Cuthbert, an Eider Duck of Virtue is aligned to both the Magic and Divine Realms (represented by the Lesser Benediction Virtue); they benefit from the most beneficial or least detrimental result from the Magic or Divine column in the Realm Interaction Table (ArM5, page 183)
 
-# *Grey Seal*
+# Grey Seal
 
 **Characteristics:** Cun 0, Per 0, Pre –2, Com –5, Str +2, Sta +3, Dex +1, Qik +1
 
@@ -2899,7 +2899,7 @@ Due to a miracle enacted by Saint Cuthbert, an Eider Duck of Virtue is aligned t
 
 These statistics are for a cow seal, for bulls add the Large Virtue to increase Size to +2; this adds two to Strength (and Damage) but subtracts one from Quickness (and Initiative and Defense). Seals can hold their breath for twice as long as normal, and the bonus from its Long-Winded Virtue adds to rolls to withstand deprivation of air.
 
-# *Books Containing Farnes Lore*
+# Books Containing Farnes Lore
 
 *Vita Sancti Cuthberti*, Tractatus on Organization Lore: The Church, Quality 7. The two versions composed by the Venerable Bede (one poetic, one prose) each have a Quality of 9.
 
@@ -2907,11 +2907,11 @@ These statistics are for a cow seal, for bulls add the Large Virtue to increase 
 
 *Farne Meditations* by Bartholomew, Summa on Divine Lore, Level 3, Quality 6
 
-# *Story Hook: Jetsam*
+# Story Hook: Jetsam
 
 Magi who live in a coastal covenant, or who are visiting a coastal area, find vis washed up on the beach. This takes the form of foamy spume, and the characters may wish to track it back to its point of origin to examine the possibility of a renewable vis source. The vis is an Arcane Connection to its source, and it leads the characters directly to the islands, where Osgood waits for them. He deliberately set the vis adrift, trusting in the power he serves that it would bring him help. The help that Osgood requests can vary, but probably involves some business ashore which Osgood cannot fulfill as an abjurer. He might want them to check up on his family, deliver an heirloom to his newborn son, or make reparations to the victim of the crime that caused his exile in the first place.
 
-# *Story Hook: Lagan*
+# Story Hook: Lagan
 
 A man known to the characters comes to them for aid. He could be a fisherman, a minor noble, even another magus. He knows of a fabulous treasure in Staple Sound, but is unable to get to it since it is on the bottom of the sea. The description of the treasure should be chosen to pique the interest of the characters. In actual fact, he is after the sealskin of the daughter of the selkie-king, who has taken to hiding it under a rock at the bottom of the sea to prevent her from being trapped into marriage by mortals — as the most beautiful of all the selkie maidens she has been captured dozens of times over the last century. If the characters help the lustdriven man get the seal-skin (there may be other treasure there as well), then they incur the wrath of the selkie king.
 
@@ -2952,7 +2952,7 @@ A man known to the characters comes to them for aid. He could be a fisherman, a 
 
 A genius procellosus — storm spirit is a spirit of the elements (*Realms of Power: Magic*, page 104). Each storm spirit claims a rock around one of the Farne Islands; anyone landing on its rock is liable to be attacked by the spirit's powers.
 
-# *Demons of Futility*
+# Demons of Futility
 
 **Infernal Might:** 5 (Aquam) **Order:** Evil Spirits
 
@@ -2992,7 +2992,7 @@ Athletics 3 (blocking escape), Brawl 5 (grapple), Ride 2 (goat), Swim 5+2 (coast
 
 Lagan applies to goods on the sea floor, usually marked with a float for later recovery).
 
-# *Researching the Farne Islands*
+# Researching the Farne Islands
 
 For characters researching the islands there is no real substitute for local knowledge. Inner Farne and its saint are famous throughout the region, but locals know the names and some of the legends surrounding the other islands. The supernatural nature of the islands is a matter of fact to the sailors who ply these waters for fish; they avoid actually visiting the islands as if they were cursed, but are avid collectors of rumors, travelers' tales, and complete fabrications.
 
@@ -3051,7 +3051,7 @@ The Mendip Hills were the richest source of lead in the Roman province of Britai
 
 
 
-# *Rumors*
+# Rumors
 
 This site is widely known to exist, but virtually no-one visits it, so detail is scarce in local folklore or Hermetic records. Organization Lore: Order of Hermes and Area Lore: Somerset are both appropriate Abilities.
 
@@ -3086,13 +3086,13 @@ of the men think there's a female spirit in that place which lures men into fata
 - The method of processing the Blue Apples to create vis is lost, but remembered by some of the spirits of the area.
 - There is a non-Hermetic spell that will trap the Summer Fae of Somerset, hidden in the Cave of the Inscription.
 
-# *The Site of the Battle*
+# The Site of the Battle
 
 The site described in this chapter lacks any superficially unusual features. It is a flat hill, mostly limestone, overlooking the surrounding forest. Its top is covered by grasses, and magi who examine it closely can find the stones that acted as the foundations for Averna's tower. Depressions trace their way about the hill and surrounding forest: these are the remnants of the ditches used by Roman miners to extract ore. Low mounds mark the graves from which arsenical skeletons emerge.
 
 There are no trees on this hill. If a tree's roots go down more than a foot, they pierce into the poisoned earth and that tree dies. On the nights when the Apples of Twilight can be harvested, this makes the trees on which they grow, which rise to mature height and crumble away in the course of a single night, particularly noticeable.
 
-# *Alternative Locations*
+# Alternative Locations
 
 The Romans used lead for so many things that they mined it wherever they could find it, provided they had sufficient slaves. The Romans knew that being raised in a town where lead was mined caused retardation in children, and that many lead miners were driven insane by their tasks. Free men refused to mine it, so the limiting factor in lead mining was a lack of miners, rather than a shortage of sites.
 
@@ -3100,7 +3100,7 @@ Several other sites are suitable for the stories presented here. Rio Tinto, in t
 
 Rio Tinto, like the Mendip Hills, ceased to be mined for lead after the Romans withdraw, for no clear historical reason. If using this location, the Silver Lady might similarly have slaughtered the miners. Her motivation may differ. Some portions of the area are named for King Solomon's mines, and were colonized by the Phoenicians. Either empire may have buried a magician king here, and had his grave disturbed by miners.
 
-# *Aura*
+# Aura
 
 The battlefield has a Magic aura of 5. Although it lacks a Faerie aura, local stories call the place haunted, and many of the darker faeries of the region claim to dwell in a court here. Similarly, although there is not yet an Infernal aura on this site, many local demons are aware of the value of its soil in the commission of sin. It can be used for murder, but its also an abortifacient. It's not safe, but that hardly matters to the forces of darkness.
 
@@ -3116,7 +3116,7 @@ What the faeries do not say is that there is a second great working. It was writ
 
 Averna placed a sadistic ward about the inscription and ink. Averna's *Watching Ward* contains a spell (PeCo 40) that causes a human body to explode into a pile of maggots over the course of a minute. A second spell, in a linked Ward on the roof, speeds up the thoughts of the victim, so that time seems to stop around them. They are unable to move while, over a period of several subjective days, they are consumed by larvae. Each spell has a Penetration of +20. These *Watching Wards*  only work once, so unscrupulous player characters can disarm them by just throwing a victim into the cave.
 
-# *Vis*
+# Vis
 
 There are several odd sources of vis on, or near, the battlefield. Further sites in Somerset are listed in the chapter on Bath.
 
@@ -3212,7 +3212,7 @@ A pseudoelemental is a creature superficially similar to an elemental, as descri
 
 **Abilities\*:** Area Lore: Poisoned Land 4 (poisoned places), Athletics 4 (run), Aware-
 
-# *Inhabitants*
+# Inhabitants
 
 ness 4 (humans), Brawl 6 (pseudopod), Penetration 4 (Terram).
 
@@ -3469,7 +3469,7 @@ Averna's hogs could be adapted as player characters. The current Pretense list i
 **Pretenses:** Athletics 5 (dangerous stunts), Area Lore: Mendip Hills 3 (hiding
 
 
-# *Inhabitants, cont'd.*
+# Inhabitants, cont'd.
 
 places), Awareness 5 (mortals), Brawl 5 (knives), Hunt 3 (humans), Stealth 3 (the poisoned lands).
 
@@ -3632,7 +3632,7 @@ Every night for the 76 days of the pilgrimage season (see A Destination for Pilg
 
 
 
-# *What You've Heard*
+# What You've Heard
 
 If the character has Organization Lore: Church and is familiar with the Irish Church (through a specialty, or from being raised in Ireland for example), he can substitute this Ability for Area Lore. Characters with Area Lore: Purgatory receive a +3 bonus to this roll.
 
@@ -3667,7 +3667,7 @@ If the character has Organization Lore: Church and is familiar with the Irish Ch
 
 Inishnaoimh for the ritual. Blank lots are inserted into a bag along with those bearing the names of the hopeful. The drawing of the lots is blessed by Brother Bressal (see Insert), which causes the most worthy or the most needy to be chosen; if none fill that criterion, or if patience would prove to be instructive, then the canon draws one of the blank lots and no-one is chosen that night. Pilgrims who have undertaken the journey together can choose to enter a single lot for the entire group, in which case they all undergo the ritual together if they are chosen. Non-Christians are not prevented from entering Purgatory, but many would consider it irreligious and disrespectful to do so.
 
-# *The Cave on Saint's Island*
+# The Cave on Saint's Island
 
 The aura on Inisnaoimh is an Empyreal aura of level 4. Empyreal auras (*Realms of Power: the Divine*, page 7) are Divine auras that do not derive from worship.
 
@@ -3709,7 +3709,7 @@ Regardless of the apparent passage of time, living characters returning to the m
 
 hinder the characters (see Inhabitants, later), but some still retain a measure of their former life.
 
-# *The Vision of Hell*
+# The Vision of Hell
 
 *Then said the knight, "I fear you not, I give me to Him that had me wrought." Then the fiends made a fire anon of black pitch and brimstone, they cast the knight therein to burn, and all began on him to gurn [=grin]*.
 
@@ -3723,7 +3723,7 @@ In the hall, characters are greeted by a man dressed in a black robe like the Au
 
 
 
-# *Brother Bressal*
+# Brother Bressal
 
 **Characteristics:** Int +2 (2), Per +1, Pre 0, Com +1, Str –1 (1), Sta +3 (1), Dex 0, Qik 0
 
@@ -3811,7 +3811,7 @@ In the Field of Nails, tormented figures lie face up, pinned down by red hot nai
 
 Here, men and woman are hanging by various body parts from hooks, some of which descend from the sky, others are attached to stakes rising from the bloodsoaked soil. Some hooks are attached to vertical iron frames, and Iurgatores stoke the flames beneath them, making the iron glow
 
-# *Tartaran Regiones*
+# Tartaran Regiones
 
 (Summarized from *Realms of Power: the Infernal*, pages 16–17)
 
@@ -3857,11 +3857,11 @@ The horrors of Purgatory culminate with terrible and immense beasts bearing sixt
 
 The Boiling River flows through a deep gorge and into the mouth of a monstrous and hideous beast the size of a mountain. This is the entrance to Hell. It is guarded either side by two seraphim (*Realms of Power: the Divine*, page 21), placed there by God to prevent the egress of damned souls and demons alike. The fact that there are demons on earth suggests that this security is insufficient; nevertheless these mighty angels discourage with extreme prejudice anyone trying to enter or leave Hell.
 
-# *The Bridge to Paradise*
+# The Bridge to Paradise
 
 There is a single bridge that crosses the Boiling River. The characters are told by his monk-like guides that this is the bridge to Paradise. They step back, because they cannot follow him, or force him to cross. The bridge is carved out of the naked rock, and is knife-thin. It appears to be hundreds of yards across, and the river descends into a
 
-# *The Furnace*
+# The Furnace
 
 The Furnace underneath the House of Flame and Smoke is the source of all of Purgatory's flames. Its slag heats the Boiling River (see later) and flows into Hell. The Furnace is constantly stoked by the Iurgatores, and Xaphan, the Forge-Man of Hell (*Realms of Power: the Infernal*, page 76) is occasionally found here. Anything can be used as fuel, although souls are the most common commodity. The Furnace has a curious transmogrifying effect; certain things burnt within it are changed rather than consumed. If vis of any Art is thrown into the Furnace it can be retrieved as Ignem vis. Enchanted devices emerge untouched, but with their powers changed into Ignem effects of the same level. Mortals find that
 
@@ -3869,7 +3869,7 @@ one of their Virtues or Flaws is exchanged for a different Virtue or Flaw, with 
 
 
 
-# *The Mirror of Souls*
+# The Mirror of Souls
 
 Somewhere in the Abyssal Pit is a mirror that reveals the true face of anyone whose name is spoken. Having revealed the face, the viewer can then broaden the view to scry upon the person and his immediate environs. The Mirror actually works on any Sympathetic Connection, not just a name, and can even be used to find earth-bound demons. It can also find people in Purgatory, but not if they are in Heaven or Hell. Pasiel (see later) occasionally uses the Mirror to locate missing souls.
 
@@ -3883,7 +3883,7 @@ Those setting forth on the bridge might not fancy their chances; it is narrower 
 
 Anyone falling from the Bridge to Paradise appears to plunge into the Boiling River, but is actually transported through the regio boundary out of Purgatory and back into the cave on Inisnaoimh.
 
-# *The Vision of Heaven*
+# The Vision of Heaven
 
 *It was green, and full of flowers, of many diverse colors; it was green on every side as meadows are on summer's tide. […] There they have the tree of life, Therein the mirth, and never strife; […]There was no wrong, but ever right. Ever day and never night. There shone as bright and more clear, Than any sun in the day does here.*
 
@@ -3914,7 +3914,7 @@ Any soul, such as a character's friend, can remind the characters that this is n
 
 The guide suggests that the characters go to the top of a mountain and look up into the sky, which is the color of gold burning in a furnace. Here, at the entrance to Heaven, the character receives a taste of heavenly food. A flame descends from the sky and encloses every person and enters them, suffusing body and heart with a sweet sense of delight. It seems like this moment lasts forever. At this point, the character should be rewarded with the desired outcome of his
 
-# *The Fountain of Youth*
+# The Fountain of Youth
 
 Near the shores of the Boiling River is a grove of black poplars. In the grove is a white marble fountain, a place of calm within the tumult of Purgatory. Dead souls occasionally find this place by accident and enjoy its balm before they are summoned back to their place of punishment. Demons do not enter here voluntarily, although they are not prevented from doing so. Mortal souls who drink of the water can restore their youth and rid themselves of warping. A single mouthful can remove up to 3 points of Decrepitude (and associated aging points) or 3 points of Warping Score, or some combination of the two. The character also subtracts 30 years from her Apparent Age, or is reduced to an Apparent Age of 15, whichever is older. Finally, all drinkers acquire the Unaging Virtue. It is only possible to benefit from the Fountain's power once in a lifetime.
 
@@ -3926,12 +3926,12 @@ pilgrimage to the Purgatory of Saint Patrick. This outcome was decided when the 
 
 It is a true wrench when the guide tells the character it is time to go back. She promises that if he lives well, he will return to this place when he dies. She then leads him back to the gate, and shuts it behind him; the character finds himself once more in the cave on Inisnaoimh.
 
-# *Variants: Alternative Locations*
+# Variants: Alternative Locations
 
 The Purgatory of Saint Patrick is a unique phenomenon in Mythic Europe. Al-
 
 
-# *Celestial Regiones*
+# Celestial Regiones
 
 (Summarized from *Realms of Power: the Divine*, pages 14 – 15)
 
@@ -3963,7 +3963,7 @@ This is a curiously circular lake on the Bay of Naples in the Roman Tribunal. Th
 
 For obvious reasons, volcanoes commonly attract legends about entrances to
 
-# *Which Earthly Paradise is This?*
+# Which Earthly Paradise is This?
 
 Medieval lore recounts that there are two paradises: the Heavenly Paradise, which is the Divine Realm, and the Earthly Paradise, home of the *boni non valde*. The Earthly Paradise is often equated with the Garden of Eden. In the legend of the Purgatory of Saint Patrick, the Earthly Paradise attained by Sir Owain was not the Garden of Eden, and so it has not been considered to be so here. The Garden of Eden has already received a thorough description for **ArM5** (*Ancient Magic*, pages 18–23); if you want to integrate the two into one, then the Garden of Eden lies within the Earthly Paradise, in a Celestial regio of level 10. Other entrances to Eden also exist, but from any direction are guarded by two cherubim with flaming swords.
 
@@ -3971,7 +3971,7 @@ though there are other supposed gateways to Purgatory or Hell, none are historic
 
 Hell, and some of these legends are true although those wishing to visit Hell must pass through Purgatory first. Mount Etna may be the home of magic spirits, but it is a vast fire mountain, and can easily have a gateway into Purgatory underneath one of the many shrines on its flanks. Volcanoes are discussed in more detail in *Hermetic Projects* (Chapter 2).
 
-# *Inhabitants*
+# Inhabitants
 
 The principle inhabitants of Purgatory are the demons who inflict the punishments upon sinners. However, characters may also catch a glimpse of the ruler of Purgatory, an Angel of Punishment called Pasiel. Remember that in Purgatory all demons get a +8 bonus to their Magic Resistance and Penetration Totals from the aura (**ArM5**, page 183).
 
@@ -4024,7 +4024,7 @@ If it is possible to retrieve a soul from Purgatory or Paradise, then as she lea
 The Purgatory of Saint Patrick is perhaps best introduced to a saga in its basic form, a place of pilgrimage and moral correction through example. If the location is intended for a future role in a story, then the player
 
 
-# *Iurgatores*
+# Iurgatores
 
 **Order:** Accusers
 
@@ -4074,7 +4074,7 @@ The Purgatory of Saint Patrick is perhaps best introduced to a saga in its basic
 
 characters can be appraised of the function of the canons on Inishphadraig, the process of drawing lots, and the ritual burial ceremony on Inishnaoimh, even if they don't undergo the ritual themselves.
 
-# *A Destination for Pilgrimage*
+# A Destination for Pilgrimage
 
 Most visitors to the Purgatory of Saint Patrick do so as the culmination of a pilgrimage. A pilgrimage is more than a simple journey; it is a journey undertaken specifically to petition God, usually for the remission of sins. Pilgrimages are times of physical and spiritual testing, which takes the form of Oppositional Elements that try the character of the traveler. The last of these Oppositional Elements is provided by the Purgatory itself. A pilgrimage can be undertaken for more than just penance. It can be akin to a Divine form of Initiation; a quest to acquire a supernatural Virtue aligned to the Divine Realm, or removal of a curse from any realm. See *The Church* pages 16–19 for more details of Pilgrimages and Oppositional Elements.
 
@@ -4196,7 +4196,7 @@ After a pilgrimage to Purgatory, a person has begun to act in an uncharacteristi
 
 If a different soul returned, it may be that of any individual that could conceivably be in Purgatory — a vanquished enemy, a historical tyrant, or a Marched magus; someone not evil enough for Hell, but maybe only through the lack of opportunity. Now she has a second chance to complete what was left unfinished.
 
-# *Sources*
+# Sources
 
 The Vision of Hell and Heaven described in this chapter is based mostly on a Middle English poem called *Sir Owain*, written at the end of the thirteenth century by an anonymous author. It was based on the *Tractatus* of H., but changed the central character from an Irish monk into the eponymous Northumbrian knight. Details from the *Tractatus* were also used, along with other examples from the otherworld journey literature of the medieval period, such as the Visions of Tundal, Thurkell, and Gunthelm. The quotes come from *Owayne Miles* ("Knight Owain"), a later poem of the same story.
 
@@ -4215,7 +4215,7 @@ Characters condemned to Hell or who have gone straight to Heaven cannot be saved
 
 Upon entering Purgatory, the characters must be able to find the desired soul amongst the countless damned, and then free her from her torments. This attracts the attention of Pasiel, who opposes any group abducting one of its subjects. Securing a soul from the Earthly Paradise could be even harder, since the soul is probably unwilling to leave: who would exchange endless bliss for the mundane world? Shamshiel opposes any egress of souls through Paradise's gates, and Pasiel cannot tolerate a blessed soul in its realm. This would be a once-in-a-lifetime story, given the rewards if it is successful.
 
-# *Researching the Purgatory of Saint Patrick*
+# Researching the Purgatory of Saint Patrick
 
 The eleventh to thirteen centuries is a time of flowering of literature recounting otherworldly journeys to Purgatory and the Earthly Paradise. Many of these stories are told in a vernacular language rather than Latin. The principle, and most widely available sources are:
 
@@ -4266,11 +4266,11 @@ Various, *The Annals of Mercury* (Summa, Organization Lore: Cult of Mercury, Qua
 
 Mercere, *Roman Astrological Correspondences of Mercury* (Tractatus, Artes Liberales (astronomy), Quality 9). This book, supposedly written by the Founder Mercere, contains a horoscope for Augustus' investiture as a priest of Mercury. A character who knows the exact date of this investiture can use this horoscope to back-calculate the location of the temple (Intelligence + Artes Liberales (astronomy) roll against an Ease Factor of 9). The exact date is given in the *Edicts of Augustus* and in *The Annals of Mercury.* This book is rare, but it is known of outside the Order.
 
-# *Story Seed: The Past Lives of Stones*
+# Story Seed: The Past Lives of Stones
 
 While in a church the player characters notice that one of the wall carvings curiously depicts the Roman god Mercury waiting behind a kind of archway. Inspection reveals the stone carving is in a different style to others in the church, which all illustrate biblical scenes. In fact, the carving is a piece of the triumphal arch that leads to the temple of Mercury (see later), which has been recovered and reused on the church.
 
-# *What is Known about the Fallen Temple of Mercury?*
+# What is Known about the Fallen Temple of Mercury?
 
 Characters with the Organization Lore: Order of Hermes, or Cult of Mercury or Roman Empire or similar have some knowledge of the Temple of Mercury. This includes almost all magi.
 
@@ -4307,23 +4307,23 @@ If other magi already know the location of the temple, it is possible that other
 
 Do the player characters realize the significance of this find? Do the church records note where the stones for the church came from? The stone source may be close by and known of by the parishioners. Perhaps an Intellego Terram spell can reveal the history of the curious stone carving.
 
-# *Story Seed: A Vision of an Empty Temple*
+# Story Seed: A Vision of an Empty Temple
 
 A pagan player character receives a vision of the abandoned temple of Mercury and, standing within, a headless statue of Mercury. The vision either indicates a route to the temple, or hints about books that can reveal the location.
 
 Does the character follow up on the vision? What do his Christian colleagues think? Do the visions increase in urgency if the character delays?
 
-# *Story Seed: One Step Forward*
+# Story Seed: One Step Forward
 
 The player characters discover an ancient, functioning Mercurian portal which leads to a quiet meadow scattered with bits of ruined stone architecture. There is a faint Magic aura (level 1) in the area.
 
 This is the ruined triumphal arch (see later). Do the player characters recognize what the ruins are? Can one of the characters see into the temple regio? The portal only leads in one direction; can the characters find their way back to the covenant?
 
-# *The Fallen Temple*
+# The Fallen Temple
 
 The ruined temple complex is in a regio. The regio is entered by passing through the triumphal arch (see later). The arch is itself ruined and must therefore be repaired before the regio can be entered.
 
-# *Where is the Temple?*
+# Where is the Temple?
 
 When the original temple was founded by Julius Caesar, Rome either controlled or was in contact with most of Mythic Europe. The temple can be easily located within the territory of the late Roman Republic which includes most of the Greater Alps, Iberian, Levant, Normandy, Provençal, Roman, and Theban Tribunals, and (outside the normal territory of the Order), parts of North Africa. The temple might be located along an old Roman road or near a city that was originally a Roman colony. It may even be within an old Roman settlement, perhaps even Rome itself.
 
@@ -4331,7 +4331,7 @@ However, in your saga the temple does not really need to be within the normal fr
 
 Choose a place that makes sense for your saga.
 
-# *The Triumphal Arch*
+# The Triumphal Arch
 
 The Romans constructed stone triumphal arches over the major entrances to towns and, in large cities, over the entrance ways to important civic spaces, such as forums, and over the intersections of important roads. Triumphal arches were dedicated to generals (or later the emperor) responsible for important military campaigns, and were usually illustrated with carvings to remind the citizens who passed through the arch how glorious Rome and her leaders were.
 
@@ -4350,7 +4350,7 @@ The important criteria for the arch are the astrological position, orientation, 
 
 ers to use. An arch created of exotic material (such as bone, ice, smoke, flames, and so on) is also effective.
 
-# *The Town Beyond the Arch*
+# The Town Beyond the Arch
 
 Passing through the arch, and into the temple regio (magic aura of 5), characters enter what is effectively a Roman town. The town is uninhabited and ruined although, eerily, it is not very badly damaged. A few buildings appear damaged by fire and others appear to have been torn into rubble by powerful and violent forces. Parts suffer from storm and water damage. However, in other buildings wooden floors and furniture still survive.
 
@@ -4402,7 +4402,7 @@ The basilica is a large three storied building that has a central domed hall fla
 
 **Correspondence Office:** This office contains correspondence between the priests of
 
-# *Story Seed: The Beast in the Maze*
+# Story Seed: The Beast in the Maze
 
 The labyrinth of cages and passages beneath the arena once housed lions, tigers, and other exotic beasts that were used to stage bloody arena battles. These are now all nothing but piles of bones and teeth, but one immortal arena beast remains. This magical gladiator-creature is a minotaur. The minotaur has forgotten his life before he was captured to fight in the arena, and even the functioning arena is now only a dim incoherent memory. Over the lonely centuries the minotaur has explored most the town, but he still makes his lair in the broken ruins of the labyrinth beneath the arena.
 
@@ -4467,7 +4467,7 @@ information for the merchants entering the town. Goods from all around the empir
 
 The "books" in the basilica office take the form of sequences of scrolls, and many are scattered. It takes several days to assemble all the books, and some scrolls may be missing.
 
-# *The Annals of Mercury*
+# The Annals of Mercury
 
 *The final, short entry in the annals reads: "We thought that we would go on forever."*
 
@@ -4492,11 +4492,11 @@ The actual temple to Mercury is a large structure, built on top of a podium with
 
 Hermetic investigation (for example, with Intellego Terram) reveals that the statue was decapitated hundreds of years ago; probably at about the time that the town was abandoned. The statue can be reconstructed either through Creo Terram rituals or the work of mundane craftsmen.
 
-# *The Mercurian Rituals*
+# The Mercurian Rituals
 
 The Library in the Basilica contains a number of Mercurian Ritual Lab Texts. These are written in Latin and with difficulty (the texts must be translated into Hermetic terms) can be used to reinvent Hermetic versions of the rituals.
 
-# *Reading the Mercurian Rituals*
+# Reading the Mercurian Rituals
 
 Any character who can read Latin and has a score in Magic Theory can discern from the Lab Texts roughly what each Mercurian ritual
 
@@ -4506,7 +4506,7 @@ is for. It takes a day to study each Lab Text in this way, and the character lea
 
 Briefly reading the Mercurian Lab Texts in this way does not allow the character to cast the ritual or even use the Lab Text to reinvent the ritual. This is because the Lab Texts are non-Hermetic and must be translated into Hermetic terms before use. This brief reading can however be used by the character to judge whether the translation effort would be worthwhile.
 
-# *Learning the Mercurian Rituals*
+# Learning the Mercurian Rituals
 
 As Bonisagus based Hermetic magic partly on Mercurian magic it is relatively straightforward for magi to use these Laboratory Texts to reinvent the rituals. The procedure is:
 
@@ -4514,13 +4514,13 @@ As Bonisagus based Hermetic magic partly on Mercurian magic it is relatively str
 - Translation of the Mercurian rituals requires a laboratory. If the character chooses he can experiment (**ArM5**, page 107), which may change the ritual slightly, but not in a predictable manner.
 - For each season of translating the Mercurian Laboratory Text, the character accumulates a number of points equal
 
-# *Vis Source: The Aqueduct Spring*
+# Vis Source: The Aqueduct Spring
 
 The water source for the aqueduct is a distant mountain spring. This is an Aquam vis source. The first gallon of water to bubble up at the dawn of Summer Solstice contains the vis. It takes about four and half hours for this water to travel down the aqueduct to the town (if the aqueduct is functional). The vis can be collected either at the source, or at the town, or somewhere in between.
 
 The source provides 5 pawns of Aquam source per year. Adjust this total depending on how significant the troupe wants this source to be, and the size of the vis economy in your saga.
 
-#### *Ars Magica Supplement Mythic Locations*
+#### Ars Magica Supplement Mythic Locations
 
 to tthe amount by which his Lab Total in the appropriate Arts of the ritual exceeds the level of the ritual. When the character has accumulated points equal to twice the level of the ritual he has translated it. This process produces a Hermetic copy of the ritual. These rules mean that in order to translate a Mercurian ritual the magus must have a Lab Total greater than the ritual level. In order to translate the ritual in a single season, the magus requires a Lab Total equal to three times the ritual level.
 
@@ -4534,15 +4534,15 @@ The aqueduct's water source is already claimed as a vis source by the magi of an
 
 • Each Mercurian ritual must be translated separately. However, if the character has translated some Mercurian rituals, he receives a bonus to subsequent translation Lab Totals equal to the highest magnitude of the Mercurian rituals he has already translated. This bonus does not apply to the Lab Total for invention; it only applies to the translation.
 
-# *Casting the Mercurian Rituals*
+# Casting the Mercurian Rituals
 
 Once a magus has translated and invented the Mercurian rituals he can cast them as if they were Hermetic rituals of the appropriate Arts. The effects may be dispelled as if they were Hermetic. However, the rituals obviously have a non-Hermetic origin to any observer who has an Ability Score in Magic Theory.
 
-# *Hermetic Versions of the Mercurian Rituals*
+# Hermetic Versions of the Mercurian Rituals
 
 These rituals can be recovered and reinvented as Hermetic rituals by following the process of translation and invention.
 
-# *Project: The Wizard's Aqueduct*
+# Project: The Wizard's Aqueduct
 
 another vis source.
 
@@ -4778,7 +4778,7 @@ Note that this ritual does not need to Penetrate to have an effect.
 
 **MuVi** 5, **MuVi** 10, and **MuVi** 20 **R:** Voice, **D:** Momentary, **T:** Group
 
-# *Story Seed: Integration of the Mercurian Rituals*
+# Story Seed: Integration of the Mercurian Rituals
 
 The magi could embark upon an integration breakthrough (see *Ancient Magic* page 7, or *Hedge Magic: Revised Edition* page 14) to fully incorporate the guidelines behind these Mercurian rituals into Hermetic magic. If this is done versions of these rituals with new Ranges, Durations, etc could be developed.
 
@@ -4792,7 +4792,7 @@ Apart from a functioning *Wizard's Initiation* (discussed elsewhere) the followi
 
 The rituals might also integrated to "discover" the Mercurian Magic Virtue (**ArM5**, page 46). This requires 45 Breakthrough points.
 
-# *Saga Seed: The Failure of the Wizard's Initiation Ritual*
+# Saga Seed: The Failure of the Wizard's Initiation Ritual
 
 The *Wizard's Initiation* ritual does not work. To Hermetic eyes, there does not seem to be anything wrong. It just fails when cast.
 
@@ -4822,11 +4822,11 @@ Obviously, as *Wizard's Communion* already exists in the Hermetic repertoire the
 
 (Base Effect, non-Hermetic)
 
-# *Opponents*
+# Opponents
 
 As described, the temple of Mercury is relatively empty of inhabitants and is undiscovered. The intention is that this allows the troupe the space to tell the story of how the player characters react to and interact with the location. However, some story seeds that provide opponents who could also try to interact with the location, and thus interfere with the player character's plans, include the following.
 
-# *Story Seed: A Rival Expedition*
+# Story Seed: A Rival Expedition
 
 A group of young magi, and their retainers, independently discover and arrive at the temple to Mercury. These magi have either discovered a portal that leads to the heart of the temple town, or have discovered the regio entrance. The young magi are seeking Mercurian rituals, which they plan to recover, translate, and adapt to Hermetic casting methods. The expedition also considers founding a new covenant (or chapter house) at the site, especially after the importance of a consecrated temple of Mercury to many of the rituals is realized.
 
@@ -4836,12 +4836,12 @@ characters are absent, the young magi may not realize that others have discovere
 
 Use a selection of the magi templates in **ArM5** (page 24–28) to represent the young magi. The expedition could be acting on orders or guidance from older magi at a distant covenant. The distant covenant may even be in a different Tribunal.
 
-# *Story Seed: The Dead Amongst Us*
+# Story Seed: The Dead Amongst Us
 
 There is no graveyard within the town, and there are no bodies to be found. This is strange, but could be for a number of reasons. Perhaps the dead were removed at some point, or have decayed to dust, or maybe the graveyard is outside the regio (beneath a field near the ruined
 
 
-# *Rules for Ghosts*
+# Rules for Ghosts
 
 See *Realms of Power:Magic* pages 115– 118 for rules concerning characters who
 
@@ -4861,7 +4861,7 @@ The necropolis regio (Magic aura 7) is identical to the temple regio (that is, i
 
 As it is so long since the temple was occupied that even the ghosts of the Roman priests and citizens have departed. However, the necropolis may contain the ghosts of others (including magi) who have found, and died within, the temple in the last few centuries. This could include a Founder.
 
-# *Story Seed: The Cult*
+# Story Seed: The Cult
 
 The temple location is already known to a Mystery Cult, and traveling to the temple to perform rites in the forum, bath, and temple is an important component of the cult's Initiation rituals.
 
@@ -4869,7 +4869,7 @@ An Initiate of the Mystery Cult arrives at the temple to perform a ritual, and i
 
 The Mystery Cult need not be directly connected to Mercury, as the temple site is a place of magic power that could be important to the cult for other reasons. For example, if the temple is located in the Rhine (beyond the normal territory of the Roman republic) then the site could have previously been important to the Germanic cults that eventually became House Bjornaer. This could then mean that the Roman construction of the temple of Mercury on this site (denying it to the Germanic priests/ shape-shifters) was originally an early move in Rome's attempts to conquer Germania.
 
-# *Returning to the Temple*
+# Returning to the Temple
 
 The temple can become a recurring location for the saga in the following ways:
 
@@ -4930,7 +4930,7 @@ The faerie toy market follows a central twisting lane (Devil's Lane) from which,
 The entire market is a Faerie regio (aura level 6).
 
 
-# *Flying Down Devil's Lane*
+# Flying Down Devil's Lane
 
 Characters with the capability may fly within Devil's Lane. However, there is a thick dome of turbulent gray-black cloud hovering about 100 paces above Devil's Lane, which extends down to touch the buildings at the edge of the lane. The swirling dome of cloud-cover is impenetrable, thus it is impossible to fly in or out of the regio, except through the normal alleyways.
 
@@ -4938,7 +4938,7 @@ Sometimes the clouds loose a barrage of rain or hail, but usually the lane is dr
 
 Characters with powerful Perdo Auram effects may be able to, at least briefly, clear the sky above Devil's Lane. If so, the storyguide needs to consider whether there is an aerial regio entrance, and where it leads to.
 
-# *Devil's Lane*
+# Devil's Lane
 
 The heart of the faerie market is Devil's Lane. This street, cobbled with oily black stones, snakes back and forth upon itself, and is lined with rickety timber and redbrick twostory buildings. Many of the buildings have balconies, brightly-dyed canvas awnings, or protruding upper floors that extend out over the street to almost touch their opposite neighbors. Thus, in places, Devil's Lane is more of a dark tunnel than an open street.
 
@@ -4946,7 +4946,7 @@ The length of Devil's Lane is about 150 paces, but due to its zigzag geometry li
 
 Devil's Lane has two ends. One is called Upside and the other Downside, and, due to the zigzag geometry, the two ends meet. Devil's Lane is thus a loop and a character who walks to the furthest extent of Upside finds himself at the beginning of Downside (and vice versa).
 
-# *The Alleyways*
+# The Alleyways
 
 Extending out of Devil's Lane are a dozen narrow, brick alleyways, each named after a city (apart from one nameless alley). The alleyways are one pace wide and 20 paces long. On the wall of each alleyway is a slate board that lists the guild rules in Latin (see Market Guild).
 
@@ -4968,7 +4968,7 @@ Many within the Order of Hermes know that there are multiple urban entrances to 
 
 A few magi know that Devil's Lane is a bridge between hell and the faerie realm. Merinita and infernalist magi both have a +3 bonus to this roll
 
-# *What is Known About The Faerie Toy Market?*
+# What is Known About The Faerie Toy Market?
 
 Characters with Area Lore: City Abilities (for the cities that contain entrances to Devil's Lane), or Faerie Lore may know of Devil's Lane and the Faerie Toy Market.
 
@@ -4984,7 +4984,7 @@ The existence of the Devil's Lane faerie toy market is obscure but mundane knowl
 
 Within the Order of Hermes it is widely known that there is a Merinita cov-
 
-# *Story Seed: Civic Reconstruction*
+# Story Seed: Civic Reconstruction
 
 Cologne and Constantinople alleyways are inaccessible because reconstruction in the respective cities has destroyed the regio entrances city-side. The members of the market guild council are aware that this is the cause and might commission the player characters to solve the problem (with payment in vis). However, the guild councilors are canny and do not immediately offer a commission to curious characters. The councilors surmise that magi sufficiently curious to ask about the bricked up alleyways may well try to fix the entrances on their own initiative (at no cost to the guild).
 
@@ -4995,11 +4995,11 @@ high above street level. Nothing prevents travel from Devil's Lane to city-side.
 
 The alley wards have no Penetration, and thus do not keep out most magi (or others with Magic Resistance). The wards also do not keep out mundane or magical animals (including familiars). To Hermetic Intellego Vim investigation the wards are constant, faerie effects of magnitude four, analogous to Corpus, and can be dispelled. However, if dispelled the wards reappear at the next dawn or dusk (whichever is next). It is not clear whether specific faeries cast the wards or they are a "natural" feature of the regio.
 
-# *The Rat Pack*
+# The Rat Pack
 
 The streets of Devil's Lane teem with a large tribe of vicious faerie blooded rats. There are thousands of rats in the rat pack; some originate from city-side, but many rat generations have been born within Devil's Lane too.
 
-# *A Street Directory*
+# A Street Directory
 
 The following alleyways lead from Devil's Lane:
 
@@ -5032,15 +5032,15 @@ If a rat is killed or incapacitated, the surviving members of his group attempt,
 
 If engaged in combat by foes larger than Size –3 the rat pack immediately breaks and flees down filthy drains, and scuttles into narrow nooks. Apart from spells (or other supernatural powers), there is little that can stop the rats from fleeing.
 
-# *The Merchants*
+# The Merchants
 
 Dozens of faerie merchants sell toys from cramped and crowded stores at the market. Most merchants are nearly human faeries, some are mortals with faerie blood, and a few
 
-# *Story Seed: At The End of Upside*
+# Story Seed: At The End of Upside
 
 Those who know the correct way of walking can enter the Faerie Realm by walking along Devil's Lane to the end of Upside. Player characters (Perception + Awareness roll against an Ease Factor of 15) may notice that some faeries appear at Upside; in addition, characters with Second Sight (or *Piercing the Faerie Veil*) can see that Upside is an entrance to the faerie realm. However, even characters who can see the regio boundary must be guided through it by a native inhabitant of the Faerie Realm.
 
-# *Story Seed: From Downside*
+# Story Seed: From Downside
 
 Walking down Devil's Lane to the end of Downside is a method of traveling to and from Hell. This is the origin of the lane's name and a legend claims Devil's Lane is Satan's personal bridge to the Faerie Realm. Why Satan would need a bridge to the Faerie Realm is unexplained, in legend.
 
@@ -5050,7 +5050,7 @@ Although it is only open for a moment, hundreds of minor demons (usually in imma
 
 
 
-# *Market Rules*
+# Market Rules
 
 - Anyone may purchase from the market.
 - All merchants must be members of the guild in good standing, as determined by the guild council.
@@ -5070,7 +5070,7 @@ The main currency of exchange is vis (discussed later).
 
 If you have access to it, any faerie creature from *Realms of Power: Faerie* may be used as a merchant; if the character lacks it give him a Bargain Pretense of 3 to 7, depending on how competent a merchant he is (not all the merchants are competent!). Game statistics are also given for a typical merchant, Walter the Book Merchant ― vary his statistics as required to represent other merchants.
 
-# *Market Guild*
+# Market Guild
 
 The faerie merchants belong to a guild, which sets and enforces the market rules (see insert). The market rules are written in Latin on slate boards mounted on the (lane-side) walls of each of the alleyways that lead into Devil's lane. If the slate boards are stolen or defaced they are replaced within a day. Removal of the written rules does not have any impact on their validity.
 
@@ -5094,7 +5094,7 @@ The guild council has five members. Votes are carried by a simple majority and q
 
 he is a guild member). He is a large, sleek black wolf who silently slinks up and down Devil's Lane policing the guild rules. If you need game statistics for Felix use Tarlan the Wolf (**ArM5**, page 195).
 
-# *Buying Toys*
+# Buying Toys
 
 The faerie merchants sell toys for the number of pawns of vis required to create it plus one pawn. Items that are sixth magnitude or higher effects cost an addition pawn of vis again. Charged items cost a minimum of one pawn of vis per charge. Mundane items cost 1 pawn of vis.
 
@@ -5104,18 +5104,18 @@ The merchants do not flatly name a price in vis, but rather request an unusual p
 
 The merchants do not care what Form the vis is, and accept vis tainted by any realm.
 
-# *Commissioning Toys*
+# Commissioning Toys
 
 If the player characters wish to commission a toy (rather than buy something premade), then the bottom-line price is twice the vis cost and this must be of an appropriate Art type to create the item. The initial price is four times the vis cost. The price for commissioned items must be paid upfront.
 
 See What Can Be Made? for further information.
 
-# *Limited Life-Time*
+# Limited Life-Time
 
 The toys are faerie glamour that the faeries "pretend" operate like Hermetic effects. As the toys are glamour, eventually the faerie magic fades and the toy ceases to work. All the toys, therefore, only last for seven years after purchase. Even those toys which are presented as charged items must be used within this time-frame. If questioned about this the merchants' mutter something about a "limited warrant of effect."
 
 
-# *Devil's Lane Goblin Rats*
+# Devil's Lane Goblin Rats
 
 **Characteristics:** Cun +1, Per +1, Pre –2, Com –5, Str –11, Sta +1, Dex +2, Qik +5
 
@@ -5143,7 +5143,7 @@ The toys are faerie glamour that the faeries "pretend" operate like Hermetic eff
 
 **Appearance:** Black matted fur, vile yellow eyes, and a thick prehensile tail.
 
-# *The Toys*
+# The Toys
 
 The following toys are indicative of the what is available from the merchants. The troupe should feel free to devise more toys. The base price is given for each toy. The default offer price is twice this.
 
@@ -5161,7 +5161,7 @@ The liquid in this vial is mixed into water, which becomes sparkling and glitter
 
 Each dose can affect up to a large barrel worth of water.
 
-#### *Ars Magica Supplement Mythic Locations*
+#### Ars Magica Supplement Mythic Locations
 
 (Effect: Base 4, +1 Touch, +2 Sun) (10 pawns, for 10 doses)
 
@@ -5366,7 +5366,7 @@ Note that this magic beer has no real nutritional value (the drinker is thirsty 
 
 
 
-# *Story Seed: Negotiating with the Workshop*
+# Story Seed: Negotiating with the Workshop
 
 The player characters may try to negotiate directly with the workshop foremen elves. Negotiations need to be kept secret from the merchant faeries, who consider this an infringement of the market guild rules. The foremen elves don't want vis, but instead try to negotiate some of the following conditions for themselves and the workers. Each of these demands requires a story (an advantage for both the faeries and your troupe):
 
@@ -5512,7 +5512,7 @@ This effect moves the puppet at the puppeteer's direction. If the skill of this 
 
 (Effect: Base 4, +1 Concentration; +5 item maintains Concentration, +10 unlimited uses, +3 Linked trigger)
 
-# *Worker Elves*
+# Worker Elves
 
 **Faerie Might:** 5 (Vim)
 
@@ -5550,7 +5550,7 @@ Unfortunately, while the elaborate hats allow the elves to tell each other apart
 
 Note that the elves cannot speak but can understand human languages.
 
-# *Leaden, Iron, and Tin Cords*
+# Leaden, Iron, and Tin Cords
 
 These special familiar cords are created between faerie familiars and their master (in addition to the normal gold, silver, and bronze cords; see *Houses of Hermes*: *Mystery Cults*, page 90). Briefly, the special faerie cords are required to balance the normal familiar cords and have the following negative effects (on both the magus and the familiar):
 
@@ -5561,7 +5561,7 @@ These special familiar cords are created between faerie familiars and their mast
 **Tin Cord:** If the magus is *not* within a supernatural aura (of any sort) subtract the value of the cord from all Personality Trait, healing, deprivation, and aging rolls, and from his Soak total.
 
 
-# *Foremen Elves*
+# Foremen Elves
 
 **Faerie Might:** 10 (Vim)
 
@@ -5607,7 +5607,7 @@ These special familiar cords are created between faerie familiars and their mast
 
 **Maiden:** A frighteningly beautiful elf with long golden hair. Her workers are all in love with her and eagerly leap to her every command. Personality Trait: +3 Flirtatious.
 
-# *Story Seed: Taking On a Rat*
+# Story Seed: Taking On a Rat
 
 Mengalaz suspects that Julia will be the only available Merinitia magus to bind him when Bartholomew dies. He tries to prevent her from binding another creature as familiar (because he knows that a magus can only have a single familiar at a time). If he cannot prevent Julia binding a familiar Mengalaz tries to kill this other familiar.
 
@@ -5619,7 +5619,7 @@ The faerie workshops can duplicate any standard Hermetic item creation project. 
 
 Note: The toys are not actually Hermetic items. The toys are faerie glamour (see The Toys, in this chapter) that imitate Hermetic magic. The Hermetic item rules are used as convenient game mechanics to gauge what can be made.
 
-# *The Workshops*
+# The Workshops
 
 Spread beneath Devil's Lane is a dark labyrinth of candle-lit basements. In the cluttered and noisy underground rooms teams of worker elves toil night and day to create the magic toys. Some of the basements are also infested with the rat pack (see earlier).
 
@@ -5627,11 +5627,11 @@ The workshops are not a secret and any merchants questioned say that this is whe
 
 The merchants deal with four foremen elves, who between them command hundreds of worker elves. Why the foremen obey the merchants, and why the workers obey the foremen is unclear. If asked, the faeries explain "it is just the way things are."
 
-# *What Can Be Made?*
+# What Can Be Made?
 
 Each faerie merchant can commission in one season work equivalent to that done with a Lab Total of 100. Player characters can also negotiate for up to this amount of workshop access. Unused magnitudes from one season cannot be "saved" and used in a subsequent season. Several characters can individually negotiate for workshop access, but characters cannot combine their negotiated access, for example, to work on a project requiring a Lab Total of 200. The worker elves can nor-
 
-# *The Devil's Lane Covenant*
+# The Devil's Lane Covenant
 
 The Devil's Lane Covenant is a Merinita covenant occupying a two storied build-
 
@@ -5642,7 +5642,7 @@ There are no coven-folk; the magi rely on the faerie market for all their needs 
 
 The Merinita do not involve themselves much in either Tribunal or House politics, and are very unclear about which Tribunal they actually belong to. Jurisdiction over the covenant is complex as the regio has entrances in several Tribunals.
 
-# *Julia's Laboratory*
+# Julia's Laboratory
 
 The ground floor of the covenant is the Hermetic laboratory of the Merinita maga Julia. Julia's laboratory is clearly marked as her sanctum, and it is a dark and spooky chamber filled with the bleached bones and skulls of animals, mythic beasts, and even people.
 
@@ -5652,11 +5652,11 @@ Julia (wrongly) believes that the elderly Bartholomew somehow mediates the relat
 
 Julia's magic is characterized by death and her sigil is a sound like the ominous tapping of a death-watch beetle.
 
-# *Bartholomew's Laboratory*
+# Bartholomew's Laboratory
 
 At the back of Julia's Laboratory is a stone spiral stairway that twists upwards for an unexpectedly long way. In fact, climbing the stairway leads to another tiny faerie regio (with a Faerie aura of 8). The regio contains Bartholomew's laboratory.
 
-# *Julia of House Merinita*
+# Julia of House Merinita
 
 **Characteristics:** Int +2, Per +1, Pre 0, Com 0, Str 0, Sta +1, Dex +1, Qik +1
 
@@ -5795,7 +5795,7 @@ especially other Merinita magi.
 
 the mundane" (or are "molesting faeries"). The player characters are commissioned to enforce this ruling, and need to deal with issues of Hermetic jurisdiction.
 
-# *Bartholomew of House Merinita*
+# Bartholomew of House Merinita
 
 **Characteristics:** Int +1, Per +1(1), Pre –2(1), Com –2, Str –2(2), Sta +2(2), Dex –1(1), Qik –2(1)
 
@@ -5949,7 +5949,7 @@ Burgundy truffles grow on the roots of oak and hazel trees throughout Mythic Eur
 White truffles grow on the roots of oak, hazel, poplar, and beech trees. The best white truffles come from the Piedmont region, especially the area around the city of Alba, but they grow throughout the Roman Tribunal. They can be found in the south west portions of the Normandy Tribunal and the western most portions of the Provencal Tribunal. They also grow in Croatia on the Istria peninsula in the Motovun forest. For a further description of this area, see the Old Histria in Against the Dark: The Transylvania Tribunal, page 73. Their exteriors are off-white or beige, and their flesh is cream colored with white marbling. White truffles are har-
 
 
-# *Common Knowledge, Uncommon Knowledge, and Lost Secrets*
+# Common Knowledge, Uncommon Knowledge, and Lost Secrets
 
 While many people know about truffles, they still hold many secrets.
 
@@ -5982,7 +5982,7 @@ vested in autumn. They have a very strong earthy flavor and pungent aroma. They 
 
 **Desert truffles** also grow above ground, attached to rockrose shrubs or oak and pine trees. They grow in arid and semi-arid areas around the Mediterranean, especially in North Africa and the Middle East. Desert truffles are spherical or top-shaped, with thick solid walls. They are a translucent cream to pale brown color. They tend to be about an inch across and weigh a few ounces. They can be larger, but it is rare. Locals harvest these delicacies shortly after the spring storms, which they believe create desert truffles where lightning strikes the sand.
 
-# *Location of the Truffle Realm*
+# Location of the Truffle Realm
 
 There are several locations that are suitable for placement of the Matron's truffle regio. Below is a list of suggested locations, but the storyguide should feel free to select another location. The only criteria are that the location should be in a truffle producing region and should be in a very isolated area or, at least, an area that has been isolated until recently.
 
@@ -5992,13 +5992,13 @@ The dense forests of Périgord in the Aquitaine, on the Dordogne River, in the N
 
 
 
-# *The Realm of the Truffles*
+# The Realm of the Truffles
 
 Entrance to the regio requires a guide to open the way or, at least, provide the characters with the precise location in which to search for the entrance. Only awakened truffles or awakened trees that are members of the truffle regio know the location of and method for opening the entrance. It is in a pocket of trees in a dense wood within a small Magic aura, which only exists on the certain days, allowing the regio to be accessed from the outside four times a year — the summer and winter solstices and the spring and autumnal equinoxes.
 
 Once characters have been escorted to the entrance or provided with the location of it, they may attempt to enter the regio. To do so, one of the characters needs to possess Second Sight (**ArM5**, page 67) or Magic Sensitivity (**ArM5**, page 66), or know the spell *Piercing the Magical Veil* (**ArM5**, page 158). The rules for entering and leaving regiones are presented in **ArM5**, page 189. The Magic aura outside of the regio is 1, only on the solstices and equinoxes, which means that the players must roll against an Ease Factor of 9 to see inside. If the characters are near the proper location, the Ease Factor is 9 to see the entrance from each internal level of the regio to the next. Although the characters may only enter
 
-# *Wild Boar of the Woods*
+# Wild Boar of the Woods
 
 **Magic Might:** 20 (Animal)
 
@@ -6067,7 +6067,7 @@ R: Voice, D: Diam, T: Ind
 
 the regio on four days of the year, they and the inhabitants may leave at any time. They need only follow the path from the holt back to the heart of the wood at the entrance to the regio. In addition, the Truffle Matron has the power to banish someone from the regio with only a thought.
 
-# *Regio Entrance*
+# Regio Entrance
 
 *Magic aura 3*
 
@@ -6081,7 +6081,7 @@ The Wild Boar of the Woods tells the characters that a pack of wolves has entere
 
 Depending on how long it takes the characters to track and kill the wolves, they may have attacked several of the forests inhabitants. The characters may attempt to locate the carcasses of the wolves' kills. This is done easily enough, but their bodies are devoid of vis because the Magic wolves have consumed it.
 
-# *Wild Boar of the Woods, cont'd.*
+# Wild Boar of the Woods, cont'd.
 
 Anyone or anything the Boar charges becomes overwhelmed with a mortal fear of the Boar for Diameter Duration. The target must flee immediately from the Boar and is reluctant to ever face him again.
 
@@ -6109,7 +6109,7 @@ The Wild Boar of the Woods always initiates contact with a group by charging the
 
 For the Boars of Virtue ridden by the Truffle Drones and those in the Truffle field, reduce their Might to 10. The Boars of Virtue do not have the *Protect the Herd* or *Terror of the Charging Boar* powers, Magical Champion, Ways of the Wood, Tough, or Higher Purpose. The Flaws of Wrathful and Fury are Minor. As a replacement power, they have *The Unimpeded Traveler* power, which the Wild Boar of the Woods does not possess. Finally, the Boars of Virtue are Size 0 and have Cunning instead of Intelligence.
 
-# *Truffle Fields*
+# Truffle Fields
 
 *Magic aura 5*
 
@@ -6127,7 +6127,7 @@ The awakened truffles are working among large mounds that appear to be their hom
 
 If the characters attempt to interact with the awakened truffles or trees, they are met with silence. Only characters with the spell *Converse with Plant and Tree* (**ArM5**, page 136) or a similar ability are able to talk to them. If the characters can communicate, the awakened truffles answer simple questions, but excuse themselves after one or two questions and return to work. They explain that the council is about to meet and they do not have time for idle chatter with "truffle eating drones." At this point, the Boars of Virtue break out of the fence containing them. The awakened truffles stop what they are doing and begin chasing them.
 
-# *Truffle Holt*
+# Truffle Holt
 
 *Magic aura 7*
 
@@ -6138,7 +6138,7 @@ The third level of the regio encompasses the holt and surrounding grounds. The "
 If the characters are with an escort, the truffle drones allow them to enter. If not, they wait for several minutes and a truffle daughter appears out of the ground to escort the
 
 
-# *Interloping Wolves*
+# Interloping Wolves
 
 **Magic Might:** 13 (Animal)
 
@@ -6190,7 +6190,7 @@ characters into the holt. The trees making the door at the end of the path rise 
 
 The holt courtyard is located between the exterior circle of trees that forms the holt's walls and an interior circle of trees that forms the inner holt. The courtyard is filled with lumpy, loose topsoil. It is a rich black color and emits a strong smell of compost. Against the exterior wall to the left of the path to the interior holt there are larger mounds where truffle drones are resting. On the opposite wall a sounder of wild boars root about in a pen made of dense shrubs and small trees. There are several awakened truffles tending to the boars.
 
-# *Truffle Council Chamber*
+# Truffle Council Chamber
 
 The holt's interior looks much like the courtyard, with dark topsoil and a strong smell of compost dominating. Large roots from the surrounding awakened trees form seats, tables, and a raised dais at the center of the circle. The seats and tables nearest the walls are filled with a handful of truffle drones, the next group nearer the dais is filled with a large number of truffle workers, and the final row before the dais is filled with a small group of daughters. The Truffle Matron and her closest advisers sit upon the dais. If the characters attempt to sit, they are directed to the tables with the drones.
 
@@ -6205,7 +6205,7 @@ The Truffle Matron's goal is to expand the reach of the truffles by increasing t
 
 The Truffle Matron and the awakened truffles do not trust the characters for two reasons. First, they are human, and humans destroy forests and poach truffles. Second, they are magi and, in the Truffle Matron's experience, magi have an insatiable desire for vis. This desire often means that magi collect and destroy the awakened truffles or their vis-bearing crops. The Truffle Matron hopes to use the magi's known desire for vis to convince them to assist her. Requests the Truffle Matron may make of the characters are listed in the insert, and potential rewards are included in the following "Vis Sources" section.
 
-# *Tests of the Truffle Matron*
+# Tests of the Truffle Matron
 
 Before the Truffle Matron makes any request of the characters, she demands to test their mettle. She addresses the most senior looking female, and if no females are present she asks the characters where their leader is. If a female is present, she directs all questions and responses to that character and refers to the males as her drones.
 
@@ -6222,17 +6222,17 @@ Finally, the Truffle Matron's adviser announces that the Matron will now hear th
 The Truffle Matron offers a reward of vis to anyone who can solve the problems that she or her citizens cannot easily address. The Matron does not wait for the characters to offer their assistance; if they are silent, she assigns the task to a group of truffle drones or a daughter. She is generally aware of the difficulty of each task and offers a vis reward appropriate to entice someone to accept. The more tests the characters passed, the more valuable the Truffle Matron's offer is. Through role playing, the character may be able to extract additional vis from the Truffle Matron. She offers the greatest rewards for problems raised by the daughters and the most meager rewards for problems that affect only the drones. If the characters have previously assisted the regio's citizens, she is more generous with her potential reward, but if they have harmed any of the inhabitants or collected any vis in the regio, the Truffle Matron reduces it accordingly. If the characters have acted in an especially egregious manner, she dismisses them and tells them to complete her task without reward or never be allowed to return.
 
 
-# *Features of the Truffle Regio*
+# Features of the Truffle Regio
 
 This section describes some overarching features of the regio: the Creo aligned aura, examples of the vis sources in the regio, and the inhabitants of the regio.
 
-# *Aura*
+# Aura
 
 The entire regio is an aura aligned with Creo. See *Realm of Power: Magic*, page 16, for a description of aligned auras. The whole area has an overwhelmingly strong smell of freshly tilled earth, compost, and mushrooms. The area is perpetually overcast with the sun rarely breaking through the dense cloud cover, and rain falls frequently.
 
 The Magic aura bonus is doubled in the regio for all activities involving Creo. Add the aura modifier to all Recovery rolls while recuperating in the aura. Creatures with Might aligned with Creo spend 1 point less Might to activate their powers while in the aura. Plants and animals grow more healthfully, stronger, and larger than normal. In addition, minor cuts and bruises heal instantly. If a character takes scuffling damage in any of the combat encounters, these heal immediately upon entrance to the truffle holt regio. For each season the character spends in the aura, his apparent age is decreased by one, but does not decrease below 27. Anyone who spends a full year in the aura receives a bonus to his Living Conditions modifier equal to the Magic aura where the character spent the majority of his time.
 
-# *Vis Sources*
+# Vis Sources
 
 The truffle regio contains three categories of vis: inanimate truffles, creatures, and trees. The truffles exist as Truffles of Virtue and Extraordinary Vis. The creatures are all herbivores native to lands where truffles grow. If asked why there are no predators, knowledgeable truffles tell the characters that truffles are spread by being eaten by herbivores and passed through their system. Carnivores do nothing to assist truffles. Finally, the forests of the truffle regio are home to many Trees of Virtue: beech, hazel, oak, and poplar. *Realms of Power: Magic*, page 129, contains guidelines for both Hazel and Oak Trees of Virtue. The trees themselves use the statistics for the awakened trees above, but also have special properties.
 
@@ -6246,7 +6246,7 @@ The white poplar tree has very distinctive leaves, with the top side a dark gree
 
 
 
-# *Awakened Trees*
+# Awakened Trees
 
 **Magic Might:** None
 
@@ -6335,7 +6335,7 @@ In addition, any trees in the target area grow truffles on their root systems. T
 
 (Base 1, +1 Touch, +4 Year, +4 Boundary, +4 Size, +2 additional effect)
 
-# *Inhabitants of the Truffle Regio*
+# Inhabitants of the Truffle Regio
 
 The awakened truffle inhabitants of the regio come in four varieties. The truffle workers are the weakest, and most abundant, with only a Magic Might of 10. The truffle drones have Magic Might scores of 15 and are generally mounted on Boars of Virtue. The truffle daughters and the Truffle Matron's advisers have a Magic Might of 20, but are relatively few in number. Finally, the Truffle Matron has a Magic Might of 30, but is alone at that level..
 
@@ -6349,7 +6349,7 @@ Truffle drones are warriors and guards. They are also the lowest social stratum 
 
 Truffle workers are not interested in fighting, or interacting, with the characters. They go about their business in preparation for the council for the most part. Only if the characters interfere with the workers' homes, crops, or wild boars do they provoke a response. The workers first notify the drones and then command their Boars of Virtue to defend the fields. Workers burrow to safety deep beneath the earth and away from the fields to avoid death.
 
-# *Requests of the Truffle Matron*
+# Requests of the Truffle Matron
 
 The following problems could be raised by the Truffle Matron.
 
@@ -6389,7 +6389,7 @@ The truffle daughters remain in the holt unless called upon to defend the regio.
 
 The Truffle Matron remains in the holt unless called to defend the regio. If the characters seem to be causing trouble, she instructs the daughters to secure Arcane Connections to the magi and return them to her. Her Penetration is 38 without an Arcane Connection, but with a strand of hair, for example, it is 54. The Matron banishes any troublemakers rather than combat an entire group of magi. She may attempt to deceive the remaining characters by saying that she has captured the banished individuals and will kill them if the remaining characters do not cooperate. If the characters continue to attack, the Truffle Matron can create an Earth Elemental through the use of *Enliven the Gross Earth* (*Realms of Power: Magic*, page 38). She can create an elemental of up to Magic Might 30. Her elemental is equivalent to the Might 20 elemental, except that the following bonuses are added to its statistics: + 8 to Attack, +12 to Damage, and +4 to Soak. The Truffle Matron's Temporary Might Flaw means that the Might she expends is not recovered until the end of the season or she consumes vis.
 
-# *New Creo Herbam Guidelines*
+# New Creo Herbam Guidelines
 
 Like Creo Corpus healing spells, a healing spell cast other than as a Momentary Duration Ritual actually suspends the healing process so that upon the spell's expiration, wounds are as fresh as they were when the spell was cast.
 
@@ -6447,7 +6447,7 @@ When a covenant falls into deep winter, the covenfolk can either remain loyal, d
 
 
 
-# *The Magical Truffles*
+# The Magical Truffles
 
 **Magic Might:** 10/15/20/30 (Creo or Herbam) **Characteristics:**
 
@@ -6555,14 +6555,14 @@ The summa was owned by a long dead magus from a fallen covenant. The characters,
 
 The Magic Lore tractatus is relatively obscure, but several copies of it exist, including one in the library at Durenmar. If the characters track down a copy, it discusses a regio filled with awakened truffles and trees that the author discovered. The author is careful not to disclose the exact location, but with the summa and tractatus together, the characters can piece together enough information to know where and when to begin the search.
 
-# *Returning to the Truffle Regio*
+# Returning to the Truffle Regio
 
 If the characters accept the Truffle Matron's request for assistance, they must return to the regio to present their proof of completion and collect their reward. The Wild Boar of the Woods may attempt to test the characters again, depending on how their first interaction went. Of course, properly prepared characters need less assistance in traversing from one regio level to another, allowing them to avoid some encounters.
 
 On their return to the regio, the Truffle Matron forces the characters to prove themselves again. She may challenge them with the same or similar tests as in the first visit. With two seasons or more to prepare, however, the characters should be able to improve their odds of winning the tests. If the Matron decides the characters are overly prepared for the old tests, she may include new challenges. Some ideas for new challenges include the following: a hide-and-seek game against awakened truffles, a wild boar riding contest through an obstacle course, or a wild boar race from the council chamber to the regio entrance. If they were successful in completing her task, the Matron may reduce the number of tests. Should the characters complete several tasks, the Matron may dispense with the test altogether or offer a reward for their participation.
 
 
-# *Earth Elemental*
+# Earth Elemental
 
 **Magic Might**: 20 (Terram)
 
@@ -6616,11 +6616,11 @@ Should the characters pass the Truffle Matron's tests a second time and complete
 
 The "Requests of the Truffle Matron" insert describes several possible requests that the Matron could make of the characters. The storyguide may parcel out the requests such that the characters have additional reasons to return to the regio. If the characters are successful in completing the tasks, the Matron may make additional requests of them. She may ask the characters to set up a laboratory in a truffle woods in the mundane world. She knows that locations with magical activities can expand their auras and become more powerful over time. Her conception of time is vastly different from the characters' and she has no idea how long the process might take. If the characters are freshly out of Gauntlet or looking to found their own covenant, the Truffle Matron may offer them a perfect location and their first vis source in exchange for growing the aura and protecting a truffle forest.
 
-# *Successor for the Wild Boar*
+# Successor for the Wild Boar
 
 On one of their trips to the truffle regio, the characters enter the first level to find the Wild Boar of the Woods missing and the normally bucolic woods is in disarray. When they meet the Truffle Matron, she tells them that the Wild Boar of the Woods is dead. A powerful creature has killed him, and the creature is hunting the inhabitants of the first level of the regio. The truffles are guarding the entrance to the second level of the regio. The Matron requests the characters' assistance in defeating the creature. If the characters are successful, the Truffle Matron requests that they find a suitable replacement for the Wild Boar of the Woods.
 
-# *Request of a Daughter*
+# Request of a Daughter
 
 During one of their visits, the characters are approached by a daughter. The daughter barters for the characters' assistance in a territorial dispute. She may ask the characters to encourage the mundane community to harvest the truffles of her competitor or harvest the truffles themselves. If the characters assist in this, she may later return to the characters and ask that they kill the competing daughter and her entourage. If the characters assist one side over another and are discovered, they may be blackmailed by one of the other daughters. If they kill any of the competing truffles, the survivors report their acts to the Truffle Matron.
 
@@ -6656,7 +6656,7 @@ The cult of Luperca is native to Rome, but not to the Roman people. Before Rome 
 The rites of the cult were managed by a college of priests called the *luperci*, or the brothers of the wolf. Originally the luperci were drawn from the equestrian class — Marcus Antonius was a former chief priest of the *luperci* — but by the fifth century the cult was entirely plebeian. Each year the cult staged the two-day festival of Lupercalia, commencing on the Ides of February, to honor the shewolf who had nursed the sacred twins. The luperci would run naked through Rome, whipping those they came across with wolf-skin thongs; people would deliberately get in their way to assure luck or pregnancy. The festival was eventually abolished in the fifth century by Pope Gelasius I, but this only removed the public face of the cult. Unknown to all but its innermost initiates, the cult of the wolf was more than just a fertility cult. Through their interaction with Luperca, the cult guarded the Roman people against evil spirits attracted to envy, spite, and injustice. The cult taught that if an evil-doer escapes justice, the community in which he dwells is ritually polluted by his crime and the failure of the people to purge
 
 
-# *What You've Heard*
+# What You've Heard
 
 Rumors indicated in this section are true unless indicated otherwise; or unless the storyguide wishes to incorporate them into the story. All rolls are made using the Area Lore: Narbonnais Ability.
 
@@ -6688,7 +6688,7 @@ mountains who can cast a spell that marks someone out for wolf attacks. (False)
 
 it. This moral pollution results in infertility and ill luck. The *luperci* purified a community by adopting the form of a wolf and taking bloody vengeance on evil-doers. This lifted the curse of barrenness, and empowered the *luperci* to grant fertility to the community during the Lupercalia.
 
-# *The Interpretatio Romana*
+# The Interpretatio Romana
 
 As the boundaries of Rome's territories expanded across Mythic Europe, the conquerors encountered native cultures and religions. As part of the process of bringing all tributary people under the yoke of Rome, the gods worshiped by them were subjected to the *interpretatio romana*, or 'Roman interpretation'. The priests of the Roman state examined the attributes of each barbarian deity, determined which Roman god or goddess they matched most closely, and co-opted the native name and rites into their own cultus as a means of controlling the natives.
 
@@ -6696,7 +6696,7 @@ When Roman pioneers came into the Auvergne in southern France, they discovered a
 
 Luperca was not wholly abandoned, however. Those in whom vengeance burned like an ember would hear stories that the wolves could provide the satisfaction of raw, savage retribution. A few would be guided deep into the forest, hounded by wolves toward the ancient temple. There they would meet Luperca, and strike a deal with her. Vengeance would be satisfied.
 
-# *Variants: The She-Wolf in Other Cultures*
+# Variants: The She-Wolf in Other Cultures
 
 Most of Mythic Europe was occupied or influenced by the Roman Empire, but the storyguide may wish to go outside Roman mythology to flesh out the origins of the Wolf's Court. This section gives a few alternate options. Note that these may not be true variants; the She-Wolf is merely an Aspect of the Daimon of Vengeance, and she may have a manifestation several different regions simultaneously.
 
@@ -6709,11 +6709,11 @@ Airitech, but it is possible that they were merely transformed instruments of ve
 
 • In the frozen lands of the North it is said that a frightful giantess lives in the mythical Ironwood to the east; there she is breeding an army of wolves and witches. This nourisher of wolves has many names, but her most famous is Gullveig, the Jotun of Witchcraft and patron of the Muspelli (see *Rival Magic*, Chapter Four).
 
-# *The Fane of Vengeance*
+# The Fane of Vengeance
 
 The Wolf's Court is located deep in the Majarida Mountains in south-central France. The name is Occitan, like the people who live here (in French these are the Monts de la Margeride), although they are under the nominal suzerainty of the French crown through the Bishop of Mende, who is also Count of Gévaudan (or Gavaudan in Occitan). The Majaridas, covered in dense woodland and deep valleys, are rich hunting grounds for wolves. The mountains themselves are virtually uninhabited; just a few trappers and poachers have (mostly temporary) residence here. The surrounding hills are sparsely populated since the soil makes for poor agricultural land.
 
-# *The Forest*
+# The Forest
 
 The forest in which the Wolf's Court lies is most likely a broad leaf forest with a dense understorey. There may be paths that connect the hamlets to one another, but these are infrequently traversed, and usually by travelers in groups for protection. Game trails lead deeper into the forest, but these soon peter out.
 
@@ -6725,7 +6725,7 @@ Getting to the Wolf's Court is difficult for characters, and the storyguide can 
 
 **Forest inhabitants**: Very few people would choose to live away from the safety of a hamlet, but there are three groups of outcasts that one might expect to meet in this forest. The first are charcoal burners: a strange, clannish profession whose members almost seem a race apart. Charcoal burners are at the very bottom rung of society's ladder; they often speak a rough dialect of the local language, and are the subject of many strange tales. The second group of inhabitants are outlaws; unable to claim protection from a community thanks to a crime in their past, or current criminal behavior. The forest might also be home to a witch or hedge wizard; it is up to the storyguide as to whether she is a simple herbalist, a folk witch, or
 
-# *Variants: Other Locations for the Wolf's Court*
+# Variants: Other Locations for the Wolf's Court
 
 The Wolf's Court can be placed in any heavily wooded area, preferably around mountains. The population density should be quite low: scattered hamlets occupying cleared areas within the greater forest is ideal. The region should be known for wolves, which in Mythic Europe could be just about everywhere. Despite the legend that King Edgar rid England of wolves in the 950s, he must have missed a few, for wolves are still very much a problem throughout Britain and Ireland in the thirteenth century. Only the lands immediately bordering the Mediterranean Sea are either devoid of wolves or have them in low numbers. In Iberia, the central plains of Leon, Castille, and Grenada are free from wolves, as is the southern portion of Italy. There are very few wolves on the islands of the Aegean sea, but mainland Greece has them aplenty.
 
@@ -6742,13 +6742,13 @@ In **Bulgaria** (Transylvanian Tribunal), the *vultchi praznitsi* (Wolves' Holid
 
 Depending upon its size, the forest could be home to any number of faeries, magical denizens, or demons. Both faeries and demons tend to stick close to humanity's side, feeding off the vitality or sin that they produce. Magical creatures are less constrained, and they probably utilize scattered pockets of Magic auras or caches of vis to avoid Acclimation.
 
-# *The Court*
+# The Court
 
 The Wolf's Court itself is situated in a Magic aura of 5. This is concentrated around the ruins of a shrine, which are mostly buried beneath centuries of moss and ivy. The shrine was originally built in a clearing, but the trees have since encroached on the sacred space, and their stately columnar trunks add an air of majesty to the location. The light filtering into the glade is dappled by the overhead canopy.
 
 Within minutes of entering the Wolf's Court, the characters get the impression that they are not alone. The She-Wolf that dwells here prefers to form a corporeal body out of sight of mortal eyes, allowing people to mistake her for a magical creature rather than a spirit entity. She then strolls into the clearing and jumps up onto one of the ruined walls, forcing the characters to look up at her. A meeting with the She-Wolf often does not involve words: she gauges the worth of her petitioner with her powers, and takes action without discussion or negotiation. However, she can speak using her *Voice of the Wolf* power whether in material or immaterial form.
 
-# *Inhabitants*
+# Inhabitants
 
 The She-Wolf is the only permanent inhabitant of the Wolf's Court. She is an Aspect of the tutelary spirit of retribution and vengeance, and as such she is utterly opposed to injustice. She places little emphasis on the magnitude of the crime committed: to her, there is little difference between a thief who absconds with a loaf of bread and a man who has murdered his own children. If either goes unpunished, then the cosmic scales of justice are out of kilter, and she uses mortals — often those wronged — to redress the balance.
 
@@ -6873,7 +6873,7 @@ This ritual is not strictly necessary, but it provides an appropriate amount of 
 
 tions (both his birth name and a new name) to her supplicant.
 
-# *Variants: The She-Wolf*
+# Variants: The She-Wolf
 
 The nature of the She-Wolf could vary if this location is put into a different Tribunal, as discussed earlier. However, another variant would be to change the She-Wolf from an Aspect of a spirit of retribution into a creature belonging to a different supernatural realm.
 
@@ -6893,7 +6893,7 @@ Vengeance is a dark emotion, and the She-Wolf could easily be a demonic force se
 
 As a Divine servant, the she-wolf becomes a tool of justice rather than revenge. She may be the form taken by an angel, or else a Divine creature. A Divine variant of the She-Wolf would not grant a human the power to commit a sin; as the quote from Paul's Letter to the Romans states, God reserves the right to enact retribution on behalf of Christians. In this variant, human petitioners would approach the Wolf's Court and present their case. Once the Divine She-Wolf was satisfied that an injustice had been committed, she would then take vengeance either person-
 
-# *New Virtue: Spiritual Pact*
+# New Virtue: Spiritual Pact
 
 *Major, Supernatural*
 
@@ -6912,7 +6912,7 @@ The storyguide should decide upon the powers of the spirit. With the agreement o
 (first appeared in *Realms of Power: Magic*, pages 88 – 89)
 
 
-# *Werewolves in Mythic Europe*
+# Werewolves in Mythic Europe
 
 Modern werewolf lore describes afflicted humans transforming into hideous creatures that are half-wolf, half-man on nights of the full moon. Such creatures are not part of the werewolf legend in most of Mythic Europe; rather they stem from a variety of vampire called the *vukodlac* (see *Against the Dark: The Transylvanian Tribunal*, page 118), and stories of them do not permeate into the rest of Europe until the eighteenth century.
 
@@ -6922,7 +6922,7 @@ or *garulf* in Norman. The French *loup-garou* derives from *garulf*, with a red
 
 ally, or through her pack. The perpetrator of the crime is torn apart by wolves, and at the same time his crimes are laid bare to the community so that they know why God's justice had paid a visit. The She-Wolf would need to be careful to limit her activities; it does not usually serve God's plan to scare humans into avoiding sin for fear of worldly punishment. To save one's soul, a person must choose to be good without coercion.
 
-# *The Wolf Brothers*
+# The Wolf Brothers
 
 As described earlier, the *luperci* were a secret college of Roman priests of Luperca who guarded their communities against ill fortune and barrenness by extirpating unpunished sin. This priesthood still exists as a Mystery Cult, and its members make occasional visits to the Wolf's Court. The court is a sacred place to them, a site where they can perform their Initiations, and the She-Wolf is magical patron for the cult as a whole. The location becomes a literal court on these visits, since the *luperci* bring individuals here to face the justice of the She-Wolf.
 
@@ -6934,7 +6934,7 @@ The Wolf Brothers have a simple mandate: to punish the guilty when the usual met
 
 The Mystery society is divided into three grades. The most junior grade is called the *lupellis*, which requires an Organization Lore: Luperci of at least 1. At this grade, the postulant joins the cult through a rite invoking Luperca: he gains the Skinchanger Virtue while acquiring the Dark Secret Flaw. (Initiation Script +9 for the Major Flaw; Ease Factor 15). He is now a member of a secret cult that murders those who escape justice, which is basically a death sentence should anyone discover it. The second grade is called the *lupercus*, and requires an Organization Lore: Luperci of 3 or
 
-# *The Luperci as a Hermetic Mystery Cult*
+# The Luperci as a Hermetic Mystery Cult
 
 The Luperci could be replaced by a Hermetic Mystery cult. Nothing prohibits magi from joining a non-Hermetic cult, but they gain no special rank because of their Gift. As a Hermetic cult, however, only magi are eligible to join the Luperci. The crimes that they avenge are those committed by magi who are subsequently found innocent by a Tribunal of a Hermetic crime through politics, subterfuge, or through a legal loophole. The Dark Secret Flaw gained during Initiation represents the fact that the character knowingly flouts the Hermetic Oath every time he participates in inflicting the wolf's judgment. This punishment usually takes place in a cave that has been prepared with an *Aegis of the Hearth*, limiting the condemned magus's ability to fight back. The power to dispel curses is usually weaker than Hermetic Perdo Vim magic, but can affect a Boundary without needing to cast a ritual spell.
 
@@ -7019,7 +7019,7 @@ drift. Each round of a chase lasts five to thirty minutes, depending on the terr
 
 The Pursuit modifier is –3 if the pursuer is two-legged and the prey four-legged, and +3 if the prey is two-legged and the pursuer four-legged; it is zero otherwise. The Evasion modifier can vary from –6 to +6 depending on the relative knowledge of the terrain between pursuer and prey. If the prey has never been in this terrain before but the pursuer knows it intimately then the modifier is –6, if the situation is reversed then the modifier is +6. If it is the home territory of one party but the other has only passed through occasionally, then the modifier is –3 or +3 accordingly.
 
-# *A Large Wolf*
+# A Large Wolf
 
 **Characteristics:** Cun +2, Per +1, Pre –2, Com +1, Str +2, Sta +3, Dex +2, Qik +1
 
@@ -7051,7 +7051,7 @@ The Pursuit modifier is –3 if the pursuer is two-legged and the prey four-legg
 
 The wolf gains a +3 bonus to all rolls involving the senses of smell and hearing.
 
-# *A Wolf*
+# A Wolf
 
 **Characteristics:** Cun +2, Per 0, Pre –2, Com 0, Str –1, Sta +3, Dex +2, Qik +2
 
@@ -7165,7 +7165,7 @@ A curious incident occurred recently in a village near to the woods. A man, Baud
 
 a naked human corpse on the floor instead of a wolf's body. This was identified as Guillot, Baudouin's brother, The only other witness was a local maiden Odette, who was present when Baudouin was attacked. She supports Baudouin's story. Common gossip has it that Guillot and Baudouin were in competition for Odette's affection. The local lord does not believe Baudouin's story about a wolf (and the testimony of a woman is inadmissible in court), and he stands accused of murdering his brother. A player character could be related to Baudouin and Guillot, or to Odette, and asked to investigate on behalf of their relative. Alternatively, the characters could be friendly with the lord, and hear of the curious story and decide to investigate.
 
-# *Story Hook: The King's Wolf*
+# Story Hook: The King's Wolf
 
 A year ago, an important nobleman (perhaps a king) gained a pet wolf. It was encountered on a hunt when it greeted the nobleman like an old friend. It is a gentle, noble animal, so it is a great surprise when it savagely attacks a knight. The wolf is penned, and the nobleman consults some wise men (the characters) for advice. He is loathe to destroy his loyal pet, but feels he cannot trust it if it is going to attack his vassals. The wounded man is clamoring for its destruction.
 
@@ -7176,7 +7176,7 @@ This story seed is a reworking of Bisclavret ("the Werewolf"), a *lai* (Breton f
 
 tween a savage werewolf (for which she uses the Norman word *garulf*) and one with a human intellect (denoted by the Breton *bisclavret*, also used as the hero's name). In the original story, when the king visits Bisclavret's former lands, the wolf attacks and disfigures his wife, forcing her confession. She is outcast with her lover, and their daughters are born without a nose, a sign of their mother's faithlessness.
 
-# *Story Hook: A Wife's Revenge*
+# Story Hook: A Wife's Revenge
 
 This story places a magus as the victim of a werewolf attack. It requires the character to be responsible for the death of a man in a way that could be considered unjust. The man's wife — or other relative — approaches the Wolf's Court for vengeance. Most magi are law-abiding individuals, but this is where the She-Wolf's dispassionate concepts of retribution could come into play. For example, the characters could have been tracking down a villain for several years. He could be responsible for several heinous crimes, and a powerful hedge wizard to boot. When they finally encounter him, he is killed in a climactic battle by a magus's spell. This is not an uncommon resolution to a story. However, the magus had no judiciary power entitling him to commit this act; in effect he has committed murder. No matter that the victim was a notorious criminal, the fact remains that he was not put on trial by the laws of the land, nor legally executed by the mandate of the court. The She-Wolf looks favorably on a petition from the dead man's wife; she is now bereft of a husband thanks to the illegal actions of the magus.
 

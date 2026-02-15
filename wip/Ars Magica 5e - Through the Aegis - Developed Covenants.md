@@ -1,6 +1,6 @@
 
 
-# *Credits*
+# Credits
 
 **Authors:** Christian Rosenkjaer Anderson (Collem Leonis), Mark Lawford (Northern Seas, Longmist), Richard Love (Didyma), Christian Jensen Romer (Jardin)
 
@@ -52,7 +52,7 @@ Order of Hermes, Tremere, and Doissetep are trademarks of White Wolf Publishing,
 Digital Version 1.0
 
 
-# *Contents*
+# Contents
 
 | Inroduction                                                             | 6  | Matilda's Laboratory 27                                |    | Xenophanes of House Criamon42                                      |  |
 |-------------------------------------------------------------------------|----|--------------------------------------------------------|----|--------------------------------------------------------------------|--|
@@ -610,9 +610,9 @@ Digital Version 1.0
 | 2.2., 2.2,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | - 00 |
 
 
-## *Chapter One*
+## Chapter One
 
-# *Inroduction*
+# Inroduction
 
 Whether it is a brand new foundation freshly hewn from the wilderness or an ancient wreck creaking under centuries of magic, the covenant is the center of most sagas. This supplement for Ars Magica Fifth Edition describes in detail five covenants, their resident magi, and the resources available to them, including vis sources, libraries, and enchanted devices.
 
@@ -624,7 +624,7 @@ The characters detailed for the covenants have in some cases been generated seas
 
 When existing communal covenant resources, such as enchanted items, have been acquired or made by the current residents, then these have been effectively paid for twice: once in terms of seasons of work, and once in terms of covenant build points. On the other hand, resources personal to a magus, such as talismans and some enchanted items, have not been paid for out of the covenant build point budget. Generally, if a magus would likely take a resource with him if he left the covenant, it has been considered a personal resource. However, sometimes, it has been necessary to make an arbitrary decision as to whether a particular resource is communal or personal.
 
-## *How to Use this Book*
+## How to Use this Book
 
 The five covenants detailed in this book make ideal starting points for a new saga. The magi resident in each serve equally well as ready-made player characters already embedded into the fabric of their covenants, or as suggestions to spark entirely new magi in keeping with each covenant. Similarly, the grogs, companions, and other specialists are all either ready-to-play or detailed enough that introducing them is straightforward. You could even take these characters individually and use them in your own saga if you wanted to.
 
@@ -642,7 +642,7 @@ Lastly, the vis sources, enchantments, and books described throughout this suppl
 
 Whether you are about to start a new saga or you are approaching the autumn of your current one, the covenants found in this book have something to offer, so populate them, contest them, spy upon them, or straight out raid them: the choice is yours.
 
-## *Covenant Seasons*
+## Covenant Seasons
 
 Covenants are often classified according to their season, which is a complex measure of the age, power, and influence of the covenant. Both players and characters might refer to a covenant's season and the following gives an indication of its meaning. Of course, this can only be a guide, as the circumstances of each covenant are unique.
 
@@ -690,7 +690,7 @@ Autumn covenants are mature settlements, which have usually been continuously in
 
 **Connections:** The covenant probably has numerous relationships with the other covenants of the Tribunal (and quite likely even further afield). Individual exapprentices may be obligated to their parens' covenant, and an Autumn covenant may have founded colony covenants.
 
-### *Through The Aegis*
+### Through The Aegis
 
 Some connections between the covenant and the rest of the Tribunal may be antagonistic, and the covenant may be enmeshed in a web of political alliances and feuds.
 
@@ -722,7 +722,7 @@ The ruins of a collapsed Winter covenant - maybe centuries old - are taken over 
 
 **Connections:** Most of the covenant's alliances and contacts have atrophied through lack of use, but the gravitas of the covenant's name may still carry some residual influence. The new magi may be able to capitalize on and rebuild these ghostly, tenuous links, or they may prefer to forge new ties.
 
-## *The Covenants*
+## The Covenants
 
 The covenants in this book are as follows.
 
@@ -767,16 +767,16 @@ Nestled in a densely forested valley in the hinterland of the city of Dortmund, 
 **Build Points**: 650 + 1000 (Hidden Resources)
 
 
-## *Chapter Two*
+## Chapter Two
 
-# *The Northern Seas*
+# The Northern Seas
 
 The Covenant of the Northern Seas is a spring covenant formed from a flotilla of ships that navigate Mythic Europe's northern seas, charting courses from the Rhine to Hibernia, and Iceland to Iberia. The covenant's magi are led by a magus of House Tytalus, who brings years of experience at sea and a desire to see his new covenant achieve its full potential. Behind this though, the Tytalus is really after something audacious; the founding of a new Tribunal in the one place nobody has yet thought to look.
 
 
 **Tribunal**: Normandy **Year Founded**: 1209 **Season**: Spring **Symbol**: A Cog at Full Sail
 
-## *History*
+## History
 
 As a Spring covenant, The Northern Seas has little history to speak of beyond the events that led to the covenant's formation. The rest, of course, is yet to be written.
 
@@ -794,7 +794,7 @@ Leaving this fleet in Hilde' care, Carles traveled widely looking for disaffecte
 
 Depending on when you start, the magi have either just started sailing together or are about to start their maiden voyage as a covenant. Until this point, the covenant's time has been taken up with outfitting each ship with the essential laboratory. And now, the open ocean awaits.
 
-## *Boons & Hooks*
+## Boons & Hooks
 
 The covenant is described through the following Boons and Hooks, details of which can be found in the *Covenants* supplement:
 
@@ -1049,7 +1049,7 @@ Giving the covenant members a degree of freedom is part of his strategy. He inte
 
 Hilde Oddfish has a problem. Her shark Heartbeast rages so fiercely that the only place she feels safe is at sea. It is not just her own safety that concerns her. The giant's blood running through her veins, the berserk fury that seethes behind her eyes, and the lack of control she has over her magic combine to make Hilde an unpredictable woman to be around. She knows this and holds it all back as far as she can, but cannot ultimately fight what she is.
 
-## *Covenant Summary*
+## Covenant Summary
 
 The Northern Seas was built with 1088 Build Points, as described below.
 
@@ -1061,7 +1061,7 @@ The Northern Seas was built with 1088 Build Points, as described below.
 | Specialists & Teachers           | 155          |
 | Vis Sources & Stocks             | 160          |
 
-## *Columba*
+## Columba
 
 **Characteristics:** Int +1, Per 0, Pre +2, Com +3, Str –1, Sta 0, Dex –1, Qik –1
 
@@ -2163,7 +2163,7 @@ Equipment: Quilted Armor, knife, dagger Encumbrance: 1 (2)
 
 Appearance: Sunburned arms and faces, calloused hands, and weathered clothing.
 
-## *The Gift of Magestones*
+## The Gift of Magestones
 
 While the covenant's ships lack a magical aura, there exists one tantalizing option; Magestones. The story goes that while Verditius was learning Hermetic magic from Bonisagus he enchanted a number of fist-sized onyx pebbles, each with the two runes for Creo and Vim engraved upon them. These stones each create a localized level 3 magic aura large enough to cover a magus' laboratory. Apart from a few secretly given to the covenant of Oculus Septentrionalis in the Rhine, Durenmar jealously guards all the remaining stones that they are aware of.
 
@@ -2175,7 +2175,7 @@ Whichever way you approach it, Magestones provide a means of giving each magus i
 
 See *Guardians of the Forests*, page 70 for more details on Magestones.
 
-## *Story Seed: The Magical Whale*
+## Story Seed: The Magical Whale
 
 Sailing with the covenant for a season, Maris of Tytalus tells tales of an immense whale that brings a magical aura to the surface each time it breaches. A ship tacking alongside can benefit from that aura for a while. Is this just a tall tale of the sea or has Maris discovered a powerful resource? Pressing Maris for more information, Carles asks for volunteers to hunt down the whale and discover the source of its power.
 
@@ -2189,7 +2189,7 @@ The magi of the Northern Seas spend their time as other magi do, in their labora
 
 The lack of aura does not prevent magic from being used of course, but the magi of the Northern Seas do not enjoy the same benefit that other more conventional
 
-## *Story Seed: The First Contract*
+## Story Seed: The First Contract
 
 The covenant has been engaged to take a small cargo of tin from South- ampton to Riga. Two nights into the journey, a stowaway is discovered try- ing to pilfer food. This young girl is no urchin; she is clearly the daughter of someone important. As the magi learn more, it seems that she is fleeing a marriage to an elderly knight arranged by her father for monetary gain. Her sweetheart has already fled her father's abuses and she is going to Riga to be with him.
 
@@ -2197,7 +2197,7 @@ Can the magi allow themselves to be dragged into this tale of love and loss? Wha
 
 magi might. However, the magi are charting the seas and looking for stable magical auras which might one day allow them to benefit while at sea.
 
-## *Life At Sea*
+## Life At Sea
 
 Life at sea is hard enough, but there are distinct challenges for a magus whose career consists of long months of study and delicate laboratory work.
 
@@ -2209,7 +2209,7 @@ Just as a magus on land might find, follow, and exploit a magical stream, so the
 
 Each magus has a copy of the Carta Ma-
 
-## *Story Seed: The First Act of Piracy*
+## Story Seed: The First Act of Piracy
 
 Having heard of a valuable cargo of silver and other treasures on its way to Denmark, the covenant resolves to take it. When they board the ship, however they find little treasure but a handful of monks on their way to save a village from the curse of devilry and witchcraft. The treasure on board is the sa- cred relics and paraphernalia that they carry with them. Do the magi take the treasure and leave the monks and the villagers to their fate, or do they take the virtuous path?
 
@@ -2236,11 +2236,11 @@ The charter is interesting for the things it doesn't say. In promoting recogniti
 
 The oldest two magi, Carles and Hilde, supplied the majority of the covenant resources when the six magi formed the covenant, but all took their share. Carles has also shown the way of hospitality by recording all the covenant members on his sanctum marker.
 
-## *Covenant Site*
+## Covenant Site
 
 The covenant has few true buildings as it is based on a flotilla of ships. Each ship in the covenant is either a cog or hulk up to size +8 (as per *City & Guild*, page 77) and has a base value of 52 Mythic Pounds for a ship of *Standard* construction, 104 Mythic Pounds for a ship of *Superior* construction, or 260 Mythic Pounds for a ship of *Excellent* construction, which provide a total of 6, 9, and 12 Damage Levels respectively.
 
-## *Life on Board Ship*
+## Life on Board Ship
 
 Regardless of type or quality, each ship in the flotilla has a capacity of around 125 tonnes and a crew of 13 including the captain. The grogs described above are additional as they occupy a specific role. None of the ships have so far been enchanted or opened for enchantment by a Hermetic shipwright. Each ship can be affected by the standard Hermetic Structure Target.
 
@@ -2273,7 +2273,7 @@ The magi may wish to modify their ships once the covenant sets sail and their in
 
 A Hermetic shipwright could enchant the entire vessel, but even separate devices can affect the ship as a structure. See the *Hermetic Projects* supplement for more information on these options.
 
-## *La Charytee: Carles Magnus*
+## La Charytee: Carles Magnus
 
 La Charytee is a large cog of Excellent construction, having 12 Damage Levels and providing a bonus of +2 to all sailing activities. She has a distinctive tall tower at the rear of the vessel, the balcony of which is richly painted red.
 
@@ -2284,7 +2284,7 @@ Carles has outfitted La Charytee with a relic; the Long Bone of Epiphanius. With
 The Long Bone costs 35 Build Points, which is 30 for the Faith Score and a fur-
 
 
-## *The Long Bone of Saint Epiphanius*
+## The Long Bone of Saint Epiphanius
 
 Saint Epiphanius (died 403) was the bishop of Salamis on the eastern coast of Cyprus and a noted polemicist warn- ing against the dangers of heresy in all its forms. He lived into his eighties and was noted for his mastery of many lan- guages.
 
@@ -2314,7 +2314,7 @@ While the sanctum marker bears the names of each covenant member, Carles ensures
 
 **Characteristics:** Size +0 (0), Refinement
 
-### *Through The Aegis*
+### Through The Aegis
 
 +2, General Quality +1, Upkeep +3, Safety +1, Warping +0, Health +0, Aesthetics +2
 
@@ -2330,7 +2330,7 @@ These enhancements cost 30 Build Points.
 
 La Charytee is captained by Gilot Vallet, a shaven-headed robust man with exacting standards. His Personality Traits are Exacting +3, Loyal to Carles +2, Reckless –1.
 
-## *Marie de Bayonne: Hilde Oddfish*
+## Marie de Bayonne: Hilde Oddfish
 
 The Marie de Bayonne is a flat-bottomed hulk of size +8 and Superior construction, providing 9 Damage Levels and a +1 bonus to sailing rolls when sailing close to shore. She is, however, given to frequent leaks and the crew are often kept busy making good and bailing out.
 
@@ -2352,7 +2352,7 @@ These enhancements cost 30 Build Points.
 
 The Marie de Bayonne is captained by Taupin le Ribaut, a gray-bearded tyrant who runs a decent God-fearing ship. He's a fair captain, but woe betide those who fall short of his standards. His Personality Traits are Merciless +3, Pious +2, Loyal to Hilde +1.
 
-## *The Black Bark: Andrew of Jerbiton*
+## The Black Bark: Andrew of Jerbiton
 
 The Black Bark is a large hulk with 6 Damage Levels. Its hull has been painted pitch black to reflect its name, which immediately provides the ship with a certain presence. There is no mistaking the Black Bark when she rounds into port.
 
@@ -2364,7 +2364,7 @@ The laboratory on the Black Bark has the statistics for the standard shipboard l
 
 The Black Bark is captained by Pierre l'Englais, a vibrant clean-shaven man, secure in the camaraderie he enjoys with his crew. He will gladly lead his crew and risk his ship in any venture, for there is no life but the adventurous life in his mind. His Personality Traits are Adventurous +3, Energetic +2, Cautious –1.
 
-## *The Laurens: Columba*
+## The Laurens: Columba
 
 The Laurens is a large cog of size +8 and Standard construction, providing 6 Damage Levels. She is wider in the beam than most other vessels, which makes her slower but more stable in rough seas. Her cargo capacity is 25 tons more than the covenant's other ships, room that could be turned over quite easily to a council chamber of sorts.
 
@@ -2379,7 +2379,7 @@ The Laurens is captained by a Breton by the name of Tiessot. He has a tendency t
 
 est, and take his turn on watch. He enjoys these quiet moments when he can be alone with his thoughts. Those thoughts often turn to Columba, a woman he knows he can never have nor ever speak of his affections. His Personality Traits are Thoughtful +3, In love with Columba +2, Protective of his crew +1.
 
-## *Le Genet: Tibor Milos*
+## Le Genet: Tibor Milos
 
 Le Genet is an ocean-going cog that has been patched and repaired many times in her life. She is of Standard construction and has 6 Damage Levels.
 
@@ -2391,11 +2391,11 @@ The laboratory on Le Genet has the statistics for the standard shipboard laborat
 
 Le Genet is captained by Susane la Fèvre, a strong-willed and vocal captain and harsh task master. She feels the need to exert her leadership, but marries this with an ability to hold her drink and to haul a rope as well as any of her crew. She also has no qualms with piracy, and is willing to turn her unease at Tibor's curse into a fearsome legend of the sea-wolf if it helps her cause. Of all the captains sailing for the Northern Seas, Susane is perhaps the most loyal to her own path over that of the covenant's. Her Personality Traits are Garrulous +3, Showy +1, Loyal to the Covenant –2.
 
-## *Story Seed: The Rusted Bars*
+## Story Seed: The Rusted Bars
 
 All iron rusts and corrodes at sea, but never as quickly as that fateful night. Although Tibor retired to his cage at the onset of the wolf, the bars quickly crumbled and broke under the wolf's attack. This freed Tibor and the wolf had free rein all over Le Genet. Are the crew able to safely recapture their transformed master? Was the rust- ing of the bars natural or was there a malicious power at work? Who would want to seed fear and mistrust within the Northern Seas?
 
-## *Trinite: Matilda Page*
+## Trinite: Matilda Page
 
 Unlike the other ships in the covenant, Trinite is a Mediterranean nef, long bodied with a sturdy keel and towers for and aft. The ship is a gift from the Merfolk to Carles and was once a wreck that laid for many years on the seabed. This gives the ship a weathered patina that Matilda finds pleasing.
 
@@ -2413,7 +2413,7 @@ Her hand has adapted to the constantly-rolling motion of the sea and she is now 
 
 The ship is captained by Sarrasin, a Frenchman of Moorish ancestry. His manner, dress, and language mark him out as a Frenchman and any prejudice concerning his descent is soon eased and so he lacks the Outsider Flaw that might normally be expected. His Personality Traits are Patient +3, Paternal to his crew +2, Respectful +1.
 
-## *External Relations*
+## External Relations
 
 No covenant operates alone and the Northern Seas has its share of allies, rivals, and enemies.
 
@@ -2609,7 +2609,7 @@ Each ship in the fleet is issued with one of these devices.
 
 Individually these devices cost 16 Build Points. There are six of them, for a total of 96 Build Points.
 
-## *Library*
+## Library
 
 Given the covenant of the Northern Seas' unusual makeup, it does not have a library that other magi might recognize; there are no alcoves, no lecterns, and no dedicated librarian. At present, the covenant's books are either distributed among the magi or lodged with Otto-Pauels in Boulogne and magi must travel there either to study or to take books away with them. It is surely a situation that cannot continue and the young covenant would do well to consider their arrangements. It is possible that a magus willing to maintain the library aboard their ship may secure certain favor from the covenant in return.
 
@@ -2742,7 +2742,7 @@ Tibor Milos, *Circular Ward Against Demons*, ReVi 15, **ArM5**, page 162. (3BP)
 
 Felix of Tytalus, *Aegis of the Hearth*, ReVi 30, **ArM5**, page 161. (6BP)
 
-## *Vis Sources*
+## Vis Sources
 
 The Northern Seas has few confirmed and stable vis sources and the magi may want to search for more during the covenant's early years. Those sources that they know about and regularly collect from are described below. Most however, are not within Normandy's traditional boundaries and so these have not yet been declared. Columba and Carles agree that they fall outside of Normandy's interest and this has yet to be challenged at Tribunal.
 
@@ -2810,7 +2810,7 @@ This source is considered a *seisin* of The Northern Seas and is protected by Tr
 
 This source costs 20 Build Points.
 
-## *Vis Stocks*
+## Vis Stocks
 
 The covenant's vis stocks are a combination of pawns held by each magus, two rooks of vis in a sunken ship, and extraordinary spell-like and lesser enchantment vis.
 
@@ -2873,7 +2873,7 @@ The two shields together cost 3 Build Points.
 
 Carles has two fixed arcane connections to significant places; one to each of Boulogne and
 
-## *Story Seed: The Oyster Prince*
+## Story Seed: The Oyster Prince
 
 The long-lost son of the Oyster King returns to the sea to take up his kingdom. His first decree is that those who murdered and robbed his most noble father should be found and made to pay for their crimes.
 
@@ -2901,15 +2901,15 @@ Dolly Price keeps five pawns of Corpus vis in her chambers at the tavern in the 
 
 This share costs 1 Build Point.
 
-## *Wealth*
+## Wealth
 
 There is little actual income generated at present, and so it is fortunate that the covenant has significant monetary stores, bought with 74 Build Points. Some of this money is in the form of treasure, some in the form of silver coin distributed among the magi, and some is lodged with the trading houses of the region. Each magus has silver and other treasure to the sum of 50 Mythic Pounds on board, with the exception of Carles and Hilde who both have 100 Mythic Pounds. A further 340 Mythic Pounds is accessible through mercantile families and societies in London, Brügge, Hambug, Lübeck, Bergen, and Riga.
 
-## *The Covenant in Play*
+## The Covenant in Play
 
 The Northern Seas has been designed as a player covenant providing independence from Tribunal oversight and the opportunity for adventure on the high seas.
 
-## *Covenant Themes*
+## Covenant Themes
 
 The three defining covenant themes are independence, adventure, and selfdetermination.
 
@@ -2921,7 +2921,7 @@ The three defining covenant themes are independence, adventure, and selfdetermin
 
 The Northern Seas is also a Spring covenant, which means that there is work to be done finding and claiming resources, building alliances, and protecting the covenant from challenge and danger.
 
-## *Player Character Roles*
+## Player Character Roles
 
 The four younger magi are suitable for use as player characters while Carles and Hilde are best used as storyguide characters, either to provide the impetus for ad-
 
@@ -3053,7 +3053,7 @@ Carles wants to found a new Tribunal. This covenant is the first step toward tha
 
 His current plan involves assisting in the foundation of three other ocean-going covenants; one in Stonehenge, one in Hibernia, and another in either the Rhine or Loch Leglean. This should provide at least twelve magi across four separate covenants, which is considered the legal minimum required to found a Tribunal. This is going to take time and resources. Other magi need to be persuaded as to the benefits of founding an ocean-going covenant, and getting them started may require the purchase of ships, the hiring of crews, and a great deal of support. Even once this is done, there is no guarantee that these young covenants will embrace Carles' aims and the politics are going to be difficult.
 
-### *Through The Aegis*
+### Through The Aegis
 
 If you are following the Lotharingian Tribunal saga seed presented in *The Lion & The Lilly*, then both sides of this debate may seek to secure the support of the Northern Seas for their own political devices, irrespective of Carles' own future aims. There may be opportunities in this for those prepared to play the long game.
 
@@ -3085,7 +3085,7 @@ With few resources to call upon, it does not take long for the covenant to feel 
 
 As with any covenant of the Normandy Tribunal, the Northern Seas is expected to take part in the tourney; the magical competition with both resources and pride at stake that takes place at the conclusion of each Tribunal gathering. As a young covenant, Carles is under no illusion about their prospects, but he would like the covenant to win at least one event, if only for one year, before the covenant breaks away to found its own Tribunal. The covenant's grogs seem rather keen to take on the melee, and the covenant may look to Tibor to take on the certamen tournament.
 
-## *The Northern Seas as an NPC Covenant*
+## The Northern Seas as an NPC Covenant
 
 The magi of the Northern Seas can fulfill many roles in existing sagas, from allies to adversaries, suppliers to customers, and perhaps even more.
 
@@ -3135,9 +3135,9 @@ The magi of the Northern Seas are predominantly young, barely out of apprentices
 Player apprentice characters may decide, like Columba, to run away to sea, swept away with the romance and adventure of it all. The Northern Seas would make a good backdrop to stories of these apprentices discovering more about themselves in an environment that contrasts with the more formal and more usual covenant that they came from. In such stories, the other troupe players could easily pick up and play the magi of the Northern Seas.
 
 
-## *Chapter Three*
+## Chapter Three
 
-# *Jardin: A Summer Covenant*
+# Jardin: A Summer Covenant
 
 La Jardin stands nestled in the vineyards of the Cahors district, on a rocky bluff a day's journey south of that city. From the main road, one can see an impressive red brick structure with a copper dome, and a golden brick tower, rising above the ancient walls of a crumbling Visigothic fortress. Those traveling up the winding road that leads to the covenant soon cross an ancient series of defensive earth ramparts, now forming terraces for vine trellises rich with the great black grapes of the region.
 
@@ -3150,7 +3150,7 @@ Jardin is an insular, inward looking covenant, where by custom women are rulers 
 
 **Tribunal:** Provence **Year Founded:** 1164 **Season:** Summer **Aura:** 4 (Faerie) **Symbol:** A single rose in bloom
 
-## *History*
+## History
 
 The Visigoths built a fort here, but it soon lay abandoned to the southern winds and slowly the walls crumbled. Eventually a small hamlet grew up on the slopes. In 1130 a young knight built a manor, and under the benign lordship of the Montdumerc family the hamlet grew in to the prosperous village of Belfort du Quercy.
 
@@ -3164,7 +3164,7 @@ Joia was trained by Humbert to be a Mentem specialist in his image, but Androcle
 
 Joia has completely changed the nature of the covenant in attempting to create the mythical Garden of Love of the troubadours within
 
-## *The Legend of Jardin*
+## The Legend of Jardin
 
 Most in the Tribunal know of Jardin by reputation, as a place of strange customs, odd magi, and traditional ways, and some say one of the customs is an evil one. Even the Redcaps prefer not to tarry too long, for it is rumored that to come here and stay three nights ensures one will glimpse one's heart's true desire. It is said that hidden with the gardens are entrances to the fabled Garden of Love,
 
@@ -3177,7 +3177,7 @@ With the death of Audiarda in 1198 it was Joia's sister Esquiva who took on the 
 
 It is Serena who perhaps poses the greatest danger to the covenant, for while she serves as autocrat faithfully, she deeply resents her position as a servant, and wishes to re-establish herself in her rightful role as chatelaine. However a further threat comes from the lioness Bjornaer Lexora, who seeks to restore the sacred magical Bjornaer Mystery site that she believes Joia's faerie meddling has corrupted.
 
-## *Boons & Hooks*
+## Boons & Hooks
 
 **Autocephalous (Major Boon):** The covenant benefits from the traditions of the County of Toulouse and owes fealty to no noble but Serena. This independence from the feudal system is typical of the region.
 
@@ -3191,7 +3191,7 @@ It is Serena who perhaps poses the greatest danger to the covenant, for while sh
 
 **Vivid Environment (Minor Boon):** Even before the aura was corrupted to Faerie the covenant was a place of incredible beauty, and now the gardening has turned it into a lush sensual paradise, a place of incredible beauty.
 
-## *Covenant Summary*
+## Covenant Summary
 
 Jardin was built with a budget of 1466 Build Points, distributed as described below.
 
@@ -3208,7 +3208,7 @@ Jardin was built with a budget of 1466 Build Points, distributed as described be
 |                          |                |
 
 
-## *Joia du Lua of House Jerbiton*
+## Joia du Lua of House Jerbiton
 
 **Characteristics**: Int +1, Per –1, Pre +5, Com +2, Str –2, Sta 0, Dex +1, Qik 0
 
@@ -3335,17 +3335,17 @@ As per the spell of the same name in **ArM5**, 137 (Base 4, +1 Touch, +2 Sun)
 
 **Road (Minor Hook):**The covenant stands on the main road from Cahors to Toulouse, which is busy all day. Being on a rise only a mile from the road, with large stone walls and the impressive library building and tower, it attracts all manner of visitors. Weary travelers seek safety and a bed for the night, knights seek adventure in the Garden of Love, magi call by seeking refuge from the dust of the road, and priests arrive to question the beliefs of the inhabitants in the attempt to root out heresy. As such the covenant must deal with unexpected guests on a regular basis, and special arrangements are in place to prevent the magi being unduly disturbed.
 
-## *Magi*
+## Magi
 
 There are currently six magi on the Council of Jardin, listed here in order of precedence as established by the Charter (see later).
 
-## *Joia du Lua of House Jerbiton*
+## Joia du Lua of House Jerbiton
 
 Joia du Lua poses as chatelaine, and is a renowned patron of troubadours and advocate of Occitanian culture. It was she who, inspired by the songs of the troubadours, found a way to recreate the mythical Garden of Love, and in her attempt to protect the South she has allowed many to quest for their Heart's Desire within the regio (see later). On occasion this has led to disaster, as the quester has returned changed terribly by their experiences within, or not returned at all. The magi have taken action to cover up these incidents, or selectively change the memories of the victims of the garden. Joia's passionate support of Occitan culture extends to political support for Count Raimond, and a so far passive opposition to the claims of the French monarchy, the de Montfort family, and the crusaders. She thinks nothing of sheltering faidits, those dispossessed by the fighting, as long as they share her patriotism for the County of Toulouse. Her hostility to the French extended to poor treatment directed at Beatriz, her French-born apprentice, and sooner or later she will bring the attention of hostile armies upon the covenant, just as befell Bellaquin in 1202 or Lariander in 1209.
 
 Joia inspires many lovers in fin amor, but has never consummated any of her romances. To do so would be a breach of the noble ideals of romantic love. Nonetheless her beauty, based more upon her enchanting personality than physical looks, is such that vain women detest her, and for this reason she has the Envied Beauty Flaw (see Houses of Hermes: Societates, page 56). Joia's magic manifests her sigil of the delicate perfume of summer flowers.
 
-## *Lexora of House Bjornaer*
+## Lexora of House Bjornaer
 
 Lexora is the second maga of Jardin, a position that never ceases to infuriate her. She was apprenticed to Androcles before he came to the covenant, and even though she is slightly older than Joia and was Gauntleted at the same time, Joia takes precedence through her family connections. Lexora is immensely proud, and refuses to accept she is second in anything; she schemes to seize the position of first maga, and disagrees on principle with anything Joia proposes. She spends increasing amounts of time roaming the region in her lioness Heartbeast form, engaging in physical combat as a way of dealing with the frustration of life at home. She has Initiated the Bjornaer Mystery of Sensory Magic (*Houses of Hermes: Mystery Cults*, page 27) and soon plans to take another Initiation, perhaps traveling to Crintera to learn the mysteries of Clan Maruhs, to which she belongs (*Houses of Hermes: Mystery Cults*, page 12).
 
@@ -3360,13 +3360,13 @@ while he accepts she would be a better leader than Joia, he favors a defensive, 
 
 Lexora's casting sigil is warm sunlight. When viewed by Intellego Vim magics, the effects of her spells have a dazzling golden aura, and objects or people affected by her may feel the warmth of the sun, or appear brighter than usual.
 
-## *Xenophanes of House Criamon*
+## Xenophanes of House Criamon
 
 In the late twelfth century House Criamon embarked upon a remarkable experiment, an attempt to teach a fool wisdom. Xenophanes is a very unusual magus, in that he is not very bright. In fact, he is fairly stupid, lacking common sense, and, while highly educated, simple minded. He rushes in where angels fear to tread, and is very confident in his own abilities, because he knows no better. A capable magus, his lack of understanding of much that happens around him is potentially dangerous. Not all in House Criamon approved of the experiment (see Miniatia Sophia, later) but the Cave of Twisting Shadows, where the boy was apprenticed, regards the experiment as a major development in the pursuit of The Enigma.
 
 A gentle soul who loves tending the garden in the pale light of the moon while Hypatia, his cat familiar, prowls around, Xenophanes has little understanding of the internal politics of the covenant. He is, however, very attached to the local Cathars, and has written a book on their beliefs and ideas. As such, he is sympathetic to the Gorgiastic Cathars of Toulouse, but he has not yet decided to renounce his House and join them, as every time he comes close he talks to Father Augustine and becomes too confused to leave the Church and make the leap of faith of fully
 
-## *Joia du Lua of House Jerbiton (Cont'd)*
+## Joia du Lua of House Jerbiton (Cont'd)
 
 #### **Story Seeds for Joia**
 
@@ -3541,13 +3541,13 @@ His Silver Cord link to Hypatia gives him some defense against his stupidity, an
 
 Xenophanes' sigil is a feeling of bliss, a soft emotion that gives gentle pleasure. Even objects effected by his spells seem somehow contented, and those handling them may feel the sigil manifest.
 
-## *Beatriz of House Jerbiton*
+## Beatriz of House Jerbiton
 
 Beatriz is a broken husk of a maga. After serving her apprenticeship here at the covenant under Joia, she chose to remain despite the fact that the two women despise each other. In 1209 she witnessed the terrible massacre at Beziers, and was one of the very few to escape. In the face of the crusade she felt helpless.
 
 A few years ago Beatriz made the fateful decision to quest for her Heart's Desire. The
 
-## *Lexora of House Bjornaer (Cont'd)*
+## Lexora of House Bjornaer (Cont'd)
 
 #### **Sensory Magic**
 
@@ -4122,11 +4122,11 @@ enant (in particular, seeking a reconciliation between the Hermetic Cathars and 
 
 Alyssa's sigil manifests as the smell of goat's cheese.
 
-## *Notable Covenfolk*
+## Notable Covenfolk
 
 Some of the most important of the mundane inhabitants of Jardin are described here, but the troupe should supplement them to develop their own themes.
 
-## *Companions*
+## Companions
 
 Only one of the companions associated with Jardin is detailed here. The others include a Jewish banker from Cahors, a romantic troubadour enraptured with Joia, and a dispossessed knight (a faidit) who has taken to little more than banditry in opposition to the Crusade, who often escapes his pursuers by hiding within the covenant walls.
 
@@ -4134,7 +4134,7 @@ Only one of the companions associated with Jardin is detailed here. The others i
 
 The niece of Joia, Serena is the last of the Montdumerc line and heir to the title of lady of Jardin once her aunt Joia dies. She serves as the covenant autocrat, and takes out her frustration at being little more than a glorified servant to the magi upon the covenfolk.
 
-## *Serena, Autocrat of Jardin*
+## Serena, Autocrat of Jardin
 
 **Characteristics:** Int 0, Per 0, Pre +3, Com +1, Str 0, Sta 0, Dex 0, Qik 0
 
@@ -4180,7 +4180,7 @@ scious
 
 **Appearance:** With pale skin and auburn hair, Serena is a great beauty who physically resembles Joia, but is still outshone by the older woman.
 
-## *Ahenobarbus of Tremere (Cont'd)*
+## Ahenobarbus of Tremere (Cont'd)
 
 and his militites, upon whom House Tremere would rely in the event of a House Tytalus attack.
 
@@ -4357,7 +4357,7 @@ She is vain, and bitterly resents Joia's beauty.
 
 Serena costs 6 build points.
 
-## *Grogs*
+## Grogs
 
 The grogs of Jardin are drawn from the village of Belfort, and few of them have much military experience. Despite Rosamonde, the turb leader's, best efforts, and Ahenobarbus' attempt to instill some degree of discipline and improve their arms and armor, they are a rather hapless collection of eccentrics. Three wear partial leather, carry bows, shield and a short spear, and serve as scouts, and three have partial scale, poleaxes and daggers, and serve primarily as shield grogs.
 
@@ -4367,7 +4367,7 @@ Rosamonde leads the turb. Now in her forties, Rosamonde is deeply troubled by ar
 
 Rosamonde costs 8 build points.
 
-## *Specialists and Other Covenfolk*
+## Specialists and Other Covenfolk
 
 A number of specialists and servants complete the staff of the covenant.
 
@@ -4377,7 +4377,7 @@ John the Gardener is an attractive young man of 27, with an eye for the ladies. 
 
 Bohella the Librarian (aged 52) is an elderly woman who has served the covenant well for twenty five years now. Her knowledge of the covenant's history is better than anyone but Joia and Lexora's, and she has Profession: Librarian 9 (preserve books) and Organization Lore: Jardin
 
-## *Alyssa, Maga Trianomae (Cont'd)*
+## Alyssa, Maga Trianomae (Cont'd)
 
 #### **Story Seeds for Alyssa and Fauconrouge**
 
@@ -4396,7 +4396,7 @@ It is notable that every time Alyssa has had a chance to kill or utterly defeat 
 Fauconrouge converses with other hawks from time to time, and has recently learned that the Isles d' Yf have become home to a group of Muslim wizards, seemingly practicing Hermetic magic. The region was for centuries blighted by the rogue Moorish covenant known as Fraxinetum, who were defeated by the alliance that became the Coenobium (see Faith and Flame: The Provençal Tribunal). Whoever these secretive Moorish magi may be, Alyssa is determined to seek them out in her role as a maga Trianomae, and help them gain official recognition as a Provençal covenant. It has not occurred to her yet that neither they, House Flambeau, nor the powerful federation of covenants called the Coenobium may fully appreciate her plans, and that she is rushing headlong in to a potentially dangerous situation.
 
 
-## *Rosamonde Unaud, Turb Captain*
+## Rosamonde Unaud, Turb Captain
 
 **Characteristics:** Int 0, Per 0, Pre +2, Com 0, Str +1, Sta +1 (1), Dex +1 (1), Qik +1 (1)
 
@@ -4440,7 +4440,7 @@ Fauconrouge converses with other hawks from time to time, and has recently learn
 
 **Appearance:** Although Rosamonde is still a muscular woman, her greying hair and creaking bones testify to her age and arthritis.
 
-### *Through The Aegis*
+### Through The Aegis
 
 8 (history) among her many Abilities. Her Communication is +3. and she costs 9 build points.
 
@@ -4450,7 +4450,7 @@ Sicart the Scribe is responsible for preparing inks, vellum, and book binding, a
 
 The servants are efficient, courteous and clean. They serve dutifully, and a position at the covenant is highly valued by the inhabitants of Belfort, but Serena's threats of punishment and terrible rages have recently caused a loss of morale, and some resentment.
 
-## *Covenant Organization*
+## Covenant Organization
 
 The covenant is ruled by a Council of Magi, with no real positions or titles. While everyone has one vote, Joia has nominal leadership based upon her family claim to Jardin and her personal charm.
 
@@ -4462,7 +4462,7 @@ The Council employs a system of precedence, with the First Maga being the person
 
 Precedence is used in the selection of vis from the stocks, selection of books in the library for study, and allocation of mundane and magical resources, with the First Maga choosing first and so on. The magi are presented above in order of precedence.
 
-## *Life at Jardin*
+## Life at Jardin
 
 Life at Jardin is generally sleepy, some would say idyllic, but the struggle for leadership between Joia, Lexora, and Serena has a subtle impact on almost every aspect of day to day life. It is somehow assumed that women will always rule here, and no one, not even Ahenobarbus, has ever seriously questioned this fact. It may be related to the very magic of the place.
 
@@ -4472,7 +4472,7 @@ The Provençal Tribunal is unusual in that by the Peripheral Code a covenant cha
 
 Each maga of Jardin is expected to spend one season a year in the service of the covenant. What is acceptable service varies upon perceived needs. New suggestions for types of service must be approved by a Council vote, and such approval may be subsequently be withdrawn by a second Council vote. At the moment the following are acceptable as covenant service and no new vote is required, simply the declaration
 
-## *Story Seed: No More Gardening?*
+## Story Seed: No More Gardening?
 
 Lexora has long opposed Joia's expenditure of covenant resources and time on the Garden of Love, but Xenophanes is a strong supporter, and Ahenobarbus is influenced by Serena to maintain the project. If Lexora can find support on Council to rule that tending the garden is no longer acceptable as covenant service, the time Joia and Xenophanes can spend gardening diminishes, and the Garden grows wild and untended. Strange effects begin to arise as neglected love alters the covenant aura, and romances between covenfolk break down acrimoniously. The inhabitants of the regio become even more wild and dangerous, and occasionally emerge to set things right, or perhaps the regio slowly becomes increasingly hard to access. Hatred and open conflict in the covenant increase as love turns sour. In the long run the aura will revert to Magic, but in the short term the thwarted faeries will seek vengeance.
 
@@ -4497,15 +4497,15 @@ Each maga in good standing receives four pawns of vis a year, in addition to any
 
 In addition to covenant service, Jardin expects resident magae to assist in the collection of the vis sources and if present participate in Council meetings. The covenant charter also explicitly requires magae to obey the Code of Hermes and specifies that any maga convicted of a Low Crime by a lawfully constituted Tribunal will be asked to leave the covenant. So far, this has never occurred, and if it did there would be considerable controversy, especially if it was believed by most of the magae that the judgment was unfair or the offense slight. A recent addition to the covenant charter brought in only last year in the light of the situation at Tolosa Paratge requires that magae swear to never declare Wizard's War on a fellow covenant member, or use Certamen to overturn a ruling agreed by Council. While the Council passed the item (with Ahenobarbus and Lexora opposing), it was agreed that these provisions do not apply to those who have already sworn the covenant charter, and thus currently apply to none of the inhabitants of the covenant.
 
-## *Covenant Buildings*
+## Covenant Buildings
 
 The ancient walls of the fort are crumbling, but the structures within are in good repair.
 
-## *Environment*
+## Environment
 
 The beautiful gardens of Jardin make the covenant a blaze of color, a perfumed paradise of subtle scents and astonishing beauty. Everything is well tended, and the garden is a pale echo of lost Eden.
 
-## *Main Structures*
+## Main Structures
 
 The map of the covenant shows the layout of the buildings. All are within the protection of the dilapidated walls of the ancient fortress.
 
@@ -4543,11 +4543,11 @@ One corner of the fort is filled with wild roses, which grow in tangled heaps ov
 
 In the wall of the fort is a peculiar door, built in to the thickness of the ancient stone. Painted sky blue, if a character looks at it through the corner of her eye it seems to open into a beautiful garden in the height of summer, regardless of the time of day or season. This is the entrance to the first level of the regio and is always kept locked. Only a true lover, as judged by Joia, will be allowed to pass through, and Joia carries the key at all times. Those deemed worthy are allowed to enter the Garden of Love, and undertake the quest for their heart's desire.
 
-## *The Garden of Love*
+## The Garden of Love
 
 The Garden of Love is a powerful Faerie regio, shaped by the dreams of the magi, the plans of Joia, and hard work and mundane craftsmanship. Its deeper levels are dangerous, and sometimes frightening, and the magi rarely go there. Even Joia knows little of its mysteries or inhabitants.
 
-## *The Summer Garden (Regio, Faerie Aura 5)*
+## The Summer Garden (Regio, Faerie Aura 5)
 
 Crossing over into the regio takes characters to a level 5 Faerie aura. While still apparently on the ridge, it now appears that they are in a fabulous walled garden that mirrors the fortress just left behind in general layout. Where the library stands in the mundane world is a great pool of water. The location
 
@@ -4563,7 +4563,7 @@ No longer present in the mundane world, the pool is a powerful initiatory site f
 
 The maze is a proper maze, not a labyrinth, and leads to the next level of the regio. Hedge mazes have only just come into fashion, and this maze, created by Xenophanes with exquisite topiary, guards the entrance to the dangerous Night Garden. While the Garden of Love's outer Summer regio is a place of joy and idleness, the Night Garden contains the secrets of the heart, and only those Joia considers ready for the quest to find their Heart's Desire (and some unfortunate grogs and covenfolk sent to gather vis) are ever allowed to enter. The center of the maze is a tree with beautiful shining fruit, but there is no mundane way to reach it, and even if the fruit were somehow attained it is a deadly poison. The way to pass on to the next level is simply to become lost within the maze.
 
-## *The Night Garden (Regio, Faerie Aura 7)*
+## The Night Garden (Regio, Faerie Aura 7)
 
 Overhead a full moon stands high in a balmy summer night sky. A gentle breeze seems to whisper soft secrets, and caress the skin; all around the garden rustles with life, but furtive, secret life. Dark eerie shadows are cast by the trees — the night garden is a frightening place. Emerging from the maze, the walls seem distant, further away than in the previous level, and it is impossible to see far, so tangled and wild are the briars and trees. All around is lush vegetation, and paths that wind among great moss-covered rocks, through grassy clearings filled with bluebells, and by tiny brooks that flow nowhere and end in deep, perhaps bottomless, pools. Wandering through the Night Garden brings one to all kinds of exotic flowers, plants and strange sights. None of these are created or tended by the magi, who avoid entering this level of the regio as far as possible. Magical monsters and strange beings live here, and they can be deadly, although they are shy and rarely encountered. These beings are often allegorical representations of the personality flaws, fears and problems that separate the quester from her Heart's Desire, but very few are self aware enough to realize this. Because the inhabitants vary so much, taking on forms appropriate to the quester, they are not detailed here, but several must be overcome by anyone questing for their Heart's Desire, and the storyguide should create appropriate challenges.
 
@@ -4688,7 +4688,7 @@ The covenant does not have its own chapel, but all the magi except Lexora attend
 
 The Cathars hold their prayer meetings at the barn of the Unaud family, a stone and wooden barn near the family house. It has a Dominion aura of 3 from years of use as a prayer room. Raissa Unaud, the ancient matriarch of the family, is a Perfecta, and good friend of Xenophanes, though she disapproves mildly of magic. Other Perfecti come and go, always staying with members of the Unaud clan.
 
-## *External Relations*
+## External Relations
 
 Jardin has missed the last four Tribunal meetings, having turned insular following the death of Humbert. With only six votes it is a fairly minor force compared with the larger covenants of the Tribunal, but this political inactivity does not mean the magi do not visit, trade with and have opinions on the other covenants, or they on Jardin. If the magi can unite enough to send representatives to the next Tribunal meeting, then these existing relationships may prove crucial in determining the political outcomes of Jardin's intervention.
 
@@ -4714,22 +4714,22 @@ Tolosa Paratge: The collapse of Tolosa Paratge has robbed Jardin of an important
 
 One member of Jardin has, however, already become actively involved. Alyssa has decided that the Gorgiastic Cathars must be saved, and has, unbeknownst to the others, been silently scrying upon the White Faction, preparing to try to force entry to the regio.
 
-## *Resources*
+## Resources
 
 Jardin has a number of important resources, both mundane and magical.
 
-## *Income Sources: The Vineyards*
+## Income Sources: The Vineyards
 
 The region around Cahors is famous for its black wines, which are actually very deep red in color, while the grapes themselves are a deep purplish-black. The grapes are known as Côt Noir, a variety of Malbec grape. They need a great deal of sun, and so are normally grown on south facing slopes. Almost every
 
 
 available hillside in the region is terraced with vines, with dozens of vineyards producing the excellent wine. Cahors wine is exported widely, and is considered a luxury item, being famous even in England for its quality.
 
-## *Enchanted Devices*
+## Enchanted Devices
 
 The following enchanted device is the only one held by the covenant.
 
-## *Library*
+## Library
 
 The impressive library building is built of beautiful glazed red brick in the style of the region, and is similar in form to a basilica, with a great domed roof covered in verdigrised copper. Despite the resemblance to a church, it is clearly a secular building. Surprisingly, the building possesses no windows at all, and where one might expect to find them are alcoves that hold gaudily pained wooden statues of classical figures associated with the arts and learning. Over the door, in pride of place, is the Roman poet Virgil, and flanking him Ovid and Homer. Steps lead up to a large double wooden door, which opens outward and is often left wide open during the day, the librarian believing the flow of air is good for the books. On entering the library up a short flight of steps one finds oneself in a large antechamber, which acts as both the librarian's office and the repository for mundane texts.
 
@@ -4745,7 +4745,7 @@ The second floor of the library is given over to the fine collection of tractatu
 
 Guests are welcome to spend a season or more copying books, providing they present a summa of equal or greater value to the collection in exchange. Such guests are waived the usual guest expenses, so valuable is the acquisition of summae considered to the covenant, even if the summa presented in exchange is on Arts already represented. All too often the Covenant Coun-
 
-## *Shield of Dismissal*
+## Shield of Dismissal
 
 Just within the gateway a grog waits and watches approaching visitors. Those of obvious rank or wealth are always admitted, but known troublemakers or those who appear to be of no importance, French, or clearly allied with the crusade are turned away with a magic item created by Ahenobarbus to try to reduce the flow of unwanted visitors.
 
@@ -4773,7 +4773,7 @@ Humbert de Cavirac, *Principles of Grammar*, Artes Liberales summa, Quality: 10;
 
 Roderic of Castille, *The Laws of the Hermes*, Code of Hermes summa Quality: 12; Level: 2 (18 BP)
 
-## *The Mysterious Book*
+## The Mysterious Book
 
 There are two books in this room that are not written in Latin. One is Joia's simple primer for Occitan readers learning Latin, but the other is more mysterious. In fact, it is hard for most magi to even make out what language it is in, though the alphabet is Visgothic uncials, which are used in many of the Latin books and while old fashioned are a perfectly readable form of the normal Latin alphabet. While the script is therefore clear to any magus, the words the letters spell out are completely unknown. In fact, the book is written in the Gothic language, and the content is based upon an analysis of the Visigothic stones around the pool that Androcles translated and which first brought him to the covenant site. Along with his adaptation of the information into Initiation Scripts that are contained in the book, the book contains many secrets of House Bjornaer, covering the period up to 1150, that serve as a primer for developing Organization Lore: House Bjornaer.
 
@@ -4872,7 +4872,7 @@ Each of the laboratory texts has been fully translated, and they are divided by 
 
 *Soothe Pains of the Beast* CrAn20 *True Rest of the Injured Brute* CrAn20 *The Wizard's Mount* CrAn35 *Opening the Tome of the Animal's Mind* InAn25 *Beast of Outlandish Size* MuAn15 *Disguise of the Putrid Aroma* ReAn5 *Soothe the Ferocious Bear* ReAn10 *Viper's Gaze* ReAn15 *The Gentle Beast* ReAn25 *Mastering the Unruly Beast* ReAn25 *Commanding the Harnessed Beast* ReAn30
 
-## *Story Seed: Heresy in the Library?*
+## Story Seed: Heresy in the Library?
 
 Xenophanes has contributed just three books to the library, but if the Church authorities or a hostile magi were to examine them problems could arise. One, The Simple Christians, is a very basic primer on Cathar Theology. It is not an endorsement, but it is sympathetic, and it also discusses the beliefs of the Gorgiastic Cathar tradition within Ex Miscellanea, and so could be used as evidence that the Order is sheltering heretics within its ranks. The second book is just as explosive: a simple tractatus on Vim, it equates The Gift with shards of the Divine broken by the Fall and yearning for return to Heaven, and escape from the cycles of time. Church scholars, unless Gifted and possessing Magic Theory, would have difficulty making sense of it, but they would cer tainly believe it heretical and call upon Xenophanes to recant his errors, and this would bring the entire covenant under severe scrutiny. His third text is, fortunately, uncontroversial. So low is the regard that Xenophanes' intelligence is held that no one at the covenant has yet read them and noticed the potential problem, but when a scholarly papal legate visits, the situation quickly gets out of hand, and the magi must find some way to stop him examining these books further. Even worse, visitors from other covenants copied the books, and they are starting to circulate through the Order. Can the copies be recovered and destroyed in time?
 
@@ -4912,7 +4912,7 @@ Xenophanes has contributed just three books to the library, but if the Church au
 
 *The Enigma's Gift* CrVi30 *The Invisible Eye Revealed* InVi15 *Detect the Gift* InVi20 *Piercing the Faerie Veil* InVi20 *Piercing the Magical Veil* InVi20 *Wizard's Boost (Mentem)* MuVi25 *Wizard's Reach (Mentem)* MuVi25 *Wizard's Communion* MuVi30 *Wind of Mundane Silence* PeVi20 *Unraveling the Fabric of Mentem* PeVi30 *Gather the Essence of the Beast* ReVi15 *Aegis of the Hearth* ReVi25 *Maintaining the Demanding Spell* ReVi25 *Suppressing the Wizard's Handiwork* ReVi25 *Opening the Intangible Tunnel* ReVi30 *Watching Ward* ReVi30 Total Build Points in Laboratory Texts 276
 
-## *Vis Sources*
+## Vis Sources
 
 The covenant has access to a number of vis sources, most very close to the covenant itself. Until 1202 the vis to the north was largely owned by the magi of Bellaquin, and they still lay claim to many of the readily available vis sources in that area and collect them, a situation Jardin respects.
 
@@ -5004,7 +5004,7 @@ One day in early summer a white dove appears, flying over the covenant. At once 
 | Vim         | 25    | 5                        |
 | Total       | 109   | 22                       |
 
-### *Through The Aegis*
+### Through The Aegis
 
 #### **The Blooming of Love**
 
@@ -5045,7 +5045,7 @@ The tiny flecks of blood collected in Blood on the Talons (see earlier) are tran
 
 Some years ago the Mistral, a strong
 
-## *Covenant Finances*
+## Covenant Finances
 
 The covenant has 300 pounds of silver at its disposal, stored in a locked chest within the manor house. The covenant in 1220 makes a profit of 250 pounds from the vineyards, and spends 218 pounds each year, leaving a surplus each year of 32 pounds added to the stores. One major expense is tithing ten percent of income to both the Church and the Cathars. The expenditure in Mythic Pounds breaks down as follows:
 
@@ -5153,11 +5153,11 @@ The faeries clearly represent a new and growing threat to Jardin, as the more po
 
 Joia is careful about who she allows to attempt the quest in the Garden of Love, but some who come to seek their Heart's Desire are shattered by the experience and their minds broken. Trying to restore them to some semblance of sanity, or to help cover up their sudden disappearance, especially given that many of them are politically powerful nobles from the southern resistance, will be a recurring issue the magi must face.
 
-## *Player Character Roles at Jardin*
+## Player Character Roles at Jardin
 
 Jardin is quite suitable for use as a covenant for player character magi. Any of the magi can be replaced, with Alyssa, Beatriz, Ahenobarbus, and Xenophanes being the first to be replaced, in that order. It is also possible that the characters may have served their apprenticeships here, and Xenophanes, Ahenobarbus, and Lexora have all recently trained apprentices, so newly gauntleted magi of Criamon, Tremere, and Bjornaer would make excellent character choices. The order of beginning training would be Lexora's apprentice, then Xenophanes (by a season), then Ahenobarbus', who arrived with his master after beginning the apprenticeship in the Transylvanian Tribunal. Such characters should take new positions in covenant precedence: Lexora and Xenophanes' apprentices ahead in precedence even of Ahenobarbus, who arrived here in 1209, and his apprentice ahead of Alyssa. It is even possible that Joia trained a second apprentice after her
 
-## *Moving Jardin to other Tribunals*
+## Moving Jardin to other Tribunals
 
 Jardin is very clearly situated in the Provence Tribunal during the Albigensian Crusade, but it can, with a little work, be moved to to other Tribunals and times. Ro mantic love is a common human condition, and while the formal forms of Courtly Love are still mainly sung of by the troubadours of Provence and the trouverts of Normandy, Eleanor of Aquitaine introduced the motifs to the Stonehenge Tribunal, and they are now increasing in fashion in the Greater Alps, Rhine, Iberia and Roman Tribunals too. Moving the covenant to Normandy re quires the fewest changes, as Catharism has a hold in some communities there, and Joia's allegiance can be switched to the French king in the great struggle with the south.
 
@@ -5180,7 +5180,7 @@ The grogs and covenfolk receive a +4 bonus to Personality Traits (including Loya
 
 In order to reverse this trend, the covenant can employ a steward and a chamberlain, both of whom help to improve the prevailing loyalty. Loyalty is discussed in Covenants, pages 30–39.
 
-## *Jardin as a Background Covenant*
+## Jardin as a Background Covenant
 
 Magi know that Jardin has a strange secret, and the Redcaps talk openly of the belief that those who sleep there too long are cursed with knowledge of their Heart's Desire, always depicted as something terrible and frightening. This may well intrigue those who hear of it, and they may set off to seek to understand the mystery, find their Heart's Desire or break the curse. While Joia eventually explains the truth to those she comes to trust, getting her to allow one to perform the quest requires considerable tact or cunning.
 
@@ -5251,7 +5251,7 @@ in the line of Damen. In a great crisis the magi of the line of Tessa and Damen 
 
 There is an unknown number of magi in the line of Bastards, who are the Gifted children of unGifted Branchidae who have lost contact with the ancestral family at Didyma. Such magi could be in any Hermetic House, unaware of their Branchidae birth-right.
 
-## *Recent History*
+## Recent History
 
 Since 1132 the covenant has been under the leadership of Alexander. He inherited the title of Patriarch when, after an absence of five consecutive solstices, his parens Jason was deemed lost to Final Twilight. The title of Patriarch is held by the oldest resident Branchidae at Didyma, and Alexander is the fourth Patriarch (following Soteria, Basil, and Jason). Alexander was a young magus (in his early 40s) when Jason died and there were elder non-resident Branchidae magi, Damen and Tessa, who could have returned to rule over Apollo's sacred spring. Although the details are now obscure, Alexander somehow prevented Damen and Tessa from returning to Didyma. Both elder Branchidae have since reputedly entered Final Twilight (several decades ago), and so Alexander's reign as Patriarch is now without apparent challenge. His filia Nikola (herself now an old woman) should be the next Matriarch (if she outlives Alexander), although there may be potential challengers among the filii of Damen and Tessa.
 
@@ -5259,7 +5259,7 @@ Under Alexander, the covenant has become a steadily more blatant presence in the
 
 The last Wizard War fought at the covenant was in 1110, when Hector (House Merinita) was killed by his filius Achillios. The dispute nominally involved a laboratory con-
 
-## *Prophecies and the Oracle*
+## Prophecies and the Oracle
 
 The Branchidae petition Apollo Didyma (the aspect of Apollo resident at Didyma) for prophecies. These are received via oracle visions, which are then interpreted by the Branchidae. The oracle is usually a separate person to the Branchidae performing the interpretation.
 
@@ -5307,7 +5307,7 @@ While Herakles was slaying sea-monsters, great political changes were occurring 
 
 The fall of Constantinople also preceded the arrival of the Flambeau magus William of Normandy. William followed in the wake of the crusader armies (or so he says), and after the siege he adventured in the Anato-
 
-## *Covenant Summary*
+## Covenant Summary
 
 Didyma was built with a budget of 2575 Build Points, distributed as described below.
 
@@ -5817,7 +5817,7 @@ R: Touch, D: Momentary, T: Individual Inflicts 15 Might damage on a demon. (Base
 Penetration 40)
 
 
-## *Herakles of House Merinita*
+## Herakles of House Merinita
 
 **Characteristics:** Int 0, Per –1, Pre +1**,** Com –2, Str +5(1), Sta +4, Dex +2, Qik +1
 
@@ -6664,7 +6664,7 @@ at the covenant, in the 8th century monastic ruins at Didyma. This dispensation 
 
 **Cleon:** A tax official and husband of Callista, he helps to ensure smooth relationships between the covenant and the Miletos officials. Civil and Canon Lore 5 (taxation), Intrigue 6 (officialdom). (6 BP).
 
-## *Covenant Organization*
+## Covenant Organization
 
 The majority of the covenant, including the magi, are based in the temple complex at Didyma. The covenant also owns warehouses in Miletos, where it is represented by a companion, Callista. The metropolitian of Miletos is an ally of the covenant, although his relationship with the covenant is not well known.
 
@@ -6674,7 +6674,7 @@ The majority of covenfolk dress, act, and speak indistinguishably from the Greek
 
 The covenant welcomes visitors, particularly pagans, and is hospitable to all magi, except those with bad reputations who are treated with distrust.
 
-## *Hierarchy and Governance*
+## Hierarchy and Governance
 
 The covenant is governed by the Council of Magi, which is led by the Patriarch (see elsewhere for charter and details). The covenfolk are governed by their own subservient Council of Archai which meets once a month to decide most issues related to mundane resources.
 
@@ -6755,11 +6755,11 @@ The typical agenda of the council is:
 - The Patriarch confirms existing officeholders, or names new ones.
 - Any other issues are raised by resident magi and others.
 
-## *Covenant Buildings*
+## Covenant Buildings
 
 The main part of the covenant is at Didyma. The covenant also owns property in Miletos.
 
-## *Environment*
+## Environment
 
 Geographically, Didyma is an uninspiring flat, dry plain, less than 100 paces above sea level. Crossing the plain is a regular, paved road, marked every half mile with a saint's shrine. This Sacred Way stretches from Miletos, about 10 miles to the north, makes a brief diversion to the fishing town of Panormos and terminates, in the center of the Didyma plain, in a craggy hollow split from the limestone rock.
 
@@ -6769,7 +6769,7 @@ Reaching out of the hollow, slicing long black shadows over the plain, is a coll
 
 The hollow depression that the temples are built within is about five paces deep, further accentuated and defined by a retaining wall. This wall is the Boundary target for the Aegis of the Hearth.
 
-## *Main Structures*
+## Main Structures
 
 Most of the main structures at Didyma are ancient temples in varying stages of ruin.
 
@@ -6814,7 +6814,7 @@ There are two collapsed buildings at the covenant: Hera's temple, which collapse
 
 The covenant lies in a hollow in the Didyma plain. The hollow's perimeter is edged by a stone retaining-wall about five paces tall. The wall is too high for cavalry to traverse and is treacherous for heavily armed soldiers. For characters climbing the wall make a Dex + Athletics roll (encumbrance due to armor applies) against an Ease Factor of 9; failing
 
-### *Through The Aegis*
+### Through The Aegis
 
 characters fall and take +10 damage.
 
@@ -6824,7 +6824,7 @@ On the eastern side of the covenant, five large, wide steps (each one pace tall,
 
 A wooden crane is used to lift bulky items into and out of the covenant-basin (Zeus' Arm; an enchanted item, see later).
 
-## *Laboratories*
+## Laboratories
 
 All of the residents of Didyma have personalized their laboratories in some way.
 
@@ -7168,7 +7168,7 @@ Polyaigos was also founded about 100 years after Didyma on an island 150 miles s
 
 The Verditius covenant of Ingasia and the Merinita covenant of Aegaea have good relations with Didyma. Herakles's grand-parens was a magus of Aegaea.
 
-## *Resources*
+## Resources
 
 The Covenant has the following resources.
 
@@ -7303,7 +7303,7 @@ The covenant has ten of these swords. Five are usually carried by the warehouse 
 
 (Base 2, +1 Touch, +1 Concentration, +2 Metal; +10 Unlimited Uses)
 
-### *Through The Aegis*
+### Through The Aegis
 
 #### **Zeus' Arm**
 
@@ -7615,7 +7615,7 @@ North of Miletos is the mouth of the Meander river, the source of the silt that 
 
 The Sacred Springs (within the covenant enclosure) are worth 13 pawns of Intellego vis per year (one pawn each full moon). Ariane collects this vis with The Vis Net.
 
-## *Vis Stocks*
+## Vis Stocks
 
 The vis stocks (the coffers) are held in chests in a large room in the temple to Athena. Individual pawns are stored in bronze coins, stamped with the Art glyph, and the Order's glyph on the obverse. Ariane usually transfers the vis from its raw form into the coins (1 pawn per coin). In total there are about 100 coins of each Art available as a substrate for stored vis, and the coins were made in the eleventh century by Orion of Verditus. The coins are specifically designed to hold vis and this prevents any weird reactions or contaminations between the concentrated stock of vis. Some of the pawns, however, are faerie tainted.
 
@@ -7623,11 +7623,11 @@ The current stocks are (29 BP):
 
 Creo: 13 pawns Intellego: 45 pawns Muto: 12 pawns Perdo: 0 pawns Rego: 3 pawns Animal: 8 pawns Aquam: 6 pawns Auram: 1 pawn Corpus: 7 pawns. Herbam: 13 pawns Ignem: 8 pawns Imaginem: 0 pawns Mentem:0 pawns Terram: 5 pawns Vim: 24 pawns
 
-## *Wealth*
+## Wealth
 
 The covenant has 100 Mythic Pounds worth of mundane wealth (10 BP).
 
-## *The Covenant in Play*
+## The Covenant in Play
 
 The covenant of Didyma comes to life in your saga when you play it.
 
@@ -7635,11 +7635,11 @@ The covenant of Didyma comes to life in your saga when you play it.
 
 *Numbness of the Gift* (InVi 20) *Piercing the Faerie Veil* (InVi 20) *Piercing the Magic Veil* (InVi 20)
 
-## *Vis Sources*
+## Vis Sources
 
 Ariane, as covenant Chancellor, is responsible for vis harvesting, but she usually delegates to grogs equipped with suitable items. William and Herakles eagerly see to the Hunt. The covenant vis sources (all reg-
 
-## *Story Seed: Spice Harvest*
+## Story Seed: Spice Harvest
 
 The Arab market vis is, probably, only a small fraction of the potential harvest, with the remaining vis arriving in markets in Constantinople, Athens, Venice, etc. The player characters may think to follow the spice to its source and thereby capture a much greater vis source. Of course, this will potentially disrupt the vis sources of magi living near these other markets, angering those magi. Alternatively, another covenant (or non-Hermetic forces) could do the same, cutting the Miletos supply.
 
@@ -7655,7 +7655,7 @@ Additional player character magi of any age may be easily added to the covenant,
 
 Additional magi residing at the covenant (regardless of House) means that the number of votes at the Council of Magi and who fulfills each office should be adjusted. This could change the balance of power within the covenant, and potentially away from the Branchidae: Alexander and Nikola currently hold the majority of the power and will resent it if newcomers do not support them.
 
-## *Suggested Storylines*
+## Suggested Storylines
 
 Storylines at Didyma can include the following. Of course, your troupe can mix elements of the storylines during your saga.
 
@@ -7679,7 +7679,7 @@ The Tessa and Damen Wards: When Jason entered Final Twilight and Alexander seize
 
 Unbeknown to Nestor, these wards were accidentally destroyed in the 1190s. So there is actually nothing to prevent Nestor's return. Nikola does not know about the wards, unless Alexander reveals information prior to his
 
-## *The Tessa and Damen Wards*
+## The Tessa and Damen Wards
 
 ReCo(In) 60 R: Touch, D: Fire, T: Boundary, ritual
 
@@ -7727,7 +7727,7 @@ The Seljuk Sultanante of Rum (in the south east corner of the Theban Tribunal) i
 
 Due to his stretched resources, Miletos' Strategos has difficulty maintaining order in the slum, and there is also a regional food shortage
 
-## *Moving Didyma to Other Tribunals*
+## Moving Didyma to Other Tribunals
 
 Didyma can be moved to other locations that border the Mediterranean (including the Rome Tribunal, parts of the Iberian Tribunal, North Africa and the Middle East), as it is plausible for an ancient temple to Apollo to have been built in such locales. The Language, Area Lore Abilities, and other region-specific details of the characters should be adjusted as appropriate.
 
@@ -7775,9 +7775,9 @@ If Didyma is used as an NPC covenant, then your characters may wish to (or be fo
 - Theban Tribunal officials may travel to Didyma to meet and influence Nikola, who is a member of the Tribunal's Council of Magistrates.
 
 
-## *Chapter Five*
+## Chapter Five
 
-# *The Covenant of Longmist*
+# The Covenant of Longmist
 
 Few visitors come to this mist-shrouded valley in Hibernia's northern Ulaid province, but it is home to faeries who live deep underground in the dark, giants, and an isolated and insular covenant of magi.
 
@@ -7785,7 +7785,7 @@ Deep in Winter, the covenant of Longmist is dominated by two elder magi, one liv
 
 Perhaps there is another way. As the elders continue their descent into Twilight and infirmity, the younger magi of the covenant could chart a course between the extremes represented by their elders. But will they work together to govern by accord, or will they succumb to the same in-fighting that has blighted Longmist for the last two generations? Winter may be inescapable, but the magi have it within their power to weather the storm.
 
-## *History*
+## History
 
 The Hibernian covenant of Longmist was founded in 927 in a mist-shrouded valley between Lough Beagh and Lough Inshagh in the province of Ulaid, and it spent its early days securing and defending its lands. The valley was already contested by both druids and a Bjornaer wolf and his followers. On their own, the magi of what was to become Longmist were no match for either. And so they sought allies in the Túatha Dé Danann of the otherworld. There is no record of the bargain struck with the people who live under the ground, but it is a relationship that persists today.
 
@@ -7812,7 +7812,7 @@ Despite its isolation, Longmist never had trouble acquiring apprentices. Insular
 
 The last century has seen foreign invaders, both mundane and Hermetic, come to Hibernia. Longmist broke its silence and called for these newcomers to be hounded out of the Tribunal. These calls were ignored, resentment for which is still strong within the covenant.
 
-## *Boons and Hooks*
+## Boons and Hooks
 
 The covenant is described through the following Boons and Hooks:
 
@@ -7843,7 +7843,7 @@ tower was conjured through ritual during Longmist's long summer and is the work 
 
 **Dwindling Resource (Minor Hook):** For years, the walls of Longmist have produced raw Vim vis. But the yield has recently been falling. Whether this is because the aura is generating less vis or the covenfolk have become less adept at finding it isn't clear. This Hook applies to the From the Very Walls Themselves vis source as described later. From the start of play, the source loses 10% of its yield each year.
 
-## *Hibernia*
+## Hibernia
 
 For much of its existence, Hibernia was paid little notice by the continent and its magi were received with slight regard. All that changed when the English crossed the sea and wrested control of Ireland from its High King. With this change in mundane politics, the Order looked again at Hibernia and found a land rich in Magical auras and vis. Over the last fifty years, magi from across the sea have come to Hibernia to claim land and form new covenants, something that has caused much concern to the elders of Hibernia, who fear that they will ultimately be displaced.
 
@@ -7878,7 +7878,7 @@ The humans native to Ireland in 1220 are the Sons of Mil. Mil was a knight whose
 
 **Superiors (Minor Hook):** The younger magi have few rights over the covenant's resources. Requests for access or use must be put before the council and an inquorate council or veto from an elder means that the resource may be withheld. Negotiation and service is often required.
 
-## *Magi*
+## Magi
 
 The six magi of Longmist consist of two elder magi, both in excess of 100 years of age, and four younger magi, each no older than 35. The generation between these two has been lost, either to Twilight or death.
 
@@ -7886,7 +7886,7 @@ Two of these younger magi were apprenticed to the two Elders and their loyalties
 
 The magi of Longmist live under a strict rule that enforces structure upon their days, curtails their conduct, and even guides their studies. However, the magi have differing views on this rule, with some eager to explore beyond the covenant or learn magic that might draw disapproval, while others feel a responsibility to uphold the rule.
 
-## *The Elder Magi*
+## The Elder Magi
 
 The two elder magi living at Longmist have been designed as NPCs able to guide and direct the player characters.
 
@@ -7898,7 +7898,7 @@ He had been a vocal opponent to the influx of continental magi over the last 50 
 
 He has written a number of polemic texts that stress the independence of his Ordo Hiberniae. His aim is to see Hibernia secede from the Order and determine its own Code. He calls for residency to be limited to those magi who can trace their presence in Hibernia at least three generations back. Those who cannot should be re-
 
-## *Covenant Summary*
+## Covenant Summary
 
 Longmist was built with a budget of 2165 Build Points, distributed as described below.
 
@@ -7912,7 +7912,7 @@ Longmist was built with a budget of 2165 Build Points, distributed as described 
 
 Most of the covenant's vis is in the form of stocks built up across the centuries rather than in a reliable yearly income.
 
-## *Past Magi*
+## Past Magi
 
 Many magi have called Longmist home, but only six remain. So what happened to the others? Here are some notable magi, the years they were active at Longmist, and notes on their fates.
 
@@ -8873,23 +8873,23 @@ Aged 36, he frequently commits adultery with Úna the Herbalist. With no wife of
 
 He has a Dexterity of +2, an Animal Handling score of 7, and costs 7 Build Points.
 
-## *Servants*
+## Servants
 
 There are twelve servants in all and none live within the tower in the regio, instead living in the small village surrounding the old tower in the mundane world. There are eight women and four men. The women tend to the chores around the tower and work the kitchens, while the men are little more than laborers, usually working under the direction of the specialists described above.
 
 The covenant also employs four laborers and four teamsters who are responsible for general lifting, carrying, and other chores, and securing provisions for the covenant.
 
-## *Grogs*
+## Grogs
 
 The covenant has a small turb of six grogs, captained by Bran in Gai Móir. For the most part, the grogs spend their days on the toll-bridge that forms an important part of the covenant's income, escorting supply runs to market, and occasionally standing guard at the covenant itself. There is rarely any bother on the mundane front, but they are called upon now and then to dissuade hungry giants who wander into Longmist's shrouded valley.
 
 At the start of 1220, the grogs fight as a trained group (**ArM5**, page 173) and their preferred weapons are spear and sparra.
 
-## *Covenant Organization*
+## Covenant Organization
 
 The magi live apart from their covenfolk in a tall tower hidden in a regio. For their part, the covenfolk retire to their small village each night and leave the magi to their strange business.
 
-## *Hierarchy and Governance*
+## Hierarchy and Governance
 
 While age itself does not grant additional power at council, magi who have trained an apprentice are treated as elders and are afforded more respect than those who have not.
 
@@ -8911,7 +8911,7 @@ Censor: Responsible for leading magical rituals and ceremonies and charged with 
 
 Propraetor: Responsible for maintaining relations with outside covenants, nobles, the Church, and so on. This role is cur-
 
-## *Éamonn Cruittire*
+## Éamonn Cruittire
 
 **Characteristics:** Int +1, Per 0, Pre +2, Com +3, Str –1, Sta 0, Dex 0, Qik 0
 
@@ -8958,7 +8958,7 @@ rently held by Lugh.
 
 Magi holding one of these roles gains an additional vote at council upon matters pertaining to their responsibilities. A quorate council must be convened to elect a magus to one of these roles. The candidate(s) may not themselves vote, and the matter is treated as falling within the responsibility of each of the roles described above, allowing holders to cast a second vote.
 
-## *Life at Longmist*
+## Life at Longmist
 
 The magi of Longmist live an almost ascetic life governed by set events in the day, agreed forms of study, manner of dress, and a uniformity of magical style to such an extent that even their casting sigils become aligned. None have challenged this way of life for many years.
 
@@ -9053,7 +9053,7 @@ It is important to note that supernatural visitors are granted tokens too, as ar
 
 The tokens are kept in a small wooden box in the main hall for easy access should they be needed.
 
-## *The Offices of Longmist*
+## The Offices of Longmist
 
 All magi of Longmist, no matter their rank or status, follow the same schedule. They consider this discipline to have seen the covenant through its three centuries and they view the ways of outsiders as lacking moral fortitude. Visiting magi are advised of the schedule and expected to observe it.
 
@@ -9076,11 +9076,11 @@ Magi with a religious bent must fit their Christian observances into their day a
 
 Each event through the day is announced by the tolling of a once-magical bell, now rung by one of the covenfolk. Should magi undertake a rare excursion beyond Longmist, they attempt to abide by the offices unless doing so is likely to cause problems either for them, their hosts, or their companions. Accompanying grogs are so well versed in the offices that they help their masters by keeping track as best they can.
 
-## *Covenant Site*
+## Covenant Site
 
 Typical of many covenants, Longmist has a central building as its focus and a small village housing the covenfolk nearby. But it also has a regio at the heart of the covenant that hides the main tower from the mortal world around it.
 
-## *Environment*
+## Environment
 
 Longmist was built in a mist-shrouded valley between Lough Beagh and the smaller Lough Inshagh in Donegal in the province of Ulaid in Hibernia. The weather-ravaged hillsides surrounding the covenant support few trees, but there is some woodland by the shores of the nearby lakes. Winters are generally mild but wet, and summers pleasantly warm, though midges and other biting
 
@@ -9115,7 +9115,7 @@ Magi looking out of their laboratories see the valley extending away below them.
 
 The strength of this regio dropped to 6 nearly thirty years ago, something that some attributed to the strengthening ties to the Túatha Dé Danann, others to the arrival of the Cailleach, and others to unsanctioned magical experiments.
 
-## *Laboratories*
+## Laboratories
 
 Each magus has his own laboratory, and these are detailed below. There are also three extra laboratories once owned by former members of Longmist.
 
@@ -9141,7 +9141,7 @@ These enhancements cost 60 Build Points.
 
 Deep beneath the covenant, seemingly more accessible to the Túatha Dé Danann and the creeping faeries of the earth than the covenfolk, Conchobor's laboratory is a cold and dark place. The main chamber is spacious and is a thing of rocky steps and
 
-## *The Warrior Women*
+## The Warrior Women
 
 The main covenant gates, though now seized shut, were once opened and closed on command by two magical bronzes each in the form of a heroic warrior woman. They are larger than a man and of an athletic build. Their hair is long and plaited, and appears to be banded by a circlet of bronze. Each wears a coat of plates and has a small sparra hanging from her belt. They are posed as though heaving upon chains that run through their hands to pull open the gates.
 
@@ -9234,7 +9234,7 @@ There are three other laboratories that are currently unoccupied. Much of the va
 
 **Impossible Activities:** Enchanting Items These extra laboratories costs the cov-
 
-## *Outlying Buildings*
+## Outlying Buildings
 
 enant 150 Build Points.
 
@@ -9256,7 +9256,7 @@ Columb Brathair's chapel, built and provisioned in earlier times, has a Divine a
 
 Visitors may be surprised at this, as the clapper is reputed to be housed in the Shrine of the Bell in Armagh, and indeed such a Divine relic can be found there. That two such relics can be found is surely God's work indeed.
 
-## *Associated or Owned Properties*
+## Associated or Owned Properties
 
 There are now just two sources of income remaining, a small fishery, and a toll bridge. They are treated as a Lesser Income Source providing a total of 80 Mythic Pounds each year.
 
@@ -9268,11 +9268,11 @@ This is a series of looping channels cut into the banks of the stream feeding Lo
 
 The covenant controls a toll bridge to the south of Lough Beagh. Footfall is starting to dwindle as a larger toll bridge built further south by the English provides an alternative route. If things continue, it may be just five years before this source of income stops paying for itself. Unless something is done, each year from the time that play starts, reduce the earned income by 8 Mythic Pounds.
 
-## *External Relations*
+## External Relations
 
 Longmist has few external relations and its most favorable relationships are no longer with mortal kings or Hermetic covenants, but with the faeries who live beneath the ground and the spirits of the air.
 
-## *Clan Mac Tire*
+## Clan Mac Tire
 
 The nomadic Clan Mac Tire, a collection of seven Bjornaer magi, is Longmist's enemy. The founder of their line was murdered and skinned to provide Longmist's cathach and it is an insult that the clan's current leader, Cú Chonnacht Cluasach Mac Tire, has vowed to put right.
 
@@ -9284,7 +9284,7 @@ Bán wants to stop targeting the pelt itself and to begin targeted attacks again
 
 Given their itinerant lifestyle, the clan lacks the raw magical power they need, but they now control a large band of robbers and mercenaries, enough to challenge the faerie powers that guard the cathach on Longmist's behalf. It will not be long before
 
-## *Story Seed: The Dwindling Fish*
+## Story Seed: The Dwindling Fish
 
 Few fish have been caught in the withies and those that have been are small. Where have all the fish gone? Is the covenant outstripping the land? Or perhaps the new magi upstream in search of a covenant location are stealing what belongs to Longmist. What does this mean for the vis sources?
 
@@ -9407,7 +9407,7 @@ Each of the Mac Tire magi has a similar laboratory designed to be packed away fo
 
 The servant (with Intelligence +2) is a learned clerk who sees to the needs of the magi in their laboratories. He does a good job for the magi but his loyalty is born of fear rather than attachment.
 
-## *Mundane Relations*
+## Mundane Relations
 
 The days of entertaining kings and princes are long since gone. There are no hunts in the nearby woodland, no trade in enchanted items, and nobody comes seeking the wisdom of the druids any more. The only mundane relations now are through the goods sold at market, the travelers over the toll bridge, and the jealous eyes of those who weigh up the grogs that guard the bridge and think that they could take it from them. If the magi of Longmist are not careful, they may soon find their grogs overrun and the toll-bridge lost.
 
@@ -9456,11 +9456,11 @@ The name of Longmist used to carry respect among the druids of Hibernia, but it 
 
 Connacht is still forbidden ground to the Order, so it pays to have contacts and allies across the border. Unfortunately, it has been so long now since Longmist had any dealings with them that they will need to find new contacts and build new relationships. However, at present, with its voice at Tribunal muted, the covenant has little to offer in return.
 
-## *Resources*
+## Resources
 
 Longmist traded many of their older resources with the druids of Connacht to ensure that they secured apprentices, and lost many others during engagements with faerie rogues. The resources described below represent those that remain. There are many others that have been lost, broken, or whose magic has expired. This is particularly true of many of the Verditius devices that the covenant has seen in its history.
 
-## *Enchanted Devices*
+## Enchanted Devices
 
 The following describes the items known to still be at Longmist. These cost 142 Build Points. Many others that once enhanced life at Longmist have been lost or broken and some have even been taken to the Hermetic graveyard at the covenant of Qui Sonant Pro Quieto to be buried with their creators.
 
@@ -9500,7 +9500,7 @@ Split into two halves, this wooden shield trimmed with a sharpened iron edge was
 
 It is displayed in Longmist's great hall and costs 10 Build Points.
 
-## *Story Seed: A Service for a Service*
+## Story Seed: A Service for a Service
 
 Ruadan's Túatha may protect the covenant and its Cathach, but they demand service in return. These things may be simple, such as confronting a dangerous presence in their under- ground home, or more subtle, such as bringing them the tears of a mother be- reft of her child.
 
@@ -9514,7 +9514,7 @@ This device, in the shape of a small wooden figurine of a horse and rider attach
 
 The device is normally worn around the neck, but the leather thong on the device is now very brittle and could easily break if mishandled.
 
-## *Story Seed: The Missing Cathach*
+## Story Seed: The Missing Cathach
 
 When a magus discovers a labora- tory text in Longmist's library describ- ing the form and power of the Cathach down to the last detail, the suspicion rises that the true cathach has been lost, replaced by an enchantment. If word of this got out, the covenant could fall as none of its resources would enjoy legal protection under the Code. Do the magi hide the discovery, bring it to council, or, assuming that it really is missing, try to find the true Cathach? But who would take it and why hasn't the Tribunal already heard about it?
 
@@ -9530,7 +9530,7 @@ An Intelligence + Finesse roll is used to determine the quality of the saddle, b
 
 The device costs 22 Build Points.
 
-## *Story Seed: The Cattle Raid*
+## Story Seed: The Cattle Raid
 
 Éamonn reports seeing a mechanical bull amid the herd of a Leinster covenant. Is this the bull missing from Longmist for so many years? If so, do the magi take the matter to Tribunal or, in the manner of the old ways, do they plan a raid to snatch the bull and return it to Longmist?
 
@@ -9604,7 +9604,7 @@ This effect tolls the bell at each equinox and solstice through the year.
 
 (Effect: Base 2, +2 metal, +1 Diameter; Modifications: +3 triggered by Divine the Heavens' Aspect)
 
-## *Prepared Casting Spaces*
+## Prepared Casting Spaces
 
 The greater tower houses a dedicated casting space in the form of a large circular chamber. The polished white stone floor is inscribed with various interlocking and separate circles, the walls contain glass mirrors that direct light, and from the ceiling hang numerous braziers. These props provide a +5 to casting totals for spells cast within the room and ceremonial magic cast here takes just one minute per magnitude.
 
@@ -9624,7 +9624,7 @@ Texts marked with an asterisk are written in vernacular Gaelic. All other texts 
 
 218 Build Points have been spent on Arcane Abilities, such as Finesse, Magic Theory, Parma Magica, and Penetration. The library also contains texts on each of the Realms as well as texts concerning the Sihr Ability of the Corrguineach. One of these books was given to the covenant by Brea Mac Boru, the druid killed during Dara's reckless summonings. A number of these volumes have been written in Gaelic, and one of these, the Lebor Feasa Runda,
 
-## *The Blade that Slew the Wolf*
+## The Blade that Slew the Wolf
 
 This great sparra, a traditional Irish ax, is the weapon that slew Ualgrimm, giving Longmist its Cathach. Its laboratory texts are now lost. The sparra stands five feet tall, and has a long gently curved haft of rowan wood, and a narrow protruding iron head, which is etched with Irish knotwork and Hermetic symbols inlaid with silver. It has seen the ministrations of a skilled Verditius, which has improved its combat statistics.
 
@@ -9833,7 +9833,7 @@ Aecor of Bjornaer, *Aquas ex Aquilonis Maria*, Aquam Summa, Level 14, Quality 10
 
 Marcus Pluviam of Bonisagus, *Praecipitatio*, Aquam Tractatus, Quality 9. Ponders
 
-## *Shape and Material Bonuses for the Boibel Loth*
+## Shape and Material Bonuses for the Boibel Loth
 
 The Boibel Loth is an ancient writing system consisting of sixteen characters. In addition to their function in written language, each of the characters has mystical as- sociations, which in their inscribed form contribute Shape and Material bonuses toward magical projects.
 
@@ -9973,7 +9973,7 @@ All effects required to create The Bronze Bull Verditius automaton, Various, *Ho
 
 *Endurance of the Berserkers*, ReCo 15, **ArM5**, page 134, (3BP)
 
-## *Vis Stocks*
+## Vis Stocks
 
 278 Build Points have been spent on vis, of which 80 Build Points have been spent on vis stocks and the remainder on sources. Some of the sources contain vis in the form of Extraordinary Vis, as described in *Realms of Power: Magic*.
 
@@ -10124,7 +10124,7 @@ The ax contains ten pawns of Mentem accrued faerie vis and the item costs 10 Bui
 
 See Realms of Power: Faerie, pages 19 and 62 for more details on accrued vis and pretenses.
 
-## *Vis Sources*
+## Vis Sources
 
 The covenant has the following ten sources to draw from. These days, it is rare for them all to be collected in a single year.
 
@@ -10134,7 +10134,7 @@ The covenant has the following ten sources to draw from. These days, it is rare 
 
 The Túatha Dé Danann entered into a pact with the covenant of Longmist many years ago. As part of that pact, while good relations persist between the Túatha Dé Danann and Longmist, they promised to lead the covenant to vis that only the Túatha Dé Danann could see.
 
-#### *Summary of Vis Stocks* **Art Pawns Build Points** Animal 0 0 Aquam 0 0 Auram 5 1 Corpus 15 3 Creo 10 2 Herbam 5 1 Ignem 0 0 Imaginem5 1 Intellego 10 2 Muto 10 2 Perdo 10 2 Rego 10 2 Mentem 5 1 Terram 5 1 Vim 15 3 Total 105 21
+#### Summary of Vis Stocks **Art Pawns Build Points** Animal 0 0 Aquam 0 0 Auram 5 1 Corpus 15 3 Creo 10 2 Herbam 5 1 Ignem 0 0 Imaginem5 1 Intellego 10 2 Muto 10 2 Perdo 10 2 Rego 10 2 Mentem 5 1 Terram 5 1 Vim 15 3 Total 105 21
 
 | Summary of Vis Stocks (Cont'd)                                            |       |              |                                                                                                    |  |  |
 |---------------------------------------------------------------------------|-------|--------------|----------------------------------------------------------------------------------------------------|--|--|
@@ -10268,7 +10268,7 @@ The hunt is now rarely conducted. It is also conducted outside lands recognized 
 
 30 Build Points
 
-## *Wealth*
+## Wealth
 
 30 Build Points have been spent on wealth, and this equates to 300 Mythic Pounds in monetary value. Very little of this is in the form of actual money as whatever is gained through the income sources is soon spent on running the covenant. Instead, there are large tapestries that once kept the walls insulated, and there is fine linen, silk, velvet, and fur bedding, glass for the windows, fine silver plates and cutlery. All these things hark back to the days when the covenant would entertain princes and receive gifts in exchange for their hospitality. None of this is used. It has all been stored away as the finery and comfort is considered a distraction.
 
@@ -10289,7 +10289,7 @@ Longmist has a +1 Living Standards Modifier as appropriate for a Winter covenant
 | The Hunt                        | 6 pawns of various Arts per year | 30           |
 | Total                           | 39                               | 198          |
 
-## *Hidden Resources*
+## Hidden Resources
 
 While many resources have been lost or destroyed across the centuries, including those whose magic failed when their creators died or entered Twilight, there are no further hidden resources waiting to be rediscovered. Any books, devices, or sources of vis that might once have belonged to Longmist are now the object of stories and are not bought out of the covenant's Build Points.
 
@@ -10297,11 +10297,11 @@ One item of note is the Bronze Bull. The covenant library contains laboratory te
 
 Troupes using Longmist as a player covenant may want to take the Hidden Resources Boon, balanced by the Contested Resource Hook in order to provide a further 250 Build Points of resources, representing those scattered far and wide. Reclaiming these lost resources then becomes an ongoing saga thread
 
-## *The Covenant in Play*
+## The Covenant in Play
 
 Longmist has been designed as a player covenant that provides ample resources for young magi brave enough to go against the strictures of their elders.
 
-## *Covenant Themes*
+## Covenant Themes
 
 The themes of a Longmist saga are isolation, tradition, and conflict. These three themes shape the character of each magus at Longmist and strongly influence their attitudes to outsiders.
 
@@ -10315,7 +10315,7 @@ The discipline of tradition, like isolation, has so far protected the covenant f
 
 Conflict: There are those who favor the faerie Túatha Dé Danann who live beneath the ground, and there are those who distrust them. And there are those who long to embrace the world beyond the covenant against the wishes of those who close up its walls against outsiders and hold to its traditions.
 
-## *Player Character Roles at Longmist*
+## Player Character Roles at Longmist
 
 The elder magi are designed to fill troupecontrolled roles: assigning tasks, causing obstructions, and keeping the younger magi in line with the covenant traditions. Lugh, in particular, may task the younger magi with writing and obtaining the texts on Magic Theory that he needs to prolong his life.
 
@@ -10323,7 +10323,7 @@ The four younger magi described in this chapter are suitable as player character
 
 The covenant charter allows for specific roles and titles, which the player magi may move for. With each role gained, the player characters gain more political weight within the covenant and become more able to determine its future.
 
-## *Suggested Storylines*
+## Suggested Storylines
 
 There are several main storylines to address with a Longmist saga, and they cover threats from within the covenant in addition to threats from the outside.
 
@@ -10360,7 +10360,7 @@ Stories center around the Clan's attempts to retrieve Ualgrimm's pelt, through i
 
 Given his traumatic personal experience with the Clan, Mícheál should be a
 
-## *Loyalty*
+## Loyalty
 
 The covenfolk are currently surprisingly loyal, with a Prevailing Loyalty value of 0. Using the rules on age 36 of Covenants, we get a base loyalty of –42.5 based on the Gifts of the member magi, which is modified to zero as the covenant has been around for so long and the covenfolk have grown up around their influence. The only one of the three mundane offices that have been filled is that of the Turb Captain and he provides a +5 bonus. The covenant has a zero Living Conditions bonus for covenfolk, however, as the covenant is particularly austere it does impose a –1 penalty. This gives a total of 4 loyalty points, which is not quite enough to buy a Loyalty Score of one.
 
@@ -10400,7 +10400,7 @@ Eochaid, The Cailleach, and Dara specifically all have views at odds with both L
 
 The Cailleach, if she is to repair the
 
-## *Covenant Finances*
+## Covenant Finances
 
 The covenant, at present, costs more to run than the income it generates as it has an income of 80 Mythic Pounds per year but is currently spending 84 ½ Mythic Pounds across the same period.
 
@@ -10430,7 +10430,7 @@ Lastly, the covenant could employ craftsmen to provision the laboratories, such 
 More on covenant wealth can be found in Covenants, chapter five.
 
 
-## *Moving Longmist to Other Tribunals*
+## Moving Longmist to Other Tribunals
 
 Longmist is located in the northeast of Hibernia, in the land of the Ulaidh, but with a little work the covenant can be moved to another Tribunal. The central themes discussed at the start of this chapter can also be adapted. For instance, the division within the covenant between embracing the outsiders and preparing for conflict with them can be replaced with both sides of the Harmonist-Wilderist debate prevalent in the Rhine. Their isolation may come from relocating the covenant to the cold Alpine mountains, or to the Holy Land.
 
@@ -10450,7 +10450,7 @@ The influx of foreign magi over the last fifty years means different things for 
 
 These stories arise from the covenant's Fractured Council and also the Seclusion Hook.
 
-## *Longmist as a Background Covenant*
+## Longmist as a Background Covenant
 
 Magi within Hibernia may wonder what has happened to the covenant of Longmist. While Redcaps report being received politely, the covenant has not attended Tribunal in any meaningful way for many years. The player magi could be tasked with investigating Longmist to determine the cause of this withdrawal and to see what can be done to bring them back.
 
@@ -10467,13 +10467,13 @@ The elder magus Lugh fears that his end is near and he is willing to exchange th
 And of course, as an old covenant, Longmist already holds some unique magical devices. Troupes may also add any others that their sagas need, and the withdrawn magi of Longmist make a challenging barrier to acquiring such devices.
 
 
-## *Chapter Six*
+## Chapter Six
 
-# *Collem Leonis*
+# Collem Leonis
 
 Collem Leonis is a Second Spring covenant in the Rhine Tribunal. Its foundation dates back to the early years of the Order and it has recently moved full circle to rebirth from a dying Winter situation. It is home to four young magi and a single remaining maga from the older generation. They reside in a stone manor house in the forested hills of Sauerland, relatively close to Dortmund and Cologne. The magi are involved in researching the regiones linking the area to Scandinavia, in dealing with growing mundane expansion and trade in the Rhineland, and in consolidating the resources and relations of the old covenant.
 
-## *History*
+## History
 
 Collem Leonis was founded in the year 865, soon after the regional Tribunal borders were drawn up. At that time it was the eighth covenant of the newly named Rhine Tribunal, but only four of these covenants still exist in 1220: Durenmar, Crintera, Irencillia, and Collem Leonis.
 
@@ -10501,13 +10501,13 @@ and they agreed to train one last generation of apprentices and then leave those
 
 The young generation took on the challenge of taking over a degenerating ruin, hoping that the decaying shell hid gems of old lore and power. As the Tribunal of 1221 approaches, they hope to suffer little political interference or resistance, allowing them to concentrate on rebuilding, finding the old resources, and consolidating the power of the once-proud Collem Leonis covenant of Sauerland. They need to find their niche in the internal politics of their centuriesold covenant, and learn to live with the single old and powerful magus who wants to mold his successors according to a strategy planned without the participation of the new generation.
 
-## *Boons & Hooks*
+## Boons & Hooks
 
 The Boons reflect a unique and powerful location, and the history and traditions that bind the community together. The Second Spring situation is reflected by resources temporarily lost, recoverable over time and through stories. The Hooks cover the supernatural aspects as well as the proximity to a mundane lord and a bustling city, in terms of both physical distance and close relations. Details of the Boons and Hooks are found in Covenants.
 
 **Tame Nobleman (Major Residents Boon):** The magi have had an arrangement
 
-## *Covenant Summary*
+## Covenant Summary
 
 Collem Leonis has a budget of 650 Build Points plus another 1000 as Hidden Resources (see Boons later).
 
@@ -10547,11 +10547,11 @@ with the local vassal to the Count of Mark since the emergence of the Berg-Althe
 
 **Vis Salary (Minor resources Hook):** In accordance with the charter of Collem Leonis the members must adhere to a strict hierarchy and more importantly provide services in order to receive their bi-annual vis grant from the resources owned by the covenant. Since the council has a great deal of freedom to interpret the guidelines in the charter to determine which activities are regarded as services eligible for payment there is a significant advantage to be had from finding a lucrative niche or services to provide.
 
-## *Magi*
+## Magi
 
 Collem Leonis is home to only five magi: four young magi and one from the old generation. The descriptions of the magi refer to specific terms from the Rhine Tribunal, namely ranks and gilds, which are described in brief here. Rhine magi are divided into formal ranks including journeyman, master, and archmage. The latter two enjoy special benefits when settling disputes or voting at Tribunal. The gilds are organizations that magi may belong to based on interests rather than House or covenant affiliation. The gilds of the magi of Collem Leonis include the Oak Gild, seeking to preserve the greatness of old and effectively maintain a status quo; the Ash Gild, who are aggressive and outgoing; the Hawthorne Gild, wishing to preserve wild areas; and the Apple Gild, seeking peaceful integration with mundane society. For more detail see Guardians of the Forests: The Rhine Tribunal, pages 27–29.
 
-## *Ferra of Bonisagus*
+## Ferra of Bonisagus
 
 This 109-year-old maga is the single remaining representative of the previous generation, and a direct Hermetic descendant of the founding magus Amadeus of Bonisagus. Originally an elementalist with a strong preference for Terram, her expertise in this area this was occasionally utilized for extracting ores and metals from the mine in the hills. However, her youthful and highly experimental years and use of powerful magic brought her through one Twilight after another, and ended up giving her insight into and skills concerning the spirits of the dead. Most of her remaining career was spent in pursuit of this endeavor. Her divided specialty and goals left her with less Acclaim and success than her potential suggests. She has written and submitted many texts, trained several apprentices, invested a talisman, and bonded with an owl familiar. This was more than enough to attain the rank of master, but she never pursued the rank of archmage. Her risk-taking nature resulted in her suffering from the Flaw Twilight Prone after a particularly severe Twilight episode lasting seven years, which also killed her familiar and destroyed her talisman. When she finally
 
@@ -10731,7 +10731,7 @@ Scales of the Magical Weight (InVi 5/+13) Sense the Nature of Vis (InVi 5/+13)
 Appearance: Baliana is an attractive young woman, slender and healthy-looking. She has thick, chestnut brown, curly hair hanging to her shoulders and dark blue eyes which seem almost purple at times.
 
 
-## *Freki of Bjornaer*
+## Freki of Bjornaer
 
 Freki of House Bjornaer traces her line straight back to founding magus Wolfgang. Her Heartbeast is a wolf and she is an active member of Clan Arelie. Freki's mater, Oda, found her at age seven roaming the hills of Sauerland. The girl was born and raised in Norway and is believed to have wandered inadvertently through one of the portals. After only four years of apprenticeship she attended the Gathering of the Twelve Years in 1203. She chose the name Freki from the old stories about Odin's wolves told to her by her grandmother when she was a small child. After Gauntlet she was pressured by Oda into taking more risks than she thought necessary, the result of which was a lot of Twilight episodes, although most resulted in beneficial effects, making her stronger.
 
@@ -10739,7 +10739,7 @@ She is not nor will she ever be the kind of fighter Oda is and many in their lin
 
 Allied with Baliana, who has compatible goals, she intends to find the Order of Odin. She has ambitions of surpassing her cruel mater, hoping this will finally make her accept her methods and stop harassing her. Her magic is strongest in her wolf form, and she spends most of her time this way, intending to train her innate animal abilities to hunt. She has a great focus on practicing things herself, relying on vis studies, or alternating between offering training to his Sept and being trained by its members. Her continued magical focus is on Intellego and on greatly expanding her repertoire of scent-based spells, as she finds using the other senses crude and unreliable. Unfortunately, these need to be original spells of her own invention, which complicates the matter. At Collem Leonis, Freki presides over the Seat of the Predator on the council and is tasked with keeping her eye on the area and serving as tracker during hunts.
 
-## *Tiberius of Flambeau*
+## Tiberius of Flambeau
 
 Tiberius started his life as Meitzler of Soest, youngest son of Freiherr Reinhart of Soest, at an estate east of Dortmund. His pater, Scipio, recruited the boy at his home manor, effectively rescuing Meitzler from the usual fate of a youngest son of a knight — a monastery. Sadly, the boy's insistence on leaving his family for an unconventional life was resented by his father. As ties to the family were severed, Scipio immediately rid the boy of his vulgar name and named him Tiberius. His mundane family's enemies often seek to take their grievances out on him since he no longer enjoys any protection from them; see the section External Relations later for more detail. Even though it is difficult at times, Tiberius has prevailed and grown stronger in the process.
 
@@ -10747,7 +10747,7 @@ Tiberius and his pater Scipio follow the Flambeau school of Ramius, focusing on 
 
 Like his pater before him Tiberius holds the Seat of the Armiger: he is in charge of the defenses as well as the fighting turb. The
 
-## *Tiberius of Flambeau*
+## Tiberius of Flambeau
 
 **Gild:** Ash
 
@@ -10931,7 +10931,7 @@ Renardus found the orphaned girl Julia in a Rhineland village and fostered her w
 
 The business had previously sold some manufactured items made from the various metals from the hills and crafted in the workshops at Collem Leonis, but nothing is produced there anymore. After the recent stagnation, the business concentrates on wares brought in by her foster brother Armund and
 
-## *Julia of Tremere*
+## Julia of Tremere
 
 **Gild:** Apple
 
@@ -11010,11 +11010,11 @@ sold or exported by her foster father, Frederick. Julia herself takes care of ne
 
 Julia serves her House as an assessor, monitoring mundane activities and plans for transportation and provisions should the Tremere mobilize in her locale. Her local knowledge, connections, Gentle Gift, and resourceful ways of using subtle mind-altering magics make her invaluable to the covenant. Naturally, she holds the Seat of the Ambassador in the covenant's council, with social relations as her area of responsibility. One of the few things that can get her temper rising is having to clean up other people's indiscreet problems, especially those of her sodales. Discretion and delicacy is her livelihood, and she goes to great lengths to lecture her more hands-on covenant mates about this. Julia's sigil is administered by Archmage Stentorius of Fengheld, the exarch for the Rhine Tribunal.
 
-## *Notable Covenfolk*
+## Notable Covenfolk
 
 Collem Leonis has the base complement mentioned in Covenants of a single grog and two servants for each magus. The few remaining covenfolk include some exceptional and loyal individuals. The two specialists, Johanna the autocrat and Francois the acting turb captain, are worth 17 Build Points in total.
 
-## *Companions*
+## Companions
 
 The severely depleted personnel roster of Collem Leonis means that there are very few associated specialists and other individuals suitable as companion characters.
 
@@ -11022,7 +11022,7 @@ The severely depleted personnel roster of Collem Leonis means that there are ver
 
 Johanna is the steward, chamberlain, and in every way the manager of Collem Leonis, and a very independent woman indeed. As the daughter of a lesser noble from the vicinity of Dortmund she had the privilege of an education with a private tutor from the cathedral school. However, this only left her wanting more and with a burning desire for freedom and independence. After crossing paths with Scipio of Flambeau — the pater of Tiberius — she ran away to Collem Leonis at the age of 15 to avoid the crushing yoke of being female in the feudal system. After briefly fearing that this would be the crisis that destroyed the covenant, the magi managed to negotiate an uneasy settlement, and the girl was taken under the tutelage of Joachim, the autocrat at the time. Her first years were very turbulent, as she not only had to learn the ropes of managing a covenant, and what kind of people magi were and what they did, but also bore a child by a father unknown. Everyone thinks (correctly) that Tiberius is the father, as the two always had a friendly relationship. Nothing has ever been confirmed nor denied, and no one ever gave the matter much attention, assuming that they already knew the story. After only a few years she was thrust without warning into leadership when Joachim suddenly disappeared, along with a great deal of books and magical resources. Naturally, Joachim's legacy was marred by this crooked end, and to the present day this mystery has not been solved (see the Story Seed: Sins of the Predecessor, later). Johanna's daughter, Erika, grew up in this strange place, heavily
 
-## *Story Seed: The Dark Magus*
+## Story Seed: The Dark Magus
 
 Ruprecht was a cover used by Imanitos Mendax of Jerbiton, who for the purposes of this seed is assumed to be a dark magus: see Guardians of the Forest, pages 72–74. Imanitos had, many years earlier, been orchestrating the corruption of the cov enant's former Autocrat Joachim and his grand theft from the library, as described under Hidden Resources, later. Imanitos failed to receive the stolen books, and he saw Erich as a way to spy indirectly on the magi of Collem Leonis, hoping to find the books again. Erich's information was of no help at all, so Imanitos abandoned this project, for now. Although he still visits Dortmund and Cologne he now uses a different guise and identity, and bides his time before reactivating Erich as a spy.
 
@@ -11032,7 +11032,7 @@ influenced by the supernatural. Though not of her mother's scholarly disposition
 
 For game statistics use the Female Scholar template found in **ArM5**, page 22 with the following changes: Increase age to 31, add Profession: Chamberlain 4 (inspire loyalty), Profession: Steward 4 (mediating), Area Lore: Sauerland 4 (geography), Organization Lore: Covenant of Collem Leonis 4 (history), and spread the remaining 130 experience points as desired on key abilities, or on adding Organization Lore: Order of Hermes, Realm Lores, or even Code of Hermes.
 
-## *Erich the Spy*
+## Erich the Spy
 
 **Characteristics:** Int 0, Per +2, Pre 0, Com +1, Str –1, Sta 0, Dex +3, Qik +1
 
@@ -11138,15 +11138,15 @@ Encumbrance: 1 (2)
 Appearance: A nondescript grog wearing a faded green tunic with the covenant's symbol prominently displayed on its chest. He looks fit, perceptive, and disciplined. His left arm is often bandaged or set in a sling, forcing him to perform most tasks one handed.
 
 
-## *Specialists and Other Covenfolk*
+## Specialists and Other Covenfolk
 
 Collem Leonis has only the base complement for a covenant of two servants or laborers per magus. Julia's house in Dortmund has two of these in the form of her foster parents; the remaining eight are a mixture of teamsters, stablehands, maids, and kitchen staff, as well as Ferra's personal servant Otto, who keeps her lab clean.
 
-## *Covenant Organization*
+## Covenant Organization
 
 Collem Leonis is organized in accordance with and ruled by the charters thoroughly drawn up at the time of founding. Nothing has been altered since the first decade of the covenant's existence.
 
-## *Hierarchy and Governance*
+## Hierarchy and Governance
 
 Collem Leonis has a highly hierarchical structure with several ranks for the magi, a remnant of the time with more members from different generations. These days the structure seems not only archaic but also needlessly complex. However, the rules need to be followed, and provisions for changing the rules require a certain degree of cooperation and agreement between the council members. In many ways Collem Leonis is closer to a meritocracy than a gerontocracy, as members must perform services for privileges, and age only matters for a single council seat.
 
@@ -11156,7 +11156,7 @@ Collem Leonis has rights to utilize any resources within the border of the so-ca
 
 The hills contain veins of many minerals, including iron, coal, lime, silver, bronze, tin, and lead in moderate quantities. The magi of olden days were reluctant to take advantage of this, since running a full-scale mining operation is indiscreet and risks triggering guild interven-
 
-### *Through The Aegis*
+### Through The Aegis
 
 tion. Metal was extracted by magic and according to need; Ferra was integral to this in her younger days. This could, with sufficient work and time, be turned into a profitable source of income, by way of either bringing in greatly increased manpower and expertise, or using magics dedicated to this venture. This is also a source of potential stories, see the Story Seed: The Mischievous Kobold later.
 
@@ -11164,11 +11164,11 @@ tion. Metal was extracted by magic and according to need; Ferra was integral to 
 
 While the library is only a pale remnant of the glory days of Collem Leonis, the new generation of magi may still find useful texts readily available, and in time many of the lost books can be recovered. The site has a strong aura which compensates for the lack of advanced labs available.
 
-## *Life at Collem Leonis*
+## Life at Collem Leonis
 
 Daily life for magi and covenfolk alike is peaceful and unchanging, the centuries of history and tradition covering everything like a heavy but comfortable blanket. However, now the new generation has taken over there are bound to be changes. Occasionally this quiet life is interrupted by supernatural events from the uncontrolled portals, upheaval and political turmoil in the mundane surroundings, or changes in the delicate guild structure of the constantly evolving city of Dortmund. The magi, however, govern themselves within the strict wording of the charter.
 
-## *The Charter*
+## The Charter
 
 The charter recognizes three levels of rank: haeres, prospectus, and visitator. Apprentices are given no formal rank and follow that of their parens as a courtesy. Haeres was originally the rank of the founding magi, and was subsequently extended mature magi who were judged worthy by the council. The haeres form the ruling council of the covenant. A prospectus is a younger maga in residence who has not yet established herself in the eyes of his superiors. It also covers haeres demoted to this rank for a transgression. Visitators are short term residents who do not qualify as peregrinatores, as defined by the Peripheral Code of the Rhine Tribunal.
 
@@ -11222,15 +11222,15 @@ The peripheral charter states that the following short rules apply universally a
 - Any animated dead sent on errands must be managed by a suitable party who can control them if need be. No council member needs to accept the help of such walking dead if they do not conform to his ideas of discretion and aesthetics, and she has the right to ask for other help more appropriate to the situation.
 
 
-## *Covenant Site*
+## Covenant Site
 
 The visual experience of Collem Leonis' main site from a distance is one of grandeur, which gradually changes to decaying oncegreatness as one approaches it. In addition to the stone manor, the covenant owns a townhouse in Dortmund, a disused mine, and without doubt a number of lesser locations forgotten by all remaining magi and covenfolk.
 
-## *Environment*
+## Environment
 
 The buildings of Collem Leonis lie between the steep forested slopes of Sauerland, on top of a low hill. Surrounding the main site is a modest earthen dyke roughly 200 feet in diameter, with an unmaintained wooden palisade. The only opening faces the path to the nearest village and once held a wooden gate, which has long since been taken down and used for makeshift construction work. The terrain slopes gently away from the foot of the earthworks and was once cleared of trees within a bowshot's length, but bushes and weeds have grown. Beyond this begins a thick forest. As one moves down the hill the Magic aura fades away, giving rise to a Faerie aura of 1 in most of the surrounding area, save for small pockets of Magic aura where the vis sources are found.
 
-## *Main Structures*
+## Main Structures
 
 Collem Leonis consists of an imposing rectangular manor hall constructed from large stone blocks with a sturdy slate roof. Originally, it was a very defensible structure, but over the centuries the massive main doors have been complemented with a series of secondary entries. The old, small windows have been enlarged in several places, or converted into doors on the ground floor. A few of the upper story rooms have been fitted with wooden balconies.
 
@@ -11238,11 +11238,11 @@ The main entrance leads into the entrance hall that contains the main staircase 
 
 The hall stands in a large yard with patches of cobblestone between larger expanses of gravel or muddy puddles, where chickens and pigs mill around. Half empty stables and shacks hold the
 
-### *Through The Aegis*
+### Through The Aegis
 
 animals and wagons. A deep and finely engineered well sits between two leaning outbuildings near the kitchens. It was once surrounded by beds of herbs and spices, which are now swamped by weeds and shaded by listing walls. In the covenant's heyday the place would have resounded with the hammering of the armorer and the sound of formation marching and orders barked. Now it emits the gentle sounds of a small, sleepy hamlet.
 
-## *Laboratories*
+## Laboratories
 
 The manor hall has space for eight standard laboratories, and earlier generations had reserved two of these for visitators or peregrinatores, fitting them out for transient use. Earlier resident Bjornaer magi made their sancta in the woodlands outside the ring wall and the Aegis in a place unknown to the current residents; see Hidden Resources later.
 
@@ -11291,7 +11291,7 @@ Names added to Sanctum marker: None **Characteristics:** Size +0 (0), General Qu
 
 **Notes:** Due to the multiple Missing Equipment, Inventing Spells, Enchanting Devices, Binding Familiars, and Extracting Vis are currently impossible.
 
-## *Outlying Buildings*
+## Outlying Buildings
 
 Additional outbuildings jut from the stone walls of the main hall in no discernible order. The earliest of these have stone foundations, but over time wood and wattle shacks with thatched roofs sprang up with little planning or care. Some have
 
@@ -11300,7 +11300,7 @@ decayed and crumbled over the centuries, and others are only maintained by means
 
 Outbuildings growing from the left side are workshops for smithcraft, carpentry, leather working, or work areas for butchers, sausage makers, and brewers. Outbuildings to the right, entered from the scriptorium, are fewer and of better quality, and once held shops for vellum makers and book binders. Most workshops have fallen into disuse since very few goods are produced here anymore and the main kitchen has more than ample space to serve the dwindling population.
 
-## *Uncontrolled Portals*
+## Uncontrolled Portals
 
 The highly mutable entrances to Magic and Faerie regiones are Collem Leonis' most distinctive feature, one of the main reasons for the founding of a covenant at this location, as well a focal point for centuries of research and daring expeditions. Although the portals are unpredictable, generations of magi have meticulously registered every time the portals opened and what came through them, together with times, places, actions taken, and any associated events that could be interpreted as forewarning. All recorded events have occurred in the forested hills and valleys within a few days' trek of the main covenant buildings. Eventually the covenant accumulated an extensive library of these events, and several prediction charts. Characters who are familiar with the portals and have access to the texts are able to make educated guesses about portal events. By interpreting subtle omens, including weather, vegetation, and animal behavior, they can form a theory about which portal will open, where, when, and either what will come through or may be sought by entering.
 
@@ -11320,7 +11320,7 @@ Faeries pretending to be various Nordic gods roam the area influencing how the v
 
 The Ability Area Lore: Collem Leonis Portals covers knowledge of both the history and properties of the Magic and Faerie regiones. Characters can study this Ability from the records of previous events and research by earlier magi. This is the method that was used to keep watch and predict events before they unfurled, so as to be better prepared. A character actively keeping watch decides on the period she wants to cover, and how long she will spend looking for signs. The watcher makes a stress roll of Int + Area Lore: Collem Leonis Portals against an Ease Factor of 15, but higher results yield additional information and details. A number of
 
-## *Is This Really Jotunheim?*
+## Is This Really Jotunheim?
 
 Maybe. There are magical giants, a tie to Norway, and physical similarities. Many of the giants know runic magic, and the leaders are full-fledged Vitkar as described in Hedge Magic Revised Edition, pages 120–141. The giants also refer to themselves as "Jotunn". Earlier magi at Collem Leonis have seen no reason to doubt their assessment.
 
@@ -11381,7 +11381,7 @@ Physically Midgard is similar to the mundane world, with natural hills, forests,
 
 Midgard can be entered in several ways: if led by an inhabitant, by sensing the boundaries, or by circling Eisenhöhe clockwise while a rainbow is visible in the sky. Leaving is harder. The faerie gods can grant anyone permission to leave, permission they grant once their story has finished, but the entry points are not exits, and the magi have yet to find any points in the regio from which they can leave by their own magic. When a portal opens to this regio, it can easily be traversed in either direction, but most of the time there is no portal.
 
-## *Associated Properties*
+## Associated Properties
 
 In the glory days there were many properties and locations off site in use by Collem Leonis, but now only a few are still known. Rumors claim several magi interested in the wilderness once lived outside the walls and Aegis.
 
@@ -11393,11 +11393,11 @@ The townhouse in Dortmund where Julia lives is an unofficial site of Collem Leon
 
 The older generation dug into the hills for metals and minerals, particularly the highest hill, known locally as Eisenhöhe, and the covenfolk know the place well. Located halfway up the slope, the mine shaft, worn slippery by years of use as well as water trickling down it, leads to the floor of the mine's antechamber. From here man-sized passages have been cut into the bedrock to follow veins of the metals and minerals sought. Vis has always been harvested here and it is still an active vis source, though no longer in use as a mine. All the covenfolk have heard tales of the kobold who haunts the mine (see Resources, later).
 
-## *External Relations*
+## External Relations
 
 Although large expanses of forested hills are still unsettled in 1220 the recent almost explosive growth and emergence of towns and cities along the Rhine and its tributaries necessitates continual monitoring of mundane matters as well as the occasional intervention.
 
-## *Nobility*
+## Nobility
 
 When the covenant was founded, Tacitus of Tremere and Pamprepius of Flambeau, as the sociable and extrovert faction, worked to establish relations.
 
@@ -11430,7 +11430,7 @@ Waleran III's daughter, Mathilda of Limburg, married Count William III of Jülic
 
 The current lord of these lands is the older brother of Tiberius of Flambeau (who was born Meitzler of Soest). He recently inherited the title from their father Reinhart I. The freiherr's lands lie at the eastern end of the county of Mark, bordered by the domains of the bishops of Münster and Paderborn respectively, both staunch allies of the archbishop of Cologne. Reinhart II is a reluctant supporter of the count of Mark's faction in opposition to the archbishop of Cologne, since his own lands are threatened by ecclesiastical domains. No matter how hard pressed the freiherr may be he refuses to even make contact with his longlost younger brother Meitzler. Enemies of the freiherr know they need not fear repercussions if they move against his black sheep brother, causing a multitude of problems for Tiberius in his attempts to keep Collem Leonis out of an open conflict between the count of Mark and the archbishop of Cologne
 
-## *The Church*
+## The Church
 
 The main challenge in relations with the church is that the current archbishop of Cologne, Engelbert I, is also a powerful noble, major landholder, and a warmonger.
 
@@ -11442,11 +11442,11 @@ The archbishopric he took over was suffering great civil unrest, and he campaign
 
 If your saga follows history, then the territorial disputes cool off in 1225, when Archbishop Engelbert I is murdered by his cousin Frederick, declared a martyr, and later canonized as a saint. His successor as archbishop is Heinrich I von Mullnarken. The pressure from the archbishop diminishes further in 1288, when Cologne becomes a Free Imperial City and the seat of the archdiocese is moved to Bonn, further south along the Rhine.
 
-## *City of Dortmund*
+## City of Dortmund
 
 The previous generation of Tremere are suspected of having been instrumental in Dortmund's evolution from insignificant village to Free Imperial City. Just how influential they were has never been determined by any mundane or magical agency. The trade and craft guilds of Dortmund have had dealings with Collem Leonis in the past through the Tremere as intermediaries. Even though the magi used magic to sweeten their part of the deal, this also benefited the city. Any attempt to increase the income of Collem Leonis is sure to cross paths with a guild in Dortmund. See the section The Covenant in Play later for more story ideas.
 
-## *Covenants of the Order of Hermes*
+## Covenants of the Order of Hermes
 
 Collem Leonis was founded after the Peripheral Code ruling of 780 giving existing
 
@@ -11468,15 +11468,15 @@ This prospective covenant hidden among the marshlands of Zealand in Denmark may 
 
 Once Collem Leonis returns to the political arena Fengheld, being powerful yet not terribly old, is naturally wary. Julia has ties through Stentorius of Tremere, who is her Exarch and holds her sigil. Fengheld's chapter house in Cologne is a concern due to its proximity to Collem Leonis, and Fengheld may be attracted by Dortmund.
 
-## *Resources*
+## Resources
 
 Collem Leonis is much weaker than it was in its heyday. Some resources have been lost permanently, while others may be restored with varying amounts of effort.
 
-## *Income Sources*
+## Income Sources
 
 The covenant lives off hunting, gathering, and logging. The surplus of these resources is traded to the nearby village for local produce. This constitutes a Typical source of income for the covenant, although considering the extremely low number of covenfolk only a small portion of the potential is actually used in 1220. Collem Leonis has supported at least three times the current number of inhabitants in the past and it could do so again. The mine in the hills could be re-opened as a profitable yet labor intensive source of income, although magical assistance could ease this considerably. Using her contacts among traders and craftsmen in Dortmund, Julia could once again turn a profit from metals mined and goods crafted.
 
-## *Enchanted Devices*
+## Enchanted Devices
 
 The devices serving as badges of office or integral to daily life are well known to the magi. The powers and, more importantly, the activation requirements are found in the old chronicles of Collem Leonis. However, a storyguide or troupe using this covenant for a saga and wanting a bigger challenge could rule that the devices are mentioned in only vague terms and the player magi therefore need to investigate and identify the effects one by one. Records also hint at the existence of other devices which are now lost or hidden, see Story Seed: Banquet of Wasteful Opulence, later. Given the relatively few devices and their importance the magi had little difficulty in keeping tabs on them while other resources were more easily lost over time. All devices have a base effect (not counting modifiers) below 6th magnitude and so do not cause Warping due to powerful effects, although some may Warp with prolonged use. Enchanted Devices are worth 114 Build Points.
 
@@ -11600,7 +11600,7 @@ During the first generation of Collem Leonis it saddened Adler of Bjornaer to us
 
 (Effect: Base 2, +1 Touch, +3 Moon, +2 Group; Modifications +10 unlimited use)
 
-## *Library*
+## Library
 
 Although Collem Leonis' collection contains some sound works, it lacks the volume needed to truly call it a library. An old covenant having seen many generations of magi should have adequate materials for grounding in all the Arts, as well as myriads of supplemental tractatus. According to Ferra it used to be much better, but she can offer no clear explanation as to what happened. She seems to remember Heinrich having once borrowed a couple of good books, but the younger magi are not sure what to make of that. Cursory investigation of Collem Leonis' chronicle and covenant rolls suggests that some resources were taken by the old magi to their places of retirement, and most of the lab texts and books on spell masteries were ruined by a fire a decade ago, but much of the library should still be around the covenant, somewhere. This is described in the section Hidden Resources later. The library, as it stands, amounts to a mere 324 Build Points worth of books and 72 of spells.
 
@@ -11682,11 +11682,11 @@ Vries of Tremere, *The Intangible Art*, Vim Tractatus, Quality 11 (11 Build Poin
 
 CrCo 30, Ritual, R: Touch, D: Mom, T: Circle. Named after Eir the Norse goddess of healing. People within the circle have all their wounds improved by one step, and Light wounds are thus completely healed. Guideline from Houses of Hermes: Societates, page 100. (Base 25, +1 Touch)
 
-## *Vis Stocks*
+## Vis Stocks
 
 Collem Leonis' vault holds a total of 35 pawns of vis, all from the covenant's own sources: 25 pawns of Vim vis (silver liquid) and 10 pawns of Terram vis (blue stones). This adds up to 5 Build Points.
 
-## *Vis Sources*
+## Vis Sources
 
 The vis sources for Collem Leonis known by the resident magi yield a total of 19 pawns annually, amounting to 95 Build Points. All
 
@@ -11721,21 +11721,21 @@ Each year on the first day of spring, a certain stream formed by melting snow tu
 
 An extended family of partly domesticated stoats lives near the covenant, and one of the litters always includes an albino. The old records mention that the albino always flies into a blood rage upon reaching maturity and raids the chicken coop during autumn. If the animal is killed without the skin being pierced and subsequently exsanguinated, the blood contains 4 pawns of Animal vis, which does not appear until the rage is imminent. There is no mention of anyone ever having tried to capture and breed the albino stoat.
 
-## *Story Seed: The Winter Litter*
+## Story Seed: The Winter Litter
 
 One year the stoats produce a litter consisting entirely of albinos, but as it happens during winter the blanket of snow makes it exceedingly difficult to keep track of them. What to do? Will they all contain vis, and can the hunters manage so many animals on a berserk raid among the chickens? To make matters worse the snow lingers much longer into spring than it usually does, and a predator targets animals suspected of being magical. Investigation reveals that a very exotic snow leopard has come out of the portal. The leopard is phenomenally stealthy and also far craftier than any animal should be: it moves through the tops of closestanding trees, and squeezes through narrow cracks in the rocky hills. It sets false tracks to lead the hunters astray so they suddenly find themselves far away from the covenant when the leopard attacks, or led deep into a dangerous swamp close to sunset. Note that the Peripheral Charter requires the express permission of the resident Bjornaer magus to hunt any felines. Once the predator is dealt with, the challenge lies in preserving the vis source or harvesting it for best results. If several breeding pairs are killed the chances are that next year there will be no albino in the litters. The vis source may take years to recover. On the other hand, the many albinos may be problematic to contain and kill as they fight among themselves and spill the vis-laden blood.
 
-### *Through The Aegis*
+### Through The Aegis
 
 #### **Blue Stones of the Mine**
 
 Starting out as small specks of dark blue on the mine walls in random places, the vis grow in size until they are fist-sized bulbous protrusions. Once ready they fall off the wall like a ripe fruit during summer. If not picked up within a few days, they dissolve and end up as a purple stain on the floor, the vis being re-absorbed into the stone. The annual yield of this source is 7 pawns of Terram vis. Collection is not hard in itself, but old covenant records warn about the kobold of the mine.
 
-## *Wealth*
+## Wealth
 
 Currently Collem Leonis' coffers hold the modest sum of 10 Mythic Pounds of silver, worth 1 Build Point.
 
-## *Hidden Resources*
+## Hidden Resources
 
 The better part of the resources Collem Leonis accumulated during its lifetime is not readily available for the Second Spring covenant, and is represented by the Hidden Resources Boon. The specifics of these are listed below with story seeds for the search. Searching for clues takes a month studying old chronicles, maps, and covenant rolls, and a stress roll of Int + Organization Lore: Collem Leonis against an Ease Factor of 12. Devoting an entire season to the investigation grants a +3 modifier. Success means something is found, leading to one of the stories.
 
@@ -11777,7 +11777,7 @@ Level 5, Quality 12 (17 Build Points) *Two Feet on the Ground*, Terram Summa, Le
 
 *This Intangible Art*, Vim Summa, Level 6, Quality 15 (21 Build Points)
 
-### *Summary of Vis Sources* **Source Pawns Build Points** Silver Spring 8 Vim per year 40 Albino Stoat 4 Animal per year 20 Blue stones of the Mine 7 Terram per year 35 Total 19 95
+### Summary of Vis Sources **Source Pawns Build Points** Silver Spring 8 Vim per year 40 Albino Stoat 4 Animal per year 20 Blue stones of the Mine 7 Terram per year 35 Total 19 95
 
 
 #### JOACHIM'S STOLEN CACHE
@@ -11968,26 +11968,26 @@ Amadeus of Bonisagus, *Arcane Travel*, Piercing the Magical Veil Mastery Tractat
 
 Amadeus of Bonisagus, *Fortress of the Home*, Aegis of the Hearth Mastery Tractatus, Quality 14 (14 Build Points)
 
-## *The Covenant in Play*
+## The Covenant in Play
 
 A Second Spring covenant features many elements similar to a Spring setting: the magi are young, resources are scarce, and relationships need to be forged. However, the covenant it is built on a decaying shell and there is much immediate potential in finding lost treasure and knowledge and reforging ties all but forgotten.
 
-## *Covenant Themes*
+## Covenant Themes
 
 Collem Leonis' main theme is of an old and once-powerful place with a sense of purpose and a common cause for the magi to work together on. Metaphorically speaking, the young magi find themselves on the parapet of a ruined tower, gazing over a land of possibilities and great wonder. On the horizon loom other powers, with the potential to become allies, enemies, rivals, or possibly spell doom. If the magi put too much emphasis on rebuilding relationships. the hall falls to ruin and they have nowhere to retreat if they meet stiff opposi-
 
 
-## *Story Seed: Agents Provocateurs*
+## Story Seed: Agents Provocateurs
 
 As winter is setting in, reports come in of a band of mounted raiders pillaging along the southern border of the count of Mark's lands, relatively close to the covenant's domain. Scouts discover it to be made up of well-organized mercenaries who are known to have served the archbishop. They can be tracked to a fortified camp just across the border in the county of Berg, where they meet with many more of their kind. Is this an attack by the archbishop on the count of Mark, an attempt to provoke open war between them, or a scheme to draw the magi into taking an active part? The magi can find out the truth by cleverly working the courts of the respective leaders over the winter using spies and intrigue. Alternatively, they can daringly infiltrate the raider camp and try to find documents or other evidence, or kidnap the raider leader for interrogation.
 
-## *Story Seed: A Simple Request*
+## Story Seed: A Simple Request
 
 Herr Vorderhagen informs the magi that the count of Mark is coming to visit, and asks to borrow their silver- ware for the necessary banquets. The messenger assures the magi that he will only keep the silver for a week.
 
 Refusing causes great problems, as Herr Vorderhagen is deeply insulted by the apparent lack of trust. Of course, the silver simply cannot be lent out for a week. What do the characters do?
 
-## *Story Seed: Impossible Thefts*
+## Story Seed: Impossible Thefts
 
 After the armoire has been found and brought back into use, someone impor- tant visits the covenant. When the meal is served, he turns red with anger and ac- cuses the covenant of theft.
 
@@ -11995,21 +11995,21 @@ It seems that someone sold him "this plate", and then it was stolen from him in 
 
 The magi should quickly work out what was actually happening, but the crimes happened before they rediscov- ered the armoire. Who was using it for his own purposes? And what will the magi need to do to avoid taking the blame?
 
-## *Story Seed: Old Alliances*
+## Story Seed: Old Alliances
 
 Ferra calls the younger magi to the council chamber after receiving a letter from a Redcap, and tells them they must uphold old agreements. There are several possibilities for what is demanded under the terms of these contracts. Known Wilderist hardliner Urgen chooses to make the hills into a textbook example of preservationist actions. The moderate Harmonist Prima Falke asks the resident Bjornaer magus to work more closely with the mundane rela tions in order to showcase her strategy. A message arrives from Waddenzee announcing that a raiding party to the coast of Norway discovered a unique creature they were asked long ago to keep a look-out for. Whatever the case may be, the young generation needs to work together and muster the resources of Collem Leonis in order to keep their part of agreements so old that barely anybody remembers the reasons or the favors done which must now be repaid.
 
-## *Story Seed: The Church Lands*
+## Story Seed: The Church Lands
 
 Count Adolph of Mark is losing in an open conflict with the Archbishop's forces near Dortmund, and he enlists the help of Collem Leonis. Negotiating a truce is a viable solution, but Count Adolph vastly prefers to negotiate from a position of power, so any magical aid to his troops is most welcome. Archbishop Engelbert I demands lands near Dortmund, but this is a threat to the further prosperity of the free city, and it weakens the Count of Mark considerably in this area. Not only has he recently granted the city a free charter, he stands to lose much potential trade with the city should the archbishopric annex this land.
 
 The archbishop is willing to settle for an insignificant valley with untamed land bordering the county of Berg, in the southern part of the county of Mark. Count Adolph is seriously considering accepting this deal, but is it a coincidence that this land is due south of Collem Leonis' domain? The area is to be granted to a monastic order who will tame and cultivate the land and build an abbey. The archbishop sends his trusted lieutenant Max von Beiderbecke to finalize the deal with his full authority — perhaps the magi can manipulate him? He may want power, or need supernatural help with a family problem, a mysterious illness, or a dangerous creature. For further challenges the council or burghers in Dortmund offer the count of Mark a tidy sum to add the disputed area to the lands of the free imperial city of Dortmund. This increases the power of the city, and perhaps the archbishop would be reluctant to annex lands under imperial protection?
 
-## *Story Seed: The Enemy of My Enemy*
+## Story Seed: The Enemy of My Enemy
 
 The magi learn of a sinister plot against the archbishop by his cousin Count Frederick of Isenberg, but their main informant, Erich the spy, also knows that Frederick is connected with the diabolist organization in Cologne he discovered years before. No matter how aggressive the archbishop, it surely cannot be good to allow a diabolist to assassinate him. As the archbishop sets off to confront Frederick with charges of corruption at an abbey in Essen, do the magi dare act? Do they save their enemy and prolong his struggles against the count of Mark, possibly threatening the covenant's existence? Or do they allow a diabolist nobleman to murder his own cousin and eliminate a powerful enemy, and risk even darker plots in the future?
 
-## *Story Seed: The Army of King Gorm*
+## Story Seed: The Army of King Gorm
 
 Following a hunting season of unusually abundant magical and faerie game, which was easy to catch and in retrospect seems to have been fleeing a greater threat, Gorm the mighty Norse warrior arrives through the portal with his army. This is a powerful faerie lord playing the part of a king of the northmen who tells the magi of Collem Leonis that he is here to make good on his promises. After the initial confusion it seems a previous generation of Collem Leonis magi made a deal with Gorm by which he promised to help them for a year and a day in a battle which is by now long gone and also forgotten — although not by him. He asks Collem Leonis to name their enemy and shows a formidable knowledge of the current political situation. He assumes that the archbishop of Cologne is to be stopped in his campaign of conquest, and will not take no for an answer. However he knows nothing of magi or the Order of Hermes, and believes any magus he meets speaks for Collem Leonis. A diplomatic solution is better for the covenant than actually fighting with Gorm's army, and a clever negotiator can convince the faerie to help in less overt and militaristic ways.
 
@@ -12095,7 +12095,7 @@ Vis: The lindorm's heart is the source of the venom, and it holds 4 pawns of Per
 Appearance: The lindorm is an enormous serpent with angry red eyes and a mouth full of teeth the size of greatswords. The spiny ridges are a dull, dark-green, almost black, color, the smooth scales shine in bright green hues in the light, and the softer under-belly is wrinkled and a bilious green-yellow color. It measures about 10 feet in diameter and almost 400 feet in length.
 
 
-## *Story Seed: The Ravens Fly Again*
+## Story Seed: The Ravens Fly Again
 
 Scouts observe a large flock of ravens that seem to appear out of nowhere over the woods moving toward Dortmund, and disappear just as the first raven crosses the edge of the city. In a saga set in Collem Leonis the player magi have a chance to do research or ask the old resident maga. Ferra claims from the first moment that this is a bad omen, that it has happened before, and it spelled great disaster. It was over a century ago, so she can offer no more detail, but the Collem Leonis chronicles can. Outside magi are less privileged. While they may recognize the ravens as an ill omen, only a visit to Collem Leonis yields advance warning before disaster strikes. Successful research indicates that this is a warning of an imminent attack of a lindorm who seeks magical resources to consume and hoard. The most recent occurrence was actually quite recent, while Ferra was in Twilight, and Scipio of the previous generation went to stop it. Since no lindorm attacked he must have been successful, but he did not return.
 
@@ -12121,7 +12121,7 @@ With the next Tribunal as soon as 1221, and the one held in advance of the Grand
 
 The portals constantly affect the daily life of the magi. Because predicting events is difficult and imprecise, the magi should perpetually plan for emergencies or defensive measures. Minor portal openings or careful forays into the regiones occur frequently, but the really big events are best saved for a more established covenant, so the magi have a fighting chance.
 
-## *Collem Leonis as a Background Covenant*
+## Collem Leonis as a Background Covenant
 
 If playing a saga where Collem Leonis suddenly appears on stage as an old covenant reborn the player magi have ample opportunity to interact with them. A Spring covenant — even if it is Second Spring — lacks resources, expertise, and manpower. This opens up missions of trade and diplomacy. There may also be old forgotten lore there to interest other magi. Old alliances and enmities are rekindled, but their new council means new negotiations. Collem Leonis' mundane relations are of interest to Triamore especially, given its proximity. Finally the older generations' research into the Nordic lands is of interest to Heorot, Waddenzee, and Oculus Septentrionalis, while at the same time interfering with their spheres of interest.
 

@@ -1,7 +1,7 @@
 
-### *Hooks*
+### Hooks
 
-# *Credits*
+# Credits
 
 **Authors:** Christian Rosenkjaer Andersen (Echoes of the Ancient Dead, New Deal), Jason Brennan (Small Game), Richard Love (Birthright, Salvation, The River, To The Dark Tower), David MacGregor (Into the Valley), Xavier Requejo (Small Game)
 
@@ -51,9 +51,9 @@ Copyright 2014–2015 Trident, Inc. d/b/a Atlas Games. All rights reserved. Repr
 Digital Version 1.0
 
 
-### *Hooks*
+### Hooks
 
-# *Contents*
+# Contents
 
 | I. Introduction                                                                                                                                                                                                                                                                                                                                                                                                                                               | 6 | Further<br>Tales<br>18                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |    | The Estate of Antunnos32                                                                                                                                                                                                                                                                                                                                                                                                        |  |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
@@ -102,7 +102,7 @@ Digital Version 1.0
 *The Burned Monks..........62*
 
 
-## *List of Inserts*
+## List of Inserts
 
 | Faerie Queen Blegen<br>9        | Initiation of the Simple     | Alternative Deals64              |
 |---------------------------------|------------------------------|----------------------------------|
@@ -134,9 +134,9 @@ Digital Version 1.0
 |                                 |                              |                                  |
 
 
-## *Chapter One*
+## Chapter One
 
-# *Introduction*
+# Introduction
 
 Welcome to *Hooks,* an adventure supplement for **Ars Magica Fifth Edition**.
 
@@ -151,62 +151,62 @@ Some chapters refer to the rules and terminology of their target supplement (or 
 Note that your troupe does not actually require the target supplements to play these scenarios; they are intended as tasters.
 
 
-## *The Scenarios*
+## The Scenarios
 
 Each scenario is briefly described here, without spoilers, so that you can choose what you would like to play.
 
-## *Birth Right*
+## Birth Right
 
 The infant son of the baron is abducted by faeries. The faeries plot to gain power over the baron's fiefdom, which includes (or borders on) the player character covenant.
 
 This scenario introduces *Realms of Power: Faerie*.
 
-## *Echoes of the Ancient Dead*
+## Echoes of the Ancient Dead
 
 Clay tablets with clues to the location of the lost Canaanite city of En-Dor in the Levant fall into the hands of the covenant. A magus arrives claiming to be the rightful owner. Will the player character magi work with or against him in his quest for the forgotten secrets of the ancient Canaanite necromancers?
 
 This scenario introduces *Ancient Magic,* Canaanite Necromancy chapter.
 
-## *Into the Valley*
+## Into the Valley
 
 The covenant discovers that a local vis source is being harvested by a magus who has taken residence in a nearby town. Confronting the thief reveals a deeper plot involving the awakening of an ancient power.
 
 This scenario introduces *Houses of Hermes: Mystery Cults,* Bjornaer chapter.
 
-## *New Deal*
+## New Deal
 
 The magi are confronted by an imminent shortage of lab supplies when their regular supplier fails to deliver. The player characters need to find new suppliers and strike new deals, potentially involving them in the machinations of the merchants. Perhaps they are better off starting a business of their own?
 
 This scenario introduces *City and Guild*, especially trading and shipping.
 
-## *Salvation*
+## Salvation
 
 The magi learn of a nearby, haunted, ruined monastery. Can the player characters investigate without damning their immortal souls?
 
 This scenario introduces *Realms of Power: Infernal*.
 
-## *Small Game*
+## Small Game
 
 A pair of covenant grogs begin to act strangely, as if they are being manipulated into spying on the covenant. Can the player characters discover the mechanism behind these cat's paws?
 
 This scenario introduces the *Ancient Magic* sourcebook's Mechanica of Heron chapter.
 
-## *The River*
+## The River
 
 A Tytalus magus floods a river, killing hundreds of mundanes, and perhaps damaging the properties of magi. The magus claims his actions are not criminal because (in the Rhine Tribunal) he is the guardian of this river. Do the player characters, and the rest of the Tribunal, support this interpretation of the Code or not?
 
 This political scenario introduces *Guardians of the Forests: Rhine Tribunal,* particularly for sagas set in a different Tribunal.
 
-### *To the Dark Tower*
+### To the Dark Tower
 
 A noble knight has a terrible vision of the ruin that the covenant will bring to his lord's lands. The knight thus travels on a quest to slay the player character magi.
 
 This scenario introduces the *Lords of Men* sourcebook.
 
 
-## *Chapter Two*
+## Chapter Two
 
-# *Birth Right*
+# Birth Right
 
 A naked and screaming baby boy is held aloft by a pale woman, wearing a long white lace bridal gown, standing in a verdant forest clearing. The forestedge is crowded with a fantastic audience: rank centaurs, fecund satyrs, valiant knights. Even the gnarled trees closely observe this ritual held at the forest-heart.
 
@@ -214,7 +214,7 @@ A moment of irritation flashes over the pale woman's otherwise calm face as she 
 
 The baby falls asleep and the beautiful, pale woman smiles serenely once more, sliding a larger gold ring onto her own slender finger. The creatures watching from the forest-edge applaud and cheer the marriage. From among the joyful throng a band of faerie knights turn away and head out from the green forest-heart. Out toward the world of men...
 
-## *The Faerie Queen Blegen*
+## The Faerie Queen Blegen
 
 The beautiful pale woman is the faerie queen Blegen. She has a Sovereign Ward that means that she cannot leave her forested faerie kingdom. However, Blegen is insatiably curious about the mundane world. Her plan is to marry the infant, first-born son of a local noble and then have her faerie knights assassinate the noble. Her baby husband will inherit his father's lands and, due to his infancy, she will rule until his majority. This will expand her faerie kingdom to encompass the local lands of men, allowing her to "break" her Sovereign Ward and venture into the mortal world.
 
@@ -225,7 +225,7 @@ Blegen's plan has three phases:
 - Assassinate the baron.
 
 
-## *Faerie Queen Blegen*
+## Faerie Queen Blegen
 
 **Faerie Might:** 20 (Herbam)
 
@@ -264,7 +264,7 @@ When the scenario begins the first two phases are already complete. The importan
 This story is a hook for the *Realms of Power: Faerie* book.
 
 
-## *Faeries*
+## Faeries
 
 *Realms of Power: Faerie* describes the nature of faeries. Faeries gain "power" or vitality from acting out roles in stories, even if the role requires the faerie to be "killed" or "defeated." There is no game mechanic for vitality, but ultimately vitality motivates faeries.
 
@@ -272,7 +272,7 @@ Most faeries are fully immersed in story roles and incapable of acting outside t
 
 Faeries have Pretenses instead of Abilities. Faeries only imitate skills and knowledge, but only Cognizant faeries do this consciously. In play, use Pretenses exactly as Abilities, but very observant characters may notice something odd.
 
-## *Changing Location*
+## Changing Location
 
 For the story, the mundane noble's fief contains a forest with faerie regiones. The faeries do not need to be the sole, or most powerful, supernatural inhabitants of the forest.
 
@@ -280,11 +280,11 @@ If, in your saga, the lands near the covenant do not contain a suitable forest, 
 
 For example, Blegen can just as easily rule over faeries of the mountain, glacier, lake, or desert; replace her *Forest Queen* power, her specializations, and her Might Form as appropriate. You will also need to devise new descriptions for the faerie regiones.
 
-## *Changing Power*
+## Changing Power
 
 The faeries may not be challenging for powerful magi. If the troupe wants to make the faeries more challenging, the easiest solution is to increase the Might Scores. The Major Faerie Virtue Increased Might increases a faerie's Might Score by 15. The Minor Faerie Virtue Increased Might increases a faerie's Might Score by 5.
 
-## *Baby Marcus & Baron Frederick*
+## Baby Marcus & Baron Frederick
 
 Marcus is the baby heir of a noble whose fief contains the faerie queen's regio and is near the covenant. The covenant may be built within the fief too. For this scenario this will be the Baron Frederick, but choose a noble appropriate to your saga. A duke, count, or other noble rank can be used instead.
 
@@ -294,13 +294,13 @@ Game statistics are not provided for Baron Frederick either. If in your saga, yo
 
 Baron Frederick has a dozen men-at-arms at his ready disposal; use The Standard Soldier template (**ArM5**, page 22) for them. The baron also usually has four vassal knights at his castle, but these have been replaced by faeries (see later).
 
-## *What Happens*
+## What Happens
 
 The following scenes give the player characters opportunities to become involved in this story.
 
 
 
-## *Kidnap and Murder*
+## Kidnap and Murder
 
 The desperately worried Baron Frederick (or his servants) approach the magi for help to find baby Marcus, the baron's heir. The baron's wife (the lady Elaine) was murdered two days ago, and their baby is missing (presumed kidnapped by the assassin). Frederick's four knights were also missing.
 
@@ -318,11 +318,11 @@ If the player's covenant responds to the kidnap, then bear the following in mind
 - The baron's huntsmen have tracked the faerie knights into the forest, where the trail disappears. The knights continued into a faerie regio containing the faerie queen's court. Player characters with access to suitable spells can easily find the regio and continue to track the faeries. The trail is at least two days old before the covenant becomes involved.
 - Queen Blegen has already married baby Marcus. In the next few days or weeks, her knights will attempt to murder Baron Frederick (see later).
 
-## *Lady Elaine*
+## Lady Elaine
 
 The baron's wife, Lady Elaine, was killed by the faerie knights and her body left in the castle. Lady Elaine's murder ensures that she cannot later have rights over the baron's fief as his widow. Elaine's ghost, if summoned, knows little of value. She was killed with a single sword thrust to the heart while she slept.
 
-## *Contract Killers*
+## Contract Killers
 
 It is assumed the magi are opposed to the faerie queen's plan. However, magi strongly sympathetic to faeries (such as magi from House Merinita) might instead help the faerie queen complete her plan. If this is likely, rather than sending her knights to murder Baron Frederick, the faerie queen's agents might first try to give the job to the magi.
 
@@ -342,7 +342,7 @@ If the covenant is hidden from the mundane world, then word reaches the covenant
 
 If the magi are already on bad terms with Baron Frederick, then he assumes that these disreputable wizards have something to do with the strange abduction and murders. In this case, the baron angrily approaches the covenant (or sends representatives) seeking the abducted baby, and may be expecting and willing to pay a ransom. The magi might try to recover baby Marcus to prove their innocence (or to ransom him back to his father).
 
-## *Murder*
+## Murder
 
 A few days or weeks after Blegen's marriage to baby Marcus her knights attempt to murder Baron Frederick. The knights either ambush him in the forest or sneak back into the baron's castle to kill him in his sleep.
 
@@ -362,7 +362,7 @@ Blegen's first action is to send centaur heralds to every village and town in th
 
 If the player character's covenant is within the fief, it is also visited by centaur heralds relaying Blegen's message. Even if the covenant is hidden in a regio the centaurs are able to find it. On the other hand, being only faerie Might 5, the heralds are probably not able to enter the *Aegis of the Hearth* without invitation.
 
-### *The Faerie Court*
+### The Faerie Court
 
 Blegen's faerie court is densely forested, much more so than the mundane forest. The sea-
 
@@ -383,7 +383,7 @@ If the player characters travel to the faerie court they find the faerie queen B
 • Most of the court faeries avoid the player characters. However, if questioned, they readily say that baby Marcus is in the Nursery, looked after by Old Nanny. The faeries are excited about the recent marriage between Blegen and Marcus, and (if Baron Freder-
 
 
-## *Faerie Knights*
+## Faerie Knights
 
 **Faerie Might:** 5 (Corpus) **Characteristics:** Int 0, Per +1, Pre –2, Com –3, Str +2, Sta +3, Dex +2, Qik +2
 
@@ -447,7 +447,7 @@ ick has already been killed) the faeries are happy that Blegen's faerie kingdom 
 - Unless the player characters attack first, the members of the faerie court do not attack the player characters. Apart from the knights (see insert) the only combatant faeries are the tribe of centaurs. The satyrs are not combatants. The centaurs have Faerie Animal Might 5 (see *Realms of Power: Faerie*, page 76). The centaurs are Size +3, have +8 Soak, and attack with a lance and shield (Init +1, Attack +14\*, Defense +11\*, Damage +11; \* includes +3 "mounted" bonus). The centaurs attack in squadrons of five, but are not trained groups. The centaurs may not attack (and greatly fear) anybody who carries the sign of the cross.
 - The faerie queen does not particularly fear the magi. Although she has heard of the Order of Hermes, she views the magi as irrelevant and, once Baron Frederick has been murdered, she expects magi to obey her like any of her other subjects — if the covenant is built within her new lands. If the magi attack her, Blegen retreats to her castle, ordering her knights
 
-## *Baby Marcus' Cradle*
+## Baby Marcus' Cradle
 
 Baby Marcus is asleep, gently cradled in a nest of web hung between two trees. Apart from Old Nanny there are no guards. Baby Marcus is naked except for a plain gold wedding ring, which is an enchanted item.
 
@@ -469,7 +469,7 @@ In a previous age, Blegen ruled the faerie forest alongside a faerie king named 
 
 
 
-## *Old Nanny*
+## Old Nanny
 
 **Faerie Might:** 10 (Animal)
 
@@ -541,7 +541,7 @@ The knights can fight together as a trained group, receiving a +12 group combat 
 
 If the knights are captured they can be compelled, by magic, to reveal that baby Marcus is being kept by Old Nanny in the Nursery. The knights are unlikely to succumb to mundane persuasion or torture. The knights have not been to the Nursery. They do know that the entrance is the darkest part of the forest, but they do not know where that might be.
 
-### *Old Nanny and the Nursery*
+### Old Nanny and the Nursery
 
 In a dark, deep forgotten place in the forest is the Nursery, in which baby Marcus is watched over by Old Nanny. The regio is cramped, ancient, and covered in thick ropey spiderwebs. The tall trees of the forest, aged and wrinkled pillars, huddle together like shrouded mourners under sheets of gray web. Through the narrow gaps between the web and the pillarlike trees, patches of blue sky and puffy cloud can be seen, but the light is strangely strangled. A close observer can spot that the web extends up into the sky, linking air to earth. Even the sun is caught in this sticky cocoon, and so it only illuminates the regio with a sickly throttled light. Everything else is locked up tight in Old Nanny's clasp.
 
@@ -582,7 +582,7 @@ Many ages ago, perhaps before The Flood, the people living on the edge of the fo
 
 Old Nanny is not part of the faerie court, but she is subservient to it and jealously remembers when she ruled the faerie forest and Blegen was a wispy, halfformed idea fluttering among the swaying trees. Although Old Nanny watches over baby Marcus for the faerie queen, she has her own story to tell. Old Nanny tries to kill some of the player characters if they make it into the Nursery, but she also wants some to escape (even taking Marcus with them), spreading the tale of the ancient darkness at the true heart of the forest.
 
-## *Further Tales*
+## Further Tales
 
 However this Hook is resolved, the opportunity is created for further stories that involve the Faerie realm, if the troupe wishes. How the nearby mundane nobles react to Blegen's claim to the barony may also be important.
 
@@ -606,15 +606,15 @@ legal argument that the marriage was invalid (perhaps due to age, lack of consen
 
 • If the magi kill the faerie queen, the faerie court is thrown into disarray: Old Nanny tries to reassert her power, the dead faerie king tries to reclaim his throne, and the faerie queen tries to be reborn too. Some, or all, of these factions try to gain support from the magi of the covenant.
 
-## *Chapter Three*
+## Chapter Three
 
-# *Echoes of the Ancient Dead*
+# Echoes of the Ancient Dead
 
 A hooded figure searches through the ruins of a Byzantine fortress under the light of a full moon, trusting the stories of ghosts to keep the curious at bay. Reaching between two stones, he extracts a tooth from a shattered skull, his grin of triumph eerie in the wan light.
 
 "If anyone is watching," he thinks, "those stories are about to get stronger."
 
-## *Introduction*
+## Introduction
 
 Long before Bonisagus introduced his unified theory of magic and founded the Order of Hermes, powerful magic was practiced in lands far away from the heartland of Mythic Europe. These secrets are all but forgotten and lost, yet rumors and clues of some find their way to enterprising magi.
 
@@ -622,7 +622,7 @@ These hints of great power and magic are worthy of the attention of the Seekers,
 
 This story delivers ancient artifacts by pure chance to the covenant, challenging determined magi to investigate, seek, integrate and use powerful magic of ancient days. The intent of this hook is to introduce the player magi to the concepts of Ancient Magic — more specifically Canaanite vecromancy — and the search for and integration of such magics, as well as introduce the tradition and organization of the Seekers. For more information, consult *Ancient Magic*, Chapter 2.
 
-## *Prelude*
+## Prelude
 
 Prior to the first events of this story, the Seeker Argos
 
@@ -632,11 +632,11 @@ of Bonisagus made a deal with Vito, a Genoese merchant, to buy ancient clay tabl
 
 Vito sent the clay tablets by courier to the Teutonic Knights, who had shown an interest in the artifacts as well. Argos is now tracking the tablets by magic through an Arcane Connection to the courier.
 
-## *Events*
+## Events
 
 The following sections outline the expected sequence of events for this story.
 
-### *Arrival of the Courier*
+### Arrival of the Courier
 
 As dusk approaches, a sharpeyed person spots a wagon heading for the covenant gates at great speed. The driver looks scared out of his wits and the team of horses look near the point of exhaustion. They look like they are pursued by the devil himself, and the truth isn't far off. Far behind him gallop 15 ghostly riders clad in archaic arms and armor, rapidly gaining on him.
 
@@ -684,7 +684,7 @@ Argos tells his story and answers but a few questions. Canaan should be mentione
 
 
 
-## *Veteran Kataphraktos Spectre*
+## Veteran Kataphraktos Spectre
 
 **Magic Might:** 18 (Mentem) **Characteristics**: Int 0, Per +1, Pre
 
@@ -741,7 +741,7 @@ spectre cannot be affected by or affect any physical object. By spending 1 Might
 The kataphraktoi were the cavalry fighters of the Rhomanoi Eastern Empire. Statistics are given for veteran spectres from an elite unit; they have excellent training and years worth of experience. This unit consisting of an officer, two sergeants, and 12 soldiers were killed to the last man in the sixth century while on a mission to drive the pagans away. They have not received a Christian burial and have unfinished business.
 
 
-## *Notes on Balance*
+## Notes on Balance
 
 If the storyguide feels that the player magi are too weak to face the kataphraktoi as written, for example if they are recently Gauntleted or completely without Mentem magic, the power level can be lowered.
 
@@ -761,7 +761,7 @@ hospitality for now.
 
 Should the player magi hand over the tablets at once with no questions asked, refer to the section "Argos Gets the Tablets." Should they want to meet him again and offer their help, refer to the section "Working with Argos." In such a situation they have more time and opportunity to investigate, but there is little more to learn about Argos, except perhaps for stronger hints that Bellox is entirely fictitious and that it is Argos himself who controls the kataphraktoi ghosts.
 
-### *Further Investigation*
+### Further Investigation
 
 Because of the relatively short time span, the possibilities for a thorough investigation are limited, and unless the player magi's covenant boasts detailed records of the Order like the libraries ofmagi Mercere or Guernici this could be hard. Well-connected magi with means of fast communication or transportation might reach such a place within this time frame though. The following bits of information should be available in these situations.
 
@@ -855,7 +855,7 @@ refine Hermetic theory. Seekers are nominally under the control of House Bonisag
 
 The biblical land of Canaan and its culture is mentioned in religious works like the Bible as well as by some classical authors; see *Ancient Magic*, page 35. The Canaanite necromancers had mastery well beyond Hermetic magic: they were able to affect the dead regardless of physical range, able to create Arcane Connections to the dead with only a trivial effort, and able to sense whether named persons were dead. There are also dire warnings about the consequences. If Hermetic limits are suddenly surpassed, contacting individuals thought dead and gone might easily resurrect old and implacable conflicts, like those of the Schism War. Houses Tremere and Guernicus would rather the secrets stay lost forever.
 
-## *Dealing with Argos*
+## Dealing with Argos
 
 Argos returns the next day as promised. If asked about the tablets, he briefly explains about them: they are reputed to contain clues to finding a lost city with secrets of great importance to him. His explanation is littered with phrases that assume that the player magi know very well what he is talking about, such as what kind of magus a Seeker is and where Canaan is. Anybody asking for more detail reveals her ignorance to him, and he answers in patronizing ways. Having spent his entire life in the Levant, he is fascinated with the magics of old, and the spirit mastery of ancient Canaan is his life's project. He wishes to discover these secrets and integrate their powerful potential into Hermetic theory. He speaks of the subject passionately, almost bordering on fanaticism, but gives the impression of having a purely academic interest in it and not being after any glory or power.
 
@@ -868,21 +868,21 @@ him, is useful indeed. He is open to suggestions and claims that Bellox is a man
 
 There are several ways this can end. The characters might keep the tablets and send Argos off somehow. They might convince him to cooperate. Or they might just give him what he asks and lose out on the deal.
 
-## *Aftermath*
+## Aftermath
 
 Multiple stories can kick off from the meeting with Argos. Here are some ideas for possible outcomes of the situation.
 
-## *Argos Gets the Tablets*
+## Argos Gets the Tablets
 
 If handed the tablets, Argos goes on his way. The ghosts stay behind for another day to finish up their raids to add insult to injury, so they still pose a challenge to the covenant. The kataphraktoi follow Argos home afterward. This is the least desirable outcome, for the story as well as for Argos. The player magi have all but missed the boat on pursuing ancient magic. Argos has decided he prefers to keep the player magi on hand as patsies and he spreads rumors of the affair within weeks. Since many Houses and individual magi feel the secrets of Canaanite Necromancy are best left alone, a superior of the player magi or a Quaesitor asks them to pursue the matter, foil the attempts to recover the secrets, and keep them hidden. The odds are that they will be sufficiently motivated to either find or eliminate the secrets by themselves.
 
 While not involved in this introductory phase, the Teutonic Knights may play a part later on, as outlined in *Ancient Magic*, page 35, and for this very reason Argos prefers to have other magi bumbling around as well in order to take the heat off him.
 
-### *The Player Magi Hold the Tablets*
+### The Player Magi Hold the Tablets
 
 The player magi can, with little effort, keep their access to the clay tablets or a copy one way or another. As mentioned earlier, many Houses feel the need to keep these secrets out of circulation, so whether the motivation is to find the place or prevent the finding of it there are many chances for stories. Because many other tablets exist and at least one other group — the Teutonic Knights — are also known to seek En-Dor, the player magi must do more than just destroy these tablets to hide the place. The big wild card is what deal they strike with Argos. The tablets need to be deciphered and the texts read before an expedition has any chance of finding En-Dor in the Levantine desert. Prudent magi research further to find out all they can and be prepared for the search, as well as for whatever awaits in the ancient ruins. However, Argos is known as a perfectionist and in no particular hurry, so the magi need not feel that they can never catch up. In fact, he readily spreads rumors of himself being engaged in timeconsuming activities or suffering setbacks in order to motivate the rivals he is too arrogant to count as serious competitors. Examples
 
-## *Spectres*
+## Spectres
 
 A spectre is a ghost defined by its work or role and keeps doing the same thing in the afterlife; it remembers and knows nothing else. Detailed rules for a deceased person returning as a ghost can be found in *Realms of Power: Magic* Chapter Five; information about the different kinds of ghosts is found on pages 115–116. The kataphraktoi are examples of spectres; they keep on taking orders to fight.
 
@@ -909,16 +909,16 @@ Legal issues aside, the player magi can decide that Argos is enough of a pest to
 
 Should he be killed in the Wizard's War, Argos' story ends there, and the player magi now have free rein to pursue the secrets of Canaanite necromancy. If Argos had any intimation of what was coming, he leaves a letter with an ally or a Redcap to be opened on his death in order to tip off the opposition that the player magi are looking for En-Dor.
 
-## *Appendix*
+## Appendix
 
 This section contains some new rules used in this story.
 
 
-## *New Major Supernatural Virtue: Lore of The Dead*
+## New Major Supernatural Virtue: Lore of The Dead
 
 The character can perform certain necromantic spell-like effects called rites, representing powers that are relatively common among cults of the dead, although not very widespread in Hermetic circles. This Virtue gives the character a Score of 1 in the Supernatural Ability *Lore of the Dead.*
 
-## *New Supernatural Ability: Lore of the Dead*
+## New Supernatural Ability: Lore of the Dead
 
 Rites may be cast either ceremonially or casually, using casting totals as shown later, with the Ease Factors listed for each rite.
 
@@ -934,7 +934,7 @@ Stamina + Lore of the Dead + Shape & Material bonus + stress die
 
 **Casual Rite, Non-Fatiguing:** (Stamina + Lore of the Dead + stress die)/2
 
-#### *Hooks*
+#### Hooks
 
 **Casual Rite, Fatiguing:** Stamina + Lore of the Dead + stress die
 
@@ -992,7 +992,7 @@ The caster can alter the nature of physical objects, anchoring them for a time i
 
 (Non-Hermetic, magnitude varies)
 
-## *Additional Material*
+## Additional Material
 
 This hook utilizes only material from **ArM5**, but troupes may be in the possession of more books and wish to explore these to expand its scope. A few choice references for such are given here.
 
@@ -1005,9 +1005,9 @@ This hook utilizes only material from **ArM5**, but troupes may be in the posses
 *The Mysteries, Revised Edition*, page 129–131 mentions the Disciples of the Worm, which could be the sinister necromantic cult Bellox is said to associate with. The Necromantic Spirit Magic on pages 64–74 could be of use, especially Spirit Familiar. In addition, the common mystery of Potent Magic could really boost his Penetration.
 
 
-## *Chapter Four*
+## Chapter Four
 
-# *Into the Valley*
+# Into the Valley
 
 "Antunnos, the collectors will soon come," whispered Rani.
 
@@ -1027,7 +1027,7 @@ This adventure has been designed to allow the storyguide to use a nearby urban l
 
 
 
-## *The Town*
+## The Town
 
 Characters with the appropriate Int + Area Lore have the following information about the town.
 
@@ -1043,13 +1043,13 @@ The town is a community of 800, with half of its population outside of the town 
 
 have spent time at the covenant during the past year, or used its Redcap services.
 
-## *Part I: Seeking Antunnos*
+## Part I: Seeking Antunnos
 
 This section focuses upon confronting Antunnos and the return of the stolen vis. This requires entering the town, and finding Antunnos' living quarters.
 
 Listed here are specific places of interest that pertain to this adventure. Antunnos has set up a sanctum in an estate property, which he refers to as his "den." There is an ancient stone marker, a leather crafter's shop houses Antunnos' apostles, and last, but not least, there is a well-kept church that has strong ties to the local authorities (referred to as the mayor here).
 
-## *The Estate of Antunnos*
+## The Estate of Antunnos
 
 Antunnos' "den" is protected by a Level 20 Aegis of the Hearth. Rani, Jane, Olaf, Lince, Igor, and Elsie were part of the ceremony.
 
@@ -1059,11 +1059,11 @@ The public rooms of the house serve the general needs of the estate as well as b
 
 Confronting Antunnos about the stolen vis will be met with the return of said vis. Antunnos explains that he requires the characters' support, and that this "theft and return" has been meant to illustrate the solidity of a single promise: Should the covenant support him in his Great Ceremony, he will dedicate this area's resources to the covenant's needs. Should there be issues with the Ceremony, refer to Antunnos' Wilderist philosophy (see later).
 
-## *The Ancient Marker*
+## The Ancient Marker
 
 The immediate site of the marker has a Magic aura of 2, which overrides the local Divine aura at night. The marker itself ancient, predating Roman times. It has well worn pagan symbols shaped into it that convey "strength of the land." The town has developed around it and forgotten about it; it might be a fallen standing stone in a cattle pen, or built into a wall. Last, it is obvious that it has been cared for recently. In game terms, this is the physical site of Rossen-Antunnuac (see later).
 
-## *Lince's Leather Working Shop*
+## Lince's Leather Working Shop
 
 Antunnos' most fanatical followers gave themselves over to the Mystagogue during the early months of his time in the town. Of them, three proved to be cunning enough to continue work-
 
@@ -1073,7 +1073,7 @@ The property itself is well-used, but cared for. Many of the tools have been han
 
 This is the default meeting place of the Wilderists. Each apostle truly loves what they have become, and each passionately discusses the concepts of Wilderist ideals. Every simple heartbeast Wilderist visits at least once per month.
 
-## *The Church of St Mary*
+## The Church of St Mary
 
 The church of St Mary has a Dominion aura of 5. The entry hall of the church contains a single image of the Virgin Mary sitting on a throne with a church in her right hand and a town in her left. The inscription on this image is Mater Dei Patrona Civium (Mother of God, patron saint of the citizens).
 
@@ -1085,13 +1085,13 @@ The building and immediate grounds are well cared for.
 
 A gelb is a rural church-owned farmland property. This one has a Dominion aura of 2. There are always at least five farmers and their families here, and the leader at this site is a farmer named Golta. These people are all anti-Wilderist Christians. Golta considers Antunnos a devil and had many conversations with Elsie before she gave herself fully to the Wilderist way (see later).
 
-## *Part II: Enter the Church*
+## Part II: Enter the Church
 
 Antunnos is being watched by church members who suspect him of pagan rites. When the characters visit Antunnos' estate, or are seen publicly with him, the watchers report this to Father John. Within a day of a visit, Antunnos receives a summons to defend his alleged pagan activities. Antunnos, wishing to maintain a commanding public presence, complies. Father John is not ignorant of magic, and he has interacted with Antunnos for more than a year. Both men have the sense to maintain some level of civility to each other to gain the respect of the townspeople.
 
 John's response is one born
 
-## *Story Seed: Town and Country*
+## Story Seed: Town and Country
 
 Although the town itself remains in a Divine aura, the countryside is not. After the two years of manipulations by Antunnos, the country folk are now left in a void. They were influenced by magic, with some actually becoming bearers of the heartbeast. Some have even renounced the Church. Many have been manipulated to speak against it. This is prime hunting grounds for Infernal forces. Accusers (Realms of Power: The Infernal, page 43) could pave the way for the Infernal in the area. Vis sources may become tainted. Companions and grogs may inadvertently bring Infernally-influenced people into the covenant grounds.
 
@@ -1101,7 +1101,7 @@ This is the only time when all parties are peacefully gathered, so the player ch
 
 
 
-## *Breaking the Code*
+## Breaking the Code
 
 The players should soon realize that Antunnos is breaking the Code of Hermes.
 
@@ -1113,7 +1113,7 @@ Should the player characters join Antunnos, then they too are guilty of breaking
 
 apostles. If he must run, he seeks the safety of the den while his apostles patrol the grounds.
 
-## *Noon, at the Church*
+## Noon, at the Church
 
 At noon, Antunnos stands next to the pulpit as Father John address him:
 
@@ -1127,7 +1127,7 @@ Antunnos points out that Adam and Eve were stewards of Eden. He challenges John 
 
 From this, the gathering dissolves as the crowd polarizes into Wilderists against Christians. Father John quickly clears the hall in fear of further escalation. If there is some form of town guard present, they are slow to react, as Antunnos has previously cast Seed of Betrayal. At the exit, Golta storms over to Antunnos, screaming "Witchcraft! Demon!" He is roughly pushed back to John's group by Mabsuthat and Rani.
 
-## *Part III: The Great Ceremony*
+## Part III: The Great Ceremony
 
 After Father John's summons, Antunnos feels forced into the Great Ceremony at the ancient marker. He devises a historic, celebratory cover story for the event, gathering as many followers as he and his apostles can. Depending on your needs, this may be as low as 20 or as high as 100; the larger the group, the more attention it draws.
 
@@ -1137,11 +1137,11 @@ If the characters attach Antunnos before the ritual, it is likely to appear to Q
 
 If the players decide to hide out in the covenant, bring the issues of the town to them or motivate them with a Quaesitor visit. If Antunnos and Rossen-Antunnuac come to power in a local town, there are many ways in which the covenant will face trouble.
 
-## *Guidelines*
+## Guidelines
 
 This section provides necessary information not found in **ArM5**.
 
-### *The Big Picture*
+### The Big Picture
 
 Antunnos is a Mystagogue for clan Ilfetu and an outspoken Wilderist. Some may find his anti-Dominion rhetoric frustrating, but others find wisdom in his meditations on the importance of wilderness spirits.
 
@@ -1153,7 +1153,7 @@ To make this happen, he befriended the townspeople, while contacting like-minded
 
 
 
-## *Concepts from Houses of Hermes: Mystery Cults*
+## Concepts from Houses of Hermes: Mystery Cults
 
 #### **Harmonists versus Wilderists**
 
@@ -1171,7 +1171,7 @@ the Dominion. He plans to ally with the players' magi to increase his strength f
 
 Eventually, with the town turned and Rossen-Antunnuac strengthened, the measures taken in this town can serve as a symbol for the Wilderist ideal, and an exemplar of a method of freeing nature spirits, should Antunnos survive the political ramifications.
 
-## *Antunnos' Wilderist Philosophy*
+## Antunnos' Wilderist Philosophy
 
 The central goal for Antunnos is to raise Rossen-Antunnuac back to its ancient form. Antunnos is convinced that he will rewrite the Code through this action, whether out of madness or ego (that's up to the storyguide). An important part of this plan is to have the player characters support the benefits that a magicheld urban center would create, and Antunnos is willing to put a lot of effort in to gaining their support. Below are some of the arguments that Antunnos presents to magi who oppose him.
 
@@ -1239,7 +1239,7 @@ The central goal for Antunnos is to raise Rossen-Antunnuac back to its ancient f
 A Wilderist, Antunnos believes that humankind must be penned. The modified heartbeast ritual will tether the humans to Rossen-Antunnuac. He also firmly believes that the six Clans of his House are fragmenting; dispersing it as a political force within the Order. From the town, he plans to strengthen Wilderist allegiances within House Bjornaer. This would enable the Wilderists to secure spiritual places, and potentially strengthen the Order's fonts of magic.
 
 
-## *The Black Stag, Antunnos' Heartbeast*
+## The Black Stag, Antunnos' Heartbeast
 
 **Characteristics:** Int +2, Per +2, Pre +2, Com –5, Str +2, Sta +2, Dex 0, Qik +2
 
@@ -1277,7 +1277,7 @@ magi who are intertwined with the landscapes mystical spirits? Think of the new 
 
 • It has been two years. Do you believe I have been idle? He has allies within the Clans of Ilfetu, Maruhs, and Midusulf. He knows the landscape, and its resources. His followers know of the covenant, should Antunnos be martyred.
 
-### *Preventing Railroading*
+### Preventing Railroading
 
 There are certainly many interesting stories arising if the player characters choose to join Antunnos. However, they focus more on avoiding Hermetic justice than on the philosophy of House Bjornaer, so storyguides may want to encourage their troupes to oppose him. Here are three suggestions.
 
@@ -1285,15 +1285,15 @@ There are certainly many interesting stories arising if the player characters ch
 - Promote a sense of urgency by having a Quaesitor due to arrive in the near future. The Quaesitor is coming to discuss how best to stop Antunnos' activities in the town.
 - Bring in the Divine. The ritual might be rendered impossible, pushing Antunnos over the edge and leaving the troupe with a wild mob to contend with.
 
-### *Story Seed: Eden Returns?*
+### Story Seed: Eden Returns?
 
 Should Rossen-Antunnuac return, plant life seems to thrive. In the midst of the town sits the church of St Mary, unscathed and pristine. Rumors of beast-men have been recorded. The local bishop or archbishop will respond to these changes. Being well educated and not fearful of using the military to support his views of the law, how would he assess the town? Are these beast-men evil or useful? Could this be a sign of Eden's Return?
 
-## *The Characters*
+## The Characters
 
 This section provides statistics and descriptions for the important characters in this story.
 
-## *Rossen-Antunnuac*
+## Rossen-Antunnuac
 
 This spirit is comatose. It should be noted that although it is the focus of Antunnos' energies, it is too weak to function. The ancient marker is where it is bound to the mortal world. It is a Genius Loci (Realms of Power: Magic, page 106–7) aligned with Herbam.
 
@@ -1316,28 +1316,28 @@ Initiation mechanics are discussed in The Mysteries Revised Edition and Houses o
 
 increases the Magic aura, and by the time the spirit has regained a Might of 40, the Magic aura over the town reaches 4, enough to suppress the Dominion aura anywhere outside the church.
 
-## *Rani*
+## Rani
 
 Rani was raised in the forest hovel of a clan of Pomeranian witches, a sworn enemy of House Bjornaer. Set loose to seek a weakness that his clan could exploit, he came upon Antunnos. He knows about the Order, especially House Bjornaer's kill-on-sight doctrine concerning shapeshifters. However, he has carefully exploited this knowledge to gain favor with Antunnos.
 
 Rani assumes Antunnos seeks the goal of House Bjornaer's disruption. He has earned the reputation of being Antunnos' protector, and is very careful with his
 
-## *Story Seed: Of the Bjornaer*
+## Story Seed: Of the Bjornaer
 
 No matter how the characters deal with Antunnos, House Bjornaer takes an interest. At the very least, magi want to talk to the player characters, and they may have much weightier requests, if many unGifted people with heartbeasts survived. If the player characters are interested, it will be a simple matter to become more involved in the House's Mysteries.
 
 shapeshift skill. When Rani shapeshifts, each form requires a specific mental state. The boar form is his preferred shape and becomes available when he scavenges. When threatened, the bear shape becomes available to him. Finally, should he take any wound, the bull form becomes available, allowing him to charge through groups of opponents to safety.
 
-## *Story Seed: The Ladies Move In*
+## Story Seed: The Ladies Move In
 
 The Witches of Pomerania (Houses of Hermes: Mystery Cults, page 9; Guardians of the Forests, page 99) have followed Rani's activities. As the town embraces the Wilderist philosophy, the witches infiltrate the region. After four centuries of fearful hiding, the witches may have found a foothold against the Order. That foothold is Rossen-Antunnuac. Once they are allied to the nature spirit, where would revenge be best taken?
 
-## *Apostle Mabsuthat, Lince the Pelter*
+## Apostle Mabsuthat, Lince the Pelter
 
 Mabsuthat uses the Specialist template (**ArM5**, page 21; primary ability: Craft: Hideworking), with the addition of a lynx heartbeast and the Flaw Magical Air. Through
 
 
-## *Rani*
+## Rani
 
 **Characteristics:** Int –1, Per +1, Pre –1, Com -1, Str +2, Sta +2, Dex 0, Qik +2
 
@@ -1373,43 +1373,43 @@ Mabsuthat uses the Specialist template (**ArM5**, page 21; primary ability: Craf
 
 his studies as a devout Wilderist, he has taken a liking to the ideals of the Midusulf Chieftain; he seeks to become a leader of human heartbeasts who would rule through action over birthright. His personality type is Choleric.
 
-## *Apostle Ulama, Igor the Villein*
+## Apostle Ulama, Igor the Villein
 
 Ulama uses the Hunter template (**ArM5**, page 21) with a falcon heartbeast and the Flaw Magical Air. The most mischievous of the trio, his beliefs as a Wilderist embrace the Maruhs Puck ideal; he simply wishes to shatter any forms of human establishment that he can find. His personality type is Sanguine.
 
-## *Apostle Vivopario, Elsie of the Glebe*
+## Apostle Vivopario, Elsie of the Glebe
 
 Vivopario uses the Priest template (**ArM5**, page 23) with a viper heartbeast and the Flaw Magical Air. Although a woman, she has been raised as an orphan at the Church's glebe outside of town. Over time, she shared the responsibilities of the farm with Goldt. She had also taken simple vows for an informal religious life. She represents Antunnos' greatest triumph.
 
-## *Jane & Olaf*
+## Jane & Olaf
 
 These tow are the housemaid and guard of the estate. Neither ever leave the grounds and both were part of the Aegis ritual. Jane and Olaf are married, but the process of Antunnos' heartbeast ritual forced them to renounce the sacrament. The pair are still very dedicated to each other (and, in the eyes of the Divine, still married). Jane uses the Witch template (**ArM5**, page 23) and has a lioness heartbeast, with the Flaw Magical Air. Olaf uses the Tough Guy template (**ArM5**, page 22) and has a wolf heartbeast and the Flaw Magical Air.
 
 
 
-## *The Mayor of the Town*
+## The Mayor of the Town
 
 The farms and herds of the region have produced well this year, with much of the gain due to Antunnos' aid. Although officially a staunch supporter of the Church, the mayor sees to it that people speaking against Antunnos have better things to do with their time.
 
 On the other hand, the mayor detests Rani, and sees many accusations made against Antunnos as Rani's fault. This is caused in part due to Rani's handicap, and also in part due to an occasional magical nudge from Antunnos.
 
-## *Father John*
+## Father John
 
 Use the Priest template (**ArM5**, page 23). Father John stands as the final anchor of the Church's presence within the town. He takes refuge within the church and seeks to bind the people together under the Word of God.
 
-### *The Heartbeasts of the Town*
+### The Heartbeasts of the Town
 
 People swayed by Antunnos are still few in number, and most live outside the central town area. Antunnos has used these men and women as test subjects in the development of the Great Ceremony.
 
 Should you need characters to represent the townspeople, use the Grog and Companion templates (**ArM5**, page 21–24). Beasts are listed in the Book of Beasts, available as a free download from the Atlas web site, or as an appendix in *Realms of Power: Magic.*
 
-## *Story Seed: The Rise of Rossen-Antunnuac*
+## Story Seed: The Rise of Rossen-Antunnuac
 
 As the nature spirit Rossen-Antunnuac continues to gather strength, a regio forms (Realms of Power, Magic, page 103). Over the course of a single year, the local wilderness becomes pristine. Plant growth matures quickly and produces vibrant fruits. Spirit guardians begin wandering the landscape, protecting the passages to the local town. Should he have fallen during this adventure, the spirit of Antunnos may well have become bound to Rossen-Antunnuac. Aside from the immediate problems, the Order will be very interesting in a Magic aura that grows so quickly.
 
 
 
-# *New Deal*
+# New Deal
 
 be used as a stepping stone for using *City and Guild* for stories
 
@@ -1417,32 +1417,32 @@ An elderly merchant clutches the rigging on a ship as it is tossed about in a vi
 
 A wave the size of a castle rises from the sea and swallows the ship. In the foam and churning waters no debris can be seen. about liaising with traders or setting up merchant businesses. Troupes who resolve bookkeeping and economics in a loose manner may find inspiration in the possibilities for merchant adventurers traveling to far-off lands and meeting foreign cultures at the edge of the known world and the Order's influence.
 
-## *Introduction*
+## Introduction
 
 Mythic Europe has aspects not involving faeries, griffins, and demons. Mundanes produce much-needed items with their hands and merchants use their talents and connections to distribute these wares. The explosive growth of towns during the 13th century provides ample opportunity for business as well as adventure.
 
 The story below illuminates the importance of arranging for supplies through well-maintained trade relations. It can
 
-## *The Missing Shipment*
+## The Missing Shipment
 
 The player magi realize midseason that they are missing an important shipment of rare and valuable materials needed to perform their magical projects. The usual supplier — Charles has failed to deliver the goods within the expected time frame. The delay is beyond what is reasonable considering the distances involved, resulting in an imminent shortage of materials vital for lab work. To add insult to injury, the agreement was that he was paid in advance because of the exotic nature of the goods and the distance to the sellers. This arrangement has worked without a hitch for a number of years, until now.
 
-### *Going To Town*
+### Going To Town
 
 A proactive approach is to send envoys to town to check up on things, and to see if any information on Charles is to be found. The journey is uneventful, although since at least the latter half of the trip takes them through populated areas any Gifted individuals in the group draw attention to themselves.
 
 This is a good opportunity to get socially adept companion characters into play. There are a number of logical places to start in town, among others the warehouse Charles usually rents and the taverns frequented by the laborers and teamsters employed by the merchants. Activities of this kind lead to a minor investigation covered below on a location by location basis in The Town.
 
 
-## *Waiting*
+## Waiting
 
 If the magi simply choose to wait, a letter arrives by a mundane messenger within a few weeks. If the covenant has a difficult approach (for example, in a regio) the directions were found in Charles' letters (see later). The letter is from a merchant named Simon who offers to supply what Charles obviously has failed to deliver. He cordially invites a representative of the wizards to his house to negotiate. Should the matter be ignored at this point, the shortage is there to stay. If a character attempts to procure some of the missing materials in town he certainly crosses paths with Simon.
 
-## *Shortages in Labs*
+## Shortages in Labs
 
 Stores of rare consumables and replacement tools have been running low since the
 
-## *Charles and the Shipment*
+## Charles and the Shipment
 
 Charles was an honest merchant adventurer who suffered a stroke of bad luck on one of his risky ventures to exotic lands in search of rare goods and valuables. One setback led to the next, and eventually he was goaded by Simon into borrowing money from him, using the expensive shipment belonging to the covenant as security. He was loath to come clean to the magi since he had already been paid in advance, so he tried to cover his losses. He took even greater risks than usual, skimping on the quantity of manpower and quality of ships, and had the misfortune to suffer a shipwreck with an additional cargo of gems
 
@@ -1483,11 +1483,11 @@ If using the rules for labs from *Covenants* page 106–124, the covenant can on
 
 new Flaws are removed without needing to spend time doing this, but lost Virtues take time to regain. If the shortage is not dealt with within four seasons, the sum of Upkeep of the labs needs to be reduced to zero.
 
-## *The Town*
+## The Town
 
 The details of the town depend on individual sagas. This is the town from which the covenant buys the bulk of its supplies, so it is probably the largest trading town, or even a full-sized city, in the local area. For the purposes of this hook it is assumed to be a town with chartered trading rights ruled by a council of citizens rather than by a feudal lord. It is inconvenient if it is located too far away, so a location within a weeks' travel fits well. Ideally, the town should be situated on a coastline or on the banks of a fair-sized river. Some of the player characters are almost certainly familiar with the town. It is, however, easy to adapt this hook to any town near the covenant; Simon and Charles could have set up business anywhere.
 
-### *Information in Town*
+### Information in Town
 
 Facts and rumors are easily picked up at the taverns where the workers and craftsmen go, at the marketplace, at any harbor, riverside, or grazing common the town might have. The offices of merchants or even the Trading Guild can yield information as well. Intrigue, Etiquette, Carousing, Organization Lore: Trading Guild, and Area Lore are all relevant Abilities, depending on where the player characters go. Characteristics usable are Presence, Communication, or even Perception, depending on approach. An Ease Factor of 9 is sufficient, while modifiers between –3 and +3 apply depending on the location, the Ability used, and on whether tactful bribes of at least a day's salary are offered.
 
@@ -1515,7 +1515,7 @@ Facts and rumors are easily picked up at the taverns where the workers and craft
 - He is an honest and reasonable man.
 
 
-## *Peter the Merchant*
+## Peter the Merchant
 
 Peter is a moderately successful and well-off merchant in his early forties dealing in cloth and leather wares. He does not see himself as a rival of Simon but will, in time, notice that Simon is in fact trying to take over his market. He grudgingly respects Simon's success but fears his schemes rather than admires him.
 
@@ -1533,11 +1533,11 @@ If the situation ends amicably with Peter, he may become a future supplier to th
 
 At the start of the season in which the magi expected Charles' shipment, Charles borrowed money from Simon. Two weeks later Charles died in the accident, and two weeks after that information of this reached town. Two weeks passed before Simon sent his messenger to the covenant, and the messenger took a week to get there.
 
-## *At the Warehouse*
+## At the Warehouse
 
 The warehouse is located in the trading district and is bustling with activity. All workers are wearing the yellow and red checkered armband which is easily found to mark them as in the employ of Simon the merchant. Builders are finishing repairs and refurbishment of the well-worn building. Teamsters and laborers load and unload cargo. The workers can't and won't say anything in fear of Lucas the foreman, who is surly and points all nosy questioners toward Simon. The warehouse is full of imported goods common to the area.
 
-## *Simon's Townhouse*
+## Simon's Townhouse
 
 The new building has many architectural qualities, but the inside is decorated in tasteless opulence, thanks to Simon's failed attempts to make a sophisticated show of his family's wealth and power. The house has a suitable number of servants, and several are burly thugs acting as bodyguards. The ground floor houses the office and reception chambers as well as the kitchen in the back. The upper floors house Simon's chambers, guest rooms, and the dining hall. Servants live in outbuildings at the back. The basement holds stores as well as the vault. It is built sturdily of thick stone slabs and has a strong iron door with a good quality padlock. Here can be found Simon's cash in silver, account books, and the letters he found at the warehouse.
 
@@ -1550,13 +1550,13 @@ possible for determined and skilled specialists. Naturally, all doors and window
 
 For game statistics use the Tough Guy template on **ArM5** page 22, except that no armor is worn, for Soak +6 and his only weapon is a Club with Init +2, Atk +7, Dfn +7, Dam +4.
 
-## *Smiling Simon*
+## Smiling Simon
 
 If the player characters answer the invitation Simon sent, or if they identify themselves at the house as representatives of the magi, they are received politely and with little waiting. If they assume other identities, their reception and waiting time depends on how important Simon believes they are and how profitable a deal he thinks he can strike. In any case, a meeting is easy to set up. Simon receives his guests in a gaudy room cluttered with various tapestries, furniture, and nicknacks.
 
 Simon is devious and scheming, he is good at what he does, and outfoxing him by mundane
 
-## *Simon the Merchant*
+## Simon the Merchant
 
 **Characteristics:** Int +1, Per +1, Pre +2, Com +1, Str 0, Sta +1, Dex 0, Qik 0
 
@@ -1589,7 +1589,7 @@ Simon is devious and scheming, he is good at what he does, and outfoxing him by 
 Simon's merchant father recently died of old age, and the four sons split the business between them. Simon was tasked with setting up a new venture in this town. It was perhaps the hardest task, but he relishes the challenge as well as the freedom to do as he pleases without interference. Besides his trading, he is also a successful moneylender. Since Christians don't charge interest, his profit comes from impounding wares, ships, or buildings from debtors who fail to pay, and adding any expenses for storage and transport he can get away with.
 
 
-## *Court Mechanics*
+## Court Mechanics
 
 The plaintiff makes his case, presents evidence, and the court hears statements form witnesses. Following this, the defendant makes his case. The statements are not proof and fact, but rather testimony about the character of the plaintiff or defendant, testifying to the fact that he is innocent or guilty as the case may be. A roll of Communication + Civil and Canon Law or Artes Liberales (logic) versus an Ease Factor of 9 results in a credible statement.
 
@@ -1613,13 +1613,13 @@ The court finds in favor of the side which rolls higher. Court officials quickly
 
 means is hard, as he is well versed in social abilities. Contrary to what one might think, Simon did not contribute by any direct action to the demise of Charles, but he did lure Charles into borrowing money with the covenant's shipment as collateral; this in turn drove Charles to take unnecessary risks, eventually leading to his death. Simon does not feel responsible for Charles' tragedy, but is quick to take advantage of it. His long term goals are simply profit and overshadowing his rivals and competitors. It is obvious that he intends to milk the covenant for all the money and magical favors he can. The important point here
 
-## *Story Seed: Double Scandal*
+## Story Seed: Double Scandal
 
 The scandal revealed takes on a life of its own. Maria's mother Odile lost her husband to an accident shortly after the birth of the child. The priest took the widow in as housekeeper. On closer inspection, Maria does look an awful lot more like the priest than she does her plump mother. Exposing this scandal can lead to unwanted attention on the priest, who then goes looking for those responsible. Simon is sure to try to ride out the storm as best he can by fingering the player characters as the source of the rumors. A case of meddling with the mundanes can start to form if the player characters are not very careful.
 
 is that Simon genuinely believes the shipment to be rightfully his.
 
-## *The New Deal*
+## The New Deal
 
 A business meeting with Simon is straight to the point. He offers the exact shipment Charles failed to deliver for a quarter more than the original price. He believes he can rightfully do this due to Charles' unpaid debt; he does not know that the covenant paid in advance. If
 
@@ -1631,7 +1631,7 @@ Refusing to follow Simon's interpretation means taking the matter to the Trading
 
 The wares are in town, kept safe by Peter. Simon claims there are some challenges regarding transport. There is a shortage of ships or wagons (whichever is more relevant to the geography of the saga). Simon can deliver the goods in three months' time; he is even so generous that he adds no extra cost for storage in the meantime. Alternatively, the characters could do him a small favor, which will free up transport to get the wares to the covenant in two weeks. See the section Favors, later.
 
-## *The Old Letters*
+## The Old Letters
 
 The old letters found at the warehouse were hidden there by Charles before his last journey. Rumors of them had circulated among disgruntled employees, and the story is that Simon has them now. They are hidden in his vault, but this fact is only known for certain to Simon himself.
 
@@ -1646,7 +1646,7 @@ In the future, Simon offers to continue supplying the covenant with everything C
 
 Simon suggests that he could easily sell books on magical subjects to nobles and academics in his contact group, fetching high prices. Simon knows of magic, but he does not know that the books are useless to unGifted buyers. Alternatively, he cuts better deals if the characters do him a "little favor."
 
-## *Favors*
+## Favors
 
 Below are ideas for doing Simon favors in order to help secure supplies for the covenant as well as further Simon's underhand business strategy.
 
@@ -1670,11 +1670,11 @@ Further favors might include: repairing a road and bridge disabled by weather an
 
 These favors ask more and more of the player characters, and eventually they risk drawing unwanted attention to themselves, be it from town officials, noblemen, guilds, clergy, or the Order. These are intended to be future events beyond the scope of this hook. For further inspiration refer to *City and Guild* pages 124–125.
 
-### *Digging Up Dirt*
+### Digging Up Dirt
 
 If a competent character investigates thoroughly, the skeletons in Simon's closet fall out. This can include following Simon around and asking questions among his peers. He has a secret lover, the young and beautiful Maria, who is married to a sailor who is away from home most of the time. Threatening to expose this scandalous behavior helps keep Simon in line if done correctly, at least for a while. If pushed too hard or too crudely, Simon calls their bluff and claim that the consequences for those spreading such rumors might be dire due to Maria's father (see later). Apart from infidelity, Simon has not committed any crimes or serious offenses. He prefers to have other people do this, and that is why he wants favors from the magi. His books and accounts are in order, and no guild or customer has any serious issues with his deliveries and deals.
 
-### *Official Rulings*
+### Official Rulings
 
 As the first step in establishing their rights to the shipment the player characters need to take up the matter with officials of the Trading Guild. They are the plaintiffs and need someone suitable to make their case. Although this may be a player character, the troupe may hire a local lawyer or Peter the merchant may play this part. A local lawyer can be assumed to have Communication +1, Civil and Canon Law 5, Artes Liberales 2, and Organization Lore: Trading Guild 2. Simon hires the very best lawyer in town with Abilities two points higher than this. Refer to the Court Mechanics insert.
 
@@ -1686,7 +1686,7 @@ Rulings about trade are made by officials from the Trading Guild appointed from 
 
 Rulings about crime are made by a council of magistrates selected from among the town's citizens. Mechanics and modifiers as listed in the Court Mechanics insert. If Simon loses here, he may work against the covenant as mentioned earlier.
 
-## *Setting Up Business*
+## Setting Up Business
 
 Any deal with Simon most likely sours in time, and enterprising player characters might think seriously about setting up a merchant business of their own. Alternatively, they might refuse to deal with Simon from the start. Such a venture is
 
@@ -1696,7 +1696,7 @@ beyond the scope of this hook beyond its inspiration, and thus it will not be tr
 
 A profitable venture takes local wares to sell in a foreign place and brings home valuable goods. The initial investment
 
-## *Setting Up Business Story Seeds*
+## Setting Up Business Story Seeds
 
 **Ghost Ship**
 
@@ -1719,9 +1719,9 @@ As the power of the guilds does not reach far from the towns, skilled craftsmen 
 
 Nearby are listed a few story seeds to get things going, but beyond this refer to *City and Guild*.
 
-## *Chapter Six*
+## Chapter Six
 
-# *Salvation*
+# Salvation
 
 Thick smoke, stinking of roasted human flesh, rises above a devastated church. Charred corpses, the brittle black bones rendered of fat and meat by hot fire, are scattered through the still-warm rubble. The burnt skulls blindly grimace at the ash-flecked sky.
 
@@ -1729,7 +1729,7 @@ Furiously digging through the rubble is a black-robed, soot-smeared young monk. 
 
 Hours later, the monk wearily trudges away from his dead home. As the monk departs, a bitter wind rattles through the ruined monastery. The rustling ashes almost sound like laughter…
 
-## *The Damned Monastery of Saint Sylvester*
+## The Damned Monastery of Saint Sylvester
 
 The monks of the Benedictine monastery of Saint Sylvester, in the parish of West Brockshire, were massacred burned alive in the monastery church by a cruel band of outlaws. Only one monk survived, and the ruined monastery now lies haunted by Infernal spirits. At its heart, in a fiery regio, waits a demon monk who traps hapless mortals behind walls of hellfire so that he can offer a simple choice to his victims: "sell your soul or die in flames."
 
@@ -1771,7 +1771,7 @@ Ashamed at his weakness, and fearing retribution by the church, Guthrie lied to 
 Here are the ways the player characters can become involved:
 
 
-## *Father Guthrie*
+## Father Guthrie
 
 **Characteristics:** Int +1, Per +1(1), Pre +1, Com 0, Str +1, Sta +1, Dex +1, Qik +1(1)
 
@@ -1816,7 +1816,7 @@ As Father Guthrie is a clergyman with unconfessed sins he is irregular, which me
 
 mission the player characters to investigate rumors of the demon-haunted monastery. For this commission to be offered, the player characters must already have reputations within the diocese as supernatural specialists, but not be considered an infernal liability themselves. Ironically, Father Guthrie — an ecclesiastical expert in dark matters — may also be assigned to investigate.
 
-## *Moving the Monastery*
+## Moving the Monastery
 
 The exact date of the monastery's destruction can be changed if your saga requires. Consider whether you want it to be possible for the player characters to meet Father Guthrie (the sole survivor of the fire). If it is too long ago, he has (probably) died of old age.
 
@@ -1824,11 +1824,11 @@ The monastery can be located in any parish, anywhere in Mythic Europe, but it is
 
 It is not crucial that the site was linked to the broader parish via the leather works. However, the reputed wealth of the monks gives a rationale for the outlaws to attack.
 
-## *What Happens*
+## What Happens
 
 The main scenes are Questioning Father Guthrie, Getting to the Monastery, Exploring the Ruined Monastery, and Dealing with the Cloven-Hoofed Monk.
 
-## *Questioning Father Guthrie*
+## Questioning Father Guthrie
 
 This scene might not occur; whether it does (or not) depends on whether the player characters learn that the sole survivor Father Guthrie is now a canon at the cathedral and whether the player characters decide to question him. It is possible that this scene instead plays out at the end of the scenario when the player characters, having realized that the monk's story is implausible, confront him.
 
@@ -1838,7 +1838,7 @@ If Father Guthrie accompanies
 
 the player characters to the ruined monastery, he contributes as little as possible to the investigation; he is however keen to see that the Infernal regio is entered (see later). Because the father is immune to fire, he can leave the monastery regio at any time without negative effect. The demons in the regio are not above tormenting him, but do know that his soul is already claimed by hell, and thus do not trouble him as much as they might trouble the player characters.
 
-## *Getting to the Monastery*
+## Getting to the Monastery
 
 The monastery is in the parish of West Brockshire, which also contains one small village and a dozen lonely farmsteads. The journey to the parish is not challenging and takes a week on foot from the covenant.
 
@@ -1849,7 +1849,7 @@ The ruined monastery is a few hours' walk from the main parish village.
 The parish priest (Father Michael; his church is in the main village), or other parishioners, explain that the Benedictine monastery was wealthy because of the monks' skill as leather-workers, making belts, bags, and jerkins. The monks' products were mostly exported and sold in the large towns of the diocese. Many parishioners supplied raw hides to the monks, while others worked as teamsters transporting finished
 
 
-## *Agatha*
+## Agatha
 
 **Characteristics:** Int 0, Per +1, Pre +1, Com 0, Str –1, Sta 0, Dex +2, Qik +2
 
@@ -1885,7 +1885,7 @@ The parishioners also know that a single monk survived the original fire, and fl
 
 Apart from a wary suspicion of Gifted characters, the parishioners freely offer the information they have. If some of the player characters appear to be clergy, the parishioners erroneously assume the player characters are Benedictine monks scouting the old monastery site for possible recolonization. This pleases the parishioners.
 
-### *Exploring the Ruined Monastery*
+### Exploring the Ruined Monastery
 
 Black and soot-stained, the ruins of the monastery stand by a small gurgling stream in an empty, rockpocked field. The ruined church is splayed open and the half-fallen stone arches, which once held beautiful stained-glass images of devotion, now point skyward like the bleached bone ribs of a carrionpicked corpse. The silent courtyard, which formerly echoed with murmured prayers to God's glory, is now overgrown with grasses.
 
@@ -1943,7 +1943,7 @@ The hens are ordinary mundane chickens, descended from the birds kept by the mon
 
 The demon has invested 1 Might Point in the possession of the cockerel. This means that an independent Infernal Might 1 copy of the demon resides within the cockerel. The copy is entirely independent of the original demon and has the same powers and statistics (but no physical body and less Might). The possession allows the demon to use the senses of, and to manipulate the body of, the cockerel. The demon amuses himself by running the cockerel into walls, and making it fall off its perch in convulsive fits; this abuse has turned the cockerel mad. A spell equivalent to *Demon's Eternal Oblivion* can exorcise the demon from the cockerel. This has no other effect on either the cockerel
 
-## *The Cloven Hoofed Monk*
+## The Cloven Hoofed Monk
 
 **Order:** Lord Abbot of the Unholy Order of Tempters (*tentator*)
 
@@ -1998,7 +1998,7 @@ The book the monk carries is *The Book of the Morning Star* (Infernal Lore Abili
 A character who makes a Perception + Awareness roll against an Ease Factor of 6 notices that the monk has cloven hoofs instead of feet. He otherwise appears to be a normal middleaged man.
 
 
-## *An Infernal Vis Source*
+## An Infernal Vis Source
 
 The infernal hellfire can be harvested as an Ignem vis source. Five pawns of Ignem vis can be harvested per season, and this vis is tainted with the infernal. The storyguide can adjust the number of pawns available to suit your saga. It is best to err on the side of generosity, as Hell provides the vis as a temptation.
 
@@ -2010,7 +2010,7 @@ Player characters who can speak to the cockerel rapidly discover that it is insa
 
 If the player characters enter the regio, the cockerel enters the regio too, whereupon he dashes to the regio crypt where the original demon waits. The two copies of the demon need to see each other for the cockerel copy to relay information about the player characters.
 
-### *Dealing with the Cloven Hoofed Monk*
+### Dealing with the Cloven Hoofed Monk
 
 Every midnight, for one Diameter, the Infernal regio in the ruined church opens and characters in or entering the ruined church at this time enter the regio. At other times, characters who can see into the regio can freely cross into the regio.
 
@@ -2046,7 +2046,7 @@ In the Infernal regio, the crypt is dark and cool, so Deprivation Checks for hea
 
 Characters who accept the infernal deal immediately fall unconscious and awake outside the regio in the cold, black ruins of the church. From the perspective of characters who remain in the regio, the corrupted characters merely disappear.
 
-## *Burned Monks*
+## Burned Monks
 
 **Order:** Tempters (*maligenii*) **Infernal Might:** 5 (Ignem)
 
@@ -2093,7 +2093,7 @@ Characters who accept the infernal deal immediately fall unconscious and awake o
 **Appearance:** The screaming, burned monks rush backwards and forth, leaving a taste of ash and fluttering torn pages from the bible in their wake. The monks are transparent and colored in smoky, orange sepia tones. Each demonic monk has produced nearly half a dozen images of itself, so the relatively small number of demons appear to be a larger crowd of panicked ghosts.
 
 
-## *Alternative Deals*
+## Alternative Deals
 
 The demon abbot will not himself propose alternative deals, but if the player characters propose other deals then he accepts. The abbot accepts because he knows that *any* deal made with him damns the characters.
 
@@ -2105,7 +2105,7 @@ If the characters attack the Cloven Hoofed Monk he fights back. However, the dem
 
 If the Cloven Hoofed Monk is destroyed, the hellfire extinguishes, allowing the characters to freely leave the regio.
 
-## *Further Tales*
+## Further Tales
 
 However this hook is resolved, the opportunity is created for further stories that involve the Infernal realm, if the troupe wishes.
 
@@ -2121,9 +2121,9 @@ However this hook is resolved, the opportunity is created for further stories th
 - Some of the other parishioners may be secret diabolists who worship at the damned monastery.
 
 
-## *Chapter Seven*
+## Chapter Seven
 
-# *Small Game*
+# Small Game
 
 In the hazy dawn light, two men leave the city. One man rests his heavy head against the side of their fully-laden cart, while his companion narrowly avoids steering into the path of the itinerant merchants arriving at the city gate for the day's fair. The heavy-headed man sadly contemplates the lightness of his coin purse — emptied last night into an extraordinary number of tankards — while two small shapes watch this ignominious departure from a vantage atop the city battlements.
 
@@ -2133,7 +2133,7 @@ One of the observers chimes, with a delicate, silvery metallic voice, "Are we re
 
 The two small observers then turn, elegantly leap onto a nearby house, and chase each other's shadows over the rooftops. Below, the fairground is being prepared.
 
-## *Introduction*
+## Introduction
 
 This adventure seed pits the player characters against a pair of animae – self-aware magical automatons created centuries ago by members of a forgotten magical tradition. Details regarding the mechanicians and how their powers can be integrated to improve Hermetic Magic are described in *Ancient Magic*, but that book is not required to run this story.
 
@@ -2141,15 +2141,15 @@ Because the antagonists do not directly interact with the characters for most of
 
 
 
-## *Anima and Terminology*
+## Anima and Terminology
 
 Among the innumerable magical practices endemic to Mythic Europe, the ability to generate an anima (vital spark) is one of the most impressive, allowing a magus to imbue an otherwise inanimate object with a life of its own. Despite superficial similarities to Heron's art, however, neither the Animae Magic of House Merinita, the Automata of House Verditius, nor the Augustan Brotherhood's Animo ability can demonstrably create sentient life. Thus, while the relationship between the aforementioned powers remains hotly debated by Hermetic scholars, Maahes and Ailuros would be deeply offended at being mistaken for the products of what they haughtily dismiss as inferior magics. Details concerning the Animae Magic and Automata mysteries can be found in *Houses of Hermes: Mystery Cults,* while Animo is described in *Rival Magic.*
 
-## *Prologue*
+## Prologue
 
 In the city of Alexandria in 293 AD, a famed mechanician named Celmis Rodhios constructed his masterpiece, a silver cat anima whom he named Ailuros (a Hellenization of the Egyptian deity Bast). Beautiful, urbane, and welleducated, the feline was acknowl-
 
-## *Mechanica of Heron*
+## Mechanica of Heron
 
 Mechanica of Heron refers to both a Major Supernatural Virtue and its attendant Supernatural Ability. Possession of this Virtue allows a character to construct a variety of magical wonders, including sentient magical devices called animae (singular anima). Other arcane secrets known to the mechanicians included the ability to create permanent enchantments without vis, and knowledge of how to create devices whose effects can later be altered (so long as the new power uses same Technique and Form combination as the previous one). For more information on Heron's magic, consult *Ancient Magic*, pages 77–78.
 
@@ -2161,13 +2161,13 @@ Being immortal, the felines outlived the magical tradition that spawned them and
 
 The cats do not have fond memories of their imprisonment. Considered little more than toys, they were subject to all manner of torments by the magi. Unable to escape the covenant themselves due to a series of magical wards, the cats eventually succeeded in tricking an apprentices into breaking the wards for them. Believing themselves to be hunted by their former captors, the cats are extremely wary of the Order of Hermes and suspicious of any friendly overtures from magi. Still, they are aware that they cannot oppose a Hermetic covenant by themselves and are looking for allies. They have settled in a city near the players' covenant and have entered into an alliance with a local goldsmith, covertly engineering his election as the city's *prevot* (mayor). For further details on town governance, consult *City & Guild,* page 13.
 
-## *Setting*
+## Setting
 
 This hook can, theoretically, be played out just about anywhere in Mythic Europe, but it is easier if the players' covenant is located reasonably close to a town or city where the renegade mechanica can hide from their pursuers. If the players live in a more isolated covenant the story will still work, but getting the characters on site might require more effort.
 
 As written, the adventure is assumed to take place in the Normandy Tribunal (covered fully in *The Lion and the Lily*). To this end, all of the given names are provided in their French form, but as they are all the names of popular saints, they can be readily adapted to fit other regions of Mythic Europe.
 
-## *Characters*
+## Characters
 
 While functionally similar to the magical creatures described in other **Ars Magica Fifth Edition** supplements, this story's antagonists are, in fact, enchanted devices. As such, the cats do not contain vis and are not susceptible to the effects of Might stripping spells similar to *Demon's Eternal Oblivion,* though they are vulnerable to the *Disenchant* ritual. The primary function of their Might Score is to provide them with Magic Resistance.
 
@@ -2175,11 +2175,11 @@ The powers of animae work like those of Hermetic magic items in terms of uses pe
 
 Finally, it should be noted that the animae's Abilities are somewhat misleading. While Ailuros and Maahes are truly ancient beings and have learned much over the centuries, much of the knowledge they have accumulated is no longer relevant or useful as of 1220. In game terms, both have several levels of the Worthless Abilities flaw (*Grogs*, page 86).
 
-## *The Hook*
+## The Hook
 
 This story begins when it comes to the characters' attention that two of the covenant's teamsters, Jean and Marc, who have just returned from the city with supplies, are behaving very strangely. Soon, the other grogs come to the conclusion that the pair are spying on the covenant. The problem (for Ailuros and Maahes) is that the grogs they've selected are completely incompetent at espionage. Play the scene in a way that suits your saga, but
 
-## *Mechanica and Damage*
+## Mechanica and Damage
 
 Because animae are fashioned from lifeless metal, they do not have Wound Penalties like living creatures, but track damage using Damage Levels like other objects instead. Whenever an anima suffers damage exceeding its Soak, it must make a Stamina roll against an Ease Factor equal to the amount by which the damage exceeded the Soak. If the roll fails, the anima loses a Damage Level; if the roll botches it loses additional Damage Levels equal to the number of botches. Maahes and Ailuros each have 5 Damage Levels. They suffer
 
@@ -2188,7 +2188,7 @@ no Wound Penalties as they accrue damage, but when the last Damage Level is lost
 Animae do not heal naturally, but can be repaired by a skilled craftsman. Specifically, characters with the Mechanica of Heron or Craft Automata abilities (consult *Ancient Magic*, page 75 and *Houses of Hermes: Mystery Cults*, page 128 respectively) can repair a number of Damage Levels per season equal to their score in the Ability used. Non-functioning mechanica cannot serve as a source of Insight.
 
 
-## *Ailuros (Silver Cat)*
+## Ailuros (Silver Cat)
 
 **Magic Might:** 9 (Terram)
 
@@ -2287,22 +2287,22 @@ If interrogated through mundane methods, Marc and Jean fall into a dogged silenc
 
 A non-Hermetic magic user inquiring about their magical secrets and facilities should prompt the characters to investigate. If they don't, after a few months they notice that another pair of teamsters (most covenants have several) have been traveling to the city every month, even when they had no covenant business there. Magical investigation reveals that they are being controlled by the same magical effect that afflicted Marc and Jean. These new spies are just smarter than the previous ones.
 
-## *The City*
+## The City
 
 At this point the characters are likely to head for the city to investigate. When the characters arrive, it's the feast day of the city's patron saint. That means that the churches are specially attended and the city has an increased Dominion aura of 4. It remains at this level for a week before returning to its usual value of 3. Adding
 
 
 to the festive and vibrant atmosphere is a fair in progress just beyond the city walls.
 
-## *The Fair*
+## The Fair
 
 The fair is situated in a small field just outside the city walls. It consists of a series of lanes marked with ropes, and stalls. The main products being sold are local produce and livestock (or wool, depending on the area), but some of the merchant stalls also sell luxury items and other rare objects. This could be an opportunity for the characters to do some shopping if they are so inclined. The fair is bustling with activity during daylight hours, but is relatively desolate at night. There are a few guardsmen patrolling the area to watch for fires or thieves, but they are easily avoided in the dark.
 
-## *The Boy in the Barn*
+## The Boy in the Barn
 
 One of the rumors described earlier relates to an accused murderer named Jacques. Depending upon the needs of your saga, Jacques can be either Gifted or simply cursed with the Magical Air Flaw. He is dirty, hungry, lonely, and miserable, but apart from the guards this is the same condition in which he's spent most of his brief life. Freeing the boy by force is a simple matter for a Hermetic magus since a pair of village thugs are the only
 
-### *Danger in the City – Fire!*
+### Danger in the City – Fire!
 
 Medieval cities are highly flammable. Thatched roofs and wooden walls are the norm and, as such, fire is a serious hazard because entire cities can go up in flames quickly if any part of them catches fire.
 
@@ -2312,7 +2312,7 @@ thing that has prevented him from escaping, but staging a jailbreak can create p
 
 If the characters wish to talk to the boy themselves, the guards acquiesce so long as the characters turn over any weapons before entering the makeshift jailhouse. Jacques is lonely and eager to talk once he realizes that the characters don't want to hurt him. He freely admits to killing Michael Le Long, but claims to have done so in self-defense. Asking around town will confirm that the victim was a well-known robber, and Jacques would not likely have been charged if not for his suspicious air. It is up to you if you
 
-### *Masterminds of the City*
+### Masterminds of the City
 
 The cats have been using their influence around the city to promote their candidate for *prevot* (mayor). This has left a magical trail that can be found by magi, leading them directly to the cats. However, Ailuros and Maahes have a number of agents around the city, not all of them laboring under mindcontrolling magics; many are employees of Philippe l'Orfevrier or supporting him of their own free will. As such, the cats are likely to be aware of the characters' capabilities long before they are encountered.
 
@@ -2323,7 +2323,7 @@ Recognizing the supernatural loathing Jacques inspires as a sign of The Gift, Ma
 
 the sun pendant leads the characters to Philippe l'Orfevrier. Jacques can describe the cats too if asked, but knows nothing of their plans or capabilities. Apart from him, only a handful of townsfolk have seen the animae and most of those have been sworn to secrecy.
 
-## *Philippe l'Orfevrier*
+## Philippe l'Orfevrier
 
 Philippe l'Orfevrier is a wealthy townsman in his late forties. He owns a large house in the richest part of town and sits on the town council. His business as a goldsmith is very lucrative and he maintains a number of busy workshops located throughout the city. He specializes in small intricate pieces of gold jewelry; his delicate gold designs were one of the things that drew Maahes to him.
 
@@ -2331,7 +2331,7 @@ Although Philippe believes himself to be the cats' equal in their joint endeavor
 
 These activities have made him popular in town, but are also costing him a lot of money. He has had to secure a loan from a local money-changer despite the brisk business he's been doing lately. The cats are engineering this streak of good business, and are trying to delay repayment of the debt, but the True Faith of the rabbi who lent Philippe the money is mak-
 
-## *Gathering Rumors*
+## Gathering Rumors
 
 Once within the city walls, characters may question the locals about the various clues they've managed to gather. The townsfolk are wary and guarded if the characters are strongly armed and armored, assuming that they're looking for trouble. If they manage to earn the trust of the citizens, however, the following rumors can be overheard in conversations or by talking to the locals in the taverns or at the fair.
 
@@ -2350,7 +2350,7 @@ Philippe's house is a two story building with stout stone walls and strong woode
 
 The family and servants have been living with the cats for a while and have come to trust them as supernatural but benign creatures who must be kept safe at all costs. They will not volunteer any information about the animae to strangers, having been ordered not to.
 
-## *Encounters in the City and Fair*
+## Encounters in the City and Fair
 
 The following situations may be encountered in the city or fair. Some of opponents described below pose a significant threat while others are merely annoying, but all of them add a bit of extra excitement to the game and help highlight the importance of grogs in urban settings.
 
@@ -2359,7 +2359,7 @@ The following situations may be encountered in the city or fair. Some of opponen
 - Children react as negatively to The Gift as adults, but are less inhibited; babies crying inconsolably when brought into the character's presence makes a bad first impression. Older children may throw rocks or garbage at the character instead.
 - Characters who have antagonized the animae may find themselves hunted by an assassin. He too has the statistics of The Rogue, but carries a dagger coated in monkshood (Init +4, Atk +9, Def +7, Dam +2; those wounded by the blade must make a Stamina roll against an Ease Factor of 9 or suffer an additional Heavy wound).
 
-## *Final Encounter*
+## Final Encounter
 
 Eventually, the characters should be able to track the plot to the home of Philippe l'Orfevrier. Naturally, the servants refuse to allow the characters to enter their master's home uninvited and call for help if attacked. If the characters manage to enter the home anyway they find the two cats lounging in the main chamber. The cats are surprised, but not frightened, and calmly explain that that they were merely trying to determine whether the magi were friendly or not, and wish to parley.
 
@@ -2374,23 +2374,23 @@ Given all of their previous experiences, the cats are understandably wary of Her
 
 Depending upon how the adventure has progressed, this story might end with one or both of the cats being killed or captured by the magi, escaping the city, or reaching a detente with the character's covenant.
 
-## *Further Stories*
+## Further Stories
 
 The events of this hook could easily lead to many further stories.
 
-## *Jacques' Trial*
+## Jacques' Trial
 
 Characters try to save the life of Jacques, the boy charged with the murder of Michael Le Long. This is somewhat time sensitive as the trial is set for one month after the events detailed in the main adventure, though it might be postponed for various reasons. While Jacques is guilty of the crime, there are grounds to claim self-defense and have him acquitted with a fine. There are rules for trials in *City and Guild,* page 29, but they boil down to Jacques (or his lawyer) making a Communication + Civil and Canon Law roll versus an Ease Factor of 9 with success resulting in an acquittal (The –3 penalty to social interactions has already been added to the Ease Factor).
 
 If the characters do not send anyone to defend Jacques he is found guilty and hanged the following day. Even if the court accepts the defendant's plea of selfdefense, however, Jacques is still likely to face a hefty fine which, as an urchin, he is unable to pay. If the covenant pays the fine for him, the grateful boy is remanded into the covenant's custody where he makes a fine servant (or apprentice).
 
-## *Following Heron's Trail*
+## Following Heron's Trail
 
 For characters interested in uncovering Heron's lost magical secrets, this hook can serve as a direct tie-in to the adventure described in *Ancient Magic.* The cats make excellent guides since they are intimately familiar with both Alexandria and Constantinople. Ailuros doesn't get along with Justinian's nightingale (*Ancient Magic*, page 84), however, and if both animae are present the characters have to endure a lot of bickering.
 
 The characters might also think to use Ailuros and Maahes themselves as sources of Insight. The cats find the prospect of being poked and prodded in such a fashion to be extremely degrading, but might consent to it as part of negotiations for protection.
 
-## *Extended Paws*
+## Extended Paws
 
 If the cats are granted the magi's protection, they set up court in the city. With time, the city grows and prospers, becoming a center of the arts and sciences, especially poetry and experimental philosophiae, with the two cats acting as the true power behind the city council. Ailuros and Maahes are already engineering the rise of their human proxy Philippe l'Orfevrier to power. If they succeed, academics and artists will flock to the city to practice their trades under his patronage.
 
@@ -2398,32 +2398,32 @@ As soon as they can manage it, the animae wish to found a university, though thi
 
 On the downside, too close a relationship with the animae could expose the characters to charges of interference with mundanes.
 
-### *Predators*
+### Predators
 
 The cats might be being pursued by other magi as they fear. As a result, the characters might well find themselves accused of depriving another covenant of
 
 
 its magical power. Whether the other covenant seeks financial restitution or blood can vary according to the needs of your saga. Likewise, the strength of the covenant in question should be tailored to fit your saga. In a worst case scenario, the protagonists may find themselves embroiled in Wizard's War with dangerous opponents unless they agree to return the cats to their "owners."
 
-## *Bared Claws*
+## Bared Claws
 
 If the cats have to flee from the city or if one of them is destroyed by the characters, they are convinced that the Order of Hermes as a whole is their enemy. They move to another major city with a university, formulating a long-term plan to influence the Church's policies against the use of magic. Soon, Paris or another major center of learning starts spreading the doctrine that all magic is the work of the Devil.
 
-### *Creations of Old, Prizes of Today*
+### Creations of Old, Prizes of Today
 
 If the characters return the cats to the covenant they previously escaped from, they eventually learn that Damnameneus filius Acmon, a middle aged Verditius, presented a mechanical cat that fits the description of Maahes or Ailuros as his entry into the Verditius Contest, claiming to have created it as part of an unstabilized breakthrough. The cat appears identical to the anima met by the characters but doesn't seem to have any of its powers (other than locomotion) and seems considerably less intelligent. Has the Verditius been tinkering with the Mechanica? If so, will the players be able to rescue the cats and repair whatever Damnameneus did to them? The discovery has placed the Verditius (previously a nobody) in a strong position to become the next Primus, and he is currently basking in his new-found fame.
 
 If the character's suspicions are correct, they have strong blackmail material. If the other cat survived and is still at large the Bared Claws scenario outlined earlier could be in the making.
 
-## *Electrum*
+## Electrum
 
 While insufferably condescending at times, the animae do acknowledge some limitations to their condition — most notably the inability to procreate. If a maga successfully integrates the Awaken Device virtue (*Ancient Magic*, page 80), the cats seek her out immediately to commission a kitten crafted from electrum (an alloy of gold and silver). Is the character comfortable undertaking such a project?
 
 
 
-## *Chapter Eight*
+## Chapter Eight
 
-# *The River*
+# The River
 
 As loud as a thousand galloping knights, the river surges, washes up over its banks, over the piers and into the town. Like an invading army the swirling waters crash down the streets. The ramshackle slums skirting the town instantly disintegrate as the flood engulfs them. The more substantial buildings in the established areas hold for a little longer before either bursting into jagged splinters, or being dragged whole into the waters and thrown against neighboring properties. Even a few of the tall brick towers of the wealthy teeter and fall under the watery siege.
 
@@ -2431,7 +2431,7 @@ Then the waters slowly retreat. The river's rapid, unexpected invasion leaves th
 
 The river has slain the town.
 
-## *Trajan the River Guardian*
+## Trajan the River Guardian
 
 This hook introduces *Guardians of the Forests: The Rhine Tribunal* into a saga that is not set in the Rhine Tribunal.
 
@@ -2444,7 +2444,7 @@ of the Forests ruling and is trying to take advantage of Trajan's recklessness t
 
 This political story is about the player characters' support for (or indifference to) either Trajan or Siegfried's position.
 
-## *The Guardians of the Forests*
+## The Guardians of the Forests
 
 The Guardians of the Forests is a Rhine Peripheral Code ruling (see *Guardians of the Forests: The Rhine Tribunal*, page 18). It allows a character recognized as a guardian of a forest to take actions otherwise considered against the Code, as long as those actions can be justified as attempts to defend the forest. The ruling has been used to justify mundane interference, faerie molestation, and deprivation of magical power. Sometimes, the Rhine Tribunal has allowed forest guardians very wide latitude to "break" the Code, while in other cases it has allowed forest guardians no special dispensations. The forest guardians ruling is one of many political issues that divide the Rhine Tribunal.
 
@@ -2462,7 +2462,7 @@ Trajan has the Nature Lore: Danube River Supernatural Ability. This allows him t
 
 Gilds are political factions within the Rhine Tribunal (see *Guardians of the Forests: The Rhine Tribunal*, page 27). Trajan is a member of the Hawthorn Gild. Its agenda is to protect the wild places and creatures from the mundanes. Siegfried is a member of the Oak Gild. Its agenda is to foster respect for authentic Hermetic traditions and rid the Order of hedge wizard influences.
 
-### *What Does Trajan Want?*
+### What Does Trajan Want?
 
 Trajan genuinely sees himself as the Guardian of the Danube. He believes that the river's magical spirit is being slowly poisoned by the Dominion auras and other pollutants (sewage, effluent from tanneries and slaughter-yards) discharged from the river-bank towns. The river spirit believes this too.
 
@@ -2472,11 +2472,11 @@ Although the Tytalus Trajan enjoys this political conflict, he does not really c
 
 The river near the human towns really is being poisoned. The water is bad, which can be detected with Intellego Aquam, and Intellego Animal (or Herbam) can detect the unhealthy imbalance of humors in the river-borne wildlife. Sites of great natural beauty (with weak Magic auras) along the river have been either destroyed or swamped by town growth and Divine auras.
 
-### *What Has Trajan Done?*
+### What Has Trajan Done?
 
 Trajan has used his *Wizard's Flood* ritual (see insert) to destroy half a dozen towns along the Danube in the player's Tribunal (or another river: see Moving the River). This has killed hundreds of mundanes. Many magi find the sheer scale of
 
-## *Trajan: Master of House Tytalus*
+## Trajan: Master of House Tytalus
 
 **Characteristics:** Int +2, Per +1, Pre +1 (1), Com –1, Str +3 (1), Sta +3, Dex 0, Qik 0
 
@@ -2625,7 +2625,7 @@ This spell creates, in Trajan's outstretched hands, an intricately wrought tride
 (Base 5, +1 Touch, +1 Diameter, +2 Group)
 
 
-## *Cattus, Daughter of the Danube*
+## Cattus, Daughter of the Danube
 
 **Characteristics:** Int 0, Per –2, Pre –5 (1), Com –6, Str –5, Sta +2, Dex +2, Qik +3
 
@@ -2683,7 +2683,7 @@ these casualties to be abhorrent. However, murder of mundanes is not actually a 
 
 Tribunal of a Hermetic crime, such as "interference with the mundane."
 
-## *Siegfried the Quaesitor*
+## Siegfried the Quaesitor
 
 Siegfried is a young, smuglooking Quaesitor of House Guernicus. He represents Rhine magi who are strongly opposed to the Guardians of the Forests ruling. Depending on your saga Siegfried may be either the lead prosecutor of Trajan or helping other characters to prosecute Trajan.
 
@@ -2691,7 +2691,7 @@ Siegfried personally finds the Guardians of the Forests ruling an embarrassment 
 
 Siegfried thinks he is the best magus to prosecute Trajan. However, he cedes control of the case to others if it becomes apparent, to him, that those others have a better chance of success. Also, the saga Tribunal might not allow Siegfried (a nonresident) to mount a prosecution.
 
-## *Moving the River*
+## Moving the River
 
 Trajan has destroyed mundane towns on the banks of a river, in the player characters' Tribunal, and claims he is permitted to do this as he is the guardian of the river. The scenario is written as if that river is the Danube, but this can be changed depending on the player character Tribunal.
 
@@ -2754,11 +2754,11 @@ The caster can smell the presence of spell traces down to magnitude zero. See De
 
 (Base 10, +1 Concentration, +2 Smell)
 
-## *What Happens*
+## What Happens
 
 This story depends on the political attitudes of the player characters, the characters' involvement in Tribunal politics, and the characters' willingness to settle political matters outside Tribunal meetings.
 
-### *Involving the Magi*
+### Involving the Magi
 
 The troupe can involve the player characters in these ways:
 
@@ -2770,13 +2770,13 @@ ters have mundane or magical resources (perhaps vis sources) destroyed. The play
 - If the player characters are Quaesitors they should be informed about Siegfried's investigation and prosecution, and may want to monitor, assist, or take over Siegfried's case.
 - The player magi might be approached by either Siegfried or Trajan (or both) for support.
 
-## *Investigating Trajan's Crimes*
+## Investigating Trajan's Crimes
 
 Trajan's floods have destroyed half a dozen towns in the Tribunal over the last few months. They have since been abandoned; this was, of course, his goal. Siegfried intends to prosecute Trajan for dangerous interference in the mundane.
 
 Trajan has made no attempt to hide his involvement from Hermetic investigation. His sigil can be detected in the spell traces (see insert). Once detected Trajan's sigil can be identified as specifically his by any character familiar with the magi of the Rhine Tribunal; make an Intelligence + Organization Lore: Order of Hermes roll
 
-## *Detecting Spell Traces*
+## Detecting Spell Traces
 
 When a spell's Duration expires it leaves behind spell traces equal to half the magnitude of the original spell. The trace then decreases by one magnitude for every Duration of the original spell that passes. When the trace reaches magnitude zero it continues to decay at a rate of one magnitude per month, if the original spell was a non-ritual Momentary, Concentration or Diameter Duration effect, or one magnitude per year for other original Durations.
 
@@ -2794,7 +2794,7 @@ Magi might encounter Siegfried investigating the flood sites.
 
 At all times — unless he is traveling to speak to his Hermetic allies — Trajan can be found somewhere upon the river.
 
-### *Arousing Mundane Anger*
+### Arousing Mundane Anger
 
 Mundanes do not blame the Order of Hermes for the floods, so Siegfried's case against Trajan may be considered weak (depending upon the Peripheral Code in the Tribunal). If so, Siegfried (or his supporters) may think to strengthen the case by either informing mundane authorities of Trajan's involvement or allowing this information to be discovered.
 
@@ -2802,18 +2802,18 @@ Once mundane anger is aroused, Redcaps are detained, and nearby known covenants 
 
 Informing mundanes might itself be considered a Hermetic crime, but if Siegfried (or his allies) are careful they might not be caught. Mundane anger could be secretly aroused by sending agents to spread rumors, or using magic to implant suggestions in the minds of the influential.
 
-## *Gathering Political Allies*
+## Gathering Political Allies
 
 If the characters want to help prosecute Trajan, they need to gather allies for the Tribunal vote. In general, Wilderist magi of House Bjornaer support Trajan, largely to set precedent for themselves in the future. Traditionalist magi of Bonisagus or Guernicus are likely to oppose Trajan. However, the position of an single magus depends on his temperament or circumstances.
 
 Undecided magi (possibly including the player characters) may be persuaded to support either Trajan or Siegfried in return for support for their own Tribunal agenda. Trajan or Siegfried can also offer resources from their respective Rhine Gilds as persuasion, including: vis, hospitality, access to books and lab texts, and so on. Collecting on such offers may lead into further stories.
 
-## *The River Spirit*
+## The River Spirit
 
 Trajan can commune with the river spirit, using his Nature Lore, whenever he is standing within
 
 
-## *Tribunal Politics in the Saga*
+## Tribunal Politics in the Saga
 
 This story involves Tribunal politics, so some issues should be considered prior to using this story. Your troupe may have already considered the Tribunal's politics. If not, this story is a good opportunity to do so. The main decisions are:
 
@@ -2832,7 +2832,7 @@ Trajan has sworn an Oath of Fealty to Danibus. This may be illegal in the Tribun
 
 Danibus is located in a wellhidden river regio with no reason to leave it during this story. If you need game statistics for Danibus for subsequent stories, you may like to use the rules in *Realms of Power: Magic*, page 100. Danibus has an Aquam Magic Might of at least 40.
 
-## *Wizard War*
+## Wizard War
 
 Neither Siegfried nor Trajan plan to declare Wizard War. Sieg-
 
@@ -2846,13 +2846,13 @@ If Trajan is killed, the killer acquires the enmity of the Hawthorn Gild (Trajan
 
 If Siegfried is killed, Trajan expresses gratitude for this unexpected help, and the killer earns the enmity of the Oak Gild (Siegfried's Rhine Tribunal allies). Whether the case still proceeds depends on the enthusiasm of the local Quaesitors for Siegfried's case. If the Quaesitors consider Trajan has a substantial case to answer, prosecution is likely to continue. However, the local Quaesitors may either abandon the case, or resolve it informally with the imposition of vis fines outside of a full Tribunal hearing.
 
-## *Extrajudicial Execution*
+## Extrajudicial Execution
 
 The player characters (or other magi) may attempt to track Trajan down and execute him outside of Wizard War. For some magi, Trajan's murder of hundreds of mundanes is so abhorrent that it is justification for murder in kind. However, murdering Trajan (outside of Wizard War) is itself definitely a Hermetic crime, as Trajan is a magus.
 
 Magi who murder Trajan thus (if discovered) find themselves prosecuted at Tribunal by Trajan's allies. Apart from denial, the only real defense is to convince the Tribunal to retrospectively March Trajan.
 
-## *The Tribunal Hearing*
+## The Tribunal Hearing
 
 Unless resolved earlier, the prosecution of Trajan occurs at the next Tribunal under the usual rules for that Tribunal. This may be several years away. Unless magi offering support lie, the principals should have a good idea whether the Tribunal votes in their favor prior to the meeting. Trajan and Siegfried both attend the Tribunal to argue their respective cases, and if the Tribunal appears to be split both are confident of swinging enough support through testimony and argument. Obviously, Trajan's familiar Cattus does not attend; she is confined to the river.
 
@@ -2893,7 +2893,7 @@ Disgruntled by proceedings, Siegfried still tries to gather some supporters to h
 
 If Siegfried, or his allies, have been discovered to have informed the mundane authorities about Trajan's role in the devastating floods, then Siegfried *might* be found guilty of interfering with the mundanes, rather than Trajan.
 
-## *Further Tales*
+## Further Tales
 
 Further stories involving the Rhine Tribunal include:
 
@@ -2908,9 +2908,9 @@ Further stories involving the Rhine Tribunal include:
 - If Trajan is found innocent, the player characters (or others) may try to use the new precedent to declare themselves guardians of natural features within the Tribunal.
 - If Trajan is found innocent (or only fined vis or labor) he continues in the coming years to clear the banks of the Danube of human habitation. This may led to conflict with the player characters and more Tribunal cases.
 
-## *Chapter Nine*
+## Chapter Nine
 
-# *To the Dark Tower*
+# To the Dark Tower
 
 Above, the sky is filled to the horizon with wrinkled gray clouds that race overhead like the mottled underbelly of a great beast swimming through the heavens; endlessly, blindly, searching for food, oblivious to the tiny dramas crawling beneath.
 
@@ -2920,7 +2920,7 @@ It is the end of day and the men's long shadows, faint and ghostly, stretch out 
 
 Those watching from the tower heights, above, exchange glances. The younger sentinel races downstairs to the laboratories…
 
-## *Sir Erwan*
+## Sir Erwan
 
 Sir Erwan and his companions have arrived at the player characters' covenant. Sir Erwan is a noble, the younger son of Henry II of Avagnor, Count of Penthièvre.
 
@@ -2932,7 +2932,7 @@ lands is a terrible evil. His vision revealed that the sorcery and rituals cast 
 
 The magi need to respond, somehow, to this challenge. The significance of this story is not really whether the magi *can* slay Sir Erwan (they almost certainly can), but about whether they choose to slay a major local noble and deal with the consequences, or find some other way to solve the problem. Whatever the magi do, Sir Erwan's quest to their tower embroils them in the noble courts. This hook thus serves to introduce the *Lords of Men* to the saga.
 
-## *Sir Erwan's Vision*
+## Sir Erwan's Vision
 
 Sir Erwan has been guided to the covenant, to challenge the magi to combat, by the terrible vision he has seen that prophesies the destruction of his father's lands due to the arcane meddling of the magi.
 
@@ -2940,7 +2940,7 @@ The exact source of Sir Erwan's vision is left to your troupe to decide. It may 
 
 Regardless of its source, Sir Erwan's vision is accurate at least in the sense that if the covenant is normally hidden somehow from the mundane world (perhaps within a regio), then the vision reveals the covenant's existence and guides him to the correct location.
 
-## *Sir Erwan and His Father's Court*
+## Sir Erwan and His Father's Court
 
 Sir Erwan is a respected member of his father's court. He gets on well with his father and wider family, and he is noted for his chivalry and noble demeanor. Sir Erwan also has a reputation for being wildly confident of his own abilities as a warrior — on the other hand, it seems that his confidence is usually very well placed.
 
@@ -2948,13 +2948,13 @@ Sir Erwan has a wife, Lady Danielle, and two infant sons, Alain and Roland.
 
 As Sir Erwan is himself a younger son he will not inherit his father's lands (unless his elder brothers are killed). However, Sir Erwan does live on his own manor and collects taxes and rents from a cluster of coastal villages within his father's lands. These taxes are collected in his father's name, and Sir Erwan dutifully forwards a proportion of these taxes to his father. Sir Erwan uses the remaining taxes to support his own household. Sir Erwan expects that when his brother inherits this situation will continue. However, he is not particularly interested in the detail of his manorial lands, preferring to engage in fighting, hunting, feasting and other noble pursuits, and so devolves much of the administration to his servants. Sir Erwan's peasants admire his prowess as a hunter but otherwise have nothing particularly good or bad to say about him.
 
-## *The County of Penthièvre*
+## The County of Penthièvre
 
 Penthièvre is a county along the northern coast of Brittany (in the Normandy Tribunal; see *The Lion and the Lily*, page 38). The coast is rugged and broken by numerous islands, and the county extends inland into thickly forested hills. Sir Erwan's father, Henry II of Avagnor inherited the county in 1212, when Sir Erwan's grandfather Alain killed himself by leaping off a cliff.
 
 Sir Erwan's family is a minor branch of the Duke of Brittany's family, and were granted the county in the early 11th century.
 
-## *Re-Locating the County*
+## Re-Locating the County
 
 For this story, Sir Erwan is the son of the ruler of the county,
 
@@ -2965,11 +2965,11 @@ Even if the covenant was constructed with "permission" from Sir Erwan's father, 
 
 Change the details of Sir Erwan's family to whatever is suitable for your saga. There is no difficulty with moving Sir Erwan and his companions to any other place in Mythic Europe — just replace Area Lore and Language Abilities, names, and family backgrounds as appropriate.
 
-### *Sir Erwan's Greater Malediction*
+### Sir Erwan's Greater Malediction
 
 Sir Erwan has a Greater Malediction of Hereditary Madness. This curse has affected all the male members of his family for the last three generations. This Greater Malediction has no real effect in
 
-## *Sir Erwan*
+## Sir Erwan
 
 **Characteristics:** Int +1, Per 0, Pre +1, Com 0, Str +1, Sta +1, Dex +2, Qik +2
 
@@ -3010,7 +3010,7 @@ Sir Erwan has a Greater Malediction of Hereditary Madness. This curse has affect
 Sir Erwan is heavily armed and rides a magnificent warhorse; reputedly, a descendant of Charlemagne's steed. Over his armor, Sir Erwan wears a vibrant, expensively embroidered tabard. This heraldry proudly reveals his family's lineage and lands and status as a branch of the ducal family.
 
 
-## *Sir Louis and Sir Rudolph*
+## Sir Louis and Sir Rudolph
 
 **Characteristics:** Int 0, Per 0, Pre +1, Com 0, Str +2, Sta +1, Dex +1, Qik +1
 
@@ -3062,7 +3062,7 @@ To determine the Personality Flaw roll a simple die + Decrepitude Score and comp
 
 **12+** Gains Depressed Flaw
 
-## *Sir Erwan's Companions*
+## Sir Erwan's Companions
 
 Sir Erwan has three companions: the twin vassal knights, Sir Louis and Sir Rudolph, and a young squire named Andru.
 
@@ -3074,7 +3074,7 @@ All the characters, including Sir Erwan, are mounted on warhorses. If you need g
 
 Sir Erwan may also be accompanied by a dozen or more lesser retainers (use The Standard Soldier template; **ArM5**, page 22). If he needs to stay in the field for a long time he can recruit more such men from either from his home or from a local manor.
 
-## *Sir Louis and Sir Rudolph*
+## Sir Louis and Sir Rudolph
 
 The twins Sir Louis and Sir Rudolph are vassal knights of Sir Erwan. They are several years younger than Sir Erwan, but the trio were brought up together. In their childhood Sir Erwan acted like an older brother to the young knights.
 
@@ -3086,7 +3086,7 @@ Sir Louis has a stutter (Afflicted Tongue). He was born with this impediment, an
 
 As the twins are identical a single set of character statistics is given for the pair (note the modification to combat statistics due to Rudolph's missing eye).
 
-## *Andru, a Squire*
+## Andru, a Squire
 
 **Characteristics:** Int +1, Per +3, Pre +1, Com –2, Str 0, Sta 0, Dex +1, Qik +1
 
@@ -3125,7 +3125,7 @@ As the twins are identical a single set of character statistics is given for the
 Like the others he is heavily armed and armored. He wears a simpler tabard than the others, which reveals to those with suitable heraldic knowledge that he is a retainer of Sir Erwan.
 
 
-## *Andru*
+## Andru
 
 Andru is Sir Erwan's squire.
 
@@ -3133,13 +3133,13 @@ The squire is an intelligent and perceptive young man. In fact, he is supernatur
 
 Andru has had a premonition, which increases with urgency as the knights approach the covenant, that Erwan's plan to challenge the magi will lead to Sir Erwan's death. Andru has done his best to dissuade Sir Erwan, and, fearing for his master's life, attempts to negotiate a compromise between the magi and Sir Erwan.
 
-## *Fighting As A Group*
+## Fighting As A Group
 
 Sir Erwan and his companions may fight together as a trained group if needed, with Sir Erwan normally taking on role of leader and vanguard. However, if Sir Erwan is heavily injured one of the twin knights will be the vanguard. In any case, the members of the group provide a combat bonus of +15 to the vanguard (see **ArM5**, page 172-173).
 
 Also remember that if Sir Erwan and his companions fight mounted (either as a group or individually) they each receive a +3 bonus to their Attack and Defense Totals.
 
-## *Knights, Women, and Old Men*
+## Knights, Women, and Old Men
 
 Sir Erwan is expecting the magi to appear as clerical, middle-aged men. He is confident that he can beat such opponents in combat, whatever sorcery they may be able to conjure. If some (or all) of the magi appear to actually be proficient warriors, or even knights, Sir Erwan is not put off. Indeed, engaging in combat with such worthy foes is an unexpected, but preferable and glorious outcome of his quest.
 
@@ -3149,7 +3149,7 @@ Putting an apparent convent (the covenant) filled with women and elderly men to 
 
 On the other hand, if elderly or female magi do demonstrate proficiency in either weaponry or battle worthy magic, then they are no longer considered non-combatant by Sir Erwan. He subsequently has no problem in attacking such diabolical sorcerers, however frail or womanly a mortal guise they take.
 
-## *How Do The Magi Respond?*
+## How Do The Magi Respond?
 
 The magi can respond to Sir Erwan's challenge by rising to it, ignoring it, attempting to use magic to solve the problem, or trying to use mundane contacts to defuse the situation. It is possible that the player characters will devise another strategy, which your troupe has to judge on its own merits. However, whatever the magi do they are doing so in the knowledge of who Sir Erwan is (a son of the noble who owns the land the covenant is built on or near). That is, the magi should know that Sir Erwan is a well-connected, well-known lo-
 
@@ -3163,7 +3163,7 @@ Sir Erwan makes no secret of who he is. In fact, he loudly proclaims his identit
 
 Andru, Sir Erwan's squire, greatly fears for his master's life, a fear reinforced by his supernatural premonitions. Andru will thus attempt to negotiate to save his master's life.
 
-## *Supernatural Protection*
+## Supernatural Protection
 
 If Sir Erwan is interfered with by magic, but not killed, he returns at a later time with supernatural protection. Alternatively, he can initially approach the magi with some of this supernatural protection if the troupe feels that it is necessary. However, remember that the significance of this story is not really whether the magi *can* slay Sir Erwan, but about whether they choose to slay a major local noble and deal with the consequences, or find some other way to solve the problem.
 
@@ -3180,7 +3180,7 @@ Sir Erwan may be able to obtain folk charms against magic. Sir Erwan has nothing
 - *Confounding Charm*, raises the Concentration Ease Factor by 3 of Concentration Duration magic effects that target Sir Erwan.
 
 
-## *Rising to the Challenge*
+## Rising to the Challenge
 
 The magi can quite simply fight Sir Erwan.
 
@@ -3197,13 +3197,13 @@ Sir Erwan cannot easily be convinced to fight only until firstblood or similar. 
 Of course, the magi may merely attack Sir Erwan en masse, rather than agreeing to his duels. In such a case, Sir Erwan's companions come to his aid. Andru attempts to negotiate a truce as soon as one of the knights suffer a Medium Wound (or worse).
 
 
-### *Autocephalous*
+### Autocephalous
 
 Some covenants hold charters or other documents that grant them exclusive rights to their lands, while other covenants merely hold such rights by custom (see *Covenants*, page 20). Such a covenant may argue that Sir Erwan has no legal rights over them. Sir Erwan will not be dissuaded by such a legal argument, claiming that such documents are invalid or forgeries, or that the rights are revoked due to the unholy nature of the magi. The covenant has to prove any such rights in order to sway mundane courts, and charters can always be revoked.
 
 
 
-### *Ignoring the Challenge*
+### Ignoring the Challenge
 
 If the magi ignore Sir Erwan he camps, with his companions, outside the covenant wall until the magi do respond.
 
@@ -3213,7 +3213,7 @@ This small-scale siege, Sir Erwan hopes, will force the magi to rise to his chal
 
 The covenant may be able to bypass Sir Erwan's siege if the covenant servants are sufficiently stealthy (magic may help with this, of course). Alternatively, the covenant may be able to muster a large armed turb to break the siege. Sir Erwan and his companions are good judges of the strength of mundane forces, so they will not attempt to foolishly engage a superior mundane force. Instead, if the covenant deploys (or appears to deploy) a large mundane force, Sir Erwan and his companions return to his father's court, where they raise an army sufficient to quash the magi's armed insurrection (see *Lords of Men*, page 102, for details on raising an army).
 
-## *Using Magic*
+## Using Magic
 
 Apart from using magic to slay Sir Erwan, the magi may be able to use magic to scare Sir Erwan off, to teleport him far away, or to interfere with his mind. The magi may even take the opportunity, with Mentem magics, to convert Sir Erwan into an ally. Andru, the squire who has premonitions of Sir Erwan's death at the hands of the magi, tacitly supports any sudden change in Sir Erwan's attitude due to magic.
 
@@ -3221,7 +3221,7 @@ As Sir Erwan and his companions have no Magic Resistance, any magic-based scheme
 
 Once he discovers that he is very vulnerable to magic, Sir Erwan tries to bring some supernatural protection when he returns (see insert).
 
-## *Mundane Responses*
+## Mundane Responses
 
 If the magi are well-connected to the mundane world they could appeal to a clerical court or higher feudal authority for a declaration that Sir Erwan's actions are illegal.
 
@@ -3230,7 +3230,7 @@ To determine whether a clerical court (probably the local bishop's court or poss
 The attitude of feudal courts will likely depend on the past interactions between the court and the covenant. No local feudal courts have had particular problems with Sir Erwan in the past. See *Lords of Men* page 80, for details on feudal courts.
 
 
-## *Further Tales*
+## Further Tales
 
 If your troupe wishes, dealing with Sir Erwan can be a one-off story. On the other hand, the consequences of how the magi deal with Sir Erwan can lead into further stories that involve nobles.
 

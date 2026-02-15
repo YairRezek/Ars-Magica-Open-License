@@ -5,7 +5,7 @@ Jonathan Tweet
 
 
 
-# *Credits*
+# Credits
 
 *Authors:* Mark Rein•Hagen and Jonathan Tweet
 
@@ -23,15 +23,15 @@ Jonathan Tweet
 
 *Original Illustrations:* Angela Taylor
 
-### *Special Thanks to:*
+### Special Thanks to:
 
 Jerry Corrick and the gang at the Source.
 
-### *Playtesters:*
+### Playtesters:
 
 Jerry Braverman, Kim Braverman, Thomas Scott; Mike Graves, Patrick Murphy, Steve Segedy, Tom Zito; Matt Ryan, Robert Ahrens, Sarah Ferguson-Wagstaffe, Daniel Ilut, Jesse Koennecke, Miriam Wallace; Neil Taylor, Phil Masters, Gary Parden, Pete Windsor; Chris Jensen-Romer, Lloyd Graney, Pete Hiley, Luke Price, Kevin Sides, Paul Jenchowski, Ed Woods; Michael Bors, Rich Burrell, Harry Dyer, Joseph Freistuhler, Gary N. Mengle, Sean Mitchell; Fr. Thomas Dowd
 
-### *About the Author*
+### About the Author
 
 Erik Dahl lives in northern California and works for a major university. When he's not writing about **Ars Magica**, he plays in a "fun rock" band called Volvo Maroon, and many of their songs are freely available on the internet. This book is the synthesis of many excellent contributions from the brilliant and helpful people listed above, and is dedicated to Erik's lovely wife, who always endures his geekiness with grace and charm.
 
@@ -50,15 +50,15 @@ Saint Paul, Minnesota info@atlas-games.com • www.atlas-games.com Digital Editi
 
 
 
-# *Table of Contents*
+# Table of Contents
 
 
-## *Introduction:* The Covenant of Calebais . . . . . . . . . . . . . . . . . . . . . . . . . . 1 *Chapter One:* The Mystery of Calebais. . . . . . . . . . . . . . . . . . . . . . . . . . . . 10 *Chapter Two:* The Ruins of Calebais. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30 *Chapter Three:* The Legacy of Calebais. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 80 *Appendix:* Awakened Animals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 92
+## Introduction: The Covenant of Calebais . . . . . . . . . . . . . . . . . . . . . . . . . . 1 Chapter One: The Mystery of Calebais. . . . . . . . . . . . . . . . . . . . . . . . . . . . 10 Chapter Two: The Ruins of Calebais. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30 Chapter Three: The Legacy of Calebais. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 80 Appendix: Awakened Animals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 92
 
 
 
 
-# *Introduction The Covenant of Calebais*
+# Introduction The Covenant of Calebais
 
 *The Broken Covenant of Calebais* is a mystery story more than anything else. It is a story with tragedy, pathos, and much that will be unexplainable at first. The object of this story is for the characters to explain that which they do not understand — to solve the mystery.
 
@@ -68,7 +68,7 @@ Finding the truth behind that mystery is the primary purpose of this story. It d
 
 If you do not plan to storyguide this story, be warned. You will truly enjoy it more if you do not read any further. Just gently close the cover, and pass this book along to a person who will guide you through this incredible tale. Do yourself this small favor; it's well worth it.
 
-# *A New Revision*
+# A New Revision
 
 This revised edition of *The Broken Covenant of Calebais* is the third version of the adventure to be published for **Ars Magica**. *Calebais* was the first adventure ever published for the game, back in the days of First Edition, and it was revised and expanded for Second Edition. Now, for Fifth Edition, it has been revised and expanded once more. Although the plot, setting, and atmosphere remain the same, the text has been almost completely rewritten to integrate this classic adventure more firmly into the Fifth Edition version of **Ars Magica**.
 
@@ -92,7 +92,7 @@ Don't expect to be done with this supplement in just one play session, either. F
 
 
 
-# *The Setting*
+# The Setting
 
 In **Ars Magica**, there are some aspects of the published setting that are kept deliberately vague, so that it is easy to integrate them into your game. This story is no exception; the broken covenant does not exist in any specific place in Mythic Europe, but it *can* exist anywhere that you would like to place it. It is important to the story that Calebais has a history in the area, and possesses the regional flavor that matches its surroundings, so it is up to you to weave it into your saga.
 
@@ -102,7 +102,7 @@ Each setting describes three places, for use in each of the three different chap
 
 Note that none of these potential settings actually existed in the medieval world, though they are obviously inspired by history. They are portraits painted with a broad brush, intended to convey the tone and feeling of the area without perfectly depicting reality. Thus, you may personalize them without fear, changing any part of the image to conform more or less to your vision, and altering the impression they give to match the colors of your saga.
 
-### *Stonehenge*
+### Stonehenge
 
 The village of Byneden is situated on the southern coast of Dorset, near the almost perfectly-rounded cove of Lulworth. It is a small group of perhaps twenty families, clustered about a well-established Cistercian abbey that was built in 1149. Behind it, to the north, rise large round hills. Byneden Hill, the largest, is said to be haunted by the ghosts of Roman legions who landed here in ancient times and fell to their deaths, and the path by which the characters must arrive passes between it and a range of several lesser hills to the east, unless they travel by boat and sail into the cove.
 
@@ -112,7 +112,7 @@ the distance the higher ground from which Two Crag Hill may be reached. The view
 
 In contrast, the Abbey of St. Mary is found in the small village of Crawford, about twenty miles inland from Byneden, north and east. It was constructed near the joining of two rivers, the Tarrant and the Stour. The convent is quite wealthy, established during King Richard's reign, and built of thick stone, with the familiar tall square tower above the church. It is one of the few Cistercian convents in southern England, so it is somewhat isolated but still has a lot of autonomy.
 
-### *Provence*
+### Provence
 
 On the Gothic March west of the Rhone River, just north of the Pyrenees and near the border of Burgundy, lies the small village of Bonnedon. It may be found on a temperate plateau about two days' walk from Toulouse, among rolling hills covered with vineyards and valleys swathed in wheat. To the northeast is a wooded area thick with brambles and brush under the twisting, dry trees; at one time the whole village looked very similar, but the Cistercian monks of the abbey have cultivated the land and brought about a near-miraculous change.
 
@@ -120,7 +120,7 @@ The wood has a dry, dusty smell, even in colder months, and quite strangely grow
 
 When the time comes to visit the nuns, the characters will find the Abbey of St. Douceline in the civilized valleys further west, closer to Montauban, near the Dalinnae River. Though established in the heart of the Cistercian Order, the convent is much smaller than one might expect, considering its influence, and the nuns must work hard each year to coerce the brittle ground to meet their needs, since their charter only barely provides them with enough to make their living.
 
-### *The Rhine*
+### The Rhine
 
 Maulbronn Abbey is located about forty miles west of Stuttgart, in the village of Baden on the northern edge of the Black Forest. It is an impressive structure, with thick, fortified stone walls to separate the monks from the harsh world outside, and finely-
 
@@ -133,15 +133,15 @@ The land is rugged and wild, mountainous with forbidding peaks and thick woods t
 
 Far to the west, beyond the borders of Swabia, is the convent of Aywieres in Brabant, a great distance from Calebais. It is small and humble, though it will become quite famous as a home to Cistercian saints during the thirteenth century, when word of the holy sisters' visions spreads throughout the Lower Loraine. It is a land of rolling hills and sparse woodland, and the nuns here have a much easier time than the monks at the abbey of Maulbronn.
 
-### *Other Locales*
+### Other Locales
 
 As long as the characters are located somewhere in Mythic Europe, this story can still fit into the setting without much effort. Monasteries and nunneries may be found almost anywhere, and the Cistercian Rule had become very popular in the early 1200s; many existing abbeys adopted its rigid structure, even as far away as Portugal, Ireland, and Constantinople. The severe, strict piety of the White Monks helps create an interesting contrast with the proud, divisive magi, but if you cannot justify their presence in your setting, Benedictines are found in every corner of the world and are still an acceptable substitute.
 
-# *The Story*
+# The Story
 
 In order to give you an idea of what to expect, there follows a summary of the events of *The Broken Covenant of Calebais* as they might occur in your game. Of course, this may not be how it happens in your group, whether because you change things about it or because the players make new and interesting choices that this version does not anticipate. In short, the story can happen many different ways, and there is no one best route through this adventure.
 
-### *History*
+### History
 
 Long ago, perhaps two hundred years or more, a group of Hermetic magi constructed an inverted tower, tunneling down into Two Crag Hill. It was essentially a deep well with rooms carved into the sides, providing the magi with water and shelter and safety from prying eyes. In their early years they united together to aid rebels against the king, and thus took the symbol of a broken crown. These activities brought great disfavor from the tribunal, who conducted a thorough investigation and punished many of the wizards for their interference in mundane affairs. After that followed a period of inactivity as the magi withdrew into seclusion, and each of them began to fear that others, outside or working within, would try to take over their covenant. By design they lacked any central authority to regulate their activities, and the magi of Calebais soon became estranged from each other.
 
@@ -163,7 +163,7 @@ From those who fled at the outset, other magi of the Order gathered that some gr
 
 Since that time, no one has ever seen inside the covenant, both because the spells that they would use to examine a potentially dangerous place from a distance do not function, and because they fear traffic with demons. To this day, however, many magi in the Order are intensely concerned over what happened at Calebais, a covenant that should have been too powerful to destroy, but none have been able to penetrate Mormulus's Veil of secrecy. The ruins have thus been left entirely undisturbed.
 
-### *The Adventure*
+### The Adventure
 
 After years of silence, a messenger of the Order of Hermes brings a strange document to the characters' covenant. This old, tattered letter outlines some of what happened at Calebais and tells of a bell of great magical power still hidden in the depths. The message was given to the Redcap by a nun who had once been a valuable member of Calebais, but who asked that her name and location be kept secret. She believes that the Order is in danger, that the ruins of Calebais will soon be uncovered, and asks that the characters use their powers and wisdom to convince the mortals to leave the place undisturbed, while helping themselves to what treasures still remain.
 
@@ -183,7 +183,7 @@ The story also contains many loose ends that the characters may choose to tie up
 
 
 
-### *Characters*
+### Characters
 
 Here are some notes about the characters in this adventure, briefly summarized with a page reference to help you remember their roles, explain their relationships to each other, and locate them quickly. Refer back to this list whenever you need to find information about a character in the story.
 
@@ -247,7 +247,7 @@ Here are some notes about the characters in this adventure, briefly summarized w
 
 The story begins when the characters are visited by a Redcap, one of the messengers of the Order of Hermes, who bears a letter for the magi. This Redcap could be someone the characters know, who lives in their Tribunal, or a new character that they will meet for the first time. Included is a character named Ash, a Redcap without The Gift, who you may use for this story. In any case, since all covenants need to have some connection to the Order, no matter how remote or secret the wizards may be they will eventually receive the message that introduces the adventure.
 
-### *Ash*
+### Ash
 
 Ash is a member of a small group of redcaps who call themselves "the Broken Branches." She has spent her entire adult life as a messenger for the Order of Hermes; she loves the freedom, the excitement, and the responsibility. If she could not travel, she would quickly wither away. Her name is her own invention, and she doesn't like questions or jokes about it. She is respectful to magi, but privately doesn't think much of them or their leadership. However, she is very loyal to the Order of Hermes as a whole; this may be because the only person she's ever trusted (beside herself) was her brother, a magus, now dead.
 
@@ -259,7 +259,7 @@ her like a servant, and that hurts her pride. She will not take kindly to magi w
 
 This story device works best if the characters call a special meeting to hear the message, with as many magi as possible present to hear it. The Redcap will explain upon her arrival that the information she carries is interesting but not urgent, and concerns a former covenant in the area known as Calebais. It can wait a few hours while she recovers from her journey, perhaps giving the magi time to refresh their knowledge.
 
-### *Rumors of Calebais*
+### Rumors of Calebais
 
 As long as the characters have some knowledge of the Order (that is, a score in Order of Hermes Lore), players may see what they know about the former covenant by making an Intelligence + Order of Hermes Lore stress roll and applying the results to the list below. You might wait to reveal all of this information until after every roll has been made, so that you can share the results with the whole troupe; don't force the players to compare notes unless the characters are particularly secretive, as several characters may recall the same things.
 
@@ -269,7 +269,7 @@ Characters with an hour or two to spend in a library with books on Order of Herm
 
 
 
-### *Ash, a Redcap*
+### Ash, a Redcap
 
 **Characteristics:** Int 0, Per +1, Pre -1, Com -2, Str +2, Sta +4, Dex 0, Qik 0
 
@@ -370,14 +370,14 @@ covenant; hot-tempered; used a phoenix sigil at Tribunal; said to have gone mad 
 
 Change this information or add details as you like, so that these characters fit your vision of Calebais and the Order of Hermes. Several of the magi have been left intentionally vague, even without Houses, so that you can use them as hooks for your saga.
 
-### *The Redcap's Message*
+### The Redcap's Message
 
 When the wizards gather, the Redcap will explain that an old nun, who had once been a *custos* of Calebais, gave her a letter for them. She said that the last magus at Calebais wrote it just before its end, and the nun took it with her when fleeing the covenant. It reveals the fact that one may pass the veil that protects Calebais, and describes the Bell of Ibyn, their greatest treasure. She has kept the letter hidden all these years, but recent events have made her decide to come forward. Her position at the convent would be compromised if her sisters knew of her history with the Order, so she asked the Redcap to keep her name and location secret. (The Redcap agreed, and will not yield to the characters' curiosity out of professional pride.)
 
 Through her contacts among the Cistercians, the nun has learned that the village closest to Calebais was recently the scene of a terrible event, which could have wider-ranging consequences. A respected man of the community was found dead in the nearby forest, gored to death as if impaled on the horns of some wild beast. His daughter, too, is missing, and presumed dead. This is not the first mysterious attack of this nature, and the villagers are convinced that there is great evil in the forest demons, they say, born in the pagan ruins that lie within the enchanted woods. Villagers are clamoring for the king's representative to gather his men and search the forest, to hunt these creatures down and destroy them.
 
 
-### *Why the Characters?*
+### Why the Characters?
 
 Why does the Redcap bring the message to these characters, rather than to the magi at some other covenant? This question may puzzle the players, as they are not likely to be the most powerful wizards in their Tribunal, and even if they have a good reputation, it is unlikely that the nun would have heard of them. Here are some plausible reasons to explain why the characters were chosen.
 
@@ -404,7 +404,7 @@ The nun may have an exaggerated idea of the danger, and it may be very unlikely 
 
 
 
-### *The Letter from Crenvalus*
+### The Letter from Crenvalus
 
 *Sodales,*
 
@@ -424,11 +424,11 @@ The letter ends abruptly, where it has been torn away.
 
 The Redcap has been given simple instructions for reaching the covenant from the nearby village, to which she can easily direct the characters. From there they must approach Two Crag Hill from the south through the woods, and will soon come to a marker left by the magi that will tell them what to do next. She will convey this information and leave them to make their own way, or else she will agree to lead them to the village if they make it worth her while. She will not accompany them to the covenant under any circumstances, as she believes it is far too dangerous for her.
 
-# *The Village*
+# The Village
 
 As explained in the introduction, this settlement can be placed in many different parts of Mythic Europe, as appropriate to your saga. There are, however, a few features of the village that should remain constant wherever it is located, and encounters involving those areas are described below.
 
-### *The Abbey*
+### The Abbey
 
 One of the sacred duties of monasteries is the charity of giving travelers a meal and a bed, and the characters are probably aware of this, as it is a common feature of medieval life. However, depending on how common Cistercian abbeys are in their region, they may not be aware of their unusual restrictions regarding women. Bluntly, the general consensus among Cistercian monks is "if you allow a woman through the door, the devil will come in through the window." Only in unique circumstances would a woman be allowed past the walls: say, the Queen of the Realm wished to attend Mass. Even then, the abbot would suffer a harsh penance — at the very least, he and all the monks would have to fast for several days — and if he were held personally responsible for this terrible event, he could quite possibly lose his position.
 
@@ -447,7 +447,7 @@ If any of the characters have positive reputations or important titles, they may
 
 If the characters have any means of drawing out the brothers, who are supposed to be silent unless need or politeness demands and will avoid the characters as much as possible, they may learn some of this same information. For example, the hostilar might be persuaded to gossip a little about the conflict while seeing to their needs if the characters bring him interesting news from more distant places. He may also mention the young man, who was injured in the forest and is staying in the infirmary, but the monks have done all for him that can be done, and they will not allow the characters to see him without permission from the abbot. His story is described in the village background below; all he remembers is that his lover wanted to leave him, and the sound of a great bell in the forest.
 
-### *The Reeve*
+### The Reeve
 
 The village is not particularly large, and the wealthiest family is that of Stephen, the reeve. He lives on the other side of the river and closer to the wood in a large, well-built house. Stephen believes that the recent events in the forest bode ill for the village, and hopes to play the politics of the situation well enough to recapture some of the influence that he has lost to the abbot over the last decade. His visit with his lord did not go as well as he had hoped, for he has been ordered to investigate further before he will be sent more men, and Stephen has no idea where to begin. He has lied and said that reinforcements will be arriving soon, to calm the fears of those in the village, and may be very grateful that the characters have arrived, perhaps even pretending that he expected them. He will gladly escort them to the forest and the place where the dead man was found, if they take an interest.
 
@@ -455,7 +455,7 @@ The reeve's wife, Matilda, is proud of their station and eager to welcome guests
 
 Characters with The Gift will have great difficulty in the village, for few people will speak with them, and they will be regarded with distrust wherever they go. Stephen is desperate enough to overcome his instinctive revulsion at working with such unpleasant company, but he will hate himself for it and will share none of the credit with them. If they succeed in resolving the mystery of the missing girl without help from more palatable companions, they will be thanked and quickly seen on their way. Obviously, characters with the Blatant Gift will be utterly unwelcome, driven off and watched for in case they should return.
 
-### *Background: The Village*
+### Background: The Village
 
 The characters may learn from the monks or the people of the village some or all of the details of what happened in the woods, described here. The story has likely grown with the telling, so freely exaggerate the aspects of the tale that seem like they will capture the players' imaginations.
 
@@ -471,7 +471,7 @@ The abbot maintains that the girl has been lost, fled from her wanton actions an
 
 The villagers, including the reeve, have long known that there is a great evil hidden in the forest, and see this event as its return brought about by the dark times in which they live. They know there are areas of the wood that cannot be penetrated, and a particular clearing where strange visions of talking animals and other wicked things plague those who stray there. Beyond is a place of great strife and battle in years past, where flames and screams were heard day and night, accompanied by the clanging sound of a great iron being struck. Foresters have occasionally seen shaggy, bestial devil-men running in the distance in that same area. Wilder legends brought forth with strong drink tell of a sleeping dragon on Two Crag Hill, who long ago stole and devoured many of their people. With all these forces arrayed against them, it is no wonder the villagers are frightened, and do not know who will have the strength to protect them, the abbot or their lord.
 
-# *The Wood*
+# The Wood
 
 Most of the forest on the outskirts of the village has a Faerie aura of 2. A significant portion of the area also has a Faerie regio, which is unusual in that it is impossible to accidentally stumble into it. That is, unless the characters suspect a regio, they will not find it. Its strength varies from level 3 to level 5. It covers three territories, each occupying a different section of the forest: Satyr Hollow (Faerie 3), the Veil (Faerie 4), and Dryad Grove (Faerie 5). These areas are outlined in more detail below
 
@@ -486,7 +486,7 @@ the characters may also find their way into the dryad's grove, another level tha
 
 If the characters have any cause to suspect a regio, magic may reveal the edges of it. Intellego Vim spells allow them to step directly into the faerie woods, while Virtues like Second Sight may let them see the boundary. Intellego spells that tell about the nature of the forest may also give them an idea that something is unusual. These methods might allow the characters to reach the satyr's valley, or enter the Veil from somewhere other than the marker.
 
-### *Satyr Hollow*
+### Satyr Hollow
 
 Near the place where the man was killed is the entrance to Satyr Hollow, where a small number of the goat-footed creatures of ancient myth still live in a free, comfortable band. Here they run at will through the forest, brawl with each other in sport, or nap under the trees while listening to their faerie pipes. They embody every kind of masculine leisure in the wild. The characters will be greeted by several surprised satyrs when they first arrive in the regio, who may abruptly challenge them to a wrestling match or invite them to accompany their hunt, as if this were the most natural thing in the world.
 
@@ -500,7 +500,7 @@ The aura here is Faerie 3.
 
 These satyrs spend much of their days hunting, chasing down faerie stags for sport, engaging in contests to see who can put
 
-# *Satyrs*
+# Satyrs
 
 **Faerie Might:** 22 (Corpus)
 
@@ -578,7 +578,7 @@ If the characters somehow manage to rescue the girl, even against her will, the 
 
 Note that Sir Gilbert (below), if he is with the characters, will be very hostile to the satyrs. They look like devils to him. Luc, too, will be frightened and urge Sir Gilbert to attack or at least retreat to the relatively safer ground of their camp. The satyrs have seen the knight and his men, but have avoided them because they do not think they fight fairly, with a horse to run for them and men with harp-strings that throw javelins. They will avoid this battle if they can.
 
-### *Sir Gilbert's Camp*
+### Sir Gilbert's Camp
 
 In the meadow just below Two Crag Hill, the characters will meet a knight-errant, his trusted adviser, and his servants, from whom they can gain information about the magic protecting Calebais. These characters might be used later in your saga as occasional visitors to the covenant if they wind up being friends, or as periodic hindrances if they become enemies. They could even be incorporated into the game as companion characters, if you are just beginning and have players who would be interested in them.
 
@@ -609,7 +609,7 @@ Luc is Sir Gilbert's personal and spiritual guide, an old friend of his family w
 
 
 
-### *Sir Gilbert*
+### Sir Gilbert
 
 **Characteristics:** Int -1, Per -3, Pre 0, Com +2, Str +3, Sta +2, Dex +1, Qik +1
 
@@ -651,7 +651,7 @@ Defense +17, Damage +12
 
 **Roleplaying Tips:** Imagine a friendly, slightly overbearing country sheriff; strap on a sword, and you have Sir Gilbert. He is pleasant company, very good in a fight, and yet still strangely humble. He is pious, but he is also good-naturedly tolerant of things that are strange to him. The characters should find they like him, even if they would normally be at odds with such a figure. Though he is something of a caricature, try to roleplay him as honestly as you can.
 
-## *Luc, Sir Gilbert's Adviser*
+## Luc, Sir Gilbert's Adviser
 
 **Characteristics:** Int +2, Per +2, Pre +1, Com -2, Str -3, Sta -2, Dex +2, Qik -2
 
@@ -692,7 +692,7 @@ If questioned about his personal interest in the ruins of Calebais, he will spea
 
 In many ways, Paul is a perfect squire for a great knight: he is diligent, clever, and knows how to mimic the behavior of his master. However, he is also young and inexperienced, and likely to break into conversation at inappropriate times. He can be rather awkward with social graces. He will probably never become a knight; his aptitudes are much more directed towards being a man of the cloth. Paul also admires Luc, whom he serves nearly as much as Sir Gilbert. Fighting doesn't really appeal to him, though; he will only fight to protect his lord.
 
-## *Paul, Sir Gilbert's Squire*
+## Paul, Sir Gilbert's Squire
 
 **Characteristics:** Int +2, Per 0, Pre 0, Com -1, Str +1, Sta +2 Dex
 
@@ -728,7 +728,7 @@ Damage +9
 
 **Roleplaying Tips:** Overdo the servility and use your "courtly graces" as much as you can. Try so hard to please others, even when the occasion does not call for it, that you make a mess of things.
 
-### *Sir Gilbert's Men*
+### Sir Gilbert's Men
 
 **Characteristics:** Int 0, Per +1, Pre 0, Com 0, Str +1, Sta +1 Dex +1, Qik 0
 
@@ -783,11 +783,11 @@ air. He stared at them, blinked from weariness, and they were gone. Sir Gilbert 
 
 VI. There has been no sign of the missing woman. His opinion is that the girl is still alive, for he heard that she had good reason to get married, and that her father had taken the soon-to-be husband out to the forest to teach him a lesson. Perhaps it was the young man who killed her father, inventing a story about demons for protection, and driving the girl into hiding. Instead of searching the forest, he thinks the king's men should be searching the cloisters. He has not visited the site, but believes the reeve is embellishing the story for his own reasons.
 
-### *The Marker*
+### The Marker
 
 At the edge of the southern slope of the hill, just outside of the regio, is a stone pylon about nine feet high. Sir Gilbert, if he is with them, will bring the characters over to see it, since Luc could not understand all of what it says. It is worn and ruinous,
 
-## *The Marker Inscription*
+## The Marker Inscription
 
 #### **INTRATE IN HANC SILVAM FASCINATUM NON**
 
@@ -817,7 +817,7 @@ When the covenant was active, those who were not welcome and became lost in the 
 
 When translating the message for Sir Gilbert, Luc thought that the word "Calebais" might be a name derived from "calidum basium," or "fiery kiss," but it was too hard for him to decipher from context. If players ask how to say "kiss of fire" in Latin, perhaps because of Gilbert's use of the phrase, or if the characters ask Luc about that part of the inscription, they will realize the misunderstanding.
 
-### *The Veil*
+### The Veil
 
 Calebais and the surrouning area are protected against unwanted visitors by a powerful enchantment, similar to the Hermetic spell *The Shrouded Glen* (ReMe40). It prevents people from entering the covenant and its environs without being admitted by the dryad, who acts as a sort of gatekeeper. Merely wandering through the area will not suffice, as the magic on the mundane level of the forest will turn explorers away without their realizing it, and in the regio the illusions will keep them occupied and confused. It is this "veil" of mystery that Sir Gilbert has been trying to penetrate, with limited success. The characters must find a way to understand the riddle before the dryad will allow them to enter the ruined covenant.
 
@@ -961,7 +961,7 @@ Mormulus did not wish to remove all contact with the outside world, but he did w
 
 The effects of the Veil cover all of Two Crag Hill, which is a Boundary target. It has lasted fifty years, so it must be a continuous effect of a device. Yet devices cannot affect a Boundary, as that requires a Ritual spell. How is this possible? The reason is that Mormulus bound the dryad to his service and enchanted *her* with the Veil. Her involvement makes it possible for him to target the entire area via a specialized form of magic. While it might be possible for other magi to learn this mysterious art of binding spirits, rules for it are beyond the scope of this adventure.
 
-### *The Dryad Grove*
+### The Dryad Grove
 
 At the center of the Veil that protects Calebais is the area that contains the dryad's home and her grove of trees. This area corresponds to the top of Two Crag Hill, and overlaps the mundane layer — the covenant — with a regio and a Faerie 5 aura. It is impossible for the characters to find this place without being led here by the dryad herself or by searching for regio boundaries from within the Veil. Note that Intellego Mentem and Intellego Imaginem effects here are also reduced by 60 spell levels, as explained above.
 
@@ -975,7 +975,7 @@ bowls filled with rich, heady mead, thick and sweet; and wooden plates piled wit
 
 If the characters combine the dryad's hospitality with that of the satyrs (wine and meat, or fruit with mead, or any other combination), both curses will be lifted and the afflicted characters will suffer no further ill effects; they will find that they can easily leave the faerie regio. The two curses counter each other, for one speeds mortal blood and the other slows it down. This is the method by which they can free the satyrs' captive, if they have otherwise dealt with the threat the faeries pose to the village, and it is perhaps the only way that they can circumvent the penalty for accepting the faeries' gifts.
 
-### *The Dryad*
+### The Dryad
 
 **Faerie Might:** 45 (Herbam)
 
@@ -997,7 +997,7 @@ Sta +2, Dex +2, Qik +2
 
 **Appearance:** The dryad is old, white-haired, and wise, but still beautiful and earthy. She wears a living gown of leaves and flowers.
 
-## *Options: The Mystery*
+## Options: The Mystery
 
 - I. The characters may somehow sneak women into the abbey, which could have the effect of profaning the services, for it is strictly against the Cistercian Rule to say Mass while women are present. This could create a chink through which evil forces can penetrate this fortress of holiness. The divine aura may weaken, and the site could become more vulnerable to infernal attacks. Because of their flouting of tradition, the characters may discover that they have helped a demon gain a hold on the abbey and corrupt it. This demon would probably also be interested in tracking down the characters and corrupting them too, in thanks for their aid, since they seem to be ripe fruit for plucking.
 - II. If the characters manage to rescue the young woman, by bringing her mead or food from the dryad's grove, she won't want to return to the village, and she will be desolated if the characters have killed off the satyrs or freed the dryad. She might be convinced to join the characters' covenant. If the satyrs replace her and the characters ignore her plight, she will eventually escape on her own and return to the village, where the abbot will instruct her to join a convent. The characters may encounter her again in Chapter Three, but she will not speak kindly of them to the abbess.
@@ -1024,11 +1024,11 @@ Before the characters make their way into the tunnels, there are a few facts tha
 
 
 
-## *Magic in the Ruins*
+## Magic in the Ruins
 
 Once one descends into the ruins of Calebais, there is a Magic 5 aura. As in the forest above, though, all Intellego Imaginem and Intellego Mentem effects anywhere on the hilltop or in the covenant are reduced by 60 spell levels, effectively canceling them, as the Veil of Mormulus covers the entire area. This means that common spells like *Whispers Through the Black Gate*, *Prying Eyes*, or *Thoughts Within Babble* will simply fail without providing any information.
 
-# *Inside Calebais*
+# Inside Calebais
 
 The interior of the covenant shows evidence of incredible destruction. Rubble, scorch marks, broken weaponry, and bones litter the floors. Nearly all of the wood in the covenant, including doors and furniture, has been burned or smashed apart. The stone walls and even sections of the ceilings bear many cracks and holes, especially in the lower levels. Pools of water have formed in various depressions throughout the rooms.
 
@@ -1044,7 +1044,7 @@ On the upper levels, the rats eat as much of the moss as they can reach, leaving
 
 The vermin of the tunnels can also be heard if one listens quietly. Bats flutter about in the well, and there are many rat warrens dug into the rubble along the walls of the upper levels. Cobwebs hang in undisturbed areas or cover unused doorways. The aura and their magical diet has affected many of these creatures, making them preternaturally large and vicious, and the Hrools have basically abandoned the seventh level to those creatures that have grown too large for them to handle.
 
-### *The Hrools*
+### The Hrools
 
 Hrools are ferret-like creatures about the size of toddlers or small dogs that inhabit the ruins of Calebais and possess human intelligence. The maga Ierimyra brought them to the covenant years before the Sundering and enhanced them with specialized magic (see the Appendix). For a time, they served as her personal guards, much to the disgruntlement of the other wizards and grogs, and in fact Ierimyra had grandiose plans (or a fateful vision) that one day her children would "rule" the entire covenant.
 
@@ -1065,7 +1065,7 @@ Combat is a matter of status among the Hrools. Small groups of satyrs from the f
 
 The ermine Hrools do not wear necklaces. Most of them wear diadems connected to the Bell of Ibyn, and they use these to
 
-# *Adult Hrool*
+# Adult Hrool
 
 **Magic Might:** 5 (Animal)
 
@@ -1104,7 +1104,7 @@ Weapons 2 (rocks)
 
 
 
-### *Warrior Hrool*
+### Warrior Hrool
 
 **Magic Might:** 5 (Animal)
 
@@ -1134,7 +1134,7 @@ Axe (stone): Init +2, Attack +8, Defense +10, Damage +7 Bite: Init +5, Attack +8
 
 **Note:** Warrior Hrools are used to fighting in trained groups of 3-5 under the leadership of their champion or an ermine. This means the group receives a +12 combat bonus to either attack or defense.
 
-### *Ermine Hrool*
+### Ermine Hrool
 
 **Magic Might:** 18 (Animal)
 
@@ -1183,7 +1183,7 @@ They act differently when defending their homes, however. There, they will liber
 
 If a battle is taking place near the well (in the garden or in front of Ierimyra's quarters, for example), two or three adult Hrools will charge their opponents and try to push them in, riding along for the plunge into the water. Then they simply dive down to the submerged rooms and swim back up through the flooded stairways, as they can hold their breath for several minutes at a time. This tactic is an effective action for the non-warrior Hrools to use, as they can fight as a group to receive a bonus to their attack. They can also throw rocks or try to trip up characters by sneaking around behind them and clawing at their clothing or rifling through their packs.
 
-### *Elementals*
+### Elementals
 
 Some of the wizards at Calebais practiced magic that allowed them to bind spirits into physical objects, and Mormulus's Veil is one example of this. Other magi at the covenant experimented with similar forms of sorcery before their demise, and left behind several creatures known as "elementals," so called within the Order because they are typically made from one of the four elements: water, air, fire, or earth. These raw materials are magically animated with a supernatural presence that might be called alive, or at least aware. While rules for summoning and controlling these creatures are beyond the scope of this adventure, here are some guidelines for dealing with those that the characters might encounter.
 
@@ -1204,7 +1204,7 @@ more complex, such as "obey my instructions." They have no mind, so they cannot 
 
 Elementals that are defeated (but not dispelled) may leave behind raw vis appropriate to their form.
 
-### *Ghosts*
+### Ghosts
 
 Calebais is haunted by the ghosts of many of its former inhabitants, disembodied spirits still confined to earth because of their actions in life, or because of a supernatural desire to complete some task left unfinished. Many ghosts are dark, sinister souls, living tormented existences beside the physical world without being able to affect it in any real way. They are often confused, sometimes violently insane, and may hate and fear the living or take pleasure in making others share their suffering. Others may be of good heart and seek only to put right what their passing made wrong, or were made ghosts simply because they lived too long in a magical aura. Ghosts are as individual as living beings, and each has its own distinct personality.
 
@@ -1229,7 +1229,7 @@ However, every ghost has fetters that bind it to life. When ghosts deal with the
 
 When they pass on, ghosts can leave raw vis behind. This vis is often as ghostly as they were, tied to a spiritual memento of the haunting, though there are magical ways to harvest this vis. A Muto Mentem spell with a physical requisite can make the item and the vis temporarily solid. Rego Mentem can transport ghostly objects, and Rego Vim can siphon the vis into some other container. Finally, even if they cannot move it, magi can always use ghostly vis simply by touching it.
 
-### *Voices in the Dark*
+### Voices in the Dark
 
 The ruins of Calebais abound with fearful sights and sounds. There are ample opportunities to check the characters' courage by making Brave Personality trait rolls. Depending on the circumstances, anything less than a 6+ might cause characters to hesitate or falter, and botches might cause them to flee in terror. Fear can take many forms, and remember that without fear to overcome, there cannot be true bravery.
 
@@ -1261,7 +1261,7 @@ The central well serves as a sounding box for a myriad of sounds made by the inh
 
 Also, whenever a person dies, even only a grog, describe a dull, toneless clang that echoes through the covenant. This is the Bell of Ibyn, but the characters will be unable to pinpoint the sound's exact origin.
 
-### *Free-Moving Encounters*
+### Free-Moving Encounters
 
 Some of the inhabitants of Calebais are given definite locations where they may be found, but since most are free to move about, you may have them appear wherever and whenever your story demands it. If the characters draw attention to themselves, or the game is moving slowly, bring in a free-moving encounter. Below is a list of events that could take place in a variety of locations throughout the ruins and can be used at your discretion. Not all of them are necessary, but you might note the ones you definitely want to include for future use. Don't let this list limit your imagination if you have other ideas.
 
@@ -1289,7 +1289,7 @@ Some of the inhabitants of Calebais are given definite locations where they may 
 - XVII. A group of three satyrs from the faerie forest raid the covenant and attack, drunk on wine and unable to recognize or interact with the characters in any way but to fight. Hrools arrive during the battle, brutally counter-attacking the faeries with surprising efficiency and skill.
 - XVIII. At sunset, a huge flock of bats flies out of their nests in the well, and out through the opening into the darkening sky. Watching the cloud rise across the horizon like a column of black smoke is ominous and eerie if seen from the outside or one of the balconies.
 
-### *The Entrance*
+### The Entrance
 
 The dryad leads the characters up a steep trail, which crests the hill and passes between two great crags, then descends a few feet and levels off. All that is visible from the surface of the ruins is a pit, 30 feet in diameter, circled by a 10 foot wide band of paved rock. Six large oak trees grow around the sides, concealing it from viewers in the air or on the surrounding hilltops. A wide set of stairs is cut into the rock at the edge, extending into the hilltop, not into the well.
 
@@ -1307,7 +1307,7 @@ The dryad leads the characters up a steep trail, which crests the hill and passe
 
 Sitting directly in front of these stairs is a two-foot high, four foot square, roughly hewn stone slab (sloped up away from the stairs), onto which is carved the following message signed by Ornath, follower of Guernicus, Quaesitor.
 
-## *The Warning*
+## The Warning
 
 #### **OMITTETE HAS RUINAS EXSECRABILIS**
 
@@ -1327,7 +1327,7 @@ When the characters first look down the deep well (180 feet total), they see an 
 
 determine the difficulty of remaining on their feet. If they fail to either catch themselves or grab the ledge, they fall; from here it is 140 feet to the waterline.
 
-## *Falling into the Well*
+## Falling into the Well
 
 If any characters fall into the well, they will plummet down the long shaft into the water. This is actually the best outcome, since the water will cushion some of the damage. If a character slips and falls from a ledge, he or she might be able to land on one of the other ledges, such as the large balconies on levels two, three, seven and nine. You can look at the maps to determine if the character would fall near a ledge, and allow a Dexterity + Athletics roll to see if the character can make it. There is about 15 feet between each floor, so if you use this option, calculate the distance accordingly, and remember that landing on a hard surface doubles the damage.
 
@@ -1364,7 +1364,7 @@ He keeps his voting sigil nearby at all times, for it was this token that proved
 
 
 
-## *Dargaud, the Redcap*
+## Dargaud, the Redcap
 
 **Magic Might:** 11 (Mentem)
 
@@ -1408,7 +1408,7 @@ This cave is shaped just like the other, only it is clear of debris and shows no
 
 At the very back of the room is a trap door, which has been extremely well-hidden. It is covered with about an inch of dirt and what was probably straw, and appears in all respects to be part of the floor. Only characters who are intensely searching have any chance of finding it, and then only on a Perception + Awareness roll against an Ease Factor of 15. Obviously, it hasn't been opened for decades, and it leads to a narrow shaft that is only large enough for one normal-sized person. Rough, uneven rungs are carved out of the stone, descending into darkness.
 
-### *Second Sight*
+### Second Sight
 
 Characters with Second Sight may be able to see through all sorts of illusions and magical effects in Calebais. However, asking the players to make a Second Sight roll may give away some of the mysteries of the covenant, such as the fact that there are otherworldly features to be perceived. For example, if you have them roll to recognize that the figure behind the arrow slits is a ghost, they will probably think of him a ghost when they meet him later, even if they fail the roll. Instead, you might wish to note the characters' Second Sight scores, and then ask for Perception + Awareness rolls instead. You should then be able to calculate whether the characters see anything unusual because of their magical sight. The players will be alerted that there is something to see, but even that may serve to heighten the sense of paranoia that should be inherent in the idea of exploring magical ruins.
 
@@ -1437,7 +1437,7 @@ The corridor nearest the entrance, leading to the wizards' stair, is blocked by 
 
 Four feet in front of the stone are two large broken crown symbols, faintly glowing, one on the floor and one on the ceiling. If any character walks past those symbols without saying "regno vicem regis" (RAY-gnoh WEE-chaym RAY-geese, "I rule in place of kings"), a very loud boom sounds. (If the boulder trap were reset, it would fall a few seconds later.) Ghosts and Hrools may be attract-
 
-### *Paulo*
+### Paulo
 
 **Magic Might:** 21 (Mentem)
 
@@ -1505,7 +1505,7 @@ Like many of the ghosts at the covenant, Paulo does not realize he is dead, and 
 
 His main armament is a large hammer, with which he periodically hits the walls of the covenant when he is upset, actually causing them to crumble. He might become infuriated with the characters and smash walls and such around him in order to scare or harm them or even to block off their avenues of retreat. It costs him some of his Might each time he does this, and it takes about five blows to completely seal off a corridor. Other than this form of attack, he cannot hurt the characters, though he can fight other ghosts.
 
-### *The Fountain*
+### The Fountain
 
 The fountain is a powerful magical artifact; it is the device that binds the dryad who powers the Veil of Mormulus to the covenant. It is extremely heavy, and not at all easy to move, as it is attached to the floor with thick, iron brackets. A Rego Terram ward prevents damage to the statue from physical objects, and a Rego Aquam effect transports water from the bottom of the well to fill the basin when it becomes low, keeping the water in motion to prevent it from becoming stagnant.
 
@@ -1529,7 +1529,7 @@ Two skeletons and a pile of chests and equipment are propped against the other s
 
 A short set of stairs leads ten feet up to a small archery chamber, with arrow slits facing the stairs on the other side. It is now in partial ruins, with gouges in the walls, and is empty. Paulo often stands here in the shadows, guarding the entrance, and if characters manage to enter invisibly and quietly enough to slip by his watch, he will be brooding by the arrow slits, gloomy and insubstantial.
 
-### *The Second Level*
+### The Second Level
 
 The next level is where most of the grogs lived, serving as a bulwark against any mundane attack upon the covenant. Their barracks and meeting room are located here, as are several private rooms for their leaders. The ghost of Josephine, a grog of some distinction, may be found on this level.
 
@@ -1554,7 +1554,7 @@ Josephine believes that her son is still alive; she pleads with the characters t
 
 
 
-## *Josephine*
+## Josephine
 
 **Magic Might:** 15 (Mentem)
 
@@ -1606,7 +1606,7 @@ If Paulo watches the group enter his room, he will be sorely tempted to attack, 
 
 The remains of bunks sag inside each of the alcoves (four in each), and wooden chests are strewn in pieces across the floor. There are piles of rubble along the wall, but the center of the floor is mostly clear. The remains of more than ten human skeletons, still wearing armor and bearing rusty weapons, can be found amid the refuse. Cheap jewelry and silver may be found if the characters search carefully. Crude sexual pictures are drawn on the wall in the alcove near the large staircase, and broken chamber pots lie where they rolled into the main room.
 
-### *The Third Level*
+### The Third Level
 
 Here were located the kitchen, banquet hall, storage rooms, and greeting hall for visitors. Now, the floor is wholly occupied by a tribe of Hrools who live mainly in the banquet hall. Some Hrools are likely to be spread out on this level, but if they hear the adventurers coming, they will group together in their lair.
 
@@ -1624,7 +1624,7 @@ would use it to watch for visitors to Calebais who waited at the pylon for a gui
 
 David spent the Sundering trying to regain control of the grogs, but they had divided into factions long before then, each favoring different magi who promised rewards in return for their support. The covenant developed into a disparate group of armed
 
-## *David, Captain of the Guard*
+## David, Captain of the Guard
 
 **Magic Might:** 29 (Mentem)
 
@@ -1677,7 +1677,7 @@ If David encounters Ferdina, the autocrat, he will forget his mission and berate
 
 David has the power to command any trained warrior to perform an action that normally falls within his or her duties. He can also damage living beings with his sword, flailing at his opponents with unstoppable blows. Both of these powers weaken him, so he will wait until the situation is dire before he uses them,
 
-# *Hofot, Champion Hrool*
+# Hofot, Champion Hrool
 
 **Magic Might:** 10 (Animal)
 
@@ -1715,7 +1715,7 @@ Leadership 4 (combat), Single Weapon 4 (long sword), Speak Hrool 2 (orders), Swi
 
 **Note:** Hofot can lead up to five Hrools as a trained group, and usually leads five warriors. Each group receives a +15 bonus to either attack or defense.
 
-## *Captain's Sword*
+## Captain's Sword
 
 The sword has the symbol of Calebais sculpted into the hilt, and is an invested device with three powers. It can cast *Blade of the Virulent Flame* (CrIg Base 5, +1 Conc; +5 maintain concentration = Level 15), activated by holding the sword aloft as if to catch the light, and this effect is reflected in both Hofot's and David's stats. The sword also resists physical damage and rust, maintaining its edge throughout the years (CrTe Base 5, +2 Sun; +1 two uses per day, +3 activated by sunrise and sunset = Level 19). Finally, the sword cuts through magical defenses, taking down wards and even
 
@@ -1754,17 +1754,17 @@ The dragon's head fell from above, where the ceiling dips down, from a huge ston
 
 This once busy kitchen is now in ruins, though some heavy stone tables are still standing. The remains of bones, kitchen tools, platters and other refuse are found throughout. A large basin magically transports water from a source far below. The fireplaces vent out into the well, and the balcony was once used to gather baskets lowered from the outside. Because of its positioning, characters falling from first setting foot on the bridge are more likely to land here than any of the other balconies.
 
-### *The Fourth Level*
+### The Fourth Level
 
 The craft shops of the covenant were located here, as well as more private rooms of some of the *custodes*. In particular, an unusual rock (Gemaric) and a fire drake (Igack) inhabit this level. A few rats can be seen and heard scrambling about, and if it is day outside, bats will be sleeping inside many rock cracks and crevices.
 
-## *Gemaric, Josephine's Child*
+## Gemaric, Josephine's Child
 
 Erechtheus of Mercere gave Gemaric a magic stone during the Sundering that transformed him into a rock, to protect the young boy. Unfortunately, the generous wizard died soon after, and Gemaric cannot cancel the effect. So, for all the intervening years Gemaric has remained a rock, unable to move, dreaming away his time. Yet his essential nature is that of a man, and it has recently begun to reassert itself. Perhaps because of the magic in the area or some talent of his own, Gemaric has grown legs and gained the ability to move about. He still has his sense of touch and his sense of hearing, but after exploring this level of the
 
 covenant he found little to interest him and lapsed into his dream world. He spends most of his time immobile. Even when alert, his idea of the outside world is vague. If the magi can magically speak with him, or if he somehow learns to communicate (perhaps by drawing pictures in the dust), they will learn all this. If they are able to make him human again, or cancel the magical stone's effect, they will produce a man in his fifties with the mind of a child and an incredible imagination. If Josephine sees him, she will recognize him no matter what his form and plead with the characters to make contact with him.
 
-## *The Magical Stone of Erechtheus*
+## The Magical Stone of Erechtheus
 
 This item is about two feet wide and a few inches thick, and looks very much like Gemaric in his transformed state. It is a lesser magic device enchanted with one constant effect that changes it and whatever person is carrying it into a rock (MuCoTe Base 25, +1 Touch, +2 Sun, +1 for special effect; +4 constant = Level 49). If its effect is dispelled, it will slip from Gemaric's hands, but whoever picks it up might be affected by it the next time it triggers. Since part of the stone's effect is that it
 
@@ -1786,7 +1786,7 @@ This room belongs to Igack, a small fire drake who was once Pitsdim's familiar. 
 
 Igack is frightened, lonely, and prone to treating intruders to the same fiery greeting that his master employs. He may even consider his breath affectionate, since it has never affected Pitsdim, who encouraged him to breathe at anyone who approached. In general, Igack is a trusting, friendly, and simple-minded creature. He can speak Latin if encouraged, but his pronunciation is abysmal and he only understands basic concepts.
 
-### *Igack, a Fire Drake*
+### Igack, a Fire Drake
 
 **Magic Might:** 18 (Ignem)
 
@@ -1843,7 +1843,7 @@ At one time, something obviously occupied these rooms, but now they are full of 
 
 This room looks like someone took pleasure in reducing every smooth surface found in it into a mass of rubbish. The room is completely full of rubble, and even the ceiling has been broken up; therefore, there is no light here. Perhaps some of the old crafters' equipment could be found after much digging, but it is difficult even to walk through this chamber, let alone dig it up. Perceptive characters (Perception + Awareness roll of 9+) notice many old leather pelts mixed in with the rubble and a few rotted rolls of cloth.
 
-### *The Fifth Level*
+### The Fifth Level
 
 On the fifth level lies the garden of the covenant and more rooms used by the *custodes*, including a common room where they gathered together. Many Hrools may be found on this level, as well as the ghost of the autocrat, Ferdina.
 
@@ -1859,7 +1859,7 @@ Ferdina was the autocrat of Calebais, a term that older covenants use to describ
 
 Ferdina grew up at the largest and most politically active covenant in this Tribunal, and was offered to Calebais in an attempt to stabilize it and bring peace. She failed utterly, and now she mainly thinks about how the folk of Calebais never listened to her, rather than considering her own lack of ability. She is humiliated by her failure and angered by the fact that she was "never given a chance." If she is blamed too vehemently for the Sundering (by David, for instance), she will in turn blame David, arguing that it was his poor leadership that fractured the loyalties of the grogs, and that she had warned him of this repeatedly. It is extremely important for her to avoid blame for the Sundering; she will not admit that she had something to do with it. In all fairness, once they hear the whole story, the characters might realize how difficult Calebais would have been to manage. She will pass on if one of the wizards listens to her tale, and after hearing her side acknowledges that, indeed, she tried, and that she did her job until the end. This in turn will allow her to
 
-## *Ferdina, the Autocrat*
+## Ferdina, the Autocrat
 
 **Magic Might:** 25 (Mentem)
 
@@ -1914,7 +1914,7 @@ The covenant's garden has fared well. It has fared so well, in fact, that it is 
 
 
 
-### *Malevola Vida's Talisman*
+### Malevola Vida's Talisman
 
 This black iron rod with a dark onyx at its tip has the power to shatter rock or metal anywhere within the sound of the wielder's voice. It blasts a hole three feet deep and three feet wide in the shape of a half-sphere, leaving rough or jagged edges (PeTe5, +2 Voice, +1 Part; +10 unlimited = Level 30). The Hrools mistakenly wielding it as a weapon don't know how to use it. You must say "Posse visum durare in aeternum" (POHS-say WEE-soom doo-RAH-ray een eye-TAYR-noom, "May the vision last forever") and then swing the rod over your shoulder, back in front of
 
@@ -1932,7 +1932,7 @@ A concealed door hides a staircase down to Drininkeana's lab. To find it, charac
 
 This room was thoroughly burned, and nothing is left but ashes that have long since compacted into spongy dirt.
 
-### *The Sixth Level*
+### The Sixth Level
 
 The sixth level is where three of the magi had laboratories and private chambers. These magi had the least authority in the covenant, as they had little to do with ruling Calebais and instead oversaw their own private domains. They took little interest in the events that followed the Sundering, and were taken by surprise when others came for them.
 
@@ -1958,7 +1958,7 @@ Three massive guardians live in the ground beneath Drininkeana's lab. If anyone 
 
 An Undertaker is a kind of earth elemental that moves beneath the ground like an octopus swimming in water, but can hear when someone steps upon the earth above. These creatures are
 
-### *The Undertakers*
+### The Undertakers
 
 **Magic Might**: 20 (Terram)
 
@@ -2018,7 +2018,7 @@ A heavy curtain hangs in tatters before the entrance to Mormulus's laboratory, e
 
 Somewhere among these illusions, as an integral part of them, you should introduce the ghost of Mormulus. He may be sitting under an oak tree singing a ballad to himself, or leaping from cloud to cloud trying to escape a flying demon. When the characters first meet him, he will not look anything like himself; rather he will be some other character who fits well into the current illusion. In fact, the only other person the characters will ever interact with here is Mormulus. Since the room is so small, the characters will never lose track of each other and will usually be able to see and interact with one another. Only after exploring all the dramatic potential of this scene should the characters finally encounter Mormulus as he truly is.
 
-# *Mormulus, Magister of Illusion*
+# Mormulus, Magister of Illusion
 
 ### **Magic Might:** 60 (Mentem)
 
@@ -2060,7 +2060,7 @@ Dodge: Init -3, Attack +0, Defense -3, Damage +0
 
 
 
-### *Illusions*
+### Illusions
 
 In **Ars Magica**, images created by magic are real, even though the things they appear to be are not. This means that a spell that creates the image of something solid can mimic feelings associated with touch: temperature, texture, sharpness, "give," and even solidity. Illusions may thus appear to have substance. Much like they would instinctively draw their hands away from a flame, characters will instinctively hesitate before charging blindly into what seems to be a solid wall. The Mentem effects that form part of Mormulus's illusions back this up, influencing characters' minds so that they subconsciously avoid doing things that would show the illusions for what they are. However, the Mentem effect has no penetration, and thus does not affect any characters with magic resistance.
 
@@ -2121,7 +2121,7 @@ One of the other wizards, Eonus, destroyed Ierimyra's mind during the Sundering,
 
 Ierimyra brought the first Hrools to Calebais and through years of lab work and experimentation granted them human intelligence (see the Appendix). Even though she is now feeble-minded, the Hrools still practically worship her and try to follow her orders — whenever she says anything that can be understood, that is. In a fight, she will aid the Hrools directly, and something about her close emotional connection to them makes her able to affect them physically, even if she cannot affect other things of the real world. This will involve healing them, calling for reinforcements, or giving them magical strength. She may not even be aware of the characters, or may confuse them with satyrs or the other wizards of Calebais when she does see them, but will remain focused on her children and their needs.
 
-## *Ierimyra, Magister of Beasts*
+## Ierimyra, Magister of Beasts
 
 **Magic Might:** 42 (Mentem)
 
@@ -2201,7 +2201,7 @@ A pair of Hrool-sized tunnels lead to their "livestock pens," where they raise r
 
 
 
-## *Hukla, Champion Hrool*
+## Hukla, Champion Hrool
 
 **Magic Might:** 10 (Animal)
 
@@ -2239,13 +2239,13 @@ Hrool 3 (orders), Stealth 3 (hiding), Swim 3 (diving)
 
 carries a long spear.
 
-## *Captain's Shield*
+## Captain's Shield
 
 The shield David carried is emblazoned with the symbol of Calebais, and has two powers invested in it: it is resistant to wear and age, preventing rust and mending itself when damaged (CrTe10, +2 Sun; +1 twice per day, +3 activate at sunrise and
 
 sunset = Level 24). Also, if held still for six seconds, it can turn the bearer and everything he carries invisible for as long as he remains in one place. (PeIm4, +1 Touch, +2 Sun; +1 twice per day, +3 activate at sunrise and sunset = Level 19).
 
-### *Captain's Mail*
+### Captain's Mail
 
 David's chain mail has three magical powers that were designed to trigger automatically every sunrise and sunset, though wounds do not heal naturally while the mail is worn and reopen soon after it is removed. These effects are: "heal the debilitating effects of disease, poison, or injury" (CrCo20, +1 Touch, +2 Sun; +1 twice per day, +3 activate at sunrise and sunset = Level 39), "heal an incapacitating wound" (CrCo30, +1 Touch, +2 Sun; +1
 
@@ -2259,7 +2259,7 @@ exit tunnel that leads to the level below that they keep blocked. All of these a
 
 There are two ermines here, Arz and Kremin, and each one wears a diadem. There are also 22 adults and 11 warriors, though feel free to change this number if the characters are weak. This group of Hrools possesses David's shield (carried by their champion, Hukla) and his chain mail, which is too big for Hrools to wear, so they keep it hidden on one side of the warrens. These Hrools fight with wooden spears that were once pieces of furniture or tool handles but that have been chewed into sharp stakes.
 
-### *The Seventh Level*
+### The Seventh Level
 
 This level is almost completely impassable. Two laboratories and living quarters for magi were located here, but Crenvalus collapsed the floor above with a huge Rego Terram spell designed to kill Pitsdim, whose decaying remains are buried somewhere beneath tons of rubble. Only the smaller, western stairway and the well remain clear; the rest is full of dust, dirt, support timbers, rusted metal, and huge slabs of rock.
 
@@ -2267,7 +2267,7 @@ Feral Hrools and verminous creatures may be found burrowing through the maze of 
 
 Play this floor by ear. Or, if you wish, you can instead leave this level clear and stock it with ideas of your own: other ghosts, magic items, traps, or whatever you think appropriate.
 
-### *The Eighth Level*
+### The Eighth Level
 
 The eighth level is the location of the wizard's council room, its antechamber, and the covenant's formerly large library. It also hides the entrance to the covenant's treasure vault and many of the answers to the questions that surround what happened at Calebais.
 
@@ -2282,7 +2282,7 @@ All the books in the library have been burned. It looks as if some madman had a 
 
 
 
-## *The Engraving*
+## The Engraving
 
 Etched in careful letters across this panorama are the following words.
 
@@ -2322,7 +2322,7 @@ In spite of the evidence, Pitsdim does not know he is a ghost, and since he is t
 
 If the characters manage to defeat or subdue Pitsdim, they will notice more of the details of this room. Most of the chairs around
 
-## *Pitsdim, Magister of Flames*
+## Pitsdim, Magister of Flames
 
 **Magic Might:** 38 (Mentem)
 
@@ -2414,7 +2414,7 @@ Ornath's simple wooden chair was removed after he departed. It used to sit at th
 
 The letter remnant, once clutched by David's skeletal hand in the doorway, may look familiar to the characters, since they received the other half at the beginning of the story. If they rescue it from the flames and manage to make the faded writing visible, they will see that it reads:
 
-### *Crenvalus' Letter*
+### Crenvalus' Letter
 
 ... hoards green treasure, one who hoards gold treasure, one who hunts in the village, one who hunts in the forest, one who is blunt, one who is sharp, one of bright silver, one of tarnished silver, and the thief in white. The answer is: A Crown.
 
@@ -2428,7 +2428,7 @@ Farewell, my friends; so passes Crenvalus, follower of Tytalus, and last of the 
 
 Crenvalus wrote this letter in a terrifying fit of remorse, and killed himself immediately afterward. He had given the message to David with instructions to take it to the redcaps, ensuring that it would spread throughout the Tribunal, but when he saw that he was not dead he had desperate second thoughts. He swept after David, and inexplicably closed the portal just as the captain was passing through, killing him. Yet David had stretched his hand bearing the letter through to the other side, and Larine, waiting for him and seeing what had happened, tore the letter from his grasp and fled the covenant, grieving for her lost love. Crenvalus cried after her to burn the letter, and never to betray the secrets of Calebais, but he does not know if she heard his ghostly commands. As time passed and no one made their way into the vaults, Crenvalus came to believe that she had done as he instructed.
 
-### *The Ninth Level*
+### The Ninth Level
 
 The laboratory here has no contact with the rest of the covenant except through its balcony, so it is unlikely that characters will wind up here unless they have descended the well, either on purpose or by accident. The balcony is ornately carved with a basrelief of a great eagle in flight on the wall above, and some gleams of gold remain from the gilt. Characters may be able to see this balcony from the upper floors.
 
@@ -2451,7 +2451,7 @@ The north wall of the laboratory is covered with niches of all sizes that have b
 The room across the well from the laboratory has a large, gray cloud in the middle, thirty feet around, and the bowl-shaped floor is partially filled with water. Soon after the characters enter, the cloud begins to rain. This was once a test area for Ventus Gurges; he practiced his magic here and designed and perfected new Auram spells using the cloud. If the characters attempt to cast Auram magic at it, they find it is exceptionally easy to affect and manipulate.
 
 
-### *Althea*
+### Althea
 
 **Magic Might:** 15 (Mentem)
 
@@ -2489,11 +2489,11 @@ Dodge: Init +0, Attack +1, Defense +0, Damage -3
 
 More debris is spread through the small living quarters, and nothing else is left of the wizard's personal belongings except for an occasional pile of rubbish. Angular, silver symbols ten feet high crowd the walls of the room, gently lit from above by a myriad of stars shining on the otherwise black ceiling.
 
-### *Further Levels*
+### Further Levels
 
 The remaining levels are completely flooded, buried under water and sharing the depths with the great dragon statue that fills the central section. Many more laboratories and living quarters were located in this area, though not all of them had direct access to the well. If the characters have the means to explore them, you can extend the adventure, developing your own ideas for what they might find, but a better way to continue the story would be to put more detail into the upper levels and use these flooded levels to design a later expedition, after several game years have passed ("Return to the Broken Covenant").
 
-### *The Vault*
+### The Vault
 
 This level will probably mark the end of the long journey the characters began by exploring Calebais, and it is rich with examples of the paranoia, power and pride that came to possess the magi. Unlike the ghosts on the sixth level, or Pitsdim on the eighth, the wizards who have gathered here are the ones who had the highest status. There is little trace of their labs or living quarters, as they are buried under rock or submerged beneath tons of water, so the ghosts on this level inhabit the rooms where they can remember and revel in their influence and their covenant's former glory.
 
@@ -2510,7 +2510,7 @@ Furthermore, the final battles should press the characters so hard and cause so 
 
 When the characters push through the magic door from the council room, they will emerge into pitch darkness (this section of the covenant is not magically lit). Once they make light, they will see a rough-hewn cave sloping down, with a wall made of smooth stone at the far end, obviously blocking the passage. Near the wall is a skeleton in rotted wizard's clothing, still
 
-## *The Message*
+## The Message
 
 #### **REVERTITE AD MUNDUM VESTRUM PROPRIUM**
 
@@ -2641,7 +2641,7 @@ Crenvalus has a distinct dislike of not being in control of a situation, and in 
 
 Though he has many weaknesses, Crenvalus was basically a good man who tried hard to preserve the honor of the covenant and the Order of Hermes. Anger comes quickly to him, however, and he has never practiced much restraint. He is also half-mad; though it
 
-### *The Ghosts*
+### The Ghosts
 
 The ghosts of three of the magi may be found in this area, either gathered together in the Burial Chamber or moving throughout the caverns. They are each trying to seize control of Calebais from the others while watching over their once mighty covenant's last great treasure, the Bell of Ibyn.
 
@@ -2662,7 +2662,7 @@ If he happens to be the "leader" when the characters arrive, he will feel it is 
 Uderzus believes Calebais failed because nobody but him was able to do anything productive, and he died early on during a surprise attack on his sanctum. He still has questions about the Sundering, and will not rest until they have been answered to his satisfaction. Firstly, he does not know the details of David's
 
 
-## *Granorda, Magister of Death*
+## Granorda, Magister of Death
 
 **Magic Might:** 45 (Mentem)
 
@@ -2736,7 +2736,7 @@ When they first enter this cavern, they interrupt a discussion (or battle) betwe
 
 
 
-## *Crenvalus, Magister of Control*
+## Crenvalus, Magister of Control
 
 **Magic Might:** 52 (Mentem)
 
@@ -2809,7 +2809,7 @@ or are simply not very attractive, or if you and the players just want to play a
 
 Crenvalus will attempt to possess the senior wizard of the group, his spirit rushing through the (hopefully) open mouth. If that fails, he will try to take over other wizards on subsequent rounds. If he succeeds, each round that character fails to regain control he will use his new body to cast spells, using up the character's Fatigue lev-
 
-# *Uderzus, Magister of Perception*
+# Uderzus, Magister of Perception
 
 **Magic Might:** 49 (Mentem)
 
@@ -2882,7 +2882,7 @@ Granorda, meanwhile, raises the water-logged corpses from the water (this does n
 - V. Unconscious or Incapacitated characters are likely to drown if they are not rescued immediately, as they will fall underwater, and the corpses will try to hold them down.
 - VI. Crenvalus will continue to try and possess magi, keeping them off-balance and using his powers whenever he has a firm hold.
 
-### *Corpses*
+### Corpses
 
 **Magic Might:** 0 (Corpus)
 
@@ -2918,7 +2918,7 @@ Getting the Bell out of the chamber and up the well to the outside world is a mo
 
 Once other magi learn that the characters have retrieved the Bell, their covenant may have many visitors who wish to see it or study it. Though it would probably be improper and seen as unreasonably greedy to ask for something in return for merely allowing a magus to look at it, asking for a minor sum of vis in exchange for a season of studying it is quite acceptable. If they actively spread word of their find, the characters and their covenant may receive Hermetic status and positive reputations among others in the Order.
 
-## *Options: The Ruins*
+## Options: The Ruins
 
 I. The characters might be able to convene a meeting of the council of Calebais, using Ferdina's ghostly chime or by
 
@@ -2927,7 +2927,7 @@ personally coaxing the spirits to gather. There are seven council members, which
 - II. The Hrools may be searching for a new god to lead them now that their old god has grown weak and lost most of her powers. Perhaps some of the Hrools have heard stories about Christianity and ask the characters to help them convert. If the characters use magic, the ermines may prostrate themselves and call out to the almighty characters for mercy, and some members of the tribe might gather their things and follow the characters when they leave Calebais, whether they are invited or not.
 - III. Perhaps Crenvalus is demon-plagued, and has been for a long time. In order to gain the power and dominance that he desired, he made a pact with this creature that lasted beyond his death, and it has gradually taken command of his will. This explains the dual nature of his personality more directly. If Crenvalus is laid to rest, the demon will crawl out of his heart and fly away, after making a short speech ("Pedifilers, mortifilers, villifiers, you! Curse your rapturements for murdering my useful worm! Expect my return, right soon, with flames to burn your pitiful fleshy skins!").
 
-## *The Diadems*
+## The Diadems
 
 The diadems are the C-shaped crowns made of gold wire, each with a green gemstone shaped like an eye worn at the forehead. The back of a diadem is open, and it naturally clasps any normal-sized head. They have specific powers of their own, but since they are mystically connected to the Bell, their powers are few until the Bell is mended. There were twenty-four of them in all, but many of them have been lost. Luckily, characters only *need* one, though the Bell will be more useful if they recover more.
 
@@ -2939,7 +2939,7 @@ I. Those who wear a diadem can see through any illusion cast by Mormulus, includ
 
 
 
-### *The Bell of Ibyn*
+### The Bell of Ibyn
 
 One of the more well-known magical artifacts in the Order of Hermes is the Bell of Ibyn. This is not so much because of its power (though it is formidable) or because of its strange origins, but rather because of the pride the magi of Calebais had in it. Older magi or students of Order of Hermes Lore will remember how magi of Calebais were known for boasting that their covenant was immune to attack because of their precious Bell. The characters will probably know of these stories and be eager to begin using their treasure. However, they will soon find that it is more difficult to use than they might think. In fact, it will have little effect at all until they can discover the key to unlock its powers.
 
@@ -2983,7 +2983,7 @@ Secondly, the characters must convince Ash that there is a good reason to visit 
 
 Finally, Ash must like and/or respect the characters. If they treated her particularly well in the first chapter, this requirement will not be hard to meet, so long as they continue to go out of their way to
 
-### *Characters*
+### Characters
 
 None of the characters in this chapter have been fully developed according to the rules of **Ars Magica**. This is by design, to encourage you to roleplay as much as possible, and to give you the freedom to use them however you think is best for the story. This is an opportunity for you and the players to develop characters through choice and desire, and thus you should find yourself using the dice and the rules for nothing more than
 
@@ -2996,17 +2996,17 @@ earn her favor. She expects good treatment as a member of the Order of Hermes, a
 
 If the magi can address all three of these points with Ash, she will agree to escort them to the convent when they are ready. It is probably a fair distance; perhaps about sixty miles from the abbey that the characters visited in the first chapter, though it can be anywhere if you would like there to be more distance between these two expeditions. After their long journey, the characters will arrive at the convent tired and anxious, and will unfortunately find a great disappointment waiting for them.
 
-# *The Convent*
+# The Convent
 
 Sitting high on a rocky hill overlooking the water below, the convent is a collection of whitewashed stone buildings surrounded by a high wall. The four-story church tower is the focus of the entire structure, and is the only building more than two stories high. In the surrounding area are gardens, orchards and fields. Short walls covered with vines separate the different crops. Nuns in pure white habits, twenty in all, work silently outside, and the whole setting is pastoral and picturesque.
 
-### *The White Sisters*
+### The White Sisters
 
 During the journey, Ash will tell the characters about the prioress and her domineering ways, and joke that only those outside of the Order need such authoritarian leadership. As they reach the outskirts, she will make sure that they know the name of the nun who gave her the letter (Sister Larine). Then, after making sure everything is in order and that they can find their way back, she asks for some traveling money and bids them farewell. She does not wish to be further involved; she stays at the nunnery often when traveling and would rather not be seen with the characters, just in case something goes wrong.
 
 As they approach, the nuns outside might see them from a distance and watch them curiously, and those in the courtyard will greet the visitors formally and send for the abbess. They will not be invited into the convent until after she has seen them and determined their business, so they may wait a few minutes outside the gate while the
 
-### *The Gift*
+### The Gift
 
 Remember that characters with The Gift have grave difficulties when dealing with normal humans. Without the Gentle Gift, magi will have a very hard time convincing the abbess to see them, and the nuns will eye them warily the whole time they remain. Wizards will also be at a great disadvantage in the tests that follow, for it will take an incredible show of virtue to convince Sister Hedwig to help them. As for characters with the Blatant Gift, it is doubtful that they would be allowed into the convent at all.
 
@@ -3020,7 +3020,7 @@ An aristocrat from birth, Hedwig now enjoys a position of respect similar to a b
 
 Hedwig is not the first abbess at the convent, but she is the first abbess under the Cistercian rule. Her guidance has seen the nuns
 
-### *Sister Hedwig, abbess*
+### Sister Hedwig, abbess
 
 **Characteristics:** Int +1, Per -1, Pre +1, Com +1, Str -3, Sta +1, Dex -2, Qik -2
 
@@ -3064,7 +3064,7 @@ Eventually, the abbess will ask for three days in which to consider the matter. 
 
 If they stay, Sister Hedwig will secretly arrange several tests for the characters over the course of the next few days. These tests are included as story hooks in the sections that follow. They are designed to offer them opportunities to be virtuous and to sin, so that she may observe how they truly act.
 
-### *Sister Palona, advocate*
+### Sister Palona, advocate
 
 **Characteristics:** Int +2, Per +2, Pre -3, Com +2, Str -3, Sta -3, Dex -2, Qik -2
 
@@ -3092,7 +3092,7 @@ Because of her holiness (many believe she will ascend directly to heaven when sh
 
 If this brief description of Alice does not impress them, remember that she has a divine magic resistance of 60. If any of the magi tries to cast a spell at her, she may find them later and tell
 
-## *Sister Alice, visionary Sister Malores, mute*
+## Sister Alice, visionary Sister Malores, mute
 
 **Characteristics:** Int 0, Per +2, Pre +3, Com +1, Str -1,
 
@@ -3141,7 +3141,7 @@ can. She cannot speak within the divine aura, but if she spends a month in a mag
 
 Nadaline was Sister Larine's closest friend, for they were very close all of her life at the convent. Nadaline was given to the convent soon after Larine joined, and they latched on to each other. There are many things about Larine that puzzled Nadaline, in particular her love of the sound of the church bell. Once she said that "the bell could hear her devotion," but did not elaborate. Nadaline refuses to answer questions about her past or Larine's, and becomes very angry if pressed about it, because she knows very little and misses her very much. She works hard and obeys her superiors. She generally dislikes the sisters who come from noble descent, as she feels they are incapable of hard work. She does not allow criticism in her kitchen, though in other places she is more meek and retiring.
 
-### *Sister Nadaline, cook*
+### Sister Nadaline, cook
 
 **Characteristics:** Int +1, Per +1, Pre -2, Com -2, Str +2, Sta +2, Dex +3, Qik -1
 
@@ -3153,13 +3153,13 @@ Nadaline was Sister Larine's closest friend, for they were very close all of her
 
 You should play through all three days of living at the convent in detail, to give the players a sense of what such pious and secluded life would be like, and perhaps allowing their characters to grow and change from the experience. The quiet and subtle nature of this chapter has remarkable power and strength if you take the time to develop it properly.
 
-## *Test: Magic*
+## Test: Magic
 
 If the abbess learns that the characters have been using sorcery on the convent grounds, she will be very upset and summon them to meet with her and her advisers again. This may evolve into a theological debate about the inherent evils of magic, which will demonstrate that Palona and Alice have opposing views. Nonetheless, Sister Hedwig will firmly ask the characters to refrain from such activities while they stay with them. Her poor opinion of them might be lessened a little if the characters clearly used their powers virtuously.
 
 After pondering this development, Sister Hedwig may decide to use it to test them further. She will arrange for the characters to be placed in positions similar to the conditions that caused them to use magic, and watched carefully to see if they do so again. She will also give them very hard work to do, such as digging up brambles or repairing the roof, to see if their magic has made them too lazy or proud to help.
 
-### *Daily Life*
+### Daily Life
 
 The rule that the Cistercian nuns follow is extraordinarily strict, even more so than the typical monastic oath. They do not speak except when there is clear need, they are supposed to travel in pairs or groups of three, even within the abbey walls, and they do not leave the convent. They own no property and dress in identical white habits without adornment. Their duties involve many hours of hard work each day, periodically interrupted by the services, in which they all gather to chant and worship. Each of these services takes about twenty minutes and is an essential part of monastic life; nuns may only miss them if they have been given particular dispensation by the abbess.
 
@@ -3168,7 +3168,7 @@ Every new day begins in the same way. The nuns are awakened in the middle of the
 
 In the morning, the nuns gather for Prime, the service named for the first hour of daylight, when the bells are rung to welcome the new day. This occurs usually at about 7:00. Guests will probably be awoken by the tolling of the bells, especially if they do not live near a monastery and are not used to hearing them ring the offices. After Prime, the nuns have a simple breakfast in the rectory, during which time a reader appointed by the abbess recites a devotional passage for the day, and then the nuns wash and attend to the necessities of nature before beginning household chores such as laundry, cleaning, or working in the kitchen.
 
-### *Test: Early Risers*
+### Test: Early Risers
 
 All of the nuns rise every morning for Matins and Lauds, and believe that keeping this rigorous schedule helps make them healthier and holier. While going to the office, if any of the nuns sees the characters up and about in the early hours engaged in prayer, study, walking or other wholesome activities, the abbess will hear of it and be impressed. She will not think less of her guests if they sleep all the way through Prime, but she will if she learns they have complained of being awoken by the bells.
 
@@ -3176,13 +3176,13 @@ The third hour (about 9:00) marks the ringing of the bells again and the nuns ga
 
 At noon the nuns chant Sext, the sixth hour, and then gather for a hearty meal, consisting of a pound of bread, and fruits and vegetables in season, but no meat. On cold days, this might be a warm, hearty soup, and there is often a choice of two dishes. Guests might be invited to lunch with the abbess, if she would like to keep an eye on them or ask how they are doing. As the nuns do not speak during meals, the room is silent except for the reading of more Scriptures and the shuffle of bowls, spoons, benches and feet.
 
-## *Test: Spying*
+## Test: Spying
 
 At each chapter meeting, the abbess will inform the sisters that she has not been convinced the characters are worthy of hearing Sister Larine's last message, and that she is not going to tell it to them. All the nuns know that when she makes up her mind, no amount of persuasion will change it. She will tell them this whether it is true that she doesn't intend to help them or not (though she is not, strictly speaking, lying; she will not be convinced until three days have passed, and she doesn't intend to tell the characters anything, for she actually has something to show them). This misinformation is a test to see if the characters are spying on her and the nuns, or if the nuns are communicating with them. She reasons that if they overhear this, or somehow convince one of the nuns to tell them, they will show their true colors or give up and leave of their own accord, neatly punishing themselves.
 
 After lunch the nuns rest briefly and engage in quiet, artistic activities in the afternoon, such as embroidery or copying devotional texts, further prayer, or meditation. Those who have been assigned unusual duties by the abbess will carry them out at this time. This sedentary stretch of the day is interrupted by Nones, named for the ninth hour, which is observed at about 15:00.
 
-## *Test: Gardening*
+## Test: Gardening
 
 While many of the nuns are resting and otherwise occupied, the characters might notice Sister Palona sneaking off to a distant corner of the compound. If they follow her without her noticing (and she is very alert and will be cautious), they will find she goes to tend a very small but beautiful flower garden. She cares for the greenery lovingly and with surprising tenderness, humming softly to herself. This may soften the characters towards the sour-faced and bitter woman, and the abbess will notice this and approve.
 
@@ -3191,13 +3191,13 @@ While many of the nuns are resting and otherwise occupied, the characters might 
 
 When all the work is done and the day is over, the bells ring for Vespers, and the nuns gather again to sing the service and herald the approach of evening. They then take a light supper while listening to more Bible readings, study, and gather one last time to sing the closing service, Compline. They then go to bed.
 
-### *Test: Curiosity*
+### Test: Curiosity
 
 In the late afternoon or early evening, a pretty young nun seeks out one of the male characters, probably a handsome grog or companion. She shyly asks him if he would like to help her gather grass for the refectory table. She is very curious what he will do when he is alone with her; having lived at the convent most of her life, she knows little of men and would like to know more. If the character behaves as a gentleman, this event will eventually be another positive mark for the troupe when the abbess finds out. However, if things get out of hand, it may ruin any chance of the characters ever impressing the nuns. This is such a perilous test that you might want to allow another character to see them go off together, so that other players can intervene or get help if the situation looks like it might end badly.
 
 By every day's end, the nuns have worked for about six hours, prayed together for about four hours, engaged in quiet contemplation and study for about eight hours, and slept for eight hours. While this routine may seem severe, it is very attractive to the nuns as an escape from the uncertainties of life in dangerous times. The convent offers food, shelter, education, and community, and also the chance to learn and develop spiritually. It is an extremely attractive medieval lifestyle, producing a flowering of deep and fulfilling devotion, and on the whole the nuns are quite content.
 
-### *Places in the Convent*
+### Places in the Convent
 
 The place where the nuns make their home is fairly typical for the middle ages. Most monasteries and nunneries were built to this plan, as this convent was originally a Benedictine house. It may seem large, but wealthy abbeys often support a number of lay brothers, men called *conversi*, who were not monks but vowed to serve and help with the labor. The nuns do not have any such help, and do all the work themselves.
 
@@ -3205,7 +3205,7 @@ The convent is built around a great square courtyard, called the cloister, which
 
 To the west is the *hospitum*, or guest house, where the characters might stay. There are four separate rooms, and plenty of space to accommodate a large group on narrow bunks. Water is heated for two guest washrooms. Farther south is the abbess's house and the parlor, accessible from the principal refectory, where guests eat.
 
-### *Test: Chores*
+### Test: Chores
 
 The cook, Sister Nadaline, asks (or perhaps orders) the characters to bring several baskets of bread from the bakery and a cask of wine from the storehouse. If they humbly assist her, or at least don't make much of a fuss about it, news of their charity will reach the abbess. Nadaline may press her luck, though, and then conscript the characters to help her in the kitchen for several hours. The abbess will not think well of her for doing this. She may also become suspicious of the characters if they don't complain, and decide to leave them alone for a day to see what they do when they are left aimless.
 
@@ -3214,13 +3214,13 @@ Sister Palona may spot the characters carrying the heavy barrel into the kitchen
 The south side of the cloister contains the common refectory and day-room, where the nuns take their meals. It is a long, vaulted chamber with pillars that direct the eye upward and inspire the nuns to contemplate the heavens while they sit. The kitchen lies between the two refectories, with easy access to both. Beyond are the gardens and vineyards on their gentle slope towards the river.
 
 
-### *Test: Malores*
+### Test: Malores
 
 The second night at the convent is the full moon, and the characters might be awakened by a quiet keening sound. Those who investigate discover the mute sister in the garden chanting in a strange whispering voice. She is clearly praying to the moon, which might strike characters as pagan worship. Sister Hedwig will not think well of the characters if they tell her about this, or spread word of these strange activities throughout the convent, as she regards it as divisive and unkind, and forces her to have Malores punished. She thinks this is cruel, because the voiceless sister cannot understand why what she is doing is wrong.
 
 Above the refectories is the dormitory, where the nuns sleep. Beds line the simple chamber, though there are also several private rooms for nuns who have been granted more privacy, or who are ill and need to sleep apart. There are two sets of stairs; one leads down to the common refectory, while another leads past the scriptorium to the south transept of the church.
 
-### *Test: Raphael*
+### Test: Raphael
 
 Staying with the nuns in secret is Raphael, a young squire once employed by the local baron who has taken sanctuary at the convent. He was a little too friendly with the baron's wife, and was furiously dismissed by his lord, who also challenged him to a fight of honor. Raphael fled the duel and hides in the stables fearing the baron's vengeance, and he has no idea what he will do once his thirty days end, when he will probably be hauled out forcefully by the baron's men. He is a skilled manservant, and good at music, but no one in the area would hire him now. One day he will inherit land, but he doesn't think he will live that long in his current situation. He will avoid magi, but he might show himself to a companion or grog, perhaps making light of his situation at first by making fun of them, "common ruffians, mingling with noble blood," and accidentally provoking a fight with his insensitivity. If the characters help him, Sister Hedwig will be pleased. If they hurt him too badly, it will also reflect badly on them.
 
@@ -3228,11 +3228,11 @@ On the east side of the cloister is the chapter house, where abbey business is t
 
 To the north is the church, built in the shape of the cross, with a long pillared nave leading east to the choir, where the nuns sit before the high altar, and two transepts making a north-south crossbeam. The common altar and pews fill the western half of the church. A great door in the northern transept leads to the outer courtyard, and allows access to the church without passing through the convent. Elegant pointed arches cap the ceilings, and give the windows a distinctly Gothic look that the Cistercians are just beginning to make famous.
 
-## *Test: Mass*
+## Test: Mass
 
 The priest, Father Martin, arrives at the convent on Sunday to give Mass. He is a dour, tired man in his fifties who gets along well with the nuns but does not like strangers. He will likely be dismayed at the guests, and may even spread ill word of them through the village if they do not mollify him. Yet if they want to impress the abbess, they must attend the service, and she will be particularly impressed if they visit confession. The father will assign them strict and tough penance for their sins.
 
-# *The Letter*
+# The Letter
 
 After three days have passed, if the characters have not embarrassed themselves too terribly, the abbess summons them to her again, but this time without Sister Palona and Sister Alice. By now, she has probably made up her mind, and she would like to give them an opportunity to explain themselves before she acts as she thinks best. Her opinion can still be swayed if the characters do particularly well or poorly at this interview, however.
 
@@ -3240,7 +3240,7 @@ Sister Hedwig will speak candidly with the characters about what happened during
 
 
 
-### *Sister Larine's Last Letter*
+### Sister Larine's Last Letter
 
 *Magi of Hermes:*
 
@@ -3274,7 +3274,7 @@ will inform them gravely that she is sorry, but she cannot help them, as they ar
 
 After this last event, if Sister Hedwig has decided to help the characters, she will stop them with a word and motion for them to follow her, leading them back through the refectory, around the cloister, and into the church. She kneels at the back of the nave, crosses herself, and murmurs a short prayer. Then she goes
 
-### *The Ritual*
+### The Ritual
 
 As the letter describes, the characters must perform an intensive magical ritual to bring forth the hidden powers of the Bell of Ibyn. This involves determining what traits the 24 symbols on the Bell represent, and finding characters to best represent each one. This may be the source of many interesting stories in the future, if the covenant does not have enough people or if they do not embody certain traits. The details of these traits are left to you to decide, based on what works best for your saga, but you might start with traits of the animals in the Veil or traits based on the titles of the magi on the council. You might use this hook to encourage players to design characters with traits that they otherwise would not consider playing, with the powerful incentive that if the characters do not embody their traits well enough, the Bell's powers will begin to fade.
 
@@ -3315,7 +3315,7 @@ Perhaps Sister Alice had a vision several months ago, and warned Sister Hedwig s
 
 If characters are failing at the tests, you can allow desperate players to find it with searching, but anyone who attacks the defenseless nuns or murders them to retrieve the prize should suffer dramatic consequences: besides being cursed by God, they will probably have to go into hiding as most of Mythic Europe (shocked nobility, an outraged Church, even the angry Order of Hermes) will pursue them. There are some things that go beyond the pale, and slaughtering innocent sisters is about as horrible as you can get. Warn the players of this if they seem set to pursue this course, as it could ruin the rest of their saga.
 
-# *Options: The Legacy*
+# Options: The Legacy
 
 I. The abbess asks the characters for help in combating the demands of a local baron concerning land and a village that were donated to the convent. He maintains the land is his, and has taken it away from the convent by force. They are fighting the situation politically, lobbying for support within the Church, but in the meantime the baron is vindictively abusing the folk who live there and overworking the fields. If the characters intervene on the convent's behalf, teaching the baron and his hirelings a lesson, Sister Hedwig will give them the letter. This option is a good choice if your troupe prefers combat as part of every story.
 
@@ -3330,7 +3330,7 @@ In the story of the broken covenant, the animal maga Ierimyra rescued a group of
 
 These Hrools are designed to act as interesting, unusual denizens of Calebais that take the place of goblins, kobolds, and other small humanoid creatures that typically inhabit a fantasy dungeon setting. However, unlike their counterparts, the Hrools are not simply creatures to be fought and killed, but rather unique adversaries and potential allies that you may be interested in studying, adopting, or even playing once the adventure has ended.
 
-### *Awakening Animals*
+### Awakening Animals
 
 To duplicate Ierimyra's work, you must first understand the Hermetic breakthrough that made her experiments possible. This will take at least a season of study, and require you to either uncover and comprehend Ierimyra's lab notes, bring a living Hrool back to your lab for magical investigation (the effect is level 15, or level 30 for an ermine Hrool, and you must study an ermine to learn how to invest magical powers), or seek out the original source of the breakthrough by tracking down the wizard or wizards who first taught it to Ierimyra (perhaps it was learned through initiation into deeper levels of the Bjornaer mystery cult). In any case, to create intelligent animals, you must investigate beyond the concept and theory to learn the specifics of the magical method that follows.
 
@@ -3371,7 +3371,7 @@ Most unfortunately, the ritual doesn't always "take." You may find after breedin
 
 that magic is not always predictable, and some magi have devoted years of study into awakening only to discover that their *magnum opus* is a temporary thing, an illusion of achievement with no lasting effect. This may happen because of some weakness of the animal, or perhaps because the wizard's own spirit is flawed.
 
-### *Awakened Behavior*
+### Awakened Behavior
 
 An intelligent animal, which Hermetic scholars might call an *animula* (ah-nee-MOO-lah, "little soul"), requires a incredible amount of effort to raise, very similar to sacrifice involved in taking an apprentice or having a baby. Once an animal has been awakened, it will go through stages similar to those of a newborn child; at first it may be in shock, and slowly become more aware of itself and its new environment, eventually interacting with and learning from its parent. As part of the awakening process, the animal gains the power of speech, though it may take some time for it to learn how to use it.
 
@@ -3391,7 +3391,7 @@ Regardless of their opinion on these philosophical matters, many of the magi who
 
 Note that familiars have many similarities to *animula*, as they are also intelligent, though they cannot pass on their intelligence to their offspring and cannot be given invested powers in the same way as awakened animals. However, these same ideas may be just as useful for developing stories about wizards' animal companions.
 
-### *Awakened Characters*
+### Awakened Characters
 
 Since *animulae* can have human characteristics, Abilities, Virtues and Flaws, and other attributes, it is possible to play one as a character, as long as your troupe approves. They are probably best suited to companions, as this emphasizes their uniqueness, though like Ierimyra an Animal-oriented magus might choose to awaken a *turba* of animal grogs, despite the difficulties they would have interacting with others. If you intend to play such characters, design them as normal, and assume any natural advantages you gain due to size or rarity are compensated by the increased difficulties you will face avoiding and interacting with others, and with finding other magical animals like yourself. Here follows several Virtues and Flaws appropriate for an awakened animal character, including the *Animula* Status Flaw.
 

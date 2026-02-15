@@ -1,7 +1,7 @@
 
-### *Societates*
+### Societates
 
-# *Credits*
+# Credits
 
 **autHors:** Erik Dahl (Columbae, Rusticani), Timothy Ferguson (Jerbiton), Andrew Gronosky (Flambeau), John Post (Donatores, Pharmacoepians, Seirenes), Mark Shirley (Tytalus, Ex Miscellanea, Pralicians, Sahirs), Nick Simmonds (Cult of Orpheus)
 
@@ -29,9 +29,9 @@ Copyright 2007 Trident, Inc. d/b/a Atlas Games. All rights reserved. Reproductio
 
 > **Saint Paul, Minnesota • info@atlas-games.com Digital Edition Version 1.0 • July 2009**
 
-### *Societates*
+### Societates
 
-# *Table of Contents*
+# Table of Contents
 
 | Introduction                              | 5<br>House Acclaim 31                           |   | Electing the Primus51                              |  |
 |-------------------------------------------|-------------------------------------------------|---|----------------------------------------------------|--|
@@ -288,9 +288,9 @@ Copyright 2007 Trident, Inc. d/b/a Atlas Games. All rights reserved. Reproductio
 
 *Minor Hermetic Virtue: Orphic Magic..122 Major Hermetic Flaw: Restriction (True Feeling).................................................122*
 
-### *Societates*
+### Societates
 
-# *Introduction*
+# Introduction
 
 Welcome to *Houses of Hermes: Societates*, the final volume in the *Houses of Hermes* series, covering Houses Flambeau, Jerbiton, Tytalus, and Ex Miscellanea.
 
@@ -302,7 +302,7 @@ House Tytalus thrive on, and admire, conflict. The main conflict they see in the
 
 House Ex Miscellanea gathers together magi who do not fit into any other House, normally due to ties with a pre-Hermetic tradition. The House claims to embody unity in diversity, but the emphasis is definitely on the diversity. This book provides eight detailed examples of traditions within the House, complete with rules for their non-Hermetic abilities.
 
-### *About the Authors*
+### About the Authors
 
 **Erik Dahl** is neither Welsh nor particularly crafty, but did experiment with drawing mystic symbols around his office for inspiration. He and his very patient wife live in Davis, California. Erik's work on this book is dedicated to his very columbine and mechanical friend Mark Thomas, who possesses all the best qualities of these two traditions, and who first introduced Erik to **Ars Magica** mumbleteen years ago.
 
@@ -318,9 +318,9 @@ House Ex Miscellanea gathers together magi who do not fit into any other House, 
 
 **Nick Simmonds** is a computer technician in Indianapolis, Indiana, and a daredevil adventurer in the confines of his own head. He splits his gaming time between running games and desperately trying to convince someone else to run so that he can play for once. Nick would like to dedicate his portion of this book to his dog Winifred, who may not have helped him write it by jumping on the keyboard, but who certainly thought she did.
 
-### *Chapter One*
+### Chapter One
 
-# *House Flambeau*
+# House Flambeau
 
 *Of.what.value.is.magic.if.we.do.not.use.it?.What. good. is. a. wizard. who. serves. only. himself?. Power,. itself,.is.nothing..The.true.measure.of.a.magus.is.not. how.much.power.he.wields,.but.the.worthiness.of.the. cause.in.which.he.wields.it.*
 
@@ -334,7 +334,7 @@ When most wizards think of House Flambeau, they think of fi re magic. Flambeau t
 
 In their hearts, followers of Flambeau believe that magic is meant to be used. They admire achievement above all else, though each maga within the House follows her own path to personal glory. This could be anything from fi ghting perceived enemies of the Order, to leading a
 
-### *Key Facts*
+### Key Facts
 
 **PoPulation:.** 114 (19 in the Provençal Tribunal)
 
@@ -351,7 +351,7 @@ In their hearts, followers of Flambeau believe that magic is meant to be used. T
 
 Hermetic political movement, to writing great books to enlighten and inspire future generations of magi. Theirs is a vigorous and active House, deeply involved in all aspects of Hermetic society.
 
-# *History*
+# History
 
 Flambeau the Founder is a rather obscure fi gure. He left few writings, partly because he learned letters late in his life and was never comfortable with a quill in his hand. What the Order knows about him comes from the memoirs of his fi lii, and the few surviving letters he dictated to them.
 
@@ -360,9 +360,9 @@ Details such as Flambeau's exact age, birthplace, and even his Christian name ar
 The peasants brought the ailing youth to a local hermit who was known for his healing skills. This was Laberius, a wizard whose magic descended from the ancient
 
 
-#### *Societates*
+#### Societates
 
-### *Famous Figures*
+### Famous Figures
 
 **Apromor:** Flambeau's eldest apprentice and first Primus of the House. Apromor led House Flambeau's efforts to actively recruit pagan magicians. He eventually turned away from fire magic to focus instead on spells of destruction.
 
@@ -386,7 +386,7 @@ Laberius's apprentice swore to avenge his master. He tried to find a member of L
 
 Flambeau managed to hunt down three of the sahirs who had slain Laberius, but the others eluded him. After fighting a number of Infernal jinn, Flambeau became convinced that all sahirs were demon-summoners, and he attacked them whenever he found them. He had slain as many as a dozen Moorish sorcerers and become one of the most feared wizards in Mythic Europe by the time Trianoma approached him with an offer to join the Order.
 
-### *Flambeau and the Early Order*
+### Flambeau and the Early Order
 
 At first, Flambeau was skeptical about the idea of an order of magi. He had a deep distrust for wizards of all kinds, even members of his own tradition, and did not believe Trianoma's alliance of magi could last. After Trianoma demonstrated to him the efficacy of the Parma Magica against hostile spells, Flambeau realized he would be at a severe disadvantage if he did not learn its secret. He agreed to travel to Durenmar and listen to what Bonisagus and the other Founders had to say.
 
@@ -397,7 +397,7 @@ before he met any wizards at Durenmar. She told him it would protect him against
 
 Like all of the Founders, Flambeau made some contributions to Hermetic theory. His accomplishment of having invented a single, original spell shows that he had more talent in the laboratory than his violent reputation might suggest. Still, his contributions were modest compared to those of some other Founders. Flambeau was more interested in applying Bonisagus's theory than in extending it. He soon invented many new spells, greatly expanding his personal repertoire. Later
 
-### *Join or Die*
+### Join or Die
 
 Flambeau advocated that all wizards in Christendom be brought into the Order – by force, if necessary. Not all of the Founders agreed: Guernicus insisted that membership in the Order should be strictly voluntary. Flambeau pointed out that a wizard who refused to swear the Oath was refusing to make peace with the Order and should be treated as an enemy.
 
@@ -417,7 +417,7 @@ When the Order was young and numbered only a few dozen magi, there appeared to b
 
 Together, Flambeau and his followers founded the covenant of Val-Negra in the Pyrenees, a location chosen for its strategic value against the sahirs of Moorish Iberia. Over time, this strength of its location became less important to the Founder as he shifted his efforts away from fighting the sahirs and toward helping to build and strengthen the Order.
 
-### *The Controversy over Wizard's War*
+### The Controversy over Wizard's War
 
 *This Oath protects our safety, but who will defend our honor?*
 
@@ -439,7 +439,7 @@ Flambeau envisioned Wizard's War as a kind of trial by combat; he expected wizar
 
 Flambeau himself never actually resorted to Wizard's War. His sworn enemies, the sahirs, did not join the Order until more than a century after his death (see Chapter 4: House Ex Miscellanea, Hermetic Sahirs).
 
-### *The Second Generation*
+### The Second Generation
 
 Flambeau's eldest apprentice was a Basque boy he named Michel in honor of the archangel Michael. Flambeau secured the best tutors he could find to teach the boy Latin and the liberal arts. He also made it a point to give his apprentice a firm and balanced grounding in the Hermetic Arts.
 
@@ -447,7 +447,7 @@ Michel accompanied Flambeau throughout Mythic Europe and learned the art of dipl
 
 The manner in which Flambeau trained his second apprentice seems to have been a reaction to the disappointment he felt about Apromor. She was a Frankish girl whom he named Elaine. Flambeau kept a tighter control over her education and training than he had with Apromor (though he did rely on tutors
 
-### *Elaine's Writings*
+### Elaine's Writings
 
 Elaine wrote several books that are widely read and copied throughout her House. The originals were kept at the library of Val-Negra, but have been lost since that covenant sank deep into Winter. There could still be undiscovered manuscripts of hers, moldering in some forgotten chest at Val-Negra. The Great Library at Durenmar has excellent copies of her surviving works:
 
@@ -465,7 +465,7 @@ to teach her Latin and writing). He made sure she was exposed to the Church's mo
 
 Elaine trained four apprentices and eventually became an Archmage. She was never very active politically, but her influence on the House was nonetheless farreaching: she trained her apprentices to share Flambeau's sense of honor and his deep commitment to serving the Order. Elaine is also credited as the first intellectual leader within House Flambeau. Her insightful writings on magic theory and philosophy show that Flambeau magi can be interested in more than simply blasting things with fire spells.
 
-### *The Founder's End*
+### The Founder's End
 
 Flambeau's Arts were never strong outside of his area of specialty. Due to a weak Longevity Ritual, the Founder had grown old and frail by the year 820. One morning in the spring of that year he left Val-Negra alone. Where he went after that is unknown.
 
@@ -474,7 +474,7 @@ Some magi, including Apromor, believed Flambeau sought an encounter with the sah
 Other magi believe that Flambeau retired from magic and joined a monastery to live out his final years in quiet devotion to the Lord. Flambeau was a Christian throughout his life: zealous in his youth, more pious and contemplative in his later years. Many
 
 
-### *The Lost Talisman of the Founder*
+### The Lost Talisman of the Founder
 
 Flambeau's talisman was called Fireheart: an oval-cut, flawless fire opal the size of a walnut. When he first enchanted it, he affixed it to the end of a staff, but in later years he had it re-set and wore it as a pendant. Whatever the fate of the Founder, his talisman has never been found.
 
@@ -486,7 +486,7 @@ Since Flambeau disappeared shortly after leaving Val-Negra, his talisman is thou
 
 who knew him, including his filia Elaine, believed this version of the story.
 
-### *The House Under Apromor*
+### The House Under Apromor
 
 Apromor led House Flambeau along a decidedly different course from that which his pater had set. Apromor was an astute diplomat and strategist. He believed that the Order of Hermes was already firmly established and the need to defend it from external threats was diminishing with time. On the other hand, he regarded the consolidation of power within Houses Tremere and Tytalus as a sign of internal rivalries emerging. He made strong moves to strengthen his own House against political competition within the Order.
 
@@ -496,7 +496,7 @@ A number of Flambeau magi traced their magical lineage back to the ancient Cult 
 
 Apromor's other major deviation from his pater's practices was in the use of the magical Arts. Flambeau had originally trained Apromor to fight using fire magic, but in the middle of his career, Apromor turned away from that approach. Unlike his pater, Apromor had been trained in Hermetic theory from the beginning and, by all accounts, had a much broader knowledge of the magical Arts. He was never as powerful with fire magic as the Founder himself, so over time he began experimenting with other forms of magical attack. He settled on Perdo as his favorite Technique. Apromor described his new fighting style as more "subtle" than Flambeau's, by which he meant that it was both more precise and less obtrusive.
 
-### *The Schism War*
+### The Schism War
 
 Members of House Flambeau generally believe the Schism War was justified and necessary. Descendants of magi who fought in the war usually regard their ancestors' actions as heroic. They tend to overlook the role their own House played in the lawlessness leading up to the war.
 
@@ -511,7 +511,7 @@ Until Entisimon threw his weight into the conflict, there had been voices within
 
 a side in the conflict, the voices of reason within House Flambeau were shouted down. At least one magus who persisted too long in trying to soothe the conflict was slain in a Wizard's War by a fellow Flambeau magus who considered him an enemy collaborator.
 
-### *The Rise of the Milites*
+### The Rise of the Milites
 
 Although House Flambeau enjoyed early success in the Schism War, the enemy quickly organized themselves and began to inflict substantial losses. House Flambeau simply lacked the discipline, command structure, and logistical capacity to wage a full-scale war. Realizing this, some of its magi allied themselves with covenants of House Tremere, essentially placing themselves under the command of Tremere leaders.
 
@@ -521,7 +521,7 @@ The milites usually fought in teams of at least three or four wizards, accompani
 
 When Primus Entisimon tried to implement a grand strategy for the Schism War, the milites freely disregarded his plans, conducting the war from the front lines as they thought best. They emerged from the Schism War with almost a quarter of the House's members and have been gradually gaining numbers and influence ever since.
 
-### *The Normandy Crisis*
+### The Normandy Crisis
 
 After House Diedne was finally defeated, magi turned their attention to the magical sites and vis sources formerly owned by Diedne covenants. There had been Diedne covenants throughout Mythic Europe, but they were particularly plentiful (and rich) in Brittany.
 
@@ -533,7 +533,7 @@ The Normandy Tribunal was unable to contain the conflict. The situation in Britt
 
 In the end, it was House Flambeau who brought an end to the conflict. Led by the milites, members of the House insisted on the restoration of law and order. They brought the violent members of their own House to heel and, at the Grand Tribunal of 1063, negotiated a truce. Special Tribunals were held to divide the disputed territory. The Flambeau Primus Entisimon, who had been encouraging the conflict, was forced to resign in disgrace.
 
-# *House Flambeau in 1220*
+# House Flambeau in 1220
 
 House Flambeau has a very loose internal organization. Although there is no formal hierarchy and there are no House offices other than that of Primus, there is a loose pecking order based on individual prestige. Flambeau magi place great esteem on practical ability: those who make significant achievements gain respect and status in the House. On the other hand, magi who accomplish little or display a reluctance to act can lose status. The most respected members of the House are usually middle-aged magi who have many victories and accomplishments to their credit, but remain active and involved in Hermetic affairs.
 
@@ -542,7 +542,7 @@ To reflect the system of prestige within House Flambeau, the Rules section of th
 House Flambeau tries to hold frequent meetings. It is held together mainly by *esprit de corps,* so meetings are considered important to the House's cohesiveness. Most House gatherings are social occasions. Flambeau magi are fond of telling tales over tankards of ale, debating about their favorite Arts or combat tactics, and holding the occasional friendly certamen. Increasingly often, Flambeau gatherings include some organized, combat-related activity such as a hunt or tournament, which further builds fellowship and helps the magi hone their fighting skills.
 
 
-### *House Culture*
+### House Culture
 
 House Flambeau is a diverse group of magi. They come from a variety of magical traditions, including magi who have transferred in from other Houses. While each member of the House has a unique outlook, it is possible to generalize about the common culture that has emerged.
 
@@ -556,7 +556,7 @@ Partly because of their independent streak, Flambeau magi can be fiercely compet
 
 Another legacy of the Founder is a commitment to service. Flambeau spoke often of the responsibility magi have to use The Gift in some worthy cause. In their zeal to carry out this directive, members of House Flambeau have a reputation for sometimes exceeding the boundaries of the Code. For instance, some of them are active in the Crusades and *Reconquista*, the Code's clause against mundane interference notwithstanding. The House's independent spirit leads many to secretly admire the maverick wizards who are willing to transgress the Code to do what they think is right. At the same time, House Flambeau is known for its readiness to aid the Quaesitores in trying and (especially) punishing lawbreakers. Conflicting agendas among the House's members often bring them into conflict with one another.
 
-### *The Primus*
+### The Primus
 
 Whenever the position of Primus becomes vacant, members of House Flambeau from all across Mythic Europe gather at the domus magna to elect a new one. Magi who cannot attend are allowed to vote by proxy. The election process is tumultuous and disorganized, and is sometimes described by attendees as a "bragging tournament." Prominent Flambeau magi proclaim their candidacy and make blustering speeches about their magnificent accomplishments (which qualify them for leadership), and their glorious plans for the House's future. The House Quaesitor presides over the meeting and accepts motions from the floor. To maintain a minimum of order, the Quaesitor forbids certamen between candidates. House members may move for a vote to eliminate any candidate after all candidates have had a chance to speak, but such motions rarely pass on the first attempt. Speeches, debates, motions, and occasional voting continue, sometimes over several days, until a final winner emerges.
 
@@ -580,13 +580,13 @@ The Primus knows that reforming House Flambeau must be done gradually or the Hou
 
 Garus has implemented a number of reforms aimed at strengthening House unity. Before his tenure, the House tournament was held only during Tribunal years. Garus increased the frequency to every four years (there will be a tournament in 1220). The tournament helps build fellowship; additionally, the opening ceremonies provide with him a convenient bully pulpit from which to lecture about his vision of the House's future. Another of Garus's reforms has been to codify the milites' idea of chivalry in written form. Swearing to the milites' code of conduct is strictly voluntary, but Garus encourages young magi to do so. He has also introduced more formal bylaws for House meetings, which met with stiff opposition at first. Magi soon realized they made the meetings more streamlined and therefore shorter; after this, the new rules enjoyed widespread support.
 
-### *Domus Magna*
+### Domus Magna
 
 The original domus magna of House Flambeau was Val-Negra, a covenant on the Spanish side of the Pyrenees mountains. During the Schism War, the Primus Entisimon found that Val-Negra's remote location made it unsuitable as a headquarters, so he moved his command to the covenant of Castra Solis. His successor officially moved the House's headquarters to the new site; there are rumors that neo-Roman elements within the House had a hand in the decision to move the domus magna.
 
 Castra Solis was founded by Kaeso, a member of the Roman Cult of Mithras
 
-### *The Horn of the Champions*
+### The Horn of the Champions
 
 Castra Solis has a magical horn that can summon senior Flambeau magi from anywhere in Mythic Europe. The horn is kept by a magus known as the castellan. Magi who volunteer as defenders provide the castellan with a fixed Arcane Connection to themselves. As a gesture of trust and respect, the castellan gives each volunteer an Arcane Connection to himself in exchange. The Horn of Champions is an invested device with the following effects, each of which is activated by sounding a different note on the horn.
 
@@ -621,7 +621,7 @@ Castra Solis avoids building a large fortress for another reason: it is located 
 The covenant has many guest rooms and there are a couple of guest houses in the nearby village. Even so, there is not enough space to accommodate all the magi in House Flambeau, let alone their apprentices, guards, and servants. A large, empty field near the covenant is used for tournaments and other House events. During major events, visitors pitch their tents in the field, which is large enough for
 
 
-### *The Grogs of Castra Solis*
+### The Grogs of Castra Solis
 
 Castra Solis keeps a small turb of grogs in order to maintain a low profile, but they are among the finest, best-trained, and best-led warriors in the Order. As a home to several senior Flambeau magi, the covenant takes pride in providing the best warriors to assist its members in their dangerous missions.
 
@@ -639,7 +639,7 @@ The library of Castra Solis has an impressive collection of books on combat magi
 
 Castra Solis has a relatively weak magical aura — only level 3. The aura is stronger in the sacred cave of Mithras, which is connected to the covenant's main house by a secret stairway. The exact properties of that cave, and the ways the residents of Castra Solis use it, are a covenant secret.
 
-### *Joining House Flambeau*
+### Joining House Flambeau
 
 The procedure for joining House Flambeau is the same for apprentices as it is for magi coming from other Houses. If the candidate is already a magus from another House, he must forsake his membership in that House before actually entering House Flambeau (although usually such candidates only leave their original House after passing House Flambeau's Gauntlet).
 
@@ -658,7 +658,7 @@ Since the days of the Founder, Flambeau magi have held a public initiation cerem
 
 House. The new magus swears or reaffirms the Hermetic Oath before an official (the Primus, a Quaesitor, or a highly-respected magus), who then taps him on the shoulder with a wand or staff and bestows his voting sigil. Sometimes the new magus's parens presents him with a gift at the conclusion of the ceremony.
 
-### *Societas Flambonis: The Milites*
+### Societas Flambonis: The Milites
 
 The group of magi calling themselves the milites (singular, "miles") came to prominence during the Schism War, though they trace their origins back to the earliest days of the House. They see themselves as the Hermetic equivalent of mundane knights, serving similar roles in both a military and a social sense. They are a political movement within House Flambeau, seeking to spread their values and practices.
 
@@ -670,7 +670,7 @@ The milites seek to use their power justly and to fight with honor. They tend to
 
 The milites pledge fealty to the Order as a whole, which is usually taken to mean the Grand Tribunal. While the Primus of Bonisagus is the overall leader of the Grand Tribunal and hence the Order, the milites see the Primus of their own House as their immediate superior. Thus, they regard their
 
-### *The Code of Garus*
+### The Code of Garus
 
 The concept of chivalry has evolved throughout the history of Mythic Europe: knighthood in 1220 is not the same as it was in the days of Charlemagne. Mundanes in different lands have different ideas about what the ideal knight is like. So, too, have ideas of chivalry differed across House Flambeau. One of the achievements of the Primus Garus has been to bring the milites to a consensus on the code of conduct they should uphold. His code is loosely based on that put forth by Charlemagne for his knights. Already, magi are calling it the Code of Garus. It reads:
 
@@ -702,7 +702,7 @@ The concept of chivalry has evolved throughout the history of Mythic Europe: kni
 
 Publicly swearing to this code grants a new Story Flaw (described later in this chapter). Actually taking it seriously may count as a (separate) Personality Flaw, such as Higher Purpose or Dutybound, depending on the character's attitude toward the oath.
 
-### *Values of the Milites*
+### Values of the Milites
 
 The milites draw inspiration from mundane ideas of chivalry. Concepts of chivalry varied somewhat at different times and locations in historical Europe. Magi of House Flambeau have adapted early ideas of chivalry to fit Hermetic society, but they have not necessarily kept up with how chivalry has evolved in the mundane world.
 
@@ -732,13 +732,13 @@ As a political movement, the milites seek to get more members of their House to 
 
 Not everyone supports the milites' goals. Some magi are suspicious of the movement's authoritarian nature and suspect the milites of scheming to take over House Flambeau. Others chafe at the milites' narrow definition of honor and resent being judged by the same standards mundanes use among themselves.
 
-### *Societas Flambonis: The Cult of Mercury*
+### Societas Flambonis: The Cult of Mercury
 
 When the Founders began to invite others to join the Order, Mercere's son Priamitus sought out hedge wizards who believed that their magic came from the Roman priests of the Cult of Mercury the same group from which the Order of Hermes took its name. These Mercurians (as they called themselves) still knew some of the secrets of Mercurian magic, including *Wizard's Communion*, but had lost all but a few of the ceremonial spells associated with their tradition. At Apromor's invitation, most of them joined House Flambeau, where they are still most represented. Through Priamitus they have always had very close ties to House Mercere, and they welcome any magi who wish to join their group.
 
 Mercurians believe that the gods of ancient Rome and Greece are mechanisms of nature with a magical aspect. When they speak of Venus's influence, they are
 
-### *Ancient Mercurians*
+### Ancient Mercurians
 
 According to the stories that Priamitus collected from the wizards who became the Hermetic Cult of Mercury, there were temples to Mercury in ancient Rome, but unlike other priests, the Mercurians were never exclusively associated with the worship of their namesake. Mercury was seen as a symbol of commerce between the spirit world and the living world, and because of their connection to him, Mercurians were said to be able to communicate with the gods and other denizens of the spirit world more directly. In other words, they each had the power to work magic, and with it they could affect the aspects of nature that were represented by different gods or goddesses. Thus, a Mercurian priest would almost always be associated with another temple, and would use his magic to cause the will of his patron god, as he interpreted it, to become manifest.
 
@@ -755,7 +755,7 @@ A Mercurian magus is called a **flamen** ("priest"). The activities of such magi
 Mercurian rites have had great influence on the customs of the Order of Hermes. For example, many covenants cast their *Aegis of the Hearth* on the eve of the winter solstice, when Mercurians celebrate the festival of Saturnalia, and so many of the traditions associated with it include Mercurian practices, such as everyone walking the boundary together. At Tribunal, the flamines often perform an invocation or a blessing before the event, and fulfill other duties such as leading Hermetic naming ceremonies, witnessing oaths, or conducting funereal rites.
 
 
-### *Mercurian Characters*
+### Mercurian Characters
 
 The following Virtues and Flaws are suggested as especially appropriate for Mercurian characters, and players should feel free to choose as many or as few of them as they feel suit the character.
 
@@ -772,13 +772,13 @@ Within House Flambeau, the flamines and other Mercurians tend to emphasize gods 
 Other Hermetic groups are said to have an interest in Roman ceremonies and culture, such as the Mystery Cult called the Neo-Mercurians (see *The Mysteries*, page 114), or the holy societas Sol Invicti (see *The Divine*, page 71). Many believe that they are somehow related, so that a magus who proves himself in the Cult of Mercury might be invited to join one of the others.
 
 
-### *Societas Flambonis: The Mithraians*
+### Societas Flambonis: The Mithraians
 
 Kaeso was a hedge wizard who belonged to Flambeau's ancestral tradition of Mithras priests. Apromor recruited him into the Order, so he was nominally Apromor's apprentice. He brought together three other magicians descended from the Cult of Mithras, all of whom eventually joined House Flambeau. In addition to sharing common magical powers, these magi shared a philosophy of promoting justice and harmony and of using their magic to battle the forces of evil in the world. They worked together to learn Hermetic magic, then helped one another teach Bonisagus's Arts to their apprentices. They founded the covenant of Castra Solis south of Bordeaux, over the site of a cave that had been sacred to the Cult of Mithras during Roman times. They then set about collecting the surviving fragments of the ancient cult.
 
 Reconstructing the Cult of Mithras was more difficult than Priamatus of Mercere's
 
-### *Mithraic Characters*
+### Mithraic Characters
 
 To create a character belonging to the Mithraic tradition within House Flambeau, choose some Virtues and Flaws from the list below. Since the ancient Cult of Mithras did not survive intact, not every character with Mithraic heritage possesses all, or even most, of these abilities. If you are using the Legion of Mithras from *The Mysteries Revised Edition* (or a similar group of your own invention) in your saga, then that Mystery Cult is open to characters from any magical lineage. Descent from the Mithraic lineage in House Flambeau does not imply the character is more likely to be accepted into the Legion than anyone else. Since it is a Mystery Cult, the Legion of Mithras can teach additional powers to characters who undergo Initiation.
 
@@ -791,7 +791,7 @@ job of re-discovering the Cult of Mercury. The Cult of Mercury was part of the R
 Magi descended from the ancient priesthood of Mithras do not always actually worship the pagan god (at least not publicly), but they do tend to share
 
 
-### *The Cult of Mithras*
+### The Cult of Mithras
 
 The Roman cult of Mithras was a mystery cult that was popular with the legions in the latter days of the pagan empire. Mithras was a god of Persian origin; his cult worshiped him as the savior of Creation.
 
@@ -809,7 +809,7 @@ of initiation, representing increasing levels of commitment to the god's service
 
 In some ways, the Cult of Mithras resembles another late Roman cult, that of Sol Invictus (see *Realms of Power: the Divine*, page 70). Both cults worshiped sun gods and both were popular with the Roman legions. There seems to have been a relationship between the two deities. An important difference is that Sol Invictus held public rites, and indeed became the state religion of the Roman Empire under Aurelian. The Cult of Mithras met in private, perhaps in secret, and its spirituality seems to have been more personal.
 
-### *Flambeau Concepts*
+### Flambeau Concepts
 
 As the self-styled knights of the Order, magi of House Flambeau are active in all manner of Hermetic affairs. The following are some ideas for both player and nonplayer character concepts.
 
@@ -832,7 +832,7 @@ Some magi in House Flambeau believe the Order still faces significant threats fr
 
 House Flambeau has a long history of fighting against the Order's enemies, both real and imagined. Members of the House are active in both the *Reconquista*
 
-#### *Societates*
+#### Societates
 
 and the Crusades in the Holy Land. While the Code prohibits magi from interfering in mundane affairs, non-Hermetic wizards generally lack similar restrictions. Fighting against hostile wizards who happen to be accompanied by mundanes falls into a gray area of Hermetic Law. Flambeau magi who fight in such battles often claim that they were really fighting against enemy wizards, and any mundane casualties were simply the wizards' minions.
 
@@ -889,7 +889,7 @@ Regardless of the Primus's political objectives, House Flambeau generally favors
 
 Apart from a shared interest in leaving legal room for their various activities, members of the House have varying, sometimes conflicting, political goals. Individual Flambeau magi can be influential within their home Tribunals, but the House as a whole tends to lack political clout because of its lack of consensus. The political objectives of a Flambeau magus can be nearly anything; here are some possible examples:
 
-#### *Houses of Hermes*
+#### Houses of Hermes
 
 - Persuading the Order to take seriously a potential threat such as the rumored Order of Odin, or putative Order of Suleiman •
 - Trying to build military alliances or defensive pacts among covenants, especially in border Tribunals where threats appear more common •
@@ -917,7 +917,7 @@ Some outlaw magi are villains who rob and bully those weaker than themselves. Ot
 
 Robber-magi usually prefer magic that is not readily apparent, so their victims can't identify them as wizards. They often fight according to the School of Ramius because its tactics are less obtrusive. Rather than using spells of attack, cunning outlaws prefer to use magic for reconnaissance, defense, and evasion.
 
-# *Flambeau Tournaments*
+# Flambeau Tournaments
 
 House Flambeau has held organized tournaments since the years following the Schism War. The major tournament is a regular competition held at Castra Solis, which lasts for five days surrounding the summer solstice of every leap year (the
 
@@ -929,17 +929,17 @@ most recent tournaments were in 1216 and 1220). Other tournaments are sometimes 
 
 House Flambeau's tournaments are not exclusive: any member of the Order is welcome to compete. Tournaments usually draw a number of competitors from Houses Tytalus and Tremere. Part of the way tournaments build fellowship is by giving Flambeau magi a chance to cheer for their own House.
 
-### *Certamen*
+### Certamen
 
 The staple event of the wizards' tournament is certamen. The competition is usually organized as a single-elimination tournament. In each round of the tournament, a pair of magi are matched together. The winner of two out of three duels within the match proceeds to the next round. Contestants are allowed 15 minutes of rest between duels, and at least one hour from one match to the next. A panel of officials (usually, magi who do not intend to compete) uses a seeding process to pre-arrange the matches into brackets, so the strongest competitors (in the officials' opinion) do not face one another until the final round of the tournament.
 
 The normal rules of certamen are altered for tournament purposes. The youngest magus chooses the Form, and the oldest the Technique (it is unusual for contestants to be exactly the same Hermetic age; such situations are decided by a coin toss). Competitors may veto their opponents' choice of Art as usual, but may not use a veto in both the first and the second duel of the match. This way, each contestant is guaranteed to get his first choice of Art at least once. Although the Peripheral Code allows the winner of a certamen to cast a spell on the loser, the rules of the tournament strictly forbid it.
 
-### *Dimicatio*
+### Dimicatio
 
 Another popular tournament event is **dimicatio**, meaning "contest" or "battle."
 
-### *Forceless Casting*
+### Forceless Casting
 
 A magus can deliberately ensure the Penetration Total of a spell does not exceed 0. In essence, the magus casts the spell with no more effort than is required to avoid fatigue, and opts not to use his Penetration skill. As most magi have at least a Magic Resistance of 0, the casting magus can thereby ensure his spell will not affect a target who is also a magus, provided he does not botch.
 
@@ -951,7 +951,7 @@ Needless to say, this contest carries substantial dangers. Aimed spells that byp
 
 Because dimicatio has great potential for accidents or foul play, some Quaesitors want to outlaw the contest. This only increases its appeal to most Flambeau magi. The grand tournament at Castra Solis always includes a dimicatio event; any magus who wins at least two matches in the certamen event is qualified to enter, and the dimicatio event has a separate prize.
 
-### *Dimicatio in Detail*
+### Dimicatio in Detail
 
 If you wish to play through a dimicatio, use the normal combat rules. Contestants start at Voice range from one another. The contest begins at the sound of a bell or other signal. Both competitors roll Initiative and the winner casts the first offensive spell. The defender must then fast-cast a defense. Rules for fast-cast defense are on page 83 of ArM5.
 
@@ -959,7 +959,7 @@ The storyguide must apply some judgment in deciding whether a particular Form an
 
 If the defense succeeds, the defender may cast an offensive spell on his own turn in the Initiative order. The cycle repeats according to the normal combat sequence. The rules of the contest allow magi to use vis if they wish.
 
-### *Wizards' Melee*
+### Wizards' Melee
 
 Even more controversial than dimicatio is the wizards' melee, an uncommon and dangerous event where magi and teams of grogs actually fight one another. The object of the wizards' melee is for one wizard to successfully cast a Touch-Range spell on the opposing magus (using forceless casting). This requires defeating the grogs who protect that magus.
 
@@ -976,27 +976,27 @@ participants and spectators. Exact rules for the contest vary from one tournamen
 - Damage-inflicting spells may be restricted to third magnitude and below, or banned altogether. (The tournament at Castra Solis bans damage-inflicting spells.) •
 - Enchanted devices are allowed as long as they obey all the restrictions for spells. Magi are permitted to use vis during the wizards' melee. •
 
-### *Tournament Prizes*
+### Tournament Prizes
 
 Magi don't compete in tournaments merely for fame and prestige. The tournament host also offers prizes. These can be as simple as a purse of vis: a rook (ten pawns) is a moderate prize. Grander tournaments offer more lavish prizes: books, lesser enchanted items, even invested devices. Anything that most magi would value could be offered as a prize. The greater the prize, the more competitors are drawn to the tournament. Archmagi are usually content to let younger magi compete, but a truly compelling prize may even lure some of them off the sidelines.
 
 Even with these rules, the potential for accidental death or injury is so great that many Quaesitors are appalled the event even exists.
 
-### *Special Challenges*
+### Special Challenges
 
 Tournaments may also involve a special challenge devised by the tournament host. A broad description of the challenge is announced in advance of the tournament itself so participants know what is in store if they succeed in the qualifying round. The challenge can be anything the host chooses to arrange, but it is usually something dramatic, possibly dangerous. Examples would be a contest to steal a magical jewel guarded by trolls, or a race through a maze filled with magical traps. Again, certain Quaesitors (and other magi in general) frown on the special challenges because they are often dangerous, and they sometimes cross the borderline of molesting the fae.
 
-### *Entertainment and Side Events*
+### Entertainment and Side Events
 
 Large tournaments may also include minor events. Tests of accuracy using aimed spells, similar to mundane archery tournaments, are common. There may be separate contests for apprentices and
 
 grogs. Alongside the competition there is music, entertainment, feasting, and plenty of alcohol.
 
-# *Wizard's War*
+# Wizard's War
 
 This section addresses the practical considerations of running a Wizard's War in your saga: how to be prepared for a Wizard's War, the social considerations of fighting a war, and tactics that can help a character win (or at least survive). This information is applicable to magi from any House, though Flambeau magi, with their fighting skills and their honor, are perhaps most likely to use it. Legal aspects of Wizard's War are covered in *Houses of Hermes: True Lineages* (pages 47–48).
 
-### *Wizard's War and the Order*
+### Wizard's War and the Order
 
 Wizard's War was included in the Code of Hermes at the insistence of Flambeau the Founder, who wanted to ensure his enemies could never escape his vengeance even if they joined the Order. The Code itself deals with Wizard's War only in general terms; the details are left to the Peripheral Code.
 
@@ -1016,7 +1016,7 @@ Another option is to declare Wizard's War against the enemy's sodales or other a
 
 Whenever a conflict escalates,, there is an increasingly greater risk that more and more magi and covenants may be drawn into the hostilities. For instance, a wizard might declare Wizard's War on an adversary who then takes shelter inside his covenant. The original aggressor might then declare war on the whole covenant
 
-### *Declaration of War*
+### Declaration of War
 
 The Order of Hermes recognizes that magi may not always be in their sancta. There is no guarantee that a magus will be at home on the day a declaration of Wizard's War arrives. How exactly the Peripheral Code applies to this situation is a matter for your troupe to decide for itself. The answer may vary from one Tribunal to another.
 
@@ -1034,7 +1034,7 @@ Because of the potential for escalation, most covenants see little benefit in be
 
 Covenants usually want to see Wizard's Wars resolved without their own members being killed. In order to prevent wars from escalating, the covenants to which the combatants belong may be willing to negotiate a resolution \_ perhaps without the combatants' knowledge. Terms may include restitution for the grievance that provoked the Wizard's War, arbitration by a Quaesitor or other neutral party, or even sending one or both magi into exile in another Tribunal.
 
-### *Reasons to Declare Wizard's War*
+### Reasons to Declare Wizard's War
 
 A declaration of Wizard's War does not always mean the aggressor actually intends to kill his opponent. The Code permits combatants to kill one another, but it doesn't require them to do so. Sometimes, the intent of a Wizard's War is
 
@@ -1051,7 +1051,7 @@ Perhaps the soundest reason to declare Wizard's War is that one's adversary has 
 
 The threat of Wizard's War may also be used to enforce a pact between two magi. Each pledges to declare Wizard's War if the other reneges on the bargain.
 
-### *Preparing for Wizard's War*
+### Preparing for Wizard's War
 
 By the time a declaration of Wizard's War arrives, it is usually too late to make effective preparations. Any response to Wizard's War, whether one decides to flee, hide, or fight, is more effective when one has gathered resources and made plans ahead of time.
 
@@ -1063,7 +1063,7 @@ Even if a magus chooses to fight rather than flee, leaving his own covenant can 
 
 Although other magi are not permitted to join in actually fighting a Wizard's War, there is nothing that prohibits them from offering assistance. Loans of vis, enchanted items, or casting tablets can make the difference between death and victory. Magi may even be persuaded to cast spells on behalf of a combatant. Especially useful are spells of Moon Duration, which last until both the full moon and the new moon have set. If cast after moonset on the first night of a Wizard's War, such spells last for the rest of the conflict.
 
-### *Waging Wizard's War*
+### Waging Wizard's War
 
 Most magi in Wizard's Wars do not simply stride boldly forth to meet their enemies on the field of battle. That does sometimes happen, but more often they try to stalk one another, setting traps and ambushes.
 
@@ -1072,7 +1072,7 @@ Winning — or even surviving — Wizard's War is as much a matter of cunning as
 The outcome of a Wizard's War can hinge on one magus obtaining an Arcane Connection to the other. The real value of an Arcane Connection is the bonus it provides to one's Penetration multiplier (see ArM5, page 84). In principle, it also allows one to cast spells on the enemy from a distance: *The Inexorable Search* to find his hiding place or *Opening the Intangible Tunnel* to attack him directly. In practice, such long-range
 
 
-#### *Societates*
+#### Societates
 
 spells are ineffective unless the caster can achieve a high Penetration Total.
 
@@ -1084,7 +1084,7 @@ Magical disguises are easy to create. They can help one evade the enemy, discree
 
 Although young magi may feel very vulnerable in a Wizard's War, cunning, resourcefulness, and strategy are just as important as raw magical power. Some Wizard's Wars have been won by magi who never cast a spell at their opponents at all. A dagger in the back can be better than a *Pilum of Fire* from the front.
 
-# *Schools of Magical Combat*
+# Schools of Magical Combat
 
 When many magi think of House Flambeau, they think of fire magic. Flambeau the Founder was a master of the Art of Ignem and a large number of Flambeau magi follow in his footsteps. As a House of warriors and champions, Flambeau includes a wide variety of combative magi, not all of whom rely on fire
 
@@ -1095,7 +1095,7 @@ Magi of House Flambeau refer to each fighting style as a "school" of magical com
 
 Flambeau magi name each school of magical combat after the pioneering magus who invented it. Sometimes, magi speak of other Houses' styles of magic as schools: a magus who fights using enchanted devices may be said to follow the School of Verditius, or a maga who fights by shapechanging into a beast may be said to follow the School of Bjornaer.
 
-### *Choosing a School*
+### Choosing a School
 
 Every magus who learns battle-worthy spells is preparing to use some school of magical combat, whether he realizes it or not. Flambeau magi tend to carefully choose their schools of combat, devoting a great deal of study and lab time to mastering them. There is a great difference between a magus who knows a few mismatched combat spells, and one who has dedicated many seasons of carefully planned study to the interconnected Arts, Abilities, and spells that make a school effective.
 
@@ -1118,7 +1118,7 @@ Magi who are trained within House Flambeau have their school chosen for them by 
 
 Magi who join House Flambeau from other Houses are free to pursue whatever school they like, as are Flambeau magi who have passed their Gauntlet.
 
-### *Example Schools of Magical Combat*
+### Example Schools of Magical Combat
 
 There are many possible schools of magical combat; the following is not meant to be an exhaustive list.
 
@@ -1143,7 +1143,7 @@ Another disadvantage of Ignem spells is that they are not subtle. When a magus b
 Fire is notoriously difficult to control; Ignem botches can be especially disastrous.
 
 
-### *Option: Variant House Benefits*
+### Option: Variant House Benefits
 
 Magi of House Flambeau gain a free Minor Virtue at character creation as their House benefit. This free Virtue must be either Puissant Art (Ignem) or Puissant Art (Perdo). These Virtues are very appropriate to three of the six schools of magical combat.
 
@@ -1161,7 +1161,7 @@ The School of Apromor emphasizes using Perdo magic to damage one's opponent dire
 
 Compared with the School of the Founder, the School of Apromor has a number of advantages. While some creatures are immune to fire, none are immune to Perdo magic as such (though Perdo spells do need to penetrate Magic Resistance). The Art of Perdo can do nearly as much damage as
 
-### *Enhancing Spell Penetration*
+### Enhancing Spell Penetration
 
 Many schools of fighting, and indeed many useful non-combat spells, require the caster to penetrate his opponent's Magic Resistance. This can be quite difficult, especially if the target is a Hermetic magus with a decent score in Parma Magica. The following practical advice can help player-magi overcome opponents who have high Magic Resistance.
 
@@ -1216,7 +1216,7 @@ joined House Flambeau's struggle against the Moorish wizards, where he perfected
 The School of Ramius does not favor spells such as *Edge of the Razor* or *Blade of the Virulent Flame* to improve a magus's physical attacks. When a weapon is enchanted by such spells, Magic Resistance can stop it. Instead, followers of Ramius prefer mundane steel and use magic to improve their defenses or general fighting effectiveness. Some popular spells within the school are *Doublet of Impenetrable Silk* (ArM5, page 118), *Steed of Vengeance* (ArM5, page 119), *Gift of the Bear's Fortitude* (ArM5, page 131), *Endurance of the Berserkers* (ArM5 p. 134), *Shriek of the Impending Shafts* (ArM5 page 136), *Ward Against Heat and Flames* (ArM5, page 143), and *Veil of Invisibility* (ArM5, page 146). Personal wards (warding spells with parameters of Personal/Sun/Individual rather than Touch/Ring/Circle) are also very commonly used to protect either against weapons or against supernatural creatures.
 
 
-#### *Societates*
+#### Societates
 
 One of the main advantages of the School of Ramius is that it does not require its followers to specialize in any particular Arts. With no need to develop high Penetration Totals, its followers can be more eclectic in their choice of Arts and spells. Followers of Ramius tend to prefer Arts that are not normally associated with spells of attack: Muto for improving their armor and defenses, Rego for personal wards, and Corpus for self-improvement and healing.
 
@@ -1244,7 +1244,7 @@ Most members of the Sebastian family of schools have a Magical Focus (either Maj
 
 Like the schools of the Founder and of Apromor, the Schools of Sebastian depend on the ability to penetrate Magic Resistance. They tend to offer spells that do less damage compared to Ignem spells
 
-### *Magical Foci for the Schools of Sebastian*
+### Magical Foci for the Schools of Sebastian
 
 The following are some examples of magical foci that may be useful to magi following one of the Schools of Sebastian. Except where noted, all of them would count as Minor Magical Foci. The Forms of Mentem, Imaginem, and Vim are unsuitable for conjuring harmful substances, and magi who favor the Form of Ignem are categorized in the School of the Founder or of Boreas.
 
@@ -1283,7 +1283,7 @@ Indirect spells generally need to be aimed, and can miss. A good score in the Fi
 
 Most indirect spells do fairly low damage. They are good for trapping or wounding opponents, but may have trouble ending a fight quickly (unless the caster is fortunate enough to bury his opponent
 
-### *Indirect Spells from ArM5*
+### Indirect Spells from ArM5
 
 The following spells from **Ars Magica Fifth Edition** can be at least partly effective without the need to penetrate Magic Resistance. Some additional indirect spells are given in the Rules section of this chapter.
 
@@ -1335,7 +1335,7 @@ Many followers of Vilano make extensive use of enchanted items in addition to sp
 
 This section includes rules for House Acclaim, the system by which Flambeau magi measure their status relative to one another. Also included are new spells, some new laboratory and Spell Mastery options, and rules for integrating magical tactics into the combat system.
 
-### *House Acclaim*
+### House Acclaim
 
 Magi of House Flambeau measure their relative prestige by an informal system of House Acclaim. This is somewhat similar to the House Acclaim system used within House Bonisagus, though of course Flambeau magi gain renown for tournament victories and deeds of valor, not writing books and doing lab work.
 
@@ -1343,7 +1343,7 @@ House Acclaim is a free Reputation that every Flambeau magus gains at the start 
 
 Noteworthy deeds of prowess, valor, and honor are rewarded with experience points in the House Acclaim Reputation. However, a member of House Flambeau may never rest on her laurels: unlike other Reputations, House Acclaim can diminish over time if the character fails to continue an illustrious career. Furthermore, ignoble acts can seriously damage a magus's House Acclaim. Loss of House Acclaim is handled by taking away experience points instead of adding them. It is not possible to have a negative House Acclaim, but if a magus with zero House Acclaim performs an ignoble act, he gains a bad Reputation according to the normal Reputation rules (ArM5, page 167).
 
-### *Example Acclaim Awards*
+### Example Acclaim Awards
 
 Flambeau magi can gain experience in House Acclaim just as they can in any other Reputation. Certain remarkable deeds can result in the gain or loss of more than one experience point at a time. The following are some example awards and penalties; the storyguide should feel free to make ad hoc awards for other glorious (or despicable) achievements.
 
@@ -1370,7 +1370,7 @@ Flambeau magi can gain experience in House Acclaim just as they can in any other
 
 In order for a deed to grant experience points in House Acclaim, it must be done in front of witnesses. They need not be members of House Flambeau, as long as they are credible and are likely to tell of the magus's accomplishments.
 
-### *New Flaws*
+### New Flaws
 
 #### **Miles**
 
@@ -1389,7 +1389,7 @@ This Flaw covers the relationship of the miles to other Flambeau magi. How the c
 
 If the storyguide approves, player characters may acquire this Flaw after character creation by joining House Flambeau and publicly swearing the milites' oath.
 
-### *Rules for Magical Combat*
+### Rules for Magical Combat
 
 There are many ways magic may be used in a fight; some of them are more complicated than others. One advanced combat option based on a magical effect is detailed here.
 
@@ -1401,7 +1401,7 @@ A character who is invisible gains the following benefits:
 
 Opponents cannot engage the invisible character in melee unless they determine his location (see below); however, if the invisible character attacks in melee, the opponent(s) he •
 
-#### *Houses of Hermes*
+#### Houses of Hermes
 
 has engaged remain engaged and can attack.
 
@@ -1462,7 +1462,7 @@ An invisible character may serve as the vanguard of a group. If an untrained gro
 
 A group of allies cannot defend an invisible character (see ArM5, page 173) unless they have some means of knowing where he is.
 
-### *New Magic Rules*
+### New Magic Rules
 
 The following magic rules are available to all magi, not just members of House Flambeau.
 
@@ -1500,7 +1500,7 @@ Add +1 to all Finesse rolls the caster makes with the spell, including aiming ro
 
 Add +1 to the caster's Initiative Total when he casts the Mastered spell. If he also has the Fast Casting special ability, add +1 to his Fast Casting Speed rolls (ArM5, page 83) when he fast-casts the spell. This ability cannot be used for Ritual spells. A magus may take this special ability multiple times for the same spell.
 
-### *New Spells*
+### New Spells
 
 The following spells are available to any magus but are of particular interest to members of House Flambeau.
 
@@ -1514,7 +1514,7 @@ R: Touch, D: Diam, T: Ind
 
 Conjures an asp, which magically obeys the caster's mental commands. Use the statistics for an adder from the *Book of Mundane Beasts,* except that an asp's venom is much more deadly than an adder's. The effects of asp venom are given on page 180 of ArM5. The snake has no Might and hence no Magic Resistance of its own, but since it is a magically created creature, Magic Resistance does protect against its attack (use the caster's Penetration Total).
 
-### *Mercurian Spell Mastery Abilities*
+### Mercurian Spell Mastery Abilities
 
 The Cult of Mercury teaches several exclusive Spell Mastery special abilities. These special abilities are not unique to House Flambeau, but are generally available to any member of the Cult (whose membership includes magi from many different Houses).
 
@@ -1738,7 +1738,7 @@ R: Voice, D: Conc, T: Ind
 
 Control the rate and direction in which a fire spreads. The caster may make the fire spread across combustible surfaces as fast as a man walks. It can leap most gaps as much as one pace across but cannot cross even the tiniest trickle of water. The caster can prevent the fire from spreading in certain directions but cannot actually
 
-#### *Societates*
+#### Societates
 
 keep it from burning things it touches. He could, for instance, make a fire spread into the shape of a circle and then expand outward, or keep the fire away from himself while it follows his enemies around the room. If the fire surrounds a person, its heat is non-magical and so bypasses Magic Resistance. An aiming roll is required to get the fire close enough to do damage. If the fire grows larger than a basic Room Target, the caster loses control of it entirely.
 
@@ -1861,9 +1861,9 @@ Hurl a stone (of a size that could be thrown with a mundane sling) at a target w
 (Base 5, +1 Touch)
 
 
-### *Chapter Two*
+### Chapter Two
 
-# *House Jerbiton*
+# House Jerbiton
 
 The Founder of House Jerbiton, and many of his successors, believed that a great artist designed and constructed the world. The world is beautiful, and contains obvious marks of his process of creation. Those suffi ciently skilled in the creation of beauty can collaborate in this great work. Everyone else has the joy of being a member of his audience.
 
@@ -1871,11 +1871,11 @@ House Jerbiton's founding members came from the cities of the Eastern Roman Empi
 
 Each member of House Jerbiton is free to seek or create beauty however she wishes. The role of Primus grants little political power, although the incumbent is skilled at ensuring his wishes are considered. Members of the House often form groups, called leagues, to collaborate.
 
-# *The History of House Jerbiton*
+# The History of House Jerbiton
 
 Jerbiton was born in a remote village in the Alps, but taken as an apprentice by a maga from the Imperial East. His tradition's ancestors are the cosmopolitan magi from the cities of Greece. Jerbiton was sent as an emissary to the forming Order, but for many years the other members of his tradition did not join it. House Jerbiton still feels that the Eastern Empire is its heartland, and has been stunned and angered by
 
-### *Key Facts*
+### Key Facts
 
 **PoPulation:.**Currently 102 magi, 26 of whom live in the Tribunal of the Greater Alps. A wave of apprentices will become magi in the next couple of years. This will increase the number of magi, and reduce their average age, substantially.
 
@@ -1900,7 +1900,7 @@ Jerbiton's family was of Rhaeto-Roman stock. They were descended from a Roman so
 Young men from Alpine villages often travel to surrounding countries to seek work as mercenaries, returning with their fortune to fi nd wives and settle as farmers. One such returnee, retired from service with a Thracian magus, recognized Jerbiton's Gift, and encouraged his parents to send the boy for training. The Thracian magus did not desire an apprentice, but mentioned the boy and his unusual community to his allies. One of them, Bernice of Thessalonica, traveled to the Alps to collect the young Jerbiton, and explore the Rhaeto-Roman culture.
 
 
-### *This is Only the Beginning*
+### This is Only the Beginning
 
 The magi of House Jerbiton are fascinated by mundane people and institutions. This chapter does not grapple with the mortal institutions that serve as the crux of urban stories, because other books, particularly *Realms of Power: The Divine, City & Guild,* and *Art and Academe* deal with these ideas in greater detail than is possible here. This chapter explores the part of the House's lifestyle that is alien to mundane institutions, with the understanding that players will steal ideas from the rest of the line to integrate these magi into medieval society.
 
@@ -1912,7 +1912,7 @@ The magi of the eastern Empire formed alliances called leagues. Each league focu
 
 The League of Iconophiles opposed the Emperor in several ways. It aided non-
 
-### *Famous Figures*
+### Famous Figures
 
 Early figures of the House tend to have names that give the place from which they came.
 
@@ -1957,7 +1957,7 @@ Jerbiton, and the other magi who were members of his household, participated in 
 
 In 775, House Tremere invaded the Empire, slaying magi, stealing their treasure, and claiming their vis sources. Conflict with the emperor, the Infernal, and House Tremere was too much for the magi in the north of the Empire. They formed a military alliance called the Theban League, and joined the Order of Hermes under Jerbiton's nominal leadership. Trained in the Parma Magica, these magi were able to reclaim territory from House Tremere. The
 
-### *Ancient Ideas of Beauty*
+### Ancient Ideas of Beauty
 
 Jerbiton's followers encountered pre-Christian aesthetic ideals retained in Valnastium's culture. This led to research into ancient forms of artistic expression, and the development of the House's philosophies of beauty. Valnastium, in 1220, is filled with delightful works of architecture and sculpture that appear completely alien to contemporary mundane artists. Many ancient ideas about what makes art beautiful, like realistic depiction of human models, are not followed in Mythic Europe. The House has tried to gently coax Europe back toward the great secular art of the past, but under the current Primus, this task has been seen as less important than maintaining good relations with the Church, which has unpredictable but often censorious views concerning novel art.
 
@@ -1969,7 +1969,7 @@ Jerbiton died in his sleep, and is buried beside his wife under the Church of Sa
 
 During the Schism War, from the Primus of Jerbiton's perspective, a House filled with pagans was annihilated and a House dedicated to tyranny was shattered. House Jerbiton's members retreated to their strong places or cities and waited
 
-### *The Diaries*
+### The Diaries
 
 The Founder was a diarist, but his notes deliberately obscure many important matters. His descendants have studied many of these exclusions, but some have remained unexplained. Two unclear topics include:
 
@@ -2023,7 +2023,7 @@ Characters may still wish to visit the City for many reasons. Suggested stories 
 - Covenants familiar with Venice, where many covenants maintain townhouses as informal embassies with each other, want to establish a similar system in Constantinople, and call a meeting of interested parties.
 
 
-### *Émigrés from Constantinople*
+### Émigrés from Constantinople
 
 When the City fell many members of its ruling and merchant classes lost their positions. The Order of Hermes, particularly the members of House Jerbiton, has accepted many émigrés as companions. Emigration from Constantinople is a useful background for characters whose players want them to have rare capabilities, like knighthood or glassblowing , with none of the usual social constraints that come with these roles in intact societies.
 
@@ -2043,11 +2043,11 @@ Young magi from this group often bear symbols that express their allegiance to i
 The antigones are not formally organized, but many know each other, through the House's practices of tourism and fosterage. Some plan to form large House covenants, which are currently very rare. Others will live among magi from other Houses, but take a far more political role than their elders. One of the Primus's students, Constanta the Tessellatrix, is extremely active in the coordination of her age-mates.
 
 
-# *Living Tastefully*
+# Living Tastefully
 
 House Jerbiton is held together by its culture, rather than a political structure. Jerbiton magi live tastefully. Tasteful living usually embraces a series of ideas that have been popular among urban magi since before the beginning of the House. This section examines elements that most Jerbiton magi would agree contribute to tasteful living. Magi from other Houses may also live tastefully — the special interest that Jerbiton magi take in matters of taste is not preclusive.
 
-### *Seeking Beauty*
+### Seeking Beauty
 
 Beauty has many definitions among Jerbiton magi, and these are often compatible. Beauty is that which pleasantly enlivens the senses. Beauty is that which stirs the higher emotions. Beauty is that which draws the soul closer to the Creator. Beauty is what artists create through expression. The Founder Jerbiton taught that the capacity to sense beauty, like the sensations of cold, saltiness, roughness, or loudness, was provided by the Creator to allow humans to properly interact with their environment. Jerbiton believed that magi had a duty to collaborate with God, and make the world more beautiful. This would make the world, in a fundamental sense, better and more pleasing to God. Jerbiton magi are not required to believe this to be true, but most agree that beauty guides ethical living.
 
@@ -2055,7 +2055,7 @@ Beauty has many definitions among Jerbiton magi, and these are often compatible.
 
 Jerbiton magi see ugliness as a mark of the wrongness of something, much like a putrid smell marks food as bad. The philosophy of the Church guides magi in their quest for beauty, by pointing out, as Bernard of Clairvaux does, that inner beauty is more precious than outer beauty. Modern players may have far more restrictive concepts of beauty than Mythic
 
-#### *Houses of Hermes*
+#### Houses of Hermes
 
 Europeans do. The Romans and Greeks, in whose aesthetic tradition this House continues, saw beauty in a wide range of things. People of other races were beautiful, because of their contrast to Europeans. Signs of aging could be beautiful, if they added character to the appearance. The crack in a gemstone could be beautiful, if it enhanced the luster of the stone. The ability to see the hidden beauty of things is a form of wisdom.
 
@@ -2073,7 +2073,7 @@ That even people of good taste vary in their preferences is an important acknowl
 
 Jerbiton taught, and many of his descendants agree, that art requires skill, exercises creativity, and intends to express
 
-### *Why Are Faeries Ugly?*
+### Why Are Faeries Ugly?
 
 Members of House Jerbiton usually dislike faeries, despite their beauty and artistic prowess, because faeries lack souls. Their outward beauty is just a distraction from inner ugliness. Many faeries are cute and funny, but that's a deliberate, calculated manipulation of the viewer. They are parasitic animals, an affliction on the human race and an impediment to the spread of civilization. Faeries treat humans as prey, stealing creativity or blood, which is why the Church protects people from them.
 
@@ -2086,7 +2086,7 @@ beauty. This implies that art is something done best by people who have trained 
 Excellent art requires skill, which is learned, and creativity, which is a gift from God. Some artists are more skilled than other artists, much as some bakers are better than other bakers, and their art is therefore better or worse, at a level stronger than opinion. Many Jerbiton magi develop Finesse or other artistic Abilities. Those who lack talent extend patronage to mundane artists. A character is talented at the discretion of the player: this selection has no mechanical cost, but talent cannot be expressed without a suitable Ability.
 
 
-### *Bad Taste? Why Do Many Other Magi Have Such*
+### Bad Taste? Why Do Many Other Magi Have Such
 
 Many magi who are not from House Jerbiton live in a way that is simply ugly, and thus wrong. Sinful acts are ugly, so violence is often in poor taste. Living a life separated from human interactions is ugly. Being cooped up in a laboratory for many years is, therefore, wrong. The way most Hermetic magi live, in wilderness castles and reviled by mundanes, is a pitiable existence for a person with the wonderful capacity for expression offered by The Gift, although it is rude to point this out. The ugliness prevalent in many other Houses occurs because many of the Founders were unpleasant people who
 
@@ -2104,7 +2104,7 @@ Jerbiton believed that magi, by seeking beauty, would naturally create spaces ar
 
 As the wild areas of Europe have become increasingly settled, it has become more difficult for magi to arrange private places of beauty near towns. As towns become more powerful, as many did during the 11th century, their agricultural hinterlands become contested zones, disputed between neighboring nobles and the town. This has forced odd alliances between Jerbiton magi and those from Houses that traditionally preserve wilderness, like Bjornaer and Merinita.
 
-### *Leisure*
+### Leisure
 
 All the great philosophers agree that a person is not truly free unless he has the right to determine how he spends his time. Mundane philosophers usually express this idea in terms of independent wealth, but most magi can achieve mundane wealth very simply. Jerbiton magi take this further, believing that a maga is not living as she should when constrained by duties to a covenant, or lack of vis. Jerbiton magi in young covenants that make demands on the time of magi or lack sufficient vis strive to improve their covenants, even at the expense of magical study, until they are rich enough to support magi in the correct way.
 
@@ -2114,7 +2114,7 @@ In Tribunals where House Jerbiton is strong, it uses its influence to limit the 
 
 A magus who feels compelled to study the magical Arts for life is an addict. Jerbiton magi study toward particular goals. When the magus feels that the slight increase in power offered by additional seasons of study is unappealing, he forsakes magical study altogether. Some cease to study for life, while others, discovering new challenges, pursue fresh goals after a hiatus.
 
-### *Intrigue*
+### Intrigue
 
 Jerbiton magi use their leisure time to live as they like, and for many a favoured pastime is influencing mundane institutions. Jerbiton magi develop networks of supporters using the rules given in the Agencies appendix. Players may, alternatively, use the far simpler rules given in *City & Guild* for the hire of certain types of unsavory underlings. Jerbiton magi engage in intrigue to support causes they hope will prosper. These can include political and religious movements, but many Jerbiton magi focus their efforts on nurturing their mundane families.
 
@@ -2159,7 +2159,7 @@ Jerbiton magi continually test the boundaries of the Order's prohibition against
 
 
 
-### *Travel*
+### Travel
 
 Jerbiton magi travel for pleasure, but also because it broadens a magus's repertoire without formal study. This is because a character cannot create a thing she cannot imagine. Magi who travel see things they have never imagined, allowing them to create or mimic a broader range of things. Many Jerbiton magi travel frequently throughout their lives, but arduous travel is best undertaken while young and vigorous. House Jerbiton has two traditions which help to season young magi in this way, fosterage and tourism.
 
@@ -2171,7 +2171,7 @@ Fosterage occurs when an apprentice is sent to live with a Jerbiton magus other 
 
 Many Jerbiton magi enjoy travel, and spend a season every few years engaged in sightseeing. The apprentices of these magi accompany their masters, and benefit from this informal tourism. Tourism, particularly disguised as pilgrimage, is popular with the rich of Mythic Europe. The House also sponsors travel by apprentices near the completion of their training. The trip each takes is called the Itinerarium, and is meant to mirror the tour of Greece, Ephesus, Troy, and Egypt undertaken by many young Romans in the Imperial era,
 
-### *Mappa Mundi*
+### Mappa Mundi
 
 In 5 BC, a new monument caused a sensation in Rome. It was a detailed map, 60 feet long and 30 feet high, surrounded by marble pillars on which were chiseled a geographic commentary. This led to the first wave of Roman tourism, the ancient ancestor of House Jerbiton's Itinerarium. The monument was destroyed, but its most valuable portion survives.
 
@@ -2196,7 +2196,7 @@ After the Itinerarium, it is traditional for a young magus to express his experi
 
 Reading or writing paradoxographia is a simple leisure activity. It requires no time away from laboratory work, and offers no experience points.
 
-### *Display*
+### Display
 
 Jerbiton magi believe that it is the duty of magi to dress in a way that allows other people to recognize, and respond to, their status. This prevents magi from being treated rudely by accident, making life more pleasant for everyone. It also allows magi who do not wish their status to be discerned to hide more easily, by removing the symbols associated with magi.
 
@@ -2204,7 +2204,7 @@ Jerbiton magi believe that it is the duty of magi to dress in a way that allows 
 
 Most Jerbiton magi who wish to display their status to mundanes wear robes of fine fabric and expensive colors. They avoid purple, because it has Imperial connotations, so woad blue is popular. The robes of each magus have a personal design, but it is these designs that lead to the common impression that magicians dress like scholars, but have stars on their robes. Jerbiton magi sometimes wear liberty caps (pointy wizard hats) because this symbol of magushood has been widely spread by House Mercere. They do not, however, wear red ones. Jerbiton magi like being asked to leave a worthless staff behind when negotiating with mundane potentates, so the idea that magi are weaker without their staffs is popular in Mythic Europe, while the existence of wands is little known.
 
-### *Story Seed: Paradoxographia*
+### Story Seed: Paradoxographia
 
 A murder victim was recently found near a pilgrimage route. He was given Christian burial, but because he had the distinctive clothes of a magician, a knowledgeable merchant passed the story on to a Redcap, who has recovered the body under the pretext of being a family member. The Redcap was also able to recover the deceased's grave goods, and sewn into the hem of his shirt was a line of 28 small seeds that each contain vis. The magus was young, and the only clue concerning the location of this vis source, and perhaps his murderer, is a paradoxographic letter he sent to his teacher. Characters must find his vis source by following his route and trying to construct real places, people, and situations from the murder victim's parodies. When they find the vis source, they may also find clues to the murderer's identity.
 
@@ -2218,14 +2218,14 @@ Every class of person in Mythic Europe has a particular raptor assigned to them,
 
 Jerbiton magi rarely have hounds, the other animal used to display wealth, because cats descended from the Founder's familiar often reside with them instead. Cats of the Black Lineage are intelligent and understand human language, although only a few can vocalize human sounds. Many have Second Sight. They live, on average, for 40 years. The cats have a parliament, and elect a monarch. Each cat adopts a family, and some young cats are selected for training as familiars. The cats are capable of a form of hedge magic, described in *Realms of Power: Magic*. The current Jerbiton Primus's familiar, Crucifixio, is not the King of the Cats, but may well become so when the current king, his mentor, dies.
 
-### *Etiquette*
+### Etiquette
 
 The rules of etiquette are not arbitrary, although they can be obscure. They are designed to assist persons of quality to interact smoothly. Etiquette is also used to separate those who have been trained in proper behavior from those who merely aspire to it. Etiquette regulates, codifies and encourages communication between participants in events.
 
 Characters skilled in etiquette can use a bewildering variety of symbolic languages to convey messages to each other. Some of these languages have been codified, so that any Hermetic magus skilled in etiquette can explain the subtle messages that may be conveyed by the selection of different flowers given in a posy, or the serving of different dishes to various guests at a formal dinner. Other messages are conveyed by reference to adjoining symbols in famous works of art, or snatches from obscure poems. The challenge, which if met is considered admirable by Jerbiton magi, is for a person engaged in such com-
 
 
-#### *Societates*
+#### Societates
 
 munication to merge the clarity of the message's expression with the beauty of its encapsulation.
 
@@ -2246,7 +2246,7 @@ The sum of both selected penalties is subtracted from the standard Etiquette rol
 Collaborative etiquette is used when several people attend an event with the intention that it should be a success, regardless of personal aggrandizement. In
 
 
-### *The Great Feasts*
+### The Great Feasts
 
 The Gastronomers, described below, hold great feasts under strict rules of collaborative etiquette. They have common feasts regularly, but they also hold occasional, exceptional meetings. The most frequent exceptional feasts are the Tribunicals, held at Durenmar every 33 years to accompany the Grand Tribunal. The next is due in 1228. The Seculars are held every 120 years: they take their name from a Roman measurement of time. A secular is the time it takes for all of the witnesses to an event, in this case the founding of the Order, to die. Among the Romans this was set at 90 years, but the Order uses a longer duration. The next is due in 1247, although there is some discussion of canceling it, because of the unprecedented feast that will follow in 1248.
 
@@ -2305,11 +2305,11 @@ The host must:
 
 It is rude to refuse to offer hospitality, but it is also rude to demand it. Jerbiton magi intending to visit each other often send a Redcap ahead, to ensure they will be welcome.
 
-# *Such Structure as the House Has*
+# Such Structure as the House Has
 
 House Jerbiton is held together by a sense of difference from the magi of other Houses, mutual interest in each other's activities, and the charisma of its informal leaders. The Primus acts an ideological, rather than political, force within the House. Valnastium is the only large House covenant. Most Jerbiton magi are members of smaller organizations within the House, called leagues, which are clubs for magi sharing similar tastes or ambitions.
 
-### *The Primus*
+### The Primus
 
 The Primus of House Jerbiton has few formal powers. The Primus has sole authority to grant any magus residency in the covenant of Valnastium and to offer or deny membership of the House. The Steward of the House, its administrator between primacies, is a resident of Valnastium, and is therefore appointed or dismissed at the Primus's whim. Valnastium is a very wealthy covenant, and the Primus may spend a portion of its resources on personal projects. The Primus may attend the Grand Tribunal to speak for the House. These and some ceremonial rights aside, the Primus is much like any popular Jerbiton magus. The Primus rules for life, but is required to live for the majority of his time in Valnastium, so many have resigned to pursue other interests.
 
@@ -2353,9 +2353,9 @@ Andru's policy toward the nobility of Europe has overt and covert elements. He f
 The Primus's policy toward the Church is straightforward, but mired in details. Andru is hoping to demonstrate that The Gift is a charism, a gift given by God and stamped upon the soul, like the others mentioned, in a non-exclusive list, in the Bible. House Jerbiton gives covert assistance to any research into the source of The Gift. The hostility between the Eastern and Western halves of the Church is so intense that a victory in one half might lead to condemnation in the other, unless the matter is handled carefully. Lacking proof of The Gift's Divine origin, Andru encourages churchmen to judge magi by their acts.
 
 
-#### *Societates*
+#### Societates
 
-### *Valnastium*
+### Valnastium
 
 Valnastium is a picturesque Alpine valley, made more beautiful by generations of tinkering by magi. Its weather is regulated with magic, and its entrance is hidden from those the covenant considers undesirable visitors. Powerful mystical defenses, dating from the Schism War, would give most assailants pause. The little villages of the valley, and the town that surrounds Jerbiton's villa, have almost 1,000 residents.
 
@@ -2363,7 +2363,7 @@ During the early years of the House, each Primus built a palace in Valnastium's 
 
 Valnastium's library is a genuine Museum — a temple of the Muses — moved magically from Greece. The Founder carried it to his valley because he believed, correctly, that its presence would create a Magic aura in which he could build his laboratory. The aura of Valnastium is higher than it was in the Founder's lifetime, having a value of 3 in most areas, but the presence of the Church of Saint Cyprian has prevented it
 
-### *Rhaetian*
+### Rhaetian
 
 Valnastium's mundane residents speak a Rhaetian dialect bought to the area by Roman settlers. A character with a score of 5 in Rhaetian can speak to a person who knows Latin as if he had a score of 2 in that language, and Latin speakers may converse with similar ease with Rhaetian speakers.
 
@@ -2371,7 +2371,7 @@ from developing further, despite the age and size of the covenant. Much of the v
 
 Valnastium's library is the finest in the Order for research into many mundane matters. It has a guesthouse, for the many visitors it attracts, and for the Redcap who carries the many letters requesting answers of the librarians. Failed apprentices, from all over Europe, are sometimes sent to the library for training.
 
-### *League Membership*
+### League Membership
 
 Jerbiton magi form groups, called leagues, based on similarity of interest, driven by the charisma of temporary leaders. Most leagues are small, between five and 20 members, but some, like the Gastronomers, have many more. Some leagues continue intergenerationally, but many others complete a single task and then dissolve. A Jerbiton magus may join many leagues and participate with greater passion in some than others. Many leagues accept members from other Houses, if Jerbiton magi guarantee they can behave tastefully. The largest leagues all have members from other Houses.
 
@@ -2425,17 +2425,17 @@ The Keepers had their headquarters in Constantinople, but the crusaders sacked i
 
 *54*
 
-#### *Societates*
+#### Societates
 
-# *Design Notes for Jerbiton Magi*
+# Design Notes for Jerbiton Magi
 
 Members of House Jerbiton can live as they wish, and seek beauty as they desire. The culture of their House is, arguably, the least constraining of all of the Houses. The flexible structure of House Jerbiton can leave new players overwhelmed with choices when designing a new magus. This section gives advice, to assist storyguides and players to narrow their choices down into a single character concept.
 
-### *Less Intelligent Magi?*
+### Less Intelligent Magi?
 
 Sagas vary concerning the prevalence of The Gift. In sagas where The Gift is rare, and mundane hostility to magi is acute, House Jerbiton's magi may select apprentices with serious Flaws, provided they have the Gentle Gift. As an example, the usual Intelligence score for magi described in earlier supplements is +3. An Intelligence score less than +3 reflects a premium placed upon Gentle Giftedness by masters in House Jerbiton. As a counterbalance, these apprentices are often healthier and more charismatic than their sodales from other Houses.
 
-### *Free Virtue*
+### Free Virtue
 
 Players of Jerbiton magi are allowed to select for themselves the Free Virtue their character acquires for being a member of the House. This choice is limited to Minor Virtues that relate to scholarship, art, or interacting with people. Suitable virtues from ArM5 include: Affinity with Ability, Apt Student, Book Learner, Cautious with Ability, Educated, Enchanting Music, Free Expression, Good Teacher, Gossip, Inspirational, Learn (Ability) From Mistakes, Light Touch, Long Winded, Piercing Gaze, Privileged Upbringing, Protection, Puissant (Ability), Social Contacts, Temporal Influence, Troupe Upbringing, True Love, Venus's Blessing, and Well-traveled.
 
@@ -2443,7 +2443,7 @@ Many of these Virtues require the player to select an affected Ability. Suitable
 
 Theology. If a character has a Virtue linked to an Ability, the magus does not lose this advantage when the Ability is used on non-mundane people, like grogs, magi, or companions
 
-### *Favored Virtues and Flaws*
+### Favored Virtues and Flaws
 
 This section highlights groups of Virtues that suit lifestyles enjoyed by many
 
@@ -2459,18 +2459,18 @@ Jerbiton magi. In addition to those Virtues specifically mentioned, players shou
 - Supernatural Abilities, like Enchanting Music and Entrancement, can be used surreptitiously in cities, but the protection provided by the Dominion in most cities limits their effectiveness. •
 - Jerbiton magi have the True Love Virtue and Lost Love Flaw far more often than other magi. They also •
 
-#### *Houses of Hermes*
+#### Houses of Hermes
 
 often have children who may be represented as Dependents. Those players desiring characters with weaker emotional attachments might prefer the Venus's Blessing Virtue, or Curse of Venus Flaw.
 
 - The Weakness Flaw is tolerated in Jerbiton magi to a degree not found in other Houses, provided it is for a particular form of beauty. Beauty is a subordinating force. •
 - Many Jerbiton magi are Well-traveled. •
 
-### *New Virtues and Flaws*
+### New Virtues and Flaws
 
 House Jerbiton is a loose society of magi: it has no secret arts. Non-Hermetic Virtues and Flaws below may be selected by any companion or magus.
 
-### *New Virtues*
+### New Virtues
 
 #### **Muse**
 
@@ -2495,7 +2495,7 @@ Faeries frequently assist characters with this Virtue. Faeries understand the cl
 
 A character lacking a positive Presence score may not have this Virtue.
 
-### *New Flaws*
+### New Flaws
 
 #### **Brutal Artist**
 
@@ -2517,7 +2517,7 @@ Characters with this Flaw may avoid its penalties by refusing to reveal their be
 
 A character lacking a positive Presence score may not have this Flaw.
 
-# *Urban Magic*
+# Urban Magic
 
 Members of House Jerbiton are pioneers. They travel to, or even live within, towns and cities. The cities of Europe have grown rapidly in size, population, and Dominion for the last 50 years. Jerbiton magi believe these modern cities are something new to the West: magical wastelands completely unlike the ancient cities in which the Cult of Mercury thrived. Jerbiton magi have dwelt in similar places in the East, most notably Constantinople, and use the techniques developed by their ancestors to explore these new, beautiful, treasure-filled impotentators .
 
@@ -2529,7 +2529,7 @@ Every city has a unique array of lacunae, and knowledge of these spaces is vital
 
 Most lacunae in large cities are small. In Paris, for example, there are several lacunae that are single rooms in larger buildings, one that fills the shadow of a particular tree, and one that can only be accessed from within
 
-### *Finding New Lacunae*
+### Finding New Lacunae
 
 Lacunae enter the saga in several ways.
 
@@ -2558,7 +2558,7 @@ Magi do not really understand how lacunae form. The following theories might all
 *Realmsof Power: Magic* will include additional information on how magical spaces form.
 
 
-### *Small Effects and High Penetration Bonuses*
+### Small Effects and High Penetration Bonuses
 
 The resistance of the Dominion and desire to keep their nature secret mold the way magi think about learning and using magic in cities. Young magi determined to live in cities usually select spells in three categories: subtle, public, and wilderness. The number of spells in each category reflect how the magus chooses to live, the conflicts he expects, and the non-magical resources he has to supplement his power.
 
@@ -2579,7 +2579,7 @@ Examples include:
 
 These spells are used when the caster does not mind being recognized as a magus. These allow obviously supernatural travel or help the magus to tidy up mistakes, by killing people or changing their memories. The majority of spells of most
 
-### *Performance Magic, In Brief*
+### Performance Magic, In Brief
 
 Performance Magic is a Minor Hermetic Virtue that may be purchased at character creation, or learned through Initiation, following the rules given in *The Mysteries Revised Edition.* It is so useful for urban spellcasting — and of such great popularity in House Jerbiton — that its rules are presented here in abbreviated form.
 
@@ -2618,7 +2618,7 @@ of studying spells they rarely use, preferring to allow allies and servants to d
 Magi can use their understanding of the natural forces of the world, and their correspondence to mystical forces, to increase the power of their spellcasting. Rules for unprepared ceremonial casting are given on page 83 of ArM5. Characters
 
 
-#### *Societates*
+#### Societates
 
 
 may also increase the effectiveness of ceremonial casting by using props, and by using a prepared spellcasting space.
@@ -2646,7 +2646,7 @@ Casting times when using ceremonial spaces, in minutes per magnitude, are:
 **Six Minutes per Magnitude:** A space that the magus has carefully designed to have suitable architectural features, lines of light and reflection, and appropriate placement of color.
 
 
-### *Invocation of the Civic Patron*
+### Invocation of the Civic Patron
 
 As noted in *Realms of Power: The Divine,* it is possible for a character to ask a saint for a miracle. The formula and its modifiers are too detailed to repeat here. The usual miracle that Jerbiton magi ask for is the right to defend the City from harm. If the miracle is granted, the Dominion does not oppose virtuous use of the character's magic for one scene, or story, at the troupe's discretion. That is, the penalties the character suffers due to the Realm Interaction Chart are reduced to zero.
 
@@ -2662,17 +2662,17 @@ Many Spell Mastery special abilities, described on pages 86–87 of ArM5, are us
 
 Arcane Connections make it far easier for magi to penetrate the magical protec-
 
-#### *Houses of Hermes*
+#### Houses of Hermes
 
 tion provided by the Dominion. Magi have many methods of acquiring Arcane Connections, such as by making social contact, through magically-supported stealth, or by hiring servants.
 
-# *The Creation of Beautiful Things*
+# The Creation of Beautiful Things
 
 Magic assists in the creation of things, by providing detail. A magus who wants to create a horse, for example, need only know that he wants a horse, and cast the appropriate spell, and a horse will appear. The magus does not need to know how a horse's heart works, or that horses do not have eyelashes on their lower lids. These additional details come from a place magi call the World of Forms.
 
 Magi do not agree on what the World of Forms is. Some magi suspect that the World of Forms is the realm of Magic. Others disagree, suggesting that the forms are found in the minds of all humans, or are drawn from the mind of God. These finer points of the metaphysics of creation are insignificant for most players. Jerbiton magi, however, and others who pursue the creative and decorative branches of the mystical Arts, can use the way magi interact with the World of Forms — whatever it is — to their advantage.
 
-### *Beautiful Objects and Detailed Illusions*
+### Beautiful Objects and Detailed Illusions
 
 The training in the mundane arts given to some magi assists them when they are creating intricate magical effects. Usually, Hermetic magi form a vague mental image of their desired effect. Their magic then fills in many of the details of the finished shape, based on the Form of the creation. The magus then consciously alters the outcome, represented by the use of the Finesse Ability. The final product is also infused with the magus's sigil.
 
@@ -2726,7 +2726,7 @@ Flourishes are purely cosmetic effects, but make the maga's practice of the Arts
 - The taste of oranges •
 - The smooth, but dimpled, texture of oranges, or the wood of orange trees •
 
-### *Ease Factors for Creating and Crafting Objects*
+### Ease Factors for Creating and Crafting Objects
 
 The Ease Factors in the table below include the +3 adjustment for magic use (see Rego Magic), assume the magus is familiar with the created thing (+0), and that a mundane artist would have to spend less than a day (+0) on the work.
 
@@ -2744,11 +2744,11 @@ A character using Creo magic need not roll Finesse unless he desires the finishe
 | Remarkable           | 24          | The finest work done by grandmasters of an art                                                    |
 | Almost<br>Impossible | 27          | The epitome of skill in an art                                                                    |
 
-# *Perception and Deception*
+# Perception and Deception
 
 The Founder was skilled in magic that altered perception. His tradition continues, alongside those of many others who have joined the House since its beginnings. Perception is a complex process, which makes it fragile, and easily manipulated, at each of its stages, by magi. The process of distorting the perceptions of others is called deception, and members of House Jerbiton claim to be its masters, even though skilled practitioners of deception can be found in many Houses.
 
-### *Species*
+### Species
 
 Species are particles that are continuously emitted from objects, and that, when they strike the sense organs of the body, evoke a response. Humans regularly encounter four types of species:
 
@@ -2777,7 +2777,7 @@ required to create a copy of a particular person's appearance, so that it fools 
 - **18:** The character may perfectly express his artistic desire to the tiniest detail. This is the level required for exact duplication of an object, with all its tiny flaws and imperfections. It is also the level of Finesse required to create a duplicate that the original person believes reflects his appearance and mannerisms exactly.
 - **21:** The character may create images that appear to be the epitome of the class of object represented.
 
-### *Finesse Bonuses and Penalties for Familiarity*
+### Finesse Bonuses and Penalties for Familiarity
 
 The pattern underlying the range of variance in the shape, color, and structure of a class of objects is called the "simile" of that class of objects. The simile differs from the form. The form of an apple allows a magus to make an idealized apple. The simile of apples allows a magus to make apples that look natural, and vary from the ideal within the natural range. The more familiar a character is with an object's simile, the easier it is to recreate the object convincingly.
 
@@ -2825,7 +2825,7 @@ The following Targets are used for species, supplementing those found in the cor
 
 Hermetic magi have not yet found a way to make solid objects from species using Muto magic. There are several theories as to why this is the case, but many thinkers believe it is because of the difficulty in distinctly sensing a cluster of species to be transformed.
 
-### *Additional, Minor Senses*
+### Additional, Minor Senses
 
 The body has internal senses that complement the five external senses. Like the five greater senses, the ability to interpret internal senses may be targeted with Mentem magic, and the organs these senses use may be attacked with Corpus spells. Internal senses are difficult to target with Imaginem magic of Range greater than Touch, because the species they use are haptic: that is, they travel only through the medium of direct contact on flesh, like the species of touch.
 
@@ -2848,11 +2848,11 @@ Magi can deceive by interrupting the process of perception at any of its many st
 - The mind interprets the signal, giving it meaning. •
 - The signal is remembered. •
 
-### *Mimicry: Making Illusionary Objects*
+### Mimicry: Making Illusionary Objects
 
 The Hermetic illusions described in the core rulebook are almost all based on mimicry — the term for the creation of illusionary objects. Mimicry requires little Finesse , but is unsubtle. As an example of mimicry, a magus who wants to make a victim think a serpent is lying on his bed creates an illusion that sheds natural, non-magical species like those of a serpent from the top of the bed. Everyone nearby sees the illusionary serpent, and reacts to it as if it were real. Mimics have convincing reflections, because they shed species omnidirectionally. Mimics are not resisted by the Parma Magica, because their species are not magical.
 
-### *Traveling Species*
+### Traveling Species
 
 Magi may manipulate the streams of species that pour from objects. The simplest manipulations either replace or destroy the species created by an object. A magus making a leaf look like a coin is replacing the coin's species. A magus making a dagger invisible is destroying its capacity to create optic species. There are, however, subtler ways to manipulate traveling species.
 
@@ -2922,7 +2922,7 @@ created by forcing the species of an object to strike the eye in a less concentr
 Using synaesthetic illusions, the species of a weak sense are altered so that a stronger sense perceives them instead. In humans, sight is the most powerful sense, so most synaesthetic spells make species of less-detectable types visible. Species for
 
 
-### *Synaesthesia Examples*
+### Synaesthesia Examples
 
 Spells that transform the species that trigger one sense into those that trigger another have a base level of 2.
 
@@ -2959,7 +2959,7 @@ This spell transforms the groans and squeaks of damaged pieces of equipment into
 
 external senses, like sight, if changed into those for internal senses, like pain, have no effect because they cannot reach the internal organs that detect them.
 
-### *Tricks of Interpretation*
+### Tricks of Interpretation
 
 There are two different styles of attack on a mind's capacity to interpret what its senses perceive. The magus can attack the mind directly, reducing its ability to think clearly. The magus can, alternatively, use the mind's techniques of constructing meaning to force it to infer false conclusions.
 
@@ -2971,7 +2971,7 @@ The Ease Factor of the victim's Perception roll is the sum of a die roll, the vi
 
 **Victim's Perception Ease Factor: die + value of dominant, active Personality Trait + caster's Perception + caster's Finesse**
 
-### *The Brushstrokes Revealed*
+### The Brushstrokes Revealed
 
 InIm 10
 
@@ -2992,7 +2992,7 @@ This spell makes the species cast by an object within the circle more vivid, so 
 
 Anamorphs usually fool only a single sense, by sending out vague visual clues that the target misconstrues. As images that affect a single sense, they have a base level of 1. Some magi prefer to create anamorphs that affect multiple senses. For each additional sense the magus includes, and that the victim experiences, reduce the victim's Perception total by 3. Anamorphs do not require a Mentem requisite, because they do not magically influence the mind, they merely subvert the human reflex to classify sensations.
 
-### *Anamorph Example*
+### Anamorph Example
 
 A maga wants a guard to mistake her servant for the Duke of Rothesay, but she has no idea what the Duke looks like. She casts an anamorphic illusion on her servant's face, so that people tend to see what they expect to see. Then, to aid the illusion, she arranges for him to arrive at night, on a horse with the Duke's badge on its blankets, carrying a shield with the Duke's coat of arms, while another servant yells, "Open the gates for the Duke of Rothesay!"
 
@@ -3075,7 +3075,7 @@ Other possible mental states include the following:
 - , the more general category, of which "asleep" is used as an example in the core rulebook. An unconscious person is aware of neither himself nor his environment. There are several forms of unconsciousness, for example asleep, comatose, and fainted. •
 
 
-### *Miniature Examples*
+### Miniature Examples
 
 Many of the following spells have a Part Target. This means the magus is creating a stream of species aimed at the head of a single viewer. A magus doing this is targeting a victim with a magical medium, so these spells are resisted by the Parma Magica.
 
@@ -3131,7 +3131,7 @@ Mentem magic can target thoughts. A thought is the expression of an idea, curren
 
 The core rulebook contains base spell levels for creating, understanding, and controlling thoughts. It is also possible to change and destroy thoughts, using the same base levels as for memories. Examples of spells that impair thought are found in the core rulebook. *Tip of the Tongue* (ArM5, page 150), for example, affects the capacity to think a word, rather than the memory of the word, because the capacity returns when the spell expires.
 
-# *Memory*
+# Memory
 
 There are many types of memory. The three classes of greatest interest to Hermetic magi are the following:
 
@@ -3142,7 +3142,7 @@ There are many types of memory. The three classes of greatest interest to Hermet
 Hermetic magic should, in theory, be able to duplicate procedural and inscribed memories from a donor to a target, allowing the transfer of Abilities. At the present time, no magus has accomplished this using conventional spellcraft. Inscribed and procedural memories remain valid targets for other magical manipulations, but the creation of Abilities using magic is currently beyond the limit of Hermetic understanding.
 
 
-#### *Societates*
+#### Societates
 
 Hermetic magic can create episodic memories, as detailed in the core rulebook and expanded below. Hermetic scholars suggest this is because the process of remembering an episodic memory creates a fresh episode, and thus a fresh memory, not sustained by magic. Episodic memories do not grant Abilities, although they may grant individual facts. Memory of a particular event may, at the troupe's discretion, provide automatic success on a particular Lore check. The core rulebook assigns a base level of 5 to spells that create a single memory.
 
@@ -3171,7 +3171,7 @@ The level of detail in an episodic memory is dependent on an Intelligence + Fine
 - **Success by 6 or More:** The magus may include many small details, known to him, which make it easy to confuse a person attempting to confirm the veracity of the memory. **•**
 - **Success by 9 or More:** The magus may include extremely detailed information in the memory. If the target **•**
 
-### *Inscribed Memory Spell Examples*
+### Inscribed Memory Spell Examples
 
 **Creation of the Simile**
 
@@ -3196,7 +3196,7 @@ This spell destroys familiarity with a category of object represented by a singl
 (Base 3, +1 Eye, +2 Sun)
 
 
-### *Procedural Memory Spell Example*
+### Procedural Memory Spell Example
 
 **Dissolving the Wall of Shields**
 
@@ -3218,7 +3218,7 @@ Created thoughts and memories fade from the target's mind when the spell that ge
 
 This is not an effective teaching aid, because it requires an hour of work for each image or significant cluster of facts to fix itself in memory. For example, if a magus creates the image of a map in the mind of a servant, the servant can fix that memory by drawing the details of the map for an hour, before the spell expires. Reconstructed memories are also imprecise copies of the original memory. This does
 
-### *Episodic Memory Spell Examples*
+### Episodic Memory Spell Examples
 
 The spells given in the core rulebook tend to suit this style of memory. Examples include *Recollection of Memories Never Quite Lived*, *Past of Another,* and *Loss of But a Moment's Memory,* each of which relate to memories as records of events.
 
@@ -3256,9 +3256,9 @@ not inhibit the use of simple, reconstructed facts, but for complex information,
 
 Mentem base effect of level 5 (ArM5, page 151). One of the most important inclinations, from the perspective of Jerbiton magi, lies toward belief. That is, spells of this type are used to make targets more gullible, so that other illusions and hallucinations have a greater possibility of success. A second inclination, lack of interest, is also useful. Rego Mentem spells cannot be used to destroy memories, but a character who simply does not care about what she sees is far less likely to remember it.
 
-### *Chapter Three*
+### Chapter Three
 
-# *House Tytalus*
+# House Tytalus
 
 *Dullards.and.idiots.created.laws.to.punish.success. and.enslave.violence,.yet.it.took.someone.of.wisdom. and.perspicacity.to.invent.fear.of.the.gods;.so.introducing.the.most.pleasant.of.teachings,.the.hiding.of. truth. within. a. false. account.. Still,. the. truly. wise. and.acute.of.mind.cannot.be.limited.by.any.laws.of. human.invention.*
 
@@ -3266,11 +3266,11 @@ Mentem base effect of level 5 (ArM5, page 151). One of the most important inclin
 
 House Tytalus is most famously known for their never-ending quest for confl ict. They are perceived as troublemakers, cunning politicians, and perpetrators of clandestine plots. They are all these things and much more. For a player interested in characters of House Tytalus, this chapter describes the history, philosophy, and culture of the House, and details the motivations of these strife-seeking magi. For the storyguide, there is a toolkit of rules for running Tytalus-based stories or sagas, including rules for the resolution of public debates, and ideas for stories based on intrigue and nefarious schemes.
 
-# *History*
+# History
 
 Some have said that the history of House Tytalus can be divided into eras based on pairs of prominent magi in contention with each other. The early years were dominated by Tytalus's fi ghts with his mater, with Tremere, and then with his fi lii, who subsequently continued the tradition by feuding with each other. The middle period of history consisted of the corruption of the House, which set the fourth, fi fth, and sixth Primi at each other's throats. Finally, in the current day, the House is still at war, with two magi
 
-### *Key facts*
+### Key facts
 
 **PoPulation:.**96
 
@@ -3286,7 +3286,7 @@ Some have said that the history of House Tytalus can be divided into eras based 
 
 claiming a right to the leadership of the House.
 
-### *Tytalus the Sorcerer*
+### Tytalus the Sorcerer
 
 In her search for wizards to form an Order united by Hermetic magic and the Parma Magica, Trianoma visited the catacombs of Naples. There she found Guorna the Fetid, perhaps the greatest necromancer who ever lived, and heir to the secrets of death and the dead (see *Houses.of. Hermes:. True. Lineages*, page 112). Trianoma, with great trepidation, invited the hideous necromancer to Durenmar to study under Bonisagus, in order that her powerful magic could be integrated into Hermetic Theory. Unknown to Trianoma, Guorna's three pupils — Tytalus, Tremere, and an as-yetuntrained girl called Pralix — had recently fl ed across the Adriatic Sea to Dacia after discovering her horrifi c plot to transfer her soul from her pus-fi lled, leprosy-riddled body into one of theirs.
 
@@ -3306,7 +3306,7 @@ The three apprentices marshaled forces to kill their former teacher and tormento
 
 Tremere, the two destroyed the remnants of Guorna's tradition in Naples, and then waited for the witch herself to return from the Black Forest. The trap set by the two brothers was too well-planned for Guorna to survive, despite even her new Hermetic teaching. Tytalus claimed to have inflicting the killing blow against his mater, ripping her heart from her pus-filled chest. Guorna, however, had her revenge: with her dying breath she cursed her matricidal pupil with her own affliction of leprosy.
 
-### *Tytalus the Magus*
+### Tytalus the Magus
 
 After the defeat of Guorna, Tytalus and Tremere (and Pralix) marched on Durenmar, intent on eliminating the wizards they considered her allies and co-conspirators. However, the diplomacy of Trianoma forestalled their wrath, and the brothers were convinced of their innocence; indeed, they were persuaded to accept tutelage under Bonisagus instead. Tytalus found the adoption of Hermetic magic very difficult because of his extensive training and substantial power in his native tradition, although he was able to learn the Parma Magica. Pralix became the joint apprentice of Tytalus and Bonisagus, and she received a full understanding of both sorcery and Hermetic magic from her two masters. When the wizards whom Trianoma had gathered at Durenmar started to formulate the structure of the Order, Tytalus assumed that Tremere would become a member of his House, for his magical training was inferior to all of the other prospec-
 
@@ -3343,7 +3343,7 @@ The writings of Tytalus reveal his numerous schemes in the mundane world. He was
 In 798 AD Pralix, now a powerful maga in her own right, introduced her
 
 
-### *Tytalus*
+### Tytalus
 
 Tytalus was both a tragic and a terrifying figure. It was largely because of the threat posed by powerful sorcerers such as Tytalus that the Order was formed in the first place. He was the true heir to Guorna's powerful spiritmagic as well as her curse of leprosy, and he shared with her an apparent lack of social compunction. Once convinced to join the Order, he turned his energy towards ensuring that it would stand as a testament to the Founders long after their eventual demise. Tytalus was a powerful politician in the Tribunals of the Order, but not because he was truthful, earnest, or correct. Instead, he answered any question on any subject instantly and without consideration. He sought to entangle, entrap, and confuse his opponents, dazzling them with strange or flowery metaphors — and if this didn't work, by violence and noise.
 
@@ -3353,7 +3353,7 @@ master to a young maiden whom she had intended to take as her apprentice. The gi
 
 Tytalus's relationship with Hariste bordered on the obsessive; his leprosy made her forever unattainable, and although he received no rejection from Hariste, he refused to sully her perfection. In frustration, she became determined to punish her
 
-### *Tytalus and Tremere*
+### Tytalus and Tremere
 
 *It is dreadful when one who is not wise believes himself to be so.*
 
@@ -3363,7 +3363,7 @@ Tytalus never forgave Tremere for his betrayal before the other Founders. He dev
 
 master for his reticence, thus giving rise to a tradition of rivalry between master and pupil that persists to this day in House Tytalus.
 
-### *The House After Tytalus*
+### The House After Tytalus
 
 In 807 AD, Tytalus left Fudarus dressed only in a leper's robe and veil, and carrying a staff. His familiar was nowhere to be seen. He visited every member of his House one by one, offering advice to each, and all agreed that his demeanor was very unusual. His last port of call was to Hariste, and he tarried with her for over a month, where it is rumored that they finally consummated their love. He then traveled to the Maddenhofen Woods in Bohemia, claiming he was going to win his "heart's desire" from the Queen of the Faeries. He was never seen again.
 
@@ -3378,7 +3378,7 @@ Pralix and Hariste are considered the first pair of "beloved rivals" for which t
 
 
 
-### *The Betrayal*
+### The Betrayal
 
 *I. refuse. to. accept. guilt. for. my. deeds,. for. I. do. not. subscribe.to.the.shackles.of.morality,.which.prevent. you. from. understanding. my. actions.. I. will. admit. that.I.failed.and.that.I.have.forfeited.a.greater.prize. than.you.can.ever.take.from.me,.but.I.cannot.and. will.not.regret.that.which.I.have.achieved..*
 
@@ -3388,7 +3388,7 @@ The fourth Prima of House Tytalus was Tasgillia. She was despised by her House f
 
 The feud ended abruptly in 961 AD when Kalliste brought evidence to the Quaesitores that her mater was amassing power through diabolism, using Guorna's own lore to summon demons to attend to her sybaritic desires. Tasgillia was executed for diabolism by Archmage Erythravis of House Guernicus later that year. Her whole tradition, the Titanoi (see Characters, below) fell under suspicion, and the subsequent investigation resulted in the executions of 14 additional Titanoi, and three other Tytali, at the hands of the Order's
 
-### *The Analects of Tytalus*
+### The Analects of Tytalus
 
 - Summa on House Tytalus Lore, Level 4, Quality 11 •
 - Summa on Philosophiae, Level 3, Quality 11 •
@@ -3398,12 +3398,12 @@ hoplites. Of the lineage of the Titanoi, only Kalliste and her fi lii survived. 
 
 This event came to be known as the Betrayal to Tytali, although the Order more commonly calls it the Corruption; it is viewed as a dark period in history by modern Tytali but not for the reason that other Houses think. They freely admit that Tasgillia was guilty of the crimes of which she was accused, yet fault *Kalliste* for betraying the principles of Tytalus by putting custom before nature, which is completely antithetical to the Founder's philosophy. Further, the Tytalan way would have been to settle the matter behind closed doors; instead the proud House was publicly shamed before the Order, and to this day has not recovered its former reputation. It is Kalliste to whom Tytali refer when they speak of the Betrayal, and her memory is ritually cursed every midwinter at Fudarus.
 
-### *The Schism War and its Aftermath*
+### The Schism War and its Aftermath
 
 Following the Betrayal, House Tytalus underwent a period of relative quiet, concentrating on rebuilding their numbers, as well as their reputation in the Order. The spirit mages, with their command over spirits of confl ict and victory, had been the most combat-worthy members of the House, and with their loss the Tytali turned away from physical confl ict — leaving it to the Flambeau and Tremere — and re-embraced the fi ne art of debate
 
 
-#### *Societates*
+#### Societates
 
 
 In 1228 the Grand Tribunal will be held. Both Primi will want to represent the House at this prestigious event, and it is likely that the rivalry between the two factions will escalate. A player character who has declared for one side will find himself the target of numerous plots by the other side to reduce the number of opposing supporters; likewise, he will be expected to instigate plots to do the same to his rivals. What started in friendly competition (for the members of House Tytalus, if not the Primi) might become a matter of deadly earnest as the Grand Tribunal approaches.
@@ -3420,7 +3420,7 @@ Twenty-five years ago, Prima Buliste entered a protracted Twilight, and she was 
 
 hand over the other. Consequentially, each House-member's decision whether to become a **Decimus** (supporter of the tenth Primus) or a **Fidelus** (loyalist of the ninth Prima) is based on personal choice and/or whim rather than legal merit; only refusing to choose a side invites scorn. Should Tytali from opposite sides encounter one another, they likely as not dispute vociferously about the relative merits of their chosen champion. The domus magna of Fudarus is occupied by both Primi, and has effectively become two covenants under a single roof. While they share the same rooms, barracks, and resources the magi, covenfolk, and grogs loyal to each Primus live separate lives, refusing to acknowledge the existence of the other side. They wear swatches of colored material to distinguish themselves from each other, royal purple for Buliste, and revolutionary green for Harpax, colors which have been adopted as badges by the Fideli and Decimi respectively. Outsiders are perturbed by the seriousness of Tytalan magi in pursuing this conflict, and puzzled that it has been over 20 years and the dispute has still not been resolved. The truth of the matter is that House Tytalus finds the whole business far too enjoyable to be done with it just yet.
 
-# *The Philosophy of Conflict*
+# The Philosophy of Conflict
 
 *A person would make most advantage of justice for himself if he treated the laws as important in the presence of witnesses, and treated the decrees of nature as important when alone.*
 
@@ -3433,7 +3433,7 @@ vigorously in agreement — finally, someone who understands the Master!
 
 Of the many schools of ancient Greece which taught philosophy, Tytalus drew most heavily from the teachings of the Sophists; and it is true to say that much of the corpus of Sophistic teaching holds resonance with the members of House Tytalus today. The Sophists were an antagonistic group of scholars who used underhanded tactics to defeat their opponents, and were almost unanimously reviled by later writers. It is clear why their philosophy is so attractive to House Tytalus, for it is based on an underlying conflict — the rivalry between nature and custom.
 
-### *The Antagonism Between Physis and Nomos*
+### The Antagonism Between Physis and Nomos
 
 *I have made war on my mother, clashed with my brother, argued with my friends, and quarreled with my daughters, yet my worst rival wears my face in the mirror.*
 
@@ -3456,7 +3456,7 @@ The followers of Tytalus believe that custom is directly antagonistic to what is
 
 Laws and justice are merely devices of the majority of weaklings to keep the strong man (who, by *physis*, is a just man) from his rightful place. It is human nature to behave selfishly, whether as an individual or as a nation, and to be a tyrant who enforces his will on others is both an inescapable consequence of pursuing one's *physis* and an ideal state in which to exist. Luxury, wantonness, and freedom from restraint, if backed by strength, constitutes excellence and happiness; all else is worthless nonsense. The downfall of Tasgillia was that this excellence was all she sought, and that her vanity was superior to her prudence.
 
-### *The Philosophers*
+### The Philosophers
 
 The following Sophists were often quoted in the *Analects of Tytalus*:
 
@@ -3495,7 +3495,7 @@ Tytalus adopted the motto of the House for a reason; he believed that adversity 
 
 amasses personal power in an attempt to overcome that foe. A magus who hoodwinks another in an intrigue makes his victim more cautious, and less likely to be fooled again. This drive towards constant growth also allows Tytali to snatch victory from the jaws of defeat by claiming selfimprovement when a plan fails.
 
-### *Tools of Conflict*
+### Tools of Conflict
 
 Tytalus personified the weapons with which he fought as the Titans, the mighty spirits he employed against Guorna, matching each weapon to a spirit. These tools were not just swords and knives, but also magic, and, most importantly, words. A Tytalan maga is expected to struggle with others on the debating floors of the tribunals, on the battlefields of men, in the certamen dueling ring, and anywhere else that conflict can be found. Though she is not expected to excel in every arena, she must be sufficiently equipped with the correct weapons — the right force — to put up a good fight.
 
@@ -3527,7 +3527,7 @@ The strength of a Tytalus is a full understanding of his own *physis*, and the r
 
 Crushed by defeat again and again, an apprentice to a Tytalus magus must learn to strive against injustice to fulfill his nature. This struggle builds the necessary mental armor to survive almost anything that life throws at him. The strength of will that drives every Tytalan magus though life is perhaps their most distinctive feature. Some members of House Tytalus turn this philosophy against others, supplying the hardship and denying the pleasure so as to forge steel from crude iron. Most subjects of this treatment do not appreciate the attention.
 
-# *Culture*
+# Culture
 
 *Remember me for this, if nothing else — I can forge your weapons, I can strap you into your armor, I can even choose the battlefield; but only you can win the fight.*
 
@@ -3538,9 +3538,9 @@ For a House that teaches that there is nothing morally repugnant in acting selfi
 While rivalry plays a major role in the life of a Tytalan magus, there are other things that bind the house together.
 
 
-#### *Societates*
+#### Societates
 
-### *Rumors*
+### Rumors
 
 The following is a small selection of the current rumors surrounding the Founder. There are many more, on all kinds of topics:
 
@@ -3589,7 +3589,7 @@ It is rare for a member of this House to fall for the same trick twice; a vanqui
 
 A follower of Tytalus is rarely gracious in victory. It is important to his ego and his reputation in the House that a defeated opponent fully recognizes the winner's superiority, and the more public the defeat, the better. To other Houses, crowing over a victory often appears to be unnecessarily arrogant, but Tytalan magi cannot feel shame over such a thing. As Tytalus said, "To be forgotten is a crime, to be recognized for a crime is a victory; but to be recognized for great victory is to touch godhood."
 
-### *Tytalan Names*
+### Tytalan Names
 
 When Tytalus adopted wizards into his House, he gifted each with a Hermetic name for everyday use, using the names and titles of the Titans as his inspiration. Clearly, this list was limited in size, and Tytalus was not above creating false names with fabricated meanings. The Primi of House Tytalus still reserve the right to confer a magus's name upon his initiation into the Order, but in modern times the magus is permitted to choose the name himself; the written endorsement from the Primus is merely a formality. Many Tytali still choose for themselves a name styled after the Titans of ancient time; alternatively, magi might manufacture names for themselves by combining a prefix with a gender-specific suffix.
 
@@ -3635,7 +3635,7 @@ A Tytalan apprenticeship is not a pleasant experience (see below), and the compe
 Should this hostility not resolve itself naturally, then a magus can make an official declaration of rivalry by declaring that they are Beloved Rivals. This is not a thing to be entered into lightly, for once declared — usually ceremonially, with the issuance to the rival of a spiral drawn in the magus's own blood — the rivalry will persist until the death of one or other of the opponents. Formally declared rivalries extend throughout one's life; at every turn, the rival is there, waiting for signs of weakness. The two magi do everything they can to hinder each other, even putting each other's lives in danger. However, when they meet in person, they are often inseparable, like a
 
 
-#### *Societates*
+#### Societates
 
 doting father with his beloved son. Beloved Rivals most commonly exist between master and pupil, but could potentially exist between any pair of Tytali who have sufficient cause.
 
@@ -3667,7 +3667,7 @@ Most commonly there are two participants, and up to a dozen observers, but parti
 
 As the name might suggest (deriving from *eris*, Greek for "strife"), these moots are not places where disputes are settled peacefully. Each participant in the moot does his utmost to defeat his opponent through any means necessary. The "weapons" allowed in a moot must be decided in advance; battles of words are the most common, and rules for adjudicating debates are
 
-### *Stories Arising from Eristic Moots*
+### Stories Arising from Eristic Moots
 
 Moots are a great place to further one's own ambitions within the House, even if just as an observer. Whether one of the participants in a moot is an ally or an enemy, a player character might discover something about that participant that he would rather had been kept hidden.
 
@@ -3682,7 +3682,7 @@ There are two special kinds of eristic moot practiced by the House. The first is
 
 "sudden-death" tournament that lasts until there is one contestant left — the new Primus. In such a high-powered expression of the eristic moot, the most skilled members of the House have eliminated some of their competitors even before setting foot in Fudarus, already outmaneuvering their opponent on a social level through blackmail, rumor, and other dirty tricks.
 
-### *Apprenticeship*
+### Apprenticeship
 
 *Education is not implanted in the soul, unless one reaches a great depth.*
 
@@ -3694,7 +3694,7 @@ Tytalus suffered greatly during his training under Guorna the Fetid — perhaps 
 
 Tytalan magi usually choose older children than other Houses, and ensure that they are well-schooled in Latin, Artes Liberales, and Athletics (the subjects favored by the Sophists) before apprenticeship begins. This education usually comes from enrollment in a good cathedral school, or else employs private tutors, perhaps even the magus himself, under the disguise of a persona (see below). The child is kept oblivious of the magical destiny ahead of him. After at least four years of this schooling, the student is retrieved from his tutors and informed of his true path. The
 
-### *Excerpts from the Book of Instruction*
+### Excerpts from the Book of Instruction
 
 An apprentice in his first two years of training must keep his head below the level of his shoulders while cleaning laboratory equipment. An apprentice who has passed his sixth year of instruction must hold an object of wood between his teeth when performing this task.
 
@@ -3710,7 +3710,7 @@ Obduracy is to be punished by the collection of 144 pinecones.
 
 Intransigence is to be punished by wearing clothes soaked in vinegar for one week.
 
-### *Eschewing the Book of Instruction*
+### Eschewing the Book of Instruction
 
 The *Book of Instruction* is the most hated object of a Tytalan apprentice, and having suffered for 15 years under its dictates, a newly-Gauntleted magus often swears to never use it on his own apprentices. Almost invariably, however, when the time comes to begin such training, he procures a copy and sticks to it rigidly, now convinced of its true utility in producing apprentices of the highest caliber. A maga deciding not to use the book should employ a similarly harsh regime designed to build self-confidence and harden the spirit, for her apprentice must learn the value of choosing *physis* over *nomos*, else he cannot call himself a follower of Tytalus.
 
@@ -3723,7 +3723,7 @@ which lays down explicit rules as to the correct behavior of an apprentice, and 
 In the latter years of the apprenticeship, the master deliberately exposes her pupil to the culture of the House through the eristic moots, stressing the huge inequality between his current situation and the rule-flouting attitude of the House, while continuing to punish any
 
 
-#### *Societates*
+#### Societates
 
 sign of complaint or dissatisfaction. Many apprentices run away at least once during apprenticeship, others take out their frustration on other children in the covenant through bullying. Some harbor fantasies of murder, although few act on these urges. Nevertheless, it is a foolish master who does not take precautions against harm from the person who stands at her back, cooks her food, and shares her sanctum when she is sleeping.
 
@@ -3741,7 +3741,7 @@ An apprentice who succeeds in killing his master at any point in his apprentices
 
 Any member of another House, or a hedge wizard, can join House Tytalus if he can accept the philosophy of the Founder expounded in the *Analects of Tytalus*, and succeed in forcing a Tytalan magus (of a similar or greater age) to accept him as worthy, as in an Apprentice's Gauntlet. However, a general lack of wizards seeking to join the Order of Hermes in the 13th
 
-### *Story Seed: The Unwilling King*
+### Story Seed: The Unwilling King
 
 A non-Tytalus character makes an enemy of a Tytalus. She fights him for years in all arenas. Finally, when the non-Tytalus manages to inflict the final blow that lays her opponent low for good, he welcomes her to House Tytalus. By defeating him, she has passed the Gauntlet of the House. From then on, all Tytali of the Tribunal refer to the maga as a member of their House, much to her embarrassment.
 
@@ -3757,7 +3757,7 @@ From this attitude it also follows that a magus ceases to be a member of House T
 
 Tytalus allows him to relinquish his status as a member of the House. The magus then has a year to join a new House before he is punished for vagrancy (see *Houses of Hermes: True Lineages*, House Guernicus). Many Houses do not trust a magus who renounces House Tytalus, assuming it is all part of some grander plot.
 
-### *Cabals*
+### Cabals
 
 *Tragedy creates a deception in which the deceiver is more just than the nondeceiver, and the deceived is wiser than the undeceived.*
 
@@ -3774,7 +3774,7 @@ This next meeting is the inaugural meeting of the new cabal. Only those who are 
 Once formed, cabals usually have a closed membership, but a magus who publicly displays adherence to a goal pursued by a cabal may receive one or more invitations to join from current members; of course, he might be a member already! A magus typically receives an invitation to form a new cabal once every few years, or more frequently if the local area has a substantial Tytalan presence. A typical cabal consists of 3–6 members, and meets once every few years. Many followers of House Tytalus are active members of one or two cabals, and less active members of several others; these cabals may even have conflicting goals, with those who are members of each deliberately manipulating both to eventually face each other to determine which one is the stronger. Most Tytali find such political games highly entertaining.
 
 
-### *Current Cabals*
+### Current Cabals
 
 Detailed below are some examples of cabals that are currently active or soon to form. Note that the goals of these cabals vary enormously, from the straightforward to the ambitious, and some might have aims that exceed the limits prescribed by the Code of Hermes. The names of cabals are usually somewhat esoteric and mysterioussounding, and they employ a symbol with which to identify anonymous communiqués from cabal members.
 
@@ -3789,7 +3789,7 @@ Detailed below are some examples of cabals that are currently active or soon to 
 **The Unnamed Cabal** (Symbol: a counterclockwise swirl of five lines, which double back on one another and create a vertex). Spoken of in hushed tones, the Unknown Cabal's goal is to ensure that the other cabals are kept in conflict with each other. It is supposedly composed of the most powerful Tytalus Archmagi, and, some claim, Tytalus himself! There may even be more than one cabal with this goal. . . .
 
 
-# *Intrigue*
+# Intrigue
 
 *As gold is tried in the fire, so acceptable men are tried in the furnace of adversity.*
 
@@ -3803,7 +3803,7 @@ The sections below provide a toolkit of elements that play a part in pursuing in
 
 Intrigue-based adventures are difficult to frame, because player actions can be so variable under different stimuli. It is usually best to present an overall picture describing the situation, with a number of different resolutions, each with its own
 
-### *Stories of Intrigue*
+### Stories of Intrigue
 
 Presented below are examples of typical Tytalan intrigues. In common with the fables told in House Tytalus, they feature Tytalus as the protagonist, and other founders fill other iconic roles: Guernicus as the co-conspirator, Tremere as the dupe, and Flambeau as the dupe's ally. These are fables, not history, but should be used to provide inspiration for intrigue-based stories.
 
@@ -3836,7 +3836,7 @@ consequences. It is far more important to know the goals of the antagonists rath
 
 way around this is to change the actions of the antagonist as a result of the player characters' actions. In reality, you retroactively decide, the intriguer had planned these actions from the very beginning, and thus the ability to predict character actions is simulated. However, it is important not to thwart the actions of the characters too many times with this trick, nor to deny
 
-### *Tytalan Agencies*
+### Tytalan Agencies
 
 them a hard-won victory.
 
@@ -3850,7 +3850,7 @@ The Appendix presents rules for recruiting and maintaining agents, mundanes who 
 
 Perhaps the most common use for agents among House Tytalus is as spies. Simply having a source of information in the local town or church can provide an early warning of any potential problems directed at a covenant, which a Tytalus can use to his personal advantage. A more dangerous game is placing a spy among
 
-### *Example Agencies with Tytalan Principals*
+### Example Agencies with Tytalan Principals
 
 Fudarus maintains an immense spy network. The covenant directly controls a number of agents, who themselves maintain their own agencies, and so on through several layers of interaction. These agents are spies, largely petty criminals, who keep a close eye on the mundane interests of the covenant, although the Primus sometimes uses them on behalf of the House. It is unclear to what extent the members of this network are secretly agents of Tytali other than the Primus.
 
@@ -3891,7 +3891,7 @@ Someone is targeting a magus's agents, eliminating the source of their Bonds, or
 
 is still working for the same person, and is often relocated to keep him away from his former principal. This process only works if the original principal does not have regular contact with his agents, else the deception is too easily discovered.
 
-### *Disguises and Personae*
+### Disguises and Personae
 
 *One's own character inevitably comes to resemble the things one spends most of one's day with.*
 
@@ -3933,7 +3933,7 @@ The only limit to the disguise's role in society is the ability of the magus to 
 
 Every time a character performs an action that confi rms the role he is playing in society, he gains 1 experience point in the Reputation, which increases as if it was an Ability. Actually living in a community for a season and having regular contact with its members is usually suffi cient to earn 2 experience points in the Reputation, whereas regular visits throughout a season earn only 1 experience point. A magus who makes a brief visit every season (avoid-
 
-### *New Supernatural Ability: Persona*\*
+### New Supernatural Ability: Persona\
 
 The character with this Ability (and the appropriate Virtue, see New Virtues) can alter his appearance to adopt a different identity. He can alter any aspect of his appearance: hair and eye color, complexion, shape of nose, build and height (within the limits of his Size), apparent age, and even gender. These changes are total, proof even to the most intimate mundane scrutiny, but do not change the character's essential nature. Consequently, all Characteristic scores remain unchanged, Virtues and Flaws are transferred to all new forms, and a male character cannot become pregnant when adopting the persona of a woman.
 
@@ -3945,7 +3945,7 @@ The character gains one identity for every point he has in the Persona Ability. 
 
 ing penalties to lab work, for example) gains only 2 experience points per year. A magus can speed the process of establishing the Reputation by staging noteworthy events for the benefit of those he is fooling (1 experience point per event), but he must display the appropriate Abilities (or be able to hide his lack with subterfuge or magic) or else his efforts are wasted. Events that enmesh him closer in the community — such as getting married, having children, or taking on a role such as reeve — are also worth 1 experience point in the Reputation. In any case, a Reputation increased by more than 2 experience points per season is likely to arouse suspicion because the magus is trying too hard.
 
-### *Hermetic Disguises and Personae*
+### Hermetic Disguises and Personae
 
 It is entirely feasible for a Tytalan magus to maintain a deep cover disguise or persona in another covenant, if he divides his time between the two covenants and has a plausible explanation for his absences. He also needs to ensure that his identities could never meet each other, and that his two sets of sodales never come into contact. Unless a covenant's charter explicitly forbids a magus from being a member of more than one covenant, there is nothing contrary to the Code in such an action, although once discovered it might raise a few questions regarding the motives of the Tytalan magus who perpetrated this double life.
 
@@ -3953,7 +3953,7 @@ No Tytalus has been caught impersonating a Quaesitor, but if one was, then every
 
 The Gift is the biggest impediment to a magus wanting to run a deep cover disguise; however, as the fake identity becomes wellknown in a society, the effects of the distrust and envy engendered by The Gift diminish (assuming that the character does nothing to confirm them), as people around him become used to him. A character therefore subtracts his Reputation from the penalty to social rolls caused by The Gift, but only when dealing with those with whom he has regular contact. This diminishing effect of The Gift does not apply to strangers, only to those that come to know the magus well; this is a formalization of the effect seen normally over prolonged contact with the Gifted (ArM5, page 75).
 
-### *Story Seed: The Reborn Identity*
+### Story Seed: The Reborn Identity
 
 A Tytalan magus enters a protracted Twilight and becomes one of his personae. All memories of his life as a magus are lost, and he cannot use the magic to which he is unaware he has access. Perhaps the magus was privy to a particularly important piece of information that the player characters need. Should the player characters — unaware of his condition — reveal to him the existence of the Order, the persona might react badly to this knowledge and start telling the world their secrets.
 
@@ -3970,7 +3970,7 @@ Deep cover disguises have a limited life span. If a magus ceases to expose the c
 
 A magus with the Persona Minor Supernatural Virtue has a Supernatural Ability of the same name (see insert), which grants the power to create a small number of flawless disguises. Every one of these personae automatically gains a Reputation of 1 when it is first created, and any experience points applied to the Persona Ability also apply the same number of experience points to the Reputations of all of the magus's personae. A persona is more than just a physical disguise; every persona has its own distinct speech patterns, personality, and quirks. A persona cannot impersonate a specific individual — a magus cannot become Duke Tybol, for example — but he can develop a persona who has sufficient physical and behavioral mannerisms of Duke Tybol to convince others that he is his illegitimate son. Although magical, the Persona Supernatural Ability involves a very subtle form of magic; at the moment of transformation it can be detected as if it were a Muto Corpus spell of 10th level, but for every sunset or sunrise that passes after adopting the persona, the magnitude drops by one. Negative magnitudes of spells can only be detected with powerful Intellego Vim magic (see *Houses of Hermes: True Lineages*, page 71). If an equivalent spell level is needed for other purposes (such as for *Sight of the True Form*, or *Wind of Mundane Silence*, for example) the equivalent spell level is equal to five times the score in the Ability.
 
-# *The Fine Art of Debate*
+# The Fine Art of Debate
 
 *One should destroy the seriousness of one's opponent with laughter, and his laughter with seriousness.*
 
@@ -3978,7 +3978,7 @@ A magus with the Persona Minor Supernatural Virtue has a Supernatural Ability of
 
 The rules given below present a mechanic for settling an argument through debate. They are broken down into two sections: the testing of the strength of each other's positions in a debate, and the consequences of winning the debate on the opinions of the observers. Naturally, if there are no observers, or the issue is one of little consequence, then the second step is unnecessary. However, they become of vital importance to a magus who is prosecuting or defending a case at Tribunal.
 
-### *Resolving Differences*
+### Resolving Differences
 
 The rules for debating are very much like the rules for certamen in **Ars Magica Fifth Edition**, and the purpose is very similar. Instead of exhausting your opponent, you instead attack his arguments. Each round of a debate may last a few minutes or a few hours, depending on the complexity of the issue at hand. Before the debate begins, the opponents must decide how long it will continue; an independent arbiter (such as the praeco at a Tribunal) might allow the debate for continue for a preset number of rounds (typically 5–10), or else decide arbitrarily when it is over. A debate ends in any case if one debater's position is left "unconscious" by an attack of his opponent.
 
@@ -4037,13 +4037,13 @@ Particular styles of debating are more effective against some tactics than other
 
 *In the next round she tries to continue her interrogation, but Carolus has switched tactics, suddenly changing from compliments to obtuse comments loaded with meanings that confuse her (he is still using Charm, but this time with Intrigue). Carolus now enjoys a +3 bonus to his Attack Total, as well as inflicting a penalty on hisopponent's Attack Total as before. Moratamis will probably switch tack herself next round.*
 
-### *Winning Arguments*
+### Winning Arguments
 
 The debate rules can be placed in a wider context, if the outcome of the debate may convince onlookers of the merits of the opinions of the debaters. The debate tests the strengths and weaknesses of each opponent's position over the issue, but it is down to any outside observers as to which opponent truly won the argument. At a Tribunal, this distinction becomes even clearer, because decisions are made by voting, and the way an observer votes on a case is not solely due to who won the argument, but also determined by alliances and enmities.
 
 If a debate ends because one opponent's argument loses 5 or more Fatigue Levels, then the winner is clear. Otherwise, the opponent whose argument has the smallest Fatigue penalty is deemed to be the technical victor. To convert winning an argument into winning a vote, the storyguide must first divide the observers of the debate into factions, depending upon whether they were initially inclined towards the defense principle, the prosecution principle, or neither. Where there are more than two opponents in a debate, this
 
-### *The Power of Truth*
+### The Power of Truth
 
 A character who wishes to debate a patently flawed thesis, or one held in overwhelming contempt by the audience, might begin the debate already "fatigued"; the severity of this fatigue should be judged by the storyguide. A Tytalus may take the most preposterous stances against a demonstratively false proposition at an eristic moot to prove his skill rather than to determine the truth of the issue.
 
@@ -4067,11 +4067,11 @@ Refer to the table at the bottom of the page for the effects of the Argument Str
 |                      |                    |                   |                      |
 
 
-### *Using Certamen Instead of Debate*
+### Using Certamen Instead of Debate
 
 For personal issues at Tribunal, certamen is often used to resolve differences. If a certamen takes the place of a formal debate, then the result of the certamen is binding no matter how erudite or persuasive the loser. However, certamen may also be used to resolve single issues that are part of a bigger case, in which case the winner of certamen may not automatically win the vote as well. For example, conflicting testimony regarding what was intended by an action might be resolved with certamen, but this does not settle the entire case. In this situation, simply use the actual Fatigue Levels lost rather than debating Fatigue Levels when calculating the Argument Strength of the winner.
 
-### *Example Proposal Cases*
+### Example Proposal Cases
 
 **Clarification:** A magus wishes it to be made clear that a particular hedge wizard is an enemy of the Order.
 
@@ -4085,7 +4085,7 @@ Having determined which way the Tribunal votes, the storyguide should tally up t
 
 *Example: Moratamis the Quaesitor is a popular figure at Tribunal. Of the 55 votes present,*
 
-### *Other Uses for the Debate Rules*
+### Other Uses for the Debate Rules
 
 Debates do not only have their purpose in the Tribunal halls of the Order. Mundane courts of law can also be persuaded by a strong argument, regardless of the evidence either way. For most of Mythic Europe, the winner of a debate is judged the winner of the case, unless the arbiter of justice is corrupt. In the Kingdom of England, Common Law prevails, which institutes a jury (of 12, 24, or 48 peers) to judge the case; such trials should be judged according to the voting system described above. However, jurors should be randomly assigned to the friendly, neutral, and hostile factions. If a character with The Gift is on trial, only 10% of the jurors begin the case sympathetic towards that character's position. Furthermore, the social penalty of The Gift is applied to the Defense Total of a magus when debating with mundanes before witnesses.
 
@@ -4111,7 +4111,7 @@ As detailed in *Houses of Hermes: True Lineages*: House Guernicus, most cases (i
 Proposal cases are ones in which a magus seeks a correction, clarification, or addition to the Code of Hermes. In such cases, the debate is held between the proposer and the rest of the Tribunal. Any magus may enter into a debate with the proposer, and once the praeco feels that the case has been fully discussed, he stops the debate and calls for a vote. In game terms, the debate continues for a preset number of rounds, typically 5–10 (although the players do not know in advance how many rounds will eventually take place). Each round, the proposer faces a question or objection from a member of the audience. The storyguide should present each opponent's argument, allow the player magus to respond, and then make a debate roll. The storyguide should assign Attack and Defense Ability scores to each interrogator, but the proposer is fighting against a single opponent — the whole Tribunal — and the blows he lands are counted against that single entity.
 
 
-#### *Societates*
+#### Societates
 
 Once all the points have been debated, the proposer's Argument Strength is used to determine the margin of victory in the usual way. However, the Argument Strength may suffer a penalty determined by the type of modification required to the Code. Magi are wary about making drastic changes to the Code of Hermes, and thus the more alteration required, the more difficult it is to win the case. A **clarification** does not propose to change the Code, it merely asks for a clear statement to be made about the Tribunal's attitude towards a specific position. An **addition** doesn't change the Code of Hermes either, but it expands the meaning of a specific case to cover a more general situation. An **alteration** of the Code actually suggests that a previously made ruling was incorrect, and should be replaced with a superior version, authored, of course, by the proposer. Note that a regional Tribunal can only make modifications to the local Peripheral Code, although they can recommend that a successful proposal case be taken to the next Grand Tribunal, where it may modify the Code as practiced in all Tribunals.
 
@@ -4122,7 +4122,7 @@ Once all the points have been debated, the proposer's Argument Strength is used 
 | Alteration                                | –3                                 |
 | Case being heard at<br>the Grand Tribunal | –1 (cumulative)                    |
 
-# *Characters*
+# Characters
 
 *A magus who does not have at least one disgraced magus in his ancestry has displayed a distinct lack of enterprise.*
 
@@ -4139,7 +4139,7 @@ Puissant Stealth, Gossip, Light Touch, or Social Contacts.
 
 If Tytali could be said to have Flaws in common, they would be related to internecine struggles. The new Flaw of Beloved Rival (described below) encapsulates the love-hate relationship that Tytali often maintain with their sodales. Enemies and Feud can both be used to represent a rivalry that relates more to persecution than the normal competition. Tormenting Master and Weak Parens can both result from apprenticeship (see above).
 
-### *New Virtues*
+### New Virtues
 
 #### **Leper Magus**
 
@@ -4148,7 +4148,7 @@ If Tytali could be said to have Flaws in common, they would be related to intern
 This Virtue describes the mystic legacy passed on from Tytalus to Hariste's line through the vector of leprosy. This Virtue can only be bought if the character also has the Leprosy Flaw. It allows him to draw upon the strength of his body to increase the power of his magic, granting the Life Boost Minor Virtue. He can also draw even deeper into this power if he desires, mortifying his disease-ridden flesh to produce vis to power his own spells. The vis generated in this way can only be used by the magus himself, in spellcasting or laboratory activities (but not study), and cannot be stored in any way — in fact, it never leaves his body. By accepting a Light Wound, the magus can infuse a single magical working with three pawns of vis, of any Technique or Form. A Medium Wound supplies six pawns, a Heavy Wound nine pawns, an Incapacitating Wound 12 pawns, and a Deadly Wound (killing the magus) 15 pawns. Any vis that is produced beyond the magus's capacity to use in the current magical activity is lost, as is any vis surplus to the requirements of the activity to which this power is applied. Leprotic wounds open on the magus's body as he calls upon this power, but not quickly enough to affect the Casting Total of a non-Ritual spell affected by this power. All Lab Totals suffer the wound penalty as normal, as do the Casting Totals of spells that take more than one round to cast (such as Ritual spells). These wounds
 
 
-### *The Titans*
+### The Titans
 
 The Titans (according to House Tytalus) were the means by which the world was created. The elder generation of Titans were the rulers of the universe before the gods of Olympus usurped their position. The gods fought with and eventually imprisoned the Titans, leaving them capable of ordering the universe, but only with the permission of their captors. According to legend, the Titans also created man and his base nature, but it was a god who brought justice, conscience, and laws from heaven to man — Hermes.
 
@@ -4176,7 +4176,7 @@ do not start to heal until the magical activity that they are being used for is 
 
 The character may adopt one or more flawless disguises, changing both his physical appearance and mannerisms. Choosing this Virtue confers the Supernatural Ability Persona 1 (see Personae, above).
 
-### *New Flaws*
+### New Flaws
 
 #### **Leprosy**
 
@@ -4191,7 +4191,7 @@ A leper has a permanent –2 modifier to her Living Conditions (with an addition
 The character has a rival who is both fiercely protective of him and obsessed with opposing him at every turn. For Tytalan magi, this rival is usually an older maga, most likely the magus's former teacher, or possibly an elder apprentice
 
 
-### *Titanoi*
+### Titanoi
 
 **Symbol:** A labyrinth of two joined key-spirals, one turning left, the other right.
 
@@ -4204,13 +4204,13 @@ The Titanoi excel in the summoning and control of spiritual entities. They conce
 
 The taint of Tasgillia's trial still runs deep in this lineage, and a Titanos who is open about his membership of this tradition might suffer from the attentions of a suspicious member of House Guernicus, determined to uncover the diabolic roots of the magus; thus, Titanoi characters frequently have the Enemy Flaw.
 
-### *Leper Magi*
+### Leper Magi
 
 **symbol:.**A hedera made of two intertwined ribbons or snakes.
 
 Tytalus contracted the dread curse of leprosy from his mater Guorna, but managed to spare all but one of his followers from the contagion. To his great chagrin, it was Hariste, his cherished fi lia, who was the unfortunate victim of this disease. Hariste herself took the knowledge that she had contracted the curse with remarkable sangfroid; secretly she rejoiced, for the disease identifi ed her even more closely with the man whom she loved and respected, and it removed the last barrier between the two of them. When Tytalus disappeared, Hariste was over-wrought
 
-### *The Curse of Leprosy*
+### The Curse of Leprosy
 
 *Thou. shalt. not. bow. down. thyself. to. them,. nor. serve.them:.for.I.the.LORD.thy.God.am.a.jealous.God,.visiting.the.sins.of.the.fathers.upon.the. children. unto. the. third. and. fourth. generation. of. them.that.hate.me.*
 
@@ -4237,7 +4237,7 @@ their sodales. Even if a leper magus can persuade a covenant to let him join, hi
 
 All magi aegroti must buy the Leper Magus Virtue and the Leprosy Flaw. Should they ever somehow lift the curse of leprosy, they lose the Leper Magus Virtue. All also have a Minor Magical Focus in either disease, wounds, or aging. They are inevitably specialized in Corpus magics, and usually have either Affinity with Corpus or Puissant Corpus. The Painful Magic Flaw is unfortunately common; those who are lucky enough to escape it developing with their leprosy may acquire it through Twilight episodes later in life.
 
-# *Magic*
+# Magic
 
 *Critias said that more men are good from practice than from nature. A magus who does not practice will never be good, no matter what his nature.*
 
@@ -4324,7 +4324,7 @@ Magi of House Tytalus often employ magics that assist them in their intrigues. S
 
 Tytali rarely control the mundane agents of their schemes directly with magic; these spells tend to inhibit freedom of thought, and Tytalan magi prefer agents who are capable of adapting to a situation over mindless automata. Furthermore, Rego Mentem spells that are powerful enough to be of use usually cause Warping, which is an annoyance for any agent who is to be used more than once. More subtle spells, such as ones to induce feelings of loyalty, or to spread malicious gossip about a rival (see *Burning Issue of the Day*, below), are far more popular.
 
-#### *Houses of Hermes*
+#### Houses of Hermes
 
 For meeting with co-conspirators, Tytalan magi often preserve their anonymity with face-changing or face-blurring magic (see *The Clandestine Mask*, below), or else meet in total darkness. Some do both, just in case one concealment method is negated by treachery. Spells can be employed to ensure the secure transfer of information between conspirators (see *Enchantment of the Pedestrian Pigeon*, below), or else communications can be written in Tytalan ink (see below).
 
@@ -4417,7 +4417,7 @@ This spell calls a spirit of wrath to the magus's current location, if he has an
 
 Similar spells exist for summoning the spirits of other emotions.
 
-### *A Spirit of a Person's Anger*
+### A Spirit of a Person's Anger
 
 **Magic Might**: 20 (Mentem) **Characteristics**: Cun –1, Per 0, Pre +1, Com +3, Str +3, Sta +1, Dex +2,
 
@@ -4480,7 +4480,7 @@ Without the Mystery Virtue of Hermetic Theurgy, this spell must have a level of 
 
 (General effect, +4 Arc, see *The Mysteries Revised Edition*, Chapter 9: Hermetic Theurgy for more details)
 
-### *An Aspect of Zelos New Corpus Guidelines*
+### An Aspect of Zelos New Corpus Guidelines
 
 **Creo Corpus**
 
@@ -4511,9 +4511,9 @@ All of the target's wounds immediately improve by one level of severity; an Inca
 (Base 25, +1 Touch)
 
 
-### *Chapter Four*
+### Chapter Four
 
-# *House Ex Miscellanea*
+# House Ex Miscellanea
 
 *We.are.the.Order's.forsaken.army;.they.have.used. us.to.defeat.their.foe,.and.now.they.wish.us.to.depart. back. to. the. hedges. and. the. crags. from. which. we. came..It.shall.not.be.so!.We.might.be.hedge.wizards. and. crag. witches,. but. we. have. proven. our. power. 'gainst.a.foe.the.Order.itself.feared.to.face..If.they. must.be.forced.to.recognize.us.as.equals,.then.we.must. be.the.crooked.staff.which.applied.that.force!.*
 
@@ -4521,11 +4521,11 @@ All of the target's wounds immediately improve by one level of severity; an Inca
 
 House Ex Miscellanea is the largest of the Order's 12 Houses, and yet it has the least prestige and recognition among other magi. This is because, unlike other Houses, there is no unifying concept that unites the House, no common descent, single cultic belief, nor shared philosophy. Instead, this House is composed of numerous Lineages, Mystery Cults, and Societates, each one with its own history, culture, and magic. This chapter is divided into two parts: the fi rst part provides the reader with some facts about the House as a whole, and the second part is devoted to the description of nine traditions of House Ex Miscellanea.
 
-# *History*
+# History
 
 The story of the formation of the House was a major event in the history of the Order of Hermes, and is well known (ArM5, page 10). Briefl y, Pralix the pupil of Tytalus was charged with hunting down a non-Hermetic warlock called Damhan-Allaidh (pronounced DAH-van-AHL-ee; often Latinized to Davanallus) who had recruited an army of Anglo-Saxon runewizards and monstrous shapechangers and posed a threat to the Order in the early ninth century. To assist her with this task,
 
-### *Key Facts*
+### Key Facts
 
 **PoPulation:.** Estimated at 180, although a census is currently underway which may revise this number.
 
@@ -4546,7 +4546,7 @@ When Pralix declined to return to home in triumph, Mercere visited her in person
 Under Pralix, the House was ruled by a Council of Four, representing different facets of the House's interests. It was initially a martial House populated by battle-hardened wizards, and ruthlessly pursued the "join or die" imperative of the Order, making enemies of both Tremere and Flambeau, who felt that their own House identities were being threatened,
 
 
-### *Rumors and Stories*
+### Rumors and Stories
 
 - Damhan-Allaidh may not have died at the hands of Pralix, but perhaps feigned his death and escaped. Sightings of the warlock abounded in Scotland (and further afield) in the ninth and tenth centuries, but none have been reported since the Schism War. The suspicion remains that Damhan-Allaidh or his descendents still plot the downfall of the Order, starting with House Ex Miscellanea. •
 - Pralix is still technically the leader of Cad Gadu; a seat is left for her at the Council, and her opinion is requested on any motion. Is there any connection between her disappearance and that of Prima Hariste of House Tytalus, which occurred just a few months later? •
@@ -4556,14 +4556,14 @@ by numbers if not power. Pralix disappeared in 863 while returning from a visit 
 
 Immediately before the Schism War, a new Primus named Basilicus seized control of the House. By this time, the House had become bloated with many traditions seeking the protection of the Order, and had sacrificed its martial focus for diversity. Basilicus re-instituted the Council of Four, and whipped the House back into a shadow of its former self. He had been warned by his own prophetic abilities of the coming strife, and was determined that House Ex Miscellanea would not suffer because of it. In fact, many of the founding traditions of the House harbored a great deal of resentment for House Diedne due to antipathies which reached back to before
 
-### *The Name "Ex Miscellanea"*
+### The Name "Ex Miscellanea"
 
 *Miscellanea*, in ancient Rome, was the name given to the food provided to gladiators to keep them strong: a porridge made of blood, offal, and oats. The name was well chosen by Pralix, because she intended the Ordo Miscellanea to strengthen the Order of Hermes through opposition. However, with her characteristic wry humor, when they joined the Order she named them House Ex Miscellanea, with a meaning more like "from out of the rag-tag mixture," indicating the diverse nature of the House. A member of this House is correctly referred to as a magus Ex Miscellanea, not a magus *of House* Ex Miscellanea, or any variant thereof. Of course, these magi are more likely to refer to themselves by their traditions rather than their House.
 
 
 the Founding of the Order; in Britain, at least, many Diedne magi died at the hands of the magi Ex Miscellanea. However, once again, upon the passing of Basilicus the House entered a decline again, from which it is yet to raise itself.
 
-# *Culture*
+# Culture
 
 House Ex Miscellanea, despite its predominantly British roots, now encompasses magi from all over Europe. Before its formation, hedge wizards were recruited either into the Mystery Houses (if their ideology was appropriate) or the Societates (often House Flambeau). House Diedne was a common recipient of hedge wizards, and since the demise of that House during the Schism War, House Ex Miscellanea has inherited its stereotype of having naturalistic, primitive wizards with little classical education and poorly developed Hermetic magic. This stereotype is not wholly justified, for many of the traditions of House Ex Miscellanea have roots that are every bit as noble and sophisticated as those of the Founders themselves. However, the stereotype is not wholly wrong either, for there are a large number of magi Ex Miscellanea who are uninterested in the Order as a political body — their membership is purely to prevent harassment from the other Houses, so that they may pursue their own goals in peace.
 
@@ -4574,7 +4574,7 @@ There is hardly any "House culture" at all. Magi of this House congregate only s
 In 1220, for nearly the first time, the House seems to have a chance at rejuvenation. For the last eight decades, the Prima of House Ex Miscellanea was Immanola, from a tradition of seers. In her youth she was a firebrand who excited the Stonehenge Tribunal with her dire prophecies, none of which appeared to come true. As age caught up with her and senility set in, she was respected less and less. She has now sat unmoving for twelve years, gazing into a pool at Cad Gadu. Four years ago she was declared to have entered Final Twilight, and the House elected Ebroin to be Primus. Ebroin is a young and vibrant magus who has attempted a number of reforms. He has re-instated the Council of Four, placing nominal control of three Tribunals under each of the Council members, leaving himself in charge of the magi Ex Miscellanea of the Stonehenge Tribunal. He has called for a census of the House, and seems to have plans for the revitalization of the House. Only time will tell whether his plans will bear any fruit, or whether he will fail like others before him.
 
 
-# *Magic*
+# Magic
 
 Most of the traditions of House Ex Miscellanea have preserved some aspect of their pre-Hermetic powers that they consider superior to those of the Order. While the magic practiced by the Order of Hermes is superior to all other magical traditions (past and present), even its most ardent supporters admit that in some cases, potency has been sacrificed for flexibility. In addition to the Limits of Magic, there are some areas of magic that some wizards found exceptionally easy, but are quite difficult under Hermetic theory.
 
@@ -4586,7 +4586,7 @@ The Minor Virtue represents a successful re-focusing of non-Hermetic powers into
 
 Note that Hermetic Virtues and Flaws, including the ones gained by being a member of House Ex Miscellanea, affect only
 
-### *The Primus Ex Miscellanea*
+### The Primus Ex Miscellanea
 
 When a Primus Ex Miscellanea dies or enters Final Twilight, all the members of Cad Gadu become eligible candidates to the position. The magi Ex Miscellanea of each Tribunal must then reach a consensus of which of the candidates they support. The candidate with the most votes from the thirteen Tribunals is appointed as the new Primus, and given the Robes of Dusty Dawn (see below) as a symbol of his position. The first act of the new Primus is to dismiss the members of the Covenant of Cad Gadu, and redistribute their positions to any magi of the House whom he feels are worthy. He is also responsible for choosing replacements for magi of the covenant when they pass on.
 
@@ -4594,7 +4594,7 @@ This system is clearly open to corruption. Under an aging Primus, the membership
 
 The **Robes of Dusty Dawn** were given to Pralix by the Columbae (see later) when she assumed leadership of the British wizards against Damhan-Allaidh. The robes are much too big to fit Primus Ebroin comfortably, and he finds them stifling. Therefore, despite the substantial magical protection they offer, they are most commonly found slung over a chair or in a crumbled heap upon the floor, discarded by the Primus.
 
-### *Saga Seed: The Boy King*
+### Saga Seed: The Boy King
 
 Primus Ebroin has big plans for his House, but there are a number of stumbling blocks in his way. Firstly, the Council of Four that he has instituted has not been wisely chosen. None of the four magi have any respect for each other, or for the Primus, although they pretend otherwise. Each has his own agenda, and all of them are mutually incompatible. The Primus is both young and inexperienced, and clearly a poor judge of character. Those who meet him frequently decide he is a bumbling fool, but they would be wrong. Ebroin is an *orbus* (see below), although he prefers it that this is not widely known.
 
@@ -4604,7 +4604,7 @@ The machinations of the leadership of House Ex Miscellanea would make an interes
 
 the exercise of Hermetic magic, not non-Hermetic powers.
 
-### *Supernatural Abilities*
+### Supernatural Abilities
 
 This section provides guidance on how a troupe can design a new Major Supernatural Virtue to be the mainstay of the magic of a tradition in House
 
@@ -4615,7 +4615,7 @@ Ex Miscellanea. These rules may also be used by the storyguide to create Major S
 All Supernatural Virtues created with this system are associated with a Supernatural Ability, which represents how
 
 
-### *Accelerated Abilities*
+### Accelerated Abilities
 
 This chapter describes some Supernatural Abilities that use the Art experience scale rather than the Ability experience scale. These are a new type of Ability, called Accelerated Abilities to distinguish them from standard Abilities. These Abilities use the Art experience scale because they are designed to be compared against an Ease Factor outside the usual range (where 21 is extremely difficult, even for a specialist). Instead, typical Ease Factors for Accelerated Abilities are the Mights of supernatural beings, or spell levels. The only other difference between a Supernatural Accelerated Ability and a Supernatural Ability is that the equivalent spell level for an Accelerated Ability is equal to the Casting Total, not (Ability x 5).
 
@@ -4662,7 +4662,7 @@ When invoking her non-Hermetic magic, a maga Ex Miscellanea usually does so in a
 
 She might use a dead language other than Latin, or scratch runes on the ground, or employ powders and potions. The details of this procedure should be given in the description of the Ability, and should be no more restrictive than the requirement for words and gestures from a Hermetic magus. However, all uses of the Ability absolutely require the exercise of these practices; they cannot be avoided in the same way that a Hermetic magus can use restricted words and gestures. The invocation of Hermetic magic by magi Ex Miscellanea is (usually) identical to other magi.
 
-### *Example Supernatural Abilities*
+### Example Supernatural Abilities
 
 Described below are a few examples of this system in action. All of these are suitable Major Supernatural Virtues for a magus Ex Miscellanea. Further examples may be found in the descriptions of the traditions later in this chapter.
 
@@ -4672,7 +4672,7 @@ This Ability allows the character to summon mundane animals over long distances.
 
 The character cannot directly communicate with the animals unless he has another Ability that allows him to do so (such as Animal Ken), and they depart naturally as determined by the storyguide. Even if the character lacks the ability to communicate with the animals, they
 
-#### *Societates*
+#### Societates
 
 are friendly towards him, and if naturally aggressive, may fight to defend him.
 
@@ -4690,7 +4690,7 @@ are friendly towards him, and if naturally aggressive, may fight to defend him.
 
 A character with this Ability is able to create a wind, duplicating the effects of any wind-based Creo Auram spell at Range Voice and Target Individual; similar Supernatural Abilities exist for other weather phenomena. To invoke the wind, the character literally has to whistle, and makes a Stamina + Whistle Up the Wind roll, against the Ease Factor listed in the table below. If successful, the wind immediately starts to blow as commanded by the character. It continues to blow in the same manner even if the character stops whistling. A character who summons a wind at a particular strength can change that wind to another type with a similar strength (such as from *Circular Winds of Protection* to *Broom of the Winds*), diminish it to a weaker effect (such as *Chamber of Spring Breezes*), or end it entirely. Each of these changes requires a Communication + Music roll, using the Ease Factors for maintaining
 
-### *Story Seed: Animal Experimentation*
+### Story Seed: Animal Experimentation
 
 The Summon Animals Ability can call animals more quickly than they could possibly travel under their own speed, and therefore breaks the Limit of Arcane Connection. A magus interested in pursuing Breakthroughs in Magic Theory might seek out a character with this Ability.
 
@@ -4726,11 +4726,11 @@ until the following spring.
 
 **Specialties**: vegetables, cows, women (Supernatural)
 
-### *Magi Ex Miscellanea Without a Major Supernatural Ability*
+### Magi Ex Miscellanea Without a Major Supernatural Ability
 
 All magi Ex Miscellanea must take a Major non-Hermetic Virtue, but not all members of this House have a Supernatural Ability as their compulsory Virtue. The only requirement is that this Major Virtue represents some aspect of the magus's non-Hermetic tradition. (Thus, Wealthy is not an option, although Magister in Artibus may well be.) It may describe another capability he possesses, such as Greater Immunity, Greater Purifying Touch, or Ways of the (Land). It may be suggestive of his background, such as Strong Faerie Blood or Giant Blood. New Supernatural Virtues that are not controlled by an Ability score should be designed following the rules for effects instilled into items, complete with uses per day, and should not exceed seventh magnitude. It should have no more flexibility in its effects than a Minor Magical Focus.
 
-# *Characters*
+# Characters
 
 There are a number of different types of characters within House Ex Miscellanea, who can be broadly split into three groups (although there is shading between all three).
 
@@ -4738,11 +4738,11 @@ There are a number of different types of characters within House Ex Miscellanea,
 
 These magi make up the majority of the House, and are created according to the usual mechanics presented here and in **Ars Magica Fifth Edition**. If a Supernatural Ability is acquired as part of the apprenticeship of a magus Ex Miscellanea (that is, as his House Virtue), then this Ability should be considered to be his Favored Ability, and the character does not suffer any penalty to the Source Quality (ArM5, page 166) from his Art scores if learning his Favored Ability after his Hermetic training.
 
-### *Favored Abilities*
+### Favored Abilities
 
 As a Gifted character learns Supernatural Abilities, it normally becomes more difficult to learn new ones (ArM5, page 166). However, many traditions have a group of **Favored Abilities**. Scores in these Abilities do not penalize the Source Quality for learning other Favored Abilities. The Source Qualities to learn Favored Abilities are still penalized by scores in other Supernatural Abilities, and scores in Favored Abilities penalize the Source Quality to learn other Supernatural Abilities. For most magi, the Hermetic Arts are the Favored Abilities, although as they are all opened in one season this is largely an academic distinction. Magi Ex Miscellanea treat the Hermetic Arts and the Supernatural Ability of their tradition as Favored Abilities.
 
-### *Mythic Companions*
+### Mythic Companions
 
 Mythic Companions (a new type of character first introduced in *Houses of Hermes: True Lineages*, page 104), may also fill the role of non-Hermetic magicians within the Order, but these characters do not have The Gift. Instead, a Mythic Companion has a Special Virtue akin to The Gift, which grants a Minor Virtue at no cost, and then two Virtue points for every point of Flaw he takes. A Mythic Companion character usually has access to strong non-Hermetic magic or Powers, described in other source books for **Ars Magica Fifth Edition**.
 
@@ -4770,7 +4770,7 @@ Both of these situations are very rare. However, a player who wishes to take thi
 
 Take The Gift and Hermetic Magus Social Status Virtues. Taking The Gift •
 
-#### *Societates*
+#### Societates
 
 - also grants one Supernatural Ability without the need for any other Virtue (ArM5, page 36).
 - Complete character creation as a Companion, but the player can choose Arcane Abilities. Supernatural Abilities are encouraged. Include Parma Magica 1 when allotting experience. •
@@ -4780,7 +4780,7 @@ Since the character has The Gift, she can learn any Supernatural Ability after c
 
 *Example: The Scinnfolk (see below)*
 
-### *New Virtue*
+### New Virtue
 
 The following Virtue is particularly suitable for members of House Ex Miscellanea.
 
@@ -4790,7 +4790,7 @@ The following Virtue is particularly suitable for members of House Ex Miscellane
 
 The magus uses non-Hermetic methods to cast Hermetic spells. While he still needs to employ obvious ritual actions, these are not the same words and gestures taught as part of Magic Theory within the Order, and other magi who are unfamiliar with the magus's tradition find it very hard to recognize which spell he is casting. Any attempt to determine the Form of his magical effect (ArM5, page 83) is made against an Ease Factor of 15, without the magnitude of the effect being subtracted from this Ease Factor as normal. If the character has any Supernatural Abilities, then he uses the same methods to cast his Hermetic magic as he does to use his non-Hermetic magic. The magus cannot choose to use the standard Hermetic methods instead of those of his native tradition, but can choose to reduce or forgo words and gestures in the usual fashion (ArM5, page 83).
 
-### *New Flaws*
+### New Flaws
 
 The following Flaws might result from the improper matching of Hermetic and non-Hermetic powers.
 
@@ -4807,7 +4807,7 @@ The character must have at least one Major Supernatural Virtue to take this Flaw
 The magus's magic is susceptible to various folk-remedies for averting hostile spells. Any target who is aware that the magus has just used his magic may attempt a folk ritual such as making a sign against evil, or spitting, and so forth. This grants the target or targets a Magic Resistance equal to (5 x the target's Magic Lore), or 0 if the target does not have this Ability, against the magus's magic only. Furthermore, someone with Magic Lore may be able to devise a manner to break a lasting enchantment, such as sprinkling with salt or lying on an iron bed; this typically requires an Intelligence + Magic Lore roll against an Ease Factor of (9 + the spell's magnitude) or greater.
 
 
-### *Traditions of House Ex Miscellanea*
+### Traditions of House Ex Miscellanea
 
 House Ex Miscellanea contains a number of traditions of magic that have their roots in non-Hermetic ancestors, and share common magical abilities and preferences . Most magi Ex Miscellanea belong to a tradition, although a few are very small, consisting of just the maga and her master. Typically, however, traditions have somewhere between 5 and 25 members , which may be confined to a specific part of Europe or else widely scattered. In the major sections of the rest of this chapter, eight of the larger traditions of magi Ex Miscellanea are described in detail. Listed immediately below, in addition, are eight other ideas for traditions (some of which appear in more detail in books already published for **Ars Magica Fifth Edition**). These brief overviews would need to be expanded before being used in play.
 
@@ -4888,7 +4888,7 @@ The herb-wives and faerie doctors of Mythic Europe have a few representatives in
 
 This tradition figures prominently in lands occupied by the Saxons, including their homeland in northern Germany as well as in England and Denmark. Weather magic is well integrated into Hermetic magic, and the art of Auram is populated with highly useful spells. The hedge witches known as Tempestariae are experts in these very magics. However, the weatherwitch is capable of summoning weather
 
-### *Ringing the Changes*
+### Ringing the Changes
 
 Several of the traditions of House Ex Miscellanea are specific to a culture or a geographic area. While it is perfectly possible that a wandering magus might bring his magic into a different culture or region, it is a comparably simple task to make a few changes to a tradition and relocate them to a different area:
 
@@ -4923,17 +4923,17 @@ The original Thessalians were reclusive worshipers of sinister gods of the under
 
 (More details on the Witches of Thessaly and description of Summoning can be found in *Realms of Power: The Infernal.*)
 
-# *Columbae*
+# Columbae
 
 The *swynwyr* (pronounced "SWINweer;" singular *swynwr*, "SWIN-oor"; feminine singular *swynwraig*, "swin-OOR-aig;" plural *swynwragedd*, "swin-oor-RAG-edth") are Welsh hedge wizards well known for their skill at magical wards. Because this requires them to leave markings wherever they go, they have become known within the Order of Hermes as the Columbae, literally, "pigeons.". In some cases this nickname is affectionately meant, while in others it is clearly derogatory. They are also sometimes called the "ward-makers" or the "white-nailed," the latter term in reference to their use of chalk with most of their spells.
 
-### *Key Facts*
+### Key Facts
 
 **Favored Tribunals:** Stonehenge **Major Non-Hermetic Virtue:** Warding **Minor Hermetic Virtue:** Ring/Circle Magic
 
 **Major Hermetic Flaw:** Necessary Condition (must mark their target)
 
-### *History*
+### History
 
 The original Columbae probably developed out of the earliest magical traditions of Britain, a combination of Celtic heritage mixed with ancient Roman influences. They have always been strongest in Wales, where the negative images associated with magic and sorcery are not as pronounced as they are in other parts of the world. There they generally remain apart from the rest of human society, but ties of blood are also particularly strong in their tradition and so they are not often found very far from their homeland.
 
@@ -4941,7 +4941,7 @@ By the early 800s, the Columbae had become one of the most recognizable groups o
 
 The leader of the tradition when it officially joined the Order was named Colomen ("co-LO-men"), and with the help of Pralix's instruction he and his wife Gwyndolen ("gween-DOH-len") adapted their powers to Hermetic magic, and together they spread copies of their many ward-spells throughout the Order. They hoped to quickly overcome the negative image associated with being hedge wizards and sorcerers of Britain by sharing their magical knowledge with other magi, a goal that they largely achieved in the years that followed. They encouraged the use of the name "Columbae" for themselves and their followers, believing that it was better that they be perceived as comical figures than frightening ones, and so that is how other magi came to use this term for them. In 1220, *swywyr* is used only rarely, to refer to those in the tradition who are not magi.
 
-### *Culture*
+### Culture
 
 The Columbae have very few traditions unique to their line, instead having adopted the few trappings associated with the House as a whole, many of which originally came from them. They often wear white or very pale-colored clothing, and usually carry chalk or some other soft, light-colored stone with which to draw their circles — charred wood will also do,
 
@@ -4955,7 +4955,7 @@ The Gift is unpredictable and does not favor one sex or the other, but because m
 
 *110*
 
-### *The Robes of Dusty Dawn*
+### The Robes of Dusty Dawn
 
 The event that made the *swynwyr* decide to join with Pralix against Damhan-Allaidh was the sudden death of their eldest *swynwraig*, named Gwawrieir ("gwah-REE-eyr"), who was effectively the leader of their magical tradition, and who
 
@@ -4980,7 +4980,7 @@ The robes are rumored to possess other great powers as well, and a popular Herme
 
 and Gifted boys are much more desirable apprentices than girls. For this reason, Columbine magae tend to associate with unGifted members of their tradition more often than Gifted, and do not involve themselves in their political affairs. To outsiders it might even appear that there are no female Columbae in 1220.
 
-### *Characters*
+### Characters
 
 The magic of the Columbae is based on an Accelerated Ability (see Accelerated Abilities, above) called Warding. This may be learned by characters with The Gift or taken during character creation as a Major Supernatural Virtue. While there might be hedge wizards elsewhere in the world who practice a similar sort of magic (that is, they have the same Ability and use it the same way), the Columbae do not acknowledge foreigners as being part of their tradition — all Columbae are Welsh, or so they maintain.
 
@@ -5000,7 +5000,7 @@ If the ward is designed to affect a natural object or type of material, treat th
 
 Warding is best at warding away supernatural creatures with a Might score; when it is used to affect beings with Might, calculate the character's Penetration Total as if the spell level were 0, and treat the full
 
-### *The Fate of Cad Gadu*
+### The Fate of Cad Gadu
 
 Cad Gadu ("KAHD GAH-dee") is primarily encompassed by a magical regio, but the parts of it that extend into the mundane world are built on an island that is technically owned by a Columbine magus, Gwrhyr ("GOOrear") Ex Miscellanea, who has no children but many male relatives. He is a blustering incompetent, extremely old and seemingly very dim, who constantly demands the "proper respect" for his abilities, and by virtue of his age and status in the covenant he has gained a seat on the Council of Four. He does have a filius, Culhwch ("KEEL-hookh") Ex Miscellanea, but they are not related by blood. Both of them are extremely disliked by Gwrhyr's kindred, who have refused to allow him to give the property to his adopted son. When Gwrhyr finally dies, an event that his relatives believe must happen soon, they will claim ownership of the covenant lands and evict the magi, all with the law entirely on their side.
 
@@ -5008,7 +5008,7 @@ The former Prima Immanola woefully neglected this situation, and with the recent
 
 Penetration Total as the final level of the effect. For example, to ward against a target with Might 15, a Columba would only need a (Warding Total + Penetration Total) of 15. As mentioned above, a Columba
 
-### *Wards and Penetration*
+### Wards and Penetration
 
 Hermetic warding spells were all originally adapted from the Columbine tradition, and like any Hermetic spell, these wards must penetrate Magic Resistance to have their effect. A spell like *Circular Ward Against Demons* is much harder to cast at high levels, since both the spell level and the Penetration Total must exceed any affected demon's Might Score. For this reason, magi rarely learn or cast versions of these spells more powerful than about Level 30, instead favoring Rego spells of lower levels that hinder the target's movements more directly.
 
@@ -5020,7 +5020,7 @@ can incorporate an Arcane Connection to a particular target into her ward, so th
 
 Unfortunately, Warding cannot affect creatures with Magic Resistance instead of
 
-### *Warding vs. Wards*
+### Warding vs. Wards
 
 Since Warding is a kind of hedge magic that has been almost completely integrated into Hermetic magic, wards designed using that power are generally inferior to the wards that magi can make. A magus who devotes his study to Rego can find more and better study sources than a Columba who focuses on Warding, and is able to do much more than just ward circles, including the creation of wards bound to Targets other than Circle. Magi can also increase two Arts to influence their casting total, not just one, and can invent formulaic spells that ensure they do not become fatigued, and which they can Master for other advantages. There are also many Hermetic Virtues that the magus may have to increase his Casting Total in certain circumstances.
 
@@ -5041,7 +5041,7 @@ In addition, a Columba can treat any well-defined boundary as a Circle by markin
 When drawing a circle, a Columba can forgo her faster casting time and her
 
 
-# *Ward Guidelines*
+# Ward Guidelines
 
 Here are the various guidelines for warding the different Forms in **Ars Magica Fifth Edition**. All of them are presented at Range Touch, Duration Ring, and Target: Circle, since Warding always uses those same parameters.
 
@@ -5131,15 +5131,15 @@ All Columbae must mark their targets as part of their magic. That is, they must 
 
 Columbae can sometimes make a model or a representation of their target, like a picture or a figurine that clearly resembles their target, and write their marks on that. They can also draw on an Arcane Connection to their target. These methods are usually sufficient for when they need to affect something at greater than Touch Range.
 
-# *The Donatores Requietis Aeternae*
+# The Donatores Requietis Aeternae
 
 The Donatores Requietis Aeternae ("Givers of Eternal Rest") is a young tradition of magi with religious backgrounds that exists to ensure that the spirits of the dead reach their final resting place.
 
-### *Key Facts*
+### Key Facts
 
 **Favored Tribunals:** Their strongest concentration is in Normandy and Stonehenge, but the Donatores are also present in the adjacent Tribunals. **Major Non-Hermetic Virtue:** Banishing **Minor Hermetic Virtue:** Minor Magical Focus (in Mentem for spirits/ghosts, or Corpus for animated dead) **Major Hermetic Flaw:** Restriction (cannot cast spells on consecrated ground)
 
-### *History*
+### History
 
 *That the cadavers of the dead, borne by I know not what spirit, leave their tombs to wander among the living, terrorizing and annihilating them, then return to their tombs which open by themselves before the dead, is a fact that would be difficult to accept if in our age numerous examples did not prove it and if accounts did not abound. If such facts occurred in the past, it is surprising that we find no trace of them in the books of the Ancients, who put great effort into setting memorable things down in writing. . . . Moreover, were I to write down all the instances of this kind which I have learned to have transpired in our times, the undertaking would be beyond measure laborious and troublesome.*
 
@@ -5172,7 +5172,7 @@ Muirgheal, a Quaesitor leading the group, invited the Gifted Donatores to join t
 
 After swearing the Oath, the Donatores accompanied Murigheal to the next Tribunal for their introduction to the rest of the Order. Their presence lead to an acrimonious debate where some magi suggested the Order should instantly March the Donatores to prevent the Church from discovering the
 
-### *Baptism*
+### Baptism
 
 Most people are properly laid to rest according to the religious customs of the locale. In Christian areas, there were, however, some people whom the Church refused to lay to rest. Only baptized persons have a claim to a Christian burial. This rule often prevents stillborn children or those who die before their baptism from being laid to rest. They might be buried near the church or in a special, unconsecrated corner of the graveyard that is removed from the rest of the graves, if the Church buries them at all.
 
@@ -5180,7 +5180,7 @@ The age at which someone entering the Church was baptized varied by location. So
 
 inner secrets of the Order. Others argued that this hysterical fear of the Donatores was completely unwarranted. The debate served as a proxy for the magi to discuss the feelings many had concerning the March on House Diedne without forcing the magi to comment publicly on the prudence of the Schism War. Ultimately, the Donatores Requietis Aeternae were allowed to remain in the Order under the condition that House Guernicus monitor their relations with the Church closely.
 
-### *Culture*
+### Culture
 
 The primary goal of the Donatores Requietis Aeternae is to assist the dead in passing out of the world of the living. In dealing with the dead, the Donatores may come into contact with several types
 
@@ -5219,7 +5219,7 @@ In addition to the belief that the Donatores were little more than spies for the
 
 Many members of the tradition believe that this close scrutiny continues at the prompting of House Tremere. Many members of that House were initially against the admission of the Donatores into the Order. As the Order's preeminent necromancers, Tremere magi often wish to control powerful spirits, while the Donatores Requietis Aeternae want to assist them in achieving eternal peace, or destroy them.
 
-### *Characters*
+### Characters
 
 When a member of the Donatores Requietis Aeternae encounters a spirit he uses his magic to communicate with it to assess whether he will be able to assist it in finding peace. Methods of assistance might include aiding the spirit in performing any unfulfilled tasks that keep it bound to this world. If communication and assistance are impossible because of the creature's hostility, he uses Banishing to neutralize the spirit while investigating it by interviewing its relatives, discovering the nature of its death, locating its remains, or if it is an Infernal creature, uncovering its True Name.
 
@@ -5268,7 +5268,7 @@ Although all of the Donatores's Banishing capabilities are aligned with the Divi
 
 Banishing is a required Virtue for the tradition and is the focus of most junior magi. It allows magi fresh from their Gauntlets to combat spirits and ghosts with greater ability than they would oth-
 
-### *Saintly Visitations*
+### Saintly Visitations
 
 The people who formed the Donatores Requietis Aeternae were a hodgepodge of village hedge wizards, high-born necromancers, and clergy, including priests, nuns, and monks. Some possessed The Gift, but others had no ability with magic at all before receiving their vision. It is possible that other, non-Christian followers of the Divine have also received the Banishing Virtue, but currently all Donatores are Christian. Although the founders of the Donatores experienced visions from several saints, the three most frequent are described here.
 
@@ -5291,7 +5291,7 @@ Requietis Aeternae do not share many magical similarities. There are, however, s
 The frequent meddling of the Donatores in the world of the dead causes many to suffer from the Plagued by Supernatural Entity Flaw. The supernatural entity is often a spirit
 
 
-### *Doing it the Hard Way*
+### Doing it the Hard Way
 
 Magic is not the only way to combat the restless dead. Some ghosts are simply unaware that they are dead and are attempting to complete an important task they failed to finish in life. If a character assists the ghost, it is likely to lay the spirit to rest. Some ghosts wander the earth because they never had a proper burial. Finding their remains and performing the appropriate burial service quiets these spirits. Other ghosts feel an overwhelming guilt for leaving someone behind, or may have a sense of duty to some person. They may remain to protect the person and can only be put to rest if the ward reaches adulthood or demonstrates independence.
 
@@ -5305,14 +5305,14 @@ For restless dead with Might scores too powerful to defeat unassisted, a Donator
 
 All Donatores learn Penetration and many emphasize the use of low-level spells to maximize their Penetration scores against creatures with Might. Most Donatores also master these spells to allow them to cast multiple copies. Obviously, *Demon's Eternal Oblivion* and *Lay to Rest the Haunting Spirit* are two of the more popular spells. Both are very effective against a creature previously weakened by Banishing.
 
-# *The Cult of Orpheus*
+# The Cult of Orpheus
 
 In ancient Thrace there lived a poet and musician beloved of gods and men. He is the root of dozens of myths and hundreds of stories. He was an artist, augur, and Argonaut. Orpheus was a master musician and magician, said by some to have been taught these twin arts by Hermes himself. His followers suggest that this makes him the first user of "Hermetic" magic in history.
 
 
 **Favored Tribunals:** Tribunal of Thebes, Transylvanian Tribunal, Roman Tribunal **Major Virtue:** Sanguine Humor's Blessing **Minor Hermetic Virtue:** Orphic Magic **Major Hermetic Flaw:** Necessary Condition (True Feeling)
 
-### *History*
+### History
 
 Cult lore tells that Orpheus founded a society of magic-wielding priests who worshiped Hermes and Dionysus. Dionysus fell out of favor after Orpheus's death. The society continued to worship Hermes, but also believed Zeus's raising of Orpheus's lyre indicated the musician had apotheosized; thus, they became a cult devoted to the worship of both Orpheus and Hermes. In their attempts to become closer to their hero-deity they studied his life, and developed a sort of magic that could connect the caster to anyone with whom he had a strong, personal, emotional tie, such as Orpheus had with Eurydice. In those days, it's said that these spells were used to commune with Orpheus himself by those who had known him well.
 
@@ -5320,7 +5320,7 @@ After the fall of the cult of Mercury, the Orphic cult absorbed some of their me
 
 Among themselves, Orphic magi still use the Greek title of *magos* (plural *magoi*), rather than the usual Hermetic "magus."
 
-### *Culture*
+### Culture
 
 The Cult of Orpheus is similar to a Mystery Cult, and characters must be Initiated into it. In general, however, the Cult of Orpheus seeks out potential *magoi* who already possess the Virtue and/or the
 
@@ -5333,13 +5333,13 @@ Orphic magoi must conceal the Cult's deep personal connections, as they fear tha
 
 Orphics also hide the Cult's belief in the legend of Orpheus, and that he attempted to restore life to the dead. Many Christians, magus and mundane, would consider such a thing blasphemous, and the Cult could be tainted by association, let alone by rumors that they themselves contact the Underworld.
 
-### *Characters*
+### Characters
 
 Orphic cultists use Hermetic magic, but they incorporate some of their pre-Hermetic knowledge to expand their abilities. Orphic magoi begin with the Major General Virtue Sanguine Humour's Blessing, the Minor Hermetic Virtue Orphic Magic, and the Flaw Restriction (True Feeling). An Orphic magos is so connected to certain others that it colors everything he does.
 
 The Major Hermetic Virtue Mercurian Magic is appropriate to Orphic magoi. Many also have the Minor Supernatural
 
-### *The Orpheus Legend*
+### The Orpheus Legend
 
 Orpheus was the finest composer the world has ever known, with music capable of charming the very rocks and trees themselves, and while he was playing the beasts would harm neither him nor one another, merely lying in adoration of his beautiful melodies. His charms won him the affection of a woman, Eurydice, whom he adored with a fierce love, great and unbounded. Tragically, she was lost to him soon after their wedding; she was seen by the god Aristaeus, who desired her beauty. He advanced on her, and she fled, but stepped upon a viper in the grass. She died soon after, but Orpheus could not bear her loss.
 
@@ -5349,7 +5349,7 @@ Persephone, its king and queen, and played for them a song so sad, desperate, an
 
 Orpheus lost his sanity after this, and wandered the world a second time, and though now in a fit of madness his music was as beautiful as ever. His charms, though, could not protect him from the Maenads, women devoted to Dionysus, who tore him limb from limb in one of their wild rampages through the woods. His head is said to have continued to sing beautifully as it floated down the river and into the sea; his lyre was set among the stars by Zeus himself.
 
-### *The Path of Orpheus*
+### The Path of Orpheus
 
 It is rumored within the cult, and without, that their leaders have access to a ritual that follows Orpheus's path into the Underworld. Orpheus's original trek may have left traces that later *magoi* could follow, allowing them to restore their own beloved (or despised) to the living world.
 
@@ -5373,7 +5373,7 @@ A character with this Virtue receives a bonus to certain rolls. This is based on
 
 If the character ever loses the Story Flaw in question, through in-game resolution, this Virtue ceases to provide any benefit until the character gains another such Flaw. If a character has two appropriate Flaws for any reason, only the first one gained affects this Virtue; note, however,
 
-### *The Cult of Orpheus in Your Saga*
+### The Cult of Orpheus in Your Saga
 
 While there may be one or more Orphic *magoi* in your troupe, the Cult can be easily involved in your stories even if no PC is a member. Orphics can be either antagonists or allies of the PCs, depending on your needs.
 
@@ -5454,11 +5454,11 @@ This spell was developed by a *magos* who wanted to hear his True Love's voice a
 
 (Base 15, +4 *Adelphixis*, +4 Year, +1 Creo to send words)
 
-# *The Pharmacopoeians*
+# The Pharmacopoeians
 
 The Pharmacopoeians comprise a tradition of magi who can trace their ancient lineage back to Crateuas: author of the first pharmacopoeia, illustrator of the first herbal, and the original Root-Cutter. Their magic relies heavily on the curative magic in herbs and plants, which makes them some of the Order's best healers.
 
-### *Key Facts*
+### Key Facts
 
 **Favored Tribunals:** The Pharmacopoeians are found in all Tribunals.
 
@@ -5468,7 +5468,7 @@ The Pharmacopoeians comprise a tradition of magi who can trace their ancient lin
 
 **Miscellaneous:** All Root-Cutters have the Virtue Minor Magical Focus (Healing) and one of the following Flaws: Soft-Hearted, Noncombatant, or Vow (Pacifism).
 
-### *History*
+### History
 
 Crateuas is known as the greatest herbalist of antiquity. He possessed an incredible knowledge of the inherent magical powers of plants, animals, and minerals that could be combined to create powerful cures for many ailments. Crateuas recorded his knowledge in the first herbal. He illustrated the herbal extensively with paintings and detailed diagrams of the most powerful plants. He cataloged their properties in a set of five massive tomes. Although his herbal has been lost to the rest of the world, Crateuas passed his knowledge down to his students.
 
@@ -5478,7 +5478,7 @@ Crateuas's potions worked better than Mithridates could have imagined. When Mith
 
 
 
-### *The Herbal of Crateuas*
+### The Herbal of Crateuas
 
 Although most believe that Crateuas's catalog of herbs and their powers has been lost forever, there are occasional rumors of copies surfacing. Crateuas's herbal is written in ancient Greek and is a summa for Profession Apothecary and Medicine (quality 14, level 5), and Mythic Herbalism (quality 9, level 10). Some believe that Crateuas hid a copy of his herbal in a temple dedicated to Aesculapius, the Greek god of healing.
 
@@ -5494,7 +5494,7 @@ While searching for an apprentice, a Pharmacopoeian is concerned foremost with t
 
 When the Pharmacopoeians were presented with the ultimatum to join the Order or fight it, they reluctantly accepted after the followers of Criamon convinced them that it was possible to follow a path of non-violence within the Order. The Pharmacopoeian dedication to healing and avoidance of power has meant that they tend to play a small role in Hermetic politics. When they do participate, it is frequently only to cast their votes against any proposal by Houses Flambeau, Tremere, or Tytalus, whom the Pharmacopoeians regard as little more than bloodthirsty animals, or to throw their support behind House Criamon, with whom they maintain friendly relations.
 
-### *Characters*
+### Characters
 
 The Pharmacopoeians practice a naturalistic form of magic. It is aided by their in-depth knowledge of the natural magic
 
@@ -5510,7 +5510,7 @@ All members of the tradition possess some skill in Medicine, Chirurgy, or Profes
 
 This Ability allows the character to identify, cultivate, and prepare common herbs, plants, and other ingredients for use in medicinal remedies. Any character without access to proper medicinal supplies makes all Medicine rolls at a penalty of –3 and the Recovery Bonus for his patients is also reduced by 3. (It should be assumed that under normal circumstances all characters have access to medicinal remedies, unless the storyguide decides otherwise.) A skilled apothecary reduces or eliminates this penalty. A medicus with access to remedies prepared by an apothecary with a
 
-### *Story Seed: Interfering with the Mundanes*
+### Story Seed: Interfering with the Mundanes
 
 A disgruntled magus grows tired of the Pharmacopoeians voting against him and his House. He threatens to bring a charge against all of them in the Tribunal for interfering with the mundanes because of the attention their healing brings to the Order. Most Pharmacopoeians are willing to abstain from voting against the magus or to vote with him at Tribunal to avoid any possibility of an adverse decision. However, if the charging magus seeks support for a proposal that would harm innocent people, the Pharmacopoeians might submit to trial instead.
 
@@ -5549,11 +5549,11 @@ The Root-Cutter Virtue is a Minor, Hermetic Virtue. A character with the Root-Cu
 
 **Specialties**: healing wounds, curing diseases, resolving aging crises. (Hermetic)
 
-# *The Lineage of Pralix*
+# The Lineage of Pralix
 
 This tradition within House Ex Miscellanea has little in common with the other traditions of the House. Rather than propagating their own brand of non-Hermetic magic, the Lineage of Pralix instead seeks to preserve hedge traditions by inducting them into the Order. The power they possess allows them to analyze and study magic, which has made them experts on exotic magic. They appear to work tirelessly and selflessly to support and protect House Ex Miscellanea, but never seek any special privileges and honor for themselves. This very altruism (and their adherence to the teachings of Pralix) makes them suspicious in the eyes of many magi.
 
-### *Key Facts*
+### Key Facts
 
 **Favored Tribunals:** Tribunals at the fringes of the Order, to maximize the chances of encountering hedge wizards
 
@@ -5562,13 +5562,13 @@ This tradition within House Ex Miscellanea has little in common with the other t
 
 **Major Hermetic Flaw:** Weak Magic Resistance, against any spellcaster whom the maga has not analyzed using her Comprehend Magic Ability
 
-### *History*
+### History
 
 Soon after the defeat of Damhan-Allaidh, Pralix disappeared for the best part of a year. During this time, it is said, she cloistered herself with an ancient wizard who taught her his secrets. Depending upon who is telling it, this wizard was a Priest of Mercury, a druid who never joined House Diedne, or Merlin himself. When Pralix returned to Cad Gadu she sought among her army of wizards a Gifted child to take as an apprentice, to whom she immediately taught the Supernatural Ability that her line still use today, even though she showed no evidence of knowing this magical power before her disappearance. Not long after finding this child she agreed that the Ordo Miscellanea would join the Order of Hermes, and she set about teaching the new House the magic of the Order.
 
 Pralix never officially joined the House that she created, and since she had foresworn the Order of Hermes, she remained outside of Hermetic circles until her eventual disappearance. The deal she struck to integrate the Ordo Miscellanea granted her immunity from the Order of Hermes for her lifetime. Nevertheless, she was the founder of a Hermetic lineage who have served the House since its inception, never seeking leadership or fame for itself, but working quietly behind the scenes to ease the adoption of exotic traditions of magic into the Order of Hermes.
 
-### *Culture*
+### Culture
 
 Pralician magi (who also call themselves Filii Pralicis, the Children of Pralix) are fascinated by exotic magic. Some study
 
@@ -5608,11 +5608,11 @@ This new member of the Order often does not fit the classic profile of a member 
 
 Those wizards who do not (or cannot) adopt Hermetic magic upon joining the Order are encouraged by the Lineage of Pralix to consider training an apprentice in both the Hermetic and non-Hermetic traditions, and a Pralician maga often volunteers to assist with this process in return for the apprentice's assistance in the laboratory. She begins by opening the Arts for the Gifted child, but before he is taught any Hermetic magic, he is inducted into the magic of his non-Hermetic parens. A typical arrangement for the rest of the apprenticeship is that for every season the Pralican spends teaching Hermetic magic to her colleague's apprentice, she gets two seasons of the apprentice's assistance in the laboratory. At the end of the apprenticeship, the apprentice is not too dissimilar to the average member of House Ex Miscellanea in the **Ars Magica Fifth Edition** rulebook, although he may be biased towards his non-Hermetic parens and suffer from Minor Hermetic Flaws such as Weak Parens.
 
-### *Characters*
+### Characters
 
 The Filii Pralicis do not have direct blood descent from Pralix, and yet they refer to themselves as her children, and as bearing her blood. The Lineage of Pralix preserves a non-Hermetic magical Ability that proves exceptionally useful in their chosen role in the Order, the power to acquire insights into hedge traditions through the Ability Comprehend Magic.
 
-### *Opening the Arts of a Hedge Wizard*
+### Opening the Arts of a Hedge Wizard
 
 This insert summarizes information from pages 106–107 of **Ars Magica Fifth Edition**.
 
@@ -5634,7 +5634,7 @@ If she is able to convert Virtues, the maga may decide which Virtues of her appr
 
 The character is capable of seeing and understanding the nature of active magics. This is a more comprehensive version of Magic Sensitivity, and can do everything that Virtue can, and more. Further, this Virtue does not penalize Magic Resistance like its lesser cousin. Choosing this Virtue confers the Ability Comprehend Magic 1.
 
-### **New Supernatural Ability: Comprehend Magic\***
+### **New Supernatural Ability: Comprehend Magic\**
 
 Through scrutiny of an object or a person, the character can analyze the type of magic it possesses, and its relative strength. Generate a Comprehension Total as follows:
 
@@ -5657,7 +5657,7 @@ The value of the Comprehension Total should be compared to the appropriate Ease 
 Supernatural Virtues that do not grant a corresponding Ability are assumed to have an Ability score of 3 if a Minor Virtue, or 5 if a Major Virtue. A successful roll identifies the presence or absence of magic. If the character continues to concentrate for a round, he may also determine the type of magic that is being scrutinized: Hermetic magic, curse magic, and so forth. A second round of
 
 
-#### *Societates*
+#### Societates
 
 
 Using Comprehend Magic against another magus is scrying, and forbidden by the Code of Hermes. However, many Tribunals will not convict a maga of scrying if the only information she obtains is whether a given person is a magus or not, no matter what method of detection she uses. That said, the Comprehend Magic Ability can give a Pralician much more information than that, potentially revealing a magus's strongest Art, and its approximate power. If a prosecuting magus at Tribunal proves that a Pralician maga obtained more information about him than the bare minimum, then she will be charged with (and likely convicted of) a High Crime.
@@ -5672,7 +5672,7 @@ Additionally, when investigating enchantments (ArM5, page 100) in the laboratory
 
 **Specialities**: magical beings, specific type of magic (Supernatural)
 
-### *Other Magical Interests*
+### Other Magical Interests
 
 The Lineage of Pralix has a number of spells that are targeted directly at exotic magic. They have developed spells directed at suppressing, altering, and dispelling shapeshifting magic, curse magic, spirit magic, and so forth, which are more effective than general purpose spells such as *Wind of Mundane Silence*. Their initial encounters with hedge wizards tend to be hostile, and they like to be well prepared against any aggressive actions.
 
@@ -5696,7 +5696,7 @@ ReVi Gen
 
 R: Voice, D: Sun, T: Ind
 
-### *New Spell Guideline*
+### New Spell Guideline
 
 **Rego Vim**
 
@@ -5716,19 +5716,19 @@ This Mastery special ability may be applied to any Muto or Rego Vim spell design
 
 
 
-# *Rustic Magi*
+# Rustic Magi
 
 Perhaps the most obscure tradition of magi Ex Miscellanea is that of the Mechanicals, also known as the Rusticani or "rustic magi." These are folk magicians who generally eschew interaction with the Order of Hermes and its covenants, and instead live among the common people in villages and other rural communities, whom they consider to be their covenfolk. They have developed a form of magical craft that allows them to build spells and enchanted devices from mundane objects, the effects of which they share freely with their people — but they are disparaged by most other magi for their reclusive and peasant-like ways, and besides respecting the Oath, few of them ever acknowledge that they belong to the Order at all.
 
-### *Key Facts*
+### Key Facts
 
 **Favored Tribunals:** Rhine, Provencal **Major Non-Hermetic Virtue:** Craft Magic
 
-#### *Houses of Hermes*
+#### Houses of Hermes
 
 **Minor Hermetic Virtue:** Spell Foci **Major Hermetic Flaw:** Weak Spontaneous Magic
 
-### *History*
+### History
 
 The mechanical magic that the Rusticani practice appears to descend from a form of Jewish folk magic, exemplified by the Masonic arts used to build the temple of Solomon and the great pillars named Jakin ("he establishes") and Boaz ("great strength"). These mighty stone cylinders are said to have been hollowed out to hold many of the great treasures of the ancient Hebrews, including the *shamir*, a magical stone that could be used to cut other stones. In deference to this legend, many of the casting rituals that rustic magi follow are based in folk sayings from the Old Testament, often involving counting generations after David or measuring by the dimensions of the old temple, though no knowledge of Judaism or Hebrew is necessary for learning them.
 
@@ -5739,7 +5739,7 @@ Another hedge wizard presumed to belong to this tradition (but who never joined 
 
 In 1214, a rustic magus named Tres Ex Miscellanea was brought to trial in the Provencal Tribunal for his interference with mundanes. He had declared Wizard's War against the magi of another covenant in the region, and with more than a hundred armed men he had marched against their tower, completely destroying it and killing most of the inhabitants. The prosecutors argued that Tres had broken the Code when he hired his army, since he had essentially bought their service with enchanted devices, and that he had thereby become significantly and criminally invested in mundane politics of the region. Tres argued that all of the men in his army belonged to his covenant, which had been duly registered at the previous Tribunal, and that he had the right to support his covenfolk with his magic however he wished. The Tribunal eventually decided in his favor, though the presiding Quaesitor also noted disapprovingly that all of these covenfolk had since left his service.
 
-### *Culture*
+### Culture
 
 There are so few Rusticani in the Order that they have few if any established traditions or hierarchy, and really have only their magic in common — which most of them arrived at independently of one another's efforts. Their simple lifestyle often brings about a marked interest in common people, and so rustic magi tend to drift away from Hermetic society, usually adopting the roles of cunning men or wise women on the fringes of mundane communities. They usually dress in rough, practical clothing, much like other people of their craft might wear.
 
@@ -5751,7 +5751,7 @@ most of them come to the Order much later in life, joining House Ex Miscellanea 
 
 The fruits of their magic are ideally suited for sharing with those who have none, and their simple ways usually make their sodales in other Houses treat them as inferiors and hedge wizards. They do have some qualities in common with Houses Jerbiton, Mercere, and Verditius. However, unlike Jerbiton, they have little interest in beauty, instead admiring the practical nature of their magic; unlike Mercere, they have no interest in maintaining the tradition or structure of the Order of Hermes; and unlike Verditius, the devices they make are merely tools, not masterpieces.
 
-### *Characters*
+### Characters
 
 The craft magic of the Rusticani is unusual in that it is useless on its own; it requires the character to have some other exceptional quality or means of producing a supernatural effect, since it modifies the way he can perform his magic and allows him to enchant minor items with these powers. There are some Jewish holy men who have a similar ability to enchant devices with their miraculous effects (see Craft Amulets, *Realms of Power: The Divine* pages 137–138), but otherwise this sort of rustic magic is limited to the followers of this tradition.
 
@@ -5774,7 +5774,7 @@ Third, the character may make charged items in the same way as Hermetic magi (se
 Finally, the character may craft objects that already contain raw vis into magical devices with lesser enchantments (see ArM5, page 96, Lesser Enchantments). The vis must be part of the enchanted object, and again, this does not require a season, but rather a crafted effect as above. Use
 
 
-### *Design and Inscription Bonuses*
+### Design and Inscription Bonuses
 
 Characters with the Craft Magic Virtue can add designs and inscriptions to their crafted effects, giving them a type of enchantment bonus in addition to those for shape and material. Magi who have this Virtue may also incorporate design and inscription bonuses into other objects they make in the lab, such as invested devices, longevity rituals, or talismans. Note that the total bonus gained from shape, material, design, and inscription is still limited to the magus's Magic Theory score (or an applicable Craft score).
 
@@ -5807,11 +5807,11 @@ Because of their need to craft their spells, the Rusticani associate their power
 
 ing, and they cannot exert themselves to make it more potent. Thus, they cannot fatigue themselves when using spontaneous magic, and so they all have the Weak Spontaneous Magic Flaw. This makes them much more dependent upon formulaic spells and advance preparation than other magi, and so when they do perform magic spontaneously, it is typically done in their laboratory or workshop, producing a charged item that they may take with them or give to another. This still requires that they divide their Casting Score by 5 to determine their Casting Total, unless it is done as a seasonal laboratory activity, in which case they may use their full Lab Total as normal.
 
-# *Hermetic Sahirs*
+# Hermetic Sahirs
 
 According to the Qur'an, *sihr* (magic) was taught to mankind by two fallen angels named Harut and Marut, to tempt them away from the straight path of Islam. Those they taught passed the knowledge on through successive generations. In some cases the knowledge became corrupted under the influence of outsiders, and in other cases it was forgotten, leaving only snippets of information. However, there is one tradition who claim to practice the magic in its pure form. These wizards are the sahirs (feminine sahira). Legends among Hermetic magi talk of an Order of Suleiman (Solomon), an organization of Islamic magi who are rivals in power to the Order. What the aims of this order are, and whether it actually exists, is a matter of great debate, particularly in the southern Tribunals of the Order.
 
-### *Key Facts*
+### Key Facts
 
 **Favored Tribunals:** Iberia, almost exclusively. The Hermetic Sahirs are uncommon in the Levant, where their non-Hermetic cousins are still to be found; the Almohads of Iberia practice a variant of Islam that is not acceptable to the 'Abbasids who control the Levant (See *Realms of Power: The Divine*, Chapter 5:
 
@@ -5822,11 +5822,11 @@ Mythic Islam for more information). **Major Non-Hermetic Virtue:** Sihr (an Acce
 
 **Major Hermetic Flaw:** Twilight Prone. The fact that they marshal powerful magic to force spirits to appear means that they are more likely to succumb to Twilight.
 
-### *History*
+### History
 
 In the Umayyad Emirate of the Iberian Peninsula, the sahirs who had caused the death of Flambeau's pater were persecuted by that Founder under his mistaken belief that they were diabolists. His followers continued the witch-hunt in revenge for Flambeau's death, which may not actually have been the fault of the sahirs. When the Iberian sahirs discovered that it was possible to join the Order through House Ex Miscellanea, they saw an opportunity to protect themselves from their aggressors, and formally joined the Order in 925 AD. Upon hearing of the inclusion in the Order of their hated enemy, House Flambeau was incensed. They promised a campaign of Wizard's Wars until the last of these infidels had been exterminated. Nevertheless, the Iberian sahirs were few in number, and were able to hide deep in the Umayyid Emirate (and its successor, the Almohad Caliphate of Cordoba) until the fury of House Flambeau had abated somewhat. Although largely forgotten by the Order, these magi still exist, and are still persecuted (within the bounds of the Code) by the Flambeau who reside in the Tribunal of Iberia. The Hermetic Sahirs have a hope that one day they will be able to broker an accord between the Order of Hermes and their native tradition, and perhaps heal the rift between Christian and Muslim, at least within the Order.
 
-### *Culture*
+### Culture
 
 This tradition is firmly rooted in the southern half of the Iberian peninsula, and is only rarely found outside of these lands. Ancient pacts made by the pre-Hermetic ancestors of the sahirs allow them to summon the spirits of natural features — called the jinn — which inhabit the lands occupied by the Muslims, from Cordoba to North Africa, Egypt, and the Holy Land. Sahirs who stray beyond these lands can still exercise their unique magic to summon spirits, but the *genii loci* who answer such summons in Christian lands are foreign to the sahirs, and the magus finds it harder to make pacts with them. All Hermetic sahirs are at least nominally Muslims, which does not win them very many friends within the Order of Hermes, particularly among the Flambeau who still pursue a centuriesold feud with the sahirs. Naturally, sahirs
 
@@ -5847,13 +5847,13 @@ The Hermetic sahirs have very little contact with their non-Hermetic tradition. 
 
 The non-Hermetic sahirs have much greater control over the jinn. Rather than relying on bargains to obtain favors, the non-Hermetic sahirs can compel service from the jinn if needed. Jinn-given powers claimed for the non-Hermetic sahirs include immortality, healing, instant transportation over far distances, spying, shapeshifting, and even Magic Resistance. The Hermetic sahirs desire knowledge of these magics, but every attempt to make contact with their Levantine brethren has been met with hostility.
 
-### *Characters*
+### Characters
 
 All Hermetic sahirs are Muslim, in name if nothing else. More information about Islam, and Virtues appropriate to Muslim characters, can be found in *Realms of Power: The Divine*. If the saga is set outside of Islamic Iberia, then the Judged Unfairly Flaw is highly recommended, to represent the prejudice that other magi hold against Muslims (the same effect is present in mundanes, but it pales in comparison to the negative effects of The Gift). A sahir character is also likely to have the Feud Flaw, representing the enmity of House Flambeau for his lineage; this is particularly true for sagas set in Iberia, where the hatred still runs deep.
 
 Certain Virtues prove very useful to Hermetic sahirs, particularly Second Sight; in addition, more than a few are Elementalists, and Student of (Realm) is
 
-### *The Jinn*
+### The Jinn
 
 When God made the world, he made three groups of being endowed with intelligence. The angels he made from light, the jinn were made from raw elemental matter (called "the smokeless fire," or aether), and mankind was formed from clay. A jinni (masculine singular, the feminine form is jinniyya) is a spiritual reflection of man; like him they are capable of both salvation and damnation. Some jinn display (or at least feign) a lack of interest in mankind; this kind shows no inclination towards aping human behavior, and are usually pagan. Such jinn draw their power from the Magic realm. Other jinn seem incapable of preventing themselves from meddling in the lives of mortals. They live in close proximity to them, and often profess their desire for salvation by adopting human religion, usually Islam. This group is akin to Arabic faeries. There is a third type, those jinn who seem bent upon the destruction of mankind, known to the rest of the world as demons.
 
@@ -5872,7 +5872,7 @@ Sihr is used to summon a jinni, and provide mystic power to the bargain that pla
 
 **Discern Might: Intelligence + Realm Lore + stress die vs. Ease Factor 9**
 
-### *Example Jinni: Wahhab*
+### Example Jinni: Wahhab
 
 **Magic Might:** 15 (Ignem)
 
@@ -5971,13 +5971,13 @@ the standard cost.
 **Maximum Number of Jinni: equal to Leadership (minimum 1)**
 
 
-### *Typical Duties for Sahirs*
+### Typical Duties for Sahirs
 
 **Simple Duties:** Cleansing or protecting the jinni's home, guarding a human family to whom the jinni has become attached, retrieving stolen wealth, writing a poem in praise of the jinn, providing rare commodities such as frankincense or rubies.
 
 **Onerous Duties:** Fighting wizards who seek to enslave jinn, freeing slaves from captivity, playing a jest on an important local figure, delivering the heart of an enemy, procuring a unique item such as a book written in Solomon's own hand.
 
-### *Sahirs in the Saga*
+### Sahirs in the Saga
 
 Having a sahir character in the saga poses some different challenges compared to other magi. A sahir's work is all done up front; summoning jinn and binding them to service before heading off to complete a task. However, his non-Hermetic magic is critically dependent on the amount of vis available in the saga, for this determines his capacity to summon jinn. Further, a sahir is best on his home turf where he has fully investigated the local jinn, and knows their capabilities well. The storyguide should consider creating several jinn from the region around the covenant, and allowing other players to run them as secondary characters during stories. A jinni must obey the bargain between itself and the sahir, but need not do so slavishly. Different jinn have different personalities; some might be friendly and willing to help, others might be hostile and attempt to twist the bargain that was made. Remember also that as a sahir gains in power, he will desire to summon more powerful jinn, so the storyguide should ensure the area has a range of spirits, or that the sahir meets such entities in his travels.
 
@@ -5995,11 +5995,11 @@ This spell weakens and possibly destroys a creature with Magic Might. If the spe
 
 (Base effect, +2 Voice)
 
-# *Seirenes*
+# Seirenes
 
 This tradition is comprised of a group of magae who practice a form of lyrical magic taught to their founder by the sirens of legend. The music of the Seirenes allows them to influence the thoughts and actions of their listeners and is especially effective when performed in a trio.
 
-### *Key Facts*
+### Key Facts
 
 **Favored Tribunal:** The Seirenes are predominantly located in the Thebes,
 
@@ -6007,7 +6007,7 @@ Roman, and Provencal Tribunals and favor covenants near the Mediterranean Sea, b
 
 Focus (Mentem – an emotion) **Major Hermetic Flaw:** Necessary Condition (all spells must be sung) **Miscellaneous:** The Seirenes only select females as apprentices.
 
-### *History*
+### History
 
 Long ago, Thelxiope (theel-KHIopee) was born and raised in a small port city of Greece. As a young woman, she fell in love with a handsome sailor. Thelxiope begged the young man to abandon his life at sea. Although he promised to marry her, he never intended to and only made the promise to entertain himself between voyages. The sailor finally told Thelxiope that he would be leaving forever on the eve of their wedding. The naïve Thelxiope was unwilling to live without her fiancé and stowed away on his ship.
 
@@ -6026,7 +6026,7 @@ two traveled across Europe searching for other Gifted
 
 girls to save.
 
-### *Culture*
+### Culture
 
 Thelxiope discovered and trained many young women on her travels. After she retired, her pupils continued the search. The Seirenes continue to place an emphasis on recruiting apprentices to their tradition. Because a Seirene often identifi es a Gifted women before she is able to train her adequately, the Seirenes have developed a custom of sending their apprentices to begin training in Music and Siren Song with their parentes. After her gauntlet and before she joins a covenant, a Seirene usually spends time traveling with two other Seirenes. When combined with the joint early training that Seirenes have, these practices have created a very tight-knit tradition.
 
@@ -6040,7 +6040,7 @@ The Seirenes' search to discover Gifted women defi nes their tradition. The Seir
 
 The Seirenes entered the Order relatively early in its history. Although their magic was powerful against mundane men, a magus of only moderate power or anyone familiar with the tale of Odysseus could easily defeat it. The Seirenes realized this and accepted the offer of membership in the Order for access to Bonisagus's versatile
 
-### *Islands of the Sirens*
+### Islands of the Sirens
 
 The legends list several possible islands where the sirens made their home. These include Anthemoessa, between Sicily and the Italian Peninsula; Cape Peloris; Capri; and Sirenum Scopuli. The island that was the fi nal home of the sirens is unknown. It is said to be white with the bleached bones of sailors who were drawn to their deaths by the sirens. It is likely to posses a Magic aura or possibly a regio.
 
@@ -6052,7 +6052,7 @@ magic and the protection of the Parma Magica. The Seirenes also recognized that 
 
 At Tribunal, the Seirenes tend to vote at the direction of their leadership. This practice is not followed as rigidly as it is by House Tremere, and each member retains
 
-### *Seirenes in Your Saga*
+### Seirenes in Your Saga
 
 With a little effort, the Seirenes can play a role in any saga, even if no player elects to play one as a maga. The Seirenes act as a natural counterpart to the Cult of Orpheus. Because of Orpheus's role in the death of the sirens of legend, the Seirenes could serve as antagonists to anyone seeking initiation into the Cult of Orpheus. Likewise, the Seirenes possess a remnant of the lyrical magic that the Orphics have lost. A *magos* of the Cult might try to rebuild the magic of Orpheus by attempting to learn Siren Song. The Seirenes are not a Mystery Cult, but they do not willingly teach their secrets to males. Should the leadership of the Seirenes discover that a male has learned of their magic, they would likely vow to kill him and start a Wizard's War against his teacher. If the student is either a follower of Orpheus, or the Cult offers him protection, the conflict between the Seirenes and Orphics could cause widespread disruption. The characters might get involved if the leaders of their Tribunal attempt to broker a peace.
 
@@ -6060,7 +6060,7 @@ With a little effort, the Seirenes can play a role in any saga, even if no playe
 
 her own sigil. The leadership of the tradition is determined every 12 years at a grand competition. All Seirenes compete for the titles of First Singer, First Lyrist, and First Flautist. The winners are chosen by vote of all members present at the grand competition, which is held at the covenant of the reigning First Singer. Other than this honor, the three Firsts are treated equally and have equal authority. Although someone without The Gift has never won the competition, the possibility exists.
 
-### *Characters*
+### Characters
 
 Before joining the Order, the Seirenes practiced a form of magic that was based solely on the power of their voices and their songs. This foundation still strongly influences the magic of the tradition. The Supernatural Virtue Siren Song is the focus of training for a junior maga, but becomes less important as a she develops her Hermetic Arts.
 
@@ -6091,9 +6091,9 @@ A victim's resistance roll is modified based on the same factors as the Entrance
 Although Siren Song is a more powerful Virtue than Enchanting Music, the two Virtues may be used in combination. Unlike the Enchanting Music Ability, which creates an emotion in a person and can influence individuals on a long-term basis, Siren Song actually controls the mind of the person while he listens to the music. When a character uses both Virtues, her initial command made with Siren Song can be reinforced by an appropriate emotion provided by the Enchanting Music Virtue. The combination can continue to influence the victim after the music has ceased. For the Abilities to be combined, the character must successfully overcome the victim's Stamina on both rolls. If other Seirenes accompany the character in performing, their Enchanting Music scores may be added to the leader's roll. The same restrictions and benefits from the Siren Song Virtue apply to a group performing with the Enchanting Music Ability.
 
 
-### *Appendix*
+### Appendix
 
-# *Agencies*
+# Agencies
 
 Magi often maintain networks of mundane contacts, which they call agencies. Agents pursue the goals of the magus while ensuring that he cannot be implicated in meddling with mundane politics. The following sections describe how agents may be recruited, used, and managed.
 
@@ -6101,13 +6101,13 @@ A character controlling an agency is called its **principal**, in this chapter. 
 
 An **agent** is a person bound to offer assistance to a principal. They may be bound by feudal ties, legal contracts, emotional debts, social obligations, or blackmail. Assistance may take many forms, including providing information, using special skills as directed, controlling other people, or completing tasks. A character paid to do his normal job, or convinced to perform a service during play, is not an agent. Much of the work of agents occurs between stories, unobserved by player characters.
 
-### *Agents are Directly Controlled*
+### Agents are Directly Controlled
 
 Charismatic principals or those skilled at manipulating others may directly control many agents. If the principal attempts to control more agents than the maximum provided by the formula below, he is subject to problems among his agents due to his inability to manage such a large agency effectively. The result is that stories are incurred (see Maintaining Agents, below), and the principal must let some of his agents go (or recruit a factor, see below) to cope. The characters of other players may be part of an agency, but are not included in this total. A character can always control one agent, no matter how poor his social skills or what the penalty of his Gift.
 
 **Maximum Number of Agents: [2 x (Presence + Intrigue** *or* **Leadership – social penalty of The Gift)], minimum 1**
 
-### *Agents Act as Intermediaries*
+### Agents Act as Intermediaries
 
 Most of the people commanded through an agency are not directly controlled by the principal: they are controlled by one of the principal's agents. For example, a mercenary leader, who is directly controlled, has a band of cutthroat followers, whom he controls. These additional people are treated as resources, not agents. They do not count toward the principal's total number of agents, and do not incur stories of their own (see Maintaining Agents, below).
 
@@ -6115,7 +6115,7 @@ An agent employed to control an entire agency on behalf of a magus is called a *
 
 Indirectly controlled people serve a useful role under Hermetic law. They enable magi to influence events without the use of magic, and with no mundanely discernable connection between the magus's instructions and their outcomes. A factor recruits and uses agents on behalf of his principal, and the factor's Characteristics and Abilities are used in all totals detailed below. Factors usually require more mechanical detail than most agents, and it is often convenient for another player to run the factor as a grog or companion character. If this option is not taken, the storyguide will have to determine his relevant statistics, and how these change over time.
 
-### *Designing Agents*
+### Designing Agents
 
 It is not necessary for players to design the character sheets of their characters' agents, but a handful of statistics are required, to quantify the usefulness of each agent. Each agent should have:
 
@@ -6132,9 +6132,9 @@ It is not necessary for players to design the character sheets of their characte
 
 Agents may be controlled by principals they consider their inferiors only through coercion. A principal who recruits an agent of higher social standing acquires the effects
 
-#### *Societates*
+#### Societates
 
-### *Partial Adoption*
+### Partial Adoption
 
 Some troupes prefer to not define the agents that characters receive due to Virtues and Flaws, instead only accounting for those gained during play. If, in your own saga, your players feel it is more convenient for a person with the Social Contacts Virtue to be assured of knowing somewhere wherever he goes, or your storyguide likes being able to add obscure cousins with a talent for finding trouble to the family tree of characters with Close Family Ties, then there's no need to convert these into fully described agencies.
 
@@ -6160,7 +6160,7 @@ An agency can also be inherited from another principal, as the result of story e
 
 Agents can also be given by the storyguide as rewards for skilled play. Some story events offer immediate Bonds. For example, if characters save the life of a student, he might feel gratitude sufficient to form a Bond. Agents cannot be purchased with money or vis. These would be hirelings, which are detailed in *Covenants*.
 
-### *Using Agents*
+### Using Agents
 
 A magus uses his agents by setting one or more of them a task. Agents must, at the discretion of the troupe, have the skill and opportunity required to fulfill the principal's request, and the agent must have a Bond Strength of at least +1. The player of the principal then makes the following roll to determine if the agent agrees to perform the requested action:
 
@@ -6175,7 +6175,7 @@ A principal should not ask for substantial information from each of her contacts
 
 Agents may also be called upon for **assistance**. By cashing in past favors, or applying pressure or incentive on an agent, a principal can induce that contact to use his individual skills or knowledge in the service of his employer. Once again, the assistance requested must be appropriate to the agent — a priest cannot be asked to break into a castle at night to steal a lock of hair from the duke's daughter; this is a task for a criminal practiced in stealth and climbing. Most characters have only two "free" seasons a year, and since this time is spread throughout the year rather than occurring in discrete blocks, an agent cannot always spare the time. Characters with Social Status Virtues may have more time to devote to their principal, but the incen-
 
-### *Resistance of Agents*
+### Resistance of Agents
 
 A newly contacted agent has a Resistance Strength, which represents his reluctance to serve the principal. The more powerful and skilled the agent, the greater this Resistance is, as determined by the table on the next page. The character reduces this Resistance Strength using the methods given in the Recruiting Agents sections. When the potential agent's Resistance Strength reaches zero, he falls under the influence of the principal, who must then develop a Bond Strength of at least +1 to start using the agent. The principal may continue to improve the Bond score using the methods given under Maintaining Agents, below, to a maximum of +6, representing a fanatically dedicated agent. The examples given in this table account only for Virtues and Flaws given in **Ars Magica Fifth Edition**. Supplements often contain new Virtues and Flaws, which troupes cost at their discretion.
 
@@ -6205,7 +6205,7 @@ Agencies are not static things. Death is an inevitable part of life in Mythic Eu
 
 
 
-### *Resistance of Agents Table*
+### Resistance of Agents Table
 
 | Social Status                                 | Resistance | Examples                                                                                                            |
 |-----------------------------------------------|------------|---------------------------------------------------------------------------------------------------------------------|
@@ -6259,7 +6259,7 @@ An agent might die, but his brother or son might seek the same deal with his pri
 
 
 
-### *Modifiers to Persuasion Roll Ease Factors*
+### Modifiers to Persuasion Roll Ease Factors
 
 | Timeframe                                                                           | Modifer  |                                                      |
 |-------------------------------------------------------------------------------------|----------|------------------------------------------------------|
@@ -6278,7 +6278,7 @@ increase through active participation of the principal, and there are two main m
 
 *Example: Bandits are regularly stealing Godfroi's supplies, so Carolus uses mind-reading spells to find out which of the merchant's employees*
 
-### *The Other Side of the Coin*
+### The Other Side of the Coin
 
 It is possible for a player character to be an agent rather than a principal. This usually entails the Favors Story Flaw, but a Mentor may also consider your character to be part of his agency. Your character's principal or his factor will contact your character on an irregular basis and request information or assistance. You should consider what hold the principal has over your character, and what the consequences are of refusing to help him.
 

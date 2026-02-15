@@ -1,6 +1,6 @@
 
 
-# *Credits*
+# Credits
 
 **Authors:** Erik Dahl, Timothy Ferguson, Andrew Gronosky, Richard Love, John Post, Mark Shirley, Andrew Smith, Sheila Thomas **Development, Editing, & Project Management:** David Chart **Layout, Art Direction, & Proofreading:** Michelle Nephew **Publisher & Proofreading:** John Nephew
 
@@ -46,9 +46,9 @@ Copyright 2011 Trident, Inc. d/b/a Atlas Games. All rights reserved. Reproductio
 DIGITAL VERSION 1.0
 
 
-## *Magic*
+## Magic
 
-# *Contents*
+# Contents
 
 | I. Introduction                             | 5                                  |                                       |
 |---------------------------------------------|------------------------------------|---------------------------------------|
@@ -139,7 +139,7 @@ DIGITAL VERSION 1.0
 | Wolf (Lupus)144            |  |
 |                            |  |
 
-## *Sidebars*
+## Sidebars
 
 | Theories Concerning Magic Auras<br>7<br>Bird of Nephelococcygia<br>Spirits as a Source of Vis<br>101<br>Character Guide<br>68<br>Examples of Auras with Multiple Tethers<br>9<br>Daimons<br>102<br>Story Seed: Divine Gatekeepers<br>69<br>Yearly Aura Modifier<br>10<br>Airy Spirits Story Seeds<br>105<br>Cat Character Template<br>70<br>Aura Strengthening Table<br>11<br>Spell Spirits<br>106<br>Cats as Example<br>70<br>Aura Weakening Table<br>11<br>The Jar of Pandora<br>107<br>Character Guide: A Scitalis<br>74<br>Aura Variation Story Seeds<br>12<br>Genii, Gods, and Worship<br>108<br>Claw and Fang<br>75<br>New Spells and Spell<br>Story Seed: A Faerie Apotheosis<br>108<br>Guidelines for Auras<br>14<br>Option: Constriction Attacks<br>75<br>Arcane Connections, True Names,<br>Aura Effect Table<br>15<br>Dragon Story Seeds<br>76<br>and Synthemata<br>110<br>Aligned Aura Example<br>15<br>Character Guide: A Lindwurm<br>78<br>New Spirit Spells and Spell Guidelines<br>111<br>Story Seed: Uniformity<br>15<br>Minor Covenant Hook:<br>Story Seeds for Spirits of Places<br>113<br>Warped Livestock<br>79<br>Aligning an Aura<br>16<br>The Restless Dead in Medieval Legend 115 |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -186,15 +186,15 @@ DIGITAL VERSION 1.0
 | Character Guide: A Fire Elemental<br>139<br>100<br>Taxonomy of the Invisible World<br>Bestiary Story Seeds<br>66 & 67                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
 
-## *Chapter One*
+## Chapter One
 
-# *Introduction*
+# Introduction
 
 The book you now hold in your hands might be described by the magi of Mythic Europe as a great compendium of supernatural knowledge and wisdom — a book that describes the true nature of the Magic realm, and that outlines for the first time many of the fundamental concepts of the world of **Ars Magica**. Within its living pages you will experience the full majesty of the medieval setting at its most ideal, as Magic causes all things to become everything they could be — or should be. Here, Magic makes the lowly serpent into a fearsome dragon, it turns a tranquil clearing into a place of breathtaking beauty, and it transforms an ordinary and mundane person into a mighty wizard.
 
 This book has been divided into two parts. The first part, **Places of Magic**, covers Magic tied to a physical location, including auras, regiones, vis, and the Magic Realm itself. This type of Magic is the most common sort experienced by people in Mythic Europe. The second part of the book, **Beings of Magic**, describes how players can incorporate the realm of Magic into their characters through magical influence, new Virtues and Flaws, Magic Abilities, and even ways to play magical beings as characters. It contains examples of characters that have been changed by Magic, or that have left the Magic Realm and come to manifest in the world outside of its boundaries.
 
-## *What is Magic?*
+## What is Magic?
 
 Of all the supernatural realms of power in **Ars Magica**, Magic is likely to be the one that characters will encounter most often, as covenants are usually located within Magic auras, and all Hermetic magi are aligned to the Magic realm. Yet unlike the power of the Divine or the Infernal, Magic is not associated with what people do, so much as it is a part of what they are. Theoretically, any person can become more Divine or more Infernal simply by behaving more or less virtuously, but to become Magical, the character must essentially change. Magic is in the blood, so to speak; it is part of the character's fundamental nature.
 
@@ -214,7 +214,7 @@ To help players describe things that are more or less part of the Magic realm, h
 
 According to these definitions, the most magical beings would have nothing but essential qualities, would be as old as creation, and would be almost entirely withdrawn from mundane society.
 
-## *Magic and Other Realms*
+## Magic and Other Realms
 
 Magic primarily influences the mundane realm by making it more magical. That is, it brings about the ideal, whether by making certain qualities essential and removing qualities that are not essential, by preserving the magic of ancient places and beings, or by causing them to become more distant and withdrawn. Magic constantly improves upon nature as a supernatural force for change. It is powerful and consistent. When Magic acts upon other realms, however, or when beings of other realms interact with the Magic realm, the results are far less predictable.
 
@@ -234,15 +234,15 @@ Magic and Faerie both complement and act against each other. Magic is generally 
 On the other hand, both realms are often concerned with nature and what things are instead of what they do. Many have theorized that magical and faerie creatures could have a more direct relationship — that in the past they would easily cross over from one realm to the other, or that they both once belonged to a single realm of power that split into two. Many races that exist in the Magic realm may also be found in the Faerie realm, for example. Thus, while Magic and Faerie are often opposed, they also tend to have more in common with each other than with either of the other supernatural realms.
 
 
-## *Chapter Two*
+## Chapter Two
 
-# *Magic Auras*
+# Magic Auras
 
 A location with a Magic aura is one where things are in some way superior to normal, or more real, as described in **ArM5**, page 184. The extent of this difference depends on the strength of the aura and, even at moderate levels, may not be immediately obvious. Most commonly, the air is clearer, colors more vivid, sounds more piercing, vegetation more lush. All Magic auras have an effect on the use of Hermetic magic and other displays of supernatural power according to the rules in **ArM5,** page 183. Auras of level six and above cause Warping according to the rules in **ArM5**, pages 167-168.
 
 Magi have long debated the exact nature of these Magic auras in which their covenants are located. Most agree that in such areas, the boundary between the earthly world and the Magic Realm is weaker, allowing some measure of the magical energy of that pure realm to leak through and infuse the region under the aura's influence. It is commonly accepted that this constituent magical energy takes the form of "fluid vis," although opinions differ as to the exact nature of this phenomenon. While this fluid vis is present everywhere, it flows into and is attracted to magical areas, and pools and concentrates there, forming an aura of power.
 
-## *Theories Concerning Magic Auras*
+## Theories Concerning Magic Auras
 
 Auras of supernatural power fall under the purview of the Hermetic Art of Vim, but the Hermetic theory and understanding of this subject is incomplete. Many Intellego Vim spells for auras work reliably, but magics which attempt to effect a change in an aura are often ineffective or unpredictable. Some magi have even died or entered Final Twilight during an attempt to increase the aura of their covenant. This lack of completeness in the theory is due in part to a lack of agreement among magi. There are two main areas in which opinions differ. Firstly, there is the philosophical question of what exactly the "fluid vis" is, and where (or what) it originates from. Secondly, there is the somewhat more practical issue of exactly how the activities of magi influence Magic auras.
 
@@ -255,7 +255,7 @@ Most magi are generally unaware of the precise impact their activities have on t
 The rules for aura variation in this chapter presuppose that the mainstream viewpoints are correct (for example, vis extraction has a detrimental effect on an aura). You may wish to change some of the numbers around if Magic auras behave differently in your saga.
 
 
-## *Tethers*
+## Tethers
 
 A tether is a particular object or circumstance of magical significance that acts like a magnet to the fluid vis, causing it to concentrate and pool around it to form a Magic aura. Nearly all Magic auras have a tether as their basis and center.
 
@@ -273,7 +273,7 @@ Absent any other influence, the tether(s) normally generate a Magic aura of the 
 
 **Preternatural Aura Score** (maximum 5) = strongest preternatural tether + 1 per additional tether
 
-## *Natural Tethers*
+## Natural Tethers
 
 Particularly perfect or magnificent examples of natural features are quite often associated with low-level Magic auras and are the most common type of tether. Other aspects of the natural environment that can cause or enhance Magic auras are solar or astrological alignments, prevailing or perpetual weather conditions, perfect shapes, and antiquity.
 
@@ -317,7 +317,7 @@ Such an aura may also be found among the ice floes of the distant north, if the 
 
 As a result of Warping, inhabitants become immune to sulfur in the air and water and can tolerate high temperatures. Suitable Minor Flaws are Weak Sense of Taste or Weak Sense of Smell, and Sensitive to Cold
 
-## *Examples of Auras with Multiple Tethers*
+## Examples of Auras with Multiple Tethers
 
 **Base Aura Score 3:** A very high waterfall broken into multiple white braids as it tumbles down over rocks, spray flying (natural tether 1), which always catches the morning sun and throws arcs of rainbow light all around (natural tether 1) before tumbling with a thunderous roar into a very deep pool (natural tether 1).
 
@@ -354,7 +354,7 @@ As a result of Warping, inhabitants adapt to see clearly through the fog and are
 As a result of Warping, inhabitants become inured to the constant wind and adapt to catch sounds and scents even when upwind. Suitable Minor Flaws are Sensitive Hearing or Sensitive Smell (see Chapter 4: Characters, New and Modified Flaws), or the ability to see Visions in cloud shapes.
 
 
-## *Preternatural Tethers*
+## Preternatural Tethers
 
 A preternatural tether is simply one that does not have a natural origin, but is caused by mortals, magic beings, or vis. Individual tethers may have a score up to 5, and combinations of such tethers may produce a preternatural aura score of up to 5, as described above. Such tethers usually come in one of the following types: magic monuments, magic residues, magic beings, or vis sources.
 
@@ -374,7 +374,7 @@ Some kinds of magical beings, which may be animals, plants, ghosts, elementals, 
 
 Places where raw vis manifests may also form a tether for a Magic aura, especially if the vis harvest is large. Whether the aura causes the vis to manifest, or vice versa, is a subject for some debate, although most magi think that a harvest of vis is a by-product of an aura, not a cause of an aura. As a rule of thumb, a source of vis not already in the presence of a tether may be given a tether score equal to (pawns harvested per year / 3), rounding down. For example, a source of vis yielding six pawns may have a tether score of 2.
 
-## *Yearly Aura Modifier*
+## Yearly Aura Modifier
 
 At the end of each year, the yearly aura modifier is the sum of all relevant effects from the table below. It cannot exceed +9 or be less than –9.
 
@@ -395,7 +395,7 @@ If the Magic aura fluctuates with respect to time (for example, changing in stre
 | Expenditure of vis (3 or more pawns) in study,<br>spellcasting, or certamen                      | +1 per instance                                   |
 | Extraction of vis from aura                                                                      | –1 per instance<br>(one season by<br>one magus)   |
 
-## *Aura Variation Rules*
+## Aura Variation Rules
 
 The strength of a Magic aura is not always the same as its base aura score; in particular, weak Magic auras can even arise without a tether, although such auras are somewhat rare and usually short lived. The actions of magi (and other wizards) and the presence of a foreign aura that impinges on the aura may cause its score to become either higher or lower than the base aura score.
 
@@ -415,7 +415,7 @@ You may wish to monitor the player covenant's aura, as well as any other importa
 
 In the usual course of events, activities
 
-## *Aura Strengthening Table*
+## Aura Strengthening Table
 
 Roll a stress die and add the yearly aura modifier, or choose a suitable outcome. Unless otherwise stated each outcome is temporary, and lasts for at most one year. If there is a regio, increases in aura strength apply only to the top level.
 
@@ -461,7 +461,7 @@ Current aura score increases 1 (permanent).
 
 Re-roll twice on this table, treating any total of 21+ as a 20.
 
-## *Aura Weakening Table*
+## Aura Weakening Table
 
 Roll a stress die and add the yearly aura modifier (ignoring the minus sign), or choose a suitable outcome. Unless otherwise stated each outcome is temporary, and lasts for at most one year. If there is a regio, decreases in aura strength apply only to the top level.
 
@@ -510,7 +510,7 @@ Re-roll twice on this table, treating any total of 21+ as a 20.
 
 that benefit the aura are mostly canceled out by vis extraction. However, a covenant that relentlessly and greedily extracts vis may find its aura temporarily dropping in strength, whereas a vis-rich covenant that is profligate with Ritual magic might find its aura eventually increasing. Some old, autumn covenants have accumulated quite a strong Magic aura mostly from the activities of their magi alone, with only weak tethers.
 
-## *Symptoms of Aura Variation*
+## Symptoms of Aura Variation
 
 This is a suggested list of phenomena that may be subtly influenced by a Magic aura. Changes in these factors may reflect a corresponding change in the aura strength. These effects can also be used as story seeds, either precipitating a story by themselves or as hints to other events.
 
@@ -538,7 +538,7 @@ If a Magic aura becomes stronger, formerly dumb creatures and objects may develo
 
 The strengthening of a Magic aura may be reflected by an increase in portents, visions, and dreams experienced and observed by the inhabitants. Or they may develop other strange new abilities. If an aura weakens, such occurrences become less frequent, signs become muddied, and eldritch talents are lost. As a rule of thumb, for every point by which the aura score increases, one inhabitant can be (unwittingly) given a new Supernatural Virtue, or a character with an existing Supernatural Ability may receive 20 experience points in that Ability. It is best to choose a character who has recently gained a Warping Score of 5 and who thus qualifies for a new Minor Virtue. This process can be reversed if the aura weakens; a character with a Supernatural Ability loses 20 experience points. If this takes the Ability score to zero, the ability can no longer be used.
 
-## *Aura Variation Story Seeds*
+## Aura Variation Story Seeds
 
 #### **Creature Comforts**
 
@@ -569,7 +569,7 @@ An ancient statue at the covenant develops the ability to speak as a result of a
 The otherwise mundane diary of one of the covenant's educated servants is discovered to be unnaturally accurate in its predictions, causing the magi to clamour eagerly over this "tome of prophecy."
 
 
-## *Magic Regiones*
+## Magic Regiones
 
 Regiones (see **ArM5**, page 189) are found within some Magic auras and some covenants. A regio in a covenant typically provides a number of benefits, such as being able to guard more easily against intrusion into magical areas, separating the magi from the covenfolk, and simply providing more space. Regiones can, however, be a bit of a mixed blessing, and their appearance often causes problems. They may come to occur within a Magic aura in several ways.
 
@@ -593,7 +593,7 @@ If the aura score of a regio decreases, then the aura strength of the top regio 
 
 If the aura score of a regio increases, then the strength of the top regio level will usually increase. This does not cause any new regio levels to come into existence. The exception is if there exists a vanished or dormant regio level of strength equal to the new, higher aura score; in this case the dormant level might become accessible again.
 
-## *New Spells and Spell Guidelines for Auras*
+## New Spells and Spell Guidelines for Auras
 
 Although magi have yet to master the art of manipulating and creating Magic auras and regiones, that doesn't stop them from trying, and some have invented Ritual spells that they claim will strengthen auras or even create regio levels. The few magi and covenants that have tried these spells, however, report varying degrees of success (and, more rarely, disaster).
 
@@ -639,13 +639,13 @@ An inverse variant of *Stratifying the Subtle Realities*, this spell causes an i
 
 
 
-## *Aligned Auras*
+## Aligned Auras
 
 Most Magic auras are not aligned in any special way, and few magi are aware of the existence of such unusual auras. No aura has more than one special aspect, of which the following are a few examples. If it happens that more than one of the following is applicable — for example, if an aura is sustained by a natural feature tether of level 5 aligned with Auram and is the home of a Magic creature aligned with Greed that is powerful enough to generate a tether of level 2 — the level of the aura benefits from both but only the Auram alignment is discernible since it is the stronger. An Intellego Vim spell similar to *Sense of Magical Power* (**ArM5**, page 157) can be used to determine whether the aura is one of the following special types, but a different spell is required from the one used to establish that the aura is Magic, and the spell must be modified to test for each variant. For example, an Intellego Vim spell might be cast to ask the question "Is this aura aligned with hunger?"; a slightly different spell is needed to ask the question "Is this aura aligned with thirst?", and another to test "Is this aura aligned with Mentem?".
 
 Auras of this type up to and including level 5 are generally safe to inhabit. At higher levels, those who live there without having a Magic mystical ability (e.g. The Gift) suffer permanent Warping and thus gradually become attuned to the locale, while even visitors may be affected temporarily. At its most extreme, inhabitants become so adjusted to the demands of the place that they find it very hard to leave.
 
-## *Auras that Enhance Emotions*
+## Auras that Enhance Emotions
 
 There are some Magic auras that can have a direct effect on the emotions and behavior of those who venture into them. This does not affect characters with a supernatural ability derived from the Magic realm, (for example The Gift), but others find that they acquire a new Personality Trait or that an existing one is modified. The exception is that this cannot alter an Essential Trait. After spending a few minutes in such an aura, a character gains a temporary new Personality Trait or a modification to an existing one, if he happens to have something that supports or opposes the nature of the aura, according to the Aura Effect Table. The temporary effect fades within minutes once the character leaves the aura, although any permanent Warping acquired there remains.
 
@@ -671,18 +671,18 @@ are unpleasant. Insects and animals are more aggressive than normal and have the
 
 **Respectful**: People become more concerned for the feelings and well-being of others, first other people then creatures and plants; in the strongest auras they acquire a reverence for life so extreme that walking on grass is impossible.
 
-## *Aligned Aura Example*
+## Aligned Aura Example
 
 Two of the covenant's grogs are escorting Bernard, a young novice, back to the priory where he lives. They have to go through the forest but he assures them he knows the way. Before long they are lost and enter an area under the influence of an ancient standing stone. It has started to get dark so they decide to make a temporary camp for the night. Bernard is already anxious about the dangers he perceives all around, but puts his faith in prayer and says nothing as he settles down to try and sleep.
 
 They have camped in a place with a Magic aura of level 3 that induces fear. The grogs, Paul (normally Brave +3) and Ignatio (normally Courageous +2), are feeling just a little less confident about the strange noises in the dark than usual. Their Personality Traits are adjusted by Fearful +1 and are now at +2 and +1 respectively. Bernard is normally Cowardly +2 but the aura has enhanced this to +3 and he is soon begging the others to draw their swords and protect him from the wild beasts he knows are coming to eat them.
 
-## *Story Seed: Uniformity*
+## Story Seed: Uniformity
 
 A scroll at Harco reports a possibly unique locality with a Magic aura that was once visited by a Redcap. She describes walking through a region that was entirely typical of the area she was traveling through, and soon finding that the environs were becoming more uniform and eventually devoid of identifiable landmarks. It became so much the same in all directions that she started to feel disorientated and feared becoming lost in this featureless landscape. Eventually she found her way out, or was helped by a resident of that bland place, but was unable to say for sure where she had been.
 
 
-## *Auras Aligned with Arts*
+## Auras Aligned with Arts
 
 Rarely, an aura promotes activities in a way that magi interpret as an Art alignment.
 
@@ -726,7 +726,7 @@ both — of a suitable animal. The choice may be obvious from the nature of the 
 
 **Vim:** Inhabitants may develop any type of weirdness that the troupe agrees is interesting. At a Warping Score of 6, unGifted characters are likely to acquire the Magical Air Flaw.
 
-## *Other Aligned Auras*
+## Other Aligned Auras
 
 There are a very few auras with alignments that manifest that are not part of an Art. Such an aura has an effect on what goes on inside it in an appropriate way, depending on the strength of the aura. A few examples follow:
 
@@ -736,11 +736,11 @@ There are a very few auras with alignments that manifest that are not part of an
 
 **Distracting:** Characters daydream or their attention flits about. Concentration rolls should be more frequent, and at aura levels of 5+, concentration is hard to maintain (set Ease Factors 3 higher than normal).
 
-## *Aligning an Aura*
+## Aligning an Aura
 
 The library at Durenmar contains several reports of experiments to deliberately impose an alignment on an existing Magic aura. One researcher tried using an enchanted item to repeatedly cast Creo Ignem spells over a long period in hopes of aligning an aura with Ignem, without success. Another set grogs to telling jokes and singing comic songs, in hopes of creating an aura alignment with jollity. As yet no reliable way of imposing an alignment has been discovered, although serious botches have produced detrimental alignments on more than one occasion.
 
-## *Covenant Boons and Hooks*
+## Covenant Boons and Hooks
 
 When designing a covenant, the troupe may select from the following, in addition to those given in **ArM5**, Chapter 6 and *Covenants*, Chapter 2. The aura may have only one alignment, but that may produce both a Boon and a Hook.
 
@@ -757,15 +757,15 @@ When designing a covenant, the troupe may select from the following, in addition
 **Troublesome Aura:** The Magic aura of the covenant has an alignment that sometimes makes activities that should have been simple much harder, and thus provokes stories. An aura aligned to Perdo is an example, as would be one aligned to "rashness," or "discourtesy."
 
 
-## *Chapter Three*
+## Chapter Three
 
-# *The Magic Realm*
+# The Magic Realm
 
 The Magic Realm is one of the greatest mysteries of Mythic Europe. Many magi are confident that this parallel to Heaven, Hell, and Arcadia exists, for a few of those who traveled there have returned to tell of what they discovered. But these accounts vary so wildly that no one has a clear idea of how this place functions or what it contains. It is regarded as extremely dangerous and remote, but a great challenge for a masterly magus to conquer or explore. Magi cannot even agree on a name — there are as many words to describe it as there are ideas about its nature, and so the only generally accepted and understood term is "The Magic Realm." (In this book, "Realm" is capitalized to distinguish the place, as opposed to references to the realm of Magic in general.)
 
 No one in Mythic Europe understands the Magic Realm very well; it is hard to reach, and would be difficult to understand even if one could examine it at leisure. Thus, while this chapter includes some story hooks and descriptions that can be used to narrate adventures in this land of mystery and majesty, its primary purpose is to present the rules governing travel, magic, and long-term events in the Magic Realm. It also outlines three different perspectives about what is really going on, which are held by magi and others with knowledge of the realm of Magic.
 
-## *Magic Perspectives*
+## Magic Perspectives
 
 Throughout history, many magi and others aligned with the realm of Magic have entered the Magic Realm, but few have returned, and those who do give conflicting reports of what they discovered there. No one knows enough about the place to be able to describe it with certainty, and only a master of Magic Lore would have the knowledge to even theorize about its properties. A saga that features a visit to the Magic Realm should seem a wholly new experience for those involved, as characters must discover how the Realm functions and adapt to it over time.
 
@@ -777,7 +777,7 @@ The Twilight Void is described in more detail below. For the rest of the Magic R
 
 below). Characters who have studied or visited the Magic Realm may come to their own conclusions, of course, which may be very different from these. Each interpretation is designed to serve as a starting point for storyguides interested in developing a story that takes place in the Magic Realm, and so each theory has a story hook that can be used to introduce the idea to a saga.
 
-## *Worlds Within Worlds*
+## Worlds Within Worlds
 
 Many travelers imagine the Magic Realm as a collection of individual worlds each contained within a single thing. For example, it is said among certain philosophical magi that a single tree can hold within it an entire forest. The Magic Realm is thought to be the forest that may be found inside every tree. Every location a traveler can visit in the Magic Realm is another world, where everything is somehow connected back to something else. Each of these worlds is called a **cosm**, and has a distinct place in the Magic Realm.
 
@@ -790,7 +790,7 @@ Cosms generally relate back to things in the mundane realm, but not always. It i
 
 Cosms usually resemble the mundane world superficially, but many natural laws are often suspended, especially those concerning geography and the natural tendency for objects to travel downward (what modern people usually think of as gravity). For example, the microcosm of a precious stone might be an elaborate system of smooth, polished tunnels that continually double back upon each other and even overlap in space. A traveler can descend down a passage and find himself back at the top again, and if he happens to drop something, it might continue to fall endlessly, speeding past him again every few hours.
 
-## *Story Seed: The Stubborn Summer*
+## Story Seed: The Stubborn Summer
 
 A prosperous covenant has an unusual problem: summer has never transformed into autumn and winter has not come. The temperature of the entire region has remained at a warm constant for the whole autumn season, and shows no sign of cooling off for winter. Drought and famine is likely to follow in the next year. Then, one of the residents of the covenant experiences a vision — with the help of a human outsider, the lord of summer has taken the lady of winter captive, and holds her prisoner in his magic forest. This act has thrown the climate of the region out of balance, since according to the natural order of things, summer yields his power to winter every autumn, and winter yields her power to summer in spring.
 
@@ -804,7 +804,7 @@ The members of the covenant could set things right by helping the lady to escape
 
 (Note: While this story may seem to resemble a fairy tale, all of the supernatural players are clearly part of the Magic realm, since they are based in the natural world and do not particularly care about the humans who live within their demesne. Since people in Mythic Europe do not necessarily recognize the differences between the realms of Faerie and Magic, though, they might very well describe obviously inhuman beings like these as "fairies.")
 
-## *The Magic Archipelago*
+## The Magic Archipelago
 
 Some travelers imagine the Magic Realm as a physical place, part of the world's sphere that is somehow connected to the rest of Mythic Europe, overlaying it like a giant regio — over it, like a sphere of magic found just below the lunar sphere; or beneath it, as a kind of underworld at the center of the earth; or even beside it, on another end of the globe. Each location in the Magic Realm
 
@@ -817,11 +817,11 @@ It is possible for some travelers to navigate the "waters" between insulae, ferr
 
 The culture of this version of the Magic Realm is remarkably exotic. An insular city might appear extremely foreign, with oddly shaped architecture, strange animals, and very alien ways among its people. Other islands might seem isolated and sparse, dotted with structures built from scavenged materials, and people who have become stranded there or who have been so changed by the power of Magic that they cannot live without it.
 
-## *Pages of History*
+## Pages of History
 
 An idea that may especially appeal to more academic characters is the idea that the Magic Realm is a sort of record of events in the mundane world — traveling into the Magic Realm is like traveling through the memories of the past. According to this view, each location in the Magic Realm is a specific moment in history, called a **tempus** (plural *tempora*). As travelers journey further from the mundane realm, they find records of older and older events, so that the most powerful magical places and things are especially ancient. This idea is especially popular
 
-## *Story Seed: South of the Sun*
+## Story Seed: South of the Sun
 
 If the Magic Realm directly corresponds to the mundane world, some scholars of Magic Lore theorize it should be possible to travel there directly, by exploring beyond the furthest edges of Mythic Europe. Citing fabulous tales in ancient histories and the desire to see the lands described in them before he dies, an elderly magus commissions a fleet of ships to sail south, beyond the equator and around the *finis Africae* (the edge of Africa) to reach India and the magical kingdom of Prester John. He asks for younger magi to accompany him on the journey, to bring back word of their discoveries once they reach their goal.
 
@@ -846,13 +846,13 @@ To explain this concept through analogy, travelers might describe the Magic Real
 In a tempus, time might seem to behave very strangely, perhaps held in place and endlessly repeating a single event or series of events, or proceeding backward instead of forward. Magical beings who live in these locales often believe themselves to be part of the moment, so that travelers who discover what seems to be a famous battlefield might find and speak with the character who thinks he is the commander. These historical reenactments are believed by those who favor this interpretation to be scrupulously accurate views of history, as long as they have not been tampered with by outsiders.
 
 
-## *Empedocles Was Sometimes Right*
+## Empedocles Was Sometimes Right
 
 Many Criamon magi teach that time is a great circle, and that parts of the Magic Realm that they call Twilight exist outside of that circle of time — ideas originating from an ancient philosopher named Empedocles (see House Criamon, *Houses of Hermes: Mystery Cults*). By entering the Magic Realm, they believe that they can throw off the chains that bind them to the physical world, escaping the endless repetition of history it represents, and that it is their own actions that determine what they will find there, good or ill.
 
 None of these beliefs are demonstrably false, but few magi outside House Criamon give them much credence. However, there is much in the Magic Realm that would seem to support their viewpoint. For example, travelers do not age there, a fact magi could take as a sign that the Realm exists at least partly outside of time. Whether or not these magi are correct about the reasons for this phenomenon, or about the nature of the Realm itself, cannot be objectively determined.
 
-## *Fact and Theory*
+## Fact and Theory
 
 Although these three theories seem very different, it has not, so far, been possible to determine which, if any, is true. This is because each theory can account for locations within the Magic Realm that seem to fit better in the others.
 
@@ -864,7 +864,7 @@ Those who see the Magic Realm as pages of history concede that magical creatures
 
 If a group of magi devoted themselves to exploring the Magic Realm over a considerable period of time, they might be able to make one or more of these theories more difficult to sustain. It has, simply, not yet happened, but it might happen in your saga. If so, the storyguide needs to decide on the fundamental truth of the Magic Realm, and provide evidence pointing toward it.
 
-## *Rules of the Realm*
+## Rules of the Realm
 
 Perhaps the most basic principle of the Magic Realm is the idea that its inhabitants do not grow or mature; while there, they are immortal, essential, and ideal. This is not to say that they cannot do things or alter themselves or their surroundings, only that while they are in the Magic Realm, they do not develop or improve as characters. It is almost as if time stands still while they explore the Realm, though the events of the mundane realm still proceed as normal while they are gone, and time rushes to catch up with them as soon as they return.
 
@@ -877,7 +877,7 @@ Arcane Connections to things outside the Magic Realm are interrupted when they a
 
 The entire Magic Realm has a Magic aura of 10.
 
-## *Into the Magic Realm*
+## Into the Magic Realm
 
 Finding passage to the Magic Realm from the mundane realm is in itself a great discovery, for there are only three ways by which travelers can move from one to the other. These same methods can also allow travel within the Magic Realm, and can sometimes magically transport a traveler between regiones and other places associated with Magic in the mundane realm, causing the person to pass through the Magic Realm only briefly.
 
@@ -907,7 +907,7 @@ Characters affected by a magical disaster can attempt to avoid it in exactly the
 
 Some magical disasters are considered acts of God — no one knows exactly why they happen, but they are presumed to happen for a good reason. When a character finds himself in the Magic Realm and he doesn't know how he got there, it is probably because of this sort of disaster.
 
-## *Boundaries and Vestiges*
+## Boundaries and Vestiges
 
 The Magic Realm is a seemingly infinite array of interconnected places that travelers call by many different names — cosms, insulae, and tempora being the most popular. These are all joined together not just by their proximity or their similarities, but also by two other unique features of the magical environment, what those schooled in Magic Lore generally refer to as boundaries and vestiges.
 
@@ -915,7 +915,7 @@ Nearly every location in the Magic Realm is outlined by a realm **boundary**. Th
 
 Realm boundaries have a level that ranges from 0 to 10, like regiones, and this is added as a bonus to all magic activities within the area, like a Magic aura. (This is in addition to the bonus a character receives for the constant Magic 10 aura.) Thus, a place with a boundary level of 1 would give a bonus of +11 to magical activities, while another place could have a boundary level of 10 and give a +20 bonus. Supernatural activities from a dif-
 
-## *Story Seed: Crimes Revisited*
+## Story Seed: Crimes Revisited
 
 A magus has a caller whom he has never heard of before — an almost impossibly old man who requests a private audience with him. This man informs him that the magus himself has been accused of a crime, something he did many years ago when he believed no one else was watching. The man identifies himself as the appointed advocate for the magus in a court of Magic, where the complaint has been brought against him. This is not a Hermetic crime, but a crime in mundane society, such as murder or theft, and the advocate describes an eyewitness account of the event that is eerily accurate. In fact, for a small fee (perhaps ten pawns of vis), the advocate can bring the magus into the Magic Realm, to a tempus that demonstrates the entirety of the events in vivid detail as if they were both present when the crime was committed. While there, the two of them can investigate the facts of the matter and prepare their case.
 
@@ -951,7 +951,7 @@ strength of the connection to the rest of the Magic Realm, which ranges from 0-1
 
 Not everything in the Magic Realm is a vestige, and the proportion of vestiges in a region seems to be quite variable. Some magi have reported regions containing no vestiges, but magi in the Magic Realm rarely search closely enough to be sure. On the other hand, some regions seem to contain nothing but vestiges; regions like frozen moments of history seem to be particularly common, and are one of the main pieces of evidence used by those who argue that the Magic Realm consists of tempora.
 
-## *Magical Travel*
+## Magical Travel
 
 Traveling through boundaries or vestiges is very similar to passing between levels of a regio. The character attempts to see the destination he wishes to reach by looking through the boundary or vestige, and then steps into it and beyond. Only characters with Magic Might or special powers like Second Sight or Magic Sensitivity can do this, although they can lead others through with them. Do not include the aura bonus in this roll, but you may add Form bonuses that correspond to the boundary or vestige. For example, a magus with Second Sight could add his (Herbam / 5) to the roll to see through the vestige of a tree or an Herbam boundary. The more powerful the vestige or boundary, the easier it is to travel through it.
 
@@ -1011,7 +1011,7 @@ The durations of all supernatural effects expire as soon as they are brought int
 
 Passing into (but not out of) the Twilight Void also causes all Arcane Connections to or from the character to degrade one level (see the chart on **ArM5**, page 84), so that an Arcane Connection with a duration of Months would become Weeks instead, and an Arcane Connection that normally lasts for Decades would only last Years. This does not affect Arcane Connections with Indefinite duration, though note that the connection is interrupted as long as only one of them is in the Twilight Void.
 
-## *The Twilight Void*
+## The Twilight Void
 
 The Twilight Void is a part of the Magic Realm that is fundamentally different from the rest of it. It is often described as a place that connects other places — many experts think of it as the moment between moments, what some Criamon magi call Twilight or their Founder's realm outside of time. Others call it the spirit realm, or the "machina mundi" — the mechanism underlying nature. Classicists consider it to be the incarnation of Plato's Realm of Forms, the place from which all things originate. It is a mysterious, ghostly setting that, apart from a magical disaster, may be reached only by stepping through a boundary or vestige.
 
@@ -1023,7 +1023,7 @@ All of these images are insubstantial, like
 
 vestiges in the Magic Realm. They cannot affect travelers in the Void, and travelers cannot affect them. There are some things in the Void with substance, usually things that have been brought into the Void from the
 
-## *Is This Twilight?*
+## Is This Twilight?
 
 While many magi call the Twilight Void by that name, it is not absolutely clear that this is where magi go when they are in Twilight. In particular, travelers who believe they have met magi in the Twilight Void have not been able to confirm that those magi were in Twilight at the time they met them, and magi who have gone into Twilight and met travelers during their experience cannot be sure that these travelers were not apparitions or figments of their imaginations. On the other hand, the Twilight Void is very big, and few of the magi able to travel there have specifically gone looking for other magi to investigate this phenomenon. The arguments in favor are mainly circumstantial: magi in the Twilight Void are unaffected by the mundane realm and time in much the same way as magi in Twilight, and there are no other obvious candidates for places for magi to go at that point. Many Criamon do not think that the Twilight Void is where magi go in Final Twilight, however, because it does not seem to them to be fully outside the cycle of time.
 
@@ -1044,7 +1044,7 @@ As when a magus comprehends Twilight, a positive experience in the Twilight Void
 During this process, the character generally experiences the Void as a series of choices. It is said that everything in the Void is connected to everything else, and so each choice serves to narrow down the myriad possibilities of what the traveler is seeking to one unique thing. As an example, suppose a magus is seeking a friend of his in the Corpus province, a youthful Criamon maga believed lost. He leaves the path on which he entered the Void
 
 
-## *Senses in the Void*
+## Senses in the Void
 
 Travelers in the Twilight Void only perceive species associated with the province in which they travel. Here are some ideas of what that might be like.
 
@@ -1073,7 +1073,7 @@ and comes upon two figures, a man and a woman. He speaks to the woman, who steps
 
 The traveler may never be aware of the effects his choices have or what qualities are being distinguished by any given set of possibilities, which is why it is not easy to comprehend the experience. Also, the more supernatural the traveler, the harder it is for him to succeed at this, since his greater effect upon his surroundings makes it harder for him to seek out anything other than himself.
 
-## *Advancement*
+## Advancement
 
 As stated above, characters accumulate vis instead of experience while in the Magic Realm. Before returning to the mundane world, this vis may be used to transform a character that does not have a Might Score, allowing him to gain new Virtues and Flaws, or to change his existing Virtues and Flaws.
 
@@ -1111,7 +1111,7 @@ Gain a Major Virtue
 
 A Major Virtue commonly gained through transformation is Transformed (Being), which gives the character a Magic Might Score and is described in more detail in Chapter 3: Magic Characters.
 
-## *Positive and Negative Traits*
+## Positive and Negative Traits
 
 Characters can become more magical by exploring and comprehending the Twilight Void. A common way for this to manifest is with Twilight Scars and Essential Traits (described in Chapter 3: Magic Characters, Essential Traits). These are typically associated with the province in which the character traveled, as the following effect suggestions indicate.
 
@@ -1135,7 +1135,7 @@ Characters can become more magical by exploring and comprehending the Twilight V
 
 **Vim:** Traits that describe the character's magical focus or that make the character resemble a magical being, or Traits that affect how the character interacts with magical beings or how he practices his magical influence.
 
-## *Magic Realm Magic*
+## Magic Realm Magic
 
 Hermetic magic works well in the Magic Realm, and magi typically enjoy the increase of power that comes with an effective Magic aura of over ten. Spells of a particular Form affect anything associated with that form, so that Rego Corpus spells, for example, affect Corpus vestiges, human-like bodies, or magical creatures associated with Corpus, no matter what they look like.
 
@@ -1247,7 +1247,7 @@ These new effects can make travel in the Magic Realm easier and more comfortable
 
 pired the effect ends immediately. The spells below use a wide variety of Forms as examples, but the guidelines are the same no matter what the target. You may also use these guidelines to design powers for magical creatures.
 
-## *New Magic Realm Spells and Spell Guidelines (con't)*
+## New Magic Realm Spells and Spell Guidelines (con't)
 
 #### **New Perdo Guidelines**
 
@@ -1312,9 +1312,9 @@ The length of the caster's journey through the Twilight Void is reduced by three
 (Base 20)
 
 
-## *Chapter Four*
+## Chapter Four
 
-# *Magic Characters*
+# Magic Characters
 
 For the purposes of this chapter, "magic characters" are characters that have a Magic Might Score, either because they have been created using the rules for Magic Character Creation below, or because they have somehow gained a Virtue that gives this to them, such as the Transformed (Being) Virtue described below — these characters are different from characters that are merely aligned with the realm of Magic, like magi or hedge wizards. They have many innate advantages beyond those accorded to all supernatural beings in the **Ars Magica** Fifth Edition core rules (page 191), and these are described here.
 
@@ -1415,7 +1415,7 @@ Once you have finished choosing Virtues and Flaws, determine the character's Siz
 
 Magic animals are the most common sort of magic characters, having a beast for their true form. For the most part they look like the animals upon which they are based, though they may seem larger, wilder or stranger than
 
-## *Character Guides*
+## Character Guides
 
 To quickly describe a magic character intended to fulfill a supporting role in an adventure, or a character that will not regularly associate with the other characters' covenant, the storyguide can use a **character guide** instead of a full character sheet. This is a summary of requirements for designing magic characters that conform to a particular type or purpose in the saga, such as a species of magical animal or a race of magical human beings. It specifies what the character *must* have in order to function in the game session, but ignores other aspects of the character that are unlikely to come into play.
 
@@ -1435,7 +1435,7 @@ A character guide usually consists of:
 
 The magic characters listed in the Bestiary section of **ArM5** (pages 193–194) may be used as character guides, as can the animals in the Book of Mundane Beasts appendix or those created using the rules in *Houses of Hermes: Mystery Cults* on pages 38–43.
 
-## *Character Guide: A Magic Hound*
+## Character Guide: A Magic Hound
 
 **Magic Might:** 0-10 (Animal)
 
@@ -1521,7 +1521,7 @@ Ghosts played as characters are always aware of their incorporeal nature, and th
 
 To design a spirit as a magic character, begin with the Characteristics for a physical being: a human, an animal, or even an inanimate object. For example, an Imaginem spirit that is based on the sound of a dog's
 
-## *Cunning Characters*
+## Cunning Characters
 
 Characters with animal intelligence are generally not as much fun to play as characters with human intelligence, because Cunning limits what the character can reasonably know. Unintelligent characters are mostly concerned with their next meal, or what they are going to do that day, but rarely plan for the less immediate future. They do not learn or study except when trained by an intelligent master, so rarely gain experience points through any means other than Exposure, and they cannot increase Abilities that they do not possess naturally. They cannot use Confidence Points unless they have the Ferocity Virtue. They can follow instructions, but if they encounter a situation that requires a decision or a judgment call then they are unable to proceed; they either abandon the task or return to their master for guidance. They may seem to have a personality, but they do not interact with humans or others of their species beyond a superficial and predictable level, as they are motivated only by their natural instincts in response to stimuli.
 
@@ -1543,12 +1543,12 @@ Magic spirits always have an innate Magical Air that is very difficult for them 
 
 *Aeolus is Size +2. After this is applied to his modified Characteristics, his final scores are: Int –2, Per 0, Prs +2, Com +1, Str +4, Stm +3, Dex –2, and Qik +2.*
 
-## *Season*
+## Season
 
 The next step in magic character creation is determining the character's experience with the world in which it lives. In **Ars Magica**, the number of experience points a starting character receives is usually determined by his age, since characters generally gain experience over the course of a year. Magic characters can still gain experience and develop like other characters, but it is
 
 
-## *PCs and NPCs*
+## PCs and NPCs
 
 Every magic character in **Ars Magica** is designed the same way, no matter what its role in the saga, so that there really is no practical difference between a "player character" and a "non-player character." That said, sometimes it is useful to make a character that is more or less powerful than the others, perhaps to act as an antagonist in a conflict or to serve as a temporary ally for other characters in the saga — as a storyguide, you should feel free to assign these characters any Might Score that seems appropriate for their purpose without regard for their role in the saga, and to give them any Virtues or Qualities they like without worrying about whether or not the characters are properly balanced. You can also use character guides (see the sidebar above) to make these stats easier to read, and so that if the character ever becomes more involved in the saga, you can then develop it more fully, so that it is suitable for the long-term.
 
@@ -1613,7 +1613,7 @@ See Qualities and Inferiorities, below, for a list of how these points may be sp
 
 *Erik takes a Lesser Power that allows Aeolus to change his appearance, a level 15 effect, and converts the 10 spell levels left over into 2 points of mastery, reducing the casting cost from 2 Might Points to 0. He then takes Gift of Speech, as Aeolus is a talking horse. He also gives Aeolus three more Minor Virtues: Venus's Blessing, Unaffected by The Gift, and Improved Characteristics, which raises his Intelligence to 0. He spends the remaining points on Improved Abilities, since Aeolus has spent a lot of time with Victor in the mundane world, giving him 300 more experience points to spend. Erik does not see any Inferiorities that seem particularly appropriate to the character, so he decides he is done assigning Qualities.*
 
-## *Aeolus, Magical Horse*
+## Aeolus, Magical Horse
 
 **Magic Might:** 8 (Animal)
 
@@ -1680,7 +1680,7 @@ Penetration for a Magic Power is calcu-
 | Personal Power | 25            | Limited      | (magnitude / 2) | Qik – (magnitude / 2) |
 |                |               |              |                 |                       |
 
-## *Finishing Touches*
+## Finishing Touches
 
 Magic characters are completed just like standard characters: make sure it has at least three Personality Traits, and that any Reputations are described. If the character is intelligent, is not a grog and does not have the Low Self Esteem Flaw, or if the character Fifth Edition: Might Score – (5 x Might Point cost) + Penetration bonus. This means that to increase a power's Penetration Total, you must decrease the power's cost, increase the character's Might Score, or improve the character's Penetration score. If a magic character receives an Inca-
 
@@ -1699,7 +1699,7 @@ Every magic character has a special Personality Trait, typically at +3, that des
 
 You should calculate all of the character's combat scores, including its Soak and Wound level ranges, and assign any equipment you imagine it could have reasonably acquired and maintained, keeping in mind the character's strength and encumbrance. Finally, calculate the character's inherent vis, choosing its type, location, and the amount (this is typically equal to its Might Score divided by 5, rounded up).
 
-## *Qualities and Inferiorities*
+## Qualities and Inferiorities
 
 In much the same way that all characters have Virtues and Flaws, and covenants have Boons and Hooks, magical beings designed as characters have Qualities and Inferiorities. These represent how the character has been altered by the realm of Magic. They are classified as Major and Minor, like Virtues and Flaws, though they differ from Virtues and Flaws in that they can only be taken by characters with a Might Score, and in that they do not have to balance each other during character creation. A character starts with a set number of Quality points equal to its Might Score, and while taking Inferiorities gives the player more points, they are not required. Like Virtues and Flaws, the player spends one point for a Minor Quality, and three points for a Major Quality.
 
@@ -1710,13 +1710,13 @@ Most Qualities and Inferiorities can be taken more than once, but characters who
 The term Qualities is also used to describe the natural advantages that determine
 
 
-### *Magic*
+### Magic
 
 a mundane animal's Characteristics, found in the Bjornaer chapter of *House of Hermes: Mystery Cults*, pages 40-43. These "mundane Qualities" are not necessary for magic characters, and should not be listed on the character sheet to avoid confusion. However, they are especially useful for determining the required scores of a magic animal character (see the Character Guides sidebar, above).
 
 Human characters with Magic Might may take Heroic Virtues and Flaws (*Houses of Hermes: True Lineages*, pages 104-109) as Magic Qualities and Inferiorities.
 
-## *Major Magic Qualities*
+## Major Magic Qualities
 
 **Fatigue Mastery:** The character can spend its Fatigue levels instead of Might Points. Each Fatigue level is worth a number of Might Points equal to the character's (Might Score / 5).
 
@@ -1755,7 +1755,7 @@ the previous Qualities have been applied. For example, a base Size 0 character w
 
 the character's Greater or Lesser Powers. **Improved (Characteristic):** Increase by one
 
-## *Common Magic Powers*
+## Common Magic Powers
 
 The following powers are common among beings associated with Magic, and are good examples of the sorts of things that a magic character might be able to do.
 
@@ -1836,7 +1836,7 @@ a Characteristic that is already +5 or more. This boost is applied before the ch
 
 **Natural Appearance:** The character appears to be a normal human being, with no traces of his magical nature. Just as the Gentle Gift hides all traces of The Gift in
 
-## *Common Magic Powers (con't)*
+## Common Magic Powers (con't)
 
 #### **Grant (Minor Virtue)**
 
@@ -1924,7 +1924,7 @@ Alternatively, instead of reducing its Might Score, the character can lose one C
 
 The character may also consume vis in place of Confidence Points. Each pawn is equivalent to a single Confidence Point, and the player may spend them to activate any power the character possesses that requires Confidence Points, but the player cannot spend more pawns at once than the character's Confidence Score in this way.
 
-## *Minor Magic Qualities*
+## Minor Magic Qualities
 
 **(Form) Resistance:** The character's Magic Resistance is aligned to a particular form, and it begins with a score of 1 in the corresponding Supernatural Ability (see New and Modified Abilities, below).
 
@@ -1975,7 +1975,7 @@ Personal Powers have a Might Point cost equal to (the magnitude of the effect / 
 
 Any spell levels that are left over may be used to increase the effect level of other Personal Powers, or converted into mastery points, with 5 full levels of effects equal to 1 mastery point. These may be spent like the mastery points gained from the Improved Powers Minor Quality on any of the character's Personal Powers.
 
-## *Major Magic Inferiorities*
+## Major Magic Inferiorities
 
 **Acclimation Prone:** It is twice as difficult for the character to protect itself against Acclimation (see Acclimation, under Advancement, below). You must treat the character's Might Score as double its actual value when remaining in a Magic aura or accounting for pawns of vis consumed, and double the number of seasons necessary to avoid Acclimation with magical effects. For example, each year a character with Might 25 would need to remain in a level 10 aura, consume 25 pawns of vis, or participate in a constant magical effect all year to avoid losing one of its Magic Qualities to Acclimation.
 
@@ -2010,7 +2010,7 @@ When the character is injured, it loses Might Points equal to the penalty of the
 
 All Magic Things have this Inferiority inherently, for no benefit.
 
-## *Minor Magic Inferiorities*
+## Minor Magic Inferiorities
 
 **Limited Gestures:** This Inferiority is similar to the No Hands Flaw, except that the character can still grasp and manipulate objects with its appendages, just like characters with hands. Its control is limited, so that it cannot make more than vague gestures, and cannot wield a weapon with any degree of skill. Magi with this Inferiority suffer a –5 to all spellcasting totals, though this penalty may be offset by taking the Subtle Magic Virtue. (Magic Animals and characters with the No Hands or Arthritis Flaws cannot take this Inferiority.)
 
@@ -2040,13 +2040,13 @@ All Magic Things have this Inferiority inherently, for no benefit.
 **Susceptible to Deprivation:** Unlike other magical beings, the character cannot survive without air, food, or water, and suffers all the normal consequences when going without them. The character is still immune to aging, unless it has the Age Quickly Flaw.
 
 
-## *Abilities, Virtues & Flaws*
+## Abilities, Virtues & Flaws
 
 Here are new and modified Supernatural Abilities, Virtues and Flaws that characters can choose from when designing magic characters or characters that are somehow associated with the realm of Magic.
 
 Unless otherwise noted, all of the Supernatural Virtues and Flaws described below are always associated with the Magic realm, and cannot be used with any other realm of power (with the possible exception of False Powers from *Realms of Power: The Infernal*, see pages 88-89 of that book).
 
-## *New & Modified Virtues*
+## New & Modified Virtues
 
 **Atlantean Magic**
 
@@ -2098,14 +2098,14 @@ This Virtue may only be taken by magic characters played as grogs, or who do not
 
 The character has Confidence Points, like a magus or companion character, but you may only use these Confidence Points in certain situations where the character's natural ferocity is triggered. Describe the circumstance that activates the character's Confidence, and take three Points to use when those conditions are met.
 
-## *Possible Abuses of Storms*
+## Possible Abuses of Storms
 
 A ReAu spell with Storm duration intended to "keep a storm raging" will *not* result in a storm that lasts indefinitely. It will keep the storm raging for whatever its original life-time was. A ReAu spell with a duration of Sun, for example, can be used to keep to a storm raging for a day, of course, and repeated castings of such a spell will keep the storm present until the caster gives up.
 
 Similarly, a CrAu spell with Storm duration will *not* create a storm lasts indefinitely. It merely creates a storm that lasts for the duration of whatever storm existed prior to the casting of the spell. That is, if no storm previously existed this spell will have no effect. A CrAu spell with a duration of Storm cast on an existing storm will however help to prevent the storm from being dissipated by PeAu effects before it should naturally expire. A CrAu spell with a duration of Sun can be used to create a storm with a duration of a day, of course.
 
 
-## *New Virtues*
+## New Virtues
 
 **Special**
 
@@ -2399,7 +2399,7 @@ This Virtue may be taken more than once, if the character has more than one powe
 
 The character can speak with any creature whose natural habitat is a particular environment associated with this Virtue (including animals and magic beings), and the character is not normally perceived as either a threat or a prey object by these creatures.
 
-## *New & Modified Flaws*
+## New & Modified Flaws
 
 **Anchored to the (Land)**
 
@@ -2457,7 +2457,7 @@ This Flaw may be taken more than once, if the character has more than one Power.
 
 This Flaw represents a human being who is born much smaller than average, but who is still mundane. For a character of magically reduced Size, take the Miniature Inferiority instead.
 
-#### **Environmental Magic Condition** *Major, Hermetic*
+#### **Environmental Magic Condition** Major, Hermetic
 
 All of the character's Casting and Lab Totals are halved in certain common conditions related to his environment. For example, whenever he is inside. Note that this should be significantly more restrictive than the Hermetic Flaw Deleterious Circumstances (**ArM5** page 53).
 
@@ -2529,7 +2529,7 @@ The character has been repeatedly exposed to magic and has thus become dependent
 
 The character is accompanied by an intelligent magical being, one that is smart enough to follow orders or disobey them on its own initiative, which the character must regularly look after. This might be an animal, a spirit, a human-like creature, or even an animate object. Design this being as a magic character with the Magical Friend Social Status Flaw (see below), and note that the greater the character's Might Score, the more independent it will be. A grog-level character might be essentially an extension of the character's will, while a companion-level character might follow instructions but often do what it thinks
 
-## *New Flaws*
+## New Flaws
 
 **Major, Hermetic** Environmental Magic Condition
 
@@ -2656,7 +2656,7 @@ The character has become overly sensitive to environmental conditions, which aff
 
 **Sensitive to Heat:** You function normally at temperatures considerably below the norm for your part of the world. You lose 1
 
-## *Environmental Temperatures*
+## Environmental Temperatures
 
 - Unnaturally hot
 - As hot as being next to a raging fire, molten lava, or molten iron
@@ -2673,7 +2673,7 @@ Fatigue level for every hour you spend in an environment two steps or more above
 
 This is a common Flaw for characters who become Warped by a strong magic environment (see Chapter 2: Auras, Aligned Auras).
 
-## *New & Modified Abilities*
+## New & Modified Abilities
 
 **Animal Handling**
 
@@ -2697,7 +2697,7 @@ Only characters with a Magic Might Score can possess this Ability.
 
 By concentrating, the character enters a trance-like state in which it can absorb magic from its surroundings at an increased rate. This has two effects.
 
-## *Social Abilities and Magical Beings*
+## Social Abilities and Magical Beings
 
 When a person becomes a magical being, it ceases to be human, and so some social Abilities are no longer useful for describing its behavior or motivations. The same principle applies to social skills that deal with training animals and other unintelligent beings, since when they become magical they often also become intelligent (see Chapter 5: Magical Animals, Training).
 
@@ -2736,7 +2736,7 @@ While concentrating, the character usually appears to be asleep. Magical beings 
 
 **Specialties:** recovering Might Points, preventing Acclimation, maintaining concentration (Supernatural)
 
-## *Advancement*
+## Advancement
 
 For magic characters, advancement is the mystical process of becoming more magical. It is striving toward the truest embodiment of the concept that defines the character, enhancing and focusing the character's most essential nature. In this way the character can become more like what it already is: more powerful, more knowledgeable, more important, or more mysterious. It does this through a process called Transformation. Magic characters also need magic in order to survive, to feed the part of them that is sustained by magic. If they go too long without refreshing this magical thirst, some of their magical qualities are lost. This process of losing magic over time is called Acclimation.
 
@@ -2751,11 +2751,11 @@ There is a relatively simple way for the character to circumvent this limitation
 
 Characters with the Gifted Virtue may learn Supernatural Abilities like other characters with The Gift, but they must also subtract the sum of their scores in all other Supernatural Abilities, in addition to their Might Score. They may spend vis to offset this penalty as usual, though they can use no more than a number of pawns equal to their Might Score in a single season. Gifted magic characters may also initiate new Virtues and Flaws through a Mystery Cult in the same way as magi (described in *The Mysteries, Revised Edition* and *Houses of Hermes: Mystery Cults*).
 
-## *Transformation*
+## Transformation
 
 Transformation is the term for bringing about permanent improvements to a magic character's form, making it more magical without changing what it essentially is. For this reason, these improvements cannot go against the character's essential nature — a magical dog that becomes more magical must still be a magical dog, even if it gains the power to fly, breathe fire, or change itself into a human shape. Any time a character experiences the
 
-## *Magic Qualities and Initiation Scripts*
+## Magic Qualities and Initiation Scripts
 
 It is possible to teach other magical beings new Magic Qualities by writing a book about them, but this is an incredibly rare phenomenon, since few magic characters can read and write. Such a book might resemble an Initiation Script for a particularly esoteric Mystery Cult (see *The Mysteries, Revised Edition* pages 15-18), and at the troupe's discretion it may be adapted by a Mystagogue for the Initiation of an appropriate Virtue. Books on other mystic subjects — such as Magic Lore or a Mystery Cult's Organization Lore — that collect Initiation Scripts may also be treated as transformational study sources if they are particularly applicable to the Magic Quality in question, again with the troupe's approval.
 
@@ -2788,7 +2788,7 @@ Gain a Major Magic Quality and a Minor Magic Inferiority
 
 Magic characters may also consume vis as a transformational study source, and can spend the experience points to gain new Qualities and Inferiorities, without subtracting its Might Score from the Advancement Total. The character must use a number of pawns of vis of any type equal to its Might Score. Then, roll a stress die and add the bonus for the aura in which the character studies. The result is the number of experience points gained. If you roll a 0, you must roll one botch die for every 5 pawns of vis that the character consumed, and each botch gives the character a Minor Inferiority, or a Major Inferiority for every three botches.
 
-## *Acclimation*
+## Acclimation
 
 Magic characters are nurtured by the power of Magic, and they rely upon it to survive. Over time, those magic characters that do not maintain a connection to the realm of Magic slowly lose some of their magical power. This process is called **Acclimation**: the character becomes less magical as it becomes more conditioned to the mundane world and more distant from the Magic Realm.
 
@@ -2840,7 +2840,7 @@ fect its counterpart with its powers (based on its Might Score), or must be affe
 
 
 
-## *Vis Consumption*
+## Vis Consumption
 
 Whenever a magic character avoids Acclimation by consuming vis, roll a stress die and consult the following chart. The number of botch dice is equal to the number of pawns of vis consumed.
 
@@ -2882,7 +2882,7 @@ Magic characters can consume vis to ensure that they do not suffer Acclimation. 
 
 Whenever a magic character avoids Acclimation by consuming vis, the player must make a roll on the Vis Consumption chart. This determines how exposure to the vis affects the character over time, since subsisting on vis can have interesting side effects and always carries some degree of supernatural risk.
 
-## *Essential Traits*
+## Essential Traits
 
 Part of the power of the Magic realm is devoted to the pursuit of unchanging ideals, making things more of what they are at the most fundamental level, and because of this, characters with a Magic Might Score do not easily develop new Personality Traits, or increase or decrease their existing Personality Traits. Their Personality Traits become **Essential**, meaning that they are an unchanging part of the character's nature. However, these Essential Traits also define how magic characters behave, and so they become a kind of magical protection — magical effects that would force a character to act against its Essential Traits always mysteriously fail.
 
@@ -2890,13 +2890,13 @@ Many Essential Traits describe a specialty of one of the character's Characteris
 
 Characters typically develop Essential Traits upon returning from the Magic Realm, in much the same way that magi gain Twilight Scars (and Twilight Scars are basically Essential Traits for magi). They can also be gained from Virtues and Flaws (see Essential Virtue or Essential Flaw, above), and all Personality Flaws come with a corresponding Essential Trait as well. To make Essential Traits easier to distinguish from Personality Traits, you should always mark them with an asterisk on the character sheet.
 
-## *Chapter Five*
+## Chapter Five
 
-# *Magic Animals*
+# Magic Animals
 
 Magic animals cover a very wide range of creatures, from mice that occasionally cough fire to the mighty dragons. Many of them are not intelligent, but even so they are often sought out by magi, both as sources of vis and as potential familiars. Some magic animals seek magi out in turn, aiming to steal their vis sources or prey on more-mundane resources. This chapter details a variety of such creatures, suited to a wide range of saga roles.
 
-## *Beasts of Virtue*
+## Beasts of Virtue
 
 Beasts of Virtue are highly sought after by Hermetic magi, because they are well suited to being familiars. However, they are rare: in any given habitat of reasonable size (a forest, a lake, or so forth) there may be only one Beast of Virtue. Further, they aren't naturally distinguished from their mundane fellows without magic they are more-perfect creatures of their species, but this isn't always apparent to the eye. A Beast of Virtue epitomizes all the traits of its species, often to a supernatural degree. The mythic qualities assigned to animals in *Physiologus* and the Bestiaries are actually possessed by Beasts of Virtue rather than their mundane counterparts, and they only have powers that relate to the perfection of their mythic properties. Other magical beasts exist with different powers, but these are Transformed Beasts (see below), not Beasts of Virtue.
 
@@ -2904,7 +2904,7 @@ No Hermetic attempt to create a Beast of Virtue has succeeded; such attempts res
 
 The corpse of a Beast of Virtue typically contains 1 pawn of vis for each 5 points (or fraction) of Might it possessed; and often the part of the body that contains this vis may be made into an Object of Virtue by a hedge magician (see Chapter 8: Magic Things).
 
-## *Designing Beasts of Virtue*
+## Designing Beasts of Virtue
 
 Beasts of Virtue should be designed according to the rules in Chapter 4: Magical Characters. The following sections provide guidance on how to use those rules specifically to create a Beast of Virtue. The key features that make a magical animal into a Beast of Virtue are the Inherited Virtues and Flaws listed below, and the absence of Flaws that represent physical defects.
 
@@ -2946,7 +2946,7 @@ Animals typically have natural weapons in the shape of teeth, claws, or horns; a
 Remember to subtract the Size of a Beast of Virtue from the initial Might score to get the final Might score. This doesn't affect the points available to spend on Magical Qualities.
 
 
-## *Example Beasts of Virtue*
+## Example Beasts of Virtue
 
 #### **Black Boar of the Bog**
 
@@ -3022,7 +3022,7 @@ The Boar's tusks may be Enriched by soaking them in the blood of the Boar for on
 
 *Bite:* Initiative +1, Attack +13, Defense +8, Damage +13
 
-## *Suggested Familiars by Art*
+## Suggested Familiars by Art
 
 The Arts used to bond a familiar must correspond to either the animal itself, or its powers (see **ArM5**, page 104). The following list expands on the suggestions in **ArM5** for animals that may be suited to particular Arts.
 
@@ -3099,7 +3099,7 @@ MuAn 35 (Base 30, +1 Conc): Greater Power (35 levels, –3 Might cost)
 **Appearance:** A gigantic, black hound that is similar in appearance to a monstrous rottweiler.
 
 
-## *Beasts of Virtue Story Seeds*
+## Beasts of Virtue Story Seeds
 
 #### **A Noble's Folly**
 
@@ -3590,9 +3590,9 @@ The body of a Salamander of Virtue, if dried by smoking it over embers of alder 
 
 **Personality Traits:** Stag\* +3, Noble +3, Healthy (Stamina) +3, Brave +2
 
-#### *Magic*
+#### Magic
 
-## *Beasts of Virtue Story Seeds (con't)*
+## Beasts of Virtue Story Seeds (con't)
 
 #### **Under Pentele's Protection**
 
@@ -3807,7 +3807,7 @@ ReMe(An) 15 (Base 5, +1 Eye, +1 Conc): Greater Power (15 levels, –2 Might cost
 **Appearance:** A grey owl with very large iceblue eyes.
 
 
-## *Bestiary Story Seeds*
+## Bestiary Story Seeds
 
 - *•* An avaricious magus has imported Ethiopian ants to mine gold for him, but now he cannot get the gold away from its guardians. He asks the covenant for help, but there are too many giant **Ants of Virtue** to simply defeat in battle.
 - *•* Something has been cutting down trees in a faerie forest. The faeries blame neighboring humans (perhaps the covenant), but an **Antelope of Virtue** is actually responsible.
@@ -3831,7 +3831,7 @@ The Owl can understand human speech. She generally avoids direct contact with hu
 
 The owl's skull may be Enriched by boiling it in water with rare oils and sage until no flesh remains. The skull must then be kept at the highest point on the tallest tree in the forest in which the owl lived for one season. After that period, while the skull is hung around a character's neck, she possesses the Gift of Tongues Virtue.
 
-## *Creatures from the Bestiaries*
+## Creatures from the Bestiaries
 
 Bestiaries (books about the characteristics and behavior of beasts) were a common literary form in the Middle Ages. Most medieval bestiaries are based on *Physiologus*, an anonymous first-century Greek manuscript. Medieval writers attributed remarkable powers and properties to certain animals. In **Ars Magica** Fifth Edition, only rare, Magical specimens (Beasts of Virtue) possess these magical qualities. The following short examples should help troupes design Beasts of Virtue for their own stories. See *Houses of Hermes: Mystery Cults* (page 41) for several additional beasts of legend.
 
@@ -3865,7 +3865,7 @@ The wild **Goat of Virtue** is the best climber of all the beasts and its eyesig
 
 The **Goose of Virtue** is a good watchman and can smell the scent of humans better than any other animal. In ancient times, geese alerted the city of Rome to an attack by the Gauls. The fat of a goose has medicinal properties.
 
-## *Bestiary Story Seeds (con't)*
+## Bestiary Story Seeds (con't)
 
 - *•* The magi befriend a sharp-eyed **Goat of Virtue** and convince it to keep a lookout for strangers in their territory. A rival covenant that is fond of trespassing makes an accusation of magical scrying.
 - *•* The covenfolk begin raising geese, but to the magi's annoyance, one goose — the **Goose of Virtue** — will not stay quiet at night. This is because a stranger is prowling around the covenant after dark.
@@ -3911,7 +3911,7 @@ The **Wolf of Virtue** is well known for its rapacity. It can live on anything: 
 
 When the **Woodpecker of Virtue** perches on a tree, any nails or wedges driven into the tree immediately fall out. Woodpeckers were used for reading auguries in ancient Rome.
 
-## *Birds of Nephelococcygia*
+## Birds of Nephelococcygia
 
 **Inherited Virtues:** Homing Instinct, Keen Vision, Lightning Reflexes.
 
@@ -3927,7 +3927,7 @@ To enter the regio of Nephelococcygia, a character must normally be guided by a 
 
 Bird of Nephelococcygia characters of any season may be encountered outside the regio — most spring and summer characters leave the regio daily to greet the dawn, but older birds stay within the regio for long periods of time. In the middle of winter an Assembly of Birds is held, which must be attended by all Birds of Nephelococcygia; if a character does not attend he is ostracised by the other Birds of Nephelococcygia. Usually little of import is actually discussed at the Assembly, but new songs are performed and criticized in the weeks prior to the Assembly. Rehearsing new songs, and studying the songs of others, occupies a Bird of Nephelococcygia character for an entire season (this is one of the seasons normally unavailable to a companion character). Winter Bird of Nephelococcygia characters frequently have the Major Supernatural Virtue: Composer of Power.
 
-## *Bird of Nephelococcygia Character Guide*
+## Bird of Nephelococcygia Character Guide
 
 **Magic Might:** 11+ (Auram) *(Note +4 for Size).*
 
@@ -3962,7 +3962,7 @@ Bird of Nephelococcygia characters of any season may be encountered outside the 
 **Vis:** Auram vis in feathers.
 
 
-## *Story Seed: Divine Gatekeepers*
+## Story Seed: Divine Gatekeepers
 
 According to the Greek playwright Aristophanes (*The Birds*: tractatus Quality 5 in Magic Lore), the city of Nephelococcygia was constructed to intercept communications between earth and heaven; the birds thus conspiring to insert themselves as gatekeepers of divine intervention. It is unclear whether this ever was true, and certainly the Divine is not now mediated by Nephelococcygia. Despite this, Philomena (a swallow who is the sister-in-law of Tereus, king of the birds) claimed in an interview, recorded at Durenmar over one hundred years ago, that Tereus' spire in the city does indeed contain records of prayers made over the centuries, which he has kept for reasons of his own. Philomena did not explain how the birds gained access to the prayers, or how the records were made, but finding answers to these questions might interest magi. Reputedly, Philomena was raped and had her tongue torn out by Tereus, so the interviewee may not have actually been Philomena; alternatively, she may have been healed and has told this tale to cause trouble for Tereus as revenge.
 
@@ -4014,7 +4014,7 @@ Birds of Nephelococcygia can fly. This is neither a Supernatural Ability nor a P
 
 
 
-## *The Magical Lineages of Cats*
+## The Magical Lineages of Cats
 
 Three families of cats can trace their ancestry — through generations of familiars and Warped, intelligent ancestors — to the familiars of the Founders or their earliest apprentices. Each of these families, called lineages, has an oral history and a unique culture. They have many magical features that breed almost true, a feature unusual in magical animals.
 
@@ -4034,7 +4034,7 @@ The White Lineage is descended from the familiar of the Founder Mercere, and its
 
 **Common Virtues (or Qualities):** Common Sense, Ferocity, Greater Magical Power, Keen Vision, Lesser Magical Power, Lightning Reflexes, Premonitions, Rapid Convalescence, Second Sight, Shapeshifter (tool– using, bipedal form), Social Contacts, Tough, Warrior (adds to Brawl or conventional weapons in Shapeshifters), Well–traveled.
 
-## *Cats as Example*
+## Cats as Example
 
 This section on cats demonstrates the method for constructing magical beasts. Storyguides designing parallel sets of powers for other species should borrow relevant powers from these lists, changing their names to suit the species they are creating. They should follow the same mechanical guidelines to create new powers. Ideas for powers can be found by researching the folklore of the species on the Internet — particularly on the sites of breeders — and by perusing medieval bestiaries. In the case of cats, this yields an enormous amount of material, much of which has been ignored because it is not known in 1220 Europe. For example, cat burning is a later practice.
 
@@ -4052,7 +4052,7 @@ Male tortoiseshells are very rare, and are more often magical than females. They
 
 **Common Flaws (or Inferiorities):** Magi-
 
-## *Cat Character Template*
+## Cat Character Template
 
 The unadjusted stats for cats are given in the Book of Mundane Beasts appendix. All of the Virtues, Flaws, Abilities and Qualities noted there should, in most cases, be purchased before other items of the same type, when creating a character.
 
@@ -4080,11 +4080,11 @@ cal Air, Feral Upbringing, Judged Unfairly, Reclusive, Transvestite (male cats o
 
 **Common Magical Powers:** Suckle Cows Dry, Lay to Rest the Haunting Spirit, Master of the Undergrowth, Unmarked Passage, Whispers Through the Black Gate.
 
-## *Magical Powers*
+## Magical Powers
 
 Players designing cats select one magical power for each purchase of the Greater Magical Power or Lesser Magical Power Qualities. Each of these Qualities may be purchased multiple times. Any cat may purchase any power, but some are seen frequently in cats of a certain lineage. Powers frequently seen in a certain tribe of cats are listed in the lineage descriptions, above.
 
-## *Cats' Greater or Lesser Magical Powers*
+## Cats' Greater or Lesser Magical Powers
 
 All Greater and Lesser Powers for the magical lineages of cats have:
 
@@ -4352,7 +4352,7 @@ See **ArM5**, page 138 for a fuller description of this effect.
 
 Cats with other wards that contain fire, protect from poor weather, and exclude crop rusts have also been frequently reported.
 
-## *Personal Magical Powers for Cats*
+## Personal Magical Powers for Cats
 
 All Personal Powers for the magical lineages of cats have:
 
@@ -4426,7 +4426,7 @@ A version of the spell *Trackless Step* (**ArM5**, page 155).
 
 (20 spell levels: Base 4, +1 Touch, +2 Sun, +1 for constant effect)
 
-## *Dragons and Dragon-kind*
+## Dragons and Dragon-kind
 
 Dragons are the largest and most fearsome of mortal creatures. They are renowned for their cunning, wickedness, and lust for treasure. Related to dragons, but less powerful, are a variety of reptilian creatures: the serpents, drakes, and worms.
 
@@ -4443,7 +4443,7 @@ Dragon's powers may include the deadly breath, entrancing gaze, or venom shared 
 Slaying a major dragon is a feat worthy of legend, a suitable challenge for a whole covenant of senior wizards. The largest dragons are so physically powerful, they are beyond anything the rules of **Ars Magica** Fifth Edition can represent. Such creatures are too big and too well-armored in iron-hard scales to be harmed by mortal weapons. Characters should have to come up with an innovative plan to defeat such a mighty opponent: perhaps questing for a legendary weapon, or searching the Magic Realm for lore that reveals the dragon's hidden weakness.
 
 
-## *Dragons as Characters*
+## Dragons as Characters
 
 While the classic dragon is much too powerful to use as a player character, one can create a fairly weak dragon using the rules in Chapter 4: Magic Characters, suitable for use as a grog, companion, or magus-equivalent character — or as a character's Magical (Being) Companion. For dragons meant as non-player characters, it's not necessary to strictly obey the **Ars Magica** Fifth Edition character-creation rules; for instance, there's no need to make sure a mighty dragon's Virtues are all properly balanced with Flaws. Dragons are supposed to be powerful.
 
@@ -4473,7 +4473,7 @@ If the dragon is to be one of the player characters or their close associates, a
 
 The Might scores of other dragons and dragon-kind should fall into the following general ranges:
 
-## *Character Guide: A Scitalis*
+## Character Guide: A Scitalis
 
 **Magic Might:** 5 (Animal)
 
@@ -4576,7 +4576,7 @@ CrIg 10 (Base 4, +2 Voice): Greater Power (10 levels)
 
 *Torrent of Flame,* 2 points, Init +1, Ignem
 
-## *Magic*
+## Magic
 
 R: Voice, D: Mom, T: Group
 
@@ -4592,7 +4592,7 @@ Varkos is a fire drake who desperately wants to be thought of as a fearsome drag
 
 One of the reasons Varkos tries so hard to be terrifying is that he wants to attract a
 
-## *Claw and Fang*
+## Claw and Fang
 
 The weapon statistics for a dragon's claws and teeth as are follows. Dragons larger than Size +2 usually have large claws and/or large teeth.
 
@@ -4620,7 +4620,7 @@ mate. Living in a cave in the mountains can be lonely and rather boring. He enjo
 
 **Virtues and Flaws:** Magic Animal; Magical Monster; Arcane Lore, Improved Characteristics (x3), Lightning Reflexes, Self-
 
-## *Option: Constriction Attacks*
+## Option: Constriction Attacks
 
 Medieval bestiaries speak of dragons strangling elephants with their tails or coils. Many dragons and their lesser kin can attack by constriction. This ability is especially common among worms and large serpents. The following constriction rules are optional. If you prefer to keep combat uncomplicated, simply ignore the constriction attacks listed for dragons in this chapter.
 
@@ -4683,7 +4683,7 @@ Arkliss used 1 mastery point from her Improved Powers Quality on her *Lungs of t
 
 **Characteristics:** Int +5, Per +4, Pre +8, Com +3, Str +12, Sta +8, Dex +3, Qik –4
 
-## *Dragon Story Seeds*
+## Dragon Story Seeds
 
 #### **A Scintillating Serpent**
 
@@ -4763,7 +4763,7 @@ resemble a gleaming mound of gold; when would-be thieves discover the illusion, 
 
 Polymathes is as consumed by lust for treasure as any of his kind. However, the wealth he craves is not money, but knowledge. He has a magnificent hoard of rare books and scrolls, some of them very ancient. There are a few tens of thousands of gold coins as well, collected in Polymathes' younger days before he could appreciate the finer things in life. He has carefully arranged his treasures in piles and sleeps coiled among them. He does read the books from time to time (hence his smattering of Academic Abilities), but he's primarily interested as a collector. He is preoccupied with expanding his collection, by whatever means are convenient. (It would be highly inadvisable to mention the Great Library of Durenmar in his presence.)
 
-## *Character Guide: A Lindwurm*
+## Character Guide: A Lindwurm
 
 *Now crept the worm down to his place of watering, and the earth shook all about him, and he snorted forth venom ...*
 
@@ -4823,11 +4823,11 @@ Lindwurms are consumed by a lust for riches. They can often be found guarding va
 
 This character guide may be used "as is" or completed in detail by adding up to 4 points of Virtues and Flaws and 175 Experience Points in Abilities. For a morepowerful lindwurm, add Might and Qualities as well.
 
-## *Transformed Animals*
+## Transformed Animals
 
 Powerful mystical effects cause Warping to both people and beasts. Hermetic magi often use the term Transformed Animal to classify those animals that have become Warped by magic. Hermetic taxonomists mark an important distinction between Transformed Animals and other beasts with magic qualities, like Beasts of Virtue: the magical qualities manifested by a Transformed Animal are entirely unrelated to the natural qualities of the beast, but are instead intimately related to the magical event that caused the transformation. Transformed Animals also do not gain a Magic Might score from their transformation, and thus do not become creatures native to the Magic realm.
 
-## *Warping*
+## Warping
 
 Animals gain Warping points in the same manner as people (**ArM5**, pages 167- 168). Once an animal gains a Warping score of 1 it acquires a Minor Flaw, and it gains another Minor Flaw when its Warping score reaches 3. When the Warping Score reaches 5 a Minor Virtue is gained, and subsequent increases in the Warping Score result in the acquisition of Major Flaws. Note that an Animal that acquires a Minor Virtue (as it has reached a Warping Score of 5), no longer gains Warping points merely due to exposure to the same sort of aura.
 
@@ -4843,7 +4843,7 @@ Minor Supernatural Flaw: Warped Senses Minor Supernatural Flaw: (Form) Monstrosi
 
 Hunger for (Form) Magic Major Supernatural Flaw: Bound to Magic
 
-## *Example Warped Animals*
+## Example Warped Animals
 
 Below are some examples of animals that have been transformed due to exposure to magic. Note that until an animal has become so Warped that it acquires a Warping Score of 5, it only gains Flaws due to magical exposure, and many animals do not have a long enough life span to reach such a score.
 
@@ -4879,7 +4879,7 @@ Below are some examples of animals that have been transformed due to exposure to
 
 **Vis:** 1 pawn of Muto vis in fish tail.
 
-## *Magic*
+## Magic
 
 **Appearance:** The fore-part of the cat-fish is that of a black cat, and the back-part is that of a silvery fish. His favorite hunting method is to hide under the surface of the water, and grab small vermin nesting in the banks of the river. Sometimes he will chase a fish on a line, but this is more of a kitten-like regression than serious hunting. Like all cats, the cat-fish gains a +3 bonus on rolls to climb and jump, due to his Perfect Balance, although of course he cannot easily climb out of the water. The cat does not have gills, and so cannot breath underwater.
 
@@ -4889,7 +4889,7 @@ The Bonisagus magus Yonnlius, currently a Master in the Rhine Tribunal, claims t
 
 #### **The Dog that Flew (Canis Volata)**
 
-## *Minor Covenant Hook: Warped Livestock*
+## Minor Covenant Hook: Warped Livestock
 
 The covenant has a large population of animals that have been Warped by a long association with the covenant. A minority of the animals have unusual and useful powers, but the presence of monsters draws mundane attention and suspicion to the covenant. If the population of monstrosities is large enough, the animals may be farmed to provide a source of Muto vis — this is represented by assigning an appropriate vis source Boon to the covenant.
 
@@ -4915,7 +4915,7 @@ scious
 
 **Wound Penalties**: –1 (1–4), –3 (5–8), –5
 
-## *Intentionally Warping an Animal*
+## Intentionally Warping an Animal
 
 A cage of change is an enchanted item that is intended to rapidly Warp an animal, causing it to become monstrous by using an effect similar to *The Enigma's Gift* (**ArM5**, page 157). This is done in the hope that the animal may then be slain and harvested for Muto vis. Using a cage of change is considered an unpleasant act by most magi, and many Bjornaer and Merinita magi consider the device abhorrent.
 
@@ -4986,11 +4986,11 @@ This family of mice ate the magical residue of a blast of Ignem magic cast by a 
 
 lateral effect of his magic as he hurtled off in pursuit of his faerie foe, but the mice have since burned down several nearby barns as they tried to nestle among the stored hay. The farmers who own the barns have not figured out what is happening; they suspect that an arsonist is the cause, and have set a watch on the remaining barns.
 
-## *Training Creatures*
+## Training Creatures
 
 With the approval of the storyguide, any magical beast with an animal intellect — that is, those with Cunning (Cun) — may be tamed, and then used by another character as a mount, guardian, or companion as appropriate. Taming an animal is a possible laboratory activity for a magus, but mundane animal handlers and some magical characters can also attempt to tame animals. Once an animal has been tamed, it can be further trained and taught a number of tricks.
 
-## *Taming Animals*
+## Taming Animals
 
 Regardless of whether the character taming an animal is a magus, a magical character, or a mundane trainer, taming is a seasonal activity and the character accumulates a number of points each season toward taming the animal. Taming is complete when the accumulated total of points exceeds the Might of the creature. Points only accumulate between consecutive seasons, so if the character does something else in the interim then any points already gained are lost. Points for taming animals can't be transferred between trainers.
 
@@ -5004,7 +5004,7 @@ If the tamer can generate enough points to tame a creature in a single season, h
 
 For a magus, taming an animal is a laboratory activity, and the creature must be housed in the laboratory. Of course, if the creature is very large this may necessitate the construction of a new laboratory. The number of
 
-## *Taming Mundane Beasts*
+## Taming Mundane Beasts
 
 Mundane beasts can also be tamed, and (for this purpose only) mundane beasts have an effective (Animal) Might of 1 + 2 times Confidence Score. Note that taming a beast is a social activity, so penalties for the Gift apply to the number of points accumulated in a season; creatures with Magic Mights are often not affected by the Gift in this way. Some example mundane beasts are described in the Book of Mundane Beasts appendix, and *Houses of Hermes: Mystery Cults* (page 38) describes a method of generating statistics for mundane beasts.
 
@@ -5040,7 +5040,7 @@ A mundane trainer can also attempt to tame a beast. He generates a number of poi
 Generally, a mundane trainer will only be able to successfully tame beasts with a small Magic Might.
 
 
-## *Tricks, Stunts, and Tasks*
+## Tricks, Stunts, and Tasks
 
 Once an animal is tamed it may be commanded by characters with Intelligence (Int) characteristics. The animal can be commanded by any such character with the Animal Handling Ability or by a character to whom the animal is loyal (see below). Regardless of the method used to the tame the animal, once tamed he does not count as being under a continuing mystical effect.
 
@@ -5056,11 +5056,11 @@ If he wishes, any character with the Animal Handling Ability may spend additiona
 
 Any character with the Animal Handling Ability may train and therefore improve a tamed animal's Abilities using the standard training rules (**ArM5**, page 164). As normal, the master must have a greater score in the Ability than the animal does.
 
-## *Realms of Power*
+## Realms of Power
 
 Usually, an animal may only be trained in Abilities that he already has a score in, as other Abilities are beyond his capacity.
 
-## *Animal Ken*
+## Animal Ken
 
 A character with Animal Ken (**ArM5**, page 62) can speak to animals, including some magical beasts. Such a character can attempt to reason with any animal (regardless of whether it is tamed or not) using his Animal Handling Ability, and so convince it to perform a task. This does not result in a tamed animal, merely an animal that has decided to obey a particular instruction. Animal Ken offers no advantage during taming, but the character may issue more-complex commands to a tamed animal. The animal is no more likely to obey these commands, but it may allow the character to better utilize an animal as a scout or informant. Another important use of Animal Ken is to convince an animal that is balking at performing some dangerous task that the task is not dangerous after all.
 
@@ -5095,15 +5095,15 @@ The task is a complex series of sub-tasks, that requires the animal to concentra
 The creature fears some portion of the task. Note that it is the animal's perception of fear that is important here. Most animals would fear a battle, or fire, for example. If the creature does not have a Confidence Score, a Loyalty test against an Ease Factor of 6 must also be made to follow through on this task.
 
 
-## *Chapter Six*
+## Chapter Six
 
-# *Magic Humans*
+# Magic Humans
 
 The realm of Magic can affect humans, or at least creatures with human form, just as easily as it can affect creatures of other shapes. Debate rages in the Order and among churchmen over whether these beings have souls, and on their fate after death. But since a number of them live at covenants, those magi who believe they have no souls have, on the whole, accepted the value of discretion.
 
 This chapter covers four large groups of Magic Humans. First, the giants, who are far larger than normal humans. Second, the Spirit Votaries, who are humans who have accepted a link with, and power from, spirits. Third, the Magic Kin, including lineages of near-human creatures with a consistent touch of the Magic realm. Finally, humans who have come too close to the power of magic and have been transformed by it in some way, including the unquiet dead.
 
-## *Magical Giants*
+## Magical Giants
 
 *Among [the giants] was one detestable monster, named Goëmagot, in stature twelve cubits, and of such prodigious strength that at one shake he pulled up an oak as if it had been a hazel wand. On a certain day, ... this giant with twenty more of his companions came in among the Britons, among whom he made a dreadful slaughter.*
 
@@ -5115,7 +5115,7 @@ The typical giant resembles a large human, from Size +2 to about +6. Such giants
 
 Some folk believe giants are the accursed descendants of Cain. Magi are more inclined to think they are the distant descendants of primeval giants, their size and Might diminished through generations of inter-breeding with humans. Or it's possible that some giants are an enchanted offshoot of the human race. Their ancestors could have been transformed by powerful Warping or subjected to some mighty, long-forgotten ritual.
 
-## *Primeval Giants*
+## Primeval Giants
 
 The primeval giants are immense creatures that appear in the mythologies of many cultures. They are usually considered to be the children of the Protogonoi (see Chapter 7: Magic Spirits, Primal Spirits), and ancestors of the Gods and Daimons. Theurgists rank these primeval giants as the kosmokrators and consider them to be spiritual entities, inasmuch as such vastly powerful creatures could be categorized at all.
 
@@ -5143,7 +5143,7 @@ As a rule, giants are boorish, violent, and cruel. Both giants and giantesses ar
 
 Most giants are affected by the Forms of Corpus and Mentem. They usually have a limited repertoire of magical powers, often nothing more than their prodigious size.
 
-## *Designing Giants*
+## Designing Giants
 
 Technically, any being of humanoid form, but larger than human size, could be considered a giant. This chapter is mainly concerned with gigantic beings who do not fall into any other category: human-like giants, as opposed to large elementals or the like. Giants get their enormous Size from the Gigantic Quality (see Chapter 4: Magic Characters, Major Magic Qualities).
 
@@ -5159,7 +5159,7 @@ Giants should be designed according to the rules for Magic Humans in Chapter 4. 
 
 Giants do not have any other compulsory Virtues or Flaws, but may choose any Virtues and Flaws they wish (except obviously contradictory Flaws like Small Frame or Dwarf) within the normal allowance for
 
-## *How Big is a Giant?*
+## How Big is a Giant?
 
 The following table gives approximate heights and weights for a figure of human proportions. It assumes that body density remains constant regardless of Size. Sizes below +1 are shown for comparison. The ranges of heights and weights are meant only as a guide. In **Ars Magica** Fifth Edition, a character's height and weight are determined by his Size Characteristic, not the other way round: a grog weighing 200 pounds cannot increase his Size to +1 simply by putting on 20 pounds of extra weight (unless, at the storyguide's discretion, the character actually becomes Obese). An especially tall and slender character might be a little taller than the normal range for his Size, or a heavyset one might weigh a bit more than the table suggests.
 
@@ -5208,7 +5208,7 @@ Other common Qualities for giants include Virtues that grant strength or toughne
 
 The traditional weapons for giants in medieval tales are clubs or cudgels. Compute combat statistics as normal, keeping in mind
 
-## *Giants in Combat*
+## Giants in Combat
 
 The **Ars Magica Fifth Edition** combat rules are oriented toward characters of human size. Some special considerations apply to combat between humans and giants. As noted on page 192 of **ArM5**, a threepoint difference in size is approximately a tenfold difference in mass. This weight advantage gives giants an advantage in certain combat situations. For instance, it does not seem plausible that a 175-pound man should have an easy time grappling and pinning a 1750-pound giant!
 
@@ -5226,7 +5226,7 @@ way to reflect their coarse nature. Consider choices such as Cruel, Oafish, Drun
 
 
 
-## *Character Guide: A Typical Giant*
+## Character Guide: A Typical Giant
 
 **Magic Might:** 12 (Corpus)
 
@@ -5280,7 +5280,7 @@ Barcas considers himself an invincible wrestler and loudly proclaims his prowess
 
 Barcas enjoys a nearly complete immunity to metal weapons. He has only one small vulnerable spot, just below the sternum. If an attacker knows this weakness and specifically concentrates his attacks on it, he suffers a –3 penalty to Attack but can inflict full normal damage, bypassing both Barcas's magical invulnerability and his Terram Resistance. Spells and non-metallic weapons can harm Barcas normally; his Terram Resistance gives him a Soak bonus against metal weapons that bypass his Magic Resistance.
 
-## *Norse Giants and Trolls*
+## Norse Giants and Trolls
 
 Norse mythology speaks of several races of giants spawned from the primordial giant Ymir, who aeons ago was slain by the gods and whose body was formed into the world. Ymir was so vast that a single eyebrow was used to form all of Midgard. The Norse name for giants is Jotunnar (singular, Jotunn). Myths speak of frost giants, mountain giants, sea giants, storm giants, and fire giants. The land of the giants is called Jotunheim, though the fire giants dwell in a different place, the fiery prison of Muspelheim. These domains might be places within the Magic Realm.
 
@@ -5370,7 +5370,7 @@ Related to the Jotunarr is a race of Scandinavian **trolls**. The term "troll" i
 
 *Axe & Round Shield:* Init –1, Attack +11\*, Defense +6\*, Damage +16
 
-## *Giants Story Seeds*
+## Giants Story Seeds
 
 #### **A Cavernous Cage**
 
@@ -5433,11 +5433,11 @@ InAu 20 (Base 1, +2 Sun, +4 Vision, +1 continuous effect): Personal Power (20 le
 
 Rok is something of a weakling among the storm giants, being one of the smaller members of that mighty and fearsome race. In battle, he uses his power over winds to create a *Charge of the Angry Winds* effect, to let him break up groups of opponents and hold enemies at bay until he can single out one victim to engage with his axe.
 
-## *Non-Human Giants*
+## Non-Human Giants
 
 To design a oversized elemental, a spirit with a gigantic material form, or even a giant animal, use the rules for designing a creature of that type (from Chapter 8: Magic Things in the Elementals section, Chapter 7: Magic Spirits, or *Houses of Hermes: Mystery Cults,* respectively) and simply choose Gigantic as one of the creature's Qualities.
 
-## *Spirit Votaries*
+## Spirit Votaries
 
 A spirit votary is a devoted worshiper of a magical spirit. In pre-Christian days, these individuals would be high priests and priestesses, and form a cult to venerate their spirits; similar powers could be found among a number of different cultures. Today, a spirit votary tends to be a solitary figure railing against the overt superiority of the Dominion of God.
 
@@ -5519,20 +5519,20 @@ er of a spirit) **Warping Score:** 4 (15)
 
 Raised in the Old Ways by her grandmother deep in the woods, Lise was sixteen before she met another human. Once she discovered a village she visited it often, even falling in love with one of the serfs. Seeking marriage, she went to a priest to accept baptism, but rather than being taught her catechism she was badly treated by him instead. The priest told lies to Lise's lover, which resulted in his rejection of her. She fled from the village, vowing never to return. In the forest, her hatred for the priest (and by extension, the
 
-## *Story Seed: Revenge*
+## Story Seed: Revenge
 
 Having amassed power and knowledge from her spiritual mentor, Lise is now ready to leave the regio that has both sheltered and Warped her, and pursue her goal to rid the world of the Church, one priest at a time. She is dangerously mad; her opinion of the entire Church is based on one unfortunate experience with a corrupt priest. Since her life has been extended due to the Stasis power of her mentor (see Chapter 8: Spirits, Common Powers), she cannot leave a Magic aura without aging dramatically. Her first task, therefore, is to spread the Magic aura of her genius loci to engulf the village; once the church is surrounded, she can then enter the village again and exact her revenge.
 
 Church) festered. Remembering her grandmother's teaching, she searched out the holy place of the Dark Mother, a chthonic spirit of the deep forest and fertile earth who had good reason to resent the Church. Lise became the Dark Mother's only priestess. She has since dwelled within the spirit's Magical regio of 8, her life extended by the spirit's Stasis power, but she has been terribly Warped.
 
-## *Magic Kin*
+## Magic Kin
 
 The power of Magic occasionally produces families of characters aligned with Magic who share many of the same essential qualities and magical powers. These are often called **magic kin**, which suggests that their powers run in their magical lineage. However, there are also magic kin who receive special abilities from beings who do not live and reproduce as humans do, and so must pass on their essential qualities some other way, such as through magical transformation or Mystery Cults.
 
 Below are examples of ten different kinds of magic kin. Players can develop them into stories using the story hooks provided, or use these as character templates for either magic characters or characters aligned with Magic, if they wish. Each kin has several "Inherited Virtues" and "Common Flaws" that characters designed to belong to that family should strongly consider taking during character creation.
 
 
-## *Atlanteans*
+## Atlanteans
 
 Atlanteans are creatures of Magic who live in the deep ocean and have little or no contact with men. Occasionally, however, one is caught in the net of fishermen seeking deepsea herring, and brought to the surface world. Most Atlanteans have the form of fishes, and so do not survive for very long out of the water. But a few are capable of changing their form, and so can adapt to life out of water. Unfortunately, the insular Atlantean society does not tolerate the return those who have been "polluted" by contact with the surface world, and the returned Atlantean most often finds herself permanently exiled from her native home.
 
@@ -5562,7 +5562,7 @@ The character can hear from the vantage of any point in the same Water-way (see 
 
 InIm 5 (Base 1, +3 Water-way, +1 Concentration): Greater Power (5 levels, –1 cost, 15 levels of Penetration, 15 xp in Concentration, +2 Init)
 
-## *Story Seed: Woman from Atlantis*
+## Story Seed: Woman from Atlantis
 
 Word is brought to the covenant of a noblewoman caught in the ocean by fishermen living in a nearby town. The woman is very surly and uncommunicative, although she does stridently proclaim that she is Pavania — a princess of Atlantis — and that simple fishermen are beneath her. Pavania is aware of The Gift, although she has not heard of the Order of Hermes, and if she learns of the magi's powers she will demand that they remove from her "the taint of the surface world." In return, Pavania says that she will guide the magi to her home, the sunken city of Atlantis, where they will be richly reward by her grateful father, the King of Atlantis.
 
@@ -5574,7 +5574,7 @@ Sometimes a child is born to an exiled Atlantean. Such a character can be repres
 
 A few magi have studied the magic of exiled Atlanteans; a magus with this heritage has the Minor Hermetic Virtue: Atlantean Magic (see Chapter 4: Characters). One way this Virtue could be used in a saga is as the basis of a Hermetic Mystery Cult.
 
-## *Atlantean Character Guide*
+## Atlantean Character Guide
 
 **Magic Might:** 10+ (Aquam)
 
@@ -5602,14 +5602,14 @@ A few magi have studied the magic of exiled Atlanteans; a magus with this herita
 
 **Vis:** Aquam vis in blood.
 
-## *Flame Dancers*
+## Flame Dancers
 
 Some people are born with magical fire in their blood, and this is especially true of those known as the Flame Dancers — men and women possessed by the power of fire. Some say they are inhabited by a flame spirit, others believe they have been taken by a fever or madness, and a few think that they are nothing more than hedonists who delight in passion and pleasure. Whatever the case, the Flame Dancers represent fire given life in a human body.
 
 Flame Dancers generally love two things: fires and flesh. These are the mainstays of a Flame Dancer gathering, which
 
 
-## *Story Seed: Fuel for the Flames*
+## Story Seed: Fuel for the Flames
 
 A scribe turns up at the covenant, offering to trade his skill at copying and illuminating books for room and board. He says he had to flee the church where he lately worked when it burned down. The man is unknowingly a Flame Dancer, who wants to overcome what he perceives as his baser nature, but his passions are aroused whenever he reads books that feature lewd or lascivious women. Certain passages of the Bible inflamed his desire, and as a result he accidentally set fire to the building. He will not admit this weakness if he can help it, since he sees it as a private punishment from God for his sins — but the magi can only safely hire his services so long as they ensure he does not read anything provocative, or else their own library might be in danger.
 
@@ -5625,7 +5625,7 @@ may be several congregating to celebrate an event, or a single Flame Dancer enco
 
 The character feels as though he is unwounded and without fatigue until the sun rises or sets. (See *Endurance of the Berserkers*, **ArM5** page 134.)
 
-## *Magic*
+## Magic
 
 ReCo 20 (base 10, +2 Sun): Personal Power (20 levels, –1 Might cost)
 
@@ -5637,7 +5637,7 @@ The character sets fire to an individual target that is slightly inflammable, li
 
 CrIg 25 (base 5, +1 Touch, +1 Mom, +2 size): Greater Power (25 levels, –3 Might cost, +2 Might)
 
-## *Forgotten Gods*
+## Forgotten Gods
 
 As the Dominion began to spread throughout Mythic Europe, many of the powerful beasts and spirits once worshiped as gods or feared as monsters began to retreat into Magic auras and the Magic Realm. Over time, many of them were forgotten, or their places taken by angels, faeries, and demons associated with the supernatural aspects of the world that had once been considered magical. They eventually ceased to exist at all in the mundane world. In the 13th century, a few of these Forgotten Gods may still remain hidden deep within the Magic Realm, sleeping away the ages until their time comes again.
 
@@ -5663,7 +5663,7 @@ MuVi General (base effect, +2 Voice): Focus Power (10 levels, +5 Penetration)
 
 (Note that this is the version of the power to be taken as a Virtue; one taken as a Magic Quality would depend on the character's Might.)
 
-## *Story Seed: No Gods Before Me*
+## Story Seed: No Gods Before Me
 
 While staying at a nearby monastery, the characters hear from one of the brothers the story of a new initiate who has lived in the penitent's cell for the last 30 days, and who seems to suffer from an unusual form of madness. According to the young man, he is Jove, the ancient god of the sky — or at least, he was. From what they have been able to make out amid his sobbing and violent outbursts, he was hungry and thirsty, and went to a church where he was offered Communion. He accepted it, and afterwards was stripped of all of his great powers. He feels he has been betrayed by the Divine, but also feels God's love and mercy for him. The monks think he has the potential to be a great holy man if he could only overcome his proud delusion that he is a god. If the characters go to him, they will find that this Forgotten God thinks he is telling the truth, and that he does have Magical powers, but that he also has True Faith. Will the characters get involved in his story?
 
@@ -5671,7 +5671,7 @@ While staying at a nearby monastery, the characters hear from one of the brother
 
 When a famous figure in the Order of Hermes dies suddenly (Vinaria, the former Prima of House Merinita, for example), her body reverts to the form of a tree. In her will, she admits to being a Loamwalker and explains what this entailed. Her words imply that there are other Loamwalkers in the Order, as she warns the magi to mend their ways. The matter is brought to an emergency Tribunal to force these other tree-people hiding in their midst to reveal themselves. A trusted Redcap known to the characters — perhaps Ash, from *The Broken Covenant of Calebais* — admits to the characters that she is another of these trees in human form, and asks them to help shelter her from morepowerful magi who would use the threat of war to force her to reveal her secrets.
 
-## *Loamwalkers*
+## Loamwalkers
 
 The ancient power of trees is known to many who study the realm of Magic, and a common belief is that all the trees in a single forest are connected through a sort of magical group mind. In a sense this is true, since most trees are within voice range of each other; if they could talk, as they are thought to do in powerful areas of Magic, word would likely spread quickly among them. In Magic auras and in the Magic Realm, trees sometimes awaken as magical beings (see Chapter 8: Magic Things).
 
@@ -5712,13 +5712,13 @@ The character can see into the Herbam province of the Twilight Void, passing thr
 
 InHe 35 (Base 25, +2 size): Greater Power (35 levels, –3 Might cost)
 
-## *Lost Children*
+## Lost Children
 
 Some children in Mythic Europe are born to families that cannot care for them, who cannot acknowledge them, or who simply do not want them. A common practice is for the parents to rid themselves of their offspring by leaving the children deep in the woods, far from civilization and their homes, so that they cannot find their way back. By and large this is very effective, for very few of them do. However, when these children are left in a Magic aura, sometimes they find their way into the Magic Realm or gain powers through other means. Then they cease to be merely human and become Magical, cunning children who no longer grow or change and who remain the same age forever.
 
 A Lost Child typically appears to be between the ages of five and 15, and so to play one you should design a character with the Size and Characteristics penalties of a child (from page 29 of **Ars Magica**  Fifth Edition). Also, it may be appropriate to design the character with Cunning instead of Intelligence, if it is not intended as a player character.
 
-## *Story Seed: Kidnapped!*
+## Story Seed: Kidnapped!
 
 While traveling through a nearby wood, a player character attracts the notice of a Lost Child, though he does not know it. This adolescent falls in love with the character, and begins to follow the group closely. Being magical, the child is not interested in the niceties of courting or wooing, but instead engineers an abduction during the night, carrying off the character with whom she is infatuated. When the other characters awake, they realize they are missing one of their number and must follow the trail into the forest to recover their friend.
 
@@ -5735,13 +5735,13 @@ The character permanently heals a single Light wound.
 
 CrCo 20 (Base 15, +1 Touch): Ritual Power (20 levels, –1 Might cost)
 
-## *Men of the Lake*
+## Men of the Lake
 
 Elementals are the non-sentient embodiment of pure elemental forces (see Chapter 8: Magic Things). In a few lakes scattered across Mythic Europe, however, sentient creatures are known to live that appear otherwise similar to water elementals. These creatures refer to themselves as the Men of the Lake, and they sometimes leave their watery homes, taking humanoid form, to journey in the surface world. The Men of the Lake are typically placid individuals and tend to travel alone. They claim that their journeys are merely scholarly endeavors to gain information about the surface world. It is unclear whether Men of the Lake are merely superficially similar to elementals, or are in fact elementals that have somehow acquired intellect.
 
 The lakes in which the Men of the Lake live — which include Lake Balaton (near Bu-
 
-## *Story Seed: Men or Machinations?*
+## Story Seed: Men or Machinations?
 
 One of the magi befriends a Man of the Lake whose special interest is also her own magical forte, and she slowly unravels the details of his society's organization. Once she learns of the "libraries" embodied by the winter Men of the Lake, she becomes driven to visit their nearby underwater regio. But she also wonders why the society of the Men of the Lake is constructed in this seemingly artificial manner — perhaps the Men of the Lake are not natural creatures but a magical creation of some type.
 
@@ -5771,11 +5771,11 @@ MuAq 20 (Base 5, +2 Sun, +1 Constant effect): Personal Power (20 levels, –1 co
 
 The character forms a volume of water he sees into a water elemental. This has the same effect as the spell *Rarefy the Crude Water* (see Chapter 8: Magic Things, Elementals),
 
-## *Story Seed: Ghostly Apprentice*
+## Story Seed: Ghostly Apprentice
 
 A magus looking for an apprentice hears tell of a child who lives at a distant abbey who frightens the horses and seems to have unnatural powers. When he investigates, he finds that the child does not have The Gift, but is something even more unusual — an Orphan Born.
 
-## *Realms of Power*
+## Realms of Power
 
 but with Sight Range.
 
@@ -5791,7 +5791,7 @@ The character receives a mental image of a fragment of the past of a volume of w
 
 InAq 25 (Base: 3, +1 Touch, +1 Conc, +4 Special Effect): Focus Power: (25 levels)
 
-## *Orphan Born*
+## Orphan Born
 
 The Orphan Born are a strange phenomenon in Mythic Europe, and in fact many would say that they are impossible. They are engendered by parents of whom one or both are long dead, and born beyond the veil that separates the corporeal world from the spirit world. Thus the term "Orphan Born" — they are essentially orphans from the moment of conception. They are real humans, however, and are typically returned to the world of the living and taken to live where they will be cared for. Most are raised in monasteries or nunneries until they come of age, or other charitable institutions willing to take in children without living parents.
 
@@ -5823,7 +5823,7 @@ The character can interact with ghostly beings as if he were also ghostly, or co
 
 ReMe(Co) 15 (base 3, +2 Sun, +1 constant, +1 requisite): Personal Power (15 levels, –2 Might cost)
 
-## *People of the Clouds*
+## People of the Clouds
 
 High above the clouds is a great sky-sea, a magic regio that connects the whole of the mundane world to the Magic Realm, where it is said that ships can float on air and sail between all the great cities of the world, unimpeded by the features of the land far below. These ships are navigated by sailors who have spent their entire lives on these flying ships. The magic of the air is in the blood, or so it is believed, and so the children of these magical sailors usually inherit their powers over the wind and sky, and also their insatiable wanderlust — a passion so strong that they cannot bear to stay in the same place longer than about a season.
 
@@ -5831,7 +5831,7 @@ The People of the Clouds are human, or at least human-like, though there might b
 
 
 
-## *Story Seed: Sail Like the Wind*
+## Story Seed: Sail Like the Wind
 
 At a time when the characters are in a hurry to get somewhere fast, they might encounter a ship's captain who offers to ferry them there in a quarter of the usual time for a very high price. If he has an inkling that the party includes a magus, he might ask for a magical device, for example. He is vague about the details, but promises that his ship can easily make the journey at this speed. He advises the characters to remain in their cabins for the duration of the trip, but any of them who peer outside to see the source of the powerful winds they hear will likely receive a shock as they realize they are soaring through the sky several leagues above the earth on a ship of the People of the Clouds.
 
@@ -5849,7 +5849,7 @@ The character can cause winds powerful enough to lift him off of the ground and 
 
 Cr(Re)Au 30 (base 5, +1 Touch, +1 Conc, +2 highly unnatural, +1 requisite): Greater Power (30 levels, –3 Might cost, +1 Init)
 
-## *The Stoneskinned*
+## The Stoneskinned
 
 Many legends tell of men made of clay and earth who somehow became human, and statues of animals and people that have been brought to life at the will of the gods. Other stories tell of great giants made of stone and ice whose many descendants have taken human-sized forms. Perhaps these creatures have led to the magical race known as the Stoneskinned — men and animals who are so bound to the sphere of Terram that they become creatures of living rock, the equivalent of living statues that can bend and move at will.
 
@@ -5873,11 +5873,11 @@ The character becomes more resistant to damage, gaining a +1 bonus to Soak and a
 
 MuCo 15 (base 4, +2 Sun, +1 constant): Personal Power (15 levels, –2 Might cost, Variable Powers)
 
-## *Warders of Mystery*
+## Warders of Mystery
 
 This sort of magic kin is more of a society, one that adopts anyone with a demonstrated interest in history. Ceremonially, they call themselves the Warders of Mystery, though as individuals they are Auditores, or "hearers," a title that is said to date back to before the fall of Rome. Their symbol is a pot and a nail, each separate from the other: the pot represents the vessel of the Magic Realm and the mysteries it contains; and the nail represents history, with its sharp point that affixes objects in place.
 
-## *Story Seed: The Standing Stone*
+## Story Seed: The Standing Stone
 
 While passing through a village in the mountains, the characters learn that the inhabitants were attacked during the previous night by a group of wild-looking bandits, strong and stalwart men who turned every sword and arrow with which they were struck, though they fled when dawn approached. The villagers managed to capture one of the youngest with a hunter's snare as they were leaving. Yet now the ropes with which they bound him are tied to a large rock in the clearing where they were holding him, and there is no sign of the boy. Perhaps the characters can solve the mystery of what happened to their prisoner and either defeat the Stoneskinned bandits or recruit them to serve their covenant.
 
@@ -5893,7 +5893,7 @@ The Warders of Mystery is said to have its origins in magical scribes and schola
 
 **Common Flaws:** Meddler
 
-## *Story Seed: Stolen Glory*
+## Story Seed: Stolen Glory
 
 After a particularly fantastic event in which the characters used their magic to solve a problem, a catchy song begins to spread through the region attributing the success to a local nobleman instead of the characters. It might still describe them, but in lesser roles such as diviners and advisors to the lord. Other events are confused or even completely wrong, and all supernatural elements are simply attributed to either God's will or the work of the Devil. This is an attempt by one of the Warders of Mystery to limit the damage he believes the characters have done to the realm of Magic, as they may learn when they investigate who is trying to usurp their glory.
 
@@ -5904,13 +5904,13 @@ The character can see and hear what transpires at any place to which he has an A
 
 InIm 30 (base 3, +4 Arc, +1 Conc, +2 Room): Greater Power (30 levels, –3 Might cost, +5 xp Penetration)
 
-## *Transformed Humans*
+## Transformed Humans
 
 Sometimes, humans are Transformed by magic and become part of the Magic Realm. They lose their humanity in the process.
 
 It is possible, though by no means common, for a living magus to become a being of Magic. Sometimes, this is the culmination of a lifetime's quest for mystic lore. Other times, it happens by accident.
 
-## *Drowned Men*
+## Drowned Men
 
 Sometimes when a sailor drowns at sea his body passes into a magical regio and is eventually returned to the world of living — perhaps washing up on a foreign shore unconscious but alive. It is unclear whether these sailors have actually drowned and then undergone some kind of resurrection, or whether they were rescued at the very last moment prior to drowning by some magical force. In either case, Drowned Men are irreparably changed by the experience and are now creatures of magic.
 
@@ -5929,7 +5929,7 @@ In order to contact a powerful magical water creature, the characters needs to a
 
 Once he has contacted a suitable water entity, the character must negotiate and convince the creature that it should grant him power — almost all powerful water creatures have the ability to save a man from drowning should they choose to do so, and those few that do not can arrange for other creatures to perform the rescue, if they so desire. Ideally, the negotiation between the character and the creature should be roleplayed, but the troupe may abstract it by making an Intelligence + Bargain Roll for the character, against an Ease Factor of 6 + (the creature's Might) / 5. Magic creatures normally have no inherent reason to offer power, and so in return may require that the character perform a task. For example, preventing fishermen from depleting the creature's lake, slaying a rival creature, or recovering a stolen possession from a remote isle. Alternatively, the creature could request a reciprocal sacrifice of power — represented by the character adopting a Flaw. The creature's attitude to negotiation is, of course, influenced — positively, or negatively — by the method used to contact it.
 
-## *Story Seed: The Lighthouse Keeper*
+## Story Seed: The Lighthouse Keeper
 
 The island of Geita stands among a small archipelago of sharp rocks at the head of the Vilnes Fjord. Over the centuries, during violent storms many ships would have been dashed and wrecked against the raw outcrops of the island, if not for a lighthouse built on the island. The reclusive lighthouse keeper is reputed to have lived on the island for several centuries and, for curious magi, he could be a valuable source of knowledge about the local area.
 
@@ -5945,11 +5945,11 @@ After a successful negotiation, the final step is for the character to drown him
 
 A person may also be saved from immolation (by a magical creature of Ignem), or from burial (by a magical creature of Terram), and so acquire similar Virtues to a Drowned Man. There are fewer recorded incidences of this occurring — perhaps merely because many more men drown than are burned or buried alive. Hermetic scholars also speculate that it is possible to be saved from death by entities that represent other Forms, although no examples have yet been found.
 
-## *Revenants, the Walking Dead*
+## Revenants, the Walking Dead
 
 *It was not long before men became aware that Glam was not easy in his grave. Many men suffered severe injuries; some who saw him were struck senseless and some lost their wits. Soon ... men began to think they saw him about their houses. The panic was great and many left the neighborhood. Next he began to ride on the housetops by night, and nearly broke them to pieces. Almost night and day he walked, and people would scarcely venture up the valley, however pressing their business. The district was in a grievous condition.*
 
-#### *— The Saga of Grettir the Strong*
+#### — The Saga of Grettir the Strong
 
 While ghosts are the disembodied spirits of the dead, medieval stories also tell of restless dead who still occupy their material bodies. These are **revenants** or "the walking dead," which differ from ghosts in that their only form is an animate, material corpse.
 
@@ -5958,7 +5958,7 @@ Although a revenant is bound to a physical body, its animating force is a spirit
 The physical statistics of a revenant are also usable for corpses that have been
 
 
-## *Option: Resistance to Piercing Weapons*
+## Option: Resistance to Piercing Weapons
 
 Piercing weapons such as spears and arrows are effective against living beings, but potentially less so against the walking dead. Such weapons are unlikely to break bones or hack off limbs. The troupe may wish to grant revenants an additional +10 Soak bonus against such weapons, or simply rule them totally ineffective.
 
@@ -5970,7 +5970,7 @@ animated by spells such as *The Walking Corpse* (**ArM5**, page 135). Such autom
 
 Walking dead usually lose most of their living memories, including loss of Abilities.
 
-## *Realms of Power*
+## Realms of Power
 
 Therefore, most of them are Spring or Summer characters. They tend to keep Abilities related to their mortal ties. They should be designed according to the rules for Magic Humans in Chapter 4: Magic Characters.
 
@@ -6000,7 +6000,7 @@ It has the No Fatigue and Improved Soak Qualities listed in the character guide,
 
 A corpse animated by a spell has no Might score or Confidence score. Its Brawl skill is nominally 3, though as an optional rule the troupe may wish to assign a Brawl
 
-## *Character Guide: Revenant, Corpse-Like Form*
+## Character Guide: Revenant, Corpse-Like Form
 
 **Magic Might**: 9 (Corpus)
 
@@ -6055,15 +6055,15 @@ A corpse animated by demonic possession or a Magic spirit's Manifestation power 
 
 Regardless of how the corpse is animated, its unarmed attacks can be blocked by Magic Resistance.
 
-## *Daimons and Heroes*
+## Daimons and Heroes
 
 Legends speak of human wizards who have unlocked the secret of immortality and achieved ascendency to the Hall of Heroes, becoming Daimons of the Magic Realm (see Chapter 7: Spirits). The process of becoming an immortal spirit is called apotheosis. It is the ultimate goal of several mystery cults. The mystical groups that pursue apotheosis, along with rules for the transformation itself, are detailed in *The Mysteries: Revised Edition*  (pages 82-86).
 
-## *Living Ghosts*
+## Living Ghosts
 
 Theurgists claim that is should be possible for a human wizard to magically bind her own spirit to a physical location, becoming something like a ghost but retaining her human will (and her magical powers). Rumors speak of mystery cults dedicated to the pursuit of this very secret. See *The Mysteries: Revised Edition* (pages 70-74) for details.
 
-## *Character Guide: Revenant, Skeletal Form*
+## Character Guide: Revenant, Skeletal Form
 
 **Magic Might:** 6 (Corpus)
 
@@ -6097,7 +6097,7 @@ ify as a Lesser Power; +3 Initiative) **Equipment:** Tattered burial shroud
 
 A human skeleton weighs much less than a living person, so an animate skeleton's Size is –2.
 
-## *Magi in Final Twilight*
+## Magi in Final Twilight
 
 Magi who enter Final Twilight usually vanish from the world and are never heard from again. In some cases, however, they might be transformed by mysterious forces into something altogether inhuman. Bjornaer magi, for example, permanently assume the forms of their heartbeasts, and may become magical Great Beasts (see *Houses of Hermes: Mystery Cults*, page 24). Unsubstantiated rumors within the Order speak of powerful magi from beyond Twilight contacting the living through dreams or visions.
 
@@ -6106,13 +6106,13 @@ On rare occasions and at the storyguide's discretion, a magus who enters Final T
 The Might Score of a magus Transformed by Twilight should generally be around 20 to 40. Depending on the nature of the transformation, it may be appropriate to set the Might score equal to (5 x relevant Ability score) or (relevant Art score). For example, Bjornaer Great Beasts have a Might score equal to (5 x Heartbeast). Exactly which Art or Ability is relevant should be decided based on the specific transformation.
 
 
-## *Chapter Seven*
+## Chapter Seven
 
-# *Magic Spirits*
+# Magic Spirits
 
 Spirits make up an important part of the magical world, both as natives of the Magic Realm and as the unseen inhabitants of the earth. However, because spirits are by their nature insensible to most physical beings, and have a limited ability to interact with them anyway, they are largely ignored by the inhabitants of Mythic Europe, magi included. Of those few Hermetic magi whose interest lies with the spiritual world, many are descendants of Ancient Greek traditions, and so much of the common terminology of the spirits is derived from the Greek language. However, magi and wizards alike from all over Mythic Europe are aware of the Invisible World, and use their magic to placate, coerce, and exploit the spirits.
 
-## *Spirits as Characters*
+## Spirits as Characters
 
 The body of a spirit is pure form, and involves no matter. Without the exercise of its supernatural powers, a spirit cannot affect matter in any way; and without magical assistance, a material being cannot sense or interact with a spirit either. Spirits ignore the restrictions of the physical world, such as sources of damage and deprivation, and are not constrained to walk upon the surface of the world, but can fly through the air or solid objects with equal ease. Further, they are truly immortal, and do not suffer the perils of aging or disease.
 
@@ -6128,7 +6128,7 @@ A spirit occupies no physical space and has no weight; therefore Size is meaning
 
 As noted in the Characters chapter, all spirits have the Magical Air Flaw. In their native form they can sense other spirits without needing the Second Sight Virtue.
 
-## *Taxonomy of the Invisible World*
+## Taxonomy of the Invisible World
 
 The word **spirit** (from the Latin *spiritus*, meaning "breath") is a general term used to describe a being with no material existence. However, the term confuses two quite distinct phenomena. There are the spirits that were created as such, and the spirits that were created as human but have since ceased to be material beings. To distinguish these two, the word **genius** (pronounced "GAIN-ee-oos" to distinguish this Latin word from the English word) is used for the former kind, and **animus** for the latter. In this book, when we refer to "spirits," we include both genii and animi in this category; however, where a rule pertains to just one of these beings, we will use the appropriate term.
 
@@ -6146,7 +6146,7 @@ The typical Might scores of different types of spirits are listed in the section
 
 The incorporeal, immortal, and tireless form of a spirit does not need to be purchased as a Magical Quality. Spirits have no capacity to be seen by normal humans without buying a Power such as *Eidolon*, and they cannot influence the material world without Powers such as *Ghost Touch* or *Donning the Corporeal Veil*. Magical Qualities such as these are almost essential for player character spirits. It is not unusual for the majority of a spirit's Qualities to be spent on Powers.
 
-## *Powers of the Spirits*
+## Powers of the Spirits
 
 Spirits typically have one to five supernatural powers, and this section details many of the most common ones. General guidelines for powers can be found in Chapter 4: Magic Characters. Some of these powers are similar to those available to the Forest Spirits in *Guardians of the Forests: The Rhine Tribunal*. The details given here revise and update those descriptions. These powers may also be used for creatures other than spirits. Naturally, any power that affects another being must penetrate its Magic Resistance. Powers that are similar to Ritual spells permanently reduce the spirit's Might score as well as Might pool; Might Score can be restored according to the mechanism detailed in Chapter 4: Magic Characters.
 
@@ -6156,7 +6156,7 @@ Spirits typically have one to five supernatural powers, and this section details
 
 If this power penetrates, the spirit exerts direct control over the target. It can issue commands that the target carries out to the best of his abilities; however, the target can attempt to break the control of the spirit ev-
 
-## *Spirits as a Source of Vis*
+## Spirits as a Source of Vis
 
 The intangible bodies of spirits contain raw vis, typically 1 pawn of an appropriate Form per magnitude of their Might, although spirits with a Might less than 5 do not have sufficient power to represent even a single pawn. If the spirit is slain while in immaterial form, the vis may be automatically distilled into a physical receptacle; this usually only occurs if the spirit has a strong tie to the material world, such as a ghost, a spirit of the elements, or a genius loci. Many spirits do not have such ties, however, and upon their death the vis remains in non-material form, and must be converted to physical form (using a variant of *Gather the Essence of*  *the Beast*) for it to be used by a physical being. If an Aspect of a Daimon is destroyed, it can choose whether or not to recall the immaterial body; only if the body remains does the vis remain. Use of magic that destroys the Might of a spirit also reduces the amount of vis accordingly, so a spirit totally destroyed in this manner leaves no vis behind at all.
 
@@ -6210,7 +6210,7 @@ ReTe 25: Focus Power
 
 Manifests the spirit's consciousness among animals or plant life it touches, temporarily granting them a Might score equal to the Might points spent, and controlling their actions. It is a Rego Herbam effect of Level 20 to control a plant that is a pace in diameter (costing 4 Might points), and a Rego Animal of Level 25 to control a single creature of Size +1 (costing 5 Might points). For an extra 2 Might points, a group of ten standard creatures or plants (or the equivalent mass) can be controlled. For each additional 2 Might points spent, the mass of creatures or plants controlled is multiplied by 10. The spirit cannot spend more Might points on this power than the magnitude of its Magic Might. Plants can be animated (see Chapter 8: Magic Things, Magic Plants) or made to grow with unnatural speed. For instance, a patch of weeds can spring up overnight, whereas a tree can grow from a seeding in a month. Humans and other sentient
 
-## *Daimons*
+## Daimons
 
 The **Daimons**, or Named Spirits, embody the elements of creation, from the mighty Protogoni and the Intelligences of the Planetary Bodies, right down to the spirits of sacred groves. Ascended Magi and Heroes of Old (see *The Mysteries Revised Edition*, pages 137–140) are also included within the Daimons. While they are known as the Named Spirits, this does not mean that other spirits do not have personal names, rather it is the complex series of syllables and ritual gestures that make up a True Name (see Spirits and Magic below) that is indicated.
 
@@ -6261,13 +6261,13 @@ The spirit can cause a defined area with a Magic aura, such as a cave, a glade, 
 
 No Hermetic equivalent: Ritual Power x 2
 
-## *Airy Spirits*
+## Airy Spirits
 
 The Airy Spirits are native to the material world, unlike the Daimons that reside in the Magic Realm. While they can be conceivably found anywhere, in a Magic aura the air swarms with these spirits (thus their name), but since they have little interest in the doings of material beings, their presence usually goes unnoticed. In a Magic aura or a regio, an Airy Spirit might be present in any or every object, much as angels are responsible for the minutiae of things in the Dominion (see *Realms of Power: the Divine*, page 21, Angelic Minutiae). They may be responsible for the effects that such places have on humans: the intensity of colors, the perfusion of a particular emotion, and the intensification of experience in general. The Airy Spirits are individually unable to cause these effects (many have a Might of less than 5), and often go unnoticed due to their inability to impinge on the material world without expending their power. Nevertheless, their presence can be felt in an undefinable way, and contribute to the sense of wonder engendered by the Realm of Magic.
 
 Some scholars contend that the act of summoning an Airy Spirit is tantamount to the creation of that spirit, and that it did not exist before the summons. The contrary argument to this is that Airy Spirits are naturallyoccurring spiritual embodiments of material things. Naturally, it is impossible to demonstrate the truth of either position, for the very act of perceiving a spirit under the second view would create it under the first view.
 
-## *Florae and Fauni*
+## Florae and Fauni
 
 **Magic Might:** 1 – 25 (Herbam or Animal) **Typical Powers:** Donning the Corporeal Veil; Guide; Manifestation; Master of (Form).
 
@@ -6287,7 +6287,7 @@ Each represents an individual living being; thus it might be the spirit of a sin
 
 **Magical Qualities and Inferiorities**: Focus Power (Master of Water); Improved Characteristics, Lesser Power (Eidolon)
 
-## *Realms of Power*
+## Realms of Power
 
 **Personality Traits:** Cheerful +3, Curious +2, Bulrush +3\*
 
@@ -6306,7 +6306,7 @@ Each represents an individual living being; thus it might be the spirit of a sin
 This spirit can be found near the river's edge, close to the rushes that gave her birth. She is a playful creature, and uses her power to make minor changes to the flow of the river around her home.
 
 
-## *Spirits of the Elements*
+## Spirits of the Elements
 
 **Magic Might:** 1 – 25 (appropriate elemental Form)
 
@@ -6327,7 +6327,7 @@ once-a-puppy-but-is-not-yet-worm-food."
 
 Spirits associated with the **Art of Ignem** are interested in separation and the maintenance of individual identity. They are good at recognizing specific individual objects that might appear identical to a person, and will often speak in terms of the components that make up an object, rather than considering it to be a whole. An animal is a collection of bones, organs, humors, and flesh, for example.
 
-## *Imagines, the Spirits of Sensation*
+## Imagines, the Spirits of Sensation
 
 **Magic Might:** 1 – 20 (Imaginem) **Typical Powers:** Crafter of Images, Mastery of (particular species), Ruler of Images
 
@@ -6345,7 +6345,7 @@ Spirits of sensation commonly have a Power that replicates a specific effect rep
 
 **Virtues and Flaws:** Magic Spirit; Great Communication, Improved Characteristics, Sharp Ears
 
-## *Airy Spirits Story Seeds*
+## Airy Spirits Story Seeds
 
 #### **The Menagerie**
 
@@ -6390,7 +6390,7 @@ Porphyrion of Tytalus claims to have found the jar of Pandora underneath the Sen
 This spirit of an echo lurks in caves or ravines. Its name literally means "dwarf voice" in German, and these spirits have been known to mislead lost humans by "playing" with them. The spirit certainly has no intent to harm; it doesn't even understand what harm is.
 
 
-## *Eidolons, the Spirits of Emotions*
+## Eidolons, the Spirits of Emotions
 
 **Magic Might:** 5 – 30 (Mentem) **Typical Powers:** Possession, Mastery of (specific emotion)
 
@@ -6398,11 +6398,11 @@ Humans who come into contact with strong magic sometimes unconsciously create sp
 
 A Major Personality Flaw can generate a spirit with a Magic Might of 30. Minor Personality Flaws attract a spirit of Might 20. Otherwise, the spirit has a Might equal to (5 x Personality Trait). Negative Personality Traits cannot be used to summon a spirit of that emotion, but can summon a spirit of the opposite emotion. Note that the spirit of wrath would be a very powerful Daimon indeed; more-common eidolons are the spirits of a person's wrath, rather than the tutelary spirit of the emotion as a whole. Those who can see spirits report that eidolons appear in human form, a simulacrum of the spirit's "owner," but expressing a caricature of the emotion on its face.
 
-## *Spell Spirits*
+## Spell Spirits
 
 Initiates into the Mystery of Hermetic Theurgy (*The Mysteries Revised Edition*, Chapter 9) can summon spirits with the sole power of duplicating the effects of a specific spell, or a particular Form. A spell spirit has a Might at least equal to the level of the spell, and the duration of the summoning spell determines how long the spirit attends the theurgist, ready to use its power on his command. It is a contested point as to whether these spirits form a class of their own, or whether they are variants of the other groups of Airy Spirits, but only Theurgists have any interest in such fine points of spiritual taxonomy.
 
-## *Realms of Power*
+## Realms of Power
 
 #### **The Spirit of Self-Importance**
 
@@ -6434,7 +6434,7 @@ dent; Meddler (Minor)
 
 **Appearance**: This spiritual copy looks like the person's idealized perception of himself; straighter, taller, more handsome, and in better clothing.
 
-## *Spirits of Place, Genii Loci*
+## Spirits of Place, Genii Loci
 
 **Magic Might:** 15 – 45 (Herbam, Aquam, Terram; more rarely Auram). Those with a higher Might score tend to be Daimons.
 
@@ -6454,13 +6454,13 @@ The jinn (singular jinni) are a variety of genii loci native to the scorched lan
 
 Every jinni, regardless of Realm affiliation, shares the same Greater Malediction when it willingly enters a bargain, it is bound to the agreed terms unless its partner reneges first. A magical jinni enters a bargain such as this so that it may see the world; unique among genii loci, a jinni can transfer its locus temporarily to its partner in a bargain, and leave its landscape feature behind. As soon as the bargain lapses, however, it returns to its locus and must remain there until another bargain can be forged.
 
-## *Lugra, Spirits of Hardship*
+## Lugra, Spirits of Hardship
 
 **Magic Might:** 5 – 20 (Vim) **Typical Powers:** Possession and Mastery of (a specific hardship)
 
 The lugra (meaning "banes"), or kakodaimones, are the spirits of the hardships of life that inflict mankind. Often mistaken for demons, these spirits gain no satisfaction from their efforts, and do not target individuals for any particular reason. A lugra has a parasitic existence, inflicting its particular brand of misery on its randomly chosen host before moving on to another. Greek legend recalls how the kind and help-
 
-## *The Jar of Pandora*
+## The Jar of Pandora
 
 *But abhorred Eris (Strife) bore painful Ponos (Toil), and Lethe (Forgetfulness), and Limos (Starvation), and the Algea (Pains), the Hysminai (Fightings) and the Makhai (Battles), the Phonoi (Murders) and the Androktasiai (Manslaughters), the Neikea (Quarrels), the Pseudologoi (Lies), the Amphilogiai (Disputes) and Dysnomia (Lawlessness) and Ate (Ruin), who share one another's natures, and Horkos (Oath) who does more damage than any other to earthly men, when anyone, of his knowledge, swears to a false oath.*
 
@@ -6476,7 +6476,7 @@ ful counterparts to the lugra were summoned to Mount Olympus by the Gods, which 
 
 why such beings are more wise, beautiful, tian magi believe that the lugra were created when God pronounced his curse on Adam and cast him from Eden. Regardless of their source, the lugra are the spirits of old age and disease, arguments and guile, hard work and futile effort.
 
-# *Theoi*
+# Theoi
 
 the connection.
 
@@ -6490,14 +6490,14 @@ who have attracted a cult because they represent an ideal; some Flambeau magi co
 
 and loyalty, the perfect soldier.
 
-## *The Named Spirits*
+## The Named Spirits
 
 The Named Spirits are all those genii who possess the Daimon Virtue; they are considered to be of a different class than the Airy Spirits. Daimons draw power from their True Names (see below, Arcane Connections, True Names and Synthemata), and interact with the mundane world through Aspects. All the game statistics for spirits in this section represent Aspects rather than the Daimon itself, which usually has a much higher Might.
 
 Daimons dwell within the Magic Realm, and only send Aspects of themselves to earth. Each Daimon is the spiritual reflection of an aspect of the mundane world, as it appears in the Magic Realm. For example, the Daimon of a specific river resides in the Magic Realm, mostly partaking in its Aquam aspect, but also involving elements of Animal (the animals that live within it), Herbam (the plants that grow in it), and Terram (the river banks and river bottom). As a whole, the Daimon is the most perfect reflection of the mundane
 
 
-## *Genii, Gods, and Worship*
+## Genii, Gods, and Worship
 
 The majority of gods are Faerie powers, not Magical ones. Some faeries actively crave human adoration; their entire existence may well depend upon it. This intense fascination with the mortal world makes them far more likely to be at the center of a pagan cult, either past or present. Some theurgists claim that Magical spirits control the cosmos, ordering and running it according to Divine plan. It's said that long ago some of these spirits — the first faeries — found that the worship of mankind could give them power beyond their allotted span, and they became the first gods. In a conflict called the **Titanomachia** ("War of the Titans"), the Faerie gods staged a coup and ousted the uncaring and aloof spirits of Magic from the thrones of the world. Zeus and his brothers bound the Titans in the underworld; Odin and his brothers formed the habitable world from the bodies of the slain Jotnar; and the Children of Danu drove the Fomoire to the underworld beyond the Ninth Wave. The governance of creation still flowed through the imprisoned spirits, but it was directed by the new gods who used it to the benefit of their worshipers.
 
@@ -6509,7 +6509,7 @@ mankind, see *The Mysteries, Revised Edition*, page 57.
 
 It is rumored among theurgists that during particularly fortuitous celestial conjunctions when a given planet is in ascendance, then an Aspect of the corresponding spirit can perform feats of magic with power matched only by that of the Divine. They believe that the Astra Planeta form a bridge between the material world and the celestial bodies across the Limit of the Lunar Sphere. At such times, it is said, Helios could bring the dead back to life, or Pyroeis could rain down Parma-shredding fire. Tales are told that Islamic sorcerers have used such powers against Hermetic magi in the past, and the fear that they will do so again has left the Order suing for peace with these wizards.
 
-## *The Leti*
+## The Leti
 
 **Magic Might:** 20 – 30
 
@@ -6517,7 +6517,7 @@ It is rumored among theurgists that during particularly fortuitous celestial con
 
 A Letum is a spirit of death, and they come in a number of varieties, each with its eponymous leader. The Keres (lead by Ker) are the spirits of violent death, personifying death in battle or by accident. The Thanatoi (lead by Thanatos) represent a peaceful death, whose touch is gentle. The Akylides (lead by Akhlys) are the dismal green daughters of poison and disease, and the Moroi (lead by Moros) lead the doomed to their fated demise. To those who can see one, a Letum appears as a winged human entwined
 
-## *Astra Planeta*
+## Astra Planeta
 
 **Magic Might:** 40 (Vim)
 
@@ -6541,7 +6541,7 @@ Among the most powerful of the Named Spirits are the Astra Planeta, or the plane
 
 For more correspondences for the planets, and the sort of powers they might grant
 
-## *Story Seed: A Faerie Apotheosis*
+## Story Seed: A Faerie Apotheosis
 
 Ledea of House Merinita started a healing cult around the spring of an Airy Spirit, and has already gathered a number of devotees, mainly midwifes and expectant mothers. The spirit has since become a Daimon through this cult, and now enjoys the service that her followers offer her. However, the local clergy object to the rise of paganism among the women of the region; this too is at the instigation of Ledea. She hopes
 
@@ -6552,7 +6552,7 @@ with serpents; the violent ones are blooded and hideous with the feet of raptors
 
 Perhaps the most famous among the Leti are the Erinnyes, chthonic spirits who avenge crimes against the natural and moral order with a vengeful death. These spirits use the *Material Anchor* power to mark their prey, then hound and torment them with their other powers before ensuring an unpleasant death.
 
-## *Other Daimons*
+## Other Daimons
 
 *Teletarch*, or "Master of Perfection" is a catch-all term used by theurgists to describe powerful embodiments of a concept or phenomenon, but they are not "gods." Some Teletarchs were once Airy Spirits (or even humans) who earned a Name and became elevated to this lofty status within the Magic Realm. Others are dread concepts that man has always known about, but avoided so as not to attract their attention.
 
@@ -6560,7 +6560,7 @@ Some Daimons were once human. An animus may become a Daimon through a process ca
 
 Ghosts are another example of spiritual beings who were once human. Strictly speaking, ghosts and other transformed humans are not Daimons unless they have undergone apotheosis, but neither are they Airy Spirits, for they bear unique identities. For more information on these beings, see Ghosts, later in this chapter.
 
-## *Primal Spirits*
+## Primal Spirits
 
 **Magic Might:** Kosmokrators 50 – 75 (usually Vim); Protogonoi 75 – 100 (Vim) **Typical Powers:** Any, perhaps all.
 
@@ -6568,17 +6568,17 @@ The **Protogonoi** are the most primeval of all spirits, governing immense conce
 
 The **Kosmokrators** are the governors of the Magic Realm, the active counterparts to the passive Protogonoi; for example, the dominance of the Protogonos of Day passes to the Protogonos of Night under the auspices of a Kosmokrator of Time. While these entities may be considered spirits, their powers are so vast that they transcend categorization. In days past, it is rumored that the Kosmokrators walked the earth in immense material form, and were called Titans by the Greeks; Jotnar by the Norse; Fomoire by the Celts (see Chapter 5: Magic Humans, Giants). Theurgical legends state that the Kosmokrators were deposed by the Faerie gods and imprisoned (see Genii, Gods, and Worship, above), and now their power is channeled by the upstarts who suborned their thrones. There are some brave (and powerful) magicians who have managed to contact these spirits in whatever underworld they now inhabit, and have found them eager to escape their imprisonment and once more walk upon the earth. Some of these spirits claim to have made the world and all within it, although few place any credence in such tales.
 
-## *Spirits and Magic*
+## Spirits and Magic
 
 This section summarizes information from published sources about spirit magic. Hermetic spirit magic and theurgy is detailed in *The Mysteries Revised Edition* (particularly Chapters 4, 8, and 9); whereas non-Hermetic summoning and controlling spirits can be found in *Realms of Power: The Infernal* (particularly Chapter 11).
 
-## *Spirits and Hermetic Magic*
+## Spirits and Hermetic Magic
 
 All magi can summon and control Airy Spirits using the Art of Rego as part of standard Hermetic Theory. These spells require an Arcane Connection; but due to the nature of Airy Spirits, this is usually easy to come by. The spell to summon an Airy Spirit requires only Duration Momentary (see *The Mysteries Revised Edition*, page 29). Some magi have preserved secrets of spirit magic from their non-Hermetic roots; once Initiated into the Mystery of Hermetic Spirit Magic, a magus can use the Might of an Airy Spirit to maintain the duration of a spell indefinitely, or drain a spirit's essence to empower ritual effects in enchanted devices (see *The Mysteries Revised Edition*, Chapter 8: Hermetic Spirit Magic).
 
 Hermetic magic is not so proficient at summoning the Aspect of a Daimon. While all Hermetic magi are capable of inventing a ritual spell to summon a specific Daimon's Aspect, they can only do so if they have a Laboratory Text or a teacher who already knows the spell. Further, the spell of the non-theurgist must have a base level equal to twice the Daimon's Might. Non-theurgists generally need to use *Wizard's Communion* to achieve sufficient Penetration for such a spell to work. Those who have been Initiated into the Mystery of Hermetic Theurgy can invent these spells without needing a Laboratory Text or a teacher. Further, a Hermetic Theurgist need not have such a powerful initial spell; instead they may repeatedly cast a ritual spell of lower level (and thus higher Penetration) and achieve success through persistence rather than raw power. Hermetic Theurgists may also research and use synthemata to improve Penetration totals (see *The Mysteries Revised Edition*, Chapter 9: Hermetic Theurgy for more details on the abilities of these magi).
 
-## *Spirits and Non-Hermetic Magic*
+## Spirits and Non-Hermetic Magic
 
 The Goetic Arts form the basis of non-Hermetic magic used to summon and control spirits from any of the three earthly Realms. There are four Goetic Arts — namely Summoning, Ablating, Binding, and Commanding — all of which are Major Supernatural Virtues and are advanced as Arts. More information may be found in *Realms of Power: The Infernal*, Chapter 11: Ars Goetia.
 
@@ -6586,7 +6586,7 @@ The Goetic Art of Summoning may be aligned to the Magic, the Faerie, or the Infe
 
 Other traditions of wizards who control spirits may be found in future sourcebooks for **Ars Magica** Fifth Edition.
 
-## *Arcane Connections, True Names, and Synthemata*
+## Arcane Connections, True Names, and Synthemata
 
 At first glance, spirits would appear to not produce **Arcane Connections**, having no solid bodies with which to generate them. However, any worldly representation of an Airy Spirit acts as an Arcane Connection to that spirit. For example, a fire acts as an Arcane Connection to the Airy Spirit of that fire. A courting couple may be used as an Arcane Connection to the spirit born of their love, and so forth. The physical location of a genius loci is an Arcane Connection to that spirit, regardless of whether it is a Daimon or Airy Spirit. Spirits using the *Material Anchor* power may intentionally form Arcane Connections. The name of an Airy Spirit serves as an Arcane Connection of indefinite duration to that spirit; although the name of a Daimon does not (one must instead research its True Name, see below). In general, Daimons are more resistant to the formation of Arcane Connections, and they occur in only a few select circumstances, such as with use of the
 
@@ -6597,7 +6597,7 @@ A **True Name** is a secret name that is an expression of the spiritual essence 
 **Synthemata** are signs, symbols, or passwords that link a magician to a supernatural creature; any being with a Might score has synthemata, regardless of whether they also have a True Name. Theurgic spells include these magical words in the formula of incantation; while granting no actual power, they are necessary for the correct operation of this magic, and remain a secret of the craft. Some magi and hedge wizards have the ability to work the correct synthemata into their magic as an intense and powerful channel to a spirit, so that they may command them through this channel. Virtues to work such magic are described in *The Mysteries Revised Edition*, pages 86–88. Knowing the True Name of a creature adds 5 to all lab totals to research synthemata for that same being.
 
 
-## *Example Spirits of Places*
+## Example Spirits of Places
 
 This section lists several example spirits of places (genii loci), together with suggestions for magically-touched characters that may inhabit them. Characters who have been exposed to such a magical spirit over an extended period may acquire magical powers in several different ways. A person may be born in an area infused with a genius loci, and thus have developed a mystical link to the spirit; in this case, the character can simply be generated with the appropriate Virtues and Flaws. A person may be granted beneficial or detrimental effects by the use of a spirit's Grant (Virtue) or Grant (Flaw) powers. The person may have either pleased or angered the spirit, or else she may be possessed by it. Alternatively, she may have bargained with the spirit in exchange for power, perhaps offering servitude. Major bargains may constitute a pact (granting the Spiritual Pact Virtue), and they are often enforced by the use of a genius loci's Oath-Swearing power. Magi might even be able to engage in a deep mystical communion with such a spirit, in order to initiate Mystery Virtues. Characters who have been under a spirit's influence for a long time may have developed a Warping Score, and may thus have gained one or more Flaws as well as a mystical Virtue, as detailed in **ArM5**, page 168. Many, but not all, genii loci tend to have a general antipathy towards human intrusion into their domains.
 
@@ -6605,7 +6605,7 @@ Each of the genii loci listed is a specific place in Mythic Europe. However, the
 
 Numerous examples of forest genii loci may also be found in *Guardians of the Forests: The Rhine Tribunal*. A powerful cave genius loci is located at the Cave of Twisting Shadows, the domus magna of House Criamon, in the Alps; see *Houses of Hermes: Mystery Cults* for more details.
 
-## *New Spirit Spells and Spell Guidelines*
+## New Spirit Spells and Spell Guidelines
 
 All spells to summon, perceive, or control a spirit must penetrate its Magic Might. The Aspect of a Daimon can be controlled, but Daimons will typically dissolve the Aspect if a magus attempts this.
 
@@ -6643,7 +6643,7 @@ Spells of a specific Form can command any spirit tied to that Form. For example,
 
 **Level 15**:Summon an Airy Spirit of a specific Realm.
 
-## *Mount Etna*
+## Mount Etna
 
 A powerful and violent spirit of fire, Adranus, slumbers beneath a mountain on the Mediterranean island of Sicily. It has developed an antipathy towards the local peoples, since they long ago ceased worshipping it as a god. Nevertheless, it is satisfied when mortals stay away from its slopes and live in a state of respectful fear, but should they become too bold, disrespectful, or forgetful, the genius loci will become irritated and its sleep will be disturbed. Its wrath gradually builds up until the need to vent its fury is overwhelming, at which point the volcano erupts with spectacular and devastating force. Those few who venture onto the blasted and rocky slopes of the mountain have been known to go insane.
 
@@ -6697,7 +6697,7 @@ No Hermetic Equivalent: Ritual Power x 3 *Manifestation*, 4 or more points, Init
 
 **Appearance**: Mount Etna is a conical and blasted peak that rises ten thousand feet above the eastern end of the island of Sicily.
 
-## *The Rhinefalls*
+## The Rhinefalls
 
 Passage along the upper stretches of the Rhine, one of Europe's great rivers, is blocked by a mighty waterfall that is the home of the river's genius loci. Long ago the Rhine was tempestuous and unnavigable, until the ancient races of dwarfs and giants tamed it. At this spot, a group of giants hurled a mighty rock into the river, pinioning the spirit there. Thus the river was tamed, making it safe for boating. Ever since, the river spirit has only been able to exercise the full extent of its powers at the waterfalls, which only the most foolhardy of boatsmen attempt to pass. The river spirit can, however, sense along the whole of its length, and it resents those who presume to traffic up and down it, paying it no heed. It longs to be released from the falls so that it may be free to exert its full power over its whole domain. The spirit may be assuaged by sacrificing items of mundane wealth to the waters. It is rumored that a mighty treasure, the Rhinegold, lies somewhere at the bottom of the Rhine. For more details, see *Guardians of the Forests: The Rhine Tribunal*, page 41.
 
@@ -6712,7 +6712,7 @@ Passage along the upper stretches of the Rhine, one of Europe's great rivers, is
 **Confidence Score:** 1 (3 points)
 
 
-### *Magic*
+### Magic
 
 
 **Magical Qualities and Inferiorities:** Focus Power x4, Greater Power x2, Ritual Power x6; Lesser Power; Minor Virtue x20; Reduced Abilities x7
@@ -6745,11 +6745,11 @@ Passage along the upper stretches of the Rhine, one of Europe's great rivers, is
 
 **Appearance**: The river Rhine plunges down eighty feet in an almighty torrent over a set of cataracts at its upper stretches, south of the Black Forest. A rocky island is perched perilously at the center of the falls, and houses the spirit's regio.
 
-## *The Desert of al-Meraya*
+## The Desert of al-Meraya
 
 The spirit of a desert in the hot, dry lands of southern Iberia has an unbearable thirst for water, and sucks dry all the rains and waters that flow into it. It also has an urge to expand, encroaching on nearby lands and parching them dry. Any attempts by nearby inhabitants to tame or destroy it through irrigation will cause annoyance, although it will greedily suck up any water diverted into its domain. This uninhabited region is generally left well alone by the local Moors, except for occasional madmen and mystics who venture in, seldom to return. The citizens of al-Meraya are forced to make their living
 
-## *Story Seeds for Spirits of Places*
+## Story Seeds for Spirits of Places
 
 **Fire and Fury**
 
@@ -6814,7 +6814,7 @@ from trade, since the parching influence of the desert generally causes most agr
 
 *Master of Water*, variable points, Init +1 – Might cost, Aquam: duplicates any non-Ritual Muto Aquam or Perdo Aquam
 
-## *Realms of Power*
+## Realms of Power
 
 spell no greater than 40th level at a cost of 1 Might point per magnitude of the effect. (Focus Power x 2)
 
@@ -6826,7 +6826,7 @@ spell no greater than 40th level at a cost of 1 Might point per magnitude of the
 
 **Appearance**: This desert is located about a dozen miles to the north of the Moorish port city of al-Meraya (Almeria), in the southeast of Iberia. It is a forbidding landscape of sandy, rocky soil, thinly dotted with scrub plants and cacti. By day it is oppressively hot, by night, unpleasantly cold.
 
-## *Lake Brienz*
+## Lake Brienz
 
 A secretive and enigmatic spirit is the embodiment of a steep-sided Alpine lake. It is deep, dark, and often wreathed in mist. Old as the mountains themselves, no one knows what ancient wisdom or mystery it may conceal in its depths. Currently, the spirit has a benevolent attitude to mankind, since it finds that the lake's fish (some of which are magical) itch, and so it is more than happy for fishermen to fish it. Should the locals start a tannery on its shore, however, it will likely become angered.
 
@@ -6872,7 +6872,7 @@ A secretive and enigmatic spirit is the embodiment of a steep-sided Alpine lake.
 
 **Appearance**: Lake Brienz is located on the northern edge of the Alps, and is fed by the river Aare. It is nine miles long and a mile and a half wide. Its steep-sided slopes are very difficult to navigate by foot, and are thus sparsely settled.
 
-## *Aillwee Cave*
+## Aillwee Cave
 
 A subterranean spirit of emptiness takes the form of a twisting cave complex underground. It hungers for shiny, material things, and is opposed to those mortals who presume to steal its precious minerals and crystals. Using its powers to control the earth, the spirit has been known to change the arrangement of the network of chambers, closing off or diverting tunnels and thereby trapping people within.
 
@@ -6915,9 +6915,9 @@ A subterranean spirit of emptiness takes the form of a twisting cave complex und
 
 **Appearance**: Aillwee cave is actually a system of several caves beneath a rocky wilderness known as An Bhoireann (the Burren), in the west of Hibernia. It is dotted with many stalactites and stalagmites, and a small underground river flows tortuously through it.
 
-### *Magic*
+### Magic
 
-## *Ghosts*
+## Ghosts
 
 *As the day belongs to the living, so the night is given to the dead.*
 
@@ -6937,7 +6937,7 @@ Apparitions usually possess all of the memories and Abilities they had in life. 
 
 Most other kinds of ghost are less lucid than apparitions. Another broad category of ghosts, which magi call **shades**, resemble distorted reflections of once-living people. Like apparitions, shades are connected to the liv-
 
-## *The Restless Dead in Medieval Legend*
+## The Restless Dead in Medieval Legend
 
 Medieval tales and illustrations of the restless dead portray them in a variety of ways. With the rules in this book, you can design your own restless dead to bring an authentic medieval feel to your ghost stories.
 
@@ -6959,7 +6959,7 @@ Another major category of ghost are **spectres**, spirits who doggedly continue 
 
 Some within the Church think that spectres are souls being punished for impious behavior, but magi are more inclined to think they are a kind of shadow of a human mind created through a combination of traumatic death and an unknown mystical phenomenon. Some magi think they are not ghosts at all, but a kind of Airy Spirit. The ghostly soldiers of House Tremere's army (see *Houses of Hermes: True Lineages*, pages 126- 127) are spectres.
 
-## *Ghosts as Characters*
+## Ghosts as Characters
 
 Ghosts in **Ars Magica** Fifth Edition are spirits with no true material form and must have the Magic Spirit special Virtue (see Chapter 4: Magic Characters, New Virtues and Flaws).
 
@@ -6976,7 +6976,7 @@ Generate the Characteristics for a ghost as if it were a human character. The gh
 All ghosts should have the special Virtue, Magic Spirit (see Chapter 4: Magical Characters, New Virtues).
 
 
-### *Magic*
+### Magic
 
 When a human becomes a ghost, his former Social Status Virtue or Flaw becomes meaningless. All ghosts should have one of the following Social Status Virtues or Flaws: Magical Champion, Magical Covenfolk, Magical Master, Magical Monster, or Magical Friend. If the player wishes, he can choose a second Social Status as well, representing the character's status in life. Social Status Virtues bought in this way must be paid for with Flaws, but Social Status Flaws carried over from life grant no Virtue points to the ghost. (It is only necessary to choose a second Social Status Virtue or Flaw if it grants access to a restricted set of Abilities needed for the ghost's concept.)
 
@@ -7018,7 +7018,7 @@ Ghosts can be designed as any Season. Like living humans, they cannot choose Abi
 
 *Lance & Heater, mounted:* Init +3, Attack +16, Defense +14, Damage +7
 
-## *Where do Ghosts Come From?*
+## Where do Ghosts Come From?
 
 Some ghosts are of Infernal origin: twisted souls sent to plague or corrupt the living (see *Realms of Power: The Infernal,* page 36). There are also Faerie ghosts. Magical ghosts come from the Magic realm (this can be proved with Intellego Vim spells), but that simple fact does not fully explain a common form of haunting.
 
@@ -7039,7 +7039,7 @@ What is clear is that when a ghost asks for prayers or masses, providing these t
 From the point of view of an **Ars Magica** Fifth Edition game, the powers, personality, and role of a ghost within the story are more important than its metaphysical status. Exactly what happens to a person's spirit after death can be left mysterious. It should be pointed out that folk traditions regarding ghosts do not coincide precisely with theological doctrine. Who is to say whether the scholarly writings of bishops, or the tales of old village women, are closer to the truth?
 
 
-## *Story Seed: Repentance*
+## Story Seed: Repentance
 
 The spirit of a local knight who died in battle some years ago still haunts his former lands, terrorizing the countryside in an attempt to force the living to lay him to rest and end what he thinks are the torments of Purgatory. Sir Giles believes his great sin was that he killed another knight in tournament. His eagerness to win glory was so great that he killed his opponent through excessive force. He thinks that
 
@@ -7094,9 +7094,9 @@ Fatigue Level.
 **Appearance:** Sir Giles is a Magical apparition — a ghostly knight in black mail, riding a fearsome black destrier. His shield and surcoat are solid black without any heraldic device, and atop his helm is a crest shaped like a cockerel. If he removes his helm, he appears to be a rather handsome, well-groomed knight whose face shows an expression of fierce pride.
 
 
-## *Chapter Eight*
+## Chapter Eight
 
-# *Magic THings*
+# Magic THings
 
 The power of magic touches inanimate objects as often as it touches the living. Sometimes that power becomes concentrated as raw vis. While all raw vis is valuable to magi, rare forms have additional powers that make them even more desirable. Some items are not vis, but are still imbued with power by the realm of Magic; these are the Herbs and Objects of Virtue. Items and plants can also be awakened, giving them a certain amount of consciousness, but generally no Might score.
 
@@ -7106,11 +7106,11 @@ Extraordinary vis may emulate a magical device or replicate a spell. The magical
 
 Extraordinary vis naturally exists in the Magic realm. It is not the creation of a magus for himself or others. Therefore, extraordinary vis is just as likely to have inherent powers that are inconvenient or annoying to magi as it is to have beneficial powers. Because the extraordinary vis exists independently of the human world, it never has powers requiring a user to maintain concentration, and the magical effects
 
-## *Vis*
+## Vis
 
 Vis is the physical embodiment of magic, essentially raw magical power. Within vis, magic exists in its most concentrated form; as such, vis is capable of producing powerful magical effects either when used in a spell or completely on its own. Vis is also the lifeblood of the Order of Hermes. It powers the magi's spells, serves as their currency, and is the source of many of their conflicts. Vis is such an integral part of Hermetic life that most magi take its existence for granted and only stop to ask where they can get more of it. In addition to the perpetual hunt for vis, the vis itself can provide a source of adventures and obstacles for characters to overcome.
 
-## *Extraordinary Vis*
+## Extraordinary Vis
 
 In some very special places of great magical power, vis can take on the attributes of the magic that produces it — giving it powers beyond its normal Hermetic uses. This vis is usually found within the upper levels of powerful regiones, in potent auras, or within the remains of great magical creatures.
 
@@ -7155,7 +7155,7 @@ R: Touch, D: Sun, T: Ind
 
 This small whirlwind of Auram vis provides a constant breeze of fresh air that keeps the air breathable even in an airtight room. The Auram vis may only be transported with magic or in a hermetically sealed container.
 
-## *Story Seeds for Lesser Enchantment Vis*
+## Story Seeds for Lesser Enchantment Vis
 
 #### **Guilty Secrets**
 
@@ -7259,7 +7259,7 @@ R: Touch, D: Mom, T: Group, Ritual
 
 This Animal vis takes the form of a leathery snake egg. If the egg is warmed to the temperature equivalent to a warm spring day
 
-## *Story Seeds for Spell-like Vis*
+## Story Seeds for Spell-like Vis
 
 #### **Enigmatic Apples**
 
@@ -7314,7 +7314,7 @@ This Terram vis takes the shape of a silver coin in the possession of a minor fa
 
 (Base 25, +3 Moon, +1 for special effect)
 
-## *Dedicated Vis*
+## Dedicated Vis
 
 Dedicated vis is a form of vis that may be used in Hermetic magic to greater effect than normal vis. Dedicated vis is rare and highly sought by magi. Dedicated vis provides an enhancement in each of the three categories below: spell use, study, and enchantment creation. Each pawn of dedicated vis has a specific Technique and Form combination; the enhanced effects of the vis only apply when the vis is used for that specific combination.
 
@@ -7328,7 +7328,7 @@ When dedicated vis is used to power a spell with the proper combination of Arts,
 
 A magus who studies dedicated vis may gain experience in each of the appropriate
 
-## *Story Seeds for Spell-like Vis (con't)*
+## Story Seeds for Spell-like Vis (con't)
 
 ### **The Deadly Drought**
 
@@ -7357,7 +7357,7 @@ Dedicated vis also grants improved shape or material bonuses in the creation of 
 In addition, any vis contained in the physical object is considered already opened for enchantment purposes. In other words, a magus may reduce the amount of vis required to open the item for enchantment or add those pawns to the maximum capacity of the object. A small, bone object would normally require 6 pawns of vis to open it for enchantment. (See **ArM5**, page 97.) A magus with a small bone of dedicated vis containing 2 pawns of Corpus vis could choose to open the item with 4 pawns of additional vis for a capacity of 6 pawns, or the magus could select to use 6 pawns of additional vis to open the item and give it a capacity of 8 pawns of vis. (See *The Mysteries Revised Edition*, Ready-Opened Devices, page 41.) As noted above, transferring dedicated vis to a different object destroys all special effects the vis possesses.
 
 
-## *Vis Storage*
+## Vis Storage
 
 At the storyguide's option, any time a large amount of vis of a single Art is stored in close proximity, spontaneous Art-appropriate spells may occur. These effects make storing or transporting large quantities of vis difficult. The minimum amount of vis necessary to create the spontaneous spells is dependent on the saga type. In a low-vis saga, a rook or two (10 to 20 pawns) of vis may be sufficient; in a high-vis saga, at least a queen (100 pawns) of vis may be required for the effects to occur.
 
@@ -7422,7 +7422,7 @@ This device is an enchanted seashell. The holder may use it to capture or releas
 
 (Effect: Base 10, +2 Voice; Modifications +4 12 uses per day)
 
-## *Herbs and Objects of Virtue*
+## Herbs and Objects of Virtue
 
 Many inanimate objects resonate with particular aspects of the Magic realm; this is the origin of the Shape and Material Bonuses employed by magi to enhance their enchantments. Some objects have become infused so greatly with the power of Magic that they transcend these bonuses, and can be coaxed into providing tangible powers by a skilled hedge magician.
 
@@ -7434,7 +7434,7 @@ An Herb or Object of Virtue typically contains 1 or 2 pawns of vis. Without Enri
 
 Enrichment does not require a laboratory,
 
-## *Hedge Magicians and Enriched Things of Virtue*
+## Hedge Magicians and Enriched Things of Virtue
 
 The mechanics of Enriching a Thing of Virtue allow an unGifted character to acquire minor magical powers. Such characters might actively seek out specific Herbs or Objects to perform their magic. They will never pose a threat to a Hermetic magus, however, and are largely ignored by the Order of Hermes. The archetypal village wise woman might gather Periwinkle of Virtue (which grants the Venus's Blessing virtue) as a love charm, or employ Vervain of Virtue (Enduring Constitution) and Heart's Ease of Virtue (granting Lesser Purifying Touch: Childbirth Fever) to assist childbirth. Likewise, a natural magician could Enrich a Topaz of Virtue to grant the Inspirational Virtue to his lord, or a Sapphire of Virtue (giving Intuition) to give a semblance of prediction to his astrological calculations. The Warping points incurred by these effects will gradually disfigure the wise woman or drive the natural magician mad with Flaws.
 
@@ -7450,7 +7450,7 @@ Herbs of Virtue typically lose their potency over time, persisting just one year
 
 There are downsides to Enriched Things of Virtue. Firstly, a Thing of Virtue that confers a Major Virtue also confers a Minor Flaw. Minor Virtues do not always incur a Flaw, but some do. The Hermetic Virtues of Restriction and Necessary Condition may be taken as Minor Flaws, affecting only the power granted by the Thing of Virtue. Thus a Herb that confers a Greater Immunity to Disease might also confer a Restriction that the immunity will not work if the wearer cuts or combs his hair. Secondly, an Enriched Thing of Virtue confers Warping points as a Constant Effect of Low Power (**ArM5**, page 168).
 
-## *Herbs of Virtue*
+## Herbs of Virtue
 
 Here follow some example Herbs of Virtue, and the benefits they offer once Enriched.
 
@@ -7462,7 +7462,7 @@ Centaury of Virtue is used by witches to acquire the power of flight as a Greate
 
 This pretty yellow flower with five petals as a Cinquefoil of Virtue contains 1 pawn of Mentem vis. It can be successfully Enriched by pressing it between two fine sheets of mica, then burying it in a tin box for a season. Then, whoever places it beneath his tongue will gain an abundance of eloquence, and the Inspirational Virtue.
 
-## *Hermetic Magi and Enriched Things of Virtue*
+## Hermetic Magi and Enriched Things of Virtue
 
 A magus cannot usually benefit from an Enriched Thing of Virtue: even without his Parma Magica, his Forms give him a Magic Resistance of at least zero. Further, few magi have sufficient knowledge of non-Hermetic magic (that is, the Magic Lore Ability) to be able to effect an Enrichment. Nevertheless, some magi have found a use for Enriched Things of Virtue.
 
@@ -7486,11 +7486,11 @@ The pennyroyal is a creeping plant similar to mint, with clusters of tiny purple
 
 The intense blue of the Periwinkle of Virtue grants Venus's Blessing. The hopeful in love must find enough perfect flowers among those that have been trampled by rutting deer to form a garland, which is strung around the neck of the dominant stag. After ninety days, the sole remaining flower of this garland has been Enriched. The recovered garland also grants the impetuousness of youthful love that shows no inhibition in pursuing its object of affection (that is, the Reckless Flaw). Left unenriched, Periwinkle of Virtue is worth 1 pawn of Mentem vis.
 
-## *Objects of Virtue*
+## Objects of Virtue
 
 The Virtues for many Objects of Virtue can be derived using Shape and Material Bonuses for inspiration, concentrating on materials rather than shapes. Any item that naturally contains vis and that gives a Shape and Material bonus to a specific Art can be Enriched to confer Puissant Art, but Objects of Virtue are rarely of use to magi because of their zero Penetration and the Warping they cause.
 
-## *Shape and Material Bonuses for Herbs of Virtue*
+## Shape and Material Bonuses for Herbs of Virtue
 
 **Centaury:** +3 Flight
 
@@ -7504,7 +7504,7 @@ spirits, +2 dreams
 
 **Periwinkle:** +3 love, +1 loyalty or affection
 
-## *Magic*
+## Magic
 
 
 An Amethyst of Virtue contains 1 pawn of Mentem vis and, if appropriately Enriched, confers the Minor Supernatural Virtue Lesser Immunity to drunkenness (**ArM5**, page 44). To gain this benefit, the stone must be in contact with the drinker's skin, so it is usual to set it into an item of jewelry. The Enrichment ritual involves preparation of a beverage with no intoxicating effects from the strongest fermented drink available. Once the wizard is satisfied that the fluid is safe, probably by drinking quite a lot of it herself, the stone should be steeped in it for a month. The whole process of preparing the drink, testing it, and steeping the gem should take about a season.
@@ -7543,7 +7543,7 @@ An Enriched piece of Jet of Virtue provides the Minor General Virtue Puissant St
 
 A Topaz of Virtue gives the Minor General Virtue Puissant Leadership (**ArM5**, page 48) after Enrichment. The procedure for Enrichment involves obtaining fur, feathers, or teeth from an animal known to be the leader of a pack or flock, then binding this to the stone using a gold-colored wire or thread and keeping the bundle in a high place for a season. Before Enrichment, the gem of Virtue contains 1 pawn of Mentem vis.
 
-## *Formed Stones*
+## Formed Stones
 
 Some call these shaped stones lusus naturae — sports of nature — and say that they are formed in the soil by the creative force of vis plastica. Others say that shaped stones result from certain astral conjunctions, which fertilize the soil and rocks with vis formativa. Then there are those who claim they arise through the individualization of objects by a condensation of vapors liberated by fermentation in deeper-lying rocks. A few claim that they are reflections of ancient failures in creation.
 
@@ -7558,7 +7558,7 @@ The Enrichment process requires one to obtain a measure of pure oil, probably by
 A Serpent's Egg or Ovum Anguinum of Virtue is a pale, almost spherical formed stone with a regular pattern of small bumps on the surface. It can confer protection from poison and illness through the Minor General Virtue Improved Characteristics (Stamina +2) (**ArM5**, page 43). A variation
 
 
-## *Shape and Material Bonuses for Objects of Virtue*
+## Shape and Material Bonuses for Objects of Virtue
 
 **Clach Crubain:** +2 arthritis **Bufonites:** +3 detect poison
 
@@ -7607,7 +7607,7 @@ Different varieties of trees have different personalities. Oak trees are steadfa
 
 Certain spells or magical effects can take a tree beyond its ordinary awakened state and make it as mobile as an animal (albeit a sluggish one). Hermetic spells such as *Lord of the Trees* or *Calling the Council of the Trees* can have this effect, as can the non-Hermetic powers of many nature spirits (most often through the *Crafter of Herbam* power; see Chapter 4: Magic Characters, Common Powers). A tree can also become animate when a spirit uses the *Manifestation* power (Chapter 8: Spirits, Common Powers of Spirits) to inhabit it. A tree animated by a spell or effect does not have a Might score, but one animated by *Manifestation* temporarily gains Might equal to the activation cost of the power.
 
-## *Trees of Virtue*
+## Trees of Virtue
 
 Trees of Virtue are usually awake, but they have no Might score. They are more likely to be attended by Airy Spirits (see Chapter 7: Spirits, Florae and Faunae) than are other trees.
 
@@ -7628,7 +7628,7 @@ When finished, the thorns may be used to inflict curses. They grant a power simi
 
 Alternatively, a Blackthorn of Virtue may simply be harvested for 2 pawns of Perdo vis.
 
-## *Option: Brawl Skill for Animated Trees*
+## Option: Brawl Skill for Animated Trees
 
 For simplicity, troupes can simply assign a default Brawl skill of 3 (specialized in "branch") to all animate trees. A more complex alternative is to assign a different Brawl skill to each tree and re-calculate its combat statistics accordingly.
 
@@ -7638,7 +7638,7 @@ Under this rule, a tree animated by a spell has a Brawl skill equal to the caste
 
 On a Hazel Tree of Virtue, one supple branch is forked with perfect symmetry. A magician can Enrich this branch into a wand that provides the Virtue Dowsing (see **ArM5**, page 41). The branch must be fashioned into a forked wand and then buried and dug up seven different times, each at a different place of mystical significance (such as at a crossroads, next to an ancient megalith, at a spring with healing powers, and so on). The wand must be left in each place for at least seven days. Before Enrichment, the symmetrical branch contains 1 pawn of Intellego vis.
 
-## *Story Seed: War for the Woods*
+## Story Seed: War for the Woods
 
 As the covenant begins to harvest too much vis from a magical forest, the trees and forest spirits notice a slight weakening of the local aura and take exception to the magi's activities. The trees begin to awaken on their own and hinder travelers in various ways: lowering their branches to block trails, placing their roots where passers-by will trip over them, and so forth. If the magi escalate the conflict by using axes or fire, the Florae or genius loci protecting the forest animate the trees in self-defense.
 
@@ -7646,7 +7646,7 @@ As the covenant begins to harvest too much vis from a magical forest, the trees 
 
 Oak is associated with storms and lightning. Wood from the heart of an Oak of Virtue may be fashioned into an item that grants a Lesser Immunity to lightning, after it is properly Enriched. The Enrichment process involves seasoning the wood while exposing it to incense and the smoke of burning herbs over the course of a season. At least once during this process the wood must be brought under the open sky while lightning is flashing. The finished, Enriched item may be carved into any shape or size (limited only by the size of the original tree). If it is a
 
-## *Character Guide: An Animated Tree*
+## Character Guide: An Animated Tree
 
 **Magic Might:** None, or activation cost of *Manifestation* (Herbam)
 
@@ -7687,7 +7687,7 @@ These statistics should be used for trees affected by spells such as *Lord of th
 An animate tree can move its limbs and roots, and can also uproot itself and shuffle about if the spell description says it can. For this purpose, treat *Manifestation* as equivalent to the spell, *Freeing the Striding Tree* (**ArM5**, page 139).
 
 
-## *Character Guide: A Mandrake Root of Virtue*
+## Character Guide: A Mandrake Root of Virtue
 
 **Magic Might:** 5
 
@@ -7748,7 +7748,7 @@ From a Rowan of Virtue, a magician can make a protective amulet. The red berries
 
 The finished amulet grants a Lesser Magic Power Virtue (see Chapter 4: Magical Characters, New Virtues). Its effect is identical to a Hermetic Rego Vim ward (see **ArM5**, page 161) of Level 10 and Penetration 10, with a Target: Individual rather than Circle, that wards its bearer against creatures of one supernatural Realm (Magic, Infernal, or Faerie, but not Divine — the Realm must be chosen by the magician when the amulet is made). The amulet loses its power after seven years.
 
-## *Awakened Items*
+## Awakened Items
 
 Magical devices can occasionally become magic things, perhaps because of a laboratory accident or exposure to the Magic Realm. Here is one example of an enchanted item that has been awakened by magic.
 
@@ -7769,7 +7769,7 @@ Friend; True Friend
 **Magic Qualities and Inferiorities:** Lesser
 
 
-### *Magic*
+### Magic
 
 Power: *Cloak of the Duck's Feathers*, Lesser Power: *Whiten the Wear of Travel*, Lesser Power: *The Woolen Cloud*, Minor Virtue (x2): Tough, Wilderness Sense
 
@@ -7815,11 +7815,11 @@ ReAn(Co) 20 (base 5, +1 Conc, +1 size, +1 requisite): Lesser Power (20 levels, �
 
 Amiculum was enchanted as a talisman for its master, a Hermetic magus known for his interest in chivalry and courtly love. When he went into Twilight, his talisman went with him and returned from the experience as an independent magical being. Because of this connection, it can affect its master with its powers as itself and does not need to penetrate his Parma Magica. As a cloak, it is mostly concerned about remaining clean and pure, and protecting its master against harm. While it understands a great deal of its master's Latin and could converse with him, it chooses instead to remain silent so not to embarrass itself. Likewise, it is very conscious of keeping its place, and does not like to exercise its ability to move and to carry things.
 
-## *Kelpie*
+## Kelpie
 
 Kelpies are carnivorous magical creatures that live at the bottom of deep fresh-water pools. Their natural form is a writhing mass of oily black tentacles and sharp beaks that are capable of piercing the thickest amor, but kelpies also have the curious ability to transform into sleek, black horses. In this form, the kelpie-stallion exudes a musky charisma, allowing it to befriend other horses; it leads them to the edge of the pool where they are rapaciously devoured. Another favorite hunting technique of those kelpies that live near a road is to seek out weary travelers,
 
-## *Story Seed: The Mandrake's Scream*
+## Story Seed: The Mandrake's Scream
 
 A hangman's tree stands in a weak Magic aura at a crossroads near the covenant. One can occasionally find a Mandrake of Virtue growing under it. The court physician to an ailing nobleman has harvested a mandrake to cure his lord, but, tragically, the noble's curious son secretly followed the physician and watched too closely — he was killed by the mandrake's scream. The player characters might be called in to investigate the boy's disappearance, or the physician might come to them asking for help.
 
@@ -7835,7 +7835,7 @@ Ride Ability. A kelpie is a magical thing, so it must rest in a magic aura (usua
 
 The kelpie described here is a magical creature associated with deep pools. However, similar faerie creatures may exist.
 
-## *Character Guide: A Kelpie*
+## Character Guide: A Kelpie
 
 **Magic Might:** 20 (Aquam) **Characteristics:**
 
@@ -7906,7 +7906,7 @@ MuAn 15 (Base 4, +2 Sun, +1 Constant effect): Lesser Power (15 levels, –2 cost
 
 A clan chief in the Scottish Highlands approaches the covenant wanting to commission the manufacture of a magical bridle that will allow him to capture and break a local kelpie (this could be achieved with a ReAn effect). The chieftain intends to use the kelpie to drag heavy stones to the site of a new fortress. The rapid construction of the fortress, aided by the labor of the kelpie, will tip the balance of power among the Highland clans — so, assisting the chieftain could be construed as interference in the mundane and hence a possible breach of the Peripheral Code.
 
-## *Elementals*
+## Elementals
 
 Elementals are magical creatures composed of very pure elemental matter. They are not truly alive, and are capable of neither growth nor reproduction. Instead, they form from pure physical matter under some magical impetus, such as a Magic aura. Nothing that is or has been alive can generate an elemental, nor can matter that is no longer in a raw state, but which has been moved, cut, or otherwise interfered with by a living being.
 
@@ -7918,13 +7918,13 @@ Once rarefied, the elemental exists until it is destroyed; elementals do not age
 
 impulses that drive them to certain actions based on their elemental make-up, but they possess no capacity for thought in the traditional sense.
 
-## *Magic and Elementals*
+## Magic and Elementals
 
 Some magi who are skilled in elemental magic routinely create and bind elementals to their bidding, but the primitive sentience of these beings, combined with the difficulty in obtaining the appropriate raw materials and vis required, means that most do not bother. Ritual Creo spells can create elementals, and they may be controlled using Rego magic. New guidelines for these effects are given in the nearby insert. In addition, standard Rego guidelines may also create wards (or prisons) for elementals with spells that affect creatures from the Magic Realm, and Perdo Vim spells can destroy the Magic Might that animates their simple bodies.
 
 Other spells involving the elemental Forms may accidentally cause an elemental to rarefy, if cast on sufficiently pure matter that is already substantially Warped, such as that found within a Magic aura. The production of an elemental is a potential consequence of any botched spell or lab activity involving an elemental Form while in a Magic aura. Similarly, magic used to purify an element can have a similar effect — more than one Flambeau magus has tried to make his flames hotter, and accidentally rarefied a fire elemental.
 
-## *New Elementals Spells and Spell Guidelines*
+## New Elementals Spells and Spell Guidelines
 
 **Creo (elemental Form)**
 
@@ -7958,7 +7958,7 @@ This spell allows the caster to control the actions of a fire elemental up to Si
 
 (base 5, +2 Voice, +1 Conc)
 
-## *A Digression into Physics*
+## A Digression into Physics
 
 The universe is made up of building blocks called **atoms** (from *atomas*, meaning "uncuttable"). There are four varieties of atoms, and each atom possesses two qualities that govern its nature: earth is cold and dry; water is cold and moist; air is hot and moist; and fire is hot and dry. The **corpuscles** of atoms are the basic building blocks of all matter, and have size, shape, and color. Corpuscles of earth are cubes, those of water are icosahedrons (shaped like a 20-sided die), air corpuscles are octahedrons (an eight-sided die), and fire corpuscles are tetrahedrons (a four-sided die or pyramid). The size of the corpuscles determine the type of matter that it forms. Small tetrahedral corpuscles make up the
 
@@ -7993,7 +7993,7 @@ Following assigning the characteristics, make the usual adjustment from Size, su
 
 All elementals have an intuitive understanding of the environment that spawned them, which amounts to the Ways of the (Land) Virtue. Since they are neither alive nor truly sentient, they also suffer from the Poor Memory, Short Attention Span, and Simple-Minded Flaws.
 
-## *Elemental Story Seeds*
+## Elemental Story Seeds
 
 #### **The Forgotten Child**
 
@@ -8025,7 +8025,7 @@ Elementals are not living, thus they cannot suffer wounds; instead, each blow se
 
 An elemental that is reduced to a Might pool of zero suffers the usual effects of this state (see Chapter 4: Magic Characters, Incapacitation and Exhausted Might). However, an elemental additionally loses its animating force and becomes inanimate. In this state it can easily be mistaken for raw vis. As soon as the elemental regenerates
 
-## *Size, Might, and Characteristics of Elementals*
+## Size, Might, and Characteristics of Elementals
 
 Like other Magic Things (see Chapter 3: Magic Characters), the Size of an elemental is dependent on the Might chosen for it, and is not purchased with Magical Qualities or Inferiorities. The Might of an elemental also determines its typical Characteristics. The table below indicates values for the eight Characteristics at different Might scores. Each of these sets of Characteristics has been purchased with Magical Qualities and Inferiorities that exactly cancel out, resulting in a zero overall cost.
 
@@ -8052,7 +8052,7 @@ The pieces of the elemental's body broken off during physical combat contain vis
 
 All elementals have a power that results from the elemental matter from which their bodies are made, and a power that describes their natural method of attack. Magic Resistance can prevent the elemental from touching its opponent, but the elemental does not need to spend Might points for this attack. Most elementals have at least one other power. This power should be strongly tied to the type and origin of the magical entity. Typical powers are listed with the descriptions of the elementals.
 
-## *Earth Elementals*
+## Earth Elementals
 
 The earth elementals are known to the Order as **genomi** (singular genomus, meaning "earth-living"), but they go by a number of other names including gnomes (contracted from their Hermetic name), pygmaei, and telluri. They may be rarefied from any large concretion of earth that has not been worked by human hands, such as untilled soil, natural rock features, and naturally occurring nuggets of metal. It is no harder to rarefy a genomus from soil than it is from metal, but the quantity of raw material available limits the size of the elemental created — a gold nugget of Size –10 can only produce an elemental with Might 3. Genomi are extraordinarily long-lived, and are as durable as the substance from which they are formed. They are patient predators, driven by an unslakable thirst to extract the delicious moisture from living beings. They are fiercely territorial, and will attack any being who intrudes upon their defined space; thus genomi make excellent guards — most attacks from a genomus result from having stood upon one!
 
@@ -8090,7 +8090,7 @@ Earth elementals are always thirsty, and direct contact with the elemental remov
 
 PeAq 15 (base 5, +1 Touch, +1 Part): Greater Power (15 levels, –1 Might cost, +6 Init)
 
-## *Water Elementals*
+## Water Elementals
 
 The **lymphae** ("pure waters") are also called undines, undena, or ondines (all from Latin *unda*, meaning "fluid, wave"), as well as aquacolae ("water dwellers"), nymphs (a term also applied to certain faeries), and alcyones. Only naturally occurring liquids can produce elementals, typically of salt or fresh water. Water that has been separated from its source cannot be rarefied into a lympha, nor can liquid extracted from its source by human effort. Lymphae in a relaxed state sink into a thin film or puddle, perhaps even soaking into the ground. They can pull themselves up into symmetrical humps faceted with triangular units — their corpuscles are naturally icosahedral. The fluid that makes them is always of the utmost purity, often crystal clear and sparkling.
 
@@ -8130,7 +8130,7 @@ PeIg 15 (base 10, +1 Touch): Greater Power (15 levels, –1 Might cost, +6 Init)
 
 The elemental can view any location to which it has an unbroken connection of water, regardless of the distance involved. Thus, it may see anyone on the same river, touching
 
-## *Character Guide: An Earth Elemental*
+## Character Guide: An Earth Elemental
 
 **Magic Might:** 15 (Terram)
 
@@ -8174,7 +8174,7 @@ the opposite shores of its sea, or even standing on the same earth through the w
 
 InIm 20 (base 1, +4 Arcane, +1 Conc, +2 Room): Lesser Power (20 levels, +1 Init).
 
-## *Character Guide: A Water Elemental*
+## Character Guide: A Water Elemental
 
 **Magic Might:** 15 (Aquam)
 
@@ -8215,7 +8215,7 @@ Damage +6 \*Includes Ways of the River
 **Notes:** This lympha haunts the river banks near its home, preying on the warmth of small creatures who dwell there.
 
 
-## *Air Elementals*
+## Air Elementals
 
 **Zephyrus** is the name given to an air elemental by members of the Order of Hermes, but they are also known as silvestres, sylphs, aeoliae (wind elementals), nenuphas (cloud elementals), and brontes (thunder and lightning elementals). Any air under the open sky or any natural weather phenomenon can produce a zephyrus. A zephyrus is composed of chains of octohedral corpuscles: in wind elementals, these chains form ropes; cloud elementals consist of interlocked loops; and a lightning elemental is a branched chain of scintillating energy.
 
@@ -8255,7 +8255,7 @@ The touch of the elemental causes a flash of coruscating lightning, inflicting +
 
 CrAu 30 (base 5, +1 Touch, +4 unnatural): Greater Power (30 levels, –2 Might cost, +2 Init).
 
-## *Character Guide: An Air Elemental*
+## Character Guide: An Air Elemental
 
 **Magic Might:** 15 (Auram)
 
@@ -8296,7 +8296,7 @@ CrAu 30 (base 5, +1 Touch, +4 unnatural): Greater Power (30 levels, –2 Might c
 **Notes:** A creature born of storms, it uses its devastating attack only rarely, since it has such a high Might cost. Its Shapeshifter Virtue allows it to adopt the forms of the creatures it has seen: a raven, an eagle, a hound, and a bull.
 
 
-## *Fire Elementals*
+## Fire Elementals
 
 Fire elementals, or **phlegethi** (singular phlegethus, meaning "burners"), also go by a host of other names, such as ignigena (Latin for "fire-born"), vulcans, rolamandri, salamanders (not to be confused with the Beasts of Virtue), and aethnici (a term also used for fiery demons; see *Realms of Power: the Infernal*, page 67). They are uncommon on earth, for they can only rarefy from naturally occurring sources of flame — usually lightning strikes, but occasionally earth-fires, certain natural alchemical reactions, or the fire from the upper atmosphere. Feeding a naturally lit fire with fuel does not inhibit rarefication, and once formed, a fire elemental can consume normal fuel. A fire elemental is often shortlived, lasting as long as it has fuel, and prone to sudden movements of remarkable speed. Man's fascination for fire is often enhanced when viewing fire elementals, and they can easily beguile those who stare too deeply.
 
@@ -8304,7 +8304,7 @@ An phlegethus appears as a collection of flames that move contrary to nature. Ea
 
 A phlegethus of Size 0 is the size of a typical bonfire. The fire from a lightningstruck tree would raise a Size +6 fire elemental, and a volcano is capable of spawning the largest phlegethi, up to Size +21. The body of a fire elemental is composed entirely of fire. The elemental can only cross surfaces composed of potentially flammable material; the more flammable it is, the faster it can move. Through typical vegetation in a temperate climate, a fire elemental can move at the speed of a running man. It may also jump a gap of non-flammable surface (such as bare rock) up to a width equal to its Magic Might in feet. Weapons are meaningless to a phlegethus; they simply pass straight through the elemental, and may catch fire. A source of water that is smaller than the elemental's Size is evaporated on contact. Larger sources of water quench the elemental's body, inflicting "wounds" as if it were fire damage; typically +5 to +10 damage, but possibly more depending on the quantity. Successful water attacks destroy any Ig-
 
-## *Character Guide: A Fire Elemental*
+## Character Guide: A Fire Elemental
 
 **Magic Might:** 15 (Ignem)
 
@@ -8379,13 +8379,13 @@ Like the Creo Ignem spell of the same name. Note that this power works at a dist
 CrIg 10 (base 4, +2 Voice): Greater Power (10 levels, –1 Might cost, +7 Init)
 
 
-## *Appendix*
+## Appendix
 
-# *Book of Mundane Beasts*
+# Book of Mundane Beasts
 
 The beasts of Mythic Europe are not quite the same as normal animals in the real world. The ferocity of wild animals, in particular, is exaggerated for dramatic purposes. In Mythic Europe, it is not uncommon for beasts such as wolves to attack humans.
 
-## *Beast Statistics*
+## Beast Statistics
 
 Beasts' Characteristics may take any value, even exceeding –5 or +5. Beasts do not need a Virtue or Flaw to have Characteristics outside the normal human range of –3 to +3. Their starting Characteristics depend on their ecological niche (predator, herbivore, etc.) and are different from the average human Characteristics of all zeroes.
 
@@ -8395,11 +8395,11 @@ For beasts, the Quickness Characteristic has mainly to do with reflexes and agil
 
 All mundane beasts have no Might and contain no vis.
 
-## *Modifying Beast Sizes*
+## Modifying Beast Sizes
 
 Some beasts cover a range of Size categories, and any beast might have its Size magically altered. To increase the Size of a beast, add 2 points of Strength and subtract one point of Quickness for each point of Size added. To decrease size, subtract 2 points of Strength and add one point of Quickness for each point of Size subtracted. Update combat statistics according to the new Characteristics. Larger animals are more powerful, but relatively ungainly.
 
-## *Beast Virtues, Flaws, and Qualities*
+## Beast Virtues, Flaws, and Qualities
 
 Each species of beast has certain Virtues and Flaws that are common to all members of that species. Species Virtue and Flaws are not given for game balance reasons, but rather to provide rules for the unique strengths and qualities of beasts. When designing your own species, simply assign the Virtues and Flaws that describe the species the way you imagine it. It is recommended that a species have at least one point of Flaws for every three points of Virtues. All beasts get their species' Virtues and Flaws for free.
 
@@ -8407,7 +8407,7 @@ Exceptional beasts may also take individual Virtues or Flaws that set them apart
 
 Qualities are features of the animal that affect its capabilities. See *Houses of Hermes: Mystery Cults* (pages 40–43) for a list of Qualities and their effects.
 
-## *New Virtues for Beasts*
+## New Virtues for Beasts
 
 **Ferocity**
 
@@ -8415,7 +8415,7 @@ Qualities are features of the animal that affect its capabilities. See *Houses o
 
 Like a magus or companion character, you have Confidence points. Unlike a human character, you may use your Confidence Points only in situations where your natural animal ferocity is triggered, such as when defending your den or fighting a natural enemy. Describe a situation that activates your Confidence score, and take three points for you to use when those circumstances are met.
 
-## *Beasts in Combat*
+## Beasts in Combat
 
 Beasts fight much as humans do: they can use most combat options from the Obstacles chapter, including disengaging, (untrained) group combat, exertion, and nonlethal combat. Beasts are clever enough to use exertion and other combat options to their best advantage. Only a few beasts have the cooperative instincts to fight as a trained group. All others must use the untrained group rules.
 
@@ -8423,12 +8423,12 @@ Beasts with the Ferocity Virtue have Confidence Points, which may be spent in ba
 
 Some beasts have more than one natural weapon. The best weapon is always listed first. Secondary weapons are less effective, but might be useful when the primary weapon is unavailable. For example, a bear usually relies on its claws, but might attack with its teeth while climbing with its claws after a victim. Regardless of how many weapons a beast has, it may only attack with one weapon in a given round.
 
-### *Magic*
+### Magic
 
 
 The following beasts can be used in any **Ars Magica 5th Edition** saga.
 
-## *Adder (Viperis)*
+## Adder (Viperis)
 
 **Characteristics:** Cun –1, Per –2, Pre –6, Com –6, Str –8, Sta +2, Dex +2, Qik +3
 
@@ -8464,7 +8464,7 @@ The adder is prone to attack reflexively
 
 when anything stumbles across its hiding place (see the Lightning Reflexes Virtue, **ArM5** page 45). If the adder attacks a victim who is unaware of its presence, it automatically wins Initiative in the first round of combat and gains a +3 to its Attack Total for the first round only. Because it's so thin and flexible, the adder gains a +6 bonus to Defense against grapple attacks.
 
-## *Bear (Ursus)*
+## Bear (Ursus)
 
 **Characteristics:** Cun +1, Per 0, Pre 0, Com –5, Str +6, Sta +4, Dex +2, Qik 0
 
@@ -8508,7 +8508,7 @@ The brown bear can run quickly, gaining a +3 bonus to rolls involving running. I
 
 According to Pliny the Elder, the he-bear sleeps for forty days in winter and the shebear sleeps for four months. The bear cub is born a shapeless lump of flesh until the shebear licks it into the shape of a little bear.
 
-## *Boar, Wild (Aper)*
+## Boar, Wild (Aper)
 
 **Characteristics:** Cun 0, Per 0, Pre –4, Com –5, Str +2, Sta +2, Dex 0, Qik +1
 
@@ -8547,7 +8547,7 @@ temper. It is a favorite sport of noblemen, who hunt it from horseback using hou
 
 Boars vary greatly in size, from eight stone (112 pounds) to more than thirty stone (420 pounds). The largest boars are Size +1.
 
-## *Bull (Taurus)*
+## Bull (Taurus)
 
 **Characteristics:** Cun –2, Per 0, Pre –4, Com –4, Str +5, Sta +3, Dex 0, Qik –1
 
@@ -8583,7 +8583,7 @@ The bull does not attack without reason, but it is easily — sometimes accident
 
 In Spain, the Moorish nobles make a spectacle of fighting bulls from horseback on festival days. The sport of bull-baiting, where spectators watch a tethered bull being killed by a pack of dogs, is known throughout Mythic Europe. Bulls are somewhat clumsy fighters at first, but if they survive combat they quickly grow "wise" and become very dangerous. The speed with which they learn to fight is reflected in their Affinity with Brawl.
 
-## *Cat (Felis)*
+## Cat (Felis)
 
 **Characteristics:** Cun 0, Per +1, Pre –2, Com –4, Str –7, Sta 0, Dex +3, Qik +4
 
@@ -8619,7 +8619,7 @@ This description is for domestic cats. The European wildcat looks much like a la
 
 Cats generally flee from any opponent larger than themselves. If a cat has successfully crept up on its prey, it automatically wins Initiative for the first round of combat and gains a +3 bonus to its Attack roll for the first round only. Cat are excellent climbers and jumpers, gaining a +3 bonus to appropriate rolls due to their Perfect Balance.
 
-## *Falcon (Falco)*
+## Falcon (Falco)
 
 **Characteristics:** Cun –1, Per +3, Pre –1, Com 0, Str –6, Sta +2, Dex +1, Qik +6
 
@@ -8657,7 +8657,7 @@ The falcon is among the swiftest of birds and hunts on the wing, overtaking its 
 
 Other, smaller species of falcon are Size –4. All falcons are fast fliers and gain a +3 bonus to rolls involving speed.
 
-## *Horse, Courser (Equus)*
+## Horse, Courser (Equus)
 
 **Characteristics:** Cun –2, Per 0, Pre 0, Com –4, Str +4, Sta +3, Dex –2, Qik +2
 
@@ -8695,7 +8695,7 @@ A light horse trained for battle is called a charger. To create a charger, repla
 
 Any light horse – courser, charger, or palfrey – gets a +3 to rolls involving running or jumping.
 
-## *Horse, Destrier (Equus)*
+## Horse, Destrier (Equus)
 
 **Characteristics:** Cun –2, Per 0, Pre 0, Com –4, Str +6, Sta +3, Dex +1, Qik –1
 
@@ -8729,7 +8729,7 @@ The destrier is almost always a stallion. It is highly trained so it will charge
 
 Like all horses, the destrier is a fast runner and gains a +3 bonus to rolls involving speed. It is too heavy to be much of a jumper.
 
-## *Hound (Canis)*
+## Hound (Canis)
 
 **Characteristics:** Cun 0, Per +2, Pre –4, Com 0, Str 0, Sta +2, Dex +1, Qik +2
 
@@ -8765,7 +8765,7 @@ All dogs have a good sense of smell, and the bloodhound's sense is so keen it ge
 
 A pack of dogs may fight as a trained group under the leadership of a human Master of the Pack. Use the Master's Animal Handling score instead of his Leadership score to determine how many dogs he can command at a time.
 
-## *Lion (Leo)*
+## Lion (Leo)
 
 **Characteristics:** Cun +1, Per 0, Pre 0, Com 0, Str +6, Sta +3, Dex +2, Qik +1
 
@@ -8802,7 +8802,7 @@ Pliny the Elder writes that, during his time, lions were found in Europe only be
 
 The lion can make impressive leaps and gets +3 to jump-related rolls. It can easily leap high enough to attack a man on horseback.
 
-## *Stag (Cervus)*
+## Stag (Cervus)
 
 **Characteristics:** Cun –2, Per +2, Pre 0, Com –5, Str +2, Sta +2, Dex 0, Qik +2
 
@@ -8842,7 +8842,7 @@ The red deer lives in open woodlands, moors, and grasslands throughout Mythic Eu
 
 The red deer is a favorite quarry of hunters. In some places, only nobles are allowed to hunt it. The stag usually flees from combat, trying to draw enemies away from its herd, but it can fight if it must. All deer gain a +3 bonus to rolls involving running or jumping.
 
-## *Wolf (Lupus)*
+## Wolf (Lupus)
 
 **Characteristics:** Cun +2, Per 0, Pre –2, Com 0, Str –1, Sta +3, Dex +2, Qik +2
 

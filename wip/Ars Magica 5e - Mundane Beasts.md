@@ -38,11 +38,11 @@ Beasts with the Ferocity Virtue have Confidence Points, which may be spent in ba
 Some beasts have more than one natural weapon. The best weapon is always listed first. Secondary weapons are less effective, but might be useful when the primary weapon is unavailable. For example, a bear usually relies on its claws, but might attack with its teeth while climbing with its claws after a victim. Regardless of how many weapons a beast has, it may only attack with one weapon in a given round
 
 
-# *Beasts of Mythic Europe*
+# Beasts of Mythic Europe
 
 The following beasts can be used in any Ars Magica 5th Edition saga.
 
-#### *Adder (Viperis)*
+#### Adder (Viperis)
 
 **Characteristics:** Cun -1, Per -2, Pre -6, Com -6, Str -8, Sta +2, Dex +2, Qik +3
 
@@ -74,11 +74,11 @@ Appearance, Slippery, Venomous **Personality Traits:** Hostile +2 **Reputations:
 
 The adder is a venomous snake commonly found throughout Mythic Europe (except in Ireland). It is hardy enough to hibernate through the winter. It hunts rodents, lizards, and frogs by hiding and waiting for prey to pass nearby. Its venom is weak and can sicken, but not usually kill, a man.
 
-#### *Ars Magica Fifth Edition*
+#### Ars Magica Fifth Edition
 
 The adder is prone to attack reflexively when anything stumbles across its hiding place (see the Lightning Reflexes Virtue, ArM5 page 45). If the adder attacks a victim who is unaware of its presence, it automatically wins Initiative in the first round of combat and gains a +3 to its Attack Total for the first round only. Because it's so thin and flexible, the adder gains a +6 bonus to Defense against grapple attacks.
 
-#### *Bear (Ursus)*
+#### Bear (Ursus)
 
 **Characteristics:** Cun +1, Per 0, Pre 0, Com -5, Str +6, Sta +4, Dex +2, Qik 0
 
@@ -112,7 +112,7 @@ The brown bear can run quickly, gaining a +3 bonus to rolls involving running. I
 
 According to Pliny the Elder, the he-bear sleeps for forty days in winter and the she-bear sleeps for four months. The bear cub is born a shapeless lump of flesh until the she-bear licks it into the shape of a little bear.
 
-## *Boar, Wild (Aper)*
+## Boar, Wild (Aper)
 
 **Characteristics:** Cun 0, Per 0, Pre -4, Com -5, Str +2, Sta +2, Dex 0, Qik +1
 
@@ -147,7 +147,7 @@ In France and England the boar is called *la bête noire*, "the black beast," fo
 Boars vary greatly in size, from eight stone (112 pounds) to more than thirty stone (420 pounds). The largest boars are Size +1.
 
 
-### *Bull (Taurus)*
+### Bull (Taurus)
 
 **Characteristics:** Cun -2, Per 0, Pre -4, Com -4, Str +5, Sta +3, Dex 0, Qik -1
 
@@ -179,7 +179,7 @@ The bull does not attack without reason, but it is easily - sometimes accidental
 
 In Spain, the Moorish nobles make a spectacle of fighting bulls from horseback on festival days. The sport of bull-baiting, where spectators watch a tethered bull being killed by a pack of dogs, is known throughout Mythic Europe. Bulls are somewhat clumsy fighters at first, but if they survive combat they quickly grow "wise" and become very dangerous. The speed with which they learn to fight is reflected in their Affinity with Brawl.
 
-#### *Cat (Felis)*
+#### Cat (Felis)
 
 **Characteristics:** Cun 0, Per +1, Pre -2, Com -4, Str -7, Sta 0, Dex +3, Qik +4
 
@@ -189,7 +189,7 @@ In Spain, the Moorish nobles make a spectacle of fighting bulls from horseback o
 
 **Virtues and Flaws:** Perfect Balance, Puissant Awareness, Sharp Ears, Nocturnal
 
-#### *Ars Magica Fifth Edition*
+#### Ars Magica Fifth Edition
 
 **Qualities:** Ambush Predator, Domesticated, Extra Natural Weapons, Good Jumper, Skilled Climber, Thick Fur
 
@@ -217,7 +217,7 @@ These statistics are for domestic cats. The European wildcat looks much like a l
 
 Cats generally flee from any opponent larger than themselves. If a cat has successfully crept up on its prey, it automatically wins Initiative for the first round of combat and gains a +3 bonus to its Attack roll for the first round only. Cat are excellent climbers and jumpers, gaining a +3 bonus to appropriate rolls.
 
-## *Falcon (Falco)*
+## Falcon (Falco)
 
 **Characteristics:** Cun -1, Per +3, Pre -1, Com 0, Str -6, Sta +2, Dex +1, Qik +6
 
@@ -249,7 +249,7 @@ The falcon is among the swiftest of birds and hunts on the wing, overtaking its 
 
 Other, smaller species of falcon are Size -4. All falcons are fast fliers and gain a +3 bonus to rolls involving speed.
 
-## *Horse, Courser (Equus)*
+## Horse, Courser (Equus)
 
 **Characteristics:** Cun -2, Per 0, Pre 0, Com -4, Str +4, Sta +3, Dex -2, Qik +2
 
@@ -290,7 +290,7 @@ A light horse trained for battle is called a charger. To create a charger, repla
 
 Any light horse – courser, charger, or palfrey – gets a +3 to rolls involving running or jumping.
 
-#### *Horse, Destrier (Equus)*
+#### Horse, Destrier (Equus)
 
 **Characteristics:** Cun -2, Per 0, Pre 0, Com -4, Str +6, Sta +3, Dex +1, Qik -1
 
@@ -314,7 +314,7 @@ Any light horse – courser, charger, or palfrey – gets a +3 to rolls involvin
 
 **Appearance:** The destrier is a heavy war horse. One breed used as destriers is the Percheron, a huge horse weighing over 140 stone (1960 pounds) and standing over 16 hands (64 inches) high at the withers. It has a heavy, slightly curved neck, a broad and deep chest, and powerful, stocky legs. Its coat is either grey or black in color.
 
-#### *Ars Magica Fifth Edition*
+#### Ars Magica Fifth Edition
 
 The destrier, or heavy war horse, has been bred in Mythic Europe since at least the time of Charles Martel (8th century A.D.). Some of the large horse breeds in Mythic Europe are the Percheron, the Belgian, and the Friesian. These horses are used mainly for battle; farm work is done using oxen.
 
@@ -322,7 +322,7 @@ The destrier is almost always a stallion. It is highly trained so it will charge
 
 Like all horses, the destrier is a fast runner and gains a +3 bonus to rolls involving speed. It is too heavy to be much of a jumper.
 
-## *Hound (Canis)*
+## Hound (Canis)
 
 **Characteristics:** Cun 0, Per +2, Pre -4, Com 0, Str 0, Sta +2, Dex +1, Qik +2
 
@@ -354,7 +354,7 @@ All dogs have a good sense of smell, and the bloodhound's sense is so keen it ge
 
 A pack of dogs may fight as a trained group under the leadership of a human Master of the Pack. Use the Master's Animal Handling score instead of his Leadership score to determine how many dogs he can command at a time.
 
-### *Lion (Leo)*
+### Lion (Leo)
 
 **Characteristics:** Cun +1, Per 0, Pre 0, Com 0, Str +6, Sta +3, Dex +2, Qik +1
 
@@ -395,7 +395,7 @@ with long manes, which are bold; and those with curly manes, which are timid. Th
 
 The lion can make impressive leaps and gets +3 to jump-related rolls. It can easily leap high enough to attack a man on horseback.
 
-#### *Stag (Cervus)*
+#### Stag (Cervus)
 
 **Characteristics:** Cun -2, Per +2, Pre 0, Com -5, Str +2, Sta +2, Dex 0, Qik +2
 
@@ -425,11 +425,11 @@ The red deer lives in open woodlands, moors, and grasslands throughout Mythic Eu
 
 The red deer is a favorite quarry of hunters. In some places, only nobles are allowed to hunt it. The stag usually flees from combat,
 
-#### *Ars Magica Fifth Edition*
+#### Ars Magica Fifth Edition
 
 trying to draw enemies away from its herd, but it can fight if it must. All deer gain a +3 bonus to rolls involving running or jumping.
 
-#### *Wolf (Lupus)*
+#### Wolf (Lupus)
 
 **Characteristics:** Cun +2, Per 0, Pre -2, Com 0, Str -1, Sta +3, Dex +2, Qik +2
 
@@ -461,7 +461,7 @@ The Flaws above reflect the medieval perception of the wolf as a wanton, bloodth
 
 The leader of a wolf pack has the additional Ability, Leadership 5 (wolves). A pack may fight as a trained group when its leader is present. A wolf pack is extremely dangerous.
 
-# *Credits*
+# Credits
 
 **Writing & Design:** Andrew Gronosky **Editing & Project Management:** David Chart **Layout:** Michelle Nephew
 

@@ -1,6 +1,6 @@
 
 
-# *Credits*
+# Credits
 
 **Authors:** Mark Lawford (Great Tower, Hermetic Shipyard), Richard Love (Burning City, Intangible Assassin), Matt Ryan (Living Corpse, Menagerie)
 
@@ -46,7 +46,7 @@ Copyright © 2012, 2013 Trident, Inc. d/b/a Atlas Games. All rights reserved. Re
 Digital Version 1.0
 
 
-# *Contents*
+# Contents
 
 | I. Wonders of the                     |   | The Heart That                 |    | Designing the Tower 35            |  |
 |---------------------------------------|---|--------------------------------|----|-----------------------------------|--|
@@ -202,7 +202,7 @@ Digital Version 1.0
 |                                 |                                  |
 |                                 |                                  |
 
-## *VI. The Living Corpse 96*
+## VI. The Living Corpse 96
 
 | Creating a<br>Living Corpse 96  |
 |---------------------------------|
@@ -320,7 +320,7 @@ Digital Version 1.0
 | Inherited Traits of Offspring 141  |
 |                                    |
 
-# *List of Inserts*
+# List of Inserts
 
 | Using Other Supplements6                  |
 |-------------------------------------------|
@@ -436,15 +436,15 @@ Digital Version 1.0
 |                                                                    |
 
 
-# *Chapter One*
+# Chapter One
 
-# *Wonders of the Hermetic World*
+# Wonders of the Hermetic World
 
 The magi of the Order of Hermes are among the most powerful practitioners of magic the world has ever seen. They have the power to reshape the land, bind the elements to their will, and hold life and death within their thrall. But while some magi seek to depart from their Hermetic learning by embracing secret mysteries that twist their Gifts, others use Bonisagus' great theory to its full potential and achieve the truly incredible. This book is for those ambitious magi who see the power and wonder in Hermetic magic, as passed from master to apprentice for generations.
 
 This book presents six grand Hermetic projects that magi, councils of magi, or covenants may undertake. The magi undertaking these endeavors need only know the core magical teachings of Bonisagus as presented in the **Ars Magica Fifth Edition** core rulebook. They require no Mystery Cult initiations, no studious original research, and no discovery of ancient lost secrets. The projects are presented in such a way that any magus inclined to follow them can achieve the intended results.
 
-# *The Hermetic Projects*
+# The Hermetic Projects
 
 **The Burning City** project sees the construction of a covenant in the heart of a volcano. The project moves from setting out to find a volcano to creating Hermetic rituals that transform mountains into new volcanoes; and from ensuring that magi and covenfolk alike can survive in the most inhospitable of environments to spells and devices to control the volcano and its inhabitants, both natural and unnatural.
 
@@ -458,14 +458,14 @@ This book presents six grand Hermetic projects that magi, councils of magi, or c
 
 **The Menagerie of Magical Beasts** describes a collection of beasts, both mun-
 
-# *Using Other Supplements*
+# Using Other Supplements
 
 Magi undertaking any of these projects require only core Hermetic magic as described in the **Ars Magica Fifth Edition** rulebook. But the projects also make use of some of the standard techniques and trappings open to all magi that have been explored in later supplements. Rego Craft Magic and laboratory advancement from the *Covenants* supplement are used to support some projects, while others use material from *Realms of Power: Magic*, *City & Guild*, and *Art & Academe*, all of which are areas open to all Hermetic magi.
 
 
 dane and magical, and the means to find, ensnare, and contain them. Such a project is both a useful resource for the studious mind and a symbol of great wealth and prestige. This chapter discusses all aspects of maintaining a menagerie, including the acquisition of prized specimens and their accommodation, handling, and domestication. The enchantment of animals through the application of magical brands is also discussed, as is the potential to breed and cross-breed from the menagerie specimens.
 
-# *Using this Book*
+# Using this Book
 
 For the player, the six Hermetic projects presented in this book are designed for a magus to follow from start to finish. The various spells and devices advance the magus' knowledge and ability and move the project a step closer to completion. But the projects are also filled with story opportunities, whether as a result of certain laboratory work, or as an obstacle to be dealt with before work can continue. Each project is distinctive enough to guide a magus' career through a saga, and some may potentially guide the saga itself.
 
@@ -475,7 +475,7 @@ The spells and devices that build toward each project are fully described in the
 
 While the assumption is that all of these projects have yet to be undertaken by the Order of Hermes, storyguides may like to use those that their players do not want to persue as background material for their sagas; no matter who builds the Great Tower for instance, there is drama to be had from the threat of Divine wrath at such Hermetic arrogance.
 
-# *Designing Your Own Grand Project*
+# Designing Your Own Grand Project
 
 The six Hermetic projects presented in this book are just the start of what's possible, and every troupe may develop their own grand projects relating directly to events, characters, or situations in their own sagas. Developing such a project is not simply about designing a number of related effects. A grand project may occupy the magi involved for a number of years and will present challenges along the way. So here is a walk-through of a project showing the major steps you might want to consider when designing your own project.
 
@@ -503,7 +503,7 @@ And, of course, no long-term project would be complete without story potential. 
 
 And so the creation of a grand project is not simply a device to account for a magus' time. It provides direction to a magus' study, and can be used by both storyguide and troupe to tell stories that directly relate back to that magus, his covenant, his tribunal, or even the Order.
 
-# *Additional Project Ideas*
+# Additional Project Ideas
 
 For players and troupes looking for even more Hermetic project ideas, here are some brief options.
 
@@ -515,9 +515,9 @@ A covenant withdrawn from the world may surround itself with woodland, and the m
 And finally, just as mundane minstrels and troubadours roam Europe and beyond making merry for their patrons, a master of Hermetic entertainments could roam from tribunal to tribunal providing unnatural distractions unmatched by the mundane world: from unearthly music and a troupe of ghostly acrobats to feasts of magical spices, never-ending food, and meats from the rarest of supernatural animals. A master of Hermetic entertainment would find favor in the richest of covenants and the most ostentatious of tribunal halls.
 
 
-# *Chapter Two*
+# Chapter Two
 
-# *The Burning City*
+# The Burning City
 
 The Burning City project is about constructing a covenant in the heart of a volcano. The effects in this project involve constructing buildings on either lakes of lava or the crater rim, effects to ensure that the magi and covenfolk can survive in this inhospitable environment, and effects to deal with the possible supernatural denizens of a volcano. Effects to find a volcano and to regulate its behavior are also detailed.
 
@@ -525,7 +525,7 @@ Although the Burning City is predicated on an entire covenant constructed within
 
 Finally, if the particular effects of this project are not useful in your saga, some of the ideas discussed in this chapter may give the troupe inspiration for the construction of covenants, chapterhouses, or laboratories in the other inhospitable places of Mythic Europe.
 
-# *Why Build in a Volcano?*
+# Why Build in a Volcano?
 
 Why might magi want to build a covenant inside a volcano? For some magi, merely the challenge and the fact that it can be done is enough of a reason. However, some other reasons for colonizing a volcano include:
 
@@ -541,11 +541,11 @@ Why might magi want to build a covenant inside a volcano? For some magi, merely 
 - dane interference. Even many Hermetic or other supernatural foes would be reluctant to casually assault a covenant embedded in a volcano.
 - • A volcanic covenant may be allied to indigenous inhabitants of the volcano. The covenfolk could include fire elementals and other magical creatures, faeries, or humans with lava flowing in their veins (perhaps due to ancestors who were volcanic creatures).
 
-# *Volcanoes in Mythic Europe*
+# Volcanoes in Mythic Europe
 
 In Mythic Europe most volcanoes are found in Greece, Italy, and Iceland. However, there is nothing to prevent a volcano occurring elsewhere in Mythic Europe, in your saga — especially if the volcano arises due to magic.
 
-# *The Greek Volcanic Islands*
+# The Greek Volcanic Islands
 
 The Greek island groups of Methana, Milos, Nisyros, and Santorini are all volcanic. Each group consists of dozens of islands that have been formed by volcanic activity, and there are further volcanoes beneath the surface of the sea — the activity of these marine volcanoes sometimes causes the sea to boil. Many of the surface volcanic craters have broken their walls and also been flooded by the sea, and
 
@@ -567,7 +567,7 @@ there are also a number of hot springs and pools heated by volcanic activity on 
 
 Fishing villages dot the islands, and the larger islands have substantial towns. Many of the inhabitants use water heated by the volcanoes for bathing, and the island-dwellers could be recruited to act as covenfolk.
 
-# *Italian Volcanoes*
+# Italian Volcanoes
 
 Campi Flegrei, or the Burning Fields, is an area of volcanic activity about five miles across located very near the city of Naples. There are numerous craters and the last eruption was in the year 1158, in which the crater of Solfatara exploded. Some of the craters have been flooded by the sea, creating harbors.
 
@@ -584,7 +584,7 @@ following a period of dormancy. The Roman towns of Pompeii and Herculaneum were 
 
 Vulcano is formed by two islands in the Eolian Islands: the main island is Vulcano and just north is a smaller island Vulcanello. There are a number of small villages and monasteries on the larger island, and the island is reputed to be a very healthy place to live; many people bathe in hot mud pools on the beach. The rim of the main crater (La Fossa) is constantly blanketed in steam and sulfurous fumes.
 
-# *Volcanoes in Iceland*
+# Volcanoes in Iceland
 
 Iceland, which was first settled by Vikings in the ninth century, is pockmarked with dozens of active volcanoes.
 
@@ -603,7 +603,7 @@ Bárdarbunga is a large volcano partially hidden beneath the Vatnajökull glacie
 Öraefajökull is the highest peak in Iceland, and beneath it lies a large, dormant volcano. The large central crater (about two miles in diameter) is completely covered by the Vatnajökull icecap. Although the volcano has been quiet for some time (if your saga follows history), it spectacularly erupts in 1362.
 
 
-# *Affecting Volcanoes with Hermetic Magic*
+# Affecting Volcanoes with Hermetic Magic
 
 Volcanoes contain bubbling, liquid lava, volcanic rocks, sulfurous fumes, and clouds of ash, all of which makes it hard to determine which Hermetic Forms should be used to target a volcano. The following guidelines have been used in this chapter to decide which Hermetic Forms are appropriate, and can also be used as a guide to the development of your own spells:
 
@@ -617,7 +617,7 @@ For Aquam effects, liquid lava counts as a corrosive liquid and the base Individ
 
 For Auram effects, volcanic fumes and ash both have a base Individual that covers an area with a diameter of about 100 paces.
 
-# *Effects to Help Find Volcanoes*
+# Effects to Help Find Volcanoes
 
 These effects are used to help find a volcano. *Vulcan's Glass* and *Scribe of All That I Can See* are enchanted items that could be used by a team of grogs to help their master find a volcanic site. *Scent of Ash* and *Trail of Ember* are spells, but, of course, your characters could invent similar effects as items if you wish.
 
@@ -689,11 +689,11 @@ This spell works because whether or not a particular mountain is a volcano is a 
 
 Required Lab Total to invest effect: One Season (40), Two Seasons (30), Three Seasons (27), Four Seasons (25).
 
-# *Volcanic Rock as an Arcane Connection*
+# Volcanic Rock as an Arcane Connection
 
 A volcanic rock is an Arcane Connection to the volcano it came from that lasts for years and gives a +3 Penetration multiplier. Of course, the Penetration multiplier is only relevant in the rare case that the volcano has Magic Resistance, or if the volcano is within an *Aegis of the*  *Hearth*. A piece of volcanic rock would not usually be an Arcane Connection to any magical spirits, elementals, demons or other creatures dwelling at the heart of the volcano, but it could be used as a +1 Sympathetic Connection to such creatures.
 
-# *Effects to Create Volcanoes*
+# Effects to Create Volcanoes
 
 Of course, it might be that the magi cannot find a volcano on a suitable site — perhaps no volcano can be found with a Magical aura, or the volcanoes are far from where the magi want to live. This doesn't have to be a problem: the magi can raise their own fiery inferno from the protesting earth!
 
@@ -725,35 +725,35 @@ Once the spell has been cast there is no active magical effect; the eruption is 
 
 Required Lab Total to invent spell: One Season (90), Two Seasons (68), Three Seasons (60), Four Seasons (57).
 
-# *Hazards of Volcanoes*
+# Hazards of Volcanoes
 
 The hazards of the volcano include lava, heat, noxious sulfurous fumes, and, of course, eruption.
 
 
-# *Lava*
+# Lava
 
 Molten lava has a base damage of +15. This is the level of damage sustained if a character walks on lava or is splashed by lava. If a character has a limb or more of their body covered by lava, it causes +30 damage. If half or more of his body is covered by lava, then the character suffers +45 damage. Finally, if his entire body is immersed in lava, he suffers +60 damage. The character continues to suffer this damage each round, until he has been removed from the lava. As lava may stick to the character, it may be difficult to naturally remove the lava from a character who has been immersed in a pool of lava. Note that, apart from defining the base damage for molten lava, these rules are not new; they follow the standard rules for heat and corrosion damage on **ArM5**, page 181.
 
 Bonuses to the character's Soak score from any armor he is wearing only apply if the character has less than half of his body covered by the lava. This is because, although the armor provides some protection from splash damage, the lava can flow through and behind the character's armor once he is substantially covered. Bonuses to Soak from Virtues such as Tough, and the natural hide of some characters (such as Bjornaer magi in Heartbeast form), cannot be bypassed in this way. Most magi will also have a bonus to their Soak from their Ignem Form Score (see **ArM5**, page 78), which cannot be bypassed either.
 
-# *Boiling Mud and Water*
+# Boiling Mud and Water
 
 Sometimes volcanic activity heats water and mud to scalding temperatures. Bubbling pools of mud and geysers of boiling water trap the unwary. Boiling mud and water both cause +3 damage to a character (+6 damage for immersion of a limb, +9 damage for immersion of a torso, and +12 damage for total immersion).
 
 Of course, mud pools and hot springs of lesser temperature are not dangerous, and some characters frequently bathe in these for medicinal benefit.
 
-# *Heat*
+# Heat
 
 Even characters who are merely close to a volcano can take damage from the heat. Characters who approach within 30 yards of molten lava suffer +3 heat damage each diameter.
 
-# *Fumes*
+# Fumes
 
 The noxious fumes from a volcano affect anyone who comes within 15 paces of a crater or river of lava. This has two effects: the fumes are toxic, and the character cannot breathe due to the lack of safe air.
 
 - • The lack of air to breathe means that the character must make an air Deprivation check every 30 seconds (5 combat rounds); see **ArM5**, page 180.
 - • The toxicity of the vapors also poisons the character. Every diameter that the character remains within the vapor, make a Stamina check for him against an Ease Factor of 6. If this is failed, the character takes a Medium Wound.
 
-# *Eruptions*
+# Eruptions
 
 Characters caught in a volcanic eruption may be swamped by lava, crushed by falling rocks, overcome by fumes, or buried beneath ash.
 
@@ -763,7 +763,7 @@ Characters caught in a volcanic eruption may be swamped by lava, crushed by fall
 
 causes trapped characters to die from asphyxiation. The character must make an air Deprivation check every 30 seconds (5 combat rounds); see **ArM5**, page 180.
 
-# *Effects to Protect Characters*
+# Effects to Protect Characters
 
 These effects are designed to protect characters who either live within a volcano, or are temporarily visiting a volcano.
 
@@ -860,7 +860,7 @@ This spell is based on the Perdo Aquam guideline to destroy a property of a liqu
 
 Required Lab Total to invest effect: One Season (68), Two Seasons (51), Three Seasons (46), Four Seasons (43).
 
-# *Effects to Control Volcanoes*
+# Effects to Control Volcanoes
 
 *Vulcan's Warning Bell* is an enchanted item that is intended to give the covenant due warning that the volcano is about to erupt. In most circumstances, the warning is sufficient to allow either the covenant to be evacuated, or (perhaps more usefully) the *Scorn of Aphrodite's Tears* ritual can be cast, which suppresses the imminent eruption. The *Flame Tongue* spell can be used to direct a belch of hot lava at an individual, which can be used as a weapon to discourage invaders. *Creeping Earth* makes the earth rise over the course of a month, seriously damaging buildings.
 
@@ -951,11 +951,11 @@ This effect rings the bell. The frequency of the ringing increases as the erupti
 
 Required Lab Total to invest effect: One Season (34), Two Seasons (26), Three Seasons (23), Four Seasons (22).
 
-# *Colonizing the Volcanic Crater*
+# Colonizing the Volcanic Crater
 
 In order to colonize the volcanic crater, your characters need to be able to create solid ground from the lava to build upon. Even if your magi build on the rim of a volcanic crater, the earth may need to be stabilized. In any case, the magi will need to ensure that day-today habitation is possible, by cooling the building interiors and preventing the ingress of toxic fumes. Designers must also provide for the feeding and watering of the covenant.
 
-# *Effects for Buildings*
+# Effects for Buildings
 
 These effects allow the construction of buildings within the volcanic crater, or are required to make the buildings habitable.
 
@@ -1070,7 +1070,7 @@ The stone will still be hot, even if it is solid. So, a building protected like 
 
 (Base 4, +1 Touch, +3 Moon, +4 size, +1 affect stone)
 
-# *New Virtue: Volcanic Minerals*
+# New Virtue: Volcanic Minerals
 
 *Free Laboratory Outfitting Virtue*
 
@@ -1078,7 +1078,7 @@ The laboratory is supplied with exotic minerals from a volcano. The laboratory n
 
 Required Lab Total to invent spell: One Season (90), Two Seasons (68), Three Seasons (60), Four Seasons (57).
 
-# *Effects to Live in the Volcanic Crater*
+# Effects to Live in the Volcanic Crater
 
 These effects can provide health and wealth to the inhabitants of a covenant occupying the mineral-rich environment of a volcano.
 
@@ -1130,7 +1130,7 @@ This effect grants the *Stone Harvester* the sense to smell whether a particular
 
 This sense allows the harvester to smell
 
-# *Story Seed: Tophet's Gate*
+# Story Seed: Tophet's Gate
 
 Many volcanoes are reputed to be gates to Hell. One well-known incident that demonstrates this occurred when the heretical Ostrogothic king Theodoric died in 526. A jet-black stallion arrived at Theodoric's palace in Ravenna, gathered the dead king's body, and then galloped away to Mt. Etna, straight into the crater and down into Hell.
 
@@ -1189,7 +1189,7 @@ This effect manipulates the legs of the *Stone Harvester,* enabling it to move a
 
 Required Lab Total to invest effect: One Season (28), Two Seasons (21), Three Seasons (19), Four Seasons (18).
 
-# *Story Seed: Tophet's Gate (cont'd)*
+# Story Seed: Tophet's Gate (cont'd)
 
 casting of a network of wards that envelope the crater. Re-casting is required as the bubbling volcano regularly breaks the circular wards. The magi of the covenant are also wellknown as masters of warding magic and other tribunal magi visit the covenant for instruction and study.
 
@@ -1297,7 +1297,7 @@ The effect requires an Arcane Connection to the sea. Any water which remains fro
 
 The volume of water that is transported daily into the well is sufficient to supply the water needs of a covenant of several
 
-# *Story Seed: Vulcan's Forge*
+# Story Seed: Vulcan's Forge
 
 The Roman God Vulcan (Greek, Hephaestus) had forges beneath Vesuvius and Vulcano, and possibly other volcanoes too. Many volcanoes thus contain faerie regiones that led to Vulcan's court. Of course, whether the Vulcan presiding over this hot and sooty realm is the real Vulcan, or merely a faerie portraying the role, is unclear. Stories that might arise from Vulcan's Forge include:
 
@@ -1341,7 +1341,7 @@ Note that the salinity of the water will not return once it has been removed. Th
 
 Required Lab Total to invest effect: One Season (48), Two Seasons (36), Three Seasons (32), Four Seasons (30).
 
-# *Effects to Deal with Volcanic Inhabitants*
+# Effects to Deal with Volcanic Inhabitants
 
 Volcanoes might be home to a number of supernatural creatures. These effects may help the magi deal with their neighbors.
 
@@ -1359,7 +1359,7 @@ Note that, if your character is talented at Rego magics, he may find it easier t
 
 Required Lab Total to invent spell:
 
-# *Story Seed: Eternal Spirit of Flame*
+# Story Seed: Eternal Spirit of Flame
 
 The volcano (or a regio within it) may be inhabited by a powerful magical nature spirit, or possibly a spirit associated with another realm. Once the characters have established themselves in or near the volcano, they can try to contact and commune with this spirit. Alternatively, the spirit may contact the magi itself. Bjornaer and Merinita characters are particularly likely to be contacted, as they are generally the magi most connected with nature, but any character apparently interested in the welfare of the volcano could be contacted.
 
@@ -1394,7 +1394,7 @@ Seasons (27), Four Seasons (25).
 
 The length of time a conversation with a volcano spirit takes is highly variable, and depends on the activity of the volcano. The spell allows the caster to perceive and participate in the conversation at either great speed or very slowly, as appropriate. A conversation of a few simple sentences with a dormant volcano could take many days, and would therefore require either a spell with a different duration or magical effects similar
 
-#### *Hermetic Projects*
+#### Hermetic Projects
 
 to *Maintaining the Demanding Spell* (**ArM5**, page 162) in order to maintain the Concentration duration. On the other hand, a long multi-faceted discourse with an active volcano can be conducted in a fraction of a round.
 
@@ -1424,7 +1424,7 @@ Obviously, this spell needs to Penetrate the Magic Resistance of the detected cr
 
 (Base 4, +2 Sun, +4 Vision)
 
-# *Story Seed: Eternal Spirit of Flame (cont'd)*
+# Story Seed: Eternal Spirit of Flame (cont'd)
 
 #### **Quests**
 
@@ -1489,11 +1489,11 @@ This item could be invented as a lesser enchanted item. Required Lab Total to in
 
 Alternatively, the item could be invented as an invested item. It takes 20 pawns of vis (huge, stone), one season and a Magic Theory Score of 10 to open the basalt cage for enchantment. Then, invest the effect. Required Lab Total to invest effect: One Season (90), Two Seasons (68), Three Seasons (60), Four Seasons (57).
 
-# *Increasing the Lab Total*
+# Increasing the Lab Total
 
 To complete many of the projects that comprise the Burning City your characters might want to increase their Lab Total. These are some strategies that you might like to employ.
 
-# *Shape and Material Bonuses*
+# Shape and Material Bonuses
 
 Shape and Material bonuses can give your characters bonuses to their Lab Total when inventing item effects (**ArM5**, page 99). Also, if a magus has a Talisman, then its Shape and Material bonuses can be used to give him a bonus when casting appropriate spells (once the Talisman has been attuned; see **ArM5**, page 98).
 
@@ -1511,7 +1511,7 @@ have been drawn from other books in **Ars Magica Fifth Edition**. The bonuses wr
 
 **Mirror** (+7 illusions, +5 see the truth) **Vent** (+7 affect air passing through it) **Volcano** (+5 volcanoes)
 
-# *Laboratory Customizations*
+# Laboratory Customizations
 
 Features can be added to a laboratory which add a bonus to certain types of Lab Totals, and elements of the laboratory's structure or location can also be auspicious for some sorts of work. Many of the options presented in *Covenants* (pages 112– 121) could help with the Burning City effects. Some new Laboratory Virtues and Flaws include the following.
 
@@ -1559,7 +1559,7 @@ The laboratory contains a forge that is heated by a volcanic spirit. *–1 Upkee
 
 The laboratory contains a fiery portal to Hell. *–2 Safety, +2 Warping, +1 Re, +3 Vi.*
 
-# *Experimentation*
+# Experimentation
 
 Your magus could try to accomplish some of these projects using experimentation (see **ArM5**, pages 107–109). What follows are some example side effects and modified effects that could result from experimentation on these projects (if a side effect or modified effect is rolled on the Extraordinary Effects table; see **ArM5**, page 109).
 
@@ -1590,9 +1590,9 @@ to the clothing, but obviously it draws attention to the character. Metal armor 
 - • The outer layers of the target's skin form a hard, black crust. This gives him a +3 bonus to Soak, which lasts for Sun duration. When this side-effect expires, the crust of skin peels off over a period of about one week. This has no game-mechanical effect, but it is visually unappealing: the peeling skin is broken, scabbed, and burnt.
 - • The caster (or target) is imbued with a warm internal glow. She does not suffer from exposure, hunger, or thirst until the glow subsides, which takes a simple die of Sun durations. This side effect appears to bypass the Limit of Energy, which could make the spell Lab Text an important source of insight for a magus attempting research in this area.
 
-# *Chapter Three*
+# Chapter Three
 
-# *The Great Tower*
+# The Great Tower
 
 Now the whole earth had one language and few words. And as men migrated from the east, they found a plain in the land of Shinar and settled there. And they said to one another, 'Come, let us make bricks, and burn them thoroughly.' And they had brick for stone, and bitumen for mortar. Then they said, 'Come, let us build ourselves a city, and a tower with its top in the heavens, and let us make a name for ourselves, lest we be scattered abroad upon the face of the whole earth.' And the Lord came down to see the city and the tower, which the sons of men had built. And the Lord said, 'Behold, they are one people, and they have all one language; and this is only the beginning of what they will do; and nothing that they propose to do will now be impossible for them. Come, let us go down, and there confuse their language, that they may not understand one another's speech.' So the Lord scattered them abroad from there over the face of all the Earth, and they left off building the city. Therefore its name was called Babel, because there the Lord confused the language of all the earth; and from there the Lord scattered them abroad over the face of all the earth.
 
@@ -1606,7 +1606,7 @@ The material presented here can be used in two ways. The project can be followed
 
 But what kind of magus would dedicate his life to the building of such a vast tower? A Tytalus might enjoy the challenge, not only to his own power and ability, but to the natural order, eager to seek out and confront such supernatural powers as would oppose him. For a Verditius mason, the tower becomes his crowning achievement and perhaps one day hosts the grand competition. For the politicallyminded Bonisagus, perhaps the tower can offer a shining example of cooperation among individuals, covenants, and Houses. As a House, Tremere may seek to show leadership and power. Such a tower could reinforce the collective strength of the Order. A Criamon may be more interested in sending the tower through the divide between the mundane and the magical worlds, escaping time, or as an extension of their House motto that *"The World Within is the World Without"*. And scholars of magic from any House may look upon the tower as a chance to escape the earthly realm and chart the lunar sphere. But whatever the driving ideology, the magus who controls it essentially rules his own private kingdom.
 
-# *The Tower of Babel*
+# The Tower of Babel
 
 After the great flood that cleansed Earth of sin, the surviving peoples came together in the land of Sumer and built a great tower at the city of Babel. But this tower was not built for the glory or adula-
 
@@ -1618,13 +1618,13 @@ Sources disagree on the fate of the tower itself. While it is clear that the bui
 
 Vestiges of the Tower may be found in the Magic Realm, and maybe in more than one place and in more than one form. Some might reflect the unchecked pride of its architects, others might contain the finished tower as the purest extension of the plan. But aspects of the Tower of Babel are most likely to be found associated with faeries, where the stories of temptation, ambition, and pride feed those faeries with vitality. As such, there may be many faerie towers laying claim to either be the tower of Babel itself or be built from its ruins.
 
-# *Medieval Buildings*
+# Medieval Buildings
 
 Most buildings across Mythic Europe are functional: a cobbler's shop, a farmer's barn, or a serf's home. But castles, churches, cathedrals, and even cities rise beyond simple buildings into works of art. Beyond any functional aspects, such buildings are built for prestige: primarily, the promotion and glory of a heavenly Lord or an earthly one, and secondarily, the promotion and pride of those who commission and build them.
 
 Cathedrals are among the largest and most artistically impressive buildings in Mythic Europe, while castles and city walls, though very large, offer little beyond defense. A particular fondness for the building of towers has grown up in the Italian city-states. These towers often exceed 100 feet in height and can take years to build. Their purpose is primarily as symbols of the importance, wealth, and power of the commissioning family, but they also serve as refuges and defensible positions during the all-too-frequent fighting between rival dynasties.
 
-# *Mundane Architecture*
+# Mundane Architecture
 
 Any construction is unlikely to succeed unless some kind of basic plan is used. For simple buildings, anything from outhouses to one-room dwellings, the craftsman himself can be assumed to have a sufficient plan in mind to complete the work. Anything larger requires an architect's input.
 
@@ -1636,7 +1636,7 @@ As a guideline, assume an architect must work a single season on designing
 
 a standard structure, and one additional season for each size magnitude after that prior to building work beginning. So a structure of size +1, a moderate church or a series of town walls, requires two seasons of the architect's time before construction can begin.
 
-# *Construction Techniques*
+# Construction Techniques
 
 Construction techniques, like the designs themselves, are being refined all the time, but there are some key constants. Building takes a lot of raw materials, which need to be transported, and those working on the building need the skill and manpower to build towards the target design.
 
@@ -1650,7 +1650,7 @@ Falsework is the term given to all temporary structures used in the construction
 
 Scaffolding provides temporary elevated platforms, allowing craftsmen and laborers access to raised parts of the building. Scaffolding can be built directly on the ground, extending upwards on rigid frames, or suspended from the building itself, usually through wooden beams extending from planned post-holes in the walls.
 
-#### *Hermetic Projects*
+#### Hermetic Projects
 
 Centering consists of strong rigid frames designed in the shape of vaults and arches. They are built or moved into place and the stonework is built around these frames to ensure that the correct forms are achieved.
 
@@ -1666,7 +1666,7 @@ Construction projects of a certain size employ many masons. One of these is cons
 
 The construction of a building is only part of the project. Whether for the glory of the sponsor or for God, castles and cathedrals are augmented by the
 
-# *Story Seeds for Medieval Buildings*
+# Story Seeds for Medieval Buildings
 
 #### **The Cracked Stone**
 
@@ -1700,7 +1700,7 @@ The workforce engaged to build a cathedral or castle is made up of around 3000 c
 
 As with so many activities, building tends to be seasonal work, taking advantage of the longest days and finest weather. Aside from potentially slowing the actual construction through shorter days, the winter months bring the cold and the rain, which prevents mortar from drying properly. Much of the building work stops during the winter and is replaced with activities that can be performed inside, such as stone carving, carpentry, and outfitting the building.
 
-# *Style, Symbolism, and Hidden Messages*
+# Style, Symbolism, and Hidden Messages
 
 The masons jealously guard the mysteries of their trade: the secrets of numbers, angles, and proportion that turn a simple building into a work of divine beauty. But these secrets can, by the insightful observer, be decoded and great knowledge gained. The *Covenants* supplement introduces the concept of the Great Work, a building or other construction that can be studied as a summa or tractatus. Any large construction costing 100 Mythic Pounds or more can be used as a Great Work (*Covenants*, page 102).
 
@@ -1709,7 +1709,7 @@ There are no special rules for investing a building with knowledge, though a sto
 
 This chapter makes few assumptions about where the tower is situated, and troupes should pick the kind of location that best supports the stories they want to tell.
 
-# *Selecting the Site*
+# Selecting the Site
 
 A tower of unearthly proportions needs to be built on solid ground to support its size and weight. It also needs to be accessible, or made accessible, to the scores of craftsmen needed to build it and the raw materials that they need. Wherever the troupe chooses to erect the Great Tower, there are stories to be told in finding the right location.
 
@@ -1731,7 +1731,7 @@ But if the difficulties can be overcome, the ruins of the Tower of Babel could c
 
 If the aim is to build the highest tower ever known to mankind, magi could look to the mountains for their site. Already
 
-# *Babel: Infernal or Divine?*
+# Babel: Infernal or Divine?
 
 Individual sagas may differ on whether the site of Babel carries an Infernal or a Divine aura, and storyguides are free to choose the one that best suits their needs. As a place where the will of God was made manifest on Earth, the site of the ancient tower may still be infused with God's own presence. The tower, and by extension all of mankind who were responsible for its construction, continues to be used as an example of God's dominion, and it can be expected that the site of the original tower will bear a powerful marker of this. This is the default assumption made in this chapter.
 
@@ -1739,7 +1739,7 @@ But the alternative is that God's blessing was removed from the site, that the a
 
 In either case, humanity is free to attempt a new construction, whether at Babel or elsewhere. Humanity has free will and God may choose to intervene, or not, at any point in the project. This free will, combined with God's unknowable intentions, sets up one of the central conflicts inherent to this project.
 
-# *Site Story Seeds*
+# Site Story Seeds
 
 The following story seeds support the suggested location possibilities:
 
@@ -1768,7 +1768,7 @@ A faerie appears to the magi, claiming to be the ghost of Seneca, bringing warni
 The tower has been started. The wealth of the magi has attracted the required workforce, drawing them away from projects sponsored by Church and Crown alike. As the tower grows, the magi face their first great challenge from the mundane world. A delegation of mundane nobles and churchmen demand that the construction be halted. If the magi accede to this demand, the world carries on as before, but ignore the demands and the Order asserts itself as a power in its own right.
 
 
-# *Seneca's Folly*
+# Seneca's Folly
 
 It is worth remembering that the building of a Great Tower has been attempted before, by the magus Seneca at Durenmar. Most agree that Seneca was not in full possession of his mental faculties, and all the remaining evidence of his construction suggests that the wooden tower was poorly conceived, with a design that hinged upon Seneca's mood on any given day. While Seneca's aim may have been to build a colossal tower, records available in the library of Durenmar show that the tower never exceeded Durenmar's other structures in height. However, this does little to reduce the value of the story of Seneca's Folly as a cautionary tale of ambition and hubris outstripping capability.
 
@@ -1799,7 +1799,7 @@ While the other options allow the magi to construct their tower more or less fre
 
 This is also the option that has more chance of changing the dynamic of Mythic Europe, as the Great Tower could become a uniting force that brings potential mundane rivals together in the face of a larger potential threat.
 
-# *Gaining Political Backing*
+# Gaining Political Backing
 
 With a site found and secured, the magi must now turn to their peers and gain sanction for, or at least acceptance of, their plans. The building of the Great Tower is not something that can be done in isolation and without word of it reaching the Order. There must be some kind of accord or else the project is doomed to
 
@@ -1812,11 +1812,11 @@ The Tribunal of Rome poses different challenges. While magi typically find it ea
 
 The Tribunals of Stonehenge, Loch Leglean, and Hibernia still hold both ancient magic and remote wilderness. The more distant reaches of these places may hold the key, especially if the Great Tower can be seen as a way to draw those Tribunals towards the center of Hermetic politics and influence. The same can also be said of the more distant reaches of the Order, such as Novgorod or the Levant, especially if the tower can be used to either secure new unclaimed land or to wrest it away from their Hermetic neighbors.
 
-# *Building the Tower*
+# Building the Tower
 
 To give an indication as to how big this tower is intended to be, Lincoln Cathedral, started in 1092 (and not due to be finished until 1311) reaches over 500 feet tall and is easily one of the tallest buildings in Mythic Europe. The Pharos lighthouse at Alexandria, fabled as it is, does not pass even 450 feet. To put that in perspective, the tallest peaks in the Alps exceed 15,000 feet, and this Great Tower is designed to exceed even that scale, though perhaps not within the lifetime of any one magus.
 
-# *Designing the Tower*
+# Designing the Tower
 
 It is for individual troupes to determine the style and design of the tower they want to create, but the following elements are likely to play a part.
 
@@ -1824,7 +1824,7 @@ The ritual magic described later, and the assumptions concerning mundane craftsm
 
 The foundations are likely to be columns sunk into the earth. These columns would take and spread the weight of the tower, with more pillars being sunk across a wider area as the tower grows in height.
 
-# *Political Story Seeds*
+# Political Story Seeds
 
 These story seeds are concerned with getting support for the project:
 
@@ -1851,7 +1851,7 @@ As the tower grows in height it also spreads out at its base. Additional pillars
 
 Given the immense size of the tower, staging areas may be built every thousand feet. These areas would allow the movement of materials up and down the structure; stone would be lifted from the staging area below before being sent up to the next one. These staging areas would be covered with cranes and windlasses, car-
 
-# *Covenant Boons and Hooks*
+# Covenant Boons and Hooks
 
 If you are using the *Covenants* supplement, the Great Tower naturally provides a number of Boons and Hooks as it grows (pages 6–25).
 
@@ -1884,7 +1884,7 @@ Allowing a constant rate and no other modifiers, the Great Tower grows by 560 fe
 
 Storyguides may also wish to slow the rate of construction as the tower grows larger, due to the increased effort involved in supplying the work with raw materials. But the important measure of the tower's progress is the pace of your saga. During the early years, the tower grows from an idea to an unnatural size. As the saga matures and the magi at its center gain in power, the tower starts to express more of its own character and becomes a thriving community in its own right. And if the story of the tower is due to finish with your saga, then build the tower's final stages into the final stories of your saga. The actual height of the tower is not as important as the stories told throughout its construction.
 
-# *Workshops*
+# Workshops
 
 Hermetic magi have their laboratories, and mundane craftsmen have their workshops. The *City & Guild* supplement provides guidelines for these workshops (page 65), and how they allow craftsmen to produce fine examples of their skill. If using the rules in *City & Guild*, treat the entire building operation as the master mason's workshop.
 
@@ -1900,7 +1900,7 @@ The Workshop Total is then compared against the following Craft Levels to judge 
 
 Superior and Excellent items provide a bonus toward activities for which the item is designed. In the case of the tower, the troupe may decide that the bonuses apply to living conditions or strength (see stress checks later). Note that only the latest quality is used for these bonuses, as a poor craftsman may introduce defects on top
 
-# *De Architectura*
+# De Architectura
 
 **Tractatus Craft:** Mason (Quality 8), Tractatus Artes Liberales (Quality 8), Tractatus Mechanica of Heron (Quality 7)
 
@@ -1957,11 +1957,11 @@ Lost damage levels represent partial collapses somewhere inside the tower, at it
 
 Damage to the tower can be repaired by the master mason spending a dedicated season for each damage level to be repaired. No other construction work, magical or mundane, can take place during this time.
 
-# *Fostering an Aura*
+# Fostering an Aura
 
 Magi gain the most benefit from working within Magical auras and will likely seek out a site with an existing Magic aura in which to build their tower, and
 
-# *Hermetic Architecture*
+# Hermetic Architecture
 
 As discussed in Chapter 4, The Hermetic Shipyard, the Hermetic Architecture Virtue can be applied to enchant things too large to fit inside even a hugely modified laboratory (*The Mysteries Revised Edition*, page 97). The tower at the heart of this project is such a thing. While the cost of enchanting the tower as a whole may not in itself be prohibitive (the cost of opening a castle of size +10 made of hard stone (x4) is 40 pawns of vis), it is not viable to build a laboratory so large that it contains the growing tower. The options are to enchant specific devices that can be used or embedded within the tower, or to use Hermetic Architecture to craft mystically-tied devices that bind their magic to the tower.
 
@@ -1976,11 +1976,11 @@ While magical activity strengthens the Magic aura surrounding the Great Tower, t
 
 Angels may be drawn to those they must protect, guide, or judge; demons seek opportunities to corrupt and ensnare. Meanwhile, faeries, like moths to a candle, flit around the magi of the tower drawing vitality from their troubles and triumphs. All of these bring the possibility of pockets of foreign auras being created within the Great Tower.
 
-# *Enchantments*
+# Enchantments
 
 There are three types of enchantment described in this section. The first assists in the building of the Great Tower, providing magical means of speeding up the construction work. The second set of effects represents everyday magic used within the tower, while the third governs the tower's connection to the outside world.
 
-# *Construction Magic*
+# Construction Magic
 
 The most obvious way to begin the construction of the Great Tower is to create a vast tower through ritual magic. The existing *Conjuring the Mystic Tower* ritual (**ArM5**, page 153) widely known across the Order does just this, but the tower it creates is somewhat mundane in its proportions, being only 80 feet tall. To even start the Great Tower, a much more potent ritual needs to be invented, and such a ritual may be beyond the abilities of a single magus to achieve without collaboration. But with that ritual in place, the magus can then invent another ritual to conjure further levels onto the tower. The risks associated with Creo rituals mean that they cannot be used to indefinitely build the Great Tower. In that case, various smaller effects to make the work of mundane craftsmen easier can be created.
 
@@ -2125,7 +2125,7 @@ Required Lab Total: 1 season (30), 2 seasons (23), 3 seasons (20), 4 seasons (19
 
 This device is best designed as a lesser enchantment, as even a small iron tool takes 10 pawns of vis to prepare for enchantment. The shape of the chisel provides a bonus of +4 to shape or destroy stone, which means that the magus only needs a Lab Total of 26 to enchant this effect in a single season. Experimentation may help to reach this, in which case the chisel may produce particularly attractive or unsightly work, or may introduce flaws to the stones that may only be noticed when it is too late.
 
-#### *Hermetic Projects*
+#### Hermetic Projects
 
 #### **The Laborer's Rest**
 
@@ -2196,7 +2196,7 @@ Required Lab Total: 1 season (58), 2 seasons (44), 3 seasons (39), 4 seasons (37
 
 The relatively low lab totals required for this device means that it could be enchanted as a lesser device in a single season. The resulting lab text makes subsequent copies easier still.
 
-# *The Tower's Environment*
+# The Tower's Environment
 
 The following enchantments are used to make life within the Great Tower safer and easier.
 
@@ -2254,7 +2254,7 @@ It is likely that covenants using such a device will use a large circle in each 
 
 To secure the arcane connection to the central council circle, a season is first spent magically forging a piece of that central iron circle into an iron nail. This takes the magus a season and a pawn of
 
-# *Tower Environment Story Seeds*
+# Tower Environment Story Seeds
 
 #### **The Fallen Spider**
 
@@ -2439,7 +2439,7 @@ Required Lab Total: 1 season (38), 2 seasons (29), 3 seasons (26), 4 seasons (24
 
 The Traveling Laboratory provides +4 to the lab total.
 
-# *The Outside World*
+# The Outside World
 
 These effects allow the inhabitants of the Great Tower some connection with the outside world, a place that, as the years advance, becomes ever more distant.
 
@@ -2522,14 +2522,14 @@ Experimentation may introduce a Perdo distortion to the effect such that anythin
 
 Other than this, the standard +4 *rooms* bonus is gained if the Traveling Laboratory is used, and a further +1 for any experimentation during the creation of this effect.
 
-# *Story Magnitudes*
+# Story Magnitudes
 
 With the Great Tower in place as the backdrop for the saga, it is useful to look at the magnitude of stories and decide how frequently stories of a given scale are likely to occur.
 
 Minor events are those notable occurrences that draw magi from their studies, or push companions and grogs beyond their day-to-day duties. They may represent stand-alone episodes in the life of the magus or his covenant, or they may be chapters in a much larger story. In any case, these kinds of stories are likely to occur maybe once a year throughout the life of the tower.
 
 
-# *Minor Story Seeds*
+# Minor Story Seeds
 
 #### **The Weary Scholar**
 
@@ -2562,7 +2562,7 @@ The last types of story are those that mark out the life of the tower itself. Th
 
 The sections that follow present story ideas that can be threaded through a saga to chart the lives of covenfolk, magi, covenants, and ultimately the Great Tower itself.
 
-# *Minor Stories: Once Per Year*
+# Minor Stories: Once Per Year
 
 The story ideas that follow represent the kind of events that are likely to happen each year. You do not have to play these stories each game year, but they certainly represent the most common type of story related to the Great Tower that the troupe may experience.
 
@@ -2586,7 +2586,7 @@ In any given year, with magi working towards their own projects and to progress 
 
 But accidents don't just happen around magic. With so many craftsmen working on the tower, it is only a matter of time before life or limb is lost. The stories here focus on the circumstances of accidents, likely uncovering a nefarious cause.
 
-# *Significant Story Seed: Where Angels Fear to Tread*
+# Significant Story Seed: Where Angels Fear to Tread
 
 The children of the tower have heard stories of a distant and forgotten cellar, deep in the foundations. It is said that no one can spend a night in the cellar without losing their life or their mind. So of course, several of them decide to prove the stories wrong. But the warped aura preys upon their fears, turning them inwards. Are they strong enough to last the night?
 
@@ -2594,7 +2594,7 @@ The children of the tower have heard stories of a distant and forgotten cellar, 
 
 Being in a magical tower does not prevent mundane stories from visiting the magi. Nobles may appeal to these legendary masons for help in building their own castles, entire villages may seek sanctuary from a ruthless lord, or that ruthless lord may attempt to take the tower by force of arms. Closer to home, the covenfolk and the craftsmen may have their own festivals that embroil the magi in stories.
 
-# *Significant Stories: Once Per Decade*
+# Significant Stories: Once Per Decade
 
 More significant stories are those unusual events that help mark time in the Great Tower.
 
@@ -2612,7 +2612,7 @@ Though the Great Tower seeks to be self-contained, it can never truly deny the o
 
 The powerful magic used to build and sustain the tower may also start to warp it, changing the aura in places, giving it personality. This may create places within the tower that earn their own stories. Does this warping extend to those who live in the tower? Does it warp to a pattern or is it seemingly random? Is it possible for a magus to take advantage of the warping? Perhaps it is even worth creating a laboratory within these areas. And are there side effects not yet apparent?
 
-# *Life-Changing Stories: Once Per Generation*
+# Life-Changing Stories: Once Per Generation
 
 Some events bring a lasting change to the Great Tower, or threaten the status quo.
 
@@ -2629,7 +2629,7 @@ With an army of craftsmen dedicated to the Great Tower, and a community of coven
 
 And as the tower grows ever larger, parts of the tower, especially the lower levels, begin to fall into disuse and disrepair. Accidents happen, even those with no supernatural cause, and endanger life and limb.
 
-# *Cataclysmic Events: Once In A Lifetime*
+# Cataclysmic Events: Once In A Lifetime
 
 The greatest and most profound events happen perhaps once in a lifetime. From the Hermetic perspective, the founding of a new covenant within the tower is something that changes the dynamic, perhaps forever. Suddenly, with the aura growing, the tower more sparsely inhabited, and magical power growing, a new wave of young magi looks to the tower. Perhaps they are the apprentices of the original magi, keen to govern themselves. Or perhaps they are magi with nowhere else to go, looking to the Great Tower for refuge.
 
@@ -2651,31 +2651,31 @@ What happens when the Great Tower breaks through the earthly sphere, what the ma
 
 But there is a precedent for what happens when mankind tries to build a tower to reach Heaven. The tower at Babel was toppled, its people scattered across the land, and the common language sundered. Babel was founded out of the unity of mankind, and as a result, mankind was fractured. The Great Tower was founded by the ambitions of the Order of Hermes, so will the toppling of the tower also resonate through the Order? Will Divine judgment fracture the Hermetic Arts, scattering the magic of the Order across the land? The magi of the tower must face this possibility. And their choices and their actions, at this point, will decide the fate of the Order.
 
-# *Moral Temptation and Fortitude*
+# Moral Temptation and Fortitude
 
 Many of the ideas in the preceding sections concern events that surround characters and draw them into stories, so that some threat or conflict can be resolved. But the magi of the tower, by virtue of pursuing such a daring and bold project, must face events intimately tied to their own choices.
 
 The moral powers of both the Divine and Infernal may bring the magi to account, forcing them to defend their actions and their motives. These stories may become more important as the Great Tow-
 
-#### *Hermetic Projects*
+#### Hermetic Projects
 
 er ascends into the sky, getting closer to the heavens. While it is for each troupe to decide whether the tower can ever breach the lunar sphere, the risk of it is present and can be preyed upon by angel and demon alike.
 
 The Great Tower may have an Aegis of sufficient strength and penetration to protect against moderate entities. In that case, the angels and demons that come to the tower will either be powerful examples or will work through proxies and agents. Common tactics may be to manifest in or threaten other places essential to the magi. And if it suits the story, angels are themselves agents of the Divine and their path is always unimpeded should God wish it.
 
-# *Faerie Stories*
+# Faerie Stories
 
 The magi of the Great Tower face a number of defining moments through the construction and life of the tower; from the inception of the project, to the first moral sacrifice to preserve it; from the end of the master mason's life when he looks back over his achievement, to the moment the apprentice chooses to leave the only life he's ever know. All of these moments can be interrupted, magnified, and reshaped to feed faeries the vitality they crave.
 
-# *Faerie Story Seed: Out of the Shadows*
+# Faerie Story Seed: Out of the Shadows
 
 An apprentice, of the Order or masonic, faces the decision whether to stay within the Great Tower or leave to find his way in the world. Drawn to this moment, a faerie shows the apprentice the possible roads ahead. The apprentice sees the future of Great Tower without him, and his own life to come both inside and outside the walls.
 
-# *A Far-off Tower*
+# A Far-off Tower
 
 The Great Tower can also be used as a backdrop for stories, even when your covenant or troupe is not the driving force behind it. The magi of the tower may reach out to new blood to join the effort or to take up residency in the tower. Or the tower could slowly become a threat, turned from its once-noble ambition, and now scouring the land for vis and resources. The presence and growth of the tower could cause concern at both local and Grand Tribunals, and the troupe's magi may be called upon to examine the case or act as impartial ambassadors to the Great Tower.
 
-# *Story Seeds of Moral Temptation*
+# Story Seeds of Moral Temptation
 
 #### **The Judgment of Angels**
 
@@ -2693,9 +2693,9 @@ More worryingly, could there be an Order of wizards unknown to the Order of Herm
 
 The tower could also provide opportunity for exploration. A failed project without the ongoing protection of an *Aegis of the Hearth* could soon be overrun by supernatural beings. Such a place may attract legend and exaggeration enough to tempt magi from their laboratories. The Order itself may assemble a team of Hoplites and explorers under the leadership of the troupe's magi, so as to reclaim the tower for the Order.
 
-# *Chapter Four*
+# Chapter Four
 
-# *The Hermetic Shipyard*
+# The Hermetic Shipyard
 
 One of the most important and profitable industries across Mythic Europe is shipbuilding. Whether for trade, transport, or war, merchants and princes alike need ships. Ships are vital to the flow of goods and wealth across Mythic Europe, to say nothing of armies and pilgrims.
 
@@ -2703,7 +2703,7 @@ Given the importance of ships, and the profit to be made in their construction, 
 
 This chapter presents the founding of an Hermetic shipyard and the building of its first vessel, *The Hermes*. It takes the project through from start to finish: finding the best location, constructing the basic laboratory, expanding it out to encompass the shipyard, laying *The Hermes*' keel, and enchanting the completed vessel. The construction of the shipyard and all the effects enchanted into the ship use only standard Hermetic magic; no Mysteries or restricted Virtues are required. The laboratory rules from the *Covenants* supplement are used extensively, but the relevant sections are referenced and, where appropriate, the laboratory totals for all activities are provided. As this is a project inspired by an existing mundane craft, *City & Guild* provides good background information and additional rules that you may find useful. But importantly, while there is an obvious attraction for Verditius magi, magi of all Houses can achieve these enchantments.
 
-# *Medieval Ships and Shipbuilding*
+# Medieval Ships and Shipbuilding
 
 The *City & Guild* supplement provides more information on using ships in your saga, but the following briefly describes some of the numerous vessels found across Mythic Europe.
 
@@ -2711,7 +2711,7 @@ River barges are flat-bottomed, lowdraft vessels designed to navigate streams an
 
 The cog is a high-sided vessel, mounted on a straight keel and often with a flat bottom designed to settle when the tide recedes. Cogs have a flat stern and it is becoming more common for them to be steered through a central rudder. These vessels are the primary merchant ship of the northern seas. Smaller than the cog, the buss is a round-bodied seagoing vessel, usually put to carrying cargo, though they
 
-# *Ship Damage*
+# Ship Damage
 
 *City & Guild* provides rules for damage that objects, ships included, can take before breaking (page 77). In brief, the item has a number of Base Damage Levels determined by its quality. This number is multiplied by a modifier determined by its size. For ships, this is listed in the Ship Sizes and Capacity table.
 
@@ -2730,7 +2730,7 @@ Ships normally only take damage from storms, fire, naval combat, and magical att
 If you are not using the *City & Guild* sourcebook, it is enough to remember that enchanted devices are tougher than their mundane counterparts, and the magic invested in them continues to function until the device is completely broken.
 
 
-# *Ship Sizes and Capacity*
+# Ship Sizes and Capacity
 
 Though there are some variations, given the range of sizes in which some of these ships can be built, the table that follows presents a guide to the size, capacity, crew, cost, and Damage Level Modifier of some typical ships.
 
@@ -2759,7 +2759,7 @@ The knarr is an open Scandinavian vessel used for long Atlantic voyages, typical
 
 Lighters are small vessels designed to take goods from larger ships unable to dock at the quayside. They are typically around 25 feet long and carry around eight tons of cargo.
 
-# *The Medieval Shipwright*
+# The Medieval Shipwright
 
 Mundane shipwrights are educated men, able to read and write at least their vernacular language and, more than likely, Latin. They are highly skilled in designing boats and ships and understanding the qualities and properties of materials, and they possess the leadership qualities needed to lead a team of craftsmen and laborers for seasons at a time. The shipwright rarely builds the ship himself, but rather designs the vessel and leads the team of craftsmen who undertake the construction on his behalf.
 
@@ -2767,15 +2767,15 @@ A shipyard is a large area of land with direct access to a significant waterway,
 
 There are also likely to be specialist facilities for the making of rope and sails. Ropes are generally made in long buildings called ropewalks, though long stretches of open road are also used, where the hemp fibers are spun and wound together to form ropes of different lengths and weights. Sailmaking is another highly specialized trade and is usually carried out in sail lofts.
 
-## *Hermetic Projects*
+## Hermetic Projects
 
-# *Ship Construction*
+# Ship Construction
 
 There are two types of ship construction: clinker-built and carvel-built. Clinker-built ships have hulls constructed with overlapping strakes, or planks. Clinker-built hulls are able to flex along the length of the vessel, the better to cope with the rough northern waters where they are more common. Carvel-built ships are more common in the calmer southern waters, and are constructed with the strakes butting against each other, forming a smooth-sided hull. They are generally stronger than clinker-built vessels, allowing for larger ships, but tend to be slower in the water.
 
 Ship builders generally treat the hull as one entity and any upper works, such as fore and aft towers or castles, as sepa-
 
-# *Suggested Shipwright Virtues and Abilities*
+# Suggested Shipwright Virtues and Abilities
 
 A mundane shipwright character will need certain academic and professional abilities. The Vernacular Eduction Minor General Virtue (*City & Guild*, page 109) can be taken, as this grants access to Academic Abilities. It also gives the character 50 additional experience points to be spent on academic and professional abilities. The description of the virtue suggests Profession Merchant, but this can be changed to Profession Shipwright. The points can also be spent on an Organization Lore ability, likely for any guild to which the shipwright belongs.
 
@@ -2794,23 +2794,23 @@ The Mysteries, either Cult or House, provide useful additional Virtues. Spell Bi
 Note that magi of House Verditius gain a bonus from their *Craft* Abilities, not *Profession*. A Verditius shipwright will need *both* Craft: Carpenter and Profession: Shipwright. The first represents his hands-on crafting of the enchanted vessels, allowing him to work his magic into the timbers, and the second represents the managing of the workforce necessary to build ships under his guidance.
 
 
-# *Story Seed: Vendetta*
+# Story Seed: Vendetta
 
 A rival Verditius declares vendetta against the Hermetic shipwright, and makes it known that the shipwright's venditor will die before the setting of the next full moon. Is this an idle threat, or has the Verditius already set his plans in motion? The magus must keep his friend alive against an unknown threat that is perhaps closer than he dares think. See *Houses of Hermes: Mystery Cults*, page 115, for more information on the the culture of vendetta within House Verditius.
 
 rate constructions. Magi can do the same within their laboratory work, treating a ship with a rear castle as a compound device.
 
-# *Centers of Shipbuilding*
+# Centers of Shipbuilding
 
 Every nation with a coastline has a shipbuilding industry, and even landlocked kingdoms need boats for use on navigable waterways. Portsmouth, Small Hythe on the river Rother, and London are key shipbuilding centers in the Stonehenge Tribunal, with the Thames home to many shipyards, large and small. Lübeck, Bremen, and Antwerp are prominent in the Rhine, while the wider Bruges area and Barfleur support shipbuilding in the Normandy Tribunal.
 
 The major communes of Genoa, Pisa, and Venice in the Roman Tribunal own shipyards dedicated to building and maintaining commune ships, as well as private enterprise. Those in Genoa and Pisa are kept busy by the cities' mutual antipathy and near-constant state of war. It was the Venetian shipyards that supplied the Fourth Crusade with the ships it needed to transport thousands of men to the Holy Land. Further afield, shipyards can be found in any coastal city engaged in trade, mostly undertaking repair and maintenance work on visiting merchant vessels, such as the important shipbuilding port of Koločep on the Dalmatian coast. Byzantium in particular, commanding a large coastal domain, is home to many shipbuilding ports.
 
-# *Founding the Shipyard*
+# Founding the Shipyard
 
 In Mythic Europe, it is unlikely that a magus, or even a covenant, can establish a shipyard without the involvement or even permission of certain mundanes, not least the local guild of shipwrights. Swearing an oath to a guild leaves a magus open to accusations of putting himself at the service of mundane powers. A magus swearing such an oath to a guild would be relying on Tribunal support to avoid punishment if discovered, so it is more likely that a magus would work through a proxy. This proxy would perhaps be the official face of the shipyard and act as the mundane conduit through which the Hermetic shipwright would sell his services. This is particularly apt for magi of House Verditius where the mundane shipwright can act as either a forge-companion, contributing to the construction of ships, or a venditor procuring contracts for his magus (*Houses of Hermes: Mystery Cults*, pages 135–136).
 
-# *Finding the Location*
+# Finding the Location
 
 Shipyards need to be located on major waterways: not necessarily on the coast, but on rivers deep and wide enough to support ships. They are often located alongside ports and harbors, as they tend to share a common infrastructure and have similar needs.
 
@@ -2879,7 +2879,7 @@ Required Lab Total: 1 season (50), 2 seasons (38), 3 seasons (34), 4 seasons (32
 
 On casting this spell while touching the river bank, the river is dredged, deepening and widening it as required by the casting magus. A single casting is enough to prepare a small waterway to take a large
 
-# *Story Seeds for Finding a Shipyard Location*
+# Story Seeds for Finding a Shipyard Location
 
 The following story seeds may be useful when looking to secure a location for a shipyard.
 
@@ -2958,11 +2958,11 @@ Required Lab Total: 1 season (110), 2 seasons (83), 3 seasons (74), 4 seasons (6
 
 A similar device can be enchanted and installed at the waterway to allow ships to be sent back to the remote shipyard. The effects are the same, providing a view of the distant slipway and transporting the vessel and its crew, though the arcane connections and triggering actions are different and the ship is deposited on the slipway rather than in the water.
 
-# *Recruiting and Training a Team*
+# Recruiting and Training a Team
 
 As has been discussed, a magus needs to recruit or attract skilled craftsmen and laborers to his venture. Stories can be told that chart the assembling of his team, perhaps having to battle the fear and distrust that come with The Gift, or offering a skilled journeyman a wondrous alternative to a harsh master.
 
-# *Building Out the Laboratory*
+# Building Out the Laboratory
 
 Devices need to be enchanted within a Hermetic laboratory; there are specialist tools to be used, environments to be controlled, and magical forces to be channeled. But the average Hermetic laboratory is not designed to contain large-scale projects such as the building of ships. This project assumes that the ship's keel and/or hull is the focus for the enchantment activity, and if the magus is going to enchant the ship itself, the laboratory needs to contain the entire ship and is therefore best constructed as a boat yard.
 
@@ -2970,17 +2970,17 @@ The Hermetic shipwright will need a laboratory modeled after a mundane shipyard.
 
 A host of enchanted tools and features are needed to ensure the safety of the workforce and the laboratory itself. Further enchantments make the work of the shipwright and his crew easier and quicker. A magus who builds a Hermetic shipyard is likely to either maintain a separate sanctum or simply be realistic about the status
 
-# *The Resting Place of Noah's Ark*
+# The Resting Place of Noah's Ark
 
 The resting place of the biblical Ark, built by Noah to God's design, is almost certainly the site of an Empyreal aura (*Realms of Power: The Divine*, page 12). While this would normally hamper the use of magic, it may be within God's choosing that the site itself provides a bonus to ship-based magic, and far from suppressing magic, may support it instead. If the Ark itself can be found, then its cedar timbers may provide shape and material bonuses for shipbuilding far in excess of natural wood.
 
-# *Team Training Story Seed: Suspicious Minds*
+# Team Training Story Seed: Suspicious Minds
 
 One of the shipwright's workforce becomes unsettled by the frequent displays of magic in his new workplace, and approaches the Church to tell of what he's seen. An inquisitive priest and his entourage soon visit the shipyard,
 
 suspicion on their minds, and condemnation not far behind. Can the magus hide the traces of magic he's worked hard to put in place, pass the priest's inspection, and root out the snitch in the end?
 
-# *Laboratory Story Seeds: Far and Wide*
+# Laboratory Story Seeds: Far and Wide
 
 The construction of the shipyard itself presents opportunities to run stories. The buildings that will contain the magical power to be invested in the boats may require special components, such as wood from a magical tree. The shipyard itself may be plagued by faeries or demons during and after its founding who can perhaps see some ill or good that might come from the shipyard in the future.
 
@@ -2992,7 +2992,7 @@ Hermetic interest will also be piqued and a magus with the facilities to enchant
 
 Rather than enchanting the ship's hull, variations might see the ship's mast, sails, or even the ropes used to rig the ship being used to carry the enchantments. These options might influence the type of laboratory that gets created. If the magic is to be contained in the rigging, then the laboratory may be constructed as a rope walk (the long shed housing the ropemakers and their tools), or as a sail loft if the sails themselves are enchanted. But this is down to
 
-# *More on Laboratories*
+# More on Laboratories
 
 the style of the individual magus and this project assumes him to be a fully-fledged shipwright.
 
@@ -3062,7 +3062,7 @@ The laboratory at this point provides a +1 bonus to Aquam effects, which benefit
 
 At the end of this period, the cost of upkeep has been reduced to 15 pounds
 
-#### *Hermetic Projects*
+#### Hermetic Projects
 
 per year and the laboratory has the following statistics.
 
@@ -3155,7 +3155,7 @@ This is the last stage in the construction of the Hermetic Shipyard, a task that
 
 The laboratory suffers for its specialization, with penalties to Safety, Health, and Aesthetics, but these could be further improved with additional work. The final build cost for this laboratory is 214 points.
 
-# *The Hermetic Shipwright*
+# The Hermetic Shipwright
 
 There are three options for constructing the ship prior to enchantment. The first and most straight-forward way of constructing a ship is to rely on mundane skill and labor. A skilled shipwright, leading a team of around 10 craftsmen and laborers, can finish a ship in two seasons. This is based on a shipwright with a score of 5 in the Profession: Shipwright ability. This decreases to a single season when the shipwright gains a score of 10 in the ability. See *City & Guild*, page 68, for further detail.
 
@@ -3163,7 +3163,7 @@ The second option is to use Rego craft magic (*Covenants*, page 49) to process a
 
 The third option is to use Creo rituals to conjure the ship. This is clearly the fastest way of "building" a vessel, but again relies upon Finesse and the expenditure of vis.
 
-# *The Shipyard as Mundane Workshop*
+# The Shipyard as Mundane Workshop
 
 While the magus improves his laboratory to enhance its magical qualities, the craftsman improves the mundane aspects of his workshop to improve the quality of his craftsmanship. But a Hermetic shipwright is concerned not only about enchantment, but also about the quality of the vessels his shipyard produces. Ideally, the magus will want to improve both aspects of his shipyard.
 
@@ -3172,7 +3172,7 @@ As the magus accounts for his time
 differently to a mundane craftsman, in seasons of activity rather than Labor Points, it is most convenient to have a mundane shipwright work with the magus. This mundane shipwright can be treated as a specialist supported by the magus or his covenant. The mundane shipwright earns Labor Points as described in *City & Guild*, and the excess, beyond those required to sustain him, can be put to improving the workshop or shipyard in this case.
 
 
-# *Mundane Craftsmen*
+# Mundane Craftsmen
 
 As per the insert in *City & Guild*, page 70, we can expect most enchanted ships to be of Superior or Excellent quality, though this depends on the shipwright's skill. Superior vessels add a bonus of +1 to specific activities, such as navigation or ship-handling rolls. Excellent quality ships may have a higher bonus, which may be applied to the same areas as well as providing the same bonus to laboratory totals for enchanting that device.
 
@@ -3180,7 +3180,7 @@ If the Hermetic Shipwright is leading the construction of the ship, its quality 
 
 The four ships belonging to the covenant of Favonius, designed by Memnos of Verditius, are of Excellent Quality, giving pilots a +2 bonus to any navigation rolls, and captains a +2 bonus to any ship-handling rolls. The same +2 bonus also applies to laboratory totals for any future effects enchanted into the ships.
 
-# *Craft Magic*
+# Craft Magic
 
 Rego craft magic has one advantage over Creo rituals: it does not require vis. But as with Creo rituals used to create artificial items, the results of Rego craft magic are dependent on Perception + Finesse rolls against Ease Factors that increase with the complexity of the task. The creation of complex items that would normally take a season or more to create has a very high Ease Factor. Magi do have ways to help themselves though. Page 68 of *Art & Academe* details the creation and use of Ligatures, small single-use charms based on mundane Artes Liberales, Philosophiae, or Medicine. These provide a small bonus (up to +3) for a single roll, which effectively reduces the target Ease Factor. The *Precise Casting* spell mastery ability (*Houses of Hermes: Societates*, page 34) adds +1 to the caster's Finesse total, which provides a means to reach the high Ease Factors as*Hermetic Projects*
 
@@ -3248,7 +3248,7 @@ Required Lab Total: 1 season (60), 2 seasons (45), 3 seasons (40), 4 seasons (38
 
 Appropriate laboratory bonuses apply to this effect (+1 Rego) as does a further +4 bonus as the wand is made of wood.
 
-# *Creo Rituals*
+# Creo Rituals
 
 Creo rituals have the benefit of being more reliable than Craft Magic but at the cost of expending vis on their casting. Artificial items created through Creo rituals require an Intelligence + Finesse roll to determine their quality, as outlined in **ArM5**, page 77. As with *Rego* craft magic, the Finesse rolls associated with *Creo* rituals can be aided through the use of ligatures and spell mastery.
 
@@ -3264,7 +3264,7 @@ Required Lab Total: 1 season (80), 2 seasons (60), 3 seasons (54), 4 seasons (50
 
 Rego effects designed in the shipyard gain a +1 bonus from the Rego specialization and a further +10 as this is directly related to ships. Experimental side effects may include the design of the ships never quite matching what the magus intended, perhaps taking on a Greek aspect as per the spell's inspiration. Modified effects may provide bonuses or penalties to the Finesse Ease Factors.
 
-# *Shipbuilding Story Seeds*
+# Shipbuilding Story Seeds
 
 #### **The Vessel Recovered**
 
@@ -3296,7 +3296,7 @@ Required Lab Total: 1 season (90), 2 seasons (68), 3 seasons (60), 4 seasons (57
 
 If designed in the Hermetic Shipyard described earlier, the +10 bonus for ships applies to this laboratory total. Magi may want to experiment to raise their lab totals, in which case the type or size of ship created may be different, the quality of the ship may be worse than intended, or the completion of the ritual may destroy the template ship.
 
-# *Support for Mysteries*
+# Support for Mysteries
 
 There are magical mysteries used across the Order that make the preparation for enchantment of large devices easier. The Verditius Magic virtue allows the magus to reduce the pawns of vis required to open the ship for enchantment by his Craft: Carpenter score (**ArM5**, page 97). The Verditius inner mystery of Elder Runes allows the shipwright to use a number of pawns of vis equal to his Magic Theory score multiplied by his Philosophiae score (*Houses of Hermes: Mystery Cults,* page 127). The Mystery of Celestial Magic reduces the number of pawns that must be spent to open the device (*The Mysteries Revised Edition*, page 48). Philosophic Alchemy allows the magus to extract vis from an aura directly into a device. This can be used to part-prepare the device for enchantment. The example on page 41 of *The Mysteries Revised Edition* shows how this can be used to help the magus open devices ordinarily beyond his capabilities. Shipwrights intent on enchanting larger vessels should consider these options.
 
@@ -3332,7 +3332,7 @@ If cast on a ship with at least one remaining damage level, any enchantments in 
 
 Required Lab Total: 1 season (60), 2 seasons (45), 3 seasons (40), 4 seasons (38)
 
-# *The Mechanics of Enchantment*
+# The Mechanics of Enchantment
 
 Shipwrights consider the various parts of the ship as being separate entities. The keel (where present) and the hull comprise one, the mast makes an-
 
@@ -3394,7 +3394,7 @@ The table that follows lists the number of pawns of vis that must be used to ope
 
 As described in **Ars Magica Fifth Edition**, on page 97, there are two ways to prepare the vessel for enchantment. The first is to prepare only a part of the vessel, the steering oar for instance. As part of the ship, effects invested in the oar benefit from shape (but not material bonuses) inherent in the ship, but the magus does not have to prepare the en-
 
-# *Shape and Material Bonuses*
+# Shape and Material Bonuses
 
 Being constructed from wood, effects enchanted into a ship almost certainly benefit from at least the usual +4 bonus to affect dead wood. The type of wood used provides additional material bonuses and different parts of the vessel have different mystical resonances, which provide their own shape and material bonuses.
 
@@ -3428,7 +3428,7 @@ There are drawbacks to this approach. If lesser enchanted devices are used, the 
 
 While this approach is certainly viable, especially for younger shipwrights as they grow in experience, this chapter assumes the attention of a skilled or knowledgeable magus capable of opening the ship's hull for enchantment.
 
-# *Building The Hermes*
+# Building The Hermes
 
 The first vessel to be built at the completed Hermetic shipyard is a large ocean-going cog, *The Hermes*, so named for the Order and for the Greek god in his role as patron of travelers. *The Hermes* is opened for enchantment and invested with a number of effects to make the vessel more manageable and seaworthy. The key enchantment allows the ship to reconfigure the shape of its hull such that it can sail shallow inland waterways, as well as navigating the more challenging northern seas.
 
@@ -3436,7 +3436,7 @@ This section takes the project from the physical construction and outfitting of 
 
 With a shipyard and team of craftsmen and laborers available, *The Hermes* is built by hand. The quality of the construction has not been factored into the laboratory calculations later as this will be variable according the shipwright's skill.
 
-# *Constructing and Preparing the Vessel*
+# Constructing and Preparing the Vessel
 
 Assuming that *The Hermes* is constructed by the shipwright's team with no magical intervention, the ship takes two seasons to complete to seaworthiness. During the second season, the shipwright can prepare the vessel for enchantment, a process that takes a season.
 
@@ -3444,7 +3444,7 @@ Assuming that *The Hermes* is constructed by the shipwright's team with no magic
 
 
 
-# *Story Seeds for Enchanting the Hull*
+# Story Seeds for Enchanting the Hull
 
 **The Lost**
 
@@ -3470,7 +3470,7 @@ Wood (dead) +4 affect dead wood
 
 +3 affect living wood
 
-# *Enchanting The Hull*
+# Enchanting The Hull
 
 The following enchantments are invested into the hull of the ship.
 
@@ -3504,7 +3504,7 @@ The laboratory bonus of +10 for ships applies to this effect, as does the +4 bon
 
 **Pen:** +0, Constant Effect
 
-# *Using Ptolemaic Coordinates*
+# Using Ptolemaic Coordinates
 
 The Hesperides chapter in the *Ancient Magic* supplement presents a system of coordinates devised by Claudius Ptolemaeus that can be integrated with Hermetic magic. Ptolemy's system can be used to derive coordinates from a set zero point that then describes a given location. The coordinates work according to the law of Names rather than the law of Contagion, so they do not need to
 
@@ -3526,7 +3526,7 @@ Required Lab Total: 1 season (48), 2 seasons (36), 3 seasons (32), 4 seasons (30
 
 The +10 bonus for ships and the +1 bonus for Rego from the laboratory both apply. The +5 shape bonus to sailing also applies as does +1 for prior Rego and/or Herbam effects. If the magus experiments while instilling this effect, it could fail when the ship sails under certain conditions, when cargo is loaded into certain areas, or could increase or decrease the ship's base tonnage.
 
-# *Aids to Navigation*
+# Aids to Navigation
 
 A ship is of little use without a navigator to plot its course. A magical navigator can plot courses with surety, and issues commands directly to the ship to ensure the course is closely followed. The effects that follow present the means by which *The Hermes* plots and tracks its course, as well as providing autonomous control to the ship.
 
@@ -3540,7 +3540,7 @@ A ship is of little use without a navigator to plot its course. A magical naviga
 
 This effect is activated by the ma-
 
-# *Interaction Between Navigational Effects*
+# Interaction Between Navigational Effects
 
 It is possible for more than one navigational effect to be active at any one time. Where *The Hermes* has been commanded both to sail for Constantinople and to follow the coast, these effects are designed to work in harmony to ensure that the ship sails the coastal route to the city. Where there is a clear conflict, the most recent command takes precedence. Any subsequent use of an effect replaces any currently running instance of that effect, so a command to sail for Sicily replaces the command to reach Constantinople, but the instruction to follow the coast remains in effect.
 
@@ -3579,7 +3579,7 @@ Enchanted in the Hermetic Shipyard, this effect benefits from the usual +10 for 
 Potential side effects from experimentation might see the effect misjudging the distance to the coast or recognizing only certain types of coastline, such as beaches, harbors, or cliffs.
 
 
-# *Into the Wind*
+# Into the Wind
 
 There are two primary means by which the ship is controlled: the rudder or steering oar, and the sails. While the rudder controls the direction in which the ship faces, allowing the crew to swing the ship to port or starboard, management of the sails provides the energy to propel the ship forward along its course.
 
@@ -3631,7 +3631,7 @@ Required Lab Total: 1 season (52), 2 seasons (39), 3 seasons (35), 4 seasons (33
 
 Assuming this effect is enchanted within the Hermetic Shipyard, the magus receives the following bonuses to his Lab Total: +10 for ships, +5 for sailing, +1 for Rego, and +3 for prior Rego and/or Herbam effects.
 
-# *Outfitting the Ship*
+# Outfitting the Ship
 
 The following effects are not enchanted into *The Hermes* itself, but are separate enchantments that either act on the ship's environment or provide effects not directly related to sailing.
 
@@ -3701,17 +3701,17 @@ Required Lab Total: 1 season (18), 2 seasons (14), 3 seasons (12)
 
 If the effects are enchanted into lamps as described earlier, the project benefits from a +7 bonus to produce light, making the devices very easy to make. Given the low level of the effect, it is recommended that these lamps be lesser enchantments, which avoids the need to open each lamp for enchantment.
 
-# *The Finished Ship*
+# The Finished Ship
 
 Though it has taken years and many pawns of vis, with the completion of the final two effects, *The Hermes* is an incredible vessel, able to confidently sail shallow coastal waters and survive the rolling northern seas. She can sail under heavy load with no loss of performance, and can even chart and sail her own course. Her magically controlled rudder and sails make her faster and more maneuverable than mundane ships, able to outpace her rivals, and the combination of magical effects means she sails with a smaller crew.
 
 And of course, with *The Hermes* now finished, the Hermetic Shipwright has a library of Laboratory Texts that he can employ on his next and possibly more powerful vessel.
 
-# *Outlandish Vessels*
+# Outlandish Vessels
 
 *The Hermes*, as enchanted as it is, represents a mundane sailing ship. For all the magic that has been invested into it, *The Hermes* is limited in where it can sail and by what means. But the ambitious magus need not be constrained, and the following sections describe ships that sail above the clouds, beneath the oceans, and beyond imagining in the Magic Realm itself.
 
-# *Submarine Vessels*
+# Submarine Vessels
 
 Ships are constrained to the surface of the sea, which in Mythic Europe may be considered limiting. There are many sunken cities and faerie kingdoms waiting to be discovered and rediscovered, and a ship that can plumb the depths of the oceans can reap wealth and rewards undreamt of by mundane sea captains.
 
@@ -3776,7 +3776,7 @@ Required Lab Total: 1 season (66), 2 seasons (50), 3 seasons (44), 4 seasons (42
 The Hermetic Shipyard provides bonuses of +10 for ships and +1 for Rego. The ship itself provides bonuses of +4 to affect dead wood and +5 for sailing. And as the ship has been enchanted with two prior Rego effects, a further +2 is gained.
 
 
-# *Ships of the Sky*
+# Ships of the Sky
 
 Stories of ships that sail the sky have been popular since classical times. Some of these are doubtless idle tales told around hearths to enliven the evening, while some are the work of angels, demons, faeries, and other spirits making their journeys for their own supernatural reasons. But some of these ships may be magical enchantments created by powerful Hermetic magi or even wizards of other traditions.
 
@@ -3794,7 +3794,7 @@ The high base magnitude allows the ship to remain on a chosen course, with adjus
 
 The effect can be suspended by landing the vessel on the ground, and the ship-
 
-# *The Art of Binding*
+# The Art of Binding
 
 Goetic sorcerers, described in *Realms of Power: The Infernal,* page 114, have access to the Art of Binding, which could be used to bind a spirit to a ship. In binding the spirit, any power it uses with a Personal range directly affects the vessel it is bound to. If a magus could find a spirit with the power to enter or leave the Magic Realm at will, and foster a sorcerer powerful enough to bind it, the enchanted ship could travel to and from the void at the behest of its captain.
 
@@ -3816,18 +3816,18 @@ Required Lab Total: 1 season (78), 2 seasons (59), 3 seasons (52), 4 seasons (49
 
 If enchanted in the Hermetic Shipyard, the usual bonuses apply (+10 ships, +1 Rego), as do +5 sailing and +4 to affect dead wood, which both come from the ship itself.
 
-# *Story Seed: The Home of the Winds*
+# Story Seed: The Home of the Winds
 
 A magus in possession of a flying ship invites others to undertake a most marvelous journey with him. He claims to have discovered the home of the Four Winds, powerful spirits of Auram. He needs a crew of magi to help him navigate and sail his ship beyond the clouds. On the way, the ship passes through strange unexpected regiones, containing a kingdom ruled by birds and a court of airy spirits planning war against the clouds.
 
-# *Sailing the Void*
+# Sailing the Void
 
 There are places beyond the mortal world, entire realms unseen and untouched by mortal hand.
 
 As described in *Realms of Power: Magic*, page 26, Hermetic magic has not yet tamed the Magic Realm. But a minor breakthrough (see *Houses of Hermes: True Lineages*, page 26) makes a series of new effect
 
 
-# *Story Seed: The White Whale*
+# Story Seed: The White Whale
 
 There are tales of a great white whale that swims the frozen seas of the far north. Some say that it lives in the Magic Realm but enters the world of men to hunt. The last known sighting is recorded in the journal of an old Tytalus, now living out his days at Fudarus. The Tytalus is willing to help the magi find the whale, but it soon becomes apparent he has his own reasons, reasons that endanger both the venture and the magi themselves.
 
@@ -3843,11 +3843,11 @@ If the aim is to take a ship into the Magic Realm, there is another way. Some cr
 
 It is unlikely that the Hermetic Shipwright would have the skills necessary to find and coerce such a beast, but a magus dedicated to finding and keeping magical creatures could be engaged to do this for him.
 
-# *The Sailor's Grimoire*
+# The Sailor's Grimoire
 
 The following spells are useful for the ocean-going magus and could easily be reworked into device effects and enchanted into magical ships. Additional spells and ideas for maritime magic can be found in *Magi of Hermes*, from page 70 onwards.
 
-# *Spells to Aid Sailing*
+# Spells to Aid Sailing
 
 These spells were designed to help in sailing a ship.
 
@@ -3884,7 +3884,7 @@ Required Lab Total: 1 season (90), 2 seasons (68), 3 seasons (60), 4 seasons (57
 
 If designed in the Hermetic Shipyard, this spell benefits from a +1 bonus to the laboratory total for each of Rego and Auram.
 
-# *Ships Made From Unusual Materials*
+# Ships Made From Unusual Materials
 
 The following effects provide alternatives that allow a magus to conjure a ship out of unusual materials, for use in exceptional circumstances.
 
@@ -3923,7 +3923,7 @@ Required Lab Total: 1 season (98), 2 seasons (74), 3 seasons (66), 4 seasons (62
 
 If designed in the Hermetic Shipyard, this spell benefits from a +10 ships bonus to the laboratory total.
 
-# *Support from Other Traditions*
+# Support from Other Traditions
 
 Beyond the Order of Hermes, there are others who know how to harness and direct natural and supernatural forces. Just as Hermetic magi might apply their skills to the building of ships, so might these other practitioners. In fact, the Hermetic Shipwright may seek out and work with other traditions, to take advantage of their abilities where his own are lacking. The following presents further options for shipwright characters.
 
@@ -3933,7 +3933,7 @@ Learned magicians (*Hedge Magic Revised Edition*, page 79) with the Mythic Alche
 
 The Vitki (*Hedge Magic Revised Edition*, page 120) are potent runesmiths with the ability to bind magical effects into objects by inscribing runic scripts into them. Viking longships were almost always decorated with runes, and the use of seafaring rune scripts is a common magical focus. The Vitki and related runesmiths can empower vessels without the need for seasons spent in a laboratory as the permanent inscription of runic effects (to calm storms around the ship or to speed the
 
-# *Story Seed: The Ship of the Damned*
+# Story Seed: The Ship of the Damned
 
 Some magi have become so obsessed with death that they immerse themselves in its trappings. As the Hermetic shipwright is not limited in the materials he can use to build ships, a death-obsessed magi, such as the magus who follows the path to lichdom, approaches him to build a vessel to his design.
 
@@ -3948,9 +3948,9 @@ Sorcerers with knowledge of the goetic Art of Binding have the power to bind spi
 
 It is unclear how these exotic magics might interact with Hermetic enchantments, and attempts to do so would certainly mean experimenting within the laboratory.
 
-# *Chapter Five*
+# Chapter Five
 
-# *The Intangible Assassin*
+# The Intangible Assassin
 
 The Intangible Assassin project is a series of spells based around effects like *Opening the Intangible Tunnel* (**ArM5**, page 162). The main purpose of the effects is for the magus to be effective at waging Wizard's War, although of course, this is not the only strategy for excelling at Wizard's War. Many of the components in this project are also useful for gathering information about and attacking opponents other than magi.
 
@@ -3958,7 +3958,7 @@ A lot of the effects in this project are low level, as one of the challenges enc
 
 The components of this project can be easily invented by a single magus acting alone, or by a group of magi working together. Of course, magi who work together on this project must trust each other a lot. Naturally, it is not compulsory for a magus to invent all of the effects in this project.
 
-# *Why Invent These Effects?*
+# Why Invent These Effects?
 
 The obvious reason for a magus to invent these effects is that he intends to declare Wizard's War on other characters. This reason might especially appeal to magi of House Tytalus and House Flambeau, and also to other magi who are heavily involved in political conflicts. Magi who wish to hunt down the enemies of the Order (such as infernalists and those sentenced by a Tribunal for high crimes) might also be interested in developing these effects to attack other magi.
 
@@ -3970,7 +3970,7 @@ A magus might also invent these effects because he fears that others will declar
 
 If the magus is worried about others declaring Wizard's War on him, then he might choose to publicize some of these effects (by submitting the Lab Texts to the Great Library at Durenmar, for example). The reason for publication is that, by demonstrating his possible competence at Wizard's War, the magus might dissuade others from declaring Wizard's War on him. Another strategy he might adopt is to invent some of these effects, and then demonstrate his efficacy (without revealing too much of his methods) by declaring and prosecuting Wizard's War on another (politically unconnected) magus. Of course, this is quite a sociopathic strategy which may cause other magi in the tribunal to view the magus with suspicion and fear — although that is partly the intent.
 
-# *What is Wizard's War?*
+# What is Wizard's War?
 
 Wizard's War is the ultimate conflict between two magi. Hermetic Law allows Wizard's War to be declared for any reason, and there can be no Tribunal sanction against a magus for killing or otherwise harming his foe during a justly declared and executed Wizard's War.
 
@@ -3992,7 +3992,7 @@ More general information about Wizard's War can be found in *Houses of Hermes: S
 
 The essential ingredient for waging Wizard's War in this manner is the spell *Opening the Intangible Tunnel* (**ArM5**, page 162). A few variations on this spell, and ways to manipulate the tunnels, are described here.
 
-# *What is an Intangible Tunnel Effect?*
+# What is an Intangible Tunnel Effect?
 
 *Intangible Tunnel* effects are all Rego Vim effects. These effects all create a mystical conduit, a tunnel, between the caster and the target. The following general rules apply to these tunnels.
 
@@ -4006,7 +4006,7 @@ The essential ingredient for waging Wizard's War in this manner is the spell *Op
 - • Other magi can also castspellsthrough the tunnel (from either end) on either the target or the caster. The effective range is the range to the local end of the tunnel.
 - • Any spontaneous, formulaic, or ritual Hermetic spell that is at least Touch
 
-# *Story Seed: The Demon that Stared Back*
+# Story Seed: The Demon that Stared Back
 
 It is not possible for non-Hermetic powers to be used through an *Intangible Tunnel*-style effect. This means that a "safe" way to hunt infernalists (and hedge wizards) is to employ grogs to hunt down Arcane Connections to the quarry, which can then be safely eliminated via an *Intangible Tunnel* from the sanctuary of the magi's laboratory.
 
@@ -4025,7 +4025,7 @@ range and does not exceed the permitted level may be cast through the tunnel. Sp
 - • The tunnel remains in place for the duration of the spell that created it, unless it is dispelled or similar. Spells cast through the tunnel with a dura-
 
 
-# *Required Laboratory Totals*
+# Required Laboratory Totals
 
 A number of spells in this chapter, including the *Intangible Tunnel* variant spells, are general spells. Depending upon the level of the spell desired the following Lab Totals are required to invent each spell.
 
@@ -4061,7 +4061,7 @@ One Season (70), Two Seasons (53), Three Seasons (47), Four Seasons (44).
 
 One Season (80), Two Seasons (60), Three Seasons (54), Four Seasons (50).
 
-#### *Hermetic Projects*
+#### Hermetic Projects
 
 tion that exceeds that of the tunnel continue to have their effect after the tunnel closes and expire normally. The exception is spells that require Touch range to be maintained. The troupe will need to decide on a case-by-case basis whether a spell requires Touch range to be maintained; many Touch range spells do not.
 
@@ -4069,7 +4069,7 @@ tion that exceeds that of the tunnel continue to have their effect after the tun
 - • It is not usually possible to use non-Hermetic magic, creature powers, or Supernatural Abilities through a tunnel, although your troupe may, of course, rule that a particular non-Hermetic power is an exception. Most magi would be very surprised if non-Hermetic magic were used through an Intangible Tunnel. However, Hermetic effects that incorporate exotic ranges, durations, targets, or guidelines — Merinita Faerie Magic, or the result of integration of a hedge tradition, for example — can be used through a tunnel.
 - • Although the target and caster are mystically considered within Touch range of each other, they are not literally within Touch range. The tunnel is intangible. It is not possible, for example, to attack with melee weapons through the tunnel.
 
-# *Tunnel Variants*
+# Tunnel Variants
 
 These spells are all variants on the *Opening the Intangible Tunnel* spell (**ArM5**, page 162).
 
@@ -4148,11 +4148,11 @@ Effects cast through *The Master's Message* tunnel can be up to one magnitude gr
 
 Required Lab Total to invent spell: depends upon level.
 
-# *Manipulating the Tunnel*
+# Manipulating the Tunnel
 
 The *Intangible Tunnel* and similar spells present the caster with a problematic vulnerability: the target can use the magical tunnel to cast spells back at the caster. A conventional *Intangible Tunnel* is a Concentration duration effect, so it is relatively easy for the caster to close the magical tunnel if events go awry by merely ceasing
 
-# *Story Seed: Bridge to the Magic Realm*
+# Story Seed: Bridge to the Magic Realm
 
 The player characters discover a covenant (or maybe the laboratory of a sodales) seemingly overrun with magical creatures, and the magus missing. The remains of the magus' laboratory notes indicate that he was experimenting with variants on *The Intangible Tunnel*. Can the player characters find the missing magus, and deal with the magical creatures?
 
@@ -4202,7 +4202,7 @@ This spell can be cast at either end of the magical tunnel. However, note that, 
 
 Required Lab Total to invent spell: depends upon level.
 
-# *Defending Against Intangible Tunnels*
+# Defending Against Intangible Tunnels
 
 The obvious way to defend against *Intangible Tunnel*-style effects is to dispel the tunnel, using an effect like *Unraveling the Fabric of Vim* (see **ArM5**, page 161). Of course, to do this, the character needs to know that an *Intangible Tunnel* is present. For this purpose a device like the *Assassin's Bell* can be invented. An effect like *Eyes for the*  *Lurking Assassin* is still required in order to actually target the tunnel.
 
@@ -4278,7 +4278,7 @@ Required Lab Total to invent spell: One Season (90), Two Seasons (68), Three Sea
 
 **R:** Personal, **D:** Diameter, **T:** Touch
 
-#### *Hermetic Projects*
+#### Hermetic Projects
 
 The caster feels his skin crawling when he is the target of an *Intangible Tunnel*-style tunnel. This provides sufficient information to use the tunnel or target the tunnel itself with spells.
 
@@ -4302,7 +4302,7 @@ There may be a large number of magical effects active within the vicinity of the
 
 Required Lab Total to invent spell: One Season (60), Two Seasons (45), Three Seasons (40), Four Seasons (38).
 
-# *Wizard's War Tunnel Effects*
+# Wizard's War Tunnel Effects
 
 These effects are designed to be cast through *Intangible Tunnel*-style effects. They are grouped according to magnitude. As these effects are low magnitude, a magus may be tempted to attempt these effects as spontaneous spells. However, if the target has a Magic Resistance (as most magi do, due to the Parma Magica) then the caster will be able to Penetrate much more easily with a formulaic effect.
 
@@ -4310,7 +4310,7 @@ A character truly proficient at Wizard's War would likely learn several of these
 
 If a character has a high Parma Magica (or is sheltering within a high-level *Aegis of the Hearth*), then it may only be possible to affect him with the lowest-level effects. One possible strategy is to use low-level effects, such as the *Chill Touch of Exposure,* to render the magus unconscious. He can then be easily dispatched with mundane means, such as a knife to the back.
 
-# *First-Magnitude Effects*
+# First-Magnitude Effects
 
 These effects have the lowest magnitude, and thus the highest Penetration.
 
@@ -4398,7 +4398,7 @@ Note that this spell is of little use in a Wizard's War. However, it is a good w
 
 Required Lab Total to invent spell: One Season (10), Two Seasons (8), Three Seasons (7).
 
-# *Second-Magnitude Effects*
+# Second-Magnitude Effects
 
 While these effects have a slightly lower Penetration, they are substantially more effective.
 
@@ -4454,7 +4454,7 @@ Required Lab Total to invent spell: One Season (20), Two Seasons (15), Three Sea
 
 **R:** Touch, **D:** Diameter, **T:** Individual
 
-#### *Hermetic Projects*
+#### Hermetic Projects
 
 The target forgets how to consciously use one Form for the duration of the spell. This includes casting spontaneous, formulaic, and ritual spells of the Form. It also includes spells that use the Form as a requisite. Unconscious use of the Form (for example, the Form bonus to Magic Resistance) is unaffected.
 
@@ -4496,7 +4496,7 @@ Note that this spell uses the Perdo Vim guideline, which dispels magic effects o
 
 Required Lab Total to invent spell: One Season (20), Two Seasons (15), Three Seasons (14), Four Seasons (13).
 
-# *Third-Magnitude Effects*
+# Third-Magnitude Effects
 
 Although the level of these spells may make their Penetration a bit too low, the use of sympathetic connections to boost Penetration totals can make them very effective.
 
@@ -4535,7 +4535,7 @@ Required Lab Total to invent spell: One Season (30), Two Seasons (23), Three Sea
 
 Required Lab Total to invent spell: One Season (30), Two Seasons (23), Three Seasons (20), Four Seasons (19).
 
-# *Fourth-Magnitude Effects*
+# Fourth-Magnitude Effects
 
 These are the highest-level effects that really make sense for Wizard's War. Any higher, and if the magus can muster the necessary Penetration, he is most likely overwhelmingly more powerful than his opponent.
 
@@ -4547,7 +4547,7 @@ These are the highest-level effects that really make sense for Wizard's War. Any
 
 This spell fills the target's lungs with water, causing him to experience the sensation of drowning. The character begins to suffer deprivation due to lack of air (see **ArM5**, page 180), but as the spell only lasts for Diameter duration (two minutes), the character is unlikely
 
-#### *Hermetic Projects*
+#### Hermetic Projects
 
 to die unless the spell is repeatedly cast on him.
 
@@ -4598,13 +4598,13 @@ Required Lab Total to invent spell: One Season (40), Two Seasons (30), Three Sea
 
 Required Lab Total to invent spell: One Season (40), Two Seasons (30), Three Seasons (27), Four Seasons (25).
 
-# *Gathering Connections*
+# Gathering Connections
 
 In order to wage an effective Wizard's War, the caster must have an Arcane Connection to his quarry. This is true even if the caster is not using an *Intangible Tunnel*-style effect to target his quarry, as most effects that are worth using in Wizard's War must either Penetrate the Magic Resistance of the target, or pass through a hostile *Aegis of the Hearth*. The effects listed here are various strategies that can be used to gather an Arcane Connection.
 
 Some Tribunals may consider the use of these techniques to be scrying or deprivation of magical power. This may make a magus hesitant to use some of the more dramatic and obvious of these effects until after Wizard's War has been declared.
 
-# *Blood*
+# Blood
 
 This suite of spells — *Breath of the Glassworker*, *Crystal Rain*, *Division According to Blood*, *Eyes of the Hawk*, and *Licking the Blood* — are intended to make the
 
@@ -4636,7 +4636,7 @@ Required Lab Total to invent spell: One Season (8), Two Seasons (6), Three Seaso
 
 **R:** Sight, **D:** Momentary, **T:** Individual
 
-# *Story Seed: Foot-Soldiers of the Master*
+# Story Seed: Foot-Soldiers of the Master
 
 If the magi of a saga invent the *Intangible Assassin* effects, then many good stories can be told about the adventures of the trusted grogs and companions who are sent out to recover Arcane Connections for their masters:
 
@@ -4723,7 +4723,7 @@ The dagger can be used as either a thrown or melee weapon. It is less useful in 
 
 **Ability:** Brawl, Init: +0, Atk: +2, Dfn: –1, Dam: +3, Str: –1, Load: 0 **Ability:** Thrown, Init: –1, Atk: 0, Dfn: –1, Dam: +2, Str: –1, Load: 0
 
-# *Story Seed: School of Assassins*
+# Story Seed: School of Assassins
 
 What if a group of magi cooperate to develop this project?
 
@@ -4804,13 +4804,13 @@ Required Lab Total to invent spell:
 
 One Season (50), Two Seasons (38), Three Seasons (34), Four Seasons (32).
 
-# *Books and Laboratory Texts*
+# Books and Laboratory Texts
 
 A book or Lab Text is an Arcane Connection (worth a Penetration Bonus of +2) to the scribe who wrote it. The Arcane Connection only lasts for weeks after it is written (see **ArM5**, page 84), so most magi keep their texts for a month or so before lending it or submitting it to a library, such that at Durenmar. Alternatively, they can destroy the Arcane Connection with a Perdo Vim spell.
 
 Nonetheless, acquiring a newly written book or Lab Text, or even one that is still being written, is a good strategy to gathering an Arcane Connection to a character. One strategy is to gather a sample of the quarry's writing (by finding a Lab Text or book at Durenmar or a similar library). The magus can then use a spell, such as *Pages of the Unfinished Story*, to gather more recently written material from the covenant of the author. This recently-written material can then be used as an Arcane Connection.
 
-# *Story Seed: House of the Assassin*
+# Story Seed: House of the Assassin
 
 It becomes well known within the Order that the character has considerable expertise in prosecuting Wizard's War. Some stories that might arise from this include:
 
@@ -4854,7 +4854,7 @@ An equivalent Herbam spell could be used to gather text written on paper or papy
 
 Required Lab Total to invent spell: One Season (90), Two Seasons (68), Three Seasons (60), Four Seasons (57).
 
-# *Blood Relative*
+# Blood Relative
 
 Being a blood relative of a person gains the caster a +1 Sympathetic Connection. The spell *Blood of My Enemy* can be used to temporarily create such a blood connection. Of course, this is risky, as being a blood relative can be used as a Sympathetic Connection for spells cast in either direction.
 
@@ -4872,7 +4872,7 @@ This spell is possible because, although being a blood relative is a part of a c
 
 Required Lab Total to invent spell: One Season (20), Two Seasons (15), Three Seasons (14), Four Seasons (13).
 
-# *Certamen*
+# Certamen
 
 Certamen can be used to gain an Arcane Connection in two ways. First, a character can challenge another character for some item that can be used as an Arcane Connection. Examples of this could include:
 
@@ -4895,7 +4895,7 @@ This spell must Penetrate the Magic Resistance of the target to be effective.
 
 Required Lab Total to invent spell: One Season (8), Two Seasons (6), Three Seasons (6), Four Seasons (5).
 
-# *Horoscopes*
+# Horoscopes
 
 The horoscope for a target (either his horoscope for today or his nativity horoscope) can be used as a Sympathetic Connection to increase the Penetration multiplier bonus of an Arcane Connection. The following spells can be used to help prepare horoscopes.
 
@@ -4967,7 +4967,7 @@ The birth or nickname of a character can be used as a +1 Sympathetic Connection.
 
 A spell like *Posing the Silent Question* (see **ArM5**, page 149) might be used to lift the birth or secret ritual name of a character from either his own mind or the mind of others who know him well.
 
-# *Signature*
+# Signature
 
 A character's signature can be used as a +1 Sympathetic Connection. It is relatively easy to gain the signature of most magi, as many magi sign the Laboratory Texts that they deposit at the various libraries of the Order of Hermes (such as that at Durenmar). This is because most magi deposit Lab Texts at such repositories to enhance their personal reputation as a worthy magus, and an anonymous text does not enhance reputation.
 
@@ -4983,7 +4983,7 @@ This effect causes a small quantity of text (up to a page) to form into a spider
 
 Note that this spell does not attempt to understand the moving text in any way.
 
-# *Story Seed: Vandals in the Library*
+# Story Seed: Vandals in the Library
 
 The librarians at Durenmar have spells that can test for the completeness of texts (see *Covenants*, page 100). A routine audit reveals that several books are apparently missing content.
 
@@ -5001,7 +5001,7 @@ The Muto requisite is required to make the ink stick to the new piece of parchme
 
 Required Lab Total to invest effect: One Season (30), Two Seasons (23), Three Seasons (20), Four Seasons (19).
 
-# *Symbolic Representation*
+# Symbolic Representation
 
 A symbolic representation of a target can be used as a +2 Sympathetic Connection.
 
@@ -5023,11 +5023,11 @@ Note that strictly the mirror actually creates an image that depicts what it "sa
 
 Required Lab Total to invest effect: One Season (16), Two Seasons (12), Three Seasons (11), Four Seasons (10).
 
-# *Increasing the Casting Total*
+# Increasing the Casting Total
 
 Gathering more powerful Arcane Connections and a suite of Sympathetic Connections is one method of increasing the Penetration Total. Another method is to increase the Casting Total directly.
 
-# *Vis*
+# Vis
 
 Spending vis on spell casting is a good method of increasing the Casting Score for a single spell casting (see **ArM5**, page 82). A moderately experienced magus with a lot of vis to spend could easily get a Casting Score bonus of 20 to 40, depending on his Art Scores.
 
@@ -5036,7 +5036,7 @@ On the other hand, if the caster wants
 
 to cast a group of spells at high Penetration (an *Intangible Tunnel*-style effect, and then several damaging effects through the tunnel), then using vis is unlikely to be a sensible course of action, as each spell will require vis.
 
-# *A War Party of Magi*
+# A War Party of Magi
 
 A group of magi acting together can use *Wizard's Communion* (see **ArM5**, page 160) to cast high magnitude *Intangible Tunnel*-style effects with high Penetrations. The *Wizard's Communion* can also be used to cast effects through the tunnel.
 
@@ -5044,7 +5044,7 @@ For example, 4 magi who each know *Wizard's Communion* of at least level 10 work
 
 Using *Wizard's Communion* combined with *Intangible Tunnel*-style effects is a good strategy for members of the Tribunal to take when trying to eliminate a magus who has been Marched. Groups of magi can also work together in this way to prosecute a Wizard's War, although to be strictly legal, all the magi involved in the *Wizard's Communion* must declare Wizard's War on the victim.
 
-# *The Problem of the Aegis of the Hearth*
+# The Problem of the Aegis of the Hearth
 
 The *Aegis of the Hearth* ritual that surrounds most covenants can be used by a magus for shelter during Wizard's War. A young magus (with a low Parma Magica score) gains the most benefit from cowering in this way within an *Aegis* cast by his more competent sodales. The *Aegis of the Hearth* is often of less importance in Wizard's War between experienced magi. This is because their Parma Magica scores may provide much more effective protection than the *Aegis*. Nonetheless, the following spells could be invented for interacting with an *Aegis*.
 
@@ -5092,7 +5092,7 @@ Note that if the *Aegis of the Hearth* is of a high level, then this spell may n
 
 the supposed boundary of the *Aegis* may notice that they do not feel the characteristic tingle which indicates the pres-
 
-#### *Hermetic Projects*
+#### Hermetic Projects
 
 *stone* spell + 3 magnitudes + stress die. This spell must penetrate the *Aegis of the Hearth* effect, of course.
 
@@ -5105,9 +5105,9 @@ Required Lab Total to invent spell: depends upon level (see insert earlier).
 ence of an *Aegis*. The *Aegis of the Hearth* effect must be less than the level of the *Removing the Key-*
 
 
-# *Chapter Six*
+# Chapter Six
 
-# *The Living Corpse*
+# The Living Corpse
 
 Wizards have long sought to cheat death, to avoid the reaper's blade through cunning art and powerful invocations. Hermetic magi have only a few options to successfully become immortal, options that are restricted to initiates of a handful of Hermetic Mystery Cults. Frustration awaits the magus who desires immortality but is excluded from these secret and esoteric rites. Human life cannot be created or indefinitely retained by Hermetic magi.
 
@@ -5115,13 +5115,13 @@ But the components of life, the shell of the body and the animation of the spiri
 
 Combining necromantic spells with enchanted devices, a magus can create a human corpse and unite a ghostly apparition with the corpse to form a semblance of human life. Called a **living corpse**, such a creature is beyond the limitations of death, and can serve the magus for eternity. With careful preparation and painstakingly enchanted magic items, a necromancer can create a personal living corpse and achieve eternal existence.
 
-# *Creating a Living Corpse*
+# Creating a Living Corpse
 
 To create a living corpse, the magus needs to bind a ghost to an animated corpse. The magus must create a spell that animates a corpse, a spell that summons a specific spirit, a spell that anchors the spirit to the corpse, and a spell that allows the spirit to control the corpse. The magus must decide how he will make these spell effects permanent, and a constructed enchanted item is the most obvious.
 
 A magus who knows the Minor Hermetic Virtue: Spell Binding could summon other spirits to maintain the spells, creating a small group of inanimate objects to sustain the spells and linked spirits (*The Mysteries Revised Edition*, page 27). While common, and reportedly widespread throughout the Order of Hermes, not every magus knows how to bind spells. But every magus does know how to enchant magic items, which means that a living corpse is attainable to all who seek to be one.
 
-# *The Fleshy Vessel*
+# The Fleshy Vessel
 
 Hermetic magi know that ghosts can be bound to places, things, events, and passions, each somehow providing a supernatural tether connected to the spirit. The common magic of spell binding (*The Mysteries Revised Edition*, page 27), requires that the magus use an "inanimate physical" container as a vessel to imprison the ghost, but this is an anchor for a second spell as well as the spirit, whose bound essence empowers the spell indefinitely. The Rego Mentem spell *Imprison a Ghost in a Vessel* is more relaxed concerning the actual container housing the bound ghost. The container does not have to be a hollow vessel: a book, rock, or corpse all count as containers.
 
@@ -5129,7 +5129,7 @@ Like spell binding, however, if this container is broken, the spirit is released
 
 If the magus chooses a body part as the vessel, that part needs to be available for the spirit-binding, either by sight or by touch, depending on the Range of the spell or spell-like effect. It is impossible to enchant a spleen to bind a ghost, if the spleen remains hidden in the body. This can be difficult if the necromancer decides he wants to self-transform into a living corpse.
 
-# *Exempli Gratia: Bonding a Ghostly Warder to a Corpse*
+# Exempli Gratia: Bonding a Ghostly Warder to a Corpse
 
 A magus wants to bind a weak ghost to a corpse. He has an arcane connection to a ghostly warder (**ArM5**, page 193) and has a fresh corpse. He first summons the ghost, using a variant of the ritual spell *Incantation of Summoning the Dead* (**ArM5**, page 152), with Duration Diameter instead of Duration Concentration. This Rego Mentem level 40 spell must penetrate the 10 Magic Resistance of the ghost. Once summoned, the magus casts the level 25 Rego Mentem spell *Imprison a Ghost in a Vessel*, which must also penetrate the ghost's Magic Resistance. The magus forces the ghost into the corpse, which acts as the vessel. The magus then casts *Animate the Slumber-* *ing Corpse* (ReCo (Me) 30), and finally *Passing the Reins of Corpus* (MuVi 35). The magus has successfully created a living corpse that will stay active until sunset, when both *Imprison a Ghost in a Vessel* and *Animate the Slumbering Corpse* spells end (Duration: Sun).
 
@@ -5161,7 +5161,7 @@ Required Lab Total: 1 season (70), 2 seasons (53), 3 seasons (47), 4 seasons (44
 
 Cast at the same time as another spell, this spell lets the caster pass control of the
 
-# *A Living Corpse Using Spells*
+# A Living Corpse Using Spells
 
 A living corpse combines the physicality of an animated corpse with the mental aspects of an attached spirit, magically joining that which death has pulled apart. A ghost is bound to a magically animated corpse, then given control of the spell that animates the corpse, letting it control the body. The simplest example is a living corpse created by casting spells; the most complicated example is a personal living corpse, one that a magus designs for himself using enchanted items that activate upon his death. Both creation processes use variations of three spells, in addition to others specific to the creation process. Those three spells are as follows:
 
@@ -5180,7 +5180,7 @@ This spell forces a ghost into a container of some type. The spirit remains boun
 
 During some routine task, a grog finds a young boy hiding on the covenant's grounds. Frightened and dirty, the boy clutches a large tome. He says that he stole it from his master, who was using it to cast unholy spells and incantations on him. The boy is taken to the magus, who ascertains that the boy is an apprentice and holds a collection of Hermetic Lab Texts. The spells are not infernal, but necromantic. Legally, the magus should return the text and apprentice to the owner. This story seed could serve as a simple in-game introduction
 
-# *Story Seeds*
+# Story Seeds
 
 to the manufacture of a living corpse, or could set up a rivalry between the finder and the owner. An insidious complication would be if the book states that the owner plans to slay the apprentice to see if the spell for summoning a ghost works. While not an infraction of the Hermetic Code, it could raise moral objections in a compassionate reader.
 
@@ -5194,7 +5194,7 @@ first spell to another person. The level of the affected spell must be less than
 
 Required Lab Total: Dependent upon level of spell
 
-# *A Living Corpse Using Magical Enchantments*
+# A Living Corpse Using Magical Enchantments
 
 The longest a living corpse can remain using Hermetic spells is one year, the maximum duration of Hermetic formulaic spells. This serves for some purposes, but if a magus wants to create a longer-lasting living corpse, he must create enchanted items that can maintain their spell-like effects indefinitely. He still needs to personally cast the spell that summons the ghost, because *Incantation of Summoning the Dead* is a ritual spell, and ritual spells cannot be instilled into enchanted items.
 
@@ -5212,7 +5212,7 @@ on the corpse. He might encircle the area with a *Ring of Warding Against Spirit
 
 After summoning the ghost using the regular Hermetic spell, *Incantation of Summoning the Dead*, the necromancer speaks the command word for the Denarius, which binds the ghost to the coin. He then speaks the command word for the Greave and at the same time casts the spell *Passing the Reins of Corpus*. Because he
 
-# *Muto Vim Spells and Enchanted Devices*
+# Muto Vim Spells and Enchanted Devices
 
 Muto Vim spells affect other spells, as described in the Muto Vim Guidelines (**ArM5**, page 159). Muto Vim spells can also affect spell-like effects instilled in enchanted devices, as long as certain conditions are met. Some of these conditions are explicitly stated in the Muto Vim Guidelines, and others have to be interpreted. To avoid confusion, they will be made explicit here.
 
@@ -5504,7 +5504,7 @@ After the book is enchanted, the necromancer creates a revenant using a ritual s
 
 Once completed, the living corpse is a combination of the summoned ghost and the revenant. The living corpse's Magic Resistance is the ghost's. Both ghost and revenant have Magic Resistance prior to combining the two into a living corpse, but after the living corpse is created, the ghost's Magic Resistance supersedes the revenant's Magic Resistance. The ghost is bound in the Grimoire, so its Magic Resistance protects the book, just like a magus' Parma Magica protects his clothes and worn personal items. Because the revenant is wearing the book, it too is covered by the ghost's Magic Resistance. If the living corpse detaches the book, the revenant is
 
-# *Spells to Make and Shape a Bone Book Cover*
+# Spells to Make and Shape a Bone Book Cover
 
 #### **Bequeathing Salome's Request**
 
@@ -5547,7 +5547,7 @@ Two books are necessary. The first is instilled with *The Turquoise Stone-Soul* 
 
 If a necromancer wants to become a living corpse, he can instill the necessary spell-like effects into his talisman. Unlike other types of enchanted devices, a talisman is not restricted in the number of powers, it can hold by its shape and material form. Rather, the sum of the magus' highest Technique and Form determines the talisman's maximum capacity of pawns of vis, which in turn determines the number of instilled powers the talisman can hold, and the limit increases as the magus improves his Arts. A second benefit of using a talisman is the Range of the instilled powers. Because a talisman is considered part of a magus, the spell-like effects can be instilled with Personal Range. This decreases the final spell-like effect total by a magnitude and bypasses any residual Parma Magica the magus may have (see "A Personal Living Corpse," later). Two example talismans
 
-# *Story Seeds: In the Graveyard*
+# Story Seeds: In the Graveyard
 
 At some point in a necromancer's life, he will probably go rooting around in the local graveyard, looking for material components or a supply of corpses. While it's easy enough with Hermetic magic to create corpses, it costs vis to make them permanent. Most magi find it easier to send a group of grogs out on a rainy night to retrieve various charnel bric-a-brac from a nearby graveyard. In medieval parlance, a "graveyard" or "boneyard" is an enclosed space lying adjacent to a church. It is not interchangeable with "cemetery," which refers to a subterranean burial crypt like the catacombs found beneath Rome.
 
@@ -5567,7 +5567,7 @@ are the Hand Mirror of Circe and the Staff of the Witch of Endor.
 The Hand Mirror of Circe is a small, silver mirror with a shaped skull handle and decorative amber and turquoise stones set around the mirror's face. This collection of materials provides several Shape and Material bonus for the talisman's enchantments. A mirror provides a Shape and Material bonus of +3 for both summoning and controlling ghosts. Instead of shaping a human skull into a book cover, it is shaped into a handle, which provides a +3 bonus for corpses. A turquoise gem grants a +4 bonus for necromancy, and an amber stone provides a +3 bonus for corpses. A magus might also want to invent effects that make the item more durable. Circe was the most powerful necromancer in the Classical Greek myths, having taught
 
 
-# *Story Seeds: In the Graveyard (cont'd)*
+# Story Seeds: In the Graveyard (cont'd)
 
 from consecrated ground. As the grogs ponder their predicament, one of the diggers spies them and raises the alarm. What will they do?
 
@@ -5592,7 +5592,7 @@ Ulysses enough necromantic lore to journey to Hades.
 
 The Staff of the Witch of Endor is carved from a cypress tree. Cypress provides a Shape and Material bonus of +3 for necromancy, which would cover all the necessary instilled effects. It is not uncommon for a wizard to have a staff, and few would suspect that a living corpse's staff is actually keeping him whole. Whereas Circe is the most famous pagan necromancer, the witch of Endor is the most famous necromancer in the Christian tradition.
 
-# *A Personal Living Corpse*
+# A Personal Living Corpse
 
 A necromancer who wants to become a living corpse has two options. The easiest is to ask a trusted associate to perform the living corpse operation after the necromancer's death. The necromancer constructs the required enchanted items, instilling as much Penetration as possible. Once complete, he entrusts the enchanted items to a second magus, who promises to summon the necromancer's ghost after death. The magus needs to provide a fresh corpse for the ghost, and affix the enchanted items to it. If the necromancer is particularly fond of his own body, he could insist that his compatriot use it, instead of another. The necromancer might wear the enchanted items in anticipation of becoming a living corpse. Needless to say, the necromancer must trust this assistant implicitly, literally placing his un-life in the second magus' hands. If the magus refuses to summon the necromancer's ghost, then all is for naught.
 
@@ -5604,7 +5604,7 @@ Becoming a living corpse unassisted is not a guaranteed process, and there are m
 
 If any of these falls short — the ghost flees, the spell-like effect is targeting a ghost from a different realm that it was designed for, or the effect fails to Penetrate — the process fails. Timing can be important. If the process works, the ghost is still stopped by the *Ward Against Spirits*. The necromancer must calculate how long he wants the ward to last, compared with when his device to bind the ghost will trigger. Using the Orb for the Spectral Sovereign example (see earlier), the
 
-# *The Third Method*
+# The Third Method
 
 Not every magus is prohibited from instilling Ritual spell-like effects into enchanted devices. The Minor Mystery Virtue: Hermetic Empowerment (*The Mysteries Revised Edition*, page 64) allows this very activity, and a magus privy to this secret lore can create an enchanted device that can summon a ghost. The frequency — or even existence — of this Virtue depends on your troupe and the saga you are playing. It might not exist. If it does it should be rare, like the other Mystery Virtues, and difficult to acquire. Because it is
 
@@ -5613,11 +5613,11 @@ so rare and not generally available for the typical magus, this chapter will not
 
 necromancer must ensure that the ward lasts past sundown, when the orb's linking trigger activates the primary power, but ends afterwards. Using standard Hermetic Durations, this means that the ward must have a Duration: Moon, giving the living ghost plenty of time to acclimate to his new condition. Another solution would be to create a Perdo Vim device that the living corpse could use to remove the ward.
 
-# *The Living Corpse*
+# The Living Corpse
 
 If everything works as planned, the character — presumably a magus — becomes a living corpse, and the player needs to redo his character sheet. He must remake his character and, while he has some latitude, other choices will already be fixed by choices made in the character's life. *Realms of Power: Magic* is an essential tool for creating the living corpse character.
 
-# *On Ghosts and Spirits*
+# On Ghosts and Spirits
 
 Spirits are the overall rubric used to describe immaterial supernatural entities. They are "a mind, memory, image, or idea somehow brought to life" (*Realms of Power: Magic*, page 45). **Genius** spirits are those that are created as such, and **animus** spirits are those that were once material but ceased to be. Ghosts fall under this second type of spirit. Hermetic theory catalogues three types of ghosts: **apparitions**, **shades**, and **specters**. Apparitions have the most memories of their life and specters the least, with shades falling somewhere in the middle. An additional subclass of ghosts is the animating spirit that controls a revenant, one of the walking dead. Much weaker than even a specter, this animated spirit is intricately entwined with the corpse that it controls. Ideally, the necromancer wanting to become a living corpse hopes his ghost becomes an apparition, to retain the highest degree of memory. Coming back from death as a shade will severely limit his capabilities, and returning as a specter is little better than the animating spirit that controls a shambling corpse.
 
@@ -5640,7 +5640,7 @@ Being affiliated to the Magic realm — possessing the Gift — has absolutely n
 - 3 The spirit is mindless and passion-
 
 
-# *Rate of Decomposition*
+# Rate of Decomposition
 
 Bodily decomposition is easy to prevent with Hermetic magic; a mere second magnitude Creo Corpus spell averts human putrefaction. Without such effects, however, a body decomposes fairly rapidly. It may be the case that a necromancer is animating a corpse not recently deceased. Perhaps he is animating a companion who has lain dead for a week, or tearing one from a month-old grave mound. Using the original stats of the animated character, adjust them accordingly to the time between death and reanimation.
 
@@ -5667,7 +5667,7 @@ Being affiliated with the Magic realm indicates a distinct possibility that the 
 
 These options should only be available for Gifted characters, those already associated with the Magic realm. If a non-Gifted character becomes a living corpse, and the players must decide what type of ghost his spirit becomes, use the listed options but ignore any mention of shades and apparitions. Unless he has supernatural Abilities affiliated with the Magic realm, an unGifted character always becomes a specter, if he becomes a magic ghost at all.
 
-# *Magic Realm Living Corpse*
+# Magic Realm Living Corpse
 
 The most common type of spirit attached to an animated corpse is a magic spirit. Not that the Magic realm has more ghosts than the other realms — it may or may not — but magi, being already associated with the Magic realm, usually use spirits from that realm. Because a Hermetic necromancer is more inclined to use magic ghosts — he has sworn an oath not to meddle with Infernal spirits — magic ghosts get more coverage than their other realm counterparts.
 
@@ -5703,7 +5703,7 @@ The living corpse has the same Characteristics that the character had while livi
 
 
 
-# *Darius as a Living Corpse*
+# Darius as a Living Corpse
 
 This example takes Darius of House Flambeau (**ArM5**, page 34) and recasts him as a living corpse. It assumes that he constructed a Necromancer's Grimoire as a talisman, the ritual suicide worked in creating a ghost, and his ghost was bound to a fresh corpse. Speculating that Darius' saga is Medium Powered and that he became a shade at death, he begins with a Magic Might of 10 and 720 experience points to repurchase Abilities. He has 10 additional Qualities that are balanced with a like number of Inferiorities. He has magically created a fresh corpse (see stats listed later) for his ghost to control.
 
@@ -5782,7 +5782,7 @@ Perhaps the best use of Qualities is selecting Powers. A newly transformed livin
 
 A magus has a variety of Personality Traits, indicative of the complexity of the human psyche. A ghost does not; it has one overriding Personality Trait that consumes its thinking. The character's highest Personality Trait becomes its sole Personality Trait, and its value is doubled to reflect the passion and directness of purpose of a returning spirit. In the case of a tie, the player may choose the ghost's Personality Trait.
 
-# *Other Realm Ghosts*
+# Other Realm Ghosts
 
 Spirits from other realms besides the Magic realm can be summoned and bound to a living corpse. If a magus is making a living corpse instead of becoming one, he can decide which type of ghost to summon, bearing in mind that spells and devices must be realm-specific. For example, if he wants to summon and bind a Divine ghost, spells and enchanted devices must be invented to target Divine spirits. All such spells will still be Rego Mentem spells, but a Rego Mentem spell designed to summon a ghost affiliated with the Magic realm (Magic Might) will not work on a ghost affiliated with any other realm.
 
@@ -5822,13 +5822,13 @@ Even though this is a faerie and not a ghost, it is still bound by the Hermetic 
 
 Creating a faerie ghost player character is exactly the same as creating a faerie player character, and the player will need to use the rules provided in *Realms of Power: Faerie*. A player character faerie's Might always starts at 5; ignore any rules given in this chapter for determining the Might of a ghost. The faerie must take the Flaw Intangible Flesh, but other Virtues and Flaws can be selected as desired. Pretenses and powers should be designed that aid the faerie in the particular tale it wants to re-enact, and the player may focus on certain Abilities and spells that the necromancer had in life, which are now mirrored and amplified with faerie Pretenses and powers.
 
-# *Life as a Living Corpse*
+# Life as a Living Corpse
 
 The living corpse transformation completely changes the necromancer, with physical, mental, and spiritual consequences. Physically, he retains a semblance of life and may pass for one of the truly living. Not every living corpse looks like a rotting, shuffling dead man. Hermetic spells and magical powers can easily alter the appearance of the host, disguising putrefaction, coloring pallid flesh, and growing lost hair. A living corpse is mentally impaired; at best, he retains many of his memories but not all, a condition that leaves him emotionally temperamental, probably unhinged, and potentially volatile. A living corpse has a single, intensified Personality Trait that overrides his thinking, coloring every decision he makes. Spiritually, a living corpse is lost. The connection that bound soul to spirit is severed, and however a soul and spirit are connected in a living man, they are forever separated in an undead man.
 
 Although it can no longer cast spells, a living corpse has magical powers, many of which copy favorite spells the character could cast during life. A former magus who becomes a living corpse might try participating in Hermetic society. Many wizards are secretive, sanctums are private places, and Temporary Twilights leave scars from Warping. A living corpse may not seem that weird when compared to other, older magi. If he is only seen occasionally, the living corpse might continue to fool his sodales into thinking he is alive. If he is careful, other magi will not
 
-# *Hermetic Interactions*
+# Hermetic Interactions
 
 A living corpse is rare; canonically, there isn't a single example of one. Hence, there are no Hermetic legal provisions that pertain to an undead magus. The assumption that a magus is no longer covered by the Code of Hermes after he dies may be false. Those looking for a precedent will find one in the Rhine Tribunal, which does not recognize magi entering Final Twilight as dead, merely retired, and their sigils are still available (*Guardians of the Forests*, page 16).
 
@@ -5844,7 +5844,7 @@ Doing this does not cancel the effects maintained by the enchanted device that m
 
 
 
-# *Destroying the Enchanted Device*
+# Destroying the Enchanted Device
 
 Keeping the enchanted device that empowers the living corpse intact is of prime importance. According to the Damaged Goods rules in *City & Guild*, pages 77–79, an item that is physically damaged must make a Stress Check to avoid losing Damage Levels, which operate much like Fatigue Levels. Hermetically enchanted items have a bonus to this check, equal to the total number of magnitudes invested in them.
 
@@ -5883,7 +5883,7 @@ Rego Vim and Rego Mentem spells are also problematic, although not as dangerous 
 
 Death severs the magus-familiar
 
-# *Created Corpse*
+# Created Corpse
 
 **Characteristics:** Int n/a, Per n/a, Pre n/a, Com n/a, Str +3, Sta +3, Dex +1, Qik 0
 
@@ -5909,7 +5909,7 @@ bond, and if the living corpse had a familiar prior to his transformation, he lo
 
 Advancing Abilities, increasing Magic Might, and learning new powers are difficult. Like other magical creatures, it must undergo a transformation to learn new things (*Realms of Power: Magic*, page 52), and even then, the only new things it can learn must be represented as Magical Qualities.
 
-# *Animated Custos*
+# Animated Custos
 
 **Characteristics:** Int n/a, Per n/a, Pre n/a, Com n/a, Str +1, Sta +1, Dex +2, Qik +1
 
@@ -5937,12 +5937,12 @@ Advancing Abilities, increasing Magic Might, and learning new powers are difficu
 
 The animated custos is an example of a slain grog character, animated to continue serving the magus. Based on the Specialist grog template, a common sample shield grog (**ArM5**, page 21), the example character has lain dead for an entire day before being animated. Without preservation magic, putrefaction will continue to reduce the corpse's physical Characteristics.
 
-# *A Necromantic Miscellany*
+# A Necromantic Miscellany
 
 A Hermetic wizard's necromantic interests will likely spill over into other areas tangental to summoning ghosts and animating corpses, and it is reasonable to assume that he will have a collection of spells and magic items pertaining to this predilection.
 
 
-# *Creating and Animating Corpses*
+# Creating and Animating Corpses
 
 Creating a human corpse and animating it is easy and hardly needs a specialist magus. Those who do specialize in necromantic magic may desire more complex spells, and there are a variety of useful spells available.
 
@@ -5969,7 +5969,7 @@ Required Lab Total: 1 season (40), 2 seasons (30), 3 seasons (27), 4 seasons (25
 
 Required Lab Total: 1 season (40), 2 seasons (30), 3 seasons (27), 4 seasons (25)
 
-# *A Walking Colossus*
+# A Walking Colossus
 
 A colossus is simply a giant corpse, which uses the same stats as a regular animated corpse, adjusted for its increased size.
 
@@ -6003,7 +6003,7 @@ Individual commands cannot be issued to a particular member of the group; every 
 
 (Base 10, +2 Voice, +2 Sun, +2 Group) Required Lab Total: 1 season (80), 2 seasons (60), 3 seasons (54), 4 seasons (50)
 
-# *Created Revenant*
+# Created Revenant
 
 A created revenant has the same stats as a revenant found in the field. Add the following information to the stats for the Created Corpse.
 
@@ -6095,7 +6095,7 @@ Required Lab Total: 1 season (100), 2 seasons (75), 3 seasons (67), 4 seasons (6
 
 This ritual creates a revenant — one of the magical walking dead. Different from an animated corpse, a revenant is a malefic creature with a Magic Might of 9. While it is lacking intelligence, a revenant possesses a violent personality and, if not immediately magically controlled, it attacks
 
-#### *Hermetic Projects*
+#### Hermetic Projects
 
 the nearest living creature. The Auram and Terram requisites are necessary for instilling the revenant's magic powers.
 
@@ -6131,11 +6131,11 @@ Required Lab Total: 1 season (70), 2 seasons (53), 3 seasons (47), 4 seasons (44
 
 
 
-# *Grave Hounds*
+# Grave Hounds
 
 Dogs are popular companions and guardians. But living dogs must be fed and maintained, and shy from a Gifted magus. Dead dogs provide similar services without daily upkeep, or balking at a magus' Gift.
 
-#### *Hermetic Projects*
+#### Hermetic Projects
 
 #### **The Collar of Charon**
 
@@ -6166,7 +6166,7 @@ While designed to allow the wielder to command dead dogs, animated by Collars of
 
 Required Lab Total: 1 season (78), 2 seasons (59), 3 seasons (52), 4 seasons (49)
 
-# *Grave Hound*
+# Grave Hound
 
 Despite its name, a grave hound is simply a dead dog animated by Hermetic magic. A grave hound is not a magical beast and does not have a Might score or powers. Because the grave hound is not a Magical Animal but merely an animated corpse, it does not have mental Characteristics. Its physical Characteristics and Abilities assume that it is either recently dead or has been magically preserved from putrefaction. As a dead thing, a dead dog does not have Fatigue Levels. Similar to revenants, a dead dog cannot be Incapacitated.
 
@@ -6191,9 +6191,9 @@ Despite its name, a grave hound is simply a dead dog animated by Hermetic magic.
 **Appearance:** Depending on how long the dog has been dead, it looks very much like a live dog. Closer inspection will reveal its glassy, opaque eyes and fetid breath.
 
 
-# *Chapter Seven*
+# Chapter Seven
 
-# *The Menagerie of Magical Beasts*
+# The Menagerie of Magical Beasts
 
 Medievals loved their animals, as is obvious from their ornate bestiaries to their legendary animal tales. The rich and powerful would maintain menageries collections of exotic animals kept for enjoyment and prestige. Forerunners of the modern zoo, menageries were not open to the public and were accessible only by the owner and his select friends.
 
@@ -6203,7 +6203,7 @@ Easy to imagine, a menagerie is difficult to actualize, and several stages of de
 
 Many of the stages of running a magical menagerie can be accomplished by magic, but achievement shouldn't depend upon Lab Totals and casting totals. Adventures should be the building blocks of success, and a working menagerie should be founded, fueled, and finalized by stories played by the troupe. A storyguide should consider each stage of the project a story seed, and a player whose magus desires a menagerie should expect — nay, *insist* — that a story be had to determine how successful each step of the venture is.
 
-# *Location and Establishment*
+# Location and Establishment
 
 Whether a maga wants a private menagerie or a magical animal stud farm, the location of the final venture is important. Only the smallest, most personal menagerie will fit in her sanctum; if she has any ambition, she will need a larger space. The location of the wild animals is also important, since few magical beasts will be found within walking distance. She will need to visit many distant sites to find her four-legged, winged, or finned treasures, and have a notion as to where she wishes to keep them.
 
@@ -6226,11 +6226,11 @@ Instilled in a small rock crystal (+5 shape and material bonus to Lab Total), th
 
 (Base 1, + 1 Touch, +2 Sun, +4 Vision) Required Lab Total: 1 season (40), 2 seasons (30), 3 seasons (27), 4 seasons (25)
 
-# *The Building Site*
+# The Building Site
 
 Besides the strength of the magic aura, the acreage of the potential site is also important. Creatures need space, and the more room an animal has to move around, the happier it will be. The more closely the containment site mirrors a creature's natural habitat, the more likely it will be to breed. The spot selected for the menagerie should closely resemble the area the creature is used to. If a maga plans an assortment of livestock, he might have to make many changes to the menagerie's landscape if she wishes to house all of her
 
-# *Can I Make a Magic Lore Roll?*
+# Can I Make a Magic Lore Roll?
 
 Magic Lore covers knowledge of "magical creatures, areas, and traditions," and the prospective menagerie manager's player will want to make Intelligence + Magic Lore rolls to discover where to begin his search, as well as to find answers to a great many other questions. A storyguide must be careful how much information a successful Magic Lore roll reveals, always mindful that a good roll should propel a story forward, not circumvent the session's adventure with an easy victory. The following guidelines may help a storyguide
 
@@ -6266,7 +6266,7 @@ A cautious magus should avoid damaging any existing tethers, which draw mystical
 
 Instilled in an oak wand, this effect matures a plant in about two hours. Typically, a person carries the wand and a sack of live acorns. Pushing the acorn into the ground, he then touches it with the wand, speaks the command word, and gets out of the way. This enchanted device is not limited to oaks and acorns,
 
-# *Story Seed: A Grisly Find*
+# Story Seed: A Grisly Find
 
 The characters are charged with visiting a Verditius magus who has lost touch with the Order, perhaps as a common courtesy, or on important covenant business. Traveling to a distant location, the magus' last known residence, they find an abandoned building hidden in a regio. The interior is moldy and dusty, and the characters accurately surmise that no one has lived within for several decades. In the sanctum, they find several rotting skeletons, one human and the rest goats. Locked in a stall in the rear of the sanctum are two living goats, one male and one female, who bleat angrily. Reading through the available laboratory notes, the characters discover that the Verditius magus was breeding the goats and then siphoning off the Magic Might of the young to empower his enchanted devices. The cracked skull of the human skeleton suggests that perhaps one goat victim overcame its captor. With a little work, the building could be restored, with the added bonus of a ready pair of magic goats.
 
@@ -6278,7 +6278,7 @@ however, and will mature any plant from a seed to full growth.
 
 Required Lab Total: 1 season (90), 2 seasons (68), 3 seasons (60), 4 seasons (57)
 
-# *The Buildings*
+# The Buildings
 
 "The stables for the livestock will be such as not to be affected by either cold or heat. For the draught animals there should be a double set of stalls for winter and summer; for the rest of the livestock that belongs within the farmstead there should be paddocks surrounded by a high wall to prevent attacks by wild beasts, and with a roofed part where the animals can rest in winter and an open part for the summer …"
 
@@ -6305,7 +6305,7 @@ The complete set of buildings should be arranged in a pleasing and auspicious ma
 
 Required Lab Total: 1 season (50), 2 seasons (38), 3 seasons (34), 4 seasons (32)
 
-# *The Backers*
+# The Backers
 
 Constructing a menagerie takes considerable time and resources, and not every magus will have the wherewithal to accomplish the goal alone. Those with an entrepreneurial spirit may seek out backers, magi of means willing to finance the operation in return for future benefits. The initial investments vary: vis is always appropriate, money can pay the staff and provide supplies, land allows for building sites, or personal magical assistance can help with specific magical requirements. A maga could, for example, agree to donate one season of lab work a year, in return for annual payouts.
 
@@ -6313,7 +6313,7 @@ The scale of the backers' investment depends on the final vision of the menageri
 
 There are no mechanical rules for backers, how many any player character needs or what type of resources each has to give. A backer exists primarily to drive stories, as his wants and demands have an impact on the functioning menagerie. Backers have a variety of motivations for
 
-# *Integrating Covenants*
+# Integrating Covenants
 
 A menagerie could be designed as a covenant, and a covenant could be designed to include aspects that lend themselves to a menagerie. If you are in the position of designing a covenant and wish to include features earmarked for a menagerie, the following suggestions might be useful. All page numbers refer to the *Covenants* supplement.
 
@@ -6336,7 +6336,7 @@ Potential backers might be:
 - • A Bonisagus magus offers to donate a season of lab work a year in return for the opportunity to experiment on one of the livestock for one season every other year.
 - • A Tytalus magus offers ten Mythic Pounds a year to pay for the staff if the menagerie owner agrees to capture every magical hawk he sees (naturally, there is a specific hawk the magus has in mind).
 
-#### *Hermetic Projects*
+#### Hermetic Projects
 
 - • A Verditius maga offers to make three items of enchantment in return for a magical hedgehog aligned with Terram (a future familiar).
 - • A Verditius magus offers to make six lesser enchanted items for the menagerie, in return for six magical animals of any type (he only wants them to drain their Magic Might to empower his magic items).
@@ -6348,11 +6348,11 @@ Potential backers might be:
 - every Spring for ten years, in return for a magical, talking horse (he leaves as soon as he gets his horse).
 - • A Flambeau magus offers ten pawns of vis annually for ten years, in return for the chance to battle every dragon the menagerie owner finds (he'll start demanding that the owner find him a dragon after the second year).
 
-# *Livestock*
+# Livestock
 
 The vast majority of magical animals are Beasts of Virtue, described in detail in *Realms of Power: Magic*, pages 55–66. Beasts of Virtue are exemplary versions of the mundane kinds, so much so that they gain Magic Might and often magical powers. A Beast of Virtue does not simply pop into existence, but is derived from the mundane line, much like a magus has a mundane, unGifted mother and father. Hermetic magic cannot create a Beast of
 
-# *Integrating Covenants (cont'd)*
+# Integrating Covenants (cont'd)
 
 needed to manage a menagerie, but the players will still need to spend covenant build points on specialists (see Staffing, later). Several of the other Residents choices include magical beasts as steeds (Magical Soldiers) or magical animals (Inhuman Residents). Prestige (Minor External Relations Boon) could be a consequence of a magical menagerie at covenant start-up, or a Boon that crops up once the menagerie is established. A covenant with Hermetic Services (Major External Relations Hook) could be bound to provide magical animals to other magi as familiars or vis sources, meaning that maintaining the menagerie is of primary importance. Mystical Allies (Major Surroundings Boon) could provide a source of livestock if the allies are magical animals. Harvesting the herd might, however, affect the ally relationship. A Chase (Minor Surroundings Boon) is a mundane breeding farm that
 
@@ -6374,7 +6374,7 @@ A second type of magical beasts is Beasts of Legend, which includes the many sor
 
 The least, and most tainted, type of magical beast is Transformed Animals, creatures warped by powerful magic. A Transformed Animal does not have Magic Might, nor will it reproduce a second version of itself. Without Magic Might, it would live in a menagerie only as a curiosity. However, a Transformed Animal offers good practice for staff members, who can learn to deal with a weak magical beast before being charged with the care of a proper magical animal.
 
-# *Insects*
+# Insects
 
 In his *Natural History*, Pliny divides animals into four categories: land animals, creatures of the sea, birds, and insects. **ArM5** lists four categories of animals as well: birds, fish, hoofed beasts, and clawed beasts (*Houses of Hermes: Mystery Cults*, Appendix: Mundane Beasts, pages 38–43). The division of land animals into hoofed and clawed is a useful distinction for generating game statistics. Because magical animal stats are based on mundane animal stats, it is difficult to assign stats to a magical insect, without rules for mundane insects. This insert offers information for creating insects, following the guidelines set forth in *Houses of Hermes: Mystery Cults*.
 
@@ -6395,7 +6395,7 @@ In his *Natural History*, Pliny divides animals into four categories: land anima
 | Aggressive Crawler     | –13    | –26  | 0  | +3  | +14   | Ant         |
 | Non-Aggressive Crawler | –15    | –30  | +2 | +1  | +17   | Dung Beetle |
 
-# *Finding Magical Creatures*
+# Finding Magical Creatures
 
 Magical creatures need magical auras, but they are not specifically bound to particular areas, nor do they need to spend their entire lives in them. Hunting for populated auras and regiones is a good start, but often the trail begins in rumors,
 
@@ -6414,7 +6414,7 @@ Having the creature come to the magus is another preferred method, and baiting a
 Some creatures are readily recognized as magical, such as griffins, manticores, and rocs. Others are not, especially from a distance, and a magic hawk might look like a mundane hawk. Hermetic magic can detect magical animals. Intellego Vim spells can be designed to indicate that a target creature is magic. Such a spell must Penetrate the target to reveal any information. However, a spell failing to Penetrate a targeted creature usually means that the creature has some sort of Magic Resistance, as every creature with a Magic Might has. Creatures of other *Hermetic Projects*
 
 
-# *Bees, a Preferred Stock*
+# Bees, a Preferred Stock
 
 Bees are universally held in high acclaim. They are mysterious, intelligent, and holy; their wax is used to make church candles; and their honey is one of the few sweeteners available in the Western medieval diet. Many people, from rich to poor, desire bees and subsequently know a lot about them. Bees must be informed of all goings-on of the household or they will depart. They easily take offense at rude words or loud arguments, and many people claim they have heard bees hum hymns on Christmas and other holy holidays. Bees mimic the natural order of man, with the king leading the hive, the knights protecting the hive, and the many workers happily providing the food.
 
@@ -6441,7 +6441,7 @@ mand. Such noise is very effective in drawing curious predators, especially thos
 
 Required Lab Total: 1 season (18), 2 seasons (14), 3 & 4 seasons (12)
 
-# *Creating Magical Creatures*
+# Creating Magical Creatures
 
 The Order of Hermes has spells that create magical animals, causing the lazyminded to think that finding a magical animal is a needless bother. Correct to a degree, the rub is that such rituals are always high-magnitude ritual spells, and the time spent researching and inventing one of these rituals could be spent gathering a multitude of different types of creature. These rituals are creature-specific, in that a Creo Animal spell with an Ignem requisite designed to create a salamander will not create another magical beast that may also be aligned with Ignem. Besides creating a specific creature, the ritual also creates a pre-designed gender for the created beast, meaning that one ritual will not create both a male and a female. A second ritual will need to be invented if the maga wants to ultimately breed her created creatures, otherwise she will have to find a partner for the creature she created.
 
@@ -6453,7 +6453,7 @@ magical powers to the created beast).
 
 **CrAn(Me, Vi)** 60 **R:** Touch, **D:** Mom, **T:** Ind, Ritual
 
-# *Story Seeds for Finding Magical Creatures*
+# Story Seeds for Finding Magical Creatures
 
 #### **The Bottomless Pool**
 
@@ -6485,7 +6485,7 @@ This spell creates a dragon, which has the same statistics and powers as Stellat
 
 Required Lab Total: 1 season (160), 2 seasons (120), 3 seasons (107), 4 seasons (100)
 
-# *Capturing Magical Creatures*
+# Capturing Magical Creatures
 
 "It is strange that most animals know why they are hunted, and almost all of them know what to be on guard against."
 
@@ -6493,13 +6493,13 @@ Required Lab Total: 1 season (160), 2 seasons (120), 3 seasons (107), 4 seasons 
 
 Once found, a creature will have to be captured, and people have historically used many clever methods for trapping various creatures. Snares are a favorite for small animals, but they have to be checked regularly to make sure a captive animal hasn't chewed its own leg off to get out of the snare. Larger animals are often chased to exhaustion and then lassoed. Fish can be caught using hooks and lures, nets, and sometimes underwater traps. Birds are usually captured while young, before they can fly, although elaborate wooden traps can also be erected and sprung once the bird has flown inside. Larger animals might be driven into concealed cages or prepared pits in the ground.
 
-# *Optional Grappling Rule*
+# Optional Grappling Rule
 
 Grappling is a type of non-lethal combat, described in **ArM5**, pages 174-175. Using the rules as listed allows a character to wrestle a beast to the ground, provided of course that the character's martial skills are up to the job. The difficulty is that the grappled character (or beast, in this instance) never tires, and the two can keep grappling all day and all night without penalty. For players interested in grappling live beasts to capture them, an optional addition to the regular grappling rules is offered.
 
 Every time a grappled character attempts to break free from his attacker and fails, he must make a Stamina + stress die roll against an Ease Factor of the Grapple Strength. Failure results in the loss of a Fatigue Level. Botching this roll costs two Fatigue Levels, with additional Fatigue Levels lost for additional zeros on the botch dice. Most animals will not wrestle themselves into Unconsciousness, and cease struggling when they are reduced to Dazed.
 
-# *Unicorns*
+# Unicorns
 
 First described by the Greek Cresias in the fourth century B.C., the unicorn is an Indian beast as large as a horse, with a white body, red head, and blue eyes. Its foot-long horn is also tri-colored: white at the base, black in the middle and bright red at the tip. The unicorn is uncatchable, swifter than any other animal and extremely fierce. Described again in the *Physiologus* (Naturalist), a third century collection of animal descriptions compiled in Alexandria, the unicorn is only the size of a young goat and completely white in color. This unicorn is also swift and fierce, regularly killing elephants and other dangerous beasts. Rather than one description being false, in Mythic Europe these texts describe two breeds of unicorns, one Western and the other Eastern.
 
@@ -6550,11 +6550,11 @@ Instilled in a wand or a staff tipped with a topaz (+5 Shape and Material Bonus 
 
 Required Lab Total: 1 season (114), 2 seasons (86), 3 seasons (76), 4 seasons (72)
 
-# *Transporting and Containing*
+# Transporting and Containing
 
 Once captured, the bound beast needs to be moved back to the menagerie and kept. After capture, beasts often
 
-# *Story Seed: A Curiously Common Bait*
+# Story Seed: A Curiously Common Bait
 
 According to several bestiaries, cow's milk is one of the most desired food substances of many magical animals. Many creatures delight in climbing a cow at night and supping from her udder, including snakes, bats, and hedgehogs. A bestiary's more fantastic tales usually recount the behavior of a magical Beast of Virtue instead of mundane examples of the breed, making a maga think that any animal that follows such behavior must be magical. A common ploy is to leave a cow unattended in a field all night and wait for a magical animal to appear for dinner.
 
@@ -6630,7 +6630,7 @@ This power turns an animal into a crate for a month. The animal does not need to
 
 Required Lab Total: 1 season (110), 2 seasons (83), 3 seasons (74), 4 seasons (69)
 
-# *Feeding*
+# Feeding
 
 A cow can eat up to 30 pounds of grass in a day and a wolf can gobble down 20 pounds of meat in a single meal. But more important to **Ars Magica Fifth Edition** stories are the type and availability of a beast's food, rather than how much of it is necessary for survival. Magical animals do not need to eat, although most enjoy it. Magical creatures that are starved will not die, but will desperately desire to escape, be more prone to violence, and will refuse to reproduce. Providing adequate food and water can be one of the many challenges that hinder developing a menagerie.
 
@@ -6643,7 +6643,7 @@ could be derived from a lack of adequate food stocks. Magical animals should hav
 
 A magical alternative is to create foodstuffs using appropriate Creo spells. Nutritious food can only be created using rituals spells. Formulaic spells will create the food, which the animal will eat, but will not provide the same satisfaction as permanent food. Non-permanent food is better than no food, but will still leave the animal agitated and temperamental.
 
-# *Healing*
+# Healing
 
 Just like humans, magical creatures are susceptible to ill health, the most common cases being either trauma (injury) or disease. Both are treated the same way for creatures as they are for humans (*Art & Academe*, pages 56–61), and both can be remedied by Hermetic magic. The main distinction is that the only necessary Ability for treating both trauma and disease is Animal Handling. Medicine and Chirurgy are ineffectual when used on animals and are solely used for curing human beings.
 
@@ -6692,7 +6692,7 @@ Minor Melancholic Disease, Severity 12 **Stable:** 12, **Improve:** 18, **Interv
 
 **Symptoms:** Spavin is very difficult to diagnose because the symptoms are not easily noticeable. Sometimes a joint will appear swollen, but usually only over a very long time.
 
-# *Mystical Branding*
+# Mystical Branding
 
 Just like a tattoo on a Criamon magus, an animal's brand can also be enchanted as a magical device. After being branded, the animal will need to be kept in the magus' laboratory for a season or more, depending on what type of enchanted device the magus is creating. A brand has a material score of 2, multiplied by the size modifier. A regular brand, about the size of the magus' palm, has a multiplier of 2. Larger brands have a larger multiplier, but cause the animal increased discomfort. A brand that covers an animal's haunch has a multiplier of 3, and a brand that covers its entire back a multiplier of 4. The instilled effect will cause Warping on a mundane animal, since it is either a constant or powerful mystical effect (depending on the magnitude of the spell). Magical creatures are immune to such Warping. In fact, constantly being under the effect of an enchanted brand may help prevent Acclimation points (*Realms of Power: Magic*, page 52).
 
@@ -6744,7 +6744,7 @@ The brand protects a beast from a mundane thief. When a human hand touches the b
 
 Required Lab Total: 1 season (50), 2 seasons (38), 3 seasons (34), 4 seasons (32)
 
-# *Reproduction*
+# Reproduction
 
 "In every kind of quadruped it is a male of fine appearance which is the object of our careful choice, because the offspring is more often like its sire than its dam."
 
@@ -6762,7 +6762,7 @@ Animals that aren't considered "prime stock" are allowed to breed however it is 
 
 Some animals don't breed but reproduce through simpler generation, as explained in *Art & Academe*, page 30. Such animals are called worms, from the Latin
 
-# *Types of Animals*
+# Types of Animals
 
 Of the different types of animals — birds, fish, hoofed beasts, clawed beast, insects — each type has several **kinds** or groups. Lions, tigers, wolves, bears, and dogs are a few of the kinds of clawed beasts. Many kinds are again divided into **breeds**, lineages distinguished by particular physical qualities. The Norman destrier, the Irish hobby, and the Spanish jennet are all breeds of horses, and the greyhound, alaunt, and mastiff are all breeds of dogs. Lions have two breeds, according to bestiaries: short lions with curly manes, and tall lions with straight manes. The number of breeds of any kind of creature is entirely up to you, and in Mythic Europe there can be a variety of breeds of griffins, unicorns, or hedgehogs.
 
@@ -6789,7 +6789,7 @@ four categories: shape, color, merit, and beauty. These qualities are specific t
 
 **Crossbreeding**, or "breeding for the beast," is the process of mating two creatures from different breeds to produce a new type of breed or to induce physical traits from one breed into the other line. In a menagerie, a magus might want to cross a timid, short-maned magical lion with the
 
-# *Modern vs. Medieval Terminology*
+# Modern vs. Medieval Terminology
 
 Selective breeding and crossbreeding are modern terms. A medieval breeder would never use the terms "selective breeding" or "crossbreeding." Using animals that have the desired physical characteristic — be it shape, color, size, or temperament — as studs and dams is simple common sense. The breeder is breeding for the best results; he doesn't know that there is a specialized term for what he is doing. Crossbreeding along breeds — mating an Irish horse with a Norman horse, for example — is still focusing on the desired physical qualities. When crossbreeding along kinds, a medieval breeder would say he is breeding mules, referencing the final product as a name for the activity. If, in your saga, a magical female horse could breed with a magical male eagle and produce a hippogriff, the breeder would call it "breeding for hippogriffs," rather than "crossbreeding" a horse with an eagle.
 
@@ -6799,7 +6799,7 @@ With mundane creatures, breeding for the beast is most successful in certain kin
 
 Breeding for the beast also refers to the practice of breeding a magical beast with a mundane beast of the same type, hoping that the offspring will be magical or that a
 
-# *Original Research: Creating Inheritable Magical Traits*
+# Original Research: Creating Inheritable Magical Traits
 
 The most common way for a magus to make a mundane animal magical is by giving it Warping Points and hoping for the Supernatural Flaw: Monstrosity of (Form) to result. In this case, the consequential Power received from the Flaw is not part of the creature's essential nature, meaning that the beast cannot pass it on to its offspring. Creating spells that change a target's essential nature is considered impossible; Hermetic magic cannot permanently affect a target's essential nature, and the spell must be continually
 
@@ -6824,7 +6824,7 @@ This hollowed-out cow horn, placed against an animal, will indicate to the holde
 
 Required Lab Total: 1 season (50), 2 seasons (38), 3 seasons (34), 4 seasons (32)
 
-# *Birthing and Weaning*
+# Birthing and Weaning
 
 In **Ars Magica Fifth Edition**, birthing a beast follows the same rules as birthing a child, as detailed in *Art & Academe* (page 62). Essentially, treat the female as if she had a Medium Wound and make Recovery Rolls at regular intervals. For a Size 0 and smaller beast, make the roll every two hours. For larger beasts, double the interval for every Size category earlier 0. If she recovers, she delivers. A character skilled in Animal Handling can add her score to the recovery roll. This only applies to live births: hoofed beasts and clawed beasts. Animals that hatch survive on a Stamina + Survival + stress die vs. 9. As in live births, a trained handler can add his Animal Handling score to hatching young.
 
@@ -6848,14 +6848,14 @@ Instilled in a small wooden statue, this effect grants a mammal a +9 Recovery bo
 
 Required Lab Total: 1 season (78), 2 seasons (59), 3 seasons (52), 4 seasons (49)
 
-# *Magic Might and Maturity*
+# Magic Might and Maturity
 
 Is a magical animal born with its full Magic Might score, or does it increase during the animal's youth, reaching its maximum value when the animal reaches its maturity? Realms of Power: Magic does not answer this question, but does state that it takes many magical animals five years to reach full maturity, at which point they should have all their required Ability scores. The griffins described in Legends of Hermes do gain in Might as they grow in years; a mature male has a Magic Might of 30, while a hatchling has a Magic Might of 5. We suggest that other magical animals follow suit.
 
 A rough rule of thumb to determine its Might during its early years is to divide the adult creature's Magic Might by 5. If a creature matures sooner, say after 3 years, divide its adult Might by 3 to determine its Might at birth and in its juvenile stage. Your storyguide is the final arbiter. A magus interested in taming a magical animal will find it easier to train a youngling than an adult specimen, which makes a certain amount of sense.
 
 
-# *Taming and Training*
+# Taming and Training
 
 It is much easier to deal with a tamed beast than a wild one, and easier still with a trained animal. A magus who seriously contemplates creating a menagerie will probably take the time to tame the lead animals. Taming and training magical animals is covered in detail in *Realms of Power: Magic* (pages 81–82); these rules are repeated here for ease of play. Once captured, taming a beast is usually a matter of time. It is a laboratory activity, in which the magus generates a Lab Total based on his Rego plus appropriate Form and compares it to the beast's Magic Might score. The Lab Total must be greater than the animal's Might, and excess points accumulate. Once the accumulated points equal or exceed the creature's Might, the beast is tamed.
 
@@ -6869,7 +6869,7 @@ If the magical trainer's Form is the same as the Form the beast is connected to,
 
 **Mundane Trainer Taming Points Accumulated each Season: Int + Animal Handling – Creature's Might**
 
-# *Powers as Tricks*
+# Powers as Tricks
 
 Commanding a magical creature to perform one of its Powers is exactly like commanding a tame animal to perform a trick, as described in *Realms of Power: Magic* (page 82). The character issuing the command makes the following roll:
 
@@ -6885,14 +6885,14 @@ Only magical creatures with Cunning can be tamed and trained. Intelligent creatu
 
 Taming is not essential in breeding beasts, and the proprietor of a magical menagerie could certainly succeed without training a single individual. It all depends on how he wants to profit from his stock. If he wants to offer domesticated magical creatures to fellow magi, he might want to train it to do a few tricks. If he is merely basking in the glow of having these creatures live captive in a zoo, or breeding them for vis, simply containing and managing them will suffice.
 
-# *Staffing a Menagerie*
+# Staffing a Menagerie
 
 The list of necessary helpers is extensive for mantaining a menagerie, and includes beaters, feeders, handlers, and herders. By her own efforts, a maga will only be able to manage a small number of magical beasts, depending on the amount of time she wishes to invest and the type of beast(s) in her menagerie. If she has larger aspirations, she needs help.
 
 Each aspect of a menagerie needs someone to oversee it, supported by enough people to adequately complete the job. Consider that a medieval worker's scope is rather narrow, and managing livestock is a specialized field. Rarely will one man know how to manage every sort of animal. Most will specialize in the care necessary for a single breed. A small menagerie could have a person in charge of the grounds, another overseeing the hunt, a third in charge of feeding, and a fourth in charge of breeding. Much depends on the creatures involved. One man might be able to take care of a dozen magical dogs of different breeds, but perhaps only if all the dogs are hunting dogs and require the same diet and type of boarding. This same man might be at a loss when managing a lapdog. The larger the facility, the more diverse breeds involved, the larger the number of people needed to care for it all. Spe-
 
 
-# *Integrating Lords of Men*
+# Integrating Lords of Men
 
 *Lords of Men* lists the capacity, maintenance cost, and staff size for kennels, stables, and mews in the "Running an Establishment" section (pages 58–61). While these tables are aimed at mundane beasts, they can also be used for magical beasts. As a rough rule of thumb, reduce the capacity by 10 percent (rounded up), and increase the maintenance cost by 10 percent for any kennel, stable, or mews that houses magical dogs, horses, or raptors. If the beasts in question are especially magical, with a high Might and several powers, further reduce the capacity and increase the maintenance cost as you see fit. For example, a horse that can breathe fire will require more care than a horse that can run over water. The exact percentage adjustments are up to you.
 
@@ -6904,7 +6904,7 @@ It is difficult to estimate how many animals a single character can manage. Much
 
 Perhaps the most valuable Virtue for a
 
-# *An Animal-Keeper's Library*
+# An Animal-Keeper's Library
 
 Animal Handling is the preeminent Ability for a character who hopes to raise animals. Several ancient authors have written books about the subject, starting with the Philosopher himself, Aristotle. Many of the texts focus on breeding and maintaining horses, with only a few commenting on other livestock. In either case, the knowledge is broad enough to cover other quadrupeds. The texts that are most readily available in the 13th century are listed first, followed by those harder to acquire. Animal Handling is the subject of every text.
 
@@ -6931,7 +6931,7 @@ As characters with vocations, a menagerie's staff needs to spend half of the yea
 
 erie for a season or more, he needs to be replaced. During this off-time, many staff members develop their vocational skills, either through training or teaching, and magi often make this a rewarding proposition with wage increases, better living conditions, and other perks. Training and teaching are effective ways to increase the skills of younger staff members, and study is advantageous for older, more experienced crew.
 
-# *An Animal-Keeper's Library (cont'd)*
+# An Animal-Keeper's Library (cont'd)
 
 All of these books are in Latin. *Historia Animalium* and *Hippiatrica* were originally written in Greek, and if a character can find a Greek copy, the Quality increases by 1.
 
@@ -6944,19 +6944,19 @@ Bestiaries are extremely popular, and any good library will have a lion's share 
 *Roman de Renart* is a popular cycle of poems written in the French vernacular by several anonymous authors. The poems recount the adventures of Renart the Fox and include a cavalcade of characters: King Noble the lion, his wife Queen Fiere, Tibert the cat, Bernart the Donkey, and Renart's everpopular foil Isengrin the wolf. The tales describe several moralistic and clever episodes, highlighting the particular character's personality and habits, and can be read as a tractatus on Magic Lore, Quality 4. Versions exist in German, *Reinhart Fuchs*, and Italian, *Rainardo e Lisengrino*, but it has not been translated into English in 1220. No Latin copies of the poem exist.
 
 
-# *Story Seed: An Illicit Love Affair*
+# Story Seed: An Illicit Love Affair
 
 One of the grog handlers of the menagerie has been making secret, nocturnal visits to the daughter of a nearby village mayor. He has already been warned to leave the woman alone, but neither he nor she has abided the father's commands. Lately, he has been telling the woman to sneak into the menagerie at night, where they meet in the unoccupied lion's garden. One day, the grog in charge of putting the lion in its cage at night forgets and leaves the beast in the garden. The woman climbs over the wall but, instead of meeting her lover, is devoured by the lion. Her paramour discovers the grisly remains and panics. Perhaps he flees in the night, leaving the dead woman as a mystery for the magi to solve. Perhaps he frees the lion, later claiming that the beast prowled the village and returned with the woman already dead. Or, consumed by grief, the grog attacks the lion and is also slain. In the morning, the magi find a dead animal handler, a partially eaten woman, and an angry mayor and his thugs beating on the front gate.
 
-# *Story Seed: Never the Twain Should Meet*
+# Story Seed: Never the Twain Should Meet
 
 Two elder magi admire a maga's menagerie and want to visit. Both are politically powerful enough to suggest when they will come and, unfortunately, both select the same week to visit. The problem is that the magi hate each other, and have a history of declaring Wizard's War against each other. They have declared so many Wizard's Wars, often not doing anything besides declaring, that the maga is not even sure if one is currently underway. Regardless, the maga must somehow decline one invitation, which will surely lead to resentment and reprisal, or manage to host both magi and somehow keep them apart.
 
-# *Hermetic Relations*
+# Hermetic Relations
 
 Once operational, a menagerie draws visitors and a stud farm requires buyers. While mundane guests might occasionally partake of these services, the majority of clients will be other magi and their associates. Because these are grand undertakings, requiring the efforts of many people, it is difficult to keep a large menagerie secret, and curious admirers are almost guaranteed. Many will want to see the curiosities displayed and several may wish to purchase magical beasts for themselves. But negative responses will mix with the positive, and some might clamor for the release of captured beasts, the cessation of the operation, or even a formal reprimand for the owner of the menagerie.
 
-# *Interactions*
+# Interactions
 
 Like most people in the 13th century, most magi view beasts as inferior creatures, and are not opposed to seeing captured animals. Viewing a caged lion thrills rather than repels, watching an Eagle of Virtue hunt provides a delightful afternoon, and observing a blindfolded basilisk prowling around its pen fills a watcher with spine-chilling glee. Many of the magi of the tribunal in which the menagerie resides will want to visit, viewing the displayed beasts and chatting with the owner about the creatures' magical natures and proclivities. A small few may want a menagerie of their own, but
 
@@ -6965,7 +6965,7 @@ Since the majority of magi will view a menagerie as a notable venture, the owner
 
 Once a maga starts successfully breeding magical animals and offering them for sale, the demand for her creations could grow exponentially. Small animals that perform one or two useful tricks might be in higher demand than larger, more powerful animals. If the demand grows greater than the supply, a waiting list will form. While this might ensure future profits, it will certainly lead to politicking, favoritism, and bribes, as magi further down the queue try to jump ahead.
 
-# *Reactions*
+# Reactions
 
 Not every magus is going to congratulate a menagerie's owner. Driven by jealousy, revenge, ill-temper, past slights, or other resentments, some magi may despise the menagerie and its owner. The degree to which such a magus acts against
 
@@ -6988,7 +6988,7 @@ great affront at the sale of magical animals for familiars, saying that it perve
 
 +5 freedom from restraints
 
-# *Shape & Material Bonuses of Magical Creatures*
+# Shape & Material Bonuses of Magical Creatures
 
 Another reason a magus might want to breed magical beasts is the Shape & Material Bonuses their parts lend to laboratory activities. Because these beasts are rare, the bonus provided is quite high. While stocking and breeding a rare beast makes it more common (for the right buyer), it does not diminish the high bonus. Most of the listed creatures are legendary beasts. Shape & Material Bonuses for Animals of Virtue can be derived by using the suggestions found in *Realms of Power: Magic* (pages 66–68).
 
@@ -7029,11 +7029,11 @@ the owner does not stop breeding and selling the beasts. While there is no legal
 
 the captive beasts. Acting on principle, they continue the conflict well after the initial livestock is freed, doing their best to prevent the owner from rebuilding his menagerie. An added complication would be if the beast actually is a Great Beast. Are the Bjornaer magi in the right in freeing the beast?
 
-# *Optional Rules for Breeding*
+# Optional Rules for Breeding
 
 The success of any breeding strategy should be decided by the storyguide, with troupe input, and the sorts of stories that the group will enjoy in the future. Rolling dice takes a certain narrative emphasis away from the situation, but there may be times when the troupe would rather delegate the outcome to luck rather than the storyguide. These rules are provided for such situations.
 
-# *Producing Offspring*
+# Producing Offspring
 
 Breeding is a seasonal activity that involves both the act of the male covering the female, and the fertilization that leads to successfully producing offspring. As mentioned, animals in captivity are reluctant to breed, so breeders take great pains to assist their captured beasts. If a male and a female are put together in the same pen, the player may make a Breeding Roll to see if they produce offspring. This Breeding Roll is modified by several conditions.
 
@@ -7062,11 +7062,11 @@ If the Breeding Roll is successful, the animals produce offspring. If the roll f
 | Tamed animal                           | +3                               |
 | Unsatisfactory<br>environment          | –2                               |
 
-# *Inherited Traits of Offspring*
+# Inherited Traits of Offspring
 
 Besides merely producing more beasts, breeding can breed for the best (selective breeding) or breed for the beast
 
-## *Hermetic Projects*
+## Hermetic Projects
 
 (crossbreeding). The outcome depends on what breeding strategy the menagerie owner used.
 
@@ -7091,7 +7091,7 @@ At the storyguide's discretion, another physical Characteristic can replace Stam
 
 A breeder can also use the hidden virtues, sympathies, and affinities of various
 
-# *Story Seed: Enchanting a Live Egg*
+# Story Seed: Enchanting a Live Egg
 
 Rather than gamble on the whimsical process of breeding for the best, a magus might want to instill magical effects into an unborn magical creature while still in its egg. Success would mean that the creature will have additional powers beyond those native to its kind. Magi cannot instill powers in living magical mammals because they need to touch and manipulate the fetus during the season, which will usually terminate it or its mother. Eggs and their living occupants could be manipulated, however, without fear of destroying the subject. Such an operation would be a Minor Breakthrough, using the rules found in *Houses of Hermes: True Lineages*.
 

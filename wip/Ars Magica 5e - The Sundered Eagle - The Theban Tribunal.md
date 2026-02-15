@@ -1,5 +1,5 @@
 
-# *Credits*
+# Credits
 
 **Authors:** Christian Jensen-Romer, Matt Ryan, Mark Shirley, & Andrew Smith
 
@@ -381,9 +381,9 @@ Covenfolk....................................... 70
 | 1. mgic a Tite Citatell               | The Deagae of Constantine 137                  | micinal frautuon: The raulicians 142                                       |
 
 
-## *Chapter One*
+## Chapter One
 
-# *Introduction*
+# Introduction
 
 Welcome to the Byzantine Empire or what's left of it. This is the **Ars Magica Fifth Edition** sourcebook dealing with the Theban Tribunal: the lands of Greece and Asia Minor in 1220 AD. If you or your storyguide has or intends to establish a saga set in the Tribunal of Thebes, or neighboring lands, you will find in these pages a rich variety of landscapes and legends, magi and covenants, and plot ideas to enrich your setting and stories.
 
@@ -397,17 +397,17 @@ Magic and the supernatural is more
 
 commonplace in the Theban Tribunal than in many Western Tribunals. Forgotten gods and nature spirits abound in this land, and words have power. Even peasants can produce simple spells to make life easier for themselves. More important to magi, vis is plentiful. In contrast to Western Europe, where vis is the currency of the Order, in the Theban Tribunal a better analogy is to consider it as food; essential for the life of a magus, but not the common coin of the economy. This bounty has allowed the Tribunal to flourish in the absence of a continual struggle for a limited resource, and permitted the development of a society of magi that is largely altruistic and egalitarian.
 
-## *Byzantine Realms*
+## Byzantine Realms
 
 Before 1204, the entire region covered by this book had been ruled as a single empire for the previous 900 years. As the successor to the empire that had been ruled from Rome, they called themselves *Rhomaioi*, or Romans, despite being composed of many cultures, and their ruler was called the *basileus Rhomaion*, the Roman emperor. Referring to this empire as "Byzantium" or the "Byzantine Empire" is a modern convention and is anachronistic in the 13th century, yet it is a useful label for the region, and will be used throughout this book.
 
 The landscape of the empire changed dramatically and suddenly in 1204, with the sack of Constantinople by an army of bloodthirsty crusaders from the West. The invaders, described by the blanket term of "Frankish" by the natives, replaced the upper classes of the Roman Empire and instituted their own government, which became called the Latin Empire. The great and the good who survived this invasion fled to former provinces and founded governmentsin-exile — the most significant of which are the Empire of Nicaea, Epiros, and the distant Empire of Trebizond. Meanwhile, the northern provinces won independence from the Latin Empire to form the Empire of Bulgaria. Now Western and Eastern cultures clash amid a rapidly changing political situation where native Greeks and foreign Franks vie for supremacy.
 
-## *Byzantine Peoples*
+## Byzantine Peoples
 
 Principally inhabited by Greeks (or "Hellenes"), the lands of the Theban Tribunal are united under a common language called Romaic Greek. Most magi use this language instead of Latin, and even work their spells in its ancient precursor, Classical Greek. As a cosmopolitan region and the gateway to the East, Greece hosts many people from exotic nations; Egyptians, Seljuks, and Persians, to name just a few. However, the indigenous Greeks are the dominant race, and are typified by dark hair, dark eyes, and an olive complexion.
 
-## *Byzantine Legends*
+## Byzantine Legends
 
 The legends of these lands inevitably draw heavily — but by no means exclusively — on the rich mythology of ancient Greece, as well as romances contemporary to the 13th century, and Christian mythology. Many of
 
@@ -417,13 +417,13 @@ the supernatural denizens of the Theban Tribunal have evolved from classical ori
 The mythology of ancient Greece is associated with all four of the supernatural Realms. From the **Magic Realm** are the primeval Titans who are reckoned to be personifications of forces of nature, as well as lesser natural gods and beings who pay scant regard to mortal worship, such as Helios, Asklepios, or the sibyls. Belonging to the **Faerie Realm** are the famed Olympian gods, as well as many members of the classical bestiary such as centaurs, fauns, and satyrs. Stories of these gods are often fables or morality plays, exploited for a rhetorical purpose or as a moral lesson. These beings then arise from the human stories. The tales of the Heroic Age, in contrast, are interpreted scripturally; that is, they are alternative versions of stories from the bible. Their heroes, such as Herakles or Theseus, are associated with the **Divine Realm**, as are sites associated with their virtue. Their adversaries often belong to the **Infernal Realm**, as do the sites associated with their struggles.
 
 
-## *How to Use this Book*
+## How to Use this Book
 
 As always, nothing written here is "set in stone" as far as your saga is concerned. You should feel free to use as written those bits that you like, and adapt or discard other parts. It's up to you to decide how closely you want to follow the real history of the region, or the Tribunal as it is depicted here. There are numerous covenants and magi described in these pages, but by no means enough to fill entirely a Tribunal consisting of about a hundred magi. Space is left for you to add covenants of your own devising, and to add to the membership of the described covenants.
 
 If you are a player in a Theban saga, it may be best to consult your storyguide before reading further. Most of Chapters 2 to 8 should be safe for you to read, consisting of information that characters could reasonably be expected to know about their home territory and Tribunal. Although in places there are some story seeds and game statistics that the storyguide may prefer you not to read. Heavier spoilers may be found in Chapters 9 to 12, each of which deals with creatures, schemes, factions, and story plots associated with one of the four supernatural Realms.
 
-## *Medieval Perceptions of Antiquity*
+## Medieval Perceptions of Antiquity
 
 The perception of the ancient civilizations of Greece in the rest of medieval Europe varied substantially with time and place, and with social standing. The intelligentsia were aware of Homer, Herodotus, and Thucydides, while lords and peasants were regaled with epic romances of Aeneas, Hector, and Odysseus, which cast their heroes in roles more suited to Western feudalism than Ancient Greece. Certainly, the scholars of the Byzantine Empire had access to both the mythology and the histories of the classical period in superior number and quality to Western scholars, but even in the West, most educated people had heard of the Greek gods, of the Trojan War, and of the national characters of its most famous cities: Athens, Thebes, and Sparta.
 
@@ -436,11 +436,11 @@ Sparta is little known in the 13th century except by those who have access to th
 The Greek myths were not necessarily shunned because of their pagan origins. Writings of the Church Fathers, including St. Augustine's *On Church Doctrine*, instructed Christians to read these myths in a number of ways: as moral allegory the mythic figures represent virtues, vices, desires, and inclinations; as exempla they demonstrate a virtue or failing; as physical allegory they can represent the forces and elements of the cosmos such as planets; and as typology they can stand for versions of Biblical characters — Deucalion was a type of Noah, Herakles a type of Samson, and both Orpheus and Theseus were types of Christ.
 
 
-## *Chapter Two*
+## Chapter Two
 
-# *History of the Empire*
+# History of the Empire
 
-## *The Origin of Mankind*
+## The Origin of Mankind
 
 In the legends of the Ancient Greeks, the first race of men was the golden race who sprung from the earth. They were subjects of Kronos and never grew old, spending their days laughing and dancing; death was no more terrible to them than sleep.
 
@@ -454,11 +454,11 @@ The current race of man is an iron race, unworthy descendants of the fourth race
 
 The first three races lived under the rule of the Titans, and some Seekers link their disappearance with the coming of the fourth race, who brought the worship of the faerie gods to Mythic Greece. These primal races might provide an interesting background for a magus or magical character through the Mythic Blood or Magical Blood Virtues (for the first three races) or the Faerie Blood or Blood of Heroes Virtues (for the fourth race).
 
-## *Nation of Historians*
+## Nation of Historians
 
 The great historians of the ancient world were Herodotus, Thucydides, Xenophon, and Polybios, who recorded various histories of classical Greece. They started an intellectual trend of de-mythologizing their subject, removing all mention of the gods, magic, and fate from their accounts, a convention that was aped by the historians of the Byzantine era. Kalliopeia of House Merinita claims to see the hand of a group of Magic Humans called the Warders of Mystery (*Realms of Power: Magic*, page 95) in this, although it is unclear whether she is suggesting that the historians are Warders themselves, their servants, or the victims of their bowdlerization. The Warders are devoted to hiding evidence of magic from the pages of history; and their meddling — if indeed they are responsible — has reduced the power of the faerie gods by preventing the repetition of their stories.
 
-## *The Age of Heroes*
+## The Age of Heroes
 
 The great stories of Ancient Greece, concerning heroes such as Perseus, Theseus, Jason, Herakles, and Akhilles, are part of Greece's history. St. Jerome wrote a universal chronicle called *The Chronicon* in Constantinople in about 380 AD. In it, he related the events of the Bible to those of classical times based on a wealth of different sources. A small fraction of his timeline, along with modern dates, is given below:
 
@@ -485,12 +485,12 @@ as the very flower of the chivalrous heroes of the classical age, whereas Akhill
 
 The fall of Troy is the source of the enmity held for the Greeks by the Persians. They had always considered Asia Minor to be their territory, and the Greek invasion and subsequent colonization could not be permitted.
 
-## *The Pulchritude of Princesses*
+## The Pulchritude of Princesses
 
 The outstanding beauty of the daughters of Greek kings shaped much of Greece's early history. To carry off such a woman, says Herodotus, marks a man as a rogue, but to retaliate for such a deed marks a man as a fool. Helen of Troy is vilified throughout history as the most perfidious of women, and used as an exemplum in sermons on the inconstancy of woman. This is a theme that should not be ignored in Mythic Greece. Players with beautiful female characters should be encouraged to take the Curse of Venus Flaw, especially if they bear noble blood, no matter how dilute. They may attract the attention of faeries born from the stories of Jason or Paris, who seek to derive vitality from attempts to recover the abducted beauty.
 
 
-## *The Persian Wars*
+## The Persian Wars
 
 The formation of city-states (*poleis*) began the process of the urbanization of Greece. There were many hundreds of these independent city-states, which spread throughout the mainland and the islands into Asia Minor (Ionia), and also colonies throughout the Western Mediterranean region, particularly Sicily. Sparta (in Lacedaemon) was among the first to make its male citizens all equals, but this was a small fraction of the total population. Athens (in Attica) was the real innovator in the field of democracy.
 
@@ -498,7 +498,7 @@ Towards the end of the sixth century BC the emerging city-states came under thre
 
 Darius' son Xerxes I launched another attack on Greece in 480, taking Thessaly, Delphi, and Argos with ease. This time it was Sparta who raised the defense, convening the first Panhellenic Congress at Corinth in 481, at which 31 city-states granted the Athenian Themistocles supreme command over its forces, although overall inter-allied command remained in Spartan hands. The Spartan defeat at Thermopylae delayed the Persian forces long enough to save the Greek fleet at Artemisium from annihilation. The Persian fleet was eventually defeated in the battle of Salamis, one of the most famous naval victories of all time. Xerxes took most of his forces back to Asia after this defeat, but left behind a picked force of 40,000 men under General Mardonius to try again the next year. In 479 this force marched south, ravaged Attica, and occupied Athens for a second time. When the Spartan army marched to confront the Persians, Mardonius withdrew from Attica to Boeotia, intending to meet the Greeks on the plains where he could employ his cavalry to best effect. The Greek victory in the resulting battle of Plataea was the greatest land battle ever fought by the Greeks, finally driving the Persians out of Greece forever.
 
-## *Persian Magical Warfare*
+## Persian Magical Warfare
 
 The Greek armies facing Darius I were wholly unprepared for the use of magic on the battlefield. The Persian king had brought with him a cadre of sorcerers (or yatus) who deployed their spells against the Greek forces. Supernatural creatures under the command of these sorcerers rent their way through Ionian and Thracian soldiers, and it was only in Attica where Athenian theurgists had mustered that they were seriously opposed. When Xerxes led his subsequent invasion, the Greek theurgists were more prepared for the yatus, although the defenders were still outclassed by the professional battle-magicians of the Persian army.
 
@@ -512,7 +512,7 @@ The livelihood of a merchant connected to the covenant is under threat from clou
 
 A Persian wizard, descendant of one of the yatus who served Cyrus, is collecting artifacts from old battlefields in search of his ancestor's amulet of power. The characters have unwittingly gained this item without knowing what it is, and the wizard will approach them, civilly at first. But he is not used to taking "no" for an answer.
 
-## *Athens and Sparta*
+## Athens and Sparta
 
 The three victories of Marathon, Salamis, and Plataea are often seen as the beginning of European history, and gave the Greeks a sense of superiority and confidence in their abilities to keep the "barbarians" out of their land. The Greek states formed the Delian League, named after the meeting place of the confederacy on the holy island of Delos. Its purpose was mutual protection against Persia; together with retaliation, where possible, to avenge the Persian occupation.
 
@@ -521,7 +521,7 @@ The Peloponnesian War was fought between Sparta and Athens between 431 and 404. 
 Athens' ambitions knew no bounds however, and they launched an expedition against Syracuse in Sicily, which ended in total disaster. Meanwhile the Spartans cut Athens off from its agricultural land and silver mines with fortifications in Attica, and rebellions in their subject-allies imperiled the city's grain supplies. In Athens itself, an oligarchic revolution overthrew the former government, and an unexpected alliance between the Spartan general Lysander and Cyrus the son of Darius II of Persia was the final nail in the coffin of Athenian power. In 404 Athens unconditionally surrendered to Sparta. Over the next fifty years alliances formed and failed, ably stirred by Persian treachery. The resultant chaos left the citystates of Greece vulnerable to a threat they had not yet considered.
 
 
-## *Amphipolos*
+## Amphipolos
 
 The Battle of Amphipolos still rages in a Faerie regio in Thrace, where faeries take the part of Kleon of Athens and Brasidas of Sparta and their accompanying soldiers. Furthermore, both sides have numerous minor deities among their allies. Gods and men fight shoulder to shoulder against the enemy, Athene supporting the Athenian army, while Apollon and Artemis can be seen among the Spartan defenders. Ares is also present, honored by soldiers of both sides by bloodshed and the atrocities that come with war. Characters wishing to meet with one of the gods have the opportunity to do so here, if they can drag the divine attention away from the battle. However, they will have to participate in the battle to get close enough.
 
@@ -543,7 +543,7 @@ Alexander's conquering ambition was checked by the rebellion of his armies, who 
 
 ized by marrying the daughter of Darius III. However, in 324 he contracted a fever aggravated by a wound suffered in India, and died of the infection.
 
-## *Hellenistic Greece*
+## Hellenistic Greece
 
 Forty years of hostilities between Alexander the Great's former generals and wouldbe successors followed his death, ending in the emergence of three major warring kingdoms: Macedonia, Ptolemaic Egypt, and the Seleucid Empire. The cities of Alexandria and Antioch — capitols of Egypt and Seleucid Syria respectively — became the centers of Hellenistic culture rather than Greece itself. Macedonia remained dominant over Greece, Thrace, and Anatolia, but it was not until King Antigonus II Gonatus (284–239) that the impoverished kingdom's fortunes were reversed and a new line of monarchs governed Greece. Throughout this period Athens retained its pre-eminence, despite having to accept a Macedonian garrison thanks to several rebellions. By 229 it had gained sufficient wealth as a commercial power to buy out the garrison. Another prominent power in Greece was Rhodes, which expelled the Macedonians following Alexander's death, and repelled a siege by one of his would-be successors. Rhodes rivaled Athens as the principal Aegean commercial state, and was the headquarters of international finance and banking and exchange in partnership with Egypt.
 
@@ -557,7 +557,7 @@ Rome's waxing imperialism became an important factor in the affairs of Hellenist
 
 The stable government of the Roman Empire meant a time of peace and prosperity for nearly 250 years. Life in Greece continued much as it always had, and Roman culture became highly influenced by the Greeks through epic stories, poetry, and philosophy. In the first century after Christ, Greece and much of the Roman East embraced Christianity, following the efforts of Paul of Tarsus who preached in Athens and Corinth. When Diocletian came to power in 284 AD, it was obvious that no one ruler could hold together the whole empire, and he divided it into four prefectures, adopting a joint Augustus to rule alongside him and two subordinate Caesars. The eastern prefectures were the *Praefectus Praetorio per Illyricium* (most of mainland Greece and Crete) and the *Praefectus Praetorio*  *per Orientem* (Thrace, Asia Minor, Judea, and Egypt). The center of gravity of the empire was pushed ever eastwards, with Constantine establishing a new capital and Christian city at Byzantium, renamed as Constantinople in 330 AD. Although theoretically governed by joint rulers, the empire gradually broke into an Eastern and Western half. While Rome itself was eventually sacked by barbarian invaders and fell before them, the Eastern Roman Empire continued to thrive.
 
-## *Constantine*
+## Constantine
 
 After severe persecution of Christians by the Roman state had led many to martyrdom, in the fourth century the Roman Emperor Constantine promulgated an Edict of Toleration of Faiths, including Christianity. His saintly mother Helena was a staunch Christian, yet despite her influence it was a miraculous sign seen in the sky before the battle of Milvian Bridge that led to his eventual conversion to Christianity.
 
@@ -573,7 +573,7 @@ During the brief return to paganism under Julian the Apostate (361 – 363), God
 
 locals came running to her aid. A riot ensued, and the Goths trapped within the city were wiped out. The Goths left, never to return.
 
-## *The Byzantine Empire*
+## The Byzantine Empire
 
 With the collapse of the Western Roman Empire, the Byzantine Empire continued to maintain Roman tradition and customs. A succession of glorious emperors led an empire which at its height included much of the Levant, Egypt, North Africa, Italy, and Southern Europe.
 
@@ -581,7 +581,7 @@ With the collapse of the Western Roman Empire, the Byzantine Empire continued to
 
 One of the greatest Byzantine emperors, if not the greatest, Justinian is most renowned for his legal reforms, having commissioned a great Codex of Roman Law that was created by the lawyer Tribonian. Personally deeply pious, yet decidedly non-conformist — he is said to have believed that Christ was fully divine but not also fully human — his subsequent return to true doctrine came about through the personal intervention of Pope Agapetus I. Justinian married a low-born dancer, Theodora, causing a scandal, but she proved a magnificent empress. His military conquests expand-
 
-## *The Mob in Constantinople*
+## The Mob in Constantinople
 
 Throughout history, Constantinople has been shaped by the apparently spontaneous will of the people manifesting in riots and popular uprisings. Since the fall of the city this has not occurred, leading some to speculate that it was a side effect of the ancient bindings upon the city. Another strong possibility, however, is the personal interest of three demons in Constantinople: Golab, called "Foe of the Seraphim," and his lieutenants Hulikang and Nike (described in *Realms of Power: The Infernal*, pages 70–73). Hulikang and Nike entertained themselves for centuries, despite the powerful wards that reduced their power, by each "managing" a circus faction whose influence came to spread throughout politics, business, and almost every other aspect of city life. As sponsors of the Green and Blue factions, the only thing that could unite the two demons was the prospect of a lessening of their own power, or another demon's attempt to sponsor another faction. The Green and Blues declined in power and influence after the ninth century, and now the demons are suspected by some to be leading "Frank" and "Venetian" factions, but the truth of this is unknown.
 
@@ -593,7 +593,7 @@ In 532 a riot broke out in the Hippo-
 
 drome, with the Blue and Green circus factions manipulating the crowds. The mob set fires that consumed much of the city, and the emperor prepared to flee. Only the Empress Theodora stood firm, saying she would rather stay and die in the city than run, and forcing Justinian to remain and face the crisis. Justinian acted decisively, sending troops into the Hippodrome. Thirty thousand people died there that day, massacred by Justinian's troops, ending the "Nika Riot" (the name taken from the crowd's cry of "Nika!" — "Victory!"). Their ghosts still haunt the area (see
 
-## *Constantine's Visions*
+## Constantine's Visions
 
 Constantine had a vision in which he saw an old hag who, upon his approach, became a beautiful young damsel who he seized and kissed. A short time later he had a second vision of his mother, Helena, who told him that the maiden would be his till the end of time. The spirit of a pope then appeared, and the secret was revealed — the maiden was a symbol of Byzantium that, through Constantine's actions, will be reborn in splendor. A third vision from God now revealed to him that his plans for the city were guided by God's hand, and showed exactly where the boundaries of the city must be laid out. Constantine led a great procession, and guiding a plough with his own hand walked the boundaries of the site, boundaries that lay far beyond the ancient walls of Byzantium. By this rite he bound the local spirits and created a potent Divine ward that endured for many centuries.
 
@@ -730,7 +730,7 @@ Earlier Byzantine emperors had realized the threat crusading armies passing thro
 
 Alexius III was, though it seems scarcely possible, a worse ruler than his deposed brother. Deeply unpopular, he began his reign by levying the *Alamanikon*, a high tax designed to provide tribute to the German crusaders. Frederick Barbarossa had drowned in Cilicia while crossing a river, but the Emperor Henry VI managed to extort this tribute from Alexius, and it was to prove fatal to the Byzantine Empire. In Morea, Leo Sgorous carved out an independent state, and throughout the mainland local rulers sprang up, as centralized administration and authority broke down.
 
-## *The Fourth Crusade (1202–1204)*
+## The Fourth Crusade (1202–1204)
 
 After decades of catastrophe and worsening relations with the West, the overthrow of the Byzantine Empire occurred almost by chance. The Fourth Crusade had been preached to recover Jerusalem, but its real aim was to seize Damietta in Egypt, for only after Egypt was defeated did the crusade leaders feel they would be able to retake the Holy Land. A great agreement was made between the leaders and the Venetians. Each crusader would pay a sum of silver, in exchange for which a vast fleet would be constructed by the Republic of Venice, to ferry the crusaders to the Holy Land (or Egypt).
 
@@ -772,7 +772,7 @@ came clear that Murzuphlos had fled. In the morning he too realized the city was
 
 Agreements intended to reduce rapine and attacks on civilians forgotten, for three days the city was subjected to a brutal and violent sack. While a three-day looting after a siege is normal practice to repay the troops, the sheer savagery and violence of this attack left observers stunned, as did the violation of even nuns and the desecration of the holiest artifacts and altars. Utter madness seized the crusaders, and everything that could be stolen was taken with as much force as was required, and piled high at central repositories for later sharing out. The streets ran scarlet with the blood of the murdered. The horror of those three days and three nights still haunts those who witnessed them, as the ghosts of the slain haunt the streets.
 
-## *The Latin Empire*
+## The Latin Empire
 
 Following the Fall of Constantinople, the agreement between the crusaders and Venetians first drawn up in March 1204 was implemented. The emperor was to receive direct dominion over one quarter of the empire; three eighths were to go to the Venetians, and three eighths to the other crusader lords.
 
@@ -805,9 +805,9 @@ Peter's wife, Yolanda of Flanders (Henry's sister), did successfully reach the c
 The Empire of Nicaea has just renewed hostilities after three years of peace, so the Latin Empire is once again at war, and the prospects do not appear bright.
 
 
-## *Chapter Three*
+## Chapter Three
 
-# *The Order of Hermes*
+# The Order of Hermes
 
 The Theban Tribunal is a curiosity in the Order of Hermes. As an organization it predates the founding of the Order, albeit in a very different form than today. It was originally much larger, but early in the Order's history split in two, to form the Transylvanian and (modern) Theban Tribunals. Most distinct is its political system, which departs radically from that found in the rest of the Order. The Theban Tribunal is occasionally depicted as a model Tribunal, where magi live and work towards a common goal rather than being riven with strife and political bickering. More often, however, it is seen as an interesting anomaly rather than a model for the rest of the Order to follow.
 
@@ -817,11 +817,11 @@ The lands that eventually became the Tribunal of Thebes have a long history of m
 
 Such cooperative couplings predated the founding of the Order. Wizards in Greece and the islands would form temporary leagues — groups that followed a charismatic leader or banded together for a common goal. Members found that the less they actually met, the better the league succeeded, and so relied on communiqués and individual assignment of specific goals. Once the goal was reached or the leader departed, the group would separate, retreating back to its members' individual pursuits. While interesting to politically minded Theban magi, none of these early leagues merit individual mention.
 
-## *Before the Order of Hermes*
+## Before the Order of Hermes
 
 The wizard Prokopios preceded the founding of the Order of Hermes. In much the same way as Trianoma united the 12 Founders, Prokopios attempted to execute a similar vision among the wizards of Thebes. But lacking secrets to offer such as the Parma Magica and Hermetic theory, he had only limited success despite his Gentle Gift. Central to his scheme was a *typikon* — named
 
-## *The Descendents of Prokopios*
+## The Descendents of Prokopios
 
 Prokopios' numerous children and apprentices joined the Order of Hermes, and there are still some (principally in House Jerbiton, and among the Trianomae of House Bonisagus) who identify him as an ancestor. These magi claim that the Daimon of Aristotle is the daimon syggeneias (family spirit) of their line; and that he still offers them advice, particularly with regards to preserving the unique political system of the Theban Tribunal in favor of that of less-democratic Tribunals.
 
@@ -829,7 +829,7 @@ after the charter used by Orthodox monasteries — which regulated how wizards s
 
 The first notable league was the League of Iconophiles, formed in the early eighth century to save religious icons from the Byzantine emperors who thought they should be destroyed. Thirty years into their struggle, the league's leaders met Trianoma, and though declining her invitation, the League of Iconophiles serendipitously provided the origin for House Jerbition (described in detail in *Houses of Hermes: Societates*, page 40–1).
 
-## *Shaping the Theban Tribunal*
+## Shaping the Theban Tribunal
 
 The expansion of the Order into the Byzantine Empire had little actual impact. The Order, primarily House Jerbiton, was only present in the major cosmopolitan areas of Constantinople, Thessalonica, and Adrianople, since the countryside was ruled by hostile powers — malignant faeries, capricious gods, bands of vampires and Infernal witches, and superstitious peasants — and magi settled where books, learning, and civilization were strong. Jerbiton magi were content to live alongside the various Gifted and unGifted practitioners who already existed, a détente born from the previous centuries of coopera-
 
@@ -856,22 +856,22 @@ In the aftermath, accusations flew as rapidly as arrows. House Tremere was blame
 
 The reorganizing of the Byzantine Empire into smaller empires has forced some covenants to adapt to the changing political landscape that results from new rulers, but others have been left untouched. Every Theban magus has an opinion on the current situation, but not all are willing to commit to the various leagues that have formed as a response (see The Leagues of Thebes, later). Not all believe that the situation threatens the supernatural balance that existed, but the majority does. It has been just 16 years since the fall of Constantinople, and while Frankish magi have followed the mundanes eastwards, they have not settled in sufficiently large numbers to have a noticeable impact on the Tribunal's practices. However, some have already rebelled against the Theban polity, and the Tribunal of 1221 promises to be an interesting one as they seek to make changes to their adopted home.
 
-## *The Leagues of Thebes*
+## The Leagues of Thebes
 
 Theban magi have a propensity to form leagues: alliances of like-minded individuals devoted to pursuing a specific goal. There are several leagues currently active in the Tribunal; each league has only a few members and none is powerful enough to accomplish its goals quickly or privately. Each will need more members or cooperation from other sources. The overall goal of each is altruistic: to continue the prosperity and hegemony of the Theban Order of Hermes. Each league, however, has a different idea how this should be done. Some of the leagues presented below might have goals that could be construed as contrary to the Code of Hermes. However, actions are prohibited by the Code, not ideology, so none of these leagues contravene the Code merely by existing. On the other hand, the actions of magi pursuing the goals of their league may well provoke other magi to prosecute them for a crime. The following are just examples of some of the leagues currently active in Thebes.
 
-## *The League of Constantine*
+## The League of Constantine
 
 Constantine was the Roman emperor who founded Constantinople, dividing the Roman Empire into Eastern and Western halves, revitalizing the empire, and pouring new energy into the faltering state. While the West was lost to barbarians, the East still maintains its imperial traditions and nature. Constantinople has been conquered several times over the centuries, but in the past, the conqueror would marry into one of the noble imperial families and continue the Roman tradition. The Latins have not done this. To make matters worse, they have subjugated the Church to the pope's authority, something
 
 
 no conqueror has done before. The League of Constantine hopes to return the empire to its true path, put a legitimate Greek emperor back on the throne, and return the empire to the hands of God. The league is composed entirely of Jerbiton magi, although that is not a requirement for membership. Each has an apprentice who is nearing gauntleting age, a member of the antigones (*Houses of Hermes: Societates*, page 43). The apprentices are more martial than their parentes, and this league promises to be more effective than Jerbiton magi in the past. The league is currently centered at Moero's Garden, the covenant near Nicaea. For more information on this league, see Chapter 11.
 
-## *The Children of Olympos*
+## The Children of Olympos
 
 A small and eccentric league of magi who have dubbed themselves The Children of Olympos believe that the Tribunal would be better served if the magical patrons of each covenant were the Greek gods of old, rather than the sundry assortment currently occupying those positions. Centered around the charismatic Lucian the Scholar of House Merinita (see Chapter 4: Theban Covenants, Aegaea), the league declares that the Order should step away from the ebbing fortunes of the Divine and Infernal by adhering to a more permanent and ancient supernatural foundation. Magical creatures are too temperamental, and uninterested in mortal affairs. Faeries, however, are intrinsically interested in the fates of men. The Greek gods have outlasted all others, Lucian claims, with Christ's reign casting a shadow over their long involvement with the hearts of men. See Chapter 10 for more information on this league.
 
-## *Former Covenants of the Theban Tribunal*
+## Former Covenants of the Theban Tribunal
 
 #### **Dorostolon (815 –848)**
 
@@ -914,7 +914,7 @@ Founded to protect the Tribunal's western border after ravages from the Second C
 A short-lived covenant of Frankish magi in the western borders of the Kingdom of Thessaloniki, land which has since been conquered by the Principality of Epiros. It had little time to prepare for the Greek attack, and was destroyed when its magi unsuccessfully resisted; few in the Tribunal mourned their loss.
 
 
-## *The League of the Vigilant*
+## The League of the Vigilant
 
 The League of the Vigilant was formed very recently. Most magi know that Infernal forces were active in both the Latin and Byzantine armies when the city of Constantinople fell, and many suspect that the Order may also be infected. Hydatius of Ingasia and Proximios of Alexandria have banded together to form this league, the former to act as its general and the later to provide funding and magical supplies (see Chapter 8: Anatolia, The Covenant of Alexandria for more on Proximios).
 
@@ -922,11 +922,11 @@ The league is just forming and its membership is small. It has no formal home or
 
 The Tribunal of Thebes accepts this league, as they do any, but wonders at its effectiveness. Persecutions have a history of growing out of control, and the more reserved magi of the Tribunal are wary. Others think this is a necessary step to ensure that the Order isn't corrupted like the ruling factions of the mundanes were. Hydatius and Proximios' glowing reputations give the League of the Vigilant an air of respectability, making naysayers reluctant to criticize it.
 
-## *League Against Idolatry*
+## League Against Idolatry
 
 This league consists of those magi who strongly oppose the remnants of pagan practice in the Order's traditions, and work actively to remove them, principally through the workings of the Legislative Board (see later). Their main focus at the moment is the Ceremony of Propitiation, which they consider to be idolatrous. This small league consists in 1220 of the magi of Oikos tou Eleous and Gigas, with sporadic half-hearted support from Artoud of Xylinites. The league actively opposes the Tribunal's recognition of patrons, and in particular the maintenance of the altars and vis sacrifices practiced at Delos in Tribunal years. These practices are seen by the covenants mentioned as clearly pagan — and going beyond veneration and the respect due to an entity, which is *proskynesis timetike* directed to the subject, and crossing the line to worship (*latreia*). The league is highly controversial, and the outbursts and anger that the issue raises have yet to be resolved. The tradition of the Tribunal is ancient, but the league claims that these practices constitute a mortal sin, and bring the anger of God upon the magi who participate, and upon their sodales.
 
-## *Theban Tribunal Politics*
+## Theban Tribunal Politics
 
 When the Order of Hermes formed, a typikon offered by a Jerbiton magus of Prokopios' line was influential in constructing the Order's system of governance. As a result, the Order developed into a democratic organiza-
 
@@ -936,13 +936,13 @@ eral Code that moved the governance of the Tribunal closer to that used by the o
 
 The members of the Theban Tribunal are very proud of their political system. They consider the weakened governance practiced by the rest of the Order to be inherently corruptible, requiring men and women of great character to prevent that corruption from affecting the members of the Order themselves. In the Theban polity, all decisions are delegated to the Hermetic Assembly; that is, the magi of the Tribunal. However, the business of the Assembly is initiated, prepared, and implemented through magistrates who are selected by lot — the magistrates themselves are excluded from the actual decision-making procedure. Theban magi believe that their system removes block voting and factionalism (since magistrates are chosen at random), prevents cronyism (since the figures in power cannot serve for more than seven years at a time), and negates corruption (since magistrates have no executive or political power). Furthermore, the system encourages a sense of responsibility and altruism by rewarding acts that strengthen the Tribunal, and punishing antisocial acts.
 
-## *The Hermetic Polity*
+## The Hermetic Polity
 
 The cornerstones of the polity of the Theban Tribunal are twofold. The citizens of the polity have all the executive power, whereas the Council of Magistrates has all the administrative power.
 
 Take, for instance, the most common example of an alleged violation of the Code of Hermes: in Thebes it is the magistrates who prepare the evidence for the prosecution and the defense, not the principles involved. The decision of guilt or innocence is determined by the citizens (which is true for both Thebes and the usual Hermetic system), but deciding the punishment to be levied against a guilty party — which would normally be the job of the Quaesitores — is again the prov-
 
-## *The Origins of the Polity*
+## The Origins of the Polity
 
 The Athenian political system has long been held up as an ideal government. Modeled on political theories of Plato, Aristotle, and Polybios (to name but a few), it reached its height in the days of Demosthenes (384–322 BC). It was lauded for its fairness, in that the laws were both determined by and protective of the people rather than the rulers. Technically not a democracy but a polity (politeia), a key feature was that individuals could not amass political power: they were not elected into positions of authority, but rather chosen at random; they served for no more than one year at a time; and they could never serve in the same capacity more than once. Furthermore, those who served in an authoritative position had no executive power; all decisions were made by the Assembly as a collective rather than by any individual. Despite its noble beginnings, through successive reforms the governance of Athens became corrupted from its philosophical ideal, and eventually vanished.
 
@@ -952,7 +952,7 @@ common in the Theban Tribunal.
 
 The Tribunal's procedures are mediated through the election of **archai** (singular "arche"), a council of 16 magistrates who manage the Tribunal's resources, review the law, and investigate cases. Archai are selected at each Tribunal meeting, and serve for seven years at a time. They elect one of their number to be the **archon**, who acts as chairman to the council. There are two other executive positions: the **logothete** who marshals the Tribunal's bureaucracy, and the **polemarch** who ensures its edicts are carried out.
 
-## *Citizenship*
+## Citizenship
 
 The magi of the Theban Tribunal are its citizens. All citizens are equal; anyone trying to claim superiority over a member of the Tribunal based on lineage, reputation, age, or raw power is violating local etiquette. Theban magi do not acknowledge titles such as Archmage, Chief Quaesitor, Primus, and so forth, although they do respect job titles such as Quaesitor, Redcap, and hoplite.
 
@@ -962,9 +962,9 @@ A **polites** (pol-LEE-tees, "citizen") is a member of the Order of Hermes who p
 
 A **metoikos** (MEH-tee-kos, "resident foreigner") is a member of the Order of Hermes who is not a member of the Theban Tribunal. They are either guests to the Tribunal, or politai who have lost their rights due to failing in their civic duties. A foreign magus can become a polites through a citizenship decree of the Tribunal (see Tribunal Procedure). This caste exists to keep those who have not contributed to the well being of the
 
-#### *The Theban Tribunal*
+#### The Theban Tribunal
 
-## *Theban Quaesitores*
+## Theban Quaesitores
 
 In the Tribunal of Thebes the polity (in the form of a board of magistrates, see later) conducts investigations into potential breaches of the Code of Hermes, rather than the Quaesitores. Furthermore, another faculty traditionally devolved to House Guernicus — the review, updating, and expansion of the Peripheral Code — is also performed by the polity. Rather than emasculating the House, Theban magi (Guernici included) argue that this permits them to be more than simply investigators and judges, and removes an onerous and sometimes time-consuming duty from their backs. Thanks to their training, members of House Guernicus remain the experts in Hermetic Law, and are often used as expert witnesses or sources of information, which enhances rather than diminishes their prestige in the Order.
 
@@ -988,7 +988,7 @@ The four phylai are:
 
 east of the Tribunal, in Thrace, northern Nicaea, Constantinople, and any covenants in the Black Sea, are members of the Propontian phyle. This currently includes Moero's Garden, Gigas, Xylinites, and Michael's Tabula.
 
-## *The Council of Magistrates*
+## The Council of Magistrates
 
 The role of arche (arkh-EE, "magistrate") is a duty rather than an honor; it confers no additional political rights but greater responsibility. Archai assist in organization and administration on behalf of the Tribunal's citizens for seven years. There are 16 archai, four drawn from each of the four phylai; and the Council of Magistrates also has two executive members — the polemarch and the logothete — and is lead by the archon, who is chosen from among the archai.
 
@@ -1045,7 +1045,7 @@ The **Conciliatory Board** has as its purview all personal conflicts between mag
 
 Certamen in the Theban Tribunal is generally restricted to cases of legitimate and substantive dispute. The use of certamen as a means to establish dominance or precedence over another magus is frowned upon in this Tribunal, since it violates the principle of equality. The use of certamen to determine the claimant to a vis find is especially badmannered. In such a case, it is more usual to
 
-## *A Selection of Redcaps*
+## A Selection of Redcaps
 
 #### **Lysandros**
 
@@ -1123,15 +1123,15 @@ Tokens can also be exchanged between magi without neutralization. For example, i
 
 Any citizen possessing one or more shards is liable to the vote of ostracism (see Tribunal Procedure, later). Because of this, neutralizing shards and winning decrees of contrition are important pursuits in the Theban Tribunal. Magi who are in the metoikos class cannot gain tokens or shards, and are instead censured by the Tribunal through fines or ostracism (see later).
 
-## *Customs of the Tribunal*
+## Customs of the Tribunal
 
 Other than the political system, there are some features of the Theban Tribunal that differ substantially from those found in other Tribunals.
 
-## *The Language of Magi*
+## The Language of Magi
 
 With the defeat of House Tremere, orchestrated by Theban magi (see Hermetic History, earlier), the cultural influences promulgated by House Jerbiton prevailed. As a consequence, the common language of the Tribunal's magi is Classical Greek rather than Latin. Classical Greek was chosen over a more modern dialect to add a certain gravitas, in addition to the magical significance of using a dead language. The magi of the Theban Tribunal adapted Hermetic Magic into the Greek language (see *Ancient Magic*, page 29 for the process) immediately before the Sundering of Tremere, although a sizeable
 
-## *Other Tasks for the Common Good*
+## Other Tasks for the Common Good
 
 From time to time, it is expected that magi will undertake additional tasks and quests at the request of the Tribunal. Once the People's Assembly (see Tribunal Procedure, later) has determined the need for a specific task, volunteers are called for. Any magus who volunteers and successfully completes the job is awarded a token. It is considered selfish for an appropriately skilled magus not to volunteer, especially if asked directly. In extreme cases, a degree of censure may be employed against such a refuser.
 
@@ -1154,20 +1154,20 @@ minority — those from outside the Tribunal, and from certain Houses — retain
 
 Magi raised in the Tribunal usually have Romaic Greek as their native language; and, since they use Classical Greek to cast their spells, need not learn Latin as a separate language. However, to read the Hermetic books written in Classical Greek they need an effective score in that language of 4 (**ArM5**, page 32), so they need to increase their Native Language to 6 to account for the penalty. To write books in Classical Greek requires fluency in that language (a score of 5, **ArM5**, page 165) rather than Romaic Greek, so magi often learn both languages. Of course, many also learn Latin if they travel beyond the Tribunal's boundaries; or wish to benefit from books written by the rest of the Order, although the Theban Tribunal has sufficient works written in Classical Greek to satisfy many lifetimes of magi. A character who is not fluent in Greek finds it difficult to recognize the spells cast by a Greek magus. Non-Greek speakers suffer a –10 to attempts to determine the Form of a magical effect (**ArM5**, page 83) if they have no score in Classical Greek, or a –5 if their effective score in Classical Greek is less than 4. Theban magi suffer the same penalties to recognize spells cast in Latin if they lack fluency in that language.
 
-## *Common Vis Sources*
+## Common Vis Sources
 
 Some vis sources are not owned by individuals, but rather by the polity as a whole. This tradition stems from the days of the Theban leagues, who possessed a superstitious disinclination from claiming something provided by the gods. They felt that vis found at the shrines to the gods of the ancients, along with that stemming from certain mythic sites, was given to everyone rather than to individuals. The vis sources held in common are now clearly defined by the Peripheral Code. The vis from these resources is collected by individuals on behalf of the Tribunal; a service for which they receive one token. The vis from these sources contributes to the coffers of the Tribunal.
 
 In total, the Tribunal harvests approximately 50 pawns of vis from such sources each year. Creo and Vim vis are especially abundant. A certain amount of the Tribunal's vis is used to fund the crafting of Longevity Rituals for its most favored members. Vis is also used for the creation of magic items for
 
 
-## *Gifts of Vis*
+## Gifts of Vis
 
 The Theban Tribunal is blessed with relatively plentiful supplies of vis, which allows its magi to be generous; as such, an informal tradition of gifting vis to others has developed. A season of hospitality or access to a library is typically repaid with a small gift of one or two pawns, in addition to the neutralization of one of the hosts' shards. The magical healing of a fellow magus (see later) is usually repaid generously. Gifts of vis from visiting Redcaps are also common, as elsewhere in the Order, but they also gift generously whenever they trade vis on behalf of a magus, so that the effective rate of return on a vis trade is more than the usual 50% (see Houses of Hermes: True Lineages, page 85). The gifting of vis between friends and friendly covenants is not uncommon. While there are no rules governing such matters, stinginess or a consistent failure to provide gifts is regarded very dimly; in extreme cases such a magus may even be considered for a decree of defamation. The demanding of a gift in advance of a favor is equally poor etiquette. Magi from outside the Tribunal unfamiliar with local customs find these principles hard to adopt, and are often considered bad-mannered or greedy by the Theban magi. A maga who hoards vis beyond what is needed for her personal projects (such as for study, or the enchantment of a talisman or familiar) is regarded as being insufficiently generous. The exchange of tokens or shards, the true "currency" of the Tribunal, for vis is not permitted.
 
 the Tribunal — principally used by archai and Redcaps — and to fuel the Ceremony of Propitiation (see later). Vis is also set aside for magical healing and other emergencies requiring Ritual magic.
 
-## *Acts of Altruism*
+## Acts of Altruism
 
 The culture of the Theban Tribunal has a great emphasis on the common good, and the polity as a whole has instituted several procedures that relieve the burden on its members and mitigate personal hardship, principally the provision of Longevity Rituals, healing, and apprentices. On an individual level, the members of the Theban Tribunal use the token and shard system to share duties and favors. Furthermore, the Treasury Council is a means by which an individual can secure a loan of vis for a project.
 
@@ -1183,7 +1183,7 @@ As with longevity, the Theban Tribunal has a long-standing tradition of generosi
 
 If a magus discovers a Gifted individual, he has a duty to notify the Treasury Council. Rather than claiming the individual himself, the potential apprentice is distributed to the most appropriate master through the Apprentice Presentation, which takes place prior to each Tribunal meeting (see later for more details).
 
-## *The Covenant Patrons*
+## The Covenant Patrons
 
 A peculiarity of the Theban Tribunal, adopted from the Theban League that preceded it, is that each covenant is associated with a specific supernatural entity with whom they have entered a pact of mutual protection. For example, the covenant of Hedyosmos venerates a nymph Daimon that guards a mystical gate in their covenant; the covenant of Polyaigos benefits from the protection of a giant; and the covenant of Alexandria holds the spirit of a grove of myrhh trees in high regard. Patrons may be spirits, gods, or genii loci, or even saints or faeries. Each covenant takes it upon itself to ensure the welfare of its patron, with whom its identity and fortunes are strongly associated, and enjoys some benefits in return, expressed as either the Powerful Ally Boon or the Local Ally Boon (*Covenants*, page 21). Each covenant's symbol is usually a representation of its patron in some way. The requirement to secure such an ally before founding a covenant (see later) serves as one means by which the rich lands of the Tribunal limit the number of magi dwelling within its bounds.
 
@@ -1200,19 +1200,19 @@ This ceremony is rarely discussed with (or witnessed by) magi from other Tribuna
 
 Despite these prejudices, the sacrificed vis is not actually wasted; rather it is used to empower the patron with Might and powers. Any patron who is propitiated in the rite gains 25 experience points, which, like other experience gain by Magical creatures, is reduced by the creature's Might score (see *Realms of Power: Magic*, pages 51–52). However, the offering of vis at the lake is functionally equivalent to the eating of vis, reducing the penalty due to the patron's Might by two points per pawn. For example, a patron with a Might of 25 would normally gain nothing, but if the covenant offered a sacrifice of 10 pawns of vis, it still gains 20 experience points that can be used for advancement or transformation.
 
-## *The Founding of Covenants*
+## The Founding of Covenants
 
 It is not especially difficult to found a new covenant in the Theban Tribunal, although there are a number of requirements that need to be met. Every Theban covenant is publicly dedicated to a specific role or purpose, and so a prospective covenant is required to declare its own purpose. Secondly, and related to this, a prospective covenant needs a patron at the proposed site of the new covenant. Finally, a suitable charter must be drawn up. The proposal is then reviewed by the Conciliatory Board, which ensures that the charter is in good order, that the patron exists and is truly willing, and that any other legal requirements are met. A decree of founding is then offered at Tribunal, with a vote to accept. If approved by the Conciliatory Board, this vote is, in most cases, a formality.
 
 
 
-## *The Tribunal Meeting*
+## The Tribunal Meeting
 
 The formal meeting of the Theban Tribunal takes place every seven years on the floating island of Delos (see Chapter 6). A Tribunal meeting always has a fixed order of business. It is divided into four phases, each of which fulfills a different state function. The Tribunal begins with a meeting of the Hermetic Assembly, followed by the Law Council, the People's Court, and the Council of Magistrates. There is then a closing ceremony. Each day of the Tribunal meeting begins at sunrise, when the magi are expected to be already in attendance. The Tribunal meeting ends when the magus who is speaking when the sun sets has concluded whatever he was saying. The business of each phase can span several days if necessary.
 
 Each Tribunal meeting is under the governance of a phyle, called the principle phyle. This phyle changes every Tribunal in a predetermined rotation — Ionian, Aegean, Kretan, and Propontian, then back to Ionian. It is up to the storyguide as to where in this cycle his saga is currently, but it is recommended that the second Tribunal that the characters attend has the characters' phyle as its principle phyle. This gives the characters one Tribunal to become familiar with Tribunal procedure before they are asked to assist in its organization.
 
-## *Pre-Tribunal Procedure*
+## Pre-Tribunal Procedure
 
 The phyle responsible for organizing the Tribunal meeting is expected to ensure that the buildings set aside for housing the attending magi are cleaned and ready for their occupants. See Chapter 6, Delos for more details of the challenges this might pose.
 
@@ -1224,7 +1224,7 @@ A day or two before the Tribunal takes place, members of a phyle gather in their
 
 For two days prior to the start of the Tribunal, all Gifted children located by the Treasury Council are made available for interview by magi in search of an apprentice. There are usually between 12 and 20 Gifted children present at this event. Any potential master who is not in possession of a shard, or any Bonisagus magus even if possessing a shard (the Code trumps local customs), may consult the written record of each child's circumstances and may briefly question or test any of the children in whom he is interested. He then gifts one or more tokens to one or more of the children whom he desires as his apprentice. For example, he may give his favorite two tokens, and his second favorite one. According to the rights granted them in the Oath of Hermes, Bonisagus magi may immediately claim any of the presented apprentices. According to tradition, however, they still gift their new apprentice with one or two tokens. Young magi — those who are attending their first or second Tribunal — are recruited to extend their parmae magicae around the children so that they are not affected by The Gift of any of the potential masters.
 
-## *The Hermetic Assembly*
+## The Hermetic Assembly
 
 The first phase of the Tribunal itself is the Assembly. The magi assemble in the forum, politai wearing white robes and the metoikoi wearing grey robes. Archai supplement their robes with a wreath of myrtle leaves, the archon is further distinguished by a staff of office, and the polemarch wears a red sash. All votes take place via a show of voting sigils, and all magi present — whether politai or metoikoi — can take part in the vote. All decrees are passed by a majority vote of those magi present. The logothete is responsible for counting the votes, and the archon announces the result immediately after the vote is taken.
 
@@ -1257,7 +1257,7 @@ The logothete calls upon members of his House who have received news from the re
 Unlike the serendipitous and chaotic approach common in most other Tribunals, the Theban Tribunal has a highly formalized routine for the assigning of apprentices to masters. At the presentation during the People's Assembly, each child steps forth and proudly (or otherwise) shows the number of tokens she has gathered in the interviews prior to the Tribunal meeting. If she has received tokens from only one magus, then she becomes his apprentice. She keeps these tokens and may spend them as soon as she becomes a maga in her own right. If a child has received tokens from more than one magus, then she may choose who is to be her master. It is usual for her to pick the master who has gifted her the most tokens, both because she may later spend these tokens herself and because a greater number of tokens indicates a master who is either more generous or accomplished, but this is not always the case. All tokens given by unsuccessful bidders are returned to them at the end of the presentation. A child who
 
 
-## *Story Seeds*
+## Story Seeds
 
 #### **Hermetic Kindergarten**
 
@@ -1278,26 +1278,26 @@ As a consequence of the apprentice presentation, most apprenticeships are squeez
 
 The last order of business in the People's Assemby is the ostrakismos, or ostracism. The logothete reads a list of every magus who has one or more shards, along with their current count of demerits, excepting those magi who have become politai at this Tribunal through a decree of citizenship. For each name, a vote is taken as to whether the individual is a candidate for ostracism. Once this process has selected the candidates, each magus present writes the name of the candidate he wishes to ostracize on a sliver of pottery, or else writes "no one" and drops it into a jar. Once everyone has voted, the slivers are counted, and the magus with the most to his name is declared ostracized. If there is a draw, the vote is held again with just the names of the drawn candidates. If "no one" has the most votes, then there is no ostracism this Tribunal. An ostracized magus is stripped of his status as a citizen of the Theban Tribunal, and must leave the Tribu-
 
-## *The Nature of the Law*
+## The Nature of the Law
 
 The Hermetic Code of the Theban Tribunal is comparatively simple. It consists of the Oath of Hermes, the edicts of the Grand Tribunal that apply to all Tribunals, and a relatively small corpus of the Peripheral Code. Unlike other Tribunals, where every prosecution becomes part of the Peripheral Code and acts as precedent, the Theban Code contains only deliberate acts of law-making, as passed by the Law Council. Each case is judged according to the Code and with no reference to previous rulings.
 
 nal's bounds within one season of the close of the meeting. He cannot return to Thebes for seven years; and if he chooses to return, he bears the status of a metoikos.
 
-## *The Law Council*
+## The Law Council
 
 In this phase of the Tribunal, which always starts on a new day, the Peripheral Code of the Tribunal is reviewed. The Legislative Board presents any cases that have been brought before it. The two archai assigned to each case debate the relative merits of the current ruling and the proposed alternative. The Tribunal then votes on the matter, and if the alternative is accepted, the change to the Peripheral Code is recorded. The debate between the two principals can be glossed over if it has little relevance to the player magi; or, if it is important (or they are acting as one of the archai), it can be orchestrated using the rules provided in *Houses of Hermes: Societates* (pages 90–93). As with all tasks assigned the archai, if they are deemed to have not defended their position to the best of their abilities, then they may be awarded shards during the fourth phase of the Tribunal; however, there is no shame in asking an expert — such as a member of House Guernicus — for advice on how to pursue the case.
 
 If a polites suspects that he will be found guilty of a crime at the People's Court, he may preemptively request a review of the law that he supposes will convict him. This must be organized prior to the Tribunal meeting; but can result in negating the case against him. Likewise, if a magus suspects that his aggressor will be deemed innocent, he can pursue the same route. Note that this is a potentially risky strategy, since if the case goes against the magus he has no defense available to him when his case is heard at the People's Court.
 
-## *The People's Court*
+## The People's Court
 
 In the third phase of the Tribunal meeting, all Hermetic crimes are heard and considered by the Tribunal. At the beginning of this phase, the archon announces the order of the cases that will be heard by the Tribunal. All cases must come through one of the three boards, although the Judiciary Board is responsible for most of the Court's business.
 
 Trying a case before the People's Court proceeds much as described in *Houses of Hermes: True Lineages* (pages 56–61), except that the prosecution and defense principals are always archai of the appropriate board, exhorted to do their best by the threat of being awarded shards when their conduct is reviewed in the Council of Archai (see later). The principals call witnesses to read prepared testimony, and indicate the sections of the Code of Hermes that cover the prosecution's case. The defense principal provides counter-evidence and declares mitigating circumstances. Once both have spoken, the Tribunal decides the case through voting. No sentence is decided at this stage, only guilt or innocence. However, the polemarch is responsible for ensuring that all convicted magi remain at the Tribunal meeting until sentencing is carried out, and is usually very watchful of those found guilty of a High Crime. The polemarch is empowered by the Peripheral Code to prevent the flight of a guilty party by any means, although the polemarch should stop short of deadly force if possible. In the history of the Tribunal, no magus has been killed trying to escape justice, thanks to the enchanted devices given over to the use of the polemarch.
 
 
-## *The Council of Archai*
+## The Council of Archai
 
 The final phase of the Tribunal is the Council of Archai. First, sentences are executed, then the conduct of the outgoing archai is examined. The new Council of Archai is then chosen, and the Tribunal is closed.
 
@@ -1330,23 +1330,23 @@ The new archon asks the archai to nominate magi as candidates to serve as polema
 The last official order of business of the Tribunal is to dismiss the Assembly. The new archon usually says a few words, and the Tribunal's business is concluded. The magi proceed directly from the agora to the lake on Delos for the Ceremony of Propitiation (see earlier).
 
 
-## *Chapter Four*
+## Chapter Four
 
-# *Culture & Customs*
+# Culture & Customs
 
 Byzantine lands differ from the Western realms of Mythic Europe in many ways. Local customs, which may seem bizarre or alien to foreigners, are important in defining the atmosphere of the region and acting as a backdrop for stories. In the last 15 years, the political landscape has undergone major upheavals with the arrival of the crusaders and the fall of Constantinople and, with it, the Byzantine Empire. However, this has had remarkably little effect on the vast majority of the populace of the region, and only a modest impact upon their culture and practices.
 
 This chapter focuses predominantly on the Byzantine people, specifically where they differ from the Western Europeans — or, as they are known locally, the Franks. Not all of the practices and beliefs described here are exclusive to the Theban Tribunal or the former Byzantine Empire, but many are.
 
-## *Social Structure*
+## Social Structure
 
 Aristocracy in Byzantine lands is not strictly hereditary in the Western sense; the difference between landed nobility and peasants who work the land is not as stark, allowing a much larger middle class of smallholders and craftsmen. However, the invasion of the Franks has imposed an artificial feudal hierarchy on a non-feudal system; this has had little impact on the middle and lower classes, but has completely undermined the upper class.
 
-## *The Emperor*
+## The Emperor
 
 At the top of the social pyramid is the *basileus Rhomaion* ("king of the Romans"), the emperor. The emperor variously is born into the family of the current ruler, appointed as co-ruler by the current emperor, or seizes power with the support of the army.
 
-## *The Dynatoi*
+## The Dynatoi
 
 The elite members of Byzantine culture are the *dynatoi*, or "powerful ones". Largely restricted to established families with a distinguished history, the dynatoi are the high-ranking bureaucrats, military leaders, and major landowners. Byzantine emperors are notorious for handing out honors and titles, but these last for the lifetime of the recipient and do not remain within his family. Maintaining their position at court is a constant struggle for the dynatoi, since the new honors force everyone to revisit dominance
 
@@ -1357,38 +1357,38 @@ and alliances. Once residing principally in Constantinople, where they maintaine
 
 In the surviving fragments of the Byzantine Empire, political power is a function of one's role in the imperial service, which has three major branches: the imperial court, the military, and the civil authority. The imperial court consists of the emperor's immediate family, together with a large number of court officials, and the senate. In the 13th century many of the important and advisory roles are occupied by eunuchs (see later). The senate is a largely ceremonial body made up by the dynatoi and senior members of the clergy. The military (see later) consists of an elite imperial guard and a series of provincial field armies, each commanded by a general (*strategos*). The civil bureaucracy is staffed by skilled, literate men responsible for the administration, record keeping, and legal work taking place mainly in the capital, who were supported by the taxes raised by the provincial officers.
 
-## *Latin Lords*
+## Latin Lords
 
 In contrast to the Roman Empire that preceded it, the Latin Empire is divided up between the noble lords responsible for the invasion in 1204. Directly beneath the Latin emperor are the *vassalli*, who include the Frankish lords who hold baronial titles under the emperor, and the people of simple homage (*homini plani homagii*) — those Byzantine lords who complied with the new system. Included within the vassalli are the King of Thessaloniki and his barons, the prince and the lords of the 12 baronies of Achaea, the Duke of Athens, the Duke of the Aegean (Naxos), and a host of other lords who either seized or were granted lands during the Frankish invasion.
 
 The imperial court of the Latin Empire consists of the private council of the emperor and the council of the empire. The former is made up of the emperor's trustees, whereas the latter is constituted of the emperor, the Venetian podesta of Romania and his own council, and the Frankish barons. The imperial bureaucracy remains largely unchanged, since taxes still need to be collected, crimes still need to be judged, and resources still need to be gathered.
 
-## *The Theban Tribunal*
+## The Theban Tribunal
 
-## *The Middle Classes*
+## The Middle Classes
 
 The smaller property owners and merchants form the *mesoi*, or "middle class". Most are farmers who live in the towns but own nearby land. Diversification is the key to success, and many farmers own vineyards, olive groves, grazing land, and so forth. Crafts and services are very much concentrated in provincial towns.
 
-## *The Dynatoi as Player Characters*
+## The Dynatoi as Player Characters
 
 A player wanting a character of noble background might choose to be one of the dynatoi dispossessed by the invading Franks. Such a character is likely to have the Privileged Upbringing Virtue to represent his former status. If he wants to struggle against the invaders, then the Heir Story Flaw along with the Driven Personality Flaw are particularly appropriate, spawning stories about his attempts to regain his birthright. A dynatos whose lands are now part of the Kingdom of Thessaloniki may be ideal, since these lands are currently most threatened by Greek forces.
 
-## *The Lower Classes*
+## The Lower Classes
 
 The largest stratum of society is the rural peasantry, who live on the land they work — small fields or orchards that they own outright or lease from others. This class is rightly called the *aporoi* ("poor"), for it makes a subsistence living, struggling to produce enough crops to feed the family and to pay taxes. The urban poor exists as a distinct group that relies on official, religious, and private charity; the emperor dispenses alms at festivals, setting an example for his citizens.
 
-## *Slavery*
+## Slavery
 
 Once an important feature of Byzantine society, slavery (*douleia*) has become relatively uncommon in the 13th century, partially due to the influence of the Western Church, but has not disappeared entirely. Most slaves are born to enslaved parents or are of foreign origin, acquired by merchants and regulated by imperial decree. The enslavement of prisoners of war was a third source of slavery, but this is now much less common. Well-treated slaves in a large household are better off than the urban poor: they have limited property rights, the right to Church sacraments, are allowed to marry, and have the capacity to gain freedom, usually upon the death of their owner. At the same time, a slave is considered a special form of property, and the owner has the right to enforce good conduct with the threat of lethal force. The Church (especially the Western Church) disapproves of, but does not forbid, slavery, and stresses the obligation of the owner to treat obedient slaves well.
 
-## *Eunuchs*
+## Eunuchs
 
 Eunuchs, while a freakish rarity in Western Christendom, are a relatively common sight in the East, where they are well-integrated into society, commonly serving the imperial court or noble families as courtiers, administrators, or generals. Many court positions are reserved only for eunuchs, especially those closest to the emperor and his family. The most important eunuch officials in the Byzantine hierarchy are dubbed archieunuchs; in the past, some palace archieunuchs have even grown to rival their emperors in the power and influence that they have wielded. There are several famous instances of eunuchs, including the great general Narses, who fought campaigns in Italy under the emperor Justinian in the sixth century. And Ignatius, a ninth-century Patriarch of Constantinople, was later recognized as a saint. Eunuchs also often become monks, although some monasteries, including those on Mount Athos (see Chapter 5: Greece), have forbidden them, for fear of tempting others from their celibacy. The beautiful singing voices possessed by many castrati are, however, greatly appreciated in the Church, leaving even Western visitors gentled and tearyeyed. Several Theban covenants employ eunuchs as autocrats and stewards, and there is a small handful of eunuch magi.
 
 In the Byzantine Empire, "eunuch" is a broad term for men who are not sexually active. A distinction is made between *castrati*, males who have been physically castrated, and *spadones*, a more general term for an impotent or asexual male, whether castrated or not. This is an important le-
 
 
-## *Women*
+## Women
 
 gal distinction, since the latter may marry, whereas the former may not. Men who were castrated before puberty retain a somewhat effeminate appearance and voice, and do not develop facial hair. They tend to have long bones, making them long-limbed and blessing them with large lungs, due to their long ribs — they often possess improved stamina or a great singing ability, but lack in manly strength. Eunuchs tend to dress ostentatiously, and commonly wear makeup or perfumes.
 
@@ -1398,17 +1398,17 @@ Byzantine culture is extremely patriarchal, and for many centuries most women we
 
 In the last century that has begun to change significantly. Even before the Latin conquest, many women were entering business and even the professions, and some female apothecaries, doctors, and scholars exist alongside their male counterparts. Medical women are usually expected to treat their own gender, though. It is not unusual to buy food or cloth from a woman at a shop or stall, and women have rights of inheritance which can see them taking over their husband's workshop if no suitable male heir is available and they are able to pursue a craft. In the cloth industries, and in silk production in particular, women can rise to great prominence. Women still wear the veil and are under the authority of their husbands, but they are a force in intellectual culture and the new pragmatism of the empire in decline has allowed many women greater freedoms than before.
 
-## *The Eastern Church*
+## The Eastern Church
 
 Travelers from Western Mythic Europe will immediately recognize certain aspects of Orthodox Christianity, while much will appear alien and confusing to them. Still the Churches are drawing closer, as mainly Venetian priests have been appointed by the new rulers. Many Orthodox priests remain in office, indeed the great majority, and they have varying degrees of acceptance of the claims of Rome.
 
-## *The Two Patriarchs of Constantinople*
+## The Two Patriarchs of Constantinople
 
 The Orthodox Church consists of a number of autocephalous Churches, such as the Bulgarian Church, the Russian Church, and the Greek Church. The patriarch is the senior figure in all of the Orthodox Churches.
 
 The Patriarch of Constantinople is the honored first bishop of the Orthodox Church. He is not in authority over the other patriarchs or autocephalous Churches (Churches who maintain independence as part of the Orthodox Communion, which include the Bulgarian Church and since 1219 the Serbian Church). He is understood as "First Among Equals" among the patriarchs of the Church. With the official title of Archbishop of Constantinople, New Rome, and Ecumenical Patriarch, he alone has the right to convene Oecumenical Councils of the Orthodox Church, and to deal with disputes between bishops in any of the Orthodox Churches. He directly heads the Greek Orthodox community under Constantinople's patriarchal region. Orthodox patriarchs are often forced to abdicate by the emperor,
 
-## *Virtues and Flaws for Eunuchs*
+## Virtues and Flaws for Eunuchs
 
 #### **New Virtue: Archieunuch**
 
@@ -1439,11 +1439,11 @@ The agreement between the Venetians and the crusaders specified that the Venetia
 
 The Latin Church has created new episcopal sees and appointed Latin bishops, and obvious tensions exist with their mainly Orthodox priests. Attempts are underway to actively recruit more Latin priests from Western Europe, and in many churches' Latin rites have replaced the Byzantine rite. However, the vast majority of people remain loyal to the Orthodox Church, and many Orthodox priests who actively oppose union with Rome continue to serve in the new hierarchy.
 
-## *Buildings*
+## Buildings
 
 An Orthodox church is sumptuously decorated and extremely ornate and rich by the standards of the Latin West. A great rood screen hides the altar, and is only opened to reveal it during the central moments of the mystery of the eucharist. With the heady incense and beautiful garb of the clergy and servers, the church experience appears daz-
 
-## *Anna Komnene*
+## Anna Komnene
 
 Among the most famed of the Byzantine historians is the 12th-century princess Anna Komnene. Born in the purple (see Chapter 7: Constantinople, The Porphyry Chamber) in 1083 as the eldest of nine children and the daughter of emperor Alexios Komnenos (see Chapter 2: History), she was blessed with extraordinary talent and ambition. She mastered the usual subjects at a young age, whereupon she secretly sought out Michael of Ephesos for tutelage in certain forbidden subjects, including an advanced study of ancient poetry and Aristotle. Anna plotted against her younger brother John in a bold attempt to become empress; when this scheme failed she was exiled to a monastery, where she was at leisure to concentrate on her scholarly career.
 
@@ -1455,7 +1455,7 @@ zling, almost mystical, to foreigners. Some practices are unknown in the Latin C
 
 Many visitors are, however, scandalized by the irreverent (to their mind) way in which the congregation often talks, fails to pay attention, or only attends the parts they want, drifting in and out of the service throughout. Sermons are, however, a major popular source of entertainment, and a good preacher can keep a crowd enraptured. But there is a very different idea of order between the two Churches, and people gossiping, arguing, joking, or idly dozing is not seen as a sign of particular impiety, or at least not successfully countered despite occasional efforts. Just as baffling to a Westerner are liturgical traditions such as the requirement to pray standing between Easter and Pentecost.
 
-## *Clergy*
+## Clergy
 
 The major difference between the Latin and Orthodox Churches is the way the clergy are organized. The Orthodox recognize two types of clergy, known by the terms black and white. The white clergy are priests, and expected to marry (as opposed to the Latin Church where clerical celibacy is the norm). The black clergy are the monks, who remain celibate. Only black clergy may be appointed as bishops, so celibacy is a advantage to the ambitious clergyman. Eunuchs may hold either position in theory, though because of their supposedly effeminate and lascivious ways they are often excluded from monastic communities. White clergy and bishops wear elaborate and often beautiful ceremonial clothing. To qualify as a priest or monk, a man must be educated, over 35 years of age, and able to recite the entire psalter by heart.
 
@@ -1475,7 +1475,7 @@ Nunneries take the form of either small houses dedicated by private individuals 
 
 Nuns give over their dowry to the nunnery on joining, and have few personal possessions, for like monks they take vows of poverty, chastity, and obedience. They may be placed in a nunnery at the age of ten, but vows may not be taken before age 16. For both monks and nuns the novitiate period before fully entering the community's life lasts six months.
 
-## *Icons*
+## Icons
 
 One of the outstanding features of Orthodox religious life is the beautiful icons that can be found in homes, churches, and public places — some of the largest icons hung above the gates of the city of Constantinople itself. The icons are of two types: *eikons*, piously crafted by craftsmen; and *acheiropoieta,* icons that are spontaneously created in certain very strong auras or that were brought from heaven by angels.
 
@@ -1483,14 +1483,14 @@ An icon is a two-dimensional stylized representation of a religious figure, usua
 
 For further information on the creation and use of icons, see Chapter 11: Divine Landscape.
 
-## *Inhabitants*
+## Inhabitants
 
 This section describes the different peoples who may be found in the lands of the
 
 
 Theban Tribunal, along with their languages and naming practices.
 
-## *Ethnic Groups*
+## Ethnic Groups
 
 The extent of the Byzantine Empire at its height encompassed a vast array of different cultures, from Italy to Syria, and Bulgaria to Egypt. The Byzantine people, specifically the urbanites, are unusually tolerant of cultural differences. The medieval empire is much more restricted in size, having lost territory to the Arabs and the Turks, yet this tolerance persists.
 
@@ -1514,7 +1514,7 @@ Arabs from the Holy Land and North Africa mix with the Coptic-speaking Egyptians
 
 Finally, the Seljuk Turks are a rare sight outside of Asia Minor, and are generally treated with awe and fear.
 
-## *Languages*
+## Languages
 
 While the language of the imperial administration and the military is Latin, the dominant vernacular language is Romaic Greek, spoken from the Adriatic Sea to Nicaea's shores, and from Bulgaria to Candia. It is a descendant of the Common (Koine) Greek imposed on the land by Alexander the Great, who had this language synthesized from the many dialects of Classical Greek so that his army could communicate. Consequently, Romaic Greek currently has no significant regional dialects, with the possible exception of Yevanic, a version spoken exclusively by Jews.
 
@@ -1547,19 +1547,19 @@ Even without knowing the specific language, a character who knows a language tha
 
 \* Penalty applies to both speakers.
 
-## *Names*
+## Names
 
 Following the Roman pattern, it is common for Greeks to have a given name (*praenomen*), a family name (*nomen*), and one or two distinguishing surnames or patronymics (*cognomen*). The given name is commonly that of the saint on whose feast day the child is born, although historical names, particularly those of the emperor's family, are also popular. Given names are also occasionally handed down from a father to his children. Family names often relate to a profession or moral character, or, for military families, a posting or ancestral village. Members of the lower classes often omit family names altogether. A son usually takes the family name of his father; a daughter adopts the family name of her husband, unless her own is more distinguished. Surnames are mostly used to distinguish between members of the same family with the same names, although they also relate to local reputations and can distinguish between particularly common given names.
 
-## *Customs*
+## Customs
 
 This section describes family and daily life in the Theban Tribunal, as well as Byzantine law, education, and literature.
 
-## *Family Customs*
+## Family Customs
 
 Baptism is an important sacrament of the Orthodox faith, and every child is baptized, usually within eight days of the birth. The mother is Churched forty days after the birth — she remains at home to recuperate, before reentering social life and sexual relations. Owing to a widespread belief that women in
 
-## *Example Names*
+## Example Names
 
 #### **Male Given Names**
 
@@ -1588,25 +1588,25 @@ Death is greeted with mourning rites and a funeral service. Black is worn as the
 
 bones of the dead are dug up, soaked in wine, and then placed in a common charnel house, allowing the grave site to be reused. Denying someone Christian burial and a proper funeral is a terrible thing, and the ghosts of those whose remains are lost or scattered often walk the earth, seeking proper burial.
 
-## *Food and Drink*
+## Food and Drink
 
 Byzantine families dine twice a day; a light breakfast and an evening meal, often served as small portions of different dishes. The wealthy might also have a dawn meal. The use of forks is widespread in the empire; they are a rare novelty to the Franks.
 
 Bread, hard tack, and porridge form the mainstay of the Mediterranean diet, with Asian rice available to those who can afford it. Olives and olive oil can constitute up to one third of the total daily meal; beans, lentils, and chickpeas make up a significant portion, along with wild greens. Fresh fish are eaten at the coast and near to rivers; other meat is eaten rarely by the middle and lower classes, and is predominantly sheep and goats, with some pork. Wine is drunk with most meals.
 
-## *Clothing and Appearance*
+## Clothing and Appearance
 
 The basic article of clothing is the *kamision*, or tunic; it is of varying length and made of cotton, linen, or wool. Emblems, stripes, and cuffs are stitched into the fabric for decoration. The working classes simply belt the kamision at the waist, and add a cloak in the cold. For the aristocracy, a long-sleeved kamision is an undergarment; the over-tunic or *dalmatic* is worn along with a cloak (*chlamys*), and the fashion is for long garments made of expensive materials such as silk. Members of the court wear a felt or fur headdress of elaborate design tailored precisely to their rank. Women's fashions are similar, but the garments are usually longer. An ostentatious *enkolpia* (pendant) worn on the breast and bearing a saint's image, inscription, or relic, is a must for the rich woman; other jewelry often bears precious gems.
 
 For men, the current trend is to go cleanshaven; while monks and priests wear beards as a sign of spiritual authority, the prevalence of beards and long hair among the Franks has driven a counter-fashion among the natives. For women, long hair is much admired, but often concealed behind a veil, since exposed flowing hair is seen as a sign of loose morals. The Byzantine people bathe more often than Westerners, sometimes once a week, and use nitron mixed with vinegar to produce a cleansing foaming soap.
 
-## *Law*
+## Law
 
 The extensive system of laws in the Byzantine Empire and its successor realms is one of the most uncorrupted versions of Roman law that still exists. Unlike Germanic law, which heavily influenced the Code of Hermes, and the common law of England, where a subjective law is embodied in the person of a judge or magistrate who may set precedents, Roman law is a system of rigid written statutes, requiring highly educated and trained experts, known as *scholastikoi*, to interpret. Many such individuals receive their education at the great school devoted to the study of law in Constantinople, which was founded by Constantine IX in the 11th century under the leadership of the famous philosopher Michael Psellos. Although many emperors have added to the body of law over the centuries, the most important texts remain the ancient *Code of Theodosius* and the *Pandects of Justinian*. Under Byzantine rule, cases are heard by imperial magistrates in local courts, although important persons or cities can issue an appeal directly to the emperor. In the Church, legal cases are brought to the seat of the patriarchy, and are heard in a court presided over by the patriarch.
 
 Among the nobility, castration is often imposed as a punishment, especially to rebellious sons of emperors or failed pretenders to the throne; since emperors are expected to produce heirs, a castratus is prevented from assuming the imperial throne. In recent times, however, blinding has become a more common punishment for traitors and political enemies; a blind (or otherwise unwhole) person is similarly considered ineligible for rule. Under Byzantine law, many different kinds of mutilation are inflicted for serious crimes; these are regarded as a lesser punishment than death. The tongue of a convicted liar may be cut out or the hand of a thief amputated, for example.
 
-## *Education*
+## Education
 
 Rudimentary literacy is widespread throughout the Byzantine Empire, thanks to an educational policy instituted by both the Church and secular rulers. Towns and larger villages have an educational program for all children, beginning with small groups of children under the supervision of a teacher (*didaskalos*) who teaches the essentials of the Greek alphabet, moving on to learning syllables, spelling out the names of Biblical figures, and memorizing psalms and key scriptural passages. The limits on the availability of parchment and ink, let alone books, limits schooling to these basics.
 
@@ -1614,7 +1614,7 @@ At the second stage, students are supervised by a grammarian (*grammatikos*) who
 
 There are no universities in Byzantine lands, but most large cities possess a school, some of which have developed a reputation for the quality of their scholars and attract advanced students from far and wide. In Constantinople there are several palace schools, and the ones in the Magnaura, Chalkoprateia, and Sphorakiou districts are particularly prestigious. These schools teach mathematics, geometry, astrology, and philosophy in addition to grammar, and serve as institutes of higher learning. There is also a patriarchal academy connected to the Hagia Sophia for the instruction of clergymen and monks. These schools allow Constantinople to compete with the universities as a major center for learning. Students pay fees directly to their tutor (*rhetor*), and education typically consists of the seven liberal arts and philosophy. There is no equivalent of academic qualifications such as the Magister in Artibus; such qualifications must be acquired in the universities of Western Europe and are highly valued in the empires.
 
-## *Literature*
+## Literature
 
 Greek literature consists of both the ancient and the contemporary. The great body of work from ancient Greece is widely known and studied; much of it is revered for many subjects an ancient Greek author is considered the authority — although some of the "pagan" texts are forbidden and many are subject to a Christian reinterpretation. For the Realm associations of Greek legends, see Chapter 1: Introduction.
 
@@ -1632,25 +1632,25 @@ tractatus in Magic Lore.
 
 of Byzantine poetry reflects the importance of rhetoric in Byzantine education. Whereas a Western minstrel might be uneducated and embellish his tale with personal color or innovation, a Byzantine storyteller is schooled in
 
-## *Trade*
+## Trade
 
 In Byzantine lands merchants are generally considered low and contemptible, a prejudice inherited from the old Roman Empire. Consequently, trade is dominated by foreigners, and the Byzantine ruling class almost without exception does not engage in mercantile enterprises. Still, with the many opportunities available in supplying such a huge city as Constantinople, which remains a preeminent center of trade, merchants here have historically been numerous and wealthy. Many ancient compacts and laws protect and regulate their activities; for example, a centuries-old agreement known as the Rhodian Sea Law provides for fixed compensation for merchants for shipping losses, which is paid by the owners of the ships. There are numerous great merchant fairs, which are often associated with church festivals, such as the feast of St. John in Ephesos in May and that of St. Demetrios in Thessaloniki in October.
 
-## *Taxation*
+## Taxation
 
 The Byzantine emperors had an extensive and effective system of tax collection, from which they drew the greater bulk of their income. At its height, the annual income of the empire amounted to more than a million Mythic pounds. There are taxes on both land and goods. Extensive records for each landed noble list the number of olive groves, mulberry plantations, vineyards, stud farms, flocks, and so on in his possession, and the amount of tax payable on each. Villagers are taxed on their yearly harvest. In the last couple of centuries, the emperors sought to restrict the power of the dynatoi — often local landowners who had gradually bought up most of the land in their villages from their neighbors. Byzantine peasants (the aporoi, see earlier) thus consist of a mixture of free villagers and the *paroikoi*, landless or impoverished villagers akin to serfs, although the latter enjoy greater protections against the abuses of their landlords than in Western lands. All goods sold throughout the empire are taxed at the rate of 10%, a tax known as the *kommerkion*. Powerful tax collectors, the *kommerkiarioi*, are assigned a region or are stationed at strategic ports and trade posts; they are widely despised and often corrupt. After the tax is imposed on all goods passing through, an official seal is placed on sacks and containers.
 
-## *Coinage*
+## Coinage
 
 The Byzantine emperors maintained a monopoly on the minting of coins, and thus ensured a prestigious and uniform system of coinage for many centuries. Gold coins are more common and the usage of currency is more widespread than in the West. The old currency, used since Roman times, consisted of the gold *solidus* and other bronze coins. However, the solidus gradually became debased in the 11th century until Alexios Komnenos instituted a complete reform of the currency just over a hundred years ago. The principal coin is now the thin gold *hyperpyron*, commonly dubbed the *bezant* by Westerners, equivalent in value to one-sixth of a Mythic pound (onesixth of a pound of silver, or 40 Mythic pence). The *aspron* is an electrum coin, one quarter gold and three quarters silver, worth one-third of a
 
-## *Hermetic Correspondence*
+## Hermetic Correspondence
 
 Many magi and covenants have adopted the habit of employing elaborate rhetoric in their letters to each other, a practice which can be extremely puzzling to the uninitiated. Such letters often contain elaborate and far-fetched stories, especially concerning the deeds of their patron, which may or may not be entirely true. The patron is typically used as a metaphor for the correspondent's covenant, and the story relates to the purpose of the letter. Often other elements of the story will be a metaphor for the recipient of the letter, or her covenant. Tales from Greek legend are also commonly used as a metaphorical or rhetorical device. Reading between the lines, it is thus often possible to intuit subtle hidden meaning, which may reveal the correspondent's true intent or purpose. Composing and scribing such a letter typically takes a day of work. A Com + relevant Lore roll should be made against an Ease Factor of 6 to encapsulate a relatively straightforward message; higher Ease Factors are required for more sophisticated or subtle constructions. An Int + relevant Lore roll against the same Ease Factor should be made to discern the rhetorical purpose of the story.
 
 For example, Lucian the Scholar of House Merinita (see Chapter 6: The Islands, Aegaea), one of the principal proponents of this tradition of correspondence, writes to the new covenant of the player characters with a colorful but seemingly irrelevant tale in which the patron of his covenant, Triton, meets a hitherto unknown Faerie lord in his explorations, leading to a fruitful exchange of gifts. This may be interpreted as an interest in exploring a trading agreement with the player character covenant.
 
-## *Digenes Akrites*
+## Digenes Akrites
 
 The most famous of the Greek romances details the life and exploits of the legendary hero, Digenes Akrites. This epic poem is popular throughout Byzantine lands.
 
@@ -1664,17 +1664,17 @@ hyperpyron. The *billon* coin is an alloy of copper and silver and is worth one-
 
 Latin rulers in Greek lands generally lack a sufficient base of wealth and stability to mint their own currency, and use a mixture of Byzantine and Western coins. The principal currency of trade in the Mediterranean is the Venetian grosso, a silver coin of high purity equivalent to 2 Mythic pence. One bezant is thus worth 20 grossos.
 
-## *Trade Goods*
+## Trade Goods
 
 In the eyes of Westerners, Byzantine lands are fabulously wealthy. Gold, precious jewels, silks, and other luxuries are relatively commonplace. Silks are the most famous and valuable of Byzantine goods, much prized in Western lands. They were formerly imported along ancient trade routes from far-distant Eastern lands until the secret of sericulture was discovered, whereupon the Byzantine empire began large-scale silk manufacture as an imperial monopoly, and the import of silks from the East thus became less important. Other important trade goods and exports include olives and olive oil, wine, perfumes, spices, wax, and slaves. Grain is also heavily traded, although it is also needed to feed the largest cities. It has long been forbidden to export certain wares considered to be of strategic or military importance or especial value, such as Greek Fire and its ingredients, gold, iron, weapons, wood, salt, and purple silks.
 
-## *Mediterranean Ships*
+## Mediterranean Ships
 
 The standard Mediterranean trading vessel is a ship with one to three masts bearing lateen sails, usually referred to as a "round" ship, in contrast to the northern "long" ship or galley, on account of their rounded profile at stem and stern. Byzantine and Muslim ships are characterized by a widening of the planks from amidships back towards the stern, creating extravagant upswept flanks or wings. Round ships are steered by two oars mounted in the gap between these wings and the hull, rather than using a rudder. They range in size from open boats with only half decks at best, to very large ships with three decks; between sixty and ninety feet long is typical for large trading vessels. The beam is between one third and one quarter of the length. The lateen sails permit round ships to point into the wind fairly well, but because they have no deep keel, they have extreme difficulty maintaining course at right angles to it.
 
 The most common trading ship is the *dorkon* ("gazelle"), commonly around 65 feet long with a capacity of sixty tons. The *phaselos* ("bean-pod") is a longer and narrower vessel, the *kybaia* ("cubic") is wider and deeper,
 
-## *The Color Purple*
+## The Color Purple
 
 The rarest of all dyes and hues is true purple, a color reserved strictly for the Byzantine emperors. True purple dye may only be harvested from the murex shellfish, a monopoly and secret retained by the emperors. True purple stone is known as porphyry; it is extremely rare and comes from Egypt. Porphyry and purple silks were used for the construction and decoration of the legendary imperial birthing chamber (see Chapter
 
@@ -1687,7 +1687,7 @@ In contrast to the round ship, the galley (*galea*) relies on oar power, and use
 
 Many of the larger ships on the Mediterranean Sea are built in the ports of the great Italian republics on Candia and Cyprus. The smaller vessels are mainly a product of the maritime tradition of the seafaring people of Asia Minor, where every small town and village along the coast has its own shipyard. Muslim vessels, called *'ulabi* (small boat), *qit'a* (transport ship), *marqib* (ship), and *shini* (warship) also ply the seas.
 
-## *The Military*
+## The Military
 
 The Latin Empire relies on its own Frankish troops, supplemented by those Byzantine forces that they have been able to seize. The original Greek forces, still present to some extent in the Byzantine successor states, are based largely on provincial forces and foreign allies (*foederati*). Soldiers are recruited from the land they are asked to defend, and receive grants of land in exchange for military service. All landowners owe military service that they pay in person or by proxy. The military provinces, or *themata,* were each commanded by a *strategos* (general), but the system of themes has gradually broken down and their number has been greatly reduced due to losses in the last 250 years. In the near-anarchy of recent decades, the Byzantine army has declined greatly, resulting in a heavy dependence on Western mercenaries.
 
@@ -1696,16 +1696,16 @@ Most of the Byzantine navy has by now fallen into disrepair, although the Byzant
 
 Byzantine military strategy placed a great reliance on fortified hilltops, castles, and towers. Small defensive enclosures are dotted all over the empire, many of them abandoned as armies retreated. As a result of this strategy, military architects have also become experts at siege warfare, particularly siege machinery, and have a dazzling array of cunning devices that hurl heavy weights or massive spears intended to destroy walls and decimate ground troops. Other payloads include live scorpions or snakes, or finely powdered quicklime that on impact produces a dust cloud that suffocates and blinds the enemy.
 
-## *Organization*
+## Organization
 
 The original Byzantine land forces — such as still exist — are organized into the frontier troops (*limitanei*) and the cavalry (*comitatenses*). Most commanders of the military are court dignitaries, and while there are many military titles, towards the end of the 12th century these became independent of their military command. Lower-level officers (*pronoia*) have to supply their own armor, weapons, and (if cavalry) a horse, as well as supplies for their attendants, so it is unlikely that a common-born soldier can achieve this rank. Footsoldiers are organized in *taxiarchia* of one thousand soldiers, commanded by a *taxiarch*. Each taxiarchios might consist of 400 heavy infantry (*hoplitai*), 300 archers (*toxotai*), 200 light infantry (*pezoi*), and 100 spearmen (*menaulatoi*). Heavily armed cavalry (*kataphraktoi*) are one of the most distinctive parts of the Byzantine army, organized into *moiras* numbering several thousand. They are armed with either a curved saber-like *paramerion* or a heavy mace-like *siderorabdion*, plus a 12-foot-long *kontarion*, or polearm.
 
-## *Greek Fire*
+## Greek Fire
 
 One of the contributors to the former naval dominance of the dromons in the Eastern Mediterranean Sea, the invention of Greek Fire (*hygron pyr*, or "liquid fire" in Greek) is attributed to the architect Kallinikos in the seventh century. Few inventions have left such a strong impression on those who witness its use; it is purported to turn stones and
 
 
-## *The Imperial Guard*
+## The Imperial Guard
 
 Under the Greeks, Constantinople was guarded by five elite regiments or tagmata, each commanded by a palace official of great favor. These five regiments were (in increasing order of prestige) the Scholai ("Academics"), Exkoubitoi ("Sentinels"), Arithmoi ("Numbers"), Hikanatoi ("Worthies"), and Athanatoi ("Immortals"). Each tagma consisted of 1,500 soldiers divided into squads (banda) of 30. The palace guard was drawn from the tagmata, and consisted of several divisions based on ethnicity. The most famous of these was the Varangian Guard, tasked with protecting the imperial family. Its members were originally drawn from Scandinavia and Russia, but later were principally Anglo-Saxons. Their skill with their distinctive double-edged axes (pelekys) is legendary.
 
@@ -1719,17 +1719,17 @@ There are a number of different recipes depending on use; the hand-held siphons 
 
 Mass production of other empirical formulae is theoretically possible, but it would need separate innovations and the virtually unlimited wealth of an empire to support it.
 
-## *Superstition and Folklore*
+## Superstition and Folklore
 
 This section details some of the peasant folklore of Europe that is especially prevalent in Greece and Byzantium. For further information on the supernatural in the Theban Tribunal, see Chapters 9 through 12.
 
-## *The Alaphroiskiotoi*
+## The Alaphroiskiotoi
 
 An *alaphroiskiotos* ("light-shadowed one") is a man or woman who was born on a Saturday, which according to folklore grants him or her magical powers. Most alaphroiskiotoi have the Second Sight Virtue, although others possess Dowsing or Magic Sensitivity instead, and some may have no specific powers at all. All those who possess a "light shadow" have special powers over the vrykolakes (see Chapter 12: Infernal Landscape) regardless of whether they have Supernatural Abilities.
 
 Some light-shadowed ones are also sleepwalkers, known as *parmenoi*, or "taken ones" (this term is also used for those abducted or afflicted by faeries). They may accompany nightwalkers on their night battles against witches who
 
-## *Baskanos*
+## Baskanos
 
 **Infernal Might:** 5 (Vim)
 
@@ -1766,7 +1766,7 @@ mon can impose the Obsession Trait of Envy. See *Realms of Power: The Infernal*,
 Baskanoi are members of the Order of Tempters (*Realms of Power: The Infernal,* page 43), of a type of demon called kakodaemones in Greek. They throng in the air like flies, looking for an opportunity to breed resentment through the evil eye. They use their Hex Ability to curse their victims, although they are restricted in only affecting those who have received a compliment or been the target of envy. They often use their Obsession power to create targets for their malice.
 
 
-## *Adelphopoiesis*
+## Adelphopoiesis
 
 Adelphopoiesis is a ritual form of brotherhood, acknowledged by a ceremony that evokes the power of oaths. It is an acceptable face for a close spiritual friendship between friends of the same sex while avoiding the stigma of accusations of homosexuality. An adelphos who has undergone this rite becomes a Sympathetic Connection to his adopted brother, and is represented by the True Love/True Friend Virtue or Flaw.
 
@@ -1776,13 +1776,13 @@ larly magi of House Jerbiton) to undergo this rite, although it is a deeper rela
 
 threaten fertility, or they may be nightwalkers themselves. For more information on nightwalkers, see Chapter 9: Magical Landscape, Magical Traditions and *Hedge Magic*, Chapter 6.
 
-## *The Evil Eye*
+## The Evil Eye
 
 Fear of the evil eye, called either *phthonos* or *baskania* in Greek, and *invidia* or *fascinatio* in Latin, is prevalent throughout the empires. It is transmitted through envy, particularly the malice-filled look of a jealous person; it is the anonymous nature of the phthonos that leaves men afraid to enjoy their good fortune lest the envy of their fellows blights them. The evil eye can maim livestock, blight crops, render women and animals barren, strike down children; in short, destroy the home, wealth, and health of the unknowing victim of its attention. The dread of the evil eye is so great that compliments are sometimes neglected where they are due to avoid drawing the phthonos; and it is particularly with regard to children that caution is necessary. To praise a child's beauty is a terrible social *faux pas*, as is to boast of a child's talents, for such things can breed jealousy and thus attract the attention of the phthonos. It is not unusual for mothers to dress their sons in girls' clothing, or smear soot on their faces to avoid envy.
 
 The power of the phthonos is often attributed to the physical emanations from an envious eye, and indeed, some individuals are capable of deliberately casting the evil eye. Typically, they are either capable of a malicious form of Folk Magic (see Chapter 9: Magical Landscape, Magical Traditions) or else possess the Hex Supernatural Ability (*Realms of Power: The Infernal*, page 92). However, most instances of the evil eye are caused by a demon called a baskanos. These demons delight in nothing better than to destroy prosperity, virtue, and beauty. The sovereign ward against the baskanos is an amulet of blue glass bearing an eye; this is worn around the neck or wrist or hung in a prominent place, such as over the crib or in the cow byre. However, those capable of making these amulets are rare and they are greatly prized. Protection can also be sought by making a horned sign with one's left hand whenever an unguarded complement is given, but such a ward is temporary at best.
 
-## *The Power of Oaths*
+## The Power of Oaths
 
 As an asseveration of truth, a strengthening of an agreement, or a guarantee of future conduct, the oath is widely used in the private and public life of the empire. A man might be willing to make a false promise, but not when it is accompanied by a solemn oath. Oaths are typically made in the name of a saint, most commonly St. Basil of Caeserea, or Saints Theodoros and Theophanes (see Chapter 9: Magical Landscape, Oaths), and the Divine witness may decide to punish notorious oath-breakers at the request of the injured party (see Invoking a Saint, *Realms of Power: The Divine*, page 87).
 
@@ -1794,7 +1794,7 @@ It is commonplace in some areas, particularly on the islands, to swear in the na
 
 If the invocation equals or exceeds the Ease Factor, the complaint has been heard by the spirit who witnessed it. The vengeance of the spirit varies; minor river spirits can't affect anything beyond their own waters, but woe betide the oath-breaker if he approaches those banks. More-powerful spirits have further-reaching powers, and some may be able to call on spirits of vengeance for aid.
 
-## *Punishments for Oath-Breaking*
+## Punishments for Oath-Breaking
 
 The most common punishment is the imposition of a Flaw. Any General Flaw is possible; and Lesser and Greater Malediction are also popular. The Flaw normally lasts for a fixed duration dependent on the severity of the oath, but some might require acts of contrition or repentance to remove them. Major Flaws are imposed by powerful entities with a Might of 40 or greater, otherwise the punishment is usually a Minor Flaw. However, some spirits and saints are particularly known for inflicting certain punishments. See the appropriate Realm books for more information on the type of punishments that can be inflicted.
 
@@ -1812,9 +1812,9 @@ Wounds spontaneously open when the character exerts himself — when he gains a 
 
 When the character uses a tool or weapon, roll a simple die; on a 1 or 2 it breaks.
 
-## *Chapter Five*
+## Chapter Five
 
-# *Greece*
+# Greece
 
 The west mainland of the Theban Tribunal is the famed land of Greece, home to the titans and gods of old, and liberally dotted with ancient sanctuaries and ruins. Many of the former gods, faeries, and ghosts still haunt the temples, the forests, and the mountains of this richly mythical land. The folk here — pious and superstitious in equal measure — are rightly wary of the various kinds of nymphs, guardian spirits, and restless dead that stalk the land at night. Most common among them are the enchanting nereids (see Chapter 10: Faerie Landscape, Nereids), who may be found in Greece in great numbers.
 
@@ -1822,7 +1822,7 @@ A thousand and a half years ago, Greece was the intellectual and spiritual heart
 
 Greece is bordered to the north by Bulgaria, to the west by the Adriatic and Ionian Seas, and to the east by the Aegean. There are so many gulfs and peninsulas that the coastline is thousands of miles long. There are no great rivers, mostly because there is seldom a place that is more than fifty miles from the sea, but also because the rainfall in summer is rather light, except for west of the Pindos Mountains. Inland, Greece consists mostly of mountains, and is generally forested with some plains. The coastal lands and plains are mostly fertile, and rich in grain and olives; the grain surplus of Greece was, until recently at least, sent to feed Constantinople. In the south, silk farming and production is the most profitable industry.
 
-## *Epiros*
+## Epiros
 
 Epiros (meaning "mainland," as opposed to the Ionian islands) was at the fringe of the ancient Greek world, and so lacks traces of ancient Greece, for the most part. It consists of a large swathe of mostly mountainous terrain in the northwest of Greece, although the port city of Durazzo and the Via Egnatia leading east from it (see later) are of strategic importance.
 
@@ -1832,7 +1832,7 @@ Michael's rule was characterized by savagery and treachery, switching allegiance
 
 Theodore Dukas maintains the ruthless expansionism, and has taken Ohrid and the region of Pelagonia from the Bulgarians. In 1217 he captured the Latin emperor Peter de Courtenay, who was traveling from Durazzo on the Via Egnatia to Constantinople. Peter's fate is unknown, but many of his men were murdered or died in captivity, and Peter is presumed dead. Theodore, like Michael before him, has not yet taken on the title of emperor, but as he is moving steadily toward the city of Thessaloniki, it seems that Constantinople and the imperial throne is his ultimate goal. His ruthlessness, cruelty, and naked ambition have not won him many friends, but already much of the Kingdom of Thessaloniki has fallen to him, and with a powerful army of Frankish mercenaries under his command, it seems likely that Thessaloniki's young king, Demetrios, will soon lose his throne.
 
-## *Arta*
+## Arta
 
 Michael Komnenos, fleeing the aforementioned battle of Koundouros, came to the relatively unimportant town of Arta, which he made the capital of Epiros and of his new realm. It lies on the site of the ancient Corinthian city of Ambracia, named after an Amazon princess and granddaughter of Apollon. Later, in the early Roman age, it was the capital of King Pyrrhus. Over the last 15 years Arta has swelled in size, with a steady stream of immigrants leaving moretroubled lands to the east and south, including Constantinople. Under the new lords of Epiros, a formidable new castle has sprung up; however due to the depravities and excommunication of Michael Komnenos, it has an Infernal aura and is guarded by a flock
 
@@ -1848,7 +1848,7 @@ The graceful bridge, now completed in a pale stone, crosses the river in several
 
 It might be possible to fight off the foul bird, but this may cause the bridge to fall, earning the wrath of the ruler of Epiros.
 
-## *Corfu*
+## Corfu
 
 Corfu, a large hilly island straddling the Ionian coast of Epiros, was until recently under the dominion of Venice, until Michael Komnenos wrested it from Venetian hands in 1214. The main port town is also named Corfu, or Korkyra by the Greeks, and it lies halfway down the eastern shore.
 
@@ -1858,17 +1858,17 @@ Odysseus, the legendary hero and king of Ithaca, first arrived on Corfu — then
 
 Each winter, a great storm arises on Corfu's eastern shore, and the ship moves again, seemingly manned by Odysseus and his crew. An army of tritones (see Chapter 6: The Islands, Aegaea) arrives, accompanied by tempestuous waves, and attempts to conquer or sink the ship. The ship is considered a source of vis owned by the Tribunal, since the tridents wielded by the tritones are Rego vis — if they can be claimed from their owners. Few volunteers come forward to gather the vis, however, since doing so requires participating in this stormy and deadly battle. Although the magi of Aegaea would seem most expert in this area, they claim that loyalty to their patron, a ruler of tritones, precludes them from participating. Instead, they seem to delight in persuading other magi to volunteer for this service, only offering cryptic clues as to how the watery army may be bested. Ex Miscellanea magi from the tradition of the Seirenes (see *Houses of Hermes: Societates*, page 137) have postulated that a siren song may free the stone ship from its mystical anchor, just as Odysseus himself was tempted by the sirens. The ship is surrounded by a Faerie aura of 2, rising to 4 during the winter storm.
 
-## *Durazzo*
+## Durazzo
 
 Durazzo, or Dyrrhachium, is the largest city in Epiros, and one of its most ancient. It lies in a naturally protected harbor on the Adriatic Sea, and has thus been an important trading port since time immemorial; nowadays many ships ferry back and forth to Italy and Venice. Since it also lies on the west end of the Via Egnatia (see insert), the city forms an important link between the realms of Western Europe and the Orthodox East. Straddling these two worlds, it is a bustling and cosmopolitan trading center, with Italians, Venetians, Greeks, Bulgars, Jews, and Vlachs among its colorful and varied citizens. Durazzo fell under the dominion of the Republic of Venice in the wake of the Fourth Crusade in 1204, but it has since been taken by Epiros.
 
-## *Lakes Ohrid and Prespa*
+## Lakes Ohrid and Prespa
 
 The two largest lakes of Greece are nestled amid the mountains in the north of Epiros. Lake Ohrid, the larger, is over twenty miles long; a passing Bjornaer magus once claimed that its crystal-clear deep blue waters were home to magnificent species of strange and magical fish. The Via Egnatia passes along the northern shore of the lake, through the venerable episcopal city of Ohrid. Ohrid is the former capital of the Bulgarian Empire and seat of an archbishopric, which is blessed with dozens of ancient churches. Although the settlements around the lake shore, including the placid monastery of St. Naum, have a strong Divine aura, a Magic aura prevails at the center of the lake, which is home to a potent genius loci.
 
 A short distance to the southeast is the slightly smaller Lake Prespa. It is located higher in the mountains, and its waters feed Lake Ohrid through underground channels. Mostly uninhabited by humans, it has a Faerie aura and is home to many limniads, a kind of nereid (see Chapter 10: Faerie Landscape, Nereids) native to lakes and marshes. These fair maidens may sometimes be seen dancing on the lake through the early morning mist,
 
-## *The Via Egnatia*
+## The Via Egnatia
 
 The most important road in the Theban Tribunal is the Via Egnatia, built in ancient times by the Roman Consul of Macedonia, Gnaeus Egnatius. Stretching nearly 700 miles from Durazzo on the Adriatic to Constantinople, the Queen of Cities, it winds its way through the mountains of northern Epiros before passing through the great city of Thessaloniki. It then skirts along the northern edges of the Aegean and the Marmara Sea through Thrace before reaching its destination, the gateway to the Black Sea and Asia Minor. Although the road is mostly in good condi-
 
@@ -1881,7 +1881,7 @@ or bathing or swimming in it. They have been known to seduce travelers on the Vi
 
 A lush, pine-covered peak more than 8000 feet high overlooks Monastiri, an ancient city a dozen miles to the east of the lakes, from the east. The foot of Mount Pelister, by the River Dragor, is one of the rumored locations of the famed Basilica of Ten Thousand Columns (see *Ancient Magic*, page 121), one of the most important temples to Apollon and formerly home to a cult of Hyperborean wizards.
 
-## *The Pindos Mountains*
+## The Pindos Mountains
 
 The Pindos Mountains form the long spine of Greece, running north-south between Epiros and Thessaly as far south as the Gulf of Corinth. Much of it is wilderness, consisting of steep peaks, canyons, forests of pine and beech, and high meadows. The superstitious folk that do live here are earthy Vlachs (see Chapter 4: Culture and Customs, Ethnic Groups), partially nomadic goat and sheep herders, with some farmers, weavers, and traders.
 
@@ -1891,7 +1891,7 @@ High in a valley on the western edge of the Pindos, in a region reckoned by Aris
 
 Dodona is a timeless and deserted place, littered with a few ruins from Roman times, most notably a large amphitheater. The grove has a Magic aura of 4. The Seekers of the Fallen (see Chapter 9: Magical Landscape) believe that many ancient secrets of the titans are hidden here; if they are right, then the entrance to the magical Garden of Eden might be located here in a regio. Several decades ago, they replanted the oak trees in the grove. On the far side of the grove, before the mountainside, stands an arch which the Seekers have repaired, flanked on either side by rampant lions of stone. It is reckoned to be a gateway to a Magic regio, guarded by the lions, but the Seekers have not yet managed to activate it.
 
-## *Macedonia and Thessaly*
+## Macedonia and Thessaly
 
 The northeastern realms of Greece lie between the Aegean Sea and Bulgaria. Macedonia, the more northeasterly region and the homeland of Alexander the Great, is separated from Thessaly by the Cambunian Mountains. Thessaly, including Larissa, has now mostly been conquered by the Principality of Epiros under Theodore Komnenos.
 
@@ -1901,7 +1901,7 @@ After his death in 1207 (see Chapter 12: Infernal Landscape, The Fate of the Cru
 
 Demetrios was crowned at the age of four in 1209. Henry called the Thessalonian lords to swear loyalty to the child, but the Frankish nobles largely ignored this, as many favored the claim of William VI, Marquis of Montferrat. Nevertheless, he forced their submission, and a year later intervened to save the young king from an alliance between the Venetians, Bulgarians, and Epiros. On Henry's death in 1216, Emperor Peter de Courtenay accepted William's claim to the title and Margaret fled into exile, leaving Demetrios in the city. Peter's presumed
 
-## *Count Oberto*
+## Count Oberto
 
 The Latin emperor Henry marched on Thessaloniki to demand its submission in 1209, but the inhabitants closed the gates against him. Margaret had been forced to stand down as regent by Count Oberto II of Biandrate, who was plotting to replace Demetrios with Boniface's son by his first wife Helena del Bosco, William VI, Marquis of Montferrat. It became clear that Oberto was in league with Emperor Henry. Following several days of negotiations, Henry was admitted to the city. Oberto's plan fell apart immediately, for on speaking with Margaret, Henry saw the justice of her cause and seized the treacherous count. He was loaded with chains and imprisoned in the castle at Serres. Released some years later, Oberto swore vengeance on the emperor, and may have been responsible for his murder by poisoning in 1216. A tireless advocate of the pretender William's claims to the crown of Thessaloniki, Oberto is still a deadly enemy to King Demetrios.
 
@@ -1909,7 +1909,7 @@ death at the hands of the ruler of Epiros has allowed Demetrios to continue as k
 
 The Kingdom of Thessaloniki enjoys much better relations with its Greek subjects than the Latin Empire. Its forces contain a majority of Byzantine troops as well as having numerous Frankish lords and mercenaries of uncertain loyalty to their king, but concerned with their own estates' survival. As the army of Epiros employs large numbers of Frankish mercenaries, this leads to the irony of a Frankish kingdom with a largely Greek army fighting a Greek principality with a largely Frankish army. The system established by Boniface is still in place, all vassals owing one season of garrison duty and one season of military service per year, and giving exactly the same rights and dues to Greeks as to Latins. The Latin archbishop of Thessaloniki is a noted friend and supporter of King Demetrios, having tutored him in his youth, and Thessaloniki has both Orthodox and Latin churches peacefully coexisting, although the Latin hierarchy predominates.
 
-## *Thessaloniki*
+## Thessaloniki
 
 The Macedonian king Cassander founded a city near to the site of ancient Therma in the fourth century BC, on the Gulf of Therma at the northwestern corner of the Aegean Sea. He named it Thessaloniki after his wife, who was a half-sister of Alexander the Great. In Roman times the city prospered as a provincial capital at the same time the Via Egnatia was built. Christianity came very early to the city with St. Paul the Apostle, who preached in its synagogues. After fleeing the city, he wrote two epistles (letters) to the pious folk of Thessaloniki, which are now two books from the New Testament named *Thessalonians*. In the ninth century, the gospel was carried from here to Bulgaria by the brother saints Cyril and Methodius.
 
@@ -1935,7 +1935,7 @@ Men of Macedonia who have led a particularly wicked life are liable to turn into
 
 The mermaid, known as the Gorgona, roams the whole northern Aegean, but is most often seen not far from Thessaloniki's great harbor. Whenever a ship is encountered she emerges from the waves, sometimes in a chariot drawn by dolphins, and accosts a sailor, asking him if Alexander still lives. If he answers that he is dead, then she dives under the ship with a terrible sigh, transforming and growing to a fearsome size before raising a great wave with her hand to capsize the ship; if he answers instead that Alexander still lives and rules, then she lets the ship pass in peace, playing calming music on her lyre to still the waves. The Gorgona has a Faerie Might of 40; she is most often encountered during turbulent seas at midnight.
 
-## *Mount Athos*
+## Mount Athos
 
 Mount Athos is a wooded promontory of the Chalkidiki Peninsula that rises to the peak of Mount Athos proper, more than 6,000 feet above sea level. Its great cliffs overlook the seas below, and huddled on its wooded and rocky slopes are many monasteries that share this sacred space. Nothing female, either animal or human, is able to set foot upon this holy land, for the Divine has warded it against such intrusion and set it aside as a place reserved for lives of piety and prayer. The whole promontory has a Divine aura of 5, with the monasteries and cells often reaching 7, the altars 8, and certain holy spots on Mount Athos itself 9. Heaven is close here.
 
@@ -1945,7 +1945,7 @@ The Holy Mountain has many monastic foundations, some of which are extremely imp
 
 The Latin rulers of Constantinople have respected the autonomy of Mount Athos, which continues exactly as it did before the fall of Constantinople. It is self-governing, with most monasteries participating in the election of the protos, or "first," who represents the community in negotiations with the outside world. Three of the monasteries — the Great Lavra, Vatopedi, and Iviron remain independent and their abbots possess considerable influence in their own right, even beyond the protos. The monasteries reflect a wide range of cultures — Iviron is Georgian, Panteleemon Russian, Zographou Bulgarian, and the Serbs have Hilander. Armenian monks are also common, and three Benedictine monasteries following Latin rites have also been constructed over the centuries.
 
-## *Olympos*
+## Olympos
 
 Olympos, the greatest mountain of Greece, is the legendary home of the 12 Olympian Gods, who dwell and hold court in crystal palaces in a mighty realm above the clouds. This awesome peak, which dominates the east end of the Cambunian mountains, is habitually shrouded in great dark clouds, and wreathed in lightning. Rarely, the clouds may part to allow a brief glimpse of a majestic snow-capped pinnacle, inestimably high above them.
 
@@ -1963,18 +1963,18 @@ The northern end of the crystal complex overlooks comparative wilderness; here a
 
 Hephaistos, the god of smiths and the forge, crafted all the buildings and furnishings of Olympos, and the golden shoes of the gods, with which they could traverse water or air. At the foot of Mount Olympos is one of his most sacred forges, home to several legendary items of his manufacture (see *Houses of Hermes: Mystery Cults*, page 118, for some suggestions). The forge is a cult site sacred to the Mysteries of House Verditius. It has a Faerie aura of 4 and is currently inhabited solely by Theorus the Old of House Verditius, a member of the covenant of Ingasia, which bears responsibility for the site.
 
-## *Larissa*
+## Larissa
 
 The ancient city of Larissa, the seat of an archbishopric since the fifth century, lies in the center of the large and fertile Thessalian plain. It is the principal city of Thessaly, but currently falls under the dominion of the rulers of Epiros. The city was named after the benevolent nymph of a local spring; she is still occasionally seen and venerated as a saint by the locals. The nymph is one of Larissa's ancient symbols; the other is the horse, since the surrounding plains have been famed for their horses and horsemen since antiquity.
 
-## *Meteora*
+## Meteora
 
 Not far from the northwestern edge of the central plain of Thessaly, where the River Salambria emerges from the Pindos Mountains, may be found a spectacular complex of huge sandstone pillars of various shapes and sizes, some more than a thousand feet high. This holy place is named Meteora (loosely translated as "hanging in the heavens"); from these heights one indeed has the feeling of being on a tiny island closer to heaven, especially when mist shrouds the plains below.
 
 Meteora is home to a *skete* (a small community of hermit monks) named Doupiani,
 
 
-## *Story Seed: Twilight of the Gods*
+## Story Seed: Twilight of the Gods
 
 A Redcap reports sightings of one of the Olympian gods in several villages not far from Olympos. Although this "god" seemed to be using appropriately godlike powers, he also bore a strong resemblance to a magus believed to have succumbed to Final Twilight a couple of decades ago. The Tribunal calls for magi to investigate. Is this being really a god, is it magus who has been possessed by a god, or is it a magus or hedge wizard posing as a god to disguise his mundane meddling?
 
@@ -1989,7 +1989,7 @@ With one notable exception, the pillars have Divine auras ranging from 3 to 6. T
 
 Meteora is believed to hold several sources of vis, but magi do not commonly visit the site. The last magus who came here attempted an ascent of the Agio Pnevma. Perhaps in punishment for this act of hubris, his levitation magics inexplicably failed and he fell to his death, whereupon his body was eaten by the vultures.
 
-## *Mount Pelion*
+## Mount Pelion
 
 Pelion, a hook-shaped peninsula at the southeastern extremity of Thessaly, is the home of the centaurs, beings with the torso and legs of a horse and the upper body and head of a man. The whole peninsula, a half dozen miles across and twenty miles long, is bereft of human settlement. It consists completely of a labyrinthine and overgrown mountainous forest, densely packed with tangled undergrowth and fallen branches beneath oaks and beeches. A Faerie aura of 3 pervades the whole forest, and navigating it is difficult. Within, the centaurs — faeries who exhibit both the untamed aggression of the stallion and the civilized nature of man in equal measure — are prone to challenging intruders to vigorous and often deadly contests involving fighting, hunting, or racing, which are celebrated with wild feasts and drunken revelries. Pelion is home to several events recorded in Greek legend, such as the marriage of the hero Peleus to the nymph Thetis, whose union produced Akhilles.
 
@@ -1997,13 +1997,13 @@ Pelion, a hook-shaped peninsula at the southeastern extremity of Thessaly, is th
 
 At the highest point of the forest wilderness, to the north of the peninsula, is Mount Pelion proper. Here, in a cave, may be found the foremost and wisest of the centaurs, Chiron. Chiron's knowledge, especially of astrology and medicine, is unsurpassed and his powers of divination are legendary. He was a tutor to most of the Greek heroes, including Herakles, Asklepios, Akhilles, Theseus, Jason, and many more. Accordingly several magi, especially Seekers and magi of House Merinita, have traveled into Pelion in search of Chiron's tutelage. Not all have returned.
 
-## *Attica and Boeotia*
+## Attica and Boeotia
 
 Two city-states at the heartland of ancient Greece, Thebes (in Boeotia) and Athens (in Attica), were once bitter rivals. Boeotia, to the north, is separated from Attica, a peninsula to its south, by the forested limestone hills of the Kithaeron Mountains, forming a natural border which was hotly disputed in ancient times. These hills were the backdrop to many battles and legends, and they are now dotted with faerie sites and the ruins of ancient fortifications.
 
 Otto de la Roche of Burgundy established the **Duchy of Athens** in 1205 and took the title of Duke after 1208, though the Greeks call him *Megas Kyr*, "great lord," Paying homage at first to Boniface of Montferrat as king of Thessaloniki, Otto supports Demetrios and also paid homage to the Latin emperor.
 
-## *The Temptations of Christ*
+## The Temptations of Christ
 
 Some of the hermits of Meteora attempt an ascent of the Tower of the Devil and dwell there as long as possible as a test of their faith — this might also be a suitable ordeal for a character attempting a Mystery initiation. Over the course of forty days and nights, the duration of Christ's time in the desert, he is tormented by the vultures. A character living in the pillar is also presented with three temptations, mirroring those of Christ. Firstly, the vultures bring stones to the starving hermit, which are transformed into tantalizing loaves of fresh bread. If eaten, the stones are an agonizing poison. Secondly,
 
@@ -2014,7 +2014,7 @@ A pious Catholic, Otto has established a monastic house of Cistercians at Daphni
 
 Otto's devotion to the Latin Church remains strong, and he has recently converted the Parthenon in Athens to the Cathedral of Our Lady, within the newly fortified Acropolis where he resides. His brother Guy is joint Lord of Thebes with Nicholas St. Omer. (In 1207, after the death of Boniface of Thessaloniki, Nicholas married his widow, Margaret of Hungary. This was her third marriage, as Margaret was previously the widow of Emperor Isaac II Angelos). Athens is heavily committed to the struggle against both Epiros and the Bulgarians.
 
-## *Thebes*
+## Thebes
 
 The ancient city of Thebes, which gives its name to the Tribunal, was founded by a legendary figure known as Kadmus. After consulting the Delphic oracle, Kadmus came to this inland spot at the southern edge of the Boeotian plain and slew the dragon that dwelled there. He sowed the dragon's teeth, as instructed by the goddess Athene, and the Spartoi ("sown men"), fully grown and fully armed magical men, children of Ares, sprang up in their place. Most of the Spartoi fought Kadmus, but five were loyal to him and helped him found his city. The Kadmea — the ancient citadel at the center of the city — is named after him. For a time, Thebes held the upper hand in its struggles against Athens, but the Athenians ultimately prevailed and the race of the Spartoi retreated to a forgotten place in the Kithaeron Mountains, where they may still remain to this day. Thebes' fate was ultimately sealed by Alexander the Great, who razed it as a stern warning to the other cities of Greece to remain loyal.
 
@@ -2024,13 +2024,13 @@ ter, Thebes remained an insignificant town, merely a shadow of its former glory,
 
 Thebes and its native silk industry made a complete recovery, however. It is now a sprawling city of 30,000 inhabitants, many of whom are silk growers and weavers, making it easily the second-largest city of Greece. Still, it pales in comparison to the size and splendor of Thessaloniki.
 
-## *Delphi*
+## Delphi
 
 High among forested slopes, in an uninhabited upland region to the west of the Boeotian plain, may be found the legendary Delphic oracle, the most famous seer of the ancient world. The oracle can be found in the Temple of Apollon, at the center of a small complex of temples, ruins, and an amphitheater. The site is situated at an idyllic natural sanctuary on a terraced plateau amid rocky crags, below the sacred Mount Parnassos. The oracle was once consulted by kings, emperors, despots, and philosophers alike in matters of politics, war, and religion, and was famed for the veracity of her answers, although they were often cryptic or bore hidden meaning.
 
 The oracle is now under the stewardship of the Theban Tribunal and the Order of Hermes. A lone Criamon maga resides here and serves as the oracle; she takes the name Pythia — the ceremonial name of the ancient oracle — and, in the fullness of time, chooses her successor (often her filia). After being initiated into the oracle's Mysteries, that successor assumes the name and role without any announcement. Thus, although many magae have served as Pythia, she is regarded as a single enduring entity. Traditionally, magi come here to consult the oracle, especially before important ventures
 
-## *Story Seed: The Absent Oracle*
+## Story Seed: The Absent Oracle
 
 The characters arrive at Delphi intending to seek out the oracle, but are instead greeted by a young girl who claims to be the apprentice of Pythia. The girl only tells them that Pythia is absent, and repeats the last prophecy of her mistress, which seems to presage both her disappearance and the arrival of her rescuers. It is unclear whether Pythia has been captured or is merely being eccentric; in either case, they will need to solve the riddle of this prophecy in order to bring her back.
 
@@ -2046,13 +2046,13 @@ At the foot of a monumental pair of cliffs on the lower slopes of Mount Parnasso
 
 Several miles to the south of Mount Parnassos, by the coast of the Gulf of Corinth, is a place where a lamia (see Chapter 10: Faerie Landscape, Lamiae and *Realms of Power: Faerie*, page 68) can be summoned from the sea when a youth plays a flute on the seashore. She makes the young man an offer: a life of ease and pleasure with her. If he refuses, she rips him apart; if he accepts, she drags him into the water and drowns him. A magus might discover that under some circumstances the man is taken to the lamia's underwater palace and given that life of ease, as she teaches him many secret things she has learned. This is a dangerous way to study, but the rewards are reputedly great. Many lamiae are capable of initiating Mystery Virtues, for example.
 
-## *Athens*
+## Athens
 
 Athens is so old that its founding is unrecorded by history. Two of the Olympian Gods, Athene and Poseidon, both desired to be its patron, and so offered suitable gifts to win its favor. Poseidon created a spring as a symbol of naval power, by striking the ground with his trident. But the city chose instead the gift of Athene, an olive tree symbolizing prosperity. Thus the city, which in time grew to become the legendary capital of Attica and of the whole of ancient Greece, was named after Athene, and its grateful residents erected a great temple to her atop the Acropolis ("high city"), the naturally defensible hill that is the city's ancient heart and key to its former dominance. To this day, the city is blessed with fertile olive groves.
 
 Athens remained a proud city of scholars and philosophers under Roman patronage, but it fell out of favor as Christianity came to dominate the empire. Under Byzantine rule, Athens was not nearly so significant as it was in the ancient world. Nevertheless it is now still a large and prosperous port city of about 10,000 inhabitants, often frequented by Venetian traders. As well as producing an excess of grain and olives, Athens is known for its fine dyes and soaps, which are needed for the silk industry. In the mountains just
 
-## *The Cult of Eleusis*
+## The Cult of Eleusis
 
 dwindled to a tiny handful.
 
@@ -2077,7 +2077,7 @@ A small plain in the east of Attica, within sight of the Aegean Sea, is the site
 
 Every year, on the anniversary of the battle in September, the ghost of the herald Pheidippides appears at the tumulus and repeats his famous athletic feat, running the 26 miles to Athens. He arrives, exhausted, at the foot of the Acropolis, shading his eyes to peer up the hill. If he perceives that Athens is ruled by the Greeks, he proclaims victory with the cry, "We were victorious!", before expiring on the spot in the manner of his original death. He leaves behind only his sandals, each of which contains 3 pawns of Creo vis. If, on the other hand, Pheidippides sees that Athens is in the hands of barbarians (non-Greeks), then he turns away with a grimace, saying nothing before fading away (leaving nothing behind). In the latter case, the ghosts of the 192 Athenian soldiers awaken at the tumulus the next nightfall. With a grim determination, they proceed to battle their way across Attica, taking on any who stand in their way. Unless they are stopped, they arrive at Athens after several days, and mount a furious assault on the Acropolis in an attempt to retake the city. This presents a significant problem for the current Duke of Athens, Otto de la Roche, since the superstitious local Greeks are reluctant to help him defend his city against their own countrymen. He is instead forced to rely on an army of crusaders and mercenaries several hundred strong to repel the formidable ghostly soldiers. Divine help will not avail him either, since he is currently excommunicated. It has been discovered that the ghostly soldiers, when defeated, leave behind various weapons and outfittings that contain Perdo vis. However, the Tribunal has so far refused to gather this vis, not wanting to benefit from a Greek defeat, even a symbolic one. This vis disappears after a short while, but it is not known who — or what — is harvesting it.
 
-## *Euboea*
+## Euboea
 
 Euboea, a narrow seahorse-shaped strip of land in the western Aegean Sea nearly one hundred miles long from northwest to southeast, is technically an island (the second largest of the Theban Tribunal, after Candia), being joined to the mainland only by a bridge. The island has relatively little water, limiting the potential for agriculture, but it is blessed with rich marble quarries. The whole
 
@@ -2086,7 +2086,7 @@ eastern coast facing the Aegean is rocky and destitute of harbors, and is feared
 
 In 1157, William the Bad, the Norman ruler of Sicily, arrived with an army 10,000 strong on 164 ships, mercilessly sacking every coastal town. Formerly modestly prosperous, Euboea never recovered and is now sparsely populated. Shortly after the Fourth Crusade, the island fell into the hands of three barons from Verona, who dubbed themselves the Triarchy. They established a realm of baronies known as the **Lordship of Negroponte** (the Venetian name for the bridge, and by extension the city of Chalkis and the whole island). The central barony is based at Chalkis, the northern barony at the town of Oreoi, and the southern barony at the town of Karystos. One of the three, Ravano della Carceri, later assumed control of the whole island and accepted Venetian overlordship in an act of rebellion against his homeland. Since his death in 1216, Venetian bailiffs have split each of the three baronies into two, dividing the six resulting territories among Ravano's relatives and descendants.
 
-## *Chalkis*
+## Chalkis
 
 Chalkis, the small city that is Euboea's principal settlement, takes its name from the copper and bronze workers who first lived there. It also lends its name to the peninsula of Chalkidiki in Macedonia, so named on account of the colonists from Chalkis who settled there in ancient times. A sturdy and venerable fortress dominates the town; it is of strategic significance, since Chalkis has often been used as an ideal base for an invasion of the mainland.
 
@@ -2094,11 +2094,11 @@ Chalkis, the small city that is Euboea's principal settlement, takes its name fr
 
 Chalkis is located at the point where the distance to the mainland, Boeotia, is at its shortest, halfway down the Euboic Sea. The Euripus Strait is little more than a hundred feet across, and can be crossed by a wooden drawbridge. The fierce tidal currents of the strait are unpredictable, changing direction many times a day, often suddenly. Aristotle attempted to explain this phenomenon logically, but he was forced to admit defeat, throwing himself into the waters in despair and exasperation. The strait is home to the genius loci of the Euboic Sea, which has a great fear that the strait will be filled in, splitting its sea into two. Thus it maintains the violent tides to dissuade mortals from any such impertinent acts. Decades ago, the folk of Chalkis regularly kept the bridge raised and did not sail ships through the strait in order to appease the spirit, but the new Latin rulers of the island are not nearly so superstitious.
 
-## *The Nature of Herakles*
+## The Nature of Herakles
 
 Byzantine philosophers, poring over ancient copies of the works of Homer, Ovid, and Apollodorus alongside the Old Testament, have concluded that Herakles is the Greek name for none other than the biblical figure Samson, whose legendary strength only failed when his hair was cut by Delilah. The 12 Labors of Herakles were obstacles presented to him by the Devil, in order to test his faith and strength. Sites associated with the virtue of Herakles are thus typically Divine, and those associated with his opponents and Labors mostly Infernal.
 
-## *The Mountains of Euboea*
+## The Mountains of Euboea
 
 The mountainous region known as Euboea was the honored site of the wedding of Zeus and Hera. Unfortunately, their marriage was so troubled that this honor turned into a curse. In a rage, Hera destroyed the wedding site in a terrible earthquake, which was so violent that it separated Euboea from the mainland and broke the mountain chain down Euboea's length into three separate clumps. These three areas are now home to warring earth spirits and several sources of Perdo vis. Even today, earthquakes are frequent on the island.
 
@@ -2111,7 +2111,7 @@ The villages of Kastania on the east side of the peak of Aetos, not far from Kar
 
 In the of north of Euboea near the coast, on the slopes of Mount Gaetsades, which is more than 4,000 feet high, is a hot spring. Sulfurous waters cascade over the yellowed rocks directly into the sea. This is one of the places where the hero Herakles came to rest, and healing waters sprang up here in order to refresh him. The waters of the spring, which has a Divine aura of 4, are known to cure gout and rheumatism. Medicinal plants grow up among the surrounding slopes.
 
-## *Morea*
+## Morea
 
 The southernmost part of Greece is a peninsula, joined to Attica only by a narrow isthmus. Morea is a fertile land known for its silk production. It is so named because of the large number of *moreai*, mulberry trees used in sericulture, whose leaves are food for the silkworm. It is also sometimes known as Peloponnesus or the Peloponnese, its name from ancient Greece.
 
@@ -2124,13 +2124,13 @@ In 1208, Leo Sgouros, the leader of the local resistance, was trapped with a sma
 
 In 1218 Geoffrey died and was succeeded by his son, Geoffrey II. Geoffrey II is married to Agnes de Courtenay, daughter of former Latin empress Yolanda and the ill-fated emperor Peter. He enjoys a good relationship with the Latin Empire and with his Venetian neighbors, who are heavily involved in the trade that is making the fertile lands of the principality rich. Generous to Greeks and Latins alike, he is popular and enjoys much support from his subjects. Unlike the current Duke of Athens, Geoffrey II has a good relationship with the Orthodox clergy and has in fact attempted to restrict Latin gains in the Church, levying taxes on Latin clerical lands that have led to papal displeasure. In contrast, the Orthodox clergy are exempted from taxation and military service.
 
-## *Corinth*
+## Corinth
 
 Corinth is named after its legendary founder, Korinthos, a descendant of the sun god Helios. It is located at a strategic spot by the narrow isthmus in the northeast of Morea, benefiting from ports on both the Saronic and Corinthian gulfs. In ancient times it was home to a great temple of Aphrodite, where thousands of prostitutes were employed. As with Thessaloniki, St. Paul the Apostle wrote two epistles to the early Christian community of Corinth; these form two books from the New Testament named *Corinthians*.
 
 Corinth has suffered repeated disasters under the last thousand years of Byzantine rule. In the fourth century, it was first ruined
 
-## *The Peloponnesian Labors of Herakles*
+## The Peloponnesian Labors of Herakles
 
 As well as Lake Stymphalia, where Herakles completed his sixth Labor — the eradication of the Stymphalian Birds — Morea is home to several other of his 12 Labors.
 
@@ -2162,7 +2162,7 @@ Arcadia is both the name of the mountainous center of Morea, a sparsely populate
 Amid the southern foothills of Arcadia, not too far from the ancient town of Sparta, is the village of Vizie. This village is occupied by dog-headed men called *cynocephali*. They grow crops and raise sheep, but their neighbors steal their grain and goats so that the cynocephali are forced go to war to get what they need to survive. The peasants of nearby villages claim that the inhabitants of Vizie are monsters who eat people, and so an accord between human and cynocephalos seems unlikely. Were the cynocephali to accept baptism and pray to St. Christopher (a saint born with the head of a dog), however, they would lose their canine aspect.
 
 
-## *Zakynthos*
+## Zakynthos
 
 Zakynthos — an island in the Ionian Sea to the west of Morea that is nominally under the dominion of Venice — is one of the most superstitious and peculiar islands in the whole of Greece. It is twenty miles long from end to end, and faeries and faerie-blooded folk abound here, as do Gifted children. Magi of the Ionian phyle regularly come here in search of them. Indeed, it is quite rare to find a native of Zakynthos who does not bear some measure of faerie blood in her veins or who does not have at least some minor supernatural talent.
 
@@ -2176,29 +2176,29 @@ New houses are seldom built on Zakynthos, since anyone who passes by the foundat
 
 The highest peak at the center of Zakynthos, which has a Faerie aura of 6, is an abode of the nereids and home to their queen. She goes by various names, including the Great Lady and the Mistress of Earth and Sea. She is the largest, wisest, and strongest of the nereids, and may often be seen dancing with her subjects in the streams and pools of her mountain home, or before her simple palace. Like all the nereids she is beautiful, and she wears a white gown with a golden belt. Men whom she hits with her belt are struck dumb, weak, or witless. Children are often taken away to dwell with the queen for many years, although they are not mistreated. Although mysterious, the Great Lady is nobleminded and it is possible to bargain with her for fair treatment or justice.
 
-## *The Blood of Medusa*
+## The Blood of Medusa
 
 Medusa, the fearsome gorgon with snakes for hair, who had the power to turn her victims to stone with a glance, was slain by the hero Perseus. The blood from Medusa's right vein was gifted to Asklepios by Athene. It has the power to heal life, whereas that from her left vein was a deadly poison. This blood is held in a basin-like recess atop an ornate stone stele standing near the statue of Asklepios in the Hall of Repose. It is a potent renewable source of extraordinary Corpus vis (see *Realms of Power:Magic*, page 119), yielding 16 pawns per year. If copiously drunk, the imbiber's Incapacitating Wounds are immediately reduced
 
 to Heavy and all later Recovery rolls for all current wounds succeed automatically. Any diseases or ailments are cured. This is almost never allowed, since it requires consumption of an entire year's supply of the blood. According to legend, the blood even has the power to bring the dead back to life, although magi claim that this has not been performed for more than a century. If a smaller dose of the blood (4 pawns) is used in the crafting of a Longevity Ritual, +12 is gained to the Lab Total. If drunk, such a dose immediately effects a Chirurgeon's Healing Touch on the imbiber.
 
 
-## *Epidauros*
+## Epidauros
 
 Epidauros, a healing sanctuary dedicated to the god Asklepios in ancient times, is a small but venerable covenant renowned for its service to the Tribunal. It is dedicated to healing the sick
 
 
 and ensuring the longevity of magi; many of the current magi of the Tribunal enjoy the benefits of a Longevity Ritual crafted by one of its specialist magi.
 
-## *History*
+## History
 
 The most famous asklepieion — a temple of healing dedicated to Asklepios — Epidauros has a history going back to the fourth century BC. Believed to be where Asklepios himself was born, a cult of *pharmakeutria* ("physician magi") erected the sanctuary and attended to the multitudes of worshipers and pilgrims who came in search of a cure for their ailments. At the end of the fourth century AD, the site was sacked by marauding Goths and subsequently abandoned. Pre-Hermetic wizards of the Theban League resurrected the sanctuary before the founding of the Order of Hermes, and it has had a continuous presence of magi ever since. The site was briefly usurped by Tremere magi in the ninth century, until they were forced out during the Sundering. Since then, Epidauros has had a long and honorable, albeit uneventful, history of service to the Tribunal.
 
-## *Setting and Physical Description*
+## Setting and Physical Description
 
 Epidauros is located on a peaceful hillside not far from the shore on the northeastern coast of Morea. The sanctuary proper which has a Magic aura of 5 and is where the magi have erected their sancta — consists of a small jumble of ancient Greek buildings in variable states of repair. The central structure, the Hall of Repose or *Enkoimeteria*, is a large communal hall resembling a hospital. The most important or seriously ill patients are brought here. Hermetically speaking, the hall is a laboratory, although it doesn't appear as such to the untrained eye, being
 
-## *Story Seed: Healing the Realm*
+## Story Seed: Healing the Realm
 
 Geoffrey II, the ruler of the Principality of Achaea, in whose lands the covenant is located, falls seriously ill, and his wife Agnes comes to Epidauros to desperately beseech the magi for a cure. If they refuse him aid and he does not survive, then they will both make an enemy of Agnes and be responsible for the resulting chaos as rivals struggles for the succession. If they do heal him, then one of Geoffrey's rivals will accuse him of soliciting the aid of pagan sorcerers. It seems that the magi hold the fate of the realm in their hands, a responsibility that they do not desire but cannot avoid. Either way, Epidauros could legitimately be accused of interfering in the affairs of mundanes. Once the word gets out, the matter might come before Tribunal, or the player characters could be asked to investigate.
 
@@ -2210,11 +2210,11 @@ Apart from the sancta of the magi, the remaining buildings of the sanctuary are 
 
 The principal Greek god of medicine and healing, Asklepios is a Magic spirit associated with Epidauros. He is a willing patron of the covenant, since the magi are respectful of his sanctuary and fulfill its proper purpose. He has no corporeal manifestation and does not communicate directly, but his presence is felt most strongly at one end of the Hall of Repose, where his statue stands. Those who sleep in the Hall often receive visions from the spirit, especially those who are ill, who may receive guidance on how to seek out a cure for their ailments. Sleepers here also gain +12 to their next Wound Recovery roll and a +6 bonus to the Lab Total if a Longevity Rituals is crafted for them here.
 
-## *Culture and Traditions*
+## Culture and Traditions
 
 The most noteworthy tradition of Epidauros is its selfless devotion to healing the magi of the Tribunal and providing them with Longevity Rituals, and they are rightly famed for their skill in this. Most of the Tribunal-funded Longevity Rituals are made by magi of this covenant. Many other magi, some even from other Tribunals, come here in search of expert magi to help them stem the tide of years. The great potency of the Longevity Rituals produced here is not just because of the skill of its magi, but is also due to the usage of the Blood of Medusa (see insert), as well as the blessings of Asklepios. The site also has some measure of renown in mortal circles, although much less than the heights of fame it enjoyed in ancient times. Locals know to come here if they are ill, and they will usually be treated. Due to the covenant's extreme focus, its library is highly specialized, containing an unrivaled collection of texts on Medicine and outstanding tomes on Creo and Corpus.
 
-## *Magi*
+## Magi
 
 Epidauros has only three or four magi, all of them experts in Corpus, longevity, or healing. Given the level of service expected from members of the covenant — each spends one season per year working as a physician and healer at the sanctuary, and typically spends another season in the crafting of a Longevity Ritual — it tends to only attract selfless magi who are not obsessed with their own study.
 
@@ -2225,7 +2225,7 @@ Epidauros has only three or four magi, all of them experts in Corpus, longevity,
 Xenias, the nominal leader of the covenant by simple virtue of being the eldest, is
 
 
-## *Erebos*
+## Erebos
 
 Erebos is an old but relatively obscure covenant consisting entirely of magi from House Ex Miscellanea, dedicated to the preservation of traditions
 
@@ -2244,17 +2244,17 @@ a magus aegrotus (a leper magus; see *Houses of Hermes: Societates*, page 95). L
 
 Galla hails from the herbalist Pharmacopoiean tradition (see *Houses of Hermes: Societates*, page 123) — as a Root-Cutter, she is able to reduce the vis cost of healing rituals, which is of great benefit to her covenant. A lame woman with silver hair and wearing a simple gray shawl, she walks awkwardly with the aid of her talisman staff. Her snake familiar sniffs out herbs in the nearby hills for her. Galla tends to be the maga at Epidauros who deals with visitors.
 
-## *Covenfolk*
+## Covenfolk
 
 The servants and few soldiers of Epidauros are an odd variety of men and women who were healed or saved by the magi, and who have pledged a lifetime of loyalty and service in return. Many of them came to Epidauros as their last hope, and many now have nowhere else to go — some are lepers, some are outcasts, and some are rehabilitated criminals. Most bear some physical disability, either as a result of punishment or injury: several have had their tongues cut out; others are missing limbs, or are blinded or castrated.
 
-## *History*
+## History
 
 In the second half of the ninth century, a few decades after the founding of House Ex Miscellanea and shortly after the Sundering of House Tremere, representatives of House Ex Miscellanea came to the Theban Tribunal. Among them was a filius of Pralix, tasked with dealing with the troublesome Witches of Thessaly (see *Houses of Hermes: Societates*, page 109, and *Realms of Power: The Infernal*, page 140). A tiny handful of the witches, led by a maga named Cyra, were convinced and agreed to join the Order of Hermes. Cyra was not minded to move, however, and so founded a covenant in the homelands of her tradition, the Cambunian mountains of northern Thessaly. She decided that her covenant should protect and preserve all the native Greek traditions that had been threatened by House Tremere before the Sundering. She named her covenant Erebos, a synonym for Hades also meaning "blackness" or "shadow." The name proved to be apt, since Erebos is among the most secretive of the Tribunal's covenants.
 
 Over the years since, several new recruits to the Order of Hermes, most from native Greek traditions of magic, have gravitated here, reasoning that a covenant explicitly devoted to the preservation of their tradition would be a welcome home. Most found Erebos somewhat less than welcoming, but stayed anyway.
 
-## *Setting and Physical Description*
+## Setting and Physical Description
 
 The covenant's buildings, such as they are, may be found in a long, largely deserted valley in the Cambunian mountains on the northern edge of Thessaly. There are no communal structures; instead, the covenant
 
@@ -2262,14 +2262,14 @@ The covenant's buildings, such as they are, may be found in a long, largely dese
 
 Cyra of House Ex Miscellanea founded the covenant of Erebos, but passed into Final Twilight only a couple of decades thereafter. She did not vanish entirely, however. On occasion she reappears as a cryptic guide and protector of her followers, who have adopted her as their patron spirit. She most often takes the form of her former familiar, a great white owl with bright red eyes, which strongly resembles a kind of protective spirit from northern Greece known as *koukouvaouna*. Otherwise, she appears as a haggard woman with glowing red eyes, dressed in a black shawl and clutching an obsidian staff enchanted with destructive powers. She curses any who enter the valley with malign intent towards Erebos. Cyra is most likely a Magic spirit, but might conceivably be Infernal, given the dark nature of the magics practiced by the Witches of Thessaly.
 
-## *Culture and Traditions*
+## Culture and Traditions
 
 Erebos has several distinct traditions, namely the magical traditions of its magi. Those traditions with more than one member at the covenant tend to meet with each other; but otherwise the magi do not generally hold council, nor do they even have a council chamber. The leader of the covenant has always been a Witch of Thessaly descended from Cyra, and arranges all practical matters, such as the distribution and collection of books and vis. Magi of House Ex Miscellanea from different traditions do not tend to mix well, and so Destasia, the current leader, is often called upon to rule on the petty quarrels that erupt between them.
 
 
 Erebos is not well-regarded in the Theban Tribunal, largely due to its secrecy, the reluctance of some of its magi to volunteer service to the Tribunal, and the somewhat sinister nature of the Witches of Thessaly who lead it. House Tremere, in particular, regards the covenant as little better than a nest of devil-worshipers; as such, Erebos has a strong antipathy with the covenant of Gigas, further to the north. Their local enemies are the Daughters of Erictho, those of the Witches of Thessaly who refused to join the Order, and who remain hidden among the Cambunian mountains.
 
-## *Magi*
+## Magi
 
 Considered by number of members, Erebos is actually one of the Tribunal's largest, with nearly a dozen magi all of House Ex Miscellanea. Among the native Greek traditions with a presence here are the Witches of Thessaly, the Cult of Orpheus, and the Pharmacopoieans (see *Houses of Hermes: Societates*). There are also one or more magi from Slavic traditions, who claimed to have been hounded out of the Transylvanian Tribunal.
 
@@ -2281,26 +2281,26 @@ Considered by number of members, Erebos is actually one of the Tribunal's larges
 
 A descendent of Cyra, Destasia has recently inherited the rulership of Erebos, despite her relatively young age. Her mater Megethia, the former leader, is still at the covenant, but is increasingly absent due to prolonged Twilight episodes. She is familiar with the magic of defixiones, capable of inflicting curses; correspondingly she specializes in Perdo and Corpus. An elegant and athletic black-haired woman, Destasia would be attractive, were it not for the ritual scars that have marred her face, believed to be due to an ordeal for a Mystery initiation.
 
-## *Covenfolk*
+## Covenfolk
 
 Erebos has no covenfolk as such. Instead, most of its magi have their own servants, guards, and retainers, though some manage without. The autocrat, who controls the limited finances and supplies of the covenant, is directly loyal to Destasia, giving her considerable power.
 
-## *Gigas*
+## Gigas
 
 House Tremere has a checkered history in the Theban Tribunal. And so, the covenant of Gigas was established to remind the magi of Thebes of the strength of House Tremere immediately to
 
 
 the north. While Gigas is often politically at odds with the rest of the Tribunal, it is also seen as neutral ground upon which to conclude peace treaties and pacts of good-will and non-aggression, because of its distance from the other covenants.
 
-## *History*
+## History
 
 Gigas was established in 1023, initially as a place for recovery by those magi and favored companions who had been wounded in the Schism War. From the very beginning the Tribunal was suspicious of its agenda, particularly when in 1069 it established a policy of admitting only members of House Tremere.
 
-## *Setting and Physical Description*
+## Setting and Physical Description
 
 Gigas is the most northerly of the Theban covenants, at the very north edge of a rich and fertile valley southwest of Sofia. The magi occupy a hunting lodge in a small expanse of forest that has a weak Magic aura. In order to avoid attention in this well-populated area, the lodge itself is kept quite small, and the sancta of the magi mainly are underground.
 
-## *Culture and Traditions*
+## Culture and Traditions
 
 Gigas is House Tremere's most significant holding in the Theban Tribunal. Its purpose is to report back to Coeris— the Tremere domus magna in Transylvania — all news that could not be obtained through the usual channels.
 
@@ -2310,7 +2310,7 @@ Several members of Gigas have been outspoken in their condemnation of some of th
 
 Gigas has never accepted the need for a patron spirit or creature, believing it to smack of idolatry. By way of protest against this tradition, the covenant designates the familiar of their covenant's leader as their official patron, even if it is in name only. Čovek is a silver wolf, one of a lineage that has produced familiars for many prominent members of House Tremere, including all of the leaders of Gigas. It is considered an honor to be chosen by one of these magnificent beasts.
 
-## *Magi*
+## Magi
 
 Gigas does not admit members who are not followers of Tremere, and most of the Tremere at Gigas are the Hermetic descendents of its leader Boustaphan. Gigas will also offer support and even temporary membership for any Tremere magus who wishes to join the Theban Tribunal from another Tribunal. Gigas usually has six members, although it occasionally plays host to Tremere from outside the Tribunal and can comfortably accommodate nine members.
 
@@ -2342,14 +2342,14 @@ Perhaps due to his narrow escape from a life of parchment and ink, Monorchis has
 
 Allectores is the chief negotiator and ambassador of Gigas, and the most approachable of its members. While his role might seem contrary to the martial nature of his House, the Tremere recognize the need for diplomacy as much as the need for readiness for war, and he is a valued member of the covenant. However, he tends to play up his apparent mis-fit to the military structure of the House to gain sympathy among those with whom he deals. Allectores has reportedly received a faerie blessing that causes everyone he meets to see him in a favorable light.
 
-## *Hedyosmos*
+## Hedyosmos
 
 Inhabited by House Guernicus and House Tytalus in what some call a sinister alliance, the covenant of Hedyosmos deserves its ominous reputation. By all accounts the covenant squats over a portal to
 
 
 the Underworld, and its members are expert wielders of magic associated with stygian forces — the earth, the dead, and malicious magic. In practice, Hedyosmos has been a strong supporter of the Hermetic polity throughout its existence. While some question their motives, no-one could question their loyalty.
 
-## *History*
+## History
 
 Hedyosmos is one of the oldest covenants in the Tribunal. Wizards dwelled on the site for at least a century before the Order was founded, and possibly longer. In antiquity, the site was the site of a temple of Hades, the god of the Underworld. Indeed, it was one of the few cultic centers of this god, since the Eleans were the only men who were known to worship Hades.
 
@@ -2359,12 +2359,12 @@ It is commonly believed that magi of Hedyosmos were pivotal in the Sundering of 
 
 The covenant weathered the Corruption of House Tytalus and the Schism War with equal nonchalance, and has remained unperturbed through mundane conflicts and Hermetic turmoil alike.
 
-## *Setting and Physical Description*
+## Setting and Physical Description
 
 The slopes of Mount Minthe in Elis bear the ruins of a *nekyomanteion* (a shrine to the dead), beneath which is the covenant of Hedyosmos. The covenant is entirely under-
 
 
-## *The Cult of the Earth*
+## The Cult of the Earth
 
 The Founder Guernicus was the last member of a cult dedicated to the mysteries of the earth. In the Founder's last years, he reconstituted the cult among some of his apprentices, and revealed to them some of its secrets. Over time, the cult has adopted members from other houses, although it is always headed by a member of House Guernicus. In Greece, the threskeia geine ("cult of the earth," called the cultus terrae or Terrae Cult elsewhere) has suborned the traditional functions of Hades, the principle Underworld god, without offering him any veneration. In fact, as the epicenter of Kampe's Lovers (a faction seeking to undermine the gods), it specifically seeks to weaken the power of Hades over the prison of the titans, and restore them to prominence, starting a golden age of magic. This goal is described in detail in Chapter 9, although it should be noted that these are not the goals of the Terrae Cult as a whole, just those in the Theban Tribunal.
 
@@ -2386,13 +2386,13 @@ According to legend, Minthe was the lover of Hades. When the Underworld god abdu
 
 Minthe, who is a magical Daimon, guards one of the entrances to the Underworld, which is believed to be a way to gain entrance to the Magic Realm. For many centuries the inhabitants of Hedyosmos have venerated Minthe rather than Hades. Since she is set over a gate into Tartaros — where the titans are imprisoned — she is vital in the plans of Hedyosmos to restore the dominance of the Magic Realm over the lands of the Tribunal.
 
-## *Culture and Traditions*
+## Culture and Traditions
 
 No light or speech is permitted in the common areas of the covenant. Magi and companions may light the caves assigned to them however they wish and can speak freely in them, provided that no light or noise seeps into the corridors or shared chambers. Even the kitchens have no source of light; all food is prepared outside or bought from the nearby village, and warmed using hot rocks in covered baskets. In some areas it is actually impossible to make light or noise due to ageold enchantments. The covenfolk and magi communicate through a unique form of signlanguage in which the speakers press their fingers into the hands of those to whom they are talking. The Hedyosmos Lore Ability is essential to avoid getting lost in the dark.
 
 Hedyosmos is a vocal proponent of the Theban polity. Its members often advise on the judicial and legislative boards (see Chapter 4), and their votes at Tribunal are invariably biased towards the solution that does the least harm. It is well known that those in need of a skilled debater for a decree at Tribunal can often secure the services of a magus of Hedyosmos, at the cost of neutralization of one of its member's shards. However, the magi here have been known to turn down requests that they feel
 
-## *Rumors*
+## Rumors
 
 The sinister reputation of this covenant has contributed to a great deal of rumor and speculation regarding its history and practices. Many of these rumors are propagated by followers of Tremere who have especial reason to suspect the covenant.
 
@@ -2402,13 +2402,13 @@ The sinister reputation of this covenant has contributed to a great deal of rumo
 - Hedyosmos' wealth derives from the alchemical transformation of human bones into gold.
 
 
-## *Story Seed: The Estate of Hades*
+## Story Seed: The Estate of Hades
 
 Askalaphos has plans for Vrakos and his nascent cult. The faerie intends to reclaim the covenant as a temple to Hades and rid it of the enemies of his lord — the magi. This plan will develop over many years, as presently Vrakos is the only devout follower of the god, and further recruitment is a tricky business in a covenant populated by inquisitive Guernici and scheming Tytali. The biggest impediment to the scheme is the covenant's Aegis of the Hearth, and Askalaphos is considering ways in which he could be invited into the covenant and take part in the ritual.
 
 are detrimental to the polity. Likewise, their magical assistance is also easily obtainable; Aiakia (see later) knows a number of ritual spells including *Conjuring the Mystic Tower*, and is willing to cast them on behalf of others for simply the cost of the ritual in vis and the neutralization of a shard (one of hers, or those of her sodales).
 
-## *Magi*
+## Magi
 
 Hedyosmos has eight magi: four from House Guernicus; three from House Tytalus; and Celaenea of House Bonisagus. All eight magi are members of the *threskeia geine*. Porphyrion of Tytalus was a member of Hedyosmos until 10 years ago when he left for Rome. After a brief stay there, where it is rumored he found the infamous Jar of Pandora (see *Realms of Power: Magic*, page 107), he moved on to the Normandy Tribunal. It is suspected that he will make a play for primus of Tytalus if he sees an opportunity to best both of the current primi (see *The Lion and the Lily*, page 132).
 
@@ -2441,7 +2441,7 @@ A member of the Tytalan Mystery Cult of the Titanoi (see *Houses of Hermes: Soci
 
 Celaenea is a Seeker in the direct line of Lucian Triamonae, the magus who founded the Seeker movement, and believes that this should earn her the respect of her fellows (it doesn't). She is obsessed with the legends of Hermes, and has set up a covert laboratory on Mount Cyllene, where the god was purported to have been born. She believes that by divining the character of Hermes she can uncover the roots of magic itself (see Chapter 10: Faerie Landscape, The Problem of Hermes insert for discussion of this).
 
-## *Covenfolk*
+## Covenfolk
 
 The covenfolk are forced to operate in total darkness for most of the time, and have developed different ways to cope. Most are fluent in the covenant's sign language. Valued servants are given enchantments that allow them to overcome their blindness. All the covenant's grogs, regardless of whether they possess one of these enchantments, are trained to combat opponents who they cannot see, and are sometimes loaned to the Tribunal's polemarch (see Chapter 4) for Wizard's Marches conducted against opponents prone to using invisibility.
 
@@ -2458,7 +2458,7 @@ Few of the House Jerbiton covenants of the Tribunal remain, but one of the few t
 
 nople, the covenant's three male magi chose to leave for Rome rather than face the end of civilization in the Theban Tribunal, but two nuns remained within their convent and have recruited new members to the covenant, all of whom are holy magae (see *Realms of Power: The Divine*, page 66). The covenant's patron is Saint Demetrios.
 
-## *History*
+## History
 
 Oikos tou Eleous is situated in the city of Thessaloniki. In 1185, five thousand citizens were slain by the invading Sicilian army, and a strong Infernal aura arose over the desecrated holy places and ruined streets.
 
@@ -2474,7 +2474,7 @@ In 1207 a pair of twins from Lesbos, who belong to the Ex Miscellanea Seirenes t
 
 immediately involved the covenant in royal affairs by their covert support of Queen Margaret of Hungary, whose son (also called Demetrios) was already a great favorite of the nuns.
 
-## *Setting and Physical Description*
+## Setting and Physical Description
 
 The covenant is not a single location, but consists of an alliance of maga bound together by a typikon (charter) for the mutual defense and restoration of the spiritual and physical health of Thessaloniki, in a similar manner to a lavra.
 
@@ -2482,11 +2482,11 @@ Sisters Anna and Theocharista maintain the tiny convent of Koukoubiou, housed in
 
 The twins reside in the royal palace, with just four slaves as personal attendants, and have a room in their apartments that serves as a cramped laboratory. They are actively seeking better facilities, especially given their tendency to argue with each other.
 
-## *Culture and Traditions*
+## Culture and Traditions
 
 The covenant is dedicated to the protection of King Demetrios and the veneration of the saint of the same name, and the protection and spiritual and physical survival of Thessaloniki. All of the magae are holy magae, and maintain vows of poverty, chastity, and obedience and a demanding schedule of personal devotions. Being holy magae of three traditions, the women have little use for vis, or books and lab texts, and do not hold many common resources at all, making them very different from most Hermetic covenants.
 
-## *Magi*
+## Magi
 
 Oikos tou Eleous has four magae, and as a result is often referred to in the Tribunal as the "Ladies of Thessaloniki."
 
@@ -2523,14 +2523,14 @@ Nonna is as different from her twin sister as chalk from cheese, though physical
 
 Nonna has just returned after several years of service in Constantinople at the court of Empress Yolanda, and her strong commitment to empowering women and thinly disguised contempt for the foibles of men may yet lead to more clashes with her sister and fellow magea. She would actively oppose any male being admitted to the covenant.
 
-## *Covenfolk*
+## Covenfolk
 
 The covenant does not have any covenfolk as such, or grogs, instead relying upon the magae themselves and their personal staffs for any services necessary. The convent is run by Anna as mother superior, and her six novices are mainly widows of the recent wars. One, the obstreperous and surly Gemma, has been here since 1185. Gemma is well aware that the sisters are much older than they appear, but puts it down to God's grace — not that she doesn't whine loudly about the injustice of it at every opportunity. Surviving from their personal wealth, the nuns perform their own domestic duties with only one hired helper, John the gardener.
 
 
-## *Chapter Six*
+## Chapter Six
 
-# *The Islands*
+# The Islands
 
 The legendary sea at the center of the Theban Tribunal — the backdrop to the epic voyages of the Greek heroes — is strewn with hundreds of islands, among them the birthplaces and sanctuaries of gods and the refuges of saints. The sea goes by several names, but is most commonly called the Aegean Sea, after an ancient king of Athens, Aegeus. His son Theseus, returning home from his battle with the minotaur on Creta, had forgotten to raise a white flag on his ship to indicate victory. In despair, Aegeus cast himself into the waters. It also takes its name from the underwater palace of Poseidon, Aegaea. The Bulgarians call it the White Sea, reckoning it to be more hospitable than the stormy Black Sea beyond the Sea of Marmara. It was also known in antiquity, and still is today, as the Archipelago, due to the great abundance of islands found in its waters.
 
@@ -2538,11 +2538,11 @@ The Aegean islands were notionally divided between the Republic of Venice and th
 
 The Aegean Sea contains a great variety of islands, from the tiniest rocky islets to grand domains covering hundreds of square miles. Many are surprisingly green and fertile, depending on the presence of springs and rain-giving mountains, while others, especially the smaller ones, are mostly barren and unfit for agriculture. The more verdant of the isles are typically covered with vineyards, orchards, olive groves, or fields of grain, with sheep and goats in the mountains. A small few are volcanic, and others are rich in marble, precious metals and stones, or ore. Due to the generally reliable and constant winds, windmills, a relatively recent innovation copied from Muslim lands during the crusades, are employed to mill the grain harvest. Any settlement of any consequence is a port, and there are no large cities.
 
-## *The North Aegean*
+## The North Aegean
 
 The northwestern stretches of the Aegean Sea are mostly free of large islands, except for the clump known as the Sporades, modestly-sized isles covered in verdant forest, farms, and vineyards. To the east, a chain of several larger islands extends along the coast of Asia Minor; apart from Lemnos, they owe nominal loyalty to the Latin Empire. Most
 
-## *Piracy in the Aegean*
+## Piracy in the Aegean
 
 The countless islands and wealth of shipping in the Aegean have made the Archipelago a haven for pirates since antiquity, and the practice of piracy has continued more or less unchanged for millennia. As well as the obvious profit obtained from captured booty, it is also not uncommon to hold worthy persons captive for ransom. Long ago, the god Dionysos was captured by bold Tyrrhenian pirates, who mistook him for the relative of a wealthy merchant. The god found this turn of events amusing and turned the oars of the ship into snakes and the pirates into dolphins. Rulers throughout history have tried to bring the pirates to heel, with mixed success, but on occasion have also solicited them as mercenaries and allies.
 
@@ -2553,7 +2553,7 @@ Piracy might be a viable source of income for a Theban covenant. Although the Tr
 
 notable among the supernatural beings that may commonly be encountered in the northern half of the Archipelago are the Gorgona (see Chapter 5: Greece, Thessaloniki) and magi of the underwater covenant of Aegaea (see later) and their attendant tritones.
 
-## *Lesbos*
+## Lesbos
 
 Lesbos, the third-largest Greek island, after Candia and Euboea, is a green and pleasant place, full of gardens and flowers. It has two large sea inlets, two principal mountains, and several hot springs. It is known as an abode of minstrels, poets, and lovers, where, most unusually, women are afforded a higher status than men. Five of the original towns of Makaria (as the island was once known) — Mytilene, Mithymna, Issa, Antissa, and Avrisi — were named after the daughters of King Makaras, a son of Helios. Each daughter ruled her home, and the women of Lesbos have held dominion over the men ever since. The island was later named after Lesbos, one
 
@@ -2582,11 +2582,11 @@ that tradition, Zacharias.
 
 Among the western stretches of Lesbos is a place where the remains of a forest have been turned into stone. Upright stone tree trunks of various sizes stand in a blasted and desolate vale. A few of the other stone pillars look suspiciously like woodcutters that have been likewise cursed. This place is home to a particularly malevolent group of kalotyches (see Chapter 10: Faerie Landscape, Stoicheia), spirits of trees that avenge their own felling. The deserted petrified forest, which has a feared reputation on Lesbos, has a Faerie aura of 3, and the stone roots of the trees may be harvested as Perdo vis, although so doing enrages the spirits. To avoid angering the kalotyches and suffering a similar fate, the folk of Lesbos take care to honor their trees and do not fell them, which is perhaps one reason why there are so many carefully tended gardens and groves elsewhere on the island.
 
-## *The Cyclades*
+## The Cyclades
 
 The Cyclades, also known as the Encircling Isles since they were spun around the legendary birthplace of Apollon and Artemis on Delos, are a cluster of several dozen islands in the central Aegean Sea, southeast of Attica and Euboea. Many cypress trees sacred to Artemis may still be found on the isles; they are also associated with Hades and resur-
 
-## *Other North Aegean Islands*
+## Other North Aegean Islands
 
 Apart from Lesbos, the largest, other major islands of the northern half of the Aegean are as follows, in order of size:
 
@@ -2629,7 +2629,7 @@ The Duchy is a successful realm, paying homage to the Latin emperor but generall
 
 As noted, Marco is nephew of the former Doge Dandolo. His brother, Pietro, was the black sheep of the family and a rather unsettling youth, whom Marcus never really felt comfortable around, despite their shared blood. Pietro was a mere boy, pleasant enough, and intelligent and scholarly, but there was something profoundly strange about him. In one of his last acts, Dandolo arranged a position for him somewhere, and Marco often wonders what happened to him, hopes he is doing well, and hopes for word. In fact, Pietro was apprenticed in House Verditius at the covenant of Ingasia and is now named Satabus; he has just moved to the covenant of Polyaigos (see later) where he has learned of Marco's rise to power. He has not yet contacted him, although he retains a strong affection for his mundane family.
 
-## *Delos*
+## Delos
 
 For such a relatively barren and small island — it is only a mile or two across — Delos has had an important role in the history of Greece. It lent its name to the Delian League, a consortium of city-states that ruled much of ancient Greece. These days, it has all but been forgotten. With no natural resources or inhabitants, it has no strategic importance. Its insignificance to mundanes is the reason why few have realized that the island has uprooted, and drifts on the currents of the Aegean and Kretan seas. It is of importance and interest to the Order of Hermes however, since Delos is where the meetings of the Theban Tribunal are held.
 
@@ -2647,7 +2647,7 @@ The nymphs Arge, Opis, and Loxo came from Hyperborea to Delos with Artemis and A
 
 The three Hyperborean nymphs still guard the shrines on Delos. Their appearance is provoked by disturbing the structures or relics left on Delos, and vandals have just a few moments to explain themselves before they begin to shoot. Trespassers typically receive mortal wounds, although they never die until they have left the island.
 
-## *The Nymphs Arge, Opis, and Loxo*
+## The Nymphs Arge, Opis, and Loxo
 
 **Magic Might:** 30 (Corpus)
 
@@ -2706,7 +2706,7 @@ These nymphs are actually Daimons, a type of spirit that resides in the Magic Re
 
 to Egyptian and Eastern deities in antiquity. Here are a small number of houses where
 
-## *Hyperborean Magic*
+## Hyperborean Magic
 
 Characters interested in Hyperborean magic (see *Ancient Magic*, Chapter 8) may naturally be drawn to Delos in search of secrets. Undoubtedly there are answers to be found here, but they are not easily yielded. There may be information hidden in the temple to Apollon, but the shrine's guardians are strongly resistant to those who would disturb the ruins. The nymphs themselves are a potential source of information as they originated in Hyperborea and speak its language, but they are not the most friendly of beings, and seekers may need to prove themselves worthy.
 
@@ -2724,7 +2724,7 @@ Delos' most notable feature is, of course, its migratory movements. The currents
 
 It is generally believed that Zeus' ban on births and deaths on the island is still in force. It has been many generations of magi since a slaying was attempted, and all present intervened to prevent it for fear of risking the notorious wrath of the Lord of Olympos. In line with the ban, no pregnant women or animals are permitted on the island during a Tribunal meeting, and the magi continue the ancient practice of forbidding all predatory animals; anyone with such a familiar or animal companion must leave it behind. Bjornaer magi with predatory heartbeasts refrain from changing form on Delos if they can avoid it.
 
-## *Delian Stories*
+## Delian Stories
 
 Characters will certainly visit Delos at some point during their lives, to attend a Tribunal meeting. The biggest potential for stories comes when it is the characters' phyle's turn to prepare the agora for an upcoming Tribunal. Naturally, this task will be delegated to the younger members of the phyle. In addition to the practical issues of supplying food for sixty or more magi plus their servants for a week, they must deal with seven years of neglect at the Tribunal site. Typically, all of the houses require new furniture and roofs, since the impermanent nature of everything on Delos is particularly harsh on perishable goods. Damage to the structures must be repaired with caution, since the Hyperborean nymphs strongly resent any physical changes to the island at the hands of humans.
 
@@ -2737,7 +2737,7 @@ The Tribunal of Thebes has met on Delos ever since its inception. There were oth
 The meeting itself takes place in the agora — an assembly place built and used by the Delian League. A natural hollow forms an amphitheater, and the sides are faced with marble steps. The agora is surrounded with carved marble pillars. Some way from the agora itself are the walls of four large buildings and a number of smaller huts. These are provided with roofs and necessary repairs are done to house the four phylai and their auxiliary staff during the Tribunal meeting. All members of each phyle are expected to share one of the four buildings; tables, chairs
 
 
-## *Other Cycladic Islands*
+## Other Cycladic Islands
 
 Other islands of the Cyclades include, in order by their size:
 
@@ -2782,7 +2782,7 @@ Hearkening back to the communal treasury of the ancient Delian League, the Theba
 As with all the sacred sites on Delos, the treasury benefits from the protection of the Hyperborean nymphs. Nevertheless, it would not be extremely difficult for a resourceful magus to steal vis from the treasury, or for a clever arche to embezzle vis from it. However, it is believed that such crimes have never occurred. Plundering the treasury would surely be viewed as a grave offense.
 
 
-## *Thera*
+## Thera
 
 Thera, the southernmost of the Cyclades, is a rocky crescent-shaped island that partially encircles a central lagoon, forming a huge natural harbor. However, the dramatic steep slopes and cliffs leading down to the bay severely limit the potential for a port of any size. Instead, a few small settlements are perched atop the black cliffs, overlooking the lagoon. The new Latin name recently given to Thera is Santorini (St. Irene).
 
@@ -2792,11 +2792,11 @@ The eerily still blue lagoon of Thera, which is accessed by one of two wide entr
 
 Outside the bay, in the seas surrounding Thera, is one of the most common haunts of the Warrior of the Sea, the Thalassomachos (see Chapter 10: Faerie Landscape, Faeries of Greece). He steals the nets of local fishermen and summons winds to thwart them. However, he does not venture into the bay, and his sudden flight from Thera may herald the imminent arrival of a mighty storm from Typhon.
 
-## *The Dodecanese*
+## The Dodecanese
 
 The Dodecanese are a chain of a couple of dozen islands in the southeast of the Aegean, a region which in antiquity was at the extremity of the Greek world. Christianity took root here earlier than anywhere else in the Tribunal, thanks to several missions by the apostles St. Paul and St. John. Some of the islands later felt the influence of Muslim rulers, although the Byzantine Empire has left by far the stronger and more recent influence, leaving the isles liberally dotted with many fortifications, monasteries, and churches. Apart from Rodos, Karpathos, and their immediate surrounds, which were nominally claimed by Venice after the Fourth Crusade, the Dodecanese fall under the dominion of the Latin Empire, despite the fact that the closest shores of Asia Minor are divided between the Empire of Nicaea and the Seljuk Sultanate.
 
-## *Patmos*
+## Patmos
 
 This small island at the northern end of the Dodecanese is the holiest in Greece, being the place where St. John the Apostle was exiled, the horrors of the Roman emperor Nero's persecution of the Christians still fresh in his mind. A baptismal font still stands at the spot where he alighted on the shore. Apart from the monastery of St. John the Divine, founded at the end of the 11th century and later fortified against the attacks of pirates and local despots, Patmos is uninhabited, although it is visited by a great number of pilgrims.
 
@@ -2805,7 +2805,7 @@ This small island at the northern end of the Dodecanese is the holiest in Greece
 Some way up the side of Patmos' highest peak is a small cave where St. John received his apocalyptic visions from Jesus, which were written down by his disciple Prochorus. These words are recorded in the Bible's Book of Revelation, also called the Apocalypse of John, foretelling Armageddon, the fall of Satan, the second coming of Christ, and God's final judgment upon the earth. In the cave can be seen the rock that the apostle used as a pillow, the cross he carved into the rock, and the triple fissure in the rock wall through which he heard the voice of Jesus. Several monks from the island's monastery have
 
 
-## *Kos*
+## Kos
 
 During the ancient war between the titans and the Olympians, Poseidon chased the titan Polybotes across the sea and ultimately defeated him by ripping off a part of the island of Kos and hurling it at him. Polybotes remains trapped under this rock, Nisyros, a small isle just to the south of Kos that has a Magic aura of 3. Kos was one of the wealthiest ports in antiquity, famed for its wines. In the fourth century BC the islanders forged an alliance with Egypt, and it became a favored city of the Egyptian rulers, Ptolemeos II being born here. Under Byzantine rule, Kos has remained an important port, and is home to many rich farms.
 
@@ -2817,13 +2817,13 @@ In the center of the town of Kos is an ancient plane tree, the oldest and larges
 
 The closest confidante and advisor of the Despot of Rodos is a hedge wizard of highly dubious moral character, likely corrupted by the Infernal, who bends the ear of his master to suit his own selfish ends. He has written the only books to be found on the island, which are corrupt and tainted works including a perverted copy of the Bible. And he is greedily gathering all the island's vis, while his demonic patron secretly looks on with satisfaction. After hearing rumors of depravities and wizardry on Rodos, the Theban Tribunal asks for volunteers to investigate.
 
-## *Rodos*
+## Rodos
 
 Rodos (Rhodes), the largest of the Dodecanese islands, is named after the beautiful nymph Rhode, a daughter of Aphrodite and a consort of the sun god Helios. Both Rhode and Helios were worshiped as protectors of the island, and to this day the rhoda, a pink hibiscus gifted by Rhode, blooms all over its shores. In antiquity, the city at the northern end of Rodos was home to the Colossus, an epic statue of Helios bestriding the harbor's entrance, which was one of the Seven Wonders of the ancient world. This marvel stood for less than a century before collapsing after an earthquake, breaking off at its knees. The remains of the bronze torso lay there for many centuries, until the invading Saracens broke it up in the seventh century, selling the pieces to a mysterious Jewish merchant claiming to be from the Holy Land, who hauled it all away with a thousand camels. Even now, small bronze shards of the Colossus may still be found — given that they are Ignem vis, the supposed merchant might have had an arcane use in mind.
 
 Rodos was ruled by the Saracens for centuries, who fortified the city with sturdy walls and divided it into several districts, including one that to this day has a large Jewish presence. A separate district was created for the city's rulers. The First Crusade restored ithe city to Byzantine ownership. During the Third Crusade in 1191, Richard the Lionheart conquered Rodos and recruited its sailors to his cause. After the Fourth Crusade, the island was claimed by the Republic of Venice, which has had a naval base here since 1082. It is now ruled by Leo Gavalas, a wealthy and corrupt dynatos from Constantinople who arrived here shortly after that city fell, rather presumptuously establishing the Despotate of Rodos and declaring himself despot. Among his peculiarities is a great fear that the "freedom of reading" will lead his subjects to rebellion; as such, one of his first acts was to confiscate all the island's books. Only texts that he has personally approved, and which portray him in a suitably favorable light, may be sold here.
 
-## *Candia*
+## Candia
 
 Also named Creta in Latin, Candia is the largest island of Greece and the second-largest in the Eastern Mediterranean, after Cyprus. It is the southernmost territory of the Theban Tribunal, lying between the part of the Aegean Sea known as the Sea of Creta and the Mediterranean proper, about two hundred miles north of the coast of Africa. It is mostly rocky and covered with mountains, whose waters selectively feed the greener of its various plains and plateaus, where many olive groves may be found. Sheep and goat herding is prevalent in the hills.
 
@@ -2831,7 +2831,7 @@ Candia was home to the ancient Minoan civilization, founded by the legendary kin
 
 After successively falling under the dominion of Rome, the Byzantine Empire, and the Saracens, Candia was recaptured from Muslim hands under the rule of the Byzantine emperor Nikephoros II in the 10th century. In the aftermath of the Fourth Crusade, became the possession of Boniface of Montferrat, who was persuaded to sell it to the Republic of Venice, the doge viewing it as a strategic asset, for 1000 marks. A Genoese pirate by the name of Enrico Pescatore ruled for several years until Venice managed to assert its authority in 1212, whereupon the Kingdom of Candia was established. In the eight years since, Venetian families have been encouraged to settle on the island, and there has already been a succession of four different doges (dukes) installed as ruler, each serving a two-year term. There is currently a rebellious atmosphere as the locals chafe under the higher taxes and tariffs that the Venetian rulers of the ports have imposed.
 
-## *Chandax*
+## Chandax
 
 The principal city of Candia and the largest amid the Greek islands, Chandax, which the Venetians have taken to simply calling Candia, is located halfway along the northern coast of the island, at the site of the ancient port city of Iraklion. The settlement was reestablished by the Saracen rulers of
 
@@ -2849,7 +2849,7 @@ A short distance to the west, in the center of Candia, is the island's highest p
 
 On the hillside a short distance from Chandax lies the remains of the ancient capital of Candia, the legendary city of Knossos, home to many epic Greek legends. The Cretan Bull was a splendid white beast, gifted to Minos by Poseidon, but the king refused to sacrifice it as intended. In revenge, Poseidon made Minos' wife Pa-
 
-## *The Tales of Knossos*
+## The Tales of Knossos
 
 The legends of the Labyrinth of Knossos include the following; any of these characters or stories might be re-created inside the Faerie regio:
 
@@ -2872,11 +2872,11 @@ The great palace at the center of the city, the labyrinth, was built by Daidalos
 
 The ruins of Knossos have a Magic aura of 3, which supersedes a weaker Faerie aura. The site is of particular interest to Marcus Tauros of House Criamon (see *Magi of Hermes*), who has seemingly received visions of a past life as a Minoan priest. He might well be encountered here, as he investigates the catacombs beneath the ruin in an attempt to unearth the secrets of a magical Minoan Cult of the Bull. He has yet to discover that the intact labyrinth may be found inside a regio, the highest level of which has a Faerie aura of 6. Inside the palace, two symbols may be seen throughout: the bull, symbolizing the Cretan Bull and the Minotaur, and the *labrys* (from which the word "labyrinth" derives), a double-headed axe and a symbol of protection.
 
-## *The Gorge of Apollon*
+## The Gorge of Apollon
 
 The greatest gorge in Europe, stretching is more than 10 miles long, was cut by a river rising in the White Mountains in the west of Candia. A journey through it — from an altitude of more than 4000 feet at its northern end, down to sea level on the south coast of the island — is a perilous trip of two or more days traveling along the sides and bottom of the chasm. A Magic aura of 2 pervades the whole length. The route is dotted with many caves and springs — the abodes of nereids — as well as ancient cypress and pine trees. Here may be found many mountain flowers with medicinal properties. One such plant is the paeonia (peony), which was named after the god Paion. Paion was the physician of the Olympian gods who used it to heal the wounds of Hades and Ares. Also found here is the dittany, which is
 
-## *Talos, the Protector of Candia*
+## Talos, the Protector of Candia
 
 The mythical protector of Candia, Talos, is a giant bull-headed man of bronze (not to be confused with the Minotaur) who was forged by the god Hephaistos as a gift to King Minos. He was first defeated by Medea, the sorceress-protector of the Argonauts. She removed the bronze nail in his ankle, allowing the green ichor from Talos' single vein, which ran from his neck to his ankle, to bleed out.
 
@@ -2892,14 +2892,14 @@ chewed by wild ibex to heal their wounds. In constrast, the dragon arum with its
 
 At the center of the gorge, in a place where the two cliff walls loom more than a thousand feet above, yet are only a dozen feet apart, a pair of great bronze gates bars the way, forming a nigh impregnable barrier. Beyond the gates is a tiny settlement called Keno, which has a Faerie aura of 4. Here an ancient race of Cretans endures who worship Apollon at the temple at the center of their village. They speak Classical Greek with a Doric dialect, and are brilliant archers and hunters, although they know almost nothing of the outside world. Here, Apollon hid to escape the wrath of his father Zeus after slaying Python, the protector of Delphi. He fell in love with a local nymph and forgot himself as the sun rose late; even now, the sun does not reach the center of the gorge until midday.
 
-## *Aegaea*
+## Aegaea
 
 One of the Theban Tribunal's most splendid covenants, but also one of its oddest and most inaccessible, Aegaea is an underwater sanctuary, occupying the supposed
 
 
 palace of Poseidon at the bottom of the Aegean Sea. It has dedicated itself to the preservation and study of legends native to the Tribunal, both contemporary and ancient. Although it is an Autumn covenant with potent magics at its disposal, its members are believed to project little power beyond their underwater domain, and are consequently dismissed by many in the Tribunal — especially given Aegaea's Faerie aura and the strong Faerie bent of most of its magi.
 
-## *History*
+## History
 
 The covenant was founded approximately two centuries ago by a Merinita maga named Orithyia. According to her story — she wrote several colorful accounts of her various fantastical travels, which have since become semi-legendary in the Tribunal — she was led through the seas to the site of the covenant upon her return from Arcadia by a powerful golden man with a dolphin's tail. She believed him to be none other than Triton, the herald of Poseidon, and negotiated a pact with him for her and her followers to stay there. The magnificent underwater palace that she had been brought to could be none other than that of Poseidon, she reckoned, which, according to Homer, was named Aegaea. Thus was her covenant formed under the same name, with Triton as its patron. The Tribunal was initially sceptical of Orithyia's claims, but Redcaps attested
 
@@ -2908,7 +2908,7 @@ to the existence (and splendor) of the site and its patron.
 
 Since its founding, Aegaea has remained a poorly understood and somewhat withdrawn presence in the Tribunal, mistrusted by many. Apart from Redcaps, very few magi have ever seen the site, although most of those who have speak warmly of their reception. Under the leadership of Lucian, it has earned a not-undeserved reputation for being a somewhat unreliable ally. Shrewd observers have noted that Aegaea's allegiances appear to be as changeable and unpredictable as Poseidon and the seas themselves. Still, Aegaea has occasionally proved its worth to the Tribunal by dealing with underwater menaces.
 
-## *Setting and Physical Description*
+## Setting and Physical Description
 
 The covenant occupies the supposed palace of the god Poseidon, which is located in a Faerie regio at the bottom of the Aegean Sea, not too far from the coast of Euboea. Inside the regio, the top level has a Faerie aura of 8. It contains a grand and elegant palace located on the sea floor, amid sumptuous gardens. Between the rocks are beautiful sea-flowers of innumerable hues, and other splendid plants whose foliage shimmers sea-green. The palace is a sprawling, open structure of numerous courtyards, buildings, and towers, Greek in style, but whose composition and ornate gardens are more reminiscent of a sultan's palace. The buildings are made of white coral and shells lined with silver and gold, and the floors are of a creamy pearl-like stone, inlaid with precious gems. The magi of Aegaea have established their sancta in some of the grandest rooms and towers of the palace. Honored visitors may be received in the largest and most central chamber, which resembles an airy throne room and is lined with Doric columns. At the far end, the majestic throne of Poseidon sits empty.
 
@@ -2920,7 +2920,7 @@ Aegaea is unusual in that its patron — likely one of the most powerful of all 
 
 He is attended by a multitude of tritones (see also *Realms of Power: Faerie*, page 90), likewise mermen with the upper body of an athletic man and the lower body being a dolphin's tail. They have green hair and eyes, and most of their upper bodies are covered by small, hard, shell-like scales. The swiftest of the tritones, the centaur-tritones, have a horse's forelegs instead of arms. The tritones fulfill the role of warriors, messengers, and servants.
 
-## *Culture and Traditions*
+## Culture and Traditions
 
 Aegaea stands greatly on ceremony and is influenced heavily by ancient legends, particularly those of the Olympian gods, and most especially Poseidon. Visitors to the covenant — who are few — are often invited to participate in elaborate ceremonies or reenactments of these tales upon their arrival, for which they will find themselves assigned a particular role. If Lucian, the covenant's leader, is feeling particularly eccentric, he may require some small story or quest to be completed before he will receive the visitors. Most Redcaps have managed to compress these tiresome welcome rituals to a tolerable level of nuisance, although Lucian still insists on naming each of them after one of the children of Hermes (Pan, Tyche, Hermaphroditus, Rhodos, and so on). They often travel to the covenant using the glass submarine owned by the covenant of Alexandria. The more adventurous may borrow one of Aegaea's several items designed for visitors to use. One such device is a necklace that transforms the wearer into a sea lion. Another is a floating orb surrounded by a bubble of air. The Tribunal's Redcaps also have a magical conch shell on permanent loan from the covenant, which allows them to alert Aegaea to their presence from above the waves up to a league away.
 
@@ -2929,7 +2929,7 @@ The covenant has almost no need for contact with the mundane world. It appears t
 Due to their inveterate and eccentric scheming, the magi of Aegaea — and especially Lucian — have acquired a reputation for being untrustworthy, and even treacherous. Only on matters concerning the Fay, where they will rigorously defend the sanctity of Faerie sites and castigate those who abuse them, are they predictable. On all other matters, they change their allies and friends seemingly on a whim. Shipwrecks are invariably blamed on them — several other covenants, perhaps overestimating Aegaea's power over the waves, have accused them in the past of all sorts of mischief at sea. In fact, they probably could cause huge problems for the other covenants' ships, if they could ever be bothered to.
 
 
-## *Magi*
+## Magi
 
 Lucian, the unchallenged leader of the covenant, has assembled a group of magi that he imagines as appropriate for various roles in Poseidon's court and retinue. The membership numbers about a half-dozen, and is dominated by magi of Houses Merinita and Bjornaer. Some proficiency with the Art of Aquam is a practical necessity for every magus, for obvious reasons, although once one is safely inside the regio, it is not really needed. For magi not of House Merinita, the downside of continued presence in such a potent Faerie aura — eating faerie food, using faerie ingredients in the lab, and so on — is a rapid accumulation of Warping. All such magi who have lived here for a significant time have become heavily Warped.
 
@@ -2943,7 +2943,7 @@ A white-haired man with a benevolent countenance, Lucian habitually wears excess
 
 Lucian has several Twilight Scars, al-
 
-#### *The Theban Tribunal*
+#### The Theban Tribunal
 
 though they are not readily apparent: he has acquired a few mental defects, including an occasional difficulty remembering his own identity. He may often claim to be someone else, typically a figure from Greek legend.
 
@@ -2967,28 +2967,28 @@ As her name suggests, Delfini's heartbeast is that of a dolphin. Her decision to
 
 Krum is a tall, athletic Bulgarian magus, with the heartbeast of a stallion. As a young magus he was a member of Moero's Garden in Constantinople, where he delighted in running races in the capital's great Hippodrome. After the sack of the city in 1204 and the subsequent move of that covenant to Nicaea, he met with Lucian at the Tribunal of 1207. Lucian regaled him with colorful tales of Poseidon, the god who was the creator of the horse and the inventor of the art of riding and horse-races. Persuaded and enthused by these legends, and in a rather drastic change of scenery, Krum promptly joined Aegaea. His current idea is to develop his inner heartbeast into one of the great golden-maned sea-horses that drew Poseidon's chariot.
 
-## *Covenfolk*
+## Covenfolk
 
 Being self-sufficient in most regards, and relying on the palace's attendant tritones, the magi of Aegaea have almost no human servants. Neither do they have a mortal turb to speak of, but can instead call upon an army of warrior tritones in case of need.
 
-## *Favonius*
+## Favonius
 
 Favonius is an unconventional covenant — a flotilla of four main ships accompanied by a host of others, in constant movement around the Aegean Sea. It is the creation of Memnos, one of the most
 
 
 famous Verditii alive, and is driven to constant movement by its thrill-seeking patron spirit.
 
-## *History*
+## History
 
 Some fifty years ago, Memnos of Verditius conceived a daring plan for a new covenant. In his travels through mainland Greece
 
 
 
-## *Setting and Physical Description*
+## Setting and Physical Description
 
 The covenant of Favonius consists of four round ships, and a dozen or so auxiliary vessels. Two of the main ships are constructed
 
-## *The Enchanted Ships*
+## The Enchanted Ships
 
 Each of the four main ships is a structure of Excellent Quality (*City & Guild*, page 69). Because of the quality of workmanship, pilots receive a +2 to any navigation rolls, and captains receive a +2 bonus to any ship-handling rolls. *The Tereus* and *The Halcyon* are both Size +9 and have 16 damage levels (*City & Guild*, page 77); *The Philomela* and *The Procne* are Size +8 and Size +7 respectively, and have 12 damage levels each. Typically, damage levels are only lost from storms, fire, naval combat, and magical attacks. In addition to the enchantments mentioned earlier, all four ships have enchantments granting protection against fire and the ability to repair damage by incorporating new wood. These ships are bought with the Magical Fortress Boon, and their enchantments do not cost covenant Build Points. Additionally, *The Philomela* and *The Tereus* have been outfitted with a total of five laboratories. The new ship, should it join the covenant, will have an additional three laboratories.
 
@@ -3008,13 +3008,13 @@ vonius, *The Procne* is a typical example of the round ships that ply the Aegean
 
 Some of the other ships are Memnos' early creations. Some have Sails and Rudders of Quality, others have minor enchantments to enhance speed or maneuverability.
 
-## *Favonius' Patron: Dryops*
+## Favonius' Patron: Dryops
 
 Dryops was once simply a woodpecker spirit (one of the Fauni, see *Realms of Power: Magic*, page 103), but its ambition and restlessness soon brought it the status of a genius loci of the wood on a mountain. Yet Dryops was still dissatisfied: as a bird spirit it has been able to move, but now it was fixed to a location. When Memnos suggested his plan, Dryops was eager to partake. Through Transformation (*Realms of Power: Magic*, page 52), Dryops surrendered its role as a Daimon and a genius loci, and once more became a wandering spirit. Favonius currently owes a major debt to Dryops, whose powers gave the covenant its life. Every time the spirit uses its *Regio* power, it permanently loses 15 points from its Might. However, the adventures it experiences as the spirit of the covenant's fleet makes it content to shoulder this burden.
 
 To those with Second Sight, Dryops appears as a goose-sized woodpecker, with a black-and-white-spotted body and a red face. He is normally seated in the rigging of one of the ships.
 
-## *Culture and Traditions*
+## Culture and Traditions
 
 Favonius keeps clear of the major shipping lanes so as to keep a low profile, and is constantly on the move. It is most commonly found in the Aegean Sea, but has made journeys to the Black Sea, to Cyprus and Egypt, and to Sicily. Most of the time the ships remain together, but the smaller cogs that sail with it are often outriders that keep an eye on local traffic — particularly naval vessels. Favonius is usually amenable to giving passage to magi from other covenants if it does not take them too far out of their way, but since they rarely have a destination in mind they rarely refuse such a
 
@@ -3023,7 +3023,7 @@ request. If it is inconvenient or distant, they may ask for the neutralization o
 
 Although Dryops has never complained about the loss of Might it suffered to create new regiones for the covenant, the magi have agreed to devote time and effort to find ways to restore this lost Might to their patron. This means that they are often slaves to the whim of the spirit, who has different ideas than they do about what constitutes excitement and adventure; such escapades often place the covenant in not-inconsiderable danger. However, the spirit has recovered sufficiently to entertain the suggestion put to it by Memnos of adding an additional sanctum ship to Favonius, allowing new members to join the covenant.
 
-## *Magi*
+## Magi
 
 The founder of Favonius is Memnos, who remains on land at his shipyard. Memnos' filia Verecunda is the *de facto* leader of the covenant, and has her sanctum on *The Philomela*. Aeliophanes is in charge of *The Tereus*. The other two magi (one on *The Philomela*, one on *The Tereus*) have been left for the storyguide to describe. Alternatively, one or both of these sancta could be vacant, and with the imminent addition of a fifth ship to Favonius, this could be an interesting home covenant for the player characters.
 
@@ -3066,14 +3066,14 @@ The most important of the covenant's companions, Basil of Andros ensures its flo
 
 Peter "One Hand" is a pirate who owns two of the vessels of the flotilla, and has the allegiance of eight of the covenant's most capable warriors. Peter owes his life to Aeliophanes, and is utterly loyal. In return for the protection of the fleet, Peter offers one third of his plunder to the covenant; anything identifiable or sensitive is passed on to Basil for trading in distant ports. Peter takes pains to ensure his predations cannot be linked back to Favonius; he and his crew wear masks when at "work," and their ships are enchanted to take on different appearances.
 
-## *Ingasia*
+## Ingasia
 
 If a House's domus magna is defined as the home of the primus, then Ingasia — an autumn covenant on the island of Lemnos — is the domus magna of House Verditius. Having recently
 
 
 become primus, Stouritus of House Verditius has decided to remain at his home covenant instead of relocating to Verdi. Typically selfconsumed, most Verditius magi aren't particularly concerned with where the domus magna is, and Stouritus' decision has not had any effect. As 1234 draws closer, the date of the next Verditius Contest, this issue will become much more important.
 
-## *History*
+## History
 
 Ingasia has housed Gifted enchanters for centuries, since long before the Order of Hermes existed. During the heyday of the Greek gods, Hephaestus built a forge on Lemnos and gathered and trained Gifted individuals to assist him. The Gifted wizards remained after the god's departure, living apart to mitigate the innate hostility and suspicion they felt for each other, but continuing to work at the forge. Though never prosperous, the wizards of the forge endured, training apprentices and continuing their tradition of magical enchantments.
 
@@ -3081,7 +3081,7 @@ With the introduction of the Order of Hermes and Parma Magica, the wizards could
 
 As the Order grew, so did Ingasia. It remained neutral in the many mundane wars that scarred Thebes, and in the various strifes that rocked the Order. Manufacturing and selling enchanted items to both sides of any conflict, Ingasia avoided favoring one faction over another. The fall of Constantinople has complicated the situation, however. Lemnos was awarded to Venice as one of the spoils of the crusade, and has been under her control since 1204. The Venetians naturally wanted to claim the whole island and all of its products, including the valuable Lemnia Sphragis (Lemnian Earth) — reddish earth mined near the city of Hephaestia and used as an astringent for hemorrhages and snakebites. The seizure of this profitable resource has diminished Ingasia's finances, forcing the magi to raise their prices on sold enchanted items.
 
-## *Setting and Physical Description*
+## Setting and Physical Description
 
 Lemnos is shaped like an upside down "U," with a deep natural bay on the southern side of the island. Most of the island is
 
@@ -3102,7 +3102,7 @@ Mosychlos is cantankerous and ornery. His grumbling can shake the ground, someti
 
 tunnels, and in his ire he can send molten lava flooding into the tunnels nearest the volcano's core. Through the oath of his formal binding, he has promised to minimize these occurrences, but they still happen periodically. The magi have reacted by creating several enchanted devices that will prevent the magma flow and shore up the tunnels. As long as the devices are in place, there is nothing to fear from Mosychlos.
 
-## *Culture and Traditions*
+## Culture and Traditions
 
 Ingasia's schedule is as regular as a weaver's guild house. Forge-companions and magi work during the day, Stouritus and his autocrat plan the future, and vendatores broker the sale of enchanted items. Redcaps visit regularly, keeping Stouritus informed of the needs of the magi of the Tribunal, distant news from Verdi, and gossip and tales of the other Verditius magi of the Tribunal. Stouritus oversees all of the covenant's interior and exterior concerns, leaving the magi to work in their laboratories and forges.
 
@@ -3110,7 +3110,7 @@ With his recent ascension to primus, Stouritus has building plans for Ingasia. D
 
 Stouritus has recently announced that Ingasia will welcome new members of House Verditius. He is trying to show the Tribunal and the Order that Ingasia is welcoming, wellrun, and magnanimous. At the same time, he hopes to show how conservative, close-minded, and rife with internal conflict Verdi is.
 
-## *Magi*
+## Magi
 
 Ingasia has six members, all of House Verditius. Stouritus is the eldest, followed by Theorus the Old, Hydatius, Eudoxia, and Bobila and Gemma.
 
@@ -3118,7 +3118,7 @@ Ingasia has six members, all of House Verditius. Stouritus is the eldest, follow
 
 **Age:** 178 (Apparent Age: 93) **Personality Traits:** Driven +3, Humble +2, Hubris +1
 
-#### *The Theban Tribunal*
+#### The Theban Tribunal
 
 Stouritus is a rare magus among House Verditius; he is humble. Long suspecting that he would one day be primus, he avoided the majority of the House's Inner Mysteries that would foster his pride, and concentrated on the House's history, members, and legal rulings. To his mind, House Verditius is the one House that can withstand the tests of time; no matter how old a magus grows, he will eventually cease to exist, while the enchanted items of House Verditius can be eternal. He has focused on making Ingasia a shining example of a model House Verditius covenant, and has succeeded.
 
@@ -3142,7 +3142,7 @@ Gemma and Bobila are conjoined twins, attached at the spine so that the sisters 
 
 Unknown to Stouritus, Gemma and Boblia are selling more enchanted items then they legally should. To make matters worse, they are favoring the Byzantines of the Nicaean Empire, the sworn enemies of the Venetians. As Stouritus is occupied with his building plans, they have escaped their parens' detection. This has bolstered the covenant's finances, meaning better food and better materials. But the sisters are crafty, slowly increasing Ingasia's wealth to avoid notice. Their long-term plans have yet to be revealed.
 
-## *Covenfolk*
+## Covenfolk
 
 Few of the forge-companions and covenfolk are island natives. Most are *karkinoi*, descendents of a tribe of creatures found by Hephaistos when the god first fell to the island. Karkinoi are amphibious, born and raised in the water before walking on land, and have pinchers instead of hands.
 
@@ -3153,20 +3153,20 @@ A dozen covenfolk live at Ingasia, serving as maids, cooks, and servants for the
 
 a private residence, and is responsible for the covenant's accounting of both money and vis. Because vis is necessary for the magi's many enchanted items, Ingasia keeps a large store of it on hand, an anomaly in the Thebes Tribunal. Theodorus has noted that Gemma and Boblia are generating increased revenues lately, but because the money will pay for Stouritus' proposed building plans, he has not said anything about it.
 
-# *Polyaigos*
+# Polyaigos
 
 A robust Autumn covenant, Polyaigos has dedicated itself to the protection and defense of the Theban Tribunal and its magi. Correspondingly its members, the undisputed masters of their
 
 
 island home on the Aegean Sea, possess a considerable degree of martial and magical prowess. Rather than posing a threat to the Tribunal's other covenants, however, they are widely appreciated and respected for their tireless service. Whenever magi are threatened by war, conflicts, or renegade magi and hedge wizards, magi from Polyaigos are first to stand up in defense of the Order. Due to this positive reputation, their famed apprentice school, and their closeness to the Tribunal gathering site of Delos, Polyaigos tends to receive many visitors.
 
-## *History*
+## History
 
 During the 11th century, the small Cycladic island of Polyaigos became infested with a nest of stringles witches (see Chapter 12: Infernal Landscape). These tainted crowwomen plagued the Cyclades, including Delos. When it was discovered that a renegade Flambeau magus was hiding in their midst, aiding their depravities, the People's Assembly of the Tribunal called for action. The hoplite Quaesitor Laskaris battled his way onto the island, whereupon he encountered a native drakos (see Chapter 10: Faerie Landscape), Varazes; he hastily negotiated an alliance with the faerie giant against their common enemy. Laskaris engaged the renegade in a magic duel and managed to protect Varazes so that the giant was able to bludgeon the Flambeau to death. After having killed or evicted the witches and cleansed the site, he decided to found a covenant on the spot, which he named after the island. Resolving that the Tribunal must respond more forcefully and swiftly against such enemies in the future, Laskaris pledged his covenant to this purpose.
 
 Since then, the magi of Polyaigos have notched up several successes against various enemies of the Tribunal, earning the respect and trust of most — but not all — of the Theban magi. In the course of gradually building up their own strength, which is by now considerable, they have made a point of collaborating with nearby covenants instead of antagonizing them.
 
-## *Setting and Physical Description*
+## Setting and Physical Description
 
 Polyaigos is a small island on the western edge of the Cyclades, four miles by three miles across. It is rocky and mostly barren, with two thousand-foot-high peaks. The higher peak is the focal point of the covenant, atop which the magi have constructed
 
@@ -3182,7 +3182,7 @@ Apart from the covenant and its patron, there are no other settlements on the is
 
 Polyaigos is unusual in that it has a Faerie patron, yet the covenant itself is strongly associated with Magic. Indeed, it has a Magic aura, with few, if any, of its magi showing a deep interest in the fay. Varazes is a huge drakos — a faerie giant possessed of immense bravery and strength — who considers himself the island's protector. While he is a formidable ally, his stupidity and clumsiness sometimes make him a bit of a liability to the covenant, which he visits when bored and lonely. He tends to become hopelessly infatuated with any attractive female visitors, which is always an awkward situation requiring some delicate diplomacy to resolve peacefully. The magi some time ago promised to find Varazes a suitable wife, but seem to have thus far made little progress towards this goal. If offended, he may take the form of a huge serpent, although his blocky human-like head doesn't change shape.
 
-## *Culture and Traditions*
+## Culture and Traditions
 
 Magi of Polyaigos, several of whom are hoplites, are often called upon when a battle is expected. The covenant is thus run with military precision and discipline; its leader, elected from the council of magi, assumes the role and title of general. The covenant is wellknown for the two large schools that it operates. One of these is a military school where grogs are constantly drilled; its reputation is such that several other covenants send their soldiers and captains here for training. The other school teaches classical Greek, Latin, philosophy, and the liberal arts. Its principal function is to educate Gifted children who are waiting to be assigned a master in the Tribunal's apprentice auction. Many such apprentices-in-waiting are sent to Polyaigos; during the seven-year period between Tribunals, the dormitory set aside for Gifted children gradually fills up, housing up to a dozen such children and adolescents. A small number of un-Gifted persons are also schooled here; They are destined to serve this or another covenant as autocrats, stewards, or scribes. The covenant only receives a small stipend of vis from the Tribunal for these services.
 
@@ -3190,7 +3190,7 @@ Maintaining these famed schools, in addition to the sancta of the magi, is an ex
 
 Relations with the outside world are currently in a state of flux. Since the Fourth Crusade, the Cyclades have nominally fallen under the dominion of the Venetian duke of Naxos. He has heard rumors of the wealth of the school of Polyaigos and is envious.
 
-## *Magi*
+## Magi
 
 Given the predetermined number of sancta, the membership of the covenant tends to stay at eight. Houses Flambeau and Guernicus each have more than one magus here, and Polyaigos unsurprisingly tends to attract magi with a predilection for either fighting or teaching.
 
@@ -3227,14 +3227,14 @@ Purchased as a castrated slave, Ioannes was educated and originally destined to 
 
 Caterina, a Venetian maga apprenticed in the Roman Tribunal, has recently arrived in the Theban Tribunal — a marked contrast to many in her House who have migrated in the opposite direction. Her apparent link to Venice, which was largely responsible for the Fourth Crusade attack on Constantinople, causes other Jerbiton magi here to regard her with considerable mistrust. At Polyaigos, Caterina has been assigned the job of overseeing and expanding the covenant's mining and trade enterprises, for which she has a typical Venetian talent. Also, she has met with the Duke of Naxos under her guise of a wealthy noblewoman, and has begun laying the groundwork for a discreet arrangement. Until recently she had resisted taking a Longevity Ritual, like many in her House, but her fading vigor has forced her to accept the need for one. She is hoping that the Tribunal may sponsor her; to that end, she is busy trying to build up a positive reputation and gather tokens.
 
-## *Covenfolk*
+## Covenfolk
 
 Polyaigos has a large number of covenfolk, and a formidable turb that is exceptionally well trained and outfitted, and renowned for their strength and fitness. Three or four of the soldiers are huge, undoubtedly also having drakos blood. A crew also serves aboard the covenant's warship, which is stationed at the island's small harbor. Given the martial and scholarly bent of the covenant and its servants, the covenfolk are predominantly male. Several have wives and families on Melos.
 
 
-## *Chapter Seven*
+## Chapter Seven
 
-# *Constantinople*
+# Constantinople
 
 Forever Roman at heart, Constantinople is a city of forums and colonnades, public baths, palaces, churches, and monasteries. She has a hippodrome, an aqueduct, a senate house, and a slave-market. Like Rome, the city is built around seven hills, occupying a triangular piece of land bordered by the Golden Horn, an inlet of the Bosporus Strait and the Sea of Marmara. Originally called Byzantium, the city was rebuilt in 330, and Constantine the Great christened it Nova Roma Constantinopolitana, "New Rome, the City of Constantine," the capitol of his renovated Roman Empire. Constantine extended the city's walls and commissioned many of the buildings and monuments that still stand as important features in daily Constantinople life. Successive emperors added to the urban landscape, often building monasteries and churches, but none matched the building programs of Justinian (527-65), who refurbished the major churches, palaces, government buildings, and public works. In her heyday, Constantinople shone like a jewel, with clean streets, orderly forums, running water, and gleaming defensive walls.
 
@@ -3242,7 +3242,7 @@ While once the brightest metropolis of Mythic Europe, in the 13th century Consta
 
 The current Latin emperors are more concerned with plundering the city than rebuilding it. Most of the prized artifacts and relics have already left Constantinople, shipped to the crusaders' homelands soon after the city fell. Others were lost in the fires that accompanied the various attacks,
 
-## *Constantinople's Auras*
+## Constantinople's Auras
 
 Constantinople is a multilayered patchwork of Divine, Infernal, Faerie, and Magic auras that have fluctuated and changed many times over the years. The city originally had mostly Faerie auras, spawned from the worship of the Greek gods. Constantine's efforts created many Divine auras, which suppressed and sometimes destroyed the prevailing Faerie auras, but not always. While Constantine built monuments and buildings dedicated to his new Christian God, he still allowed worship of the pagan gods. This practice was eventually outlawed in 391. Many temples were destroyed, but an equal number were appropriated for other uses. The Temple of Aphrodite near the Baths of Zeuxippus, for example, was converted into a royal stable in the late fourth century and still stands in 1220. Areas with powerful Faerie auras survived the impingement of the more numerous Divine auras.
 
@@ -3255,7 +3255,7 @@ All of the auras are influenced by the calendar, increasing and decreasing in st
 
 a black scar that has yet to be repaired and almost half of the buildings of the city still lie in charred ruins. While it may have housed nearly half a million people in Justinian's day, its current population is not even 200,000.
 
-## *Approaching the City*
+## Approaching the City
 
 Most visitors reach Constantinople by sea, and the city has many harbors lining both the north and south sea walls. The largest is the Harbor of Theodosius, half away along the southern wall. This port is busy with commercial ships from all corners of Mythic Europe, and is the likely entering point for characters coming to Constantinople by ship. The imperial navy, diminished and commandeered by the Latins, is anchored in the Kontoskalion. The Harbor of Julian is just south of the imperial palaces, and was once used exclusively by the aristocracy and the emperor's family. The two busiest ports on the northern sea wall are the Neorion and the Prosphorion, both awarded to the Venetians and reserved for their military and commercial ships. Every port is defended by outer fortifications and towers.
 
@@ -3274,11 +3274,11 @@ the otherwise unfortified city. The harbor at Hebdomon has long been a favorite 
 
 A second important outcropping of the city is Galata, a fortified community across the Golden Horn from Constantinople. For centuries it has served as one of the primary defenses of the city. The Castle of Galata was the terminus for a great chain that could be raised across the Golden Horn, protecting the city's northern harbors. This castle was stormed by crusaders in June 1203 and the great chain was broken — a foreshadowing of the fate of Constantinople. Galata served as the home to the crusaders until April 1204, when the victorious Latins left Galata for richer houses inside the city.
 
-## *The Walls*
+## The Walls
 
 Whether by land or by sea, every journey into Constantinople begins at the city's walls. The city has always been surrounded by walls, which have been torn down and extended three times. The current land walls, called the Walls of Theodosius, run from the Golden Horn to the Sea of Marmara. Fortified with nearly a hundred towers and over twenty gates, these walls have never been breached. Composed of two parallel walls, the Walls of Theodosius runs behind a de-
 
-## *Belisarius and Porphyrio*
+## Belisarius and Porphyrio
 
 Belisarius is perhaps the most famous general of the Byzantine Empire, noted for his success on both Western and Eastern fronts, and in the city itself. One of his most retold exploits is the battle with the gigantic whale "Porphyrio." The whale had been plaguing Constantinople for months, destroying ships at harbor and along the strait, and effectively crippling Constantinople's maritime trade. Taking a single galley armed with a hundred sailors, Belisarius fought the beast for a day. At sunset, bristling with spears and scourged by Greek fire, the whale submerged and Belisarius claimed victory. Porphyrio was not seen for generations.
 
@@ -3298,7 +3298,7 @@ north along the wall, which leads to the Palace of Blachernae. Called the Golden
 
 Entering the city is not difficult. Visitors and traders are allowed through the gates during the day, and enough secret passages exist to allow a small group to slip inside the city at night. The magi of Moero's Garden know of a secret passage near the Gate of Pege that grants access underneath the Walls of Theodosius. The covenant regularly sends search parties into the city to seek out lost artifacts and missing relics.
 
-## *Inside Constantinople*
+## Inside Constantinople
 
 Behind her walls and amid her inhabitants, the city unfolds like a flower, unfortunately tainted with deprivation and rot. Most of Constantinople is open to anyone brave enough to face whatever dangers wait. Several areas are hazardous during the day, and all but the most secured buildings are deadly at night. The palaces are guarded constantly and admittance
 
@@ -3311,13 +3311,13 @@ Constantinople remains the most important city in Mythic Europe for the selling 
 
 Guilds follow the civic divisions of the past, selling and living in specific areas. The candle makers, goldsmiths, silversmiths, and perfumers still sell near the portico of the Haghia Sophia, in the imperial section of the city. Meat sellers and fish mongers have their shops in the Forum Tauri, and the Forum Amasturanum houses the cattle and horse sellers. The celebrated Forum of Constantine houses the slave markets and brothels. Anything is for sale if the price is right.
 
-## *The Forums*
+## The Forums
 
 Forums are open-air public plazas used for markets, meetings, religious and imperial ceremonies, and general gatherings of people. All are noteworthy, and decorated with columns and monuments. The most renowned is the Forum of Constantine, resting on the summit of the Second Hill. The column originally held a statue of the Emperor Constantine, but it was replaced with a cross in the early 12th century when the original statue was destroyed by a storm. Surrounded by colonnades and porticos, the forum leads to the main entrance point of the imperial section of the city. It is one of the major markets in the city, with buyers visiting sellers' stalls every day of the week.
 
 The Forum of Theodosius sits near the center of the city. Also called the Forum of
 
-## *The Medusas' Tears*
+## The Medusas' Tears
 
 The Basilica Cistern's ceiling is supported by 336 columns. Two columns in the northwest corner are mounted on stone pedestals in the shape of medusa heads, one upside down and the other on its side. These heads, imported from afar in the days of Justinian, can produce vis. If the water level has remained above their heads for the entire year, on the summer solstice the moss that gathers around their eyes can be scraped off for 8 pawns of Imaginem vis.
 
@@ -3330,11 +3330,11 @@ The column's prophesies can be viewed by everyone, but understood by only a few.
 
 The column may also be studied by those with Premonitions, acting as a Source Quality of 6. The column is made up of six marble porphyry drums separated by iron bands, meaning that a character can study the column six times before its lore is exhausted. This is a busy area of the city, and studying the column will be fraught with distractions. While the two lower drums can be studied from the ground, the character will need a ladder or other means to study the higher parts of the column. The interior staircase is windowless, and will not assist in viewing the carvings.
 
-## *Waterworks*
+## Waterworks
 
 In its prime, Constantinople provided running water for its inhabitants and working lavatories that flushed waste into the harbors. This urban management was accomplished by the Valens Aqueduct and a system of large cisterns to hold accumulated water. Despite not being repaired for over fifty years, the Valens Aqueduct still provides water to the city. The cisterns are located at the summits of the Fifth, Sixth, and Seventh Hills. They are huge open-air basins surrounded by rows of columns. The Basilica Cistern is a vast underground reservoir located beneath the First Hill, supplying the imperial section of the city with water. It is part of a labyrinth of underground tunnels and chambers that connects the cistern to the Great Palace complex, as well as to other underground rooms throughout the city.
 
-## *The Venetian Quarter*
+## The Venetian Quarter
 
 Housing the governmental representatives and citizens of the Republic of Venice, the Venetian Quarter is separated from the rest of the city by a wall constructed
 
@@ -3347,7 +3347,7 @@ Inside the quarter's walls, life is grimmer for the Venetian citizens than for
 
 the officials. Much of the quarter still lies in ashy ruins, where armed gangs and vicious bandits make their homes. With access to ports on the Golden Horn, the Venetian Quarter is popular with smugglers, who find access to the city easier here than at other patrolled ports.
 
-## *Hippodrome*
+## Hippodrome
 
 The heart of Constantinople, the Hippodrome is 1,600 feet long and 400 feet wide. Originally used for chariot races and other entertainment, it has two long sides, a curved southern side, and a straight northern side connected to the Great Palace and reserved for the imperial family. In its heyday it could seat 80,000 spectators.
 
@@ -3355,7 +3355,7 @@ Statues once lined the arcade atop both long walls, but many have been destroyed
 
 A long stone pier runs through the center, called the spina, which the chariots used to race around. It is also adorned with monuments, many of which have been destroyed, but two prominent statues remain.
 
-## *The Ghosts of the Hippodrome*
+## The Ghosts of the Hippodrome
 
 The Nika Riots, one of the most violent events of the city's past, produced ghosts that return once a year to haunt the city. The Nika Riots started when two factions of supporters of the chariot races — the Greens and the Blues rose up in revolt and terrorized the city. The emperor Justinian tricked them into gathering in the Hippodrome, where his general Belisarius attacked them with imperial troops, killing 30,000 rioters. On the anniversary of this slaughter, January 14th, hundreds of Infernal ghosts rise from the ground at night and swarm the Hippodrome, wailing their revolutionary cry, "Nika!" (Victory). In the past, they could not escape the Hippodrome, as they were trapped by the more powerful Dominion auras of the city. But since the city's Dominion auras have lessened in might, the ghosts are free to roam the Great Palace and city.
 
@@ -3374,7 +3374,7 @@ A second power of the statue is to keep the city free from snakes — an ancient
 The column's Faerie aura is due to its resident, a Might 10 faerie calling himself "Belisarius," who lives in a regio above the column. Entrance to the regio is fairly simple — a character merely has to hold a Roman-style sword in his hand and walk counterclockwise around the column. The regio has a Faerie aura of 4 and is the size of the Hippodrome, depicting the ancient structure in all its past glory. Belisarius, an incognizant faerie, leads a small community of urban faeries. The group continually react the Nika Riots, staging the final conflict between the rioters and Belisarius and his imperial guardsmen. Belisarius views this as an allegory against change, and his display shows the superiority of rightful rule and tradition. Though incognizant, Belisarius knows that he needs human participants for his show, and he will send his faerie minions out into the city to lure viewers inside the regio.
 
 
-## *The Automata of the Hippodrome*
+## The Automata of the Hippodrome
 
 At one time almost one third of the many statues in the Hippodrome were automata crafted by Ollaferus of House Verditius, a second generation magus who refined and perfected the inner Mystery of Automata for Verditius the founder. The automata had limited movement, as they were each designed to enact a specific scene from Byzantine and Roman history and legend. Like many of the non-magical statues, most of the automata of Ollaferus have been destroyed, melted down, or carted off.
 
@@ -3386,7 +3386,7 @@ Julian the Apostate desired to suppress Christianity by promoting the pagan gods
 
 These engravings can be read, providing a cryptic clue to the future. A character may divine the future with an Intelligence + Magic Lore + stress die roll against an Ease Factor of 15. The results are handled as Hermetic Divination, described in *The Mysteries Revised Edition*, pages 59–62. As this is a pre-Hermetic artifact, visions of the future may break the Hermetic Lesser Limit of Time. Finding the other two missing thirds of the obelisk reduces the Ease Factor by 3 for each found piece, so a complete obelisk lowers it to 9. Few clues exist as to where these remaining two pieces are.
 
-## *The Baths of Zeuxippus*
+## The Baths of Zeuxippus
 
 Built over a former temple of Zeus, the Baths of Zeuxippus is a large bathhouse, which is adorned with over eighty statues of famous Greeks, Romans, and pagan gods. Originally open to the public, admittance to the bathhouse has been restricted since the Nika Revolt of 532. Parts of the complex only allow nobles, while other sections have been quartered off for military use, and a prison occupies one of the former bathing rooms. The complex is large enough to separate patrons from prisoners.
 
@@ -3394,7 +3394,7 @@ The baths were a popular meeting spot for many of the Jerbiton magi who once liv
 
 
 
-## *The Churches*
+## The Churches
 
 Constantinople has over 200 churches, which is more than it needs to provide religious services for its occupants. Many were built by previous emperors as patriarchal endowments to show their generosity, coupled with architectural grandeur to match their pride. Most are smaller churches, built to serve a particular neighborhood. Few churches have any relics, as these were the most sought-after prize, after gold, of the crusaders. Smaller churches may have escaped notice, though.
 
@@ -3406,7 +3406,7 @@ Before the city fell, the Great Church was brimming with relics, gold statuary, 
 
 Despite the changes, many imperial ceremonies still happen in the Great Church, barely changed from the Greek tradition. Emperors, for example, are still crowned here. The high altar has been rebuilt; it is a shadow of its former glory, but it acts as the center point for a Dominion aura of 5. The aisles and exterior porticos have a Dominion aura of 2. The nave has an Infernal aura of 7, a result of the massacre of over 1,000 innocents perpetrated by the Latin crusaders. With the removal of the majority of the relics that used to be stored here, and the subsequent lessening of the Dominion aura's might, the present Dominion aura is not strong enough to weaken the lingering Infernal aura.
 
-#### *The Theban Tribunal*
+#### The Theban Tribunal
 
 Those relics that remain were impossible to move, and so still serve their original purpose. One of the columns that supports the dome — the Column of St. Gregory the Thaumaturge — can still heal the wounded, providing a +6 bonus to Recovery Rolls and decreasing the healing time of a wound by one level. A Heavy Wound heals in the time normally necessary for a Medium Wound, for example, and a Light Wound is healed in a day. A tube is anchored to one of the nine doors that lead from the narthex to the nave. If a sick person puts the tube in his mouth, his disease is sucked from his body.
 
@@ -3424,13 +3424,13 @@ Among the relics stolen were two pieces of the True Cross, the iron head of the 
 
 Built in the form of a Greek cross capped by five domes, the Church of the Holy Apostles was the busiest church in Constantinople, offering religious services for many of the population. It was the final resting place of emperors and patriarchs up until 1028, with Constantine VIII being the last emperor in-
 
-## *The Architects of Haghia Sophia*
+## The Architects of Haghia Sophia
 
 Justinian commissioned the best architects of the day to rebuild the Great Church — Isidore of Miletus and the mathematician Authemius of Tralles. They requisitioned building material from across the empire, including columns from the Temple of Artemis in Ephesus. As materials arrived, the pair quarreled over the design, with Isidore wishing to add complexities based on the theories of Heron of Alexandria. He succeeded in his wish because his partner, Authemius, died within the year. While attributed to natural causes, rumors circulated that Authemius' death might have been premature.
 
 The magi of the Thebes Tribunal, especially Catella from the Mercere covenant of Alexandria, would love to investigate the Great Church and search for insights derived from Heron's theories. Such insights exist, but it would take a season to uncover and require daily investigation of the architecture. Catella is willing to fund any magus who has an idea how to do this, paying for his time and investigation notes with vis and gold.
 
-## *Story Seed: Seeking the Julian Library*
+## Story Seed: Seeking the Julian Library
 
 Built near the end of the fourth century by Julian the Apostate, this library was claimed to hold over 600,000 texts. A pagan and trained scholar, Julian stocked his library with his own personal collection, as well as copies of every academic and literary text his scholars could find. Among the volumes were several curiosities, many magical, with the most famous being the 37-yard-long guts of a dragon, upon which the Iliad and the Odyssey were written in
 
@@ -3453,7 +3453,7 @@ Founded by the Roman patrician Studius in 463, the Church of St. John the Baptis
 
 The Church of St. John the Baptist escaped the worst looting in 1204, and retains a Divine aura of 5. Perhaps this was because the church collected more books than relics. The Studion still operates, seemingly impervious to the Latins' rule, and holds the largest collection of ecclesiastical and secular books of both the Latin and Byzantine Empires.
 
-## *The Imperial Palaces*
+## The Imperial Palaces
 
 Two imperial palaces exist. The larger, the Great Palace, lies to the southeast, overlooking the Sea of Marmara. The smaller, more recent Palace of Blachernae sits in the northwest corner of the city, near the sea walls of the Golden Horn. Both are sprawling complexes of stone buildings, fortified against attackers and housing riches and treasures beyond comprehension.
 
@@ -3470,7 +3470,7 @@ Resting on the slopes of the First Hill and overlooking the harbors on the Sea o
 
 An imperial palace of remarkable size, whose name means "fresh breeze" in Greek, the Palace of Magnaura contains a throne room among its many rooms and suites. Used as an audience chamber to greet distinguished guests, the throne room holds a golden throne that can levitate to the ceiling upon command. Two gilded lion statues sit before the throne, which can open their
 
-## *Story Seed: The Curse of Pride*
+## Story Seed: The Curse of Pride
 
 The automata inside the Palace of Magnaura were constructed in the early 10th century by Aella of House Verditius. Born in Crete, Aella worked more closely with Byzantine imperials than many thought she should, and was accused several times of being a court wizard working for the emperor. She was never convicted, due in great part to her husband, Vaanes of House Guernicus, and his legal help. She was ostracized twice, but returned both times insistent on maintaining her enchanted creations.
 
@@ -3492,18 +3492,18 @@ An important aspect of imperial life in pre-fall Constantinople was the notion o
 
 Porphyrogennetos princesses may not marry outside the Byzantine Empire, even for diplomatic advantage, though this tradition has been flouted on occasion with disastrous results. Being porphyrogennetos gives a character a claim to the imperial throne, a good education, and the support of the people. The Empress Zoe was crowned despite male contenders because her birth in the room was deemed to give her the best claim. But for this reason many porphyrogennetos children have been blinded when their parents lose power, or been forcibly placed in convents and monasteries. With the recent rapid succession of rulers, a number of individuals from imperial families can claim this highest rank. While observed by the new Latin emperors, like many Greek traditions, they are not slavish about the Porphyry Chamber and the room is no longer constantly guarded.
 
-## *Michael's Tabula*
+## Michael's Tabula
 
 The newest of the two covenants located within the city of Constantinople, Michael's Tabula is a tightly knit group of magi, mostly of House Jerbiton, who survived the sack of the
 
 
 city in 1204 and who pledged to stay. These pious magi fervently oppose the presence of the crusaders; although their covenant is publicly dedicated to restoring Constantinople to its former glory, their unofficial aim is to ultimately repulse the invaders from their city, a goal in which they are receiving covert assistance from several magi and covenants sympathetic to their cause.
 
-## *History*
+## History
 
 Michael was a famed magus of Thermakopolis (see Chapter 12: Infernal Landscape) and the leader of the Jerbiton magi that ultimately failed in their effort to defend Constantinople. During that covenant's destruction, he was the last to die, heroically, in its defense. On his death bed, he, his surviving apprentice Petros, Wilrich of House Flambeau, and three other Jerbiton magi (two from Moero's Garden and one an urban eremite) pledged their lives to the city's defense and swore never to abandon it to the invaders. The oath of these magi was recorded on a tablet of stone, after which this new covenant was named. The surviving magi retreated into the city's catacombs — some bitter and thirsting for revenge, others praying devoutly for deliverance — where they established new sancta and hid away their remaining magical resources. Michael's Tabula was formally founded in 1207, at the first Tribunal after the fall of Constantinople in 1204.
 
-## *Porphyrogenitos*
+## Porphyrogenitos
 
 In Mythic Europe, a character born in the Porphyry Chamber is granted a supernatural power at birth, reflected in a Minor Supernatural Virtue that does not count against her normal allotment of Virtues and Flaws. Because of the mercurial realm auras of Constantinople, the gained Virtue is not always Divine, as one would assume. If a character is born in the chamber, the storyguide should roll a simple die and consult the following:
 
@@ -3520,7 +3520,7 @@ In Mythic Europe, a character born in the Porphyry Chamber is granted a supernat
 
 The player can pick any Supernatural Virtue that suits the realm indicated, with the troupe's approval. Other characters will assume that the child is born with God's blessing, as the emperors like to say, and think that the supernatural power is Divine. The Virtue's true realm alignment may remain a mystery, even to the owner, which is an insidious aspect of Infernal and Faerie Virtues.
 
-## *Setting and Physical Description*
+## Setting and Physical Description
 
 The covenant is centered around an abandoned mithraeum (a worship site associated with the Mithraic Mysteries) beneath a ruined district in Constantinople, which has a Magic aura of 3. The magi have converted the mithraeum into a rudimentary council chamber, and have ceremonially placed Michael's Tabula (the stone tablet) atop the former altar. They have established underground laboratories, some of which are shared, in nearby chambers. New stone walls, erected with the aid of their patron, bar all entrances to the covenant; they can only be navigated by magi in possession of magical keys. Only trusted allies are admitted to the underground site. Other visitors may be received in one of the various city residences where the magi discreetly live.
 
@@ -3530,13 +3530,13 @@ The covenant is centered around an abandoned mithraeum (a worship site associate
 
 Retreating into Constantinople's catacombs in 1204, the founding magi discovered a mysterious entity who protected and assisted them against the marauding crusaders — a powerful humanoid figure made of rock, rising out of the ground. The magi of the covenant named it Fylakas ("guard") and took it as their patron spirit, but have not yet managed to communicate with it at length. As a result, they know relatively little about it. The spirit possesses power over the earth; as well as controlling the gateways to the catacombs, it can cause violent earth tremors and thereby damage or collapse city buildings. There are several possibilities as to Fylakas' true nature, the most likely being that it is an ancient earth elemental. Another possibility is that it is a demon, released from its binding during the sack of the city. If this is the case, then it is likely duping the pious magi. However, it is also conceivable that one or more of them, despite their piety, may not be above soliciting demonic aid, if it would rid the city of the Franks.
 
-## *Culture and Traditions*
+## Culture and Traditions
 
 Michael's Tabula retains the largely disorganized but fanatical feel of an underground resistance movement. Council meetings are often heated and chaotic, but the magi ultimately pull together around their common cause. However, opinions differ as to how cautious or bold they should be in acting against their city's Frankish rulers. There are some in the Tribunal, including the Quaesitores, who tend to view the covenant and their possible meddling with suspicion, but this is outweighed by a greater number who hold sympathy for their cause.
 
 The magi have so far managed to discover a few sources of vis in the catacombs and have begun assembling a library, some of which are old tomes rescued from Thermakopolis. Every year or two, a Redcap arrives with a generous donation of money and books, but this mysterious sponsor chooses to remain anonymous. Some of the magi may be in possession of knowledge or relics relating to the legacy of Heron of Alexandria; see *Ancient Magic*, page 87.
 
-## *Magi*
+## Magi
 
 There are about a half dozen magi, mostly from House Jerbiton, many of whom have lived in Constantinople since before the Fourth Crusade. They are all devout Christians.
 
@@ -3555,7 +3555,7 @@ Born and raised in Saxony in the Holy Roman Empire, Wilrich is one of a handful 
 
 Wilrich joined the Fourth Crusade as a knight under the retinue of the bishop of Halberstadt. To satisfy the protestations of the Quaesitores, he forswore the use of any of his magics for the duration of the crusade. As the voyage progressed, however, he became increasingly disillusioned with the righteousness of their cause. Ultimately, in the chaos of the fall of Constantinople, he abandoned the attack and instead acted to protect the innocent, battling demons. He found himself fighting alongside the dying magi of Thermakopolis, and saved Petros. A truly formidable swordsman, Wilrich is the most martial of the magi and the most active in its military plans.
 
-## *Covenfolk*
+## Covenfolk
 
 The covenant currently lacks the resources to employ or house many covenfolk. Nevertheless, the magi have recruited a varied as-
 
@@ -3568,14 +3568,14 @@ The icon is currently located in a small shrine in an alcove of the cistern, in 
 
 sortment of miscreants, spies, and mercenaries to serve them part-time. These persons lead a double life, so that the covenant, as an organization, remains largely hidden from view.
 
-## *Xylinites*
+## Xylinites
 
 Until 1204 the site of a major House Jerbiton covenant, this Constantinople monastery and orphanage is today home to a House Criamon Clutch. The covenant patron is St. Loukia of Berytus, a
 
 
 magical spirit trapped within a false icon.
 
-## *History*
+## History
 
 Xylinites is a long-established covenant, which was almost destroyed in the capture of the city in 1205, and is now fading into winter with new inhabitants. The covenant exists within the walled monastery of St. Christopoulos, inside the walls of the city of Constantinople but in an area largely given over to pasture and orchards.
 
@@ -3601,7 +3601,7 @@ At the east end of the grounds stands a building containing the guest quarters, 
 
 The cistern, which is still flooded, holds six excellent laboratories cut into the walls and approachable only by small boats moored by the entrances to the steps. Tunnels branch off from it, carrying water to other parts of the city through a maze of flooded passages that could be explored by boat. The covenant uses them to discretely slip out to attend to business throughout the city.
 
-## *Culture and Traditions*
+## Culture and Traditions
 
 For most of the covenant's history this was a Jerbiton covenant. It tread a fine line between interfering with mundanes by providing a valuable service to the imperial court and leading families, and fostering political influence in a very literal sense. The academic and aesthetic interests of the schoolmasters reflected the elaborate customs and protocols of the imperial court. These practices ended with the refugees' departure, along with the flight of many of the key officials of the old orphanage.
 
@@ -3609,7 +3609,7 @@ The current Criamon Clutch has a precarious existence, living alongside devout m
 
 Following the breakdown almost a generation ago of the elaborately regimented and ritualized daily life of the orphanage, the inquisitive nature of the boys has become more of a problem. Many of the boys tell stories of the haunted storehouses in the cistern and the mad hermits who dwell therein, and a few of the braver souls have broken curfew to explore the subterranean vaults.
 
-## *Magi*
+## Magi
 
 Xylinites currently has three magi of House Criamon on the Path of the Body, forming the Tribunal's only dedicated Clutch.
 
@@ -3638,26 +3638,26 @@ He is official castrator for the orphanage, and because of his known medical ski
 
 Trasaricus is the only member of Xylinites born within the Tribunal; he is a nephew of the former Emperor Alexios IV Angelos, who was deposed and killed in 1204. Castrated in early childhood for being politically dangerous, he is an implacable enemy of the Doukas family. His imperial blood fascinates Artoud, who is unwilling to expel his apprentice, but who realizes that soon the youth must be sent far from Constantinople to prevent disaster.
 
-## *Covenfolk*
+## Covenfolk
 
 A small staff of grogs conducts the mundane business of the covenant. They wear elaborate Byzantine robes denoting their rank and office. Tutors wear grey, orphans blue, and domestic staff black.
 
 Four eunuch priests who are companions of the covenant are particularly important. They reside in the priests' house nearby the master's house, and officiate at eucharist at nunneries throughout the city. Because of this, they have the ear of many former noblewomen, and at least one empress, who have retired to a monastic life.
 
 
-## *Chapter Eight*
+## Chapter Eight
 
-# *Anatolia*
+# Anatolia
 
 Geographically diverse, with a range of climates and terrain, Anatolia is the meeting of East and West. Two long, nearly unbroken mountain chains separate the coastal areas from the interior's heartland — a large plateau that composes most of the area. At the height of the Byzantine Empire, the entire land mass was controlled by the emperor, who partitioned it into several provinces. Since the decline of the Byzantine Empire in the 12th century, several of these provinces have been lost to enemies, most notably the Seljuk Turks. In 1220, the Byzantine Greeks only occupy the coastal areas, both west of the Taurus Mountains and north of the Pontic Mountains.
 
 The Tribunal of Thebes has historically stayed in lands governed by the Byzantines. Preferring the relatively safety of the empire, covenants have favored the Aegean coast, the shores of the Sea of Marmara, and the Black Sea area. Anatolia's interior and parts further east are contested by Turks, Persians, Pechenegs, Cumans, and Georgians. However, conflict can also provide opportunity, and being in proximity to these cultures would allow magi to meet foreign wizards and other forms of magic. Magi have formed covenants in the far-flung reaches of the Tribunal in the past, but none remain in 1220. They have fallen either through lack of interest, mundane invasion, or mysterious causes.
 
-## *Bithynia*
+## Bithynia
 
 Lying in northwestern Anatolia, Bithynia is a land of vast forests and rolling green hills, laced with fertile valleys and river basins. On the coast of the Sea of Marmara, it sits opposite Constantinople and the Thracian coast. A prosperous land, Bithynia is known for its wealth of fruit trees, especially oranges, and grain fields. Home to many old and important cities, Bithynia has been overrun by armies in the last twenty years, and many venerable cities have felt the brunt of these armed forces. Bithynia is the marcher lands between the Latin Empire of Constantinople and the Empire of Nicaea, and most coastal castles have changed hands many times. Peace has reigned for the last six years, since Theodore Lascaris signed a treaty with the Latin Empire, cementing it by marrying Emperor Henry's niece in 1219. Despite this peace, Lascaris is preparing an assault in 1220, and the obvious massing of troops along the border makes many Bithynians anxious.
 
-## *The Empire of Nicaea*
+## The Empire of Nicaea
 
 In 1204, Theodore Laskaris fled to Nicaea after fighting heroically in defense of Constantinople. A large contingent of prominent Byzantines had also fled there, allowing Theodore to establish a court that mirrors the splendor and customs of Constantinople. In 1205, Theodore appointed the new Orthodox Patriarch Michael Autorianus, and the line of patriarchs has continued in Nicaea. Crowned Emperor Theodore II Lascaris in 1208, he is a staunch supporter of the Orthodox Church, though quixotically open to the possibility of ultimate Church union. His court welcomes Latin friars and papal envoys, perhaps a reflection of its highly intellectual and scholastic culture, and theological debates are common here. From the first, Theodore has vowed to retake Constantinople and to continue the empire until that day in Nicaea.
 
@@ -3665,7 +3665,7 @@ Despite initial setbacks, the Empire of Nicaea has fared well. Theodore has the 
 
 In 1220, the latest alliance with the Latins of Constantinople has broken and hostilities have recommenced. The Latin Empire and Nicaea are once again locked in conflict.
 
-## *Nicaea*
+## Nicaea
 
 Always an important city in the Byzantine Empire. The summer home to emperors and the meeting place for several important religious councils, Nicaea is now the capitol of the new Empire of Nicaea. Organized like a grid, Nicaea's straight streets emanate from the city's cathedral, the Church of the Haghia Sophia, in the center of town. The imperial place is to the south, as is the Church of the Koimesis, the personal chapel of the emperor and his family. Massive, thirty-foot-high walls surround the city, studded with over one hundred towers, and three main gates lie in the center of the north, east, and south walls. The west wall abuts the Ascanian Lake, and smaller gates give access to the city's docks.
 
@@ -3673,7 +3673,7 @@ As darkness falls on Constantinople, and Infernal auras overpower Divine ones, N
 
 
 
-## *Demon of Nicaea*
+## Demon of Nicaea
 
 **Order:** Furies
 
@@ -3735,7 +3735,7 @@ During the ministry of St. Andrew the apostle, who preached throughout Scythia a
 
 The seven demons still prowl the highways around the city, although they are forbidden from entering Nicaea itself. They prefer to attack at dusk or soon after, and usually target lone travelers. Some of the city's inhabitants remember the legends of St. Andrew, but most think that corpses found along the road are the result of bandits or mercenary skirmishers from one army or another. The demons are not incredibly active, killing perhaps once every month or so. Large traveling parties won't draw the demons' attention, but solitary journeyers like a Redcap, for example, could fall prey to these Infernal beasts.
 
-## *Nicomedia*
+## Nicomedia
 
 Located on the Gulf of Astacus in the Sea of Marmara, Nicomedia sits sixty miles east of Constantinople. Strong walls surround the town's central citadel, forums, an amphitheater, aqueducts and cisterns, and other trappings of Roman society. Nicomedia is one of the few cities in Asia Minor that hasn't been occupied by the Turks in the last hundred years. It has been occupied by crusaders, however. Soon after the fall of Constantinople, a band of one hundred knights sailed for Nicomedia. The population fled to Nicaea, a day's journey away, and the Latins easily took the city. The knights constructed a fortress around the city's church, and ruled in the city for almost a year before Theodore Lascaris moved to reclaim the city. Fierce fighting outside the city drove the crusaders back to the fortified church, and many knights died or were taken hostage. The defenders called for help, and Emperor Henry arrived with his troops. Henry and Theodore negotiated a truce — the city for the French knight hostages — and Nicomedia has been in Byzantine hands ever since.
 
@@ -3743,7 +3743,7 @@ While earthquakes are not uncommon in Anatolia, Nicomedia has seen more than its
 
 
 
-## *The Prison of Klymene*
+## The Prison of Klymene
 
 While most of the male titans who directly opposed Zeus were bound in Tartarus, those titans who remained neutral in the Titanomachy were bound elsewhere. Many female titans were bound in various locations, and unknown to the Theban magi, the great altar at Pergamos is the lock on the prison that binds the titan Klymene, the Titan-goddess of fame. Unique features of the binding have inadvertently allowed magi to draw on Klymene's power to fuel ritual spells, rather than on vis. However, if they overtax this prerogative, Klymene will be released.
 
@@ -3759,7 +3759,7 @@ on the Hellespont. As a canonical saga begins, he has marshaled his forces and h
 
 courses cautiously.
 
-## *The Troad (Troas)*
+## The Troad (Troas)
 
 A large peninsula in northwestern Anatolia, the Troad offers a mixture of Eastern European and Mediterranean climates. The northern region, along the shore of the Sea of Marmara, experiences cold winters and abundant summer rain, while the western area, along the Aegean Sea, is milder, with long hot summers and inland drought. Seven rivers run from the plateau of Mt. Ida, cutting through gorges to reach the seas. The
 
@@ -3781,7 +3781,7 @@ Near the town of Abydos, west along the coast from Holkos, a small, round hill o
 
 The marble throne is gone, but the hill remains, as does the bound *druj*. Anyone standing on the hill can view the entire Hellespont and surrounding shores as if his vision was magically enhanced (much like the General Minor Virtue Keen Vision). However, the viewer is susceptible to the *druj's* power of Obsession (*Realms of Power: The Infernal*, page 31). The *druj* has an Obsession Trait of Doubt and an Infernal Might of 30. The hill has an Infernal aura of 3.
 
-## *Pergamos*
+## Pergamos
 
 Once terribly important to the Greeks and early Romans, Pergamos has slipped in stature over the centuries. The old acropolis, built as a series of terraces overlooking the Caicus River and the plains below, is a cluster of Greek and Roman ruins. Its relevance to 13th-century Greeks is purely religious; Pergamos was one of the seven churches mentioned St. John's *Book of Revelations*. The Church of St. John the Apostle, built over an older temple dedicated to the Egyptian gods Isis and Serapis, serves the Christian community still living at Pergamos.
 
@@ -3801,7 +3801,7 @@ The altar is shunned by Christians, and St. John refers to it as "the throne of 
 
 This site that allows "free" ritual spells has a drawback. Botched spells are tainted, as if the caster used faerie-tainted vis, and even correctly cast spells can have weird side effects. The locals consider it an evil thing, and have chased off magi in the past, believing them to be demon worshipers. The altar is not used much, because of this and since vis is so readily available in the Tribunal. Lucian and his Children of Olympus league are drawn to the site, however, and consider it important to their overall plan to initiate pacts with the Greek gods.
 
-## *Ilion*
+## Ilion
 
 Ilion, more commonly called Troy or "Ilium" by the Latins, was the great city of King Priam. It was razed by the Greeks at the climax of the Trojan War, around 1184 BC, according to the Greek historian Eratosthenes of Cyrene. Now, nothing stands on the sandy shores, and even the mighty Scamander River has run dry. Not a single stone remains; even the new city founded by the Roman Emperor Augustus has disappeared. The area holds no territorial significance for 13th-century Greeks, Byzantines, or Seljuk Turks. It does fuel political propaganda, though, with the many groups of Westerners claiming that they are descendants of the Trojans, and that the Latin occupation of Constantinople is Trojan vengeance against the Greeks.
 
@@ -3811,7 +3811,7 @@ Without human involvement, the faeries dwell in lazy reenactments. A visiting hu
 
 Every few Tribunals a magus suggests founding a covenant at Ilion and looks
 
-## *Story Seed: In Search of Wilusa*
+## Story Seed: In Search of Wilusa
 
 The covenant of Wilusa at Ilion was quickly and efficiently built, its towers and buildings magically created in a Faerie regio with an aura of 4. This was not the regio that contained the spirit of Scamander, but a trick played on Droserius by a faerie calling himself Odysseus. The faerie has the power to close the regio's boundaries, and promptly did so. Odysseus continually subjects the covenant, now enchanted by him to look like Troy, to the final assault of the Trojan War. The magi respond, reflexively defending their covenant. Manipulating time, the faeries have continued the assault for over one hundred years, but the magi believe only a few months have passed. Odysseus is highly cognizant and
 
@@ -3822,7 +3822,7 @@ Finding this specific regio is difficult. Other faeries lead investigators astra
 
 for supporters. In 1109, the Tribunal acquiesced to Droserius of House Merinita and allowed him and four others to found the covenant Wilusa at Ilion. Droserius claimed that the spirit of the River Scamander existed in one of the regiones, and had vowed to act as the covenant's patron spirit. However, the covenant and its occupants had disappeared by the next Tribunal, and searches for any lingering evidence of them were in vain. Since then, magi at the Tribunal easily resist any suggestion of founding a second covenant.
 
-## *Lydia*
+## Lydia
 
 Lydia is a mountainous region south of the Troad. Its Aegean coastline is a patchwork of cliffs and sandy beach coves, with several bays and natural harbors. The Hermus River — the second-largest river in eastern Asia Minor — runs through the center of Lydia, from the mountains of Anatolia to the coast where it empties into the Bay of Smyrna.
 
@@ -3830,7 +3830,7 @@ Lydia is an ancient region, ruled by various tribes and empires throughout its h
 
 Lydia is home to the **cercopes** — small, blue-green monkeys that live in the forests. According to legend, the cercopes were originally two mischievous brothers who Zeus turned into monkeys after they continually plagued Herakles. The transformed brothers multiplied to produce the species. Cercopes are rare and always found alone. Each is a magical creature, and it is a mystery to the Order how these creatures reproduce. Difficult to find, they are prized familiars for the magi of the Tribunal.
 
-## *Smyrna*
+## Smyrna
 
 Once an important city of Anatolia, competing against Ephesus and Pergamos to be known as the "First City of Asia," Smyrna has declined since Constantine moved the capital of the Roman Empire to Constantinople. Since then it was seized by Turks, reclaimed by Byzantines, and then subjected to near-constant warfare between the two. Recent years have been better for Smyrna, owing to the strength of the Empire of Nicaea. This respite has done little to rebuild the city, even though it has quelled its fears of being conquered. More than half of the city is a broken maze of rubble, dilapidated buildings, and overgrown streets that lead nowhere.
 
@@ -3838,7 +3838,7 @@ Smyrna sits at the eastern end of the Bay of Smyrna, and is the royal port of th
 
 Ten miles south of the city is the Palace of Nymphaeum. Built forty years ago by Andronicus I Comnenus, it is a favorite and the most-used imperial residence of Theodore Lascaris. To reach the Nymphaeum, travelers must walk through the old agora — the oldest and most ruinous section of Smyrna. Lone travelers report being accosted by an old man who calls himself Homer, who doggedly follows the traveler asking how his poems have fared and if the traveler wants to hear a recitation or two. The old man flees if threatened or if larger groups of people approach. Some magi think he is a faerie mimicking the role of Homer, who used to visit Smyrna and enjoy the idyllic banks of the nearby Meles River. A few Jerbiton magi speculate that the old man is the real Homer, transformed into a magic human by becoming a legendary artist (*Art & Academe*, page 129).
 
-## *Hagios Theologos (Ephesus)*
+## Hagios Theologos (Ephesus)
 
 Ephesus' size belies its importance, for while it is not especially large or populated, it is a site famous for several religious events. It hosts one of seven churches mentioned in the Book of Revelations and has its own
 
@@ -3862,7 +3862,7 @@ According to legend, during the Christian persecutions of the Roman Emperor Deci
 
 The cave has a Divine aura of 3 and is a few leagues outside Ephesus. Originally, the cave had a Magic aura and regio. While the Magic aura has been replaced by the Divine aura, the regio still exists — it is difficult to access, but present. It has a Magic aura of 6 and has dilated time (*Covenants*, page 7). The Redcaps of Alexandria speculate that vis could be harvested from the site, but the harvester would have to spend the night, and there is no telling how much time would pass outside the regio.
 
-## *Thrakesion*
+## Thrakesion
 
 The southern-most province of the Empire of Nicaea, the Theme of Thrakesion runs from Lydia to the Maeander River and its fertile river basin. Formerly the Greek provinces of Ionia and Caria, it was once heavily settled with numerous towns and seaports along the Aegean coast. Centuries of war with the Seljuk Turks have centralized the population into walled cities, the most significant being Philadelphia. The Maeander River has been the effective southern border of the Empire of Nicaea since 1211, when Theodore Lascaris defeated Kaykhusraw I of the Sultanate of Rum at Antioch-onthe-Maeander.
 
@@ -3880,7 +3880,7 @@ In addition to its military accolades, Philadelphia contains one of the seven ch
 
 Vineyards are plentiful along the slopes of Mt. Tmolus, and one in particular has been bearing fruit for centuries. Wine pressed from the grapes is especially potent, and women are extremely susceptible to its intoxication. Hermetic investigation has revealed that the vineyard was once used as a festival site for the rites of Dionysus, where satyrs and
 
-## *Story Seed: The Mysterious Savior*
+## Story Seed: The Mysterious Savior
 
 The battle of Antioch-on-the-Maeander is told in both French and Greek chronicles. Both state that the Turks had the upper hand, until Theodore Lascaris met Kaykhusraw on the battlefield. Astride a monstrously-sized horse, the sultan struck down Lascaris, but was slain before he could kill the emperor. French sources say that Lascaris did the killing, but Greek sources mention a mysterious French knight who appeared out of nowhere and slew Kaykhusraw. This event effectively saved the Empire of Nicaea and quelled the Turkish threat for many years.
 
@@ -3898,7 +3898,7 @@ Near the headwaters of the Maeander River, Mt. Sipylus stands 5000 feet tall, vi
 
 The legends vary concerning Tantalus' specific betrayal, but each carries a tantalizing hint at unknown lore. Diodorus wrote that Tantalus revealed secret information learned from Zeus, which excites Bonisagus magi investigating breaking the Hermetic limits of magic. Pindar said that Tantalus stole nectar and ambrosia, the Greek gods' food of immortality, and magi from Epidauros wonder if such items could improve Longevity Rituals. Verditius magi are interested in a third legend, which says that Tantalus refused to return a golden god automaton that protected the temple of Zeus at Crete. Regardless of their motivations, seekers have failed to uncover Tantalus' treasury or any of the magical artifacts so far.
 
-## *Paphlagonia and Pontus*
+## Paphlagonia and Pontus
 
 East of Bithynia, the southern shore of the Black Sea is divided into two provinces, Paphlagonia to the west and Pontis in the east. Both provinces are mountainous, with only a thin coastal shore of arable, inhabited land. The coastal shelf houses a thick, deciduous forest and offers a temperate climate, mild in the winter and humid in the summer. The area is bordered on the south by the Pontic Mountains, and a few large rivers cut gorges and valleys on their way to the Black Sea, providing fertile valleys of fruit-bearing trees: hazelnuts, plums, cherries, and pears. The mountains are covered with dense forests, and their summits are snow-covered most of the year.
 
@@ -3907,7 +3907,7 @@ Soon after the conquest of Constantinople, the Komnenos brothers, Alexios and Da
 
 The area's three largest cities are Amastris, Sinope, and Trebizond. Amastris and Sinope appear very similar. Both are fortified ports with markets that lay outside the walls. Both are peopled with indigenous Greeks, whose families have lived in the city for generations. And both have a healthy mix of foreigners. Amastris has more people of Scandinavian descent because it was once the end point for mercenaries traveling from Russia, while Sinope has more people of Persian descent. In 1220, both cities pay tribute to their lieges and govern themselves as best they can. Because of its Muslim overlords, Sinope has a high degree of religious tolerance, allowing its citizens
 
-## *The Empire of Trebizond*
+## The Empire of Trebizond
 
 to practice Christianity, Islam, or Judaism as
 
@@ -3921,13 +3921,13 @@ Trebizond in 1220 is still ruled by Alexios Komnenos, with the support of Georgi
 
 The city sits on a sloping area of ground, declining toward the Black Sea with the Pontic Mountains at its back. Two parallel precipices run on either side, making the city naturally defensible and picturesquely beautiful. Added to these geological fortifications are massive walls that surround the city, and two tall towers that protect the bridges that
 
-## *The Christians of Serapis*
+## The Christians of Serapis
 
 Hidden in the bowels of the city of Sinope is a heretical Christian sect that has substitute the Babylonian god Serapis for God. Originating in Babylon, Serapis was brought to Anatolia by Alexander the Great. With his death, Ptolemy took the cult statue to Alexandria in Egypt, where he blended stories of Serapis with popular Egyptian gods, hoping to create a single deity. During the reign of Emperor Hadrian, Egyptian Christians started worshiping Serapis. The sect was thought destroyed in the fourth century, but the cult statue survived, and remnants of the sect smuggled it to Sinope where it has remained ever since.
 
 In Mythic Europe, Serapis is a False God (*Realms of Power: The Infernal*, page 37). Serapis' cult numbers approximately 200 followers, including a dozen priests who lead the congregation. Few of these followers know Serapis' true nature, and the demon uses his Shroud the Stench of the Pit ability to mask the Infernal nature of any Supernatural Abilities he bestows upon his servants. His priests do not actively antagonize or argue with clerics of the Eastern Church, preferring to copy their dress and function to covertly proselytize new followers. The Greek ruler of Sinope, Etoumes, has recently taken one of these priests as his confessor, to the thrill of Serapis. While a vassal of the Seljuk sultan, Etoumes is not a Muslim. This can only lead to woe in the years to come.
 
-## *The Pearl of Peroz*
+## The Pearl of Peroz
 
 In the mid-fifth century, King Peroz of Persia led a large army into Eastern Anatolia against the Ephthalites, a tribe of nomadic Huns. He wore a beautiful pearl earring, the largest and most magnificent pearl ever seen, and one reputed to have magical properties. According to legend, the pearl was discovered when a fisherman noticed a shark of great size and ferocity. The shark was following an oyster, which swam near the shore and occasionally displayed its pearl for the shark to marvel over. Thinking his king would reward him, the fisherman jumped into the ocean, grabbed and flung the oyster to the shore, and was promptly devoured by the shark. The pearl was given to the king, who noticed that the shark still wanted it and circled viciously in the ocean by the shore. Whenever the king went near the ocean,
 
@@ -3951,14 +3951,14 @@ Several Magic auras have formed in the city, due to its natural beauty. Most of 
 Recently Trebizond has been harried by bardi, a type of shapeshifting spirit that takes the form of a female jackal. Solitary in demeanor, a bardi is known to wail just before a death, presaging the event to listeners. The clergy claims the bardi are demons, but the townspeople think them faeries. Magi have yet to capture one of these creatures and investigate it thoroughly. A bardi is unnervingly accurate, however, and everyone who has seen its jackal form and heard its wail has lost someone dear in the near future.
 
 
-## *The Covenant of Alexandria*
+## The Covenant of Alexandria
 
 Alexandria is a Mercere covenant, the bureaucratic center of the Theban Tribunal. Founded after the demise of the first Mercere covenant, Miphoria, it houses most of the Redcaps of the Tri-
 
 
 bunal. This autumn covenant also serves as a retirement house for Redcaps too old or too Warped by Twilight to effectively fulfill their duties. Despite certain difficulties created by the current machinations of the mundanes, Alexandria continues to be the hub of the information network of Thebes.
 
-## *History*
+## History
 
 Alexandria is the second all-Mercere covenant in the Tribunal's history, formed after the decline and fall of the first, Miphoria, in the early 11th century. Located on the coastal outskirts of Smyrna, Miphoria had relied on fantastical and overt magical means of transport, including riding a species of giant magical sea turtles. The Tribunal decided that its members were drawing undue mundane attention to the Order, and asked them to keep a lower profile. Deprived of the sea turtles, Miphoria floundered, and by 1063 most of her Redcaps had taken up residence in other covenants.
 
@@ -3972,7 +3972,7 @@ But all was not rosy within the covenant. The powerful Longevity Rituals the cov
 
 Alexandria continues to satisfy its purpose in the 13th century despite all this, although the covenant has experienced several negative consequences from the fall of Constantinople. At the Tribunal of 1207, Petronas, who had served as logothete for almost a hundred years, abdicated his post. His replacement, Leontius, is unsatisfactory. Seven years later, at the Tribunal of 1214, he narrowly escaped being ostracized. Also, the Emperor of Nicaea recently has stationed a small garrison of imperial soldiers in the castle, expelling the covenfolk and making entry into the regiones difficult. The garrison is there to protect Smyrna from invading Turks, and does not know that a regio resides inside the walls.
 
-## *Setting and Physical Description*
+## Setting and Physical Description
 
 The ruined citadel housing Alexandria sits atop Mt. Pagus, a small mountain to the south of Smyrna overlooking the city and the bay. Its stone walls and towers have deteriorated with time, leaving only a shell of a fortress. Alexandria has not rebuilt the wall, only cleaned up the interior and built several wooden houses to hold its staff. Lascaris' soldiers currently reside in these houses. The dilapidated citadel has a Magic aura of 1.
 
@@ -3990,7 +3990,7 @@ Fides is an eidolon, a spirit of emotions. She is the spirit of loyalty, created
 
 Methodius' binding of Fides included the promise that the new occupants would continue to pay tribute both to Alexander and his empire. Methodius was able to connect these requirements with the Theban Tribunal, so that rather than conquer the world, Fides is satisfied with the "Hermetic Empire of Thebes." She demands that the members of Alexandria stay loyal to this empire, the Order, and promises to stay there for as long as they do.
 
-## *Culture and Traditions*
+## Culture and Traditions
 
 Many of Alexandria's members are quite old. They still participate in Tribunal politics, but are not as enthusiastic as they were in their youth. While enjoying their riches, they are somewhat imprisoned inside their covenant. Food and supplies have to be sneaked in, and any member wishing to leave has to sneak out. The Redcaps have the vis to buy powerful Longevity Rituals, and often take them in their mid-thirties. Five of the 15 unGifted members are over 130 years old, and considerably twisted from accumulated the Warping of their Longevity Rituals. But they have little desire for life outside the covenant's walls, anyway. They spend their days retelling stories of their youths, recounting past exploits, taunting the ghosts, and generally annoying each other.
 
@@ -4030,12 +4030,12 @@ Many Redcaps believe Proximios should be the next logothete, and plan to propose
 
 Catella is the only Gifted member of Alexandria. She joined the covenant directly out of apprenticeship, two years before Constantinople fell, when the reputation of Alexandria was still good. Drawn by the artifacts of Alexander, she has been investigating them, but in twenty years she has made little headway. Because of this interest, Catella has been given the responsibility of loaning them out, which both excites and frustrates her. She likes being in charge of the artifacts, but dislikes that they are not always available for her investigations. In the spirit of cooperation, Alexandria has made borrowing the artifacts easy, and Catella complies with this decision even if it interrupts her personal plans.
 
-## *Covenfolk*
+## Covenfolk
 
 A dozen mundane covenfolk live in Alexandria, residing in the inner regio and serving the needs of the Redcaps and the maga
 
 
-## *Enchanted Devices*
+## Enchanted Devices
 
 Besides the two artifacts of Alexander, Alexandria has a handful of magical items aimed at making a Redcap's traveling life easier. Cloaks that shed water, items that measure vis, and flasks that keep wine from spoiling are common. Once given to a Redcap, these items become the property of the holder. The Alexandrian artifacts, described below, are public property of the covenant and may be used by any member. They may also be loaned out to any magus in the Tribunal who has a positive tally of tokens over shards. The borrower must provide a deposit — either a lump sum of vis or magical items valuable to the borrower — and must return the item in a specified amount of time. The longer the item will be borrowed, the larger the deposit. In addition, the borrower must pay 1 pawn of vis for each week that they he retains the item.
 
@@ -4054,18 +4054,18 @@ Legends are deliberately vague as to the exact nature of Alexander's underwater 
 
 The glass submarine is chained to a ship owned by Alexandria and docked at Smyrna. The ship is continually under guard, and to avoid suspicion, used just as often as the covenant's other merchant vessels. Even when manned, the submarine often remains chained to the ship, which follows the submarine on its voyages. The chain is six hundred feet long and allows the submarine a great deal of mobility. When manned, the chain can be released and the submarine can roam unfettered.
 
-## *Moero's Garden*
+## Moero's Garden
 
 Moero's Garden is a covenant of Jerbiton magi living in Nicaea, the new capital of the displaced Byzantine Empire. Aristocratic and effete, its members were expelled from their original site in Con-
 
 
 stantinople and eagerly seek to return. Until then, they make do as best they can, pursuing their artistic interests and dignified lifestyles.
 
-## *History*
+## History
 
 Moero's Garden was founded in 1163 during the glory years of Emperor Manuel Komnenos. Ionnia of House Jerbiton, a minor Byzantine noble and lover of women poets,
 
-## *Anima: The Glass Submarine*
+## Anima: The Glass Submarine
 
 Because the glass submarine is an awakened simulacrum, it has Characteristics and Abilities similar to a regular dolphin. It has powers because they were instilled in it, not because of its essential magical nature like magic creatures. Consequently, it does not need to spend Might points to activate its powers.
 
@@ -4112,7 +4112,7 @@ During its time in Constantinople, Moero's Garden did not participate in the mun
 
 Things changed when the crusaders stormed the walls and seized the city. The beauty of the city was horribly scared, and while Moero's Garden escaped the initial destruction, its members were not confident that it would remain untouched. The crusaders' reputation for looting made them fear for their library and collected artifacts, and when the chance to leave the city came, they followed the majority of the affluent Greeks and fled. They carried what possessions they could, but the vast majority was left behind. They fled to a chapter house they had established in Nicaea, the ancestral home of Hipparchus of Nicaea, a famous Greek astronomer who lived around 190 BC. This former summer home has become the entirety of their covenant.
 
-## *Setting and Physical Description*
+## Setting and Physical Description
 
 The home of Hipparchus sits in a corner of Nicaea in a section devoted to merchants and their families. It is a large building three stories high, with both an outer and inner courtyard. Palatial by merchants' standards, the members find it squalid, cramped, and undignified, despite their best efforts to rehabilitate the place's aesthetics. The top floor of the building is divided into laboratories, the second floor is the magi's living quarters, and the covenfolk live on the ground floor. Their library and artifacts of art are stored in the basement, a condition which continues to horrify them.
 
@@ -4128,7 +4128,7 @@ Moero's Garden's patron spirit is the ghost of Hipparchus, summoned and reluctan
 
 When things get really bad, Ionnia placates the ghost by spending time with it, gazing at the stars and discussing astronomy. Hipparchus' ghost enjoys such evenings, which effectively sooths it for a week or so.
 
-## *Culture and Traditions*
+## Culture and Traditions
 
 The members are afflicted with the idea that, like aristocratic nobles, they should not have to work to earn their living. They do not wish to sully their hands or their magic with labor, and feel entitled to lives of ease. This becomes increasing difficult the longer they are removed from Constantinople. The covenant's finances are managed by Pastor, the autocrat, and they are dwindling. Money is not the only threatened resource. Displaced from Constantinople and the rich vis sites surrounding the city, Moero's Garden has only found one vis site to replace the many it lost. Most of its vis comes from the generosity of other magi around the Tribunal, whose gifts of vis are greatly appreciated.
 
@@ -4136,7 +4136,7 @@ To compensate for the covenant's failing fortunes, Pastor has become the financi
 
 Four of the seven Jerbiton magi are members of the League of Constantine and think that the covenant should support the Emperor of Nicaea in his attempts to regain Constantinople. The two youngest members, Trasaric and Helladius, claim that the city fell because covenant members idled away their days instead of protecting their homeland. Ionnia and Syagricus disagree, saying that Constantinople has suffered calamities before and always righted itself, and this current occupation will pass with time. The covenant is undecided, with equal members agreeing and disagreeing with the pair.
 
-## *Magi*
+## Magi
 
 Moero's Garden has eight magi: seven of House Jerbiton and one Tytalus maga with the
 
@@ -4172,18 +4172,18 @@ The oldest magus at Moero's Garden, Ziper joined after its relocation to Nicaea.
 
 Ziper feels that the covenant needs new members, that its size is a detriment to its standing in the Tribunal. He has proposed that Nanno and Ampelius be accepted into the covenant as members of House Jerbiton. While not magi, they can effect minor enchantments within their creations. Proximios of House Mercere (see The Covenant of Alexandria, earlier) supports his position, citing how beneficial his House of unGifted people is to the Order, and theorizing that unGifted members in House Jerbiton would only contribute to its success. The other members, apart from Syagricus, are horrified at this proposal, not because Nanno and Ampelius are unGifted, but because they are craftsmen! Both artisans, Nanno more so than Ampelius, think the life of a magus must be wonderful, and threaten to travel to Delos and ask the Tribunal as a whole for membership.
 
-## *Covenfolk*
+## Covenfolk
 
 Of the forty or so craftsmen and servants that work for Moero's Garden, the most important is the autocrat Pastor. Besides managing the day-to-day business and finances, he has been put in charge of managing the covenant's vis stores, which are ever-decreasing. His wife, Viviana, is the covenant's main scribe, responsible for preserving and organizing Moero's Garden's library. Besides the vast collection of poetry, the library contains several summae and tractatus on Rego and Mentem magic, written by Ionnia, as well as tractatus of her personal poetry.
 
 
-## *Chapter Nine*
+## Chapter Nine
 
-# *The Magical Landscape*
+# The Magical Landscape
 
 The Theban Tribunal has a rich history of magic. This section discusses the magical powers that some think once ruled the world, and the magic that is thought to derive from their captivity. It also considers some of the non-Hermetic magics that are practiced across the four seas.
 
-## *The Titans*
+## The Titans
 
 In pagan mythology, the universe was created by primal beings beyond mortal understanding such as Khaos (Chaos), Ouranos (Heaven), Ge (Earth), Pontus (Sea), Erebos (Abyss), Nyx (Night), and Hemera (Day). Christian theologians who have studied the classics count these beings (the protogonoi) and their children (the titans) among the allegorical or actual Intelligences whom God set to rule over natural processes.
 
@@ -4192,7 +4192,7 @@ The six male Titans are all responsible for governing time in the Magic Realm. H
 It is not difficult to understand the fascination that many magi of the Theban Tribunal have for these cosmic figures. Those individuals who pursue study of the titans are divided broadly into three factions, detailed below. These factions are not (yet) formal political leagues, but simply like-minded individuals who often collaborate due to similar goals. The names of the factions — Seekers of the Fallen, Legion of Atlas, and Kampe's Lovers — were coined four Tribunals ago by Lucian (see Chapter 4, Hermetic Leagues) in a cynical speech mocking their efforts. The labels have stuck, and younger members of the factions have begun to refer to themselves in these terms.
 
 
-## *The Titans as Governors of the Universe*
+## The Titans as Governors of the Universe
 
 The titans are creatures of the Magic Realm, leading some to theorize that they were among the first creations of God. When He separated the earth and the sky, He created Ge and Ouranos; when He ordered the light He created Nyx and Hemera, and so forth. The implication is that the Magic Realm is the primal state of the world before man. With the titans set over time, and the titanesses set over nature, their children became the inventors of all human sciences and arts, the progenitors of culture, and, some say, the creators of mankind.
 
@@ -4202,7 +4202,7 @@ This loose coalition of a handful of magi believe that the restoration of the ti
 
 auras, regiones, and portals into the Magic
 
-## *The Titans as Enemies of the Gods*
+## The Titans as Enemies of the Gods
 
 Realm itself.
 
@@ -4214,7 +4214,7 @@ Perhaps the most radical faction of the Theban Tribunal, the Legion of Atlas see
 
 Kristophoros of Bonisagus is an evangelizing magus who takes the First Commandment very seriously. He believes that the
 
-## *The Titans, in Brief*
+## The Titans, in Brief
 
 The following is a very brief overview of the titans and their progeny, the Daimons and nymphs. Readers are directed to the bibliography for more information.
 
@@ -4228,7 +4228,7 @@ Hyperion and Theia gave birth to the sun (Helios), the moon (Selene), and the da
 
 remnants of pagan practices across the Tribunal are a form of insidious evil, and seeks to cleanse Hermetic procedure in Thebes from any hint of idolatry. Curiously enough, he has no issue with the titans, since they do not desire worship, unlike the faerie gods who live for it. Kristophoros has become a rallying point for all magi of the Legion of Atlas, since their goals coincide even if their philosophies do not. Kristophoros has used his considerable rhetorical powers in the past to prevent convictions against those magi who molest the fae, and characters may find in him an unexpected (and perhaps unwelcome) ally at Tribunal.
 
-## *The Titans as a Government in Exile*
+## The Titans as a Government in Exile
 
 Mother Earth was consumed with wrath at the treatment of her children by her grandchildren, and bore a race of giants to wreak her anger. The 24 giants attacked the gods, but they were incapable of being killed by the gods, requiring instead the hand of Herakles to land the death blow. During the fight the geography of the world was rearranged as both gods and giants used uprooted islands and mountains as missiles. Ultimately the giants were defeated and either imprisoned or slain. The final monster to be brought forth by Earth was Typhon, the mightiest giant of all; his ass' head brushed the heavens, his wings darkened the sky, and he spat burning rocks from his mouth. The gods were put to flight and they hid in Egypt in the shape of animals. Zeus was hamstrung by the hideous giant when he faced it; he was rescued by Hermes, and was subsequently successful in defeating Typhon with his thunderbolts and imprisoning him beneath the earth.
 
@@ -4239,7 +4239,7 @@ Having secured three victories over the progeny of Earth, the gods now reigned s
 Mortal magicians discovered long ago that despite being imprisoned, the titans were still capable of providing power for the exercise of magic. Some Seekers claim that all magic comes to man through the titans, and Hermes was the first to discover how to take this power without weakening their bonds. These magi do not seek the downfall of the gods, but do desire a greater bond with the primal spirits of the Magic Realm. Dubbed Kampe's Lovers after the jailer of the titans, this faction is attractive to House Tytalus, since its goals mirror those of a Tytalan Mystery Cult called the Titanoi (see *Houses of Hermes: Societates*, page 94). Tisiphon of Hedyosmos is the most prominent member of this faction (see more on Tisiphon in Chapter 5: Greece, Hedyosmos).
 
 
-## *Mythic Blood – Gigantes*
+## Mythic Blood – Gigantes
 
 Characters with the Mythic Blood Virtue can choose to have the blood of the Greek giants. These differ from giants in other parts of Mythic Europe, in that their immense size was accompanied by another distinct physical feature — they had serpent tails instead of feet. The Magical Focus that accompanies the Mythic Blood is usually connected with strength or the Form of Terram, and the Personality Flaw is Rebellious. Common Virtues and Flaws include: Giant Blood; Large; Horrifying Appearance — Snake Legs, Necessary Condition — must be touching the ground
 
@@ -4257,7 +4257,7 @@ to impose authority over you, and work against those who are in command. You do 
 
 You have no legs, instead your hips give rise to two or more snake-like tails; you should consider how you survived childhood with this horrific deformity. Your movement is not hindered under most circumstances. You can hide this deformity under clothing, but you cannot move without revealing it, leaving you feigning being crippled as well.
 
-## *The Sibyls*
+## The Sibyls
 
 Legend has it that 10 sibyls are entrusted with the secrets of the universe. All of the sibyls predated Christianity, and yet they predicted the birth of Christ, his miraculous life, and his death for the redemption of all mankind. Several theologians, including St. Augustine and Peter Abelard, have declared the oracles of the sibyls to be true prophecy despite being relics of paganism. Whether or not each utterance of a sibyl is true prophecy is up to the storyguide. The *oracula sibillina* (the *Oracle of the Sibyls*) is widely circulated in the 13th century, as a descendant of a collation of many thousands of sayings of the sibyls uttered over hundreds of years.
 
@@ -4287,18 +4287,18 @@ This sibyl's name is Lamia, and she haunts Phrygia in the Anatolian Highlands. S
 
 While the sibyls themselves are incapable of leaving their shrines, they occasionally bear children to the visitors who seek their wisdom. A child of such a union is encouraged by her mother to leave the sanctuary of her magical home and experience the world. The children of sibyls — called sibyllides — are magic kin (*Realms of Power: Magic*, page 89). They may be magic characters or characters aligned with the Magic Realm. They always have powers associated with prophecy and extra-normal sight (like the Warders of Mystery from *Realms of Power: Magic,* page
 
-## *The Other Sibyls*
+## The Other Sibyls
 
 The Persian Sibyl is named Sambenthe and lives in ancient Babylon. The Libyan Sibyl Phemonoe dwells in the Siwa Oasis in the Libyan desert. Sabbe the Hebrew Sibyl is purported to have been on the Ark, as one of Noah's daughters-in-law. She wanders between Magic auras throughout the Holy Land. The Cumean Sibyl and the Tiburtine Sibyl are both to be found in Italy; Carmentis dwells at Lake Cumae near Naples, and Albunea next to the Tibur river in Etruria. The Cumean Sibyl sold three books of prophecy to King Tarquinius of Rome; these books became the property of a Roman college of priests, and then part of the lore of the Cult of Mercury.
 
 
 95), and at least one has become a magus of the Order, naturally specialized in Intellego magic. They are obligated to return to their mother's home every decade to report to her what they have learned about the world, so that she can judge whether it is right for more of her prophecies to be released.
 
-## *Magical Bindings*
+## Magical Bindings
 
 One of the most significant magical traditions of Ancient Greece — although by no means unique to Ancient Greece — is the power of bonds, whether those restraints are taken unwillingly or voluntarily in the form of oaths. These traditions have not vanished along with antiquity, but only fragments of them survive into the 13th century. It is the choice of the storyguide as to whether any or all of the fragments presented in this section constitute a single or multiple magical traditions, and whether practitioners of that magic still exist in the wildernesses of the Tribunal, away from the eyes of the Order.
 
-## *Epanankoi*
+## Epanankoi
 
 "*Epanankoi*" is a general term for spells that constrain, specifically for the purposes of coercing spirits and gods. The *epanankoi* are among the most powerful magics of the classical period, practiced by both gods and men, and are almost completely forgotten in the current day. Some fragments of this power remain, and magi eagerly seek them out for clues to this lost magic.
 
@@ -4306,7 +4306,7 @@ The Gates of Tartaros that constrain the titans are one of the most significant 
 
 Some of the bindings wrought in ancient times still hold today, and members of the Order who are aware of them are nervous that they are incapable of repairing them should they be broken. Some example bindings known to the Order include:
 
-## *Character Guide: A Sibyl*
+## Character Guide: A Sibyl
 
 **Magic Might:** 25+ (Mentem)
 
@@ -4373,11 +4373,11 @@ It takes several hours to perform a slander rite. The most common method involve
 
 **Ease Factor: 9 + being's (Might / 5)**
 
-## *Modifiers to Diabolai*
+## Modifiers to Diabolai
 
 Diabolai performed in public:+2 Requested power is apt (e.g. target worthy of punishment): +1 to +5, as determined by the storyguide Synthemata of being known (see *The Mysteries Revised Edition*, pages 86–88): +3 True Name of being known (see *Realms of Power: The Infernal,* pages 34–35): +9 Performed a diabolai in the last month: –9 Threatening an unfamiliar being: –6
 
-## *Stygian Magi*
+## Stygian Magi
 
 An interest in binding magics is known as the "Stygian Art" in the Theban Tribunal, connecting these magics to the mythology of the Underworld. It is commonly held that binding magics are suspect, possibly even Infernally corrupted, probably due to the preeminence of the Goetic Arts in this field. Despite this reputation, some magi still pursue these studies. Most notable of these is Polydegmon of Hedyosmos (see Chapter 5: Greece), who practices a nonHermetic tradition of binding magic; until he trains an apprentice, his abilities remain unique in the Tribunal.
 
@@ -4399,12 +4399,12 @@ The lost art of Defixio Magic (see *Ancient Magic*, Chapter 3) was called Katade
 
 One consequence of the prevalence of Katadesmos Magic is the manifestation of the Leadworker Virtue (*Houses of Hermes: True Lineages*, page 143) in non-Hermetic wizards who may take this Virtue as a Supernatural Virtue. Among magi, leadworking remains a secret of House Tremere.
 
-## *Hedge Magic and Magicians*
+## Hedge Magic and Magicians
 
 The Theban Tribunal is a fortunate place for practitioners of magic; not only is it magically rich in terms of auras, regiones, and vis, it also has many wild and uninhabited places that serve as retreats for the Gifted individual wishing to avoid the negative consequences of his Gift on other people. The Order of Hermes has estimated that one in every hundred people in the Theban Tribunal have some magical ability; although only one in every thousand has received any formal training. Furthermore, only one in 10,000 has The Gift, and is thus capable of learning the most powerful magic.
 
 
-## *Magical Traditions*
+## Magical Traditions
 
 *Hedge Magic*, **Ars Magica Fifth Edition**'s supplement for non-Hermetic magic, details a number of magical traditions that can be found across Mythic Europe. This section describes how these traditions might manifest in the Theban Tribunal.
 
@@ -4420,7 +4420,7 @@ Folk witches are mostly found on the Greek mainland rather than on the islands. 
 
 While this magical tradition is based in a culture from the other side of Mythic Europe, a storyguide could introduce a similar tradition drawn from the Pelasgic people of pre-Hellene Greece. They would be worshipers of the titans and descendants of the serpent-tailed Greek giants, but their powers over curses and blessings, and the connection of these to permitted or prohibited behavior, is a perfect match for the binding magics native to the Tribunal. It is probable that Greek versions of the gruagachan would have access to spirit magic, most likely in the form of some of the Goetic Arts (*Realms of Power: The Infernal*, pages 114–119), in exchange for losing the ability to create enchanted tattoos. They may be a reservoir of Defixio Lore (see Katadesmos Magic, earlier) which would greatly extend the scope of their magic.
 
-#### *The Theban Tribunal*
+#### The Theban Tribunal
 
 #### **Learned Magicians**
 
@@ -4430,15 +4430,15 @@ Byzantium has no universities, which are the most likely home of the *mathematic
 
 Nightwalking traditions were a feature of Ancient Greece, and remnants of the cult remain in pockets across the empire. They often find themselves at odds with Folk Witch covens, particularly those who have teamed up with Infernal witches. Nightwalkers in Greece often have other magical abilities, such as being cunning folk (see Learned Magicians).
 
-## *The Makhai*
+## The Makhai
 
 In *Rival Magic* a tradition of wizards called the Muspelli is described, who derive their magic direct from the Norse equivalents of the titans. Advice is given for variant Muspelli in other lands, including the Makhai — Greek sorcerers who serve the monstrous Ekhidna and Typhon, who were brought forth by the Earth to avenge the imprisonment of the titans on the faerie gods. The Makhai might incorporate or replace the Gruagach variants mentioned in this chapter.
 
-## *Peasant Magic*
+## Peasant Magic
 
 As well as the usual collection of minor magical powers represented by Supernatural Abilities like Dowsing, Premonitions, Second Sight, and so on, the common folk of Greece also have a very minor ceremonial magic. The origins of this magic — if indeed it has a single origin at all — is long lost. It is usually dismissed by Hermetic magi as beneath their notice.
 
-## *New Virtue: Folk Magic*
+## New Virtue: Folk Magic
 
 *Minor, Supernatural*
 
@@ -4455,17 +4455,17 @@ The character is capable of performing very minor acts of magic through his know
 To cast a spell the character must expend a fatigue level, whether the spell succeeds or fails. He must also spend at least 15 minutes preparing the spell, during which time he needs unbroken concentration and access to his "magical" materials (while necessary, these materials offer no benefit to the casting). The spell is designed exactly like a Hermetic spell. The Casting Total is equal to (Stamina + (Realm) Lore + Aura modifier + stress die) / 2. Penetration is calculated in the normal fashion: Casting Total – Spell Level + Penetration modifiers. You may pick this Virtue more than once, to acquire expertise in a different category of spells. Each time you choose this Virtue, you can align it to the same Realm as before or pick a different one, although a character cannot have access to both the Divine and Infernal Realms.
 
 
-## *Chapter Ten*
+## Chapter Ten
 
-# *The Faerie Landscape*
+# The Faerie Landscape
 
 Called *exotika* or *xotika* in Greek (singular *exotiko*), faeries abound on the mainland and among the islands. Every town and village has its local faeries: there are places through which grown men will not walk after dark; stories told by mothers to disobedient children; and offerings made to the house spirits. These exotika are a far cry from the gods of pagan times, themselves powerful faeries in their day. However, with the abandonment of the old temples in favor of Christ, the gods of the Greek pantheon have little influence and mere handfuls of worshipers remaining.
 
-## *The Greek Gods*
+## The Greek Gods
 
 The ancient Greeks worshiped a race of powerful faeries as gods. In their mythology, the gods overthrew the primal race of titans to claim the position at the head of the pantheon; theurgists see this myth of the titanomachy as a fundamental shift in the sublunar powers and perhaps the origin of the Faerie realm. The six principle gods of the Pantheon are named as the children of the elder titans Kronos and Rhea: Zeus, Hades, Poseidon, Demeter, Hera, Hestia. Furthermore, several were said to be born from a union between Zeus and younger titans (Artemis, Apollon, Athene, Aphrodite, and Hermes), or between Zeus and his sisters (Ares, Hephaistos, and Dionysos). The myths of the Greek Gods portray them with human flaws and foibles: Zeus is lecherous, Hera is vengeful and proud, Ares is argumentative and a coward, and so forth. This makes them very different from the depictions of the titans, who were seen as distant and uncaring.
 
-## *The Twelve Olympians*
+## The Twelve Olympians
 
 Twelve gods sat on Mount Olympos and received worship from the ancient Greeks. Zeus was the king of the gods, despite occasional attempts to dethrone him by his siblings and children; Zeus had earned his
 
@@ -4474,7 +4474,7 @@ position at the head of the pantheon by defeating Kronos, and remained there by 
 
 The other Olympians consisted of Hera, Poseidon, Demeter, Apollon, Artemis, Athene, Ares, Aphrodite, Hephaistos, Hermes, and Dionysos. Zeus' sister Hestia had ceded her own seat to the youngest Olympian, Dionysos.
 
-## *Other Gods*
+## Other Gods
 
 In addition to the 12 Olympians, the Greek pantheon consisted of a whole host of other deities, of whom Hades was perhaps the most important. His home in the Underworld disbarred him from a life on Olympos, and he guarded the dead and ruled over them much as Zeus ruled over the living. Hestia was intended by the fates to be his wife, but the goddess of the sacred fire eschewed a life in the perpetual gloom of the Underworld and remained a virgin. She instead became the goddess of the family. Persephone, the daughter of Demeter, became Hades' queen instead.
 
@@ -4482,7 +4482,7 @@ Pan was the foster-brother of Zeus himself, and older than many of the Olympians
 
 Not all of the beings worshiped as gods were necessarily faeries; only those that encompass an ideal that is a facet of human nature or endeavor are generally considered to be fae. Some of the worshiped beings were younger titan — aspects of the magical world that performed their tasks according to nature whether man took notice of them or not. These "magical gods" included Helios the sun god, Selene the moon goddess, Hekate goddess of witchcraft, and Leto and Asteria, the goddesses of prophecy.
 
-## *Heroes*
+## Heroes
 
 Stories are still told in the 13th century about the deeds of the great heroes of mythic times: Herakles, Perseus, Bellerophon, Jason, Theseus, Daidalos, Kastor and Polydeukes,
 
@@ -4504,11 +4504,11 @@ Odysseus, and so forth. Many of these heroes were demigods, having one of the Ol
 
 **Perseus**: Slayer of Medusa with the help of the gods; a descendant of this hero might possess one or more of the powers of the magic items he was given to assist in his task: an adamantine falx (sickle) that can slice any material, winged sandals that permit flight, a helmet of invisibility, and a shield bearing medusa's head. The
 
-## *The Olympian Houses of Hermes*
+## The Olympian Houses of Hermes
 
 Seekers have long connected the 12 Houses of Hermes with the twelve Olympians. Different researchers make different attributions, but the most common identification is: Bjornaer as shapechanging Poseidon; Bonisagus as Zeus; Criamon as mysterious Hestia and/or ecstatic Dionysos; Ex Miscellanea as Demeter; Flambeau as Apollon; Guernicus as Hera; Jerbiton as beautiful Aphrodite; Mercere as Hermes; Merinita as Artemis; Tremere as Athena; Tytalus as belligerent Ares; and finally Verditius as crafty Hephaistos. Even Diedne was represented, originally as Demeter and then as ill-omened Hades. It is rumored that Trianoma was the deliberate inventor of this pattern, and she passed over some wizards as potential Founders purely because they did not meet her mythological criteria. Some say that the fall of a House was inevitable ever since the Order accepted Ex Miscellanea as the 13th House, disrupting the Olympian symmetry.
 
-## *The Problem of Hermes*
+## The Problem of Hermes
 
 Seeker magi are most interested in Hermes. His two most intriguing characteristics are as a god of invention and as a god of transition.
 
@@ -4522,7 +4522,7 @@ character himself possesses the power (for example, through the Hero's Birthrigh
 
 **Theseus**: Famous as a slayer of bandits, giants and, monsters (most famously the minotaur), this king of Athens successfully waged war against the Amazons and even visited the Underworld in fulfillment of an oath and was trapped there for four years. His descendants would be superb warriors who live by a Code of Honor.
 
-## *The Children of Olympos*
+## The Children of Olympos
 
 The aim of this Hermetic league (see Chapter 3: The Order of Hermes, The Leagues of Thebes) is to forge a close connection between the Order of Hermes and the faerie gods. Its leader Lucian believes that the Order has been ill-used by the Infernal and the Divine, and that the uncaring Magic Realm is not a suitable path for magi due to the lack of interest of its denizens in the works of man.
 
@@ -4534,7 +4534,7 @@ recreating the stories on a grand scale and becoming a player in them. He has al
 The league has several sympathizers but few actual members, most of whom are from House Merinita. Its existence is not a secret, although Lucian's scheming and the specifics of his new Mystery Initiation are. Lucian hints at his innovation, but only tells willing initiates the whole story. To achieve the league's goals, Lucian has invented two Mysteries for his followers: Elysian Ecstasy and Olympian Pact. By use of these Myster-
 
 
-## *New Minor Supernatural Virtue: Elysian Ecstasy and Olympian Pact*
+## New Minor Supernatural Virtue: Elysian Ecstasy and Olympian Pact
 
 Elysian Ecstasy is a new Minor Supernatural Virtue, the consequence of Lucian's investigations into the Faerie realm combined with the ecstatic rites he invented for this new Inner Merinita Mystery. It is gained through a Mystery Initiation of his devising. There is no prerequisite for gaining the Virtue, which violates the nature of the Merinita Mystery Cult; initiates do not need to be opened to the Outer Merinita Mysteries, nor do they need a score in Merinita Cult Lore. Having invented the Mystery Initiation, Lucian has an Initiation Script that will work for anybody, providing that he serves as the mystagogue.
 
@@ -4580,7 +4580,7 @@ sian Ecstasy (see insert), although only Lucian currently possesses an Olympian 
 
 Lucian believes that he is channeling the actual Greek gods, but he might be mistaken or duped by powerful pretenders, either Faerie or Infernal. As yet, he has not convinced any channeled god to become a covenant's patron spirit. His vision is rather clouded; he is so enamored with ecstatic rites and faerie possession that the truth could easily escape him. As a result of Lucian's Twilight Scars, he also tends to forget his own identity when himself channeling one of the gods.
 
-## *Faeries of Greece*
+## Faeries of Greece
 
 *Realms of Power: Faerie* describes a number of faeries that are prominent in Mythic Greece. These are briefly recapitulated here; for more details (including game statistics), see Chapter 4: Faerie Bestiary in that book.
 
@@ -4614,7 +4614,7 @@ These faeries of the wild are relatively common in Greece, but they are also fre
 
 Tritones or merfolk are ubiquitous in the Greek Islands. Every bay, inlet, and sandbar had its own mermaid. They act as the guard-
 
-## *Sympathy Traits of the Olympians*
+## Sympathy Traits of the Olympians
 
 Characters taking the Faerie God variant of Faerie Blood (*Realms of Power: Faerie*, page 107–108) may choose appropriate Sympathy Traits for an Olympian god, as listed below.
 
@@ -4688,7 +4688,7 @@ Drakoi often build stone dwellings named "dragonhouses" for themselves; they are
 
 Many drakoi can take the form of a large serpent, sometimes with a human head. They occasionally grow to immense size, such as the one that crawled out of the sea and took up residence in the Karakalou Monastery on Mount Athos, where the monks treated it as a house snake. Another variety of drakos has a single eye, burning with fire, and a special talent for hurling rocks; these are especially common on the island of Zakynthos. Such drakoi are likely the descendants of the ancient *kyklopes* (cyclopes) described in Greek legends, which emerged from the Underworld Tartaros and dwelled by volcanoes.
 
-## *Nereides*
+## Nereides
 
 In classical times a *nereid* was specifically a water nymph, but in the middle ages the term is applied to all nymphs and female courtly faeries of all types (there is a distinct lack of male courtly faeries in the Theban Tribunal). Nereides are perhaps the most common faeries in the region, and typically appear as beautiful women bedecked with flowers. Their white dresses occasionally hide the fact that they have the hind legs of a goat or donkey.
 
@@ -4696,7 +4696,7 @@ Nereides are keen to interact with young men, as they gain vitality through such
 
 For more information on nereides, see the entries under Courtly Faeries, Entrapping Lovers, and Faerie Spouses Trapped by a Trinket in *Realms of Power: Faerie*, pages 82–86, page 73, and page 75. Greek nereides can steal the wits of a man with a single kiss, inflicting the Flaws of Simple Minded or Short Attention Span through the Grant (Minor Flaw) power. Other nereides can induce weakness or muteness. Saint Artemidos is particularly prayed to by the parents of nymph-struck infants, and can undo the curse.
 
-## *Stoicheia*
+## Stoicheia
 
 The *stoicheia* (singular *stoicheion*) are the spirits of places. Every significant landmark has its guardian, which commonly takes the form of a spirit-animal such as a calf, donkey, cat, or white hound. In the deep wilds where no-one sees them, each unusually shaped boulder, hilltop tree, river, and mountain possesses a stoicheion, which in these cases are genii loci (see *Realms of Power: Magic*, page 106). However, closer to human habitations, faeries fill the role of the spirits of places, extending their guardianship over the land to guardianship of the local community in return for proprietary offerings of eggs, figs, milk, and honey. The village is very respectful of its stoicheion, greeting it politely should they come across it, for a faerie spirit who is treated rudely can abandon or attack the community it once protected.
 
@@ -4709,7 +4709,7 @@ itself, so visits strong men of the community for assistance. Some possess a Rit
 
 The *basiliskos* is a house spirit, much like the brownies or portunes encountered further west. These stoicheia tie themselves to a specific family rather than a whole community, but can be a boon to those who possess one. These faerie spirits take the shape of snakes;
 
-## *Character Guide: Stoicheion*
+## Character Guide: Stoicheion
 
 **Faerie Might:** 10 (Animal); 20 in its village **Characteristics:** Int 0, Per +1, Pre +2, Com –1, Str +1/+2\*, Sta +2/+3\*, Dex 0/+3\*, Qik 0/+2\*
 
@@ -4763,7 +4763,7 @@ The *pergalio* is a spirit that ties itself to a particular structure, rather th
 
 The *kalotyches* are the stoicheia of trees that, when their tree is felled, become murderous creatures of vengeance. The name kalotyche means "good fortune," a classic Greek trick of giving a euphemistic name to an unpleasant entity as a propitiatory measure. Some trees — planes, poplars, and figs — are considered to have inimical spirits even when still alive, and no-one will even take rest in their shade. Particularly dangerous trees are distinguished by the speed of their growth; they must be cut down by the person who planted it else it will try to kill him. The vengeance of a kalotyche can be halted by placing a stone in the wedge of the trunk after the tree is felled (a Traditional Ward); these stones inevitably work their way free.
 
-## *Story Seeds*
+## Story Seeds
 
 #### **The Thalassomachos**
 
@@ -4781,13 +4781,13 @@ A kalotyche in the covenant's grounds provides vis as a product of its Extended 
 
 A koukouvaouna is a powerful patron for a covenant to gain, but must be persuaded to act as a guardian. Ruthless magi might ensure that the spirit's current community founders to leave the spirit seeking a new home. Alternatively, this tactic might be used by a rival against a village beholden to the characters' covenant.
 
-## *Chapter Eleven*
+## Chapter Eleven
 
-# *The Divine Landscape*
+# The Divine Landscape
 
 To understand the nature of the religious tensions that divide the Theban Tribunal, it is necessary to understand the history that led to the great Church of the first Christian millennium fragmenting into hostile camps.
 
-## *Church History*
+## Church History
 
 In 381 the Second Oecumenical Council was called at Constantinople, and Constantinople and Jerusalem were granted their own dioceses, creating a system of five patriarchs known as the Pentarchy. The patriarchs guided the Church, none subservient to others, but accepting by tradition Rome as "first among equals" with Constantinople as the New Rome taking second place. The authority of Rome was always stronger in the Latin-speaking West than the Greek-speaking East, and the Church developed two cultures while sharing common doctrine. These are the "Roman" and "Greek" Churches of the Tribunal.
 
@@ -4803,11 +4803,11 @@ Two rival Church councils — one Iconoclastic and one Iconodulist — met and d
 
 Such complex theological issues, which led to the deposing of emperors, violent public discussion, and demonstrations, are hard for Westerners to understand. But theology is followed in Constantinople in much the way the city in former times wholeheartedly embraced chariot racing teams. Everyone has an opinion, and theological debates are major sources of gossip and interest. The population of Constantinople is noted for its intense spirituality and religious enthusiasms, and for its temperamental character and tendency to riot over such issues.
 
-## *Story Seed: The Procession*
+## Story Seed: The Procession
 
 When the local Latin churchmen attempt to suppress the procession of the icons through the streets on the Feast of the Triumph of Orthodoxy, rioting is certain. Most clergymen are still Orthodox, while the hierarchy of the Church is now at least partly Latin. With the Latin Patriarch of Constantinople dead, and his replacement not yet appointed, few realize the bloodbath the Bishop's decision to suppress the procession will provoke. Can the characters avert disaster?
 
-## *Schism*
+## Schism
 
 The increasing claims of primacy by the pope led to centuries of tensions between the patriarch-led churches of the East, and the Western churches that looked to Rome for leadership. The final split that divided Christendom came in 1054, over a theological dispute. The dispute crystallized over a phrase, in Latin *filoque*, meaning "and from the Son."
 
@@ -4816,7 +4816,7 @@ The rejection of the papacy's authority over the *filoque* clause led to a split
 Despite that, attempts at dialog have continued. The real catastrophe followed the crusade of 1204, which culminated in the sack of Constantinople, the imposition of the Latin Church by the conquerors, and the subsequent political and religious struggle that has torn the Theban Tribunal apart.
 
 
-## *The Filoque Clause*
+## The Filoque Clause
 
 The technical aspects of the argument over the phrase *filoque* (meaning "and from the Son") are complex, but can be summarized as follows.
 
@@ -4826,7 +4826,7 @@ The issue was a long-standing bone of contention, and led to a short-lived schis
 
 In 1220 many citizens still take every opportunity to discuss theology, and the lack of understanding of the Trinity on the part of the Latins is a cause of much amusement at their ignorance among Greeks. The baker who sells the characters their bread, or the maid who serves their breakfast, may well wish to engage them in theological debates, and attempt to show their ignorance. A character with a good score in Theology may well win friends, regardless of his background and ecclesiastical allegiance.
 
-## *Mysticism*
+## Mysticism
 
 The Orthodox Church has a very strong mystical tradition dating back to the days of the Desert Fathers — early hermits who embraced a contemplative lifestyle and somedecades. The tradition has largely died out
 
@@ -4834,13 +4834,13 @@ The Orthodox Church has a very strong mystical tradition dating back to the days
 
 today, though some isolated exponents may exist. Asceticism, contemplative prayer, and invocation of certain specific prayers are still common throughout Byzantine religious life, especially in the monastic tradition and on Mount Athos. One form of spirituality is creating a major impact on religious thinking — the mystical practice of the h*esychasts*.
 
-## *Hesychasm*
+## Hesychasm
 
 The practice of hesychasm is a form of Orthodox spirituality that dates back as far as the Desert Fathers, but which is gaining in influence at this time. However, it is still an unusual and at times theologically controversial practice, insofar as the Church authorities pay any attention to it. While widely known from St. John of Sinai's seventh-century mystical classic *The Ladder of Divine Ascent*, the practice is generally considered to be suited only to ascetics living lives of renunciation as hermits. In recent years a movement that introduces hesychast practices to monastic life and alongside standard liturgical offices has began to gain influence, though the practice is still theologically controversial.
 
 The hesychast trains himself to repeat constantly the Jesus Prayer, "Lord Jesus Christ, Son of God, have mercy on me, a sinner," and to remain perfectly still, focusing on the inner to the neglect of the body and external environment. Special breathing exercises are used to enter a meditative state, along with controlled postures held for hours. Ecstasy, premonitions, and other phenomena are incidental by-products, and should be ignored completely as dangerous spiritual counterfeits that can lead to delusion and danger. The hesychast learns how to control his emotions by letting the mind be drawn into the heart and the unceasing quest for God and salvation. The ultimate aim is mystical experience of the Divine and illumination by the Holy Spirit.
 
-## *Magic & The Church*
+## Magic & The Church
 
 Although amulets and talismans with inscribed holy names and prayers were common until the Iconoclasm riots, they usually employed Christian symbols. One example is the lead monk and nun rumored to be employed by the Empress Irene in the working of love spells. So too, diviners and soothsayers did certainly exist in the streets of Con-
 
@@ -4850,7 +4850,7 @@ stantinople, but they ran the risk of death at the hands of enraged pious mobs. 
 
 Despite this, or perhaps because of it, some magi have adopted Holy Magic, especially in House Jerbiton (see *Realms of Power*: *The Divine,* page 38). Magi of the Holy Societies of Sol Invictus (*Realms of Power: The Divine,* page 70) and Kabbalists, Baal Shem, and Karaites from the Jewish traditions (*Realms of Power: The Divine,* pages 140–142) can be found in the Tribunal, as well as Christian holy traditions including Hesychasm and the Society of St. Cyprian and St. Justina.
 
-## *Creating and Venerating Divine Icons*
+## Creating and Venerating Divine Icons
 
 Most icons are mundane, though beautiful, objects of pious veneration and aids for prayer directed to the figure depicted they are *eikons*. This is represented in game turns as a bonus to prayers to that particular saint (see *Realms of Power*: *The Divine*, page 87). The icon must be crafted as a single painting (described in *Art & Academe*, page 117). Only those who have taken Holy Orders and have a score in Ability Theology of 3 or more can create eikons.
 
@@ -4858,13 +4858,13 @@ The formula for creating an eikon is:
 
 **Aesthetic Quality: Dexterity + Craft (Painting) + bonuses** 
 
-#### *The Theban Tribunal*
+#### The Theban Tribunal
 
 This generates its **Aesthetic Quality** (as described in *Art & Academe*, pages 123–125). An additional bonus (+1 for Standard work or +3 per Excellent crafts result) to Aesthetic Quality may be granted per season of work in gilding, bejeweling, or likewise decorating the icon appropriately, if spent by talented craftsmen specialized in those abilities. A Pious personality trait may also be employed as a bonus to Aesthetic Quality if the saint depicted is the patron saint of the artist.
 
 Eikons of saints give a bonus to intercession rolls when invoking a saint (see later)*.* The bonus is equal to the Aesthetic Quality
 
-## *Holy Tradition: Hesychasts*
+## Holy Tradition: Hesychasts
 
 Troupes using the rules in *Realms of Power: The Divine* in their saga may wish to represent hesychasts in game terms. In 1220 there are two distinct modes of hesychast practice. The ascetics follow the traditional lives of hermits and renunciates, and live apart from their fellows. The monastics incorporate hesychast practice into the Divine offices of monastic life. They have slightly different favored abilities, as follows, reflecting the different focus of individual and communal paths to the Divine.
 
@@ -4872,11 +4872,11 @@ Troupes using the rules in *Realms of Power: The Divine* in their saga may wish 
 
 The Holy Tradition is found exclusively among monks and possibly some nuns. There are at this time no Latin practitioners. Hesychasts are prone to the Divine Gloom form of Divine Ascent, from the very first time they experience it (see *Realms of Power: The Divine*, page 63).
 
-## *Story Seed: Death of an Artificer*
+## Story Seed: Death of an Artificer
 
 When Simon of Newmarket is found dead in the back streets of Constantinople, his body hacked apart and his remains thrown down a disused well, political tensions run high. He was travelling to the covenant of Ingasia to discuss the location of the next Verditius Contest, which has caused much disagreement in the house between pro-Verdi and pro-Ingasia factions. The characters may be suspects, magistrates, or foreign Quaesitors investigating the crime. Eventually the cause of his death becomes clear — Simon was not killed in a Hermetic political assassination, but died because of the broach he wore on his cloak, which was prominently marked with Verditius runes. A frightened mob killed the suspected sorcerer, The Gift and his blatant spellcasting exacerbating their fears.
 
-## *Society of Cyprian and Justina*
+## Society of Cyprian and Justina
 
 **Favored Abilities:** Holy Magic, Invocation, Sense Holy/Unholy and Wonders
 
@@ -4892,7 +4892,7 @@ In either case, the veneration of the icon requires an hour of peaceful contempl
 
 > **Emergency Veneration Roll: Presence + Concentration vs Ease Factor 15**
 
-#### *The Sundered Eagle*
+#### The Sundered Eagle
 
 Angelic or saintly miracles occur at a time decided by the entity venerated, not necessarily immediately. So one might venerate an eikon of St. George the morning before going out to fight a dragon, and receive the effect of his Power at the time of the conflict.
 
@@ -4904,7 +4904,7 @@ Eikons do not possess Divine Might.
 
 The *acheiropoieta* are icons not made by hand, but spontaneously generated by the power of the Divine. They are usually found in Dominion auras of strength 10, or are brought from Heaven by angels. Invariably of Christ or the Virgin, they are always powerful relics. The best known spontaneous image of this type in the West is the Veil of Veronica, and in the Orthodox world the *Mandylion*
 
-## *The Relics of Constantinople*
+## The Relics of Constantinople
 
 Before the fall of Constantinople, the city held the largest collection of relics in Christendom. Many of these have been taken by the conquerors and sent back to Western Mythic Europe, but a good number still remain. Several relics are quite potent, stronger than both standard relics (the Minor General Virtue: Relic) and more powerful relics (the Major General Virtue: Powerful Relic found in *Realms of Power: The Divine*, page 35). Examples are provided below. Characters should not start the game possessing these relics, unless extreme circumstances exist in the troupe (for example, one of the player characters is Otto de la Roche).
 
@@ -4944,7 +4944,7 @@ Icons can also be affiliated to other realms — Magic, Infernal, or even Faerie
 
 The power of these false icons usually resides in the item itself; they do not, as with true icons, act as channels to an entity, though demons are usually attracted by misapplied veneration aimed at them. They are therefore best represented as supernatural creatures with a Might score and powers.
 
-## *Three Symbols of Divine Authority*
+## Three Symbols of Divine Authority
 
 The Byzantine Empire has been under the auspices of the Divine realm since the Battle of Milvian Bridge, when Constantine the Great abandoned his pagan heritage and fully embraced Christianity. The emperor is the representation of God on earth, His vicegerent who rules through divine mandate. If an emperor is murdered, it is a sign that he has lost God's favor, and if the murderer then accepts the purple and is crowned the new emperor, God's grace has descended upon the new ruler. In Mythic Europe, this means that the emperor, whatever actions brought him to the throne, is a representative of God and gains the powers of other Christian rules, as defined in *Realms of Power: The Divine*, pages 42–43.
 
@@ -4966,7 +4966,7 @@ The hagka is the imperial symbol of the Byzantine Empire, depicted as a doublehe
 
 The hagka is a bronze effigy mounted atop a long lance, with a portrait of the Blessed Virgin Mary hung from it. By itself it confers a Magic Resistance of 10 to the bearer. If used in connection with the imperial crown and the battle standard, the Magic Resistance is spread to every friendly unit within Sight Range, and the Discipline and Moral bonus is boosted to +6.
 
-## *Byzantine Saints*
+## Byzantine Saints
 
 The veneration of saints and the invoking of their intervention from God are a major component of the Orthodox Church. Having survived the Iconoclasm, images of saints and their relics flourish. Technically, there is no difference between Byzantine saints and the saints of Western Mythic Europe; the Greeks venerate all saints and don't exclude saints popular in the West from their calendars. They do have a preference for Eastern saints, especially martyrs of the Eastern Roman Empire, but would never ignore the apostles, the Blessed Virgin Mary, or any of the holy martyrs.
 
@@ -5010,11 +5010,11 @@ The only ways to remove a mother's curse are by completing the assigned task tha
 
 
 
-## *Hermetic Leagues*
+## Hermetic Leagues
 
 Given the importance of theology and religion in the Theban Tribunal region, it is unsurprising this is reflected in the Hermetic politics. Chapter 3: Order of Hermes, The Leagues of Thebes details several leagues, and another is given below.
 
-## *The League of Constantine*
+## The League of Constantine
 
 The League of Constantine desires to restore the Roman Empire by restoring a Greek emperor to the throne. Its members have uncovered the Infernal influences that led to the city's fall, and suspect that the missing hagka is vital to accomplishing their goal. Their immediate goal is to search the enemy Bulgarian territories for Isaac Alexios' missing battle standard, hoping that it will provide clues to where the hagka may lie.
 
@@ -5022,13 +5022,13 @@ In the long run, the League of Constantine is correct. The city has suffered due
 
 Unfortunately, the league has not accurately determined who was under the influence of Infernal manipulation. Demons, being the masters of guile, have remained immune to the league's investigative spells. Determining that demons were involved in the city's fall was easy, identifying who the specific culprit is has been impossible. The league suspects certain individuals but cannot provide definitive proof. Coupled with this inability to distinguish between allies and enemies, the hagka could be anywhere. The league doesn't know if the artifact is whole, or has been split into several parts. It could be hidden in a crusader's treasury, secreted away in a Greek monastery, buried under a pile of rubble in the burned-out Venetian quarter, or laying at the bottom of the Bosporus.
 
-## *The Hagka, Protector of Constantinople*
+## The Hagka, Protector of Constantinople
 
 The Hagka, the two-headed eagle, is not merely the great symbol of Byzantium, but is also a real creature, an immensely powerful Divine beast. Native to the mountains of Asia Minor, it was called upon by Byzantine folk, emperors and peasants alike, in defense of their lands. This splendid and awe-inspiring beast is large enough to flatten a small house or carry off a man in each of its claws. Its feathers shine with the light of the heavens and its gazes strike terror into the hearts of enemies, causing wicked men to fall to their knees and beg for forgiveness. After the Hagka failed in its battle to protect Constantinople (see Chapter 12: Infernal Landscape, Akgah), it was forced to flee the great city and retreated to the wilderness of Asia Minor, where it remains the protector of the Empire of Nicaea. The great eagle is weakened, but still has a Divine Might of 40. It bears sore wounds that will not heal and its brilliant white feathers remain soiled until the empire is restored. It will nurture and protect any pious Greek who is loyal to the empire but is an enemy to Latin crusaders, unless they are truly repentant.
 
 The symbolic hagka, a representation of this legendary beast, may be seen in the coat of arms of the great city of Constantinople, clutching a cross and an orb in each of its claws, signifying Divine and imperial authority, respectively. The two heads look both to the west and to the east. It is also often depicted on battle standards (see main text) or in stained glass windows in churches in colors of gold or purple.
 
-## *Greek Saints*
+## Greek Saints
 
 *Realms of Power: The Divine* divides saints into three categories: greater, area, and local saints. Greater saints have a Divine Might of 75, area saints a Divine Might of 50, and local saints a Divine Might of 25.
 
@@ -5055,9 +5055,9 @@ The symbolic hagka, a representation of this legendary beast, may be seen in the
 - **Saints Cosmas and Damian**, twins known as Unmercenary Physicians (they healed the sick for no pay), they are saints of physicians and suburban Constantinople.
 
 
-## *Chapter Twelve*
+## Chapter Twelve
 
-# *The Infernal Landscape*
+# The Infernal Landscape
 
 The Theban Tribunal has suffered greatly from the machinations of the Infernal realm. The situation is not black and white; no single enemy or army is entirely composed of demonic forces ravaging the lands of the good. But Infernal agents have seeped into every faction, including the Order of Hermes, and spread moral rot and earthly corruption.
 
@@ -5065,7 +5065,7 @@ oughly corrupted his empire and sowed the seeds of conflict with Venice and Mont
 
 and outraged. Thus Andronikos both thor-
 
-## *The Corruption of the Byzantine Empire*
+## The Corruption of the Byzantine Empire
 
 At the beginning of the 12th century the Byzantine Empire was slipping into decadence and decay. By the end of the century, it was beset by familial infighting, greed, and wars, and had made powerful enemies in the West. Inundated by selfishness and the personal depravity of some of the emperors, demonic agents finally gained a firm foothold when Emperor Andronikos Komnenos fully embraced an Infernal patron.
 
@@ -5073,7 +5073,7 @@ Exiled after plotting against his cousin Manuel, Andronikos Komnenos faced the p
 
 Immediately upon assuming the throne, Andronikos had his rivals brutally murdered. One victim, Renier of Montferrat, was the younger brother of Boniface, who would later become the leader of the Fourth Crusade. Andronikos set loose a great orgy of violence in Constantinople, staring with the Venetian merchants and spreading to include all Westerners; tens of thousands of Latins were slaughtered. The Republic of Venice was naturally horrified
 
-## *The Corruption of the Fourth Crusade*
+## The Corruption of the Fourth Crusade
 
 The Fourth Crusade was established with the noble aim of recovering the Holy Land. Yet it would totally fail to achieve its goal and instead end in tragedy and infamy. Certainly it was not God's hand that directed this fate, but rather the Infernal, which subtly manipulated a small number of key events to devastating effect. All parties involved — be they Latins, Venetians, or Greeks — had Infernal saboteurs within their ranks, making it impossible to label anyone entirely good or evil.
 
@@ -5085,7 +5085,7 @@ With the knights removed from Divine protection, the Infernal could now operate 
 
 The final piece in the puzzle was the rebellious Byzantine prince Alexios Angelos, who had allied himself with the crusade in the hopes of gaining the imperial throne. Was he a diabolist or merely the unwitting pawn and beneficiary of Infernal aid? He had long pleaded with Western rulers for aid in taking back the throne, but his pleas had been met with scorn. Now, however, he suddenly had the ear of the leaders of the crusade and was in possession of the money that they needed to repay their debts. Reduced in numbers, indebted, excommunicated, tired, and impatient for a proper fight, the crusaders ultimately agreed to his offer. The city of Constantinople was fabulously wealthy; if they took it Alexios would repay their debts to the doge, they would restore a rightful prince to his throne, and they would avenge the murders of Boniface's brother and the slaughter of the Venetians and other Westerners twenty years ago.
 
-## *The Fall of Constantinople*
+## The Fall of Constantinople
 
 The crusading army reached the city in 1203. It looked as if a peaceful conquest was possible when the Byzantine emperor, Alexios
 
@@ -5098,7 +5098,7 @@ Next spring, the crusaders resolved to take the city by force. The violence and 
 
 One of the great prides of House Jerbiton was Thermakopolis, an urban covenant of five Jerbiton magi lead by the Archmagus Mathieus. Settled within Constantinople, Thermakopolis pledged itself to the preservation and protection of the city. Despite the atrocities and threats of the 12th century, and the foul machinations of the royal family, the magi of Thermakopolis promised that the city would continue and that any noted evils were merely ripples in an otherwise tranquil sea. They told the magi of the Theban Tribunal to set their anxieties aside, and that they would protect the city no matter what the threat. They vowed that all was well even as
 
-## *Akgah, the Demon of the Fourth Crusade*
+## Akgah, the Demon of the Fourth Crusade
 
 The events described in the main text were orchestrated by a prince of Hell known as Akgah, and proceeded according to its grand malefic design. Akgah is the counterpart and enemy of the Hagka (see Chapter 11: Divine Landscape, The Hagka). Its physical form is that of a double-headed winged leopard as large as an elephant, a perversion of the winged lion that symbolizes the Republic of Venice. Its splendid sweet-smelling fur is mottled gold and black, and it has great golden wings. Those who accompany it are overcome with greed, lust, and a frenzy for battle. As the crusaders swept into Constantinople in the spring of 1204, the great leopard did battle with the Hagka in the legendary Hippodrome, surrounded by the statues of ancient gods and beasts. The struggle was cataclysmic, resulting in the partial destruction of the arena and its ornaments. But the Infernal combatant ultimately won the day, and the wounded Hagka fled. Deluded Crusaders nearby thought they were witnessing a Divine vision of the triumph of the lion of Venice, and were emboldened. Now, Akgah aims to maintain a state of war and chaos in the lands of the former empire, and sows the seeds of mistrust and avarice among the rival successor states.
 
@@ -5115,7 +5115,7 @@ In 1220, Thermakopolis is the greatest shame of House Jerbiton. For all their pr
 Just like Andronikos Komnenos before them, most of the victorious leaders of the crusade were not rewarded with a long rule, but instead quickly met their doom after they had served Hell's purpose (either wittingly or not). Enrico Dandalo, the Doge of Venice, died the next year, as did Baldwin of Flanders and Louis of Blois, at the Battle of Adrianople. Louis was killed by a Cuman force and Baldwin was captured and later executed, his skull being turned into a drinking cup. Boniface of Montferrat was slain in an ambush two years later and his head was sent to the Bulgarian tsar as a trophy.
 
 
-## *An Enemy Within*
+## An Enemy Within
 
 Unknown to all, Proximios of House Mercere — member of the covenant of Alexandria, co-founder of the League of the Vigilant, and likely nominee to be the next logothete — is an Infernalist. He is an expert at the Unholy Method: Incantation and the Unholy Power: Diablerie, and has a long list of demons' True Names, who he can enlist in his evil designs. He frequently uses summoned demons as spies and lures, controlling various Tempters and Evil Spirits and ordering them to compel his fellows to sin. Proximios' ultimate plan is the complete downfall of the Order of Hermes starting in Thebes. He knows that the Tribunal is full of magi who would detect any obvious Infernal machinations, making him work covertly and patiently. He has begun looking for weak links in each covenant in the Theban Tribunal, hoping to spread corruption and distrust. His position at Alexandria has allowed him to gain information from several missives and private correspondences between magi.
 
@@ -5132,7 +5132,7 @@ Proximios can easily be the main enemy in a saga set in the Thebes Tribunal. He 
 
 The following Infernal creatures are unique to the Theban Tribunal.
 
-## *The Vrykolakas*
+## The Vrykolakas
 
 One of the most feared of the supernatural denizens of Greece is the *vrykolakas* (plural *vrykolakes*), or vampire. It is a common tradition for families to exhume their deceased relatives after three years and place the bones in a small box or *coemeterion* ("house of sleep"). However, sometimes the flesh doesn't dissipate in this time, and the family releases a vrykolakas from its sleep. The demon, who has eaten the
 
@@ -5143,13 +5143,13 @@ Those who are most prone to becoming host to a vrykolakas after death are those 
 
 With its ability to blend into society without fear of detection, the vrykolakas often sets up trade in a nearby village where it will not be recognized. They are fearful predators, first eating the flesh and drinking the blood of the relatives of the corpse, then ranging further abroad. An area with a vrykolakas suffers a general decline in health and vitality as it feeds at night on both livestock and on men. Like all demons, they can be repelled with symbols of faith, but their particular enemies are the alaphroiskiotoi (see Chapter 4: Culture & Customs). A vrykolakas is unable to harm anyone who was born on a Saturday, and those of this group with Second Sight can always spot a vampire in human or spiritual form. In different regions, the vrykolakas also goes by the name of timpanios (after the drum-like skin of a bloated corpse), alitos (indissoluble), and katakhanas (destroyer).
 
-## *The Smerdaki*
+## The Smerdaki
 
 Anything which is unacceptable, foul, or unclean is referred to as *smerdos*. The term is used for adulterated wine, rotten fruit, and decaying meat; but it also refers to unbaptized infants, the offspring of two different races, and a child born out of wedlock. Individuals polluted by smerdos may develop the power of the evil eye or become powerful masters of the maleficia (see *Realms of Power: The Infernal*, pages 102–113).
 
 There is a class of demons called the smerdaki, which are of particular nuisance to shepherds. These demons frequent enclosures, hedges, ruins of houses, and spots where livestock rest. They can appear as men covered head-to-toe in hair, or as rams with black patches on their foreheads. Others take the form of a child with red skin and eyes like those of a cat. The smerdaki terrorize livestock, dispersing the flock. They cause abortions and traumatize
 
-## *Vrykolakas*
+## Vrykolakas
 
 **Order:** Vessel of Iniquity **Infernal Might:** 20 (Corpus)
 
@@ -5197,7 +5197,7 @@ Vrykolakes usually take victims who are on their own, locking them in a grapple 
 
 the genitals of valuable stud animals. Shepherds claim that smerdaki cannot be killed, wounded, or injured in any manner. Since they haunt specific places, smerdaki are avoided by changing pastures and removing the tongues of the bells on the livestock so that the demon is unaware of the ruse. It is believed that those bearing the taint of smerdos become smerdaki, but this is simply peasant superstition.
 
-## *Infernal Tradition: Stringla*
+## Infernal Tradition: Stringla
 
 **Favored Abilities**: Ceremony, Debauchery, Effusion, Phantasm
 
@@ -5206,7 +5206,7 @@ A *stringla* (plural *stringles*) is a variety of witch found in the Byzantine E
 Local stringles gather into covens of 13 members, and they meet in rocky crevasses and echoing ravines to plot their mischief with each other and their stringles demon. This demon apparently has no physical form; it communicates to them as a disembodied voice. The stringles demon is a member of the Order of Deluders, specifically a Watcher (see *Realms of Power: The Infernal*, pages 41 and 64), and will provide teaching in maleficia in
 
 
-## *Smerdaki*
+## Smerdaki
 
 **Order:** Tempters / Evil Spirits **Infernal Might:** 10 (Animal)
 
@@ -5260,7 +5260,7 @@ affect Medium and Light Wounds) *Mephitic Exhalation* (Debauchery/Malediction 25
 
 exhalation. (Base 5, +2 Voice, +2 Group)
 
-## *Infernal Tradition: The Paulicians*
+## Infernal Tradition: The Paulicians
 
 **Favored Abilities:** Ceremony, Debauchery, Diablerie, Malediction
 
@@ -5268,7 +5268,7 @@ The Paulicians are a religious heretical sect living in the great cities of the 
 
 Holding that the material world is the province of Satan, they despise both the Orthodox Church and the Jewish faith. Only the inner circle of the group's leaders knows the truth, that the creed of the Paulicians is more than merely heretical, it is outright Infernal. They yearn for the day when they can raise rebel armies, as their forefathers did in the ninth century. While Paulician communities grow, they are not yet at the point of leading armies. Instead they conspire against both Jews and Christians, denouncing and defaming them in general, and striking against them with Infernal powers when possible.
 
-## *Bibliography*
+## Bibliography
 
 Beaton, Roderick. *The Medieval Greek Romance.* Routledge, London, 1996.
 

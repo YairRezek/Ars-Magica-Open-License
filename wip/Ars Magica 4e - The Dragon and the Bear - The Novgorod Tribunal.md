@@ -17,7 +17,7 @@ Welcome to Russia and the lands of the Novgorod Tribunal! These principalities s
 
 
 
-### *The Dragon and the Bear CREDITS*
+### The Dragon and the Bear CREDITS
 
 **Design:** Simeon Shoul
 
@@ -35,7 +35,7 @@ Welcome to Russia and the lands of the Novgorod Tribunal! These principalities s
 
 **The line developer would like to thank** Jerry Corrick, one of the best reasons to stay in adventure gaming; Lydia Leong, who wrote extra text for this book from her saga notes while speaking at a conference; and Stacey Tidball, for voluntarily taking up a stupid last name in the name of love.
 
-### *About the Author*
+### About the Author
 
 **Simeon Shoul** was corrupted by heroic fantasy fiction and *Dungeons and Dragons* at the age of eleven and his youth was squandered in a state of roleplaying delinquency. During his late twenties he was briefly rehabilitated (mostly because he was living 4,000 miles away from all the roleplayers he knew) but on returning to London in 1992 soon fell back into bad company and contracted the far more insidious *Ars Magica* habit, which he has yet to kick. Sadly, he remains addicted to drawing maps and spending most of his free time pretending to be somebody (anybody) else. He got interested in Medieval Russia because of a morbid fascination with the great disasters of history, of which the Mongols were a sterling example. From there he was lead into a consideration of the development of Poland as a nation and from there into a study of the Teutonic Knights and from there into an examination of the pagan pantheons of Eastern Europe and from there . . . well, suffice it to say that tragically there is no end to this downward spiral in sight. Mr. Shoul has not yet paid his debt to society, and in all likelihood never will.
 
@@ -56,7 +56,7 @@ PO Box 131233 Roseville, MN 55113 [info@atlas-games.com](mailto:info@atlas-games
 
 
 
-# *Table of Contents Table of Contents*
+# Table of Contents Table of Contents
 
 | I: Introduction<br>6                                                                                                                                                                                                   | The Mongol Reconnaissance 150<br>The Return of the Mongols 151                                                                                    |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -242,7 +242,7 @@ South of the forests is a mixed zone, the forest-steppe, a band of plain and pas
 
 South of the forest-steppe lies the true steppe. This is the nomad road from the east, plain and pasture stretching from the Carpathian mountains for thousands of miles, through Mongolia and on to the Pacific coast. The steppe begins about eighty miles south of Kiev and runs due south until it reaches the Black sea. It is characterized by extraordinarily rich black soil.
 
-### *General Climatic Conditions*
+### General Climatic Conditions
 
 There is no significant geographical barrier between Siberia, with its arctic influences, and European Russia. The Ural mountains are the only real highland, and they are old and worn. They are not high enough to block the frigid northern winds that sweep south and west in the fall. In consequence, Russian and Polish winters are very harsh.
 
@@ -254,15 +254,15 @@ The forest regions have winter, with heavy snows, for a good five months. Rivers
 
 Finally, the forest-steppe and steppe have only a three-month winter, though the long reach of the arctic winds blowing south can turn even the Crimea into a snow-locked fastness.
 
-### *Travel*
+### Travel
 
 Travel in Russia follows the rivers. They form an interlocking grid, with well-established portages "bridging" the intervening strips of land. Most roads are abominable. Little more than muddy ruts in spring and autumn and dusty pathways in the summer, they vanish under winter's snows. Conditions in Poland are similar, but the river network is less naturally useful, and as German influence increases in the 13th century, roads gradually improve.
 
-### *Wilderland*
+### Wilderland
 
 Low population and moderate levels of agriculture have had little effect on the overall vitality of the environment, nor have they remotely tamed it. Away from the heavily settled river valleys the traveler will swiftly find himself lost in a frontier land of sparsely settled dells and trackless woods. One wilderland area of particular interest is the Pripet Marsh. This lies about a hundred miles to the northwest of Kiev, and out of it flows the Pripet River. There is no other area of freshwater marsh in Europe that remotely approaches the size of the Pripet: nearly 200 miles east to west and 150 north to south of reed bed and waterway, wandering channels, and vanishing rivers. The Pripet, like the northern forests, is primal wilderness, rich with mystery and hidden dangers.
 
-### *Natural Resources*
+### Natural Resources
 
 The Russian and Polish lands are rich in a wide variety of natural resources. Timber is the paramount building material; furs, amber, honey, wax, and slaves are the prime trade goods. Iron ore is available in the swamps and shallow marshes. The rivers overflow with fish, as do the many large and small lakes, while game of all kinds is readily available in forest and plain.
 
@@ -407,7 +407,7 @@ pierced the three levels of existence: Heaven, Earth, and Hell.
 
 What follows is a list of the major deities of the Slavs, with a few notes on their important attributes. For more detail see Appendix II, which begins on page 177.
 
-### *Major Slavic Gods...*
+### Major Slavic Gods...
 
 **Svarog:** King of the gods; a sun god of cosmic light, sun, and fire
 
@@ -427,7 +427,7 @@ What follows is a list of the major deities of the Slavs, with a few notes on th
 
 **Mokosh:** Goddess of liberation and redemption; one of the few female divinities
 
-### *...and Others*
+### ...and Others
 
 The Slavs worshipped three other sorts of beings.
 
@@ -435,11 +435,11 @@ The Slavs worshipped three other sorts of beings.
 - **Natural Objects:** Particular rocks, trees, ponds, rivers, and lakes, all of whom possessed spirits (that is, faeries), many of them benevolent. There were spirits in the home and wilder, more mysterious spirits in the wilds.
 - **Animals:** Deer and horses were popular totems, but any creature could serve as a spiritual protector.
 
-### *The Volkhvy*
+### The Volkhvy
 
 The priests of the ancient Slavs were called Volkhv (plural: Volkhvy). They performed ritual sacrifices, gave prophecies, and practiced surgery. They were also gifted sorcerers. They could shapechange, travel vast distances in an instant, and hide themselves in conjured mists. Any tribal council of elders was composed mostly of Volkhvy.
 
-### *Magic of the Living World*
+### Magic of the Living World
 
 To the Slavs the world and the objects within it were alive, and sacred.
 
@@ -535,7 +535,7 @@ Christian and was stricken with remorse at Oleg's death. Vladimir, meanwhile, ga
 Vladimir was now sole ruler of Russia and soon proved himself a capable one, cannily sending his dangerous Varangian followers out of the country, and then securing his position by reinstating official, wide-scale paganism. Statues of the Old Gods were set up on the hills around Kiev, embellished with gold and silver. From his campaigns against the Poles, Lithuanians, and Volga Bulgars he acquired prisoners who were offered as human sacrifices.
 
 
-### *The Missions to the Slavs*
+### The Missions to the Slavs
 
 Byzantium was always the most active Christian missionary force among the Slavs. The great Patriarch Photius sent two eminent brothers, Constantine the Philosopher and Methodius to the north. Constantine, better known as Cyril, was a particularly outstanding thinker, preacher, and linguist, and translated the gospels into the Slavic tongue. To this end he had also composed a new alphabet, the "Cyrillic."
 
@@ -560,7 +560,7 @@ From 1019 until 1036 the realm remained divided. By and large the two senior bro
 
 Iaroslav ruled until 1054, and is remembered as Iaroslav "the Wise." He fought a variety of campaigns against northern tribes such as the Iatvigians, struggled with the Byzantines and Pechenegi, and allied with the Polish king Casimir (the Restorer). Alas, he had too many sons and the ablest of them, Vladimir, died before him. On Iaroslav's death, the realm was divided again.
 
-### *Parallel Inheritance and the Principle of the Seniorate*
+### Parallel Inheritance and the Principle of the Seniorate
 
 The medieval Russians and Poles did not practice primogeniture. Instead, they followed an ancient Slavic law known as parallel inheritance, or (as the Poles came to call it) "the principle of the seniorate." Among the ancient Slavs, any piece of land was held in common by a specific Zadrugya. Each Zadrugya would have a designated leader, commonly the eldest male. When that man died, his property passed in equal portions to his brothers first, and only later to his sons. Meanwhile, his authority would pass to his next oldest male relative, usually a brother.
 
@@ -631,23 +631,23 @@ The most important area in the city is the Great Marketplace, where the Veche
 
 
 
-### *The Russian Orthodox Church*
+### The Russian Orthodox Church
 
 Generally, the Russian Church preached tolerance. Though there were Western churches in Russia, and many Jews, there was relatively little friction. The church strove to outlaw slavery, and to mediate the princely squabbles. They were also the scholars and teachers of Russia. However, this was scholarship from the Greek tradition, not the Latin. An educated churchman spoke and read Church Slavonic first, Greek second, and Latin a distant third.
 
 As it was Western, very little needs to be said about the Polish Church. Interested readers are referred to *Mythic Europe* and *Pax Dei.* The Russians, however, turned to the East, giving their church a distinctly different spirit and organization. One important difference was that their clergy were of two distinct sorts, the "white" and the "black" (though it is important to note that these distinctions were informal and not canonical designations).
 
-### *The White Clergy*
+### The White Clergy
 
 The white clergy performed all of the parish duties and menial work. They were ordained as priests (usually elected by their congregations), as deacons, and as junior church officials. The white clergy were required to marry.
 
 The organization of parish churches in Russia was very weak. Few villages had a church and priest of their own. Instead they would be served by an itinerant priest, who was doing well if he managed one visit to each village once each year.
 
-### *The Black Clergy*
+### The Black Clergy
 
 The black clergy were monks. Each was attached either to a monastery (usually close to a city) or to a cathedral. They were celibate and automatically took precedence over the white. Only members of the black clergy became bishops. They followed the tradition of St. Theodosius, and the clearest statement of their credo was made by Abbot Feodosi of the Monastery of the Caves (near Kiev): "Prayer, humility, work, charity." These were the key to a life of devotion. A very few monks did follow the alternate teachings of St. Anthony, which stressed seclusion, poverty, and mortification, but they were a small minority.
 
-### *The Metropolitan and the Bishops*
+### The Metropolitan and the Bishops
 
 A Metropolitan was the leading bishop of any province subject to the Patriarch of Byzantium. The senior cleric in Russia was the Metropolitan Bishop of Kiev.
 
@@ -667,15 +667,15 @@ Maksim 1283-1305
 
 The second-ranking bishop was the Archbishop of Novgorod. Then there were the "common" bishops. By the beginning of the 13th century there were sees in Belgorod, Chernigov, Galich, Peremyshl,
 
-### *The Russian Orthodox Church, Cont.*
+### The Russian Orthodox Church, Cont.
 
 Pereyaslavl, Polotsk, Rostov, Ryazan, Smolensk, Suzdal, Turov, Vladimir-in-Suzdalia, Vladimir-in-Volinia and Tmutorokan. In 1261 the Metropolitan Kirill II will create a new see, at Sarai, the capital of the Mongol Golden Hoard.
 
-### *Canon Law*
+### Canon Law
 
 The clergy in general were subject only to the judgment of their bishops. However, legal conflicts between the church and lay people were always bought before a mixed court.
 
-### *Saints*
+### Saints
 
 Several saints have already been mentioned. They are listed here, along with several others who were popular, and their western equivalents. This list also indicates the pagan gods (in parentheses) who became confused with specific Christian saints.
 
@@ -711,11 +711,11 @@ Monastic tradition
 
 **Vlas:** (Volos)
 
-### *The Position of Women*
+### The Position of Women
 
 Eve was the agency of Adam's fall from grace. It therefore followed that she was the devil's vessel and women were accordingly tainted. On the other hand the worship of Mary, the Mother of God, was elevated in the Eastern tradition. This tended to glorify woman as authors of salvation. These difficulties aside, there were many convents in Russia. Outside the royal houses they were practically the only venues within which women could win education.
 
-### *The Eastern Church and Magic*
+### The Eastern Church and Magic
 
 The priesthood in Russia has had a long and frustrating fight with stubborn pagan hold-outs and the Volkhvy. While officially tolerant of Islam and Judaism, they are altogether set against paganism of any kind. Their view of magic is heavily influenced by this, although unlike the Western Church, they have no tradition of inquisition.
 
@@ -783,7 +783,7 @@ Pereyaslavl was the battleground where the nomads were fought. The principality 
 
 This little western principality never had much to build on, as most of its territory is
 
-### *City Government*
+### City Government
 
 Any big city of Russia has three principle segments of government.
 
@@ -935,21 +935,21 @@ By now the idea of Poland as a kingdom, with a single sovereign king, had become
 When the century began there were four great lords. Each was a Prince of the House of Piast, and they styled themselves Dukes. Leszek the White of Sandomierz ruled in Krakow as Grand Duke. Henry the Bearded ruled Silesia from Wroclaw. Conrad of Mazovia, Leszek's brother, ruled in Mazovia/Kujavia, and Wladislaw Spindleshanks ruled in Great Poland.
 
 
-### *Leszek the White*
+### Leszek the White
 
 Leszek the White seized Krakow after the death of Miesko the Old in 1202. He was an able ruler, who sponsored considerable settlement around Lublin. For much of the early part of the century he sparred on the battlefield with Henry the Bearded. Politically however, he looked mostly east. After defeating Prince Roman's invasion in 1205, Leszek was drawn firstly into intrigue on his southeastern border, then into outright invasion of Volinia (1214 to 1218). He could not, however, hold back Roman's son Daniil, who successfully pushed out the Poles in 1218. Leszek also failed to prevent the establishment of an independent Pomeranian principality. A native prince, Swietopelk, established a small state there, which he ruled from 1220-1266. Swietopelk bowed to no-one and crusaded aggressively against his pagan neighbors, winning Papal support. In 1227 Leszek took the field, vowing to topple his rebellious vassal. The campaign was not successful, and Leszek was killed during the withdrawal.
 
-### *Conrad Of Mazovia*
+### Conrad Of Mazovia
 
 In Mazovia, prince Conrad (who reigned until 1243) was bedeviled by Prussian and Jadzwing raids. He turned to the crusading orders for help, and in the early 1220's invited Herman von Salza, Grand Master of the Order of Teutonic Knights, to enter the Prussian districts on Crusade. Conrad sweetened the deal with an offer of land near Chelmno.
 
 Von Salza wanted more than the right to go on Crusade. He obtained grants from both Emperor Frederick II and Pope Gregory IX, allowing him to set up a permanent, independent establishment in the conquered territories. When the Crusade finally went forward (from 1230) von Salza acted with full Polish and Pomeranian support, but all the gains made were on behalf of his Order. By 1245 the Teutonics had established Bishoprics in Kulm, Pomerania, Warmia, and Swabia. They followed up outright conquest by construction of strategic citadels and encouraged German settlement.
 
-### *Wladislaw Spindleshanks*
+### Wladislaw Spindleshanks
 
 Wladislaw Spindleshanks lost territory steadily to Henry the Bearded, and his only real success came after Leszek the White died. Leszek's son was a child, and Krakow fell under the authority of a dozen local lords, who eventually elected Wladislaw. Unfortunately, he found Krakow hard to dominate, the lesser lords paid him little heed, and eventually his resistance to the increasing pressure of Henry the Bearded failed. In 1231 he quit the capital.
 
-### *Henry the Bearded*
+### Henry the Bearded
 
 Everything that has so far been said about the 13th century must be judged against the gradual advances and expansion of Henry the Bearded, who succeeded to the rule of Silesia in 1201. Using German aides and scholars intensively, he developed his lands and reaped the benefits in steadily improving manpower and resources. In 1205 he set out to bring 10,000 peasant families in to settle 400 new villages. These villages were exempted from all taxation and obligations during a start-up period of several years. Later, they would owe rent, tithes, and military service, and some very minor labor dues. The new villages throve, and provided increased military power. Henry's wars reached a peak around 1215-1225, when he gained provinces in Great Poland and Upper Silesia. In addition Henry took Lubusz from the Germans.
 
@@ -958,19 +958,19 @@ Henry never managed to overwhelm Leszek the White, but Wladislaw Spindleshanks o
 The moment was ripe to step up from the title of Grand Duke and seek a crown.
 
 
-### *German Influence*
+### German Influence
 
 German ideas about a natural dominion in the Slavic lands were pure arrogance, but their estimation of Polish backwardness in many vital areas came closer to reality.
 
-### *Engineering*
+### Engineering
 
 The Poles were ready to move away from wood as their principal building material. Castles and town fortifications were improving rapidly. Improved building, mining, and drainage techniques came into Poland via Germany.
 
-### *Law*
+### Law
 
 German law and scholarship had been heavily influenced by Christianity and the Roman tradition. Concepts of contracts, writs, and legal forms were all useful to the Polish princes in bringing a more sophisticated level of organization to their territories. Furthermore, the Germans had great success founding new towns and villages by offering settlers very generous, liberal charters (this was sometimes known as Magdeburg Law, or *locatio civitatis*). Magdeburg Law accelerated the incorporation of cities and extension of city rights, such as the establishment of the guild system and local law courts.
 
-### *Agriculture*
+### Agriculture
 
 The Germans had perfected the three field system. One third of the land was allocated to winter crops, one third to spring crops, and the last third left fallow or used as grazing pasture for cattle. This was distinct from the traditional two field system (half fallow, half sowed with crops).
 
@@ -1049,33 +1049,33 @@ As Bernard explained, Satan was always tempting man to evil. Only the monk, form
 
 How did the militant orders achieve their successes (which were notable), with such relatively small numbers of soldiers?
 
-### *Permanence*
+### Permanence
 
 Normal crusaders were accustomed to taking the cross for a limited period of time. They might win brief successes, but there was always the problem of holding conquered lands and controlling subject peoples. The militant orders solved this problem because they stayed put. They built castles, roads, and strongholds and settled in to police and evangelize their new vassals.
 
-### *Discipline*
+### Discipline
 
 Poverty, Humility, Chastity, and *Obedience* — the militant orders were not troubled by command disputes. Each monk had sworn a lifelong vow of obedience, and at least upon the battlefield this vow never failed them.
 
-### *Recruitment and Manpower*
+### Recruitment and Manpower
 
 The Orders recruited widely, but carefully. They were popular, and could choose the best. Men were selected for proven battle skills, administrative ability, and piety. Should they suffer a major defeat there were always more men eager to join.
 
-### *Systematic Training*
+### Systematic Training
 
 The Orders lead communal lives; they were in constant training, and near constant battle. Their opportunities to form genuinely solid, effective battle groups were much better than usual.
 
-### *Resources*
+### Resources
 
 By 1200 changes were taking place in the crusading movement as a whole. Previously nobles who took the cross were obliged to crusade within a certain time limit. More and more, however, nobles were making crusading vows and then finding reasons to stay at home. Gradually, nobles were permitted to find substitutes, whom they would outfit and fund, to fulfill their vows. Over time, it became acceptable simply to pay money. Since the nobles received remission of sins for their crusading vows, there were some in the church who muttered that this was tantamount to selling absolution. Still, if one wanted to make a contribution to the crusading effort *and* the church then the best way was to sponsor one of the crusading orders.
 
 Aside from money, nobles also gave land. By 1220 the Teutonic Order had estates in Palestine, Armenia, Greece, Spain, France, and Germany. Though individual brothers were sworn to poverty (a member could not own the sword he swung nor the horse he rode) the Masters of the order lived lives rich in pageantry, and the order commanded great resources.
 
-### *Ecclesiastical Support*
+### Ecclesiastical Support
 
 The major orders were answerable only to the Pope. For over a century, Papal bulls, legates, and lawcourts consistently found for the militant orders against various royal, noble, and clerical opponents. They were also supported by the Cistercians and Dominicans.
 
-### *A Wrathful God*
+### A Wrathful God
 
 Throughout the militant orders' domains the Divine aura was almost constantly Wrathful in Temper. Whenever the
 
@@ -1145,7 +1145,7 @@ By last minute diplomacy the Bishop and the Danish King settled their difference
 
 In 1224 Bishop Albert appealed to the Pope to send a Legate to resolve the territorial and jurisdictional problems in the north. In response the Pope sent William of Modena, a Papal vice-chancellor, to hear and settle all disputes.
 
-### *William of Modena*
+### William of Modena
 
 William of Modena arrived in Livonia in 1225 and embarked on a thorough investigation. He spared no effort and remained immune to all forms of bribery and intimidation.
 
@@ -1170,7 +1170,7 @@ Pope Gregory IX was not pleased by Baldwin's report and sent him back with enhan
 Baldwin fled to Rome and charged the Knights of the Sword with disobedience, rebellion, and heresy. The Pope was furious. He relieved Baldwin of his authority and ordered William of Modena back to Livonia. William arrived in 1234 and instituted a new division of estates, giving more to the Knights and establishing Bishoprics in Oesel and
 
 
-### *Ranks in the Teutonic Order*
+### Ranks in the Teutonic Order
 
 Grand Master Grand Commander High Official (Marshall, Hospitaller, Treasurer, Trapier) Senior Knight Commander Knight Commander Knight Brother Priest Brother Half Brother/Sister Sergeant
 
@@ -1248,30 +1248,30 @@ When the Livonian Bishops were released from prison they were quick to accuse th
 
 It is for you to chose just how much and by what means the militant orders were corrupted. They seemed lost to piety, compassion, grace, and mercy. Founded by a group of gentle healers, they had progressed to brutal murders, to laying violent hands on ordained bishops, to rape and theft. But they always had good arguments for their actions and swift counter-accusations against anyone who stood in their way. A few options follow.
 
-### *Holy Fools*
+### Holy Fools
 
 Perhaps the Teutonics were right. Pagans denied Christ. Therefore they were possessed. Therefore baptism by force was exorcism. Therefore it was a sanctified act, and all acts leading to it were likewise sanctified. Having been granted absolution and remission of sin the souls of the crusaders could not be touched by "sinful" acts.
 
 If it suits your saga you can accept this reasoning. Unquestionably many members of the various orders observed the monastic rules rigorously, and fought the inner battle against Satan as completely as they fought the outer. This, perhaps, is the most tragic of choices. It renders the crusade a failure only because the men fighting it lacked a touch of sensitivity, a smidgen of compassion. If they had been able to see when to say "Enough!" and send in the missionaries, all might have been well.
 
 
-### *Brutes*
+### Brutes
 
 Perhaps the crusaders simply lost control. They were vigorous men, caught up in battle lust and harder trials than they could bear. From Righteous Wrath, they strayed into simple, destructive fury. Doubtless after the craze of destruction and raping passed these men were sincerely remorseful and indulged in flagellation, hair-shirting, fasting, and prayers of penance until their tormented souls could know some peace.
 
 
 
-### *Damned*
+### Damned
 
 Perhaps the crusaders were damned. It is, of course, very difficult for a demon to penetrate a Wrathful or Righteous aura. On the other hand, perhaps the auras in the crusading states were not always Wrathful or Righteous. All a demon needs to begin corrupting a Knight is the slightest moment of wavering. Once a demon has a hold it can infect those around the Knight, gradually replacing the local aura with an imitation, drawing everyone down into sin. Eventually, the Divine aura might collapse, allowing the demons to substitute a deceitful wrathful emotion.
 
-### *Diabolists*
+### Diabolists
 
 It could be that the Teutonics and the other militant Orders were nothing more than cunning diabolists. Logically this would seem unlikely. *Pax Dei* stresses how easily a pious crusader can detect Infernal interference or corrupted souls. Page 26 states that in a Righteous aura the great majority of demonically influenced people are detected by pious crusaders on a Perception + Piety simple roll of 8+, while anyone so corrupted as to have False Faith is automatically detected.
 
 The Teutonic Order, however, has a weakness. It is a very rigidly structured organi-
 
-### *Crusading Order Virtues*
+### Crusading Order Virtues
 
 **Man-at-Arms** (+1): You are a non-noble, nonknightly member of either the Brotherhood of the Knights of the Sword (the Sword Knights of Riga), or the Knights of the Bishop of Prussia (the Knights of Drobzyn). You have sworn a vow of obedience to the local Bishop, though your adherence to this vow is very flexible. You begin play with the +1 Virtue Good Armaments and one sturdy horse. This material will not be replaced for free if lost or damaged. You may wear a version of the emblem of your order: a red sword and cross on the left shoulder for the Sword Knights and a red sword and star on the left shoulder for the Knights of Drobzyn. You are forbidden the white mantle of a full knight.
 
@@ -1287,7 +1287,7 @@ If the rot starts at the top it will be very difficult to detect. It will be mor
 
 
 
-### *Crusading Order Virtues, Cont.*
+### Crusading Order Virtues, Cont.
 
 **Knight Brother** (+3): You are a full member of the Sword Knights or the Knights of Drobzyn. You wear a white mantle with an emblem (a sword and cross in red, or a sword and star in red). You have sworn a vow of obedience to your local bishop, though you are seldom obedient to this vow when it is not convenient. Almost all Knight Brothers have the Variable Flaw Enemies (some more than once), reflecting that somebody is very angry with you: your bishop, local burghers, a particular pagan tribe . . . take your pick. You begin play with the +2 Virtue Superior Armaments. You have two good horses and a pair of Men-at-Arms (as above). None of this material or manpower will be replaced for free should they be lost or damaged.
 
@@ -1401,7 +1401,7 @@ In addition to the game effects described below, almost all Volkhvy have concret
 
 All Volkhvy begin the game with the Personality Trait Pagan Belief +3. See page 57 for a few notes on this trait.
 
-### *Historic Folk Beliefs About Magicians*
+### Historic Folk Beliefs About Magicians
 
 Historically, Russian peasants believed that a wide variety of men and women possessed supernatural powers. Some, like the pagan priest-magician volkhv and the magical healer znakhor, were generally considered benevolent. Others, like the fortuneteller vorozheia, were neither good nor evil. Some weren't even necessarily alive — the eretik, for example, was a dead sorcerer who continued to roam the mortal world, inflicting harm upon the living. Sorcerers — the "Dark Volkhvy" of Mythic Europe — were often thought to draw their power not from the pagan forces, but from the Infernal.
 
@@ -1415,7 +1415,7 @@ Volkhv Characteristics may be generated either by the purchase method or by rand
 
 Volkhvy may have up to ten points of Virtues and Flaws, just like other mystic companions. They may select from among any Virtues and Flaws available to other characters, with the elaborations and exceptions given below. When the costs of Virtues and Flaws differ between grogs, companions, and magi, Volkhvy always pay the magus cost.
 
-### *Required Virtue*
+### Required Virtue
 
 Every Volkhv has the "Volkhv" Virtue, which has a cost of +2 and whose effects are described below. No characters other than Volkhv mystic companions may purchase this Virtue; it is not available to other mystic companions or to standard magi, grogs, or companions, save by special permission of the storyguide (which should be considered very carefully before it is given).
 
@@ -1427,7 +1427,7 @@ Every Volkhv has the "Volkhv" Virtue, which has a cost of +2 and whose effects a
 - All Volkhvy have Pagan Conviction (see page 57), which begins at a level of 3 for starting Volkhvy characters.
 - All Volkhvy can use Volkhv magic, including the ability to Commune and cast Improvised and Great Rituals.
 
-### *Recommended Virtues and Flaws*
+### Recommended Virtues and Flaws
 
 The Virtues and Flaws in this section are commonly possessed by Volkhvy, and should be particularly considered when creating Volkhvy characters.
 
@@ -1467,7 +1467,7 @@ Relics gained by this Virtue have a rating of 1. (ArM4 45)
 
 **Susceptibility To Divine Power** (–4) (ArM4 37) **Weather Sense** (+1) (ArM4 43)
 
-### *Unlikely Virtues and Flaws*
+### Unlikely Virtues and Flaws
 
 The following Virtues and Flaws are available to Volkhvy, but they represent life experiences so far outside the normal boundaries of pagan Slavic existence that you will need to justify them carefully and get the approval of the troupe or storyguide.
 
@@ -1501,7 +1501,7 @@ The following Virtues and Flaws are available to Volkhvy, but they represent lif
 
 **Well-Traveled** (+1) (ArM4 43)
 
-### *Forbidden Virtues and Flaws*
+### Forbidden Virtues and Flaws
 
 The following Virtues and Flaws may not be selected by Volkhvy under any circumstances.
 
@@ -1558,7 +1558,7 @@ Conviction changes throughout a Volkhv's life. It usually increases, reaching as
 
 ### Abilities
 
-### *Starting Abilities*
+### Starting Abilities
 
 The following nine Abilities are possessed by all starting Volkhv characters, at the listed scores.
 
@@ -1573,11 +1573,11 @@ The following nine Abilities are possessed by all starting Volkhv characters, at
 The Volkhv character receives (age + 10) additional experience points which can be used to increase the starting Abilities, to round the character out with other Abilities, or to purchase more Conviction. A starting Volkhv can be no younger than 25 without special troupe permission.
 
 
-### *Theology: Slavic*
+### Theology: Slavic
 
 Theology: Slavic is a new Casual Knowledge which describes an understanding of the major Slavic gods; their attributes and spheres of influence; and their sacred items, animals, and plants. Likewise, it includes knowledge of local minor deities, clan totem animals, and the local ancestral cult. As a character's score in Theology: Slavic increases, a greater number of these local and minor deities are known. *Specialties: a specific deity, a specific locality, an area of deific oversight.* (Intelligence, Perception)
 
-### *Conviction and Belief*
+### Conviction and Belief
 
 A careful distinction needs to be made between Pagan Conviction and Pagan Belief.
 
@@ -1586,7 +1586,7 @@ Pagan Conviction is in some ways like True Faith, False Faith, and the Purity sc
 Pagan Belief is a Personality Trait. It signals the basic religious orientation and strength of conviction of a worshipper. An individual can use his Pagan Belief to tap a Slavic faerie aura and perform domestic magic. It bears noting that as a Personality Trait, there are few rules governing its increase and decrease. Storyguides should keep an eye on characters with Pagan Belief to make sure they are not abusing the Personality Trait system in order to gain power for their characters without roleplaying appropriately.
 
 
-### *Unlikely Abilities*
+### Unlikely Abilities
 
 Volkhvy are not allowed to purchase the following types of Abilities during character creation without the special consideration and approval of the storyguide or troupe, and with appropriate explanation in the Volkhv's background.
 
@@ -1599,7 +1599,7 @@ Volkhvy are not allowed to purchase the following types of Abilities during char
 
 As mentioned previously, Volkhv may start at any age greater than 25. Volkhv do not have longevity potions, but they are regularly exposed to powerful faerie forces that greatly enhance their life energies. Volkhvy may subtract their Conviction scores from all aging rolls.
 
-### *Gaining and Losing Conviction*
+### Gaining and Losing Conviction
 
 Throughout a saga, a Volkhv's Conviction will wax and wane as his confidence in the Slavic gods and his fervor in worship of them changes.
 
@@ -1637,12 +1637,12 @@ Communing is the means by which a Volkhv contacts the faerie source of his power
 
 A Volkhv may only Commune with his principal god, as chosen during character creation, with two exceptions. First, a Volkhv may attempt to Commune with any Slavic divinity at a site specifically sacred to that god. Second, a Volkhv may attempt to Commune with any god whose relic he possesses.
 
-### *Establishing Communion*
+### Establishing Communion
 
 To establish Communion, the Volkhv first declares which Slavic divinity he wishes to establish a connection with, usually his principal god. He then performs a short prayer ritual, which usually lasts about ten minutes. Finally, he rolls a die + Pre + Concentration + Conviction + aura. Fatigue and wound penalties also apply. The result is compared to an ease factor figured by consulting the Communion Ease Factor Table on the next page. The die roll that the Volkhv makes is simple if he takes the full ten minutes to enter Communion, or stress if he elects to reduce the duration by any amount
 
 
-### *Volkhv Realm Interactions*
+### Volkhv Realm Interactions
 
 The following chart describes how the four different realms affect all Volkhv powers and effects which include an aura modification.
 
@@ -1661,7 +1661,7 @@ Failure to achieve the ease factor means the Volkhv's efforts are wasted and he 
 
 Note the initial die roll (the Communion Roll) and the Communion Total carefully each time you enter Communion. You will need to recall the former when Communion ends, in order to determine whether the Volkhv is fatigued by his experience, and the latter in case you are magically attacked or need to perceive some supernatural effect while in Communion.
 
-### *Maintaining Communion*
+### Maintaining Communion
 
 A Volkhv cannot maintain Communion forever. Communion is a demanding experience, and requires constant effort to sustain. A relaxed, otherwise unoccupied Volkhv in Communion must make a Concentration check once per hour. A Volkhv involved in a simple or repetitious task (such as conversing, walking, or performing menial labor) must roll every fifteen minutes. A Volkhv involved in complex or dangerous actions (like combat) must check each round. However, unless the Volkhv is jarringly interrupted or distracted, he may always complete at least one Ritual, either Improvised or Great, of any length, before the clock begins to tick and he needs to begin rolling to remain in Communion. If he is distracted, he has to roll immediately rather than waiting for the next interval appropriate to his situation. Any Ritual, Improvised or Great, which is interrupted by a loss of the Communion-state automatically fails, but may still botch. The sole exception to the rule about maintaining Communion is for the period following a successful Great Ritual, known as the Aftermath. See page 73 for more information.
 
@@ -1671,11 +1671,11 @@ It is only necessary to maintain Communion while Rituals are being cast, not for
 
 A Volkhv can always voluntarily leave Communion at any time, with the normal effects (see below).
 
-### *Fatigue Side Effects*
+### Fatigue Side Effects
 
 When Communion ends a Volkhv comes down from an ecstatic state in which he has been drawing power from a god. This can leave him exhausted. Recall your initial Communion Roll (you wrote it down, right?). Add your Stamina. Apply this total to an ease factor of (6 + 1 per magnitude of magical effect created while in Communion). Failure means loss of Fatigue levels. For each 3 points or part of 3 points by which you fail to match
 
-### *Communion Ease Factor Table*
+### Communion Ease Factor Table
 
 ### Base Ease Factor: 12+
 
@@ -1696,13 +1696,13 @@ When Communion ends a Volkhv comes down from an ecstatic state in which he has b
 
 the ease factor you lose one Fatigue level. The maximum effect is loss of consciousness; no other damage can occur from this effect. To summarize, the ease factor – the resistance total ÷ 3 (rounded up) is the number of Fatigue levels lost.
 
-### *Protection Side Effects*
+### Protection Side Effects
 
 A Volkhv who is in Communion gains Magic Resistance equal to his Conviction + aura (as opposed to just his Conviction, as described on page 59). See the Volkhv Realm Interaction Table on page 59 for the specific bonuses and penalties auras give.
 
 A Volkhv who is in Communion also gains Magic Resistance equal to his Communion Total (again, you wrote it down, right?) against all magical effects aligned with the relevant god's principal attribute or attributes, which is cumulative with any other Magic Resistance to which he is normally entitled. For example, Khors is a sun god. Any Volkhv attacked by fire or light while Communing with Khors receives this bonus. The storyguide is, of course, the final arbiter on whether a given magical attack is aligned with a god's principal attributes.
 
-### *Sensitivity Side Effects*
+### Sensitivity Side Effects
 
 A Volkhv in Communion with a god gains sensitivity and may perceive nearby supernatural influences. Each time a Volkhv Communes the storyguide should note the Communion Total and secretly check it against any such influences within range. Standard detection levels are summarized below.
 
@@ -1760,7 +1760,7 @@ The Discipline definitions should make it fairly clear how Volkhv magic differs 
 
 As a final note on the power of the Disciplines, all are resisted normally by beings with magical resistance: magi with Parma Magica, creatures with Might, and other beings with any other form of Magic Resistance. The effects of Rituals, except where otherwise noted, are resisted just like spells are, as described in ArM4, pages 72-73.
 
-### *Spirit Touch*
+### Spirit Touch
 
 Spirit Touch allows a Volkhv to communicate with spiritual and supernatural beings or forces, including but not limited to ghosts, spirits, elementals, faeries, and demons. As a general rule of thumb, a Volkhv can use Spirit Touch to communicate with a being associated with the magical, Faerie, or Infernal realms.
 
@@ -1772,18 +1772,18 @@ Spirit Touch is entirely separate from Communing. Volkhv may Commune with (and t
 
 *Hermetic Equivalent: InMe, ReMe, ReVi*
 
-### *Healing*
+### Healing
 
 Volkhvy can heal humans — but not animals or any other sorts of beings — through the use of this Discipline. Healing can include the healing of Body levels, diseases, or specific injuries (sprains, fractures, burns, and so forth). Volkhvy Healing does not suffer from the vis requirements of Hermetic healing; these effects can be made Instant or Permanent in duration without vis.
 
 *Hermetic Equivalent: CrCo*
 
-### *Shapeshifting*
+### Shapeshifting
 
 Using this Discipline, a Volkhv can change himself and any collection of items he can carry without incurring a Load penalty into an animal. A Volkhv can shift into any form with which he is personally familiar; he
 
 
-### *Improving Disciplines*
+### Improving Disciplines
 
 In play, Disciplines are improved by spending experience points, just like Abilities are, on the same pyramidal scale. The experience used can be Story experience, Training experience, or Practice experience as described in ArM4, pages 186-187. (Even though Training and Practice can normally only be used with specific kinds of Abilities, this rule specifically permits those mechanics to be used with Disciplines even though they are not technically Abilities at all.)
 
@@ -1796,13 +1796,13 @@ Volkhvy cannot conduct Rituals while shapeshifted, but can resume their native f
 
 *Hermetic Equivalent: MuCo, at 10 levels less than the normal Hermetic levels. For example, a Volkhv needs only a level 25 effect to "turn a human into a bird or fish" (see ArM4 page 125).*
 
-### *Weatherworking*
+### Weatherworking
 
 Volkhvy can summon, create, direct, or dispel mundane or magical weather conditions, as long as they are of a type that could exist naturally. For example, a Volkhv could affect a natural or magical rainstorm, but would have no power over a magically-created acidic fog, because the latter does not occur naturally. As another example, a Volkhv can call up a storm and then, as a separate Ritual, call down lightning bolts from it. Or, as a single Ritual, he may call down lightning bolts from an existing natural storm.
 
 *Hermetic Equivalents: CrAu, PeAu, ReAu*
 
-### *Raising the Dead*
+### Raising the Dead
 
 It is rumored that, in the period of Aftermath following a Great Ritual (see page 73), some Volkhvy are able to raise the dead. This is the greatest manifestation of the Healing Discipline known. This insert provides guidelines for this activity for storyguides who wish to allow it. Offering this option should be carefully considered by the storyguide before it is allowed, not only from a game balance standpoint, but because it has ramification on a saga's entire cosmology and tone.
 
@@ -1819,13 +1819,13 @@ They have no jurisdiction or power over other souls.
 
 In effect this is a unique Volkhv Improvised Ritual effect that can only be attempted during the Aftermath of a Great Ritual. It can be attempted using power derived from the Aftermath's "power pool," or as a normal Improvised Ritual cast during that time. The level of the effect is 100.
 
-### *Animal Magic*
+### Animal Magic
 
 Using this Discipline, Volkhvy can summon, command, heal, and communicate with animals. Animal Magic is most frequently used agriculturally to summon animals into hunting, fishing, and trapping areas or ensure that animals are born healthy and prosper as they grow. However, beyond these limits, Volkhvy cannot perform anything that resembles a MuAn spell; they may not distort, enhance, or otherwise change animals.
 
 *Hermetic Equivalents: CrAn, ReAn, InAn*
 
-### *Removing Curses*
+### Removing Curses
 
 This Discipline can remove magical, Diabolical, or Faerie influences, enchantments, effects, or curses. This includes Hermetic spell effects. Remove Curses cannot be used like a magus would use a fast-cast defense; it can only dispel effects that have already taken hold. Outside this limitation, any effect can be dispelled.
 
@@ -1835,7 +1835,7 @@ Curse removal is automatic. That is, if the appropriate effect level is achieved
 
 Hermetic Equivalents: PeVi for magical and Infernal effects. Use the guideline "Dispel effects . . . with a casting total less than the level of the Vim spell + a quality die" found on ArM4 page 158, save that the casting Volkhv need not "have some knowledge of [the] type of magic."
 
-### *Prophecy*
+### Prophecy
 
 Prophecy is a unique Volkhv effect which allows Volkhvy to answer questions about things that are likely to happen in the future. Since the Slavic gods are not Divine and have no true pre-knowledge, these prophecies are not infallible. Instead, they reveal things that are known to the Slavic divinities, who are, after all, powerful faerie beings with access to much of the knowledge and experience of their worshippers. Because of this non-omniscient knowledge and understanding, some sorts of questions pose unusual difficulties. For example, any question that touches on the Christian church is going to prove troublesome as this is an area in which no Slavic god has any authority at all. An additional consequence of the non-Divine nature of these prophecies is that they can be overturned though forewarned is forearmed.
 
@@ -1846,7 +1846,7 @@ In the final analysis, the storyguide will have to be the arbiter of exactly wha
 A prophecy must always be first stated as a question. Then, to determine the difficulty of answering that question with a specific prophecy, assess the question on three bases: How serious is it? How far into the future will the events occur? To what area does it apply? Consult the Volkhv Prophecy Table and add the results to give a total level.
 
 
-### *Volkhv Prophecy Table*
+### Volkhv Prophecy Table
 
 | Considerable<br>A year or less<br>Minor Principality<br>15<br>Very<br>A decade or less<br>Major Principality<br>21<br>Grave<br>A century or less<br>Nation<br>28<br>Crucial<br>A millennium or less<br>Many nations<br>36 | Seriousness<br>Trivial<br>Casual<br>Minor<br>Moderate | Duration/Term<br>A day or less<br>A week or less<br>A month or less<br>A season or less | Distance/Area<br>House/Person<br>Neighborhood/Farm<br>Village/Valley<br>District/City | Level<br>1<br>3<br>6<br>10 |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|-----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|----------------------------|
@@ -1860,11 +1860,11 @@ As a final note, storyguides are free to secretly adjust Prophecy ease factors b
 
 When a question is posed for prophecy, it is recommended that the storyguide make the actual stress die roll, concealing the result from the players so they cannot be certain of its accuracy. In addition, in assessing the quality or clarity of an answer, the storyguide needs to consider whether the answer requires to information that would be available to Slavic pagans and their divinities.
 
-### *Sun Magic*
+### Sun Magic
 
 Sun Magic includes sacred fire-starting (which is used mostly for funeral cremations and to light sacrificial fires at Great Rituals) and light-summoning. Sun Magic can be used to affect the weather in a limited sense, as it can enhance or diminish sunlight. Sun Magic does not allow the creation of bolts, fans, or balls of flame used for combat purposes.
 
-### *"Beyond the Lunar Sphere"*
+### "Beyond the Lunar Sphere"
 
 Some Hermetic magi have heard rumors about the power of Sun Beams. Afraid that the power of these potent spells originates beyond the Lunar Sphere, these magi have suggested that Hermetic magic — and thus the Parma Magica, fast-cast spells, and other Hermetic precautions — would not protect against them. Other magi scoff, arguing that all things beyond the Lunar Sphere are God's domain only, and thus cannot be tamed and directed by inconsequential hedge wizards.
 
@@ -1893,7 +1893,7 @@ burn for rounds after the beam has faded. Molten stone walls won't just collapse
 
 *Hermetic Equivalents: CrIg for minor firestarting effects*
 
-### *Earth Magic*
+### Earth Magic
 
 Earth Magic is almost entirely agricultural in nature and almost solely positive in effect. It allows for the blessing of crops and fields, the healing of barren or tainted ground, the improvement of poor soil, and the tending of plants and crops. The effects of Earth Magic cannot distort plants or make them act in a malicious, violent manner. The only exception lies in the hands of Volkhvy who have dedicated themselves to earth deities. These Volkhvy can raise destructive earth or vegetation effects, but usually only in direct retribution for violations against the earth itself. If a Volkhv were faced, for instance, with a gross episode of burning, salting, or diabolical infestation, he or she might call upon Mati-Syra-Zemlya to swallow the offenders in a chasm or throw down their fortress in an earthquake. These destructive abilities are restricted to Volkhvy who have dedicated themselves to Mati-Syra-Zemlya, Polevoi, Datan, Lawkapatim, Tawals, Birch Tree, Rugevit (only when actually on the Isle of Rugen — likewise with Porevit and Porentitz), Rugio Boba, and Pergrukius.
 
@@ -1906,7 +1906,7 @@ The magical effects created by Volkhvy are created through Rituals. This designa
 Note also that all Volkhv magic — for that matter all Slavic magic — is sung. There may also be dances or gestures associated with certain sorts of Rituals. There are no Rituals that can be cast without singing. If it is not possible for a casting Volkhv to sing in a firm voice, any Ritual being cast fails.
 
 
-### *Improvised Rituals*
+### Improvised Rituals
 
 Before a Volkhv casts an Improvised Ritual he must have a clear idea of what he wishes to accomplish. This is best stated as a simple sentence or two, for example: "I wish to drive out the fever from Maatya Sandrovna so that she becomes healthy again." Once the aim of the Improvised Ritual has been defined adequately (and assuming the aim is something that falls within the description of a Volkhv Discipline), assess the level of the desired effect using the guidelines in the Spells Chapter of ArM4 that correspond to the Hermetic Equivalents of the Discipline that is being used.
 
@@ -1942,7 +1942,7 @@ Once it is determined, if the Ritual Total greatly exceeds the desired level, un
 Finally, note that Volkhvy cannot cancel the effects of their Improvised Rituals at will. Instead, they must perform new Rituals to cancel previously cast spells, if it falls within their power. The only exception to this is shapeshifting. Shapeshifting effects are always dismissable through a simple effort of will.
 
 
-### *Exempli Gratia: An Improvised Ritual*
+### Exempli Gratia: An Improvised Ritual
 
 Danchev the Volkhv is approached by a young woman from his village who wants advice from her aunt, who, unfortunately, is recently deceased. Danchev agrees to consult the dead woman, who was a devout, practicing pagan, and is therefore accessible to him (see Chapter 4 for more on this point).
 
@@ -1963,7 +1963,7 @@ This is enough to achieve the contact he wants (remember, the effect level was 2
 At the conclusion of his conversation Danchev allows the spell to lapse and releases Communion. Now he must calculate fatigue. The ease factor is 6 (the base) + 5 (1 per magnitude of Ritual cast), = 11. Danchev's Communion Roll was a 6, and he must subtract –1 because his Stamina is poor for a total of 5. He has failed his fatigue check, missing the ease factor by 6. Dividing that result by 3 yields two Fatigue levels lost. Danchev goes back to his house to rest.
 
 
-### *Great Rituals*
+### Great Rituals
 
 As discussed in *Pax Dei,* Christian priests persistently channel the will of the Divine to create, reinforce, and manipulate Divine auras. The Volkhvy, as the priests of the pagan Slavs, have a similar role with regard to the auras they favor. Although Slavic faerie auras are certainly not the direct emanations of the Divine that Christian auras are, they are nevertheless of great importance to the followers of the Slavic gods. Not only are these sorts of auras more useful to the Volkhvy because of the way they affect Volkhv magic, they also allow all pagan believers dwelling within them to work small feats of magic through the power of their belief.
 
@@ -2006,7 +2006,7 @@ Where Slavic faerie auras exist, or previous Great Rituals have affected other a
 
 The same decaying effect holds for magical, Infernal, or Divine auras that are diminished by Great Rituals. In the absence of other effects and in the absence of continued season Great Rituals, the original auras will gradually return to their original levels. The only exception is for magical, Infernal, or Divine auras that were totally overwhelmed and turned to faerie auras. These areas remain faerie perpetually (though they'll be neutral, rather than Slavic), sustained by the faerie creatures that have moved into the area, until and unless the local magical, Infernal, or
 
-### *Affecting Auras*
+### Affecting Auras
 
 Great Rituals affect the strength and characteristics of auras in Mythic Europe. Some storyguides may be put off by the possibility of characters affecting the magical currents and eddies of the land, and others may be confused by the imprecise way in which they are changed. There are a few things that storyguides should consider when thinking about these issues.
 
@@ -2020,7 +2020,7 @@ Divine forces actively persecute them.
 
 Once the effect of the Great Ritual on the local auras is determined, the final potential outcome of a Great Ritual is that the Volkhv will convert local waverers or turn committed Christians into doubters. There is no formula for this sort of effect. Instead, the storyguide must carefully assess the Ritual. Was it a great show of community solidarity? Did it demonstrate the magical and religious might of its leaders and participants? Did it impact any waverers or potential doubters in a personal way? Will the ritual substantially change local conditions? For the better? For the worse?
 
-### *Aftermath*
+### Aftermath
 
 The period immediately following the end of a Great Ritual is a time during which Volkhvy are at their most potent and achieve their greatest feats. This period is known as the Aftermath and Improvised Rituals performed by the Volkhv during these periods are commonly regarded as miraculous. The powers and abilities to which a Volkhv has access during the Aftermath are described in this section.
 
@@ -2033,15 +2033,15 @@ Finally, the Volkhv's Magic Resistance increases by the full amount of the Ritua
 Volkhvy who participate in (but do not preside over) a Great Ritual automatically
 
 
-### *Traditional Aftermath Activities*
+### Traditional Aftermath Activities
 
 Because Aftermath is such a powerful time for Volkhvy, it is traditional that they invoke certain rare and powerful effects during that time. In fact, members of Slavic pagan communities often come to expect that these sorts of things will happen after Great Rituals. The communities, therefore, can be quire disappointed if a Volkhv uses the time of Aftermath for purposes other than those described below.
 
-### *Miraculous Healing*
+### Miraculous Healing
 
 Thanks to the "power pool" bestowed on them in Aftermath, most Volkhvy can perform healing spells that are much more powerful than normal, allowing them to cure especially difficult diseases and heal especially grievous wounds. There are even rumors that some Volkhvy have been able to raise the dead (see page 64). Naturally a Volkhv's congregation is well aware of this situation, and beseech him for special attentions at this time. Obviously the Volkhv must make careful judgments as to who best deserves or needs his services.
 
-### *Prophecy*
+### Prophecy
 
 The prophecies delivered during Aftermath are often given even more weight than prophecies performed at other times by the members of a pagan community. Members of the community often want to know if good times or ill are headed for the community as a whole. The highest level of prophecy reaches a theoretical level of 108 (a crucial question concerning matters a millennium in the future of concern to many nations). Accordingly, if a Volkhv needs to pursue answers to questions affecting exceptional time limits, areas, or importance, he will wait until a Great Ritual Aftermath.
 
@@ -2052,7 +2052,7 @@ There is nothing to prevent a Volkhv from using the Aftermath to achieve astonis
 
 Furthermore, most Volkhvy are acutely aware that their period of potency is strictly limited, and subsequent confrontations with the powers that be are unlikely to go in their favor. For this reason, most Volkhvy spend their Aftermath points on a few potent healing spells or other activities especially pleasing to their gods.
 
-### *Great Rituals and Miracles*
+### Great Rituals and Miracles
 
 In addition to the aura-tuning effects of Great Rituals, miraculous events often transpire in the midst of Great Rituals. While the pagan gods are not truly divine, there is no doubting that they greatly exceed common earthly forces in power and wisdom. There is danger, under these rules, for Volkhv deities to be treated as little more than magical reservoirs, "on tap" for Volkhv convenience. However, these are beings with their own identities, agendas, and needs. Those needs conform closely to the desires of the Slavic people, but are not solely controlled by these considerations. It is during Great Rituals that their personalities and wishes can be made particularly manifest, either to goad their followers to new heights of Conviction, to bolster the belief of an entire community, or to do some great deed that needs to be done.
 
@@ -2106,15 +2106,15 @@ Another consequence of the Koldun's inability to participate in Great Rituals is
 
 It is the Koldun who are the nightmares of the Russian Church and princes, who remember Vseslav the Sorcerer and his unholy practices, the screaming of innocent victims, and the devilish slaughter of armies.
 
-### *Other Slavic Character Types*
+### Other Slavic Character Types
 
-### *Skomorokhi*
+### Skomorokhi
 
 Skomorokhi are pagan bards, storytellers, and fortune-tellers who travel between pagan communities entertaining with story and song. The most common divination method among these characters is to listen to the cries or grumbles of a trained animal, often a bear, as they play to it, often on a small harp called a gusli. Skomorokhi often travel into cities, sometimes on behalf of Volkhvy, to whom they are often obedient. More frequently, however, they are found in rural areas where they are assured a warm welcome among the pagan communities.
 
 Skomorokhi are best portrayed as companion characters. Any self-respecting Skomorokhi should have the +1 Virtue Animal Companion (ArM4 page 40) and +4 Virtue Divination (ArM4 page 45). Suggested Abilities for Skomorokhi include Animal Handling, Charm, Enchanting Music (which requires the appropriate Virtue), Folk Ken, Guile, Legend Lore, Legerdemain, Play, Sing, Theology: Slavic, and Visions.
 
-### *Vedun*
+### Vedun
 
 Vedun are Slavic Cunning Folk (Vedun is the male title, Vedma is female). They are found close to cities far more commonly than Volkhvy, probably because they have no need of a committed pagan community to serve or to assist them in their magics. Nonetheless, they are almost always themselves pagan, and they have suffered heavily at the hands of the Orthodox Church which takes the injunction "thou shalt not suffer a witch to live" very literally. Most Vedun have the Personality Trait Pagan Belief.
 
@@ -2134,7 +2134,7 @@ Slavic pagans within a Slavic faerie aura do not need to be Gifted in order to a
 Domestic Magic is learned by everyone who believes in it — that is, anyone with a
 
 
-### *Other Slavic Character Types, Cont.*
+### Other Slavic Character Types, Cont.
 
 Vedun cannot utilize relics that are not sacred to their patrons.
 
@@ -2301,7 +2301,7 @@ Faerie Lords are the Seelie and Unseelie of the Slavic world. With the exception
 
 
 
-### *Faerie Lord*
+### Faerie Lord
 
 **Allegiance:** Stribog, god of winds
 
@@ -2337,7 +2337,7 @@ Weapons: Enhanced Init, Atk, Dfn, and Dam
 
 ly aligned to the area of authority of the appropriate god can expect a more cordial reception from that god's faerie subordinates. For example, a Flambeau magus would probably be well received in a court devoted to the Slavic divinity of fire, Svarozhich.
 
-### *The Gold and White Courts*
+### The Gold and White Courts
 
 The common notion of Seelie and Unseelie in western Europe has its own unique twist in the east. Here the question is not, generally, of a struggle between Light and Dark, but between Sun and Cold — Summer and Winter. The "Seelie" faeries are those associated with the sun and the other positive, life-giving forces (including the earth). The "Unseelie" faeries are those associated with winter or decay. Those faeries of the former persuasion are usually referred to in the east as members of the Gold Court. The latter are members of the White Court. These are the dominant colors associated with the two types of Faerie Lords, though they will be blended with others (such as blue for faeries associated with the sky, for example).
 
@@ -2353,7 +2353,7 @@ Any faerie lesser than a Faerie Lord may be identified by the general term vily 
 
 You may note that certain faeries described here differ from similarly-named faeries that are described in *Faeries*. That's mostly due to the fact that while *Faeries* made an attempt to synthesize the legends of many diverse Mythic European cultures, this book has the luxury of concentrating on the myths of the Mythic Slavs. Using the statistics from both books or either throughout your saga as you feel moved would be a particularly fay thing to do, considering the nature of Arcadia.
 
-### *Leshy*
+### Leshy
 
 Leshy (or Leshyie) are forest spirits and guardians, often of considerable power and with a carefully defined territory. They are most commonly encountered as small, longbearded, balding men with beards, bushy eyebrows, eyes of emerald green, and cheeks tinged blue by their azure blood. They are masters of size and shape-changing. Some shapechanging seems to be involuntary, for their stature often spontaneously changes to match the plants around them. Leshy are not malicious, but they are mischievous and often lead travelers astray. They are fond of bargaining and are respectful of people who can penetrate their illusions and sleights.
 
@@ -2387,7 +2387,7 @@ Shapechange Other to Animal 7 **Weaknesses:** Vulnerability to Iron
 
 **Vis:** 15 Herbam
 
-### *Polevik*
+### Polevik
 
 **Faerie Might:** 20+
 
@@ -2447,17 +2447,17 @@ Dex +1, Qik +2 **Gender:** Either
 
 **Vis:** 6 Aquam, 4 Perdo
 
-### *Polevik*
+### Polevik
 
 Polevik (also known as Polevoi) are field spirits. Commonly they are less powerful than Leshy, but in certain regions, especially south Russia, certain of them have attained very great power and some are even worshipped as minor divinities. Polevik are often but not exclusively female, and may appear more or less human depending on the season and the circumstances of the encounter. The hue and the color of their clothing can change from bright green (spring), through deep green (summer), auburn or gold (autumn), to white or gray (winter). Sometimes grass grows on a Polevik's head rather than hair. Their bodies may be the hue of freshly turned earth and their eyes may resemble glittering stones. The Polevik were always asked for their blessings by the Slavs, but they could be capricious, and if offended, dangerous. Polevik are highly tolerant of iron. The practices of plowing the earth and reaping grain with iron tools may have accustomed them to this metal.
 
-### *Vodyanoi*
+### Vodyanoi
 
 Vodyanoi (or Topielec, in Poland) are the spirits or faeries who dwell in water. Of all the elements, the Slavs fear water most particularly, and of all common faeries, the Vodyanoi are the most vicious. Vodyanoi may be faerie in origin, or they may spring up from the souls of drowned persons. They are expert shapeshifters. Sometimes they appear as bloated, unkempt men or women with mossy, dripping hair and green skin, sometimes as beguiling beautiful women. At other times, they appear as monsters with human bodies, the heads of dogs, horns, and tails. Vodyanoi can inhabit any body of water large enough to drown someone, and their favorite means of attack is to snatch victims and plunge into the water with them.
 
 A Vodyanoi's strength is proportional to its proximity to water. It is at its maximum when in contact with its "home water." Its combat statistics decrease by one point for every ten paces of distance from it, and a Vodyanoi removed from its home water also becomes listless and irritable. Vodyanoi often dwell in elaborate palaces (within a regio), served by the souls of those they have drowned.
 
-### *Rusalka*
+### Rusalka
 
 Rusalka are the nymphs and dryads of the Slavic world. They are exclusively female and occupy both water and woods. Rusalka are less vicious than Vodyanoi, but they are capricious in nature, and untrustworthy. Some Rusalka, like Vodyanoi, are thought to develop from the souls of drowned pagan dead. They may manifest as bloated or distorted females or as comely maidens. Sometimes a Rusalka may bestow blessings or fertility, and they are sought out by barren women for this reason.
 
@@ -2465,7 +2465,7 @@ Rusalka are the nymphs and dryads of the Slavic world. They are exclusively fema
 
 Several sorts of faeries share living space with Slavs. Some of them are ubiquitous in pagan villages. These are the most predictable of all faeries, and the Slavs have a whole litany of rituals and charms for maintaining friendly relations.
 
-### *Domovoi*
+### Domovoi
 
 Domovoi are house spirits. They take care of the home and assist the family in spiritual and supernatural matters in return for small courtesies and a share of food and milk. Domovoi are rarely seen, but often heard. In fact, it's bad luck to see a Domovoi, for they prize their privacy.
 
@@ -2473,13 +2473,13 @@ Domovoi resemble small, graceful men and women covered in very fine, lustrous br
 
 A Domovoi commonly lives under the stove or in the cellar. A Domovoi can sometimes be aggressive, especially if its family falls into a feud. More commonly, however, they restrict themselves to warning their families of approaching dangers and opportunities and warding off bad luck. Like Polevik, Domovoi seem to have become acclimated to iron.
 
-### *Dvorovoi*
+### Dvorovoi
 
 Dvorovoi inhabit courtyards, farmyards, and pastures. They can be very useful as guardians of sheep and cattle, however they are less tractable than Domovoi and misbehave more frequently. Dvorovoi, unlike Domovoi, are lusty creatures, prone to seducing mortal men and women. The Slavs know the proper ways to fool the Dvorovoi (with dolls or scarecrows), but ignorant folk may well be in danger.
 
 Dvorovoi can appear as small gnarled men or women, often with striking disfigure-
 
-### *Rusalka*
+### Rusalka
 
 **Faerie Might:** 10-15
 
@@ -2511,7 +2511,7 @@ Dvorovoi can appear as small gnarled men or women, often with striking disfigure
 
 **Weaknesses:** Vulnerability to Iron **Vis:** 4 Aquam or Herbam, and 3 Perdo
 
-### *Domovoi*
+### Domovoi
 
 **Faerie Might:** 10-15
 
@@ -2560,15 +2560,15 @@ Dex +1, Qik +2 **Gender:** Either
 Animal 4, Shapechange to Object 4 **Weaknesses:** Discomfort from Iron
 
 
-### *Bannik*
+### Bannik
 
 Bannik inhabit bath-houses, and in the north of Russia, saunas. They keep the fire lit and keep plenty of water in the cistern, and even caulk the walls and fetch wood. However they are demanding about "their turn;" every fourth bath is theirs. An intruders who disturbs a bathing Bannik is liable to be cruelly clawed at best. Bannik can prophecy, if only in very general terms.
 
-### *Ovinnik*
+### Ovinnik
 
 The Ovinnik, guardians of barns, are the most dangerous of the domestic faeries. Their goodwill is essential, for, if angered, Ovinnik can cause all manner of trouble up to and including burning down the barns they protect. Ovinnik can usually be found lounging about their barns in the form of large, mangy, lazy black cats.
 
-### *Zaltys*
+### Zaltys
 
 The Zaltys is a special case among domestic faeries. They are only found in Lithuanian
 
@@ -2604,11 +2604,11 @@ auras and regiones, where they are associated with the great sun goddess Saule. 
 
 ### Faerie Animals
 
-### *Totem Animals*
+### Totem Animals
 
 Every Slavic clan has its animal mascots, and most pagan villages are attended by one or more of these fabulous animals. Such animals are always larger than their mundane counterparts, are Intelligent rather than Cunning, and can usually talk comprehensibly if not eloquently. The villagers or clanmembers often turn to these animals for advice and guidance, and always deal with these totem animals with courtesy and respect — possibly even outright worship. These animals often give gifts of prophecy; in many cases their simple appearance is an important omen.
 
-### *Strukis: the Great Pike*
+### Strukis: the Great Pike
 
 Strukis the Pike is the king of fish and lord of the water faeries. This belief is especially powerful in Poland, near lake Strukhalis. The Pike's dominion over all the fish of the world fails for only one hour in the year, during which he sleeps and dreams prophetic dreams. Strukis has great wisdom, since knowledge is borne to him from all the streams and lakes of the Slavic world, but he is miserly and greedy for slaves. Anyone *Ovinnik*
 
@@ -2666,7 +2666,7 @@ Shapechange to Animal 4 **Weaknesses:** Discomfort from Iron
 
 entering his realm or palace stands a very good chance of being seized and enslaved. Strukis should be played as a magical faerie animal who can take the form of a great faerie lord, rather than as a faerie lord who can assume the form of an animal.
 
-### *Totem Example: Bear*
+### Totem Example: Bear
 
 **Faerie Might:** 15-20
 
@@ -2694,11 +2694,11 @@ Shapechange to Object 6 **Weaknesses:** Vulnerability to Iron
 
 **Vis:** 8 Animál, 3 Vim
 
-### *Zhar-Ptitsa: the Firebird*
+### Zhar-Ptitsa: the Firebird
 
 The Firebird, called Zhar–Ptitsa, is the most widely known, magically potent, and elusive of the legendary Slavic animals. Physically it takes the form of the cassowary, and dwells in the garden of the sun in the uttermost East. Here it feeds on golden apples and other fruits that blaze as brightly as gems. A single feather from its wing can light the interior of a palace feast hall brighter than full sunlight, though no one experiences any danger or pain in looking at the Firebird. The Firebird has never shown any true intelligence, but it is a cunning thief, with an eye for gems, fruit, or other bright, sweet things. The Firebird is typically encountered only in areas of very potent regiones with nearby access to Arcadia. It is one of those exceptionally rare faeries so powerful it can generate gateways to Arcadia at need (which makes it hard to catch, or to keep once caught).
 
-### *Strukis*
+### Strukis
 
 **Faerie Might:** 40
 
@@ -2727,7 +2727,7 @@ Soak: +9 **Fatigue:** +5
 **Weaknesses:** Discomfort from Iron **Vis:** 15 Aquam, 5 Mentem, 5 Intéllego
 
 
-### *Semargl*
+### Semargl
 
 Semargl is among the strangest of all the chimaeric beasts of legend. He has the head, body, and limbs of a dog, the wings and tail of an eagle, and is feathered from head to tail. Semargl is swift, voracious, and cunning. He is a servant of the gods, though his duties remain a mystery. Possibly, like Hermes and Mercury, he is their messenger.
 
@@ -2805,7 +2805,7 @@ Form 5, Travel 28
 
 Slavic peoples. Many of the following creatures are found in the far north-western Carpathian mountains (the Tatras), and consequently infest the southern Polish border.
 
-### *Poludnica*
+### Poludnica
 
 Poludnica are common in Poland. They are revenant spirits, either of pagan souls who have not gone to Arcadia, or of Christians
 
@@ -2855,11 +2855,11 @@ Possession 10
 
 who were improperly buried or slain by evil faeries such as a Vodyanoi. Poludnica have no physical form and seldom communicate clearly. They can inflict close relatives with prophetic or maddening dreams, or bring warnings of approaching tragedies.
 
-### *Strzyga*
+### Strzyga
 
 Strzyga are Polish changelings or halflings. They are born with two full sets of teeth and also have two spirits: one human, the other faerie. Even proper baptism is no cure for the devilish nature of the Strzyga, for the holy water only touches the human spirit and the soul. A Strzyga can lead a long, apparently normal life, marry, have children and die, all without demonstrating exceptional evil. After death, however, when the soul has gone to its reward and the human spirit is at rest, the evil spirit rouses and sends the body out to live as a vampire or crossroads murderer. Unlike traditional vampires, Strzyga do not suck blood. They are more prone to strangling, and enjoy inhaling the last dying breaths of their victims, from which they can gain more Faerie Might.
 
-### *Dragons*
+### Dragons
 
 The Dragons are the worst of the monsters that inhabit the northern Carpathians. One of these ferocious beasts was slain by the legendary polish hero Krakus; the site of this event later became the city of Krakow. However, even Krakus could not slay it in battle, and was forced to rely on an alchemical trick to destroy it.
 
@@ -2867,7 +2867,7 @@ Slavic dragons are similar to those found in central Mythic Europe. They're four
 
 Most dragons in other parts of Europe are allied with the Realm of Magic. It is unknown whether these Slavic dragons bear any relation to those dragons, because while their forms are similar, these hail from faerie. It is almost certainly the burning passion of a magus somewhere to find out.
 
-### *Ogres and Giants*
+### Ogres and Giants
 
 Ogres, giants, and trolls are called dziwozony in Poland and norka in Russia. There are too many varieties of these creatures to detail here, but they do have certain common characteristics: great size, superhuman strength, low intelligence, and vulnerability
 
@@ -2875,14 +2875,14 @@ to Christian rituals and relics. They often have power over earth and a rocky in
 
 It is not uncommon to encounter these monsters in groups of siblings, and to find that the siblings have an ever-increasing number of heads. Thus, if there is a group of three giants preying on a city, the first may have three heads, the second six, and the last nine. The more heads one of these monsters has, the harder it will be to kill. As a rule of thumb, assume five points of Might per head.
 
-### *Zluidni*
+### Zluidni
 
 Zluidni are the smallest, most common, and most spiteful of all the Slavic dark faeries. There are too many varieties to even begin cataloging them, but certain common attributes can be noted. Zluidni are physically small (of Size –2 to –4), misshapen or chimaeric in appearance, and have limited shapeshifting powers. Regardless of the form they take, however, some malformation or distortion always gives them away.
 
 Zluidni are found in urban, rural, and wilderness areas equally. Their powers typically allow minor cursing and the use of glamour and possession in order to play small, vicious jokes. They are not usually capable of a physical act of murder, but are known for leading unwary travelers astray or causing enmity and feuds in a community. A good Domovoi is more than a match for any number of Zluidni, and wouldn't tolerate them near his home for an instant.
 
 
-### *Dragon (Marauding)*
+### Dragon (Marauding)
 
 **Faerie Might:** 40
 
@@ -2908,7 +2908,7 @@ Zluidni are found in urban, rural, and wilderness areas equally. Their powers ty
 
 **Vis:** 10 Animál, 10 Ignem, 10 Perdo, 5 Vim
 
-### *Dragon (Sorcerous)*
+### Dragon (Sorcerous)
 
 **Faerie Might:** 50
 
@@ -2932,7 +2932,7 @@ Dex –1, Qik –2 **Gender:** Either **Size:** +4 or smaller
 
 **Weaknesses:** Vulnerability to Iron **Vis:** 5 Ignem, 15 Perdo, 15 Vim
 
-### *Three-Headed Giant*
+### Three-Headed Giant
 
 **Faerie Might:** 15
 
@@ -2965,7 +2965,7 @@ Dex –1, Qik –2 **Gender:** Either
 
 Although this chapter specifically discusses Slavic faerie, there are certainly more foul creatures that stalk the Novgorod Tribunal. One Infernal example is described here.
 
-### *Vampires*
+### Vampires
 
 Vampires are reasonably common in Slavic lands. In Poland they are known as zmory, upiory, or martwiec, in Russia as oboroten. Vampires do not, despite what Bram Stoker and Hollywood have conspired to tell us, make other vampires by biting them, and though they can kill by biting, they more commonly attack by strangling. Rather, a vampire is a mortal who has entered a particular sort of Infernal pact, giving up claim on his soul in exchange for a semblance of immortality. At the end of his natural life, the damned mortal "dies" and is buried normally. After a few nights he rises from the grave to stalk living prey.
 
@@ -2973,7 +2973,7 @@ Vampires account for their Infernal Might in two different ways. Like all creatu
 
 The Infernal Might of a vampire, however, can rise and fall gradually, depending on whether it continues killing mortals. For every night a vampire fails to kill a mortal it loses a tiny fragment of its Infernal Might. In this regard (and *only* this regard) Infernal Might is treated like an Ability composed of experience points in the normal pyramid scale fashion. A vampire that fails to kill in a given night loses one "experience point" in Infernal Might. Conversely, for every mortal a vampire kills, it accumulates one Infernal Might "experience point." For example, if a
 
-### *Vampires: Upiory/Oboroten*
+### Vampires: Upiory/Oboroten
 
 **Infernal Might:** 10-15+
 
@@ -3039,7 +3039,7 @@ Slavic Arcadia is the world of thirty kingdoms; of speaking animals; and of sorc
 
 Slavic Arcadia is centered on the World Tree. This is the hub of existence; according to Slavic mythology it holds the universe together. The World Tree is like a spoke and strung upon it are three worlds. At the top of the World Tree, among its branches, is Slavic Heaven. Beneath Heaven, about halfway down the trunk, is the second level of existence, Slavic Earth. Below the Earth, down among the roots of the Tree, is the lowest level, Slavic Hell.
 
-### *Slavic Earth*
+### Slavic Earth
 
 Slavic Arcadian Earth (or simply "Slavic Earth") is an idealized Russia. Much like other areas of Arcadia, it is made up of princedoms and cities where the high faeries dwell. Slavic Arcadia is particularly set in regard to these matters. The shape of the earth is circular, and at its center there is a great mountain range: the World Tree. Grouped around the tree are thirty princedoms. Half of them are of the Golden Court, half are of the White Court. Some of the courts are "human" and others are "animal."
 
@@ -3049,13 +3049,13 @@ On the outer fringes of this Earth dwell "Nomads," "Muslims," and "Germans" that
 
 Scattered throughout Slavic Earth are mountains, forests, seas, and swamps. It is here that faeries play out the stories that the Slavs delight in, fighting evil sorcerers, rescuing princesses, and questing after lost treasure and knowledge. Regardless of the players' reasons for entering Arcadia, it is this world that they will almost certainly encounter first (assuming they enter from a Slavic part of Mythic Europe, anyway), and it is this world that will strive to ensnare them.
 
-### *Slavic Heaven*
+### Slavic Heaven
 
 Ascending the trunk of the World Tree, whether by scaling it physically, traveling "toward Summer," or taking a special gateway, takes one into the very perilous world of the Slavic gods. Slavic Heaven is a world of absolutes where the fundamental creative forces of nature have free play and where the Sun and Summer manifest themselves in blinding, intolerable purity.
 
 Many of the Slavic gods dwell here, and their powers in this place are effectively unlimited. Only the strongest and most devout of Volkhvy would consider making a journey to this place, and even they would never do so casually. Game experiences in Slavic Heaven should be fundamentally mystical experiences — pure role-playing devoid of dice and worldly concerns. And unless characters have a very good reason for visiting, they will almost certainly not come back.
 
-### *Slavic Hell*
+### Slavic Hell
 
 There are three principle regions in Slavic Hell.
 
@@ -3229,7 +3229,7 @@ His fellow magi were swayed by Patrick's passionate rhetoric, even if they would
 From Patrick's initial impulse a new mood swiftly swept through the covenant. Why should they or their recent adversaries in this wild, hard land bother themselves with the atrocities occurring in the West? What need did they have to go trespassing on each others' property, contending for vis, and trying to assert dominance and lines of jurisdiction? It was near on three hundred miles to Pripet Maior, and more like five hundred to Grand Silesia! Better by far to mind their own business, keep their heads low, and wait things out.
 
 
-### *The First Three Covenants*
+### The First Three Covenants
 
 **Rodnya:** Near the town of that name, on the Dnieper river about eighty miles south of Kiev. Founded by the Theban tribunal in 992.
 
@@ -3316,7 +3316,7 @@ Many of the assembled magi were outraged, and there were calls for the immediate
 
 But Thousand Caves also had supporters. Many of the magi had long been fascinated by the phenomenon of Domestic Magic and hurried to quiz Malincka on her discoveries. Here, it seemed to many of them, was a real
 
-### *Finding Heart-beasts*
+### Finding Heart-beasts
 
 **Ars Magica** Fourth Edition describes heart-beasts as the sole province of Bjornaer magi. At the covenant of Thousand Caves, however, non-Bjornaer — and even mundanes — also have this manifestation of the inner animal. What is at work here?
 
@@ -3364,7 +3364,7 @@ Of course, in your own saga, you are welcome to add covenants past six, or subtr
 
 Three Lakes is the guiding light of the tribunal. It is the site of tribunal meetings and the major political heavyweights whose con-
 
-### *Form of the Avenging Beast*
+### Form of the Avenging Beast
 
 This special Bjornaer spell is used by many of the Bjornaer magi of the Novgorod tribunal, as are enhanced versions. It is not, however, listed in the **Ars Magica** Fourth Edition rules. For the benefit of those who do not have access to *Houses of Hermes*, it is repeated here.
 
@@ -3384,7 +3384,7 @@ The reindeer herds, sleds, and carts are the heart of the covenant's principal n
 
 The covenant has a rigid internal hierarchy. There are three grades of magi: Juniors are probationary members who surrender their sigils, have no voice in council, and
 
-### *Three Lakes Statistics*
+### Three Lakes Statistics
 
 **Symbol:** A golden sunburst at the center of a triangle formed by three blue ovals.
 
@@ -3501,7 +3501,7 @@ On this last matter Three Lakes is divided. Their magi are simultaneously excite
 
 ### Magi
 
-### *Andrei Soitkchin*
+### Andrei Soitkchin
 
 Andrei is the senior quaesitor of the Novgorod tribunal. He is chairman of the Three Lakes council, responsible for monitor-
 
@@ -3512,13 +3512,13 @@ ing the activities of the magi and ensuring that they are living up to their var
 
 As senior quaesitor, Andrei will be primarily responsible for the tribunal's response to the Thousand Caves situation. A clear judgment might have emerged a few years ago, but was cut off by Pripet Maior's raid on Thousand Caves. This matter is, or at least should be, a simpler one, and Andrei's current first priority is to discipline Pripet. This, however, is proving very difficult to do, and the whole matter is currently frozen. Everyone is anticipating a major debate and some hard decisions at the forthcoming tribunal meeting of 1221.
 
-### *Pavel Chedyav*
+### Pavel Chedyav
 
 Pavel is the junior quaesitor at Three Lakes. He is Andrei's obvious successor, a fact which gives him visible satisfaction. Pavel is an ingenious magus, and an excellent laboratory worker, but he does not have Andrei's strong calling for justice. He views the Thousand Caves debate more as an intellectual challenge than a weighty philosophical or legal matter.
 
 Pavel came to Three Lakes about fifty years ago from Leczyca. His political sympathies are more strongly aligned with Polish interests than with Russian. He wants to shape tribunal policy to cause an eventual reunification of the Polish realm and believes that the tribunal would then be sensible to shift its physical location out of Russia.
 
-### *Andrei Soitkchin, Follower of Guernicus*
+### Andrei Soitkchin, Follower of Guernicus
 
 **Characteristics:** Int +2, Per +2, Pre +1, Com +1, Str –1, Sta –2, Dex 0, Qik +2
 
@@ -3552,7 +3552,7 @@ Concentration (Reading) 6, Disputatio (Debate) 4, Finesse (Mentem) 4, Folk Ken (
 
 **Spells:** Andrei has specialized intensively in InMe, InIm, PeIm, ReCo, ReIm, ReMe, and ReVi. He can be assumed to have mastered all listed formulaics in these areas, and to have created enhanced versions of appropriate truth, lie-detection, and compulsion spells. He has a fair crop of defensive spells too, all of which he has mastered: invisibility, teleportation, and mind domination have always been his favorite ways of avoiding trouble.
 
-### *Yury Beslav, Follower of Jerbiton*
+### Yury Beslav, Follower of Jerbiton
 
 **Characteristics:** Int +2, Per +1, Pre +2, Com +2, Str +1, Sta 0, Dex +1, Qik –2
 
@@ -3588,7 +3588,7 @@ Concentration (Reading) 6, Disputatio (Debate) 4, Finesse (Mentem) 4, Folk Ken (
 
 Consequently, though he obeys the tribunal ruling on non-interaction with the Polish and Russian royal houses, he resents it.
 
-### *Yury Beslav*
+### Yury Beslav
 
 Yury is the public head of the covenant. He is a traditional Jerbiton magus, involved in district politics, trade arrangements, and patronage of artists. He has played his part for the benefit of the mundane world for so long that it has long since ceased to be an act. Yury was instrumental in formulating the tribunal's policy about the Russian and Polish royal houses. He himself found it impossible to enter friendships or alliances with royal princes without inevitably being sucked into wider and more dangerous relationships.
 
@@ -3597,7 +3597,7 @@ Yury's magic is so strongly tied to social activities that he is actually relian
 
 without a few grogs in attendance, and even when in very secret negotiations he makes sure to have a scribe or two on hand to bolster his magic.
 
-### *Georgi Yurivich*
+### Georgi Yurivich
 
 Georgi is Yury's son and heir. He was his father's apprentice, and their magical abilities are highly similar. Over the last thirty years or so, Georgi has taken over the traveling and trading responsibilities. He is often in Ladoga and Novgorod, or on the trade trails in the north country contacting the covenant's merchant agents, collecting information, making new contacts, and enhancing their network of political informants.
 
@@ -3605,13 +3605,13 @@ It was Georgi who found and named the Valley of a Thousand Caves over forty year
 
 Georgi has to deal with the fact that many mundanes have known him for several decades during which he has not aged adequately. In order to defuse dangerous speculation Georgi customarily employs enhanced versions of *Disguise of the New Visage* applied to the whole body. Where this fails to fully convince, he uses MuMe and ReMe spells to deter awkward questions or lines of thought.
 
-### *Batiba an Khatiba*
+### Batiba an Khatiba
 
 Batiba is the only non-Hermetic member of Three Lakes. (His magic is of the Shamanic variety described in Appendix I; he has become a member of the Order through the procedures described in *Hedge Magic* on page 33). He was brought to the covenant about fifty years ago by Georgi Yurivich, who encountered him in the steppe. Batiba is from the Cuman tribe, a pagan who worships his ancestors and the spirits of earth and sky. Batiba has brought a unique perspective to Three Lakes debates, and his stature has been boosted by events at Thousand Caves; the quaesitores turned to him as the resident authority on pagan matters, and he was a pivotal member of the delegation.
 
 Batiba is enthusiastic about the Thousand Caves project. It comes far closer to re-creating a type of society he is familiar with than the traditional structure of the Order of Hermes. He is also eager (to the horror of the quaesitores) to spread word of these events outside the tribunal, especially among his fellow Ex Miscellanea magi. To date they have been able to restrain him, just.
 
-### *Zashya Miyovna*
+### Zashya Miyovna
 
 As senior Bjornaer maga at Three Lakes, Zashya has a certain technical authority over the other Bjornaer magi of the tribunal. The weakness of this authority has been cruelly revealed by recent events. Zashya has a gentle nature and as a member of the delegation she made every effort to reconcile her fellow Bjornaer magi.
 
@@ -3621,7 +3621,7 @@ Outside of this conflict, Zashya has lived a graceful and romantic life. She has
 
 This rumor is in fact true, and it greatly complicates Zashya's position. She secretly
 
-### *Zashya Miyovna, Follower of Bjornaer*
+### Zashya Miyovna, Follower of Bjornaer
 
 **Characteristics:** Int +2, Per +1, Pre +2, Com 0, Str –1, Sta 0, Dex +1, Qik 0
 
@@ -3670,7 +3670,7 @@ bore a child by her prince, a non-Gifted daughter. Her daughter in turn bore a d
 Though Zashya's relationship with her prince ended before the Royal Embargo, it would still embarrass her dreadfully if revealed. As for how her mother, Miya Cossuri of Pripet, would react to the news that Nastassia Baramov is her great granddaughter . . . it hardly bears thinking.
 
 
-### *Susan of Wicklow*
+### Susan of Wicklow
 
 Of all the current Novgorod magi, Susan has traveled the farthest to claim her place in the tribunal. Her acceptance was assured on two grounds: she is that rare thing, a Gifted Mercere maga, and she is of the lineage of Patrick of Dunderry. Patrick is effectively the patron saint of the tribunal. The line of his Russian students died out about sixty years ago, and the tribunal was glad to welcome a new representative.
 
@@ -3678,7 +3678,7 @@ Susan is one of the greatest travelers and explorers of the age. She accompanied
 
 Susan is apolitical. She lives for travel, for new horizons, and for the satisfaction she gets in discharging her duty. The Redcaps are her pride — the sinew that binds the Order together — and she has no causes other than to demand the respect that her worthy service deserves.
 
-### *Olga Deiaslavl*
+### Olga Deiaslavl
 
 Olga's fixation on Slavic faeries is allconsuming, and has been getting more so over the years. It is questionable whether her true loyalty lies to the covenant or to the various local faeries. Of all the magi at Three Lakes, she is probably the closest to leaving it, whether by Final Twilight, old age, or the lure of Arcadia.
 
@@ -3686,7 +3686,7 @@ Olga is famous for her skill as a teacher. Since Three Lakes took on new apprent
 
 There are wild rumors about some of her accomplishments. She is said to have solved the riddle of the faerie manipulation of time, is rumored to have mastered the faerie abilities to erase fatigue, and, it is also rumored, has found ways to siphon Faerie Might from friendly faeries for her own use. Though she lectures generously on points of Faerie Lore and Etiquette, no-one has ever been able to get a firm answer from Olga on the deeper questions of Faerie Magic. Malincka Capcek came to Three Lakes about ten years ago and had several long discussions with Olga, but apparently to no useful end. Olga is altogether dismissive of the Thousand Caves project.
 
-### *Nicollo Parelli*
+### Nicollo Parelli
 
 Nicollo came to Three lakes nearly seventy five years ago at the request of the covenant council, who felt a need for the services of a Verditius magus. He is comfortable at Three Lakes, and treasures its stability and security. He also likes his pleasures, and has grown quite fat after three quarters of a century of good living.
 
@@ -3694,7 +3694,7 @@ Nonetheless, Nicollo is a more formidable spirit than many people appreciate. He
 
 Nicollo, of course, is widely famed for his ingenious laboratory work. He is also somewhat admired for his social adeptness. He is so easygoing and pleasant that even self-righteous, arrogant magi like Pavel Chedyav have been lured into acting as laboratory assistants on Nicollo's more difficult projects.
 
-### *Boris Davidovich*
+### Boris Davidovich
 
 Boris is the youngest of the magi at Three Lakes, a Specialist dedicated to a unique project.
 
@@ -3723,7 +3723,7 @@ Thousand Caves' mystical status is very complex. The magi have admitted Volkhvy 
 
 To date there are some small signs of a positive nature. The local Volkhvy have proved capable of mastering Hermetic magic. There is nothing in it that denies their faith in their gods, though they have not managed to blend Hermetic and Volkhv techniques. The Volkhvy can use either, but only separately. On the other hand, Malincka Capcek has achieved some blended effects, and the magi have recently begun to get hints that their efforts to "tune" the local magical aura may be paying off. Sudden surges of magical energy have been experienced, as well as ecstatic, visionary dreams. Lastly, it seems that there may now be one person who can
 
-### *Thousand Caves in Your Saga*
+### Thousand Caves in Your Saga
 
 The speculative researches of Malincka and her colleagues at Thousand Caves clearly have the potential to turn some of the cherished cornerstones of Hermetic Magic Theory on their ear. While some storyguides and troupes may embrace this possibility, others may be concerned for their sagas' continuity.
 
@@ -3748,7 +3748,7 @@ Since declaring their successes at the 1214 tribunal, Thousand Caves has been st
 
 
 
-### *Thousand Caves Statistics*
+### Thousand Caves Statistics
 
 **Symbol:** A labyrinth **Season:** Summer **Founded:** 1185
 
@@ -3842,7 +3842,7 @@ tractatus) (–1)
 
 Magi
 
-### *Malincka Capcek*
+### Malincka Capcek
 
 Malincka is the ideological leader of the covenant. She achieved her key insight into the nature of Volkhv magic almost thirty-five years ago, in a Twilight experience while observing a Great Ritual. The Twilight gave Malincka a gut feeling for what was going on. Four hundred years of failed Hermetic attempts to manipulate and create auras suddenly came clear to her; no such magic, with its necesarily enormous power demands yet requirement for intricate control, can succeed in the hands of a single wizard. It requires the interaction of magical ritual, a fount of faerie power, and (so she believes) the channelling effect of mundane human participants. She believes that she understands how Volkhv
 
@@ -3861,7 +3861,7 @@ Her goals (in approximately this order of importance) are:
 
 Though Malincka believes she knows *what* happens in a Volkhv Great Ritual, in order to control it she must first understand *how* it happens. Therefore she has been creating ever more powerful InVi spells. Simultaneously, she is pursuing methods of creating and manipulating auras using a blend of Hermetic and Volkhv methods. She has also encouraged her community to pursue more direct methods. The revived cult of Hermes was her idea though she has played relatively little part in promoting it. Her reasoning is that while a great faerie power is
 
-### *Malincka Capcek, Follower of Bonisagus*
+### Malincka Capcek, Follower of Bonisagus
 
 **Characteristics:** Int +4, Per +2, Pre –1, Com +1, Str –1, Sta 0, Dex +2, Qik +1
 
@@ -3943,7 +3943,7 @@ Concentration (Lab work) 4, Faerie Lore (Slavic) 4, Finesse (Vim) 3, Hermes Lore
 
 *Air of Friendly Magic* (MuVi 30)
 
-### *Malincka's Spells*
+### Malincka's Spells
 
 The last four spells listed in Malincka's statistic insert are the fruits of three decades of spell design effort. These are only the most recent versions of her relatively *successful* spells. Malincka usually experiments in her struggle to get away from Hermetic methods, and has had several spectacular failures.
 
@@ -3982,7 +3982,7 @@ necessary to the aura tempering process, Hermetic magi must not use a Slavic dei
 
 However, Malincka is not a fool. She slaves at her InVi, MuVi, and CrVi spells because she knows that the new religion is dangerously uncontrolled. If she cannot understand and control the magical energies that create the Slavic aura then who knows what fearsome end might result?
 
-### *Nastassia Baramov*
+### Nastassia Baramov
 
 Nastassia is Malincka's second-in-command, and supplies the force of character necessary to support Malincka's rather abstract vision. Nastassia is an oddity for a Bjornaer maga. She has a powerful leaning toward Ignem magic, which shows up in several of her abilities, and her personality. In fact, aside from her strong commitment to Malincka's goals, Nastassia has one overriding obsession, the Firebird.
 
@@ -3990,7 +3990,7 @@ Since childhood, this legendary beast has dominated Nastassia's imagination. She
 
 Of all the Hermetic magi at Thousand
 
-### *Malincka's Spells, Cont.*
+### Malincka's Spells, Cont.
 
 source? (15+), Was there another aura here previously? (15+) How long ago? (18+) Of what kind? (18+), and Of what strength? (21+). At the storyguide's discretion exceptionally high perception rolls (24+) may reveal further information if any is available.
 
@@ -4000,7 +4000,7 @@ R: Per, D: Mom, T: Group
 
 This spell was Malincka's first attempt to examine the interaction between a Great Ritual and the minds of the pagan worshippers who participate in it. It allows a magus to detect whether a human mind is being influenced by magic. A Per + Magic Sensitivity stress roll of 9+ allows the caster to discern further details of any influence. The spell is effective, but not very precise, and its fleeting duration makes it a clumsy tool.
 
-### *Further Information*
+### Further Information
 
 All these spells are in the covenant grimoire, and in the library as tractatus:
 
@@ -4016,12 +4016,12 @@ With this tool she hopes to reach a better understanding of auras, to understand
 
 Caves, Nastassia is the most serious about worship of Hermes. She is also devoted to Khors, as sun god and protector of the Firebird. Additionally, she has been at the forefront in searching out heart-beasts among the local tribesfolk. In recent years Nastassia has taken Yakim as her lover, learning more Ignem techniques from him, while working to ferret out his heart-beast. She is certain that he has one, but it is "deeply buried," and thus far has proven elusive.
 
-### *Rehamchi Danichev*
+### Rehamchi Danichev
 
 Rehamchi is the local senior Volkhv. As far as he is concerned he is teaching the Hermetic magi the truth about the world, and how to worship it properly. He therefore privately regards himself as the leader of the community. Certainly he is the one who conducts all the rituals and celebrations, except for the new ones, which Nastassia leads. He has a tolerant sense of amusement for the
 
 
-### *Nastassia Baramov, Follower of Bjornaer*
+### Nastassia Baramov, Follower of Bjornaer
 
 **Characteristics:** Int +1, Per +1, Pre +2, Com 0, Str +1, Sta +1, Dex +1, Qik 0
 
@@ -4103,15 +4103,15 @@ overall project. The idea of finding a new god is rather foolish, really, and th
 
 This basic difference of opinion aside, Rehamchi gets on well with the magi and has learned enough Latin and Hermetic Magic Theory to qualify as an Ex Miscellanea magus. Two things, however, do reach him deeply. For one, it was Nastassia who discerned the fact that he had a Swallow heartbeast and taught him how to release it. He was puzzled as to how a "Latin witch" could manage to see such a thing in him. Secondly there is the young girl, Stennya. She has been preaching the coming of Hermes for about two years now, and he is beginning to believe that she is having a genuine revelation. For now he is content to teach his companions and await developments. Perhaps, though, he may eventually seek guidance through a major Prophecy.
 
-### *Lelya Danichev*
+### Lelya Danichev
 
 Lelya is Rehamchi's daughter. As she was brought up among Hermetic magi her grasp of Hermetic methods is much firmer than her
 
-### *Echo of the Firebird*
+### Echo of the Firebird
 
 This is the latest version of Nastassia's personal heart-beast altering spell.
 
-### *Echo of the Firebird* **MuCo[AnAuIg]40)**
+### Echo of the Firebird **MuCo[AnAuIg]40)**
 
 R: Per, D: Sun, T: Ind
 
@@ -4119,24 +4119,24 @@ This spell alters any avian heart-beast towards an idealized Firebird form. The 
 
 father's, and she is more genuinely enthusiastic about Malincka's project. She is Stennya's step-mother and keen to see the girl's powers develop. Lelya is impatient to assert herself within the Order of Hermes. She intends to attend the next tribunal meeting, and wants to enter a motion condemning the existing attitude of Hermetic magi towards Volkhvy in general. She is also intent upon extracting some revenge for the Pripet raid, and has been practicing certámen diligently over the last three years with the rather foolish notion of forcing a formal apology.
 
-### *Yakim ibn Rassur*
+### Yakim ibn Rassur
 
 Born in Great Bulgar, Yakim was sold to Greek merchants at an early age and taken to Constantinople. There he was recognized as Gifted by one of the most notoriously vicious old Flambeau magi of the Theban tribunal. Yakim bears the marks of his master's cruelty in the form of welts and scars across his back. After passing his gauntlet he fled Constantinople, vowing never to return. For a year or so he rode with the Cuman tribesmen, returning to Great Bulgar in 1203. There he had the good fortune to fall in with the great Muslim scholar Haroun Hashemi, with whom Yakim spent six years learning Theology, Medicine, and Philosophy. He also experienced a profound change of personality, regaining his youthful enthusiasm. He still returns to Great Bulgar at least once a year.
 
 In 1209, Yakim met Malincka, and was sufficiently intrigued to visit Thousand Caves. He joined the covenant in 1211 and fit in well. For a Flambeau magus he is surprisingly outgoing and genial. His philosophical expertise has made him Malincka's main theoretical partner.
 
-### *Basyl Karrimichi*
+### Basyl Karrimichi
 
 Basyl is the least useful of all the Thousand Caves magi for Malincka's purposes. His basic mindset is frivolous. He is a prankster, and can seldom pass up the opportunity for witty play or practical jokes. Even his attitude to faerie is light-hearted. He has many friends there, but persistently refuses to get involved in serious research or study.
 
 There is only one aspect of Basyl's character which can force him into a more serious mood: his tendency to have prophetic visions. Basyl's visions are very intense, and leave him exhausted. They tend to strike either at the peak of his powers or at the trough (his magic cycles over a considerable range each season). It is Basyl who has, over the last five years or so, begun to report visions of "the coming of Hermes," but so baroque and twisted is the content of his visions that noone has succeeded in making sense of them.
 
-### *Narina Cheminov*
+### Narina Cheminov
 
 Narina was stolen at the age of 6 by her parens, a very elderly Bjornaer magus, who lived the last twenty five years of his life as a virtual hermit in the Urals, with only Narina and a few equally elderly servants as compan-
 
 
-### *Rehamchi Danichev, Magus Ex Miscellanea*
+### Rehamchi Danichev, Magus Ex Miscellanea
 
 **Characteristics:** Int +2, Per +1, Pre +1, Com 0, Str 0, Sta +1, Dex 0, Qik +1
 
@@ -4201,7 +4201,7 @@ ions. When she was 15 he began teaching her in a thoroughly Bjornaer tradition. 
 
 Narina's time at the covenant has been hard as she makes the difficult adjustment to communal life. She is now beginning to develop a fuller suite of normal abilities (she could not read Latin when she arrived ten years ago). She is the friend of all local animals, and much more attuned to the natural life around her than is Nastassia. Narina, of all the Thousand Caves magi, actively hates Pripet Maior most intensely. The attack of 1217 severely disturbed the local animals, an offense for which she will never forgive them.
 
-### *Otto Rattstein*
+### Otto Rattstein
 
 Otto is an enigma. He is an elderly Bjornaer magus, once of considerable standing at Crintera. He arrived at Thousand Caves a little over ten years ago and petitioned for entry. Malincka was already considering whether to make her revelation at the 1214 tribunal, or to wait until 1221. Otto's arrival hinted that her work had already become known, and increased the pressure on her to publicly admit the nature of her researches. The magi suspected him of being a spy, but were ultimately constrained to admit him.
 
@@ -4224,7 +4224,7 @@ Pripet's relationships have decayed. Local swamp animals and faeries now avoid t
 
 
 
-### *Pripet Maior Statistics*
+### Pripet Maior Statistics
 
 **Symbol:** A house on stilts above a reed bed
 
@@ -4323,7 +4323,7 @@ supporter, routinely pressing Pripet to reenter the mainstream of tribunal affai
 
 ### Magi
 
-### *Yellina Ozwry*
+### Yellina Ozwry
 
 Yellina is the current leader of Pripet Maior. This doesn't mean that she has any effective authority over the other magi, but that she has the lowest Dementia rating, and is thus the most lucid and controlled.
 
@@ -4333,7 +4333,7 @@ Yellina has gone completely deaf in the last five years, but can still communica
 
 Though she is largely rational, Yellina's principles and politics are stubbornly conservative-Bjornaer. She might refrain from direct physical confrontations herself, but she sees nothing wrong with attacking mundanes, and views the Thousand Caves project as a hideous treachery.
 
-### *Yellina Ozwry, Follower of Bjornaer*
+### Yellina Ozwry, Follower of Bjornaer
 
 **Characteristics:** Int +3, Per +1, Str –1, Sta 0, Pre –1, Com 0, Dex +1, Qik +1
 
@@ -4377,7 +4377,7 @@ beast, Hidden Shape, No Familiar, Will Over Form), Special circumstances (Swimmi
 
 Nowadays Yellina is rather cautious with her magic. She is close to Final Twilight, and gained the Chaotic Magic Flaw in her last Twilight. The situation is not helped by her Dementia, which acts as a negative factor in spontaneous spell rolls, and would count against her in controlling a Twilight.
 
-### *Vlachs von Hasstein*
+### Vlachs von Hasstein
 
 Vlachs came into Russia from Bavaria almost a century ago. He joined Pripet shortly after gauntleting at Crintera, when the Russian covenant was just reaching the peak of its strength. Now, however, his short-term memory is failing. The past he remembers well, but not the present, and a dozen times a day he suffers a terrible shock as he looks about him at a covenant "suddenly" fallen into ruins, which can trigger dangerous convulsive fits.
 
@@ -4385,7 +4385,7 @@ Vlachs is a vigilant, aggressive sentinel, patrolling widely in his Osprey heart
 
 Vlachs has been seriously emotionally wounded by the loss of his Gentle Gift in a bad Twilight. He never had the Animal Ken Talent, and now finds himself disturbing the animals which he loves and strives to protect. This is a key part of his Dementia, and bad experiences of this sort can stir up the worst in his nature.
 
-### *Casimi Ljech*
+### Casimi Ljech
 
 Casimi is the most blatantly dangerous of the Pripet Maior magi. In his human form he is a big, blustery, aggressive Pole. His heartbeast form, a water ox, has many of the same characteristics, but so complete is Casimi's identification with his heart-beast that once in this form there is almost no capacity for rational thought left. Over time, Casimi has been losing control of his body and he is subject to sudden shifts from human to animal and vice versa. He may remain locked in one of the animal forms he has mastered for an indefinite period. In addition his memory loss has been eroding his conscious control of his magic.
 
@@ -4395,7 +4395,7 @@ Casimi led the Pripet Maior assault on Thousand Caves in 1217, and came very clo
 
 Nowadays, he spends almost all his time prowling in the swamp in oxen form, terrorizing villagers and battling the more ferocious swamp beasts and faeries. He retains his Parma Magica, as well as his Form bonuses to resisting damage and magic. In addition, a Twilight while casting *Form of the Avenging Beast* made the effects of that spell permanent. This combination renders him terribly dangerous, as he is highly magic resistant and physically very powerful.
 
-### *Miya Cossuri*
+### Miya Cossuri
 
 At 153, Miya is by one year the oldest of the magi in the Novgorod tribunal. Her mind is sounder than Casimi Ljech's, who is barely 11 months younger, but her body is failing.
 
@@ -4407,7 +4407,7 @@ leaves it, and spends most of her waning powers on its upkeep. The palace is a m
 
 The only hole in the spell relates to Miya herself. On the one hand it doesn't affect her directly, and she retains a formidable arsenal of magics. On the other, the animals know she is their benefactress. Their many generations of life in the covenant have rendered them more intelligent and larger than normal animals; they will defend her.
 
-### *Stolitzya "The Swimmer"*
+### Stolitzya "The Swimmer"
 
 **Characteristics:** Cun +5, Per +2, Str +7, Sta +3, Pre +4, Com –5, Dex –3, Qik –3
 
@@ -4447,13 +4447,13 @@ tion she is exceptionally hard to hurt, as she offers no vulnerable spot to her 
 
 Miya's home is, by default, the place where visiting Redcaps and emissaries are most likely to meet a cordial welcome. Miya herself is a sweet, incredibly ancient lady, lacking malice, but with little understanding of the world that now surrounds her beloved marsh and animals.
 
-### *Lev Deniki*
+### Lev Deniki
 
 Unlike Vlachs and Casimi, Lev Deniki appears to be a pleasant, restrained man. He is rational in conversation and apparently moderate in his views. This, however, is a mask. Lev is unquestionably the most deadly of the three. His heart-beast is a water serpent, and he epitomizes the characteristics of stealth, subtlety, and lethal venom.
 
 Lev meets and talks with any visitors to the covenant. If he decides they are dangerous, he ambushes them as they leave the swamp, for he is quite mad. Lev has become afflicted by a mounting paranoia. The world exists for him only in shades of threat and danger. Nowhere is safe. Lev's fears are consuming, and at base he is a coward. Strong initial resistance to his attack will cause him to flee, and if cornered or trapped, he can easily be intimidated.
 
-### *Stolitzya "The Swimmer"*
+### Stolitzya "The Swimmer"
 
 The last member of Pripet Maior covenant is Stolitzya. This near-legendary Bjornaer maga went into Final Twilight over forty years ago, permanently assuming her heart-beast shape, a great black-backed turtle augmented with formidable Muto spells, and imbued with magical energy from a century and a half of longevity potion use.
 
@@ -4470,7 +4470,7 @@ Leczyca's outlook is strongly flavored by the general Polish attitude toward the
 The roots of the dispute between Leczyca and the Rhine covenants is ancient and complex. Leczyca inherited all the resentment the Rhine tribunal felt when Grand Silesia abandoned them, as well as offering a tempting target for vis-starved covenants. The center of these frictions is Durenmar, domus magna of House Bonisagus. For their own reasons, the other two Rhine domus magnae have reached a concord with the Novgorod tri-
 
 
-### *Leczyca Statistics*
+### Leczyca Statistics
 
 **Symbol:** A quill, point upright, with a sword's hilt
 
@@ -4570,7 +4570,7 @@ Of all the Novgorodian covenants, Leczyca is most indifferent to the Thousand Ca
 
 ### Magi
 
-### *Stanis Chechenko*
+### Stanis Chechenko
 
 Stanis is the public leader of Leczyca, much like Yury Beslav at Three Lakes. He is a Jerbiton magus who has no difficulties dealing with mundanes, and tends to appreciate the finer points of aristocratic society. Here
 
@@ -4581,7 +4581,7 @@ Stanis's major concerns are with keeping Leczyca's lines of communication and in
 
 Mundane relations aside, Stanis would like to be a major political player in the Order. He is constantly engaged in correspondence and maneuverings to undermine Rhine influence. How effective his politicking has been is a matter of opinion. There are those who believe that Leczyca's continued independence stems more from stout walls, a strong Aegis, and a devoted, efficient turb than any other reasons.
 
-### *Stanis Chechenko, Follower of Jerbiton*
+### Stanis Chechenko, Follower of Jerbiton
 
 **Characteristics:** Int +3, Per 0, Pre +1, Com +1, Str 0, Sta –1, Dex 0, Qik 0
 
@@ -4625,7 +4625,7 @@ Mundane relations aside, Stanis would like to be a major political player in the
 
 **Spells:** Stanis is a narrow specialist. He has chosen the combinations of Rego and Perdo with Corpus and Mentem as his fields of expertise, and tends towards politically useful spells of influence and battlefield spells of physical destruction. In these areas, he has Mastered all the listed formulaics.
 
-### *Kasina and Frania Popovich*
+### Kasina and Frania Popovich
 
 Kasina and Frania are halves of a unique pair who form a unit with remarkable qualities. Gifted siblings are rare, Gifted twins even rarer, and magic in such closely related people tends to express itself in unpredictable fashions. Kasina and Frania are a perfect example of this rule. On the one hand their styles of magic are completely opposite. Kasina is a Merinita maga. Her magic is wild, powerfully spontaneous, and unorthodox. Formulaic magic is very difficult for her. Frania is a Tremere maga. She is incapable of spontaneous magic. However, the two sisters share a common Flaw and a common Virtue. At 100 paces apart, their magic has normal potency. When separated by more than 100 paces, their magic wanes in strength. If they reduce their separation below 100, their powers wax. (The intensity is approximately 1 point on spell totals per 20 paces, to a maximum bonus and penalty of + or – 5; treat this as an unusual Virtue/Flaw combination similar to Cyclic Magic). The deep, mysterious bond of their magic is not yet fully understood. For instance, the sisters have had simultaneous Twilight experiences at identical levels of intensity. What this might mean, and how it might one day affect them, is unknown.
 
@@ -4644,7 +4644,7 @@ Frania's interests and abilities diverge sharply from her sister's. She is a stu
 
 Note that as a mature Tremere maga, Frania has long since reclaimed her sigil from her parens.
 
-### *Tomaszi Klimowicz*
+### Tomaszi Klimowicz
 
 Tomaszi, at 133, is the eldest of the Leczyca magi, and likes to make this seniority the basis of his own claims to authority though he is not truly politically ambitious. His interests lie in his craft as an artisan and enchanter of physical objects. He is principally responsible for the armaments of his fellow magi and the covenant's grogs, as well as being one of the magi who originally invoked the Hermes Portal between Leczyca and
 
@@ -4654,7 +4654,7 @@ Tomaszi has grown irritable in his old age, and his long years in the laboratory
 
 > creation is undimmed, as is his skill. He still travels to Italy every few years to compete in the contests at Verdi.
 
-### *Ruprecht de Solange*
+### Ruprecht de Solange
 
 Ruprecht is the babe of the covenant at a mere 69 years of age. He came to Poland from France about forty years ago seeking a suitable arena in which he might harden his will and be tested. Ruprecht comes from noble stock, and idealizes the warrior knight as the epitome of civilization and honor. He is the leader of Leczyca's turb.
 
@@ -4662,24 +4662,24 @@ Despite the pleasure he takes in the constant friction and struggle at Leczyca, 
 
 Ruprecht reclaimed his sigil about fifteen years ago, and hence lacks the mandatory No Sigil Flaw. He has recently taken an apprentice, Janek (the only one currently at the covenant, since Kasina and Frania both released their last apprentices two years ago).
 
-### *Sanya Tianowicz*
+### Sanya Tianowicz
 
 Sanya is the only Bjornaer maga at Leczyca. Her presence in the covenant owes a good deal to the wider political situation. Though there is no formal alliance between Leczyca and Crintera, the Leczycan magi feel much more secure about Crintera's support if there is at least one Bjornaer magus in residence.
 
 Sanya seems oblivious to this aspect of affairs. She came to Leczyca fifty years ago, "recommended" by the elders at Crintera, and has proven a considerable asset to the covenant. She is a stable personality, steadfast in combat, loyal, and resolute. Sanya's heartbeast is a badger, and she demonstrates all of a badger's proverbial toughness in defense of her home. This aside, she does not align regularly with any of the factions or individuals at Leczyca; her interests lie with the local animals, and to some degree, with the covenant's large herd of horses.
 
-### *Barchek Ocowski*
+### Barchek Ocowski
 
 Barchek is the only member of House Mercere in the Novgorod Tribunal aside from Susan of Wicklow. Unlike her, he is not a Gifted magus, and relies for his magical abilities on an array of devices which have been created for him by the Leczycan magi. Unlike Susan, his normal routes are towards the west. He visits several Rhine covenants each year (carrying challenges or rebukes), several Transylvanian covenants (especially the ones located in the northern Carpathian mountains), and at least once a year he visits the Roman tribunal, carrying messages to Verdi and legal complaints to Magvillus.
 
 Barchek is a lean, spry man with an engaging sense of humor and an iron stamina. He comes from peasant stock and is adept at blending almost seamlessly into the stream of travelers and villagers through which he must pass.
 
-### *Yannes Kolski*
+### Yannes Kolski
 
 The last widely known magus of the Novgorod tribunal is Yannes Kolski, also known as the Mad Magus of the East. Yannes was a Criamon magi of Leczyca, a master of the Enigma. All his life, Yannes had been prone to prophetic visions and numerous but
 
 
-### *Yannes Kolski, Follower of Criamon*
+### Yannes Kolski, Follower of Criamon
 
 **Characteristics:** Int +4, Per +3, Pre –2, Com –4, Str 0, Sta 0, Dex +1, Qik +2
 
@@ -4919,7 +4919,7 @@ The first stage in the invasion was the final subjugation of the nomad tribes no
 
 training. Over sixty thousand new warriors were added to their ranks, and by the end of 1237, Subatei had repaid the affront offered to him fourteen years before; the Volga Bulgars were destroyed. Their capital was razed, their towns burned, and their fields stripped. The young and fit were enslaved and the rest were killed.
 
-### *Typical Orlock (Mongol General)*
+### Typical Orlock (Mongol General)
 
 **Characteristics:** Int +3, Per +1, Pre +3, Com +1, Str 0, Sta 0, Dex
 
@@ -5056,7 +5056,7 @@ against China, Mangku fell ill and died. Immediately, a civil war began between 
 
 Hulegu's troops were now needed in the east, and he was not friendly with the new Khan of the Golden Horde, Batu's brother Berke (1257-66). He left a small holding force in Syria and returned to Persia. A few months later, the Mamluks, warrior-rulers of Egypt, overwhelmed this force at Ain Jalut (Goliath's Spring) in Palestine, ending the Mongol advance.
 
-### *Mongol Rule*
+### Mongol Rule
 
 From 1238-1252, though the Mongols controlled Russia, they made no effort to actively govern. The Russian princes either died or swore fealty. The Mongols accepted this fealty and went back to their traditional way of life in the steppe, though Batu did build his new capital, Sarai, on the Volga. Southern Russia, of course, had been ruined. Kiev, Pereyaslavl, and Chernigov no longer existed as states. But in the north, government continued more or less as normal.
 
@@ -5068,7 +5068,7 @@ With Yaroslav dead his two sons took authority in the north. Andrei ruled in Suz
 
 This became the pattern of affairs for the next few decades. The Mongols could be easily roused against any. Unfortunately, they swiftly seized on such events as excuses for wholesale plunder and slaughter. Aleksandr played a key part. He appeased the Mongols and called on their support against his various opponents. He found that within their overlordship he could rule quite handily. He could campaign against foreign enemies and rule despotically with his new and dangerous masters at his beck and call, just so long as he could bear to pay the price in the sufferings of the common folk.
 
-### *Taxation and Rebellion*
+### Taxation and Rebellion
 
 In 1257 the Mongols ordered a census, taxation and conscription on their minds. Hulegu's campaign in the near-east was building to a climax, manpower was needed, and Mangku ordered the Golden Horde to support Hulegu. The tax was deeply resented. Novgorodians especially hated the idea of a tax and the presence in their city of haughty Mongol tax collectors. In 1261 angry mutters began to sweep the streets and in 1262 it finally broke into open revolt. Rostov, Vladimir, Suzdal, and Yaroslavl also rose against the tax men and drove them out. This was the Great Uprising, and for a brief moment it seemed that Russia might be freed. Suppression, however, was immediate and brutal, and the Mongols were aided in it to some degree by the Russian princes.
 
@@ -5208,7 +5208,7 @@ Finally, a policy of endurance could work. The Mongols, some will argue, can be 
 
 Where does your covenant fit into this tangled web of intrigue, conflict, and invasion? As a first step, ask yourself how your covenant relates to each of the four established covenants of the tribunal; this will help you align yourself within the major power struggles. At the same time, your covenant's involvement with each of the other covenants opens possibilities for adventure. Here are some possible positions, and story ideas you might like to try out.
 
-### *Three Lakes*
+### Three Lakes
 
 **Support:** You support Three Lakes, broadly speaking. You strive to uphold their general policies, within the boundaries of your own particular aims. Consequently you may be called upon to assist Three Lakes magi, or even to support a group of traveling quaesitores on an official mission for the tribunal. This is a privilege, but also a responsibility, and possibly a burden. In return, Three Lakes is ready to offer you advice, and sometimes more concrete aid.
 
@@ -5216,7 +5216,7 @@ Where does your covenant fit into this tangled web of intrigue, conflict, and in
 
 **Story Suggestions:** The current situation gives you the opportunity to help or to hinder Three Lakes. Will you assist them in controlling the Thousand Caves controversy, or use it to damage them? An opportunity soon arises. A magus from another tribunal visits your covenant. He may be a friend, a casual acquaintance, or a complete stranger. Most likely he comes from Rhine, Transylvania, or Thebes. Your visitor drops hints about possible favors he could do you. He wants to trade, and seems especially interested in gossip about tribunal affairs. You could sell out Three Lakes quite easily, or strive to keep their affairs secret. Ultimately, of course, it is unlikely that your actions will remain secret. Whether you help or hinder, your behavior will sooner or later come home to haunt you. If you work to protect Three Lakes, your visitor may turn nasty, or take to more covert ways of extracting information. If you betray Three Lakes they will probably discover it eventually, and then you had better hope your new friends are strong enough to protect you!
 
-### *Thousand Caves*
+### Thousand Caves
 
 **Support:** Thousand Caves is, in your opinion, undertaking one of the most radical, visionary tasks of any covenant in the Order. This, as you see it, is a real hope for the future and for the recreation of a magical society as vigorous and powerful as that of ancient, pagan Rome.
 
@@ -5228,7 +5228,7 @@ Where does your covenant fit into this tangled web of intrigue, conflict, and in
 
 fuss comes to the attention of the local clergy and nobility. Paganism is not to be tolerated, and the local powers move in swiftly to purge the area of malicious influences, possibly including you! How do you react? Will you support the missionaries, or seek to suppress them? Will you cooperate with the authorities, or try to mislead them? Do you believe in the new religion? Perhaps you will have an experience you cannot explain by normal methods; you yourself may end up being converted. Alternatively, what you see may convince you that the Thousand Caves magi are simply consorting with demonic entities and being granted malefic powers. A quick certámen might suffice to banish the interlopers from your district. If not, perhaps more direct methods will prove necessary.
 
-### *Pripet Maior*
+### Pripet Maior
 
 **Support:** Pripet Maior is the true heart of the tribunal. Their attitudes toward encroaching mundanes are quite correct. They have every right to defend their land. Three Lakes, for one, has made a grievous error in getting so involved in mundane affairs. Further, Pripet Maior is a proper Bjornaer covenant, with the right priorities. The animals and the wilderness must come first!
 
@@ -5238,7 +5238,7 @@ fuss comes to the attention of the local clergy and nobility. Paganism is not to
 
 Regardless of your approach, you will find yourself suddenly facing a third factor. Crintera is not going to sit on the sidelines forever. Pripet is very important to them. If Pripet Maior is seriously threatened or destroyed, magi from Crintera will arrive very swiftly to lay claim to the legacy of the covenant (books, vis, enchanted items, laboratory equipment), and even to the territory of the marsh itself. Pripet has, after all, been the reason for Crintera's support of the Novgorod Tribunal for centuries, and they will demand the right to dispose of its properties and very likely to re-found the covenant. The Crintera magi will be mature or elderly Bjornaer, probably former apprentices of the Pripet magi, with conservative attitudes and territorial feelings. If you already have a solution to the conflict you will have to talk fast to get them to go along with it. If they find you scavenging in the ruins or even just trying to take advantage, get ready for a fight. Also, don't expect Three Lakes' support in this matter; when it comes to Crintera, Three Lakes knows where the tribunal's interests lie.
 
-### *Leczyca*
+### Leczyca
 
 **Support:** Leczyca has the right idea when it comes to dealing with mundane society; form alliances that bring the nobility in on your side, and don't give an inch if any other part of the Order tries to muscle in on your territory. Our own worst enemies are our own kind; it is other magi who know our weaknesses. Anyway, the western magi in general have been short-sighted and greedy. If they have a vis shortage, that's their problem. The borders of the Novgorod tribunal were settled a long time ago and aren't about to be changed now!
 
@@ -5247,12 +5247,12 @@ Regardless of your approach, you will find yourself suddenly facing a third fact
 **Story Suggestion:** Information comes to you about a battle in the Polish/German borderlands. Perhaps a wandering minstrel, merchant, spy of yours, or even a Redcap brings the news. From the descriptions it seems obvious to you that this fight between noble warbands was tilted in the Polish favor by magical intervention. Did Leczyca take a hand? They've already been disciplined once over such matters and had to pay a heavy vis fine. Whether you support or oppose Leczyca this is an opportunity. Perhaps you can squeeze some vis out of them as the price of your silence, or perhaps you had better do what you can to ensure the story doesn't circulate more widely. If you send an agent into the area to investigate the matter, you may soon find yourself facing agents from the Rhine tribunal or possibly even magi from Durenmar eager to expose Leczyca's illegal actions. Being Leczyca's ally in this situation may be a considerable burden. It is quite possible that they have re-established themselves in the Polish royal courts and are unwilling to disengage; probably they will expect your support.
 
 
-### *The Sixth Covenant*
+### The Sixth Covenant
 
 When all is said and done, you have no overwhelming need to get closely involved with the other major covenants of the tribunal. It is possible to establish yourself in an area so distant from other covenants that you have very little contact with them. Taking this option allows you to devote yourself to your own concerns, and to involve yourself in cooperation or rivalry with Novgorod's sixth covenant. The sixth covenant offers you the opportunity to create an ally or enemy, or perhaps to re-balance the political weight and factions within the tribunal. Do you think the tribunal needs another Bjornaer covenant? A special tie to the church? To the nobility? Perhaps a group of Ex Miscellanea magi have formed a partnership with the pagan Lapps, or the Cuman Shamans. There might be a covenant in the Crimea, technically Novgorodian but heavily involved in the Theban tribunal, or on one of the Baltic islands where it serves as a meeting place with the mysterious Order of Odin. The choice is yours.
 
 
-# *Appendix I: Shamans ppendix I: Shamans*
+# Appendix I: Shamans ppendix I: Shamans
 
 Shamanism may be the oldest form of magic, for while the vast majority of Shamans are illiterate, the Romans and Greeks left written records of ancient shamanic peoples who were active in their ages. In the Mythic Europe of 1220, Shamans can be found in many remote regions, among the Mongols, Lapps, and other peoples living in the northern reaches of Russia, Scandinavia, Siberia, and the waste areas of the Far East. There are also stories of Shamans living in isolated rural areas in recently Christianized countries, keeping their ancient magics alive.
 
@@ -5272,11 +5272,11 @@ One important fact to remember about playing most Shamans is that unlike Hermeti
 
 ### Character Creation
 
-### *Characteristics*
+### Characteristics
 
 Shaman Characteristics may be generated either by the purchase method or by random rolls, as specified in ArM4.
 
-### *Virtues and Flaws*
+### Virtues and Flaws
 
 Shamans may have up to ten points of Virtues and Flaws, just like other mystic companions. They may select from among any Virtues and Flaws available to other characters, with the elaborations and exceptions given below. When the costs of Virtues and Flaws differ between grogs, companions, and magi, Shamans always pay the magus cost. (In the lists given below, "ArM4" page references are to **Ars Magica** Fourth Edition, and "WGRE" references are to *The Wizard's Grimoire Revised Edition*.)
 
@@ -5320,7 +5320,7 @@ There are a number of new Virtues and Flaws which Shamans (and only Shamans, exc
 
 Finally, you must purchase the +1 Virtue Free Expression (ArM4 page 41) if you wish to be able to purchase and use the Shamanic Power Alter.
 
-### *Abilities*
+### Abilities
 
 All Shamans begin with the following Abilities. Shamans may purchase additional Abilities using (age + 10) experience points.
 
@@ -5337,11 +5337,11 @@ All Shamans begin with the following Abilities. Shamans may purchase additional 
 
 \*\* Folk Magic is an Ability described in *Hedge Magic,* page 56. Shamans use Folk Magic only for the operations described under "Additional Capabilities," below.
 
-### *Shamanic Powers*
+### Shamanic Powers
 
 Shamans have four Shamanic Powers: Travel, Control, Alter, and Ritual. These powers are learned during years of apprenticeship. They are what allow Shamans to enter trances, journey to the spirit world, and affect spirits. Initial Power scores are pur-
 
-### *New Virtue: Dreamer (+2)*
+### New Virtue: Dreamer (+2)
 
 When most people dream their spirits simply drift in the magic realm, unable to control their movements except in an unconscious way. You are aware of your dreaming and can control fully control your actions and movements while asleep. You are Gifted, but either lack the ability to be a full shaman or had the ability and inclination but never received training until your Gift had already solidified in this way.
 
@@ -5355,7 +5355,7 @@ Dreaming may be purchased by any character except a Faerie Companion, because fa
 
 chased just as Abilities are on a pyramidal scale. Beginning Shamans have 50 points to spend on these four Powers, though, as mentioned earlier, only Shamans with the Virtue Free Expression may purchase and use Alter.
 
-### *Additional Capabilities*
+### Additional Capabilities
 
 All Shamans can communicate freely with any inhabitant of the magic realm: ghosts, spirits, animal spirits, elementals, and so on.
 
@@ -5418,7 +5418,7 @@ Travel describes a Shaman's power to go into trance and journey to the magic rea
 
 Times described in the sections on travel in the magic realm are given as they actually pass in the real world. These amounts of time may or may not have any correspondence to the time that appears to pass in the magic realm, at the discretion of the storyguide. For example, a Shaman who spends a mundane day in the spirit world may spiritually experience the passage of many days or only several minutes.
 
-### *Travel in the Near Lands*
+### Travel in the Near Lands
 
 To use the Travel Power a Shaman must first enter a trance. Then he chooses the destination for his journey and rolls a stress die + Per + Travel.
 
@@ -5441,7 +5441,7 @@ A Shaman may travel to a number of Near Lands destinations while in the same tra
 
 Returning from any Near Lands destination takes the same amount of time the outward journey took, including any time spent wandering aimlessly. It requires no rolls, assuming the Shaman is not lost. Shamans may attempt to return more quickly than this, however. To do this, they simply make a normal roll for visiting a familiar location, with all the attendant risks of failure and botches.
 
-### *Travel in the Far Lands*
+### Travel in the Far Lands
 
 Journeying into the Far Lands is very difficult and dangerous. Once a trance is entered, the Shaman must roll a stress die + Per + Travel.
 
@@ -5462,7 +5462,7 @@ To visit an unfamiliar destination in the Far Lands, a Shaman must beat an ease 
 
 Returning from any Far Lands destination takes the same amount of time the outward journey took, including any time spent wandering aimlessly. It requires no rolls, assuming the Shaman is not lost. Shamans may attempt to return more quickly than this, however. To do this, they simply make a normal roll for visiting a familiar location, with all the attendant risks of failure and botches.
 
-### *Getting Lost*
+### Getting Lost
 
 A Shaman who has become lost in the spirit world must make rolls to find his body again.
 
@@ -5472,11 +5472,11 @@ Other Shamans or dreamers (see page 169) may attempt to find lost Shamans by fol
 
 Every day a Shaman is out of his body, he loses one Body level. If a Shaman's last Body level is lost in this way, his spirit becomes trapped forever in the magic realm.
 
-### *Hiding in the Spirit World*
+### Hiding in the Spirit World
 
 Sometimes Shamans search for entities that do not wish to be found. If this is the case the hiding entity rolls a stress die + Travel or a stress die + (Might ÷ 5) and subtract this from the Shaman's Travel roll. To make this roll, the entity must do nothing but hide in the spirit world for the duration of the Shaman's search. Remember, if one Shaman hides from another Shaman both must be in trances and may do nothing but search or hide.
 
-### *Spirit World Activities*
+### Spirit World Activities
 
 Permitted objects of a Shaman's searching in the spirit world include beings with Magical Might and people with the Gift. Storyguides must decide whether a given person has a strong enough Gift to allow contact in this way. Hermetic magi certainly do, as do other Shamans, Gruagachan (see *Lion of the North*), and mystic companions. People with Exceptional Abilities may or may not. The storyguide may wish to consult the *Wizard's Grimoire Revised Edition,* page 36, for ideas.
 
@@ -5494,7 +5494,7 @@ Fourth, a Shaman with access to the being's perceptions (whether through possess
 
 If he's traveled to a specific magic aura or regio, a Shaman may observe what is occurring within its boundaries in the mortal world, since these locations are directly connected to the magic realm.
 
-### *Guests*
+### Guests
 
 Shamans and dreamers may take others with them on their journeys in the Near Lands. To do this, a Shaman (or dreamer) may contact the spirit of any person he has ever met normally, as long as the person is asleep and dreaming. Follow the normal rules for contacting beings in the Near Lands. Once contacted, that spirit may accompany the Shaman wherever else he goes in the magic realm, until the Shaman leaves his trance.
 
@@ -5518,7 +5518,7 @@ Some spirits can appear anywhere in the mortal world at will.
 
 No inhabitant from the Far Lands can appear in the mortal world (at least not through the use of the Control Power), since the connection between the Far Lands and the mortal realm is very tenuous.
 
-### *Command*
+### Command
 
 Commanding a spirit is the most direct approach to controlling it. Commanding a spirit means the Shaman pits his force of will against the Might of the spirit. The Shaman compares a stress die + Sta + Leadership + Control + (Might of any aiding entity such as a Fetch ÷ 5) to the Magical Might of the spirit to be commanded. The Virtue Strong Will gives the Shaman a +3 on this roll, and only one bound spirit at a time can aid a Shaman on this roll.
 
@@ -5526,7 +5526,7 @@ On a success or tie, the Shaman has control of the spirit, and may command the s
 
 Shaman succeeds by 10 or more, he must roll a stress die + Sta of 6+ or lose a Fatigue level.
 
-### *Awe*
+### Awe
 
 When a Shaman awes a spirit, he attempts to impress it with his power so it will submit without a fight. To awe a spirit a Shaman rolls a stress die + Pre + Charm + Control and compares it to the Magical Might of the spirit to be awed. There are no bonuses or additions to this roll.
 
@@ -5536,7 +5536,7 @@ On a failure, the Shaman may not try again to awe this spirit until after the ne
 
 Some spirits and magical entities, at the storyguide's discretion, are by their very nature immune to awe.
 
-### *Persuasion*
+### Persuasion
 
 The best way to gain help from powerful spirits is to offer a service to the spirit in return for a favor. For example, to gain the aid of a powerful spirit that is the guardian of a different tribe, a Shaman might offer to aid that tribe. He might offer to bring a message from a ghost to its living relatives, to avenge its death, or to write a song commemorating its memory.
 
@@ -5546,7 +5546,7 @@ When a Shaman wants to persuade a spirit, he must roleplay with the storyguide, 
 
 The Alter Power is used to alter the magic realm directly by creating objects that are connected directly to it. The Alter Power may only be purchased and used by Shamans who have the +1 virtue Free Expression. Furthermore, every Shaman who uses Alter must also buy a Craft Skill which forms the physical basis of the Alter power. This Skill can be anything: woodcarving, tattooing, metalwork, and stonework are only some of the possible options. This Craft Skill is used together with the Alter power to create a physical object which is the physical manifestation of the change the Shaman has created in the magic realm. If the Shaman has several Craft Skills the Alter power may be used with each of them. The only restriction is that a Shaman must have a score of 2 in any Craft Skill used with the Alter power.
 
-### *Binding Objects*
+### Binding Objects
 
 The most common use for the Alter power is to create objects which can house spirits the Shaman has successfully controlled. These dwellings, called Binding Objects, are often small charms or tattoos on the Shaman's body. To make a binding object for a spirit the Shaman first declares the maximum Might of a spirit which can be housed in the object. Once that's done, he must roll a stress die + Dex + Craft Skill + Alter. If the roll meets or exceeds an ease factor of 15 + (Maximum Might to be housed ÷5), it is successfully created as long as the Shaman spends one pawn of vis (wild or ordinary) for every 5 points of Might to be housed. This vis is often physically incorporated into the object. A failure wastes the time and materials. On a botch, the failure is not readily apparent, but the first spirit asked to enter the dwelling is so horrified or insulted that it breaks free from the Shaman's control and flees or attacks.
 
@@ -5560,7 +5560,7 @@ Bound spirits in a Shaman's possession can count as helping spirits for purposes
 
 Anyone who touches a Binding Object inhabited by a spirit may communicate with the spirit inside, regardless of differences in language. Thus, a spirit in a binding object may serve as a source of information to the holder, though the spirit is free to ask a price for its knowledge — often its freedom.
 
-### *Spirit Links*
+### Spirit Links
 
 A Shaman can create a link between a spirit from the Far Lands and the mortal realm. To make such a link, the Shaman must first convince the spirit to have contact with the mortal world. Usual attractions are aid from the Shaman or worship by the Shaman's group.
 
@@ -5568,7 +5568,7 @@ These link are usually created as stories which tell of how a spirit came to inh
 
 Once created, a spirit link will endure until both the story and the physical link (the mountain, stream, or whatever) are gone from the world. The existence of such a link gives the place a magic aura or regio (storyguide's choice). It is impossible to create such a link on ground which is already an area of Divine or Infernal power.
 
-### *Shaping the Magic Realm*
+### Shaping the Magic Realm
 
 A Shaman may use the Alter Power to change his appearance in the magic realm, taking on the form of an animal or some other being. To do this a Shaman must roll a die + Sta + Alter of 6+. This roll is simple for ordinary Shamans and stress for untrained Shamans. A botch gets the Shaman stuck in an undesired form for the duration of his journey.
 
@@ -5588,7 +5588,7 @@ A body without a spirit (such as the body of a Shaman traveling in the magic rea
 
 Fetches are natives of the magic realm; they are not familiar with the mortal world. Nobles, the church, and wild animals are all new to a Fetch. Even more importantly, basics like fire, hunger, night, pain, and physical combat are new. A normal Fetch is at –3 to all social and knowledge rolls involving the mortal world, including rolls made while possessing the Shaman's body. Fetches who are Ghostly Warders do not suffer from this –3 penalty. However, even a Fetch who is a Ghostly Warder has had no recent experience with having a physical body which needs to eat and bleeds if cut. Fetches do learn from experience, and receive experience points as the storyguide deems appropriate. With practice a fetch
 
-### *Typical Shaman and Fetch*
+### Typical Shaman and Fetch
 
 *Typical Mongol Shaman* **Characteristics:** Int +2, Per +1, Pre
 
@@ -5676,7 +5676,7 @@ The Mongols have discovered that captive sorcerers make useful but dangerous sla
 
 Some Shamans are rumored to have very unusual powers. It is said they can draw a man's heart out of his body and hide it away. In this case his life would quite literally be in their hands. Worse still, there are vague whispers among those who see the Infernal in every dark shadow that they can do the same thing to his soul. If such an abomination were true it would give them hideous power over their victims.
 
-# *Appendix II: Slavic Deities ppendix II: Slavic Deities*
+# Appendix II: Slavic Deities ppendix II: Slavic Deities
 
 The descriptions in this appendix describe some of the characteristics of the pagan gods discussed in this book. These are summarized at the end of the appendix on pages 182-185.
 
@@ -5684,27 +5684,27 @@ Don't be surprised if you find certain points in the following descriptions cont
 
 Finally, as you read, you'll notice that the descriptions of these deities are significantly abbreviated. While these descriptions will do to make you acquainted with the Slavic and Baltic pantheons, it is highly recommended that you look to the Bibliography for further information on a specific god if you will be playing (or storyguiding) a Volkhvy associated with any of these powers.
 
-### *Svarog*
+### Svarog
 
 An archetypal sun and fire god, Svarog's priesthood is purely male, which seems to be the god's own dictate. Svarog's focus on creative energies tends to reduce the aggressiveness displayed by his priests, and many of them are talented artists or artisans who spend considerable time crafting fine objects for sacrifice to their god. Priests of Svarog very often have intensely cyclic magic (as per the Virtue/Flaw) with high peaks at midsummer and severe troughs at midwinter. Each priest of Svarog usually forms a special friendship and has special knowledge of just one of Svarog's four sacred animals: either the falcon, aurochs, bear, or horse.
 
-### *Perun/Percunos/Pehrkons*
+### Perun/Percunos/Pehrkons
 
 The best known and most widely respected god of war, Perun is invoked in battle more than any other Slavic or Baltic deity. His priests are bellicose. They tend to be thoroughly unsubtle in their approach to problems, with an immediate tendency to smash down obstacles in their path. Priests of Perun may be male or female, though males are notably in the majority. They tend to be skilled warriors, favoring weapon combinations with an axe or heavy hammer. Finally, Perun's priests generally display a blustery good humor, a fondness for carousing, and a disdain for wounds ("Grin and bear it," most respond to requests for healing).
 
-### *Mati-Syra-Zemlya*
+### Mati-Syra-Zemlya
 
 This earth deity may be the most widely respected and acknowledged of any of the Slavic or Baltic gods; her cult is universal in these regions and no one ignores her favor. She is predominantly but not exclusively served by priestesses; certainly all the most powerful of her servants are women. Volkhvy dedicated to Mati-Syra-Zemlya are deeply concerned with the agricultural cycle, and usually bound very tightly to their communities. They tend to be gifted handlers of livestock; Animal Ken is a common Virtue. They are also known to especially value nuggets of precious ore or raw gemstones (though not finished, polished, or refined items) which they describe as the tears of the goddess. Like the priests of Svarog they sacrifice such items to their goddess and claim to receive spell boons or special favors in return. Dowsing is a very common Virtue.
 
-### *Svarozhich*
+### Svarozhich
 
 Generally regarded as one of the sons of Svarog, Svarozhich is a god of fire. His priesthood is both male and female. Priests or priestesses of Svarozhich always display one of two basic temperaments. Some of them are among the worst, most violent, destructive, and aggressive of the Volkhvy (though they are never Dark Volkhvy), while others are among the most generous, helpful, charitable, and judicious. These are "the two faces of the god:" fire as wanton destroyer and fire as helpful friend. Along with these temperaments go different practical inclinations: warriors on the one side, artisans (exclusively of crafts such as smithing or pottery which make careful use of fire) on the other.
 
-### *Dazhdbog*
+### Dazhdbog
 
 Another of Svarog's sons, Dazhdbog represents creative powers in much the same fashion as his father. His priests and priestesses have a particular interest in bringing the power of the sun to bear on all evil taints, curses, and hauntings. They are particular enemies of servants of the Devil, and the Nameless Demon God of the Slavs (even to the point of actual physical combat). Dazhdbog's priesthood are markedly respectful of Christianity, and take a definite (if rather cautious) interest in rites of exorcism and other such anti-Infernal activities. Some priests of Dazhdbog are noted scholars of the occult in the "know thine enemy" tradition. There is a small sub-group of Dazhdbog Volkhvy who regard their god as a manifestation of the Archangel Michael (Mikhail), and vice versa. Their access to Volkhv powers seems unhampered by this suggestion, and they claim to suffer much less from the negative effects of the Dominion and Christian Piety or True Faith.
 
-### *Khors*
+### Khors
 
 Khors is the third of Svarog's sons. He is sometimes pictured rather like Apollo, as a charioteer driving a blazing chariot of the sun across the sky. Gold is sacred to Khors, and his priests and priestesses accept it as a sacrificial object. Volkhvy dedicated to Khors emphasize a search for mysteries in their lives and service to their god. As he travels the dazzling paths of the sky and the pathless maze of the underworld, they plumb the mysteries of life and uncover hidden secrets. Folk Ken is a common Ability,
 
@@ -5712,95 +5712,95 @@ Khors is the third of Svarog's sons. He is sometimes pictured rather like Apollo
 
 Occult Lore and Faerie Lore well thought of, and literacy is not terribly uncommon. Some Criamon magi have had fruitful riddle games with Khorsian Volkhvy.
 
-### *Myesyats*
+### Myesyats
 
 Among the Slavs (though not the Balts, see Mehnesis/Menuo below) the moon was thought to be female and wife to the Sun (Khors, that is). Myesyats is the celestial charioteer of the moon, and silver is sacred to her. Volkhvy of Myesyats are exclusively female. Cyclical magic (aligned to the lunar phases) is common among them and they tend to be well-attuned to nocturnal events or activities. Volkhvy of Myesyats, unlike many of the other "good" gods, have a special influence with faeries of the White Court, tending to interact with them on at least a respectful basis. Faerie Friend and Light Sleeper are common Virtues.
 
-### *Iarilo*
+### Iarilo
 
 Iarilo is the son of Dazhdbog and god of fertility. He is a Dionysian figure given to extreme eroticism. His Volkhvy can be either male or female and his rites are usually orgiastic without being degenerate. Volkhv dedicated to Iarilo are hardly cunning seducers, but they do take a frank and easy attitude to physical attraction. They believe fertility is, quite simply, a blessing. Man, maid, beast, or field — it hardly matters. Let the world ripen and give birth! Venus' Blessing is a very common Virtue; Curse of Venus is unheard of.
 
-### *Krukis/Kalvaitis*
+### Krukis/Kalvaitis
 
 Another of Dazhdbog's sons and patron of blacksmiths. Krukis' Volkhvy are always blacksmiths, and skilled ones. They are, however, very rare. They were renowned in the old days for their skill in crafting magical weaponry (a Discipline that now seems to have been lost) and were terribly persecuted by the authorities. They value gifts of iron ore and works of fine craftsmanship. They are inclined to take the risk of living close to larger towns, where communities of skilled artisans can be found, and often have nonpagan apprentices in their smithies. Their ethic lies in making fire and iron serve the needs of their people and they are generally slow to act destructively or violently. Appropriate Knacks are common, as are Mentor and Patron. On the Baltic coast and in Lithuania Krukis is worshipped under the name Kalvaitis, and his Volkhvy have honored places in their communities and the households of pagan nobles, for whom they craft armor and weaponry of superior quality.
 
-### *Ersvorsh*
+### Ersvorsh
 
 The god of weather is regarded throughout the Slavic lands as one of an unofficial trinity including Svarog and Mati-Syra-Zemlya. His priests and priestesses tend to two extremes. First are sharp, blustery characters who often suffer from afflictions such as Fury or Oversensitive. Others are calm, temperate characters who tend to display Common Sense, or a Carefree disposition. Weather Sense is an almost universal Virtue; any Volkhv of Ersvorsh may add 1/3 (round up) of his Weatherworking Discipline score to his Weather Sense when rolling against it.
 
-### *Stribog*
+### Stribog
 
 The son of Ersvorsh, Stribog's priesthood is restricted to men (he is defined as Father of Winds), though their temperament is not notably set in any pattern. Weather Sense is near universal among them, and like Volkhvy of Ersvorsh they are allowed 1/3 of their Weatherworking Discipline score as a bonus to this Ability. Volkhv of Stribog tend to be skilled horsemen, so Animal Ken is a common Virtue, and they are often Oversensitive in regard to the treatment meted out to horses, especially white horses.
 
-### *Varpulis*
+### Varpulis
 
 The firstborn son of Stribog, Varpulis is one of the wildest and most uncontainable of the Slavic gods. He skirts the edge between good and evil and his Volkhvy are capable of acts of great destruction. Their temperaments tend to be gruff, abrasive, or downright raging, and they can be personally dangerous warriors. Like all the wind and weather gods they often have Weather Sense, and gain 1/3 of their Weatherworking Discipline score to rolls against it. Reckless is a common Flaw.
 
-### *Dogoda*
+### Dogoda
 
 The second born son of Stribog is the god of mild winds (specifically the West wind) and his Volkhv are the complete antithesis of Varpulis's: gentle, considerate, and cheerful. They often have the Virtue Healer, and sometimes are even Noncombatants. Their affinity with birds is marked. They commonly have Animal Ken with a specialty in swallows.
 
-### *Kupala*
+### Kupala
 
 Kupala is one of the daughters of Mati-Syra-Zemlya. Her Volkhvy are all female and tend to be extremely devoted to their communities. Healer is by far their commonest Virtue, but various Immunities are also common. Noncombatant is not unusual and their reluctance to employ violent magics (except in the last extremity of community defense) is proverbial.
 
-### *Beilbog*
+### Beilbog
 
 Beilbog, another of the Earth Goddess's daughters, is the archetypal White Maiden, the embodiment of purity and benevolence. Her Volkhvy are both male and female. They all take the Noncombatant Flaw. Healer is a common Virtue, so is Sense Holiness/Unholiness and Purifying Touch. There are rumors that Volkhvy of Beilbog are completely unaffected by the adverse effects of Christian Piety on their rituals, and only very slightly effected by True Faith. It is also whispered, however, that they are exceptionally vulnerable to the adverse effects of False Faith and Diabolical auras. Individual storyguides must decide how much truth there is in this.
 
-### *Chernobog*
+### Chernobog
 
 Chernobog is Beilbog's mad brother, deranged scion of the Earth. His Volkhvy are numbered among the servants of the darkness, and are Koldun. Reclusive is a common Flaw, as are Tainted with Evil and Infamous. As with other Koldun, Volkhvy of Chernobog do not serve any community, but travel widely (and often have the Virtue Widely Traveled). They often intrude on pagan communities at the Autumn and Winter Great Rituals.
 
-### *Jarovit*
+### Jarovit
 
 Jarovit is a war god of lesser stature than Perun and with a wilder, more wantonly destructive character. He is the patron of berserkers and all his Volkhvy (who may be male or female) must take the Berserk Virtue. Reserves of Strength and Inspirational are also common, as is Great Presence. These Volkhvy are very often found acting as war-leaders in the wilder rural areas near the steppe, and frequently draw their communities after them in mad forays or assaults on their nomad enemies. Fury is a common Flaw.
 
-### *Kolyada*
+### Kolyada
 
 Kolyada is the Ice Spirit, dedicated enemy of Perun and embodiment of Winter. His Volkhvy — or Koldun, more accurately — are silent, sinister, and seldom seen. Knack with Stealth is common, as are Premonitions, especially relating to approaching death. Kolyada's Volkhvy can be male or female; they are never attached to a community, and would be driven out if they attempted to approach one under anything remotely resembling normal circumstances. Only the direst of straits could drive a pagan village to accept aid from one of these dangerous characters. It is rumored that these Volkhvy make a special ritual of sacrificing Christian priests (they certainly did so in the age of martyrs, before the conversions) and other especially innocent souls.
 
-### *Proven*
+### Proven
 
 In pagan Slavic society justice is more a matter of taking and observing oaths, and exacting revenge for breaking them, than for jury trials. Proven is the great guarantor of such oaths and pagan treaties. His Volkhv (male or female) often have Great or Mythic Presence, Piercing Gaze, Knacks with Folk Ken, or Higher Purpose (to guarantee oaths and seal treaties). They also tend to be Obsessive in regard to avenging broken oaths for which they have stood witness.
 
-### *Utrennyaya*
+### Utrennyaya
 
 The three Zorya (the Slavic Fates: maiden, matron, and crone) were thought to be the daughters of Khors, and to attend upon the chariot of the sun as well as being jailers for the Nameless God of Demons. Utrennyaya is the Maiden Goddess of Dawn. Her Volkhvy are exclusively female, and almost always have Cyclic Magic, with peaks at dawn and troughs at dusk. Like all the Zorya, Utrennyaya was a sheildmay (much like a Valkyrie), and her Volkhvy are capable warriors. They are often Inspirational, but not usually Berserk, nor do they easily suffer from Fury or Obsession. Carefree is a common Virtue as are Premonitions and Second Sight.
 
-### *Zorya Vrechernyaya*
+### Zorya Vrechernyaya
 
 The second of the Zorya is goddess of dusk. Second Sight is exceptionally common among her (all female) Volkhvy, as are Knacks with Leadership. Tough, Long-Winded and Enduring Constitution are also frequently found. Cyclic Magic is very common.
 
-### *Lada Dernyaya*
+### Lada Dernyaya
 
 The last of the Zorya is the Crone Goddess of Midnight. All her Volkhvy are female. Cyclic Magic is nearly universal among her priesthood, as are the Virtues Premonitions and Visions. Strong-Willed is also very common, as is Second Sight. Lada Dernyaya's Volkhvy almost always carry some stigmata (as the Flaw Disfigured) signaling their affiliation, and may well be Obsessed by some prophetic vision or foreboding knowledge.
 
-### *The Nameless*
+### The Nameless
 
 The Nameless God of Demons, who has no known gender, is by far the worst of the Slavic/Baltic dark gods. Its priesthood — Koldun all — is secretive. Almost all have the Reclusive and Tainted with Evil Flaws. Great or Mythic Presence, Faerie Blood (Goblin), Giant's Blood, Obsession, Fury, and Cyclic Magic (usually on an annual cycle with a peak at mid-winter) are common. It is openly acknowledged among other Volkhvy that Koldun of The Nameless are evil and insane creatures. Most rational Volkhvy would seek to drive them away, though those affiliated with martial gods might attempt to slay them instead.
 
-### *Baba Yaga*
+### Baba Yaga
 
 The goddess of death is a mystical presence, inscrutable but not malicious. Her priests are both male and female. Visions and Premonitions are very common amongst them, and Second Sight is near universal. Bad Reputation (due to many people's misconceptions) is fairly common. Occult Lore (and Knacks with it) are often found among these Volkhvy.
 
-### *Walgino*
+### Walgino
 
 Animal Ken is the most common Virtue among Volkhvy of the cattle god. Knacks with Animal Handling are frequent, as is Animal Companion.
 
-### *Devana/Dziewona*
+### Devana/Dziewona
 
 The goddess of the hunt is served only by women. Even for Volkhvy, priestesses of Devana live very closely with the fay, often having Faerie Friends and hunting in their company. Ways of the Forest is nearly universal among her servants, as is Animal Companion or Magical Animal Companion. Knacks with Wilderness Skills (especially Hunt) are common, and also with Stealth (Forest specialty) and Bows.
 
-### *Volos*
+### Volos
 
 Volos is a many-faceted god, with interests in many areas. His Volkhvy (both men and women) usually "specialize" in one area: poetry, oracles, commerce, or cattle. They have Virtues such as Free Expression, Visions, Knack with Bargaining, Animal Ken, or anything else that fits the particular part of their god they have chosen to worship. It is also common for them to play a part in non-pagan secular society, especially near Novgorod city where their worship is strong and some of them have Patrons and Social Contacts.
 
-### *Mokosh*
+### Mokosh
 
 Volkhvy of Mokosh, whether male or female, usually exhibit an extreme poverty and tendency to asceticism. The untutored can easily mistake them for pious Christian hermits. They are powerful healers (the Healer Virtue is common, as are large scores in the Healing Discipline) but are also notable for a pronounced tendency to meddle. They seem, in short, unable to pass by an injustice, or see people in trouble (especially poor or oppressed people) without feeling an urge to offer assistance.
 
-### *Polevoi*
+### Polevoi
 
 Volkhvy dedicated to Polevoi often take the Ways of the Steppe Virtue, being closely attuned to growing fields and grasslands. Their magic is often Cyclic, with a peak in the spring and a trough in the fall (during reaping). Their attachment to grasslands and
 
@@ -5808,121 +5808,121 @@ Volkhvy dedicated to Polevoi often take the Ways of the Steppe Virtue, being clo
 
 growing crops is sometimes extreme enough to warrant the Obsessive Flaw, or even Fury at any affront to these places.
 
-### *Datan*
+### Datan
 
 The three Polish "Field Spirits" represent the three stages of plant growth: spring budding, mature growth, and withered husk. Datan is the spirit of spring, and his Volkhvy almost all have Cyclic Magic with a strong spring peak. Agricultural Craft skills, and strong Knacks with them, are common.
 
-### *Lawkapatim*
+### Lawkapatim
 
 The second Field Spirit is the spirit of mature crops. His Volkhvy usually exhibit Cyclic Magic with a late Summer or early Autumn peak, and agricultural abilities similar to those of Datan's priesthood. Lawkapatim's Volkhvy are usually closely tied to their communities, often to the point of having large families. Dependent (children or family) is a common Flaw.
 
-### *Tawals*
+### Tawals
 
 Tawals the Old is the spirit of the husk — what is left after the crops are reaped. His Volkhvy frequently show Cyclic Magic with a winter peak. Sense of Doom is a not an uncommon Flaw.
 
-### *Birch Tree*
+### Birch Tree
 
 Mother Birch Tree is the Baltic divinity of the earth and the world, frequently identified with Mati-Syra-Zemlya. Her Volkhvy are all female, and almost all display the Ways of the Forest Virtue. Cyclic Magic with a spring peak and an autumn trough is common. Volkhvy of the Birch Tree are not so tightly bound to specific communities and occasionally move around through forested regions. Their relationships with Rusalki are often very good, and Faerie Friend is a common Virtue.
 
-### *Dievs/Diveriks*
+### Dievs/Diveriks
 
 The Baltic sky god and husband to Birch Tree. Dievs' Volkhvy are all male. Weather Sense is a frequent Virtue. The hare is Dievs' sacred animal, and hare heartbeasts are frequent among his Volkhvy. Martial skills are sometimes seen amongst these Volkhvy, but the only weapon they will touch is the sword, which is sacred to them. In Lithuania Dievs is known as Diveriks and his Volkhvy are close councilors to the king and leaders in his armies.
 
-### *Saule*
+### Saule
 
 In the Baltic the sun is seen as female, not male. Saule is the light-giver who brings growth to crops. Her Volkhvy are all female, commonly with Great or Mythic Presence and frequently with brilliantly blonde hair. Snakes are sacred to Saule, and serpent heart-beasts are sometimes found among her Volkhvy.
 
-### *Mehnesis/Menuo*
+### Mehnesis/Menuo
 
 Mehnesis is the Baltic moon, a charioteer much like Khors and Myesyats in Russia. He is Saule's husband and a faithless one, for he is often seen dallying with the brilliant Evening Star. Mehnesis's Volkhvy are all male. Venus' Blessing is sometimes found among them. Animal Handling, with a specialty in horses, is a common Ability, and they often have Knacks with it. Cyclic Magic on a lunar period is almost universal.
 
-### *Auskelis*
+### Auskelis
 
 The Evening Star is Mehnesis's lover and Saule's rival, and the Volkhvy of these two female divinities are not friendly with each other. Auskelis's Volkhvy are all female, and often exhibit Venus' Blessing, and a stigmata of ash-blonde hair. The Evening Star can often herald events of importance, and Visions is a common Virtue.
 
-### *Svaixtix*
+### Svaixtix
 
 Svaixtix is Auskelis's brother, often thought of as the Pole Star. His Volkhvy may be male or female and often exhibit Great Presence. His Volkhvy often dedicate their lives to one particular facet of art: song, music, storytelling, painting, poetry, silversmithing, or jewelry, and have Free Expression with accompanying Knacks. Dedicating or sacrificing items of their art to Svaixtix is claimed to have a beneficial effect on their rituals.
 
-### *Lytuvnis*
+### Lytuvnis
 
 A weather god with particular authority over rain, Lytuvnis's Volkhvy almost all exhibit Weather Sense, and gain 1/3 of their Weatherworking Discipline score (rounded up) as a bonus to this Ability. Immunities to the various illnesses inspired by cold and damp are common among them.
 
-### *Mate Juras*
+### Mate Juras
 
 Volkhvy of the sea god may be either male or female. Ways of the Sea is near universal among them. Knacks with Swim, Boating, and Sailing are common as are Weather Sense and Direction Sense. Aquatic heart-beasts are also frequently found, but tend more to the mammalian (such as otters and dolphins) than piscian.
 
-### *Jods*
+### Jods
 
 One of the worst of the dark gods, Jods' Koldun demonstrate many of the same vicious qualities as do those of Chernobog. He is also thought to inspire insanity, and his followers often display deranged behavior best simulated by the Flaws Haunted, Terrors, Fury, Sense of Doom, or some combination of them.
 
-### *Zemlja*
+### Zemlja
 
 The Baltic ruler of the dead is a kindly, matriarchal spirit. Her Volkhvy are all female, and almost all have Ghostly Warders. They may, in fact, be attended by several spirits, both human and animal. It is rumored that these Volkhvy know some ritual means of entering Arcadia, specifically Slavic Elysium. Second Sight is very common, as is Sense Holiness/Unholiness.
 
-### *Majas Kungs/Zemepatis/Zeminkas*
+### Majas Kungs/Zemepatis/Zeminkas
 
 Zemlja's brother is the ruler of the home, bar the hearth, which is sacred to Gabija. His Volkhvy tend to be male, but are not exclusively so. They are exceptionally dedicated to their communities, and his Volkhvy always marry, and thus often have Dependents. Knacks with various Craft Skills are typical, as are Folk Ken, Bargain, and other useful Social Skills and Talents. These Volkhvy are often good at hiding within superficially Christian communities, and can sometimes be found, living very unobtrusively, even in quite large cities.
 
-### *Gabija*
+### Gabija
 
 Like the Volkhvy of Zemlja, Volkhvy of the goddess of the hearth and fire can be either male or female, though they are more
 
 often the latter, and are very good at concealing themselves within outwardly Christian communities. They always have high Craft Skills and appropriate Knacks associated with domestic pursuits. If they are in a non-pagan community they may have the equivalent of the Companion Social Class Virtues Petty Merchant or Prosperous Peasant instead of the usual Wise One. Gossip and Patron are fairly common Virtues, and even Educated is not unheard of.
 
-### *Nenadey*
+### Nenadey
 
 The Lithuanian deity of ill-fortune has Volkhvy who are very seldom encountered. They are very strong prophets, frequently having the Virtues Visions and Premonitions, as well as high scores in the Discipline Prophecy. The news they choose to deliver is almost uniformly bad and their most common Flaw is Sense of Doom. Volkhvy of Nenadey are believed to know very clearly how they will die, but not where or when, and thus almost all of them suffer the Terrors Flaw.
 
-### *Telyavel*
+### Telyavel
 
 Telyavel is the Lithuanian protectress of the dead, also known as the Silent Woman. Her Volkhvy take a Vow (–3 Flaw) never to speak except in the performance of their Rituals or the instruction of their apprentices. Their characters tend towards the relentless, but not the malicious.
 
-### *Meidein and Giraitis*
+### Meidein and Giraitis
 
 These two are the Lithuanian forest god and goddess, patrons and protectors of wild animals. Ways of the Woods and Animal Ken are near universal among their priesthoods (of whom Meidein's is exclusively female and Giraitis' exclusively male). Animal Companion and Magical Animal Companion are likewise very common as are Knacks with Skills such as Survival. Reclusive and Sheltered Upbringing are frequent Flaws, and Volkhvy of these deities are almost never found near even modest sized towns let alone cities.
 
-### *Andai*
+### Andai
 
 Andai is the Lithuanian god of war. Andai's Volkhvy may be male or female, but in either case they take an active role in leading war-parties. Their preferred weapon is the lance. Berserk is a frequent Virtue, as is Inspirational. Knacks with Leadership are common. Andai's priests fight preferentially on horseback and are likely to be skilled riders and animal handlers.
 
-### *Picollos*
+### Picollos
 
 The Lithuanian ruler of the underworld, Picollos is sometimes viewed as one of the Dark Gods. Certainly his Volkhvy can display a wicked, mischievous bent at times. They can be either standard Volkhvy or Koldun. Hunchback, Small Frame, and Dwarf are common Flaws, Knacks with Legerdemain, Guile, and Intrigue are also common. In Prussia this god is known as Puskaitis.
 
-### *Potrimpo*
+### Potrimpo
 
 This Lithuanian patron of springs and streams does not have a widespread priesthood. Dowsing is a universal Virtue among them, and Weather Sense is common.
 
-### *Svantovit*
+### Svantovit
 
 Svantovit, a four-headed Sun God, is the patron of the Isle of Rugen. His Volkhvy tend to have very high Awareness and considerable martial abilities. Ride, Bows, Sword, and Animal Handling are common Skills, and they frequently have Knacks to match.
 
-### *Triglav*
+### Triglav
 
 Worshipped by covert pagans surviving in the Brandenburg area, Triglav is a three headed god, overseer of cosmic balance. Each of his heads represents one cosmic realm, either heaven, earth, or hell. His Volkhvy often have the Clear Thinker Virtue and interests in philosophy and mysticism. They are occasionally Educated and may display some interest in the higher forms of knowledge.
 
-### *Gerovit*
+### Gerovit
 
 Gerovit is the god of fortitude, worshipped near Wolgast. His Volkhvy almost all have Enduring Constitution and consider it a sacred act to endure pain and suffering stoically. They are sometimes capable warriors, but tend to be cautious and deliberate in thought and action.
 
-### *Rugevit, Porevit, Porenitz*
+### Rugevit, Porevit, Porenitz
 
 These three forest-dwelling brothers are worshipped on the Isle of Rugen and in Pomerania. They are patrons of the Rowan, Beech, and Larch respectively; these trees will always be found near the dwellings of their respective Volkhvy. These Volkhvy are exclusively male, and very seldom leave their islands or villages. Ways of the Forest is nearly universal among them, as is a fierce devotion to family (Close Family Ties is common) and tribe.
 
-### *Radegost*
+### Radegost
 
 The foremost god of the Pomeranians, Radegost is an archetypal "clan elder" and war god. Volkhvy of Radegost frequently have links to noble or "royal" pagan Pomeranian families (and the Prestigious Family Virtue) and may act as tribal or court advisors (Temporal Influence). Combat Skills are common, as is Leadership. Inspirational and Great Presence are common Virtues, and Overconfident a common Flaw.
 
-### *Antrimpas*
+### Antrimpas
 
 Antrimpas is the Prussian god of clean water and springs. His Volkhvy always have the Dowsing Virtue.
 
-### *Rugio Boba*
+### Rugio Boba
 
 A Prussian field spirit and patron of good harvests, his Volkhvy have considerable Craft Skills and accompanying Knacks. Herbalism is a very common Virtue.
 
-### *Pergrukius*
+### Pergrukius
 
 A field spirit worshipped in Livonia, his Volkhvy demonstrate strong Cyclic Magic, with peaks at the planting and harvesting periods.
 
@@ -6142,11 +6142,11 @@ Sun Magic=Sun Weatherworking=Weather
 
 <sup>\*\*</sup> These items should spark storyguide ideas about likely sacred foci and sites that a Volkhv can use to access particular gods.
 
-# *Appendix III: Mystical Artifacts ppendix III: Mystical Artifacts*
+# Appendix III: Mystical Artifacts ppendix III: Mystical Artifacts
 
 Every land has its legends of magical objects and sacred relics. Russia and Poland are no different. The unique items listed below mostly date from the old pagan period of the 9th and 10th centuries. Their powers are formidable and they would be valuable to any Hermetic covenant, whether for their virtues, or as objects for study. Rumors of them are constant, and may form the basis for treasurehunting forays or sleuthing challenges.
 
-### *The Shield of Oleg*
+### The Shield of Oleg
 
 When he left Constantinople, the great prince and Volkhv, Oleg, hung from the gates his shield, a symbol of peace. The shield of Oleg was returned to Russia in later centuries, and is said to have remained in the treasury of the ruling prince until the civil wars began. Where it is now, none can say.
 
@@ -6158,7 +6158,7 @@ Second, if hung from the gates of a city, the shield will make it impossible to 
 
 The Shield is a relic sacred to the Slavic goddess of peace, Beilbog, with a rating of 5, and an additional +3 to any use of the Remove Curse discipline.
 
-### *The Skull of Sviatoslav*
+### The Skull of Sviatoslav
 
 At the end of prince Sviatoslav's last campaign he was slain by the Pechenegi nomads. The Pechenegi Khan took Sviatoslav's skull and had it made into a gold-chased goblet.
 
@@ -6170,7 +6170,7 @@ The skull can also be used for divination. If human blood is placed in the skull
 
 The Skull is a relic sacred to the Slavic god Perun with a rating of 5, and gives an additional +3 to any use of the Prophecy discipline.
 
-### *The Ewer of Ioann*
+### The Ewer of Ioann
 
 The Ewer of Ioann is one of the few truly divine items known to the Russian Orthodox Church. Ioann was one of the early Metropolitans of the church. His ewer was a small, silver bowl, which he used as a baptismal font.
 
@@ -6178,13 +6178,13 @@ The ewer can trap demons. If a demon sees its reflection in the bowl it will be 
 
 The ewer is a divinely blessed object. It contains 5 Faith points.
 
-### *The Golden Cock*
+### The Golden Cock
 
 The Golden Cock is an automaton of Hermetic manufacture, given to one of the early Russian princes. It's virtue is to cry out whenever danger approaches. The Cock is an invested object with a powerful InMe spell and a weak CrIm spell.
 
 The InMe spell is a greatly enhanced version of *Sight of the Transparent Motive.* Both range and target are Sight, which raises the spell's level and penetration to 50. Whenever any person or group becomes visible to the cock it perceives whether they harbor malice. It then employ its CrIm ability and cries out loudly. The Cock easily identifies the object of its cries, as it faces its target.
 
-### *The Bow of Svarozhich*
+### The Bow of Svarozhich
 
 Svarozhich is one of the sun gods, a patron of fire, and his idol bore a great ivory bow strung with a single hair from Pegasus. When Prince Vladimir the Saint cast down the pagan idols, the chief Volkhv stole the bow and hid it.
 
@@ -6196,17 +6196,17 @@ Caution should be used when employing the bow. Any attempt to turn it against a 
 
 The Bow is a pagan relic with a rating of 5, and gives a further bonus of +3 to any use of the Sun Magic discipline.
 
-### *The Caul of Vseslav*
+### The Caul of Vseslav
 
 Legend has it that Vseslav was born wearing a small hood of flesh. He kept this caul with him always, and used it in his magical operations. Vseslav was in fact a Dark Volkhv worshipper of Chernobog, and his caul was hallowed by that god to increase Vseslav's strength. The caul is thus a relic sacred to Chernobog, with a rating of 5, and a further bonus of +3 to any negative use of the Remove Curse discipline. In addition, however, the caul is a source of Perdo vis. Small hard blisters form on it at regular intervals, and on each solstice or equinox one falls off, hard, black, and slightly acidic so that it stings the hands to hold. Unfortunately, the caul is also innately attractive to demons. Whether this is a curse of Chernobog or Vseslav or whether Vseslav had actual dealings with demons is not known. But the caul did, at one time, come into the hands of a Hermetic magus who concluded that demons could sniff it out and bedevil the owner in order to get possession of it.
 
-### *The Horn of Vasili Okulevich*
+### The Horn of Vasili Okulevich
 
 Vasili Okulevich was one of the Bogatyr, the hero-knights of ancient Russian saga, who lived in the age before the Varangians came to Russia. His horn was a magical item of unknown origin. In form it was a mighty aurochs' horn, chased with silver. Its call could shake down mountains, level forests, or raise tempests at sea.
 
 *Cascade of Rocks* (PeTe 40; R: Sight, D: Mom, T: Bound), *Breath of the Open Sky* (CrAu 40; R: Per, D: Spec, T: Spec), *Wrath of Whirling Winds and Water* (only at sea) (CrAu 40; R: Sight, D: Sun, T: Spec)
 
-### *The Waters of Life and Death*
+### The Waters of Life and Death
 
 The Waters of Life and Death are a well-known legend, not just in Poland and Russia, but throughout eastern Europe. The details often vary. In the Slavic version, the Water of death can do two things: it will kill anyone who comes into contact with even as much as a single drop spilled on his hand, and if sprinkled on a damaged or even completely dismembered corpse, it will reassemble it into a complete whole and restore the body to perfect cleanliness free of any blemish. The Water of Life, of course, brings the dead back to life. The Waters will certainly not be found in the mortal world. One could only hope to find the source in areas of extremely high regio (+9), or in Arcadia.
 
@@ -6214,17 +6214,17 @@ A note of caution in employing the Waters of Life: this fluid will not bring bac
 
 A Hermetic magus could easily distill large amounts of Creo or Perdo vis from these two Waters: as much as ten pawns per pint.
 
-### *Princess Kinga's Ring*
+### Princess Kinga's Ring
 
 Princess Kinga was a lady of Hungary who came to Poland to marry one of the princes. Hungary at that time was a land with rich salt mines, while Poland was very poor in this commodity. Before she left Hungary, Kinga threw her ring into a salt mine. When she arrived in Poland she set miners to digging near Krakow, and very soon they found rich salt deposits. The very first nugget to be brought to the surface was split open. There in the center was Kinga's ring.
 
 The ring can be treated as an Hermetic invested object with the spell *Miner's Keen Eye* cast on it, or as a Divine relic, or a relic sacred to an appropriate pagan god (such as Mati-Syra-Zemlya). It's powers are certainly not exceptional: perhaps 2 Faith points, or a Volkhv bonus of +3.
 
-### *The Knights of Boleslaw*
+### The Knights of Boleslaw
 
 It is said that under Gevant peak in the heart of the Tatra mountains in a sacred cavern, King Boleslaw the Brave and a hundred of his knights lie sleeping. They await some moment of Poland's need when they can arise and fight for her honor and freedom. There are no more specific details to this legend, but it should be remembered what a mighty warrior Boleslaw the Brave was, and how he humbled the Germans, Czechs, Pomeranians, and Russians. Perhaps it is nothing more than peasant superstition that loves to believe in mighty, just, and generous kings of the past to watch over their wellbeing. Then again . . . .
 
-# *Appendix IV: Names*
+# Appendix IV: Names
 
 **Russian: Male** Afanasy (a-fan-AH-see) Alexander/Alexsandr/Aleksandr (ah-less-and-ray) Alekseev (ah-lech-see-yev) Aleksiy (ah-lech-zee) Alyoscha (ah-lee-osh-ah) Andrey/Andrei (an-DRAY) Antipka (an-TIP-kah) Antony (an-TOHN-yeh) Athanasius (at-an-ahz-yus) Baldak (bahl-duck) Barma (bah-mah) Boris (boh-riss) Danil/Daniil (dahn-yil) David (da-vihd) Dimitri/Dmitri (dMEET-REE) Dionisy (dyon-yeh) Efrem (eff-rehm) Evfimy (ef-fim-yee) Fyodor/Feyodor/Fedor (FAY-DOHR) Feofil (FAY-O-FIHL) Foty (fYOT-TEE) Gavriil (gahv-REEL) Gerasim (geh-RAH-zim) Gleb (LEHB) Grigory (Grih-GOR-ree) Iakov (yah-kohv) Ignatius (yig-NAHT-yoos) Igor (EE-gohr) Ilja/Ilya (ill-yah) Ioann (ee-ohn) Iosif (yo-sihf) Isidor (is-EE-dohr) Ivan (EE-vahn) Izyaslav (is-YAZ-lav) Jaryschko (YAR-is-ko) Karash (KA-razh) Kassian (CAS-yan) Kiprian (KIP-ree-yan) Kirill (ki-rihl) Kliment (clih-mehnt) Konstantin (cohn-stahn-tin)
 
@@ -6284,7 +6284,7 @@ Very few names of Mongol women are known. Though they had considerable rights un
 
 Ghazan (GHA-zan) Ghazna (GHAZ-nar)
 
-# *Glossary Glossary*
+# Glossary Glossary
 
 ### **Old Russian Words and Terms**
 
@@ -6552,7 +6552,7 @@ crusade, corruption of 47-49 crusade, ideal of 38 crusade, Livonian 41 crusade, 
 
 173-174 conversion 18, 31 Cossacks 8
 
-# *Noble Genealogies Noble Genealogies*
+# Noble Genealogies Noble Genealogies
 
 Dates are from beginning of rule (r) to end of rule (e) or death (d). [K] indicates a prince who died at Kalka, [M] indicates a prince who died in the Mongol invasion. For any period where there is no ruling prince noted it is safe to assume that the relevant throne was in contention. Where possible each succesive ruler is identified according to his relation to his predecessor.
 

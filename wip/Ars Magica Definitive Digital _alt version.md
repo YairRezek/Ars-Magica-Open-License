@@ -222,13 +222,13 @@ Jonathan Tweet
 
 
 
-# *Table of Illustrations*
+# Table of Illustrations
 
 | DAVE ALLSOP<br>538<br>JOHN COBB<br>210, 415<br>CHRISTIAN BRAVERY<br>52<br>LIZ DANFORTH<br>31, 33, 115, 265<br>THOMAS DENMARK<br>153-154, 200, 222<br>JAUME FABREGAT<br>445, 446, 447, 448,<br>449, 457, 458, 463,<br>466, 473, 474, 480, 491<br>JANINE JOHNSTON<br>152, 240, 249, 383<br>TOM KYFFIN<br>137, 161, 192<br>ALEXIS LIOSATOS<br>84, 346<br>JACKIE SUE LOZANO<br>54, 430, 432, 442,<br>447, 470, 481, 482,<br>483, 484, 488, 490<br>STEVE LUKE<br>51, 510 | DOMINIC REARDON<br>106, 237, 278, 410<br>J. SCOTT REEVES<br>79, 436, 491<br>ADAM REX<br>89, 246<br>JOHN SCOTELLO<br>114, 231, 517<br>PAM SHANTEAU<br>234<br>DOUG SHULER<br>1-2, 4, 26, 39, 59-60,<br>155-156, 201-202,<br>247-248, 299-300, 312,<br>373-374, 380, 423-424,<br>513<br>MARK "JOCK" SIMPSON<br>286, 321, 330, 529<br>CHRISTIAN ST. PIERRE<br>174, 204, 289, 302,<br>313, 328, 350, 358,<br>364, 396, 417, 516<br>GREY THORNBERRY<br>5, 10, 22, 37, 38, 39,<br>40, 41, 42, 43, 58, 88, |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | JEFF MENGES<br>36, 95, 96, 147, 172,<br>214, 387, 402, 408,<br>412, 503, 519, 523, 531<br>ENEKO MENICA<br>493-494<br>EMILIA NEPHEW<br>427, 429, 431, 433,<br>434, 435, 446, 457,<br>461, 464, 465, 467,<br>468, 469, 470, 471,<br>472, 485, 486, 487, 492<br>JOSEPHINE NEPHEW<br>92, 443, 452, 453, 455,<br>456                                                                                                                                                     | 97, 108, 112, 127, 129,<br>133, 142, 144, 149,<br>160, 177, 216, 229,<br>250, 261, 269, 338,<br>347, 348, 351, 362,<br>377, 403, 419, 489,<br>498, 507, 522, 525<br>BRYON WACKWITZ<br>62<br>MICHAEL WEAVER<br>158, 170, 180, 187<br>KATHERINE WYMAN<br>430, 432, 459<br>UNSIGNED<br>70, 295, 306, 329,<br>336, 340, 356                                                                                                                                                                            |
 
-## *Public Domain Artworks*
+## Public Domain Artworks
 
 | ALBERTINA COLLECTIONS ONLINE                     | 74, 196, 224, 334, 499                         |
 |--------------------------------------------------|------------------------------------------------|
@@ -806,7 +806,7 @@ In theory, the only penalty for breaking the Code is death. In practice, Tribuna
 Much more information about the Peripheral Code and its enforcement can be found in *Houses* of *Hermes: True Lineages*, starting from page 45.
 
 
-## *The Code of Hermes*
+## The Code of Hermes
 
 *"I, Bonisagus, hereby swear my everlasting loyalty to the Order of Hermes and its members.*
 
@@ -3134,13 +3134,13 @@ The realm of a Virtue or Flaw determines how it interacts with supernatural aura
 
 A Major Personality Flaw is an aspect of the character's personality that defines them and drives stories. You should suggest projects that your character might have to the troupe, so that the storyguide can use them to create plots if everyone likes the idea. Similarly, the troupe or storyguide can suggest that this might be a good moment for the character's Flaw to get the better of them. (Conversely, the storyguide can certainly say that this would be a really bad moment, and then you should keep the Flaw under control, to avoid spoiling the game for everyone.)
 
-## *Social Statuses by Culture*
+## Social Statuses by Culture
 
 *IV*
 
 Branded Criminal Eunuch Priest *Provençal* Companion Animal Falconer Religious
 
-#### *All Cultures Western Christendom Islamic*
+#### All Cultures Western Christendom Islamic
 
 **FREE VIRTUES MINOR VIRTUES FREE VIRTUES MINOR VIRTUES** Apprentice Baccalaureus Male Guild Sponsor 'Alim Covenfolk Beadle Nuntius Bureaucrat Craftsman Brother Chaplain Templar Confrere/ Domestic Animal Brother Knight Fida'i Hermetic Magus Brother Sergeant Templar Servant Mamluk Laborer Clerk Sufi Merchant Falconer **MAJOR VIRTUES** Failed Apprentice Mendicant Friar Senior Master Gentleman/woman Priest Senior Bard Lone Redcap Religious **MINOR FLAWS** Mercenary Captain Simple Student Failed Journeyman **MAJOR VIRTUE**
 
@@ -3162,7 +3162,7 @@ Outcast Jurist **MINOR VIRTUES** Outsider Marshal Archieunuch Troubadour/Trobair
 
 **MINOR VIRTUES** Rabbi Shadchan
 
-## Redcap *Eastern Christendom North Africa* Venditor
+## Redcap Eastern Christendom North Africa Venditor
 
 **MINOR FLAWS** Clerk Notary Mazdean Priest Outlaw Leader Knight **MAJOR VIRTUES** Perfectus
 
@@ -3206,7 +3206,7 @@ Tainted Virtues and Flaws are associated with the Infernal realm, and can be gra
 
 At the troupe's discretion, non-tainted versions of some of these powers may also be available, and associated with the Magic or Faerie realm.
 
-## *List of Virtues*
+## List of Virtues
 
 Diedne Magic Magister in Medicina Mastered Spells Elemental Magic Master Bard Masterpiece Faerie-Raised Magic Muqta' Method Caster
 
@@ -6294,7 +6294,7 @@ It is, however, useful to have the Withstand Casting Virtue even with Life- Link
 Example: Some time later, Vita tries again, hoping to cast another level 20 spell. However, she hotches, and her Casting Total is zero. She would normally lose 6 Fatigue levels (1 for spontaneous casting, plus 1 for Vulnerable Casting, plus 4 for the shortfall in Casting Total), but she can withstand 3 Fatigue levels lost, and only suffers a net loss of 3 Fatigue levels. The spell fails, but she is still conscious.
 
 
-## *List of Flaws*
+## List of Flaws
 
 **HERMETIC, MAJOR** Dependent No Hands Blatant Gift Diabolic Past Poor Chaotic Magic Difficult Underlings Repellent The Constant Expression Enemies Deficient Technique Envied Beauty **HERMETIC, MINOR** Difficult Longevity Ritual Evil Destiny Bound Casting Tools Environmental Magic Condition Excommunicate Bound Magic Magic Addiction Favors Brutal Artist Monastic Vows (Hermetic) Feud Careless Sorcerer Necessary Condition Fury Ceremonial Spontaneous Magic Painful Magic Indiscreet Clumsy Magic Rigid Magic Mistaken Identity Corrupted Arts Short-Ranged Magic Monastic Vows Corrupted Spells Study Requirement Oath of Fealty Creative Block Twilight Prone Raised from the Dead Deficient Form Unnatural Magic Rector/Proctor Deleterious Circumstances Unstructured Caster Servant of the (Land) Difficult Spontaneous Magic Vulnerable Magic Supernatural Nuisance Disjointed Magic Waster of Vis Suppressed Gift Disorientating Magic Weak Magic Resistance Tainted Offspring Exciting Experimentation
 
@@ -11762,7 +11762,7 @@ Subtract the defender's Resistance Total from the Weakening Total. For every fiv
 
 
 
-## *Certamen Example*
+## Certamen Example
 
 Moratamis of Guernicus harbors suspicions about what Carolus of Tytalus gets up to at night. She asks him to tell her what he is doing, and he refuses. She doesn't have enough for an official Quaesitorial investigation, so she challenges him to certamen, demanding that he tell her what he has done if he loses. Carolus agrees, with the condition that Moratamis will not ask him about his activities again unless she is on official Quaesitorial business. (He has to add the condition, although he would prefer not to, or else the Tribunal is unlikely to uphold a result in his favor.) Carolus suspects he will lose, as Moratamis is older and thus more powerful.
 
@@ -13344,7 +13344,7 @@ A new Virtue may be Initiated according to the normal rules for Mysteries. The d
 
 A second Major Breakthrough integrates a Major or Hermetic Breakthrough completely into Hermetic magic. If this succeeds, any magus may create an effect using the Breakthrough as long as he has a Lab Text, and then may use the Breakthrough freely. As for Minor Breakthroughs, the same applies to any magus taught Arts or spells by a magus who understands the Breakthrough. Experimentation is always suitable for this second Breakthrough, and integration may be used if there are suitable non-Hermetic traditions to study.
 
-## *Shape and Material Bonuses Table*
+## Shape and Material Bonuses Table
 
 | Adze                                   | +2 beautify wood structures            | Basket                       | +2 collect items                 |  |  |  |
 |----------------------------------------|----------------------------------------|------------------------------|----------------------------------|--|--|--|
@@ -16046,7 +16046,7 @@ Level 10: • Ward someone against a type of very severe weather phenomenon.
 Level 15: • Summon a disembodied spirit associated with Auram.
 
 
-## *Creo Corpus Guidelines*
+## Creo Corpus Guidelines
 
 Many Creo Corpus spells are most useful as Ritual spells. Unless otherwise noted, a healing spell cast other than as a Momentary Duration Ritual actually suspends the healing process so that, upon the spell's expiration, wounds are as fresh as they were when the spell was cast. No Hermetic spell can restore Fatigue levels.
 
@@ -20404,7 +20404,7 @@ For a magus, taming an animal is a laboratory activity, and the creature must be
 
 Mundane beasts can also be tamed, and (for this purpose only) mundane beasts have an effective (Animal) Might of 1 + 2 x Confidence Score. Note that taming a beast is a social activity, so penalties for The Gift apply to the number of points accumulated in a season; creatures with Magic Might are often not affected by The Gift in this way.
 
-## \*\*\*\*
+## \\\\
 
 appropriate to the creature — Aquam for a kelpie, Ignem for a fire elemental, and so on.
 
@@ -20611,9 +20611,9 @@ Other mundane creatures and things are also warped by mystical effects. However,
 
 Creatures with a Might score are absolutely immune to warping. They are already fully part of one of the supernatural realms.
 
-## \*\*\*
+## \\\
 
-## Gaining *Qarping Points*
+## Gaining Qarping Points
 
 There are four main sources of Warping Points:
 
@@ -22251,7 +22251,7 @@ The brown bear can run quickly, gaining a +3 bonus to rolls involving running. I
 
 According to Pliny the Elder, the he-bear sleeps for forty days in winter and the she-bear sleeps for four months. The bear cub is born a shapeless lump of flesh until the she-bear licks it into the shape of a little bear.
 
-## *Boar, Wild (Aper)*
+## Boar, Wild (Aper)
 
 **Characteristics:** Cun 0, Per 0, Pre –4, Com –5, Str +2, Sta +2, Dex 0, Qik +1
 
@@ -22295,7 +22295,7 @@ Boars vary greatly in size, from eight stone (112 pounds) to more than thirty st
 
 
 
-## *Bull (Taurus)*
+## Bull (Taurus)
 
 **Characteristics:** Cun –2, Per 0, Pre –4, Com –4, Str +5, Sta +3, Dex 0, Qik –1
 
@@ -22329,7 +22329,7 @@ The bull does not attack without reason, but it is easily — sometimes accident
 
 In Spain, the Moorish nobles make a spectacle of fighting bulls from horseback on festival days. The sport of bull-baiting, where spectators watch a tethered bull being killed by a pack of dogs, is known throughout Mythic Europe. Bulls are somewhat clumsy fighters at first, but if they survive combat they quickly grow "wise" and become very dangerous. The speed with which they learn to fight is reflected in their Affinity with Brawl.
 
-## *Cat (Felis)*
+## Cat (Felis)
 
 **Characteristics:** Cun 0, Per +1, Pre –2, Com –4, Str –7, Sta 0, Dex +3, Qik +4
 
@@ -22446,7 +22446,7 @@ Any light horse — courser, charger, or palfrey — gets a +3 to rolls involvin
 
 
 
-## *Horse, Destrier (Equus)*
+## Horse, Destrier (Equus)
 
 **Characteristics:** Cun –2, Per 0, Pre 0, Com –4, Str +6, Sta +3, Dex +1, Qik –1
 
@@ -22480,7 +22480,7 @@ The destrier is almost always a stallion. It is highly trained so it will charge
 
 Like all horses, the destrier is a fast runner and gains a +3 bonus to rolls involving speed. It is too heavy to be much of a jumper.
 
-## *Hound (Canis)*
+## Hound (Canis)
 
 **Characteristics:** Cun 0, Per +2, Pre –4, Com 0, Str 0, Sta +2, Dex +1, Qik +2
 
@@ -22515,7 +22515,7 @@ All dogs have a good sense of smell, and the bloodhound's sense is so keen it ge
 
 A pack of dogs may fight as a trained group under the leadership of a human Master of the Pack. Use the Master's Animal Handling score instead of his Leadership score to determine how many dogs he can command at a time.
 
-## *Lion (Leo)*
+## Lion (Leo)
 
 **Characteristics:** Cun +2, Per 0, Pre 0, Com 0,
 
@@ -25710,7 +25710,7 @@ There is one God, eternal and unchanging, who created the world from nothing and
 
 The information in this chapter is focused on Western Europe — the region ruled by Christians who recognised the Pope as the head of the Church on Earth. This is a diverse area already, but there is a lot more to Mythic Europe, and supplements have covered it in more detail. Realms of Power: The Divine Revised Edition includes more information on Christianity, and also on Islam and Judaism. Against the Dark and The Sundered Eagle offer information about Eastern Europe, and the Orthodox Church. The Cradle and the Crescent covers the Middle East, while Between Sand & Sea and Lands of the Nile cover North Africa, as far south as Ethiopia.
 
-## \*\*\*
+## \\\
 
 them in the Garden of Eden. There, they were tempted by Satan and sinned, and this Original Sin tainted all of their descendants. Where once all of nature had served humankind, now it turned against them. Human beings in Original Sin can
 
@@ -25733,7 +25733,7 @@ Good acts are those which accord with God's will, and tend to His glory, while e
 
 All humans have an immortal soul, created at some point before birth. (In 1220, theologians still disagree about when.) After death, the soul is judged by God. Those who die perfect, having done penance for all their sins, pass directly into heaven. Those who die penitent, but not yet perfect, pass to purgatory, where they do penance after death for all those sins remaining. Those who die impenitent are condemned to hell for eternity.
 
-## \*\*\*
+## \\\
 
 
 ### Sacraments
@@ -27308,9 +27308,9 @@ Cost: A general indication of the cost of the weapon. More expensive weapons are
 
 <sup>\*\*\*</sup> Includes the lance, if used dismounted.
 
-## *Magic Rules*
+## Magic Rules
 
-#### *Formulaic Spellcasting Sequence p81 p213*
+#### Formulaic Spellcasting Sequence p81 p213
 
 If you already know the spell …
 
@@ -27329,7 +27329,7 @@ If your Casting Total is …
 - a. higher, your spell affects the target.
 - b. equal or falls short, your spell is ineffective.
 
-#### *Ritual Spellcasting Sequence p81 p213*
+#### Ritual Spellcasting Sequence p81 p213
 
 If you spend 15 min and 1 pawn of vis per per spell magnitude …
 
@@ -27351,7 +27351,7 @@ If you spend 15 min and 1 pawn of vis per per spell magnitude …
 - a. higher, your spell affects the target.
 - b. equal or falls short, your spell is ineffective.
 
-#### *Spontaneous Spellcasting Sequence p81 p214*
+#### Spontaneous Spellcasting Sequence p81 p214
 
 If you're making up a new spell …
 
@@ -27367,7 +27367,7 @@ If you're making up a new spell …
 - a. higher, your spell affects the target.
 - b. equal or falls short, your spell is ineffective.
 
-## *p81-82 Casting Spells p213*
+## p81-82 Casting Spells p213
 
 **CASTING SCORE:** 
 
@@ -27375,7 +27375,7 @@ Technique + Form + Stamina
 
 – Encumbrance+ Aura Modifier
 
-## *Formulaic Magic*
+## Formulaic Magic
 
 **CASTING TOTAL:** Casting Score + Die Roll
 
@@ -27385,7 +27385,7 @@ Technique + Form + Stamina
 | –1 to –10                      | Yes            | 1                      |
 | –11 or lower                   | No             | 1                      |
 
-## *Ritual Magic*
+## Ritual Magic
 
 **CASTING TOTAL:**
 
@@ -27399,7 +27399,7 @@ Casting Score + Artes Liberales + Philosophiae + Stress Die
 | –11 to –15                     | No             | 4                      |
 | –16 or more                    | No             | 5                      |
 
-## *Words and Gestures*
+## Words and Gestures
 
 | WORD  | MODIFIER | GESTURES    | MODIFIER | VOICE RANGE              |
 |-------|----------|-------------|----------|--------------------------|
@@ -27408,7 +27408,7 @@ Casting Score + Artes Liberales + Philosophiae + Stress Die
 | Quiet | –5       | Subtle      | –2       | 5 paces                  |
 | None  | –10      | None        | –5       | 0 paces<br>(caster only) |
 
-## *Spontaneous Magic*
+## Spontaneous Magic
 
 **FATIGUING CASTING TOTAL:** (Casting Score + Stress Die)/2
 
@@ -27539,7 +27539,7 @@ For spells maintained as long as the maga concentrates, Ease Factors above are r
 | Maintaining another spell               | Hard (12), +3 for each spell beyond the second                                                |  |
 | Injured                                 | 3 times wound penalty to<br>Concentration rolls<br>(this is instead of the<br>normal penalty) |  |
 
-## Spell Sizes \$\frac{p\_{112-113}}{p\_{340}}\$
+## Spell Sizes \$\frac{p\{112-113}}{p\{340}}\$
 
 Intellego spells are not affected by Target size.
 
@@ -27620,7 +27620,7 @@ Gemstones: one cubic inch.
 
 Vim: Size modifiers don't apply to Vim effects with Individual targets. Group size is determined by the number of effects. Container sizes are determined as normal.
 
-## Ranges, Durations, and Targets \$\frac{p\_111}{p\_303}\$
+## Ranges, Durations, and Targets \$\frac{p\111}{p\303}\$
 
 | Additional<br>Magnitudes | Range     | Duration                   | Овјест     | Container | Sense   |
 |--------------------------|-----------|----------------------------|------------|-----------|---------|
@@ -27631,7 +27631,7 @@ Vim: Size modifiers don't apply to Vim effects with Individual targets. Group si
 | 4                        | Arcane    | Year                       | -          | Boundary  | Vision  |
 
 
-## *Arcane Connection Durations*
+## Arcane Connection Durations
 
 *p84 p219*
 
@@ -27645,7 +27645,7 @@ Vim: Size modifiers don't apply to Vim effects with Individual targets. Group si
 | Decades    | Body part.                                                                                                                                                                                                                                                           |
 | Indefinite | Hermetic familiar (link to master),<br>Hermetic magus (link to familiar),<br>Hermetic talisman (link to creator),<br>fixed Arcane Connections<br>(see 'Fixing Arcane Connections' on<br>p94/p250).                                                                   |
 
-#### *Certamen p90 p231*
+#### Certamen p90 p231
 
 **INITIATIVE TOTAL: Quickness + Finesse + Stress Die**
 
@@ -27681,7 +27681,7 @@ Vim: Size modifiers don't apply to Vim effects with Individual targets. Group si
 | etc.                                  | etc.                |
 |                                       |                     |
 
-#### *Wizard's Twilight p88 p228*
+#### Wizard's Twilight p88 p228
 
 *Roll when gaining 2 or more Warping Points from a single event.*
 
@@ -27722,9 +27722,9 @@ Vim: Size modifiers don't apply to Vim effects with Individual targets. Group si
 
 **D**
 
-## *Laboratory Rules*
+## Laboratory Rules
 
-## *Laboratory Activities*
+## Laboratory Activities
 
 *p94-102 p249-263*
 
@@ -27764,7 +27764,7 @@ Vim: Size modifiers don't apply to Vim effects with Individual targets. Group si
 
  **1 season if Lab Total equals or exceeds level of effects. May create multiple spells or effects in one season if they are all of the same Technique and Form, and the total level does not exceed Lab Total**
 
-#### *Laboratory Rolls p104 p249-263*
+#### Laboratory Rolls p104 p249-263
 
 **LAB TOTAL: Technique + Form + Intelligence + Magic Theory + Aura Modifier**
 
@@ -27772,7 +27772,7 @@ Vim: Size modifiers don't apply to Vim effects with Individual targets. Group si
 
  **Magic Theory × 2 pawns per seaso**n
 
-#### *Learning Spells from a Teacher p95 p251*
+#### Learning Spells from a Teacher p95 p251
 
 **MAXIMUM TOTAL LEVELS: Teacher's highest applicable Lab Total**
 
@@ -27780,7 +27780,7 @@ Vim: Size modifiers don't apply to Vim effects with Individual targets. Group si
 
 > **HIGHEST LEVEL OF AN INDIVIDUAL SPELL: Student's Lab Total in the Technique and Form of the spell**
 
-#### *Binding a Familiar p104 p267*
+#### Binding a Familiar p104 p267
 
 **FAMILIAR BONDING LAB TOTAL: Any Technique + any Form + Intelligence + Magic Theory + Aura Modifier**
 
@@ -27790,14 +27790,14 @@ Vim: Size modifiers don't apply to Vim effects with Individual targets. Group si
 
 **1 pawn vis per five levels or fraction of the binding Lab Total. Vis must match Technique or Form.**
 
-#### *Training an Apprentice p106 p377*
+#### Training an Apprentice p106 p377
 
 - Use standard teaching rules.
 - At least 1 season per year, must extend Parma Magica to cover the apprentice.
 - Opening the Arts takes 1 season, must have a score of 5 or higher in every Art or the apprentice gains a Deficiency in the Art.
 - If the apprentice has a Supernatural Ability, must have Intellego Vim Lab Total at least 5 × score in the Ability, minimum 10 for a Minor Virtue, 30 for Major (10 for a Minor Virtue with no Ability, 10 for a Major). For multiple abilities, add all the scores together. If Lab Total is at least double this level, the ability may be retained or converted into a Hermetic Virtue; otherwise, it is lost.
 
-#### *Teaching Hermetic Virtues p106 p271*
+#### Teaching Hermetic Virtues p106 p271
 
 **TEACHING SOURCE QUALITY: Communication + Teaching + 3 + bonus BONUSES:** 
 
@@ -28039,9 +28039,9 @@ Stress die (no botch) + age/10 (round up)
 | 21         | 1 Aging Point in Int and Per                                                                                   |  |  |
 | 22+        | Gain sufficient Aging Points (in any<br>Characteristics) to reach the next<br>level in Decrepitude, and Crisis |  |  |
 
-## *Seasonal Activities*
+## Seasonal Activities
 
-#### *Advancement Tables p164 p49*
+#### Advancement Tables p164 p49
 
 | ART   |     | ABILITY                |         |             |
 |-------|-----|------------------------|---------|-------------|
@@ -28071,7 +28071,7 @@ Stress die (no botch) + age/10 (round up)
 
 **To raise to:** The number of experience points required to raise a score by one point to that number.
 
-#### *Writing Books p165 p379*
+#### Writing Books p165 p379
 
 **SUMMA SOURCE QUALITY**: Author's Communication + 6 + bonus
 
@@ -28087,7 +28087,7 @@ or 6 + Profession (Scribe) points towards a summa.
 
 Three times as fast as careful copying, copy Source Quality is 1 lower than copied book.
 
-## *Advancement Source Qualities dvancement*
+## Advancement Source Qualities dvancement
 
 **Exposure Source Quality:** 2 **Adventure Source Quality**: 5–10 **Practice Source Quality**: 4–8, usually 4
 
@@ -28111,7 +28111,7 @@ taught + 3
 
 **Supernatural Ability Source Quality (New Ability Only):** Normal Source Quality – Total Score in Supernatural Abilities
 
-## *p165 Distractions p379*
+## p165 Distractions p379
 
 | MONTHS LOST | TOTAL | EXAMPLE |
 |-------------|-------|---------|
@@ -28122,7 +28122,7 @@ taught + 3
 
 
 
-## *Spells Index*
+## Spells Index
 
 | Aegis Of The Hearth                                       |  |
 |-----------------------------------------------------------|--|
@@ -28429,7 +28429,7 @@ taught + 3
 
 **554**
 
-## *Spell Guidelines*
+## Spell Guidelines
 
 | ANIMAL                                                                                       | IGNEM                                                                                                   |
 |----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
@@ -28835,7 +28835,7 @@ taught + 3
 
 
 
-## *Bestiary Index*
+## Bestiary Index
 
 
 | Adder (Viperis) (Beast)429                                      |
@@ -28990,7 +28990,7 @@ taught + 3
 |                                 |  |
 | (CrAu 10)326                    |  |
 
-## *Traditional Index*
+## Traditional Index
 
 | Abandoned Apprentice (Flaw)119     |  |
 |------------------------------------|--|
