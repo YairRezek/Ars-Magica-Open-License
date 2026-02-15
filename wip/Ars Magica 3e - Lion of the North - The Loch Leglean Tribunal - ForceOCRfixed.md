@@ -1252,8 +1252,9 @@ The stoorworm is as long as a ship and as thick around asa tree trunk. It has ne
 
 a Stoorworms prefer not to face multiple opponents, but often do not recognize ships as constructs filled with multiple foes, seeing them rather as individ. ual intruders in their domain. When the stoorworm comes ashore (which is extremely rare), reduce the First Strike and Attack scores of both the Bite and Entwine attacks by half, though Damage remains the same.
 
-- \* Powers: The poison of the stoorworm coats its teeth and will stick to armor or shields after a bite attack. Characters handling anything bitten by a stoorworm must take great care that no poison enters the mouth, nose, eyes, or open wounds. A Dexterity roll of 8+ will ensure that the character has avoided the poison. If the roll fails, the character must make a Stamina roll of 9+. On a successful roll, the character loses one body level; on a failure, two.
-- \*\* Entwines on the first round; every round thereafterhas a cumulative +8 damage (2nd round +8 damage, 3rd round +16, etc.). The stoorworm can automatically bite anyone caught in its coils. Each human-sized object held by the stoorworm reduces its Entwine First Strike attack by 6. Damage is reduced by 6 for each object after the first.
+\* Powers: The poison of the stoorworm coats its teeth and will stick to armor or shields after a bite attack. Characters handling anything bitten by a stoorworm must take great care that no poison enters the mouth, nose, eyes, or open wounds. A Dexterity roll of 8+ will ensure that the character has avoided the poison. If the roll fails, the character must make a Stamina roll of 9+. On a successful roll, the character loses one body level; on a failure, two.
+
+\*\* Entwines on the first round; every round thereafterhas a cumulative +8 damage (2nd round +8 damage, 3rd round +16, etc.). The stoorworm can automatically bite anyone caught in its coils. Each human-sized object held by the stoorworm reduces its Entwine First Strike attack by 6. Damage is reduced by 6 for each object after the first.
 
 \*\*\* The stoorworm may use 2 Magic Might points to breathe a cloud of poison gas. Every creature (except the worm!) within a cone ten feet wide by twenty feet long must make a Stamina roll of 9+ or lose two body levels. A successful roll still results in the loss of one body level
 
@@ -3969,8 +3970,6 @@ Curses reduce abilities, characteristics, and Virtues; or grant Flaws. Curses do
 
 #### Curse Ease Factor Modifiers
 
-#### Gift Gase Factor Modifiers
-
 | Curse:                  |                      |
 | ----------------------- | -------------------- |
 | Cap an ability          | +3                   |
@@ -3990,9 +3989,25 @@ Curses reduce abilities, characteristics, and Virtues; or grant Flaws. Curses do
 
 
 
+> #### Exempli Gratia
+>
+> ##### Curse
+>
+> Brude Deathless is disturbed by a cattle-raiding party crossing below his Broch. Seeing his old enemy Duncan the Bold, he curses him and his cattle-thieving ways. Brude lays a Curse upon him that he will fear the sight of the moon and that he will be hard to awaken (thus restricting his nightly forays). The Curse will continue until Duncan marries (not likely for the danger-seeking Duncan). The storyguide decides that the “Common Fear” (-2 Mental) and “Deep Sleeper” (-1 Physical) Flaws are appropriate, and checks for the total Ease Factor:
+>
+> Ease Factor = 7 (base) + 21 (-3 of Flaws) + 7 (general condition) -2 (suitable Curse) = 33
+>
+> Brude's casting score = 13 (Curse) + 6 (Int) + 8 (Speak Pictish) + 8 (Potency) = 35
+>
+> Brude's normal casting score would be 35, meaning that anything but a zero would invoke the Curse. He Curses Duncan and rolls a 3 for a total of 38. However, Duncan has not yet broken either Geas associated with his Gift of Withstand Magic, so his Resistance of 6 reduces the roll to 32, defeating the Curse. With a laugh and a wave (and a silent promise not to break his Geasa), Duncan leads his men away. Because the roll failed by less than 7, Brude takes no effect from the failed Curse.
 
 
-[TODO: Insert Exempli Gratia + 2x sidenotes]
+
+> A broch ("brok") is a large, thick-walled tower built by a forgotten race.
+
+
+
+> The "magnitude" of a magical effect is one-fifth of its level. Magnitude is a Hermetic way of describing the power of magical effects. While players might talk of "levels," "magnitude" is used when speaking in character.
 
 
 
@@ -4004,7 +4019,11 @@ Hermetic magi may use Perdo Vim spells to remove a Gift, Curse, or Geas, but the
 
 
 
-[TODO: Insert Exempli Gratia]
+> #### Exempli Gratia
+>
+> ##### Determining a Geas' Magnitude
+>
+> Duncan the Bold, tired of his Geas (and getting poor because of it), goes to the magi of Clan Mac Gruagach in hopes of having the Geas lifted. Domnhull Beg agrees to try to lift the Geas. Domnhull's Intellego + Vim + Affinity + Int score is 62, and he is easily able to produce a level 20 spontaneous spell. The storyguide indicates that the Geas on Duncan is about magnitude 4. (The Ease Factor was 18.)
 
 
 
@@ -4046,7 +4065,8 @@ Gruagachan may take up to 10 points of Virtues and Flaws. A gruagach must choose
 
 
 
-[TODO: sidenotes]
+> Gruagachan can be recognized by House Ex Miscellanea if they request admission to the Order. However, magi of other Houses may or may not accept their Hermetic status (equivalent of "Hedge Wizard" Flaw).
+>
 
 
 
@@ -4054,49 +4074,77 @@ Gruagachan may take up to 10 points of Virtues and Flaws. A gruagach must choose
 
 Note: Talents marked "MR" represent magical powers and can contribute to Magic Resistance for the gruagach.
 
-> Alchemy 3 Animal Ken 1 Contortions 1 Curse 2 MR Direction Sense 1 Divination 2 MR Dousing 1 MR Empathy 1 MR Enchanting Music 1 MR Entrancement 2 MR External Soul 4 Geas 2 MR Gift 2 MR Healer 1 Herbalism 1 Hex 1 MR Magic Sensitivity 1 MR Mimicry 1 Perfect Balance 1 Premonitions 1 MR Read Lips 1 Second Sight 1 MR Sense Holiness 2 MR Shapeshifter\* 3 MR Transform\*\* 3 MR Visions 1 MR
+| Talent            | **Value/Tag** |
+| ----------------- | ------------- |
+| Alchemy           | 3             |
+| Animal Ken        | 1             |
+| Contortions       | 1             |
+| Curse             | 2 MR          |
+| Direction Sense   | 1             |
+| Divination        | 2 MR          |
+| Dousing           | 1 MR          |
+| Empathy           | 1 MR          |
+| Enchanting Music  | 1 MR          |
+| Entrancement      | 2 MR          |
+| External Soul     | 4             |
+| Geas              | 2 MR          |
+| Gift              | 2 MR          |
+| Healer            | 1             |
+| Herbalism         | 1             |
+| Hex               | 1 MR          |
+| Magic Sensitivity | 1 MR          |
+| Mimicry           | 1             |
+| Perfect Balance   | 1             |
+| Premonitions      | 1 MR          |
+| Read Lips         | 1             |
+| Second Sight      | 1 MR          |
+| Sense Holiness    | 2 MR          |
+| Shapeshifter\*    | 3 MR          |
+| Transform\*\*     | 3 MR          |
+| Visions           | 1 MR          |
+| Weather Sense     | 1             |
 
 \* A gruagach must have this Exceptional Talent. See "Shapeshift and Transform."
 
-Weather Sense 1
-
-\*\* This is a new Exceptional Talent. See "Shapeshift and Iransform."
+\*\* This is a new Exceptional Talent. See "Shapeshift and Transform."
 
 
 
-[TODO: sidenotes]
-
-
+> Highland characters who are not gruagachan but who have the Exceptional Talents of Gift, Curse, or Geas have an unconscious knowledge of Pictish, but cannot otherwise use the language unless taught. If such characters learn Pictish, then they may develop the Potency skill and add their knowledge of Pictish to their casting rolls.
+>
 
 
 
 #### Virtues and Flaws Available to Gruagachan
 
-Any Virtue or Flaw specifying Hermetic arts, parmae magicae, Hermetic spells, etc. Any Hermetic Virtue or Flaw regarding spellcasting (voice, gestures, foci, side effects, etc.).
+- Any Virtue or Flaw specifying Hermetic arts, parmae magicae, Hermetic spells, etc. Any Hermetic Virtue or Flaw regarding spellcasting (voice, gestures, foci, side effects, etc.).
 
-Any Hermetic Virtue or Flaw about time limits, life-linked magic, etc., of spells.
+- Any Hermetic Virtue or Flaw about time limits, life-linked magic, etc., of spells.
 
-Most Virtues and Flaws about the Order of Hermes. (Reputations are all right.)
+- Most Virtues and Flaws about the Order of Hermes. (Reputations are all right.)
 
-Any Virtue or Flaw regarding literacy, books, etc.
+- Any Virtue or Flaw regarding literacy, books, etc.
 
-Heart-Beast, Will Over Form, Hidden Shape
+- Heart-Beast, Will Over Form, Hidden Shape
 
-Magical Affinity
+- Magical Affinity
 
-No Natural Resistance
+- No Natural Resistance
 
-Old (If character has External Soul)
+- Old (If character has External Soul)
 
-Faerie Blood or related Virtues or Flaws
+- Faerie Blood or related Virtues or Flaws
 
-Faerie Magic
+- Faerie Magic
 
-WithstandMagic, or Magical Resistance
+- WithstandMagic, or Magical Resistance
 
-Werewolf
+- Werewolf
 
-Immortal
+- Immortal
+
+  
+
 
 #### Abilities
 
@@ -4115,8 +4163,9 @@ Gruagach Wisdom: This is the ability of the gruagach to research new Exceptional
 
 All gruagach characters start with these abilities at no cost.
 
+| Ability                  | Value  |
+| ------------------------ | ------ |
 | Speak Gaelic                  | 4      |
-| ----------------------------- | ------ |
 | Speak Pictish                 | 3      |
 | Gruagach Knowledge            | 3      |
 | Gruagach Wisdom               | 3      |
@@ -4152,7 +4201,13 @@ Note that, unlike Hermetic magic, Magic auras do not add to the learning total. 
 
 
 
-[TODO: Black Box Exempli Gratia Learning a new...]
+> #### **Exempli Gratia**
+>
+> ##### Learning a New Exceptional Talent
+>
+> Young Donald Dubh wishes to learn the Exceptional Talent of Magic Sensitivity, a +1 Exceptional Talent for gruagachan. The target number is 10. His Intelligence is +2, his Gruagach Wisdom is 6; he rolls a 9 on the simple die, for a learning total of 17. He has successfully learned the Talent in one season and has a score of 0 in Magic Sensitivity.
+>
+> A few years later, Donald has raised his Gruagach Wisdom to 9, allowing him to learn Transform, a special gruagach Talent. Transform is a +3 Exceptional Talent for gruagachan, and therefore the target number is 30. Donald’s new learning total is 11 and his first season’s roll is 6, for a total of 17, not enough to learn the Talent in one season. Over the next three seasons his rolls are 2, 10, and 4, for a total of 33, giving him a score of 0 in Transform.
 
 
 
@@ -4188,45 +4243,37 @@ For the Transform ability, the base Ease Factor is 10. The victim may resist wit
 
 #### Shapeshifter and Transform Difficulty Modifiers
 
+##### **Size:**
 
+1 point different: +1
+2 points different: +3
+3 points different: +6
+4 points different: +10, etc.
 
-[TODO: Fix table]
+##### **General Form:**
 
+Mammal: +0
+Reptile: +1
+Bird: +3
+Fish: +3
+Insect/worm: +6
+Wood/vegetable: +6
+Stone: +10
+Metal: +15
 
+##### **Nature:**
 
-Size:
+Natural form: +0
+Man-made form: +6
+Complex man-made form: +15
 
- point different: points different: points different: points different:
-
-
-
-#### General Form:
-
-| Mammal         | +0  |
-|----------------|-----|
-| Reptile        | +1  |
-| Bird           | +3  |
-| Fish           | +3  |
-| Insect/worm    | +6  |
-| Wood/vegetable | +6  |
-| Stone          | +10 |
-| Metal          | +15 |
-|                |     |
-
-#### Nature:
-
-| Natural form          | +0   |
-| --------------------- | ---- |
-| Man-made form         | +6   |
-| Complex man-made form | +15  |
-
-#### Supernatural:
+##### **Supernatural:**
 
 +Might score
 
 
 
-#### Newid Gornest— Shapeshifting Duels
+#### Newid Gornest—Shapeshifting Duels
 
 Gruagachan have developed the newid gornest (new-ud gorn-est, change duel) as a method of settling arguments, much as certamen serves the Order of Hermes. Gruagachan normally fight to the collapse of one of the combatants. The winner may cast a Geas or Curse on the loser of the duel, rolling normally to cast the Geas, with a +7 bonus to the roll.
 
