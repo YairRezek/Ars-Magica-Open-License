@@ -450,27 +450,26 @@ As another guide, the Dominion is typically strongest where people gather to wor
 
 More so than other auras, the Dominion regularly conflicts and challenges the auras from other realms. During the expansion of Christianity, Islam, and the kingdom of Israel, the Dominion abutted and pressed against Magic and Faerie auras. Due to the purpose and nature of the Dominion, when it comes to influence in an area with another realm's aura of equal strength, the Dominion will trump the opposing aura; a more-powerful aura will still overwhelm the Dominion, however.
 
-## Holy of Holies
-
-Apart from the Dominion, the holiness of the Eucharist is the next most ubiquitous manifestation of the sacred in Mythic Europe. The Thanksgiving (*eucharistia*) is the Sacrifice of Mass in which Jesus is truly present in the water and wine. In the Eucharist are truly and substantially present the Body and Blood of the God-Man Christ for the nourishment of the soul, by reason of the transubstantiation of the bread and wine, which also contain the un-bloody sacrifice of the New Testament.
-
-Opinions are being refined within the Western Church — in light of the Council of Chalcedon — as to whether or not Christ the Man is present in the Eucharist. Clearly the divine Christ is omnipresent, and manifest within the wafer and wine, but there is no clear position on whether Christ the Man being ubiquitous in the Eucharist negates Chalcedonian orthodoxy that Christ was "truly man … without change". How can a truly human man be divided into bits and distributed around the world? This issue has yet to be resolved.
-
-In Mythic Europe, the communion wafer and wine are among the holiest of objects, being truly the blood and body of Christ, the Word of God. The substance of the wafer and wine is miraculously replaced with that of Christ each time the priest pronounces the words of consecration. The notion that the transubstantiation is only allegorical is, by the thirteenth century, relatively uncommon and even considered heretical. Popular piety demands that the congregation be witness to this miracle, and the custom of the priest displaying the transubstantiated Host above his head so that it may be beheld is spreading.
-
-In Christian churches, the Host is a focus of worship, being the manifestation of God the Son. The Eucharist radiates a Dominion (not Empyreal aura) of five until the next Good Friday; this aura decreases by one every five paces, and completely vanishes if profaned in any way (such as if it is used for any superstitious purpose).
-
-
-
-## Sample Dominion Aura: Athlit, the Pilgrim's Castle
-
-Built by the Franks in 1103 to watch over a narrow passage along the coast between Haifa and Acre, Destroit was taken over by the Knights Templar in the mid-twelfth century and renamed to Athlit. In order to carry out their mission to protect pilgrims traveling to Jerusalem, the Templars are currently rebuilding and expanding it. Athlit is a place removed from the sin of Acre; its inhabitants and those in its surrounds are quite devout, and this is reflected in slightly higher Dominion ratings than normal.
-
-Athlit, the Pilgrim's Castle, is situated in the diocese of Caesarea, and is founded upon a high promontory overhanging the sea. Originally merely a tower that prevented bandits from attacking pilgrims traveling between Haifa and Acre down the narrow coastal path, it now has a nearly completed short fortified wall and two more towers. An ancient wall has been uncovered during construction and has been incorporated into the newer, smaller wall. The towers are one hundred feet long, seventy five feet wide, and thirty feet tall, and a large wall lies between them. Large vaulted rooms (where the pilgrims rest) are within the two large towers, a small chapel is situated within the tower closest to the ocean, and sumptuous houses and dwellings for the resident Templars are also contained inside. Surrounding Athlit are fisheries, saltpans, and vineyards, which are profitable enterprises for the Templars, as well as pastures, fields, and a small wood, which produce healthy surpluses even in times of hardship.
-
-The area surrounding the Pilgrim's Castle — its fisheries and vineyards has a Dominion rating of 2. Within its walls the Dominion rises to 3. The castle's small oratory has a Dominion of 4 (5 at the altar). Along the recently uncovered ancient wall there is no Dominion, but any other aura has long since vanished.
-
 *Exempli Gratia:* A church with a Dominion rating of 4 is built upon an ancient pagan temple to Pan with a Faerie aura of 4. The Dominion will preside during the day. At night (when the Dominion decreases to 3) and on holy days to Pan (when the Faerie aura increases to 5), the Faerie aura emerges.
+
+>#### Holy of Holies
+>
+>Apart from the Dominion, the holiness of the Eucharist is the next most ubiquitous manifestation of the sacred in Mythic Europe. The Thanksgiving (*eucharistia*) is the Sacrifice of Mass in which Jesus is truly present in the water and wine. In the Eucharist are truly and substantially present the Body and Blood of the God-Man Christ for the nourishment of the soul, by reason of the transubstantiation of the bread and wine, which also contain the un-bloody sacrifice of the New Testament.
+>
+>Opinions are being refined within the Western Church — in light of the Council of Chalcedon — as to whether or not Christ the Man is present in the Eucharist. Clearly the divine Christ is omnipresent, and manifest within the wafer and wine, but there is no clear position on whether Christ the Man being ubiquitous in the Eucharist negates Chalcedonian orthodoxy that Christ was "truly man … without change". How can a truly human man be divided into bits and distributed around the world? This issue has yet to be resolved.
+>
+>In Mythic Europe, the communion wafer and wine are among the holiest of objects, being truly the blood and body of Christ, the Word of God. The substance of the wafer and wine is miraculously replaced with that of Christ each time the priest pronounces the words of consecration. The notion that the transubstantiation is only allegorical is, by the thirteenth century, relatively uncommon and even considered heretical. Popular piety demands that the congregation be witness to this miracle, and the custom of the priest displaying the transubstantiated Host above his head so that it may be beheld is spreading.
+>
+>In Christian churches, the Host is a focus of worship, being the manifestation of God the Son. The Eucharist radiates a Dominion (not Empyreal aura) of five until the next Good Friday; this aura decreases by one every five paces, and completely vanishes if profaned in any way (such as if it is used for any superstitious purpose).
+
+
+>#### Sample Dominion Aura: Athlit, the Pilgrim's Castle
+>
+>Built by the Franks in 1103 to watch over a narrow passage along the coast between Haifa and Acre, Destroit was taken over by the Knights Templar in the mid-twelfth century and renamed to Athlit. In order to carry out their mission to protect pilgrims traveling to Jerusalem, the Templars are currently rebuilding and expanding it. Athlit is a place removed from the sin of Acre; its inhabitants and those in its surrounds are quite devout, and this is reflected in slightly higher Dominion ratings than normal.
+>
+>Athlit, the Pilgrim's Castle, is situated in the diocese of Caesarea, and is founded upon a high promontory overhanging the sea. Originally merely a tower that prevented bandits from attacking pilgrims traveling between Haifa and Acre down the narrow coastal path, it now has a nearly completed short fortified wall and two more towers. An ancient wall has been uncovered during construction and has been incorporated into the newer, smaller wall. The towers are one hundred feet long, seventy five feet wide, and thirty feet tall, and a large wall lies between them. Large vaulted rooms (where the pilgrims rest) are within the two large towers, a small chapel is situated within the tower closest to the ocean, and sumptuous houses and dwellings for the resident Templars are also contained inside. Surrounding Athlit are fisheries, saltpans, and vineyards, which are profitable enterprises for the Templars, as well as pastures, fields, and a small wood, which produce healthy surpluses even in times of hardship.
+>
+>The area surrounding the Pilgrim's Castle — its fisheries and vineyards has a Dominion rating of 2. Within its walls the Dominion rises to 3. The castle's small oratory has a Dominion of 4 (5 at the altar). Along the recently uncovered ancient wall there is no Dominion, but any other aura has long since vanished.
 
 #### **CREATING A DOMINION AURA**
 
@@ -482,14 +481,9 @@ For a Christian site to be consecrated, it must be blessed by the celebrant or b
 
 To correctly perform a Dominion rite, the celebrant must roll a stress die and add his Communication + Theology (or Dominion Lore) versus an Ease Factor of 6.
 
-> **DOMINION RITE: Communication + Theology (or Dominion Lore) + stress die vs. Ease Factor 6**
+**DOMINION RITE:** Communication + Theology (or Dominion Lore) + stress die vs. Ease Factor 6
 
-Successfully performed Dominion rites may do one of two things: consecrate an area, or allow the Dominion to enter a place. To perform the second function, the first must be successfully achieved; thus, to create a Dominion, two rolls must
-
-
-be made. The same person need not perform both rites, but two Dominion rites must be performed in an area for a
-
-Dominion to manifest.
+Successfully performed Dominion rites may do one of two things: consecrate an area, or allow the Dominion to enter a place. To perform the second function, the first must be successfully achieved; thus, to create a Dominion, two rolls must be made. The same person need not perform both rites, but two Dominion rites must be performed in an area for a Dominion to manifest.
 
 Following a second successful Dominion rite, a Dominion aura with a rating of 3 is created at the end of the service and will radiate as far as the congregation's prayers can be heard, or the consecrated ground be seen. The Dominion will endure for as long as the congregation meets and continues to worship, in general at least once per week. After a year, if the congregation continues to worship weekly (or regularly), the Dominion grows to four; after a decade, the Dominion may grow to five if the congregation is large, and the church is a significant one with wide importance
 
@@ -503,13 +497,7 @@ The Dominion will also extend to surround the congregation's dwelling places, wi
 
 ## Empyreal Auras
 
-Among them was a tree like no other. Its fragrance was beyond all fragrance, and its leaves and blooms and wood never withered. Its fruit was beautiful, resembling the dates of the
-
-#### Realms of Power
-
-palm. Then I said, "How beautiful this tree is! Its leaves are fair, and its blooms delightful in appearance."
-
-*1 Enoch 24:4-5*
+*Among them was a tree like no other. Its fragrance was beyond all fragrance, and its leaves and blooms and wood never withered. Its fruit was beautiful, resembling the dates of the palm. Then I said, "How beautiful this tree is! Its leaves are fair, and its blooms delightful in appearance."* - 1 Enoch 24:4-5
 
 Empyreal auras are less common than the Dominion, as they are manifestations of the Divine Realm without the mediation of a congregation. They are purer than the Dominion and relate to aspects of God that are not normally encountered or considered by His worshippers. In most cases they are channeled through a powerful divine creature, relic, or saint, or in areas of divine significance not related to the worship of God. When encountering an Empyreal aura, its source is its most important characteristic. The Empyreal aura of a selfless angel will feel different to that of the site of an saint's martyrdom, although the game effect is the same.
 
@@ -523,42 +511,27 @@ People and relics only radiate an Empyreal aura when they have five or more Fait
 
 Empyreal auras from miracles have a rating of one point for every five levels of miracle above 50. A miracle with a magnitude of 50 generates an Empyreal aura of 1, and a level 65 miracle creates an Empyreal aura of 4, for as long as the miracle's effect is present or continues to have an influence on the person or area (note however that the Empyreal aura is static and does not move). Continued miraculous activity in the area will help sustain the Empyreal aura, which will extend in a sphere for as far as the miracles effect.
 
-The living places of divine creatures can also become sanctified and radiate Empyreal auras. If Lupersus the holy wolf
+The living places of divine creatures can also become sanctified and radiate Empyreal auras. If Lupersus the holy wolf were to spend significant time (such as a season) in a particular place, that place will begin to develop an Empyreal aura of 1, which increases by one each season that he spends there up to a maximum rating of his Divine Might divided by 10. Like all Empyreal auras, it radiates in a sphere as far as the borders of his dwelling.
 
-## Sample Empyreal Aura: The Tree Guarded by Michael
-
-When patriarch Enoch was shown heaven and hell by two fiery cherubim, he visited a ring of mountains somewhere on earth (most likely in the Caucus Mountains) where, upon the highest peak, stood a ring of trees unlike any others in the world. The most splendid one of all is beloved by God and no mortal is permitted to touch it, for its roots are linked to those of the divine World Tree, and it grew out of a seed from the greatest tree in the Garden of Eden. This tree stands guarded by the Archangel Michael (see Angels), where he endures with his flaming sword until the trumpet of Armageddon is sounded. Upon Judgment Day the tree will be transplanted to stand before the temple of the Eternal king, where its fruits shall be food for the elect.
-
-The tree guarded by Michael is a sacred plant from the Garden of Eden with a Divine Might of 50. Because it has grown for countless eons, the area radiates an Empyreal aura of 5. The other trees surrounding it are its seedlings. Each tree possesses a Divine Might of 5 and so do not cause their own Empyreal auras.
-
-While Michael will not allow anyone to approach or touch the greater tree, he will allow truly pious visitors to the mountain (those with at least one Faith Point, or an appropriate Personality Trait, such as Pious, rated at least +3) to go near and even touch the lesser trees. The sinful and non-believers are prevented by Michael from touching or approaching the lesser trees as well.
-
-Consuming the fruit of a lesser tree confers the Personality Trait Joyful +3 upon the character and allows him to subtract 5 from his next aging roll. The benefits of eating the lesser fruit do not stack, and may only be regained (by eating another fruit) after the character suffers an aging crisis (see **Ars Magica** 5th Edition, Long Term Events, Aging). Planting the seed of the lesser tree elsewhere in Mythic Europe will produce a tree with Divine Might of 1, whose fruits when eaten create the Personality Trait Joyful +1, or add +1 to the trait if it already exists, although this effect only occurs the first time the fruit is eaten.
-
-
-were to spend significant time (such as a season) in a particular place, that place will begin to develop an Empyreal aura of 1, which increases by one each season that he spends there up to a maximum rating of his Divine Might divided by 10. Like all Empyreal auras, it radiates in a sphere as far as the borders of his dwelling.
+>#### Sample Empyreal Aura: The Tree Guarded by Michael
+>
+>When patriarch Enoch was shown heaven and hell by two fiery cherubim, he visited a ring of mountains somewhere on earth (most likely in the Caucus Mountains) where, upon the highest peak, stood a ring of trees unlike any others in the world. The most splendid one of all is beloved by God and no mortal is permitted to touch it, for its roots are linked to those of the divine World Tree, and it grew out of a seed from the greatest tree in the Garden of Eden. This tree stands guarded by the Archangel Michael (see Angels), where he endures with his flaming sword until the trumpet of Armageddon is sounded. Upon Judgment Day the tree will be transplanted to stand before the temple of the Eternal king, where its fruits shall be food for the elect.
+>
+>The tree guarded by Michael is a sacred plant from the Garden of Eden with a Divine Might of 50. Because it has grown for countless eons, the area radiates an Empyreal aura of 5. The other trees surrounding it are its seedlings. Each tree possesses a Divine Might of 5 and so do not cause their own Empyreal auras.
+>
+>While Michael will not allow anyone to approach or touch the greater tree, he will allow truly pious visitors to the mountain (those with at least one Faith Point, or an appropriate Personality Trait, such as Pious, rated at least +3) to go near and even touch the lesser trees. The sinful and non-believers are prevented by Michael from touching or approaching the lesser trees as well.
+>
+>Consuming the fruit of a lesser tree confers the Personality Trait Joyful +3 upon the character and allows him to subtract 5 from his next aging roll. The benefits of eating the lesser fruit do not stack, and may only be regained (by eating another fruit) after the character suffers an aging crisis (see **Ars Magica** 5th Edition, Long Term Events, Aging). Planting the seed of the lesser tree elsewhere in Mythic Europe will produce a tree with Divine Might of 1, whose fruits when eaten create the Personality Trait Joyful +1, or add +1 to the trait if it already exists, although this effect only occurs the first time the fruit is eaten.
 
 ## Divine Regiones
 
-Have ye not known? Have ye not heard? Hath it not been told you from the beginning? Have ye not understood from the foundations of the earth? It is he that sitteth upon the circle of the earth, and the inhabitants thereof are as grasshoppers; that stretcheth out the heavens as a curtain, and spreadeth them out as a tent to dwell in.
-
-*Isaiah 40:21-22*
+*Have ye not known? Have ye not heard? Hath it not been told you from the beginning? Have ye not understood from the foundations of the earth? It is he that sitteth upon the circle of the earth, and the inhabitants thereof are as grasshoppers; that stretcheth out the heavens as a curtain, and spreadeth them out as a tent to dwell in.* - Isaiah 40:21-22
 
 The Bible and the various deuterocanonical texts relate tales of Divine regiones — the sub-lunar paradises visited by saints and prophets. More so than regiones of other realms, Divine regiones typify a holy virtue or temperament, such as justice, honor, love, or mercy. They have a purpose: to instruct those that visit them or to house Divine beings.
 
 Divine regiones, like normal regiones, are pocket realms, discrete from the aura and area around them. They can only be visited by inhabitants of the regio and their guests, or accidentally stumbled across by the unwary. Those who have returned from a Divine regio often relate their experience as similar to climbing steep stairs or a ladder, leaving them breathless and lightheaded.
 
-Some Divine regiones have come into being through the prayers of a saint or devout community of believers, but most are created by powerful divine beings or through Divine Will. All Divine regiones are or were located in a Divine aura. Time and space in a Divine regio can be disorienting. Small lower levels of a regio can lead to vast upper levels, and time can move slowly, or not at all. Remnants of a bygone era — martyrs fleeing Roman persecution or soldiers from
-
-## Sample Terrestrial Regio: Lake Acherusia
-
-In 2 Corinthians 12, the Apostle Paul recalls a rapturous journey to paradise. The Apocalypse of Paul, an apocryphal scripture discovered in the fourth century, records this voyage. From his home in Tarsus, Paul was taken by two angels of righteousness to experience heaven.
-
-Some way from Tarsus is a land of joy and light, filled with bounteous fruit trees of every kind. Many of the trees are very tall, and the soil itself glows like silver. Beyond trees with ten thousand branches, and vines with ten thousand dates and grapes, is a river of pure white water, leading to a vast lake. On the shore of the lake is a dock at which is berthed a golden ship, and on the far side of the lake is a great city, in front of which the archangel Michael baptizes the repentant before they enter.
-
-This regio is a very special one, as it leads through several layers and possibly to the very gates of Heaven. The land filled with fruit trees is a level 1 regio. Once the ground glows like silver you have reached the level 3 regio, where the trees have ten thousand branches and ten thousand fruit on each branch, representing Divine gifts to the worthy. If you reach a river of white water, then you have reached the level 6 regio. Following the river will lead to the shore of Lake Acherusia, the edge of which is a level 8 regio. The far shore, where Archangel Michael awaits, is a level 10 regio, which is only accessible by traveling on the golden ship that berths at the dock. Beyond the city's walls … only the Apostle Paul knows for certain.
-
-the First Crusade — may reside in a paradise-like regio, unaware of the centuries that have passed since they entered.
+Some Divine regiones have come into being through the prayers of a saint or devout community of believers, but most are created by powerful divine beings or through Divine Will. All Divine regiones are or were located in a Divine aura. Time and space in a Divine regio can be disorienting. Small lower levels of a regio can lead to vast upper levels, and time can move slowly, or not at all. Remnants of a bygone era — martyrs fleeing Roman persecution or soldiers from the First Crusade — may reside in a paradise-like regio, unaware of the centuries that have passed since they entered.
 
 There are two kinds of Divine regiones: **terrestrial regiones**, which are linked to some place in the mundane realm, and **celestial regiones**, which are spiritual places not geographically bound to the earth.
 
@@ -566,9 +539,7 @@ For the mechanics of entering and leaving regiones, and for performing magic wit
 
 ## Terrestrial Regiones
 
-And after that he took me up away from that place where I had seen these things and, behold, a river whose waters were very white, whiter than milk. And I said to the angel: "What is this?" And he said "This is Lake Acherusia where the city of Christ is, but not every man is allowed to enter into that city. For this is the way that leads to God".
-
-*Apocalypse of Paul, 22*
+*And after that he took me up away from that place where I had seen these things and, behold, a river whose waters were very white, whiter than milk. And I said to the angel: "What is this?" And he said "This is Lake Acherusia where the city of Christ is, but not every man is allowed to enter into that city. For this is the way that leads to God".*  - Apocalypse of Paul, 22
 
 Legendary churches, sacred caves, and holy lakes are all locations of terrestrial regiones. They are spheres tied to a specific geographical location. All terrestrial regiones share some of the same characteristics: they are holy versions of the world they are tied to, intimately linked to a particular holy virtue, ideal, or archetype. They are stark, bold, confronting, awe-inspiring, and humbling; rarely are they restrained or discreet. Upon entering even a lowly regio, a character becomes quickly aware that he has encountered a sacred place.
 
@@ -578,10 +549,7 @@ Most inhabitants are far more likely to wander into a terrestrial regio than a c
 
 Upon entering a terrestrial regio, visitors will be struck by the remarkable and vivid differences between the mundane realm they have left, and the divine one. Terrestrial regiones appear similar to the mundane world they are linked to, yet even in a low-level regio the differences are vast.
 
-Trees and plants are purer versions of their mundane counterparts, grand and luminous. Animals, even the meekest sheep or mice, may be majestic and terrifying, or untainted exemplars of innocence and humility. The light in a terrestrial regio is bright, clear, and barely endurable. It pierces the eyes, saturates the body, and penetrates to the soul. Even
-
-
-the most humble regio is profound and moving. The more potent the regio is, the more awe-inspiring and exalted the landscape becomes, as flowers and birds sing the names and virtues of God and rejoice in indescribable joy and glory.
+Trees and plants are purer versions of their mundane counterparts, grand and luminous. Animals, even the meekest sheep or mice, may be majestic and terrifying, or untainted exemplars of innocence and humility. The light in a terrestrial regio is bright, clear, and barely endurable. It pierces the eyes, saturates the body, and penetrates to the soul. Even the most humble regio is profound and moving. The more potent the regio is, the more awe-inspiring and exalted the landscape becomes, as flowers and birds sing the names and virtues of God and rejoice in indescribable joy and glory.
 
 In powerful regiones (those with a rating of five or greater), the features of the landscape are thrown into contrast; colors are vivid and bright without gradient or ambiguity, the light leaves no shadows, and sounds are uncomplicated and pure. Animals and plants are large and flawless, like the inhabitants of Eden.
 
@@ -593,15 +561,17 @@ Most of the native inhabitants of a terrestrial regio are beings of flesh and bl
 
 Not every Divine regio is filled with Divine beings or antediluvian monsters. Some may be the home for a single Divine creature. Terrestrial regiones tend not to be the home of "courts" of divine beings — that is more common with celestial regiones — but rather earthly paradises for servants of the Divine Realm.
 
+>#### Sample Terrestrial Regio: Lake Acherusia
+>
+>In 2 Corinthians 12, the Apostle Paul recalls a rapturous journey to paradise. The Apocalypse of Paul, an apocryphal scripture discovered in the fourth century, records this voyage. From his home in Tarsus, Paul was taken by two angels of righteousness to experience heaven.
+>
+>Some way from Tarsus is a land of joy and light, filled with bounteous fruit trees of every kind. Many of the trees are very tall, and the soil itself glows like silver. Beyond trees with ten thousand branches, and vines with ten thousand dates and grapes, is a river of pure white water, leading to a vast lake. On the shore of the lake is a dock at which is berthed a golden ship, and on the far side of the lake is a great city, in front of which the archangel Michael baptizes the repentant before they enter.
+>
+>This regio is a very special one, as it leads through several layers and possibly to the very gates of Heaven. The land filled with fruit trees is a level 1 regio. Once the ground glows like silver you have reached the level 3 regio, where the trees have ten thousand branches and ten thousand fruit on each branch, representing Divine gifts to the worthy. If you reach a river of white water, then you have reached the level 6 regio. Following the river will lead to the shore of Lake Acherusia, the edge of which is a level 8 regio. The far shore, where Archangel Michael awaits, is a level 10 regio, which is only accessible by traveling on the golden ship that berths at the dock. Beyond the city's walls … only the Apostle Paul knows for certain.
+
 ## Celestial Regiones
 
-And they brought me to a place in which people were like flaming fire. When they wished they appeared as men. And then they brought me to a place of darkness … And I saw the places of the luminaries, the treasuries of the stars and the thunder … I saw the treasuries of all the
-
-#### Realms of Power
-
-winds. I saw how God had furnished the whole creation and the firm foundations of the earth … Then I observed the four winds which bear the earth and the firmament in heaven. And I saw how the winds stretch out the vaults of Heaven and have their station between heaven and earth. These are Heaven's pillars.
-
-*1 Enoch 17*
+*And they brought me to a place in which people were like flaming fire. When they wished they appeared as men. And then they brought me to a place of darkness … And I saw the places of the luminaries, the treasuries of the stars and the thunder … I saw the treasuries of all the winds. I saw how God had furnished the whole creation and the firm foundations of the earth … Then I observed the four winds which bear the earth and the firmament in heaven. And I saw how the winds stretch out the vaults of Heaven and have their station between heaven and earth. These are Heaven's pillars.* - 1 Enoch 17
 
 The Vault of the Sky, the palaces of the seraphs and archangels, the stairs to the Divine Realm, and the sanctuaries of the Pole Lords are all examples of Celestial regiones. Celestial regiones are the homes of the divine powers that shake the earth, guard over its movements, moderate the rays of the sun, measure the rain, and guide the course of rivers. They are unfixed, and while often vast beyond comprehension, can be as minor as the residences of angels who guard a flower, or the incandescent breeze that wraps and protects a heaven-sent dove.
 
@@ -613,41 +583,36 @@ For mundanes who enter a celestial regio, the environment can be overwhelmingly 
 
 Only the strong willed or spiritually pure can retain their senses or comprehend such a place. Celestial regiones are the domain of powerful Divine beings, elaborate angelic courts, or the provinces of holy spirits tasked with the oversight of God's creation. They are intended for those Divine creatures, and so make little concession for the frailties of humanity.
 
-## Sample Celestial Heaven: The Treasury of the Four Winds
-
-Far above the cities of God's faithful, within a place of darkness and stars, is the Treasury of the Four Winds stretched against the vault of the sky. The Treasury of the Four Winds is a vast vault filled with unimaginable forces, for stored within is every gust, breeze, gale, gust, and storm, and within it fly grand birds and avians that survived the Flood. Many of the winds are themselves Divine spirits that may possess a great deal of knowledge of the world. Only lightning and the distant sparkling stars bring light to this dark place. Guarding the four portals to the Treasury are the servants of the archangels Metatron, Kemuel, Nathanael, and Gabriel, who regulate the strength and direction of the world's winds.
-
-Faithful petitioners could convince one of the angels to release some of the wind in their favor, or to alter in some manner the direction or strength of a wind or storm. The four angels are particularly likely to help someone with Faith Points, or someone who promises to perform some inscrutable task for the angel.
-
-The Treasury of the Four Winds is a single layer, level 7 regio.
-
 The homes of angels are not for mere mortals. Without mystical protection or Faith Points, a character entering a celestial region is overwhelmed with Heavenly and incomprehensible sensations. To be able to act normally while inside the regio, a mortal visitor must succeed at a stress roll of Stamina + Dominion Lore against an Ease Factor equal to the rating of the regio multiplied by three.
 
-> **OVERCOME CELESTIAL DISORIENTATION: Stamina + Dominion Lore + stress dice**
+**OVERCOME CELESTIAL DISORIENTATION:** Stamina + Dominion Lore + stress dice
+**CELESTIAL DISORIENTATION EASE FACTOR:** Regio Rating x3
 
-**CELESTIAL DISORIENTATION EASE FACTOR: Regio Rating x3**
-
-A character with Parma Magica or some other magical protection may add that Ability rather than Dominion Lore if it is higher. Characters with Faith Points
-
-
-
-may spend one to ignore celestial disorientation altogether. Even overcoming the celestial disorientation does not make the character immune to the sensations caused by the regio; it merely allows the character to act without penalty.
+A character with Parma Magica or some other magical protection may add that Ability rather than Dominion Lore if it is higher. Characters with Faith Points may spend one to ignore celestial disorientation altogether. Even overcoming the celestial disorientation does not make the character immune to the sensations caused by the regio; it merely allows the character to act without penalty.
 
 If the character succeeds at overcoming the celestial disorientation, he may act normally.
 
 Failing the roll means the character is bewildered and overwhelmed until he leaves, and suffers a penalty to any roll equal to the rating of the regio multiplied by three.
 
-#### **CELESTIAL DISORIENTATION PENALTY: regio rating x3**
+**CELESTIAL DISORIENTATION PENALTY:** regio rating x3
 
 Due to the unrestrained essence of the Divine, normal humans cannot stand prolonged exposure to celestial regiones. After a number of hours equal to their Stamina + Parma Magica + 3, they begin to lose Fatigue, at a rate of one level every hour until they leave — once their Fatigue is exhausted (i.e. they become Unconscious), they gain Warping Points instead, at a rate of one per level of the regio every hour. If this gain is two or more, then it may cause Divine Ascent (see Blessed By God, Divine Warping), in which case they will not gain any additional Warping Points until their Ascent is finished.
 
-> **PROLONGED EXPOSURE LIMIT: Stamina + Parma Magica (or similar Ability) + 3**
+**PROLONGED EXPOSURE LIMIT:** Stamina + Parma Magica (or similar Ability) + 3
 
-**FATIGUE LOSS AFTER EXPOSURE LIMIT: 1 per hour (days for characters with True Faith)**
+**FATIGUE LOSS AFTER EXPOSURE LIMIT:** 1 per hour (days for characters with True Faith)
 
-**WARPING POINT GAIN AFTER UNCONSCIOUSNESS: regio level per hour (days for characters with True Faith)**
+**WARPING POINT GAIN AFTER UNCONSCIOUSNESS:** regio level per hour (days for characters with True Faith)
 
 Characters with a True Faith Score may remain for days rather than hours.
+
+>#### Sample Celestial Heaven: The Treasury of the Four Winds
+>
+>Far above the cities of God's faithful, within a place of darkness and stars, is the Treasury of the Four Winds stretched against the vault of the sky. The Treasury of the Four Winds is a vast vault filled with unimaginable forces, for stored within is every gust, breeze, gale, gust, and storm, and within it fly grand birds and avians that survived the Flood. Many of the winds are themselves Divine spirits that may possess a great deal of knowledge of the world. Only lightning and the distant sparkling stars bring light to this dark place. Guarding the four portals to the Treasury are the servants of the archangels Metatron, Kemuel, Nathanael, and Gabriel, who regulate the strength and direction of the world's winds.
+>
+>Faithful petitioners could convince one of the angels to release some of the wind in their favor, or to alter in some manner the direction or strength of a wind or storm. The four angels are particularly likely to help someone with Faith Points, or someone who promises to perform some inscrutable task for the angel.
+>
+>The Treasury of the Four Winds is a single layer, level 7 regio.
 
 ## Inhabitants
 
@@ -659,80 +624,70 @@ Refer to Angels, below, for more information about the inhabitants of celestial 
 
 There are two ways to create a Divine regio: divine creatures, and miraculous effects.
 
-#### **DIVINE CREATURES**
+#### DIVINE CREATURES
 
 Powerful divine entities, such as heavenly giants and angels, often reside in Divine regiones if they do not permanently dwell in Heaven. Divine beings with a Divine Might score of 20 or greater have the ability to create temporary Divine regiones of either kind.
 
-The creature must spend at least 10 Divine Might points, which creates a single-level regio with a rating of 1. Expenditure of further Divine Might creates additional levels or increases the
+The creature must spend at least 10 Divine Might points, which creates a single-level regio with a rating of 1. Expenditure of further Divine Might creates additional levels or increases the regio’s rating, at a rate of 10 points per level or rating. A created regio will last for a year, after which it will become unstable and disappear, unless the creature (or other Divine creatures, such as those who residein the regio) continues to expend Divine Might to sustain it. A number of Might points must be spent each month after the first year as were spent to create it.
 
+#### THE MYSTIC ARTS
+Divine regiones have occasionally been created through the miracle of prayer, although with the Dominion now dominant in Mythic Europe, it is exceed ingly rare for the miracle of a regio to occur. It is also possible for a holy charac ter to create a Divine regio using his own powers. Such a feat has not been achieved in recorded memory, although a few holy magi pursue the possibility (see Blessed By God, Miraculous Effects for the mechanics of this, and Mythic Christianity, Characters for an example).
 
-
-
-
-
-*15*
-
-
-
-## Abbas the Hunted
-
-Praise the Lord … you Mighty Ones who do His bidding, who obey His word.
-
-*Psalm 103:20*
-
-**Divine Might:** 4 (Corpus)
-
-**Characteristics:** Int 0, Per 0, Pre +1, Com +1, Str +4, Sta +4, Dex 0, Qik –1
-
-**Size:** +1 **Age:** 80 (20) **Decrepitude:** 0
-
-**Confidence Score:** 1 (3)
-
-**Virtues and Flaws:** Mythic Companion: Nephilim (free); Entrancement, Greater Immunity: Disease, Blood of the Nephilim; Enduring Constitution, Great Stamina, Great Strength, Improved Characteristics (x2), Keen Vision, Lesser Purifying Touch, Long-Winded, Rapid Convalescence, Sense Holiness and Unholiness, Strong Angelic Heritage (free), Student of the Divine; Compassionate, Enemies; Fear of fire, Generous, Lesser Malediction, Vow
-
-**Personality Traits:** Greedy +3, Devout +2, Callous –2
-
-**Reputations:** None
-
-**Combat:** 
-
-*Fist:* Init –1, Attack +3, Defense +2, Damage +4
-
-*Spear (Short):* Init +1, Attack +5, Defense +2, Damage +9
-
-**Soak:** +4
-
-**Fatigue Levels:** OK, 0, –2, –4, Unconscious
-
-**Wound Penalties**: –1 (1-6), –3 (7-12), –5 (13-18), Incapacitated (19-24)
-
-**Abilities:** (Area) Lore 5 (regiones), Athletics 4 (running), Awareness 5 (wilderness), Brawl 2 (fist), Carouse 4 (staying sober), Charm 4 (friendly conversation), Concentration 4 (while performing music), Dominion Lore 7 (divine beings), Entrancement 6 (bringing peace), Etiquette 5 (angels), Folk Ken 5 (divine beings), Hebrew 4 (archaic), Leadership 4 (outside combat), Magic Lore 2 (spirits), Music 6 (singing), Penetration 5 (demons) Sense Holiness and Unholiness 7 (demons), Single Weapon 2 (spears), Survival 5 (deserts), Teaching 4 (Music)
-
-**Powers:**
-
-*Admonish the Ferocious Animal*, 1 point, –1, Animal: As *Circle of Beast Warding*.
-
-*Curse the Sinful Foe*, 1 point, –1, Corpus: As *Spasms of the Uncontrolled Hand*.
-
-*Halo*, 1 point, –1, Ignem: As *Lamp Without Flame*, which manifests as a halo around Abbas' head.
-
-*The Lord's Terrifying Herald*, 1 point, –1, Auram: As *Jupiter's Resounding Blow*.
-
-**Equipment:** Clothes, jewelry, bronze spear.
-
-**Encumbrance:** 0 (0)
-
-**Vis:** 1 pawn Corpus in heart.
-
-**Appearance:** Abbas is a giant (some eight feet tall) with eyes like sapphires. He wears archaic clothes (the style is several hundred years old) encrusted with emeralds and silver, and inscribed with holy words and symbols. He has an oiled beard and jet-black hair that is intricately braided and interwoven with strands of precious metal.
-
-Abbas, one of the Nephilim, is the only survivor of an infernal attack on his home, a terrestrial regio near to the player characters' covenant. He fled the regio to seek help, but was pursued by a fiery hell-hound that left him badly burned (and afraid of fire). Abbas is a kind-hearted soul with a love for music and keen ability to assess a person's character. He currently has the enmity of a powerful devil who orchestrated the assault. Abbas is seeking help to avenge his murdered family, a solemn promise he made to God, and may see the characters' covenant as a possible ally.
-
-in recorded memory, although a few holy magi pursue the possibility (see Blessed By God, Miraculous Effects for the mechanics of this, and Mythic Christianity, Characters for an example).
-
-#### **SPONTANEOUS REGIONES**
+#### SPONTANEOUS REGIONES
 
 A spontaneous regio may be created through a particularly powerful divine act, whether a miracle, holy power, or expenditure of Divine Might. Any effect of tenth magnitude or greater may create a temporary Divine regio, although there is no precise system for this, other than story necessity.
+
+>#### Abbas the Hunted
+>
+>*Praise the Lord … you Mighty Ones who do His bidding, who obey His word.* = Psalm 103:20
+>
+>**Divine Might:** 4 (Corpus)
+>
+>**Characteristics:** Int 0, Per 0, Pre +1, Com +1, Str +4, Sta +4, Dex 0, Qik –1
+>
+>**Size:** +1 **Age:** 80 (20) **Decrepitude:** 0
+>
+>**Confidence Score:** 1 (3)
+>
+>**Virtues and Flaws:** Mythic Companion: Nephilim (free); Entrancement, Greater Immunity: Disease, Blood of the Nephilim; Enduring Constitution, Great Stamina, Great Strength, Improved Characteristics (x2), Keen Vision, Lesser Purifying Touch, Long-Winded, Rapid Convalescence, Sense Holiness and Unholiness, Strong Angelic Heritage (free), Student of the Divine; Compassionate, Enemies; Fear of fire, Generous, Lesser Malediction, Vow
+>
+>**Personality Traits:** Greedy +3, Devout +2, Callous –2
+>
+>**Reputations:** None
+>
+>**Combat:** 
+>
+>*Fist:* Init –1, Attack +3, Defense +2, Damage +4
+>
+>*Spear (Short):* Init +1, Attack +5, Defense +2, Damage +9
+>
+>**Soak:** +4
+>
+>**Fatigue Levels:** OK, 0, –2, –4, Unconscious
+>
+>**Wound Penalties**: –1 (1-6), –3 (7-12), –5 (13-18), Incapacitated (19-24)
+>
+>**Abilities:** (Area) Lore 5 (regiones), Athletics 4 (running), Awareness 5 (wilderness), Brawl 2 (fist), Carouse 4 (staying sober), Charm 4 (friendly conversation), Concentration 4 (while performing music), Dominion Lore 7 (divine beings), Entrancement 6 (bringing peace), Etiquette 5 (angels), Folk Ken 5 (divine beings), Hebrew 4 (archaic), Leadership 4 (outside combat), Magic Lore 2 (spirits), Music 6 (singing), Penetration 5 (demons) Sense Holiness and Unholiness 7 (demons), Single Weapon 2 (spears), Survival 5 (deserts), Teaching 4 (Music)
+>
+>**Powers:**
+>
+>*Admonish the Ferocious Animal*, 1 point, –1, Animal: As *Circle of Beast Warding*.
+>
+>*Curse the Sinful Foe*, 1 point, –1, Corpus: As *Spasms of the Uncontrolled Hand*.
+>
+>*Halo*, 1 point, –1, Ignem: As *Lamp Without Flame*, which manifests as a halo around Abbas' head.
+>
+>*The Lord's Terrifying Herald*, 1 point, –1, Auram: As *Jupiter's Resounding Blow*.
+>
+>**Equipment:** Clothes, jewelry, bronze spear.
+>
+>**Encumbrance:** 0 (0)
+>
+>**Vis:** 1 pawn Corpus in heart.
+>
+>**Appearance:** Abbas is a giant (some eight feet tall) with eyes like sapphires. He wears archaic clothes (the style is several hundred years old) encrusted with emeralds and silver, and inscribed with holy words and symbols. He has an oiled beard and jet-black hair that is intricately braided and interwoven with strands of precious metal.
+>
+>Abbas, one of the Nephilim, is the only survivor of an infernal attack on his home, a terrestrial regio near to the player characters' covenant. He fled the regio to seek help, but was pursued by a fiery hell-hound that left him badly burned (and afraid of fire). Abbas is a kind-hearted soul with a love for music and keen ability to assess a person's character. He currently has the enmity of a powerful devil who orchestrated the assault. Abbas is seeking help to avenge his murdered family, a solemn promise he made to God, and may see the characters' covenant as a possible ally.
 
 ## Divine Beings
 
@@ -8073,6 +8028,7 @@ Various Leading Orientalists. The Encyclopaedia of Islam. 1st Edition, 4 vols. a
 Various Leading Orientalists. The Encyclopaedia of Islam. New Edition, 9 vols. and Supplements. Leiden: E. I Brill 1979-98
 
 Volz, Carl A. The Church of the Middle Ages. St. Louis: Concordia Publishing House, 1970
+
 
 
 
