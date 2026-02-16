@@ -697,70 +697,55 @@ A divine being is any creature that possesses Divine Might. This includes saints
 
 There are innumerable divine beings in Mythic Europe. Any animal or plant may possess Divine Might and have holy powers, although they are likely to reside in divine terrestrial regiones rather than the mundane world.
 
+>#### Chalkydri
+>
+>*And I looked and saw other flying elements of the sun, whose name is Chalkydri, marvelous and wonderful, with feet and tails in the form of a lion, and a crocodile's head, their appearance is empurpled, like the rainbow; their size is nine hundred measures, their wings are like those of angels, each has twelve, and they attend and accompany the sun, bearing heat and dew, as it is ordered them from God.* - 2 Enoch 12:1
+>
+>**Divine Might:** 10 (Animal)
+>
+>**Characteristics:** Int –2, Per +1, Pre 0, Com –1, Str +6, Sta +5, Dex +1, Qik –1
+>
+>**Size:** +5
+>
+>**Confidence Score:** 2 (5)
+>
+>**Virtues and Flaws:** Greater Immunity (Fire and Heat)
+>
+>**Personality Traits:** Compassionate +2
+>
+>**Reputations:** None
+>
+>**Combat:**
+>
+>*Bite:* Init +1, Attack +14, Defense +11, Damage +12
+>
+>*Claws:* Init +2, Attack +16, Defense +14, Damage +13
+>
+>*Wings:* Init +4, Attack +8, Defense +5, Damage +8
+>
+>**Soak:** +5
+>
+>**Fatigue Levels:** OK, 0, 0, 0, –1, –1, –3, –3, –5, Unconscious
+>
+>**Wound Penalties**: –1 (1-10), –3 (11-20), –5 (21-30), Incapacitated (30-40)
+>
+>**Abilities:** Athletics 7 (flight), Awareness 5 (sight), Brawl 5 (bite), Dominion Lore 3 (divine creatures), Hunt 5 (sunlight)
+>
+>**Powers:**
+>
+>*Blinding Reflection*, 1 point, +4, Ignem: When threatened, chalkydri can angle a set of their wings to deflect the burning rays of the sun against their foe, which blinds the target as *Flash of the Scarlet Flames*, and does damage as *Arc of Fiery Ribbons*.
+>
+>*Radiant Invisibility*, 2 point, +1, Imaginem: With this power, chalkydri can turn invisible and walk in even the busiest place without being seen or sensed by humans. Some animals and those with the appropriate Virtues (such as Sense Holiness and Unholiness) may still sense them.
+>
+>**Encumbrance:** 0 (0)
+>
+>**Vis:** 1 pawn of Animal in head, one pawn (total) of Ignem and Auram in wings. **Appearance:** *Chalkydri* appear as a lion with a crocodile's head. They glow with shimmering purple light and have six sets of enormous golden wings, which appear to be made of gleaming fire and water.
+>
+>Chalkydri are fantastic creatures that regulate the heat from the sun, lit by Raphael's brilliance. They carry down soothing dew and catch its rays in their wings. Chalkydri are found in both terrestrial and celestial regiones, and high above mortal settlements and cities, protecting them from the burning light of the sun, or at sunrise near to the earth, when they dispense the dew.
+
 ## Nephilim
 
-The Nephilim were on the earth in those days — and also afterward — when the sons of God went to the daughters of men and had children by them. They were the heroes of old, men of renown.
-
-*Genesis 6:4*
-
-#### regio's rating, at a rate of 10 points per level or rating.
-
-A created regio will last for a year, after which it will become unstable and disappear, unless the creature (or other Divine creatures, such as those who reside in the regio) continues to expend Divine Might to sustain it. A number of Might points must be spent each month after the first year as were spent to create it.
-
-#### **THE MYSTIC ARTS**
-
-Divine regiones have occasionally been created through the miracle of prayer, although with the Dominion now dominant in Mythic Europe, it is exceedingly rare for the miracle of a regio to occur. It is also possible for a holy character to create a Divine regio using his own powers. Such a feat has not been achieved
-
-
-## Chalkydri
-
-And I looked and saw other flying elements of the sun, whose name is Chalkydri, marvelous and wonderful, with feet and tails in the form of a lion, and a crocodile's head, their appearance is empurpled, like the rainbow; their size is nine hundred measures, their wings are like those of angels, each has twelve, and they attend and accompany the sun, bearing heat and dew, as it is ordered them from God.
-
-*2 Enoch 12:1*
-
-**Divine Might:** 10 (Animal)
-
-**Characteristics:** Int –2, Per +1, Pre 0, Com –1, Str +6, Sta +5, Dex +1, Qik –1
-
-**Size:** +5
-
-**Confidence Score:** 2 (5)
-
-**Virtues and Flaws:** Greater Immunity
-
-(Fire and Heat)
-
-**Personality Traits:** Compassionate +2
-
-**Reputations:** None
-
-**Combat:**
-
-*Bite:* Init +1, Attack +14, Defense +11, Damage +12
-
-*Claws:* Init +2, Attack +16, Defense +14, Damage +13
-
-*Wings:* Init +4, Attack +8, Defense +5, Damage +8
-
-**Soak:** +5
-
-**Fatigue Levels:** OK, 0, 0, 0, –1, –1, –3, –3, –5, Unconscious
-
-**Wound Penalties**: –1 (1-10), –3 (11-20), –5 (21-30), Incapacitated (30-40)
-
-**Abilities:** Athletics 7 (flight), Awareness 5 (sight), Brawl 5 (bite), Dominion Lore 3 (divine creatures), Hunt 5 (sunlight)
-
-**Powers:**
-
-*Blinding Reflection*, 1 point, +4, Ignem: When threatened, chalkydri can angle a set of their wings to deflect the burning rays of the sun against their foe, which blinds the target as *Flash of the Scarlet Flames*, and does damage as *Arc of Fiery Ribbons*.
-
-*Radiant Invisibility*, 2 point, +1, Imaginem: With this power, chalkydri can turn invisible and walk in even the busiest place without being seen or sensed by humans. Some animals and those with the appropriate Virtues (such as Sense Holiness and Unholiness) may still sense them.
-
-**Encumbrance:** 0 (0)
-
-**Vis:** 1 pawn of Animal in head, one pawn (total) of Ignem and Auram in wings. **Appearance:** *Chalkydri* appear as a lion with a crocodile's head. They glow with shimmering purple light and have six sets of enormous golden wings, which appear to be made of gleaming fire and water.
-
-Chalkydri are fantastic creatures that regulate the heat from the sun, lit by Raphael's brilliance. They carry down soothing dew and catch its rays in their wings. Chalkydri are found in both terrestrial and celestial regiones, and high above mortal settlements and cities, protecting them from the burning light of the sun, or at sunrise near to the earth, when they dispense the dew.
+*The Nephilim were on the earth in those days — and also afterward — when the sons of God went to the daughters of men and had children by them. They were the heroes of old, men of renown.* - Genesis 6:4
 
 Tales of angels breeding with humankind go back to the age of Noah. Nephilim were the giants and heroes of renown that inhabited the earth with the children of Seth before the Flood. They are often known as the Mighty Ones or Earth Born. Legends state that they were three hundred cubits high (some 500 feet), and helped Nimrod construct the Tower of Babel. Before the Deluge, most Nephilim had been infernally corrupted. They were all drowned in the great deluge, except for two pious Nephilim who hid on Noah's Ark.
 
@@ -772,9 +757,7 @@ Since Nephilim live for thousands of years, they can grow to great proportions a
 
 ## Heaven's Host
 
-Every generous act of giving, with every perfect gift, is from above, coming down from the Father of lights
-
-*James 1:17*
+*Every generous act of giving, with every perfect gift, is from above, coming down from the Father of lights* - James 1:17
 
 Amid the perfection of the Divine Realm are the angels, spiritual creatures of immaculate goodness, imbued with holiness and possessed of near-perfect knowledge of God.
 
@@ -784,16 +767,9 @@ One angel, Lucifer the Light Bearer, was set over all the hosts of angels, surpa
 
 The remaining angels serve the Divine realm faithfully and joyously. They continuously watch their fallen brethren, the devils, and are locked in ceaseless conflict to defend the souls of humanity against Hell's profane predations.
 
-## What are Angels?
+### What are Angels?
 
-On this account the holy ranks of the Celestial Beings are present with and participate in the Divine Principle in a degree far surpassing all those things which merely exist, and irrational living creatures, and rational human beings. For moulding themselves intelligibly to the imitation of God, and looking in a supermundane way to the Likeness of the
-
-
-#### Realms of Power
-
-Supreme Deity, and longing to form the intellectual appearance of It, they naturally have more abundant communion with Him, and with unremitting activity they tend eternally up the steep, as far as is permitted, through the ardor of their unwearying divine love, and they receive the Primal Radiance in a pure and immaterial manner, adapting themselves to this in a life wholly intellectual.
-
-— Dionysus the Areopagite*, The Celestial Hierarchy*, Chapter IV
+*On this account the holy ranks of the Celestial Beings are present with and participate in the Divine Principle in a degree far surpassing all those things which merely exist, and irrational living creatures, and rational human beings. For moulding themselves intelligibly to the imitation of God, and looking in a supermundane way to the Likeness of the Supreme Deity, and longing to form the intellectual appearance of It, they naturally have more abundant communion with Him, and with unremitting activity they tend eternally up the steep, as far as is permitted, through the ardor of their unwearying divine love, and they receive the Primal Radiance in a pure and immaterial manner, adapting themselves to this in a life wholly intellectual. * — Dionysus the Areopagite, *The Celestial Hierarchy*, Chapter IV
 
 Angels are the messengers of God, created to be agents of His Providence and Will. They are beings composed entirely of intellect and unfailing life. They are free from corruption, death, matter, gender, and generation, being the most perfect beings in existence.
 
@@ -805,56 +781,49 @@ Unless they have a specific duty that necessitates they leave Heaven, angels fro
 
 While angels were created to serve God unwaveringly, they have many responsibilities that give them a certain amount of independence when not acting at God's direct command. Angels were made for a purpose, but need not necessarily perform that task all the time. An angel whose role it is to protect an hour is only occupied with that task for an hour each day. Likewise powerful angels, such as archangels, can perform multiple actions and be in multiple places simultaneously.
 
-## Angelic Choirs
+### Angelic Choirs
 
-Suddenly a great company of the heavenly host appeared with the angel, praising God and saying, "Glory to God in the highest, and on earth peace to men on whom his favor rests."
-
-*Luke 2:13-14*
+*Suddenly a great company of the heavenly host appeared with the angel, praising God and saying, "Glory to God in the highest, and on earth peace to men on whom his favor rests."* - Luke 2:13-14
 
 There are three Hierarchies (also known as Orders) of angels, laid out by St. Dionysus the Areopagite. Each Hierarchy is further divided into three Choirs. The angelic choirs are (from most exalted to least): Seraphim, Cherubim, and Thrones; Dominations, Authorities, and Potentates; and Principalities, Archangels, and Angels. All angels, regardless of their involvement or common alignment with a particular faith or religion come within the Angelic Hierarchy.
 
-## Angelic Traits
+>#### Other Hierarchies
+>
+>There is dispute as to precise nature of the Angelic Orders, in particular among Jewish theologians. Many kabbalists and rabbis believe there are ten Choirs. In order of highest ranked to lowest, they are:
+>
+>**Chaioth ha-Qadesh**: The four Angels of Judgement, each is greater than the entire of the rest of the Heavenly Host together, as they stand directly before God. The Angels of Judgement are sometimes known as the Watchers ("Grigori").
+>
+>**Ofanim**: The Hebrew name for the Thrones, the Ofanim ("the wheels") are ruled by Ofaniel and Raphael and are associated with the sefirot of Chokmah (Wisdom).
+>
+>**Aralim**: Supposedly made of fire and ice (from *Psalms 104:1-4*), the Aralim (also known as the Erelim or "the valiant ones") exist to ceaselessly chant the praises of the Lord and rule over grass, trees, fruit, and grain. Michael is commonly said to be of the Aralim Choir.
+>
+>**Chasmalim**: Also known as the Dominations, the Chasmalim exist in the spiritual world ruled over by Metatron and regulate the duties of other angels, as well as govern the manifestation of God's majesty.
+>
+>**Seraphim**: Except for the change in rank, the seraphim in Jewish tradition are unchanged.
+>
+>**Malachim**: Known also as the "Virtues", the Malachim are the kings or rulers of Heaven and it is from their ranks that Satan Fell. The Malachim work God's miracles on earth.
+>
+>**Elohim**: The "gods" mentioned in the Old Testament, the elohim is the name used for God's messengers, or the Angelic Choir.
+>
+>**Bene Elohim**: The "sons of God" are blessed to forever sing ineffable songs of praise to God. It is believed that it was the Bene Elohim that gave rise to the Nephilim.
+>
+>**Kerubim**: The Kerubim from *Psalms 18:10* are the steeds of God, but are otherwise unchanged from the Cherubim.
+>
+>**Ishim**: Composed of white fire, the Ishim extol the virtues of God and reside in the Fifth Heaven, but are otherwise the same as the Thrones.
+>
+>Angels are ubiquitous and fill nearly every space in creation, from the realm of purgatory, to the kingdoms of Mythic Europe and the halls of Heaven. Only in areas specifically aligned with another realm — those areas with a non-Divine aura or regio — are angels not present.
 
-It is a very different thing to foresee the changes of the temporal order in the eternal and unchanging laws of God, which live eternally in his wisdom, and, by participation in the Spirit of God, to know the will of God, which is supremely certain and supremely powerful; this privilege is granted, by a just distinction, to the holy angels. Thus they are blessed as well as eternal. The good, which renders
+### Angelic Traits
 
-## Other Hierarchies
+*It is a very different thing to foresee the changes of the temporal order in the eternal and unchanging laws of God, which live eternally in his wisdom, and, by participation in the Spirit of God, to know the will of God, which is supremely certain and supremely powerful; this privilege is granted, by a just distinction, to the holy angels. Thus they are blessed as well as eternal. The good, which renders them blessed, is God, by whom they were created; and the participation in his life and the contemplation of his beauty is their never-failing joy.* - St. Augustine, *City of God*, Book X, Chapter 22
 
-There is dispute as to precise nature of the Angelic Orders, in particular among Jewish theologians. Many kabbalists and rabbis believe there are ten Choirs. In order of highest ranked to lowest, they are:
+>#### Updating the Bestiary
+>
+>There are two divine beings listed in Chapter 13 of **Ars Magica** 5th Edition: Lupersus and Seferiel. Lupersus is merely a divine creature rather than an angel, and so has no extra traits. Seferiel belongs to both the Angelic and the Archangel Choirs, and gains the additional traits listed below.
+>
+>All angels share certain traits to do with their spiritual natures and innate holiness. However, each hierarchy of angels also shares certain characteristics. This includes minimum Divine Might levels, inherent powers, and consistent Personality Traits.
 
-**Chaioth ha-Qadesh**: The four Angels of Judgement, each is greater than the entire of the rest of the Heavenly Host together, as they stand directly before God. The Angels of Judgement are sometimes known as the Watchers ("Grigori").
-
-**Ofanim**: The Hebrew name for the Thrones, the Ofanim ("the wheels") are ruled by Ofaniel and Raphael and are associated with the sefirot of Chokmah (Wisdom).
-
-**Aralim**: Supposedly made of fire and ice (from *Psalms 104:1-4*), the Aralim (also known as the Erelim or "the valiant ones") exist to ceaselessly chant the praises of the Lord and rule over grass, trees, fruit, and grain. Michael is commonly said to be of the Aralim Choir.
-
-**Chasmalim**: Also known as the Dominations, the Chasmalim exist in the spiritual world ruled over by Metatron and regulate the duties of other angels, as well as govern the manifestation of God's majesty.
-
-**Seraphim**: Except for the change in rank, the seraphim in Jewish tradition are unchanged.
-
-**Malachim**: Known also as the "Virtues", the Malachim are the kings or rulers of Heaven and it is from their ranks that Satan Fell. The Malachim work God's miracles on earth.
-
-**Elohim**: The "gods" mentioned in the Old Testament, the elohim is the name used for God's messengers, or the Angelic Choir.
-
-**Bene Elohim**: The "sons of God" are blessed to forever sing ineffable songs of praise to God. It is believed that it was the Bene Elohim that gave rise to the Nephilim.
-
-**Kerubim**: The Kerubim from *Psalms 18:10* are the steeds of God, but are otherwise unchanged from the Cherubim.
-
-**Ishim**: Composed of white fire, the Ishim extol the virtues of God and reside in the Fifth Heaven, but are otherwise the same as the Thrones.
-
-Angels are ubiquitous and fill nearly every space in creation, from the realm of purgatory, to the kingdoms of Mythic Europe and the halls of Heaven. Only in areas specifically aligned with another realm — those areas with a non-Divine aura or regio — are angels not present.
-
-
-## Updating the Bestiary
-
-There are two divine beings listed in Chapter 13 of **Ars Magica** 5th Edition: Lupersus and Seferiel. Lupersus is merely a divine creature rather than an angel, and so has no extra traits. Seferiel belongs to both the Angelic and the Archangel Choirs, and gains the additional traits listed below.
-
-them blessed, is God, by whom they were created; and the participation in his life and the contemplation of his beauty is their never-failing joy.
-
-> *St. Augustine, City of God, Book X, Chapter 22*
-
-All angels share certain traits to do with their spiritual natures and innate holiness. However, each hierarchy of angels also shares certain characteristics. This includes minimum Divine Might levels, inherent powers, and consistent Personality Traits.
-
-#### **ANGELIC TRAITS**
+#### ANGELIC TRAITS
 
 All angels possess at least one point of Divine Might and may not be affiliated or belong to any other realm other than the Divine.
 
@@ -864,7 +833,7 @@ All angels may, at any time, become the divine conduit for a miracle, allowing t
 
 No angel will break any commandment or divine law, or act against its nature.
 
-#### **ANGELIC POWERS**
+#### ANGELIC POWERS
 
 All angels possessthe following powers: *Angelic Mantle*, 2 points, +12, Corpus: Angels use this power to manifest in the mundane world and appear to take on mortal flesh. In reality, this form is entirely formed from their intellect, but appears and acts exactly like real flesh. While in this "material" form, they must follow the mundane world's Natural Laws, and so are limited, with Characteristic and Soak scores, and Fatigue and Wound levels. Although Angels are genderless, their Mantles are almost always that of a man (unless they have a specific ability to take on other forms); while in their Mantle, angels may breed, and sire or bear children (although no angel has done so since the flood), although they do not age. If they are "killed" while in their Mantle, they return to their spiritual form, but may if they chose (and have the necessary Might Points) immediately use this power again. An angel's Mantle may appear as anything.
 
@@ -872,13 +841,13 @@ All angels possessthe following powers: *Angelic Mantle*, 2 points, +12, Corpus:
 
 *Envisioning*, 1 or 5 points, +0, *Mentem*: This power allows angels to appear in the dreams of a target, or even while awake, and impart a Divine message. This is different from a miraculous vision, which occurs through direct Divine agency. An Envisioning that takes place while the target is awake costs five points and may seem like a day dream, or a vivid or frightening vision, depending on what message the angel intends. Anyone may be the target of Envisioning, pious or impious, pagan or infernalist. Envisioning may occur over any distance.
 
-#### **ANGELIC CHARACTERISTICS**
+#### ANGELIC CHARACTERISTICS
 
 Angels are creatures of pure intellect and reason, but they are not infallible. Furthermore, some angels are obviously superior to others, such as the seraphim over all other angels. Without using their Angelic Mantle power, angels can only interact with the physical world through their Powers; they have no traits other than their non-physical Characteristics. When in Heaven, the great angels (the top three Choirs) have Characteristics and Abilities so great as to be meaningless; while on earth in their Mantle however, unless by Divine Will, they are somewhat more limited.
 
 Angels' non-physical Characteristics (Intelligence, Perception, Presence, and Communication) are determined by their Divine Might score. Angels with 1-10 Divine Might have a +1 in all non-physical Characteristics; angels with 11-20 Divine Might have +2 in all non-physical Characteristics, and so on. Extremely powerful angels with a Divine Might score of 90 therefore have +9 in their non-physical Characteristics. Physical characteristics (Stamina, Strength, Dexterity, and Quickness) for an angel's Mantle are determined by the normal point-buy laid out in **Ars Magica** 5th Edition, page 30 (7 points to spend, although particularly powerful angels should have more).
 
-#### **ANGELIC FREE WILL**
+#### ANGELIC FREE WILL
 
 All angels possess free will as an essential part of their nature. Without free will, Satan could never have fallen, and the third of the Heavenly Host could not have followed. Unlike mankind, angels are creatures of pure intellect. This purity grants them the ability to act with complete freedom and judgment, enhanced by their proximity to the Divine Essence.
 
@@ -888,228 +857,219 @@ An angel, unless directly acting on God's behalf, is still fallible. Thus, angel
 
 Theoretically an angel could decide to disobey God and thereby Fall, but that has only happened at one time in Existence. All remaining angels have already made their decision and remain in Heaven.
 
-#### **ANGELIC SENSES**
+#### ANGELIC SENSES
 
-Angels do not have senses as a human would understand it. Rather, they gain a
-
-
-#### Realms of Power
-
-
-direct understanding of their surroundings by virtue of their angelic intellect. It is this awareness that grants them movement and the capability to act.
+Angels do not have senses as a human would understand it. Rather, they gain a direct understanding of their surroundings by virtue of their angelic intellect. It is this awareness that grants them movement and the capability to act.
 
 Angels know things directly through their forms rather than relying on species (see **Ars Magica** 5th Edition, p.79) or sensation. Thus, their knowledge of something is of the complete thing (whether an object, idea, or emotion), rather than limited by a body's senses, although angels may not read someone's thoughts unless through a specific power.
 
 Angels therefore can "see" in the dark, and can "sense" both an illusion and the truth behind it. Angelic senses cannot be the target of Hermetic (or other) spells or magical powers, since they apprehend with their entire being (although wards may limit the extent of an angel's "sense"). The only way to stop or hinder an angel from "sensing" something would be to entirely destroy the angel, or trap it in a powerful magical ward.
 
-#### **ANGELIC MOVEMENT**
+#### ANGELIC MOVEMENT
 
 Angels move without occupying the space between where they are and where they wish to move to. Their movement is instantaneous and they take up no space since they have no body. While in their Mantle, angels may still move instantaneously, but will instead chose to move naturally.
 
 An infinite number of angels could therefore move simultaneously to occupy the head of a pin, although since there aren't an infinite number of angels, and most angels are busy doing other things, they are unlikely to do so.
 
-#### **ANGELIC LANGUAGE**
+#### ANGELIC LANGUAGE
 
 Although angels can perfectly speak all the languages of mankind, they will only do so when in their Mantle and are required to do so out of necessity. Instead, angels communicate directly through a process called "illumination", a spiritual expression that conveys the essence of their message directly to the soul. This speech has a Penetration of zero (modified by any Penetration Ability the angel may have), so angels will often have to speak in a human language to magi or people with Magic Resistance.
 
-#### **ANGELIC TRUE NAMES**
+#### ANGELIC TRUE NAMES
 
 Each angel has two names, its common name (such as Michael, Uriel, Raphael, etc) and its True Name. This is a kind of supernatural understanding of the being, a long and mystic incantation similar to a Hermetic spell. To comprehend the True Name of an angel (or any being) grants enormous occult power over it. True Names act as indefinite Arcane Connections, and grant a +5 multiplier bonus to a caster's Penetration multiplier. They may also have other effects when used with Hermetic magic.
 
-The True Names of angels are difficult to find, but ancient Middle Eastern demonologists, particularly the Zoroastrian Magoi (see Mythic Islam, Characters), managed to discover and record a large number of angelic (and demonic) True Names. Tomes and grimoires may exist with the True Names of
+The True Names of angels are difficult to find, but ancient Middle Eastern demonologists, particularly the Zoroastrian Magoi (see Mythic Islam, Characters), managed to discover and record a large number of angelic (and demonic) True Names. Tomes and grimoires may exist with the True Names of even powerful archangels, and are good story hooks to get characters to travel and explore.
 
-
-
-even powerful archangels, and are good story hooks to get characters to travel and explore.
-
-#### **ANGELS AND MAGIC**
+#### ANGELS AND MAGIC
 
 Although not completely immune to Hermetic magic, angels are protected against some Hermetic powers. While wearing their Mantle, angels are in "physical" form and can be targeted and warded against by the Form noted next to their Divine Might score. An angel in a purely spiritual form can only be targeted and affected by Mentem or Vim, and has no Wounds or Fatigue levels. Furthermore, angels are entirely immune to magic that would cause them to act in a way contrary to their Personality Traits. Finally, angels can be destroyed permanently by reducing their Divine Might to a negative value. Only a few angels have been destroyed in all of history, and none are known to have met their end through Hermetic magic.
 
 Angels cannot be summoned or compelled by magic, although they may choose to answer a Hermetic summons for their own reasons. Other magical traditions, such as Jewish Merkavah, can compel angels to answer a summons, by employing their True Names.
 
-Most Hermetic magi are largely unaware of Hermetic magic's capability to
+Most Hermetic magi are largely unaware of Hermetic magic's capability to affect angels, holding the common belief being that angels, if not completely immune to Hermetic magic, at least gain significant protection from the Limit of the Divine.
 
-## Angelic Minutiae
+>#### Angelic Minutiae
+>
+>Many Choirs of angels have responsibility or authority over the minor workings of the cosmos, such as forests, cities, or the weather. Such angels, typically Dominations and Authorities, are only present in Divine auras. Although they would like to control (and may once have) every facet of the created world, in areas covered by Magic or Faerie auras these natural functions are assisted by minor spirits of the realm. Angels are less likely to take direct or overt actions regarding their responsibilities, but will instead try to work subtly to protect their charge.
+>
+>A mage disrupting the weather around a church may frustrate the Authorities present in the Divine aura, but those Authorities will not have influence over the mage's tempestuous activities in a faerie forest or magical valley (although other spirits found there might object).
 
-Many Choirs of angels have responsibility or authority over the minor workings of the cosmos, such as forests, cities, or the weather. Such angels, typically Dominations and Authorities, are only present in Divine auras. Although they would like to control (and may once have) every facet of the created world, in areas covered by Magic or Faerie auras these natural functions are assisted by minor spirits of the realm. Angels are less likely to take direct or overt actions regarding their responsibilities, but will instead try to work subtly to protect their charge.
-
-A mage disrupting the weather around a church may frustrate the Authorities present in the Divine aura, but those Authorities will not have influence over the mage's tempestuous activities in a faerie forest or magical valley (although other spirits found there might object).
-
-affect angels, holding the common belief being that angels, if not completely immune to Hermetic magic, at least gain significant protection from the Limit of the Divine.
-
-#### **ANGELS, AURAS, AND REGIONES**
+#### ANGELS, AURAS, AND REGIONES
 
 An angel automatically knows the type and power of any aura it encounters, due to the nature of its angelic senses, although it is not hindered by them in any way and never suffers a negative effect from them.
 
 Angels may enter into divine regiones at will as though they were inhabitants, unless prevented by a morepowerful divine being. To enter the regio of another Realm, the angel must know of its existence. Angels may not accidentally enter a regio, but may be led into or search for one (see **Ars Magica** 5th Edition, p189.). All angels are considered to have a Second Sight Ability score equal to their Divine Might ÷ 5 for the purposes of finding non-Divine regiones.
 
-## Seraphim
+### Seraphim
 
-I saw the Lord seated on a throne, high and exalted, and the train of his robe filled the temple. Above Him were seraphs, each with six wings: With two wings they covered their faces, with two they covered their feet, and with two they were flying. And they were calling to one another: "Holy, holy, holy is the Lord Almighty; the whole earth is full of his glory." At the sound of their voices the doorposts and thresholds shook and the temple was filled with smoke.
+*I saw the Lord seated on a throne, high and exalted, and the train of his robe filled the temple. Above Him were seraphs, each with six wings: With two wings they covered their faces, with two they covered their feet, and with two they were flying. And they were calling to one another: "Holy, holy, holy is the Lord Almighty; the whole earth is full of his glory." At the sound of their voices the doorposts and thresholds shook and the temple was filled with smoke.* - Isaiah 6:1-4
 
-*Isaiah 6:1-4*
+The name "Seraphim" means "to kindle" or "make hot". For this reason they are often known as the Glowing Ones. As well as having six wings, seraphim also have sixteen faces, four for each cardinal direction (north, south, east and west). Their ceaseless revolution around the Divine wholly purifies them. They are unchangeable and radiant, and emanate an enlightening power. Their mere presence dispels and destroys evil. The Seraphim's role in Heaven, as the most holy and exalted of all angels, is to give constant and unending praise to God.
 
-The name "Seraphim" means "to kindle" or "make hot". For this reason they are often known as the Glowing Ones. As well as having six wings, seraphim also have sixteen faces, four for each cardinal direction (north, south, east and west). Their ceaseless revolution around the Divine wholly purifies them. They are unchangeable and radiant, and emanate an enlightening power. Their mere presence dispels and destroys evil. The Seraphim's role in Heaven, as the most
+>#### Seraphim
+>
+>**Divine Might**: No less than 35 **Personality Traits**: Honest +4, Tireless +4
+>
+>**Powers**:
+>
+>*Heavenly Fire*, 1 point, +15, Ignem: As *Pilum of Fire*, although it does +30 damage.
+>
+>*Smite Evil*, one or more points, +15, Vim: As per *Demon's Eternal Oblivion*, with the level of the effect determined by the number of Might Points spent multiplied by 10. This also affects Faeries.
+>
+>#### **STORY HOOK:**
+>
+>The name of Gadiel the seraph is discovered in an old book in the covenant's library and has the power to ward against devils with less than Infernal Might ten, if inscribed on an amulet or circle. This discovery by the magi makes Gadiel aware of the covenant, and he descends to earth in the form of an old woman to see if the magi of the covenant will use his name wisely or not. If the characters treat Gadiel well, he may aid the covenant, or punish them if they abuse him.
 
-## Seraphim
+### Cherubim
 
-**Divine Might**: No less than 35 **Personality Traits**: Honest +4, Tireless +4
+*Their entire bodies, including their backs, their hands and their wings, were completely full of eyes, as were their four wheels. I heard the wheels being called "the whirling wheels." Each of the cherubim had four faces: One face was that of a cherub, the second the face of a man, the third the face of a lion, and the fourth the face of an eagle. Then the cherubim rose upward.*  - Ezekiel 10:12-15
 
-**Powers**:
+Cherubim are the receptors of the highest Divine Wisdom, living in ceaseless contemplation of the beauty and magnificence of God. Their name denotes an abundance or outpouring of wisdom, as well as "nearness", and they are therefore known as the Streams of Wisdom. The cherubim were the guardians of the Ark of the Covenant, of the holiest of holies in Solomon's Temple, and stood guard over the body of Christ during the three days he lay in his tomb.
 
-*Heavenly Fire*, 1 point, +15, Ignem: As *Pilum of Fire*, although it does +30 damage.
+>#### Cherubim
+>
+>**Divine Might**: No less than 25 **Personality Traits**: Contemplative +4, Wise +4
+>
+>**Powers**:
+>
+>*Divine Insight*, 3 points, +0, Mentem: May temporarily grant the target the equivalent of the Clear Thinker, Free Expression, or Inspirational Minor Virtues that lasts until the target next sins.
+>
+>*The Chariot*, 30 points, +1, Auram: Four Cherubim must use this power (and each must pay for it), which "bows the heavens" and actually allows a direct emanation of the Divine realm to enter into the mundane world, enfolding the target. In so doing, the target is entirely purified, restored to a state of sinless perfection and nearness to God such as was enjoyed by Adam and Eve before the Fall. This removes all Warping, Decrepitude, and Aging Points; increases the target's Intelligence, Perception, Presence, and Communication to +3 (if it is lesser); or increases the character's True Faith Score by 1. Cherubim rarely use this power and only upon the holiest and most pious of mortals.
+>
+>#### **STORY HOOK:**
+>
+>A character with True Faith, a high godly Personality Trait, or potent holy power is visited by the cherub Lawidh as a test of faith. This may be a chance for the character to increase his True Faith, or even gain it. The cherub takes the character to the Gates of Heaven and there offers him a mighty kingdom to rule over as absolute sovereign (or some other tempting offer). If the character refuses the temptation, then Lawidh may use *the Chariot* on the character.
 
-*Smite Evil*, one or more points, +15, Vim: As per *Demon's Eternal Oblivion*, with the level of the effect determined by the number of Might Points spent multiplied by 10. This also affects Faeries.
+### Thrones
 
-#### **STORY HOOK:**
-
-The name of Gadiel the seraph is discovered in an old book in the covenant's library and has the power to ward against devils with less than Infernal Might ten, if inscribed on an amulet or circle. This discovery by the magi makes Gadiel aware of the covenant, and he descends to earth in the form of an old woman to see if the magi of the covenant will use his name wisely or not. If the characters treat Gadiel well, he may aid the covenant, or punish them if they abuse him.
-
-holy and exalted of all angels, is to give constant and unending praise to God.
-
-## Cherubim
-
-Their entire bodies, including their backs, their hands and their wings, were completely full of eyes, as were their four wheels. I heard the wheels being called "the whirling wheels." Each of the cherubim had four faces: One face was that of a cherub, the second the face of a man, the third the face of a lion, and the fourth the face of an eagle. Then the cherubim rose upward.
-
-*Ezekiel 10:12-15*
-
-Cherubim are the receptors of the highest Divine Wisdom, living in ceaseless contemplation of the beauty and magnificence of God. Their name denotes
-
-
-## Cherubim
-
-**Divine Might**: No less than 25 **Personality Traits**: Contemplative +4, Wise +4
-
-**Powers**:
-
-*Divine Insight*, 3 points, +0, Mentem: May temporarily grant the target the equivalent of the Clear Thinker, Free Expression, or Inspirational Minor Virtues that lasts until the target next sins.
-
-*The Chariot*, 30 points, +1, Auram: Four Cherubim must use this power (and each must pay for it), which "bows the heavens" and actually allows a direct emanation of the Divine realm to enter into the mundane world, enfolding the target. In so doing, the target is entirely purified, restored to a state of sinless perfection and nearness to God such as was enjoyed by Adam and Eve before the Fall. This removes all Warping, Decrepitude, and Aging Points; increases the target's Intelligence, Perception, Presence, and Communication to +3 (if it is lesser); or increases the character's True Faith Score by 1. Cherubim rarely use this power and only upon the holiest and most pious of mortals.
-
-#### **STORY HOOK:**
-
-A character with True Faith, a high godly Personality Trait, or potent holy power is visited by the cherub Lawidh as a test of faith. This may be a chance for the character to increase his True Faith, or even gain it. The cherub takes the character to the Gates of Heaven and there offers him a mighty kingdom to rule over as absolute sovereign (or some other tempting offer). If the character refuses the temptation, then Lawidh may use *the Chariot* on the character.
-
-an abundance or outpouring of wisdom, as well as "nearness", and they are therefore known as the Streams of Wisdom. The cherubim were the guardians of the Ark of the Covenant, of the holiest of holies in Solomon's Temple, and stood guard over the body of Christ during the three days he lay in his tomb.
-
-## Thrones
-
-**Divine Might**: No less than 25 **Personality Traits**: Knowledgeable +4, Stern +4
-
-**Powers**:
-
-*Deliverance of the Righteous*, 5 points, +10, Corpus: Instantly transports a group of worshippers to safety. This power is only used to benefit a group of faithful who are in mortal danger from their enemies.
-
-*Divine Justice*, 3 points, +1, Mentem: The Throne learns the truth and most just judgment of any case brought before it. Thrones often use this power before using Radiant Mirror.
-
-*Radiant Mirror*, 30 points, +0, Auram: The Throne may reflect a part of the Primal Divine Light to some part of creation, which increases the Divine aura by two points and infuses it with a Just Temper. This aura acts like other created, unattended Divine auras, and fades after some time. The Holy Influence Total of a Throne using this power is equal to his Divine Might ÷ 2 (see Divine Auras and Blessed by God, Holy Influence).
-
-**STORY HOOK:**
-
-Two immensely powerful dragons are locked in a bitter dispute over the ownership of a regio located near to the covenant that appears once every century, and which is required by the dragons to lay their eggs in. They threaten to destroy (or severely damage) the covenant in their fight unless a higher power can be brought in to conciliate. Investigation into the covenant's past reveals that the only being powerful enough to settle this dispute would be a Throne, but finding a way to involve the Throne who intervened last time involved petitioning a saint. How will the characters stop the dragons from running amok?
-
-## Thrones
-
-I lift up my eyes to you, to you whose Throne is in Heaven.
-
-*Psalm 123:1*
+*I lift up my eyes to you, to you whose Throne is in Heaven.* - Psalm 123:1
 
 Untainted by any base or earthly thing, the Thrones dwell most fully in the highest parts of the Divine realm, where they receive the holy radiance of God. Of all angels, the Thrones have the most intimate and immediate knowledge of the Divine, being holy mirrors of God's sacred brilliance, appearing as gleaming crystal spheres. Because of this, they are responsible for judgment and justice within the Divine realm. Some traditions also have the Thrones as the literal bearers of God's majesty and glory in Heaven, while others have them as the perfect arbiters of divine justice, dispensing God's verdicts with absolute objectivity and without fear or favor.
 
-## Dominations
+>#### Thrones
+>
+>**Divine Might**: No less than 25 **Personality Traits**: Knowledgeable +4, Stern +4
+>
+>**Powers**:
+>
+>*Deliverance of the Righteous*, 5 points, +10, Corpus: Instantly transports a group of worshippers to safety. This power is only used to benefit a group of faithful who are in mortal danger from their enemies.
+>
+>*Divine Justice*, 3 points, +1, Mentem: The Throne learns the truth and most just judgment of any case brought before it. Thrones often use this power before using Radiant Mirror.
+>
+>*Radiant Mirror*, 30 points, +0, Auram: The Throne may reflect a part of the Primal Divine Light to some part of creation, which increases the Divine aura by two points and infuses it with a Just Temper. This aura acts like other created, unattended Divine auras, and fades after some time. The Holy Influence Total of a Throne using this power is equal to his Divine Might ÷ 2 (see Divine Auras and Blessed by God, Holy Influence).
+>
+>**STORY HOOK:**
+>
+>Two immensely powerful dragons are locked in a bitter dispute over the ownership of a regio located near to the covenant that appears once every century, and which is required by the dragons to lay their eggs in. They threaten to destroy (or severely damage) the covenant in their fight unless a higher power can be brought in to conciliate. Investigation into the covenant's past reveals that the only being powerful enough to settle this dispute would be a Throne, but finding a way to involve the Throne who intervened last time involved petitioning a saint. How will the characters stop the dragons from running amok?
 
-I saw there a very great light, and fiery troops of great archangels, incorporeal forces, and Dominations, orders and governments, Cherubim and Seraphim, Thrones and manyeyed ones, nine regiments, the Ioanit stations of light, and I became afraid …
+### Dominations
 
-*2 Enoch 20:1*
+*I saw there a very great light, and fiery troops of great archangels, incorporeal forces, and Dominations, orders and governments, Cherubim and Seraphim, Thrones and manyeyed ones, nine regiments, the Ioanit stations of light, and I became afraid …*  - 2 Enoch 20:1
 
 Angelic Dominations represent freedom from tyranny, vice, and sin. The Dominations are unrestrained by inconstancy or discord. Governance of the Divine realm is their duty: they direct the course of the stars, sun, moon, and seasons, measure all life in Heaven and earth, and order the lesser angels in their holy tasks.
 
-## Authorities
+>#### Dominations 
+>
+>**Divine Might**: No less than 10 
+>
+>**Personality Traits**: Commanding +4, Servile –4
+>
+>**Powers**:
+>
+>*Divine Direction*, 0 or 5 points, +0, Vim: A Domination may command any being with Divine Might equal to or less than its own to perform any task, use any of its powers, or reveal any information that it may possess. A Domination may also command any being aligned to the Divine Realm (such as someone with True Faith or Holy Powers) to do likewise by spending five Might. This power must overcome any magic resistance.
+>
+>*Liberate the Sinful*, 5 points, +0, *Mentem*: This power permanently removes a Personality Trait from the target. Dominations only use this power to remove sinful or destructive Personality Traits. The target may never possess that Personality Trait again, even through magic. (If your troupe is not using Personality Traits, this power acts like the sacrament of Baptism.)
+>
+>**STORY HOOK:**
+>
+>A stream that supplies a village near the covenant with water stops flowing, after a diabolist traps the Domination in a powerful infernal cage. This angel measured the stream's course, and without it the village may be driven into desperation and famine. The local lord asks the magi of the covenant to somehow get the stream to flow again.
 
-Let every person be subject to the governing Authorities …
+### Authorities
 
-*Romans 13:1*
+Let every person be subject to the governing Authorities …* - Romans 13:1
 
-Authorities are cosmic angels, who order and regulate all of creation, and are themselves governed by the Dominations. They are the unshakable potency of God
+Authorities are cosmic angels, who order and regulate all of creation, and are themselves governed by the Dominations. They are the unshakable potency of God welling forth throughout existence. Authorities are blessed by Divine Illumination, allowing them to flawlessly undertake their tasks. From the smallest flower and gossamer breeze, to the sun, the planetary spheres, and the changing of the seasons, the Authorities work through God's resplendent ordinance. Authorities also instill the mundane intellectual, moral, and theological virtues into human hearts; for this reason, these angels are also known as "Virtues". Due to their role of regulating creation, it is the Authorities who most often are God's miraculous agents, and so they are closely connected to saints. Since they sustain and watch over the natural world, they are likely to take note of significant Hermetic meddling with the weather or other natural phenomena in areas covered by the Dominion, although their reactions need not necessarily be hostile. Authorities (and Potentates) often reside in Divine Celestial regiones (see Divine Regiones).
 
+>#### Authorities
+>
+>**Divine Might**: No less than 5\* 
+>
+>**Personality Traits**: Principled +4, Unwavering +4
+>
+>**Powers**:
+>
+>*Divine Authority*, 0 points, +0, Varies: An Authority has absolute knowledge and command over a single aspect of creation, which defines his divine office. This can be as small as a single blade of grass or insignificant pebble, to a river, meadow, mountain, cloud or storm, a beam of light, a thunder clap, or even stars, planets, the sun, or the entire sky. All distinct things in a Divine Aura have an Authority; things in other auras have other supernatural creatures to govern and protect them, such as elementals or minor faeries. This power is used to ensure the natural function of the Authority's charge; were the Authority not to use this power, the thing would wither or even cease to exist.
+>
+>\*The Divine Might score of an Authority should reflect its office. An Authority responsible for a flower may have Divine Might 5, while an Authority responsible for a thunder storm or a mountain has a Might of 15 or 20. The Authority who oversees the sun, Galgilliel, has a Divine Might of 70, and the Authority responsible for winter, Amabael, has a Divine Might of 40.
+>
+>**STORY HOOK:**
+>
+>The local lord plans to start logging a grove near one of his villages to make room for more fields, but unbeknownst to the lord, the grove is guarded by the Authority Horobael. Horobael's attempts at Envisioning have failed to change the lord's mind, so now the Authority seeks the help of a pious character from the covenant in saving the grove. This could include the many other Authorities who protect other parts of the grove becoming involved.
 
-## Dominations Potentates
+### Potentates
 
-**Divine Might**: No less than 10 **Personality Traits**: Commanding +4, Servile –4
-
-#### **Powers**:
-
-*Divine Direction*, 0 or 5 points, +0, Vim: A Domination may command any being with Divine Might equal to or less than its own to perform any task, use any of its powers, or reveal any information that it may possess. A Domination may also command any being aligned to the Divine Realm (such as someone with True Faith or Holy Powers) to do likewise by spending five Might. This power must overcome any magic resistance.
-
-*Liberate the Sinful*, 5 points, +0, *Mentem*: This power permanently removes a Personality Trait from the target. Dominations only use this power to remove sinful or destructive Personality Traits. The target may never possess that Personality Trait again, even through magic. (If your troupe is not using Personality Traits, this power acts like the sacrament of Baptism.)
-
-#### **STORY HOOK:**
-
-A stream that supplies a village near the covenant with water stops flowing, after a diabolist traps the Domination in a powerful infernal cage. This angel measured the stream's course, and without it the village may be driven into desperation and famine. The local lord asks the magi of the covenant to somehow get the stream to flow again.
-
-welling forth throughout existence. Authorities are blessed by Divine Illumination, allowing them to flawlessly undertake their tasks. From the smallest flower and gossamer breeze, to the sun, the planetary spheres, and the changing of the seasons, the Authorities work through God's resplendent ordinance. Authorities also instill the mundane intellectual, moral, and theological virtues into human hearts; for this reason, these angels are also known as "Virtues". Due to their role of regulating creation, it is the Authorities who most often are God's miraculous agents, and so they are closely connected to saints. Since they sustain
-
-and watch over the natural world, they are likely to take note of significant Hermetic meddling with the weather or other natural phenomena in areas covered by the Dominion, although their reactions need not necessarily be hostile. Authorities (and Potentates) often reside in Divine Celestial regiones (see Divine Regiones).
-
-## Potentates
-
-Whosoever therefore resists the Powers, resists the ordinance of
-
-**Divine Might**: No less than 10 **Personality Traits**: Harmonious +4, Loving +4
-
-#### **Powers**:
-
-*Divine Balance*, 1 or more points, +1, Varies: Through this power, the Potentate is able to intervene in a diabolical plot to cause someone to sin. If a devil creates a sinful desire in someone's mind, this power allows the Potentate to create a virtuous thought in his mind. The cost of the power is equal to the cost of the diabolical power it is opposing.
-
-*Mysterious Path*, 4 points, +0, Varies: The Potentate may create a path between any two locations that may be instantaneously traversed by a non-angelic being, such as a human or animal. The two locations may be as far apart or close together as the Potentate desires.
-
-#### **STORY HOOK:**
-
-When struggling against some diabolical enemy and facing immanent defeat, the characters are rescued by an unknown warrior garbed as a knight. The knight offers to help the covenant in the future against infernal attacks, and slowly encourages more-pious behavior in the covenant's companions and grogs.
-
-## Authorities
-
-**Divine Might**: No less than 5\* **Personality Traits**: Principled +4, Unwavering +4
-
-#### **Powers**:
-
-*Divine Authority*, 0 points, +0, Varies: An Authority has absolute knowledge and command over a single aspect of creation, which defines his divine office. This can be as small as a single blade of grass or insignificant pebble, to a river, meadow, mountain, cloud or storm, a beam of light, a thunder clap, or even stars, planets, the sun, or the entire sky. All distinct things in a Divine Aura have an Authority; things in other auras have other supernatural creatures to govern and protect them, such as elementals or minor faeries. This power is used to ensure the natural function of the Authority's charge; were the Authority not to use this power, the thing would wither or even cease to exist.
-
-\*The Divine Might score of an Authority should reflect its office. An Authority responsible for a flower may have Divine Might 5, while an Authority responsible for a thunder storm or a mountain has a Might of 15 or 20. The Authority who oversees the sun, Galgilliel, has a Divine Might of 70, and the Authority responsible for winter, Amabael, has a Divine Might of 40.
-
-#### **STORY HOOK:**
-
-The local lord plans to start logging a grove near one of his villages to make room for more fields, but unbeknownst to the lord, the grove is guarded by the Authority Horobael. Horobael's attempts at Envisioning have failed to change the lord's mind, so now the Authority seeks the help of a pious character from the covenant in saving the grove. This could include the many other Authorities who protect other parts of the grove becoming involved.
-
-
-## Principalities
-
-**Divine Might**: Not less than 5 **Personality Traits**: Bureaucratic + 4, Regal +4
-
-**Powers**:
-
-*Incalculable Strength of Heaven*, 5 or more points, +0, Vim: Invested with Godlike authority, a Principality can command lesser powers to flee from those under God's protection for a day (sunrise to sunrise). Principalities may banish all non-Divine creatures who are in the angel's domain, which prevents them from entering the area or remaining in it for the duration of the power. This affects any creature with a Might score that is not Divine Might, but not creatures merely aligned with particular Realm. The number of Might points spent is determined by the size of the area being affected. A family costs 5 Might points, a hamlet or village costs 10, a town or city costs 15, a duchy costs 20, a kingdom or nation costs 30, and an empire, such as Byzantium or the Islamic Caliphate, costs 40 points. The Penetration score for this power is doubled against beings with Infernal Might.
-
-*Sway the Hearts of Man*, 10 or more points, +0, Mentem: Principalities inculcate spiritual and holy thoughts in hundreds and even thousands of minds. This operates in a similar fashion to Tempering a Divine Aura (see Blessed By God, Holy Influence), except the temper created by the Principality is additional to any invoked by another party. The temper is chosen by the Principality and has a value of +2. The number of Might points spent is the same as for *Incalculable Strength of Heaven*. Spending an additional 5 Might increases the temper by one. This power can only affect areas and people under a Divine Aura.
-
-#### **STORY HOOK:**
-
-In their dealings with the local townsfolk, the characters notice a significant change of attitude towards the covenant. Has the town's Principality turned the people against them, and what can they do to make amends?
-
-#### Realms of Power
-
-God, and those who resist shall receive for themselves damnation.
-
-*Romans 13:2*
+*Whosoever therefore resists the Powers, resists the ordinance of God, and those who resist shall receive for themselves damnation.* - Romans 13:2
 
 Before the Fall, Lucifer numbered among the Potentates (albeit of Archangel rank), who are also known as "Powers". Many fallen angels were once Potentates, and the remaining Potentates have since taken up the most active role in combating diabolical presence in creation. They do this through strengthening the resolve and piety of humans and helping them resist sinful thoughts. Potentates keep the divine paths safe, and maintain cosmic balance and form, along with the archangels, the chief contingent of the Divine Host that will be fielded on Judgment Day. If they do not reside in Heaven, Potentates can be found in celestial regiones, from where they assist mortals in resisting evil.
 
+>#### Potentates
+>
+>**Divine Might**: No less than 10 
+>
+>**Personality Traits**: Harmonious +4, Loving +4
+>
+>**Powers**:
+>
+>*Divine Balance*, 1 or more points, +1, Varies: Through this power, the Potentate is able to intervene in a diabolical plot to cause someone to sin. If a devil creates a sinful desire in someone's mind, this power allows the Potentate to create a virtuous thought in his mind. The cost of the power is equal to the cost of the diabolical power it is opposing.
+>
+>*Mysterious Path*, 4 points, +0, Varies: The Potentate may create a path between any two locations that may be instantaneously traversed by a non-angelic being, such as a human or animal. The two locations may be as far apart or close together as the Potentate desires.
+>
+>**STORY HOOK:**
+>
+>When struggling against some diabolical enemy and facing immanent defeat, the characters are rescued by an unknown warrior garbed as a knight. The knight offers to help the covenant in the future against infernal attacks, and slowly encourages more-pious behavior in the covenant's companions and grogs.
+
+
+
 ## Principalities
 
-In the heavenly places, far above all Principalities, and Powers, and Authorities, and Dominions, and every name that is named, not only in this world,
+*In the heavenly places, far above all Principalities, and Powers, and Authorities, and Dominions, and every name that is named, not only in this world, but also in that which is to come.*  - Ephesians 1:20-21
 
-## Angelic Princes
+Principalities watch over human affairs, chiefly mortal nations, kingdoms, cities, and geographical regions. Every social unit, from a family to a village, duchy, and empire has a Principality empowered to protect, guide, and care for it. They are the guardian angels of groups of people, moving many hearts and minds towards divine ends, rather than merely individuals. They do so by encouraging prayer and devout behavior, and respect for the law and for religious leaders. Once upon a time each nation of the world, from Rome to Babylon, had a Principality as its guardian, but when the Fall came all but the Principality of Israel sided with the Devil. There are Principalities for all nations, even those not yet created, and only the Principalities with authority over nations during the heyday of the kingdom of Israel Fell. The remaining Principalities now largely concentrate on mortal leaders, guiding kings and sheriffs towards godliness.
+
+>#### Principalities
+>
+>**Divine Might**: Not less than 5 **Personality Traits**: Bureaucratic + 4, Regal +4
+>
+>**Powers**:
+>
+>*Incalculable Strength of Heaven*, 5 or more points, +0, Vim: Invested with Godlike authority, a Principality can command lesser powers to flee from those under God's protection for a day (sunrise to sunrise). Principalities may banish all non-Divine creatures who are in the angel's domain, which prevents them from entering the area or remaining in it for the duration of the power. This affects any creature with a Might score that is not Divine Might, but not creatures merely aligned with particular Realm. The number of Might points spent is determined by the size of the area being affected. A family costs 5 Might points, a hamlet or village costs 10, a town or city costs 15, a duchy costs 20, a kingdom or nation costs 30, and an empire, such as Byzantium or the Islamic Caliphate, costs 40 points. The Penetration score for this power is doubled against beings with Infernal Might.
+>
+>*Sway the Hearts of Man*, 10 or more points, +0, Mentem: Principalities inculcate spiritual and holy thoughts in hundreds and even thousands of minds. This operates in a similar fashion to Tempering a Divine Aura (see Blessed By God, Holy Influence), except the temper created by the Principality is additional to any invoked by another party. The temper is chosen by the Principality and has a value of +2. The number of Might points spent is the same as for *Incalculable Strength of Heaven*. Spending an additional 5 Might increases the temper by one. This power can only affect areas and people under a Divine Aura.
+>
+>**STORY HOOK:**
+>
+>In their dealings with the local townsfolk, the characters notice a significant change of attitude towards the covenant. Has the town's Principality turned the people against them, and what can they do to make amends?
+
+### Archangels
+
+*Yet Michael the Archangel, when contending with the Devil he disputed about the body of Moses, dared not bring against him a railing accusation, but said, "The Lord rebuke thee".* - Jude 1:9
+
+Although the eighth Choir, Archangels are among the holiest and most princely of all angels. Some of Heaven's most majestic figures are archangels, such as Michael and Gabriel. More so than the other angelic hierarchies, the role of archangel is titular rather than being tied to the angel's essence, so a cherub or seraph may hold the office of archangel, while some archangels were created and exist entirely within the Choir. Archangels are Heaven's leaders. Majestic Divinity is mystically joined to the archangels; each one is illuminated by God's sovereignty over all of creation. For this reason, archangels are of a higher rank in Heaven than even the Seraphim or Dominations.
+
+>#### Archangels
+>
+>**Divine Might**: No less than 50 **Personality Traits**: Radiant +4, Rational +4 **Powers**:
+>
+>*Irresistible Light*, 20 points, +20, Vim: Through this power, the Archangels do battle against all the forces of darkness. When invoking this power, the Archangel is filled with the Power of God and radiates a portion of unrestrained Light from the Divine Realm, blasting away sin and searing evil. This beam of light strikes everyone who can sense the Archangel, doing +40 damage to all non-Divine beings (doubled against creatures with Infernal Might), and stripping non-Divine beings of 10 points of Might. Beings reduced to negative Might points are permanently destroyed. This power may affect any or all beings the Archangel is aware of, and has a Penetration equal to the Archangel's full Might Score, not reduced in the normal way.
+>
+>*Infinite Divisibility*, 0 points +0, Vim: With this power an Archangel may simultaneously be anywhere and everywhere it is needed without decreasing its power in the slightest, by allowing the Archangel to divide itself into as many perfect and selfaware copies as it desires, each with its own independent Divine Might Score, permitting it to attend to all of its many duties at once. The copies are self-aware and independent, are constantly aware of what every other copy is doing and sensing, never argue with each other, and each will re-merge with its other copies without hesitation when its task is fulfilled. In this way, Michael can stand before the Gates of Heaven, protect the body of Moses, bear God's Throne, and personally watch over his innumerable mountain shrines.
+>
+>**STORY HOOK:**
+>
+>During the Grand Tribunal, the Archangel Seferiel (see **Ars Magica** 5th Edition, Chapter 13, Bestiary), watcher of the Order of Hermes, appears before the assembled magi to warn them of a dire threat that could devastate Europe (this could be a purely magical threat, a mundane one such as the imminent invasion of the Mongols, or the potential threat to the Order posed by the recently formed Dominicans and emerging Papal Inquisition).
+
+#### Angelic Princes
 
 The four most famous Archangels, Michael, Raphael, Uriel, and Gabriel, are among the most powerful beings in creation. Islam recognises only Michael, Gabriel, Israfel, and Azrael as archangels. Although Dionysus the Areopagite lists the archangels as Michael, Gabriel, Raphael, Uriel, Chamuel, Zadkiel, and Jophiel, the Church is moving towards recognizing only Michael, Gabriel, and Raphael. Other lists include Metatron, Zerachiel, Remiel, Satqiel, Baraqiel, and Sidriel.
 
@@ -1125,82 +1085,47 @@ There are seven princes of Heaven — the ruling archangels, who preside over th
 
 While the higher Choirs are hidden and mysterious, the archangels are Divine Glory manifest. They completely embody the unending power of God's Will, being direct participants of unadulterated Godly Light, eternally shining with rays so undimmed that they overshadow even the sun. Archangels are the vanguard of the Lord's Host, who will take up arms upon Judgment Day to war against the forces of Hell. An archangel possesses the traits listed in the Archangel stat block opposite, in addition to those enjoyed by their original Choir.
 
-
-## Archangels
-
-**Divine Might**: No less than 50 **Personality Traits**: Radiant +4, Rational +4 **Powers**:
-
-*Irresistible Light*, 20 points, +20, Vim: Through this power, the Archangels do battle against all the forces of darkness. When invoking this power, the Archangel is filled with the Power of God and radiates a portion of unrestrained Light from the Divine Realm, blasting away sin and searing evil. This beam of light strikes everyone who can sense the Archangel, doing +40 damage to all non-Divine beings (doubled against creatures with Infernal Might), and stripping non-Divine beings of 10 points of Might. Beings reduced to negative Might points are permanently destroyed. This power may affect any or all beings the Archangel is aware of, and has a Penetration equal to the Archangel's full Might Score, not reduced in the normal way.
-
-*Infinite Divisibility*, 0 points +0, Vim: With this power an Archangel may simultaneously be anywhere and everywhere it is needed without decreasing its power in the slightest, by allowing the Archangel to divide itself into as many perfect and selfaware copies as it desires, each with its own independent Divine Might Score, permitting it to attend to all of its many duties at once. The copies are self-aware and independent, are constantly aware of what every other copy is doing and sensing, never argue with each other, and each will re-merge with its other copies without hesitation when its task is fulfilled. In this way, Michael can stand before the Gates of Heaven, protect the body of Moses, bear God's Throne, and personally watch over his innumerable mountain shrines.
-
-#### **STORY HOOK:**
-
-During the Grand Tribunal, the Archangel Seferiel (see **Ars Magica** 5th Edition, Chapter 13, Bestiary), watcher of the Order of Hermes, appears before the assembled magi to warn them of a dire threat that could devastate Europe (this could be a purely magical threat, a mundane one such as the imminent invasion of the Mongols, or the potential threat to the Order posed by the recently formed Dominicans and emerging Papal Inquisition).
-
-but also in that which is to come.
-
-*Ephesians 1:20-21*
-
-Principalities watch over human affairs, chiefly mortal nations, kingdoms, cities, and geographical regions. Every social unit, from a family to a village, duchy, and empire has a Principality empowered to protect, guide, and care for it. They are the guardian angels of groups of people, moving many hearts and minds towards divine ends, rather than merely individuals. They do so by encouraging prayer and devout behavior, and respect for the law and for religious leaders. Once upon a time each nation of the world, from Rome to Babylon, had a Principality as its guardian, but when the Fall came all but the Principality of Israel sided with the Devil. There are Principalities for all nations, even those not yet created, and only the Principalities with authority over nations during the heyday of the kingdom of Israel Fell. The remaining Principalities now largely concentrate on mortal leaders, guiding kings and sheriffs towards godliness.
-
-## Archangels
-
-Yet Michael the Archangel, when contending with the Devil he disputed about the body of Moses, dared not bring against him a railing accusation, but said, "The Lord rebuke thee".
-
-*Jude 1:9*
-
-Although the eighth Choir, Archangels are among the holiest and most princely of all angels. Some of Heaven's most majestic figures are archangels, such as Michael and Gabriel. More so than the other angelic hierarchies, the role of archangel is titular rather than being tied to the angel's essence, so a cherub or seraph may hold the office of archangel, while some archangels were created and exist entirely within the Choir. Archangels are Heaven's leaders. Majestic Divinity is mystically joined to the archangels; each one is illuminated by God's sovereignty over all of creation. For
-
-
-
-this reason, archangels are of a higher rank in Heaven than even the Seraphim or Dominations.
-
-## Angels
+### Angels
 
 Angels, the messengers of God, are the most omnipresent servants of the Divine. Theologians have calculated the number of angels to exceed some two hundred and sixty-six million, although the exact number can never be known and may be even more, since every living soul has its own guardian angel. Angels are the caretakers of humanity and the world. They are made in imitation of God and far surpass humans as intellectual and virtuous beings. They are radiant and exist in abundant communication with Him. It is the role of the ninth Angelic Hierarchy to turn humans towards the Divine, to elevate their spirits, and care for their souls. When their charge dies, they comfort him and lead the soul to its reward (or punishment).
 
-## Grigori, the Watchers
+>#### Angels
+>
+>**Divine Might**: At least 1 
+>
+>**Personality Traits**: Loving +4, Compassionate +4
+>
+>**Powers**:
+>
+>*Divine Guidance*, 1 point, +1, Mentem: With this power, the angel may modify by 3 (plus or minus) any Personality Trait roll that could result in the target acting virtuously or piously.
+>
+>*Heavenly Servant*, 1 point, +5, Vim: Through this power, the angel may double all of its traits when opposing or battling against a being with Infernal Might. This does not include the angel's Might point total, but does include the angel's Magic Resistance. This power lasts for the duration of the conflict.
+>
+>**STORY HOOK:**
+>
+>An angel disguised as a scholar asks for help in tracking down the tears of the Sandalphon, which fell to earth when the prophet Muhammad died. The two tears are powerful divine relics and are also being hunted by a diabolical coven, which wants to use the tears as arcane connections to Sandalphon and prevent him from carrying the prayers of the faithful to Heaven.
 
-…for in his days the angels of the Lord descended to the earth, those who are named the Watchers, that they should instruct the children of man, and that they should do judgement and uprightness on the earth.
+### Grigori, the Watchers
 
-*Jubilees 4:15-16*
+*…for in his days the angels of the Lord descended to the earth, those who are named the Watchers, that they should instruct the children of man, and that they should do judgement and uprightness on the earth.*  - Jubilees 4:15-16
 
 The Watchers ("grigori" in Hebrew) are the mysterious tenth Choir, also known as the "Sons of God", who remained neutral during the War in Heaven, and were cast to Earth rather than Hell. Their decline from Grace came after they walked among the children of Seth and bred with mortals. Refused Heaven but not condemned to Hell, the grigori are masters of lore and earthly knowledge and now wander the Earth in shame, disguised as mortals in the hope that they can escape the notice of angels and other divine beings.
 
-Now only 200 in number, the Watchers still serve a Divine purpose by spreading holy wisdom and knowledge, although they are no longer accorded a place in the Heavenly Hierarchy. When they were cast to earth, they were permanently trapped in their Angelic
-
-## Angels
-
-**Divine Might**: At least 1 **Personality Traits**: Loving +4, Compassionate +4
-
-**Powers**:
-
-*Divine Guidance*, 1 point, +1, Mentem: With this power, the angel may modify by 3 (plus or minus) any Personality Trait roll that could result in the target acting virtuously or piously.
-
-*Heavenly Servant*, 1 point, +5, Vim: Through this power, the angel may double all of its traits when opposing or battling against a being with Infernal Might. This does not include the angel's Might point total, but does include the angel's Magic Resistance. This power lasts for the duration of the conflict.
-
-**STORY HOOK:**
-
-An angel disguised as a scholar asks for help in tracking down the tears of the Sandalphon, which fell to earth when the prophet Muhammad died. The two tears are powerful divine relics and are also being hunted by a diabolical coven, which wants to use the tears as arcane connections to Sandalphon and prevent him from carrying the prayers of the faithful to Heaven.
-
-Mantle. Now if they are "slain", unless they have enough Divine Might to immediately create another Mantle, they are killed permanently.
+Now only 200 in number, the Watchers still serve a Divine purpose by spreading holy wisdom and knowledge, although they are no longer accorded a place in the Heavenly Hierarchy. When they were cast to earth, they were permanently trapped in their Angelic Mantle. Now if they are "slain", unless they have enough Divine Might to immediately create another Mantle, they are killed permanently.
 
 Some Hermetic magi believe that the Grigori were responsible for teaching mankind the art of magic and that the Watchers were transformed into powerful magical spirits, becoming the pagan gods (or Old Ones), the source of elementals, and even dragons. It is widely believed that some Grigori completed the Fall and now serve Hell as powerful devils.
 
 ## Storyguiding Angels
 
-They will be as the angels of God in Heaven
-
-*Matthew 22:30*
+*They will be as the angels of God in Heaven* - Matthew 22:30
 
 Angels, as Divine creatures and the direct servants of God are unique roleplaying challenges. They are perfect creatures with a near-complete understanding of the Divine Plan. They are majestic, holy, mysterious, resplendent, and spiritual. How can you, as a storyguide, do them justice? How can angels be used for your saga? Are they merely plot tools, or are they characters in their own right?
 
-## Story Uses for Angels
+### Story Uses for Angels
 
 Angels are the ultimate *deus ex machina*. They can appear to save the day, get the players' characters out of trouble, or give them vital information on how to defeat a demon terrorizing the countryside. They also often appear on earth as normal humans, working more subtly.
 
-#### **AS CHARACTERS**
+#### AS CHARACTERS
 
 Angels are not much fun as player characters. They are constrained in what they can do and say. They are perfect beings with no goals, desires, or wants other than to serve and love God. There are no politics in Heaven, no adventures, no dramas or personality conflicts; there is only endless and perfect harmony.
 
@@ -1215,7 +1140,7 @@ Guardian angels or angels with an interest in a community (such as a monastery) 
 
 Angels will always reward kindhearted behavior shown towards them, and punish cruelty; you never know if the person you are dealing with is an angel in disguise, so it pays to be nice.
 
-#### **AS HOOKS**
+#### AS HOOKS
 
 The easiest way to use angels in a story is as a hook (see **Ars Magica** 5th Edition, p.212). An angel could request (disguised as a human or in an Envisioning) that the characters perform a task for him as the impetus of a story, or appear to answer a prayer and give the characters a much-needed clue to solve a mystery. Each Angelic Choir includes a story hook as an example.
 
@@ -1232,13 +1157,13 @@ Angels can also be melodramatic sources of information or unanswered questions. 
 - Strange tales; and
 - Warm salutations.
 
-#### **AS SYMBOLS**
+#### AS SYMBOLS
 
 By the twelfth century, there were some attempts to equate the nine Angelic Choirs with hierarchies in mortal society. It is believed among some Christians that when a soul goes to Heaven, it can be placed alongside the equivalent Choir. Contemplative monks and priests would stand beside the highest Angelic Orders, while pious kings would find themselves with the Principalities and Thrones.
 
 Angels are also representative of ideals or things, such as Hope or the renewal of Spring, and so could appear figuratively in a story to foreshadow something; or vice versa, as mundane things symbolize the presence or intervention of an angel. A dream of Azrael could herald a significant death, while a lion prowling near the covenant could indicate that a Throne or Cherubim has taken interest in the activities of the magi.
 
-## Portraying Angels
+### Portraying Angels
 
 Angels may be near-perfect, but they are not infallible. They have a deep understanding of the Divine, but are not privy to the secret knowledge of God, and do not know the future or anything they have not experienced or "sensed". Angels can make mistakes, over- or under-estimate someone, and be outwitted or fooled. It is just that it is unlikely for this to happen.
 
@@ -1250,19 +1175,17 @@ Angels may also appear as normal people. When they do this, their angelic nature
 
 ## Example Angels
 
-## Asuryal, Herald of Deliverance
+### Asuryal, Herald of Deliverance
 
-The angel of the Lord encamps around those who fear him, and he delivers them.
-
-*Psalms 34:7*
+*The angel of the Lord encamps around those who fear him, and he delivers them.* - Psalms 34:7
 
 **Choir:** Principality
 
 **Divine Might:** 10 (Corpus)
 
-**Characteristics:** Int +1, Per +1, Pre +1, Com +1, Str +1, Sta +2, Dex 0, Qik
+**Characteristics:** Int +1, Per +1, Pre +1, Com +1, Str +1, Sta +2, Dex 0, Qik +2 
 
-+2 **Size:** +0
+**Size:** +0
 
 **Age:** n/a (35)
 
@@ -1270,9 +1193,7 @@ The angel of the Lord encamps around those who fear him, and he delivers them.
 
 **Virtues and Flaws:** Inspirational
 
-**Personality Traits:** Love of God +5,
-
-Persuasive +3, Radiant +1
+**Personality Traits:** Love of God +5, Persuasive +3, Radiant +1
 
 **Reputations:** Advisor 3 (Local), Herald 2 (among Christian and Jewish Theologians)
 
@@ -1296,16 +1217,11 @@ Persuasive +3, Radiant +1
 
 **Encumbrance:** 0 (0) **Vis:** 1 pawn of Mentem.
 
-**Appearance:** Asuryal appears as a mildmannered man of middle years, typically dressed in modest clothes of
-
-
-#### Realms of Power
-
-whatever region he is in. He possesses wise eyes, and when in particularly powerful Divine auras, his skin appears luminescent.
+**Appearance:** Asuryal appears as a mildmannered man of middle years, typically dressed in modest clothes of whatever region he is in. He possesses wise eyes, and when in particularly powerful Divine auras, his skin appears luminescent.
 
 Asuryal is the Principality who guards the domain of the mundane lord closest to the character's covenant. He has taken the form of a minor advisor to the lord, and, although he makes no overt divine actions to aid the aristocrat, Asuryal counsels the lord and those around him. Asuryal need not be hostile to the player's magi or the inhabitants of the covenant, but he will oppose any attempts to endanger the lord's rule, and may even ask for the aid of other angels.
 
-## Azrael, the Archangel of Death
+### Azrael, the Archangel of Death
 
 **Divine Might:** 90 (Corpus)
 
@@ -1341,7 +1257,9 @@ Asuryal is the Principality who guards the domain of the mundane lord closest to
 
 *Extract Soul*: Not applicable in game terms. Azrael extracts the souls of the Islamic dead when they die, placing them in the grave with their bodies.
 
-**Equipment:** Robes, poisoned long spear **Encumbrance:** 0 (0)
+**Equipment:** Robes, poisoned long spear 
+
+**Encumbrance:** 0 (0)
 
 **Vis:** 20 pawns of Perdo in the spear.
 
@@ -1349,19 +1267,17 @@ Asuryal is the Principality who guards the domain of the mundane lord closest to
 
 Azrael ('Azra'il or 'Izra'il in Islam) is not the only angel of death, but he is both the chief angel of death and one of the archangels. He is also the most physically strong of the angels. He will never be encountered by characters in his natural form, for he is truly immense; it is said that if all the waters on the earth were poured on his head, not a drop would touch the ground, while his 70,000 feet span the heavens. Thus he is most likely to be encountered in the form described here. Azrael's special charge is the extraction of the souls of prophets, but he may be encountered collecting the souls of others. Characters would be well advised not to hinder him in his work, though, for he can be merciless if provoked.
 
-## Camuel, the Dark Angel
+### Camuel, the Dark Angel
 
-And Jacob was left alone; and there wrestled a man with him until the breaking of the day. And when he saw that he prevailed not against him, he touched the hollow of his thigh; and the hollow of Jacob's thigh was out of joint, as he wrestled with him.
-
-*Genesis 32:24-25*
+*And Jacob was left alone; and there wrestled a man with him until the breaking of the day. And when he saw that he prevailed not against him, he touched the hollow of his thigh; and the hollow of Jacob's thigh was out of joint, as he wrestled with him.* - Genesis 32:24-25
 
 **Choir:** Throne
 
 **Divine Might:** 30 (Corpus)
 
-**Characteristics:** Int +3, Per +3, Pre +3, Com +3, Str +5, Sta +5, Dex +5, Qik
+**Characteristics:** Int +3, Per +3, Pre +3, Com +3, Str +5, Sta +5, Dex +5, Qik +5 **Size:** +1 
 
-+5 **Size:** +1 **Age:** n/a (35)
+**Age:** n/a (35)
 
 **Confidence Score:** 3 (12)
 
@@ -1387,29 +1303,23 @@ And Jacob was left alone; and there wrestled a man with him until the breaking o
 
 *Blessing*, variable, +10, by effect: As per the Blessing holy power (Holy Powers, Powers and Effects), with the Divine Might cost determined by the Blessing level ÷ 10. Camuel has been known to aid pious faithful in great need.
 
-*Comfort the Righteous*, 5 points, +0, Mentem: Alleviates all doubt, worry, and fear of dire future events; this also dispels any negative mind-affecting super-
-
-natural effect or spell.
+*Comfort the Righteous*, 5 points, +0, Mentem: Alleviates all doubt, worry, and fear of dire future events; this also dispels any negative mind-affecting supernatural effect or spell.
 
 *Unrelenting Struggle*, 0 points (1 point), Init +5, Corpus: By invoking this power, Camuel is able to fight without break or respite for a single night (from sunset to sunrise), and does not lose Fatigue levels for any reason. By touching someone and spending 1 Divine Might point, Camuel may impart this power to that person.
 
-**Equipment:** None. **Encumbrance:** 0 (0)
+**Equipment:** None. 
+
+**Encumbrance:** 0 (0)
 
 **Vis:** 2 pawns of Corpus in each hand, 2 pawns of Intellego in tongue.
 
 **Appearance:** Camuel appears to be a tall, muscular — if unassuming — man of indeterminate age. He has deep shadows around his eyes, and his tongue shines like silver.
 
-Camuel ('he who sees God') is the mysterious figure who wrestled with the patriarch Jacob (detailed in Genesis 32:24-30), although some traditions say that it was Michael or Uriel who fought that night. Camuel is an important, if little-known angelic figure with a sad past. Although Camuel visited Jesus in the Garden of Gethsemane with Gabriel, he fell from his exalted position as an archangel when he attempted to prevent Moses from receiving the Torah. For this inexplicable decision, God allowed Moses the ability to strip away Cameul's angelic
+Camuel ('he who sees God') is the mysterious figure who wrestled with the patriarch Jacob (detailed in Genesis 32:24-30), although some traditions say that it was Michael or Uriel who fought that night. Camuel is an important, if little-known angelic figure with a sad past. Although Camuel visited Jesus in the Garden of Gethsemane with Gabriel, he fell from his exalted position as an archangel when he attempted to prevent Moses from receiving the Torah. For this inexplicable decision, God allowed Moses the ability to strip away Cameul's angelic glory and might, leaving him much reduced. He now serves as a mediator of the faithful, taking prayers before the other Princes of Heaven.
 
+### Eiael, Aid to the Wise
 
-
-glory and might, leaving him much reduced. He now serves as a mediator of the faithful, taking prayers before the other Princes of Heaven.
-
-## Eiael, Aid to the Wise
-
-They plot mischief while on their beds; they are set on a way that is not good; they do not reject evil.
-
-*Psalms 36:4*
+*They plot mischief while on their beds; they are set on a way that is not good; they do not reject evil.* = Psalms 36:4
 
 **Choir:** Angel
 
@@ -1437,7 +1347,7 @@ They plot mischief while on their beds; they are set on a way that is not good; 
 
 **Abilities:** Ars Notoria 7 (appropriate use), Artes Liberales 7 (ceremonial magic), Civil and Canon Law 7 (magic), Concentration 7 (prayer), Dominion Lore 7 (angels), Etiquette 7 (magicians), Magic Lore 7 (human magicians), Medicine 7 (mental illness), Music 7 (harp), Penetration 3 (humans), Philosophiae 7 (ceremonial magic), Teach 7 (magicians), Theology 7 (angels).
 
-#### **Powers:**
+**Powers:**
 
 *Grant Longevity*, 10 points, +0, Corpus: By touching the target, Eiael may remove 5 Aging Points from any combination of Characteristics (this may lower the target's Decrepitude score or raise his Characteristics).
 
@@ -1463,21 +1373,17 @@ When the angels Harut and Marut revealed the magical arts to humanity, as reveal
 
 Eiael is very knowledgeable in all human arts, be they magical or natural, philosophical or theological. He is often the angel who guides practitioners when they reach the Fourth Ring of Solomon (see Mythic Christianity, Ars Notoria), but he may also escort other holy ritualists in their pursuit of holy magic. To this end (and unlike other angels), Eiael is willing to allow himself to be summoned by magicians who are devout and recognize the potential for sin in their magical arts, and may respond to a special magical ritual involving the recitation of Psalm 36. He does not answer a sinful summons.
 
-## Gabriel, the Archangel of Prophecy
+### Gabriel, the Archangel of Prophecy
 
-Say (O Muhammad, to mankind): Who is an enemy to Jibril! For he it is who hath revealed (this Scripture) to thy heart by Allah's leave, confirming that which was (revealed) before it, and a guidance and glad tidings to believers.
-
-*— Qur'an* 2:97
-
-
-
-#### Realms of Power
+* Say (O Muhammad, to mankind): Who is an enemy to Jibril! For he it is who hath revealed (this Scripture) to thy heart by Allah's leave, confirming that which was (revealed) before it, and a guidance and glad tidings to believers.* — Qur'an* 2:97
 
 **Divine Might:** 100 (Mentem)
 
 **Characteristics:** Int +10, Per +10, Pre +10, Com +10, Str +8, Sta +8, Dex +8, Qik +8
 
-**Size:** 0 **Age:** n/a
+**Size:** 0 
+
+**Age:** n/a
 
 **Confidence Score:** 7 (50)
 
@@ -1507,7 +1413,9 @@ Say (O Muhammad, to mankind): Who is an enemy to Jibril! For he it is who hath r
 
 *Subtle Form,* 0 points, Init +0, Corpus: Gabriel can change his appearance to look like any human being. His statistics do not change.
 
-**Equipment:** Robes **Encumbrance:** 0 (0)
+**Equipment:** Robes 
+
+**Encumbrance:** 0 (0)
 
 **Vis:** 20 pawns of Mentem in head.
 
@@ -1515,11 +1423,9 @@ Say (O Muhammad, to mankind): Who is an enemy to Jibril! For he it is who hath r
 
 More approachable and intellectually minded than his fellows, the Archangel Gabriel (Jibril or Jabra'il in Islam) is the chief messenger of God, best known for his teaching of the prophet Daniel, his announcing of the incarnation of Christ to the Virgin Mary, and his bringing of the revelation of the *Qur'an* to Muhammad, for whom he also acted as a constant counsellor. He may be encountered by characters who are seeking wisdom, particularly if this wisdom is of a religious nature. He is most likely to be encountered in the form described here; in his natural form he is a 600-winged figure who is large enough to stand astride the horizon.
 
-## Kolazonta, the Chastiser
+### Kolazonta, the Chastiser
 
-…our father Aaron, armed with the censer, ran through the multitude of the people and conquered the fiery angel …
-
-*4 Maccabees 7:11*
+*…our father Aaron, armed with the censer, ran through the multitude of the people and conquered the fiery angel …*  - 4 Maccabees 7:11
 
 **Choir:** Angel
 
@@ -1559,7 +1465,9 @@ More approachable and intellectually minded than his fellows, the Archangel Gabr
 
 *Fiery Form*, 0 points, +30, Ignem: May become a fiery man at will, doing +5 damage to anyone who approaches within 5 feet.
 
-**Equipment:** None. **Encumbrance:** 0 (0)
+**Equipment:** None. 
+
+**Encumbrance:** 0 (0)
 
 **Vis:** 4 pawns Corpus throughout body, 2 pawns Ignem in veins.
 
@@ -1567,11 +1475,9 @@ More approachable and intellectually minded than his fellows, the Archangel Gabr
 
 Kolazonta is one of the angels tasked by the lord to chastise His faithful for their failings, and as such he is a servant of Uriel, the Angel of Punishment. Kolazonta was the angel who brought the plague upon the Israelites (in Numbers 16:46-50) for rebelling against Moses. Aaron defeated Kolazonta after Moses told him it was lifted. Kolazonta is a grim angel who executes the chastisement of the Lord without fear or favor. He is often present amid armies or cities under siege, waiting for the Lord's command to inflict a plague upon the sinful.
 
-## St. Michael, Captain of the Lord's Host
+### St. Michael, Captain of the Lord's Host
 
-But I am to tell you what is inscribed in the book of truth. There is no one with me who contends against these princes except Michael, your Prince.
-
-*Daniel 10:21*
+*But I am to tell you what is inscribed in the book of truth. There is no one with me who contends against these princes except Michael, your Prince.* - Daniel 10:21
 
 **Choir:** Archangel (Seraphim)
 
@@ -1579,7 +1485,9 @@ But I am to tell you what is inscribed in the book of truth. There is no one wit
 
 **Characteristics:** Int +10, Per +10, Pre +10, Com +10, Str +12, Sta +15, Dex +10, Qik +10
 
-**Size:** +1 **Age:** n/a
+**Size:** +1 
+
+**Age:** n/a
 
 **Confidence Score:** 7 (50)
 
@@ -1597,9 +1505,6 @@ But I am to tell you what is inscribed in the book of truth. There is no one wit
 
 \*\* The damage of Michael's Great Spear is doubled against any being aligned with the Infernal Realm.
 
-
-#### The Divine
-
 **Soak:** +25
 
 **Fatigue Levels:** OK, 0/0/0, –1/–1, –3, –5, Unconscious
@@ -1608,13 +1513,11 @@ But I am to tell you what is inscribed in the book of truth. There is no one wit
 
 **Abilities:** Animal Ken 10 (lions), Ars Notoria 15 (wisdom), Awareness 12 (war), Church Lore 10 (saints), Concentration 10 (in combat), Dominion Lore 20 (angels), Entrancement 10 (sinners), Great Weapon 15 (Long Spear), Infernal Lore 15 (Hell), Leadership 14 (war), Magic Lore 10 (magic in combat), Penetration 10 (Infernal beings), Philosophiae 15 (moral), Single Weapon 20 (Great Sword), Teach 10 (combat), Theology 15 (angelic duties), Thrown Weapon 12 (Long Spear)
 
-#### **Powers:**
+**Powers:**
 
 *Blessing*, variable, +15, varies: As the holy power (Holy Powers, Powers and Effects), with the level of the effect determined by the number of Might Points spent multiplied by 20.
 
-*Celestial Immunity*, 3 points, +15, Corpus: As the saintly miracle (Mythic
-
-Christianity, Saints).
+*Celestial Immunity*, 3 points, +15, Corpus: As the saintly miracle (Mythic Christianity, Saints).
 
 *Command Chaos*, 1 point, +15, Mentem: The discordant forces of Chaos are at Michael's command. He may bring about order (as per *Enchantment of Detachment*) or create chaos in the hearts of mortals (as per *Panic of the Trembling Heart*).
 
@@ -1638,17 +1541,13 @@ Christianity, Saints).
 
 Michael (Mika'il in the Qur'an) is the greatest and most beloved of all archangels, except possibly Gabriel and the Metatron, and was the first angel to obey God's command to worship Adam. He is one of the few angels specifically named in the holy scriptures, in Daniel (10:13 and 12:1) where he is one of the "chief princes" and guardian of Israel, who (according to St. John's Revelation 12:7) at Armageddon would lead the angelic charge against the Anti-Christ and the forces of Hell. The epistle of St. Jude also mentions St. Michael's struggle with the devil over the body of Moses, in which he prevented Satan from violating the patriarch's tomb. Legend has it that it was at this point that St. Michael threw the rebellious Lucifer into Hell, taking his place as chief of the princes of Heaven, making Michael the most powerful being in creation. Church tradition also states that St. Michael is the angel that "keeps the way of the tree of life" (Genesis 3:24) by standing guard at the gates of paradise, and that he was the angel who appeared to Balaam (Numbers 22:22-35). In Christian convention, he is venerated as a saint who may intercede with God on behalf of the devout faithful, and in Islamic tradition he sits on the right hand of God, opposite Gabriel.
 
-Following this, St. Michael's duties are to lead the battle against the Devil, to appear to the faithful at the hour of their death and offer them salvation, then lead them to judgment, and to protect and guard the chosen of God (which would be people from all three faiths of "the Book"). Although he is warlike, St. Michael is also the patron of the sick and is known as a great healer; he also guards mariners and
-
-many mountain tops.
+Following this, St. Michael's duties are to lead the battle against the Devil, to appear to the faithful at the hour of their death and offer them salvation, then lead them to judgment, and to protect and guard the chosen of God (which would be people from all three faiths of "the Book"). Although he is warlike, St. Michael is also the patron of the sick and is known as a great healer; he also guards mariners and many mountain tops.
 
 St. Michael is an active angel, and has appeared many times to perform wondrous miracles. He is particularly known for his many healing springs and waters in Greece and the Levant, and for being the protector of the River Nile. St. Michael can be found across Mythic Europe at his many mountain sanctuaries, watching over the knightly orders that have arisen in his name; at the Watchtowers of the World, ever vigilant for attacks against the City of God; and also standing guard at the Gates of Hell. St. Michael was also the angel who taught the Ars Notoria to Solomon.
 
-## Midael, Captain of the Celestial Army
+### Midael, Captain of the Celestial Army
 
-Let them be turned back and confounded who devise evil against me. Let them be like chaff before the wind, with the angel of the Lord driving them on. Let their way be dark and slippery, with the angel of the Lord pursuing them.
-
-*Psalm 35:5-6*
+*Let them be turned back and confounded who devise evil against me. Let them be like chaff before the wind, with the angel of the Lord driving them on. Let their way be dark and slippery, with the angel of the Lord pursuing them.* - Psalm 35:5-6
 
 **Choir:** Potentate
 
@@ -1660,9 +1559,7 @@ Let them be turned back and confounded who devise evil against me. Let them be l
 
 **Confidence Score:** 3 (12)
 
-**Personality Traits:** Love of God +5,
-
-Relentless +4, Cunning +2
+**Personality Traits:** Love of God +5, Relentless +4, Cunning +2
 
 **Reputations:** None
 
@@ -1692,16 +1589,13 @@ Relentless +4, Cunning +2
 
 **Equipment:** Chain mail armor, spear and shield.
 
-
-
-
 **Vis:** 2 pawns of Perdo in spear, 2 pawns of Mentem in eyes.
 
 **Appearance:** Midael appears on earth in the guise of a knight or warrior. His angelic nature is clear from his luminous white skin and his shining eyes.
 
 Midael is one of the captains of the celestial host, lead by Michael. He is the angel invoked by David in Psalms 34 and 35, and is the defender of those persecuted by evil men, often appearing as a knight or great warrior to protect the innocent or righteous from dishonorable foes or wicked assailants. He has great martial prowess, but his is also a canny warrior and has defeated many opponents with greater skill or power than he by wit and cleverness.
 
-## Munkar and Nakir, the Questioners
+### Munkar and Nakir, the Questioners
 
 *Note: Munkar and Nakir have the same statistics.*
 
@@ -1713,7 +1607,11 @@ Midael is one of the captains of the celestial host, lead by Michael. He is the 
 
 **Size:** 0 **Age:** n/a (33)
 
-**Confidence Score:** 3 (20) **Virtues and Flaws:** Piercing Gaze **Personality Traits:** Just +3, Love of God +5
+**Confidence Score:** 3 (20) 
+
+**Virtues and Flaws:** Piercing Gaze 
+
+**Personality Traits:** Just +3, Love of God +5
 
 **Reputations:** Angels of the Grave 3, among Muslims
 
@@ -1723,9 +1621,7 @@ Midael is one of the captains of the celestial host, lead by Michael. He is the 
 
 **Soak:** +15
 
-**Fatigue Levels:** OK, 0/0, –1, –3, –5,
-
-Unconscious
+**Fatigue Levels:** OK, 0/0, –1, –3, –5, Unconscious
 
 **Wound Penalties:** –1 (1-5), –3 (6-10), –5 (11-15), Incapacitated (16-20)
 
@@ -1735,28 +1631,23 @@ Unconscious
 
 *Question,* 3 points, Init +0, Corpus: Munkar and Nakir can ask a character question, which the character will immediately answer as truthfully as possible. This power physically forces the character to answer, making it a power based on Corpus with a Mentem requisite.
 
-*Spirit Form,* 0 points, Init +30, Vim: Munkar and Nakir can become creatures of pure spirit as they wish. This means that they are unable to affect
-
-
-things physically, or be affected physically.
+*Spirit Form,* 0 points, Init +30, Vim: Munkar and Nakir can become creatures of pure spirit as they wish. This means that they are unable to affect things physically, or be affected physically.
 
 *Subtle Form,* 0 points, Init +0, Corpus: Munkar and Nakir can change their appearances to look like any human being they wish, though they always take the same form. Their statistics do not change.
 
-**Equipment:** Green robes **Encumbrance:** 0 (0)
+**Equipment:** Green robes 
 
-**Vis:** 10 pawns of Corpus each in fists. **Appearance:** Two identical men in green robes.
+**Encumbrance:** 0 (0)
 
-Charged with the souls of the Muslim dead, Munkar and Nakir are angels who examine and if necessary punish their charges in their graves. They ask the dead their opinions regarding Muhammad. The faithful will answer that he is the
+**Vis:** 10 pawns of Corpus each in fists. 
 
+**Appearance:** Two identical men in green robes.
 
+Charged with the souls of the Muslim dead, Munkar and Nakir are angels who examine and if necessary punish their charges in their graves. They ask the dead their opinions regarding Muhammad. The faithful will answer that he is the Messenger of God, upon which they will leave them alone to await the Day of Judgment. However, unbelievers and sinners will be unable to answer, upon which the angels will punish them by beating them for as long as God wills, in some cases until the Day of Judgment.
 
-Messenger of God, upon which they will leave them alone to await the Day of Judgment. However, unbelievers and sinners will be unable to answer, upon which the angels will punish them by beating them for as long as God wills, in some cases until the Day of Judgment.
+### Nasir, the Helper
 
-## Nasir, the Helper
-
-As I was unable to walk, I climbed the mountain on horseback, while its slopes were all covered with pieces of stone and pebbles which slipped backwards under the feet of the horse every time its hoofs struck them ... It slipped backward, with the pebbles and chips of stone sliding under it, and fell. So I dismounted, assisted the horse to its feet and stopped, unable to move. At that moment a man came down to me from the mountain and held me by the hand, my other hand holding the pack horse, until he got me to the summit. No, by Allah, I did not know who the man was and never saw him again. ... He was none other than an angel whom Allah, moved by compassion toward me, sent to my aid.
-
-Usama ibn Munqidh (d. 1188), *The Book of Learning by Example*
+*As I was unable to walk, I climbed the mountain on horseback, while its slopes were all covered with pieces of stone and pebbles which slipped backwards under the feet of the horse every time its hoofs struck them ... It slipped backward, with the pebbles and chips of stone sliding under it, and fell. So I dismounted, assisted the horse to its feet and stopped, unable to move. At that moment a man came down to me from the mountain and held me by the hand, my other hand holding the pack horse, until he got me to the summit. No, by Allah, I did not know who the man was and never saw him again. ... He was none other than an angel whom Allah, moved by compassion toward me, sent to my aid.* - Usama ibn Munqidh (d. 1188), *The Book of Learning by Example*
 
 **Choir:** Angel
 
@@ -1808,17 +1699,21 @@ Usama ibn Munqidh (d. 1188), *The Book of Learning by Example*
 
 Nasir is a minor angel charged with the safety of pious travellers. He spends most of his time helping those in need, seeming to appear by mundane means from just out of sight, providing what aid he can, and then leaving again before he can be questioned too closely about his origins.
 
-## Samuil, Angelic Guide
+### Samuil, Angelic Guide
 
-I was in great trouble, weeping asleep on my couch, and there appeared to me two very big men, such as I have never seen on earth — their faces shone like the sun, their eyes were burning candles, out of their mouths came fire, their clothes and singing were various, and their arms like golden wings. They stood at the head of my couch, and called me by name.
+*I was in great trouble, weeping asleep on my couch, and there appeared to me two very big men, such as I have never seen on earth — their faces shone like the sun, their eyes were burning candles, out of their mouths came fire, their clothes and singing were various, and their arms like golden wings. They stood at the head of my couch, and called me by name.* - 2 Enoch, 1:5-7
 
-*2 Enoch, 1:5-7*
+**Choir:** Cherubim 
 
-**Choir:** Cherubim **Divine Might:** 25 (Ignem) **Characteristics:** Int +3, Per +3, Pre +3, Com +3, Str +1, Sta +2, Dex +2, Qik 0
+**Divine Might:** 25 (Ignem) 
+
+**Characteristics:** Int +3, Per +3, Pre +3, Com +3, Str +1, Sta +2, Dex +2, Qik 0
 
 **Size:** +1
 
-**Age:** n/a (Indeterminate) **Confidence Score:** 2 (10)
+**Age:** n/a (Indeterminate) 
+
+**Confidence Score:** 2 (10)
 
 **Personality Traits:** Love of God +5, Righteous +4, Poised +2
 
@@ -1854,20 +1749,17 @@ I was in great trouble, weeping asleep on my couch, and there appeared to me two
 
 Samuil, along with Raguel, transported the patriarch Enoch through the Seven Heavens to come before God. He is responsible for keeping the celestial road clear for souls to travel through, and also for ensuring that the faithful know the word and sovereignty of the Lord. He was tasked by God to help Enoch record the journey through the Seven Heavens, and served Enoch while the patriarch still resided on earth. Since Enoch ascended to Heaven and became Metatron, Samuil has been responsible for delivering visions to saints and prophets. He may also have been one of the angels of righteousness to take St. Paul to the Heavens.
 
+# Chapter Three: Blessed By God
 
-## Chapter Three
+*For to one is given by the Spirit the word of wisdom; to another the word of knowledge by the same Spirit;*
 
-# Blessed By God
+*To another faith by the same Spirit; to another the gifts of healing by the same Spirit;*
 
-For to one is given by the Spirit the word of wisdom; to another the word of knowledge by the same Spirit;
+*To another the working of miracles; to another prophesy; to another discerning of spirits; to another [divers] kinds of tongues; to another the interpretation of tongues:*
 
-To another faith by the same Spirit; to another the gifts of healing by the same Spirit;
+*But one and the same Spirit works all these things, distributing to each one individually as He wills.*
 
-To another the working of miracles; to another prophesy; to another discerning of spirits; to another [divers] kinds of tongues; to another the interpretation of tongues:
-
-But one and the same Spirit works all these things, distributing to each one individually as He wills.
-
-*1 Corinthians 12:8-11*
+- 1 Corinthians 12:8-11
 
 The holy men and women of God's faithful receive many gifts from heaven, and in **Ars Magica**, these blessed people are called **holy characters**, meaning that they possess powers and backgrounds aligned with the Divine realm. These include Virtues and Flaws, Abilities, influence over others, the power to work miracles, Faith Points, Divine Warping, and magic in God's service. This chapter provides rules for using these concepts in the game, and for playing characters devoted to the Almighty.
 
@@ -1879,31 +1771,126 @@ Many of these Virtues and Abilities are associated with special Supernatural Abi
 
 ## New Virtues
 
-#### **ADJURATION**
+>#### New Virtues
+>
+>**MAJOR, HERMETIC**
+>
+>Holy Magic
+>
+>**MAJOR, SUPERNATURAL ABILITIES**
+>
+>Holy Magic
+>
+>**MAJOR, SUPERNATURAL METHODS**
+>
+>Invocation Meditation Purity
+>
+>**MAJOR, SUPERNATURAL POWERS**
+>
+>Adjuration
+>
+>Blessing
+>
+>Cursing
+>
+>Intervention
+>
+>Transcendence
+>
+>Understanding
+>
+>Wonders
+>
+>**MAJOR, SUPERNATURAL**
+>
+>Blood of the Nephilim
+>
+>**MAJOR, GENERAL**
+>
+>Powerful Relic
+>
+>**MINOR, SUPERNATURAL ABILITIES**
+>
+>Ceremony
+>
+>**MINOR, SUPERNATURAL**
+>
+>Strong Angelic Heritage
+>
+>## New Flaws
+>
+>**MAJOR, STORY**
+>
+>Raised from the Dead
+>
+>**MAJOR, SUPERNATURAL**
+>
+>Eremite
+>
+>Raised from the Dead
+>
+>**MINOR, SUPERNATURAL**
+>
+>Non-traditional
+>
+>**MINOR, GENERAL**
+>
+>Apostate
+>
+>#### New Abilities
+>
+>**ARCANE**
+>
+>Holy Magic\*
+>
+>**SUPERNATURAL**
+>
+>Adjuration\* 
+>
+>Blessing\* 
+>
+>Ceremony\* 
+>
+>Cursing\* 
+>
+>Holy Magic\* 
+>
+>Intervention\* 
+>
+>Transcendence\* 
+>
+>Understanding\* 
+>
+>Wonders\*
+>
+>\*Indicates an Ability that cannot be used at all if a character has no score in it.
+>
+
+#### ADJURATION
 
 *Major, Supernatural Power*
 
 This Virtue allows you to command and control supernatural beings; you begin with the Supernatural Ability Adjuration 1.
 
-#### **BLESSING**
+#### BLESSING
 
 *Major, Supernatural Power*
 
 Through Blessing, you can invoke the protective and inspirational aspects of the Divine. Taking this Virtue grants you the Supernatural Ability Blessing 1.
 
-#### **CEREMONY**
+#### CEREMONY
 
 *Minor, Supernatural Ability*
 
 This Ability allows you to focus a group of people on holy prayer, concentrating their efforts and thus making it possible for them to bring about greater holy effects together. This gives you the Supernatural Ability Ceremony 1.
 
-#### **CURSING**
+#### CURSING
 
 *Major, Supernatural Power*
 
 With this Virtue, you can curse those who oppose the Divine Will, giving you the Supernatural Ability Cursing 1.
 
-#### **HOLY MAGIC**
+#### HOLY MAGIC
 
 *Major, Hermetic, Supernatural Ability*
 
@@ -1911,98 +1898,29 @@ This Virtue is only available to characters with The Gift. You did not learn Mag
 
 See Holy Magic, later in this chapter, for other restrictions and benefits of this sort of magic.
 
-#### **INTERVENTION**
+#### INTERVENTION
 
 *Major, Supernatural Power*
 
 God occasionally gives guidance to the world through signs and wonders and the power of divine intervention. Taking this Virtue grants you the Supernatural Ability Intervention 1, which allows you to bring about similar effects.
 
-#### **INVOCATION**
+#### INVOCATION
 
 *Major, Supernatural Method*
 
 This Virtue gives you Invocation 1, a Supernatural Ability that allows you use the Holy Method of Invocation and roll a stress die for miraculous effects.
 
-#### **MEDITATION**
+#### MEDITATION
 
 *Major, Supernatural Method*
 
 This gives you the Supernatural Ability Meditation 1, which you may use with your holy powers to gain insight into the Divine through the Holy Method of Meditation.
 
-#### **BLOOD OF THE NEPHILIM**
+#### BLOOD OF THE NEPHILIM
 
 *Major, Supernatural* 
 
-You have the blood of angels in your veins and descend from the great heroes of the Antediluvian Age, the Nephilim. Unless you take the Mythic Companion
-
-
-## New Virtues
-
-**MAJOR, HERMETIC**
-
-Holy Magic
-
-**MAJOR, SUPERNATURAL ABILITIES**
-
-Holy Magic
-
-**MAJOR, SUPERNATURAL METHODS**
-
-Invocation Meditation Purity
-
-**MAJOR, SUPERNATURAL POWERS**
-
-Adjuration Blessing Cursing Intervention Transcendence Understanding Wonders
-
-**MAJOR, SUPERNATURAL**
-
-Blood of the Nephilim
-
-**MAJOR, GENERAL**
-
-Powerful Relic
-
-**MINOR, SUPERNATURAL ABILITIES**
-
-Ceremony
-
-**MINOR, SUPERNATURAL**
-
-Strong Angelic Heritage
-
-## New Flaws
-
-**MAJOR, STORY**
-
-Raised from the Dead
-
-**MAJOR, SUPERNATURAL**
-
-Eremite
-
-Raised from the Dead
-
-**MINOR, SUPERNATURAL**
-
-Non-traditional
-
-**MINOR, GENERAL**
-
-Apostate
-
-## New Abilities
-
-**ARCANE**
-
-Holy Magic\*
-
-**SUPERNATURAL**
-
-Adjuration\* Blessing\* Ceremony\* Cursing\* Holy Magic\* Intervention\* Transcendence\* Understanding\* Wonders\*
-
-\*Indicates an Ability that cannot be used at all if a character has no score in it.
-
-virtue, your heritage is somewhat diluted, although still significant. Your size is increased to +1, and this increases by +1 for every century you are alive.
+You have the blood of angels in your veins and descend from the great heroes of the Antediluvian Age, the Nephilim. Unless you take the Mythic Companion virtue, your heritage is somewhat diluted, although still significant. Your size is increased to +1, and this increases by +1 for every century you are alive.
 
 You may learn Dominion Lore during character creation without needing to take the Arcane Lore Minor Virtue.
 
@@ -2012,7 +1930,7 @@ Due to your great size, you must eat vast amounts of food (equal to what three n
 
 You may not take The Gift or True Faith, Hermetic Virtues or Flaws, Methods or Powers, Virtues such as Giant, Mythic, or Faerie Blood, Flaws such as Age Quickly or Lycanthrope, or Virtues or Flaws that affect your size. Magi and Grogs may not take this virtue.
 
-#### **POWERFUL RELIC**
+#### POWERFUL RELIC
 
 *Major, General*
 
@@ -2020,13 +1938,13 @@ You own an unusually powerful relic with a Faith score of 3. The relic also has 
 
 Owning such a powerful relic is a great responsibility, and your character should behave in an appropriate manner. If you ever behave impiously (as judged by the storyguide) your relic will cease to function until suitable penance is made.
 
-#### **PURITY**
+#### PURITY
 
 *Major, Supernatural Method*
 
 Taking this Virtue gives you Purity 1. This Supernatural Ability allows you to use the Holy Method of Purity with your holy powers to bring about miraculous effects.
 
-#### **STRONG ANGELIC HERITAGE**
+#### STRONG ANGELIC HERITAGE
 
 *Minor, Supernatural*
 
@@ -2034,27 +1952,23 @@ Your angelic heritage is purer, granting you a Divine Might score and supernatur
 
 You are a divine being and possess a Divine Might (Corpus) score equal to your age divided by 20, which increases as you grow older. This grants you a Magic Resistance score. You contain a number of pawns of Corpus vis equal to your Divine Might divided by 10 (but always at least one pawn) that can only be extracted if you are dead. You are also immune to Warping of any sort.
 
-You have up to thirty levels of holy powers that may be invoked by spending
-
-
-
-Might points. Design the powers' effects using the Holy Powers or Hermetic spell guidelines. The Might cost for each power is equal to its magnitude divided by two (but always at least one point). The initiative score of the power is your Quickness.
+You have up to thirty levels of holy powers that may be invoked by spendingm Might points. Design the powers' effects using the Holy Powers or Hermetic spell guidelines. The Might cost for each power is equal to its magnitude divided by two (but always at least one point). The initiative score of the power is your Quickness.
 
 You may take this virtue multiple times. Each additional time you take it increases by thirty the number of levels of holy powers you may invoke, but has no other effect; in particular, it does not increase your Divine Might.
 
-#### **TRANSCENDENCE**
+#### TRANSCENDENCE
 
 *Major, Supernatural Power*
 
 This power allows you to overcome the limitations of the physical world, improving your body and mind through miraculous effects. Taking this Virtue gives you the Supernatural Ability Transcendence 1.
 
-#### **UNDERSTANDING**
+#### UNDERSTANDING
 
 *Major, Supernatural Power*
 
 You can glean understanding of the Divine plan through this power, which gives you the Supernatural Ability Understanding 1.
 
-#### **WONDERS**
+#### WONDERS
 
 *Major, Supernatural Power*
 
@@ -2062,25 +1976,25 @@ You begin with the Supernatural Ability Wonders 1, which allows you to conjure h
 
 ## New Flaws
 
-#### **APOSTATE**
+#### APOSTATE
 
 *Minor, General*
 
 You have converted from one faith to another or from one set of beliefs to another. You have a bad reputation at 4 among members of your previous faith, and you may receive some slight distrust from your new faith as well, depending upon how sincere your conversion seems.
 
-#### **EREMITE**
+#### EREMITE
 
 *Major, Supernatural*
 
 You do not belong to a holy tradition, as you prefer to explore the mysteries of the divine on your own. You cannot learn Supernatural Abilities from any tradition, favored or not, as you already have your own ideas about influencing the supernatural fixed in your philosophy. You must have True Faith to take this Flaw.
 
-#### **NON-TRADITIONAL**
+#### NON-TRADITIONAL
 
 *Minor, Supernatural*
 
 You do not belong to a holy tradition, as your practices and beliefs are too unusual to be classified by an overarching philosophy. You may still learn Supernatural Abilities from other holy characters who are willing to teach you, though always with a penalty to your Advancement Total — you do not have any favored Abilities. You must have True Faith to take this Flaw.
 
-#### **RAISED FROM THE DEAD**
+#### RAISED FROM THE DEAD
 
 *Major, Story, Supernatural*
 
@@ -2088,15 +2002,15 @@ You died, and were brought back to life through a holy miracle. You begin with a
 
 ## New Abilities
 
-#### **ADJURATION\**
+#### ADJURATION\*
 
 You are skilled in controlling and banishing supernatural creatures and their powers (see Miraculous Effects, later in this chapter). **Specialties:** type of creatures (angels, demons, ghosts, faeries), causing a specific effect. (Supernatural)
 
-#### **BLESSING\**
+#### BLESSING\*
 
 You bring about beneficial or protective effects associated with the divine (see Miraculous Effects). **Specialties:** a particular effect, specific targets, in special circumstances. (Supernatural)
 
-#### **CEREMONY\**
+#### CEREMONY\*
 
 This Ability is used in conjunction with another Divine Supernatural Ability or a holy Method and Power to produce a greater effect. You must gather a group together and determine what you are going to do. Since it increases the potency of divine effects, at least one of the participants must possess the Ability (this character is called the **focus character**), and if it is a Power, whatever Method the character would normally use must be used by each member of the group. Because of this, all of the participants are considered to be the caster when evaluating the effect.
 
@@ -2104,7 +2018,7 @@ The group may appoint a character to be their leader. The leader's Ceremony scor
 
 Alternatively, any number of people can participate in a ceremony without a leader. In this case, the group generates a **group modifier** by adding up all of their Ceremony scores and subtracting the total number of participants. This group modifier is applied to the focus character's total, and might be positive or negative, depending on how many people have joined the ceremony and how skilled they are at praying together.
 
-#### **GROUP MODIFIER: total Ceremony scores – number of participants**
+**GROUP MODIFIER:** total Ceremony scores – number of participants
 
 Whether or not there is a leader, all participants then add their scores in the appropriate (Characteristic + Ability) or (Characteristic + Method) to the focus character's total. If a character does not have the relevant Ability or Method, only the Characteristic is added. After this bonus has been applied, the focus character rolls the die and resolves the effect as normal.
 
@@ -2112,21 +2026,19 @@ Note that if every participating character has a score of at least 1 in Ceremony
 
 **Specialties:** with a certain Power or Ability, in particular circumstances, with a specific group or leader. (Supernatural)
 
-#### **CURSING\**
+#### CURSING\*
 
 You can bring about negative effects associated with God's wrath (see Miraculous Effects). **Specialties:** a particular effect, punishing a specific kind of sin, a particular kind of target. (Supernatural)
 
-#### **HOLY MAGIC\**
+#### HOLY MAGIC\*
 
 You have translated your Hermetic Arts into a form of magic that is compatible with the Dominion and holy powers. **Specialties:** inventing spells, enchanting items, with a particular Power or Art. (Supernatural, Arcane)
 
-
-
-#### **INTERVENTION\**
+#### INTERVENTION\*
 
 You cause the divine to manifest in the physical world, often with startling effects (see Miraculous Effects). **Specialties:** causing a specific effect, a particular image, in specific circumstances. (Supernatural)
 
-#### **INVOCATION\**
+#### INVOCATION\*
 
 Using holy words, phrases, and prayers, you can invoke God's power. You must either cry out your prayer in a loud voice, or somehow inscribe your prayer in writing. This adds Communication to your roll, and requires that you spend a point of Confidence (or Faith) to bring the effect into being.
 
@@ -2134,7 +2046,7 @@ You may also roll a stress die instead of a simple die when calling a holy effec
 
 **Specialties:** using holy names, in writing, affecting a particular kind of target. (Supernatural)
 
-#### **MEDITATION\**
+#### MEDITATION\*
 
 You can achieve an ecstatic state by chanting or focusing your mind on a performance. This takes approximately an hour, and you must make a Stamina roll every ten minutes against an Ease Factor of 6. A failed roll results in a lost Fatigue level, and a botch disrupts the ritual. If you or the performer is distracted, you must make a Concentration roll to keep your focus. When the ritual is complete, if you are still conscious, you add your Intelligence + Meditation to your effect total.
 
@@ -2142,7 +2054,7 @@ Your Meditation score also increases your chances of temporarily becoming part o
 
 **Specialties:** type of meditation, a particular performance, affecting a certain person. (Supernatural)
 
-#### **PURITY\**
+#### PURITY\*
 
 Through intense physical effort and will, you can bring about miraculous effects. You must engage in an activity that is strenuous enough to cause you to lose a long-term Fatigue level or suffer a Light Wound, and you use your Stamina for your effect roll.
 
@@ -2150,22 +2062,17 @@ You may also perform holy rituals that last longer than usual, potentially incre
 
 **Specialties:** affecting a certain person, a particular form of deprivation, over long periods of time. (Supernatural)
 
-#### **TRANSCENDENCE\**
+#### TRANSCENDENCE\*
 
 You can overcome the limitations of the physical world and thus bring about miraculous changes to your mind and body (see Miraculous Effects). **Specialties:** causing a specific effect, in particular circumstances, affecting a specific part of the body. (Supernatural)
 
-#### **UNDERSTANDING\**
+#### UNDERSTANDING\*
 
 You receive holy visions that can provide guidance and information directly from the divine (see Miraculous Effects). **Specialties:** concerning a specific person, in particular circumstances, a certain kind of information. (Supernatural)
 
-#### **WONDERS\**
+#### WONDERS\*
 
-You can cause living creatures, nonliving objects, and forces of nature to manifest through God's power (see Miraculous Effects, below). **Specialties:** causing a specific effect, a particular kind
-
-
-#### Realms of Power
-
-of material, in specific circumstances. (Supernatural)
+You can cause living creatures, nonliving objects, and forces of nature to manifest through God's power (see Miraculous Effects, below). **Specialties:** causing a specific effect, a particular kind of material, in specific circumstances. (Supernatural)
 
 ## Holy Influence
 
@@ -2179,7 +2086,14 @@ Characters being influenced in this way must be willing to follow the holy chara
 
 The formula for determining the results of holy influence is a simple die + Presence + Leadership, and if using ceremonial influence, the Confidence point that must be spent does not add 3 to the roll. The results determine the value of the new trait, according to the following chart.
 
-### Holy Influence **EASE FACTOR VALUE** 9+ +1 15+ +2 24+ +3 (max) **HOLY INFLUENCE: simple die + Presence + Leadership**
+**HOLY INFLUENCE:** simple die + Presence + Leadership
+
+
+| Ease Factor | Value |
+|-------------|-------|
+|9+           | +1    |
+|15+          | +2    |
+|24+          | +3 (max) |
 
 Characters performing ceremonial influence may use the Ceremony Ability to increase this total (see New Abilities, earlier in this chapter).
 
@@ -2187,29 +2101,27 @@ This new trait represents a new facet of the character, though it may be similar
 
 Note that characters subject to holy influence may acquire more than three Personality traits, particularly if they are temporary ones.
 
-## Personality Flaws
+>#### Personality Flaws
+>
+>For the purposes of rules involving Personality Traits, treat a Minor Personality Flaw as a +3 trait, and a Major Personality Flaw as a +6 trait. Characters under holy influence may thus occasionally overcome these Personality Flaws with opposing Personality Traits, though they need constant encouragement and reinforcement to avoid returning to their old ways — these traits will never become permanent as long as the character still has an opposing Flaw.
 
-For the purposes of rules involving Personality Traits, treat a Minor Personality Flaw as a +3 trait, and a Major Personality Flaw as a +6 trait. Characters under holy influence may thus occasionally overcome these Personality Flaws with opposing Personality Traits, though they need constant encouragement and reinforcement to avoid returning to their old ways — these traits will never become permanent as long as the character still has an opposing Flaw.
-
-## Tempers
+### Tempers
 
 Besides influencing their followers, holy characters can also influence the Dominion by invoking a holy **temper**. A temper is a particular aspect of the divine; in a sense, tempers are expressions on the face of God that smile upon one type of virtuous behavior while frowning upon its opposite. By invoking a temper in a Dominion aura, the holy character encourages a class of activities that serve God's interests while discouraging activities that oppose them.
 
 Invoking a holy temper (sometimes called "tempering" the aura) is essentially giving an aura a virtuous Personality trait using holy influence. That is, the character either spends a season within the aura performing services to the community and setting a positive example (personal influence), or performs a short ceremony describing the sort of behavior associated with the temper that he would like to invoke (ceremonial influence). This requires a stress die, rather than a simple die — botches might cause the character Warping, Fatigue, or a bad reputation among the populace.
 
-#### **TEMPERING AN AURA: stress die + Presence + Leadership**
+**TEMPERING AN AURA:** stress die + Presence + Leadership
 
 Tempering produces a special Personality Trait in the divine aura. It actually changes the Dominion to highlight that particular quality of God's character. Within that aura, the value of the Temper Trait is added as a bonus to all rolls that are compatible with the purpose of the temper, and subtracted from all rolls that run counter to it. This trait also fades over time, decreasing the value of the temper by one at the end of each day (if ceremonial influence was used) or each season (for personal influence), until the aura returns to normal. A holy character may not invoke more than one temper at a time, and any temper he has already invoked is replaced by a new one.
 
 There are seven varieties of holy temper described below, with examples of the sort of behavior that would receive a bonus or a penalty. Each type is associated with a particular kind of good activity that directly opposes an evil one. This is entirely based on the circumstances surrounding the characters' actions in the aura, and the storyguide should try to judge them based upon the desired outcome rather than the specifics of what the characters are doing.
 
-
-
-**LOYAL**
+#### **LOYAL**
 
 Loyalty applies in situations where the character is called to follow orders or aid a friend or partner in need. To some extent it governs fidelity and faithfulness, but it is most appropriate when a character is called upon to fulfill an obligation to one who is worthy of respect, or when the character must give up something for the greater good. It is similar to Faith, the Christian virtue that represents the character's devotion to God and adherence to His order of things, and offsets the capital vice of Pride, which might be described as wicked independence. The proud man thinks himself better than others in his community, and perhaps even better than God in that he is more confident in his own powers and abilities than the Divine Will. Many magi fall prey to this vice, often considered "the beginning of all sin" because by turning away from God, one naturally turns toward evil.
 
-> *Exempla Gratia:* A village priest ceremonially invokes a Loyal temper in his parish, to encourage them to bond together during a difficult harvest. Two of the men go hunting birds together, and are much more successful than a boy who just wants to show off his skill with the bow by himself. However, when the pair try to shoot a deer belonging to their lord, they cannot seem to hit it and it escapes. Later, when they realize the boy is missing, they decide to search the area and quickly find traces of his trail, eventually discovering him lost and wandering aimlessly through the forest.
+>*Exempla Gratia:* A village priest ceremonially invokes a Loyal temper in his parish, to encourage them to bond together during a difficult harvest. Two of the men go hunting birds together, and are much more successful than a boy who just wants to show off his skill with the bow by himself. However, when the pair try to shoot a deer belonging to their lord, they cannot seem to hit it and it escapes. Later, when they realize the boy is missing, they decide to search the area and quickly find traces of his trail, eventually discovering him lost and wandering aimlessly through the forest.
 
 #### **CALM**
 
@@ -2221,9 +2133,7 @@ A Calm temper represents tolerance, optimism, understanding, and a willingness t
 
 Kind characters are filled with love and good feeling for fellow beings. Their actions are directed outwards, usually to make others more comfortable or to help them through hardship, grief, and suffering. They see to the needy, look after strangers, and care for the sick. They seek to do good for others, as they would have others do for them. Kind tempers support mercy, forgiveness, and generosity. Kindness is tied to the theological virtue of Charity or love, which means doing God's work by giving as much of oneself as possible. It counters the capital vice of Envy, which is the jealous desire to "even the score" between oneself and others with whom there is a perceived imbalance. Acts done with envy are hateful and cruel, designed primarily to punish and destroy. It differs from Avarice in that the envious character wants to hurt those who prosper, not possess what is theirs.
 
-> *Exempla Gratia:* The priest realizes that the new residents have fallen on hard times, and encourages his Kind parish to share what little they have with their neighbors. The village carpenter builds them some new furniture, which is of particularly high quality, and in thanks the man performs a holy ritual designed to protect the carpenter's house
-
-from evil spirits, which is also more effective than normal. When a jealous neighbor tries to spy on them, they easily spot her and run her off, and the rest of the village seems uninterested in her gossiping.
+> *Exempla Gratia:* The priest realizes that the new residents have fallen on hard times, and encourages his Kind parish to share what little they have with their neighbors. The village carpenter builds them some new furniture, which is of particularly high quality, and in thanks the man performs a holy ritual designed to protect the carpenter's house from evil spirits, which is also more effective than normal. When a jealous neighbor tries to spy on them, they easily spot her and run her off, and the rest of the village seems uninterested in her gossiping.
 
 #### **BRAVE**
 
@@ -2233,10 +2143,7 @@ Bravery and courage represent characters' ability to hold their ground, or advan
 
 #### **WISE**
 
-Characters who are aware of their limitations and strive to overcome them can be said to be Wise. They behave in traditional and tested methods of overcoming temptation or folly, and strive to act in ways that set a good example for others. While knowledge and experience can aid them in this, they also possess an innate affinity for moral right and wrong. A Wise temper triumphs when reason overpowers base desires. Lust is the corresponding vice, found in those who give in to physical needs and the reckless abandonment of caution. It can indicate carnal
-
-
-pleasures, but also lust for fantasy and illusion, which lead to an inability to treat people and things as they truly are, but rather imagining what they might be. The cardinal virtue is Prudence; meaning practicality and chastity, being more mindful of the consequences of one's actions than the fulfillment of fleeting impulses.
+Characters who are aware of their limitations and strive to overcome them can be said to be Wise. They behave in traditional and tested methods of overcoming temptation or folly, and strive to act in ways that set a good example for others. While knowledge and experience can aid them in this, they also possess an innate affinity for moral right and wrong. A Wise temper triumphs when reason overpowers base desires. Lust is the corresponding vice, found in those who give in to physical needs and the reckless abandonment of caution. It can indicate carnal pleasures, but also lust for fantasy and illusion, which lead to an inability to treat people and things as they truly are, but rather imagining what they might be. The cardinal virtue is Prudence; meaning practicality and chastity, being more mindful of the consequences of one's actions than the fulfillment of fleeting impulses.
 
 > *Exempla Gratia:* The priest is worried that the people in his parish will behave foolishly during the traditional revelry of the holidays. He tempers the aura to encourage Wisdom. Sure enough, one of the women has too much to drink, and it goes right to her head. She dances and jokes, but her witticisms fall flat, and when she tries to seduce a young man, he sees through her misguided intentions and convinces her to go home instead.
 
@@ -2244,9 +2151,16 @@ pleasures, but also lust for fantasy and illusion, which lead to an inability to
 
 Strength of mind, body, and will indicates an ability to overcome distractions and do without unnecessary luxury. This temper governs self-control, and how characters deal with hardship that comes from within. Strong characters are healthy, practice virtuous moderation and restraint, and are thus better able to resist temptation. The temper opposes the capital vice of Gluttony, which indicates an excessive appreciation of fine living. It is essentially the inability to satiate oneself, a sort of greed for the pleasures of excess. Unlike Envy or Avarice, Gluttony is tied to desire, and unlike Lust this desire is inherently selfish and self-centered, deliberate rather than impulsive. A glutton is an addict. Those who practice the cardinal virtue of Temperance resist this sort of overindulgence, which is found not just in food and drink, but in all ways by which characters coerce themselves into sin.
 
-> *Exempla Gratia:* The winter becomes even more severe, and the new family fears that they will not have enough fuel if they do not ration more carefully. Their father asks the priest to help, and he invokes a Strong temper that makes everyone better able to endure the cold. However, when the father tries to use his holy powers to create more wood he does not succeed, so instead he sends his daughter
+> *Exempla Gratia:* The winter becomes even more severe, and the new family fears that they will not have enough fuel if they do not ration more carefully. Their father asks the priest to help, and he invokes a Strong temper that makes everyone better able to endure the cold. However, when the father tries to use his holy powers to create more wood he does not succeed, so instead he sends his daughter out to forage. A mischievous faerie tries to coerce her into its hut just beyond the edges of the Dominion, but she more easily resists the faerie magic and escapes home.
 
-## Personality Traits
+#### **JUST**
+
+This temper is concerned with fairness and the decision to do the right thing despite personal wants and desires. Just characters accept that there are consequences for acts that bend or ignore the rules. They give others their due and do not deprive them of that to which they are entitled. These actions come from the cardinal virtue of Justice — a kind of general even-handedness for everyone. Opposite this is the capital vice of Avarice — the greed for material goods and the desire to take more than one's fair share. An avaricious character cares little for codes of conduct, but instead seeks to acquire by any means necessary, cheating and even stealing when given the opportunity. Avarice is sometimes called the root of all sin, in that most sinful actions stem from unreasonable want — thus it is said that the love of money is the root of all evil.
+
+> *Exempla Gratia:* The lord of the village is concerned that someone has been hunting his game without permission. The priest vows to help the investigation and tempers the aura to Justice. His men question the suspects, and quickly discern who is lying and who is telling the truth, though they do not discover any information related to the missing deer. The faerie in the wood soon finds that its magic is even less effective than usual in the Dominion, and is subsequently caught trying to lead the stolen deer through the wood.
+
+
+#### Personality Traits
 
 In order to play holy characters, you must already have some idea of how they behave virtuously, and these tendencies are probably described as part of your character's Personality Traits. This makes it easy for you to tell at a glance how your characters act in any given situation by comparing the values of traits that seem applicable. It also gives you some idea of how your characters *don't* act, especially when they are tempted or manipulated by outside forces. By determining which traits are similar enough to lead to the same sorts of behavior, and how these traits directly oppose other traits, you can better understand and play your characters.
 
@@ -2254,30 +2168,21 @@ To this end, you might wish to associate each of your character's Personality tr
 
 | TEMPER | POSITIVE TRAITS                                             | OPPOSES  | NEGATIVE TRAITS                                                     |
 |--------|-------------------------------------------------------------|----------|---------------------------------------------------------------------|
-| Loyal  | Dedicated, Faithful, Humble, Proud<br>Reliable, Trusting    |          | Arrogant, Haughty,<br>Rebellious, Suspicious, Vain                  |
+| Loyal  | Dedicated, Faithful, Humble, Proud<br>Reliable, Trusting    |  Proud   | Arrogant, Haughty,<br>Rebellious, Suspicious, Vain                  |
 | Calm   | Cheerful, Hopeful,<br>Optimistic, Patient, Peaceful         | Wrathful | Angry, Desperate,<br>Spiteful, Vengeful, Violent                    |
 | Kind   | Charitable, Compassionate,<br>Forgiving, Generous, Merciful | Envious  | Cruel, Gossipy, Gruff,<br>Jealous, Meddlesome                       |
 | Brave  | Bold, Courageous,<br>Determined, Ready, Zealous             | Slothful | Cowardly, Cynical,<br>Indecisive, Lazy, Shy                         |
 | Wise   | Careful, Cautious, Chaste,<br>Practical, Prudent            | Lustful  | Fanatical, Lecherous, Naïve,<br>Overconfident, Reckless             |
 | Strong | Healthy, Pious, Selfless,<br>Temperate, Vigilant            | Greedy   | Gluttonous, Indulgent,<br>Selfish, Sickly, Weak                     |
-| Just   | Even-handed, Fair, Honest,<br>Honorable, Straightforward    |          | Avaricious Ambitious, Corrupt,<br>Cunning, Devious,<br>Manipulative |
+| Just   | Even-handed, Fair, Honest,<br>Honorable, Straightforward    |  Avaricious | Avaricious Ambitious, Corrupt,<br>Cunning, Devious,<br>Manipulative |
 
-To indicate which temper or sin a Personality trait is associated with, you can simply note it afterward: e.g. Dedicated +3 (Loyal) or Cruel +3 (Envious). When dealing with opposing tempers or sins, treat the trait's value as negative. For example, Dedicated +3 (Loyal) also means a character is Proud
-
-–3, and Cruel +3 (Envious) is the same as Kind –3.
+To indicate which temper or sin a Personality trait is associated with, you can simply note it afterward: e.g. Dedicated +3 (Loyal) or Cruel +3 (Envious). When dealing with opposing tempers or sins, treat the trait's value as negative. For example, Dedicated +3 (Loyal) also means a character is Proud –3, and Cruel +3 (Envious) is the same as Kind –3.
 
 All Personality traits do not need to fit perfectly into this model, but those that do can be applied to greater effect when combined with holy influence and other aspects of the game that deal with human behavior.
 
-out to forage. A mischievous faerie tries to coerce her into its hut just beyond the edges of the Dominion, but she more easily resists the faerie magic and escapes home.
-
-#### **JUST**
-
-This temper is concerned with fairness and the decision to do the right thing despite personal wants and desires. Just characters accept that there are consequences for acts that bend or ignore the rules. They give others their due and do not deprive them of that to which they are entitled. These actions come from the cardinal virtue of Justice — a kind of general even-handedness for everyone. Opposite this is the capital vice of Avarice — the greed for material goods and the desire to take more than one's fair share. An avaricious character cares little for codes of conduct, but instead seeks to acquire by any means necessary, cheating and even stealing when given the opportunity. Avarice is sometimes called the root of all sin, in that most sinful actions stem from unreasonable want — thus it is said that the love of money is the root of all evil.
-
-> *Exempla Gratia:* The lord of the village is concerned that someone has been hunting his game
 
 
-without permission. The priest vows to help the investigation and tempers the aura to Justice. His men question the suspects, and quickly discern who is lying and who is telling the truth, though they do not discover any information related to the missing deer. The faerie in the wood soon finds that its magic is even less effective than usual in the Dominion, and is subsequently caught trying to lead the stolen deer through the wood.
+
 
 ## Schism
 
@@ -8028,6 +7933,7 @@ Various Leading Orientalists. The Encyclopaedia of Islam. 1st Edition, 4 vols. a
 Various Leading Orientalists. The Encyclopaedia of Islam. New Edition, 9 vols. and Supplements. Leiden: E. I Brill 1979-98
 
 Volz, Carl A. The Church of the Middle Ages. St. Louis: Concordia Publishing House, 1970
+
 
 
 
