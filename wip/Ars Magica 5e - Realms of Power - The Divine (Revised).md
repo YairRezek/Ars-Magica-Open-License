@@ -1,4 +1,4 @@
-
+# Realms of Power: The Divine
 
 # Credits
 
@@ -44,12 +44,7 @@ Copyright 2005, 2011 Trident, Inc. d/b/a Atlas Games. All rights reserved. Repro
 
 **Ars Magica**, Mythic Europe, Covenants, and Charting New Realms of Imagination are trademarks of Trident, Inc. Order of Hermes, Tremere, and Doissetep are trademarks of White Wolf, Inc. and are used with permission.
 
-
-
-
-## The Divine
-
-# Contents
+# Table of Contents
 
 | I.   | Introduction                                     | 4   |
 |------|--------------------------------------------------|-----|
@@ -230,9 +225,7 @@ Copyright 2005, 2011 Trident, Inc. d/b/a Atlas Games. All rights reserved. Repro
 
 
 
-## Chapter One
-
-# Introduction
+# Chapter One: Introduction
 
 Welcome to *The Divine*, the first of the *Realms of Power* books for **Ars Magica**™, dealing with the Divine realm and its earthly institutions and followers.
 
@@ -248,10 +241,7 @@ Inside this book are details on the history, beliefs and practices of Christiani
 
 This book is not a revision of *Pax Dei*, the third edition Divine supplement. It is not a revision of *Kabbalah: Mythic Judaism*, the **Ars Magica** sourcebook for Judaism. It is not a revision of *Blood and Sand*, the Fourth Edition Levant Tribunal book. This book was written to replace them completely. While some ideas and concepts may still remain, when they appear they have been completely revised for Fifth Edition.
 
-Furthermore, *Realms of Power: The Divine* is not a religious text. The authors have tried to be respectful, accurate and unbiased in its depiction of real-world
-
-
-religions, but ultimately it is a supplement for a roleplaying game, not an introduction to the different faiths. Religion is a sensitive subject in games (as elsewhere); while Mythic Europe is in many respects a distorted mirror of thirteenth-century Europe, in reality they have nothing to do with each other. **Ars Magica** takes place in an entirely fictional world, no more real than any other fantasy game setting.
+Furthermore, *Realms of Power: The Divine* is not a religious text. The authors have tried to be respectful, accurate and unbiased in its depiction of real-world religions, but ultimately it is a supplement for a roleplaying game, not an introduction to the different faiths. Religion is a sensitive subject in games (as elsewhere); while Mythic Europe is in many respects a distorted mirror of thirteenth-century Europe, in reality they have nothing to do with each other. **Ars Magica** takes place in an entirely fictional world, no more real than any other fantasy game setting.
 
 The authors of this book do not presume (and have not set out) to fully capture an entire religion in the following pages, let alone three. Although God is mentioned frequently, this book does not seek to give a definitive answer as to God's true nature or purpose. Instead, the history, beliefs and practices of Christianity, Islam and Judaism are briefly sketched, so as to provide a framework for players and storyguides to build upon. For those who want more, a detailed bibliography is included at the end of this book.
 
@@ -261,10 +251,7 @@ The authors of this book do not presume (and have not set out) to fully capture 
 
 ## The Divine in Ars Magica
 
-In **Ars Magica**, it is an in-game truth that God exists and resides in the Divine realm. Angels, saints, and miracles are all
-
-
-real. Through the Dominion, which is present for Christianity, Islam, and Judaism in equal measure, God protects and guides his faithful worshipers. This God is not necessarily the Christian, Jewish, or Muslim God, or the God of the Cathars, Gnostics, Platonists, Sabian Mandeans, Zoroastrians, or any other faith founded upon the worship of a single Universal Creator. Ultimately, although the religions of the world contradict each other, the conflict lies with mortals, not within the Heavenly Host.
+In **Ars Magica**, it is an in-game truth that God exists and resides in the Divine realm. Angels, saints, and miracles are all real. Through the Dominion, which is present for Christianity, Islam, and Judaism in equal measure, God protects and guides his faithful worshipers. This God is not necessarily the Christian, Jewish, or Muslim God, or the God of the Cathars, Gnostics, Platonists, Sabian Mandeans, Zoroastrians, or any other faith founded upon the worship of a single Universal Creator. Ultimately, although the religions of the world contradict each other, the conflict lies with mortals, not within the Heavenly Host.
 
 Nevertheless, all of these groups possess certain insights and understandings of God, enough that they benefit from the Dominion, miracles, and divine aid, and that their holy men and women possess True Faith. No single religion in **Ars Magica** has a monopoly on the truth, and while no group is entirely (or even mostly) right, no group is entirely wrong in their understanding.
 
@@ -302,10 +289,7 @@ Saints are rare enough that few magi will ever encounter one, and the majority o
 
 implacable foes, forever seeking to overthrow the Throne of God and plunge the created world into eternal darkness.
 
-Angels pitilessly patrol areas covered by the Dominion, seeking out demonic influence, while saints and holy sorcerers challenge the servants of Hell and unmake their devilish plots. It is the marauding forces of Satan that the Heavenly Host is
-
-
-most occupied with, beyond the salvation of souls.
+Angels pitilessly patrol areas covered by the Dominion, seeking out demonic influence, while saints and holy sorcerers challenge the servants of Hell and unmake their devilish plots. It is the marauding forces of Satan that the Heavenly Host is most occupied with, beyond the salvation of souls.
 
 ## Using the Divine in Stories
 
@@ -347,11 +331,7 @@ Unless the covenant and its inhabitants are particularly sinful, most agents of 
 
 **Chapter 6: Mythic Judaism** presents information about the status of Jews in medieval times, about Jewish schools and synagogues, and explains how to interpret the laws of the scriptures in the context of the game setting. It also tells of a separated Jewish sect called the Karaites, the Baal Shem who master the names of God, and the great mysteries of Kabbalah that have begun to spread throughout the Jews of Mythic Europe.
 
-
-
-## Chapter Two
-
-# Heaven and Earth
+# Chapter Two: Heaven and Earth
 
 In the beginning God created the heavens and the earth.
 
@@ -373,57 +353,43 @@ An empyreal aura is a Divine aura that is untouched by worldly matters. It is di
 
 To encounter a Divine aura is to brush with the divine and to partake of its holiness. There is simply no earthly experience comparable with the radiance of a Divine aura.
 
-The Dominion is present amongst a group of faithful worshipers. It permeates the people of Mythic Europe, binding communities together and saturating their souls with sacred purity. The effect of the Dominion is both subtle and overwhelming, with a marked difference as one moves from a moderate Dominion to a
+The Dominion is present amongst a group of faithful worshipers. It permeates the people of Mythic Europe, binding communities together and saturating their souls with sacred purity. The effect of the Dominion is both subtle and overwhelming, with a marked difference as one moves from a moderate Dominion to a powerful one. A pilgrim standing at the threshold of a cathedral may feel a sense of awe and hope, but once he moves to stand before the altar, all sense of self is overcome by a near mystic experience of being drawn to embrace the Divine.
 
-## The Four Worlds
-
-According to Jewish kabbalists and certain Hermetic theorists, there are four stages of emanation from the Divine realm, known from *Isaiah 43:7*: "All that is called in My name, for My Glory [Atzilut], I have Created it [Beriyah], I have Formed it [Yetzirah], and I have Made it [Asiyah]." As the light of God extends through creation its nature transforms, becoming the
-
-supernatural realms.
-
-The highest realm is Atzilut (Emanation), the eternal and unchanging Divine realm. The next realm is Beriyah (Creation), associated by Hermetic magi with the Magical realm, the first separation of Heaven. Standing just above the material world is Yetzirah (Formation), considered to be either Arcadia or the Invisible World of angels, ghosts, spirits, and elementals. Finally, Asiyah (Action) is the mundane world in which the world and the entire material universe exist. The Infernal realm is not a realm by itself, but rather is a further decline from the Light, a near absolute preternatural Darkness known as *sitra ahra* ("the other side"), which has a rival Tree grown from the husks or shells ("*qlippot*") of earlier creations when Adam ate from the Tree of Knowledge.
-
-powerful one. A pilgrim standing at the threshold of a cathedral may feel a sense of awe and hope, but once he moves to stand before the altar, all sense of self is overcome by a near mystic experience of being drawn to embrace the Divine.
-
-An empyreal aura is the manifestation of the Divine realm separate from worship. It is sharing in a place or thing of holiness, God's most universal quality. Empyreal auras are mostly found at sacred sites that are not necessarily linked to
-
-
-## The Seven Heavens
-
-And thence those men took me and bore me up on to the sixth heaven, and there I saw seven bands of angels, very bright and very glorious, and their faces shining more than the sun's shining, glistening, and there is no difference in their faces, or behavior, or manner of dress; and these make the orders, and learn the goings of the stars, and the alteration of the moon, or revolution of the sun, and the good government of the world.
-
-*I Enoch 19:1*
-
-The Halls of Heaven, like its Host, are stratified between seven grand celestial mansions, known as the Seven Heavens. It is over these Heavens that the Angelic Princes — Archangels rule.
-
-**Shamayim**: The lowest of the Heavens, The First Heaven is the abode of the ethereal stars, each guarded over by an angel. Gabriel rules Shamayim, which is a land filled with glorious trees and rich harvests.
-
-**Raqia**: The Second Heaven imprisons many evil angels who have not been yet thrown to Hell and is ruled by Raphael, Galizur, and Zachariel. Also in Raqia are the planets.
-
-**Shehaqin**: Shehaqin is ruled over by Jabniel, Rabacyl, and Dalquiel, and the Archangel Anahel. It is in the Third Heaven that the Garden of Eden now resides and the Tree of Life grows (from this tree came the manna that delivered the children of Israel).
-
-**Machonon**: In the Fourth Heaven can be found the City of Christ and the heavenly Jerusalem, ruled over by Michael. Here is also found Sandalphon, angel of tears.
-
-**Mathey**: The true Empyrean and home of the Avenging Angels, the Fifth Heaven is the dwelling of Metatron and is ruled by Shatqiel. It is a great void filled with fire and smoke.
-
-**Zebul**: The Sixth Heaven is a place of icy storms and snow-ridden angelic palaces, home of Cherubim and Phoenixes. Zachiel and Sabath are the rulers of Zebul.
-
-**Araboth**: The Seventh Heaven is the dwelling of the Angels of Judgement, Seraphim, Cherubim, and Thrones, ruled over by Cassiel. Araboth is the closest thing in creation to God Himself, and is the location of his Throne.
-
-
-worship, or radiating from powerful divine creatures or saints. It is a more primordial Divine aura than the Dominion.
+An empyreal aura is the manifestation of the Divine realm separate from worship. It is sharing in a place or thing of holiness, God's most universal quality. Empyreal auras are mostly found at sacred sites that are not necessarily linked to worship, or radiating from powerful divine creatures or saints. It is a more primordial Divine aura than the Dominion.
 
 Experiencing a powerful Divine aura is a life-changing experience for faithful and sinners alike, directly touching the soul. While people are always profoundly affected by Divine auras, they are not immediately aware that they are within an aura (unless they have an appropriate Virtue). A Hermetic mage entering a powerful Dominion may slowly be aware of an ache in his hands, a shortness of breath or uncertainty over the efficacy of his magical prowess. Divine auras can also inspire Personality Traits in those within them (see Blessed By God, Holy Influence for more information).
+
+>#### The Four Worlds
+>
+>According to Jewish kabbalists and certain Hermetic theorists, there are four stages of emanation from the Divine realm, known from *Isaiah 43:7*: "All that is called in My name, for My Glory [Atzilut], I have Created it [Beriyah], I have Formed it [Yetzirah], and I have Made it [Asiyah]." As the light of God extends through creation its nature transforms, becoming the supernatural realms.
+>
+>The highest realm is Atzilut (Emanation), the eternal and unchanging Divine realm. The next realm is Beriyah (Creation), associated by Hermetic magi with the Magical realm, the first separation of Heaven. Standing just above the material world is Yetzirah (Formation), considered to be either Arcadia or the Invisible World of angels, ghosts, spirits, and elementals. Finally, Asiyah (Action) is the mundane world in which the world and the entire material universe exist. The Infernal realm is not a realm by itself, but rather is a further decline from the Light, a near absolute preternatural Darkness known as *sitra ahra* ("the other side"), which has a rival Tree grown from the husks or shells ("*qlippot*") of earlier creations when Adam ate from the Tree of Knowledge.
+
+>#### The Seven Heavens
+>
+>*And thence those men took me and bore me up on to the sixth heaven, and there I saw seven bands of angels, very bright and very glorious, and their faces shining more than the sun's shining, glistening, and there is no difference in their faces, or behavior, or manner of dress; and these make the orders, and learn the goings of the stars, and the alteration of the moon, or revolution of the sun, and the good government of the world.*  - I Enoch 19:1
+>
+>The Halls of Heaven, like its Host, are stratified between seven grand celestial mansions, known as the Seven Heavens. It is over these Heavens that the Angelic Princes — Archangels rule.
+>
+>**Shamayim**: The lowest of the Heavens, The First Heaven is the abode of the ethereal stars, each guarded over by an angel. Gabriel rules Shamayim, which is a land filled with glorious trees and rich harvests.
+>
+>**Raqia**: The Second Heaven imprisons many evil angels who have not been yet thrown to Hell and is ruled by Raphael, Galizur, and Zachariel. Also in Raqia are the planets.
+>
+>**Shehaqin**: Shehaqin is ruled over by Jabniel, Rabacyl, and Dalquiel, and the Archangel Anahel. It is in the Third Heaven that the Garden of Eden now resides and the Tree of Life grows (from this tree came the manna that delivered the children of Israel).
+>
+>**Machonon**: In the Fourth Heaven can be found the City of Christ and the heavenly Jerusalem, ruled over by Michael. Here is also found Sandalphon, angel of tears.
+>
+>**Mathey**: The true Empyrean and home of the Avenging Angels, the Fifth Heaven is the dwelling of Metatron and is ruled by Shatqiel. It is a great void filled with fire and smoke.
+>
+>**Zebul**: The Sixth Heaven is a place of icy storms and snow-ridden angelic palaces, home of Cherubim and Phoenixes. Zachiel and Sabath are the rulers of Zebul.
+>
+>**Araboth**: The Seventh Heaven is the dwelling of the Angels of Judgement, Seraphim, Cherubim, and Thrones, ruled over by Cassiel. Araboth is the closest thing in creation to God Himself, and is the location of his Throne.
 
 #### **MUNDANE REACTION TO THE DIVINE**
 
 A pious character entering a Divine aura is filled with positive feelings directed towards God. As the aura grows in strength, these feelings can overcome the character's sense of self. The purpose of Divine auras is to glorify God, so the emotions and spiritual sensations provoked by a Divine aura tend to be ones such as selfless love, awe, and wonder.
 
-Most inhabitants of Mythic Europe, while not impious, have been exposed to Divine auras since they were young. Although one never becomes desensitized to the Divine, the experience may not be as profound as it is to the truly pious. Thus, a character with no signifi-
-
-
-
-cant holy traits may feel awe at seeing the interior of a cathedral or mosque, but may not be struck with intense feelings of love or devotion.
+Most inhabitants of Mythic Europe, while not impious, have been exposed to Divine auras since they were young. Although one never becomes desensitized to the Divine, the experience may not be as profound as it is to the truly pious. Thus, a character with no significant holy traits may feel awe at seeing the interior of a cathedral or mosque, but may not be struck with intense feelings of love or devotion.
 
 Particularly sinful characters (such as those with evil Personality Traits, as described in the Blessed By God chapter) have their guilty consciences pricked when entering a Divine aura. At low levels they may feel apprehensive, aware that someone knows their sinful activities or thoughts. A high-level Divine aura can fill a sinful character with an overpowering sense of guilt and remorse, or fear of retribution. Many grievous sinners have broken down and confessed while standing before the Cathedral's altar. In the seats of the Dominion's power, such as St. Peter's Basilica in Rome or the grand mosque in Mecca, those in constant or willing state of mortal sin are few.
 
@@ -449,44 +415,19 @@ Hate and fear characterizes Infernal opinion of Divine auras. The light, truth, 
 
 ## The Dominion
 
-But the mercy of the Lord is from everlasting to everlasting upon them that fear him, and his righteousness unto children's children; to such as keep his covenant, and to those that remember his commandment to do them. The Lord hath prepared his throne in the heavens; and his kingdom ruleth over all.
-
-*Psalms 103:17-19*
+*But the mercy of the Lord is from everlasting to everlasting upon them that fear him, and his righteousness unto children's children; to such as keep his covenant, and to those that remember his commandment to do them. The Lord hath prepared his throne in the heavens; and his kingdom ruleth over all.* - Psalms 103:17-19
 
 Fundamentally the Dominion is a worldly aura with a worldly purpose. It is God's Kingdom on Earth. It was the Dominion that chased away or overwhelmed the other auras of Mythic Europe in the centuries after Christ. Wherever a community of Christians sprang up, the Dominion followed, growing rapidly in only a few generations to rub against the ancient auras found in grand temples of Greece and Rome and the hoary Faerie auras of Mythic Europe's dense forests. Only the Middle East had known a Dominion like that of the Christians, home as it was of Judaism and the fiery Persian Zoroastrians. The sudden expansion of Islam in the seventh century also saw the growth of the Dominion, spreading with the call to prayer.
 
 The Dominion is the Divine aura manifested for and around God's faithful. It does not exist without a body of worshippers. It springs from God's worldly houses, churches, mosques, and synagogues; waxes and wanes at certain times; and fades when worship is no longer given. Why this is the case is a mystery, but is appears that the Dominion's strength is intimately linked to God's sovereignty over his followers, and their belief in Him.
 
+>#### Who Has the Dominion?
+>
+>The Dominion manifests wherever faithful gather to worship the creator and sustainer of all things, regardless of creed, doctrine, or scripture. The three faiths of the Book (Christianity, Islam, and Judaism) are all protected by a Dominion. So too are communities of the Cathars in Southern France, the Mandeans in Iran, the Zoroastrians in Persia, and heretics of all three major faiths, so long as adoration is given only to God, although such heresy will often cause schism (see Blessed By God, Holy Influence).
+
 #### **DOMINION POWER**
 
-As laid out in **Ars Magica** 5th Edition page 183, auras vary in power from 1 to
-
-## Who Has the Dominion?
-
-The Dominion manifests wherever faithful gather to worship the creator and sustainer of all things, regardless of creed, doctrine, or scripture. The three faiths of the Book (Christianity, Islam, and Judaism) are all protected by a Dominion. So too are communities of the Cathars in Southern France, the Mandeans in Iran, the Zoroastrians in Persia, and heretics of all three major faiths, so long as adoration is given only to God, although such heresy will often cause schism (see Blessed By God, Holy Influence).
-
-
-
-10. The Dominion's power will radiate from a community's church or place of worship (mosque or synagogue) where it is strongest, to the edge of the communi-
-
-## Dominion Power Examples
-
-A quick guide to determine the strength of the Dominion in a given area is provided below. At night, subtract one from the rating, and add one on holy days (Sundays for example). Mosques and synagogues of equal significance to a church have the equivalent Dominion rating.
-
-| AREA                                | AURA RATING |
-|-------------------------------------|-------------|
-| Rural area1                         |             |
-| Town or fortification2              |             |
-| City3                               |             |
-| Consecrated ground3-5               |             |
-| Small Church4                       |             |
-| Large Church or Cathedral5          |             |
-| Site of pilgrimage or veneration4-8 |             |
-| St Peter's Basilica, Church of      |             |
-| Holy Wisdom, the Dome of            |             |
-| the Rock, Mt. Sinai5-10             |             |
-
-ty, where it is weakest. As a rule of thumb, the Dominion will extend from the altar, from where the *salat* is being chanted, or from the Torah scrolls, to as far as the church's bells, the call to prayer, or the recitation of the Torah can be heard until it encounters another, stronger aura or reaches the edge of the community.
+As laid out in **Ars Magica** 5th Edition page 183, auras vary in power from 1 to 10. The Dominion's power will radiate from a community's church or place of worship (mosque or synagogue) where it is strongest, to the edge of the community, where it is weakest. As a rule of thumb, the Dominion will extend from the altar, from where the *salat* is being chanted, or from the Torah scrolls, to as far as the church's bells, the call to prayer, or the recitation of the Torah can be heard until it encounters another, stronger aura or reaches the edge of the community.
 
 Dominion power within a given area will vary. Inside a small church, for example, it has its strongest aura rating of 5 at the altar. This will decrease to 4 throughout the church, extending to the threshold of the church building, with the land and cemetery surrounding the church having a Dominion aura of 3. Within large churches or places of worship there may be several areas with high and low aura ratings, such as in the Church of Holy Wisdom in Constantinople — the largest church in Christendom — where the many altars, relics, and icons result in the Dominion varying between five and, in the holiest places within this holy place, 10.
 
@@ -494,10 +435,26 @@ In a city, most of the dwellings would be under a Dominion rating of 3, with are
 
 As another guide, the Dominion is typically strongest where people gather to worship in a consecrated place (aura 4), with the dwellings of the faithful protected by the next-strongest aura (aura 3), and the workplaces of the faithful gaining the final level of Dominion (aura 1 or 2).
 
+## Dominion Power Examples
+
+A quick guide to determine the strength of the Dominion in a given area is provided below. At night, subtract one from the rating, and add one on holy days (Sundays for example). Mosques and synagogues of equal significance to a church have the equivalent Dominion rating.
+
+| AREA                                | AURA RATING |
+|-------------------------------------|-------------|
+| Rural area1                         |     1       |
+| Town or fortification               |     2       |
+| City                                |      3      |
+| Consecrated ground                  |     3-5     |
+| Small Church                        |      4      |
+| Large Church or Cathedral           |      5      |
+| Site of pilgrimage or veneration    |      4-8    |
+| St Peter's Basilica, Church of Holy Wisdom, the Dome of the Rock, Mt. Sinai     |        5-10     |
+
 #### **CONFLICTING AURAS**
 
 More so than other auras, the Dominion regularly conflicts and challenges the auras from other realms. During the expansion of Christianity, Islam, and the kingdom of Israel, the Dominion abutted and pressed against Magic and Faerie auras. Due to the purpose and nature of the Dominion, when it comes to influence in an area with another realm's aura of equal strength, the
 
+[TODO Missing parapgraph ?]
 
 ## Holy of Holies
 
@@ -8122,5 +8079,6 @@ Various Leading Orientalists. The Encyclopaedia of Islam. 1st Edition, 4 vols. a
 Various Leading Orientalists. The Encyclopaedia of Islam. New Edition, 9 vols. and Supplements. Leiden: E. I Brill 1979-98
 
 Volz, Carl A. The Church of the Middle Ages. St. Louis: Concordia Publishing House, 1970
+
 
 
