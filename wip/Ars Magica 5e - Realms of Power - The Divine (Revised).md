@@ -275,21 +275,19 @@ More so than with the Magic realm, agents of the Divine are likely to come into 
 
 #### **INFERNAL**
 
-Conflict between Heaven and Hell is eternal and unrelenting. The diabolical forces of the Devil are the Divine's most
-
-## Divine-Hermetic Relations
-
-Wise Hermetic magi are completely aware that if the Divine wished, it could destroy the entire Order. For this reason, the Order of Hermes seeks to maintain cordial or even friendly relationships with the various earthly representatives of Heaven. This is mostly pursued by House Jerbiton and House Guernicus, whose members and covenants have regular dealings with senior church figures in both East and West. The Order has had less friendly contact with Islam, largely due to the Christian upbringing of most members of the Order, and of Flambeau and Tytalus crusaders.
-
-Magi from Iberia and Provence are the only Hermetics to have any regular exchanges with Jewish sorcerers and kabbalists, and after a brief outbreak of hostilities (when the Order tried to force a cabal of kabbalist rabbis in Barcelona to join or die) there is now a treaty of non-aggression between the Order of Hermes and Mythic Europe's Jewish communities.
-
-Most Hermetics have little understanding or knowledge of the abilities, powers, or goals of the Divine. Many are scornful of the Church and its priests. Why fear the Dominion when you can live for centuries, call down storms, and hurl lances of fire? The majority of them give the Divine Realm little thought, far distant as they are from the toll of church bells or the call to prayer.
-
-Saints are rare enough that few magi will ever encounter one, and the majority of Hermetic activity takes place far from the Dominion. Only those mages who combat demons or spend a length of time in cities or near holy places are likely to encounter an angel or divine servant, in which case they may be grateful for divine assistance and advice.
-
-implacable foes, forever seeking to overthrow the Throne of God and plunge the created world into eternal darkness.
+Conflict between Heaven and Hell is eternal and unrelenting. The diabolical forces of the Devil are the Divine's most implacable foes, forever seeking to overthrow the Throne of God and plunge the created world into eternal darkness.
 
 Angels pitilessly patrol areas covered by the Dominion, seeking out demonic influence, while saints and holy sorcerers challenge the servants of Hell and unmake their devilish plots. It is the marauding forces of Satan that the Heavenly Host is most occupied with, beyond the salvation of souls.
+
+>## Divine-Hermetic Relations
+>
+>Wise Hermetic magi are completely aware that if the Divine wished, it could destroy the entire Order. For this reason, the Order of Hermes seeks to maintain cordial or even friendly relationships with the various earthly representatives of Heaven. This is mostly pursued by House Jerbiton and House Guernicus, whose members and covenants have regular dealings with senior church figures in both East and West. The Order has had less friendly contact with Islam, largely due to the Christian upbringing of most members of the Order, and of Flambeau and Tytalus crusaders.
+>
+>Magi from Iberia and Provence are the only Hermetics to have any regular exchanges with Jewish sorcerers and kabbalists, and after a brief outbreak of hostilities (when the Order tried to force a cabal of kabbalist rabbis in Barcelona to join or die) there is now a treaty of non-aggression between the Order of Hermes and Mythic Europe's Jewish communities.
+>
+>Most Hermetics have little understanding or knowledge of the abilities, powers, or goals of the Divine. Many are scornful of the Church and its priests. Why fear the Dominion when you can live for centuries, call down storms, and hurl lances of fire? The majority of them give the Divine Realm little thought, far distant as they are from the toll of church bells or the call to prayer.
+>
+>Saints are rare enough that few magi will ever encounter one, and the majority of Hermetic activity takes place far from the Dominion. Only those mages who combat demons or spend a length of time in cities or near holy places are likely to encounter an angel or divine servant, in which case they may be grateful for divine assistance and advice.
 
 ## Using the Divine in Stories
 
@@ -333,9 +331,7 @@ Unless the covenant and its inhabitants are particularly sinful, most agents of 
 
 # Chapter Two: Heaven and Earth
 
-In the beginning God created the heavens and the earth.
-
-*Genesis 1.1*
+*In the beginning God created the heavens and the earth.*  - Genesis 1.1
 
 The Divine Realm is a place of unending truth, incorruptible and perfect in every respect, the first creation and the first good. Within that splendor resides Heaven, the angels and saints and all of God's faithful worshippers. The Divine Realm, also known as the True Empyrean, is the "flame of flames" out of which every divine thing has its light kindled. Separate from God, since it was created by Him, the Divine realm shares in His essence by dint of its holiness.
 
@@ -8079,6 +8075,7 @@ Various Leading Orientalists. The Encyclopaedia of Islam. 1st Edition, 4 vols. a
 Various Leading Orientalists. The Encyclopaedia of Islam. New Edition, 9 vols. and Supplements. Leiden: E. I Brill 1979-98
 
 Volz, Carl A. The Church of the Middle Ages. St. Louis: Concordia Publishing House, 1970
+
 
 
 
