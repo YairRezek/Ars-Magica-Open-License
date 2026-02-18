@@ -1,5 +1,6 @@
+# Ars Magica Definitive Edition
 
-# TESTIBLICA Definition Octimization
+
 
 
 
@@ -24,7 +25,7 @@ Errata Documentation: Christopher Allen and the online Ars Magica community
 
 Indexing: Ross Waataja
 
-**Proofreading:** Woody Eblom, Jenae Floerke, Jackie Sue Lozano, John Nephew, Ross Waataja
+Proofreading: Woody Eblom, Jenae Floerke, Jackie Sue Lozano, John Nephew, Ross Waataja
 
 ArM5 Proofreading: Sheila Thomas
 
@@ -82,10 +83,10 @@ ISBN: 978-1-58978-251-8
 Made of FSC®-certified paper that was responsibly sourced.
 
 
-# [Memorials](#page-7-0)
+# Memorials
 
 
-panning nearly 40 years, Ars Magica is an intergenerational game that has sparked long-lasting communities across the globe. Our crowdfunding campaign comments were filled with memories of loved ones gone to Final Twilight, for whom Ars
+Spanning nearly 40 years, Ars Magica is an intergenerational game that has sparked long-lasting communities across the globe. Our crowdfunding campaign comments were filled with memories of loved ones gone to Final Twilight, for whom Ars
 
 Magica was a signifiant part of their lives. Here we pay tribute to the memory of those Ars Magica players we've lost. Vale sodales.
 
@@ -189,13 +190,7 @@ Magica was a signifiant part of their lives. Here we pay tribute to the memory o
 
 # Preface
 
-
-here's so much to love about Ars
-Magica, and it's gratifying to see\nit find an enduring place in the
-hearts of so many gamers. Mark
-Rein•Hagen and I put everything
-
-we had into this game, and it shows.
+There's so much to love about Ars Magica, and it's gratifying to see it find an enduring place in the hearts of so many gamers. Mark Rein•Hagen and I put everything we had into this game, and it shows.
 
 I love the core promise of the Ars Magica — wizards done right. In real-world lore, wizards are beyond the limits of regular mortals, while in RPGs they are typically on par with warriors and thieves — just one more class. I love how various elements of the game, such as houses and covenants, support this central promise.
 
@@ -237,25 +232,27 @@ Jonathan Tweet
 
 ## Public Domain Artworks
 
-| 7                                                | , , , , , , , , , , , , , , , , , , , ,                                                                   |
-|--------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
-| ALBERTINA COLLECTIONS ONLINE                     | 74, 196, 224, 334, 499                                                                                    |
-| Belles Heures, The Limbourg Brothers             | 9, 104, 203, 249, 281, 301, 327, 375                                                                      |
-| BOOK OF HOURS, SIMON BENING                      | 182, 495                                                                                                  |
-| CLOISTERS APOCALYPSE                             | 55, 56, 76, 121, 125, 157, 163, 173, 218, 220, 273, 292, 393, 475, 515, 523, 535                          |
-| Dante's Commedia                                 | 535                                                                                                       |
-| DER NATUREN BLOEME, JACOB VAN MAERLANT           | 553, 555, 558, 559, 560, 561, 562, 563, 564, 565, 566, 567, 568                                           |
+|                                                  |                                                              |
+| ------------------------------------------------ | ------------------------------------------------------------ |
+| ALBERTINA COLLECTIONS ONLINE                     | 74, 196, 224, 334, 499                                       |
+| Belles Heures, The Limbourg Brothers             | 9, 104, 203, 249, 281, 301, 327, 375                         |
+| BOOK OF HOURS, SIMON BENING                      | 182, 495                                                     |
+| CLOISTERS APOCALYPSE                             | 55, 56, 76, 121, 125, 157, 163, 173, 218, 220, 273, 292, 393, 475, 515, 523, 535 |
+| Dante's Commedia                                 | 535                                                          |
+| DER NATUREN BLOEME, JACOB VAN MAERLANT           | 553, 555, 558, 559, 560, 561, 562, 563, 564, 565, 566, 567, 568 |
 | Dover Celtic Design Archive                      | 34, 65, 66, 171, 173, 176, 184, 191, 208, 241, 257, 276, 345, 359, 389, 397, 441, 451, 484, 495, 511, 514 |
-| Jean Fouquet                                     | 409                                                                                                       |
-| MASTER OF CATHERINE OF CLEVES, LIEVEN VAN LATHEM | 426                                                                                                       |
-| THE METROPOLITAN MUSEUM OF ART OPEN ACCESS       | 501                                                                                                       |
-| More Beasts                                      | 256, 556, 557                                                                                             |
-| New York Public Library Digital Collections      | 3, 25, 61, 534                                                                                            |
-| THE UNICORN TAPESTRIES                           | 425, 526, 568                                                                                             |
-| Wikimedia Commons                                | 96, 119, 252, 308, 392, 463, 505                                                                          |
-| Various Sources                                  | 135, 159, 186, 257, 298, 316, 324, 361, 398                                                               |
+| Jean Fouquet                                     | 409                                                          |
+| MASTER OF CATHERINE OF CLEVES, LIEVEN VAN LATHEM | 426                                                          |
+| THE METROPOLITAN MUSEUM OF ART OPEN ACCESS       | 501                                                          |
+| More Beasts                                      | 256, 556, 557                                                |
+| New York Public Library Digital Collections      | 3, 25, 61, 534                                               |
+| THE UNICORN TAPESTRIES                           | 425, 526, 568                                                |
+| Wikimedia Commons                                | 96, 119, 252, 308, 392, 463, 505                             |
+| Various Sources                                  | 135, 159, 186, 257, 298, 316, 324, 361, 398                  |
 
 
+
+# Table of Contents
 
 | ii  | Credits                         | 423 | CHAPTER 13: Bestiary                        |
 |-----|---------------------------------|-----|---------------------------------------------|
@@ -277,12 +274,30 @@ Jonathan Tweet
 
 
 
+> *A flash of bronze scales against a* 
+> *cerulean sky! Its shadow has been* 
+> *our fleeting companion for days,* 
+> *but now the monstrous creature* 
+> *descends upon our small band.* 
+> *Our magus’s eyes blaze with arcane power,* 
+> *our sturdy grog grips his sword, and I keep* 
+> *my arrow nocked and at the ready. The* 
+> *distant covenant, perched high in the soaring* 
+> *heights of the far mountainside, watches* 
+> *over our perilous journey, as church bells* 
+> *call out a warning from below. A desperate* 
+> *message secreted in my bag must reach its* 
+> *destination before nightfall! Our journey has* 
+> *only just begun, through this land of myth* 
+> *and magic, where the mundane world fades* 
+> *into the embrace of legend.*
+
 
 
 # I. Introduction
 
 
-n the day the faeries came to burn the village, Walter was repairing the thatch on his roof. As he worked, he kept half an eye on the strangers who had
+On the day the faeries came to burn the village, Walter was repairing the thatch on his roof. As he worked, he kept half an eye on the strangers who had
 
 arrived the previous evening. Walter didn't like the look of them, particularly the woman. She looked like the sort who sold watered ale, then robbed and killed men while they slept.
 
@@ -304,12 +319,10 @@ Walter watched the woman, clearly a witch of some sort, approach his house, look
 
 Walter did not feel like arguing, and ran to the church, shouting that the faeries were gone.
 
-# Melcome to Ars Magica
+## Welcome to Ars Magica
 
 
-ragons lair in the mountains, angels watch over the Church, faeries dance in the forests, and demons tempt men and women to their ultimate downfall. The
-
-magi of the Order of Hermes live in a world of mythic power, the world of Mythic Europe. Welcome to that world.
+Dragons lair in the mountains, angels watch over the Church, faeries dance in the forests, and demons tempt men and women to their ultimate downfall. The magi of the Order of Hermes live in a world of mythic power, the world of Mythic Europe. Welcome to that world.
 
 Ars Magica is a roleplaying game, wherein you and your friends tell the stories of a group of powerful wizards, magi of the Order of Hermes, and their allies in the world of Mythic Europe. Mythic Europe is much like the Europe of 1220, the middle ages, but dragons, demons, angels, and faeries are all unquestionably real, and no aspect of society is untouched by myth.
 
@@ -320,7 +333,7 @@ This book is the core rulebook for the Fifth Edition of Ars Magica. Some of you 
 ## Basic Ideas
 
 
-n many ways, Ars Magica is very similar to most other tabletop, or pen-and-paper, roleplaying games. Players have characters, who are
+In many ways, Ars Magica is very similar to most other tabletop, or pen-and-paper, roleplaying games. Players have characters, who are
 
 defined by a set of numbers, and control their character's actions by telling the other players what they do. One player, called the storyguide in **Ars Magica**, handles most of the world, deciding what antagonists and extras do. Conflicts, or tasks that might be beyond a character's capabilities, are resolved according to the rules described in this book, and a die roll.
 
@@ -328,34 +341,25 @@ There are also a number of differences. None of these features are unique to **A
 
 First, the available character types are not equal in power. Hermetic magi are more powerful than other possible player characters, far more powerful in many cases. Power does not necessarily correspond to how interesting a character is to play, and The Gift that allows magi to work magic also causes them problems in most social situations.
 
-Second, most players have more than one character. This is called troupe-style roleplaying, and is discussed in detail in the Sagas chapter. The role of storyguide may also pass around the group, or troupe, and player characters are divided between central characters (magi and companions) and supporting cast (grogs). A player would normally only play one central character at a time, but might play several grogs at once. This
-
-
-
-Europe, apart from all the mythic power around the place, the rule system works well for a magiccentered campaign in any fantasy setting. The Mythic Europe, Stories, and Sagas chapters discuss ways to run the game, and provide hints to help you do whatever you want with it.
+Second, most players have more than one character. This is called troupe-style roleplaying, and is discussed in detail in the Sagas chapter. The role of storyguide may also pass around the group, or troupe, and player characters are divided between central characters (magi and companions) and supporting cast (grogs). A player would normally only play one central character at a time, but might play several grogs at once. This Europe, apart from all the mythic power around the place, the rule system works well for a magiccentered campaign in any fantasy setting. The Mythic Europe, Stories, and Sagas chapters discuss ways to run the game, and provide hints to help you do whatever you want with it.
 
 In the last analysis, Ars Magica is a game. If you have fun with it, you are doing it right.
 
 ## Structure of the Book
 
-his is a big book, as it needs to be to explain all the rules and abackground for Ars Magica. The first chapter, this 🔻 Introduction, provides a quick
-
-overview of the game, and explains the basic die-rolling mechanic.
+This is a big book, as it needs to be to explain all the rules and abackground for Ars Magica. The first chapter, this Introduction, provides a quick overview of the game, and explains the basic die-rolling mechanic.
 
 Chapter 2, Order of Hermes, describes the order of wizards that is central to the game.
 
-Chapters 3, 4 and 5, Characters, Virtues and Flaws, and Abilities contain all the information necessary to create a character. Chapter 6, Covenants, deals with creating the place where the characters live. Chapters 7, 8, and 9, Hermetic Magic, Laboratory, and Spells, describe Hermetic Magic. Chapter 10, Long Term Events, covers things that happen to the characters
+Chapters 3, 4 and 5, Characters, Virtues and Flaws, and Abilities contain all the information necessary to create a character. Chapter 6, Covenants, deals with creating the place where the characters live. Chapters 7, 8, and 9, Hermetic Magic, Laboratory, and Spells, describe Hermetic Magic. Chapter 10, Long Term Events, covers things that happen to the characters improvement, aging and death, and Warping by supernatural power. Chapter 11, Obstacles, details the things that might harm the characters, most notably combat.
 
-> improvement, aging and death, and Warping by supernatural power. Chapter 11, Obstacles, details the things that might harm the characters, most notably combat.
-
-> > Chapter 12, Realms, explains the four different sorts of supernatural power in Mythic Europe, the Divine, Faerie, Infernal, and Magical Realms. Chapter 13, Bestiary, provides a sample of creatures from each of these Realms. Chapter 14, Mythic Europe, provides hints on making your game feel like it happens in the mythic world.
+Chapter 12, Realms, explains the four different sorts of supernatural power in Mythic Europe, the Divine, Faerie, Infernal, and Magical Realms. Chapter 13, Bestiary, provides a sample of creatures from each of these Realms. Chapter 14, Mythic Europe, provides hints on making your game feel like it happens in the mythic world.
 
 Chapters 15 and 16, Stories and Sagas, provides advice on using the preceding material to actually make a game that the troupe enjoys.
 
 ## Glossary
 
-
-he following terms are some of the more important in the game, and they come up repeatedly in what follows.
+The following terms are some of the more important in the game, and they come up repeatedly in what follows.
 
 Bonisagus: The brilliant eighth-century magus who developed the Parma Magica, and with the help of the other Founders, the whole of Hermetic Magic. The founder of House Bonisagus.
 
@@ -391,9 +395,10 @@ The Infernal: One of the four supernatural realms. Infernal creatures seek to co
 
 maga/magus: A member of the Order of Hermes who can use Hermetic magic. Used by both players and characters. 'Maga' is the feminine form, 'magus' the masculine. The neuter is 'magum', while the plural form used in the Order is 'magi'.
 
-## Rounding
-
-The rules for Ars Magica sometimes involve division. In most cases, a rule specifies whether you should round up or down, but if it does not, round down.
+> #### Rounding
+>
+> The rules for Ars Magica sometimes involve division. In most cases, a rule specifies whether you should round up or down, but if it does not, round down.
+>
 
 Magic: One of the four supernatural realms. Magical creatures often do not care one way or the other about humans.
 
@@ -429,11 +434,10 @@ Vis: Raw magic. The most valuable thing to most magi.
 
 
 
-
 ## Die Rolls
 
 
-he success or failure of most actions in an **Ars Magica** story is determined by rolling dice. For non-magical actions, the roll is normally Characteristic + Ability
+The success or failure of most actions in an **Ars Magica** story is determined by rolling dice. For non-magical actions, the roll is normally Characteristic + Ability
 
 + Die Roll against an Ease Factor. If the total equals or exceeds the Ease Factor, the action succeeds. The amount by which the result exceeds the Ease Factor gives some indication of how successful the action was. Magic uses the same basic rules, but there are special rules for determining what to add to the die roll, and the number that the total must beat.
 
@@ -457,11 +461,11 @@ For example, consider a character with a Characteristic + Ability total of 9 mak
 
 ## Stress Die
 
-| Initial<br>Roll | Result                                                                                                                                                            |
-|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 0               | Check for a botch. No zeros on botch dice: No botch, die roll is 0. One or more zeros on botch dice: Botch. Total is no higher than 0, and something bad happens. |
-| 1               | Re-roll, doubling the result. Zeros count as ten. If more ones are rolled, continue re-rolling and doubling.                                                      |
-| 2-9             | Die roll result is the number showing on the die.                                                                                                                 |
+| Initial Roll | Result                                                       |
+| ------------ | ------------------------------------------------------------ |
+| 0            | Check for a botch. No zeros on botch dice: No botch, die roll is 0. One or more zeros on botch dice: Botch. Total is no higher than 0, and something bad happens. |
+| 1            | Re-roll, doubling the result. Zeros count as ten. If more ones are rolled, continue re-rolling and doubling. |
+| 2-9          | Die roll result is the number showing on the die.            |
 
 If the roll comes up 6, he has a total of 15, 9 from the Characteristic + Ability total, plus 6 from the die roll.
 
@@ -498,19 +502,19 @@ For example, consider the character climbing a crumbling cliff in a high wind. I
 | 9                          | 6.1%               | Juggling five full cups of wine while four dancing bears cavort around you.                                                                               |
 | 10                         | 6.5%               | Casting a spell in the church of the Holy Sepulcher in Jerusalem.                                                                                         |
 
-## Case Pactor
+## Ease Factor
 
-| Ease<br>Factor | Difficulty                                                                                                                                                                                              |
-|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| O              | Trivial. A character needs to be severely hindered to have any chance of failure. Almost never worth rolling for.                                                                                       |
-| 3              | Simple. An average character with no training succeeds about 70% of the time. Only roll if failure is very significant, otherwise assume success.                                                       |
-| 6              | Easy. An average character with some skill succeeds about 70% of the time, and talented or skilled characters almost never fail.                                                                        |
-| 9              | Average. Talented or skilled characters succeed about 70% of the time, unskilled characters have little chance of success, and moderately skilled characters have about a 50% chance of success.        |
-| 12             | Hard. Unskilled characters always fail, and moderately skilled characters normally do, unless they are very talented. Skilled characters fail about half the time.                                      |
+| Ease<br>Factor | Difficulty                                                   |
+| -------------- | ------------------------------------------------------------ |
+| 0              | Trivial. A character needs to be severely hindered to have any chance of failure. Almost never worth rolling for. |
+| 3              | Simple. An average character with no training succeeds about 70% of the time. Only roll if failure is very significant, otherwise assume success. |
+| 6              | Easy. An average character with some skill succeeds about 70% of the time, and talented or skilled characters almost never fail. |
+| 9              | Average. Talented or skilled characters succeed about 70% of the time, unskilled characters have little chance of success, and moderately skilled characters have about a 50% chance of success. |
+| 12             | Hard. Unskilled characters always fail, and moderately skilled characters normally do, unless they are very talented. Skilled characters fail about half the time. |
 | 15             | Very Hard. Even moderate skill gives almost no chance of success. Skilled and talented characters fail about half the time, but very skilled, highly talented characters succeed about 70% of the time. |
-| 18             | Impressive. People at the top of a skill succeed about half the time. Those with lesser abilities have next to no chance.                                                                               |
-| 21             | Remarkable. Very skilled, highly talented characters only succeed occasionally.                                                                                                                         |
-| 24+            | Almost impossible. The greatest masters of a skill succeed when they get lucky.                                                                                                                         |
+| 18             | Impressive. People at the top of a skill succeed about half the time. Those with lesser abilities have next to no chance. |
+| 21             | Remarkable. Very skilled, highly talented characters only succeed occasionally. |
+| 24+            | Almost impossible. The greatest masters of a skill succeed when they get lucky. |
 
 Notes: An average character has a score of 0 in the relevant Characteristic, while a highly talented character has a score of +3. Moderate skill is a score of 3 in an Ability, 'Skilled' means a score of 6, and 'Very Skilled' means 9.
 
@@ -519,11 +523,11 @@ Notes: An average character has a score of 0 in the relevant Characteristic, whi
 # II. The Order of Hermes
 
 
-he Order of Hermes is an organization of magi that spans the whole of Mythic Europe, even reaching some distance beyond. It has about 1200
+The Order of Hermes is an organization of magi that spans the whole of Mythic Europe, even reaching some distance beyond. It has about 1200
 
 members, living in thirteen Tribunals which divide up the continent. In the Magical Realm, no single group can even think to challenge the Order as a whole, but the power of God is far beyond even Hermetic magi. This chapter lays out the history and current state of the Order of Hermes, to which Ars Magica characters are almost all affiliated in some way.
 
-# The History of the Order
+## The History of the Order
 
 The practice of magic and wizardry goes back to the very beginnings of civilization. Gifted individuals have always found ways to utilize their power, often dominating the unGifted for a time, before the envy, suspicion, and hatred engendered by tyrannical behavior and the effects of The Gift brought them down.
 
@@ -533,13 +537,13 @@ One of the few even partial successes in this regard was the Roman Cult of Mercu
 
 Nevertheless, suspicions grew within the Cult that some members were hoarding knowledge, ready for a major strike against the other members. Soon after the fall of the Western Roman Empire, the Cult tore itself apart in internal conflict, leaving isolated wizards scattered across Europe. Magic entered a dark age, from which it emerged with the foundation of the Order of Hermes, more than three centuries later.
 
-# The Foundation of the Order
+## The Foundation of the Order
 
 The Order of Hermes owes its existence to Bonisagus, without question the greatest magical genius yet to live. He made two great discoveries, either of which alone would have ensured his place in magical history. The first was the discovery of the Parma Magica, which defended a wizard from the magic of others and shielded him from the antipathetic effect of their Gifts. Safe behind a Parma Magica, a wizard could talk to another Gifted individual with little fear of attack and without having to constantly fight the natural tendency to lapse into envy, suspicion, and hostility.
 
 The true potential of the Parma Magica was first recognized by the sorceress Trianoma, who willingly studied under Bonisagus despite her own power. She realized that the Parma Magica would make a true society of magi possible, a society where wizards could meet to resolve their differences, and live and work together. Bonisagus, already working on his next project, a unified theory of magic, was happy to go along with Trianoma's grand vision.
 
-# Trianoma & Vica
+## Trianoma & Viea
 
 Trianoma had a twin sister, Viea. They were trained in magic together, and as they grew, Viea interpreted Trianoma's visions. One of these visions suggested that the isolated magi of Europe would bring about a disaster, unless the sisters could defeat a particular powerful wizard. They searched for this wizard for years, and finally a dragon, said to be in the temple of the Hesperides beyond Ethiopia, told them to seek out a cave in the Alps.
 
@@ -551,9 +555,7 @@ Trianoma traveled across Europe, seeking out the most powerful wizards. The Parm
 
 From these discussions, Bonisagus drew a great deal of knowledge. From the traditions of the Cult of Mercury he developed Formulaic and Ritual Magic, and from the traditions of the druids, brought by Diedne, a woman cast out from that religion, he learned to create magical effects spontaneously. Verditius taught him the secrets of binding magic into items, and Merinita the arts of binding animals.
 
-From each of the
-
-eleven wizards who came to him, Bonisagus learned something, and to each he taught the Parma Magica.
+From each of the eleven wizards who came to him, Bonisagus learned something, and to each he taught the Parma Magica.
 
 The result of these studies was Bonisagus's second great discovery, the theory of Hermetic Magic. In 767 the thirteen wizards gathered at Durenmar in the Black Forest, and swore to the Code of Hermes, creating the Order of Hermes at the first Tribunal.
 
@@ -568,11 +570,11 @@ The Order immediately entered a period of rapid growth. The founders of the True
 
 Within forty years the Order of Hermes dominated the magical landscape of Europe.
 
-## Orises in the Order
+## Crises in the Order
 
 That domination persists until the present day, 1220. Nevertheless, an Order that has endured for well over four hundred years has naturally faced its share of crises and problems.
 
-# Damhan-Allaidh and the Ordo Miscellanea
+## Damhan-Allaidh and the Ordo Miscellanea
 
 In the early years of the ninth century Damhan-Allaidh (DAH-van ALL-ath), a powerful and evil wizard resident in the British Isles, led an organized resistance to the Order of Hermes. Rather than face Hermetic wizards in magical combat, his followers cursed and harassed their followers, set traps, and used mundane assassins to halt the progress of the Order. For a number of years these tactics were effective, and some began to think that the Order would be stopped at the English Channel.
 
@@ -582,13 +584,13 @@ As the Order prepared to welcome the victor home, it received a message. Pralix 
 
 her immediately, but Tytalus, impressed by his filia's nerve, forced a negotiated settlement. In 817 the Ordo Miscellanea joined the Order of Hermes as a thirteenth House, House Ex Miscellanea.
 
-# The Domination of Louse Tremere
+## The Domination of House Tremere
 
 House Tremere had been slowly building its power since the foundation of the Order, with Tremere himself keeping close control over his line. Through the careful use of certamen and the building of political alliances, the House gained effective control over several Tribunals, and was poised to take over more. When Jerbiton died, leaving Tremere as the sole remaining Founder, the House was ready to move to dominate the entire Order, turning it into a tool for their larger plans.
 
 At that point, a group of magi whose identities are still unknown broke the minds of Tremere's closest lieutenants. This event, known as 'the Sundering', also broke the power structures that the House had built, as obligations to those magi and threats posed by them ceased to be a concern. Tremere himself met with the magi responsible for the Sundering, or perhaps their representatives, and some sort of agreement was forged. While Tremere himself died soon afterwards, the House has kept to the agreement, and has never again tried to dominate the Order.
 
-# The Corruption of Louse Tytalus
+## The Corruption of House Tytalus
 
 House Tytalus has always sought challenges. In the late tenth century, leaders of the House went too far, seeking to control demons and instead being corrupted by them. They were engaged in a subtle campaign to corrupt the rest of the Order as well when their corruption was uncovered by another Tytalus maga. She alerted the Quaesitores, and the Order turned with great efficiency to purging the diabolists from their midst. The Prima of House Tytalus, Tasgillia, was the most prominent victim, but the House lost many of its members, and never again recovered the relative size it had in the early years. To this day, many magi wonder whether the House has completely escaped this taint.
 
@@ -612,12 +614,10 @@ With the destruction of the Diedne, the Schism War came to an end. The Quaesitor
 
 Since the Schism War, the Order has existed in a state of relative peace and co-operation. However, by 1220 the last magi who can remember the War have died or passed into Final Twilight, and memories of that terrible time are fading.
 
-# The houses of hermes
+# The Houses of Hermes
 
 
-he Order of Hermes is divided into twelve Houses, all but Ex Miscellanea descended in some way from one of the Twelve Founders. This section provides a brief
-
-overview of the Houses, but it is important to remember that individuals within a House can vary widely.
+The Order of Hermes is divided into twelve Houses, all but Ex Miscellanea descended in some way from one of the Twelve Founders. This section provides a brief overview of the Houses, but it is important to remember that individuals within a House can vary widely.
 
 The twelve Houses fall into three groups. Four (Bonisagus, Guernicus, Mercere, and Tremere) are true lineages, made up of those trained by someone trained by someone (etc) trained by the founder of the House. It is not possible to join those Houses later. These Houses are described in the supplement Houses of Hermes: True Lineages. Four (Biornaer, Criamon, Merinita, and Verditius) are Mystery Cults, and magi can join those Houses by being initiated into the cult. Such initiations teach the Outer Mystery of the cult, the only cult ability that is not kept largely secret. Their secret Mysteries, and much more detail of the Houses, are detailed in Houses of Hermes: Mystery Cults. The last four (Ex Miscellanea, Flambeau, Jerbiton, and Tytalus) are gatherings of magi with common interests. It is relatively easy to join these Houses after training, and magi who feel that they do not fit in to their old Houses often do. Ex Miscellanea, in particular, will take anyone with The Gift, a smattering of Latin and Magic Theory, and the ability to raise a Parma Magica — and many members will teach the last three to potential recruits. The interests and activities of these Houses are discussed in Houses of Hermes: Societates.
 
@@ -625,7 +625,7 @@ It is only possible to be a member of one House at a time.
 
 
 
-## Donse **B**iornaer
+## House Bjornaer
 
 
 Magi of Bjornaer (BYORE-nayr) concern themselves primarily with beasts and the animalistic side of human nature. Because of this emphasis in their training, each Bjornaer magus can take the form of an animal, known as his "heartbeast." Understanding the heartbeast in particular and animals in general is considered more important than Hermetic magic by many in this House. Despite this close association with shapeshifting, Bjornaer magi avoid any kind of shapeshifting other than their heartbeast, and have hostile relations with some other shapeshifters, for reasons that other magi do not fully understand.
@@ -638,14 +638,14 @@ The Prima of the House is Falke. and its domus magna is Crintera, in the Rhine T
 
 This House is a Mystery Cult, and the ability to take the form of the heartbeast is the Outer Mystery (see page 233).
 
-## house Bonisagus
+## House Bonisagus
 
 
 House Bonisagus is split into two strands, the political and the theoretical. Theoretical Bonisagus magi concentrate on pushing back the boundaries of Hermetic magic, and are the undisputed masters of Magic Theory. Political Bonisagus magi, often called 'magi Trianomae', concentrate on keeping the Order together, and excel at politics.
 
 The current Prima is Archmaga Murion, a consummate politician, who resides at Durenmar in the Rhine Tribunal (see Guardians of the Forests, page 51). The House typically remembers its researchers better than its politicians: figures such as Notatus, the first Primus, who created the Aegis of the Hearth, and Conciatta, who extended Hermetic magic to directly affect the other supernatural powers (Divine, Faerie, and Infernal) (see Legends of Hermes, Chapter Two). Among contemporary members, Archmagus Relisius is well-known for his Christian faith and advocacy of harmony between Magic and the Divine (see Tales of Power, Chapter Four: Encroaching Dominion).
 
-## house **C**riamon
+## House **C**riamon
 
 
 This very secretive House is known for its obscure philosophy, its disdain for simple power, and its members' habit of marking their faces and bodies with arcane symbols. Followers of Criamon (KREE-ah-mone) are an enigmatic and otherworldly group of magi, generally having little interest in the politics of the Order.
@@ -658,7 +658,7 @@ Its Prima is Muscaria, who is resident at the domus magna, the Cave of Twisting 
 
 This House is a Mystery Cult, and the Mystery at the heart of the cult is the Enigma (see page 233).
 
-## house **Ex Miscellanea**
+## House **Ex Miscellanea**
 
 
 This is a large, diverse, and highly disorganized collection of magi. Though originally founded by Pralix as a rival to the Order of Hermes, this association was accepted as a House of its own. It accepts wizards of all kinds, some only nominally Hermetic, whose magic comes from many disparate traditions. Magi Ex Miscellanea (EKS mis-kel-LAH-nav-ah) are often called hedge wizards by their many detractors within the Order, although most can use Hermetic magic just as well as any other magus.
@@ -671,16 +671,16 @@ One of Pralix's closest allies was Colomen, from a tradition of warding wizards 
 
 Most magi would be hard-pressed to name any magus Ex Miscellanea they did not know personally including most members of the House.
 
-## house **F**lambeau
+## House **F**lambeau
 
 
-of Flambeau (flahm-BOH) specialize in fire magic, some study spells of simple annihilation as a more subtle alternative. Flambeau the Founder was known for his mastery of fire. while his apprentice, and the first Primus, Apromor, favored Perdo. Thus, both of these traditions are respected within the House. These aggressive and ferocious magi often cause trouble within the Order and frequently anger mundanes. However, their fearlessness and love of destruction make them invaluable when the Order requires the application of martial force.
+While most followers of Flambeau (flahm-BOH) specialize in fire magic, some study spells of simple annihilation as a more subtle alternative. Flambeau the Founder was known for his mastery of fire. while his apprentice, and the first Primus, Apromor, favored Perdo. Thus, both of these traditions are respected within the House. These aggressive and ferocious magi often cause trouble within the Order and frequently anger mundanes. However, their fearlessness and love of destruction make them invaluable when the Order requires the application of martial force.
 
 House Flambeau is a gathering of kindred spirits. While most followers of Flambeau believe in direct action and combat, there is also a strong tradition of honor and chivalry in the House, making them in many ways the Order's knights. This is particularly true under the current Primus, Garus, who leads the House from its domus magna of Castra Solis in the Provençal Tribunal (see Faith & Flame, page 67). The House's original domus magna was Val Negra, also in the Provençal Tribunal, but it has been lost in a regio for decades, if not centuries. Flambeau's second apprentice, Elaine, carried on his tradition of fire magic, and served as a Hoplite (see House Guernicus, next). She was also an important scholar and author, and wrote several texts that are still important today, including Ars Flambonis, a summa on Ignem (level 14, quality 12) that is peppered with anecdotes of the Founder and particularly popular within the House.
 
 Among its contemporary members, the Archmaga Geirlaug of Montverte covenant in the Normandy Tribunal is particularly notable, as much for her great age as her great power. She is rarely seen outside her tower these days, but is a master of Ignem and still has a firm grip on the direction of her covenant (see The Lion and The Lily, page 58).
 
-## house Guernicus
+## House Guernicus
 
 
 House Guernicus (GWAIR-neekuss) is a true lineage, all its members descended from Guernicus the Founder, who believed that the Order needed strictly enforced rules if it was to survive. Members of this House are the judges of the Order, investigating wrongdoing and bringing cases against those who transgress the Code of Hermes and the Peripheral Code. They believe the Order will collapse through internal conflict without their fierce stewardship. The House is sometimes known informally as House Quaesitor (KWAEsee-tor), as 'Quaesitor' is the title of those magi empowered by the Order to investigate crimes.
@@ -691,11 +691,9 @@ Ouaesitors are sometimes asked to investigate possible crimes, or to mediate dis
 
 The House has an important philosophical split between Traditionalists, who believe that the Code should be preserved as it has been since the Founding, and the Transitionalists, who believe that it should be revised to better suit modern realities. The Transitionalist movement started with Simprim of Guernicus in the mid-twelfth century, and seeks greater legal powers for the Quaesitores.
 
-
-
 The Prima of the House is the Archmaga Bilera, a maga with a long history of fine service to the House and, importantly, a largely neutral stance on the Traditionalist/ Transitionalist debate. She resides at the domus magna of the House. Magvillus, in the Roman Tribunal. Guernicus himself was a master of earth magics, and taught Bonisagus much of the knowledge incorporated into the Hermetic Art of Terram. A tradition of such magic remains in the House, and its most famous living representative is Ausculator, the leader of the covenant of Hedvosmos in the Theban Tribunal. Hedyosmos is located in a labvrinth of caves, and is rumored to possess a portal to the underworld, something that would be very appropriate to the tradition (see The Sundered Eagle, page 66).
 
-## **Nouse** Terbiton
+## **House** Jerbiton
 
 House Jerbiton (YARE-bih-tahn) is interested in the arts and the mundane world, and sometimes assumes the duty of keeping the Order on good terms with the nobility and Church. This inclination in its members often stems from a noble background—apprentices are sometimes taken from the aristocracy, and these magi maintain ties afterwards. Other members are taken from skilled artists and craftsmen who have The Gift. The Gentle Gift (page 82) is particularly common in this House.
 
@@ -709,7 +707,7 @@ Fortunata of Jerbiton was a powerful spirit master of the eleventh century who d
 
 In the present, Archmagus Mathieus of Constantinople, who is named for the city where he was trained but has lived in Paris for many years, is known for having given up the study of magic as not worth his time. For many years he seemed to have no purpose in life, but since the fall of Constantinople he has become much more active (see The Lion and the Lily, page 87). Archmagus Edward of Milton, on the other hand, is famed for heading the covenant of Schola Pythagoranis in Cambridge, which claims to have served as the nucleus for the new university in that town (see Art and Academe, page 112).
 
-## house Mercere
+## House Mercere
 
 The founder of this House lost his magical powers but remained involved in the Order. He assumed a non-magical role valuable to other magi — that of messenger. His followers continue to fulfill that role. All members of House Mercere (mare-KAY-ray, or mare-SARE in vulgar Latin), regardless of whether they possess The Gift, are officially recognized as magi of the Order. Even un Gifted Mercere spend 15 years in apprenticeship like other magi.
 
@@ -721,7 +719,7 @@ The most famous member of House Mercere, apart from the Founder himself, is Beli
 
 The Prima of House Mercere is Insatella, an unGifted Redcap who inherited the role from her father and skillfully manages the affairs of all Mercere from the domus magna at Harco, in the Roman Tribunal. As she does not have The Gift, she tries to stay out of Hermetic politics as far as possible, thus reinforcing the House's reputation for neutrality.
 
-## house Merinita
+## House Merinita
 
 This House is focused on the world of faeries, and its members tend to be just as strange as the creatures they study. Merinita (meh-rih-NEE-tah) magi frequently remain isolated, having little to do with the rest of the Order, except to defend faeries from the assaults of other magi. Those of this House eschew the merely mortal, and seek answers within the mysterious world of Arcadia.
 
@@ -737,7 +735,7 @@ Empire and ancient Greece, and is rumored to have been Initiated into secrets of
 
 House Merinita is a Mystery Cult, and magi of Merinita are all initiated into the Outer Mystery of Faerie Magic (see page 236).
 
-## Douse Tremere
+## House Tremere
 
 
 Members of House Tremere (trav-MARE-av or trav-MARE) emphasize the importance of judgment, strategy, and detailed planning. They believe in respect for superiors and in asserting authority over minions. Dignity is of the utmost concern.
@@ -754,7 +752,7 @@ The domus magna is Coeris, in the Transylvanian Tribunal, and the Prima is Poena
 
 
 
-## house Tutalus
+## House Tytalus
 
 
 The philosophy of Tytalus (TIE-tah-loos) magi is to master all forms of conflict. To this end, they promote innovation in all sorts of contests. They do not feel alive unless they are in a constant state of struggle, perpetually testing the strengths and weaknesses of others.
@@ -763,7 +761,7 @@ House Tytalus is almost the opposite of House Tremere. Where the Tremere believe
 
 In their never-ending search for conflict, the leaders of House Tytalus went too far in the 10th century, falling prey to demonic machinations. Those masters of intrigue arrogantly believed they could master the dark forces, but despite their skill, were unable to outwit Hell. The leaders were executed for their crime of diabolism, and House Tytalus has been distrusted ever since. This has not been helped by the fact that two magi, Buliste and Harpax, both claim to be Primus (or Prima, in Buliste's case). Buliste was the ninth Prima, but passed into Twilight. Harpax then claimed the right to be tenth Primus. However, Buliste emerged from Twilight, and refused to acknowledge his position; he, of course, refused to yield. The two are still fighting for control of the House, and of its domus magna, Fudarus, in the Normandy Tribunal (see The Lion and the Lily, page 41). The magi of House Tytalus choose sides, but most of them seem to do so simply for the sake of the challenge, and not because they have any real loyalty to one or the other.
 
-## **Nouse** Verditius
+## **House** Verditius
 
 
 Magi of House Verditius (ware-DEE-tee-oos) have unsurpassed skill at creating enchanted items, making them invaluable to other magi and non-Gifted persons.
@@ -780,10 +778,10 @@ The Primus of House Verditius is chosen by strict primogeniture: the eldest livi
 
 House Verditius is a Mystery Cult, and all members are initiated into the Outer Mystery of Verditius Magic (See page 240).
 
-## Covenants
+# Covenants
 
 
-ovenants are as important to the Order of Hermes as Houses, and magi can, and do, spend hours debating which is more important in the end.
+Covenants are as important to the Order of Hermes as Houses, and magi can, and do, spend hours debating which is more important in the end.
 
 Strictly speaking, a covenant is any group of magi who agree to a set of rules that go beyond the Code of Hermes, and that allow them to share resources and co-operate more easily. In the overwhelming majority of cases, covenants are formed by magi who want to live in the same place, sharing access to a Magic aura, buildings, and servants. Thus, the term 'covenant' has come to refer to a place where a number of magi live together, as well as to the group of magi making the agreement.
 
@@ -791,10 +789,10 @@ A typical covenant has about half a dozen magi as members, but they range from t
 
 The physical form of covenants varies, but towers and castles are common. In addition, covenants are normally located some distance from major mundane settlements, in large part because that is where most Magic auras are found.
 
-# The Gode of Hermes
+# The Code of Hermes
 
 
-he foundation of the Order of Hermes as an organization is the Code of Hermes. This short text, also called the Hermetic Oath because all members of the Order
+The foundation of the Order of Hermes as an organization is the Code of Hermes. This short text, also called the Hermetic Oath because all members of the Order
 
 recite and swear to it when they are admitted, sets the structure of the Order and fixes certain limits on what its members may do. It was drafted to give magi as much freedom as possible, while protecting them from each other.
 
@@ -802,10 +800,10 @@ The degree to which magi obey the Oath varies from magus to magus, covenant to c
 
 The Code of Hermes, first sworn by Bonisagus, can be found on the next page. Since he was the first to swear it, his name is recorded whenever it is written down. There is a slight difference between the Code that members of House Bonisagus swear and the Code that members of other Houses swear. The difference is marked.
 
-## The Peripheral Gode
+## The Peripheral Code
 
 
-he Peripheral Code consists of all decisions made in Tribunal since the foundation of the Order. Its formal authority derives from the clause in the Code requiring magi
+The Peripheral Code consists of all decisions made in Tribunal since the foundation of the Order. Its formal authority derives from the clause in the Code requiring magi
 
 to abide by the decisions made at Tribunal, but as every case is different later Tribunals are not bound by the decisions of earlier Tribunals. Indeed, there are contradictory precedents throughout the Peripheral Code, and few magi outside the Quaesitores are familiar with all of its details. Some points are widely known, however, and worth discussing in this section.
 
@@ -815,7 +813,7 @@ Much more information about the Peripheral Code and its enforcement can be found
 
 
 
-# The Code of Hermes
+# *The Code of Hermes*
 
 *"I, Bonisagus, hereby swear my everlasting loyalty to the Order of Hermes and its members.*
 
@@ -844,6 +842,10 @@ Much more information about the Peripheral Code and its enforcement can be found
 *In witness here of:* 
 
 
+
+# *Lex Hermae*
+
+
 *"Ego, Bonisagus, me ordinem sodalesque fideliter adiuvare me vivo hac re iuro.*
 
 *"Quemquam sodalem ordinis potentia magica non privabo vel privare conabor. quemquam sodalem ordinis non necabo vel necare temptabo, bello magorum iure effecto excepto. bellum magorum pugnam apertam magorum duorum esse, atque si in bello magorum interficiar, poenam nullam in magum qui me necaverit cadere intellego.*
@@ -864,10 +866,10 @@ Much more information about the Peripheral Code and its enforcement can be found
 
 *"Id hac re iuro in die tertia Piscium Geminorum in anno nonacentensimo quinto Arietis. dolor illis qui ut hanc fidem fallam inlicere conabuntur sit, et dolor mihi si inlecebra cecidero sit.*
 
-*II*
 
 
-# Depriving of Magical Power
+
+## Depriving of Magical Power
 
 This clause is often invoked to punish actions against a magus that fall short of physical harm, such as damaging his laboratory or killing grogs. The justification is that, by depriving a magus of the resources he needs to study, the miscreant is depriving him of some of the magical power he would otherwise enjoy. The core meaning of the clause, though, is that magi must not try to damage each other's Gift.
 
@@ -907,9 +909,9 @@ By contrast, the clause on apprentices is hardly enforced at all. Magi do not ha
 
 The special right of Bonisagus magi to take apprentices from other magi is upheld, however, as is the duty of Bonisagus magi to share their work.
 
-## Tribunals
+# Tribunals
 
-n origin, a Tribunal was any formal gathering of magi that made decisions by a majority vote of those present, and kept a record of those decisions. As the Order
+In origin, a Tribunal was any formal gathering of magi that made decisions by a majority vote of those present, and kept a record of those decisions. As the Order
 
 grew, however, the Peripheral Code rapidly provided more definition. The Tribunals of the Order are now the Grand Tribunal, and any other Tribunals formally established by it. In 1220, the regional Tribunals are the only ones so established.
 
@@ -934,9 +936,7 @@ For the borders and names of the Regional Tribunals, see the map on page 494. No
 # The Order and Society
 
 
-ost Hermetic magi want society to leave them alone to get on with their research, and in return they are perfectly happy to leave society alone. Life is, of course,
-
-not that simple, and magi are often forced to interact with many parts of society. Some even want to do so.
+Most Hermetic magi want society to leave them alone to get on with their research, and in return they are perfectly happy to leave society alone. Life is, of course, not that simple, and magi are often forced to interact with many parts of society. Some even want to do so.
 
 ## Peasants
 
@@ -956,7 +956,7 @@ Individual clergy, however, run the full range of attitudes, from self-righteous
 
 Tribunals tend to treat interfering with the Church as a very serious crime, simply because the Church is the only organization with the potential to wipe out the entire Order. Friendly, or at least neutral, relations are encouraged; magi who launch attacks on the Church can expect to be renounced and Marched before they can inspire a Crusade.
 
-## Dobility
+## Nobility
 
 Most nobles are aware of the existence of the Order of Hermes, and all local nobles will quickly become aware of a standard covenant, with its castle and armed troops. Most nobles also have some vague recollection that these powerful wizards aren't allowed to swear fealty to them, or serve them as court wizards, and thus they apply a bit more subtlety in trying to forge relationships with their powerful new neighbors.
 
@@ -964,7 +964,7 @@ Again, individual attitudes run the full gamut, from eager, sycophantic fawning 
 
 The Peripheral Code has tended to rule that deals with nobles that don't involve service or permanent magical aid are not a violation of the clause against interfering with mundanes. This is only a tendency, though, and covenants with extensive mundane involvement need to pay close attention to their Hermetic relationships as well, lest they find themselves isolated and condemned at Tribunal.
 
-## **Oities**
+## **Cities**
 
 Most covenants and magi stay away from cities. In a city, The Gift is a major handicap, and most cities have Dominion auras that interfere strongly with magical research. On the other hand, cities contain scholars, merchants, and all kinds of mundane resources, and even simple magic can support an effective trade, so some magi, particularly of House Jerbiton, enjoy living there.
 
@@ -997,7 +997,7 @@ More information about non-Hermetic wizards can be found in *Hedge Magic Revised
 ## Character Types
 
 
-layer characters in Ars Magica fall into three categories, depending on their role in the story. Magi are members of the Order of Hermes, the powerful wizards around whom
+Player characters in Ars Magica fall into three categories, depending on their role in the story. Magi are members of the Order of Hermes, the powerful wizards around whom
 
 the game centers. Companions are important characters who are not magi, while grogs are minor characters.
 
@@ -1017,7 +1017,7 @@ Although each player has a magus and a companion, they are almost never played t
 
 Companions should generally not have The Gift, unless you intend to play through apprenticeship so that they become magi at some point.
 
-## Muthic Companions
+## Mythic Companions
 
 You may find, when playing Ars Magica, that you would like to play a character who is comparable in power to a Hermetic magus without actually playing a member of the Order of Hermes. There are many individuals in Mythic Europe who have strange and potent abilities, including non-Hermetic wizards, holy hermits and supernaturally strong warriors. In Ars Magica such characters are referred
 
@@ -1039,7 +1039,7 @@ Grogs are often generated from the grog templates, starting on page 31. They may
 
 Minor Virtues. In addition, grogs should not have Story Flaws, as they are supposed to be minor characters. Finally, grogs can never have The Gift. A character with The Gift is too important to be a grog.
 
-## Character Basics
+# Character Basics
 
 This section outlines the way that the game rules describe characters.
 
@@ -1047,13 +1047,9 @@ This section outlines the way that the game rules describe characters.
 
 All Ars Magica characters have a Size score. However, almost all adult human characters have the same Size score, 0, as this represents an average adult human. Every three points of Size represents a ten-fold increase or decrease in mass, and adult humans can range from Size -2 to Size +2, if they take appropriate Virtues or Flaws. The effects of this are described in the Virtues chapter, page 61. Size is more important for non-human creatures, and is discussed in detail in the Bestiary chapter, page 426.
 
-## Virtues and Plams
+## Virtues and Flaws
 
-Virtues and Flaws are features of the character that are not shared by most people; special benefits in the case of Virtues, and disadvantages or hooks into stories for Flaws. They cover supernatural abilities, including The Gift, enemies,
-
-
-
-aptitudes, as well as much more. All Virtues and Flaws are listed in their own chapter, starting on page 61.
+Virtues and Flaws are features of the character that are not shared by most people; special benefits in the case of Virtues, and disadvantages or hooks into stories for Flaws. They cover supernatural abilities, including The Gift, enemies, aptitudes, as well as much more. All Virtues and Flaws are listed in their own chapter, starting on page 61.
 
 ## **Characteristics**
 
@@ -1111,7 +1107,7 @@ Personality Traits are a short description of important features of your charact
 
 For grogs, they are more significant. As grogs are often shared between players, or at least played rarely (see Troupe-Style Roleplaying on page 528), the numbers attached to Personality Traits can be used as a concrete guide to playing the character. They can be positive or negative, and normally range between +3 and -3, although there are exceptions. A Minor Personality Flaw (see later) would normally be matched by a Personality Trait of +3 or -3, while a Major Personality Flaw, which a grog would not normally have, would justify a Personality Trait of +6 or -6. 'Loyal' is a particularly important Trait, as it reflects the grog's attachment to the covenant, while 'Brave' is just as important for warrior grogs. A third Trait should be something distinctive about that grog. You may decide to roll a grog's Personality Traits when you are unsure how he would react, or you may treat the numbers simply as a guide to roleplaying. If you do roll them, add nothing but the Personality Trait, and roll a stress die. Suggested Ease Factors are found on the table
 
-## Changing Personality Traits
+### Changing Personality Traits
 
 Personality Traits can only be changed by the player who controls the character, and only between game sessions. However, they can be changed freely, possibly to reflect a series of exceptional rolls, or to reflect life events. For example, a cowardly grog who stands his ground and kills an impressive monster might well become braver.
 
@@ -1152,7 +1148,7 @@ Important characters have a Confidence Score and Confidence Points. This include
 
 There is no limit to the number of Confidence Points that a character can have.
 
-## Using Confidence
+### Using Confidence
 
 A player may spend Confidence Points on most rolls to get +3 to the total per point spent. He may decide to spend the point after the dice are rolled and the putative result of the action is known. He may not spend Confidence on a roll that botched, but he may spend it on a roll of zero which was not a botch. A player may spend any number of points up to, but not exceeding, the character's Confidence Score.
 
@@ -1160,7 +1156,7 @@ Once a Confidence Point is spent, it is gone forever. Confidence Points are not 
 
 Confidence may not be spent on rolls which represent a whole season's activities, such as rolls for studying from vis.
 
-## Getting New Confidence Points
+### Getting New Confidence Points
 
 The storyguide for a session hands out Confidence Points to characters at the end of the session. To qualify for Confidence Points, the character must have been played for a significant length of time during that session, and must have made a contribution to the session.
 
@@ -1174,50 +1170,48 @@ Characters should be awarded one Confidence Point for each of the following that
 
 Typical characters should gain two or three Confidence Points per session.
 
-## Raising Confidence Score
+### Raising Confidence Score
 
 A character's Confidence Score can only be increased by long-term story events which greatly increase the character's self-confidence and self-reliance. As a baseline, the fifteen grueling years of a Tytalus apprenticeship are enough to raise a character's Confidence Score by one point. Raises in play should follow on events of a similar magnitude and duration.
 
-## Character Templates
+# Character Templates
 
 
-he quickest way to get started playing **Ars Magica** is to choose one of the characters presented in this section. All are fully generated, and just need a name
-
-and a bit of background to fit them into your saga. The second quickest way is to customize one of these characters. Finally, you can use the Detailed Character Creation rules, starting on page 43, to build your own character from scratch.
+The quickest way to get started playing **Ars Magica** is to choose one of the characters presented in this section. All are fully generated, and just need a name and a bit of background to fit them into your saga. The second quickest way is to customize one of these characters. Finally, you can use the Detailed Character Creation rules, starting on page 43, to build your own character from scratch.
 
 ## **Format**
 
 Each template is presented in the same format, described below.
 
-Characteristics: A list of the Characteristics and values. If the character has any aging points in any Characteristics, these are shown in parentheses after the Characteristic value. (See Long Term Events, page 391, for aging rules.) Size: The character's size.
+**Characteristics:** A list of the Characteristics and values. If the character has any aging points in any Characteristics, these are shown in parentheses after the Characteristic value. (See Long Term Events, page 391, for aging rules.) Size: The character's size.
 
-Age: The character's actual age, with the apparent age in parentheses. (See Long Term Events, page 391, for aging rules and apparent age.)
+**Age:** The character's actual age, with the apparent age in parentheses. (See Long Term Events, page 391, for aging rules and apparent age.)
 
-Decrepitude: The character's number of Decrepitude points, with the number of excess Aging Points in parentheses. These are gained from aging, and are described on page 391.
+**Decrepitude:** The character's number of Decrepitude points, with the number of excess Aging Points in parentheses. These are gained from aging, and are described on page 391.
 
-Warping Score: The character's Warping Score, with the number of excess Warping Points in parentheses. Warping Points measure a character's exposure to magic, and have bad effects if you gain too many. See Warping, on page 389, for more details.
+**Warping Score:** The character's Warping Score, with the number of excess Warping Points in parentheses. Warping Points measure a character's exposure to magic, and have bad effects if you gain too many. See Warping, on page 389, for more details.
 
 Confidence Score: The character's Confidence Score, with the number of Confidence Points in parentheses. Grogs don't have Confidence, so this line is omitted.
 
-Virtues and Flaws: All the character's Virtues and Flaws. These are all described in the Virtues and Flaws chapter, starting on page 61. The first Virtue listed is The Gift, if the character has it. The next is the character's Social Class. Then comes all other Major Virtues, Minor Virtues, Major Flaws, and Minor Flaws, each arranged alphabetically.
+**Virtues and Flaws:** All the character's Virtues and Flaws. These are all described in the Virtues and Flaws chapter, starting on page 61. The first Virtue listed is The Gift, if the character has it. The next is the character's Social Class. Then comes all other Major Virtues, Minor Virtues, Major Flaws, and Minor Flaws, each arranged alphabetically.
 
 **Personality Traits:** The character's Personality Traits, and scores.
 
 **Reputations**: Details of the character's Reputations, if any.
 
-Combat: The combat statistics for modes of attack and weapons that the character uses often.
+**Combat:** The combat statistics for modes of attack and weapons that the character uses often.
 
-Soak: The character's Soak score.
+**Soak:** The character's Soak score.
 
-Fatigue levels: A listing of the character's Fatigue levels and penalties, which represent how tired the character is. Fatigue is described on page 403.
+**Fatigue levels:** A listing of the character's Fatigue levels and penalties, which represent how tired the character is. Fatigue is described on page 403.
 
-Wound Penalties: Shows the penalties for wounds of varying severity, with the number of points of damage required to inflict a wound of that severity shown in parentheses.
+**Wound Penalties:** Shows the penalties for wounds of varying severity, with the number of points of damage required to inflict a wound of that severity shown in parentheses.
 
-Abilities: All of the character's Abilities, in alphabetical order. The format is Ability X(Z) (specialization), where X is the score in the Ability and Z is the number of experience points acquired towards the next level. If the Ability is written X+Y(Z), X is the score in the Ability, Y is a fixed bonus from a Virtue (usually Puissant Ability), and Z is the number of experience points acquired towards the next level.
+**Abilities:** All of the character's Abilities, in alphabetical order. The format is Ability X(Z) (specialization), where X is the score in the Ability and Z is the number of experience points acquired towards the next level. If the Ability is written X+Y(Z), X is the score in the Ability, Y is a fixed bonus from a Virtue (usually Puissant Ability), and Z is the number of experience points acquired towards the next level.
 
-Arts: The character's scores in the Hermetic Arts, in the format Art X (Z), where X is the score and Z the number of experience points acquired towards the next level. If the Art is written X+Y (Z), X is the score in the Ability, Y is a fixed bonus from a Virtue (usually Puissant Art), and Z is the number of experience points acquired towards the next level. The Arts are named according to the standard abbreviations, described on page 206. Non-magi have no scores in the Arts, and this section is omitted.
+**Arts:** The character's scores in the Hermetic Arts, in the format Art X (Z), where X is the score and Z the number of experience points acquired towards the next level. If the Art is written X+Y (Z), X is the score in the Ability, Y is a fixed bonus from a Virtue (usually Puissant Art), and Z is the number of experience points acquired towards the next level. The Arts are named according to the standard abbreviations, described on page 206. Non-magi have no scores in the Arts, and this section is omitted.
 
-Twilight Scars: Long lasting effects of Wizard's Twilight. Only applicable to Hermetic magi, and described in detail on page 229.
+**Twilight Scars:** Long lasting effects of Wizard's Twilight. Only applicable to Hermetic magi, and described in detail on page 229.
 
 **Equipment**: The character's stuff.
 
@@ -1225,14 +1219,14 @@ Twilight Scars: Long lasting effects of Wizard's Twilight. Only applicable to He
 
 Spells Known: A list of all the Hermetic spells the character knows. Obviously, this is omitted for non-magi. The spells are in the format: Spell Name (TeFo X/+Y) where TeFo is the Technique and Form of the spell, X is the spell level, and Y is the magus's Casting Total with the spell. If the magus has a mastery score in the spell, this is listed as Mastery Z, outside the parentheses, with the Mastery abilities listed (see the Magic chapter, page 225). If the Casting Total is higher than the spell level, the magus can cast it easily. If it's significantly lower, he might have problems. The spells are described in the Spells chapter, from page 301.
 
-Customization Notes: Some notes on the character, and what can easily be changed if you want to customize it.
+**Customization Notes:** Some notes on the character, and what can easily be changed if you want to customize it.
 
 
 ## Grog Templates
 
 These templates are intended for use as grogs. You could expand one into a companion fairly easily, though.
 
-## The Berserker
+### The Berserker
 
 Characteristics: Int -2, Per -1, Pre -1, Com -1, Str +3, Sta +2, Dex +2, Qik +1
 
@@ -1265,7 +1259,7 @@ Encumbrance: 0 (3)
 
 Customization Notes: The Berserker's Large Virtue could be swapped out for an Affinity or Puissant Ability with Great Weapons. In addition he could have another Flaw, and take one of those Virtues to balance it. Other than that, he is young, so most of his Abilities are dictated by the concept. The Abilities at 1 or 2 can be swapped around, though.
 
-## The Grizzled Veteran
+### The Grizzled Veteran
 
 Characteristics: Int 0, Per 0, Pre -1, Com -1, Str 0, Sta + 1 (1), Dex + 2 (2), Qik + 2 (2)
 
@@ -1305,7 +1299,7 @@ Customization Notes: The Grizzled Veteran has been around the covenant for years
 
 number of Virtues if desired, and his Ability scores can be moved around. The high set should probably be kept in combat, but he could specialize in a different sort of combat (you would have to recalculate Combat Totals), and the secondary abilities can be moved around at will.
 
-## The Lunter
+### The Hunter
 
 Characteristics: Int 0, Per +3, Pre -2, Com -2, Str 0, Sta +1, Dex +2, Qik +2
 
@@ -1333,7 +1327,7 @@ Encumbrance: 2 (2)
 
 Customization Notes: The hunter is extremely useful in the wilderness, and can guide the party as well as take part in missile combat. He can also help to support the covenant by bringing in food. He doesn't work well in social situations, though. Note that the character's Bows score uses the bonus XP from Warrior, and thus cannot go below 4, but otherwise the values of his Abilities, apart from his Native Language, can be swapped freely.
 
-## The Specialist
+### The Specialist
 
 Characteristics: Int –1, Per 0, Pre –1, Com –4, Str +2, Sta +2, Dex +3, Qik +2
 
@@ -1355,7 +1349,7 @@ Encumbrance: 2 (4)
 
 Customization Notes: The Specialist can easily focus on a different Ability, although you might want to swap the Characteristics around as well if he does, and probably change Warrior for one of the other experience-point-granting Virtues, such as Educated or Well-Traveled. You can change Personality Traits freely, and assign the Ability scores to other Abilities. Similarly, the Flaws can be changed without changing the central concept of the character.
 
-## The Standard Soldier
+### The Standard Soldier
 
 Characteristics: Int -1, Per 0, Pre 0, Com 0, Str +1, Sta +1, Dex +2, Qik +2
 
@@ -1383,7 +1377,7 @@ Encumbrance: 3 (4)
 Customization Notes: The standard soldier's Weakness can be chosen freely, and he makes a good base for creating a slightly non-standard grog, by adding Virtues and Flaws and rearranging his Abilities.
 
 
-## The Tough Guy
+### The Tough Guy
 
 Characteristics: Int -1, Per 0, Pre +1, Com -1, Str +1, Sta +3, Dex 0, Qik +1
 
@@ -1420,7 +1414,7 @@ Customization Notes: The Tough Guy works well as a defender for a magus, because
 
 These templates are for central, but nonmagus, characters.
 
-## The Female Scholar
+### The Female Scholar
 
 Characteristics: Int +5, Per +1, Pre +1, Com +2, Str -1, Sta -1, Dex 0, Qik +1
 
@@ -1452,7 +1446,7 @@ Encumbrance: 0 (0)
 
 Customization Notes: The female scholar has estranged herself from her family by refusing to marry a suitable man, and instead pursuing her bizarre interest in academia. She has probably come to the covenant because it is the only place where she can study freely, and she wants access to the covenant library if she doesn't already have it. Her current Virtues are very focused on scholarship, so changing one or two for Virtues that emphasize a different aspect of her life would be fine. Similarly, the emphasis of her studies could be moved to a different subject, as long as she still has a score of at least one in Artes Liberales, so that she is literate.
 
-## The Bnight
+### The Knight
 
 Characteristics: Int 0, Per 0, Pre +1, Com +1, Str +1, Sta +1, Dex +2, Qik +2
 
@@ -1490,7 +1484,7 @@ Encumbrance: 2 (3)
 
 Customization Notes: The Knight's Wealthy Virtue gives him a lot of experience points, and so cannot be changed without effectively recreating the character from scratch. Oath of Fealty can be swapped for True Love and still be appropriate. In fact, both are so appropriate to a knight that the troupe may allow you to take both, as the character can still take three more points of Flaws. Note that the character regards himself as superior to just about anyone, unless you change the Major Personality Flaw, and doesn't have the Abilities to interact well with equals.
 
-## The Priest
+### The Priest
 
 Characteristics: Int +1, Per +2, Pre +1, Com +2, Str 0, Sta 0, Dex -1, Qik 0
 
@@ -1524,7 +1518,7 @@ Customization Notes: The Priest could take another two Minor Flaws and correspon
 
 
 
-## The Rogue
+### The Rogue
 
 Characteristics: Int 0, Per +1, Pre 0, Com +1, Str -1, Sta 0, Dex +4, Qik +4
 
@@ -1552,7 +1546,7 @@ Encumbrance: 0 (0)
 
 Customization Notes: The Rogue's Dark Secret can be almost anything, but is most likely to be a particularly vile crime that he committed in the past, and now, probably, feels guilty about. The compulsion should be to commit some sort of minor criminal act, such as thievery, or to take risks to prove he can. This character is fundamentally fast and stealthy, although he can turn on the charm to a certain extent. By moving the numbers in Characteristics and Abilities, you can turn him into a charmer with some ability in stealth. Don't forget to change the Great Characteristic and Puissant Ability Virtues if you do this.
 
-## The Witch
+### The Witch
 
 Characteristics: Int +2, Per +2, Pre +1, Com +1, Str -1, Sta 0, Dex +2, Qik 0
 
@@ -1599,7 +1593,7 @@ Customization Notes: The Witch's magical powers are far, far weaker than a Herme
 
 These templates are of a stereotypical member of each House, 25 years old and just out of apprenticeship. The asterisk in the Virtues list indicates the Virtue that the magus gets free from his House. See page 46.
 
-Bjornaer
+### Bjornaer
 
 Characteristics: Int +3, Per 0, Pre 0, Com –1, Str 0, Sta +1, Dex 0, Qik +1
 
@@ -1657,7 +1651,7 @@ Customization Notes: The Bjornaer is much more comfortable with animals than wit
 
 human. The combination of Blatant Gift and Inoffensive to Animals means that she gets along better with animals than with people. Ways of the Forest should be changed to a terrain appropriate to the actual heartbeast; a wolf is assumed for the example. Both Major Flaws can be changed freely, and while Deficient Form (Ignem) is very common in House Bjornaer, there is no particular reason for your character to have it. Note that Quiet and Subtle Magic allow the magus to cast in his heartbeast form without any penalty.
 
-## Bonisagus
+### Bonisagus
 
 Characteristics: Int +5, Per 0, Pre 0, Com +1, Str 0,
 
@@ -1704,7 +1698,7 @@ Purification of the Festering Wounds (CrCo 20/+16)
 
 Customization Notes: The Bonisagus is most likely Driven to make some great discovery in magic. He or she is a so-called 'lab rat', a magus happier in his laboratory than in the outside world. However, the favors he owes and his drive to discover are likely to push him out. Similarly, enchanted items are very useful to him, but he is bad at making them for himself. That also tends to drive him into stories. This concept is built around the Virtues and the Driven Flaw; the other Flaws can be changed easily. He can also take two additional Minor Flaws, or make Driven Major, and take two additional Minor Virtues to balance them. Similarly, the Arts in which the character has an Affinity can be changed, but that also requires changing the spells he knows.
 
-## **C**riamon
+### Criamon
 
 Characteristics: Int +3, Per 0 Pre +2, Com -3, Str 0, Sta + 2, Dex 0, Qik + 1
 
@@ -1746,7 +1740,7 @@ Circular Ward Against Demons (ReVi 20/+16)
 
 Customization Notes: The Criamon does not have her maximum allowance of Flaws, so could take an additional Major Flaw or three Minor Flaws, with corresponding Virtues, if desired. Her Charm and Folk Ken scores could be moved into other Abilities available in the first five years of life (see the Detailed Character Creation rules, page 43), possibly also moving her good Presence score as well.
 
-## **Ex** Miscellanea
+### Ex Miscellanea
 
 Characteristics: Int +3, Per -Pre -1, Com 0, Str +4, Sta +4, Dex -2, Qik -2
 
@@ -1784,7 +1778,7 @@ Wall of Protecting Stone (CrTe 25/+35) The Crystal Dart (Mu(Re)Te 10/+27) Rock o
 
 
 
-#### Guernicus
+### Guernicus
 
 Characteristics: Int +3, Per + Pre +1, Com 0, Str 0, Sta 0, Dex –2, Qik 0
 
@@ -1822,7 +1816,7 @@ Peering Into the Mortal Mind (InMe 30/+21)
 
 Customization Notes: If the Guernicus lies (says something she believes to be untrue as if it were true), she cannot use any magic until the sun next rises or sets. Anyone who wants to tell a lie in her presence soon after she casts a spell (within two minutes or so) must make a relevant Personality Trait check against an Ease Factor equal to the magnitude of the spell cast. If the check fails, he cannot bring himself to lie, although he can remain silent. The Guernicus could take four more points of Flaws, and corresponding Virtues.
 
-## Terbiton
+### Jerbiton
 
 Characteristics: Int +3, Per + Pre +1, Com +1, Str 0, Sta 0, Dex +1, Qik 0
 
@@ -1869,7 +1863,7 @@ Illusion of the Shifted Image (ReIm 10/+16) Wizard's Sidestep (ReIm 10/+16)
 Customization Notes: The Jerbiton took Puissant Music as his free House-related Virtue. He is designed as a social creature who sees himself as an artist in music and magic. He can take up to three points more of Flaws, with the corresponding Virtues. Note that he has the Gentle Gift, and thus can interact with mundanes without any penalty.
 
 
-## Mercere
+### Mercere
 
 Characteristics: Int +2, Per 0 Pre 0, Com -1, Str 0, Sta +2, Dex +1, Qik +1
 
@@ -1911,7 +1905,7 @@ Pull of the Skybound Winds (CrAu 30/+26) Wings of the Soaring Wind (Cr(Re)Au 30/
 
 Customization Notes: The Mercere can take another three points of Flaws and as many points of Virtues. He is quite capable of traveling alone, and probably prefers to do so. By moving scores from Hunt and Stealth into social Abilities such as Charm, he can be made more likely to travel with a group.
 
-## Merinita
+### Merinita
 
 Characteristics: Int +3, Per +1 Pre +1, Com +2, Str -1, Sta -1, Dex -1, Qik -1
 
@@ -1966,7 +1960,7 @@ The Call to Slumber (ReMe 10/+9)
 
 Customization Notes: The Merinita can take another three points of Flaws and as many Virtues. The type of Strong Faerie Blood can also be changed easily. They might look younger than 25, due to the influence of Strong Faerie Blood, but need not.
 
-## Tremere
+### Tremere
 
 Characteristics: Int +3, Per -2, Pre 0, Com 0, Str 0, Sta +2, Dex 0, Qik +1
 
@@ -2034,7 +2028,7 @@ Customization Notes: The Tremere can take three more points of Flaws, and a simi
 
 Aquam received an additional 33 experience points (from Auram, Ignem and Terram), for a final total of 39 and a score of 8 (3), and each of the other Arts received an additional 25 experience points, for a final total of 46 and a score of 9 (1).
 
-## **Tytalus**
+### Tytalus
 
 Characteristics: Int +4, Per –1, Pre 0, Com 0, Str 0, Sta +2, Dex +1, Qik +1
 
@@ -2091,7 +2085,7 @@ Aura of Rightful Authority (ReMe 20+16) Scent of Peaceful Slumber (ReMe 20/+16)
 Customization Notes: The Tytalus can take up to three more points of Flaws, and a similar number of Virtues.
 
 
-## **Verditius**
+### Verditius
 
 Characteristics: Int +3, Per 0, Pre 0, Com 0, Str -3, Sta + 1, Dex + 1, Qik 0
 
@@ -2161,10 +2155,9 @@ Hands of the Grasping Earth (Re(Mu)Te 15/+21)
 
 Customization Notes: The Verditius can take another three Minor Flaws, or one Major, and balancing Virtues. In addition, her Craft Abilities can be changed for different crafts without changing the concept much. Finally, not everyone descended from dwarfs is as small as they are, so that Flaw could be swapped for others without affecting the character on a fundamental level.
 
-## Detailed Character Creation
+# Detailed Character Creation
 
-
-away from the diabolism practiced by his parens. A companion might be a woodsman with supernatural powers, a Muslim scholar exploring western Europe, or a werewolf seeking a cure for his curse. A grog can be any type of warrior, or a member of the covenant staff, such as a washerwoman, butler, or stablehand.
+The first step in creating a new character from scratch is creating a character concept. Your magus might be a fire wizard, a magical spy, or a magus desperate to get away from the diabolism practiced by his parens. A companion might be a woodsman with supernatural powers, a Muslim scholar exploring western Europe, or a werewolf seeking a cure for his curse. A grog can be any type of warrior, or a member of the covenant staff, such as a washerwoman, butler, or stablehand.
 
 ## Starting Character Age
 
@@ -2214,7 +2207,7 @@ Grogs: Up to three Minor Flaws, and the same number of Minor Virtues.
 
 Companions and Magi: Up to ten points of Flaws, and the same number of points of Virtues.
 
-- **4.** Buy Characteristics. Start with 7 points. See page 27 or 48.
+- 4. Buy Characteristics. Start with 7 points. See page 27 or 48.
 - 5. Early Childhood. Seventy five experience points in Native Language (normally granting a score of 5), and 45 experience points spread between Area Lore (for the place or places the character is growing up), Athletics, Awareness, Brawl, Charm, Folk Ken, Guile, Living Language (other than the character's native language), Stealth, Survival, and Swim.
 - 6. Later Life. 15 experience points per year (until apprenticeship for magi), spread between any Abilities the character can learn, based on the Virtues and Flaws he has. Characters with the Wealthy Major Virtue get 20 experience points per year, those with the Poor Major Flaw get 10.
 - 7. Hermetic Magi Only:
@@ -2236,7 +2229,7 @@ Grogs should all have a score in Loyal.
 
 Warriors should all have a score in Brave.
 
-- **9. Reputation**. If the character has a Virtue or Flaw granting a Reputation, decide on the reputation.
+- 9. Reputation. If the character has a Virtue or Flaw granting a Reputation, decide on the reputation.
 - 10. Companions and Magi Only: Confidence. Your character starts with a Confidence Score of 1 and 3 Confidence Points, unless he has a Virtue or Flaw modifying this.
 - 11. Equipment. Give your character equipment he could reasonably have acquired and retained.
 
@@ -2249,14 +2242,15 @@ If the character is not a magus, but is intended to be a central character in th
 
 The next step in creating a Hermetic magus is choosing his House. The twelve Houses are described starting on page 13, and summarized in the nearby table. Membership in a House grants a particular benefit at character creation, which is listed in the table. A magus can only be a member of one House.
 
-## Example: Darius of Flambeau
+> ### Example: Darius of Flambeau
+>
+> Niall is creating an experienced magus for use in a new saga. He decides on the name 'Darius', and his concept is a scary-looking magus who specializes in Perdo magic and in hunting down the enemies of the Order. Looking at the Houses, Flambeau and Tytalus both look appropriate, but Puissant Art (Perdo) fits the concept better than Self-Confident, so he goes with House Flambeau. Darius is now Darius of Flambeau.
+>
 
-Niall is creating an experienced magus for use in a new saga. He decides on the name 'Darius', and his concept is a scary-looking magus who specializes in Perdo magic and in hunting down the enemies of the Order. Looking at the Houses, Flambeau and Tytalus both look appropriate, but Puissant Art (Perdo) fits the concept better than Self-Confident, so he goes with House Flambeau. Darius is now Darius of Flambeau.
-
-## Virtues and Flaws
+# Virtues and Flaws
 
 
-s many Virtues and Flaws deal with the character's place in the story, the rules for them differ the most between the character types.
+As many Virtues and Flaws deal with the character's place in the story, the rules for them differ the most between the character types.
 
 All characters must take a Social Status. There are a number of default Social Statuses that cost no points; see page 65. In particular, all Hermetic magi take the Social Status Hermetic Magus, which costs no points. No other characters may take this Status, because they are not, after all, Hermetic magi.
 
@@ -2282,28 +2276,30 @@ Most Virtues and Flaws are not necessary for any concept, even if the name sugge
 
 There are two exceptions. One is that a character must have a Virtue to buy Academic, Arcane, Martial, or Supernatural Abilities at character creation. Educated, Arcane Lore, and Warrior, respectively, are the easiest options for the first three groups, although other Virtues (and some Flaws) also grant access to some of these Abilities. In most cases, access to each Supernatural Ability is granted by a separate Virtue.
 
-The second concerns social status. If you want your character to be a knight, with all the social standing that implies, you must take the Knight Social Status. On the other hand, you do not need
+The second concerns social status. If you want your character to be a knight, with all the social standing that implies, you must take the Knight Social Status. On the other hand, you do not need that Virtue to be an armored and mounted warrior (although you would need Warrior or another Virtue that gives you access to Martial Abilities). In most cases, social status does not define the way that other members of the covenant see you, so if your character is not concerned about wider society, you do not need to worry about this.
 
-# hermetic houses Summary
+Finally, a lot of the Virtues and Flaws are very specialized, to support particular types of character found in Mythic Europe. You can safely ignore these, until you decide that you want to play that sort of character.
+
+# Hermetic Houses Summary
 
 The Hermetic Houses are described in more detail starting on page 12. Members of each House get a particular benefit at character creation, listed in the following table.
 
-| House             | Түре         | DESCRIPTION                                                       | Benefit                                                                                                                                                                                                                                                |
-|-------------------|--------------|-------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Bjornaer          | Mystery Cult | Magi who are animals<br>as well as humans                         | Heartbeast (page 85), beginning score of 1 in Heartbeast Ability.                                                                                                                                                                                      |
-| Bonisagus         | True Lineage | Divided between researchers and politicians                       | Puissant Magic Theory (researchers) or Puissant Intrigue (politicians).                                                                                                                                                                                |
-| Criamon           | Mystery Cult | Mystical philosophers and masters of riddles                      | The Enigma (page 78), beginning score of 1 in Enigmatic Wisdom.                                                                                                                                                                                        |
-| Ex<br>Miscellanea | Societas     | Many magi from<br>different traditions,<br>not all fully Hermetic | A free Minor Hermetic Virtue, a free Major non-Hermetic Virtue, and a compulsory Major Hermetic Flaw, representing the particular tradition within the House.  These Virtues and Flaws are in addition to the normal allowance.                        |
-| Flambeau          | Societas     | Martial masters of fire and destruction                           | Puissant Perdo or Puissant Ignem.                                                                                                                                                                                                                      |
-| Guernicus         | True Lineage | Investigators, lawyers, and mediators                             | Hermetic Prestige.                                                                                                                                                                                                                                     |
-| Jerbiton          | Societas     | Nobles, scholars, and artists                                     | A Minor Virtue relating to scholarship arts, or mundane interaction.                                                                                                                                                                                   |
-| Mercere           | True Lineage | Messengers of the Order                                           | Puissant Creo or Puissant Muto.<br>Note that unGifted Redcaps are<br>created as companions, and take<br>the Redcap Major Status Virtue.<br>Gifted Redcaps take the Hermetic<br>Magus Status Virtue, and do not<br>take the Redcap Major Status Virtue. |
-| Merinita          | Mystery Cult | Faerie magi                                                       | Faerie Magic (page 79), beginning score of 1 in Faerie Magic. Any magus in this House without a faerie-related Virtue or Flaw has a Warping Point, inflicted to allow initiation into the Mystery.                                                     |
-| Tremere           | True Lineage | A hierarchical and disciplined House                              | Minor Magical Focus (certamen).                                                                                                                                                                                                                        |
-| Tytalus           | Societas     | Magi who thrive on conflict of any sort                           | Self Confident.                                                                                                                                                                                                                                        |
-| Verditius         | Mystery Cult | Crafters of enchanted items                                       | Verditius Magic (page 114).                                                                                                                                                                                                                            |
+| House          | Түре         | DESCRIPTION                                                 | Benefit                                                      |
+| -------------- | ------------ | ----------------------------------------------------------- | ------------------------------------------------------------ |
+| Bjornaer       | Mystery Cult | Magi who are animals as well as humans                      | Heartbeast (page 85), beginning score of 1 in Heartbeast Ability. |
+| Bonisagus      | True Lineage | Divided between researchers and politicians                 | Puissant Magic Theory (researchers) or Puissant Intrigue (politicians). |
+| Criamon        | Mystery Cult | Mystical philosophers and masters of riddles                | The Enigma (page 78), beginning score of 1 in Enigmatic Wisdom. |
+| Ex Miscellanea | Societas     | Many magi from different traditions, not all fully Hermetic | A free Minor Hermetic Virtue, a free Major non-Hermetic Virtue, and a compulsory Major Hermetic Flaw, representing the particular tradition within the House.  These Virtues and Flaws are in addition to the normal allowance. |
+| Flambeau       | Societas     | Martial masters of fire and destruction                     | Puissant Perdo or Puissant Ignem.                            |
+| Guernicus      | True Lineage | Investigators, lawyers, and mediators                       | Hermetic Prestige.                                           |
+| Jerbiton       | Societas     | Nobles, scholars, and artists                               | A Minor Virtue relating to scholarship arts, or mundane interaction. |
+| Mercere        | True Lineage | Messengers of the Order                                     | Puissant Creo or Puissant Muto.<br>Note that unGifted Redcaps are created as companions, and take the Redcap Major Status Virtue. Gifted Redcaps take the Hermetic Magus Status Virtue, and do not take the Redcap Major Status Virtue. |
+| Merinita       | Mystery Cult | Faerie magi                                                 | Faerie Magic (page 79), beginning score of 1 in Faerie Magic. Any magus in this House without a faerie-related Virtue or Flaw has a Warping Point, inflicted to allow initiation into the Mystery. |
+| Tremere        | True Lineage | A hierarchical and disciplined House                        | Minor Magical Focus (certamen).                              |
+| Tytalus        | Societas     | Magi who thrive on conflict of any sort                     | Self Confident.                                              |
+| Verditius      | Mystery Cult | Crafters of enchanted items                                 | Verditius Magic (page 114).                                  |
 
-## Quick and Gasy Virtues and Flaws
+## Quick and Easy Virtues and Flaws
 
 If you want to get started really quickly, use the following highly simplified guidelines.
 
@@ -2316,20 +2312,19 @@ If you want to get started really quickly, use the following highly simplified g
 - Magical Companion: Take one Minor Supernatural Virtue that grants a Supernatural Ability, and Puissant and Affinity with that Ability.
 - Magus: Take a Major Personality or Story Flaw that reflects the types of stories you want your character to be involved in, and Deficient Form in a Form that you are not interested in. Social Status is Hermetic Magus. Choose a Minor Magical Focus that does not rely on your Deficient Form. Choose one Technique that overlaps with your Minor Magical Focus, and take Puissant and Affinity in it. Choose one Form that overlaps with your Minor Magical Focus, and take Puissant in it.
 
-that Virtue to be an armored and mounted warrior (although you would need Warrior or another Virtue that gives you access to Martial Abilities). In most cases, social status does not define the way that other members of the covenant see you, so if your character is not concerned about wider society, you do not need to worry about this.
-
-Finally, a lot of the Virtues and Flaws are very specialized, to support particular types of character found in Mythic Europe. You can safely ignore these, until you decide that you want to play that sort of character.
-
-## Example: Darius of Flambeau
-
-Niall starts by looking for appropriate Flaws to fit his concept. Driven seems like a good Personality Flaw, Darius cannot help hunting down enemies of the Order at all times. Similarly, those activities are likely to produce Enemies, and Niall picks a Renounced magus and his cronies to be the enemies in question. Blatant Gift fits well with the scary image Niall wants, and he didn't imagine the character being able to interact much with mundanes anyway. That's three Major Flaws, so nine points already. Blatant Gift is a Hermetic Flaw, so that requirement is met. Finally, Niall takes Disfigured (facial burns) as a Minor Flaw, reinforcing the image and giving him ten points of Flaws.
-
-Then it's time to buy good stuff. As a magus, Darius already has The Gift and Hermetic Magus, and Puissant Art (Perdo) came free as a Flambeau. Niall takes Affinity with Perdo to back up Darius's specialty. He decides that Darius has done his job well, so he takes Hermetic Prestige to reflect his reputation in the Order. Hunting magi is a very dangerous game, so he also takes Premonitions and Second Sight, making it hard to take Darius by surprise. Similarly, shooting first is an advantage, so he takes Fast Caster. That's five Minor Virtues, leaving Darius with five points to spend. Niall has a look at Major Virtues, and decides that Flawless Magic will be extremely useful. It will let him cast spells more quickly, and with higher Penetration, which is a very good thing when facing other magi. That uses another three points, but he still has two Minor Virtues to buy. He chooses Strong-Willed and Enduring Constitution, which fit the image and provide a bit more breadth.
-
-## Characteristics
 
 
-haracteristics are bought on the following table. You start with seven points to spend. All characters buy Characteristics in the same way.
+> ### Example: Darius of Flambeau
+>
+> Niall starts by looking for appropriate Flaws to fit his concept. Driven seems like a good Personality Flaw, Darius cannot help hunting down enemies of the Order at all times. Similarly, those activities are likely to produce Enemies, and Niall picks a Renounced magus and his cronies to be the enemies in question. Blatant Gift fits well with the scary image Niall wants, and he didn't imagine the character being able to interact much with mundanes anyway. That's three Major Flaws, so nine points already. Blatant Gift is a Hermetic Flaw, so that requirement is met. Finally, Niall takes Disfigured (facial burns) as a Minor Flaw, reinforcing the image and giving him ten points of Flaws.
+>
+> Then it's time to buy good stuff. As a magus, Darius already has The Gift and Hermetic Magus, and Puissant Art (Perdo) came free as a Flambeau. Niall takes Affinity with Perdo to back up Darius's specialty. He decides that Darius has done his job well, so he takes Hermetic Prestige to reflect his reputation in the Order. Hunting magi is a very dangerous game, so he also takes Premonitions and Second Sight, making it hard to take Darius by surprise. Similarly, shooting first is an advantage, so he takes Fast Caster. That's five Minor Virtues, leaving Darius with five points to spend. Niall has a look at Major Virtues, and decides that Flawless Magic will be extremely useful. It will let him cast spells more quickly, and with higher Penetration, which is a very good thing when facing other magi. That uses another three points, but he still has two Minor Virtues to buy. He chooses Strong-Willed and Enduring Constitution, which fit the image and provide a bit more breadth.
+>
+
+# Characteristics
+
+
+Characteristics are bought on the following table. You start with seven points to spend. All characters buy Characteristics in the same way.
 
 For Hermetic magi, you should note that Intelligence is central to Hermetic laboratory work, and thus magi should seriously consider taking a positive score in it. Similarly, Stamina is very important for spellcasting, and so a negative score there is best avoided. Communication is vital if you want your character to write good books.
 
@@ -2343,16 +2338,17 @@ For Hermetic magi, you should note that Intelligence is central to Hermetic labo
 | -2    | Gain 3 |
 | -3    | Gain 6 |
 
-## Example: Darius of Flambeau
+> ### Example: Darius of Flambeau
+>
+> Niall starts by giving Darius an Intelligence of +3, spending six of his points right away. Following on with the idea that Darius is hard to surprise and good at hunting, he spends the seventh point on a Perception of +1. However, he doesn't want everything else to be zero. Fortunately, the concept practically demands a negative score in Presence, so Niall drops that to -3, and Communication to -1, giving him seven more points to play with.
+>
+> Stamina is the other score most useful for magi, so Niall makes a deliberate decision to leave it at zero. The character will be more interesting if he has strengths in other areas, he thinks. Instead, he buys Quickness +2 (good for dodging), Strength +2 (he can hit hard), and Dexterity +1 (making him better than average in combat). It looks like Darius will occasionally use physical combat, which makes sense; steel can get through Magic Resistance without any trouble.
+>
 
-Niall starts by giving Darius an Intelligence of +3, spending six of his points right away. Following on with the idea that Darius is hard to surprise and good at hunting, he spends the seventh point on a Perception of +1. However, he doesn't want everything else to be zero. Fortunately, the concept practically demands a negative score in Presence, so Niall drops that to -3, and Communication to -1, giving him seven more points to play with.
-
-Stamina is the other score most useful for magi, so Niall makes a deliberate decision to leave it at zero. The character will be more interesting if he has strengths in other areas, he thinks. Instead, he buys Quickness +2 (good for dodging), Strength +2 (he can hit hard), and Dexterity +1 (making him better than average in combat). It looks like Darius will occasionally use physical combat, which makes sense; steel can get through Magic Resistance without any trouble.
-
-## Abilities
+# Abilities
 
 
-bilities represent a character's learned abilities. For grogs and companions they are acquired in two blocks: early childhood, and later life. For magi, there are two
+Abilities represent a character's learned abilities. For grogs and companions they are acquired in two blocks: early childhood, and later life. For magi, there are two
 
 more periods to consider: apprenticeship, and life as a magus after that.
 
@@ -2366,7 +2362,7 @@ Your character's age determines the maximum score she can have in any Ability at
 | 41-45    | 8               |
 | 46+      | 9               |
 
-## Carly Childhood
+## Early Childhood
 
 In the first five years of life, characters gain 75 experience points in their native language (see page 167 for the Language Ability), which normally gives them a score of 5, and 45 experience points to divide between Area Lore (for the place or places the character is growing up), Athletics, Awareness, Brawl, Charm, Folk Ken, Guile, Living Language (other than the character's native language), Stealth, Survival, and Swim. You do not need to put points into all of these Abilities; choose the ones that best fit your conception of the character. This represents what the character picks up as she plays as a child.
 
@@ -2387,67 +2383,67 @@ After early childhood, the character gains 15 experience points per year, which 
 
 Characters with the Wealthy Virtue get 20 experience points per year, while characters with the Poor Flaw get 10 experience points per year. Note that only companions can take this Virtue or Flaw.
 
-## Example: Darius of Flambeau
-
-Darius has a number of free Abilities from his Virtues, so Niall notes them first: Premonitions 1, Second Sight 1, Mastery of All Spells 1.
-
-The next issue is his early childhood. Niall chooses German as Darius's native language, and, at this point, Uwe as his original name, so that gives him German 5. He then spends 15 exp on Bavaria Lore 2, 15 exp on Awareness 2, and 15 exp on Folk Ken 2, bringing Uwe/Darius to the age of 5.
-
-Now he needs to decide when the boy became an apprentice, and he picks 10 as a nice, round number. He has 75 experience points to spend from those five years, and he spends 15 exp on Brawl 2, 15 exp on Guile 2, 5 exp on Athletics 1, 5 exp on Concentration 1, 5 exp on Etiquette 1, 5 exp on Intrigue 1, 5 exp on Leadership 1, 5 exp on Stealth 1, 5 exp on Survival 1, and 5 exp on Swim 1. That leaves him with 5 experience points, which he decides to spend on Order of Hermes Lore 1. It's a general Ability, so he can, and he rationalizes the decision by assuming that his future master took him to the covenant some time before his apprenticeship actually began.
+> ### Example: Darius of Flambeau
+>
+> Darius has a number of free Abilities from his Virtues, so Niall notes them first: Premonitions 1, Second Sight 1, Mastery of All Spells 1.
+>
+> The next issue is his early childhood. Niall chooses German as Darius's native language, and, at this point, Uwe as his original name, so that gives him German 5. He then spends 15 exp on Bavaria Lore 2, 15 exp on Awareness 2, and 15 exp on Folk Ken 2, bringing Uwe/Darius to the age of 5.
+>
+> Now he needs to decide when the boy became an apprentice, and he picks 10 as a nice, round number. He has 75 experience points to spend from those five years, and he spends 15 exp on Brawl 2, 15 exp on Guile 2, 5 exp on Athletics 1, 5 exp on Concentration 1, 5 exp on Etiquette 1, 5 exp on Intrigue 1, 5 exp on Leadership 1, 5 exp on Stealth 1, 5 exp on Survival 1, and 5 exp on Swim 1. That leaves him with 5 experience points, which he decides to spend on Order of Hermes Lore 1. It's a general Ability, so he can, and he rationalizes the decision by assuming that his future master took him to the covenant some time before his apprenticeship actually began.
+>
 
 ## Advancement Table
 
-| Art   |        | ABILITY  |        |          |
-|-------|--------|----------|--------|----------|
-| Score | To Buy | To Raise | То вич | To Raise |
-| 1     | 1      | 1        | 5      | 5        |
-| 2     | 3      | 2        | 15     | 10       |
-| 3     | 6      | 3        | 30     | 15       |
-| 4     | 10     | 4        | 50     | 20       |
-| 5     | 15     | 5        | 75     | 25       |
-| 6     | 21     | 6        | 105    | 30       |
-| 7     | 28     | 7        | 140    | 35       |
-| 8     | 36     | 8        | 180    | 40       |
-| 9     | 45     | 9        | 225    | 45       |
-| 10    | 55     | 10       | 275    | 50       |
-| 11    | 66     | 11       | 330    | 55       |
-| 12    | 78     | 12       | 390    | 60       |
-| 13    | 91     | 13       | 455    | 65       |
-| 14    | 105    | 14       | 525    | 70       |
-| 15    | 120    | 15       | 600    | 75       |
-| 16    | 136    | 16       | 680    | 80       |
-| 17    | 153    | 17       | 765    | 85       |
-| 18    | 171    | 18       | 855    | 90       |
-| 19    | 190    | 19       | 950    | 95       |
-| 20    | 210    | 20       | 1050   | 100      |
+|       | Art    |          | Ability |          |
+| ----- | ------ | -------- | ------- | -------- |
+| Score | To Buy | To Raise | То Buy  | To Raise |
+| 1     | 1      | 1        | 5       | 5        |
+| 2     | 3      | 2        | 15      | 10       |
+| 3     | 6      | 3        | 30      | 15       |
+| 4     | 10     | 4        | 50      | 20       |
+| 5     | 15     | 5        | 75      | 25       |
+| 6     | 21     | 6        | 105     | 30       |
+| 7     | 28     | 7        | 140     | 35       |
+| 8     | 36     | 8        | 180     | 40       |
+| 9     | 45     | 9        | 225     | 45       |
+| 10    | 55     | 10       | 275     | 50       |
+| 11    | 66     | 11       | 330     | 55       |
+| 12    | 78     | 12       | 390     | 60       |
+| 13    | 91     | 13       | 455     | 65       |
+| 14    | 105    | 14       | 525     | 70       |
+| 15    | 120    | 15       | 600     | 75       |
+| 16    | 136    | 16       | 680     | 80       |
+| 17    | 153    | 17       | 765     | 85       |
+| 18    | 171    | 18       | 855     | 90       |
+| 19    | 190    | 19       | 950     | 95       |
+| 20    | 210    | 20       | 1050    | 100      |
 
 *To Buy:* The number of experience points required to raise a score from zero to that number.
 
 To Raise: The number of experience points required to raise a score by one point to that number.
 
-# Magus Only — Apprenticeship
+## Magus Only — Apprenticeship
 
-The fifteen years of apprenticeship give the character 240 experience points, and 120 levels of spells. These experience points can be spent on Arts or Abilities, including Arcane, Academic, and Martial Abilities. Note that magi can only spend experience points on Arcane, Academic and Martial Abilities before apprenticeship if they have
-
-a Virtue which allows them to do so. A sensible division is to spend 120 experience points on Abilities and 120 on Arts.
+The fifteen years of apprenticeship give the character 240 experience points, and 120 levels of spells. These experience points can be spent on Arts or Abilities, including Arcane, Academic, and Martial Abilities. Note that magi can only spend experience points on Arcane, Academic and Martial Abilities before apprenticeship if they have a Virtue which allows them to do so. A sensible division is to spend 120 experience points on Abilities and 120 on Arts.
 
 Magi must have the following minimum Abilities: Parma Magica 1, Magic Theory 1, Latin 1. Characters with lower scores would not be admitted to the Order. A character without a Latin score of least 4 and an Artes Liberales score of at least 1 is unable to read the books of the Order. This will seriously weaken the character relative to other
 
-## Example: Darius of Flambeau
+> ### Example: Darius of Flambeau
+>
+> Spending the apprenticeship XP is fairly easy. Niall spends 50 exp for Latin 4, 50 exp on Magic Theory 4, 30 exp on Artes Liberales 3, 5 exp on Finesse 1, 15 exp on Penetration 2, 5 exp on Profession — Scribe 1, 5 exp on Chirurgy 1, 5 exp on Faerie Lore 1, 5 exp on Infernal Lore 1, 5 exp on Philosophiae 1, and 5 exp on Magic Lore 1
+>
+> Then he looks at Hermetic Arts. He has 60 experience points left. He spends 37 points on Perdo, which his affinity turns into 56 points, so that he has Perdo 10 (1), and a bonus of +3 from Puissant. Then he puts almost all of the rest into Creo and Corpus: 15 exp on Creo 5, 3 exp on Corpus 2.
+>
+> Darius adds 11 to his Technique + Form to determine the highest level spell he can learn (his Magic Theory specialty in "inventing spells" applies). He chooses to take all Perdo spells, selecting The Wound that Weeps (PeCo 15), Dust to Dust (PeCo 15), Parching Wind (PeAq 20), Soothe the Raging Flames (Pelg 20), Veil of Invisibility (Pelm 20), Calm the Motion of the Heart (PeMe 15), and Loss of But a Moment's Memory (PeMe 15).
+>
+> Because of his Flawless Magic Virtue, Darius has a Mastery Score of one in each spell, and thus Niall has to choose a special ability for each.
+>
+> Finally, just before Gauntlet, he spends his last 5 exp on Parma Magica 1.
+>
+> magi, and you should be aware of this before designing such a character. A character with a Latin score of less than 5 cannot write books, which may also be important. A Magic Theory score of below 3 is weak, and, in particular, means that the magus cannot set up his own laboratory. Very few magi have a score in Parma Magica over 1 immediately after apprenticeship, as this Ability is normally the last thing taught. Indeed, the magus is not taught the final secret to raising a Parma until after he has sworn the Oath. Magi should also seriously consider putting points into Code of Hermes, Concentration, Finesse, Order of Hermes Lore, Penetration, and Profession (Scribe).
+>
 
-Spending the apprenticeship XP is fairly easy. Niall spends 50 exp for Latin 4, 50 exp on Magic Theory 4, 30 exp on Artes Liberales 3, 5 exp on Finesse 1, 15 exp on Penetration 2, 5 exp on Profession — Scribe 1, 5 exp on Chirurgy 1, 5 exp on Faerie Lore 1, 5 exp on Infernal Lore 1, 5 exp on Philosophiae 1, and 5 exp on Magic Lore 1
-
-Then he looks at Hermetic Arts. He has 60 experience points left. He spends 37 points on Perdo, which his affinity turns into 56 points, so that he has Perdo 10 (1), and a bonus of +3 from Puissant. Then he puts almost all of the rest into Creo and Corpus: 15 exp on Creo 5, 3 exp on Corpus 2.
-
-Darius adds 11 to his Technique + Form to determine the highest level spell he can learn (his Magic Theory specialty in "inventing spells" applies). He chooses to take all Perdo spells, selecting The Wound that Weeps (PeCo 15), Dust to Dust (PeCo 15), Parching Wind (PeAq 20), Soothe the Raging Flames (Pelg 20), Veil of Invisibility (Pelm 20), Calm the Motion of the Heart (PeMe 15), and Loss of But a Moment's Memory (PeMe 15).
-
-Because of his Flawless Magic Virtue, Darius has a Mastery Score of one in each spell, and thus Niall has to choose a special ability for each.
-
-Finally, just before Gauntlet, he spends his last 5 exp on Parma Magica 1.
-
-magi, and you should be aware of this before designing such a character. A character with a Latin score of less than 5 cannot write books, which may also be important. A Magic Theory score of below 3 is weak, and, in particular, means that the magus cannot set up his own laboratory. Very few magi have a score in Parma Magica over 1 immediately after apprenticeship, as this Ability is normally the last thing taught. Indeed, the magus is not taught the final secret to raising a Parma until after he has sworn the Oath. Magi should also seriously consider putting points into Code of Hermes, Concentration, Finesse, Order of Hermes Lore, Penetration, and Profession (Scribe).
-
-## Permetic Magi Recommended Minimum Abilities
+## Hermetic Magi Recommended Minimum Abilities
 
 Artes Liberales 1
 
@@ -2469,11 +2465,7 @@ If you want to generate a magus who is some time out of apprenticeship, the rule
 
 For every year, the magus gets 30 points. Each point can be an experience point in an Art or Ability or one level of spell. The maximum spell level a magus may know is limited as before. Thus, a magus who is 20 years out of apprenticeship could have a highest Art of 15, while a magus 120 years out of apprenticeship might have a highest Art of 40.
 
-Of course, you may not want your experienced magus to have spent all his time studying Abilities, Arts and spells. If you wish to have your magus engage in other lab activities (such as creating items, enchanting familiars, and in particular creating
-
-
-
-Longevity Rituals) you will need to know more about the circumstances in which he has been working. These are ultimately up to the storyguide, but a typical situation might be as follows:
+Of course, you may not want your experienced magus to have spent all his time studying Abilities, Arts and spells. If you wish to have your magus engage in other lab activities (such as creating items, enchanting familiars, and in particular creating Longevity Rituals) you will need to know more about the circumstances in which he has been working. These are ultimately up to the storyguide, but a typical situation might be as follows:
 
 - The magus' covenant (for Aging rolls) gives a Living Conditions modifier of +1 (see Aging, page 391).
 - The magus' lab is of only average quality, giving a modifier to Lab Totals of 0.
@@ -2484,15 +2476,16 @@ Statistics for familiars and apprentices should be agreed with the storyguide, i
 
 For each season that your magus spends working on a lab project, the character loses 10 points from the yearly 30 experience points, to a minimum of 0 if three or four seasons are spent on lab work. Thus it is most cost effective to have the magus engage in a full year of lab work at a time. It is suggested that you advance your magus year by year, spending several on study, then taking years out to do lab work as the character's statistics reach appropriate levels.
 
-## Example: Darius of Flambeau
-
-Darius will be out of apprenticeship when the saga starts, so Niall takes him further. For the eight years from 26 to 33, inclusive, he just lumps all the experience points together. This gives him 240 experience points to spend in various ways. First, he spends 25 exp raising Parma Magica to 3, as a magus-hunter needs decent Magic Resistance. Then he spends 5 exp on Great Weapon 1, and gives Darius a spear. Next, he spends 88 exp to raise Corpus to 13. He reasons that Darius wants to devise his own Longevity Ritual, and have a decent Penetration with PeCo spells. Next, he goes for a bit more versatility, spending 30 exp to raise Creo to 10, 60 exp to raise all of Aquam, Ignem, Imaginem, Mentem, Terram, Vim to 4, and 1 exp each on Rego and Intellego, for scores of 1 in each. That leaves him 30 exp, which he spends on Winter's Icy Touch and a level 20 version of Rusted Decay of Ten-Score Years (PeTe 10, Target increased to Group = +2 Magnitudes). Again, he needs to pick a mastery ability for the spell.
-
-Niall then decides that Darius will spend the next year in the laboratory, so he gains no experience points in that year. See the Laboratory Chapter from page 249 for details of these activities. Season 1: Opens spear haft (staff) for enchantment (8 pawns vis); Season 2: Attunes spear haft as a talisman; Season 3: Creates Longevity Ritual (7 pawns vis, Lab Total 35, for a +7 bonus against aging); Season 4: Instill the talisman with the effect 'The Wound that Weeps' (PeCo 15), with 0 penetration and 50 uses per day. Open the talisman to the attunement "+4 Destroy things at a distance", because a spear is still basically the shape of a staff.
-
-From this point, Niall advances Darius a year at a time, because aging results might have an impact on his study and development. In Darius's 35th year he spends 15 exp on Hunt 2, 5 exp on Civil and Canon Law 1, and 10 exp on raising Animal to 4. At this point, Niall decides that Darius would have risked suffering a Twilight, as he is the sort of magus who is likely to botch from time to time. Darius has a Warping Score of 2, with five Warping Points left over, because he is ten years out of apprenticeship. He makes the roll to control the magic, and succeeds, so that Darius does not actually go into Twilight at this point.
-
-Niall then continues aging Darius to the age of 87, but that's enough example.
+> ### Example: Darius of Flambeau
+>
+> Darius will be out of apprenticeship when the saga starts, so Niall takes him further. For the eight years from 26 to 33, inclusive, he just lumps all the experience points together. This gives him 240 experience points to spend in various ways. First, he spends 25 exp raising Parma Magica to 3, as a magus-hunter needs decent Magic Resistance. Then he spends 5 exp on Great Weapon 1, and gives Darius a spear. Next, he spends 88 exp to raise Corpus to 13. He reasons that Darius wants to devise his own Longevity Ritual, and have a decent Penetration with PeCo spells. Next, he goes for a bit more versatility, spending 30 exp to raise Creo to 10, 60 exp to raise all of Aquam, Ignem, Imaginem, Mentem, Terram, Vim to 4, and 1 exp each on Rego and Intellego, for scores of 1 in each. That leaves him 30 exp, which he spends on Winter's Icy Touch and a level 20 version of Rusted Decay of Ten-Score Years (PeTe 10, Target increased to Group = +2 Magnitudes). Again, he needs to pick a mastery ability for the spell.
+>
+> Niall then decides that Darius will spend the next year in the laboratory, so he gains no experience points in that year. See the Laboratory Chapter from page 249 for details of these activities. Season 1: Opens spear haft (staff) for enchantment (8 pawns vis); Season 2: Attunes spear haft as a talisman; Season 3: Creates Longevity Ritual (7 pawns vis, Lab Total 35, for a +7 bonus against aging); Season 4: Instill the talisman with the effect 'The Wound that Weeps' (PeCo 15), with 0 penetration and 50 uses per day. Open the talisman to the attunement "+4 Destroy things at a distance", because a spear is still basically the shape of a staff.
+>
+> From this point, Niall advances Darius a year at a time, because aging results might have an impact on his study and development. In Darius's 35th year he spends 15 exp on Hunt 2, 5 exp on Civil and Canon Law 1, and 10 exp on raising Animal to 4. At this point, Niall decides that Darius would have risked suffering a Twilight, as he is the sort of magus who is likely to botch from time to time. Darius has a Warping Score of 2, with five Warping Points left over, because he is ten years out of apprenticeship. He makes the roll to control the magic, and succeeds, so that Darius does not actually go into Twilight at this point.
+>
+> Niall then continues aging Darius to the age of 87, but that's enough example.
+>
 
 Older magi can learn spells more quickly than these guidelines suggest. You may therefore want to use these rules to have a magus learn spells as a lab project if you are advancing him more than forty years or so beyond apprenticeship.
 
@@ -2508,13 +2501,15 @@ Grogs should have a score (positive or negative) in Loyal, and warriors should h
 
 For companions and magi, they are normally nothing more than a guide to roleplaying, although you can roll them if you really want to, so you shouldn't worry too much about them. A few specific rules do require rolls on Personality Traits, however.
 
-## Example: Darius of Flambeau
+> ### Example: Darius of Flambeau
+>
+> Niall picks Brave, Dedicated to Cause, and Efficient as Darius's Personality Traits, and gives him scores of +3 in each. Darius is quite an extreme individual, but the numbers are unlikely to have much impact on play.
+>
 
-Niall picks Brave, Dedicated to Cause, and Efficient as Darius's Personality Traits, and gives him scores of +3 in each. Darius is quite an extreme individual, but the numbers are unlikely to have much impact on play.
-
-## Example: Darius of Flambeau
-
-Darius does have a Reputation, thanks to his Hermetic Prestige Virtue. It's a reputation with Hermetic magi, and it has a level of 3. Niall picks 'Dedicated Hoplite' as the content. (The Hoplites are the enforcers of the Order of Hermes. It's an informal grouping, but its members are respected.)
+> ### Example: Darius of Flambeau
+>
+> Darius does have a Reputation, thanks to his Hermetic Prestige Virtue. It's a reputation with Hermetic magi, and it has a level of 3. Niall picks 'Dedicated Hoplite' as the content. (The Hoplites are the enforcers of the Order of Hermes. It's an informal grouping, but its members are respected.)
+>
 
 ## Reputations
 
@@ -2532,183 +2527,176 @@ Confidence Points can be spent to gain a one-off +3 bonus to any die roll, and a
 
 Your character may start with any equipment or possessions she might reasonably have acquired and retained over her career. You need not list all her possessions.
 
-
-## Example: Darius of Flambeau
-
-Darius starts with the normal Confidence Score of 1 and 3 Confidence Points. His only noteworthy piece of equipment is his talisman-spear; Niall can assume that Darius has any mundane material he needs.
-
-With the statistics completed, Niall finishes filling in the details of Darius's appearance and background, preparing him for play in the saga.
-
-Characteristics: Int +3, Per +1, Str +2, Sta 0, Pre -3 (2), Com -1, Dex +1, Qik +2
-
-Age: 87 (64), Hermetic age 62 yrs past Gauntlet.
-
-Decrepitude: 0(2) Warping Score: 6 (19) Confidence Score: 1 (3)
-
-Virtues and Flaws: The Gift; Hermetic Magus; Puissant Art Perdo) (free Virtue), Flawless Magic, Affinity with Perdo, Enduring Constitution, Fast Caster, Hermetic Prestige, Premonitions, Second Sight, Strong-Willed; Blatant Gift, Driven (Hunt Enemies of the Order), Enemies (Renounced Magus and his Lackeys); Disfigured (Facial Burns)
-
-Personality Traits: Brave +3, Dedicated to Cause +3,
-
-Efficient +3
-
-Reputations: Dedicated Hoplite +3 (Hermetic magi)
-
-Combat: Fist: Init +2, Atk +5, Def +6, Dam +2
-
-Kick: Init +1, Atk +4, Def +4, Dam +5 Long Spear: Init +5, Atk +9, Def +8, Dam +9
-
-Soak: +0
-
-Fatigue Levels: OK, 0, 0, -2, -4, Unconscious Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20) (\* accumulated wound penalties
-
-reduce by 1 for Enduring Constitution)
-
-Abilities: Artes Liberales 4 (Grammar), Athletics 2 (Running), Awareness 3 (Alertness), Bargain 2 (Books), Bavaria Lore 2 (Geography), Brawl 3 (Punching), Chirurgy 2 (Bind Wounds), Civil and Canon Law 1 (Local Customs), Code of Hermes 3 (Wizards' Marches), Concentration 3 (Spells), Dominion Lore 2 (Divine Creatures), Etiquette 2 (Merchants), Faerie Lore 2 (Faerie Forests), Finesse 4 (Precision), Folk Ken 2 (Peasants), German 5 (Merchant Slang), Great Weapon 4 (Long Spear), Guile 3 (Fast talk), Hunt 2 (Tracking), Infernal Lore 2 (Demons), Intrigue 3 (Plotting), Latin 4 (Hermetic), Leadership 3 (Intimidation), (Local Area) Lore 3 (Personalities), Magic Lore 2 (Creatures), Magic Theory 5 (Inventing Spells), Order of Hermes Lore 4 (Criminals), Parma Magica 5 (Corpus), Penetration 6 (Perdo), Philosophiae 2 (Moral Philosophy), Premonitions 3 (Enemy Magi), Profession - Scribe 2 (Speed), Second Sight 3 (Invisibility), Stealth 2 (Shadowing), Survival 2 (Forests), Swim 2 (Rough Water)
-
-Arts: Cr 10, In 6, Mu 4, Pe 18+3 (15), Re 9; An 5, Aq 6, Au 6, Co 15, He 6, Ig 6, Im 5, Me 6, Te 6 (4), Vi 8
-
-Twilight Scars: The shadows in Darius' hood are unusually deep, hiding his face; Nearby, non-magical items decay when Darius uses magic (as the Warped Magic Flaw).
-
-Equipment: Long Spear with haft enchanted as a talisman. instilled with the effect The Wound that Weeps (PeCo 15, penetration 0, 50 uses per day), attuned to a +4 bonus to spells that destroy at a distance, Longevity Ritual: Lab Total 35, +7 aging bonus
-
-Encumbrance: 0(2)
-
-Spells Known:
-
-Cripple the Howling Wolf (PeAn 25/+27\*).
-
-Mastery 1 (Fast Casting)
-
-Parching Wind (PeAq 20/+28\*), Mastery 1 (Penetration)
-
-Curse of the Desert (PeAg 25/+29\*),
-
-Mastery 2 (Penetration, Magic Resistance)
-
-The Chirurgeon's Healing Touch (CrCo 20/+32),
-
-Mastery 1 (Penetration)
-
-Whispers through the Black Gate (InCo (Me) 15/+13),
-
-Mastery 1 (Quiet Casting)
-
-The Inexorable Search (InCo 20/+22),
-
-Mastery 1 (Penetration)
-
-Gift of the Bear's Fortitude (MuCo 25/+20),
-
-Mastery 1 (Fast Casting)
-
-Dust to Dust (PeCo 15/+37\*), Mastery 1 (Penetration)
-
-The Wound that Weeps (PeCo 15/+37\*),
-
-Mastery 1 (Penetration)
-
-Incantation of the Milky Eyes (PeCo 30/+37\*),
-
-Mastery 1 (Penetration)
-
-Twist of the Tongue (PeCo 30/+37\*),
-
-Mastery 1 (Fast Casting)
-
-Clenching Grasp of the Crushed Heart (PeCo 40/+38\*).
-
-Mastery 2 (Penetration, Magic Resistance)
-
-Endurance of the Berserkers (ReCo 15/+25),
-
-Mastery 1 (Fast Casting)
-
-Lifting the Dangling Puppet (ReCo 15/+25),
-
-Mastery 1 (Penetration)
-
-Seven-League Stride (ReCo 30/+25),
-
-Mastery 1 (Fast Casting)
-
-The Leap of Homecoming (ReCo 35/+25),
-
-Mastery 1 (Fast Casting)
-
-The Great Rot (PeHe 25/+28\*),
-
-Mastery 1 (Fast Casting)
-
-Winter's Icy Touch (Pelg 10/+28),
-
-Mastery 1 (Penetration)
-
-Soothe the Raging Flames (Pelg 20/+28),
-
-Mastery 1 (Fast Casting)
-
-Ward Against Heat and Flames (Relg 25/+16),
-
-Mastery 1 (Fast Casting)
-
-Veil of Invisibility (Pelm 20/+28),
-
-Mastery 2 (Quiet Casting x 2)
-
-Tip of the Tongue (PeMe 5/+29),
-
-Mastery 2 (Fast Casting, Magic Resistance)
-
-Calm the Motion of the Heart (PeMe 15/+28),
-
-Mastery 1 (Quiet Casting)
-
-Loss of But a Moment's Memory (PeMe 15/+30\*),
-
-Mastery 3 (Quiet Casting x 2, Still Casting)
-
-Blessing of Childlike Bliss (PeMe 25/+30)
-
-Mastery 3 (Quiet Casting x 2, Still Casting)
-
-Rusted Decay of Ten-Score Years (PeTe 20\*, Target
-
-increased to Group/+28\*), Mastery 1 (Fast Casting)
-
-Demon's Eternal Oblivion (PeVi 30/+30\*).
-
-Mastery 1 (Fast Casting)
-
-Wind of Mundane Silence (PeVi 30/+30),
-
-Mastery 1 (Magic Resistance)
-
-<sup>\*</sup> If Darius is holding his Talisman, he has a + 4 bonus to cast spells which "Destroy things at a distance". This should be added to these spells if he is holding it.
-
-
-Appearance: Darius is a frightening individual. A bony figure swathed in a black, all-encompassing robe and carrying a black-hafted spear, he is reminiscent of medieval perceptions of the physical embodiment of death. This image is further emphasized if his hood falls away from his face, for Darius is bald, with a mass of scar tissue for a face and no eves.
-
-Darius is content to cultivate his sinister image; he is a hoplite and an expert with Perdo magic, dedicated to the discovery and execution of traitors within the Order. However, it was not always thus; Uwe, the boy who would eventually become Darius, was born into a merchant family living in Bavaria. He enjoyed a comfortable life in a moderately prosperous household. However, shortly after Uwe reached puberty strange things began to happen. His books would fall apart, furniture he sat on would break, and the family cat died in his arms. His family became aware that there was something unsettling about the boy and were only too happy to see him taken away as an apprentice by the mysterious scholar who visited them soon after.
-
-Thus Uwe became the apprentice of the hoplite Xerxes, who indoctrinated his filius to become a hunter of evils within the Order of Hermes. A lab accident early during apprenticeship burned away Uwe's eyes and the flesh on his head, but Xerxes restored Uwe's sight, although he refused to do anything about his filius' appearance. Fifteen years later Uwe became a magus of the Order of Hermes named Darius and joined the ranks of the hoplites, its guardians. He has continued to maintain contact with his (aging) pater, but they only see each other on rare occasions when they can share information; Xerxes is now too frail to take part in combat.
-
-Darius travelled to the covenant to establish a base from which he could seek out and destroy its enemies. He pursued this vocation with an enthusiasm that impressed his colleagues, and when the previous leader of the covenant recently passed into Final Twilight he accepted the position of head, seeing in this an opportunity to instill his values into the new, younger members swelling its ranks. Darius has been too busy to train an apprentice, but now he feels the need to pass on his legacy soon, as he suspects that he may have encountered his bane; he recently fought a powerful Renounced magus and his followers and was nearly killed, only "escaping" when a magical maelstrom sent him physically into Twilight. The traitor is still at large; Darius intends to kill him in the next confrontation and is even prepared to sacrifice himself to achieve this aim.
-
-
-
-# Option: Extremely Complex Character Generation
+>
+> ### Example: Darius of Flambeau
+>
+> Darius starts with the normal Confidence Score of 1 and 3 Confidence Points. His only noteworthy piece of equipment is his talisman-spear; Niall can assume that Darius has any mundane material he needs.
+>
+> With the statistics completed, Niall finishes filling in the details of Darius's appearance and background, preparing him for play in the saga.
+>
+> Characteristics: Int +3, Per +1, Str +2, Sta 0, Pre -3 (2), Com -1, Dex +1, Qik +2
+>
+> Age: 87 (64), Hermetic age 62 yrs past Gauntlet.
+>
+> Decrepitude: 0(2) Warping Score: 6 (19) Confidence Score: 1 (3)
+>
+> Virtues and Flaws: The Gift; Hermetic Magus; Puissant Art Perdo) (free Virtue), Flawless Magic, Affinity with Perdo, Enduring Constitution, Fast Caster, Hermetic Prestige, Premonitions, Second Sight, Strong-Willed; Blatant Gift, Driven (Hunt Enemies of the Order), Enemies (Renounced Magus and his Lackeys); Disfigured (Facial Burns)
+>
+> Personality Traits: Brave +3, Dedicated to Cause +3,
+>
+> Efficient +3
+>
+> Reputations: Dedicated Hoplite +3 (Hermetic magi)
+>
+> Combat: Fist: Init +2, Atk +5, Def +6, Dam +2
+>
+> Kick: Init +1, Atk +4, Def +4, Dam +5 Long Spear: Init +5, Atk +9, Def +8, Dam +9
+>
+> Soak: +0
+>
+> Fatigue Levels: OK, 0, 0, -2, -4, Unconscious Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20) (\* accumulated wound penalties
+>
+> reduce by 1 for Enduring Constitution)
+>
+> Abilities: Artes Liberales 4 (Grammar), Athletics 2 (Running), Awareness 3 (Alertness), Bargain 2 (Books), Bavaria Lore 2 (Geography), Brawl 3 (Punching), Chirurgy 2 (Bind Wounds), Civil and Canon Law 1 (Local Customs), Code of Hermes 3 (Wizards' Marches), Concentration 3 (Spells), Dominion Lore 2 (Divine Creatures), Etiquette 2 (Merchants), Faerie Lore 2 (Faerie Forests), Finesse 4 (Precision), Folk Ken 2 (Peasants), German 5 (Merchant Slang), Great Weapon 4 (Long Spear), Guile 3 (Fast talk), Hunt 2 (Tracking), Infernal Lore 2 (Demons), Intrigue 3 (Plotting), Latin 4 (Hermetic), Leadership 3 (Intimidation), (Local Area) Lore 3 (Personalities), Magic Lore 2 (Creatures), Magic Theory 5 (Inventing Spells), Order of Hermes Lore 4 (Criminals), Parma Magica 5 (Corpus), Penetration 6 (Perdo), Philosophiae 2 (Moral Philosophy), Premonitions 3 (Enemy Magi), Profession - Scribe 2 (Speed), Second Sight 3 (Invisibility), Stealth 2 (Shadowing), Survival 2 (Forests), Swim 2 (Rough Water)
+>
+> Arts: Cr 10, In 6, Mu 4, Pe 18+3 (15), Re 9; An 5, Aq 6, Au 6, Co 15, He 6, Ig 6, Im 5, Me 6, Te 6 (4), Vi 8
+>
+> Twilight Scars: The shadows in Darius' hood are unusually deep, hiding his face; Nearby, non-magical items decay when Darius uses magic (as the Warped Magic Flaw).
+>
+> Equipment: Long Spear with haft enchanted as a talisman. instilled with the effect The Wound that Weeps (PeCo 15, penetration 0, 50 uses per day), attuned to a +4 bonus to spells that destroy at a distance, Longevity Ritual: Lab Total 35, +7 aging bonus
+>
+> Encumbrance: 0(2)
+>
+> Spells Known:
+>
+> Cripple the Howling Wolf (PeAn 25/+27\*).
+>
+> Mastery 1 (Fast Casting)
+>
+> Parching Wind (PeAq 20/+28\*), Mastery 1 (Penetration)
+>
+> Curse of the Desert (PeAg 25/+29\*),
+>
+> Mastery 2 (Penetration, Magic Resistance)
+>
+> The Chirurgeon's Healing Touch (CrCo 20/+32),
+>
+> Mastery 1 (Penetration)
+>
+> Whispers through the Black Gate (InCo (Me) 15/+13),
+>
+> Mastery 1 (Quiet Casting)
+>
+> The Inexorable Search (InCo 20/+22),
+>
+> Mastery 1 (Penetration)
+>
+> Gift of the Bear's Fortitude (MuCo 25/+20),
+>
+> Mastery 1 (Fast Casting)
+>
+> Dust to Dust (PeCo 15/+37\*), Mastery 1 (Penetration)
+>
+> The Wound that Weeps (PeCo 15/+37\*),
+>
+> Mastery 1 (Penetration)
+>
+> Incantation of the Milky Eyes (PeCo 30/+37\*),
+>
+> Mastery 1 (Penetration)
+>
+> Twist of the Tongue (PeCo 30/+37\*),
+>
+> Mastery 1 (Fast Casting)
+>
+> Clenching Grasp of the Crushed Heart (PeCo 40/+38\*).
+>
+> Mastery 2 (Penetration, Magic Resistance)
+>
+> Endurance of the Berserkers (ReCo 15/+25),
+>
+> Mastery 1 (Fast Casting)
+>
+> Lifting the Dangling Puppet (ReCo 15/+25),
+>
+> Mastery 1 (Penetration)
+>
+> Seven-League Stride (ReCo 30/+25),
+>
+> Mastery 1 (Fast Casting)
+>
+> The Leap of Homecoming (ReCo 35/+25),
+>
+> Mastery 1 (Fast Casting)
+>
+> The Great Rot (PeHe 25/+28\*),
+>
+> Mastery 1 (Fast Casting)
+>
+> Winter's Icy Touch (Pelg 10/+28),
+>
+> Mastery 1 (Penetration)
+>
+> Soothe the Raging Flames (Pelg 20/+28),
+>
+> Mastery 1 (Fast Casting)
+>
+> Ward Against Heat and Flames (Relg 25/+16),
+>
+> Mastery 1 (Fast Casting)
+>
+> Veil of Invisibility (Pelm 20/+28),
+>
+> Mastery 2 (Quiet Casting x 2)
+>
+> Tip of the Tongue (PeMe 5/+29),
+>
+> Mastery 2 (Fast Casting, Magic Resistance)
+>
+> Calm the Motion of the Heart (PeMe 15/+28),
+>
+> Mastery 1 (Quiet Casting)
+>
+> Loss of But a Moment's Memory (PeMe 15/+30\*),
+>
+> Mastery 3 (Quiet Casting x 2, Still Casting)
+>
+> Blessing of Childlike Bliss (PeMe 25/+30)
+>
+> Mastery 3 (Quiet Casting x 2, Still Casting)
+>
+> Rusted Decay of Ten-Score Years (PeTe 20\*, Target
+>
+> increased to Group/+28\*), Mastery 1 (Fast Casting)
+>
+> Demon's Eternal Oblivion (PeVi 30/+30\*).
+>
+> Mastery 1 (Fast Casting)
+>
+> Wind of Mundane Silence (PeVi 30/+30),
+>
+> Mastery 1 (Magic Resistance)
+>
+> <sup>\*</sup> If Darius is holding his Talisman, he has a + 4 bonus to cast spells which "Destroy things at a distance". This should be added to these spells if he is holding it.
+>
+>
+> Appearance: Darius is a frightening individual. A bony figure swathed in a black, all-encompassing robe and carrying a black-hafted spear, he is reminiscent of medieval perceptions of the physical embodiment of death. This image is further emphasized if his hood falls away from his face, for Darius is bald, with a mass of scar tissue for a face and no eves.
+>
+> Darius is content to cultivate his sinister image; he is a hoplite and an expert with Perdo magic, dedicated to the discovery and execution of traitors within the Order. However, it was not always thus; Uwe, the boy who would eventually become Darius, was born into a merchant family living in Bavaria. He enjoyed a comfortable life in a moderately prosperous household. However, shortly after Uwe reached puberty strange things began to happen. His books would fall apart, furniture he sat on would break, and the family cat died in his arms. His family became aware that there was something unsettling about the boy and were only too happy to see him taken away as an apprentice by the mysterious scholar who visited them soon after.
+>
+> Thus Uwe became the apprentice of the hoplite Xerxes, who indoctrinated his filius to become a hunter of evils within the Order of Hermes. A lab accident early during apprenticeship burned away Uwe's eyes and the flesh on his head, but Xerxes restored Uwe's sight, although he refused to do anything about his filius' appearance. Fifteen years later Uwe became a magus of the Order of Hermes named Darius and joined the ranks of the hoplites, its guardians. He has continued to maintain contact with his (aging) pater, but they only see each other on rare occasions when they can share information; Xerxes is now too frail to take part in combat.
+>
+> Darius travelled to the covenant to establish a base from which he could seek out and destroy its enemies. He pursued this vocation with an enthusiasm that impressed his colleagues, and when the previous leader of the covenant recently passed into Final Twilight he accepted the position of head, seeing in this an opportunity to instill his values into the new, younger members swelling its ranks. Darius has been too busy to train an apprentice, but now he feels the need to pass on his legacy soon, as he suspects that he may have encountered his bane; he recently fought a powerful Renounced magus and his followers and was nearly killed, only "escaping" when a magical maelstrom sent him physically into Twilight. The traitor is still at large; Darius intends to kill him in the next confrontation and is even prepared to sacrifice himself to achieve this aim.
+>
+
+
+
+## Option: Extremely Complex Character Generation
 
 It is possible to generate a character by working out exactly what he has done in every season he has been alive, and using the rules in the Laboratory and Long-Term Events chapters to determine the results. This is how magi and important companions are normally advanced in play, but it takes a very long time for character generation. It tends to produce characters who are close to those generated using the detailed rules, but with a lot more character.
 
 Even if you do generate a character this way, you should still use the normal guidelines for the first five years of life, and you assign Virtues, Flaws, and Characteristics in the normal way. However, age-based limits on Abilities do not apply, and all Virtues and Flaws have their normal effect on character advancement. You must discuss with your troupe the resources that the character has available; with sensible choices, it is usually hard to raise Abilities above the age-based limits, which is why they exist in Detailed Character Creation.
-
-
-# Mythic Companions
-
-Mythic Companions are generated in the same way as other Companion characters, with some important exceptions:
-
-- All Mythic Companions take a Free Virtue which specifies their status. These Virtues are incompatible with each other, and with The Gift, and are not available to grogs.
-- You gain a free Minor Virtue, normally specified by the Mythic Companion Virtue. In addition, you may take up to ten points of Flaws, and each point of Flaws is worth two points of Virtues. This produces a maximum of 21 points of Virtues and 10 points of Flaws. Most Mythic Companion Virtues require you to take some particular Virtues and Flaws, these count against your maximum of 20 points of Virtues and 10 points of Flaws.
 
 ## Characters with Might Scores
 
@@ -2720,7 +2708,16 @@ Characters with a Might Score are immune to all Warping (see Warping and Non-Hum
 
 Those with a Might Score are immune to supernatural backlashes of their realm — Twilight, Hubris, Vituperation, and so forth — but still suffer any other consequences of a failed or botched roll when using their powers.
 
- You should also agree with the troupe on a minimum set of Ability scores that the character should have by the time character generation is complete. As for Hermetic magi, this set of Abilities should come to a total of 90 experience points. Note that this is not an additional 90 points to spend; it is rather a restriction on how about 90 of your experience points may be spent. (The set will often include Supernatural Abilities in which the character gets an initial score of 1 from the Virtue granting it, and you will not need to spend experience points for the first point of those Abilities.) While most Mythic Companion types make suggestions for these Abilities, you may create a character with a different spread of Abilities if you can convince the troupe that it is a good idea.
+
+
+
+# Mythic Companions
+
+Mythic Companions are generated in the same way as other Companion characters, with some important exceptions:
+
+- All Mythic Companions take a Free Virtue which specifies their status. These Virtues are incompatible with each other, and with The Gift, and are not available to grogs.
+- You gain a free Minor Virtue, normally specified by the Mythic Companion Virtue. In addition, you may take up to ten points of Flaws, and each point of Flaws is worth two points of Virtues. This produces a maximum of 21 points of Virtues and 10 points of Flaws. Most Mythic Companion Virtues require you to take some particular Virtues and Flaws, these count against your maximum of 20 points of Virtues and 10 points of Flaws.
+- You should also agree with the troupe on a minimum set of Ability scores that the character should have by the time character generation is complete. As for Hermetic magi, this set of Abilities should come to a total of 90 experience points. Note that this is not an additional 90 points to spend; it is rather a restriction on how about 90 of your experience points may be spent. (The set will often include Supernatural Abilities in which the character gets an initial score of 1 from the Virtue granting it, and you will not need to spend experience points for the first point of those Abilities.) While most Mythic Companion types make suggestions for these Abilities, you may create a character with a different spread of Abilities if you can convince the troupe that it is a good idea.
 
 The following types of Mythic Companions cover all the supernatural realms. You should consult the troupe before choosing one of these, as a Nephilim and Devil Child might not work well together in the same saga.
 
@@ -2761,7 +2758,7 @@ The faerie doctor is trained from birth by a relative, often an uncle, for the c
 Faerie doctors often accompany their oath to not take sides in conflicts between humans and faeries with other oaths that reflect their status as having a foot in both realms. The most common oaths are to never cut one's hair, to never grow a beard, to wear women's clothes, and to remain celibate. Such oaths represent the distance the faerie doctor must keep from the rest of humanity to maintain his close connection with the fae. Unsurprisingly, a faerie doctor may clash with the priesthood who see his 'clients' as demons or evil spirits, however, the faerie doctor is rarely pagan himself. He simply realizes the true place of the fae in the daily lives of those under his care.
 
 
-# Paerie Doctors as Mythic Companions
+## Faerie Doctors as Mythic Companions
 
 Players wishing to play a magus-level faerie doctor should take the following Virtues and Flaws
 
@@ -2794,19 +2791,22 @@ The Student of Faerie Virtue and the Faerie Upbringing Flaw are very common amon
 
 A character can be a faerie doctor without being a Mythic Companion, but they are understandably less powerful. They still take the compulsory Virtues and Flaws listed above, but must balance Virtues and Flaws in the normal manner.
 
-## **Dephilim**
+
+
+> ## Sin-Eating
+>
+> In some cultures, the supernatural power of Curse-Throwing is called Sin-Eating. A sin-eater uses this power to take on the sins of the dying or recently dead, often acquired by eating a ritual meal of bread, salt, and ale over the body of the sinner. It is believed that the Sin-Eater not only saves the deceased from Hell, but also prevents their spirit from wandering the world as a ghost. The magnitude of the unforgiven sin should be considered to be a Minor, Serious, or Major Affliction as appropriate. The effect of Sin-Eating on the soul of the practitioner or the fate of the mortal soul remains unknowable, but Sin-Eating does prevent the spirit of the deceased from becoming a ghost due to unrepented sins. A sin-eater can still use his Supernatural Ability in the standard fashion, and most commonly takes the curse onto himself. Sin-eaters are often outcast from society, shunned because of the sins they accumulate through their career. The Church regularly excommunicates sin-eaters, not only because of the burden of sin which they carry but also because they encroach on the territory of the clergy to administer to the dead. A particularly evil sin-eater might transfer the sins of the dying onto an otherwise innocent child in return for pecuniary gain.
+>
+> Sin-Eating stems from a similar tradition to Curse-Throwing, and thus is most common in cultures descended from Saxon people — in England, Flanders, Frisia and Saxony. Analogous traditions exist in other cultures, such as the Bavarians and the people of the Balkan Peninsula. An intriguing variant of sin-eating is part of the Jewish atonement rituals. Jewish practitioners of a version of Curse-Throwing aligned to the Divine Realm still conduct the rite of the scapegoat. A goat is loaded with the sins of a community on Yom Kippur, and driven into a place of desolation. Incorrectly identified as a propitiatory sacrifice to Satan, the scapegoat (and this is the origin of that phrase) is an act of obedience to God as detailed in Chapter 16 of Leviticus.
+>
+> Story Seed: A Bjornaer magus comes to the characters for help. He was unwittingly part of the scapegoat rite when observing Jewish practices in his goat heartbeast, and now seeks a way to unburden himself from the community's sins.
+>
+
+
+
+## **Nephilim**
 
 Nephilim are the divine giants and heroes of ancient myth. While older nephilim rarely venture from their divine regiones, a few younger nephilim occasionally leave their homes to wander the earth and experience new things. Most "young" nephilim are about eighty years old, which is the start of their adulthood.
-
-## Sin-Gating
-
-In some cultures, the supernatural power of Curse-Throwing is called Sin-Eating. A sin-eater uses this power to take on the sins of the dying or recently dead, often acquired by eating a ritual meal of bread, salt, and ale over the body of the sinner. It is believed that the Sin-Eater not only saves the deceased from Hell, but also prevents their spirit from wandering the world as a ghost. The magnitude of the unforgiven sin should be considered to be a Minor, Serious, or Major Affliction as appropriate. The effect of Sin-Eating on the soul of the practitioner or the fate of the mortal soul remains unknowable, but Sin-Eating does prevent the spirit of the deceased from becoming a ghost due to unrepented sins. A sin-eater can still use his Supernatural Ability in the standard fashion, and most commonly takes the curse onto himself. Sin-eaters are often outcast from society, shunned because of the sins they accumulate through their career. The Church regularly excommunicates sin-eaters, not only because of the burden of sin which they carry but also because they encroach on the territory of the clergy to administer to the dead. A particularly evil sin-eater might transfer the sins of the dying onto an
-
-otherwise innocent child in return for pecuniary gain.
-
-Sin-Eating stems from a similar tradition to Curse-Throwing, and thus is most common in cultures descended from Saxon people — in England, Flanders, Frisia and Saxony. Analogous traditions exist in other cultures, such as the Bavarians and the people of the Balkan Peninsula. An intriguing variant of sin-eating is part of the Jewish atonement rituals. Jewish practitioners of a version of Curse-Throwing aligned to the Divine Realm still conduct the rite of the scapegoat. A goat is loaded with the sins of a community on Yom Kippur, and driven into a place of desolation. Incorrectly identified as a propitiatory sacrifice to Satan, the scapegoat (and this is the origin of that phrase) is an act of obedience to God as detailed in Chapter 16 of Leviticus.
-
-Story Seed: A Bjornaer magus comes to the characters for help. He was unwittingly part of the scapegoat rite when observing Jewish practices in his goat heartbeast, and now seeks a way to unburden himself from the community's sins.
 
 Note: Nephilim are very powerful and are recommended for high-powered sagas, or sagas with elder magi. If your troupe is worried about game balance, ensure that age levels for characters are roughly parallel.
 
@@ -2858,21 +2858,21 @@ Spirit Votaries should begin play with the following minimum Ability scores:
 
 - Local Area Lore 1
 - Magic Lore 4
-  - Penetration 1
-    - Second Sight 3
+- Penetration 1
+- Second Sight 3
 
 
+
+> The worn cobblestones lead our party past the keep and through a bustling town market. A vibrant hub of trade and exchange, here the merchants of distant lands hawk their wares and diverse folk crowd the stalls. The air buzzes with the sound of haggling and the aroma of exotic spices, while two sages passionately debate philosophy. Our magus rolls his eyes at their hubris, then with a flick of his wrist conjures a shimmering illusion to delight a small child, just out of mundane sight. But infernal eyes watch us from the shadows of a nearby alley, their intent veiled and unsettling.
 
 
 
 # IV. Virtues and Flaws
 
 
-Imost all characters have some particular talents and some particular problems, represented in the game by Virtues and Flaws.
+AImost all characters have some particular talents and some particular problems, represented in the game by Virtues and Flaws.
 
-Virtues and Flaws are either Minor or Major. Virtues cost points, while Flaws grant points. Major Virtues cost three points, while Major Flaws grant three points. Minor Virtues and Flaws cost and grant (respectively) one point. Players start with no points for buying Virtues and Flaws, and thus must take Flaws if they want Virtues. A
-
-central character may have up to ten points of Flaws, but no more than five Minor Flaws.
+Virtues and Flaws are either Minor or Major. Virtues cost points, while Flaws grant points. Major Virtues cost three points, while Major Flaws grant three points. Minor Virtues and Flaws cost and grant (respectively) one point. Players start with no points for buying Virtues and Flaws, and thus must take Flaws if they want Virtues. A central character may have up to ten points of Flaws, but no more than five Minor Flaws.
 
 Virtues provide a benefit to the character, pure and simple. Players rarely try to avoid getting the benefits they have paid for, so the main problem is making sure that they do not try to get benefits in areas they shouldn't.
 
@@ -30613,7 +30613,6 @@ Weaknesses .......................... 477
 |                                                                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |  |
 
 W
-
 
 
 
