@@ -14,7 +14,7 @@
 
 **Second Round Playtesters:** Christian Jensen-Romer, Ben Hayes, Kevin Sides, Luke Price, Ed Woods, Lloyd Graney; Mark Barltrop, Alex Coyne-Turner, Mark Lawford, David Staveley, Simon Turner; Alexander White, Mark Philp, Josh Flint, Scott McCleave
 
-#### **Author Bios**
+#### Author Bios
 
 **Timothy Ferguson** is a librarian who lives in Australia. While working on this book, he and his wife Linda, who he always dedicates books to, adopted a pair of kittens and named them after Ozian witches. The idea for "Fall and Rise" came from a song called "Nothing At All" by Kasey Chambers. The idea for "Return of the Raiders" came from NextWave, or possibly Mythbusters.
 
@@ -256,7 +256,7 @@ Aedh doesn't know this, but it was actually Eustace in disguise, rather than Mui
 
 
 
-#### **Combat:**
+#### Combat:
 
 *Dodge:* Init +2, Attack n/a, Defense +6, Damage n/a *Dagger:* Init +2, Attack +8, Defense +7, Damage +5 *Javelin:* Init +2, Attack +9, Defense +8, Damage +7 *Short bow:* Init +1, Attack +6, Defense +4, Damage +8 *Axe:* Init +3, Attack +11, Defense +8, Damage +8 **Soak:** +2
 
@@ -362,7 +362,7 @@ Five years ago, Eustace visited the covenant of Cunfin and met Celeres, follower
 
 a contest to see who could acquire the best trophy. Calling themselves the Young Squires, a reference to Gawain and his cousins, the group of hunters try to out do each other in their quests for magical beasts. Eustace has fallen behind in the competition.
 
-#### **Eustace of Flambeau**
+#### Eustace of Flambeau
 
 **Characteristics:** Int –1, Per 0, Pre –1, Com 0, Str +2, Sta +2, Dex +2, Qik +2
 
@@ -439,7 +439,7 @@ His longevity ritual Lab Total is 25 (boosted by using extra vis), for an aging 
 
 Eustace has the necessary Art scores to train an apprentice. He has desired an apprentice for several years, but has not taken the time to find one. He is interested in any Gifted child the PCs may know.
 
-#### **Vafer the Magical Fox**
+#### Vafer the Magical Fox
 
 **Magic Might:** 12 (Animal)
 
@@ -473,7 +473,7 @@ Eustace has the necessary Art scores to train an apprentice. He has desired an a
 
 **Abilities:** Athletics 4 (running), Awareness 3 (food), Brawl 3 (bite), French 4 (poetry), Hunt 4 (prey), Stealth 4 (stalking prey), Survival 4 (meadows)
 
-#### **Powers:**
+#### Powers:
 
 *Tread the Paths of the Magic Realm*, 2 points, Init +4, Variable. Vafer can see connections between regiones and the Twilight Void, and pass through them. The entrance stays open after his passing, typically for a number of days equal to the boundary's level, allowing others to follow him.
 
@@ -496,7 +496,7 @@ Bricriu is one of several characters made famous in the Ulster Cycle of tales, a
 
 Bricriu is huge, as are the Heroes of Ulster who inhabit Dún Rudraige. Just like their legends, which are larger than life, so too are the Heroes. The more important and powerful the character, the taller he actually stands. This fact is known among the learned Irish clergy, one of whom mentions it in the thirteenth century book *Acallam na Senórach* ("Tales of the Elders of Ireland"). For reference, Bricriu is Size +3, the Heroes are Size +2, and the Followers are Size +1. A player may make an Intelligence + Magic Lore + a simple die against an Ease Factor of 12 to allow his character to know that these are not giants or giant-kin, but legendary Irish heroes.
 
-#### **Bricriu the Magic Human**
+#### Bricriu the Magic Human
 
 **Magic Might:** 30 (Corpus)
 
@@ -554,7 +554,7 @@ Greater Power: Base 4, +2 Voice, +2 Sun. 30 remaining spell levels covert to 6 m
 
 Bricriu cannot leave the regio of Dún Rudraige. This does not displease him, as he is content to run his challenges and watch the competitors.
 
-#### **Hero of Ulster**
+#### Hero of Ulster
 
 **Magic Might:** 15 (Corpus)
 
@@ -593,7 +593,7 @@ Alchad, Bran, Brian, Caeilte, Ciardan, Conall, Conan, Donn, Eachann, Faughnan, F
 
 **Abilities:** Animal Handling 3 (cattle), Athletics 6 (leaping), Brawl 6 (fist), Carouse 5 (excessive drinking), Etiquette 4 (feasting), Hunt 5 (deer), Irish 5 (poetry), Leadership 3 (Followers), Music 4 (singing), Ride 2 (tricks), Survival 3 (in the regio), Single Weapon 10 (spear)
 
-#### **Powers:**
+#### Powers:
 
 *Perfect Form of the Contender*, 5 points, Init -4, Corpus. This power gives the recipient a +3 on any physical challenge he undergoes, including combat. Like spontaneous magic, it can affect a variety of the target's physical resources: arms, legs, breathing, singing, etc.
 
@@ -605,7 +605,7 @@ Alchad, Bran, Brian, Caeilte, Ciardan, Conall, Conan, Donn, Eachann, Faughnan, F
 
 **Appearance:** A Hero appears as a large, monstrous-looking Irish warrior, with tangled hair, a wild beard, red eyes, embroidered clothing, and weapons. His features are asymmetric, and his muscles bulge and contort in an abnormal fashion.
 
-#### **Follower of Ulster**
+#### Follower of Ulster
 
 **Magic Might:** 5 (Corpus)
 
@@ -679,7 +679,7 @@ Once through the tree's crotch, characters find themselves in a tangled forest, 
 
 Any active magical effect, including Parma Magica, is cancelled as soon as the character enters the Twilight Void. Items and talismans remain potent, but active spells cease. Characters re-casting spells notice the higher aura of the Twilight Void.
 
-#### **The Paths Through Twilight**
+#### The Paths Through Twilight
 
 Once on the path in the Twilight Void, the group needs a leader to guide them. If Aedh or another PC with Second Sight or Magic Sensitivity led the group through the boundary, use the value of that roll to determine how fast they move through the Twilight Void. Because the boundary is an Arcane Connection to a specific destination, adding +15 to the initial roll, travel should be rapid. Use the following table to calculate the group's speed.
 
@@ -739,7 +739,7 @@ flexes, Tough; Nocturnal
 
 **Abilities:** Athletics 7 (climbing), Awareness 6 (prey), Brawl 9 (claws), Stealth 7 (stalking), Hunt 6 (tracking)
 
-#### **Powers:**
+#### Powers:
 
 *Stench of Putridity*, 1 point, Init +2, Auram. At will, the seacat can exude a noxious stench that mimics the effects of *Wreaths of Foul Smoke* (**ArM5**, page 125). The sea-cat is itself immune to the malodorous vapors.
 
@@ -775,13 +775,13 @@ and is immediately obvious to anyone who looks. Fintan can speak, and will respo
 
 The regio pool sits atop a mundane pool, one of many formed from a small stream that runs down Mount Sandel, twisting and turning through the forest until it terminates in Dundrum Bay. Outside the regio, the pool is half the size of the magic pool. Although it is not as splendid as the magic pool, the mundane pool is pleasant, tranquil, and beautiful. It is so lovely that those who know of it come here for solitude and quiet contemplation.
 
-#### **Time is of the Essence**
+#### Time is of the Essence
 
 Vafer's power to walk the boundaries of the Magic Realm leaves open the portals that he used, which has allowed the PCs to follow him. Both the Herbam and Aquam Provinces boundaries will remain open for four days before closing. If things went well, the PCs have three days before the Aquam Province boundary closes, shutting off the easy access back to their home. Nothing the PCs can do will reopen the boundary portals, although Vafer can do it any time he pleases.
 
 Players won't know this, of course, although characters with Magic Lore might. An Intelligence + Magic Lore + simple die against an Ease Factor of 6 will indicate the odd nature of this occurrence, although this should be obvious. If the total is 9 or more the character will feel assured that the boundary portal is temporary, and it could again become impassable at any time.
 
-#### **Fintan the Magic Salmon**
+#### Fintan the Magic Salmon
 
 **Magic Might:** 5 (Aquam)
 
@@ -861,7 +861,7 @@ If the storyguide would like a more-random pattern to who the PCs meet, she can 
 |     | to Dundrum.                              |
 | 10  | Eustace.                                 |
 
-#### **Meeting Warriors**
+#### Meeting Warriors
 
 Several bands of warriors are on the move through the forest, anxious as de Lacy's invasion draws nearer. Although many have previous allegiances, the English-against-English invasion makes those allegiances questionable. Thus, groups parley before coming to blows, trying to determine who is allied to whom. Often it will boil down to who appears strongest, and if a group thinks they have the military advantage they attack.
 
@@ -869,7 +869,7 @@ Gifted individuals make warriors nervous. The Irish have tales of wizards, and r
 
 The English deem any sorcerer a threat and react violently. The Irish are spreading tales that their armies are assisted by wizards, so the English shoot first and ask questions later. The exception is the garrison, who might talk with the PCs depending on their approach to the castle. The Gift makes de Maginnis edgy, and he refuses to admit anyone who so flusters him. He is very nervous, awaiting the Justiciar's reinforcements and hoping they arrive before de Lacy's army. If the PCs are persistent, he meets them outside the castle. Unless Eustace has agreed to help him, de Maginnis asks the PCs to side with him in the upcoming conflict. He is willing to make any sort of deal for their aid, including letting them search the stone piles and the new foundation for the gatehouse.
 
-#### **Running Skirmishes**
+#### Running Skirmishes
 
 "The Champion's Portion" has the potential for several large-scale combats, called "skirmishes" to differentiate them from fully pitched battles involving hundreds of men. Typically, a skirmish includes 20 to 40 warriors battling a like-sized force. Detailed mass combat rules
 
@@ -883,7 +883,7 @@ A Gael fights with a short bow, light spear, and an axe, which was originally a 
 
 There are two types of Gael warrior, the "kern" and the *fénnid*. A kern is simply a member of the peasant levy, a semi-professional warrior who earns his living from another trade. Kerns are called up in times of strife by their chieftain, and serve for a few weeks until the trouble has ended. A fénnid (plural: *fénneda*) is a member of a *fian* (plural: *fianna*), a group of young warriors, many nobles, who haven't inherited land yet. They roam the countryside raiding and plundering to make a name for themselves. They, too, can be summoned by their king and combined to form the king's army. The fianna have a much greater sense of self-identity, and many are more loyal to their personal leader, called the *rígfénnid* (king-fénnid), than their rightful king.
 
-#### **Irish Kern**
+#### Irish Kern
 
 **Characteristics:** Int –1, Per +1, Pre 0, Com –1, Str +2, Sta +2, Dex +1, Qik +1
 
@@ -911,7 +911,7 @@ There are two types of Gael warrior, the "kern" and the *fénnid*. A kern is sim
 
 Kerns can't fight in trained groups, although they will form an untrained group for combat. The maximum size of each group is six. They aren't especially loyal, nor determined when facing superior numbers or better-armed opponents.
 
-#### **Fénnid**
+#### Fénnid
 
 **Characteristics:** Int –1, Per –1, Pre 0, Com –1, Str +2, Sta +2, Dex +2, Qik +1
 
@@ -951,7 +951,7 @@ Hunt 3 (deer), Irish 5 (nobility), Leadership 4 (intimidating), Ride 4 (speed), 
 
 Fénneda can fight as trained groups; their maximum size is four members and the maximum combat advantage is +12. The Outlaw Flaw mirrors the idea of the fian, but without the resulting bad Reputation.
 
-#### **Rígfénnid**
+#### Rígfénnid
 
 **Characteristics:** Int 0, Per –1, Pre +1, Com -2, Str +2, Sta +2, Dex +3, Qik +1
 
@@ -989,7 +989,7 @@ Both knights and soldiers are better armed than their Irish counterparts. The kn
 
 William de Maginnis is the constable of Dundrum castle. Statistically, treat him as an English Knight.
 
-#### **English Knight**
+#### English Knight
 
 **Characteristics:** Int 0, Per –1, Pre –1, Com 0, Str +3, Sta +2, Dex +2, Qik 0
 
@@ -1023,7 +1023,7 @@ William de Maginnis is the constable of Dundrum castle. Statistically, treat him
 
 English knights form trained groups. The maximum size is two and the maximum combat advantage is +6.
 
-#### **Flemish Soldier**
+#### Flemish Soldier
 
 **Characteristics:** Int +1, Per +1, Pre 0, Com 0, Str +1, Sta +2, Dex +1, Qik 0
 
@@ -1053,7 +1053,7 @@ English knights form trained groups. The maximum size is two and the maximum com
 
 Flemish soldiers can fight as a trained group. The group's maximum size is 3 (counting their specialty) and the maximum combat advantage is +9.
 
-#### **Welsh Bowman**
+#### Welsh Bowman
 
 **Characteristics:** Int –1, Per +2, Pre -1, Com 0, Str +2, Sta 0, Dex +2, Qik 0
 
@@ -1101,7 +1101,7 @@ If a skirmish occurs, the storyguide should only run one side of the battle, han
 
 Skirmish combat is kill or be killed, so other combat options (non-lethal combat) are prohibited. In large scale skirmishes, groups should not use the exertion rules, as that will add more computations to the combat formulas and slow down play. Giving one warband a minor or major advantage over another should suffice.
 
-#### **Meeting Muirgen**
+#### Meeting Muirgen
 
 Muirgen roams the forest, using her spells to change into animal form, canvassing the local fianna looking for her stones. If she sees the PCs, she follows them, naturally assuming that they are somehow culpable. Her transformations are Muto spells, not Imaginem, so they cannot be seen through by someone with Second Sight. PCs might notice a diminutive animal shadowing them as they move through the woods. If hailed, Muirgen ends her transformation and speaks with the PCs.
 
@@ -1109,7 +1109,7 @@ While Muirgen definitely wants the champion's portion for its vis, she is ultima
 
 Muirgen is not a very dramatic speaker, despite her shouting, and her arguments would never sway someone who opposes her thoughts. She is passionate, however, and those who already believe as she does will accept her arguments as intrinsically logical and sound. Fence-sitters doubtless remain undecided, although they might be swayed by her speech if they can somehow emotionally identify with her. Listeners discern that she is steadfast in her beliefs, and might be somewhat worried about what actions she will take to maintain the regio's present status.
 
-#### **Meeting Eustace**
+#### Meeting Eustace
 
 Eustace is a much calmer character than Muirgen. He openly admits to his part in leading Aedh astray, saying that he wanted to prevent Aedh's attack against the garrison until after the stones are found. If the PCs say that he is involving himself in mundane affairs, he asks who he has hurt, and what magi have his involvement threatened. Though powerful, Eustace is not the brightest brand in the fire.
 
@@ -1133,7 +1133,7 @@ Dundrum castle is commanded by the constable William de Maginnis and his militia
 
 Dundrum castle has a Dominion aura of 2, which equals the site's level 2 Magic aura. Since the power of the Divine is stronger than that of Magic, the Dominion aura wins out over the Magic aura. Auras fluctuate, depending on the time of year and other situations. At specified times, the Magic aura increases and overpowers the Dominion aura. Without the portal stones, the regio is accessible only four times a year: during the Celtic pagan holidays of Samhain (1 November), Imbolc (1 February), Beltaine (1 May), and Lughnasadh (1 August). During each of these holidays, the regio is accessible for three days, which is the traditional length of the holiday feast. If properly placed, the portal stones will always open the regio.
 
-#### **Finding the Stones**
+#### Finding the Stones
 
 The missing portal stones are not difficult to find, and are sitting in front of the PCs' faces. They were found early on in the rebuilding of Dundrum, and moved to the construction site. Muirgen and Eustace don't know that the stones have been broken up and resized. In their original form, each measured six feet high by two feet wide and deep, weighing nearly two tons, and was carved with a sweeping, continuous circle. Whenever Muirgen needed to move them, she changed their weight with a Muto Terram formulaic spell, so that her fian helpers could easily carry them to their hiding spot near the bay.
 
@@ -1145,7 +1145,7 @@ Both the portal and the rest of the construction stones are sandstone. The porta
 
 Enough pieces of the stones are available that all interested parties – Muirgen, Eustace, and the PCs – can find a pair each.
 
-#### **The Players' Decision**
+#### The Players' Decision
 
 Once the PCs have met everyone, they must decide what they are going to do. If negotiations with all the NPCs went well, everyone wants the PCs' help. However, nothing compels the players to assist anyone. Muirgen and
 
@@ -1211,7 +1211,7 @@ Multiple contests will eventually dishearten even the most proud Hero. The Ease 
 
 If at any time the challengers are tied with an equal number of victories, a fight erupts in the hall, as their supporters leap up brandishing swords to violently exclaim their approval of their champion. This is a wild melee, with everyone fighting someone else. Run individual combats, not group combat, with each PC facing a single opponent. The fight ends when someone shouts loudly enough for all to hear and come to their senses. For a PC to stop the fight the player must make a Communication + Leadership + stress die roll against an Ease Factor of 15. If this roll fails, the player can try again the next round. Botching this roll means that the fight continues for 1d10 more rounds before stopping, regardless of who shouts out for peace next. If the fight continues for ten rounds, without a PC stopping it, one of the Heroes will succeed in calming the assembly. Bricriu watches from his balcony, loving every blow.
 
-#### **The Contests**
+#### The Contests
 
 Many of the contests are simple feats of running, jumping, leaping, singing, and drinking. Most of these can be handled with contested Characteristic + Ability + stress die rolls, the highest total indicating the winner. The judge that selected the contest is the final arbiter, however, and may decide not to award the competition to the actual winner, preferring one of the other contestants over him. The Heroes and Followers have known each other for centuries, having made friends and enemies over the course of their existence. None of these existing relationships are severe enough to cause great strife, but although slight, they are enough to change a judge's decision. At the end of a close match, one in which the winner did not beat the other two by a margin of 3, the storyguide should roll a simple die. On a 1 the judge deems the second place winner the winner, and on a 10 he chooses the third place winner as the overall winner. This only applies to NPC judges; PCs can award a competition's victory to whoever they desire. While this will raise cries of protest in the crowd, it is an accepted practice, and none will interfere or naysay the judge.
 
@@ -1746,7 +1746,7 @@ This adventure is designed as a drop-in adventure, allowing a storyguide to inse
 
 **Pretenses:** Athletics 4 (flying), Bows 6 (short bow), Charm 5 (women), Faerie Lore 3 (wards), Penetration 4 (Cause Love), Stealth 4 (hide)
 
-#### **Powers:**
+#### Powers:
 
 *Cause Love*, 2 points, Init +1, Mentem: Cupid can cause any mortal to fall in love with a target of his choosing. This is not true love, but a temporary, enflaming passion for someone.
 
@@ -1822,7 +1822,7 @@ She is steered by two rudders at the stern, one on either side. A pair of oars s
 
 **Personality Traits:** Vulgar +2, Brave +1, Loyal (to Folbert) +1
 
-#### **Combat:**
+#### Combat:
 
 *Bludgeon:* Init +1, Attack +8, Defense +5, Damage +3 *Fist:* Init +1, Attack +7, Defense +6, Damage +1 *Dagger:* Init +1, Attack +8, Defense +5, Damage +4
 
@@ -1867,7 +1867,7 @@ At sunset, those targeted by arrows will suddenly lose their infatuations, and a
 
 After dark, Piccardo and Folpert gamble on the stern forecastle. Illuminated by a sputtering candle, they will bet against the roll of the dice. The crewmen will join them, all except Cupid as Emont. The wax candle, his traditional faerie ward, keeps him from coming too close. This behavior will be noticed by the other crewmen. They are all very amiable gamblers, and ask any interested PC to join them.
 
-#### **The Continuing Assault**
+#### The Continuing Assault
 
 The previous day's play of love seems somewhat acceptable, but the next day's assault will not be. Cupid again targets the two NPCs from the day before, although this time the affected characters will fall in love with different PCs. Cupid's third arrow strikes a PC, making him fall in love with one of the NPCs not yet the object of anyone's attentions. Something odd is definitely going on, and even the densest PC will realize that love runs amok on the high seas.
 
@@ -2010,19 +2010,19 @@ Dex 0, Qik 0
 
 Storyguides need to find reasons that suit their individual troupes for the characters to assist Severin. Some suggestions are:
 
-#### **Severin might predate the Schism War ...**
+#### Severin might predate the Schism War ...
 
 If this is the case, he knows the location of fallen Diedne covenants, and is politically useful to those houses that destroyed the Diedne. The druids were notoriously secretive, so he does not know much about House Diedne's mysteries.
 
-#### **Severin is the oldest magus in the Tribunal ...**
+#### Severin is the oldest magus in the Tribunal ...
 
 He has the right to act as Praeco. A new and friendly Praeco is valuable in sagas with political stories.
 
-#### **Severin is a Hippian ...**
+#### Severin is a Hippian ...
 
 This is a type of Tytalus that is rare in the modern House. The Hippians were the stable, useful, sociallyminded Tytalus magi who dominated the House briefly during the Schism War. Tytalus player characters may see some value in returning the Hippian faction to prominence, as a challenge for the House's current orthodoxy.
 
-#### **Benedictus and Peripeteia know how venal and greedy magi are ...**
+#### Benedictus and Peripeteia know how venal and greedy magi are ...
 
 They can prompt the magi along with the usual bribes. Severin, similarly, has resources he can use to buy allies.
 
@@ -2113,7 +2113,7 @@ Magic Theory 5 (human transformations into animals), French 5 (grogs – has wei
 
 ## Severin's Spells
 
-#### **Acorns For Amusement**
+#### Acorns For Amusement
 
 ReHe 5
 
@@ -2123,7 +2123,7 @@ This spell, taught to apprentices initially as an amusing game that allows them 
 
 (Base 3, +2 Voice)
 
-#### **Carnivorous House**
+#### Carnivorous House
 
 ReHe 35
 
@@ -2137,7 +2137,7 @@ to animate other large wooden objects, like carriages, huge statues, and ships.
 
 (Base 10, +2 Sun, +3 Structure)
 
-#### **Carved Assassin**
+#### Carved Assassin
 
 ReHe 20
 
@@ -2147,7 +2147,7 @@ This highly useful spell animates a wooden object so that it follows simple comm
 
 (Base 10, +2 Sun)
 
-#### **Enemies All Aquiver**
+#### Enemies All Aquiver
 
 ReHe 10
 
@@ -2157,7 +2157,7 @@ This spell flings the wooden contents of a container into a group of enemies. So
 
 (Base 3, +1 Touch, +2 Group)
 
-#### **Rickety Stack**
+#### Rickety Stack
 
 ReHe 5
 
@@ -2165,7 +2165,7 @@ R: Voice, D: Mom, T: Ind
 
 This is a very simple spell, designed to teach apprentices Finesse. It allows magi to toss about small pieces of wood, and when played as a game, the idea is to make the pieces land on their ends (to practice Finesse) or form rickety piles, with the loser being the apprentice whose added stick makes the pile collapse. After apprenticeship is over, magi can use it to move wooden objects up to a pace across, at walking speed. (Base 3, +2 Voice)
 
-#### **Rough-Hewn Servant**
+#### Rough-Hewn Servant
 
 ReHe 10
 
@@ -2175,7 +2175,7 @@ This is a spell for carving a statue from a single block of wood. The piece of w
 
 (Base 5 (see *Covenants*, page 50), +1 Touch)
 
-#### **Tomb of Kaineus**
+#### Tomb of Kaineus
 
 ReHe 20
 
@@ -2215,7 +2215,7 @@ Peripeteia uses entanglements for physical combat, and draws them effortlessly f
 
 **Pretenses:**, Awareness 5 (human weaknesses), Carouse 3 (theatre), Charm 6 (ambitious mortals), Etiquette 5 (her victims), Faerie Speech 6 (to her victims), Intrigue 9 (to cause the fall and rise), Order of Hermes Lore 6 (causing the fall, then rise), Penetration 5 (current victim)
 
-#### **Powers:**
+#### Powers:
 
 *Guide,* 6 points, Init -3, Mentem:. Subtly influences a group of beings towards a specific course of action. Each time this power is used, it can subtly influence the actions of a group for a day. The storyguide should provide advice to the characters in a similar way to the Common Sense Virtue, except that the advice serves the faerie's agenda, not that of the character. There is no compulsion to follow this advice.
 
@@ -2308,7 +2308,7 @@ Entanglements are the servants of Cruciator, and through him Peripeteia. They ma
 
 **Size**: Varies from –5 to –1. These statistics assume Size –1. **Virtues and Flaws**: Faerie Beast, Faerie Sight, Faerie Speech, Lesser Faerie Power (Damaging Effect); Monstrous Appearance, Incognizant, Traditional Ward (running water)
 
-#### **Combat**:\
+#### Combat:\
 
 *Brawl (Teeth):* Init +2, Attack +10, Defense +8, Damage +6 *Brawl (Claws):* Init +3, Attack +9, Defense +10, Damage +7 \* All Attack and Defense scores include +1 for Brawl specialization and +5 Damage for Damaging Effect power. These fairies will not use the Damaging Effect power against wizards, since they know it makes their
 
@@ -2320,7 +2320,7 @@ attacks slide off their magical defenses.
 
 **Pretenses**: Athletics 6 (while in pursuit), Awareness 6 (Severin), Brawl 5 (humans), Faerie Speech 5 (threats), Hunt (Severin) 5.
 
-#### **Powers:**
+#### Powers:
 
 *Damaging Effect,* 0 points, –2 Init (2 intricacy points on cost): Adds +5 Damage to Brawl attacks by shredding the skin that the entanglement touches. This also destroys mundane possessions like clothing.
 
@@ -2362,19 +2362,19 @@ If this is not the covenant of the player characters, then a Merinita magus of t
 
 The player characters need a way to connect with Severin's story. Storyguides should choose one of those below, before the story begins, and use the additional hooks only if the player characters refuse the bait on the first cast. The adventure, as written, assumes that the player characters meet Severin just before, or while, he rests at the resupply cache.
 
-#### **Assault on the Covenant**
+#### Assault on the Covenant
 
 - The player-character covenant could be the one that is assaulted.
 - The player characters could be at the covenant due to the conclusion of another story.
 - The player characters may belong to a House that wants the assault investigated. For this hook, Severin's march north needs to be delayed. In this version of the story, he was badly injured in the attack, and spent several weeks camping in a desolate spot to recuperate. During this time he was taunted and tormented by a skein of entanglements, but once he had regained some of his strength, he was able to kill them and harvest their vis, allowing him to use permanent healing magic just before the player characters arrive.
 
-#### **Severin's Course**
+#### Severin's Course
 
 • On Severin's march to the resupply point he is conspicuous, since he stays close to human settlements, is Gifted, and has ancient money that he spends freely. Player characters may be alerted to his strange behavior by their spies in nearby communities. The coins he spends are odd: they are stamped with designs from centuries ago, and yet are unworn.
 
 • Severin knows the location of several vis sources claimed by his opponents during the war. He makes some effort to harvest these. If the player characters own the source, or have arranged a trade of vis that will fall through because of the raid, they may be prompted to investigate.
 
-#### **The Supply Cache**
+#### The Supply Cache
 
 - The supply cache was sited in its current location because of the vis source that is found in the cave. Severin feels no compunction against taking this vis and using it for the war effort. Following the war, it was given into the ownership of a covenant, which might belong to the player characters, or might be an ally.
 - During the war, a ghostly sentinel was tied to this site by House Tremere. When the cache is opened, this spirit flies to the local Tremere exarch and, after telling him what the cache is and that it is a sentinel, informs him that a magus opened the empty cache. The exarch sends the player characters to investigate.
@@ -2494,7 +2494,7 @@ This cause should be tied to other stories in the saga, but suggestions include:
 
 This section describes an alternative ending to the story. The first ending allows the story to be tightly tied to continuing themes in the saga, but it may take years for the characters to complete. This second ending can follow directly on from the Tribunal story, or can be delayed indefinitely.
 
-#### **How Sharper Than a Serpent's Tooth It Is to Have a Thankless Child**
+#### How Sharper Than a Serpent's Tooth It Is to Have a Thankless Child
 
 Benedictus of Merinita, the ancient betrayer of Severin, completed the Merinita Mystery of Becoming, and is now a
 
@@ -2507,7 +2507,7 @@ Dénouement isn't willing to wait for Severin to work out what is going to make 
 
 Dénouement wants to stage a coup. She wants the characters to agree to destroy Peripeteia, and accept payment for the deed from Severin, so that he is mystically responsible for it. This forms the final part of Severin's rise, and allows Dénouement to steal all of her mother's glamour. Peripeteia will be unmade, and unable to return for revenge. If the characters have not previously figured out that the hazards they have faced are due to a scheme of Peripeteia's, then this moment, when they are shown the way to be free of their manipulator, is a turning point, a peripeteia, which Dénouement can feed upon.
 
-#### **The Nature of Her Betrayal**
+#### The Nature of Her Betrayal
 
 Creating Dénouement has cost Peripeteia a great deal: she has had to carve great chunks out of her glamour and pour her spiritual energy away. If she cannot restore this energy, then Dénouement can use the connection that still exists between them to drink the rest of her in. Dénouement wants the player characters to interfere in the story that Peripeteia is using to revitalize herself. It is, as always, a story in which a great person falls, and then rises.
 
@@ -2523,7 +2523,7 @@ Whichever method the players select, they should be mindful of the limitations t
 - Kidnap Eleanor by raiding Corfe Castle. If there is any hint of magical involvement in her removal, then the Quaesitores will investigate. This is what Peripeteia plans to do. If her warriors loot the king's treasury when they take Eleanor away, Eleanor's son can return leading a large force of mercenaries without anyone wondering how a hidden rebel could pay for them.
 - Kidnap Eleanor when she is traveling to another royal residence or castle. Again, if it is clear to mundane people that wizards have been involved, the characters will need to answer for their actions.
 
-#### **Poisoning a Lady**
+#### Poisoning a Lady
 
 Eleanor of Brittany is not closely guarded, only closely warded. That is, she is guarded to prevent her escaping, but is not guarded to prevent her from being assassinated. She has faded into political irrelevance. She cannot be permitted to marry a fractious nobleman, but there's no-one who wants to kill her. The outcry after the murder of her brother by the current king's father is enough to dissuade those of Henry III's followers who would like to kill her. She isn't worth the bother.
 
@@ -2535,7 +2535,7 @@ Factor of 9. A complicating factor is that Eleanor has highborn maids, or fellow
 
 If the characters seek to kill Eleanor personally, then the material given here for rescuing her from the castle assists in running the story.
 
-#### **Freeing the Prisoner of Corfe**
+#### Freeing the Prisoner of Corfe
 
 Corfe Castle is badly designed for the purpose of keeping prisoners in close constraint. The heart of the castle is the King's Tower, with its adjoining royal residence. Prisoners are kept well away from the sumptuous apartments of the king, in a tower on the far western edge of the castle. During a siege, valuable prisoners are brought into the King's Tower. If the player characters assail the castle unexpectedly, they need only breach the defenses of the Dungeon Tower. The Dungeon Tower is behind a curtain wall, which is two stories high. It is unusual in that it is octagonal, despite all of the other towers being either circular or square.
 
@@ -2547,7 +2547,7 @@ Historically, the Dungeon Tower was where prisoners of lesser worth were kept. T
 
 leave behind a corpse that could be mistaken for hers. The Hermetic high crime involved derives from the obvious reaction the king will have to someone spiriting away a rival claimant for his throne. If his rival appears dead, he is unconcerned, and so the Code has not been broken. Peripeteia needs Eleanor alive to be able to return and rebuild her life, though. Convincing everyone that she is dead makes this impossible.
 
-#### **Raiding the Castle**
+#### Raiding the Castle
 
 The King's Tower at Corfe is four stories high, with a floor of basements. It is accessed by a walkway to the second story, which is reached by climbing a stairway
 
@@ -2585,7 +2585,7 @@ Peter is an elderly knight, but a veteran of John's wars with the barons. He is 
 
 The Corfe garrison is made up of 40 soldiers, 12 of whom are crossbowmen. Crossbowmen only have their missile weapons if given 15 minutes to prepare them; during a surprise attack within the castle, they fight with swords. Most of the soldiers are stationed on the outer wall or are asleep in the great hall, which serves as their barracks. The inner parts of the castle are considered easily defended, and so they only have a few guards.
 
-#### **Piggyback Raid**
+#### Piggyback Raid
 
 Dénouement can signal the player characters on the night her mother's agent attacks the castle, allowing them to take Eleanor and the king's treasure by overpowering her rescuers. Dénouement cannot think of this for herself: her mother's design does not permit Dénouement to rebel. She is only able to turn on her mother because Benedictus supplied the idea. Similarly, turning Peripeteia's daughter against her is an idea Benedictus had when he was still Peripeteia's human pawn. Benedictus cannot think of piggybacking Peripeteia's rescue attempt, because it did not occur to him when he was mortal.
 
@@ -2593,7 +2593,7 @@ If the player characters provide the idea, then Dénouement can supply the mecha
 
 
 
-#### **Faerie Knight**
+#### Faerie Knight
 
 Faerie Knights are more bound to the rules of chivalry than real knights, and so they do not use Damaging Effect powers on their weapons against worthy foes. Use the statistics of the Viking warriors in Chapter Eight: The Return of the Raiders for the knight's attendant men at arms, changing the physical descriptions of the faeries. Their Sovereign Ward is that they cannot harm noblewomen. The Damaging Effect for all of these faeries is that threadlike things unravel or snap when struck by the weapons of these faeries. This includes the fibres in muscles, ligaments, tendons. Being struck by one of these faeries also makes all of the victim's hair fall out, although it regrows.
 
@@ -2621,7 +2621,7 @@ Faerie Knights are more bound to the rules of chivalry than real knights, and so
 
 **Pretenses:** Awareness 1 (enemies), Brawl 7 (knights), Carouse 3 (feasts), Charm 1 (ladies), Etiquette 3 (chivalrous combat), Faerie Speech 5 (boasting), Hunt 2 (humans), Leadership 2 (guards), Ride 3 (horses), Single Weapon 8 (long sword).
 
-#### **Powers:**
+#### Powers:
 
 *Damaging Effect,* 1 point, Init.+1, varies. (1 intricacy point on cost)
 
@@ -2636,13 +2636,13 @@ Faerie Knights are more bound to the rules of chivalry than real knights, and so
 
 **Appearance:** A knight clad in silver leaves of metal, astride a fine horse. This knight displays a red fret on gold on his arms and saddle blanket.
 
-#### **Attacking a Traveling Group**
+#### Attacking a Traveling Group
 
 Characters can wait until Eleanor is to be moved to another establishment, and attack the train of coaches that are to carry her. Any train that carries Eleanor is likely to have some other mission, for example escorting a prisoner to the payment of his parole, or moving some of the king's treasure. It will, therefore, have at least a dozen highly trained guards, sometimes many more. If magic is obviously used in the attack, the Quaesitores will investigate.
 
 Characters may force a move by forging a royal order. A forger must study a royal order before he can forge one. Characters able to suborn an agent within the castellan's staff are able to procure a royal order that he has previously received, to act as a template for the forger. The forger will also need expensive parchment, colored wax, and expensive inks, which can be procured from any large city. The forger must make a roll of Dexterity + Legerdemain against an Ease Factor of 15 (which is 6 + the Intelligence and Awareness of her most observant keeper) to successfully forge the order. If the forger fails, a player character other than the forger can make an Intelligence + Awareness check against an Ease Factor of (6+ forger's Dexterity + forger's Legerdemain) to note that the forgery is too seriously flawed for use.
 
-#### **The Princess and the Treasure**
+#### The Princess and the Treasure
 
 Characters that complete this section of the story now have a princess and some treasure, but need to consider carefully how to dispose of each.
 
@@ -2656,22 +2656,22 @@ port of weapons, is usual.. (0)
 
 • An order solely about Eleanor is unusual. (+3)
 
-#### **Orders Involving Guards**
+#### Orders Involving Guards
 
 - A royal order that has Eleanor guarded as heavily as usual is not suspicious. (0)
 - One requiring her to be guarded lightly is more so. (+3)
 - One that requires only token guards is considered suspicious. (+6)
 
-#### **Orders Involving the Route**
+#### Orders Involving the Route
 
 - An order that specifies her route and the places her escort will rest is not suspicious. (0)
 - Unless the route selected is an obscure route when a more practical one is available. (+3)
 
-#### **Orders Involving Additional Orders**
+#### Orders Involving Additional Orders
 
 • An order that includes moving Eleanor, but also includes some other more serious matter, like the movement of money, the rotation of soldiers, or the trans-
 
-#### **Orders Involving Money**
+#### Orders Involving Money
 
 - An order that includes moving Eleanor, but is really about disbursing small amounts of money for other causes is not suspicious. To make up suitable disbursements, the characters need either to view similar orders going back several years, to determine their pattern, or make skilled guesses concerning the affairs of the king. These guesses require both an Intelligence + England Lore roll against an Ease Factor of 15, or sufficient time to hear court gossip and an Intelligence + Intrigue roll against an Ease Factor of 6.
 - An order that includes only Eleanor and her personal goods is highly unusual. (+6)
@@ -2755,7 +2755,7 @@ fense of Christendom following the crusades, the Knights Hospitaller are chief a
 
 To fund their thousands of hospitals throughout Europe and the Holy Land, as well as their constant war effort, the Hospitallers engage in massive fundraising activities. This relies on bequests left in wills, and on donations from churches, monasteries, and secular lords and individuals. The Hospitallers are also known to use more controversial methods to ensure that they have the supplies and funds they require to protect Christendom and care for the sick and injured.
 
-#### **As Christ Himself**
+#### As Christ Himself
 
 Unique to the Hospitallers is the care they give to the sick and poor. Indeed, their primary reason for existing is to provide medical care to Christians. The Knights Hospitaller are seen among many commoners in Mythic Europe as the best part of the Church for their devotion to this aim.
 
@@ -2779,7 +2779,7 @@ At a time when only the grandest lords (and of course, Hermetic magi) have beds 
 
 The following are just a few suggested ways to draw the players into this scenario.
 
-#### **Story Flaws**
+#### Story Flaws
 
 **Black Sheep**: Your prestigious family connives with Enrico to deprive you and your covenant of essential goods.
 
@@ -2793,7 +2793,7 @@ The following are just a few suggested ways to draw the players into this scenar
 
 **Tormenting Master**: Your former master conspires with Enrico and Brother Gilbert, or manipulates them, into confiscating your goods.
 
-#### **Covenant Hooks**
+#### Covenant Hooks
 
 **Poverty**: The goods taken by the Hospitallers are of little Hermetic value, but their loss would cause the covenant great stress, possibly even precipitating a collapse.
 
@@ -2815,7 +2815,7 @@ This sections gives information and statistics for the major characters in this 
 
 Those Hospitallers with unique roles in the adventure are given below.
 
-#### **Priory Constable Hermann of Cologne**
+#### Priory Constable Hermann of Cologne
 
 Hermann, as the Priory Constable of the Knights Hospitaller, is a powerful, influential and much-revered figure in the local community. A brother-knight — one of the military elite of the Hospitallers — Hermann is responsible for ensuring that his comrades in the Holy Land receive the resources required to carry on the fight for Christendom.
 
@@ -2841,7 +2841,7 @@ Hermann is protected by a potent relic, and has the favor of one of the Hospital
 
 **Reputations:** Crusader leader +4 (local), Experienced commander +3 (Hospitallers)
 
-#### **Combat:**
+#### Combat:
 
 *Lance and shield (mounted):* Init +2, Attack +13, Defense +9, Damage +5
 
@@ -2913,7 +2913,7 @@ Hermann is a fearsome warrior, although now that he is aging, he is not as quick
 
 Hermann also benefits from a Magic Resistance of 30 due to the relic of St. Ubaldesca he carries on his person (see nearby insert box for more details). He is aware of the relic's mass-healing power, but does not call upon it frivolously.
 
-#### **Prior Fulk of Tyre**
+#### Prior Fulk of Tyre
 
 Prior Fulk is the religious leader of the Priory of St. Ubaldesca, and co-equal in authority to Constable Hermann. Fulk, like Hermann, is an experienced leader and comes from a noble family. He served under the Conventual Prior in Acre, and has spent time with the Order's Grand Commander (the second-in-command of the entire Knights Hospitaller). Fulk spent some time imprisoned by the Arabs after the fall of Jerusalem and the battle of Hattin — a battle where the army of the Kingdom of Jerusalem, and most of the Hospitallers and Templars in the Holy Land, were massacred. Fulk, a close associate of the then-king of Jerusalem, Guy of Lusignan, was ransomed with many other nobles after the battle (as Fulk was a non-combatant, he was spared the beheading inflicted on his fellow brother-knights). Much of the rest of Fulk's time was spent at Tyre, one of the crusader cities. Now in his late fifties, Fulk has been given a retirement at the wealthy Priory of St. Ubaldesca.
 
@@ -2925,7 +2925,7 @@ Brother Fulk's traits are represented using the brotherpriest statistics listed 
 
 **Appearance:** Fulk wears the standard Hospitaller black habit and white skull cap. He has tanned skin and speckled hazel eyes. Deep lines frame his mouth and eyes, indicating both seriousness and a sense of humor.
 
-#### **Brother Gilbert of Vitry, Master Sergeant**
+#### Brother Gilbert of Vitry, Master Sergeant
 
 Brother Gilbert is a career Hospitaller, a commoner who joined the priory to avoid poverty and ignominy. Unlike many brother-sergeants, Gilbert has spent his entire life in Europe. He believes in God and Christ, but is not as devout or as pious as his fellow brothers — while they pray, he is usually thinking of his day's tasks, or how he can improve his or the priory's status. People like Gilbert are not rare among Hospitallers, but are not common either.
 
@@ -2963,7 +2963,7 @@ Gilbert has conspired with Enrico to enrich the priory by confiscating the prope
 
 Note: These traits do not represent all of Gilbert's Abilities, only those relevant to the scenario.
 
-#### **Henry the Novice**
+#### Henry the Novice
 
 Henry was orphaned at the tender age of five. He was brought to the Priory of St. Ubaldesca after being found on the street by one of the priory's servants. Henry's Gift made it very difficult for him at the priory — he was distrusted and mistreated for much of his early childhood by the other novices and servants, although most of them have grown accustomed to his Gift now. Nevertheless, Henry is miserable in the priory. If the characters are particularly nice to Henry, he may well want to leave with them; alternatively, if he sees they are particularly violent or terrifying, he would not want to go with them.
 
@@ -3014,7 +3014,7 @@ There are some 20 brother-knights stationed at the Priory of St. Ubaldesca, with
 
 Supporting all of these are 70 or so servants, most of whom are not Hospitallers. Only some ten of the servants are brother-sergeants-at-service — servants who have taken vows — and they are the administrative specialists in the priory.
 
-#### **Brother-Knights**
+#### Brother-Knights
 
 There are 20 brother-knights housed at the priory, all of whom have served to a greater or lesser extent in the Holy Land. Many of the brother-knights are recovering from injuries sustained in battle, or receiving training on how to administer one of the many smaller Hospitaller commanderies or convents that makes up the continent-spanning network of houses and hospitals owned by the Order.
 
@@ -3030,7 +3030,7 @@ Dex +2, Qik +2
 
 **Reputations: C**rusader +2 (local)
 
-#### **Combat:**
+#### Combat:
 
 *Lance and shield (mounted):* Init +5, Attack +14, Defense +12, Damage +8
 
@@ -3061,7 +3061,7 @@ although unless they are under imminent attack they do not wear helmets.
 
 Hospitallers fight in units of 20 to 40 men, with a mix of brother-knights, brother-sergeants, and other supporting soldiers. Most of these units include crossbowmen who fire in concentrated volleys. The most important weapon for brother-knights is the lance, and the mounted cavalry charge. Swords and the distinctive Hospitaller faussar (pole arm or glaive) are mainly used when on foot.
 
-#### **Brother-Sergeants-At-Arms**
+#### Brother-Sergeants-At-Arms
 
 Brother-sergeants-at-arms are men who have made the same perpetual vows at brother-knights but do not come from a noble background. They live an identical conventual life, but are given considerably more responsibility than their brethren. There are 20 brother-sergeants-at-arms at the Priory of St. Ubaldesca
 
@@ -3099,13 +3099,13 @@ Many of the brother-sergeants were brought up by the Hospitallers as novices, an
 
 Brother-sergeants-at-arms range in age from experienced veterans to untested, but highly trained, soldiers. Although all brother-knights and brothersergeants are trained in the use of the crossbow, the priory's store of crossbows is kept under lock and key by the priory's treasurer and is only removed if an attack is expected, or if traveling to war. Note that at least three of the 20 brother-sergeants-at-arms have a Leadership score of 5 (with the same specialization) to allow them to operate in effective trained combat groups.
 
-#### **Brother-Sergeants-At-Service**
+#### Brother-Sergeants-At-Service
 
 The brother-sergeants-at-service are the specialists of the priory. They have taken the same vows as the brother-knights, but have no military or medical role. There are ten brother-sergeants-at-service, including the master of the stables (esquire), a drapier (in charge of the clothing store), a treasurer and his assistants, a master sergeant (who overseas the lay sergeants), and a master crossbowman. All of the brother-sergeants-at-service report to Hermann.
 
 Although they are subordinate to the Priory Constable, and rank below all other brothers, some of the brothers-inservice are very influential. The Master Sergeant — Gilbert of Vitry — oversees all of the brother-sergeants, mercenaries, staff, and the confraters, although he is not a fighter himself. He is also responsible for seeing that there are sufficient arms and armor available for the priory's soldiers. The Esquire is much respected by the brother-knights for his great wisdom when dealing with horses. The treasurer and the drapier are jointly responsible for ensuring that priory is supplied with food, medicine, cloth for clothes, bandages and bedding, and all of the other resources and provisions it needs to operate.
 
-#### **Brother-Priests**
+#### Brother-Priests
 
 There are three brother-priests in the priory, whose responsibility it is to oversee one of the hospital wards
 
@@ -3149,7 +3149,7 @@ The brother-priests are directly accountable to the Hospitaller's regional Prior
 
 There are some fifteen sisters of the Order — Hospitaller nuns — housed in a separate convent to the main priory complex. Most of the nuns are elderly widows, although there are some younger sisters. The primary activity of the nuns of the Priory of St. Ubaldesca is to live a contemplative life of prayer. Although they have some duties to assist the brother-priests in their duties, none of the nuns perform menial tasks, such as nursing, teaching, or labor of any kind. Their role is mainly to oversee the activities of the kitchen and hospital. Governing the nuns is the prioress Toscana, who answers to Prior Fulk.
 
-#### **Physicians**
+#### Physicians
 
 There are five physicians at the Priory of St. Ubaldesca — three surgeons and two doctors — and none of them are members of the Knights Hospitaller. All five live in the town, but are paid by the priory and are on permanent call in the case of an emergency with one of the patients there are cells available if they need to sleep at the priory. The five physicians at the priory are quite skilled, and have been trained either in the Holy Land, Greece, or Iberia. For details of medical treatment, see *Art and Academe.* 
 
@@ -3163,14 +3163,14 @@ The stats blow are for the three priory surgeons. For the two doctors, simply sw
 
 **Appearance:** The five physicians dress in simple black robes and white smocks when in the hospital. They are all middle-aged men of varying European nationalities.
 
-#### **Novices**
+#### Novices
 
 The Hospitallers have charitably adopted abandoned and orphaned children, and also raise several children that have been attached to priory to become brother-sergeants or brother-knights. There are seven novices — children raised by the Order — who are known as the "children of St. John," three boys (including Henry) and four girls. All of the children, both boys and girls, are given a basic education, and when they reach the age of fifteen they
 
 
 are given the opportunity to leave the priory, or stay as a brother or sister. The male novices wear black tunics and white leggings, while the girl novices wear black dresses. They all wear white head-coverings (coifs or wimples).
 
-#### **Servants and Mercenaries**
+#### Servants and Mercenaries
 
 A small army of servants works in the priory — in the kitchens, stables, or hospital — assisting with the patients, preparing food, making or mending clothing and equipment, or keeping the priory clean. There are some 50 servants who work in the refectory and hospital, and a further ten mercenaries. One of the most respected groups of servants is the priory's five washerwomen, who receive a great deal of courtesy from brothers and servants alike. The priory often takes on additional servants if there is a rush of work, or if the number of patients increases. Most of the servants are women — middle-aged wives or widows who live in the town — although there are some men, particularly in the stables or working as more-educated support staff for the brother-sergeants-at-service. A few servants are lay members of the Hospitallers — they live at the priory and have taken a vow to support the Order — but most are not, and live in the town. These stats are for the mercenaries.
 
@@ -3213,21 +3213,21 @@ from all corners of Christendom, from England to Iberia, Germany to Greece. Merc
 
 The most important characters from the town are described here.
 
-#### **Bishop Christoforo**
+#### Bishop Christoforo
 
 The town's bishop is Christoforo, a deeply conservative religious leader who was imposed on the town by Rome against the wishes of Lord Thomas. Christoforo is often in dispute with the priory, particularly with Prior Fulk. A few years ago, after Fulk gave communion to a local who had been excommunicated by Christoforo, there was an almost complete breakdown in relationships. As a result, the priory stopped funding the renovation of the town's church, which has seen all building works cease. Christoforo is currently fundraising to complete the construction, and has increased the tithe owed by the townsfolk to do so.
 
 Christoforo carries a relic on his person, which grants him a Magic Resistance of 10 and protects him against infernal creatures with an Infernal Might of 10 or less, in a radius of 10 feet, but grants no miraculous powers.
 
-#### **Geoffrey the Jolly, Town Mayor**
+#### Geoffrey the Jolly, Town Mayor
 
 The town's mayor — Geoffrey the Jolly — is elected by a council of the 50 wealthiest citizens. He has governed the town for almost a decade, and has presided over its rapid growth. He is closely allied to Lord Thomas — a relationship that helps ensure his regular re-election. Geoffrey also regularly requests the counsel of Constable Hermann on important matters, and is indebted to this assistance.
 
-#### **Lord Thomas**
+#### Lord Thomas
 
 Lord Thomas is the noble on whose land the town is built. He is happy for the town to govern itself, so long as he receives the rents he is due. Thomas has a great deal of ambition, and wants to climb the aristocratic ranks. He spends a great deal of the money he receives from his
 
-#### **Enrico, the Merchant from Venice**
+#### Enrico, the Merchant from Venice
 
 Enrico is the merchant who is responsible for the covenant's goods being confiscated by the Knights Hospitaller. A Venetian merchant, his primary allegiance is to Venice and his family. Enrico has a prior relationship with the player covenant, as his Venetian connections allow him to access Mythic Europe's major trade routes — and procure rare and valuable goods that could be of great value to Hermetic covenants. He has contacts both among the wealthy townsfolk and more unsavory types living there, although his relationship with the priory has put him at odds with the town's bishop.
 
@@ -3279,7 +3279,7 @@ Enrico's contacts in Venice give him access to all manner of exotic luxury items
 
 Only one NPC magi is included in this scenario, and that is Eleanor of Mercere.
 
-#### **Eleanor of Mercere**
+#### Eleanor of Mercere
 
 Eleanor is an unGifted Redcap, well known in the Tribunal. She fell ill with a fever while traveling near to the town where the Priory of St. Ubaldesca is located and almost died. She was found by the servants of the Hospitallers and brought to the hospital where she has spent a month regaining his strength. Eleanor has a great debt to pay to the Priory of St. Ubaldesca, which most certainly saved her life.
 
@@ -3295,7 +3295,7 @@ Eleanor has the trust of a number of the Hospitallers, so
 
 Eleanor of Mercere carries the following items:
 
-#### **Ring of Highland Ken**
+#### Ring of Highland Ken
 
 InTe 25
 
@@ -3305,7 +3305,7 @@ R: Touch, D: Sun, T: Vision
 
 This ring, when worn, works as the Hermetic spell *Eyes of the Treacherous Terrain*, **ArM5** page 153. This ring was a gift from her parens when she completed her Gauntlet.
 
-#### **St. Peter's Rhombus**
+#### St. Peter's Rhombus
 
 PeVi 35
 
@@ -3361,7 +3361,7 @@ To start the scenario, the covenant's property is confiscated by the Hospitaller
 
 Depending on the storyguide's preference, the confiscation could take place at Enrico's warehouse, or en route to the covenant.
 
-#### **Violent Confiscation**
+#### Violent Confiscation
 
 To involve the players in this stage, the troupe could play grogs who are charged with ensuring that the covenant's precious property safely reaches the magi. In this case, a group of brother-knights, brother-sergeants-at-arms, and mercenaries bursts upon the covenant's goods (the number
 
@@ -3371,23 +3371,23 @@ To involve the players in this stage, the troupe could play grogs who are charge
 
 There are five options presented in this scenario for the troupe to get their property back.
 
-#### **Visiting Enrico**
+#### Visiting Enrico
 
 The characters may decide to focus on Enrico, and try to convince him that he should retrieve the goods from the Hospitallers, replace the goods, or assist the characters in dealing with the Hospitallers. Enrico is not inclined to assist magi or their companions any more, but appropriate magic, threats, or blackmail could ensure his cooperation.
 
-#### **Negotiation**
+#### Negotiation
 
 The characters can negotiate with the priory's leaders, Hermann and Fulk. The Hospitallers are not disposed to giving up something they believe is the rightful property of the priory. However, if the characters are influential in their own right, are willing to offer something to the priory as compensation, or have silver tongues, then the priory would be willing to do a deal.
 
-#### **Stealth**
+#### Stealth
 
 Hermetic magic can make people almost impossible to detect, and can facilitate easy access to even the most secure forts. The characters may decide to simply steal back their property under cover of magic.
 
-#### **Blackmail**
+#### Blackmail
 
 The Hospitallers have unusual views and practices, and Prior Fulk is known to hold less-than-orthodox views. With the local bishop in dispute with the priory, the characters may find some influential support for getting their property back. They may try to blacken the priory's name, especially regarding the unusual status that women are accorded accusations of fornication between the male and female Hospitallers could be enough for the priory's leaders to give over the characters' property.
 
-#### **Attack**
+#### Attack
 
 If breaking the Code of Hermes is no barrier, or if the characters believe they can get away with it with few (or no) witnesses, they could attack the priory. The Hospitallers are formidable foes, even for magi. The consequences of this could extend beyond being Marched at the next Tribunal, and could potentially see the Hospitallers turn against the covenant, or even the entire Order of Hermes.
 
@@ -3395,7 +3395,7 @@ of Hospitallers should be determined by the storyguide). There is an opportunity
 
 Grogs who are seriously injured (any grog sustaining a Heavy wound) are brought back to the priory's hospital and cared for. A surgeon accompanies the brother-knights and performs battlefield surgery on anyone that needs it, both grogs and Hospitallers. This may confuse the players — Hospitallers provide medical assistance to everyone, even enemies and non-Christians. Depending on the timeline for the recovery of any injured grogs, they may still be at the priory's hospital when the main group of characters come looking for their missing property.
 
-#### **Confiscation in the Background**
+#### Confiscation in the Background
 
 If the troupe decides not to play through this section, then the characters at the covenant receive news that a very precious shipment of laboratory equipment, or something else of great value to the covenant, has been taken by a group of Hospitallers. The messenger relays the details — that the Hospitallers suddenly burst in and seized the goods. Wounded covenfolk were tended to. No explanation was given by the Hospitallers for their actions.
 
@@ -3413,7 +3413,7 @@ There are two or three main areas that are relevant to this scenario, as they re
 
 Most of the town has a Dominion aura of 2. The church and its graveyard have a Dominion Aura of 3 (5 near the altar). The town's aura has a Loyal Temper with a +1 rating, which does not affect the priory; technically the auras of the priory and the town are in Schism (see *Realms of Power: The Divine*, page 41), although this has no impact on the scenario. The Loyal Temper promotes dedicated, faithful, humble, and trusting Personality Traits, and opposes those associated with Pride (such as arrogance, rebelliousness, suspiciousness, and vanity).
 
-#### **Customizing the Town**
+#### Customizing the Town
 
 The assumption in this scenario is that the town is medium-sized with docks, a large market, and a cathedral. However, the details of the town can be changed significantly affecting the scenario. For example, Geoffrey the mayor may be merged with Lord Thomas if, in the area in Mythic Europe your saga is set, towns do not have independence from direct aristocratic rule. Similarly, although many towns in the center of Mythic Europe, such as Italy or France, have bishops, many towns in England, Germany, or Iberia may not be important enough to have their own bishop (or may not be wealthy enough to have a cathedral). Bishop Christoforo thus may be demoted to simply being an influential priest, or even a powerful abbot. It is not necessary for Enrico to be Venetian. Although Venetians can be found on most Mediterranean trade routes, if the scenario is set inland or in the north, then Enrico's nationality may need to be changed. Finally, although the scenario is set in a coastal town, it could easily take place in a town on a river or major in-land trade route.
 
@@ -3459,7 +3459,7 @@ The menu staples for the Priory of St. Ubaldesca include cooked meat — pork, m
 
 The refectory is divided between the kitchens and the storage areas. Two large ovens are installed in the ground, and are almost as deep as a fully-grown adult. Wooden tables and benches for preparing the food surround the ovens. There are baskets, barrels, and boxes of all shapes and sizes filled with all manner of foods, and herbs and vegetables hang on hooks from the ceiling. Most of the food, however, is stored in large rooms that are set into the earth, so as to keep things cool and out of the heat. There is enough food stored at the priory to feed a small army for months — and more than enough to feed the hundred or so Hospitallers, their servants, and their patients. Behind the refectory is an area used for slaughtering and butchering animals; the waste drains into the priory's sewer.
 
-#### **Hospital**
+#### Hospital
 
 The priory's hospital is an enormous, remarkably decorated building, divided into several wards. There are separate wards for women, an obstetrics ward, a ward for delirious patients, for surgery, and for those recovering from surgery.
 
@@ -3472,7 +3472,7 @@ Recovering in the priory's hospital is Eleanor of Mercere, an unGifted Redcap, w
 
 There is a subterranean passage leading from the hospital to the cells.
 
-#### **Stables**
+#### Stables
 
 There is room for over 100 horses in this stable, but there are less than 30 stabled here at any given time. Most of the horses suitable for battle are sent to the Holy Land, and only a small number are retained at the priory itself.
 
@@ -3482,7 +3482,7 @@ The stables are run by the Esquire, a brother-sergeantin-service, who has a team
 
 The stable is where the characters are likely to meet Henry the novice.
 
-#### **Chapel**
+#### Chapel
 
 The spiritual centre of the priory, and also the first destination of all brothers-at-arms in the event of an attack, the chapel is a relatively modest chamber large enough to comfortably contain all the Hospitaller brothers and senior donates and confraters. At the eastern end of the chapel is the altar. There is a small bell in the chapel roof, which is rung twice a day by one of the brother-priests to summon the brothers to their meal.
 
@@ -3492,11 +3492,11 @@ The chapel bell has been blessed by the Hospitaller's supreme religious leader, 
 
 
 
-#### **Hall**
+#### Hall
 
 The Hospitaller Hall is where the brothers and sisters gather several times a day for their communal prayers. It is a large room filled with benches for the brothers and sisters to sit on. There is a pedestal at the front of the hall (opposite the door) where the Prior or Constable stands to lead the prayers. Many of the brothers and sisters of the priory are illiterate, so they simply say their *paternosters* (the Lord's Prayer in Latin), which they have learned by rote.
 
-#### **Cells**
+#### Cells
 
 The communal sleeping quarters for the brother-knights and brother-sergeants, the cells consist of both a large sleeping area and several individual rooms. The building is attached to the hall and keep, and is very close to the chapel. Most brothers sleep together in a common dormitory. Only the Priory Constable and the Prior have their own sleeping cells. All brothers are required to be silent when in their cells and no brother may sleep naked.
 
@@ -3504,7 +3504,7 @@ There are several empty cells, to allow certain brothers the privilege of eating
 
 The subterranean tunnel from the hospital leads to the cells. The tunnel is used by brothers to reach the hospital.
 
-#### **Keep**
+#### Keep
 
 The priory's keep is the storehouse and treasury. A small building, it is also the most heavily fortified, with thick walls and gates. Unlike most of the other buildings in the priory, the keep is two stories, with a basement.
 
@@ -3516,11 +3516,11 @@ Contrary to popular rumor, there is not a treasure-
 
 trove of riches and wealth stored in the keep. There is enough cash — silver pennies — to guarantee most promissory notes from the Hospitallers' banking activities, but most of the wealth of the Knights Hospitaller exists in the assets they control: farms, businesses, property, arms and armor, horses, and trade-goods (such as spices, cloths and silk, sugar and other luxury items). These are difficult to liquidate, or are stored in warehouses near the town's docks and marketplace.
 
-#### **Nunnery**
+#### Nunnery
 
 The nunnery is simply a group of residential cells for the priory's sisters, separate from the cells of the brothers. Most of the sisters sleep communally, like the brothers, although there are individual cells for the Prioress Toscana and a few others. The sisters are most likely to be found in the nunnery if they are not performing their duties in the hospital or refectory. The priory's sisters have the same religious time-table as the brothers — they share common prayer and eating times.
 
-#### **Investigating the Priory**
+#### Investigating the Priory
 
 Arriving in town, the characters can quickly find out where the Priory of St. Ubaldesca is located. The Hospitallers have a good reputation in the town and its surrounds for their charitable work in looking after the sick, poor, and orphans. A Perception + (local) Area Lore roll against an East Factor of 9 gives the characters some basic information about the Knights Hospitaller, and their activities. Detailed investigation at the town by talking to locals reveals more.
 
@@ -3534,7 +3534,7 @@ The priory is open all hours of daylight. Scores of
 
 people go through the gates each hour, carting goods, assisting the sick or lame, or going about the many chores required for the priory to function. There are guards on the gates, but they are neither heavily armed nor particularly attentive. (Of course, if the Hospitallers are expecting something, such as an attack from the characters, then the guards are heavily armed and armored.)
 
-#### **Exploring the Priory**
+#### Exploring the Priory
 
 If the characters try to walk through the gates, the guards are likely to stop them — especially so if they have The Gift — to ask them their business. A meeting with the Constable or other senior brother is unlikely unless the characters have a very good excuse. Gifted characters find this difficult. The Blatantly Gifted find it impossible, as the guards bar them from entering the priory, and send for the Master Sergeant to deal with them.
 
@@ -3554,11 +3554,11 @@ Magically invisible characters are, of course, able to wander the priory at will
 
 The characters may decide to visit Enrico, the merchant who supplied the covenant's luxury and specialist goods. Enrico can be found at his warehouse. If confronted by the chracters he is terrified, but claims to know nothing of the covenant's stolen property, other than it was sent to the covenant as agreed.
 
-#### **Enrico's House & Warehouse**
+#### Enrico's House & Warehouse
 
 Enrico's warehouse is also his residence — a richly decorated house with large storage rooms attached. It is located on the edge of the wealthier area of town. Enrico is rich enough to employ a number of servants and staff to manage his home and the warehouse, in addition to servants he hires to take his trade goods from town to town. His mistress and illegitimate son also live here. Most servants are for manual labor, but he also employs a number of ruffians for security. .
 
-#### **Threatening Enrico**
+#### Threatening Enrico
 
 Mentem magic or sufficient threats (a Communication + Leadership + stress die versus Enrico's Avaricious Person-
 
@@ -3585,7 +3585,7 @@ There are several options available in negotiation with the Hospitallers, some m
 
 Gilbert, as an ambitious Hospitaller, is unwilling to return the covenant's goods. He has already impressed his masters in the Priory and in the Hospitaller Order more widely with the acquisition of the valuable goods in the first place. If he is required to return them, it would be embarrassing for him. He is more interested in protecting his career and influence than helping the covenant, and he sees his alliance with the Venetian merchant as very beneficial to the priory.
 
-#### **Negotiating with the Priory**
+#### Negotiating with the Priory
 
 The characters could go directly to Priory Constable Hermann, to Brother Gilbert the Master Sergeant, or to Prior Fulk. Characters who are, or appear to be, influential or wealthy will find it relatively easy to get an audience with the Hospitaller leadership.
 
@@ -3622,13 +3622,13 @@ Attempts to use magic (such as Mentem spells) on Hermann need to penetrate his M
 
 The characters may also be introduced to Prior Fulk, through the Redcap Eleanor, asking to meet him, or through happenstance. Fulk has a similar attitude and reaction towards the covenant's property and the characters as does Hermann and Gilbert, but if introduced to the characters by Eleanor he will be more helpful. However, the final decision on matters relating to property of the priory is made by Hermann.
 
-#### **Negotiating with Townsfolk**
+#### Negotiating with Townsfolk
 
 The town's lord, Lord Thomas, is almost entirely powerless to assist the characters. Hospitallers have papal exemption from all spiritual and lay authority, so even if the town's lord was inclined to help the characters, he has no power to demand that they return the covenant's property. Furthermore, Lord Thomas is unlikely to want conflict with the powerful Hospitallers, who maintain a sizable armed force within the bounds of the town and possess a great deal of popularity with the town's population.
 
 Geoffrey, the mayor, could also be approached by the characters for aid. Again, he is unable to give much assistance against the Hospitallers, and would not be inclined to cause the priory any trouble, as they are a wealthy and powerful organization in the town. If approached, he is likely to send a message to Constable Hermann about his conversation with the characters. This will tip off the Hospitallers that the characters are in town and are a potential source of trouble. If the characters speak to Geoffrey before approaching the priory, then Hermann will have a full description of the characters (or at least the ones who spoke to Geoffrey) and their activities. If the characters mention the stolen property to Geoffrey, then this will also be transmitted to Constable Hermann, who will take the precaution of securing the property (located in the priory's keep). Depending on the actions of the characters, the priory will be appropriately ready to respond.
 
-#### **Bringing in Bishop Christoforo**
+#### Bringing in Bishop Christoforo
 
 Bishop Christiforo is most sympathetic with the characters — he harbors a grudge against Prior Fulk and the Priory of St. Ubaldesca more generally. He has heard that the priory has come into great wealth from Enrico. If the characters or their servants are asking around about Enrico or the priory, his many servants and parishioners hear of this and bring it to his attention. Christoforo thus may ask to meet with the characters.
 
@@ -3829,7 +3829,7 @@ Martha is cousin by blood to Tholin of Jerbiton, and Tholin's sense of duty to f
 
 **Personality Traits:** Determinedly Independent +3, Brave +2, Loyal +1
 
-#### **Combat:**
+#### Combat:
 
 *Fist:* Init –1, Attack +1, Defense +0, Damage –2 *Kick:* Init –2, Attack +1, Defense –1, Damage +1 *Knife:* Init –1, Attack +3, Defense +1, Damage +0 *Thrown Knife:* Init –1, Attack +4, Defense +2, Damage +0 **Soak:** +0
 
@@ -3847,7 +3847,7 @@ If this scenario is being run as set in England, change Martha's Civil and Canon
 
 Lady Martha naturally has a feudal household. Some of its members are quite capable, and Martha has a knack for commanding loyalty. Unfortunately for her, these people lack strong initiative, and have limited social influence; they can't help her much with her big problems, and may get under the player characters' feet, especially if the characters behave too furtively or attract suspicion because of The Gift. Her men-at-arms are decently trained, but only reasonably armed; Lady Martha doesn't have a warrior-noble's obsession with shiny weapons. Harming any of her people would, of course, be highly counterproductive.
 
-#### **Sir Eberhardt**
+#### Sir Eberhardt
 
 If anyone questions Martha's ability to meet her feudal military obligations, she points to her man Sir Eberhardt. He was previously a mercenary whose travels took him to
 
@@ -3857,15 +3857,15 @@ the house of Lord Michael (see later). A game of chance led to a disagreement, t
 
 If you need character details for Eberhardt, base them on the Knight Companion template, though he's as much a mercenary captain as a knight, and not all that wealthy; his extra abilities come more from greater age (he's in his 30s) than from free time. Replace Relic with Reserves of Strength, make his Flaws Compulsion (Gambling), Oath of Fealty, and Enemies (Lord Michael), and add Carouse 2 (Games of Chance).
 
-#### **Charles the Bodyguard**
+#### Charles the Bodyguard
 
 Martha also has a personal bodyguard, Charles, previously a forester on her estate. He's gruff and shaggy, sentimental and intensely loyal. His game details, if required, can be based on the Grizzled Veteran template, replacing his Flaw with Weakness (Protecting the Defenseless) and rearranging his Abilities (and especially the specializations) to reflect a more mundane personal history. Lady Martha knows about his Weakness, and takes care that he usually thinks of her as the most defenseless person around.
 
-#### **Servants and Tenants**
+#### Servants and Tenants
 
 Most of Martha's other servants and tenants are fairly typical rural residents, with Attributes close to the average and Abilities reflecting moderate competence in their work. They include a capable steward, a priest, a couple of grooms, and a large number of peasants. They're generally as well fed and healthy as most members of their respective social classes (other than residents of a covenant, perhaps); visitors should receive the impression of a well-run estate.
 
-#### **The Daughters**
+#### The Daughters
 
 Martha's daughters may not have major speaking roles in this scenario, but they are central to the plot. The oldest two, Marguerite and Maria, aren't even in the area, being married to moderately powerful lords elsewhere. Martha maintains a correspondence with them, having made sure that both are literate. Their husbands provide her with some political support, but they aren't *quite* as devoted to her as she is to their interests. If a legal case reaches the royal court, their husbands' agents may assist Martha, but that aid may depend on them receiving support or assistance in return.
 
@@ -3875,7 +3875,7 @@ The youngest of the three, Catherine, is a 13-year-old girl still living with he
 
 Lady Martha has several neighbors who take a passing interest in her affairs, in the routine way of feudal equals in close proximity, but two of them in particular are important in this scenario.
 
-#### **Lord Michael**
+#### Lord Michael
 
 Lord Michael is the more ostentatiously difficult of these two. A graying warrior with an estate slightly smaller than Martha's, he has a simple opinion; she's a mere woman, which gives her no right at all to property, and her claim-
 
@@ -3894,7 +3894,7 @@ ing that estate is a bad joke. A man ought to be assigned to take care of it, an
 
 In short, he's an intellectually unremarkable ruffian in the clothes of a nobleman. He has clerks and lawyers working to undermine Martha's position, but their lack of immediate success and lengthy explanations merely make him more impatient. Anyone seeming to work against his claim will trigger his anger, though he can keep it in check for a short period, and he has a number of thuggish soldiers at his command.
 
-#### **Lord Roger**
+#### Lord Roger
 
 It may take the characters a while to realize that their larger problem is elsewhere, though Lady Martha may eventually point the fact out. Lord Roger is cooler and more courteous than Michael, but even more ambitious and *smarter*. For him, claiming Martha's lands would merely be another step on a path to ever greater wealth and power — but a nice big step. He isn't especially hostile to her, but he's even less inclined to put up with obstructions. However, he favors subtle and indirect schemes; the sort of violence that so appeals to Michael gives a devious woman like Martha the chance to spin a sob story in court, and damages property and peasants that could otherwise be squeezed for nice fat rents. (His tenants like him less than Michael's like their lord; Michael is easier to fool and employs more corruptible bailiffs.)
 
@@ -3946,7 +3946,7 @@ violating the Code, Asmorn will show himself and start issuing warnings or even 
 
 From here on, much depends on how the characters choose to act, how well they handle various antagonists, and how complicated the storyguide wants to make things. Note that it's perfectly possible to run more than one of the plots suggested below in parallel. Aside from forcing the players to divide their forces, this can provide opportunities for dramatic cross-cutting, with, say, evidence obtained from interrogation of a captured raider being used to humiliate Lord Michael in court, or young Catherine being taken along when Martha goes to plead her case before her overlord and forming a romantic attachment with someone she meets.
 
-#### **Court Drama**
+#### Court Drama
 
 For a subtle game, especially if any of the characters have high society influence or legal skills, the storyguide can concentrate on legal issues. In that case, Lord Roger will be the primary foe, with Michael's bullies and verbal explosions providing extra worries or comic relief.
 
@@ -3973,11 +3973,11 @@ Asmorn also shows up at some point. He would, of course, be viewed with intense 
 
 tribunal; he regards even the most subtle supernatural meddling at a high noble's court as beyond the pale.
 
-#### **Defending the Estate**
+#### Defending the Estate
 
 For a short, violent, *Seven Samurai*-style story, concentrate on Michael's attempts to damage Martha's income and prestige by sending bullies and ruffians to harass and burn out her tenants. This can lead to a series of fight scenes until the characters and Martha can accumulate enough evidence to take him to law or blackmail him with the threat, or inflict enough damage to his forces to force him to back off. Counterattacks are also possible, but risk escalating the conflict.
 
-#### **Young Love**
+#### Young Love
 
 There's also the possibility of a marriage for Catherine. The player characters may think of persuading Roger to accept a much less onerous dowry for his son, but by now, he's probably alienated Martha too far. Finding an alternative suitor can be as simple or as complex as the storyguide wishes.
 
@@ -4077,7 +4077,7 @@ The flute has several unique non-Hermetic magical powers, and it is a potent mag
 
 Storyguides should use their discretion to change the number of rounds the flute needs to work. There are also several optional powers that the storyguide may decide to use. Storyguides should also vary the Penetration of the flute's powers according to the Magic Resistance of the characters involved with this scenario, so as to increase or decrease the lethality of its powers as appropriate.
 
-#### **Cacophonic Armor**
+#### Cacophonic Armor
 
 PeVi 58
 
@@ -4087,7 +4087,7 @@ R: Touch, D: Performance, T: Ind Due to the distorting effects of the flute's mu
 
 (Effect: Non-Hermetic, base 40, +1 Performance)
 
-#### **Disharmony**
+#### Disharmony
 
 CrVi 78
 
@@ -4103,7 +4103,7 @@ The music created by the flute causes mystical disruptions in its targets by inf
 
 ## The Flute (cont'd)
 
-#### **Frenzied Fortitude (optional)**
+#### Frenzied Fortitude (optional)
 
 ReCo 25 Pen 0, Unlimited
 
@@ -4111,7 +4111,7 @@ R: Touch, D: Performance, T: Ind This optional power causes the flute player to 
 
 (Effect: Non-Hermetic, base 10, +1 Touch, +1 Performance)
 
-#### **Madness**
+#### Madness
 
 inflicted in a battle.
 
@@ -4123,7 +4123,7 @@ The player of the flute suffers from the obsessions created by this power and is
 
 (Effect: Non-Hermetic, base 15, +3 Voice, +3 Group)
 
-#### **Obsession**
+#### Obsession
 
 MuMe 48 Pen +5, Unlimited R: Sight, D: Moon, T: Ind
 
@@ -4131,13 +4131,13 @@ This power creates an overwhelming obsession in the mind of anyone with a musica
 
 (Effect: Non-Hermetic, base 4, +4 Sight, +2 Moon)
 
-#### **Strength of the Insane (optional)**
+#### Strength of the Insane (optional)
 
 MuCo 45 Pen 0, Unlimited R: Touch, D: Performance, T: Ind This optional power grants the flutist supernatural strength, granting a +5 bonus to Strength- and Staminarelated totals. It further allows the flute player to act as if he had the Reserves of Strength Virtue (**ArM5**, page 48).
 
 (Effect: Non-Hermetic, base 25, +1 Touch, +1 Performance)
 
-#### **Summon Music Spirit**
+#### Summon Music Spirit
 
 ReVi 75 Pen +30, Unlimited R: Arc, D: Mom, T: Ind
 
@@ -4145,7 +4145,7 @@ Using this power is only possible once all other sources of music are silent for
 
 (Effect: Non-Hermetic, base 30, +4 Arcane Connection)
 
-#### **Undulation**
+#### Undulation
 
 PeCo(An) 58 Pen +5, Unlimited R: Voice, D: Mom, T: Group
 
@@ -4190,11 +4190,11 @@ Bartholomew has been severely Warped by the magic of the flute. From the flute, 
 
 There are numerous potential victims for Bartholomew, all of whom have some kind of musical talent. Most of the victims come from the village, but one or more may come from the covenant. The storyguide should also consider whether the covenant (or even a player's character) has a known musical talent that Bartholomew may have heard of; if so, they also become his targets.
 
-#### **Paul, the Balladeer**
+#### Paul, the Balladeer
 
 Paul is a wandering musician from a nearby large village who specializes in love songs from Southern France, and in adoration tunes for the nobility. He has many tales of far-off places, such as Jerusalem, Rome, Constantinople, and the cathedral cities of the Germanic principalities. He delights locals with his tales of these places, and of his adventures — he claims to have traveled with French kings, rescued trapped maidens, and escaped from faerie lords. Whether or not his tales, or his descriptions of those far away places, are accurate is another matter.
 
-#### **Baldwin, the Lord's Entertainer**
+#### Baldwin, the Lord's Entertainer
 
 An old man with decades of experience in telling tales, legends, and ribald accounts of the local noble family's great deeds, Baldwin is a respected, well-known and wellliked entertainer. He most commonly plays during the lord's mealtimes. Baldwin is a great source of information about legends and tales of the area. He is also good friends with Bartholomew, whom he sees as something of a protégé. Baldwin lives on a farm on the edge of the village, where his wife is responsible for most of the day-to-day operation. In harvest seasons, Baldwin is wealthy enough to pay day laborers to work his fields.
 
@@ -4203,15 +4203,15 @@ An old man with decades of experience in telling tales, legends, and ribald acco
 
 Olivia is Baldwin and Mary's daughter. She is a pretty girl, and has attracted many suitors from within the village (notably Benedict, the village blacksmith) and from surrounding villages. She has no real desire to get married, and wants to leave the village to explore the wider world. Olivia has none of her father's musical talents, but is an excellent dancer. Olivia is an accidental victim of Bartholomew's murder of her father — she is driven mad, but not killed, by Bartholomew's flute.
 
-#### **Horace, the Precentor**
+#### Horace, the Precentor
 
 Horace is a layman who sings at religious festivals. He is known to have a marvelous voice, but several years ago he was chastised by the bishop for altering the style in which the psalms were recited, although he has since done his penance. Horace often has disputes with the village priest, Father Richard, often over minor matters, but also the role of music in church services and whether instruments should be used. Horace would like to introduce instruments into the singing of psalms and other religious music, but Father Richard is strongly opposed. Horace has a wife, Joan, and several children, and lives in a modest house in the village, where he is a laborer.
 
-#### **Gustav, the Talented Soldier**
+#### Gustav, the Talented Soldier
 
 A soldier in the service of the local lord, Gustav is a middle-aged, gruff man who is well respected for both his martial skill and his musical ability. Not only does he know many ballads and poems, but he can play a number of musical instruments, and can juggle. Gustav is well known for his heavy drinking during festivities. He has a number of illegitimate children in the area, including in the village. It is rumored that he possesses a holy relic.
 
-#### **Jeremiah, the Shepherd**
+#### Jeremiah, the Shepherd
 
 A young boy, Jeremiah looks after a large sheep herd for Philip, the local lord. He is known to have an enchanting voice, and it is rumored that his father is a mysterious stranger from the woods, with bewitching eyes and a captivating voice.
 
@@ -4219,7 +4219,7 @@ A young boy, Jeremiah looks after a large sheep herd for Philip, the local lord.
 
 Murder victims have families and friends; people who the characters can question, or who ask the characters for assistance in solving the murders. They can aid or hinder the investigation. Here are some of the characters who the characters are most likely to interact with, or who have useful information.
 
-#### **Father Richard, the Village Priest**
+#### Father Richard, the Village Priest
 
 Father Richard is a dour and serious man who discharges his duties with great solemnity and stoicism. Not particularly educated, he does have a great deal of experience in a range of matters, from theology to managing local politics, and basic medicine. Richard is an unsophisticated but intelligent man, with a firm grasp of his role, and a good knowledge of his flock. He is also known to loudly disapprove of folk music and its various incarnations — he believes it is a remnant of paganism and idolatry, and forbids instruments to be used in his church ceremonies. Father Richard has argued publicly with several people in the village about the role of music, particularly Baldwin and Horace.
 
@@ -4227,7 +4227,7 @@ The village priest will deal in some way or another with the murder victims, as 
 
 His attitude towards magic is undetermined — he has never encountered magic, and his experience and training have not prepared him to make any judgments. The conduct of the first magicians he meets will likely color all future opinions he has towards magic and wizards. If the magic-using characters are courteous and use their magic for good ends, then he will be a useful ally; if they are arrogant or destructive, he will be an annoying foil.
 
-#### **Philip, the Local Lord**
+#### Philip, the Local Lord
 
 No ruler likes murders to take place in his territory, and Philip is no different. Philip is a young and ambitious lord, with his eyes on his neighbors' lands, and his mind turned towards how he can improve his station. He is already using his land's surplus to increase the number of soldiers and
 
@@ -4237,23 +4237,23 @@ knights in his service, and he extensively donates land and money to influential
 
 Philip will be a likely foil to the characters, with suspicions that repeated murders are the fault (somehow) of the covenant. He is likely to demand that they stop the murders, or prove that they are not responsible. He has a number of warriors in his service — sheriffs and bailiffs, as well as knights installed in manors throughout his lands.
 
-#### **Benedict, the Blacksmith**
+#### Benedict, the Blacksmith
 
 Benedict is a heavy-set man with a lot of brawn and not much else. As the blacksmith, he is a wealthy villager, but is mostly disliked by the villagers for his violent temper and arrogant attitude towards those who he thinks are weaker than he is. Benedict is keen on getting a wife, since his last one died in childbirth several years ago, leaving him with a daughter. He is particularly attracted to Baldwin's daughter Olivia, but has gotten into several violent arguments with Baldwin over this (Baldwin refuses to consider Olivia marrying Benedict).
 
-#### **Mary, the Tearful Wife**
+#### Mary, the Tearful Wife
 
 Mary is Baldwin's wife, and suffers from the affliction of terrible visions. Before his death, she will has several bad dreams that something terrible will befall him. Mary and Baldwin also have a daughter, Olivia. Mary is deeply distressed at his death, and tries to help track down the cause. She suspects that Benedict is responsible somehow.
 
-#### **Elizabeth, the Gossip**
+#### Elizabeth, the Gossip
 
 A local busy-body, Elizabeth is a great source of stories and rumors about the victims and of theories as to who suspects should be. Elizabeth is as likely to be the source of red-herrings as she is to provide useful information, though. She can relay most of the general information about the characters to the characters, although she obviously does not know who is truly responsible for the murders.
 
-#### **Thomas, the Hermit**
+#### Thomas, the Hermit
 
 On the edges of the village lands lives Thomas, a reclusive hermit with a vow of poverty and chastity. Thomas has almost no contact with the villagers, only occasionally seeing them when he travels close to a farm. He lives by hunting and gathering in the woods that surround the village. Thomas is a skilled huntsman and herbalist.
 
-#### **Otto, the Hosteller**
+#### Otto, the Hosteller
 
 Otto owns a house with a large main room for visitors to the village to stay in, for a small fee. Most visitors, particularly the representatives of Lord Philip like Gustav, stay with Otto, as do visiting entertainers such as Bartholomew and Paul. Otto has a large family — a wife and five children of varying ages — and supports himself and his family by laboring during harvest seasons, and brewing beer.
 
@@ -4301,7 +4301,7 @@ There are several important areas in the village and surroundings: a small churc
 
 These ideas may help get your players involved in the story.
 
-#### **Character Story Flaws**
+#### Character Story Flaws
 
 **Close Family Ties**: One of the victims is a distant (or close) family member, or alternatively the friend, ally, or servant of a family member, with the family member requesting help.
 
@@ -4315,7 +4315,7 @@ These ideas may help get your players involved in the story.
 
 **Visions**: You receive a vision of the destructive rampage of the music spirit, or of the murders.
 
-#### **Covenant Hooks**
+#### Covenant Hooks
 
 **Protector**: Your covenant protects this village, and is asked for help in solving the murders.
 
@@ -4345,11 +4345,11 @@ Bartholomew and all of his future victims are present at the funeral, and the ch
 
 There are two deaths to investigate: the death of Paul the traveling balladeer, and of Baldwin the lord's entertainer.
 
-#### **What the Villagers Say About Paul**
+#### What the Villagers Say About Paul
 
 Paul's body was found by one of the village laborers a week ago, on one of the paths leading to a nearby village. He had left the village two days before. When he was found he was a little off the track, and had a broken neck. His face was contorted into a terrible grimace, as though he was feeling intense pain when he died. The village priest and several villagers retrieved the body and took it to the church where it was laid out. Paul's funeral was held three days ago. A few villagers say that the Devil (or a malicious faerie) killed him out of jealousy of his talent.
 
-#### **What the Villagers Say About Baldwin**
+#### What the Villagers Say About Baldwin
 
 Baldwin was found by his wife, surrounded by his broken instruments, and with his daughter Olivia missing. When he was found, he was clutching his chest. Mary, his wife, was away from the village when Baldwin died, because she had to deliver some farm produce to her family that lives in a neighboring village. Some villagers report hearing haunting music coming from his house the night he died, which suddenly stopped. Many villagers believe Olivia was responsible for Baldwin's death, and that she fled to avoid punishment.
 
@@ -4360,7 +4360,7 @@ Paul was murdered first because he was an easy target — he had no close friend
 
 Bartholomew followed Paul as he left to travel to another village or town. He struck when the village was well out of sight and earshot, and hid in the woods along the road. When he started playing his flute, Paul left the road to uncover its source. By the time he came close to Bartholomew, the flute's music overwhelmed him. Driven mad, Paul ran through the woods until he stumbled over a root and broke his neck. Bartholomew meanwhile rushed back to the village.
 
-#### **Mundane Investigation at the Murder Scene**
+#### Mundane Investigation at the Murder Scene
 
 To uncover clues at Paul's murder scene requires a Perception + Ability + stress die roll. Characters can use Awareness, Hunt, or Survival to find clues.
 
@@ -4376,36 +4376,36 @@ To uncover clues at Paul's murder scene requires a Perception + Ability + stress
 
 *Total 24 or above*: The second set of tracks lead to and from Otto's hostel.
 
-#### **Mundane Investigation of Paul's Body**
+#### Mundane Investigation of Paul's Body
 
 Paul has already been buried. Father Richard, and the villager who found Paul's body, can give a description of how they found him. The villager says that he saw some tracks leaving the road, followed them, and found Paul's body. He quickly ran back to the village to get Father Richard, and both of them carried Paul back to the village. There he was laid in the church, and buried two days later. Father Richard concurs with this story, and says that he believes that Paul died of a broken neck. The priest will also say that Paul's face was contorted, as though he was screaming, but while he was laying in the church, Father Richard set his features to an expression of peace.
 
 If the characters decide to dig up his body, a Perception + Chirurgy or Medicine + stress die roll against an Ease Factor of 9 will reveal that Paul died of a broken neck. Paul's body was washed before being buried, so there are no other clues.
 
-#### **Supernatural Investigation**
+#### Supernatural Investigation
 
 Magical investigation is made difficult because of the time that has passed since Paul died.
 
 
 
 
-#### **Intellego Animal**
+#### Intellego Animal
 
 Spells such as *Opening the Tome of the Animal's Mind* (see **ArM5**, page 118) reveal a hazy memory of terrifying music coming from where Paul died. Most animals remember fleeing the area. If the characters succeed in the Perception + Finesse roll, they get an image of a man playing a flute, but the memories were too long ago for the animals to remember other details. Animal spells using the base level 20 guideline ("thoroughly probe the mind of a beast") also show a man in a plain dark cloak and hood playing a flute. The animal flees after hearing the music, so can reveal no other details. If the animal being spoken to is a predator, then it also remembers the man's scent.
 
-#### **Intellego Auram**
+#### Intellego Auram
 
 Spells using the base level 15 guideline ("speak with air", **ArM5** page 127) cast in the area where Paul died reveal only a memory of the music from the flute. The poor memory of the air means that the music does not affect the spellcasting character who hears it. It sounds like a haunting and eerie whistle.
 
-#### **Intellego Corpus**
+#### Intellego Corpus
 
 Intellego Corpus spells are stymied by the fact that Paul has received a church burial — *Whispers Through the Black Gate* and similar spells fail. *Revealed Flaws of Mortal Flesh* reveals that Paul died of a broken neck, but also that his humors were dangerously unbalanced just before he died. An Intelligence + Medicine (or Chirurgy) + simple die against an Ease Factor of 9 reveals that Paul would have died very soon afterwards if he had not broken his neck.
 
-#### **Intellego Herbam**
+#### Intellego Herbam
 
 Spells such as *Converse with Plant and Tree* (and others using the base level 15 guideline, **ArM5** page 136) are not very helpful — a great deal of time has passed since the murder took place. The trees near where Paul fell remember him running madly through the woods and falling, while those a distance away remember a second man (Bartholomew, though the footprints do not reveal this) walking and making terrible sounds. Smaller plants have no memory of what occurred.
 
-#### **Intellego Terram**
+#### Intellego Terram
 
 Casting the spell *Stone Tell of the Mind that Sits* or Intellego Terram spells using the base level 20 guideline (see **ArM5**, page 153) reveals that Paul wandered off the track, madly ran through the forest, and stumbled over a root and fell. Casting this spell a distance away will give more details — the second man's weight (average for an adult man) and that he stood still there for several minutes while Paul was running about.
 
@@ -4417,7 +4417,7 @@ Bartholomew visited Baldwin early one morning, under the ruse of discussing a br
 
 Unknown to Bartholomew, Baldwin's daughter Olivia overheard some of the music, and was also driven mad. Olivia ran from the village, until she was knocked unconscious by a low-hanging branch and was discovered by Thomas, the hermit.
 
-#### **Mundane Investigation of the Murder Scene**
+#### Mundane Investigation of the Murder Scene
 
 Baldwin was murdered in his home, in the house's main room. A Perception + Awareness + stress die roll is required to find clues.
 
@@ -4435,25 +4435,25 @@ the listener's head struck while fleeing the building. *Total 24 or greater*: Th
 
 Baldwin's body is laid out in the church. Because he has not been buried yet, the characters can examine it, assuming they convince Father Richard that they mean no harm. A Perception + Medicine + stress die against an Ease Factor of 12 reveals that Baldwin died from an extreme imbalance in his humors, which caused heart failure. There are also bruises and abrasions on Baldwin's hands and arms. A Perception + Chirurgy + stress die roll against an Ease Factor of 9 reveals that these were caused as he smashed his musical instruments.
 
-#### **Supernatural Investigation**
+#### Supernatural Investigation
 
 to Baldwin's house.
 
 Because Baldwin has not been buried yet, Intellego Corpus and Mentem spells can be cast on his body. If the characters ask to perform the spells while Father Richard is near, they need to convince him that they are not desecrating Baldwin's body, which requires a Communication + Charm or Leadership + stress die roll against an Ease Factor of 12 (or 15 if they want to take the body out of the church).
 
-#### **Intellego Auram**
+#### Intellego Auram
 
 Casting Intellego Auram spells in Baldwin's house us-
 
 ing the base level 15 guideline reveals that several nights ago frightening music was played in the house. The air in the house also remembers a conversation between Baldwin and someone else. The characters may be able to determine whose voice it is if they hear Bartholomew's voice, or use Intellego Imaginem to remember the voice exactly (see the Intellego Imaginem base level 1 guidelines, **ArM5** page 45). Baldwin addresses the guest as his friend, but does not name him.
 
-#### **Intellego Corpus**
+#### Intellego Corpus
 
 Casting *Whispers Through the Black Gate* on Baldwin's body summons his spirit, which has been driven irrevocably insane (short of a miracle). Baldwin's spirit only mindlessly hums the tune performed by his visitor, and cries and screams. The sight of an insane spirit may require a Brave Personality Trait roll to avoid being unnerved. Spells such as *Revealed Flaws of the Mortal Flesh* show that Baldwin died of massive humor imbalances that caused his heart to fail; lesser spells such as *Physician's Eye* show only that he is dead.
 
 If the characters found the blood on the doorway, they can use it as an Arcane Connection to find where Olivia is. This requires the spell *The Inexorable Search* or *The Eye of the Sage*, or equivalent. Olivia is in the woods outside the village, where she is being cared for by Thomas the hermit.
 
-#### **Intellego Herbam**
+#### Intellego Herbam
 
 Intellego Herbam spells only work if cast on the furniture, broken instruments, or wooden parts of the house itself, such as the roof beams or the wooden door. Us-
 
@@ -4474,7 +4474,7 @@ ing the base level 15 guideline requires an extra magnitude because the wood is 
 
 The characters may also use Intellego Herbam on Baldwin's clothes, which are fashioned from plant products. The *Converse with Plant and Tree* spell or equivalent in this case only reveals information about Baldwin, and his side of the conversation. He makes pleasant small talk about music and performances with someone he calls a friend, before he suddenly goes into a rage.
 
-#### **Rego Mentem**
+#### Rego Mentem
 
 Calling up Baldwin's ghost can be achieved through the spell *Incantation of Summoning the Dead*, and can be cast either at his house where he died, or with his body. Baldwin's ghost has a Magic Resistance of 5. Using Rego Mentem to summon his ghost has the same result as speaking to his spirit using Intellego Corpus — the ghost is insane. Baldwin's ghost has no desire to help, and mindlessly hums and sings the tune that drove him mad.
 
@@ -4496,7 +4496,7 @@ Horace is murdered after he has a loud and public argument with Richard, the vil
 
 Later that day, Bartholomew approaches Horace and suggests that he has a suspicion about the cause of Baldwin's death. The two plan to meet later that night at a storage shack used by the church on the outskirts of the village. While waiting for the minstrel, Horace is assailed by Bartholomew's music, as the murderer plays the magical flute from a hiding place outside the shack. Horace madly runs from the shack towards the church, where a stumble at the church door sees him crack his head. Again, Bartholomew flees the scene.
 
-#### **The Village Church**
+#### The Village Church
 
 The church is in near-ruin, and was clearly built centuries ago, with only a few repairs done in the intervening decades. There is a stone foundation, and thick, but rotting, wooden walls. Father Richard sleeps in the nave –— there are no rooms in the church except for the nave (where the congregation stands) and the sanctuary (where the altar is situated).
 
@@ -4515,22 +4515,22 @@ A Perception + Awareness or Hunt + simple die versus an Ease Factor of 9 is requ
 
 *Total 24 or greater*: The second person's tracks lead from the shack to Otto's hostel.
 
-#### **Mundane Investigation of Baldwin's Body**
+#### Mundane Investigation of Baldwin's Body
 
 A Perception + Chirurgy or Medicine + simple die roll against an Ease Factor of 6 will show that Horace died from head trauma. As he was running, he smashed his head against the church's stone wall.
 
-#### **Supernatural Investigation**
+#### Supernatural Investigation
 
-#### **Intellego Corpus**
+#### Intellego Corpus
 
 Intellego Corpus spells such as *Revealed Flaws of the Mortal Flesh* show that Horace died from smashing his head. However, it also shows that, like the other victims, Horace's humors were dangerously out of balance, and that he would have died shortly afterwards if he had not hit his head.
 
-#### **Intellego Herbam**
+#### Intellego Herbam
 
 Interrogating the wooden structure of the hut requires using the base level 15 guideline with an extra magnitude for worked wood. Since the event is recent, the information is much clearer than when investigating the other events. Casting this spell shows Horace entering and
 
 
-#### **Intellego Terram**
+#### Intellego Terram
 
 There are a number of gravestones near the shack; casting an Intellego Terram spell to speak to the stones shows the hooded man hiding behind the shack late at night, and after a while, Horace leaving the church to going to the shack. After Horace runs from the shack back to the church, the hooded man leaves and goes back to the village.
 
@@ -4546,7 +4546,7 @@ Gustav is ambivalent to another group of people magi or not — also asking ques
 
 
 
-#### **Otto's Hostel**
+#### Otto's Hostel
 
 Otto runs the village's hostel — in reality a large barn connected to his house — where he provides lodging to the local lord's men when they stay, and where he accommodates visitors to the village. The hostel is a large open space, with a small private room; the floor is covered in straw. Otto keeps some of his animals in the barn, and will often store other villagers' animals for a small fee. When important people stay at the village, Otto and his wife will stay in the barn and give their house over to the dignitary.
 
@@ -4556,7 +4556,7 @@ On his last evening after spending several days in the village, Gustav asks Bart
 
 Gustav's body is found by his two retainers and Otto, who see someone running from the building. Gustav's retainers try to follow the fleeing person, but lose him once they reach the woods outside the village. Upon their return, they awaken many of the villagers.
 
-#### **Mundane Investigation of the Murder Scene**
+#### Mundane Investigation of the Murder Scene
 
 Gustav died in Otto's hostel. Otto affirms that Gustav was alone with Bartholomew, but the two retainers are not sure who they saw. A Perception + Awareness + stress die is needed to find clues. The characters may also search for Arcane Connections to Bartholomew; these are easy to find and do not require a roll. Bartholomew has left clothes and musical instruments behind, which can be used as Arcane Connections in Intellego spells to locate him.
 
@@ -4564,19 +4564,19 @@ Gustav died in Otto's hostel. Otto affirms that Gustav was alone with Bartholome
 
 *Total 9 or greater*: By the layout of the few pieces of furniture and sleeping mats in the hostel, there was another person in the room. The other person in the room was someone who had stayed in the room previously — another guest or occupant of the hostel, such as one of the retainers or Bartholomew.
 
-#### **Mundane Investigation of Baldwin's Body**
+#### Mundane Investigation of Baldwin's Body
 
 A Perception + Chirurgy + stress die versus an Ease Factor of 3 shows that he died from being impaled on his own sword (on a failure, characters think that the sword wound was inflicted after death); an Ease Factor of 12 shows that certainly he died by his own hand (there are no defensive wounds).
 
-#### **Supernatural Investigation**
+#### Supernatural Investigation
 
 Most of the information gained from Intellego spells is very current. Therefore, if the right spells are used, the characters learns Bartholomew's identity and the method he uses to murder his victims.
 
-#### **Intellego Auram, Herbam and Terram**
+#### Intellego Auram, Herbam and Terram
 
 Intellego spells cast on the air, wooden and stone structures, or metal objects in Otto's hostel show the scene as described earlier. Gustav and Bartholomew were singing and playing music (Bartholomew does not use his flute at this point), and Gustav was drinking. Towards the end of the evening, Bartholomew produced a flute and started playing; after a few minutes, Gustav went into a rage and clutched at his ears. Bartholomew ran from the hostel, and in his rage, Gustav threw himself on his own sword. Because the murder happened recently, the air, wood, stone, and metal objects have a fresh memory of what occurred in the room.
 
-#### **Intellego Corpus**
+#### Intellego Corpus
 
 Summoning Gustav's spirit through the spell *Whispers Through the Black Gate* has an identical result to talking to the spirits of the other victims — the spirit is insane. Spells such as *Revealed Flaws of the Mortal Flesh* show that he died from being impaled by his sword, and again, that his humors were lethally unbalanced.
 
@@ -4590,7 +4590,7 @@ On the morning after Gustav's death, Bartholomew waits for Jeremiah near where t
 
 Jeremiah's death, but also that of many nearby sheep that did not flee the music fast enough. Jeremiah's body is found the next day, after his mother and the owner of the sheep become worried at his disappearance, and the two bring his body back to the village.
 
-#### **Mundane Investigation of the Murder Scene**
+#### Mundane Investigation of the Murder Scene
 
 Jeremiah died in the fields surrounding the village, which are rocky and hilly. A Perception + Awareness, Hunt, or Survival + stress die roll is needed to find clues.
 
@@ -4598,23 +4598,23 @@ Jeremiah died in the fields surrounding the village, which are rocky and hilly. 
 
 *Total 9 or greater*: Tracks lead from the woods where someone (Bartholomew, though this isn't apparent from the tracks) hid overnight, to the outskirts of the village, then follow Jeremiah to the fields and his hiding place. *Total 12 or greater*: Tracks lead from the murder place.
 
-#### **Mundane Investigation of Jeremiah's Body**
+#### Mundane Investigation of Jeremiah's Body
 
 Jeremiah's body is taken by his mother to the church, where he is laid out before the altar. His mother is distraught, and will not leave her son's body or let anyone tamper with it. It will require a Communication + Charm or Leadership + stress die against an Ease Factor of 15 to convince her to leave strangers or Gifted characters alone with Jeremiah's body. A Perception + Medicine + stress die against an Ease Factor of 12 shows he died from organ failure caused by imbalanced humors.
 
-#### **Supernatural Investigation**
+#### Supernatural Investigation
 
 Like supernatural investigation of Gustav's murder, the information gained from Intellego magic is detailed, as it is fresh in the memory of the beasts and inanimate objects nearby.
 
-#### **Intellego Animal**
+#### Intellego Animal
 
 Intellego Animal spells cast on the sheep that were in Jeremiah's care, using the base level 15 guideline ("read the recent memories of a beast"), reveal that the sheep saw a man in a hooded cloak and holding a flute approach Jeremiah where he was sitting. When the man began to play music, most of the sheep fled in terror. Some of the sheep are partly deranged and sick due to some exposure to the music.
 
-#### **Intellego Auram, Herbam and Terram**
+#### Intellego Auram, Herbam and Terram
 
 There are several prominent rocks and trees in the field where Jeremiah died. Intellego spells that allow characters to talk to any of these relay to them the circumstances in which Jeremiah was murdered, as laid out earlier. Additionally, the character also finds out the direction in which the flutist ran after murdering Jeremiah.
 
-#### **Intellego Corpus**
+#### Intellego Corpus
 
 Jeremiah's spirit and ghost, like the other victims, has been driven mad by the music of the flute. Spells to determine his cause of death show that it was through a massive imbalance of humors.
 
@@ -4624,15 +4624,15 @@ What if the players roll terribly when trying to find clues? This is common road
 
 Storyguides can avoid this roadblock in several different ways:
 
-#### **Avoid the Rolls**
+#### Avoid the Rolls
 
 Describe the scene and the clues. If the characters are competent, with high Awareness or relevant skills, then they may automatically notice crucial facts such as that there are tracks leading away from the body, or that there was a third person present.
 
-#### **Only Have Rolls for Additional Clues**
+#### Only Have Rolls for Additional Clues
 
 This assumes that the characters automatically find a set of basic clues, and that the rolls will uncover additional information, rather than the basic clues needed to help lead the characters to the next scene.
 
-#### **Encourage Spending of Confidence Points**
+#### Encourage Spending of Confidence Points
 
 A Confidence Point can help ensure that the players and their characters succeed in finding the clues.
 
@@ -4659,7 +4659,7 @@ Should the characters try to dissuade him or try to take away his flute, he trie
 
 Having killed Jeremiah, Bartholomew hides in the woods for some time to sense whether he has been successful in silencing other sources of music. The next day, after realizing that he was successful, he makes his way to a spot overlooking the village and surrounding area at sunset to play the flute. If the characters arrive too late to stop him from playing the flute, his performance summons the music spirit.
 
-#### **The Music Spirit**
+#### The Music Spirit
 
 If summoned, the music spirit goes on a mindless rampage. The spirit only spends a short time (approximately an hour) manifested before returning to the Realm of Magic.
 
@@ -4732,15 +4732,15 @@ The characters may also have acquired the flute. This powerful magical device is
 
 The precise nature of the flute is shrouded in mystery. There are several possibilities, and the storyguide can decide which of the following three possibilities she prefers.
 
-#### **The Ungodly Brother**
+#### The Ungodly Brother
 
 A decayed tome recalls, in a trembling hand written years ago by a terrified monk, that a brother uncovered an ungodly flute whose music sent the abbot and the monastery's preacher (the monk in charge of the library) into mad fits of insanity. Eventually the brother climbed to the highest point of the monastery and played his dreadful song, while the monks lay trembling with their hands fastened over their ears. In the morning, they found no sign of the brother, but the stones upon which he stood were blackened and twisted as if by some unearthly force, and nearby lay the flute. Unable to destroy it, the monks hid it deep in the monastery so that it would never be found.
 
-#### **The Farmer's Fate**
+#### The Farmer's Fate
 
 A legend recalled in the gloss of a centuries-old summa speaks of a farmer who followed the path of a falling star, and there found a flute. Upon returning home, he told his neighbor. The neighbor returned the next day to find the farmer, his family, and all his animals apparently driven to death by some unseen hand. The earth and trees around the farmer were so horribly twisted and distorted that the neighbor believed a terrible curse had struck the farm. Clasped in the fist of the farmer was the flute, which the neighbor took and buried at a crossroads, believing it had caused the farmer's awful fate.
 
-#### **A Covenant's Insanity**
+#### A Covenant's Insanity
 
 A little-used Hermetic history tractatus mentions a covenant near to the troupe's home that was known for its mastery of Pythagorean music and its Hermetic uses. A terrible fate befell the covenant when its most intelligent and promising members fell into a deep Twilight and returned with a magical flute. No accurate record remains of what happened afterwards, but is believed that this instrument was the cause of the covenant entering into a deep and fatal Winter. The first time the magus played his instrument to his sodales, they also seem to have entered a deep Twilight from which none returned unscathed. Crippled by Twilight-inspired insanity, the covenant was abandoned by its covenfolk, who spread the story among the Order of the last moments of the instrument and its player, who was dragged triumphantly into a dreadful vortex of pure, tangible and incomprehensible sound. Only the flute, which none of the grogs dared touch, was left behind.
 
@@ -4761,7 +4761,7 @@ The new group sends a shill among the characters to make sure they find records 
 
 The village is made up of a series of spaces in which characters can plan ambushes against the raiders. There are a sufficient number of raiders to terrify the locals, and for each magus to feel concern that thaws to triumph. Both groups of faeries feed on these emotions. When each magus has used his or her unique skills to defeat a cluster of opponents, at the emotional apex of the story, both sides of faeries contrive a violent climax. That is, both groups of faeries seek to raise the magi to the highest pitch of emotion, then conclude the story in a rapid and bloody way.
 
-#### **If the Players Wreck the Re-enactment it Doesn't Matter**
+#### If the Players Wreck the Re-enactment it Doesn't Matter
 
 The stories that the two groups of faeries are trying to tell are likely to be ruined by the player characters. This favors the group of faeries that seek the defense of the town. Storyguides should be unconcerned if the players entirely derail the plans of one or both factions of faeries. This scenario is designed as a change of pace from the other stories in this book. It's not about simulating a realistic, mystical European society. It's about having an in-game excuse to hit people and blow things up.
 
@@ -4838,7 +4838,7 @@ Most of the raiders look like waterlogged corpses. To attack a raider, any human
 
 In their role as Viking ghosts, the faeries do not fear death: indeed they seek it out. This means that they will not retreat, even in the face of terrible casualties.
 
-#### **Untested Boy**
+#### Untested Boy
 
 **Faerie Might:** 5 (Corpus)
 
@@ -4870,7 +4870,7 @@ Dex 0, Qik +1
 
 **Pretenses:** Athletics (rowing) 3, Awareness 2 (treasure), Brawl 3 (dagger), Carouse 5 (in the Viking way), Faerie Speech 5, Hunt (humans) 2, Profession (Sailing) 3, Ride (horse) 2, Swim 2 (underwater), Single Weapon (chose one from combat table) or Great Weapon (Pole Axe) 1, Thrown Weapon (javelin) 1
 
-#### **Powers:**
+#### Powers:
 
 *Damaging Effect,* 0 points, -2 Init (2 intricacy points on cost): Adds +5 to the damage of the Viking's primary weapon, in a clearly unnatural way. These Vikings have weapons made of sea ice and human bones.
 
@@ -4881,7 +4881,7 @@ Dex 0, Qik +1
 **Appearance:** Untested boys look like the ghosts of drowned male children. Individual untested boys cannot stand against even inexperienced grogs, but undead children with huge axes and homicidal intentions are useful markers of mood.
 
 
-#### **Young Warrior**
+#### Young Warrior
 
 Young warriors are the shock troops of a Viking assault. If the players characters choose not to lay traps through the streets and buildings of the village, and instead form up the defenders on the shore, they face the young warriors first.
 
@@ -4918,7 +4918,7 @@ Dex 0, Qik +1
 
 **Pretenses:** Athletics (rowing) 3, Awareness 2 (treasure), Brawl 3 (dagger), Carouse 5 (in the Viking way), Faerie Speech 5, Hunt (humans) 2, Profession (Sailing) 3, Ride (horse) 2, Swim 2 (underwater), Single Weapon (chose one from combat table) or Great Weapon (Pole Axe) 4, Thrown Weapon (javelin) 3.
 
-#### **Powers:**
+#### Powers:
 
 *Damaging Effect,* 0 points, -2 Init (2 intricacy points on cost): Adds +5 to the damage of the Viking's primary weapon, in a clearly unnatural way. These Vikings have weapons made of sea ice and human bones.
 
@@ -4928,7 +4928,7 @@ Dex 0, Qik +1
 
 **Appearance:** Corpses of fit young men, with ghoulish weapons.
 
-#### **Seasoned Warriors**
+#### Seasoned Warriors
 
 **Faerie Might:** 10 (Corpus)
 
@@ -4960,7 +4960,7 @@ Dex 0, Qik +1
 
 **Pretenses:** Athletics (rowing) 3, Awareness 2 (treasure), Brawl 3 (dagger), Carouse 5 (in the Viking way), Faerie Speech 5, Hunt (humans) 2, Profession (Sailing) 3, Ride (horse) 2, Swim 2 (underwater), Single Weapon (chose one from combat table) or Great Weapon (Pole Axe) 6+2, Thrown Weapon (javelin) 3
 
-#### **Powers:**
+#### Powers:
 
 *Damaging Effect,* 0 points, –2 Init (2 intricacy points on cost): Adds +5 to the damage of the Viking's primary weapon, in a clearly unnatural way. These Vikings have weapons made of sea ice and human bones.
 
@@ -4970,7 +4970,7 @@ Dex 0, Qik +1
 
 **Appearance:** Seasoned warriors are similar to young warriors, but have forms that appear older. These faeries have what seem to be terrible death wounds about the head or chest. These apparent injuries, while disfiguring and frightening, are superficial and do not affect combat performance.
 
-#### **Chieftain's Bodyguards**
+#### Chieftain's Bodyguards
 
 **Faerie Might:** 15 (Corpus)
 
@@ -5000,7 +5000,7 @@ Dex 0, Qik +1
 
 **Pretenses:** Athletics (rowing) 3,Awareness 2 (treasure), Brawl 3 (dagger), Carouse 5 (in the Viking way), Faerie Speech 5, Hunt (humans) 2, Profession (Sailing) 3, Ride (horse) 2, Swim 2 (underwater), Single Weapon (chose one from combat table) or Great Weapon (Pole Axe) 6+2.
 
-#### **Powers:**
+#### Powers:
 
 *Damaging Effect,* 0 points, –2 Init (2 intricacy points on cost): Adds +5 to the damage of the Viking's primary weapon, in a clearly unnatural way. These Vikings have weapons made of sea ice and human bones.
 
@@ -5010,7 +5010,7 @@ Dex 0, Qik +1
 
 **Appearance**: The drowned bodies of large, well-groomed Vikings with excellent equipment and jewelry, most of which turns into sea foam when they die. Bodyguards have apparent injuries that are even more hideous than those of the remaining faeries.
 
-#### **Berserkers**
+#### Berserkers
 
 Berserkers are warriors dedicated to the Odin cult who enter battle so crazed that they do not recognize friend, foe, pain, or orders. Some berserkers lose track of which shape they should be in, and fight as bears, wolves, or human-animal hybrids. Berserkers do not attack each other, so they can fight in groups, but only with other berserkers. The faeries playing berserkers are exaggerating them to the hilt: they roll their eyes, chant nonsense, and some run into battle nude. If met with an army in the field, the Viking chieftain keeps his berserkers for a separate attack, or uses them in a preliminary charge, so they do not compromise his main formation.
 
@@ -5034,7 +5034,7 @@ Berserkers are warriors dedicated to the Odin cult who enter battle so crazed th
 
 **Pretenses:** Athletics (rowing) 5, Awareness 2 (treasure), Brawl 8 (with humans), Carouse 5 (in the Viking way), Faerie Speech 5, Hunt (humans) 2, Theology (weird version of Odin worship) 5, Ride (horse) 2, Swim 2 (underwater)
 
-#### **Powers:**
+#### Powers:
 
 *Damaging Effect,* 0 points, –2 Init (2 intricacy points on cost): Adds +5 to the damage of the Viking's bludgeon or claws, and leaves salted rime ice on everything struck.
 
@@ -5046,7 +5046,7 @@ Berserkers are warriors dedicated to the Odin cult who enter battle so crazed th
 
 **Appearance:** Berserkers look like drowned wild men, draped in sodden animal skins until they become angry. Then they change into strange creatures that are half man and half bear, or into werewolves.
 
-#### **The Chieftain**
+#### The Chieftain
 
 The chieftain is the leader of the raiding faeries, but chieftain is also a role. If this particular faerie is destroyed, and the storyguide needs a commanding figure for a little longer, his role may pass to any of his bodyguards. If they grasp his sword, they take his role, transforming into far larger versions of themselves, and then begin to use his statistics.
 
@@ -5072,7 +5072,7 @@ The chieftain is tremendously dangerous, and groups lacking skilled warriors or 
 
 **Pretenses:**, Awareness 2 (treasure), Carouse 5 (in the Viking way), Faerie Speech 5, Hunt (humans) 2, Leadership 8 (Vikings) 5, Profession: Captain (navigation) 5, Ride (horse) 2, Single Weapon (long sword) 8, Swim 2 (underwater)
 
-#### **Powers:**
+#### Powers:
 
 *Damaging Effect,* 0 points, -2 Init (2 intricacy points on cost): Adds +5 Damage to long sword attacks. Freezes the blood of those struck with the sword, so that it falls like colored glass on the earth. Adds +5 damage.
 
@@ -5085,7 +5085,7 @@ The chieftain is tremendously dangerous, and groups lacking skilled warriors or 
 
 **Appearance:** A man about eight feet tall, who seems to have been slit from the throat to the groin. The chieftain is not inconvenienced by his injury, which, because of his faerie nature, is cosmetic.
 
-#### **Advisor**
+#### Advisor
 
 The advisor takes the form of a black-robed priest of Odin, disfigured by the loss of his left eye. He takes no part in combat, and flees if it seems likely he will be harmed. He acts as an adviser to the chieftain, and is usually within the chieftain's ring of bodyguards. The advisor is, mystically, the most powerful faerie present, but he is unwilling to use that power to harm the player characters, so he seems feeble.
 
@@ -5093,7 +5093,7 @@ The advisor is the leader of this group of faeries, because it has the Highly Co
 
 The advisor makes sure that the characters see and interact with it, so that it becomes part of their life story. It then retreats to plan future massacres, and construct scenarios that seem like revenge. It doesn't hate the player characters for disrupting its plans, but they have demonstrated that if the advisor threatens them, they will respond with courage and pain, which it can feed upon. The advisor is inconvenienced, but not harmed, by the destruction of this body. When the player characters next see it, it may have a completely different form, but it will make sure the characters suspect that it is the same faerie by repeating a key phrase, or by wearing an obvious motif, like its missing eye.
 
-#### **Combat Group Statistics**
+#### Combat Group Statistics
 
 Small ships are crewed by 25 men, and large ships are crewed by 50 men. In *Ars Magica,* fighting groups may have no more than six members: the following abstractions model the groups that characters will encounter in this scenario. The storyguide should select as many groups of attackers as are required to make the story interesting for the players, given their characters' skill at combat. Note that these faeries do not take a round without fighting to join groups together, or to shuffle roles in their groups — this is another example of them not impersonating humans accurately.
 
@@ -5110,7 +5110,7 @@ Small ships are crewed by 25 men, and large ships are crewed by 50 men. In *Ars 
 
 The village is unprepared for a Viking raid, since one hasn't occurred in generations, but the defending faeries have made preparations that may assist the player characters.
 
-#### **The Village and Villagers**
+#### The Village and Villagers
 
 The village is made up of 41 families, some of whom flee at the first sign of trouble. Each family has a cottage, a small garden area, and a long, thin field that they plant in strips of rotated crops. There are around 70 adults capable of hard manual labor, but only a handful of these have any skill at combat. These can be simulated with the generic statistics for grogs given in the core rulebook. The village also has a large number of children. When the raiders appear, the older women of the village make it their priority to get the children to the church, which represents the village's place of final refuge. The village has a Divine aura of 2.
 
@@ -5123,13 +5123,13 @@ prowling the streets at night, but it lacks other defenses. It is pierced by two
 
 Most of the buildings in the village are constructed of wood, with thatch roofs. The exceptions are the church and mill, which have stone walls, and the homes belonging to the richest handful of families, which have stone reinforcing in their frames. The raiders know that stone walls signal the potential for superior booty, and so they prefer to sack these, more durable, buildings first. These buildings are, generally, clustered closer to the church.
 
-#### **The Children of the Drowned**
+#### The Children of the Drowned
 
 The faeries aiding the defenders have been planning to take control of this story for a century, and one of their preparations shows the strange patience of faeries. It is a widely held local belief that when a husband dies at sea, particularly if a couple is childless, that his ghost might visit his wife in a dream, so that she wakes pregnant. The half-dozen people in the village who are the children of drowned sailors vary in age from sixty to five, and have Strong Faerie Blood (Children of the Drowned). They have the virtue Faerie Sight, which at its simplest allows them to see faerie and magical things, even if they are invisible or disguised.
 
 The storyguide can use the Children to focus the story. Most have been visited by the ghosts of their fathers in dreams, and given information or items that the player characters will find useful in their defense of the village. These items or pieces of information have not, for the most part, been detailed in this scenario, because their usefulness is dependent on the abilities of the player characters.
 
-#### **Local Lord**
+#### Local Lord
 
 Pellew's group of faeries doesn't want the Vikings to be defeated too easily: they want the villagers to win, but to be terrified and heroic first. They only involve the local lord if the player characters respond with feeble forces. If the faeries allow the lord to respond personally, and he has a small retinue, just use the template for a knight companion on page 23 of **ArM5**, supported by a handful of grogs from pages 21 and 22. A more-powerful lord may send several knights.
 
@@ -5137,7 +5137,7 @@ The reeve for the village, the local man who acts as the
 
 lord's overseer in his absence, has already tried to reach the lord. He has been diverted into Faerie by Pellew's faction. They release him if they think it useful that he reach his lord. The defending faeries have no interest in opposing magi if they attempt to contact the lord. They can spirit away the lord easily if the magi and the lord separate, even for a moment.
 
-#### **Local Priest**
+#### Local Priest
 
 Father Thomas lacks sufficient Faith to save the player characters with a convenient miracle. He can, however, be used by the storyguide as a method of pacing the story. When the Vikings are first sighted, he retreats to the church and begins to ring the bell. This may reveal that the attackers are faeries, but it will certainly draw the remaining potential victims together as the raid progresses. When the priest ceases to ring the bell, after virtually all of the surviving humans have been concentrated in a single area, he provokes the climactic battle of the scenario.
 
@@ -5149,7 +5149,7 @@ In this scenario, certain locations are included in the village specifically to 
 
 Specific locations, described here, are unique buildings in the village that are likely to serve as points of resistance when the player characters fortify the village.
 
-#### **Church and Churchyard**
+#### Church and Churchyard
 
 The church stands at the highest point of the village, a small hillock that overlooks the river. The side of the hill that faces the water is a graveyard. The church is in the Norman style. Its tower, which is blocky and similar to that of a castle, is three stories high. Its roof can be used as a watch post, signaling point, or sniper's nest for up to six
 
@@ -5158,11 +5158,11 @@ archers. There is a Divine aura of 3 in the churchyard and 5 inside the church.
 
 Early in the battle, the youngest of the Children of the Drowned is carried by his mother to the church. If the battle seems to be going spectacularly badly, the defending faeries intervene. They will cause a faerie glow to emanate through the cracks around the stones that cover the grave of the village's founder. If these are lifted away, a magical weapon is found there. This is a fake, planted by the defending faeries, but the attacking faeries are constrained, by their nature, to play along with the story and act as if the weapon really were what it claims to be.
 
-#### **Riverside**
+#### Riverside
 
 This is a thin strip of land between the river and the road. This area is dotted with shacks that are used to store fishing gear.
 
-#### **Dangers in This Area**
+#### Dangers in This Area
 
 The area can also provide material for the construction of traps in other parts of the town. It contains:
 
@@ -5176,7 +5176,7 @@ The area can also provide material for the construction of traps in other parts 
 
 **Smokehouse Equipment:** Those sealed inside an active smokehouse suffer Air Deprivation as per ArM5 page 180**.** Though the Vikings are unlikely to be tricked into entering a fish smoke hut, characters can use the equipment in the huts to create similar environments in other places. As an example, the richest cottage in town has a cellar, where its owner stores wine and beer. A group of Vikings barricaded into the cellar could be killed with smoking equipment ignited with a fuse of tarred rope.
 
-#### **Mill**
+#### Mill
 
 It is possible for the raiders to simply pass by the mill and continue to the centre of the town, but they will not
 
@@ -5215,7 +5215,7 @@ The mill belongs to the distant liege of the local lord. If this remote potentat
 
 Player characters know that mills are owned by influential people automatically if they have the Common Sense Virtue, or if they make an Intelligence + Folk Ken roll against an Ease Factor of 3. If they make an Intelligence + Area Lore roll against an Ease Factor of 9, they know who this particular mill belongs to.
 
-#### **Dangers in This Area**
+#### Dangers in This Area
 
 **Flour**: Aside from serving as the fuel for explosions, flour can also be stirred up, to create an obscuring cloud that lasts five combat rounds in enclosed spaces with still air. It can also be added to water to create a paste that, if boiled, adheres to the victims so that they suffer heat damage for two rounds longer than if doused with boiling water.
 
@@ -5224,13 +5224,13 @@ Player characters know that mills are owned by influential people automatically 
 
 **Working Parts of the Mill**: A character thrown into the working parts of the mill takes +5 Damage per round, until he is pulled clear with a Strength roll against an Ease Factor of 9. The trapped character may add his Strength to this roll.
 
-#### **Sexton's Cove**
+#### Sexton's Cove
 
 The role of sexton, or gravedigger, of the village is passed from father to son, and the current sexton's mother has information that may interest magi skilled in Mentem or Corpus magic; she knows where the real Vikings were buried. The villagers chose not give them Christian burial in the hallowed ground of the cemetery, but to bury them on a pebbly, unused beach several miles from the village.
 
 The original Vikings are useful to the player characters in several ways, particularly if they believed the story Pellew spread, and sent a magus skilled in dealing with ghosts. Their ghosts, who hate the idea of impostors, will advise the characters on the strategy that their duplicates will employ. If the characters can call up the ghosts of the Vikings, they use the statistics given above for seasoned warriors, except they have Magical rather than Faerie Might, don't have any sort of traditional ward, and don't have the Damaging Effect power, which reduces their damage by 5.
 
-#### **Tannery**
+#### Tannery
 
 Medieval villages use a lot of animal products, but the most dangerous and disgusting are in the tannery. The tannery is where leather is made, by placing animal hides into pits filled with lime, dog excrement, and other even less pleasant things. The slurry of excrement, lime, and animal fats can be controlled with Animal magic, as can the hides, bones, and other animal detritus in the area.
 
@@ -5239,7 +5239,7 @@ The tannery is outside the village, and upwind. If there is a large group of rai
 
 
 
-#### **Dangers in This Area**
+#### Dangers in This Area
 
 **Falling into a Tannery Pit:** This is disgusting, but not immediately lethal for humans. A faerie warrior held in one for more than few moments will subconsciously choose to drown, give up its role, and fade back into Arcadia.
 
@@ -5249,7 +5249,7 @@ The tannery is outside the village, and upwind. If there is a large group of rai
 
 Scattered around the town are also various houses where the peasants live.
 
-#### **Peasant Houses**
+#### Peasant Houses
 
 The peasants of this village are poor, and the village is of only moderate size, lacking skilled tradesmen who make houses. Typical houses in this village are a single story high, and are constructed of wattled panels supported by a wooden frame. That is, the sections of the wall that do not bear weight are made of woven sticks that have been coated in a layer of clay, dung, and fat. The internal walls are washed with lime, partially as decoration but also to discourage insects from colonizing the house. Poorer houses are huts, triangular in crosssection, made by their owners of sticks, with mud and straw for walls.
 
@@ -5315,7 +5315,7 @@ The following are the major characters who are featured in this adventure, along
 
 Peter, Father Herbert, and Baldwin are the three most influential people in the village.
 
-#### **Peter the Crusader**
+#### Peter the Crusader
 
 Peter is a bastard son of a local noble, has never been acknowledged, and lives as an influential peasant. Two decades ago, at the age of twenty, Peter decided to leave his home to join the Fourth Crusade. In the course of his expedition, he came into possession of a powerful Hermetic device. Mistaking it for the container of a magnificent relic, Peter returned to his home village with the pillaged device. Once home, Peter gifted the reliquary to the village's church, where it was ceremonially placed in a position of great honor.
 
@@ -5356,7 +5356,7 @@ Although Peter was once quite wealthy, most of the treasure he brought back from
 
 **Appearance:** Peter is a middle-aged, balding man, his oncedark brown hair now mostly grey. His face is deeply lined and tanned. Peter covers his head in a leather cap, and wears well-crafted but simple clothes — a tunic and leggings.
 
-#### **Father Herbert, the Village Priest**
+#### Father Herbert, the Village Priest
 
 Herbert is only recently arrived at the village, replacing the previous priest who died five years ago. Herbert is relatively young, and is still finding his way around the village. Originally from a cathedral school in a distant town, Herbert
 
@@ -5409,7 +5409,7 @@ pacitated (16–20), Dead (21+)
 
 **Appearance:** Herbert dresses in scruffy black robes and wears an ornate cross around his neck.
 
-#### **Baldwin the Village Elder**
+#### Baldwin the Village Elder
 
 Baldwin is the rival village elder to Peter, and is a minor officer of the local lord (such as a reeve or similar appropriate position). Until Peter's return from the Fourth Crusade, Baldwin's father was the most respected and influential man in the village; Baldwin inherited that position when his father passed away. Following the death of the previous village priest, Peter's influence and authority over the village increased, to Baldwin's detriment.
 
@@ -5453,7 +5453,7 @@ Enfeebled, Envious (Minor), Poor Eyesight
 
 **Appearance:** Baldwin is an aging and balding man, with a wrinkled face, squinting eyes, and slightly trembling hands. He wears well-made but simple clothes, although he shows some ostentation with a magnificent silver belt buckle.
 
-#### **Villagers**
+#### Villagers
 
 There are approximately 70 villagers, with just over half of adult working age. The remainder are old and feeble or children. Three large families dominate the village. The family of Peter is the most influential, due to his prestige as a returned Crusader and the riches he once had. Baldwin's family is the second most influential, due to Baldwin's hereditary position, and has suffered a loss of prestige due to Peter's rise to prominence.
 
@@ -5461,7 +5461,7 @@ There are approximately 70 villagers, with just over half of adult working age. 
 
 There are three cultists who have been attracted to the village by the diabolical taint emanating from the reliquary. Michael, the cult leader, is a sadistic and ruthless practitioner of the dark arts. Benedict is Michael's enthusiastic accomplice and loyal bodyguard. Maria is a victim of the cult — she was kidnapped by Michael and Benedict and is now too terrified to run away.
 
-#### **Michael, Cult Leader**
+#### Michael, Cult Leader
 
 Michael was drawn to the village after the banishment of his former demonic master, whose plot in a village in a neighboring kingdom was foiled. Although he managed to escape, Michael's powers have been somewhat diminished now that he no longer has the guidance of a morepowerful demon. He is looking for a new demonic patron, and has heard the call of the Infernal taint emerging around the village. Michael knows that there is a powerful demon trapped somewhere near the village, but does not know that it is locked in the reliquary. An experienced infernalist, Michael is steeped in sin and debauchery. He
 
@@ -5507,7 +5507,7 @@ homespun clothes, and a black leather cap, with his hair sticking out from under
 
 See the nearby insert for explanations of Michael's Infernal Powers. Due to his Infernal Blessing Virtue, Michael has a Magic Resistance of 15. Michael's Witch Marks Flaw is the cause of his older appearance.
 
-#### **Benedict, Cultist**
+#### Benedict, Cultist
 
 Brought up on the streets of a nearby city, Benedict was an orphan who fell into the company of a desperate group of city thugs and thieves. He quickly became a heavy drinker and is prone to fits of rage. He committed his first murder over a misunderstanding, after finding his then-partner in the room of a fellow gang-member, killing them both. Since that day, he has sunk even lower; he became one of the leading heavies for an extortionist, who was being enthralled by a demon. Benedict was himself drawn into the demon's influence.
 
@@ -5521,7 +5521,7 @@ Infernalists can also perform ritual sacrifices to increase the potency of their
 
 Maleficia are like other supernatural powers for the purposes of Magic Resistance, and are considered Vim effects for the purposes of Form bonuses. Maleficia are also affected by Realm Interaction modifiers (see **ArM5**, page 183).
 
-#### **Flying on the Devil's Breath**
+#### Flying on the Devil's Breath
 
 Debauchery/Effusion, Level 20 R: Sight, D: Conc, T: Ind
 
@@ -5529,7 +5529,7 @@ This power summons powerful winds, great enough to lift a person through the air
 
 (Base 4, +3 Sight, +1 Conc)
 
-#### **Hell's Bellows**
+#### Hell's Bellows
 
 Debauchery/Effusion, Level 15 R: Voice, D: Conc, T: Ind
 
@@ -5537,7 +5537,7 @@ This power causes a fire to increase in heat, which increases the damage caused 
 
 (Base 4, +2 Voice, +1 Conc)
 
-#### **Lucifer's Tongs**
+#### Lucifer's Tongs
 
 Debauchery/Effusion, Level 20 R: Sight, D: Diam, T: Ind
 
@@ -5545,7 +5545,7 @@ Metal objects become red hot when this power is used, causing +6 damager per rou
 
 (Base 4, +3 Sight, +1 Diam)
 
-#### **Ruin Crops**
+#### Ruin Crops
 
 land.
 
@@ -5555,7 +5555,7 @@ This power turns rain into hail, which causes a great deal of damage to crops an
 
 (Base 1, +3 Sight, +2 Sun, +2 size)
 
-#### **Shroud of the Forsaken**
+#### Shroud of the Forsaken
 
 Debauchery/Effusion, Level 25 R: Touch, D: Sun, T: Boundary With this power, the light of the moon and starlight at night is darkened to almost nothing, shrouding the land in darkness. With all natural light mostly extinguished, only artificial light can illuminate the affected
 
@@ -5597,7 +5597,7 @@ Outcast, Tainted with Evil
 
 Note that due to his immunity to iron, iron weapons cannot pierce Benedict's skin or cause him any damage whatsoever.
 
-#### **Maria, Cultist**
+#### Maria, Cultist
 
 Maria is a street urchin who was kidnapped by Michael and Benedict and forced into their service. Michael uses her talent to sense Divine and Infernal auras, objects, and people in order to search for the trapped demon. She is deeply terrified of both of the other infernalists, but she is too afraid to run away or to disobey them. Slowly, Maria is being corrupted. She plays a role in the cult's rituals, and helps Benedict and Michael in their activities.
 
@@ -5661,7 +5661,7 @@ For the last few months, the taint has been growing and spreading. As the demon 
 
 Use these flaws and hooks to involve the players in the story.
 
-#### **Character Story Flaws**
+#### Character Story Flaws
 
 **Close Family Ties**: A companion, or even a magus, has family in the village (perhaps related to Peter or Baldwin) and is drawn into the conflict between the two villagers.
 
@@ -5683,7 +5683,7 @@ Use these flaws and hooks to involve the players in the story.
 
 **Oath of Fealty**: Your liege lord requests that you investigate the missing villager.
 
-#### **Covenant Hooks**
+#### Covenant Hooks
 
 **Beholden**: The person or group the covenant is beholden to requests that the village be investigated, or that the covenant assist in returning the village to peace and harmony.
 
@@ -5706,7 +5706,7 @@ The covenant may have a pre-existing relationship with the village or one of the
 
 If the covenant has no pre-existing relationship with the village or any of the villagers, then the growing infernal aura may be brought to their attention by a passing Redcap with the Sense Holiness and Unholiness Virtue, or by a grog or companion who passes through the village and notices the diabolical characteristics of the aura.
 
-#### **Infernalists Strike**
+#### Infernalists Strike
 
 Michael is a desperate man, and wants to hurry the escape of the demon. Although he does not know exactly where it is, he suspects (correctly) that the stronger the Infernal aura becomes, the stronger the demon becomes. In order to increase the strength of the Infernal aura, Michael kidnaps and ritually murders one of the villagers — from the family of Baldwin. This grisly act in the vicinity of the trapped demon has a chance of increasing the Infernal aura.
 
@@ -5718,7 +5718,7 @@ Intellego magic also reveals Michael's victim being attacked and overwhelmed by 
 
 Once at the village, the characters have the opportunity to learn of the Infernal aura, track down Michael, and uncover the existence of the trapped demon.
 
-#### **Divine Intervention**
+#### Divine Intervention
 
 Some covenants or characters may be pious worshippers of the Divine. If so, then they may be visited by a divinely inspired vision — an angelic visitation or dream — that warns of a terrible infernal threat. An angel or other servant of the Divine could also appear in less-supernatural garb; an angel could take the form of a villager, requesting the help of the covenant. Alternatively, the Divine could appear to Father Herbert or another villager to advise him to seek out the help of the characters.
 
@@ -5765,13 +5765,13 @@ The villagers are noticeably argumentative. Characters entering the village find
 
 If asked about infernalists or other suspicious characters, the villagers mention that there has been a series of misfortunes recently — heavy hail, damaged crops, strong winds, and very dark nights, as well as missing sheep. A few villagers claim to have seen dark shapes sneaking through or around the village. None have really connected the nearby hill — the lair of the infernalists — to these misfortunes, and most are more concerned with the feud between Peter and Baldwin.
 
-#### **Talking to Peter**
+#### Talking to Peter
 
 Peter and his family are very defensive — many other villagers suspect them of being behind the recent misfortunes. Peter has responded by spreading gossip that Baldwin cheats people out of rents and over-prices his produce. Peter denies that he has anything to do with the disappearance of Baldwin's kinsman — this can be verified by Mentem magic. He is very angry at Baldwin for spreading this malicious rumor.
 
 Peter owns the land that is adjacent to the hill where the cult is hiding, and has lost several sheep over the last month or two. He suspects that Baldwin has been stealing them, but will admit that he has no proof if pressed. He can show the characters where they went missing, which takes the characters to the hill.
 
-#### **Talking to Baldwin**
+#### Talking to Baldwin
 
 Baldwin and his family strongly believe that Peter or one of his family members was responsible for the disappearance of their kinsman, Conrad. Baldwin accuses Peter directly to the characters, and requests that they help bring him to justice. Baldwin takes the characters to where Conrad went missing — some way out of the village in one of Baldwin's fields. He is also willing to give the characters one of his kinsman's belongings to use as an Arcane Connection (unless the characters give him good reason to suspect they will do ill with it). Baldwin also recounts the various misfortunes that have befallen the village — hail, illness, and increased hostility. Baldwin is also hostile towards Father Herbert, who he believes has done nothing to help the situation.
 
@@ -5789,7 +5789,7 @@ The church is made up of several rooms: the main nave is covered in straw, and i
 
 The only remarkable feature of the church is its altar, on which stands the magnificent reliquary gifted to the church by Peter. The reliquary is usually displayed at religious occasions, and most of the villagers are also very proud of it — particularly Peter's family.
 
-#### **Investigating the Church**
+#### Investigating the Church
 
 Hermetic magi and characters with Order of Hermes Lore make a Perception + Order of Hermes Lore + simple die against an Ease Factor of 9 when they see the reliquary. Those who succeed notice that the reliquary has several distinctive features characteristic of Hermetic magical devices. Characters with Philosophiae can make a Perception + Philosophiae + simple die roll against an Ease Factor of 12 to notice that the symbols and images on the reliquary relate to warding off or trapping a demon (and some are in fact Verditius Runes, disguised as Christian symbols). The symbols (although not the Runes) are entirely orthodox in nature, although they are Eastern Orthodox, rather than Western.
 
@@ -5797,7 +5797,7 @@ Characters with Sense Holiness and Unholiness can sense a great evil power emana
 
 Intellego Vim magic reveals that the reliquary is magical, although it cannot reveal its invested powers (see **ArM5**, page 158). Characters who examine the reliquary will need to spend a season in the laboratory investigating it to find out its properties (see **ArM5**, page 100).
 
-#### **Talking to Father Herbert**
+#### Talking to Father Herbert
 
 Father Herbert is at his wits' end. Protected from the Infernal aura during the day due to spending most of his time in the Dominion aura in the church, his dreams are filled with suspicions and dark thoughts towards the villagers (night is when the Infernal aura overwhelms the Dominion). He believes that he is contributing somehow to the village's misfortune, and feels a great sense of guilt about damaging the reliquary.
 
@@ -5809,20 +5809,20 @@ Father Herbert will not agree to any action that damages the reliquary, includin
 
 If asked which saint's relics the reliquary contains, Father Herbert dithers. Peter never knew, and was not sure of the name of the church that he stole it from. Most of the villagers, including Father Herbert, assume that it contains the relic of one of the Apostles, such as a finger bone or knuckle. Peter maintains that the relic is larger — the size of a hand or foot. The reliquary itself has never been opened, as the latch on the small door is bent. Herbert likes to think it is a relic of the Apostle Peter.
 
-#### **Investigations by Stealth**
+#### Investigations by Stealth
 
 The characters may decide to sneak into the church to investigate the reliquary without the interference of Father Herbert. Gaining entrance to the church can be accomplished without much effort. The doors are not locked or barred, even at night, and the thick stone walls make it difficult for Father Herbert to hear anyone enter if he is sleeping
 
 
 in the room off the aisle. A successful Quickness + Stealth + simple die versus an Ease Factor of 6 means that Father Herbert remains unaware of the characters entering the church.
 
-#### **The Broken Jewel**
+#### The Broken Jewel
 
 The broken reliquary gem is key to halting the demon's corrupting powers. In order to find out that the gem is missing, the characters must have either examined the reliquary — it is obvious that a gem has been broken off — or have been confided in by Father Herbert.
 
 The gem is hidden under Father Herbert's bed; the characters have several opportunities to try to get it. First, they could have convinced Father Herbert to let them examine or fix the reliquary, in which case he will retrieve the gem for them. Second, they could use Mentem magic to read his mind and discover his role in damaging the reliquary and hiding the gem. Third, they could search the church while he is away from the church. If the characters search for the gem, a Perception + Awareness + simple die against an Ease Factor of 9 uncovers it beneath his bed.
 
-#### **The Altar and Reliquary**
+#### The Altar and Reliquary
 
 The altar is unremarkable. It is made of polished wood, and has several tarnished pewter candle sticks resting on it.
 
@@ -5836,13 +5836,13 @@ The reliquary has been enchanted into two parts — the main reliquary that trap
 
 Simply trapping this demon in the reliquary has greatly hindered it, as its weakness prevents it from affecting anything that is sealed or tied up. This means that, even with the loss of the gem, it cannot use its powers to open the reliquary. Note that the demon is trapped, not "bound" — it is merely physically restrained, rather than mystically linked to the reliquary.
 
-## **Ensorcell the Luciferian Spirit**
+## Ensorcell the Luciferian Spirit
 
 ReVi 45 Pen +42, Constant Effect R: Special, D: Sun, T: Ind This magical device traps any one Infernal spirit within the reliquary, making it unable to move beyond the boundaries of the box. The effect is activated when the door is closed, and ended if the door is reopened. This effect cannot draw a spirit into the reliquary; the item's creator used a spell for that. The effect must Penetrate, and thus can, normally, affect a creature with an Infernal Might of 41 or lower. However, both Magic Resistance and Penetration are affected by the local aura (**ArM5**, page 183); in a Divine or Magic aura, the affected Might is effectively increased by twice the aura, while in an Infernal aura it is decreased by twice the aura. The demon currently held is weak enough to be restrained in any Infernal aura, but the crafter was not sure of that.
 
 (Base 4 (by analogy with ReCo), +2 Special (based on Touch), +2 Sun; +1 2/day, +3 environmental trigger, +21 Penetration)
 
-#### **Pious Veil of Hermetic Might**
+#### Pious Veil of Hermetic Might
 
 PeVi 60 Pen +22, Constant Effect R: Touch, D: Sun, T: Ind
 
@@ -5850,7 +5850,7 @@ This enchanted gem suppresses the supernatural powers of a single infernal creat
 
 (Base 30, +1 Touch, +2 Sun; +1 2/day, +3 environmental trigger, +11 Penetration)
 
-#### **Seal Evil Within**
+#### Seal Evil Within
 
 ReTe 4 Pen 0, 1/day R: Per, D: Mom, T: Ind
 
@@ -5867,7 +5867,7 @@ If the reliquary is moved from the village, the Infernal aura begins to slowly s
 
 The characters must gain possession of the reliquary before they can reaffix the broken gem. Father Herbert wants the reliquary repaired, but also wants assurances that it will be returned safely and quickly. Peter, however, will not want the reliquary to leave the church or village, especially not in the hands of wizards. They are not receptive to the notion that the reliquary is the source of the village's troubles — after all, it has been in the village for twenty years with no problem.
 
-#### **Theft**
+#### Theft
 
 The characters could steal the reliquary from the church. This would be easily accomplished with the aid of magic, particularly invisibility spells. A missing reliquary is likely to raise the attention of others, as the villagers want it back, and because the reliquary is a particularly magnificent object. Father Herbert would raise the matter with his superior (and blame the thieves for the reliquary's damage), and Peter may ask the local lord for assistance. There is a great deal of relic theft between churches and monasteries in Mythic Eu-
 
@@ -5921,7 +5921,7 @@ These traits are included in the event that the characters release the demon fro
 
 rope however, so the characters could try to frame a nearby church or monastery. The characters may also leave a replica behind, so that the villagers believe that the reliquary is not missing. Again, Hermetic magic, such as Creo or Rego Imaginem, makes this easy, at least for a temporary solution.
 
-#### **negotiAtion**
+#### negotiAtion
 
 The characters could try to convince Father Herbert to give up the reliquary. This could involve convincing him that the reliquary is the cause of the village's troubles, or that the characters only want to repair the reliquary, or could involve Rego Mentem magic. Father Herbert does not want to give up the reliquary without good reason, but if the characters can demonstrate that repairing the reliquary is necessary, then Herbert consents. He may also consent to having the reliquary replaced by a similarly impressive item.
 
@@ -5949,7 +5949,7 @@ The inner chamber leads down further under the hill. A winding passage leads to 
 
 The infernal aura in the first chamber is level 2, and in the second and inner chambers it is level 3.
 
-#### **Searching for the Cult's Lair**
+#### Searching for the Cult's Lair
 
 The characters may search for the cult's lair to find the missing villager, or suspect that they are the source of the Infernal aura. They may have been led by Peter or another villager, or be following tracks. If the characters have an Arcane Connection to the villager, an appropriate spontaneous Intellego Corpus spell unerringly locates him, in the cult's lair.
 
@@ -5957,17 +5957,17 @@ The outer grotto is partly hidden by the vegetation, and Michael has made no rea
 
 Should the characters fail the roll and not find the opening to the outer cavern, they may be able to use magic — Intellego Terram, for example, reveals the rough layout of the grotto complex. Abilities like Dowsing are also useful; a Perception + Dowsing + aura + stress die against an Ease Factor of 9 reveals the grotto's entrance.
 
-#### **The Victim…**
+#### The Victim…
 
 For the villager, kidnapped by Michael, it is too late. Michael already killed Conrad in a grisly ritual shortly after kidnapping him. The ritual has helped strengthen the Infernal aura in the caves, which has risen to level 3 (from level 2). If the characters have an Arcane Connection to the victim, and use Intellego Corpus magic to detect whether he is still alive, they discover that he is alive until the early morning of the day that the characters arrive in the village, after which he is killed.
 
-#### **Finding Maria**
+#### Finding Maria
 
 On entering the grotto, the characters find Maria — Michael and Benedict are not there. If the players' rolls are unsuccessful, or if the storyguide wants to avoid the possibility of a failed roll bringing the scenario to a halt, then the characters hear a sound from within the hill that leads them to the entrance. The sound comes from Maria's crying, as she weeps from desperation.
 
 She is terrified of the characters initially, particularly if they are violent or appear frightening, or have The Gift. If the characters are friendly towards her, she tells them that she is herself the victim of Michael and Benedict. She readily betrays them, explaining who they are, what they look like, and why they are in the area. She knows that they are looking for a powerful demon trapped nearby, and are using her ability to sense holiness and unholiness to find it. If the characters are hostile or violent towards her, she tries to escape, and will not give them any information.
 
-#### **Where are Michael and Benedict?**
+#### Where are Michael and Benedict?
 
 Michael and Benedict meanwhile have been sneaking around nearby, searching for a sheep to steal, sacrifice, and eat. They are also using the opportunity to scout out the village to identify another villager to kidnap. Both infernalists have seen the characters approach the hill, unless the characters have traveled stealthily (in which case, compare the cultist's Awareness total against the player's characters' Stealth total), or used magic to become invisible.
 
@@ -5982,7 +5982,7 @@ Michael does not want to anger powerful wizards, so is conciliatory if given rea
 
 Should Michael escape, he returns to the village a few nights later to continue trying to kidnap villagers to sacrifice, so as to raise the Infernal aura.
 
-#### **Leading to the Reliquary**
+#### Leading to the Reliquary
 
 Maria possesses an ability to detect evil, and if she is taken close to the church and the reliquary, she senses the presence of the trapped demon. Maria may have revealed to the characters that she has been used by Michael to find the demon, or Michael may have revealed this. Appropriate Mentem magic also reveals this.
 
@@ -6014,13 +6014,13 @@ If the gem is replaced in the reliquary, the demon's power is suppressed once mo
 
 A few elements of this story can have larger consequences for your saga.
 
-#### **What to Do With the Reliquary?**
+#### What to Do With the Reliquary?
 
 The characters may have removed the reliquary from the village, investigated it, and discovered its purpose as a prison. However, they have no more idea as to the nature of the demon within than Irene did, and messing with an item made by an infernalist magus could be very dangerous. Although, in fact, the characters probably can destroy the demon, they do not necessarily know that. If they do, however, this problem can be resolved fairly easily.
 
 Even if they have not had a chance to investigate it, they are aware of its link to Hermetic magic and the Infernal, and may be reluctant to leave it on the altar in a village church. They might also be, wisely, reluctant to keep it in the covenant. Thus, even once the immediate problem is solved, the reliquary can still cause the characters significant trouble.
 
-#### **Dealing with the Infernalists**
+#### Dealing with the Infernalists
 
 If the infernalists plaguing the village haven't been dealt with, they may come back to haunt the covenant. Michael is after the power of the imprisoned demon, and may follow the reliquary to the covenant. He could become a recurring villain, and cause continuing problems at the covenant.
 
@@ -6363,7 +6363,7 @@ For atmosphere, aim to run the marsh-related scenes in the autumn or winter seas
 
 The aim of this section is to draw the covenant into Tobias' plans for the marsh.
 
-#### **The Marsh Crows Gather**
+#### The Marsh Crows Gather
 
 As members of the covenant approach Nelda's Lament to collect vis, they disturb a number of birds — marsh crows — which fly off and rapidly disappear into the marsh. They then find the body of Oswold, a local drunkard killed by the crows and their infernal powers.
 
@@ -6389,7 +6389,7 @@ If the covenant chooses to do nothing about the inning, the vis source eventuall
 | In eight seasons         | Tobias completes his chapel.                                                      |
 | In nine seasons          | Illness spreads throughout the<br>marsh and beyond.                               |
 
-#### **A Letter From the Abbey**
+#### A Letter From the Abbey
 
 Shortly after Oswold's body is found, the covenant receives a letter from the abbey, signed by Tobias Mahl, explaining that "the scholars" will no longer be permitted to collect their "herbs and other such roots" from land "held by this abbey under the Lex Marisci." The letter is direct and leaves little room for negotiation; the abbey is exercising its rights effective immediately.
 
@@ -6401,7 +6401,7 @@ Discovering the burial ground and its Infernal nature comes down to detective wo
 
 Discovering Daniel's corruption is much harder, and the covenant may not find it out even after this story is done. In that case, treat it as a hook into further stories.
 
-#### **Rumors**
+#### Rumors
 
 Before they commit to any action, the covenant members may first want to unearth any rumors about the abbey, the new arrival, the marsh work, and the death of Prior Michael.
 
@@ -6443,7 +6443,7 @@ Marsh sickness has been described above in accordance with the disease rules in 
 
 To avoid contracting the disease, the character must make a Disease Avoidance roll.
 
-#### **Disease Avoidance:**
+#### Disease Avoidance:
 
 **Stamina + Living Conditions Modifier + (Corpus/5) + Wound Penalty + stress die**
 
@@ -6453,7 +6453,7 @@ If the character fails the roll, he starts to suffer the effects. If the Disease
 
 It is assumed that any character who has some basic knowledge of the area will know about the abbey and its connection with the marsh. Those with a little Civil and Canon Lore may also know of the Lex Marisci (on a result of 6 or more) and may know (on a result of 9 or more) that the abbey has a strong property claim to much of the marsh.
 
-#### **Searching the Marsh**
+#### Searching the Marsh
 
 On searching the marsh, the covenant's agents will find the burial ground if they have access to Tobias' paperwork, or if they use Intellego Vim magic (to detect the Infernal aura) and make a successful Intelligence + Romney Marsh Lore roll against an Ease Factor of 12. The covenant's group can attempt a roll every two weeks of searching.
 
@@ -6463,7 +6463,7 @@ The Romney Marsh is a large open expanse of waterlogged flatlands, run through w
 
 Any characters with Ways of the Marsh (**ArM5**, page 50) gain the usual +3 bonus on many rolls throughout this story.
 
-#### **Traveling and Working in the Wetlands**
+#### Traveling and Working in the Wetlands
 
 Each day, those traveling the marsh by foot automatically lose a long-term Fatigue level and must also make a Stamina + Athletics + simple die against an Ease Factor of 9 or lose a second. Beasts of burden used in the marsh also suffer the fatigue.
 
@@ -6475,7 +6475,7 @@ Combatants fighting in the marsh suffer two extra botch dice and a –3 penalty 
 
 Those working in the marsh for season or more receive a –2 living conditions penalty for that year.
 
-#### **Visiting the Abbey**
+#### Visiting the Abbey
 
 The monks are cordial, if a little unprepared for unannounced visitors. For notes on how those with The Gift are received, refer to **ArM5**, page 76. If the nature of the covenant is known to the abbey, assume that Daniel and Tobias are also aware of it.
 
@@ -6502,11 +6502,11 @@ The abbey is currently building a new hall, and so the air is thick with ropes a
 
 Brother Daniel serves as clerk to this building project, as well as to the work in the marsh.
 
-#### **The Common Room**
+#### The Common Room
 
 Visitors to the abbey are invited to wait in the common room, a long chamber with cloisters at either side and two rows of pillars running its length supporting a vaulted ceiling. Many of the monks will be found here reading, talking, or simply contemplating.
 
-#### **The Dormitory**
+#### The Dormitory
 
 Most of the brothers at the abbey, including Daniel, sleep in the dormitory. Beds line the walls, all the same except one. Beneath Daniel's bed there is a loose board concealing two infernal texts — the *De Operatione Daemonum* and *Liber Apologeticus* — and a bottle of poison. It takes a Perception + Awareness Simple Roll against an Ease Factor of 6 to find the board.
 
@@ -6514,7 +6514,7 @@ Most of the brothers at the abbey, including Daniel, sleep in the dormitory. Bed
 
 The following infernal texts are hidden beneath Daniel's bed.
 
-#### **De Operatione Daemonum**
+#### De Operatione Daemonum
 
 Tractatus on Infernal Lore with a Source Quality of 7.
 
@@ -6522,7 +6522,7 @@ This tractatus by the Byzantine Michael Psellus purports to be a classification 
 
 This copy is a somewhat small book, clearly very old, and apparently written by many different hands (a strange affliction that affects any copy made of this book).
 
-#### **Liber Apologeticus**
+#### Liber Apologeticus
 
 Tractatus on Infernal Lore with a Source Quality of 8.
 
@@ -6532,7 +6532,7 @@ Some pages appear to have been cut from the book. None of the Infernal content i
 
 
 
-#### **Problems for the Abbey**
+#### Problems for the Abbey
 
 The abbey is famous not only for its great wealth, but also for its long-running dispute with the Bishop of Chichester. When William ordered the founding of the abbey, he decreed that it would be exempt from ecclesiastic control. It has remained so ever since, despite the efforts of the diocese of Chichester to bring it under its authority.
 
@@ -6547,7 +6547,7 @@ This story is assumed to take place between Ralph Neville's political play to Ro
 
 Tobias Mahl knows this, and if he senses that Richard is being swayed by the covenant, he will set his intrigue to work and attempt to persuade Richard that the abbey cannot be seen to be commanded from without (especially if the true nature of the covenant is known).
 
-#### **Visiting the Inning Work**
+#### Visiting the Inning Work
 
 Willem is in charge when the player characters arrive at the marsh, and Tobias is not present, though he will arrive with unnatural haste. There are plans and rough maps here that show both the old course of the inning and the new. The new course involves more work (though Willem will not admit it for fear of being thought a shirker).
 
@@ -6567,7 +6567,7 @@ With the coming of the word of Christ, the pagan ways disappeared and with their
 
 As this place will eventually hold his chapel, Tobias has made sure that the site is protected. In his earliest visits he summoned the ghosts he found there into their own preserved bodies. He commanded them to watch and wait and kill those who took steps to harm the place.
 
-#### **Before the Inning Starts**
+#### Before the Inning Starts
 
 From the surface, by mundane means, there is nothing to see, but magic can detect the centuries of power distilled in the roots of the reeds and sedges as ten pawns of Corpus vis. The preserved bodies of the dead can also be found all around, apparently following the line of an old, now-submerged stream.
 
@@ -6575,7 +6575,7 @@ Characters succeeding in a Perception + Awareness + simple die against an Ease F
 
 A single group of five vengeful dead have been left here to protect the site.
 
-#### **While the Inning is in Progress**
+#### While the Inning is in Progress
 
 There is a constant workforce of around twenty men at the inning works. They spend their days digging ditches, fetching planks for the retaining walls, piling sodden earth to form the dykes, and laying down simple wooden walkways. It's a dangerous place as walls can collapse, axes and saws may slip, and the marsh claims the unwary.
 
@@ -6585,7 +6585,7 @@ If needed, the workmen (split them into untrained groups, one with Willem acting
 
 Tobias' bodily ghosts will only rise in the night to defend the burial ground. There should be enough groups to give your troupe a contest; one group for any grogs present and another group for every two magi.
 
-#### **Building Work**
+#### Building Work
 
 Unless stopped early, the building of his chapel occupies Tobias' time over the next two years. In this time, the marsh inning progresses as before.
 
@@ -6599,7 +6599,7 @@ The covenant members may simply decide to come to some arrangement with the abbe
 
 How the confrontation plays out depends on how long the covenant decides to leave matters.
 
-#### **Confronting Tobias**
+#### Confronting Tobias
 
 Tobias' pride and confidence are fuelled by the Infernal, and he employs them in any direct confrontation. If the nature of the covenant is known, then Tobias has discovered that their oath prohibits the magi from interfering with mundane affairs. He will gladly point out that the inning work is being done by the abbey, and is firmly outside the influence of the Order.
 
@@ -6607,7 +6607,7 @@ He does, however, offer an accommodation. If he is made aware of the vis source 
 
 If the covenant stands firm, Tobias will lie, saying he needs to "reconsider his position" with the abbey in light of threats to his safety. This is untrue and is simply a ploy in order to buy him time. If he survives this confrontation, he starts working against the covenant from within the abbey, commanding the Marsh Crows to bring sickness to those who come and go from the covenant.
 
-#### **Negotiations with the Abbot**
+#### Negotiations with the Abbot
 
 Money may be the simplest way in which the covenant can not only safeguard their vis source in the marsh, but also prevent the Infernal area falling into evil hands. The abbey may be willing to negotiate a price for the land, essentially leasing the land to the covenant.
 
@@ -6619,7 +6619,7 @@ Richard will start the negotiations on 20 pounds of silver each year for the lan
 
 If the covenant manages to lease the land from the abbey, Tobias remains at Battle, working against the covenant, intent on finding some way to make it forfeit the land.
 
-#### **Disrupting the Work by Force**
+#### Disrupting the Work by Force
 
 If the covenant decides to disrupt the inning, let the players use their ingenuity but remember that there are dark spirits at work. These spirits will probably be impotent against the Parma Magica, so they target any grogs, servants, or hired men instead of magi. The covenant may soon find its population succumbing to disease faster than the magi can cope with it.
 
@@ -6627,7 +6627,7 @@ Those taking direct action against the inning work are set upon by Marsh Crows w
 
 This options is the one that most contravenes the Code of Hermes, and experienced magi know enough to skirt the code or to avoid being caught. Despite its current Infernal taint, the inning work is part of the mundane world, and to disrupt it by force would be a direct challenge to the abbey's authority that could have ramifications beyond the marsh.
 
-#### **Exposing the Infernal**
+#### Exposing the Infernal
 
 It is one thing to accuse a cleric of diabolism, but another to prove it. Any forced confessions with magi behind them will seem, in themselves, unnatural. The problem here for the covenant is to find the evidence that will convict Tobias, Daniel, or both.
 
@@ -6637,7 +6637,7 @@ While Tobias' own corruption leaves few physical clues, Daniel will confess and 
 
 It is worth noting that Gabrimael has been coerced into helping his fellow demon Mammon, and would enjoy nothing better than seeing Mammon humiliated by failure. Daniel does not know this at the start, but if Gabrimael senses that the covenant is closing in on Tobias, he plants new seeds of resentment towards Tobias.
 
-#### **The Consecration of the Church**
+#### The Consecration of the Church
 
 If the covenant leaves the inning work to continue, after two years Tobias will be able to build his small chapel on the burial ground, which he then uses to conduct his dark rites and bring malice to the region.
 
@@ -6653,7 +6653,7 @@ Once the disease starts spreading to nearby villages, a stream of supplicants co
 
 Those attacking the chapel now find two groups of the vengeful dead to face any grogs, and one additional group per magus. The odds should feel overwhelming, but also provide opportunities for heroic play.
 
-#### **The Chapel Bell**
+#### The Chapel Bell
 
 Tobias commissioned the chapel bell from the bellfounder Hugh of Gloucester, one of the demon Mammon's other devotees. Hugh's craft aligned the bell to the Infernal, with the result that infernal spirits hear the voice of Hell in its chimes and may be drawn to the sound. Characters with Sense Holiness and Unholiness (**ArM5**, page 67) may hear the ringing of the bell as an Unholy sound, discordant and unGodly.
 

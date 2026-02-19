@@ -1642,7 +1642,7 @@ OK, 0, -1, -3, -6, Incapacitated
 
 OK, 0, -1, -3, -6, Unconscious
 
-#### **Abilities**
+#### Abilities
 
 2 Alertness (animals)
 5 Athletics (run)
@@ -1926,7 +1926,7 @@ OK, 0/0/0/0/0, Incapacitated
 
 n/a
 
-#### **A**bilities
+#### Abilities
 
 4 Stealth (hide)
 
@@ -3024,7 +3024,7 @@ Ambidextrous +3, Exceptional Talent (Perfect Balance) +1, Gang Leader +2; Curse 
 
 Aloof +1, Laughingstock (faeries) +4
 
-#### **Abilities**
+#### Abilities
 
 Alertness (shinty) 3, Area Knowledge—England (faerie courts) 1, Area Knowledge—Ireland (faerie courts) 1, Area Knowledge—Scotland (faerie courts) 2, Athletics (jump) 3, Bargain (vis) 3, Charm (sly) 2, Climb (Crun Clach) 3, Craft Songs (inspirational) 4, Dagger Attack (First Strike) 2, Dagger Parry (daggers) 3, Dodge (caman) 5, Evaluate Players (shinty) 4, Faerie Lore (courts) 5, Fantastic Beast Lore (British Isles) 3, Intimidation (royal bearing) 3, Intrigue (faerie courts) 1, Leadership (shinty) 2, Perfect Balance (running) 3, Play Harp (own songs) 4, Play Shinty (shoot) 6, Ride Horse (each sith) 3, Scan (shinty) 4, Search (long grass) 3, Shield Parry (claws) 3, Short Sword Attack (First Strike) 1, Sing (own songs) 4, Speak Gaelic (cultured) 6, Spear Attack (horseback) 2, Stealth (running quietly) 3, Scottish Law (foreigners) 3, Scribe Latin (analysis) 6, Search (writing) 2, Shield Parry (swords) 1, Speak Norman French (questions) 3, Speak Saxon (questions) 4, Sword Attack (retreating) 1
 
@@ -3201,7 +3201,7 @@ A combination of the two Enchantment to Block spells, this spell blocks all meta
 
 Age: 109 Size: 0
 
-#### **Characteristics**
+#### Characteristics
 
 +3 Int (dedicated) 0 Pre +2 Per (connections) -1 Com (slurred speech)
 
@@ -3231,7 +3231,7 @@ season to clan) -1, Rigid Magic -3
 
 Family Connections +2, Bonisagus (Order of Hermes) +1
 
-#### **Abilities**
+#### Abilities
 
 Area Knowledge—clan lands (magicians) 1, Bargain (services) 3, Church Lore (Germany) 2, Diplomacy (clan) 1, Enigmatic Wisdom (non-Hermetic traditions) 1, Etiquette (cities) 1, Evaluate Vis (type) 2, Faerie Lore (magic) 3, Fantastic Beast Lore (Highland giants) 2, Finesse (Intéllego) 3, Folk Ken (gruagachan) 2, Gruagach Lore (integration) 5, Hermes History (Dav'nalleous) 4, Hermes Law (other magical traditions) 2, Hermes Lore (researchers) 4, Humanities (science) 4, Intrigue (Bonisagus) 2, Legend Lore (giants) 4, Magic Theory (integration) 8, Meditation (collect thoughts) 4, Occult Lore (curses) 3, Parma Magica (Intéllego) 3, Penetration (Intéllego) 4, Play Harp (meditation) 3, Scribe Latin (classical texts) 6, Speak English (conversational) 1, Speak French (conversational) 1, Speak Gaelic (enunciation) 4, Speak German (magical theory) 3, Speak Italian (conversational) 1, Speak Latin (exposition) 5, Speak Norse (conversational) 2, Speak Polish (conversational) 2, Speak Russian (conversational) 1, Vim Affinity 3
 
@@ -3673,7 +3673,7 @@ Most Highland magi are of House Ex Miscellanea, and the Flaws "Hedge Wizard" and
 
 
 
-> #### **Geas**
+> #### Geas
 >
 > Geas is a prohibition that, when the geas is broken, it invokes a Curse on the victim. Gift is a magical boon. Curse is a magical affliction.
 
@@ -4201,7 +4201,7 @@ Note that, unlike Hermetic magic, Magic auras do not add to the learning total. 
 
 
 
-> #### **Exempli Gratia**
+> #### Exempli Gratia
 >
 > ##### Learning a New Exceptional Talent
 >
@@ -4243,14 +4243,14 @@ For the Transform ability, the base Ease Factor is 10. The victim may resist wit
 
 #### Shapeshifter and Transform Difficulty Modifiers
 
-##### **Size:**
+##### Size:
 
 1 point different: +1
 2 points different: +3
 3 points different: +6
 4 points different: +10, etc.
 
-##### **General Form:**
+##### General Form:
 
 Mammal: +0
 Reptile: +1
@@ -4261,13 +4261,13 @@ Wood/vegetable: +6
 Stone: +10
 Metal: +15
 
-##### **Nature:**
+##### Nature:
 
 Natural form: +0
 Man-made form: +6
 Complex man-made form: +15
 
-##### **Supernatural:**
+##### Supernatural:
 
 +Might score
 
@@ -4390,7 +4390,7 @@ Brude's main focus is to keep the gruagach traditions alive. When he takes an ap
 
 Age: 550 Size:+2
 
-#### **Characteristics**
+#### Characteristics
 
 | +6 Int (wise)       | +3         | Pre (forceful) |
 |---------------------|------------|----------------|
@@ -4419,7 +4419,7 @@ Aptitude (+2 with Shapechange) +4, Clear-thinker +1, Enduring Constitution +1, E
 
 Recluse (gruagachan) +4, Dangerous but Powerful (Hermes) +5
 
-#### **Abilities**
+#### Abilities
 
 Alertness (attacks) 3, Animal Handling (dogs) 2, Animal Ken (dogs) 8, Area Lore—Britain (history) 4, Area Lore—Highlands (gruagachan) 10, Area Lore—Scotland (history) 6, Bargain (favors) 2, Boating (small craft) 3, Brawl (damage) 6, Charisma (Highland politics) 3, Charm (sly) 2, Chirurgery (cuts) 7, Church Knowledge (sacraments) 1, Church Lore (saints) 4, Climb (cliffs) 3, Concentration (study) 5, Contortions (climbing) 3, Direction Sense (in hills) 5, Dirk Attack (slash) 4, Dirk Parry (dirks) 3, Divination (dreams) 4, Dodge (spears) 6, Dousing (long distance) 6, Empathy (politics) 8, Enchanting Music (inspiration) 8, Entrancement (domineering) 5, Faerie Lore (politics) 3, Fantastic Beast Lore (Highlands) 5, Folk Ken (baser nature) 5, Gift (characteristics) 10, Gruagach Lore (own pupils) 8, Gruagach Wisdom (training) 25, Healer (disease) 7, Herbalism (body-enhancing potions) 4, Hex (revenge) 3, Intimidation (reputation) 6. Leadership (gruagachan) 6. Legend Lore (Picts) 5. Magic Sensitivity (students) 5. Medicine (anatomy) 4, Mimicry (animals) 5, Occult Lore (ghosts) 4, Perfect Balance (cliffs) 4, Play Harp (solo) 5, Potency (Curse) 8, Premonitions (magic) 5, Read Lips (Gaelic) 4, Scan (hills) 5, Search (plants) 4, Second Sight (faerie glamour) 6, Sense Holy/Unholy (people) 3, Speak Gaelic (conversational) 6, Speak Pictish (Curses) 8, Stealth (walking) 5, Survival (Highlands) 4, Swim (sea) 4, Track (animals) 5, Transform (to inanimate objects) 10, Visions (death) 6, Weather Sense (storms) 3
 
@@ -5128,7 +5128,7 @@ Killer of Aonghus Mac Dughal +3
 
 3
 
-#### **Abilities**
+#### Abilities
 
 Abilities: Animal Handling (droving) 3, Area Lore—clan lands (paths) 2, Ax Attack (running) 3, Ax Parry (retreating) 1, Bargain (animals) 3, Brawl (punch) 2, Climb (quickly) 2, Dirk Attack (running) 2, Dodge (unarmed) 2, Evaluate Cows (fitness) 2, Faerie Lore (stories) 1, Farming (cas chrom) 2, Scan (herds) 2, Shield Parry (axes) 3, Sing (work songs) 1, Speak English (market) 2, Speak Gaelic (animals) 4, Speak Scottish (haggling) 2, Survival (Highlands) 2, Track (cows) 2
 
@@ -5417,7 +5417,7 @@ Harp, dirk
 
 ### Monk of the Scottish Church Age: 24 Size: 0
 
-#### **Characteristics**
+#### Characteristics
 
 - +2 Int (scholarly)
 - +2 Per (careful worker) -3 Com (reclusive)
@@ -5439,7 +5439,7 @@ None
 
 #### Confidence
 
-#### **Abilities**
+#### Abilities
 
 Canon Law (monastic codes) 2, Church Lore (Scottish services) 3, Church Lore (Scottish saints) 3, Craft gardening (root crops) 1, Evaluate Books (creator) 2, Faerie Lore (church beliefs) 1, Humanities (philosophy) 3, Scribe Latin (calligraphy) 4, Sing (hymns) 2, Speak Gaelic (conversational) 5, Speak Latin (liturgy)
 
@@ -5465,7 +5465,7 @@ You were born into the monastery community and would most likely have died there
 
 Age: 30 Size: 0
 
-#### **Characteristics**
+#### Characteristics
 
 - +2 Int (shrewd) +1 Pre (stately)
 - +-3 Per (see nuances) +1 Com (clear speaker)
@@ -5488,7 +5488,7 @@ Fond of sweets +2, Tough but Fair +3
 
 3
 
-#### **Abilities**
+#### Abilities
 
 Animal Handling (droving) 2, Area Lore—clan lands (families) 4, Bargain (clan politics) 3, Bow Attack (forests) 3, Charisma (clan members) 2, Dirk Attack (close quarters) 1, Dodge (close quarters) 3, Folk Ken (feuds) 3, Guile (anger) 1, Intimidation (clan) 2, Intrigue (neighboring clans) 2, Leadership (clan matters) 4, Shield Parry (hold ground) 3, Speak Gaelic (leadership) 5, Survival (Highlands) 2, Sword Attack (drive forward) 2
 
@@ -5550,7 +5550,7 @@ Wise Woman +3
 
 3
 
-#### **Abilities**
+#### Abilities
 
 Area Lore—10-mile radius (people) 4, Bargain (services) 2, Church Lore (stories of saints) 2, Craft—weaver (hard tartan) 3, Etiquette (hospitality) 3, Evaluate Animals (milk) 2, Faerie Lore (monsters) 3, Fantastic Beast Lore (Highlands) 3, Folk Ken (lovers) 4, Gift (physical) 5, Intrigue (local clans) 3, Legend Lore (heroes) 4, Occult Lore (spirits) 3, Speak Gaelic (storytelling) 5, Storytelling (lessons) 4
 
@@ -5656,7 +5656,7 @@ Magical Affinity (Intéllego) +4, Piercing Gaze +2, Quaesitor +1, Quiet Magic +2
 
 Fanatically anti-demon +3
 
-#### **Abilities**
+#### Abilities
 
 Acting (authority) 2, Certámen (Ignem) 2, Church Lore (demons) 1, Concentration (at night) 2, Debate (Code of Hermes) 2, Diplomacy (Tribunal) 1, Etiquette (slights) 1, Hermes History (Tytalus diabolism) 2, Hermes Lore (Schism War) 2, Hermetic Law (Peripheral Code) 3, Intéllego Affinity (Vim) 3, Magic Theory (Intéllego) 5, Parma Magica (Mentem) 3, Penetration (Intéllego) 3, Scribe Latin (legal documents) 5, Search (records) 1, Speak German (vocabulary) 4, Speak Latin (denunciations) 5, Subterfuge (bluff) 3
 
@@ -5705,7 +5705,7 @@ Newly initiated as a member of House Quaesitor, you have taken it on yourself to
 
 Age: 23 Size: 0
 
-#### **Characteristics**
+#### Characteristics
 
 | +2 | Int (talented) | -2 | Pre (untamed)         |
 |----|----------------|----|-----------------------|
@@ -5726,7 +5726,7 @@ Extra Arts +1, Silent Magic +4, Subtle Magic +2, Will over Form +3; Flawed Parma
 
 Feral +2
 
-#### **Abilities**
+#### Abilities
 
 Alertness (prey) 2, Dodge (arrows) 2, Faerie Lore (shape shifters) 1, Fantastic Beast Lore (giants) 2, Hermes History (gruagachan) 2, Hermes Lore (Ex Miscellanea) 2, Magic Theory (Muto) 5, Parma Magica (Córporem) 2, Pretend (interest) 1, Scan (forest) 1, Scribe Latin (bestiaries) 5, Search (bushes) 1, Speak Gaelic (animals) 4, Speak Latin (animals) 5, Survival (forests) 2, Swim (streams) 1. Track (small animals) 2, Will over Form (change to animal form) 4
 

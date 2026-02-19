@@ -603,7 +603,7 @@ Visitors may be alarmed by the food provided to the covenfolk, much of which is 
 >
 >**Seclusion:** –6. Note that the things which turn up here tend to be minor spirits rather than people.
 >
->#### **Environment:**
+>#### Environment:
 >
 >- Non-magi who live in the covenant never see the light of day or breathe fresh air, and are increasingly distorted by the covenant's aura as they age. Many die young. (–3)
 >- Magic items kept in the upper levels of this regio degrade, which makes it impossible to create labs with enhancements beyond +1 (–5)
@@ -641,7 +641,7 @@ Visitors may be alarmed by the food provided to the covenfolk, much of which is 
 >
 >**Allies:** The Cave lies at the center of the spiritual life of Criamon magi. Were it to be seriously threatened with destruction, many would rally to save it, or at least rebuild it afterwards. This does not, however, lead them to assist the Cave in less desperate times. (0)
 >
->#### **Enemies:**
+>#### Enemies:
 >
 >- Malign spiritual forces from the Places of Magic beyond mortal ken (6 x –3, intensity –1)
 >- Cult of Dyssynergy (may be non-existent) –3†
@@ -739,7 +739,7 @@ That leaves Esther, not terribly sane before her accident, in crisis. She's not 
 
 Echo and Esther were trained by the same magus, and argue regularly. Esther doesn't think the living should have intimate relationships with the dead. The past Primi find this particularly fascinating, since they know that Echo's relationship includes an illicit form of Twilight experience, and that the ghostly Esther is a Twilight effect deriving from that experience. Esther is a kind of juno, a sort of externalized conscience created from the spirit of a morally-conflicted being. Some of the Primi conjecture that they too form a single self-deceiving being, and they are delaying Esther's depetrification until they've observed the juno more closely. They can't decide if Echo's Twilight has formed it out of her own spirit, or that of her petrified sodalis, and don't want to cast Intéllego Vim spells on either while one, or arguably both, are in Twilight.
 
->#### *Let us discuss alcohol for a moment...In Alpine life it has many virtues.*
+>#### Let us discuss alcohol for a moment...In Alpine life it has many virtues.
 >
 >For sore feet it is an excellent restorative. Mixed with a little tallow and massaged into reddened feet it will draw out the ill humors which cause blistering. Indeed, even without the tallow it is virtuous in this regard, although it leaves the skin dry and flaky. I've tried several varieties of alcohol, but the flakiness persists. I have sought kumis from Novgorod, which is made by fermenting the milk of the yak, and hope for better results.
 >
@@ -834,7 +834,7 @@ The living covenfolk speak a Romansch dialect found nowhere else, although the p
 >
 >**Abilities:** Awareness 6 (things out of place in the covenant), Bargain 9 (with Criamon magi), Chirurgy 3 (magical injuries), Cave of Twisting Shadows Lore 9 (history), Craft (many) 3 (repairs), Enigmatic Wisdom 3 (Primi succession), Etiquette 5 (covenfolk), Faerie Lore 3 (Alpine), Finesse 9 (telekinesis), Folk Ken 6 (her covenant), Forgery 6 (detection), Greater Alpine Tribunal Lore 6 (history of covenants), Guile 3 (magi), Hermetic Law 5 (applying to House Criamon), Hermes Lore 6 (history), House Criamon Lore 9 (history), Leadership 3 (times of crisis), Legend Lore 3 (dream spirits), Occult Lore 6 (detecting diabolists), Philosophae 3 (historical trivia), Scribe Latin 6 (instructions), Speak Latin 6 (with magi), Speak Romansch 6 (covenfolk)
 >
->#### **Powers:**
+>#### Powers:
 >
 >*Mementos,* ReTe(He) 10, 0 points: This ability allows Hera to handle objects to which she had a strong emotional connection in life, as if she was still alive. Hera's magical gloves make this power unnecessary, but most powerful ghosts have this power.
 >
@@ -953,7 +953,7 @@ Over time this covenant's structure has altered, as chapters, which are all but 
 >
 >**Founded:** A covenant of this name was formed in 771, as one of the first attempts at communal living by magi trained by different masters. The current site was previously held by another covenant, called Highest Aspiration. Highest Aspiration was destroyed in the Sundering of Tremere.
 >
->#### **Members:**
+>#### Members:
 >
 >- Athena Alpina, the chief Quaesitor of the Alps
 >- Cato, follower of Guernicus
@@ -1110,7 +1110,7 @@ A member of a beast-mage tradition from Hibernia, Kentigern's magical affinity i
 >
 >**Abilities:** Athletics 3 (hiking), Awareness 3 (people), Bargain 3 (magi), Brawling 1 (with animals), Certámen 3 (Mentem), Civil and Canon Law 5 (contracts), Concentration 5 (divination), Crossbow 1 (quarry), Etiquette 2 (magi), Faerie Lore 1 (dwarfs), Finesse 2 (hunting spells), Folk Ken 4 (Bavarians), Greater Alpine Tribunal Lore 4 (traditional exchanges), Guile 1 (detecting lies), Hermetic Law 3 (Alpine Peripheral Code), Hunt 2 (track), Intrigue 1 (detecting), Leadership 1 (hunting parties), Legend Lore 3 (quarry), Magic Affinity 8 (Animál), Magic Theory 4 (using magic for criminal purposes), Occult Lore 1 (demons you can hunt and kill), Order of Hermes Lore 4 (Alpine agreements), Parma Magica 7 (Perdo), Penetration 2 (Animál), Philosophiae 1 (natural), Scribe Latin 5 (letters), Single Weapon 2 (Sword), Speak Latin 5 (magi), Speak Irish 4 (peasants), Speak German 4 (merchants)
 >
->#### **Arts:**
+>#### Arts:
 >
 >Cr 19 In 15 Mu 15 Pe 12 Re 20 An 30 Aq 0 Au 18 Co 9 He 9 Ig 0 Im 6 Me 3 Te 6 Vi 10
 >
@@ -1118,7 +1118,7 @@ A member of a beast-mage tradition from Hibernia, Kentigern's magical affinity i
 >
 >**Equipment:** Kentigern has purchased a longevity charm (–14). In addition to items described separately below, Kentigern has a light crossbow, a longsword and a suit of padded leather clothes that provide warmth when riding through the sky. His riding suit acts as full body, quilted armor (prot 2) and is enchanted to be weightless.
 >
->#### **Encumbrance:** 0 
+>#### Encumbrance: 0 
 >
 >**Spells Known:**
 >
@@ -1832,7 +1832,7 @@ Cara uses magic to control the conditions in the cavern-pools deep under the cov
 >
 >Enchanted distaffs are extremely rare, because each member of House Diedne carried a forked stick, called a cymar, which looks like a distaff. Anti-Druidical prejudice remains strong amongst the more violent houses of the Order, and some of their senior members keep an eye out for objects that might bear Druidic enchantments. The few magical distaffs manufactured by House Verditius have practical enchantments, which usually wash and comb thread.
 >
->### **Form and effect additions**
+>### Form and effect additions
 >
 >Spindle 
 >
@@ -1888,7 +1888,7 @@ Ragoneda has been selected as the covenant's liaison to whichever spring covenan
 >
 >**Abilities:** Artes Liberales 3 (geometry), Awareness 2 (hostile magic), Bargain 3 (magi), Boating 2 (not getting wet), Brawling 1 (avoiding being held), Certámen 3 (Creo), Charm 1 (magi), Chirurgy 2 (fractures), Concentration 6 (study), Disputatio 7 (apprentices), Etiquette 3 (magi), Faerie Lore 1 (gnomes), Faerie Lore 2 (Danu), Finesse 4 (bones) , Folk Ken 5 (Bavarians), Greater Alpine Tribunal Lore 3 (what magi want), Guile 1 (detecting), Hermetic Law 1 (orbi), Intrigue 3 (against Tytalus magi), Leadership 3 (grogs), Lectio 3 (apprentices), Legend Lore 1 (Normandy), Magic Affinity 12 (bones), Magic Theory 9 (using magic for criminal purposes), Medicine 4 (skeletal system), Occult Lore 3 (animated dead), Order of Hermes Lore 2 (House Tytalus), Parma Magica 7 (Corpus), Penetration 4 (bone magic), Philosophiae 2 (natural), Scribe Latin 5 (spells), Speak Latin 5 (magi), Speak Norman French 4 (grogs), Speak German 4 (merchants), Swim 1 (when encumbered)
 >
->#### **Arts:**
+>#### Arts:
 >
 >Cr 25 In 23 Mu 14 Pe 6 Re 6 An 11 Aq 6 Au 6 Co 30 He 6 Ig 6Im 6 Me 6 Te 6 Vi 14
 >
@@ -1896,7 +1896,7 @@ Ragoneda has been selected as the covenant's liaison to whichever spring covenan
 >
 >**Equipment:** Ragoneda has made few magic items, since she's still relatively young and has been busy building up her Arts. Her talisman is a bone spindle, which has been opened for all form bonuses, and is enchanted to snap human and animal limbs. She has yet to bind a familiar, but has a pet marmot that has some magical abilities. She has a taken a longevity potion with a bonus of –13, but it has infected her body with her sigil, the color of bone. Her color may return when the potion fails.
 >
->#### **Encumbrance:** 0 
+>#### Encumbrance: 0 
 >
 >**Spells Known:**
 >
@@ -2521,7 +2521,7 @@ Larta magi are not merely exceptional artists, but phenomenal virtuosi, unique t
 
 ### Larta Magi at Valnastium
 
-#### *Chef*
+#### Chef
 
 Josephine is a cook whose food is as good as magical. A native of Engadine valley, she's familiar with both the cuisine of nobles and peasants, and can prepare either perfectly. The food of nobles contains tremendous quantities of meat and bread, but little else. The food of peasants has small amounts of meat, almost garnishes of meat, extended with vegetables.
 

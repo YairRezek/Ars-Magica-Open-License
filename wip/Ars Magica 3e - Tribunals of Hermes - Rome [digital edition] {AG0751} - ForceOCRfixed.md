@@ -14,7 +14,7 @@ The Tribunals of Hermes: Rome™ is the second in a series of Ars Magica™ 3rd 
 
 
 
-#### **CREDITS**
+#### CREDITS
 
 Writing: Shannon Appel and Chris Frerking
 
@@ -52,7 +52,7 @@ Tribunals of Hermes: Rome
 
 Digital Edition Version 1.0 Copyright © 2006 Trident, Inc. d/b/a Atlas Games. All rights reserved.
 
-## **AUTHORS' DEDICATION**
+## AUTHORS' DEDICATION
 
 This book is dedicated to the members of Berkeley's Roman Tribunal Saga. Many of the ideas in this book were originally presented in those stories. Thanks to Philip Brown, Billy Filios, Scott Gier, Philip Gross, Donald Kubasak, Doug Lampert, Dave Martin, Doug Orleans, Don Petrovich, Dave Pickering, Eric Rowe, Matt Seidl, John Tomasetti, Chris Van Horn, Dave Woo, Kevin Wong and everyone else who played.
 
@@ -163,7 +163,7 @@ To investigate the dangers of humanity in the Roman Tribunal, this book details 
 
 city upon which this book concentrates. As centers of a different kind of human society, all the Tribunal's Covenants are presented as well, in all their defiled glory. The Tribunals of Hermes: Rome paints a sullied portrait of Mythic Italy, a land willingly given up to damnation.
 
-#### **OVERVIEW**
+#### OVERVIEW
 
 This book expands upon information provided in previous Ars Magica supplements. Indeed, it follows in the tradition of Tribunals of Hermes: Iberia, and sets the tone for Tribunal sourcebooks to come. Where Mythic Europe establishes a basis for life and activity in Italy, that book is inclined toward the history and geography of the land, offering a foundation upon which to set stories. This book goes beyond Mythic Europe, delving into the mystery, corruption, fantasy and just plain strange side of Italy. After all, members of the Order of Hermes are by no means ordinary, and the land and people they choose to deal with are, by default, unusual.
 
@@ -241,7 +241,7 @@ Ultimately, Rellantali is an excellent Covenant to use if Houses such as Flambea
 
 Literatus is another Covenant open to varied membership and is thus another good choice for characters, if they can barter their way into the charter. Literatus also has a strong leader, in Amberitus. Young Magi in the Covenant might have many tasks assigned them by Amberitus, such as finding lost books, protecting the Covenant, and bringing peace to the Tribunal—the stuff that makes great Magi. Jerbiton is the most common House at Literatus, but any friendly, good-natured Magus can fit in.
 
-#### **New Covenants**
+#### New Covenants
 
 If Magi want to start a new Covenant, Sicily is the most likely location. The land is owned by the Covenant of Magvillus, but, with entreaties and promises of friendship, new Magi might establish themselves without a fight. The resultant Covenant is undoubtedly deeply in debt to Magvillus, and is expected to pay those debts to bolster Magvillus' power in the Tribunal. Debts owed Magvillus might cripple you if fate frowns upon your Covenant's efforts. Moving out of Magvillus' shadow could be the theme of your Saga.
 
@@ -753,7 +753,7 @@ While some hedge wizards joined the Order, and many more died, other Italian hed
 Varator, the demon to which the wizards are tied, has goals of his own. He is a demon of vengeance, fueling the fires of the wizards' sin. When the wizards move across Italy, they will attack those who worship other Infernal powers, thus increasing the areas that Varator may control. In turn, those conquered lands will be offered revenge, resulting in anarchy and the absolute power of Varator.
 
 
-#### **EARLY CONFLICTS**
+#### EARLY CONFLICTS
 
 As the 9th century began, peace descended upon the Magi of Italy. In the mundane world there were still squabbles for land and there were still invasions, but for the most part Magi were able to turn from these things, concentrating on knowledge. Indeed, it seemed for a time that the Roman Tribunal was destined to become a place of great learning. In the growing Covenant of Verdi, magic items were created, broadening the limits of Hermetic magic. In the nearby Covenant of Auctus. followers of Bonisagus, Criamon and Merinita joined together, hoping to create a new theory of magic as Bonisagus had before them. In Harco, a great library of cartography was created. At Magvillus, the first books on Hermetic law were written. By the middle of the 9th century, more Covenants were founded. Newly arriving Magi spoke of joining the Renaissance of magic occurring within Italy, and they were welcomed by existing Covenants. Rellantali and Calabria were both accepted during this period. Friendship and comradery reigned. Then, in the latter part of the 9th century, prosperity came to a crashing halt.
 
@@ -1046,7 +1046,7 @@ that of the magnates. The *popolo* often sets much stricter standards of justice
 
 The influence of city-republics in northern and central Italy extends beyond city walls. Each commune includs an area of countryside (or *contado*) surrounding the city, as well as numerous villages and even lesser cities subject to the rule of the city-republic. The treatment of people in the countryside and subject towns is not at all like that afforded commune residents.
 
-#### **Nobility and Peasants**
+#### Nobility and Peasants
 
 Originally, communes simply replaced overlords, with rural lords swearing allegiance to an entire city instead of a single, higher lord. With time, however, communes took direct control of the *contados*, specifying what could be grown there and how the land would be used. Communes had very specific needs and used the surrounding land to fulfill them. So tight was control exerted on the countryside that in times of famine, food was more plentiful in the city than in the countryside.
 
@@ -1054,7 +1054,7 @@ Covenants located in the countryside, near communes, might be in for a surprise 
 
 attitudes. If the commune discovers the true nature of the "astrologers," characters might find themselves at the commune's beck and call. Do the characters take drastic action or pick up and leave?
 
-#### **Subject Communes**
+#### Subject Communes
 
 All the powerful communes have smaller communes subject to their control. Subject cities are usually required to accept a Podesta chosen by the controlling city (spreading that city's Infernal corruption), to accept the jurisdiction of the controlling city, to pay a large portion of their income to the ruling city and to serve in the ruling city's military. This agreement, however, is not as one-sided as it appears. In return, the subject commune receives the protection of the controlling city, and its subjects gain the rights enjoyed by residents of the controlling city.
 
@@ -1216,7 +1216,7 @@ The ruins of ancient Rome are of great interest to Hermetic Magi. Rumors say, as
 
 Outside the old walls of Rome, along the ancient roads that lead to and from the city, are numerous estates, farms, churches and homes. The families and monasteries of Rome have vast rural holdings. Also outside the city walls lie numerous underground catacombs, housing the physical remains of early Christians. By the 13th century many of these catacombs are sealed or forgotten, lost by the Romans. For those that do enter, the catacombs are extremely claustrophobic. There is scarcely room for a man to walk down a passage. Niches usually line the walls to the right and left. Some hold bodies. The catacombs can also form meandering mazes. They wind back and forth, sometimes doubling back on themselves. It is very easy to become lost in such places. Inside one of the catacombs of Rome, located to the southwest of the city, near the Tiber, is the independent Covenant of Vardian's Tomb.
 
-#### **Church And Pilgrims**
+#### Church And Pilgrims
 
 Rome is the center of the Church. The Pope and his court reside here through much of the year, though they also visit Anagni, Perugia, Viterbo, Orveito and other cities. A continual stream of petitioners and supplicants comes to the city to see the Pope. Several of the Jerbiton of Vardian's Tomb are known to meet regularly with the Pope and his court, making other Magi in Rome very nervous. Whether the Jerbiton are simply being polite about their interactions with the Church or are engaged in some plot, is unknown.
 
@@ -1282,7 +1282,7 @@ Of all of the lands of Italy, the most politically stable is the Kingdom of Sici
 
 The lands of southern Italy blend a strange mixture of people not seen anywhere else in Italy. The oldest residents of the southern peninsula are descendents of the Greeks. The Byzantines also have a cultural influence upon the land, as do the Saracens who occupy it for a time, even being accepted as part of southern society. Finally, there are the blond-haired, blue-eyed Normans, who came from the north as mercenaries and became rulers of the land. The speech of the south is a strange one, a combination of Italian, Norman, Arabic and Spanish.
 
-#### **PALERMO**
+#### PALERMO
 
 At the center of the Kingdom of Sicily, Palermo has always been one of the great intellectual lights of the west. From Palermo, numerous Greek and Arabic translations come, providing Mythic Europe with important Classical works. Several good libraries are found in the city, inspiring Church officials and Magi to travel to Sicily to consult them. As in Florence and Bologna, Auras of Reason have arisen on the sites of these libraries. When clergy and Magi do research in the city, they do not realize that they carry with them the means of their own ruin. New thought discovered at Palermo's libraries means a movement away from faith and magic, toward science and logic.
 
@@ -1339,11 +1339,11 @@ A wide range of matters are discussed at Tribunal meetings. Below are a few exam
 
 For several hundred years, young Magi hoping to found new Covenants in the Tribunal have been denied their request, ever since magic began to wane from the land. Bitter Magi, who once tried to form Covenants but failed, still remain in Italy. In the past, these independents have tried to manipulate matters to take power from established Covenants, to distribute it among individual Magi. By and large such efforts have failed.
 
-#### **Tribunal Expansion**
+#### Tribunal Expansion
 
 The Roman Tribunal sits near Africa, which lies largely unclaimed by the Order of Hermes. This matter has been discussed at previous Tribunal meetings, but nothing has come of it. The Tribunal may eventually decide as a whole to begin large-scale expansion into Africa. No one can guess at the results. Relations with Saracen sorcerers could lead to new heights of understanding, or to total destruction.
 
-#### **New Friendships**
+#### New Friendships
 
 Literatus and Magvillus would both like to see an era of new friendship descend upon the Roman Tribunal (but under their own terms, of course). In the past they have tried a number of schemes to force order upon the Tribunal. Future ideas could include enforced service at Literatus, so that Roman Magi all learn together. Or mandatory education in Hermetic Law and Lore might be imposed, to help Magi of the Tribunal learn from the mistakes of the past. Any of these issues could be brought up at Tribunal meetings. In the past, these suggestions have been defeated, largely because Magvillus and Literatus are unwilling to work together.
 
@@ -1407,7 +1407,7 @@ In addition to its hillside location, Harco owns several buildings and a shelter
 
 The location of Harco is illustrated on both *The Roman Tribunal* and *Harco* maps.
 
-#### **FORTRESS**
+#### FORTRESS
 
 The members of Harco live in the luxury that the Covenant's huge income allows. The main Covenant building is a large square villa, surrounding a beautiful central courtyard. A winding trail leads up from Harco village, past orchards and vineyards, through a small wood that surrounds the Covenant, to the large bronze doors which have served as entrance to Harco since its foundation. As Harco has always maintained reasonably friendly relations with its neighbors, the Covenant is not particularly well-fortified, and has numerous spacious balconies which offer a commanding view of the woods, vineyards and village below.
 
@@ -1485,7 +1485,7 @@ her best to remain neutral in matters, but occasionally fails, either because of
 
 Insatella only finds true enjoyment in the mercantile world. She loves bargaining with others, revelling in victory when she gains some concession. Her love for trade is so great that she sometimes puts it ahead of Hermetic matters. When faced with important issues, Insatella usually tries to do what is right for the Order. Sometimes, however, the good of her House and her own mercantile enterprises cloud her judgement.
 
-#### **Antho**
+#### Antho
 
 Follower of Mercere, Redcap for the Roman Tribunal
 
@@ -1559,7 +1559,7 @@ Additionally, Harco maintains the finest collection of maps to be found in Mythi
 
 Though Harco has a very limited mundane library, they have excellent archives detailing the politics of the Order and the mundane world back to the founding of the Order. These records contain copies of all notices sent throughout the Order, and lists of members of all Covenants of the Tribunal. The archives also include a large amount of material concerning the politics of the various factions involved in the Schism War. Indeed, these are probably the best resources on the war.
 
-#### **OBLIGATIONS**
+#### OBLIGATIONS
 
 Running House Mercere, as well as a merchant empire, is no small task. The members of Harco spend almost all their time administering the affairs of their Covenant and House. Almost no time is spent studying. The magic-using members of the Covenant are allowed a little more time for study than the others, but not much. Magi at Harco are allowed three Seasons every two years to pursue their art.
 
@@ -1647,7 +1647,7 @@ The Covenant also keeps a small townhouse in Venice, as do most other Covenants 
 
 For the Italian location of Literatus, see The Roman Tribunal map.
 
-#### **FORTRESS**
+#### FORTRESS
 
 The old Covenant, within the city of Bologna, is housed within a single large building off a side-street in the students' quarter, about a hundred meters from the city's cathedral. The building is two stories high, and surrounds a small inner courtyard. It has the appearance of a wealthy residence, and though sturdily constructed provides little defense should the need arise. There is space within the old building to comfortably house four or five Magi, their apprentices and a few servants. After the move to the manor house, the building now houses no more than one or two Magi, three or four apprentices and half a dozen servants. A small library is kept within the old building for use by remaining Magi and apprentices. There are currently no labs in the old building.
 
@@ -1676,7 +1676,7 @@ Since teaching and the subtle spread of sin are Literatus' greatest goals, the M
 
 When apprentices leave Literatus they typically travel to the far reaches of the Order, seeking to teach other Magi what they've learned. Initial encounters with other Magi involve a sharing of Hermetic understanding, then mundane experience, and finally diabolic insight (but only to those who show a predilection toward sin). These traveling apprentices usually stay in contact with Literatus, sending back newly learned information, and updating the Covenant on the spread of Infernal influence. Occasionally, after achieving notoriety
 
-#### **Amberitus**
+#### Amberitus
 
 Characteristics: Intelligence (logical) +4, Perception 0, Strength (out of shape) -1, Stamina 0, Presence (commanding)+1, Communication (wordy)+3, Dexterity (careless) -2, Quickness 0
 
@@ -1720,7 +1720,7 @@ Literatus keeps 30 Grogs, divided between its holdings, most of whom are used to
 
 The Covenant also allows a few trusted mortal scholars to use its mundane library. There are almost always two or three of these at the Covenant, availing themselves of one of the greatest libraries in Mythic Europe. The scholars pay for library access, adding some of their own works to the collection, or granting fees to the Magi.
 
-#### **Amberitus**
+#### Amberitus
 
 Arch-Mage of Jerbiton, Leader of Literatus
 
@@ -1758,7 +1758,7 @@ The library is well protected by numerous spells which prevent the books from be
 
 Literatus' income derives from the considerable fief of land granted to the Magi by Sylvester II. Additional money comes from the high wages many of the Covenant's members command for their services as teachers in Bologna. All in all, the Covenant has no lack of money, allowing Magi to live comfortably and pay for the mundane education of numerous apprentices.
 
-#### **OBLIGATIONS**
+#### OBLIGATIONS
 
 The Magi of Literatus have, for the most part, placed the burden of running their estate on their servants. The Overseer takes care of managing the fief, and the Autocrat takes care of the day-to-day details of running the Covenant. The single greatest obligation Magi have is their teaching. Each Magus at Literatus is expected to have an apprentice at all times. Additionally, in order to generate revenue and to preserve their reputations, many Magi take mundane apprentices in Bologna.
 
@@ -1835,7 +1835,7 @@ Magvillus' location is rather dry as most rainfall runs off quickly. The region 
 
 The slopes around the Covenant are bare of trees, but grasses grow in abundance. As the land is useless for most agriculture, the Covenant uses it to graze sheep and goats. Most other food is imported.
 
-#### **FORTRESS**
+#### FORTRESS
 
 Magvillus' defenses are very impressive. With its steep slopes, limited accessibility, and clear view of the surrounding land, the Covenant is easy to defend. Added to this are the Covenant's massive walls and impressive design. An attacker has to breach the outer wall, surrounding the guests' ward, the wall surrounding the Covenant ward, and the high wall of the inner ward before reaching the massive keep where the Magi make their home. Added to these mundane defenses are magical ones designed to prevent even powerful Magi from mounting an attack. An Aegis of the Hearth, Level 20, protects the Covenant from magical assaults.
 
@@ -1871,7 +1871,7 @@ Like all Covenants of House Quaesitor, Magvillus is split between Traditionalist
 The Traditionalist-Transitionalist conflict creates a rift in ideas on how Roman Tribunal affairs should be handled. To a Magus, the Traditionalists think that very strict control should
 
 
-#### **Arliandus**
+#### Arliandus
 
 Characteristics: Intelligence (logical) +4, Perception (wary) +1, Strength 0, Stamina 0, Presence (powerful) +1, Communication 0, Dexterity (shaky hands) -1, Quickness (slow walk) -2
 
@@ -1915,7 +1915,7 @@ In addition to offering associate member status to Quaesitoris, Magvillus offers
 
 Aside from its Magi, the Covenant has 40 Grogs, 14 of whom are assigned to guard the seven full Quaesitoris (each has two personal guards). Numerous other servants, including two scribes, are also employed.
 
-#### **Arliandus**
+#### Arliandus
 
 Primus of Quaesitor, Leader of Magvillus
 
@@ -1965,7 +1965,7 @@ When Verox is not at Magvillus, protecting the Covenant and enforcing decrees ma
 
 If met on the road, Verox is very sure of himself, explaining that he is a member of Magvillus. He expects all Magi to make way for him. If Magi are to oppose or annoy Verox, *Certámen* or Wizard's War might follow in short order.
 
-#### **OUTSIDE RELATIONS**
+#### OUTSIDE RELATIONS
 
 Outside the Roman Tribunal, Magvillus is one of the most respected Covenants of the Order. The Quaesitoris of Magvillus are seen as defenders of the Code, responsible for keeping the Order together. Two great powers from beyond the Roman Tribunal give Magvillus much support. The first is the conclave of Arch-Magi, which helps Magvillus in return for a certain task that Magvillus performs (see *The Graveyard of the Arch-Magi*, in Chapter Six). The second is the Hopolites, a group of warrior Magi, many of whom are Arch-Magi of Flambeau who enforce the rulings of the Quaesitoris. Officially, the non-Quaesitor associate members of Magvillus are both Hopolites, but most of the group are much more powerful than those who reside at Magvillus.
 
@@ -1992,7 +1992,7 @@ Magvillus, though not a particularly wealthy Covenant, has always been able to s
 
 The mundane libraries at Magvillus are poor, except in matters of law. Magvillus has vast archives detailing various investigations and legal questions. Additionally, there are good sources on Occult Lore (accumulated to conduct investigations into Literatus). Most of the material focuses on the Order and its internal affairs; there is almost nothing touching on the mundane world.
 
-#### **OBLIGATIONS**
+#### OBLIGATIONS
 
 Magvillus exists to serve the needs of the Order. The Magi of Magvillus are responsible for enforcing the Code, and investigating those who may have broken it. Though they usually do not conduct investigations themselves, the Magi of Magvillus keep track of investigations in progress throughout the Order. This duty is a tremendous burden on the time of Magi, who spend at least two Seasons each year on their assignments.
 
@@ -2073,7 +2073,7 @@ Rellantali is officially located on the island of Asinara, just north of Sardini
 In reality, Rellantali's Asinaran fortress is virtually abandoned. A few covenfolk remain to keep up appearances. Only a single Magus, Idus of Flambeau, stays there for any extended periods of time. Another Magus only occasionally steps through the Hermes Portal that links Asinara to Venice, to do magical work. For the most part, however, the Magi of Rellantali reside in Venice.
 
 
-#### **FORTRESS**
+#### FORTRESS
 
 Rellantali's Asinaran fortress is well-fortified. (For the layout of the place, see the Rellantali Covenant map.) Four tall walls surround the Covenant and there's a tower at each junction. A solid iron gate protects the one entrance to the Covenant, which is located in the southern wall. A large rectangular building takes up a good portion of the center of Rellantali. It once housed the Magi and the council room. Now only a few labs are maintained here. The rest of the place is empty and deserted.
 
@@ -2182,7 +2182,7 @@ Over the last century, Rellantali has collected a huge number of maps of Venice,
 
 Rellantali possesses a number of sailing vessels, which it uses for trade between the Levant and Venice. Rellantali acknowledges ownership of these vessels, and they occasionally provide board and passage for Redcaps and other Magi. Such service has gone far to increase the Covenant's reputation within the Tribunal.
 
-#### **OBLIGATIONS**
+#### OBLIGATIONS
 
 Although the Magi of Rellantali have no standing obligations, all are expected to provide whatever help that the Covenant requires. Usually, when new Magi are welcomed, a contributing role is chosen for them. That role is made clear at once, so that Magi are not surprised by occasional tasks that come their way.
 
@@ -2284,7 +2284,7 @@ Magi's Covenant dwellings, and also protect Verdi from floods and other natural 
 
 For the location of the Covenant see *The Roman Tribunal* map and, for its surrounding lands, the *Verdi* map.
 
-#### **FORTRESS**
+#### FORTRESS
 
 The physical dwellings of Verdi are relatively unimpressive. In the middle of the valley rises a single tower, created long ago with the *Conjuring the Mystic Tower* (Creo Terram, Level 50) Ritual. The tower is said to be located exactly where Verditius' original hut once stood, and has always been the dwelling of the Primus of Verditius. The ground floor is devoted to a meeting place of Magi, while the two upper floors are devoted to the Primus' living quarters and sanctum.
 
@@ -2347,7 +2347,7 @@ Besides the Covenant's Magi, 15 warriors and a number of covenfolk live at Verdi
 
 Many of Verdi's covenfolk are of Arabic descent. The Saracens invaded Sardinia in the 9th century. Although Verdi managed to stay distant from invading forces, the Covenant later accepted these people as covenfolk, before Pisa and Genoa fought to reclaim the island.
 
-#### **Imanitosi**
+#### Imanitosi
 
 Primus of Verditius, Leader of Verdi
 
@@ -2453,7 +2453,7 @@ through intermediaries. Those people represent Verdi's only real contacts to the
 
 The mundane library at Verdi is almost nonexistent. Scattered amongst the tomes of Hermetic Lore are a few books on the legends of peoples throughout Mythic Europe. These are kept only to point the way to any long-lost magic items.
 
-#### **OBLIGATIONS**
+#### OBLIGATIONS
 
 One Season a year, all Magi of Verdi are required to make a magic item for the Covenant. The raw vis is provided, so that only a Magus' time is spent. These items, usually of lesser quality since they're made on demand, are sold to Al Arama and the mundanes of Venice. Verdi's Verditius usually spend the other Seasons of the year making magic items for themselves, though many of these are also sold, for personal rather than Covenant profit.
 
@@ -2509,7 +2509,7 @@ of a chosen city. The Magus Erimas sits on the Council of Pavia, and is helped b
 
 Within the Tribunal, Luctatio plays other Covenants against each other, gaining power as the intensity of conflicts rise between them; Luctatio almost always allies with the winning side. Helping other Covenants in their plots, Luctatio is popular in the Tribunal and respected as an ally by most. Only Magvillus is opposed to Luctatio, mainly because the Magi of Luctatio use popular dislike for Quaesitoris as a tool in their manipulations.
 
-#### **POSTESTAS**
+#### POSTESTAS
 
 Symbol: A clenched fist over a wave
 
@@ -3268,7 +3268,7 @@ CONFIDENCE: 3
 
 WEAPONS & ARMOR: Bastard Sword, Kite Shield, Chain Mail Hauberk
 
-#### **ENCUMBRANCE: 5**
+#### ENCUMBRANCE: 5
 
 A member of an established northern family, you were groomed from youth to be one of your town's rulers. You never thought much of the position, so left the city behind. Although you insist otherwise, your family has turned its back on you. Lately you've been selling your talents as a warrior, for your family trained you well in those arts. It's been a good, exciting life, much better than the one that was planned for you.
 

@@ -257,17 +257,17 @@ The Divine seeks the betterment of humanity and the salvation of souls. Angels, 
 
 There are many theories among Hermetic researchers as to the relationship between the Divine and the other realms. The four realms are a division recognized only by the Order of Hermes; Christian theologians, Muslim philosophers, and Jewish rabbis would consider the classifications laughable or offensive, while heretics and hedge mages could have other divisions or explanations. What is certain to Hermetic thinkers — a certainty that forms one of the foundations of Hermetic Theory — is that the Divine is the font, or the highest, of the realms (as discussed in **Ars Magica** 5th Edition, page 182).
 
-#### **MAGIC**
+#### MAGIC
 
 If the erudite Hermetic researchers are correct, then the Magic realm is intimately connected to the power and goodness of the Divine. Certainly, some powerful magical beings resemble angels, and may have once even been Divine. Divine beings, such as angels, tend to have little to do with Magic; relationships are distant but not necessarily hostile. Due to their great power, the sovereigns of the Magic realm are often associated with the sin of Pride, and occasionally encourage sacrilegious worship of themselves or their auras. For these reasons, the Divine seeks to remind the Magic realm of humility, restricting its might while in holy areas.
 
-#### **FAERIE**
+#### FAERIE
 
 Arcadia and its denizens are but a dim reflection of the light of heaven, or of the divine spark of humanity. For this reason, there is no essential antagonism between Divine and Faerie realms, although the fay tend to shy away from manifestations of the divine, as the dependent nature of faeries does not fare well against the radiant light of Heaven's truth. Some faeries crave worship and veneration, and the Divine opposes this practice.
 
 More so than with the Magic realm, agents of the Divine are likely to come into conflict with aspects of Faerie, simply because many of their activities encourage people to commit sin. Some faeries have become inured to the Dominion and make their residence in churches and synagogues; these faeries walk a fine line between assisting the faithful and causing mischief so as not to raise the alarm of their angelic guardians.
 
-#### **INFERNAL**
+#### INFERNAL
 
 Conflict between Heaven and Hell is eternal and unrelenting. The diabolical forces of the Devil are the Divine's most implacable foes, forever seeking to overthrow the Throne of God and plunge the created world into eternal darkness.
 
@@ -315,7 +315,7 @@ Unless the covenant and its inhabitants are particularly sinful, most agents of 
 
 **Chapter 3: Blessed by God** addresses holy characters, including their supernatural powers and spiritual influence. It includes new Virtues and Flaws, ideas for using True Faith and Faith Points, and a way for Hermetic magi to reconcile their power with the Dominion through the secret of Holy Magic.
 
-#### **DOMUS DEI: THE HOUSES OF GOD**
+#### DOMUS DEI: THE HOUSES OF GOD
 
 **Chapter 4: Mythic Christianity** develops the Church and its representatives, monks and friars, heretics and heresies, and the divide between East and West. It includes ideas for involving Church rites in the game, including the sacraments, exorcism, and invoking saints, and two kinds of cloistered character with Christian powers. It ends with the ancient rites of King Solomon's Notory Art, a path to holy wisdom for Gifted characters.
 
@@ -375,7 +375,7 @@ Experiencing a powerful Divine aura is a life-changing experience for faithful a
 >
 >**Araboth**: The Seventh Heaven is the dwelling of the Angels of Judgement, Seraphim, Cherubim, and Thrones, ruled over by Cassiel. Araboth is the closest thing in creation to God Himself, and is the location of his Throne.
 
-#### **MUNDANE REACTION TO THE DIVINE**
+#### MUNDANE REACTION TO THE DIVINE
 
 A pious character entering a Divine aura is filled with positive feelings directed towards God. As the aura grows in strength, these feelings can overcome the character's sense of self. The purpose of Divine auras is to glorify God, so the emotions and spiritual sensations provoked by a Divine aura tend to be ones such as selfless love, awe, and wonder.
 
@@ -387,7 +387,7 @@ Some people can be overwhelmed by a powerful Divine aura, experiencing a tempora
 
 The Dominion auras of different faiths, such as Christianity, Islam, or Judaism, or others such as Zoroastrianism, Catharism or Gnosticism, have no different game effects. How the Dominion affects a person is determined by the individual, not the faith the Dominion is sustained by. A bishop entering a mosque would feel the same spiritual sensation as if he entered a cathedral, a synagogue, or a fire temple of the Magoi.
 
-#### **MAGICAL REACTION TO THE DIVINE**
+#### MAGICAL REACTION TO THE DIVINE
 
 When exposed to a Divine aura, the Gifted feel their magical power buffeted as though a candle flame in a strong wind, or suffer from headaches, pain in body parts often affected by magic, or a short temper. Most importantly, the hubris of Hermetic mages (and other powerful magical practitioners and beings) is called into question in a Divine aura. Under the gaze of the Divine, the might of The Gift feels reduced to but a dim spark.
 
@@ -395,11 +395,11 @@ Despite this apparent Heavenly displeasure, magi may still experience positive e
 
 Magical creatures also feel diminished in a Divine aura; used as they are to being mighty beings with great powers, they are given an unwelcome reminder that even greater beings than themselves reside within the Divine Realm.
 
-#### **FAERIE REACTION TO THE DIVINE**
+#### FAERIE REACTION TO THE DIVINE
 
 Most fay find the Divine to be confrontational and upsetting. The light of truth found within Divine auras makes faeries feel as though their glamours and illusions have been stripped away, and the sensible presence of the ultimate good can make them question the purpose of their existence. Nevertheless, the Divine is welcoming, offering truth rather than deception — a profound honesty more radiant than the most brilliant glamour, which some faeries find comfort in.
 
-#### **INFERNAL REACTION TO THE DIVINE**
+#### INFERNAL REACTION TO THE DIVINE
 
 Hate and fear characterizes Infernal opinion of Divine auras. The light, truth, and love that saturates Divine auras strikes directly against the essence of Infernal beings, and intense sensations of dread and self-loathing fill diabolists and those affiliated with Hell. Despite this, devils and infernalists are adept at hiding their true feelings and rarely demonstrate what they may be experiencing. Demons are the most likely of creatures from non-Divine realms to be visiting a Divine aura, to tempt, corrupt, and spread wickedness.
 
@@ -415,7 +415,7 @@ The Dominion is the Divine aura manifested for and around God's faithful. It doe
 >
 >The Dominion manifests wherever faithful gather to worship the creator and sustainer of all things, regardless of creed, doctrine, or scripture. The three faiths of the Book (Christianity, Islam, and Judaism) are all protected by a Dominion. So too are communities of the Cathars in Southern France, the Mandeans in Iran, the Zoroastrians in Persia, and heretics of all three major faiths, so long as adoration is given only to God, although such heresy will often cause schism (see Blessed By God, Holy Influence).
 
-#### **DOMINION POWER**
+#### DOMINION POWER
 
 As laid out in **Ars Magica** 5th Edition page 183, auras vary in power from 1 to 10. The Dominion's power will radiate from a community's church or place of worship (mosque or synagogue) where it is strongest, to the edge of the community, where it is weakest. As a rule of thumb, the Dominion will extend from the altar, from where the *salat* is being chanted, or from the Torah scrolls, to as far as the church's bells, the call to prayer, or the recitation of the Torah can be heard until it encounters another, stronger aura or reaches the edge of the community.
 
@@ -440,7 +440,7 @@ As another guide, the Dominion is typically strongest where people gather to wor
 >| Site of pilgrimage or veneration    |      4-8    |
 >| St Peter's Basilica, Church of Holy Wisdom, the Dome of the Rock, Mt. Sinai     |        5-10     |
 
-#### **CONFLICTING AURAS**
+#### CONFLICTING AURAS
 
 More so than other auras, the Dominion regularly conflicts and challenges the auras from other realms. During the expansion of Christianity, Islam, and the kingdom of Israel, the Dominion abutted and pressed against Magic and Faerie auras. Due to the purpose and nature of the Dominion, when it comes to influence in an area with another realm's aura of equal strength, the Dominion will trump the opposing aura; a more-powerful aura will still overwhelm the Dominion, however.
 
@@ -465,7 +465,7 @@ More so than other auras, the Dominion regularly conflicts and challenges the au
 >
 >The area surrounding the Pilgrim's Castle — its fisheries and vineyards has a Dominion rating of 2. Within its walls the Dominion rises to 3. The castle's small oratory has a Dominion of 4 (5 at the altar). Along the recently uncovered ancient wall there is no Dominion, but any other aura has long since vanished.
 
-#### **CREATING A DOMINION AURA**
+#### CREATING A DOMINION AURA
 
 Dominion auras do not spring up spontaneously. They are the result of a community of faithful gathering in worship. To create a Dominion aura, three things are required: a celebrant, a consecrated altar (or similar, such as Torah scrolls and *menorah* lamp, or recitation of the Qur'an) and a congregation. The celebrant must perform a **Dominion rite**, following which the Dominion begins to emanate from the altar to protect the assembled congregation.
 
@@ -499,7 +499,7 @@ Empyreal auras located in places rather than around people are typically those a
 
 There is no difference, system wise, between Empyreal auras and the Dominion. They are distinguished by their source and purpose. Relics interred beneath an altar become the locus of mundane worship and so radiate a Dominion aura rather than an Empyreal aura.
 
-#### **EMPYREAL AURA POWER**
+#### EMPYREAL AURA POWER
 
 People and relics only radiate an Empyreal aura when they have five or more Faith Points (see Blessed By God, True Faith). A place where a powerful miracle has occurred, or where a Divine creature lives, may fall under an Empyreal aura.
 
@@ -539,7 +539,7 @@ Legendary churches, sacred caves, and holy lakes are all locations of terrestria
 
 Most inhabitants are far more likely to wander into a terrestrial regio than a celestial one. Terrestrial regiones tend to typify a particular virtue or theme, though they tend to be virtues of the flesh, such as courage, honor, or fortitude. Terrestrial regiones are found near holy sites, such as particularly ancient and sacred churches, or older holy sites, such as Mount Sinai or the resting place of Noah's Ark.
 
-#### **INSIDE TERRESTRIAL REGIONES**
+#### INSIDE TERRESTRIAL REGIONES
 
 Upon entering a terrestrial regio, visitors will be struck by the remarkable and vivid differences between the mundane realm they have left, and the divine one. Terrestrial regiones appear similar to the mundane world they are linked to, yet even in a low-level regio the differences are vast.
 
@@ -549,7 +549,7 @@ In powerful regiones (those with a rating of five or greater), the features of t
 
 At these levels it is likely that even the basest object, such as leaves, water, or rocks, could be used or distilled into vis; certainly any animals at this level would contain a few pawns, although killing them to harvest it would no doubt raise the ire of more-powerful inhabitants.
 
-#### **INHABITANTS**
+#### INHABITANTS
 
 Most of the native inhabitants of a terrestrial regio are beings of flesh and blood — divine animals or biblical creatures. Angels may visit, but they tend to reside in celestial regiones. Sentient inhabitants of a terrestrial regio (even those with no Divine Might) are beings of great distinction, with fiery eyes, tongues of fire, or shining faces. Often they will be creatures from biblical myth: holy giants from before the Great Flood or brass serpents, for instance. The inhabitants of a regio will more often than not represent or in some way personify the terrestrial regio's virtue: lions for courage, sheep or dogs for loyalty, doves for peace, and so on.
 
@@ -571,7 +571,7 @@ The Vault of the Sky, the palaces of the seraphs and archangels, the stairs to t
 
 Gaining entry into a Celestial regio is rare, and is generally only possible through invitation. Most celestial regiones are guarded by angels or divine spirits who eject intruders or accidental visitors. A character is most likely to visit a celestial regio if taken there by his Guardian Angel (or similar) in a vision or dream, rather than visiting in the flesh. Furthermore, celestial regiones move from place to place, and may not be accessible from the ground. Their link to the mundane world is tenuous and often at the whim of their powerful angelic resident.
 
-#### **INSIDE CELESTIAL REGIONES**
+#### INSIDE CELESTIAL REGIONES
 
 For mundanes who enter a celestial regio, the environment can be overwhelmingly symbolic, filled with fire, ethereal song, or strange beings. Other celestial regiones infuse mortal visitors with ecstasy or sensations of ascending to Heaven, or cause the apprehension of all sensations, such as time, pain, fatigue, or emotions, to completely cease.
 
@@ -911,7 +911,7 @@ The name "Seraphim" means "to kindle" or "make hot". For this reason they are of
 >
 >*Smite Evil*, one or more points, +15, Vim: As per *Demon's Eternal Oblivion*, with the level of the effect determined by the number of Might Points spent multiplied by 10. This also affects Faeries.
 >
->#### **STORY HOOK:**
+>#### STORY HOOK:
 >
 >The name of Gadiel the seraph is discovered in an old book in the covenant's library and has the power to ward against devils with less than Infernal Might ten, if inscribed on an amulet or circle. This discovery by the magi makes Gadiel aware of the covenant, and he descends to earth in the form of an old woman to see if the magi of the covenant will use his name wisely or not. If the characters treat Gadiel well, he may aid the covenant, or punish them if they abuse him.
 
@@ -931,7 +931,7 @@ Cherubim are the receptors of the highest Divine Wisdom, living in ceaseless con
 >
 >*The Chariot*, 30 points, +1, Auram: Four Cherubim must use this power (and each must pay for it), which "bows the heavens" and actually allows a direct emanation of the Divine realm to enter into the mundane world, enfolding the target. In so doing, the target is entirely purified, restored to a state of sinless perfection and nearness to God such as was enjoyed by Adam and Eve before the Fall. This removes all Warping, Decrepitude, and Aging Points; increases the target's Intelligence, Perception, Presence, and Communication to +3 (if it is lesser); or increases the character's True Faith Score by 1. Cherubim rarely use this power and only upon the holiest and most pious of mortals.
 >
->#### **STORY HOOK:**
+>#### STORY HOOK:
 >
 >A character with True Faith, a high godly Personality Trait, or potent holy power is visited by the cherub Lawidh as a test of faith. This may be a chance for the character to increase his True Faith, or even gain it. The cherub takes the character to the Gates of Heaven and there offers him a mighty kingdom to rule over as absolute sovereign (or some other tempting offer). If the character refuses the temptation, then Lawidh may use *the Chariot* on the character.
 
@@ -2113,43 +2113,43 @@ Tempering produces a special Personality Trait in the divine aura. It actually c
 
 There are seven varieties of holy temper described below, with examples of the sort of behavior that would receive a bonus or a penalty. Each type is associated with a particular kind of good activity that directly opposes an evil one. This is entirely based on the circumstances surrounding the characters' actions in the aura, and the storyguide should try to judge them based upon the desired outcome rather than the specifics of what the characters are doing.
 
-#### **LOYAL**
+#### LOYAL
 
 Loyalty applies in situations where the character is called to follow orders or aid a friend or partner in need. To some extent it governs fidelity and faithfulness, but it is most appropriate when a character is called upon to fulfill an obligation to one who is worthy of respect, or when the character must give up something for the greater good. It is similar to Faith, the Christian virtue that represents the character's devotion to God and adherence to His order of things, and offsets the capital vice of Pride, which might be described as wicked independence. The proud man thinks himself better than others in his community, and perhaps even better than God in that he is more confident in his own powers and abilities than the Divine Will. Many magi fall prey to this vice, often considered "the beginning of all sin" because by turning away from God, one naturally turns toward evil.
 
 >*Exempla Gratia:* A village priest ceremonially invokes a Loyal temper in his parish, to encourage them to bond together during a difficult harvest. Two of the men go hunting birds together, and are much more successful than a boy who just wants to show off his skill with the bow by himself. However, when the pair try to shoot a deer belonging to their lord, they cannot seem to hit it and it escapes. Later, when they realize the boy is missing, they decide to search the area and quickly find traces of his trail, eventually discovering him lost and wandering aimlessly through the forest.
 
-#### **CALM**
+#### CALM
 
 A Calm temper represents tolerance, optimism, understanding, and a willingness to work out differences. Calm characters promote peaceful discussion, encourage reasoned debate, and seek common ground. They believe in others and trust God even in the face of great difficulties, doing their best to overcome violence and hate. Those who are not calm may eventually give in to the desperate sin of Wrath, and behave spitefully and vengefully. Such people boil over with anger and rage, which prevents them from thinking positively. This may be based in fear or despair, but its measure is in how characters act when they encounter adversity — wrathful characters become violent, not cowardly. Most fighting is opposed by a Calm temper. The theological virtue related to this temper is Hope, which represents confidence in God and the belief that He will watch over and protect those who follow Him.
 
 > *Exempla Gratia:* The parish is joined by a new family — a strange group of Eastern refugees. The priest thinks it would be a good idea for everyone to put aside their prejudices for a while to get to know them, tempering a Calm aura through his personal influence, and thus succeeds in getting a good reaction from them when he calls. The village drunk tries to pick a fight with the father of the family when he encounters them on the green one evening, but cannot seem to hit his target and soon passes out from exhaustion.
 
-#### **KIND**
+#### KIND
 
 Kind characters are filled with love and good feeling for fellow beings. Their actions are directed outwards, usually to make others more comfortable or to help them through hardship, grief, and suffering. They see to the needy, look after strangers, and care for the sick. They seek to do good for others, as they would have others do for them. Kind tempers support mercy, forgiveness, and generosity. Kindness is tied to the theological virtue of Charity or love, which means doing God's work by giving as much of oneself as possible. It counters the capital vice of Envy, which is the jealous desire to "even the score" between oneself and others with whom there is a perceived imbalance. Acts done with envy are hateful and cruel, designed primarily to punish and destroy. It differs from Avarice in that the envious character wants to hurt those who prosper, not possess what is theirs.
 
 > *Exempla Gratia:* The priest realizes that the new residents have fallen on hard times, and encourages his Kind parish to share what little they have with their neighbors. The village carpenter builds them some new furniture, which is of particularly high quality, and in thanks the man performs a holy ritual designed to protect the carpenter's house from evil spirits, which is also more effective than normal. When a jealous neighbor tries to spy on them, they easily spot her and run her off, and the rest of the village seems uninterested in her gossiping.
 
-#### **BRAVE**
+#### BRAVE
 
 Bravery and courage represent characters' ability to hold their ground, or advance in the face of opposition or great risk. Brave characters might undertake dangerous adventures, work diligently at a difficult task, or valiantly charge an enemy. They persist and pursue their ideals no matter what the cost, and are not easily swayed by fright or fatigue. The capital vice this temper opposes is Sloth, which is a physical and spiritual laziness that prevents characters from doing what needs to be done, either because they fear the consequences of their actions or cannot believe they will succeed. Like Wrath, this vice is usually based in cowardice, but in this case the characters will flee or hide, or stand petrified and unable to move. The temper's cardinal virtue is Courage, in which the character finds the heart to continue and the zeal to strive for greater and better things.
 
 > *Exempla Gratia:* Wolves attack the village, and the priest prays for God to aid the brave men and women fighting to protect their homes. Those of them who stand their ground against the animals soon defeat them, sending them off into the night. A few of the wolves try to hide and sneak back into the village, but they are easily caught and routed by the perceptive guards.
 
-#### **WISE**
+#### WISE
 
 Characters who are aware of their limitations and strive to overcome them can be said to be Wise. They behave in traditional and tested methods of overcoming temptation or folly, and strive to act in ways that set a good example for others. While knowledge and experience can aid them in this, they also possess an innate affinity for moral right and wrong. A Wise temper triumphs when reason overpowers base desires. Lust is the corresponding vice, found in those who give in to physical needs and the reckless abandonment of caution. It can indicate carnal pleasures, but also lust for fantasy and illusion, which lead to an inability to treat people and things as they truly are, but rather imagining what they might be. The cardinal virtue is Prudence; meaning practicality and chastity, being more mindful of the consequences of one's actions than the fulfillment of fleeting impulses.
 
 > *Exempla Gratia:* The priest is worried that the people in his parish will behave foolishly during the traditional revelry of the holidays. He tempers the aura to encourage Wisdom. Sure enough, one of the women has too much to drink, and it goes right to her head. She dances and jokes, but her witticisms fall flat, and when she tries to seduce a young man, he sees through her misguided intentions and convinces her to go home instead.
 
-#### **STRONG**
+#### STRONG
 
 Strength of mind, body, and will indicates an ability to overcome distractions and do without unnecessary luxury. This temper governs self-control, and how characters deal with hardship that comes from within. Strong characters are healthy, practice virtuous moderation and restraint, and are thus better able to resist temptation. The temper opposes the capital vice of Gluttony, which indicates an excessive appreciation of fine living. It is essentially the inability to satiate oneself, a sort of greed for the pleasures of excess. Unlike Envy or Avarice, Gluttony is tied to desire, and unlike Lust this desire is inherently selfish and self-centered, deliberate rather than impulsive. A glutton is an addict. Those who practice the cardinal virtue of Temperance resist this sort of overindulgence, which is found not just in food and drink, but in all ways by which characters coerce themselves into sin.
 
 > *Exempla Gratia:* The winter becomes even more severe, and the new family fears that they will not have enough fuel if they do not ration more carefully. Their father asks the priest to help, and he invokes a Strong temper that makes everyone better able to endure the cold. However, when the father tries to use his holy powers to create more wood he does not succeed, so instead he sends his daughter out to forage. A mischievous faerie tries to coerce her into its hut just beyond the edges of the Dominion, but she more easily resists the faerie magic and escapes home.
 
-#### **JUST**
+#### JUST
 
 This temper is concerned with fairness and the decision to do the right thing despite personal wants and desires. Just characters accept that there are consequences for acts that bend or ignore the rules. They give others their due and do not deprive them of that to which they are entitled. These actions come from the cardinal virtue of Justice — a kind of general even-handedness for everyone. Opposite this is the capital vice of Avarice — the greed for material goods and the desire to take more than one's fair share. An avaricious character cares little for codes of conduct, but instead seeks to acquire by any means necessary, cheating and even stealing when given the opportunity. Avarice is sometimes called the root of all sin, in that most sinful actions stem from unreasonable want — thus it is said that the love of money is the root of all evil.
 
@@ -2282,19 +2282,19 @@ From time to time one also comes across multiple relics representing the same th
 >
 >The following are relics that are important to more than one monotheistic tradition. For relics that are specific to only one of the monotheistic religions, see the appropriate chapters.
 >
->#### **THE ARK OF THE COVENANT**
+>#### THE ARK OF THE COVENANT
 >
 >Built to carry the tablets of the Law given to Moses by God, the Ark of the Covenant was carried by the Jews throughout their journey from Egypt to the Holy Land. Eventually it was placed in the *debir* (Holy of Holies) in the Temple of Solomon, where it remained until the city was taken by troops from Babylon in 587 B.C. What became of it then is unknown. Some say it was hidden, while others say it was carried off by the victorious Babylonians. Whatever happened, it has never been found again.
 >
 >The Ark is an immensely powerful relic, which would be best used by storyguides as the focus for a saga or at least a major adventure. For Jews it has a Faith score of 10, giving it 10 Faith points and a Divine Might of 100. It is also important to the Christians and Muslims, for whom it has a Faith score of 7, though the Divine Might remains 100. In addition, the storyguide should feel free to give the Ark any powers that seem appropriate for the purposes of the story.
 >
->#### **THE HEAD OF JOHN THE BAPTIST**
+>#### THE HEAD OF JOHN THE BAPTIST
 >
 >Regarded in Christianity as the precursor to Jesus and in Islam as one of the prophets who preceded Muhammad, John the Baptist (Yahya in Arabic) was beheaded during the life of Christ by King Herod at the request of his daughter Salome. What became of the head afterwards in unclear, but there are now several churches and mosques claiming to have the head, as far apart as Amiens in France, Constantinople in the Byzantine Empire, and Damascus in Syria. Of course, if the head has been miraculously duplicated by God, it is possible that all will be equally effective as relics.
 >
 >A head of John the Baptist has a Faith score of 5, giving it 5 Faith Points and a Divine Might of 50, usable by Christians and Muslims. The head may also be used to invoke the Saint Powers *Resist Temptation* and *The Faithful Made Whole*.
 >
->#### **NEHUSHTAN**
+>#### NEHUSHTAN
 >
 >During their travels through the wilderness, the Israelites incurred the wrath of God, who sent fiery serpents among them that killed many of them. However, Moses interceded for his people, and God instructed him to set up a brazen image of a serpent that would heal all who looked upon it. This image, later named Nehushtan, was carried by the Israelites with them to the Holy Land, where they burned incense in its honor. Centuries later it was broken into pieces by King Hezekiah during his fight against paganism.
 >
@@ -2391,7 +2391,7 @@ A sample holy tradition is described below, and three others may be found in the
 >
 >To create a new holy tradition, you should first figure out how it differs from the others. This will help you describe any unusual Methods or Powers associated with it. If you invent a new Method, you should carefully consider how it interacts with existing Powers — it should be associated with at least two of them. It is easier to simply create a new Supernatural Ability based on one of the three Methods given here. If you design a new Power, it must be associated with at least one Method. Once you have these worked out, you should assign your new tradition a maximum of four favored Abilities, though newer or isolated traditions probably have fewer than the more established ones.
 
-#### **HOLY TRADITION: ASCETICS**
+#### HOLY TRADITION: ASCETICS
 
 **Favored Abilities:** Adjuration, Cursing, Purity, Second Sight
 
@@ -2513,7 +2513,7 @@ Holy Powers are associated with the Divine realm, but are essentially only tools
 >
 > — excerpt from the *Ma'aseh Merkavah*
 
-### **ADJURATION**
+### ADJURATION
 
 Adjuration is the Power to summon, control, and banish supernatural creatures of all kinds, including dispelling their powers and compelling their cooperation. Through adjuration, God asserts His ultimate authority over creation and both the natural and supernatural worlds. Adjuration is also the witnessing of oaths and truths, by forcing otherworldly beings to recognize God's authority and obey Him. The target might cry out in pain and wonder when affected, or speak in a different voice that represents its true nature for the effect's duration.
 
@@ -2571,7 +2571,7 @@ This effect causes a magical, faerie, or infernal being to perceive you as surro
 
 (Base 5, +2 Voice, +2 Sun)
 
-### **BLESSING**
+### BLESSING
 
 These effects aid and protect the target from harm by sanctifying it and dedicating it to God's service. They often have a noticeable effect on the target, perhaps briefly glowing with holy light or ringing with a faint sound. Blessings on a person or an object usually include a concise statement of how God is watching over the subject, and what sort of help He is likely to give. Like any supernatural effect, characters constantly under the influence of a blessing will gain Warping points at the rate of one per year.
 
@@ -2636,7 +2636,7 @@ Until the sun passes through the heavens, you are inspired with the creative ess
 
 (Base 10, +2 Sun)
 
-### **CURSING**
+### CURSING
 
 Holy folk are not all passive and kind; they can also bring ruin upon God's enemies and destroy parts of His creation that they believe offend Him. They can often feel like powers that come from the ancient world, perhaps with a darkening of the sky or a sound of thunder or cracking stone accompanying the results.
 
@@ -2710,7 +2710,7 @@ Cause utter waste to an area, leveling buildings, trees, and slaying every perso
 
 (Base 30, +3 Sight, +4 Bound, +4 ritual effect)
 
-### **INTERVENTION**
+### INTERVENTION
 
 These effects are associated with changes to nature that can be either disturbing or inspiring. In most cases, they are intended to frighten away those who would defile God's temples, or act as conduits for holy information from above. Most unexplained phenomena and miraculous happenings associated with the divine fall into this category. Intervention is how God works His will in the physical world directly, and while characters can control these effects to some degree, there is always an element of the unknown involved in their use. It is a potent and mysterious Power.
 
@@ -2797,7 +2797,7 @@ This miracle heals the target of a Heavy Wound, instantly mending the body where
 >
 > — Jacobus de Voragine, *The Golden Legend*
 
-#### **TRANSCENDENCE**
+#### TRANSCENDENCE
 
 Transcendence brings about spiritual changes to the mind and body, and these changes often result in physical changes as well. The holy character travels in spirit to another place, one that is beyond human experience, and what he does there often affects the part of him that is left behind. It is a way to escape the boundaries of this world and become closer to God, but those who depart in this way may appear to be dead or comatose until they return, and usually have no memories of what they saw or experienced while away. This is similar to Divine Ascent (see Divine Warping, below), and characters who spend too much time in a transcendent state may receive Warping points and need to check for other effects.
 
@@ -2893,7 +2893,7 @@ This miraculous effect allows you to go an entire year without needing sleep. Th
 >
 > — Farid al-Din 'Attar (d. c. 1230), *Stories of Holy Men*
 
-### **UNDERSTANDING**
+### UNDERSTANDING
 
 Characters with Understanding can learn hidden information, often about the future or the Divine Will. This information will often be difficult to understand, include additional misleading information, and will not always take into account sinful or mundane possibilities. This is because while this Power gives unique insight into God's Will and the future, it is impossible for the mortal mind to comprehend things the way that God sees them. The more you explore a subject with your holy Understanding, the less focused the information will become; and revisiting the same questions will bring more confusion than wisdom. God's ways are not ours, and we cannot ever fully grasp His designs. Thus, reckless glimpses into His plan can break and even destroy the fragile human mind.
 
@@ -2951,7 +2951,7 @@ This effect reveals to you if it is God's will that you pursue a particular cour
 >
 > Usama ibn Munqidh (d. 1188), *The Book of Learning by Example*
 
-### **WONDERS**
+### WONDERS
 
 Those who ask properly will receive God's gifts, for God provides for the faithful in need. God also summons storms, fire, winds, and other powerful natural forces. These wonders are created at the holy character's command, and even controlled by him to some extent, although God always keeps His hand upon His miracles. Such things may appear at times to listen to another voice, and act in ways that the holy character does not anticipate.
 
@@ -3063,7 +3063,7 @@ Each dawn, you regain a number of Faith Points up to your True Faith Score, alth
 >
 >Players may wish to create a character with a True Faith Score of two or more. Such characters should be made as Mythic Companions, since people with a True Faith Score of more than one in Mythic Europe are very rare. Each additional increase to the character's True Faith Score above that granted by the True Faith Virtue is considered a Major Virtue. Thus, having a True Faith Score of 2 requires two Major Virtues. Most saintly characters are quite old although exceptions, such as Francis of Assisi, of course exist.
 
-#### **CHARACTERIZING TRUE FAITH**
+#### CHARACTERIZING TRUE FAITH
 
 More so than many other Virtues, True Faith should be an integral part of a character's being. Characters cannot be born with True Faith, accidentally stumble across it, or receive it as a gift from a friend. Something the character did during his life saw him gain such complete fidelity to the Divine that his love and dependence was returned.
 
@@ -3079,25 +3079,25 @@ True Faith is an in-game term only. The church, imams, and rabbis do not use the
 
 During play a character may gain Faith Points or a True Faith Score through a quest or as the climax of a major story. The kinds of stories available for characters are many, ranging from personal quests for self-understanding to adventuresome pilgrimages to holy sites across Mythic Europe and beyond. The outcome of a quest should never be certain.
 
-#### **SELF-DISCOVERY**
+#### SELF-DISCOVERY
 
 A quest of self-discovery should challenge the core tenets of the character, by having to make difficult moral or ethical choices. God often tests his strongest followers with the harshest tests by inflicting tragedy upon them: the deaths of loved ones, imprisonment, or injustice. A quest of self-discovery could also include mystical trances and flights of the soul.
 
 *Story Idea*: The character is framed for a terrible crime — perhaps heresy or murder — and is convicted without fair trial (during which close friends or family condemn him) and must exonerate his name while uncovering the true criminal.
 
-#### **PILGRIMAGE**
+#### PILGRIMAGE
 
 Travel to a holy site could result in gaining True Faith. Of importance in the pilgrimage is not simply the destination but the journey — a physical manifestation of metaphysical travel towards God. Events or incidents that occur during the pilgrimage should be designed to test the character's faith in, and love of, God. The character's conduct must be exemplary despite any opposition or adversity. Story guides should feel free to take off their kid gloves. A pilgrimage undertaken by the character for the express purpose of gaining True Faith should never succeed, since the Hand of God cannot be forced.
 
 *Story Idea*: A local monastery's sacred relic is stolen by a distant rival monastery, and the character is asked by an angel to recover it.
 
-#### **SUPERNATURAL ADVERSITY**
+#### SUPERNATURAL ADVERSITY
 
 Holy men and women from the Bible were constantly tested by God. They were terrorized by devils or cowed by angels, and Mythic Europe in the Middle Ages is no exception. Contests with demons and monsters, or frightening instructions from angels are common divine tests of faith. A character on the cusp of gaining True Faith is likely to be diabolically tempted with every imaginable pleasure of the flesh, while angels may demand that the character give up his earthly belongings or renounce his family.
 
 *Story Idea*: A demon in the guise of an angel demands that the character accuse an innocent midwife of diabolism.
 
-#### **GAINING FAITH POINTS**
+#### GAINING FAITH POINTS
 
 Any character may gain Faith Points at some point in his life. By performing devout acts or rituals, a character may gain Faith Points. The most common way for this to happen is through pilgrimage to a holy site, such as Mecca for Muslims, or Jerusalem for Christians and Jews, and through participation in holy rites, such as the sacraments.
 
@@ -3113,7 +3113,7 @@ The relationship granted to the character is one so pure that it is utterly sacr
 
 A character need not be a Mythic Companion, or belong to a tradition that uses holy powers, to have a True Faith Score. True Faith is unique and distinct from other forms of Divine blessings, although it is complementary and can enhance holy powers or other supernatural virtues. There is no limit to the number of Faith Points a character may have, and no ceiling to the True Faith Score, although five is a practical threshold. Saints like the Apostles may have had a True Faith Score upwards of seven, and the Blessed Virgin Mary may have had a Score of ten.
 
-#### **TRUE FAITH AND INSTITUTIONS**
+#### TRUE FAITH AND INSTITUTIONS
 
 The Church is a holy institution, and its priests are surrounded by the holy radiance of the Divine. Members of the clergy and other sacerdotal figures, such as rabbis or *imams,* are among the most likely to gain True Faith, due to their constant devotion to the Divine. Laypersons who gain True Faith are also often ordained into the clergy, and may rise to exalted or respected positions within the Church or religious community. Many bishops gain True Faith after a lifetime of piety and dedication.
 
@@ -3121,7 +3121,7 @@ Many kings, queens, and pious rulers have been known to have True Faith and perf
 
 Despite a preponderance of saintly characters belonging to a religious institution, they are also more likely to hold controversial or heterodox beliefs, which may bring them into conflict with the ecclesiastical authorities. Those of great ability and faith may rise above this and still be afforded canonization; others are martyred or excommunicated, or gain acceptance in another, "heretical," community of the faithful.
 
-#### **TESTS OF FAITH**
+#### TESTS OF FAITH
 
 *Then they returned to Lystra, Iconium and Antioch, strengthening the disciples and encouraging them to remain true to the faith. "We must go through many hardships to enter the kingdom of God," they said.* - Acts 14:21-22
 
@@ -3153,7 +3153,7 @@ Despite all the hardship, the character must remain steadfast in his undying lov
 >
 >Like tests of faith, a crisis of faith, if the character remains steadfast, is a good reason to allow an increase in his True Faith Score. It could also result in the loss of some or all of the character's True Faith, if he turns to some other Realm for comfort or assurance. Crises of Faith work best in cooperation and negotiation with the character's player.
 
-#### **PERSONALITY**
+#### PERSONALITY
 
 True Faith is absolute apprehension of an unknowable God through the human soul. It cannot be rationally explained or debated, except through the revealed and inspired texts.
 
@@ -3163,7 +3163,7 @@ Saintly characters should have complementary Personality Traits, such as Pious, 
 
 The more sanctified a character becomes, the more he abhors himself and despises sin, dedicating every fiber of his being to God, and in so doing finds true Divine self-love. As his faith grows, he relies more and more upon God and the purity that their relationship brings.
 
-#### **SAINTLY REPUTATION**
+#### SAINTLY REPUTATION
 
 Legends of saints are larger than life — they are the superstars of Mythic Europe. As a saintly character performs miracles and overcomes adversity, he gains a reputation that can increase startlingly. Each miracle he successfully prays for counts as one noteworthy action per Faith Point he possesses, so long as there was a witness. So long he has a True Faith Score, the character cannot gain a negative Reputation.
 
@@ -3179,7 +3179,7 @@ Miracles are the signs and actions of God, performed either directly or through 
 
 The following mechanics for miracles are optional.
 
-#### **PRAYING FOR MIRACLES**
+#### PRAYING FOR MIRACLES
 
 Anyone who possesses a Faith Point (such as from the True Faith Virtue, a sacrament or a holy activity, or from a relic) may pray for a miracle. Doing so requires no special training or knowledge, although it does involve making a deeply spiritual commitment. If your character does not have any Faith Points, he may only invoke God's aid or ask for the intercession of a saint (see Invoking God's Aid and Mythic Christianity, Saints).
 
@@ -3199,13 +3199,13 @@ Furthermore, other miracles, holy magic, and the powers of Divine beings will no
 
 > *Exempla Gratia*: While Isabelle the Beautiful is being carried through the air by the faerie prince Dafydd, she prays that she escape from his hideous claws. The storyguide decides that her prayer is a level 15 Intervention and Isabelle's player argues that her need is Grave (–5) and she needs Immediate aid (+10), which increases the miracle's level to 20. Isabelle is above the realm of Sir Dorigen, which has a Dominion aura of 3, and she has a True Faith Score of 1, Concentration 0, and 1 Faith Point. She spends the Faith Point and rolls, adding her Faith Score (1) plus her Concentration (0) plus the Dominion (3), and needs to get over 15 on a stress die.
 
-#### **MIRACULOUS SPECIAL EFFECTS**
+#### MIRACULOUS SPECIAL EFFECTS
 
 Miracles are rarely immediate or spectacular. Prayers for aid or rebuke are most likely to be subtle and to take place over a number of days, weeks, or months. Asking for more immediate aid increases the level, as does requesting petty or trivial things.
 
 Add the modifier to the miracle's level.
 
-#### **Timeliness**
+#### Timeliness
 
 The timeliness is the length between the prayer and the miracle's manifestation, not the miracle's Duration.
 
@@ -3216,7 +3216,7 @@ The timeliness is the length between the prayer and the miracle's manifestation,
 **Year** (not longer than a calendar year): –10<br>
 **Generation** (not longer than fifteen years): –20<br>
 
-#### **Need**
+#### Need
 
 Need deals with how desperate or deserving the supplicant is, and how righteous the prayer is.
 
@@ -3232,11 +3232,11 @@ Need deals with how desperate or deserving the supplicant is, and how righteous 
 
 **Impious** (supplicant is a pagan, infidel, or unbeliever, or the request is motivated by sin, such as pride or greed): +20
 
-#### **BOTCHING**
+#### BOTCHING
 
 Botching a prayer roll results in the temporary loss of all Faith Points for a number of weeks equal to botches scored. A character without Faith Points who botches a prayer roll will not have any prayer (or invocation or intimidation of a saint) answered for a number of months equal to the number of botches scored. A botch may also provoke a tragedy of hubris (see Holy Powers) if appropriate.
 
-#### **STORYGUIDING MIRACLES**
+#### STORYGUIDING MIRACLES
 
 Miracles can be tricky to storyguide. A character may pray for literally anything, although sinful "prayers" will obviously remain unanswered or punished, at the storyguide's discretion. Due to their origin, miracles are also the most potent supernatural "power" in **Ars Magica**; no force — not the mightiest archmagus, duke of Hell, or Faerie monarch — may oppose a miracle.
 
@@ -3256,19 +3256,19 @@ True Faith fills the pious with Divine light, which begins to emanate from them 
 
 This dedication to the divine manifests as holy light, augmenting the character's True Faith Score and based on the three theological virtues, Devotion, Hope and Charity. (Note: the theological virtue "Devotion" is normally "Faith", but the name has been changed to avoid confusion.) These powers are cumulative and are gained when the character gains the appropriate True Faith score.
 
-#### **DEVOTION: TRUE FAITH 2**
+#### DEVOTION: TRUE FAITH 2
 
 Devotion is an infused quality, wherein the soul perceives the perfection and truth of the Divine radiance.
 
 When a character has a True Faith Score of 2 he gains the Premonitions Minor Virtue (**Ars Magica** 5th Edition page 47). Furthermore, the character may dispel any supernatural (magical and Infernal) illusion or Faerie glamour, no matter its level, by spending a Faith Point.
 
-#### **HOPE: TRUE FAITH 3**
+#### HOPE: TRUE FAITH 3
 
 Hope is the unshakable confidence in divine providence. It is a strengthening through God, not only directly but through the natural works of divine agency, leading ultimately towards salvation.
 
 A character with a True Faith Score of 3 adds 6 instead of 3 when spending Faith Points like Confidence. Furthermore, the character becomes nearly immune to magic that negatively affects the mind. His Magic Resistance against Mentem spells (and similar supernatural powers) is doubled.
 
-#### **CHARITY: TRUE FAITH 5**
+#### CHARITY: TRUE FAITH 5
 
 Charity is the predisposition to love God, replacing all other urges. It is an infused motive that makes the character inimical to sin. He becomes lit with a fire that dims all lesser flames: the very holiness of God. His face begins to glow softly with a holy light — as bright as a candle — which can only be seen in dim light or darkness.
 
@@ -3300,19 +3300,19 @@ Flaws gained through Warping do not grant immunity against gaining Warping Point
 
 The Divine also blesses those who spend a great deal of time within its influence. Minor Virtues gained when a character reaches a Warping Score of 5 will prevent further accumulation of Warping Points due to exposure to a powerful aura.
 
-#### **DIVINE AURAS**
+#### DIVINE AURAS
 
 Large churches and cathedrals are the most common causes of Divine Warping in Mythic Europe. However, many of the people who live and pray in these places also possess Faith Points or mystical abilities that prevent them from gaining Warping Points from the church's powerful aura. Auras of any kind with a level over 5 are very rare in Mythic Europe, and the majority of them are located around the small area of a church's altar or similar holy place.
 
-#### **MIRACLES**
+#### MIRACLES
 
 A character in the presence of a miracle whose level is thirty or greater gains one Warping Point. Characters directly affected by miracles (and saints or the faithful who pray for them) do not gain Warping if the miracle was intended for their benefit. Continuous miracles do not cause Warping from constant exposure.
 
-#### **DIVINE AND HOLY POWERS**
+#### DIVINE AND HOLY POWERS
 
 The powers of Divine beings may also cause Warping. Holy powers, such as those performed by Methods and Powers will also cause Warping if the level of the power is thirty or higher.
 
-#### **BOTCHES**
+#### BOTCHES
 
 One Warping Point is gained for each zero on a botch die when using a holy power or divine supernatural ability. Botching when praying for a miracle or performing holy powers has additional effects (see Miracles).
 
@@ -3336,7 +3336,7 @@ He is also affected by one of the three forms of Divine Ascent, and gains a numb
 
 The player and storyguide should choose which form of Divine Ascent (Divine Gloom, Divine Form, or Divine Unity) is most appropriate for the character. The character will experience the same form of Divine Ascent for the rest of his or her life.
 
-#### **EXPERIENCING THE ASCENT**
+#### EXPERIENCING THE ASCENT
 
 When a character experiences Divine Ascension, he experiences a mystical sensation of being spiritually lifted into dazzling obscurity and shining brilliance. Mystics variously describe this place as Heaven or perhaps a powerful Celestial regio. During the Ascent the character may experience frightening or uplifting visions, encounter angelic or saintly beings, demonic tempters, or simply be lost in rapturous ecstasy. Feel free to play this out.
 
@@ -3360,7 +3360,7 @@ When a character is affected by the Divine Gloom, he slowly loses his knowledge 
 
 The Divine Gloom gives the character an understanding of the incomprehensible Divine Realm, and therefore removes his ability to perceive the comprehensible. It is this loss of knowledge that gives this state the name "Gloom", since the affected character is thrust into a state of intellectual darkness, while at the same time residing spiritually in a realm of Light beyond light.
 
-#### **GAME EFFECTS**
+#### GAME EFFECTS
 
 A character experiencing the Divine Gloom begins to have his higher reasoning faculties replaced with directly intellectualized divine revelation. Each time he gains Warping Points, he gains the same number of Experience Points to divide between Dominion Lore, any Holy Power
 
@@ -3384,7 +3384,7 @@ In so transforming, the holy character becomes a figure of hieratic authority an
 Should the character ever act in a way that is contrary to the holy Will of God, such as break a Commandment or Law, perform some wicked act that would place his soul in a state of Mortal Sin, or otherwise say or do something that aids diabolic forces or profanes something holy, he will suffer grievously.
 
 
-#### **GAME EFFECTS**
+#### GAME EFFECTS
 
 The Divine Form operates like *The Commanding Aura* possessed by Mythic Europe's kings and ecclesiastical figures. The character's Magic Resistance Score is equal to the character's Warping Score, and stacks with the Magic Resistance gained from a True Faith Score (although not from other sources, like Parma Magica or from a Holy Power). When determining the character's Soak bonus, include the Magic Resistance from True Faith before dividing by five. The character's Penetration is equal to his Warping Score, and gains an additional bonus equal to his Faith Score multiplied by 5.
 
@@ -3402,7 +3402,7 @@ There are many virtues — expressions of the innate goodness of the soul that d
 
 This kind of Divine Ascent is most commonly found among Christian holy practitioners, in particular Ascetics.
 
-#### **GAME EFFECTS**
+#### GAME EFFECTS
 
 When someone experiences Divine Unity, the player must choose a specific virtue that his character will begin to personify. As the character becomes increasingly warped, his behavior becomes distorted towards one particular kind of good behavior and thought. This in turn affects the aura and people around the character through unconscious Holy Influence (see Holy Influence) that affects people and the Divine aura. The Warped character adds his Warping Score to a Personality Trait determined by the virtue he is personifying, resulting in an extreme, monomaniacal persona.
 
@@ -3460,7 +3460,7 @@ If you wish to play a Mythic Companion, you should normally play it as an altern
 
 A sample Mythic Companion template is below, and others may be found in the setting chapters that follow.
 
-#### **MYTHIC COMPANIONS: NEPHILIM**
+#### MYTHIC COMPANIONS: NEPHILIM
 
 Nephilim are the divine giants and heroes of ancient myth. While older Nephilim rarely venture from their divine regiones, a few younger Nephilim occasionally leave their homes to wander the earth and experience new things. Most "young" Nephilim are about eighty years old, which is the start of their adulthood. For an example, see Abbas the Hunted (in Heaven and Earth, Divine Beings).
 
@@ -3754,7 +3754,7 @@ The coming years hold great promise for the followers of Christ, and promise gre
 >
 >If this does not bring repentance, more-drastic measures are called for: the **interdict** excludes Christians from participation in the sacraments, as a community or even as an entire nation. Churches are closed, crosses reversed, marriages and burials refused, bells are silent, and Sunday sermons are conducted outside the doors of the church. Children are baptized in their homes. Interdiction punishes not only the excommunicate, but also his friends, followers, fellow men and women, and those who owe him fealty, in hopes that they will prevail upon him to make peace with God.
 >
->#### **STORY HOOK:**
+>#### STORY HOOK:
 >
 >A magus has greatly upset members of the Church by speaking out in public against the Crusades, and the local bishop excommunicates him. Because of this, other magi bring charges against him at Tribunal, alleging that his meddling in mundane affairs endangers the Order, and a Christian maga who opposes him suggests that since he has been excommunicated they are no longer bound by his oaths, and so registers her claim to his apprentice.
 
@@ -3896,7 +3896,7 @@ This is not to say that the Church is entirely removed from mundane affairs. It 
 >
 >*Now it was the day of getting ready for the Passover, and so that the bodies might not be on the cross on the Sabbath (because the day of that Sabbath was a great day), the Jews made a request to Pilate that their legs might be broken, and that they might be taken away. So the men of the army came, and the legs of the first were broken and then of the other who was put to death on the cross with Jesus: But when they came to Jesus, they saw that he was dead by this time, and so his legs were not broken; But one of the men made a wound in his side with a spear, and straight away there came out blood and water. And he who saw it has given witness (and his witness is true; he is certain that what he says is true) so that you may have belief. These things came about so that the Writings might be true, "No bone of his body will be broken." And again another verse says, "They will see him who was wounded by their spears."* - John 19: 31-37
 
-### **VARIATIONS ON CHRISTIANITY**
+### VARIATIONS ON CHRISTIANITY
 
 Throughout the years, many great thinkers and pious believers have developed alternative ideas concerning different aspects of Christianity. When this conflicts with established teachings of the Church, it is discouraged whenever possible to prevent confusion among the followers of the faith. Generally the error is corrected gently, then more forcefully, and if the heretic continues to believe and act otherwise — or worse, teaches his mistake to others — the Church must take more drastic measures. The goal is to bring them back into the fold, but those who resist or who continue their heresy after recanting could be burned at the stake.
 
@@ -3952,7 +3952,7 @@ Beneath the priest in the Church hierarchy are the deacons — the clerics who l
 >
 >The rite costs the exorcist a Confidence (or Faith) point to perform properly. According to the Roman Ritual instructions, the exorcist must make sure the person is truly possessed, not simply sick, and should himself be absolved of all sin before beginning. The rite should be performed in the church or some other sacred place, with witnesses if possible. All questioning of the demon is to be avoided, and the prayers should be uttered with great faith, humility, and fervor. Holy water and crucifix may be employed, and if used for these purposes each gives a +1 to the possessed character's total. Any additional Faith points the exorcist spends during the rite also count toward the subject's roll.
 
-### **MONASTERIES**
+### MONASTERIES
 
 Like parishes, monasteries began as organizations run by a holy man nominally under the authority of a bishop, as it was when Benedict established the Rule that governed how his followers would live and worship. Until approximately 1100, Europe was primarily a society composed of distinct cells in which the estate, village, and manor were individual units. The monastery was an ecclesiastical expression of this decentralization; each one contained everything necessary for the maintenance of life: fields, cattle, barns, craftsmen's workshops, winepresses, dormitories, library, refectory, infirmary, and herb garden, and, dominating the complex, the abbey church.
 
@@ -4039,7 +4039,7 @@ The structure of the secular clergy also remains fairly consistent in Byzantium,
 >
 >The **Teutonic Knights** (the Order of the Hospital of Saint Mary of the Teutons of Jerusalem) were founded in 1190 as a Hospitaller order serving near Acre. In 1198, however, they became a military order under the influence of German crusaders in the Holy Land, approved by the pope in 1199, and in 1230 they are invited back to the north to fight against the pagan Prussians, in return for lordship over the subjugated region. They wear a simple black cross as the symbol of their order.
 
-#### **CRUSADERS**
+#### CRUSADERS
 
 Then, in 1055, Baghdad was occupied by the militant Seljuk Turks, who were determined to conquer as much of the west as they could. They routed the Byzantine army at Manzikert in 1071 and seized Jerusalem. The Emperor humbly appealed for aid from the pope, who was too busy with political matters at home to provide assistance. Over the next quarter century the Turks pushed through to Nicea, threatening the very gates of Constantinople, and again the East sent a plea to the West for help. Pope Urban II responded with his famous call for the First Crusade.
 
@@ -4069,7 +4069,7 @@ Prominent universities in 1220 include Paris, which is well known for theology a
 
 Yet with all the eagerness and excitement that surrounds the universities' efforts, scholars and teachers suffer from many uncertainties. Students have to look to their friends and family to support them while they study, and the masters in turn have to rely on the students for their livelihood. Both parties accumulate debt while they seek a career, usually as a clerk to a wealthy patron if they are lucky enough to find a position. Unfortunately, part of the nature of universities is that they tend to attract more people than they can employ, and it is in these circumstances that the friars, with their call to poverty in service to the Church, can flourish.
 
-#### **FRIARS**
+#### FRIARS
 
 The two founding orders of friars, the Dominican and the Franciscan, grew up almost together. Dominic founded his order to combat heresy, and believed that to convert common people the Church must eschew the pomp of ecclesiastical dignitaries and adopt a simpler life like that of the apostles. His order was small but extremely well organized, and they quickly spread to the centers of academic learning, so that by 1220 he has chapters established at Paris, Bologna, Rome, and other great cities. Meanwhile, Francis, the affluent son of an Italian cloth merchant, gave up everything he had to serve God, and petitioned the pope in 1210 for permission to start a new order dedicated to reforming the decadence of the Church. He called for Christians to give up every form of worldly glory, wealth, and comfort to live according to the holy Gospels and follow the example set by Christ. Francis was a reluctant leader, but the movement was so popular that hundreds of Franciscans soon spread across the continent, especially to the great cities of Europe.
 
@@ -4099,7 +4099,7 @@ Throughout the history of the Church and throughout the middle ages, there is a 
 >
 >**Description:** The *Sentences* is a collection of the opinions of Church fathers, primarily intended for study. It is four books in one; the first deals with God and the concept of God, the second addresses the creation and sin, the third describes redemption and the incarnation, and the fourth tells of the sacraments, death and judgment. It is immensely popular as the textbook for theology of the day, and has inspired hundreds of commentaries.
 >
->#### **THE CITY OF GOD**
+>#### THE CITY OF GOD
 >
 >Tractatus, Church Lore (Quality 12) 
 >
@@ -4204,7 +4204,7 @@ Miracles are the supernatural deeds that the saints can perform for their follow
 
 Saints' miracles are expressed in the game as powers. Many of the saints have similar powers, and the following list, culled from the saints' lives, contains many appropriate powers. Greater saints have most of the powers, area saints have many of the powers, and lesser saints have only the lowest-costing powers.
 
-#### **POWERS**
+#### POWERS
 
 *Acknowledgment of Evil*, 1 point, Init +10, Vim. This power forces any demon within voice range of the petitioner to declare his Infernal nature, loudly stating that he is a demon. The Penetration of this miracle (Divine Might – (5 x Might Point cost of power)) must equal or exceed the demon's Infernal Might to be effective.
 
@@ -4242,7 +4242,7 @@ Saints' miracles are expressed in the game as powers. Many of the saints have si
 
 *Tomorrow's Bounty*, 2 points, Init +0, Herbam. This power allows the saint to instantly create food enough to feed a large crowd — often sacks of grain or baked loaves of bread.
 
-#### **CURSES**
+#### CURSES
 
 As well as miraculous powers, saints also have the capability to curse those who threaten their followers. These curses range in scale from minor annoyances to fatal maledictions. Most saints have some form of curse and many share similar curses.
 
@@ -4500,7 +4500,7 @@ There are several new Virtues and Flaws presented below, and players should be a
 
 ## Virtues
 
-#### **ARS NOTORIA**
+#### ARS NOTORIA
 
 *Major, Hermetic, Supernatural Ability*
 
@@ -4508,37 +4508,37 @@ By studying one of the copies of the Book of Solomon, you have learned the Notor
 
 See Ars Notoria, later in this chapter, for more information about this ancient art.
 
-#### **BROTHER CHAPLAIN**
+#### BROTHER CHAPLAIN
 
 *Minor, Social Status*
 
 You are a priest of a crusading order, which is like other priests except that your required Vow should include obedience and poverty, in addition to chastity. Outside of your order you are answerable only to the pope. You may purchase Academic Abilities during character generation. You wear the distinctive symbol of your order on your surcoat, which is usually colored green.
 
-#### **BROTHER KNIGHT**
+#### BROTHER KNIGHT
 
 *Minor, Social Status*
 
 You are a knight in a holy crusading order, and it is your duty to be ready to fight the infidel at any time. You have sworn a lifelong vow of obedience, poverty, and chastity, and are answerable only to your superiors and the pope. Unless you are Poor, you may have high-quality weapons and armor, and two horses. You may take Academic and Martial Abilities during character generation. You wear the symbol of your order on your distinctive surcoat, which is usually pure white (Templars, Hospitallers) or golden (Teutonic knights).
 
-#### **BROTHER SERGEANT**
+#### BROTHER SERGEANT
 
 *Minor, Social Status*
 
 You are a member of a crusading order, but not a knight or a nobleman. You have sworn a lifelong vow of obedience, poverty, and chastity, but this may not be enforced as strictly for you as it would be for a brother knight. You are answerable only to your superiors in the order and the pope. Unless you are Poor, you may have high-quality weapons and armor, and two horses. You may also take Martial Abilities during character generation. You wear the distinctive symbol of your order on your surcoat, which is usually colored black or gray.
 
-#### **EASTERN PRIEST**
+#### EASTERN PRIEST
 
 *Minor, Status*
 
 This Virtue is the same as Priest in **Ars Magica** 5th Edition, except that the Vow of celibacy is not necessarily required. Eastern priests are not supposed to marry after they have been ordained, but those who are already married may still oversee the sacraments.
 
-#### **HOLY MUSIC**
+#### HOLY MUSIC
 
 *Major, Supernatural Method*
 
 This Virtue gives you Holy Music 1, a Supernatural Ability that works like Meditation, allowing you to gain divine insight through music. You must perform a song using your Presence + Music, and then use your Perception to interpret the feelings you experience. This Ability is primarily taught by the Cantores (see Instruments of God, Holy Methods and Traditions).
 
-#### **SENIOR CLERGY**
+#### SENIOR CLERGY
 
 *Major, Social Status*
 
@@ -4554,13 +4554,13 @@ You must take the Priest Minor Virtue or Monastic Vows Major Flaw before taking 
 
 ## Flaws
 
-#### **EXCOMMUNICATE**
+#### EXCOMMUNICATE
 
 *Major, Story*
 
 For your crimes against God and the Church, you have been cast out your faith, undoing your baptism and driving you from your religious community. You have a bad reputation at level 3 within the Church, and cannot benefit from the sacraments.
 
-#### **FAILED MONK**
+#### FAILED MONK
 
 *Minor, Status*
 
@@ -4568,19 +4568,19 @@ You were once a member of a cloistered order, but were cast out for some great s
 
 Female characters may take this Flaw as Failed Nun.
 
-#### **MONASTIC VOWS (HERMETIC)**
+#### MONASTIC VOWS (HERMETIC)
 
 *Major, Hermetic*
 
 You have taken vows of poverty, chastity, and obedience to a religious superior, which means that you cannot own vis and must only possess functional magic devices. You cannot marry, and many magi might interpret that as prohibiting binding a familiar. You must do what your master commands in service of your order, though in return you can expect aid and assistance when needed.
 
-#### **PAGAN**
+#### PAGAN
 
 *Major, Supernatural, Story*
 
 You do not follow the teachings of the Church, and have never been baptized. This tends to upset those in authority in Mythic Europe and frighten common people who learn of it. You do not observe Christian holidays, and you try to avoid churchmen and the Dominion. For whatever reason, you cannot pretend to go along with society — you might suffer grave supernatural consequences if you take Communion or appear to worship Christ. You may begin with either Magic or Faerie Lore, depending on the specifics of your faith.
 
-#### **UNBAPTIZED**
+#### UNBAPTIZED
 
 *Major, Story*
 
@@ -4592,7 +4592,7 @@ You are a Christian who has never been baptized for whatever reason, perhaps bec
 
 You have memorized divine orations and rituals handed down from King Solomon that allow you to perform a kind of divine magic. **Specialties:** during a particular season, a specific ring. (Academic, Arcane, Supernatural)
 
-#### **HOLY MUSIC\**
+#### HOLY MUSIC\
 
 This Ability is associated with the Holy Method of Meditation, and allows you to achieve a supernatural state of mind by giving praises to God in music. You must sing a devotional song, rolling your Presence + Music vs. an ease factor based on the circumstances. If you succeed, use your Presence to determine the effect. If you are distracted during the ritual, you must make a Concentration roll to keep your focus.
 
@@ -4600,7 +4600,7 @@ This Ability is associated with the Holy Method of Meditation, and allows you to
 
 ## Traditions
 
-### **HOLY TRADITION: THE CANTORES**
+### HOLY TRADITION: THE CANTORES
 
 **Favored Abilities:** Blessing, Enchanting Music, Holy Music, Intervention
 
@@ -4610,7 +4610,7 @@ The Cantores are a primarily Christian tradition dedicated to worshiping God thr
 
 Because music is such a holy thing for them, Cantores are generally opposed to the bawdy and raucous songs sung by the common people and entertainers of the day. They believe it is wrong to use God's gifts in such a way; music should be sacred, giving thanks to God and praising His goodness, not encouraging wickedness, deceit, and mockery. As their holy music causes miraculous divine effects, they fear that base music would invoke the powers of the Devil. Thus, Cantores often avoid singers from outside their tradition, and do not usually perform spontaneously without good cause.
 
-### **HOLY SOCIETAS: THE PRIORY OF SAINT NERIUS**
+### HOLY SOCIETAS: THE PRIORY OF SAINT NERIUS
 
 **Favored Abilities:** Holy Magic, Intervention, Premonitions, Purity
 
@@ -4620,7 +4620,7 @@ The followers of the Priory of Saint Nerius (the Neriusians, for short) seek to 
 
 The Neriusians retain copies of several holy spells that their patron invented or discovered, and they teach these spells to other members of their tradition. Many of these spells have roots in early Christianity, and one of them, *The Neriusian Portal*, is believed to have been taught to Nerius by the angel Samuil. The Priory keeps the book containing the original copy of this singular ritual in their central house, somewhere in the mountains of northern Italy, and it is said to be a potent relic.
 
-#### **THE NERIUSIAN PORTAL (CRVI65)**
+#### THE NERIUSIAN PORTAL (CRVI65)
 
 **R:** Touch, **D:** Sun, **T:** Circle, Ritual 
 
@@ -4659,7 +4659,7 @@ While these include Arcane and Academic Abilities, the character must buy approp
 
 Christian grogs probably attend church services regularly, as often as is permitted by their Hermetic masters. This is perhaps because they were born in a religious parish and have family who expect them to come home, or because they are pious and care for their immortal souls. Fighting for magi may be a difficult vocation to explain to their confessors, and this may be a source of interesting stories should the covenant come into conflict with the Church.
 
-#### **CHURCH DEACON**
+#### CHURCH DEACON
 
 **Characteristics:** Int +2, Per –2, Pre +2, Com +2, Str 0, Sta 0, Dex 0, Qik +1
 
@@ -4701,7 +4701,7 @@ Christian grogs probably attend church services regularly, as often as is permit
 
 **Notes:** The church deacon assists the parish priest by preparing the altar, seeing that the congregation is orderly, and bringing him the necessary implements for the sacraments. He reads aloud from the Bible when instructed, and if the priest is ill he takes over the sermon by reading a homily by one of the Church fathers. He holds a position of special favor within the congregation, and as a result he has become rather conceited.
 
-#### **CURIOUS NUN**
+#### CURIOUS NUN
 
 **Characteristics:** Int +2, Per +1, Pre 0, Com +2, Str 0, Sta +1, Dex –1, Qik 0
 
@@ -4737,7 +4737,7 @@ ition; Busybody; Incomprehensible
 
 **Notes:** The Curious Nun once belonged to a local convent, but was often given permission by the abbess to travel the surrounding lands in search of herbs and to care for the sick and injured. She has an uncanny knack for finding plants of particular virtue, and steering clear of foul things. She also cannot resist investigating the strange and arcane. The wonders of a Hermetic covenant have forever charmed her away from the Church, and she has broken her vows of obedience and will never return. She helps the magi by practicing her craft and meddling in the affairs of the other grogs.
 
-#### **PIOUS WARRIOR**
+#### PIOUS WARRIOR
 
 **Characteristics:** Int 0, Per –1, Pre 0, Com 0, Str +1, Sta +1, Dex +2, Qik +2
 
@@ -4939,7 +4939,7 @@ The only way to initially learn Ars Notoria is from a copy of this text. This ma
 
 Players wishing their characters to start the game with Ars Notoria must take it as a Major Supernatural Virtue. The character must be Gifted, and only magi, academics, and clerics are eligible to begin the game with this Virtue (see Virtues and Flaws, above).
 
-#### **FUTURE STUDY**
+#### FUTURE STUDY
 
 Ars Notoria is an Ability and may be increased through study as normal. Glosses of the basic text exist, both summa and tractatus, written by practitioners for use by their fellows. Generally, these texts do not contain new rings of Solomon, but are personal observations and commentaries on the existing rituals. While these glosses are useful in increasing the understanding of the Notory Art, they are inadequate for learning the Ability initially.
 
@@ -4975,7 +4975,7 @@ The Ease Factor necessary for success varies according to the oration and its de
 >| Supernatural Ability | – score in ability |
 >| True Faith+Faith Score | Variable(–3 to +3)        |
 >
->#### **EXPLANATIONS:**
+>#### EXPLANATIONS:
 >
 >**Fasting** is maintaining a strict diet of bread and water. Characters wishing to fast for a season must make a Stamina + stress die roll against an Ease Factor of 6 to succeed. For each consecutive season of the fast, the Ease Factor increases by 1. Failing this roll ends the fast, as the character can no longer maintain this rigorous diet. Botching this roll means the character permanently damaged his constitution. He gains enough Aging Points to drop his Stamina by one point.
 >
@@ -4999,13 +4999,13 @@ In play, many of the benefits of the Ars Notoria are experience points gained in
 
 For example, you may already have 15 experience points in the Ability Philosophiae (score of 2). Successfully reciting the first oration of Ars Notoria will award you 100 experience points, raising your Philosophiae Ability to 6 (115 experience points). You may later gain 25 experience points through study and raise your Philosophiae to 7 (140 experience points). When you lose the benefit of your orations you lose 100 experience points, leaving you 40 experience points and a Philosophiae score of 3.
 
-#### **THE FIRST RING OF SOLOMON**
+#### THE FIRST RING OF SOLOMON
 
 This is the first level of the Ars Notoria. This oration must be performed during the Spring or Autumn season. The first ring grants the recipient complete knowledge of the philosophical art, making him an expert in the Aristotelian sciences. It also grants a marvelous boon of eloquence and rhetoric, which is necessary for the sharing of the recipient's new knowledge.
 
 Successfully reciting this oration gives you 100 experience points in the Academic Ability: Philosophiae. It also increases your Communication Characteristic by 3 points, to a maximum total of +5. These 3 points are added directly to your Communication, as per Creo Mentem spells, and are not used like points spent to buy initial Characteristics (**Ars Magica** 5th Edition, page 30).
 
-#### **THE SECOND RING OF SOLOMON**
+#### THE SECOND RING OF SOLOMON
 
 The next set of orations are the second level of Ars Notoria and signify a greater step toward divine knowledge. A successful recitation bestows theological knowledge as well as the acumen to understand God's work on earth.
 
@@ -5013,7 +5013,7 @@ With a successful recitation of the second ring, you gain 100 experience points 
 
 This second level of Ars Notoria must be recited during the Winter season.
 
-#### **THE THIRD RING OF SOLOMON**
+#### THE THIRD RING OF SOLOMON
 
 The third level of Ars Notoria grants a person mastery of the so-called "Physical Arts," the curing of illness and disease. A person gains 100 experience points in the Academic Ability: Medicine, and also receives for free the Supernatural Major Virtue: Greater Purifying Touch. These orations may be recited during any season.
 
@@ -5021,7 +5021,7 @@ Like the regular major general virtue, you must select a specific disease that y
 
 The chosen disease stays the same throughout the duration of this ring. You may choose a different disease the next time you recite the third ring.
 
-#### **THE FOURTH RING OF SOLOMON**
+#### THE FOURTH RING OF SOLOMON
 
 Ars Notoria's fourth ring prepares the recipient for the greater mysteries that will be revealed by introducing his angelic guide. The archangel Michael originally conveyed the secrets of God's divine art to Solomon. Reciting this ring summons a lesser angel as guide and confidante.
 
@@ -5029,7 +5029,7 @@ Successfully reciting the fourth ring grants you the Major General Virtue: Patro
 
 The angel summoned is your personal angel. Once summoned, it is forever spiritually linked to you, even after it leaves you when the ring's duration ends. Each time this ring is invoked the same angel appears. It knows you, and your past and actions. If it ever thinks you are acting impiously or deliberately against God's will, it will vanish, prematurely ending the length of the fourth ring. It can also cancel any of the effects of the other rings of the Notory Art, and will do so to guide you back to the path of righteousness.
 
-#### **THE FIFTH RING OF SOLOMON**
+#### THE FIFTH RING OF SOLOMON
 
 The fifth level of Ars Notoria offers knowledge of the nature of beings and the realm with which they are associated. This ring allows you to use your Ars Notoria Ability to sense the realm that a particular being or creature may be affiliated to, acting very much like the supernatural Virtue: Sense Holiness and Unholiness. Unlike Sense Holiness and Unholiness, which allows you to feel the presence of good and evil only, this ring allows you to exactly determine a being's affiliated realm.
 
@@ -5043,7 +5043,7 @@ The fifth ring's orations must be recited during the Summer season.
 
 Demons are unable to hide their true nature if this roll is successful.
 
-#### **THE SIXTH RING OF SOLOMON**
+#### THE SIXTH RING OF SOLOMON
 
 This sixth level of Ars Notoria must be recited during the Spring season. Successfully reciting this ring allows you to foresee the future through holy divination, bestowing the ability to peer at God's Divine plan. Unlike the variety of other divinatory methods used in the Middle Ages, the divinations achieved through Ars Notoria mostly concern people's actions and their alignment with God's Will. You may successfully predict tomorrow's weather, but you may more importantly see if an immediate action is appropriate in God's eyes. Whether your actions adhere to this vision or not is up to you.
 
@@ -5065,7 +5065,7 @@ Examples of sample inquiries with their levels of difficulty are listed below.
 
 \* If successful, you may add your Ars Notoria score to your casting total.
 
-#### **THE SEVENTH RING OF SOLOMON**
+#### THE SEVENTH RING OF SOLOMON
 
 The acme of the Notory Art is complete comprehension of the knowledge you have received thus far. Rather than installing new knowledge, the seventh ring grants perfect understanding of everything you know. Your understanding of God and your place in His divine plan gives you a flawless understanding of your learned abilities. You know the things you know perfectly; you have achieved a perfect union between your understanding of God and yourself.
 
@@ -5073,7 +5073,7 @@ Because of your perfect knowledge you lose the chance to spectacularly fail at a
 
 Bear in mind that the greatest Christian sin is Pride, and recipients of the seventh ring's boon must avoid this sin at all costs. Your patron angel will keep a careful watch on your actions, whether the fourth ring is in effect or not. If it ever feels that you are abusing your perfect knowledge, it will end the effects of the seventh ring.
 
-#### **BENEFICIAL SIDE-EFFECTS**
+#### BENEFICIAL SIDE-EFFECTS
 
 There are other benefits of Ars Notoria besides the direct blessings available through the rings. Learning the Notory Art means that you are attempting to understand and operate within the Divine realm. The more you learn, the closer your magic allies with the Divine realm, and the fewer penalties you incur when practicing magic in a Divine aura.
 
@@ -5083,7 +5083,7 @@ The actual powers of Ars Notoria are considered Divine for determining how they 
 
 If you have an active ring in operation, you receive no Warping Points from a Divine aura.
 
-#### **WRITING BOOKS**
+#### WRITING BOOKS
 
 It is fairly common for practitioners of the Notory Art to increase their Academic Abilities and Characteristics in order to write books. Often this is the primary goal of a practitioner. Nothing stops them from this activity, bearing in mind a few caveats. The beneficial effects of the particular ring must be in operation during the seasons spent writing. An author may not stop writing to recite a ring to extend its length, so the initial desired length of the ring's effect must cover the period spent writing. Remember too that no author may learn from his own texts. If an author writes a truly stupendous book while under the effects of a ring, he many not then study that book once the ring has ceased operating.
 
@@ -5273,7 +5273,7 @@ These are the major ways Muslim lawyers deal with legal cases. Some use of other
 
 As implied above, after the death of Muhammad, there emerged a number of schools (**madhhabs**) of law, devoted to formalizing Islamic teachings on legal matters. Of the various schools that emerged, four predominated, known as the **Hanafis** (**H**A-na-feez), the **Malikis** (MEH-li-keez), the **Shafi'is** (SHEH-fi- 'eez), and the **Hanbalis** (**H**AN-ba-leez), taking their names, respectively, from their founders Abu Hanifa (d. 767), Malik ibn Anas (d. 795), Muhammad al-Shafi'i (d. 820), and Ahmad ibn Hanbal (d. 855). Each school developed a slightly different interpretation of the Qur'an and *hadith*, with the result that their teachings on certain legal matters differ slightly.
 
-#### **CRIME AND PUNISHMENT**
+#### CRIME AND PUNISHMENT
 
 The *shari'a* divides crimes into these categories:
 
@@ -5291,7 +5291,7 @@ c) Five major crimes, dealt with using canonical penalties (**hudud** [**h**u-DO
 
 Some other crimes also incur severe penalties. For example, apostasy is punished by death. Less serious offenses are punished with a verbal reprimand. Islamic law often requires a number of witnesses to a crime, making it difficult to impose penalties without adequate proof and moderating the more severe penalties somewhat.
 
-#### **HOLY WAR**
+#### HOLY WAR
 
 The Muslim holy war doctrine has roots in the life of Muhammad but was not officially formulated until the 8th century. The Arabic word, **jihad** (ji-HEHD), means a struggle, and encompasses both the struggle one wages against one's own inner sinfulness (the "greater *jihad*") and the external struggle one wages against evil (the "lesser *jihad*"), which in the medieval period mostly takes the form of warfare against non-Muslims. For most Muslims the *jihad* should be led by the political authorities of the Muslim world, but individual Muslims are also under obligation to ensure its success, particularly when it is waged defensively. Numerous rules, drawn from the *hadith*, regulate the conduct of the *jihad*, including rules regarding who may fight and against whom one may fight, prohibitions on the killing of women, children, and monks, and the destruction of trees and crops, treatment of prisoners and distribution of plunder.
 
@@ -5301,7 +5301,7 @@ The Muslim holy war doctrine has roots in the life of Muhammad but was not offic
 >
 >*A description of Saladin's enthusiasm for the* jihad, *according to his friend and biographer, Baha' al-Din ibn Shaddad (d. 1234)*
 
-#### **MAGIC**
+#### MAGIC
 
 Magic is permitted in Islam, as long as it is used for good purposes. Use of magic for evil purposes, on the other hand, is punishable by beheading. Thus, while Dominion auras generated by Muslims affect magic as normal, the attitude of the Muslim inhabitants of these auras towards practitioners of magic is likely to be more nuanced. In particular, an accusation of use of evil magic is likely to be subject to the same legal processes as any other alleged crime.
 
@@ -5309,13 +5309,13 @@ Magic is permitted in Islam, as long as it is used for good purposes. Use of mag
 
 The Muslim life is encapsulated in five basic duties, known as **arkan al-islam** (ar-KEHN-ul-is-LEHM, the pillars of Islam). These are as follows:
 
-#### **1. SHAHADA (SHA-HEH-DA, TESTIMONY)**
+#### 1. SHAHADA (SHA-HEH-DA, TESTIMONY)
 
 Muslims witness to their faith through two statements, which signify conversion to the faith. These are "**la ilaha illa Allah**" (there is no god except God) and "**Muhammadun rasul Allah**" (Muhammad is the messenger of God). These are repeated regularly as part of the ritual prayers.
 
 The *shahada* is a public declaration of divine supremacy, and as such is unwelcome to the ears of agents of the Inferno. Any creature belonging to the Infernal realm who hears someone say the *shahada* out loud suffers momentary discomfort. Some, rare Infernal creatures are more vulnerable to the *shahada*, in that it causes them actual pain. Needless to say, these creatures do not publish their vulnerability, but research can reveal this weakness.
 
-#### **2. SALAT (SA-LAWT, PRAYER)**
+#### 2. SALAT (SA-LAWT, PRAYER)
 
 Muslims must perform ritual prayer five times every day, at fixed times. These are **fajr** (FAJR, dawn), **zuhr** (ZUHR, midday), **'asr** ('ASR, mid-afternoon), **maghrib** (MAGH-rib, sunset) and **'isha'** ('i-SHEH', evening). Before performing ritual prayer, Muslims must be in a state of ritual purity, achieved through either the greater ablution of complete immersion in water (**ghusl** [GHUSL]) or the lesser ablution of washing the face, hands, feet, and head (**wudu'** [wu-DOO']), depending on how impure the individual is (in other words, what they have done since the last prayer). In some situations, when water is in short supply, sand may be used to perform the ablutions. The time of prayer is announced by the **mu'adhdhin** (mu-'ADH-dhin, caller) who pronounces the call to prayer (**adhan** [a-DHEHN]) from the minaret of the nearest mosque. Although the actual prayer may be performed anywhere, the nearest mosque is recommended. Prayer is always conducted facing Mecca. It is led by a Muslim who is known as the **imam** (i-MEHM). Although any sufficiently knowledgeable Muslim may be the *imam*, it is usually an employee of the mosque. The actual prayer consists of a number of **raka'as** (RA-ka-'az, cycles), which include a number of changes in posture accompanied by the recitation of certain **ayas** (EHyaz, verses) of the Qur'an. The number of *raka'as* varies according to the time of prayer. Again, some dispensation is made for those who might experience difficulties in the performance of the prayer. In particular, travelers may perform an abridged version of the prayer from the saddle.
 
@@ -5323,7 +5323,7 @@ The noon prayer on Friday is special. All able-bodied men should attend the near
 
 Any Islamic Dominion aura in which ritual prayer (*salat,* not *du'a'*) is taking place has its score raised by one for the duration of the prayer. When the prayer is complete, the score returns to normal.
 
-#### **3. ZAKAT (ZA-KEHT, ALMS-TAX)**
+#### 3. ZAKAT (ZA-KEHT, ALMS-TAX)
 
 All Muslims who are able are required to give a portion of their wealth as charity. The amount to be paid varies between 10 and 2.5 percent, depending on what the income is drawn from. *Zakat* is gathered for a number of causes, including support of the poor, tax-collectors, those who need to be reconciled to the one paying the tax, travelers and those striving for the faith, and for ransom of captives and debtors. Exactly where it is actually directed varies, depending on the political and social situations in any given place.
 
@@ -5375,13 +5375,13 @@ Creatures belonging to the Infernal realm may not handle money or goods if they 
 >
 >The scores of Muslim Dominion auras are increased by one during Muslim holidays. This effect is cumulative with the effect of the *salat*, so an aura in which both a holiday and the ritual prayer are taking place has its aura raised by two for the duration of the prayer. The aura returns to a score of one greater than its regular score once the prayer is finished, and then to its regular score once the holiday is over.
 
-#### **4. SAWM (SOWM, FASTING)**
+#### 4. SAWM (SOWM, FASTING)
 
 All Muslims are required to fast during **Ramadan** (ra-ma-DAWN), the ninth month of the Muslim year and the month when Muhammad first began to receive the revelation. Fasting is undertaken from sunrise to sunset, and includes abstention from food, drink, and sexual activity. Muslim women who are having their period and the sick are exempted from fasting. Travelers are also exempted but must make up the fast later. The end of the fast is marked by a celebration known as the **'Id al-Fitr** ('EED-ul-FITR, feast of the breaking of the fast), which is one of the two major feast days of the Muslim year. Muslims may also choose to fast at other times in atonement for certain sins, including killing a Muslim by mistake or breaking an oath.
 
 The score of Muslim Dominion Auras increases by one during the month of Ramadan. See the boxed section on the Muslim calendar for more details.
 
-#### **5. HAJJ (PILGRIMAGE)**
+#### 5. HAJJ (PILGRIMAGE)
 
 All Muslims who are able are required to make the major pilgrimage to Mecca at least once during their lives. The *hajj* is undertaken during the first half of **Dhu'l-Hijja** (DHOOL-**H**IJ-ja), the last month of the Muslim year. The pilgrims travel to the vicinity of Mecca, where they perform ritual purification and don garments consisting of two unsewn pieces of cotton, a state of dress that represents the equality of all believers. They must remain in a state of purity throughout the *hajj*. They walk around the Ka'ba seven times and run between two hillocks named **al-Safa** and **al-Marwa**, while making set prayers and invocations. Then on the 7th Dhu'l-Hijja the pilgrims take part in a prayer service in the mosque around the Ka'ba. The next day they assemble at **Mina**, where they stay overnight. Then they travel east to the plain of **'Arafat**, where they take part in a prayer ritual, and also a ceremony known as the "standing." That night they stay at **Muzdalifa**, halfway between 'Arafat and Mina. The next day they return to Mina, where they throw seven pebbles at a column said to represent Satan. This is followed by the other major Muslim celebration, the **'Id al-Adha** ('EED-ul-AD-**h**ah, feast of sacrifice), at which animals are slaughtered. They then return to Mecca and walk around the Ka'ba again. They may also run between al-Safa and al-Marwa if they have not done so already. Then the state of ritual purity is abandoned, men having their heads shaved and women having a lock of hair cut off. Three days of celebration at Mina follow, including further stoning of Satan and ending with further circumambulation of the Ka'ba.
 
@@ -5395,17 +5395,17 @@ A mosque generally takes the form of an open central space, usually a courtyard 
 
 Mosques have a Dominion aura that varies in power according to their size and importance. Most mosques have a Dominion aura of 4, while major, famous mosques will usually have auras of 5, though this may increase by a point or two if relics are kept in them. Remember that the auras of mosques will also increase if prayer is performed in them or if those inside are performing the Ramadan fast.
 
-#### **MECCA AND MEDINA**
+#### MECCA AND MEDINA
 
 Beyond the bounds of Mythic Europe are the two most important cities of Islam, Mecca and Medina. Mecca is the site of the *haram* and the Ka'ba — the shrine built by Abraham and his son Isma'il, who was the ancestor of the Arabs. It was also the native city of Muhammad. Medina, meanwhile, was the city that welcomed Muhammad when the Meccans rejected him, becoming the place from which he could truly launch Islam on the world, and it is also the city in which he died and was buried.
 
 Should characters visit these two holy cities of Islam, they will find that the Dominion auras there are one point stronger than they would be elsewhere. The cities are also home to numerous sites of holy significance to Muslims. The most important site in Mecca, not surprisingly, is the *haram* and Ka'ba. Here the Dominion aura has a score of 10, and Muslims may pray for any of the miracles listed in the chapter on Saints. In Medina the Mosque of the Prophet takes pride of place, being not only the first mosque but also the site of the tombs of the Prophet, his daughter Fatima, and the first two caliphs, Abu Bakr and 'Umar. This holy site has a Dominion aura of 9.
 
-#### **THE AQSA MOSQUE AND THE DOME OF THE ROCK**
+#### THE AQSA MOSQUE AND THE DOME OF THE ROCK
 
 The Temple Mount in Jerusalem is a site of supreme holiness for both Jews and Muslims. As such, the whole site presents a complex mix of Dominion auras. The Western Wall of the mount, which is all that remains of the Jewish Temple, has a Dominion aura of 10. Built on top of the mount are two major Muslim holy sites, the Aqsa Mosque and the Dome of the Rock. The Aqsa Mosque is a particularly important mosque with a Dominion aura of 6. The Dome of the Rock, on the other hand, is a shrine commemorating the **isra'** (is-REH', night journey) and **mi'raj** (mi'- REHJ, ascent) of Muhammad. One night during his early apostolate, Muhammad was taken by Gabriel on a heavenly steed from Mecca to Jerusalem, from whence he visited the heavens before returning back to Mecca, all in less time than it took for water to flow out of a cup that he had knocked over when he rose from his bed. The Dome of the Rock houses the rock from which Muhammad ascended to heaven, and it remains a shrine of immense importance to Muslims, who perform pilgrimages there and circumambulate the rock. The Dome of the Rock has a Dominion aura of 10, and Muslim characters may pray there in order to receive a divine blessing associated with Muhammad. See the section on Holy Forbears in Islam, for more details.
 
-#### **MUSLIM RELICS**
+#### MUSLIM RELICS
 
 As stated in the Blessed By God chapter, relics in the Muslim tradition are rarely the bodily remains of holy figures, instead often taking the form of objects closely associated with them. Two important examples of such relics are given below.
 
@@ -5419,7 +5419,7 @@ During his life the Prophet had made a seal ring, which he used to seal official
 >
 > — The *Sahih* of al-Bukhari (d. 870)
 
-#### **Dhu'l-Fiqar** (DHOOL-fi-QAHR)
+#### Dhu'l-Fiqar (DHOOL-fi-QAHR)
 
 Dhu'l-Fiqar was the sword of the Prophet, which he gave to his son-in-law 'Ali. After 'Ali's death, the sword passed to the 'Abbasids, but it remains a potent symbol for the Sh'is (see below). The sword has two points, used to put out the eyes of enemies, and bears an inscription relating to blood-money that ends with the words "no Muslim shall be killed for an unbeliever." A Muslim proverb is that "there is no (true) sword except Dhu'l-Fiqar." Some Muslims have the proverb engraved on their own swords. Shi'is often add the words "and there is no youth like 'Ali."
 
@@ -5429,17 +5429,17 @@ In the hands of a Shi'i Muslim, Dhu'l-Fiqar has a Faith Score of 7, giving it 7 
 
 Islam also regulates various features of Muslim family life.
 
-#### **BIRTH**
+#### BIRTH
 
 When a child is born in a Muslim family, traditionally the hair of the child is sacrificed as a purification ritual, and it is also recommended that someone recites the *adhan* in the child's ear, in order to make a Muslim of them in the future. Muslim tradition also requires circumcision, usually no later than the age of seven.
 
 The rituals associated with the birth have the effect of rendering the child's name unusable as a True Name in supernatural activities, in the same way that baptism renders a Christian child's name unusable as a True Name.
 
-#### **EDUCATION**
+#### EDUCATION
 
 Up to the age of seven children are brought up by the women of the household. However, after this age male children usually either attend a Qur'anic school or learn their father's trade. Female children normally stay at home, where they may or may not be educated, according to social status and the wishes of the family.
 
-#### **MARRIAGE**
+#### MARRIAGE
 
 According to Islamic law a man may take up to four wives, provided that he does not show special favor to any of them. He may also take concubines from among his slaves, without restrictions on number.
 
@@ -5449,7 +5449,7 @@ A marriage may be brought to an end in three ways, although the Qur'an urges rec
 
 The wife must be treated with justice and respect, and the dowry is her own private property. A number of important figures in Islamic history have been supported by strong wives. Muhammad's first wife, Khadija, is the earliest example.
 
-#### **DEATH AND INHERITANCE**
+#### DEATH AND INHERITANCE
 
 Islamic law lays down that when a Muslim is near death, the *shahada* should be recited where they are. After death, the body should be washed and wrapped in a piece of unsewn material, then carried to the cemetery in a funeral procession, where the Prayer for the Dead should be recited. The body should be laid in the tomb on its right side, with its head pointing towards Mecca. No monument should be erected over the grave. The actual practice of these funeral rites varies significantly from the law, however. Often local customs will result in more elaborate ceremonies.
 
@@ -5473,7 +5473,7 @@ Islamic law lays out what becomes of the property of the deceased. The inheritan
 >
 >**Special Rule:** Copying out the Qur'an is an act of pious devotion that can be a comfort in the face of adversity. A Muslim who does this gains a Confidence Point.
 >
->#### **JAMI' AL-BAYAN 'AN TA'WIL AL-QUR'AN**
+>#### JAMI' AL-BAYAN 'AN TA'WIL AL-QUR'AN
 >
 >Summa, Theology: Islam (Level 5, Quality 10); Summa, Islamic Law (Level 5, Quality 10)
 >
@@ -5491,7 +5491,7 @@ Islamic law lays out what becomes of the property of the deceased. The inheritan
 >
 >**Description:** A discussion of various points of Islamic theology, intended primarily as a defense of the mainstream position against the views of the Mu'tazilis.
 >
->#### **AL-RISALA**
+>#### AL-RISALA
 >
 >Tractatus, Theology: Islam (Quality 10); Tractatus, Islamic Law (Quality 10)
 >
@@ -5501,7 +5501,7 @@ Islamic law lays out what becomes of the property of the deceased. The inheritan
 >
 >**Description:** A treatise on Islamic jurisprudence and one of several important works by al-Shafi'i, the *Risala* discusses the derivation of Islamic law, insisting in particular that *hadith* from the Prophet should be given priority over *hadith* recounted on the authority of his Companions. This is because Muhammad was the interpreter of the Qur'an and the one best able to understand the precepts laid down therein.
 >
->#### **AL-SAHIHAN**
+>#### AL-SAHIHAN
 >
 >*Sahih al-Bukhari:* Summa, Theology: Islam (Level 5, Quality 9); Summa, Islamic Law (Level 5, Quality 9)
 >
@@ -5513,7 +5513,7 @@ Islamic law lays out what becomes of the property of the deceased. The inheritan
 >
 >**Description:** Collectively known as *al-Sahihan* (the two authentic ones), these works are the two most respected collections of *hadith* in use in the Muslim world, providing a wealth of information on Islamic legal and religious teachings.
 >
->#### **AL-SIRA AL-NABAWIYYA**
+>#### AL-SIRA AL-NABAWIYYA
 >
 >Tractatus, Theology: Islam (Quality 7); Tractatus, Islamic Law (Quality 7); Tractatus, Dominion Lore (Quality 7)
 >
@@ -5523,7 +5523,7 @@ Islamic law lays out what becomes of the property of the deceased. The inheritan
 >
 >**Description:** A biography of the Prophet.
 >
->#### **IHYA' 'ULUM AL-DIN**
+>#### IHYA' 'ULUM AL-DIN
 >
 >Summa, Theology: Islam (Level 6, Quality 9); Summa, Islamic Law (Level 6, Quality 9); Summa, Dominion Lore (Level 3, Quality 9)
 >
@@ -5533,7 +5533,7 @@ Islamic law lays out what becomes of the property of the deceased. The inheritan
 >
 >**Description:** A text by the great Sufi and theologian, al-Ghazali, *Ihya' 'Ulum al-Din* seeks to bring life to the mainstream religious sciences through Sufi inspiration. Thus it discusses both mainstream Muslim doctrine and law and spiritual experience, demonstrating that the two are not merely compatible but actually inextricably linked.
 >
->#### **TADHKIRAT AL-AWLIYA'**
+>#### TADHKIRAT AL-AWLIYA'
 >
 >Tractatus, Dominion Lore (Quality 8); Tractatus, Theology: Islam (Quality 8)
 >
@@ -5545,7 +5545,7 @@ Islamic law lays out what becomes of the property of the deceased. The inheritan
 >
 >**Special Rule:** Make a note when the character reads this work. The first time after doing so that the character makes a roll involving the Knowledge studied, he or she should also roll a botch die, even if the roll is being made on a simple die.
 >
->#### **KITAB AL-IRSHAD**
+>#### KITAB AL-IRSHAD
 >
 >Tractatus, Dominion Lore (Quality 10); Tractatus, Theology: Islam (Quality 10)
 >
@@ -5555,7 +5555,7 @@ Islamic law lays out what becomes of the property of the deceased. The inheritan
 >
 >**Description:** *Kitab al-Irshad* is both a biography of the twelve *imams* and a powerful statement of Twelver Shi'i devotion.
 
-#### **SLAVERY**
+#### SLAVERY
 
 Islam permits slavery, to a certain extent. Slaves are generally well-treated, suffering less severe punishments for crimes than free Muslims, and some rise to significant positions of power within Muslim society. While there is no official hierarchy among slaves, those belonging to higher-ranking members of the community are likely to be more influential. Liberation of slaves is recommended as a pious act. A male Muslim is required to emancipate a female slave before he marries her, and the children will be free Muslims. Slaves may also be emancipated in one's will, or they may buy their freedom. Emancipated slaves normally continue to work in the household of their master, who remains their guardian.
 
@@ -5598,11 +5598,11 @@ There are now many different groups of Shi'is*.* Three are particularly likely t
 >
 >Khidr is best used as a mysterious advisor to the player characters. He is unlikely to reveal his true identity to them, and at times he will give advice that seems bizarre and unreasonable, although it will always be proved correct in the end.
 
-#### **THE ITHNA'ASHARI SHI'IS**
+#### THE ITHNA'ASHARI SHI'IS
 
 The most numerous of the Shi'i divisions is the **Ithna'ashari** (ith-na-'AH-sharee, **Twelver**) Shi'is, also known as the **Imamis** (i-MEH-meez). They include many Bedouin tribesmen among their number. The Twelvers recognize a line of twelve *imams*, beginning with 'Ali and passing down through his family. After the death of the eleventh *imam*, al-Hasan al-'Askari, in 874, they say that his son, Muhammad al-Mahdi, went into "lesser occultation" (**ghayba** [GHAY-ba]), communicating with the world through a line of four emissaries, the last of whom announced, on his death bed in 941, that the *imam* was going into "greater occultation" (**ghayba kubra** [GHAY-ba-KUBrah]), which would last until he returned as the *mahdi* at the end of time. For the moment, he would be with his followers but would not communicate with them. A number of duties have been suspended as a result of the *imam's* occultation.
 
-#### **THE FATIMIDS**
+#### THE FATIMIDS
 
 During the time of the sixth *imam*, Ja'far al-Sadiq (d. 765), a group if Shi'is claimed that he had nominated his son Isma'il as his successor. When Isma'il died in 755 before his father, they recognised Isma'il's son Muhammad as the seventh and final *imam*. They maintained that he was also the *imam* who would reappear as the *mahdi* at the end of time. They existed in secret until the middle of the 9th Century, before emerging as two movements, known collectively as the **Isma'ilis** (is-ma-'EE-leez). The first movement, known as the **Qarmatians**, were a revolutionary group found in Iraq and Arabia. The second and (for **Ars Magica**) more important group were the **Fatimids** (FAW-ti-mids), a group who ruled in North Africa and Egypt from the 10th century until their destruction in 1171.
 
@@ -5610,7 +5610,7 @@ The Fatimids developed a doctrine that drew a distinction between the exterior t
 
 While the Fatimid state was destroyed in 1171, it is possible that some members may have escaped the destruction and may be waiting in hiding for a good opportunity to rally others to their cause. Such figures would be *imams*, powerful leaders who, among other things, would be endowed with the Commanding Aura (see Blessed by God, The Commanding Aura).
 
-#### **THE ASSASSINS**
+#### THE ASSASSINS
 
 The word "assassin" derives from the Arabic **hashishi** (**h**a-SHEE-shee, one associated with hashish), and is an uncomplimentary term probably used by the opponents of the Assassins to refer to their sect. They owe their origins to one of the most active propagandists of the Fatimid caliphate, a Persian named Hasan-i Sabbah, who in 1090 seized the fortress of Alamut, in northern Persia. From there he began a program of Fatimid propaganda and political assassination. Then in 1094 the Fatimid caliph al-Mustansir died. He had nominated his eldest son, Nizar, to succeed him, but the palace administration ousted him in favor of his younger (and more pliable) brother al-Musta'li. Hasan-i Sabbah and his followers sided with Nizar, becoming independent from the main Fatimid administration. It is from this stance that the Assassins are known by their other name of **Nizaris** (ni-ZAHreez). Nizar was murdered in prison in Alexandria, and his sons with him, but the Assassins claimed that a grandson had been successfully smuggled out and brought up at Alamut. In another version of the story it was a pregnant concubine of one of Nizar's sons who was smuggled out and gave birth to the grandson at the fortress. During the years that followed, the Assassins established a sect arranged along strictly hierarchical lines, with the ultimate authority being the Grand Master (**hujja** [**H**UJ-ja], "proof"), or (after 1162) the *imam*, at Alamut. Religious leaders were known by the title of **shaykh** (in Arabic) or **pir** (PEER, in Persian, a term meaning "elder.") Members addressed each other as **rafiq** (ra-FEEQ, comrade). During this period, the Assassins also continued to expand their sphere of influence, taking a number of fortresses in Persia and Syria. The most important Syrian fortress taken was Masyaf.
 
@@ -5715,19 +5715,19 @@ You are a member of the religious elite. You may be a minor official, such as a 
 
 You are a member of the civil administration, probably a **katib** (KEH-tib, scribe or secretary) or watha’iqi (wa-THEH-i-qee, writer of legal documents). You may take Academic Abilities during character creation. This Virtue is only available to male characters
 
-#### **EDUCATED (ISLAMIC)**
+#### EDUCATED (ISLAMIC)
 
 *Minor, General*
 
 You have been educated in a mosque or Qur'an school. The 50 experience points should be spent on some or all of Arabic, Persian, Greek, Latin, Theology: Islam, Islamic Law, and Artes Liberales, due to a different education "system."
 
-#### **EMIR**
+#### EMIR
 
 *Minor, Social Status*
 
 This is the same as the Knight Virtue, though due to the rather different upbringing of Muslim emirs, you are likely to be as skilled with hunting, religious teachings, and culture as you are with martial pursuits.
 
-#### **MAMLUK**
+#### MAMLUK
 
 *Minor, Social Status*
 
@@ -5735,13 +5735,13 @@ You are a former military slave, bought as a child, trained at a military school
 
 You may take Martial Abilities at character creation, and as a special case you may also take the Ability Theology: Islam, even if you do not have the Minor General Virtue Educated. This Virtue is only available to male characters, and (for Companion characters only) is compatible with both the Emir and *Muqta'* Virtues, as many Mamluks have climbed high in the Muslim hierarchy.
 
-#### **MUQTA' (MUQ-TA')**
+#### MUQTA' (MUQ-TA')
 
 *Major, Social Status*
 
 You are an important emir, entrusted with an **iqta'** (iq-TAW', similar to a feudal fief)*.* All rules for the Landed Noble Virtue apply, except that a Muslim who takes the Minor Status Virtue Knight will be called an emir, rather than a knight.
 
-#### **SUFI**
+#### SUFI
 
 *Minor, Social Status, Supernatural*
 
@@ -5753,13 +5753,13 @@ This Virtue may be taken by both male and female characters, either as a Minor S
 
 ## Flaws
 
-#### **DHIMMI**
+#### DHIMMI
 
 *Minor, General*
 
 You are a non-Muslim living under Muslim rule. If you are adult and male, you must pay the *jizya* head tax, and all *dhimmis* must abide by certain social restrictions (described above), in return for which they receive tolerance and protection from the Muslim authorities. The actual amount a *dhimmi* has to pay in *jizya* varies, but rarely exceeds a *dinar* (a gold coin) per year.
 
-#### **EUNUCH**
+#### EUNUCH
 
 *Minor, General*
 
@@ -5781,7 +5781,7 @@ This is the Islamic equivalent of Christian Theology. The major sources for Isla
 
 ## Traditions
 
-### **HOLY TRADITION: SUFIS**
+### HOLY TRADITION: SUFIS
 
 **Favored Abilities:** Ceremony, Meditation, Transcendence, Understanding
 
@@ -5791,7 +5791,7 @@ Sufis practice two forms of group meditation, known as **dhikr** (DHIKR, "mentio
 
 Sufis engage in both personal and group rituals intended to bring them into closer proximity to God and give them mystical understanding of His creation. These rituals may be attended by anyone with the permission of the Sufis or their *shaykh*, but non-Sufis will find it much more difficult to gain the full benefits from them. That said, both Sufis and non-Sufis stand to benefit from participation in group rituals, as their *shaykhs* will often possess the Ceremony Ability, which enables them to synchronize their efforts in order to reach higher degrees of understanding. See the Blessed By God chapter, New Abilities for a description of the benefits of the use of Ceremony.
 
-### **HOLY SOCIETAS: ZOROASTRIANS**
+### HOLY SOCIETAS: ZOROASTRIANS
 
 **Favored Abilities:** Invocation, Holy Magic, Sense Holiness and Unholiness, Wonders
 
@@ -5809,7 +5809,7 @@ The word "magus" comes from the singular form of Magoi, "Magu." Thus many magi b
 
 The Zoroastrian tradition is especially appropriate as a mystery cult, as the Magoi are renowned for practicing ancient magical secrets such as astrology and theurgy. Rules for initiating characters into Holy Magic and other appropriate Virtues will be addressed in a forthcoming book, *The Mysteries (Revised)*, but until then here are two unique rituals to represent the mysterious and unusual powers to which Zoroastrian magi might have access. These spells require Holy Magic to cast and are only taught to members of the tradition.
 
-#### **(IMMORTAL)'S BLESSING (CRVIGEN)** 
+#### (IMMORTAL)'S BLESSING (CRVIGEN) 
 
 **R:** Per, **D:** Mom, **T:** Ind, Ritual
 
@@ -5830,7 +5830,7 @@ Your score in this Personality trait (or a closely related trait), multiplied by
 
 (Non-Hermetic)
 
-#### **SAOSHYANT'S ELIXIR (CRCO50)**
+#### SAOSHYANT'S ELIXIR (CRCO50)
 
 **R:** Per, **D:** Mom, **T:** Ind, Ritual
 
@@ -5846,7 +5846,7 @@ Once you are cleansed of evil, you must sacrifice a holy animal, usually a bull 
 
 (Non-Hermetic)
 
-#### **MYTHIC COMPANION: ZAHIDS**
+#### MYTHIC COMPANION: ZAHIDS
 
 As stated above, the *zahids* are exceptionally ascetic Sufis. They seek, through an ascetic, pious life, to achieve a closer experience of God. Many *zahids* are *shaykhs* — leaders of Sufi *tariqas*  although this is not exclusively the case. Through their pious contemplation, they gain the ability to work miraculous acts, *karamas,* and those who do associate with *tariqas* often have the ability to synchronize the efforts of their followers, enabling them to gain deep insights into the nature of the Divine.
 
@@ -6131,7 +6131,7 @@ As a storyguide character, he could turn out to be unexpectedly useful to the pl
 
 **Notes:** The Muslim traveler is a wanderer in Europe, inspired by his guardian angel to explore and examine the holy sites that lie beyond the borders of the Muslim world. In terms of Abilities, he is something of a generalist, although it has been assumed in this particular case that he is a traveling scholar rather than an itinerant warrior. Thus the emphasis of the character might be changed somewhat by replacing the Educated Virtue with the Minor General Virtue Warrior and replacing his Academic Abilities with Martial Abilities. As an alternative, some of the experience points could be redistributed to make the character more specialized in a few skills while dispensing with some of the others.
 
-#### **THE SUFI POETESS**
+#### THE SUFI POETESS
 
 **Characteristics:** Int +1, Per +1, Pre +2, Com +3, Str –3, Sta 0, Dex +1, Qik
 
@@ -6193,11 +6193,11 @@ Supported by miraculous powers, Moses sought to convince Pharaoh to free the Heb
 
 > *Story Hook:* The craftsman Bezalel was responsible for the construction of the Ark in which the stone tablets bearing the Ten Commandments, Aaron's rod, and divine manna were stored. Bezalel was reputed to have such a profound understanding of the forces of creation, as represented by Hebrew letters, that he could build any device that God commanded. A magus discovers references to the works of Bezalel and realizes that they may provide insight into any number of mysterious Arts, not least the use of Hebrew characters to enhance enchanted devices, or even the ability to gain favor when working upon such enchantments within the Dominion. But is the magus alone in this knowledge? Or are other magi looking for those same secrets?
 
-#### **THE FIRST TEMPLE**
+#### THE FIRST TEMPLE
 
 The kingdom of Israel was secure first under Saul, then David, and then finally Solomon, a king of great wisdom and magical power, who built the Temple in Jerusalem. But Israel was split into two, Israel to the north and Judah to the south, under the rule of Solomon's son Rehoboam. By 587 BC, both Israel and Judah, with its capital in Jerusalem, had fallen. It was Nebuchadnezzer who took Jerusalem in 587 BC and it was he who destroyed the Temple and forced the Jews into exile in Babylon.
 
-#### **THE SECOND TEMPLE**
+#### THE SECOND TEMPLE
 
 In 539 BC, in what is termed "The Restoration", the Jews were returned to Israel by Cyrus the Great of Persia after his conquest of Babylon. In this period the Temple was rebuilt, ushering in the age of the Second Temple,but the Jews were not sovereign in their own land and lived under foreign rulers, including the Romans. It was a rebellion against the Romans that eventually saw the end of the Temple. In 66 AD the Jews rose up against the occupying legions. Their success was short-lived and four years later, after a protracted siege, Jerusalem fell. The age of the Second Temple ended with its destruction. This act began the exile of the Jews and the Temple has never been rebuilt.
 
@@ -6205,7 +6205,7 @@ In 539 BC, in what is termed "The Restoration", the Jews were returned to Israel
 
 With the fall of the Second Temple, the Jews are exiled from their homeland, dispersed across Mythic Europe and the East in what is termed the *diaspora*. This dispersal has given rise to two broad Jewish cultures: the **Ashkenazim** found within Christian lands, predominantly France and Germany, and the **Sephardim** of Muslim and Mediterranean lands. While these communities are united in a common faith, many cultural differences have arisen.
 
-#### **ASHKENAZIM**
+#### ASHKENAZIM
 
 Ashkenazim is the sweeping term for that minority of Jews living across the majority of Mythic Europe. They are typified by a reluctance to adopt the trappings of the Christian culture they live within, and Jew and Christian view each other with mutual suspicion and contempt. This engenders a degree of social isolation, with the Ashkenazim looking inward and developing their own culture rather than adopting that of their neighbors. This separation contributes to the ongoing persecution of the Ashkenazim, where restrictions on property and profession accompany condemnation by bishops and exploitation by the nobility.
 
@@ -6213,13 +6213,13 @@ While Jews elsewhere integrate with their neighbors and pursue secular academic 
 
 The void left by the absence of academic pursuit has resulted in the development of a distinctly Jewish mysticism in the form of the Kabbalah. Built on divine principles and a search for the underlying mechanisms that govern the universe, the Kabbalah finds its strongest adherents in Provence, but the texts are spreading fast throughout Jewish society, especially into northern Iberia.
 
-#### **SEPHARDIM**
+#### SEPHARDIM
 
 While the Ashkenazim remain largely closed to Christian culture, the Sephardim embrace the more tolerant Muslim society in which they live. Their poetry and academic writing tends to adopt Arabic style with works often transliterated, using Arabic characters in place of Hebrew. They have also adopted the secular learning so prevalent across Muslim lands, becoming notable philosophers, mathematicians, and doctors. Their willingness to embrace study in the vernacular languages has opened the doors to academic professions closed to the Ashkenazim, and many Sephardim philosophers enjoy fame and influence beyond Sephardic and even Muslim communities. Islamic tolerance also allows Sephardim to take positions in public life, becoming notable tutors, physicians, translators, and even ambassadors.
 
 However, the Sephardim are experiencing another diaspora of their own as the Almohad push into Andalusia continues to displace Jewish communities, sending them north to Christian Iberia and Provence, and south to North Africa, Egypt, and Sicily.
 
-#### **THE KARAITES**
+#### THE KARAITES
 
 Separate from both the Sephardim and Ashkenazim, the Karaites, meaning "followers of scripture," are a small sect who observe a form of Jewish theology predicated on the *Tanakh* alone. Founded in Persia in the late eighth century, Karaites reject the Rabbinical *Talmud* and oral additions to Jewish law. This rejection comes from a strict interpretation of the Torah, which prohibits metaphorical interpretations, and relies upon the simplest and most direct interpretation of any law or ruling. This means that their interpretation of the *Torah* differs, from imposing different dietary laws to the refusal of all medical treatment. Despite this, the Karaites do have their own literary and interpretive tradition and their scholars are prolific writers. Nevertheless, the weight given to these works does not approach that given to the Talmud in Rabbinite communities.
 
@@ -6227,7 +6227,7 @@ Many Rabbinite scholars have devoted many books to disparaging the Karaite tradi
 
 The Karaite community is larger in Muslim lands, including a particularly large presence in Jerusalem, where they are free to practice their religion without Rabbinite interference. It is less common to find Karaites in Christian lands as they inevitably fall foul of the rulings of their more numerous Rabbinite neighbors.
 
-#### **THE BYZANTINE EMPIRE AND THE EAST**
+#### THE BYZANTINE EMPIRE AND THE EAST
 
 Though tolerated, Jews in the Byzantine Empire suffer a number of restrictions. They may not build new synagogues, nor may they read the scriptures in Hebrew. They are also prohibited from serving in any position of government. But beyond these restrictions, the authority of their courts is respected, such synagogues as exist enjoy legal protection, and they are free to follow any craft, trade, or profession.
 
@@ -6427,7 +6427,7 @@ The Star of David is a six-pointed star formed by the intersection of two equila
 >
 >Jewish culture prizes education and many members of the community are able to read and write Hebrew. The following texts are a mixture of religious, philosophical, and mystical works.
 >
->#### **THE TORAH**
+>#### THE TORAH
 >
 >Summa Theology: Judaism (Level 6, Quality 8), Summa Judaic Lore (Level 4, Quality 8), Summa Rabbinic Law (Level 4, Quality 8)
 >
@@ -6439,7 +6439,7 @@ The Star of David is a six-pointed star formed by the intersection of two equila
 >
 >**Special Rule**: The *Sefer Torah* is the complete work in its original scroll form. The sefer, created according to ritual and custom, is treated as a relic with one Faith Point.
 >
->#### **THE TALMUD**
+>#### THE TALMUD
 >
 >Summa Judaic Lore (Level 6, Quality 8), Summa Theology: Judaism (Level 6, Quality 8), Summa Rabbinic Law (Level 6, Quality 8), Tractatus Canaan Lore (Quality 5)
 >
@@ -6453,7 +6453,7 @@ The Star of David is a six-pointed star formed by the intersection of two equila
 >
 >The *Talmud* is originally an Aramaic work but is most commonly translated into Hebrew.
 >
->#### **THE NEVI'IM**
+>#### THE NEVI'IM
 >
 >Tractatus Theology: Judaism (Quality 8), Tractatus Dream Interpretation (Quality 8)
 >
@@ -6465,7 +6465,7 @@ The Star of David is a six-pointed star formed by the intersection of two equila
 >
 >The *Nevi'im* is the second section of the collected *Tanakh*, or Hebrew Bible.
 >
->#### **THE KETUVIM**
+>#### THE KETUVIM
 >
 >Tractatus Dream Interpretation (Quality 8), Tractatus Judaic Lore (Quality 8), Tractatus Rabbinic Law (Quality 8)
 >
@@ -6477,7 +6477,7 @@ The Star of David is a six-pointed star formed by the intersection of two equila
 >
 >The *Ketuvim* is the final section of the collected *Tanakh*, or Hebrew Bible.
 >
->#### **THE MISHNEH TORAH**
+>#### THE MISHNEH TORAH
 >
 >Summa Rabbinic Law (Level 4, Quality 9)
 >
@@ -6487,7 +6487,7 @@ The Star of David is a six-pointed star formed by the intersection of two equila
 >
 >**Description**: This is the foremost authority on Rabbinic Law, providing the most complete interpretation on the laws by which the Jewish people should govern all aspects of life. These laws are divided into the mishpatim, or judgments, and the huqqim, or statutes, which includes instructions and provisions for ritual purity.
 >
->#### **GUIDE TO THE PERPLEXED**
+>#### GUIDE TO THE PERPLEXED
 >
 >Summa Philosophiae (Level 4, Quality 9), Summa Theology: Judaism (Level 6, Quality 9)
 >
@@ -6499,7 +6499,7 @@ The Star of David is a six-pointed star formed by the intersection of two equila
 >
 >**Special Rule**: Students with scores of 3 or more in Gematria may study this book as a Tractatus of Quality 8 on Gematria.
 >
->#### **SEFER YETZIRAH**
+>#### SEFER YETZIRAH
 >
 >Summa Kabbalah (Level 4, Quality 6) 
 >
@@ -6513,7 +6513,7 @@ The Star of David is a six-pointed star formed by the intersection of two equila
 >
 >**Special Rule**: Only once a kabbalist has studied the *Sefer Yetzirah* can he undertake to create a golem.
 >
->#### **SEFER HA-BAHIR**
+>#### SEFER HA-BAHIR
 >
 >Tractatus Kabbalah (Quality 8), Tractatus Ceremony (Quality 5)
 >
@@ -6523,7 +6523,7 @@ The Star of David is a six-pointed star formed by the intersection of two equila
 >
 >**Description**: This *Book of Illumination* expands upon the *Sefer Yetzirah*, taking the abstract kabbalistic principles and codifying them into practical knowledge. It is essentially the first true kabbalistic work outside the *Sefer Yetzirah*.
 >
->#### **SEFER HA-RAZIM**
+>#### SEFER HA-RAZIM
 >
 >Tractatus Craft Amulets (Quality 8), Tractatus Merkavah (Quality 8), Tractatus Ceremony (Quality 5), Tractatus Dominion Lore (Quality 12)
 >
@@ -6537,7 +6537,7 @@ The Star of David is a six-pointed star formed by the intersection of two equila
 >
 >**Special Rule**: Hermetic magi who read this book for its knowledge on Craft Amulets gain access to the shape and material bonuses normally open to practitioners of this Jewish mystical practice (see later). Studying from an incomplete volume imposes a penalty of –1 to the reader's Study Total.
 >
->#### **SEFER RAZIEL**
+>#### SEFER RAZIEL
 >
 >Summa Gematria (Level 4, Quality 8), Summa Merkavah (Level 4, Quality 8), Summa Intervention (Level 4, Quality 8), Summa Transcendence (Level 4, Quality 8)
 >
@@ -6547,7 +6547,7 @@ The Star of David is a six-pointed star formed by the intersection of two equila
 >
 >**Description**: This potent book of sorcery is principally concerned with astral forces, originating from the zodiac and the enumerated names of God. The *Sefer Raziel* in its current form is actually a collection of the tractates revealed to Adam by the angel Raziel and has been compiled in Provencal over the last two hundred years. Those reading this work may notice that there are abundant references to the practice of Craft Amulets, but it does not provide enough insight to work from. This suggests that the current work is incomplete.
 >
->#### **THE HECHALOT TEXTS**
+>#### THE HECHALOT TEXTS
 >
 >Tractatus Merkavah or Summoning (Quality 8)
 >
@@ -6559,7 +6559,7 @@ The Star of David is a six-pointed star formed by the intersection of two equila
 >
 >**Special Rule**: Studying the *Hechalot Texts* is a dangerous pursuit. Due to the frequent allusions and references to demons and demonic powers, any who study the *Hechalot Texts* alone gain a "Curious about the Infernal" Personality trait at +1.
 >
->#### **SWORD OF MOSES**
+>#### SWORD OF MOSES
 >
 >Summa Infernal Lore (Level 5, Quality 8)
 >
@@ -6592,7 +6592,7 @@ Entertainment can always be found in the Jewish quarter; music is treasured and 
 >
 >Benjamin of Tudela wrote the *Sefer ha-Masa'ot* (*The Book of Travels*) to chronicle his journeys from Navarre to Jerusalem. Anyone studying this book may gain the specialty "Jewish communities" in this Area Lore, which helps to locate Jewish communities across the Mediterranean and the Levant. Written in Hebrew, copies can be found in larger Jewish communities.
 
-#### **EDUCATION AND THE YESHIVAH**
+#### EDUCATION AND THE YESHIVAH
 
 From education springs the understanding of both heritage and law, and for this reason there is an expectation that every male child will be taught to read Hebrew, and will study the *Torah*. Formal education starts young and takes place within classes of around ten students in the *beit ha-midrash*, a school that forms part of the synagogue. They are taught for six long days each week, with even parts of the Sabbath given over to examination of the week's learning. Lessons are chanted by the tutor and repeated by the class, the melody aiding memorization. By the age of 13, study moves on from the *Torah* to encompass the *Talmud*, with students often learning Aramaic, the language of the *Talmud*, at the same time.
 
@@ -6616,7 +6616,7 @@ Formal education is a predominantly male pursuit, but there are no proscriptions
 >
 >**Samuel ben Judah ibn Tibbon** (1150 - 1230) is known more for his translations of others' works, particularly Maimonides, than for any original philosophy. But while he has written little himself, he has a profound understanding of philosophy, theology, and Kabbalah. He can be found, until his death in 1230, in the city of Marseilles.
 
-#### **MARRIAGE**
+#### MARRIAGE
 
 The Talmud speaks extensively about marriage, which is seen as more of a secular or civil act than a sacrament. The ketuvah, or marriage contract, specifies a mohar to be paid by the groom to the bride's parents, and a dowry to be brought with the bride into the marriage.
 
@@ -6624,7 +6624,7 @@ Marriages are usually arranged through a professional marriage arranger, or shad
 
 Engagement is followed by a long period, often a year, which concludes with betrothal and marriage. The groom is responsible for providing a feast for the community lasting at least three days, though most communities contribute in order to ease the burden.
 
-#### **DEATH**
+#### DEATH
 
 >May his great name be magnified and sanctified in the world that He has created according to His will. May he establish His kingdom during our lifetime and during the lifetime of Israel. Let us say, Amen.
 >
@@ -6660,7 +6660,7 @@ This ongoing interpretation of the law is important as not all of the mitzvot ha
 
 One of the key principles in the *Talmud* is that the laws of the land are also laws that the Jewish population must observe. This is principally the pragmatic acceptance of the Jewish status as a minority, but the reliance on local laws, supplemented with the Halakha, is what binds the Jewish people to the land. The Halakha is adjudicated within the Beth Din, a Rabbinic court where cases are brought and decided. Jewish communities are normally given the right to maintain these courts and exercise authority over their own people.
 
-#### **CHEREM AND KARET**
+#### CHEREM AND KARET
 
 While fines and bans are the usual punishments for the breaking of the law, Halakha recognizes two forms of excommunication. Cherem is a civic ostracism that casts the individual or group out of Jewish society. The ostracism may be temporary or indeterminate, essentially lasting until amends can be made. The act of cherem is a public affair centered on the synagogue and is publicized with full ritual. The bans imposed are the niddui, under which the individual is expected to dress as though in mourning, must refrain from cutting his hair, and refrain from wearing shoes. The individual is shunned by his community, is not counted towards the minyan, and one who dies while under cherem is not afforded the formal funeral rites. The Talmud identifies 24 crimes that may be punished by cherem.
 
@@ -6730,7 +6730,7 @@ Because of the wide and varied education enjoyed by learned Jews, particularly w
 >
 >But notoriously, some Radhanites also trade in slaves. Much of the Muslim world permits slavery and the Radhanites, with their far-reaching trade routes, are able to bring black slaves from the Sudan as well as fair-skinned slaves from the West. These slaves are usually given to the Radhanites by Christian raiders in trade for other goods and the merchants rarely capture or abduct slaves themselves.
 >
->#### **STORY HOOK:**
+>#### STORY HOOK:
 >
 >A covenant on the outskirts of Christendom becomes embroiled in a conflict between a Christian noble and the unconverted native population. Some of the grogs are captured by the noble and quickly traded with a Radhanite merchant, destined to be sold into slavery in the East. The magi must find their grogs and free them from the Radhanite. But if they harm the merchant they incur the wrath of his patron, a powerful Muslim sorcerer.
 
@@ -6764,7 +6764,7 @@ In the case of Jewish magi, targets are protected by touching any charm made exp
 >
 >Chapter Two of this book describes Celestial regiones, places where the raw power of the Divine touches upon Earth. There are two such places that appear in Jewish folklore; the Yeshivah shel Malah, and the City of Luz.
 >
->#### **YESHIVAH SHEL MALAH**
+>#### YESHIVAH SHEL MALAH
 >
 >The angel Zagzagel presides over the Yeshivah shel Malah, which takes the form of a boundless synagogue made of blinding white light and burning black fire. The souls of the learned and the pious can be found here basking in the knowledge emanating from the True Torah.
 >
@@ -6772,7 +6772,7 @@ In the case of Jewish magi, targets are protected by touching any charm made exp
 >
 >The Yeshivah shel Malah is a single layer, level 5 regio.
 >
->#### **THE CITY OF LUZ**
+>#### THE CITY OF LUZ
 >
 >The Divine City of Luz, with every surface painted blue, is the city of immortality and the Angel of Death is unable to enter its gates. Those within the city walls age but never die. They suffer the encroaching years but never reach an end, until they leave. All within the city exist in a state of Divine grace, engaged in acts of adoration, prayer, and study.
 >
@@ -6825,67 +6825,67 @@ Given the restrictions imposed upon Jews, certain Social Status Virtues are forb
 >Craft Amulets <br>
 >Philosophic Magic
 
-#### **ASTROLOGICAL MAGIC**
+#### ASTROLOGICAL MAGIC
 
 *Minor, Supernatural*
 
 Schooled both in astrology and in kabbalistic mysticism, this Virtue allows your character to add his Artes Liberales score to Kabbalah totals.
 
-#### **BA'AL SHEM**
+#### BA'AL SHEM
 
 *Free, Social*
 
 Your character is a Ba'al Shem, a master of the Divine name, a folk healer and worker of wonders. He is a member of the Ba'al Shem Holy Tradition and treats Adjuration, Blessing, Craft Amulets, and Invocation as favored Abilities.
 
-#### **CRAFT AMULETS**
+#### CRAFT AMULETS
 
 *Minor, Supernatural Ability*
 
 Your character begins with Craft Amulets 1, a Supernatural Ability that represents his ability to make seggulot, small objects imbued with supernatural effects and harness the power of words and symbols (see Abilities).
 
-#### **DREAM INTERPRETATION**
+#### DREAM INTERPRETATION
 
 *Major, Supernatural Ability*
 
 Your character begins with Dream Interpretation 1, a Supernatural Ability that represents his ability to divine the truth behind prophetic dreams. The value of dream interpretation is well understood in Jewish society and, given its Biblical associations, it is an accepted form of divination. This Ability may be used in place of Meditation as a Holy Method when activating holy powers (see Abilities).
 
-#### **EDUCATED (HEBREW)**
+#### EDUCATED (HEBREW)
 
 *Minor, General*
 
 Your character has been educated in a beit ha-midrash or yeshivah and may purchase Academic Abilities at character generation. Your character gains 50 extra experience points to be spent on some or all of the following: Hebrew, Aramaic, Theology: Judaism, and Judaic Lore. Characters from Iberia or the East may also spend some of these points on Arabic.
 
-#### **GEMATRIA**
+#### GEMATRIA
 
 *Major, Supernatural Ability*
 
 This Virtue confers the Supernatural Ability Gematria 1. It is only available to characters with the Education (Hebrew) Virtue. This Ability may be used in place of Meditation as a Holy Method when activating holy powers (see Abilities).
 
-#### **KABBALAH**
+#### KABBALAH
 
 *Major, Supernatural Ability*
 
 This Virtue confers the Supernatural Ability Kabbalah 1. Is is only available to characters with the Education (Hebrew) Virtue. This Ability may be used in place of Invocation as a Holy Method when activating holy powers (see Abilities). It also gives you the unique ability to construct a golem — a holy creature brought to life through Divine blessing.
 
-#### **KABBALIST**
+#### KABBALIST
 
 *Free, Social Status*
 
 This is a special Mythic Companion Social Status Virtue and must be taken by all kabbalists. It is compatible with all other Social Status Virtues and Flaws.
 
-#### **MERKAVAH**
+#### MERKAVAH
 
 *Major, Supernatural Ability*
 
 This Virtue confers the Supernatural Ability Merkavah 1. It is only available to characters with the Education (Hebrew) Virtue. Merkavah is the knowledge of kabbalistic prayers, rituals, and invocations designed to purify the soul. This Ability may be used in place of Purity as a Holy Method when activating holy powers (see Abilities).
 
-#### **PHILOSOPHIC MAGIC**
+#### PHILOSOPHIC MAGIC
 
 *Minor, Supernatural*
 
 Schooled both in academic philosophy and in kabbalistic mysticism, this Virtue allows your character to add his Philosophiae score to Kabbalah totals.
 
-#### **RABBI**
+#### RABBI
 
 *Minor, Social Status*
 
@@ -6893,7 +6893,7 @@ Your character is an ordained Rabbi, a teacher and wise man of the Jewish commun
 
 The rabbi must take the Educated (Hebrew) Virtue to provide the required Academic Abilities. This Virtue is only available to male characters.
 
-#### **ROSH BETH DIN**
+#### ROSH BETH DIN
 
 *Major, Social Status*
 
@@ -6901,7 +6901,7 @@ The Rosh Beth Din, or Head of the Court, presides at the Beth Din rabbinic court
 
 The Rosh Beth Din gains the +2 good Reputation Rosh Beth Din, which applies across his country. This Virtue also includes the effects of the Social Contacts Virtue and you are able to find contacts within any Jewish community that supports a yeshivah. This Virtue is only available to male characters.
 
-#### **SHADCHAN**
+#### SHADCHAN
 
 *Minor, Social Status*
 
@@ -6909,7 +6909,7 @@ The shadchan is a marriage arranger, trusted by prospective parents to find the 
 
 The shadchan receives an extra 50 experience points to be spent on social Abilities and an Area Lore appropriate for their community.
 
-#### **SHAMASH**
+#### SHAMASH
 
 *Free, Social Status*
 
@@ -6917,7 +6917,7 @@ The shamash is the servant of the synagogue and responsible for its well-being. 
 
 As a shamash, the character must have the Educated (Hebrew) Virtue.
 
-#### **SOFER**
+#### SOFER
 
 *Free, Social Status*
 
@@ -6948,13 +6948,13 @@ All Jewish characters must take a form of the Outsider Flaw, either the existing
 >
 >Evil Eye
 
-#### **THE EVIL EYE**
+#### THE EVIL EYE
 
 *Minor, Supernatural*
 
 You character bears the Evil Eye, the uncontrolled potential to bring harm to others around her. Characters making stress rolls in her presence are subject to an additional botch die. Characters may protect themselves through the use of an amulet or a ritual, decided upon by the troupe, which does not need to be magical or supernatural in nature. A magic resistance of 0 or more, including the effect of the Aegis of the Hearth, is also sufficient to guard against this effect.
 
-#### **GABAI**
+#### GABAI
 
 *Minor, Social Staus*
 
@@ -6962,7 +6962,7 @@ Appointed by the community council, the gabai is the local tax collector. It is 
 
 The gabai has a –2 negative Reputation of "Tax Collector" in your his community. This Flaw is compatible with any other Free Social Status Virtue.
 
-#### **KARAITE MAGIC**
+#### KARAITE MAGIC
 
 *Major, Hermetic*
 
@@ -6970,7 +6970,7 @@ In order for your character's magic to conform to scripture, all of his magic, i
 
 Karaites are also restricted from practicing divination, astrology, and the summoning or use of spirits, particularly ghosts. There is nothing within their Holy Magic that prevents them from learning such spells, but casting them renders the caster unclean. Similarly, allowing non-Karaite magic to be cast upon them also renders the Karaite target ritually unclean and their Holy Magic is at risk of failing until they are able to ritually cleanse and purify themselves.
 
-#### **OUTSIDER**
+#### OUTSIDER
 
 *Minor, Social Status*
 
@@ -6978,7 +6978,7 @@ Your character belongs to a group that is readily identifiable and distrusted or
 
 This Flaw is usually only appropriate for grogs; companions and magi should take the Major Flaw instead.
 
-#### **TZADIK NISTAR**
+#### TZADIK NISTAR
 
 *Major, Story*
 
@@ -7062,7 +7062,7 @@ Your character is one of the Tzadikim Nistarim, one of the 36 hidden righteous u
 
 The following new abilities are appropriate for Jewish characters.
 
-#### **CRAFT AMULETS**
+#### CRAFT AMULETS
 
 The Ba'al Shem tradition of Jewish folk magicians uses the Craft Amulets Ability in combination with their Holy Methods and Powers to aid and protect individuals and places.
 
@@ -7082,7 +7082,7 @@ Amulets have a penetration of 0 but they can contain Holy or Arcane Connections 
 
 **Specialties**: Specific Holy Methods or Powers, particular shapes or materials (Supernatural)
 
-#### **DREAM INTERPRETATION**
+#### DREAM INTERPRETATION
 
 Jewish lore understands dreams, such as those experienced by the biblical David and Joseph, to be one of the chief vehicles through which God and the angels bestow visions and prophecies upon humanity.
 
@@ -7100,13 +7100,13 @@ Most who possess the Dream Interpretation Ability have specific rituals that the
 
 ## New Abilities
 
-#### **SUPERNATURAL**
+#### SUPERNATURAL
 
 Craft Amulets Dream Interpretation Gematria Kabbalah Merkavah
 
 him. The next day he listens as Elizabeth describe her dreams. With an Intelligence of 2, a Dream Interpretation of 5 including a specialty in "marriage," a roll of 6, and the Divine aura of 3, Aron manages a total of 16. The Ease Factor is as per the Intellego Mentem spell *Perception of the Conflicting Motives*, or 15. After an hour of consideration, Aron decides that Elizabeth's husband is worried he cannot afford their son's continued tuition, and Elizabeth resolves to counsel her husband.
 
-#### **GEMATRIA**
+#### GEMATRIA
 
 Gematria is a Jewish form of the Meditation Divine Method and can be used in the same way. The kabbalist must spend a number of hours equal to (12 – Gematria score), to a minimum of 1, studying a text. At the end of this time, he uses the lower of either his Gematria score or the book's Quality in place of his Meditation when activating holy powers.
 
@@ -7114,13 +7114,13 @@ Gematria also allows the kabbalist to potentially extend his natural lifespan th
 
 **Specialties**: Shinnui Shem, specific texts or Holy Power (Supernatural)
 
-#### **JUDAIC LORE**
+#### JUDAIC LORE
 
 Judaic Lore is the knowledge of Jewish cultural practice as opposed to strictly religious details. This includes poetry, folklore, songs, and so on. All Jewish characters are versed in Judaic Lore to some degree and experience points in this Ability at character creation can be part of their childhood abilities.
 
 **Specialties**: folklore, music, poetry,songs
 
-#### **KABBALAH**
+#### KABBALAH
 
 Kabbalah is the Jewish form of the Invocation Divine Method and can be used in the same way. In addition, it is the mystical understanding of the Divine forces of creation and provides the knowledge through which the Kabbalist forms and brings life to a golem (see the Jewish Mysticism section later).
 
@@ -7130,19 +7130,19 @@ Kabbalah is the Jewish form of the Invocation Divine Method and can be used in t
 >
 >The Circle of the Unique Cherub is a small school of Jewish mystics and philosophers, numbering no more than a dozen, based in Provence and the Rhine. Membership of the circle is by invitation and its existence is not widely known. With the *Sefer Yetzirah* as their foundation text, they seek to understand creation through mystical analogies, which leads some to concentrate on Dominion Lore, while others have become proficient with the mysteries of the Kabbalah. In particular, the Circle is well-practiced with the creation of golems, of which there are currently three.
 
-#### **MERKAVAH**
+#### MERKAVAH
 
 Merkavah is the Jewish form of the Purity Divine Method and can be used in the same way. In addition it is the study of the orders and names of angels and demons and other creatures of both the Magic and Faerie Realms. Kabbalists use Merkavah to learn the True Names of these entities, which they may further use in their work (see the Jewish Mysticism section later).
 
 **Specialties**: Specific realm or Holy Power (Supernatural)
 
-#### **RABBINICAL LAW**
+#### RABBINICAL LAW
 
 This is the Jewish version of Civil & Canon Law. The major sources of Rabbinic Law are the *Talmud*, the Oral *Torah*, and the responsa of the Geonim.
 
 **Specialties**: any one of the sources of Rabbinic Law, dietary laws, particular topics, precedents of a given area (Academic)
 
-#### **THEOLOGY: JUDAISM**
+#### THEOLOGY: JUDAISM
 
 This is the Jewish equivalent of Christian Theology. The major sources for Jewish theology are the *Torah*, the *Nevi'im*, and the *Ketuvim*.
 
@@ -7152,7 +7152,7 @@ This is the Jewish equivalent of Christian Theology. The major sources for Jewis
 
 The following divine traditions are found among the Jews.
 
-#### **HOLY TRADITION: BA'AL SHEM**
+#### HOLY TRADITION: BA'AL SHEM
 
 **Favored Abilities**: Adjuration, Blessing, Craft Amulets, and Invocation
 
@@ -7162,7 +7162,7 @@ The name Ba'al Shem means "master of the Divine name," which references their in
 
 Their crafts are passed apprenticelike, usually from father to son, and so there is little organization within this tradition. Their favored Abilities are usually taught or practiced in the manner of crafts and rarely studied from books. The favored Abilities are common to all Ba'al Shem but Initiations are known that grant access to additional Holy Methods and Powers.
 
-#### **HOLY SOCIETATES: KARAITES**
+#### HOLY SOCIETATES: KARAITES
 
 **Favored Abilities**: Craft Amulets, Holy Magic, Merkavah, Transcendence
 
@@ -7174,7 +7174,7 @@ A Karaite lineage can be found within House Ex Miscellanea where Holy Magic is t
 
 Karaite magi are most likely to be found in Jerusalem or in Muslim Iberia and are rare outside of these areas.
 
-#### **MYTHIC COMPANION: KABBALIST**
+#### MYTHIC COMPANION: KABBALIST
 
 **Favored Abilities**: Ceremony, Gematria, Kabbalah, Merkavah
 
@@ -7213,7 +7213,7 @@ Rabbinical Law 1
 >
 >Jewish culture has a strong philosophic tradition with a great many scholars through the ages. As a result, these scholars are often drawn to the life of a learned magician or to elemental magic (see *Hedge Magic: Revised Edition*) especially in Muslim-controlled Spain or the East. But these Jewish magicians are a relatively new phenomenon and still rare. Those not exposed to, or distrustful of, magic can make full use of the arts of Natural Philosophy (*Art & Academe*, Chapter 5).
 >
->#### **THE BA'AL OV**
+>#### THE BA'AL OV
 >
 >Another tradition that can be found within Jewish communities is the Ba'al Ov, necromantic practitioners of summoning magic. The Ba'al Ov do not simply converse with spirits as those with Merkavah do, but bring them into their presence and command them to do their bidding.
 >
@@ -7223,7 +7223,7 @@ Rabbinical Law 1
 
 Jewish grogs must take the Outsider Minor Flaw, which means that they must live in either a Jewish community, often a Jewish quarter of a city, or a covenant. A Jew living outside of such communities is too much a focus of attention to be a background character, which precludes him from being a grog.
 
-#### **SHADCHAN**
+#### SHADCHAN
 
 **Characteristics**: Int 0, Per +2, Pre +1, Com +2, Str 0, Sta 0, Dex 0, Qik 0 
 
@@ -7261,7 +7261,7 @@ Jewish grogs must take the Outsider Minor Flaw, which means that they must live 
 
 > *Story Hook:* A Jewish magus must find a wife for his apprentice before he reaches the age of 18 and so he turns to a wise old shadchan for help. The shadchan agrees to help and promises to return before the year is up with four prospective brides, each suitable for marriage with a learned magus of the Order, whereupon they shall live with the magus and his apprentice for a season. When the shadchan returns, the magus is indeed presented with four beautiful women, each with their own supernatural gifts and each from a different supernatural realm. The magus must choose between them, or at least root out the Infernal threat before his apprentice has chance to fall for her.
 
-#### **SOFER**
+#### SOFER
 
 **Characteristics**: Int +1, Per 0, Pre 0, Com +2, Str 0, Sta 0, Dex +2, Qik 0
 
@@ -7441,7 +7441,7 @@ From the Greek for "calculations," Gematria is a method of divination that revea
 
 There are many ways of manipulating texts in order to gain numeric values from them and many ways of assigning values to specific characters and words. As practitioners of Gematria progress they learn ever more complex ways of interpreting the same passages. It is this that allows repeated study and interpretation of the *Torah*. The application of Gematria to other texts also provides insight, but the conclusions cannot be trusted as only the *Torah* is the direct unchanged word of God in written form. Using other books requires a stress die. Books on Arts or Accelerated Abilities cannot be used.
 
-#### **SHINNUI SHEM**
+#### SHINNUI SHEM
 
 Kabbalists have found a way to forestall death and increase their natural lifespan by the practice of Shinnui Shem. It is said that if a man changes his name then the angel of death cannot find him and so cannot carry him away. By using Gematria the kabbalist finds secret connections between his name and the circumstances of his birth and names or teachings within the *Tanakh* and so reveal his own true name. Over the course of a season he uses these connections to change his true name, again based on numerological interpretation of biblical texts or those on Dominion Lore. This has two effects. Firstly, any current arcane connections to the individual are severed. Secondly, the kabbalist gains a bonus to future Aging Rolls.
 
@@ -7461,7 +7461,7 @@ The Sefirot are most often represented in visual form, interconnected by 22 path
 
 While Kabbalah is used by Jewish practitioners in place of the Invocation Holy Method, the pinnacle of kabbalistic achievement is the creation of the golem, unliving clay brought to life by Divine energies directed by the kabbalist. Golems can be formed into the shape of any living creature and when God breathes life into them they become natural examples of their kind. The most important golems are those formed into the shape of men, for these act as protectors of a community. Although that community is usually Jewish, the *Book of Jeremiah* tells the Jewish people to seek the well-being of any place in which they live, and the use of a golem to protect that place is entirely in keeping with that injunction.
 
-#### **CREATING GOLEMS**
+#### CREATING GOLEMS
 
 The creation of a golem takes several seasons and requires the dedicated attention of one or more kabbalists. During the first season the body of the golem is formed from clay, including earth from beneath a synagogue, which is then inscribed with astrological and holy symbols.
 
@@ -7507,7 +7507,7 @@ At the culmination of the final season, an awakening ceremony is conducted, duri
 
 The awakened golem ceases to be a thing of clay and becomes living breathing flesh, affected by spells and powers that affect the body and mind. The golem has the capacity to learn but cannot itself study or practice; it must be actively taught by a teacher, which means that it is incapable of gaining exposure experience. Golems are revered members of the community and are supported by them, which affords them four full seasons each year in which to learn. Unless ordered into torpor, as described below, the golem must eat, drink, breathe, and sleep as any other man. A golem is also capable of taking a wife and fathering children, though whether the kabbalist, the community shadchan, or the prospective wife would deem this appropriate is questionable.
 
-#### **EMPOWERING GOLEMS**
+#### EMPOWERING GOLEMS
 
 The kabbalist may empower the golem by giving them Divine powers. This need not be done immediately and the required rituals can be performed during any season after the golem has been awakened.
 
@@ -7521,13 +7521,13 @@ The Empower Golem Total must exceed the power's target level. Each season, for e
 
 Using a power costs a number of Divine Might points equal to the power's magnitude and has an initiative equal to the golem's Quickness. Penetration for these powers is as described in **ArM5**, page 191, and the golem's Might Pool regenerates at the beginning of each new day, which in Jewish tradition is at sunset.
 
-#### **ALTERING THE GOLEM'S POWERS**
+#### ALTERING THE GOLEM'S POWERS
 
 The powers bestowed upon a golem are not final and can be changed by the kabbalist. By removing an existing power, the kabbalist gains a bonus equal to that power's level to his Empower Golem Total. The alteration of powers can only be performed by a kabbalist who has already participated in either awakening or empowering the golem.
 
 *Exempli Gratia:* Moshe ben Isaac decides to create a golem to protect his community from the corrupt tax collector oppressing his people. During the first season, Moshe creates the clay form of the golem in the shape of a man, from earth taken from beneath the synagogue. In the second season, he begins to build the golem's Might. He has Intelligence of +2, Kabbalah of 6 (including a specialty in golems), Wonders of 3, and he is working in a level 4 Dominion aura, for a total of 15. He leads three other kabbalists and gains a Ceremony Bonus of 20 for a total of 35. The cabal works for three seasons, building a an Accumulated Might of 15 and then attempts to awaken the golem. Moshe rolls an 8 on the stress die for a total of 23. The golem awakens with a Divine Might of 23 (less than 5 times Moshe's Kabbalah score) and becomes a living breathing human male. Moshe names him Isaac in honor of his own father. Isaac has Divine knowledge of the community but few other skills so Moshe takes him to those he can trust for tuition. In the meantime, Moshe turns his attention to empowering Isaac. He decides that the tax collector must be confronted by his greed and designs a power to do so. The power is based on the level 20 Meditation and Intervention guideline, at Eye range and of Moon duration for a final level of 40. It takes Moshe three seasons to develop the correct rituals. At the end of this time Isaac gains the power to instill the tax collector with a Divinely-inspired anxiety over his own greed. Isaac can still contain a further 15 magnitudes of Divine powers.
 
-#### **MADNESS**
+#### MADNESS
 
 Golems are vulnerable creatures and, if the kabbalist is not careful, are subject to falling into madness. Each time any kabbalist involved in awakening the golem suffers a tragedy of hubris, the golem is commanded to do something that would transgress a mitzvah, or is taken outside its community, the storyguide should roll a stress die, comparing the result to the table below.
 
@@ -7541,7 +7541,7 @@ Golems are vulnerable creatures and, if the kabbalist is not careful, are subjec
 
 As the golem's Vengeful Personality Trait increases, it becomes more likely to use violence to settle even minor disagreements and it starts to become a danger to those around it. As the Trusting Personality Trait decreases, the golem begins to question the guidance it receives and may not carry out instructions. And as its Loyalty decreases it loses interest in the well-being of the community, becoming more aloof. These changes to Personality Traits are permanent.
 
-#### **DESTROYING A GOLEM**
+#### DESTROYING A GOLEM
 
 There are three ways of destroying a golem. The first is to destroy its body, as with a mortal man. The second is to reduce its Might Score to zero. The third is to cancel out the act of its creation. Upon creation, the golem has a single word drawn upon its forehead: *emet*, or "truth." If the first character of the word, *aleph*, is purposefully erased, "*emet*" becomes "*met,*" or death. At that instant the golem returns to an unliving thing of clay. No incidental or accidental act can erase the *aleph*.
 

@@ -25,7 +25,7 @@ Thomas Nowell, Lloyd Graney, Luke Price, Kevin Sides; Donna Giltrap, Malcolm Har
 
 **Third Round Playtesters:** Jason Brennan, Justin Brennan, Elisha Campbell; Eirik Bull, Karl Trygve Kalleberg, Helge Rager Furuseth, Sigurd Lund
 
-### **Author Biographies**
+### Author Biographies
 
 **Christian Rosenkjaer Andersen** is a Dane who works to spread the Order in his homeland and eventually form a Scandinavian Tribunal. He is weathering the storm in the presently chaotic business of consultant engineering.
 
@@ -419,7 +419,7 @@ mons)
 
 **Abilities:** Athletics 5 (climbing), Brawl 7 (claws), Entrancement 5 (minor clergy), Folk Ken 6 (clerics), Guile 7 (tempting rulers), Intrigue 6 (clerical benefices)
 
-### **Powers:**
+### Powers:
 
 *A Sight Too Beautiful to Behold,* 3 points, Init +1, Corpus: With this power, Oriens can cause the eyeballs of the targeted individual to melt, permanently blinding and disfiguring the target. The power is usable at Voice Range.
 
@@ -474,7 +474,7 @@ Besides his skills with Mentem spells, Alyates can also create flawless magical 
 
 Alyates knows that another wizard, a member of the Augustan Brotherhood named Buonacorsus, lives in Rome. After a few casual inquiries, Alyates assumes this wizard is more charlatan than magician, and is unconcerned by his presence. Alyates will use this knowledge if it serves him (see "Catching Alyates" later).
 
-### **Meet Me at Midnight**
+### Meet Me at Midnight
 
 CrMe 15
 
@@ -484,7 +484,7 @@ This spell implants a thought in the target's mind to meet the caster at a time 
 
 (Base 4, +1 Eye, +2 Sun)
 
-### **Forcing the Undecided's Decision**
+### Forcing the Undecided's Decision
 
 ReMe 35
 
@@ -494,7 +494,7 @@ This spell allows the caster to implant a complex suggestion into the target's m
 
 (Base 20, +1 Eye, +2 Sun)
 
-### **Borrow the Eyes of Another**
+### Borrow the Eyes of Another
 
 InMe 30
 
@@ -505,7 +505,7 @@ The caster can see through the eyes of anyone to whom he has an Arcane Connectio
 
 (Base 5, +4 Arc, +1 Conc)
 
-### **Loss of a Lasting Day's Memory**
+### Loss of a Lasting Day's Memory
 
 PeMe 20
 
@@ -582,7 +582,7 @@ This spell convinces the target that he has an enemy, selected at the time of th
 
 (Base 4, +1 Touch, +3 Moon)
 
-### **The Cup of Carbonius**
+### The Cup of Carbonius
 
 ReVi 83 Pen +52, 3/day
 
@@ -596,7 +596,7 @@ This is a powerful effect and causes Warping to the target. Because this effect 
 
 (Effect: Base 25, +4 Arc, +1 Conc; +2 frequency, +5 maintain concentration, +26 Penetration)
 
-### **The Homeward Bound Bracelet**
+### The Homeward Bound Bracelet
 
 ReCo 42 Pen 0, 3/day **R:** Touch, **D:** Mom, **T:** Ind
 
@@ -612,7 +612,7 @@ Buonacorsus wants Goffredo da Castiglione, a Ghibelline, elected pope. Buonacors
 
 Thus prepared, Buonacorsus sits in his secret hiding place in the Colosseum, using his powers of divination to follow the events in the Septizodium. He can accurately divine the daily happenings of any character with a Reputation of 4 or higher. Either Castiglione will be selected pope, or the cardinals will all die.
 
-### **A Murder is Planned**
+### A Murder is Planned
 
 School of the Vigilant Bees, Ease Factor 21
 
@@ -627,7 +627,7 @@ The rite is triggered upon casting, and then starts to draw crows to the warded 
 
 (Base 3, +9 Moon, +6 Structure, +3 for a group of crows)
 
-### **A Murderous Assault Will Befall You**
+### A Murderous Assault Will Befall You
 
 School of the Vigilant Bees, Ease Factor 33
 
@@ -639,7 +639,7 @@ Like other Virgilian rites, the magic must Penetrate the Magic Resistance of bot
 
 (Base 15, +3 Diameter, + 9 City, +3 for a group of crows. Ease Factor raised by 1 magnitude (+3) to reflect the intricacies of using Virgilian divination in the trigger.)
 
-### **Escaping the Gloomy Places**
+### Escaping the Gloomy Places
 
 School of Prometheus, Ease Factor 15 **R:** Touch, **D:** Diam, **T:** Structure
 
@@ -703,7 +703,7 @@ Similar to He enters among them, veiled in shadows (see Rival Magic, page 60), t
 
 ("Every sound alarms!") (Base 6, +3 Diameter, +6 Structure)
 
-### **Stony Protection of the Hearth**
+### Stony Protection of the Hearth
 
 School of the Stones, Ease Factor 18 **R:** Touch, **D:** Mom, **T:** Room
 
@@ -719,7 +719,7 @@ ed the Penetration of each rite.
 
 ### Tales of Power
 
-### **Suffer the Judgment of Jericho**
+### Suffer the Judgment of Jericho
 
 School of the Stones, Ease Factor 21 **R:** Touch, **D:** Mom, **T:** Structure
 
@@ -729,7 +729,7 @@ Penetration is a concern. Once elected, the pope will have a Divine Resistance o
 
 (Base 9, +6 Structure, +3 Stone. Ease Factor raised by one magnitude to reflect the intricacies of using Virgilian divination in the trigger.)
 
-### **Summer's Sweltering Heat**
+### Summer's Sweltering Heat
 
 School of Prometheus, Ease Factor 27 **R:** Touch, **D:** Sun, **T:** Structure
 
@@ -741,7 +741,7 @@ This Rite makes the warded area hot, humid, and uncomfortable. Anyone trapped in
 
 If the casting total is higher than the Ease Factor of the rite, the rite works. To determine the rite's Penetration, add the wizard's Penetration Ability score and subtract the Ease Factor from the casting total. The uniquely Virgilian Target: Pentagram receives a Penetration Multiplier Bonus of +5.
 
-### **Penetration Total: Casting Total + Penetration Ability – Ease Factor**
+### Penetration Total: Casting Total + Penetration Ability – Ease Factor
 
 For example, Buonacorsus casts the rite The Soldiers' Secret Ambush in his hiding place. His Communication is +4, his School of Stones is 14, and his rite score is 14, giving him a casting score of +32. His hiding place has a Magic aura of 3, granting an additional +3 to the roll. The storyguide rolls a 9 on a stress die, for a casting total of 44, which is higher than the rite's Ease Factor of 21. The rite's Penetration is casting total (44) plus Buonacorsus' Penetration Ability (5 with his specialty), minus the Ease Factor (21) or 28.
 
@@ -763,7 +763,7 @@ The base level of this rite is derived from the level 15 guideline, which strong
 
 (Base 15, +6 Sun, +6 Structure)
 
-### **The Hounds' Bay of Recognition**
+### The Hounds' Bay of Recognition
 
 School of Vigilant Bees, Ease Factor 15 **R:** Touch, **D:** Diam, **T:** City, Ritual
 
@@ -771,7 +771,7 @@ This rite makes every dog in Rome bark for two minutes when a new pope is electe
 
 (Base 3, +3 Diameter, +9 City)
 
-### **The Soldiers' Secret Ambush**
+### The Soldiers' Secret Ambush
 
 School of the Stones, Ease Factor 21 **R:** Touch, **D:** Diam, **T:** Room
 
@@ -819,7 +819,7 @@ There are eleven cardinals sequestered inside the Septizodium. Because of their 
 
 **Pretenses:** Artes Liberales 4 (astronomy), Athletics 4 (flying), Awareness 3 (sleepers), Faerie Lore 4 (Roman deities), Folk Ken 4 (worshipers), Intrigue 1 (plotting against each other), Latin 4 (astrological terms), Penetration 5 (Mentem)
 
-### **Powers:**
+### Powers:
 
 *Affliction of Heavenly Insanity*, 2 points, Init +0, Mentem. **R:** Eye, **D:** Sun, **T:** Ind. Similar to the Hermetic spell Blessing of Childlike Bliss, this power continually changes a person's thoughts, continuously scrambling a person's memory and perceptions throughout the duration of the effect. Magi cannot cast spells under this power's effect. A target may decide to perform a single action and succeed with an Intelligence + stress die roll against an Ease Factor of 12. The action must commence and finish in a single combat round.
 
@@ -1023,7 +1023,7 @@ party. Buonacorsus wants Castiglione to ascend to the papal throne.
 
 These cardinals are Guelphs, and they want a pope who will continue an aggressive stance against the emperor. When not magically influenced, each votes for Romano Bonaventura. A Guelph pope concentrates his energies in Italy and continues to rail against powerful kings. As far as the Order of Hermes is concerned, any Guelph besides the diabolist Annibaldi and the warmongering Bonaventura would be a good pope.
 
-### **Rinaldo Conti de Segni**
+### Rinaldo Conti de Segni
 
 **Age:** 51
 
@@ -1031,7 +1031,7 @@ These cardinals are Guelphs, and they want a pope who will continue an aggressiv
 
 Rinaldo is one of the younger members of the conclave. An official of the papal curia, he is a cardinal deacon, the lowest rank of cardinal. He is vehement in his opposition to the emperor.
 
-### **Sinibaldo Fieschi**
+### Sinibaldo Fieschi
 
 **Age:** 45
 
@@ -1039,7 +1039,7 @@ Rinaldo is one of the younger members of the conclave. An official of the papal 
 
 Sinibaldo is a cardinal priest of San Lorenzo in Lucina, a titular church and minor basilica in Rome. Although he is a dyed-in-the-wool Guelph, Sinibaldo admires the emperor personally. If it weren't for the muddy waters of politics, he thinks the emperor would make a good friend.
 
-### **Gil Torres**
+### Gil Torres
 
 **Age:** 68
 
@@ -1051,7 +1051,7 @@ A cardinal-deacon of Santi Cosma e Damiano, an ancient titular church in Rome, T
 
 Called "Moderates of the Opposition," these men are against the war while supportive of the emperor. They want to elect a pope who will end the war and, if not magically influenced, they will vote for Goffredo da Castiglione. In general, politically minded magi think that a Ghibelline pope would be harmful to the Order, as he would eventually attach the Church to the Holy Roman Emperor. The best Ghibelline would be Castiglione, who is too frail to do much harm.
 
-### **Rainiero Capocci**
+### Rainiero Capocci
 
 **Age:** 69
 
@@ -1063,7 +1063,7 @@ Rainiero is a cardinal deacon of Santa Maria in Cosmedin, a minor basilica locat
 
 
 
-### **Giovanni Colonna**
+### Giovanni Colonna
 
 **Age:** 43
 
@@ -1071,7 +1071,7 @@ Rainiero is a cardinal deacon of Santa Maria in Cosmedin, a minor basilica locat
 
 Giovanni is more interested in extending his family's influence in Rome than his personal influence in the Church, although the latter could certainly help the former. His family has been involved with a bitter feud with the Orsini family, and Giovanni is assumed to constantly be in opposition to any Orsini initiative or desire.
 
-### **Robert Somercotes**
+### Robert Somercotes
 
 **Age:** 72
 
@@ -1079,7 +1079,7 @@ Giovanni is more interested in extending his family's influence in Rome than his
 
 Robert is the cardinal deacon of the church of Santa Eustachio, a titular church and accompanying hospital in Rome. Robert is an Englishman who has remained uninvolved in Italian politics.
 
-### **Stefano dei Conti**
+### Stefano dei Conti
 
 **Age:** 65
 
@@ -1091,7 +1091,7 @@ The archpriest of the Vatican Basilica and cardinal priest of Santa Maria in Tra
 
 These men were captured by the emperor on their way to Rome and are thus not in the Septizodium. Instead, they are confined in Apulia with the emperor's army.
 
-### **Oddone di Monferrato**
+### Oddone di Monferrato
 
 **Age:** 45
 
@@ -1099,7 +1099,7 @@ These men were captured by the emperor on their way to Rome and are thus not in 
 
 The cardinal deacon of Saint Nicola in Carcere Tuilliano, Oddone has no political agenda concerning the Guelphs or the Ghibellines and will vote with the majority.
 
-### **Giacomo da Pecorara**
+### Giacomo da Pecorara
 
 **Age:** 47
 
@@ -1109,7 +1109,7 @@ The cardinal deacon of Saint Nicola in Carcere Tuilliano, Oddone has no politica
 
 Da Pecorara is a staunch Guelph and actively despises the emperor. If released from imperial confinement, Giacomo will demand that the cardinals excommunicate the emperor according to the dead pope's wishes.
 
-### **Peter of Capua the Younger**
+### Peter of Capua the Younger
 
 **Age:** 61
 
@@ -1175,7 +1175,7 @@ floors and their exposed balconies. Four exposed stairways lead from the ground 
 
 The center alcove leads to the most impressive room. Marble half-columns line the room, the far wall of which supports a stone relief of the seven planets dominating the night sky. This room contains the sequestered cardinals. Wooden tables, chairs, and sleeping cots are supplied for the men. The southern alcove leads to a room of similar size and marble decoration, but without the stone relief. The northern alcove leads to a dilapidated room whose upper floors have collapsed. While the walls still stand, the ceiling is gone. The second and third floors contain two rooms each, now that the northern sections have fallen. All four of these rooms allow access to the columned balconies that line the eastern façade. However, the southern section is separated from the central section by a wall, so that the only way to cross between sections is through a doorway on the ground floor.
 
-### **The Faerie Regio**
+### The Faerie Regio
 
 The Septizodium has a Faerie aura of 5. The main room on the ground floor is also a Faerie regio, usually accessible only on nights of the full moon. The regio has a Faerie aura of 7. The regio's entrance is between a pair of ivy-covered columns sculpted into the relief on the far wall. As they are part of the relief, people cannot physically walk between the pillars — they would walk straight into the stone wall — and the regio is only open at specific times. The divinities can enter and leave the regio at will, bringing those they wish to accompany them, and Hermetic magic can force a way through
 
@@ -1338,7 +1338,7 @@ If the magi arrive in the morning, there is a chance that they notice Buonacorsu
 
 Getting inside the Septizodium should be almost effortless for the magi. Of the six available rooms inside the building, the cardinals only use the two on the ground floor and two on the second floor. Day after day the men spend most of their time enduring the atrocious heat, complaining about their conditions, and bickering. The cardinals know that they are the only people who are supposed to be in the building, but in their captivity they abandon normal protocol and speak with intruders, especially if those intruders' hands are full of bread and wine. Each day at noon several servants bring lunch into the building, and characters could easily slip in disguised as servants.
 
-### **First Impressions**
+### First Impressions
 
 Inside the scene is disastrous. The building is hot and stinks of human cohabitation. Flies buzz everywhere. The eleven men, half of them older than 60, have stripped to their underwear, their regular clothing tossed in corners. Some bicker and complain with each other, some lie listlessly about fanning themselves, other yell invectives at the guards. All wait for lunch to arrive, and when it does they hustle toward it to gather their share of the food. Scuffles have erupted as the portions diminish. After lunch, sometimes after an afternoon nap, the cardinals vote. An argument typically follows.
 
@@ -1361,7 +1361,7 @@ The four Ghibellines and the three Guelphs readily admit that they change their 
 
 As the magi spend the day observing and interacting with the cardinals, let the players make Reputation rolls for each man they meet.
 
-### **The Animation**
+### The Animation
 
 Sitting on the northeast corner of the third floor balcony is a stone statue of a nude naiad. Sculpted to appear similar to the other statues, this is a recent addition, commissioned and enchanted by Buonacorsus. Awakened through a process of Virgilian magic, the Animation has the single power to make the interior of the Septizodium hot and humid. The Animation cannot move and is positioned so that its gaze runs up the slope of the Palatine Hill toward the Colosseum. To trigger the item, Buonacorsus leaves his secret hideout in the Colosseum, climbs to the top of the arcade, and waves a white cloth. If the animation sees the white cloth it activates its single power; the animation successfully sees the cloth on a Perception + Awareness + stress die roll against an Ease Factor of 12. The Animation's sight is limited by natural conditions and cannot see the Colosseum in the dark.
 
@@ -1372,7 +1372,7 @@ The Animation's effect can be lethal, over time and against a frail or elderly o
 
 cardinals. His magic is too time-consuming to create additional rites and he has exhausted his arsenal with those he has already cast. If the player characters cease at this point, having dealt with the Animation and perceiving no new threats, the cardinals are still in danger. Buonacorsus' rite to bring down the building, Suffer the Judgment of Jericho, is still waiting to be triggered.
 
-### **The Afternoon Vote and Evening**
+### The Afternoon Vote and Evening
 
 After lunch the cardinals debate a little bit more. If Buonacorsus knows the magi are in Rome then he has activated his Animation, which quiets most of the debate. Annibaldi uses his Corruption Supernatural Ability to influence those he speaks with, and by spending a Confidence Point he can instill a Personality Trait. He uses the environment's discomfort to his advantage, making it psychologically more bearable to those who agree to vote for him. This same power allows him to make his enemies even more uncomfortable. Personality Traits that might psychologically ease a sufferer's heat exhaustion grant the character a +1 to the Deprivation check forced by Buonacorsus' statue. The reverse is also true, and characters under an imposed negative Personality Trait receive a –1 penalty to the check.
 
@@ -1388,7 +1388,7 @@ During the night the faeries enter the cardinals' dreams. To those who can see t
 
 At night, the player characters must decide what to do, either sleep somewhere in the Septizodium or somewhere else. Oriens does not like Hermetic involvement. If the player characters leave the building at night, perhaps returning to Malgarita's shop to sleep, the demon sends a team of his minion demons after them to ambush them on the street. He won't become involved personally at this point and remains at the Septizodium watching his underling. Use this possibly dangerous interlude to break up the overall social nature of the adventure.
 
-### **Continued Deliberations**
+### Continued Deliberations
 
 Each day progresses as those before it. The leading candidates petitioning their fellows, shuffle to lunch, toss through an afternoon nap, vote indecisively, argue, and then go to bed. By now the magi should understand the situation and act to remove the interfering party that they were initially requested to stop. They should at this point realize that other parties are controlling the cardinals too. They might want to stop all supernatural manipulations. The faeries are difficult to remove, the demon dangerous, and the storyguide wizards absent, although the player characters can at least end Buonacorsus' heat wave by destroying the Animation.
 
@@ -1403,7 +1403,7 @@ Alyates gets frantic once other magi become involved. He is convinced that the m
 
 There isn't much Buonacorsus can do except activate his Animation, fret, and hope for a Ghibelline pope, preferable Castiglione. He activates his Animation in the morning. The Animation's effect makes the building smells like lavender, Buonacorsus' sigil.
 
-### **Forcing the Election**
+### Forcing the Election
 
 Tired of waiting, Orsini halves the cardinals' food and water rations a few days after the player characters enter the Septizodium. He threatens to stop sending food by the week's end. Everything should intensify and the added pressure should cause some cardinals to break and vote for anyone just to get out of the Septizodium. At the end of the week, if a decision still hasn't been made, Orsini agrees to the pleas for additional cardinals. Orsini carries the cardinals' petitions to the emperor, who releases the three cardinals from captivity and adds them to those already in the Septizodium. If the magi have successfully dealt with Oriens, Alyates, and the planetary divinities, the new cardinals tip the scales to the Gregorian's side. Within a few days Bonaventura is elected pope. If the player characters have not stopped Buonacorsus, Bonaventura and the assembled cardinals leaving the Septizodium triggers the rite Suffer the Judgment of Jericho and the building comes tumbling down.
 
@@ -1498,7 +1498,7 @@ a weak group of characters, and only the strongest spell-casters could survive t
 
 The City of Brass story is a quest; player characters are asked to visit the city to find something important and return alive. The storyguide needs a suitable reason for their troupe to become interested, and the following three ideas may be used alone or in any combination that ignites a group's interest. Selfmotivated players might be interested in the adventure in and of itself. In the spirit of high adventure, similar to the motivation in many of the original stories, your magi might decide to visit the City of Brass of their own volition.
 
-### **The Exotic Visitor**
+### The Exotic Visitor
 
 An elderly Egyptian Ex-Miscellanea magus named Ibrahim visits the covenant. He might be an old friend of one of the magi or merely a traveler asking for Hermetic hospitality. During dinner, he tells the characters the story of the City of Brass and reveals that 'Abd-Es-Samad is the founder of his magical lineage. He emphasizes the Brass Bottles of Suleiman, saying that his recent research focuses on identifying the magical secrets of these non-Hermetic objects. He has been unsuccessful, his original research foiled by a long succession of fraudulent relics, unpromising leads, and malign faerie interventions. However, he has recently acquired an authentic Brass Bottles of Solomon, and hopes it will provide the necessary Insight so that he can integrate Solomon's magic with Hermetic magic (see the Integration rules in *Ancient Magic*, pages 7-9).
 
@@ -1506,7 +1506,7 @@ If the magi take an interest in his research, Ibrahim shares his notes, hoping t
 
 If the characters express no interest in an expedition, Ibrahim leaves after a few days. It may be years before they hear from him again, when he writes them a letter discussing his sadness at his limited progress with the relic, which he has confirmed to be authentic. Shortly afterward, they hear of his passing into Final Twilight and the Brass Bottle mysteriously arrives at the player's covenant as a gift along with his blessing to use it as they will.
 
-### **The Tablet of Iron**
+### The Tablet of Iron
 
 The covenant receives a strange and mystical iron tablet as a gift, payment of a debt, part of a legal settlement, or assignment for investigation. The tablet is inscribed in ancient Greek with a long flowing verse, lamenting the transience of the material world. The homily reads:
 
@@ -1552,7 +1552,7 @@ incorporeal and cannot physically return it to its rightful place. Disposing of 
 
 The iron tablet might be an active Arcane Connection to the tomb of the Marble Palace, or the storyguide might rule that the link has faded during the intervening centuries, depending on which option best suits the troupe and the implementation of this story.
 
-### **Little Lost Brass Bottle**
+### Little Lost Brass Bottle
 
 The magi come into the possession of an authentic Brass Bottle of Solomon. This may be a gift from Ibrahim (see The Exotic Visitor, earlier), or acquired in whatever way makes most sense for your troupe. Analyzing the bottle in the lab, the magi may purposefully or accidentally release the imprisoned 'afrit (this could be the result of a "Special or Story Event" on the Experimentation & Extraordinary Results table). If released inside an area protected by an *Aegis of the Hearth*, the 'afrit's power is limited, which sours his attitude towards the "rescuer." Alternatively, if the bottle is discovered by a curious grog, companion, or apprentice, it may be opened unwittingly. This option may be more interesting for some troupes as it allows the involvement of non-magi in the story, particularly if the 'afrit is released outside the covenant and the magi only learn of it after the fact.
 
@@ -1608,7 +1608,7 @@ As a further complication, Solomon bound many spirits besides jinn, including gh
 
 \* Essential Trait
 
-### **Combat:**
+### Combat:
 
 *Fist*: Init +1, Attack +4, Defense +6, Damage +2
 
@@ -1624,7 +1624,7 @@ As a further complication, Solomon bound many spirits besides jinn, including gh
 
 **Abilities:** Arabic 5 (clever wordplay), Artes Liberales 1 (astronomy), Athletics 2 (leaping), Awareness 2 (alert), Bargain 4 (services), Brawl 4 (fistfight), Concentration 2 (powers), Dominion Lore 1 (Solomon), Finesse 2 (precision), Folk Ken 2 (desires), Guile 4 (twisted wording), Infernal Lore 1 (Iblis), Leadership 3 (intimidation), Magic Lore 3 (jinn), Penetration 2 (Lord of Fire), Second Sight 4 (spirits), Shapeshifter 3 (fiery being), Single Weapon 4 (scimitar), Theology: Islam 1 (jinn)
 
-### **Powers:**
+### Powers:
 
 *Corporeal Veil of the Jinn,* 0 points, Init –4, Corpus:
 
@@ -2134,7 +2134,7 @@ Da'ud is the caretaker of the Blessed Oasis, a location in the middle of the Egy
 
 plies for a planned trip into the desert. They do have trouble finding a local guide, especially if they make it known that they will be traveling off the usual trade routes in search of a city believed to exist only in legend.
 
-### **Al-Bawiti**
+### Al-Bawiti
 
 Regardless of where the characters began their journey, the last bastion of civilization before entering the desert is the village of Al–Bawiti. Though the weather is hot, this is not yet the desert. These are dry plains and grassland. The rural folk are nomadic goat herders, and have a few sources of water that they guard jealously. Al-Bawiti is the characters' last opportunity to rest, load up on supplies, and gain information.
 
@@ -2217,7 +2217,7 @@ Sorash is an angry jinni, a member of the wrath-driven Zawba'a tribe. He is not 
 
 cupy companion and grog characters, he can use this as way to give them the chance to shine. They can speak with the locals and gain added information that may be helpful in their quest, such as the best direction to travel, landmarks to look for, dangers to avoid or the location of a blessed oasis, and bits of the original tale. If the characters are itching for a fight, have them encounter a group of nomadic bandits.
 
-### **As-Sahara-al-Gharbiyah**
+### As-Sahara-al-Gharbiyah
 
 This is the Egyptian Sahara, the western desert. The weather is blistering hot and dangerously dry. It takes a month to reach the next stage of their journey, the Marble Palace. If the characters have some sort of advantage, such as directions from the locals in Al-Bawiti or someone possessing a Virtue such as Way of the Land: Desert, then it takes half as long. Unless special precautions are taken and specifically mentioned, water supplies run out.
 
@@ -2247,7 +2247,7 @@ The ghosts of King Kush's soldiers haunt the tombs of the Marble Palace. They po
 
 Kush himself was African, educated in Greece, and had served as an officer in Alexander's army. After Alexander's death he served Ptolemy as a regional governor, appointed king over the Western Desert.
 
-### **Spectral Soldiers of Kush**
+### Spectral Soldiers of Kush
 
 **Magic Might:** 10 to 30 (Mentem) (Low ranking soldiers are in the 10–15 range; high-ranking officers have Mights from 20 to 30)
 
@@ -2277,7 +2277,7 @@ Kush himself was African, educated in Greece, and had served as an officer in Al
 
 **Abilities:** Area Lore: Egypt 3 (things to lament), Artes Liberales 2 (literacy), Athletics 3 (marching), Awareness 3 (in combat), Bargain 2 (haggle), Brawl 5 (dagger), Carouse 2 (drinking), Folk Ken 2 (warriors), Greek 5 (ancient), Profession: Soldier 5 (honor guard), Single Weapon 6 (with shield), Survival 2 (forage)
 
-### **Powers:**
+### Powers:
 
 *Strike*, 0 points, Init special, Terram The soldier can strike to inflict injury upon corporeal beings, its weapon being made solid for that split second. Initiative is based upon the soldier's Combat scores.
 
@@ -2295,7 +2295,7 @@ ReCo25 (Base 10, +1 Touch, +2 Sun; Lesser Power (25 levels, -5 cost); Restricted
 
 The Magic Might of these spirits varies according to their soldierly rank. Most have a Might of 10 to 15, higher-ranking officers have a score as high as 30, and Prince Keshan has a Might of 40.
 
-### **Specter of Prince Keshan**
+### Specter of Prince Keshan
 
 **Magic Might:** 40 (Mentem)
 
@@ -2317,11 +2317,11 @@ The Magic Might of these spirits varies according to their soldierly rank. Most 
 
 Desert Bandits encounter can be used as a warm-up combat. The Blessed Oasis can be used if the expedition is in sore need of aid and comfort, and should be reached before anyone suffers lethal injury from the sun. The Scorching Sand is used to inject an element of real danger.
 
-### **The Desert Bandits**
+### The Desert Bandits
 
 The trails of North Africa are plagued by bandits who prey upon travelers and merchant caravans. Berber and Arab nomads form gangs of a dozen or more, supporting their tribes through thievery and plunder. A favored tactic is for one of their number to infiltrate a party posing as a fellow traveler or a laborer. He then steers the party into an ambush and robs them blind. The infiltrator may be discovered beforehand to give the characters an advantage, or the infiltration aspect can be discarded and you can have bandits simply jump the characters at some point where terrain is well suited for an ambush. Use the statistics given for 'Umar, a typical desert bandit, and adjust the size of the gang to suit the combat prowess of the expedition. To give the bandits an advantage, grant one of them possession of a Brass Bottle and command over an 'afrit with Magic Might 15.
 
-### **The Blessed Oasis**
+### The Blessed Oasis
 
 The Blessed Oasis is easily mistaken for a mirage, and the storyguide may wish to tease the players by making it seem ever on the horizon, so that the characters arrive there suddenly when they have grown weary of chasing it.
 
@@ -2333,7 +2333,7 @@ Power, Gentle Air, Greater Power (x2), No Fatigue; Improved Abilities (x14), Imp
 
 **Personality Traits:** Brave +3, Determined +3, Dutiful +3, Loyal +3
 
-### **Combat:**
+### Combat:
 
 *Short Sword/Round Shield*: Init +3, Attack +11/+12, Defense +10/+13, Damage +8
 
@@ -2343,7 +2343,7 @@ Power, Gentle Air, Greater Power (x2), No Fatigue; Improved Abilities (x14), Imp
 
 **Abilities:** Area Lore: Egypt 4 (things to lament), Artes Liberales 3 (astronomy), Athletics 3 (marching), Awareness 3 (in combat), Bargain 4 (haggle), Brawl 5 (dagger), Carouse 2 (drinking), Charm 3 (wit), Coptic 4 (ancient), Etiquette 4 (courtly), Folk Ken 3 (warriors), Greek 5 (ancient), Hunt 2 (track), Intrigue 4 (alliances), Leadership 6 (soldiers), Philosophiae 3 (natural), Profession: Soldier 5 (honor guard), Single Weapon 7 (with shield), Survival 2 (forage)
 
-### **Powers:**
+### Powers:
 
 *Strike*, 0 points, Init special, Terram CrTe 10 (Base 5, +1 Touch); Lesser Power (10 levels, –2 cost, special Initiative)
 
@@ -2386,7 +2386,7 @@ The Oasis is inhabited by a jinni named Da'ud, the genius loci and caretaker of 
 
 He also has a habit of showing off his knowledge and cannot help but let information slip from his lips. He is happy to tell the characters how to get to the Marble Palace and everything he knows about it. On their own it would take a week, but if the characters follow his directions they get there in three days. If Da'ud joins the expedition, he can lead them there in a single day.
 
-### **The Scorching Sand**
+### The Scorching Sand
 
 In this encounter, the characters face the threat of a severe sandstorm, a natural hazard that carries with it a supernatural menace. The sandstorm picks up slowly as the characters travel, at first being a mild annoyance, then building to obscure vision, and eventually increasing to the point of inflicting a stress die + 5 points of damage per round of exposure to it. The sandstorm is completely natural and Magic Resistance provides no protection, although Auram or Terram Form Bonuses add to a magus' Soak roll. On the other hand, as it is completely natural, Rego Auram and Rego Terram spells can provide complete protection.
 
@@ -2484,7 +2484,7 @@ ical architecture used in the palace's construction. The regio has an aura of 8 
 
 The Marble Palace is a gateway between the mundane realm and the City of Brass, which is located in the Magic Realm. Gateways such as this are very rare, House Mercere has documented only a handful, and this can be a valuable resource and story seed for future use if desired, particularly if the characters take the trouble to obtain an Arcane Connection to the building.
 
-### **Tombs of the Four Hundred**
+### Tombs of the Four Hundred
 
 The palace is utterly deserted on both the mundane and regio level. The chambers and living quarters are empty, and there is no sign of anyone having lived there in many centuries. The only evidence of human presence that can be found are the tombs of four hundred soldiers, located under a lofty dome in the center of the palace. The tombs are arranged in a great circle surrounding a smaller domed chamber, and are all made of gray stone, except for the tomb of the prince which is made of white marble. Each tomb contains the skeletal corpse of an ancient soldier, buried with his arms and armor, and each corpse is tied to a specter.
 
@@ -2533,7 +2533,7 @@ Activating the statue mystically opens a path to another Magic regio containing 
 
 If characters stray off the path into the endless desert, they are blinded by the sun's glare and suffer +6 heat damage per round. They also run the risk of being attacked by wild 'afarit or other creatures that have strayed into this regio from the Magic realm or are traveling to the City of Brass.
 
-### **The Basalt Pillar**
+### The Basalt Pillar
 
 *Extolled be the perfection of my Lord, who hath appointed me this severe affliction and painful torture until the day of resurrection!*
 
@@ -2603,7 +2603,7 @@ The Malik's court is crowded day and night with throngs of jinn seeking the king
 
 The constant circus of the Malik's court continues without end, but occasionally the Malik is absent from court when he chooses to take rest. Every seven days or so, the Daimon discards the Malik Aspect, and reappears a day or two latter upon his throne of red carnelian.
 
-### **Gaining an Audience**
+### Gaining an Audience
 
 Along the outer walls stand the common masses, all seeking but a moment of the Malik's time. Though the Malik may seem frivolous and jovial, he is easily offended and has a fierce temper. He calls upon those seeking audience as it pleases him, and it can take hours, days, or years of constantly mingling in court to receive his call.
 
@@ -2747,7 +2747,7 @@ The following characters play major roles in the story.
 
 Soterist is the name given to and informally adopted by groups of magi across Mythic Europe who strive to achieve some kind of harmonization between the Order of Hermes and the Dominion. They are drawn mainly from the Latin houses, and although relatively few in number the power they represent is considerable. While much of what they — Relisius primarily — do in this story is blatantly in breach of the Code, their political power is even greater than their magical and academic power. Having the sympathy of many Quaesitors and other high ranking magi, Praecones, or archmages, they are a force to be reckoned with. Until now though, all they have done is talk, to try to gather support for their cause and affect political decisions in order to ease their plans. Many of them are working on grand magical projects to attain this harmonization, but most simply support the cause hoping for some breakthrough. Although converting to Holy Magic (*Realms of Power: The Divine Revised Edition,*  pages 66–70) serves this purpose, the ideal is a solution requiting little or no sacrifice of the freedom and power of Hermetic magic.
 
-### **Relisius, Magus ex Bonisagus (Ash Guild)**
+### Relisius, Magus ex Bonisagus (Ash Guild)
 
 **Age:** 104 (78) (Archmage) **Personality Traits:** Calculating +2, En-
 
@@ -2759,7 +2759,7 @@ Born, bred, and Gauntleted in the Normandy Tribunal, Relisius was reared in the 
 
 At first glance, he has the neat, professional, and slightly dusty appearance which many — if not most — magi of his House are known for. Old, but with alert eyes and strong features, a full head of white hair and a neatly trimmed beard, he wears comfortable, luxurious robes and a cloak. On closer inspection, and especially if engaged in conversation, he comes off as a driven man, almost bordering on fanaticism and insanity — but without crossing the line in his words. He has two Twilight Scars: When caught in a sunbeam, dust motes circle his head; the heavy, perfumed scent of incense follows him.
 
-### **Relisius' Plans**
+### Relisius' Plans
 
 Despite being neither the founder nor the most outspoken proponent of the Soterist cause, Relisius is recognized as the unofficial leader and spokesperson in this Tribunal. If the official statements of sympathetic magi are anything to go by, he is merely one of many. But to the chagrin of all his political opponents, as well as the large group of neutral magi, he has started to act to achieve his goals. Since moving to the Tribunal at least a decade ago, he has managed to mobilize substantial support for his cause in the form of actively collaborating magi as well as passive supporters. He values both, because at some point the neutral magi must throw their support behind
 
@@ -2767,7 +2767,7 @@ Despite being neither the founder nor the most outspoken proponent of the Soteri
 
 Relisius has agents — younger magi of about 25–30 years post-Gauntlet — working for him to monitor and patrol the area around the village, and to accompany the villagers and his other workers for projects like The Clay Pit. The list here gives some suitable Art scores. The storyguide need only choose a set and assign the Arts. Give each magus around 200 spell levels, with a highest individual spell level of Technique + Form + 10. This method can also be used for agents from the Wächter faction.
 
-### **Generic Agent Magi**
+### Generic Agent Magi
 
 **Specialist Magus:** One Technique and one Form at 24
 
@@ -2850,11 +2850,11 @@ For example, the storyguide needs an Agent to foil the mind control used on some
 
 *Circular Ward against Faeries* (ReVi25/+54) Mastery 1 (Penetration)
 
-### **Normandy Tribunal**
+### Normandy Tribunal
 
 No significant changes necessary since his concept defines him as reared in these parts. He does not have a guild affiliation or rank.
 
-### **Thebes Tribunal**
+### Thebes Tribunal
 
 He does not have a guild affiliation or rank. He has spent enough time here to familiarize himself with the order of things, but need not be a polites.
 
@@ -2867,7 +2867,7 @@ Prior to these events he has been testing many of his methods on a smaller scale
 
 Relisius himself is the kingpin, the power behind the scenes. He relies on his old comrade in arms Petrus for the practical implementation of his plan, along with other agents and sympathizers. Full game statistics are given here for Petrus. Short notes primarily for inspiration and roleplaying guidance are given afterward for additional Soterists.
 
-### **Additional Soterists**
+### Additional Soterists
 
 Relisius and Petrus are backed up by quite a few other magi in the Soterist circle, all of whom support Relisius' philosophy. They're not all involved in his current plan; about a dozen select magi know of it — and they only know what Relisius believes they need to know. These additional magi are his underlings and are younger and less experienced in Hermetic terms than him. Rather than including full stats for a lot of magi who may or may not be used in this story, the following section outlines magi he is likely to have included in his plans and suggests how to create them.
 
@@ -2910,15 +2910,15 @@ Iselin is a slight and delicately featured mature woman. In Wächter circles, sh
 
 in a state of constant flux. Few people dare meet her gaze for more than a moment; the swirling greens have confused many a magus during debate. Little is known about her magical skills, but she is famous for her great network of faerie allies and contacts, as well as her bargaining skills with them. Rumor has it that she has all but united all the cohesive faerie courts in the Rhine Tribunal, a rumor she spends no energy on. Her friend and ally for at least a decade is Timian, who carries out the practical parts of the Wächter's plans. Iselin has two Twilight Scars as follows: Myrtle leaves grow spontaneously among her dark curls, and her cape and hair flow mysteriously in unfelt air currents, with the edge and tips scattering glittering sparkles.
 
-### **Iselin's Plans**
+### Iselin's Plans
 
 Her present plan — the concept she seeks to spread to all groups of Wächter — is to stop the petty sabotage and start thinking big. She knows the Soterists are up to no good, helping the mundanes spread their settlements and influence. So why not just help them along? At first, the idea is to work within the lines of what the Soterists are doing, because they are bound to tread lightly at first. In time, they might make mistakes and overdo things. If not, the Wächter just step up their help to an extreme, making it quite obviously supernatural, hoping something blows up. Either the Soterists are framed and convicted of interfering with the mundanes, or undecided magi see the folly of the Soterist goal and give their support to the Wächter. The Wächter are willing to sacrifice much, even to strike the first blow if things come to war. Many Wächter have no qualms about breaking the Code; after all, the better organized and politically inclined Soterists might use the Code against them. If they must become renegades or even die, it is a sacrifice many are willing to make. They might disappear into the wild or a faerie regio for a long time, and perhaps take on new identities. Iselin's use of faeries in her plans is brilliant, because not only will faeries killed reform in time and return to take their part yet again, but molesting the fay is also a breach of the Code. She has planned carefully which faeries to use and how, since her plans must mesh perfectly with the cognizance of the faeries used, the story they embody, and which part they play.
 
-### **Additional Wächter**
+### Additional Wächter
 
 This faction, like the Soterists, also includes in its ranks a handful of co-conspirators for Iselin. These magi should be prepared as for the Soterists. Houses most likely to be represented are the nature-oriented ones and those of Germanic origin: Merinita, Bjornaer, and Ex Miscellanea. Nevertheless, the ranks might also include Verditii wanting to preserve as much vis as possible, only to harvest it at the first opportunity. It is vital to her that her comrades in arms master magic related to nature, namely that involving animals, plants, weather, earth and water. They might focus on the physical objects themselves, Airy Spirits (*Realms of Power: Magic*, page 103), or Elementals (*Realms of Power: Magic*, page 132). Here is a single example magus for inspiration.
 
-### **Heike, Follower of Bjornaer (Hawthorn Guild)**
+### Heike, Follower of Bjornaer (Hawthorn Guild)
 
 **Age:** 52 (Master)
 
@@ -2932,7 +2932,7 @@ The events of the story may draw in other magi from the Tribunal. The following 
 
 
 
-### **Wolfgang, Follower of Flambeau (Oak Guild)**
+### Wolfgang, Follower of Flambeau (Oak Guild)
 
 **Age:** 54 (Master)
 
@@ -2940,7 +2940,7 @@ The events of the story may draw in other magi from the Tribunal. The following 
 
 Wolfgang is an able Hoplite from the School of Vilano. His reputation precedes him as a no-nonsense and single-minded magus. He follows the letter of the law and ruthlessly brings justice to culprits as he is ordered to do. He uses no more force than necessary, but pays little heed to attempts to buy him, negotiate, or weasel out of the situation. He believes wholeheartedly in the Code being integral to the stability of the Order as a whole, and willingly accepts any censure or penalty laid upon him by just leadership.
 
-### **Delia, Follower of Guernicus (Apple Guild)**
+### Delia, Follower of Guernicus (Apple Guild)
 
 **Age:** 36 (Journeyman)
 
@@ -2953,11 +2953,11 @@ Delia is a young Quaesitor who is notably skillful for her age, though not excep
 Stats are given for a few of the major and important characters in the vil-
 
 
-# **Dieter von Brandhöfen, Priest**
+# Dieter von Brandhöfen, Priest
 
 Born to impoverished parents and raised under trying conditions on the lowest rungs of society in the local area, Dieter is used to fighting for everything. Around the age of 10, he was orphaned, and a kind old priest took him in and schooled him alongside the more privileged children he was tutoring. Already an unscrupulous child, Dieter missed no opportunity to use the old priest to his own benefit. In the end, Dieter clawed his way up out of the gutter and was allowed to serve in a somewhat special way. His demeanor was unsuited to the monastic life, and his aggressive approach to serving the Lord resulted in his less established position as a wandering religious man. He has been granted a leave of absence by the bishop, allowing him to reside in the village prior to the church being built. He is meant to take care of the flock but actually travels quite a bit to recruit more workers. Once the church is finished, he presides as priest, but continues occasional recruitment expeditions. His forceful and heartfelt sermons, as well as his habit of instilling loyalty in others, are useful to the Church as a whole. His superiors move him around a lot, or use him for specific and unconventional missions, to avoid trouble in established communities. If the story is set in the Theban Tribunal, he is called Alexios Kouvanos, or Maurice Arrante if in Normandy.
 
-### **Axel Gusseisen, Engineer**
+### Axel Gusseisen, Engineer
 
 Axel is a good-humored and pragmatic engineer from the mountainous southern part of Germany. Originally trained as a mason, he has studied the
 
@@ -3035,11 +3035,11 @@ F) includes Focus
 
 Timian is Iselin's senior in years only; in the Wächter cause he defers to her. Even though they have a lot in common regarding dealing with the faeries, they do things in different ways. Iselin has a way with words and plans, and in general has a lot of clout in the faerie courts. Timian prefers to be out in the field, play it by ear, and accompany the faeries as they take action. He works with faeries as tools of the cause as well as liaising with potential sympathizers.
 
-### **Normandy Tribunal**
+### Normandy Tribunal
 
 No significant changes, except that he has no guild affiliation or rank.
 
-### **Thebes Tribunal**
+### Thebes Tribunal
 
 Timian needs to have spent enough time to gain Social Contacts, but less time than Iselin has needed to gain power over the Faerie leaders. His concept as a native of north-western Europe can be retained or he can be changed to a faerie magus from Greek culture. Replace Speak German with Speak Greek and change the speciality of Faerie Lore from High Faeries to Olympian gods. He does not, however, need to have achieved citizenship, and has consequently not served as an arche.
 
@@ -3080,7 +3080,7 @@ If game statistics are important, refer to the Craftsman in Covenants, page 45, 
 
 If the story is set in the Theban Tribunal, he is called Jorgo Stephanopoulos; if in Normandy, call him Claude de Fer instead.
 
-### **Bishop Emerich**
+### Bishop Emerich
 
 The bishop of the diocese in which the story takes place is not intended to play an important part. He is used primarily to avoid involving too many mundane officials in order to focus on the antagonistic magi, and to limit the number of times the player magi risk breaking the Code by meddling with important people. Relisius has managed to get all the needed permissions from both the civil and religious authorities for his settlement. The bishop is an important and busy man, surrounded by his own aides and one of Relisius' agents. This makes him difficult to approach, but if he is contacted by letter his aides reply. The only time he appears in person is at the consecration of the church. Here he makes the minimal appearance required, escorted by professional bodyguards and accompanied by a few aides. He is by no means difficult to reach by mundane or magical means, and he is not sufficiently pious nor high ranking to have any Magic Resistance.
 
@@ -3112,15 +3112,15 @@ The following sequence of events happens if the magi react cautiously to the gro
 
 # Overview of the Story
 
-### **Events with a time-frame**
+### Events with a time-frame
 
 Prelude: Preparations for the Village Act I: Settlement of the Village Act II: A Church is Built Act III: The Clay Pit Act IV: Growing Tension Act V: First Blood Act VI: Open War
 
-### **Free-floating events**
+### Free-floating events
 
 Investigation Sabotage Hermetic Society
 
-### **Countermeasures**
+### Countermeasures
 
 Situation I: Alerting the Quaesitors Situation II: A Violent End Situation III: Siding with the Soterists Situation IV: Siding with the Wächter
 
@@ -3143,35 +3143,35 @@ Depending on how much time elapses between scouting missions, the changes may ap
 
 This section outlines what happens and when as the village expands, if noone else interferes. To begin with the help is from the Soterists and discreet. Eventually the Wächter start to give overt help to expose the situation and give their side an excuse to strike the village down.
 
-### **Year One**
+### Year One
 
 Lumberjacks and workers clear trees and, in time, build communal houses. About a dozen families move in, and surprisingly large herds of live-
 
 
-### **Year Two**
+### Year Two
 
 Villagers build their individual cottages along the river. There is no lack of raw materials and the work is fast and skilled work. New families of peasants, workers and craftsmen come trickling in throughout the year and are housed communally until they can build their own homes. Farmlands expand and livestock donated by the backer arrive as well. Work on a wooden church starts. Population exceeds 50 adults, and the mild weather and ample food works wonders for both children and the elderly. The magic used is the same as in the first year, but more frequent due to the increased population. Several different Mentem effects, using all techniques and between magnitudes 3 and 8 are cast periodically in no discernible pattern, mainly used by Relisius' agents to cultivate the mentality he needs from the villagers and root out any problems before they escalate.
 
-### **Year Three**
+### Year Three
 
 A smithy, several wells, and a watermill are built during the year. Large amounts of surplus meat, grain, and hides are stored in one of the communal halls. Population almost doubles. This year, several wonders happen. Some of the fields and orchards grow
 
 
 from seedlings to full bloom overnight, allowing a second harvest. Entire generations of young animals grow to maturity in a day. Scores of trees are felled and cut to lumber in the blink of an eye. These events are interpreted as miracles and received well by the populace. Magic used for the aforementioned wonders includes maturing animals or crops (CrAn base 3 magnitude, +1 touch, +2 sun, +2 group, +1 size, and similar Herbam guidelines for fields of crops). Craft magic guidelines from Houses of Hermes: Societates, page 60–61 provide a good idea of what magic is necessary to instantly transform raw materials into a finished product. As an example, a Rego Herbam magnitude 3 Touch/Momentary/Individual effect transforms a large tree into a wooden product, with higher magnitudes affecting more trees at once. The user does require a high Finesse, however.
 
-### **Year Four**
+### Year Four
 
 The common storage hall becomes a trading post for the surplus resources, as well as an ale house and lodgings for travelers. Raw materials for the craftsmen begin to arrive at a steady pace, as does salt for preserving the meat. Population is still growing, and although not as quickly as during the first years, it is still significantly faster than that of an average village. Magic use here is no greater than the second year.
 
-### **Year Five**
+### Year Five
 
 Specialists like masons and engineers move in, many of whom are familiar with the idea of getting help from magi through enchanted devices. The workshops of the craftsmen see improvements, and they start to produce enough wares to sell at the trading post. Work also starts on digging a clay pit, constructing a kiln for firing bricks, and making mortar. The roads, fords and bridges in the area are vastly improved, allowing travel almost regardless of season or weather. More magical devices helping the workers find their way into the village, such as Creo Ignem and Rego Terram devices helping the blacksmith heat his forge and work the iron, the diggers extract clay from the pit and, the tile makers heat the kiln.
 
-### **Year Six**
+### Year Six
 
 The foundations for a stone church are laid. It is planned in such a way that the old wooden church becomes a secondary building for the new one. Work starts on a crypt for keeping several holy relics and saints' bones, as well as on the bell tower. Craft magic is employed to aid the stone cutters and masons, using the guidelines from *Houses of Hermes: Societates*, pages 60–61.
 
-### **Year Seven and Onwards**
+### Year Seven and Onwards
 
 During this year the stone church is finished, and once the bell is installed, the Dominion spreads. The still-growing population thrives and expands further into the surrounding woods in their search for lumber and for hunting and gathering. Several local Magic and Faerie auras wither away. If things make it this far, the Soterists have achieved their goal — for now — in this place and tone down their involvement. Henceforth, they merely monitor the situation and area and avoid significant magical intervention, relying instead on their influence to send in or recruit the needed resources or persons. There are plans to erect more stone buildings and eventually wall the settlement, once it reaches the size of a town. The old fields are converted into sites for dwellings and shops, and a larger area around the town is laid out for fields and pastures. Such an event
 
@@ -3447,30 +3447,30 @@ As outlined in the section Alerting the Quaesitors, earlier, many actions and si
 
 to Tribunal, and saga to saga, but the following notes should help the storyguide to prepare.
 
-### **Deprivation of Magical Power**
+### Deprivation of Magical Power
 
 While damage to The Gift is the ultimate violation of this provision of the Code, all situations where a magus is injured could bring charges of deprivation if it hampers mobility or spellcasting abilities. The same applies to any theft of or damage to magical property. Some situations where a magus spoils another magus' projects or plans causing him to waste vis or significant amounts of time could also be covered by deprivation. Examples are Soterists who demand restitution for vis and wasted time if the village is foiled. Of course, the Soterist may have been breaking the Code himself.
 
 Unless The Gift of a magus is damaged or something as important and valuable as a Familiar or Talisman is lost, the consequence of this Code breach is most likely a vis fine or some other minor penalty, and should be settled out of court. Only the gravest, or most controversial, cases find their way to Tribunal.
 
-### **Slaying a Magus**
+### Slaying a Magus
 
 This is a most heinous crime, and even attempting to kill a magus is punished, most likely with a Wizard's March. If the situation escalates and the player magi come to blows with either Soterists or Wächter, charges are brought against them; they may also bring their own charges. This sort of case goes to Tribunal unless it is impossible to prove what happened. If the defendant is seen to be guilty of negligence or questionable behavior, rather than outright and premeditated murder, the punishment could be the loss of apprentice, Familiar, or Talisman rather than death.
 
-### **Abide by Tribunal Decisions**
+### Abide by Tribunal Decisions
 
 If this story goes on for many years and a Tribunal passes, there might be rulings either allowing the Wächter to protect the wild lands or deciding that support of Willehad-im-Wald is legal. Player magi might disagree with this and act against the decisions, and therefore be in violation of this provision. Penalties are likely to be much more severe than they would be for the actions themselves, as the player magi have directly challenged the authority of the Tribunal; the Quaesitores, in particular, take a very dim view of this.
 
-### **Endangering the Order**
+### Endangering the Order
 
 If Willehad-im-Wald is razed, killing many innocents, the Bishop is none too pleased, and investigates. Such an investigation poses a real threat to the Order in that area, and, if the threat is averted, charges are very likely to be brought against the magi who are seen to be responsible. As the actions of the Wächter might lead to the destruction of the player covenant, the player magi could be the ones bringing the charges. Punishment can include Wizard's March, particularly if any magi actually suffered serious damage.
 
-### **Mundane Interference**
+### Mundane Interference
 
 This provision serves to prevent magi dragging the Order into the disputes of Mythic Europe by taking the side of one noble or clergyman over another. The situation with Willehad-im-Wald is certainly about furthering artificial growth, and that indirectly increases the power of the bishop, as the village is on his land. However, the bishop does not know that the growth is magically assisted, so the actions are unlikely to lead to more demands for magical help. This case could be argued either way, and even on a con-
 
 
-### **Molesting the Fey**
+### Molesting the Fey
 
 The player magi may well come to blows with the Faerie Huntsmen used by the Wächter, which might open them to this charge. Bear in mind that a magus has the right to defend himself and retaliate, so it matters greatly who struck the first blow. The same charge could also be brought against the Wächter for their manipulation of the fay.
 
@@ -3580,7 +3580,7 @@ Detailed information on tainted vis can be found in *Realms of Power: The Infern
 
 **Reputations:** Pirate lord 6 (everyone who uses the English Channel), Infernal wizard 2 (just about everybody), Hero of the peasantry 3 (Brittany).
 
-### **Combat:**
+### Combat:
 
 *Short sword:* Init +1, Attack +12, Defense +10, Damage +5
 
@@ -3596,7 +3596,7 @@ Detailed information on tainted vis can be found in *Realms of Power: The Infern
 - \*\* Infernally tainted Second Sight. No mechanical effect, but changes what he sees so that he is more likely to sin.
 - \*\*\* Provided use is sinful, –3 if neutral or virtuous.
 
-### **Powers:**
+### Powers:
 
 *Death prophecy,* 0 points, Init 0, Vim: Eustace must die at sea. He's simply unable to die on land. Regardless of how much he suffers on land, his servants can eventually put him back together.
 
@@ -3624,7 +3624,7 @@ Eustace is a skilled warrior, and has some magical talents granted by his Infern
 
 **Result:** Before joining the Church, Eustace spent some time in Italy, then in Toledo, where he developed skills useful to his current career of sin. In Northern Italy he learned the ways of Mediterranean piracy. These techniques were novel in the English Channel. He studied the black arts in Toledo.
 
-### **Roll: 15+**
+### Roll: 15+
 
 **Result:** Returning from his studies, he took vows as a monk at the monastery of Samer, eight miles south east of the city of Boulogne. He cast spells in the kitchen of the monastery. His initial curses were experiments, which forced the monks to curse when they should pray, fast when they should eat, and go barefoot in snow. Later he took complete control of the monks, stole all of their valuables, and then gambled them away against an innkeeper. The monastery was abandoned, and is in ruins.
 
@@ -3682,7 +3682,7 @@ Dead (21+)
 
 ate men. The vast invasion fleet, led by Eustace, failed to defeat the English defenders. It was scattered by a miraculous hurricane, produced by Saint Bartholomew. Eustace retreated to his base in Sark.
 
-### **Infernal Lore only:**
+### Infernal Lore only:
 
 **Roll: 12+**
 
@@ -3732,7 +3732,7 @@ Once the necessity of battle is clear to the player characters, the story revolv
 
 The characters need a reason to meet Eustace in battle, and this should vary to suit each saga. Some suggestions follow.
 
-### **Aiding a Slighted King**
+### Aiding a Slighted King
 
 The Order doesn't take sides in the mundane wars, but Eustace does. He is known to be a magician, and auctions his services in the most public way. He terrifies rulers, extorts noblemen, and pillages commoners. Eustace is such a villain that even other Satanists hate him. It's clearly to the Order's benefit for him to be removed.
 
@@ -3862,13 +3862,13 @@ The shantyman can always continue leading his songs while engaged in combat, but
 
 Shantymen are demons whose songs provide nearby humans with False Powers. Each shantyman knows several songs, but can sing only one at a time. Eustace has one of these creatures on each of his ships.
 
-### **In Response To A Raid**
+### In Response To A Raid
 
 Eustace needs supplies to keep his fleet seaworthy and he gains these, in part, by raiding shipping and port facilities. Many covenants have excellent port facilities or links to merchant houses. Eustace is proud, and chronically underestimates his opponents, so the excellent timber, spars, cordage, and provisions stored in the covenant's warehouses are not safe from him.
 
 This hook begins the story with a raid, in which lesser characters, like grogs and companions, defend against a ship of Eustace's men, perhaps aided by a demon. The hook works best if Eustace's forces do serious damage or, when driven off, promise to return with greater force.
 
-### **In Response To Piracy**
+### In Response To Piracy
 
 In this hook, Eustace's forces capture a ship allied with the player characters. This is similar to the previous hook, but involves a different mix of characters. One interesting framing device is for the storyguide to inform the players that word has reached the characters of the loss of this ship. The storyguide then gives the players pregenerated characters, telling them they shouldn't get too attached to them. The battle is played as a flashback, narrated by a witness who is not initially identified. The better the temporary characters do, the more information they can pass to the usual player characters.
 
@@ -3876,7 +3876,7 @@ This is a survival story. These disposable player characters almost certainly wo
 
 If the temporary characters do kill Eustace, say that the battle occurred two years ago, and then segue into a version of the story with an alternate but similar pirate lord. Options for alternatives are given in the Changing the Story section, earlier.
 
-### **Revenge For a Slain Redcap**
+### Revenge For a Slain Redcap
 
 This is a much-used hook, but an easy one to fit into most sagas. Eustace captured, tortured, and killed a Redcap.
 
@@ -3927,7 +3927,7 @@ Sheeteaters are demonic flying fish. Their name comes from their habit of sabota
 
 This obliges all Hermetic magi to plot revenge against him. Other covenants, worried that Eustace has deliberately sought information about their placement and power, offer resources to the player characters when they strike at him.
 
-### **Striking Back at Eustace's Sponsor**
+### Striking Back at Eustace's Sponsor
 
 Eustace is supported by a powerful demon. If the characters have previously feuded with this creature, then destroying one of his most powerful minions is a great victory. The characters may become aware of the connection between their foe and Eustace as a reward for completing a previous story, through the intercession of Saint Bartholomew,
 
@@ -3980,7 +3980,7 @@ Int +1, Per +1, Pre 0, Com 0, Str 0, Sta +1, Dex +2, Qik +3
 
 \* Assumes that the thrown item is a rock. If it's a knife, the Damage is +3 higher. If it's a degrading thing, the Attack is +1 higher, but the damage is likely +0.
 
-### **Soak:**
+### Soak:
 
 *Ape forms* +3 *Mockery form* +6 **Fatigue Levels:**
 
@@ -3988,19 +3988,19 @@ Int +1, Per +1, Pre 0, Com 0, Str 0, Sta +1, Dex +2, Qik +3
 
 –3, –5, Unconscious *Dead ape form:* Tireless.
 
-### **Wound Penalties**:
+### Wound Penalties:
 
 *Ape form:* –1 (1–6), –3 (7–12), –5 (13– 19), Incapacitated (20–26), Dead (27+)
 
 *Mockery form:* –1 (1–3), –2 (4–6), –3 (7–9), Incapacitated (10–12), Dead (13+)
 
-### **Abilities:**
+### Abilities:
 
 *Ape Form:* Area Lore: Sark 2 (La Moinerie), Athletics 4 (climbing), Animal Handling 3 (apes), Awareness 3 (predators), Brawl 7 (fists), Hunt 2 (things apes eat), Infernal Lore 4 (demon worshippers), Single Weapon 3 (axe), Survival 5 (ape), Thrown Weapon 7 (degrading things).
 
 *Mockery Form:* Area Lore: Sark 2 (La Moinerie), Athletics 4 (climbing), Animal Handling 3 (apes), Awareness 3 (predators), Brawl 3 (claws), Hunt 2 (things apes eat), Infernal Lore 4 (demon worshippers), Single Weapon 3 (axe), Survival 5 (ape), Thrown Weapon 2 (degrading things).
 
-### **Powers:**
+### Powers:
 
 *Coagulation*, 1 point, Init –1, Corpus. *Envisioning;* 1 point, Init +0, Mentem. *Obsession*, 1 point, Init –5, Vim: Debauched
 
@@ -4075,7 +4075,7 @@ or because the agents of Hell have fallen out with each other. Stephen Crabbe, E
 
 Characters may stumble into this story by visiting one of these sites first. Once they have cleansed that site and gained resources that make Eustace vulnerable, they may begin plotting his destruction.
 
-# **When You Have a Hammer, Everything Looks Like A Nail**
+# When You Have a Hammer, Everything Looks Like A Nail
 
 Some violent magi like smashing things, and Eustace is outside Hermetic, mundane, and Divine law. That might be enough.
 
@@ -4089,7 +4089,7 @@ Eustace has been famously active in several places. Characters may travel to the
 
 The options here are tied to the places where Eustace has been active, but a storyguide who feels one of these scenarios suits his troupe better than the others can switch the defenders and rewards.
 
-### **Winchelsea**
+### Winchelsea
 
 Eustace's palace in Winchelsea is the least disturbed of his lairs, excepting Sark. He was driven from it by King John's men, but his servants and allies survived his expulsion, and flourish. The noble family gifted his property by the king were pruned down by assassination until a diabolist was the rightful heir.
 
@@ -4119,7 +4119,7 @@ sea Pirates 3 (Infernal)
 
 **Abilities:** Area Lore: London 5 (Infernal sites), Awareness 3 (threats), Bargains 3 (merchants), Charm 5 (infernalists), Folk Ken 3 (pirates), French 5 (pirates), Infernal Lore 4 (pirates), Intrigue 6 (infernalists), Leadership 4 (pirates), Organization Lore: Pirate Fleet 6 (logistics).
 
-### **Powers:**
+### Powers:
 
 *Envisioning;* 1 point, Init +0, Mentem. *Elemental Control of Flame,* variable points, Init +1, Ignem: May create any Creo, Muto or Rego Ignem effect at the cost of one Might point per magnitude of effect. Helen cannot create effects greater than level 25, and cannot create ritual effects.
 
@@ -4133,7 +4133,7 @@ sea Pirates 3 (Infernal)
 
 alliance seems profitable. Rego Mentem or Rego Vim spells can also compel her to give information.
 
-### **London Palace**
+### London Palace
 
 The London palace was built before Eustace became a pirate. Its foundations were dedicated to Fruitio, The Whisperer of Names, an earlier demonic patron whom Eustace forsook for Argenta. This creature still manifests at the palace, but has no love for the Monk, and might steer characters toward his weaknesses in exchange for a favors.
 
@@ -4371,13 +4371,13 @@ Immune to blades and piercing weapons; sources of fire that do less than +35 dam
 
 **Personality Traits:** Sadistic +3, Steadfast +3.
 
-### **Combat:**
+### Combat:
 
 *Domestic implement (as knife):* Init +0, Attack +9\*, Defense +7, Damage +3\* These scores do not include the physical Characteristics of the host.
 
 \* Once stained with someone else's blood, the Red Maid's Attack and Damage increase. See the Final Girl Virtue.
 
-### **Soak:** 0\
+### Soak: 0\
 
 \* Once bloodstained, this increases. See Final Girl Virtue.
 
@@ -4385,7 +4385,7 @@ Immune to blades and piercing weapons; sources of fire that do less than +35 dam
 
 **Pretenses:** Brawl 5 (prey), but may use the Pretenses or abilities of the host.
 
-### **Powers:**
+### Powers:
 
 *Possession*, 1 or more points, Init +2, Mentem: If this power Penetrates, the victim is possessed by the Red Maid and is under her direct control. Any attempt to force the victim to act contrary to her nature, or to use any of the host's own magical powers requires that the Red Maid spends Might. A supernatural power (including spell-casting) requires 1 Might point per magnitude to produce. A questionable action that is contrary to the nature of the host requires the Red Maid to exceed the possessed being's Personality Trait roll on a stress die + Might points spent. The storyguide may give a modifier to the Personality Trait roll based on the nature of the command (see the Entrancement power, **ArM5**, page 65, for suggestions). Both Might costs must be met if the use of a supernatural power is also contrary to the victim's nature. If the Red Maid is in direct control of her host's actions, the host acquires her Magic Resistance, but is also affected by wards that would normally exclude her. If the host is acting under her own free will, then she does not benefit from the Red Maid's Magic Resistance, but may also walk through wards with impunity.
 
@@ -4409,7 +4409,7 @@ A girl who has acted as the host for the Red Maid, and survived, often retains a
 
 **Note:** The Red Maid is not suited for use as a player character. The Final Girl Virtue is not intended for use by player characters.
 
-### **Final Girl Virtue**
+### Final Girl Virtue
 
 The Final Girl Virtue allows the Maid to select up to six people, to whom her host has an emotional connection, and mark them with her glamour. These people are termed "victims." When a victim dies or suffers terribly at the hands of the Maid's target group (her "prey"), this provides a store of energy which the Maid may use until the current story ends.
 
@@ -4431,7 +4431,7 @@ Victorious characters find a forged set of Eustace's diaries in the library of t
 
 The library also contains an excellent work on Infernal Lore, which allows the characters to research the weaknesses of Eustace's allies. At the storyguide's discretion it may also contain the True Name of Eustace's sponsor. A True Name acts as an Arcane Connection, granting a +5 bonus on the caster's Penetration multiplier when attempting to bypass the specified creature's Magic Resistance.
 
-### **Samer**
+### Samer
 
 Despite the misbehavior of the monks, this ruined monastery has — in parts — retained its Divine aura. Actions forced on people with magic are not voluntary and so are not sins. In other areas it is crumbling away, in part because the creatures that dwell here sharpen their claws on its walls and carve great scratches in the stones. Eustace placed guardians here to kill enemies who began investigating his past, but he assumed that these would be noblemen from the court of the Count of Boulogne, and so the creatures are not formidable to experienced Hermetic magi.
 
@@ -4441,19 +4441,19 @@ Characters who defeat the demons of Samer attract the thanks and attention of th
 
 There are several different ways in which the player characters may interfere with Eustace's operations on Sark.
 
-### **Raiding Granary Ships**
+### Raiding Granary Ships
 
 Sark's swollen population is too large for local agriculture to support over the cycle of a year, so trade ships are sent to purchase supplies in Normandy and England. These ships pretend to be merchant vessels, and require maximum cargo space, so they only have light crews. Small ships may have as few as three men aboard, and larger vessels have at most eighteen. This makes them weak, militarily, and Eustace compensates for this by hiding one of his demonic servants, described earlier, on board each vessel. These demons are only supposed to become active if the ship is attacked, but Eustace's control over his demons is far weaker than he believes, so when one of his trade ships is in port, its demon is often ashore, making mischief.
 
 If characters destroy a vessel or kill its crew, these are removed from the pool of resources from which Eustace draws for later battles.
 
-### **Destroying Warehouses**
+### Destroying Warehouses
 
 Eustace's fleet doesn't usually buy the grain, cordage, and similar supplies it requires in the open market: it is aided by a local merchant in each port, acting as its agent. This merchant buys supplies, particularly after harvest when prices are best, and then stores them for collection by Eustace's fleet. These stores become increasingly expensive and time-consuming to replace as winter draws near. Player characters
 
 can seriously damage Eustace's fleet by simultaneously raiding or destroying warehouses in Winchelsea (in Britain) and Saint Malo (in Brittany) just before the final shipment preceding winter.
 
-### **Shipping Corrupted or Poisoned Food**
+### Shipping Corrupted or Poisoned Food
 
 Eustace's ships don't have Magic Resistance, and so a magus with sufficient preparation can damage their cargoes after they have been inspected, but before the leave for Sark. This allows player characters to damage Eustace's supplies without direct confrontation. This, in turn, makes it harder for Eustace and his demons to determine who was responsible, and prepare against future attacks.
 
@@ -4461,7 +4461,7 @@ More daring characters might poison the food shipped to Sark. This carries some 
 
 Eustace's forces usually have three months of provisions on the island, although this amount increases as winter draws in, since it is possible for the island to be cut off for additional time by storms. To keep the stores at this level, one small ship needs to bring in supplies every two weeks. If supplies reach the point where they can only sustain the crew for a month, a quarter of Eustace's people desert. If his forces are living shipment to shipment, half of them desert. In either of these cases Eustace is tempted to make large raids to restock his warehouses.
 
-### **Ambushing Raiders**
+### Ambushing Raiders
 
 Raiding vessels seize what Eustace's fleet requires by force. To do this they need many armed men, and so the ships sacrifice some of their cargo space to stow extra pirates. The ships are not, however, completely filled with pirates, as they would be when raiding shipping, because the fleet needs some space to carry the fruits of its coastal pillaging. Small ships on a raid carry 12 men, and large ships 72. In the largest raiding fleets, most large ships carry up to 100 men, with one ship left with just a sailing crew of 12, to carry the loot.
 
@@ -4471,7 +4471,7 @@ Storyguides or player characters who prefer to avoid naval battle can winnow Eus
 
 Raiders defeated by the player characters are subtracted from the pool of resources available to Eustace in later battles.
 
-### **Sark: Lay of the Land**
+### Sark: Lay of the Land
 
 In preparation for the raid on Sark, the characters may send spies to the island. This can either be roleplayed or settled with dice rolls.
 
@@ -4519,7 +4519,7 @@ If using the system given in Lords of Men, starting on page 104, then:
 
 **Abilities:** Various, including Bow 9 (long)
 
-### **Powers:**
+### Powers:
 
 *Cause Leprosy:* 0 point, Init 0, Corpus: If one of his arrows draws blood, Leraje can use this power to possess a victim, by placing a fragment of his spiritual form into the host. This causes the host to suffer leprosy. The host must make a Stamina roll against an Ease Factor of 6 each week or suffer a Minor wound, and may only use their Stamina score on recovery rolls. Exorcism may cure the character, as does sufficient alms giving to grant the character the Personality trait Charitable, as this places the victim within the demons protected group.
 
@@ -4557,7 +4557,7 @@ Eustace's pirate fleet harbors here, when its elements are not raiding or tradin
 
 Eustace's headquarters is in La Moinerie, the monastery of Saint Magloire, which he has desecrated. It has an Infernal aura of 3 with a taint of debauchery. (See Realms of Power: The Infernal for rules regarding taints.) In a surprise raid, a strike on La Moinerie could make Eustace's pirates leaderless. It is also the place he is most likely to retreat to, if his fleet is destroyed.
 
-### **Starving Sark**
+### Starving Sark
 
 Sark provides food and water for Eustace's men, but has too small an economy to provide the skilled artisans and products needed to maintain his pirate fleet. Characters planning to engage Eustace in naval battle can weaken his fleet by patiently sabotaging his logistic chains.
 
@@ -4700,7 +4700,7 @@ Mentem: A single victim who hears the leakspringer tapping on the planks of the 
 
 Leakspringers are misshapen humanoids made from the filth in the bilges of pirate ships. They cause shipwrecks by coagulating in the hulls of vessels, then striking their fists through hull planking. Eustace has only two leakspringers, and deploys them as his enemies are preparing to land. This buys him time to prepare for an assault.
 
-### **Tempting Eustace to Battle**
+### Tempting Eustace to Battle
 
 Eustace has a fear-inspiring pirate fleet, and so, on some level, he is always thinking of ways to use it. He can be tempted to naval battle in a variety of ways. He does not, however, engage in land based battles larger than raids, or personally lead raiding parties ashore. This seems strange, since he knows he is destined to die at sea, but his invisibility power only works while he is aboard ship. He counts on it to preserve him in most conflicts, should circumstances turn bad.
 
@@ -4710,7 +4710,7 @@ Eustace has a fear-inspiring pirate fleet, and so, on some level, he is always t
 
 **Direct challenge:** The simplest way to force Eustace to battle is to anchor a small fleet near Sark and deliver messages indicating that his presence is required. Eustace maintains his control over his followers through a mixture of reward and intimidation. He cannot retain his place if he acts like a coward, or fails to confront a fleet which is sapping his income by picking off his vessels, or protecting merchants. He really has no choice but to accept battle, if the challenges sent to him are worded in a way that makes Eustace appear weak if he fails to answer them.
 
-### **Extent of Eustace's Forces**
+### Extent of Eustace's Forces
 
 Eustace's entire fleet is comprised of 16 large and 20 small vessels. Each large vessel can carry between 12 and 90 pirates, and each small vessel between 3 and 15. If Eustace draws all of his forces together he has:
 
@@ -4731,7 +4731,7 @@ If the characters have successfully attacked Eustace's forces before this battle
 
 A naptha bomb does +5 damage, ignites the ship, and cannot be extinguished with water. Sand, in large quantities, extinguishes the flame.
 
-### **Ploys For Fleet Battles**
+### Ploys For Fleet Battles
 
 Eustace can make his flagship invisible, but if the battle turns against him, he must dispel the effect. He controls his fleet using signals flown from his mainmast, and his captains need to be able to see his ship to co-ordinate. Player characters can force Eustace to make his ship visible by making an unexpected manoeuvre, outside the commands and contingencies given in advance to Eustace's captains, so that he must give them new instructions. Defectors from Eustace's fleet, and Stephen Crabbe, know this.
 
@@ -4743,7 +4743,7 @@ Eustace's ships are pirate vessels, which mean they need to be swift. The charac
 
 Characters besieging Sark face many obstacles, which can be overcome with appropriate magic.
 
-### **Landing Points**
+### Landing Points
 
 There are no good harbors in Sark, and none of the handful of poor ones are sufficiently large to allow a force to swiftly land and muster. This can be resolved in several ways. Magic which removes the boulders from the channels approaching the beaches makes navigation safer, and allows invading ships to moor in formation. A sea wall that provides a breakwater makes landing easier. Spells that extend the beaches of Sark, either by adding material or carving into the mountainous shell of the island, might be helpful. Creating jetties makes it unnecessary to use lighters, small landing boats, speeding disembarkation considerably.
 
@@ -4756,7 +4756,7 @@ The cliffs at the most likely landing site on the island, Creux, provide the def
 
 To stiffen the defence at this point, Eustace might order the demon Leraje to resist the invaders. Particularly formidable player characters might face several copies of this demon, sniping from protected points on the cliff face.
 
-### **La Moinerie**
+### La Moinerie
 
 This small monastery is the center of Eustace's little empire. He lives here with his trusted lieutenants and some of his demons. The monastery has a low wall with a sheltered walkway and two lookout towers surrounding it. This allows Eustace's men to fire on approaching invaders. The aura of the monastery's grounds is tainted, making magic more dangerous.
 
@@ -4770,7 +4770,7 @@ provide opportunities for skirmish battles against pirates, undead, corrupted be
 
 larged, is a shrine to the demoness that patronizes Eustace. Argenta manifests for the battle if her prize pawn seems likely to be taken from her. She also offers Eustace resources he has not previously controlled: her personal servants, the Lubbers.
 
-### **Warehouses**
+### Warehouses
 
 Just past the cliffs are eight warehouses in which supplies for the fleet are kept. A few pirates sleep here as watchmen. The warehouses are made of stone, but are not built as fortifications.
 
@@ -4956,7 +4956,7 @@ Lucia possesses a distracting beauty, especially to mundanes with little chance 
 
 The four magi of the Trattato are caught in a spiral. Their arrogance, delusions, envy, and arbitrary desire for change are reinforcing each other. They have no set lands they wish to gain, no particular vis sources to target, and no limits to their ambition. This is little more than a game to Lucia and Patronus, the fulfillment of destiny for Avedutus, and a means to strike back at the world for Al-'Aqrab.
 
-### **Lucia filia Maximus of House Tytalus**
+### Lucia filia Maximus of House Tytalus
 
 Lucia wants to control people and material wealth. She wants to rule, and as a child it was already apparent to her that Mythic Europe does not like to see women rule. Her initial delight at the openness of the Order of Hermes soon turned to contempt for its refusal to let one maga rule over another. She resolved to prove that she could rule both magi and mundanes.
 
@@ -5043,7 +5043,7 @@ oration in those who follow her, and her
 
 
 
-### **Mutationis Patronus of House Merinita**
+### Mutationis Patronus of House Merinita
 
 the Tribunal.
 
@@ -5053,7 +5053,7 @@ But he is one of the two distinct weak links within the covenant. His concern is
 
 Unknown to Avedutus, he is fully aware of the Verditius' weaknesses regarding his casting tools, and it is information that he may be willing to part with should he need to protect himself in the future.
 
-### **Al-'Aqrab of Ex Miscellanea**
+### Al-'Aqrab of Ex Miscellanea
 
 From a lineage of Ex Miscellanea ritualists, the Tunisian Al-'Aqrab gains his true power through the magical efforts of others. This does not imply an altruistic streak. In truth, he must struggle to contain his envious and selfish nature that would otherwise see him take the spoils at the expense of his colleagues.
 
@@ -5067,7 +5067,7 @@ only that they talked. He does not recall that she entered the off-limits room.
 
 (Base 4, +1 Eye)
 
-### **The Subtle Burn of Desire**
+### The Subtle Burn of Desire
 
 CrMe 20
 
@@ -5077,7 +5077,7 @@ This spell instills in the target a simmering physical desire for one person, mo
 
 (Base 4, +1 Eye, +3 Moon)
 
-### **A Night's Passion**
+### A Night's Passion
 
 CrMe 25
 
@@ -5089,11 +5089,11 @@ One drawback to this spell is that it is an active magical effect, detectable to
 
 (Base 5, +1 Touch, +3 Moon)
 
-### **Lucia's Talisman: An Emerald Earring**
+### Lucia's Talisman: An Emerald Earring
 
 Lucia wears a tiny gold and emerald earring in her left ear. It has been opened with 10 pawns of vis and has been attuned to provide a +4 bonus to spells that incite love or passion (factored into casting totals above). Using either instilled effect in the presence of magi could be construed as a breach of the Code.
 
-### **Veil of Invisibility**
+### Veil of Invisibility
 
 PeIm 16
 
@@ -5107,7 +5107,7 @@ Effects as per the spell described in **ArM5**, page 146.
 
 (Base 4, +1 Concentration, +1 for changing image; +1 for 2 uses per day, +5 device maintains concentration)
 
-### **From Across the Room**
+### From Across the Room
 
 InIm 18
 
@@ -5144,7 +5144,7 @@ Soon after this, a nearby covenant, Castello del Selvaggio, falls to Avedutus, t
 
 **Reputations**: Mysterious Knight 2 (French tournament circuit)
 
-### **Combat**:
+### Combat:
 
 *Dodge*: Init –2, Attack N/A, Defense +5, Damage N/A
 
@@ -5168,7 +5168,7 @@ Soon after this, a nearby covenant, Castello del Selvaggio, falls to Avedutus, t
 
 **Encumbrance**: 2 (3)
 
-### **Spells Known**:
+### Spells Known:
 
 *Breath of the Open Sky* (CrAu 40/+44)
 
@@ -5210,11 +5210,11 @@ He also has a number of damaging spells and rituals that he is able to cast from
 
 Given that Avedutus would find it nearly impossible to cast magic in the heat of battle, due to the clumsiness of his casting tools and the pain his magic causes him, he relies heavily upon his enchanted devices.
 
-### **The Armor of Aeneas**
+### The Armor of Aeneas
 
 Avedutus' talisman is his shirt of mail, opened with 20 pawns of Vis and enhanced as an Item of Quality as per the Verditius mystery (*Houses of Hermes: Mystery Cults*, page 124). The armor has enhanced strength, with a total +15 protection bonus, and a warding effect that protects Avedutus against mundane human attacks. As a talisman, it has been attuned to the +7 bonus to protect its wearer. This may come into play should Avedutus need to use any Fast Cast Defense spells, which he can do without recourse to his casting tools.
 
-### **Ward Against Humans**
+### Ward Against Humans
 
 ReCo 29
 
@@ -5226,7 +5226,7 @@ This ward, enchanted into the armor, prevents any mundane human unprotected by M
 
 (Base 15, +2 Sun; +1 2/day, +3 trigger at sunrise/sunset)
 
-### **Gift of the Bear's Fortitude**
+### Gift of the Bear's Fortitude
 
 MuCo 25
 
@@ -5236,7 +5236,7 @@ Makes the wearer's skin tough and resistant to damage, providing a +3 to Soak, a
 
 (Base 15, +2 Sun)
 
-### **Bind Wound**
+### Bind Wound
 
 CrCo 5
 
@@ -5246,7 +5246,7 @@ As per the spell effect described on **ArM5**, page 129.
 
 (Base 3, +2 Sun)
 
-### **Ward Against Heat and Flames**
+### Ward Against Heat and Flames
 
 ReIg 20
 
@@ -5256,11 +5256,11 @@ As per the spell effect described on **ArM5**, page 143, this spell keeps heat a
 
 (Base 4, +2 for up to +15 damage, +2 Sun)
 
-### **Chiron's Gift**
+### Chiron's Gift
 
 Avedutus' sword is named in reference to the blade given to Peleus by the centaur Chiron, the magical powers of which won Peleus many victories in battle. This sword is an Item of Quality, providing a +4 bonus to harm human and animal bodies, which translates as a +4 attack bonus (already factored into Avedutus' stats). It has been opened with 15 pawns of vis and contains the following enchantments.
 
-### **They Fall Away Beneath My Stride**
+### They Fall Away Beneath My Stride
 
 PeCo 40
 
@@ -5270,7 +5270,7 @@ This enchantment is triggered by Avedutus crying "Chiron" when striking a human 
 
 (Base 15, +1 Touch, +2 Group; +10 unlimited use)
 
-### **A Sure and Deadly Blow**
+### A Sure and Deadly Blow
 
 PeCo 36
 
@@ -5280,7 +5280,7 @@ Noting that knights might be protected by relics, hedge wizards by charms, and g
 
 (Base 15, +1 Touch; +13 for 26 penetration, +3 for 6 uses per day)
 
-### **The Bridle of Obedience**
+### The Bridle of Obedience
 
 ReAn 34
 
@@ -5292,7 +5292,7 @@ Triggered when the bridle is put onto a horse, the effect places the animal comp
 
 (Base 15, +1 Touch, +2 Sun; +1 two uses/day, +3 triggered at sunrise/set)
 
-### **Breaching the Wall**
+### Breaching the Wall
 
 PeTe 25
 
@@ -5311,7 +5311,7 @@ Perhaps Avedutus' biggest handicap is the makeup of his casting tools. In order 
 
 Avedutus has cast a Watching Ward (**ArM5**, page 162) upon the wagon, which triggers a Ball of Abysmal Flame when the lock is broken or removed without using the key. The effect has a Penetration of +36 and deals +30 damage, targeting the individual who triggered the spell.
 
-### **The Hammer Falls**
+### The Hammer Falls
 
 PeCo 35
 
@@ -5321,7 +5321,7 @@ Acting through an Arcane Connection, this spell immediate causes the target to s
 
 (Base 15, +4 Arcane Connection)
 
-### **Burn His Eyes Out**
+### Burn His Eyes Out
 
 PeCo 40
 
@@ -5331,7 +5331,7 @@ Acting through an Arcane Connection, this spell immediate destroys the target's 
 
 (Base 20, +4 Arcane Connection)
 
-### **The Spell of Wrought Iron**
+### The Spell of Wrought Iron
 
 ReTe 15
 
@@ -5341,7 +5341,7 @@ As the spell presented in *Covenants*, page 51.
 
 (Base 2, +1 Touch, +2 Group, +2 metal)
 
-### **The Swordsmith's Art**
+### The Swordsmith's Art
 
 ReTe 10
 
@@ -5349,7 +5349,7 @@ ReTe 10
 
 (Base 2, +1 Touch, +2 metal, +1 complexity)
 
-### **The Armorer's Art**
+### The Armorer's Art
 
 ReTe 15
 
@@ -5368,7 +5368,7 @@ This act introduces the covenant of *Trattato* as Lucia attempts to ensure the s
 
 After the death of the Duca di Casalmaggiore, his two nephews vie for his vacant throne. Federico is on the verge of succeeding in his claim, assisted by the horoscopes of the court astrologer and the wiles of his Hermetic lover. But his twin, Giuliano, is the firstborn and has the legitimate claim despite lacking political influence. And so Giuliano turns to the Order for assistance, in the knowledge that he needs to fight the magic in his brother's employ with magic of his own.
 
-### **A Ducal Request**
+### A Ducal Request
 
 Giuliano and his entourage arrive at the player covenant without warning and demand audience. He firmly asserts his rank and refuses to be put off, citing a matter of grave urgency. When presented to the magi, or their senior representatives, he demands their assistance in exposing his brother's lies and trickery.
 
@@ -5383,7 +5383,7 @@ If the magi themselves refuse to help him, he suggests that they must at least h
 
 At this stage, the magi may decide to decline to help Giuliano in any way. In this case Giuliano leaves vowing some ill-defined revenge at some ambiguous time in the future, Federico is elected, and his brother is exiled to some small estate where he turns to taxing his vassals hard out of frustration and spite.
 
-### **The Court of Casalmaggiore**
+### The Court of Casalmaggiore
 
 The heart of the Casalmaggiore region is a palace of white stonework, fortified yet elegant, and surrounded by orchards and villages. It sits on the river Po to the southwest of Verona, and there are several bridges that span the river, ensuring a steady stream of
 
@@ -5469,11 +5469,11 @@ The heart of the Casalmaggiore region is a palace of white stonework, fortified 
 
 Patronus has created a Talisman, and knows several uncommon spells.
 
-### **The Mask of False Intent**
+### The Mask of False Intent
 
 Patronus' talisman is a painted leather mask in the shape of an exaggerated elderly face.
 
-### **The Changing Expression**
+### The Changing Expression
 
 MuAn 11
 
@@ -5485,7 +5485,7 @@ Triggered each time Patronus brings the mask to his own face, this effect change
 
 (Base 1; +10 for unlimited use)
 
-### **The Face of Burlone**
+### The Face of Burlone
 
 MuAn 40
 
@@ -5499,7 +5499,7 @@ The faerie's personality matches the mask's current expression.
 
 (Base 15, +1 Concentration, +5 levels for Might Score; +5 Device maintains concentration, +10 unlimited use)
 
-### **The Wooden Horde**
+### The Wooden Horde
 
 CrHe 45
 
@@ -5511,7 +5511,7 @@ No larger than a human hand, these faeries pose little threat individually, but 
 
 (Base 5, +1 Touch, +3 Moon, +2 Group; +10 levels for Might)
 
-### **A Pocketful of Soldiers**
+### A Pocketful of Soldiers
 
 MuHe 30
 
@@ -5526,7 +5526,7 @@ With the election of the new duke due to take place tomorrow, the town of Casalm
 
 Giuliano is greeted by loyal courtiers who receive his magical guests with a degree of trepidation and distrust, with the magi overhearing some of their misgivings.
 
-### **The Eve of Succession**
+### The Eve of Succession
 
 The action takes place from six in the evening onwards, during celebrations for Giuliano's return to the city and the politicking of the election. This gives the magi, or their unGifted companions, the chance to mingle and judge the mood of the room. In particular, this is the scene in which the players meet Lucia and Avedutus.
 
@@ -5545,7 +5545,7 @@ It is here that Hieronymous and Lucia can be seen in frequent conversation with 
 
 At ten in the evening, a fanfare is sounded and Hieronymous announces that the election must now take place.
 
-### **A Meeting of Hermetic Minds**
+### A Meeting of Hermetic Minds
 
 Lucia claims to be at court for simply social reasons, and is open that she maintains a sanctum nearby and therefor has a connection to the court. She also attempts to shift any suspicion of wrongdoing onto Hieronymous. She "suspects" him to be manipulating the election, but that she has taken care to ensure that no magic is used to influence the result one way or the other. A lie, obviously, but this is left to the magi to determine. She even offers a mockwarning that they should take care lest they be accused of meddling in mundane affairs.
 
@@ -5557,7 +5557,7 @@ statistics and swarm rules in the nearby insert.
 
 (Base 4, +1 Touch, +1 Diameter, +2 Group; +10 levels for Might)
 
-### **The Distracted Turb**
+### The Distracted Turb
 
 CrMe 45
 
@@ -5571,7 +5571,7 @@ A Personality Check against Ease Factor 6 is required to hold firm to the physic
 
 (Base 10, +2 Voice, +1 Diameter, +2 Group; +10 levels for Might)
 
-### **Bring Forth the Lord of Knives**
+### Bring Forth the Lord of Knives
 
 CrTe 35
 
@@ -5587,7 +5587,7 @@ Created through transient magic, although the Lord of Knives has its own Might S
 
 (Base 15, +1 Touch, +1 Diameter; +10 levels for Might)
 
-### **The Heady Rush of Magic**
+### The Heady Rush of Magic
 
 CrVi 5
 
@@ -5597,7 +5597,7 @@ Patronus has used this spell over many years to warp himself. Each casting infli
 
 (Base 5)
 
-### **Dreadful Bane of the Fae**
+### Dreadful Bane of the Fae
 
 PeVi 10
 
@@ -5613,7 +5613,7 @@ As per Demon's Eternal Oblivion (**ArM5**, page 160), but affects faeries. This 
 
 The following faeries are summoned into existence by Patronus' spells.
 
-### **The Lord of Knives**
+### The Lord of Knives
 
 **Faerie Might**: 10 (Terram)
 
@@ -5647,7 +5647,7 @@ The following faeries are summoned into existence by Patronus' spells.
 
 The Lord of Knives' creaking skeleton suffers from arthritis, which means he is liable to seize up on any combat botch. This can be brought on immediately by the presence of sea water, which is this faerie's sovereign ward. The smallest drop of true sea water that touches the faerie's body rusts it solid within a round and it starts to fall into lifeless rusted flakes in the next round.
 
-### **The Wooden Horde**
+### The Wooden Horde
 
 The statistics here are for the horde of summoned faeries both as individuals and acting as a swarm.
 
@@ -5685,7 +5685,7 @@ The statistics here are for the horde of summoned faeries both as individuals an
 
 **Appearance**: A teeming jumble of tiny faeries made of sticks and leaves scrambling over each other to get to their targets or anything else that looks in any way edible.
 
-### **Optional Rule: Swarms**
+### Optional Rule: Swarms
 
 A swarm is a mass of creatures of Size –3 or smaller with a combined Size of +1 or more. Given the fluid makeup of a swarm, it is almost impossible to stop one in its tracks. Shield grogs are used to holding off single or even group enemies but a swarm has the power to overwhelm defenders. Apply the following rules:
 
@@ -5694,7 +5694,7 @@ A swarm is a mass of creatures of Size –3 or smaller with a combined Size of +
 - At the storyguide's discretion, swarms may have an immunity or resistance to regular weapons; a blade passing harmlessly through a swarm of locusts, for instance.
 - Being made up of many smaller individuals, a swarm is hard to destroy. Unless a swarm is destroyed outright, it can disengage and return at full strength after a number of rounds equal to its single highest wound penalty.
 
-### **A Note About Animae Magic**
+### A Note About Animae Magic
 
 *Houses of Hermes: Mystery Cults* (pages 94–95) provides guidelines for the Merinita mystery of Animae Magic, the ability to spontaneously create faeries from the raw matter surrounding the caster. Two considerations should be applied when using this magic. Firstly, faeries created through ritual magic in this way may be permanent and may have a Might Score, but they do not contain raw vis. The vis is actively sustaining the faerie from the moment it is created. Once that faerie dies, the vis finally dissipates. Secondly, the total Might Score of all faeries summoned by the spell must be added to the level when the spell is invented. So a spell to create a single faerie with a Might Score of 5 must add 5 to the spell level. A spell to create a group of 10 similar faeries must add 50 to the spell level.
 
@@ -5702,13 +5702,13 @@ A swarm is a mass of creatures of Size –3 or smaller with a combined Size of +
 
 Avedutus is characteristically unwilling to discuss anything pertaining to the court or their presence, but it is clear that he views Giuliano as an arrogant brat. He is not rude but he defers to Lucia on any matters pertaining to Federico. Other than that, if he is engaged in harmless conversation he is relaxed.
 
-### **Influencing the Election**
+### Influencing the Election
 
 The storyguide should assume that Federico's faction controls ten of the votes to Giuliano's two. This means that they need to influence four votes in order to force an even split, which places the deciding vote in the hands of Hieronymous. Taking five votes away from Federico secures the election for Giuliano.
 
 Unless the magi have already met the electors and discussed their positions, they do not know how many votes are actually controlled by each faction. Known supporters of Federico may be identified as follows, which starts to reveal the weight of support he has gained.
 
-### **Communication + Intrigue + stress die**
+### Communication + Intrigue + stress die
 
 **Roll Assessment**
 
@@ -5801,7 +5801,7 @@ Though not a member of a true Mercurian cult, Al-'Aqrab possesses the Mercurian 
 
 Al-'Aqrab's talisman is his knife, which he stole from the tomb of a Persian merchant who reputedly poisoned his rivals. He gave the weapon the name *Humat*, or venom.
 
-### **The Riches of Carthage**
+### The Riches of Carthage
 
 CrTe 20
 
@@ -5811,7 +5811,7 @@ As the Touch of Midas ritual (**ArM5**, page 153) but creates a lump of silver i
 
 (Base 15, +1 Touch, ritual)
 
-### **The Fate of Carthage**
+### The Fate of Carthage
 
 PeTe 45
 
@@ -5823,11 +5823,11 @@ The base level of 5 is used as the spell is destroying only a single aspect of t
 
 (Base 5, +4 Arcane Connection, +4 Boundary, Ritual)
 
-### **Humat**
+### Humat
 
 This old curved dagger has been opened with 10 pawns of vis and has the following effect:
 
-### **Humat's Gift**
+### Humat's Gift
 
 CrAq 50
 
@@ -5841,7 +5841,7 @@ When Al-'Aqrab enchanted this effect he attuned *Humat* with a +3 bonus to poiso
 
 (Base 25, +1 Touch, +2 Sun, +2 for potency)
 
-### **Breaking the Shield**
+### Breaking the Shield
 
 PeVi 25
 
@@ -5862,7 +5862,7 @@ A local candlemaker provides a number of identical balls of wax, one for each of
 
 Of course, Lucia has already subtly influenced the election process. She has passed the date and location of birth of the major members of the court to Hieronymous. With this information, Hieronymous has cast their nativity horoscopes and determined which of them naturally lean towards his patron Federico. By targeting those who support Giuliano, he has been able to produce false charts showing a calamity befalling them or their families should Giuliano succeed his uncle. These charts, obviously fake on a Simple Intelligence + Artes Liberales roll against Ease Factor 9, can be found in Hieronymous' laboratory should the players decide to look.
 
-### **The Electors**
+### The Electors
 
 This insert lists the twelve courtiers selected to elect the new Duke. To keep track of the interactions between these twelve and the player characters, storyguides may want to prepare a set of cards representing the electors for use by the players. When interacting with these characters, roleplaying should be used to discover their motives. Use of the Intrigue ability is appropriate when talking *about* them with others. Assume an Ease Factor of 9 to discover the elector's basic situation. Working with or through Giuliano grants a +3 bonus to these rolls.
 
@@ -5942,7 +5942,7 @@ In either case, the victorious twin makes a show of magnanimity while the other 
 
 Once the recriminations are done and the victor is left with the spoils, the plans for the ceremony and church blessing are finalized, to be completed the next day. Depending on who wins, the player magi may be invited or not, though the gracious host invites them to stay out the evening in the palace.
 
-### **Potential Outcomes**
+### Potential Outcomes
 
 There are at least two possible outcomes to this part of the scenario. The first is that Federico Estensi, Lucia's favored successor, succeeds to his uncle's lands. The second is that Giuliano proves his brother's duplicity and takes the title instead. While Giuliano himself is indebted to the player magi, Lucia switches her target, continues to work on Giuliano, and ultimately gains her mundane forces. But, crucially, her magic dulls Giuliano's leadership. He does not command the respect or loyalty that he might have done and the mundane forces the player magi face in the third act are much smaller than they otherwise might have been. In any case, the losing brother returns in Act Three.
 
@@ -5971,11 +5971,11 @@ The tower is attended by a dozen or so servants and has a permanent guard of 12 
 
 While not on operations, Avedutus, Patronus, and Al-'Aqrab are likely to be found at the covenant buildings. Lucia is more likely to be found with the Casalmaggiore nobility.
 
-### **What the Order Knows**
+### What the Order Knows
 
 Characters may already know a little about the magi of the *Trattato*. They may make Intelligence + Order of Hermes Lore simple rolls to gain the following information. Any character who studies Order of of Hermes Lore for a season to learn what she can gains all of the information here in addition to the usual experience points.
 
-### **Roll Result**
+### Roll Result
 
 - 3+ Lucia and Avedutus are known to be native to the Roman Tribunal All of the *Trattato* magi are over fifty years of age
 - 6+ Avedutus is known to operate as a champion in the Normandy Tribunal and has taken part in a number of the grand Hermetic tournaments held there
@@ -6046,7 +6046,7 @@ Lucia and Avedutus need time to consolidate their hold on Casalmaggiore, so the 
 
 Given the gap between the first act and the second, it is likely that the player magi have spent some time investigating their new opponents. Assuming that the player magi and their agents keep themselves informed as to Casalmaggiore's fortunes they learn the following:
 
-### **Sudden Wealth**
+### Sudden Wealth
 
 After the election of the new duke, the fortunes of Casalmaggiore seem to have improved. Some put it down to
 
@@ -6054,15 +6054,15 @@ After the election of the new duke, the fortunes of Casalmaggiore seem to have i
 
 increased trading activity in the city brought on by lower taxes. But the truth is that the *Trattato* has created a large quantity of silver. This apparent wealth has boosted the region and given it a degree of confidence.
 
-### **Preparations for War**
+### Preparations for War
 
 While some of this new money is being directed to civic works, the majority has been promised to mercenaries and prospective allies. With wealth comes military power and the Duca di Casalmaggiore is accruing both in equal measure. This growing influence is more subtle and represented through rumored meetings and treaties between the Duke and other local nobles. This preparation is clearly apparent in the tournaments held across the region and the Duke shows off his military prowess by fielding large teams of well armed and armored men. Encounters with these men would make fitting tournament-based interludes for companion characters.
 
-### **Magicians at Court**
+### Magicians at Court
 
 Hieronymous still retains his position, as do Lucia and her champion. Many suspect these three to be tainted with magic. In the case of Lucia and Avedutus they would be right, but Lucia has been careful to obtain a written agreement with the new Duke that limits the involvement of the magi at court to that of simple tenants paying scutage in lieu of military service.
 
-### **Trade Disputes**
+### Trade Disputes
 
 Importantly, a trade dispute between Verona and Casalmaggiore has been manufactured and there have been skirmishes between troops in the employ of both sides. This is the backdrop against which this act is played.
 
@@ -6090,7 +6090,7 @@ The only magus to remain was the resolute Tytalus magus Maximus Severis. He subt
 
 As Maximus' filia, Lucia grew up in Verona and Castello del Selvaggio at a time when Maximus had grown old and weakening. Her knowledge of Selvaggio's resources and her impatience at the continued survival of her parens undoubtedly contribute to her current ambitions.
 
-### **Refugees**
+### Refugees
 
 The guards watching over the player covenant gates encounter a band of some twenty people carrying hastily clutched possessions and heading to the covenant. These are some of the former covenfolk
 
@@ -6156,7 +6156,7 @@ But a moment later, as the sun finally set, the Aegis suddenly dropped. A crossb
 
 Maximus' last act — having fled the mundane assault — was to magically raise a bridge that spanned the lake, allowing Matias and some of the other covenfolk to escape. The effort taxed him greatly, and Matias never saw him again.
 
-### **To the Victor the Spoils**
+### To the Victor the Spoils
 
 By the time the refugees reach the player covenant Avedutus has returned to Casalmaggiore and left Selvaggio in the care of Patronus and Al-'Aqrab. If and when the magi visit Castello del Selvaggio they find a small army of the duke's men camped in and around the covenant and taking advantage of the local resources. The castle walls are adorned with the bodies of its defenders, strung up on gibbets as a sign of Avedutus' victory.
 
@@ -6167,7 +6167,7 @@ Any seeking access to Castello del Selvaggio are turned away in no uncertain ter
 Should the player magi gain access to the castle, both of the *Trattato* magi, Patronus and Al-'Aqrab, can be found within the main hall of the castle discussing its ongoing defense with captains of their military force and the rebuilding of the walls with loyal engineers.
 
 
-### **Confrontation**
+### Confrontation
 
 When confronted about Maximus, the *Trattato* magi claim right of conquest arising from Wizard War. If pushed on his fate, they offer to call him down from the council chamber and a few moments later Maximus' slain body is brought in, seated in an elaborate chair. The childlike Patronus, talking through his talisman mask, acts mockingly towards the corpse and invites the visitors to ask it what they will. He even pretends to summon Maximus' spirit into his mask, allowing the visitors to interrogate the faerie within. There is no spirit to question however, as Al-'Aqrab has already summoned and destroyed Maximus' ghost.
 
@@ -6227,7 +6227,7 @@ These guards menace the magi, taking up positions behind them. Neither the Tratt
 
 Given that it takes three rounds for the archers to reload, two of these groups switch to their standard weapons if they have cause to shoot their bows. Should the meeting take a violent turn, Patronus uses his array of spells to create various faerie defenders to bolster the mundane guards. Al-'Aqrab quietly and swiftly leaves the scene, quickly trying to entrance any assailants who follow him.
 
-### **Signs of Weakness**
+### Signs of Weakness
 
 The *Trattato* may have made a mistake in letting Patronus and Al-'Aqrab secure Castello del Selvaggio, as they are the most likely to betray those they swore oaths with. Coming to an accommodation with these two magi is one option that has a direct influence on how events play out later. For instance, if Al-'Aqrab can be persuaded to abandon the *Trattato* then they lose the capability to bring down the Aegis of the Hearth. So what do these two magi want? In the first instance, they now have a covenant site. It has a Magical aura and access to vis sources and, crucially for Patronus, access to a strong Faerie regio. This is probably sufficient for Al-'Aqrab. If he can be guaranteed the security of this one gain, then his selfish nature takes over and he abandons Lucia's grand project.
 
@@ -6235,7 +6235,7 @@ Patronus won't leave just on a selfish whim; he'll need something more. Those wi
 
 But neither can be turned if approached together. Such attempts can only be successful if the *Trattato* magi are approached individually, where their selfish aims have chance to express themselves.
 
-### **The Duke's Army**
+### The Duke's Army
 
 The visiting magi may have to content themselves with leaving apparently empty-handed. But if they think to infiltrate the duke's garrison, they learn how Avedutus casts his spells (a description of the anvil within the strange wagon), which could be exploited in the coming conflict. This also confirms that Avedutus was part of the assault, the means by which the wall was breached, and that it was Avedutus who hunted and killed the exhausted Maximus. They also learn that while Verona is the duke's next tar-
 
@@ -6250,7 +6250,7 @@ With the army of Casalmaggiore swelling in numbers, the Veronese city council re
 
 This is the crucial event that determines whether the covenant or the city is the object of the siege. By this stage, the magi of the covenant understand that the city is a secondary objective for the magi of *Trattato* and that the mundane forces could be drawn away from the city by holding out in the covenant.
 
-### **Offers of Friendship**
+### Offers of Friendship
 
 Assuming that the losing twin from the first act survived beyond that part of the story, he has found himself in opposition to his brother and is lending his influence to Verona. It is this exile who brings Verona's offer to the covenant.
 
@@ -6260,7 +6260,7 @@ This may be the prompt that the player magi need to realize that the potential t
 
 This meeting should also emphasize the two likely avenues of assault: pitched battle or siege. The player magi may choose to address one or both of these, and Federico/Giuliano Estensi can act as a military advisor if required.
 
-### **A Political Game**
+### A Political Game
 
 If the magi are interested in hearing Verona out, they are invited to attend the council convened in the Basilica di San Zeno Maggiore in the heart of Verona. Bevilacqua champions drafting a treaty with the magi, preferring to call them "philosophers."
 
@@ -6341,7 +6341,7 @@ no further part in this scenario. But the duke's army does besiege the city, usi
 
 On arrival outside Verona, the duke sends his herald to offer terms to the Veronese. He demands that each councillor sends his wife, sons, and daughters to his camp by way of hostages and that he be crowned duke of Verona with the Veronese nobility swearing fealty to him. The city is confident of resisting a prolonged siege and so does not accept these terms, preferring instead to see the Casalmaggiore army exhaust itself against its walls. But if the magi are within the city, they are included in the war council, and the demand for hostages presents an opportunity for subterfuge that the players may take up.
 
-### **The City's Defenses**
+### The City's Defenses
 
 Verona is a large walled city bisected by the Adige river, which enters the city in the north west, takes a sweeping s-shaped meander and then exits in the south east. With the Duke's army marching out of Caslamaggiore to the south east, this is the obvious point of contact.
 
@@ -6349,7 +6349,7 @@ Defending the city involves resisting bombardment by siege engine and Avedutus' 
 
 If the magi weather the initial assault, they may still need to deal with a prolonged blockade, which would mean using magic to feed a city and protect it from illness.
 
-### **The First Engagement**
+### The First Engagement
 
 When the Casalmaggiore army arrives, the duke concentrates his force on the southern wall and attempts an escalade to scale the walls while his trebuchet is brought within range and made ready. This takes most of the day and is clearly visible from the city walls. Once the trebuchet is ready, the duke begins both mundane and magical bombardment with an archer using Avedutus' charged bolts to breach the wall. Each bolt that strikes the wall destroys one of that wall's damage levels.
 
@@ -6391,7 +6391,7 @@ If **Avedutus** has any Arcane Connections to his enemies he uses his anvil and 
 
 The almost-faerie **Patronus** rejoices in summoning/creating forest upon forest of swarming wooden faeries who surge at his enemies. However, these faeries only last a Diameter at best, which means he has little time to prepare and must cast his spells while he is in harm's way.
 
-### **The Siege Digs In**
+### The Siege Digs In
 
 There is the potential for a siege to become a significant or even central event in a saga as the events now start to play out on a seasonal basis. But this also provides the magi with the opportunity to use their time to develop magical defenses or to plan and prepare to take the battle to the *Trattato*.
 
@@ -6402,31 +6402,31 @@ the troupe magi are presented with a different challenge each season, to which t
 
 The following events may be presented in any order and repeated where appropriate. Storyguides are encouraged to tailor the events based on the troupe characters present or design new events that present additional challenges.
 
-### **Undermining**
+### Undermining
 
 The enemy engineers use mines to weaken and breach the southern walls. The magi must find a way to anticipate the mines and prevent the mining, or to repair the damage already caused. Failure reduces the city's defense bonus by one and sees an increase in event frequency.
 
-### **Artillery assault**
+### Artillery assault
 
 The enemy siege engines begin relentlessly pounding the walls, threatening to reduce the southern wall to rubble. The magi must destroy the enemy siege engines, prevent the missiles from striking the walls, or repair the damage already caused. Failure reduces the city's defense bonus by one and sees an increase in event frequency.
 
-### **Escalade**
+### Escalade
 
 Focus moves to the eastern wall across the river and soldiers are committed to escalade; scaling the walls and trying to gain access to the gate houses. The troupe characters must again play the defenders and prevent the gates from being opened. Failure reduces the city's defense bonus by one and sees an increase in event frequency.
 
-### **Hunger**
+### Hunger
 
 The blockade starts to bite as resupply becomes harder. The population are reduced to scratching around for food and are forced to make even the inedible edible. The troupe characters must ensure that a supply route is reopened or that sufficient food for the city can be magically created or brought to the city. Failure reduces the city's siege conditions bonus by one and sees an increase in event frequency.
 
-### **Illness**
+### Illness
 
 Months of deprivation take their toll on the population. An outbreak of flux (*Art & Academe*, page 47) drives across the city. The magi must find a way to cure or contain the disease. Failure reduces the city's siege conditions bonus by one and sees an increase in event frequency.
 
-### **Morale**
+### Morale
 
 After having been under siege for so long and enduring so much hardship and death, the Veronese people are ready to sue for terms with the duke. This is a dangerous time when the council may lose control of their people. Failure to restore morale or resolve likely sees the end of the siege as the people accept the duke's terms and those who ruled the city are punished by its new ruler. Unless the magi leave or avoid capture, this may well include them.
 
-### **Supernatural Interference**
+### Supernatural Interference
 
 The presence of so much conflict attracts creatures from the four realms to the city. Demons influence the leaders on both sides to take actions which would clearly result in more death. Faeries try to incite acts of fruitless personal valor, feeding off the vitality generated as heroes die tragic deaths. Magical spirits of pain, rage, or hopelessness
 
@@ -6438,7 +6438,7 @@ Succeeding in as many events as the storyguide wishes to present means that the 
 
 If the troupe characters helped Giuliano to attain the dukedom, Lucia's grip is not so strong, and the besieging army not so resolute. Reduce the number of siege events that they face by two, making the siege easier to weather.
 
-### **Raising the Siege**
+### Raising the Siege
 
 The above events cast the magi in the role of being reactive to the duke's assault and subsequent siege. But they may seek to raise the siege by taking direct action. This may not require the magi to enter combat if they have planned ahead and used their time and resources to arm or prepare their grogs, companions, or the Veronese garrison.
 
@@ -6446,11 +6446,11 @@ Use of spies or magic to gain information on the movement of key personnel in th
 
 The players should be free to decide their own strategy of course, but the following battlefield events may be useful:
 
-### **Lead the Sortie**
+### Lead the Sortie
 
 The troupe characters, each within a combat group of five men, lead an attack against an equal number of lightly armed levies as they charge from the city gates and assault the earthworks destined to be used in a new mining attempt.
 
-### **Secure the Forward Line**
+### Secure the Forward Line
 
 With the levies driven away from the earthworks, the troupe characters defend their position against overwhelming odds. Heavily armed soldiers surge to replace the fleeing levies. If they succeed in defeating the attacking soldiers, they have held the line and can make a push towards the enemy command position.
 
@@ -6462,11 +6462,11 @@ This route allows the player magi to engage in politics with their neighbors, po
 
 If the players are successful in gathering a force, the storyguide should allow them to dictate the terms under which they track and confront the members of the *Trattato*. For instance, if they intend to split the four and hunt them individually, the storyguide should present encounters to suit.
 
-### **Run the Gauntlet**
+### Run the Gauntlet
 
 The troupe characters make their way through the enemy lines, either protected by a charge forcing a line through the encampment, or by magical means. If they reach the duke's command post, they attempt to take him and his magical guard down.
 
-### **Capture the Command**
+### Capture the Command
 
 Unless the troupe characters timed their attack for the absence of the *Trattato* magi, the duke is defended by the four magi and a trained combat group of five knights who defend their duke until death. The attempt to take the duke should be seen as a "Heroic Gesture", that is, a troupe character dying during this event does not die in vain. His death carries narrative power and marks the moment when reinforcements arrive from the city, enough to force the retreat, surrender, or outright defeat of the *Trattato* magi and the duke.
 
@@ -6476,7 +6476,7 @@ The magi of the *Trattato* are less concerned with Verona, even if the troupe ma
 
 A small force of 30 mercenaries are ordered by Avedutus to engage in *chevauchee*, a general raiding and scourging of the land around the player covenant. The intention is distraction and a feint to draw out some or all of the covenant's magi. After a day or two of *chevauchee*, Avedutus brings his main force within sight of the covenant.
 
-### **The Warning**
+### The Warning
 
 As the duke's mercenaries gather outside the player covenant, Lucia and Avedutus, safe as it is the eve before the Wizard War begins, request audi-
 
@@ -6487,7 +6487,7 @@ But the Lady Lucia offers to make use of such little influence as she has with t
 
 There is no mistaking the intention. This is a direct threat and ultimatum; submit or see the forces of Casalmaggiore unleashed upon the covenant. Lucia points out that her offer of friendship unfortunately expires with the rising of the full moon and commencement of Wizard War. She urges that the player magi find the strength to save the lives of their covenfolk.
 
-### **The Assault Begins**
+### The Assault Begins
 
 The magi of Trattato are assuming that their targets will abide by Hermetic law and not assault them until the Wizard War officially starts. They are not so noble and as the sun sets, Al-'Aqrab, in concert with the *Trattato*, casts his *Breaking the Shield* spell, utilizing the *Wizard's Communion*, to bring down the covenant's *Aegis of the Hearth*. The spell has a Sight range, which means that the attacking magi are visible from the covenant. This provides the player magi an important opportunity to disrupt the spellcasting.
 
@@ -6495,23 +6495,23 @@ As soon as the Aegis goes down, Avedutus gives the order, a horn is blown and th
 
 You should use the Standard Soldier statistics from the core rulebook (page 22) for Avedutus' troops. Treat Avedutus as both vanguard and leader of a trained group of five members.
 
-### **The Course of Battle**
+### The Course of Battle
 
 Once the wall has been breached, the fight for the covenant takes place in three key locations.
 
-### **Stop Up The Wall**
+### Stop Up The Wall
 
 The covenfolk must defend the breach in the wall against three times their number of enemy soldiers. One of the enemy combat units is led by Avedutus, another defends Al-'Aqrab, and another still defends Patronus and ensures he gets within the walls. Fighting during this event and at this location is on hazardous ground, which ensures that all rolls are stress rolls and adds an extra botch die. Troupe characters may choose to retreat from wall, in which case they move to the next event.
 
-### **Holding The Courtyard**
+### Holding The Courtyard
 
 If Avedutus and his men force their way through the wall, they achieve the courtyard. It is here, assuming he survives the first event, that Patronus unleashes a swarm of faeries to add to the weight of troops that any troupe characters must defend against.
 
-### **The Keep**
+### The Keep
 
 In addition to any preparations made to defend the central part of the covenant, represented by the idea of a "keep," the troupe characters receive a +1 bonus to attack and defense rolls while they defend the keep. Any troupe character in any part of the covenant during this event gains the bonus. If this event is lost, by the death of one or more troupe characters, or by the surrender of the troupe characters, then the *Trattato* have taken the covenant.
 
-### **The Fall of the Covenant**
+### The Fall of the Covenant
 
 If the covenant surrenders or is breached, Avedutus leads twenty soldiers in search of the magi. He does not spare them if he finds them so this is a particularly dangerous part of the scenario. He can not be held by offers to talk or to surrender, and orders his crossbowmen to loose as soon as he identifies his targets.
 
@@ -6542,13 +6542,13 @@ The offer made by Verona, if accepted, is good for at least a generation before 
 
 As discussed above, the site of the former covenant of Castello del Selvaggio is open to claims from inside and outside the Tribunal. The site is magical in nature, sits atop a known entrance to the Faerie realm, and is close to valleys that pass through the Alps. Of course, in your own saga, where your "Castello del Selvaggio" could be situated anywhere, it is sufficient that it has an aura and easy access to at least one or two vis sources. If your magi defeat Lucia then your covenant is likely to have a considerable say over how the Selvaggio lands are disposed.
 
-### **Hermetic Relations**
+### Hermetic Relations
 
 If the magi lose their covenant, then Lucia has taken a further step to dominance. Having shown her power, she starts to intimidate other magi into ceding their Tribunal votes to her, under the implied threat of Wizard's War or outright conquest. The magi must then find a way to rebuild elsewhere or to raise enough support to bring Lucia and her covenant down and in doing so reclaim what they have lost.
 
 If the player magi defeat Lucia they attain a powerful position having proven themselves strong enough to defeat a grave threat. And they potentially have effective control over the resources that belonged to Castello del Selvaggio, a site that could develop into a chapter house. This would grant the *Chapter House* Covenant Hook (*Covenants*, page 19), and the Minor Hook, *Prestige*.
 
-### **Mundane Relations**
+### Mundane Relations
 
 Late in the story, the magi are given a choice to either help the city of Verona or turn away. Long memories are a way of life in the Lombard communes and the covenant is seen by Verona as either convenient allies or as treacherous enemies. If the magi helped the city to withstand the assault, they are approached on a regular basis for either advice or outright assistance. The city acknowledges the need to work through proxies and for the most part honors any restrictions placed by the magi upon the relationship.
 

@@ -29,7 +29,7 @@ Christian St. Pierre
 
 **Third Round Playtesters:** Donna Giltrap, Malcolm Harbrow, Aaron Hicks
 
-#### **Author Biographies**
+#### Author Biographies
 
 **Christian Andersen** lives in Denmark. He is involved in planning Rego Auram devices, and to a lesser degree also Creo and Perdo Ignem, used in the construction of centers of medical science. He dedicates his part of this book to his family: Lene, Robert, and Laura.
 
@@ -308,7 +308,7 @@ The baron's servants have since found the bodies of the knights. The knights' th
 
 Stories are told in Frederick's court of faerie imposters that haunt the forest near his castle. The baron fears these faerie creatures have murdered and replaced the baron's knights, murdered the baroness, and then kidnapped his son. It is not clear to the baron what might motivate the faeries, but it is clearly a problem that wizards can solve.
 
-#### **Responses to Kidnap**
+#### Responses to Kidnap
 
 The magi may refuse or ignore Baron Frederick's plea for help to find his kidnapped son and Lady Elaine's assassins. This will greatly anger the baron, but he is too concerned about recovering his son to move against the covenant right now. In this case, the troupe should move on to the subsequent murder of Baron Frederick.
 
@@ -334,11 +334,11 @@ of involving themselves too readily in this mysterious kidnapping. There is a ri
 
 • The magi (especially House Merinita magi) may already be aware of the faerie queen's plan through their faerie court contacts. They may have even been invited to the wedding.
 
-#### **A Hidden Covenant**
+#### A Hidden Covenant
 
 If the covenant is hidden from the mundane world, then word reaches the covenant of baby Marcus' kidnap and the baroness' murder through the contacts maintained by the grogs. If Baron Frederick is murdered, then word similarly eventually reaches the covenant.
 
-#### **Bad Relations**
+#### Bad Relations
 
 If the magi are already on bad terms with Baron Frederick, then he assumes that these disreputable wizards have something to do with the strange abduction and murders. In this case, the baron angrily approaches the covenant (or sends representatives) seeking the abducted baby, and may be expecting and willing to pay a ransom. The magi might try to recover baby Marcus to prove their innocence (or to ransom him back to his father).
 
@@ -348,13 +348,13 @@ A few days or weeks after Blegen's marriage to baby Marcus her knights attempt t
 
 The baron only has men-atarms left available to him at his castle (see earlier). His other knight vassals all have responsibilities and live on manors elsewhere in his fief. If the player characters somehow gather these vassal knights, the game statistics for the knights in Chapter Nine: *To The Dark Tower* can be used.
 
-#### **Saving the Baron**
+#### Saving the Baron
 
 If the player characters try to protect Baron Frederick, then the success of the assassination attempt depends on player character actions. If the unsuccessful knights escape they return at a later date to finish the job. If the knights are destroyed, then the faerie queen makes no more immediate attempts. However, she sends new assassins over the following months and years.
 
 If the player characters do not try to protect the Baron, the assassination attempt is successful.
 
-#### **A New Queen**
+#### A New Queen
 
 If the Baron is killed, Blegen inherits his lands via her baby husband. This immediately causes a Faerie aura of 1 to arise throughout the barony. In many areas this new aura is swamped by existing Dominion or other auras. However, every spring equinox the Faerie aura increases by 1, until it reaches a value of 4.
 
@@ -376,7 +376,7 @@ Apart from green forest, the main features of the court are a wooden castle and 
 
 One of the two forest clearings is used by Blegen as an audience and feasting hall. This clearing is verdant and grassy. The other forest clearing is a dead place. The ground is covered in thick ash and rusting shards of iron. This second clearing is avoided by the faeries.
 
-#### **Player Characters in the Faerie Court**
+#### Player Characters in the Faerie Court
 
 If the player characters travel to the faerie court they find the faerie queen Blegen either in her castle awaiting the murder of Baron Frederick, or in the green forest clearing holding a feast to celebrate the murder and her ascension to her mundane title.
 
@@ -395,7 +395,7 @@ If the player characters travel to the faerie court they find the faerie queen B
 
 **Reputations:** Knight (local) +4
 
-#### **Combat:**
+#### Combat:
 
 *Long Sword + Heater Shield*: Init +4, Attack +14\*, Defense +14\*, Damage +8
 
@@ -407,7 +407,7 @@ If the player characters travel to the faerie court they find the faerie queen B
 
 **Pretenses:** Animal Handling 2 (horses), Area Lore: Local 2 (forest), Athletics 2 (running), Awareness 4 (weapons), Etiquette 3 (courtly), Leadership 3 (faerie knights), Single Weapon 7 (long sword), Speak Living Language: German 3 (courtly), Ride 3 (combat)
 
-#### **Powers:**
+#### Powers:
 
 *Faerie Sight*, see Blegen.
 
@@ -451,7 +451,7 @@ ick has already been killed) the faeries are happy that Blegen's faerie kingdom 
 
 Baby Marcus is asleep, gently cradled in a nest of web hung between two trees. Apart from Old Nanny there are no guards. Baby Marcus is naked except for a plain gold wedding ring, which is an enchanted item.
 
-#### **Quiet My Darling Husband**
+#### Quiet My Darling Husband
 
 **ReMe** 10, 0 **Pen**, 1 / day **R:** Touch, **D:** While (Worn),
 
@@ -463,7 +463,7 @@ This faerie ring causes the wearer to fall asleep.
 
 and centaurs to cover her escape. Her wooden castle is incredibly and supernaturally large (it is actually another regio, with a Faerie aura of 6), and with her *Castle Eyes* power Blegen is aware of everything happening within it. This, coupled with the size of the castle, means that Blegen can quite easily avoid the magi once she is within her castle.
 
-#### **King in Ashes**
+#### King in Ashes
 
 In a previous age, Blegen ruled the faerie forest alongside a faerie king named Aethele. Clearly, Blegen needed to dispose of her husband, so that as a widow she could marry a mortal heir. Aethele was therefore murdered by
 
@@ -485,7 +485,7 @@ In a previous age, Blegen ruled the faerie forest alongside a faerie king named 
 
 **Reputations:** Ancient Nightmare (local) +1
 
-#### **Combat:**
+#### Combat:
 
 *Bite:* Init –1, Attack +12, Defense +6, Damage +9\*
 
@@ -501,7 +501,7 @@ In a previous age, Blegen ruled the faerie forest alongside a faerie king named 
 
 **Pretenses:** Area Lore: Local 5 (forest), Athletics 3 (climbing), Awareness 3 (things in web), Brawl 5 (bite), Hunt 4 (prey), Profession: Weaver 10 (web), Stealth 4 (ambush), Survival 3 (forest)
 
-#### **Powers:**
+#### Powers:
 
 *Faerie Sight*, see the description given with the faerie queen Blegen.
 
@@ -531,7 +531,7 @@ Guma has identical game sta-
 
 tistics to Mateos the Faerie Butler (**ArM5**, page 194–195).
 
-#### **Faerie Knights**
+#### Faerie Knights
 
 The faerie knights are identical in appearance to the baron's murdered knights.
 
@@ -547,7 +547,7 @@ In a dark, deep forgotten place in the forest is the Nursery, in which baby Marc
 
 Old Nanny is, of course, the architect of this trap… the arachnoid architect.
 
-#### **Entering the Nursery**
+#### Entering the Nursery
 
 The Nursery is a regio with a Faerie aura of 5. The entrance is the darkest place in the forest, and so the entrance moves around depending on the seasons and the position of the sun (or moon). A character can calculate where the natural entrance will be at a particular time by devising a horoscope for the location (Intelligence + Artes Liberales (astronomy) roll against an Ease Factor of 9). Each such horoscope takes about an hour to calculate and is only valid for a window of one Diameter. The character calculating the horoscope can freely choose the time at which the window occurs when performing the calculation.
 
@@ -555,13 +555,13 @@ The Nursery can be entered by anybody at the entrance location who can see the w
 
 A magus with access to spells like *Leap of Homecoming*, and an Arcane Connection to baby Marcus, can instantly transport himself to the baby's location without needing to find the regio entrance.
 
-#### **Moving Through The Web**
+#### Moving Through The Web
 
 The sticky webs that fill the regio make it difficult to move. Characters may freely speak and make gestures, but moving around (including flying) requires a successful Strength + Stress Die roll against an Ease Factor of 9. A single successful roll allows the character to move about for several minutes. Characters who are stuck to the webs may not make combat Defense or Attack rolls, and if a free character botches in melee combat he becomes stuck to the webs.
 
 Spiders and other spider-like creatures, including Old Nanny herself, can move without penalty in the regio.
 
-#### **The Time Trap**
+#### The Time Trap
 
 The faerie queen has tasked Old Nanny with the care of baby Marcus because Old Nan-
 
@@ -646,19 +646,19 @@ vous around the magi. However, seeking refuge here is better than
 
 In his wagon the driver has a crate with the clay tablets from the Levant, bound for some undisclosed buyers within a few days' ride of the covenant location. He has been warned that the tablets contain secrets best left untouched, and that they must not fall into the wrong hands. Tonight was the last night of the window of his meeting with the knights who had bought the tablets.
 
-#### **The Clay Tablets**
+#### The Clay Tablets
 
 the alternative.
 
 The language of the tablets is obscure. Those with Hebrew 4 or higher recognize the text as an archaic form of Hebrew and thus stand a chance of decoding it. They offer clues to finding the ancient ruins of En-Dor on the basis of descriptions of Canaan from the time when it was a living culture. They also offer information as to the skills of the Canaanite necromancers, who had unsurpassed powers to speak with as well as summon spirits of the dead. These may be integrated into Hermetic Theory.
 
-#### **Marauding Ghosts**
+#### Marauding Ghosts
 
 The ghosts of the kataphraktoi are disciplined and execute a tactical retreat once the Aegis repels them. Argos presses them into his service again using *Coerce the Spirits of the Night;* their orders are to terrorize the locale. He is not unnecessarily cruel and does not order mass murder, but the riders drive the populace from their homes, damage dwellings, livestock, and crops, and attack travelers going to and from the covenant. He deliberately has them drop his assumed name during raids, saying, for example, "Bellox gave orders to torch the place!" In Argos' mind this furthers his diplomatic leverage once he goes to the covenant.
 
 The riders employ hit-andrun tactics to cover as much ground as possible and make a determined counterattack difficult. If they face a formidable foe the ghostly riders retreat and reform at their next raiding objective.
 
-#### **Argos' Visit**
+#### Argos' Visit
 
 Within a day or two of Marco's arrival, one of the covenfolk spots a lone visitor approaching the covenant. This gray-haired individual insists on speaking Latin only and introduces himself as Argos, a Magus of Bonisagus. He asks to speak with the magi and acts as if he was expected. Once he is before some or all of the player magi, he demands that he is given what is
 
@@ -668,11 +668,11 @@ Decoding is a seasonal activity requiring a stress roll of Intelligence + Hebrew
 
 Precisely how many and which tablets the Genoese merchant was selling to Argos is up to the storyguide. The number of tablets found influences the likely style of any follow-up story. A set of four tablets results in a respectable study source of Quality 9. Fewer means that it takes longer to finish reading the text, but it might send the magi searching for other sources, or more tablets. Note that the tablets are not the only texts available from which to learn Area Lore: Canaan. If more tablets are given to the player magi the research phase could become trivial, but leave more room for the actual search for En-Dor. This find should yield several avenues of investigation and research on which to start out. Remember that even a complete set does not make finding the location of En-Dor a trivial matter; the real challenge lies in the desert. A season's worth of search requires an Intelligence + Area Lore: Canaan roll against an Ease Factor of 18 for success. This is for field work, Ease Factor is raised to 21 for research off-site.
 
-#### **Using an Interpreter**
+#### Using an Interpreter
 
 The player magi might come up with the idea of using a scholar from the outside as interpreter. For instance, any Rabbi or Jewish scribe recognizes the text as some kind of Hebrew, but he will not be able to read it until it is decoded. But bear in mind Marco's warning that these are secrets best left alone. Any scribe with even the slightest bit of knowledge about Judaism or Christianity soon recognizes the name En-Dor and instantly remembers the warning about horrible necromancy. The player magi now have their hands full trying to contain the problem, as a conscientious scribe alerts his community. It should become clear that these tablets are something to be hidden by the magi and studied in the dark.
 
-#### **Copying the Tablets**
+#### Copying the Tablets
 
 Since the text is unintelligible copying carries with it the risk of making mistakes. Careful copying is done at half the standard rate, while copying at normal speed means –3 Quality for the final, translated text. Clever magi wanting to make rubbings or wax impressions need to take care as well, as the tablets are old, worn, and damaged. Such copies take but a few hours to complete, and have a –2 Quality for the text.
 
@@ -767,15 +767,15 @@ Because of the relatively short time span, the possibilities for a thorough inve
 
 The researcher rolls Intelligence + Ability against an Ease Factor set by the storyguide; for information on individual magi these are influenced by any Reputation. Relevant Abilities could be Organization Lore: Order of Hermes, Area Lore: Levant, Code of Hermes, or Organization Lore: House Bonisagus. Modifiers can be up to +5 for a large collection of texts likely to contain the information sought, like records of Redcaps, other Seekers, or Quaesitores.
 
-#### **Argos of Bonisagus**
+#### Argos of Bonisagus
 
 Argos is of Trianoma's lineage. Records show him passing his Gauntlet some 20 years ago in the Levant Tribunal. A bit of a loner like his mater Pharla, he followed in his mistress' footsteps as a Seeker, with a focus on local ancient magics. He has made no significant contributions to the Order, yet.
 
-#### **Bellox the Necromancer**
+#### Bellox the Necromancer
 
 Since he is not a Hermetic magus, very little information can be found about the so-called necromancer Bellox. The name occurs in some legal accounts; he has a history as the villain blamed for various nefarious and sinister acts in the Roman Tribunal concerning breaking into and stealing from old burial sites. He must have crossed paths with Argos previously, since many of the times Bellox is mentioned is in testimony from Argos.
 
-#### **The Seekers**
+#### The Seekers
 
 Seekers are a self-declared, informal group of magi looking for secrets of the Old Ones, extinct lineages of pre-Hermetic magic, or other Mystery cults with which to complement and
 
@@ -795,11 +795,11 @@ Seekers are a self-declared, informal group of magi looking for secrets of the O
 
 **Personality Traits**: Greedy +3, Enjoys complex plans +3, Callous +1, Perfectionist +3
 
-#### **Reputations:**
+#### Reputations:
 
 Seeker (Hermetic) 2, Methodical perfectionist (Hermetic) 2, Bonisagus Acclaim (Hermetic) 1
 
-#### **Combat**:
+#### Combat:
 
 *Dodge:* Init –2, Attack n/a, Defense +0, Damage n/a *Being no fighter himself he uses his kataphraktoi to fight for him.*
 
@@ -851,7 +851,7 @@ If Argos is not sufficiently powerful to challenge the magi he can easily be mod
 
 refine Hermetic theory. Seekers are nominally under the control of House Bonisagus, the House containing the most Seekers, but they are in reality individuals working autonomously. The first Seeker was Lucian, Trianoma's first apprentice. For more details see *Houses of Hermes: True Lineages* pages 12 & 15.
 
-#### **Canaanite Necromancy**
+#### Canaanite Necromancy
 
 The biblical land of Canaan and its culture is mentioned in religious works like the Bible as well as by some classical authors; see *Ancient Magic*, page 35. The Canaanite necromancers had mastery well beyond Hermetic magic: they were able to affect the dead regardless of physical range, able to create Arcane Connections to the dead with only a trivial effort, and able to sense whether named persons were dead. There are also dire warnings about the consequences. If Hermetic limits are suddenly surpassed, contacting individuals thought dead and gone might easily resurrect old and implacable conflicts, like those of the Schism War. Houses Tremere and Guernicus would rather the secrets stay lost forever.
 
@@ -891,7 +891,7 @@ Simple rules for converting a dead character to a spectre are as follows. Might 
 
 include him being called on as a witness in a Hermetic case, being severely wounded during his travels, or having set off on a chase for ghosts to bind.
 
-#### **Working With Argos**
+#### Working With Argos
 
 Although Argos initially just wanted to get the tablets and be off, he has since decided he wants another set of magi investigating and perhaps drawing attention. If the player magi are just a little diplomatic, they easily arrive at an understanding with Argos. He moves his research to the player covenant if need be; he carries with him his notes from his previous research. Otherwise, he can as easily return home to his work, and they can communicate through Redcaps.
 
@@ -899,7 +899,7 @@ Argos now uses the player magi to make his work easier, and does not want to hav
 
 Argo is confident that this is enough to beat them to En-Dor, and that by keeping any secrets of what one must face in the city to himself, he believes they will fail — if they even make it that far.
 
-#### **Denying Argos His Tablets**
+#### Denying Argos His Tablets
 
 It is possible that the player magi want the tablets for themselves and attempt to get rid of Argos. He may even be exposed as the one controlling the ghosts, thus being the very villain Bellox. The legal consequences need to be considered, though. Technically, Argos is right; he did lawfully buy the tablets and thus has the right to take them from the cheating merchant. By interfering the player magi are in principle guilty of deprivation of magic, but it is not the strongest or most aggravated case since they acted in good faith, at least to begin with. But if they insist on refusing him they face a Quaesitor, and if this should happen Argos is likely to win the case. Even if he is exposed as "Bellox" it is debatable whether he has broken the Code, since his ghosts have merely destroyed mundane property, not magical. However, destroying the food resources and scaring off the work force seriously hampers the magi's activities. He is willing to accept a fine for this.
 
@@ -1081,7 +1081,7 @@ Father John serves this church and manages the nearby gelb. He has noticed a flu
 
 The building and immediate grounds are well cared for.
 
-#### **The Gelb**
+#### The Gelb
 
 A gelb is a rural church-owned farmland property. This one has a Dominion aura of 2. There are always at least five farmers and their families here, and the leader at this site is a farmer named Golta. These people are all anti-Wilderist Christians. Golta considers Antunnos a devil and had many conversations with Elsie before she gave herself fully to the Wilderist way (see later).
 
@@ -1155,11 +1155,11 @@ To make this happen, he befriended the townspeople, while contacting like-minded
 
 ## Concepts from Houses of Hermes: Mystery Cults
 
-#### **Harmonists versus Wilderists**
+#### Harmonists versus Wilderists
 
 Central to the philosophy of House Bjornaer is the idea that the wellspring of all magic exists in those areas that remain in their pristine state, untouched by the hand of man. With mankind comes the corruption of such pure spirits, warping them into aspects of the fay. The defense of these pristine places has divided the House into two factions: The Harmonists, who believe that invasion of the wilderness by humankind is unavoidable, and thus teach that co-existence is fundamental; and the Wilderists, who wish to enclose humankind within the walls of their cities, where they can do no harm to the wilderness.
 
-#### **Clans and Septs**
+#### Clans and Septs
 
 The internal structure of the House is tribal, first subdivided into six clans, each of which is further subdivided into various Hermeticfamily-based Septs.
 
@@ -1448,7 +1448,7 @@ Charles was an honest merchant adventurer who suffered a stroke of bad luck on o
 
 bought with Simon's money. His original cargo of laboratory supplies are held by Peter as a neutral third party. Simon now believes this cargo to be his to sell to the original recipients at a higher price so he can make a profit.
 
-#### **The Coroner's Ruling**
+#### The Coroner's Ruling
 
 As Charles' body was found washed up on shore, the coroner (or other regional variation of this office) investigated for evidence of a crime. He found none, and the death was ruled accidental. No goods were salvaged after the accident. Charles' body was buried within a few days of his demise.
 
@@ -1458,17 +1458,17 @@ shipment was due to arrive. The shortage affects the magi from the start of the 
 
 Magic is the obvious tool to use for solving this problem, but this is neither easy nor safe.
 
-#### **Subtle Magic**
+#### Subtle Magic
 
 The immediate resolution of the entire problem by use of magic — Mentem especially — is well within the scope of even recently Gauntleted magi. But remember that Mentem spells used to manipulate people have a limit of Duration Moon for standard Formulaic spells. Any deals made under magical duress will be reconsidered once the magic wears off. If someone is manipulated into signing a written contract, once he comes to his senses he will smell foul play and take the matter further. Bear in mind that sometimes this happens even if only mundane persuasion is used. It is not possible to mentally manipulate everyone for ever, and any Mentem magus worth his salt knows this. This being said, if the characters employ intelligent and creative methods the storyguide should reward this with success in manipulating Simon.
 
 Intellego Mentem gives easy access to information that may otherwise be gleaned from skilled use of social abilities. There is no real mystery as to what is happening; the challenge lies in negotiating a long term deal. Although mind reading reveals sinister business methods, it's nothing s spy wouldn't find out by shadowing Simon anyway.
 
-#### **Overt Magic**
+#### Overt Magic
 
 Apart from using Mentem magic on Simon there are many others ways to easily resolve the immediate problems by means of a spell or two. Finding, stealing, and moving the missing cargo is relatively easy, but Simon misses it and knows where to start looking for it. Again, this draws the attention of several influential individuals, and once the supplies run out again a new supplier must be found. Important authority figures like noblemen, guild magistrates, and senior clergy know of both magic and the Order, and all of them can and will raise a case with the Quaesitores. Making Simon disappear isn't hard either, but since he is an influential merchant this is also investigated.
 
-#### **A Hermetic Case**
+#### A Hermetic Case
 
 The Order does not know every thing that goes on in the mundane world. However, if the case with Simon is resolved using considerable magic or foul play the Order might find out in a number of ways. Simon knows he is dealing with wizards, and if he senses interference he will raise a complaint with his guild. The guild knows of the Order and has a way of contacting the Order with a grievance; the same goes for the Church and major nobles.
 
@@ -1491,7 +1491,7 @@ The details of the town depend on individual sagas. This is the town from which 
 
 Facts and rumors are easily picked up at the taverns where the workers and craftsmen go, at the marketplace, at any harbor, riverside, or grazing common the town might have. The offices of merchants or even the Trading Guild can yield information as well. Intrigue, Etiquette, Carousing, Organization Lore: Trading Guild, and Area Lore are all relevant Abilities, depending on where the player characters go. Characteristics usable are Presence, Communication, or even Perception, depending on approach. An Ease Factor of 9 is sufficient, while modifiers between –3 and +3 apply depending on the location, the Ability used, and on whether tactful bribes of at least a day's salary are offered.
 
-#### **Simon**
+#### Simon
 
 - He arrived in town five years ago, and set up a merchant house. His family has trading money in a city far away.
 - He deals in high-end goods like fine clothing, armaments, and silverware rather than lower class wares.
@@ -1502,14 +1502,14 @@ Facts and rumors are easily picked up at the taverns where the workers and craft
 - when he was in town.
 - He refurbished the warehouse and told the workers to look for hiding places under floorboards, between the rafters, and so on. No treasure was found, only old letters, for which Simon paid handsomely.
 
-#### **Charles**
+#### Charles
 
 - He lost money when a ship was lost and set off on a risky venture seriously skimping on the manpower and quality of ships/wagons.
 - He owed Simon a lot of money, and Simon has Charles' last, exotic shipment as collateral, held by Peter, a neutral thirdparty merchant.
 - He died recently. Depending on the location of the town he has drowned at sea or in the river, or has been killed by a landslide or collapsed bridge. The body was recovered, the coroner ruled it an accident, and he has been buried.
 - He had hidden some important papers pertaining to his past trade ventures, probably in his warehouse.
 
-#### **Peter**
+#### Peter
 
 - He is a moderately wealthy merchant dealing in manufactured goods made from furs, leather, and cloth.
 - He is an honest and reasonable man.
@@ -1529,7 +1529,7 @@ If the situation ends amicably with Peter, he may become a future supplier to th
 
 • He is seen as a rival by Simon, who tries to corner his market.
 
-#### **Timeline**
+#### Timeline
 
 At the start of the season in which the magi expected Charles' shipment, Charles borrowed money from Simon. Two weeks later Charles died in the accident, and two weeks after that information of this reached town. Two weeks passed before Simon sent his messenger to the covenant, and the messenger took a week to get there.
 
@@ -1541,7 +1541,7 @@ The warehouse is located in the trading district and is bustling with activity. 
 
 The new building has many architectural qualities, but the inside is decorated in tasteless opulence, thanks to Simon's failed attempts to make a sophisticated show of his family's wealth and power. The house has a suitable number of servants, and several are burly thugs acting as bodyguards. The ground floor houses the office and reception chambers as well as the kitchen in the back. The upper floors house Simon's chambers, guest rooms, and the dining hall. Servants live in outbuildings at the back. The basement holds stores as well as the vault. It is built sturdily of thick stone slabs and has a strong iron door with a good quality padlock. Here can be found Simon's cash in silver, account books, and the letters he found at the warehouse.
 
-#### **Breaking and Entering**
+#### Breaking and Entering
 
 If player characters think to break into the house to learn more or steal something, it should be
 
@@ -1650,7 +1650,7 @@ Simon suggests that he could easily sell books on magical subjects to nobles and
 
 Below are ideas for doing Simon favors in order to help secure supplies for the covenant as well as further Simon's underhand business strategy.
 
-### **Spoiling Leather Goods**
+### Spoiling Leather Goods
 
 Simon asks the characters to spoil a shipment of leather goods waiting in a warehouse. If the player characters choose to do this favor, they get involved with the Tanners' Guild and Peter. The goods need to be taken to a nobleman in the direction of the covenant. Ruining the wares leaves the wagons booked to make the trip free for Simon to hire. He has these pick up another shipment of leathers of slightly inferior quality in a village nearby which the manufacturer there cannot find a buyer for. As Peter cannot deliver to the customer, Simon can get a good price by picking up this deal. The wagons can then take the lab supplies back to the covenant and be there within two weeks.
 
@@ -1658,7 +1658,7 @@ Simon is expecting something clever like ruining the materials, rotting the leat
 
 The warehouse is located in the dense trading and manufacturing district in a small courtyard at the end of a narrow, winding street. The buildings are all close together, and most workshops or small businesses have their owners or workers living in the back or on the top floor. Under these circumstances, a fire could spread easily and have disastrous consequences for the town as well as cost many lives. It would take callous characters to go through with this. Doors and windows are barred from the inside by the old, lame watchman, who is watching for fires, not intruders.
 
-#### **Further Schemes**
+#### Further Schemes
 
 By doing Simon the first favor, the player characters give him an opening to ask for more favors, and this escalates over time. The following favors initially seem innocent and altruistic enough, like ridding the area of bandits or clearing a road of a landslide. But suddenly there is another problem, and another. They could be dealt with in other ways, but that would mean more expenses or delayed shipments. In time, Simon wants jobs done that are still easy, but smell more and more of sabotage and ridding himself of competitors.
 
@@ -1678,11 +1678,11 @@ If a competent character investigates thoroughly, the skeletons in Simon's close
 
 As the first step in establishing their rights to the shipment the player characters need to take up the matter with officials of the Trading Guild. They are the plaintiffs and need someone suitable to make their case. Although this may be a player character, the troupe may hire a local lawyer or Peter the merchant may play this part. A local lawyer can be assumed to have Communication +1, Civil and Canon Law 5, Artes Liberales 2, and Organization Lore: Trading Guild 2. Simon hires the very best lawyer in town with Abilities two points higher than this. Refer to the Court Mechanics insert.
 
-#### **Guild Officials**
+#### Guild Officials
 
 Rulings about trade are made by officials from the Trading Guild appointed from among the masters in town. At this stage, Organization Lore: Trading Guild may be used instead of Civil and Canon Law, and the modifiers may tip the scales. If the guild rules in favor of the covenant, then they get the shipment. Simon does not take the matter any further, but he also refuses to deal with the covenant and may work against their attempts to trade with others. If the guild rules in favor of Simon, then the player characters may take the matter to the town court since they have good evidence to support their case, and Simon obviously only won because he is better connected.
 
-#### **Town Court**
+#### Town Court
 
 Rulings about crime are made by a council of magistrates selected from among the town's citizens. Mechanics and modifiers as listed in the Court Mechanics insert. If Simon loses here, he may work against the covenant as mentioned earlier.
 
@@ -1844,7 +1844,7 @@ The monastery is in the parish of West Brockshire, which also contains one small
 
 The ruined monastery is a few hours' walk from the main parish village.
 
-#### **Monastery Rumors**
+#### Monastery Rumors
 
 The parish priest (Father Michael; his church is in the main village), or other parishioners, explain that the Benedictine monastery was wealthy because of the monks' skill as leather-workers, making belts, bags, and jerkins. The monks' products were mostly exported and sold in the large towns of the diocese. Many parishioners supplied raw hides to the monks, while others worked as teamsters transporting finished
 
@@ -1914,7 +1914,7 @@ Other features that the player characters can discover follow.
 
 • There is an Infernal regio within the church. The Infernal regio has an aura of 5. The presence of the regio can be detected via the usual means (see **ArM5**, page 189). From the outside, the regio appears black, empty, and quiet; it smells of soot and tastes of ash.
 
-#### **The Mass Grave**
+#### The Mass Grave
 
 A mass grave, a few hundred feet north of the main monastery complex, contains the burned bones of the massacred monks.
 
@@ -1925,7 +1925,7 @@ cross, which would be about six feet tall, and easy to find. However, the marker
 
 When the monks were interred they received a proper Christian burial. The burial rites were conducted by a delegation from the Benedictine monk's mother house, but it was such a long time ago that the parishioners have forgotten this detail.
 
-#### **The Crypt**
+#### The Crypt
 
 Beneath the church is the crypt. This is where the Benedictine monks buried their dead, when the monastery was live and active. Any character searching the ruined church finds the crypt.
 
@@ -1935,7 +1935,7 @@ The interior of the crypt is cool and dark. Although soot-stained, it is not bad
 
 Looters have already entered the crypt. The bones of the dead monks are strewn about the crypt and the sarcophagi have been pried open, although the bones older than the mid-12th century are already dust. Everything of value has been taken.
 
-#### **The Black Cockerel**
+#### The Black Cockerel
 
 Proudly striding around the ruins of the monastery is a large black cockerel. He spends most of his time pecking at, flapping his black wings at, and otherwise terrorizing a harem of a dozen hens that he keeps sequestered in the ruined monastery kitchens.
 
@@ -1975,7 +1975,7 @@ The demon has invested 1 Might Point in the possession of the cockerel. This mea
 
 **Abilities:** Athletics 3 (grace), Awareness 4 (sin), Bargain 5 (infernal), Brawl 4 (fist), Civil and Canon Law 3 (heresy), Code of Hermes 1 (infernalism), Guile 6 (infernalists), Infernal Lore 3 (demons), Leadership 3 (demons), Penetration 3 (*ball of hell-* *fire*), Single Weapon 6 (sword), Stealth 4 (urban)
 
-#### **Powers:**
+#### Powers:
 
 *Ball of Hellfire*, 1 point, Init +3, Ignem: The demon launches a ball of black flame at the target (within Voice Range), which automatically hits and causes +30 damage.
 
@@ -2018,7 +2018,7 @@ From the outside, the regio appears black, empty, and quiet, and it smells of so
 
 Each character who remains in the Infernal regio must make a Deprivation check every Diameter due to the heat and choking smoke (see **ArM5**, page 180), unless the character is immune to such hazards. A character who wraps his face in a cloth receives a +3 bonus to the Deprivation roll.
 
-#### **The Burned Monks**
+#### The Burned Monks
 
 In the regio the church is filled with the panicked spirits of the burned monks, who frantically dash back and forth, screaming, through the nave. Several monks by the altar feverishly pray for deliverance, while others stand below the tower madly ringing the church bells.
 
@@ -2026,7 +2026,7 @@ These terrified ghosts are not really the spirits of the burned monks; they are 
 
 One of the monk ghosts dashes into the crypt, which is accessible from the church interior. The demons intend for the player characters to see the fleeing monk.
 
-#### **Escaping The Church**
+#### Escaping The Church
 
 The door to the church is bolted and barred by an infernal supernatural power, and cannot be opened by mundane means. However, the infernal lock (an effect of magnitude two) can be dispelled by a suitable Perdo Vim effect. Characters can also create exits by breaking the windows, shattering the walls, or destroying the door.
 
@@ -2038,7 +2038,7 @@ Any characters who survive crossing through the hellfire exit the regio.
 
 The Cloven Hoofed Monk also offers salvation from the flames to those who accept it.
 
-#### **The Cloven Hoofed Monk**
+#### The Cloven Hoofed Monk
 
 In the Infernal regio, the crypt is dark and cool, so Deprivation Checks for heat and smoke need not be made. The cool shadows hide a red-robed, hooded monk and when the characters enter the crypt he steps forward to make this offer:
 
@@ -2074,7 +2074,7 @@ Characters who accept the infernal deal immediately fall unconscious and awake o
 
 **Abilities:** Athletics 3 (run), Brawl 1 (dodge), Concentration 5 (*A Problem Shared Is A Problem Doubled*)
 
-#### **Powers:**
+#### Powers:
 
 *Coagulation*, 1 point, Init –1, Ignem: Allows the demon to form a physical body (see *Realms of Power: Infernal* page 31). The "physical" body manifested by the burned monks is immaterial (made of hot air, ash, and smoke) and cannot be damaged by normal physical means.
 
@@ -2245,7 +2245,7 @@ Mischievous +3, Timid +2
 
 **Personality Traits:** Curious +4, Prideful +3, Hedonistic +2, Timid +2
 
-#### **Combat:**
+#### Combat:
 
 *Claws:* Init +3, Attack +8, Defense +10, Damage –5
 
@@ -2259,7 +2259,7 @@ Mischievous +3, Timid +2
 
 *\* Cats are excellent climbers and jumpers, gaining a +3 bonus to appropriate rolls.*
 
-#### **Powers:**
+#### Powers:
 
 *Child of Hephaestus*, 0 points, Init +0, Terram. See Ailuros.
 
@@ -2452,13 +2452,13 @@ Trajan's use of the Guardians of the Forest ruling is innovative in two ways. Fi
 
 Note that, even in the Rhine Tribunal, guardian status is not given, the magus just claims it. If the Tribunal agrees with a defense based on this assertion, this makes the status "official."
 
-#### **Nature Lore**
+#### Nature Lore
 
 Many forest guardians (although not all) have the Supernatural Ability Forest Lore (see *Guardians of the Forests: The Rhine Tribunal*, page 37). This allows the character to interact in special ways with the forest. Similar Nature Lore Supernatural Abilities exist for other sorts of natural features, including rivers (see *Houses of Hermes: Mystery Cults*, page 103).
 
 Trajan has the Nature Lore: Danube River Supernatural Ability. This allows him to find regiones and vis within the Danube, speak with supernatural river inhabitants, and commune with the river spirit, all without the use of Hermetic magic.
 
-#### **Gilds**
+#### Gilds
 
 Gilds are political factions within the Rhine Tribunal (see *Guardians of the Forests: The Rhine Tribunal*, page 27). Trajan is a member of the Hawthorn Gild. Its agenda is to protect the wild places and creatures from the mundanes. Siegfried is a member of the Oak Gild. Its agenda is to foster respect for authentic Hermetic traditions and rid the Order of hedge wizard influences.
 
@@ -2468,7 +2468,7 @@ Trajan genuinely sees himself as the Guardian of the Danube. He believes that th
 
 Although the Tytalus Trajan enjoys this political conflict, he does not really care about the legal situation. Trajan just wants to defend the river. Creating a legal cover is a great outcome, but if he fails to do so, Trajan contentedly pays legal fines. Of course, legal fines do not prevent him from taking similar actions in the future to defend the river. If Marched, Trajan uses his *Return to the Flow* spell to retreat into the Danube (see later).
 
-#### **The Poisoning of the River**
+#### The Poisoning of the River
 
 The river near the human towns really is being poisoned. The water is bad, which can be detected with Intellego Aquam, and Intellego Animal (or Herbam) can detect the unhealthy imbalance of humors in the river-borne wildlife. Sites of great natural beauty (with weak Magic auras) along the river have been either destroyed or swamped by town growth and Divine auras.
 
@@ -2492,7 +2492,7 @@ Trajan has used his *Wizard's Flood* ritual (see insert) to destroy half a dozen
 
 **Reputations:** Guardian of the Danube 2 (Hermetic), River Spirit 1 (local)
 
-#### **Combat:**
+#### Combat:
 
 *Trident + Heater Shield:* Init +3, Attack +10, Defense +13, Damage +8 *Fist:* Init +3, Attack +3, Defense +3, Damage +3
 
@@ -2512,7 +2512,7 @@ Trajan has used his *Wizard's Flood* ritual (see insert) to destroy half a dozen
 
 **Encumbrance:** 0 (0)
 
-#### **Spells Known:**
+#### Spells Known:
 
 *Tongue of the Fishes* (InAn 20/+18) *Mighty Torrent of Water* (CrAq 20/+27) *Wizard's Flood* (CrAq 35/+37\*) *Eyes of Danibus* (InAq(Im) 20/+21\*) *Lungs of the Fish* (MuAq 20/+24)
 
@@ -2550,7 +2550,7 @@ Trajan is a member of the Hawthorn Gild (a political faction in the Rhine Tribun
 
 Trajan's Giant Blood means many Corpus spells are ineffective on him without including size modifiers.
 
-#### **Tongue of the Fishes**
+#### Tongue of the Fishes
 
 **InAn** 20
 
@@ -2562,7 +2562,7 @@ This spell allows Trajan to speak with any animal whose natural habitat is the r
 
 (Base 10, +1 Eye, +1 Concentration)
 
-#### **Robes of the Cataract**
+#### Robes of the Cataract
 
 **Cr(Re)Aq** 24
 
@@ -2584,7 +2584,7 @@ This ritual, when cast in a river, causes it to rapidly rise and burst its banks
 
 (Base 3, +1 Touch, +7 size)
 
-#### **Eyes of Danibus**
+#### Eyes of Danibus
 
 I**nAq(Im)** 20
 
@@ -2594,7 +2594,7 @@ Trajan can see from any vantage point along a river that he holds an Arcane Conn
 
 (Base 3, +4 Arcane, +1 Concentration, +1 Requisite)
 
-#### **Danibus' Favor**
+#### Danibus' Favor
 
 **ReAq** 35
 
@@ -2604,7 +2604,7 @@ Wards a building against flooding. Trajan can use this spell to save a building 
 
 (Base 5, +1 Touch, +2 Sun, +3 Structure)
 
-#### **Return to the Flow**
+#### Return to the Flow
 
 **ReCo** 40
 
@@ -2614,7 +2614,7 @@ This spell instantly transports Trajan to a point that he has an Arcane Connecti
 
 (Base 35, +1 size modifier)
 
-#### **Arms of Neptune**
+#### Arms of Neptune
 
 **CrTe** 25
 
@@ -2695,26 +2695,26 @@ Siegfried thinks he is the best magus to prosecute Trajan. However, he cedes con
 
 Trajan has destroyed mundane towns on the banks of a river, in the player characters' Tribunal, and claims he is permitted to do this as he is the guardian of the river. The scenario is written as if that river is the Danube, but this can be changed depending on the player character Tribunal.
 
-#### **Greater Alps Tribunal**
+#### Greater Alps Tribunal
 
 The Danube river is suitable. The upper reaches are the southern border between the Rhine Tribunal and the Greater Alps Tribunal.
 
-#### **Normandy Tribunal**
+#### Normandy Tribunal
 
 The Scheldt river (along the northwestern border of the Rhine Tribunal) originates in northern France in the Normandy Tribunal, where it is called the Escaut river. The river enters the North sea near Antwerp.
 
-#### **Novgorod Tribunal**
+#### Novgorod Tribunal
 
 The Oder River has its headwaters near the border of the Rhine and Novogorod Tribunals in the Giant Mountains, and flows north through the Novgorod Tribunal, entering the Rhine Tribunal in Pomerania before flowing out into the Baltic sea.
 
 
 The Danube river flows from the Rhine across the Transylvania Tribunal, ultimately emptying into the Black Sea.
 
-#### **The Rhine Tribunal**
+#### The Rhine Tribunal
 
 If your saga is set in the Rhine Tribunal, then this story can still be used. Can a magus claim to be a river guardian modeled on the forest guardian ruling? Alternatively, Trajan could still assert the right to be the guardian of the Danube in a foreign Tribunal, with the player characters asked to either help prosecute or defend Trajan.
 
-#### **Other Tribunals**
+#### Other Tribunals
 
 There are no rivers that flow over natural geography between the Rhine Tribunal and the Tribunals of Hibernia, Iberia, Levant, Loch Leglean, Provence, Rome, Stonehenge, and Thebes.
 
@@ -2744,7 +2744,7 @@ Order of Hermes Ability Score to 3. Increase his Artes Liberales Ability Score t
 - Add the Ability Intrigue 3 (Hermetic). Add the Ability Penetration 1 (Mentem).
 - Add the spell *Stench of Magic*  (InVi 25/+20)
 
-#### **Stench of Magic**
+#### Stench of Magic
 
 **InVi** 25
 
@@ -2858,7 +2858,7 @@ Unless resolved earlier, the prosecution of Trajan occurs at the next Tribunal u
 
 If Siegfried cannot prosecute the case then a local second (perhaps a player character) will present his case for him.
 
-#### **What Hermetic Crimes has Trajan committed?**
+#### What Hermetic Crimes has Trajan committed?
 
 Siegfried (or his proxies) accuse Trajan of dangerously interfering in the mundane by destroying towns and drowning hundreds of mundanes. At face value this is a High Crime. However, as the mundanes do not associate this devastation with Hermetic magi (unless this has changed during play), it may be questionable whether Trajan's interference has really resulted in "ruin to his sodales."
 
@@ -2866,7 +2866,7 @@ The excessive mundane deaths may be a factor in the Tribunal's decision. If Traj
 
 Trajan claims he is the river guardian, and that this excuses both his intended actions and any collateral damage.
 
-#### **If Trajan is Found Guilty**
+#### If Trajan is Found Guilty
 
 If Trajan is found guilty he could be fined, Marched, or the Tribunal might decide to impose some other penalty, such as labor, or the execution of his beloved familiar, Cattus.
 
@@ -2883,7 +2883,7 @@ This escape strategy is not infallible. For example, very quick characters may b
 
 Siegfried, flush with success, tries to gather support for the Tribunal to appeal and thus over-rule the Rhine Tribunal's Guardians of the Forests ruling at the Grand Tribunal. If Trajan has been Marched, and especially if he has then escaped, there could be considerable support for this idea. However, if Trajan has only been fined, then the Tribunal is probably reluctant to challenge the Rhine Tribunal in this way.
 
-#### **If Trajan is Found Innocent**
+#### If Trajan is Found Innocent
 
 If Trajan is found innocent, this Tribunal has effectively imported the Rhine Forest Guardians ruling by creating a similar ruling (pertaining to rivers) in this Tribunal's Peripheral Code. Whether this precedent can be effectively used by other characters may be the basis of future stories.
 

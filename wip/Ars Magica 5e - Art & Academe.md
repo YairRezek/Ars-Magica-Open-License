@@ -22,7 +22,7 @@
 
 **Second-Round Playtesters:** Mark Barltrop, Mark Lawford, David Staveley, Simon Turner; Jason Fryer, Matt Dyson, Emily Dyson; Donna Giltrap, Malcolm Harbrow, Aaron Hicks, Richard Love; Eric Menge, Ann Sasahara, Scott Benfield, Lynn Reed-Kendall, Chris Day; Nicholas Peterson, Jennafyr Peterson, Michael Pisarsky, Kristi Pisarsky; Matthew L. Seidl; Neil Taylor, Sheila Thomas; Father Thomas Dowd
 
-#### **Author Bios**
+#### Author Bios
 
 **Matt Ryan** is a romantic and a dreamer, who sometimes wishes that life was as simple as riding across the meadow and stealing his neighbors' cattle. He enjoys reading medieval Irish history, gardening with his girlfriend, and playing soccer with his son. He would like to thank Mark for setting a high standard for this book, and David for maintaining and managing it. He would also like to thank John and Michelle Nephew for allowing him to participate in the **Ars Magica** community.
 
@@ -440,13 +440,13 @@ The New Aristotle has led to a new type of
 
 This chapter contains two new Virtues, both of which are primarily useful only for academic characters.
 
-#### **Aristotelian Training**
+#### Aristotelian Training
 
 *General, Minor*
 
 The character is trained in the New Aristotle, having received his instruction from a teacher using recently translated texts of Aristotle in preference to the normal curriculum. The character gains a +1 bonus on Artes Liberales rolls for grammar, logic, and rhetoric, as well as a +1 bonus when calculating Disputatio Totals. A magus with this Virtue may add +1 to his Lab Totals if attempting to synthesize the New Aristotle with Magic Theory (see Chapter One: Hermetic Magic and Philosophical Breakthroughs). This Virtue is compatible with Puissant Artes Liberales.
 
-#### **Academic Concentration (subject)**
+#### Academic Concentration (subject)
 
 *General, Minor*
 
@@ -483,7 +483,7 @@ Hermetic thinkers wonder if the Sons of the Peters' claims are true, that their 
 On the whole, however, the Sons of the Peters are wrong. Their theory is reflective only of the grammatical properties of Latin, and any individual theorem does not necessarily correlate to another language, or to reality itself. Their boastfulness has led to pride, and Satan has "rewarded" the group, secretly, with the ability to win many of their disputationes. A specially commanded group of demonic tempters (see *Realms of Power: The Infernal*, page 43) has been sent to clandestinely accompany the most renowned members, each demon having the power to grant a recipient an Infernally tainted Puissant Artes Liberales Virtue, which is usually enough to allow the recipient to win his dispute.
 
 
-#### **Giving a Sermon: Communication + Preaching + stress die vs. 12**
+#### Giving a Sermon: Communication + Preaching + stress die vs. 12
 
 A preaching character can also instruct his listeners, teaching them Theology. Listeners must attend weekly sermons preached during an entire season to receive instruction in this way. Those who attend receive 1 experience point in Theology, in addition to whatever other experience points they may be eligible for according to their seasonal activities, although this may not raise their score above that of the preacher.
 
@@ -573,7 +573,7 @@ Leonardo's book, *Liber abbaci*, is a tractatus on Artes Liberales (arithmetic),
 
 Academically-minded magi have invented a spell that allows a listener to hear the normally "unheard" sounds of the orbiting planets. Having heard these sounds, a person can then compose divinely inspired church music, or gain a better understanding of the heavenly bodies. This spell is problematic; Hermetic magic easily augments human hearing, but is stunted by the Limit of the Lunar Sphere. Emanating from the heavens, the sounds' volume may not be affected, but a listener can be made more receptive to them.
 
-#### **Hearing the Silent Chorus**
+#### Hearing the Silent Chorus
 
 Intellego Imaginem 15 R: Per, D: Conc, T: Hearing
 
@@ -777,7 +777,7 @@ The very subject matter of natural science consists of how things change, and th
 
 All changes have causes that give the things they affect reasons — why the thing exists and what it is. It is of vital importance to the philosopher to understand the causation of change. The **material cause** of a thing is the matter out of which the thing is made. The **formal cause** of a thing is the form that gives it definite being, and makes it this thing and not another. The **efficient cause** is that which makes the change, and is perhaps the most simple to understand; it is the agent, living or nonliving, which acts as the source of the change. The efficient cause of natural objects is normally another individual of the same species; dogs beget dogs and apple seeds give rise to apple trees. The efficient cause of a manufactured thing is its maker. The purpose of a thing is called the **final cause**, the sake for which it exists, or the reason that the change occurs. For all natural things, the final cause is to realize its form as perfectly as possible, to be as good a specimen of man, horse, tree, etc., as conditions will permit. This is not the case for manufactured objects. To take an example of a statue, its material cause is marble, its formal cause is a statue of Frederick Barbarossa, its efficient cause is the sculptor who crafted it, and its final cause is to commemorate the king, and perhaps win his favor.
 
-## **Change in Substance: Generation and Destruction**
+## Change in Substance: Generation and Destruction
 
 A change in respect to substance is when a thing is generated and destroyed. When a person is born, he comes into being, when he dies, he goes out of existence. Likewise when a statue is made and when it is smashed. The form and the matter of the thing survive a change in substance, satisfying the condition that all changes must have something that persists through the change. It is the substance — that combination of form and matter — which is created or destroyed.
 
@@ -787,37 +787,37 @@ Aristotelian concepts of causality are useful when considering spell design, par
 
 The act of generation is rarely the creation of a substance where there was none previously (that is, *de novo* creation), but instead takes a pre-existing substance and impresses upon it a new form, making it into a new substance. Thus when a statue is made, it begins with the form of marble. At the end of its generation, the object still possesses this form, but also possesses the form of a statue. Similarly, when the act of destruction removes a form from a substance: the smashed statue loses the form that made it identifiable as a statue, and is left with the form of marble rather than losing all form altogether.
 
-## **Consequences of Generation and Destruction**
+## Consequences of Generation and Destruction
 
 Only supernatural powers (such as the Hermetic Art of Creo) can combine matter
 
 
 Perdo magic dissolves substances, not matter. When the form is separated from its matter, the substance no longer exists, but both the form and the matter from which it was made are still there. However, since form is non-material and matter is formless, the destroyed object vanishes. Because Perdo magic damages categories and substance, it cannot improve an object since its target moves further away from its ideal form.
 
-#### **Change in Quality: Alteration**
+#### Change in Quality: Alteration
 
 The process of alteration is where the properties of a substance are changed. A wax candle alters when it is warmed, becoming softer, and alters again in the cold, becoming hard. These changes come about through alterations in the relative amounts of hot, cold, dry, and moist particles within an object. Natural philosophers recognize that all substances have a digestive capacity that is their propensity to change, and a retentive capacity that is their tendency to remain the same. Digestion is imparted by hot and moist particles, so an object that has a predominance of such particles is easily capable of change. Air, which is particularly moist and hot, readily condenses into rain, or rarefies into lightning. In particular, moistness gives an object its fluidity and flexibility, so an object that becomes moist becomes more flexible. Moist things also tend to be volatile and expansive, filling the spaces in their surroundings. Heat encourages particles to separate from unalike particles and cling to their own kind, encouraging alteration. Retention is caused by cold and dry particles; objects with these properties do not experience alteration natu-
 
 
 rally, and are subject to accidental alteration with reluctance. Coldness causes things to mix together and coagulate and dryness fixes them solid — it is the quality of rigidity, granting structure and defining shape, rather than being defined by the environment. For this reason, rock breaks rather than changes, and metal only melts because it is more moist than other types of earth, and it requires extreme circumstances to do so.
 
-#### **Consequences of Alteration**
+#### Consequences of Alteration
 
 Alteration does not necessarily fall under the Hermetic Technique of Muto; in fact, most alteration is in terms of natural changes, and is the purview of Rego spells. For example, water can become steam or ice under the influence of Rego, for these are both natural states of water, the first caused by an alteration of the amount of moist particles in water, the latter by digestion into more cold particles. Rego can also make a substance more resistant to alteration by enhancing its retentive capacity. Alchemy (see Chapter Five: Experimental Philosophy) operates through these natural alterations in substance through refinement and purification.
 
 The Technique of Muto, on the other hand, does not work through digestion or retention; instead, it directly manipulates the category of quality to alter the properties of a substance — such as its color, shape, or density — without an actual change in substance. The original form and matter remain unchanged, so a man turned into a pig with a Muto spell is simply a man with the categories of a pig, and can still be affected with Corpus spells, as well as Animal spells that target his new shape. Members of House Bjornaer achieve a deeper level of change; the heartbeast seems to have a different form than the human shape, although the matter remains the same. If this was fully understood by Hermetic magi, then perhaps permanent unnatural change would be possible.
 
-## **Change in Quantity: Growth and Diminution**
+## Change in Quantity: Growth and Diminution
 
 Just as an object has a digestive and retentive capacity, so it has an attractive and an expulsive capacity; the former imparted by its hot and dry particles and the latter by its cold and moist ones. Because all substances have all four types of particles, all things are capable of attracting to themselves more matter (and thus growing), or expelling superfluous matter (thus shrinking). Those objects with an abundance of heat and dryness are naturally inclined to grow by attracting more of themselves to themselves; witness the capacity of fire to expand and grow rapidly. Conversely, a particularly moist and cold object naturally decreases its own substance, much as water tends to evaporate or seep away if not prevented from doing so.
 
 It is the attractive properties of living things that enable them to grow throughout their lives, and the forces of attraction and expulsion also order the seasons, causing the hot spheres of air and fire to expand in the summer at the expense of the cold spheres of water and earth (and vice versa in winter).
 
-## **Consequences of Growth and Diminution**
+## Consequences of Growth and Diminution
 
 Growth is most easily simulated with magic by creating more substance directly by informing new matter to account for the change in size, and thus is an exercise of the Technique of Creo. Muto can also make something grow, but it does this through the manipulation of the categories of quantity, making an object or creature larger and/or heavier without the concomitant increase in substance; such a change is unnatural, and cannot result in permanent growth.
 
-#### **Change in Place: Motion**
+#### Change in Place: Motion
 
 Everything capable of motion, whether inanimate or animate, is moved by something that is distinguishable from the thing which it moved. Thus the living spirit within an animate thing is the mover and the creature's body the thing that is moved. In inanimate objects, however, the mover and the thing moved are physically and spatially distinct from each other; and it is this which separates the animate from the inanimate.
 
@@ -843,7 +843,7 @@ Both fire and water can also propagate the precipitate motion of an object; only
 
 Above the Lunar Sphere, movement may operate according to different rules. Those philosophers who, following Aristotle, posit the existence of aether in the celestial realm theorize that the natural motion of aether is circular rather than linear, and thus the rotation of the heavenly spheres is a product of their eternal natural motion. Dissenting voices who deny the existence of aether claim that the sphere of fire extends into the celestial realm, becoming increasingly rarefied until it offers objects no resistance at all. Consequentially the wandering stars, set in precipitate motion by the Prime Mover when He created them, still move unto this day in their eternal orbits.
 
-#### **Consequences of Motion**
+#### Consequences of Motion
 
 It might seem counter-intuitive to the modern reader, but without a concept of momentum an object's speed bears no relationship to the force that propels it. Thus a missile weapon such as the bullet from a sling cannot do any more damage if it is thrown with greater speed; only the force imparted by the initial mover is important. Further, stones thrown by a strong man do not travel faster than those thrown by a weak man, although they can travel further because the ability to overcome the resistance of the
 
@@ -934,7 +934,7 @@ The minimum definition of life is the ability to take nourishment and to increas
 
 The least and lowest level of sharing life is that of the plant, which possesses the basic power of the natural faculty to change under its own power, and act as the efficient cause of others of its own kind. At the next stage in the hierarchy of living things are those things that in addition to the natural faculty have the sensitive faculty, and thus perceive the world about them. There are things that possess this power but lack the consequent powers of desire and moving in order to satisfy their desires; these are the immobile creatures like shellfish that are part-way between plant and animal. Most beings with the sensitive faculty are possessed of movement, however, and make up the class of animals. The third degree of life is occupied by the rational creatures such as humans and spirits. While natural animals have no rationality or knowledge, they have a natural wisdom born from their instinct (see the Human Mind, Estimation, below). They can build dwellings, raise their young, seek their food, flee from danger, and defend themselves from harm. They can seek herbs that will cure their ills, and know which will help or harm them through estimation; and yet they cannot truly be said to have either intellect or reason (see The Human Mind, below).
 
-#### **Plants**
+#### Plants
 
 God made the plants before He made the sun in order that it should not seem that the sun caused the production of plants, yet pagans are still in error in worshiping the sun as the originator of green herbs and trees. Plants are provided for the sake of humans: many are
 
@@ -956,22 +956,22 @@ The tree's purpose is more transparent to a magus: it is a source of vis, perhap
 
 hurt humans while they remained free from sin. The third is that these noxious plants acquired their rough shapes and harmful qualities subsequent to man's expulsion from Eden. Whatever their origins, the purpose of such plants is to convince man of his error, and punish him for his sin.
 
-## **Living Creatures of the Waters**
+## Living Creatures of the Waters
 
 Those things that live in the water, even if they can also live on land, are accounted among the *pisces* or fishes. Swimming is a form of creeping — fish pull themselves through the water with their fins just as reptiles pull themselves across the surface of the land. Some fish are called amphibians if they can live on land as well as in the water, and
 
 
-#### **Living Creatures of the Air**
+#### Living Creatures of the Air
 
 The *aves* or birds occupy the space above the earthly and watery spheres, but below the fiery vault of the firmament. The flight of every bird is known to be able to reach the earth, but not all are capable of reaching the firmament; only noble birds such as eagles can achieve such heights and even they cannot actually fly within the sphere of fire that surrounds the earth. There are numerous types of birds, differing by kind and custom: some shun man (like the rock dove) whereas others delight in him (like the swallow); some are bold (like the hawk) whereas others are timid (like the quail); some go in flocks (like the starling) whereas others are solitary (like the eagle); and some can sing (like the swan) whereas others only squawk (like the duck). And yet they are all called birds because they do not follow straight roads (a-viae) but stray through any byway.
 
-#### **Living Creatures of the Earth**
+#### Living Creatures of the Earth
 
 The animals of the earth were made in three kinds. The first kind are the *pecora* or cattle: mild animals made apt for the use of man. This includes animals intended by God to be beasts of burden, and also those that provide food, both milk and meat. Second are the *repta* or creeping things, which move by dragging their bellies on the earth. Finally are the *ferae* or beasts, those land animals that possess untamed wildness. Some philosophers divide from the ferae the quadrupeds, those animals that lack the raging cruelty of the predatory beasts but are untamable nevertheless, such as antelopes, stags, and hares.
 
 Some animals are harmful to man, but, like those plants that are poisonous, they only became injurious after Man sinned. Whether they were created following the Fall from Grace, or pre-existed but became dangerous afterward is a matter of debate among the philosophers; whichever is the case, their purpose is clear. Harmful animals exist for the sake of instilling fear and of punishing vices in mankind in order to test and perfect virtue.
 
-#### **Worms**
+#### Worms
 
 The living creatures of the waters, the air, and the earth multiply through propagation, but there are also those animals that multiply through simple generation. These creatures arise from the elements, from plants, or from rottenness, and are called the *vermes*, or worms, from whence we get the name "vermin." Mice are the largest of the vermin, born of damp earth; scorpions come from dry earth; other land-worms include centipedes, earthworms, and ants. Spiders are worms of the air, which produce from their bodies long threads and never cease in their weaving. Eels and frogs are born from slime and mud in rivers and ponds, and the blood-sucking leech is also a waterworm. Leaf-worms include the caterpillars, locusts, and beetles; they are born from rotting plants, and consume vegetation. Flesh worms
 
@@ -979,13 +979,13 @@ The living creatures of the waters, the air, and the earth multiply through prop
 
 The generation of "worms" from rotting vegetation, meat, earth, air, and water is a natural process, and can therefore be produced using Rego Animal spells. Only vermin appropriate to the raw substrate can be created naturally. The potential for Hermetic magic to produce vermin is immense; a Target: Group spell is capable of producing a mass of animals equal to 10 standard targets (animals of Size +1), which is about 2 million insects (Size –15), 50,000 mice (Size –10), 20,000 frogs (Size –9), or 1000 eels (Size –5). However, since this is a natural process, the base material must be capable of supporting this number of creatures. A standard individual of a given Form (the corpse of an animal of Size +1, a plant 1 pace in each direction, ten cubic paces of soil, and so forth) can produce a maximum of 1000 creatures regardless of their size.
 
-#### **New Rego Animal Guideline**
+#### New Rego Animal Guideline
 
 A requisite is required for the substrate that gives rise to the worms only if the caster cannot perceive the worms when they are generated. Thus, a Corpus requisite is needed to create intestinal worms, but not fleas or lice. To create worms from living flesh, a Perdo requisite is required to rot the flesh first.
 
 **Level 5:** Cause vermin to spontaneously generate in appropriate matter, such as flesh, plants, soil, or water.
 
-#### **Plague of Frogs**
+#### Plague of Frogs
 
 Rego Animal 20 R: Touch, D: Mom, T: Group
 
@@ -993,7 +993,7 @@ A swarm of frogs spontaneously generates in a pool of water touched by the caste
 
 (Base 5, +1 Touch, +2 Group)
 
-#### **The Verminous Infestation**
+#### The Verminous Infestation
 
 Rego Animal 20 R: Eye, D: Mom, T: Ind Req: Perdo, Corpus
 
@@ -1012,11 +1012,11 @@ The principle difference between the mind of an animal and that of a human is th
 
 The intellect is the power of understanding, the process of revealing the self-evident, a simple grasp of an intelligible truth. Angels are blessed with perfect understanding — *intelligentia* — in that things which are sensed are fully comprehended; there is no need for reason to reveal them. Intellect is clouded intelligentia, which provides frequent but momentary glimpses of true understanding; the flash of inspiration and the dawning of comprehension. The intellect is also the organ of morality and the seat of conscience; the soul knows what is good and what is bad without the need for logic.
 
-#### **Common Sense**
+#### Common Sense
 
 The common sense or *vis compositiva* receives all forms and images perceived by the external senses and combines them into one common mental picture. These composite images can then be compared with those stored in the memory or held in the imagination. It also judges the operation of a sense, so that when we see, we know what we are seeing. Anesthesia separates out the common sense, providing sentience without full consciousness.
 
-#### **Imagination**
+#### Imagination
 
 The imagination or *vis imaginativa* retains what has been seen and experienced even after the sense-impressions have subsided, and serves as the link between memory and cognition. What the common sense assembles, the imagination preserves. It is distinct from the memory for the imagination stores only images, with no concepts, ideas, or emotions connected to them. What is commonly referred to as "thinking" is the recall of images within the imagination, although planning for the future is covered by cognition.
 
@@ -1024,11 +1024,11 @@ The imagination or *vis imaginativa* retains what has been seen and experienced 
 
 Cognition is the part of the mind where decisions are made. It is a receptacle of the judgment exercised by the soul, which then coordinates the other parts of the mind and body to enact the will of the soul. Also known as *vis phantastica*, cognition reaches decisions by manipulating mental images drawn from the other inner wits, separating and uniting the information they contain. The imagination can only hold in mind what has been directly sensed, whereas cognition can use the perceptions from the imagination and combine them into things never experienced — for example, mountains made of emeralds, or flying dogs. This faculty involves invention, planning for the future, design, and poetic imagery. Dreams can come from the cognition into the sleeping mind, but this is not their only source; some are drawn from the memory to replay events in the past, and others come direct from the soul.
 
-#### **Estimation**
+#### Estimation
 
 The estimation or *vis aestimativa* covers instinct. It detects the practical, the biological significance of things. It enables a cow to pick out her calf, or to seek shelter from the elements. Such decisions are not formed by the reasoning powers, and friendship or enmity are not perceived by the senses. Estimation is the instinct to act in a particular manner based on judgment rather than decision, so is distinct from cognition. Cognition is concerned with the images of the senses to open the way to a discursive synthesis and analysis of senseperceptions. Estimation, on the other hand, operates on the derivatives of the current sense-perceptions, recognizing danger, food, friendship, and so forth — none of which are directly sensed — and motivating the locomotive powers appropriately. It is this wit that causes the emotional states of *gaudium*, *laetitia*, *ira, tristitia,* and *timor* (see Chapter Four: Medicine, Emotional States) as a response to the instinctual reaction to an object.
 
-#### **Memory**
+#### Memory
 
 The power of memory or *vis memorativa* is to act as a treasury or repository for information discovered by the estimation, and it relates to estimation in the same way that imagination relates to the common sense. The imagination is a storehouse for images, whereas the memory preserves ideas. The memory is two-fold; the sensuous memory retains, reproduces and recognizes representations of past experience and places those experiences in time. The rational memory is the power of recollection, reminiscence, and active recall and is the province of man rather than beast.
 
@@ -1038,7 +1038,7 @@ The Art of Mentem operates directly on the five wits. Most magi have only a smal
 
 Hermetic magic cannot affect the functions of the soul — reason and intellect even though they form part of the thinking mind. However, it can improve overall intelligence by enhancing the operation of all five wits, making reason come easier (as in *The Gift of Reason*), or cause a mind to be so consumed by one of those wits that reason does not get a look in (such as in *Mind of the Beast*). Cognition covers dreaming as described below, but other spells affecting dreams through cognition (such as by inserting the caster's spirit into another's dream) can be found in *The Mysteries Revised Edition*, pages 102–113.
 
-#### **Creo Mentem Spells**
+#### Creo Mentem Spells
 
 **Look at Me**
 
@@ -1050,7 +1050,7 @@ This spell creates a thought in the imagination of the target, causing him to lo
 
 (Base 4, +3 Sight)
 
-#### **Human Figment of the Waking Mind**
+#### Human Figment of the Waking Mind
 
 CrMe 25
 
@@ -1088,7 +1088,7 @@ The Level 10 guideline "Completely rewrite a person's memories" can rewrite any 
 
 The Level 15 guideline "Utterly change a person's mind" can do so by dominating the mind with a particular wit; for example, *Mind of the Beast* leaves the estimation in charge of all mental actions.
 
-#### **Intellego Mentem Spells**
+#### Intellego Mentem Spells
 
 **Borrow the Eyes of Another**
 
@@ -1100,7 +1100,7 @@ The caster can see through the eyes of another person to whom he has an Arcane C
 
 (Base 5, +4 Arc, +1 Conc)
 
-#### **Muto Mentem Spells**
+#### Muto Mentem Spells
 
 **Distraction of the Magpie**
 
@@ -1132,7 +1132,7 @@ This spell utterly changes the target's capacity for cognitive thought; all prev
 
 (Base 15, +2 Voice, +4 Year)
 
-#### **Perdo Mentem Spells**
+#### Perdo Mentem Spells
 
 **The Stultified Peasant**
 
@@ -1177,7 +1177,7 @@ This spell wipes the memory of the target clean, removing every stored idea and 
 
 (Base 25, +1 Touch, +4 Year)
 
-#### **Rego Mentem Spells**
+#### Rego Mentem Spells
 
 **Call the Dream** ReMe 20
 
@@ -1233,7 +1233,7 @@ Prior to the New Aristotle, Peter Abelard wrote extensively on the matter of sin
 
 In general, scholars propose a direct link between the quality of goodness and the act of being, the quality of evil being a privation of good, or a lack of being. Thus, evil itself does not exist, but is the absence of good from a thing. This repeats the Neoplatonic sentiment that the universal Good can only create good, not evil. All agree that mankind's job is to cultivate goodness, and many writers have given exact actions that do so. For example, one Jewish philosopher described how a man should eat, sleep, work, exercise, pass bodily waste, and enjoy marital intimacy. He claims that everything should be done in moderation, a common theme of the ancient Greek philosophers.
 
-#### **Conscience**
+#### Conscience
 
 It is evident that good men sometimes do bad things, with the contrary also being true, but more rarely. Every soul is made by God, who has also given man aid in determining if his actions are good, leading to salvation, or bad, leading to damnation. Every man has
 
@@ -1241,11 +1241,11 @@ It is evident that good men sometimes do bad things, with the contrary also bein
 
 The Art of Mentem already affects a target's emotions and thoughts, and can easily override his conscience. Most magi are uninterested in the conscience reactions of their targets. Magi who hunt demons, however, have discovered that sparking a man's conscience can remove him from a demon's obsession power (see *Realms of Power: The Infernal*, pages 31-32). If successful, a target will lose the Obsession Trait completely, regardless of whether it is a temporary or permanent Trait. Sparking a man's conscience is not powerful enough to remove or alter Personality Traits that already exist.
 
-#### **Creo Mentem Guidelines**
+#### Creo Mentem Guidelines
 
 **Level 10:** Spark a twinge of conscience in an intelligent being's mind, overriding the temporary obsession of a demon.
 
-#### **A Moment's Reflection**
+#### A Moment's Reflection
 
 CrMe 20
 
@@ -1322,23 +1322,23 @@ A natural magician has been "harvesting" pre-adolescent children for their sperm
 | Melancholy                    | Retentive | Adulthood              | Autumn  | Earth    | Dryness<br>with Cold  | Blood      |
 | Phlegm                        | Expulsive | Old Age                | Winter  | Water    | Cold with<br>Moisture | Choler     |
 
-#### **Blood**
+#### Blood
 
 Blood, or the sanguineous humor, is formed in the liver. In nature it is hot and moist, and thus corresponds to the element of air. In its natural form it is red in color, has no unpleasant odor, and is salty to taste. Its main function is nutritive; blood is the raw product from which nourishment is derived by the tissues under the auspices of the natural faculty. As such, it strengthens the digestive force.
 
-#### **Choler**
+#### Choler
 
 Choler, yellow or red bile, or the bilious humor, is formed in the gallbladder. In nature it is both hot and dry, and thus akin to the element of fire. It is light in texture and pungent in smell, and has a sour or acrid taste. It provides the appetitive force to the natural faculty, and also nourishes those organs that are hot in nature. Its presence in the veins thins the blood so that it may pass through the finest of tubes.
 
-#### **Melancholy**
+#### Melancholy
 
 Melancholy, black bile, or the atrabilious humor, is formed in the spleen. It is cold and dry, and related to the element of earth. In its healthy state, melancholy is a dark sediment, bitter to the taste. It endows the body with stamina, strength and density, and nourishes those organs and tissues that are hard and dry in nature, such as the bones. Melancholy imbues the natural spirit with its retentive force.
 
-#### **Phlegm**
+#### Phlegm
 
 Phlegm or the serous humor, is formed in the pituitary gland in the head. Its nature is to be both cold and moist, and so it is most akin to the element of water. Healthy phlegm is white or colorless, and is sweet in nature. It nourishes the organs and tissues of a cold temperament, and moistens the joints, tissues, and organs needed for movement. Phlegm is the source of the expulsive force of the natural faculty.
 
-## **The Concoctions**
+## The Concoctions
 
 
 
@@ -1408,7 +1408,7 @@ The four basic complexions are **sanguine**, **choleric**, **melancholic**, and 
 
 **Phlegmatic**: Calm, Dependable, Contemplative, Easy Going, Peaceful, Loyal, Prudent, Lazy, Fearful, Stubborn, Paranoid, Selfish, Avaricious
 
-#### **Complexion and Personality**
+#### Complexion and Personality
 
 Complexion does not merely affect physical appearance; in fact, personality is a much bigger clue to the principle humor than morphology. There are both positive and negative sides to each complexion, and just as few people are pure representatives of a single complexion, not all persons with the same principle complexion will act alike. The stereotypes for each complexion can be linked to the stages of growth. The extreme sanguine personality is like that of a child, friendly and playful, but also petulant and easily lead. The extreme choleric is a surly adolescent, with powerful passions making him brave and seeking his independence, but also proud and uncaring. The melancholic complexion finds its extreme in the adult or parent stage of life; such a person is loyal and nurturing, but often believes that he knows best. Finally, the phlegmatic is akin to an old man, filled with wisdom and calm from a lifetime's experience, but also weary of the world's cares and fearful of approaching senility and death.
 
@@ -1435,11 +1435,11 @@ The ill health caused by the non-naturals and contra-naturals is divided by phys
 
 The non-naturals are those classes of things that are external to the body, but which are essential for the correct operation of a living thing: air, food and drink, exercise and rest, sleep and waking, repletion, excretion, emotions, and sensory species. The body digests the non-naturals into the humors and the faculties, and the quality and quantity of their supply is the most important factor in maintaining good health. Their absence consequentially results in deprivation, and eventually death.
 
-#### **Air and Climate**
+#### Air and Climate
 
 The air is the author of life, for it is the substance from which the vital spirit is concocted. Air is principally cold and moist, but it can become hot and moist in sunshine. Air which is gross, thick, or cloudy, and rarely moved by the wind, is putrid and depresses the vital faculty, leaving the body tired and the wits dulled. Pure and clean air, such as that found at the top of mountains or at sea, makes for nimble bodies and quick wits. The turn of the seasons and the geographical climate also affect the balance of the humors within a person.
 
-#### **Diet**
+#### Diet
 
 Food and drink is the ultimate source of the natural faculty, so the correct diet is essential for the avoidance of disease. Certain foods, such as bread, chicken, mutton, and the flesh of calves and young goats are good and wholesome in general, for they are neither too hard nor too soft, too heavy nor too light, and avoid excess excrement. Other foods promote the production of humors through their heat, coldness, dryness, or moisture.
 
@@ -1447,7 +1447,7 @@ It is essential not only to eat the right foods but also in the right quantity. 
 
 As an individual's complexion waxes and wanes with his age, the diet that promotes good health in that individual also changes. Thus a youth should avoid both hot and dry foods so as not to excessively inflame the choler, but as he becomes an adult he can take drier foodstuffs — but still eschew the hot—as his complexion changes to be more melancholic. Likewise, the changing of the season should induce gradual changes in diet to account for the climate.
 
-#### **Exercise and Rest**
+#### Exercise and Rest
 
 Exercise stirs up heat and sets the blood and choler in motion. It therefore engenders healthy appetite and digestion. Excessive exercise is harmful because the heat also causes the body to dry, which means that it becomes weary and suffers from excessive digestion.
 
@@ -1463,13 +1463,13 @@ Repose also strengthens the body because it stirs up the phlegm and melancholy, 
 
 Exercise can be labor due to one's profession, or that undertaken for recreation. Recreational exercise undertaken to benefit the health should be performed under the guidance of a physician (see Regimens, below) since the type of exercise must be appropriate to a person's complexion. It is important to exercise all parts of the body, even the vision (by inspecting minute objects), hearing (by listening to faint sounds), and voice (by singing and shouting).
 
-#### **Sleep and Wakefulness**
+#### Sleep and Wakefulness
 
 Sleep is caused when the natural faculty rises to the brain and is condensed by the coldness of that organ into a humor that blocks the nerves and puts a temporary end to movement and the stimulation of the senses. This humor is digested by the brain during sleep, and once it is all gone, the person wakes. Thus, after excessive food there is a surfeit of natural faculty, which causes drowsiness. Melancholic people tend to retain the humor of the brain, and thus are prone to more sleep.
 
 Sleep in general promotes heat and moistness, and aids digestion, counteracting the drying and cooling effect of exercise; however, too much sleep promotes excessive moisture. Conversely, insufficient sleep causes dryness; and is not recommended for those of a melancholic or choleric complexion.
 
-## **Retention and Evacuation of Waste**
+## Retention and Evacuation of Waste
 
 The over-long retention of the waste products of the body (feces, urine, sweat, menstrual blood, and semen) will lead to disease. If the expulsive force is too weak, or the retentive force too strong, then these waste matters can be reabsorbed by another part of the body and instigate disease. The end result is a plethora of quality (see Symptoms of Disease, below), which is harmful to the natural balance of humors.
 
@@ -1477,7 +1477,7 @@ The over-long retention of the waste products of the body (feces, urine, sweat, 
 
 Any excess of a source of heat, cold, dryness, or moisture has a detrimental effect on the body. Excess hot non-naturals enhance the attractive force, promoting gluttony and thirst, and cause excess humors. Excess cold non-naturals affect the expulsive force, resulting in insufficient nutrition and weakness. Excess moist non-naturals putrefy through corrupt digestion. Excess dry nonnaturals augment the retentive force and pollute the body with waste humors.
 
-#### **Causes of Moisture**
+#### Causes of Moisture
 
 **Climate:** outward moisture, south & west winds, bathing (especially after a meal), spring, western nations
 
@@ -1489,7 +1489,7 @@ Any excess of a source of heat, cold, dryness, or moisture has a detrimental eff
 
 **Sensory Species:** bright colors, joyful music
 
-#### **Causes of Heat**
+#### Causes of Heat
 
 **Climate:** outward heat (the sun, fires, hot baths), south & east winds, summer, southern nations
 
@@ -1503,7 +1503,7 @@ Any excess of a source of heat, cold, dryness, or moisture has a detrimental eff
 
 **Sensory Species:** discordant sounds (e.g. braying trumpets, clashing of cymbals), the sight of violence & rapidly moving objects (e.g. twirling flags)
 
-#### **Causes of Cold**
+#### Causes of Cold
 
 **Climate:** external cold, west & north winds, excessive heat such as very hot air, thermal waters & prolonged moderate heat that relaxes the body too much, winter, northern nations
 
@@ -1515,7 +1515,7 @@ Any excess of a source of heat, cold, dryness, or moisture has a detrimental eff
 
 **Sensory Species:** the sight of gentle motion (e.g. flowing water & waves), fluttering or tinkling sounds
 
-#### **Causes of Dryness**
+#### Causes of Dryness
 
 **Climate:** north & east winds, external cold (which congeals humors and obstructs moistening nutrients), excessive heat, autumn, eastern nations
 
@@ -1533,7 +1533,7 @@ Any excess of a source of heat, cold, dryness, or moisture has a detrimental eff
 
 
 
-#### **Emotional States**
+#### Emotional States
 
 Strong emotions can have just as much impact on the health as other, more physical aspects of living. While complexion (see above) determines the general emotional temperament of an individual, excessive emotional states can counteract natural temperament or exacerbate disease. There are five emotional states that can originate not from complexion but from sources external to the body, such as from the mind or the soul, or from exercise, food, and so forth:
 
@@ -1547,7 +1547,7 @@ Strong emotions can have just as much impact on the health as other, more physic
 
 A healthy amount of sexual intercourse, within the sanctity of marriage, leads to *gaudium*, as well as performing the vital function of evacuation. However, indulgence in excess sexual intercourse causes *laetitia*, and also induces dryness because of excessive evacuation.
 
-#### **Sensory Species**
+#### Sensory Species
 
 The five outer wits (taste, touch, smell, hearing, and vision) are gathered by the sense organs and concocted into the sensitive faculty. However, even the experiences of the sense organs can cause humors to move or strengthen. A physician will sometimes prescribe certain sounds or sights to a patient in his care, or else instruct him to avoid them. For example, a person recovering from a wound must not stir the blood, and so should avoid moistening sensory species such as bright colors.
 
@@ -1573,7 +1573,7 @@ Light wounds usually affect just the flesh, but the location and type of a more 
 
 Once the location has been determined, the actual form of the injury depends on the source of the damage. Wounds can basically be caused by crushing, piercing, slashing, or burns and scalds.
 
-#### **Crushing Damage**
+#### Crushing Damage
 
 Crushing damage is caused by bludgeoning weapons such as staffs and hammers, but also by falling or being underneath heavy objects when they fall, and by being trampled by large animals. Using blades against a heavily armored opponent is also more likely to cause crushing than slashing wounds. A fractured bone has cracked but not snapped, whereas a broken bone has snapped entirely, often with the sharp ends protruding from the skin. A crushed organ is bleeding internally, and its function in the body is wholly suspended, perhaps causing disease.
 
@@ -1593,7 +1593,7 @@ Piercing damage is delivered by sharp objects pushed into the body, particularly
 
 **Incapacitating & Fatal Wounds:** Punctured principal organ; destroyed secondary organ
 
-#### **Slashing Damage**
+#### Slashing Damage
 
 Slashing damage is inflicted by edged weapons such as knives and swords, and also the claws of animals.
 
@@ -1603,7 +1603,7 @@ Slashing damage is inflicted by edged weapons such as knives and swords, and als
 
 **Incapacitating & Fatal Wounds:** chest cavity or abdomen opened; primary organ damaged; secondary organ destroyed; limb severed
 
-#### **Burns and Scalds**
+#### Burns and Scalds
 
 Burns are caused by the direct application of a heat source such as a flame or a corrosive liquid, whereas scalds — usually less dangerous — are caused by indirect heat, such as touching a heated object or being covered in boiling liquid. Injuries caused by extreme cold or poison can also be considered to fall under this category.
 
@@ -1650,7 +1650,7 @@ The treatment of diseases is almost exclusively the purview of the Medicine Abil
 
 Dyscrasia is most commonly caused by the non-naturals, particularly air and diet. Supernatural creatures seeking mischief might manipulate the non-naturals so as to encourage disease, but a more direct route is to curse the victim directly with dyscrasia. Demonic possession is a common cause of many diseases that directly affect the sensitive faculty, but some demons can also directly mimic diseases that occur naturally, making supernatural involvement harder to detect and treat.
 
-#### **Describing a Disease**
+#### Describing a Disease
 
 The game statistics of a disease are presented in a fashion similar to a spell. Each disease has a **Severity** that describes the type of wound suffered, and this Severity is modified by adding magnitudes for the **interval**, **stable Ease Factor**, and **improvement Ease Factor**.
 
@@ -1674,7 +1674,7 @@ flicts a different Disease Penalty. Severity is a measure of the overall impact 
 
 **Improvement Ease Factor:** The Ease Factor needed on the Disease Recovery roll to cause the disease to become less severe.
 
-#### **Contracting a Disease**
+#### Contracting a Disease
 
 To catch a disease, a character first has to be exposed to the source of dyscrasia that is listed in the description of the disease. The frequency with which characters are exposed to causes of humoral imbalance is left to the discretion of the storyguide. As a rough guide, a character moving into an unhealthy environment should roll once or twice in his first season, particularly if the environment is ill-suited to his temperament. Long-term residents contract diseases as a consequence of aging — an illness result on the Crisis roll (**ArM5**, page 170) may be represented by a disease instead.
 
@@ -1682,11 +1682,11 @@ To avoid contracting the disease, the character must add his Stamina to a stress
 
 **Disease Avoidance roll: Stamina + Living Conditions Modifier + (Corpus/5) + Wound Penalty + stress die**
 
-#### **Ease Factor: Stable Ease Factor of the disease**
+#### Ease Factor: Stable Ease Factor of the disease
 
 If this roll succeeds, the character has avoided the disease. If it fails, then he will start to suffer the effects once the incubation period of the disease has elapsed. The incubation period is normally less than half of the Interval, so a character with a disease with Interval Month will start to show symptoms a maximum of two weeks later. If the Disease Avoidance roll botches, then the disease is contracted, but it is one step more serious than usual; so, for example, a Major Disease becomes a Critical Disease.
 
-## **Disease Progression and Recovery**
+## Disease Progression and Recovery
 
 Once the incubation period has elapsed, an infected character initially suffers the Disease Penalty listed in the description (see Disease Table, below). Disease Penalties are treated exactly the same as Wound Penalties, and are cumulative with them. Disease Penalty does not affect Disease Recovery; however, Wound Penalties penalize Disease Recovery rolls, and vice versa. Some diseases inflict the effects of Flaws; these maladies do not also inflict Disease Penalties unless indicated otherwise.
 
@@ -1701,7 +1701,7 @@ Once the specified Interval of the disease has elapsed, the character makes a Di
 | Major    | 12 | –5, or a<br>Major Flaw                |
 | Critical | 15 | May not take<br>any action            |
 
-#### **Modifiers to Severity**
+#### Modifiers to Severity
 
 | Circumstance                | Modifier |
 |-----------------------------|----------|
@@ -1744,17 +1744,17 @@ A character who does not rest when suffering a disease risks making it worse. Us
 
 \* See Treatment of Disease (below) for details of how Medicine can be used to affect Disease Recovery rolls.
 
-#### **Crises**
+#### Crises
 
 A character with a Critical disease is at a Crisis. Crises also occur when a less-severe disease worsens to the Critical stage due to failed Disease Recovery rolls. The player must make two Disease Recovery rolls each day (at sunrise and sunset) that the character remains in Crisis. On a total of 0 or less, the disease enters its terminal stage, and the character dies within a day. A result equal to or greater than the Stable Ease Factor of the disease improves the Crisis to a Major disease, and recovery then proceeds normally. Any other result means a somewhat worsened condition, and all subsequent Disease Recovery rolls are made at a cumulative –1 penalty until the character improves or dies. These are standard Disease Recovery rolls, and factors that help normal Disease Recovery rolls also helps these. A character who survives a crisis is permanently affected by his illness, and gains one aging point in an appropriate Characteristic. Unlike a Crisis brought about through Aging (**ArM5**, page 170), a disease Crisis does not affect (and is not affected by) a Longevity Ritual.
 
-## **Calculating the Severity of a Disease**
+## Calculating the Severity of a Disease
 
 First decide on the Disease Penalty (Minor, Serious, Major, or Critical) inflicted by the malaise, and consult the Disease Table insert to obtain the base Severity of the disease. Adjust this according to the modifiers for Interval, Stable Ease Factor, and Improvement Ease Factor. Note that if the Interval is Lifelong, then it does not have an Improvement Ease Factor, and the Stable Ease Factor is only used for the Disease Avoidance roll. The Improvement Ease Factor must always be greater than the Stable Ease Factor.
 
 *Example: Erysipelas (see below) is a Minor disease, so has a base Severity of 6. The interval between Disease Recovery rolls for this disease is a Month, increasing the Severity by 1. The Stable Ease Factor is 6 (no adjustment) and the Improvement Ease Factor is 10 (–1), for a final Severity of 6.*
 
-#### **Some Common Diseases**
+#### Some Common Diseases
 
 **The Ague**
 
@@ -1764,7 +1764,7 @@ Caused by bad air, particularly around sewage and tanneries (Non-Natural). This 
 
 Symptoms: Continuous fever with chills. Other types of the ague corrupt different humors, and are either Minor or Serious Diseases. As a choleric disease, the ague induces fever every fourth day; as a melancholic disease the fevers occur every third day; and as a sanguine disease the fever occurs every day.
 
-#### **Anal Fistula**
+#### Anal Fistula
 
 Minor Melancholic Disease, Severity 5 Stable: 4, Improve: 10, Interval: Month
 
@@ -1772,7 +1772,7 @@ This unpleasant condition is caused by excessive retention of melancholy on the 
 
 Symptoms: Hemorrhoids, mild pain and distraction, aposteme of melancholy and blood called a fistula that requires surgical removal (see Surgery).
 
-#### **Apoplexy**
+#### Apoplexy
 
 Critical Sanguine Disease, Severity 16 Stable: 6, Improve: 15, Interval: Week
 
@@ -1780,7 +1780,7 @@ This disease causes massive and immediate damage to the heart, which disrupts th
 
 Symptoms: Crushing pain to chest followed by immediate collapse and disease Crisis.
 
-#### **Bloody Flux**
+#### Bloody Flux
 
 Serious Phlegmatic Disease, Severity 9 Stable: 6, Improve: 12, Interval: Week
 
@@ -1799,7 +1799,7 @@ A magus with a serious grudge against another invents a disease-causing spell th
 
 There are more severe versions of the bloody flux that have higher Stable and Improvement Ease Factors.
 
-#### **Chaudepysse**
+#### Chaudepysse
 
 Minor Choleric Disease, Severity 9 Stable: 6, Improve: 12, Interval: Season
 
@@ -1807,7 +1807,7 @@ This disease is contracted by men who have commerce with unclean women (i.e. dur
 
 Symptoms: Pain, a discharge of blood from the male organs, excessive itching, rash. Continuous fever may follow, and if the disease becomes Major, sterility and impotence.
 
-#### **Childbed Fever**
+#### Childbed Fever
 
 Major Sanguine Disease, Severity 11 Stable: 6, Improve: 10, Interval: Week
 
@@ -1815,7 +1815,7 @@ The act of giving birth causes swings in a woman's balance of humors that make h
 
 Symptoms: Chills, fever, abdominal pain, nausea, and in terminal cases a rotting of the reproductive organs that can spread to the rest of the body. If there were birthing complications (prolonged labor, placenta retention, conception during menstruation, or a still-birth, for example) this is a Critical Disease rather than a Major one.
 
-#### **Coryza**
+#### Coryza
 
 Minor Phlegmatic Disease, Severity 4 Stable: 4, Improve: 10, Interval: Week
 
@@ -1823,7 +1823,7 @@ Coryza, or the common cold, is caused by a cold, damp environment such as that f
 
 Symptoms: Catarrh, unpleasant cough. If it worsens, a quotidian fever, inflammation of the lungs, extreme weariness (make Fatigue rolls for even light exercise).
 
-#### **Diabetes**
+#### Diabetes
 
 Minor Sanguine Disease, Severity 14 Stable: 4, Improve: n/a, Interval: Lifelong Rich food and a gluttonous appetite can result in this disease, a result of the disruption of the digestion and thus a surfeit of nutrition (Non-Natural). The children of glut-
 
@@ -1838,7 +1838,7 @@ Erysipelas is a disease of morbid choler due to excessive heat and dryness deriv
 
 Symptoms: Severe itching rash, most prominent on the extremities, but also on the face and arms. Can poison the blood if the disease worsens.
 
-#### **The Falling Evil**
+#### The Falling Evil
 
 Major Phlegmatic Disease, Severity 16 Stable: 6, Improve: 15, Interval: Season
 
@@ -1846,7 +1846,7 @@ Known by a large number of names (e.g. epilepsy, morbus caducus, morbus lunaticu
 
 Symptoms: Rather than a Disease Penalty, this disease manifests as convulsions. Convulsions occur randomly and infrequently. For any given event, the storyguide should secretly roll a stress die; if the result is 9 or more then a convulsion will occur at some point during that event, as chosen by the storyguide. This spasm perturbs both sensation and movement, causing both to occur at random, leaving the character temporarily Incapacitated. He collapses to the ground and twitches. Every round he can make a Stamina roll against an Ease Factor of 9; success means that the convulsion ends, although he is reduced to the Dazed Fatigue level.
 
-#### **Febris Semitertiana**
+#### Febris Semitertiana
 
 Major Choleric Disease, Severity 18 Stable: 12, Improve: 18, Interval: Week
 
@@ -1862,7 +1862,7 @@ Evil spirits in an improperly cleaned wound cause putrefaction of the blood (Con
 
 Symptoms: Continuous fever. The infected wound cannot improve until the gangrene is gone, but it can worsen. Surgical intervention (deep cautery or amputation; see Practice of Chirurgy, below) to prevent the gangrenous wound worsening is often the best option, because Wound Penalties affect Disease Recovery rolls and vice versa.
 
-#### **Garotillo**
+#### Garotillo
 
 Serious Choleric Disease, Severity 9 Stable: 6, Improve: 12, Interval: Week
 
@@ -1870,7 +1870,7 @@ This disease is contracted through excessive exercise that dries the body and in
 
 Symptoms: Tertian fever, mild pain in the throat, drowsiness, a white, livid, or black concretion of morbid humors at the back of the mouth. If this disease worsens to a Major Disease, the sufferer is in danger of suffocation if he ever fails a roll involving Stamina. Follow the rules for Deprivation (**ArM5**, page 180–181). For each Deprivation roll he also gets a Stamina + Concentration roll against an Ease Factor of 6; success means that he regains his breath.
 
-#### **Leprosy**
+#### Leprosy
 
 Major Melancholic Disease, Severity 21 Stable: n/a, Improve: n/a, Interval: Lifelong
 
@@ -1882,7 +1882,7 @@ Symptoms: Skin damage, clawing of hands and feet, blindness, loss of sensation a
 
 A physician who has experience with true leprosy has noticed this particularly virulent form of the disease, and has tracked it down to the covenant, which has a member who knows the appropriate spell. The physician has alerted the bishop to this clear evidence of the magus' moral corruption. The characters must cope with the bishop's response to these accusations.
 
-#### **Leprosy, Hermetic**
+#### Leprosy, Hermetic
 
 Critical Melancholic Disease, Severity 16 Stable: 6, Improve: 12, Interval: Month
 
@@ -1890,7 +1890,7 @@ Hermetic leprosy is caused by the Hermetic spells *Curse of the Leprous Flesh* a
 
 Symptoms: Victim's flesh rots off in a matter of weeks. If the victim survives the Disease Crisis, he will find it impossible to develop a positive reputation.
 
-#### **Phimosis**
+#### Phimosis
 
 Minor Choleric Disease, Severity 6 Stable: 6, Improve: 10, Interval: Month
 
@@ -1898,7 +1898,7 @@ A particular affliction of promiscuous men (but can be suffered by both sexes) c
 
 Symptoms: Soft sores on the coital organs, which may become poisoned. A man who suffers a disease Crisis induced by phimosis is left impotent.
 
-#### **Phthisis**
+#### Phthisis
 
 Major Phlegmatic Disease, Severity 17 Stable: 9, Improve: 18, Interval: Month
 
@@ -1906,7 +1906,7 @@ Phthisis pollutes the vital faculty with excessive phlegm. It is an epidemic dis
 
 Symptoms: Hacking cough, shortness of breath, blood in the sputum, quoditian fever, and wasting; all of which amount to the Enfeebled Flaw.
 
-#### **Pneumonia**
+#### Pneumonia
 
 Serious Phlegmatic Disease, Severity 9 Stable: 6, Improve: 12, Interval: Week
 
@@ -1914,7 +1914,7 @@ This inflammation of the lungs is diagnosed by the presence of blood or choler i
 
 Symptoms: Acute pain in the chest, quotidian fever. The afflicted character is also reduced to the Winded Fatigue level until he improves. At the Major stage of the disease, the victim suffers from the Enfeebled Flaw in place of the Disease Penalty.
 
-#### **Quinsy**
+#### Quinsy
 
 Serious Phlegmatic Disease, Severity 9 Stable: 6, Improve: 10, Interval: Month
 
@@ -1922,7 +1922,7 @@ Quinsy is contracted from swallowing worms in one's food, which live in the tons
 
 Symptoms: Pain localized in the back of the throat. Should it worsen to a Serious Disease, the Disease Penalty remains –1, but the character suffers from an Afflicted Tongue, and at the Major stage he becomes Mute.
 
-#### **Rabies**
+#### Rabies
 
 Serious Choleric Disease, Severity 13 Stable: 9, Improve: 18, Interval: Week
 
@@ -1933,7 +1933,7 @@ Symptoms: Raging thirst, extreme fear of water, violent convulsions. The mind of
 
 of a furious beast. The sufferer foams at the mouth and attempts to bite all who come near, and he can transmit the disease in this fashion if the skin is broken.
 
-#### **Saint Anthony's Fire**
+#### Saint Anthony's Fire
 
 such exorcisms.
 
@@ -1943,7 +1943,7 @@ Caused by an excess of blood due to possession by a minor demon in the victim's 
 
 Symptoms: Red rash, intestinal pain, visions, muscular spasms, and a burning sensation in the extremities. Eventually the limbs begin to rot. This disease is exceptionally hard to recover from due to the tenacity of the demon, and it typically worsens each season until the victim dies.
 
-#### **Scrofula**
+#### Scrofula
 
 Serious Melancholic Disease, Severity 10 Stable: 6, Improve: 12, Interval: Month
 
@@ -1951,7 +1951,7 @@ An unpleasant disease caused by the cold dry winds of cities in Northern Europe,
 
 Symptoms: Swelling of the glands all over the body, dull pain. If it progresses to a Major Disease, as well as worsening the Disease Penalty the glands — particularly those in the neck — swell to immense size, imposing the Disfigured Flaw. The swellings can be surgically removed once the disease is cured.
 
-#### **Stones**
+#### Stones
 
 Serious Choleric or Phlegmatic Disease, Severity 11
 
@@ -1961,7 +1961,7 @@ A coagulation of bile causes a hard stone to form in the gallbladder, while morb
 
 Symptoms: Acute abdominal pain, initially when passing water, but later continuously. Difficult to cure without Surgery.
 
-#### **Suffusio**
+#### Suffusio
 
 Serious Melancholic Disease, Severity 11 Stable: 9, Improve: 12, Interval: Month Suffusio is a congregation of humor between the lens and the pupil, obstructing sight, caused by the excessive absorption of
 
@@ -1969,7 +1969,7 @@ harmful visual species (Contra-Natural). A surgical procedure called "couching" 
 
 Symptoms: Dimmed vision; rather than a Disease Penalty the sufferer acquires the Poor Eyesight Flaw until the disease is cured. A complication of the disease — called suffusio nigra or glaucosis — occurs if the disease worsens, resulting in the Blind Flaw. Suffusio cannot kill; a failed Disease crisis results in permanent blindness instead.
 
-#### **Tumor, Consumptive**
+#### Tumor, Consumptive
 
 Serious Sanguine and Melancholic Disease, Severity 10
 
@@ -1993,7 +1993,7 @@ The same system can be used for apothecaries; given that they are professional t
 
 is coagulated choler and melancholy. Both are slow to act, having an Interval: Season, but neither have the same ability to cause new tumors.
 
-#### **Variola**
+#### Variola
 
 Serious Choleric Disease, Severity 11 Stable: 9, Improve: 15, Interval: Week
 
@@ -2003,7 +2003,7 @@ Symptoms: Eruption of pus-filled pocks all over the skin, a tertian fever, pains
 
 The common name of small pox distinguishes this disease from other pox-causing diseases. Great pox, chicken pox (named after *cicer*, or chick peas, which the pocks resemble) and rubeola (measles) are all milder forms of this disease, and are all Minor rather than Serious illnesses.
 
-#### **Worms**
+#### Worms
 
 Minor Sanguine Disease, Severity 9 Stable: 6, Improve: 12, Interval: Season
 
@@ -2011,7 +2011,7 @@ Worms spontaneously generate in congealed blood (see Chapter Three: Philosophiae
 
 Symptoms: Wasting. However, those inflicted with worms are not immediately affected — they take no Disease Penalty. However, if after a season the disease worsens, the patient is afflicted with a Serious Disease.
 
-#### **Other Diseases**
+#### Other Diseases
 
 *City and Guild* (pages 25–28) provides more details for a number of diseases presented here (leprosy, the ague, St. Anthony's fire, childbed fever, the bloody flux, and worms), as well as three other conditions that have not been converted to this system. Tarantism works in a manner wholly different to a disease, stemming as it does from a faerie curse. Abscesses are covered by the Deprivation rules (see **ArM5**, page 180). Finally, the black death is an infernal entity rather than a disease, which does not (yet) exist in Mythic Europe.
 
@@ -2170,7 +2170,7 @@ The herbwife — or herbman, although most are women — is the poor man's answe
 
 ## New Virtues
 
-#### **Herbalism**
+#### Herbalism
 
 *Minor, General*
 
@@ -2186,7 +2186,7 @@ A midwife or herbwife is often eligible for the Wise One Social Status Virtue, a
 
 Chapter Five: Experimental Philosophy). The character receives 50 experience points that can be put into Herbalism, Profession: Apothecary, and into formulae for theriacs. Herbalism is not Medicine however, and an academic would find her theories of health and disease wholly different from the accepted wisdom. Even if she can read, a herbalist cannot gain any experience in her Herbalism Ability from books on Medicine, and she cannot institute a regimen to promote good health without the Medicine Ability.
 
-#### **Physician of Salerno**
+#### Physician of Salerno
 
 *Minor, General*
 
@@ -2215,7 +2215,7 @@ The following activities take an entire season, and a character cannot perform a
 
 and medical formulae (see Chapter Five: Experimental Philosophy). To take this Virtue, you must be able to take Academic Abilities.
 
-#### **Magister in Medicina**
+#### Magister in Medicina
 
 *Major, Social Status*
 
@@ -2223,7 +2223,7 @@ The character has achieved a doctorate in medicine from one of the medical schoo
 
 ## New Flaw
 
-#### **Surgical Empiricus**
+#### Surgical Empiricus
 
 *Minor, Social Status*
 
@@ -2251,7 +2251,7 @@ the knowledge and skill of the practitioner, but more immediately on the willing
 
 In combating illness, medicine has three weapons: diet, medication, and surgery. A medicus employs one or more of these weapons to restore the balance of humors in his patient and return him to good health. While routine illnesses can be treated by anyone with medical knowledge, more serious diseases require a physician of substantial skill who is capable of bringing all three weapons of his art to bear. Diet — and other aspects of the environment — are the province of medicine, as is the knowledge of medicines (although their preparation requires the skills of an apothecary). Surgery is the craft of the chirurgeon, and is a skill that many medici lack. Correct diagnosis of the disease is essential — a physician needs not only to recognize the symptoms, but must understand how those symptoms are being produced by the state of dyscrasia if he is to bring the humors back into balance. He must then predict the course of the disease and plan his therapeutic strategy based on the tools available to him. Finally, the actual day-to-day therapy of the patient is what nurses him back to health.
 
-#### **Diagnosis and Prognosis**
+#### Diagnosis and Prognosis
 
 A physician diagnoses a disease initially from the external appearance of the patient and his narrative of the illness, although physicians are warned to not put too much faith in the patient's description of his symptoms. Physical inspection involves a detailed analysis of the patient's pulse, excreta, and most especially urine. The apparent obsession of a physician with urine has made the profession the butt of many jokes, and the distinctive round-bottomed urine flask is an almost universal symbol of the profession. The pre-eminence of urine is due to the fact that it is the waste product of the most important process in the body: the concoction of chyle into the four humors. It can therefore inform the physician of the humoral balance of the patient's body better than any other symptom, from its hue, thickness, cloudiness, inclusion of solid matter, foaminess, smell, taste, and countless other physi*Art & Academe*
 
@@ -2279,23 +2279,23 @@ Under the rules presented here, some of the Corpus spells listed in **Ars Magica
 
 Rego Corpus spells can cause natural changes in the body humors, and thus mimic the symptoms of diseases; in a healthy person these spells need a duration to maintain their effects. Rego Corpus cannot inflict Disease Penalties, nor cause pain.
 
-#### **New Creo Corpus Guidelines**
+#### New Creo Corpus Guidelines
 
 **Level 15**:Cure a Minor disease **Level 20**:Cure a Serious disease **Level 25**:Cure a Major disease **Level 30**:Cure a Critical disease **Level 35**:Cure any disease
 
-#### **New Perdo Corpus Guidelines**
+#### New Perdo Corpus Guidelines
 
 **Level 5**: Inflict a Minor or Serious disease with a maximum Severity 10
 
 **Level 10**: Inflict a Minor, Serious, or Major disease with a with a maximum Severity 15 **Level 20**:Inflict any disease
 
-#### **New Rego Corpus Guidelines**
+#### New Rego Corpus Guidelines
 
 **Level 3**: Invoke a minor symptom of a disease without creating any underlying malaise (e.g. rash, mild fever, cough)
 
 **Level 5**: Invoke a major symptom of a disease without creating any underlying malaise (e.g. vomiting, boils, paralysis)
 
-#### **Gift of the Tortured Bowels**
+#### Gift of the Tortured Bowels
 
 Rego Corpus 10
 
@@ -2331,7 +2331,7 @@ To receive the benefit from medication and surgery, the medicus need not have th
 
 If it is necessary to make a diagnosis without combining this with prognosis, then the physician should make a Perception + Medicine roll, with an Ease Factor determined by the storyguide depending on the rarity of the disease, where 6 represents an uncommon but not unusual complaint.
 
-#### **Therapy**
+#### Therapy
 
 Therapy is the day-to-day care of the patient, which is covered by Disease Recovery rolls. A physician can provide therapy to a number of patients at a time equal to his Medicine Ability without affecting his usual seasonal activities, and can care for a maximum of five times this number of patients by pushing himself to his limit (see Seasonal Activities, above). Physicians who work in hospitals can also coordinate a number of other physicians of lesser skill equal to his Leadership Ability, in addition to those patients under his direct supervision. These subordinates can provide therapy equal to their own Medicine Ability even if their Prognosis Total is insufficient, as long as their supervisor has a sufficient total to treat the disease.
 
@@ -2404,7 +2404,7 @@ Hermetic magic is very effective in speeding the healing of wounds. Even low-lev
 
 Rego Corpus can be used to mimic any surgical procedure, similar to Rego Craft Magic (*Covenants*, page 49). The spell must be designed with Target Part if the object of the surgery cannot be seen from outside (such as a tumor). The magus requires precise control over his magic to have a successful result, and must make an Intelligence + Finesse roll against an Ease Factor equal to (Ease Factor for the mundane surgeon + 3). So to remove a rotten tooth, the roll has an Ease Factor of 9. Magical surgery involves no cutting, and does not result in any wound or bleeding, but the consequences of surgery remain. Thus, surgical intervention replicated with magic results in the acquisition of aging points or a Flaw, but the wound does not worsen.
 
-#### **New Creo Corpus Guidelines**
+#### New Creo Corpus Guidelines
 
 **Level 1:** The target's wounds are treated as one category less serious for the purposes of activities while injured
 
@@ -2414,7 +2414,7 @@ Rego Corpus can be used to mimic any surgical procedure, similar to Rego Craft M
 
 **Level 5:** Give a character a +6 to childbirth rolls
 
-#### **New Rego Corpus Guidelines**
+#### New Rego Corpus Guidelines
 
 Wounds inflicted with surgical magic mimic Surgery, and wounds prevented from worsening mimic surgical intervention.
 
@@ -2428,7 +2428,7 @@ Wounds inflicted with surgical magic mimic Surgery, and wounds prevented from wo
 
 **Level 25:**Perform a life-saving surgical procedure, preventing an Incapacitating or Fatal Wound from worsening
 
-## **Blessed Relief of the Benighted Reins**
+## Blessed Relief of the Benighted Reins
 
 Rego Corpus 25 R: Touch, D: Mom, T: Part
 
@@ -2436,7 +2436,7 @@ Cast on a patient suffering from a kidney stone, the stone is removed from the p
 
 (Base 15, +1 Touch, +1 Part)
 
-#### **Sever the Unwanted Limb**
+#### Sever the Unwanted Limb
 
 Rego Corpus 25
 
@@ -2488,7 +2488,7 @@ In addition to the environment demanded for healing, there is also the issue of 
 
 **Wound Recovery Total: Stamina + First Aid Bonus + Palliative Care Bonus + Recovery Modifiers + Magical Aid + stress die**
 
-#### **First Aid**
+#### First Aid
 
 First aid is immediate treatment of the wounds: cleansing the site of damage, adding cleansing compresses to draw out the bad humors, and suturing (stitching) the wounds. If first aid is received within one day of being wounded, then the patient receives half of his chirurgeon's Chirurgy Ability (rounded up) to his subsequent Wound Recovery roll. First aid applied after more than a day has elapsed gives no bonus to the Wound Recovery roll.
 
@@ -2507,7 +2507,7 @@ In Mythic Europe women typically take on the role of palliative caregivers for p
 
 In game terms, a nurse can act as the lead chirurgeon in both first aid and palliative care, or (more often) take the role of a subordinate, passing the benefit of the lead chirurgeon down to those under her direct care. In addition, nurses attached to hospitals or medical schools often pick up some Medicine, and can act as subordinates during therapy (see Practice of Medicine).
 
-#### **Palliative Care**
+#### Palliative Care
 
 Palliative care is the ongoing treatment of a patient's wounds: changing bandages, cleansing wounds, and attending to diet and environment. A chirurgeon can provide palliative care to a number of patients at a time equal to his Chirurgy Ability without affecting his usual seasonal activities, and can care for a maximum of five times this number of patients by pushing himself to his limit (see Seasonal Activities, above). Chirurgeons who work in hospitals can also coordinate a number of other chirurgeons or nurses of lesser skill equal to his Leadership Ability in addition to those patients under his direct supervision. These subordinates apply the Palliative Care Bonus of their supervisor to a number of patients equal to their own Chirurgy Ability.
 
@@ -2517,7 +2517,7 @@ Palliative care adds half of the chirurgeon's Chirurgy Ability (rounded up) to t
 
 **Palliative Care Bonus to Wound Recovery: (Chirurgy / 2)**
 
-#### **Surgical Intervention**
+#### Surgical Intervention
 
 Sometimes, despite the care of a chirurgeon, a patient's wounds worsen as a result of a failed Wound Recovery roll. In these cases, rather than allowing the wound to fester with infection, a chirurgeon can use emergency surgery to attempt to prevent the decline of his patient. Resorting to major surgery is a risky strategy, and there are often adverse consequences, and yet it can save lives. Typical surgical interventions involve deep tissue cautery with boiling oil or red-hot metal, amputation to remove a morbid limb, trepanation to reset a fractured skull, or suturing of damage to internal organs. Unlike other surgery (see above), these procedures do not cause a wound because they operate on a pre-existing wound. However, they all come with lasting consequences to the patient.
 
@@ -2643,7 +2643,7 @@ fects any inflammation, dries up humors **Lettuce** (cold 2, moist 2, Moon), aff
 
 **Willow** (cold 2, dry 2, Moon in Aries), affects head & joints, cleansing & pain relief
 
-## **Example Components of Poisons**
+## Example Components of Poisons
 
 **Hot:** viper venom, aconite (also called monk's hood, wolfbane, thung), mineral acids, lye, cantharides (extract from a beetle), poisonous mushrooms, sal ammoniac, sugar of lead
 
@@ -2694,7 +2694,7 @@ If the preserved item is also an Arcane Connection, and it is preserved for a du
 
 Only Arcane Connections that are plants or animal body parts can be extended in this manner by an apothecary.
 
-#### **Poisons**
+#### Poisons
 
 *Using one mouse stung to death by scorpions, pulverized euphorbium, spurge and its leaf, hellebore, oppoponax, and mustard, combine all ingredients in a lead crucible, cover tightly and bury in a dungheap for two weeks. Then grind all the ingredients well, being certain to reduce the mouse bones to a fine powder. Add a little saffron. This is supposed to kill in one day, or two.*
 
@@ -2706,11 +2706,11 @@ Any substance that is hot, cold, dry, or moist in the fourth degree causes harm 
 
 The knowledge of poisons is covered under Profession: Apothecary since they have therapeutic uses. Unless a character specifically collects poisonous ingredients (which could raise suspicions if such a thing was discovered), the manufacture of a poison usually requires the apothecary to specifically go searching for the requisite ingredients, as detailed above. Only simple poisons (those that inflict a Light Wound, and that have an Ease Factor of 6 or less to resist the damage; see **ArM5**, page 180 for more details) can be manufactured without knowledge of the correct formula (see Chapter Five: Experimental Philosophy for more details).
 
-#### **The Apothecary's Store**
+#### The Apothecary's Store
 
 A practicing apothecary has a store of medicinal herbs that is being constantly replenished by frequent forays into areas where his raw ingredients may be found in the proper season. He is also likely to maintain a garden for the cultivation of easilygrown plants, and will also buy more exotic ingredients from his trading contacts as they become available at a reasonable price. The Ability of Profession: Apothecary covers the knowledge of where and when to find herbs, and how best to preserve them so that their qualities are available all year round. In any season in which the character is practicing his trade — gathering, preparing, and preserving ingredients, and concocting medicinals — the character generates Labor Points. This mechanic was first introduced in *City & Guild*, Chapter Two: Labor, and is briefly reiterated here. Labor Points do not accumulate in the character's "free seasons," that is, those seasons in which they acquire experience from sources other than Exposure.
 
-#### **Labor Points per Eligible Season: (Intelligence + Profession: Apothecary) x Wealth Multiplier**
+#### Labor Points per Eligible Season: (Intelligence + Profession: Apothecary) x Wealth Multiplier
 
 The Wealth Multiplier is 2 for a character with the Poor Flaw, 6 for a character with the Wealthy Virtue, and 3 otherwise.
 
@@ -2737,7 +2737,7 @@ Intellego magics such as *Hunt for the Wild Herb* can be used to find ingredient
 
 Rego Craft magic (*Covenants*, page 49) can prepare ingredients for preservation; such spells require an Intelligence + Finesse roll equal to the Ease Factor + 6 to correctly duplicate the week's work in an instant.
 
-#### **Conjuration of Wild Thyme**
+#### Conjuration of Wild Thyme
 
 Creo Herbam 20
 
@@ -2805,30 +2805,30 @@ In the thirteenth century the term "natural magic" was used where here we use "e
 
 Whether or not they consciously recognize them or not, all who employ empiricae are working from a set of rules. Primitive magicians often consider these things to be magic, whereas the cultured philosopher knows them to be merely the principles through which God has ordained the world to act. This section reveals some of the most important of these principles identified by philosophers.
 
-#### **Prime Qualities**
+#### Prime Qualities
 
 All things have a prime quality that is derived from the matter from which it is made and its essential form. The substance of an object imbues it with its relative amounts of hot, cold, moisture, and dryness depending upon the mixture of the elements within it. (see Chapter Three: Philosophiae, the section on Form, Matter, and Substance, for more details). Prime qualities are any property of a thing that can be readily discerned with the five senses, and include color, weight, flexibility, hardness, and so forth.
 
-#### **Contagion**
+#### Contagion
 
 As well as prime qualities, substances can acquire second qualities by contagion, or association. Thus, the clothing of a person can take on the qualities of the person wearing it, and the strongest connections of all are between those pieces that were once part of another thing but are now separate objects in their own right. Expressed as *pars pro toto*, the "'part for the whole," the thing that acquires these second qualities can be used to affect the thing that possesses the prime qualities. Magi know the products of this principle as Arcane Connections;, however, not all contagious relationships are Arcane Connections. A wife is a woman with the second quality of her husband, just as the husband is primarily a man and secondarily a husband through contagion. However, most Hermetic magi cannot exploit such weak contagious relationships as Arcane Connections.
 
-#### **Affinity**
+#### Affinity
 
 Substances can take on third qualities, so that rather than simply acquiring qualities through contact, the secondary qualities of the person are transferred to the object. Thus the crown of a king becomes connected to the king through contagion, and then acquires the regality inherent in the king through affinity, and can be used to demand respect from people. Many Shape and Material bonuses utilized by magi are derived from the principle of affinity; a sword can be used to harm people magically through affinity with its mundane usage. One facet of affinity is sometimes expressed as the principle of antipathy: affinity can repel things with opposite qualities just as it attracts things with the same qualities. Thus, a drum made of wolf skin will frighten sheep, because the drum takes on the qualities of wolf skin by affinity, and wolf skin has the sheepscaring quality of wolves by contagion.
 
-#### **Similarity**
+#### Similarity
 
 Simply put, *similia similibus*, or "like to like", this principle states that an effect resembles its cause. There is an affinity between those things that share similar qualities of virtues, so that a plant or gemstone that is red is likely to have an effect on the blood, one that is hot to the taste is likely to affect choler (which is the hottest humor), plants that are moist grow near water, and a flower that looks like an eye will heal eyesight. Apothecaries often refer to this principle as the doctrine of signatures, acknowledging that God has made some properties of things obvious to the senses. These are the manifest (i.e. obvious) qualities of the things, rather than the prime qualities or the hidden virtues. Similarity imbues many objects with their Shape and Material bonuses.
 
 Affinity and similarity together are sometimes combined into a single principle of sympathy, although they are clearly different. However, Sympathetic Connections used by magi draw upon both similarity and affinity, so perhaps the category has merit.
 
-#### **Hidden Virtues**
+#### Hidden Virtues
 
 Not all properties of an object are determined by qualities, contagion, affinity, or sympathy. Objects also have *virtutes occultes* — hidden virtues — that cannot be explained by their substance. These hidden qualities are granted by virtue of astral influences. For example, herbs ruled by Venus are good for the kidneys and reproductive organs, which are both ruled by Venus, but these virtues are not always broadcast to man through sympathy. All sapphires resonate with wisdom because they are born under Jupiter's influence, and
 
 
-#### **Astrology**
+#### Astrology
 
 All qualities of a thing are determined by the celestial figure — that is, the position of the planets with reference to the fixed stars at the time of its creation. Thus, the natal horoscope of a person can reveal the complexion and temperament of a person, although the exercise of free will prevents a human's life from being determined by a star. The natal horoscope of an animal can be predict its destiny, as can the inception horoscope of a venture, although the free will of humans can interfere with these fates as well. Under this principle, a herb planted when a hot star such as Mars is in ascendance is hotter in temperament than the same herb grown under the influence of a different planet. Magi employ the principle of astrology in the ceremonial casting of spontaneous spells, and also in the ordering of laboratory work. The schedule of a magus must conform to the rising and falling of the right stars, else the season is wasted (**ArM5**, page 103).
 
@@ -2844,7 +2844,7 @@ Any character who knows one of the philosophical arts (Artes Liberales, Philosop
 
 When creating a ligature, the character must have a clear goal for it in mind, including a specific range of time in which it will act, and the person who will be affected. Many ligatures are made for immediate use, but they may be made up to a year in advance. However, a ligature only operates within a six-hour window on the designated day. Thus, a Philosophiae ligature might be designed to help Carolus of Tytalus ceremonially cast an Intellego Animal spell this morning; this cannot assist Tillitus to cast the same spell, nor will it help Carolus to cast an Intellego Terram spell instead, nor even an Intellego Animal spell tomorrow. After assembling the ligature, the player should roll a stress die and add the character's Intelligence and appropriate Academic Ability.
 
-#### **Creating a Ligature: Int + Academic Ability + stress die**
+#### Creating a Ligature: Int + Academic Ability + stress die
 
 A botched roll indicates that the components assembled work directly contrary to the action attempted; not only does that action receive a –2 penalty, but it also receives two extra botch dice. The character does not know that a ligature is botched. If the result is nine or greater, then some benefit is gained; compare the total rolled to the Ligature Bonus Table to see what bonus the character receives to the action for which the ligature was made.
 
@@ -2869,7 +2869,7 @@ concocting the product described by his formula. A formula is described in a man
 
 Ligatures can only affect those things under the purview of the Academic Abilities, but they need not actually affect a roll involving an Academic Ability. For example a Philosophiae ligature can assist on a roll to reveal a fact about a magical animal (which is an Intelligence + Magic Lore roll), and a Medicine ligature can help surgery rolls (which is a Dexterity + Chirurgy roll). The examples below are just that; other effects may be possible for other Academic Abilities. Spells assisted by ligatures must be cast at an approximate time specified when the ligature is made. A ligature cannot assist with the crafting of a ligature.
 
-## **Artes Liberales Possible Ligature Bonuses**
+## Artes Liberales Possible Ligature Bonuses
 
 **Grammar:** interpreting or translating a text; **Logic:** figuring out a specific problem or puzzle;
 
@@ -2883,7 +2883,7 @@ Ligatures can only affect those things under the purview of the Academic Abiliti
 
 **Music:** performing music, composing music.
 
-## **Philosophiae Possible Ligature Bonuses**
+## Philosophiae Possible Ligature Bonuses
 
 **Natural Philosophy:** understanding a specific facet of the natural world, rolls to affect the behavior of a specific animal, casting a spell on an animal or plant;
 
@@ -2891,7 +2891,7 @@ Ligatures can only affect those things under the purview of the Academic Abiliti
 
 **Metaphysics:** uncovering a specific fact about a supernatural thing using (Realm) Lore, casting a spell on a supernatural target or an inanimate/elemental object; aiming rolls for projectiles (whether magical or mundane).
 
-#### **Medicine Possible Ligature Bonuses**
+#### Medicine Possible Ligature Bonuses
 
 **Wounds:** surgical intervention rolls, surgery rolls, casting a healing spell;
 
@@ -2912,7 +2912,7 @@ As well as learning formulae inscribed into summae and tractatus of the academic
 
 To concoct a formula, the philosopher requires a laboratory. This is similar to a Hermetic laboratory, and the equipment found there would not be out of place in a magus' sanctum. The philosopher requires at least 500 square feet of floor area and a ceiling at least ten feet high. It must be well protected from the elements. The only difference is that the laboratory of a magus is usually situated in a Magic aura, whereas that of a philosopher may be found anywhere, for the strength of a supernatural aura has no effect on his science. The outfittings of the laboratory depend very much on the specialty of the philosopher; an astrologer will have an astrolabe, armillary sphere, and copious astrological charts; an alchemist will have glass, metal, and earthenware containers and tubes, and jars filled with mysterious substances; and a physician will have herbs and spices drying in the rafters. Philosophers who practice more than one type of formula will have components of each.
 
-#### **The Lab Total**
+#### The Lab Total
 
 A philosopher generates a Lab Total that is used for all formulae:
 
@@ -2935,7 +2935,7 @@ A Creo spell can both create the components and assemble them into the correct f
 
 Craft magic cannot duplicate astrological inceptions, as they do not involve the combination of raw ingredients but the calculation of stellar positions. Since this computation must include the horoscope of the inception itself (see Astrological Inceptions, below), magic cannot duplicate a pre-existing inception either.
 
-#### **Brew the Healing Tonic**
+#### Brew the Healing Tonic
 
 Rego Herbam 4 R: Touch, D: Mom, T: Ind Req: Animal, Terram
 
@@ -2959,7 +2959,7 @@ It takes at least a season to concoct a formula. If the Lab Total equals or exce
 
 Note that some formulae are exceptionally hard — one must study all one's life and align all philosophic factors to achieve them. Such formulae are famous among philosophers, and many search for Laboratory Texts to speed the route to such legendary concoctions. On occasion such quests lead the character away from the philosophical arts and towards magic.
 
-#### **Laboratory Texts**
+#### Laboratory Texts
 
 When a philosopher successfully completes a formula for the first time, he creates a Laboratory Text detailing precisely what he did, which will assist him in duplicating the formula in subsequent laboratory activities.
 
@@ -2995,7 +2995,7 @@ Characters who grew up in a privileged household are likely to know their birth 
 
 The opinion on inceptions within the Order of Hermes is mixed. On one hand, most Tribunals do not consider an inception as scrying, since it involves no use of magic. On the other hand, the requirement for a nativity tends to limit their use. Most magi know the precise date of their birth, and those that do not can resort to magic to determine it. However, this information is usually kept well hidden since a horoscope forms a sympathetic connection to the magus. Some magi even alter records or otherwise falsify evidence to trap those who seek to use this personal information against them. A magus who also studies astrology might use the following spell to divine a target's natal information.
 
-#### **The Genethlialogical Investigation**
+#### The Genethlialogical Investigation
 
 Intellego Corpus 15 R: Voice, D: Mom, T: Ind
 
@@ -3042,11 +3042,11 @@ Note that it is impossible to calculate a nativity horoscope if the date and loc
 
 Once the horoscope is known, then it takes one minute per level of the inception to complete the calculation and reveal the answers sought. The astrologer must have access to writing materials to use an inception. Even though they are simple products of parchment and ink, astrological inceptions cannot be simply copied, they must be duplicated using the Laboratory Text in the usual fashion. This is because an inception has its own horoscope, based on the day on which it was completed. When using an inception, the calculated relationship between the inception's own horoscope and the horoscope of the target(s) is the source of the sought-after answer. An inception that is simply copied — rather than recreated with the Laboratory Text — has a different astrological figure than the original inception (it is copied at a different time than the original, and perhaps in a different location as well), and this invalidates the calculations. Copied inceptions cannot therefore provide correct answers except through chance.
 
-#### **Example Inceptions**
+#### Example Inceptions
 
 In all these inceptions, the placeholders "N" and "NA" stand for the Latin *nomen* ("name") and *nomen alter* ("other name"), indicating the persons, objects, or events represented by the horoscopes used to complete the inception. Frequently "NA" is the horoscope of the astrologer.
 
-#### **Is N in good health?**
+#### Is N in good health?
 
 Inception Level 3
 
@@ -3056,7 +3056,7 @@ By consulting the relative positions of Saturn (the planet of death) and the Sun
 
 (base 3)
 
-#### **Is N inclined to love NA?**
+#### Is N inclined to love NA?
 
 Inception Level 4
 
@@ -3067,7 +3067,7 @@ This requires two horoscopes, one for each target. The astrological houses occup
 (base 4)
 
 
-#### **Has N told the truth?**
+#### Has N told the truth?
 
 Inception Level 5
 
@@ -3077,7 +3077,7 @@ The attitude of Mercury to Scorpio in the horoscope of the target determines whe
 
 (base 5)
 
-#### **What will the weather be like tomorrow at N?**
+#### What will the weather be like tomorrow at N?
 
 Inception Level 5
 
@@ -3087,7 +3087,7 @@ The angle between the Moon and Mercury, and which stars they bisect in the horos
 
 (base 2, +1 Basic, +2 near future)
 
-#### **Will N wage war?**
+#### Will N wage war?
 
 Inception Level 10
 
@@ -3097,7 +3097,7 @@ This inception requires the horoscope of a person likely to initiate a war. The 
 
 (base 5, +1 distant future)
 
-#### **What are the real feelings of N?**
+#### What are the real feelings of N?
 
 Inception Level 10
 
@@ -3193,7 +3193,7 @@ When sprinkled over flames or mixed with fuel, this Reagent causes the flames to
 
 (base 3, +1 Minor)
 
-#### **Tinderdry**
+#### Tinderdry
 
 Reagent Level 5
 
@@ -3203,7 +3203,7 @@ When this wool-like substance is rubbed over damp wood, the wood dries sufficien
 
 (base 5)
 
-#### **Cement**
+#### Cement
 
 Reagent Level 5
 
@@ -3213,7 +3213,7 @@ When sprinkled over loose earth or sand, this dry powder enhances the hardness a
 
 (base 3, +2 Substantial)
 
-#### **Preservative**
+#### Preservative
 
 Reagent Level 10
 
@@ -3293,7 +3293,7 @@ This Reagent must be kept within a stoppered flask. When opened, a gas is releas
 
 (base 3, +2 Substantial, +1 Size)
 
-#### **Smoke Oil**
+#### Smoke Oil
 
 Reagent Level 10
 
@@ -3383,7 +3383,7 @@ The term "theriac" is used by commoners and ill-trained medici alike to refer to
 
 Each Theriac requires rare and expensive ingredients that must be supplied by an apothecary (or come from the character's own stores, if he has Profession: Apothecary himself). Each Theriac costs an apothecary's business 1 Labor Point per 5 points (or fraction) of the level (see Medicine: The Practice of the Apothecary). If multiple doses are created, then multiply the level for each dose by the number of doses before dividing by 5 to get the number of Labor Points worth of materials required.
 
-#### **Example Theriacs**
+#### Example Theriacs
 
 **Tonic of Gold** Theriac Level 5 Potency: Weak
 
@@ -3442,7 +3442,7 @@ Cause a wound if a Stamina roll against an Ease Factor of 6 is failed.
 **Level 10:**Cause a wound if a Stamina roll against an Ease Factor of 12 is failed. Cure a wound from a specific source (e.g. poison, crushing damage, piercing damage). The wound entirely heals over the course of a normal interval for the wound.
 
 
-#### **Cataplasm of Mandrake**
+#### Cataplasm of Mandrake
 
 Theriac Level 5 Potency: Moderate
 
@@ -3450,7 +3450,7 @@ This thick paste, or cataplasm, is a secret of the School of Salerno, employing 
 
 (base 3, +2 Moderate)
 
-#### **Mustard Plaster**
+#### Mustard Plaster
 
 Theriac Level 5 Potency: Moderate
 
@@ -3458,7 +3458,7 @@ When applied to a wound, this linen cloth smeared with ointment containing groun
 
 (base 3, +2 Moderate)
 
-#### **Tincture of Parsley**
+#### Tincture of Parsley
 
 Theriac Level 10 Potency: Strong
 
@@ -3466,7 +3466,7 @@ This concentrated herbal infusion is an antidote to the bite of any serpent. If 
 
 (base 3, +3 Strong)
 
-#### **Compress of Mallow**
+#### Compress of Mallow
 
 Theriac Level 15 Potency: Mild
 
@@ -3475,7 +3475,7 @@ This cool bandage made of mallow and cucumber soothes burn wounds, and will heal
 (base 10, +1 Mild)
 
 
-#### **Concoction of Litharge and Henbane**
+#### Concoction of Litharge and Henbane
 
 Theriac Level 15
 
@@ -3494,7 +3494,7 @@ This Theriac is one of the most precious secrets of the School of Salerno. It co
 
 (base 3, +4 Mighty)
 
-#### **Ointment for Congealing Blood**
+#### Ointment for Congealing Blood
 
 Theriac Level 20
 
@@ -3504,7 +3504,7 @@ This compress of tormentil and comfrey stays the flow of blood and causes flesh 
 
 (base 10, +2 Moderate)
 
-#### **Lochoch of Fox Lungs**
+#### Lochoch of Fox Lungs
 
 Theriac Level 20
 
@@ -3658,7 +3658,7 @@ Monasteries are even more reluctant to let their members leave to gain an educat
 
 **Personality Traits:** Driven +3, Boisterous +2, Polite +1
 
-#### **Combat:**
+#### Combat:
 
 *Dodge:* Init –1, Attack n/a, Defense –1, Damage n/a
 
@@ -3693,7 +3693,7 @@ The teacher is always a brother monk, as are the librarians and copyists who may
 
 Monastic schools are more interesting to Hermetic characters for their libraries than their educational programs. The head of the library and the scriptorium is the **precentor**, an older monk with other religious duties. The scriptorium is busy, with monks at various stages of their education copying books. Monasteries have many books in their collections, and permission to read any particular volume must be given by the precentor. Precentors don't catalog their collection, relying on memory alone to find a text, so many sorts of literary treasures may exist in their libraries. More than one magus has been caught attempting to rifle these sequestered tomes.
 
-## **The Rules of Silence and Reading**
+## The Rules of Silence and Reading
 
 Monks live under a strict code, called a "Rule," dictating when they pray, sleep, eat, and speak. Consequently, many monks develop a sign language, to communicate to each other during times of silence. These effective signs can seem silly to others. The sign for "incense" is two fingers stuck up the nostrils, and the sign for "fish" is a hand wiggling like a swimming fish. Monastic characters can know the Ability: Sign Language, which is equivalent to a Living Language but not as accessible. Monastic sign language is not universal, and only understood by monks at a particular monastery. Still, a character who learned it at a monastery could teach it to other characters, importing it to a covenant, for example.
 
@@ -3825,9 +3825,9 @@ The career of a professional schoolman begins at the **baccalaureus** stage, whi
 
 Several new Virtues grant experience points in Academic Abilities. Scholastic characters are by default educated, making it unnecessary to select the Educated Virtue for such characters. Thus, any character with a Social Status Virtue that grants experience points in Academic Abilities may buy Academic Abilities with any experience points during character creation. You can pick Educated in addition to a scholastic Social Status Virtue, and receive the additional experience points supplied by both Virtues. The character must have had an exceptional teacher during his off-stage life (character generation) before entering play.
 
-#### **New Virtues**
+#### New Virtues
 
-#### **Baccalaureus**
+#### Baccalaureus
 
 *Social Status, Minor*
 
@@ -3841,7 +3841,7 @@ This Virtue is compatible with the Hermetic Magus, Mendicant Friar, and Priest V
 
 The character is an assistant to a university dean. He is a townsman or student of merit employed by the university to carry the university's insignia in parades, collect dues and fines, read mandatory announcements at university congregations, and announce disputationes. The character may purchase Academic Abilities at character generation.
 
-#### **Cathedral School Master**
+#### Cathedral School Master
 
 *Social Status, Major*
 
@@ -3857,13 +3857,13 @@ This Virtue is compatible with the Hermetic Magus, Mendicant Friar, and Priest V
 
 versity education. It is also compatible with the Priest and Mendicant Friar Virtues.
 
-#### **Lupus (the Wolf)**
+#### Lupus (the Wolf)
 
 *Social Status, Minor*
 
 The character is employed by the university to watch over the students and ensure that they speak only Latin in their colleges and hostels. He is a member of the urban community where the university is located. He may begin play with scores in Latin or Artes Liberales, although a score of more than 1 in Artes Liberales would be rare. He may live with the students if he is unmarried, but if he has a family then he lives with them, possessing keys to the students' housing to allow unannounced entry.
 
-#### **Magister in Artibus**
+#### Magister in Artibus
 
 *Existing Social Status, Major*
 
@@ -3872,7 +3872,7 @@ In addition to the description of this Virtue in the regular rules (**ArM5**, pa
 
 This Virtue is compatible with the Baccalaureus and Priest Virtues. Characters with higher university degrees should take those Virtues instead; a magister or doctor gains no additional status from teaching at a cathedral school.
 
-#### **Doctor in (Faculty)**
+#### Doctor in (Faculty)
 
 *Social Status, Major*
 
@@ -3888,7 +3888,7 @@ This Virtue is compatible with the Baccalaureus, Magister in Artibus, and Doctor
 
 The character is a *nuntius* (messenger), charged with delivering messages, mail, and monetary donations between students and their families. He is employed by a university nation and is not necessarily educated. He is affected by the Wealthy Virtue and Poor Flaw as normal. The character can be either male or female, although travel is obviously more dangerous for a lone female.
 
-#### **Prestigious Student**
+#### Prestigious Student
 
 *General, Minor*
 
@@ -3897,7 +3897,7 @@ The character is a son of a nobleman or a prosperous merchant, matriculated in a
 
 Medicine. He has a small group of retainers with him, two or three servants who attend to his needs while at the university. He was trained in Artes Liberales and Latin by a private tutor, and may purchase Academic Abilities at character generation. The character must take a Social Status Virtue to reflect where he is in the educational process.
 
-#### **Simple Student**
+#### Simple Student
 
 *Social Status, Minor*
 
@@ -3905,34 +3905,34 @@ The character is a university student who is has not yet taken a degree. He is t
 
 More than half of all university students are Simple Students.
 
-#### **University Grammar Teacher**
+#### University Grammar Teacher
 
 *Social Status, Minor*
 
 The character is employed by a university to teach its younger members grammar. The character can be of any age and either gender. He may purchase the Academic Abilities: Latin and Artes Liberales at character generation, and should have a score in Teaching. He must teach two seasons out of the year.
 
-#### **New Flaws**
+#### New Flaws
 
-#### **Failed Student**
+#### Failed Student
 
 *Story, Minor*
 
 The character has studied for a specific university license and failed his final examination. If he passed earlier exams, he may have a scholastic Social Status Virtue showing how far he got. (Obviously, this cannot be Doctor in (Faculty).) The character has a Bad Academic Reputation of 2.
 
-#### **Poor Disputer**
+#### Poor Disputer
 
 *General, Minor*
 
 The character has a difficult time with disputationes and suffers a –3 penalty on disputatio die rolls.
 
-#### **Rector/Proctor**
+#### Rector/Proctor
 
 *Story, Major*
 
 The character is the representative leader of his faculty or nation, depending on whether he is a master or a student. He is responsible for his colleagues' behavior and is obliged to deal with their academic concerns. The character must have a Social Status Virtue dictating his place within the university. The character can expect to spend considerable time sorting out his fellows' affairs.
 
 
-#### **University Dean**
+#### University Dean
 
 *Story, Major*
 
@@ -4010,7 +4010,7 @@ Some of the student statutes are:
 
 Like any institution, universities are subdivided into smaller organizations. The primary subgroups are the **faculties**, after which come **nations**. Some universities, specifically Paris and Bologna, also have **hospices**, a newly-created additional student subgroup. Every university has faculties, most have nations, and only Paris and Bologna have hospices. The number of any individual subdivision will differ. For example, Paris has four nations and Oxford only two.
 
-#### **Faculties**
+#### Faculties
 
 A faculty is the complete course of learning necessary to achieve a license within a specific subject. There are four faculties: a Faculty of Arts, which every university has, and faculties of medicine, canon or civil law, and theology. The faculties are ranked according to their perceived religious characteristics, coupled with the intellectual dignity and social usefulness that each awards. Theology is judged the highest, with medicine and law tying for second place. All three are seen as higher academic endeavors than the liberal arts. Higher faculties also require a degree in Artes Liberales. The faculty of Art only teaches Artes Liberales, and the higher faculties teach only the subject they are named for. Law is grouped as a single faculty, even in the rare situation where both canon and civil law are taught. Canon and civil law courses are different enough to warrant separate faculties, but don't have them.
 
@@ -4019,7 +4019,7 @@ Each faculty is led by a **rector**, the master who is the eldest and still teac
 
 student quibbles to overseeing the awarding of degrees and political interactions with church officials, secular princes, and town leaders. In some instances, the rector is also called the chancellor, mimicking the title of the cathedral representative. In others, the rector actually is the chancellor, who is usually appointed by the bishop. He is infinitely busy, using a group of assistants, called **beadles**, to run errands and perform minor functions. He marches first in the feast-day parades, and should be an exemplar of moral fortitude and virtue. One of the rectors is elected the rector of the university, usually called a **dean** but not always. The dean is the representative head of the institution and deals with kings and the pope in receiving new teaching privileges and maintaining existing ones.
 
-#### **Nations**
+#### Nations
 
 Nations are a collection of students who all come from the same geographic area. Initially, foreign students did not have any legal rights in the university's town. A Bolognese student attending the University of Bologna didn't have to worry about it, since he was already a citizen of the commune, but his fellow student from Milan did. This situation prompted the foreign students of Bologna to seek the right to incorporate themselves into a studium generale, subdivided into representative nations that corresponded with their original home.
 
@@ -4029,7 +4029,7 @@ Nations are led by a **proctor**, an older student elected to act as the nation'
 
 Not every student in a nation will study in the same faculty. Religious parades are grouped by faculties, so nations will not walk together. Still, this is a stronger bond than the faculty for most nation members.
 
-#### **Hospices**
+#### Hospices
 
 A hospice, sometimes called a "college," is a building funded by a benefactor that provides room and board for a small group of students. There are only a few in 1220, and they exist at the Universities of Bologna and Paris. They are either Dominican houses or funded by other ecclesiastic patrons. In the years ahead, secular lords will found hospices for secular students, but this practice is premature in 1220. Hospices are primarily for poor or exceptionally intelligent ecclesiastical students. Most students must find their own residences. Colleges for secular students do not historically occur until mid-century.
 
@@ -4042,13 +4042,13 @@ Each hospice allows for a specific number of student residents and a layman care
 
 For all its hard-won independence, a university does not exist in a social vacuum. Relationships exist between the church, the state, and the Order of Hermes. All of these ties are both beneficial and problematic at times. A university strives for its autonomy, working within the system to provide for its members' personal and financial security. The church and the state like to maintain control of university appointments, promoting like-minded fellows and suppressing polemical or outspoken scholars. Both view universities as a means to maintain the status quo.
 
-#### **The Church**
+#### The Church
 
 Most universities are ultimately beholden to the church because academic licenses can only be awarded by the bishop's chancellor. Even if the degree is awarded based solely on the committee of masters' acknowledgment, it is the chancellor who is empowered to confer the actual title of magister or doctor. The few who don't receive degrees from chancellors receive them from a king, so a similar relationship exists. From this vantage point, universities are subject to the ecclesiastical leader of the diocese.
 
 They are, in essence, an extension of the church, both as a training facility for future clerics and as an arena of intellectual thought. Plagued by recent heresies, most notably the Albigensians, the church relies on the faculties of theology to correctly interpret scripture and the various commentaries made by scholastics. The mendicant orders, especially the Dominicans in 1220, have entered universities, learning alongside layman and the regular clergy. Many masters see this as an intrusion, since friars are sworn to each other rather than to a master, and they can be some of the most demanding students he teaches. It is, however, the will of the pope, so refusing to teach friars is futile. Most universities are willing to give the pope a little political power over their institution, and demand more from him in return.
 
-#### **The King**
+#### The King
 
 Universities owe their political autonomy to Frederick I Barbarossa, who granted Bolognese scholars the freedom to move
 
@@ -4066,7 +4066,7 @@ Since universities are interested in the intellectual and spiritual application 
 
 What tension there is shows at the city level, between scholars and townsmen. The town's citizens have to deal directly, sometimes daily, with the resident scholars. Students bring wealth to a town, but make demands that are hard to live with at times. Rent control, prices for books and food, and drinking establishment hours are all hotly contended. If trouble arises, it is the town's bailiff who has to deal with it. Despite the hassles, the town burghers generally appreciate how the university's members bolster the town's finances.
 
-#### **The Order of Hermes**
+#### The Order of Hermes
 
 Both universities and the Order of Hermes are interested in knowledge, academic on the one hand and arcane on the other, so it is natural that both keep tabs on the other. The Order is more interested in universities than the reverse, watching both the methods of instruction and the areas of knowledge taught. The formulae devised by natural philosophers are interesting, but in general the Order views them as minor effects that even a simple apprentice can mimic with magic.
 
@@ -4193,7 +4193,7 @@ his public examination, and while it is only a formality, it is a necessary one.
 
 Not every student who passes the private examination takes the public examination. The rub is that the candidate must pay for the ceremony, including the mandatory feast and individual gifts given to the masters of his faculty. This entire ceremony can cost as much as an entire Mythic Pound, more for the higher degrees. The difficulty of the private examination, and the cost of the public, means that very few students who begin their journey to an academic degree finish it. The only career that is absolutely barred to a student without a degree is university teaching. While a degree is helpful in gaining a job, it is not vital. Nor does it guarantee post-graduate employment outside the university.
 
-#### **Passing Examinations**
+#### Passing Examinations
 
 Examinations are deliberative disputationes, as explained below in the disputatio section. Characters who spend the required time studying are eligible to take a private examination. If your saga is sufficiently academic, and your troupe would enjoy running multiple disputationes against the candidate character, you may follow the rules listed under Disputatio. If, however, you wish to spend time on other aspects of your saga, you can simply calculate a candidate character's Examination Total at the end of the season to see if he passes his private examination. The character must have spent the required time studying at a university before such this is allowed. A baccalaureate candidate must have spent three years at the university, a candidate for magister in artibus five more, and a candidate for doctor in (faculty) ten years total.
 
@@ -4433,7 +4433,7 @@ In 1200, a terrible outbreak of town versus gown rivalry resulted in the death o
 
 Another source of conflict is the newly arrived Dominican friars, living apart in private hospices but studying the same texts under the same masters. The Dominicans are extremely orthodox in their views and strictly adhere to papal authority and the rules of their Order. They are all too ready to criticize a teacher who tries to incorporate possibly heretical ideas into his lectures.
 
-#### **A Parisian Saga**
+#### A Parisian Saga
 
 Games set in Paris will be affected by the constant tension felt between the students and the citizens. While this has subsided from its peak, small skirmishes continue to erupt between students and citizens. The Latin Quarter will surely draw the attention of neighboring magi, as it is a place of books and learning. It is also a place of drinking and gambling, home to thieves and prostitutes. Visiting player characters are susceptible to all sorts of urban commotions in the nearly lawless streets of nighttime Paris.
 
@@ -4469,7 +4469,7 @@ The rector of the Faculty of Law, Azo, has recently died, and his replacement ha
 
 At the same time, the podesta of Bologna, Guglielmo de Pusterla, has forbidden the swearing of oaths to non-city organizations, outlawing the Oath of Matriculation that students must make to their masters. He desires the masters to swear an oath to the city, promising not to leave if the students do. Without the students, though, the masters have no income, and are reluctant to make such a promise to the podesta. They have beseeched the pope for help, and Honorius III has told the scholars to resist the podesta using non-violent measures.
 
-#### **A Bolognese Saga**
+#### A Bolognese Saga
 
 Games set in or near Bologna could quickly become embroiled in these tensions.
 
@@ -4491,7 +4491,7 @@ Montpellier gained its status as an independent fief from France in 1204, making
 
 There are two faculties at Montpellier, the arts and medicine, and three nations: Provence, Burgundy, and Catalonia. Montpellier offers some courses in civil law, but does not have a recognized faculty for that branch of academia. Rector Bassianus does his best to increase the reputation of the Faculty of Arts, but it is the Faculty of Medicine that draws students from near and far, and its reputation as the preeminent school of medicine is rivaled only by Salerno. Presently, Montpellier does not confer licenses on its candidate masters, although this situation is changing in 1220. Currently, the Cardinal Legate Conrad of Urach is in Montpellier, preparing to announce the pope's wishes for specific statutes of the university. The Bishop of Maguelone is to become the sole authority of the university, appointing a chancellor to grant licenses to acceptable candidates. Previously, Guillem VIII had allowed anyone to teach medicine at Montpellier. The new chancellor will be counseled by the two rectors of the university and a proctor from one of the student nations.
 
-#### **A Montpellier Saga**
+#### A Montpellier Saga
 
 A saga set in Montpellier in 1220 will certainly start out with the political ramifica-
 
@@ -4513,7 +4513,7 @@ Since there is no cathedral, the chancellor is actually a member of the universi
 
 The one great moment of strife occurred in 1209, when most of the students and masters fled Oxford and began a new university in Cambridge. Tensions were already hot, since Pope Innocent III excommunicated King John in 1208. A year later, without the protection of the priests, three infernalist witches crept into town, sowing seeds of wickedness and wantonness. Recognizing their demonic nature, a young student slew one, but was apprehended by the possessed sheriff and a mob of angry townsmen. The youth was imprisoned, and the chancellor called for his release. As a student, he could only legally be tried under canon law. The sheriff refused and hanged the boy. Without delay, the majority of the scholastic population fled to Cambridge. They did not return until 1218, well after King John had grudgingly made amends to the pope and the interdict had been removed. Enough time had passed, though, to provide a stable foundation for the University of Cambridge.
 
-#### **An Oxford Saga**
+#### An Oxford Saga
 
 Setting a saga in Oxford is ideal for groups that wish to explore the university setting without the frequent violence that haunts other cities. Such a saga would explore learning, the interaction between university and Hermetic covenant, and the adaptation of interesting parts of one organization to the other. Unafraid of heresies, Oxford has a large number of natural philosophers, whose experimental philosophy could easily draw a magus' attention. Natural philosophers would be eager to peruse a covenant's library, wondering if any of the magi's odd literature could increase their understanding of the natural world.
 
@@ -4983,7 +4983,7 @@ Characters can, and probably will, have other Reputations besides an Artist Repu
 
 The most common way to increase a character's Artist Reputation is for him to create something. Every time an artist spends a season creating a work of art that has an Aesthetic Quality greater than triple his current Reputation, he gains an experience point in his Reputation.
 
-#### **Aesthetic Quality greater than 3 times Artist Reputation = 1 Artist Reputation experience point**
+#### Aesthetic Quality greater than 3 times Artist Reputation = 1 Artist Reputation experience point
 
 Other ways to gain Artist Reputation experience points are:
 
@@ -5164,7 +5164,7 @@ This spell changes a block of stone into a carved bust. The caster must touch bo
 
 (Base 3, +1 for stone, +1 Touch)
 
-#### **The Miniature of Immortality**
+#### The Miniature of Immortality
 
 CrHe(An)(Te) Level 20
 
@@ -5174,7 +5174,7 @@ This spell creates a painted miniature of a person or scene within voice range o
 
 (Base 2, +2 Voice, + 2 requisites, +1 complexity: minimum level for ritual spell)
 
-#### **Conjuring the House of God**
+#### Conjuring the House of God
 
 CrTe Level 45
 
@@ -5206,11 +5206,11 @@ Maestros are renowned artists, but that is not their only role, and other Virtue
 
 Finally, "maestro" is an Italian word that means "master." If you saga is primarily set in another area of Mythic Europe, you might want to use another vernacular language's word for "master" to identify this sort of mythic companion. Examples are "maestro" in Spanish, "maître" in French, "meister" in German, and "mayster" in Middle English.
 
-#### **New Virtues**
+#### New Virtues
 
 These Virtues and Flaws exist to aid and define maestro characters, although you may allow other mundane artists to purchase some of them at character generation. A few personality Flaws are listed here, to help define the capricious personalities of mythical artists. These can be available for any **Ars Magica** character if your troupe so desires.
 
-#### **Artistic Renown**
+#### Artistic Renown
 
 *Minor General Virtue*
 
@@ -5224,45 +5224,45 @@ The character does not have The Gift, but because of his magical nature, he can 
 
 A Maestro, and only a maestro, may take this Virtue once, for a single Form.
 
-#### **Life-Linked Art**
+#### Life-Linked Art
 
 *Major Supernatural Virtue*
 
 The character is magically linked to his artwork, and he may wound himself while he works to increase the Aesthetic Quality of the piece. A self-inflicted Light wound adds +1, a Medium wound +3, and a Heavy wound +6. Only one type of wound may be inflicted, and the wound does not begin to heal until the artwork is finished. Artwork augmented in this fashion remains a permanent Arcane Connection to the artist.
 
-#### **Maestro**
+#### Maestro
 
 *Special Free Virtue*
 
 The character is a maestro, a Mythic Companion character who excels at art. The character may select one of the following Virtues at no cost: Affinity with Craft or Profession Ability, Free Expression, Inspirational, or Puissant Craft or Profession Ability. The character receives 2 points of Virtues for every point spent on Flaws.
 
-#### **Prolific Artist**
+#### Prolific Artist
 
 *Minor Supernatural Virtue*
 
 The character is extremely quick when creating art, and may reduce the time it takes to make a piece of artwork by 1/4. Thus, a piece of art that regularly takes a season to create can be produced in nine weeks. He works too quickly for assistants to keep up, and may not use assistants to reduce the amount of time it takes to create art.
 
-#### **New Flaws**
+#### New Flaws
 
-#### **Fickle Nature**
+#### Fickle Nature
 
 *Minor Personality Flaw*
 
 The character swings between two types of personality behaviors that are directly opposite. There is no middle ground, so the character is always either displaying traits of one behavior or the other. Select a Personality Trait at +4, and its opposite at +4. Typically Personality Traits are: Happy and Sad, Energetic and Lazy, Confident and Diffident, or Proud and Humble.
 
-#### **Fluctuating Fortune**
+#### Fluctuating Fortune
 
 *Minor Supernatural Flaw*
 
 The character's finances rise and fall like the tide, regardless of how successful he is or what preventative measures he takes. He is considered to have the Wealthy Virtue one year, followed by the Poor Flaw the next. Besides monetary concerns, this means that the character will have to only work one season in one year, followed by a year in which he has to work three, all to maintain his livelihood. This cycle of feast and famine continues throughout the character's life, always in opposition to his financial desires. When he needs money most, he has none, and has an abundance of funds when they are superfluous.
 
-#### **Gullible**
+#### Gullible
 
 *Minor Personality Flaw*
 
 The character has spent so much time in isolation, working on his artwork, that he is easily misled by others. Because of his inexperience with people, he is also a poor liar. He receives a –3 penalty on any Guile or Perception rolls used to determine truth or falsehood.
 
-#### **Unruly Air**
+#### Unruly Air
 
 *Minor Supernatural Flaw*
 
@@ -5306,7 +5306,7 @@ An Athenian-born Greek and student to Socrates, Plato wrote an extensive collect
 
 *Timaeus.* A cosmological work explaining the nature of things, the whole being a tractatus on Philosophia (metaphysics). The *Timaeus* itself is not available, and is known through Boethius' commentary (Quality 9)\*, and Calcidius' translation (Quality 8).\*
 
-#### **Aristotle (384-322 BC)**
+#### Aristotle (384-322 BC)
 
 Born in Macedonia and educated in Athens as a student of Plato, Aristotle is the most influential philosopher in western medieval philosophy. His contribution is so great that he was named "The Philosopher" when his works were reintroduced in the twelfth century. Aristotle disagreed with Plato's forms, proposing categories and syllogisms in their place.
 
@@ -5324,7 +5324,7 @@ Born in Macedonia and educated in Athens as a student of Plato, Aristotle is the
 
 (The Quality of all of Aristotle's works are 11 if read in Arabic and 12 if read in the original Greek.)
 
-#### **Euclid (ca. 300 BC)**
+#### Euclid (ca. 300 BC)
 
 A Greek mathematician who taught at Alexandria, Euclid's work are the foundation for the study of geometry.
 
@@ -5332,13 +5332,13 @@ A Greek mathematician who taught at Alexandria, Euclid's work are the foundation
 
 *Optica.* A tractatus on Artes Liberales, Quality 8\* (Quality 9 in Greek).
 
-#### **Cicero (106-43 BC)**
+#### Cicero (106-43 BC)
 
 Statesman, orator, and philosopher of Rome, Cicero is considered one of the great writers of antiquity. He believed the liberal arts were the very roots of humanity.
 
 *De inventione.* Comprised of three books, each a tractatus on Artes Liberales, Quality 14.\*
 
-#### **Ptolemy (mid-third century)**
+#### Ptolemy (mid-third century)
 
 Ptolemy was an astronomer and mathematician teaching at Alexandria. His astrological work is mathematically ingenious, although limited by the observational capabilities of his day. The *Almagest* is the definitive work on astrology in the thirteenth century, both in the east and the west.
 
@@ -5346,25 +5346,25 @@ Ptolemy was an astronomer and mathematician teaching at Alexandria. His astrolog
 
 
 
-#### **Plotinus (c. 205-270)**
+#### Plotinus (c. 205-270)
 
 A Roman scholar, Plotinus was the father of Neoplatonism.
 
 *Enneads* ("The Nines"). Six books of nine sections each that provide the foundation for his metaphysical thought based on Plato's ideas. The whole is a summa on Philosophiae Level 4, Quality 8.
 
-#### **Porphyry (c. 234-c. 305)**
+#### Porphyry (c. 234-c. 305)
 
 Student of Plotinus, Porphyry continued the tradition of applying Neoplatonic concepts to the ideas and religion of pagan antiquity.
 
 *Isagoge.* Translated into Latin by Boethius, this is a tractatus on Artes Liberales, Quality 5\* (Quality 6 in Greek).
 
-## **St. Augustine of Hippo (354-430)**
+## St. Augustine of Hippo (354-430)
 
 Born a pagan citizen of the Roman Empire, Augustine converted to Christianity in his thirties. A trained rhetorician, and writing at a time when Christian dogma was different between east and west, Augustine wrote prolifically on the nature of God and Christianity, always preferring to prove his beliefs logically. His works are the most authoritative of all the Latin Church Fathers. Besides the philosophies of his predecessors, Augustine relied heavily on the Scriptures, regarding them as God's word.
 
 *The City of God.* 22 books in total, the first five being a summa on Divine Lore, Level 4, Quality 10. The next five are a summa on Philosophiae, Level 6, Quality 10. And the last twelve are a summa on Theology, Level 6, Quality 10.\*
 
-#### **Donatus (late fourth century)**
+#### Donatus (late fourth century)
 
 A master grammarian and rhetorician, Donatus is perhaps most famous for being the tutor of St Jerome. His work is the primary source for the study of grammar in the Middle Ages.
 
@@ -5372,25 +5372,25 @@ A master grammarian and rhetorician, Donatus is perhaps most famous for being th
 
 #### Art & Academe
 
-## **Macrobius (late fourth, early fifth century)**
+## Macrobius (late fourth, early fifth century)
 
 A philosopher, most likely Roman, Macrobius wrote a commentary on Cicero's *Somnium Scipionis* that describes the cosmos and life after death for the good-hearted. The commentary's morality, despite its pagan nature, and its astrological information are very popular in 1220.
 
 *Commentary on Somnium Scipionis* ("The Dream of Scipio"). Two books that act as a tractatus on Artes Liberales (astronomy) Quality 8.
 
-## **Martianus Capella (early fifth century)**
+## Martianus Capella (early fifth century)
 
 An African-born Roman, Martianus composed his *De nuptiis philologiae et Mercurii* to be an encyclopedic treatment of the seven liberal arts. Steeped in allegory, the book is also dry and overly pedantic, written in complicated Latin verse and prose. Despite this and its overt pagan nature, the book is used as a school manual for Artes Liberales.
 
 *De nuptiis philologiae et Mercurii* ("Marriage of Philology and Mercury"). A collection of nine books totaling 1,000 pages. Books I and II are each a tractatus on Philosophiae, Quality 5. Books III through IX deal with Artes Liberales, one book per liberal art, each a tractatus Quality 5.\*
 
-#### **Boethius (c. 475-524)**
+#### Boethius (c. 475-524)
 
 A Roman statesman and Christian, Boethius wrote extensively on mathematics, science, logic, and theology. He translated several of Aristotle's texts, introducing this knowledge to the west. Furthering Plotinus' work, he also firmly atttached parts of Christian theology to neoplatonism. Falling out of royal favor, he was imprisoned and later executed. During his internment, he wrote *The Consolation of Philosophy*, a vastly influential text on philosophy and metaphysics.
 
 *The Consolation of Philosophy.* Four books that together make a tractatus on Philosophiae, Quality 9.
 
-#### **Justinian (482-565)**
+#### Justinian (482-565)
 
 A Byzantine Emperor, Justinian commissioned the *Corpus Juris Civilis* ("Body of Civil Law"), a massive compilation of all existent Roman laws.
 
@@ -5398,19 +5398,19 @@ A Byzantine Emperor, Justinian commissioned the *Corpus Juris Civilis* ("Body of
 
 *Institutiones.* This second section of the *Corpus Juris Civilis* is used as a student manual, and is a tractatus compiled by Theophilus and Dorotheus on Civil and Canon Law (Civil Law), Quality 8.\*
 
-#### **Priscian (sixth century)**
+#### Priscian (sixth century)
 
 A Roman-born teacher at Constantinople, Priscian wrote a detailed, systematic approach to the Latin language.
 
 *Institutione grammaticae.* Comprised of 16 books that form a summa on Artes Liberales (Grammar), Level 5, Quality 9.\*
 
-#### **Alcuin of York (c. 735-804)**
+#### Alcuin of York (c. 735-804)
 
 An Englishman, Alcuin was given the task by Charlemagne of creating and managing the Palace School at Aachen, Charlemagne's capitol. A competent and wellread philosopher, Alcuin continued the tradition of placing great emphasis on logic and theological philosophy.
 
 *Dialectica*. A tractatus on Artes Liberales (Logic), Quality 9.
 
-## **John Scottus Eriugena (c. 800-c. 877)**
+## John Scottus Eriugena (c. 800-c. 877)
 
 An Irishman and excellent Greek translator, John was commissioned to engage in a controversy over predestination, refuting the heretical idea that predestination of was two types: the good predetermined to go to heaven and the wicked to hell. Basing his argument on Augustine and Boethius, John said that predestination is not double, and that God, being good, could not create evil.
 
@@ -5426,23 +5426,23 @@ A Persian philosopher who wrote extensively on medicine and alchemy. His most in
 
 If read in the original Arabic, increase the Quality of all the mentioned books by +1.
 
-#### **Gerbert of Aurillac/Pope Sylvester II (c. 940-1003)**
+#### Gerbert of Aurillac/Pope Sylvester II (c. 940-1003)
 
 Surrounded by legend, Gerbert is lauded for his intellectual capabilities by intellectuals and is believed a diabolical wizard by the laity. He was instrumental in setting the stage for twelfth-century translators.
 
-## **Avicenna (Abu Ali Sina, 980–1037)**
+## Avicenna (Abu Ali Sina, 980–1037)
 
 The author of reputedly hundreds of books on philosophy and a major figure in Islamic intellectual development. His only influential book in the West was the *Canon of Medicine*, which became the authoritative text on Medicine following its translation into Latin by Gerard of Cremona.
 
 *Canon of Medicine.* Summa Level 6, Quality 8 (Quality 9 in Arabic).\*
 
-## **Avicebron (Solomon ibn Gabirol, c. 1021–c. 1058)**
+## Avicebron (Solomon ibn Gabirol, c. 1021–c. 1058)
 
 An Andalusian Jewish poet and philosopher, who was an early teacher of Platonism, and whose *Fountain of Life*, when translated into Latin, had a large impact on the Scholastic philosophical movement. This work contained no internal evidence that its writer was a Jew.
 
 *The Fountain of Life* (*Meqor Hayyim* in Hebrew, *Fons Vitae* in Latin). Philosophiae Summa Level 4, Quality 11.
 
-#### **St. Anselm (1033-1109)**
+#### St. Anselm (1033-1109)
 
 Philosopher and theologian, and Archbishop of Canterbury, Anselm's greatest intellectual achievement was his ontological proof that God exists. He continued Augustine's convictions that reason is never a substitute for faith.
 
@@ -5450,13 +5450,13 @@ Philosopher and theologian, and Archbishop of Canterbury, Anselm's greatest inte
 
 *Proslogion.* A tractatus on Theology that explains the nature and self-evident existence of God as "that-than-which-nothing-greater-can-be-thought," Quality 8.\*
 
-#### **Gratian (twelfth century)**
+#### Gratian (twelfth century)
 
 A canon jurist from Bologna, Gratian compiled a massive work, the *Concordia discordantium canonum* ("Concord of Discordant Canons"), or simply called the *Decretum*. Based on the Bible, papal bulls, Roman secular law, and the Church Fathers, this is the primary textbook for the study of Canon Law.
 
 *Decretum.* Six books that serve as a summa on Civil and Canon Law (Canon Law), Level 5, Quality 11.\*
 
-#### **Peter Abelard (1079-1142)**
+#### Peter Abelard (1079-1142)
 
 Educated at Paris and Chartres before becoming one of the most controversial masters of the twelfth century, Abelard set the standard for the scholastic method. He was branded a heretic by Bernard of Clairvaux and forced to renounce his theories and burn some of his work.
 
@@ -5469,23 +5469,23 @@ Educated at Paris and Chartres before becoming one of the most controversial mas
 
 Chancellor and instructor at the cathedral school of Chartres, Bernard was a major proponent of Platonic ideas. Like many, he attempted to reconcile Plato with Aristotle, leaning heavily toward the former. He was the teacher of several influential philosophers, including William of Conches.
 
-#### **Bernard Silvestris (1085-1178)**
+#### Bernard Silvestris (1085-1178)
 
 Educated at Chartres and teacher at the cathedral school of Tours, Bernard wrote a vastly popular cosmological poem, presenting an allegorical interpretation of creation.
 
 *Cosmographia.* A literary tractatus alternating prose and poetry, on the creation of the world. Philosophiae Quality 8.
 
-#### **St. Bernard of Clairvaux (1090-1153)**
+#### St. Bernard of Clairvaux (1090-1153)
 
 A Cistercian monk and verbose defender of the Church, Bernard was decisively antiintellectual, arguing against the philosophical writings of schoolmen with his mystical interpretations of God. He succeeded in condemning certain theological works of Peter Abelard and others.
 
-## **William of Conches (c.1100-c. 1150)**
+## William of Conches (c.1100-c. 1150)
 
 Student of Bernard of Chartres and teacher at Paris, William was one of the first twelfth-century theologians to make use of translated Arabic material.
 
 *Philosophia Mundi.* A summa on Philosophiae that explains how the ancient authorities (Plato and Boethius especially) were allegorically correct, as understood by a Christian. Level 4, Quality 7.
 
-## **Adelard of Bath (c.1080-c. 1150)**
+## Adelard of Bath (c.1080-c. 1150)
 
 Incurably curious, Adelard extensively traveled Arabic lands, Spain, and the Levant in search of knowledge. More interested in science then theology, Adelard contributed both to the scholastic method and the overall understanding of the natural sciences.
 
@@ -5493,25 +5493,25 @@ Incurably curious, Adelard extensively traveled Arabic lands, Spain, and the Lev
 
 *Questiones Naturales.* A tractatus on Philosophiae (metaphysics), Quality 9.\*
 
-## **Peter Lombard**(c. 1100-c. 1164)**
+## Peter Lombard(c. 1100-c. 1164)**
 
 "The Master of Sentences," Peter Lombard was an Italian trained in theology at Bologna, Reims, and then Paris. While teaching at the cathedral school of Notre Dame, he wrote his monumental *Quatuor libri Sententiarum*, "The Book of Sentences," which covers the entire theological doctrine of Christianity and unites it as a whole.
 
 *The Book of Sentences.* Book I is a summa on Divine Lore, Level 4, Quality 9, and the remaining three books are a single summae on Theology, Level 5, Quality 9.\*
 
-## **Averroes (Ibn Rushd, 1126–1198)**
+## Averroes (Ibn Rushd, 1126–1198)
 
 An Andalusian Islamic philosopher whose major impact on Christian intellectual thought was through his commentaries on almost all of Aristotle's works, which were translated into Latin and were partly responsible for the New Aristotle. He also compiled the books of Galen, which were also restored to the West.
 
 Use Aristotle's works (above) for Averroes' commentaries. The Quality of the various commentaries is 12 if read in Arabic and 11 if read in Latin.
 
-## **Maimonides (Moshe ben Maimon, 1135–1204)**
+## Maimonides (Moshe ben Maimon, 1135–1204)
 
 A Cordovan Jew whose contributions to philosophical and religious thought was hugely influential, but confined to the Jewish community. His most famous work, *A Guide for the Perplexed*, reconciled Jewish theology with Aristotelian philosophy.
 
 *A Guide for the Perplexed.* A summa written in Arabic on Jewish Theology (Level 6, Quality 9) and Philosophiae (Level 3, Quality 9). This book has yet to be translated into Latin in 1220.
 
-## **Robert Grosseteste (c. 1175 – 1253)**
+## Robert Grosseteste (c. 1175 – 1253)
 
 A famed lecturer at Oxford, who will become its first chancellor in 1221. He cares little for Aristotle, but is widely recognized among his peers as a pre-eminent natural philosopher, and sets down many of the experimental procedures for his science, which will be used in years to come. Robert wrote a number of influential scientific treatises between 1220 and 1235:
 
@@ -5523,7 +5523,7 @@ Philosophiae Tractatus: *De luce* ("Light"), *De accessione et recessione maris*
 
 Latin translation of the *Nicomachean Ethics*, a summa on Philosophiae (moral), Level 6, Quality 9.
 
-#### **The Bible**
+#### The Bible
 
 Finally, the **Bible** is an often cited authority, considered the actual Word of God by Christian theologians. For study purposes, the Bible is a summa on Theology (Level 10, Quality 3) and a summa on Church Lore (Level 3, Quality 3).\*
 
@@ -5637,7 +5637,7 @@ Wagner, D. ed. *The Seven Liberal Arts in the Middle Ages.* Indiana University P
 
 
 
-## **40 YEARS OF**
+## 40 YEARS OF
 
 
 \$29.95 US ISBN 1-58978-097-3 Stock No. AG2702

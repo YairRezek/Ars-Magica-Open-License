@@ -15,7 +15,7 @@
 
 **Second Round Playtesters:** Jason Fryer, Matt Dyson, Emily Dyson; Donna Giltrap, Malcolm Harbrow, Aaron Hicks, Richard Love; Matthew L. Seidl
 
-#### **Editor's Biography**
+#### Editor's Biography
 
 David Chart has been the **Ars Magica** Line Editor for over seven years now, in which time the line has notably failed to implode or lose large amounts of money. Given the general situation of the roleplaying industry, he feels that this is an achievement to be proud of. Before he was Line Editor he wrote for the game, all the way back to Second Edition, and was even, briefly, one of the Secret Masters of **Ars Magica**. On becoming Line Editor, however, he dissolved that shadowy cabal as being inconsistent with his personal, arbitrary, and despotic control of every aspect of the line. When not attempting to herd **Ars Magica** authors, David teaches English in Japan, where he lives with his wife and young daughter. He would like to dedicate this book, and indeed the entire Fifth Edition line, to them.
 
@@ -748,7 +748,7 @@ In emergency situations, where food has been scarce, Alexander has occasionally 
 
 **Abilities:** Athletics 4 (running), Awareness 3 (predators), Brawl 2 (dodging), Survival 3 (home terrain)
 
-#### **Powers:**
+#### Powers:
 
 *Smell Water,* 0 Points, Init 0: The camel can smell drinkable water for a distance of up to two miles.
 
@@ -786,7 +786,7 @@ Alexander's attendants are often transformed into animals. It is vital that his 
 
 **Water:** The greatest flaw in Alexander's transformations is that the water his grogs are carrying, in leather skins, does not transform when the skins do, and so it is always lost. He has tried various solutions to this problem, but none have proven promising. His troops always carry a little mead or kumis (fermented honey or milk), but that offers no protection against dehydration.
 
-#### **Combat:**
+#### Combat:
 
 *Bite:* Init +3\*, Attack +10, Defense +9, Damage +6\*
 
@@ -848,7 +848,7 @@ Alexander has developed the following new spells.
 
 ### Animal Spells
 
-#### **Recruiting A Tiny Phalanx**
+#### Recruiting A Tiny Phalanx
 
 Cr(Re)An 30 R: Touch, D: Sun, T: Group
 
@@ -858,7 +858,7 @@ Scorpion venom is painful, but individual stings are rarely fatal for healthy pe
 
 (Base 5, +1 Touch, +2 Sun, +1 Group, +1 Rego requisite)
 
-#### **Scales of the Scorpions**
+#### Scales of the Scorpions
 
 MuAn Level 40
 
@@ -870,7 +870,7 @@ Alexander uses this ability to plate friendly animals, including his grogs when 
 
 ### Aquam Spells
 
-#### **Bag of Teeth**
+#### Bag of Teeth
 
 MuAq(An) 20
 
@@ -884,7 +884,7 @@ Each tooth may become just under a hundred cubic feet of water. This means that 
 
 ### Auram Spells
 
-#### **Clouds of Obscuring Sand**
+#### Clouds of Obscuring Sand
 
 CrAu 30 R: Sight, D: Sun, T: Group
 
@@ -893,7 +893,7 @@ to allow him to move freely through the storm, although navigation by sight rema
 
 (Base 3, +3 Sight, +2 Sun +2 Group (for larger area))
 
-### **Movement Within the Sirocco**
+### Movement Within the Sirocco
 
 ReAu 25
 
@@ -903,7 +903,7 @@ Allows Alexander, or the person he touches, to operate in the worst possible san
 
 (Base 10, +1 Touch, +2 Sun)
 
-### **Ward Against the Sirocco**
+### Ward Against the Sirocco
 
 ReAu 25
 
@@ -915,7 +915,7 @@ Wards against sandstorms by repelling the breezes that carry dust. It is powerfu
 
 ### Corpus Spells
 
-#### **Eyes of the Housecats**
+#### Eyes of the Housecats
 
 MuCo(An) 20
 
@@ -927,7 +927,7 @@ The targets gain the ability to see as a cat sees, allowing them to operate norm
 
 
 
-#### **The Guardian of the Tombs**
+#### The Guardian of the Tombs
 
 MuCo(An) 20 R: Per, D:Sun, T:Ind
 
@@ -935,7 +935,7 @@ When faced with animals that might feed upon his camel form, Alexander uses this
 
 (Base 10, +2 Sun)
 
-#### **The Desert Wanderer**
+#### The Desert Wanderer
 
 MuCo(An) 25 R: Per, D: Sun, T: Ind
 
@@ -943,7 +943,7 @@ Alexander uses this spell to transform into an Arabian camel. This allows him to
 
 (Base 10, +2 Sun, +1 for size change)
 
-### **The Shadow on the Sand**
+### The Shadow on the Sand
 
 MuCo(An) 30 R: Per, D: Sun, T: Ind
 
@@ -953,7 +953,7 @@ The ability to take the shape of a vulture allows Alexander to forage for food, 
 
 ### Magi of Hermes
 
-#### **Retreat As Flying Vermin**
+#### Retreat As Flying Vermin
 
 Mu(Co)An 35 R: Voice, D: Sun, T: Circle
 
@@ -961,7 +961,7 @@ This spell allows Alexander to turn a group of people, and their Animal-based eq
 
 (Base 20, +1 Touch, +2 Sun)
 
-#### **The Lurker in the Rushes**
+#### The Lurker in the Rushes
 
 MuCo(An) 40 R: Touch, D: Sun, T: Ind
 
@@ -969,7 +969,7 @@ This spell transforms Alexander, or someone he touches, into a crocodile. Crocod
 
 (Base 20, +1 Touch, +2 Sun. Crocodiles are treated as fish when selecting a base level for this spell, +1 great Size change)
 
-### **A Punishment for Brigands**
+### A Punishment for Brigands
 
 he uses to cancel the spell at will.
 
@@ -979,7 +979,7 @@ This spell transforms a human into a mouse. While in mouse form, the victim of t
 
 (Base 10, +2 Voice +2 Sun, +2 Group)
 
-#### **A Source of Tremendous Pride**
+#### A Source of Tremendous Pride
 
 MuCo(An) 45 R: Voice, D: Sun, T: Group Used to transform the covenant's ser-
 
@@ -988,7 +988,7 @@ MuCo(An) 45 R: Voice, D: Sun, T: Group Used to transform the covenant's ser-
 
 ### Herbam Spells
 
-### **Bag of Feathers**
+### Bag of Feathers
 
 MuHe(An) 35
 
@@ -1000,7 +1000,7 @@ This spell is used to lessen the load carried by expeditions, by transforming al
 
 ### Ignem Spells
 
-#### **Conflagratious Lanyard**
+#### Conflagratious Lanyard
 
 MuIg(An) 30
 
@@ -1011,7 +1011,7 @@ each subsequent round provided the fire has sufficient fuel to continue burning.
 
 (Base 10, +1 Touch, +3 Moon, requisite free)
 
-#### **A Time For Slumber**
+#### A Time For Slumber
 
 PeIg 5
 
@@ -1021,7 +1021,7 @@ When this spell is cast around a camp, it dims the blinding light of the desert 
 
 (Base 2, +1 Touch, +2 Ring)
 
-#### **A Place of Recuperation**
+#### A Place of Recuperation
 
 PeIg 15
 
@@ -1035,7 +1035,7 @@ When this spell is cast around a camp, it lowers the temperature within the site
 
 ### Imaginem Spells
 
-#### **The False Dune**
+#### The False Dune
 
 MuIm Level 5
 
@@ -1047,7 +1047,7 @@ Sometimes Alexander can't just make an unnaturally cool, dark space, surrounded 
 
 ### Mentem Spells
 
-#### **Avoiding the Blame**
+#### Avoiding the Blame
 
 MuMe 15
 
@@ -1058,7 +1058,7 @@ This spell allows Alexander to rewrite all of the target's memories concerning a
 (Base 4, +1 Eye, +2 Sun)
 
 
-#### **The Petrine Deception**
+#### The Petrine Deception
 
 MuIm Level 15
 
@@ -1070,7 +1070,7 @@ This spell makes Alexander's grogs look and sound like small rocks. Alexander is
 
 ### Terram Spells
 
-#### **Rapid Excavations**
+#### Rapid Excavations
 
 MuTe(Aq) Level 30
 
@@ -1303,7 +1303,7 @@ Guile 1 (lying to wife), High German 5 (Allemannisch), Intrigue 2 (gossip), Orde
 
 **Arts: Cr** 20(1)**, In** 10**, Mu** 11**, Pe** 10**, Re** 12**; An** 10**, Aq** 5**, Au** 5**, Co** 20(1)**, He** 7**, Ig** 5**, Im** 11**, Me** 10(2)**, Te** 5**, Vi** 8(2)
 
-#### **Powers:**
+#### Powers:
 
 *Oh Brother, Where Art Thou*?, 0 points, Init –2, Corpus: Aurulentus can sense where his relatives are (direction and approximate distance) and their state of health. This power only works on those descended by blood from his great-great-grandfather, Alexander, which by the time of Aurulentus is a considerable number. This effect has no penetration and requires neither words nor gestures. *(InCo Base 3, +3 Target: Bloodline (ArM5, page 92), +1 to determine state of health)*
 
@@ -1396,7 +1396,7 @@ Guile 1 (lying to wife), High German 5 (Allemannisch), Intrigue 2 (gossip), Orde
 
 **Reputations:** Member of auspicious family +2 (Hermetic)
 
-#### **Combat:**
+#### Combat:
 
 *Fist:* Init –2, Attack 0, Defense –2, Damage 0
 
@@ -1410,7 +1410,7 @@ Guile 1 (lying to wife), High German 5 (Allemannisch), Intrigue 2 (gossip), Orde
 
 **Arts: Cr** 21**, In** 12**, Mu** 11**, Pe** 10**, Re** 13**; An**  10**, Aq** 5**, Au** 5**, Co** 21**, He** 7**, Ig** 5**, Im**  11**, Me** 11(2)**, Te** 5**, Vi** 10
 
-#### **Powers:**
+#### Powers:
 
 *Oh Brother, Where Art Thou*?, 0 points, Init –2, Corpus: Aurulentus can sense where his relatives are (direction and approximate distance) and their state of health. This power only works on those descended by blood from his great-great-grandfather, Alexander, which by the time of Aurulentus is a considerable number. This effect has no penetration and requires neither words nor gestures. *(InCo Base 3, +3 Target: Bloodline (ArM5, page 92), +1 to determine state of health)*
 
@@ -1419,7 +1419,7 @@ Guile 1 (lying to wife), High German 5 (Allemannisch), Intrigue 2 (gossip), Orde
 **Equipment:** A set of tasteful clothes, and a wedding ring
 
 
-#### **Encumbrance:** 0 **Spells Known:**
+#### Encumbrance: 0 Spells Known:
 
 *Bind Wound* (CrCo 10/+43)
 
@@ -1523,7 +1523,7 @@ Guile 1 (lying to wife), High German 5 (Allemannisch), Intrigue 2 (gossip), Orde
 
 **Personality Traits:** Reclusive +3, Timid +2 **Reputations:** Aurulentus' Familiar (Covenant) 2
 
-#### **Combat:**
+#### Combat:
 
 *Dodge:* Init –5, Attack N/A, Defence: –5, Damage N/A
 
@@ -1537,7 +1537,7 @@ Guile 1 (lying to wife), High German 5 (Allemannisch), Intrigue 2 (gossip), Orde
 
 **Bond Scores:** Bronze +3, Silver +1, Gold +1 (CrCo Lab Total 40)
 
-#### **Powers:**
+#### Powers:
 
 *Retreat of Invulnerability*, 1 point, Init –5, Ter-
 
@@ -1545,7 +1545,7 @@ ram: By withdrawing completely into his shell, Zeno becomes invulnerable to all 
 
 *Grant Virtue (Unaging)*, 5 points, Init –5, Vim: Zeno can grant a single person the virtue Unaging for as long as he deems appropriate. Cancelling this effect takes one round of concentration and can be done without Zeno being able to sense the recipient and also without his consent. See *Guardians of the Forests,* page 32*.*
 
-#### **Familiar Powers:**
+#### Familiar Powers:
 
 *Mental Communication:* Zeno and Aurulentus are in constant mental contact, and can exchange words, images, and emotions. *(CrMe 15: Base 4, +1 Touch, +10 levels unlimited uses/day)*
 
@@ -1577,7 +1577,7 @@ Aurulentus has developed the following new spells.
 
 ### Corpus
 
-### **Widening the River Styx**
+### Widening the River Styx
 
 CrCo 20, Ritual
 
@@ -1589,7 +1589,7 @@ Aurulentus successfully used this spell to probe the exact effects Hermetic magi
 
 (Base 15, +1 Touch)
 
-#### **Blissful Sensations**
+#### Blissful Sensations
 
 CrCo 30
 
@@ -1601,7 +1601,7 @@ Aurulentus uses this spell to ease the pains of his wife. His version is specifi
 
 (Base 15, +1 Touch, +2 Sun)
 
-#### **Artemis' Fertility**
+#### Artemis' Fertility
 
 CrCo 40
 
@@ -1613,7 +1613,7 @@ Increases the fertility of the target, thus improving the chances of conception.
 
 
 
-#### **Bestow the Blessing of Apollon**
+#### Bestow the Blessing of Apollon
 
 CrCo 50
 
@@ -1625,7 +1625,7 @@ This spell was invented by Aurulentus as a proof of concept. It is no longer use
 
 (Base 15, +1 Touch, +4 Year, +2 Room)
 
-#### **Incantation of the Warriors Made Whole**
+#### Incantation of the Warriors Made Whole
 
 CrCo 50
 
@@ -1637,7 +1637,7 @@ This improved version of the *Incantation of the Body Made Whole* was commission
 
 (Base 35, +1 Touch, +2 Room)
 
-#### **Blessing of Artemis' Fertility**
+#### Blessing of Artemis' Fertility
 
 CrCo 65
 
@@ -1651,7 +1651,7 @@ mundanes are influenced by the fact that the magi have many children, and thus a
 
 (Base 20, +1 Touch, +4 Year, +4 Boundary)
 
-#### **Pose Clotho's Question**
+#### Pose Clotho's Question
 
 InCo 5
 
@@ -1661,7 +1661,7 @@ Determines if the target is pregnant. The spell will fail if cast on a man. Clot
 
 (Base 4, +1 Touch)
 
-### **Parental Inquisitiveness**
+### Parental Inquisitiveness
 
 InCo 10
 
@@ -1671,7 +1671,7 @@ Determines the sex of an unborn child. Hermetic magic can only distinguish the u
 
 (Base 4, +1 Touch, +1 Part)
 
-#### **Pose Nona's Question**
+#### Pose Nona's Question
 
 InCo 10 R: Touch, D: Mom, T: Ind
 
@@ -1683,7 +1683,7 @@ Determines if the target is pregnant and how many months are left until birth, b
 
 (Base 5, +1 Touch)
 
-### **The Maculate Noblewoman**
+### The Maculate Noblewoman
 
 InCo 15
 
@@ -1713,7 +1713,7 @@ Below is a short list of Aurulentus' ancestors, each generation using a differen
 
 (Base 10, +1 Touch)
 
-### **Verifying the Presence of Artemis' Blessing**
+### Verifying the Presence of Artemis' Blessing
 
 InCo 15
 
@@ -1723,7 +1723,7 @@ The caster is immediately aware of a conception in the target during the spell d
 
 (Base 4, +1 Touch, +2 Sun)
 
-#### **Ease the Suffering of Childbirth**
+#### Ease the Suffering of Childbirth
 
 MuCo 15
 
@@ -1735,7 +1735,7 @@ Aurulentus invented this spell after realizing that his spell *Blissful Sensatio
 
 (Base 3, +1 Touch, +2 Sun, +1 Part)
 
-### **Hold Chur**
+### Hold Chur
 
 ReCo 30
 
@@ -1751,7 +1751,7 @@ ence of a mind control spell to stop him from attacking his group without harmin
 
 (Base 5, +2 Voice, +2 Sun, +1 close eyes)
 
-#### **House Arrest of the Unruly Child**
+#### House Arrest of the Unruly Child
 
 ReCo 30
 
@@ -1761,7 +1761,7 @@ Creates a circle which (if the spell penetrates) no human being may pass. Aurule
 
 (Base 15, +1 Touch, +2 Ring)
 
-### **It's Raining Men**
+### It's Raining Men
 
 ReCo 30
 
@@ -1771,7 +1771,7 @@ Instantly transports the targets five paces upwards into the air, after which th
 
 (Base 10, +2 Voice, +2 Group)
 
-#### **Seven Leagues Travel**
+#### Seven Leagues Travel
 
 ReCo 35
 
@@ -1785,7 +1785,7 @@ This is an improved version of the *Seven-League Stride*, sometimes used by Auru
 
 # Imaginem
 
-### **Comeliness of the Crone**
+### Comeliness of the Crone
 
 MuIm 10
 
@@ -1797,7 +1797,7 @@ Aurulentus used this spell on his daughters to test whether their suitors were r
 
 (Base 3, +1 Touch, +2 Sun)
 
-#### **Ears of a Grateful Father**
+#### Ears of a Grateful Father
 
 PeIm 20
 
@@ -1807,7 +1807,7 @@ All voices emitted by a group of individuals will be decreased in volume to that
 
 (Base 3, +1 Touch, +1 Conc, +2 Group, +1 changing images)
 
-#### **Phantasmal Troupe**
+#### Phantasmal Troupe
 
 CrIm 15
 
@@ -1827,7 +1827,7 @@ Aurulentus has created the following enchanted items.
 
 This invested item is a collection of wooden army figures: horses, soldiers, generals, and siege weapons. Each has detailed markings and is fully colored. The figures can be moved at command and are capable of emitting the appropriate noises: horses neigh, soldiers yell. This set of toys was created by Aurulentus for his sons; a similar set was made for his daughters, depicting different families of animals with corresponding sounds.
 
-#### **Movement of the Toys**
+#### Movement of the Toys
 
 ReHe 20
 
@@ -1839,7 +1839,7 @@ Enchants the wooden parts of the toys such that they are capable of small, contr
 
 (Base 3, +1 Diam, +2 Group, +10 levels unlimited uses per day)
 
-#### **Sounds of the Toys**
+#### Sounds of the Toys
 
 CrIm 20
 
@@ -1859,7 +1859,7 @@ This invested item is a nondescript door leading to an antechamber where guests 
 
 males that are present in the room. Should this be the case, a second effect will be triggered that will bar the person from entering the room.
 
-#### **Identify the Lecherous Suitor**
+#### Identify the Lecherous Suitor
 
 InMe 24
 
@@ -1871,7 +1871,7 @@ Reads the emotions of any person passing through the doorway. If strong feelings
 
 (Base 5, +1 Touch, +2 Sun, +1 level 2 uses/day, +3 levels environmental trigger)
 
-#### **Bar the Lecherous Suitor**
+#### Bar the Lecherous Suitor
 
 ReCo 33
 
@@ -1925,7 +1925,7 @@ Two matching silver amulets, each being an Arcane Connection to the other. When 
 
 A simple, wooden crib with a crystal centrally fixed along the headpiece. This is an invested item made by Aurulentus to give the mothers of the Covenant a bit more free time.
 
-#### **The Sound of Sound Sleep**
+#### The Sound of Sound Sleep
 
 InIm 8
 
@@ -1954,7 +1954,7 @@ Once triggered by the first effect, this effect will rock the crib slightly, hop
 
 A silver necklace with three small beryl stones attached to it. The invested item detects if the wearer is touched by a man and then removes any indecent emotions from him. Aurulentus created this item after he found out that a boy from a neighboring village had aggressively pursued one of his daughters.
 
-#### **Who Touches my Daughter?**
+#### Who Touches my Daughter?
 
 InCo 19
 
@@ -1966,7 +1966,7 @@ Detects if the wearer is touched by a man, and then triggers the second effect.
 
 (Base 4, +1 Touch, +2 Sun, +1 level 2 uses/day, +3 levels environmental trigger)
 
-#### **Dare Not Touch my Daughter!**
+#### Dare Not Touch my Daughter!
 
 PeMe 30
 
@@ -1978,7 +1978,7 @@ Once triggered by the first effect, this effect renders the target completely be
 
 (Base 5, +2 Voice, +2 Sun, +2 levels for 3 uses/day, +3 levels triggered effect)
 
-#### **A Guardian's Voice**
+#### A Guardian's Voice
 
 CrIm 11
 
@@ -2027,7 +2027,7 @@ Listens to all sounds in the room that are louder than that of a whisper.
 
 (Base 1, +1 Touch, +2 Sun, +2 Room, +1 level 2 uses/day, +3 levels environmental trigger)
 
-### **What Disturbs Sound Sleep?**
+### What Disturbs Sound Sleep?
 
 CrIm 28
 
@@ -2260,7 +2260,7 @@ favors), Code of Hermes 1 (nitpicking details), Etiquette 1 (apologies), Finesse
 
 **Twilight Scars:** Light sources cast shadows of people who are not currently in the room, and her reflection is ever so slightly translucent.
 
-#### **Spells Known:**
+#### Spells Known:
 
 *Doublet of Silk, That's Impenetrable* (MuAn 15/+23)
 
@@ -2420,11 +2420,11 @@ Conscientia has developed these spells.
 
 ### Animal Spells
 
-## **Doublet of Silk, That's Impenetrable**
+## Doublet of Silk, That's Impenetrable
 
 As *Doublet of Impenetrable Silk*, but experimentation has resulted in a minor side effect. The clothing affected is changed into actual silk, as well as gaining the normal benefits of the spell.
 
-#### **Pests of a Colossal Size**
+#### Pests of a Colossal Size
 
 MuAn 30
 
@@ -2434,7 +2434,7 @@ While experimenting with *Beast of Outlandish Size*, an unforeseen side effect g
 
 (Base 4, +2 Sun. +2 Group, +2 Voice)
 
-#### **Epona's Bane**
+#### Epona's Bane
 
 ReAn 25
 
@@ -2444,7 +2444,7 @@ Created as a defense against the eastern horseman, *Epona's Bane* startles and p
 
 (Base 5, +2 Voice, +2 Group)
 
-#### **Summon the Eldritch Bond**
+#### Summon the Eldritch Bond
 
 ReAn 35
 
@@ -2457,7 +2457,7 @@ A fine preparation to a Wizard's War, this spell commands a biting insect, such 
 
 ### Auram Spells
 
-### **Conjure From the Mist**
+### Conjure From the Mist
 
 MuAu(Te) 40
 
@@ -2467,7 +2467,7 @@ Developed as an all-purpose utility spell, *Conjure From the Mist* turns a large
 
 (Base 4, +2 Sun, +1 Part, +2 Voice, +2 size, +1 Intricate)
 
-#### **Be Rid the Tell Tale Smoke**
+#### Be Rid the Tell Tale Smoke
 
 PeAu 20
 
@@ -2479,7 +2479,7 @@ Conscientia learned this spell from her parens, who developed it after overheari
 
 ### Corpus Spells
 
-#### **Touch of the Blessed Virgin**
+#### Touch of the Blessed Virgin
 
 CrCo 20
 
@@ -2499,7 +2499,7 @@ Potions are a popular choice for charged items, as they are easily carried and i
 
 Some popular charged items are:
 
-#### **Pneum Flask**
+#### Pneum Flask
 
 ReAu 5
 
@@ -2509,7 +2509,7 @@ Uncork this small bottle and you can steal the breath of an individual. The brea
 
 (Base 2, +3 sight)
 
-#### **Elixir of Morning's Afterthought**
+#### Elixir of Morning's Afterthought
 
 CrCo 20
 
@@ -2517,7 +2517,7 @@ R: Touch , D: Mom, T: Ind,
 
 A quick draught of this elixir will wash away even the most serious hangovers. Popular among Jerbiton and Redcaps alike. (Base 15, +1 Touch)
 
-#### **Magic Spice**
+#### Magic Spice
 
 MuIm 5
 
@@ -2527,7 +2527,7 @@ Useful while traveling, or in delicate social situations, as a magus can simply 
 
 (Base 2, +1 Touch, +2 Sun)
 
-#### **Ink of the Unseen Circle**
+#### Ink of the Unseen Circle
 
 PeIm 15
 
@@ -2537,7 +2537,7 @@ After listening to hordes of magi boasting about their latest "ingenious magical
 
 (Base 4, +3 Moon)
 
-#### **Potion of Vulcan's Appeasement**
+#### Potion of Vulcan's Appeasement
 
 PeIg 20
 
@@ -2547,7 +2547,7 @@ When exposed to open flame, this potion extinguishes a fire up to the size of a 
 
 (Base 4, +1 Touch, +3 Size)
 
-#### **Message in a Bottle**
+#### Message in a Bottle
 
 CrMe 5
 
@@ -2557,7 +2557,7 @@ Easily carried and completely inconspicuous, a Message in a Bottle is one of the
 
 (Base 4, +1 Touch)
 
-### **The Wakeful Nightmare**
+### The Wakeful Nightmare
 
 ReMe 20
 
@@ -2567,7 +2567,7 @@ This terrible liquid, if consumed, forbids the body from entering slumber, denyi
 
 (Base 4, +1 Touch, +3 Moon)
 
-### **Whistle of Warning**
+### Whistle of Warning
 
 ReMe 35
 
@@ -2577,7 +2577,7 @@ A particularly spiteful magus, with just a blow from this whistle, will inflict 
 
 (Base 10, +2 Voice, +1 Conc, +2 Group)
 
-#### **Door in a Bottle**
+#### Door in a Bottle
 
 PeTe 5
 
@@ -2587,7 +2587,7 @@ Splashed onto a wall, *Door in a Bottle* dissolves away the stone into an instan
 
 (Base 3, +1 Touch, +1 Stone)
 
-#### **Disenchanting Concoction**
+#### Disenchanting Concoction
 
 PeVi 40
 
@@ -2602,7 +2602,7 @@ This useful potion acts as *Winds of Mundane Silence*. One of the most utilitari
 
 ### Herbam Spells
 
-### **Statim Sessio**
+### Statim Sessio
 
 CrHe 10
 
@@ -2614,7 +2614,7 @@ Favored by magi young and old who just need a quick rest, this spell creates a c
 
 ### Ignem Spells
 
-#### **Evening's Comfort**
+#### Evening's Comfort
 
 CrIg 5
 
@@ -2624,13 +2624,13 @@ After many sleepless nights spent chilled to the bone, enough was enough. Slippi
 
 (Base 2, +1 Touch, +2 Sun)
 
-### **Palm of Odorous Flame**
+### Palm of Odorous Flame
 
 The first spell Conscentia developed on her own, this spell works as *Palm of Flame*, but experimentation has produced a small side effect. Each time the spell is cast, the flame produces the smell of a random odor. Oddly enough, the most common scent produced is elderberry. Needless to say, this spell has proven difficult to trade.
 
 ### Imaginem Spells
 
-#### **Veneficus Enigma**
+#### Veneficus Enigma
 
 CrIm 20
 
@@ -2644,7 +2644,7 @@ the palm of his hand when he casts this spell, to be retrieved as the "prize" wh
 
 (Base 3, +1 Touch, +1 Conc, +2 Move/ Noise, +1 Intricate)
 
-### **Spy the Approaching Grog**
+### Spy the Approaching Grog
 
 InIm 5
 
@@ -2654,7 +2654,7 @@ A touch of a wall allows the caster to peer around the corner without entering t
 
 (Base 1, +1 Touch, +1 Con, +2 Room)
 
-#### **Circle of Undisturbed Rest**
+#### Circle of Undisturbed Rest
 
 ReIm 5
 
@@ -2666,7 +2666,7 @@ Created in conjunction with *Be Rid the Tell Tale Smoke*, this large circle spel
 
 ### Mentem Spells
 
-#### **Robed in Angelic Beauty**
+#### Robed in Angelic Beauty
 
 CrMe(Im) 25
 
@@ -2678,7 +2678,7 @@ Note that all Mythic Europeans know that the devil can masquerade as an angel of
 
 (Base 4, +1 Voice, +1 Con, +2 Group, +1 Imaginem Req.)
 
-### **Thoughts Within Speech**
+### Thoughts Within Speech
 
 InMe 30
 
@@ -2688,7 +2688,7 @@ Yet another spell where its creation resulted in a side effect worth keeping, th
 
 (Base 25, +1 Eye)
 
-### **Apollo's Fearful Gaze**
+### Apollo's Fearful Gaze
 
 MuMe 30
 
@@ -2706,7 +2706,7 @@ This horrific spell rewrites the target's common sense, so that light induces pa
 
 (Base 10, +2 Voice, +2 Sun)
 
-#### **Slave of Charity**
+#### Slave of Charity
 
 ReMe 35
 
@@ -2719,7 +2719,7 @@ This spell acts as *Enslave the Mortal* mind, with one exception. The target rem
 
 # Terram Spells
 
-### **Conjure the Ocean's Breath**
+### Conjure the Ocean's Breath
 
 MuTe 15
 
@@ -2729,7 +2729,7 @@ Developed for the traveling magus who needs a quick, easily tradable resource. *
 
 (Base 2, + 3 Moon, + 1 Part, +1 Touch)
 
-### **Armatura Vitrea**
+### Armatura Vitrea
 
 MuTe 20
 
@@ -2739,7 +2739,7 @@ Designed for those who fear the threat of armor-wearing assailants, *Armatura Vi
 
 (Base 2, +2 Voice, +2 Diam, +2 metal)
 
-#### **Foras Vim**
+#### Foras Vim
 
 ReTe 15
 
@@ -2749,7 +2749,7 @@ An easily fast-cast defense against other magi, this spell shoots a choking clou
 
 (Base 3, +2 Voice, +2 Group)
 
-#### **Carve Domain**
+#### Carve Domain
 
 PeTe 20
 
@@ -2761,7 +2761,7 @@ R: Touch, D: Mom, T: Part
 
 ### Magi of Hermes
 
-### **Saving the Apprentice's Time**
+### Saving the Apprentice's Time
 
 PeTe 10
 
@@ -2783,7 +2783,7 @@ Conscientia has created these items.
 
 Apollo's Lyre was originally made to appease Conscientia's discontented grogs, who kept complaining about the insufferable living conditions in the forgotten depths of a subterranean lab. A small brass lyre, decorated with strips of engraved cinnamon wood, Apollo's Lyre can play a number of different melodies, songs, or compositions at the caster's whim. Each string on the lyre, when plucked, plays a different tune. This Lab Text quickly became a popular trade item in Conscientia's stock.
 
-#### **Phantasmal Minstrels**
+#### Phantasmal Minstrels
 
 CrIm 10
 
@@ -2801,7 +2801,7 @@ Conscientia's effect requires a single pawn of vis to invest, allowing a greater
 
 This is a small piece of stone with a brass inlay in the shape of a hearth. When it's placed into a pot of water, the water boils instantly. When the cook is finished, all he needs to do is empty the pot, and retrieve the stone. This item deviates from the Hermetic tradition of overly complex and symbolic names, but occasionally pragmatism has its place.
 
-### **Boil Water**
+### Boil Water
 
 CrIg 15 R: Touch, D: Mom, T: Ind Pen +0, Unlimited/Day This effect boils water on contact. (Base 4, +1 Touch, +10 unlimited uses)
 
@@ -2809,7 +2809,7 @@ CrIg 15 R: Touch, D: Mom, T: Ind Pen +0, Unlimited/Day This effect boils water o
 
 This small knife with a basalt handle was developed as a trade for some very nice lab equipment. The patron wished a small kitchen knife enchanted with the ability to dispel Parma. Conscientia was halfway through the project before she realized the consequences of what she was making. When confronted, the patron never returned to claim his payment. Conscientia has always claimed to have never finished the project, and to have destroyed what notes she had.
 
-#### **Perdo Parma**
+#### Perdo Parma
 
 PeVi 37
 
@@ -2826,7 +2826,7 @@ When this knife contacts a magus, it will dispel any Parma Magica with a score o
 This small stone was created for a blind Criamon who needed an aid in reading. When drawn over a page, the stone "sees" the words on the page and transmits the images into the user's mind.
 
 
-#### **Impart the Words**
+#### Impart the Words
 
 CrMe 26 R: Touch, D: Conc, T: Ind Pen +0, Unlimited/Day
 
@@ -2834,7 +2834,7 @@ Transmits the images sensed by the object to the user's mind.
 
 (Base 3, +1 Touch, +1 Conc, +5 item maintains concentration, +10 unlimited uses, +3 linked trigger)
 
-#### **Read the Words**
+#### Read the Words
 
 InIm 18 R: Touch, D: Con, T: Ind Pen +0, Unlimited/Day
 
@@ -2846,7 +2846,7 @@ When activated, the object senses the iconic species of whatever it's touching.
 
 This inconspicuous item looks like a normal pick, but with a small crystal embedded in the handle. When touched to water, it freezes a block of ice that can be used for trade, storage, or consumption.
 
-#### **Touch of Ymir**
+#### Touch of Ymir
 
 ReAq 14 R: Touch, D: Mom, T: Ind Pen +0, Unlimited/Day Instantly freezes surrounding water into ice. Further applications keep the ice frozen. (Base 3, +1 Touch, +10 unlimited uses)
 
@@ -2854,7 +2854,7 @@ ReAq 14 R: Touch, D: Mom, T: Ind Pen +0, Unlimited/Day Instantly freezes surroun
 
 This is an intricately carved ram's horn with a tiny emerald charm embedded in it, that when blown will cause an entire flock to become passive and easy to control. A user can control a large herd, single-handedly driving them to and from pasture.
 
-#### **Herd the Passive Beasts**
+#### Herd the Passive Beasts
 
 ReAn 40 R: Voice, D: Sun, T: Group Pen +0, 1/Day
 
@@ -2868,7 +2868,7 @@ This effect calms a herd of animals (up to 1,000 animals), making them far easie
 
 When the wielder yells a warrior's call, this hammer can shatter the strongest shield and sunder even steel, crushing weapons, armor, and the poor soul who owns them. No object of metal or wood can withstand the blow of this hammer. This weapon can't destroy leather armors, but leather armors do little to stop the blow from even a mundane warhammer.
 
-#### **Sunder Warrior**
+#### Sunder Warrior
 
 PeTe(He) 25 R: Touch, D: Mom, T: Ind Pen +0, Unlimited/Day
 
@@ -2880,7 +2880,7 @@ Upon activation, a metal or wooden item touching the hammer is utterly destroyed
 
 This small wooden bowl is constantly filled with a non-nutritious food such as flatbread or pretzels. The food is not nourishing, but it helps the determined magus through those long lab sessions and experiments that just can't be stopped for dinner. This food is also perfect for lab conditions, as it won't stain, isn't greasy, any crumbs vanish after a few minutes, and it won't get all over the magus' fragile books or equipment.
 
-#### **Feed the Hungry**
+#### Feed the Hungry
 
 CrHe 28 R: Touch, D: Diam, T: Group Pen +3, Unlimited/Day
 
@@ -2905,7 +2905,7 @@ This effect alters the earth under the cloak, softening it and warming it to the
 
 This sinister item is forged as a gold necklace with many fittings. The necklace itself has no power, but the jewel fittings hold a secret. When a drop of blood (easily gathered through *Summon the Eldritch Bond*) is placed into an empty fitting, it is transmuted into a polished stone within the fitting. This keeps useful Arcane Connections nearby and in an inconspicuous state. As the necklace itself isn't magical, new fittings can be added as needed.
 
-### **Harden the Eldritch Bond**
+### Harden the Eldritch Bond
 
 MuAq(Te) 23 R: Touch, D: Sun, T: Ind Pen +0, Constant Effect
 
@@ -2917,7 +2917,7 @@ When blood is placed within the enchanted fitting, it's transformed into an attr
 
 Vulcan's Favored isn't so much an item, but an effect that can be placed on items like tools, horseshoes, weapons, or any other commonly used metal object. Often a bronze seal is affixed to the item. The effect keeps it in repair and "like new." With Vulcan's Favor, bent tools reshape themselves, worn horseshoes mend, and blades never dull. The items can be traded away, or used by the grogs around the covenant. Weapons with Vulcan's Favor are sought by paranoid magi who don't trust their own grogs, as they can't defeat even the weakest Magic Resistance.
 
-### **Vulcan's Favor**
+### Vulcan's Favor
 
 CrTe 29
 
@@ -3659,7 +3659,7 @@ Gwidion has devised the following new spells.
 
 ### Animal Spells
 
-### **Voice of the King**
+### Voice of the King
 
 ReAn 40
 
@@ -3671,7 +3671,7 @@ This spell works much as *Commanding the Harnessed Beast* (**ArM5**, page 120), 
 
 ### Herbam Spells
 
-#### **Circle of Eternal Spring**
+#### Circle of Eternal Spring
 
 CrHe 4
 
@@ -3681,7 +3681,7 @@ This spell ensures that all plants within the circle grow well. It has the same 
 
 (Base 1, +1 Touch, +2 Ring)
 
-### **Ladder Of Ivy**
+### Ladder Of Ivy
 
 CrHe 15
 
@@ -3693,7 +3693,7 @@ This spell creates a sturdy ladder of ivy that the magus or others can use to sc
 
 
 
-### **Fast Grow**
+### Fast Grow
 
 CrHe 30
 
@@ -3703,7 +3703,7 @@ This spell brings a plant to full maturity in a single day or night. Note that t
 
 (Base 15, +1 Touch, +2 Sun)
 
-#### **Fortress of Oak**
+#### Fortress of Oak
 
 Cr(Mu)He(Te) 40
 
@@ -3711,7 +3711,7 @@ R: Touch, D: Mom, T: Individual, Ritual This ritual is normally cast on an acorn
 
 (Base 3, +1 Touch, +3 Size, +3 Elaborate, +1 Terram Requisite, +1 Muto Requisite)
 
-### **Gigantic Growth**
+### Gigantic Growth
 
 MuHe 25
 
@@ -3721,7 +3721,7 @@ This spell instantly increases the size of any plant by a factor of 100, turning
 
 (Base 3, +1 Touch, +2 Sun, +1 Unnatural, +2 Size)
 
-#### **Razor Thorns**
+#### Razor Thorns
 
 MuHe(Te) 25
 
@@ -3733,7 +3733,7 @@ This spell causes razor-sharp thorns to spring out of every plant or plant-made 
 
 ### Magi of Hermes
 
-# **Blades of Grass, Leaves of Cutting**
+# Blades of Grass, Leaves of Cutting
 
 MuHe 30
 
@@ -3743,7 +3743,7 @@ This spell makes all the grass and leaves of a group of plants as sharp as a swo
 
 (Base 4, +2 Voice, +2 Sun, +2 Group)
 
-#### **Awaken Consciousness of Plant**
+#### Awaken Consciousness of Plant
 
 MuHe(Me) 55
 
@@ -3753,7 +3753,7 @@ This spell works exactly as the spell, *Stir the Slumbering Tree* (**ArM5**, pag
 
 (Base 4, +2 Voice, +4 Year, +2 Group, +2 Size)
 
-#### **Prune Plant**
+#### Prune Plant
 
 Pe(Re)He 20
 
@@ -3763,7 +3763,7 @@ The magus can instantly trim various parts of a plant into any shape that he wis
 
 (Base 3, +2 Voice, +1 size, +1 Rego Requisite)
 
-#### **Wilt**
+#### Wilt
 
 PeHe 35
 
@@ -3773,7 +3773,7 @@ This spell causes a plant to wilt and die instantly, though it does not affect a
 
 (Base 5, +2 Voice, +1 Part, +3 size)
 
-#### **Ring of Ever Bloom**
+#### Ring of Ever Bloom
 
 ReHe 15
 
@@ -3783,7 +3783,7 @@ This spell forces the plant or flower to continue to bloom even out of season.
 
 (Base 4, +1 Touch, +2 Ring)
 
-### **Controlled Growth**
+### Controlled Growth
 
 ReHe 25
 
@@ -3793,7 +3793,7 @@ Using this spell, the magus can shape the growth of a plant over the course of t
 
 (Base 4, +1 Touch, +4 Year)
 
-### **Tree Top Walk**
+### Tree Top Walk
 
 ReHe 25
 
@@ -3804,7 +3804,7 @@ This spell moves the branches of nearby trees so that the magus can literally wa
 (Base 4, +2 Voice, +1 Concentration, +2 Group)
 
 
-### **Prison Floral**
+### Prison Floral
 
 ReHe 30
 
@@ -3814,7 +3814,7 @@ In an effort to protect his grogs, Gwidion developed this spell after discoverin
 
 (Base 15, +1 Touch, +2 Ring)
 
-#### **Command of the Forest**
+#### Command of the Forest
 
 ReHe(Me) 55
 
@@ -3826,7 +3826,7 @@ The magus can make a whole wood of plants (up to 10,000 individuals in mass) mov
 
 ### Ignem Spells
 
-#### **Warmth of the Wood**
+#### Warmth of the Wood
 
 CrIg 10
 
@@ -3836,7 +3836,7 @@ This spell heats the bark of a tree, the wood of a cart, or even the planks of a
 
 (Base 2, +1 Touch, +2 Sun, +1 Part)
 
-### **Frosted Timber**
+### Frosted Timber
 
 PeIg 20
 
@@ -3850,7 +3850,7 @@ This spell cools the bark of a tree, the wood of a cart, or even the planks of a
 
 ### Imaginem Spells
 
-# **Sight of the Blossom, Ears of the Oak**
+# Sight of the Blossom, Ears of the Oak
 
 InIm 30
 
@@ -3860,7 +3860,7 @@ R: Arcane Connection, D: Sun, T: Group While using this spell, the magus can see
 
 ### Terram Spells
 
-#### **Tilled Soil**
+#### Tilled Soil
 
 ReTe 15
 
@@ -3870,7 +3870,7 @@ This spell instantly tills an amount of soil equal to that of 1000 cubic paces, 
 
 (Base 2, +2 Voice, +1 Part, +2 Size)
 
-#### **Mold the Earth within Sight**
+#### Mold the Earth within Sight
 
 ReTe 30
 
@@ -3890,7 +3890,7 @@ All plants that are touched by this lesser enchanted item make no sound when the
 
 Lesser Enchanted Item, 3 pawns Perdo vis to invest.
 
-#### **Silent forest**
+#### Silent forest
 
 PeIm(He) 25
 
@@ -3908,7 +3908,7 @@ These disks were enchanted so as to keep the entire covenant warm during the coo
 
 Lesser Enchanted Item, 3 pawns Creo vis to invest.
 
-#### **Warmth of the Wood**
+#### Warmth of the Wood
 
 CrIg 24
 
@@ -3928,7 +3928,7 @@ These disks were enchanted to keep the entire covenant cool during the hotter mo
 
 Lesser Enchanted Item, 4 pawns of Perdo vis to invest.
 
-### **Frosted Timber**
+### Frosted Timber
 
 PeIg(He) 39
 
@@ -3946,7 +3946,7 @@ This stone disk, roughly the size of a large shield, is usually kept near the co
 
 Lesser Enchanted Item, 4 pawns of Creo vis.
 
-#### **Evergreen**
+#### Evergreen
 
 CrHe 34
 
@@ -3966,7 +3966,7 @@ Lesser Enchanted Item, 5 pawns of Herbam vis to invest.
 
 ### Magi of Hermes
 
-### **Controlled Growth**
+### Controlled Growth
 
 ReHe 49
 
@@ -3984,7 +3984,7 @@ These vines snake their way all around the covenant, and their blooms provide a 
 
 Vis spent to open: 10
 
-### **Chamber of Spring Breezes**
+### Chamber of Spring Breezes
 
 Enchanted Item 4 pawns of Auram vis, 4 Seasons spent to invest.
 
@@ -3998,7 +3998,7 @@ Creates a breeze of fresh air that continually moves throughout a covenant, keep
 
 (Base 2, +1 Touch, +2 Sun, +3 Structure, +3 size; +1 lvl 2 uses a Day, +3 lvls environmental trigger [sunrise/sunset])
 
-#### **Gigantic Growth**
+#### Gigantic Growth
 
 Enchanted Item, 3 pawns of Herbam vis, 1 Season spent to invest
 
@@ -4018,7 +4018,7 @@ These vines also snake their way throughout the entire covenant, providing fresh
 
 Vis spent to open: 12
 
-### **Move Water**
+### Move Water
 
 Enchanted Item, 3 pawns of Aquam vis, 1 Season spent to invest
 
@@ -4032,7 +4032,7 @@ A person has only to take hold of one of the buds along the spell's vines and gi
 
 (Base 1, +1 Touch, +1 Diameter, +3 Size; +10 lvls unlimited uses a day, +3 lvls Linked Trigger)
 
-#### **Read Surface Thoughts**
+#### Read Surface Thoughts
 
 InMe 34
 
@@ -4044,7 +4044,7 @@ This effect reads the surface thoughts of all those touching the buds.
 
 (Base 15, +1 Touch, +2 Sun; +1 lvl 2/ day, +3 lvls environmental trigger (sunrise/ sunset))
 
-#### **Gigantic Growth**
+#### Gigantic Growth
 
 As the new enchanted item effect described for Fresh Air Vines.
 
@@ -4055,7 +4055,7 @@ A great wall of blackberry bushes, which is actually all just one very big singl
 Vis invested to open: 12
 
 
-#### **Plants of Iron**
+#### Plants of Iron
 
 Invested 4 Herbam vis, took 1 Season to enchant
 
@@ -4069,7 +4069,7 @@ This effect makes the plant's trunk and branches as strong and hard as iron.
 
 (Effect: Base 4, +2 Sun, +3 Size, +1 Terram Requisite; +1 lvl for 2 uses a day, +3 lvls for environmental trigger (sunrise/sunset)
 
-### **Single Root System**
+### Single Root System
 
 MuHe 34
 
@@ -4087,7 +4087,7 @@ The glowing leaves of this ivy snake their way through the covenant, providing l
 
 Vis invested: 12
 
-#### **Conjured Daylight**
+#### Conjured Daylight
 
 CrIg 54
 
@@ -4099,7 +4099,7 @@ The leaves of this ivy glow brightly and together they provide light as bright a
 
 (Base 5, +1 Touch, +2 Sun, +3 Size; +1 lvls 2 uses a day, +3 lvls environmental trigger)
 
-#### **Single Root System**
+#### Single Root System
 
 As the enchanted item effect described for Wall of Iron Thorns.
 
@@ -4109,7 +4109,7 @@ As the enchanted item effect described for Wall of Iron Thorns.
 
 The Storm Tree helps to protect Gwidion's forest from drought and potential forest fires.
 
-### **Summon Heavy Rain**
+### Summon Heavy Rain
 
 ReAu 43
 
@@ -4121,7 +4121,7 @@ The spell gathers clouds and causes a heavy rain to pour down over an area of ap
 
 (Base 4, +2 Sight, +2 Sun, +2 Group, +2 size; +3 lvls linked trigger)
 
-#### **Know When Tree Is Dry**
+#### Know When Tree Is Dry
 
 InHe 8
 
@@ -4139,7 +4139,7 @@ These beds of poppies make the ground soft for the grogs and magi to sleep upon.
 
 Vis spent to open: 12
 
-### **Soften Earth and Plants**
+### Soften Earth and Plants
 
 MuTe(He) 29
 
@@ -4151,7 +4151,7 @@ This effect makes the earth and hard wooden floors of the tree fortress soft and
 
 (Base 4, +1 Touch, +2 Sun, +1 Part, +1 Herbam Requisite; +1 lvl 2 uses a day, +3 lvls environmental trigger)
 
-#### **Single Root System**
+#### Single Root System
 
 As the enchanted item effect described for Wall of Iron Thorns.
 
@@ -4162,7 +4162,7 @@ The blooms of this rose bush snake through the covenant and have a special prese
 
 Vis invested to open: 12
 
-### **Boil Water**
+### Boil Water
 
 CrIg 25
 
@@ -4172,7 +4172,7 @@ R: Touch, D: Concentration, T: Individual The blooms boil all water that touches
 
 (Base 4, +1 Touch, +1 Concentration, +5 lvls item maintains concentration, +10 lvls unlimited uses per day)
 
-#### **Single Root System**
+#### Single Root System
 
 As the enchanted item effect described for Wall of Iron Thorns.
 
@@ -4182,7 +4182,7 @@ These yellow roses snake throughout the covenant, but are pruned especially to b
 
 Vis invested to open: 12
 
-#### **Warm Water**
+#### Warm Water
 
 CrIg 19
 
@@ -4194,7 +4194,7 @@ R: +1 Touch, D: Concentration, T: Individual The blooms warm all water that touc
 
 
 
-### **Single Root System**
+### Single Root System
 
 As the enchanted item effect described for Wall of Iron Thorns.
 
@@ -4204,7 +4204,7 @@ This hive of honey bees is used to pollinate and in many ways protect the covena
 
 Vis used to open: 10
 
-### **Living Hive**
+### Living Hive
 
 ReHe 44
 
@@ -4216,7 +4216,7 @@ This effect keeps the tree from growing beyond its original design and thereby i
 
 (Effect: Base 4, +2 Sun, +3 Elaborate, +3 Size, +1 lvl for 2 uses a day, +3 lvls for environmental trigger (sunrise/sunset))
 
-#### **Friendly Bees**
+#### Friendly Bees
 
 ReAn 39
 
@@ -4244,7 +4244,7 @@ rest of the waste is dealt with by a large enchanted stone circle that surrounds
 
 Vis spent to open: 16
 
-#### **Mixed Compost**
+#### Mixed Compost
 
 ReTe(Co,He) 33
 
@@ -4266,7 +4266,7 @@ The second set of rings is located at two different places, one near the covenan
 
 Vis spent to open: 12
 
-#### **Move Gigantic Wicker Basket**
+#### Move Gigantic Wicker Basket
 
 ReHe 48
 
@@ -4278,7 +4278,7 @@ When the right mental command is made, the enchanted ring of stones moves the gi
 
 (Base 15, +1 Touch, +3 Size, +10 lvls Unlimited uses +3 lvls Linked Trigger)
 
-#### **Read Surface Thoughts**
+#### Read Surface Thoughts
 
 As the enchanted item effect described for Water Vines.
 
@@ -4293,7 +4293,7 @@ Vis spent to open: 10 (more vis added later, as a talisman)
 
 +7 Protection from Storms
 
-#### **Evergreen**
+#### Evergreen
 
 Invested 2 Herbam vis, took 1 season to enchant
 
@@ -4307,7 +4307,7 @@ This effect keeps the tree in perfect health all year round.
 
 (Base 1, +2 Sun; +3 Size, +3 lvls environmental trigger (sunrise/sunset), +1 lvl 2/day)
 
-### **Plants of Iron**
+### Plants of Iron
 
 Invested 4 Herbam vis, took 1 season to enchant
 
@@ -4321,7 +4321,7 @@ This effect makes the tree's trunk and branches as strong as iron.
 
 (Base 4, +2 Sun, +3 Size, +1 Terram Requisite; +1 lvl for 2 uses a day, +3 lvls for environmental Trigger (sunrise/sunset)
 
-### **Controlled Growth**
+### Controlled Growth
 
 Invested 3 Herbam vis, took 1 season to enchant
 
@@ -4335,7 +4335,7 @@ This effect keeps the tree from growing beyond its original design and thereby i
 
 (Effect: Base 4, +2 Sun; +1 lvl for 2 uses a day, +3 lvls for environmental trigger (sunrise/sunset), +3 Size)
 
-### **The Movements of a Man**
+### The Movements of a Man
 
 Invested 5 Herbam vis, took 1 season to enchant
 
@@ -4350,7 +4350,7 @@ This spell is a more complicated version of the spell *Lord of the Trees* (**ArM
 (Base 10, +2 Sun, +10 lvls unlimited uses, +3 lvls for linked trigger, +3 Size)
 
 
-### **Read Surface Thoughts**
+### Read Surface Thoughts
 
 Invested 3 Intellego vis, took 1 season to enchant
 
@@ -4364,7 +4364,7 @@ This effect reads the surface thoughts of all those touching the tree.
 
 (Base 15, +1 Touch, +2 Sun; +1 lvl 2/ day, +3 lvls environmental trigger (sunrise/ sunset))
 
-### **Ward Against Heat and Flames**
+### Ward Against Heat and Flames
 
 Invested 3 Ignem vis, took 6 seasons to enchant
 
@@ -4411,7 +4411,7 @@ melee combat), Tough, Warrior; Magic Addiction, Ambitious, Short-Ranged
 
 Magic; Poor Hearing, Reckless\*\*
 
-#### **Combat:**
+#### Combat:
 
 *Fist:* Init –1, Attack +6, Defense +4, Damage +2 *Pole Axe:* Init 0, Attack +14, Defense +7, Damage +13
 
@@ -4431,11 +4431,11 @@ Magic; Poor Hearing, Reckless\*\*
 
 **Encumbrance:** –1 (Load 9, Burden 3)
 
-#### **Powers**
+#### Powers
 
 *Gird the Warrior*, 0 points, Init +0, Terram: By uttering a few words and sweeping his hands down his body, Hugh can convert any clothes that he is wearing into a suit of full metal scale armor, providing 7 points of Protection and 7 points of Load. The armor remains until Hugh decides to dismiss it (MuAn (He, Te) 30; R: Touch, D: Conc, T: Group; base 5, +1 Touch, +1 Conc, +2 Group; +5 maintains concentration)
 
-#### **Spells Known:**
+#### Spells Known:
 
 *Doublet of Impenetrable Silk* (MuAn 15/+11 <sup>F</sup> ) *Blunt the Viper's Fangs* (PeAn 15/+7 S ) *Circle of Beast Warding* (ReAn 5/+17) *Bind Wound* (CrCo 10/+12)
 
@@ -4487,7 +4487,7 @@ S includes Short-Ranged Magic
 
 **Reputation:** Hoplite 2 (Hermetic)
 
-#### **Combat:**
+#### Combat:
 
 *Tonatris (Gauntlet):* Init 0, Attack +6, Defense +6, Damage +4
 
@@ -4509,11 +4509,11 @@ S includes Short-Ranged Magic
 
 **Encumbrance:** –1 (Load 9, Burden 3)
 
-#### **Powers**
+#### Powers
 
 *Gird the Warrior*, 0 points, Init +0, Terram: as above
 
-#### **Spells Known:**
+#### Spells Known:
 
 *Doublet of Impenetrable Silk* (MuAn 15/+19 <sup>F</sup> )
 
@@ -4770,7 +4770,7 @@ Latin 4 (shouting), Leadership 4 (soldiers), Legion of Mithras Lore 2 (initiatio
 
 *Gird the Warrior*, 0 points, Init +0, Terram: as above
 
-#### **Spells Known:**
+#### Spells Known:
 
 *Doublet of Impenetrable Silk* (MuAn 15/+25 <sup>F</sup> ) *Blunt the Viper's Fangs* (PeAn 15/+13 S ) *Circle of Beast Warding* (ReAn 5/+27) *Bind Wound* (CrCo 10/+24T)
 
@@ -4824,7 +4824,7 @@ Hugh has developed the new spells that are listed here.
 
 ### Corpus
 
-#### **Assume the Stature of the Giants of Eld**
+#### Assume the Stature of the Giants of Eld
 
 MuCo 10
 
@@ -4838,7 +4838,7 @@ Adds +3 to the caster's normal Size, turning him into a veritable giant. The cas
 
 (Base 3, +1 Diam, +1 size, +1 to increase equipment as well)
 
-#### **Avalanche of Flesh and Steel**
+#### Avalanche of Flesh and Steel
 
 MuCo 10
 
@@ -4852,7 +4852,7 @@ Up to ten men of Size +1 become capable of running as fast as a horse. Hugh uses
 
 Add or remove human body parts from the target in such a way that he no longer looks human. These parts are normally functional, although a spell may be deliberately designed so that they are not. The Target is Part, not Individual (although Group and higher Targets work as normal).
 
-### **The Blessing of Starkad**
+### The Blessing of Starkad
 
 MuCo 25
 
@@ -4862,7 +4862,7 @@ The target grows two more arms. These extra manipulators enhance certain Dexteri
 
 (Base 5, +1 Touch, +2 Sun, +1 Part)
 
-#### **Turb of Giants**
+#### Turb of Giants
 
 MuCo 25
 
@@ -4876,7 +4876,7 @@ Adds +3 to the Size of a standard group of men. The targets' clothing, armor, an
 
 ### Herbam
 
-### **Halt the Piercing Shafts**
+### Halt the Piercing Shafts
 
 ReHe(Te) 25
 
@@ -4888,7 +4888,7 @@ This ward prevents any ranged weapons made of wood and/or metal from harming the
 
 ### Mentem
 
-#### **Breaking the Captain's Baton**
+#### Breaking the Captain's Baton
 
 PeMe 10
 
@@ -4900,7 +4900,7 @@ The target ceases to be able to coordinate a squad of soldiers as a Trained Grou
 
 ### Terram
 
-#### **Blunting the Iron's Bite**
+#### Blunting the Iron's Bite
 
 MuTe 10
 
@@ -4914,7 +4914,7 @@ The affected weapon has its total damage (including Attack Advantage) reduced to
 
 (Base 1, +2 Voice, +1 Diam, +2 affect metal)
 
-### **The Wizard's Parry**
+### The Wizard's Parry
 
 ReTe 5
 
@@ -4924,7 +4924,7 @@ The caster deflects one blow from a melee weapon of which he is aware. Since the
 
 (Base 2, +1 Touch, +2 affect metal)
 
-### **Disarm the Warrior**
+### Disarm the Warrior
 
 ReTe 10
 
@@ -4934,7 +4934,7 @@ Causes a single object within range to fly towards Hugh; he may attempt to catch
 
 (Base 3, +2 Voice, +1 sudden and forceful)
 
-#### **The Instant Ring Fort**
+#### The Instant Ring Fort
 
 ReTe 15
 
@@ -4944,7 +4944,7 @@ Earth and stone is excavated from a circular ditch around the caster to create a
 
 (Base 3, +1 Touch, +1 Part, +1 Size, +1 affect stone)
 
-### **Circular Wall of Shields**
+### Circular Wall of Shields
 
 ReTe 30
 
@@ -4966,7 +4966,7 @@ This enchanted gauntlet is shaped like the caestus used by a gladiator in Roman 
 
 plated with iron, particularly over the knuckles where it forms spikes and heavy plates. The gauntlet was opened with 10 pawns of vis (a small item of base metal), and currently has five pawns-worth of effects.
 
-#### **Night-Time Thunder**
+#### Night-Time Thunder
 
 ReMe 20
 
@@ -4978,7 +4978,7 @@ This effect is triggered when the wearer of the gauntlet strikes a being with hi
 
 (Effect: Base 4, +1 Touch, +1 Diam; Modifications +4 12/day, +6 Penetration)
 
-#### **Vaulting Lightning**
+#### Vaulting Lightning
 
 ReCo 30
 
@@ -5000,14 +5000,14 @@ haft has been enchanted, allowing the blade to be unimpeded by Magic Resistance.
 
 Troll's Wife was opened with 12 pawns of vis (the highest cost component is the tiny semi-precious gems near the axe-head), and currently has no room left for further effects as Hugh has not chosen to increase its space just yet.
 
-#### **Attunements**
+#### Attunements
 
 - +3 Corpus (amber)
 - +4 blood and wounds (bloodstone)
 - +4 demons and angels (brass, from *Houses of Hermes: Mystery Cults*, page 137)
 - +7 harm or repel faeries (iron)
 
-#### **Wood that Neither Bends Nor Breaks**
+#### Wood that Neither Bends Nor Breaks
 
 MuHe(Te) 14
 
@@ -5019,7 +5019,7 @@ The haft of the axe becomes as hard as iron, and is virtually unbreakable by mun
 
 (Effect: base 4, +2 Sun; Modifications +1 2/day, +3 environmental trigger)
 
-#### **Fell the Faerie**
+#### Fell the Faerie
 
 PeVi 23
 
@@ -5031,7 +5031,7 @@ This effect is triggered when the wielder of the axe says "ferrum et fraxinus" (
 
 (Effect: Base 5, +1 Touch; Modifications +10 Penetration, +3 6/day)
 
-#### **Hew the Hell-Beast**
+#### Hew the Hell-Beast
 
 PeVi 23
 
@@ -5043,7 +5043,7 @@ This effect is triggered when the wielder of the axe says "os et orichalcum" ("b
 
 (Effect: Base 5, +1 Touch; Modifications +10 Penetration, +3 6/day)
 
-## **Sharpening the Wizard's Blade of Vim**
+## Sharpening the Wizard's Blade of Vim
 
 MuVi 28
 
@@ -5086,7 +5086,7 @@ The spider prince who is her ancestor resents her rejection of him, and sends hi
 
 **Reputations:** none
 
-#### **Combat:**
+#### Combat:
 
 *Dodge:* Init 0, Attack n/a, Defense 0, Damage n/a
 
@@ -5465,7 +5465,7 @@ Julia has developed several new spells, details of which are given here.
 
 ### Animal Spells
 
-#### **Shearing the Unseen Sheep**
+#### Shearing the Unseen Sheep
 
 CrAn 20
 
@@ -5478,7 +5478,7 @@ is difficult with Hermetic Magic. As a consequence, Julia uses this spell to cre
 
 (Base 5, +1 Touch, +2 Sun)
 
-### **Sturdy Mantle of the Traveler**
+### Sturdy Mantle of the Traveler
 
 CrAn 30
 
@@ -5488,7 +5488,7 @@ Creates a *gardcorps* — a calf-length traveling robe with voluminous sleeves. 
 
 (Base 5, +1 Touch, +2 Sun, +2 treated and processed)
 
-### **Madder, Woad, and Weld**
+### Madder, Woad, and Weld
 
 MuAn(He) 20 R: Touch, D: Month, T: Group The touched cloth — which can be
 
@@ -5497,7 +5497,7 @@ wool, cotton, or linen — takes on a vivid hue as if dyed. Up to ten skeins of 
 
 (Base 1, +1 Touch, +3 Month, +2 Group, +1 requisite)
 
-#### **Cloak of Nessus**
+#### Cloak of Nessus
 
 MuAn 35
 
@@ -5509,7 +5509,7 @@ Since creating a poison of this strength has a base level of 15 (if it were an A
 
 (Base 5, +2 Voice, +1 Diam, +1 Part, +2 poison effect)
 
-#### **The Unraveled Seam**
+#### The Unraveled Seam
 
 PeAn(He) 5
 
@@ -5519,7 +5519,7 @@ The touch of the caster causes a thread of animal or plant origin to decay, maki
 
 (base 2, +1 Touch, +1 Part, +1 requisite)
 
-#### **The Unraveled Clothes**
+#### The Unraveled Clothes
 
 PeAn(He) 15 R: Voice, D: Mom, T: Group The targeted clothing falls apart as all
 
@@ -5529,7 +5529,7 @@ the stitches — both thread and leather — simultaneously unravel. The victim 
 
 (Base 2, +2 Voice, +2 Group, +1 requisite)
 
-#### **The Wizard's Spindle**
+#### The Wizard's Spindle
 
 ReAn 4
 
@@ -5539,7 +5539,7 @@ The caster converts up to 10 fleeces into wool. The wool is cleaned, carded, and
 
 (Base 1, +1 Touch, +2 Group)
 
-#### **Dressing the Human Form in Wool**
+#### Dressing the Human Form in Wool
 
 ReAn 5
 
@@ -5561,7 +5561,7 @@ them into clothing with this spell.
 
 This spell employs the Level 3 Rego Animal guideline on page 50 of *Covenants*: "treat and process items made of animal products." (Base 2, +1 Touch, +1 complexity)
 
-#### **Ward Against Faeries Which Creep and Crawl**
+#### Ward Against Faeries Which Creep and Crawl
 
 ReAn 20
 
@@ -5571,7 +5571,7 @@ No faerie animal whose Faerie Might is equal or less to the level of the spell c
 
 (As ward guideline)
 
-# **Constraint of the Strangling Vestments**
+# Constraint of the Strangling Vestments
 
 ReAn 35
 
@@ -5584,7 +5584,7 @@ The target's clothes develop a life of their own, and tighten around their owner
 
 ### Corpus Spells
 
-### **Sealing the Lips**
+### Sealing the Lips
 
 ReCo 10
 
@@ -5596,7 +5596,7 @@ The target is rendered unable to speak. It appears that his lips have been stitc
 
 ### Herbam Spells
 
-### **Clothe the Naked Form**
+### Clothe the Naked Form
 
 CrHe 10
 
@@ -5606,7 +5606,7 @@ Creates an individual garment made of linen or cotton, most commonly undergarmen
 
 (Base 1, +1 Touch, +2 Sun, +2 treated and processed)
 
-#### **The Travelers' Fortress of Cloth**
+#### The Travelers' Fortress of Cloth
 
 CrHe 20
 
@@ -5618,7 +5618,7 @@ This spell creates a tent of waterproof canvas and wooden poles that is large en
 
 ### Magi of Hermes
 
-#### **Weaver's Trap of Threads**
+#### Weaver's Trap of Threads
 
 CrHe 20
 
@@ -5630,7 +5630,7 @@ This spell is a deliberate reference to the better-known spell *Weaver's Trap of
 
 (Base 2, +2 Voice, +2 Sun, +2 Group)
 
-#### **The Clothier's Craft Done in an Instant**
+#### The Clothier's Craft Done in an Instant
 
 ReHe 4
 
@@ -5643,7 +5643,7 @@ If starting with raw flax or cotton fibers, this spell would have needed to use 
 (Base 3, +1 Touch)
 
 
-### **The Mended Tear**
+### The Mended Tear
 
 ReHe 5
 
@@ -5653,7 +5653,7 @@ The caster lays a piece of linen or cotton thread over a rent in any fabric and 
 
 (Base 3, +1 Touch, +1 Part)
 
-### **The Animate Attire**
+### The Animate Attire
 
 ReHe 20
 
@@ -5663,7 +5663,7 @@ One item of clothing starts to writhe and thrash under the direction of the cast
 
 (Base 5, +2 Voice, +1 Conc)
 
-#### **Embroidering the Wizard's Robes**
+#### Embroidering the Wizard's Robes
 
 ReHe 20
 
@@ -5684,7 +5684,7 @@ This beautiful loom is expertly made from elm and is a vertical loom, a relative
 
 recent introduction into Mythic Europe from the East. Every component is made from carefully carved wood; it does not have a single metal hinge, nail, or bolt. The only components that are not wooden are the stone weights keeping the warp threads taut during weaving, and these can be easily removed. The kabouters after whom the loom is named are a diminutive race of urban faeries from Julia's Flemish homeland, and she thought it appropriate to honor their skill in naming the item. The loom is a huge item of wood, and thus was prepared with ten pawns of Vim vis, of which six spaces still remain.
 
-#### **Loom of Elfin Proportions**
+#### Loom of Elfin Proportions
 
 MuHe 23 Pen 0, 6/day R: Per, D: Conc, T: Ind
 
@@ -5694,7 +5694,7 @@ This spell is designed based on the *Object of Increased Size* spell (**ArM5**, 
 
 (base 4, +1 Conc, +1 size, +1 complexity; +5 item maintains concentration, +3 6 per day)
 
-#### **Panorama of the Heinzelmännchen**
+#### Panorama of the Heinzelmännchen
 
 ReAn 10 Pen 0, 1/day
 
@@ -5710,7 +5710,7 @@ The loom weaves wool into an intricate tapestry described when the effect is tri
 
 This brooch is an unremarkable piece of jewelry consisting of twisted ropes of copper wire forming a simple warp and weft pattern beneath a cast copper apple. This tiny item of base metal was prepared with five pawns of Vim vis, and has currently been instilled with three pawns' worth of effects.
 
-### **The Everchanging Garments**
+### The Everchanging Garments
 
 MuAn(He) 28 Pen 0, 6/day
 
@@ -5724,7 +5724,7 @@ The clothes to which the brooch is pinned can be utterly changed in their style 
 
 Julia's stock in trade is the creation of fabulous cloths that cannot be duplicated with mundane craft. She makes these fabrics as charged items using her Craft Magic Virtue rather than the usual process for making charged items. While this means she uses her Casting Total rather than her Laboratory Total, it takes her mere days to instill the effects rather than a season. Since she can manufacture at least one sheet of fabric each day through mundane means, it takes her one day per charge to create these charged items. She usually instills one charge into each sheet. For example, if her Casting Total is 23, it takes four days to make four sheets of cloth containing the *Iridescence of the*  *Mallard's Head* effect, each holding one charge. She generally does not trigger the magic of the charged item until it has been formed into a garment, and each piece of cloth can have only a single magical effect. Julia's Enduring Magic often extends the duration of each effect to be much longer than specified.
 
-# **Iridescence of the Mallard's Head**
+# Iridescence of the Mallard's Head
 
 MuIm 4
 
@@ -5736,7 +5736,7 @@ When triggered, this effect causes the dull green of the cloth to adopt an iride
 
 (Base 1, +3 Month)
 
-#### **Staunch the Bloody Wound**
+#### Staunch the Bloody Wound
 
 CrCo 10
 
@@ -5748,7 +5748,7 @@ When triggered, bandages made from this cloth give a +3 to Wound Recovery rolls.
 
 (Base 2, +1 Touch, +3 Month)
 
-#### **Scintillation of the Phoenix**
+#### Scintillation of the Phoenix
 
 CrIg 10
 
@@ -5760,7 +5760,7 @@ When triggered, this orange-yellow cloth glows with a light equivalent to torchl
 
 (Base 3, +3 Month)
 
-#### **Constrain the Shrewish Wife**
+#### Constrain the Shrewish Wife
 
 MuMe 15
 
@@ -5773,7 +5773,7 @@ When triggered, clothes made from this cloth cause the wearer to become more con
 (Base 3, +1 Touch, +3 Moon)
 
 
-#### **Curb the Straying Husband**
+#### Curb the Straying Husband
 
 MuMe 15 Pen 0, charged item
 
@@ -5783,7 +5783,7 @@ When triggered, clothes made from this cloth cause the wearer to become temperat
 
 (Base 3, +1 Touch, +3 Moon)
 
-### **Cloth of Unicorn Hair**
+### Cloth of Unicorn Hair
 
 Level 20 Pen 0, charged item R: Touch, D: Sun, T: Ind
 
@@ -5795,14 +5795,14 @@ Not actually formed from the hair of a unicorn (despite what she tells clients!)
 
 The "Prince of Shears" is Julia's talisman. These clothier's shears are two feet long and constructed from iron. Inlaid onto the blades are intricate filigrees of gold, copper, and lead. The invested item was initially prepared with ten pawns of Vim vis and currently has no enchantment space remaining.
 
-#### **Attunements**
+#### Attunements
 
 - +2 Shaping Fabric (cloth shears)
 - +7 Harm/Repel Faeries (iron)
 - +4 Deftness (copper)
 - +4 Wards (lead)
 
-### **Snip the Thread of a Faerie's Might**
+### Snip the Thread of a Faerie's Might
 
 PeVi 25
 
@@ -5814,7 +5814,7 @@ Weakens a faerie. If the effect penetrates the Faerie's Might then it loses 10 p
 
 (Base 0, +2 Voice; +10 Pen 30, +5 24/day)
 
-#### **Sever Wood and Bone**
+#### Sever Wood and Bone
 
 PeAn(He) 12 Pen 0, 3/day R: Touch, D: Mom, T: Ind
 
@@ -5823,7 +5823,7 @@ This effect is rarely used for mundane tasks, since Julia is sufficiently skille
 
 (Base 4, +1 Touch, +1 requisite; +2 3/day)
 
-#### **Gather the Connection**
+#### Gather the Connection
 
 ReCo(An) 30 Pen 10, 1/day
 
@@ -5833,7 +5833,7 @@ When triggered, this effect snips a lock of hair from the target (either human o
 
 (Base 15, +2 Voice; +5 Pen 10)
 
-#### **Sunder Stone**
+#### Sunder Stone
 
 PeTe 12
 
@@ -6032,7 +6032,7 @@ cates. He frequently dresses in the garb of a successful merchant. Although it i
 
 **Encumbrance:** 0
 
-#### **Spells Known:**
+#### Spells Known:
 
 *Soothing Voice of the Stableman* (ReAn 15/+15) *Patch of Drought* (PeAq 10/+12) *The Inexorable Search* (InCo 20 /+19) *Pull of Blood* (InCo 20 /+19) *Memory of the Distant Dream* (CrMe 20/+32) *Frosty Breath of the Spoken Lie* (InMe 20/+38) *Posing the Silent Question* (InMe 20/+38) *Thoughts Within Babble* (InMe 25 /+38) *Familial Secrets* (InMe 30/+38) *Scent of Loose Purses* (InMe 30/+38) *Stench of Hate* (InMe 30/+38) *Tread of Fellow Travelers* (InMe 30/+38) *Opinions of the Masses* (InMe 35/+38) *Oath Breaker's Confession* (InMe 40 /+38) *Blissful Messenger* (MuMe 30/+31) *Confusion of the Numbed Will* (PeMe 15/+32) *Loss of But a Moment's Memory* (PeMe 15/+32) *Calm Mind of Resolute Behavior* (PeMe 20 /+32)
 
@@ -6067,7 +6067,7 @@ two seasons inventing Oath Breaker's Confession, and two seasons inventing Opini
 
 **Reputations:** Overly Concerned with Mundanes (Quaesitors) +1, Compulsive dealmaker (Tribunal) +1, Dangerous Bargainer (local faeries) +2, Skilled in Mentem (Tribunal) +2
 
-#### **Combat:**
+#### Combat:
 
 *Fist:* Init –1, Attack–1, Defense –1, Damage 0 *Dodge:* Init –1, Attack n/a, Defense –1, Damage n/a
 
@@ -6172,7 +6172,7 @@ The effect of the Blatant Gift is sufficiently strong to make animals frenzied w
 
 ### Aquam Spells
 
-#### **Patch of Drought**
+#### Patch of Drought
 
 PeAq 10
 
@@ -6188,7 +6188,7 @@ weather and possible on even dirt roads during adequate weather.
 
 ### Corpus Spells
 
-#### **Pull of Blood**
+#### Pull of Blood
 
 InCo 20
 
@@ -6200,7 +6200,7 @@ This spell informs the caster of the direction and distance to each living desce
 
 ### Herbam Spells
 
-#### **Locked Storehouse**
+#### Locked Storehouse
 
 MuHe (Te) Level 45
 
@@ -6214,7 +6214,7 @@ Lambert has traded to acquire a casting tablet (*Covenants* page 89) of the spel
 
 ### Mentem Spells
 
-### **Missive of Memory**
+### Missive of Memory
 
 CrMe 40
 
@@ -6228,7 +6228,7 @@ While this spell only takes a moment to cast, the magus needs to have a clear un
 
 (Base 5 +4 Arcane Connection, +3 Moon)
 
-#### **Blissful Messenger**
+#### Blissful Messenger
 
 MuMe 30
 
@@ -6244,7 +6244,7 @@ A Tytalus maga who had need of sending agents to areas where they might be subje
 
 (Base 5, +1 Touch, +4 Until)
 
-#### **Scent of Loose Purses**
+#### Scent of Loose Purses
 
 InMe 30
 
@@ -6256,7 +6256,7 @@ Lambert frequently casts this spell on his family and people in his employ to he
 
 (Base 5, +1 Touch +2 Sun, +2 Smell)
 
-#### **Stench of Hate**
+#### Stench of Hate
 
 InMe 30
 
@@ -6269,7 +6269,7 @@ Lambert frequently casts this spell on his family and people in his employ to he
 
 (Base 5, +1 Touch +2 Sun, +2 Smell)
 
-#### **Tread of Fellow Travelers**
+#### Tread of Fellow Travelers
 
 InMe 30
 
@@ -6281,7 +6281,7 @@ This spell and similar magics are common among members of House Merinita. Road R
 
 (Base 5, +2 Road, +1 Diameter, +2 Group)
 
-#### **Familial Secrets**
+#### Familial Secrets
 
 InMe 30
 
@@ -6295,7 +6295,7 @@ of his or her descendants). The caster does not need to possess Arcane Connectio
 
 (Base 15, +3 Bloodline)
 
-#### **Oath Breaker's Confession**
+#### Oath Breaker's Confession
 
 InMe 35
 
@@ -6305,7 +6305,7 @@ Like all spells of Bargain Duration, this spell is cast immediately after the ca
 
 (Base 15, +1 Eye, +3 Momentary & Bargain)
 
-#### **Opinions of the Masses**
+#### Opinions of the Masses
 
 InMe 35
 
@@ -6315,7 +6315,7 @@ If the caster is surrounded by many people, the noise generated by this spell ca
 
 (Base 15, +1 Concentration, +3 Hearing)
 
-### **Family Gathering**
+### Family Gathering
 
 Mu(In)Me 40
 
@@ -6331,7 +6331,7 @@ Prior to inventing this spell, Lambert on occasion spontaneously cast a Range: P
 
 (Base 15, +1 Concentration, +3 Bloodline, +1 Intellego requisite)
 
-## **Calm Mind of Resolute Behavior**
+## Calm Mind of Resolute Behavior
 
 PeMe 20
 
@@ -6342,7 +6342,7 @@ Lambert's mater believed that this spell was an essential tool for anyone who de
 
 (Base 15, +1 Diameter)
 
-# **Blindness of Involuntary Obstinacy**
+# Blindness of Involuntary Obstinacy
 
 PeMe 40
 
@@ -6352,7 +6352,7 @@ The targets of this spell become, for the duration of the spell, completely unab
 
 (Base 10, +3 Sight, +1 Concentration, +2 Group)
 
-#### **Mind Cleansed of Treachery**
+#### Mind Cleansed of Treachery
 
 PeMe 45
 
@@ -6369,7 +6369,7 @@ Lambert has developed or traded for these enchanted items.
 
 Lambert acquired these two silver coins through trade with a fellow magus. Each coin bears a crown on one side and a likeness of Mercere on the other. The image of Mercere is laughing on the Coin of Enthusiastic Patrons, and grimacing on the Coin of Petulant Customers. Each of the two coins is a lesser enchanted device created with three pawns of vis. Lambert does not always keep these items to himself; rather they are frequently held by other members of his family. Lambert finds that the most valuable use of the coins is not in using them to strike advantageous bargains, but in allowing his family to receive copious accurate feedback regarding what people think of their merchandise (indeed, frequent use of the coins could lead to Warping of his family).
 
-# **Blessing of Enthusiastic Patrons**
+# Blessing of Enthusiastic Patrons
 
 ReMe Level 25 Pen +0, 1/day R: Touch D: Sun, T: Room
 
@@ -6377,7 +6377,7 @@ When the coin enchanted with Blessing of Enthusiastic Patrons is touched to the 
 
 (Effect: Base 10, +1 Touch +2 Room)
 
-#### **Curse of Petulant Customers**
+#### Curse of Petulant Customers
 
 ReMe Level 25 Pen +0, 1/day R: Touch D: Sun, T: Room
 
@@ -6392,7 +6392,7 @@ Lambert was unable to create the Coins of Loose-Tongued Patrons for himself. He 
 
 This is a door frame of maple and hazel that was incorporated into the structure of a covenant. On the top of the frame is a small hollow with a nail driven into it. A tiny bell was designed to be hung upon this nail. The frame was opened using eight pawns of vis. When the doorframe was delivered, it had one invested power that took up four of the door's eight pawns of capacity for enchantment.
 
-## **Doorframe of the Wary Steward**
+## Doorframe of the Wary Steward
 
 InMe 35, 0 penetration
 
@@ -6408,7 +6408,7 @@ Lambert secured a Lab Text for this spell from the Merinita who developed it, in
 
 ### Vim Spells
 
-# **Wrappings of Metaphysical Iron**
+# Wrappings of Metaphysical Iron
 
 ReVi Gen R: Touch, D: Sun, T: Individual
 
@@ -6425,7 +6425,7 @@ Lambert finds that faeries rarely confront him about his use of this spell when 
 
 This is a large oaken chest with brass hardware of simple design. The chest measures two and a half feet wide, a foot and a half deep, and foot and a half tall. The Granary Chest is an invested device opened with eight pawns of vis (opening only the wood, as the highest capacity component). The chest is invested with three powers.
 
-#### **Convenient Warehouse**
+#### Convenient Warehouse
 
 MuHe 24
 
@@ -6441,7 +6441,7 @@ has helped to reduce difficulties, but has not completely eliminated them.
 
 (Effect: Base 3, +2 Day, +2 Room, +1 excessive size change; Modifications +1 activation twice per day, +3 environmental trigger)
 
-### **Carpentry of Brass**
+### Carpentry of Brass
 
 MuHe(Te) 10
 
@@ -6453,7 +6453,7 @@ This power transforms the wood of the chest into brass matching the fittings on 
 
 (Effect: Base 4, +2 Sun)
 
-### **Charm Versus Dampness**
+### Charm Versus Dampness
 
 ReAq 9
 
@@ -6469,7 +6469,7 @@ This power slowly moves any liquids out of the chest over a period of minutes an
 
 This lesser enchanted device is a small wooden hourglass about the size of a chess piece bearing sulfur inlays. This device is enchanted with the following power.
 
-## **Freshness of the Harvest Evening**
+## Freshness of the Harvest Evening
 
 CrHe 14
 
@@ -7001,7 +7001,7 @@ Maris has developed these spells during his self-imposed isolation.
 
 ### Animal Spells
 
-#### **Securing the Harvest**
+#### Securing the Harvest
 
 ReAn 4
 
@@ -7015,7 +7015,7 @@ This ward prevents any mundane pest from entering and absconding with the food g
 
 ### Aquam Spells
 
-#### **Sense the Tide's Boundaries**
+#### Sense the Tide's Boundaries
 
 InAq 25
 
@@ -7025,7 +7025,7 @@ As *Eyes of the Bat*, but senses the displacement of water to see in the ocean's
 
 (Base 4, +1 Touch, +2 Sun, +2 Size)
 
-### **Captured by Höðr's Shackles**
+### Captured by Höðr's Shackles
 
 ReAq 20
 
@@ -7035,7 +7035,7 @@ Instantaneously, a submerged target is imprisoned in a thick casing of ice. Due 
 
 (Base 3, +2 Voice, +1 Part, +1 Size)
 
-### **Swallowed by the Mist**
+### Swallowed by the Mist
 
 ReAq 20
 
@@ -7047,7 +7047,7 @@ This spell turns the targeted section of water to mist, causing swimmers and shi
 
 ### Herbam Spells
 
-### **Grow the Bountiful Feast**
+### Grow the Bountiful Feast
 
 CrHe 4
 
@@ -7059,7 +7059,7 @@ the circle grow healthily, and produce a good crop. The plants still mature norm
 
 (Base 1, +1 Touch, +2 Ring)
 
-#### **Plant the Bountiful Feast**
+#### Plant the Bountiful Feast
 
 CrHe 20
 
@@ -7071,7 +7071,7 @@ This ritual creates a number of edible or food-producing plants. The plants appe
 
 ### Ignem Spells
 
-### **Repel Winter's Clutches**
+### Repel Winter's Clutches
 
 CrIg 5
 
@@ -7083,7 +7083,7 @@ Rapidly warms the target with an internal heat. This can be used to quickly defr
 
 ### Terram Spells
 
-#### **Form the Hermetic Boundary**
+#### Form the Hermetic Boundary
 
 CrTe 25
 
@@ -7102,7 +7102,7 @@ Maris has designed the following items.
 
 Every sailor knows the fickleness of the sea. One day fish are leaping into your nets, while the next the ocean is as barren as any desert. These traps help keep the holds full, but even with magical assistance, you can't catch fish that aren't there. Each trap must be tailored to a particular kind of prey; Maris has made one for cod. When using the appropriate trap to catch the right prey, the Ever-Tempting Trap gives a bonus of +5 to fishing checks.
 
-#### **Sight of Wounded Prey**
+#### Sight of Wounded Prey
 
 CrIm 9
 
@@ -7116,7 +7116,7 @@ This effect creates the illusion of a certain bait inside the trap, allowing it 
 
 This rusty eyepiece is essential to navigating the dreadful weather conditions of the northern seas, as well as getting the drop on a foe in a well-placed fog.
 
-#### **True Sight of the Air**
+#### True Sight of the Air
 
 InAu 25 Pen +0, 24/day R: Touch, D: Conc, T: Vision As *True Sight of the Air* (**ArM5**, page 127).
 
@@ -7124,7 +7124,7 @@ InAu 25 Pen +0, 24/day R: Touch, D: Conc, T: Vision As *True Sight of the Air* (
 
 (Effect: Base 1, +1 Touch, +1 Conc, +4 Vision; +5 24/day, +5 item maintains concentration)
 
-### **Eyes of the Eagle**
+### Eyes of the Eagle
 
 InIm 35 Pen +0, 24/day R: Touch, D: Conc, T: Vision As *Eyes of the Eagle* (**ArM5**, page 145). (Base 3, +1 Touch, +1 Conc, +4 Vision; +5 24/day, +5 item maintains concentration)
 
@@ -7132,7 +7132,7 @@ InIm 35 Pen +0, 24/day R: Touch, D: Conc, T: Vision As *Eyes of the Eagle* (**Ar
 
 Living in the Baltic Sea is dreadful and dangerous. This cloak makes life a little more bearable. Keeping the wearer warm and dry, this cloak gives a +5 modifier to soak versus exposure. Also, the cloak will not freeze, nor will ice build up upon the cloak or the wearer.
 
-#### **Cloak of the Duck's Feathers**
+#### Cloak of the Duck's Feathers
 
 ReAq 9
 
@@ -7144,7 +7144,7 @@ As *Cloak of the Duck's Feathers* (**ArM5**, page 124).
 
 (Base 2, +2 Sun, +1 Touch; +1 2/day, +3 environmental trigger: sunrise/set)
 
-#### **Comfort the Weary Traveler**
+#### Comfort the Weary Traveler
 
 CrIg 9
 
@@ -7171,7 +7171,7 @@ As *Lungs of the Fish* (**ArM5**, page 122). However, this still does not allow 
 
 (Base 4, +1 Touch, +2 Sun, +1 Part; +1 2/day, +3 environmental trigger: sunrise/set)
 
-#### **Surviving the Deep**
+#### Surviving the Deep
 
 MuCo 30
 
@@ -7183,7 +7183,7 @@ This effect strengthens the body, increasing its mass and allowing it to resist 
 
 (Base 15, +1 Touch, +2 Sun)
 
-#### **The Kraken's Song**
+#### The Kraken's Song
 
 MuIm 8
 
@@ -7199,7 +7199,7 @@ This simple effect changes any vocalizations made by the caster into a loud high
 
 This unassuming chamber pot, nailed to the deck of the *Paregro Mare* (to avoid any "accidents" on the rolling seas), is probably the most-used item on the ship.
 
-#### **Remove the Unsightly Mess**
+#### Remove the Unsightly Mess
 
 PeCo(Aq) 20
 
@@ -7218,7 +7218,7 @@ All human waste, and all associated un-
 
 This is a series of small weights attached to a long length of rope and dragged behind the *Paregro Mare.* Using a system akin to modern trawl fishing, Maris scours the seas for sources of magical power. When the *Paregro Mare* comes near one of these underwater sites, the rope pulls tight as the anchor points the way*.* With a successful Intelligence + Navigation roll against an Ease Factor of 9, the user can nail down the location of a discovered site with enough accuracy to make a dive.
 
-#### **Guide the Seeker**
+#### Guide the Seeker
 
 ReHe 16 Pen +0, Constant Effect R: Per, D: Mom, T: Ind
 
@@ -7226,7 +7226,7 @@ This effect pulls the rope towards the sensed vis, much like a magnet. The taut 
 
 (Base 3; +3 linked trigger, +10 unlimited uses/day)
 
-#### **Seek the Enchanted Waters**
+#### Seek the Enchanted Waters
 
 InVi 19 Pen +0, Constant Effect R: Vision, D: Sun, T: Ind This effect detects nearby vis sources. (Base 1, +4 Vision, +2 Sun, +1 2/day, +3 environmental trigger: sunrise/set)
 
@@ -7234,7 +7234,7 @@ InVi 19 Pen +0, Constant Effect R: Vision, D: Sun, T: Ind This effect detects ne
 
 With this device, fresh water is just an arm's length away. After being filled with sea water, the Naiad's Cask will dispense clean, fresh drinking water.
 
-#### **Cleanse Gaia's Tears**
+#### Cleanse Gaia's Tears
 
 PeTe(Aq) 20 Pen +0, 24/day R: Touch, D: Mom, T: Ind
 
@@ -7252,7 +7252,7 @@ All salt within the container is destroyed, even if in solution, leaving drinkab
 
 This incredibly useful device manifests itself as a long piece of vine, wrapped around a wooden spindle. When the end of the plant is tugged, ten feet of vine unwraps itself from the spindle. This vine is strong and sturdy as a good piece of rope, but the vine is not permanent, and all rigging generally must be replaced every duration. The grown vine may be cut off and used without destroying the device, as long as the original amount of vine remains intact (five feet coiled around the spindle).
 
-### **Concoct Cordage**
+### Concoct Cordage
 
 CrHe 15
 
@@ -7268,7 +7268,7 @@ The attached vine grows an additional ten feet per activation.
 
 Sickness and injury are ever-present risks on a ship, and with a one-man crew, a very serious threat. This shroud, emblazoned with the cross of St. John, keeps a man in health, and helps heal him when sick or injured.
 
-#### **Hospitaller's Vigil**
+#### Hospitaller's Vigil
 
 CrCo 24
 
@@ -7284,7 +7284,7 @@ If the Shroud of the Healed Body is worn for the duration of a wound or sickness
 
 This large circle of cured leather is attached to the *Paregro Mare's* navigation console. Attached to the map is a weighted leader line that's thrown off the back of the ship. On the map appears a real-time depiction of the surrounding ocean and all the information a sailor could need, including tides, depth information, and other ships. As long as the notation this map provides is understood by the sailor, he gets an additional +5 to his Navigation rolls.
 
-#### **Reveal the Ocean's Secrets**
+#### Reveal the Ocean's Secrets
 
 InAq 19
 
@@ -7769,7 +7769,7 @@ referred to as "worms" in Mythic Europe. This spell provided no breakthrough to 
 
 (base 5, +1 Touch, +2 Sun)
 
-#### **Flight Perfected**
+#### Flight Perfected
 
 CrAn 25
 
@@ -7779,7 +7779,7 @@ Creates a dove in the hands of the caster. The bird acts like a normal bird for 
 
 (base 10, +1 Touch, +2 Sun)
 
-#### **Flight Divorced**
+#### Flight Divorced
 
 CrAn 30
 
@@ -7795,7 +7795,7 @@ This spell provided Marcus with a breakthrough in the first of the two seasons i
 
 (base 10, +1 Touch, +2 Sun, +1 Part)
 
-#### **Strength Extinguished**
+#### Strength Extinguished
 
 CrAn 30
 
@@ -7805,7 +7805,7 @@ Creates a bull's heart. This spell provided Marcus with no breakthrough.
 
 (base 10, +1 Touch, +2 Sun, +1 Part)
 
-### **Strength Renewed**
+### Strength Renewed
 
 CrAn 35
 
@@ -7815,7 +7815,7 @@ Creates a bull's heart that continues to beat strongly for the duration of the s
 
 (base 15, +1 Touch, +2 Sun, +1 Part)
 
-#### **Touch of the Wild**
+#### Touch of the Wild
 
 MuAn 20
 
@@ -7831,7 +7831,7 @@ You are able to graft organs onto an animal's body to make a new creature. The d
 
 Note that this Virtue does not yet exist, but once Marcus has completed his work it will be integrated into Hermetic theory through Original Research, and may be taught to other magi either through personal instruction or by writing a tractatus describing the breakthrough. The source must grant at least 5 experience points in a single season for the Virtue to be conferred.
 
-# **Harmonic Metamorphosis of the Beast**
+# Harmonic Metamorphosis of the Beast
 
 Cr(Mu)An 35 R: Touch, D: Mom, T: Ind, Ritual This spell can only be successfully cast by those with the Hermetic Metamorphosis Virtue. It requires the immobilized body of the recipient animal, and the donor organ. If the donor derives from another animal, it too must be immobilized. During the casting of the spell, the caster removes the organ from the donor and grafts it to the recipient. The spell resizes the organ (if necessary) and joins up the blood supply and internal organs. The type of organs that can be transplanted are functional units of the animal — its head, pair of hind legs, tail, pair of hands, heart, and so forth.
 
@@ -7853,7 +7853,7 @@ cation, if any. In general the animal grows larger (although does not usually ga
 
 (base 4, +1 Touch, +3 Moon)
 
-### **The Griffin Reborn**
+### The Griffin Reborn
 
 MuAn 35
 
@@ -7865,7 +7865,7 @@ Like *Spirit of the Bull of Minos*, this spell is the result of an insight into 
 
 (base 5, +1 Touch, +3 Moon, +2 Pair)
 
-#### **Icarus' Folly**
+#### Icarus' Folly
 
 MuAn 40
 
@@ -7875,11 +7875,11 @@ The targeted animal is given a pair of wings. It does not immediately know how t
 
 (base 25, +1 Touch, +2 Sun)
 
-### Disembodied Leg **Size** –3 **Combat**: Kick: Init –1, Attack +0, Defense –1, Damage +3 **Soak** +0 **Wound Penalties**: –1 (1–2), –3 (3–4), –5 (5–6), Incapacitated (7–8), Dead (9+)
+### Disembodied Leg Size –3 Combat: Kick: Init –1, Attack +0, Defense –1, Damage +3 Soak +0 Wound Penalties: –1 (1–2), –3 (3–4), –5 (5–6), Incapacitated (7–8), Dead (9+)
 
 ### Corpus Spells
 
-#### **A Limb Bereft**
+#### A Limb Bereft
 
 Cr(Re)Co 30
 
@@ -7891,7 +7891,7 @@ Marcus was intrigued to discover that human limbs cannot be created as animate (
 
 (base 5, +1 Touch, +2 Sun, +1 Part, +1 Rego requisite)
 
-#### **Eyes from the Wizard Torn**
+#### Eyes from the Wizard Torn
 
 Mu(In, Re)Co(Im) 15 R: Per, D: Conc, T: Part
 
@@ -7912,7 +7912,7 @@ This spell results from an Insight (see *Ancient Magic*, pages 8–9) Marcus rec
 
 ### Vim Spells
 
-#### **Kiss of the Enigma**
+#### Kiss of the Enigma
 
 CrVi 15
 
@@ -7930,7 +7930,7 @@ Marcus has also created some spells that do not constitute part of his research.
 
 ### Corpus Spells
 
-# **Bushy Tail of the Branch-Dancer**
+# Bushy Tail of the Branch-Dancer
 
 MuCo(An) 5
 
@@ -7938,7 +7938,7 @@ R: Touch, D: Sun, T: Ind
 
 The target gains the long tail of a squirrel, giving him a +3 to all rolls to keep his balance. (base 2, +1 Touch, +2 Sun, requisite free)
 
-#### **Slime of the Muck-Dweller**
+#### Slime of the Muck-Dweller
 
 MuCo(An) 5
 
@@ -7948,7 +7948,7 @@ The target gains the slippery, slimy skin of an eel, which gives him a +6 bonus 
 
 (base 2, +1 Touch, +2 Sun, requisite free)
 
-# **Sure-Footedness of the Crag-Leaper**
+# Sure-Footedness of the Crag-Leaper
 
 MuCo(An) 5
 
@@ -7958,7 +7958,7 @@ The target gains the hooves of a mountain goat, giving him a +3 to all rolls to 
 
 (base 2, +1 Touch, +2 Sun, requisite free)
 
-## **Webbed Toes of the Pond-Dweller**
+## Webbed Toes of the Pond-Dweller
 
 MuCo(An) 5
 
@@ -7968,7 +7968,7 @@ The target gains the feet of a frog, giving him a +3 to rolls to swim in still o
 
 (base 2, +1 Touch, +2 Sun, requisite free)
 
-#### **Gift of the Minotaur**
+#### Gift of the Minotaur
 
 MuCo(An) 30
 
@@ -7982,7 +7982,7 @@ a bull. The target's capacity to speak is not affected by the spell, but his voi
 
 (base 10, +1 Touch, +2 Sun, +1 Part)
 
-### **Stillness of the Dead**
+### Stillness of the Dead
 
 ReCo(An) 25
 
@@ -8002,7 +8002,7 @@ Marcus has enchanted the floor to his laboratory to assist in his magical invest
 
 The floor was prepared with 10 pawns of Vim vis (a huge item made of wood). It has been enchanted with three effects that occupy 9 pawns' worth of space.
 
-# **Path to Serendipitous Discovery**
+# Path to Serendipitous Discovery
 
 CrVi 24
 
@@ -8012,7 +8012,7 @@ Everything in Marcus' sanctum is tainted slightly with magic. This gives him a +
 
 (base 3, +1 Touch, +2 Sun, +2 Room; +1 2/day, +3 environmental trigger)
 
-# **Path to Enlightened Operations**
+# Path to Enlightened Operations
 
 ReAn 20
 
@@ -8022,7 +8022,7 @@ Items made of animal products — like most of Marcus' custom-built laboratory e
 
 (base 1, +1 Touch, +1 Conc, +2 Room; +10 unlimited/day, +5 item maintains concentration)
 
-# **Path of Shadows Beneath the Skin**
+# Path of Shadows Beneath the Skin
 
 InCo(An) 40
 
@@ -8041,7 +8041,7 @@ This jar takes the form of a rotund human figure about 18 inches tall made of al
 
 a baboon, and one a human. The Canopic Jars are figured and named after the jars used in ancient Egypt to preserve the organs of mummified kings. These were made as Lesser Enchantments, and Marcus was able to make two in a single season.
 
-### **Halt Corruption's Work**
+### Halt Corruption's Work
 
 CrCo 9 R: Touch, D: Sun, T: Ind Pen 0, constant effect
 
@@ -8053,7 +8053,7 @@ Any bodily organ placed inside is protected from putrefaction while it remains w
 
 Marcus has a tattoo depicting the sun in its glory that covers his entire abdomen. He has enchanted this tattoo as an invested item, preparing it for enchantment with 6 pawns of vis (tattoos have a base material cost of 2 — see *Houses of Hermes: Mystery Cults*, page 51 — and its size gives it a multiplier of 3). The purple ink that was used to inscribe the tattoo was extracted from the murex shell, and the crushed shells were also included, granting a Shape and Material bonus of +2 to protective effects. The tattoo holds two effects, occupying all 6 pawns' worth of space.
 
-#### **Resilience of Theseus**
+#### Resilience of Theseus
 
 MuCo 39 R: Touch, D: Sun, T: Ind Pen 0, constant effect
 
@@ -8061,7 +8061,7 @@ Marcus has a +4 to all Soak rolls. However, due to the experimentation used to c
 
 (base 20, +1 Touch, +2 Sun; +1 2/day, +3 environmental trigger)
 
-#### **Ariadne's Thread**
+#### Ariadne's Thread
 
 InCo 20 R: Arc, D: Mom, T: Ind Pen 0, 1/day
 
@@ -8075,13 +8075,13 @@ The target always knows exactly where he is in relation to one or more Arcane Co
 
 Marcus began to develop his talisman comparatively late in his career, since he has been obsessively pursuing his original research. It shares its name (meaning "oxfaced") with Alexander the Great's favorite horse. It is a wooden staff four feet long, which for the giant-sized Marcus is proportioned like a walking stick rather than a weapon. The shaft is made of linden wood and is wide — three inches in diameter. The staff's head is a glossy chunk of magnetite carved into the shape of a bull's head. The eyes of the bull are topaz. It was prepared for enchantment with 12 pawns of Vim vis (the highest single-cost part of the item is the tiny semi-precious stones), and has been attuned as a talisman. It currently has 3 effects occupying 9 pawns' worth of space.
 
-#### **Attunements**
+#### Attunements
 
 - +3 Animal (magnetite)
 - +2 protection against weapons (linden)
 - +4 control things at a distance (staff)
 
-#### **Mastering the Unruly Beast**
+#### Mastering the Unruly Beast
 
 ReAn 33 R: Touch, D: Conc, T: Ind Pen 16, 1/day
 
@@ -8089,7 +8089,7 @@ As the spell of the same name. The effect is triggered by pointing the bull-head
 
 (base 15, +1 Touch, +1 Sun; +8 Penetration)
 
-### **Punishment of Midas**
+### Punishment of Midas
 
 MuCo(An) 40 R: Voice, D: Sun, T: Group Pen 0, 1/day
 
@@ -8103,7 +8103,7 @@ All limbs are re-scaled in size to match that of the replaced limb. Anything hel
 
 (base 10, +2 Voice, +2 Sun, +2 Group)
 
-#### **Return to the Earth**
+#### Return to the Earth
 
 MuTe 20 R: Voice, D: Mom, T: Ind Pen 10, 24/day
 
@@ -8153,11 +8153,11 @@ Unconscious
 
 Persphone's network of agents is in a stage of flux; she rarely maintains an agent for long out of a sense of paranoia that he may be a double agent. However, a typical agency at any given time may contain some of the following individuals. The listed Personality Trait is the bond through which the agent is manipulated. For more information, see *Houses of Hermes: Societates*, pages 140–144.
 
-### **Macco**
+### Macco
 
 Clerk, Fear of Discovery +1, Resources: As a novice scribe in a rival covenant, he has access to the correspondence of the magi, and is aware of major events.
 
-#### **Sir Stephène**
+#### Sir Stephène
 
 Knight, Hopeful of a Cure +3, Resources: He has substantial wealth, but is secretly a Lycanthrope and has been promised a cure.
 
@@ -8185,19 +8185,19 @@ Knight, Hopeful of a Cure +3, Resources: He has substantial wealth, but is secre
 
 *Object of Increased Size* (MuTe 15/+14)
 
-#### **Pierre**
+#### Pierre
 
 Journeyman, Ambitious +1, Resources: A member of a distant shoemakers' guild, he has a mentor in his guildmaster.
 
-### **Jack**
+### Jack
 
 Wanderer, Avaricious +1, Resources: A peddler of penny cures and snake oil, he is well traveled and apprised of local gossip.
 
-#### **Claude**
+#### Claude
 
 Warrior, Loyal to Sisters +3, Resources: The cousin of the two sisters, now a trusted man-at-arms to a nobleman. He can lend the strength of his men if asked.
 
-#### **Sister Maurisse**
+#### Sister Maurisse
 
 Mendicant Friar, Pity +2, Resources: A nun who believes the two sisters to be in need of protection.
 
@@ -8594,7 +8594,7 @@ Persephone has designed the following new spells.
 
 ### Animal Spells
 
-#### **Remake the Tailor's Craft**
+#### Remake the Tailor's Craft
 
 MuAn 15
 
@@ -8606,7 +8606,7 @@ Transforms a set of clothing into different clothes. The substance and color mus
 
 ### Imaginem Spells
 
-### **Trigger the Distant Power**
+### Trigger the Distant Power
 
 CrIm 5
 
@@ -8618,7 +8618,7 @@ Persephone uses this simple spell to trigger a number of different effects in th
 
 (Base 1, +4 Arc)
 
-#### **Voice of the Leucrota**
+#### Voice of the Leucrota
 
 MuIm 4
 
@@ -8628,7 +8628,7 @@ The target's voice is changed so that it is wholly different. This can duplicate
 
 (Base 1, +1 Touch, +2 Sun)
 
-### **Aura of Childlike Innocence**
+### Aura of Childlike Innocence
 
 MuIm 10
 
@@ -8647,7 +8647,7 @@ or convince others of his innocence. To those affected by the caster's Gift, his
 
 ### Mentem Spells
 
-#### **Catching the Eye**
+#### Catching the Eye
 
 CrMe 15 R: Sight, D: Mom, T: Ind
 
@@ -8656,7 +8656,7 @@ The caster momentarily attracts the target's attention, sufficiently to make eye
 
 (Base 4, +3 Sight)
 
-#### **The Factor's Roll Call**
+#### The Factor's Roll Call
 
 InMe 20
 
@@ -8667,7 +8667,7 @@ This spell probes the mind of the target to reveal if he has ever heard a specif
 (Base 15, +1 Eye)
 
 
-## **Music of the Unwanted Attention**
+## Music of the Unwanted Attention
 
 InMe 25
 
@@ -8677,7 +8677,7 @@ The caster is able to sense anyone who is currently aware of her. A person's att
 
 (Base 10, +3 Hearing)
 
-## **Funding the Blackmailer's Purse**
+## Funding the Blackmailer's Purse
 
 InMe 30
 
@@ -8687,7 +8687,7 @@ The caster reveals a deep-seated secret in the mind of the target. The caster mu
 
 (Base 25, +1 Eye)
 
-#### **My Old and Dear Friend**
+#### My Old and Dear Friend
 
 MuMe 20
 
@@ -8699,7 +8699,7 @@ The target's memory is altered so that the caster is "remembered" to have perfor
 
 
 
-### **I Was Never Here**
+### I Was Never Here
 
 PeMe 5
 
@@ -8711,7 +8711,7 @@ The target forgets meeting the caster. Prior contact between the caster and the 
 
 ### Terram Spells
 
-### **Short Step of the Ghost**
+### Short Step of the Ghost
 
 MuTe(Au) 25
 
@@ -8721,7 +8721,7 @@ The stone in a section of wall momentarily becomes as permeable as mist, allowin
 
 (Base 10, +1 Touch, +1 Part, +1 affect stone)
 
-#### **Invisible Hand of the Thief**
+#### Invisible Hand of the Thief
 
 ReTe 20
 
@@ -8743,7 +8743,7 @@ Persephone prefers to craft items in the form of jewelry, since most of the item
 
 Persephone makes these Charged Items in reasonable quantity, and keeps them on hand should she need a distraction. She makes them in the form of a common coin of the realm, usually something of low value that she distributes to her unknowing dupes in exchange for street food or trinkets. She triggers them remotely using her *Triggering the Distant Power* spell, which can activate several coins at once. The spectacle of two or three people simultaneously erupting into spontaneous laughter is usually sufficient distraction to allow Persephone to cast a spell with vulgar magical effects and remain unnoticed.
 
-#### **Touch of Hilarity**
+#### Touch of Hilarity
 
 CrMe 10
 
@@ -8786,7 +8786,7 @@ The covenant is careful not to use the role of Lord Richard to meddle in mundane
 
 The item is a signet ring made of gold, with the seal made from onyx. It was opened with 12 pawns of vis, and has been invested with 11 pawns' worth of effects.
 
-## **Face of Lord Richard of Hallam**
+## Face of Lord Richard of Hallam
 
 MuCo 16 R: Touch, D: Conc, T: Part Pen 0, 2/day
 
@@ -8796,7 +8796,7 @@ This effect is triggered when the wearer of the ring rubs it and says either tri
 
 (Base 3, +1 Touch, +1 Conc, +1 Part; +1 2/day, +5 item maintains concentration)
 
-#### **Voice of Lord Richard of Hallam**
+#### Voice of Lord Richard of Hallam
 
 MuIm 9
 
@@ -8810,7 +8810,7 @@ This effect is triggered when the wearer of the ring rubs it and says either tri
 
 (Base 1, +1 Touch, +1 Conc; +1 2/day, +5 item maintains concentration)
 
-# **Clothes of Lord Richard of Hallam**
+# Clothes of Lord Richard of Hallam
 
 MuAn(He) 16 R: Touch, D: Conc, T: Group Pen 0, 2/day
 
@@ -8820,7 +8820,7 @@ The effect can be canceled at will, but can only be activated twice per day. Thi
 
 (Base 2, +1 Touch, +1 Conc, +2 Group; +1 2/day, +5 item maintains concentration)
 
-#### **Body of the Virile Male**
+#### Body of the Virile Male
 
 MuCo 11 R: Touch, D: Conc, T: Ind Pen 0, 2/day
 
@@ -8828,7 +8828,7 @@ The target's body assumes male physical characteristics without altering other a
 
 (Base 3, +1 Touch, +1 Conc; +1 2/day, +5 item maintains concentration)
 
-### **Masking the Odor of Magic**
+### Masking the Odor of Magic
 
 PeVi 34
 
@@ -8844,7 +8844,7 @@ Prevents the detection of any of the effects in this item by magic, unless the I
 
 Named after the bird stamped on its surface, this brass coin-shaped amulet has a hole in the top allowing it to be threaded onto a necklace or leather thong. Each one is made as a pair from the same batch of metal, and are separated at the end of the enchantment process. One half is kept by the maga as an Arcane Connection to the other half; Persephone neatly labels these with the name of the owner of the other half, and hangs them on her wall. These Arcane Connections typically last for years. Persephone distributes these Charged Items to potential agents who she may wish to recruit at a later date, or to skilled operatives to whom she issues personal instructions.
 
-#### **Take Me Home**
+#### Take Me Home
 
 ReMe 25
 
@@ -8860,7 +8860,7 @@ When activated, this amulet causes the person who it is touching to have a naggi
 
 This Invested Item is physically the twin of Persephone's talisman, made at the same time from the same batch of gold, and bearing seven strands of the maga's hair as a fixed Arcane Connection. The ring was prepared for enchantment with 10 pawns of vis, and has been invested with 5 pawns' worth of effects. Persephone gave this ring to her sister Kore.
 
-## **Repulse the Unwanted Attention**
+## Repulse the Unwanted Attention
 
 ReCo 35
 
@@ -8874,7 +8874,7 @@ This spell is identical to the effect in Persephone's talisman, except that it w
 
 
 
-#### **Adopt the Sister's Face**
+#### Adopt the Sister's Face
 
 MuCo(Vi) 25 R: Touch, D: Conc, T: Part Pen 0, 24/day
 
@@ -8896,7 +8896,7 @@ Persephone has instilled three effects into her talisman so far, as listed below
 
 +4 nobility
 
-# **Repulse the Unwanted Attention**
+# Repulse the Unwanted Attention
 
 ReCo 30 R: Per, D: Conc, T: Ind Pen 0, 24/day
 
@@ -8904,7 +8904,7 @@ The ring confers a personal ward against people on the wearer of the ring. Only 
 
 (Base 15, +1 Conc; +5 item maintains concentration, +5 24/day)
 
-# **Watchful Eye of the Caring Sister**
+# Watchful Eye of the Caring Sister
 
 InCo 25
 
@@ -8914,7 +8914,7 @@ Reveals the general state of health of anyone to whom the item's user has an Arc
 
 (Base 4, +4 Arc; +10 unlimited uses)
 
-### **Opening the Intangible Tunnel**
+### Opening the Intangible Tunnel
 
 ReVi 25 R: Arc, D: Conc, T: Ind Pen 0, 1/day
 
@@ -9273,7 +9273,7 @@ Petalichus has developed these spells.
 
 ### Animal Spells
 
-### **Unmake This Cloth**
+### Unmake This Cloth
 
 PeAn(He) 10
 
@@ -9344,7 +9344,7 @@ The item is reduced to discrete piles of thread. A Dexterity + Finesse simple ro
 
 (Base 4, +1 Touch, +1 Herbam requisite)
 
-#### **Bind Fast**
+#### Bind Fast
 
 ReAn(He) 5
 
@@ -9362,7 +9362,7 @@ Until members of the target group have freed themselves, successive castings of 
 
 (Base 1, +2 Voice, +2 Group)
 
-### **A Day's Worth of Spinning**
+### A Day's Worth of Spinning
 
 ReAn 10
 
@@ -9378,7 +9378,7 @@ See *Covenants*, page 49 for more on Rego Craft Magic.
 
 (Base 3, +1 Touch, +2 Group)
 
-#### **A Day's Worth of Weaving**
+#### A Day's Worth of Weaving
 
 ReAn 10
 
@@ -9401,7 +9401,7 @@ See *City & Guild*, page 67 for more on item quality. A Herbam casting requisite
 
 (Base 3, +1 Touch, +2 Group)
 
-# **The Even Hand of The Determined Weaver**
+# The Even Hand of The Determined Weaver
 
 Re(Cr)An 5
 
@@ -9421,7 +9421,7 @@ A Herbam casting requisite is required for tapestries that include plant-based c
 
 (Base 1, +1 Touch, +1 Part, +1 for size, +1 for Creo requisite)
 
-#### **The Treacherous Cloak**
+#### The Treacherous Cloak
 
 ReAn 5
 
@@ -9438,7 +9438,7 @@ The caster must, as usual, succeed in Concentration rolls each round.
 (base 1, +3 Sight, +1 Concentration)
 
 
-#### **The Weaver's Subtle Art**
+#### The Weaver's Subtle Art
 
 ReAn 5
 
@@ -9454,7 +9454,7 @@ A Herbam casting requisite is required for tapestries using plant-based thread.
 
 ### Corpus Spells
 
-#### **Arachne's Tuition**
+#### Arachne's Tuition
 
 ReCo 20
 
@@ -9474,7 +9474,7 @@ Two seasons of using this spell on an apprentice counts as one year of being und
 
 (Base 4, +1 Eye, +2 Sun, +1 control over fine movements)
 
-### **Remain Within Those Walls**
+### Remain Within Those Walls
 
 ReCo 20
 
@@ -9492,7 +9492,7 @@ As the base effect for warding spells is Touch, Ring, Circle, the Arcane Circle 
 
 ### Imaginem Spells
 
-## **To See As Though a Plethron Distant**
+## To See As Though a Plethron Distant
 
 InIm 25
 
@@ -9513,7 +9513,7 @@ The Target is based on Room, but is more complex as it allows unbounded spaces t
 
 ### Mentem Spells
 
-#### **The Unwelcoming Room**
+#### The Unwelcoming Room
 
 CrMe 30
 
@@ -9528,7 +9528,7 @@ Petalichus knows the effect The Gift has on mundanes, and recognizes that the fe
 
 ### Vim Spells
 
-### **A Day's Grace**
+### A Day's Grace
 
 ReVi 30
 
@@ -9554,7 +9554,7 @@ spell is triggered.
 
 Petalichus has invented the following effects as Rotes, the simple magical effects available to students of Hermetic Numerology. See *The Mysteries Revised Edition*, page 92 for details on casting.
 
-## **Sense the Weight of Divine Power**
+## Sense the Weight of Divine Power
 
 InVi 3
 
@@ -9565,7 +9565,7 @@ This rote (designed using the Hermetic Numerology Mystery Virtue) is a simple ef
 
 (Base 2, +1 Touch)
 
-### **Scribe the Perfect Circle**
+### Scribe the Perfect Circle
 
 Re(Cr)Te 4
 
@@ -9573,13 +9573,13 @@ R: Touch, D: Mom, T: Ind
 
 As the spell described in *The Mysteries Revised Edition*, page 96.
 
-### **The Unseen Arm**
+### The Unseen Arm
 
 ReTe 5
 
 R: Voice, D: Conc, T: Ind As the spell listed in **ArM5**, page 155.
 
-#### **Recollection of Memories Never Quite Lived**
+#### Recollection of Memories Never Quite Lived
 
 MuMe 4
 
@@ -9593,22 +9593,22 @@ Petalichus created the following items.
 
 Many of the items Petalichus made for both his mundane and his Hermetic customers were Items of Quality (see *Houses of Hermes: Mystery Cults*, page 124) that he was able to create after being initiated into the deeper Mysteries of his House. Those listed below are just a sample.
 
-#### **Battle Standard**
+#### Battle Standard
 
 This standard was crafted for a wealthy Byzantine noble and grants a +2 bonus to Leadership when used on the battlefield. Interestingly, while the standard has been designed for the specific noble, if the standard is ever captured in battle, the capturing side benefits from the Leadership bonus.
 
 
 
 
-#### **Cloth Shears**
+#### Cloth Shears
 
 Petalichus brought the inherent quality of these fine steel shears out to assist him with his more mundane work. The shears grant a +2 bonus to rolls to create or mend clothing. But he took the process further and enchanted the shears with Rego Craft Magic (see below) and found that the quality also aided the spell. The shears grant the same bonus to Finesse rolls (when making or mending clothes) called for when using the enchantment (see below).
 
-#### **Cuirass of Steel**
+#### Cuirass of Steel
 
 Despite its name, this cuirass is leather, not steel. Petalichus brought out the natural protective quality of armor to give this elegant embossed leather cuirass a +4 Soak bonus (the maximum Petalichus could achieve at that time). The armor retained its relative lightness while becoming as hard as steel. He granted the cuirass to his shield grog, Adrastos, in return for his long service and loyalty. This partial leather scale gives protection of 7 and a load of 3.
 
-#### **Loom**
+#### Loom
 
 Petalichus has brought out his loom's intrinsic quality to work cloth. As a loom has a very specialized use, it benefits from a +4 shape and material bonus to weave cloth (Petalichus could instead have brought out a +2 shape and material bonus with Imaginem). This bonus applies to all mundane weaving work done on the loom. He also spent a season investing the loom with the *Day's Worth of Weaving* spell effect (see above) with two uses per day. The Finesse rolls required by this effect also benefit from the +4 bonus.
 
@@ -9634,7 +9634,7 @@ The purpose of the tapestry is to protect whatever room Petalichus happens to be
 
 The sanctum marker design is for the benefit of magi, as Petalichus doubts the Penetration built into the device's effects will stop a committed magus of any worth.
 
-#### **Come No Further**
+#### Come No Further
 
 CrMe 45 Pen +12, Constant Effect Expires: 70 Years R: Sight, D: Sun, T: Room
 
@@ -9642,7 +9642,7 @@ This constant effect causes all those who pass in front of or approach the tapes
 
 (Effect: base 4, +3 Sight, +2 Sun, +2 Room; Modifications: +1 2/day, +3 environmental trigger, +6 penetration)
 
-# **The Weight of All Perdition Be Upon You**
+# The Weight of All Perdition Be Upon You
 
 Cr(Pe)Me(Co) 35 R: Touch, D: Mom, T: Ind Pen +20, Unlimited use Expires: 70 Years
 
@@ -9719,7 +9719,7 @@ This heavy book brings together copies of *De Astrologia* (a work on astrology c
 
 Petalichus has enchanted several copies of this volume, including his own, with *Sense the Hour* as per *The Mysteries Revised Edition*, page 51. In addition, his own volume contains the following enchantments:
 
-#### **The Worldly Halysis**
+#### The Worldly Halysis
 
 InTe 10 R: Arc, D: Mom, T: Ind Pen: +0, 3/Day
 
@@ -9735,7 +9735,7 @@ The effect is named for the Halysis, an ancient Greek measuring chain used by ma
 
 (base 2, +4 Arcane Connection; +2 3/day)
 
-### **The Bodily Halysis**
+### The Bodily Halysis
 
 InCo 32
 
@@ -9751,11 +9751,11 @@ As T*he Worldly Halysis* except that this effect operates through the form of Co
 
 Petalichus took a greatstaff in the shape of a distaff as his talisman, to represent his heritage. But the staff is full of mathematical resonances, from being carved and shaped with four sides rather than rounded smooth, to the complex ratios between the positioning of symbols and inscriptions up its shaft. These symbols are picked out in white against the deep black polish of the staff.
 
-#### **Attunements**
+#### Attunements
 
 +4 control things at a distance (staff) +4 destroy things at a distance (staff)
 
-#### **The Invisible Eye Revealed (variant)**
+#### The Invisible Eye Revealed (variant)
 
 InVi 29 R: Per, D: Sun, T: Touch Pen: +0, Constant Effect
 
@@ -9764,7 +9764,7 @@ As Petalichus enchanted this effect into his talisman, he feels the effect of th
 
 (base 15, +2 Sun; +4 constant effect)
 
-### **The Gaze of Others**
+### The Gaze of Others
 
 CrIg 17 R: Per, D: Conc, T: Ind, Pen: +0, 50/day
 
@@ -10233,7 +10233,7 @@ Ranulf has designed these new spells.
 
 ### Ignem Spells
 
-### **Coat of Prometheus**
+### Coat of Prometheus
 
 CrIg 5
 
@@ -10243,7 +10243,7 @@ This spell enchants a person to remain at least comfortably warm regardless of h
 
 (Base 2, +1 Touch, + 2 Sun)
 
-#### **Mien of Helios**
+#### Mien of Helios
 
 CrIg Level 15
 
@@ -10253,7 +10253,7 @@ This spell causes the caster's body and personal effects to shine with the brigh
 
 (Base 5, +1 Diameter, +1 exceptionally intense light)
 
-#### **Fasting Hearth**
+#### Fasting Hearth
 
 CrIg Level 20
 
@@ -10266,7 +10266,7 @@ location touched by the caster. The created fire burns continuously for the dura
 
 (Base 4, +1 Touch, +3 Moon)
 
-#### **Self Immolation**
+#### Self Immolation
 
 CrIg 30
 
@@ -10276,7 +10276,7 @@ The caster enshrouds himself in flames of spectacular intensity. The flames are 
 
 (Base 25, +1 Diameter)
 
-#### **Stockade of Infernos**
+#### Stockade of Infernos
 
 CrIg 40
 
@@ -10286,7 +10286,7 @@ The caster creates six walls of fire within the range of his spell. Each wall is
 
 (Base 15, + 1 Concentration, +2 Group)
 
-#### **Conflagrative Servant**
+#### Conflagrative Servant
 
 Cr(Re)Ig 45
 
@@ -10298,7 +10298,7 @@ Ranulf frequently casts *Flames of Stone* upon his conflagrative servants in ord
 
 (Base 10, +2 Voice, +2 Sun, +1 size, +1 requisite, +1 complexity)
 
-#### **Enduring Flame**
+#### Enduring Flame
 
 MuIg Level 10 R: Touch, D: Sun, T: Ind
 
@@ -10306,7 +10306,7 @@ A fire targeted by this spell is inextinguishable by wind or water for the spell
 
 (Base 3, +1 Touch, + 2 Sun)
 
-#### **Boreal Flames**
+#### Boreal Flames
 
 Mu(Pe)Ig 15
 
@@ -10316,7 +10316,7 @@ This spell momentarily alters a fire so that rather than radiating heat, it radi
 
 (Base 4, + 1 Touch, +2 intensity of flames)
 
-# **Discourse of Glowing Tongues**
+# Discourse of Glowing Tongues
 
 ReIg Level 10
 
@@ -10330,7 +10330,7 @@ Ranulf and his apprentice (who is also quite talented with the Art of Ignem) use
 
 
 
-#### **Discriminating Flames**
+#### Discriminating Flames
 
 ReIg 25
 
@@ -10340,7 +10340,7 @@ This spell controls a fire, preventing it from directly heating or burning a par
 
 (Base 4, +2 Voice, +2 Sun, +1 size)
 
-#### **Petite Phoenix**
+#### Petite Phoenix
 
 ReIg Level 30 R: Voice, D: Conc, T: Ind
 
@@ -10350,7 +10350,7 @@ in conjunction with *Transmutation of Fire* to move objects such as doors and in
 
 (Base 10, + 2 Voice, +1 Concentration, +1 size)
 
-#### **Ward Against Immolation**
+#### Ward Against Immolation
 
 ReIg 35
 
@@ -10360,7 +10360,7 @@ The caster is rendered immune to heat and fire less than that of the most powerf
 
 (Base 4, +1 Diameter, +6 intensity of heat)
 
-#### **Unified Flame**
+#### Unified Flame
 
 ReIg Level 35
 
@@ -10377,7 +10377,7 @@ This spell is an example of magic created to match the needs of the magus. For m
 
 ### Terram Spells
 
-### **Transmutation of Fire**
+### Transmutation of Fire
 
 MuTe(He,Ig) Level 40 R: Voice, D: Sun, T: Part
 
@@ -10387,7 +10387,7 @@ This spell transmutes an object of stone, wood, or soil, or part of some such ob
 
 ### Vim Spells
 
-### **Group Wizard's Boost (Form)**
+### Group Wizard's Boost (Form)
 
 MuVi Level Gen R: Touch, D: Mom, T: Group
 
@@ -10395,7 +10395,7 @@ The magus casts this spell as another spell of a level 10 or more levels less th
 
 (Base General, +1 Touch, + 2 Group)
 
-#### **Wizard's Expansion (Form)**
+#### Wizard's Expansion (Form)
 
 MuVi General
 
@@ -10409,7 +10409,7 @@ is at least two magnitudes higher than the target spell.
 
 (Base effect, +2 Voice)
 
-#### **The Patient Spell**
+#### The Patient Spell
 
 ReVi Level Gen R: Touch, D: Conc, T: Ind
 
@@ -10427,7 +10427,7 @@ Ranulf has created the following items.
 
 This is an eighteen-inch-long silk ribbon with the following single effect enchanted into it as a lesser enchantment using three pawns of vis. This item was created from a set of laboratory notes passed between hoplites.
 
-#### **Preserved Connection**
+#### Preserved Connection
 
 CrVi 29
 
@@ -10456,7 +10456,7 @@ normally decay in hours will instead decay in weeks while the ribbon is tied aro
 
 This is a small stone box the size of an apple, that's lined with fired clay and held closed by leather straps. Ranulf has enchanted the box as a lesser enchanted device with the following power, using four pawns of vis:
 
-#### **Bed of the Resting Coal**
+#### Bed of the Resting Coal
 
 Cr Ig 34 Pen +0, constant
 
@@ -10474,7 +10474,7 @@ Ranulf opened the wooden room that serves as his laboratory as an invested devic
 
 With reference to the laboratory personalization rules in *Covenants*, pages 113 and 115, this item provides the Excessive Heating, Excessive Lighting, and Lesser Feature (Ignem specialization) Virtues to Ranulf's laboratory without any modifications to the laboratory's Upkeep or Safety values. While this item was being integrated into his laboratory, Ranulf's laboratory acquired the Highly Organized Virtue, as well.
 
-### **Eyes of the Acolyte**
+### Eyes of the Acolyte
 
 InIg 8
 
@@ -10486,7 +10486,7 @@ This effect detects any fires in the laboratory larger than a lantern flame that
 
 (Effect: Base 2, +2 Sun; Modifications +1 level 2 uses per day +3 levels environmental trigger)
 
-## **Laboratory that has Learned from Experience**
+## Laboratory that has Learned from Experience
 
 PeIg 23
 
@@ -10498,7 +10498,7 @@ This effect is triggered by the *Eyes of the Acolyte* power. The Laboratory of R
 
 (Effect: Base 4, +3 more intense fires; Modifications +5 levels 24 uses per day +3 levels linked trigger)
 
-#### **Facade of Pentecost**
+#### Facade of Pentecost
 
 Cr(Re)Ig 41
 
@@ -10517,7 +10517,7 @@ Ranulf enchanted a staff for his talisman. The staff is made of coiled lengths o
 
 At age 54, Ranulf has the first four effects given below instilled into the item, filling all fifteen pawns of the item's opened capacity.
 
-#### **Attunements**
+#### Attunements
 
 - +6 to fire related effects
 - +4 to control things at a distance
@@ -10526,14 +10526,14 @@ At age 54, Ranulf has the first four effects given below instilled into the item
 
 By the age of 84, Ranulf has opened his talisman further, using 10 more pawns of vis and enchanting *Shriek of the Impending Shafts* and *Defense of the Roaring Furnace* into his talisman, with two more corresponding attunements. This leaves four unfilled pawns capacity in the talisman.
 
-#### **Additional Attunements**
+#### Additional Attunements
 
 - +4 destroy things at a distance
 - +4 affect dead wood.
 
 
 
-#### **Topiary of Flames**
+#### Topiary of Flames
 
 ReIg 44
 
@@ -10545,7 +10545,7 @@ This effect re-shapes a single fire into a shape desired by the wielder. The fir
 
 (Effect: Base10, +2 Voice, +1 concentration, +2 size; Modifications +5 levels item maintains concentration, +4 levels 12x/day)
 
-#### **Flames of Stone**
+#### Flames of Stone
 
 MuIg(Te) 38
 
@@ -10561,7 +10561,7 @@ than a small house or large hut (ten times the size of a standard Ignem individu
 
 (Effect: Base 10 +2 voice, +1 concentration, +1 size; Modifications +5 levels item maintains concentration, +3 levels 6 uses per day)
 
-# **Shadow of Spring Times Departed**
+# Shadow of Spring Times Departed
 
 Cr(Mu)He 5 Pen +0, 1x/day R: Per, D: Sun, T: Ind
 
@@ -10569,7 +10569,7 @@ When *Shadow of Spring Times Departed* is active, the wooden sections of Ranulf'
 
 (Effect: Base 3, + 2 Sun)
 
-#### **Surfeit of Fuel**
+#### Surfeit of Fuel
 
 CrHe 27
 
@@ -10581,7 +10581,7 @@ This effect conjures a pile of dry wood containing the mass of several large tre
 
 (Effect: Base 4 +1 Touch +2 Sun, +2 size; Modifications +2 levels 3 uses per day)
 
-#### **Shriek of the Impending Shafts**
+#### Shriek of the Impending Shafts
 
 InHe 16
 
@@ -10593,7 +10593,7 @@ With the above exceptions, this effect functions as the spell *Shriek of the Imp
 
 (Effect: Base 2, +1 Concentration, +3 Hearing; Modifications +5 levels item maintains concentration, +1 level 2 uses per day)
 
-# **Defense of the Roaring Furnace**
+# Defense of the Roaring Furnace
 
 CrIg 58
 
@@ -10652,13 +10652,13 @@ Scipio of Merinita was once named Pierre, and is the son of a poor peasant woman
 
 ### Story Seeds
 
-### **Gauntlet**
+### Gauntlet
 
 - Scipio is searching for a covenant as a base for his quest; his new sodales could soon be involved in his search.
 - The players' characters hear about a strange man who tricked some faeries and even entered the Faerie regio near the covenant. Will he also trick the nearby faeries and make them angry, or will he become an ally with good connections to the fey?
 - After the characters help Scipio get closer to his love, a Quaesitor investigates whether they molested the faeries.
 
-#### **+15 Years**
+#### +15 Years
 
 - After a long journey, Scipio visits the player characters' covenant to ask for help getting into a secure regio they know of. There a faerie hides something that might bear hints about Scipio's
 - quest, but it wants proper payment.
@@ -10916,20 +10916,20 @@ ic), Athletics 1 (running), Awareness 2 (spotting), Bargain 2 (music payment), B
 
 ### Story Seeds
 
-### **+30 Years**
+### +30 Years
 
 - Scipio finally finds a way to the tower where Vinella is imprisoned. It is in the Realm of Faerie, guarded by many of the faerie king's men. He asks the players' characters if they might help him at least to speak to his father. With Scipio's guidance they can explore this realm and finally find the tower.
 - By this time, Scipio has a "personal" Quaesitor who devotes himself to capturing this troublesome magus.
 - Scipio frees Vinella and has some time to live happily with her, but soon she will be lost again, this time because of a faerie queen who claims to be her mother!
 
-#### **+45 Years**
+#### +45 Years
 
 - Scipio now seeks to recapture his love from her mother, a faerie queen of dark winter. He searches for an Ignem or ice magus who could help him.
 - Scipio meddles with the covenant by organizing an alliance between the covenant and a faerie court without asking permission. Will the covenant accept the conditions of the pact? Or will they refuse it and make the faerie court angry?
 
 • He seeks someone who could manufacture a ward against iron for him because of his new Vulnerable Magic Flaw. But just when he finds someone, he is also found by the faerie king's men. Will the characters help him, or deliver him to his enemy?
 
-### **+60 Years**
+### +60 Years
 
 • Scipio has to fight not only against the interfering Quaesitors, but also against Vinella's mother while evading the angry attacks of his father. So he seeks a way to play both sides and escape with Vinella during the war between the two faerie courts. This may ultimately lead to a Wizard's March against him, if both sides decide to take revenge for their losses and attack other covenants. The player characters may assist Scipio and have to destroy all evidence of their involvement, their covenant might be attacked by the angry faeries, or they might join other members of the Order to hunt down the faerie bard. Whatever the outcome, Scipio and Vinella leave their home Tribunal and travel to some distant place like Scotland, Russia, or the Levant.
 
@@ -11136,7 +11136,7 @@ ic), Athletics 1 (running), Awareness 2 (spotting), Bargain 2 (music payment), B
 
 **Reputations:** Trouvere 5 (Artist), Faerie Bard +4 (France), Troublesome Faerie Guy +4 (Order of Hermes), Faerie Sorcerer +3 (Faeries of Arcadia), Faerie Bard +1 (new home tribunal)
 
-#### **Combat:**
+#### Combat:
 
 *Dodging:* Int -1, Attack n/a, Defense +2, Damage n/a
 
@@ -11158,17 +11158,17 @@ ic), Athletics 1 (running), Awareness 2 (spotting), Bargain 2 (music payment), B
 
 ### Story Seeds
 
-#### **+75 Years**
+#### +75 Years
 
 • Finally Scipio and Vinella live together somewhere in a distant country away from urban civilization. They hide with Scipio's illusion magic. But sometimes Scipio is filled with wanderlust and he puts on his shoes and walks out the door. He is too careless to think about all the people (two faerie courts and perhaps some Quaesitors) who are still hunting him. Meanwhile, he searches for another apprentice and vis, as well as adventures and young heroes who he can help with their personal quests.
 
-#### **+90 Years**
+#### +90 Years
 
 - Scipio instructs his second apprentice in some of his new silly spells, but the young one uses them to embarrass a mundane lord in front of his men. Scipio seeks out other magi who can deal with this, as he's afraid solving the problem on his own would bring him to the Quaesitores' attention.
 - His *Image of the Lady* spell becomes highly sought after by many covenants. The players' covenant still has none, so they'll need to find this notorious artist to get their hands on some of his useful creations.
 
 
-### **Spells Known:**
+### Spells Known:
 
 *Bridge of Gnomes* (CrAu 15/+25) *Rainbow Bridge* (MuAu 20/+29) *Eyes of the Cat* (MuCo(An) 5/+26) *High Tree or Small Boulder* (MuCo 20/+30) *Curse of the Unruly Tongue* (ReCo 5/+27) *Follower's Bane* (ReCo 10/+27) *Jump of the Lynx* (ReCo 20/+27) *How God Created Them* (MuHe(An) 25/+26) *Everlasting Music* (ReHe(An) 15/+23) *Summer's Blessing* (MuIg(Te) 30/+26) *Smoke of Escaping* (CrIm 5/+48) *Book of Images* (CrIm 15/+48) *Told Story* (CrIm 20/+48) *Cage of Bronze* (CrIm 30/+64\*) *Phantasmal Horse* (CrIm 30/+64\*) *Story of Legend* (CrIm 35/+48) *Doppelganger* (CrIm(Me) 40/+64\*) *Image of the Lady* (CrIm(Me) 40/+39) *Garden of Eden* (CrIm 45/+64\*) *Traveler's Foresight* (InIm 5/+42) *Faerie Flute* (MuIm 5/+48) *Aura of the Simple Bard* (MuIm 15/+48) *Rainbow Fire* (MuIm 15/+48) *Image Phantom* (MuIm 20/+48) *Safe Heaven* (MuIm 20/+48) *Ogre's Stench* (MuIm 30/+48) *Blessing the Merchant's Lineage* (MuIm 35/+48)
 
@@ -11187,7 +11187,7 @@ Scipio has developed these spells.
 
 ### Auram Spells
 
-### **Bridge of Gnomes**
+### Bridge of Gnomes
 
 CrAu 15
 
@@ -11197,7 +11197,7 @@ This spell creates a rainbow up to seven miles long. It only works outdoors.
 
 (Base 2, +1 Touch, +2 Sun, +2 very unnatural fashion)
 
-#### **Rainbow Bridge**
+#### Rainbow Bridge
 
 MuAu 30
 
@@ -11209,7 +11209,7 @@ This spell gives an existing rainbow the hardness of good stone or iron. It is s
 
 ### Corpus Spells
 
-#### **High Tree or Small Boulder**
+#### High Tree or Small Boulder
 
 MuCo 20
 
@@ -11219,7 +11219,7 @@ The spell's target either grows to three paces tall or shrinks to only a half pa
 
 (Base 3, +2 Voice, +2 Sun, +1 because this spell allows growth and shrinking)
 
-#### **Follower's Bane**
+#### Follower's Bane
 
 ReCo 10
 
@@ -11271,13 +11271,13 @@ The magus can hex someone he senses via normal or magical senses who stands on t
 
 Felix stepped into this world with an intense urge to wander, visit the humans, and take part in their lives. In the great city of Paris he improved his skill at lying, gambling, and thieving, and felt as though he was now perfect. But the time away from his Magic aura weakened his powers, and he also attracted some demons who wanted to make him a member of their realm. But luckily Scipio (30 years out of his Gauntlet) found him before he was lured away, saving him from losing more of his powers and becoming Infernal. After this, both traveled to many countries, adventuring and getting into a great deal of trouble that they both survived thanks to their immense luck.
 
-#### **Felix +15 Years**
+#### Felix +15 Years
 
 **Magical Qualities and Inferiorities:** Ritual Power, Gift of Speech, Improved Characteristics (x2), Improved Abilities (x4), Lesser Power, Personal Power; Reduced Attack
 
 **Abilities:** Athletics 3 (sprinting), Area Lore (Normandy) 3 (towns), Artes Liberales 2 (reading), Awareness 3 (coins), Bargain 3 (hard sell), Brawl 1 (bite), Carouse 3 (drinking), Charm 3 (first impressions), Folk Ken 3 (peasants), Guile 5+2 (5) (fast talking), High French 5 (peasants), Hunt 3 (birds), Latin 4 (magi), Legerdemain 3 (picking pockets), Magical Lore 3 (forest), Magic Theory 4 (Imaginem), Music 3 (singing), Stealth 3 (hiding), Survival 3 (forest)
 
-#### **Felix +30 Years**
+#### Felix +30 Years
 
 **Magical Qualities and Inferiorities:** Ritual Power, Gift of Speech, Improved Characteristics (x2), Improved Abilities (x5), Lesser Power, Personal Power (2x); Reduced Attack
 
@@ -11287,7 +11287,7 @@ Felix stepped into this world with an intense urge to wander, visit the humans, 
 
 **Familiar Powers:** Shared Senses
 
-#### **Felix +45 Years**
+#### Felix +45 Years
 
 **Magical Qualities and Inferiorities:** Ritual Power, Gift of Speech, Improved Characteristics (x2), Improved Abilities (x6), Lesser Power, Personal Power (2x); Reduced Attack
 
@@ -11295,7 +11295,7 @@ Felix stepped into this world with an intense urge to wander, visit the humans, 
 
 **Bond Scores:** Bronze +1, Silver +3, Gold +3
 
-#### **Felix +60 Years**
+#### Felix +60 Years
 
 **Magical Qualities and Inferiorities:** Ritual Power, Gift of Speech, Improved Characteristics (x2), Improved Abilities (x8), Lesser Power, Personal Power (2x); Reduced Attack
 
@@ -11304,7 +11304,7 @@ Felix stepped into this world with an intense urge to wander, visit the humans, 
 
 
 
-#### **Jump of the Lynx**
+#### Jump of the Lynx
 
 ReCo 20
 
@@ -11314,7 +11314,7 @@ R: Personal, D: Diameter, T: Individual Like *Gift of the Frog's Legs,* but with
 
 ### Herbam Spells
 
-### **How God Created Them**
+### How God Created Them
 
 MuHe(An) 25
 
@@ -11324,7 +11324,7 @@ All the clothes worn by one person that are made out of animal or plant products
 
 (Base 3, +2 Voice, +2 Group, +1 Animal requisite)
 
-#### **Everlasting Music**
+#### Everlasting Music
 
 ReHe(An) 20
 
@@ -11336,7 +11336,7 @@ This spell makes a stringed, wooden instrument play music. The spell lasts until
 
 ### Ignem Spells
 
-#### **Summer's Blessing**
+#### Summer's Blessing
 
 MuIg(Te) 30
 
@@ -11348,7 +11348,7 @@ This spell turns the heat and flames of a large campfire into a small, very hard
 
 ### Imaginem Spells
 
-#### **Smoke of Escaping**
+#### Smoke of Escaping
 
 CrIm 5
 
@@ -11356,7 +11356,7 @@ R: Touch, D: Sun, T: Individual Creates the illusion of a thick cloud of red smo
 
 (Base 1, +1 Touch, +1 Diameter, +1 size, +1 impenetrable to sight)
 
-#### **Book of Images**
+#### Book of Images
 
 CrIm 15
 
@@ -11366,7 +11366,7 @@ This spell creates moving sounds and images that are stored in a circle (such as
 
 (Base 2, +1 Touch, +2 Ring, +1 moving images, +1 intricacy)
 
-#### **Told Story**
+#### Told Story
 
 CrIm 20
 
@@ -11374,7 +11374,7 @@ R: Voice, D: Performance, T: Individual Creates the images and sounds of a story
 
 (Base 2, +2 Voice, +1 Performance +2 changing images, +1 intricacy)
 
-#### **Cage of Bronze**
+#### Cage of Bronze
 
 CrIm 30
 
@@ -11385,7 +11385,7 @@ This Glamour spell (see page 101 in *Houses of Hermes: Mystery Cults*) creates a
 
 (Base 10, +2 Voice, +2 Sun)
 
-#### **Phantasmal Horse**
+#### Phantasmal Horse
 
 CrIm 30
 
@@ -11395,7 +11395,7 @@ This Glamour spell (see page 101 in *Houses of Hermes: Mystery Cults*) creates a
 
 (Base 10, +1 Touch, +2 Sun, +1 moving parts)
 
-#### **Story of Legend**
+#### Story of Legend
 
 CrIm 35
 
@@ -11405,7 +11405,7 @@ This spell is similar to *Told Story*, but instead of creating a small stage as 
 
 (Base 2, +2 Voice, +1 Performance, +2 Group, +1 size, +2 changing images, +1 intricacy)
 
-### **Doppelganger**
+### Doppelganger
 
 CrIm(Me) 40
 
@@ -11415,7 +11415,7 @@ This Glamour spell (see page 101 in *Houses of Hermes: Mystery Cults*) creates a
 
 (Base 10, +1 Touch, +2 Sun, +1 Mentem requisite, +1 copy of someone, +1 moving parts)
 
-#### **Image of the Lady**
+#### Image of the Lady
 
 CrIm(Me) 40
 
@@ -11431,7 +11431,7 @@ Due to experimentation, Scipio's version of this spell creates images that need 
 
 (Base 2, +1 Touch, +2 Sun, +1 intricacy, +6 Mentem requisite, for a very elaborate effect)
 
-### **Garden of Eden**
+### Garden of Eden
 
 CrIm 45
 
@@ -11441,7 +11441,7 @@ This Glamour spell (see page 101 in *Houses of Hermes: Mystery Cults*) creates a
 
 (Base 10, +2 Voice, +1 Concentration, +1 Part, +1 size, +2 extremely beautiful and detailed surroundings)
 
-#### **Traveler's Foresight**
+#### Traveler's Foresight
 
 InIm 5
 
@@ -11449,7 +11449,7 @@ R: Road, D: Concentration, T: Individual The magus can see and hear the nearest 
 
 (Base 2, +2 Road, +1 Concentration)
 
-#### **Faerie Flute**
+#### Faerie Flute
 
 MuIm 4
 
@@ -11459,7 +11459,7 @@ Enchants a person or a music instrument to make clearer, sharper, and more-melod
 
 (Base 1, +1 Touch, +2 Sun)
 
-#### **Aura of the Simple Bard**
+#### Aura of the Simple Bard
 
 MuIm 15
 
@@ -11473,7 +11473,7 @@ ate rolls. This doesn't undo the effects of The Gift (see page 75 of **ArM5**), 
 
 (Base 3, +1 Touch, +2 Sun)
 
-#### **Living Fire**
+#### Living Fire
 
 MuIm 25
 
@@ -11483,7 +11483,7 @@ This spell alters the image, sound, and smell of campfire or bonfire to somethin
 
 (Base 3, +2 Voice, +3 Fire, +1 moving images)
 
-#### **Safe Haven**
+#### Safe Haven
 
 MuIm 20
 
@@ -11493,7 +11493,7 @@ Changes the image of a building, even one quite extravagant like a small wizard'
 
 (Base 1, +1 Touch, +3 Moon, +3 Structure)
 
-#### **Ogre's Stench**
+#### Ogre's Stench
 
 MuIm 30
 
@@ -11503,7 +11503,7 @@ You change the targets' smell (up to 100 people) in such a disgusting and awful 
 
 (Base 1, +2 Voice, +2 Sun, +2 Group, +1 size, +2 very "detailed" smell)
 
-## **Blessing the Merchant's Lineage**
+## Blessing the Merchant's Lineage
 
 MuIm35
 
@@ -11513,7 +11513,7 @@ This spell changes all members of a bloodline so that they look more trustworthy
 
 (Base 3, +1 Touch, +4 Until, +3 Bloodline)
 
-#### **Servant of Fire**
+#### Servant of Fire
 
 MuIm(Ig,Me) 45
 
@@ -11525,7 +11525,7 @@ This spell has a minor side effect from experimentation that makes the servant s
 
 (Base 10, +2 Voice, +3 Fire, +1 Mentem requisite, +1 moving parts)
 
-#### **Hiding the Ill-Bred Bard**
+#### Hiding the Ill-Bred Bard
 
 PeIm 15
 
@@ -11535,7 +11535,7 @@ Destroys the magus' image species and makes him invisible except for his shadow.
 
 (Base 4, +2 Sun, +1 changing image)
 
-#### **Invisible Arms**
+#### Invisible Arms
 
 Pe(Cr)Im 25
 
@@ -11545,7 +11545,7 @@ The caster's original arms are made invisible, but the illusion of another pair 
 
 (Base 4, +2 Sun, +1 Part, +1 changing image, +1 Creo requisite)
 
-#### **Color Explosion**
+#### Color Explosion
 
 ReIm 15
 
@@ -11560,7 +11560,7 @@ targets of different Sizes. This makes the target effectively invisible as far a
 
 ### Mentem Spells
 
-#### **The Generous Patron**
+#### The Generous Patron
 
 MuMe 15
 
@@ -11570,7 +11570,7 @@ This spell changes the common sense (see *Art and Academe,* page 33) of the targ
 
 (Base 3, +2 Voice, +2 Sun)
 
-#### **Stolen Moments**
+#### Stolen Moments
 
 PeMe 35
 
@@ -11578,7 +11578,7 @@ R: Eye, D: Concentration, T: Individual This spell removes all active thoughts, 
 
 (Base 25, +1 Eye, +1 Concentration)
 
-#### **Sinister Road**
+#### Sinister Road
 
 ReMe 20
 
@@ -11588,7 +11588,7 @@ Someone walking on the road whom the caster can sense is imbued with a bad feeli
 
 (Base 3, +2 Road, +3 Moon)
 
-#### **Dancing Mania**
+#### Dancing Mania
 
 ReMe 30
 
@@ -11600,7 +11600,7 @@ The target of the spell dances in a wild and ecstatic way for as long as the cas
 
 (Base 15, +2 Voice, +1 Concentration)
 
-#### **Endless Laughter**
+#### Endless Laughter
 
 ReMe 30
 
@@ -11616,7 +11616,7 @@ Scipio's creations include the following.
 
 A bag made from dragon leather. It is a lesser enchanted device made with experimentation in one season, using 4 pawns of vis in total.
 
-#### **Bag without Bottom**
+#### Bag without Bottom
 
 MuIm 30
 
@@ -11635,7 +11635,7 @@ A lyre made from a cinnamon tree, with a magnet and mercury inside a glass stone
 - +5 Muto
 - +2 Rego
 
-#### **Invisible Musician**
+#### Invisible Musician
 
 ReAn 5
 
@@ -11645,7 +11645,7 @@ Makes the lyre play music that the user can change by concentrating.
 
 (Effect: Base 1, +1 Concentration, +1 complexity; +4 12/day, +5 maintains concentration for a total of 12 levels)
 
-#### **Unaging Wood**
+#### Unaging Wood
 
 MuHe 5
 
@@ -11657,7 +11657,7 @@ Makes the lyre hard and flexible like good sheet metal. This gives a small penal
 
 (Effect: Base 4, +2 Sun; +3 levels environmental trigger, +1 level 2/day, for a total of 14 levels)
 
-#### **Dance Horror**
+#### Dance Horror
 
 ReMe 35
 
@@ -11718,19 +11718,19 @@ age +4
 
 ### New Virtues and Flaws
 
-# **New Virtue: See In Darkness**
+# New Virtue: See In Darkness
 
 *Minor, Supernatural*
 
 You can see in complete darkness much the same as those with Strong Faerie Blood. Other than that, your eyesight is not more acute than ordinary people's, and you do not see farther than normal people would see in daylight.
 
-# **New Virtue: Immunity To Cold**
+# New Virtue: Immunity To Cold
 
 *Minor, Supernatural*
 
 Normal cold does not harm you, nor does it make you feel uncomfortable. You don't need warm environments to remain healthy (see Aging in **ArM5**, page 170). Extreme, magically created cold, such as the effect of *Wizard's Icy Grip* (**ArM5**, page 142), still affects you normally.
 
-## **New Flaw: Susceptibility To Sunlight**
+## New Flaw: Susceptibility To Sunlight
 
 *Minor, Supernatural*
 
@@ -11814,7 +11814,7 @@ sidian pellet. **Encumbrance:** 0 (0)
 **Equipment**: Poniard of Deliverance, Torus of Fire Protection, Source of Tranquillity, Orb of Immanent Darkness talisman.
 
 
-#### **Spells Known**:
+#### Spells Known:
 
 *Cripple the Howling Wolf* (PeAn 25/+21) *Evaluate the Facing Opponent* (InCo 10/+15) *Track By Scent* (MuCo(An) 4/+8) *Chastise the Unruly Antagonist* (PeCo 10/+30) *Inner Darkness Unleashed* (PeCo 20/+30) *Lifting the Dangling Puppet* (ReCo 15/+22) *Retreat into the Shell of Shadow* (ReCo 15/+22) *Pass the Unyielding Portal* (MuHe 5/+8) *Gloom of Evening* (PeIg 10/+30) *Banishment of Warmth* (PeIg 15/+30) *Extinguish the Abhorrent Flame* (PeIg 15/+30) *Cloak of Darkness* (PeIg 20/+30) *Well Without Light* (PeIg 25/+30) *Wizard's Icy Grip* (PeIg 30/+30) *Prying Eyes* (InIm 5/+9) *Chamber of Muffled Passing* (PeIm 15/+24) *Veil of Invisibility* (PeIm 20/+24) *Wizard's Sidestep* (ReIm 10/+16) *Calm the Motion of the Heart* (PeMe 15/+21) *Stone to Dust* (PeTe 20/+21) *Chastise the Unruly Fiend* (PeVi 10/+21)
 
@@ -11943,7 +11943,7 @@ of hostility. He tends to keep his hands hidden in the wide sleeves of his black
 
 **Abilities**: Athletics 1 (contortions), Awareness 5 (keeping watch), Bargain 1 (bonds), Guile 2 (other demons), Hunt 3 (covering tracks), Stealth (shadowing) 5
 
-#### **Powers:**
+#### Powers:
 
 *Coagulation*, 1 point, Init –1, Corpus (*Realms of Power: The Infernal*, page 31)
 
@@ -12077,7 +12077,7 @@ Most spells and enchantments that Tolides invented over the described period of 
 
 ### Corpus Spells
 
-### **Track By Scent**
+### Track By Scent
 
 MuCo(An) 4
 
@@ -12089,7 +12089,7 @@ Being a hunter through-and-through, Tolides frequently employs this spell to tra
 
 (Base 2, +2 Sun, requisite free)
 
-### **Evaluate the Facing Opponent**
+### Evaluate the Facing Opponent
 
 InCo 10
 
@@ -12101,7 +12101,7 @@ When Tolides developed this spell he did not own a mirror, but seriously conside
 
 (Base 5, +1 Eye)
 
-# **Chastise the Unruly Antagonist**
+# Chastise the Unruly Antagonist
 
 PeCo 10
 
@@ -12113,7 +12113,7 @@ In Tolides' version of this spell, it appears as if the victim is wrapped in ban
 
 (Base 4, +1 Eye, +1 Conc)
 
-# **Retreat Into the Shell of Shadow**
+# Retreat Into the Shell of Shadow
 
 ReCo 15
 
@@ -12128,7 +12128,7 @@ Tolides developed this spell to retreat into the shadow of a dark corner. If the
 
 (Base 15)
 
-#### **Inner Darkness Unleashed**
+#### Inner Darkness Unleashed
 
 PeCo 20
 
@@ -12144,7 +12144,7 @@ A wound opens on the body of the affected target, releasing black, oozing liquid
 
 (Base 5, +3 Sight, free cosmetic effect)
 
-# **The Protesting Adversary Held Still**
+# The Protesting Adversary Held Still
 
 ReCo 20
 
@@ -12157,7 +12157,7 @@ In Tolides' version of this spell, small ripples of darkness quiver over the bod
 (Base 5, +2 Voice, +1 Conc)
 
 
-### **Blind the Insurgent Pack**
+### Blind the Insurgent Pack
 
 PeCo 25
 
@@ -12169,7 +12169,7 @@ Black, oily tears appear in the eyes of all individuals of the affected Group, b
 
 ### Ignem Spells
 
-### **Banishment of Warmth**
+### Banishment of Warmth
 
 PeIg 15
 
@@ -12179,7 +12179,7 @@ This practical spell expels the warmth from all items that have been set up insi
 
 (Base 4, +1 Touch, +2 Ring, free cosmetic effect)
 
-# **Extinguish the Abhorrent Flame**
+# Extinguish the Abhorrent Flame
 
 PeIg 15
 
@@ -12195,7 +12195,7 @@ sunlight, and he uses this spell to extinguish flames even from afar. It also co
 
 (Base 4, +3 Sight)
 
-#### **Cloak of Darkness**
+#### Cloak of Darkness
 
 PeIg 20
 
@@ -12205,7 +12205,7 @@ All light around the head of the target is completely extinguished, leaving the 
 
 (Base 3, +3 Sight, +1 Diam, +1 Part, free cosmetic effect)
 
-### **Orb of Darkness**
+### Orb of Darkness
 
 PeIg 20
 
@@ -12217,7 +12217,7 @@ The spell must be targeted at an object, individual, or other specific point in 
 
 (Base 3, +2 Voice, +1 Diam, +1 Part, +1 Size)
 
-#### **Abyssal Touch**
+#### Abyssal Touch
 
 PeIg 25 R: Voice, D: Diam, T: Group
 
@@ -12229,7 +12229,7 @@ In Tolides' version of this spell, dark vapor emerges from the ground near the d
 
 (Base 4, +2 Voice, +1 Diam, +2 Group)
 
-#### **Domain of Darkness**
+#### Domain of Darkness
 
 PeIg 45
 
@@ -12243,7 +12243,7 @@ A brief note on the specific use of this spell that should not to be mistaken fo
 
 ### Imaginem Spells
 
-### **Chamber of Muffled Passing**
+### Chamber of Muffled Passing
 
 PeIm 15
 
@@ -12257,7 +12257,7 @@ Due to his Quiet Magic, this limitation doesn't impair Tolides much, unless he w
 
 ### Vim Spells
 
-#### **Chastise the Unruly Fiend**
+#### Chastise the Unruly Fiend
 
 PeVi 10
 
@@ -12291,7 +12291,7 @@ Tolides created a set of enchanted arrows for a shady noble who had reason to fe
 
 The Lab Total used for this enchantment is 40, and thus yields six charges that Tolides distributes among six identical arrows with one charge each. As a set of charged items, the enchantment did not cost him any vis.
 
-# **Gaping Maw of the Bottomless Pit**
+# Gaping Maw of the Bottomless Pit
 
 PeTe 10
 
@@ -12313,7 +12313,7 @@ An inconspicuous pendant, this enchanted item comes in the form of a small, brow
 
 The Lab Total used to create this Lesser Enchantment includes a +4 material bonus for protection from fire for fired clay, and +4 for knowing *Extinguish the Abhorrent Flame*, a similar spell. The enchantment cost two pawns of vis.
 
-### **Quench the Open Fire**
+### Quench the Open Fire
 
 PeIg 15 Pen +0, unlimited uses R: Touch, D: Mom, T: Ind
 
@@ -12328,7 +12328,7 @@ Tolides deployed an almost-identical dagger during his apprenticeship, but that 
 
 The Lab Total used to create this Lesser Enchantment includes a +2 shape bonus for Precise Destruction for daggers. It cost two pawns of vis to create.
 
-#### **Appliance of Wrath**
+#### Appliance of Wrath
 
 PeCo 20
 
@@ -12350,7 +12350,7 @@ comb and the handle of the pin appear to be made from ivory, but in fact are car
 
 The Lab Total used to create this Lesser Enchantment includes a +3 shape bonus for Assassination for daggers. It cost two pawns of vis to create.
 
-### **The Fool's Fate**
+### The Fool's Fate
 
 PeCo 20
 
@@ -12366,7 +12366,7 @@ When the pin is driven into the flesh of the target, black ripples spread from t
 
 The Lab Total used to create this Lesser Enchantment includes a +5 material bonus for darkness granted for items made of obsidian stone, and +5 for knowing *Well Without Light*, a similar spell. The creation cost three pawns of vis.
 
-#### **Chamber of Void**
+#### Chamber of Void
 
 PeIg 24
 
@@ -12384,7 +12384,7 @@ Tolides enchanted this rod for a diabolist in exchange for services received, on
 
 The Lab Total used to create this invested item includes a +4 material bonus for destroying the human body with an object made of human bone, and a multiplier of 5 due to effect expiration after seven years. A small item made of bone, the rod was opened with six pawns of vis, and invested with four pawns-worth of effects.
 
-#### **Crush the Adversary's Limb**
+#### Crush the Adversary's Limb
 
 PeCo 33
 
@@ -12408,11 +12408,11 @@ The orb is Tolides' desperate attempt to counter the painful effect of his Susce
 
 The Lab Total used for the instilled effect benefits from the +5 material bonus for darkness provided by obsidian, as well as from +2 for knowing *Gloom of the Evening*, a similar spell. Finally, the Lab Total gets +5 for the enchanter's close connection to the talisman. It cost Tolides two pawns of vis to instill the effect, in addition to the four pawns required to open the item for enchantment.
 
-#### **Attunements**
+#### Attunements
 
 +5 to spellcasting involving light's absence
 
-#### **Soothing Shadows**
+#### Soothing Shadows
 
 PeIg 14
 
@@ -12723,7 +12723,7 @@ Yestin's eyes glitter with a light all their own, and his hair is threaded throu
 
 **Reputations**: Fine Singer 2 (Stonehenge & Normandy), Diedne Sympathizer 2 (Stonehenge)
 
-#### **Combat**:
+#### Combat:
 
 *Dodge:* Init +0, Attack N/A, Defense +0, Damage N/A
 
@@ -12814,7 +12814,7 @@ Many of Yestin's early spells have actually been passed down through generations
 
 ### Herbam Spells
 
-### **The Magic Flute**
+### The Magic Flute
 
 CrHe 5
 
@@ -12826,7 +12826,7 @@ Having only Concentration Duration, the flute is entirely magical and will disap
 
 (Base 3, +1 Touch, +1 Conc)
 
-#### **Heal Thy Broken Voice**
+#### Heal Thy Broken Voice
 
 CrHe 20
 
@@ -12852,7 +12852,7 @@ This spell has a base level of 15 by analogy with the Creo Corpus guidelines, al
 
 (Base 15, +1 Touch)
 
-#### **Mend Thy Broken Strings**
+#### Mend Thy Broken Strings
 
 ReHe 20
 
@@ -12869,7 +12869,7 @@ Casting requisites are required for non-Herbam components.
 
 ### Ignem Spells
 
-#### **Let This Fire Sing You to Sleep**
+#### Let This Fire Sing You to Sleep
 
 MuIg(Im) 25
 
@@ -12900,7 +12900,7 @@ This spell has the side effect of reducing the intensity of the target fire by 1
 
 (Base 4, +2 Voice, +2 Sun, +1 Part)
 
-## **Let the Sun Not Bother Me This Day**
+## Let the Sun Not Bother Me This Day
 
 PeIg 10
 
@@ -12918,7 +12918,7 @@ Petalichus the Weaver of Verditius bought a copy of this spell from Yestin when 
 
 ### Imaginem Spells
 
-### **Confound the Rival Singer**
+### Confound the Rival Singer
 
 MuIm 5
 
@@ -12952,7 +12952,7 @@ It may be possible to apply the spell to the spoken word, perhaps to an orator o
 
 ### Mentem Spells
 
-### **The Welcome Stranger**
+### The Welcome Stranger
 
 CrMe 15
 
@@ -12968,7 +12968,7 @@ In later years, Yestin mastered this spell such that he can cast it both quietly
 
 (Base 5, +1 Eye, +1 Diameter)
 
-#### **Orpheus' Ballad**
+#### Orpheus' Ballad
 
 CrMe 20
 
@@ -12985,7 +12985,7 @@ The spell is named for all the grief suffered by Orpheus, who lost so much on le
 (Base 4, +2 Voice, +2 Group)
 
 
-# **To Sing of Good Meat and Drink**
+# To Sing of Good Meat and Drink
 
 CrMe 25
 
@@ -12999,7 +12999,7 @@ The effect is largely gentle and is designed to go unnoticed, beyond the takings
 
 (Base 4, +2 Voice, +1 Conc, +2 Room)
 
-#### **Lay Your Burdens on Me**
+#### Lay Your Burdens on Me
 
 ReMe 20
 
@@ -13027,7 +13027,7 @@ Yestin invented this spell as a means to more easily solve those mysteries that 
 
 ### Terram Spells
 
-#### **The Wisdom of Sleep**
+#### The Wisdom of Sleep
 
 InTe(Vi) 25
 
@@ -13045,7 +13045,7 @@ The quirkiness of the spell effect is due to experimentation. Yestin had intende
 
 (Base 15, +1 Touch, +1 Vim Requisite)
 
-#### **The Well-Trodden Path**
+#### The Well-Trodden Path
 
 ReTe 10
 
@@ -13060,7 +13060,7 @@ A traveler using this spell does not suffer undue delay for traveling over poor 
 (Base 2, +1 Touch, +1 Conc, +1 Part, +1 stone)
 
 
-#### **Nature's Kindest Seat**
+#### Nature's Kindest Seat
 
 ReTe 25
 
@@ -13078,7 +13078,7 @@ Yestin's sigil manifesting in this spell can occasionally take his audience by s
 
 ### Vim Spells
 
-# **A Song of All These Faerie Places**
+# A Song of All These Faerie Places
 
 In(Cr)Vi(Im) 25
 
@@ -13095,7 +13095,7 @@ As the caster must be standing exactly at the point where the regio layers meet 
 
 (Base 3, +1 Touch, +1 Conc, +2 Group, +1 Creo requisite, +1 Imaginem requisite)
 
-# **A Song of All These Infernal Places**
+# A Song of All These Infernal Places
 
 In(Cr)Vi(Im) 25
 
@@ -13105,7 +13105,7 @@ As *A Song of All These Faerie Places* but affecting Infernal regio boundaries.
 
 (Base 3, +1 Touch, +1 Conc, +2 Group, +1 Creo requisite, +1 Imaginem requisite)
 
-## **A Song of All These Magical Places**
+## A Song of All These Magical Places
 
 In(Cr)Vi(Im) 25
 
@@ -13125,7 +13125,7 @@ As Yestin aged, he began to enjoy sleeping out under the stars less and less. It
 
 
 
-#### **An Instant Roof**
+#### An Instant Roof
 
 MuAn 15 R: Per, D: Conc, T: Ind Pen +0, 1/day
 
@@ -13141,7 +13141,7 @@ The spirit Taliesin once led Yestin to Phessalia of Voluntas, where he saw a Lab
 
 It had always been Yestin's dream to follow the ancient bardic lineage he felt himself part of, and enchant ephemeral things like his music. These stones, with their magical songs bound by an arcane symbol, seemed to him a first step on a longer journey. Shortly after he first invented these, his travels became more directed as he searched for the ancient druidic and bardic magic that would support his new research.
 
-#### **Store the Song in Stone**
+#### Store the Song in Stone
 
 CrIm 3
 
@@ -13163,7 +13163,7 @@ When the stone is asked to sing or to speak its message, the song is freed and i
 
 With his advancing years, Yestin became less trusting of his brothers across the Order and took to employing a bodyguard to whom he entrusted this spear. He commissioned the Spear of Lleu from a Verditius working on the Isle of Oxney, a man rumored to have visited the forge of Wayland Smith himself.
 
-### **Neither Rock nor Steel**
+### Neither Rock nor Steel
 
 PeTe 26 R: Touch, D: Mom, T: Part Pen +22, 1/day
 
@@ -13175,7 +13175,7 @@ The Target for this spell is Part, allowing it to affect a quantity of material 
 
 (Base 3, +1 Touch, +1 Part, +2 Base Metal; +11 Penetration)
 
-### **The Telling Blow**
+### The Telling Blow
 
 PeCo 34 R: Touch, D: Mom, T: Ind Pen +22, 6/day
 
@@ -13189,14 +13189,14 @@ Yestin's talisman is his crwth and bow, a form of welsh harp played either with 
 
 Its attunements are as per the lyre and rowan wood. These are all Yestin currently knows of, but he is keen to find out whether the crwth contains more magical sympathies that are currently hidden from him. He may one day seek out a specialist in the field so he can further attune his talisman.
 
-#### **Attunements**
+#### Attunements
 
 - +3 create sounds
 - +5 affect music
 - +4 protection against malicious magic
 - +1 Vim
 
-## **A Song to Banish the Darkness**
+## A Song to Banish the Darkness
 
 ReVi 41 R: Touch, D: Conc, T: Room Pen +22, 1/day
 
@@ -13207,7 +13207,7 @@ The song is incidental to the effect, and Yestin is able to quiet the song by co
 
 (Base 20, –1 Conc, +2 Room; +5 item maintains concentration, +11 Penetration)
 
-# **A Song to Banish the Impish**
+# A Song to Banish the Impish
 
 ReVi 41 R: Touch, D: Conc, T: Room Pen +22, 1/day
 
@@ -13215,7 +13215,7 @@ As *A Song to Banish the Darkness*, but works on creatures aligned to the Faerie
 
 (Base 20, –1 Conc, +2 Room; +5 levels item maintains concentration, +11 Penetration)
 
-# **A Song to Banish the Mystical**
+# A Song to Banish the Mystical
 
 ReVi 41 R: Touch, D: Conc, T: Room Pen +22, 1/day
 
@@ -13223,7 +13223,7 @@ As *A Song to Banish the Darkness*, but works on creatures aligned to the Magic 
 
 (Base 20, –1 Conc, +2 Room; +5 item maintains concentration, +11 penetration)
 
-### **Your Voice and Mine**
+### Your Voice and Mine
 
 CrIm 15 R: Per, D: Conc, T: Ind Pen +0, 12/day
 

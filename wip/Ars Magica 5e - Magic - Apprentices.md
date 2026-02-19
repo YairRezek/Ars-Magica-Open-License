@@ -26,13 +26,13 @@
 
 **FOURTH ROUND PLAYTESTERS:** Jason Brennan, Justin Brennan, Elisha Campbell; Leon Bullock, Peter Ryan, Chris Barrett, John A Edge; Eirik Bull, Karl Trygve Kalleberg, Helge Rager Furuseth, André Neergaard, Sigurd Lund; Antoni Morey i Pasqual, Joan Bauza Soler, Melcior Parera Mas, Guillem Gelabert Perello; Christian Rosenkjaer Andersen, Pelle Kofod; Christoph Safferling, Jan Sprenger; Mark Shirley, Camo Coffey, Andrew Walton
 
-#### **AUTHOR BIOGRAPHIES**
+#### AUTHOR BIOGRAPHIES
 
 **Erik Dahl** writes for **Ars Magica** from Davis, California. He is very grateful to Matt, his co-author, for taking their youngster under his wing and seeing to the later years of its apprenticeship. Now that it has finally passed Gauntlet and is out in the world on its own, they can both breathe easier and try to clean up their labs. To growing up, and growing old!
 
 **Matt Ryan** lives and works in the Finger Lakes region of New York State. When not working at his desk, he enjoys camping, hiking, and fishing. Apprentices have been a regular feature in most of his sagas, and he hopes that this supplement will help players find the same enjoyment in their sagas. He would like to thank the many, many people who helped see this project through to fruition, especially his co-author and the **ArM5** line editor, Erik and David.
 
-#### **SPECIAL DEDICATION**
+#### SPECIAL DEDICATION
 
 The authors and developer dedicate this book to their children: August, Eleanor, and Mayuki.
 
@@ -352,19 +352,19 @@ Every character needs a Social Status Virtue or Flaw. In most cases, a child fol
 
 If the parent is not socially recognized, pick one of the following Social Status Virtues and Flaw. There are many reasons why a person might deny being a child's parent, some honorable and some less so. Regardless of the situation, children without parents are either bastards or orphans.
 
-#### **APPRENTICE**
+#### APPRENTICE
 
 *Free Virtue, Social Status*
 
 The character is an apprentice to an Hermetic magus.
 
-#### **BASTARD**
+#### BASTARD
 
 *Minor Flaw, Social Status*
 
 The character is an illegitimate child. The father may be known, by many or a few, but does not recognize the child as his.
 
-#### **ORPHAN**
+#### ORPHAN
 
 *Free Virtue, Social Status*
 
@@ -411,49 +411,49 @@ Other than the value of the Virtue or Flaw, there is no set pattern for how thes
 
 A character may have both Child and Inherited Virtues and Flaws. Child Virtues and Flaws must change during one of the Transitions of Maturation, and Inherited Virtues and Flaws must manifest before the character turns age 21.
 
-#### **BOUNDLESS ENERGY**
+#### BOUNDLESS ENERGY
 
 *Minor Virtue, Child*
 
 Youthful vigor surges through the character, giving him a +3 bonus to Fatigue rolls.
 
-#### **BULLY**
+#### BULLY
 
 *Minor Flaw, Child, Personality*
 
 The character feels compelled to pick on others who are smaller, weaker, or generally less confident. He is likely physically intimidating and relatively unpopular with his peer group because of this. The character has a Personality Trait: Bully +3.
 
-#### **DEFT CHARACTERISTIC**
+#### DEFT CHARACTERISTIC
 
 *Minor Virtue, Child*
 
 The character has a natural affinity for a specific Characteristic and only suffers half the normal Characteristic Modifier penalty (rounded down) due to his age.
 
-#### **DEPENDENCE**
+#### DEPENDENCE
 
 *Minor Flaw, Child, Personality*
 
 The character does not feel comfortable without a mentor or someone he trusts watching over him, and is extremely shy of strangers. When completely alone, he suffers a –3 penalty to everything he tries to do, and feels intensely abandoned and fearful.
 
-#### **GROWS QUICKLY**
+#### GROWS QUICKLY
 
 *Minor Virtue, Child*
 
 The character grows much more quickly than other children. Treat her as if she were one age category higher on the Aging Chart when determining her Size.
 
-#### **INCONSPICUOUS**
+#### INCONSPICUOUS
 
 *Minor Virtue, Child*
 
 Due to demeanor, disposition, or supernatural meddling, the character is easily overlooked and unnoticed. She gains a +3 bonus on rolls that help her hide and avoid attention.
 
-#### **INFATUATION**
+#### INFATUATION
 
 *Major or Minor Flaw, Child, Story*
 
 The character is romantically attracted to someone (not a player character) with whom he has no chance of a relationship, whether because it would be inappropriate or simply because it is unrequited. As a Minor Flaw, the character is infatuated with someone who likes him, just not in that way, and is willing to assist him on occasion. As a Major Flaw, the character is infatuated with someone who doesn't like him, and who uses this emotional advantage to order the character around.
 
-#### **KNOW-IT-ALL**
+#### KNOW-IT-ALL
 
 *Major or Minor Flaw, Child, Personality*
 
@@ -461,19 +461,19 @@ The character has a deep-seated need to show off her experience and knowledge to
 
 
 
-#### **LATE BLOOMER**
+#### LATE BLOOMER
 
 *Minor Flaw, Child*
 
 The character is slow to mature. Treat him as if he were one age category lower on the Aging Chart. For example, a child of 12 would have a Characteristics penalty of –2 and a of Size –2.
 
-#### **PROTECTION FROM DISEASES**
+#### PROTECTION FROM DISEASES
 
 *Major Virtue, Child, Supernatural*
 
 Some supernatural agent — Divine, Infernal, Faerie, or Magic has granted the character immunity from all diseases. The character can still suffer wounds and other damage, but diseases do not affect him. The reason for such protection could be benevolent, malicious, or accidental, depending on the creature bestowing the protection and its future plans.
 
-#### **TURBULENCE PRONE**
+#### TURBULENCE PRONE
 
 *Major Flaw, Child*
 
@@ -483,7 +483,7 @@ This Flaw is only available for Gifted characters. Whenever you roll a potential
 
 These Flaws are appropriate for both children and adult characters.
 
-#### **ABANDONED APPRENTICE**
+#### ABANDONED APPRENTICE
 
 *Major Flaw, Story* 
 
@@ -495,7 +495,7 @@ Decide at what age the character was abandoned. Create the character as a regula
 
 Even if the character joins the Order, his background continues to cause problems for him.
 
-#### **FRAIL**
+#### FRAIL
 
 *Minor Flaw, General*
 
@@ -510,19 +510,19 @@ The character is weak of build and easily hurt when undertaking physical activit
 
 The character cannot easily withstand pain and fatigue. Increase the penalties for reduced Fatigue levels by one point, and increase the total penalty from wounds the character has received by one point. You also suffer a –3 penalty on rolls for the character to resist pain.
 
-#### **SHORT OF BREATH**
+#### SHORT OF BREATH
 
 *Minor Flaw, General*
 
 The character cannot last as long as others when exerting himself and quickly tires during extended physical activity. He receives a – 3 penalty to all Stamina rolls to avoid fatigue, including rolls to maintain Concentration.
 
-#### **SLOW REFLEXES**
+#### SLOW REFLEXES
 
 *Minor Flaw, General*
 
 The character does not react well to surprises. He receives a –3 to his Initiative total in situations warranting a quick response.
 
-#### **SUPPRESSED GIFT**
+#### SUPPRESSED GIFT
 
 *Major Flaw, Hermetic, Story*
 
@@ -615,7 +615,7 @@ Even the tale of how an infant enters the world of Mythic Europe has story poten
 A number of rituals and practices surround the birth of a new baby, all of which are designed to mitigate the inherent risks of childbirth and the first years of life.
 
 
-#### **CHILDBEARING**
+#### CHILDBEARING
 
 Childbearing is difficult and potentially dangerous for both mother and child. To determine whether childbirth is successful, treat the delivering mother as if she had a Medium Wound. Make a Wound Recovery roll every two hours, and the baby is born once this imaginary wound reaches an "unwounded" state. Every time the wound worsens, the baby loses a Fatigue level. If the baby loses five Fatigue levels, it dies.
 
@@ -623,7 +623,7 @@ If the mother dies during delivery, the baby surely will too unless a surgeon is
 
 Several precautionary measures are available for expectant mothers: holy relics, superstitious folklore charms, and even Hermetic magic. If a religious artifact or relic has Faith Points, each Faith point can be used like a Confidence point to add +3 to a die roll. Creo Corpus spells add the same bonus to this roll as they do to normal Recovery Rolls.
 
-#### **BIRTH APPARITIONS**
+#### BIRTH APPARITIONS
 
 Important people's births are sometimes accompanied by visions and apparitions, which herald the person's future significance. In Mythic Europe, birth apparitions are not uncommon. Any character with Virtues or Flaws attached to a specific realm may be born with an accompanying apparition, appropriate to the strength of their Virtues or Flaws. Apparitions take
 
@@ -632,7 +632,7 @@ many forms: angels heralding the birth with trumpets, devils prancing in a circl
 
 Most magi know of birth apparitions, and have various opinions about them. Some ignore them, while others prepare to trap them and use them for their own designs. An *Aegis of the Hearth* spell may prevent a birth apparition from appearing, if it can protect the covenant from the creature's Might.
 
-#### **RELIGIOUS RITES FOR NEW BABIES**
+#### RELIGIOUS RITES FOR NEW BABIES
 
 In Christian lands, the child must be baptized soon after birth. The Church requires that each child has three sponsors, two male and one female for a boy, and the reverse for a girl. Each sponsor is called a "godfather" or "godmother", and together they are called "godsibs." Parents cannot stand in as godsibs, but the priest or midwife can in case of emergency. Most Hermetic magi were baptized, and this sacrament does not hinder or influence the possibility of a child's emerging Gift. However, baptism cancels any supernatural effect not associated with the Divine realm that may be affecting the child at the time of baptism. Baptism also drives out any possessing spirits, although it doesn't prevent those spirits from coming back.
 
@@ -915,7 +915,7 @@ narrow escapes, solving puzzles, identifying the culprit, and saving the day. Sc
 
 Children have a natural inclination for animals, and even the ugliest, most obstinate mule can be an attractive focus of attention for a curious child. Animals are likewise curiously attracted to children and provide ample ideas for stories and adventures. A curious animal, such as a cat, wants to know what the child is doing; a skittish animal, like a horse, might want physical reassurance; a reckless animal, such as a hound, wants the child to come play with it; and an aggressive animal, like a bull, wants to assert its dominance over the child. Supernatural animals are also interested in infants, and such beasts are vastly more interesting than their mundane counterparts. Infants are tempting targets, especially when the parent or caregiver is otherwise distracted. Divine animals might want to offer a fast blessing, or merely enjoy the sweet smell of a breast-fed baby. Infernal animals likely want a quick snack. Faerie animals rarely miss an opportunity to interact with a child, and magic animals' curiosity is often piqued enough to investigate. Any animal with a Might score that lives in proximity to children may come calling.
 
-#### **STORY IDEAS**
+#### STORY IDEAS
 
 A visiting animal with Might naturally leads to a story. Most likely, your players' characters are adult caregivers rather than infants. Instead of being tempted or lured or kidnapped by a magical beast, the story might involve preventing such an event. While visual clues might indicate a beast's realm affiliation — a three-headed, firebreathing dog is probably Infernal — it is, more often than not, hard to tell a creature's realm affiliation
 
@@ -949,15 +949,15 @@ Odo can be used in a variety of ways. He can come to the covenant because he has
 
 This also means that Aesop's Fables are popular in 1220, and that any number of those marvelous tales can be adapted into an adventure. These are a few examples, named after the fables they are taken from. Like medieval bestiaries, which in Mythic Europe describe magical animals (often Animals of Virtue), the animals in Aesop's Fables are also supernatural creatures.
 
-#### **THE FROGS AND THE BATTLE OF THE BULLS**
+#### THE FROGS AND THE BATTLE OF THE BULLS
 
 A magical frog asks a child apprentice for help in stopping the nearby bulls from battling over control of their herd. The frog is worried that the losing bulls will invade his pond and destroy his habitat. The bulls are battling over one particular cow, a recent addition to the herd. Removing the cow will stop the battle but anger the herd's owner. The children can try to stop the battle or erect means to protect the frog's pond from the vanquished bovines.
 
-#### **THE WOLF, THE FOX, AND THE LION DIVIDING THE SPOILS**
+#### THE WOLF, THE FOX, AND THE LION DIVIDING THE SPOILS
 
 A wounded wolf comes to the children characters seeking justice. He and his companions, a fox and a lion, had agreed to go hunting together. He caught a large rat, the fox caught a goose, and the lion a scrawny crow. When it came time to divide the catches for dinner, the wolf suggested that each predator eat what he caught. The lion responded by striking the wolf. The fox then suggested that the lion take it all, and leave the other two leftovers. The lion agreed. The wolf slunk off, and now asks the characters to punish the sycophant fox and retrieve the large rat from the lion.
 
-#### **THE PEACOCK ELECTED KING OF THE BIRDS**
+#### THE PEACOCK ELECTED KING OF THE BIRDS
 
 A sparrow lands on the laboratory window sill and tells an apprentice a tale. The birds held a great congress, in which they elected the peacock as their king because of his beauty. A raven disagreed, asking if the peacock could protect the flock from attack using his beauty. The other birds overruled the raven, which flew off in a huff. The sparrow then saw the raven talking to an eagle, and he overheard the raven's plan, that the eagle attack the birds to prove that the raven was right and the peacock weak. Terrified of the attack, the sparrow asks the child for help.
 
@@ -1164,7 +1164,7 @@ child is simply a servant, assistant, or hanger-on. Afterward, the child is the 
 
 Every competent magus can Open the Arts of a Gifted student. A magus should have a score of 5 in all 15 Hermetic Techniques and Forms. If the magus has a score of less than 5 in an Art, his apprentice automatically gains the Hermetic Flaw Deficient Form or Technique, depending on the inadequate Art score. Purposefully including Deficiencies when Opening the Arts of an apprentice is a low crime, usually punishable by a fine. Including two Deficiencies during the Opening of the Arts is a more severe low crime and the magus may be punished with the loss of the apprentice, having her removed from him and given to a more competent magus. Including three or more Deficiencies is extremely irresponsible. Most Tribunals agree that such faulty Opening of the Arts produces inferior magi and threatens the healthy longevity of the Order. A magus responsible for this failure faces the loss of his apprentice and banishment from the Tribunal.
 
-#### **OPENING ARTS WITH SUPERNATURAL ABILITIES**
+#### OPENING ARTS WITH SUPERNATURAL ABILITIES
 
 For a competent magus, Opening the Arts is an automatic process unless the apprentice has one or more Supernatural Abilities. Many, though not all, Gifted children have an accompanying Supernatural Ability. In those situations, the parens' Intellego Vim Lab Total must equal or exceed 5 times the apprentice's score in any non-Hermetic Supernatural Ability. Also, the Lab Total must be at least 10 if the apprentice's Supernatural Ability is from a Minor Virtue and 30 if from a Major. If the apprentice's Supernatural Virtue does not have a corresponding Supernatural Ability, Greater Immunity for example, the matching the minimum Intellego Vim Lab Total will suffice (10 for Minor, 30 for Major).
 
@@ -1203,7 +1203,7 @@ Hermetic magi have adopted titles to refer to specific positions within the Orde
 
 similar. For example, Skinchanger might convert into a Minor Magical Focus with self-transformation, or Magic Sensitivity into an Affinity with Intellego or Vim. In this case, the Supernatural Virtue was a feature of the child's Gift, and the parens merely turns that feature into a new, Hermetic channel. Neither the parens nor the child knows what this channel is, and the child is likely to believe that the ability has been simply lost. The troupe should decide whether two Virtues are sufficiently similar.
 
-#### **AFTER THE ARTS ARE OPENED**
+#### AFTER THE ARTS ARE OPENED
 
 Once the Arts are Opened, the apprentice character has a 0 in each of the five Techniques and ten Forms. She can immediately cast spontaneous spells. She can read any casting tablets the covenant may have, providing she has a score of 1 in Artes Liberales and 4 in Latin. Barring some logical limitations — the apprentice can't cast formulaic spells because she doesn't know any — an apprentice can undertake any magical activity a magus can. Simply use the applicable formula based on the current Arts scores of the apprentice for any magical activity she undertakes.
 
@@ -1337,7 +1337,7 @@ Teaching an Hermetic Virtue combines aspects of learning a Supernatural Ability 
 
 an apprentice's parens, generates a Teaching Source Quality total that is compared to a required target level. Both teacher and student must be Gifted individuals trained in Hermetic Magic Theory. A magus cannot teach a Gifted hedge wizard an Hermetic Virtue because the two men do not understand magic in the same way. At the end of a season's instruction, the parens generates a Teaching Source Quality just as if he were teaching an Ability or an Art.
 
-#### **TEACHING SOURCE QUALITY: Communication + Teaching + 3 + bonus**
+#### TEACHING SOURCE QUALITY: Communication + Teaching + 3 + bonus
 
 The bonuses for the Instruction Total are the same bonuses that apply for every teacher (**ArM5**, page 164). Like Arts, Hermetic Virtues can only be taught one-on-one, so every parens' Teaching Source Quality receives a +6 bonus. Virtues that affect teaching also apply.
 
@@ -1357,7 +1357,7 @@ A teacher can only teach an Hermetic Virtue that he has. If he decides to includ
 
 perience points) than his peers. Like most of apprenticeship, it is the parens' decision. It isn't unusual for a parens to teach Arts, Abilities, and spells during the required seasons of instruction, and spend additional seasons teaching the apprentice an Hermetic Virtue or two.
 
-#### **ACQUIRING HOUSE VIRTUES**
+#### ACQUIRING HOUSE VIRTUES
 
 Every Hermetic House has one or more Hermetic Virtues associated with it, and every Hermetic magus receives a free Minor Hermetic Virtue based on his House. Players often refer to this Virtue as the "House Virtue," because it comes free with the character's Hermetic House. The House Virtue does not have to be specifically taught, although it can be. Often it is learned over time, assumed by the impressionable young apprentice as she learns magic during the prolonged teaching and laboratory interactions with her parens.
 
@@ -1371,7 +1371,7 @@ An apprentice of a magus of a Mystery Cult gains the free House Virtue by underg
 
 The apprentice must learn the same free House Virtue that his parens knows. In a House where there is a choice of House Virtues, the parens can decide which House Virtue is acquired, if he has both. House Flambeau, for example, has the choice of Puissant Perdo or Puissant Ignem. If the master has both Virtues, he can choose either as the apprentice's House Virtue.
 
-#### **GAINING HERMETIC FLAWS**
+#### GAINING HERMETIC FLAWS
 
 Few apprentices purposefully gain Hermetic Flaws. A player can always select an Inherited Flaw at character generation, and while this will develop sometime during the child character's life, that is different from gaining an Hermetic Flaw after creating the character. Hermetic Flaws acquired after character generation affect a character as soon as they are gained, their effects manifesting immediately. Hermetic magi have not found a way to remove Hermetic Flaws, and once gained an Hermetic Flaw is permanent, barring a story.
 
@@ -1384,7 +1384,7 @@ The two most common ways characters gain Hermetic Flaws are through learning Her
 
 Educational instruction in the institutions of Mythic Europe begins around age seven. Future lawyers and clerics are taught the basics of the trivium, the first stage of medieval learning. An apprentice may also find himself behind a reading desk, as it is perfectly reasonable for a magus to send his apprentice to a mundane teacher. Rather than spend precious time teaching an apprentice Latin, Artes Liberales and Profession: Scribe, many magi use a tutor. Many covenants have such professionals on staff, scholastic instructors paid to teach Academic, Arcane, and other Abilities.
 
-#### **TEACHERS**
+#### TEACHERS
 
 Sending an apprentice to a mundane teacher is problematic because mundane teachers hate Gifted students. While the Parma Magica eliminates the inherent suspicions fostered by the Gift, those without its protection find Gifted students unpalatable. The Gifted child is perceived as lazy, shiftless, and dishonest at first, and then later, as they progress in their lessons, as devious, undeserving, and underhanded.
 
@@ -1394,7 +1394,7 @@ A magus could share his Parma Magica with both his apprentice and the mundane te
 
 A Gifted student could find himself among non-Gifted students. An apprentice could be compelled to attend a teacher's class on his parens' orders. Since Gifted children are usually brighter than their peers, a Gifted character who is not an apprentice might be forced into a classroom. Perhaps the village priest took pity on a Gifted outcast, and welcomed the child into the local parish school. Students are normally taught in groups, and only the wealthiest children and Hermetic apprentices commonly receive individual tutelage. Classrooms are stressful, teachers are strict, and classmates are experts at picking out the oddballs and terrorizing them. Incurring a Turbulence would be a weekly, if not daily, occurrence.
 
-#### **BOOK LEARNING**
+#### BOOK LEARNING
 
 Another good way to improve an apprentice's or scholar's Abilities is to allow him access to books. Both summae and tractatus can be invaluable instructional tools for a young student, who needs to be able to read (Artes Liberales 1) and must be fluent in the language used in the book (a score of 4 or higher in the written language) to gain any useful insight. Books, however, are precious things, and not every owner wishes his cherished volumes to undergo the vigorous and often damaging treatment received from a young student. Universities require students to make their own copies of texts, avoiding the lending of books from a teacher's library entirely. Most students can't afford to purchase an individual copy of a book, but those who can will find booksellers in the larger towns and cities of Mythic Europe. Cathedral and other religious schools put even more restrictions on the books they own, keeping the written treasures in safe hands.
 
@@ -1435,7 +1435,7 @@ A cantation's main advantage is that it usually works, or at least is usually ca
 
 Below are some sample cantations that are especially popular with apprentices:
 
-#### **THE APPRENTICE'S DELIGHT**
+#### THE APPRENTICE'S DELIGHT
 
 CrHe 3
 
@@ -1445,7 +1445,7 @@ This spell creates a ripe apple that lasts for two minutes, long enough to be go
 
 (Base 1, + 1 Touch, + 1 Diameter)
 
-#### **THE APPROPRIATE ATTIRE**
+#### THE APPROPRIATE ATTIRE
 
 MuAn 4 R: Touch, D: Sun, T: Ind
 
@@ -1454,7 +1454,7 @@ This spell slightly changes the color and cut of a leather jerkin, wool tunic, o
 
 (Base 1, +1 Touch, +2 Sun)
 
-#### **THE CHAMELEON CAT**
+#### THE CHAMELEON CAT
 
 MuAn 5
 
@@ -1464,7 +1464,7 @@ This spell changes the color of a beast of up to Size +1. The color change only 
 
 (Base 2, +1 Touch, +1 Diameter, +1 unnatural)
 
-### **THE CLERIC'S PATE**
+### THE CLERIC'S PATE
 
 PeCo 5
 
@@ -1474,7 +1474,7 @@ This spell causes the target to lose all the hair on his head.
 
 (Base 3, +1 Touch, +1 Part)
 
-#### **THE COOK'S REVENGE**
+#### THE COOK'S REVENGE
 
 PeHe(An) 5
 
@@ -1486,7 +1486,7 @@ This spell spoils a plate of food.
 
 (Base 3, + 1 Touch, +1 Requisite)
 
-#### **THE CURSE OF DIANA**
+#### THE CURSE OF DIANA
 
 PeAn 4
 
@@ -1498,7 +1498,7 @@ This spell causes an animal of Size +1 or smaller to lose all its fur. Several m
 
 (Base 3, +1 Touch)
 
-#### **CURSE OF THE BABY'S BLADDER**
+#### CURSE OF THE BABY'S BLADDER
 
 ReCo 5
 
@@ -1508,7 +1508,7 @@ By manipulating the target's stomach and groin muscles, this spell causes the ta
 
 (Base 2, + 2 Voice, +1 Part)
 
-#### **CLOSING THE CAMPFIRE**
+#### CLOSING THE CAMPFIRE
 
 PeIg 5
 
@@ -1518,7 +1518,7 @@ This spell extinguishes a fire. The caster must touch the flames. This spell is 
 
 (Base 4, + 1 Touch)
 
-#### **THE DANCER'S DAME**
+#### THE DANCER'S DAME
 
 ReHe 5
 
@@ -1528,7 +1528,7 @@ This spell animates a linen gown or dress to dance with the caster, who must mai
 
 (Base 3, + 1 Touch, + 1 Conc)
 
-#### **EARS OF THE HARE**
+#### EARS OF THE HARE
 
 MuCo 4
 
@@ -1540,7 +1540,7 @@ This spell gives the caster the auditory ability of a hare, granting her +1 on P
 
 (Base 2, +2 Sun, requisite free)
 
-#### **AN EVENING'S ILLUMINATION**
+#### AN EVENING'S ILLUMINATION
 
 MuAq 5
 
@@ -1550,7 +1550,7 @@ This spells changes water into lamp oil. As earlier, a barrelful amount of water
 
 (Base 2, +1 Touch, +2 Sun)
 
-#### **HURLING THE DROPLET OF LYE**
+#### HURLING THE DROPLET OF LYE
 
 CrAq 3
 
@@ -1560,7 +1560,7 @@ This spell produces a drop of lye that can burn a coin-sized hole in leather clo
 
 (Base 1, +1 Touch, +1 Diameter)
 
-### **HYPNOTIC GAZE**
+### HYPNOTIC GAZE
 
 ReMe 5
 
@@ -1570,7 +1570,7 @@ The target becomes sleepy and falls asleep within a few seconds.
 
 (Base 4, +1 Eye)
 
-#### **THE JONGLEUR'S STEPS**
+#### THE JONGLEUR'S STEPS
 
 ReAn 4
 
@@ -1592,7 +1592,7 @@ If you use this rule, it should also be available to adult magi. However, adult 
 
 
 
-#### **JUPITER'S TEARS**
+#### JUPITER'S TEARS
 
 CrAu 5
 
@@ -1602,7 +1602,7 @@ This spell makes a single cloud on an overcast day release its moisture, causing
 
 (Base 1, +1 Conc, +3 Sight)
 
-#### **THE LAUNDRESS' CLOTHESLINE**
+#### THE LAUNDRESS' CLOTHESLINE
 
 PeAq 4
 
@@ -1612,7 +1612,7 @@ This spell immediately dries the caster's clothing, which he must be wearing whe
 
 (Base 4)
 
-#### **MIMIC THE CHRIST'S MIRACLE**
+#### MIMIC THE CHRIST'S MIRACLE
 
 MuAq 5
 
@@ -1622,7 +1622,7 @@ This spell changes water into wine. Changing water into a processed liquid reduc
 
 (Base 2, +1 Touch, +2 Sun)
 
-#### **A PESTILENCE OF FLEAS**
+#### A PESTILENCE OF FLEAS
 
 MuIm 4
 
@@ -1632,7 +1632,7 @@ This sensory illusion makes target itchy. Tasks requiring Concentration or physi
 
 (Base 1, +2 Voice, +1 Diameter)
 
-#### **PHYSICIAN'S SENSE**
+#### PHYSICIAN'S SENSE
 
 InCo 4
 
@@ -1646,7 +1646,7 @@ the caster. It is useful in discovering if a common cold or recurring ache is ac
 
 (Base 4)
 
-#### **THE POOR PERFORMER'S REWARD**
+#### THE POOR PERFORMER'S REWARD
 
 CrTe 4
 
@@ -1656,7 +1656,7 @@ This spell creates a handful of mud, useful for hurling at a target. Since this 
 
 (Base 1, +1 Touch, +2 Sun)
 
-#### **THE RACING ROT**
+#### THE RACING ROT
 
 PeAn 4
 
@@ -1666,7 +1666,7 @@ This spell causes leather goods to crack and wear, marring their appearance and 
 
 (Base 2, +2 Voice)
 
-#### **THE REWARD DELIVERED**
+#### THE REWARD DELIVERED
 
 ReTe 4
 
@@ -1676,7 +1676,7 @@ This spell is a counterpart to *The Poor Performer's Reward*. It hurls the ball 
 
 (Base 3, +1 Touch)
 
-#### **SENSE THE SLEEPING HOUND**
+#### SENSE THE SLEEPING HOUND
 
 InAn 5
 
@@ -1686,7 +1686,7 @@ This spell indicates to the caster if an animal within range is asleep. Care mus
 
 (Base 3, +2 Voice)
 
-#### **SHATTERING TOUCH**
+#### SHATTERING TOUCH
 
 PeTe 5
 
@@ -1696,7 +1696,7 @@ An object of stone or weaker earthy material up to a pace across breaks apart.
 
 (Base 4, +1 Touch)
 
-#### **SLAP OF AWAKENING**
+#### SLAP OF AWAKENING
 
 ReMe 5
 
@@ -1706,7 +1706,7 @@ This spell instantly awakens a target from sleep to alert consciousness. It does
 
 (Base 4, +1 Touch)
 
-#### **THE SMOKELESS CAMPFIRE**
+#### THE SMOKELESS CAMPFIRE
 
 MuIg 5
 
@@ -1716,7 +1716,7 @@ This spell changes the nature of a fire so it does not produce smoke.
 
 (Base 1, + 2 Voice, + 2 Sun)
 
-#### **THE STUDIOUS DOPPLEGANGER**
+#### THE STUDIOUS DOPPLEGANGER
 
 CrIm 5
 
@@ -1737,7 +1737,7 @@ But there are worse creatures in the world than elves and bugbears. Instead of t
 
 Most apprentices forget these tales after childhood. Few remember the horrible stories of their parentes, or if they do they scoff them off as simple children's fancies. But as with many legends in Mythic Europe, the dream witches actually exist, hidden within an esoteric Mystery Cult of the Order of Hermes, with powers not unlike those reputed to them.
 
-#### **THE UNRUFFLED TRAVELER**
+#### THE UNRUFFLED TRAVELER
 
 ReAu 4
 
@@ -1747,7 +1747,7 @@ This spell wards the caster from light breezes, redirecting them to blow around 
 
 (Base 2, +2 Sun)
 
-#### **WHISPERING FINGERS**
+#### WHISPERING FINGERS
 
 CrMe 5
 
@@ -1804,23 +1804,23 @@ For example, a visiting Tytalus magus arrives at the covenant with his 14 year o
 
 A marriage is a nice hitch to wrap a story around, because they are common enough events to include all sorts of characters. Magi sometimes marry, which may involve the whole covenant, but even a secret marriage between grogs is storyworthy.
 
-#### **THE MASTER'S MARRIAGE**
+#### THE MASTER'S MARRIAGE
 
 An apprentice's parens is marrying his beloved at the covenant, and the feast is set. A magnificent cake is baked, but it mysteriously goes missing just hours before the grand banquet begins. Knowing that his parens is preoccupied, the apprentice must find the missing cake.
 
-#### **THE ILLEGAL MARRIAGE**
+#### THE ILLEGAL MARRIAGE
 
 In some countries, serfs and other bonded men must first ask their lord's permission to marry. A serf that didn't shows up at the covenant seeking sanctuary from an upset local lord. Do the magi help him and his new bride, or do they turn them over to his lord, who has a reputation for savagery?
 
-#### **THE FAERIE MARRIAGE**
+#### THE FAERIE MARRIAGE
 
 A faerie proposes to a naïve adolescent character, who inadvertently accepts the proposal and is whisked to the Faerie Realm. Characters must retrieve the character, and not incur the faerie's wrath.
 
-#### **THE PRIVATE MARRIAGE**
+#### THE PRIVATE MARRIAGE
 
 The adolescent son of a covenant grog disappears, and the characters are charged with finding him. He has run off and married a local girl, and now the pair are on the run and trying to find a new place to live.
 
-#### **A NOBLE MARRIAGE**
+#### A NOBLE MARRIAGE
 
 The nearby knight is getting married and invites his neighbors to attend. Several of the covenant's adolescents go, but are unprepared for the heightened social interactions that result at court. Can the characters avoid making fools of themselves at the ceremony?
 
@@ -1923,11 +1923,11 @@ needing only a Magic Theory of 1, which allows her to use vis during a laborator
 
 While an apprentice may not have the Art scores to be able to instill an effect into a device, he may be able to open a device for enchantment. He will need a Magic Theory score equal to half of the required pawns needed to open the device. Magi occasionally put their apprentices to work preparing enchanted devices for them, thus freeing up the time for them to accomplish something else that season.
 
-#### **LABORATORY TURBULENCES**
+#### LABORATORY TURBULENCES
 
 If the apprentice is young, there is a chance that he will experience a Turbulence during a season of laboratory work. The troupe and storyguide should decide if the activity undertaken is stressful, and if so, the apprentice should check for a Turbulence. A stressful season would include one in which the parens experiments, uses more than 10 pawns of vis, works odd hours or irregular work patterns, or one in which the Lab Total of the participants is barely high enough to accomplish the desired goal. If you decide that a Turbulence check is warranted, have the player make the check midway through the season. If the Turbulence is controlled, nothing happens, but if it is uncontrolled, reduce the Apprentice's Lab Total aid by half, as well as determining the regular results of an uncontrolled Turbulence.
 
-#### **LABORATORY ADVENTURES**
+#### LABORATORY ADVENTURES
 
 Season after season of laboratory activities, even interspersed with seasons of study, doesn't provide the proper staging for actually playing an apprentice character. Even with all this time in the lab, a storyguide can still create adventures for apprentice characters, especially since the apprentice can miss a day here and there without unduly affecting the parens' Lab Total. Laboratory activities can veer off course during the season, and these simple readjustments can provide adventure opportunities. Ingredients might need to be replenished, broken equipment repaired, new equipment obtained, or arcane advice sought. For example, the maga runs out of a standard but necessary component for her lab work, any one of the hundred arcane things a wizard needs in the laboratory. Traveling to the safest site would take too long, but a closer site has the required ingredient. Unfortunately, the nearer site is guarded by a magical creatures. The apprentice must race against time to return with the desired substance, outwitting (or outrunning) the guardian of the regio.
 
@@ -1982,7 +1982,7 @@ Some apprentices are abandoned instead of failed. For whatever reason, the paren
 
 An abandoned apprentice leads an odd life. Depending on why she was dismissed, she might find a new parens, whether a magus from the same House or a different one. Often, she can be adopted by another magus and finish her training. Many abandoned apprentices quickly seek magi from House Ex Miscellanea, hoping to find a sponsor who has less stringent requirements than other Hermetic magi. Other abandoned apprentices disappear into the woodwork. Such an apprentice considers herself trained enough, capable of continuing her arcane studies privately. She has all the capabilities of a maga, but is not a member of the Order of Hermes and cannot use Hermetic society as a resource for books, additional instructors, or other traded commodities. She cannot join a covenant or participate in any Hermetic functions. Having not sworn the Oath of Hermes, she is not bound by it, but neither is she protected by it. An abandoned apprentice is not necessarily doomed to a life of isolation. Sometimes groups form, outliers of the Order, who accept such members. The mock covenant Fenistal in the Rhine Tribunal is one such group. Run by the Exsules, these Hermetic offshoots of the Order readily accept any Gifted abandoned apprentices they can find (see *Guardians of the Forests*, page 114 for more details).
 
-#### **LOSING THE GIFT**
+#### LOSING THE GIFT
 
 For an apprentice character to fail his apprenticeship, he must lose his Gift, either permanently or temporarily. The mechanics of losing The Gift differ between player characters and non-player characters. For a player character, losing The Gift is always the player's choice and never decided by a die roll. The player decides that his character loses The Gift, and that he wants to continue playing the character after this dramatic occurrence. Several things could cause this to happen: a laboratory accident, a spectacularly botched spell casting roll, falling prey to a Gift-destroying demon, tussling with an Amazon sorceress, a particularly nasty Turbulence, and an incredibly failed Temporary Twilight comprehension. The character immediately loses the power to cast Hermetic spells, work any type of magic, and cannot use Supernatural Virtues or Abilities he might possess.
 
@@ -2021,7 +2021,7 @@ Failing this roll means that the apprentice must spend another year
 
 with her master. Botching this roll means something dire happened. The severity of the consequences should depend on whether the apprentice is a player or storyguide character, and if there are available characters (and player desire) to rescue the apprentice.
 
-#### **LEARNING PARMA MAGICA**
+#### LEARNING PARMA MAGICA
 
 Invoking a personal Parma Magica is the last thing an apprentice character learns, receiving the final key instructions after swearing the Oath of Hermes to her master. Few parentes take the time to teach Parma Magica, expecting the apprentice to learn it through exposure. The apprentice is regularly included in the parens' Parma Magica ceremony, and as he shares his Parma Magica, the apprentice watches and mimics the parens. All the while, the parens holds back knowledge of the finishing gestures and verbal components, that last bit of information that will allow the apprentice to invoke his own Parma Magica. Mechanically, the player records the number of Exposure experience points spent on Parma Magica on his character sheet, tallying it up just like any other Ability. However, his character will not be able to perform Parma Magica until the final key instruction is given. Usually, an apprentice character finishes apprenticeship with a score of 1 in Parma Magica.
 
@@ -2047,19 +2047,19 @@ While each Gauntlet is designed individually for an apprentice, commonalities ex
 
 An adventure designed as an apprentice's Gauntlet does not need to be the actual Gauntlet per se, but could be an introductory episode for the character, who must achieve some goal before facing her Gauntlet. Many Gauntlets are aimed at the individual and do not include other characters. For example, a Verditius maga must make an enchanted item to pass her Gauntlet. This isn't terribly exciting for the group, but a story detailing her journey to get the raw materials for her creation might be. She and her fellows must cross dangerous territories and face unknown dangers in a faerie forest. Pre-Gauntlet adventures should be designed to include the apprentice and her friends.
 
-#### **HOUSE BJORNAER**
+#### HOUSE BJORNAER
 
 Apprenticeship is slightly different for House Bjornaer magi, who recognize their apprentices as full magi after they assume their heartbeast for the first time, regardless of age or training. Some Bjornaer magi will undertake mock Gauntlets after 15 years of training, especially if they are working with an apprentice from another House who is attempting a Gauntlet at the same time.
 
-#### **HOUSE BONISAGUS**
+#### HOUSE BONISAGUS
 
 House Bonisagus values theory over application and Order cohesiveness over competition. Bonisagus apprentices must pass a day-long oral examination set by an elder Bonisagus magus, and Trianoma apprentices must spend two seasons traveling on their own to distant covenants. Before these tests, apprentices must deliver a Laboratory Text that they have created during their apprenticeship to another magus who does not live at the covenant. This reflects their specific Oath, to share knowledge with the Order, and the apprentice is expected to take helpers along with her.
 
-#### **HOUSE CRIAMON**
+#### HOUSE CRIAMON
 
 Passing a Gauntlet is merely a formality for House Criamon, whose apprentices are accepted as full magi once they are asked the Riddle of the Magus. This Riddle is a personal enigmatic puzzle for the Criamon magus, who spends the rest of his career seeking appropriate answers. Still, a Criamon apprentice could be sent to a foreign envoy — perhaps a magic creature, another magus, or a talking brook — to receive this Riddle.
 
-#### **HOUSE EX MISCELLANEA**
+#### HOUSE EX MISCELLANEA
 
 House Ex Miscellanea does not have any formal Gauntlet procedures, and each of the distinctly different traditions that fall under this House has different methods of determining when an apprentice finishes her training. They do adhere to the Code by not teaching the final instructions of the Parma Magica to an apprentice until after 15 years, but any sort of Gauntlet imaginable is appropriate for the varied members of this House. Wind wizards might have to collect Auram vis from a mountainous stream, necromancers might have to speak with the ghost of a Roman senator, and diviners might have to forecast the time of their own death.
 
@@ -2072,35 +2072,35 @@ The notion of a group of magi forming a *scholae magicae*, or school of magic, t
 
 ## Houses of Hermes Gauntlets (cont'd)
 
-### **HOUSE FLAMBEAU**
+### HOUSE FLAMBEAU
 
 House Flambeau apprentices undertake a very stylized, very public Gauntlet, displaying their martial or magical abilities. A Gauntlet adventure would include attending such a ceremony, or preparing for it by facing challenges or long-held fears of the apprentice.
 
-#### **HOUSE GUERNICUS**
+#### HOUSE GUERNICUS
 
 The legal-minded House Guernicus magi make their apprentices take an extensive written examination, as well as engage in a mock investigation case. The master engineers a deception and then requires his apprentice to solve the case.
 
-### **HOUSE JERBITON**
+### HOUSE JERBITON
 
 Apprentices of House Jerbiton participate in a Grand Tour before their Gauntlet, visiting a large city and viewing its beautiful artifacts. In anticipation of this event, a Jerbiton apprentice would be interested in visiting nearby monasteries, nunneries, or noble houses to view any available objects of art. Rumors of a beautiful chalice or woven tapestry could easily divert a Jerbiton apprentice from his current studies, and make him gather his friends for an overland journey.
 
-### **HOUSE MERCERE**
+### HOUSE MERCERE
 
 Redcaps of House Mercere, as well as the few actual spell casters, must carry a message from one location to another to pass their Gauntlet. This is never straightforward, and the master always includes some trick or dangerous element in the task. For example, the apprentice must carry a faerie to a nearby covenant, since only the faerie knows the message. The faerie is devious and quickly disappears, forcing the apprentice to find it if she wishes to pass her Gauntlet.
 
-#### **HOUSE MERINITA**
+#### HOUSE MERINITA
 
 The Gauntlets for House Merinita magi are as varied as the individual members. In broad strokes, the House is interested in either faerie or nature. An apprentice's Gauntlet typically requires her to wander ancient faerie roads and lonely forests, looking for specific faeries, links between the Magic and Faerie realms, and penetrating deeply hidden faerie regiones.
 
-#### **HOUSE TREMERE**
+#### HOUSE TREMERE
 
 An apprentice of House Tremere must face his master in certamen to pass his Gauntlet. This is a highly formalized event. The apprentice does not need to beat his master, just make a decent showing in the contest. He must present his master with a branch taken from a birch tree, signifying the sigil that his master will keep. Prior to this, the apprentice must acquire a birch tree branch. Egotistical apprentices will want a branch from a magic tree, forcing them (and their companions) to search in nearby magic and faerie woods.
 
-#### **HOUSE TYTALUS**
+#### HOUSE TYTALUS
 
 Apprenticeship in House Tytalus is cruel and torturous. Tytalus apprentices challenge their master for their Gauntlet when they feel they are ready. A Gauntlet adventure would be some activity that helps prepare a Tytalus apprentice for this inevitable challenge, some endeavor that allows her to practice her favored strengths.
 
-#### **HOUSE VERDITIUS**
+#### HOUSE VERDITIUS
 
 House Verditius is exclusively focused on making magical items. An apprentice must forge a completed "apprentice piece" for his master to pass his Gauntlet. Finding the raw materials for this piece can be quite dangerous, and entertaining.
 

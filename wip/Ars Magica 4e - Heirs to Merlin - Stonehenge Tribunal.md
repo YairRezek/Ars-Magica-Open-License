@@ -1723,7 +1723,7 @@ The second, and more useful, episcopal power is the visitation. The bishop trave
 
 #### Province of Canterbury
 
-#### **Diocese Bishop**
+#### Diocese Bishop
 
 Canterbury Stephen Langton (Archbishop) Bath and Wells Jocelyn of Wells\* Chichester Ralph Wareham Coventry and Lichfield William of Cornhill Ely John de Fountains Exeter Simon of Apulia Hereford Hugh Foliot Lincoln Hugh of Wells\*
 
@@ -2168,7 +2168,7 @@ Headwear is quite varied, but women must wear something on their heads. The veil
 
 #### Major Nobility
 
-#### **Main Holdings in England**
+#### Main Holdings in England
 
 Ranulf, earl of Chester (absent on Crusade) William de Albini, earl of Arundel (absent on Crusade) William de Beauchamp of Bedford Henry de Beaumont, earl of Warwick Roger Bigod, earl of Norfolk Humphrey de Bohun, earl of Hereford Gilbert de Clare, earl of Hertford and Gloucester Henry de Coleville of Bytham
 
@@ -2192,7 +2192,7 @@ Robert de Vieuxpont, lord of Westmoreland
 
 William de Warenne, earl of Surrey
 
-#### **Main Holdings in Wales**
+#### Main Holdings in Wales
 
 Reginald de Braose William Marshal, earl of Pembroke John of Monmouth Hugh de Mortimer of Wigmore
 
@@ -2852,7 +2852,7 @@ While the formal closure and reopening of the tribunal are unlikely to be set as
 
 ## The Peripheral Code
 
-#### **A.A. 1347 (AD 1208) • Financial Matters**
+#### A.A. 1347 (AD 1208) • Financial Matters
 
 *No covenant may put more than a reasonable amount of magically created silver into circulation in a year. A reasonable amount is two pounds per resident of the covenant, whether magus or mundane.*
 

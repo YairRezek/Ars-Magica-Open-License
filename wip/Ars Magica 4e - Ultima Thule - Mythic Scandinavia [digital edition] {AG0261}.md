@@ -104,7 +104,7 @@ Throughout *Ultima Thule* some terms in Icelandic (the nearest living language t
 
 The runic magic of the Norse drew its power from the magic and faerie realms, and was affected very strongly by the divine power of the Church. Instead of the normal Realm Interaction Table, Norse magicians (including Finnish wind wizards) use the following:
 
-#### **Norse Aura Interaction Table**
+#### Norse Aura Interaction Table
 
 Magical + (aura) Divine – (3 x aura) Faerie + (aura) Infernal – (aura)
 
@@ -1053,7 +1053,7 @@ Standard Norse ship construction followed a set pattern for both warships and ca
 
 The name *byrding* translates as "carrier," an apt description of the vessels use. There were four distinct types of byrding used; the *smabyrding* (small carrier), the *lettbyrding* (light carrier), the *vistbyrding* (private carrier), and the *havsbyrding* (sea carrier). The ships had approximate cargo capacities of 11, 20, 8, and 38 tons respectively. The first three were primarily designed for river and coastal use, while the havsbyrding was sturdy enough to survive the open seas. Other mercantile vessels were the *busse* and *knarr.*
 
-#### **Smabyrding**
+#### Smabyrding
 
 The smabyrding was the small Scandinavian carrier designed for river and coastal areas, as described above.
 
@@ -1069,7 +1069,7 @@ The smabyrding was the small Scandinavian carrier designed for river and coastal
 
 *Total Tonnage*: 15 *Cargo Capacity*: 11
 
-#### **Busse**
+#### Busse
 
 The busse was larger than the havsbyrding but smaller than the knarr. It used sails as its primary mode of transport and was slow under oar. It was used for mercantile activities as its lack of speed under oar made it unsuitable for support work for warships. The oars were primarily used for maneuvering in harbors.
 
@@ -1085,7 +1085,7 @@ The busse was larger than the havsbyrding but smaller than the knarr. It used sa
 
 *Total Tonnage*: 61 *Cargo Capacity*: 50
 
-#### **Knarr**
+#### Knarr
 
 The knarr began life during the Viking Age as a warship but was replaced by the longship and reduced to the status of a mercantile vessel. Although slower than longships, it could carry more cargo.
 
@@ -1118,7 +1118,7 @@ As the Viking Age came to an end, dragon-ships gave way to ships sporting bigger
 
 The longship is the vessel most commonly associated with the Norse. Sleek, fast, and maneuverable, these ships haunted the coasts of northern Europe for over 200 years.
 
-#### **Snekke**
+#### Snekke
 
 The *snekke* was the smallest of longships, starting at 50 feet in length. Poorer nobles, such as hersar, often used these as their main sea-going ships.
 
@@ -1135,7 +1135,7 @@ The *snekke* was the smallest of longships, starting at 50 feet in length. Poore
 *Total Tonnage*: 25 *Cargo Capacity*: 5
 
 
-#### **Drakkar (dragon)**
+#### Drakkar (dragon)
 
 The name *drakkar* arose from the carved prows of these ships. Tradition dictates that these ships must be over 75 feet in length to acquire the name. They were often owned by hersar, powerful landowners, and poor nobles.
 
@@ -1151,7 +1151,7 @@ The name *drakkar* arose from the carved prows of these ships. Tradition dictate
 
 *Total Tonnage*: 40 *Cargo Capacity*: 5
 
-#### **Skeid**
+#### Skeid
 
 The *skeid* was the largest warships, 125-150 feet in length, and generally with a crew of some 200 men. Ships of this size were expensive to build and crew, and were generally the property of konungr and rich jarls.
 
@@ -1769,7 +1769,7 @@ The following abilities cannot be learned by starting Norse characters. Some can
 
 The following abilities are rare among Norse characters, unless they've spent a great deal of time abroad or in a Church school in one of Scandinavia's growing cities.
 
-#### **Artes Liberales** (ArM4 57)
+#### Artes Liberales (ArM4 57)
 
 **Chirurgy** (ArM4 56): Not rare in Mythic Scandinavia, but normally performed by women; men using this Ability may be subjected to ridicule by other Northmen
 
@@ -2327,15 +2327,15 @@ The vitki must reenact the ritual sacrifice of Odin by being hanged from an ash 
 
 # Vitki's Summary of Formulae
 
-#### **Casting single rune**
+#### Casting single rune
 
 Intelligence + Scribe Runes + (specific) Rune Lore + Aura + any modifiers + stress die (ease factor: level of effect required + modifiers)
 
-#### **Casting rune script**
+#### Casting rune script
 
 Intelligence + Scribe Runes + total of (specific) Rune Lores involved + Rune Script + Aura + any modifiers + stress die (ease factor: sum of difficulty of all runic effects + modifiers)
 
-#### **Casting rune binding**
+#### Casting rune binding
 
 Intelligence + Scribe Runes + total of (specific) Rune Lores involved + Rune Binding + Aura + any modifiers + stress die (ease factor: sum of difficulty of all runic effects + modifiers)
 
@@ -3091,15 +3091,15 @@ The speed at which spell knots can be untied is governed by the Quickness of the
 
 # Wind Wizard Summary of Formulae
 
-#### **Knots Tied Per Week**
+#### Knots Tied Per Week
 
 Dexterity + Craft (Knot Tying) + Aura
 
-#### **Casting a Wind Spell**
+#### Casting a Wind Spell
 
 Communication + (appropriate) Chant + 5 per extra knot untied + stress die (ease factor: desired spell level)
 
-#### **Maximum Knots Per Rope**
+#### Maximum Knots Per Rope
 
 2 x Craft (Knot Tying) Ability
 

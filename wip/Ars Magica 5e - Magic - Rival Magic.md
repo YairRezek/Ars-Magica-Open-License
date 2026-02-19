@@ -22,7 +22,7 @@
 
 **Third Round Playtesters:** Donna Giltrap, Malcolm Harbrow, Aaron Hicks, Richard Love; Jason Fryer, Emily Dyson, Matt Dyson
 
-### **Author Biographies**
+### Author Biographies
 
 **Timothy Ferguson** works as a librarian on the Gold Coast, in Australia. He lives with a patient wife named Linda, who he dedicates his books to, and two cats named after witches from a musical. His first dragon tree, which inspired his chapter in Ancient Magic, was spotted as a fake by his mother. His parents gave him a real one and told him it was called Dracaena cinnabari. When he was researching it he read Marco Polo's statement that the Soqotrans were the most powerful sorcerers in the world, but did not stray from their island. Local folktales also link Soqotra to the herons of Thoth, first mentioned in Sanctuary of Ice. He says this was a pleasure to write, but would like to thank the playtesters for going beyond the usual call to fix the mechanics.
 
@@ -91,13 +91,13 @@ DIGITAL VERSION 1.0
 | Minimum Abilities 17                  |    | Spell Types 25                   | Viea 43                        |  |
 |                                       |    |                                  |                                |  |
 
-#### **Amazons and the Order................ 45** The Amazon Enemy................. 45 Parma Magica Unveiled........... 46 An Amazon Saga ...................... 46 Augustan Brotherhood 47 Secrets of the Augustan Brotherhood ............................. 47 History of the Augustan Brotherhood ............................. 48 The Story of Ludowicus..............48 The Biography of Virgil.............50 The Growth of the Brotherhood...51 The Brotherhood and Frederick II...51 **Virgilian Magic............................. 52** The Schools and Virgilian Rites..52 **The Mechanics of Virgilian Magic .. 52** The Practice of Sortes Virgilianae ..................... 53 Sortes Virgilianae Ease Factors...53 Improving Sortes Virgilianae.......54 The Practice of Vigilo .............. 54 The Six Schools of the Vigilo Practice......................55 Designing Vigilo Rites................55 Range, Duration, and Target......55 Words and Gestures....................56 Vigilo Rites Guidelines............. 56 Example School of Boreas Rites...57 Example School of the Naiads Rites.........................59 Example School of Prometheus Rites.........................59 Example School of the Stones Rites...........................60 Example School of the Sylvan Dryads Rites ............60 Example School of the Vigilant Bees Rites ................60 Learning Vigilo Rites..................61 Laboratory Research ..................61 The Practice of Animo ............. 61 Vulnerability..............................61 Preparing an Item for Animation....62 Awakening the Animation...........63 Further Refinements.....................63 Inscribing Magic in Animations....63 Magical Defenses..................... 64 **Magical Dangers .......................... 64** Botches..................................... 65 Fated Destiny ........................... 65 Favored by Fortune ....................65 Cursed by the Fates ....................65 Gates of Avernus ........................65 **Character Generation .................. 66** Opening the Gift: The Tomb of Virgil.....................66 Training.....................................67 New Virtues.............................. 67 Free Social Status, Court Wizard..67 Minor Special Virtue, Generous Master.........................68 Typical Virgilian Wizard Abilities ....................... 68 **Life at Court................................ 68 The Virgilian Magical Landscape .. 69** The Tomb of Virgil .................. 69 Virgil's Magic in Naples ........... 70 The Musca — The Bronze Fly....71 The Macellum — The Marble Block in the Meat Market ...........71 Ovum Incantum — The Palladium of Naples............71 The Bronze Horse.......................72 The Ferrean Gate........................72 Virgil's Villa and Garden............72 The Statue with a Horn..............73 The Healthful Baths ...................73 The Bones of Virgil.....................73 Virgil's Magic in Rome ............. 73 La Bocca Della Verita — The Magical Face......................73 The Emperor's Sepulcher..............73 **Integrating the Magic of Virgil.... 74** Sortes Virgilianae ..................... 74 Major Hermetic Virtue: Sortes Virgilianae.......................74 Consequences of Integration.........74 Improved Watching Spells....... 74 Minor Hermetic Virtue: Watching Spells.........................74 Consequences of Integration.........74 **Bibliography.................................. 74** Muspelli 75 **Mythic Origins ............................. 75** Eschatology of the North ........ 76 Don't They Know It's the End of the World?.................77 **Jotun Patrons of the Muspelli ..... 77** Aegir Sea-King......................... 77 Gullveig the Wicked ................ 78 Gymir Frost-Father................... 78 Leikin Hel-Queen .................... 79 Nidhogg Corpse-Tearer & Fenrir the Devourer .............. 79 Surtur the Black........................ 80 Urdur Fate-Spinner .................. 81 Other Lands, Other Villains .... 81 **Muspelli Characters ..................... 81**
+#### Amazons and the Order................ 45 The Amazon Enemy................. 45 Parma Magica Unveiled........... 46 An Amazon Saga ...................... 46 Augustan Brotherhood 47 Secrets of the Augustan Brotherhood ............................. 47 History of the Augustan Brotherhood ............................. 48 The Story of Ludowicus..............48 The Biography of Virgil.............50 The Growth of the Brotherhood...51 The Brotherhood and Frederick II...51 Virgilian Magic............................. 52 The Schools and Virgilian Rites..52 The Mechanics of Virgilian Magic .. 52 The Practice of Sortes Virgilianae ..................... 53 Sortes Virgilianae Ease Factors...53 Improving Sortes Virgilianae.......54 The Practice of Vigilo .............. 54 The Six Schools of the Vigilo Practice......................55 Designing Vigilo Rites................55 Range, Duration, and Target......55 Words and Gestures....................56 Vigilo Rites Guidelines............. 56 Example School of Boreas Rites...57 Example School of the Naiads Rites.........................59 Example School of Prometheus Rites.........................59 Example School of the Stones Rites...........................60 Example School of the Sylvan Dryads Rites ............60 Example School of the Vigilant Bees Rites ................60 Learning Vigilo Rites..................61 Laboratory Research ..................61 The Practice of Animo ............. 61 Vulnerability..............................61 Preparing an Item for Animation....62 Awakening the Animation...........63 Further Refinements.....................63 Inscribing Magic in Animations....63 Magical Defenses..................... 64 Magical Dangers .......................... 64 Botches..................................... 65 Fated Destiny ........................... 65 Favored by Fortune ....................65 Cursed by the Fates ....................65 Gates of Avernus ........................65 Character Generation .................. 66 Opening the Gift: The Tomb of Virgil.....................66 Training.....................................67 New Virtues.............................. 67 Free Social Status, Court Wizard..67 Minor Special Virtue, Generous Master.........................68 Typical Virgilian Wizard Abilities ....................... 68 Life at Court................................ 68 The Virgilian Magical Landscape .. 69 The Tomb of Virgil .................. 69 Virgil's Magic in Naples ........... 70 The Musca — The Bronze Fly....71 The Macellum — The Marble Block in the Meat Market ...........71 Ovum Incantum — The Palladium of Naples............71 The Bronze Horse.......................72 The Ferrean Gate........................72 Virgil's Villa and Garden............72 The Statue with a Horn..............73 The Healthful Baths ...................73 The Bones of Virgil.....................73 Virgil's Magic in Rome ............. 73 La Bocca Della Verita — The Magical Face......................73 The Emperor's Sepulcher..............73 Integrating the Magic of Virgil.... 74 Sortes Virgilianae ..................... 74 Major Hermetic Virtue: Sortes Virgilianae.......................74 Consequences of Integration.........74 Improved Watching Spells....... 74 Minor Hermetic Virtue: Watching Spells.........................74 Consequences of Integration.........74 Bibliography.................................. 74 Muspelli 75 Mythic Origins ............................. 75 Eschatology of the North ........ 76 Don't They Know It's the End of the World?.................77 Jotun Patrons of the Muspelli ..... 77 Aegir Sea-King......................... 77 Gullveig the Wicked ................ 78 Gymir Frost-Father................... 78 Leikin Hel-Queen .................... 79 Nidhogg Corpse-Tearer & Fenrir the Devourer .............. 79 Surtur the Black........................ 80 Urdur Fate-Spinner .................. 81 Other Lands, Other Villains .... 81 Muspelli Characters ..................... 81
 
 *Rival Magic*
 
 
 
-### Relationship with the Order of Hermes.............. 109 **Muspelli Saga: Approaching Twilight................. 109** Sorcerers of Soqotra 110 **Origin ........................................ 110 Organization.............................. 111** The Four Tribes...................... 112 Aloe.........................................112 Cinnabar .................................113 Myrrh .....................................113 Olibanum ................................113 Lesser Traditions .................... 115 **Magical Abilities ......................... 115** Sources of Power.................... 115 Auras.......................................115 Incense Ceremony .....................115 Spirit Ally or Aide....................116 Soqotran Giant Gecko..............117
+### Relationship with the Order of Hermes.............. 109 Muspelli Saga: Approaching Twilight................. 109 Sorcerers of Soqotra 110 Origin ........................................ 110 Organization.............................. 111 The Four Tribes...................... 112 Aloe.........................................112 Cinnabar .................................113 Myrrh .....................................113 Olibanum ................................113 Lesser Traditions .................... 115 Magical Abilities ......................... 115 Sources of Power.................... 115 Auras.......................................115 Incense Ceremony .....................115 Spirit Ally or Aide....................116 Soqotran Giant Gecko..............117
 
 *Herons of Light.........................118 Soqotran Jinniyah (Evil) .........119*
 
@@ -292,7 +292,7 @@ These are common rules for non-Hermetic magic, although the traditions detailed 
 
 The traditions described in this book all require The Gift of any practitioner.
 
-### **Opening The Gift**
+### Opening The Gift
 
 A Gifted wizard has to undergo a ritual, similar to the Hermetic Opening of the Arts, before he can fully utilize the powers of his magical tradition. The particulars of the ritual are unique to the magical tradition, but the following general rules apply. In these rules, the wizard whose Gift is being Opened is referred to as the apprentice, and the wizard who is Opening the apprentice's Gift is referred to as the master. Obviously, particular traditions may use different titles for these roles.
 
@@ -313,15 +313,15 @@ If the master's Opening Total is less than the Opening Ease Factor, it is not po
 
 A character whose Gift has been Opened must subtract at least 15 from the source quality when attempting to learn a new Supernatural Ability, just as for Hermetic magi. If the sum of his Abilities and Arts is higher, he must subtract the higher total instead.
 
-### **Flawed Opening of The Gift**
+### Flawed Opening of The Gift
 
 To be a fully competent master the character must have a score of at least 2 in each Supernatural Ability and Art of the tradition. For every Supernatural Ability or Art that the master fails to meet this criterion, the apprentice gains a Flaw that affects his magic use. Usually this is something like Deficient Art, but the troupe may substitute other Flaws as appropriate.
 
-### **Social Penalty of The Gift**
+### Social Penalty of The Gift
 
 The Gift imposes a heavy social penalty on a character when he attempts to interact socially with other characters (see **ArM5**, page 75), including when he interacts with other Gifted characters. Hermetic magi have overcome this difficulty through the innovation of Parma Magica; one of its functions is to shield magi from the social effect of each other's Gift. Some traditions who have Gifted members have found other ways to overcome this social penalty, while other traditions, for example the Muspelli, have not solved the social problems of the Gift and consequently their Gifted members only interact in small, factious, paranoid groups.
 
-### **Growing Used to The Gift**
+### Growing Used to The Gift
 
 As previously expressed in **ArM5**, people do not get used to The Gift. They can get used to a Gifted individual, however, and regular positive interactions eventually allow a person to ignore the negative social consequences generated by that character's Gift. The type, frequency, and length of such interactions have never been addressed in **Ars Magica**. *Covenants* implies that it takes fifteen years for an average covenfolk to ignore the social penalty of the Gift (see Familiarity, page 40), although altruism and rewards might shorten this to seven years.
 
@@ -339,7 +339,7 @@ Ultimately, the adventure designed by the storyguide should determine the result
 
 Finally, wizards take apprentices to enhance their abilities and continue their traditions of magic. While the length of any individual tradition's apprenticeship varies, it is sometimes long enough for the wizard and his apprentice to get used to each other. This does not mean they like each other, but it also doesn't mean they don't. The relationship depends on the Personality Traits, and actions, of the parties involved. If the master and apprentice both take active steps to build a good teaching relationship (which need not involve actually liking each other), the penalty imposed on teaching by The Gift may be reduced, and eventually eliminated.
 
-### **Wizard's Sigils**
+### Wizard's Sigils
 
 The Gift expresses itself in a very individual fashion, and one manifestation of this is as a casting sigil. All characters with The Gift and a supernatural Ability, Art, or power produce a sigil when they use their magic, which is akin to a signature. Like the sigils of Hermetic magi (**ArM5**, page 86), these sigils might affect the environment in which the spell was cast, the wizard herself, or the target of the spell; but they always allow the identification of a cast spell to a specific individual, although it may require magical investigation to reveal a sigil once a spell has been cast.
 
@@ -370,11 +370,11 @@ Some magical traditions are underdeveloped, or have theoretical shortcomings, so
 
 Original research (either by the rival wizards themselves, or by helpful Hermetic allies) could improve a magical tradition and convert some of its Difficult Arts to normal Arts. This should be at least as difficult as an Hermetic breakthrough, and may not be possible at all for some theoretically naive traditions. Many magi would frown upon such research, as it could reduce the Order of Hermes' position of dominance over wizards.
 
-### **Accelerated Abilities**
+### Accelerated Abilities
 
 Accelerated Abilities are the counterpart to Difficult Arts, and were introduced in *Houses of Hermes: Societates*. They advance in the same way as Arts, costing one experience point for a score of 1, but are otherwise treated as Abilities in all respects.
 
-### **Favored Abilities**
+### Favored Abilities
 
 Some traditions have a set of favored Supernatural Abilities. Gifted characters who belong to these traditions do not have to subtract the total of their Supernatural Ability scores from the source quality to learn other Abilities that are favored by that tradition. Usually, the character has to undergo some sort of ritual — Opening The Gift — before he gains this benefit of the tradition. Favored Abilities have no meaning for unGifted characters as they cannot learn Supernatural Abilities at all. Characters with favored Abilities must subtract the total of all their Supernatural Abilities, including favored Abilities, from the source quality when learning Supernatural Abilities that are not favored.
 
@@ -438,7 +438,7 @@ Some magical traditions use vis as described in the tradition chapters. Of cours
 
 Note that some Story Flaws seem obligatory for rival magicians (such as Pagan for Amazons and Muspelli, and Known Wizard where there are both Hermetic and non-Hermetic player characters). This does not restrict one's choice of Story Flaw. For example, there is nothing to forbid a character with the Feud Story Flaw from also being a pagan; but by choosing Feud over Pagan as a Story Flaw, the player has indicated to her storyguide that she is more interested in being involved in stories having to do with her character's enemies than she is with his faith. In this case, her pagan nature becomes background color and a roleplaying opportunity instead.
 
-## **Major Supernatural Virtue: Potent Sorcery**
+## Major Supernatural Virtue: Potent Sorcery
 
 The character's magic is particularly potent in a fairly limited area. This area must be smaller in scope than a single Supernatural Ability, but may be spread over several Supernatural Abilities — such as the type of target that can be affected, or a situation in which an Ability is used. When the character uses his Supernatural Ability within his potency, the Casting Total receives a +3 bonus. Furthermore, the character can increase this bonus further by employing casting tools that have Shape or Material Bonuses. Whenever both the potency and a Shape or Material effect applies, the character receives a bonus to his Casting Total equal to 3 + Shape or Material Bonus. Only one bonus can be used to enhance an Ability at a time. The Shape or Material Bonus cannot be gained outside the focus. Like a Magical Focus, a character may only ever have one version of this Virtue, regardless of its source (such as a Virtue granted by Lesser Craft Magic).
 
@@ -446,11 +446,11 @@ The character's magic is particularly potent in a fairly limited area. This area
 
 This Virtue is available to any character with one or more Supernatural Abilities or Hedge Arts, but it cannot affect Hermetic Magic; instead use the Potent Magic Virtue (*The Mysteries Revised Edition*, pages 31–32).
 
-## **Minor Supernatural Virtue: Greater Magical Defenses**
+## Minor Supernatural Virtue: Greater Magical Defenses
 
 The wizard is unusually difficult to affect with magic; double his Magical Defense Bonuses. This is only useful for a wizard whose tradition includes Magical Defenses. If the wizard acquires a Magic Resistance (he learns Parma Magica, for example) it is not affected by this Virtue.
 
-## **Minor Supernatural Virtue: Lesser Craft Magic**
+## Minor Supernatural Virtue: Lesser Craft Magic
 
 The character may craft objects that already contain raw vis into magical devices with lesser enchantments (see **ArM5** page 96). He can instill any effect of a Supernatural Ability he himself possesses; this Virtue is useless unless the character has some other magical ability. The vis needed must already be part of the raw material, which is then crafted into a physical object from it; this takes the normal amount of time to make (see *City and Guild*, page 68) — generally speaking, the more durable the object, the more time it requires. During this time, the character must avoid distractions and maintain concentration whenever he is working on the object, and the character can only work on a single object at a time.
 
@@ -469,19 +469,19 @@ A Muspelli cannot use this Virtue to enchant an *utiseta* ritual effect.
 
 (This is a Minor version of the Craft Magic Major Virtue, *Houses of Hermes: Societates*, page 131.)
 
-## **Major Story Flaw: Known Wizard**
+## Major Story Flaw: Known Wizard
 
 The character is known to be a wizard by many in the Order of Hermes. The approximate location of his home is well known as is something of his capabilities. The wizard is carefully watched by the Order, and if he begins to demonstrate great power he may be required to either "Join or Die."
 
-### **Major Story Flaw: Pagan**
+### Major Story Flaw: Pagan
 
 Some wizards are pagans — they do not follow the teachings of the Church and have never been baptized. This upsets those in authority in Mythic Europe, and frightens common people who learn of it. The character does not observe Christian holidays and he tries to avoid churchmen and the Dominion. The character cannot pretend to go along with society, as he believes that this would displease his gods and incur their wrath — he might suffer supernatural consequences if he takes communion or appears to worship gods other than his own. The character may be correct in this belief. The character may begin with either Magic Lore or Faerie Lore depending on the specifics of his faith. Note that this Flaw should only be taken for the character if the troupe wishes to tell significant stories about the character's pagan religion. This Flaw is not appropriate for a character who is a "nonpracticing" pagan, or for a saga set in predominantly non-Christian lands.
 
-## **Minor Supernatural Flaw: No Magical Defenses**
+## Minor Supernatural Flaw: No Magical Defenses
 
 There is something flawed in the way the wizard's Supernatural Abilities and Arts were developed. He has no Magical Defense Bonuses. This is only appropriate if the magical tradition has magic defenses. This might be a suitable Flaw for a Gifted wizard whose Opening The Gift ritual was flawed.
 
-### **Hermetic Virtues and Flaws**
+### Hermetic Virtues and Flaws
 
 The following Hermetic Virtues can be taken by non-Hermetic Gifted characters:
 
@@ -590,7 +590,7 @@ Amazonian society has little patience with those who rail against accepted norms
 
 When Amazons disagree, they fight. Such duels are the legal courts of the Amazons. The two combatants face off, often in the forum but anywhere is acceptable, and battle until one concedes to the other's wishes. Amazons fight over living space, spoils of war, husbands, livestock, children; the list is inexhaustible. The winner gets her way, and since Amazons rarely admit defeat, the loser is usually buried. Amazons do not have a feud-based society, and the loser's sisters and comrades-in-arms do not pursue the victor with vengeance in mind. Though their sister is dead, she died as an Amazon, sword in hand, and will join the ranks of Amazon spirits who watch over Amazonia.
 
-### **Amazonian Sorceresses**
+### Amazonian Sorceresses
 
 Sorceresses have a difficult time fitting into Amazon society. Because of their Gift, Amazons regard them as untrustworthy, dishonorable, and suspicious. Few have spent enough time with a sorceress to realize that this is a consequence of her Gift and is not her personality. But no one doubts their efficiency and prowess with magic. Most Amazon generals want a sorceress in her army, just not necessarily living in her tent.
 
@@ -636,13 +636,13 @@ Amazon Chant 3 Amazonian Spellcraft 1 Amazon Cult Lore 1
 
 These abilities were created for Amazon **Ars Magica** characters.
 
-### **Living Language: Amazon**
+### Living Language: Amazon
 
 *General Ability*
 
 The language of the Amazons is simply called "Amazon." It is a mix of Greek and Scythian with several Egyptian loan words. It is similar enough to Greek to allow limited communication. Modify the Language score by –3 if a Greek and an Amazon try to speak with each other.
 
-### **Amazonia Lore**
+### Amazonia Lore
 
 *General Ability*
 
@@ -650,7 +650,7 @@ Amazonia Lore covers the current social and geographical facts of the Amazons an
 
 Amazonia Lore is available to every Amazon character.
 
-### **Amazonian Cult Lore**
+### Amazonian Cult Lore
 
 *Arcane Ability*
 
@@ -658,7 +658,7 @@ Amazonian Cult Lore covers the mystic rituals and practices of the religious and
 
 Amazonian Cult Lore is only available to Amazon sorceress characters.
 
-### **Amazonian Chant**
+### Amazonian Chant
 
 *Academic Ability*
 
@@ -666,7 +666,7 @@ Amazonian Chant is the dead language of the Amazon's founders, the language used
 
 Amazonian Chant is available to Amazon sorceress characters without the need for a further Virtue.
 
-### **Amazonian Spellcraft**
+### Amazonian Spellcraft
 
 *Arcane Ability*
 
@@ -690,31 +690,31 @@ This list of Hermetic Virtues and Flaws is not exhaustive, and does not take int
 
 There are a handful of Hermetic Virtues and Flaws that Amazon characters can select, modified to reflect Amazon magic instead of Hermetic magic. Besides the listed changes, the Virtues and Flaws operate as normal.
 
-### **Clumsy Magic**
+### Clumsy Magic
 
 This is a Major Flaw for Amazons, since every incantation needs to be aimed.
 
-### **Harnessed Magic**
+### Harnessed Magic
 
 This is a Major Virtue for Amazons, since Durations can be much longer for sorceresses than magi, and having the ability to end a lengthy duration is more of an advantage.
 
-### **Magical Animal Companion**
+### Magical Animal Companion
 
 Since Amazons use magical animals to make rites permanent, the character must decide how this animal fits into play. Is it an animal waiting to be sacrificed? Or is it a real friend, who will draw the attention of every sorceress who knows about it?
 
-### **Poor Incantation Magic**
+### Poor Incantation Magic
 
 This adaptation of Poor Formulaic Magic is a Major Flaw for a sorceress.
 
-### **Short-Lived Magic**
+### Short-Lived Magic
 
 This is a Major Flaw for Amazons, not a Minor Flaw. To determine how much shorter a spell is, roll a simple die. 1–3 subtract one from the sorceress' Amazonian Chant score when calculating the spell's duration, 4-–6 subtract 2, 7–9 subtract 3, and on a 10 decrease the Duration by one step. Spells will always last at least Momentary duration.
 
-### **Skilled Mistress**
+### Skilled Mistress
 
 The Amazon variant of Skilled Parens, this Virtue adds 60 extra experience points at character generation. It does not add more levels of spells at character generation.
 
-### **Unpredictable Magic**
+### Unpredictable Magic
 
 The player must always roll a stress die both for casting an incantation and aiming it, making this a Major Flaw for a sorceress.
 
@@ -723,25 +723,25 @@ The player must always roll a stress die both for casting an incantation and aim
 
 These virtues have been specially designed for Amazon characters.
 
-### **Amazon**
+### Amazon
 
 *Free, Social Status*
 
 The character is an Amazon — a woman warrior of good standing within the community. The character may purchase Martial Abilities at character generation.
 
-### **Martial Connection to Magic**
+### Martial Connection to Magic
 
 *Major, Supernatural*
 
 The sorceress has a strong mental connection between her magic and her combat prowess. Every time she gains at least 2 experience points in a Martial Ability, through study or adventure, she also gains 1 experience point in Finesse. She cannot, through this Virtue, gain more than 1 experience point in Finesse per season, no matter how many experience points she puts into Martial Abilities, nor how many Martial Abilities she raises. She may, however, put adventure experience into both Martial Abilities and Finesse, and claim the bonus point. The reverse is also true, and improving Finesse by at least 2 experience points awards 1 experience point in any Martial Ability.
 
-### **Strong Magic**
+### Strong Magic
 
 *Major, Supernatural*
 
 The sorceress' magic is stronger than her sisters and is more difficult to resist. Resistance Roll Ease Factors start at 9 instead of 6.
 
-### **Proven Raider**
+### Proven Raider
 
 *Minor, General*
 
@@ -749,13 +749,13 @@ The character has gone on several raids and has shown she is extremely capable. 
 
 
 
-### **Amazon Sorceress**
+### Amazon Sorceress
 
 *Free, Social Status*
 
 The character is an Amazon sorceress. She begins play with a constructed temple for her magical activities, situated somewhere outside of Amazonia. The site has a Magic aura of 1. She may learn any Ability available to Amazons, including Martial and Arcane Abilities, and must have The Gift.
 
-### **Symbolic Understanding**
+### Symbolic Understanding
 
 *Major, Supernatural*
 
@@ -765,7 +765,7 @@ The sorceress has a more symbolic understanding of Amazon Vowels, viewing them a
 
 The following new flaws are appropriate for Amazon characters.
 
-### **Amazonian Slave**
+### Amazonian Slave
 
 *Major, Social Status*
 
@@ -775,37 +775,37 @@ The character is a male slave of the
 
 Amazons, having been either born in Amazonia or captured during a raid. If the character has an Amazon mother, he has spent his entire life in Amazonia and cannot take any Virtues that give access to Martial Abilities. If he was captured in a raid, he may have pre-existing weapon skills.
 
-### **Beloved Slave**
+### Beloved Slave
 
 *Minor, Story*
 
 The character is male with an Amazon mother who loves him enough to help him in his life as a slave. He may be one of the rare few who don't live in the slave quarters, instead of being assigned as a personal attendant to another Amazon or even still living with his mother. While there are limits to her aid, his mother will do her best to make life easier for the character.
 
-### **Bitter Mistress**
+### Bitter Mistress
 
 *Major, Story*
 
 The sorceress' mistress loathes her former apprentice so much that she will do everything in her power to humiliate, debase, and obstruct the character. Since there are no customs to prevent violent interactions between Amazon sorceresses, this Flaw is worse than the Hermetic equivalent: Tormenting Master.
 
-### **Frail Magic**
+### Frail Magic
 
 *Major, Supernatural*
 
 The sorceress' magic is weaker than her sisters and is easier to resist. Resistance Roll Ease Factors start at 3 instead of 6.
 
-### **Magic Aura Temple**
+### Magic Aura Temple
 
 *Minor, Story*
 
 The sorceress character starts play with her temple located in a +3 Magic aura. Others will try to take this from her, either through political, social, or violent means.
 
-### **Friendly Mistress**
+### Friendly Mistress
 
 *Minor, Story*
 
 The sorceress' mistress went to great efforts to be friendly to her apprentice, and the two had genuine affection for each other. To maintain this friendship, the character must continue to interact with her mistress, spending one season assisting in the mistress' temple every other year. The elder sorceress is an ally and offers aid or resources if the relationship is maintained. Regardless of how often she sees the character, the mistress occasionally requests help.
 
-### **Prolonged Apprenticeship**
+### Prolonged Apprenticeship
 
 *Major, Story*
 
@@ -951,37 +951,37 @@ Amazon magic combines eight Arts, called **Vowels** and **Consonants**, in an as
 
 The three Vowels are: **Alala** ("to open"), **Ma'at** ("to measure"), and **Papaios** ("to close"). The five Consonants are: **Api** (the earth/day), **Kardia** (the heart), **Nux** (the sky/night), **Soma** (the body), and **Zoi**  (the spirits).
 
-### **The Vowels**
+### The Vowels
 
 The Amazonian vowels are Alala (Al), Ma'at (Ma), and Papaios (Pa).
 
-### **Alala (Al) "to open"**
+### Alala (Al) "to open"
 
 Ares was the god of war — the only male god for whom the Amazons built statues and alters. Alala is the female personification of Ares, and became popular with the Amazons after their many defeats at the hands of men. The Art of Alala starts things, begins things, makes things yield as they are opened. Alala summons spirits by creating an opening between their realm and the caster's, creates pits by opening the earth, makes wounds by opening the body, and creates rain by opening the sky. It does not have a direct correlation to a Hermetic Art. Alala heals and harms, depending on the Consonant it is combined with.
 
-### **Ma'at (Ma) "to measure"**
+### Ma'at (Ma) "to measure"
 
 Hermes was the god of weights and measures, the god of boundaries. The Egyptians called him Thoth in male form, and Ma'at in female form. Old Amazon prayers used all three forms, and the Amazon sorceress Viea chose "Ma'at" when converting their magic. Ma'at is the informative Art. "Measuring" for a sorceress is knowing, and taking the measure of a thing provides the sorceress with information about its nature. Ma'at allows a sorceress to control and command a spirit by knowing it. Sorceresses can only measure using their eyes, meaning that the other senses cannot be used when casting Ma'at spells. While a magus might be able to cast a spell to listen for silver, a sorceress is limited to visually assessing things.
 
-### **Papaios (Pa) "to close"**
+### Papaios (Pa) "to close"
 
 Papaios is the Scythian form of Zeus, the creator and the destroyer, and was invoked to end things. The Art of Papaios closes things, bringing them to an end. The setting sun closes the day, and Papaios is seen as a more natural end to things than those used by other sorts of malevolent magic. The opposite of Alala, Papaios can also be both beneficial and destructive. Papaios closes wounds, yet also closes the heart, causing exhaustion. Perhaps its most powerful property is to close a sorceress from the effects of aging, granting her an extended lifespan. Papaios closes the mundane world to spirits, effectively banishing them. Like Alala, it has no direct Hermetic equivalent, and can sometimes mirror Creo effects while at other times seeming more like Perdo.
 
-### **The Consonants**
+### The Consonants
 
 The Amazonian consonants are Api (Ap), Kardia (Ka), Nux (Nu), Soma (So), and Zoi (Zo).
 
-### **Api (Ap) "the earth, the day"**
+### Api (Ap) "the earth, the day"
 
 Gaia was one of the first Greek goddesses, springing from the nothingness of Chaos and creating the rest of the gods. In the Scythian language Gaia was called "Api," the name the Amazons use to worship this powerful goddess. Api concerns the earth and the day, mirroring the elemental form of Terram and the illuminating aspect of Ignem. Hermetic magic treats the elemental forms independently, following the division of academic sciences and Mythic reality. Amazon magic only deals with two of the four forms, and makes a distinction between them based on their mythical associations. Api also covers earth elementals, which the Amazons use for various purposes, and animals whose predominating humor is melancholic, because this humor is closely associated with the earth. (See the Api section under Spells for a list of melancholic animals.)
 
-### **Kardia (Ka) "the heart"**
+### Kardia (Ka) "the heart"
 
 Amazon magic incorporated many concepts from Egyptian magic, including classifying the body in different ways. The heart was thought to be the seat of the soul and the center of good and evil thoughts. Kardia magic targets the "wholeness" of the individual, the intangible properties that make a body sound. Kardia works on the body's insides. Not its stomach, liver, or viscera, but on the subtle fumes or energies that make a body healthy and a mind capable. Kardia magic affects the body's humors — an ancient Greek concept understood by Amazons.
 
 Kardia magic can mimic and combat disease. Rather than affect the disease itself, Kardia influences the symptoms of the disease. Kardia can also create, destroy, and change a person's personality, as another aspect of the humors. Exhaustion and Fatigue are seen as a lack in a person's heart, rather than the depletion of their physical energies, and Kardia magic covers Fatigue loss and recuperation as well.
 
-### **Nux (Nu) "the sky, the night"**
+### Nux (Nu) "the sky, the night"
 
 The first god who Gaia created was Ouranos, the sky, her consort. In ancient Libya, Ouranos was worshipped as Nux, a goddess of the night sky, and over the centuries Nux replaced Ouranos in the Amazons' ceremonies. The Art of Nux affects the sky, particularly weather phenomenon and the darkness of the night. Nux is the second elemental division of Amazon magic. Like Api, Nux magic affects air elementals and animals whose predominating humor is sanguine, primarily birds. (See Nux under Spells for a list of sanguine animals.)
 
@@ -990,7 +990,7 @@ The first god who Gaia created was Ouranos, the sky, her consort. In ancient Lib
 
 The Art of Soma affects the human body, as the physical aspect of the human form. Incantations that deal with healing and harming a human being are all Soma incantations. Soma is closely associated with Corpus affects, the main difference being that Amazons have greater control over permanent effects than their Hermetic counterparts.
 
-### **Zoi (Zo) "the spirit"**
+### Zoi (Zo) "the spirit"
 
 While pagans, Amazons understand that each human has a unique, everlasting spirit attached to her body. While the target is living, it is impossible for Amazon magic to address its spirit. After the target has died, however, its spirit can be summoned — opened to a new earthly existence — and communicated with. Zoi covers the aspect of Mentem that deals with spirits and ghosts.
 
@@ -1022,7 +1022,7 @@ In order from lowest to highest, this list gives the Ranges and Durations for Am
 
 tion's Duration. Thus, an incantation with Duration: Exchange, cast by a sorceress with Amazonian Chant 5, lasts for 5 Exchanges (combat rounds).
 
-#### **Actual Duration: Incantation Duration x Amazonian Chant**
+#### Actual Duration: Incantation Duration x Amazonian Chant
 
 The Target of a spell is always one specific person or thing — Target: Individual — and cannot be augmented to include more than one individual like Hermetic magic can. The Target must, however, be adjusted for size, meaning that larger targets can be affected as long as they are still a specific, single thing. An incantation can affect a giant, for example, but not a group. (See Changing Range, Duration, and Target, later.)
 
@@ -1042,13 +1042,13 @@ Inventing a spell using the base Range and Duration of its Consonant does not ad
 
 
 
-### **Non-Living Targets**
+### Non-Living Targets
 
 The two primary non-living targets that sorceresses cast magic at are the earth and the sky, using Api and Nux spells. Amazonian magic uses metaphysical relationships to affect these targets. The earth is regarded as a cousin; always underfoot, it is not known as intimately as a sister, but lies closer to a sorceress than a stranger. The sky, resting far above the Amazons' heads, is a stranger. Its unpredictable weather patterns can be watched but not understood, much like an often-regarded foreigner. To target the earth, a sorceress can use Range: Cousin, but to target the sky she must use Range: Seen Stranger. Spells that target the day or night count as targeting the sky.
 
 While distance is not a factor, a sorceress cannot target any piece of earth or sky in the world; she must have some knowledge of the targeted area. She must either be able to see it, or have seen it in the past. If a sorceress wishes to target a non-living target that she has never seen, she must use a spell with Range: Unseen Stranger and have five identifiers for the target.
 
-### **Non-Human Targets**
+### Non-Human Targets
 
 Amazons can affect non-human targets, which include some animals, spirits, and elementals. Incantations that target animals must have a Range of Seen Stranger, regardless of any familiarity the sorceress may have with an individual animal. Earth and air elementals — the only two types of elementals that can be affected with Amazonian magic — must be targeted with incantations that have the Range: Seen Stranger. Even thought the earth is considered a cousin of the Amazons, earth elementals are more foreign than the normal mundane material of the earth and sky, and must be targeted with an increased Range.
 
@@ -1056,7 +1056,7 @@ Spirits can be affected by any of the Ranges, depending on the relationship the 
 
 Animals can be targeted with incantations depending on their overriding humor, allowing sorceresses to affect perhaps half the animal kingdom. Melancholic animals — those that have a predominating melancholic humor — are associated with the element of earth and can be affected with Api magic. Nux magic affects animals with a sanguine nature. (Lists for appropriate animals appear in the Api and Nux sections under Spells.)
 
-## **Changing Range, Duration, and Target**
+## Changing Range, Duration, and Target
 
 Amazonian Ranges and Durations are ranked as listed in the insert. Each step up the ladder adds 1 to the final magnitude of the incantation, just as in Hermetic magic. Unlike Hermetic magic, each step down the ladder also adds 1 to the incantation's magnitude. With Hermetic magic, all Arts have the same base Range, Duration, and Target — Personal, Momentary, and Individual. Amazonian magic differs in that an incantation's base Range and Duration depend on the Incantation's Consonant, and its Target is always Individual.
 
@@ -1073,7 +1073,7 @@ Amazonian Ranges, Durations, and Targets are not inclusive, meaning that an inca
 
 There are two types of Amazonian spells: incantations and rites. Sorceresses don't have the vast catalog of spells that magi have.
 
-### **Incantations**
+### Incantations
 
 Incantations are short spells sung on the battlefield, usually, that produce instant effects. Higher magnitude incantations have more complex verbal soundings than lower magnitude incantations. They are not necessarily longer, but harder to properly vocalize in song. All incantations, regardless of magnitude, can be sung in a single round. Volume is not a necessary component of an incantation, however, and the incantation works based on proper intonation and verbal clarity. A sorceress does not get a spellcasting bonus or penalty based on the volume of her voice when casting an incantation. Since she is meant to be holding a weapon and shield, incantations do not need gestures to work. They do need to be aimed, however. As the sorceress finishes her incantation, she points at its target, using either her finger or a held weapon or object to indicate the direction of the incantation. Incantations must be learned prior to casting, exactly like Hermetic formulaic spells.
 
@@ -1083,11 +1083,11 @@ Incantations cannot have other requisite Arts involved, a distinct difference fr
 
 To determine if an incantation is properly cast, compare the sorceress' Communication + Vowel score + Consonant score + aura + a stress die against the level of the incantation. If the casting total equals or is higher than the level, the incantation works. If the casting total is less than the level of the incantation, the incantation fails and the sorceress loses a short term Fatigue Level.
 
-#### **Casting Total: Communication + Vowel + Consonant + aura + stress die**
+#### Casting Total: Communication + Vowel + Consonant + aura + stress die
 
 If the stress die rolls a 0, the player must check for a botch, using the regular guidelines for a Hermetic magus botching a spellcasting roll. If a botch occurs, the sorceress gains 1 Warping Point for each actual botch rolled. If the sorceress gains 2 or more Warping Points, she is seized by the Sacred Sickness (see later). A botched spell can affect the caster instead of the target, affect the target in an opposite way than intended, or produce greater or lesser magical effects.
 
-### **Rites**
+### Rites
 
 Rites are longer, more complicated songs that produce permanent magical effects, similar to Hermetic ritual spells. Compared to incantations, few rites exist. Rites are designed like incantations, using a Vowel and Consonant base level of effect and modifying it for Range, Duration, and Target Size. A rite must have at least one requisite Art, and its Duration must be modified to Month. The requisite Art does not add to the magnitude of the spell, but like Hermetic magic, the sorceress must adjust her casting total based on her score in the requisite Art. Just like an incantation, a rite must be known — either learned or taught — before it can be cast.
 
@@ -1110,7 +1110,7 @@ Because Amazonian magic was created by warriors, every incantation and rite cast
 
 To successfully hit an intended target, the player must make an aiming roll, using the character's Casting Total + Finesse against a variable Ease Factor.
 
-#### **Aiming a Spell: Casting Total – Spell Level + Finesse**
+#### Aiming a Spell: Casting Total – Spell Level + Finesse
 
 In combat situations, compare the sorceress' aiming roll against the target's Defense total. If the aiming roll is higher, the incantation affects the target. If the incantation "misses" the target, the magic is effectively wasted. If the aiming roll botches, the incantation could hit someone else, including the caster, depending on the situation and the storyguide's judgment.
 
@@ -1149,11 +1149,11 @@ Earth and sky get resistance rolls based on the type of earth or weather phenome
 | Metal, Gems, Very Severe        |    |
 | Weather Phenomenon              | +5 |
 
-### **Penetrating Magic Resistance**
+### Penetrating Magic Resistance
 
 Targets with Magic Resistance get a first line of defense before they have to make a Resistance Roll, since Amazon magic, like any magic, must penetrate the target's magic resistance to be effective. Penetration is calculated in the normal way by subtracting the level of the spell from the sorceress' casting total, then adding her Penetration Ability score.
 
-#### **Penetration Total: Casting Total – Spell Level + Penetration Ability**
+#### Penetration Total: Casting Total – Spell Level + Penetration Ability
 
 If the spell penetrates the target's Magic Resistance, the target still gets to make a Resistance Roll.
 
@@ -1169,38 +1169,38 @@ Amazonian sorceresses must calculate their "Temple Total" for the various types 
 
 **Temple Total: Intelligence + Vowel + Consonant + Amazonian Spellcraft + Aura Modifier**
 
-### **Learning Spells**
+### Learning Spells
 
 Amazonian magic is unwritten. Incantations and rites must either be individually learned or taught by another sorceress. Learning an Amazon spell is exactly like inventing a Hermetic spell (**ArM5**, page 95). A sorceress must first describe the spell using a Vowel and Consonant combination, augmenting by any changes in Range, Duration, or Target Size she wishes to make. Once detailed and the spell's level is calculated, she spends a season or more learning it. Compare the character's Temple Total to the level of the spell. For each point above the level, the sorceress gains 1 point towards learning the spell. Once she has gained enough excess points to equal the spell's level, she has learned it. If her Temple Total is double the level of the spell, she learns it in a single season.
 
-### **Teaching Spells**
+### Teaching Spells
 
 A sorceress may teach other sorceresses spells. Since few sorceresses completely trust their sisters, this usually happens only during a sorceress' apprenticeship. Mechanically, this works exactly like Hermetic magic (**ArM5**, page 95). The teaching sorceress may teach a number of incantations equal to her highest-applicable Temple Total. The student sorceress may learn any of her teacher's incantations, but is limited by her Temple Total for any specific spell in each Vowel and Consonant combination.
 
 A second way to be taught spells is to summon a dead Amazonian spirit that knows the desired spell and force the spirit to teach it. This requires knowing the name of spirit, which is not that difficult, summoning it with Alala Zoi magic, and commanding it with a different Alala Zoi incantation. A spirit can teach a number of incantations equal to its Magic Might, and a student's Temple Total must be higher than the level of each individual incantation she desires to learn. A player does not have to subtract 3 from the Teaching Source Quality due to the character's Gift if the spirit is friendly to sorceresses (see Sacred Sickness later). Other powers of the spirit may not be learned, only incantations that the spirit can still cast as powers.
 
-## **Teaching Arts and Arcane Abilities**
+## Teaching Arts and Arcane Abilities
 
 Because Amazonian magic is exclusively oral, sorceress cannot read books to increase their Arts and Arcane Abilities, like their Hermetic counterparts do. Since they do not recognize vis as anything more than food for magical animals, they cannot study vis to increase their Arts scores either. A sorceress character can increase her Arts and Arcane Ability scores by being taught from another sorceress or Amazon spirit. Another way to increase her Art scores is by contemplating the Amazonian mysteries.
 
 Teaching another sorceress an Art or Arcane Ability follows the regular rules for teaching (**ArM5**, page 165). The number of experience gained, repeated for easy reference, is:
 
-#### **Teaching Source Quality: Teacher's Communication + Teaching + 3 + bonus**
+#### Teaching Source Quality: Teacher's Communication + Teaching + 3 + bonus
 
 Teaching is problematic because of the Gifts of the teacher and student. **ArM5** page 75 states that a Gifted individual "suffers the –3 penalty to all rolls and totals based on social interaction, including training, whether the maga is the trainer or the trainee." Teaching Source Quality is a total, and if both teacher and student are Gifted, the double –3 penalty is necessary. This penalty cancels out the +6 bonus derived from one-to-one teaching that a student studying from a single teacher normally receives. A spirit's Teaching Source Quality can also be penalized by the –3 modifier. The only spirits whose total is not penalized are those that overcame the majority of their Sacred Sickness episodes (see later).
 
-### **Contemplation**
+### Contemplation
 
 Contemplating the Arts is much like practice experience. The sorceress spends an uninterrupted season casting incantations in the Art she wishes to increase, and studying the effect of the incantations through a series of trance-like states. She gains experience points equal to her Contemplation Source Quality.
 
-#### **Contemplation Source Quality: 4 + Magic Aura**
+#### Contemplation Source Quality: 4 + Magic Aura
 
 Both teaching and contemplation require a temple. Since temples are easy to construct, it is common for a sorceress to
 
 
 have more than one. Sorceresses seek out areas with a high Magic aura expressly for the purposes of constructing a temple to contemplate their Arts.
 
-### **Enchanted Items**
+### Enchanted Items
 
 Amazonian sorceresses may enchant magic items simply by casting an incantation on the item, which then holds the enchantment, serving as a receptacle for the magic. The first step is to make the item, which each sorceress has to do individually. The item, whatever it is, must be of superior quality (see *City & Guild* page 67). The character's Primary Characteristic + Craft Ability must equal 12. Since this is a steep requirement, the sorceress may continue working on the item past the normal time that it would take to make it. Each season, she gains points equal to her Primary Characteristic + Craft Ability. Her Primary Characteristic is the Characteristic she would use in manufacturing the item, often Dexterity but sometimes Strength. Once these accumulated points equal 12, the item is ready for enchantment. The seasons do not have to be continuous, and a sorceress may interrupt this process. She may, for example, spend one season making an item, spend two seasons adventuring, return and spend another season on the item, spend a season learning a spell, and finish the item a season later.
 
@@ -1208,7 +1208,7 @@ Once finished, the item can hold a number of magnitudes of incantations equal to
 
 Since aiming is so important, a sorceress may also modify an instilled incantation by improving its aiming. Normal enchanted items add 0 to a sorceress' aiming roll. Increasing the level of the final incantation effect by 1 adds +1 to the aiming roll.
 
-### **Scepters**
+### Scepters
 
 The most powerful item that a sorceress can manufacture is her scepter. A symbol of sovereignty and power, a sorceress' scepter increases her potential when casting or aiming incantations, as well as providing overall benefits in a chosen Consonant. A scepter is longer than a wand and shorter than a staff. It can be made of any material — wood, bone, and metal being the most common — and is covered in runes and mystical symbols.
 
@@ -1224,7 +1224,7 @@ If a scepter is destroyed by other means, either in battle or some other egregio
 
 A scepter's Consonant score adds to the sorceress' in three ways. First, it adds directly to the casting total of any incantation that uses that Consonant. Second, it adds to any Temple Total that concerns the Consonant to which it is attuned. Finally, a scepter adds to any aiming rolls for incantations in the Consonant to which it is attuned.
 
-### **Vis**
+### Vis
 
 Amazonian sorceresses have an incomplete understanding of vis. As far as they are concerned, vis is exclusively fodder used to strengthen magical animals. While not every magical creature eats vis, many do. By feeding a captive creature vis, a sorceress intends to increase the creature's Might score, so that it can be used in more powerful rites.
 
@@ -1287,7 +1287,7 @@ If both these rolls are successful, the sorceress receives an Amazon Script Bonu
 
 There is no die roll involved. If the Initiation Total is equal to or higher than the initiation's Target Level, then the initiation is successful.
 
-### **The Centaur's Heart**
+### The Centaur's Heart
 
 *Target Level 18*
 
@@ -1297,7 +1297,7 @@ Raiders are most effective on horseback, and the sorceress without a steed will 
 
 magic cannot affect horses, which possess a choleric or fiery humor. This initiation allows horses, and horses alone, to be immune to the social consequences of the sorceress' Gift, effectively granting a boon equivalent to a limited version of the Minor Virtue: Inoffensive to Animals. This is a common Initiation Script and many sorceresses don't regard it as a closely kept secret, meaning they are more apt to share it with other sorceresses.
 
-### **The Living Goddess**
+### The Living Goddess
 
 *Target Level 30*
 
@@ -1362,9 +1362,9 @@ The land also has a spirit, in a sense, and Api incantations can locate magic au
 
 The base Range and Duration for Api spells are Cousin and Hour.
 
-### **Alala Api**
+### Alala Api
 
-### **The Aid of Goitosyros**
+### The Aid of Goitosyros
 
 Level 4
 
@@ -1400,7 +1400,7 @@ While Amazon magic can discern raw vis, it describes them as one of two types: e
 
 
 
-### **The Mouth of Hades**
+### The Mouth of Hades
 
 Level 5
 
@@ -1410,7 +1410,7 @@ This incantation rips open the earth under a targeted person's feet, plunging hi
 
 (Base 5)
 
-### **Summon the Guardian of the Land Bridge**
+### Summon the Guardian of the Land Bridge
 
 Level 25
 
@@ -1420,7 +1420,7 @@ This incantation summons a particular Might 15 elemental, one that has lived in 
 
 (Base 15, + 2 Unseen Stranger)
 
-### **The Fortress Unmade**
+### The Fortress Unmade
 
 Level 30
 
@@ -1430,9 +1430,9 @@ The earth is rent asunder, causing a single tower or stone manor house to crumbl
 
 (Base 5, +4 size, +1 stone)
 
-### **Ma'at Api**
+### Ma'at Api
 
-### **Find our Enemies**
+### Find our Enemies
 
 Level 5
 
@@ -1444,7 +1444,7 @@ This incantation lets a sorceress know where her enemies are. She casts the inca
 
 ### Rival Magic
 
-### **Sense the Potent Fodder**
+### Sense the Potent Fodder
 
 Level 5
 
@@ -1454,7 +1454,7 @@ This incantation indicates if an item contains raw vis.
 
 (Base 5)
 
-### **Surveying the Distant Realm**
+### Surveying the Distant Realm
 
 Level 5
 
@@ -1464,7 +1464,7 @@ This spell indicates the presence of a supernatural aura: Divine, Magic, Faerie,
 
 (Base 5)
 
-### **Command the Guardian of the Land Bridge**
+### Command the Guardian of the Land Bridge
 
 Level 20
 
@@ -1474,9 +1474,9 @@ This incantation commands the elemental summoned by the incantation *Summon the 
 
 (Base 15, Seen Stranger +1)
 
-### **Papaios Api**
+### Papaios Api
 
-### **Rob Them of Goitosyros' Gift**
+### Rob Them of Goitosyros' Gift
 
 Level 5
 
@@ -1486,7 +1486,7 @@ This incantation targets an area 10 paces wide, 10 paces deep, and 10 paces high
 
 (Base 3, +1 Seen Stranger, +1 Size)
 
-### **The Moat's Mortal End**
+### The Moat's Mortal End
 
 Level 10
 
@@ -1516,7 +1516,7 @@ allowing passage for besieging armies. The water previously in the moat is force
 
 (Base 5, +1 Size increase)
 
-### **The Hut Made Safe**
+### The Hut Made Safe
 
 Level 30
 
@@ -1533,9 +1533,9 @@ Kardia deals with the humors and personality of the human body, targeting the pa
 
 The base Range and Duration for Kardia incantations is Sister and Day.
 
-### **Alala Kardia**
+### Alala Kardia
 
-### **Athena's Breath**
+### Athena's Breath
 
 Level 10
 
@@ -1561,7 +1561,7 @@ tation allows the sorceress' shield-sisters to exert in every round of combat. I
 
 (Base 10)
 
-### **The Invalid's Call to Arms**
+### The Invalid's Call to Arms
 
 Level 15
 
@@ -1571,7 +1571,7 @@ This incantation cancels the penalties incurred from suffering a disease that ac
 
 (Base 5, + 2 for additional bonuses)
 
-### **Recalling her Ancestors**
+### Recalling her Ancestors
 
 Level 15
 
@@ -1581,9 +1581,9 @@ This incantation gives the recipient an Angry Personality Trait of +2. It is com
 
 (Base 15)
 
-### **Ma'at Kardia**
+### Ma'at Kardia
 
-### **Sense the Stench of Sickness**
+### Sense the Stench of Sickness
 
 Level 25
 
@@ -1617,9 +1617,9 @@ Tempered, Angry, Prejudiced, Cruel **Melancholic:** Caring, Loyal, Sensitive, Al
 
 disease spirit's Magic Resistance to work. (Base 10, + 3 Unseen Stranger)
 
-### **Papaios Kardia**
+### Papaios Kardia
 
-### **The Faulty Strike**
+### The Faulty Strike
 
 Level 15
 
@@ -1629,7 +1629,7 @@ one short-term Fatigue level.
 
 (Base 5, +2 Seen Stranger)
 
-### **Fear Our Wrath**
+### Fear Our Wrath
 
 Level 20
 
@@ -1662,9 +1662,9 @@ Nux rites can detect Auram, Aquam, and Vim vis, depending on where the Vim vis c
 
 The base Individual size of a Nux spell is 100 cubic paces of sky. The base Range and Duration for Nux effects are Seen Stranger and Hour.
 
-### **Alala Nux**
+### Alala Nux
 
-### **Mire the Fleeing Army**
+### Mire the Fleeing Army
 
 Level 4
 
@@ -1696,7 +1696,7 @@ Some weather phenomena can cause damage to targets, including high winds and lig
 
 **Level 10:** Create a very severe weather phenomenon that behaves unnaturally.
 
-### **Mask Argimpasa's Warriors**
+### Mask Argimpasa's Warriors
 
 Level 5
 
@@ -1706,7 +1706,7 @@ This incantation forces a fog to generate around a single individual. The fog co
 
 (Base 4, +1 Cousin)
 
-### **Clipping the Sacrifice's Wings**
+### Clipping the Sacrifice's Wings
 
 Level 10
 
@@ -1730,7 +1730,7 @@ Ma'at Nux magic lets a sorceress measure the sky and night, and was originally u
 
 **Level 10:** Discern detailed magical properties of an area of sky (presence of a regio, strength of an aura, amount of raw vis in an object).
 
-### **The Wrath of the Sky-God**
+### The Wrath of the Sky-God
 
 Level 20
 
@@ -1742,9 +1742,9 @@ This incantation creates a thunderstorm. Every other round a lightning bolt may 
 
 
 
-### **Ma'at Nux**
+### Ma'at Nux
 
-### **Foresee the Oncoming Storm**
+### Foresee the Oncoming Storm
 
 Level 3
 
@@ -1754,7 +1754,7 @@ This incantation allows the sorceress to know if a storm is developing. More acc
 
 (Base 3)
 
-### **Sense the Potential of the Sky Sacrifice**
+### Sense the Potential of the Sky Sacrifice
 
 Level 5
 
@@ -1764,7 +1764,7 @@ This incantation allows the sorceress to know whether a targeted bird has a Migh
 
 (Base 5)
 
-### **Weigh the Sky Sacrifice**
+### Weigh the Sky Sacrifice
 
 Level 10
 
@@ -1774,9 +1774,9 @@ This incantation gives the sorceress knowledge of the Might score of a targeted 
 
 (Base 10)
 
-### **Papaios Nux**
+### Papaios Nux
 
-### **Cleansing the Sky's Face**
+### Cleansing the Sky's Face
 
 Level 20
 
@@ -1830,7 +1830,7 @@ This incantation grants a +3 recovery roll bonus to a woman in childbirth. Depen
 
 (Base 2, +1 Cousin, +2 Hour)
 
-### **The Blade of Menhit**
+### The Blade of Menhit
 
 Level 10
 
@@ -1840,7 +1840,7 @@ This incantation delivers a Medium wound to the target. Menhit was an ancient Eg
 
 (Base 10)
 
-### **Piecing the Titan's Eye**
+### Piecing the Titan's Eye
 
 Level 25
 
@@ -1878,9 +1878,9 @@ Ma'at Soma spells allow a sorceress to gain information about the target. The mo
 
 **Level 10:** Discern all information about a human target.
 
-### **Ma'at Soma**
+### Ma'at Soma
 
-### **The Discerning Eye**
+### The Discerning Eye
 
 Level 5
 
@@ -1904,7 +1904,7 @@ Papaios Soma spells close the body for healing purposes, much like suturing a wo
 
 **Level 20:** Heal a Heavy wound (Kardia requisite).
 
-### **The Distant Eye**
+### The Distant Eye
 
 Level 20
 
@@ -1916,9 +1916,9 @@ This incantation allows the caster to view a target with whom she has a personal
 
 
 
-### **Papaios Soma**
+### Papaios Soma
 
-### **The Iron Gag**
+### The Iron Gag
 
 Level 3
 
@@ -1928,7 +1928,7 @@ This incantation forces a target's mouth closed, which can be a great hindrance 
 
 (Base 1, +1 Cousin, +1 Exchange)
 
-### **The Soothing Balm of Antiope**
+### The Soothing Balm of Antiope
 
 Level 20
 
@@ -1938,7 +1938,7 @@ This incantation grants a +3 recovery bonus to a wounded target. The incantation
 
 (Base 2, + 1 Cousin, +4 Month)
 
-### **The Shield-Sister Made Whole**
+### The Shield-Sister Made Whole
 
 Level 45
 
@@ -1997,7 +1997,7 @@ The base Range and Duration for Zoi incantations is Cousin and Hour.
 
 **Alala Zoi**
 
-### **Summon the Slain Sister**
+### Summon the Slain Sister
 
 Level 5
 
@@ -2007,7 +2007,7 @@ This incantation summons an Amazon spirit of Might 5 or less. The spirit must ha
 
 (Base 5)
 
-### **Contact the Fallen Amazon**
+### Contact the Fallen Amazon
 
 Level 15
 
@@ -2061,9 +2061,9 @@ Styliane is recently dead, having succumbed to the Sacred Sickness in the late t
 
 (Base 5, +2 Unseen Stranger)
 
-### **Ma'at Zoi**
+### Ma'at Zoi
 
-### **The Presence of a Meddling Sorceress**
+### The Presence of a Meddling Sorceress
 
 Level 2
 
@@ -2073,7 +2073,7 @@ This spell tells the caster if a targeted Amazon is under the effects of an Amaz
 
 (Base 2)
 
-### **View the Steadfast Protector**
+### View the Steadfast Protector
 
 Level 3
 
@@ -2081,7 +2081,7 @@ R: Cousin, D: Hour, T: Ind
 
 The sorceress can see an incorporeal Amazon spirit standing in proximity to her. (Base 3)
 
-### **Order the Slain Servant**
+### Order the Slain Servant
 
 Level 5
 
@@ -2092,7 +2092,7 @@ This incantation controls a summoned Amazon spirit of Might 5 or less. While the
 (Base 5)
 
 
-### **Measure the Thread of Life**
+### Measure the Thread of Life
 
 Level 10
 
@@ -2102,7 +2102,7 @@ This rite measures the expected, natural life of a woman. Traditionally, it was 
 
 (Base 10)
 
-### **Spot the Taint of Bonisagus**
+### Spot the Taint of Bonisagus
 
 Level 10
 
@@ -2124,7 +2124,7 @@ R: Seen Stranger, D: Hour, T: Ind
 
 **Reputations:** Fierce Warrior 4 (Amazons) **Abilities:** Amazon 5 (military terms), Amazonia Lore 3 (generals), Bow 6 (Scythian bow), Ride 3 (mounted combat), Hunt 2 (tracking), Single Weapon 9 (sagaris), Teaching 3 (single student)
 
-#### **Powers:**
+#### Powers:
 
 *Donning the Corporeal Veil*, 5 points, Init - 2, Terram. Helene can create a body made out of dirt to interact with others, pulling the dirt from the ground to form her body.
 
@@ -2153,7 +2153,7 @@ to distinguish between the Gift and Supernatural Virtues the target may possess.
 
 (Base 5, +1 Seen Stranger)
 
-### **Persuade the Reluctant Mistress**
+### Persuade the Reluctant Mistress
 
 Level 30
 
@@ -2163,9 +2163,9 @@ This incantation controls a summoned sorceress spirit of Might 20 or less and fo
 
 (Base 20, + 2 Month)
 
-### **Papaios Zoi**
+### Papaios Zoi
 
-### **Salting the Spirit's Grave**
+### Salting the Spirit's Grave
 
 Level 10
 
@@ -2211,7 +2211,7 @@ For all intents and purposes, Viea is a monster. Her mind, once human, is now co
 
 **Abilities**: Amazon 5 (military phrases), Amazon Cult Lore 7 (Zoi rites), Amazonian Chant 5 (Kardia), Amazonian Spellcraft 6 (inventing incantations), Artes Liberales 2 (logic), Athletics 2 (running), Awareness 2 (spying), Bows 6 (Scythian bow), Brawl 3 (dodge), Concentration 3 (ignoring pain), Finesse 4 (aiming), Greek 5 (poetry), Guile 2 (secret motivations), Great Weapon 4 (Sagaris), Hermetic Magic Theory 1 (original research), Infernal Lore 3 (demons), Latin 5 (Hermetic usage), Leadership 3 (raiding party), Magic Lore 3 (magic animals), Order of Hermes Lore 1 (House Bonisagus), Penetration 5 (Corpus), Ride 2 (charging), Scythia Lore 3 (geography), Scythian 3 (local dialect), Single Weapon 3 (labrys), Stealth 5 (sneak), Survival 3 (steppes), Teaching 3 (apprentices), Thessaly Lore 2 (The Witches of Thessaly)
 
-#### **Powers:**
+#### Powers:
 
 *Call the Night*, 2 points, Init +6, Vim. This power plunges a target 100 paces wide, 100 paces deep, and 100 paces high into complete darkness. R: Seen Stranger, D: Hour, T: Ind
 
@@ -2226,7 +2226,7 @@ a targeted spirit's Might. The sorceress must be able to see the ghost to target
 
 (Base 5, +1 Seen Stranger)
 
-### **Gag the Sons of Bonisagus**
+### Gag the Sons of Bonisagus
 
 Level 20
 
@@ -2238,7 +2238,7 @@ Originally invented by the Amazon sorceress Viea, this incantation robs a Gifted
 
 ### Rival Magic
 
-### **Extend the Servant's Service**
+### Extend the Servant's Service
 
 Level 35
 
@@ -2397,7 +2397,7 @@ In 1135 Naples rose again with the barons of the south, and owing to the legend 
 
 In the summer of 1139 the Pope himself led an army to attack the Kingdom of Sicily, until he was captured in an ambush and was forced to cede Capua to Roger. Having seen off the Byzantine, imperial, and now papal troops, Roger turned his attention to revenge. Rebellious nobles were hanged, drowned, or thrown screaming from towers, as Roger took terrible vengeance on those who had betrayed their oaths to him. Finally in 1139, Naples once again submitted to Roger, again on very favorable grounds. But by now it was clear to King Roger that something strange, perhaps magical, was behind the city's incredible strength.
 
-### **The Story of Ludowicus**
+### The Story of Ludowicus
 
 In August 1139, the citizens of Naples had reason to fear Roger's wrath. When a Norman scholar came to the gates and declared he had come to seek the tomb of the ancient Roman poet Virgil, no objection was raised. This Englishman, Ludowicus, would surely fail in such a foolish quest? Yet some were frightened — did not the legends say that while the bones of Virgil slept peacefully in the city, that it could never fall to an enemy, or be sacked? Throughout the hot summer days curious boys followed the scholar, as he poked around ancient Roman ruins, and climbed over crumbling piles of masonry. It was those boys' shouts that first roused the crowd — the Englishman had vanished! They had been following him, and suddenly he had disappeared right before their eyes, close by a rocky hill, just a mile outside the city.
 
@@ -2430,7 +2430,7 @@ So who was Virgil, whose magical legacy the Brotherhood embraces? Everyone in My
 
 is also the book used to teach Latin and grammar. Anyone possessing a score in Latin or Artes Liberales has read many of its passages, and been forced to construe them in their vernacular, making them perhaps more familiar with this book than any other. Every educated person knows something of the life of Virgil, and the stories about him as told in inns, by troubadours at court, and in the marketplace. Indeed, the biography of Virgil appears in the front of almost every grammar text used by apprentices.
 
-### **The Biography of Virgil**
+### The Biography of Virgil
 
 Publius Vergilius Maro, whom we know as Virgil, was a Mantuan born of humble parents. His father was a beekeeper employed by a summoner named Magus. He married the magician's daughter, and became rich by buying up woodlands.
 
@@ -2458,7 +2458,7 @@ As he lay dying, he dictated his will, and then demanded that the now almost
 
 entirely finished *The Aeneid* be burned. His friends wept but agreed, but as soon as he was dead Augustus countermanded the order and finished the last few lines that Virgil was revising. It is thanks to this interference that we have *The Aeneid* today.
 
-## **The Growth of the Brotherhood**
+## The Growth of the Brotherhood
 
 Ludowicus worked within one of the most fascinating courts in Mythic Europe. The court of King Roger II brought together three religious groups — Orthodox Christianity, Latin Christianity, and Islam — and the many diverse peoples of southern Italy. The civil service that developed created a complex state, with power centralized in the court at Palermo, and with law, finance, and administration all under the eye of the king and his bureaucrats. Within the many tiers of civil government, the Brotherhood founded by Ludowicus quietly plotted, their magical prowess developing with generous patronage from their royal sponsors.
 
@@ -2476,7 +2476,7 @@ Tancred died of a "sickness" that was perhaps murder. His young son, aged only t
 
 Henry died suddenly of malaria in 1197. His three-year-old son, Frederick, took the crown of Sicily. The Brotherhood moved to take over his education, and defend his regency — this child, showing exceptional intelligence and aptitude for learning, seems to be the one they've awaited. They plot his path to glory, and swear that he will be the new Augustus, the ruler of the new empire. Now 26 years old and both Holy Roman Emperor and King of Sicily in 1220, in time he will become known as "Stupor Mundi" — the wonder of this world.
 
-## **The Brotherhood and Frederick II**
+## The Brotherhood and Frederick II
 
 In 1220, a Saracen revolt has led to many disaffected Muslims conducting guerrilla warfare from the mountains of central Sicily (if your saga follows history, Frederick successfully suppresses it this year). Despite this, the court of King Frederick II of Sicily retains the ethnically and religiously diverse character of earlier monarchs. He is also a great enthusiast for learning of any kind, and a dedicated patron of the arts, including the magical arts. With the Brotherhood he has done much to encourage magicians from all over Europe to join his court, and, unsurprisingly given their role in his upbringing, to encourage a major revival of interest in poetry. Alongside Latin verse, some poetry is being written in the Sicilian vernacular, fueling intense conflict between rival factions in the Brotherhood as to the desirability of this innovation. Within four years his plans to found a university will see fruit in the University of Naples. With a strong tendency towards empiricism, he is known to personally conduct occasional research in experimental philosophy, though his love of his menagerie and his particular passion for falconry often distract him. Perhaps a less desirable outcome of his upbringing is his intense religious skepticism; it is said he delights in blasphemies and mocking religions, and some have whispered that he has denounced Moses, Jesus, and Muhammad as all being frauds and deceivers of
 
@@ -2546,7 +2546,7 @@ Sortes Virgilianae may not be performed without a full copy of *The Aeneid*. One
 
 If the divination needs to penetrate Magic Resistance, then Penetration is calculated as:
 
-#### **Penetration:**
+#### Penetration:
 
 **Sortes Virgilianae Divination Total + Penetration Ability – Ease Factor**
 
@@ -2567,7 +2567,7 @@ The following bonuses may apply, based on the mundane contents of Virgil's text.
 
 Multiple bonuses may stack. For example,a question about Rome or Troy automatically gains a +8 bonus to the roll: +3 for city, +5 for Rome or Troy.
 
-## **Sortes Virgilianae Ease Factors**
+## Sortes Virgilianae Ease Factors
 
 **Ease Factor:** 9
 
@@ -2577,15 +2577,15 @@ Multiple bonuses may stack. For example,a question about Rome or Troy automatica
 
 level 50 or higher. Detect the presence of a mystical aura. Detect the presence of raw vis.
 
-#### **Ease Factor:** 12
+#### Ease Factor: 12
 
 **Effect:** Get an image of water within range. Learn a natural property of a liquid. Sense one property of the air, such as if it is safe to breath. Sense the state of consciousness of a beast. Locate a person to whom you have an Arcane Connection. Locate a plant. Learn general information, or a single specific fact about a plant or an item made from plant product. Learn one visible property of a stone, earth, or metal object (a property that someone with appropriate skills could determine just by looking). Detect magic of level 30 or higher. Detect the entrance to a regio, allowing access. Determine the power and nature of a mystical aura.
 
-#### **Ease Factor:** 15
+#### Ease Factor: 15
 
 **Effect:** Sense the dominant drive of a beast. Learn the age, origin, and history of something made out of animal products. Learn a specific fact about an animal's body. Learn all the magical properties of a liquid. Sense very general information about a human body, like "is she sick?" Learn the magical properties of a fire. Divine the current state of consciousness of one intelligent being, like "is the guard sleeping?" Divine a single emotion in a being. Detect magic of level 15 or higher. Judge the amount of vis present. Discern the Art of vis.
 
-#### **Ease Factor:** 18
+#### Ease Factor: 18
 
 **Effect:** Learn all the magical and mundane properties of a mixture of liquids. Sense all useful information about a body. Sense all of the emotions in a being, including conflicting emotions and their relative strengths. Learn a fact that could be ascertained by an observer present in the target location by simple observation, like "is the city under siege?" or "is there water in the jar?" or even "is Theodoric in his sanctum?" Learn all the natural properties of a stone, earth, or metal object. Detect any active magic and any trace of positive magnitude left by earlier magic.
 
@@ -2593,15 +2593,15 @@ level 50 or higher. Detect the presence of a mystical aura. Detect the presence 
 
 Detect the sigil of any magic you have detected. Detect the Blatant Gift. Detect whether a creature or person has a mystic Might score, and which realm it is allied with (but note that demons are not discernible by this method).
 
-#### **Ease Factor:** 21
+#### Ease Factor: 21
 
 **Effect:** Divine a single answer from the mind of a target. Detect The Gift in an individual. Detect whether a statement made in your presence by another is a lie.
 
-#### **Ease Factor:** 24
+#### Ease Factor: 24
 
 **Effect:** Discern the magical properties of a magical item, though not how to activate them. Detect the Gentle Gift in an individual.
 
-### **Improving Sortes Virgilianae**
+### Improving Sortes Virgilianae
 
 Sortes Virgilianae may be improved by practice, or by books written by another practitioner, or by being taught. But it is usually learned by in-depth study of *The Aeneid,* which is a Level 10, Quality 8 summa for this purpose.
 
@@ -2622,7 +2622,7 @@ Note that Target: Pentagram Wards receive a Penetration Multiplier Bonus of +5 (
 
 To calculate the casting time for a Vigilo rite, take the final Ease Factor and divide by six, rounding up. This is the number of 15-minute periods needed to complete the rite. For example, an Ease Factor 39 rite takes 7 x 15 minutes, so one hour forty five minutes to cast.
 
-#### **Vigilo Rite Casting Time: (Ease Factor/6) x 15 minutes**
+#### Vigilo Rite Casting Time: (Ease Factor/6) x 15 minutes
 
 Rituals do not take any longer than any other Vigilo rite, but do require vis expenditure equal to the Ease Factor divided by six, rounded up. For example, an Ease Factor 39 rite would require 7 pawns of appropriate vis to be expended.
 
@@ -2653,7 +2653,7 @@ On first having his Gift opened to Virgilian Magic, the wizard chooses one Schoo
 
 Even Ritual Virgilian magic does not benefit from the Artes Liberales and Philosophiae bonuses that Hermetic magi gain, and Virgilian magic is incompatible with sympathetic magic bonuses. These flaws represent the weak nature of the Virgilian magic theory, which is not an integrated system of magical understanding like Bonisagus' Hermetic magic theory. Rather, it's a piecemeal system based upon following ancient traditions that work, but which lack understanding of how. Virgilian magic is a poetic art, not a science.
 
-### **Designing Vigilo Rites**
+### Designing Vigilo Rites
 
 Wizards learn rites, and each rite is learned as if it was an Art, and advances as an Art. So Virgilian magic requires an individual score for each rite, but unlike Hermetic spells the score may be improved at any time by the usual methods (practice, being taught, or even reading a tractatus on this specific rite) without having to reinvent a new version of the rite each time.
 
@@ -2690,7 +2690,7 @@ A Vigilo rite includes its magical effect, which must be to:
 
 Vigilo rites must penetrate Magic Resistance as normal. If the initiator has Magic Resistance higher than the Penetration of the rite, the Vigilo rite is not triggered. Target: Pentagram rites do, however, have a +5 Penetration Multiplier Bonus, and this multiplier can lead to very high-Penetration wards.
 
-### **Range, Duration, and Target**
+### Range, Duration, and Target
 
 Range, Duration, and Target for Vigilo rites are calculated similarly to Hermetic spell guidelines, with two new Targets, three unused Targets, and one unused Range. Each step of increase in Range, Duration, or Target adds +3 to the Ease Factor required.
 
@@ -2713,7 +2713,7 @@ Virgilian magic does not use Circle, Individual, or Part Targets.
 
 Virgilian magic can utilize the new Targets of Pentagram, equivalent to Part, and City, equivalent to Boundary.
 
-### **Words and Gestures**
+### Words and Gestures
 
 All Virgilian magic requires the loud declaration of a poetic series of stanzas to invoke the magic effect. Casting a rite is simply impossible if the Wizard cannot speak, and speaking in a normal voice gives a –6 penalty to the Casting Total, speaking in a soft voice –12. Freedom of movement and gestures is less important — if seriously impeded a –3 penalty is suffered, but no bonus can be gained for extravagant gestures.
 
@@ -2742,7 +2742,7 @@ Targets and Sizes work as for Hermetic Magic (see **ArM5**, page 113) with each 
 
 Here follow example Vigilo rites, tailored towards the kinds of magic that the character's patron might request, rather than magic the wizard might design for her own benefit.
 
-## **Example School of Boreas Rites**
+## Example School of Boreas Rites
 
 **"So he speaks, and swifter than his words, he calms the swollen sea"**
 
@@ -2793,7 +2793,7 @@ A base Individual for the School is a pool of water about 5 paces (15 feet) acro
 
 **Ease Factor 24:** Destroy a small spring or well in the warded area.
 
-### **"We wandered uncertainly, in a dark fog"**
+### "We wandered uncertainly, in a dark fog"
 
 School of Boreas, Ease Factor 24, ritual
 
@@ -2803,7 +2803,7 @@ Another of Tomas' rites, this was designed to deal with urban unrest in Palermo.
 
 (Base 9 , Sun +6, City +9)
 
-### **"We've confidence in the waves, and the winds grant us calm seas"**
+### "We've confidence in the waves, and the winds grant us calm seas"
 
 School of Boreas, Ease Factor 30
 
@@ -2817,7 +2817,7 @@ example it might be cast to trigger when "Genoan warships enter the bay," leavin
 
 (Base 9, Sun +6, Boundary +9)
 
-### **"Then a dark-blue rain cloud settled overhead"**
+### "Then a dark-blue rain cloud settled overhead"
 
 School of Boreas, Ease Factor 24, ritual R: Touch, D: Sun, T: City
 
@@ -2843,15 +2843,15 @@ The base Individual is a large campfire or a fire in the hearth of a great hall.
 
 
 
-## **Example School of the Naiads Rites**
+## Example School of the Naiads Rites
 
-### **Pentagram of Warding Against Water**
+### Pentagram of Warding Against Water
 
 School of the Naiads, Ease Factor 18 R: Touch, D: Ring, T: Pentagram Wards all within the pentagram against mundane water.
 
 (Base 12 , Ring +6)
 
-### **"It is best now to calm the raging waves"**
+### "It is best now to calm the raging waves"
 
 School of the Naiads, Ease Factor 24 R: Touch, D: Sun, T: Structure
 
@@ -2877,7 +2877,7 @@ The base Individual for this School depends on the material involved. For sand, 
 
 **Ease Factor 18:** Hurl a stone projectile with enough force to do +15 damage (range increment of 20 paces).
 
-### **"We had set our course there when stormy Orion, rising with the tide, carried us onto hidden shoals"**
+### "We had set our course there when stormy Orion, rising with the tide, carried us onto hidden shoals"
 
 School of the Naiads, Ease Factor 24, ritual
 
@@ -2887,7 +2887,7 @@ When an enemy fleet enters the harbor, a fast-running current springs up expelli
 
 (Base 9 , Sun +6, Boundary +9)
 
-### **"I am him whom you see scouring the banks, with my full stream"**
+### "I am him whom you see scouring the banks, with my full stream"
 
 School of the Naiads, Ease Factor 27, ritual
 
@@ -2915,9 +2915,9 @@ A base Individual for rites of this School is a plant roughly one pace in each d
 
 **Ease Factor 18:** Ward something against mundane plant products.
 
-## **Example School of Prometheus Rites**
+## Example School of Prometheus Rites
 
-### **""Then in truth all Ilium seemed to collapse in flames"**
+### ""Then in truth all Ilium seemed to collapse in flames"
 
 School of Prometheus, Ease Factor 12 R: Touch, D: Diam, T: Room
 
@@ -2952,9 +2952,9 @@ products in the warded area. Cause a beast in the warded area pain, but do no re
 
 **Ease Factor 21:** Destroy a beast's minor senses. Inflict a Heavy Wound on an animal in the warded area. Cripple a beast's limb, so that it is unusable but could heal. Age a beast in the warded area by one twelfth of its natural lifespan, but only if the beast has already reached maturity.
 
-## **Example School of the Stones Rites**
+## Example School of the Stones Rites
 
-### **Pentagram Against Swords**
+### Pentagram Against Swords
 
 School of the Stones, Ease Factor 24 R: Touch, D: Ring, T: Pentagram
 
@@ -2962,7 +2962,7 @@ Wards everyone in the Pentagram against swords. This rite is triggered when some
 
 (Base 12, Ring +6, metal +6)
 
-### **Virgil's Vengeance**
+### Virgil's Vengeance
 
 School of Prometheus, Ease Factor 36, ritual R: Touch, D: Sun: T: City
 
@@ -2970,7 +2970,7 @@ Mimicking one of Virgil's best known magical feats, this rite extinguishes all f
 
 (Base 21, Sun +6, City +9)
 
-## **"And snatched his gleaming**
+## "And snatched his gleaming
 
 **sword from the sheath"**
 
@@ -2989,9 +2989,9 @@ Causes besieger's rock projectiles to drop short of the city walls by warding th
 
 (Base 12, Sun+6, City+9, stone +3)
 
-## **Example School of the Sylvan Dryads Rites**
+## Example School of the Sylvan Dryads Rites
 
-### **Pentagram to Ward the Woodland Dryads**
+### Pentagram to Ward the Woodland Dryads
 
 School of the Sylvan Dryads, Ease Factor 15
 
@@ -3001,7 +3001,7 @@ The Pentagram prevents any action against those inside from faeries of Might 15 
 
 (Base 15)
 
-### **Bici's Secured Dwelling**
+### Bici's Secured Dwelling
 
 School of the Sylvan Dryads, Ease Factor 27
 
@@ -3011,9 +3011,9 @@ If a certain phrase is shouted, the building's doors and shutters all slam shut,
 
 (Base 15, Sun +6, Structure +6)
 
-## **Example School of the Vigilant Bees Rites**
+## Example School of the Vigilant Bees Rites
 
-### **Pentagram Against Corrupted Beasts**
+### Pentagram Against Corrupted Beasts
 
 School of the Vigilant Bees, General R: Touch, D: Ring, T: Pentagram
 
@@ -3023,7 +3023,7 @@ The pentagram wards against all animals with an Infernal Might that is less than
 
 tion by the beast affecting those within, including spell effects and ranged attacks. (Base General)
 
-### **Pentagram Against Wolves**
+### Pentagram Against Wolves
 
 School of the Vigilant Bees, Ease Factor 3
 
@@ -3033,7 +3033,7 @@ Wards all within against mundane wolves. Note this is far more specific than the
 
 (Base 3)
 
-### **Pentagram to Terrify the Enemy's Horse**
+### Pentagram to Terrify the Enemy's Horse
 
 School of the Vigilant Bees, Ease Factor 15
 
@@ -3043,7 +3043,7 @@ The pentagram has no effect until crossed by a horse, at which point the horse i
 
 (Base 12,: Diameter+3)
 
-### **"Even the air is unkind to the birds, and they plunge headlong"**
+### "Even the air is unkind to the birds, and they plunge headlong"
 
 School of the Vigilant Bees, Ease Factor 24
 
@@ -3053,17 +3053,17 @@ Tomas invented this rite after Frederick's favorite falcon flew off during hawki
 
 (Base 3, Arcane Connection+9, Sun+6, Structure +6)
 
-### **Learning Vigilo Rites**
+### Learning Vigilo Rites
 
 Vigilo rites are not, unlike Hermetic formulaic spells, a carefully learned formula that may be employed with confidence, but represent study of a specific effect, with reference to individual aspects that the more general Hermetic formulaic spells neglect. Unfortunately, being subject to astrological influences and varying magical fields, they are also in no sense as reliable as Hermetic spells.
 
 A specific rite may be learned in any School known to the wizard with a score of at least 1, and is treated as an Art. Thus, each individual rite has its own score that is employed in the Casting Score formula. Rites can be learned in the same ways as any Ability, including practice and teaching. When practicing rites, the wizard does not actually have to cast the final rite to achieve this — there is no need to expend the vis to practice a rite, or risk the botch dice. It is equally possible to practice Schools, and the Sortes Virgilianae Practice if a copy of *The Aeneid* is available.
 
-### **Laboratory Research**
+### Laboratory Research
 
 It is possible to improve a rite more quickly by experimenting in a laboratory if available for a season. It is not necessary to spend vis or cast the rite, instead the focus is on understanding the principles underlying this specific rite. The experience gained depends on the following formula:
 
-#### **Experience Gained: Intelligence + Virgilian Theory + similar rite bonus +Aura Modifier**
+#### Experience Gained: Intelligence + Virgilian Theory + similar rite bonus +Aura Modifier
 
 Remember, rites advance as Arts not as Abilities, using the Art experience progression. A completely new rite may be learned this way in any School in which the wizard has a score of at least 1. It is common for wizards to start to learn a rite they have no hope of casting, and slowly refine their understanding, improving their score in that rite until they can actually cast it.
 
@@ -3079,7 +3079,7 @@ Not all animations are capable of movement. Some, like the statue holding a horn
 
 A human or animal form is not necessary — the Palladium (see later) that protected Naples from invasion was in the form of a glass egg with a model of the city within. (A scratch in the glass allowed the final fall of the city, as noted in the discussion of that device and the Castello dell' Ovo.)
 
-### **Vulnerability**
+### Vulnerability
 
 Animations, as created magical creatures, are permanent magical effects. But each is flawed in that physical damage to one part of the being, known as the *animating principle*, can end the effect and render it inert. Once this weakness is learned and ex-
 
@@ -3091,14 +3091,14 @@ ploited, even if accidentally, the animating spirit is released back to the Magi
 
 Once the animating spirit has left, the animation may not be repaired by any means available to a Virgilian wizard. However most non-Virgilians, including Hermetic magi, do not know of the existence of vulnerabilities, and are unlikely to look for them.
 
-## **Preparing an Item for Animation**
+## Preparing an Item for Animation
 
 The first stage is to prepare the item. The item in question must be an Excellent piece of craftsmanship, which means it will cost at least five times the normal cost, and must be made by a highly skilled craftsman. (See *City & Guild* page 67 for a full discussion of how such items can be constructed.) Ev-
 
 
 It is first necessary to calculate the animation's base Magic Might.
 
-#### **Animation Base Magic Might: (10 + Size + Material Base Points)/2**
+#### Animation Base Magic Might: (10 + Size + Material Base Points)/2
 
 So for example a Size 0 hard stone statue of a Gladiator is (10 + 0 + 4)/2, for a base Magic Might of 7. Note that while the Material Base Points (see **ArM5**, page 97) are used, the Size modifiers from that table are not. If a bronze sword were added to the statue and a sapphire in its brow, this would add to the Magic Might — and also the time and vis required for preparation. The number of materials used is limited by the wizard's score in Animo.
 
@@ -3106,14 +3106,14 @@ Next the object to be animated must be enchanted with vis of any type the troupe
 
 The maximum vis that can be used in preparation per season is
 
-#### **Maximum Vis Use per Season: (Animo + Virgilian Theory) x2**
+#### Maximum Vis Use per Season: (Animo + Virgilian Theory) x2
 
 It is likely that several seasons' work will be required to ready the item for animation, but they do not need to be consecutive for this purpose. The wizard must decide whether the animation is static, like a statue, or mobile as appropriate to its shape. A statue of a man may walk or run, and a horse may be ridden or gallop, for instance. The wizard may also decide whether any sense organs represented,
 
 
 like eyes or ears, should be functional. An animation that does not move and is not aware of its environment is significantly easier to make.
 
-### **Awakening the Animation**
+### Awakening the Animation
 
 A season must now be dedicated to a series of magical workings to awaken the spirit of the item. If the statue is to be mobile, add 6 to the Ease Factor required. If the item is to be able to use its sense organs as if alive, they must be represented on the item, and this adds 6 to the Ease Factor (Multiple senses can be awakened for the single +6 cost). Mobile items almost by definition require eyes at least, to be able to see where they are going. Awakening the spirit requires a test against an Ease Factor as follows:
 
@@ -3129,19 +3129,19 @@ The animation should be designed with 7 points divided among the Characteristics
 
 On awakening, the animation can immediately be granted a single General or Martial Ability at a score of 3, appropriate to its shape and purpose. The animation is now complete. It may operate completely independently of the wizard, but will attempt to fulfill any request made by its creator.
 
-### **Further Refinements**
+### Further Refinements
 
 Mobile and aware animations may be taught Abilities. This follows the normal rules for advancement, but the animation must subtract its Might from the Advancement Total every season. If this reduces the total to zero or lower, it learns nothing that season. The penalty may be reduced by 2 points for every pawn of vis sacrificed during the teaching, so that an animation with a Might of 7 can be taught without penalty at a cost of 4 pawns of vis per season.
 
 The total of an animation's scores in all Abilities may not exceed the animation's Magic Might + Intelligence.
 
-#### **Limit on Animation Abilities: Magic Might + Intelligence**
+#### Limit on Animation Abilities: Magic Might + Intelligence
 
 Anyone may teach an animation, and it is common for a wizard to ask an acquaintance to teach the animation an Ability he does not personally possess, such as asking the captain of the guard to teach the animation Single Weapon (sword).
 
 Animations cannot speak, as noted above, and so cannot be taught to do so, nor taught any Abilities that rely on speech. They can be taught to understand languages, however. In addition, animations do not have The Gift, and thus cannot be taught any Supernatural Abilities or Virgilian magic — or, indeed, any other form of magic.
 
-### **Inscribing Magic in Animations**
+### Inscribing Magic in Animations
 
 It is often the case that a wizard wishes to place a magical effect within an animation he has created — indeed, this is the primary purpose of most animations. Magic may be inscribed on the spirit in an animation in a manner similar to how Hermetic magi may instill effects in enchanted devices.
 
@@ -3237,17 +3237,17 @@ If the player fails to avoid the entity's attention, the character's relationshi
 
 Once a wizard has attracted a particular entity's attention, all further occurrences of Fated Destiny draw the attention of the same entity, at least unless the wizard resolves the issues in stories. The gods are capricious, and the same entity often blesses or curses the character, in line with its plans and whims.
 
-### **Favored by Fortune**
+### Favored by Fortune
 
 Usually positive effects of successful Entreating the Fates rolls are represented by gaining an appropriate Minor Virtue, or by an award of 5 to 10 XP in a relevant (Realm) Lore, rite, or Supernatural Ability. Occasionally entities may grant knowledge of rites directly. The first Virtue gained is often the Supernatural Ability Premonitions. Major Virtues such as Ghostly Warder (a spirit linked to the entity rather than a ghost), Death Prophecy, Greater Immunity, and Greater Purifying Touch can sometimes be appropriate, if the event was triggered by gaining a particularly large number of Warping Points.
 
-### **Cursed by the Fates**
+### Cursed by the Fates
 
 Negative effects of failed Entreating the Fates rolls are represented by Flaws. The Minor Flaw Visions is always the first gained, while the first Major Flaw gained is Plagued by Supernatural Entity, which reflects the entity's interest in the character. The entity often places the character in situations where his own personality traits come into play, relying on his flaws to shape the character's path or make him pursue a course of action that ultimately ends in tragedy. Such subtle meddling in mortal affairs never directly controls the character, but instead allows his own traits to lead him to conflict and adventure, and forces hard choices upon him. Note that, once this Flaw has been gained, the entity interferes even when the wizard does not botch his magic or gain Warping in any other way.
 
 For later incidents, the following Flaws are appropriate: Susceptibility to (Realm) Power, Ambitious, Curse of Venus, Enemies, Higher Purpose, Lesser Malediction, No Sense of Direction, Overconfident, Prohibition, Supernatural Nuisance, Warped Magic, Weird Magic, Deleterious Circumstances, and Vow.
 
-### **Gates of Avernus**
+### Gates of Avernus
 
 Once the wizard's Warping Score reaches 7, the character becomes subject to long visionary trances, in which he sees what appear to be the magical ghosts of those he knew on Earth who have died. His body lies as in a coma, requiring no nourishment, and his spirit passes into a place that resembles Virgil's depiction of the underworld. Here he witnesses the punishment of the sins people committed in life, and those he has personally slain or wronged berate him for his crimes. During this vision, which may last for many days, the character converses with the shades of the dead. The wizard usually gains at least one and occasionally several new Flaws relating to his past misdeeds against the dead. These Flaws may be removed by a story in which the character seeks atonement by carrying out some action. It is also rumored to be possible to remove the Flaws by renouncing magic, truly repent-
 
@@ -3266,7 +3266,7 @@ After being approached by the Brotherhood, prospective wizards are placed in the
 
 On reaching the required minimum levels in the Abilities taught during apprenticeship, the prospective wizard is prepared for the Opening of his Gift, and is taken to the tomb of Virgil in Naples. A gathering of several wizards then conducts the rites to bring him formally into the Brotherhood.
 
-## **Opening the Gift: The Tomb of Virgil**
+## Opening the Gift: The Tomb of Virgil
 
 The Opening ceremony is conducted either by the Grandmaster of the Brotherhood, or the apprentice's master. The character journeys with his master to the city of Naples, and is led to the tomb of Virgil and into the regio. The magical defenses are seen (see The Tomb of Virgil, later), but do not attack if the character is carrying a ceremonial wand and has the Ability Organization Lore: Augustan Brotherhood 1, which includes knowledge of the correct passwords and rites to proceed to the heart of the tomb. On entering a chamber with an empty coffin and everburning lamp, the initiate is greeted by the masked and robed assembly of wizards participating in the ceremony, and swears to uphold the rites of the Brotherhood. He makes a sacrifice of incense sprinkled into a fire to the genius of the true emperor. This pagan rite is clearly idolatrous, as are the invocations to Juno, Mercury, and the tutelary spirits that follow. As laurel leaves are heaped on the fire the initiate breathes in the fumes, and falls in to a deep dream-
 
@@ -3302,7 +3302,7 @@ He starts with a score of 1 in Sortes Virgilianae, 1 in Animo, and all Schools o
 
 This represents a newly initiated Virgilian wizard. If you wish to represent an experienced wizard, assign 30 additional experience points per year post-apprenticeship, or ten per free season. Setting up a laboratory takes two seasons. If vis resources allow, it is likely that the wizard will have created animations as well, and have a number of important political connections and servants.
 
-## **Training**
+## Training
 
 Wizards acquire knowledge of their magic in much the same way Hermetic magi do. Training by a master is usually the source of initial knowledge, followed by the initiations. But once the fundamentals of the tradition are known, the student studies from texts. The texts of wizards are written using the normal rules from **ArM5**, page 165. Only three seasons per year are available for personal advancement — the remaining season must be dedicated to direct magical support of the wizard's patron, be it developing new Vigilo rites to meet specific needs, creating an animation to serve in some way, or simply dedicating the season to divinations for his benefit. These tasks should be in keeping with the wizard's abilities and interests to some extent, and so not punitive — troupes should allow considerable freedom, but it must always be remembered that the wizard is a paid employee, and not as free as an Hermetic magi.
 
@@ -3310,7 +3310,7 @@ Wizards acquire knowledge of their magic in much the same way Hermetic magi do. 
 
 The following new Virtues are suitable for Virgilian wizards.
 
-## **Free Social Status, Court Wizard**
+## Free Social Status, Court Wizard
 
 The character is a court wizard, and has a Reputation (Court Wizard) in Mundane & Hermetic circles, starting at level 1. He has an employer, usually a prominent noble or even churchman, and can build a laboratory to research his magic. The reputation can act as a positive or negative, depending on the individual dealt with — Hermetic magi generally look with contempt on court wizards as petty hirelings, and they may not join the Order of Hermes. The wizard must spend at least one season a year working for the benefit of his employer, in exchange for which he is kept in some luxury, with a +1 Living Conditions modifier, and sev-
 
@@ -3318,7 +3318,7 @@ The character is a court wizard, and has a Reputation (Court Wizard) in Mundane 
 
 eral servants or guards. If the employer can feasibly obtain vis or other resources, he will do so to assist the wizard if asked. If desired, a second Social Status reflecting the character's former profession, such as Priest or Magister in Artibus, may be taken.
 
-## **Minor Special Virtue, Generous Master**
+## Minor Special Virtue, Generous Master
 
 The wizard's master spent time teaching more of the magic of the Brotherhood than is normal. The character gains 72 additional experience points to spend on rites, the Brotherhood's Supernatural Abilities and Arts, and Organization Lore: Augustan Brotherhood. This is roughly equivalent to the Hermetic Virtue Skilled Parens.
 
@@ -3528,7 +3528,7 @@ Each of the animations described here was created by Virgil himself, and possess
 
 Each is described in terms of the mechanics of the animation, so to act as models for storyguides' or players' own designs.
 
-### **The Musca — The Bronze Fly**
+### The Musca — The Bronze Fly
 
 Upon the great gate of Naples is a small bronze statuette of a fly, little larger than a hand span in size. This item is an animation with a magical effect that repels all flies from the city. It is mentioned in John of Salisbury's *Policratus* (1159), in the anonymous *Apocaylpsis Goliae* (c.1180), in Conrad of Querfurt's *Epistolata* (1196), and Gervasius of Tilsbury's *Otia Imperialia*  (1211). Hermetic magi may well hear rumors of it and seek it out. Byzantium has a gnat and a fly of similar design said to have been created by Apollonius of Tyana, and Paris is said to have had a magical statue of a rat in the sewers that kept them out, until it was destroyed.
 
@@ -3540,7 +3540,7 @@ Rite of the Vigilant Bees 21. Trigger: Activates at sunrise and sunset. Effect: 
 
 Base 3 R:Touch D:Sun +6 T: City +9, +3 for 2 uses per day.
 
-### **The Macellum — The Marble Block in the Meat Market**
+### The Macellum — The Marble Block in the Meat Market
 
 The meat market in Naples is an ancient building open to the skies. Food is prepared here every day. At one end is a plain marble block used as a table for preparing meat, which radiates magic. It has the effect of preserving all meat in the market from decay, and is well known to all market traders, who viciously assault strangers interfering with it. It is recorded in the book *De Naturis Rerum* by Alexander of Neckam, written in the 1190s.
 
@@ -3552,7 +3552,7 @@ Rite of the Vigilant Bees 21. Trigger: Activates at sunrise and sunset. Effect: 
 
 Base 6 R: Touch D: Sun +6 T: Structure +6, +3 for 2 uses per day.
 
-## **Ovum Incantum — The Palladium of Naples**
+## Ovum Incantum — The Palladium of Naples
 
 The best-known of Virgil's animations, this small glass egg can still be seen by request in the Castella dell' Ovo (Castle of the Egg), the great fortress of Naples. It contains a beautifully worked model of the city in pure gold, the sea in lapis lazuli, all contained within a glass egg, marred only by a hairline fracture. Magical investigation reveals no trace of magic, for this is a forged copy of the original, which was long ago removed from the city by the agents of the Brotherhood for investigation. Agents of the Brotherhood do, however, report those who show interest in the artifact. It is recorded in Conrad of Querfurt's *Epistolata* (1196) and is a frequent topic of local stories and minstrels' songs throughout Mythic Europe.
 
@@ -3589,7 +3589,7 @@ School of the Naiads 27. Trigger: Activated by the above rite. Effect: Wards mun
 
 Base 12 R: Touch D: Sun +6 T: Boundary +9
 
-### **The Bronze Horse**
+### The Bronze Horse
 
 In a square in Naples stands the statue of a bronze horse enchanted by Virgil. While it remains on its dais, it is said no horse in the city can break its back. It is recorded in Conrad of Querfurt's *Epistolata* (1196).
 
@@ -3605,7 +3605,7 @@ Effect: Prevents any horse in the city from breaking its back.
 
 Base 3 R: Touch D: Sun +6 T: City+9. +3 for 2 uses per day.
 
-### **The Ferrean Gate**
+### The Ferrean Gate
 
 Virgil conjured all the serpents in the city and magically trapped them under the Ferrean Gate, beneath an enchanted stone. No snake can live within the city. Conrad of Querfurt's writes about this in the *Epistolata* (1196), and it is also recorded by Gervasius of Tilsbury in his *Otia Imperialia* (1211).
 
@@ -3617,7 +3617,7 @@ School of the Vigilant Bees 24. Trigger: Activates at sunrise and sunset. Effect
 
 Base 3 R: Touch D: Mom T: City +9, +12 for unlimited uses per day.
 
-### **Virgil's Villa and Garden**
+### Virgil's Villa and Garden
 
 Outside the city stands Virgil's villa, now largely ruined though still inhabited. The herb garden here is enchanted with a wall of air, and can only be entered by those who know the right method to pass the invisible barrier. No rain ever falls in the garden, yet despite this many rare healing plants and flowers grow here with no trace of disease, their season unnaturally long. The site is carefully watched by the Brotherhood, and one of their most potent wizards makes his home here. It is noted in the book *De Naturis Rerum* by Alexander of Neckam (written in the 1190s), in the *Otia Imperialia* of Gervasius of Tilsbury (1211), and in Guiraut de Calanso's *Fadet Joglar* (1200).
 
@@ -3662,7 +3662,7 @@ Controls the gale force wind, causing it to circle the garden acting as an invis
 
 Base 9, R: Touch D: Diameter +3 T: Individual, +6 for unnatural effect, +12 unlimited uses a day
 
-### **The Statue with a Horn**
+### The Statue with a Horn
 
 When Naples is threatened by an eruption of Mount Etna, this marble statue blows its brass horn, and diverts lava flows and falling rocks from the city. Magi may learn of this from Conrad of Querfurt's *Epistolata* (1196), and it is also recorded by Gervasius of Tilsbury in his *Otia Imperialia* (1211).
 
@@ -3674,7 +3674,7 @@ Rite of the Stones 21. Trigger: Activates when the animation sees an eruption. E
 
 Base 6 R: Touch D: Sun +6 T: City +9, +3 for two uses per day.
 
-### **The Healthful Baths**
+### The Healthful Baths
 
 The Roman baths at Naples are always of the right temperature owing to the magics of Virgil, and the water is always pure and free from disease. They are said to possess magical curative properties owing to the exceptional quality of the everpure water. A stone in the bath floor is the source of the magic.
 
@@ -3688,7 +3688,7 @@ Rite of the Stones 24. Trigger: Activates at sunrise and sunset. Effect: Destroy
 
 Base 9 R: Touch D: Sun +6 T: Structure +6, +3 two uses a day.
 
-### **The Bones of Virgil**
+### The Bones of Virgil
 
 The bones of Virgil reside in a niche in a high tower of the Castle dell' Ovo, where they are protected by an iron grille like that one finds protecting reliquaries, and guarded day and night by Neapolitan soldiers (and extensive wards put in place by the Brotherhood.) If they are disturbed the sea in the harbor rises and a terrible tempest strikes, sufficient to destroy a fleet approaching the city. Once again the story is known through Conrad of Querfurt's *Epistolata* (1196), and Gervasius of Tilsbury in his *Otia Imperialia* (1211).
 
@@ -3698,7 +3698,7 @@ Of all the authors mentioned in this section, only Gervasius of Tilsbury and Joh
 
 Almost none of Virgil's magics in the city of Rome are known to survive. They reputedly included a magic scrying mirror, the Salvatio Romae, a group of statues of Roman soldiers that warned of rebellion in the provinces (and that exploded the day a virgin gave birth), and a stone horseman who rode the streets and struck dead with a sword any who broke curfew.
 
-## **La Bocca Della Verita — The Magical Face**
+## La Bocca Della Verita — The Magical Face
 
 One of the strangest items left in Rome by Virgil is the great round stone face known as La Bocca Della Verita. It was used in antiquity as a test of the fidelity of wives. If a woman was suspected of adultery by her husband, she was made to swear to have never embraced any other man, and place her fingers within the mouth. If she lied, the face bit them off. It is said that Virgil made it in spite after the affair of the basket.
 
@@ -3712,7 +3712,7 @@ Animation, mobile. Magic Might 7 (size 0, hard stone +4)
 
 Base 15 R: Touch D: Mom
 
-### **The Emperor's Sepulcher**
+### The Emperor's Sepulcher
 
 There remains one other artifact of Virgil's on display in Rome — Caesar's sepulcher. This is a great obelisk that stands in front of St. Peter's Basilica, and is surmounted by a great bronze ball that contains the ashes of Julius Caesar, still protected by Virgil's warding magics. The exact nature of the magical defenses is not known, but the *Mirablia Urbis Romae* reports the tale.
 
@@ -3722,29 +3722,29 @@ Virgilian magic is the source of potential breakthroughs for the magus who integ
 
 ## Sortes Virgilianae
 
-### **Suggested Breakthrough Points: 45**
+### Suggested Breakthrough Points: 45
 
 Virgilian Magic apparently breaks the Limit of Arcane Connections, but in fact does so utilizing the prophetic genius of Virgil, who in some unknown manner managed to break the Limit of Time, possibly directly by a blessing from the Divine. As such, Sortes Virgilianae is a major possibility for investigation, but the research in this field will result in a flawed and limited version of the Virgilian equivalent.
 
-## **Major Hermetic Virtue: Sortes Virgilianae**
+## Major Hermetic Virtue: Sortes Virgilianae
 
 Once integrated into Hermetic magic, the link between *The Aeneid* and the prophecies of Virgil is permanently broken for the integrated version of Sortes Virgilianae, so that the apparent breakthrough in the Limit of Arcane Connections proves illusory. However, the magus will come to understand why this has happened, and will learn the Mystery Virtue Hermetic Divination, as described in *The Mysteries Revised Edition*, page 58. (Note that the version of Sortes Virgilianae used by the Augustans remains sound, as does the Mystery Virtue Hermetic Divination.)
 
-### **Consequences of Integration**
+### Consequences of Integration
 
 This Mystery Virtue is already well known to some Mystery Cult magi, and they may be unhappy if it becomes more widely available. The researcher may face those groups' responses, or recruitment offers if his research interests become known to the Order at large.
 
 ## Improved Watching Spells
 
-#### **Suggested Breakthrough Points: 45**
+#### Suggested Breakthrough Points: 45
 
 Hermetic magic currently lacks a way of binding a Watching effect and a spell together without a separate ritual, *Watching Ward*, which requires vis.
 
-## **Minor Hermetic Virtue: Watching Spells**
+## Minor Hermetic Virtue: Watching Spells
 
 The magus is able to create *Watching Ward* spells that do not need to be cast as rituals. A prerequisite of the Form Vim is added to the spell, and vis is not required unless the spell would be a ritual anyway.
 
-## **Consequences of Integration**
+## Consequences of Integration
 
 The principal consequence of integrating this effect is to greatly increase the number of magical wards available to magi. This makes magical defenses far more prevalent, and slowly changes Hermetic culture as sanctums become more secure and magical "traps" more common.
 
@@ -3956,11 +3956,11 @@ His brother Fenrir is a mighty wolf, restrained in the underworld by a magical c
 
 ## Gandar Story Seeds
 
-### **A Gandur by Any Other Name**
+### A Gandur by Any Other Name
 
 A Muspelli hears about or witnesses a magus using an invested item that takes the form of his patron's gandur. This is an excellent way to introduce the Muspelli to a saga. Depending on the personality of the Muspelli, he may offer to buy it from the character, or he may simply attempt to take it.
 
-### **The Serpent's Heart**
+### The Serpent's Heart
 
 A Muspelli devoted to Surtur is asked to make an enchanted gandur. As well as requiring the raw ingredients, he also demands a fee: the heart of a magical serpent. He does not reveal that the serpent is the ally of a follower of Aegir.
 
@@ -4080,7 +4080,7 @@ The Opening procedure takes a whole season. The jotun teaches the Muspelli how t
 
 Over the course of the following six years the Muspelli remains secluded near the sacred site of his patron and receives periodic instruction from its Aspect. The Muspelli acquires 240 experience points to divide among any Abilities. At the end of this tutorial period, the Muspelli is a full-fledged magician equivalent to a magus who has just passed his gauntlet. Following his apprenticeship, a Muspelli is assigned the normal number of experience points for a companion character each year.
 
-### **Minimum Ability Scores**
+### Minimum Ability Scores
 
 After apprenticeship, a Muspelli must have a minimum score of 1 in the six Favored Supernatural Abilities of his patron. It is also a good idea for a Muspelli to have a score in the following Abilities: Concentration, Organization Lore: Muspelli, Dead Language: Jotun, and Penetration. Jotun is the language spoken by giants and the jotnar, and is also the sacred language of the Trollsynir as their equivalent of Pictish (*Hedge Magic*, page 56). However, Muspelli cannot understand or use the aspects of the jotnar language that serve as an equivalent to Magic Theory for the Trollsynir.
 
@@ -4093,7 +4093,7 @@ The etin-mod is at least five times more massive than the Muspelli's human form.
 
 Taking the etin-mod (and reverting to human form) takes one round, but does not require any Ability roll. The magic of adopting the etin-mod occurs only in the round in which the change takes place; there is no continuing magic that can be dispelled. The giant form is still considered to be under the purview of Corpus magics, but is no longer a base Individual since it is larger than Size +1. Like the Shapeshifter Ability, the magic empowering the transformation to and from etinmod occurs at the moment of the change but is not a continuing effect, so the physical attacks of this form are not stopped by Magic Resistance. Shapechanging magics (such as Muto Corpus spells) can force the character to revert form, but the Muspelli can simply change forms again in the following round.
 
-### **Designing the Etin-Mod**
+### Designing the Etin-Mod
 
 The initial form of the etin-mod is determined once, at character creation. It is a central feature of a Muspelli character, and its game statistics can be altered over time by communing with one's jotun patron (see Summoning the Jotun Patron, later), so it is worth producing a second
 
@@ -4103,7 +4103,7 @@ The following Major Supernatural Virtues are described later under Trolldomur. E
 
 Hex Sjonhverfing Spadomur Storm's Eye Summon Animals Threads of Fate Valgaldrar Wildfire Winter's Breath
 
-### **New Virtue: Muspelli**
+### New Virtue: Muspelli
 
 *Free, Social Status*
 
@@ -4111,7 +4111,7 @@ The character has been initiated into the ways of the Muspelli, and has access t
 
 "Muspelli" means little to the common Norseman or someone from outside Scandinavia, but strikes fear into the hearts of Norse magicians from other traditions. Should this affiliation become known, the character will be treated as if he had the Outsider Major Flaw.
 
-### **New Flaw: Horrifying Appearance — Three Heads**
+### New Flaw: Horrifying Appearance — Three Heads
 
 *Major, Supernatural*
 
@@ -4140,7 +4140,7 @@ a –6 to all social interaction rolls due to his highly unnatural appearance.
 
 **Magic**: When using any of his Supernatural Abilities during an etin-mod episode, the Muspelli can produce more powerful effects as described later under Trolldomur.
 
-### **Maintaining the Etin-Mod**
+### Maintaining the Etin-Mod
 
 The etin-mod cannot be maintained indefinitely. For every hour (or part thereof) that the character maintains the unnatural form, he must make a Deprivation roll (**ArM5**, page 180). While this roll uses the Stamina of the etin-mod, the Fatigue and Wound Penalties that result from failed rolls apply to the human form, and do not penalize any activities of the etinmod except for future Deprivation rolls to maintain the giant form. Fatigue and Wound Penalties resulting from sources other than this Deprivation roll affect the etin-mod as normal. Fatigue levels lost from maintaining the etin-mod are Long-Term Fatigue levels. If a Muspelli returns to his etin-mod within an hour of leaving it, the Ease Factor for the Deprivation roll resumes at the level it had reached when he took human form; if it has been more than an hour, then it starts again at 3.
 
@@ -4239,7 +4239,7 @@ Instead of Wizard's Twilight, whenever a Muspelli gains 2 or more Warping Points
 
 **Personality Traits**: Brave +5, Judgmental +3
 
-#### **Combat**:
+#### Combat:
 
 *Axe and Round Shield* (unmounted): Init +2, Attack +16, Defense +12, Damage +6
 
@@ -4253,7 +4253,7 @@ Instead of Wizard's Twilight, whenever a Muspelli gains 2 or more Warping Points
 
 **Pretenses**: Awareness 9 (battlefields), Brawl 9 (einherjar), Ride 5 (wolf), Single Weapon 9 (giants)
 
-#### **Powers**:
+#### Powers:
 
 *Fly*: 0 points, constant, usually Corpus (2 intricacy points on cost)
 
@@ -4265,7 +4265,7 @@ Instead of Wizard's Twilight, whenever a Muspelli gains 2 or more Warping Points
 
 This valkyrie responds to failed Heipt roll by a Muspelli with a Warping Score of 4. Her abilities and powers should be adjusted appropriately for a weaker or stronger encounter. See *Realms of Power: Faerie* for more details on Faerie characters and powers.
 
-### **Ease Factor:**
+### Ease Factor:
 
 **Warping Score + number of Warping Points gained + aura modifier + stress die (no botch)**
 
@@ -4291,7 +4291,7 @@ Leadership among the Muspelli is a product of pure force. A physically and magic
 
 ## Example Character: Kotkill Ulfsbrodir
 
-### **Human Form**
+### Human Form
 
 **Characteristics:** Int 0, Per 0, Pre –1, Com 0, Str +1, Sta +3, Dex +1, Qik 0
 
@@ -4305,7 +4305,7 @@ Leadership among the Muspelli is a product of pure force. A physically and magic
 
 +2, Feral +1.
 
-#### **Combat:**
+#### Combat:
 
 *Fist*: Init 0, Attack +7, Defense +6, Damage +1
 
@@ -4325,7 +4325,7 @@ Leadership among the Muspelli is a product of pure force. A physically and magic
 
 Thanks to his Gift, Kotkill was abandoned in the wild as a baby. Fortunately for him, the pack of wolves who found him were lead by a Wolf of Virtue (see *Realms of Power: Magic*, page 55) who decided to raise him rather than eat him. His foster brother still runs at his side to this day. Despite having the gluttonous appetite common among wolves, Kotkill need not eat; but he takes great pleasure in doing so. Kotkill's casting sigil is gnawing hunger felt by his targets.
 
-### **Etin-Mod**
+### Etin-Mod
 
 **Characteristics:** Int 0, Per 0, Pre –1, Com 0, Str +4, Sta +4, Dex +2, Qik 0
 
@@ -4337,7 +4337,7 @@ Thanks to his Gift, Kotkill was abandoned in the wild as a baby. Fortunately for
 
 **Personality Traits:** Glutton +3, Loner +2, Feral +1.
 
-#### **Combat:**
+#### Combat:
 
 *Teeth*: Init 0, Attack +11, Defense +7, Damage +9
 
@@ -4360,7 +4360,7 @@ Thanks to his Gift, Kotkill was abandoned in the wild as a baby. Fortunately for
 
 ## Example Character: Gunnvara Jarnvidja
 
-### **Human Form**
+### Human Form
 
 **Characteristics:** Int +1 (1), Per 0/–2, Pre +3 (1), Com +2 (2), Str 0/–2, Sta +1 (1), Dex –1/–3, Qik 0/–2 (2)
 
@@ -4400,7 +4400,7 @@ Gunnvara has been blind from birth; there was no need for her to accept Gullveig
 
 Gunnvara has an intrinsic +4 power modifier (+1 for Blind, +1 for Pre +5 in etin mod, and +2 for an enchanted gandur). For her best Ability (Entrancement) she can expect a Casting total of at least 45 + aura + stress die. If given the opportunity for preparation, she will charge her gandur with *utiseta* effects such as *The Witch's Thrall* and various Hexes and illusions. Gunnvara's sigil is a lilting wordless tune at the edge of hearing.
 
-### **Etin Mod**
+### Etin Mod
 
 **Characteristics:** Int +1, Per 0, Pre +5, Com +2, Str +1, Sta +2, Dex +1, Qik +1
 
@@ -4447,7 +4447,7 @@ larly giants (see *Realms of Power: Magic*, pages 83–88 for information on gia
 
 Muspelli are constantly guided by their jotun patron. They appear in their servants' dreams to instruct them, and the Muspelli can summon their patrons to earth, if they dare (see Summoning the Jotun Patron, later). The Muspelli is invariably left to interpret how to complete any tasks himself. Very rarely, a patron will send an Aspect of itself to communicate with a servant. However, this is a risky procedure, since it has the potential to alert the Norse gods or their servants that the bonds of the jotnar are slipping.
 
-### **Muspelli as Antagonists**
+### Muspelli as Antagonists
 
 If unprepared, Muspelli certainly pose no threat to a magus of the Order. However, a Muspelli is best suited to the long game. If given sufficient time to prepare, they can be truly dangerous.
 
@@ -4482,7 +4482,7 @@ Ranges, Durations, and Targets that are usually restricted to ritual spells can 
 
 made of logs and stones, and gathers appropriate ritual materials. He then climbs atop the platform, assumes his etin-mod, and begins the magic. The *utiseta* begins with the preparation of a ritual meal, including the slaughter and butchery of an animal, which is then cooked in its own blood. Once the meal has been consumed, the Muspelli chants sagas about his patron, and composes praise-songs that are toasted with mead. There are ritual dances, and the adoption of unusual postures that must be maintained for hours. Throughout this ritual the Muspelli is gathering power, which is released at the end of the ritual in an immense burst of magical energy. The etin-mod must be maintained throughout the duration of the ritual; if he adopts human form for more than a round for whatever reason, then the ritual fails with potentially disastrous consequences.
 
-### **Designing the Effect**
+### Designing the Effect
 
 During *utiseta*, a Muspelli's Supernatural Abilities are greatly increased in their scope. All Supernatural Abilities are usually fixed in terms of Range, Duration, Target, and/or effect, typically capable of altering one of these parameters but unable to affect the others. During *utiseta*, any or all of the parameters of the Ability can be altered. For example, a Muspelli performing a Shapeshifter *utiseta* can extend the Range to Voice and the Target to Group, turning a number of his enemies into wolves. He can also extend the effect of the Ability, allowing him to turn into a monstrous creature rather than a natural animal.
 
@@ -4492,7 +4492,7 @@ Only Supernatural Abilities that are granted by a Major Virtue can be affected b
 
 The calculated Ease Factor for an *utiseta* should be considered to be the level of effect for the purposes of detecting, dispelling, and suppressing the Muspelli's magic.
 
-### **Casting Total**
+### Casting Total
 
 The Casting Total for an *utiseta* effect is calculated in the same manner as for any Supernatural Ability, except that the score in the Ability is multiplied by a Power Modifier. This Power Modifier is derived from the ritual elements brought to bear during the *utiseta*. The Penetration Total of
 
@@ -4505,13 +4505,13 @@ Since the character must be in etinmod to perform an *utiseta*, he uses the Char
 
 The sources of Power Modifier are given below. These are cumulative; use any that apply, but only one from each category can be chosen. The minimum Power Modifier is 1 even if no Power Modifiers are available.
 
-#### **Hamur, the shape or skin:**
+#### Hamur, the shape or skin:
 
 - +1 for having the Major Flaw favored by his patron;
 - +1 for having an etin-mod that has the Characteristic used in this Supernatural Ability at +5 or greater.
 - +2 if the caster inflicts a mutilation on himself that results in the effects of a Minor Flaw, such as gouging out an eye (Missing Eye), splitting his tongue (Afflicted Tongue), or removing a hand (Missing Hand). This results in a Medium wound, which does not count towards a Blot modifier (see later). Already possessing such a mutilation does not grant this bonus.
 
-### **Ond, the Muspelli's magical power:**
+### Ond, the Muspelli's magical power:
 
 - +1 for possessing another of the patron's Supernatural Abilities at a score of 5 or greater;
 - +2 if the ritual is performed in a Magical Aura that has an alignment appropriate to the power or patron (see *Realms of Power: Magic*, pages 15–16).
@@ -4522,20 +4522,20 @@ The sources of Power Modifier are given below. These are cumulative; use any tha
 - +1 for inflicting a fatal wound on a creature with a Might score during the *utiseta* ritual.
 - +2 for destroying a gandur appropriate to the patron in an symbolic manner. Surtur requires that the object is burned, Nidhogg would want it devoured, Gullveig would desire it dissolved in poison, and so forth.
 
-#### **Litur, the apparel of an individual:**
+#### Litur, the apparel of an individual:
 
 - +1 for possessing a gandur of the patron;
 - +2 for possessing a gandur enchanted with at least 30 levels of magical effects.
 
 *Example: Kotkill has a Stamina of +4, the Shapeshifter Ability at 7, and has found a Magic aura close to the target village with an aura strength of 2. He has the following ritual elements: he is a follower of Fenrir who is Mute (Hamur +1), he has a giant wolf's tooth as a* gandur *(Litur +1), and he uses the tooth to inflict a Medium wound on himself (Blot +1). This gives him a total Power Modifier of x3. His Casting Total is therefore 4 + (7 x 3) + 2 + 7 (stress die), or 34; this is sufficient to produce the desired effect.*
 
-### **Gathering the Power**
+### Gathering the Power
 
 The power of an *utiseta* ritual is not delivered immediately. The power gradually builds over time, with repetition of the ritual, until the requisite amount of power has been gathered to power the effect. This typically takes hours to achieve.
 
 For every hour of the ritual, the player makes a Characteristic + Supernatural Ability simple roll appropriate to the magic used. As always, subtract the Gleipnir Score from the Supernatural Ability score. The Ease Factor for this roll is 9. For every point over 9, he accumulates one point. Once the accumulated total equals or exceeds the Ease Factor of the *utiseta*, he can safely end the ritual and the effect takes place.
 
-### **Gathering Power: Characteristic + Supernatural Ability + simple die, versus Ease Factor of 9**
+### Gathering Power: Characteristic + Supernatural Ability + simple die, versus Ease Factor of 9
 
 *Example: Kotkill begins the ritual to transform the village into wolves. In the first hour he rolls a*  *3 for a total of 14, which contributes 5 points to his ritual total. In the next five hours his Gathering Power totals are 12, 16, 14, 16, and 13, giving him a total of 31 points. The ritual took six hours, and thus requires six Deprivation rolls; although Kotkill does not discover the toll on his body until he retakes his human form.*
 
@@ -4545,7 +4545,7 @@ The Muspelli can choose to end an *utiseta* ritual prematurely. The most common 
 
 *Example: Assume that Kotkill was interrupted in the third hour of his* utiseta*. He had only accumulated 8 points of the 30 he needed, leaving him with a shortfall of 22. This translates into a triple botch and 3 Warping Points, requiring him to check for Heipt. Due to this disastrous result, the storyguide decides not only that the villagers have become werewolves rather than ordinary wolves; they have also determined the cause of their transformation and are waiting for Kotkill once he has dealt with the consequences of the Heipt.*
 
-### **Vis Use**
+### Vis Use
 
 Muspelli can employ vis in their *utiseta* to assist in the gathering of power more quickly. They must use vis of an Art appropriate to the ritual performed. When vis is used during *utiseta*, the Muspelli starts
 
@@ -4576,15 +4576,15 @@ Once an *utiseta* has been successfully completed in a supernatural aura, if the
 
 ## Aura-Damaging Story Seeds
 
-### **Molesting the Faeries**
+### Molesting the Faeries
 
 A Muspelli deliberately performs a powerful *utiseta* ritual in a Faerie aura with the express purpose of weakening the inhabitants therein. The characters have to deal with this apparently motiveless magical molestation by the Muspelli.
 
-### **Lost and Gone Forever**
+### Lost and Gone Forever
 
 The characters discover that one of their vis sources (preferably one distant from the covenant) has dried up. The vis accumulated due to the alignment of the Magic aura, which a Muspelli has destroyed.
 
-### **An Insidious Taint**
+### An Insidious Taint
 
 Knowing of the Muspelli's ability to destroy auras, the characters might seek one out to remove the particularly insidious taint of a corrupted Infernal aura that has been discovered during a previous story. However, the Muspelli's magic is keyed towards destruction, and the characters will need to pick a suitable target. Further, the Muspelli is unlikely to perform this service for free.
 
@@ -4637,7 +4637,7 @@ haunted by monsters.
 
 roles of the siblings Loki and Gullveig, respectively. The process takes about an hour.
 
-#### **Summoning Total: Intelligence + Muspelli Lore + bonuses**
+#### Summoning Total: Intelligence + Muspelli Lore + bonuses
 
 The Ease Factor required varies according to the reason for the summons; see the sections later for more details. Details on the Summoning Bonuses are also given there.
 
@@ -4647,17 +4647,17 @@ UnGifted participants in the ritual of summoning the jotun patron are likely to 
 
 An Aspect does not risk spending too much time in the mortal world for fear that it will alert the enemies of the jotnar that they are not as tightly imprisoned as believed. Consequently, an Aspect cannot spend more than one season in any given year on earth. This limits Summoning the Jotun Patron by any given Muspelli to once a year, at most.
 
-### **Opening The Gift**
+### Opening The Gift
 
 The most common use of summoning the jotun patron is to Open The Gift of a new Muspelli (as described earlier under Apprenticeship). The ritual must be modified to take into account the prior magical training of the novice; it is more difficult to persuade the jotun patron to answer the summons if the aspirant has substantial magical training already.
 
 > **Bonus to Summoning Total: Aura Modifier**
 
-#### **Ease Factor: Varies (see Introduction)**
+#### Ease Factor: Varies (see Introduction)
 
 The only involvement of the elder Muspelli in this process is to summon the jotun; he usually departs as soon as his part is over.
 
-### **Sacrifice of Power**
+### Sacrifice of Power
 
 If a Muspelli chooses not to take the Initiatory Flaw of his patron when his Gift
 
@@ -4672,7 +4672,7 @@ is Opened (see Apprenticeship, earlier), he has the option of acquiring it later
 
 If the Ease Factor is exceeded, the Muspelli undergoes the ordeal and acquires the Major Flaw. If the Flaw is taken during play in this manner, then it is in addition to the character's normal allotment of Flaws, and he does not receive Virtue points to spend in recompense as he would have during character generation.
 
-### **Advice and Teaching**
+### Advice and Teaching
 
 The jotun patron can provide training in any of its favored Supernatural Abilities, and in Muspelli Lore. The patron's Aspect remains at the sacred site for a season, providing instruction. Muspelli also summon their patrons to inform them of the progress of their plans, to receive instructions, and to ask advice. The jotnar generally disapprove of being summoned for trivial matters; they expect their servants to be self-sufficient and capable of advancing their cause without constant advice. The Muspelli often receives this advice as part of a season of training; if not, then the Ease Factor for the Summons is 9.
 
@@ -4680,7 +4680,7 @@ The jotun patron can provide training in any of its favored Supernatural Abiliti
 
 **Ease Factor: 6 + Source Quality desired; minimum 9**
 
-### **Improving the Etin-Mod**
+### Improving the Etin-Mod
 
 The basic etin-mod of a Muspelli character can be improved through communing with her patron. This application of summoning the jotun patron is very similar to Mystery Initiation (more details on the process can be found in *The Mysteries Revised Edition,* pages 13–18).
 
@@ -4737,13 +4737,13 @@ The following sections describe the Supernatural Abilities employed by Muspelli,
 
 Entrancement can be used against animals if the character also has the Animal Ken Virtue. A Blind character can still make sufficient "eye contact" to use this Ability if she knows roughly where her target is. (See **Ars Magica Fifth Edition**, page 65 for information on Entrancement.)
 
-### **Entrancement** Utiseta **Effects**
+### Entrancement Utiseta Effects
 
 Entrancement is equivalent to R: Eye, D: Conc, T: Ind. To derive the base Ease Factor, assume a target with a Stamina of 0 and an average die roll of 6. Thus an innocuous request has a base Ease Factor of 9.
 
 *Utiseta* adds much more utility to Entrancement. Even the standard effects listed in **ArM5** can be improved with the much higher casting totals — and thus much higher Penetration — achievable with *utiseta*.
 
-### **The Witch's Thrall**
+### The Witch's Thrall
 
 Entrancement Ease Factor 27 R: Eye, D: Decade, T: Ind
 
@@ -4751,7 +4751,7 @@ The designated target becomes the servant of the Muspelli for ten years. The Mus
 
 (base 15, +12 Decade)
 
-### **An Axe Age, a Sword Age**
+### An Axe Age, a Sword Age
 
 Entrancement Ease Factor 45
 
@@ -4833,7 +4833,7 @@ A potential victim can avoid the effects of a hex by seeking out supernatural pr
 
 **Specialties**: A specific duration, one method of hexing, a particular effect. (Supernatural)
 
-### **Hex** Utiseta **Effects**
+### Hex Utiseta Effects
 
 Hex is equivalent to a R: Arc, D: Mom, T: Ind effect. The Delay modifier can be built into the effect by reversing the sign of the modifier. Although the default Range is Arcane, a Hex can be delivered at Touch (by drawing symbols) or Voice (by audibly cursing) Range, but the Ease Factor remains unchanged.
 
@@ -4841,7 +4841,7 @@ The power to lay an *akvaedi* (curse) is one of the most feared effects of the M
 
 *Art & Academe* divides diseases into the same five levels of severity as Hexes, and these are directly comparable. A Minor Hex can cause a Minor disease, and a debilitating illness is equivalent to a Major disease such as ague, or *febris semitertiana* (see *Art & Academe*, pages 45–46 for more details).
 
-### **Grettir's Death Curse**
+### Grettir's Death Curse
 
 Hex Ease Factor 27 R: Arc, D: Mom, T: Ind
 
@@ -4853,7 +4853,7 @@ The mighty hero Grettir was slain by this foul curse, cast by his enemy's mother
 
 You may change your shape into that of a mundane animal. (See **Ars Magica Fifth Edition**, page 67 for full details.)
 
-### **Shapeshifting** Utiseta **Effects**
+### Shapeshifting Utiseta Effects
 
 Shapeshifter is equivalent to R: Per, D: Conc, T: Ind, and has a base Ease Factor of 9.
 
@@ -4879,7 +4879,7 @@ Muspelli can use *utiseta* to change another person's form by extending the rang
 
 **Outcome:** Change into a wholly supernatural entity, with up to 6 points of powers.
 
-### **Scion of Fafnir**
+### Scion of Fafnir
 
 Shapeshifter Ease Factor 33 R: Per, D: Conc, T: Ind
 
@@ -4913,7 +4913,7 @@ The visual illusions created are not perfect; they sometimes waver and shimmer, 
 
 **Specialties**: animals, natural features, soldiers
 
-### **Sjonhverfing** Utiseta **Effects**
+### Sjonhverfing Utiseta Effects
 
 Sjonhverfing is equivalent to R: Voice, D: Sun, T: Room.
 
@@ -4931,7 +4931,7 @@ The giant Skrymir was able to fool Thor with an enhanced version of this Ability
 
 **Effect:** Illusion of up to ten different objects moving in a natural or complex manner; e.g. a scop reciting a tale to a group of warriors who are waited on by serving wenches.
 
-### **Vision of Glaesisvellir**
+### Vision of Glaesisvellir
 
 Sjonhverfing Ease Factor 42 R: Voice, D: Sun, T: Boundary
 
@@ -5002,7 +5002,7 @@ proper noun.
 
 **Specialties**: deaths, wars, love
 
-### **Spadomur** Utiseta **Effects**
+### Spadomur Utiseta Effects
 
 Spadomur is considered equivalent to R: Arc, D: Mom, T: Ind.
 
@@ -5010,7 +5010,7 @@ Spadomur is considered equivalent to R: Arc, D: Mom, T: Ind.
 
 Spadomur usually provides information about an event affecting a single person, but increasing the Target can expand this restriction to families, organizations, towns, or nations.
 
-### **Uncover the Witch**
+### Uncover the Witch
 
 Spadomur Ease Factor 21 R: Arc, D: Moon, T: Ind
 
@@ -5018,7 +5018,7 @@ The visions induced by this *utiseta* pertain to the identity of the individual 
 
 (Base 9, +9 Moon, +3 proper noun)
 
-### **Voluspa**
+### Voluspa
 
 Spadomur Ease Factor 33 R: Arc, D: Lifetime, T: Ind
 
@@ -5079,7 +5079,7 @@ waves crash into the sides of the craft. Each failure results in a damage level;
 
 **Specialties**: coasts, mountains, at night
 
-### **Storm's Eye** Utiseta **Effects**
+### Storm's Eye Utiseta Effects
 
 Storm's Eye is equivalent to R: Touch, D: Sun, T: Ind.
 
@@ -5087,7 +5087,7 @@ Extending the misery of Storm's Eye through increasing the Duration or Target of
 
 Through *utiseta* a character can command the thunder and lightning. For any storm (Ease Factor 9 or greater), adding 6 to the Ease Factor allows the Muspelli to cause one thunderclap (like *Jupiter's Resounding Blow*, **ArM5** page 125) per point of Storm's Eye; and three thunderclaps can be exchanged for a lightning strike (like *Incantation of Lightning*, **ArM5** page 126). To direct either of these effects against a specific target requires the caster to be within the storm and to see his victim, and requires a Dexterity + Finesse roll equal to or exceeding (12 – Size) of target (a hut is Size +6, a large building is at least Size +9).
 
-### **Theft of Thor's Thunder**
+### Theft of Thor's Thunder
 
 Storm's Eye Ease Factor 21 R: Sight, D: Sun, T: Ind
 
@@ -5095,7 +5095,7 @@ The principal purpose of this *utiseta* is to put the reins of the lightning int
 
 (Base 9, +6 Sight, +6 for thunder and lightning)
 
-### **Beating of Hraesvelg's Wings**
+### Beating of Hraesvelg's Wings
 
 Storm's Eye Ease Factor 30 R: Sight, D: Moon, T: Ind
 
@@ -5115,49 +5115,49 @@ the animals arrive within 1 hour of the character making the call, although exce
 
 The character cannot directly communicate with the animals unless he has another Ability that allows him to do so (such as Animal Ken), and they depart naturally as determined by the storyguide. Even if the character lacks the ability to communicate with the animals, they act as if friendly towards him; if naturally aggressive, they may fight to defend him.
 
-#### **Ability Score:** 1
+#### Ability Score: 1
 
 **# Animals Arriving:** 1 animal of Size –2, or equivalent mass (3 of Size –3, 5 of Size –4, 10 of Size –5, 30 of Size –6, etc.)
 
-#### **Ability Score:** 2
+#### Ability Score: 2
 
 **# Animals Arriving:** 3 animals of Size –2, or equivalent mass (1 of Size –1, 5 of Size –3, 10 of Size –4, 30 of Size –5, etc.)
 
-#### **Ability Score:** 3
+#### Ability Score: 3
 
 **# Animals Arriving:** 5 animals of Size –2, or equivalent mass (1 of Size 0, 3 of Size –1, 10 of Size –3, 30 of Size –4, etc.)
 
-#### **Ability Score:** 4
+#### Ability Score: 4
 
 **# Animals Arriving:** 10 animals of Size –2, or equivalent mass (1 of Size +1, 3 of Size 0, 5 of Size –1, 30 of Size –3, etc.)
 
-#### **Ability Score:** 5
+#### Ability Score: 5
 
 **# Animals Arriving:** 30 animals of Size –2, or equivalent mass (1 of Size +2, 3 of Size +1, 5 of Size 0, 10 of Size –1, etc.)
 
 **Specialties**: a particular type of animal (Supernatural)
 
-### **Summon Animals** Utiseta **Effects**
+### Summon Animals Utiseta Effects
 
 Summon Animals is equivalent to a R: Sight, D: Mom, T: Group effect. The base Ease Factor is 9.
 
 The time until the arrival of animals summoned by an *utiseta* effect is the same for the standard use of the ability, starting at the completion of the ritual. Muspelli can add size modifiers to the Target, and each size modifier acts like an additional point of Summon Animals. He can also improve the Range to Arcane Connection, allowing him to summon animals from anywhere, not just near to its habitat. Of more interest is the ability to summon magical creatures with some additional Ease Factors. The Penetration Total of the *utiseta* must exceed the Magic Might of the creatures summoned, else the *utiseta* has no effect. The Muspelli still has no control over the creatures he summons; he must bargain with them to persuade them to do what he wants, or else leave them to act naturally. Supernatural creatures have a maximum number of points of powers (see Designing Supernatural Powers, earlier) equal to their Might.
 
-#### **Ease Factor:** 21
+#### Ease Factor: 21
 
 **Effect:** Summon one creature with a Might of 5 that is up to the maximum size determined by the character's Summon Animal Ability.
 
-#### **Ease Factor:** 24
+#### Ease Factor: 24
 
 **Effect:** Summon one creature with a Might of 10 that is up to the maximum size determined by the character's Summon Animal Ability.
 
-#### **Ease Factor:** 27
+#### Ease Factor: 27
 
 **Effect:** Summon one creature with a Might of 15 that is up to the maximum size determined by the character's Summon Animal Ability.
 
 Each additional +3 to the Ease Factor allows an extra +5 Might to the creature summoned.
 
-### **The Corpse-Plague**
+### The Corpse-Plague
 
 Summon Animals Ease Factor 15 R: Sight, D: Sun, T: Group
 
@@ -5166,7 +5166,7 @@ Creates millions of maggots from a patch of soil. So many vermin are created tha
 
 (Base 9, +6 Sun)
 
-### **Spawn of Jormungand**
+### Spawn of Jormungand
 
 Summon Animals Ease Factor 27 R: Sight, D: Mom, T: Group
 
@@ -5174,7 +5174,7 @@ Summons a Lindwurm (see *Realms of Power: Magic*, page 78) from a river, the sea
 
 (Base 27)
 
-### **Empty the Ironwood**
+### Empty the Ironwood
 
 Summon Animals Ease Factor 33 R: Arc, D: Mom, T: Group
 
@@ -5228,7 +5228,7 @@ giving the player a chance to decide her next action depending on the result of 
 
 **Specialties**: mercantile enterprises, battle, rescue
 
-### **Threads of Fate** Utiseta **Effects**
+### Threads of Fate Utiseta Effects
 
 Threads of Fate is equivalent to R: Per, D: Moon, T: Ind. The base Ease Factor is nominally those given in the table, but the Muspelli should make allowances for the vagaries of fate when designing effects.
 
@@ -5261,7 +5261,7 @@ A more insidious use of a Threads of Fate *utiseta* is to reverse the effects an
 
 **Effect:** Fortune's Warp: The character automatically rolls a zero when he attempts the specified action, and must check for a botch as usual.
 
-### **Blink of Fate**
+### Blink of Fate
 
 Threads of Fate Ease Factor 21 R: Sight, D: Moon, T: Ind
 
@@ -5269,7 +5269,7 @@ The caster imposes the Spindle's Wobble on his target, who must be within Range:
 
 (Base 12, +9 Sight)
 
-### **Calamitous Fortune**
+### Calamitous Fortune
 
 Threads of Fate Ease Factor 30
 
@@ -5318,7 +5318,7 @@ Protect a corpse from being affected by further valgaldrar. Any attempt to do so
 
 **Specialities**: kings, soldiers, compelling truth, animating the dead
 
-### **Valgaldrar** Utiseta **Effects**
+### Valgaldrar Utiseta Effects
 
 Valgaldrar approximates to R: Touch, D: Conc, T: Ind.
 
@@ -5332,7 +5332,7 @@ The principle effect of *utiseta* with this sort of magic is the simultaneous ra
 
 **Outcome:** As above, but with a Magic Might of 15 and 6 points of powers. Each additional 3 points of Ease Factor yields 3 extra Might and 3 extra points of powers.
 
-### **An Army of the Dead**
+### An Army of the Dead
 
 Valgaldrar Ease Factor 27 R: Touch, D: Sun, T: Group
 
@@ -5344,7 +5344,7 @@ tually prevented by the dwarf Mondull, who protects them from being affected by 
 
 (Base 15, +3 Sun, +6 Group, +3 size)
 
-### **Death Begets Death**
+### Death Begets Death
 
 Valgaldrar Ease Factor 33 R: Touch, D: Moon, T: Ind
 
@@ -5396,7 +5396,7 @@ Cause a fire to act in a very unusual fashion; for example, hovering in the air 
 
 **Specialties**: burning forests, changing size, hearth fires, pyrotechnic tricks
 
-### **Wildfire** Utiseta **Effects**
+### Wildfire Utiseta Effects
 
 Wildfire is equivalent to a R: Voice, D: Mom, T: Ind effect.
 
@@ -5426,7 +5426,7 @@ The caster trails a fire behind him, spreading it to anything within Voice Range
 
 (Base 15, +3 Conc, +6 Group)
 
-### **Fetid Breath of the Earth-Fires**
+### Fetid Breath of the Earth-Fires
 
 Wildfire Ease Factor 39
 
@@ -5436,7 +5436,7 @@ Causes a crack in the earth to let forth smoke poisoned by the earth-fires. Ever
 
 (Base 21, +6 Sun, +12 Boundary)
 
-### **Surtur's Mighty Exhalation**
+### Surtur's Mighty Exhalation
 
 Wildfire Ease Factor 51 R: Sight, D: Mom, T: Bound
 
@@ -5544,13 +5544,13 @@ Frostbite is an additional danger of low temperatures. Characters who have succe
 **Frostbite Soak Total: Stamina + Survival + Condition Modifier + stress die**
 
 
-### **Winter's Breath** Utiseta **Effects**
+### Winter's Breath Utiseta Effects
 
 Winter's Breath is the equivalent of R: Voice, D: Conc, T: Ind.
 
 Through *utiseta*, a Muspelli can clothe a whole valley or city in ice with sufficient size modifiers. With an increase in Duration, the snow might continue to fall for days or months; for Duration: Sun read "hour" in the description of the Ability as "twelve hours;" for Duration: Moon read "hour" as "week;" and for Duration: Year read "hour" as "month." These durations are not affected by dawn or dusk, and the Muspelli only needs to maintain the drumming for the duration of the ritual. Furthermore, throughout the Duration the ice or snow is continually refreshed, so does not appreciably change in overall volume until the Duration expires.
 
-### **The Fimbulwinter**
+### The Fimbulwinter
 
 Winter's Breath Ease Factor 27 R: Voice, D: Year, T: Ind
 
@@ -5558,7 +5558,7 @@ A region the size of a small town is trapped in perpetual snow. In places this w
 
 (Base 12, +9 Year, +6 size)
 
-### **Sea-borne Castles of Ice**
+### Sea-borne Castles of Ice
 
 Winter's Breath Ease Factor 36 R: Voice, D: Moon, T: Group
 
@@ -5617,15 +5617,15 @@ cannot be taken to the mundane authorities. It determines the tariff for magical
 
 ic, the magician must pay the stjori a fee of 6 marks. If the charge is a result of circumstances beyond the magician's control, the stjori defends him without charge.
 
-### **Charity**
+### Charity
 
 A member who has lost more than one quarter of his wealth through misadventure can recover half his loss from his hreppur, although no individual is required to supply more than 1 coin in every 120 of his total worth. Members who are elderly, infirm, or destitute are assigned to the care of another member with sufficient means, although this burden lasts no more than one year, after which they are reassigned.
 
-### **Right to Payment**
+### Right to Payment
 
 Much like any specialist, a magician can demand payment (in coin or in kind) for performing his services on behalf of a commoner, lord, or other magician. A vitki, galdraman, or seithkona may charge one ounce of silver each day (or part) spent in performing a service, to a maximum of two standard marks (16 ounces) for each season. Members of the *utgardar* may only charge half these rates. Vis use is charged at one mark per pawn.
 
-### **Discretion**
+### Discretion
 
 Members should do their best to ensure their magic is discreet. Any householder employing a magician should give his assurance that none of his household will take offense before magic is performed. If this assurance is broken, then the magician is not held to account. Every effort should be make to limit the number of witnesses.
 
@@ -5633,13 +5633,13 @@ Supernatural affairs are not to be discussed with outsiders unless it is unavoid
 
 If a charge of witchcraft is brought against a member, the magician's stjori will defend him in court. If the charge results from unjustified and indiscreet use of mag-
 
-### **Harvesting Vis**
+### Harvesting Vis
 
 Any member may lay claim to any source of vis that lies on his own lands. If the site is on common land, then the first member to harvest the vis can claim the source. Anyone found harvesting another's claim must return the vis and pay 1 mark for each pawn taken.
 
 If a magician dies with no heir, then his claims become vacant and the first person to harvest the site can establish a new claim. Others can claim sites that are abandoned. If this abandonment is later disputed, the hreppur decides the case on its merits.
 
-### **Duties**
+### Duties
 
 Muspelli are the declared enemies of all hreppar, and aid is forbidden them. Failure to promptly inform one's stjorir about the existence of a Muspelli is the most terrible crime, resulting in expulsion, forfeiture of belongings, and outlawry. A hreppur must expend any and all resources to secure the elimination of a Muspelli.
 
@@ -5647,7 +5647,7 @@ Trolls and violent spirits plague many of the trade routes and wild places. Part
 
 No member of the hreppur should provide magical services to anyone blacklisted by it. The list is reviewed each year. Providing such service will result in a 3-mark fine, plus the fee charged for the service.
 
-### **Trolldomur**
+### Trolldomur
 
 Any member who casts malign magic on a human forfeits the protection of the hreppur. The only occasion where magical attacks are permitted is in the pursuit of outlawed magicians.
 
@@ -5763,7 +5763,7 @@ Serapis is a very powerful faerie, even after the fall of his cult in other plac
 
 and is under twenty one years of age, he does not vote in the ruling council. Similarly, he does not gain the increased power that his station on the council would usually permit. His place is not, however, filled by a fresh drawing of lots, and if he turns twenty one during his tenure of office, he will be invested and gain access to greater power. The sorcerers believe this is because younger people lack the capacity to channel that added magical force safely. It may, however, be that younger people are more malleable to Faerie powers, and inducting a young person into Serapis' priesthood (the Council of Tribes) may give the faerie god a chance to manipulate that person, and seek escape.
 
-### **Aloe**
+### Aloe
 
 The Aloe Tribe is skilled in magic that restores damaged things. Its magicians are disproportionately women. Bitter aloes, which provide the vis for this tradition, are harvested only in years when the rain is good. This led, in ancient times, to the Aloe Tribe's defeat by the Olibanum Tribe, which has the ability to control the weather. The animosities between these tribes faded long ago, though. Today Aloe magic
 
@@ -5789,7 +5789,7 @@ Aloe magicians are found randomly scattered on the island, excepting the mountai
 
 The mystical patron of this tradition is the bennu, a sort of phoenix that nests upon Soqotra. It is served by its relatives, the herons of light. Aloe sorcerers believe the bennu became the patron of their tribe only in more-recent historical times. They think that the elephant mentioned in the origin story for the cinnabar trees was their patron in an ancient age.
 
-### **Cinnabar**
+### Cinnabar
 
 The Cinnabar Tribe is skilled in magic that preserves objects and circumstances. It draws its vis from the cinnabar trees. The trees flourish 4,000 feet above sea level, so the magicians of this tribe live in the mountains. Cinnabar magic is primarily defensive in effect, and so it is popular as a secondary skill among the sorcerers of other tribes.
 
@@ -5811,7 +5811,7 @@ Myrrh incense is a reddish-brown resin, with stronger incense having a darker co
 
 Olibanum incense, called "frankincense" in English, is a resin that is pale yellow and chunky. The paler and more opaque the incense, the greater its quality is. Large single pieces are of higher quality than combined smaller pieces of the same weight. Olibanum is ground and mixed with fuel before use as conventional incense. Soqotran sorcerers may, however, use it in the raw form. They usually prefer to grind it if casting spells with Censer Duration. This has no mechanical advantage, but is seen as the correct way to treat the essence. Olibanum smells spicy, resinous, and slightly citric.
 
-### **Myrrh**
+### Myrrh
 
 The Myrrh Tribe has magic that commemorates, and draws them closer to, an historic ideal. Magical myrrh plants are usually found on the almost inaccessible southern parts of the island. The Myrrh Tribe is allied to faeries, although the Soqotran sorcerers do not clearly distinguish between Magical and Faerie spirits.
 
@@ -5819,7 +5819,7 @@ The Myrrh Tribe often battles wicked jinniyah — female jinns that cause sickne
 
 The Myrrh Tribe's allies are led by a senior jinniyah, their queen, who has little to do with humans. She entered into a pact with the King of the Olibanum Serpents at the end of the final war between the Olibanum and Myrrh Tribes. The details of this agreement are hazy, but seem to have included the king's effective governance of the island, and the queen's acquiescence in his policy of isolation from the world. The queen also keeps many of the king's secrets; for example, she knows the real nature of vis yet chooses not to share it with her tribe.
 
-### **Olibanum**
+### Olibanum
 
 Olibanum magic commands things, like minds and winds. Sorcerers of this tribe tend to dwell in the fertile north of the island. They are the most skilled war-
 
@@ -5836,13 +5836,13 @@ Theophrastus, a student of Aristotle, records that sailors were sent by Alexande
 
 A Soqotran sorcerer is designed using the rules in the core book, with slight changes.
 
-### **Virtues**
+### Virtues
 
 Soqotran sorcerers are similar to Hermetic magi in design. They are permitted 10 points of Flaws, balanced by the same quantity of Virtues, plus one Minor Virtue. This minor Virtue is Puissant (Favoured) Magic. It grants +2 on spellcasting rolls in the nominated style of magic. All Soqotran sorcerers have The Gift, which is a free Virtue, and they must take the Soqotran Sorcerer Free Status Virtue.
 
 Soqotran Sorcerer is a Virtue that replaces Hermetic Magus for the purposes of character design. Just as Hermetic magi have powers and obligations that are not reflected in their Virtues, similarly Soqotran Sorcerers do not have Virtues or Flaws detailing their unique spellcasting style or the resources granted to them by their society. The Soqotran Sorcerer Virtue bundles these features much as the Hermetic Magus Virtue does.
 
-### **Effects of the Soqotran Sorcerer Virtue**
+### Effects of the Soqotran Sorcerer Virtue
 
 Soqotran sorcerers are treated as hedge magicians outside the area where legends of them are well known. This Virtue allows the character to access the Finesse, Magic Lore, and Penetration Abilities. Soqotran sorcerers do not have a Magic Theory, but they have a cosmology that is quantified using the Artes Liberales Ability, and access to that Ability is provided by this Virtue. Some Soqotran sorcerers also have Martial Abilities, which are unblocked by this Virtue.
 
@@ -5854,11 +5854,11 @@ They possess an Ability score of 0 in a favored Ability for each style of magic 
 
 Soqotran sorcerers are effectively required to do what their spirits ask. This does not prevent the character selecting a Story Flaw, much as Hermetic magi are required to keep the Code and may still have other Story Flaws.
 
-## **Senior Soqotran Sorcerer: Major Virtue**
+## Senior Soqotran Sorcerer: Major Virtue
 
 This Virtue is suited for respected and powerful members of Soqotran sorcerer tribes. It is rare for a character younger than thirty five to have this virtue. Characters with this Virtue have spirit aides, as described later. In brief, this allows the character to have a higher casting total, by spending up to twice as many points from his spirit's Might pool.
 
-### **Abilities**
+### Abilities
 
 All Soqotran sorcerers gain the usual free experience points from childhood. This includes a score of 5 in their native area's language and 45 other points to spend on Abilities from a restricted list on page 31 of the core rulebook. Many Soqotran sorcerers speak Arabic as their childhood language, and learn Soqotri after being taken to the island.
 
@@ -5891,7 +5891,7 @@ As a rule for the construction of nonplayer characters, Soqotran sorcerers of eq
 
 Soqotran sorcerers gain their power from several sources. The sorcerer gains the highest bonus in each category.
 
-### **Auras**
+### Auras
 
 Soqotran sorcerers gain the same bonuses from the presence of a Magic aura as other magicians. Much of the island has a Magical aura of 2. The aura is far higher in the caves that have housed generations of sorcerers.
 
@@ -5913,7 +5913,7 @@ A character using any of the three forms of ceremony gains no Casting Total bonu
 
  Every additional spark of appropriate vis used adds 1 to the Casting Total. A character may not spend more sparks to increase the Casting Total than the character's score in the appropriate magical Ability.
 
-### **Spirit Ally or Aide**
+### Spirit Ally or Aide
 
 Soqotran magic is intimately tied to the natural forces of the island, and these forces are represented by the local tree spirits. A character who enters a relationship with the local spirits finds his mystical powers magnified. All Soqotran sorcerers have magical allies from the completion of their training. Players desiring this for their char*New Major Virtue: The Spirit Ally*
 
@@ -5940,7 +5940,7 @@ The spirit allies of Soqotran sorcerers aid them in the practice of magic, but d
 
 Note that several of the powers given below are similar to, but cannot be simulated by, Hermetic effects. Similar Hermetic effects have been used to provide scale for their mechanics, but the spirits of Soqotra share, with the local sorcerers, the ability to do some things that Hermetic magi simply cannot do.
 
-### **Soqotran Giant Gecko**
+### Soqotran Giant Gecko
 
 **Magic Might:** 23 (Animal)
 
@@ -6005,7 +6005,7 @@ Soqotran giant geckos are spiritually linked to a particular cinnabar plant, and
 
 The geckos do not have a powerful spirit lord to serve, like a king, queen, or bennu. Just before Opening a child to her magic, an elderly gecko will remove its tail and replace it with a tail it keeps in an ivory box. This is, perhaps, the stillliving tail of its spiritual sovereign. When the ritual is complete, the gecko sheds the royal tail and resumes using its own. The geckos serve the King of the Olibanum Serpents, but their lack of any sense of urgency makes them poor agents.
 
-### **Herons of Light**
+### Herons of Light
 
 **Magic Might:** 31 (Animal) **Characteristics:** Int +3, Per +2, Pre +2, Com +2, Str +1, Sta +2, Dex +1, Qik +3
 
@@ -6022,13 +6022,13 @@ The geckos do not have a powerful spirit lord to serve, like a king, queen, or b
 
 **Personality Traits:** Heron +3, Inquisitive +3, Hopeful +2, Superior +1
 
-#### **Combat:**
+#### Combat:
 
 *Claws:* Init +5, Attack +5, Defense +6, Damage +3\*
 
 *\* +5 if using* Incinerate *power.*
 
-#### **Soak:** +4
+#### Soak: +4
 
 **Wound Penalties**: –1 (1–6), –3 (7–12), –5 (13–18), Incapacitated (19–24), Dead (25+)
 
@@ -6070,7 +6070,7 @@ The herons are aligned to a creature called the bennu, which is similar to the G
 
 The nature of the detente between the bennu and the King of the Olibanum Serpents is unclear. The bennu may be the only creature on the island, other than the king, able to definitively answer questions concerning the king's identity.
 
-### **Soqotran Jinniyah (Evil)**
+### Soqotran Jinniyah (Evil)
 
 **Faerie Might:** 15
 
@@ -6113,7 +6113,7 @@ CrMe Base 4 +2 Voice +2 Sun +2 Group
 
 **Appearance:** Sorcerers know that the jinniyah of the island may be linked with any grove of trees, but those that aid the Myrrh Tribe are the spirits of ancient myrrh groves. They eat night travelers and cause shipwrecks. Myrrh jinniyah appear to be beautiful women. If a jinniyah's grove is destroyed, she appears to die, though actually just shifts roles.
 
-### **Soqotran Jinniyah (Good)**
+### Soqotran Jinniyah (Good)
 
 **Faerie Might:** 25
 
@@ -6164,11 +6164,11 @@ It is the duty of the queen and her followers to burn myrrh in commemoration of 
 A secret known only to the myrrh jinniyah is that their similarity to the jinniyah who feed on humans is not coincidence. The "evil" jinniyah are the juvenile form of the "good" jinniyah. Accepting a sorcerer as an ally is part of the process of role change. Good jinniyah eventually change role again, into a sort of filial ancestral spirit, and these sometimes teach their descendants, or sorcerers they claim as descendants, on behalf of their "sisters." The queen also trains skilled sorcerers occasionally.
 
 
-### **Olibanum Serpent**
+### Olibanum Serpent
 
 These creatures refer to themselves as "olibanum serpents," but from a Hermetic perspective, and from the perspective of the classifications given in *Realm of Power: Magic,* they are worms. They have the Magical Animal virtue, which is explained in *Realms of Power: Magic*, but do not have a classic dragon shape. In most cases they lack wings and claws, and they have some features that are not reptilian.
 
-### **Large Olibanum Serpent**
+### Large Olibanum Serpent
 
 **Magic Might:** 33 (Animal)
 
@@ -6184,7 +6184,7 @@ These creatures refer to themselves as "olibanum serpents," but from a Hermetic 
 
 **Personality Traits:** Olibanum Serpent +3, Loyalty to the King of the Olibanum Serpents +3, Sneaky +2, Easily Amused +2
 
-#### **Combat:**
+#### Combat:
 
 *Fangs:* Init +5, Attack +19, Defense +15, Damage +9
 
@@ -6202,7 +6202,7 @@ These creatures refer to themselves as "olibanum serpents," but from a Hermetic 
 
 7+2 (bite), Charm 2 (magic users), Dominion Lore 2 (Soqotran), Etiquette 2 (magic users), Faerie Lore 2 (Soqotran), Finesse 1 (moving objects), Folk Ken 4 (Soqotran festivals), Olibanum Magic 9 (teaching), Guile 1 (magic users), Infernal Lore 2 (Soqotran),Magic Lore 5 (Olibanum), Magic Sensitivity 3 (places), Penetration 2 (Olibanum), Soqotra Lore 3 (magical places), Sorcerers of Soqotra Lore 4 (motivations), Speak Socotri 5 (magic users), Swim 1 (sea), Teaching 4+2 (sorcerers).
 
-#### **Powers:\\\**
+#### Powers:\\\
 
 *Gift of Vigor:* 0 points, Init –7, Corpus
 
@@ -6244,7 +6244,7 @@ This spell causes the cloud of olibanum that surrounds the serpent to become acr
 
 CrAu 15 (Base 3, +1 Touch, +1 Diam, +2 Incensed): Greater Power (15 levels) **Vis:** 4 pawns, skin
 
-### **Medium Olibanum Serpent**
+### Medium Olibanum Serpent
 
 **Magic Might:** 25 (Animal)
 
@@ -6260,7 +6260,7 @@ CrAu 15 (Base 3, +1 Touch, +1 Diam, +2 Incensed): Greater Power (15 levels) **Vi
 
 **Personality Traits:** Olibanum Serpent +3, Loyalty to the King of the Olibanum Serpents +3, Sneaky +2, Easily Amused +2
 
-#### **Combat:**
+#### Combat:
 
 *Fangs:* Init +4, Attack +15, Defense +11, Damage +5
 
@@ -6293,7 +6293,7 @@ R: Touch, D: Diam, T: Incensed See Large Olibanum Serpent for details. CrAu 15 (
 
 **Vis:** 3 pawns, skin
 
-### **Small Olibanum Serpent**
+### Small Olibanum Serpent
 
 **Magic Might:** 17 (Animal)
 
@@ -6307,7 +6307,7 @@ R: Touch, D: Diam, T: Incensed See Large Olibanum Serpent for details. CrAu 15 (
 
 **Personality Traits:** Olibanum Serpent +3, Loyalty to the King of the Olibanum Serpents +3, Sneaky +2, Easily Amused +2
 
-#### **Combat:**
+#### Combat:
 
 *Fangs:* Init +3, Attack +10, Defense +8, Damage +1
 
@@ -6362,7 +6362,7 @@ The King of the Olibanum Serpents does not, it appears, have a tree. Soqotran so
 
 This is another matter they do not discuss with outsiders, because they believe it will annoy the King of the Olibanum Serpents for no good purpose.
 
-### **Council of Tribes Membership**
+### Council of Tribes Membership
 
 The members of the Council of Tribes are spiritual descendants of the leadership of the Helleno-Egyptian priests that once worshiped in the temple on Soqotra. The current council contains two members from each tribe. The elected leader of each tribe is a member of the council, and continues in this role for a seven-year term. The second member from each tribe is appointed by the drawing of lots on midsummer's day, and serves until the following midsummer.
 
@@ -6372,7 +6372,7 @@ Council members increase their magic potency by, unknowingly, drawing power out 
 
 The Might of Serapis is rationed out by the King of the Olibanum Serpents. A member of the council by lot may draw up to 5 Might a day. A member of council by election or appointment may draw 10 Might per day. In desperate times, the king relaxes this restriction as seems wise, but Serapis' Might though large (65), is limited. Each point of might adds +1 to the character's casting total.
 
-### **The Council of Three Birds**
+### The Council of Three Birds
 
 The Council of Three Birds is comprised of all those sorcerers that have both the trust of the King of the Olibanum Serpents and the Gentle Gift. Perhaps one sorcerer in ten has the Gentle Gift, so this group always remains small, and has a continuum of ages in its members. They are the only Soqotran magicians, other than the members of the Council of Tribes and the intimates of the Queen of Myrrh, who meet on a regular basis. They are primarily used as tool of influence in foreign ports. The tribal leaders on the ruling council are aware of this second council's existence, although those elected by lot are sometimes considered unworthy of this knowledge.
 
@@ -6380,7 +6380,7 @@ The Council of Three Birds is unusual in that it is able to co-operate without m
 
 Members of this council can join the ruling council, but they gain no benefit in terms of their powers. This demonstrates that there is no mystical significance to the number of members in the Council of Tribes.
 
-### **Magical Ability**
+### Magical Ability
 
 An obvious way to become more skilled at controlling magical forces is to study the nature of those forces. Soqotran magicians may learn how to manipulate magic through training and practice of their Abilities. Their spirit allies may withhold training from magicians who have undesirable Personality Traits. They do this to avoid the appearance of powerful magical villains on the island. The culture of the Soqotran magicians is such that they do not think that it is unusual to provide service to the spirits in exchange for training.
 
@@ -6396,7 +6396,7 @@ Soqotran magic uses spells that have levels taken from the tables in the followi
 
 The King of the Olibanum Serpents does lend magic items to his magicians, like the scepters carried by the priesthood of the faerie god Serapis (i.e. the Council of Tribes). These are ancient items from the Egypto-Hellenic period that were captured by the spies of the ruling council in foreign areas, or are Hermetic items constructed by Verditius magi. Who these magi are, and how their items came into the possession of the King of the Olibanum Serpents is not detailed but may serve as a story hook to lead the characters toward Soqotra.
 
-## **Unusual Ranges and Durations**
+## Unusual Ranges and Durations
 
 Soqotran magicians also have a distinctive set of Ranges and Durations that they may use in addition to those employed by Hermetic magi.
 
@@ -6434,7 +6434,7 @@ self-perpetuating process, like planting a seed. Perpetual is treated as Year du
 
 **Scent**: This Range affects all people who can smell incense that was ignited by the caster during the recitation of this spell. It is treated as an alternative to Voice. Hermetic magic already has a Smell Target, although its use is rare compared with Soqotran practice.
 
-### **A Note on Ritual Magic**
+### A Note on Ritual Magic
 
 Soqotran magic usually has a ritualistic element, as described in Sources of Power, below. Soqotran sorcerers do not, however, divide their magic into Formulaic and Ritual effects. Powerful sorcerers may cast the same effect with a momentary incense ceremony that their less-skilled tribemates must fuel with a full incense ceremony.
 
@@ -6442,7 +6442,7 @@ There are, however, some potent effects that can only be produced with full ince
 
 In general, spells require a full incense ritual if they have an Ease Factor of 30 or more. The Perpetual Duration does not, of itself, require a full incense ritual, but it does raise the underlying level of effect so much that one is often required.
 
-### **Aloe Grimoire**
+### Aloe Grimoire
 
 Each spell given in the Grimoire sections of this chapter has an Hermetic equivalence in the brief design notes that follow its description. These equivalences are used for calculating dice rolls when characters of Soqotran heritage clash with Hermetic characters, but do not guide in the creation of Hermetic spells that mimic Soqotran workings.
 
@@ -6455,7 +6455,7 @@ Other Soqotran effects can be reproduced Hermetically, but at a level of power t
 
 Note that Hermetic equivalences use levels, not magnitudes. They translate Soqotran spells into Hermetic terms, and Soqotran magic does not change scale in the way Hermetic magic does at level 5.
 
-### **Closing Lacerations of the Skin**
+### Closing Lacerations of the Skin
 
 Aloe 9
 
@@ -6463,7 +6463,7 @@ R: Touch, D: Regrowth, T: Individual This spell is used to repair the superficia
 
 Aloe Magic Level 9 (Base 6 +3 Touch) / CrCo 15 (Base 10 +5 Touch)
 
-### **Regrowth of the Lost Finger**
+### Regrowth of the Lost Finger
 
 Aloe 9
 
@@ -6478,7 +6478,7 @@ R: Touch, D: Regrowth, T: Individual This spell completely cures a character of 
 
 Aloe Magic Level 18 (Base 15 +3 Touch) / CrCo 30 (Base 25 +5 Touch)
 
-### **Repair the Tools of the Sorcerous Craft**
+### Repair the Tools of the Sorcerous Craft
 
 Aloe 21
 
@@ -6488,7 +6488,7 @@ Versions of this spell are used to repair damaged sorcerous tools. This includes
 
 Aloe Magic Level 21 (Base 21 –3 Incense +3 Touch) / CrAn(HeTe) 35 (Base 35 –5 Incense +5 Touch)
 
-### **Suitability For Burial**
+### Suitability For Burial
 
 Aloe 21
 
@@ -6508,7 +6508,7 @@ This spell allows a character to create useful weapons out of random and rusted 
 
 Aloe Magic Level 24 (Base 21, +3 Touch) / CrTe 40 (Base 35 +5 Touch)
 
-### **Repairing The Boat**
+### Repairing The Boat
 
 Aloe 30
 
@@ -6516,7 +6516,7 @@ R: Touch, D: Regrowth, T: Individual This spell allows the character to repair t
 
 Aloe Magic Level 30 (Base 18, +3 Touch, +9 Structure) / CrHe 50 (Base 30 +5 Touch, +15 Structure)
 
-### **Return to Vigor**
+### Return to Vigor
 
 Aloe 30
 
@@ -6571,7 +6571,7 @@ For example, a character wishes to climb one of the cliffs in the mountains to e
 
 Cinnabar Magic Level 9 (Base 3 +3 Touch +3 Censer) / ReVi(CoMe) 15 (Base 5 +5 Touch +5 Censer)
 
-### **The Maintenance of Bravery**
+### The Maintenance of Bravery
 
 Cinnabar 9
 
@@ -6585,11 +6585,11 @@ Flaw. Impotence is one of the side effects of chewing qat, a popular recreation 
 
 Aloe Magic Level 30, (Base level 27, +3 Touch) / CrCo 50 (Base 45 +5 Touch)
 
-### **Cinnabar Grimoire**
+### Cinnabar Grimoire
 
 As noted in the Aloe Grimoire, above, the Hermetic levels given in the design notes of each of these spells are for use with Hermetic Magic Resistance and countermagic. They should not be read as indicating Hermetic magi could produce the same effects at the nominated levels.
 
-### **The Continuance of Good Fortune**
+### The Continuance of Good Fortune
 
 Cinnabar 9
 
@@ -6618,7 +6618,7 @@ For example, a wizard wants to be able to sneak past a sentry later in the day. 
 
 Cinnabar Magic Level 15 (Base 3 +9 Sight +3 Censer) / ReVi (CoMe) 25 (Base 5 +15 Sight +5 Censer)
 
-### **Preservation of the Harvest**
+### Preservation of the Harvest
 
 Cinnabar 9
 
@@ -6628,7 +6628,7 @@ This spell prevents all of the food within a circle from being attacked by roden
 
 Cinnabar Magic Level 9 (Base 0 +3 Touch, +6 Ring, +0 Circle) / ReAn 15 (Base 0, +5 Touch +10 Ring)
 
-### **Safety In the Burning Nest**
+### Safety In the Burning Nest
 
 Cinnabar 12
 
@@ -6638,7 +6638,7 @@ This spell increases the sorcerer's resistance to injury from fire, by increasin
 
 Cinnabar Magic Level 12 (Base 6, +6 Sun) / MuCo 20 (Base 10, +10 Sun)
 
-### **Unfair Naval Dueling**
+### Unfair Naval Dueling
 
 Cinnabar 21
 
@@ -6681,11 +6681,11 @@ A spell cast successfully against this Ease Factor forces a target to maintain g
 **Ease Factor 24:** Immunity to deprivation of air.
 
 
-### **Myrrh Grimoire**
+### Myrrh Grimoire
 
 As noted in the Aloe Grimoire, above, the Hermetic levels given in the design notes of each of these spells are for use with Hermetic Magic Resistance and countermagic. They should not be read as indicating Hermetic magi could produce the same effects at the nominated levels.
 
-### **Eyesight of the Ancient Hero**
+### Eyesight of the Ancient Hero
 
 Myrrh 6
 
@@ -6695,7 +6695,7 @@ This spell grants the Keen Vision Virtue, which allows +3 on rolls involving eye
 
 Myrrh Magic Level 6 (Base 3, +3 Diameter) / MuCo 10 (Base 5 +5 Diameter)
 
-### **Enormity of the Ancient Hero**
+### Enormity of the Ancient Hero
 
 Myrrh 9
 
@@ -6705,7 +6705,7 @@ adjusts the character's wound ranges to suit.
 
 Myrrh Magic Level 9 (Base 3, +3 Touch, +3 Censer) / MuCo 15 (Base 5 +5 Touch +5 Censer)
 
-### **The Motion of the Sprite**
+### The Motion of the Sprite
 
 Myrrh 12
 
@@ -6715,12 +6715,12 @@ This spell grants the Lesser Faerie Power Virtue, and the Faerie Power Flight (a
 
 Myrrh Magic 12 (Base 3 +3 Touch, +6 Sun) / MuCo(Vi) 20 (Base 5 +5 Touch +10 Sun)
 
-### **Olibanum Grimoire**
+### Olibanum Grimoire
 
 As noted in the Aloe Grimoire, above, the Hermetic levels given in the design notes of each of these spells are for use with Hermetic Magic Resistance and countermagic. They should not be read as indicating Hermetic magi could produce the same effects at the nominated levels.
 
 
-### **Harvesting Knife**
+### Harvesting Knife
 
 Olibanum 3
 
@@ -6728,7 +6728,7 @@ R: Touch, D: Concentration, T: Incense This spell controls the harvesting knife 
 
 Olibanum Magic 3 (Base 0, Touch +3, Concentration +3, Incense –3) / ReTe(An) 5 (Base 0, +5 Touch, +5 Concentration –5 Incense)
 
-### **Theft of Essences**
+### Theft of Essences
 
 Olibanum 6
 
@@ -6738,7 +6738,7 @@ This spell attempts to steal an opponent's incense. This spell is used to grab a
 
 Olibanum Magic 6 (Base 0, +9 Sight, –3 Incense)/ ReVi 10
 
-### **Flying Knife**
+### Flying Knife
 
 Olibanum 12
 
@@ -6771,7 +6771,7 @@ must land in the following round or lose his grip and fall. A new check is made 
 
 Olibanum Magic 12 (Base 0, +3 Touch, +12 Perpetual, –3 Incense) / ReTe(An) 20 (Base 0, +5 Touch +20 Perpetual –5 Incense)
 
-### **Rain of Rocks**
+### Rain of Rocks
 
 Olibanum 12
 
@@ -6783,7 +6783,7 @@ With smooth, natural pebbles, this spell does +10 damage; but nails, usually car
 
 Olibanum Magic 12 (Base 0, +6 Voice, +6 Group) / ReTe 20 (Base 0, +10 Voice +10 Group)
 
-### **Command Centipedes**
+### Command Centipedes
 
 Olibanum 24
 
@@ -6793,7 +6793,7 @@ The centipedes of Soqotra are venomous and around a foot long. This spell comman
 
 Olibanum Magic 24 (Base 3, +3 Touch, +12 Perpetual, +6 Group) / ReAn40 (Base 5, +5 Touch +20 Perpetual +10 Group)
 
-### **Mark of Justice**
+### Mark of Justice
 
 Olibanum 33
 
@@ -6806,7 +6806,7 @@ it is good theater and has a psychological effect on troublemakers.
 
 Olibanum Magic level 33 (Base 18, +3 Touch, +12 Perpetual) / ReHe 55 (Base 30, +5 Touch +20 Perpetual)
 
-### **Control Wind**
+### Control Wind
 
 Olibanum 33
 
@@ -6883,7 +6883,7 @@ The method of teaching is faster for Soqotran sorcerers than Hermetic magi, but 
 
 Hermetic magi cast minor spells spontaneously, and save their study for a few potent spells. In contrast, Soqotrans sorcerers often have many small spells instead, since they are easier to obtain training in. They try to work out ways to use little spells in versatile combinations, as a result.
 
-### **Warping**
+### Warping
 
 Instead of suffering Twilight, Soqotran sorcerers transform into the shape of the tree corresponding to their tribe. This transformation may be triggered whenever the character gains 2 or more Warping points in a single event. The character's ally can transform the sorcerer back by spending Might points equal to the Warping gained during the following spring. After returning to human shape, the character gains Experience points in his Magical Ability related to his tribe equal to the number of Warping points gained. In the tree form the character is not self-aware.
 
@@ -6898,7 +6898,7 @@ These trees are magical, and after many years of care they produce vis. After ma
 
 The Soqotran sorcerers are unusual, from a Hermetic perspective, in that their tradition has access to the complete resources of a kingdom. The islands of the archipelago, although they are admittedly small and distant from the Order, are rich in desirable products like incense and metals, and have access to trade links that stretch as far as Serica.
 
-### **Aura of Soqotra**
+### Aura of Soqotra
 
 All of the main island of Soqotra, and the lesser islands that the magicians have claimed for their own, have a Magic aura of 2 in any place that is not otherwise influenced. That is, the island is filled with magic, the largest exception being the city and the port, which have a Dominion aura. Many villages and burial grounds have Dominion auras, and there are rings of faerie sites around each human settlement. A few Infernal sites are found in the wilderness, as well. This aura does not increase in size if the sorcerers claim more territory away from the island. The political and mystical boundaries of Soqotra are identical because the magicians choose not to expand their territory beyond the area richly endowed with magic.
 
@@ -6910,7 +6910,7 @@ The plateau is dotted with caves, and these have been inhabited by Soqotra's poo
 
 The three smaller islands in the archipelago are low lying. The largest, Abd Al Kuri, has a few hundred inhabitants; the smallest, Darsah, lacks any inhabitants.
 
-### **Population**
+### Population
 
 The population of the archipelago varies, historically, from around 1,000 to about 40,000. Storyguides should vary the population to suit the stories they wish to tell. A larger population makes a bigger ruling caste of magicians possible, but also provides armed naval forces, for stories involving the clash of nations. When Soqotra's population increases, its deficit of locally produced food becomes more severe, which tempts its people to conquer neighboring port cities and convert them into tributaries. If a storyguide selects a heavily populated Soqotra, he might also consider a stronger Soqotran presence in Red Sea ports.
 
@@ -6924,7 +6924,7 @@ The people of the islands speak Soqotri, an indigenous language not found elsewh
 
 
 
-### **Industries**
+### Industries
 
 Soqotra's population lives in an agrarian economy. The coastal people are often fishermen, and their surplus fish are dried and exported. Soqotra is also famous as the source of four different kinds of tortoiseshell. Some Soqotrans engage in whaling, as well. They spear the whale with a harpoon made of iron, with a rope and float attached, so that they can track the whale and recover its body once it has died of its injury. Others scavenge from the corpses of whales that wash up regularly on Soqotra's beaches. The most valuable substance taken from whales is ambergris (see the insert, later). Whales also provide cetacean oil, meat, and ivory.
 
@@ -6932,7 +6932,7 @@ Farming of the four great trees aside, Soqotrans supplement their fishing with c
 
 The island exports few manufactured goods, but cotton and pottery are both produced. Many other manufactured goods are bought to the island by pirates, who trade them for the exports listed above, or for valuable metals or gemstones mined on the island's plateau.
 
-### **Trade**
+### Trade
 
 Soqotra is on an ancient trade route, an alternative to the overland Silk Road. The Red Sea route was supported by the Romans as a way of cutting the natives of the Middle East out of their trade with the East, to reduce the prices paid for spices; the route is well known to any student of the classics. Most of the spices exported from Egypt come along the Red Sea route, rather than by way of the Silk Road.
 
@@ -6948,7 +6948,7 @@ trade route. It is independent of any of the neighboring states, and able to rep
 
 Soqotra is cut off from the rest of the world during the monsoon. The ports are closed from June to September, although some local fishing still occurs.
 
-### **Unusual Natural Resources**
+### Unusual Natural Resources
 
 Soqotra has some native animals that are unusual, and can be commanded by Soqotran sorcerers to useful effect.
 
@@ -6958,7 +6958,7 @@ Soqotra lacks any native amphibians, or mammals other than bats. The apex predat
 
 Most deadly of the native inhabitants of Soqotra is a fly that is found in marshy areas. If swallowed, it causes the victim to die of pneumonia. There are few cures, so the areas where the fly is found are avoided; many people wear masks or stuff their beards into their mouths in marshy areas. The fly makes a distinctive noise, so many older men, who have heard the fly before and know to shut their mouths when they hear its unique sound, do not take precautions against it.
 
-### **Magical Endemic Creatures**
+### Magical Endemic Creatures
 
 There are several Soqotran creatures that have unusual magical abilities. The sorcerers of Soqotra control these creatures, and use them to harm their enemies.
 
@@ -7059,7 +7059,7 @@ bone weapons, although not, unfortunately, claws. (Base 3, +6 Sun)
 
 In 1220 the sphere of influence that the Soqotrans maintain, in order to ensure grain deliveries to their islands, is on the very fringes of the Hermetic world. The two groups are beginning to become aware of each other, although the information they have is incomplete and misunderstood.
 
-### **What the Order Knows**
+### What the Order Knows
 
 The Order of Hermes is aware that the sorcerers of Soqotra exist. They have played no role in the history of the Order. They are far away — too far for the initial gathering of Founders, and too far for the wars of expansion under Flambeau, Tytalus, and Tremere. Trianoma certainly traveled by this area when she ventured deep into Africa to find the dragon that sent her to the cave of Bonisagus, but there's no record of contact in her (known) diaries.
 
@@ -7068,7 +7068,7 @@ The line of Pralix has often considered sending an expedition to Soqotra, and ha
 Pralix's descendants have always been able to find new traditions to interest them closer to their own places of power. In the 13th century, there are some changes that may make this expedition more practical, though. The Order has more Arabic members, which makes the members of the expedition less conspicuous. Trade flourishes in the Mediterranean, and this leads to greater opportunities for travel. Shipbuilding has improved markedly, which makes
 
 
-### **What the Soqotrans Know**
+### What the Soqotrans Know
 
 The Soqotrans know rather more about the Order than the Order knows about the Soqotrans. The King of the Olibanum Serpents has been aware of the Order's growth since the time of the Founders, but was unwilling to send a participant to investigate it. He knows that the members of the Order hunt magical animals for vis, which is not practiced on Soqotra, and that they have been belligerently expansionist. The king thinks that if the Order discovers how wealthy his magicians are, then the magi will try to seize the island by force. Many of the councilors are also aware that there is a more powerful order of wizards in Europe, and that it is the policy of the Soqotrans to avoid contact with them.
 
@@ -7080,7 +7080,7 @@ Soqotran wizards might come off their island and contest with Hermetic magi for 
 
 
 
-### **In Response to Attack**
+### In Response to Attack
 
 If a raid is attempted on the island, the Soqotrans deal with the immediate group of aggressors. They capture the raiders if it is safe to do so, to interrogate them. Then they gather further information about the Order, by having one of the Council of Three Birds contact the Lineage of Pralix. They hope that the recruitment enticements from the Pralixians will be sufficient to allow them to gain enough information about the Order to formulate a strategy.
 
@@ -7088,7 +7088,7 @@ The Parma Magica is a fantastic prize, and joining the Order is one way to procu
 
 The Soqotrans are averse to joining the Order, though, because their king does not wish it to be known that he kept the nature of vis from his sorcerers. That being noted, once his magicians have the Parma Magica, the structure of his society must change. It may be easiest for him to claim that this information is new, and to pass it on to his troops as a spoil of war.
 
-## **In Response to Incursion into the Red Sea**
+## In Response to Incursion into the Red Sea
 
 A permanent Hermetic presence in the Red Sea triggers an information-gathering response from the King of the Olibanum Serpents. The king sees the Redcap network as the weak point in the Order, and he uses the Myrrh Tribe to draw as much information out of them as he can. This is followed by an attack, if that seems wise.
 
@@ -7100,7 +7100,7 @@ There is the possibility that a Grand Tribunal might nominate the Soqotrans as "
 
 An alternative, that the Soqotrans might enter the Order as a new House, is initially even more difficult. The Order has, currently, no way of accepting that a spirit can be the Primus of a House. The addition of another House, with so many members, also changes the voting structure of the Order. If the Soqotrans become a House in the Order, then their society must change, as the relationship between the spirits and humans must be renegotiated.
 
-## **In Response to Mundane Aggression**
+## In Response to Mundane Aggression
 
 In the past, various mainland rulers have attempted to conquer the Soqotrans. With the exception of Alexander the Great they have always failed — and the Soqotrans now keep Alexandria's faerie god in a box. The last to make an earnest effort was the brother of Saladin, from whom they just hid the entire island using Aloe illusions and Olibanum currents, so that his fleet could not find it. He decided to ignore Soqotra, which was just conveniently placed on his way to conquer Yemen. The Soqotrans don't see the need to waste their mundane servants on wars with the rulers of neighboring states. There is, however, an exception: ports never close on Soqotran vessels.
 
@@ -7108,7 +7108,7 @@ Soqotra's population can subsist for about two years on stored food. Beyond this
 
 This action may cause friction with Hermetic interests. Now that there are covenants in the Levant, the destruction of the ruling class of a city will come to the attention of Hermetic magi. Hermetic magi often suffer when other types of magician anger the nobility of an area, so the Order's members may wish to curb the activities of the Soqotrans. They may not, initially, realize that the Soqotrans are more than a cabal of hedge magicians.
 
-### **If Serapis Escapes**
+### If Serapis Escapes
 
 The faerie Serapis is a god of empire. He chooses a human vessel, and then with the patience of the immortal, builds his forces before striking down his potential enemies. After Serapis escapes, his Soqotran army conquers a section of Africa. After sufficient time to bed down his conquest and train the locals as his armies, a crusading horde of African Christians emerges from the desert and attacks Egypt. Emissaries are sent to the major courts of Europe, asking for aid to crush the Muslims.
 
@@ -7126,7 +7126,7 @@ An Order that is merely humbled, either by civil war or by successful war agains
 
 Some events may push the two groups of magicians into each other's way, with only luck deciding if the contact is belligerent or amicable.
 
-## **If a Fourth Spirit Sovereign Arises**
+## If a Fourth Spirit Sovereign Arises
 
 The current policy of the Soqotrans is driven by the paranoia of the King of the Olibanum Serpents. He knows that the Order, at times, is a genocidal war machine that would gladly consume his people. He also knows that his servants may hate him if they discover he has deceived them about the nature of vis. To protect his people and himself he has cowed, and in the case of the Cinnabar Tribe perhaps destroyed, the other spirit sovereigns. Matters may change if a fourth spirit sovereign arises.
 
@@ -7134,7 +7134,7 @@ One source of a new sovereign is the Cinnabar Tribe. They may gain a sovereign b
 
 Each of the other sovereigns may die, or be replaced. The bennu is destroyed and reborn periodically. The Queen of Myrrh may pass into Arcadia seeking new stories. The King of the Olibanum Serpents may become some other form of spirit not tied to the island. New sovereigns may have new policies.
 
-### **Contact with the Hesperides**
+### Contact with the Hesperides
 
 In *Ancient Magic*, characters are given incentives to voyage to the Garden of the Heperides, located off the northwest coast of Africa, which is the only other place where the cinnabar tree is known to grow. There they may discover a great serpent named Ladon, born of the destruction of Atlantis, with stored mystical knowledge and a desire to create a new age of magic. Coupled with this, they know there is another garden of magic ruled by a dragon in deep Africa, because it is there that Trianoma was told to seek out Bonisagus, beginning the current era of mystical co-operation.
 
@@ -7147,23 +7147,23 @@ The meaning of this pattern isn't clear. Each serpent, if asked, will answer fro
 
 A number of breakthroughs are possible to researchers who incorporate Soqotran magic into Hermetic practice.
 
-## **Greater Ease in Binding Familiars**
+## Greater Ease in Binding Familiars
 
 As a Major Breakthrough, the Soqatran method of binding children to spirits may be incorporated into Hermetic magic. After this occurs, for a highly limited range of potential familiars the Might score of the creature does not increase the Familiar Bonding Level, described on page 104 of **Ars Magica Fifth Edition**.
 
 
 
-### **Greater Longevity**
+### Greater Longevity
 
 Soqotran sorcerers live longer simply by being skilled in the magic of preservation. Their limited knowledge in this field is inferior to that of the Corpus specialists of the Order, but the inclusion of their knowledge, as a Major Breakthrough, adds an extra modifier to the longevity ritual total, equal to (the Corpus score of the ritual's recipient /10).
 
-### **New Durations**
+### New Durations
 
 A character who begins researching the Censer Duration may find that similar work, based on the Fire Duration found in the faerie magic of House Merinita, is already complete. This should be treated as guaranteed Insight, but characters must seek out the magician whose experiments they hope to gain from, and bargain for access to the research. As this is a Minor Breakthrough, and research assistance may come from unexpected places (House Flambeau, for example) this project is one of the simplest of Minor Breakthroughs for a character to attempt.
 
 The Perpetual Duration is a Hermetic Breakthrough. It is of great interest to all magi, as it would allow, as an example, wards that do not require periodic renewal. Similar research may have been done by other magi, since this is an obvious and widely applicable idea.
 
-### **Preserved Rolls**
+### Preserved Rolls
 
 The ability to preserve luck (or from the player perspective, dice rolls) would be invaluable in mundane combat. How this feature of Soqotran magic works is unclear
 
@@ -7177,7 +7177,7 @@ The author apologizes to anyone offended by this chapter, which, by necessity, m
 
 to Hermetic magi. It is perhaps a ReMe(Co) effect. Hermetic researchers require a Major Breakthrough to mimic this effect.
 
-### **The Spark**
+### The Spark
 
 The most valuable secret of Soqotran sorcery, to Hermetic magi, is their ability to use fractions of vis as though they were whole pawns. This is superficially remarkable, but it isn't a completely alien way of spellcasting for Hermetic magi. Verditius magi cast spells much the same way Soqotrans do. Verditus magi create a casting tool that is suited to each spell. The Soqotrans use vis, which is connected to every possible spell that the vis could be used for, instead of specific tools.
 

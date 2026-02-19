@@ -23,7 +23,7 @@
 
 **Third Round Playtesters:** Jason Brennan, Justin Brennan, Elisha Campbell, Robert Major; Donna Giltrap, Malcolm Harbrow, Aaron Hicks, Richard Love; Pelle Kofod; Alexander Bader, Tanja Bader, Simone Bischof, Stefan Ehret, MaPhi Werner
 
-#### **Author Biographies**
+#### Author Biographies
 
 **Mark Lawford** lives in Eastbourne on England's sunny south coast where he is working on his first novel and continues to feed his newfound love of strength sports. Mark is also currently co-editor of Sub Rosa, the Ars Magic fan magazine. He'd like to dedicate his work on this book to David Chart, without whom Mark would never have sent in that first open call submission. It's been a great run and Mark has had the chance to do just about everything he wanted with the game.
 
@@ -590,7 +590,7 @@ Any Divine or Infernal visions or premonitions concerning story events should po
 
 The plan to end all time was hatched in the decades that followed the Schism War and is known only to those who achieve a certain level of Enigmatic Wisdom. Numerous approaches were explored before it was ultimately decided to breach the Lunar Sphere. For generations, the knowledge was kept within the most senior of the House's magi and their trusted researchers, but it has recently been filtering down throughout the House. The nearby table suggests the level of knowledge of the plan available at a given Enigmatic Wisdom or House Criamon Lore level.
 
-#### **Enigmatic Wisdom/Knowledge House Criamon Lore**
+#### Enigmatic Wisdom/Knowledge House Criamon Lore
 
 - 5 The end of time shall be House Criamon's gift to the cosmos.
 - 6 House Criamon has been actively working to bring about the end of time.
@@ -600,7 +600,7 @@ The plan to end all time was hatched in the decades that followed the Schism War
 
 In addition, when the final magical breakthrough has been made, magi of House Criamon are offered initiation into the secret new mysteries of the House when they reach Enigmatic Wisdom level 7; the very same magic to be used to bring about the end of time.
 
-## **The Schism War and Other Calamities**
+## The Schism War and Other Calamities
 
 The Schism War was neither the first nor the last event that demonstrated to House Criamon that the world had to escape the cycle of suffering within which it was trapped, but it was a decisive moment. The Sundering of House Tremere, the Schism War, the corruption of House Tytalus, the war with Damhan-Allaidh soon after the founding of the Order, the crusades perpetrated by the mundanes; they all reinforce the belief that humanity is incapable of living through eternity without causing suffering without measure.
 
@@ -608,7 +608,7 @@ The mystics of House Criamon were originally set a task: find evidence that the 
 
 With no hope on the horizon, a council convened in the deepest parts of the Cave of Twisting Shadows and decided the fate of the world.
 
-## **The True Destiny of House Criamon**
+## The True Destiny of House Criamon
 
 It is important to note that House Criamon has committed itself to this path not by some corruption of their beliefs but as a *consequence* of those beliefs. Its magi believe that Criamon the Founder wants them to release him from the duty he performs, namely holding open the path between the material realms and Twilight. As Criamon wanted to escape the suffering of the world, so his followers believe that all must follow him out of the world. They see it as a responsibility to release the world and its populace into the Hypostasis that sits outside of the universe. Bringing about the end of time is their means to this end.
 
@@ -632,7 +632,7 @@ An alchemist at heart, Anaximander yearns for knowledge of new elements and new 
 
 Anaximander's voting sigil is a staff bearing a red lion's head at its top. He dresses exclusively in robes of deep red and travels in a chariot drawn by an iron horse that has been allowed to rust, giving it a blood-red character. These facets identify Anaximander as the Red Horseman, the second of the heavenly seals.
 
-#### **Agents**
+#### Agents
 
 Anaximander has outlived a number of venditores but still supports agents in three Tribunals, including a Mercere Redcap in Hibernia called Luathan, an Augustan monk in Provencal, and even a Radhanite merchant in Baghdad.
 
@@ -754,7 +754,7 @@ Given her Initiations and great age, Brighde has more Virtues and Flaws than a c
 
 \*\*\* See Hermetic Projects, Chapter Five
 
-#### **TACTICS**
+#### TACTICS
 
 Brighde never enters a foreign Aegis of the Hearth without first being granted a token associated with that Aegis.
 
@@ -764,7 +764,7 @@ With the tools assembled and not before, Brighde offers the mandated warning. At
 
 
 
-### **The White Salve**
+### The White Salve
 
 PeCo 15
 
@@ -776,7 +776,7 @@ This is a charged device and Brighde has a steady supply created for her by Hous
 
 (Base 3, +1 Touch, +3 Moon)
 
-#### **Talisman: The White Bow**
+#### Talisman: The White Bow
 
 **Opening the Intangible Tunnel**
 
@@ -806,7 +806,7 @@ This spell uses the Perdo Corpus guidelines from *Art & Academe*, page 57 and th
 
 (Effect: Base 20, +1 Touch; Modifications: +1 2/day, +15 for +30 Penetration)
 
-## **Beathan, the Seven-league Destrier**
+## Beathan, the Seven-league Destrier
 
 Brighde traveled far to find her familiar, Beathan, having found no such beast in her home Tribunal.
 
@@ -927,11 +927,11 @@ The antagonists described above are presented *before* the major breakthrough th
 
 The above statistics account for the majority of the available experience points for a magus of his age. The remainder have been spent in many years worth of laboratory work, some in service to House Criamon where he has built numerous devices installed in Criamon laboratories across Mythic Europe. He has access to a vast array of laboratory texts, by himself and various colleagues through the years.
 
-#### **Casting Tools**
+#### Casting Tools
 
 Anaximander's casting tools are the same he uses for his smithing work and include numerous small hammers, pliers, tongs, rasps, files, and snips. When casting, these must be used upon a piece of silver or gold secured in a hand-held vice and strung from a loop upon his belt. The tools are not enchanted.
 
-#### **The Death of an Antagonist**
+#### The Death of an Antagonist
 
 The death of one of the four primary antagonists is not necessarily the end of House Criamon's plan. The House will look for alternatives to carry on the work. Anaximander is easy to replace as his involvement is simply in building an observatory. Brighde can be replaced by the hiring of Hermetic mercenaries skilled in combative arts willing to serve for payment. If Andreva is removed then others from the House will be recruited to fill her place.
 
@@ -1038,7 +1038,7 @@ In keeping with this, there are many mystical *Axes Mundi* across Mythic Europe.
 
 **Personality Traits**: Driven +3, Impatient +2, Dismissive +1
 
-#### **Combat**:
+#### Combat:
 
 *Dodge*: Init +0, Attack n/a, Defense +0, Damage n/a
 
@@ -1058,7 +1058,7 @@ In keeping with this, there are many mystical *Axes Mundi* across Mythic Europe.
 
 **Appearance**: A thin woman appearing around 70 years of age, modestly if untidily dressed. She has pale skin and her strained eyes have a yellow tinge to them. The stigma and tattoos of her House are clear across her hands, arm, neck, and face. Once she makes the breakthrough she is working on, the tattoos on her face disappear, replaced by a single stylized representation of the moon.
 
-#### **Spells Known**:
+#### Spells Known:
 
 *Shape of the Pale Horse* (MuCo(An) 25) +19 *Moonbeam* (CrIg 3) +31 *Heat of the Searing Forge* (CrIg 10) +31 *Pilum of Fire* (CrIg 20) +31 *Words of the Unbroken Silence* (CrMe 10) +22 *Shadows of the Fires Past* (InIg 15) +33 *Tales of the Ashes* (InIg 5) +33 *Eyes of the Eons* (InTe 10) +22 *Unseen Arm* (ReTe 5) +23 *The Phantom Gift* (CrVi 15) +35 *Scales of the Magical Weight* (InVi 5) +37 *Sense of Magical Power* (InVi 2) +37 *Sense the Nature of Vis* (InVi 5) +37 *Wizard's Communion* (MuVi 20) +32 *Masking the Odor of Magic* (PeVi 20) +35 *Disenchant* (PeVi 20) +46
 
@@ -1072,7 +1072,7 @@ as Mount Olympus, while others may go unnoticed with nothing to suggest its cosm
 
 Time and the sands have conspired to bury most of the city of Megiddo and there is little left of the city on the surface: just a few dusty ruins that provide occasional shelter to pilgrims, shepherds, and bandits. However, beneath the dust and sand, House Criamon have cleared out a series of tunnels and chambers, which they use as libraries and laboratories. This network surrounds a buried Canaanite temple. This great domed structure has been adapted into a ritual space from where House Criamon can call down the heavens.
 
-#### **Properties of the Axis Mundi**
+#### Properties of the Axis Mundi
 
 While the new Form of Aether (described below) allows magi to manipulate the substance that makes up the ethereal spheres, the Axis Mundi is the only place in Mythic Europe where the ethereal spheres themselves are sufficiently close to the world that magic may act upon them. Outside of the Axis, the connection is too tenuous to allow magic to breach the barriers. At these focal points across Mythic Europe, the spheres are considered to be touching one another.
 
@@ -1159,7 +1159,7 @@ Anaximander is surprised by any visitors but not unwelcoming, assuming that his 
 
 As 1231 approaches, members of House Criamon, including Lena Kessler (see later) arrive to operate the device. Stories of these tattooed magi heading out to sea may then reach the covenant.
 
-### **The Great Observatory**
+### The Great Observatory
 
 The Observatory primarily functions as a huge armillary sphere, as per *The Mysteries: Revised Edition*, page 52, but it also has another purpose: to identify the Axis Mundi.
 
@@ -1189,7 +1189,7 @@ The stories outlined allow the players to intervene at any stage in the process.
 
 If the player characters turn a blind eye or fail to stop House Criamon, all is not lost. While the world does experience apocalyptic conditions as a result of the House's actions, the player characters can help put the world right, perhaps even using House Criamon's own research.
 
-## **Why is the Order Looking the Other Way?**
+## Why is the Order Looking the Other Way?
 
 Nobody wants another Schism War. To even consider singling out an entire House for investigation, let alone action, raises too many parallels with what happened to House Diedne to be contemplated. The burden of evidence needed to persuade even junior Quaesitors or others with political influence of House Criamon's activities is considerable, even without considering the outlandish nature of any such claims.
 
@@ -1197,13 +1197,13 @@ Not until members of House Criamon start disappearing from public view can those
 
 information on a rumored observatory. He and his two astrologer companions are keen to see the device and meet those who commissioned and designed it. Inevitably, Marten appeals to the player magi to help him discover more. He has heard that it was built at sea off the nearby coast and the rumor reached him ultimately from a glass-worker who worked upon one of the great lenses. He has been able to piece together some (inaccurate) drawings of the tower from the glass-worker's limited descriptions.
 
-#### **The Missing Men**
+#### The Missing Men
 
 As House Criamon have gained the information they needed from the observatory, namely the location of the Axis Mundi, only a token presence has been left. There are signs of three men living in the tower: there are three beds in a common room, three sets of possessions, etc. However, what quickly becomes evident once the player magi arrive, is that these three are missing. Store rooms have been ransacked and the walls are daubed in broken Latin phrases urging visitors to "Go Away" and to "Leave this Place" and informing them "You are Not Wanted Here."
 
 With no sanctum marker barring entry, the player characters are free to explore the observatory and even to investigate its magic, should they wish.
 
-### **The Observatory Under Siege**
+### The Observatory Under Siege
 
 The visitors are not alone, however. A spirit of primal bitter loneliness haunts the rock. It was this spirit that possessed one of the three caretakers and forced him to murder the others, throwing himself into the sea as a final act. It wants to be left alone and it uses its powers to control the weak.
 
@@ -1215,7 +1215,7 @@ The magi and their companions must flee the rock or find and subdue the spirit.
 
 If the spirit can be subdued, it can also be interrogated. It was present throughout the time when House Criamon was using the Observatory to find their Axis Mundi and it is able to mimic the actions taken by the magi when they found the Axes Mundi across Mythic Europe.
 
-#### **Conclusion**
+#### Conclusion
 
 Early in the overall story of House Criamon and their plans, this story might initially play out as one simply of survival against a murderous monster, but the players may return to the observatory at a later date for further investigations.
 
@@ -1267,7 +1267,7 @@ Loneliness breeds bitterness and this spirit is driven by its bitterness, driven
 
 
 
-#### **Encountering the Madmen**
+#### Encountering the Madmen
 
 #### There are two ways to introduce this story. The first is to give the player magi the opportunity to investigate when talk of a group of pitiable lunatics reaches the covenant. One of these, it is claimed, is painted over with all manner of symbols and they claim among them some lordship over the moon and the stars. If this is insufficient to prompt an investigation then have a number of the covenant's companions or grogs encounter the group directly when in a nearby town buying supplies.
 
@@ -1275,7 +1275,7 @@ In either case, when the player characters find them there is a mob around them 
 
 The five lunatics are a monk, a doctor, a lawyer, an astrologer, and a miller. Each has their own mania; the monk thinks himself a prince of the heavens, the doctor believes that death is the only cure, the lawyer argues the heavens out of their movements, the astrologer constantly draws charts of the heavens upon himself and others, and the miller claims to change his form as the sun and the moon travel through the sky.
 
-#### **Dealing with the Rabble**
+#### Dealing with the Rabble
 
 It seems that the jeering rabble, who have only failed to string up the lunatics because of their own arguing about whether all or only some should be strung up and how it might be achieved, have just cause to be afraid of these deranged figures. They report that these men were seen late the previous night in a graveyard and that one of them had been seen with a disinterred leg over his shoulder and an arm between his teeth while he growled like a dog. An examination of the scene, should the players visit the nearby churchyard, confirms that a body had been dug up. The body itself is not important to this story, being just the unfortunate victim of the miller's deranged hunger.
 
@@ -1283,7 +1283,7 @@ In among the mob is Simo de Balencs, the weary captain of the town's small guard
 
 If the player characters show willing to take charge of the five men and promise to remove them from the town, then Simo de Balencs turns them over to their custody.
 
-#### **Talking to the Lunatics**
+#### Talking to the Lunatics
 
 Once free of the mob, the five affected men are content to talk, each revealing a little of their own manias and also, unwittingly, a little something of House Criamon's intentions.
 
@@ -1304,7 +1304,7 @@ One clue to the origin of their lunacy lies in the symbols that the astrologer i
 
 Furthermore, the charts and calculations the astrologer attempts may be recognized as being Hermetic in nature with a simple Magic Theory roll. His imagination, that part of his mind that recalls images he has seen, contains parts of texts and notes that he saw within Andreva's laboratory. The specific notes relate to the *Know the Moon's Influence*, an experimental spell detailed in the *Touching the Sky* appendix at the end of this chapter. Enough can be gained from the scrawled notes to learn the spell's Arts and that it is experimental.
 
-#### **Tales of their Captivity**
+#### Tales of their Captivity
 
 Affected their minds may be, but they have some knowledge of what happened to them. They remember being captured, kidnapped by armed men, and taken to a dark place of stone and no windows. There was a woman there in the darkness and in the feeble candlelight they could see that her skin was painted with odd unnatural symbols. She also cursed them repeatedly. However, they are all too convinced of their own particular manias to believe that she caused them.
 
@@ -1312,7 +1312,7 @@ The learned among the lunatics are clear that the woman spoke Latin, but a very 
 
 They do not remember how long they were with this woman, but they remember the woman losing interest in them. In truth, they spent a year with Andreva as she cast her experimental spells upon them.
 
-#### **Curing their Manias**
+#### Curing their Manias
 
 Examination of their humors shows an unnaturally strong and persistent influence of one humor over the others. The magi may *attempt* to cure this imbalance through magic directly affecting their minds, or through magic designed to operate over their bodily humors. Physicians may even prescribe particular diets to bring them back into balance. However, there is a magical effect at work creating something with the power to influence their humors, a persistent effect that continues to operate despite magical attempts to correct those humors; like trying to heal an arrow-wound while the arrowhead is still present. It is the continuing effect, and not the humors themselves, that needs to be addressed.
 
@@ -1322,7 +1322,7 @@ Until that time, the magic may be detected and partly identified with an Intelle
 
 Once free of the effect, and the balance of their humors addressed, the victims begin to remember where they came from and who they left behind. They each want to be rid of the filth and rags of their confinement and to go back to their own homes and their old lives, assuming that they are there to be found.
 
-## **Finding the Source of their Madness**
+## Finding the Source of their Madness
 
 The men know that their new understanding of the world was given to them by a woman of great learning, a result of the curses she cast upon them. Between the men, they have enough Latin to know that her magic made much of the moon. They are able to describe this woman in some detail. They describe Andreva of Criamon: a slender woman whose age is somewhat obscured by the markings upon her skin
 
@@ -1332,7 +1332,7 @@ As Andreva is a member of the player's Tribunal, her description is sufficient t
 
 Whether confronted in person, either directly following on from these events or at the next Tribunal, or through correspondence, Andreva is somewhat forthcoming, if cryptic. She explains that there will come a time when the moon may make shortlived fools of us all. She refuses to say more for fear of making liars of them all, except that she is glad that the men are well.
 
-#### **Andreva's Laboratory**
+#### Andreva's Laboratory
 
 Should the player characters choose to, the could attempt to access Andreva's laboratory (acts entirely against the Code, of course). If they succeed, they find numerous volumes of experimental laboratory texts, some successful, others not. The *Touching the Sky* appendix at the end of this chapter provides more information on the kind of effects that might be detailed.
 
@@ -1348,14 +1348,14 @@ A declaration of Wizard War follows if the warning is not heeded. She does this 
 
 The following story seeds can be used during your saga either as stories that directly involve the player covenant or as stories reported by their allies. In some cases, both may have occurred. They all involve the moon in some fashion and they are designed to introduce some of the important magi of House Criamon involved in the research. These are appropriate to run from around 1245 onwards at a rate of one every two to three years while the House is in the last years of its research.
 
-## **Introducing Brighde: Hunter's Moon**
+## Introducing Brighde: Hunter's Moon
 
 Lycanthropes most often change with the phases of the moon, so Brighde sponsors a hunt of such beasts. The covenant becomes involved in one of two ways:
 
 - The covenant may harbor a lycanthrope character who is hunted and captured alive, destined for laboratory experimentation.
 - A band of lycanthropes enters covenant lands, fleeing the magical hunters on their trail; it isn't immediately clear which faction poses the greater risk to the covenant.
 
-## **Introducing Beatritz: The Witch**
+## Introducing Beatritz: The Witch
 
 A monk and a detachment of soldiers scours the area looking for witches in order to put an end to their evil ways. As it turns out, they are actually looking for one in particular. With the aid of demons, she escaped imprisonment in Andreva's covenant where her response to Warping was being studied. The monk is an agent in Beatritz's employ and knows that she was part of their experiments. When the witch asks for aid from one of the player companions, how far are they prepared to go? Protect a witch who has trafficked with demons? Or cast her to the mercy of a man who has already hanged several innocents in his search?
 
@@ -1363,13 +1363,13 @@ The witch explains that she was subjected to magical tortures designed to bring 
 
 If the magi give her sanctuary, the monk contacts Beatritz, who then promptly arrives with Brighde in tow threatening to investigate the covenant for trafficking with hell's agents. This should, though, give the player characters time to identify Andreva as the experimenting maga.
 
-## **Introducing Andreva: Horoscope**
+## Introducing Andreva: Horoscope
 
 A young Criamon astrologer bearing a letter of introduction from Andreva of Criamon asks to stay at the covenant for a season in order to make important astronomical observations. His activities seem somewhat clandestine, however, and he frequently leaves the covenant with little word on where he is going.
 
 News reaches the covenant through its companions that physicians, scholars, and astrologers from the nearby town or court have found their precious horoscopes have been going missing from their libraries. They have been taken by the Hermetic astrologer. He is using them as a source of insight into a power to change an individual's horoscope and alter their fate in the process. Though he does not reveal it willingly, this work is on behalf of House Criamon as they research the true effects of the heavens on the populace.
 
-## **Introducing Andreva: The Rebellious Tide**
+## Introducing Andreva: The Rebellious Tide
 
 Councilmen from the nearest port come cap-in-hand to the covenant with a problem. For the last two months, the tide has been erratic, catching experienced sea captains off-guard, causing damage to vessels, and loss of goods and revenue. The problem started when a magus undertook certain studies near the harbor.
 
@@ -1384,7 +1384,7 @@ As the deep snows of winter settle across the land, a star falls from the sky, l
 
 This event did not have a natural cause, however. The star's fall was caused by an Adulteration (*Houses of Hermes: Mystery Cults*, page 53), an intense magical side-effect of Andreva being thrown into Twilight at the moment she made the final breakthrough and reached the Lunar Sphere.
 
-#### **The Burning Town**
+#### The Burning Town
 
 Approaching the town, the orange glow of fire is visible rising behind the walls, almost obscured by the smoke still drifting on the wind.
 
@@ -1414,7 +1414,7 @@ Virtues and Flaws: The Gift; Hermetic Magus; The Enigma\*, Educated, Minor Poten
 
 **Personality Traits**: Confident +3, Cooltempered +2, Idealistic +1
 
-#### **Combat**:
+#### Combat:
 
 *Dodge*: Init +0, Attack n/a, Defense +0, Damage n/a
 
@@ -1436,7 +1436,7 @@ Virtues and Flaws: The Gift; Hermetic Magus; The Enigma\*, Educated, Minor Poten
 
 **Appearance**: Deep blue robes with slender astrological symbols embroidered into the velvet, a long silver-cord belt, and numerous pouches hung around her waist. She is a sturdylooking woman with close-cropped fair hair and confident blue eyes.
 
-#### **Spells Known**:
+#### Spells Known:
 
 *Bind Wound* (CrCo 10) +6 *Aura of Ennobled Presence* (MuIm 10) +21\*\* *Words of the Unbroken Silence* (CrMe 10) +18 *Posing the Silent Question* (InMe 20) +19 *Trust of Childlike Faith* (PeMe 10) +22, Mastery 1 (penetration)
 
@@ -1453,7 +1453,7 @@ In addition to her own vis, she has also been provisioned with ten pawns each of
 
 mains of a market can be seen and there does indeed appear to be a robed woman at work, taking measurements and, readily apparent to the trained eye, casting magic.
 
-#### **The Maga**
+#### The Maga
 
 Lena Kessler of House Criamon is a member of the *Magoi of the Star* mystery cult (*The Mysteries: Revised*, page 54). This alone would be enough to explain her interest in the fallen star, but she is there on Criamon business and she intends to collect the fallen star. When challenged, she lays claim to the star, although it is clearly close enough to the player covenant that they should feel they also have a valid claim.
 
@@ -1465,7 +1465,7 @@ She admits to having used magic on certain of the townsfolk in order to ease her
 
 Lena Kessler has two attendants with her besides the sizable turb of grogs she has posted to guard the approaches to the star, one a grizzled veteran grog and the other a clerk. She has extended her Parma Magica over them to protect against minor magics.
 
-#### **The Star**
+#### The Star
 
 The star is almost impossible to see within the searing light it throws off, but it is a sphere just over a pace across. The heat accumulated from the journey through the fiery sphere is dissipating, but the star shines at the bottom of a pit that Kessler opened up beneath it, which affords some protection against the effects of the blinding light. Kessler is careful to warn others against both the heat and the light.
 
@@ -1473,13 +1473,13 @@ Those who see through the light see nothing visible at its heart; there is a phy
 
 An Intelligence + Magic Theory simple roll against an Ease Factor of 9 informs the magi that they are dealing with something that is beyond the limits of Hermetic Magic or something that has been so enchanted as to appear beyond those limits. An Intelligence + Philosophiae simple roll against an Ease Factor of 9 confirms that the object seems to have no discernible properties or qualities, and against an Ease Factor of 15 identifies it with Aristotle's description of aether.
 
-#### **The Alien Aura**
+#### The Alien Aura
 
 Crucially, the area around the fallen star has gained a new and alien supernatural aura (described later in this chapter). This Lunar Aura is of strength 3 and imposes a –15 penalty on casting totals generated within it. Intellego Vim magic designed to identify auras can detect that there is something there but it does not identify it as any of the four auras the Order understands.
 
 The aura does not move with the fallen star and it fades over the course of a season, becoming subsumed beneath the Dominion as it reasserts itself.
 
-#### **Resolving the Story**
+#### Resolving the Story
 
 Kessler wants the star. She has been sent to fetch it and take it back to her covenant (the stroyguide should decide where this is) for the purpose of studying it and she is not about to give it up easily. However, if confronted by superior numbers she does not act rashly. If threatened, she offers the reasonable option of certamen. She tries to ensure that the Arts are such that she can use the vis she carries with her to secure the outcome.
 
@@ -1493,7 +1493,7 @@ The star itself diminishes over the course of a decade although the blinding pow
 
 This Tribunal plays out as any might, with political squabbles between rivals and spats over the rightful ownership of vis, books, apprentices, and items left by magi fallen into twilight. However, there are potentially three events of interest.
 
-#### **Questions Over the Fallen Star**
+#### Questions Over the Fallen Star
 
 If the player covenant raise any questions over the nature of the fallen star or the presence and behavior of Lena Kessler, then Quaesitor Beatritz listens earnestly and suggests that she work with the covenant to investigate the matter. Thanking them for bringing the matter to the Tribunal, she promises to discuss it further with them and make arrangements for the investigation. As for Lena Kessler herself,
 
@@ -1514,11 +1514,11 @@ the maga is currently studying in a distant Tribunal, but the Quaesitor promises
 
 Such is Beatritz's reputation that the Tribunal accepts her at her word.
 
-#### **A Gathering of Books**
+#### A Gathering of Books
 
 With the research entering its final phase, the magi of House Criamon scour their Tribunal for copies of books on the Technique of Perdo, and on Magic Theory. They are offering to pay over the usual asking price: the recommended prices found in *Covenants*, page 95, plus two pawns of vis.
 
-### **Reports of Odd Behavior**
+### Reports of Odd Behavior
 
 A magus known to the player characters approaches them and asks whether they have noticed anything strange about the Criamon. He is not amused by any jokes the characters make. He recounts how one of the Criamon learned that his covenant had a copy of a book around a century old concerning the Magic Realm. The Criamon was keen to acquire it, offering ten pawns of vis outright for the original and any copies that the covenant might have made. He sold it, of course.
 
@@ -1542,7 +1542,7 @@ With the possible exclusion of player Criamon magi, all the Tribunal's magi of H
 
 This is a potentially dangerous moment for all concerned and the magus is told of the plan in the presence of Brighde Bronach only *after* handing over Arcane Connections to himself. The magus is reassured that there will be no suffering; a fearful and confused response is expected but the Criamon make constant reference back to their founder and his intention that the world be set free. As storyguide, it may be useful to have a copy of *Houses of Hermes: Mystery Cults* to hand so that you can provide the same guidance, showing the player key passages that back up their assertions as to the cruelty of time and the obligation of the House to help the world escape.
 
-#### **A Service to the House**
+#### A Service to the House
 
 The Tribunal is also an opportunity for the player characters to directly contribute to the laboratories in the Holy Land that House Criamon is planning. A Criamon player character, or one with a reputation concerning laboratory work, is asked to spend several season establishing and developing a laboratory near Acre, while a Verditius character might be asked to create a device to aid in the development of spells (conferring a specialty bonus to inventing spells, as described in *Covenants*, Chapter Nine).
 
@@ -1557,7 +1557,7 @@ may notice them taking care not to leave any trace of their presence behind them
 
 When they leave, they ask that correspondence be kept for their return and that they will be gone at most two seasons. If pressed, they claim to be traveling to visit a contact in Thebes. Always Thebes.
 
-#### **The Templars of Haifa**
+#### The Templars of Haifa
 
 The work of House Criamon has been decades in the making and their selection of Megiddo as their Axis Mundi was a decision made years ago. This has given them time to gain agents in the region to protect their interests. Chief among these is a small chapter of Knights Templar based in Acre in the bay of Haifa, some twenty miles north-west of Megiddo.
 
@@ -1577,11 +1577,11 @@ This is an important development and should be emphasized to the player characte
 
 Recognizing that her duty and her burden will soon be over, Selene sends Aspects of herself to the mundane world where she is intent to diminish. Her presence, however, causes problems that the magi are soon drawn into. In hearing her story, the magi learn that there are now those within the Order who have broken the Limit of the Lunar Sphere.
 
-#### **Introducing Selene**
+#### Introducing Selene
 
 There are two ways in which this story can be introduced. The first is that word reaches the player covenant directly of a magical phenomenon in the nearby market town, with an expectation that they will then investigate. While Selene has sent many Aspects of herself to the mundane world, if this feels too convenient then Selene can first be encountered by a friend of the covenant, who deals with the phenomenon in the town and then brings Selene to the magi. The following sections outline these options.
 
-#### **The Grieving Town**
+#### The Grieving Town
 
 An Aspect of Selene walks into a small market town somewhere near the player covenant and every person present is moved to uncontrolled grief. The grogs and companions are the first to come into contact with the phenomenon while at the town securing supplies. Unless protected through Magic Resistance, each of the characters reflects upon a troubling and upsetting loss to come, a sense that the world is dying. The longer they stay in the town, the more the sense of loss increases. Give each character a Grieving +1 Personality Trait, which increases by +1 for each day they remain in the town.
 
@@ -1591,7 +1591,7 @@ It should be clear to the player characters that they are under the influence of
 
 Selene can be seen, a wan figure dressed in a dirty white shift, wandering the streets barefoot and alone, outwardly unaffected by the grief.
 
-#### **The Visitor**
+#### The Visitor
 
 If you want to bypass the grieving town, you can have a magus bring Selene to the covenant. He should be previously well-disposed toward the player magi and his story is just as above: he came across the town deep in grief and discovered that the source of the phenomenon was the woman he now brings with him. He has
 
@@ -1606,7 +1606,7 @@ not undertaken any magical investigations and knows only that her name is Selene
 
 If the woman is brought in, those within the Aegis who lack Magic Resistance begin to suffer the effects of her power.
 
-#### **Talking to Selene**
+#### Talking to Selene
 
 Selene's grief is for the loss of her connection to the moon. She understands that as a creature of magic that she was in a near-unique position in that she was connected to something beyond, something outside of the terrestrial spheres. With that connection lost, she wonders what she shall do. Will she diminish? Certainly, she intends to send herself across the world and there live out whatever days she has.
 
@@ -1614,7 +1614,7 @@ Asked why her connection was lost, she explain that the connection was always te
 
 Come the morning, Selene leaves the covenant, never to be seen again. As a daimon, she is still capable of recalling any Aspect, so there is nothing the player characters can do to keep this Aspect at the covenant.
 
-#### **What Happens Next?**
+#### What Happens Next?
 
 By this point, the player characters should have learned that House Criamon are coordinating their efforts and their resources toward some aim and that some are leaving the House, unable to bring themselves to support that aim. Furthermore, the encounter with Selene should suggest that the end of the world is coming.
 
@@ -1648,7 +1648,7 @@ Thanks to the man building his ark, the player characters should now know the da
 
 Allies may be found within House Bonisagus if senior magi can be convinced that the breaching of the Lunar Sphere is possible, that House Criamon has been secretly experimenting to that aim, and even that they may have succeeded. Bonisagus pride may not allow such a breakthrough to go unchallenged.
 
-#### **Options**
+#### Options
 
 The potential outcomes from this council are too broad to cover here, but some of the likely actions are:
 
@@ -1670,13 +1670,13 @@ By this point in the saga the player magi can be expected to have some seniority
 
 Once the player characters have committed to ending the madness of the Criamon plot, a doomsday clock is started. House Criamon sees this as their best chance to save the world, and they approach it cautiously. The magic is entirely new, and no one, not even Andreva, fully understands it. They believe that the conjunction on December 23rd, 1277, is probably important to its success, so they do not perform the ritual before that date unless it appears likely that they will not be able to wait. An attack by other Hermetic magi, or a clear risk of the same, does provoke them into starting. In fact, the conjunction is not important to the ritual, and, if the Criamon complete it, it has the effects described later, no matter when they act. Once the Criamon start the ritual, the player characters have ten hours to save the world.
 
-#### **Finding Megiddo**
+#### Finding Megiddo
 
 The House has set watch across the area surrounding Megiddo and these spies use magical amulets to alert the House if they see any force that may threaten the plan. If the player characters approach in a way that raises the alarm, it is important that this mundane watchman is seen and caught by the player characters and their companions. This informs them that House Criamon has been warned of their approach. The watchman also knows that the Criamon are can be found in the catacombs beneath the ruins of the old city.
 
 Dealing with the scout and finding the old city takes two hours.If the characters do not raise the alarm, they can get to the old city before provoking the Criamon into starting the ritual.
 
-#### **Face the Knights Templar**
+#### Face the Knights Templar
 
 The watchman does not know that the ruins are protected by around twenty Knights Templar. If they are forewarned, these knights prepare for the arrival of the magi by hiding within the ruins, and attack from ambush. If the characters have not raised the alarm, the knights are alert for intruders, but not organized into an ambush.
 
@@ -1686,7 +1686,7 @@ Entering the old city and confronting the ambush takes a further hour. If the ba
 
 The player characters could also search the ruins for the entrance to the underground sanctum without alerting the Templars. Brighde is not present all the time if the alarm has not been raised, and the characters probably have time to wait for her to go, which might be wise. The search is impossible without the use of magic, and hiding from the Templars by mundane means is almost impossible, but the magi may well have enough magic to make this possible.
 
-## **Entering the Underground Retreat**
+## Entering the Underground Retreat
 
 The entrance to the underground retreat has been magically sealed and obscured beneath an old ruined temple, the tallest of the remaining ruins. It may also be found by following the trail left by Brighde and Beathan when they left the battlefield, in which case the trail leads to a large stone wall. The way can be opened by moving or destroying the wall, to reveal a steady slope down into the catacombs.
 
@@ -1712,7 +1712,7 @@ Of course, there are many ways through a blockade of some forty peaceable magi a
 
 The fight with Brighde accounts for an hour and the blockade of magi the same if the player characters let it. At this point, they reach the ritual.
 
-#### **Interrupting the Ritual**
+#### Interrupting the Ritual
 
 The breaking of the seventh seal comes in the form of a great ritual. While the Form of Aether has been discovered and the Lunar Sphere breached, that knowledge on its own is entirely academic; it must be put to use. The ritual takes place in a large domed chamber. Representations of the spheres and the planets painted on the chamber walls revolve around a central circular altar.
 
@@ -1760,7 +1760,7 @@ Julius Caesar: Act 2, Scene 1
 
 The ritual is designed to destroy the moon's property of motion. By Criamon understanding, this is sufficient to cause the motion of all the interconnected spheres to end and with it time.
 
-#### **The End of All Moments**
+#### The End of All Moments
 
 As the ritual is completed, the moon's motion is suddenly halted. The effect radiates out immediately and every sphere from the Earth out to the fixed stars cease their motion. An earthquake is felt across Mythic Europe and a crack forms across the face of the moon.
 
@@ -1776,7 +1776,7 @@ Revelation: 8:11
 
 Once the ritual has been cast, a part of the lunar sphere, Wormwood, falls to Earth. Its fall has four phases, which include its brightening in the sky, the great hail of fire that falls upon the earth as Wormwood starts to break apart, the destruction in the seas and oceans, and then the poisoning of the waters of the land. These events are localized to the player characters' Tribunal, giving a taste of what is to come.
 
-#### **The Brightening Star**
+#### The Brightening Star
 
 Wormwood is actually part of the moon itself, broken off due to the damage caused in the heavens. It spends a season growing bright in the sky. Some draw religious parallels, feeding the idea that this is a precursor to the apocalypse. If the player characters themselves do not light upon the name Wormwood, then a supporting character does. At this point, Wormwood is the only *moving* heavenly body visible in the sky.
 
@@ -1788,7 +1788,7 @@ A hastily-called Tribunal is held and the magi consider the meaning of the event
 
 There are two effects that must be created in order to suspend the motion of the heavens as House Criamon intends. The first is a simple effect that allows the ritual caster to see the aether, which she will target with the second ritual.
 
-### **Sense of the Moon's Presence**
+### Sense of the Moon's Presence
 
 InAe 20
 
@@ -1798,7 +1798,7 @@ Aether is intangible and invisible, which makes it hard for Hermetic magic to af
 
 (Base 1, +1 Touch, +2 Sun, +4 Vision)
 
-### **Hold the Sky in Thrall**
+### Hold the Sky in Thrall
 
 PeAe 145
 
@@ -1811,7 +1811,7 @@ This ritual, given the nature of the power concerned, is unique. It has been des
 (Base 5, +3 Sight, +5 density, +20 size) **Required Lab Total**: 4 seasons (182), 8 seasons (164), 12 seasons (158), 16 seasons (153), 20 seasons (152)
 
 
-#### **Hail and Fire**
+#### Hail and Fire
 
 Unless prevented, Wormwood visibly breaks up in the sky into three large parts as it passes through the fiery sphere. The first of these burns bright in the night and then, three days later, fills the sky with a burning hail storm. This hail storm is centered on an expanse of woodland and the surrounding towns and villages within half a day's walk of the covenant. The glow from the fire is visible through the night and the smoke rising from the woods and the farms blots out the day.
 
@@ -1819,17 +1819,17 @@ The scene is devastating. In each town and village, roughly a third of the popul
 
 Investigation of the scenes shows that the fire is pure elemental fire, which can be affected by Hermetic magic. In places though, a strange invisible stone-like material can be found. This dense aether should be familiar, as it is the same as Lena Kessler was sent to retrieve.
 
-### **The Seas and Oceans**
+### The Seas and Oceans
 
 After the hail of fire at the end of the season, the largest part of Wormwood reaches the Earth. It crashes into the ocean near to the covenant's Tribunal, causing a great wave that destroys fully a third of all creatures in that sea and a third of all vessels that sail upon it. All along the coast, towns, villages, harbors, and beaches are submerged by the wave. When it withdraws, just as quickly as it came, the bodies of great fish and whales lie inland, mingled among the broken timbers of ships.
 
 The invisible body of Wormwood sinks to the sea floor, where it continues to poison anything that draws close to it.
 
-#### **The Poisoned Waters**
+#### The Poisoned Waters
 
 Wormwood's tail falls the following day. This time, as it passes overhead, a third of all the open water in the Tribunal becomes poisoned. This includes lakes, rivers, and streams. The water can be purified through magic or workings of scholars, but those who drink the poison suffer as though having ingested Monkshood, as per ArM5, page 180.
 
-### **The Apocalypse in Microcosm**
+### The Apocalypse in Microcosm
 
 The later section describing the Apocalypse in full may be used in the aftermath of Wormwood's fall. Where pieces of the star fall to Earth, the strange new Lunar aura manifests, bringing with it outlandish plants and animals that populate the Lunar Sphere.
 
@@ -1857,19 +1857,19 @@ This section describes conditions after the Apocalypse. Not only do fragments of
 
 First comes the raw destruction of the world. With the lunar sphere collapsing and the Moon falling to Earth, many villages, towns, and cities are destroyed outright by aether falling from the sky. In some places, new mountains of aether replace fields, forests, and valleys, and fires burn for weeks on end. Survivors flee, taking what they can, and streams of refugees cross every land looking for safety.
 
-#### **Sickness**
+#### Sickness
 
 As the air thickens with smoke and ash, sickness sets in. Coughing, crying, and choking become the most prevalent sounds; that and prayer. The sickness is non-natural, caused by the violent environment. Choleric diseases (as listed in *Art & Academe*, pages 47 to 51 and *City and Guild*, pages 25 to 28) rise in frequency. Livestock and wild animals are similarly affected.
 
 These conditions that promote sickness also impose a –2 aging roll modifier. This extends even to covenants in affected areas. If using the guidelines for covenant loyalty (*Covenants*, page 38) then this may affect the loyalty of the covenfolk.
 
-#### **Lunacy**
+#### Lunacy
 
 The manifest aether across Mythic Europe has a direct impact on the mental state of the population. Just as with the *Edge of Reason* effect described below, those with a dominant sanguine humor become hysterical, those with a choleric dominant humor become gripped with psychosis, those with a melancholic dominant humor become neurotic, and those with a phlegmatic dominant humor become struck with fear and horror.
 
 Eventually, bands of similarly affected individuals group together and form strange discordant pilgrimages that roam the land. Their cries and wails can be heard in advance of their arrival. They are as much a danger to each other as to those who cross their paths.
 
-#### **Famine**
+#### Famine
 
 Food starts to become scarce. The miller turning wheat into flour, the baker turning flour into bread, and cottage industry of brewing beer, are all gone. Those mills that may be left standing are also left idle as millers flee with their families in the hope of finding somewhere safe.
 
@@ -1877,13 +1877,13 @@ Unattended livestock die through illness and predation and fields burn and rot i
 
 Each year after the first, a cumulative –1 living standards modifier is imposed as food becomes more scarce and less nutritious. Covenants devoting magical resources to this problem may alleviate this penalty for their own covenfolk and any other areas that they choose to protect.
 
-#### **Loss of Rule**
+#### Loss of Rule
 
 Mundane leaders, kings, princes, landowners, burghers, and boyars alike might quickly lose control of their people.
 
 Each season after the first, leaders who continue to assert their leadership must make a Communication or Presence + Leadership stress roll against an Ease Factor of 9. They have a penalty to this roll equal to any negative reputation they have personally. A failure increases a "Poor Leader" reputation by one point. This reputation is used as the number of botch dice to roll should the leader roll zero. A botch indicates that an uprising is imminent, within the season. More significant botches reduce the time down from season to month, to week, to day, and then to no warning at all. If there is any kind of warning, the leader may try to escape or to confront the situation.
 
-#### **Aetheric Storms**
+#### Aetheric Storms
 
 Aether has a natural proclivity to move from east to west. As a result, powerful aetheric winds and storms race across Mythic Europe at great speed. These winds largely consist of intangible aether and so there is no physical effect upon the populace or buildings. However, these storms do influence the humors of those they pass over. Just as with the description of lunacy above, the population experiences a temporary imbalance of their humors that results in extreme Personality Traits while the storm passes through.
 
@@ -1891,13 +1891,13 @@ Storms containing aether at higher densities can be damaging. Even at the densit
 
 In some cases, aether with the density of earth, stone, and metal are caught up in the storm and these can wreak havoc. Aetheric earth moves at 100 paces per round and is dense enough to damage buildings in its path.
 
-#### **Rise of The Infernal**
+#### Rise of The Infernal
 
 The infernal turns this calamity to its own evil advantage; leaders may cling to their rule through infernal influence, refugees may find food ahead of others in return for prayers to their demonic saviors, and demons of sicknesses might pass over those who embrace the devil.
 
 With communities forced to flee the safety of the Dominion, demons and their agents operate more openly. While they may not manifest physically, they use their powers widely to spread fear and call the fearful to them.
 
-### **Response of the Divine**
+### Response of the Divine
 
 The Dominion is the most accessible aspect of the Divine across Mythic Europe, but it is also the most fragile. Once a community is broken, the power of the Dominion begins to wane and a parish may fall to temptation born of desperation.
 
@@ -1910,7 +1910,7 @@ search of protection, or in search of land unmolested by the apocalypse.
 
 Angels of mercy may provide succor to those in need, but ultimately they are powerless to put right the sins of the few.
 
-#### **Time**
+#### Time
 
 Day and night cease to mark the passage of time. Even the tides fail to keep time, and crops and other plants lose the environmental cues they rely upon for seeding, sprouting, and fruiting.
 
@@ -1930,7 +1930,7 @@ The following vignettes provide a little background color for those wandering th
 
 lypse and these are now spilled across the face of the Earth, trying to gain a foothold on an unusual world.
 
-#### **Creatures of Lunar Fire**
+#### Creatures of Lunar Fire
 
 The lunar sphere has its own deviant creatures, like twisted shadows of earthly beasts. They cling to the lunar auras for the most part, away from Earthly creatures until it is time to hunt.
 
@@ -1938,7 +1938,7 @@ All creatures from the lunar sphere and beyond possess the Lunar Animal Quality,
 
 In all other respects, creatures of the lunar sphere can be created as per the rules for Magical Animals in *Realms of Power: Magic*, or mundane animals in *Houses of Hermes: Mystery Cults*.
 
-#### **The Poisoned Waters**
+#### The Poisoned Waters
 
 Earthly water contaminated with water or material from the lunar sphere is bitter and poisonous. Treat such water as a poison causing a Light Wound with an Ease Factor of 9 to resist if ingested. See ArM5, page 180 for details. The water's poisonous quality can be destroyed by a base 15 Perdo Aquam effect or similar intervention. In particular, Experimental Philosophy may also be used. See *Art & Academe*, page 67 for details.
 
@@ -1952,7 +1952,7 @@ The attacks of Lunar creatures sap their victim's will. For each point of wound 
 
 A Lunar creature is immune to harmful effects of water and plants from its own Sphere.
 
-## **Example Lunar Creature: Wolf**
+## Example Lunar Creature: Wolf
 
 **Characteristics**: Cun +2, Per 0, Pre –2, Com 0, Str –1, Sta +3, Dex +2, Qik +2
 
@@ -2097,17 +2097,17 @@ The effects of the apocalypse makes working Hermetic magic more difficult in sev
 
 Hearth ritual and even the Parma Magica, which are tied to the Year and Sun Durations, do not function.
 
-#### **Realm Interaction**
+#### Realm Interaction
 
 The nearby Replacement Realm Interaction Table shows the power of the Lunar Realm as an outside and foreign force imposing itself upon the Earth. The aura is beyond the experience and nature of the Earthly powers and they experience large penalties when operating within a Lunar aura.
 
 Creatures and effects native to the lunar sphere are considered to part of that sphere and any effects they use are considered a *Lunar Power* for the purposes of realm interaction.
 
-#### **Durations**
+#### Durations
 
 With the heavens disrupted, so too is Hermetic understanding of the world. The calculations used in casting spells and in device effects no longer make sense, given that the spheres are held in their places. The nearby table shows which Durations still function correctly and those that are beyond use. For those that are beyond use, magi may research replacements and a number of these have been suggested.
 
-## **Parma Magica and the Aegis of the Hearth**
+## Parma Magica and the Aegis of the Hearth
 
 The Sun and Year Durations are both disrupted once the lunar sphere falls. This means that both Parma Magica and the Aegis of the Hearth fail. This is a dangerous blow to the Order of Hermes as it leaves members exposed and vulnerable. If the Order can research new Durations, then the next step may be to research new versions of the Parma Magica and Aegis of the Hearth.
 
@@ -2149,16 +2149,16 @@ The following table summarizes the status of the spell durations commonly used b
 
 Durations granted by mystery cults or other traditions should be judged against this list.
 
-### New Realm Interaction Table **Lunar Power Magic Power Divine Power Faerie Power Infernal Power Lunar Aura** + aura – (5 x aura) no effect – (5 x aura) – aura **Magic Aura** – aura + aura no effect + (1/2 aura) – aura **Divine Aura** – (3 x aura) – (3 x aura) + aura – (4 x aura) – (5 x aura) **Faerie Aura** – aura + (1/2 aura) no effect + aura – aura **Infernal Aura** – aura – aura no effect – (2 x aura) + aura
+### New Realm Interaction Table Lunar Power Magic Power Divine Power Faerie Power Infernal Power Lunar Aura + aura – (5 x aura) no effect – (5 x aura) – aura Magic Aura – aura + aura no effect + (1/2 aura) – aura Divine Aura – (3 x aura) – (3 x aura) + aura – (4 x aura) – (5 x aura) Faerie Aura – aura + (1/2 aura) no effect + aura – aura Infernal Aura – aura – aura no effect – (2 x aura) + aura
 
 
-#### **Exotic Magic and Supernatural Beasts**
+#### Exotic Magic and Supernatural Beasts
 
 Beyond the Order of Hermes, magical traditions across the world also feel the impact of the collapsing of the spheres. Durations used in their magic are affected in the same way, which limits their power just as it does for Hermetic magi.
 
 For the most part, the powers of supernatural beasts are unaffected by the Apocalypse. Even if their powers reference one of the prohibited durations, these are considered to be outside of cosmological influence and tied to the beast itself.
 
-#### **Infernal and Divine Powers**
+#### Infernal and Divine Powers
 
 Infernal and Divine Powers are unaffected by the Apocalypse, with the exception of any aura-interaction penalties.
 
@@ -2170,7 +2170,7 @@ It is possible that devastation will rain down on Mythic Europe for decades if n
 
 The Apocalypse isn't necessarily the end of the saga. The Earth has changed, so the challenge becomes one of surviving this new hostile world. There are a number of ways in which your player characters may approach that challenge, ranging from destroying the Lunar influence on the Earth to fleeing the world to the supernatural realms.
 
-### **Learn Aetheric Magic**
+### Learn Aetheric Magic
 
 *Slay utterly, old and young, both maids, and little children, and women: but come not near any man upon whom is the mark*
 
@@ -2180,7 +2180,7 @@ The most immediate option for restoring a region is to destroy or remove the aet
 
 If the magi can learn to target the aether then they could move or destroy it. As an alternative, they could bury it deep within the Earth. Riding the area of such material removes the lunar auras from that region, separates any Lunar denizens from their source of power, and restores much of the natural order of the Earth.
 
-#### **Learn Other Magics**
+#### Learn Other Magics
 
 There may be *other* types of magic to be learned, allowing the Order to rebuild. The experimental philosophy of *Art & Academe* is an entirely natural means of producing wondrous effects. It relies on the natural properties of substances and phenomena to allow the creation of Ligatures, which provide bonuses to given actions, or the invention and use of Formulae, which directly query or affect the natural
 
@@ -2193,7 +2193,7 @@ There may be *other* types of magic to be learned, allowing the Order to rebuild
 
 Similarly, Objects of Virtue, as presented in *Realms of Power: Magic*, provide a low-power but reliable means of working magic. These are supernatural objects, animals, plants, and minerals, that grant powers or Virtues to those who use them. Their power is intrinsic and does not rely on an academic or folk understanding of magic. This means that any duration or similar parameter that the magus finds difficult after the apocalypse still functions as normal for these objects. They are typically of low power, but their reliability could be leveraged. The same is true of Extraordinary Vis, also described in *Realms of Power: Magic*, containing intrinsic spell, ritual, or device-like powers.
 
-## **Regiones and the Supernatural Realms**
+## Regiones and the Supernatural Realms
 
 With strong enough magic, magi could create deep regiones within which they could find some kind of sanctuary. They would exchange the supernatural and harmful effects of lunar auras and storms of aether for areas of confinement and warping for those they bring with them.
 
@@ -2244,7 +2244,7 @@ The new Form is a full addition to Magic Theory and each of the Techniques can b
 
 Until the conclusion of the End of Time storyline, House Criamon possesses the only library of books on the Form of Aether and spells that use it. These spells and effects were created as a means to spread the knowledge of the new Form throughout the House.
 
-#### **New Spells**
+#### New Spells
 
 It is important to note that spells that create aetheric objects must still penetrate the Magic Resistance of anyone or anything they they are used against. However, as aether is a material unknown to Hermetic magic, magi without knowledge of the Form of Aether do not receive any Form bonus either as part of their Magic Resistance or as a soak bonus to reduce any damage received.
 
@@ -2280,7 +2280,7 @@ Sanguine Hysteric Choleric Psychotic Melancholic Neurotic Phlegmatic Fearful
 
 (Base 1, +3 Sight, +3 Moon, +1 Corpus Requisite)
 
-#### **The Invisible Revealed**
+#### The Invisible Revealed
 
 InAe 20
 
@@ -2290,11 +2290,11 @@ R: Personal, D: Concentration, T: Vision Allows the caster to see all aether in 
 
 Laboratory notes for each of the following projects are in the possession of House Criamon. The examples below provide a total of 84 breakthrough points. There are also texts on many other failed experiments. See *Houses of Hermes: True Lineages*, page 26 for details on the experimental process and *Ancient Magic*, page 8 for details of gaining insight.
 
-#### **Creo Projects**
+#### Creo Projects
 
 Beyond the two example projects below, a further 8 breakthrough points are needed from Creo effects.
 
-#### **The Gift of Moonlight**
+#### The Gift of Moonlight
 
 CrIg 25
 
@@ -2320,11 +2320,11 @@ If this roll fails, then the target gains another Warping Point and the Witch Mo
 
 (Base 20, +2 Voice, +1 special)
 
-#### **Intellego Projects**
+#### Intellego Projects
 
 If the projects below are completed, no further breakthrough points from Intellego effects are needed.
 
-#### **Know the Quality of the Man**
+#### Know the Quality of the Man
 
 InCo 35
 
@@ -2334,7 +2334,7 @@ R: Touch, D: Year, T: Individual, Ritual The caster of this ritual gains informa
 
 
 
-#### **Know the Moon's Influence**
+#### Know the Moon's Influence
 
 InMe 15
 
@@ -2342,7 +2342,7 @@ R: Sight, D: Momentary, T: Individual Determines the extent to which the moon an
 
 (Base: 4, +3 Sight)
 
-#### **Observe the Color of the (**Sphere**) Sphere** InVi 50
+#### Observe the Color of the (Sphere) Sphere InVi 50
 
 Pen +0, 1 use per Day
 
@@ -2352,11 +2352,11 @@ The effect is designed to detect the active magical influence of the spheres, so
 
 (Base: 5, +1 Concentration, +4 vision, +1 for non-Hermetic, +2 Technique and Form; Modifications: +5 Device maintains concentration)
 
-### **Muto Projects**
+### Muto Projects
 
 The two projects below provide all the required breakthrough points required from Muto effects.
 
-#### **Curse of the Werewolf**
+#### Curse of the Werewolf
 
 MuCo(An, Me) 45
 
@@ -2366,7 +2366,7 @@ This effect is inspired by observing the repeated transformations of a werewolf.
 
 (Base 10, +1 Touch, +4 Year, +1 for Mentem requisite, +1 special effect)
 
-### **Alteration of the Birth Horoscope**
+### Alteration of the Birth Horoscope
 
 MuCo(Vi) 55
 
@@ -2378,11 +2378,11 @@ The effect is inspired by taking horoscopes for three-score individuals, each re
 
 (Base 30, +1 Touch, +4 Year)
 
-#### **Perdo Projects**
+#### Perdo Projects
 
 If the projects below are completed, a further two breakthrough points are needed from new Perdo effects.
 
-#### **The Becalmed Harbor**
+#### The Becalmed Harbor
 
 PeAq 55
 
@@ -2392,7 +2392,7 @@ This project removes the naturally-occurring aether from within the waters of a 
 
 (Base 15, +1 Touch, +3 Moon, +1 Part, +3 Size)
 
-#### **Heighten the Mind**
+#### Heighten the Mind
 
 PeMe 35
 
@@ -2404,11 +2404,11 @@ This has the effect of removing the checks and balances afforded by the lesser P
 
 (Base 10, +2 Voice, +3 Moon)
 
-#### **Rego Projects**
+#### Rego Projects
 
 A further six breakthrough points from Rego effects are needed if the projects below are completed.
 
-#### **The Strengthening Tide**
+#### The Strengthening Tide
 
 ReAq 40
 
@@ -2420,7 +2420,7 @@ By observing the motion of the tides for a season or more in conjunction with th
 
 (Base 4, +1 Touch, +3 Moon, +1 Part, +3 Size)
 
-#### **The Mania of Others**
+#### The Mania of Others
 
 ReMe 30
 
@@ -2434,7 +2434,7 @@ This spell moves the mania or other mental illness from one individual to anothe
 
 to then affect that aether with further spells. (Base 3, +1, +4 Vision)
 
-#### **Aetheric Fire**
+#### Aetheric Fire
 
 MuAe(Ig) 35
 
@@ -2444,11 +2444,11 @@ This effect has a number of advantages over the much lower level equivalent CrIg
 
 (Base 10, +3 Sight, +1 Concentration, +1 intensity)
 
-#### **Laboratory Texts**
+#### Laboratory Texts
 
 Translated laboratory texts exist for all spells contained in the library.
 
-#### **Arcane Knowledge**
+#### Arcane Knowledge
 
 The library contains four Tractatus on the Art of Aether at Quality 9 and four at quality 8. These are accompanied by the four summae, each at Level 4, two at Quality 9 and two at Quality 10. Each of these twelve volumes may be studied as a source of insight (as per the rules in *Ancient Magic*) and each provides inspiration for one of the projects used to create the Hermetic Form of Aether.
 
@@ -2473,7 +2473,7 @@ Pronounced "AY-ther" and "Ay-ther-Ah"
 
 ### The Form of Aether (Ae) (Cont'd)
 
-#### **Creo Aethera Guidelines**
+#### Creo Aethera Guidelines
 
 Creo Aethera spells create a quantity of aether. Creating that aether in some unusual or worked shape is one magnitude higher than the listed values.
 
@@ -2488,7 +2488,7 @@ Having no conventional physical properties, aether is intangible at its lowest d
 | Level 30: | Create an amount of<br>aether with the density<br>of stone or glass. |
 | Level 35: | Create an amount of<br>aether with the density<br>of metal.          |
 
-#### **Intellego Aethera Guidelines**
+#### Intellego Aethera Guidelines
 
 Intellego Aethera spells are not affected by the density of the aether. They allow the magus to detect the presence of aether, any unnatural properties or qualities given the aether, and to communicate with entities formed from aether. As aether is naturally invisible, only giving off light, a magus cannot normally see aether even at high densities. Intellego Aethera spells allow the magus to sense aether, which is sufficient to then target that aether with further magical effects.
 
@@ -2510,7 +2510,7 @@ Intellego Aethera spells are not affected by the density of the aether. They all
 |           |                        |
 |           |                        |
 
-#### **Muto Aethera Guidelines**
+#### Muto Aethera Guidelines
 
 Muto Aethera spells grant properties that aether would otherwise not have and to transmute it into another substance. The guidelines below are for intangible aether. Add successive magnitudes for aether with densities of fire, air, water, earth, stone, and metal.
 
@@ -2543,7 +2543,7 @@ Terram)
 
 Level 20: Change aether into one of the living Forms (Animal, Corpus, Herbam, Mentem) Level 25: Change aether into one of the intangible Forms (Imaginem, Vim)
 
-### **Perdo Aethera Guidelines**
+### Perdo Aethera Guidelines
 
 Perdo Aethera spells may be used to destroy an amount of aether. Doing so is particularly difficult, however.
 
@@ -2553,7 +2553,7 @@ Level 5: Destroy a single property of aether.
 
 Level 10: Destroy a quantity of free aether. Level 15: Destroy a quantity of aether contained within other material.
 
-### **Rego Aethera Guidelines**
+### Rego Aethera Guidelines
 
 Rego Aethera moves aether between naturally-occurring densities, allowing the magus to accrete aether into higher densities or to disperse it into lower density. Magnitude adjustments are required based on the highest density. Aether does not naturally return to its former density, instead remaining in its magically-induced state.
 
@@ -2607,18 +2607,18 @@ The presentation of a long-term opponent, like the Muspelli, requires a slow and
 
 Consider the saga in three stages.
 
-## **The First Stage, Beginning the Path**
+## The First Stage, Beginning the Path
 
 The start of this saga involves stories foreshadowing the plans for Fimbulwinter, where the magi encounter the aftermath or the servants of the Muspelli as they search for at least two Irminsul, collect vis, perform personal initiations, develop their powers, and build alliances. Such arcs gradually increase tension, providing opportunities to investigate and possibly discover the larger plot, but often leave the magi to believe that the individual, strange pagan wizards are operating with unrelated intentions. This stage gradually builds, as the Muspelli roam across Mythic Europe; consider at least one story for the Muspelli to improve themselves, another arc where they are gathering resources like vis, allies, or information on potential targets, and a third storyline where they discover either the covenant's Irminsul or another one in the region. More storylines are certainly possible, as the Muspelli and covenant interact. This phase might take three to seven years, or longer, depending on the pace you wish to set for your saga.
 
-## **The Second Stage, Emerging Threat**
+## The Second Stage, Emerging Threat
 
 Stage two begins when the Muspelli realize the need to make preparations for Hermetic interference while they continue searching. Many or all of them have found one Irminsul and search for a second. The Muspelli occasionally pause their search to build more alliances with mundanes and create mobs of patiently waiting Walking Dead, sabotage vis sites, and identify other hedge wizards or supernatural creatures for
 
 
 later sacrifice. The Muspelli are a very patient tradition, who take the time to learn what threats exist around their objectives, and create situations to observe how local powers respond. Muspelli who have located at least two Irminsul return to Ingvar to complete their initiation, learning the ceremony that will summon an Aspect of Fimbulwinter. This phase might take five to seven years.
 
-## **The Third Stage, Unleashing Winter**
+## The Third Stage, Unleashing Winter
 
 Armed with their newfound knowledge of the Aspect summoning, the Muspelli now scatter back across Mythic Europe, returning to their previously identified Irminsul sites to enact the ritual. With the magic spirits loosed upon the countryside, the Muspelli continue looking for more Irminsul, seeking out other Muspelli whom they can train to master the summoning, and engaging in general acts of disruptive mayhem using the information they learned and the resources they put in place during the first stage. What had been a nebulous or shadowy threat now escalates into active conflict as Fimbulwinter spreads its frigid blanket across the world; the characters must either address the problem or deal with the consequences. If the magi ignored many of the Muspelli threats prior to this stage, then this might prove quite difficult as many Aspects are released. On the other hand, this stage could be easier, with few Aspects released, if the magi effectively contained and addressed the Muspelli threat. This phase may take a year or two years to blossom into its full glory and continues until the Muspelli or the magi die.
 
@@ -2630,18 +2630,18 @@ The distributed and cellular nature of the Muspelli cabal and its supporters mea
 
 While these individuals regularly operate with a small band of followers who are comfortable with the Muspelli's presence and commands, much like covenfolk, mapping out their development provides storyguides a better idea of where they can be found at any time. Leif and Kotkill are weaker Muspelli, more suited as early foes who might be defeated physically. Gunnvara and Magnus are best considered median foes, challenging the characters as the story builds to a climax, while Ingvar fills the role of grizzled zealot leader.
 
-#### **Kotkill Ulfsbrodir**
+#### Kotkill Ulfsbrodir
 
 Youngest of the Muspelli presented at the age of 25, Kotkill's statistics can be found on page 87 of *Rival Magic*. Feral and Mute in human form, Kotkill lurks on the fringes of civilization where he can hunt man and beast alike while running with the pack of wolves led by his foster brother Wolf of Virtue (*Realms of Power: Magic*, page 55). His skill with Sjonhverling means the pack can ambush foes seemingly out of nowhere. He is swift and rapacious, and commonly ranges quite far, seeking out prey and potential uti-
 
 
 seta sites. He was the most difficult member for Ingvar to recruit, and while he understands the plan, Kotkill sees Fimbulwinter as his chance to hunt anything anywhere in creation with impunity. This glorious world sounds like paradise to Kotkill, and so he happily pursues Ingvar's agenda.
 
-#### **Leif Ormsbrodir**
+#### Leif Ormsbrodir
 
 Leif favors coastal regions and ports, where he can attack merchants and remote communities with relative impunity. While not as experienced as the other Muspelli, he is a very physical force. His powers of Shapeshifting can prove quite dangerous for opponents, whether he takes the form of a lindwurm or bear for a raid while retaining his intelligence, or turns a foe into a salmon. Storyguides should tailor his known shapes based on the region where they place him, but a wide variety is best. His Mute flaw in human form means he is safe from nearly all mundane interrogation, and he might operate alone, but his Weakness for women and his Curse of Venus mean Leif is inclined to seek out taverns and alehouses, hungering for some kind of social interaction, even if it's impacted by his Gift. He deeply desires to rule men and be desired, to create a legacy, and feels creating Fimbulwinter provides the opportunity to gain those things.
 
-#### **Magnus Norn**
+#### Magnus Norn
 
 Magnus actually works to infiltrate aspects of mundane society, despite the negative effects of his Gift. He plants suggestions and coordinates otherwise unwitting mundane allies to support Muspelli actions. Magnus' weakness for alcohol serves as a potential method for thwarting him, how-
 
@@ -2663,15 +2663,15 @@ gives it a Protection of +1.
 
 ever. His powers of Entrancement, Premonitions, Threads of Fate and Sjonhverling mean Magnus can operate very effectively from the shadows, serving as a hated but secretive spymaster who can bring otherwise impossible-to-coordinate forces to bear on Muspelli activities. His regular Premonitions and the magical defense associated with Spadomur can help keep the Muspelli one step ahead of the player characters or provide unexpected advantages. Magnus believes in the Muspelli's cause with nearly the same fervor as Ingvar; he hopes to free and serve Loki, becoming a great power in the shattered world to come.
 
-#### **Gunnvara Jarnvidja**
+#### Gunnvara Jarnvidja
 
 For Gunnvara, consider exchanging her Entrancement score (9+2) with her Valgaldrar score (6) when referencing her statistics from page 88 of *Rival Magic*. She focuses primarily on acquiring hosts of Walking Dead for later attacks on communities and to defend utiseta sites as Muspelli cast. She uses her Shapeshifting to travel quickly between locations, giving her a vast range, though she is described as being focused in Denmark and Germany, and animals should be appropriate to the regions where she operates. When not hunting Irminsul, she haunts battlefields, plague outbreaks, leper colonies, and war-torn regions, taking up as many of the fallen as possible and marching them away under the cover of darkness. Gunnvara works to conceal many of these hordes all over Mythic Europe. She sees Fimbulwinter as her chance to crush the Church and punish the society which has always marginalized her. She finds Magnus strangely attractive, but doesn't quite know how to address these feelings.
 
-#### **Ingvar Suttungja**
+#### Ingvar Suttungja
 
 Ingvar is presented as the leader, the visionary founder of the Fimbulwinter campaign, and takes on a persona as "Lokeshafr," or Loki's Goat, when dealing with other Muspelli. His Gentle Gift and wide filial ties to a mercenary company give him an excellent base of mundane power, while his Gentle Gift and Unaffected by the Gift Virtues make him the most capable of inspiring the rest of the Muspelli. Ingvar begins the saga knowing the location of one Irminsul, and when the first Muspelli locates an Irminsul, he learns of the Egesterenstein (See *The Egesterenstein*, later) as a second Irminsul. He preaches a message of Jotnar supremacy, where the Muspelli need not work together in order to cooperate and achieve their goals, and that is very attractive. Ingvar's strengths in Valgaldrar, Wildfire, and Winter's Breath mean his role becomes more prominent as the conflict escalates. He makes an appearance as a false Aspect of a Jotun or Fimbulwinter, as volcanoes erupt or *Fimbulwinter* utiseta claim communities. More details on his activities during each stage are given later in this chapter. For Ingvar, Fimbulwinter is meant as an act of revenge for the loss of his wife and son, and as a triumph of the Old Ways over Christianity. However, he knows a plan with this many parts has many, many places where it can fail, and that is why he takes the precautions described later in this chapter.
 
-#### **The Tools At Hand**
+#### The Tools At Hand
 
 Much like established magi in the Order, the Muspelli possess companions who are inured to the Muspelli and their Gift and assist them in their activities. Initial allies for each might include:
 
@@ -2692,7 +2692,7 @@ Muspelli have these allies create distractions while they perform utiseta, probe
 
 While every troupe is different, as a guideline, consider roughly two or three stories per Muspelli for each of the first two stages. By the third stage, there are several potential scenarios offered for different facets of the Muspelli releasing the Aspects of Fimbulwinter, including an attack on the players' covenant. This allows for saga progression at your preferred pace. There is no hard and fast deadline for the actions of the Muspelli; they come to pass when the storyguide wants them to occur. Several methods for introducing these incidents are presented here, along with potential developments and consequences. Naturally, the Muspelli should respond to the actions of the player characters.
 
-#### **For Evil to Triumph...**
+#### For Evil to Triumph...
 
 This particular saga has a very "scripted sequence" approach, offering the various stories as potential events the player characters may or may not investigate. There is the possibility the Hermetics will do nothing in a given season. It is acceptable to have an early encounter or two with the Muspelli where the player covenant is left baffled, wondering "who were those men?" When presenting a potential hook from the Muspelli, do not force a response from the player characters. It could be the group feels something local, political, or more immediate should have priority. Such a choice is completely acceptable, because it maintains verisimilitude, but the resulting consequences should apply to the plotline, allowing the larger story to progress even without player interaction, and have greater impact if player inaction results in disaster.
 
@@ -2719,7 +2719,7 @@ While a Redcap is only required to visit once a year, many reasons could motivat
 
 Finally, it is very helpful to have an established nearby unGifted hedge tradition or a folk witch coven, which should not be part of the Order of Hermes. As lesser supernatural practitioners who complete Initiations to gain their powers, they could have an arrangement for protection with the covenant or a slightly resentful relationship, owing a regular delivery of (possibly begrudged) vis, or serving as a source for otherwise rare or hard-won information. Consider making these lesser wizards related to a Companion character, or the source tradition for the Companion's background to build investment in their survival, or present an avenue for their redemption, should the Muspelli turn them against the covenant. The minor Promised Favors Boon, the Protector Hook, the Favors Owed Hook, or the Hedge Tradition Hook could represent this.
 
-#### **The Irminsul**
+#### The Irminsul
 
 5 pawns of Rego per year
 
@@ -2772,7 +2772,7 @@ to a remote site in Scandinavia. Once there, Lokeshafr will determine if they ar
 - The Muspelli should be alert for other Muspelli, and, if they find them, convince these other sorcerers to seek out Irminsul, and to travel to Lokeshafr and join their cause. What is this cause? To bring about Fimbulwinter, the long winter without summer which marks the beginning of Ragnarok and the awakening of Loki. When and how will Fimbulwinter start? The Muspelli don't know yet. Only Lokeshafr knows that part of the plan. Who is Lokeshafr? They met in Etin-mod, and so the Muspelli doesn't know Lokeshafr's human form.
 - They can learn what an Irminsul generally looks like and its former purpose. They do not know how it will be used for Fimbulwinter, and whether that means it will be destroyed, used in a ritual, or otherwise exploited.
 
-#### **The Price of Ignorance**
+#### The Price of Ignorance
 
 Should the covenant fail to respond to a particular Muspelli activity, then the storyguide should consider one of the following consequences.
 
@@ -2799,11 +2799,11 @@ The hunt for Irminsuls takes the Muspelli across the formerly Celtic and current
 
 However, building a Muspelli's power involves trials, sacrifices, or even the creation of allies or servants to be utilized later in the saga. Because the Muspelli cannot quickly use powerful effects, they are interested in acquiring magical items, such as extraordinary vis, or items enchanted by hedge wizards. Hermetic items would be very welcome, but might be dangerous to get. This process of acquiring enchanted items provides a second source for stories. A couple of sample vis sites are described below. Other forms of Extraordinary Vis may be found on pages 120–122 of *Realms of Power: Magic*.
 
-### **Vis Site: Sunstone Quarry**
+### Vis Site: Sunstone Quarry
 
 Lesser Enchantment Pawns of Intellego Vis InIg Level 25 Pen 0, constant effect R: Touch, D: Sun, T: Vision Cut from a vein of high quality crystal, the bearer to always know the direction of the Sun. They are immensely useful for navigators and travelers in snowbound regions with little in the way of landmarks, as viewing an overcast daytime sky through these objects allows the bearer to ascertain the Sun's position and avoid accidentally going the wrong way.
 
-#### **Vis Site: Magical Honeycomb**
+#### Vis Site: Magical Honeycomb
 
 Spell-like Pawns of Rego Vis ReAn Level 45 Pen 10
 
@@ -2813,7 +2813,7 @@ This aromatic fragment of beehive still drips with tiny beads of honey. By placi
 
 (Base 15, +4 Arc, +2 Sun, +1 Size)
 
-## **Story Seed: The Figureheads**
+## Story Seed: The Figureheads
 
 Leif keeps a secret lair with a precious collection of dragon figureheads taken from ships. He takes great pride in the wooden carvings. As Fimbulwinter escalates into a full fledged conflict, a deceptive magus could exploit this habit and steal his figureheads while the Muspelli is abroad. Then, with some clever trickery, the player character might frame another Muspelli for the theft and arrange for Leif to learn of the supposed perpetrator. This way, player characters could trick Leif into either weakening or eliminating another foe, while using the raging Muspelli's acts as an opportunity to exhaust his resources before the player characters act. As long as the Muspelli don't uncover the deception, the magi could potentially eliminate two enemies, as one of the Muspelli is likely killed by one of his peers and the cabal planning Fimbulwinter is poisoned with the seeds of distrust and paranoia. Everyone wins… well, really just the player magi.
 
@@ -2828,7 +2828,7 @@ These are chance events, ones caught by a nosy covenfolk in town, or told to a g
 
 **If Ignored:** If the covenant does nothing until after the Winter Solstice, the Muspelli gains the benefits of performing the Initiation twice, gaining the Claws and Fangs Quality, or if these are possessed, giving them the Improved quality and increases their stats by Atk +2, Dfn +1, Dmg
 
-#### **Story Seed: For Love**
+#### Story Seed: For Love
 
 Leif, with his Curse of Venus and Weakness for women, is likely to become obsessed with the wrong woman, or she with him, and this obsession can serve as his downfall. Perhaps a maga or companion leads the hunt for Leif after an encounter. Leif sees her at a distance and becomes smitten. He arranges an attack at dusk. During the attack, he incapacitates her, but instead of killing her, he leaves her a small token of his affection while killing her shield grog. He might become distracted from his search, taking the form of a small animal and attempting to show his feelings for the woman in a strange way, bringing her mice, songbirds, or fish. These interactions might become the basis of a relationship where he inadvertently reveals his plan, or his travel destinations, or pauses in a crucial attack to spare the object of his affection. The combination of Flaws provides an Achilles' heel for Leif which relies on developing relationships through nonviolent encounters made more emotionally powerful through the struggle to overcome his Gift and communication issues.
 
@@ -2848,11 +2848,11 @@ This section offers story seeds delivered by Tribunal gossip, bits of conversati
 
 Insight is part of the Original Research rules from *Ancient Magic* or *Houses of Hermes: True Lineages*. It includes objects, texts, or other sources which could assist a researcher trying to achieve a Magical Breakthrough of some kind, such as incorporating Muspelli magic into Hermetic theory. If you're not using these rules, then consider allowing sources of Insight to provide experience to the researcher on other topics, such as Muspelli Lore, Jotun Lore, or even Magic Lore. Once dead, Muspelli are no longer Arcane Connections to their Jotun patrons. At the storyguide's discretion, studying a body for Insight effectively destroys it.
 
-## **Story Seed: To Contact Gullveig**
+## Story Seed: To Contact Gullveig
 
 Attempting to contact Gullveig, a Muspelli captures two magicians – some combination of folk witches, other hedge wizards, vitkir, or even Hermetic magi, such as a Verditius captured without casting tools or one whose Necessary Condition or Restriction is exploited, and prepares to force them into a fight to the death. The Muspelli intends to sacrifice the winner while summoning Gullveig's Aspect. She appears after this sacrifice, claiming the victims' hearts as gifts, and promises to teach the Muspelli, increasing a Trolldomur ability. The apprentices, covenmates, or sodales of these victims seek out the covenant, hoping to prevent the death of the prisoners. If magi arrive too late, they face the angry Jotun Aspect while the Muspelli withdraws.
 
-## **Story Seed: Spiritual Assistance**
+## Story Seed: Spiritual Assistance
 
 When Magnus claimed his gandur, he drove silver nails into the feet of the interred corpse before the spirit there could animate it as a draughir. This spirit might have been a vitki or a Diedne magus in hiding, who, even in death, knows the location of lost caches of magic. If the magi can recover the sickle for the ghost, putting the ghost to rest, then the player character can acquire a war chest of resources while striking a blow against the Muspelli cause. The covenant might discover the draughir's barrow as they search for vis near their covenant, in the course of their travels, or through the reports of a visiting Redcap. If the magi are willing to parlay with the unquiet spirit rather than simply destroy it, they can be put on the path to opposing Magnus. Hasty magi might be given a second chance as the ghost returns to haunt them for denying it the chance at vengeance.
 
@@ -2918,7 +2918,7 @@ Ingvar and the Muspelli continue to take precautions to ensure that Ingvar's loc
 
 The stories for this phase of the saga focus on the development of resources for later use, either to distract the Order of Hermes while the Muspelli are enacting an Aspect summoning ritual, or to allow the Muspelli to secure a captured Irminsul. They might be combined with actually finding or claiming an Irminsul, as well.
 
-#### **Regional Troubles**
+#### Regional Troubles
 
 These are chance events, ones caught by a nosy covenfolk in town, or told to a grog over cups in a nearby tavern, perhaps even spotted by apprentices sneaking out of the covenant.
 
@@ -2939,7 +2939,7 @@ These are chance events, ones caught by a nosy covenfolk in town, or told to a g
 
 **If Captured:** Searching the husband's mind with Mentem magics provides the face of one of the Muspelli's lieutenants responsible for organizing the plot, who, in turn, could be used to seek out his master. The Muspelli knows the rough size of the conspiracy, and
 
-#### **Story Seed: Gaining Gullveig's Favor**
+#### Story Seed: Gaining Gullveig's Favor
 
 After discovering a local coven of folk witches, a Muspelli and a detachment of his followers subjugate them, receiving tribute from them on the Summer solstice. Once they are dominated, the Muspelli prepares to sacrifice the oldest and the youngest to Gullveig on pyres during the Winter solstice. Rising out of the smoldering ashes, the Aspect of Gullveig promises to instruct the Muspelli and the eldest remaining folk witch in any of the Supernatural Abilities associated with her, listed on page 82 of *Rival Magic.* A relative or rebellious member of the coven accidentally overhears this plan and seeks out the covenant, asking for assistance, but the surviving folk witches have joined the Muspelli's cause.
 
@@ -2949,11 +2949,11 @@ that Lokeshafr is trying to expand it.
 
 **The Spoils:** If captured, the Muspelli has his gandur and 5 pawns of vis. His gandur and body may both serve as sources of Insight.
 
-#### **Hermetic Correspondence**
+#### Hermetic Correspondence
 
 These story options arrive via Tribunal gossip, bits of conversation made in passing by traveling magi who seek hospitality, or House Mercere's messengers. These events are near the covenant, but primarily affect other members of the Order.
 
-## **Story Seed: The Fruits of Loyalty**
+## Story Seed: The Fruits of Loyalty
 
 A Muspelli begins driving out the inhabitants of a remote area as winter begins, leaving no communities standing in a 5 mile radius, roughly nine villages. Then, as the new shoots of trees and plants sprout in the ruined sites during the following spring, the Muspelli intends to sacrifice the religious symbols of the communities' religious leaders at the most central site. Once the task is complete, the Aspect of Gymir appears and instructs the Muspelli over the next season in any of the Supernatural Abilities listed on page 82 of *Rival* Magic. This sets the ability at 1 and provides 15xp in the next season. Some of these refugees approach the covenant in the dead of winter, asking for sanctuary and permission to join as covenfolk. In the course of their incorporation, they explain the raid, giving details about the nature of the attackers, which might put the covenant on their trail. The lord of the area is too distant to intervene before winter starts, and the weather makes it impractical during winter, but he will raise an army the following spring. The Muspelli intends to be long gone by then, giving the characters a deadline.
 
@@ -2965,7 +2965,7 @@ A Muspelli begins driving out the inhabitants of a remote area as winter begins,
 
 **If Thwarted:** Should the werewolves escape, they notify the Muspelli regarding the Hermetic presence in the area. The Muspelli arrives in three seasons to investigate the area himself.
 
-#### **Story Seed: Gaining Surtur's Favor**
+#### Story Seed: Gaining Surtur's Favor
 
 A Muspelli hunts down a local vitki or eremite pagan Hermetic magus, forcing him to surrender his personal weapon, Thor's Hammer amulet, or talisman to the Muspelli. Then, using the item, the Muspelli prepares to sacrifice an individual important to the previous owner. In exchange for this deed, the Aspect instructs the Muspelli over the next season in one of the Supernatural Abilities listed on page 82 of *Rival* Magic. This sets the ability at 1 and provides 15xp in the next season*.* Realizing the danger, but lacking the resources to stop the Muspelli, the magus or vitki approaches the covenant for help, creating a political ally or friend useful in other Tribunal business and storylines. Depending on the sort of conflict desired, the covenant might face the Muspelli or the Muspelli's minions, with the potential to trace the attack back to the Muspelli.
 
@@ -2983,7 +2983,7 @@ A Muspelli hunts down a local vitki or eremite pagan Hermetic magus, forcing him
 
 **The Spoils:** If the witches are killed, searching the site reveals similarities between these deaths and with those from the previous stage's story seed, "To Contact Gullveig." The bodies may be used as a source of Insight regarding Muspelli magic, and each contains two pawns of Corpus vis. If the characters save the witches, they have some new allies.
 
-#### **Corrupting Auras**
+#### Corrupting Auras
 
 By transforming Magic auras into ones aligned with Trolldomur, the Muspelli destroy the resources available to their Hermetic foes while predisposing the area toward their plans and continuing the process of breaking the chains that bind Loki. While Divine auras are immune and Infernal auras nearly so to the decay of Trolldomur, destroying Faerie auras and converting Magic auras into Trolldomur provides Muspelli with locations where their magic remains strong, but their enemies' magic suffers. To accomplish this transformation, the Muspelli must enact utiseta with an Ease Factor equal to or greater than 5 times the Faerie Aura, or 10 times the Magic Aura. See *Rival Magic*, page 81 for details.
 
@@ -3021,7 +3021,7 @@ vested. Then the storyguide should plan a specific itinerary for the Muspelli, s
 
 **The Spoils:** The Muspelli has any vis he carries, and any gandur. His body, gandur, and any damaged auras could still serve as a source of Insight.
 
-#### **Death Which Does Not Die**
+#### Death Which Does Not Die
 
 Why do the Muspelli regularly kill the inhabitants of an area directly or indirectly when their primary goal is to unleash Fimbulwinter? Whether the populace dies at the hands of raiding bandits, through starvation, or from exposure, their unfortunate demise allows the Muspelli to create unquestioning and trustworthy soldiers. Muspelli take a long time to cast their spells, and Walking Dead serve wonderfully as sentries and protection while they perform utiseta or summons. Once the situation escalates to open conflict with the Order of Hermes, armies of the dead can be turned upon upon trade routes, outlying communities, and small strongholds, creating problems for allies or resources the magi rely upon. They can be sent to create distractions or ambushes. Additionally, walking corpses do not care about the weather, need no sleep, and require no supply train. They can be buried in shallow graves or hidden in snow, left lying around a ruined wagon, or standing unseen on a lake or river bed, waiting for the right moment to ambush their target. Using animated bodies as the core of their forces, Muspelli can better fortify the sites established to create Fimbulwinter with troops capable of standing guard forever. And when Fimbulwinter is finally achieved, the Muspelli will likely have hordes which will serve them quite well in the aftermath of Fimbulwinter while others are desperately seeking able-bodied warriors.
 
@@ -3054,17 +3054,17 @@ Additional Irminsul which might serve as the focus of the Muspelli's summoning r
 
 Reducing an Aspect to 0 Might doesn't destroy it, but forces it to return to the Magic Realm, where it could be summoned again.
 
-#### **Telling Tales**
+#### Telling Tales
 
 The information player characters can learn by interrogating the Muspelli or their minions in the first half of this stage is much greater than in the last stage. The thugs and reavers aiding the pagan sorcerers know that the Muspelli are seeking out magic sites, but don't know what the Muspelli do there. Dead or alive, they can provide human and etin-mod descriptions. In all cases, the Muspelli want to carry away their dead, having learned that Hermetic magi can question spirits and corpses. The Muspelli must accept that they will be discovered, but want their purpose to remain secret as long as possible.
 
 Muspelli know the location of their Irminsul sites, the details of the summoning ritual, the face and etin-mod of Ingvar, and likely the etin-mod of at least one other Muspelli.
 
-#### **The Price of Ignorance**
+#### The Price of Ignorance
 
 Failing to respond to events at this stage likely results in either the release of an Aspect of Fimbulwinter or the escalation of hostilities between the Order of Hermes and another organization, such as the mundane rulership, the Church, or the Raudskinna Compact.
 
-#### **The End State**
+#### The End State
 
 Welcome to Fimbulwinter. The only way this stage can end is with the deaths of the player characters or the Muspelli responsible for this cataclysm.
 
@@ -3072,7 +3072,7 @@ Welcome to Fimbulwinter. The only way this stage can end is with the deaths of t
 
 Encounters involving the Aspects of Fimbulwinter, the Muspelli and their allies, and mundane elements managing the catastrophe dominate the stories for this stage. However, the crucial moments are those times when the Muspelli summon new Aspects to Mythic Europe, tightening their icy grip on the environment.
 
-#### **Regional Events**
+#### Regional Events
 
 These are chance events, ones caught by a nosy covenfolk in town, or told to a grog over cups in a nearby tavern, perhaps even spotted by apprentices sneaking out of the covenant.
 
@@ -3195,7 +3195,7 @@ nature, and that the site has magical significance. They may know this operation
 
 **The Spoils:** The Muspelli has any vis he carries, and any gandur. His body, gandur, and still functioning Walking Dead may serve as sources of Insight into Trolldomur magic. The Wolves of Virtue contain vis.
 
-#### **Hermetic Correspondence**
+#### Hermetic Correspondence
 
 These story options arrive via Tribunal gossip, bits of conversation made in passing by traveling magi who seek hospitality, visiting Redcaps, or House Guernicus' quaesitors prosecuting an investigation. These events are near the covenant, but primarily affect other members of the Order or the inhabitants of the region.
 
@@ -3219,7 +3219,7 @@ These story options arrive via Tribunal gossip, bits of conversation made in pas
 
 **The Spoils:** The Muspelli has any vis he carries, and any gandur. His body, gandur, and still functioning Walking Dead may serve as sources of Insight into Trolldomur magic. The Muspelli may also have any easily portable loot from the sacked town, such as gold church items.
 
-#### **A Winter Homecoming**
+#### A Winter Homecoming
 
 The Muspelli intend to perform a summoning ritual at the covenant's Irminsul. To conceal this action, they plan an attack on the covenant itself, to distract the magi from their true purpose, but only if covenant is established above ground and not in a regio. Even if the Irminsul is distant from the covenant, they engage to keep the covenant occupied and ensure the Muspelli can summon the Aspect without interruption. Ideally, if they've gained sufficient intelligence through captured or subverted covenfolk, they attack on the day of the Aegis ritual, hoping to prevent its conclusion, so that the newly arrived Aspect can affect the whole community. Otherwise, their attack arrives in the small hours of the night, after any shift change. The Muspelli's forces open with massed volleys of mundane fire arrows, attempting to ignite as many structures as possible. If possible, they use Entranced proxy forces from nearby mundane lords or outposts, or stage a false flag attack on the nearby lord, with a "captured" Muspelli soldier who claims to serve the covenant. This planted prisoner threatens the local leadership with terrible acts against the members of their households.
 
@@ -3238,7 +3238,7 @@ If the rest of the player characters' Tribunal members doubted the possibility o
 
 If prevented from completing the utiseta, the Muspelli returns two seasons later to attempt the operation again.
 
-#### **The Egesterenstein**
+#### The Egesterenstein
 
 As the third stage progresses, the Muspelli claim the Egesterenstein in the Teutoberger Wald. This ancient stone monument served as a pagan holy site until Charlemagne defeated the Saxons in 792. There are several caves here, serving as residences for the half-dozen hermit monks who maintain a small, rough chapel on the ground floor. This chapel has no Divine aura, as there is no sufficient congregation that gathers to regularly worship here, and no relic consecrated within the altar. The monks mostly ignore the former pagan altar space, high above the valley in a grotto atop the third of five monoliths. This grotto is accessed only by a narrow stone staircase, carved along the raw stone of the sheer face, and the monks occasionally use it for prayer and contemplation; it has a Magic aura of 3, which rises to 5 on the Summer Solstice. These clergy stand no chance against the Muspelli's forces. Magnus, Gunnvara, or even Ingvar is a good choice for this site.
 
@@ -3246,7 +3246,7 @@ This site has great significance to the Jotnar, and the Muspelli layer their def
 
 For storyguides wishing to increase the difficulty of this event, consider adding converted vitkir with skills identical to those presented later. Also, adding Leif Ormsbrodir to the ranks of the mercenaries, ready to fight in etin-mod, is another option for a greater challenge.
 
-#### **Sunday, Laetare Sunday**
+#### Sunday, Laetare Sunday
 
 This attack may throw the characters off balance, as it does not involve an existing Irminsul. Instead, it involves a tradition associated with Laetare Sunday. The Divine ceremony commemorates Charlemagne's victory over the Saxons and the end of paganism in the Holy Roman Empire. On the 4th Sunday of Lent, in villages and towns throughout the Saxony region, the residents raise a wooden Irminsul in their town square, and then the young men throw stones at it until it topples. Taking advantage of this ritual, the Muspelli strike after the Irminsul is raised, but before the traditional toppling of the monument. First, they overwhelm the town with their allies and supernatural powers. Then, using the Irminsul as the Arcane Connection to Fimbulwinter and the focus of the ritual, the Muspelli completes the summoning ritual. Laetare Sunday is always three Sundays prior to Easter, but the date varies from year to year.
 
@@ -3266,7 +3266,7 @@ This event always provides another Irminsul site, helping the Muspelli complete 
 
 Those captured at this event provide no additional information for this phase. If thwarted, the Muspelli will attempt this same attack in a different village next year, until killed.
 
-#### **The Heart of Winter**
+#### The Heart of Winter
 
 Ingvar Suttungja's redoubt in the Nordic region is not given a specific location, so the storyguide may place it as best fits her saga. Some options include the hills near Gamla Uppsala, where he has gathered relics and the Irminsul of the great Temple, secreted away before its destruction in the late 11th century, or the island of Gotland, or even in the pagan lands of the Balts, where the werewolves run in the forests.
 
@@ -3288,13 +3288,13 @@ Storyguides seeking a particular Muspelli to bring into conflict with the covena
 
 These are distraction plotlines, meant to be started up when the Aspects are being released, to provide additional chaos. These plotlines should continue to run their courses, drawing resources, causing difficulties, and generally causing trouble in the magi's world as the Muspelli continue to enact Aspect summoning utisetas. At this point, the saga should feel like the full-blown war it is.
 
-#### **Telling Tales**
+#### Telling Tales
 
 The information player characters can learn by interrogating the Muspelli or their minions in the second half of the stage is similar to the intelligence available in the first half, except now even the thugs and reivers aiding the pagan sorcerers know the Muspelli are seeking out Irminsul, and know the Muspelli perform a ritual at the old monuments. Dead or alive, they can provide human and etin-mod descriptions, and can describe what Irminsul look like. The Muspelli still do what they can to keep things secret.
 
 Muspelli know their Irminsul sites, the summoning ritual, the face and etin-mod of Ingvar, and likely the etin-mod of at least one other Muspelli.
 
-#### **The Price of Ignorance**
+#### The Price of Ignorance
 
 It is possible the covenant may still wish to pursue their own agendas, either preparing to flee the destruction or simply shelter in place. Adjust their plotlines accordingly with the consequences of any successful Muspelli actions.
 
@@ -3310,7 +3310,7 @@ There is a possibility the Muspelli could join the Order of Hermes, if they lear
 
 traveling groups like a Muspelli party. While this may seem like an unfortunate loss of the magi's resources, the time spent investigating the Redcap's death offers the chance for increased Hermetic awareness of Muspelli plans and membership.
 
-#### **Shadow War**
+#### Shadow War
 
 The Muspelli stand a reasonable chance of framing the Raudskinna Compact for their activities, and potentially distracting the Order of Hermes with a secondary conflict, if you choose to include the Compact in your version of Mythic Europe. Such an accomplishment would pit the Muspelli's oldest foe against their greatest threat while leaving the servants of the Jotnar free to complete their goals. But how would they instigate hostilities between the two groups?
 
@@ -3320,7 +3320,7 @@ The Muspelli could remain more involved, but as a "fifth column," offering to su
 
 The Raudskinna Compact is detailed in *Rival Magic*, pages 106-109, and rules for vitkir, the main members, are given in *Hedge Magic*, pages 120-140.
 
-#### **Regional Troubles**
+#### Regional Troubles
 
 To the common folk, there is little difference between the terrifying Muspelli in their etin-mod, and the Hermetic wizards studying in their covenants. It doesn't matter how badly the local residents misperceive their attackers, falling quickly back to easily remembered suspicions about those strange scholars and their rough guardsmen. By attacking soft targets serving as sources of income and prestige to both nobility and clergy, the Muspelli essentially kick a very angry bear predisposed to suspect the magi.
 
@@ -3337,7 +3337,7 @@ created a scapegoat. Ideally, a third-party witness beyond reproach would need t
 
 **The Spoils:** The Muspelli has any vis he carries, and any gandur. His body, gandur, and still functioning Walking Dead may serve as sources of Insight into Trolldomur magic. The Muspelli may also have any easily portable loot from sacked towns, such as gold church items.
 
-#### **Hermetic Correspondence**
+#### Hermetic Correspondence
 
 **The Event:** Several Redcaps and a Peregrinator Magus have disappeared while traveling through the Rhine to Stonehenge. There have been signs of struggles and attacks, and the Praecos, Presiding Quaesitors, and Redcaps of both Tribunals have asked for assistance resolving the issue, perhaps offering leniency on other issues, like interfering with the mundanes, if the covenant can successfully resolve their fates. Several of the bodies are discovered upon searching, with evidence suggesting that vitkir or hedge wizards are responsible.
 
@@ -3387,11 +3387,11 @@ killed his mount, but he escaped while they slept. He doesn't think he was follo
 
 As events unfold, the covenant must manage many elements of the situation. Changes in the availability of mundane and supernatural resources demand attention from the player characters. The wizards might investigate the nature of Fimbulwinter in order to learn the identity of their enemy or in an attempt to incorporate a new type of magic into Hermetic theory. Once the player characters discover the Muspelli plot and recognize the threat posed by the Aspects, chances are good they will go on the offensive, seeking out ways to halt the winter's escalation and reverse its effects.
 
-### **The Cost of the Cold**
+### The Cost of the Cold
 
 Fimbulwinter inevitably impacts mundane supplies, as the freezing weather both reduces harvests and forces the populace to seek better living conditions. Simple necessities, like tools, laboratory supplies, or livestock, become difficult to acquire as the covenant competes with nearby communities for the raw materials necessary to survive. While not every troupe tracks their logistical matters, stories regarding dwindling stocks and shortages should become a recurring part of the saga after the second Fimbulwinter Aspect is released, helping accentuate the forced migration of the common populace when their land can no longer support them and the desperate competition for remaining resources among those who attempt to shelter in place.
 
-#### **Divine Intervention**
+#### Divine Intervention
 
 Where is the Divine as Fimbulwinter blossoms into its full, terrible glory? The storyguide has a few options to consider. First, the Host of Heaven may simply arrive in Mythic Europe and bring those with True Faith back to the Kingdom of God, creating a "left behind" situation for the rest of humanity. (This is a bad option if any player characters have True Faith.) Second, there may be a number of subtle Divine interventions where wood burns far longer than normal, or
 
@@ -3410,29 +3410,29 @@ Brigands accost a group of covenfolk and steal the livestock being used to compl
 
 a week's worth of grain produces bread for seven weeks, but these should be reserved for those of great piety. Finally, the Divine may treat Fimbulwinter as a test of faith, an opportunity for mankind to live and exemplify the ways of God in the face of great adversity. In any case, the response should not take agency away from the player characters or make their choices meaningless.
 
-#### **...Make Good Neighbors**
+#### ...Make Good Neighbors
 
 The loss of vis sources generates issues for both the player character magi and other Hermetics. Converting auras to Trolldomur destroys vis sources. Depending on the location of a vis source relative to other Tribunals, foreign magi may cross their borders to poach the covenant's site after theirs has been damaged or taken. Muspelli might also steal vis from unguarded sources, or supernatural creatures might consume the vis to survive. These stories could occur at any point in the saga, but particularly in the second phase of the first stage, as the Muspelli prepare and execute their plans, and then during the second phase of the third stage, as the Muspelli prosecute their war of attrition.
 
-#### **The Source of the Effects**
+#### The Source of the Effects
 
 Discovering the origin of Fimbulwinter means hunting down witnesses who may have seen a summoning ritual performed, and then unraveling the mystery of the Muspelli tradition by learning who they are and what they desire. In the course of the investigation, the player characters may find themselves approaching the Raudskinna to learn about the greatest enemy of the vitkir. They might engage local hedge wizards, Seekers, or other Hermetics with reputations as scholars of non-Hermetic traditions, trying to gain information on Muspelli tactics and motivations. Given that the enemy follows a pagan philosophy, necromantic specialists might bind the ghosts of defeated or long-dead Muspelli for extended interrogation. They might decide to study Fimbulwinter and the Muspelli's magical tradition of Trolldomur, in an effort to incorporate it into Hermetic Theory. This last option represents a Hermetic Breakthrough, representing the integration of the utiseta-style casting method as an alternative for ceremonial casting.
 
-#### **Chasing the Culprits**
+#### Chasing the Culprits
 
 Once the player characters realize the Muspelli are responsible for releasing the Aspects of Fimbulwinter, they may decide to hunt down the pagan sorcerers. Killing all of the living Muspelli who know the Aspect summoning ritual brings the threat to an end.
 
 However, in order to perpetuate Fimbulwinter, the Muspelli only need to transmit the summoning ritual to other Muspelli, a process which takes a season of instruction. If the Hermetics discover the Muspelli are Arcane Connections to the Jotnar, they might decide to exploit the connection in reverse. Once dead, Muspelli are no longer Arcane Connections to their Jotun patron. By hunting down a particular Jotun in the Magic Realm and acquiring an Arcane Connection, it is possible to create an effect capable of affecting all Muspelli associated with the Jotun. This effect could be as subtle as a Rego Mentem charm, causing the Muspelli to become farmers, or a bloody killing spell.
 
-#### **Hunting Aspects**
+#### Hunting Aspects
 
 Magi are likely to face Aspects of Fimbulwinter in magical combat, potentially destroying a particular Aspect more than once. The Aspects are a part of the Daimon of Fimbulwinter and also individuals at the same time. Aspects carry grudges between incarnations, remembering who destroyed their previous form, as well as any interactions they may have had with those characters. This task is both potentially simple and challenging; following the wintry trail of an Aspect is easier during the early seasons of the third stage, but once winter is widespread, locating Aspects somewhere in the countryside requires a dedicated hunt or an Arcane Connection.
 
-#### **Hunting Irminsul**
+#### Hunting Irminsul
 
 By destroying the Irminsul, the Order of Hermes eliminates the Arcane Connection necessary for the Muspelli to summon Aspects of Fimbulwinter. This option is likely to bring the player characters into direct conflict with the Muspelli more often, because the servants of the Jotnar are also looking for these pagan altars. Unfortunately, while it might slow the number of Aspects which can be released into Mythic Europe, this is not a foolproof course of action. Magi may choose to use the Irminsuls as an Arcane Connection to affect the currently summoned Aspect; the Irminsul is considered an indefinite Arcane Connection. New Irminsuls may only be created through rituals like the Laetare Sunday tradition, or by discovering priests of this tradition in some regio who know how to do so; none are alive in Mythic Europe in 1220.
 
-#### **Into the Heart of Winter**
+#### Into the Heart of Winter
 
 Similar to affecting all the Muspelli of a particular Jotun, it is possible the magi may decide to venture into the Magic Realm, seeking out the region of Yggdrasil to strike at the *kosmokrater* they represent, or acquire either the Aspects' True Names or some other Arcane Connection. Then, armed with this link, they might use it to destroy the Aspects across Mythic Europe with a targeted effect. While certainly possible, such a venture is beyond the scope of this book. Magi would face numerous Jotun foes, lindwurms, trolls, possibly even valkyries; the destruction of the very concept of Fimbulwinter leaves the Aesir with no foe to fight, an intolerable consequence. The Daimon of Fimbulwinter, the *kosmokrator* trapped in the Magic Realm, should be considered effectively immortal while there. It cannot be damaged by Perdo Vim effects the way other creatures with Might are vulnerable. A Daimon's connection to the Magic Realm renders it immune to any such attack. Likewise, while the currently summoned Aspects may be destroyed, removing them from Mythic Europe until summoned again, they cannot be eradicated from the Magic Realm.
 
@@ -3452,7 +3452,7 @@ To stay independent of the world outside, covenants need to maintain livestock a
 
 make a Stamina check at the end of the month versus an Ease Factor 12 or lose three Long-Term Fatigue levels. If they did it again, they would need to make a Stamina check versus an Ease Factor of 21 or suffer the loss of another three Long-Term Fatigue levels. Each successive month of magical food increases the Ease Factor by 9 with the loss of three Long-Term Fatigue levels. When the characters become Unconscious, the loss becomes damage as described under Deprivation, ArM5, page 180. Animals bred as food and sustained on magically created food are not as healthy, and anyone living in such an environment suffers a –2 Living Conditions modifier. To avoid this, people and animals either need to be fed food magically created with vis, or naturally grown. Natural food grown with magical assistance is still naturally grown food.
 
-#### **The Hidden Warren**
+#### The Hidden Warren
 
 PeTe 40
 
@@ -3473,7 +3473,7 @@ Similar to *The Shrouded Glen* (ArM5, page 152), this spell enchants the Boundar
 
 (Base 3, +1 Touch, +4 Year, +4 Boundary, +1 Mentem Req.)
 
-#### **Chime of a Sunken Spring Day**
+#### Chime of a Sunken Spring Day
 
 CrIg 24
 
@@ -3485,7 +3485,7 @@ Ringing this handbell and setting it against the wall of a structure fills the s
 
 (Effect: 2, +1 Touch, +2 Sun, +3 Struct; +1 for 2/day use, +3 Environmental Trigger: Sunrise/set)
 
-#### **Chimes to Mark the True Time**
+#### Chimes to Mark the True Time
 
 CrIg 25
 
@@ -3517,7 +3517,7 @@ secure peace, as the locals resist the arrival of refugees. Covenants consolidat
 
 A covenant pursuing this option is essentially abandoning Europe to the Muspelli. While other covenants may do the same, there are likely to be those who favor attempting to remain behind and stop Fimbulwinter. This may result in a second schism of the Order, as those who flee are considered traitors by those who stay.
 
-#### **A House Already Abandoned**
+#### A House Already Abandoned
 
 MuIm 35
 
@@ -3568,7 +3568,7 @@ ment and a more organized Muspelli resis-
 
 **Personality Traits**: Overconfident +3, Contemplative +2
 
-#### **Combat**:
+#### Combat:
 
 *Axe & Round Shield:* Init +3, Attack +11, Defense +9, Damage +8
 
@@ -3578,7 +3578,7 @@ ment and a more organized Muspelli resis-
 
 *Fist*: Init +2, Attack +7, Defense +7, Damage +2
 
-#### **Soak**: +8
+#### Soak: +8
 
 **Fatigue Levels**: OK, 0, –1, –3, –5, Unconscious.
 
@@ -3590,7 +3590,7 @@ ment and a more organized Muspelli resis-
 
 **Equipment**: axe, full leather armor, gandur of a serpent tooth (+1 to his Power Modifier), round shield
 
-#### **Sample Utiseta Known**:
+#### Sample Utiseta Known:
 
 *Scion of Jorgmandir.* Once per day, Leif can take the form of a lindwurm as detailed on *Realms of Power: Magic*, page 78. (Shapeshifter 27, +5 size, +7 Penetration) This form is resisted by the Parma, as it is an ongoing utiseta.
 
@@ -3600,7 +3600,7 @@ ment and a more organized Muspelli resis-
 
 Leif attacks ships traveling across the Baltic and North Sea. Arriving under the cover of a Sjonhverfing mist in the form of a dragon, he savages the crew, often damaging the hull before tearing off the dragon figurehead. He leaves the wounded and dying to the mercies of the cold sea as the vessel founders. His cavern lair has a Magic aura of 3, and is only accessible via a submerged tunnel. Over 30 figureheads stare down at the ritual space where Leif lives, each one a longship sent beneath the waves. Leif has an intrinsic +3 power modifier (+1 for Mute, +1 for having 5 in another of Nidhogg's powers, +1 for possessing a gandur of his patron). For his best Abilities, Shapeshifter and Winter's Breath, he can expect casting totals of 33+aura+stress die. If given the opportunity, he stores an utiseta to turn a specific target into a fish in his gandur. (*Fool out of Water*; Shapeshifter Ease Factor 24; R: Voice, D: Sun, T: Ind; Target is transformed into a large bass (size -2); (BL 12 + 2 Voice +2 Sun))
 
-### **Leif Ormsbrodir: Young Muspelli of Nidhogg, Etin-mod**
+### Leif Ormsbrodir: Young Muspelli of Nidhogg, Etin-mod
 
 **Characteristics**: Int 0 Per +1 Pre 0, Com –1, Str +4, Sta +3, Dex +2, Qik +2
 
@@ -3644,7 +3644,7 @@ Leif attacks ships traveling across the Baltic and North Sea. Arriving under the
 
 **Equipment**: axe, full leather armor, gandur of a serpent's tooth (+1 to his Power Modifier), round shield
 
-#### **Utiseta Held in Gandur**:
+#### Utiseta Held in Gandur:
 
 *Scion of Jorgmandir.* Leif can take the form of a lindwurm as detailed on *Realms of Power: Magic*, page 78. (Shapeshifter 27, +5 size) This form is resisted by the Parma, as it is an ongoing utiseta.
 
@@ -3719,7 +3719,7 @@ In the following years, he has honed his powers, believing he is never as capabl
 
 Magnus has an intrinsic +3 power modifier (+1 for Low-self esteem, +1 for having 5 in another of Urdur's powers, +1 for possessing a gandur of the patron). For his best Ability, Storm's Eye, he can expect casting totals of 39+aura+stress die. He prefers to store *Theft of Thor's Thunder* in his gandur, although he might increase the intensity of the storm.
 
-#### **Magnus Norn: Median Muspelli of Urdur, Etin-Mod**
+#### Magnus Norn: Median Muspelli of Urdur, Etin-Mod
 
 **Characteristics**: Int +5 Per +1 Pre +2, Com +1, Str +3, Sta +3, Dex 0, Qik 0
 
@@ -3745,7 +3745,7 @@ Magnus has an intrinsic +3 power modifier (+1 for Low-self esteem, +1 for having
 
 **Supernatural Abilities**: Entrancement 9 (Men), Premonitions 6 (foes), Sjonhverfing 10 (mists), Spadomir 6 (deaths), Storm's Eye 12 (lightning), Threads of Fate 10 (battle);
 
-#### **Powers:**
+#### Powers:
 
 *Look of Willing Assistance*: CrMe 15 (R: Eye, D: Sun, T: Ind; neither speaking nor gesture required): This effect creates a sensation in the target to want to help Magnus with anything he has suggested.
 
@@ -3826,7 +3826,7 @@ Over time, he came to feel that he should serve the Jotnar more directly and eff
 
 Ingvar often stores *Blast of Ymir's Bellows*  in his gandur. Because the target must be set at the time of casting, he carries a lantern, which he keeps burning from the preparation of the utiseta to its use, and specifies the flame in the lantern as the target. He can bring the flame back to the lantern and use it again if he has stored more than one casting of the utiseta in the gandur. This is risky, however, because if the flame goes out there is no way to discharge the utiseta, and Ingvar faces Warping, and an uncontrolled fire, after a year. Accordingly, Ingvar normally only stores one version of the effect.Ingvar also uses *Scion of Jorgmandir*  and *Theft of Thor's Thunder*, as both are well within his capability. Ingvar has an intrinsic +3 power modifier (+1 for Deaf, +1 for having 5 in another of Surtur's powers, +1 for possessing a gandur of the patron). For his best Ability, Wildfire, he can expect casting totals of 41+aura+stress die.
 
-#### **Ingvar Suttungja: Experienced Muspelli of Fire, Etin-Mod**
+#### Ingvar Suttungja: Experienced Muspelli of Fire, Etin-Mod
 
 **Characteristics**: Int 0 Per +1 Pre +2, Com -1, Str +4, Sta +2, Dex +2, Qik -3
 
@@ -3844,7 +3844,7 @@ Ingvar often stores *Blast of Ymir's Bellows*  in his gandur. Because the target
 
 **Qualities**: Horns, Tireless, Tough Hide **Personality Traits**: Ambitious +6, Dedicated +3, Patient +2
 
-#### **Combat**:
+#### Combat:
 
 *Dodge*: Init –3, Attack N/A, Defense 0, Damage N/A
 
@@ -3866,11 +3866,11 @@ Ingvar often stores *Blast of Ymir's Bellows*  in his gandur. Because the target
 
 **Equipment**: Longsword gandur, partial chain mail, round shield
 
-#### **Utiseta Prepared:**
+#### Utiseta Prepared:
 
 *Blast of Ymir's Bellows*. Ingvar can cause a torch or lantern to burn with white-hot intensity and leap from the source to a target within his voice range. This fire burns those it strikes for +15 damage. He may continue causing this hungry flame to leap between targets until he breaks concentration. (Wildfire 24, + 3 Conc, +3 very unusual movement.)
 
-#### **Encumbrance**: 0
+#### Encumbrance: 0
 
 **Appearance**: Ingvar appears as an enormous, charcoal-skinned man with smoldering, spiraling ram's horns and eyes glowing like cinders. His hair becomes a shaggy black mane of wiry black strands. He wears an apron of heavy chains, a mail shirt, and never walks without a bared sword. He gleefully leads his men into combat in this form, and they love him for it, thinking they are true heirs of Ragnarok.
 
@@ -3967,7 +3967,7 @@ Fist: Init +3, Attack +2, Defense +5, Damage –1
 
 **Abilities:** Brawl 1 (fist), Riding 2 (staying mounted), Stealth 5 (hiding against a black wolf's fur)
 
-#### **Powers:**
+#### Powers:
 
 *Coagulation*, 1 point, Init –1, Corpus: This power allows the shade to take physical form.
 
@@ -4057,7 +4057,7 @@ A **Crisis** occurs when a character's disease is Critical. At that point, the p
 
 A simpler method exists, described in **ArM5**, page 180, which is useful if the troupe wants to reduce the number of die rolls. The disease is simply another form of debilitation, and those exposed make a Stamina check against an Ease Factor set by the disease, in this case 12. Those who fail suffer effects equivalent to a Light Wound. Though simpler, this method loses much of the nuances (and fun) of dealing with the disease.
 
-#### **St. Anthony's Fire**
+#### St. Anthony's Fire
 
 Minor Sanguine Disease, Severity 12 Stable: 6, Improve 18, Interval: Season
 
@@ -4086,7 +4086,7 @@ In particular, Hellix looks for anyone who caught and survived an infection, esp
 
 After her parens' March, Hellix left the Hibernian Tribunal and joined Cad Gadu, the domus magna of House Ex Miscellanea, located in the Stonehenge Tribunal. Before leaving she made her desire to walk Mythic Europe known to the magi of Hibernia. When Józef was later convicted of a low crime, his punishment was to help Hellix in her task, and he was assigned to be her guide and guard for a year.
 
-#### **Hellix of House Tytalus**
+#### Hellix of House Tytalus
 
 Born in Kent in south eastern England, she was apprenticed under Okeabutes at Circulus Ruber, in the Hibernian Tribunal. Specializing in Herbam magic, especially trees, Hellix found the Tribunal well suited to her magical affinity. As much as she loves her magical abilities, she despises her lineage. She thinks House Tytalus's methods are too brutal, too extreme, and vows to never take an apprentice to carry on such a barbarous tradition. She hopes to find a cure for Mythic Europe's most notorious plant diseases to help erase the stain she feels House Tytalus has imprinted on mundane society.
 
@@ -4158,7 +4158,7 @@ Dodge: Init +0, Attack n/a, Defense +0, Damage n/a
 
 **Appearance:** Hellix is abnormally tall, a result of a Temporary Twilight incident that elongated her legs but did not effect the rest of her body. She wears a long black robe to cover this abnormality, but because she stands almost 7 feet tall it does little to mask her freakish height.
 
-#### **The Redcap Józef**
+#### The Redcap Józef
 
 Józef is a Slavic Redcap born near Ujazdów Castle (the future site of the city of Warsaw) and trained in the Transylvania Tribunal. Because the Tribunal has an abundance of Redcaps, Józef's superiors assigned him to the Hibernia Tribunal. He became familiar with all the Tribunal's magi, including the Marched Okeabutes. At some point he started stealing vis, which he would then trade to Hibernian hedge wizards for goods and services. Caught and convicted, his punishment is to serve Hellix for a year. The Hibernian Quaesitor hopes that removing Józef from the Tribunal for a year will ensure that the Redcap won't want to come back. It is working.
 
@@ -4235,9 +4235,9 @@ The most common plant diseases are **sun scorch**, which blanches the leaves and
 
 All of these diseases can be transmitted unnaturally as well, Theophrastus making a distinction between the natural transmission of a disease through an imbalance of a plant's nutritional sources, and the unnatural transmission of disease through magical, infernal, or divine agencies. The demons, for example, infect a plant with necrosis through an infernal power.
 
-#### **Common Plant Diseases**
+#### Common Plant Diseases
 
-#### **Sun Scorch**
+#### Sun Scorch
 
 Minor Disease, Severity 6 Stable: 6, Improve 10, Interval: Week
 
@@ -4245,23 +4245,23 @@ Sun scorch can be cured by increasing a plant's water source and, if possible, p
 
 most common plant ailment in Mythic Europe and is often the first killer in areas of drought.
 
-#### **Grubs**
+#### Grubs
 
 Major Disease, Severity 12 Stable: 10, Improve 10, Interval: Week Grubs destroy the field within a month.
 
-#### **Kambros**
+#### Kambros
 
 Minor Disease, Severity 6 Stable n/a, Improve 9, Interval: Week
 
 Kambros prevents a plant from producing fruit, but will not necessarily kill the plant if left unattended. The disease will not worsen, but it is a persistent blight until cured.
 
-#### **Mold**
+#### Mold
 
 Serious Disease, Severity 9 Stable 6, Improve 15, Interval: Day
 
 Mold is a determined ailment and will destroy an Individual-sized plant in 7 days. Larger plants take longer to die, but are no more resistant to the disease. Multiply the length of time it takes to destroy the plant by 10 for every +1 size increment.
 
-#### **Necrosis**
+#### Necrosis
 
 Critical Disease, Severity 15 Stable 12, Improve 18, Interval: Hour
 
@@ -4317,7 +4317,7 @@ Unlike most Hermetic spells, those that strive to provide fertile crops are not 
 
 Hellix desires a plant cure that surpasses those already available. Having discovered that demons, faeries, and magical creatures can cause plant diseases, she seeks to protect fields from those supernatural maladies. She also seeks a more embracing cure, one that wards vasts acres of tillage from both natural and unnatural plant diseases. Her motivation might seem generous — what greater gift than that of a stable food supply — but it is driven by her ambition to outshine the other members of her House. While they squabble and pursue petty differences, thinks Hellix, she will show them and the world the greater benefit of magic.
 
-#### **Ward against Natural Imbalances of Nutrition**
+#### Ward against Natural Imbalances of Nutrition
 
 ReHe 55
 
@@ -4325,7 +4325,7 @@ R: Touch, D: Year, T: Boundary, Ritual This ritual spell keeps natural plant dis
 
 (Base 5, +1 Touch, +4 Year, +4 Boundary, +1 size)
 
-#### **Ward against Unnatural Imbalances of Nutrition**
+#### Ward against Unnatural Imbalances of Nutrition
 
 General
 
@@ -4337,7 +4337,7 @@ This ritual spell keeps supernatural magical plant diseases of a particular Real
 
 Rather than promoting healthy growth or protective wards, another solution is to cure a field already damaged by a plant disease. Much like curing human disease, spells that return a blighted field to health are rituals and require vis. Curing one disease does not prevent another, nor does it guard against repeat infestations of the disease just cured. Yields may be affected, depending on how much damage a disease has done, but if the spell is cast before harvest the crop is hale and untainted.
 
-#### **Shade the Scorched Earth**
+#### Shade the Scorched Earth
 
 CeHe 20
 
@@ -4391,7 +4391,7 @@ Dying from the Great Herbam Pestilence taints a magic creature's body, so that i
 
 Being magical creatures, familiars are affected by the Great (Form) Pestilence. While there might not be many Herbamaligned familiars in your saga, this becomes a larger issue as the Great Pestilence advances through the Forms.
 
-#### **The Great (Form) Pestilence**
+#### The Great (Form) Pestilence
 
 Critical Phlegmatic Disease, Severity 21 Stable: 12, Improve: 18, Interval: Day Symptoms: Once acquired, the disease advances quickly. Initial signs in humans and animals are fatigue and fever, followed by coughing and sneezing. Within an hour coughing leads to bloody expectoration, and within two hours puss-filled buboes appear on the throat, armpits, and groin. For objects, minerals, and plants, the symptoms are a general encompassing of the surface with a blue-black mold. Firm textures becoming spongy and exude a foul odor. The Disease Penalty is –5.
 
@@ -4399,7 +4399,7 @@ Critical Phlegmatic Disease, Severity 21 Stable: 12, Improve: 18, Interval: Day 
 
 The loss of most of Mythic Europe's Herbam vis and Herbam magic beings is tragic, but pales against the deprivations of the next stage of the Great Pestilence's progression. On the rise of the third new moon, the last in the spring season, an invisible cloud forms in every Magic aura and regio, a cloud that destroys all living plant material. This cloud, called a **miasma**, is odorless, invisible, silent, intangible, and has no taste. Named after the Form it is targeting, the Herbam miasma delivers a lethal rot to all living plant material. Every plant within the cloud suffers the effects of the spell-like *Herbam Blight*.
 
-#### **Herbam Blight**
+#### Herbam Blight
 
 PeHe 30
 
@@ -4419,7 +4419,7 @@ Generated near the end of the spring season, when most of an area's cereal crops
 
 The Order of Hermes immediately sees the connection between the Herbam miasma, the loss of Herbam vis, and diseased magical beings. On the other hand, mundane society sees the poor harvests as a sign of the Almighty's displeasure. Most cities are prepared to handle a year's crop loss, with stored grains and managed prices that allow the majority of the population to survive. Bellies will not starve the first winter after the Herbam miasma, only grumble at times, but the situation will steadily deteriorate. Farmers begin a desperate race to find new pastures. New grass will grow in areas laid waste, but only on their natural cycle. A pasture wasted in the summer may grow new grass by the autumn, but is just as susceptible to a roving Herbam miasma as it was last year.
 
-### **Miasma Sizes**
+### Miasma Sizes
 
 A base Target: Individual for Auram is a single weather phenomena, which includes a cloud. Clouds come in various sizes, however, and spells that affect very large clouds need to be adjusted due to the cloud's size. A miasma is about the size of a cloud, and when resting on the ground occupies approximately the same space as an acre of land. This rough rule is used for convenience. In the 13th century, an acre of land is the amount of land an ox can plow in a day, or a plot of land 22 yards wide and 220 yards long. Adding a magnitude would affect a miasma the size of 10 acres of land (220 yards by 2,200 yards), adding a second would affect 100 acres of land, and a third 1,000 acres.
 
@@ -4427,13 +4427,13 @@ The miasma is the same size as the Magic aura that spawned it. When dealing with
 
 an acre of land. Very small Magic auras, like those lacunas found in cities, can be targeted with Target: Ind. Spells targeting larger miasmas, like those derived from most covenants, need to be increased by two magnitudes to affect the miasma. An aura's strength has nothing to do with the miasma's size.
 
-#### **Miasmas and Regiones**
+#### Miasmas and Regiones
 
 Magic regiones generate miasmas just like Magic auras. Inside a regio, however, winds won't blow the miasma away, nor carry a new miasma into the regio. Regiones are trapped air, in a sense, and do not interact with mundane winds. Even if the regio is a particularly windy regio due to its own magical characteristics, a miasma remains within the bounded area. In regiones, and only in regiones, a new miasma will replace an older one. When The Great Pestilence generates its Corpus miasma later in the year (see later), the Herbam miasma already in the regio is suppressed and replaced.
 
 Regiones aligned to the other realms also exist within their own confined environments. Winds can blow miasmas into Divine, Faerie, and Infernal auras, but not Divine, Faerie, and Infernal regiones. Such places are safe havens, allowing people a refuge from the ravages of the Great Pestilence. Living inside the regio, however, may not be possible. While sustainable regiones might produce food – crops grown in an Infernal regio, cattle stolen from a faerie regio, or wholesome bread and wine found in a Divine regio – interacting with the regio's denizens has consequences.
 
-#### **"We are Doomed!"**
+#### "We are Doomed!"
 
 They are not. Discovering miasmas is not as difficult as might be imagined. Medieval medical theory already speculates that plagues are disseminated by a corruption of the atmosphere, and that this "bad air" congeals into pockets of poisonous foulness. Indistinguishable from other types of air, the clump of bad air is blown from area to area by the wind. Any trained physician (anyone who possesses a score in Medicine) who investigates two or more areas devastated by the *Herbam Blight* can speculate that it is caused by a clump of bad air. Success is indicated by succeeding on an Intelligence + Medicine roll against an Ease Factor of 9.
 
@@ -4447,7 +4447,7 @@ In the covenant, all living plants die as soon as the Herbam miasma generates, a
 
 Miasmas are created every four months, the Form of the miasma the same as the Form the Great Pestilence is putrefying. Several types of Form miasmas soon circulate throughout Mythic Europe. While the covenant is protected by its *Aegis of the Hearth*, the magi's neighbors have no protection. Winds play the largest factor when determining if a miasma enters a locale. Roll on the accompany table to determine if the wind is blowing and its direction.
 
-#### **Simple Die Wind Direction**
+#### Simple Die Wind Direction
 
 - 1 No wind, check for length of time between miasmas (below)
 - 2 North
@@ -4503,29 +4503,29 @@ Storgyguide magi characters may have noticed a Twilight Tear during episodes of 
 
 How the Tribunals respond to the Great Pestilence depends on your saga, determined by your style of play and your troupe's vision of the Order of Hermes. Six example responses are presented here, one for each of the six Tribunals detailed in **Ars Magica Fifth Edition**. Use or revise these as you see fit.
 
-#### **The Rhine Tribunal**
+#### The Rhine Tribunal
 
 The first and foremost Tribunal of the Order, although not necessarily the most powerful or influential, is already stalled in political debate between those who would retreat and protect the great forests (the Hawthorn and Elder Gilds) and those who would treat with men (the Apple Gild). Several factors complicate a settlement, including the ancient enmities between the Black Forest covenants, the self-centered agendas of the smaller covenants, and the rigidness of the larger. Once Herbam vis rots and Herbam magic creatures perish, the wilderness faction screams for a solution, which unites the Tribunal in a common goal. All perceive it as a direct attack and look for someone to blame. The magi of Dankmar, assuming that most other Rhine magi believe that they are responsible, abandon their covenant and go into hiding. The loudest, most persuasive voices come from Oculus Septentrionalis, a covenant in Lübeck, who declare that the threat must come from the north, from the antagonistic Order of Odin. They propose an attack north, a proposal that is backed by Fengheld, the largest covenant in the Tribunal. Ships are bought and magi head to the coast, their sights set on the distant pagan magicians in Sweden, Finland, Latvia, and Lithuania.
 
-#### **The Normandy Tribunal**
+#### The Normandy Tribunal
 
 Probably the Tribunal where vis is most scarce, the magi of Normandy do not overreact when their limited supply becomes threatened. Some few spar and feud, keeping their disputes within legal boundaries, but most look for a solution. Unfortunately they have nowhere to look, until someone suggests that the dual Primi of Fudarus might have something to do with it. Both Buliste and Harpax refuse to accommodate any requests to investigate their covenant, and before the second new moon sets most of the Norman Flambeau and Tremere declare Wizards War against the Primi and any Tytalus they know. This could easily lead to a second Schism War.
 
-### **The Thebes Tribunal**
+### The Thebes Tribunal
 
 Rich in vis and abundantly blessed with Magic auras, the Thebes Tribunal does not initially treat the threat with the gravity it deserves. None view it as an attack, since there is no clear cut magical enemy for the Tribunal to face. They wonder instead if some ancient being has arisen, some titan long thought buried who now returns. A commission is formed to browse through the Redcap library at the covenant of Alexandria looking for references to the ancient titans and correlating that to the last known location of where any titan might be bound. The logothete Proximios applauds the plan, facilitates the commissioners entry into Alexandria and loads them with volumes of past Redcap messages and notes. Sensing that the situation is more dire than the other Theban magi realize, Proximios hopes to exacerbate the issue by stalling those hoping to find a solution.
 
-### **The Transylvania Tribunal**
+### The Transylvania Tribunal
 
 Rather than waste time finding the culprit, the Tremere of the Transylvania Tribunal rush into action. If no player character discovers the solution of relocating vis and creatures to save them, the Tremere do. They are also fairly well equipped to deal with such an enterprise, using their system of store houses and their modes of mobility and fast transit. A vexillation forms to deal with the calamity, and once the relocation is underway the vexillation looks for those behind the attack. Their first suspects are the ancient and terrible Infernal dragons that haunt the Carpathian Mountains. Thinking that the Infernal dragons have found some new power to use against the Magic dragons, squads of Tremere look for an Infernal dragon leader, one who they think is spearheading the assault.
 
 
 
-#### **The Hibernia Tribunal**
+#### The Hibernia Tribunal
 
 The magi of Ireland have the swiftest and most pronounced reaction to Herbam vis rotting: they panic. Those who know the history of the island know that plagues have twice wiped out its inhabitants in the ancient past, and this first sign of far-reaching blight sends them spinning. None initially think to save their vis, or any magic Herbam creatures they may know, and instead look to their own safety. Some leave Ireland, only to find the same calamity abroad. Others lock themselves in their towers and safe houses hoping the plague passes them by. The brave join with the Coill Trí, the league of hedge wizards living in Connacht, and search the deeper recesses of the Tribunal looking for the plague's origin. Hibernia has its fair share of Herbam specialists, and at some point someone remembers the maga Hellix and her skill in the Art.
 
-#### **The Provençal Tribunal**
+#### The Provençal Tribunal
 
 With tensions hanging on the edge of a sword, as they have for the past few years, the Great Pestilence is the final straw that breaks the Tribunal's cohesion. The Blacks and Whites of Tolosa Paratge declare Wizard's War on each other, and the long standing enmity between Aedes Mercurii and Castra Solis flares up as the former launches magical raids against the latter. Even the more pastoral covenants draw up their defenses and close their doors to outsiders. If there is a hope for recovery, it rests with the Coenobium and its far-flung network of Redcaps and Jerbiton magi. Using their connections and access to various river barges, they manage to save most of their Herbam vis.
 
@@ -4535,7 +4535,7 @@ At some point, either before or after the Great Pestilence strikes, the player c
 
 If the player characters arrive after the accident has happened, they find a completely different situation.
 
-#### **Inside the Fen**
+#### Inside the Fen
 
 Józef agrees to lead the player characters to Hellix's sanctum if asked. He is perplexed by the number of animated trees guarding Hellix's lab. Where the maga once found 15 sufficient protection, 30 now stand in a circle around the tower. There is no way to slip through without being subject to attacks from at least two trees. Slow moving, the trees attack any who approach, and follow those rushing past them right up to the tower door. Since the trees are animated by Hellix's magic and are not magical creatures themselves, they are not affected by the *Herbam Blight*.
 
@@ -4595,7 +4595,7 @@ As the magi look around the lab and explore the wreckage, a Perception + Magic T
 
 that holds the tail in a toothy grip." The book does not explain what the Arcana Centrum is.
 
-#### **The Twilight Tear**
+#### The Twilight Tear
 
 When Hellix fell into Temporary Twilight, in combination with the massive magical explosion, a temporary vestige was torn in the magical fabric of the lab's aura, a vestige that led to the Herbam province of the Magic Realm. The vestige has since closed, leaving behind a faint magical tear. Those with Second Sight or Magic Sensitivity can make a Perception + Second Sight or Magic Sensitivity + stress die roll against an Ease Factor of 12. If successful the character sees this Tear as a faint shimmering line hanging vertically in the center of the room. Hermetic spells designed to see Magic regio boundaries also indicate the vestige, as does a general purpose Intellego Vim spell that is looking for traces of powerful magic. Only a remnant of the Tear is visible; characters cannot see what is on the other side of the now-closed Tear and thus cannot enter the Herbam province here.
 
@@ -4603,7 +4603,7 @@ This Twilight Tear is much more than a simple reminder of Hellix's accident. The
 
 **Viewing a Twilight Tear: Perception + Second Sight or Magical Sensitivity + stress die vs. 12**
 
-#### **Hellix Seeking the Magi**
+#### Hellix Seeking the Magi
 
 If, for whatever reasons, the player characters do not go looking for Hellix, she heads for them once she recovers from her Temporary Twilight. She takes nothing from her tower, leaving it as it is, and rushes to the magi. Filled with guilt, she can think of no better ally to help her. Once she finds the magi, she confesses that she was recklessly experimenting with inventing a warding spell and had a large batch of disease-ridden grain nearby. During the accident, the grain seemed to come alive, to form a ghastly clump roughly humanoid in shape, and crawl along the floor. She reports that as she fell comatose into Temporary Twilight, the creature crept toward her and engulfed her foot. Did the thing enter the Twilight Void with her?
 
@@ -4621,13 +4621,13 @@ On the new moon in September, Corpus-aligned magic creatures become sick, infect
 
 Realm, they do not have a Might Score and are not targeted by the Great Corpus Pestilence. Some few magi have a Might Score, gained through a variety of arcane and obscure ways. In those rare cases, the magus is affected by the Great (Form) Pestilence that corresponds to the Form alignment of his Might Score.
 
-#### **The Great Corpus Pestilence**
+#### The Great Corpus Pestilence
 
 Critical Phlegmatic Disease, Severity 21 Stable: 12, Improve: 18, Interval: Day Symptoms: Once acquired the disease progresses quickly. Initial signs are fatigue and fever, followed by coughing and sneezing. Within an hour coughing leads to bloody expectoration, and within two hours puss-filled buboes appear on the throat, armpits, and groin. The Disease Penalty is –5.
 
 As the Autumn season begins, on the new moon in October, Magic auras and regiones produce a Corpus miasma. Like the Herbam miasma, the Corpus miasma carries a lethal blight. Instead of targeting plants, these noxious pockets of poisoned air target people. Each person touched by the Corpus miasma is infected with a dire disease. While it is not instantly fatal, the infected has only a few days to survive.
 
-### **Corpus Blight**
+### Corpus Blight
 
 PeCo 40
 
@@ -4653,7 +4653,7 @@ are most able to flee, and may have summer homes to which they can run, but are 
 
 Focus on the covenant and keep the spotlight on the player characters. As soon as the Corpus miasma blossoms they have their hands full. Removing the miasma is paramount. Immediate magical aid greatly reduces the chance of people dying. Sick doctors can tend sick patients, and magic can aid recovery rolls. Such enchanted poultices do not need to be empowered by vis to be effective.
 
-## **The Soothing Balm of Telesphorus**
+## The Soothing Balm of Telesphorus
 
 CrCo 20
 
@@ -4671,7 +4671,7 @@ On the last new moon in the Autumn season, sometime in the month of December, Me
 
 During the new moon in February, Mentem miasmas form in every Magic aura and regio. These physically undetectable clouds carry the *Mentem Blight*, a malady that reduces humanity to savages. Those that survived the Corpus miasma's *Corpus Blight*, which merely inflicted the Great Corpus Pestilence disease, will find no mundane escape from the *Mentem Blight*.
 
-#### **Mentem Blight**
+#### Mentem Blight
 
 PeMe 30
 
@@ -4698,7 +4698,7 @@ On the new moon in May, magic beings aligned to the Vim form suffer the Great Vi
 
 for example, and will likely perish. Such deaths have the potential to permanently reduce the aura's strength. On June's new moon every Magic aura and regio spawns a Vim miasma, an invisible poisonous cloud that carries the *Vim Blight*, a spelllike effect that cancels magical spells and effects. This miasma floats through what is left of mundane society without the survivors batting an eye, since it only targets magical effects. Some enchanted items stop working, but that is the least of mankind's worries.
 
-#### **Vim Blight**
+#### Vim Blight
 
 PeVi 40
 
@@ -4712,7 +4712,7 @@ This spell-like effect destroys magical effects, both existing spells and enchan
 
 Things continue to get worse. On August's new moon, in the second month of the Spring season, Aquam vis loses potency and stored Aquam vis succumbs to disease. A month later Aquam beings are struck with the Great Aquam Pestilence, a version of the same major disease. In October, the first month in the Autumn season, the generated Aquam miasma targets bodies of water, polluting and poisoning them with *Aquam Blight*.
 
-### **Aquam Blight**
+### Aquam Blight
 
 PeAq 35
 
@@ -4726,7 +4726,7 @@ Aquam miasmas make finding potable water harder, but not impossible. Springs and
 
 The initial Aquam miasma might destroy the covenant's source of water. If so, a second source of drinkable water floats in the sky above. A rain cloud ready to spill its contents can be wrestled to the ground with Rego Auram spells and its life-giving water wrung from its pillowy body. Rain clouds lie 2,000 to 3,000 paces above, well within Range: Sight, and can tower 15,000 to 20,000 feet in height. Bringing one down is noticeable for miles around, but considering the consequences of the previous miasmas, it is unlikely the covenant has any living neighbors.
 
-## **Embracing the Downy Arms of the Nephelae**
+## Embracing the Downy Arms of the Nephelae
 
 ReAu 25
 
@@ -4738,7 +4738,7 @@ This spell lets the caster control the movements of a cloud. Designed to affect 
 
 Once lowered to the ground, the rain cloud seethes with moisture as water droplets dot the cloud's dark gray bottom. With a sizable collection of barrels nearby, a magus can magical force the water from the cloud into his assembled reservoirs. A single rain cloud contains enough potable water to sustain 100 people for a fortnight.
 
-## **Wringing Free the Tears of Zeus**
+## Wringing Free the Tears of Zeus
 
 ReAq 35 R: Touch, D: Conc, T: Group This spell transfers the collected water in
 
@@ -4761,7 +4761,7 @@ By this time, magi should at least have procedures in place as they wait for the
 
 As the Winter season begins in the third year since the Great Pestilence began, troupes should make Aging rolls. Since each type of miasma lasts a year, there are only three types still active: Mentem, Vim, and Aquam miasmas. Impose a –6 penalty to Aging rolls. On the new moon in January, Auram-aligned creatures are struck with the Great Auram Pestilence disease. On the new moon in February, every Magic aura and regio generates an Auram miasma of foul air the same size as the aura. The effected air is foul, not fatal, and weakens a breather rather than kills him. This makes life difficult, but not impossible. The Auram miasma only fouls the air that it occupies, and once it has left an area that location's air is returned to normal.
 
-#### **Auram Blight**
+#### Auram Blight
 
 PeAu 20
 
@@ -4777,7 +4777,7 @@ In April, on the fist new moon of the Spring season, Auram spells stop working u
 
 Animals have certainly suffered up to this point, and many domestic and wild beasts have starved from lack of food and perished from the lack of healthy water. In April, under the first new moon of the Spring season, Animal vis rots. A month later magic beings aligned to the Animal Form suffer the Great Animal Pestilence. In May, Animal miasmas develop and inflict *Animal Blight* on every animal they touch.
 
-#### **Animal Blight**
+#### Animal Blight
 
 PeAn 45
 
@@ -4795,7 +4795,7 @@ In July, the first new moon of the Summer season, Animal spells stop working unl
 
 The August of the third year of the Great Pestilence has two new moons, the first early in the month and the second at the end. The first new moon brings the rot of Imaginem vis, and the second heralds the arrival of the Great Imaginem Pestilence to every Magic creature and being aligned to the Imaginem Form. In September, carrying the *Imaginem Blight*, an Imaginem miasma destroys every object's ability to produce visual images. The ability is only suppressed for a moment, but the miasma repeats the suppression constantly for as long as things are within it, so things within a miasma are invisible until the miasma moves on, at which point they reappear. Images entering from outside the miasma are not destroyed, although they still cannot pass through opaque objects, and light is not affected. Thus, someone inside an Imaginem miasma appears to be suspended in a void, and to have lost her body. If she has line of sight to an area outside the miasma, she can see that, but she can see no obstacles that might be inside the miasma. Someone inside a room with no line of sight to a point outside the miasma would seem to be floating in an infinite void.
 
-#### **Imaginem Blight**
+#### Imaginem Blight
 
 PeIm 25
 
@@ -4814,7 +4814,7 @@ and still produce an image. They serve as beacons for those lost within the mias
 
 Hardships continue when, under the November new moon, Terram vis rots. That December, Magic creatures aligned to the Terram Form suffer the Great Terram Pestilence. In the fourth and final year of the Great Pestilence, under January's new moon, Terram miasmas carry the *Terram Blight* throughout the land, a devilish malady that destroys the upper soil of an area, ruining future plantings, uprooting trees, and potentially toppling buildings. Covering the same area as its aura of origin, a Terram miasma destroys the top 9 feet of dirt, exposing larger rocks and other material exposed. Anything formerly resting on the spot falls into the large, excavated pit left behind.
 
-#### **Terram Blight**
+#### Terram Blight
 
 PeTe 20
 
@@ -4834,7 +4834,7 @@ Aging rolls made this Winter are penalized by a cumulative –10 for 5 active ty
 
 Ignem is the final Form to suffer, and the end is a cold one. In March Ignem vis rots. In April, days after the start of the Spring season, the Great Ignem Pestilence infects Magic beings aligned to Ignem. In May, Ignem miasmas generate from Magic auras and regiones, carrying the *Ignem Blight* within their cloudy midst.
 
-#### **Ignem Blight**
+#### Ignem Blight
 
 PeIg 30
 
@@ -4922,7 +4922,7 @@ It is readily evident that an *Aegis of the Hearth* stops a miasma, but other, l
 
 Miasmas are invisible to the naked eye, but magi can invent spells that "see" the miasmas, just as Intellego Vim magic can indicate regio boundaries. The Intellego Vim base level is 3. A necessary condition of viewing a miasma, and affecting it with magic in general, is to include a Form-specific requisite. The requisite does not add a magnitude to the spell level because it simply allows the spell to have its effect, rather than adding an effect to the spell.
 
-#### **Viewing the Herbam Miasma**
+#### Viewing the Herbam Miasma
 
 InVi (He) 20
 
@@ -4940,7 +4940,7 @@ As written, the Great Pestilence is very likely to destroy civilization, as the 
 
 not require Finesse rolls to make sure the miasma goes where the maga wants.
 
-#### **Moving the Herbam Miasma**
+#### Moving the Herbam Miasma
 
 ReAu (He) 25
 
@@ -4952,7 +4952,7 @@ This spell allows the caster to move an Herbam miasma according to her wishes. T
 
 Like other physical objects, miasmas can be destroyed by Hermetic magi. Such a spell is a Perdo Auram spell, because at its core the miasma is a clump of poisonous gas, and needs a Vim requisite, because of its magical nature, and a Form requisite matching the type of miasma. Neither of these two requisites add magnitudes to the spell. Size is an issue, and the spell will need to be adjusted for larger miasmas. A miasma is a "severe weather phenomenon" for the purposes of calculating the base Perdo Auram level needed to destroy it.
 
-#### **Destroy the Herbam Miasma**
+#### Destroy the Herbam Miasma
 
 PeAu (He, Vi) 35 R: Voice, D: Mom, T: Ind
 
@@ -4971,7 +4971,7 @@ A player character can determine a rough order by examining Hellix's laboratory 
 Generally speaking, Hermetic magic can heal everything that Hermetic magic can harm, and even though the Great Pestilence isn't Hermetic, it was created by a Hermetic accident. Its inflicted woes are Perdo magics (destroy vis and inflict a major disease), which infect the aura and consequently create a miasma. Healing the land bounded within the aura is possible with Creo magic. Healing the aura is a Creo Vim spell, and needs to include a requisite for the infected Form being healed. The base effect is 20, "heal the debilitating after-effects of a disease," derived from the Creo Corpus guidelines.
 
 
-#### **Suture Gaia's Wound**
+#### Suture Gaia's Wound
 
 CrVm (He) 45
 
@@ -4989,7 +4989,7 @@ Beings infected with the Great (Form) Pestilence can be cured using Creo magic. 
 
 If a magus is inventing a spell that heals the creature through its Form association, the base level of the spell is 25. Like any magical cure, the spell must be a ritual to provide permanent healing.
 
-#### **The Balm of St Francis**
+#### The Balm of St Francis
 
 CeAn 35
 
@@ -5009,7 +5009,7 @@ Armed with a number of Insight Points, a magus invents some sort of Intellego Vi
 
 Once integrated, a magus can invent spells that affect the Magic Realm, including an Intellego Vim spell that sees the mystical connection running between every Magic aura and regio and the Magic Realm. They can use this link as an Arcane Connection (Range: Arcane Connection), allowing them to view the link, send spells along it to the far end, and prevent incoming spells from using it. Viewing the distant site before the aura is infected shows a bucolic Form province correlated to the aura's Form alignment, the vis it produces, or Vim if no other Form is evident. Viewing the Magic Realm after the aura has been blighted shows a rotting Form province, covered in fuzzy-blue mold, lousy with grubs, or blanched and dehydrated.
 
-#### **Seeking the Thread of Power**
+#### Seeking the Thread of Power
 
 InVi 20
 
@@ -5040,7 +5040,7 @@ Just like human and plant diseases, animal diseases come in a variety of severit
 
 it often reduces its strength. If the aura arose from a natural tether, likely caused by a beautiful or magnificent natural feature of the area, the Magic aura is undamaged. If the aura arose from a magical source, a preternatural tether, then disconnecting it from the Magic Realm does cancel the aura. Many areas have both natural and preternatural tethers. If you know the strength of both tethers, subtract the strength of the preternatural tether from the Magic aura when the connection to the Magic Realm is cut. If you don't know the exact allocation of natural and preternatural tethers, simply reduce the strength of the aura to half its original strength when the connection is severed.
 
-#### **Snipping the Thread of Power**
+#### Snipping the Thread of Power
 
 PeVi 35 R: Touch, D: Mom, T: Ind This spell destroys the Arcane Connection between two items. (Base 30, +1 Touch)
 
@@ -5050,7 +5050,7 @@ To save Forms from blight, a magus might invent a ward to prevent the Great Pest
 
 Once the magi have integrated affecting the Magic Realm into their repertoire of Hermetic magic, they can create such a ward. Like any ward, the *Magna Claustra* is a base general spell that needs to be potent enough to prevent a creature from entering and have enough penetration to affect that creature. The Great Pestilence has a Might of 50 and the Form province adds +10 to its Magic Resistance for a total of 60. The successful *Magna Claustra* looks like this:
 
-#### **Magna Claustra**
+#### Magna Claustra
 
 ReVi 95
 
@@ -5099,7 +5099,7 @@ This mystical hub is extremely remote and exceedingly powerful. Seen from above 
 
 spell casting and magic Supernatural Ability totals. A spell with the same Form cast within the province of that Form receives another +10 bonus. From the exact center rises a tall pillar, a single spike of mixed material up which all Ten Forms run. At the top of this spike as a large plateau and a ball of brilliant white light sitting at its center. Normally within the field of brilliance there is no distinction between floor, walls, or ceiling, and all seems an infinitely expansive white light. The Great Pestilence has marred this with its vast, ugly body of rot and decay (see later).
 
-#### **Finding the Arcane Doorway**
+#### Finding the Arcane Doorway
 
 If the player characters have any of Institus' books – he mentions the Arcana Centrum in more than one – they learn that every boundary in the Magic Realm connects to one of the ten Form provinces, which in turn connects to the Arcana Centrum. Vestiges, avenues of Magic Realm ingress, lead to boundaries, so while they don't connect directly to the center they stand as points of entrance. In his magnum opus, the summa *Catalog of Curiosities* (Magic Lore 6, Quality 7), Institus lists several known vestiges, which link to boundaries in the Magic Realm. You are encouraged to create vestiges that are meaningful to your troupe, perhaps an incidental structure that served in an earlier, unrelated adventure, or some meaningful element you use to tailor your stories. Example vestiges could be:
 
@@ -5118,7 +5118,7 @@ If the magi have integrated Magic Realm magic into Hermetic Magic Theory, they m
 
 Finally, Hellix's fall into Temporary Twilight allowed the Great Pestilence to enter the Magic Realm, and this Twilight Tear can be exploited by others. Anyone can enter the Magic Realm if they do so at the same time as a magus enters Temporary Twilight. As the magus succumbs, regardless if he comprehends the experience or not, a shimmering rift is visible in the area directly next to him. Like a regio boundary, anyone who walks through this rift is transported to the other side, which in this case is one of the Form provinces, the one associated with the Form that created the Temporary Twilight. Unlike regio boundaries, which can be difficult to see without magic, the shimmering rift next to a Temporary Twilight is easily visible. The Twilight Tear lasts a handful of seconds, perhaps two or three combat rounds.
 
-## **The Path to the Arcana Centrum**
+## The Path to the Arcana Centrum
 
 Once a vestige is found, or one of the rare regiones that connects directly to a boundary, the magi can enter the Magic Realm. Like entering a regio, the magi must be able to see through the veil that separates vestige from reality or regio from boundary. The viewer must possess an Ability that lets them see such veils, either Magic Might, Second Sight, or Magic Sensitivity. Like auras and regiones, vestiges and boundaries
 
@@ -5157,13 +5157,13 @@ The time it takes to make the trip depends on how well the traveler succeeded in
 
 Since the Magic Realm is timeless, a traveler does not feel the length of the journey, which more accurately measures how much time in the mundane world passes while the traveler journeys. Depending on when the traveler enters the Magic Realm, and how long his journey takes, the world may look quite different when he returns. From any point in a boundary, a traveler can attempt to slip into the Twilight Void. Those few who regularly slip into the Twilight Void do so to speed up their journey through a boundary, but those who know of the Arcana Centrum can also walk into the Twilight Void to go directly to the center of the Magic Realm. Use the same Ease Factor as before, ((10 – level of boundary or vestige) x 3) – Familiarity bonus, to determine how long the journey through the Twilight Void takes.
 
-#### **Twilight Void Travel: stress die + Stamina + Concentration + Form bonus**
+#### Twilight Void Travel: stress die + Stamina + Concentration + Form bonus
 
 On a successful roll, the traveler enters his destination, either the Form province or the Arcana Centrum.
 
 Because the Magic Realm is timeless, travelers do not gain experience points while adventuring inside the Realm. Instead, raw vis coalesces and collects on their persons, typically one pawn per awarded experience point for the adventure. This only happens if the section of the Magic Realm traveled through is healthy. If the characters are traveling through a boundary aligned to a Form already destroyed by the Great Pestilence, they do not gain vis.
 
-#### **A Poisoned Realm**
+#### A Poisoned Realm
 
 If a Form province has been infected, the disease is evident. The area appears damaged and dulled and its landscape is overrun with rot, sun scorch, and grubs. If it is yet to be infected, it is beautiful, a pristine example of the Form. For example, the unpolluted Terram province sits inside an active volcano, with granite islands floating on a magma lake. The Animal province is the back of some monstrous creature, too huge to determine its exact species, its hair follicles as thick as palm trees and its pink skin scaly and rough from scratching. The Auram Boundary is a dark sky hampered by storm clouds, pierced by flashes of lightening followed by an ear-splitting boom of thunder.
 
@@ -5173,7 +5173,7 @@ If the Form province is not yet diseased, the air elementals still attack, knowi
 
 After walking through a Form province the player characters eventually come to the pillar that rises to the Arcana Centrum. They climb it to reach the plateau and the center of brilliance. If they are coming through a Twilight Tear or following an Arcane Connection, they arrive atop the pillar at the center of the Arcana Centrum. They are not alone.
 
-#### **The Beast Within Its Lair**
+#### The Beast Within Its Lair
 
 The white brilliance inside the Arcana Centrum is dulled and muted. A great black carpet of rot lays within, giving the otherwise featureless space a hilly, horizontal surface that extends to infinity in all directions. It seems to the characters as if they are walking on mounds of rotten garbage, the landscape comprised of rotted plants, decayed rocks, putrefied corpses, and small pockets of polluted muck. This is the Great Pestilence. Most explorers won't
 
@@ -5423,11 +5423,11 @@ Aspects can easily get out of synchronization with each other. Long-standing Asp
 
 This section details Loki's most common Aspects; there may be more as the storyguide sees fit, Further, these Aspects can be varied each time they are created, changing certain Abilities, or providing access to different powers.
 
-### **Loftur Laufeyjasonur**
+### Loftur Laufeyjasonur
 
 Loki Loftur ("he who fares aloft" or, more poetically, "skywalker") Laufeyjasonur ("son of Laufey," a matronymic) is the most familiar form of the Jotun, and appears in most of the Norse myths. Loki Loftur's main power is to call upon the prizes of the faerie gods, which he has stolen from them. Each of these mystical tools is a power of Loki Loftur; he is able to summon them to hand and dismiss them at will. Thor's hammer Mjollnir is currently still beyond him, a sign that the gods' power is not fully spent. Each Loftur Aspect is created with an appropriate Native Language Ability.
 
-#### **Bekki**
+#### Bekki
 
 Bekki is an insidious force who is capable of wreaking as much havoc as Loki's other Aspects even if he lacks their raw power. Bekki inveigles himself into mundane groups, often targeting kings and princes. With judicious use of his Entrancement and skillful deployment of blackmail and intrigue, he wins the ear of the king, then subtly influences him down the course that bests suits Loki's schemes.
 
@@ -5472,7 +5472,7 @@ Qik +2
 
 **Abilities**: Area Lore: Local 5 (hiding places), Athletics 3 (balancing), Awareness 4 (traps), Bows 3 (mistletoe arrows), Carouse 2 (with giants), Etiquette 5 (among Germans), Charm 6 (women), Faerie Lore 4 (gods), Folk Ken 6 (kings), Guile 10 (lying to gods), Intrigue 4 (court) Leadership 4 (Muspelli), Native Language 5 (local dialect), Single Weapon 5 (short sword), Shapeshifter 4 (fast transformation), Stealth 7+2 (when others are asleep), Teaching 2 (bows), West Norse 5 (Icelandic)
 
-#### **Powers:**
+#### Powers:
 
 *Donning the Corporeal Veil*, 0 points, Init +1, Corpus: See *Realms of Power: Magic*, page 102 Cr(Re)Co 25 (Base 5, +1 Touch, +2 Sun, +1 requisite) Greater Power (25 levels, –3 Might, +2 Init)
 
@@ -5501,7 +5501,7 @@ Qik +2
 
 tor; to this end he often acts even weaker than he actually is. Like Loftur, Bekki can summon purloined treasures of the gods, which are treated as powers, but he cannot usually grant use of these powers to others.
 
-#### **The Emissary of Fire**
+#### The Emissary of Fire
 
 The Emissary of Fire is one of Loki's most battle-worthy Aspects. If the player characters come to the notice of Loki and are considered a sufficient threat for him to consider their elimination, the Emissary of Fire will be the agent that does it. Despite being a brute, it shares in the Daimon's cunning and will often lay groundwork prior to an open assault. It might ravage the character's crop lands, making them expend resources if they want to eat. It has several lesser spirits of fire in service to it, which it can use as scouts, spies, and warriors.
 
@@ -5555,7 +5555,7 @@ When donned, this golden necklace studded with amber can incite powerful passion
 
 **Vis**: 5 pawns of Corpus vis, in clothing. **Appearance**: Bekki takes the semblance of a man in his sixties, hale but slow and slightly trembling. He wears rich clothes but in muted colors so that he does not stand out. His hair is gray but shows signs of its original auburn color at the temples.
 
-#### **Prometheus**
+#### Prometheus
 
 The Greek titan Prometheus bears a great deal of resemblance to Loki. Both are from the second generation of titans. Both were initially friendly with the gods and took no part in the Titanomachy. They both stole from the gods and in punishment were bound onto a rock and tortured by a monstrous creature (a snake in Loki's case, an eagle in Prometheus's). Whether or not they are simply Aspects of the same Titan or independent beings does not need to be clear, since they have identical goals.
 
@@ -5632,15 +5632,15 @@ Although these gifts are represented by the stolen treasures of the faerie gods,
 
 stop. Of course, the player characters may actually decide to help Loki, in which case they can act openly in alignment with the rest of their fellows.
 
-#### **The Muspelli**
+#### The Muspelli
 
 Loki's chief mortal agents are a group of Norse magicians called the Muspelli. These are Gifted wizards who employ a range of Supernatural Abilities to entrance minds, lay curses, shift shape, create illusions, conjure visions, conjure storms, summon animals, control fate, wake the dead, spread wildfire, and invoke the winter. They are also capable of adopting a monstrous giant-form, in which shape they can intensify their magic to create mighty ritual effects. Muspelli can also summon Aspects of their patron Jotun and from the point that this chapter begins, Loki's Aspects are among those that all Muspelli can summon (using any sacred site available). Full rules for the Muspelli can be found in Chapter Four of *Rival Magic*; if you don't have access to this book, you can still use this chapter. The Muspelli are instrumental in enacting Loki's schemes but they need not take center stage; they can work their magic in the background, leaving the characters to deal with the consequences rather than the cause.
 
-#### **The Legion of Atlas**
+#### The Legion of Atlas
 
 A society among Theban magi, the goal of the Legion of Atlas (*The Sundered Eagle: The Theban Tribunal*, page 119) is to end the reign of the faerie gods, and thus they are natural allies of Loki. Kristophoros of House Bonisagus perceives the continued existence of the faerie gods as an affront to the one and true God and he has become the rallying point for magi who share his goal to eliminate them, even if they do not share his reasons. Kristophoros is willing to flout the Order's restrictions upon molesting the fae if it suits his goals. This society is secretly influenced by the cult of the Titanoi within House Tytalus, although the two would never overtly work together while Kristophoros remains in charge.
 
-## **The Sons and Daughters of Strife**
+## The Sons and Daughters of Strife
 
 The Path of Strife is a component of the Criamon House Mystery (*Houses of Hermes: Mystery Cults*, page 67). They willingly pollute themselves spiritually for the redemption of the rest of the house. In the Empedoclean philosophy of the house, their actions increase strife, bringing the world closer to the ekpyrosis. Loki is perhaps the ultimate expression of strife and he may be able to convince the handful of magi on the Path of Strife to ally with him. He claims that by bringing the world into the ekpyrosis, the cycle of time will be shattered and all the prisons of the world opened. The cosmic mistake that trapped immortal souls for eternity can be undone and the Hypostasis made attainable for all magi. Properly convinced, the Criamon on the Path of Strife are prepared to do anything necessary to help Loki.
 
@@ -5660,7 +5660,7 @@ If the Order can be motivated into action at the instigation of the player chara
 
 The other major source of help that the player characters can obtain is from the faerie gods. They have the strongest motivation of all for stopping Loki's plans: although Ragnarok is inevitable (or so they believe), they wish to delay it for as long as possible. among the Norse gods, Heimdallur and Thor are the most likely to render assistance to the characters.
 
-## **Heimdallur, Watchman of the Gods**
+## Heimdallur, Watchman of the Gods
 
 Unlike many of his fellow gods, Heimdallur has not abandoned his post. The Watchman of the Gods remains vigilant over the world, missing nothing and forgetting nothing. It will be his responsibility to sound the horn that announces the final battle of the gods and Jotnar. Heimdallur is the chief of the tribe of Norse gods called the Alfar and is the god of light and the day. In his myths, he is cred-
 
@@ -5715,13 +5715,13 @@ ited with establishing the social hierarchy among mankind and teaching them all 
 
 Heimdallur's role is to be a watchman and to signal the gods when Ragnarok is upon them. Ultimately he is a passive god with little initiative and who procrastinates over getting actively involved. He knows that once he rouses from passivity he will precipitate Ragnarok (see Three Cockerels Crow, later) and so will not overtly warn gods or men of what he has seen of Loki's actions. His assistance is likely to be a lot more subtle. Once he is aware that the player characters are moving against Loki he may provide covert assistance, ensuring that they do not miss important clues to Loki's plans and directing them like pieces on a game board. Even once they work out who it is that is helping them, he still dares not to intervene directly. A typical intervention from Heimdallur involves him disguising himself as a nobleman, freeman, or peasant and dispensing unasked-for advice, cryptic warnings, or important gifts disguised as mundane items. For example, a mud-splattered 'villein' may seem to know a lot about the local nobility and is able to fill the characters in on all the juicy gossip (feeding them vital information for Brother Against Brother, see later); or a 'nobleman' might be selling off his deceased uncle's belongings and is surprised to find a Hermetic book among them. He brings it to the player characters and sells it for a fair price. A full version of *Muspilli* (see Help from Prophecy, later) is scribed on one of the end pages.
 
-#### **Thor the Thunderer**
+#### Thor the Thunderer
 
 Thor is probably the most powerful of the Norse gods by dint of being the most popular. He was the god of the common man, the peasant, and the soldier, unlike Odin who was the god of kings and jarls or Freyr who was the god of priests. The heathen religion as a whole is still called *Thór blóta* in Christian Scandinavia and his hammer is seen as its symbol. He features in hundreds of folktales still told throughout Scandinavia, England, and northern Germany, and his name is associated with a host of sayings and omens.
 
 Thor's popularity can be attributed to his role in legend as the guardian of Midgard and foe of the giants, trolls, and all baleful wights. If any one of the gods should manifest to fight Loki, it should be Thor and yet he is nowhere to be seen, even with giants walking the land. The answer is that Loki foresaw this very problem and made Thor his target long before he began to set anything else in motion. Loki manipulated the Church into vigorously repressing his worship. He provided subtle support for anti-pagan monarchs such as Saint Olaf of Norway. He spread folktales where Thor was cast as a buffoon and suppressed the old tales which presented him as a hero. This wrought changes to the faerie god's glamour; subtle changes but enough to give Loki an edge. Once he was done Loki was able to ensnare Thor easily. Much to his chagrin, Loki was still unable to take Thor's hammer Mjollnir from him, and it continued to mystically guard the prison of the Jotnar much as Thor had always done (metaphysically, Mjollnir is the recipient of as much vitality as Thor and is a powerful faerie in its own right while separated from him). However, Loki did the next best thing by stealing Thor's belt of strength. Without it, the faerie god was no longer able to lift Mjollnir and he was effectively neutralized. Robbed of his weapon and made stupid by negative folktales, Thor has been reduced to an incognizant wreck. He no longer remembers that he was once the mighty Asa-Thor the Thunderer.
 
-#### **The God at the Ford**
+#### The God at the Ford
 
 When the player characters first encounter Thor, he is laboring in a town. This town could be anywhere in Mythic Europe, but northern Europe is more plausible. He has taken the shape of a tall redbearded peasant, the local halfwit. He ekes out a living ferrying people across the river into town; there are no firm moorings for a ferry-rope and often a long queue to cross by the bridge, so 'Hlorridi' (as he is called) carries people across the river. He is both tall and strong, and happy to wade waistdeep into the river carrying people on his shoulders or goods on his head. For larger loads he dons a yoke and pulls two boats. He lives in a hovel on the river bank, so small that his feet stick out from one end. He wraps his massive body around a shaft sticking out of the middle of the dirt floor;
 
@@ -5729,13 +5729,13 @@ When the player characters first encounter Thor, he is laboring in a town. This 
 
 Identifying and restoring the thunder god to his former power could be the focus of a series of stories.
 
-#### **The Bell and the Bridge**
+#### The Bell and the Bridge
 
 The characters are traveling to or through the town where Hlorridi dwells. The characters may choose to wait for the bridge or be carried across the ford. The bridge is choked because of the delivery of a new church bell. However, the bridge collapses under the weight of the massive bell and townsfolk are in immediate peril. Hlorridi wades over to help out; he can even shore up the failing bridge by supporting its arch, allowing people to get off safely; player characters may similarly help out. The question remains as to why a hitherto sturdy bridge suddenly failed. Perhaps something or someone doesn't want the bell to be delivered — this would weaken the Dominion, which only extends as far as the sound of church bells.
 
 Placing Hlorridi close to the covenant is an excellent way to get the characters into the whole saga and bring the player characters to the attention of Loki. He may choose to involve them in his later schemes as a distraction to stop them restoring Thor to his former glory, or in revenge for doing just that.
 
-#### **The Belt of Strength**
+#### The Belt of Strength
 
 Heimdallur tells the characters he has found Thor's belt of strength. He has seen it around the neck of a monstrous wolf that is chewing on a root of the World Tree. Worn as a collar, the belt magnifies the creature's strength and it is in danger of breaking through the root. This may be a trap: Loki knows that the characters need the belt of strength and hopes to eliminate them.
 
@@ -5744,13 +5744,13 @@ actually the handle of his hammer, which he cannot lift. He has a rusty pair of 
 
 When the characters encounter Hlorridi, they may know exactly who he is. It is possible that Heimdallur has clued them in to his true identity, asking them to restore the god to his former power. Alternatively, the player characters may have no idea to his identity; they may encounter him as a piece of local color and only much later work out who he might be. In order to restore Thor, Hlorridi must be reunited with his belt of strength. He then dons his gauntlets and pulls Mjollnir out of the packed dirt of the hovel's floor. His memories are restored and his powers with them. Unfortunately, Loki has stolen Thor's belt of strength and getting it back may be very difficult. The characters' best prospect is to wait for Loki to give it to a mortal servant (perhaps creating the situation where this might be necessary) and then steal it. Restoring the Belt of Strength to Thor removes the power to summon it from all Loftur Aspects.
 
-#### **The Hammer God**
+#### The Hammer God
 
 Once restored, Thor will be grateful to the player characters. He feels that he has neglected his duties for too long and must hie to Nifelhel (part of the Magic Realm) and strengthen the bonds holding the Jotnar. However, he promises to come to them if they have great need; to summon him they should strike the ground three times with an iron hammer, saying "Thrice I smite with holy crock; with this mell I thrice do knock; one for god, one for Wod, and one for Lok" and he will come (this is a charm still used in the north of England for luck; the god mentioned first is Thor, then Odin, and the final — and hardest — hammer blow is for Loki). He warns them that when they summon him then the borders of Nifelhel will remain unguarded, so they should only do so in dire need.
 
 The restoration of Thor is a blow to Loki's plans. Unlike Heimdallur, Thor is capable of motivating the other gods into action. With Elivagor guarded once more and the other boundaries of Nifelhel similarly strengthened, it becomes more difficult for the other Jotnar to act on the world. Worse still, the gods are now aware that Loki is up to his tricks and are extra vigilant, just when Loki's plans are becoming more blatant. Loki can only rely on whatever Aspects of the other Jotnar are currently in the world and once they are gone they cannot return. This also means that no more Muspelli can have their Gift Opened (see *Rival Magic*, page 93). Loki himself remains free from Nifelhel, however, and has no additional restrictions on his own Aspects.
 
-#### **Skidbladnir**
+#### Skidbladnir
 
 If the player characters are going to stand a chance in stopping Ragnarok, then they are going to be involved in a lot of travel. Once the characters have come to the notice of the gods, no matter how covertly, they arrange to assist them in this and ensure that they come into possession of Skidbladnir.
 
@@ -5758,7 +5758,7 @@ Skidbladnir is a magical ship belonging to the god Freyr, and the *Poetic Edda* 
 
 Every time that Skidbladnir reassembles itself, it can take a different configuration to match ships of its current waters. Unfortunately, due to a slight flaw in its construction it tends to take the form of ships that are notorious for piracy and brigandage (represented by the Mistaken Identity Flaw) and characters aboard may find themselves dealing with irate local navies.
 
-#### **Acquiring the Wondrous Ship**
+#### Acquiring the Wondrous Ship
 
 There are a number of ways in which the characters could come into possession of Skidbladnir. The decision to give them the ship stems from the observation that they have an active interest in stopping Loki. This might be because they have stumbled onto his schemes or because they have become the victim of one of them, but the gift of Skidbladnir is made after they realize that the stakes are high.
 
@@ -5829,7 +5829,7 @@ You might wish to use the rules for Damaging Objects on page 77 of *City & Guild
 
 ber of signs and that Loki is trying to bring these about. They should also get the idea that in fulfilling some of these plans Loki must wreak changes on Mythic Europe as a whole, and that if he succeeds on a grand scale in some of the signs, he can afford partial or minor successes in others yet still succeed in precipitating the Twilight of the Gods.
 
-#### **Prophecies of the End Times**
+#### Prophecies of the End Times
 
 Many of the sources of lore offered in this section are real texts: poems, stories, and philosophical expostulations. The text of these books can be altered by the storyguide to add material of relevance to the saga. There may also be entirely fictional sources of prophecy, such as the sayings of Immanola the former prima Ex Miscellanea, or the Travels of Fedoso.
 
@@ -5876,24 +5876,24 @@ A description of the Greek version of the creation of the world and the titans, 
 
 Before the player characters can read the prophecies, they must find them.
 
-#### **Rescue Me**
+#### Rescue Me
 
 Snorri Sturluson, author of *Gylfaginning* and other compilations of Norse mythology visits Norway in 1218–1220 and 1237–1239. He is perhaps the most knowledgeable Christian on the subject of Norse paganism and an authority on Ragnarok and the characters would do well to visit him. He has also been kidnapped by trolls…
 
-#### **Glossolalia**
+#### Glossolalia
 
 As the player characters return from an encounter with Loki or his minions, they hear a man ranting on the street. They may have encountered him before and dismissed his ramblings as nonsense words thrown together that sound like sentences. However, sharp-eared characters pick out a sentence that is highly pertinent to the event in which they have just taken part. Who is this man and why is he like this?
 
-#### **The Auction**
+#### The Auction
 
 The characters locate a book of prophecy and agree a price with the seller. When they go to collect it however, the price has changed. He's had interest from other buyers and now intends to auction the book. Every prospective buyer can enter a secret bid once a day for three days; the day's highest bid is announced at dusk each day. The winner will be the highest overall bid on the third day. The characters might investigate the other bidders and discover potential allies who are also interested in stopping the End of the World. However, they also discover that an Aspect of Loki is one of the other bidders.
 
-#### **Babble of the Written Word**
+#### Babble of the Written Word
 
 Through great effort the characters manage to locate a native speaker of an ancient language in which a prophecy is written. She is a charcoal-burner from a secretive and primitive people, and she speaks no other language, having lost the ability to communicate with her family when her husband died. The spell *Thoughts Within Babble* allows communication with her; if she can be taught to read she can recite the prophecy out loud, divulging its secrets. Unfortunately, this woman has a supernatural enemy — the ghost of her murdered husband, a vengeful werewolf, or the forgotten god of the tribe. This enemy means to end her life and the life of anyone spending time with her.
 
 
-#### **Lore on the Titans**
+#### Lore on the Titans
 
 In addition to doomsday prophecies, characters are likely to come upon information about the Titans and theories about the antediluvian world. The best sources for this information are the theurgical works of the great Neoplatonists such as Plotinus, Porphyry, and Iamblichus; and their various works are summae and tractatus in Magic Lore. Central to Neoplatonic theurgy is the concept of the Golden Chain of Universal Sympathy. There exists, so is claimed, a hierarchy descending from the Demiurge (i.e. God) to the protogonoi, kosmokrators, theoi, daimons, and finally to the airy spirits. Before the First Titanomachy, magic was performed by using incantation, sigils and mystical signs, and the properties of certain herbs, stones, and so forth to set in motion a chain of sympathies running up this hierarchy to the spirit the magician was trying to evoke. The spirit would then enact the magic desired. The paraphernalia of the theurgical ritual were termed "synthemata." The faerie gods bypassed this system by cutting out the middle men and imprisoning the Titans. Henceforth nothing stood between mankind and the magic they sought and everyone with The Gift became his own god.
 
@@ -5926,15 +5926,15 @@ vice to all of them. Disrupting one of his plans does therefore not completely d
 
 The prophecies describe more than five signs of the world's end. Other signs include the disappearance of the stars, the shaking of the earth so violently that mountains fall, inundation of the land by the sea, a winter without end, and the destruction of pagan temples. Loki has chosen the five signs with which he believes he has the best chance of succeeding and has set a Loftur-Aspect over each one. Were he have to begin again with some of the other signs, it would take him many more centuries of planning.
 
-#### **Winter Without End**
+#### Winter Without End
 
 One of the signs not dealt with in this chapter is a mighty winter, with snow coming from all directions and no summers in between. This *Fimbulvetr* is given extensive treatment in its own chapter of this book as an apocalypse in and of itself rather than a part of Loki's plans. If you wish to integrate this event into Loki's plans, then you can draw inspiration from that chapter.
 
-#### **Serpents in the West**
+#### Serpents in the West
 
 In the Norse version of the prophecy, the mighty Midgard Serpent slips free from its bonds and whips the western sea into such a frenzy that it floods. In the latter half of the thirteenth century, western Europe (particularly Gascony, Aquitaine, Friesia, and Saxony) and northern Iberia were subjected to devastating floods. This can be employed as backdrop as a further sign of the End Times or fleshed out into another event the characters can try to stop. The characters might have friends located in the affected region and get involved in the rescue effort. The agents of this catastrophe could be Muspelli or they could be elementalists able to summon water monsters and elementals to do their bidding.
 
-## **Gods' Halls Reddened with Blood**
+## Gods' Halls Reddened with Blood
 
 This part of the prophecy refers to the despoiling of the temples to the pagan gods who bound the titans. It was achieved by agencies other than Loki — most significantly, the Church — although it is certain that Loki lent his assistance to the effort. This was an essential first step that weakened the faerie gods, making them less likely to notice his schemes and less powerful to oppose him even if they did. This counts as a success for Loki.
 
@@ -5948,17 +5948,17 @@ The action in this story focuses around two noblemen, here named Duke Arnault an
 
 already married but Caristiona is doubly inappropriate as she is a relative, either of himself, his wife, or his brother's wife. A relationship with any of these individuals would be considered incestuous by the Church, and a great sin. Bekki has used the power of *Freyja's Necklace* to provoke this reaction in Bertram. Arnault visits his friend once rumors of the affair reach him but, enthralled by Bekki's power, Bertram is not able to see sense. He mistakes concern for envy and convinces himself that Arnault is lusting after Caristiona. This is where the characters come in.
 
-#### **A Chance Meeting**
+#### A Chance Meeting
 
 The characters are on the road on an unrelated matter, when they encounter a carriage stuck fast in a ford. The carriage is occupied by Lady Caristiona; she is sodden from the leaking carriage and asks the characters to bring her to shelter. They know that Duke Bertram lives nearby and are the architects of their first meeting. Bertram's Bekki is also here and the characters witness his pleasure at their meeting.
 
-#### **The Princess in the Tower**
+#### The Princess in the Tower
 
 Duke Arnault comes to the covenant with troubling news. Someone has bewitched his friend Duke Bertram, who has become infatuated with Lady Caristiona. He has imprisoned her in a tower and Arnault wants help freeing her and dispelling whatever enchantment has affected his friend before the scandal ruins them both. Even if he hasn't dealt with them before, Arnault knows that the characters are magi, and as magic is clearly at work here they need to fix it. The characters free Caristiona and become aware that Bekki might be involved.
 
 Particularly astute characters may be able to unravel the plot and stop it at this stage. If they do, Loki has failed in his attempt, as no discord has arisen.
 
-#### **Caught in the Middle**
+#### Caught in the Middle
 
 Suspicious of Bertram's Bekki, the characters are moved to investigate him. They witness him passing messages to Arnault's Bekki, which is highly suspicious, although the two never meet (in fact, they are never within a mile of one another). Also party to the plot is a red-headed man who can take the form of a falcon: this is Loftur, checking in on the progress of his plan.
 
@@ -5966,7 +5966,7 @@ Meanwhile, relations have deteriorated between Arnault and Bertram. The two Bekk
 
 This is the stage at which the player characters are most likely to stop the plot. Loki can claim a minor success, as relations between Arnault and Bertram will never fully recover.
 
-#### **The Counselor of Evil**
+#### The Counselor of Evil
 
 As the conflict between Arnault and Bertram escalates, more nobles are brought into the conflict as old rivalries and jealousies find an outlet, all ably assisted by more Bekkis. The conflict has developed into a full-blown feud and when powerful nobles fight, their vassals follow. Mythic Europe being what it is, both Arnault and Bertram have relatives in many separate countries and, fueled by the manipulations of the Bekkis, there is soon civil strife throughout the region. Few remember (or were even aware in the first place) that this began as a fight over a woman.
 
@@ -6041,13 +6041,13 @@ For more information about the Mythic Mongols, see *The Cradle and the Crescent*
 
 The first story could have ended with Bekki fleeing eastwards, pursued by the player characters. Bekki's destination is beyond the limits of Mythic Europe and into Mythic Asia, where a horde of giants waits to invade. Alternatively, characters can be alerted to the presence of the giants with the rest of the Order, when they begin to lay waste to Europe. Either way, if a Bekki Aspect has been allowed to report in Loki is aware of the characters' involvement and wants to know more about them.
 
-#### **A Spiritual Interloper**
+#### A Spiritual Interloper
 
 The magi first become aware they are being spied upon when someone works late into the night and find herself unable to rouse any covenfolk from sleep. This is due to the presence of a Nightwalking *böge* who is checking out the characters on behalf of Odi Aab (the Magogoli name for Loki's Emissary of Fire Aspect). Nightwalkers have no Might score and so are not stopped by the *Aegis of the Hearth,* but the drowsiness their presence causes has no Penetration so cannot affect any character with Magic Resistance. Anyone with Second Sight or appropriate spells can see the spirit and may be confused by its monstrous appearance. They may concoct methods to trap or follow their visitor; attempts to communicate send it flying east however.
 
 When the Order learns of the Magogoli hordes, their description matches their nocturnal spy. This, coupled with the prophecies found among Bekki's belongings, should be enough to clue the characters into the bigger picture.
 
-#### **The Eastern Bastion**
+#### The Eastern Bastion
 
 House Tremere maintains a network of fortresses specifically to watch for threats to the Transylvanian Tribunal or the Order as a whole (see *Against the Dark: The Transylvanian Tribunal*, Chapter 7 for more details). At the first sign of the Magogoli horde, the Tribunal is mobilized and the Order warned.
 
@@ -6055,7 +6055,7 @@ Of course, Loki is aware of the strengths of House Tremere and the limits of the
 
 The targets of Magogoli attacks are towns and cities, and they avoid areas with covenants or Hermetic outposts to avoid giving the Order an excuse to meddle with mundane affairs. Magogoli battle tactics are the same as those of Mongols. They rely heavily on scouts and spies, who have been covertly in Mythic Europe for a decade or more making maps of the roads, assessing the military strength of each nation and the degree to which they are allied. Some of these alliances may well have been eroded. They are expert besiegers and divert rivers and cut off supplies. They drive captured civilians into cities to stretch meager resources further and heighten fear, and infect these unfortunates with contagion to further weaken the city. They accept surrender and tribute from cities they capture, but if refused are implacable and devastating in their total destruction of the enemy. In open warfare they are equally terrifying, using feigned retreats and flanking to encircle their opponents before crushing them. A favored tactic is using captured forces as human shields, throwing them against mounted cavalry charges to demoralize their opponents.
 
-#### **Kill the Khan**
+#### Kill the Khan
 
 As the invasion proceeds, it might seem that the only way to prevent this menace is to go straight for the head. The Order might hope that assassination of the Magogoli's supreme commander might stall the invaders long enough to mount a reasonable defense. House Tremere is looking for volunteers for this mission into enemy territory, offering rich rewards to those daring enough to attempt it. The characters may feel enough personal investment in the story to volunteer.
 
@@ -6091,7 +6091,7 @@ The Ironwood has a single level with a Magic aura of 9. This aura is aligned to 
 
 \*Essential Trait
 
-#### **Combat:**
+#### Combat:
 
 *Claws\*:* Init –1, Attack +9, Defense +8, Damage +9
 
@@ -6111,7 +6111,7 @@ The Ironwood has a single level with a Magic aura of 9. This aura is aligned to 
 
 **Abilities:** Athletics 3 (pursuit), Awareness 3 (prey), Brawl 5 (teeth), Folk Ken 2 (motives), Hunt 4 (human), Leadership 3 (Ironwood wolves), Survival 5 (winter), Swim 3 (upstream)
 
-#### **Powers:**
+#### Powers:
 
 *Relentless Search*, 0 points, Init –2, Corpus: If in possession of an Arcane Connection, an Ironwood wolf always knows the direction to his prey. The scent of his prey is an Arcane Connection lasting Hours. InCo 15 (Base 3, +4 Arc) Greater Power (15 levels, –2 Might cost)
 
@@ -6170,7 +6170,7 @@ Intelligence received by the characters from their allies is that Eggther is abr
 
 **Abilities:** Animal Handling 4 (wolves), Auram Resistance 4 (lightning), Brawl 3 (kick), Concentration 3 (controlling storms), Great Weapon 5 (pole axe), Leadership 4 (training), Magic Lore 4 (Norse giants), Music 3 (harp), Penetration 3 (hail), Shapeshifter 1 (wolf form), Single Weapon 4 (Gambateinn), Survival 4 (cold climates), Thrown Weapon 1 (javelin), West Norse 5 (incantations)
 
-#### **Powers:**
+#### Powers:
 
 *Master of Fierce Winds*, 1–5 points, Init –7, Auram: Eggther can spontaneously conjure Rego Auram effects of fifth magnitude or less that create violent winds or hail. One of his favorite effects is *Charge of the Angry Winds* (ArM5, page 125).(Focus Power), Improved Powers (+2 Init)
 
@@ -6191,7 +6191,7 @@ Intelligence received by the characters from their allies is that Eggther is abr
 
 spirit wants freedom from the Divine trap that confines it to the grove of Romowe. Each has something to offer the other and an alliance seems likely; especially since the spirit approves wholly of Loki's plan to free the Titans.
 
-### **Quenching the Holy Fire**
+### Quenching the Holy Fire
 
 A holy fire was lit under the boughs of the Holm Oak by Saint Aadelbert of Prague and has been fed ever since by a band of foresters devoted to the saint. While the fire burns, the great *genius loci* is imprisoned in the tree and can exert only subtle control over the Pomeranian Forest. By the time the characters arrive in the region, four of the five foresters have been killed and Ironwood wolves hunt the survivor. Eggther has brought winter to bear against the fire they tended, and under his assault even the divinely-lit pyre has failed.
 
@@ -6207,7 +6207,7 @@ The Gambanteinn, or "Wand of Woe," is a sword forged in the dawn of time. It was
 
 The Gambanteinn is a Magic Thing. The characters might be able to win the Gambanteinn and use it against their enemies, making them exceptionally dangerous to Loki's plans. However, it has a mind of its own and is cruel and hateful, delighting in bloodshed. It cannot speak without magical aid but its intense emotions can occasionally be felt radiating from it. If it befriends a character (only really possible if they share a personality) or else is dominated by one, then it might teach him how to wield it more effectively. This does not require the character to be able to speak with the sword or even realize that it is teaching him; it is enough to merely train with the sword for a season to gain experience points from Teaching in Great Weapon (Source Quality 14).
 
-#### **Gambanteinn**
+#### Gambanteinn
 
 **Magic Might:** 10 (Terram)
 
@@ -6250,7 +6250,7 @@ Greater Powers; Improved Attack x 2, Improved Damage, Improved Defense, Improved
 
 **Abilities:** Awareness 2 (foes), Great Weapon 6+2 (great sword), Faerie Lore 4 (smiths), Magic Lore 5 (smiths), Penetration 4 *(The Woeful Bite*), Shapeshifter 3 (giant-sized), Teaching 4 (martial Abilities)
 
-#### **Powers:**
+#### Powers:
 
 *Guided Strike:* If wielded in combat, the Gambanteinn can guide its own blows. This is not a power, but the result of the sword being aware and capable of limited movement. If its wielder has no Great Weapon Ability then use the statistics above but with a –3 penalty to Attack and Defense Totals to account for the lack of coordination between wielder and weapon. If the bearer has the Great Weapon Ability and is acting in accordance with the sword, then use the highest of the wielder's Combat Totals and the sword's. However, the sword is willful and may resist the wielder, desiring to continue fighting when the wielder stops, or to attack a different foe. If this occurs, then make a Strength stress roll for the wielder and the sword. If the wielder's roll is higher then he uses the weapon with his own Combat Totals. If the sword's roll is higher then it attacks using the statistics above. The sword cannot attack at all unless someone is holding it; a character can resist the sword's actions by simply letting go, although this leaves him disarmed.
 
@@ -6266,7 +6266,7 @@ The Shapeshifter Virtue allows the sword to become different weapons rather than
 
 You might instead wish to use the rules for Damaging Objects on page 77 of *City & Guild* rather than using Soak and Wound Penalties. In this case, the Gambanteinn has five damage levels and adds +11 to any Stress check. See Skidbladnir (earlier) for more details.
 
-#### **Unmaking the Gambanteinn**
+#### Unmaking the Gambanteinn
 
 As a god-forged weapon, destroying the Wand of Woe is no simple task. The importance of the Gambanteinn in fulfilling the prophecy of Ragnarok has left an impression of it on the Magic Realm and this impression must be erased properly (something which Perdo magic does not achieve) to prevent its symbolic function from being transferred to another weapon. Those most likely to know how to unmake the sword are the Sons of Mimir (see The Seven Sleepers, later), but by the time they are awake the characters will have had to survive at least one attempt from Fjalar to regain the weapon. The dvergar can tell them that the Gambanteinn can be undone by immersing it in the Elivagor, the icy stream of venom and hate in which it was forged. To reach the Elivagor, the characters must travel to the far north of Alfheim in the Faerie Realm to a stronghold called Ýsetur. From this fortress, the boundary with Nifelhel was once watched for encroachment by the Jotnar. Now, Ýsetur lies abandoned by its master and its elf warband has fled. The strand is haunted by monstrous wyrms, spawn of Nidhogg who have crawled from Elivagor's tumultuous currents. The Elivagor itself is the gulf of the Twilight Void that serves as an Aquam and an Ignem Boundary to Nifelhel — the prison of the Titans in the Magic Realm. If Thor has been restored, then Ýsetur and its beach will be less dangerous.
 
@@ -6274,7 +6274,7 @@ Alone, unmaking the Gambanteinn cannot prevent Ragnarok. The Gambanteinn is a po
 
 
 
-#### **Help Against the Ironwood**
+#### Help Against the Ironwood
 
 The traditional enemies of the Hundings were a tribe called the Wulfings or Ylfings, who later became the Welf dukes of Swabia, Bavaria, and Saxony, and even an Emperor, Otto IV, who abdicated in 1215. The Welfs are still known as famous wolfhunters and may even have connections to a secret society of werewolf slayers.
 
@@ -6319,11 +6319,11 @@ Total lunar eclipses occur in October 1222, February 1226, September 1233, Janua
 
 soon come in from all directions: the moon is being gradually extinguished. The pattern becomes clear to anyone paying attention to the locations of the reports: the area lit by the moon is becoming successively smaller and smaller and in a handful of months will be extinguished altogether. The characters can even determine the last city to receive the light of the full moon will be Frankfurt (*Guardians of the Forests* page 89). Astrologers will be aware that a lunar eclipse is due on the day that the moon will be extinguished in Frankfurt; otherwise an Intelligence + Artes Liberales roll of Ease Factor 9 allows a character to calculate the significance of the place and date. The exact location of the last full moon and even the pattern of extinguishing can be changed to suit the individual saga. For example, a storyguide might prefer the pattern to go from east to west and have Tuam in Connacht as the last place affected.
 
-#### **Investigating in the Dark**
+#### Investigating in the Dark
 
 Characters may wish to investigate places already affected by the unnatural darkness. They hear stories of a massive wolf in the sky catching the moon and swallowing it in three bites. On lake islands they may find evidence of Muspelli rituals in the form of warped auras and sacrificial remains, or elsewhere of Hermetic rituals in the form of abandoned ritual spaces adorned with Hermetic symbols. A few days after each ritual, a falcon can be seen flying in the affected area; this is Loftur in his shapechanged form, checking on the progress of his plan.
 
-#### **Preserving the Light**
+#### Preserving the Light
 
 If the characters are clever, quick, and lucky, they determine the location of the next ritual and get there in time to stop it taking place. The individuals performing these rituals are powerful sorcerers in their own right and it should be no small task to prevent them; they should be supported with whatever resources seem reasonable. If the Ironwood has successfully encroached on the mortal realm, then the assistance of Ironwood wolves is highly appropriate.
 
@@ -6331,7 +6331,7 @@ Success in preventing a ritual means that the moon continues to shine over this 
 
 Before the final ritual, the effects in each region are continuing magical effects, which means that the player characters could use Perdo Vim to dispel them. Again, Loftur takes steps to patch such holes. However, if the characters create enough holes, Loftur may not be able to patch them in time for the final ritual, again meaning that he fails in this aspect.
 
-#### **Drawing Down the Moon**
+#### Drawing Down the Moon
 
 The very last ritual in Frankfurt on the eclipse is the most important, since it symbolizes the extinguishing of the moon and mystically 'locks' the other effects and makes reality from illusion. If successful, moonlight is truly extinguished from Mythic Europe, at least until Ragnarok, and the darkness is no longer dependent on the spells cast by Loki's mortal agents.
 
@@ -6339,7 +6339,7 @@ During the culminating ritual, a theurgist (possibly the leader of the Magogoli 
 
 The player characters can disrupt this ritual, but this still counts a partial success for Loki.
 
-## **A World Adrift Without a Moon**
+## A World Adrift Without a Moon
 
 If Loki is successful in this endeavor, there is widespread fear and confusion that leads to rioting. The moon is an important indicator of timing of agricultural and religious events. Easter's date is determined by the phase of the moon; without a moon can there really be Easter? Most peasants attend to confessing their sins once a year in Lent, but with no Easter, there is no Lent. A clergyman rips off his vestments in the town square and begins to beat himself with a knotted whip, shouting passages from the Apocalypse of St John. A riot is imminent; the slightest spark (such as a person with The Gift) could set it off. This part of the story could be influenced or capitalized on by a diabolically-inspired cult (*Antagonists*, Chapter 8). Unlike the disaster detailed in an earlier chapter, the moon is still there, but its light is swallowed by the Magic Realm before reaching earth. At the option of the storyguide this may still have a mystical effect on Moon duration spells and other moon-based phenomena, in which case inspiration can be drawn from "The End of Time."
 
@@ -6363,13 +6363,13 @@ For Fjalar's statistics, use those of the Emissary of Fire (see Aspects of Loki)
 
 \*Unlike the Emissary of Fire, Fjalar is a Magic Human who would be susceptible to fire without this Virtue.
 
-#### **Fjalar Retrieves the Sword**
+#### Fjalar Retrieves the Sword
 
 If the player characters are in possession of the Gambanteinn, then Heimdallur tells them to expect a visit from Fjalar Suttungur very soon, and they should be prepared to die at his hands if they oppose him. The characters could simply hand over the sword to him, in which case Fjalar demands wergild (death-payment) for the murder of his servant Eggther but does not seek any vengeance beyond that. Wergild is a Norse tradition where the perpetrator of a slaying pays the family of the deceased his worth. Fjalar sets the worth of Eggther at a hundred marks of silver (800 ounces, or 50 Mythic Pounds). The characters may be able to negotiate for less, or for a time frame over which to pay, but if they cannot or will not agree to the wergild then Fjalar seeks to destroy them instead. If the characters fight Fjalar using the Gambanteinn, the sword resists them for the entire battle. Alternatively, if they concede the sword to the fire giant then they can follow him into the underworld and have a second chance to stop him.
 
 If characters survive and keep the Gambanteinn out of Fjalar's hands, then they may wish to attempt to destroy the sword. Fjalar will not stop trying to obtain the sword, but next time he comes to claim it he will have a horde of the walking dead with him.
 
-#### **Silencing the Red Cockerel**
+#### Silencing the Red Cockerel
 
 If the characters do not have the Gambanteinn, then Fjalar will not come to them first but head straight for the Magic Realm. Nifelhel is an insula within the Magic Realm that is peopled by the spirits of the pagan dead who died an ignoble death: men who were executed; died in the torment of disease; committed suicide; or bore some terrible moral crime when they died. The Jotnar are also in Nifelhel, or more accurately in the Twilight Void that adjoins it.
 
@@ -6379,11 +6379,11 @@ Skidbladnir knows the way to Nifelhel. They must travel to the utmost north, unt
 
 Once Fjalar crows in the underworld, all manner of the dead return to earth. There are plenty of opportunities for the characters to be beset by the shambling dead.
 
-## **Ghost Legions of House Tremere**
+## Ghost Legions of House Tremere
 
 House Tremere have been recruiting armies of pagan ghosts as part of their battle-readiness (*Houses of Hermes: True Lineages*, Chapter 4). When the first cockerel crows, these ghosts could break free of their Hermetic shackles, reanimate their corpses, or possess the living. This mass return of the dead could be the distraction Loki needs for one of his other plans (such as advancing the invasion of the east by the Magogoli).
 
-#### **Givers of Eternal Rest**
+#### Givers of Eternal Rest
 
 The Donatores (a tradition within Ex Miscellanea, *Houses of Hermes: Societates*, page 115) have been expecting the mass return of the dead for several decades. They have a God-given mission to lay the dead to rest and have been feverishly training for this day. A cadre of these magi come to the covenant to seek their help in destroying the undead menace terrorizing the local populace. While technically magi, these three have no Hermetic training, but are skilled Banishers. They have noticed that while the dead have risen all over the region, the walking corpses that they have encountered account for a mere fraction of the total number of disturbed graves they have seen. The rest of the walking dead are amassing somewhere and the Donatores need help to find where and why. Who is the shadowy figure who commands the army of the dead? The peasants whisper it is Death himself.
 
@@ -6393,7 +6393,7 @@ Nifelhel is an insula with a Corpus Boundary of Level 8. It is a mountainous bro
 
 As the characters return from the Magic Realm on Skidbladnir, regardless of whether they were victorious or not, they may witness a mighty bird spreading its pinions above them, leaving the Magic Realm at the same time. This is Vidofnir, a black cockerel fated by prophecy to be the third to crow (see later).
 
-#### **The Dead Return**
+#### The Dead Return
 
 If woken by Fjalar, the dead of Nifelhel are free to return to earth. The Norse dead do not return as ghosts, instead they occupy their own corpses and animate them. Some of the returned dead are exceptionally strong and may have the power to spread disease, shapeshift, or control the weather. Pagan dead from other religions follow suit; similar animated corpses issue from Etruscan cemeteries in Italy, Bulgar grave mounds in the Balkans, or Gaulish and Gothic burial sites in central Mythic Europe. Other pagan dead may haunt the living as ghosts (*Realms of Power: Magic*, pages 115–118). The Christian dead, in common with all buried under the auspices of a Divine religion, do not return.
 
@@ -6403,7 +6403,7 @@ Once Fjalar has crowed in the Magic Realm, the white cockerel departs for heaven
 
 Once Heimdallur's horn has been sounded, the faerie gods acknowledge that the Twilight of the Gods is inevitable and stop trying to thwart Loki. Sympathetic gods like Heimdallur might still help the characters if they can be convinced that it will make it more likely that the gods will win, but they do so with a resigned air having already accepted their fate.
 
-#### **The Army of the Faerie Gods**
+#### The Army of the Faerie Gods
 
 At the sound of Heimdallur's horn, the army of the gods is mustered. The *einherjar* are the spirits of those pagan Norsemen who died a warrior's death. They have been feasting and sleeping in the Valhall since the time of their death. Eight hundred issue from each of the Valhall's 540 doors and the 432,000 warriors begin their preparations to fight their final battle. Each of the *einheri* is a faerie warrior, clothed in glamour that results from the stories told about a deceased man by his shield-comrades, his family, and even his enemies. If the statistics of an *einheri* is needed, use the Berserker or Grizzled Veteran Template (ArM5 page 21) but also give him a Faerie Might of 5 (Corpus).
 
@@ -6417,7 +6417,7 @@ Vidofnir — who the characters may have witnessed leaving the Magic Realm earli
 
 When Vidofnir arrives in a city close to the player characters, they have the opportunity to stop him. There is no malice in his actions; he is simply obeying the iron chains of prophecy as a servant of Urdur, the Jotun of Fate. However, the prophecy says he will awaken the Seven Sleepers, who Heimdallur can tell them will be the salvation of mankind should Ragnarok go ahead. The player characters are left with a dilemma: killing Vidofnir could prevent Ragnarok but allowing him to live could mean that more people survive the Twilight of the Gods unscathed. How confident are they that they have thwarted Loki sufficiently?
 
-#### **The Seven Sleepers**
+#### The Seven Sleepers
 
 If Vidofnir is permitted to crow throughout Mythic Europe, stories begin to be told across Christendom of the appearance of the Seven Sleepers. They appear at several sites associated with them, including Mount Pion at Ephesus and the Church of St Victor of Gaul in Marseilles where the tombs of the Seven Sleepers have been venerated as relics for centuries. There are similar appearances at pagan, Jewish, and Muslim holy sites. The Sleepers bring the same message to all: they announce that the End of Times is upon the world but they have been sent by God (or the gods, depending on the audience) to protect the faithful. When heaven and earth war with one another, everyone should shelter on holy ground (Divine or Magic auras), where they will be kept safe until the peril is over. The Seven Sleepers that appear to Christians are saints with a
 
@@ -6437,7 +6437,7 @@ If Vidofnir is permitted to crow throughout Mythic Europe, stories begin to be t
 
 \*Essential Trait, replaces listed Characteristic (where present) whenever Trait applies.
 
-#### **Combat:**
+#### Combat:
 
 *Spurs*: Init –1, Attack +9, Defense +7, Damage +8
 
@@ -6451,7 +6451,7 @@ If Vidofnir is permitted to crow throughout Mythic Europe, stories begin to be t
 
 **Abilities:** Athletics 2 (balancing), Awareness 6 (dawn and dusk), Brawl 4 (spurs), Music 7+2 (crowing), Penetration 4 (Corpus effects)
 
-#### **Powers:**
+#### Powers:
 
 *Ear-Shattering Cry*, 0 points, Init +1, Corpus: An individual in direct line of Vidofnir's crowing has his hearing destroyed. This damage heals as a Heavy Wound, and inflicts the effects of the Deaf Flaw until it heals to a Light Wound, at which point it becomes equivalent to Poor Hearing until totally healed. A deaf magus suffers the –15 penalty to spellcasting for using no words (but no penalty to Voice Range) until he adjusts to his new condition (which takes about a day). PeCo 30 (Base 20, +2 Voice) Greater Power (30 levels, –3 Might cost, +4 Init)
 
@@ -6472,7 +6472,7 @@ There are many versions of the legend of the Seven Sleepers. The Norse version t
 
 The story of the Seven Sleepers of Ephesus is one of the most popular medieval Christian legends. Seven noble youths, fleeing the persecutions of Christians instituted by emperor Decius (249–251), took refuge in a cave near Ephesus. Praying for guidance, they sank into a deep sleep, waking hundreds of years later when belief in God and the eventual resurrection of the faithful was waning. Their appearance re-
 
-#### **Hermetic Sleepers**
+#### Hermetic Sleepers
 
 At the option of the storyguide, the Order of Hermes could have its own Seven Sleepers. Of the fourteen individuals present at the Founding of the Order (twelve founders plus Trianoma and Pralix), only six deaths are confirmed in **Ars Magica Fifth Edition** —Flambeau, Guernicus, Jerbiton, Mercere, Tremere, and Trianoma. This leaves eight candidates from which you can assemble a Hermetic septet. When the seven worthies step forth from the Twilight Void and present themselves at Tribunal (a Grand Tribunal would be fitting) with a message of impending doom, the Order cannot deny the coming apocalypse. However, the return of the Founders is bound to throw the Order into confusion. Their message delivered, the Founders may disagree with the current structure of their respective Houses. Those Houses without a Returned Founder might be disadvantaged by having no representation among the cabal of seven. Maybe those who deny the identity of the Hermetic Sleepers are right— but if so, who are they and what is their goal?
 
@@ -6519,7 +6519,7 @@ The Twilight of the Gods rages for a season, although it takes several years for
 
 The denizens of the Magic Realm are the major beneficiaries of the second Titanomachy. The Titans reclaim their rightful place as the governors of God's universe and their power is felt directly on the earth without the faerie gods siphoning off much of it to support their glamour.
 
-#### **Wild Magic**
+#### Wild Magic
 
 The world is a very different place following the Titanomachy. There is more untamed magic in the sublunar world than there once was and this has several consequences. Since magic becomes much more immediate to the general populace, Magic Lore becomes a General Ability rather than an Arcane Ability, although it cannot be used untrained. Thanks to the abundance of wild magic, Acclimation no longer bothers creatures from the Magic Realm.
 
@@ -6534,7 +6534,7 @@ Vis also becomes more common. Most vis sources see a modest increase in the amou
 Hedge traditions blossom with the influx of wild magic, at least once the problems of the Golden Chain have been overcome (see later). The Gift becomes approximately twice as common as it once was. Further, all Gifted wizards with Difficult Arts or Supernatural Abilities may now increase them as normal Arts. The powers of unGifted magicians remain unaltered but the Initiation of Mysteries becomes easier for the unGifted: an unGifted initiate is no longer required to take an Ordeal Flaw as part of the Initiation process and are also able to self-initiate Virtues. Finally, some people find their rituals and superstitions suddenly gain real (if meager) power, developing the Folk Magic Virtue (see Insert). With more people having Magic Lore, Enrichment of Things of Virtue (*Realms of Power: Magic*, page 124) becomes more common.
 
 
-#### **The Golden Chain**
+#### The Golden Chain
 
 Use of magic is now directly regulated by the Titans. They are the conduits through which magic flows from the Magic Realm; they pass it to their subordinates, who parcel it out to their subordinates, and so on down the great chain of being. Only characters connected to this 'Golden Chain' can sequester the power necessary to fuel their spells. The Golden Chain has a strict hierarchy, with Daimons at the top arranged in order of Might, followed by other beings and objects with a Magic Might score arranged in order of Might. Next are humans with The Gift, followed by beings and objects with intrinsic magical powers but no Might score (including vis and places with Magic auras), followed by beings and objects with acquired magical powers (including unGifted humans).
 
@@ -6566,7 +6566,7 @@ To cast a spell you must expend a fatigue level, whether the spell succeeds or f
 
 avoid making a pact by realigning their magic to a new Realm: a powerful demon is capable of replacing The Gift with The False Gift (*Realms of Power: the Infernal*, page 124) in exchange for his soul. Alternatively, a magus could instead Initiate Holy Magic (*Realms of Power: the Divine*, page 66), a difficult but virtuous path.
 
-#### **All Bonds Break**
+#### All Bonds Break
 
 When Loki set sail from the Magic Realm, he began a series of events that set the Titans free, and this echoes down the Golden Chain. All bonds constraining magical creatures are instantly broken and all wards against magical creatures fail. Ongoing spells and enchantments of this type cease to work and new castings prove impotent against creatures from the Magic Realm. This is a permanent effect of the Titanomachy that affects supernatural powers aligned to any Realm except the Divine and applies to targets belonging to the Magic Realm.
 
@@ -6592,11 +6592,11 @@ Most severely affected are goetic sorcerers and sahirs, who can no longer summon
 
 The transformation of the natural order gives rise to many possible stories.
 
-## **The Tool Becomes the Master**
+## The Tool Becomes the Master
 
 A powerful magus seriously endangers the Order though blatant and violent use of magic on mundanes. The characters are witnesses to some of these acts and forced to do something before matters get out of hand. In truth this is not the magus in question; instead, his talisman has become a Magic Thing and the magus is dead, in Twilight, or otherwise incapacitated by this traumatic event. Due to its connection to the magus, the talisman believes that it is him, although it has a warped view of the world. The talisman is able to access any of its enchantments as powers, and may develop more based on its creator's signature spells. It can also create either an illusory or artificial body, but has not yet developed speech.
 
-#### **Ushant's Woe**
+#### Ushant's Woe
 
 The covenant of Fudarus has three powerful spirits bound to its service. These are released when the bonds holding them are destroyed and the spirits of storm, mist, and concealment embark on a rampage across Brittany. Woe betide any covenants or vis sources in their way. The damage they do to Fudarus before they leave may solve House Tytalus's primus crisis by killing one candidate, or start a new one by killing both.
 
@@ -6607,13 +6607,13 @@ bond it retains that Characteristic, but it loses all Bond Scores and any effect
 
 Faerie power has dramatically reduced since the Titanomachy. Faeries can no longer draw power from human imaginations and emotions. The gates into Faerie itself have closed, divorcing the fae from the stories that sustain them. Tales abound that the false gods are dead and new stories about their rebirth, resurrection, or rescue are ineffectual at restoring the gods.
 
-### **Deicide**
+### Deicide
 
 Many, if not most, of the powerful faeries were killed in the Titanomachy itself, or hunted down subsequently. All of the major pantheons have been slaughtered, or were inside Faerie when the gates to the realm closed. As a consequence, the most powerful faeries still abroad in the world have a Faerie Might around 20, although this could be higher in certain auspicious places or times.
 
 Those humans who still served as priests to the pagan gods felt their connection to their gods severed as they were put to the sword and gods-given powers such as faerie wizardry and rites using faerie Methods and Powers no longer yield any results. In addition, all magic relying on charms — including the Folk Mysteries of House Merinita (*Houses of Hermes:*  *Mystery Cults*, pages 96–99) and charmed Virtues (*Realms of Power: Faerie*, pages 104– 105) — can no longer call upon the power of stories and cease to work.
 
-#### **No Faerie Auras**
+#### No Faerie Auras
 
 Mirroring the increase in Magic auras (see earlier), there is a matching decline in the prevalence of Faerie auras. Most are destroyed during the Titanomachy itself by the shifting multicolored flames of the aurora borealis. All Faerie auras of level 1 or 2 vanish entirely. Those of level 3 to 5 become Magic auras of level 1. Those of level 6 to 8 become Magic auras of level 2 and those of 9 or more become Magic auras of level 3. A magical guardian is installed by the Titans into any former Faerie aura of level 9 or 10; these are places where glamour was formerly very strong and the Titans seek to prevent them from becoming rallying points for the faerie survivors.
 
@@ -6621,7 +6621,7 @@ All faerie regiones collapse, leaving behind a Magic aura with a level determine
 
 Covenants in Faerie auras or regiones are left intact by this event, although they might be scarred by the auroreal flames if they were heavily Warped or otherwise infused with the power of Faerie.
 
-#### **Vitality Is No Longer Enough**
+#### Vitality Is No Longer Enough
 
 Those faeries that remain are forced to form a bond with humanity to gain protection against wild magic. Unlike before, vitality is a precious commodity that can no longer be harvested from casual adherence to folk rituals or legends whispered at the dead of night. Instead, a faerie requires a formal exchange; they must receive the products of human craft or else a sacrifice of time or life's blood. This can no longer be stolen or involuntarily provided, it must be knowingly donated by a human or a community of humans. The gift must be repeated at least once a year to sustain the faerie. In order to earn the gift that they need, the faerie must usually agree to perform some task on behalf of the humans it serves. This is rarely mutually beneficial: the faerie is usually the servant of the humans, using its glamour for the good of the community. Some faeries are able to pose a physical threat and demand a yearly tribute but the humans will eventually discover that they can just withhold the tribute and cause the faerie harm. Sometimes, rarely, these relationships between faeries and humans approach something akin to friendship, with the benefits to either side being nearly equal.
 
@@ -6646,7 +6646,7 @@ Beyond the sound of the Church bells, the world has changed. During the Titanoma
 
 Travel outside the safety of the Dominion becomes the business of the desperate, the determined, and the foolish. A new cadre of merchant-adventurers emerges from the confusion. These trade between towns, carrying messages and occasional travelers. They employ their own mercenaries, who usually include a magician, to keep the wagons safe. Employing the merchant-adventurers is a costly business, but guilds and companies form among tradesmen who share the cost between them.
 
-#### **The Order of Hermes**
+#### The Order of Hermes
 
 The Order of Hermes is initially thrown into confusion by the Titanomachy, bereft of its capacity to work magic. Many crisis Tribunals are held and solutions gradually emerge (see earlier); until then, magi are forced to rely on preexisting enchantments, Spell-Like and Lesser Enchantment Vis, Enrichment of Objects of Virtue, and other working magic. Once the problems of the Golden Chain have been ameliorated or solved, the Order can look outwards again. None of the improvements to the way in which magic is acquired makes a big difference to the Order of Hermes, since all that has happened is that other magicians now enjoy some of the benefits that only magi had before. Some magical traditions, particularly those who quickly solved the problem of the Golden Chain, may have grown fast and gathered power thanks to the influx of wild magic. Groups like the Folk Witches may even rise to challenge the Order — through sheer numbers if not raw power.
 

@@ -231,7 +231,7 @@ Many of the secrets within *Ancient Magic* reach or even break the limits of mag
 
 Many of the traditions described in this book are given enough detail to make it possible to play a living member of the tradition. While the traditions are dead in 1220, at least in the standard **Ars Magica** setting, you might choose to set your saga in an earlier period, when they are still active. You will need to fill in a few rule details, as the traditions have not been written up as full examples of hedge magic traditions, but most of what you need is here.
 
-#### **The Breakthrough**
+#### The Breakthrough
 
 A magus ambitious enough to attempt to unify the various magics contained in the chapters of this book with Hermetic theory may attempt to achieve a Breakthrough in Hermetic theory, accomplished through research and experimentation. Any magus may, at any time, attempt a Breakthrough; there are no minimum Art or Ability scores required. To successfully integrate the magic into Hermetic theory, he must accumulate a number of **breakthrough points** determined by the type of Breakthrough he is attempting.
 
@@ -255,7 +255,7 @@ A **Major Breakthrough** pushes those limits, but does not break them; these inc
 
 A **Hermetic Breakthrough** is research that breaks one of the Hermetic limits of magic, whether by creating a new Arcane Ability or giving the ability to cast permanent duration spells without vis. Hermetic Breakthroughs re-write the theory books; the only Hermetic Breakthrough in the last 450 years was the development of the Parma Magica by Bonisagus. (Typically requires around 60 breakthrough points.)
 
-#### **Insight**
+#### Insight
 
 Insight is gained from studying some existing source of the ancient magic in question. Every Insight the magus gains allows him to produce a partially Hermetic effect incorporating some aspect of that lost magic. As he produces more of these effects, he gains the broader understanding necessary to incorporate that aspect into Hermetic theory as a whole.
 
@@ -281,7 +281,7 @@ the magus thinks he has an Insight, but does not. He realizes this if he creates
 
 A single source can generally only provide a single Insight, although there may be rare exceptions. The same source provides the same Insight for any magus who studies it.
 
-### **Creating the Effect**
+### Creating the Effect
 
 A particular Insight allows a researcher to create one specific effect. This effect might be a spell, or an effect enchanted into an item. It could, conceivably, be another laboratory project; anything that uses a Lab Total and creates something may be a legitimate Insight outgrowth. However, spells are by far the most common, followed by item enchantments.
 
@@ -307,7 +307,7 @@ a side effect. These points are added to the magus's running total, and he must 
 
 The effect produced in this way can be reproduced by other Hermetic magi. However, they can only do so if they have access to a Lab Text describing it, and it is not possible to vary the effect in any way; it must be reproduced exactly as it was initially created. Reproducing the effect in this way does not grant breakthrough points unless the reproducing magus also gains the relevant Insight, whether from investigating the same item or from reading the original investigator's Lab Texts. It is possible to reproduce the effect first, and study the insight Lab Texts later.
 
-#### **After the Breakthrough**
+#### After the Breakthrough
 
 Minor Breakthroughs are usable immediately in the game, and are understandable by all Hermetic magi. New Ranges or Durations may be incorporated into new spells or items, and the Lab Texts distributed for a spell may be used by another Hermetic magus without his needing to research the Breakthrough. Any magus who has created an effect using the Breakthrough can then use that Range of Duration freely in his other spells, and any magus trained by that magus, in either Arts or spells, may also do so.
 
@@ -939,7 +939,7 @@ Club: Init +0, Attack +8, Defense +7, Damage +6
 
 **Abilities:** Animal Handling 3 (oxen), Area Lore (any) 3 (geography), Area Lore (Ancient Mesopotamia) 8 (geography), Athletics 3 (running), Awareness 5 (watching from a distance), Brawl 7 (grapples), Dead Language (Adamic) 5 (agricultural terms), Guile 5 (lying to authority), Hunt 7 (long distances), Single Weapon 6 (club), Stealth 6 (hide), Survival 8 (desert), Swim 3 (rivers), Teaching 2 (children)
 
-#### **Powers:**
+#### Powers:
 
 *Desperate Speed*, 3 points, +2, Corpus: Cain can move with astonishing speed when necessary, traveling twice the distance a normal man could move in the same amount of time and adding +7 to his Initiative.
 
@@ -1048,11 +1048,11 @@ A magus may work in his laboratory, with an assistant who has the Canaanite Necr
 
 Once the magus has gained an Insight into Canaanite necromancy, he may attempt to incorporate his Insight, by using the Insight Lab Text to invent an effect (spell or item) that deals with the dead in some way. Often, this is a standard Hermetic effect, but the storyguide may specify that a particular non-Hermetic effect can be invented, which utilizes the special Range Veil of Death. In either case, as described in the Introduction, this gives the magus a number of breakthrough points equal to the magnitude of the invented effect. Once the magus has accumulated 45 breakthrough points (remember that each additional effect requires an additional Insight Lab Text) then he has successfully integrated Canaanite necromancy and gains the Minor Hermetic Virtue Canaanite Magic.
 
-### **To Integrate Canaanite Necromancy: Accumulate 45 or more breakthrough points**
+### To Integrate Canaanite Necromancy: Accumulate 45 or more breakthrough points
 
 Note that the character does not gain the Hermetic Virtue until the integration is complete, and so until then he does not gain the special Arcane Connection and he may only utilize the special Range Veil of Death in those spells that he invented using Insight Lab Texts.
 
-### **Canaanite Laboratory Assistants**
+### Canaanite Laboratory Assistants
 
 The magus needs the assistance of a Canaanite necromancer to gain Insight into the ancient tradition. This is because Canaanite necromancy was an oral tradition and there are no written texts or artifacts to base research upon, although the role can be performed by a modern student of Zephaniah. A Canaanite necromancer can also help the magus invent spells and items during the experimental phase of the integration when breakthrough points are accumulated.
 
@@ -1079,7 +1079,7 @@ There are also risks inherent in Canaanite Magic:
 
 Some spells that exploit the Range Veil of Death are listed below. These spells are, with the storyguide's approval, appropriate effects for a magus to invent during the process of integrating Canaanite magic with Hermetic theory.
 
-#### **Anat's Search in the Miry Abyss**
+#### Anat's Search in the Miry Abyss
 
 InMe 20
 
@@ -1095,7 +1095,7 @@ would normally be beyond the reach of the spell is that she is in Heaven. Once s
 
 (Base 4, +3 Veil, +1 Diam)
 
-#### **The Ob of Mot**
+#### The Ob of Mot
 
 CrMe 25
 
@@ -1113,7 +1113,7 @@ caster is aware of the conversation, but cannot participate without making an In
 
 (Base 3, +3 Veil, +1 Conc, +1 Group)
 
-#### **The Visage of Mot**
+#### The Visage of Mot
 
 ReMe 35
 
@@ -1127,7 +1127,7 @@ This spell summons the ghost of a specific person in the world of the dead. The 
 
 Some items that exploit the Range Veil of Death are listed below. The items are also appropriate effects for a magus to invent, with the approval of the storyguide, during the process of integrating Canaanite magic with Hermetic theory.
 
-#### **Zephaniah's Brazier**
+#### Zephaniah's Brazier
 
 InMe 15
 
@@ -1139,7 +1139,7 @@ This brazier is a copper dish about five inches in diameter. The color of the sm
 
 (Effect: Base 4, +3 Veil)
 
-#### **Mot's Hand**
+#### Mot's Hand
 
 ReMe 37
 
@@ -1155,7 +1155,7 @@ Gross movements of the ghost (stop, move left, etc.) are controlled without a ro
 
 ### Guidelines for Canaanite Magic
 
-#### **Who is Dead?**
+#### Who is Dead?
 
 The Minor Virtue Canaanite Magic provides an Arcane Connection to the dead, and the Range Veil of Death allows a magus to interact with any of the dead that he can sense. In this case, "the dead" means any mortal man, woman, or child who has died but who has not, yet, entered Heaven. This includes mortals who are resident in Hell or Purgatory, those who die while in a Faerie or Magic realm, and ghosts, including living ghosts (see *The Mysteries Revised Edition*, pages 70–74) and Infernal ghosts (see *Realms of Power: The Infernal,* page 36).
 
@@ -1163,13 +1163,13 @@ Magi in Final Twilight, who have become faeries, or who have become magical crea
 
 Characters who are in Heaven may not be affected, due to the Limit of the Divine. However, characters who have received a Divine burial rite — a conventional Christian, Judaic, or Islamic burial, for example — may still be affected, if they have not entered Heaven, but in this case if the caster botches double the number of botch dice are rolled. The immunity to necromancy granted by extreme unction (see *Realms of Power: The Divine*, page 75) is only a flaw in Hermetic theory, which is corrected by the integration of Canaanite necromancy.
 
-#### **Speaking to the Dead**
+#### Speaking to the Dead
 
 It is certainly possible, and indeed likely, that a magus will use Canaanite necromancy to speak to the long dead. The magus quickly discovers, however, that communicating with the long dead is not trivial. Although simple Intellego Mentem spells eliminate language barriers, many concepts (nations, theories of magic and nature, notions of the afterlife, etc.) are mutually unintelligible between the interrogating magus and his ancient interviewee. Even if the magus can make himself understood, the long dead have little reason to cooperate with the living, and may well resent the disturbance. Additionally, the long dead are more likely than the more recently deceased to be unavailable to the magus, as many have left Purgatory for Heaven.
 
 It will also inevitably occur to a magus to question the dead about the nature of the afterlife they inhabit, but he finds such questions unanswerable. For example, some authorities hold that Arcadia is the world of the dead, and Canaanite magic does not offer any evidence to either support or refute this, although mortals who die while visiting the Faerie realm remain accessible to a Canaanite necromancer. In any case, no information about the world of the dead, other than who is in it, may be communicated. Possibly, this is a result of an error in either Canaanite necromancy or Hermetic theory.
 
-#### **The Infernal and Necromancy**
+#### The Infernal and Necromancy
 
 Canaanite necromancy, and indeed any sort of necromancy, may attract the attention of the Infernal. If a character botches when attempting to summon or speak to the dead, a likely result is that a malevolent spirit pretends to be the intended target. Usually, this spirit is one of many minor demons with a (Mentem) Might of 10, but a more powerful demon could be attracted too; in either case the demon is often an Infernal ghost (see *Realms of Power: The Infernal*, page 36). The demon normally plays his part as accurately and for as long as he is able, while subtly trying to corrupt any information provided. Hermetic magic is unable to penetrate the demon's deception, but the demon may make mistakes that reveal he is not what he claims to be.
 
@@ -1194,7 +1194,7 @@ TEAM BONUS: Number of team members with Area Lore Canaan within 5 of leader, to 
 
 If several competing groups successfully discover the site of En-Dor during the same season, the group whose total roll is the greatest finds En-Dor first. However, as the likely area is relatively small, their discovery cannot be kept secret even from unsuccessful competitors in the field for more than a few days, unless extraordinary precautions are made.
 
-#### **BOOKS**
+#### BOOKS
 
 As the search for En-Dor is quite difficult, a sensible character will try to improve his knowledge of Canaan before seriously embarking on the
 
@@ -1220,7 +1220,7 @@ Tiberias is a spiritual center for the Jewish community, too. Rabbi Yehudah HaNa
 
 Rome, and by the University of Paris. Inaccurate or incomplete translations have lower Source Qualities.
 
-#### **The Clay Tablets**
+#### The Clay Tablets
 
 During the mid 12th century in Jerusalem, when a number of buildings were demolished to make way for an enlargement by the crusaders
 
@@ -1236,7 +1236,7 @@ Most of the tablets are held by collectors from Venetian, Genoese, and Florentin
 
 Each tablet forms an Arcane Connection to the other five tablets in the same sequence, and so once a tablet has been found the others may be found using an Intellego Terram spell. The tablets do not, however, form Arcane Connections to the city of En-Dor; it has been more than 2,000 years since the tablets were actually there.
 
-#### **Links of Stone**
+#### Links of Stone
 
 InTe 25
 
@@ -1250,7 +1250,7 @@ The caster holds a piece of stone in her hands and receives a brief mental image
 
 Once En-Dor has been found, a magus must find his way into the magical regio at the site. The regio consists of two levels.
 
-#### **En-Dor Regio Level One**
+#### En-Dor Regio Level One
 
 The first level of the regio at En-Dor can be entered by anybody who can see into this level (ArM5, page 189). It has a Magic aura of 2, but this is swamped by a Divine aura of 4 that was engendered by the veneration of the Christian pilgrims who arrived at the site last century.
 
@@ -1273,7 +1273,7 @@ Inspection of the stream that Roland drinks from indicates that it is magical. D
 
 The cave is, in fact, the entrance to the next level of the regio.
 
-#### **En-Dor Regio Level Two**
+#### En-Dor Regio Level Two
 
 The second level of the regio at En-Dor has a Magical aura of 5. This regio can only be entered through the cave in the first level, which anybody who can see across the regio boundary can do. For a character who cannot find the way to the second level of the regio the cave appears to have only one opening, that which leads back to first level of the regio.
 
@@ -1327,7 +1327,7 @@ shallow pool, about ten feet across, which is tiled in stone. From the pool a st
 
 The valley floor is dry, and empty, apart from several dozen stone buildings, each about the size of a small house or Hermetic laboratory. The buildings are all constructed in a similar manner, with a stone floor and a roof supported by columns, but neither walls nor doorways. The buildings are pre-Roman and reminiscent of Greek architecture. All the buildings are whole and un-ruined, and each contains one or more stone slabs upon which lie skeletal remains: En-Dor is a city of the dead. In total, there are about 100 skeletons, some of which are adorned in gold and silver jewelry, fragments of decaying clothing and burial shrouds, or simple bronze weapons.
 
-#### **The Ghosts of En-Dor**
+#### The Ghosts of En-Dor
 
 There are no living inhabitants in the second level of the regio at En-Dor, but about a dozen ghosts haunt the buildings in the valley. These are the ghosts of Canaanite necromancers who were killed in the purges of King Saul, along with the ghost of the last necromancer — Zephaniah, the witch of En-Dor. The ghosts usually appear at night, when they gather about the pool at the head of the valley, and Zephaniah acts as their leader. She has a Magic Might of 25 (Mentem) and is both aware that she is a ghost and still capable of affecting the world of the living. The other ghosts are much weaker, with Magic Might 10 (Mentem), and are no longer truly conscious.
 
@@ -1373,7 +1373,7 @@ Loyal +2
 
 **Abilities:** Area Lore En-Dor 3 (hiding places), Awareness 2 (En-Dor), Brawl 3 (wrestle), Hebrew 5 (Canaanite dialect), Stealth 10 (nighttime)
 
-#### **Powers:**
+#### Powers:
 
 *Traumatic Death ,* 0 points, constant, Mentem: The ghosts are united by the traumatic death that they suffered at the hands of Saul's soldiers. The ghosts are Arcane Connections to each other, are constantly aware of everything that the others sense, and can communicate with each other regardless of distance.
 
@@ -1491,7 +1491,7 @@ At the storyguide's discretion, the investigator may integrate the Event Duratio
 
 *Moratamis creates a spell to warn the turb if anyone enters the covenant without the knowledge of the guards on duty. The target of the spell is the grog barracks. Moratamis wants the entire covenant to be monitored; therefore, Voice and Sight Ranges are inadequate. Moratamis uses an Arcane Connection to allow the entire covenant to be covered. Because a person surreptitiously entering the covenant triggers the condition, the spell must have a requisite of Corpus.*
 
-#### **Call to Arms**
+#### Call to Arms
 
 Re(In)Me(Co) 35
 
@@ -1521,11 +1521,11 @@ There are multiple ways the caster can acquire the +2 bonus needed from the Symp
 
 If the storyguide allows it, the investigator may partially integrate the Unlimited Range before achieving a Breakthrough. The spell that increases the magus's breakthrough point total past half the total required for the Breakthrough, and all those invented thereafter provide all of the benefits of the Unlimited Range, except that they require sympathetic connections totaling +5 bonus multipliers. A partially integrated spell must follow all of the other requirements of an Unlimited Range spell.
 
-#### **Unlimited Range Examples**
+#### Unlimited Range Examples
 
 *Moratamis wants to create a spell that mimics* The Inexorable Search*, but does not require an Arcane Connection. Creating a representation of the quarry in the form of a small figurine is sufficient to fulfill the +2 sympathetic connection requirement.*
 
-#### **Draw on Diana's Hounds**
+#### Draw on Diana's Hounds
 
 InCo 30
 
@@ -1541,7 +1541,7 @@ A Dexterity + Craft roll of 9 is required to create the figurine depicting the q
 
 *Darius wants to create a spell that replicates* The Leap of Homecoming*, but allows the caster to travel anywhere. Because the range for the base spell is Personal, but it requires an Arcane Connection, the Unlimited Range Breakthrough allows the Arcane Connection to be replaced by a +2 sympathetic connection and adds +2 magnitudes to the final level of the spell.*
 
-#### **Passage to the Place Pictured**
+#### Passage to the Place Pictured
 
 ReCo 45
 
@@ -1557,11 +1557,11 @@ The magus who understands Defixio Lore and incorporates it into Hermetic theory 
 
 # Naming Conventions
 
-#### **Christianity**
+#### Christianity
 
 The popularity of using baptismal names varies by region. In some areas, parents do not name a child until the baptism, people avoid referring to the child specifically until that event, and the child then uses his baptismal name for his entire life. In other areas, the parents give the child a secret name, which is used only by the family or may never be used, and the child uses his baptismal name in public. In many areas, however, parents name their children at birth with either the name of a recently dead relative or even a sibling who predeceased the newborn. In these areas, a distinct baptismal name is either not given or never used. Regardless of the naming convention in any particular area, the use of nicknames is common. Bynames could be added to a personal name based on some prominent physical characteristic, personality trait, place of birth, or occupation.
 
-#### **Islam**
+#### Islam
 
 Although naming conventions vary by region for Muslims too, there is much more uniformity across the Islamic world. A person's birth name is only one of many names she has. A person may use a patronymic name that could encompass two or three generations. Often a person could also have a name designating his occupation, tribal lineage, or geographic origin. As Muslims become adults, they no longer use their birth names and might only be referred to as the father or mother of their firstborn son. It is offensive to refer to an adult by her birth name alone.
 
@@ -1569,17 +1569,17 @@ In addition to the above names, a person might also take a "laqab." This byname 
 
 Some examples of Arabic names include: Umm Ja'far Zaina bint Yusuf ibn Farouk (Mother of Jafar, Zaina, daughter of Joseph, son of Farouk); Abu Isma'il Ibrahim ibn Ishaq ibn Ibrahim ibn Bashir al-Bukhari (Father of Ishmael, Abraham, son of Isaac, son of Abraham, son of Bashir, from Bukhara); and Abu al-Ayyub Abd al-Rahim ibn Ahmad al-Harrani (Father of Job, servant of the Merciful, son of Ahmad, from Harran).
 
-#### **Judaism**
+#### Judaism
 
 Jews often adopt the naming conventions of the surrounding communities. This means that Jews in Europe usually identify themselves by only their given name, possibly with one byname. Jews in Islamic society often use multiple patronymic names and other bynames. Men are more likely to be named using traditional Biblical names, while women often take names from the local community. When a Jewish man in Christian Europe takes a byname, it is usually based on his father's name, the local geography, a personal characteristic, his occupation, or his rabbinical status.
 
 Although women can be referred to as daughter or wife of someone, these are rarely part of their proper names and are generally merely a designation of a familial relationship. Jews in Islamic societies do not usually take religious laqab names, but might have bynames indicating their piety, devotion to God, or religious scholarship.
 
-#### **Religious Names in Defixio Magic**
+#### Religious Names in Defixio Magic
 
 A target's nickname, birth name, or byname may be used as a sympathetic connection to her, but the target's baptismal, religious laqab, or rabbinical name may not. If a person's birth name and religious name are the same, then that name may not be used in any magic ritual. For such an individual, only his nickname or byname may be used to identify him. If a religious name is incorporated into the description of a target, in defixio magic or an Unlimited Range spell, the spell is treated as if the religious name had not been included. If only a religious name is used, the spell always fails. If one of the above religious names is part of the target's full name, the spell or Ability is treated as if only the target's nickname or pseudonym is known.
 
-#### **Using Duration Event**
+#### Using Duration Event
 
 Event Duration spells lend themselves to defensive measures. They allow magi to create traps and alarms based on a wide variety of criteria. Remote vis sites, covenants, and sancta are prime locations for traps to repel or punish intruders. A magus could also cast a spell to automatically protect the covenant library with *Soothe the Raging Flames*. With the addition of a Mentem requisite, magi can create alarms that warn of potential attacks before they even occur. A covenant concerned with spies or traitors might create alarms that identify enemies without forcing a magus to cast Intellego Mentem spells on every member of the turb or covenant.
 
@@ -1589,7 +1589,7 @@ A spell with a duration of Event could create a situation where the magus uninte
 
 One way to reduce the likelihood of an unintentional violation of the Code is to reduce the Ritual's Penetration Total to zero, but a magus would still be vulnerable at sunrise and sunset when his Parma Magica expires (see *Houses of Hermes: True Lineages*, page 72). The unfortunate side effect of forceless casting is that any creature with a Might score would never trigger the spell. The safest way to define a triggering event is to specifically exclude members of the Order from any description.
 
-#### **Using Range Unlimited**
+#### Using Range Unlimited
 
 Spells with Unlimited Range should have a greater impact on game play than Event Duration. Although all of the effects that Unlimited Range spells allow can be duplicated by spells with an Arcane Connection, characters are freed from the need to collect, fix, and maintain multiple Arcane Connections. Characters may affect people anywhere with little more than the person's name and current location. Similarly, a spell like *The Leap of Homecoming* with Unlimited Range allows a character to travel anywhere in Mythic Europe and possibly the world. Because of the drastic impact this may have on game play, a storyguide may wish to impose some arbitrary limit on the distance, such as the edges of continental Europe, or 49 leagues.
 
@@ -1609,21 +1609,21 @@ lover and she had always remained faithful to him, the curse would still be pend
 
 ### Types of Defixiones
 
-#### **Curse Tablets**
+#### Curse Tablets
 
 The curse tablet is the most common form of defixio and was utilized by all practitioners of defixio magic. A curse tablet could be made from any material upon which a sorcerer can write. The usual medium was a flattened lead tablet, though parchment, wax, or other soft metals could be utilized. Silver and gold were popular material for defensive defixiones and were often worn on necklaces. The sorcerer performed an intricate ceremony to prepare the surface of the material before writing on it. Using a brass stylus, the cultist then described the target, detailed the curse, and inscribed words of power and mystical symbols.
 
 Once the tablet was inscribed, the sorcerer folded the tablet over upon itself to conceal the writing and then transfixed it with a nail, often one that had been used in a crucifixion. The ritual was completed when the defixio was deposited in a suitable location. Defixiones seeking revenge or destruction were often placed in a place where Pluto or Hecate were worshipped. Those seeking justice or victory were frequently placed in an oracle or spring dedicated to Minerva or a local deity. Defixiones used to control ghosts were usually placed in that ghost's grave.
 
-#### **Silhouettes**
+#### Silhouettes
 
 Cultists of Hecate specialized in the creation of silhouette defixiones. These devices were created during a ritual that involved molding a statuette of the target in lead. The cultist then engraved the statuette with a description of the individual and words or symbols of power. While reciting an oral formula to empower the defixio, the cultist used a heavy weight to smash the figurine flat, which left a thin, silhouette-shaped figure. The cultist then deposited the defixio in an inaccessible location, such as an underground body of water, or an oracle or sanctuary dedicated to an appropriate deity.
 
-#### **Figurines**
+#### Figurines
 
 Cultists of Ceres and Proserpina specialized in the creation of figurine defixiones. The figurines were most often used in ceremonies to inspire love or lust in a target. As part of a lengthy ritual, the cultists created a figurine by molding a representation of the target from wax, clay, or wood. The sorcerer then etched the person's name into the figurine and, while reciting the oral formula to empower the defixio, impaled the figurine with numerous iron nails. The cultist then deposited the figurine in an inaccessible location, such as a well, underground stream, or spring dedicated to the appropriate deity.
 
-#### **Formulae**
+#### Formulae
 
 In addition to requiring the creation of one of the three physical examples above, defixio rituals also involved an oral component. These formulae were essential to empowering the defixio to channel the underlying magic that affected the target of the curse. These rituals were often recorded in large collections — some of which still exist. Although the investigators can learn much about the practice of defixio magic through examination of the physical remains, their research is made easier by acquiring and studying the accompanying formulae.
 
@@ -1633,7 +1633,7 @@ The ancient sources of defixio formulae are not texts in the traditional sense a
 
 If the investigator is able to discover a formula for the same cult as a defixio in his possession, the character receives a bonus of his Insight roll. Over the centuries, many formulae have been copied incorrectly, and original texts have been ravaged by time; therefore, few formulae are suitable for study. In addition to providing access to formulae, some ancient texts provide descriptions of the most efficacious locations to deposit defixiones. These descriptions can provide the investigator valuable clues in recovering specimens for study.
 
-#### **Toledo Scholars**
+#### Toledo Scholars
 
 Many texts from ancient Greece and Rome survived in Arabic translation throughout North Africa and other Moorish lands. Some of these texts have begun trickling back into Europe through Andalusia for the last century. The translation center at Toledo serves as a prolific source
 
@@ -1641,11 +1641,11 @@ of Latin translations of both ancient Greek and Egyptian texts.
 
 Because the Church sponsors the translation of these texts, the search for defixio formulae is difficult. When most Church officials uncover a magical text, they simply destroy it. Not all translators agree with this policy, however. The investigator may need to identify a sympathetic translator or blackmail one to locate suitable formulae.
 
-#### **Egyptian Formulae**
+#### Egyptian Formulae
 
 The Roman Empire had extensive contacts with Egypt, and defixio texts may still survive there. Many believe that defixio magic originated in Egypt. The Greek and Egyptian formulae, which were adapted by Roman cultists, still exist in the libraries of Moorish scholars and magicians in the Levant and Egypt. These texts may be the most comprehensive sources for defixio formulae, but they are also likely to be the most difficult to obtain, and require a journey to Islamic territory. Once obtained, the magus must translate and decipher them from Ancient Coptic or Greek before conducting any laboratory investigation or attempting to understand them.
 
-#### **Tremere Archives**
+#### Tremere Archives
 
 Some ancient collections of defixio formulae may have survived to the present in the hands of members of the Order. A sufficiently large collection of magical texts from the time of the Founders — such as the Tremere archives — might have some examples of defixio formulae. It is doubtful that anyone in that House attaches much importance to them, given the popular belief that the
 
@@ -1662,7 +1662,7 @@ Cultists of Pluto could coerce restless ghosts to perform fell deeds. Other cult
 
 Locating a graveyard in Rome is not difficult. However, finding one that contains useful defixiones presents a potential problem for investigators. The cultists favored the graves of children and victims of violence because they possessed vengeful ghosts willing to harm the living. Romans believed that people who died in an untimely fashion, especially those who died too young to have progeny of their own to tend their tombs, were likely to be restless spirits filled with hatred and jealousy for the living. Ghosts of individuals who were betrayed in death or died with an important task unfinished could remain active to the present. Rumors of haunted areas or ghosts may provide the investigators with some of their best leads.
 
-#### **The City of Rome**
+#### The City of Rome
 
 Rome has a current population of perhaps 10,000 permanent residents.
 
@@ -1670,7 +1670,7 @@ This number varies greatly depending on the season, being inflated by pilgrims a
 
 The investigator might encounter many problems searching in Rome. The least of these problems is that within the city walls his actions come under close scrutiny from Church and city officials as well as innocent bystanders. In addition, the powerful Dominion impedes the use of most magic, including the search, discovery, and excavation of tombs.
 
-#### **Old Rome**
+#### Old Rome
 
 Many of the gravesites of ancient Rome are no longer within the city proper. The area surrounding Rome, which was previously part of the ancient city, has become rural and is dominated by farms and pasture, with only scattered villages. Rural Rome possesses a weak Dominion aura that interferes with magic, but not to the extent of Rome proper.
 
@@ -1678,7 +1678,7 @@ Outside of Rome, investigators may more easily utilize Intellego spells to locat
 
 Both *Sense of the Lingering Magic* and *Sight of the Active Magics*, with Terram requisites, could detect active defixiones below ground. Unfortunately, these spells may be beyond the capability of a non-specialist or a junior magus. A different tactic might be to follow the approach that where there is smoke, there is fire. A magus using *See the Spirits of the Night*, or anyone with Second Sight, might stumble across a ghost from ancient Rome.
 
-#### **See the Spirits of the Night**
+#### See the Spirits of the Night
 
 InMe 30
 
@@ -1688,7 +1688,7 @@ The caster is able to see Mentembased spirits (ghosts) that are normally invisib
 
 (New Base 5 [Sense any Mentem spirit], +1 Conc, +4 Vision)
 
-#### **Ghosts of Ancient Rome**
+#### Ghosts of Ancient Rome
 
 The residents of rural Rome might direct the investigator to the general location of a ghost because it is relatively well known. One such example is the ghost of Libitina. Libitina was a priestess of the cult of Hecate in Rome. She was a powerful sorceress who was driven to achieve power at any cost. In pursuit of this quest, she murdered her own children and used their restless spirits to punish her enemies and guard her defixiones.
 
@@ -1696,11 +1696,11 @@ This foul act still binds Libitina to the world of the living. She haunts the co
 
 If the magi communicate with Libitina, they may be able to lay her ghost to rest. Once she admits that her deeds in life were despicable and cannot be undone by punishing others, she passes to the other side. As a reward, she provides the magus with a powerful defixio that she created to protect her grave. The statistics for Libitina are left to the discretion of the storyguide, but she should have a Might that presents a challenge to the group. Because she feels overwhelming guilt over her mistreatment of her children, a magus using *Coerce Spirits of the Night* on Libitina receives a +4 to his Presence for threats involving her children.
 
-#### **Catacombs**
+#### Catacombs
 
 While searching for defixiones, the investigators may stumble across the catacombs of Rome. The catacombs were subterranean burial places for early Christians that are located outside the walls of old Rome. Because Pre-Christian Roman law prohibited the interment of corpses within the city, Jewish citizens buried their dead outside the walls. When Christians came to the city, they continued the practice. The catacombs vary greatly and range from rough, narrow tunnels with small shelves for the dead to professionally finished stone tombs with stairs and shafts to the surface to provide light and ventilation. The catacombs fell out of use when the Empire became Christian, and their existence was generally unknown during the Middle Ages. It is possible that still-active defixiones rest in the catacombs, especially if they were intended to call forth the spirit of a Christian or Jewish ghost protected by a Divine burial.
 
-#### **Vardian's Tomb**
+#### Vardian's Tomb
 
 Although most of the catacombs possess a weak Dominion aura, this is not true for every one. Legend tells of Flambeau's conquest of a group of Roman cultists who refused to join the Order. Flambeau followed the fleeing wizards into the catacombs and, in an epic battle, killed them all, destroying their most powerful artifact — Vardian's skull. This powerful magical act created an aura that a small covenant utilizes today.
 
@@ -1711,7 +1711,7 @@ The magi of Vardian's Tomb also know that there are defixiones located throughou
 
 the Spectres (see below) to deal with him.
 
-#### **The Spectres**
+#### The Spectres
 
 The members of Vardian's Tomb are not the only people living in the catacombs. A group of bandits, calling themselves the Spectres, has also taken refuge there. The bandits have used the haunted reputation of the area to discourage resistance from their victims, and actively cultivate the impression that they are spirits. To this end, the Spectres cover themselves in charcoal dust and preface their attacks with eerie sounds produced by horns and other musical instruments.
 
@@ -1731,19 +1731,19 @@ Locating a sanctuary without specific directions is difficult. Because the sanct
 
 The cults that practiced defixio magic were present throughout the Roman Empire, but they were most heavily concentrated on the Italian and Grecian peninsulas. The example sanctuary below is dedicated to Hecate and is set in the Cambunian Mountains of the Theban Tribunal, but it could be almost anywhere and, with little effort, it could be dedicated to any of the chthonic gods.
 
-#### **Cave Complex**
+#### Cave Complex
 
 The entrance to the cave is rough-hewn and barely large enough for an adult male to enter on his hands and knees. The tunnel extends for several yards before opening into a large multi-room complex of finished stone. An alabaster altar with a fire pit in front of it dominates the largest room. This is where the cult's most powerful ceremonies took place. The walls of the main chamber are covered with small niches that contain defixiones, some of which are suitable for study.
 
 The rear chambers were living and working areas. If other parties have not taken the defixio formulae of the cult, they are located here. The complex also has caves that lead deeper into the mountain. Within these caves, the remains of some the cult's victims and its dead members are interred.
 
-### **Protective Defixiones**
+### Protective Defixiones
 
 The cultists of Hecate have created defixiones to summon spirits or cast harmful spells on any man who enters the sanctuary. The spirits should be numerous and powerful enough to pose a threat to a moderate-sized Spring covenant. The curses are equivalent to powerful Perdo Corpus spells of the fifth, sixth, or seventh magnitude. The defixiones are staggered to affect the intruder consecutively as he goes deeper into the sanctuary. If the defixiones guarding the sanctuary can be removed without triggering their curses, they provide a potent source for study.
 
 Their removal is relatively simple if the characters know that only a male activates them. Any woman may enter and exit the sanctuary with impunity. Discovering this trigger is only possible if one of the defixiones can be studied. The easiest way to disarm the cave is for a magus to locate the active defixiones through a Muto Terram spell to turn the walls of the cave transparent. Once the defixiones are located, the magus can then use *Unseen Arm* to remove them from the cave. Of course, while they remain physically intact the defixiones continue to protect the sanctuary regardless of their actual location. Destroying them ends the protection, but also makes them unsuitable for investigation.
 
-#### **Erebos**
+#### Erebos
 
 The cave complex is home to a colony of bats. The bats have lived in the strong magical aura of the sanctuary long enough to become warped by it. Some of these warped bats have a Magic Might of 15 and the ability to become invisible when stationary, as in *Invisibility of the Standing Wizard*. The warped bats do not attack the characters, and the characters may not even notice them. The body of each magical bat has three pawns of Perdo vis. The total vis available is equivalent to two high-level vis sources for the saga (see *Covenants*, page 72).
 
@@ -1753,7 +1753,7 @@ The covenant has clearly marked the entrance to the cave as its property. Its ma
 
 The magi can be reasoned with, and a well-thought-out plan assuages most of their fears. However, they are not willing to endanger their vis source or give up the vis-laden defixiones without suitable compensation. The magi of Erebos may consider allowing the investigators access to the cave in exchange for assistance in resolving their conflict with the Daughters of Erictho.
 
-#### **Daughters of Erictho**
+#### Daughters of Erictho
 
 The Witches of Thessaly were also worshippers of Hecate and are experts in sorcery, necromancy, and the dark arts (see *Realms of Power: The Infernal*, page 140). Many of the Witches joined House Ex Miscellanea, but a small number of the holdouts survive today in the Cambunian Mountains. These witches are known as the Daughters of Erictho. The Daughters are powerful adversaries with a strong dislike for the Order.
 
@@ -1826,7 +1826,7 @@ This spell indicates the general health and sex of an unborn child. A Perception
 
 (Base 4, +1 Touch)
 
-#### **The Frozen Womb**
+#### The Frozen Womb
 
 MuCo 35
 
@@ -1838,7 +1838,7 @@ The spell can be cast at yearly intervals in order to delay a pregnancy for year
 
 (Base 10, +1 Touch, +4 Year)
 
-#### **Black Anne's Kiss**
+#### Black Anne's Kiss
 
 PeCo 10
 
@@ -1848,7 +1848,7 @@ This spell wounds an unborn child, causing the fetus to abort. A Stamina stress 
 
 (Base 5, +1 Touch)
 
-#### **The Promenade of Caesar**
+#### The Promenade of Caesar
 
 ReCo 15
 
@@ -1862,7 +1862,7 @@ This spell transports an unborn child instantly out of his mother's womb, to a d
 
 Some example items that utilize the Target Unborn Child are described below. These items may be invented during the integration of fertility magic and Hermetic Theory.
 
-#### **The Mystic's Forceps**
+#### The Mystic's Forceps
 
 MuCo 5
 
@@ -1874,7 +1874,7 @@ These forceps are using during birth, and temporarily reduce the size of the bab
 
 (Effect: Base 3, +1 Touch, +1 Conc; Modifications: None)
 
-#### **Black Anne's Ointment**
+#### Black Anne's Ointment
 
 PeCo 10
 
@@ -1886,7 +1886,7 @@ When this ointment is smeared over the belly of a pregnant woman, it wounds her 
 
 (Effect: Base 5, +1 Touch; Modifications: None)
 
-#### **Potion of Creation**
+#### Potion of Creation
 
 CrCo 25
 
@@ -1904,7 +1904,7 @@ The Fertility Ritual is a special ritual performed during conception. It is simi
 
 The first step to devising a Fertility Ritual is to calculate the maximum number of Trait Points of the ritual. The ritual is worth 1 Trait Point for every 10 points or fraction thereof of the magus's Creo Corpus Lab Total. The magus may receive a bonus to his Lab Total if he has a fertility fetish prepared by the intended mother (see below).
 
-#### **Maximum Trait Points: 1 for every 10 points or fraction of Creo Corpus Lab Total**
+#### Maximum Trait Points: 1 for every 10 points or fraction of Creo Corpus Lab Total
 
 Next, the traits that the child should manifest are chosen. Each trait costs a number of Trait Points, and the total number of Trait Points cannot exceed the maximum calculated for the ritual.
 
@@ -1950,7 +1950,7 @@ The traits of the parents are irrelevant to the Fertility Ritual, so it is perfe
 
 Fertility fetishes are small representations of a pregnant woman crafted by a woman under the tutelage of a character who has the Ability Fertility Lore. A single fertility fetish may be used to add a bonus to the magus's Lab Total when devising a Fertility Ritual spell. If a fertility fetish is used, then the Fertility Ritual so developed may only be used for a child of the woman who made the fetish.
 
-#### **Fertility Fetish Lab Total Bonus: mother's (Dex + Craft Ability) + supervisor's Fertility Lore Ability**
+#### Fertility Fetish Lab Total Bonus: mother's (Dex + Craft Ability) + supervisor's Fertility Lore Ability
 
 A woman must construct her own fertility fetish, but she may use virtually any Craft Ability that produces a physical artifact. The construction of the fertility fetish occupies the woman for a season, during which time she must be supervised by a character with the Arcane Ability Fertility Lore. The creation of a fertility fetish is automatic, but the skill of the mother and the supervisor does affect the bonus that the magus gains. A character only needs to have the Ability Fertility Lore to supervise the construction of fetishes, and may supervise a number of mothers, per season, equal to up to his Leadership Ability Score. This does not distract him from other work during the season.
 
@@ -1997,7 +1997,7 @@ A gallery that depicts Fertility Rituals may be investigated by a magus, as a so
 
 A mundane mason can successfully remove a cave painting on a Dexterity + Craft Masonry stress roll against an Ease Factor of 15: a botch means that the mason destroys the painting. Once removed, the painting weighs about 400 pounds. Alternatively, a Rego Terram spell similar to *Hand of the Antiquarian* can be used.
 
-#### **Hand of the Antiquarian**
+#### Hand of the Antiquarian
 
 ReTe 15
 
@@ -2011,7 +2011,7 @@ The magus traces around a section of stone up to one pace in diameter. That sect
 
 Of course, any magus who starts investigating isolated caves searching for ancient fetishes and cave paintings may encounter the current inhabitants — who may not welcome the intrusion. Anyone or anything may be living in a cave: a faerie, an animal, a magical beast, a demon, or nothing at all. Most are totally unaware of any connection between their cave and the practices of an ancient fertility cult. Exactly what is in any particular cave is entirely at the discretion of the storyguide, but below are some examples of what might be found in different, individual caves.
 
-#### **The Duergar's Cave**
+#### The Duergar's Cave
 
 This cave has a Faerie aura of 3 and is the home of a bad-tempered faerie named Orpee. Orpee is a Duergar, a race of dwarf faeries who are notoriously malicious towards men, and he works in the smithy of
 
@@ -2047,7 +2047,7 @@ Bludgeon: Init –1, Attack +6, Defense
 
 **Abilities:** Area Lore 2 (iron deposits), Awareness 3 (underground), Brawl 4 (bludgeon), Carouse 1 (with craftsmen), Craft Ironwork 3 (horseshoes), Faerie Lore 2 (Duergar), Living Language 5 (blacksmithing terms), Stealth 4 (underground), Survival 5 (underground)
 
-#### **Powers:**
+#### Powers:
 
 *Iron Glare*, 3 points, Init +10, Terram: Orpee can inflict a Medium Wound on anyone with whom he makes eye contact (for a description of targeting effects with Range Eye see ArM5, page 111).
 
@@ -2097,7 +2097,7 @@ Dodge: Init +1, Attack n/a, Defense
 
 **Abilities:** Area Lore 3 (plants), Awareness 4 (forests), Charm 3 (men), Folk Ken 2 (travelers), Guile 3 (Orpee), Faerie Lore 2 (forests), Living Language 5 (plants), Profession Herbalist 4 (growing plants), Stealth 7 (forest), Survival 3 (forest)
 
-#### **Powers:**
+#### Powers:
 
 *Into the Trees*, 2 points, Init +10, Herbam: Senna can move inside any living plant that is bigger than she is. She is aware of everything about her, as normal, and cannot be harmed when she is inside a plant, but if the plant is destroyed Senna is too. A plant can be destroyed by being either uprooted, or totally consumed by fire. She can leave the plant again at will.
 
@@ -2117,21 +2117,21 @@ Orpee's wife, a forest sprite named Senna, lives in a fertile dell near the cave
 
 The cave contains two ancient fertility fetishes.
 
-#### **The Cave of Lights**
+#### The Cave of Lights
 
 The ceiling of this cave system is filled with tiny lights that are in fact tiny magical insects, which glow in the dark like stars. The configuration of the insects on the cave roof actually matches the star field outside the cave, but the star field inside the cave includes extra stars that are invisible to the naked eye. A character can use the cave roof as an astronomical aid and gains a +3 bonus to all Artes Liberales (astronomy) Ability rolls made while within the cave. In addition, twice a year, the insects that represent the positions of Jupiter and Mars may each be harvested for vis and contain one pawn of Rego vis and Perdo vis, respectively. The exact time that this occurs varies from year to year and is different for each planet, but can be determined with a successful Intelligence + Artes Liberales (astronomy) roll against an Ease Factor of 9. The cave contains two fertility fetishes and a gallery that depicts the fertility ritual.
 
-#### **The Worm's Cave**
+#### The Worm's Cave
 
 A large and ancient worm, almost 100 feet long, inhabits this cave. The local people greatly fear the worm, especially its frequent forays during inclement weather, when it eats stranded stock and even the occasional shepherd. Once, the worm was a sea creature: it swam into the cave during the flood, and became stranded when the waters receded. Since then, the worm has adapted to living far from the sea; in fact, it has thrived by preying on the livestock of local farmers. The worm no longer desires to return to the sea, but when it rains it does remember the enveloping caress of the sea and ventures from the cave so that it can again feel water flowing over its body. The worm has no knowledge of the Order of Hermes or indeed any other human institutions; its only real concern is for itself and its continued survival. The worm's cave contains three ancient fertility fetishes.
 
-#### **The Flooded Cave**
+#### The Flooded Cave
 
 In the millennia since this cave was abandoned by the fertility cult several earthquakes have struck, disrupting the geography of the region. One of the earthquakes caused the diversion of a river, which flooded the cave. Today, the river runs into the cave and drains through a whirlpool in the rear chamber of the cave. The whirlpool, through a network of tunnels, feeds a nearby lake.
 
 A character exploring the flooded cave notices that the water flows, with a rapidly increasing velocity, towards the rear chamber, If he enters the rear chamber he must, each round, make a Strength + Swim roll versus an Ease Factor of 12 to avoid being sucked into the whirlpool. After about ten minutes of bumping and buffeting through the tunnel network, a character that is sucked into (or voluntarily enters) the whirlpool is expelled into the lake. Every minute a Stamina + Swim roll is made for the character versus an Ease Factor of 12; if the roll is failed the violent buffeting inflicts a +15 injury (see ArM5, page 181). In addition, the character may take damage and drown due to lack of air (see ArM5, page 180). The cave system contains two fertility fetishes that can be retrieved from inside the flooded tunnel network.
 
-#### **The Bone Cave**
+#### The Bone Cave
 
 This cave system has a single entrance formed by a fissure in the side of a mountain, and is currently used as a burial site by a group of villages that are clustered together in the shadow of the mountain. The villagers have been using the cave for this purpose for centuries, and now the cave is filled with the skeletal corpses of their ancestors. Roman missionaries who adapted their own rituals, to ease the villagers' doubts about conversion, preserved this eccentric burial ritual when they converted the region to Christianity.
 
@@ -2173,7 +2173,7 @@ The worm attacks by attempting to envelope and disable prey by grappling them in
 
 **Abilities:** Area Lore 5 (ambush sites), Awareness 5 (movement), Brawl 5 (grapple), Hunt 7 (prey lost in a storm), Magic Lore 3 (worms), Living Language 5 (shepherd terminology), Stealth 6 (hiding), Survival 10 (local area), Swim 10 (great depths)
 
-#### **Powers:**
+#### Powers:
 
 *Wound the Sky*, 10 points, Init, Aquam: The worm can call up an immense deluge that causes rain to fall from the sky for a duration of Sun, over an area about ten miles in diameter. It is virtually impossible for a normal individual to move about during the deluge, and for each character out in the open, a Stamina roll against an Ease Factor of 12 is made every ten minutes. If the roll is failed the character loses a Fatigue level, and any character that becomes Unconscious likely drowns. The deluge also causes rivers in the area to flood, which can cause damage that lasts for years.
 
@@ -2308,13 +2308,13 @@ If the magus wishes to break the Limit of Vis, it requires a Hermetic Breakthrou
 
 for vis of any other Art. Hermetic magic will be forever changed.
 
-#### **Araquiel's Secret**
+#### Araquiel's Secret
 
 *Minor, Supernatural (Divine)*
 
 Some say that what the Grigori taught their students was the basis of Hermetic magic. Sadly, as there are no living practitioners of these arts, it is difficult to say with certainty. There are definitely links between the two, however, as this Virtue demonstrates. Araquiel's Secret allows anyone who possesses it and who can use the Arts of Creo, Corpus, and Terram to use vis for any of these Arts interchangeably. When using vis in this way in either a Divine or Infernal aura, however, the wielder must roll double the usual number of botch dice. Araquiel's Secret also allows the possessor to ignore Creo, Corpus, or Terram requisites for any spell that uses another of these three Arts.
 
-#### **Araquiel's Legacy**
+#### Araquiel's Legacy
 
 *Minor, Hermetic*
 
@@ -2407,7 +2407,7 @@ These stelae have a special connection to the descendants of the original inhabi
 
 Ambitious magi might seek to cut the relics of the Grigori out of the picture entirely and instead seek their creators as a source of Insight. The *Book of the Watchers* describes how the Grigori were cursed by God and chained to the earth to suffer until the day of judgment. Their leader, Semyaza, was bound "into the valleys of the earth" by the archangel Michael, while one of their chiefs of ten, Azael, was cast into a great pit in the desert and covered with sharp rocks by Raphael. Many of the Grigori fell and became demons. (For more on the demonic Grigori, see *Realms of Power: The Infernal*.) Some, however, accepted their fate and remained Holy Watchers.
 
-#### **The Shamed Leader**
+#### The Shamed Leader
 
 St. Nerius records that the monks of the monastery of St. Jacob on the slopes of Mount Ararat have a legend that when the flood waters subsided and the Ark came to rest on the mountain, Noah and his family were careful to avoid the northern face, for the Lord warned them away from it. He also writes that stones akin to those found on the slopes of Mount Hermon have been found near Mount Ararat as well. These legends are not without foundation.
 
@@ -2480,7 +2480,7 @@ village of Ahora. Shamsiel's prison is a huge gorge almost two miles deep and mo
 
 Despite his imprisonment, Shamsiel bears no hatred toward the Lord or his servants. With the grace that only an angel can muster, he has accepted his punishment as the bitter fruit of his misguided labors. He believes that in the last days he will be cast into the lake of fire, but he knows that he deserves it for what he has done. As a result, the prideful Watcher has become an almost shameful creature. He is still a master of magic, however, and he is willing to teach his secrets to anyone who promises to use them for holy purposes. When he was cast down into the gorge, the Lord told him that one day the world would be ready for secrets of magic, and that any pious magus who sought out Shamsiel's prison was worthy of his teachings. Any magus who spends a full year in the regio and convinces Shamsiel to teach him not only acquires Insight he may use to integrate Grigori Magic with Hermetic theory, he also gains the Supernatural Virtue Shamsiel's Gift, as per Shamsiel's *Grant Secret* Power. He also gains the Pious Minor Personality Flaw if he did not already have it.
 
-### **The Fallen Watcher**
+### The Fallen Watcher
 
 *Then he shall take the two goats, and set them before The Lord at the door of the tent of meeting; and Aaron shall cast lots upon the two goats, one lot for The Lord and the other lot for Azael. And Aaron shall present the goat on which the lot fell for The Lord, and offer it as a sin offering; but the goat on which the lot fell for Azael shall be presented alive before The Lord to make atonement over it, that it may be sent away into the wilderness to Azael.*
 
@@ -2550,7 +2550,7 @@ fied within the regio, and the landscape is even less welcoming. The bones of th
 
 Azael is eager to teach any magus who penetrates this regio and spends a full year there the Supernatural Virtue Azael's Secret, provided that the magus promises Azael that he will use it to spread sin and wickedness. The character also gains the Corrupted Abilities Supernatural Flaw (see *Realms of Power: The Infernal*, page 87).
 
-#### **The Remains of the Watchers**
+#### The Remains of the Watchers
 
 The locations of the other bound Holy Watchers are unknown, and the *Book of the Watchers* gives no clue as to
 
@@ -2616,7 +2616,7 @@ Knowledge of what mechanica are, how to construct them, and how to use them. Pri
 
 Before starting, the magus must obtain uncorrupted versions of Heron's texts and working mechanica. Studying these provides the magus with Insight and provides a one-time bonus to the magus's Lab Total when inventing a Hermetic device that mimics the effects of either a studied mechanica or a mechanica described in one of Heron's texts. Mechanica provide a bonus equal to the magnitude of the device's effect. Uncorrupted texts provide a bonus equal to their Level or Quality (whichever is lower) for inventing a device described in the text. Broken mechanica do not provide Insight. An anima may provide several instances of Insight (one for each of its effects) or serve as a Teacher (see the Introduction) at the storyguide's discretion.
 
-#### **Understanding Mechanica**
+#### Understanding Mechanica
 
 A magus may wish to use a mechanica as well as study it. The magus spends one season in the laboratory investigating the device as per the Investigating Enchantments rules (ArM5, page 100). If the study total generated exceeds the level of the effect in the device, the magus understands the device sufficiently to use the device in addition to it possibly providing the researcher with Insight.
 
@@ -2632,7 +2632,7 @@ Creating a mechanica requires a season or more of work in a laboratory after whi
 
 **Creating Mechanica Cost: 1 Mythic Pound per 3 points of Mechanica Creation Level**
 
-#### **Mechanica Creation Level Modifiers:**
+#### Mechanica Creation Level Modifiers:
 
 | Modifier                     | Effe<br>ct |
 |------------------------------|------------|
@@ -2687,7 +2687,7 @@ A mutable item is created like a Lesser Enchanted Device with the new Mutable De
 
 This study is performed concurrently with the first season spent studying a mechanica.
 
-#### **Integration Process**
+#### Integration Process
 
 Once an Insight Lab Text is created, the magus can begin the process of integration with Hermetic theory by devising enchanted items which Hermetically duplicate the mechanica's effects. Though a magus cannot create an Awakened Device prior to making the requisite Breakthrough, duplicating the functions of mechanica (which need not be awakened devices) are acceptable sources of breakthrough points for this.
 
@@ -2725,7 +2725,7 @@ This Virtue confers the ability to awaken imbued devices.
 
 Through the use of logical principles developed by Heron, a magus can awaken the spirit slumbering within a simulacrum. Magi should take great care in what they choose to awaken, as the resulting personality derives from its form and material. When awakened, the resultant being has one or more Personality Traits based on the material and simulacra of the body, as noted above. When designing simulacra, a magus may add a number of points to the Magic Might up to his Magical Theory score.
 
-#### **Awakened Device's Magic Might: Material Base Points + Magic Theory**
+#### Awakened Device's Magic Might: Material Base Points + Magic Theory
 
 Magic Might determines the Awakened Device Level needed to construct it, and the limit of pawns of vis that may be used to instilled spell-like effects in it. Since this is a magical creation, Magic Might is also the Awakened Device's Magic Resistance. The device requires sufficient Vim vis to open the enchantment as per making an enchanted device (see ArM5, page 96–100) plus one pawn of Creo or Form-specific vis per point of Magic Might. In addition, constructing the simulacra costs a number of Mythic Pounds equal to its Material Base Points.
 
@@ -2761,11 +2761,11 @@ equivalent Hermetic item. Mechanica of Heron Tractatus Quality 7
 
 Over centuries, Heron and his disciples constructed hundreds of mechanica, but the majority have disappeared. A few remain in the hands of collectors who seldom know their true value. Others await discovery. Examples of the more useful mechanica include the following.
 
-### **Fire Quencher**
+### Fire Quencher
 
 This large fire pump uses hydraulic pressure and Heron's techniques to extinguish even magical flames. Mechanicians built many of these devices. The vigiles of ancient Rome and Alexandria used them to protect the cities from fire.
 
-#### **Quench the Flames**
+#### Quench the Flames
 
 PeIg 19
 
@@ -2779,13 +2779,13 @@ So long as the water tank is full, the pump can extinguish any flames its water 
 
 (Effect: Base 3, +2 Voice, +2 Group; Modifications: 12/day +4) (Level: 7)
 
-#### **Aeolipile**
+#### Aeolipile
 
 The Aeolipile is the first known device to transform steam into rotary motion. It consists of a hollow sphere mounted so that it can turn on a pair of hollow tubes that provide steam to the sphere from a cauldron. The steam escapes from the sphere from one or more bent tubes projecting from its equator, causing the sphere to revolve.
 
 When properly constructed, it has a mesmerizing effect upon any observers, allowing scholars to focus the attention of students and demagogues to gather mobs. The effects end when the water boils away or the user loses control of the device.
 
-#### **Beguile the Gathering**
+#### Beguile the Gathering
 
 CrMe 33
 
@@ -2801,13 +2801,13 @@ Those entering the area of effect become curious and stay to watch for the durat
 
 (Level: 13)
 
-#### **Thunder Maker**
+#### Thunder Maker
 
 Heron designed many of his devices for use in temples and theater. The thunder maker was used in both to accompany the exit and entrance of gods during plays. Other versions sounded like brazen trumpets, and blared when doors opened, heralding the arrival of priests, magistrates, and imperators.
 
 Bellows filled a chamber that discharged a thunderous rumble. In the close confines of a temple or theater, the effect was nothing short of awe-inspiring.
 
-#### **Theurge's Trumpet**
+#### Theurge's Trumpet
 
 CrAu 19
 
@@ -2827,19 +2827,19 @@ Investigation reveals that the last known Mechanicians lived in Constantinople d
 
 its own accord. Even the Hagia Sophia with its innovative architecture bears the mark of Heron's dead hand.
 
-#### **Constantinople: The Ruined Metropolis**
+#### Constantinople: The Ruined Metropolis
 
 Once the greatest city in the world, Constantinople has fallen upon hard times. Entire districts stand abandoned or destroyed. Everywhere the traveler looks, the effects of the Fourth Crusade are plain to see. Crusader nobles and Italian merchants have seized ancient homes and villas for their own. These foreigners might be persuaded to sell their "old Roman junk," such as broken mechanica or unread books, to magi. With luck, magi may find themselves obtaining treasures of ancient literature for a pittance of what they might pay in the book-poor West.
 
 Finding Justinian's artifacts is more difficult. The magi must deal with charlatans, thieves, and overly curious Churchmen. The sad truth is that Justinian and his court are 800 years dead, and little survives from that time.
 
-#### **The Churchman**
+#### The Churchman
 
 The only uncorrupted text readily available in Constantinople is a remarkably well-preserved copy of Heron's *Automata* (Mechanica of Heron Summa Level 4, Quality 7), in the original Greek. It lies in the hands of Monsignor Bertrando de Pepoli, an official attached to the Papal legate. Bertrando is willing to sell the book but his price is unreasonably high. He wants a prince's ransom in silver, citing its "blasphemous" contents. After all, anyone interested in such a "dangerous" work is clearly suspect. Negotiations are delicate, for Bertrando has no compunctions about using the legate's power for his own ends. Should he become aware of the magi's true nature, he changes his tune and quickly trades it for a trifling magical favor —a "bargain" which may come back to haunt the magi.
 
 Written in the book's margins is an eyewitness account of Hypatia of Alexandria's burial; how she was laid to rest next to her father, Theon of Alexandria, in one of that city's many Temples of Serapis, along with many codices and scrolls salvaged from the Library of Alexandria. The account contains enough information to locate the temple.
 
-#### **A Beggar's Treasure**
+#### A Beggar's Treasure
 
 News of the magi's investigations makes its way to the ears of Basil the Leprous, the uncrowned king of Constantinople's innumerable beggars. Basil sets a trap for the magi, sending one of his followers to approach the magi. He claims to know about one of the "jeweled toys" they seek and can even describe Justinian's Nightingale accurately.
 
@@ -2847,7 +2847,7 @@ The beggar leads those following him into a ruined district where a large group 
 
 The Nightingale hangs back during the ambush but switches sides should the magi display any magical powers. It had been intending to simply flee and seek out the company of scholars and philosophers, but the magi's appearance piques its curiosity. If any of the magi can knowledgeably discourse on philosophy or natural history, they may have a friend for life.
 
-#### **Alexandria**
+#### Alexandria
 
 The Fifth Crusade raged across Egypt and Crusader armies captured Damietta in 1219. They remain there until their defeat in 1221. Crusaders do not return to Egypt until 1249 and the Seventh Crusade.
 
@@ -2867,7 +2867,7 @@ During the early fifth century, the city of Alexandria fell under the control of
 
 discovery as "Frankish spies." Blatant displays of magic bring them to the attention of Muslim scholars or sorcerers who may desire the contents of the temple for themselves. As befitting a major center of Islamic teaching, the Dominion is strong throughout the city, with an average aura of four. It is far higher around the numerous mosques, schools, and mausoleums.
 
-#### **Hypatia of Alexandria**
+#### Hypatia of Alexandria
 
 Hypatia was born in 370 AD, daughter of Theon, who was one of the last librarians at the Royal Library and Museum of Alexandria and a man widely considered one of the most educated in Alexandria. He trained Hypatia in the philosophical arts as well as in Heron's magical technique and she soon surpassed him in wisdom. As she grew older, Hypatia became a well-known lecturer at the Library of Alexandria and wrote several important treatises on astronomy, astrology, and mathematics. Some credit her with the invention of the astrolabe.
 
@@ -2918,7 +2918,7 @@ Dodge: Init 2, Attack n/a, Defense 8, Damage n/a
 
 **Abilities:** Artes Liberales 4 (rhetoric), Awareness 3 (alertness), Brawl 1 (dodge), Coptic 4 (crafters), Greek 6 (courtly), Area Lore Eastern Empire 2 (Byzantine Centers), Enchanting Music 6 (awaken), Folk Ken 4 (nobles), History 3 (personal experiences), Latin 5 (listening), Leadership 3 (intimidation), Magic Lore 3 (constructs), Philosophiae 5 (Aristotle), Second Sight 3 (intruders), Sing 6 (joyous)
 
-#### **Powers:**
+#### Powers:
 
 *Flying*, 0 points, constant, Auram: The Nightingale can fly like an ordinary bird, though its movements
 
@@ -2945,13 +2945,13 @@ Serapis was a hybrid god whose worship unified the cults of several Egyptian and
 
 While Serapis is a being of faerie, his temples are often magical sites due to the practices of the Mechanicians and other scholars who dwelt there. The temple where Hypatia and her father lived is one such location.
 
-#### **Entering the Temple**
+#### Entering the Temple
 
 The entrance to the lost temple is a shadow of its former glory. Built into the wall of a rickety tenement is the lintel of the destroyed temple. The pale granite slab is inlaid with worn Greek and Egyptian carvings praising Serapis and promising dire penalties to those who profane what lies under his protection. Examination by anyone with Magic Lore, Magic Theory, or Mechanica of Heron might discover (Ease Factor of 6) that the stone was once part of a much larger mechanica.
 
 When the Dominion aura dips below 4, the doorway to the Temple of Serapis appears as a ghostly archway of shadows beneath the lintel. Characters can enter the regio automatically if they carry a mechanica or bear signs of the Cult of Serapis. Alternatively, characters can enter the regio as described by the rules on page 189 of ArM5. The Dominion aura strength stays below 4 for only a few hours and then returns to normal, trapping anyone inside until the next ill-omened night, which may not be for weeks or months.
 
-#### **The Lost Temple of Serapis**
+#### The Lost Temple of Serapis
 
 The temple exists in a small level 4 Magic regio, which contains only the temple's interior. The temple's layout is classically simple. Four eternal braziers, one in each corner, fill the central room, or cella, with a flickering red light. As is common with Roman-style temples, the cella stands upon a masonry podium with two rows of pillars inside. Looming over the altar at the far end of the temple is a ten-foot-tall statue of Serapis. The statue gleams in the light from the gold covering its muscular frame, and his bearded face glares down at these intruders.
 
@@ -2963,7 +2963,7 @@ With a hiss of hydraulics, the great temple doors slam shut behind characters wh
 
 The temple has many devices that Hypatia can use against intruders with her Command Mechanica Power.
 
-#### **Statue of Serapis**
+#### Statue of Serapis
 
 The statue of Serapis stands over ten feet tall and is made of ivory plates cunningly fitted together over a brass frame. It depicts a Zeus-like figure dressed in a tunic with a magnificent beard. Gold foil and silver inlay covers much of the statue. The statue contains a powerful Theurge's Trumpet (see above) and Hypatia uses it upon intruders immediately. This mechanica is capable of sounding every ten rounds. The flickering shadows and flexible construction of the statue make it appear to move slightly but it is otherwise inert. Anyone desecrating or plundering it finds that Serapis takes an interest in him in the future.
 
@@ -3017,17 +3017,17 @@ Dagger: Init 0, Attack +6, Defense 3, Damage +2
 
 **Appearance:** Hypatia was once a beautiful woman, but all that remains of her now is a tortured wreck. Her long, black hair is the only remnant of her famous looks. Red-rimmed eyes glare from her mutilated face. Her olive skin hangs in strips where her attackers tore it with oyster shells. Hypatia wears a long bloodstained white robe and sandals in the ancient Alexandrian style.
 
-#### **Eternal Braziers**
+#### Eternal Braziers
 
 Two bowls of bronze contain leaping flames that have no source. A jet of non-magical fire doing +10 damage attacks anyone venturing within ten feet of them.
 
-#### **Temple Door**
+#### Temple Door
 
 Anyone standing in the doorway or attempting to leave the temple is in danger of being crushed by one of Heron's prized thaumata: the automated temple door. These heavy bronze doors slam shut or fly open with truly amazing speed. Those caught in the arc of the doors must make a Quickness – Encumbrance stress roll against an Ease Factor of 9 or be slammed for +15 damage. The
 
 doors can open and close once per round.
 
-#### **The Victors' Spoils**
+#### The Victors' Spoils
 
 Should the magi defeat Hypatia, they gain a great treasure in ancient wisdom but they must make haste to
 
@@ -3039,14 +3039,14 @@ lets stored there. Other relics of the Library of Alexandria might have survived
 
 In addition to whatever survives the battle, one other treasure awaits discovery. In the adyton (sacred chamber) is Heron's Theater, one of the greatest mechanica ever constructed.
 
-#### **Heron's Theater**
+#### Heron's Theater
 
 The automated theater was Heron's greatest masterpiece. Properly attuned and prepared, it shows its own stories, casting its figurines into a variety of roles and scenes. When started, the theater's stage doors open and miniature figures act out dramatic events accompanied by sound effects. Ostensibly powered by knotted strings with weights, it has a surprising tendency to improvise stories on its own. Those studying the theater might be particularly disturbed by the appearance of figurines resembling themselves in these spontaneous plays. Careful examination of these new plays may give inklings of events that have not yet come to pass.
 
 
 This device would fascinate any magi who seek a method of breaking the Hermetic Limit of Time.
 
-#### **The Web of Mnemosyne**
+#### The Web of Mnemosyne
 
 InIm 60
 
@@ -3064,7 +3064,7 @@ While searching for the surviving remnants of Heron's magic, Seekers
 
 > may come into conflict with others who have business with Heron or Hypatia.
 
-#### **Magi of Constantinople**
+#### Magi of Constantinople
 
 Several covenants of the Tribunal of Thebes maintain contacts or demesnes in Constantinople. These magi take a proprietary interest in the city and anyone venturing into it. One covenant, Michaels' Tabula, has actually established their covenant in an abandoned mithraeum in
 
@@ -3074,7 +3074,7 @@ If this covenant discovers the investigating magi, they demand first rights to a
 
 est of other magi in Heron's teachings. The Seekers may find themselves with a race to uncover Hypatia's tomb on their hands.
 
-#### **The Shadhali Brotherhood**
+#### The Shadhali Brotherhood
 
 Near the site of the ruined temple is the humble madrasa of the Shadhali Brotherhood. Ahmed Abu al-Abbas al-Mursi teaches Sufi mysticism to his followers here. The Shadhaliyyah are aware of the tomb as an ancient pagan temple and that the area about it is haunted. The have no other idea of its significance. Should they learn of the site's association with the Library of Alexandria, they may wish to take charge of such dangerous information. These mystics can prove dangerous should the magi provoke them with displays of devilish powers, or harm innocents while in Alexandria. Aside from their impressive martial skills, the Brotherhood wields great influence throughout all levels of the city.
 
@@ -3103,11 +3103,11 @@ Ptolemy published his techniques and around 8,000 coordinates in a work of seven
 The history of House Bonisagus records that Trianoma found Bonisagus by following the advice of the dragon of the Garden of the Hesperides. That dragon, Ladon, was visited in 1160 by an Arabic cartographer, and arranged for many flawed copies of Ptolemy's work to be made in Europe, to encourage magi to reconstruct it, and to visit him. The Order that he helped to nurture is now ready for the next stage in his plan.
 
 
-#### **A Change of Pace**
+#### A Change of Pace
 
 This chapter offers a more conventional story for players than the others in this book. The ancient magic the players can seek with this material is useful, but will not revolutionize the Order, and does not require integration. The system of coordinates is used as a lure, to draw characters to the Canary Islands, and into the service of the dragon. The Canary Islands are called the "Purple Islands" in this chapter, a Roman name with which magi might be familiar. They have been described in detail because they make an excellent Spring covenant setting: they are far from other covenants, rich in vis and trade goods, and are inhabited by people who assume that those who are magical make good rulers.
 
-#### **Consequences**
+#### Consequences
 
 Coordinates have a few advantages over standard Arcane Connections. They do not fade with time. They can be carried in the mind of a magus, stored as writing, or designed into magic items. They are information rather than objects, so they can be given away, and yet retained by the giver. They do not need to be collected from a place, because they rely on the Law of Names, not the Law of Contagion.
 
@@ -3134,7 +3134,7 @@ to the Garden of the Hesperides, on Junonia in the Purple Islands.
 
 Characters can learn the coordinates for a place in three ways: astrological observation of the fixed stars, accessing the stellar observations of other magi, or spellcasting. A character does not require starlight to use coordinates; the character can use known coordinates during the day, from inside buildings or, underground.
 
-#### **Observation of the Fixed Stars**
+#### Observation of the Fixed Stars
 
 Most of the stars do not move relative to each other in the sky, and thus are called the fixed stars. They also form a pattern that makes a set of angles with the horizon and with vertical lines. This pattern, called the array of fixed stars, looks slightly different at every location on Earth. The flawed copies of *The Geography* available in Europe describe how to quantify these differences.
 
@@ -3148,7 +3148,7 @@ A character who knows the array of fixed stars at the origin automatically knows
 
 Without an adequate observation of the array of fixed stars at the origin point, the character cannot derive new points. Ladon has engineered this omission to manipulate those who find his books into recalibrating the system, and visiting his lair.
 
-#### **Learning Coordinates from Other Astronomers**
+#### Learning Coordinates from Other Astronomers
 
 It is also possible to learn coordinates from other astronomers, including Ptolemy himself. Ptolemy lists almost 8,000 coordinates in *The Geography*, but notes that they are imprecise. Ptolemy's coordinates are extrapolated from descriptions of travel given by earlier authors, or sea captains, rather than stellar observation.
 
@@ -3158,11 +3158,11 @@ the fallen Western Roman Empire are often correct to within a few miles. Coordin
 
 The flawed copies that Ladon has sent to Europe contain a few excellent coordinates. He has selected them carefully to demonstrate the usefulness of the system. He hopes this will encourage magi to reassess the origin point, as described below, so that they can derive their own coordinates.
 
-### **Stellar Measurement by Spellcasting**
+### Stellar Measurement by Spellcasting
 
 The ability to cast spells which affect starlight is part of the Celestial Magic Mystery, which is included in Chapter 6: Hermetic Astrology in *The Mysteries Revised Edition*. The following spell is only available to characters initiated into Celestial Magic.
 
-#### **A Comparison of the Positions of the Fixed Stars**
+#### A Comparison of the Positions of the Fixed Stars
 
 InVi 25
 
@@ -3214,13 +3214,13 @@ A voyage to the Purple Islands is filled with danger. The Islamic rulers of sout
 
 Characters seeking the Zero Longitude may visit several of the islands before finding Junonia. The indigenous inhabitants of the Purple Islands, the Guan, are hospitable, and curious about travelers, but able to defend themselves if attacked. They lack ships, so the inhabitants of each island have developed a different dialect and variant of their religion.
 
-#### **The Code May Not Protect the Guan**
+#### The Code May Not Protect the Guan
 
 The Code of Hermes prohibits magi from interfering with mundanes, but the Guan are the servants of a caste of hedge magicians. The Order has historically asked powerful wizards to join, under threat of death. Weaker magicians, like the Guan kings, have usually been told to serve the Order or die. The servants of magicians are the property of those magicians, and may be legitimately targeted.
 
 Some in the Order would suggest that direct rule of the Guan is entirely within the Code. The Guan are not Christians, and their kings are always magicians. This has interesting political ramifications, but these are beyond the scope of this chapter.
 
-#### **Religion**
+#### Religion
 
 Most Guan worship a solar god. He has various names meaning sun (*"magec"*) or heavens (*"acoran"* on Canaria or *"achihuran"* on Ninguaria). Many Guan believe in a lesser, evil being who opposes their god. On Ninguaria he is called Guayota and dwells in Echeyde, the fiery hell within the volcano. These Guan have a Dominion aura around their settlements.
 
@@ -3262,7 +3262,7 @@ All meceny can perform the following effects, if assisted by their villages:
 
 Each meceny also has two minor effects that are unique to his tribe.
 
-#### **Lifestyle**
+#### Lifestyle
 
 The Guan are usually caves dwellers. Lacking caves, they build mound-like huts of earth. Each cave has been extended by generations of occasional labor, and can hold an extended family. Some communities have basic stockades encircling them. Communities of more than 100 people are rare.
 
@@ -3270,7 +3270,7 @@ The Guan usually have three social classes. A king, whose powers are tempered by
 
 Most islands have patriarchal societies, and their treatment of women varies. Women have greater property rights than in most parts of Europe, and it is often a capital offence for a man to insult a woman while he carries a weapon. On Planasia and Herbania, women are loaned to guests as a form of hospitality. Infanticide, of daughters after the first child, is practiced on Canaria and Junonia, when the population is unsupportable. On Canaria, property and the monarchy pass to men through the female line. On Junonia, the women are skilled warriors. In most communities, residents form monogamous relationships, but on Junonia and Herbania the Guan practice polyandry, in which one woman has multiple husbands.
 
-#### **Dialects**
+#### Dialects
 
 There are strong similarities between the island dialects. A person skilled in any Canarian dialect can communicate with speakers of other Canarian dialects as if his Ability were two points lower. A complicating factor is that four of the dialects, found on Capraria, Pluvialia, Canaria, and Ninguaria, have both spoken and whistled forms.
 
@@ -3278,7 +3278,7 @@ Silbo — whistled speech — was invented to allow shepherds to converse across
 
 Magi casting spells at Voice Range can use silbo to extend their range. Spells in silbo are considered to be cast in booming voice. Characters wanting to use silbo should consult the rules in Chapter 1: The Language of Adam, for guidance on casting spells using languages other than Latin.
 
-#### **Technology**
+#### Technology
 
 The Guan lack many technologies usually expected of urban communities. They do not have a written language. They do not have any metal tools or weapons. Strangely, for island dwellers, they do not build ships or boats.
 
@@ -3292,7 +3292,7 @@ Dueling sticks, which are carried as crosiers by Guan shepherds, are manufacture
 
 Those Guan weapons constructed with stone or volcanic glass, in lieu of metal, and have a Damage modifier 2 points lower than usual, to a minimum Damage modifier of +1.
 
-#### **Guan Melee Weapons**
+#### Guan Melee Weapons
 
 | Name                                              | Ability | Init | Atk | Def | Dam | Str | Load | Cost   |
 |---------------------------------------------------|---------|------|-----|-----|-----|-----|------|--------|
@@ -3304,7 +3304,7 @@ Those Guan weapons constructed with stone or volcanic glass, in lieu of metal, a
 | Threshing Flail (stone<br>head on leather thongs) | Single  | +2   | +3  | 0   | +5  | 0   | 2    | Inexp. |
 | Tabona (obsidian knife)                           | Brawl   | 0    | +1  | 0   | +1  | –6  | 0    | Inexp. |
 
-#### **Guan Missile Weapons**
+#### Guan Missile Weapons
 
 | Name                   | Ability | Init | Atk | Def | Dam | Range | Str | Load | Cost   |
 |------------------------|---------|------|-----|-----|-----|-------|-----|------|--------|
@@ -3319,7 +3319,7 @@ Guan men duel to settle their differences through a variety of martial sports, w
 
 Use of one of the following groups is suggested to stiffen the resistance of Guan communities that player characters have selected for invasion or harassment. They also provide suitable obstacles for those sagas where combat plays a major role. Troupes not wanting to disrupt Guan society should place the group on Aprositus, described below.
 
-#### **The Huntress in the Wood**
+#### The Huntress in the Wood
 
 Members of this group — detailed in *Houses of Hermes: Mystery Cults*, page 33 — wish to train a messiah figure for their Diana cult. The followers of the Huntress demand that this leader prove himself by killing the previous leader, the magus Quendalon, in Arcadia. They do not know whom Quendalon killed to claim, then desert, his role.
 
@@ -3328,7 +3328,7 @@ Quintus Sertorius was a Roman general in the first century after Christ. He fell
 Worshippers of Diana, on these islands, are descended from this officer cadre. If Sertorius was the previous leader, Merinita magi may face hostility from his descendants. Sertorius's spirit may remain on the island as a ghost, or a faerie counselor for the current high priest.
 
 
-#### **Emerald Adepti**
+#### Emerald Adepti
 
 Plato wrote that the Purple Islands were the remnants of Atlantis. This may explain the Guan, a race of white people without ships living on a cluster of islands off the coast of Africa. It may also explain the small step pyramids found in many parts of the islands. A loose association of Hermetic wizards interested in Atlantean magic, called the Emerald Adepti, may have established a covenant on the Islands to study Guan magic. Any Atlantean magic or artifacts the Guan have are used against aggressive explorers.
 
@@ -3336,7 +3336,7 @@ The oldest families provide the most skilled Guan magicians. These families have
 
 If the Guan do not have Atlantean secrets, then they are similar to the hedge magicians from **Ars Magica Fifth Edition** and other supplements, but are more skilled in their Supernatural Abilities. Most European hedge magicians pass information from master to student, while Guan dead form a repository of knowledge that allows Guan sorcerers to become increasingly skilled as each generation passes. Gifted Guan children usually have Ghostly Warders.
 
-#### **Pre-Hermetic Groups**
+#### Pre-Hermetic Groups
 
 The peasant class on the Purple Islands is descended from Berbers. They fled Mauritania when their king was murdered, and their land invaded, on the instructions of the Emperor Caligula. Their king, another scholar named Ptolemy, was the son of Cleopatra Selene, the daughter of Cleopatra and Marc Antony. Cleopatra Selene was a priestess of Isis. Cleopatra Selene's twin brother Alexander, the heir to the throne of Egypt, disappeared mysteriously from history. Many assume he was killed on the orders of Emperor Augustus, but if he fled to the Purple Islands, fragments of Egyptian sun worship may be found in the rituals that the Guan kings use to venerate their solar god.
 
@@ -3356,7 +3356,7 @@ The Ahoare are similar to the other Guan in many respects, but have unusual gend
 
 The monolith is the next waypoint in the characters' quest. It is the entrance to the Garden of the Hesperides, and the Zero Latitude runs through it. The king and queen of Acero may ask the characters to assist them with some task, before being shown the holy place of the island's religion. This obstacle should involve a minor story that highlights features of the Purple Islands setting that the characters have yet to encounter.
 
-#### **Entering the Garden**
+#### Entering the Garden
 
 The monolith serves as an entrance into the regio that hides the Garden of the Hesperides. Characters can enter the regio automatically, if they have the assistance of the king and queen of Acero. Magi who attempt to measure the locations of the fixed stars at midnight, near the monolith, are drawn through the boundary of the regio, along with their traveling companions. Alternatively, characters can enter the regio unassisted, as described by the rules on ArM5, page 189. The regio has a Magic aura of 9. Characters cannot enter the Garden by any means while facing east.
 
@@ -3368,7 +3368,7 @@ Each apple contains a pawn of Creo vis. If a character eats one of the apples, t
 
 The Garden of the Hesperides contains many other trees with extraordinary properties. Ladon believes these trees are a legacy of the last age of magic, and that they are the germ of the new age. He is willing to judiciously use their fruits, or the secrets of their propagation, to push history along his preferred path. In the Garden are fruits that can grant many Virtues, and others that act as single-use magic items, covering a broad range of effects.
 
-#### **The Three Hesperides**
+#### The Three Hesperides
 
 The Hesperides are three nymphs who tend the garden of Hera. Their names are Erytheia ("Red"), Hespera ("Evening"), and Asteropê ("Starfaced"). They are close friends with Ladon, despite his task of keeping them from stealing the apples of Hera, because they find his stories amusing.
 
@@ -3408,7 +3408,7 @@ Defense +4, Damage +1\*\*\*
 
 **Wound Penalties**: –1 (1–5), –3 (6– 10), –5 (11–15), Incapacitated (16–20)
 
-#### **Powers:**
+#### Powers:
 
 *Brilliance*, 1 point, Init +5, Imaginem: Each Hesperid has a power that causes blindness. Erytheia makes everything — including the victim's eyeballs — glow with a ruby light so that shapes are no longer discernable. Hespera drains all light, except for a single, useless, point, from her target's field of vision. Asteropê fills her victim's sight with flashes and sparks.
 
@@ -3422,7 +3422,7 @@ The best choice would be one of their missing sisters. Aegle ("Sunset") disappea
 
 The other Hesperides can tell the characters that the magus wanted to measure the breadth of the Twilight Sea. He could then have used another coordinate, measuring distance from the mundane world, to allow magi to enter regiones. He left all of his mortal possessions in the house of the Hesperides before sailing. His robes have the mark of House Criamon, and he owned a copy of *The Travels of Fedoso*.
 
-#### **Ladon**
+#### Ladon
 
 Ladon ("swift-flowing") is a 100 headed hydra. He has a copy of Ptolemy's *The Geography*, bought to the island by a Criamon magus seeking True West. Ladon has asked the nymphs to carve an interesting Ptolemaic co-ordinate onto each of the apple trees. By resting a head in one of these trees, Ladon can see what is happening at the nominated point. He reports amusing events to the nymphs.
 
@@ -3474,7 +3474,7 @@ The serpent grows with the following progression:
 
 **Reputations:** Dead (Students of the Classics) +5, Watchful (Students of the Classics) +3
 
-#### **Combat:**
+#### Combat:
 
 Up to 100 Bites: Init +6, Attack +20, Defense +15\*, Damage +10\*\* Constriction: Init n/a, Attack n/a, Defense +15\*, Damage +15\*\*\* Spit Blood: Init +6, Attack +12,
 
@@ -3499,7 +3499,7 @@ Dexterity, and Stamina. Slightly before this occurs, the serpentdryad gorges its
 
 based on their tree's magical microclimate.
 
-#### **How Deep Does Ladon's Strategy Go?**
+#### How Deep Does Ladon's Strategy Go?
 
 Ladon's story — that he wants magi to find new coordinates to trade with him — may be true, but it fails to account for an odd story from the beginning of the Order. Trianoma, seeking inspiration after failing to interest several magi in her new order, traveled to the end of the world. Her diaries, and the history of her lineage in House Bonisagus, say she "met a dragon in the Garden of the Hesperides, beyond Ethiopia" who counseled her to seek a particular magus, in the Alps. This was Bonisagus.
 
@@ -3513,7 +3513,7 @@ Ladon's story — that he wants magi to find new coordinates to trade with him �
 
 **Abilities:** A very wide variety, gained through Exposure, by using Ptolemaic coordinates to spy on people. He has many Lores of 9.
 
-#### **Powers:**
+#### Powers:
 
 *Effectively Tireless*, 0 points, Init 0, Animal: Ladon's heads sleep in sequence, so he is always conscious. If struck by a spell, or if he loses a Fatigue level that would cause unconsciousness, Ladon instead sends one of his 100 heads to sleep. This also alters his Fatigue levels, and is accounted for in the statistics above.
 
@@ -3535,7 +3535,7 @@ The story poses many questions:
 
 multiple copies of themselves, called Aspects, which have separate memories. If there are, the Ladons would want to exchange memories.
 
-#### **A Suggestion**
+#### A Suggestion
 
 As Atlantis drowned, 100 of its elect caste gathered together such power as they could, and created a garden. Within its living tissues they stored the secrets of many of their mystical sciences. They hoped that an Atlantean would survive, and use the garden to found a new civilization, but knew that they themselves would not.
 
@@ -3619,13 +3619,13 @@ Each hymn is learned as a Supernatural Ability, so normal rules for learning mul
 
 ### New Virtues
 
-#### **Hyperborean Hymnist**
+#### Hyperborean Hymnist
 
 *Minor, Supernatural*
 
 Your character knows the mystical songs that make up a Hyperborean hymn to Apollo. Your character starts with one recited hymn, which confers the Supernatural Ability of [Hymn] 1, and 15 levels of Powers (which have already been infused at the start of play). These may be increased during character creation as normal (although you must to spend seasons in play to infuse additional Powers). You may choose this Virtue multiple times to have your character know other hymns.
 
-#### **Hyperborean Descent**
+#### Hyperborean Descent
 
 *Minor, Supernatural*
 
@@ -3633,7 +3633,7 @@ Your character is a blood descendant of Apollo's chosen people, the sun people o
 
 Your character is longer-lived than most people, gaining a –2 to all Aging rolls and a +1 bonus when resisting illness. Your character may also learn Magic Lore during character creation.
 
-#### **Hyperborean Descent**
+#### Hyperborean Descent
 
 *Major, Hermetic*
 
@@ -3669,7 +3669,7 @@ Additionally, your character can perform one of two magical feats common to Hype
 
 A Gifted character who learns the Hyperborean hymns as her first and primary magical tradition gains a unique form of Warping called **Illumination** instead of generic Warping (ArM5, pages 167–168) or Hermetic Twilight (ArM5, page 88). As Hyperborean magic infuses the practitioner with the essence of Apollo, and as the character becomes more and more Warped, he takes on aspects of Apollo and becomes increasingly spirit-like. Hyperboreans called this "Illumination" or "Apollo's Light," and both welcomed and feared it. Illumination does not affect Hermetic magi, who always experience Twilight.
 
-#### **Apollo's Light**
+#### Apollo's Light
 
 Hyperborean wizards who are Warped gain an Apollonian Personality Trait with a rating equal to their Warping Score. Furthermore, if the Hyperborean wizard gains more than two Warping Points at once, he can be overwhelmed by the essence of Apollo (points gained from enchantment over a season do not count). The character must make an Illumination Control roll of Stamina + Concentration + highest Hymn Ability Score + stress die versus an Ease Factor of the character's updated Warping Score + number of Warping Points gained + aura + modifiers + stress die in order to retain control.
 
@@ -3707,7 +3707,7 @@ At the end of the duration of the transformation, the character must attempt to 
 
 **The Bright Lightening**: Some Hyperborean wizards relished Illumination. By voluntarily failing the Control roll, they gained a number of additional Warping Points equal to their Warping Score + aura + modifiers, and in return gained a number of experience points to be applied to a Hymn Ability, or divided between Hymn Abilities, of their choice. This, of course, increased the length of time they spent transformed.
 
-#### **Illumination Example**
+#### Illumination Example
 
 *Abaris Hyperberetaeos, a venerable and powerful Hyperborean priest, is the target*  *of a powerful mystical effect, which inflicts 3 Warping Points. He therefore needs to make an Illumination Control roll. Abaris's Warping Score is 8 (223 Warping Points). His Stamina is +2, his Concentration is 5, his highest Hymn Ability score is 11, he has the Major Hyperborean Descent Virtue (–4), and has 450 levels of powers infused into himself (+15). His Illumination Control total (before a stress die is rolled) is 18. He is within a +3 magical aura. The Illumination Ease Factor (before a stress die is rolled) is 26 (updated Warping Score 9 + Warping Points gained 3 + aura 3 – Major Hyperborean Descent Virtue 4 + infused power levels 15). If Abaris fails his Illumination Control roll (which is likely), he spends 226 hours (approximately nine and a half days) transformed into an animal or spirit. Alternatively, he could choose to voluntarily fail the roll, suffer a further 23 Warping Points (Warping 9 + aura 3 – Hyperborean Descent 4 + infused power levels 15) and gain 23 extra experience points to put into his Hymn Abilities (in which case, he would spend 23 extra hours transformed, for a total of 249 hours).*
 
@@ -3725,7 +3725,7 @@ Having infused the Power, he may perform it at will without the need to roll, as
 
 Invoking the Power takes roughly as long as performing a formulaic Hermetic spell, and requires that the character speak a brief prayer. He may not invoke the Hyperborean hymn Powers silently (even if he has the Quiet Magic Virtue, which only effects Hermetic magic), and he gains no extra benefits from increasing or decreasing the volume of the invocation. Hyperborean hymns do not require gestures. Some hymns, such as the Seven Beautiful Names of Light, may take longer to invoke during nighttime.
 
-#### **Hymn Recitation Example**
+#### Hymn Recitation Example
 
 *Quaesitor Moratamis stumbles upon an ancient manuscript that records the sacred hymn of Psyrinpheu, the fire breather. After much difficult study, she manages to learn the* 
 
@@ -3806,7 +3806,7 @@ Hyperborean ghosts may be able to teach the lost language, as may some spirits (
 Hyperborean hymns do not require vis, and do not require "Rituals" for high-level effects. A hymn may have permanent effects, such as healing or creation, with none of the requirements of Hermetic magic. Due to the high Ease Factor of some Powers, Hyperborean wizards often assisted each other by using the Ceremony Ability (see below).
 
 
-#### **Gaining New Powers and Improving Existing Ones**
+#### Gaining New Powers and Improving Existing Ones
 
 Each time you increase one of your character's Hymn Ability scores, he gains 15 additional levels in powers. The additional levels may be spent on new Powers, or on improving existing ones. You may choose to not spend some or all of the levels, and these may be later spent at any time on Powers through the recitation process. You may divide the levels between new Powers and improving existing ones as you wish, as long as your character's hymn recitation total equals or exceeds the total Ease Factor for all of the Powers combined.
 
@@ -3814,7 +3814,7 @@ To gain a new Power, the character must recite the hymn again and spend an addit
 
 To improve an existing Power, the character recites the hymn, with the Ease Factor determined by the difference between the Power's new level and its old one. This also takes a season to infuse. When he improves an existing Power, he may increase the Range, Duration, or Target of the Power; its Penetration; or the number of times per day he is able to invoke it. If he improves the Range, Duration, or Target, he may not use the Power at its lower level, only at its improved level.
 
-#### **Gaining and Improving Powers Example**
+#### Gaining and Improving Powers Example
 
 *Moratamis of House Guernicus has the Hyperborean hymn Psyrinpheu with a score of 1, with one Power. Upon increasing the Ability to 2, she gains an additional 15 points to spend on Powers, decides to infuse a new Power with a level cost of 10, and use the remaining 5 points to improve her existing Power. It takes Moratamis one season for each power she infuses, regardless of level.*
 
@@ -3848,7 +3848,7 @@ Each hymn includes a number of principles, which form the core of what the hymns
 
 All Hyperborean hymns may grant a form of Magic Resistance, as an infused power. Such Magic Resistance is very specialized and narrow. Additionally, constant Magic Resistance causes Warping Points.
 
-#### **Numina of Apollo [Hymn]**
+#### Numina of Apollo [Hymn]
 
 R: Per, D: Sun, T: Ind Vim, Pen +0, 1 use/day
 
@@ -3866,7 +3866,7 @@ Each hymn includes sample Powers, the Ease Factor required to recite them, the n
 
 Through Azai, Apollo gives and governs life and self. The beautiful light is the seat of authority, by which Apollo leads and rules. Azai is the wellspring of energy and vitality from which all things draw sustenance.
 
-#### **Principles**
+#### Principles
 
 *Animal*: birth
 
@@ -3884,9 +3884,9 @@ respect, spirits
 
 understanding
 
-#### **Example Azai Effects**
+#### Example Azai Effects
 
-#### **Apollo's Luminescent Blessing**
+#### Apollo's Luminescent Blessing
 
 R: Touch, D: Conc, T: Ind Ignem, Pen +4, 6 uses/day
 
@@ -3896,7 +3896,7 @@ Causes the touched character to glow with light that is as bright as daylight on
 
 Ease Factor: 5 Level Cost: 15 Principle: Light
 
-#### **Sovereignty of Phoebus Apollo**
+#### Sovereignty of Phoebus Apollo
 
 R: Sight, D: Sun, T: Ind
 
@@ -3910,7 +3910,7 @@ Ease Factor: 12 Level Cost: 34
 
 Principle: Authority, ghosts, leadership
 
-#### **Defy the Hound Cerebus**
+#### Defy the Hound Cerebus
 
 R: Arc, D: Conc, T: Ind Mentem, Pen +10, 1 use/day
 
@@ -3920,7 +3920,7 @@ This Power summons a ghost to whom your character has an Arcane Connection, or w
 
 Ease Factor: 15 Level Cost: 45 Principle: Ghosts
 
-#### **The Swan-Drawn Chariot**
+#### The Swan-Drawn Chariot
 
 R: Per, D: Sun, T: Ind
 
@@ -3940,7 +3940,7 @@ The emotions of Apollo Eloure are deep and momentous, and are a guide towards tr
 
 rule over the fields and water is soft, honest, and loving.
 
-#### **Principles**
+#### Principles
 
 *Aquam*: lakes, oceans, rain, rivers *Corpus*: blood, breasts, fertility, the
 
@@ -3950,9 +3950,9 @@ stomach *Herbam*: fertility
 
 maternal urges *Terram*: amber, silver
 
-#### **Example Eloure Effects**
+#### Example Eloure Effects
 
-#### **False Dream**
+#### False Dream
 
 R: Arc, D: Sun, T: Ind Mentem, Pen +4, 1 use/day
 
@@ -3962,7 +3962,7 @@ Changes the target's dreams to be anything the hymnist may desire. The target mu
 
 > Ease Factor: 8 Level Cost: 22 Principle: Dreams
 
-#### **Demeter's Blessing**
+#### Demeter's Blessing
 
 R: Sight, D: Sun, T: Bound Aquam, Pen +0, 1 use/day
 
@@ -3972,7 +3972,7 @@ Causes nourishing rain to fall upon a designated area up to 6 miles across.
 
 Ease Factor: 12 Level Cost: 35 Principle: Rain
 
-#### **Bestow Fecundity**
+#### Bestow Fecundity
 
 R: Touch, D: Mom, T: Ind Animal, Corpus, Pen +0, 1 use/day
 
@@ -3984,15 +3984,15 @@ This Power allows a touched person or animal to conceive a child, even if one of
 
 Iaó is Apollo's sensitivity, delight in pleasure, and his beauty. Through Iaó, Apollo attracts both men and women, revels in the world's luxuries, and creates beauty, whether music, poetry, or song.
 
-#### **Principles**
+#### Principles
 
 *Aquam*: cold, damp, the sky *Auram*: wind, sweet smells *Corpus*: disease, hearing, hunger, sight, taste, veins *Imaginem*: hearing, sight *Mentem*: affection, attraction, creativity, pleasure *Terram*: copper, emeralds
 
 *Vim*: auras, sensing magical effects *Other*: cleanliness, harmony
 
-#### **Example Iaó Effects**
+#### Example Iaó Effects
 
-#### **The Gift of Far-sighted Apollo**
+#### The Gift of Far-sighted Apollo
 
 R: Per, D: Sun, T: Vision Imaginem, Pen +0, 1 use/day
 
@@ -4000,7 +4000,7 @@ This Power allows your character to see clearly great distances, as if the area 
 
 > (Base 3, +2 Sun, +4 Vision) Ease Factor: 9 Level Cost: 25 Principle: Sight
 
-#### **Opening the Hidden Eyes**
+#### Opening the Hidden Eyes
 
 R: Touch, D: Conc, T: Sight Vim, Pen +0, 1 use/day
 
@@ -4010,7 +4010,7 @@ By this Power, the touched character is able to see the fluid vis of an area, th
 
 Ease Factor: 15 Level Cost: 45 Principle: Auras
 
-#### **Cleansing Libation of the Sybil of Cumae**
+#### Cleansing Libation of the Sybil of Cumae
 
 R: Touch, D: 19 Years, T: Bound Corpus, Pen +0, 1 use/day
 
@@ -4024,7 +4024,7 @@ Ease Factor: 18 Level Cost: 55 Principle: Disease
 
 Apollo Óai is intelligent, quick thinking, and expressive. The light breather is adaptable and eloquent, ruling over animals, subtlety, and the imagination.
 
-#### **Principles**
+#### Principles
 
 *Animal*: birds, crows, dolphins, grasshoppers, hawks, mice, snakes, swans, wolves
 
@@ -4036,9 +4036,9 @@ Apollo Óai is intelligent, quick thinking, and expressive. The light breather i
 
 travel, secrecy
 
-### **Example Óai Effects**
+### Example Óai Effects
 
-#### **The Unseen Traveler**
+#### The Unseen Traveler
 
 R: Per, D: Sun, T: Ind Imaginem, Pen +0, 1 use/day
 
@@ -4048,7 +4048,7 @@ Like a spirit, your character become completely invisible and undetectable (exce
 
 > Ease Factor: 5 Level Cost: 15 Principle: Secrecy
 
-#### **Turn to Lofty Heights**
+#### Turn to Lofty Heights
 
 R: Per, D: Spec, T: Ind
 
@@ -4060,7 +4060,7 @@ to control by Mentem and Vim spells, although it is invisible and intangible. If
 
 Principle: Intellect, spirits
 
-#### **Ride the Arrow of Abaris**
+#### Ride the Arrow of Abaris
 
 R: Sight, D: Mom, T: Ind Corpus, Pen +0, 1 use/day
 
@@ -4072,7 +4072,7 @@ This Power instantly transports your character to any place she can see. Most hy
 
 When in his firewalker guise, Apollo undertakes his duties with austere discipline and responsibility. Pentiterouni is the god's dour hard work as he walks steadily and without haste. It governs perseverance, temperance, control, experience, and earthy things.
 
-#### **Principles**
+#### Principles
 
 *Animal*: animal skin
 
@@ -4086,9 +4086,9 @@ sapphires
 
 *Other*: authority, caves, contractions, organization
 
-#### **Example Pentiterouni Effects**
+#### Example Pentiterouni Effects
 
-#### **Punishment of Marsyas**
+#### Punishment of Marsyas
 
 R: Touch, D: Mom, T: Ind Animal, Corpus, Pen +(user's total), 2 uses/day
 
@@ -4098,7 +4098,7 @@ When Apollo was challenged by the satyr Marsyas to a reed-pipe competition, he g
 
 Ease Factor: 10 Level Cost: 30 Principle: Skin
 
-#### **Radiant Mantle of the Night-Wanderer**
+#### Radiant Mantle of the Night-Wanderer
 
 R: Per, D: Spec, T: Ind Vim, Pen +0, 1 use/day
 
@@ -4115,7 +4115,7 @@ world clearly. Close examination of the character, with a Perception + Awareness
 
 Apollo the fire breather is the ambitious conqueror, tyrant, and general. Psyrinpheu is fiery and hot, sharp and bitter, and governs passion, feats of war, hazards, and victory.
 
-#### **Principles**
+#### Principles
 
 *Animal*: wolves
 
@@ -4127,9 +4127,9 @@ Apollo the fire breather is the ambitious conqueror, tyrant, and general. Psyrin
 
 *Mentem*: aggression, conflict, willpower *Terram*: arsenic, diamond, iron, ruby
 
-#### **Example Psyrinpheu Effects**
+#### Example Psyrinpheu Effects
 
-#### **Fortitude of Cadmus**
+#### Fortitude of Cadmus
 
 R: Per, D: Sun, T: Ind Corpus, Pen +0, 1 use/day
 
@@ -4145,7 +4145,7 @@ Level Cost: 15
 
 Principle: Stamina, willpower
 
-#### **Victory of the Lapiths**
+#### Victory of the Lapiths
 
 R: Per, D: Diam, T: Ind
 
@@ -4161,7 +4161,7 @@ Level Cost: 15
 
 Principle: Stamina, conflict
 
-#### **Courage of the Python Slayer**
+#### Courage of the Python Slayer
 
 R: Voice, D: Sun, T: Ind Mentem, Pen +2, 12 uses/day
 
@@ -4173,7 +4173,7 @@ This Power grants resolute courage and determination in a person who hears the c
 
 Principle: Aggression, willpower
 
-#### **Slaying of Niobe's Children**
+#### Slaying of Niobe's Children
 
 R: Voice, D: Mom, T: Ind Corpus, Pen +4, 6 uses/day
 
@@ -4199,7 +4199,7 @@ One of the most powerful hymns of Apollo Phoebus, this Power allows the hymnist 
 
 Apollo lightmaker is lord of the nine Muses and patron of the arts; he is optimistic and brings good fortune. Semesilam brings growth and prosperity, metes out justice, and upholds honor. It directs Apollo's wisdom, good cheer, and intellectual endeavors.
 
-#### **Principles**
+#### Principles
 
 *Animal*: swans
 
@@ -4215,9 +4215,9 @@ ity, optimism
 
 *Terram*: amethyst, marble, tin
 
-#### **Example Semesilam Effects**
+#### Example Semesilam Effects
 
-#### **Thalia's Relief**
+#### Thalia's Relief
 
 R: Touch, D: Sun, T: Ind Mentem, Pen +0, 1 use/day
 
@@ -4227,7 +4227,7 @@ Thalia is the Muse of comedy, and this Power relieves the touched character's wo
 
 Ease Factor: 5 Level Cost: 15 Principle: Optimism
 
-#### **Divination of True Intent**
+#### Divination of True Intent
 
 R: Eye, D: Mom, T: Ind Mentem, Pen +4, 6 uses/day
 
@@ -4243,7 +4243,7 @@ The Hyperboreans were mighty wizards individually, but their real strength lay w
 
 ### Virtue: Ceremony
 
-#### **Minor, Supernatural**
+#### Minor, Supernatural
 
 This Virtue grants your character the Supernatural Ability Ceremony, with a score of 1. Ceremony allows your character to lead or participate with a group of people in a supernatural activity, thus allowing great effects.
 
@@ -4284,7 +4284,7 @@ Ceremony is an Ability used in conjunction with another Ability, generally a Sup
 
 All participants add their totals of the appropriate Characteristic + Ability to the focus character's total. If a participant doesn't have the relevant Ability, then only his Characteristic is added.
 
-#### **Ceremony Bonus: Characteristic + Ability total of each participant**
+#### Ceremony Bonus: Characteristic + Ability total of each participant
 
 After this bonus is determined, the focus character rolls as normal, adding the Ceremony Bonus to his total.
 
@@ -4357,7 +4357,7 @@ fied by the same modifiers as reciting hymns (see the above Power Level Modifier
 
 Hyperborean relics commonly appear as either a bouquet of black feathers held together by beeswax, or a large tapestry with beautiful images and sacred words and prayers woven into the fabric. Relics typically have between two and five of the following Powers. These could also be used as examples of hymn Powers.
 
-### **Protection of the Bright Lightener**
+### Protection of the Bright Lightener
 
 Re(In)Co(An, Me) 64 Pen +20, 2 uses/day, constant effect
 
@@ -4387,7 +4387,7 @@ Principle: Good health
 
 (Base 15, +1 Touch, +3 levels uses/day)
 
-#### **Lifting Apollo's Curse**
+#### Lifting Apollo's Curse
 
 CrCo 23
 
@@ -4407,7 +4407,7 @@ Principle: Good health
 
 levels uses/day)
 
-#### **Blessing of the Body of Light**
+#### Blessing of the Body of Light
 
 CrCo 28
 
@@ -4425,7 +4425,7 @@ Principle: Good health
 
 (Base 20, +1 Touch, +3 levels uses/day)
 
-#### **Interrogation of Asclepius**
+#### Interrogation of Asclepius
 
 InCo 13
 
@@ -4445,7 +4445,7 @@ Principle: Harmony
 
 uses/day)
 
-#### **The Fates Denied**
+#### The Fates Denied
 
 CrCo 30
 
@@ -4463,7 +4463,7 @@ Principle: Aging
 
 (Base 25, +1 Touch)
 
-#### **Blessing of the Solar Body**
+#### Blessing of the Solar Body
 
 CrCo 40
 
@@ -4489,7 +4489,7 @@ Hymn: Semesilam Principle: Good health
 
 (Base 35, +1 Touch)
 
-#### **The Gift of Far-sighted Apollo**
+#### The Gift of Far-sighted Apollo
 
 InIm 26
 
@@ -4505,7 +4505,7 @@ Principle: Sight
 
 (Base 3, +2 Sun, +4 Vision, +1 level uses/day)
 
-#### **Sight of the Pythian Oracle**
+#### Sight of the Pythian Oracle
 
 InIm 34
 
@@ -4523,7 +4523,7 @@ Principle: Sight
 
 constant effect)
 
-#### **Apollonian Prayer of Chryses**
+#### Apollonian Prayer of Chryses
 
 PeCo 80
 
@@ -4549,7 +4549,7 @@ Abaris has the Semesilam Hymn Ability at level 6, and his Intelligence is +2. Th
 
 It takes Abaris a mere season to enchant the obelisk; however, in doing so he inflicts 24 Warping Points upon himself (though this does not trigger Illumination). Abaris would be able to further enchant the obelisk as he wished (and would be further Warped), but would not need to "open" the obelisk again.
 
-#### **Obelisk of Thalia's Relief**
+#### Obelisk of Thalia's Relief
 
 ReMe 45
 
@@ -4611,7 +4611,7 @@ the estate of a Roman noble. Thus, the hymns could form the basis for a mysterio
 
 **Multiple Sources:** Insight can be gained from multiple sources, so long as both sources are similar enough. If two different sources are used, and both utilize the aspect of Hyperborean magic that the researcher is trying to integrate, then breakthrough points from both can be added to the research project. Remember, however, that you may not use a single source for repeated Insight. One source only provides Insight one time for one thing. To gain an Insight into another Breakthrough from Hyperborean magic requires an adventure to find another source.
 
-#### **Insight Example**
+#### Insight Example
 
 *Moratamis finds a fragment of a hymn that uses the 19 Year Duration and starts to research it, gaining breakthrough points for an effect using that duration. Some years later, she finds a more complete fragment of another hymn that also uses the 19 Year Duration. She decides to use this as well, and the more complete fragment allows her to gain Insight more easily; the breakthrough points accumulated from her earlier research are added to her new breakthrough points, as both aspects of the research focus on the 19 Year Duration.*
 
@@ -4627,7 +4627,7 @@ the estate of a Roman noble. Thus, the hymns could form the basis for a mysterio
 
 **Elimination of Shape, Material and Size Limits:** For Hermetic magi who regularly enchant items, this would allow any item to be enchanted with any number of effects. A single copper ring could be enchanted with scores of levels of effects. Precious metal and gems would cease being the main materials used to for powerful effects, and this, like vis-less enchantment, would allow poor magi to compete with their rich colleagues. Items would still need to be "opened," and would require the same number of pawns of vis (or twice as many Warping Points, if that Breakthrough had also been integrated) as normal to prepare for any enchantment (ArM5, Preparation for Enchantment, page 97). Once prepared, however, the item could be invested with an effectively unlimited number of magical effects.
 
-#### **Ritual Effect Enchantment:** Hermetic magic cannot currently enchant Ritual effects into magical devices, which makes it impossible for devices or potions to permanently heal. . The unlimited Ritual effect Breakthrough would allow Hermetic The Basilica of Ten Thousand Columns
+#### Ritual Effect Enchantment: Hermetic magic cannot currently enchant Ritual effects into magical devices, which makes it impossible for devices or potions to permanently heal. . The unlimited Ritual effect Breakthrough would allow Hermetic The Basilica of Ten Thousand Columns
 
 *In that island, there is a magnificent grove (or precinct) of Apollo, and a remarkable temple, of round form, adorned with many consecrated gifts. There is also a city, sacred to the same god, most of the inhabitants of which are harpers, who continually play upon their harps in the temple, and sing hymns to the god, extolling his actions.*
 
@@ -4684,7 +4684,7 @@ A troupe interested in visiting the basilica could start their quest with a stor
 
 If your troupe is more interested in just getting straight to the basilica, a character could merely spend a season researching the Order's histories and archives. To find the location of the basilica in this way, you may make an Intelligence + Order of Hermes Lore stress roll against an Ease Factor of 21.
 
-#### **Locating the Basilica: Intelligence + Order of Hermes Lore + stress die vs. Ease Factor 21**
+#### Locating the Basilica: Intelligence + Order of Hermes Lore + stress die vs. Ease Factor 21
 
 If you succeed, the character successfully locates a letter or record that states the location of the basilica's ruins; failure means that his season's search was fruitless. A botch could
 
@@ -4696,7 +4696,7 @@ Under Theodore, the Despotate is locked in endemic conflict with the Kingdom of 
 
 Theodore is known for being ruthless and unscrupulous, taxing his subjects harshly, and waging what seems like an endless war against his neighbors. He is currently laying siege to Thessalonica, which is governed by the Latin rulers of Constantinople. Theodore recently captured Peter of Courtenay, the Latin emperor of Constantinople and an influential French aristocrat, cruelly torturing and executing him. Due to this, the Latin Empire is without a ruler, although succession has passed to Peter's son, Robert of Courtenay, who is traveling from his father's French lands.
 
-#### **Story Hook**
+#### Story Hook
 
 The bishop of Manastir decides to revive the failed monastery of Saints Cyril and Methodius, located at the site of the Basilica of Ten Thousand Columns. This is a major exercise, requiring monks to be recruited, and a team of masons and other tradesmen to make the dangerous journey to Mount Pelister in order to rebuild the monastery. The bishop is most concerned over the tales of mighty ghosts haunting the site, and so searches for assistants to his exorcists, possibly even Hermetic magi.
 
@@ -4712,7 +4712,7 @@ Upon approaching the basilica, a traveler is struck by the incredible beauty of 
 
 The ruins themselves are made from a pure white marble, except for the treasury, which is crafted from yellow marble. Boulders of varying sizes, torn from the mountain, lie strewn throughout the complex. The gymnasium and amphitheater are almost entirely destroyed, although the foundations and a few roofless rooms remain. The sanctuary to Apollo has been converted into a small monastery, although this has been abandoned for 300 years, its domed roof half-collapsed and its fine mosaics flaking.
 
-#### **Apollo's Sanctuary**
+#### Apollo's Sanctuary
 
 The sanctuary of Apollo is the center of the basilica complex. A number of complete Doric columns remain standing, while the stumps of 30 or so others remain, spread about the foundations. The entrance of the sanctuary faces east, joined to the road by the stands where two large stone bulls once stood, the feet of which remain. A large stone pillar, with badly damaged inscriptions in Hyperborean, stands directly before the sanctuary, although the statue of Apollo that stood upon it now lies
 
@@ -4748,7 +4748,7 @@ One of the 12 great Olympian Gods, Apollo is the god of prophecy and divination,
 
 the altar is still shrouded by a fragile and faded curtain.
 
-#### **The Treasury of the Hyperboreans**
+#### The Treasury of the Hyperboreans
 
 Surrounded by a low wall, the Treasury of the Hyperboreans was the storehouse of the many devotional offerings made to Apollo. The remains of 30 statues of kings of Hyperborea stand before the treasury, which is built from deep-yellow limestone. Its walls are covered in carvings of scenes from Apollo's life, particularly of him curing disease and prophesying the future. Many of the details have been defaced, or covered over with Christian symbols. The treasury is a relatively small building with a modest antechamber leading through to the storage room, which is empty and plain. The arched doorway has faded scorch marks and signs of forced entry that are many centuries old.
 
@@ -4762,7 +4762,7 @@ There is a ruined Alexandrian altar in the basilica, converted by monks into a C
 
 tury. Following the defeat and deaths of the Hyperborean priests, the two Founders spent a great deal of time and effort to break into the treasury, which was the most heavily defended of the buildings. Eventually they broke in, but found only a few treasures — certainly not the grand hoard that legends spoke of. Tremere wrote in later years that he believed the destroyed door was the passage to a regio, now forever cut off from the world.
 
-### **The Amphitheater**
+### The Amphitheater
 
 Some way up the slope of the mountain is an amphitheater, although little remains except the stone semicircle used as the stage, and the elegant curve cut into a natural auditorium. On the night seven days after the new moon, a ghostly replica of believed to have the bronze sword of Alexander interred within it the same sword used to assassinate his father, Phillip.
 
@@ -4772,7 +4772,7 @@ It is possible that House Mercere knows the location of many of the 70 sites lin
 
 the amphitheater appears, and minor spirits can be glimpsed reenacting scenes from Apollo's life.
 
-### **The Gymnasium**
+### The Gymnasium
 
 The gymnasium is where the priests taught and contemplated their religious duties. Little remains except for the foundations, with a few stones rising to shoulder height. At nighttime and on Apollo's sacred days, ghosts of the slain priests can be glimpsed going about their sacred rites.
 
@@ -4784,11 +4784,11 @@ Although abandoned centuries ago by the living, the basilica is still the dwelli
 
 The Basilica of Ten Thousand Columns was looted by Trianoma and Tremere, its magical lore and devices carried triumphantly back to the West. It is possible, therefore, that Hyperborean relics or Apollonian hymns could be found in other parts of Mythic Europe, particularly at covenants associated with the Founders. Hidden upon or within the relics could be clues as to the whereabouts of the basilica, the true names of spirits, or information about the road to Hyperborea itself. Alternatively, it is also possible that these powerful relics may have been used, and destroyed, during the Schism War.
 
-#### **The Restless Dead**
+#### The Restless Dead
 
 Murdered by the Founders, many of the Hyperborean priests remain as spectral remnants of their former selves, unwilling to travel to the afterlife and desert their sacred duty. The most potent of the ghosts, the senior priests of Apollo, still carry out their priestly tasks, praying, tending to the buildings and grounds as best they can, and guarding the secrets of the basilica from those who would steal them. (Note that these ghosts differ from those presented in *The Broken Covenant of Calebais, Revised Edition*, page 35, in that their lives of dealing with the dead have prepared them more for an afterlife of ghostly haunting.)
 
-#### **Spirit Guardians**
+#### Spirit Guardians
 
 The Hyperborean priests of the basilica were protected by several underworld spirits, particularly those connected with Apollo's sister,
 
@@ -4960,7 +4960,7 @@ Other, lesser elementals and airy spirits also flit through the ruins and among 
 
 The Basilica of Ten Thousand Columns need not be located in the Balkans. There are several other sites where the basilica could be located.
 
-#### **Delos**
+#### Delos
 
 The center of Apollo's cult, Delos is an island in the Aegean Sea with a great number of Apollonian ruins. Many of the tales of Hyperborea originate from Delos, and there are a number of cultic sites dedicated to
 
@@ -5002,7 +5002,7 @@ Bow: Init –1, Attack +10, Defense +0, Damage +8\*
 
 **Abilities:** Area Lore Spirit World 8 (Hyperborean spirits), Brawl 3 (fists), Bows 7 (hunting), Etiquette 6 (the Underworld), Magic Lore 10 (spirits)
 
-#### **Powers**:
+#### Powers:
 
 *Harvest of the Golden Heart*, 10 points, Init +5, Herbam: Queen Brimo can intervene with either Persephone or Demeter to grant a small community a bountiful harvest that season, or stave off a famine.
 
@@ -5018,7 +5018,7 @@ Bow: Init –1, Attack +10, Defense +0, Damage +8\*
 
 the Hyperborean maidens Arge and Opis, and Hyperoche and Laodice. In the 13th century, Delos is under the rule of the Venetians (following the collapse of the Byzantine Empire) and its inhabitants are devout Orthodox Christians. Delos could be the location of hidden Hyperborean hymns or relics, especially in the tombs of the Hyperborean maidens.
 
-#### **Tribunal of Novgorod**
+#### Tribunal of Novgorod
 
 With Hyperborea to the extreme north of the Tribunal of Novgorod, it is still possible that the basilica could be further north than the Balkans. This option may be suited to troupes who set their saga in Novgorod; travel to the basilica may even take the characters into the lands of the barbarian Scythians.
 
@@ -5029,7 +5029,7 @@ At the eastern edge of the world, on the great Ocean Stream, lies the garden of 
 
 Where is this garden? The ancient authorities Virgil, Sophocles, and Stesichorus are firm in drawing a distinction between Phoebus's Garden and the Hesperides. Just as the Hesperides are considered the mystic Western Pole, so too could Phoebus's Garden be the mystical Eastern Pole. It is known as the "region of the bright day," and is also where Helios, or Sol (the sun), starts his journey across the sky every day. The extreme East is a place of mystery and myth, with many fantastic legends told in European romances, including many monsters, strange peoples, and bizarre customs.
 
-#### **The British Isles**
+#### The British Isles
 
 It is possible that the Hyperboreans were really ancient British Celts, which could allow for Hyperborean temples in such places as Ireland or Wales. Alternatively, since the druids were deeply connected to sun cults, an ancient druidic temple may have been inhabited by Hyperborean descendants before the creation of the Order of Hermes.
 
@@ -5057,23 +5057,23 @@ Some Hermetic scholars link Hyperborea to the realm of Magic, in the same way th
 
 The philosopher Porphyry writes that Pythagoras showed his golden thigh to Abaris, the Hyperborean priest of Apollo. Abaris was called "air-traveler," because he once rode on an arrow given to him by Apollo, by which he crossed rivers and seas, and reached inaccessible places.
 
-#### **Aristeas**
+#### Aristeas
 
 Herodotus the historian mentions another Hyperborean, Aristeas of Proconessus, who was a member of a prestigious and respected family. Maximus of Tyre records that Aristeas would often have his spirit leave his body, which would fly off like a bird while he lay breathing distinctly and in a fashion close to death. His spirit would observe everything — land, seas, rivers, cities, and peoples — and then reenter his body and recount the various things that it had seen. Aristeas was also famous for living for over 250 years, a feat that saw the city of Metapontines erect a statue with the legend "Aristeas of Proconessus" in his honor.
 
-#### **Arge and Opis**
+#### Arge and Opis
 
 A legend among the Delians tells of two Hyperborean women, Arge and Opis, who came to Delos accompanied by Apollo's sister, Artemis. The purpose of the visit was to pay tribute to Eileithyia (the goddess who presided over childbirth) for the birth of Apollo, to ensure quick and painless childbirth for themselves. Arge and Opis were later taken to Olympus by Artemis and became her servants.
 
-#### **The Hyperborean Necromancer**
+#### The Hyperborean Necromancer
 
 Lucian's *Philopseudes* tells of a mysterious unnamed Hyperborean necromancer who flew down from the sky near a small Roman estate and used necromancy and other magic to make a woman fall in love with the local lord. In doing so, he called down the moon and called up Hekate, and summoned the ghost of the lord's father.
 
-#### **Olen the Bard**
+#### Olen the Bard
 
 A Hyperborean who made his home in Lycia, Olen composed many of the Hyperborean hymns once sung on Delos and the other Aegean islands.
 
-#### **Hyperoche and Laodice**
+#### Hyperoche and Laodice
 
 The sacred virgins sent by the Hyperboreans to deliver Apollo's sacred relics to Delos, Hyperoche and Laodice failed to return home from their mission, despite being protected by five Hyperborean guards. It was the disappearance of Hyperoche and Laodice that caused the Hyperboreans to decide to rarely leave Hyperborea. In honor of Hyperoche and Laodice, the boys and girls of Delos in antiquity would offer locks of their hair.
 

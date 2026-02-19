@@ -43,7 +43,7 @@ Camo Coffey, Andrew Walton; Neil Taylor
 
 **Second Round Playtesters:** Christian Rosenkjaer Andersen, Pelle Kofod, Maria Dall Rasmussen; Jason Brennan, Elisha Campbell, Robert Major; Leon Bullock, Peter Ryan, Chris Barrett; Donna Giltrap, Malcolm Harbrow, Aaron Hicks; Nicholas Peterson, Jennafyr Peterson, Dan Byrne; Christoph Safferling, Jan Sprenger; Neil Taylor; Sean Winslow, John Geck; Mark Barltrop, Mark Lawford, Simon Turner, David Staveley, Alex Coyne-Turner
 
-#### **Author Biographies**
+#### Author Biographies
 
 **Richard Love** is quite pleased that he managed to write a part of this book while staying in Rome in a monastery that Pope Gregory the Great founded in the sixth century. He would like to dedicate this book to his partner Paula, who found our accommodation, and who thinks Richard is a sad person for bringing his laptop on holiday.
 
@@ -550,39 +550,39 @@ celebrate the festival of his saint in some manner will lose at least three Devo
 
 A character can gain Devotion Points by various activities. It is possible to gain Devotion Points and Experience Points in the same season, and even for the same activity; Devotion Points must be spent on the appropriate Devotion, though, and may be used for no other purpose.
 
-#### **Seasons of personal devotion**
+#### Seasons of personal devotion
 
 Spending a season engaged in prayer and meditation at a shrine to a saint earns 5 Devotion Points. The only Experience Points gained are exposure in Church Lore or Dominion Lore or similar.
 
-## **Endowing a church, chapel, or monastery dedicated to the saint**
+## Endowing a church, chapel, or monastery dedicated to the saint
 
 Depending on the size of the institution created, the number of seasons involved in setting it up, and whether a story is required, the number of Devotion Points gained varies from 5 to 50; the former represents a small chapel founded without a story, the latter the building of a cathedral at the center of a saga and many stories.
 
-#### **Participating in a guild dedicated to the saint**
+#### Participating in a guild dedicated to the saint
 
 Many professional guilds are dedicated to a saint, and annually observe the festival of that saint. Characters receive 3 Devotion Points on joining the guild, and 2 each on becoming a journeyman and a master. Not all guild members are pious, of course, and even those who are are not necessarily devoted to their guild's saint. (See *City & Guild* page 41, for more on guild membership from a mundane perspective.)
 
-## **Visiting a site associated with the saint**
+## Visiting a site associated with the saint
 
 This may include the tomb, a major relic, or the martyrdom site of the saint, or a site associated with a great miracle of that saint. This is worth 1 to 10 Devotion Points. If the tomb or martyrdom site is in the character's home town, no more than 1 point may be gained. If it requires a journey that takes a season, is part of a pilgrimage (a seasonal activity explained later), or the character has to go out of his way to visit the shrine, then it is worth 5 points or more. If an entire story is based on the visit to the tomb, and it is hazardous and requires a full season's travel, 10 Devotion Points may be gained. This is usually a one-time benefit.
 
-#### **Sponsoring church artworks associated with the saint**
+#### Sponsoring church artworks associated with the saint
 
 This includes things like wall paintings, altars, or windows. It should usually be part of a story, and grants a number of Devotion Points equal to the Aesthetic Quality of the final artwork. (See *Art & Academe,* page 123, for details on Aesthetic Quality.) Such stories usually revolve around finding an artist, and getting the artwork completed. This may also result in a positive reputation as a patron of the arts or of the Church (see *Lords of Men,* pages 25 and 63, for details). Only the best artwork per saint counts; multiple frescoes in churches all over the region to the same saint do not continue to increase Devotion, unless each is of higher quality than the last.
 
-## **Studying the hagiographies to meditate on the saint's life**
+## Studying the hagiographies to meditate on the saint's life
 
 A hagiography is a book on a specific saint's life. A season spent studying a hagiography that is entirely about the saint to whom the character is Devoted is worth Devotion Points equal to Quality/2. More general works on the saints that cover many saints' lives usually grant 1 Devotion Point for a season of study; but even if the book is a summa, it can grant only 1 Devotion Point per saint, no matter how many seasons are spent in study. A work by the saint counts as a hagiography for this purpose — reading Saint Augustine's *City of God* grants 5 Devotion Points per season in Devotion: Saint Augustine (as the work has a Quality of 10) to readers dedicated to the saint. The normal Experience Point gain for studying a text is also received.
 
-## **Furthering the cultus of the saint**
+## Furthering the cultus of the saint
 
 Having a candidate approved by Rome as an official saint on the Church calendar is an example of furthering the saint's cultus. The process for this kind of action is discussed later in this book (Chapter 3: The Diocese, Petitioning the Church). Having the saint recognized by the Church as an official saint, having one of his works formerly deemed heretical now accepted as doctrinally sound, or having a church dedicated to that saint consecrated earns Devotion Points equal to the Petitioning Ease Factor.
 
-## **Witnessing a genuine miracle of the saint**
+## Witnessing a genuine miracle of the saint
 
 This can be a miracle that the character personally invoked, or one for which the character just happened to be present. The miracle is worth 5 to 10 Devotion Points, though if a miracle of the saint is used to thwart the character no benefit is gained, and he may well lose an equivalent number of Devotion Points. A 10-point gain should be restricted to cases where the character's life was saved by the intervention. If the miracle was invoked trivially and without real need, the saint may well be angered and no Devotion Points may be gained.
 
-#### **Sponsoring or participating in the saint's feast day procession**
+#### Sponsoring or participating in the saint's feast day procession
 
 If participation in the procession is part of a story or somehow inconveniences the character, such as requiring a long journey, 1 Devotion Point is gained. If the saint is somehow honored through a story, more than is usual, the character gains 1 to 5
 
@@ -635,11 +635,11 @@ The character must have a clear aim in undertaking the pilgrimage. There are two
 
 Having established the aim of the pilgrimage, a Pilgrimage Target Level is determined, based upon the desired outcome.
 
-#### **Target Level:** 18
+#### Target Level: 18
 
 **Outcome:** To gain a Minor Virtue, including Minor Supernatural Abilities associated with the Divine\*; To lose a Minor Flaw (or Virtue, if desired); To remove a negative Personality Trait; To meet a requirement of Penance (18 or 30 depending on the decree of the Ecclesiastical authorities)
 
-#### **Target Level:** 30
+#### Target Level: 30
 
 **Outcome:** To gain a Major Virtue, including Major Supernatural Abilities or Methods and Powers Virtues associated with the Divine\*; To lose a Major Flaw (or Virtue, if desired); To ask for a miracle\*\*; To self-initiate in Holy Magic (requires True Faith); To meet a requirement of Penance (18 or 30 depending on the decree of the Ecclesiastical authorities)
 
@@ -838,7 +838,7 @@ is the quest for personal holiness, and the mystic must possess a positive Pious
 
 The character must also be associated with the Divine realm. Association with the Divine realm can come from several sources: True Faith, possession of any Divine-associated Supernatural Ability, or even the possession of Warping Points from a Divine source. It would be expected that a character pursuing contemplative mysticism would develop Personality Traits in line with the ones associated with the Virtuous Tempers, and would strive to act in an appropriate manner, given that imitation of Christ central to the path. Of course, being mortal and sinners, such behavior will not be constant and unchanging; the character still sins, and needs to repent through the Sacraments (see Chapter 3: Diocese).
 
-## **Spiritual Paths and Revelations**
+## Spiritual Paths and Revelations
 
 Contemplative mysticism involves a wholehearted devotion to a way of life that expresses Christian love and charity, maintaining hope and strengthening the faith of others. It is not just part of a character's life, but the major focus of such, and should be reflected in almost every action
 
@@ -868,13 +868,13 @@ To develop a new Spiritual Path, decide what form the resulting Revelation will 
 
 Subtract the character's current score in the Personality Trait Pious from the Path Total to calculate the Path Target.
 
-#### **Path Target = Path Total – score in Personality Trait Pious**
+#### Path Target = Path Total – score in Personality Trait Pious
 
 A Supernatural Ability associated with the Divine gained in this manner is gained at a score of 1, and is not penalized by existing Supernatural Abilities or Arts. Perhaps surprisingly, the Virtue True Faith can never be gained by a Spiritual Path.
 
 Developing the Spiritual Path requires a series of Quest Components with a total value at least equal to the Path Total for the desired Revelation.
 
-#### **Total Quest Component Values = Path Total**
+#### Total Quest Component Values = Path Total
 
 Example Quest Components include, but are not limited to:
 
@@ -917,7 +917,7 @@ Gaining Methods, Powers, and Supernatural Abilities are at best side effects of 
 
 The character now suffers from a similar effect to that of the Hermetic Flaw Twilight Prone — she must test for Divine Ascent when only a single Warping Point from any source is gained. Given the dramatic effects of the Divine Gloom Warping experience on the mystic, this can rapidly result in a very otherworldly and yet spiritually potent character. Such characters learn not by pursuing Spiritual Paths as with Contemplatives, but from their Warping experiences.
 
-#### **Advantages of Pursuing Monistic Mysticism**
+#### Advantages of Pursuing Monistic Mysticism
 
 The risks of monistic mysticism are extreme, but there are benefits as well. Firstly, the character, when practicing a Holy
 
@@ -1007,7 +1007,7 @@ To help decide the saga role of the local clergy, the troupe should describe som
 
 Some important Virtues and Flaws for clergy characters are listed below. You should only take one of the Senior Clergy, Priest, or Clerk Social Statuses for your character.
 
-#### **Senior Clergy**
+#### Senior Clergy
 
 *Major Virtue, Social Status*
 
@@ -1041,7 +1041,7 @@ Senior clergy are subject to canon law, and must be celibate and tonsured (if ma
 
 This replaces the version of this Social Status that was printed in *Realms of Power: The Divine*, page 93.
 
-#### **Priest**
+#### Priest
 
 *Minor Virtue, Social Status*
 
@@ -1049,7 +1049,7 @@ The character has been ordained as a priest of the Church; he can conduct Mass, 
 
 You may take the Wealthy Virtue or Poor Flaw for the character. A Wealthy priest is probably wealthy because he is a pluralist (see The Benefice, later). A Poor priest probably works as a curate or chaplain.
 
-#### **Clerk**
+#### Clerk
 
 *Minor Virtue, Social Status*
 
@@ -1057,7 +1057,7 @@ The character has been ordained as a member of the clergy. Note whether your cha
 
 You may take Academic Abilities for the character during character generation.
 
-#### **Religious**
+#### Religious
 
 *Minor Virtue, Social Status*
 
@@ -1070,7 +1070,7 @@ Note that for a friar character you should take the Mendicant Friar Virtue inste
 
 This priest character has a license of absence that relieves him from some duties. The license might be valid for only a few years or it could be valid indefinitely. The character has an extra free season each year, but sometimes it is expected that the extra season is used for study. This Virtue is compatible with the Wealthy Virtue and Poor Flaw. A Wealthy priest with a license of absence thus has the whole year free; a character can never have more than four free seasons in a year. A license of absence may only be taken by a character with the Priest Social Status. It may not be taken by Senior Clergy.
 
-#### **Commanding Aura**
+#### Commanding Aura
 
 *Free Virtue, Supernatural*
 
@@ -1092,7 +1092,7 @@ Some lay rulers ordained by the pope (mostly kings and emperors) also have a
 
 Commanding Aura. See *Realms of Power: The Divine*, page 42.
 
-#### **Dark Secret**
+#### Dark Secret
 
 *Major Flaw, Story*
 
@@ -1106,7 +1106,7 @@ This Flaw (see **ArM5**, page 52) is appropriate for a clergyman who secretly vi
 
 **Simony:** The character has bought or sold spiritual things, such as the administering of the Sacraments or an appointment to a holy office. Note which of the character's Virtues represents this thing; for example, a benefice (Wealthy), an ordination (Priest), or a relic (Relic). If the character's secret is discovered he will lose the Virtue.
 
-#### **Regular**
+#### Regular
 
 *Minor Flaw, General*
 
@@ -1132,7 +1132,7 @@ Faith Points may be spent like Confidence Points to gain a +3 bonus to a roll, a
 
 These seasonal activities may be performed by Church characters and others.
 
-#### **Worship**
+#### Worship
 
 Worship is a seasonal activity (conducted during a *free* season) and is available to any Christian character with access to a chapel or church. This is different than the normal worship of God performed by virtually everyone in Mythic Europe (attending Mass, religious festivals, etc). This special sort of worship involves a demanding daily routine that includes fasting, prayer, and meditation.
 
@@ -1140,7 +1140,7 @@ Worship has a Source Quality equal to the Divine Aura in the church.
 
 Experience Points from worship may normally be spent on Church Lore, Concentration, Music, or any Supernatural Ability or Art aligned to the Divine that the character *already* has a Score in. Note that most Supernatural Abilities and the Hermetic Arts are *not* Divine aligned.
 
-#### **Good Works**
+#### Good Works
 
 This seasonal activity is available to any Christian character. He spends the season performing worthy deeds. For clergy, this can be a non-free season.
 
@@ -1165,7 +1165,7 @@ Recommended Virtues and Flaws: Monastic Vows; Regular (for abbots),
 
 Temporal Influence, Vow. Recommended Minimum Ability Scores: Artes Liberales 1, Church Lore 3, Civil and Canon Law 3, Dead Language: Latin 5, Theology 1.
 
-#### **Clergy**
+#### Clergy
 
 Required Virtues and Flaws: Priest or Clerk.
 
@@ -1197,7 +1197,7 @@ A magus at the covenant, who has good relations with the cathedral canons, is el
 
 Quality of 2 in an appropriate Ability, and the character also gains 1 Faith Point.
 
-#### **Care of Souls**
+#### Care of Souls
 
 This seasonal activity can be undertaken by an ordained priest who leads a congregation. He spends the season, which can be one of his non-free seasons, preaching to his congregation. For the following year *willing* members of the congregation receive a +1 bonus to activities aligned with the theme of the priest's sermons, although a character may only benefit from one such bonus at a time. The themes may be Loyalty, Calmness, Kindness, Bravery, Wisdom, Strength, or Justice.
 
@@ -1275,7 +1275,7 @@ The cardinals are the closest advisors of the pope. They help him to perform his
 
 The curia is the papal court, which has been both enlarged and streamlined under Innocent III and Honorius III. One of their innovations is to assign many of the highest official roles to young, capable sub-deacons rather than to cardinals. If your saga follows history, the curia becomes increasingly powerful throughout the 13th century.
 
-#### **The Chancery**
+#### The Chancery
 
 The chancery controls correspondence between the pope and Christendom. Petitions to the papacy (see Petitioning the Church, later) are dealt with by the curia, which receives up to 2,000 each year. Petitions are received and revised into a standard form by a notary, and then publicly read by the data communis. The most important are submitted to the pope. Petitions of lesser importance are sent to the penitentiaria, or the auditores. In any case, once a decision is made, a letter is then drafted, approved by the corrector, publicly read again, and sealed by the bullatores.
 
@@ -1289,7 +1289,7 @@ The offices in chancery are all held by clergy ordained as acolytes or higher:
 
 **Corrector: T**here are usually two correctors. **Bullatores:** These officials hold the papal seal. The seal is not applied until the petitioner pays a tax that meets the cost of the parchment, ink, etc.
 
-#### **Proctors**
+#### Proctors
 
 Proctors are the representatives of bishops, nobles, or religious houses who attend the papal curia to ensure that their client's interests are represented. Proctors present petitions on behalf of their client, and appeal other petitions as presented. Appealed petitions are sent to the auditor litterarum contradictarum for arbitration.
 
@@ -1298,7 +1298,7 @@ There are four rules for proctors: proc-
 
 tors cannot remain in office for more than two consecutive years, proctors cannot keep a concubine, a client may only have one proctor, and finally the proctor cannot send a substitute to petition in his stead. There are similar rules for proctors in the courts of lesser bishops.
 
-#### **The Camera**
+#### The Camera
 
 The camera controls the papal finances. It is directed by the **camerlengo**, and beneath him are a number of **collectors**. The actual administrator of the treasure is the **thesaurarius**.
 
@@ -1306,7 +1306,7 @@ The papacy does not tax churches directly. However, since 1199 the papacy has be
 
 Other finances arrive from the fees charged for various services, and when a bishop or abbot is appointed he pays a third of his yearly income (the servitia communia) to the papacy.
 
-#### **The Judiciary**
+#### The Judiciary
 
 Judicial officials help the pope to make rulings on disputed cases, appeals, and petitions are as follows.
 
@@ -1320,7 +1320,7 @@ boundaries between the penitentiarius and the auditores are unclear in the 13th 
 
 **Auditor litterarum contradictarum**: This official receives appeals to petitions. He rejects foolish appeals, and otherwise usually tries to arbitrate a compromise solution.
 
-#### **The Capellani**
+#### The Capellani
 
 The capellani is the college of priests, deacons, and sub-deacons who serve in Rome. It is organized much like any other cathedral chapter. The capellani perform the liturgy in the Roman churches, serve in the curia, and act as papal legates. The number of capellani varies; in 1220 there are 70.
 
@@ -1442,7 +1442,7 @@ If the character fails his ordination examination by more than 6, he is not orda
 
 If the character botches his ordination examination he can *only* try again if he successfully petitions the Church for permission (see Petitioning the Church, later).
 
-#### **Rapid Ordinations**
+#### Rapid Ordinations
 
 Characters are usually ordained one grade at a time. However, sometimes an ordinand is accelerated through the grades. The main reason this happens is that a low-ranking clergyman (or even a layman) is elected bishop. However, even if a character is ordained in several grades at once, he gains only 1 Faith Point due to ordination.
 
@@ -1456,25 +1456,25 @@ Possession by demons is a common occurrence in Mythic Europe, and exorcists have
 
 To perform the exorcism rite, the exorcist must spend at least 1 Confidence (or Faith) Point and an Exorcism Total is generated (each Confidence/Faith Point adds +3, as usual). If the Exorcism Total equals or exceeds an Ease Factor equal to the number of Might Points invested in the energumen by the demon, then the demon is exorcised.
 
-#### **Exorcism Total: Stress Die + Bonuses**
+#### Exorcism Total: Stress Die + Bonuses
 
 Any clergyman can conduct exorcisms. Those who have been ordained as exorcists receive a +1 bonus, and using holy water and a crucifix adds a further +1 each. Exorcism is a Divine supernatural power and the Total is affected by the aura in the usual way. If the energumen has Magic Resistance, it must be Penetrated by the exorcism; Penetration is calculated as usual (see **ArM5**, page 184).
 
 A character must be literate in Latin to read the exorcism rite from a scroll, however an illiterate character (who has been told what to say) can still conduct the rite.
 
-#### **Doorkeeper**
+#### Doorkeeper
 
 In the early centuries of the Church, doorkeepers (or porters) guarded the doors and contents of churches. However, by the 13th century these duties are actually undertaken by laymen. The office of doorkeeper is now held by young boys who are being trained to advance further in the Church hierarchy; their role is merely to assist the other grades during church services. In most dioceses there is a new cohort of several dozen doorkeepers every year.
 
 A doorkeeper is usually ordained in his early teens. At his ordination he is blessed by the bishop and receives a pair of keys. A doorkeeper often receives further education in the cathedral school (or at another large urban church), and may spend his two free seasons in study (see *Art & Academe*, page 81).
 
-#### **Lector**
+#### Lector
 
 Lectors receive a codex of lessons (Church Lore Tractatus; Quality 6–8) when ordained, and in the early Church their role was to teach these lessons to the congregation. In 1220, this role has been usurped by the higher orders (usually the deacons), and the lector's duties are instead ceremonial ones. There is not even a requirement that a lector must be literate.
 
 A lector is usually only a few years older than a doorkeeper, and he usually continues to receive an education. Almost all doorkeepers become lectors.
 
-#### **Exorcist**
+#### Exorcist
 
 At ordination, an exorcist receives a scroll of exorcism rites. In the early Church, exorcists looked after those who were possessed and conducted daily exorcisms of adults who were being prepared for baptism, to clear them of any supernatural influences from their previous pagan faith. However, in 1220 adult baptism is rare (most characters are baptized as infants), and so there is less need for prebaptismal exorcism. In 1220, clergy are usually ordained to the grade of exorcist in their late teens, and some clergy progress no further.
 
@@ -1488,15 +1488,15 @@ Many acolytes serve as parish clerks, and others perform minor duties for the Ch
 
 Like the minor orders, the major orders all wear tonsures and clerical robes. They are also subject to canon law. The major orders are celibate.
 
-#### **Sub-Deacon**
+#### Sub-Deacon
 
 When a sub-deacon is ordained he is presented with a paten (the plate on which the bread is placed during Mass), and a chalice by the bishop. He is also presented with a pitcher and a basin by the archdeacon. Sub-deacons act as parish clerks and canons. Sub-deacons also form part of the retinue of senior clergy.
 
-#### **Deacon**
+#### Deacon
 
 The symbol of the deacon's office is a stole, placed over the left shoulder. A deacon can serve as a parish clerk or a canon. The office of archdeacon is also held by a deacon, as are many of the offices in a chapter of canons or the cathedral administration. Deacons are also found in the retinue of the senior clergy.
 
-#### **Priest**
+#### Priest
 
 A priest is ordained by the bishop laying hands on him. Each bishop was once ordained by a laying on of hands by another bishop, who was likewise ordained and so forth. This chain of hands reaches back in time to the disciples (ordained by Jesus, from whom the power of the clergy originates). The priests of the Church are the successors of Christ's 72 disciples, the bishops are the successors of the 12 apostles, and the pope is the successor to the chief apostle, Peter.
 
@@ -1514,7 +1514,7 @@ Canon law is based on papal decrees or bulls, and it is used by the Church throu
 
 Archdeacons travel throughout their jurisdiction (see Visitation, later in this chapter) and hold court in the parishes they visit. The bishop's court is the court of appeal, and he can choose to hear other cases, too. The final court of appeal is the papal curia. In some dioceses rural deans, and even the parish priest, also act as canon judges, but generally the archdeacons have monopolized this duty. In any case, the judge employs a notary (usually an acolyte or sub-deacon) who travels with him, keeping a record of cases and judgments.
 
-#### **Secular Justice**
+#### Secular Justice
 
 Clergy are not subject to secular justice, so clergymen found guilty by a secular court are passed to the bishop's court to be tried again. Most secular courts are thus observed by agents of the bishop to
 
@@ -1528,11 +1528,11 @@ ensure that clergymen receive this protection. Secular judges find this exaspera
 
 However, canon law also states that clergymen should not, under pretext of Ecclesiastical liberty, attempt to undermine the authority of secular justice. So a clergyman who commits very serious crimes against town or lord may find himself punished by a canon court, or excommunicated and returned to the hands of secular justice.
 
-#### **Canon Law Jurisdiction**
+#### Canon Law Jurisdiction
 
 Canon law claims jurisdiction over the religious obligations and moral offenses of both laymen and clergy. This includes wills, church attendance, marriage, sexual offenses, brawling in church grounds, slander, usury, and breaches of contract, although secular courts also claim jurisdiction over some of these offenses. In civil cases (brought by one layman against another) there is a tendency to prefer canon courts, as cases are generally resolved more quickly and with less cost. On the other hand, secular courts dominate criminal cases where there is double jurisdiction. This is because canon courts have no officers to detain suspects, nor anywhere to hold prisoners awaiting trial.
 
-#### **Court Procedures**
+#### Court Procedures
 
 Priests, or parishioners, are summoned to attend the canon court by a summoner (sometimes called an apparitor). This official may be an acolyte or sub-deacon, but often he is a layman. In either case, the summoner does not receive a salary, instead he charges a fee to those summoned. This arrangement is ripe for corruption, and some accuse summoners of inventing sins to report to the archdeacon.
 
@@ -1567,7 +1567,7 @@ Clergy can have their benefice **suspended**, either for short periods or perman
 
 The following types of cases are typical of those a canon court might hear.
 
-#### **Shedding of Blood**
+#### Shedding of Blood
 
 Clerics are forbidden to shed blood. The most recent reiteration of this rule was the Fourth Lateran Council (1215). Clerics may not:
 
@@ -1579,11 +1579,11 @@ Clerics are forbidden to shed blood. The most recent reiteration of this rule wa
 
 In addition, clerics in major orders may not practice chirurgy.
 
-#### **Marriage and Sexual Crimes**
+#### Marriage and Sexual Crimes
 
 Prostitution, casual sex, and giving birth within the first nine months of marriage are canon crimes, and men must usually support bastard children as penance. Marriage between close relatives and bigamy are crimes. Contraception and abortion are also canon crimes, but are only rarely prosecuted and are not harshly punished. Contraception is hard for the court to discover, and an unborn fetus is assumed to have no soul. On the other hand, a magus who sterilizes himself or others with a longevity potion has technically committed an offense.
 
-#### **Sanctuary**
+#### Sanctuary
 
 The church, churchyard, and cemetery are places of sanctuary, within which it is forbidden to spill blood or brawl. Many fugitives from lay justice thus seek the safety of a church. Sanctuary is granted for up to 40 days, after which time the fugitive should surrender to the lay authorities. In
 
@@ -1597,35 +1597,35 @@ archdeacon is now suspicious of the Order of Hermes and has since pried into the
 
 some dioceses sanctuary is also extended to chapels.
 
-#### **Simony**
+#### Simony
 
 Simony is the buying and selling of sacred things, which is a canon law crime. Nonetheless ordinations, relics, benefices, burial rights, and places in nunneries and monasteries are sometimes bought and sold. When simony is identified by the Church, the usual penalty for the buyer is that whatever he gained is removed. The seller is fined twice the value of the transaction, and may be excommunicated for repeat offenses.
 
-#### **Usury**
+#### Usury
 
 Charging excessive interest rates on loaned money is the canon crime of usury. This is also a secular crime (in most dioceses) and is usually more effectively prosecuted by secular courts.
 
-#### **Wills**
+#### Wills
 
 Disputes over the division of estates can be resolved by a canon court. Sometimes wills are registered in advance with the archdeacon's court, but many people are reluctant to do this, believing that writing a will invites death.
 
-#### **Upkeep of the Church**
+#### Upkeep of the Church
 
 If the archdeacon finds the church in a poor condition during his visitation, then the priest or representatives of the congregation can be prosecuted.
 
-#### **Religious Practices**
+#### Religious Practices
 
 Laymen can be prosecuted for failing to regularly attend Church festivals. Clergy can also be prosecuted for failing to fulfill their religious duties, or for heretical practices. Pagan magi and covenfolk may find that either their absence at church or their unusual beliefs have been noticed and reported to the archdeacon for prosecution.
 
-#### **Tithes**
+#### Tithes
 
 In 1220, everyone tithes a tenth of their income to the Church. However, the canon court commonly prosecutes people for paying less than the court believes is due. Hermetic covenants that evade the tithe may eventually be found out, and the magi prosecuted.
 
-#### **Slander**
+#### Slander
 
 Since 1215, slander has been a canon offense. The Church's intention is that by providing legal recourse, parishioners will brawl less over matters of "honor." In 1220, few cases have yet been heard by archdeacon courts, so it is unclear if this will succeed.
 
-#### **Sorcery and Witchcraft**
+#### Sorcery and Witchcraft
 
 Rarely, minor cases of sorcery are brought to the canon court. A typical penance involves wearing a white sheet before the congregation, although canon courts are ambivalent about whether minor sorcery (except as evidence of infernalism or paganism) is a crime. Serious cases of sorcery are prosecuted by secular courts, which can impose death as a punishment.
 
@@ -1707,11 +1707,11 @@ guage to communicate with his congregation can be a problem, because many langua
 
 The priest's main tasks involve reciting the liturgy, distributing alms, and caring for the spiritual needs of his congregation.
 
-#### **The Liturgy**
+#### The Liturgy
 
 The liturgy is the church service. It consists of the fasting parish priest reciting the Epistle and Gospel in Latin, while it is sung by the church choir. The priest also conducts Mass. During the liturgy the priest stands before the altar, facing east with his back to the congregation. In a large church he may be assisted by several clergy in lower orders, but in a rural church the priest is usually only assisted by his clerk. There is no attempt to translate for the congregation: their role is only to gaze upon the Host (the bread consecrated as the body of Christ).
 
-#### **The Sacraments**
+#### The Sacraments
 
 The priest conducts the Mass and the other Sacraments. There are seven Sacraments, which are described in *Realms of Power: The Divine*, page 74. The Sacraments are supernatural powers. They do not need to Penetrate to have their effect, but the participants must be willing. A character may not have more than 1 Faith Point from each Sacrament.
 
@@ -1729,7 +1729,7 @@ The priest conducts the Mass and the other Sacraments. There are seven Sacrament
 
 **Extreme Unction:** Extreme Unction, or Last Rites, are performed just before, or just after, a person dies. He is absolved of all mortal sins and receives a Faith Point. In addition, his body cannot be affected by other supernatural powers for three days.
 
-#### **The Parish Clerk**
+#### The Parish Clerk
 
 The parish priest is assisted by a clerk (often an acolyte, sometimes a sub-deacon). The clerk helps with the liturgy,
 
@@ -1745,15 +1745,15 @@ The parish clerk is often selected by the priest, but in some parishes the paris
 
 The parish clerk is paid a yearly wage by the parishioners, with the exact amount depending on the wealth of the parish; a London parish clerk could expect a wage of three or four pounds, whereas a simple rural clerk may only earn a dozen shillings. The clerk is a fulltime position, but he can supplement his income by picking up small fees for writing letters for the parishioners.
 
-#### **The Curate**
+#### The Curate
 
 The curate fulfills the liturgical duties of an absent parish priest, and is usually paid only a fraction of what the benefice is worth. The curate is often a second-rate priest who is barely literate and has only a poor grasp of theology.
 
-#### **The Chaplain**
+#### The Chaplain
 
 Large parishes often contain subordinate churches called chapels. The priest appointed to hold Mass in the chapel is called a chaplain (see Rural Parishes, later).
 
-#### **The Co-adjudicator**
+#### The Co-adjudicator
 
 When the bishop learns that a parish priest is ill, senile, or mad he appoints a co-adjudicator to perform the priest's responsibilities. Sometimes (especially in temporary appointments) the co-adjudicator is the priest of a neighboring parish, who must scurry between the two parishes. The incumbent priest may either recognize his incapacity and willingly accept his replacement, or he may fight the presence of a co-adjudicator. Sometimes the co-adjudicator takes advantage of his temporary control of the parish coffers and resources.
 
@@ -1801,7 +1801,7 @@ If the parish is clearly defined by natural or man-made boundaries, then the ent
 
 An entire diocese might be affected by a Boundary target spell with a +7 Size Modifier, but the diocese's borders must also be very well defined (perhaps by rivers and forests) for such a spell to be possible.
 
-#### **The Great Discord**
+#### The Great Discord
 
 CrVi 55
 
@@ -1815,17 +1815,17 @@ The whole parish is tainted by magic, and for the spell duration everyone in the
 
 exchanges and charge a fee for their services. These fees are strongly opposed by the papacy, which regards the practice as simony.
 
-#### **Benefices Held by Institutions**
+#### Benefices Held by Institutions
 
 It is possible and common for institutions such as monasteries and chapters of canons to hold benefices; many such institutions hold dozens of benefices. In this case, the institution collects the benefice and is responsible for arranging for a curate.
 
-#### **Tithe**
+#### Tithe
 
 The tithe is used to fund the benefice, to pay the rector, and to keep up church buildings. In addition, a proportion is forwarded to the bishop (or archdeacon), and another proportion is distributed to the poor of the parish as alms.
 
 Hermetic covenants are not exempt from the tithe, and are occasionally visited by the parish priest and his clerk in order to assess what the covenant's income is. Obviously, there are many magical schemes that magi can use to avoid paying the tithe, and covenants that are hidden from the priest (perhaps within a regio) do not need to pay tithe. Nonetheless, most Christian magi would prefer to pay.
 
-#### **Papal Appointments to Benefice**
+#### Papal Appointments to Benefice
 
 A character can petition the pope for a benefice, who may order a bishop to grant one. These requests are difficult for the bishop to refuse, and in 1220 a number of benefices scattered throughout Mythic Europe are effectively controlled by the pope. If your saga follows history, then this trend develops rapidly throughout the 13th century: in 1050 Pope Leo IX controlled no benefices outside the province of Rome, whereas by the end of the 13th century the pope directly controlled over 100,000 benefices (the majority in Europe). This increase in papal power is opposed by other bishops.
 
@@ -1837,11 +1837,11 @@ A typical rural parish has a congregation of a few hundred peasants, and covers 
 
 Sometimes there are arguments over which parish an individual field belongs to. Some farmers even owe tithe in one parish, but actually attend church in another. What makes matters worse is that some parishes are not continuous tracts of land, but composed of fragmented parcels of land encapsulated within the borders of other parishes. Such disputes over the jurisdiction of parishes can simmer away for hundreds of years, but can also be resolved by petitions to the bishop or pope.
 
-#### **Chapels**
+#### Chapels
 
 As a rough rule, the Church accepts that no peasant should need to travel more than two miles to reach a place of worship (a round journey of four miles). This means that many rural parishes have several small chapels (each with a priest) to serve the outlying population. It is common for the men of a village to petition the bishop for license to build a chapel near where they live, due to difficulty in reaching the parish church. Generally, bishops are supportive of these requests, but a chapel is a significant cost to the local parishioners. The parishioners must pay for the chapel's construction, its upkeep, the chaplain's salary, *and* their normal tithe to the parish. Sometimes a small pension is granted to the chapel by the parish church, but this is by no means guaranteed. Most chapels do not have baptismal fonts or a cemetery. This means that the parishioners must sometimes make their way to the parish church, anyway.
 
-#### **Private Chapels**
+#### Private Chapels
 
 Nobles usually worship at private chapels, and virtually every castle has a chapel, as do many manor houses, guild halls, and similar places. Private chapels are not open to the public, and the license granted by the bishop often explicitly limits their use to the members of the family or community that established them. The license is sometimes limited to a particular period of time, too (a few years). Occasionally,
 
@@ -1872,7 +1872,7 @@ In large towns, one of the churches is likely the cathedral — the church of th
 
 In large urban churches there are often several altars. These additional altars are sponsored by guilds and wealthy individuals; the endowment pays for the benefice of an extra priest who performs the liturgy at the altar.
 
-#### **Chapters of Canons**
+#### Chapters of Canons
 
 The clergy who serve an urban church often live together, sharing a common table and holding common property. This community of clerics is called a chapter, and its members are canons.
 
@@ -1944,7 +1944,7 @@ Petitions can form the basis of rewarding stories, but sometimes your troupe wil
 
 The basic mechanic is to generate a Petition Total that is compared to an Ease Factor. If the Petition Total equals or exceeds the Ease Factor, then the request is granted by the appropriate officers of the Church.
 
-#### **Petition Church: Petition Total vs Petition Ease Factor**
+#### Petition Church: Petition Total vs Petition Ease Factor
 
 The following are example Ease Factors for petitions. The list is not exhaustive, it is merely a guide.
 
@@ -2126,7 +2126,7 @@ You may usually choose up to 10 points of Hooks for the church.
 
 Churches may have these resources:
 
-#### **Books**
+#### Books
 
 Every church has a copy of the missal and many churches have substantial libraries, which largely concern Church Lore,
 
@@ -2154,17 +2154,17 @@ Books cost a church the same number of Build Points that they cost a covenant; s
 | 4             | 10              |
 | 5             | 15              |
 
-#### **Specialists**
+#### Specialists
 
 Specialists are characters who serve the Church in some limited way that does not require the troupe to generate an entire character sheet. Examples include teachers in a cathedral school, scribes working on illuminated scripts, and stonemasons working on the cathedral structure. Purchase specialists using the same number of Build Points as a covenant; see **ArM5**, page 72.
 
-#### **Vis**
+#### Vis
 
 Some churches control vis sources, or have stocks of vis, which is usually tainted by the Divine (see *Realms of Power: The Divine*, page 69). Note that just because a church controls vis sources, or even has stocks of vis, this does not necessarily mean that the clergy have any use for the vis, or are even aware of the vis.
 
 Churches purchase vis at the Build Point cost of a covenant; see **ArM5**, page 72.
 
-#### **Enchanted Items**
+#### Enchanted Items
 
 maximum summa level limit.
 
@@ -2172,7 +2172,7 @@ Some churches have enchanted items that have been donated, found, or purchased f
 
 > **Enchanted Item Cost: 1 Build Point per Level of Effect**
 
-#### **Relics**
+#### Relics
 
 Practically every church contains a number of relics. Even a poor church should contain at least one relic interred beneath the altar. The cost of a relic depends on the Faith Score (see the chart) and its number of powers (in addition to the standard relic powers).
 
@@ -2184,33 +2184,33 @@ Practically every church contains a number of relics. Even a poor church should 
 
 Most of the Hooks and Boons in **Ars Magica Fifth Edition** (pages 72–74) and in *Covenants* (pages 6–27) are suitable for a church, although some may require interpretation by the troupe. Some new Hooks and Boons are provided here.
 
-## **Major Church Boon: Military Order**
+## Major Church Boon: Military Order
 
 The church is an outpost of one of the military orders, with barracks for a number of knights and men-at-arms.
 
-## **Minor Church Boon: Anchorite/Anchoress**
+## Minor Church Boon: Anchorite/Anchoress
 
 The church has a small cell built in it, in which an anchorite (male) or anchoress (female) lives, devoting his or her life to worship (see Chapter 5: Women for details). The presence of the anchorite/anchoress increases the Divine aura in the church by 1.
 
-## **Minor Church Boon: Burial Rights**
+## Minor Church Boon: Burial Rights
 
 The church or monastery has a large cemetery, and it collects a fee for conducting burials. This is worth a Typical Source of Income. Some urban parishes have no cemetery due to lack of space.
 
-#### **Minor Church Boon: Chantry**
+#### Minor Church Boon: Chantry
 
 The church or monastery collects a substantial income for reciting Masses for the dead. Masses are held for the dead when a person is buried, one month later, and one year later. Wealthy characters often leave substantial endowments for hundreds or even thousands of additional Masses to be said, for the good of their soul. Reciting the chantry Masses requires four seasons of work each year by a priest — for example, four priests could each perform for one season in the year. The chantry is worth a Typical Source of Income, and this Boon may be taken multiple times.
 
-## **Minor Church Boon: Chapter of Canons**
+## Minor Church Boon: Chapter of Canons
 
 The church priests form a chapter of canons, and there are always at least half a dozen priests within the church. They collectively hold a number of benefices. This is worth a Typical Income Source.
 
-## **Minor Church Boon: Church School**
+## Minor Church Boon: Church School
 
 The church (usually a cathedral) has a school attached. There are many characters in minor orders attached to the church as either pupils or teachers.
 
 ## Example Churches
 
-#### **Urban Parish**
+#### Urban Parish
 
 This parish is in one of the larger towns in the diocese. The town also has a substantial minority of Jews who the church canons must sometimes protect from persecution. The town guild master is a close ally of the dean, and the guild has sponsored its own altar in the church.
 
@@ -2220,7 +2220,7 @@ This parish is in one of the larger towns in the diocese. The town also has a su
 
 **Resources:** Divine aura 5. Books: 150 Build Points. Relics: Two relics (Faith Score 3; each with two powers), ten minor relics (Faith Score 1). Vis Sources: 5 pawns Creo (sound of the pealing bells at Easter Mass). Specialists: 6 Canons (Church Lore 5), 2 Notaries (Profession: Scribe 5), 1 Master Stonemason (Profession: Mason 6), 8 Churchwardens (Brawl 4). (295 Build Points)
 
-## **Village Parish**
+## Village Parish
 
 This church serves three small villages constructed on the edge of a forest, which was once a nobleman's hunting estate and is now used as a resource by the peasants. The church is very old and in a bad state of repair, which makes climbing the bell tower perilous. The decay is caused by spells cast by the lords of a faerie court, who haunt the dark places in the forest. In addition, perhaps due to the presence of the faerie court, unless the church relics are carried on the perambulation the Divine aura reduces to 3 for the following year. The curate's cousin is the bishop of the diocese.
 
@@ -2228,7 +2228,7 @@ This church serves three small villages constructed on the edge of a forest, whi
 
 **Boons:** Powerful Ally (bishop); Chase. **Resources:** Divine aura 4. Books: *Bible*, *Missal*, *Parish Register* (Level 7). Relics: one relic (Faith Score 2; with two powers), three minor relics (Faith Score 1). Vis Sources: 3 pawns Animal (first boar of the hunt), 5 pawns Imaginem (mid-summer dawn light penetrating the bell tower). (141 Build Points)
 
-#### **Covenant Chapel**
+#### Covenant Chapel
 
 The chapel is a separate building built in a shaded glen a few minutes' walk from the covenant tower. It was once the site of a pagan temple. The parish clerk secretly reports to the bishop on the affairs of the priest.
 
@@ -2238,27 +2238,27 @@ The chapel is a separate building built in a shaded glen a few minutes' walk fro
 
 
 
-#### **Major Church Hook: Corrupt**
+#### Major Church Hook: Corrupt
 
 The church priests are corrupt. The church has an Infernal aura instead of a Divine one. If the corruption is discovered by the archdeacon or bishop, the priests will be excommunicated and replaced.
 
-#### **Major Church Hook: Heretics**
+#### Major Church Hook: Heretics
 
 The church priests have heretical beliefs. If discovered, the church is likely to be frequently visited by the archdeacon, bishop, or even a papal legate. The priests run the risk of excommunication and even crusade.
 
-## **Major Church Hook: Jurisdiction**
+## Major Church Hook: Jurisdiction
 
 The church is a cathedral, archdeaconry, or deanery, and has jurisdiction over dozens or even hundreds of subordinate churches. Regional synods are held at the church at least once a year.
 
-## **Minor Church Hook: Absent Rector**
+## Minor Church Hook: Absent Rector
 
 The priest who collects the benefice does not live in the parish. The priest's duties are undertaken by a curate.
 
-## **Minor Church Hook: Incompetent Curate**
+## Minor Church Hook: Incompetent Curate
 
 The church curate is incompetent. If discovered, the curate may be removed and the church will be subject to many visitations. This cannot be taken for a major church.
 
-## **Minor Church Hook: Vast Sanctuary**
+## Minor Church Hook: Vast Sanctuary
 
 By custom, anyone may seek sanctuary within a vast area of land several miles around the church (this may be the entire parish). This means that the priest is often in conflict with the sheriff.
 
@@ -2355,12 +2355,12 @@ Monks live under a rule, which lays down a complex set of regulations for commun
 
 While the rule may seem very severe, it is attractive to many as an escape from the uncertainties of life in dangerous times, and offers food, shelter, education, stability, companionship, and the chance to learn and develop spiritually. It is an extremely attractive lifestyle to many, and it has produced a flowering of deep and fulfilling devotion. Monks are often very happy in their lot, but there are always exceptions.
 
-#### **Daily Routine**
+#### Daily Routine
 
 The daily routine is marked by bells, which summon monks to devotions and inform them of meal times and work periods.
 
 
-#### **Discipline**
+#### Discipline
 
 Monks and nuns are expected to obey their superiors without hesitation as a sign of their humility, and to be respectful to each other. None may strike or insult another brother, or belittle them. Silence is practiced for long periods, and even when speech is allowed, jokes, gossip, and idle banter are specifically forbidden. Long silences are used to teach discipline with respect to speech, with the right to speak conferred by the abbot as a privilege. Speech may be used when working, and is allowed at various specified times; at other times, monks use a series of hand gestures to communicate with one another. This sign language is a silent language that is not understood by outsiders. Monks may not speak to guests and visitors, but may offer a blessing if spoken to, and may inform them politely of the rule.
 
@@ -2384,7 +2384,7 @@ Numerous examples of story ideas based on disciplinary problems are presented in
 
 ### The Church
 
-#### **Property and Possessions**
+#### Property and Possessions
 
 Monks are clothed appropriately for the local climate, with two woolen robes and cowls each, and a pair of sandals. These are provided by the monastery, and repaired or replaced as required when worn out. Also provided by the monastery are stockings, girdle, knife, pen, needle, towel, and writing tablet; however, a monk found keeping private property beyond this, especially if not specifically allowed to do so by the abbot, faces severe disciplinary measures and loss of all the above, leaving him naked but for an undergarment while he does penance. Curiously, the keeping of personal pets is widely accepted and common — dogs, songbirds, and even monkeys and squirrels are kept by both monks and nuns.
 
@@ -2415,19 +2415,19 @@ A reader is appointed each week to read at meals, starting on Sunday, and anothe
 
 The abbot always dines with guests and travelers alone in his lodgings. If there are no guests he may choose to invite some of the brethren to eat with him, and they may have the privilege of enjoying meat and superior wine.
 
-#### **Sleeping Arrangements**
+#### Sleeping Arrangements
 
 or old are exempt.
 
 The monks are provided with beds arranged in dormitories. In a small monastery they may all share the same room, but in larger monasteries several dormitories, each housing ten to twenty monks, are provided. Each dormitory has a senior monk appointed to keep good order. Each monk sleeps fully dressed, but removes his eating knife to prevent any dangerous accidents. A straw mattress, a blanket, a coverlet, and a pillow are given to each monk, who will have that bed as his own from then on. The abbot examines the beds without warning from time to time, according to the rule, to prevent personal goods from being concealed there. Dormitory inspections are common, even though the dormitory supervisors should keep order.
 
-#### **Hospitality and Visitors**
+#### Hospitality and Visitors
 
 Guests are expected because many travelers avail themselves of monastic hospitality and, by the rule, none may be turned away. They are generally invited to meet the monks at the chapter meeting, and be formally received by the abbot, who is expected to pray with them, and then exchange the kiss of peace. In practice only important guests are usually greeted this way; in houses on important routes, there are so many guests that they are entirely dealt with by deputies. The abbot invites important guests to dine with him in his quarters, unless the monks are fasting, when the guests eat alone. In theory, and by the rule, the monks wash their guests' feet, serving the poorest with humility, but travelers may find the custom is not always observed.
 
 The guest quarters are situated away from the monks' quarters, so that they do not interfere in the smooth running of the monastery, and certain monks and some servants of the monastery are assigned to look after guests, and meet their needs. Other monks may not speak to guests, but may offer a blessing if spoken to and may inform them politely of the rule that forbids conversation.
 
-#### **The Infirmary**
+#### The Infirmary
 
 Sick monks are given a room of their own, meat with meals, baths as desired, and they have another monk appointed to look after them while, in ideal circumstances, everything possible is done to restore them to full health. Larger houses have an infirmary; the role of infirmarian is often unpopular, as this person eats in the area where the sick are kept and has limited contact with his fellows while looking after his charges.
 
@@ -2436,7 +2436,7 @@ Not all infirmaries are given over to the care of the sick. Large monasteries mi
 
 Nonetheless, a monastery always has individuals knowledgeable in Medicine and Chirurgery, and herbs and medicines are often available here.
 
-#### **Work Outside the Monastery**
+#### Work Outside the Monastery
 
 Monks are often called by duties to go on a journey, or they may be working too far away to get back for one of the seven divine offices. If so, they must perform it reverently on their knees wherever they happen to be. Most monks know the Psalter by heart. Monks sent out on business should always try to return the same day, if at all possible, and should eat nothing outside unless specifically allowed to do so by their abbot.
 
@@ -2458,7 +2458,7 @@ the senior religious varies between houses, depending on local conditions. All m
 
 The most important roles are described here. Other posts exist depending on the circumstances of the house, and in many smaller houses the abbot or prior fills many positions in person. The power, privileges, and responsibility of each position also vary from house to house.
 
-#### **The Abbess or Abbot**
+#### The Abbess or Abbot
 
 The abbot is effectively the house's ruler, its spiritual father, and is responsible for the spiritual and physical welfare of all the monks. It is a position of great responsibility, and abbots are often extremely powerful, even in national politics, though this varies with the wealth and influence of their monastery. Strictly speaking, the abbot is first among equals, and while his status is as head of the monastery, he is technically a servant to all. The rule is also clear that the abbot must be fair and evenhanded, saying "Let him make no distinction of persons in the monastery. Let him not love one more than another, unless he finds them more exemplary in good works and obedience." Although the abbot holds supreme authority, the monks should be consulted on important matters. When a decision is required, such as if the player characters make a request of the monastery, the abbot should call all the monks before him in the chapterhouse and explain the situation, then listen to their advice. Regardless of the opinions expressed, the abbot is not bound by them; he alone takes the final decision, by which the community must abide. The abbot holds his role for life.
 
@@ -2477,13 +2477,13 @@ The Abilities for an abbot or abbess should include Leadership. Intrigue and Chu
 
 senior clergy, and with the nobility at a level depending on his or her family background. Details of the appropriate Social Status Virtue, Senior Clergy, are presented in Chapter 2: Diocese.
 
-#### **The Prior or Prioress**
+#### The Prior or Prioress
 
 A prior's role can be hard to define. Second in command to the abbot (except in a priory, where he is its head and the abbot lives at the motherhouse), he deals with many issues of administration and supervises the abbey's dealings with the outside world. Often priors find themselves in dispute with the abbot, a situation that can lead to factions and power struggles. The prior mainly deals with relations with the nearby towns, provisioning, and administration, while the abbot deals with internal matters, as well as politics and important outside affairs. It is usual for a prior to be appointed by either the abbot, the patron, or the motherhouse, from among the best monks in the monastery. Large houses may have a sub-prior as his deputy, and even a third prior as the sub-prior's assistant.
 
 Players should pick from the same range of Abilities for an abbot or abbess. The appropriate Social Status Virtue is Religious, unless the prior is unusually powerful and influential, when Senior Clergy may be more suitable.
 
-#### **The Terrar**
+#### The Terrar
 
 The terrar is the monastery's land agent, responsible for estates and lands. Nunneries are rarely rich enough to require one. If no suitably skilled monk is available, a professional layperson is employed in this capacity. It is a demanding job, ensuring
 
@@ -2497,7 +2497,7 @@ The abbot and the prior can fall out, but the rule is clear that the abbot is th
 
 that tithes are paid, that manors are properly productive, and balancing the accounts. It is also a job that provides excellent opportunities for the avaricious to steal from the monastery, and build up a tremendous personal fortune. Relatively few monks are likely to have the relevant Abilities — Profession: Terrar, Profession: Reeve, Profession: Steward, or similar, as well as a good knowledge of Civil and Canon Law, and in some regions Common Law, as well as Leadership, Intrigue, and Folk Ken at a minimum. Therefore, very often the role of terrar — effectively the prior's lawyer and accountant — must be given to an employee; finding an honest, educated employee who can resist temptation is very hard, however. Magi may even find themselves approached with an eye to filling the position, if they have a reputation for honesty.
 
-#### **The Cellarer or Cellaress**
+#### The Cellarer or Cellaress
 
 The cellarer or cellaress is responsible for everything concerning provision of food and drink. She has to make sure that supplies are obtained regularly from the local market, or are sent directly to the nunnery, and may send agents to the nearest fair to obtain imported wines and other specialties if the nunnery is rich. As well as dealing with day-to-day matters in the kitchens, this role for a monastery may involve organizing the work of monks in the kitchen garden and orchard, while for a nunnery this requires supervision of laymen working for the nunnery. For a large establishment, the cellarer must deal with those who run the farms owned by the monastery, and is often responsible for collecting produce and tithes from the monastery's farms and manors. Most abbeys include their own vineyards or brew houses, plus a mill. Locals are often expected to grind their corn at the monastery mill and pay fees, and are prosecuted for possession of querns (hand mills), as by a secular lord.
 
@@ -2515,7 +2515,7 @@ is a very large sum of silver missing from this year's accounts. It becomes clea
 
 In smaller houses one person often fills the roles of both cellarer and terrar. This is the bursar, who is responsible for both estate management and keeping the monastery stores and accounts. In larger houses, where both those positions exist, the bursar is an official charged with keeping the monastery's internal accounts, and maintaining good order concerning stores for the buildings, vestments, and ritual supplies.
 
-#### **The Infirmarian**
+#### The Infirmarian
 
 The infirmarian looks after the sick and elderly, and also looks after the general health of the monks or nuns, including bloodletting and maintaining a suitable regimen if he has the necessary knowledge. The infirmarian is often isolated by these duties from the other monks, and so is required to eat alone and remain with the patients, missing the hours and chapter meetings as required. Smaller monasteries may rotate the role, and ones that appoint a specialist infirmarian usually provide him with a weekly assistant or two drawn from a rota.
 
@@ -2525,30 +2525,30 @@ In a monastery, the infirmarian should have the Abilities Chirurgy and Medicine.
 
 The herbalist will have a very different lifestyle than the herbwife (see *Art & Academe*, page 55), but she has the Herbalism Virtue and its associated Herbalism Ability and Profession: Apothecary. She has permission from the abbess to cultivate useful herbs within the nunnery grounds, and to leave the nunnery periodically to purchase or collect those she cannot grow.
 
-#### **The Head of the Novitiate**
+#### The Head of the Novitiate
 
 The head of the novitiate in a nunnery has responsibility for women and girls preparing to take religious vows. A similar post exists for monks. Useful Abilities include Awareness and Folk Ken to monitor novices' behavior, as well as Teaching and the subjects she needs to teach, particularly Church Lore, Latin, and Artes Liberales.
 
-#### **The Sacrist**
+#### The Sacrist
 
 The sacrist is responsible for vestments, candles, incense, and other elements of church ceremonies, and the upkeep of the church and chapels. The sacrist has access to the sacred host and consecrated wine, and is accused sometimes of selling it to individuals willing to pay, for nefarious purposes. Such a grave sin must be very uncommon, if it occurs at all.
 
-#### **The Precentor**
+#### The Precentor
 
 This monk is responsible for the provision of music and chants. He requires Abilities in Music, Church Lore, and Teaching as a minimum for his duties. Rumors of precentors leading monks in bawdy songs or blasphemous parodies of the Mass are surely untrue.
 
-#### **The Porter**
+#### The Porter
 
 The porter's job is to answer the door, at any time of day or night. The rule says of him, "Let a wise old man be placed at the door of the monastery, one who knows how to take and give an answer, and whose mature age doth not permit him to stray about." Although the main gates are locked every night, and townsfolk, pilgrims, and casual visitors not admitted, honest travelers seeking shelter, especially in remote
 
 
 The porteress has the responsibility of making sure no person or thing enters or leaves the nunnery that should not. She knows if gifts arrive for a particular nun, and makes sure they are used for the common good.
 
-#### **The Hostillar**
+#### The Hostillar
 
 This monk is in charge of the guest house and visitors' welfare. As such, this is the individual who the player characters will most often deal with, and the hostillar is not bound by the rules of silence common to other monks. In many ways, the personality of the hostillar at a particular monastery comes to define the personality of that establishment to travelers on the roads. An abbot wishing to discourage lengthy visits or weary travelers seeking shelter might appoint the most rude, abrupt, sly, bitter, or otherwise unpleasant individual he can to this task, and instruct him to refuse all requests that can be refused within the bounds of hospitality. As most visitors do not know the rule, and are not aware they are supposed to dine with the abbot, they easily can be kept in the guest quarters, watched constantly by servants, and kept from prying into the secrets of the monastery. In other houses the hostillar is friendly, hospitality is lavish, and visitors are treated well. Visitors with The Gift will, however, provoke suspicion whatever the hostillar is like.
 
-#### **The Almoner**
+#### The Almoner
 
 One monk has responsibility for distribution of surplus food, and sometimes other goods, to those who come begging at the gate. Since this monk has a good reason to interact with those from outside, he can be a useful point of contact. Beggars go to nunneries too, although, to keep clamor away from the door, the nunnery should not distribute alms to the poor at the nunnery; if possible, arrangements are made for any surplus to be given away through the nunnery's benefactors.
 
@@ -2565,30 +2565,30 @@ Traditionally, all monastic foundations, whether for men or women, followed the 
 
 While the Cluniacs, Cistercians, and Vallumbrosans are detailed in Chapter 6: The Corrupt, and the Benedictines are discussed in detail in this chapter, Mythic Europe has many other orders varying in size. The mendicant orders of friars are discussed in Chapter 8: The Franciscans, the military orders in Chapter 9: The Templars.
 
-#### **Augustinian Canons**
+#### Augustinian Canons
 
 The majority of Augustinian canons, known as Black Canons for the color of their habits, can be found in cathedral chapters. They are regular clergy performing the usual priestly and administrative functions, who have taken monastic vows and live according to the Rule of Saint Augustine. They enjoy excellent relations with many bishops, as they form the staff of many cathedrals in the Italian peninsula, Bavaria, and Provence, but they can be found much further afield. They are well liked for the generosity of their alms-giving to the poor.
 
-#### **Carthusians**
+#### Carthusians
 
 The Carthusians follow the Statutes of Saint Bruno rather than the Rule of Benedict, and the order consists of both monks and nuns. Monasteries and nunneries consist of individual cells within a larger complex, with an emphasis on personal devotions and strict withdrawal from the world, and the life is far more austere and less communal than in the other orders. The monks only gather for holy office in the monastery church, but they cultivate land and perform manual labor together to support their communities. Carthusian houses are closed to outsiders, and do not have pilgrim hostels or encourage visitors. They practice complete silence, and all necessary communication is by sign language.
 
-#### **Gilbertines**
+#### Gilbertines
 
 Found only in England, the Gilbertines were founded in 1130 at Sempringham, Lincolnshire. Their distinctive habit is black with a white cowl, and as a double order they have both monks and nuns, sharing a church with a wall dividing them. Lay brothers toil in the fields, and conditions are hard. Recently some monks have appealed to the pope, who ruled in favor of Gilbert's austere rules, but since the death of Gilbert in 1190 things have become more relaxed. Saint Gilbert was canonized in 1202, and his saint's day is celebrated on February 4th.
 
-#### **Premonstratensians**
+#### Premonstratensians
 
 Founded by Saint Norbert with 12 disciples, these 13 monks were to create one of the great orders of the Rhine, and were instrumental in converting the Wends. Following the Rule of Augustine, the order was initially composed of both nuns and monks, but since 1198 has closed the nunneries and only admits monks. They do not own land, but work as hired laborers in exchange for food and goods. This money is used to support the community, and each evening the surplus is distributed to the poor at the almshouse of the monastery.
 
-#### **Trinitarians**
+#### Trinitarians
 
 Known as the Red Friars for the color of their habit, the Trinitarians were founded in 1198 in France for the purpose of rescuing and ransoming Christian captives. One third of their income is set aside to ransom Christians who have fallen into captivity, and they also perform educational and hospital duties in the regions around each of their houses.
 
 
 research into past events. Another type of book, the mirabilia, contains stories of faeries and magical and unusual natural phenomena, signs, and wonders. Books of this kind are a research resource that may provide clues in many stories.
 
-#### **The Priest**
+#### The Priest
 
 Many abbots are ordained as priests, on election if not before, but not all. In monasteries where there is no ordained priest, a clergyman must be retained to celebrate Mass. In many Benedictine monasteries one brother is ordained and performs this role, but receives no special privileges. A nunnery also has a priest who celebrates Mass and takes confession; he is one of the few men who can enter the guarded confines of the women's world.
 
@@ -2696,29 +2696,29 @@ To keep sleep at bay during vigils, light work is encouraged, of a sort that wil
 
 ### Story Seeds
 
-#### **Appealing to the Bishop**
+#### Appealing to the Bishop
 
 A nun is unhappy in her nunnery and contacts someone at the covenant for help in persuading the bishop to authorize her transfer.
 
 Or, a nun is selected by the bishop for a senior role in a nunnery on the far side of the diocese, and she asks for help to avoid the transfer without bringing any disgrace or disapproval upon her.
 
-#### **Personnel Matters**
+#### Personnel Matters
 
 The abbess or prioress or porteress, who is sympathetic to the covenant, or to at least one person important to the covenant, is moved elsewhere, promoted, retired, or dies. Can the player characters influence the choice of successor? How do they win over or otherwise cope with the new appointee?
 
-#### **Vocation**
+#### Vocation
 
 One of the young female servants at the covenant decides she has a religious vocation and announces she is going to ask to be taken on as a novice. Do player characters try to dissuade her, or prevent her? She might appeal to a priest for help if they do. If the covenant helps her in her endeavor, providing the required donation may be a challenge. What if she takes and donates something that is valuable covenant property, perhaps by mistake? This may be a minor enchanted item, something she is so used to that she does not think of it as appearing strange to outsiders.
 
-#### **Cheap Education**
+#### Cheap Education
 
 A nunnery near the covenant is hard up and decides to offer elementary schooling in Artes Liberales and Latin to girls for a very moderate fee. Does the covenant take advantage of the offer? If they do, how do they handle the situation when a pupil talks about unusual things she has seen or heard about at home? What about when senior visiting clergy investigate, and try to close the school?
 
-#### **Communal Life**
+#### Communal Life
 
 A nun with links to the covenant or to a player character is punished for a moderate transgression, either deservedly or in error. She is put under the vigilant eye of a strict nun who notices, forbids, and reports anything unusual. This includes the sending or receiving of messages and the possession of anything personal. What if the unfortunate nun talks in her sleep?
 
-#### **Works of Charity**
+#### Works of Charity
 
 The prioress at a nunnery friendly to the covenant asks a player character from the covenant to distribute alms on its behalf. Will the character accept, or seek a suitable substitute? Can the character find somewhere other than the covenant itself as the focal point for distribution, rather than encourage a stream of poor people visiting the magi?
 
@@ -2734,15 +2734,15 @@ Most nuns come from a noble family, so Privileged Upbringing is a common Virtue.
 
 ## Story Seeds
 
-#### **Too Late**
+#### Too Late
 
 A lady who has failed to find a husband because she was too proud to accept the advances of any of those who showed interest, or one who was too cold, coy, or teasing and put off men by her behavior, has been in the nunnery long enough to recognize her error. All through her time as a novice, she thought she would manage very well despite her poor vocation but, some time after taking her vows, she realized that she was mistaken. She takes every opportunity she can contrive to speak with visitors to the nunnery, begging for their help to appeal to the bishop for release from the way of life she now detests. She refuses any plan that involves escape without all the necessary permissions.
 
-#### **The Frustrated Lover**
+#### The Frustrated Lover
 
 A man comes to the covenant because he has heard that there are some very clever scholars there, or perhaps he knows one of the grogs. He seeks help to get inside a nunnery to be with his beloved, who has been shut up there against her will. Her family does not approve of her relationship with him, because he is the younger son in a relatively poor noble family and unlikely to come into any significant inheritance. Are any of the covenant inhabitants soft hearted, or willing to help him for other reasons? If the grogs agree to help, how much disturbance will they cause, stirring up trouble between the covenant and the nunnery? If a maga agrees to help, can she avoid upsetting the Quaesitores? And what happens when a demon takes the opportunity to help bring about a serious sin?
 
-#### **The Gifted Nun**
+#### The Gifted Nun
 
 A traveling Redcap is obliged, by foul weather or accident, to seek hospitality at a small nunnery; or perhaps a member of the covenant visits the nunnery to talk to a contact there, or to consult a book. While there, they observe a young nun sitting on a stone step eating a crust of bread and a bowl of pottage, while her sisters are eating together in the refectory. It soon becomes obvious to the visitor that the girl has The Gift and could be a valuable apprentice. Getting into conversation with her is not easy, owing to both the rule and the attitude of the prioress toward the unfortunate girl. Can the visitor persuade the prioress to allow a conversation? If the girl has a real vocation, it is hard to convince her of any advantage in leaving the nunnery. In contrast, the prioress would be glad to be rid of her, but a wealthy family put her there and the prioress cannot risk offending them. Can a compromise be reached? And how will the nunnery and the covenant deal with the bishop when he finds out, and tries to return the nun to the cloistered life?
 
@@ -2750,7 +2750,7 @@ brewing, and horticulture necessary to provide food and drink are probably all i
 
 It is not unusual for a widowed woman to take up residence in a nunnery rather than marry again. She might pick one she has family links with, one she has supported over the years, or she may choose to found a new one. In some instances this is under pressure from her offspring or other members of the family, who want her out of the way. Some, but not all, take vows eventually. They share in the life of the nunnery and bring valuable, but sometimes unsettling, experience of the world outside, as well as money to support the sisters.
 
-#### **The Scholar**
+#### The Scholar
 
 As a nun, a woman has more opportunities for education than in any other common calling. Many come from a Privileged Background, and enter the nunnery with Artes Liberales and maybe one or two other Academic Abilities. A scholarly nun may have Virtues that enhance her learn-
 
@@ -2762,7 +2762,7 @@ There are, across Mythic Europe, a number of scholarly nuns with prolific corres
 
 Also see the section headed Mystics for details on Hildegard of Bingen, for an example of a female character famed as a scholar.
 
-#### **The Refugee**
+#### The Refugee
 
 There are quite a few unhappy lovers in nunneries. A girl who sees the man she loves marrying another or becoming a monk or priest, or who is prevented by her family from accepting her preferred suitor, can see life in the nunnery as her only option. Stories abound concerning women taking the veil to avoid an unpleasant arranged marriage. A married woman who finds her husband violent or his immediate family unbearable can enter a nunnery as the only honorable escape. A girl who sees her mother's marriage as unhappy may choose the nunnery rather than risk similar treatment at the hands of a husband.
 
@@ -2779,7 +2779,7 @@ God but for love of her husband. However, as time passed her relationship with G
 Abelard died more than twenty years before Héloïse. Her last wish to her nuns was that she be finally laid to rest in the same tomb as her husband, and on her burial his corpse was seen to reach out to embrace hers.
 
 
-#### **The Prisoner**
+#### The Prisoner
 
 Some women live in a nunnery because they were put there by their families, without regard to lack of vocation or piety. This can happen because the girl is too expensive to marry off, or is a social embarrassment in some way — perhaps on account of deformity, mental deficiency, or a supernatural gift or The Gift itself. If the family can afford a sufficiently generous endowment, a poor nunnery is likely to take in a girl with even The Blatant Gift. The life of any Gifted girl in a nunnery is difficult, unless she has the Gentle Gift Virtue, as she will be distrusted and shunned, picked on for unpleasant duties, and often blamed and punished through no fault of her own.
 
@@ -2801,7 +2801,7 @@ Christina's father sought support from the prior at the local abbey to persuade 
 
 ple-Minded characters or those with certain Social Handicaps might be marriageable if they are attractive and/or wealthy; but once wed, a husband may send his unpleasant wife to live in a nunnery, just to get her out of his way.
 
-#### **The Revolutionary**
+#### The Revolutionary
 
 There are new spiritual movements growing across Europe, some tending towards the heretical and others seeking to revive the ways of the earliest days of the Church. A woman or girl with new ideas can be a very unsettling influence in a nunnery, whether her ideas are orthodox or not. The strongest such development is the followers of Francis, as described in detail in Chapter 8: The Franciscans.
 
@@ -2824,7 +2824,7 @@ It is usually easy for a nun to get permission from her superiors for a visit to
 
 ## Story Seeds
 
-#### **Forbidden Love**
+#### Forbidden Love
 
 A young nun entered the nunnery with enthusiasm at the age of 11 but now, nearing 16 years of age, she feels attracted by news of fine clothes, good food, dancing, and so on that she hears from the women who entered the nunnery after enjoying several decades of life outside. The abbess is strict, so the young nun has had very little contact with men since she was a child.
 
@@ -2832,7 +2832,7 @@ A young nun entered the nunnery with enthusiasm at the age of 11 but now, nearin
 
 If love takes its course, the nun becomes desperate about her unborn child and somehow a message reaches the covenant, asking for help. It is unlikely that the nun will agree to terminate the pregnancy, either by magical or mundane means, but she might be persuadable. More likely, she wants assurance that her child will be taken in by the covenant and cared for there. She asks for regular news of the child, but the abbess will forbid this if she finds out. The nun then asks the covenant to help her leave the nunnery and join her child.
 
-#### **Guests**
+#### Guests
 
 The abbess, who is the youngest daughter of a noble family, has had no option but to allow her aunt to take up lodgings in the small guest quarters close to the entrance gate of the nunnery. The aunt pays more than enough to cover the cost of food for herself and her two female servants, but she receives many visitors who come accompanied by their own attendants. How can the nunnery accommodate and feed so many?
 
@@ -2848,33 +2848,33 @@ Note that sins involving vanity, greed, and lust are less serious than pride, wh
 
 When the bishop discovers a nunnery where many of the nuns are living sinful lives, and the misdemeanors have caused public scandal, the nunnery is closed. The inhabitants are usually sent separately to live in other, trusted nunneries where they can repent and return to a correct way of living.
 
-#### **Reports of Wayward Nuns**
+#### Reports of Wayward Nuns
 
 Contrasting sets of written records provide examples of misdemeanors on the part of nuns. Bishops are required to make visitations every few years to check on each nunnery. Their reports
 
 ## Story Seeds
 
-#### **New Foundations**
+#### New Foundations
 
 Someone plans to found a new nunnery not far from the covenant, or too close to an important vis source. Whether it is a wealthy religious foundation sponsoring a sister-house, or a member of the nobility endowing a new one for personal reasons, the covenant has a problem.
 
-#### **Power Play**
+#### Power Play
 
 In the nunnery most closely associated with the player characters, a conflict builds up gradually between the abbess (or prioress, if it is a small or subsidiary establishment) and an older noble widow who has come to live there. The newcomer is pious enough, but she is used to having servants at her command and to running her own household. Infernal intervention fans the flames and soon it looks as if the conflict will either come to the attention of the Church authorities, or else the widow's influential family will step in. Any intervention risks exposing links between the nunnery and the covenant that will bring the covenant unwelcome attention from Church, state, and the Quaesitores.
 
-#### **Bad Prayer**
+#### Bad Prayer
 
 A priest hears a woman's confession, and is horrified to find that she has been fervently praying that her husband and his mother take ill and die so she would be left free to enter a nunnery. A demon hears of the desire and steps in to offer a bargain.
 
-#### **Gone Missing**
+#### Gone Missing
 
 One morning a nun goes missing from her place in the chapel. Unhappy with her lot, she has been cursing everyone and everything that had to do with her enforced way of life. Finally, a demon appeared and agreed to take her away. The demon, a Tempter (see *Realms of Power: The*  *Infernal*, page 43; Nitibus on page 56 in the same book could be used) is waiting for her to commit a mortal sin. Help from the covenant is needed to find out what happened, and then to rescue her.
 
-#### **Suspicious Mixtures**
+#### Suspicious Mixtures
 
 During the bishop's visitation, he is accompanied by a learned monk who takes a great interest in the nunnery's herbalist. While discussing with her the best treatments for this and that ailment, he comes across some ingredients and concoctions in her collection that he thinks are very suspicious. He finds a paste of camphor and cumin, a sticky mix of ginger, lemon peel, and honey, some dried rose petals mixed with cinnamon, a compound of saffron and orchid pulp, and some cloves mixed with marigold petals. He recognizes the first three as treatments for impotence and the other two as stimulants designed to induce lust. If he says anything, though, he is going to have to explain how he knows so much about such things. If he challenges the herbalist, can she convince him that she knows of these only as innocent remedies, perhaps for the sort of female problems she must not discuss with a man? Perhaps the herbalist is totally clear of blame and her apprentice or assistant made the mixtures.
 
-#### **Brides of Christ**
+#### Brides of Christ
 
 Having given up any thought of a human husband, nuns see themselves as brides of Christ. A Twilight-addled magus arranges for a nun to be kidnapped and brought to his laboratory, where he intends to exploit the holy connection that marriage creates between husband and wife to use the nun as an Arcane Connection to God. The nun could be a player character, or someone from a nunnery where the player characters have a contact, such that they are called upon to carry out a rescue.
 
@@ -2976,15 +2976,15 @@ The anchoress should gently correct faults in the behavior of her servants, impo
 
 ## Story Seeds
 
-#### **Defying the Bishop**
+#### Defying the Bishop
 
 Three young women live together as penitents in a house near the city wall, provided for them by a merchant grown rich on trade in fine fabrics. When their sponsor finds himself in dispute with the bishop, the women come under pressure from the Church to abandon their present home and move in with another penitent community on the other side of the city. Under normal circumstances, they may be able to agree to go along with the proposal, even though they know there will be personality conflicts if the groups are forced together in this way. However, these penitents are actually a Jerbiton maga with her two servants.
 
-#### **Unexpected Visitation**
+#### Unexpected Visitation
 
 An anchoress player character, or one closely associated with the covenant, uses disguise (mundane or magically assisted) to change places with her servant and go out. She does not usually stray more than 15 minutes' walk from her cell, but the unexpected may lure her further. One day she is further from home than usual when an archdeacon, or maybe even a papal legate, passes by her cell with a small retinue and, on a whim, stops to speak with her. Can the servant maintain an adequate deception for the duration of the visit and allay any suspicions? How does she explain the long absence of her "servant," who ought to be outside providing refreshment to the retinue while the "anchoress" talks at the window with the important visitor?
 
-#### **Menagerie**
+#### Menagerie
 
 Tired of walking to the farm every day to collect milk, the anchoress' servant persuades the farmer to give a cow, which is put to graze on the common land close to the church where the cell is. Before long, the anchoress has acquired two more cows, four goats, three pigs, and a small dog that lives in the cell with her. The servant spends much of her time tending the livestock. The local populace increase their donations to feed the animals as well as the anchoress and her servant. Then someone, perhaps the priest himself, passes a complaint to the bishop.
 
@@ -3165,7 +3165,7 @@ The character can be customized with 60 points of spells.
 
 The following female companions are suitable for Ars Magica sagas.
 
-#### **Mystic Nun**
+#### Mystic Nun
 
 **Characteristics:** Int +1, Per +2, Pre –2, Com +3, Str –1, Sta +2, Dex –1, Qik –1 **Size:** –1
 
@@ -3195,7 +3195,7 @@ The nun is also starting to earn a reputation as a correspondent, and exchanges 
 
 This character can be developed with up to 2 more points of both Flaws and Virtues.
 
-#### **Anne, a Holy Hermit**
+#### Anne, a Holy Hermit
 
 **Characteristics:** Int +1, Per +2, Pre +1, Com +1, Str –1, Sta +2, Dex –1, Qik 0
 
@@ -3225,7 +3225,7 @@ Although she lives as a recluse, she is not Reclusive according to the Flaw. She
 
 This character can be developed with up to 5 more points of Flaws and Virtues.
 
-#### **Imposter**
+#### Imposter
 
 **Characteristics:** Int +2, Per 0, Pre +3, Com +2, Str –1, Sta 0, Dex 0, Qik –1
 
@@ -3236,7 +3236,7 @@ This character can be developed with up to 5 more points of Flaws and Virtues.
 **Personality Traits:** Reckless +3, Selfish +2, Lecherous +1
 
 
-#### **Combat:**
+#### Combat:
 
 *Dodge:* Init –1, Atk n/a, Def +2, Dam n/a *Fist:* Init –1, Atk +3, Def +2, Dam –1 *Kick:* Init –1, Atk +3, Def +1, Dam +2
 
@@ -3256,7 +3256,7 @@ See *Realms of Power: The Infernal*, pages 85 and 89 for details on the tainted 
 
 Female grogs such as these may also fit well into your saga.
 
-#### **Anchoress**
+#### Anchoress
 
 **Characteristics:** Int +1, Per +1, Pre –1, Com +3, Str –1, Sta +2, Dex –1, Qik –1
 
@@ -3282,7 +3282,7 @@ The anchoress spends far more time at her window that she ought, and chatters wi
 
 This character could be used in occasional stories, and could be run by a player who is not always available.
 
-#### **Beguine**
+#### Beguine
 
 **Characteristics:** Int 0, Per +1, Pre +1, Com +1, Str –1, Sta 0, Dex +1, Qik +1
 
@@ -3307,7 +3307,7 @@ She does not have any particular longterm plans, but is unlikely to spend the re
 
 While with the beguines, she is a player character with useful contacts in town, who can go places and obtain information that could be helpful to a covenant. If she leaves, her relationship with her mentor might change sufficiently to make it sensible to substitute an alternate Flaw. If circumstances are right, she will abandon her temporary vow of chastity, and so that too should be replaced. Her Social Status will change as well.
 
-#### **Priest's Wife**
+#### Priest's Wife
 
 **Characteristics:** Int 0, Per +2, Pre +2, Com +1, Str 0, Sta 0, Dex +1, Qik –1
 
@@ -3317,7 +3317,7 @@ While with the beguines, she is a player character with useful contacts in town,
 
 **Personality Traits:** Careful +2, Cheerful +1, Practical +1
 
-#### **Combat:**
+#### Combat:
 
 *Dodge:* Init –1, Atk n/a, Def +2, Dam n/a *Fist:* Init –1, Atk +3, Def +1, Dam +0 *Kick:* Init –2, Atk +3, Def +0, Dam +3 **Soak:** 0
 
@@ -3409,7 +3409,7 @@ Technically, the answer is no, there is no such thing as the Cluniac order. All 
 
 The term mortuary Mass can mean any Mass for the remembrance of the dead, that is a requiem Mass, but the term is also used in a far more sinister way in Mythic Europe. It is widely believed that if a funeral Mass is celebrated for a man or woman still living, he will die. Such an activity is classified therefore as murder, but some corrupt priests are known to perform the Infernal rite (as a blasphemous perversion of a holy rite is Infernal) in exchange for money.
 
-#### **Government**
+#### Government
 
 The Cluniacs are governed in a manner reminiscent of the feudal system. At the top is the Abbot of Cluny, who holds supreme power. In each Cluniac monastery the abbot (or prior) has a very strong control and imposes his authority more than in many Benedictine houses.
 
@@ -3419,24 +3419,24 @@ It is an oddity of the Cluniacs that the abbots of many of the smaller houses, i
 
 Abbots (or priors) of Cluniac houses are not elected as in Benedictine monasteries, but are appointed either by Cluny itself, or in some cases by the mother house.
 
-#### **Independence**
+#### Independence
 
 Whereas religious houses are subject to the Ecclesiastical oversight of and visitation by the bishop of the diocese in which they are located, the Cluniac houses are an exception. The right of Cluny to answer to the papacy was later conferred upon the daughter houses, and so the Cluniacs stand outside of the Ecclesiastical structure, with very limited supervision. Even papal legates are by a bull of 1098 forbidden to intervene in or examine a Cluniac House without direct papal instruction.
 
 Secular authority is weak as well. Claims of patrons of monastic houses beyond prayers and spiritual blessings, especially claims to privilege or influence, are fiercely resisted, as is any attempt to tax the monks. Cluniac houses stand apart from local temporal politics. As such, they are in an extremely privileged position,
 
 
-#### **Frequent Mass**
+#### Frequent Mass
 
 The frequent, indeed often several times daily, celebration of the Mass is one of the most noted features of the Cluniacs, and the Masses are celebrated in settings, that is liturgical frameworks, with an opulence unknown almost anywhere outside of the order. The Mass is as different from Mass at a local church as a cathedral choir is from workers singing in the fields, and the setting (words, music, and format of the holy rite) is designed to evoke wonder and awe, not aid comprehension. With the priest elevating the host behind a rood screen, it is possible that terrible profanation of the body and blood of Christ is occurring, and that the Mass celebrated daily is actually a black Mass, a perversion of the holiest Sacrament. Unlike Benedictine monasteries, almost all Cluniac monks are encouraged to be ordained as priests so they can celebrate Mass, perhaps so the corruption can be more widespread. Another possibility is that the deliberate corruption of the Mass is very subtle, concealed within the unusual setting and ornate ritual that marks the order, and that the heretical elements would only be apparent to someone with a high score in the Theology Ability, studying the rite. However, given the length of time the corruption has existed, if the Cluniacs are the corrupt order, then such perversions must be very subtle and effectively hidden from visitors most of the time.
 
-#### **The Liturgical Hours**
+#### The Liturgical Hours
 
 The liturgical hours are also celebrated with a great deal more liturgical complexity and splendor than is normal in Benedictine communities. An atmosphere of devotion and ritual wonder is evoked, and it is entirely possible, again, that these services could be corrupted subtly, to denigrate what they are properly
 
 intended to exalt; take as example some of the parodies of the Mass performed by the clerical students called the Goliards, to protest the failure of the crusades and financial abuses by the Church. Visitors with excellent Ecclesiastical Latin and a good knowledge of Church Lore might well spot strange features of these services, if such exist. Whereas Benedictine services are usually thirty minutes, the Cluniac version takes a full hour, pushing back other duties. Manual labor is performed by hired servants so as to allow the monks the time to dedicate to prayer, the offices, and celebrating Masses.
 
-## **Chantries and Masses for the Dead**
+## Chantries and Masses for the Dead
 
 If there is one thing Cluny in the 13th century is most associated with in the popular mind, it is the dead. From early in the order's history, Cluny has been associated with prayer for souls in purgatory, even, it is believed, plucking some from the very verge of being consigned to hellfire through timely intervention. The daily Masses are almost always requiem Masses, said in memory of the departed, and Cluniac monks ordained (as a majority are) as priests often officiate at funerals. In most Cluniac abbeys books of *miracula* — ghost stories and miracles of saints — are to be found, recounting local proofs of the eternal world. Another type of work, the *mirabilia*, contains stories of faeries, magical and unusual natural phenomena, signs and wonders; Cluniac abbeys in particular are associated with these miracles, which happen here more often than in most places in Mythic Europe, presumably because of the spiritual strength of the order. Ghosts are seen in dreams and visions, or appear before the monks at night to plead for prayer, and many a harrowing tale is told by the monks of how a ghost came before them to tell of the pains of purgatory, or worse still, the relentless torment of hellfire.
 
@@ -3444,11 +3444,11 @@ The Cluniac wealth accumulates through the practice of saying Mass and prayers a
 
 The Cluniac emphasis on the dead resulted in the order sponsoring the Festival of All Souls on November 2nd, when the dead are remembered and prayers said for souls in purgatory. Introduced around 1030, it is part of the liturgical calendar across western Mythic Europe.
 
-#### **Ecclesiastical Influence**
+#### Ecclesiastical Influence
 
 A large number of Abbots of Cluny were later to become bishops, and yet retained an affection for and sympathy towards the Cluniac order. The order is also popular with the papacy, and as a result Cluniac abbots can wield additional influence when petitioning the Church. Gaining the favor of a Cluniac prior or abbot gives a +1 bonus to totals for Petitioning the Church (see Chapter 3: The Diocese) over and above the usual bonuses.
 
-#### **Fading Wealth**
+#### Fading Wealth
 
 The abbeys and priories of the Cluniacs were in the past extremely wealthy, and that wealth is displayed in their magnificent buildings, ceremonial vestments, and altar goods. The Cluniac houses are often decorated with somber memorials of the dead, scenes of judgment, even the three corpse kings who remind worshippers that even the greatest must come to the equality of the grave — but they are beautifully decorated. The early chest tombs that in some cases have the artistic innovation of the dead depicted upon
 
@@ -3466,7 +3466,7 @@ leave them hiding in the crypt of a town church. Many powerful men are heavily i
 their lids, not as they were in life but as a skeleton or shroud-wrapped corpse, are finely sculpted and bedecked with funereal flowers. Exotic incenses, fine stained glass, and jeweled books in large, well-stocked libraries may surprise even visitors used to the riches of many Benedictine houses. The difference is that in Cluniac monasteries the fixtures and fittings are lavish, not the monks' lifestyles — though they are definitely more comfortable than strict Benedictine houses or Cistercian establishments. Yet in 1220 the Cluniacs are in economic disorder, with costs higher than those of other orders owing to their habit of hiring servants to perform many duties, and building large churches and chapels that they then have to maintain. There has been a reduction in the number of Masses said for the dead, not the least because the declining number of monks makes it hard to meet their existing obligations. Other monastic orders like the Cistercians, and more recently mendicant friars of the Franciscan, Dominican, and Carmelite orders, are attracting much of the money that used to come to the Cluniacs. A large number of houses are heavily in debt, in particular to Jewish moneylenders.
 
 
-#### **Entering the Cluniac Order**
+#### Entering the Cluniac Order
 
 For a novice to be accepted into a Cluniac house, he is expected to journey to Cluny, and there spend a year to absorb the Cluniac culture and explore his vocation. All Cluniacs are expected to journey to Cluny before taking their vows, or as has been the case for over a century owing to the historically large number of postulants, to journey to Cluny after their vows have been taken to affirm them. Not all Cluniac monks manage to achieve even this lesser goal, but it remains the ideal. The novices are not allowed to fully
 
@@ -3498,7 +3498,7 @@ For a novice to be accepted into a Cluniac house, he is expected to journey to C
 
 **Abilities**: Brawl 3 (dodge), Charm 4 (flatter monks), Civil & Canon Law 6 (heresy), Ceremony 5 (leading), Church Lore 5 (politics), Guile 9 (heresy), Organization Lore: Cluniacs 8 (personalities), Teaching 5 (false doctrine)
 
-#### **Powers:**
+#### Powers:
 
 *Change Form*, 0 points, Init 0, Corpus: Can take on the form of a human between Size –2 and Size +2. Through long familiarity can adopt the form of the Abbot of Cluny almost perfectly.
 
@@ -3580,7 +3580,7 @@ Unconscious
 
 **Abilities**: Brawl 3 (dodge), Church Lore 2 (politics), Guile 4 (gossip), Intrigue (Church) 2
 
-#### **Powers:**
+#### Powers:
 
 *To Sin in Dreams,* 1 point, Init –1, Mentem: Changes the victim's memories of a period of up to two hours, always in a destructive and unpleasant way, to lead the victim to believe he committed a mortal sin or similar. The effect disappears at daybreak or sunset, revealing the memory as false, but may leave the victim wondering if he is going mad.
 
@@ -3642,11 +3642,11 @@ The knowledgeable might wonder if the ring of Solomon refers to Ars Notoria (*Re
 
 The Cistercians split off from the reforming Cluniacs when they became too lax and lost their reforming zeal. Unless noted, the Cistercians are closer to the Benedictine ideal, following the rule as closely as possible and not adopting the unique features of the Cluniac order despite their origins in that movement. A small point, but one worth noting, is that the Cistercians wear white and are known as the "White Monks," whereas the Benedictines and Cluniacs are called the "Black Monks."
 
-#### **Solitude and Retreat**
+#### Solitude and Retreat
 
 Cistercian houses are often built in beautiful wilderness settings, far from human habitation and away from the bustle of the towns. Moorland, isolated valleys, and forest clearings all have Cistercian houses, and a traveler lost in some bleak place might suddenly stumble upon a paradise of ordered fields, well-tended flocks, irrigation, and verdant vineyards, and then the reassuring sight of the great walls and tower of a Cistercian abbey. The Cistercians do not run schools or provide the welfare services that are associated with other orders, being instead focused on their own spiritual retreat from the world. Some whisper they hide secrets in their isolation.
 
-#### **Manual Labor**
+#### Manual Labor
 
 Many Cistercians are illiterate, and formal study and learning are not stressed as much as in other orders. Instead, hard physical manual labor takes up most of a Cistercian's day, whether it is working in the fields or on one of the huge but simple abbey churches that they build with their own hands. The Cistercians are very interested in new methods in agriculture, and particularly in rearing sheep. The monks work in the fields of the abbey farms, though they are beginning to employ lay workers to help out, giving rise to monastery villages that are growing into towns.
 
@@ -3654,22 +3654,22 @@ Many Cistercians are illiterate, and formal study and learning are not stressed 
 
 Adopting the principle "to work is to pray," Cistercians focus their devotion through these efforts. Stories about demons raising their monasteries overnight are probably a tribute to their ingenuity and hard work, and the magnificent abbey churches they have constructed.
 
-#### **Governance**
+#### Governance
 
 Like the Cluniac houses, the Cistercians stand independent of the local diocesan structure, owing allegiance to the papacy. A strong system of visitation is, however, in place, with each daughter house being visited annually and thoroughly inspected by the abbot of the motherhouse. Unlike the Cluniac order, the government of the Cistercians is not hierarchical. Instead, the abbots gather at Cîteaux every autumn for the annual chapter meeting, where policy decisions are made and conduct and disciplinary hearings are held. Presided over by the abbot of Cîteaux, in many ways this resembles a Hermetic Tribunal, being an almost democratic occasion with opinions freely offered. There is a even a sort of "Peripheral Code," in the statutes agreed to by the chapter, which are written up in the *Institutiones Capituli Generalis* of 1203. The chapter meeting in recent years has become fractious, with factions developing over how certain aspects of the rule and the statutes should be interpreted; the unity of purpose that marked the early Cistercians has been lost.
 
-#### **Wealth**
+#### Wealth
 
 Ironically, given the criticisms of luxury brought against the other orders by the Cistercians in their initial reforming zeal, the sheer hard work and agricultural prowess of the order has brought them huge wealth. The English Cistercians' large flocks of sheep are proving highly profitable as a source of prized woolen cloth, but with economic success have come accusations of luxury and corruption. The order shows few outwards signs of the wealth, for Cistercian abbeys are magnificent yet extremely austere, often being whitewashed and almost devoid of
 
 
 decoration. They have a simple elegance, though, far from the decoration favored by the Cluniacs.
 
-#### **Ecclesiastical Influence**
+#### Ecclesiastical Influence
 
 As well as Saint Bernard, Saint Malachy of Armagh, Saint Almeric, and Saint Stephen the founder (all canonized saints), the Cistercians have produced two popes and a score of bishops and archbishops by 1220. They are currently in favor with the papacy, such that they have a considerable influence when petitioning the Church; gaining the favor of a Cistercian abbot gives a +3 bonus to totals for Petitioning the Church (See Chapter 3: The Diocese) over and above the usual bonuses.
 
-#### **Opposing Heresy**
+#### Opposing Heresy
 
 While the Dominican friars are gaining dominance in this field, the Cistercian monks have always been important in the fight against heresy, leaving their monasteries to preach to the laity about error and heresy. They play a vital role in opposing the Cathar heresy in the Languedoc, and continue to collect and read questionable books in order to root out heresies.
 
@@ -3686,7 +3686,7 @@ It is hardly surprising that the Church viewed Joachim with suspicion, but given
 
 are perhaps ideal candidates for the corrupt order of monks, not the least because they are known for their role in fighting heresy and Infernal influence. Who better to corrupt than the Church's watchdog? If in your saga it is the Cistercian order that is corrupt, it is likely recent, the indirect result of the Blessed Joachim of Flora.
 
-#### **Joachim of Flora**
+#### Joachim of Flora
 
 Joachim was a young man from Norman Sicily whose father held high office in the royal court there. As a young man he chose to undertake a pilgrimage to the Holy Land, and while there was caught up in a terrible tragedy, the nature of which he never revealed. Fortunate to escape with his life, he retreated to Mount Tabor, site of the transfiguration of Christ, where he meditated for forty days and forty nights during the Lent season. During that time a Divine light came upon him, and he felt he could clearly understand the secrets of the scriptures. Convinced of his authority he returned to Italy where he began to preach, drawing crowds. When the Church intervened to stop his unauthorized preaching, he immediately entered the abbey of Corazzo in Calabria, taking the Cistercian habit, and he was ordained a priest in 1168. Though he rose to the position of abbot, some say that the Cistercians refused to accept Joachim and his monks; while his admirers say the rejection was due to the poverty of the abbey, his denigrators claim it was owing to his ideas that were, even then, heretical. The truth appears to be that the Cistercians did receive Joachim, but have since attempted to distance themselves from him.
 
@@ -3697,7 +3697,7 @@ Joachim has come to be popularly regarded as a prophet, though in fact he always
 
 Joachim's fame goes far beyond those who have read his three books. Richard the Lionheart was fascinated by him, and before setting out on the Third Crusade planned to consult him about the end times. According to Roger of Howden, Richard was informed that Saladin was not the Antichrist, but the sixth of seven great persecutors of the Church, and it was Richard's destiny to drive Saladin from the Holy Land and retake Jerusalem. If so, it was a failed prophecy.
 
-#### **The Joachimites**
+#### The Joachimites
 
 In the twenty years since Joachim's death, his followers have become known as Joachimites, and many have adopted even stranger beliefs, such as those of the infamous Brethren of the Free Spirit. Many believe that a future pope will come from their own ranks, though some believed he would be from the Franciscans, and this pope's death would bring in the age of the final Antichrist. Others see the Emperor Frederick II as clearly the final Antichrist, while yet others regard Saladin as the one prophesied. The most dangerous group are those who believe that a pope will be the actual Antichrist, and the Church the whore of Babylon, which is clearly Rome. Some of these claim to have received obscure prophecies attributed to the great Irish Cistercian Saint Malachy, but no such prophecies are officially recognized or known, even in the writings of his close friend Saint Bernard of Clairvaux.
 
@@ -3705,7 +3705,7 @@ All of the interpretations of these "prophecies" agree on two things: that Joach
 
 
 
-#### **The Cistercian Connection**
+#### The Cistercian Connection
 
 Given their strong involvement in opposing heresy, the Cistercians from the beginning took a great deal of interest in the writings of Joachim of Flora. It was a Cistercian abbot, Tino of Gradara, who first became fascinated. As he read the books for the papal inquiry in 1200, Tino became illuminated, suddenly seeing clearly the truth of the words, and receiving the gift of prophecy. As a boy, Tino had been rescued from a group of Infernal heretics, but in his sudden revelation of Divine truth Tino came to see that in fact the heretics had been truly free, fully participating in the Divine grace of the Age of the Spirit to come. It was not sin that bound mankind, but fear of sin, for grace abounds and therefore the more one sins, the more grace there can be, and the more of God's spirit infuses the world. Furthermore, he realized that he was of God, and God dwelt in him, and that the distinction between God and himself was a false one. This realization of his own Godhood led to a series of explosive mystical experiences, in the course of which he came to realize the Divine within everything.
 
@@ -3727,7 +3727,7 @@ tentative connections have been made.
 
 The following character stats are provided to help storyguides integrate a corrupt Cistercian order in their saga.
 
-#### **Father Tino of Gradara**
+#### Father Tino of Gradara
 
 **Characteristics:** Int 0, Per –2 (1), Pre 0, Com +2, Str –3 (2), Sta –3 (2), Dex –2 (1), Qik –4 (3)
 
@@ -3833,15 +3833,15 @@ As with most successful new monastic orders, the Vallumbrosans were reacting aga
 
 The Vallumbrosan order is quite distinct in many ways, but like the other orders discussed in this chapter, it is based upon the Rule of Saint Benedict. The differences and unique points are briefly outlined here. The most visible aspects are their tawny brown habits and that Vallumbrosans are never encountered outside their monasteries, apart from abbots who are found occasionally wherever the pope is.
 
-#### **Papal Influence**
+#### Papal Influence
 
 Whereas Cluniacs and Cistercians have Ecclesiastical Influence, which adds to totals when Petitioning the Church (See Chapter 3: The Diocese), the Vallumbrosan order has always had a strong influence on the papacy. If the papacy or curia are the recipients of a petition, add +5 to the total in addition to the normal bonus for the support of an abbot. This popularity with the papacy may go a long way towards explaining the unpopularity of the order and suspicions voiced about them by other religious and clergy.
 
-#### **Extreme Asceticism and Silence**
+#### Extreme Asceticism and Silence
 
 Vallumbrosans may own no property at all; their poverty is total, apart from their clothing and sandals that are, of course, the property of the order. Silence is enforced at all times, and even sign language kept to the minimum. Those who break the harsh disciplinary code can expect flogging, and self-flagellation is practiced as an ascetic mortification of the flesh. The monks survive on the minimum of food and sleep, and only the hardiest can last for long under this regime.
 
-#### **No Manual Work**
+#### No Manual Work
 
 The monks are completed dedicated to prayer and devotions, and are forbidden to perform any manual work. A class of lay brothers who perform the farming and other required labor are needed, and they live alongside the monastery but do
 
@@ -3849,7 +3849,7 @@ The monks are completed dedicated to prayer and devotions, and are forbidden to 
 
 not take the vows. There are a few Vallumbrosan nuns, but they live in a dwelling outside the monastery, and their primary duties are to cook and do other work for the monks of the adjacent monastery.
 
-## **Total Retreat from the World**
+## Total Retreat from the World
 
 Vallumbrosans are a rigorously enclosed order, who never leave their monasteries under any circumstances. The only exception is that the abbots travel about on monastic business, and often can be found around the papal court. Even the lay brothers are excluded from the chapter and chapel of the full monks, who live lives of almost total seclusion. Visitors are discouraged and no guest quarters are provided, though the lay brothers will put up guests on the monks' behalf, outside the monastery walls. Communication with friends and families is severely discouraged.
 
@@ -3987,7 +3987,7 @@ ing apart, and the few remaining crusader strongholds in Palestine are under inc
 
 The Templars were one of three major standing crusading armies, which came to the aid of the Christian rulers of the Holy Land, and later aided Christian kings' efforts to recapture Jerusalem.
 
-## **The Second and Third Crusades**
+## The Second and Third Crusades
 
 In the Second and Third Crusades, the Templars took leading roles. The Second Crusade (1147 – 1149) saw the Poor Knights granted the right by Pope Eugenius to wear the red crusading cross over their hearts. The crusade leaders relied heavily on their advice, and by the time King Louis of France reached Antioch they had effectively taken over command of the crusade altogether.
 
@@ -3995,11 +3995,11 @@ The Third Crusade (1187 – 1192)
 
 also saw the Templars work closely with the crusade leaders. After the humiliating loss at the Battle of Hattin and the subsequent loss of Jerusalem, the Templars and Hospitallers augmented the crusader kings' troops. Grand Master Robert of Sabloel was raised to that position by King Richard of England, after which the Templars purchased the recently conquered island of Cyprus from the king (they sold the island a few years later to Guy of Lusignan, the erstwhile King of Jerusalem and vassal of King Richard).
 
-#### **The Fourth Crusade**
+#### The Fourth Crusade
 
 The Templars were only marginally involved in the notorious Fourth Crusade (1202 – 1204); a few senior Templars and Hospitallers advised the crusade leaders, and even supported the subjugation of the Byzantine Empire. After the capture of Constantinople, the Templars took part in the subjugation of Greece that ended in 1210.
 
-#### **The Albigensian Crusade**
+#### The Albigensian Crusade
 
 The Templars have not been actively involved in the Albigensian Crusade (1209 – 1229); throughout the conflict they have maintained effective neutrality. Fighting heretics is not a duty of the Templars. In fact, both Cathars and crusaders at times were aided and shielded in Templar houses. Neither the pope nor Simon of Montefort, the crusade leader, petitioned the Poor Knights for assistance against the Cathars.
 
@@ -4070,13 +4070,13 @@ The Templars, particularly the many brother-sergeants, are a part of the growing
 
 ## Story Seeds
 
-#### **The Templars' Helper**
+#### The Templars' Helper
 
 The Templar delegation sent from Pope Honorius believes there to be no way they can win the Fifth Crusade without gaining a significant advantage over their Muslim enemies. They know that the sultan of Egypt commands the services of supernatural beings and the mysterious sorcerors who bind them. Acting on the orders of Brother Haimard, treasurer of the Paris Temple, the Templar delegation is authorized to seek out magical aid and bring it to Egypt to assist the crusaders.
 
 The Templar commander in charge of the delegation, Brother Oliver of Paderborn, approaches the players' covenant for assistance, offering great rewards for cooperation and magic that will defeat the sultan. Will the characters assist the Templars, either personally or with magical items, and what of the Code?
 
-#### **The Hermetic Confrater**
+#### The Hermetic Confrater
 
 A once-powerful archmage of the Order of Hermes, approaching Final Twilight, decides to become a Templar confrater. In doing so he hands over his enormous Hermetic wealth to the Poor Knights, including his vast magical library, enchanted items, and land.
 
@@ -4084,7 +4084,7 @@ The covenant (which could be the player's covenant) is less than happy about thi
 
 Does the Code of Hermes recognize the archmage's decision? As a confrater, is he now a mundane? Under the Code, do his magical belongings still belong to him, or are they now the property of the Templars?
 
-#### **The Enchanted Mill**
+#### The Enchanted Mill
 
 Before he retired, the former English Commander Aymeric of St. Maur ordered the construction of a new, massive mill in London. Now it is nearing completion in record time, and when constructed will be one of the largest sources of wealth for the Poor Knights. For the past year, Templars and their servants have been seen trekking around England's mythic sites, many of which are seasonal vis sources, and many seem to have been harvested, possibly by the Templars. Have the Templars discovered a way to sense and use vis to help in the construction of their mill, or are they being assisted? Rumor has it that one covenant's vis sources have remained untouched.
 
@@ -4101,7 +4101,7 @@ The Templars have been involved in the Christian Reconquista of the Iberian Peni
 
 Iberia is notable for having a large number of sisters and consoeurs (female associate members) housed in Catalonia, where they enjoy extensive property rights.
 
-#### **Templars in Portugal**
+#### Templars in Portugal
 
 The earliest donation in Iberia of land and castles to the Templars was in Portugal. The Templars were actively involved in military operations, assisting in assaults on Muslim-held towns. The Portuguese Templars established their main chapterhouse in the castle Cera above the town Tomar, which they themselves founded. In 1170, the Templars received the right to keep one-third of all land they could acquire and settle.
 
@@ -4109,21 +4109,21 @@ In 1220, the Templars remain very close to the Christian rulers of Portugal, wit
 
 If your saga follows history, in the near future there will be an attempt by Afonso, Count of Boulogne, to overthrow King Sancho II (1223-1245). The Templar commander of Portugal, Brother Martim Martins, a childhood friend of Sancho, will support the king. This support will cost the order dearly, as Afonso's rebellion is successful, and by 1301 they lose their rights over Idanha and Salvaterra.
 
-#### **Templars in Aragon**
+#### Templars in Aragon
 
 In Aragon, the Templars have been present since 1130, supporting Ramon Berengeur II, Count of Barcelona and Marquis of Provence. Ramon himself became a confrere of the Templars, and gave the Poor Knights the castle of Granyena. Other lords in the area made donations,
 
 ## Story Seeds
 
-#### **Stolen Wealth**
+#### Stolen Wealth
 
 After an Infernalist makes a deal with a powerful False God for untold wealth, a Templar priory near the troupe's covenant finds that all of its treasures have been stolen. Unsurprisingly, the local commander suspects that he has been robbed by the covenant. Can the characters convince the commander that they are innocent, and can they assist him in locating the true villain?
 
-#### **The Greed of Haimard**
+#### The Greed of Haimard
 
 Brother Hairmard is well aware of the existence of the Order of Hermes (although not of its inner workings) and knows that Hermetic magic is capable of producing enormous quantities of material wealth. He is also familiar with the concept of devaluing gold and other precious metal. However, he plots to create other forms of wealth — grain and cloth — to sell at the fairs of France. All he needs is a Hermetic supplier of magically created crops, cotton, and wool. He is unlikely to regard the Code as a good excuse for not helping him.
 
-#### **Aiding the Reconquista**
+#### Aiding the Reconquista
 
 The Templars in Iberia are on a nearconstant war footing, and are slowly building a fleet to combat the presence of pirates. Stephen of Belmonte hears that Hermetic magic could be greatly advantageous in his crusade effort, and sends out a team of brother-knights and sergeants to find Hermetic magi. He wants magical weapons and ships. If your troupe's characters refuse to help, they may soon find their less-scrupulous Hermetic rivals assisted by the political clout and wealth of Templars.
 
@@ -4169,17 +4169,17 @@ Apart from Acre and Antioch, the other significant Templar property in the Holy 
 The Templars are embroiled in the dispute between the Angevin and Lusignan families, both of whom claim the
 
 
-#### **Templars in Acre**
+#### Templars in Acre
 
 The port of Acre, on the bay of Haifa, is the center of Templar power and the location of their central chapterhouse. The Templars have forts and properties in the lands surrounding Acre, as well as many interests within the city, including at the shipyards. Acre became the home of the Templars after the loss of Jerusalem and the city's capture by King Richard. Acre is also the base of most of the other crusading orders, including the Hospitallers and the Order of Saint Lazarus. The bishop of Acre, James of Vitry (1216-1228), is a close ally.
 
 The Templar castle in Acre is home to the grand master, the commander of the land of Jerusalem and the other great officers of the order. All of the order's records, as well as its many grand relics, are stored here. For more information on Acre, see *City and Guild*, page 34.
 
-#### **Templars in Antioch**
+#### Templars in Antioch
 
 In 1219 Bohemond, Count of Tripoli, reclaimed the city of Antioch after a protracted dispute with Leon of Armenia. Leon had in 1211 declared war on the Templars, after a decades-long succession conflict between the Poor Knights and the kingdom of Armenia. The war continued for two years, as the Templars tried to capture and recapture castles along the coast. The Templars currently support Bohemond, who is still in dispute with the Armenians. The Armenians are themselves supported by the Hospitallers.
 
-#### **Templars in Greece**
+#### Templars in Greece
 
 The Templars have only recently arrived in the Latin kingdoms of Greece, and although they nominally defend
 
@@ -4196,7 +4196,7 @@ Mythic Europe has myriad military orders of crusading monks. While they all have
 
 The Templar Virtues and Flaws (see later in this chapter) can easily be adapted for the other military orders.
 
-#### **Hospitallers**
+#### Hospitallers
 
 The Order of the Knights of Saint John — known as the Hospitallers — began as a charitable hospital that cared for pilgrims in Jerusalem before the First Crusade. Their involvement in the military protection of the crusader kingdoms started in the 12th century, around 1144 when the King of Jerusalem granted the order the fortress Krak de Chevaliers. Their focus on helping the sick and poor in the kingdoms of Europe and the Holy Land ensures that they enjoy enormous good will, but also diverts enormous resources from the efforts to recapture Jerusalem.
 
@@ -4214,7 +4214,7 @@ Unlike the Templars, however, the Hospitallers have succumbed to scandal, with c
 
 For more information about how Hospitallers can be used in your saga, see "The Hospital's Due," Chapter 5 in *Tales of Mythic Europe*.
 
-#### **Teutons**
+#### Teutons
 
 Formed after the Third Crusade in around 1198, the Teutonic Knights are primarily a German order dedicated to protecting German pilgrims. They originated in the German hospital of Saint Mary, from whence their name derives — the Order of the Teutonic Knights of Saint Mary. The Teutons are famed for their strict military discipline, which rivals that of the Templars.
 
@@ -4224,7 +4224,7 @@ In 1211, they were granted holdings in the Transylvanian Alps by the Hungarian K
 
 There is more information about the Teutonic Knights in *Ancient Magic*, page 35.
 
-## **The Order of Calatrava and Other Iberian Orders**
+## The Order of Calatrava and Other Iberian Orders
 
 Founded in Castile, the Order of Calatrava started its existence as the military branch of an order of Cistercian monks at the fortress of Calatrava in 1158. They received early support from King Sancho. Because of their relationship to the Cistercians, they were not subject to local Ecclesiastical authority, which quickly put them in conflict with local bishops, but also
 
@@ -4235,7 +4235,7 @@ The Calatravans supported the formation of smaller Iberian orders in Leon and Po
 
 The native crusading orders generally receive more support and patronage from kings and powerful nobles, compared to the pan-European Hospitallers and Templars. The Iberian crusading orders have no presence outside of Iberia and focus solely on the Reconquista.
 
-#### **The Order of Saint Lazarus**
+#### The Order of Saint Lazarus
 
 The Order of Saint Lazarus was, at its beginning, composed entirely of lepers. Originating from the leper-hospitals in Jerusalem, the order formed in 1130 around a Burgundian knight named Wido of Cornelly, who upon contracting leprosy vowed to go to the Holy Land and serve the Templars. When his illness became debilitating, he left the Templars — who could not adequately care for him — and joined Jerusalem's leper hospital. The Templars and Jerusalem's Christian king supported the hospital, and by 1153 the hospital became a focus for crusading knights who had contracted leprosy but were still well enough to fight.
 
@@ -4243,7 +4243,7 @@ By 1155, the order had been granted its own house by the king. The pope gave the
 
 In the 13th century, the Order of Saint Lazarus has its own chapterhouse and hospital in Acre, as well as a house for sisters of the order. By this time, the number of seriously ill brothers is starting to decline, as the Order of Saint Lazarus gains prestige and wealth. The order has some holdings in England and France, and on Cyprus.
 
-## **The Order of Saint Thomas at Acre**
+## The Order of Saint Thomas at Acre
 
 Formed in Acre to care for the poor and sick and bury the dead after the Third Crusade, the Order of Saint Thomas attracts mainly English pilgrims who do not speak French. By 1220, they are a relatively minor order, with few — if any — military functions, and no real monetary resources. Their priests do not live communally. The Templars own the hospital and other houses used by the Order of Saint Thomas in Acre.
 
@@ -4255,11 +4255,11 @@ The Knights Templar are organized according to a monastic rule, making their str
 
 ## Story Seeds
 
-#### **Overturning the Will**
+#### Overturning the Will
 
 A dying crusader-lord leaves his vast holdings to the Knights of Calatrava, changing his former will that left most of his lands to the Templars. The Templars want to overturn the new will, thus depriving the Knights of Calatrava of much-needed wealth. Similarly, the crusader-lord's son-in-law (who is married to his only daughter) also wants to overturn the will and get the lands for himself.
 
-#### **Lazarus and Tytalus**
+#### Lazarus and Tytalus
 
 Magi of House Tytalus may have a special interest in the Order of Saint Lazarus due to the order's association with leprosy. Stories told in the Order of Hermes tell of a young magus from House Tytalus who converted to Christianity and joined the Second Crusade.
 
@@ -4267,7 +4267,7 @@ Magi of House Tytalus may have a special interest in the Order of Saint Lazarus 
 
 Whether Rothelin — or the sword of Tytalus — ever actually existed is still a matter of debate among Hermetic historians, which is strange in itself; his whole career is said to have taken place within living Hermetic memory. If he did exist, it is certain that Rothelin was not his real name, but it is hardly unusual for magi of House Tytalus to adopt new identities, nor for them to spin elaborate deceits.
 
-#### **The Rotting Hulk**
+#### The Rotting Hulk
 
 A Genoese ship commissioned by the Order of Saint Thomas to ferry the preserved bodies of dead pilgrims back to England for burial goes missing. Several months later, sailors tell of a dark pirate vessel that is crewed by rotting corpses.
 
@@ -4277,13 +4277,13 @@ A Genoese ship commissioned by the Order of Saint Thomas to ferry the preserved 
 
 At a regional level the Templars organize into provinces, as a part of which all full members meet in chapter meetings.
 
-#### **The Provinces**
+#### The Provinces
 
 In the order's Western holdings the Knights Templar are divided into provinces, each governed by a commander who likewise has subordinate officials underneath him who govern individual Templar preceptories. An officer called the "Master on This Side of the Sea" is sometimes appointed by the general chapter meeting to oversee all of the Western provinces.
 
 The provinces were created as the Templars acquired more lands, and are fluid, changing as needed. Each province has a main chapterhouse that serves as the administrative center. There are three Western commanderies of great significance, in London, Paris, and Miravet in Aragon, which are well staffed and have great wealth.
 
-#### **The General Chapter**
+#### The General Chapter
 
 General chapters — decision-making meetings — meet periodically, as often as each year or as infrequently as once every five, and there appointments are made and strategic directions determined. These general chapter meetings meet only in the Templar headquarters in Acre (although some were held elsewhere during emergencies, and they were originally held in Jerusalem).
 
@@ -4295,13 +4295,13 @@ Outsiders are sometimes permitted to address the general chapter meetings, altho
 
 most prominent of diplomats or representatives, such as papal representatives or the spokesmen of kings; or alternatively, specialists brought in to give advice.
 
-#### **Provincial and Local Chapters**
+#### Provincial and Local Chapters
 
 Templars in a particular province occasionally come together in local chapter meetings. These are strictly ad hoc, and are generally held when a prominent officer, such as the grand master or marshal, visits the province. Like the general chapters, local chapter meetings are held in strictest secrecy. They deal with outstanding disputes or matters requiring a decision from a senior Templar. Chapters are also called if there is a need to discipline or even expel an errant Templar.
 
 Local chapters are presided over by the ranking Templar — either the most senior of the great officials, or the provincial commander. These meet much more regularly, generally once a week or monthly.
 
-#### **Running a Chapter Meeting**
+#### Running a Chapter Meeting
 
 If one or more of the characters in a troupe are Templars, then it is likely they will attend and participate in a chapter meeting. Their enormous secrecy and the suppression of the Templars in 1312 means that there is no historical evidence of how general chapter meetings were held, or what they discussed. Storyguides thus have flexibility to conduct chapter meetings in their games.
 
@@ -4323,7 +4323,7 @@ modern businesses; brothers sit around great tables, servants report from the gr
 
 The bureaucracy of the Templars is large and expanding rapidly. Although the rule sets out a number of ranks and titles, many more are created and discarded as the need arises. Local areas can have unique ranks not present in other provinces, while special titles can be created for specific missions and tasks, only to be abolished once the job is complete.
 
-#### **The Grand Master**
+#### The Grand Master
 
 Elected for life, the grand master is the supreme military and spiritual leader of the Knights Templar. Grand masters lead from the front and are willing to personally enter into battle rather than stand
 
@@ -4334,7 +4334,7 @@ The office of grand master is an exalted position, with a great many servants an
 
 The grand master has spiritual as well as temporal authority and powers. He may exercise Holy Influence over the order as if he were a priest.
 
-## **Grand Master Peter of Montaigu**
+## Grand Master Peter of Montaigu
 
 Elected at an emergency meeting of the college of 13 (see insert, "Divine Elections") in Damietta after the death of William of Chartres, Peter comes from a prestigious crusading family. Born in the Auvergne region in France, he was previously the commander of the Templars in Provence and Spain. It was here that he distinguished himself, from 1206 until the start of the Fifth Crusade.
 
@@ -4342,17 +4342,17 @@ Peter wields enormous influence in the Fifth Crusade, as his brother Guerin is G
 
 The grand master is involved in a major dispute with Frederick II, the Holy Roman Emperor, over the emperor's falling out with the pope. Peter supports the pope in the dispute.
 
-#### **The Great Officials**
+#### The Great Officials
 
 A great proliferation of offices exists within the Knights Templar. Directly beneath the grand master are four great officials: the **grand commander** (formerly known as the seneschal), the **marshal**
 
 ### The Grand Master
 
-#### **The Grand Master's Commanding Aura**
+#### The Grand Master's Commanding Aura
 
 Such is the spiritual significance afforded to the rank of Grand Master of the Knights Templar that it bestows the Commanding Aura upon whoever is elected to it. The grand master, as a position appointed by God, is the spiritual equivalent to an Archbishop, with a Magic Resistance of 10. (See Chapter 3: The Diocese for more information on this Virtue.)
 
-#### **Divine Elections**
+#### Divine Elections
 
 Electing a grand master is an elaborate procedure laid out in the Templar Rule, and follows the funeral of the previous incumbent. Most funerals of grand masters are attended by a great number of dignitaries and leaders; most great nobles and clergy in the Holy Land attend. After the funeral, a grand commander (different than the office of grand commander) is elected by the Eastern provincial Templar commanders. The grand commander governs the Poor Knights until a new grand master is chosen. Although technically any ranking Templar official can participate, in practice due to time constraints only those officials present in the Holy Land are involved.
 
@@ -4360,13 +4360,13 @@ The officers present then elect a college of 13, consisting of eight brotherknig
 
 According to the rule, the grand master is chosen by the will of God, through the elected representatives. A consensus decision is preferable, although a majority vote is allowed. In practice, appointment to the position of grand master is very political, with a great number of grand masters ascending to that exalted position through the intervention of a supportive and powerful secular ruler.
 
-#### **The Grand Master's Seal**
+#### The Grand Master's Seal
 
 The seal of the Templar grand master is double sided, around four inches in diameter. On one side it shows the circular dome of the Church of the Holy Sepulchre, and on the other the Poor Knights' symbol — two knights riding a single horse.
 
 The grand master's seal is a Divine relic, conferring great spiritual authority upon the grand master. The seal has a Faith Score of 1, granting it a Divine Might of 10. In addition to the protection afforded by the Might, the grand master's Magic Resistance is doubled against supernatural effects that would cause him to think or perform acts that are associated with the sin of gluttony. The Magic Resistance afforded by this relic is in addition to that afforded to the grand master by dint of his rank.
 
-#### **Other Seals**
+#### Other Seals
 
 Each commander and great officer has his own seal. Some are unique to the individuals who hold them, while others are associated with the office. For example, the seal of the Templar Master of England has the image of the Angus Dei (the Lamb of God). Some seals may possess supernatural powers or contain relics, although only the grand master's seal is a holy relic by its own nature.
 
@@ -4381,7 +4381,7 @@ corridors, the grand master feels that the Templars should declare themselves a 
 
 The commander of the land of Jerusalem holds a unique position almost rival tice, he is the Templar treasurer, responsible for the great storehouse in Acre (and formerly the Temple in Jerusalem itself). Any great expense that the Templars incurs — such as the purchase of castles or other land — requires the permission of the commander of the land of Jerusalem. The commander is also responsible for the many non-military assets possessed by the Templars, such as ships, animals, houses, villages, and mills.
 
-#### **Commanders**
+#### Commanders
 
 The Templars have a preference for calling most officials "commanders" (preceptors) of what they are responsible
 
@@ -4406,7 +4406,7 @@ At a regional and local level, the structures laid out here are replicated as mu
 
 outlandish in the West.
 
-#### **Brother-Knights**
+#### Brother-Knights
 
 The brother-knights are the core of the Templars, and are granted the great privilege of wearing white mantles emblazoned with a red cross. Those of noble birth who enter the order give up their clothes and goods to the draper, and are issued a standard set of clothes and armor. By 1220, the Templars require a brother-knight to be of noble birth, the son of a secular knight, or the son of the daughter of a knight to be admitted to this rank.
 
@@ -4418,13 +4418,13 @@ Brother-knights, their squires, and brother-sergeants are organized into squadro
 
 Brother-knights have to unlearn their many vices and ostentatious sins; they are forbidden tourneys, jousting, hunting, hawking, and wearing fur or leather gloves. They are also forbidden to shave their beards, although their hair is kept short or even shaved off altogether. They cannot wear jewelry, rings, or any ornamentation, and may not wear pointy shoes or shoelaces. Brother-knights also may not have private letters, own locks, or have ornate bridles for their horses. Disobedience on this matter sees the undue finery confiscated and the brother-knight given penances.
 
-#### **Brother-Sergeants**
+#### Brother-Sergeants
 
 Brother-sergeants play a subordinate role to brother-knights, although they make the same vows and are under the same rule. Brother-sergeants are from common backgrounds and social statuses, and are recruited from a wider area. Brother-sergeants include Syrians, Greeks, and Armenians, as well as men from the West. The brother-sergeants serve as foot soldiers and support the cavalry role that the brother-knights play.
 
 There is great variation in status among brother-sergeants, who also fill the roles of administrators, artisans, and craftsmen. Brother-sergeants with special skills, or who are too old to take active military service, are given non-combat roles. The rule refers to craftsmen, brothers of the stables, artisans, scribes, notaries, blacksmiths, and cooks, as well as mason-brothers. These non-military brother-sergeants are not required to fight, although they live according to the rule, and so are often referred to as "brother-servants."
 
-#### **Brother-Priests**
+#### Brother-Priests
 
 The 1139 papal bull *Omne datum optimum* granted the Templars the right to have their own priests. Prior to this, the Templars were served by priests from other orders, or from outside churches, but the bull meant that the order quickly developed its own clergy. In the East, the brother-priests are not required to fight, although when attacked they are permitted to defend themselves.
 
@@ -4440,7 +4440,7 @@ Brother-knights and sergeants are expected to make confession to the Templar cha
 
 They can give services, celebrate Mass, hear confessions, give absolution for most offenses (except grievous sins such as murder, simony, or heresy) and bury the dead. This authority transcends the spiritual authority of local clerics, including bishops and archbishops, and brother-priests are known to give communion to, and even bury, excommunicates.
 
-#### **Sisters**
+#### Sisters
 
 Unlike other crusader orders — notably the Hospitallers — there are no female houses in the Templars. Wives of men who join the Templars are expected to become nuns — although of other orders — or consoeurs.
 
@@ -4450,7 +4450,7 @@ This position, which is still supported by most of the leadership of the order, 
 
 #### The Church
 
-#### **Confreres and Consoeurs**
+#### Confreres and Consoeurs
 
 A great number of lay-folk join the order as associate members, taking the vows but not making a full profession of them. These associates often reside in the chapterhouse, but can also keep their own homes, and dress differently from the brothers. Confreres and consoeurs cannot vote in chapter meetings but otherwise interact daily with full members, and can be quite influential within their specialty. They are often the servants or specialists who allow preceptories and castles to function (although servants of Templars are not required to be associate members).
 
@@ -4492,7 +4492,7 @@ The Templar Rule sets out a great deal of the religious life of the order, notin
 
 The Templars venerate several other prominent female saints, including the martyr Saint Euphemia of Chalcedon, who was martyred by pagans after refusing to recant her Christianity. The examples set by these female saints is seen as very valuable to the Templars, reminding them of the need to be humble, to remember human frailty and sin, to be courteous, chaste, honorable in word and deed, and to do works that please God.
 
-#### **Templar Relics**
+#### Templar Relics
 
 The Templars claim to possess a great number of relics. In both the Levant and the West they build great chapels and churches to house them. In Outremer, the Templars possess such marvels as the crown of thorns, which is displayed flowering in the grand master's hands every Holy Thursday in their temple (first in Jerusalem and later in Acre). At the well-known Castle Pilgrim (Athlit, see *Realms of Power: The Divine*, page 11), the Templars keep the heart and body of the martyr Saint Euphemia of Chalcedon. A great many healing miracles draw large numbers of pilgrims to Athlit.
 
@@ -4531,7 +4531,7 @@ The Templars regularly call upon God's aid when going into battle. This is typic
 
 In the Holy Land or Iberia, when Templars are at war, their daily routine changes, and religious observances are more relaxed. Prayers are said in the saddle or while marching (often as paternosters rather than full prayers), brothers who are doing penance are permitted to fight, and an attack means the brothers are permitted to leave their meals without permission.
 
-#### **Military Tactics**
+#### Military Tactics
 
 The Templars have established military tactics, which are recorded in their rule. Everything centers upon the cavalry charge. The charge, when carried out correctly and in the right circumstances, can be decisive in battle. The role of foot soldiers and archers — most of whom are mercenaries — is not recorded in the rule, but these troops are under the command of various senior Templar brotherknights, who command them as they see fit. The squires of brother-knights are not expected to fight, but are instead required to assist the knights. The Templars rely upon the cavalry charge, but also fight on foot or in other formations as the situation requires.
 
@@ -4554,13 +4554,13 @@ The Templars are also very familiar with siege warfare, and possess impressive s
 
 In 1220, there is no written procedure for becoming a member of the order, although there is an established tradition (by 1260, this tradition will be formalized in the rule).
 
-#### **The Membership Ritual**
+#### The Membership Ritual
 
 Upon applying to join, the prospective brother must explain truthfully his status and give witness to his serious intent to live by the discipline of the order. The ritual that follows takes place in the local commandery, and places great emphasis on the gravity and seriousness of the process. Strictly speaking, no outsiders such as relatives are allowed. However, the local commander can make exceptions as needed, especially if the new member is particularly prestigious.
 
 The local commander or highestranking officer assembles the brothers in the chapel or hall — only full members are permitted. All present are asked if they know any reason for the applicant to be denied admittance. If there are no objections, the applicant is taken into another room by two senior brothers, where the hardships of membership are explained. He is asked if he is willing to suffer for God, and wishes to be a slave to the order for all his life. He is also asked if he owes any other allegiance, either to a wife or secular lord, or owes a debt, or has any illness. The applicant, upon answering all these questions, is returned to the chapter, and all those present acknowledge him. If the new member is a commoner, he is then required to carry out a menial task (such as cleaning the pig-sty or washing dishes), whereas a noble is kept alone in a side room, while the brothers again are asked by the commander for any objections. After the applicant completes the task, he is questioned again in great solemnity, with emphasis on the consequences of lying, and is required to swear upon the gospels. Then he then swears the vows of obedience, chastity, and poverty, and promises to conquer and defend Jerusalem. The commander gives the new member his mantle while the chaplain recites prayers, and the assembled brothers recite the paternoster. Finally, after being received with a kiss on the mouth by the commander and chaplain, the new Templar is taught the more-detailed offenses for which he can be expelled or given penances.
 
-#### **Joining as a Child**
+#### Joining as a Child
 
 Children — called novices — are often welcomed by the Templars, who need a steady supply of recruits to fight in the Holy Land or in the Reconquista, although they generally insist that children
 
@@ -4583,7 +4583,7 @@ Other great crimes include committing an act of heresy, committing theft, plotti
 
 The Templar Rule is an extremely austere set of regulations, and is generally considered harsher than the rule of the Hospitallers or Teutons.
 
-#### **Secret Rites**
+#### Secret Rites
 
 The secrecy of the Templars is legendary, and most of their communal activities take place in private, behind closed doors. Templar brothers take part in religious and other ceremonies every day. Many do not know the exact purpose of the activities they are participating in, as most of the ceremonies are conducted in Latin.
 
@@ -4591,7 +4591,7 @@ The secrecy of the Templars is legendary, and most of their communal activities 
 
 The Poor Knights fight for Christendom, and therefore necessarily have many and complex relations with individuals and groups outside the order.
 
-#### **Templars and the Church**
+#### Templars and the Church
 
 The Third Lateran Council in 1179 saw bishops — even the Patriarch of Jerusalem — accuse Templars (and Hospitallers) of not paying tithes, of holding church services in towns under interdict so as to collect their offerings, and of allowing murderers, money lenders, and other criminals to join their order so as to escape from justice. They were also accused of allowing criminals and excommunicates to be buried on their properties with a Christian burial, and generally of flouting the authority of bishops.
 
@@ -4599,13 +4599,13 @@ Local conditions determine the Templars' relation with senior clergy. In Rome, t
 
 In many areas, the local clerics work closely with and support the Templars, granting them land, tax exemptions, or other benefits. Many monasteries also have good relationships with local Templars. In areas where the goals of the Templars clash with those of the local bishop or abbot, relationships can be tempestuous. In these cases, the Templars are more than willing to use their exemption from episcopal authority, and may even physically intimidate prelates, standing in their churches and denouncing the bishop.
 
-## **Templars and the Military Orders**
+## Templars and the Military Orders
 
 During peace time, the Templars and the other military orders often see each other as rivals. In particular, the Hospitallers compete with the Poor Knights for resources and donations. The rivalry can be quite bitter, but it is unusual for brothers from both orders to come to blows during heated arguments. For example, in Acre, the two orders both own massive mills on the River Belus that are great sources of money, but which can struggle for enough water, and are constant causes of disputes (this is such a big dispute that by 1235 the pope intervenes to negotiate a truce).
 
 At a strategic level, and during times of war, the Templars and the other orders work closely. During a battle, if the Templar banner goes down, the Templars rally first to the Hospitallers, then the Teutons, and then any other Christian banner.
 
-#### **Templars and Nobility**
+#### Templars and Nobility
 
 Most of the great nobles of Mythic Europe have excellent relations with the Templars, particularly in France, England, Italy and Iberia, and the Holy Land. Many kings, dukes, and barons have Templars as advisors, either permanently stationed in their court or as someone they regularly consult with on major issues. Many of these lords have been on crusade, or one of their relatives has, so they have a personal and direct relationship with the Templars.
 
@@ -4620,7 +4620,7 @@ around the door posts of the pillars of the church of the Blessed Mary of Nazare
 
 The group of lords with whom the Templars are most likely to come into conflict are the Christian lords of the Holy Land, particularly the King of Jerusalem or leaders of crusades. The Templars largely act as free agents, often without consulting the lords of the Holy Land.
 
-#### **Templars and Muslims**
+#### Templars and Muslims
 
 The Templars are keenly aware that the Muslim leaders in the Holy Land are fractious, yet capable of uniting. Similarly, Muslim leaders are aware that the Templars are ferocious fighters who never surrender, but who are also capable of reason and negotiation. Despite their willingness to make treaties and employ Muslim servants, the Templars refuse to ever make peace with Muslim leaders, even to the detriment of the local Christian lords.
 
@@ -4628,7 +4628,7 @@ In the past, various grand masters have made secret side-treaties with one Musli
 
 The Templars also frequently try to intervene in internal Islamic affairs. The most notable instance was reported by the notable chronicler William of Tyre in 1173, when the grand master began negotiations with the Ismaili sect — the Assassins — to ensure that the Templars would be safe from attack. Shortly after, this deal became known to the King of Jerusalem, who had received word that the Ismailis wished to convert to Christianity. The Templars arranged for the Ismaili envoy to be killed, thus scuttling the negotiations.
 
-## **Templars and the Order of Hermes**
+## Templars and the Order of Hermes
 
 The Templars as an order have little interest in wizards or magic. Individual commanders, and the grand master, may be aware of specific Hermetic magi and covenants, but there is no formal contact or communication between the two orders. A commandery close to the troupe's covenant may be aware of its nature, or instead may simply ignore it. The Templars are, however, starting to encroach into the wilds of Mythic Europe, specifically into areas with Magic auras; this may bring Hermetic covenants in conflict with the Poor Knights.
 
@@ -4737,13 +4737,13 @@ The following virtues are modified to be Templar specific versions of the virtue
 
 other activities.
 
-#### **Brother-Knight**
+#### Brother-Knight
 
 *Minor, Social Status*
 
 The character is a brother-knight in the Poor Knights of the Temple of Solomon, and has devoted his life to the reconquest of Jerusalem, to God, and to the Virgin Mary. He has sworn a lifelong vow of obedience, poverty, and chastity, and to obey the Templar Rule. He is answerable only to his superiors and the pope, and is from a noble family. You may take Academic and Martial Abilities during character generation. You may not take the Knight or Priest Minor Virtue, or the Landed Noble Major Virtue. The character may wear the famous symbol of the Templars, a red cross on pure white robes. This Virtue is only available to male characters.
 
-#### **Brother-Priest**
+#### Brother-Priest
 
 *Minor, Social Status*
 
@@ -4751,15 +4751,15 @@ The character is a chaplain of the Poor Knights of the Temple of Solomon,
 
 ## Templar Equipment
 
-#### **Brother-Knights**
+#### Brother-Knights
 
 Brother-knights all have the same equipment, clothes, weapons, and armor. Armor includes a helmet, mailed hauberk (covering the head and body down to knees), and metal leg and feet armor. This is worn over a padded jacket and hose. Brother-knights also have a sword, a shield, a lance, a dagger, a bread knife, a pocket knife, and a "Turkish" mace (a mace with a fixed metal head with spikes at the end). The Templar uniform consists of two shirts, two pairs of breeches, two pairs of hose, and a length of rope as a belt. Each brotherknight is issued with three horses and a squire, and at the commander's discretion a brother-knight can be given an additional horse and squire. When on campaign, Templar knights also carry portable bedding, blankets, sheets, storage bags, cooking and eating utensils, and drinking flasks and cups.
 
-#### **Brother-Sergeants**
+#### Brother-Sergeants
 
 The equipment and armor for brother-sergeants is less elaborate than for brother-knights. Their mantle is black with a red cross, or, for junior sergeants, brown. They are issued with an iron cap-helmet, a sleeveless coat of mail, hose with no feet protection, a sword, a shield, a dagger, and other weapons as necessary. Brother-sergeants receive only two horses.
 
-#### **Squires**
+#### Squires
 
 Squires provide support and look after a brother-knight's arms armor, equipment, and horses. As they are outsiders, they are not permitted to wear the mantle or red cross of the Templars, instead wearing plain reinforced leather armor or a mail hauberk, and carrying a sword and dagger — most squires have no active combat role other than to support their knight. Templar squires bear no resemblance to chivalric relationships between knight and squire. It is a relationship of master and servant squires are never members of the order but are outsiders hired for a set period, bound by obligation and often brutal discipline. This includes floggings and being placed in irons if the squire is obstinate or disobedient.
 
@@ -4767,7 +4767,7 @@ Squires provide support and look after a brother-knight's arms armor, equipment,
 
 which has the same implications as the Priest Minor Virtue (**ArM5**, page 47), except the character is answerable only to his superiors within the Templars and to the pope. You may take clerical Virtues to describe the character's rank within the Church hierarchy. The character wears the distinctive red cross of the Templars on his black robes. This Virtue is only available to male characters.
 
-#### **Brother-Sergeant**
+#### Brother-Sergeant
 
 *Minor, Social Status*
 
@@ -4782,13 +4782,13 @@ The following are new virtues designed for Templar characters.
 
 The character is an associate member of the Poor Knights of the Temple of Solomon, and has taken one or two of the Templar vows. His membership is generally temporary (although it need not be), and he may possess other Social Status Virtues or Flaws to reflect his true station, such as Clerk, Knight, Landed Noble, Peasant, or even Hermetic Magus. His former outside status affects his treatment in the order — knights and nobles receive more respect than commoners. Women may also become associate members (consoeurs), although they are housed separately from the men. Associates are governed by the same rule as full members, although they have fewer rights. Some associates may hold important positions within a particular Templar commandery, especially if they possess a valuable skill.
 
-#### **Templar Servant**
+#### Templar Servant
 
 *Free, Social Status*
 
 The character is a servant working at a commandery of the Poor Knights of the Temple of Solomon. He is supported by the Templars, and probably lives in the commandery itself or close by. He also receives payment as befits his profession. As a servant of the Templars, he is covered by the papal bull exempting him from secular and lay authority, and is generally accorded some respect by non-Templars.
 
-#### **Templar Specialist**
+#### Templar Specialist
 
 *Minor, Social Status*
 
@@ -4798,13 +4798,13 @@ The character works as a skilled employee of the Poor Knights of the Temple of S
 
 ty, and is generally accorded some respect. This Virtue may be taken by Muslim characters, who will typically act as translators (and who should also take the Outsider Flaw or similar).
 
-#### **Templar Administrator**
+#### Templar Administrator
 
 *Minor, Social Status*
 
 The character is technically a brotherknight or brother-sergeant for the Poor Knights of the Temple of Solomon, but is really an administrator for the order's many holdings and activities. While he has sworn the Templar oath and vows, and lives a monastic life, his many duties means he is likely to never see active combat. He is answerable only to his superiors in the order and to the pope. He may have considerable influence and access to enormous resources, but no additional time. You may take Academic Abilities during character creation. This Virtue can replace the Brother-Knight, Brother-Sergeant, and Brother-Priest Status Virtues. This Virtue is only available to male characters.
 
-#### **Commander**
+#### Commander
 
 *Major, Social Status*
 
@@ -4814,13 +4814,13 @@ The character is a commander within the Poor Knights of the Temple of Solomon an
 
 choosing a new grand master. This Virtue includes the effects of the Brother-Knight Virtue, and likewise can only be taken by male characters.
 
-#### **Office Holder**
+#### Office Holder
 
 *Minor, Social Status*
 
 The character holds a position within the local hierarchy of the Poor Knights of the Temple of Solomon, such as the deputy commander, marshal, or infirmarer. He may give orders to brothers in his region, is accorded the considerable respect due to his position, and has the power to enforce the rule and its various laws, although he answers to the local commander. Because of his high position, he is a well-known figure and has a Reputation of level 2 in his region. You may take this Virtue with any of the Templar Status Virtues, as your character may be a senior brother-sergeant or senior Templar chaplain. This Virtue is compatible with the Temporal Influence Minor Virtue. If you take this virtue with the Commander Major Virtue, then your character holds one of the few exalted ranks within the Templars, such as grand commander or grand marshal, or a rank that has authority over the Eastern or Western region of the order, in which case you likely reside in Acre, Paris, or London.
 
-#### **Templar Prestige**
+#### Templar Prestige
 
 *Minor, General*
 
@@ -4830,7 +4830,7 @@ A member of the Poor Knights of the Temple of Solomon, the character enjoys grea
 
 The Templars have their own Organization Lore, as follows.
 
-## **Organization Lore: Knights Templar**
+## Organization Lore: Knights Templar
 
 This Ability reflects knowledge and experience of the rule and regulations of the Poor Knights of the Temple of Solomon,
 
@@ -4855,7 +4855,7 @@ familiarity with important members of the order, information about its provinces
 
 Storyguides may use the following character stats to bring the Knights Templar into their sagas.
 
-#### **Brother-Knight**
+#### Brother-Knight
 
 **Characteristics:** Int +1, Per –1, Pre 0, Com 0, Str +1 (1), Sta +2, Dex +1, Qik +1
 
@@ -4869,7 +4869,7 @@ Storyguides may use the following character stats to bring the Knights Templar i
 
 **Reputations:** Influential +4 (Templars), Veteran +3 (Church and Military Orders)
 
-#### **Combat:**
+#### Combat:
 
 *Mace and Shield:* Init +2, Attack +11, Defense +8, Damage +9
 
@@ -4892,7 +4892,7 @@ Storyguides may use the following character stats to bring the Knights Templar i
 This character is a former Templar brother-knight veteran from the Holy Land, who has climbed the ranks of the
 
 
-#### **Brother-Sergeant**
+#### Brother-Sergeant
 
 **Characteristics:** Int +1, Per –1, Pre 0, Com +1, Str +1, Sta +2, Dex +1, Qik +1
 
@@ -4930,7 +4930,7 @@ Defense +8, Damage +7
 
 These are the traits of a young Templar brother-sergeant who has gained significant notoriety within the order after performing a heroic deed in battle. Although he has seen combat, he is still fairly "green" and inexperienced. His Mentor is probably an older Templar, who has been impressed by his actions.
 
-#### **Brother-Priest**
+#### Brother-Priest
 
 **Characteristics:** Int +2, Per –2, Pre +2, Com +2, Str 0, Sta 0, Dex 0, Qik +1
 
@@ -4944,7 +4944,7 @@ Sensitivity, Student of the Divine; Proud, Raised from the Dead;\* Lecherous (mi
 
 \* From *Realms of Power: The Divine,* page 36. **Personality Traits:** Loyal +3, Proud +3 **Reputations:** None
 
-#### **Combat:**
+#### Combat:
 
 *Fist:* Init +1, Attack +1, Defense 0, Damage +1
 
@@ -4975,15 +4975,15 @@ Through the example of Francis and his followers, God seeks to remind people of 
 
 News of the new Friars Minor movement has spread very rapidly, so characters in sagas set anywhere in Mythic Europe have a good chance of encountering someone who has heard one of the Friars Minor preach. Characters may meet, or even be, friends or relations of one of the members of the new group. The friars themselves are keen travelers, so it is
 
-#### **Challenge to the Merchants**
+#### Challenge to the Merchants
 
 Francis is from a rich merchant family, yet rids himself of all his riches and not only rejects the life of trading and spending, but refuses to handle coins at all. This is a challenge to the rising merchant classes.
 
-#### **Challenge to the Nobility**
+#### Challenge to the Nobility
 
 He recruits followers from the nobility, bidding them give their wealth to the poor and take on the role of humble servants to lepers, the sick, and the impoverished. This is a challenge to their status and traditional way of life.
 
-## **Challenge to the Church Authorities**
+## Challenge to the Church Authorities
 
 He sends preachers out on foot, ignoring the rule on enclosure and stability
 
@@ -4991,19 +4991,19 @@ He sends preachers out on foot, ignoring the rule on enclosure and stability
 
 of abode, and they preach to peasants in the vernacular. This is a challenge to the complacent, long-standing Benedictine monasteries, and to the authority and control exercised by the Church itself.
 
-#### **Challenge to Society**
+#### Challenge to Society
 
 He encourages women to do the same as himself; this is a challenge to the traditional place of women in society. Also, he preaches outdoors to anyone, even the birds and animals. This is a challenge to everyone who exploits these creatures.
 
-## **Challenge to the Theologians**
+## Challenge to the Theologians
 
 He advocates deeply spiritual, nonintellectual prayer. This is a challenge to the scholars of the Church.
 
-## **Challenge to the Monasteries**
+## Challenge to the Monasteries
 
 While individual monks and nuns take vows of poverty, the abbeys, nunneries, and monasteries where they live have accumulated possessions. Many are now very rich indeed. Francis challenges them to review their situation in the light of the gospel. Can the rich and powerful abbots give their institution's wealth to the poor? If they do not, can they still claim to be true followers of Jesus?
 
-#### **Challenge to the Laity**
+#### Challenge to the Laity
 
 The many poor among the laity have very little of their own in the way of possessions, and already live a fairly precarious existence. For them, there is still a challenge set by Francis, because he would have his followers give up any selfish desires as well as all possessions.
 
@@ -5145,19 +5145,19 @@ Elias Bonibarone was born in 1180 at Belvilia, near Assisi, into the family of a
 
 ## Story Seeds
 
-#### **Who is to Blame?**
+#### Who is to Blame?
 
 While preaching at a fair or market, or in some other place where mixed crowds gather, a friar notices a nobleman nearby. Using Meditation and Intervention, he causes the man to be beset by disturbing images that reflect his worst unconfessed sins. The blame falls on any magi present, unless they have the Gentle Gift. If there are none near enough, then it falls on any character who stands out, whether because of a Magical Air, or a physical Flaw that people tend to find disturbing. The innocent victim of the cruel lord's wrath may be a player character or may appeal to one for help.
 
-#### **New Arrivals**
+#### New Arrivals
 
 One or more player characters (if a Quaesitor is among them, so much the better) are traveling through a rural region in one of the many areas where friars are still unknown. The talk everywhere among the peasants is of great signs and wonders worked by a couple of foreigners who recently arrived. Some say they spoke at length in an unknown language, which they believe was Latin. Descriptions given by the peasantry are enough to suggest to the player characters that it might be a magus who is taking no care to keep his spells concealed from mundanes. If the characters find a priest to talk with, they learn that two friars from Italy passed through on their way to the nearest town, and one of the pair was working miracles. If they do not think of consulting the parish priest, or cannot locate him, they may have a more interesting time dealing with the apparent violation of the Hermetic Code.
 
-#### **Influence**
+#### Influence
 
 A priest not far from the covenant denies a friar permission to preach in his parish. As he walks away, disappointed, the friar meets what appears to be a peasant who engages him in conversation and offers sympathy and advice. Acting on this, the friar visits the covenant (believing it to be the home of the local lord) in hopes of obtaining support there to persuade the priest to change his mind. Does he get the support he requests? Does anyone try to identify the "peasant" and seek him out? What the friar finds at the covenant makes him want to stay for a while to preach to the people there; do they let him?
 
-#### **New in Town**
+#### New in Town
 
 Three Franciscan brothers arrive at the town nearest the covenant and plan to stay a while to preach, after obtaining permission from the parish priest. They erect very flimsy, temporary shelters against the town wall. Every time anyone from the covenant visits the town, at least one of the three is preaching in the marketplace or in front of the church. An urban covenant finds that the favored spot for preaching is very close by them, and crowds gather often; how do they deal with this?
 
@@ -5165,11 +5165,11 @@ There also is always at least one of
 
 the Franciscan friars begging for food somewhere in town. If player characters have contacts in town, they find beggars asking for help to move or remove this new competition.
 
-#### **Tricky Mission**
+#### Tricky Mission
 
 An archmage, who long ago lost touch with the day-to-day world outside his library and laboratory, hears muddled reports of Francis, and recruits the player characters to investigate on his behalf. Use any of the suggestions in the sections Birds and Animals or Brothers and Sisters that fit the archmage's interests as the excuse. Depending on his obsessions, the characters are under instructions to discover Francis' secrets or to find out about his use of supernatural abilities, and if need be, challenge him to "Join or die." What evidence can they obtain to convince the exacting archmage of their findings?
 
-#### **Vis Under Threat**
+#### Vis Under Threat
 
 A friar who is an ordained priest comes across a place where the vegetation is particularly vibrant and the animals plentiful, healthy, and unusually interested in him. He has entered a place with a Magical aura that is a significant vis source for the covenant. Inspired by the environment, the friar stays there, celebrating Mass every day and preaching to the animals. If the magi do not act quickly, the aura changes and the vis source is lost, at least temporarily.
 
@@ -5296,13 +5296,13 @@ A character may be designed as a member of the Holy Tradition during character c
 
 A character may also join the followers of Francis during character generation or in play, and subsequently meet someone who invites him or her to study and pray in order to find a deeper devotion to the calling, which equates to an invitation to discover the deeper Mysteries. The invitation may come from a character qualified to act as Mystagogue herself, or from a character who introduces the new potential recruit to a more senior, charismatic, or intelligent person who will be the Mystagogue.
 
-#### **Initiation Scripts**
+#### Initiation Scripts
 
 The deeper mysteries within the Franciscan movement are very new, and the only Initiation Scripts available are those recorded in the last few years by those who have observed Francis and his earliest recruits working with new candidates. The standard Initiation Scripts take the candidate through several of the most significant formative experiences in the life of Francis himself. All require that the Mystagogue knows the Virtue to be gained.
 
 Note that two Scripts require the Initiate to live for a season in a particular place — Francis' cave near Assisi. If the player character is based somewhere close by, so that there is no significant journey to make to reach the place, then she is highly likely to find that Francis' cave is already occupied or being reserved for someone who is expected (but may never arrive), and so be obliged to wait — perhaps living with the nearest community of friars or nuns, and serving them and the poor and sick of the locality.
 
-#### **Initiation: Meditation**
+#### Initiation: Meditation
 
 The Initiate spends a season in the cave where Francis himself lived, high on the side of the valley close to Assisi. During the first week, the Mystagogue visits frequently to instruct him and act as a spiritual guide. The pair engage in discussions of the scriptures, emphasizing the effect they have on the feelings of the Initiate and the implications of the word of God on the Franciscan's life of service and preaching. Matters of academic theology are hardly ever dwelt upon.
 
@@ -5316,7 +5316,7 @@ At the end of the season, the successful Initiate obtains the Major Supernatural
 
 Note: The location and experience of prayer and meditation closely match a period in the life of Francis, so the Sympathy bonus is 3.
 
-#### **Initiation: Understanding**
+#### Initiation: Understanding
 
 After finding a suitable Mystagogue and spending at least a few days with him in prayer and spiritual guidance, the Initiate must undertake a Quest, alone or with others, to obtain a suitable crucifix. This must be of Byzantine style and at least 200 years old. It must be obtained without committing any sin. Since the Initiate must own nothing, she cannot exchange something she owns or pay money for it, and must find a way of acquiring it that allows her to use it in any way she wishes, without it being her own property.
 
@@ -5331,7 +5331,7 @@ If successful, the Initiate gains the Major Supernatural Virtue of Understanding
 
 Note: The location matches that where Francis had his vision, but he did not have to go on a Quest and there is no guarantee that the vision the Initiate receives will be the same so the Sympathy bonus is 1. Since the Franciscan character may not own the item, loss of the crucifix does not count as a Sacrifice; it is simply the object obtained in the Quest.
 
-#### **Initiation: Intervention**
+#### Initiation: Intervention
 
 The Initiate lives with the Mystagogue from the autumn equinox until mid-winter, during which time the pair discuss and meditate upon the miracles Jesus worked during his life on earth, as recorded in the gospels. At the end of the season, just after the winter solstice, the Initiate travels to the mountainous country around Assisi. In imitation of Francis, during the coldest days of winter the Initiate journeys alone, on foot and in rags, through the snows to a suitable monastery or nunnery where he or she must work as a scullion until the spring equinox. At the end of this period, clad again as a friar or nun, the Initiate must travel to Rome. There the Initiate must obtain a papal blessing while remaining at all times too humble to actually request one.
 
@@ -5341,7 +5341,7 @@ If successful, the Initiate gains the Major Supernatural Virtue of Intervention,
 
 Note: Unlike Francis, the Initiate is not set upon by robbers, beaten, and stripped naked before crawling through the snow, so the Sympathy bonus is only 1.
 
-#### **Initiation: Purity**
+#### Initiation: Purity
 
 For this Initiation, the character must return to the small cave in the valley close to Assisi, where Francis spent his time meditating, fasting, and praying in the early days of his vocation. The Initiate must live there wearing only coarse rags fit for a beggar, and go without all but the smallest quantity of simple food and water for a season. This must be considerably less than the friars nearby have to live on, and barely enough to keep the character alive. One small meal each day of bread with gruel or porridge is allowed, except on Friday when only water may be taken, and on Sunday when a little of some other foodstuff is permitted. If the local friars are wanting, the character gets only water. This counts as an Ordeal that damages the character's constitution permanently.
 
@@ -5353,7 +5353,7 @@ If successful, the Initiate gains the Major Supernatural Virtue Purity, and its 
 
 Note: The location and experience of fasting closely match a period in the life of Francis, so the Sympathy bonus is 3.
 
-#### **Script Variations**
+#### Script Variations
 
 Francis is guided by angelic advice to suit the Initiation Script to the spiritual needs of each individual candidate. Thus some of the original followers have two or more of these Virtues through Initiation by Francis himself as Mystagogue, but may have different Flaws. There are one or two who have alternate Powers and Methods, too. Once Francis has died, this advice will no longer be available, and it is never available to other Mystagogues unless a suitable story is played out to acquire such an advisor. Other Mystagogues may unknowingly use an unsuitable Script (one that varies from the standards set out here but in a way that does not suit the Initiate). This bends the rules set out in *The Mysteries: Revised Edition* in order to prevent all Franciscan Initiates having the same Flaws as each other, and to explain how it is that there are numerous Initiates among the earliest Franciscans but far fewer later on.
 
@@ -5370,31 +5370,31 @@ If your saga follows history, Francis' health continues to deteriorate. He retir
 
 Something in your saga might change any of this. How differently will things turn out if an Hermetic magus cures Francis of the lingering marsh fever, for example?
 
-#### **Leaders**
+#### Leaders
 
 Leadership remains a difficult issue in 1220 and beyond. Player characters may play a part in the appointment of the Franciscan minister-general — the title given to the person who takes over the leadership after Francis' death. They might take a role directly through a friar character, or indirectly. House Jerbiton is most likely to take an active interest. How does the movement develop with a follower of Jerbiton at the head, or someone controlled by House Jerbiton?
 
-#### **Schism**
+#### Schism
 
 While Francis was away, one of his followers, John of Capella, was inspired with enthusiasm for the care of lepers and, having gathered a large group of afflicted men and women, began to develop a new religious order for them. How will the Franciscan movement and the Church at large deal with this, bearing in mind that the papacy has spoken against the founding of yet more religious orders?
 
-#### **Approval**
+#### Approval
 
 While displaying all the usual attributes of a religious order, the Franciscans do not, in 1220, have official papal approval. If your saga follows history, this happens in 1223, but something in your stories may alter the date, or stop it happening at all. Either way, there must be consequences.
 
-#### **Martyrdom**
+#### Martyrdom
 
 The group of Franciscan brothers in Morocco preaches despite repeated periods of imprisonment and constant surveillance. Their activities stir up dissent between the Christians and Saracens in Morocco. According to historical reports, they're martyred on January 16th, 1220. It is possible that something in your saga may prevent this, of course.
 
-#### **Academic Theology**
+#### Academic Theology
 
 While Francis avoids academic theology, the currents run in that direction, propelled by the enthusiastic, erudite teaching of the well-educated Dominican friars and a number of influential educated Franciscans. As the academic theologians take over the movement, this may stir up conflict either with the papacy that expressly forbade Francis from preaching theology, with the Dominicans who consider that turf allocated to them by the pope, or within the Franciscan order with those of the Little Brothers who adhere to their founder's original ideals. Any side in such a dispute might call on the player characters for help.
 
-#### **Heresy**
+#### Heresy
 
 Academic theologians are apt to question and analyze, which can lead towards accusations of heresy. A leading Franciscan with close links to academically inclined members of the Order of Hermes may well develop some unconventional interpretations. If a Franciscan has made enemies, he might be accused of heresy unjustly. Can characters save a friend from condemnation?
 
-#### **Poverty**
+#### Poverty
 
 Right from its earliest days, it has been hard for the friars to retain absolute poverty. Already they have a few substantial buildings to use, even if they do not own them all. Would a covenant agree to nominate one of these buildings as covenant property so that friars might use it but not own it?
 
@@ -5402,11 +5402,11 @@ Would a covenant or player character agree to hold funds on behalf of a friar su
 
 ## Story Seeds
 
-#### **The Unwelcome Friar**
+#### The Unwelcome Friar
 
 A pious maga is rumored to have made successful efforts to entice a friar to her covenant, in the hope that he would pray with her and preach. Her sodales have not yet taken any action against the friar, although he inspires many of the covenfolk and some hang on his every word, to the detriment of their duties. The increasing religious fervor may soon cause problems. The maga herself is disappointed that the friar is not ordained, so cannot celebrate Mass or hear confessions, and would like to replace him with one who is. If her ambition becomes known, the covenfolk will fight to keep the man they have come to love and depend on. The other magi will fear the inevitable rise of a Dominion aura at the covenant should a priest settle there, and the attention a priest would draw to them from the local bishop.
 
-#### **Tales Teachers Tell**
+#### Tales Teachers Tell
 
 One story, circulating in the Normandy tribunal, tells of a friar who lived with a spring covenant for several years. He worked as a teacher of Artes Liberales and Norman French, helping the disparate group of grogs accompanying the magi, who had come from different places, to find a common language. He used stories and parables from the Bible for all his tuition, and so brought religious education to his pupils at the same time. It is not clear whether he ever knew anything of the real work of the scholars, who never attended the lessons. One day he left without any explanation, and it may be that this was when he found out about them, or that they found out about his personal agenda and feared an upsurge in religious fervor that might threaten the covenant. If the former is true, he may well pass on what he learned about the magi to other friars.
 
@@ -5416,11 +5416,11 @@ be trouble with the leading Franciscans in such a case, or perhaps it is the lea
 
 The many temptations of the world that they have rejected are an ever-present danger for followers of Francis. Probably the most common is the temptation to consider something as belonging to oneself. Sometimes the temptation is more subtly disguised, such as that which threatens to overtake Brother Elias (see his stats for details). A Franciscan player character may be able to save Elias from making this error. Demons are ever alert to the opportunities such temptations offer them. If the forces of the Infernal can keep a plan together for long enough, they should find it easy to corrupt or destroy the nascent movement.
 
-#### **Ministration**
+#### Ministration
 
 Francis repeatedly declined certain concessions offered for his followers, but after his death, these may be accepted. One is a relaxation of the instruction that a friar must always obtain the permission of the parish priest before preaching. If the papacy removes the right of priests or bishops to stop friars from preaching, there is bound to be friction and the player characters may become involved, especially any player characters who are members of the clergy. Similarly, the original Little Brothers were rarely ordained, but several pressures are growing to encourage more among them to be priests, which may bring them into conflict with the traditional clergy when they are active in their ministry.
 
-#### **Persecution**
+#### Persecution
 
 Something may happen to change the Church's view of the Franciscans. Perhaps a change of pope to one with very conservative views who sees them all as a threat, or even as heretical. Maybe some supernatural accident has very unfortunate consequences and the movement is seen as too dangerous, in which case, the fall from favor might affect only one part of Mythic Europe. Under such circumstances, some of the Franciscan friars and nuns who have supernatural Virtues might go into hiding and their Holy Tradition develop as a secret within the Church. The story of how they find suitable teachers and develop the new secret tradition could form a saga theme.
 
@@ -5440,7 +5440,7 @@ Of course, what he has is a Hermetic enchanted item, lost by a Redcap. When some
 
 The following characters are suitable as Franciscan additions to a saga.
 
-#### **Franciscan Nun**
+#### Franciscan Nun
 
 **Characteristics:** Int 0, Per +3, Pre 0, Com +1, Str 0, Sta 0, Dex +2, Qik 0
 
@@ -5448,7 +5448,7 @@ The following characters are suitable as Franciscan additions to a saga.
 
 **Virtues and Flaws:** Religious; Improved Characteristics, Lesser Purifying Touch (Quotidian Fever); Weakness (Babies), Continence, Lame
 
-#### **Combat:**
+#### Combat:
 
 *Dodge*: Init: –1, Atk n/a, Def –3, Dam n/a Soak: 0
 
@@ -5458,7 +5458,7 @@ The following characters are suitable as Franciscan additions to a saga.
 
 **Abilities:** Area Lore: Central Italy 3 (hospitals and leper colonies), Awareness 3 (babies), Charm 2 (children), Chirurgy 2 (sores), Church Lore 1 (5) (Franciscans), Concentration 3 (prayer), Etiquette 2 (urban poor), Folk Ken 4 (poor townswomen), Organization Lore: Franciscans 2 (Poor Sisters), Profession: Herbwife 2 (Sleep), Profession: Washerwoman 2 (woolen cloth); Housewife 2 (cooking), Italian 5 (consolation), Stealth 2 (urban)
 
-#### **Franciscan Friar**
+#### Franciscan Friar
 
 **Characteristics:** Int +1, Per +2, Pre +1, Com +2, Str 0, Sta 0, Dex 0, Qik –1
 
@@ -5468,7 +5468,7 @@ The following characters are suitable as Franciscan additions to a saga.
 
 **Personality Traits:** Forgiving +1, Gregarious +2, Practical +1
 
-#### **Combat:**
+#### Combat:
 
 *Dodge:* Init: –1, Atk n/a, Def –1, Dam n/a *Fist:* Init: –1, Atk +0, Def –1, Dam +0 *Kick*: Init: –2, Atk +0, Def –2, Dam +3
 
@@ -5485,13 +5485,13 @@ The following characters are suitable as Franciscan additions to a saga.
 
 # Bibliography
 
-#### **II. The Congregation**
+#### II. The Congregation
 
 - Brooke, R. and C. *Popular Religion in the Middle Ages*: *Western Europe 1000-1300.* London: Thames & Hudson, 1984.
 - Lack, K. *The Cockleshell Pilgrim: A Medieval Journey to Compostela.* London: SPCK, 2003.
 - Swanson, R.N. *Religion and Devotion in Europe c.1215-c.1515.* Cambridge: Cambridge University Press, 1995.
 
-#### **III. The Diocese**
+#### III. The Diocese
 
 - Abulafia, D., ed. *The New Cambridge Medieval History: Vol. 5, 1198-1300*. Cambridge: Cambridge University Press, 1999.
 - Beck, H.G., Fink, K.A., Glazik, J., Iserloh, E., Wolter, H. *History of the Church Vol IV: From the High Middle Ages to the Reformation*. London: Burns and Oates, 1980.
@@ -5503,13 +5503,13 @@ The following characters are suitable as Franciscan additions to a saga.
 - Sayers, J.E. *Papal Government and England during the Pontificate of Honorius III (1216- 1227)*. Cambridge: Cambridge University Press, 1984.
 - Wordsworth, M.A. *Notes on Medieval Services in England*. London: Thomas Baker, 1898.
 
-#### **IV. The Rule**
+#### IV. The Rule
 
 - Frye, T. *The Rule of Saint Benedict.* NY: Liturgical Press, 1982.
 - Lawrence, C.H. *Medieval Monasticism: Forms of Religious Life in Western Europe in the Middle Ages.* Harlow, UK: Longman, 2000.
 - Burton, J. *Monastic and Religious Orders in Britain, 1000-1300.* Cambridge: Cambridge University Press, 1994.
 
-#### **V. The Women**
+#### V. The Women
 
 - Amt, Emilie, ed. *Women's Lives in Medieval Europe: A Sourcebook*. NY: Routledge, 1993.
 - Daichman, Graciela S. *Wayward Nuns in Medieval Literature*. Syracuse, NY: Syracuse University Press, 1986.
@@ -5520,27 +5520,27 @@ The following characters are suitable as Franciscan additions to a saga.
 - Stoner, Abby. *Sisters Between: Gender and the Medieval Beguines*. http://userwww.sfsu. edu/~epf/1995/beguine.html
 - Wade Labarge, Margaret. *Women in Medieval Life*. London: Penguin, 2001.
 
-#### **VI. The Corrupt**
+#### VI. The Corrupt
 
 Michelet, J. *Satanism & Witchcraft: A Study in Medieval Superstition.* Whitefish, MT: Kessinger Publishing, 1995.
 
 - Reeves, M. *Joachim of Fiore and the Prophetic Future.* London: Sutton Publishing, 1999.
 - Schmitt, J. *Ghosts in the Middle Ages: The Living and the Dead in Medieval Society.* Chicago: Chicago University Press, 2000.
 
-#### **VII. The Knights Templar**
+#### VII. The Knights Templar
 
 - Reed, Piers Paul. *The Templars*. London: Phoenix Press, 1999.
 - Barber, Malcolm. *The New Knighthood: A History of the Order of the Temple*. Cambridge: Canto, 1995.
 - Nicholson, Helen. *The Knights Templar: A New History*. London: Sutton Publishing, 2001.
 
-#### **VIII. The Franciscans**
+#### VIII. The Franciscans
 
 - Armstrong, Regis J., Hellmann, J. A. Wayne, Short, William J., eds. *Francis of Assisi: Early Documents. vols.1-3*. Hyde Park, NY: New City Press, 2001.
 - Mueller, Joan. *The Privilege of Poverty: Clare of Assisi, Agnes of Prague, and the Struggle for a Franciscan Rule for Women*. University Park, PA: Penn State Press, 2006.
 - Robinson, Pascal, trans. *The Writings of St. Francis of Assisi*. http://www.sacredtexts.com/chr/wosf/index.htm
 - *The Order of Preachers*. http://www.dominicans.ie/friars/history-and-heritage/ the-order-of-preachers.html
 
-#### **General**
+#### General
 
 Hamilton, Bernard. *Religion in the Medieval West*. London: Edward Arnold, 1986. Lynch, J.H. *The Medieval Church - a brief history*. Harlow, UK: Longman, 1992.
 

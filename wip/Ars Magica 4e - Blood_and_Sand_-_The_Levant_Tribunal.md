@@ -1470,7 +1470,7 @@ The actual procedure of summoning and controlling an entity is split into two ma
 
 However, before the actual summoning may take place, the *sahir* must first prepare the site in which the summoning will be performed and, if desired, draw a protective circle. These preparations take time. Basic preparation of the site takes a number of minutes equal to the Might of the entity being summoned. This preparation is performed differently by each *sahir*, but may include laying out ritual props, burning incensing and so forth. During this time the *sahir* may then choose to draw a protective circle. The actual drawing of the circle takes two rounds, should there be an urgent need for one. The strength of the circle is equal to:
 
-### **Stress die + Int +** Sihr **+ Appropriate Lore + Concentration + aura**
+### Stress die + Int + Sihr + Appropriate Lore + Concentration + aura
 
 The Storyguide should roll the stress die in secret, and not inform the player of the exact result. The *sahir* and any companions stand within the circle, and no entity covered by the Appropriate Lore with a Might score less than or equal to the strength of the circle may harm it or those within it, nor may they enter it. The circle also prevents harm from entities covered by the other Lore up to half its score in Might. Thus a circle with a strength of 20 drawn to protect against uncorrupted *jinn* (Legend Lore) also provides a protection of 20 against daemons and spirits of the Near and Far Lands (Legend Lore), and 10 against corrupted *jinn*, airy spirits, demons and ghosts (Occult Lore). As an option, the *sahir* may draw a circle to protect against the specific entity to be summoned. In this case, the *sahir's* score in Familiarity with the entity may be added to the summoning total, but the circle will not give any protection at all against other entities. The basic circle is 3 paces across, but this may be increased by one pace per additional round spent drawing the circle. Should more than one circle be drawn, the second will dispel the first. The circle is also dispelled if it is broken in any way, either through someone leaving it or any part of it being erased. The entity summoned almost always arrives outside the circle, although a botched summoning could result in it appearing within it.
 
@@ -1480,7 +1480,7 @@ Once the preparations are complete, the summoning may begin.
 
 To summon an entity, the *sahir* must exceed the entity's Might on a:
 
-### **Stress die + Pre +** Sihr **+ Appropriate Lore + Familiarity (if possessed) + aura**
+### Stress die + Pre + Sihr + Appropriate Lore + Familiarity (if possessed) + aura
 
 Bonuses and penalties should be applied for Virtues and Flaws that affect contests of will, such as Strong-Willed. If the *sahir* has either an Arcane Connection to or a Familiarity with the entity summoned, the total is taken as calculated. If an attempt is being made to summon an unspecified entity, halve the total. Every attempted summoning takes a number of minutes equal to the entity's Might, and costs a Fatigue level per 15 minutes or part thereof spent on the summoning. The summoning consists of invocations, exhortations and ceremonial gestures, and so may not be performed if the *sahir* is unable to speak or move. Once it is complete, the *sahir* sits down to await the arrival of the entity. Should the summoning be unsuccessful, the *sahir* will realize this once it is complete. Should it be botched, the *sahir* will not realize this. Precise effects of the botch are left up to the storyguide, and may range from a simple no-show to a more powerful, but less friendly, entity arriving, or even to the entity appearing within the circle. If the summoning is successful, the entity must immediately travel to the *sahir* from the nearest possible location, by the fastest means available to it. Should the *sahir* leave the summoning area before the entity arrives, the compulsion placed upon it ends immediately.
 
@@ -1507,11 +1507,11 @@ This ability to bargain with entities is identical to that possessed by Spirit M
 
 **Compulsion:** If the *sahir* chooses to compel the entity summoned, a contest of wills immediately takes place. The *sahir* rolls:
 
-### **Stress die + Sta + Leadership + Appropriate Lore + Familiarity (if possessed)**
+### Stress die + Sta + Leadership + Appropriate Lore + Familiarity (if possessed)
 
 The entity rolls:
 
-### **Stress die + Might**
+### Stress die + Might
 
 Once again, bonuses and penalties should be applied for Virtues and Flaws that affect contests of will, such as Strong-Willed. If the *sahir* is attempting to control an unspecified entity, halve the total. If the *sahir* rolls higher than the entity, for every point by which the entity's total is exceeded, the *sahir* may issue the entity with one command from the list below. If the *sahir* rolls equal to or lower than the entity, then the attempt to control the entity fails. The latter is now no longer under any compulsion. It is suggested that if the *sahir* botches, the entity may issue a number of commands to the *sahir*
 
@@ -1543,7 +1543,7 @@ Individual commands may be easily combined to have the entity perform more compl
 
 *Sahirs* may use their magic to invoke the spirits of the 7 planets: the Sun, the Moon, Mercury, Venus, Mars, Jupiter and Saturn. They do this in order to generate spell-like effects, which they may make more effective than those of their Hermetic counterparts through use of additional energy that flows from the planet. A specific area of magic is associated with each planet. To conduct the invocation, the *sahir* chooses a planet, states the general effect desired, then makes preparations similar to those involved in preparation for summoning. The *sahir* may choose to draw a protective circle, to protect against unwanted supernatural interference, following the rules above. The *sahir* then conducts an hour-long ritual, expends four Fatigue levels, and rolls:
 
-### **Stress die + Stamina +** Sihr **+ Divination: Astrology + Familiarity + Fatigue penalty + Aura**
+### Stress die + Stamina + Sihr + Divination: Astrology + Familiarity + Fatigue penalty + Aura
 
 If the *sahir* does not have a Familiarity with the appropriate planet, then the spirit may not be invoked. The summoner must roll greater than 15 + a quality die to summon the spirit successfully. The variation in the number represents the fact that at some times their spirits will be easier to invoke than at others, depending on where they are in relation to the earth, interference from other astral phenomena and so on. Naturally storyguides should feel free to adjust this number, if they have been keeping an eye on planetary conditions in their saga! Remember that characters with Divination may gener-
 
@@ -1598,7 +1598,7 @@ Some players may feel uncomfortable with the idea of the *sahirs* using magic th
 
 Particularly ingenious ways of learning about entities may be rewarded by the storyguide with bonuses to this roll. The ease factor is the entity's Might. For planetary spirits, this is equal to 15 + a quality die, though storyguides may wish to vary this by up to 10 points either way according to the general weather conditions of the season. If the *sahir's* roll exceeds the ease factor, they immediately gain a number of experience points in this Familiarity equal to:
 
-### **(**Sahir's **total – Entity's Might) ÷ 5 (round up)**
+### (Sahir's total – Entity's Might) ÷ 5 (round up)
 
 These points may be used to buy a new score or increase a current score in this
 
@@ -1662,7 +1662,7 @@ When spending their remaining experience points, they have access to the same Ab
 
 Casting *niranjs* takes one combat round, the same time it takes for Hermetic magi to cast spells, and the same rules for targeting, concentration, words, gestures and so on apply. The *raqi* declares his or her intention to cast a *niranj*, and then calculates the following total:
 
-### **Sta + Alchemy + Philosophiae + aura**
+### Sta + Alchemy + Philosophiae + aura
 
 The player then rolls a stress die, which is added to the total. If the new total is within 10 of the *niranj's* level, it goes off, and the *raqi* loses two Fatigue levels. If the roll equals or exceeds the level, then it goes off, and the *raqi* loses one Fatigue level. If the roll is not sufficient to reach within 10 of the level, then it fails, and two Fatigue levels are lost. Botches are at the storyguide's discretion. Vis may be used to increase the casting roll by + 5 per pawn of an appropriate Technique or Form used, up to a maximum bonus of the *raqi's* Int + Philosophiae. Vis may not be used to obtain extended ranges, durations and targets. Other items may not be used for Form and Effect bonuses when casting *niranjs*, unlike Spellcrafting.
 
@@ -1670,7 +1670,7 @@ The player then rolls a stress die, which is added to the total. If the new tota
 
 *Raqis* normally learn *niranjs* from books. Just as there are spell books circulating among the magi of the Order, so there are similar texts circulating among the *raqis*. To learn a *niranj*, the *raqi* should generate a lab total equal to:
 
-### **Stress die + Int + Alchemy + Philosophiae**
+### Stress die + Int + Alchemy + Philosophiae
 
 A *niranj* is not as reliable as a Hermetic spell, and even learning it can be risky, as the *raqi* experiments with it to be sure it has been learned correctly. The effects of botches are at storyguide's discretion, but should be similar to Disasters on the Extraordinary Results Chart for Hermetic experimentation (ArM4, page 93). If the *raqi's* Lab total equals or exceeds the level of the desired *niranj*, it is learned in one season. *Raqis* with the Magic Theory Ability may also attempt to convert spells from Hermetic spell books. In this case, the *raqi's* Magic Theory is added to the Lab total. However, this conversion is extremely difficult, and so the Lab total required to learn the spell is equal to double its level.
 
@@ -3038,7 +3038,7 @@ Henry II (I of Jerusalem, 1285)
 
 ### The 'Abbasid Caliphs
 
-### **In Baghdad:**
+### In Baghdad:
 
 Al-Nasir (1180)
 
@@ -3048,11 +3048,11 @@ Al-Mustansir (1226)
 
 Al-Musta'sim (1242-58)
 
-### **In Northern Syria:**
+### In Northern Syria:
 
 Al-Hakim I (1261)
 
-### **In Cairo:**
+### In Cairo:
 
 Al-Mustansir (1261)
 
@@ -3060,7 +3060,7 @@ Al-Hakim I (1262)
 
 ### The Ayyubids and Mamluks of Cairo
 
-### **Ayyubids:**
+### Ayyubids:
 
 Al-Malik Al-'Adil I Muhammad (1200)
 
@@ -3074,7 +3074,7 @@ Al-Malik Al-Mu'azzam Turan Shah (1249)
 
 Al-Malik Al-Ashraf II Musa (1250, nominally 1252-4)
 
-### **Mamluks:**
+### Mamluks:
 
 Shajar al-Durr, widow of Al-Salih II Ayyub (1250)
 

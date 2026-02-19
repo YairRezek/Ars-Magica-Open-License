@@ -14,7 +14,7 @@ The Tribunals of Hermes: Iberia™ is the first in a series of Ars Magica Third 
 
 
 
-## **CREDITS**
+## CREDITS
 
 Writing: Peter Hentges Development: Ken Cliffe Editing: Alara Rogers Layout: Sam Chupp
 
@@ -68,7 +68,7 @@ Michelle "Hammy" Prahler, for needing a Four Square nickname and having the pati
 
 Travis "Evil Eye" Williams, for so calmly accepting nasty shots.
 
-# **ACKNOWLEDGEMENTS**
+# ACKNOWLEDGEMENTS
 
 I'd like to thank all of the people who helped make this publication possible. These include:
 
@@ -128,7 +128,7 @@ metropolitan lives incompatible with the lives of surrounding people. Thus, more
 
 It is in this prison-like land of a fiery people that characters now find themselves, perhaps as inhabitants of the land, contributing to its nature, or as travelers, experiencing the land's unique nature firsthand.
 
-# **AUTHOR'S NOTE**
+# AUTHOR'S NOTE
 
 This book has been written for two types of people. For experienced Ars Magica players I try to present a cohesive picture of the Iberian Tribunal. The material contained herein should be consistent with material previously published by White Wolf, while expanding in detail and color. For beginning Ars Magica players I hope this book evokes Iberia's splendor, to compel your characters to visit there. There is much more about Iberia than can be contained in a book this size. Think of this book as an enticement to visit your local library and delve further into the history and folklore of Iberia.
 
@@ -472,7 +472,7 @@ When Montfort continues his aggressive actions against the territory of the Arag
 
 Pere's son, Jaume (James), is also captured in the battle but Pope Innocence III orders Simon de Montfort to release the boy to his people. Delicately put, there is speculation on the decency afforded the boy during his brief capture.
 
-# **Portugal**
+# Portugal
 
 The Kingdom of Portugal first existed as a province of León but later achieved its independence. To protect Portugal's sovereignty from surrounding Spanish states, Affonso Enríquez submitted the state to Papal jurisdiction. Affonso was given the title of Duke of Portugal and Portugal effectively removed herself from conflicts between Iberian Christian states. When Alexander III became Pope in 1159 he recognized Affonso as King of Portugal. With the sanction and protection of the Pope, Portugal was free to turn its military attention to the Moors and made some advances. However, the vigorous and bitter Kingdom of Castile prevented Portugal's expansion to the east, leaving her to expand to the south.
 
@@ -593,7 +593,7 @@ The society that invading Arabs structured was also favorable to sorcerers. The 
 
 Ironically, to utilize their powers, Moslem sorcerers in Iberia also had to contend with some followers of Islam. If sorcerers professed to follow Mohammed they were in the paradoxical position of practicing an art considered heretical by Arab orthodoxy. If sorcerers did not subscribe to the Moslem religion, they were subject to the restrictive laws that kept Christian influence under control. Thus, while sorcerers
 
-# **Legends of Hermetic History**
+# Legends of Hermetic History
 
 Regardless of similarities between Hermetic Magi and Moslem sorcerers, the two have maintained considerable hatred, perhaps out of jealousy, paranoia, or fear. During the Hermetic Schism War, when Moslem governments in Iberia were in turmoil, Hermetic Magi made direct attacks upon Moslem sorcerers. Caught up in their hunt of rebel Magi, many young followers of Flambeau traveled into Moslem lands specifically to hunt and kill the descendants of those that had killed their Founder (see *Flambeau*).
 
@@ -696,7 +696,7 @@ In the last years of the 8th century and in the beginning of the 9th, the Order 
 
 During this period of shuffling borders and poor leadership, many young Magi migrated to the outer Tribunals, in search of freedom they lacked under the watchful eyes of their parens. Iberia drew its share of these young Magi and, in particular, the glories of the Caliphate of Córdova attracted many. While members of House Flambeau worked for the destruction of the Moslem government and for the Moslems' expulsion from the peninsula, other Magi reveled in the culture of the Caliphate and Covenants were established in the lush valleys of al-Andalus (that part of Iberia controlled by the Moslems). Barcelona, with its rich mercantile trade and growing culture, also attracted Magi, though a Covenant was not established there for some time. The conflict between the desires of House Flambeau and Houses that benefited from the culture of the Caliphate plagued the Tribunal in centuries to come. Indeed, those conflicts may be at the foundation of conflicts that have since arisen between Magi supporting and opposing the Moslems, the two factions at times actually coming to magical blows.
 
-#### **Descent into Schism**
+#### Descent into Schism
 
 As a result of the Order's political decay in the 9th century and in beginning of the 10th, Wizard's Wars became popular. Without constant threat of reprimand, old rivalries flared up and new ones broke out. Like adolescents testing their restrictions, young Magi pushed their elders. They often died in the conflicts they provoked and many promising Magi fell to the sin of pride. The Iberian Tribunal, with a large population of Flambeau, was particularly plagued by Wizard's Wars. The Quaesitoris in Iberia began to restrict Wizard's Wars and regulated their conduct. They passed measures restricting Wizard's Wars to certain seasons, and allowing Magi receiving notice of a War to refuse participation, appealing instead for intervention from the Quaesitoris (the last policy being implemented Order-wide). These restrictions were enforced by a strict cadre of Quaesitoris operating within the Tribunal.
 
@@ -1196,7 +1196,7 @@ Yellow Bile — Makes one angry and violent. Depending on the person and situati
 
 Black Bile — Makes one too sad and irritable to partake of human companionship. Lasts for a day or until someone successfully cheers the person up. The character essentially has the Morose Personality Trait, rated +3.
 
-## **Father Cucufas**
+## Father Cucufas
 
 Three years ago Tyritescus appeared to Father Cucufas, a proud, young priest who had lost his faith. Tyritescus appeared in a pleasing shape, like that of an angel. Tyritescus told Father Cucufas he was needed for special and secret missions against the "small-minded, sensual, greedy folk of the Church, including
 
@@ -1223,7 +1223,7 @@ through crowds, demanding to be served before others, insulting "inferiors," and
 
 One lay member of Santiago, Na Joana Trenat, is a noble widow with a mansion on a hill north of Barcelona. She is also a member of Tyritescus's Infernal coven. In an arrangement between Tyritescus and Iernolaca, both Tyritescus's coven and Iernolaca's diabolic knights convene at Trenat's mansion. The coven and knights never meet at the same time, and Joana is the only coven member who knows about the crusaders' diabolic connections. Joana is an honorary member of the Knights of the Black Rose (see below). In a decisive dispute her loyalty could switch to the knights. (Tyritescus, the devil of betrayal, can never instill loyalty in his followers.)
 
-#### **Priests**
+#### Priests
 
 Four Barcelonan priests are members of Santiago's diabolic order. They work within the Church to grant land, power, and honors to the order.
 
@@ -1363,7 +1363,7 @@ Barcelonan Christians hold an ambivalent attitude toward Jews. On one hand, Jews
 
 In the 13th century, the menorah, not the Star of David, is the symbol of Judaism. The six-pointed star, like the fivepointed Star of Solomon, is a magical symbol, especially among the Moors.
 
-## **Restrictions on Jews**
+## Restrictions on Jews
 
 Jews may not enter the homes of Christians. Jews may not have Christian servants or slaves. They are therefore kept from being landlords of peasants and when they own agricultural land, they must rent it out to Christians to manage and use. Most of the primitive guilds of the city do not admit Jews. Jews are excluded from all Christian organizations and orders. The Ustages, which protect the rights of Catalan citizens from arbitrary royal rule, officially support laws that discriminate against Jews. Only by assuming the role of a Jewish character may a player realize the full injustice of these laws; Christian characters simply don't realize what really goes on unless they have close Jewish friends.
 
@@ -1478,7 +1478,7 @@ The predominant color of Toledo is brown. From the tawny rock that the city sits
 
 The population of Toledo is quite varied. Jews, Moslems, and *Mozarabes* make their home here and each has their own quarter within the walls. The Jews of Toledo are among the most fortunate of Iberia. Though their houses are typically fortified, their neighborhoods are not walled against attack. There has risen a legend that the Jews of Toledo called the Crucifixion both heedless and imprudent, but their letter to this effect supposedly arrived too late for consideration. The city's Moslems, like its Jews, are allowed to continue practicing their religion during Christian rule. As the Reconquista progresses, however, members of both religions suffer stricter regulations.
 
-#### **Around Toledo**
+#### Around Toledo
 
 The road approaching Toledo from the east is guarded by the Castle of San Servando. This Visigothic structure sits solidly on a hill and guards the Puente de Alcántara, the first bridge into the city. As you cross the Tagus River, Toledo rises to fill your vision. The road continues to the right, paralleling the city's massive wall, turning to the west. The city sprawls outside its walls and small markets abound alongside the road.
 
@@ -1487,7 +1487,7 @@ North of the city are the less crowded residences of the nobility and some monas
 
 The third entrance to Toledo is the Puerto del Cambrón, on the western edge of the city. The road crosses the Tagus River on the Puente de San Martin, a fortified bridge. The Puerto del Cambrón enters the city near the Jewish quarter, which is a center of commerce and industry. Toward the center of the city is the Church of San Román, which was the center of the Visigothic religion. Closer to the center of Toledo, and higher on the hill, is the current cathedral. It was initially a mosque captured with the city in 1085. The Archbishop of Toledo is pressing for the construction of a true cathedral.
 
-#### **Toledo's Dominion**
+#### Toledo's Dominion
 
 | Daytime:                           | 4  |
 |------------------------------------|----|
@@ -1497,7 +1497,7 @@ The third entrance to Toledo is the Puerto del Cambrón, on the western edge of 
 | Day between Good Friday and Faster | 2  |
 
 
-## **Matlus on Moors**
+## Matlus on Moors
 
 "The Moors, they are an incredible people, do you not think? They are fierce warriors, for one thing. I bet if they had a decent leader to pull them all together, we would be speaking Arabic, here in Barcelona, within a year. As it is, the Moors are just being beaten back because the Christian armies gang up on individual Moorish armies. The losses of the Moors are not due to poor fighting ability.
 
@@ -1511,7 +1511,7 @@ South of Toledo lie the lands of the Moors. The fields south of the city are oft
 
 For the layout of the city, see map of Toledo.
 
-### **Power and Politics**
+### Power and Politics
 
 The city of Toledo is not the capital of Castile, but is nearly as important in the political life of the King. Toledo is the center of the Iberian Church and has been since the days of the Visigoths. Even while under Moslem domination, the Church was allowed to operate out of Toledo and maintained its influence on the affairs of the country. The Archbishop of Toledo wields tremendous power and is very nearly the ruler of Castile. The King travels to Toledo for coronation and the Archbishop is frequently his confessor and advisor. At the start of the 13th century the Archbishop of Toledo is Rodrigo
 
@@ -1686,11 +1686,11 @@ Other Combat Totals: Dodge Defense +5 (11 Action), Soak +3 (9 Action), Fatigue +
 
 \* Assuming Speed, Attack Bonus, and Weapon Damage are zero, for ease of play.
 
-## **Grogs**
+## Grogs
 
 Barcelona Covenant does not maintain a regular turb of Grogs. A group of bruisers with nothing to do but hang around the Silver Rooster would attract attention. The Covenant therefore maintains relations with a few select almogavers, but only hires them when Magi feel a need for physical protection. The Magi usually hire these bodyguards through agents, typically Andreau or Matteu, but occasionally meet with them in disguise to hire them personally. These rough people are unaware of the Covenant's existence. They are, however, concerned with their honor and defend Magi that hire them with their lives.
 
-## **Companions**
+## Companions
 
 The following people are those with specialized skills that Barcelona's Magi regularly rely upon. These tend to life at the Silver Rooster, and largely live in the Covenant proper beneath the inn.
 
@@ -2041,7 +2041,7 @@ As a wealthy bachelor, Franc is much sought after by youngladies ofstatus. Ifhe 
 
 Franc has scruples against using magic directly against competitors, but does use spells to tell where various ships, carryinghis goods, arein theMediterranean. Inhissanctumhe has a map of the seas, with wooden markers to indicate the
 
-#### **Matlus**
+#### Matlus
 
 Characteristics: Intelligence (clever) +1, Perception 0, Strength (old muscles) -3, Stamina (tired) -2, Presence 0, Communication (expressive) +3, Dexterity 0, Quickness 0
 
@@ -2160,7 +2160,7 @@ Near one wall is a free-standing arch, actually a Hermes Portal that takes trave
 
 Gallery — Filled with statues, ancient Roman altars, reliefs, murals, and mosaics. The Magi of Jerbiton are some of the few who appreciate art for art's sake, without a religious or social purpose. The current Magi are not clear how the previous Magi got the big works down here, though some were here when the temple ruins, upon which the Covenant is built, were excavated.
 
-# **OUTSIDE RELATIONS**
+# OUTSIDE RELATIONS
 
 All Hermetic visitors to Barcelona are under jurisdiction of Barcelona Covenant, and as such must put up with the demands of the Covenant's Magi. Would-be visitors are instructed by members of House Mercere to report to Farusca at the Silver Rooster upon arrival. Visiting Magi are also told that the Covenant requires payment of one pawn of vis from each Magus and another pawn for each five non-Magi (or fraction thereof) that visit the city. A group of two Magi and six non-
 
@@ -2247,7 +2247,7 @@ The Covenantisa halfday's travelnorth oftheroad and the trail is wellmarked. Upo
 
 The following are the people characters may meet or know at Duresca. Unlike Barcelona, these people are in the Covenant at most times. If they're absent, they're probably in the nearby town of Santiago de Compestela.
 
-# **Grogs**
+# Grogs
 
 The covenfolk of Duresca are a hardy lot. The privileges of the Quaesitoris allow the Magi to amass a great deal of wealth and the people who serve them benefit from the Magi's largess. The reeve is given a monthly income from the Covenant's treasury, to spend as he or she sees fit. Supplies are purchased at local fairs and the needs of the covenfolk are fulfilled. After the basic costs of running the Covenant, an average surplus of 30 marks of silver remains per month. Some of this is given as a bonus to members of the turb who have distinguished themselves. The remainder is kept as property of the covenfolk. This money is used to finance the pilgrimages of covenfolk or
 
@@ -2264,7 +2264,7 @@ The second largest group of *custodes* is the Home Guard. A third of the turb of
 
 The last group of *custodes* is the Wizard's Guard. These *custodes* are the elite warriors of the turb. They are entrusted with the defense of the secluded area of the Covenant, including the House of Justice. The sergeants of the Wizard's Guard are entrusted with knowledge of the ritual that opens the gate to this section of the Covenant. The Wizard's Guard wear white surcoats with a black circle inscribed upon them. The last 15 of the *custodes* are members of the Wizard's Guard.
 
-## **Companions**
+## Companions
 
 The most important of Duresca's *consortis* are those who aid the Covenant's Magi directly, both within and without the Covenant proper.
 
@@ -2444,7 +2444,7 @@ The remaining Magi of Duresca represent a dynamic mix that makes for sound judge
 
 All the Quaesitoris of Duresca have the Quaesitor Virtue, and many Social Skills. Their Intelligence and Perception scores tend to be positive, as do their socially oriented Characteristics, but their physical Characteristics tend to be lacking. The Quaesitoris's Arts range from zero to six, with most spells dealing in Intéllego Mentem.
 
-#### **Fortress**
+#### Fortress
 
 For the layout of the Covenant, see the Duresca map.
 
@@ -2512,7 +2512,7 @@ those cases. Comments of the Primus of House Guernicus are also listed for some 
 
 Other works in Duresca's mundane library include detailed descriptions of Iberia's nobility, and accounts of some of the land's history. Descriptions of the mundane world become less accurate as they deal with lands further from Duresca, but at least offer a good overview of the region. Also included are works on the officers and districts of Iberia's Church.
 
-## **OBLIGATIONS**
+## OBLIGATIONS
 
 The Magi of Duresca serve as itinerant judges for several villages near the Covenant. For the most part, younger Magi of the Covenant bear this obligation. They maintain some secrecy about their origins while performing this duty, posing as agents of "Count Bernaldo" to maintain legitimacy. The judging of village disputes is particularly tricky for young Magi. They must judge disputes to ensure both sides are satisfied. If a villager is dissatisfied and appeals to his lord or the Bishop, the Covenant's masquerade might be undone.
 
@@ -2854,7 +2854,7 @@ Other Combat Totals: Dodge Defense +0 (6 Action), Soak +0 (6 Action), Fatigue +0
 
 will. If he should ever solve this paradox and complete his formulation, combining Hermetic magic and Moslem mysticism, the results may shake the Order and Mythic Europe.
 
-# **FORTRESS**
+# FORTRESS
 
 See the Estáncia-es-Karida map for the official layout.
 
@@ -3058,7 +3058,7 @@ CHAPTER FIVE: COVENANTS OF IBERIA
 
 In general the Grogs are disorganized and do not fight cohesively. Their morale is very poor.
 
-## **Companions**
+## Companions
 
 There are very few Companions operating within or for the Magi of Jaferiya. Most abandoned the Covenant when signs of the Infernal became obvious, to pursue their own lives elsewhere. Those consortis that remain are under the direct control of the Magi.
 
@@ -3177,7 +3177,7 @@ Metron is one of Rasus's favorite young Magi. He is devious and knows the ways o
 
 Relegare has been corrupted by a demon of Lust and has given herself over to that sin. She speaks slowly and gazes longingly at those she interacts with.
 
-## **FORTRESS**
+## FORTRESS
 
 Note: This description of Jaferiya pre-dates its exposure as a Covenant of diabolists.
 
@@ -3257,7 +3257,7 @@ A large area of ground is worn free of grass, leaving only packed earth that kic
 
 The postern gate to the castle is busy, passing most mundane traffic in and out of the Covenant. Supplies from the gardens and merchants pass through this gate, and the waste of the Covenant is carted out through this gateway.
 
-# **OUTSIDE RELATIONS**
+# OUTSIDE RELATIONS
 
 The Magi of Jaferiya maintain good relations with many members of the local nobility. The knowledge the Magi are able to procure, particularly about the Moslems, is often valuable to the nobility. In return, the nobility provides support to the Covenant in its endeavors. They placate city leaders when young Magi get out of hand and provide supplies to replenish the Covenant's armory and stores.
 
@@ -3347,7 +3347,7 @@ PERSONALITY TRAITS: Brave +2, Loyal -1, Reliable -2, Hates Moors +2, Independent
 
 WEAPONS & ARMOR: Short Spear, Hard Leather Cuirass
 
-#### **ENCUMBRANCE: 1**
+#### ENCUMBRANCE: 1
 
 You know these mountains and trails from traveling them all of your life. Time was you would use your knowledge to ambush travelers and merchants, taking what you could. Now you've hooked up with the Covenant. You're not completely sure of the mysterious people you work for but most of your time is spent as guide and tracker. Your real skill, however, is in planning and executing ambushes upon the unsuspecting invaders of your land.
 

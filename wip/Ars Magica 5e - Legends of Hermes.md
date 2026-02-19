@@ -30,7 +30,7 @@ Scott, Grey Thornberry
 
 **Second Round Playtesters:** Jason Brennan, Elisha Campbell, Robert Major; Leon Bullock, Peter Ryan, Chris Barrett; Donna Giltrap, Malcolm Harbrow, Aaron Hicks, Richard Love; Daniel Bishoff, Gregor Gál, Andreas Hajdu, Romana-Samira Polansky, Christoph Safferling, Jan Sprenger
 
-#### **Author Biographies**
+#### Author Biographies
 
 **Timothy Ferguson** is a librarian on the Gold Coast, in Australia. At writing, he is preparing for GenCon Oz 2009, where he will bring **Ars Magica** fandom to (some of) the masses. He always dedicates his books to his wife, Linda, because she's so nice.
 
@@ -140,7 +140,7 @@ DIGITAL VERSION 1.0
 | Mystery Virtues49             |    |
 
 
-#### Legends of Hermes How to Use a Script With No Cult.....................49 The Need to Vary a Script to Increase the Bonus ...........50 Keeping Track of Ordeals & the Previous-Ordeal Bonus..50 Multiple or Overlapping Scripts............50 Initiation of Puissant Principles Lore ..................51 Initiation of Spirit Familiar....................51 Initiation of Minor Magical Focus (commanding spirits)........52 Initiation of Major Magical Focus (spirit magic)...........53 Initiation of Spell Binding...53 Initiation of Hermetic Empowerment...................54 **Adventure: Finding Fortune..............55** Précis.................................55 Story Starter: In a Locked Box.................55 Story Starter: A House In Venice ............56 Story Starter: Chrétien the Roamer.........57 Foreshadowing..................57 Story Starter: The Witches' Quests.........57 Story Starter: Fortunata the Thessalian?...57 Story Starter: Viea's Legacy.....................57
+#### Legends of Hermes How to Use a Script With No Cult.....................49 The Need to Vary a Script to Increase the Bonus ...........50 Keeping Track of Ordeals & the Previous-Ordeal Bonus..50 Multiple or Overlapping Scripts............50 Initiation of Puissant Principles Lore ..................51 Initiation of Spirit Familiar....................51 Initiation of Minor Magical Focus (commanding spirits)........52 Initiation of Major Magical Focus (spirit magic)...........53 Initiation of Spell Binding...53 Initiation of Hermetic Empowerment...................54 Adventure: Finding Fortune..............55 Précis.................................55 Story Starter: In a Locked Box.................55 Story Starter: A House In Venice ............56 Story Starter: Chrétien the Roamer.........57 Foreshadowing..................57 Story Starter: The Witches' Quests.........57 Story Starter: Fortunata the Thessalian?...57 Story Starter: Viea's Legacy.....................57
 
 | Story Starter:                        |
 |---------------------------------------|
@@ -729,27 +729,27 @@ As the new millennium dawned, Conciatta finally abandoned her tower and retired 
 
 Members of House Bonisagus may remember more about Conciatta due to House Acclaim. Conciatta's early research, before she cloistered herself away, earned her the rank of Cannophori (*Houses of Hermes: True Lineages*, page 21) and this provides Bonisagus characters with a +3 bonus when rolling to remember about her. See the Introduction: What the Order Remembers for rules.
 
-### **Known by All**
+### Known by All
 
 - She unified the understanding of the four realms under the single Art of Vim.
 - Her famous work, *The Application of Vim to the Supernatural Humors*, is often studied by apprentices.
 
 • She withdrew from Hermetic society in her later years.
 
-#### **Widely Known**
+#### Widely Known
 
 - She lived in Iberia and had links with both Christian and Muslim communities.
 - Her parens was marched on charges of diabolic corruption.
 - She was assisted in her work by her husband, a Jerbiton artist.
 
-#### **Uncommon Knowledge**
+#### Uncommon Knowledge
 
 • There were suggestions that she did not publish all of her research to the Order.
 
 - She found a way to overcome the Dominion's effect on magic.\*
 - Conciatta disappeared into Twilight before the turn of the millennium.\*\*
 
-#### **Lost Secrets**
+#### Lost Secrets
 
 - She paid a terrible price for the hubris of her research and lost control of her magic.
 - She died in a convent near Toledo.
@@ -769,7 +769,7 @@ Conciatta's legacy is a series of breakthroughs that she made while in seclusion
 
 The following virtues represent the ways Conciatta's unique research affected both her Gift and her understanding of the Hermetic theory. They can either be gained through original research, assisted by her own laboratory texts, or used as inspiration for integrating with Hermetic Theory as with researching ancient magic. As some of Conciatta's work has already been integrated with Hermetic magic the following virtues represent new breakthroughs with effects currently unavailable to Hermetic magi.
 
-#### **Confluence of the Realms**
+#### Confluence of the Realms
 
 *Minor, Hermetic*
 
@@ -788,7 +788,7 @@ This Virtue also provides the understanding needed to extract vis from any of th
 
 It takes 30 research points to integrate this Virtue.
 
-### **Insight of the Realms**
+### Insight of the Realms
 
 *Minor, Hermetic*
 
@@ -798,7 +798,7 @@ This Virtue also allows the Dominion Lore, Faerie Lore, Infernal Lore, and Magic
 
 It takes 30 research points to integrate this Virtue.
 
-#### **True Understanding of the Realms**
+#### True Understanding of the Realms
 
 *Major, Hermetic*
 
@@ -812,7 +812,7 @@ Though it wasn't recognized at the time, Bonisagus' theory of magic, as taught t
 
 This meant that early magi had great difficulty in perceiving, describing, and traversing supernatural auras and regiones, and more adventurous magi had to learn many similar spells across the ten Forms in order to affect creatures of the realms. Some House Bonisagus scholars attempted to extend the theory with further distinct Arts, each covering a separate supernatural realm, but these attempts died a natural death. It took a generation and the gauntlet of Conciatta before a new approach was explored; the application of Vim to the four supernatural realms.
 
-#### **Conciatta's Glossary**
+#### Conciatta's Glossary
 
 Many of the common words that magi use to talk about auras originated in Conciatta's early works.
 
@@ -856,7 +856,7 @@ If either Confluence or Insight of the Realms have been integrated, it takes 30 
 
 The Flaw below represents the defects to Conciatta's Gift that she acquired through her research. Magi who find a way to Initiate Conciatta's Virtues must go through the ordeal of acquiring this Flaw, though it is not gained in research or integration.
 
-#### **The Constant Expression**
+#### The Constant Expression
 
 *Major, Hermetic*
 
@@ -883,7 +883,7 @@ The following are new spells affect auras of various kinds.
 
 **New Intellego Vim Spells**
 
-#### **To See What Binds this Magical Place**
+#### To See What Binds this Magical Place
 
 InVi 30
 
@@ -893,7 +893,7 @@ R: Personal, D: Diameter, T: Vision
 
 The following new guidelines may be used by any maga who has studied from at least one of Conciatta's unpublished works on the breakthroughs described here, through a tractatus or a laboratory text for instance. No insight or additional research is required.
 
-#### **New Intellego Vim Guidelines**
+#### New Intellego Vim Guidelines
 
 Natural and Preternatural tethers are described in *Realms of Power: Magic*, page 10. Tethers are objects or circumstances of mystical significance that draw fluid vis to a location and both cause and sustain an aura. Storyguides should feel free to extend the metaphor to all of the four supernatural auras.
 
@@ -909,7 +909,7 @@ Detect the presence of a subsumed aura.
 
 **Level 5:** Detect the presence and strength of any natural or supernatural tether.
 
-#### **New Rego Vim Guidelines**
+#### New Rego Vim Guidelines
 
 **General:** Suppress an aura of strength less than or equal to the spell's magnitude. The aura is not destroyed but its effects, including any casting bonuses/penalties, are suppressed for the spell's duration. The aura returns to full strength at the end of the spell's duration. The presence of the suppressed aura is detected by magic or abilities that can normally detect such auras. This Ritual cannot affect regio levels beyond the mundane level. As the target aura is still in place, merely locked away, events and actions that fuel the aura may raise the level beyond the power of this Ritual to contain it. If this happens, the Ritual's power is broken and the aura is made apparent again. (Ritual)
 
@@ -917,7 +917,7 @@ On casting this spell within a Magic aura, the maga sees a light emanating from 
 
 (Base 5, +1 Diameter, +4 Vision)
 
-#### **This Heart of Darkness**
+#### This Heart of Darkness
 
 InVi 20
 
@@ -928,9 +928,9 @@ Cast within an Infernal aura, this spell reveals whether actions taken within th
 (Base 5, +1 Touch, +2 Room)
 
 
-#### **New Rego Vim Spell**
+#### New Rego Vim Spell
 
-#### **Dominance Over the Infernal**
+#### Dominance Over the Infernal
 
 ReVi General
 
@@ -970,7 +970,7 @@ ta's discoveries with Hermetic magic can be found in *Ancient Magic*, page 7, wh
 
 This chapter suggests effects and artifacts that magi following Conciatta's trail may find. While not specified, storyguides may also want to provide laboratory texts for these effects to best suit their saga goals.
 
-#### **List of Artifacts**
+#### List of Artifacts
 
 The following table lists the spells and devices that can be discovered through this story, the Virtue that they provide inspiration for, and the integration/breakthrough points that each provides.
 
@@ -996,7 +996,7 @@ The following table lists the spells and devices that can be discovered through 
 
 Prior to introducing Conciatta's legacy and presenting the Four Corners story, it will be useful to plant certain seeds to make her discoveries more immediate and tempting. The storyguide should also use Conciatta's name in largely unrelated stories to raise her profile with the troupe.
 
-#### **Difficulties with Auras**
+#### Difficulties with Auras
 
 Conciatta's work is all related to the supernatural realms and auras. Stories with auras and regiones at their core pose interesting challenges for magi: the Dominion in particular limits the effectiveness of Magic, and Infernal auras have considerable deleterious effects even at low levels. Currently, Hermetic magic has no easy way to identify the phenomena that anchor auras of each realm so any story where this is important will start the troupe looking for solutions to this problem.
 
@@ -1008,13 +1008,13 @@ This story is designed as a treasure hunt and requires the magi to leave their c
 
 solutions to aura-related problems and the covenant may already hold one or two, written perhaps by Currito in his later years.
 
-#### **Books and Spells**
+#### Books and Spells
 
 When Conciatta's husband Currito left the covenant he took a number of useful texts and devices. It is possible that some of her work has made it to the troupe's covenant over the years. Such books or devices can be presented to the troupe as obscure items in their library or stores.
 
 Also, works by others may contain Conciatta's own glossing, and these hint at her greater understanding of the realms, or individual correspondences may be found within other volumes. Any time a character studies the Art of Vim from a book there is an opportunity to include Conciatta's name in the experience.
 
-#### **The Art of Currito**
+#### The Art of Currito
 
 Currito never fulfilled his potential but some of his artwork, particularly his frescoes, survives and could be found anywhere across the Order. These surviving works can be used to foreshadow story events, such as by showing the same subject or character as though influenced by the four realms.
 
@@ -1028,7 +1028,7 @@ Although they are presented chronologically here, there is no order in which the
 
 None of the vestiges form a connection to the mundane world so they cannot be used to directly access the remains of Conciatta's sanctum.
 
-#### **The Vestige of Study (Studious)**
+#### The Vestige of Study (Studious)
 
 This tempus shows Conciatta in her sanctum. She is with Currito and they
 
@@ -1045,7 +1045,7 @@ The walls of her sanctum are lined with laboratory texts, tractatus, scrolls, an
 
 The door provides the means of traveling into or out of this vestige.
 
-#### **The Vestige of Acclaim (Proud)**
+#### The Vestige of Acclaim (Proud)
 
 This tempus takes the form of a great lecture hall, recognizable to any Bonisagus as one of the halls of Durenmar. The tempus here behaves oddly as the images shift, jumping from one to the next as the observers walk the hall.
 
@@ -1059,7 +1059,7 @@ But there is one constant with each change in image: Currito sits at the back of
 
 Characters entering or leaving this vestige do so through the door at the rear of the hall.
 
-#### **The Vestige of Seclusion (Bitter)**
+#### The Vestige of Seclusion (Bitter)
 
 The characters enter this tempus at the bottom of the winding stair of Conciatta's tower. The steps behind them disappear into mists while Currito stands sorrowfully in front of them. His head is bowed and his shoulders sag. He is dressed as though for a journey and has a large bag slung over his shoulder. The tower here has no walls and the winding stair is alone in the eerie blank whiteness. Stepping off the stairs sends the character into the void.
 
@@ -1067,7 +1067,7 @@ The steps behind Currito stop at Conciatta's door. Characters may peer around Co
 
 Characters leave this tempus by opening the door.
 
-### **The Vestige of Death (Fearful)**
+### The Vestige of Death (Fearful)
 
 Characters entering this tempus find themselves suddenly at the foot of a bed, as described below.
 
@@ -1129,7 +1129,7 @@ The Banu Hud negotiated an alliance with Castille against their Almoravid enemie
 
 When Alfonso captured Zaragoza in 1118, many of the the city's libraries were taken south by fleeing Muslims. The contents of the remaining libraries were sent north to Paris where they can still be found in the trust of the university. By this time, these libraries contained a number of Hermetic texts, Conciatta's among them.
 
-#### **The City in 1220**
+#### The City in 1220
 
 Zaragoza is a strong city in the heart of Aragon served by well-maintained roads. The principle routes are north by road to Jaca and southeast by river to Barcelona.
 
@@ -1173,7 +1173,7 @@ Yusuf ibn Ahmad al-Mu'taman ibn Hud ruled Zaragoza between 1082 and 1085. Aside 
 
 Al-Mu'taman was a Learned Magician (*Hedge Magic: Revised Edition*, page 79) and his lineage schooled Conciatta in their ways of overcoming the deleterious effects of auras. Modern magi might also learn much from this line of magicians, if they can be found and bargained with.
 
-#### **Finding the Covenant Remains**
+#### Finding the Covenant Remains
 
 As the Magic aura that housed the covenant is now subsumed by the Dominion, finding the site requires a number of clues.
 
@@ -1188,7 +1188,7 @@ Alternatively, if characters are actively searching for unusual sights in the ai
 
 Storyguides may wish to run a story connected with gathering these clues and identifying the correct warehouse along the Ebro river. In any case, the troupe finally discovers that the covenant site is now occupied by the merchant Reyes de Barbastro.
 
-#### **Reyes de Barbastro**
+#### Reyes de Barbastro
 
 The site of the old covenant is in the north west of the city, where the Ebro turns sharply back on itself. It is now occupied by buildings owned by Reyes de Barbastro. His property looks out over the Ebro and includes both his home and a large warehouse, beneath which is a cellar that bounds the subsumed Magic aura. He is unaware that his cellar has any significance. Reyes has a comfortable living and supports a fine household. His principle business is trading wine from the Logroño region, where he maintains another warehouse, but he will buy and sell most things.
 
@@ -1200,7 +1200,7 @@ spective husband will care both for his business and his daughter (admittedly in
 
 access to Reyes' warehouse and the important cellar may want to appeal to this side of him.
 
-#### **The Cellar**
+#### The Cellar
 
 The cellar beneath the warehouse is currently used as a storeroom and is filled with forgotten crates and barrels. The gloom and an uncomfortably low ceiling make for a claustrophobic space. There is a Magic aura of level 1 currently subsumed by a level 2 Dominion. In the middle of the cellar, opposite the stairs, are two pillars.
 
@@ -1248,7 +1248,7 @@ An Intelligence + Magic Theory stress roll against an Ease Factor of 9 is requir
 
 Once the Dominion has been subsumed, the level one Magic aura becomes apparent and entering the higher regio much easier.
 
-#### **The Tower Revealed**
+#### The Tower Revealed
 
 With the Magic aura revealed, the way is now clear to the level 6 regio that houses the covenant's tower. Spells or abilities that allow a character to see through the regio boundaries reveal the start of a staircase that winds around the outside of the cellar, up into unseen levels. Taking these stairs automatically pushes the character through the boundary.
 
@@ -1264,13 +1264,13 @@ Once the ritual has been cast and the subsumed Magic aura has been made apparent
 
 clude that either Currito and Conciatta led very frugal lives or they also had other property nearby.
 
-#### **Currito's Sanctum**
+#### Currito's Sanctum
 
 Midway up the tower is the former sanctum of Currito. The door is shut and warped with age. On forcing the door, a sudden flurry of feathers fills the air as three dozen birds, startled by the intrusion, launch themselves and scramble for the windows. Two wide shutters swing freely and open out onto a balcony overlooking Zaragoza, the Aljaferia palace visible though muted as though through a magical mist.
 
 Every surface in this room is covered with guano, deposited over centuries. The smell is stifling and the guano has ruined everything that may once have been of use. Cabinets have been emptied and left open while such laboratory equipment as was left behind has been smashed through the years.
 
-#### **Conciatta's Sanctum**
+#### Conciatta's Sanctum
 
 Towards the top of the tower is Conciatta's sanctum, the marker still clearly apparent upon the door. Characters making a Perception + Awareness roll against an Ease Factor of 6 hear the sound of movement within the chamber.
 
@@ -1327,13 +1327,13 @@ Creates an illusionary form that can be both seen and heard. The body can be cre
 
 **Appearance:** Conciatta is two steps away from being presentable. Her long hair is tied up but struggling to be free. Her fingers are ink stained, as is her once-valuable gown.
 
-### **Conciatta's Spells, Devices, and Laboratory Texts**
+### Conciatta's Spells, Devices, and Laboratory Texts
 
 Though Conciatta's sanctum appears filled with books and devices, most are copies of the same book. Through the years, her misplaced studies have resulted in many books being scraped clean simply so she can overwrite them with what she thought was new work. Even devices have not escaped. Some have been broken down to be rebuilt or scavenged, their parts contributing to copies of the same old device.
 
 However, Conciatta's sanctum still contains a number of useful enchanted items and laboratory texts, each of which can provide a source of insight. Where noted, each laboratory text or device provides a bonus to the insight roll (as described in *Ancient Magic*, page 8) equal to the magnitude of the effect. Where a device is enchanted with more than one effect, only the highest level effect provides insight.
 
-### **Subsume the Apparent Dominion**
+### Subsume the Apparent Dominion
 
 ReVi 50
 
@@ -1348,7 +1348,7 @@ This laboratory text is for a level 50 ritual but the effect is general. By re-c
 
 (Base 15, +1 Touch, +4 Year, +2 Room)
 
-#### **The Sands of Time**
+#### The Sands of Time
 
 InVi 19
 
@@ -1362,7 +1362,7 @@ The only example left in the sanctum is broken, its glass chambers smashed and t
 
 If the device were working it would provide a bonus of +3 to an insight roll. In its current state it provides no bonus but does provide 4 points towards integrating *Insight of the Realms*.
 
-#### **The Lodestone**
+#### The Lodestone
 
 InVi 33
 
@@ -1374,13 +1374,13 @@ This small palm-sized silver device contains a pointer beneath a glass lens. Whe
 
 Given the simplicity of its working, the lodestone provides no bonus to the insight roll. Recreating the effect grants 7 points towards integrating *Insight of the Realms*.
 
-#### **The Tome of Binro**
+#### The Tome of Binro
 
 Binro was an early follower of Bonisagus who took an interest in the realms and sought to extend Bonisagus' theory to include them. The early House saw Bonisagus' great theory as being a set of principles against which to invent and apply new Arts. But while the House's wisdom was that the three new Arts should be researched, one each for the Divine, Faerie, and Infernal realms, Binro saw Bonisagus' theory as flawed from the outset. His opinions on the theory led some of his Bonisagus colleagues to label him, only partly in jest, "heretic." This volume is a collection of 60 correspondences (*Covenants*, page 90), many in Binro's own hand, each contributing to a discussion on how Magic Theory could, or should, accommodate the supernatural realms.
 
 The tome can be studied in two ways. Firstly, as a level 6 tractatus on Magic Theory. Doing so reveals that the text contains a casting tablet. The spell is clearly experimental, even by contemporary standards, and is a variation on the common *Ward Against Faeries of the Wood* spell.
 
-#### **Ward Against Woodland Spirits**
+#### Ward Against Woodland Spirits
 
 ReHe(Vi) 41
 
@@ -1412,7 +1412,7 @@ Wearing the red cross of Saint James, a cross terminating in a sword, the Knight
 
 There is a very public rivalry between these two orders within Toledo. On the one hand the openly devout Order of Calatrava suspects their counterparts of corruption, while the Knights of Santiago view their opposites as ineffectual and weak.
 
-#### **Story Seed: The Generous Knight of Santiago**
+#### Story Seed: The Generous Knight of Santiago
 
 Having become friendly with a knight of Santiago on the road, the characters are invited to his castle to celebrate the occasion of his birthday. His wife has arranged food, wine, and entertainment from all across Iberia to be brought for the feast. But the dour priest, a member of the knight's household and scornful of his excesses, may be right to refuse the celebrations. How long before the magi notice the debauched Infernal aura? Will they succumb to indulgence? And will they give the devil his victory or risk damaging the knight's reputation?
 
@@ -1432,11 +1432,11 @@ The abbess, Prudencia, is seen as strict and aloof, though this last part is in 
 
 Those looking around the area find a small graveyard, clearly associated with the convent, some way off in the shade of a low hill. It is here that a gravestone with the name of Conciatta can be found.
 
-### **Conciatta's Grave**
+### Conciatta's Grave
 
 Conciatta has a small simple grave in the convent's cemetery, identifiable by a small headstone bearing her name. However, according to convent tradition, upon her death, the novice who last carried Conciatta's spirit is buried here. Conciatta's bones, like those of all subsequent hosts, have been moved to the ossuary. There is no record of which bones are hers.
 
-#### **The Spirit and the Vow**
+#### The Spirit and the Vow
 
 Conciatta's spirit cannot be found at the convent in the same way that it can in the other three realms. Instead, Con-
 
@@ -1449,13 +1449,13 @@ Since Conciatta's death, generations of novices have been possessed and carried 
 
 By the rules of the convent, no outsider is allowed to see the holy sister who carries the spirit. But those making a contribution to the convent may be permitted an audience with her so as to hear what her visions might reveal for them (though this may not be what it first seems). A vow to protect the spirit has been passed from abbess to abbess for generations. It has become part of the duties of the convent and is a secret entrusted to the holy sisters.
 
-#### **Gaining the Abbess's Trust**
+#### Gaining the Abbess's Trust
 
 Simple attempts at negotiation are unlikely to be enough to persuade the abbess to allow visitations. She has guarded her ward for many, many years and will not break her sacred vow lightly. But there are a number of things the characters can do to earn her trust. The easiest is for the storyguide to define some important task that the abbess needs doing and set this as a story for the troupe. The task need not necessarily be dangerous, or involve any overt conflict, but it should provide opportunities to show virtuous qualities.
 
 The characters could also spend time to persuade the convent of their good intentions. To do this they would need to gain a good reputation in or around Toledo. Word of kindness, charity, or even shows of good judgment travel to the convent and the abbess. And of course as the convent is so poor that a show of generosity to the convent itself makes up for a shortfall of generosity elsewhere.
 
-#### **An Audience with Immaculada**
+#### An Audience with Immaculada
 
 Money can convince Prudencia to allow an audience with Immaculada. She instructs the characters to return the following day so that she can prepare the girl. Upon their return, one character is shown into a chamber, which is divided by a curtain. The chamber is empty as far as the character can see, apart from a simple chair and candles to light the gloom. The curtain obscures the other
 
@@ -1510,7 +1510,7 @@ This is a huge collection of scrolls, books, slates, and so on, and constitutes 
 
 The collection also includes a laboratory text describing a large summoning or casting circle enchanted with *Maintaining the Unstable Conjuration,* with elements of lore concerning each realm. Constructing the circle according to the plan provides a +1 laboratory specialization towards experimentation and adds +1 to laboratory Safety. The laboratory text provides a +6 bonus to the roll to gain insight. Completing the laboratory project to finish the ring provides 6 points towards initiating *Confluence of the Realms*.
 
-#### **Maintaining the Unstable Conjuration**
+#### Maintaining the Unstable Conjuration
 
 ReVi 30
 
@@ -1587,7 +1587,7 @@ who I was, but I do not now know who I am, but Seiffeddin knows as he will remem
 
 fitting, do you not think so?" And so her racing words go on. She pauses now and then to write another word or two, first searching for the right slate or parchment to scribble upon.
 
-#### **Freeing Conciatta**
+#### Freeing Conciatta
 
 Leaving Conciatta's spirit within Immaculada is good for neither of them, and if Prudencia can be persuaded of this she allows the magi to try to separate the two; the abbess will not allow suffering to continue if there is a way to end it. It is Immaculada's fear of being alone that binds Conciatta to her. If this can be abated, the spirit can freely move into another host. It is left to individual troupes to decide how this can be achieved.
 
@@ -1637,7 +1637,7 @@ Qadis is built on a sand spit jutting out into the Atlantic ocean a little way t
 
 **Abilities:** Arabic 5 (storytelling), Artes Liberales 3 (rhetoric), Awareness 2 (audience), Carouse 4 (with his audience), Charm 2 (being witty), Concentration 3 (recitals), Disguise 4 (masks), Dominion Lore 1 (Divine creatures), Etiquette 3 (Qadis ghosts), Faerie Lore 2 (places), Folk Ken 2 (the living), Greek 5 (storytelling), Guile 3 (subtle deceit), Infernal Lore 1 (undead), Intrigue 3 (the ghosts of Qadis), Latin 5 (ancient works), Magic Lore 4 (ghosts), Profession: Actor 5+2 (plays of many parts), Qadis Lore 5 (history), Teaching 4 (Profession: Actor)
 
-#### **Powers:**
+#### Powers:
 
 *Crafter of Illusion*, variable points, Init 0 minus Might points spent, Imaginem: Seiffeddin can create illusory props and sounds as the needs of his play dictate, spontaneously producing the effect of a Creo or Rego Imaginem spell of level 10 or less at a cost of one Might point per magnitude. His illusions are never
 
@@ -1664,7 +1664,7 @@ After several days in the city, the characters may begin to notice things at the
 
 Storyguides may want to introduce a ghost at this point to act as a guide and ally in the strange nighttime world of Qadis. The ally can arrange introductions to other spirits and even point out places of power within the city. But any ally also has expectations of his new friends.
 
-#### **The Roman Theater**
+#### The Roman Theater
 
 If they have visited the convent outside Toledo, the characters may have learned the name Seiffeddin and that he is an actor. There is an old Roman theater in the city and the Qadis living know of this but do not recognize the
 
@@ -1674,13 +1674,13 @@ actor. His white hair and pale skin contrast with his dark and dazzling eyes. Hi
 
 Seiffeddin uses his powers to raise illusions that populate the theater with a backcloth, scenery, props, and sometimes even other actors. But the exertion, or rather the expenditure of his Might, leaves him drained at the end of each performance.
 
-#### **Seiffeddin's Secret Knowledge**
+#### Seiffeddin's Secret Knowledge
 
 Conciatta and Currito did study under Seiffeddin, and other Qadis spirits, Magic and Faerie, to learn both Magic and Faerie Lore. The stones that Seiffeddin refers to are props for use in ceremonial casting as described in *Houses of Hermes: Societates*, page 59. A season of studying Magic Lore under Seiffeddin can be used as a source of insight for integrating *Insight of the Realms*. This provides a bonus of +10 to the initial roll. The maga must then enchant a group of props, laced with magical symbols drawn from arcane lore. They are medium sized and, on completion, provide a +3 ceremonial casting bonus. The effect is to eliminate all distractions and focus the attention of the caster. The props do this by dulling species not associated with the Magic realm.
 
 Note: Props used in Hermetic casting do not in themselves need to be magical, and indeed most are not, but these props are an extension of Conciatta's research and an important stepping stone to her new discoveries.
 
-### **Clearing the Mind of the Caster**
+### Clearing the Mind of the Caster
 
 PeIm (Vi) 30 Pen +0, 1/day R: Touch, D: Ring, T: Circle
 
@@ -1737,7 +1737,7 @@ Seiffeddin is the only ghost who haunts the theater, though the other Qadis dead
 
 Habib is a scholar, cleric, astronomer, translator, and teacher. In fact, given his perpetually poor finances, he takes on any job that is asked of him so that he can maintain a roof over his head, food in his belly, and parchment for his studies – but not always in that order. He has an inquisitive mind and is fascinated by the sights he has recently seen. He may be tempted to part with the magical device in his custody, but only if his study of supernatural Qadis can be supported in other ways.
 
-#### **The Fourfold Lens**
+#### The Fourfold Lens
 
 The Fourfold Lens is an iron stand of adjustable height with four handsized lenses, each on an armature that allows it to swing free or into alignment with the other three. Each of the four lenses detects a separate aura and each has been enchanted separately. Where a lens fails to detect its dedicated aura it remains transparent and simply displays the mundane world.
 
@@ -1745,7 +1745,7 @@ This device goes further than simply detecting the apparent or dominant aura. It
 
 Conciatta created this device rather than simply formulate a spell so that her custos and Currito could take it with them to investigate and record rumored auras. It was on such a journey that the device was lost.
 
-### **Unveil the Subsumed (Realm)**
+### Unveil the Subsumed (Realm)
 
 InVi 54
 
@@ -1767,7 +1767,7 @@ sured. He remembers Conciatta and her quest for Tartessos. He describes how he s
 
 The actor can describe how to get to Tartessos but warns that it can only be accessed on one night of the year; the anniversary of the city's loss. Depending on what stories the storyguide would like to tell in Qadis, the important night can be relatively sooner or later. Seiffeddin instructs the characters to seek out Bruja, a crone who lives out on the marsh, as she knows the way into the city.
 
-#### **Habib al-Hadi the Astrologer**
+#### Habib al-Hadi the Astrologer
 
 One of Conciatta's devices is in the hands of a Qadis scholar. He recently found it and, thinking it a device for searching the heavens, he began to use it at night. The Fourfold Lens (described in the nearby insert) instead showed him auras of all different realms and the ghostly inhabitants of the city. He began to think that the lenses instead showed the distillation of the four elements, part of the essential cosmology of the world. He has categorized many of the sights he has seen into the four elements, which he has related, with some uncertainty, to the four supernatural auras.
 
@@ -1789,7 +1789,7 @@ Tartessos was once a powerful trading city of the ancient world. It supplied Gre
 
 The city can now only be found in the Faerie Realm, accessible from the marshlands at the mouth of the Guadalquivir river.
 
-#### **Finding Tartessos**
+#### Finding Tartessos
 
 The area of the marsh where the city once stood has a low Faerie aura of 2, but some sections of the old city walls manifest themselves within Faerie regiones. *Realms of Power: Faerie*, page 16, has more information on Faerie regiones. One particular regio (of level 5) contains what's left of the city gates; two brokendown pillars and great shards of rotted wood rising out of the marsh. This is the way into the city. But the characters may need a guide, first to find this regio and second to help them cross the Threshold into the Faerie Realm.
 
@@ -1809,7 +1809,7 @@ Bruja will not accompany the characters on their journey into Tartessos, but wil
 The sky above the city is filled with flashes of lightning that trail rolling thunder behind them. Ruins lie all about and the weeping and pleading of an unseen dying populace can be heard all around. The city is in a state of per-
 
 
-#### **A Eudokian Story**
+#### A Eudokian Story
 
 On entering Tartessos, the characters continue the quest of reuniting Conciatta's spirits, but the Faerie Realm makes that story manifest around them. The theme of the story is reunification and a number of choices based upon this theme are presented to the characters. Passing each challenge takes the characters closer to the palace where they face their last challenge, but failure takes them closer to the mundane world. A few brief examples are given that storyguides might like to expand upon.
 
@@ -1842,7 +1842,7 @@ On entering Tartessos, the characters continue the quest of reuniting Conciatta'
 
 **Pretenses:** Awareness 3 (gifts), Bargain 6 (riches), Brawl 1 (claws), Brew Potion 4 (healing), Chirurgy 4 (treating poisons), Faerie Speech 5 (threats), Folk Ken 5 (seeing the evil of men), Marsh Lore 3 (geography)
 
-#### **Powers:**
+#### Powers:
 
 *Spirit Away:* variable points, Init (magnitude/2), Vim: By brewing a potion, Bruja can add Threshold Points to a character's Threshold Total at the cost of 1 Might Point per Threshold Point. The character must already have a Threshold Total and the Crone cannot contribute all the points needed to send the character into Faerie. The potion can take any form as described below. (Greater Power)
 
@@ -1860,7 +1860,7 @@ Bruja apparently roams the marshes looking for herbs, roots, and small creatures
 
 If the troupe successfully completes two or more of these tasks, they finds the palace of the Silver King. But if they fail in three of these tasks, the palace they find is a facade, the doors of which lead back to the mundane world. For each success, the characters are awarded a Fable Point (*Realms of Power: Faerie,* page 21).
 
-#### **The Silver King**
+#### The Silver King
 
 The palace is a skeleton of pillars and broken arches from which dust and rubble occasionally tumble. The steps lead up into the grand throne room and there, upon a raised dais, is the despondent form of Arganthonios, the Silver King, ruler of Tartessos. Seated beside him, her hand comforting his, is Conciatta.
 
@@ -1893,7 +1893,7 @@ If it is clear to the storyguide that
 
 **Reputations:** King of a Lost City 3 (Iberia)
 
-#### **Combat:**
+#### Combat:
 
 *Grappling*: Init –2, Attack +6, Defense +4, Damage +4
 
@@ -1946,7 +1946,7 @@ Arganthonios is alone with the exception of his loyal queen. But it is his natur
 
 **Pretenses:** Animal Handling 2 (owls), Arabic 4 (poetry), Area Lore: Qadis 2 (ghostly personalities), Area Lore: Zaragoza 3 (lacunae), Area Lore: Narixa 2 (regiones), Area Lore: Toledo 2 (the convent), Artes Liberales 3 (ceremonial magic), Awareness 2 (spell effects), Aragonese 4 (poetry), Charm 2 (first impressions), Code of Hermes 1 (Bonisagus obligations), Concentration 3 (lab work), Dominion Lore 5 (divine places), Etiquette 2 (faeries), Faerie Lore 5 (ancient faeries), Finesse 2 (precision), Folk Ken 2 (magi), Infernal Lore 5+2 (regiones), Intrigue 1 (House Bonisagus), Latin 5 (Hermetic usage), Leadership 1 (laboratory work), La Torre no Vista Lore 3 (history), Magic Lore 5 (regiones), Magic Theory 15+2 (Vim), Order of Hermes Lore 2 (history), Parma Magica 2 (Vim), Penetration 2 (Vim), Philosophiae 3 (ceremonial magic), Teaching 3 (Magic Theory)
 
-#### **Powers:**
+#### Powers:
 
 *Grant (Insight of the Realms)*: 5 points, Init –10, Vim: This power temporarily blesses the target with the *Insight of the Realms* Virtue. Conciatta only recovers Might Points spent on this power when its effects are withdrawn, which she may do at any time simply by choosing to. Until the Might Points are returned to Conciatta, she effectively does not exist and is only able to interact with the world through withdrawing her gift from its bearer. Special, No Hermetic equivalent (R: Touch, D: Mom, T: Ind, Ritual)
 
@@ -1960,7 +1960,7 @@ the players are not able to meet this challenge on this visit (perhaps they have
 
 However, if the characters can remind Conciatta of the love she and Currito shared, the King's hold over her is broken and she is released. Though still faerie in nature, she now understands that her role is to be reunited with her sisters.
 
-#### **Leaving Faerie**
+#### Leaving Faerie
 
 With agreements in place, the faerie Conciatta is ready to leave for the mundane world. After an emotional yet dignified farewell to her King, she begins the long walk back to the Threshold. The group meets Bruja again and she gives the magi a book with a warning not to open it until on the other side.
 
@@ -1976,17 +1976,17 @@ The small town of Narixa sits on the Mediterranean coast, with white sands on it
 
 Like Qadis, Narixa is an Islamic city. But unlike Qadis, it benefits from a Dominion aura of 3 over most of its lands. Though small, the town is wealthy with a devout and generous population. Perhaps thanks to that Dominion, Narixa has little knowledge of the evil dwelling within the nearby mountains.
 
-#### **The Sights and Sounds**
+#### The Sights and Sounds
 
 A small fleet of fishing boats launch daily from from the white beaches, while teams of fishermen cast their nets from the shores. Moving inland, the markets are full with fresh fish, livestock grazed on the hillsides, and fruits, grains, and other foodstuffs brought in from neighboring towns. In the mercantile quarter, all manner of merchants can be found trading Narixa silks, oriental spices, and goods from across Europe. The sounds of commerce mingle with street players and the periodic chants of the *mu'adhdhins* calling the faithful to prayer.
 
 This far into Al Andalus, there are few *dhimmis* (non-Muslims living under Muslim rule) but peoples from across the Islamic world are represented here. And the skyline is filled with the minarets of the many mosques that serve the town.
 
-#### **Attitudes to Foreigners**
+#### Attitudes to Foreigners
 
 The poorer areas of the city are more suspicious of foreigners, but the wealthier quarters are occupied by merchants used to dealing with strangers from all corners of the world. Still, men who look as though they are expecting trouble invariably find it.
 
-### **The Al Narixa Mosque**
+### The Al Narixa Mosque
 
 Conciatta and Currito visited Narixa several times and made studies not only of the caves themselves but of local lore concerning the caves. Many of their notes were left in the care of the Al Narixa Mosque after their last visit well over two hundred years ago. But even that far back, the mosque had a well-tended library so Conciatta's work can still be found there today.
 
@@ -2034,7 +2034,7 @@ The caves are ancient and contain deep fissures and domed chambers all interconn
 
 Once collated, this collection of scrolls forms a map of a cave system two miles east of the small town of Narixa, including how to find and enter the caves. The journal provides a bonus of +1 to any rolls used to navigate both the caves and the regiones that overlay them. The work makes it clear that the Narixa caves are a confusing array of tunnels and chambers and that the unwary can actually slip between regio levels without noticing. The scrolls urge caution and preparation before attempting the caves.
 
-#### **The Insightful Stylus**
+#### The Insightful Stylus
 
 Amid the dusty scrolls is a small sealed leather scroll case bearing the inscription "Conciatta ex Bonisagus." On opening the lid, a slender silver stylus slides out onto the table. It is traced through with Hermetic and occult symbols (concerning the Infernal).
 
@@ -2042,7 +2042,7 @@ The case also contains a small scrap of parchment describing the following effec
 
 The stylus has been opened with 12 pawns of vis.
 
-#### **Sense the Line**
+#### Sense the Line
 
 InVi 14
 
@@ -2054,7 +2054,7 @@ This enchantment detects the line of the Infernal regio boundary. The informatio
 
 (Base 3, +1 Touch, +2 Sun; +1 for 2/day, +3 triggered by sunrise/set)
 
-#### **Inscribe the Line**
+#### Inscribe the Line
 
 ReTe 14
 
@@ -2066,7 +2066,7 @@ While the stylus is touched to a wax tablet, the stylus is held perpendicular to
 
 (Base 2, +2 Sun, +2 affect metal; +1 for 2/day, +3 triggered by sunrise/set)
 
-### **Note These Landmarks**
+### Note These Landmarks
 
 ReTe 14
 
@@ -2084,7 +2084,7 @@ point and tend to localize on that point while growing in strength. The Narixa r
 
 The caves are home to swarms of mice, scorpions, and snakes, as well as packs of hyena whose laughter can be heard echoing off the walls from somewhere deep inside. Here and there, human bones jut painfully from the walls, victims caught between a regio and the mundane world. The caves are covered by a level 3 Malevolent Infernal aura and filled with Tartaran regiones (*Realms of Power: The Infernal*, pages 15 and 16).
 
-#### **Navigating the Caves**
+#### Navigating the Caves
 
 All terrain in the cave system is treated as hazardous and adds an extra botch die to any physical actions taken. Space is confined and large weapons suffer a –2 penalty to attack and defense. All the while, the floors and walls crawl with scurrying or skittering things.
 
@@ -2132,7 +2132,7 @@ Damage +0
 
 **Abilities:** Arabic 5 (taunts), Athletics 5 (distance running), Awareness 3 (smell), Brawl 5 (Bite), Hunt 4 (track by smell), Narixa Caves Lore 3 (regiones), Survival 3 (Narixa caves)
 
-#### **Powers:**
+#### Powers:
 
 *Piercing the Infernal Veil*, 0 points, Init +1, Vim: Allows the Hyena to see through the boundaries between regio levels. The Improved Powers quality has been used to reduce the points cost to zero and to increase the initiative.
 
@@ -2222,7 +2222,7 @@ Once through the labyrinth the characters find the throne room. This huge domed 
 
 The scorpion's venomous quality (*House of Hermes: Mystery Cults*, page 43) is treated as the same level as an Asp's bite (**ArM5**, page 180).
 
-#### **Optional Rule: Swarms**
+#### Optional Rule: Swarms
 
 A swarm is a mass of creatures of Size –3 or smaller with a combined Size of +1 or more. Given the fluid makeup of a swarm, it is almost impossible to stop one in its tracks. Shield grogs are used to holding off single or even group enemies, but a swarm of creatures has the power to overwhelm defenders. Apply the following rules:
 
@@ -2235,7 +2235,7 @@ Conciatta, cruel and hate-filled, mockingly congratulates the strangers for find
 
 Soon enough she tires of the intrusion and motions her army to attack.
 
-#### **Fighting the Infernal**
+#### Fighting the Infernal
 
 The fight here should be both challenging and deadly, so storyguides should use their discretion in terms of the number and organization of the infernal beasts. But they have a single aim: to kill the intruders.
 
@@ -2249,7 +2249,7 @@ Agitated by the scent of magic on the air, the scorpion swarms will attempt to o
 
 Conciatta herself knows the power of warding magic and watches for any circles hastily drawn and empowered. She uses her *Master of Stone* power to break any such circles and destroy the wards. She is not confident in her penetration against the Parma Magica.
 
-#### **Binding Conciatta**
+#### Binding Conciatta
 
 Conciatta will not willingly surrender and is prepared to fight to the death. Her high Might Score means that binding her through wards is a difficult prospect. There is no easy answer to capturing and binding Conciatta and troupes are encouraged to be creative. But there are some options:
 
@@ -2363,7 +2363,7 @@ See the Introduction for details on revealing the legend of Fortunata. A few det
 
 Note that some legends may be false; Fortunata has become a fable. As well as certain distortions, there are some blatant untruths that persist, some of which arose from jealousy and resentment at her success.
 
-#### **Known by All**
+#### Known by All
 
 - Fortunata was a spirit master and maga of House Jerbiton.
 - She was active in the Rome Tribunal, but left to live in a private retreat.
@@ -2377,7 +2377,7 @@ Mysteries.
 - Powerful Hermetic enemies forced her into exile.
 - She disappeared into Twilight around 1123.
 
-#### **Widely Known**
+#### Widely Known
 
 - She had no familiar, but was accompanied by a spirit companion.
 - She walked surrounded by a cloud of airy spirits which rushed to obey her every command.
@@ -2386,7 +2386,7 @@ Mysteries.
 
 • Her house in Venice offered a rich welcome for Redcaps. [Redcaps only.]
 
-#### **Uncommon knowledge**
+#### Uncommon knowledge
 
 - She disproved charges of infernalism and magical spying and walked free, but still chose to retire.
 - She owned and ran a house in Venice, which was used as a rendezvous by Redcaps for many years.
@@ -2426,7 +2426,7 @@ There was once another script, to Initiate the Mystery Virtue Hermetic Synthemat
 
 There are a number of points worth noting for the magus with no Mystery Cult to guide them through an ordained path of Initiation.
 
-### **How To Use A Script With No Cult**
+### How To Use A Script With No Cult
 
 It is normal to be introduced to the Mysteries through the organized teachings of a Mystagogue in a formal Cult. However, none of this is truly needed–it just makes things easier. A magus can Initiate himself as easily as he can Initiate another into a Virtue he, as Mystagogue, lacks.
 
@@ -2448,7 +2448,7 @@ Fortunata appears to have based her Principles Lore on some Roman and Greek Cult
 
 Note that some Cult elders may resent the introduction of new and "heretical" outside ideas — indeed some discourage study by Practice and insist that Cult Lore be studied from "proper" texts.
 
-#### **Adapting Scripts**
+#### Adapting Scripts
 
 Devising a new Initiation Script by Experimentation (see *The Mysteries: Revised Edition,* page 18) is difficult for the Mystagogue and hazardous for the Initiate, so a working Initiation Script is a treasure, but less so if written for some other Cult than that which the maga follows. Not all Cults mix well together; troupe approval is needed to judge whether a text is compatible.
 
@@ -2491,18 +2491,18 @@ nization Lore invented by her, solely for the purpose of organizing and catalogi
 
 Much as a Mystagogue may use Practice to expand his cult Lore, or to found a new Cult, Fortunata shows how to build a set of rules, rites and interpretations that fulfill the same role. The Self-Initiate uses his own Presence, and whichever Organization Lore he has found to be appropriate. Troupe approval is needed to adapt a pre-existing organization to take on Mysteries, and should not be given unless the organization had some sort of mystical style you should instead devise a new Ability that begins anew with a mystical bent.
 
-#### **The Need To Vary A Script To Increase The Bonus**
+#### The Need To Vary A Script To Increase The Bonus
 
 Scripts created by a "first generation" Mystagogue will often reflect the Presence and Ability scores of that magus, and a new maga seeking to follow in their footsteps may find the Script does not provide enough Initiation Points. In this case, the script may be extended. To add a further Quest (+3 Script Bonus) to an existing Initiation Script, the Mysta-
 
 
-#### **Keeping Track Of Ordeals & The Previous-Ordeal Bonus**
+#### Keeping Track Of Ordeals & The Previous-Ordeal Bonus
 
 Even if not following an ordained sequence of Initiations, it is important to record the Ordeals suffered by the Initiate. These not only provide a Script Bonus to the Initiation specifying the Ordeal, but also reduce the Initiation Total required for the next three Initiations, no matter what they are.
 
 This in turn reduces the needed Script Bonus, which makes experimental scripts and similar activities easier, so some scripts are designed to follow previous Ordeals. This is shown in Fortunata's use of two separate Scripts to obtain the Virtue Major Magical Focus, Initiating the Minor version as preparation.
 
-### **Multiple or Overlapping Scripts**
+### Multiple or Overlapping Scripts
 
 With the tendency for scripts to be varied, it is not uncommon to come across scripts with considerable overlap: some of Fortunata's own scripts have been modified by some successor to Initiate a different but similar Virtue. Such a script is often not usable by a self-Initiate, as they have already performed ("used") the Quests or suffered the Ordeals which form both scripts. In an established Mystery Cult, the Cult may already have some other script with different Quests and Ordeals, which the Initiate may use — but the self-Initiate may have no alternative available.
 
@@ -2542,7 +2542,7 @@ In Fortunata's script, the Initiate performs a Quest to find and rescue the prop
 
 The Virtue Spirit Familiar is described in detail in *The Mysteries: Revised Edition*, page 66. Finding and binding a spirit familiar is very similar to finding and binding an animal familiar–the Technique and Form of the enchantment should match the spirit's own magic, and usually match the magus's best Arts. An insubstantial spirit has no Size, so the bonding level ignores Size:
 
-#### **Spirit Familiar Bonding level: Spirit's Might + 25**
+#### Spirit Familiar Bonding level: Spirit's Might + 25
 
 The three cords are renamed, and have slightly different powers:
 
@@ -2609,7 +2609,7 @@ Spell binding allows access to a unique Ritual magic spell guideline, which allo
 
 The spirit must have something in common with the spell to be sustained, e.g. an elemental can sustain any spell of its element; and the spirit's Might must at least equal the sustained spell's level.
 
-#### **Sustain a Spell of (Form)**
+#### Sustain a Spell of (Form)
 
 ReVi Gen
 
@@ -2646,7 +2646,7 @@ The Virtue enables a magus to enchant Ritual effects into a device, linked to a 
 
 The magus must enchant a binding Effect into the device as well as one or more Ritual Effects to be powered by the binding.
 
-#### **Empowering Prison of the Declining Spirit**
+#### Empowering Prison of the Declining Spirit
 
 Re(Mu)Vi(Forms), Gen, Mystery enchantment
 
@@ -2792,7 +2792,7 @@ He has learned that Cupressa spawned a son, who he believes to be half-dragon, a
 
 According to the saga, it may be more appropriate to use an alternative version of Omaion. Legends tell contradictory tales, and a saga may choose another to be the true version:
 
-### **Omaion the Infernal**
+### Omaion the Infernal
 
 A demon taking the form of a jetskinned handsome man who resides in a fortified mansion at the heart of the old quarter in Algiers, surrounded by beautiful servants and apparently abundant wealth. Monocaudus's beast-
 
@@ -2802,7 +2802,7 @@ His own research into reproducing the ideas and magics of Viea keep him tied to 
 
 form is then the interaction of Infernal and Magical blood in fleshly form.
 
-#### **Omaion the Sorcerer**
+#### Omaion the Sorcerer
 
 This is one of the darker fae of Greece, who broods in dark forest glades. He has the head and tail of a dragon, the chest of a lion, the arms of a man and the nether parts of a goat, as though he were drawn from a mixture of old myths of Greek monsters. Any who imply such about his origin risk his immediate wrath.
 
@@ -2952,7 +2952,7 @@ The candles are reflected in the many mirrors that hang on the walls; rooms are 
 
 The high Magic aura (6) has warped many of the contents — the mirrors do not reflect truly, and shadows move of their own accord. The spiders are warped too, and many are alarmingly large — legs nearly a hand-span, and bodies larger than a man's thumb.
 
-#### **The Villa Inhabitants**
+#### The Villa Inhabitants
 
 The Imagines, spirits of Illusion that haunt the island, such as Error and Cantus (see this chapter, Cantus) often congregate in the villa, enjoying the aura and teasing the mirrors; strangers draw attention as play-things.
 
@@ -2994,25 +2994,25 @@ through the library, laboratory, and Fortunata's bedroom, and chastising Monocau
 
 Monocaudus lurks in the kitchen by the fire, or resentfully makes fires or token gestures of cleaning; he spends much of the day wandering outdoors on the pretext of gathering firewood or food.
 
-#### **The Villa Graveyard**
+#### The Villa Graveyard
 
 There is a small graveyard alongside the villa, where the remains of the dead are held in stone urns. Many of these are pagan burials from elsewhere, though, which have been re-interred here so that their ghosts may be conveniently summoned.
 
 Next to these there is a spring and a pool with cypress trees, and a false doorway into the north wall of the villa. This necromanteion is sheltered by an arch and an iron gate; on the inside are mosaics depicting Hades. The structure was once used in ceremonies to contact the dead.
 
-### **The Villa Rooms**
+### The Villa Rooms
 
 Most rooms stand open — entrance hall, kitchen, and stores, and the many store-, function- and bed-rooms, including Fortunata's own. A corridor snakes through the building, interrupted by some of the rooms; many rooms have connecting doors. External doorways and those of larger rooms are decorated with pillars molded with Hermetic motifs.
 
 The finest rooms, such as Fortunata's bedchamber and dining room, have mosaic floors and painted plaster walls, according to designs from classical Rome recounted by summoned ghosts. Sadly, many of these have been damaged by time and careless treatment.
 
-#### **Fortunata's Laboratory and Library**
+#### Fortunata's Laboratory and Library
 
 Her laboratory is hidden in the core of the building, surrounded by other rooms, with neither door nor window — magic is needed to enter. The layout of the other rooms is such that the hidden chamber is not obvious, though careful study or mapping will reveal the missing space. Monocaudus is no help, never having entered; only Lucida knows the secret.
 
 The laboratory also contains her library, and is surprisingly sparse — much of her work took place outdoors among spirits. If cleaned up, and perishable stocks replaced, it could be used as a standard laboratory.
 
-#### **Fortunata's Books**
+#### Fortunata's Books
 
 The library holds the full set of texts written by Fortunata on her Prin-
 
@@ -3040,7 +3040,7 @@ He is often chastised and browbeaten by Lucida, but to little effect. Lucida can
 
 **Personality Traits:** Monstrous +3, Resentful +3, Bitter +2
 
-#### **Combat:**
+#### Combat:
 
 *Dodge (Man):* Init: +2, Attack –, Defense +9, Damage –
 
@@ -3069,7 +3069,7 @@ He is often chastised and browbeaten by Lucida, but to little effect. Lucida can
 
 **Abilities:** Animal Ken 4 (serpents), Awareness 1 (alertness), Athletics 4 (run), Brawl 5 (fist), Carouse 3 (drunken stories), Chirurgy 3 (crude tools), Concentration 2 (when scolded), Greek 4 (curses), Guile 5 (elaborate lies), Intrigue 2 (malicious schemes), Island Lore 4 (history), Italian 2 (sailors), Latin 4 (orders), Magic Lore 1 (creatures), Mediterranean Lore 1 (nearby islands), Wilderness Sense 4 (islands)
 
-#### **Powers:**
+#### Powers:
 
 *Human Form*, 1 point, Init -2, Corpus: Monocaudus may (and is generally forced to) assume human form, which lasts for Sun duration or until he wills it to end. His human form loses the Serpent's Size +2 (and the Str +4, Qik –2 that brings), but has the Large Virtue (Size +1, but no characteristic modifier).
 
@@ -3088,7 +3088,7 @@ The curious consequence of his magically enforced human form is that attacks by 
 
 Monocaudus is bound more firmly than other spirits on the island. There is a tiny topaz, enchanted specifically to control him, and embedded in his chest, where it can renew its effect if ever suppressed temporarily. This was created to compel him forever, as a Quest for Initiation.
 
-#### **Monocaudus' Binding**
+#### Monocaudus' Binding
 
 ReMe 55 R: Touch, D: Sun, T: Ind Pen +32, constant use
 
@@ -3178,7 +3178,7 @@ And the following Mystery spells (requiring and enabled by specific Virtues):
 
 *Empowering Prison of the Declining Spirit*, Re(Mu)Vi(Form), Gen, enchantment, Mystery (Hermetic Empowerment). R: Per, D: Mom, T: Ind, Pen +0, 1 use per day. This enchantment binds a spirit into the device, draining its Might Score to power Ritual Magic effects in the device. The library has Lab Texts for *Empowering Prisons* for Terram, Ignem, Imaginem and Mentem, at levels 20, 34, and 50. (See this chapter, Initiation of Hermetic Empowerment) (Base effect)
 
-#### **Fortunata's Treasures**
+#### Fortunata's Treasures
 
 The laboratory hides the Spell Binding containers (see this chapter, Bound Spirits) which maintain the *Coerce Spirit* spells which command the guardians of the Island, including Tempestas, Lapidosus, and Fax. The commands given when the *Coerce Spirit* spells were cast mean that a possessor of the Spell Binding object can claim to be the lawful ruler of that spirit.
 
@@ -3192,7 +3192,7 @@ The following Guidelines appeared in *The Mysteries: Revised Edition*, page 28:
 
 **Level 15:** Summon a disembodied spirit of (Form).
 
-#### **Calling The Dead**
+#### Calling The Dead
 
 ReMe 60
 
@@ -3206,7 +3206,7 @@ Once summoned, the Staff maintains concentration on the summoning, until the gho
 
 (Base 15, +4 Arc, +1 Conc, +10 levels for penetration, +5 levels 24/day, +5 maintain concentration)
 
-#### **Maintain the Caster's Spell**
+#### Maintain the Caster's Spell
 
 ReVi 45
 
@@ -3499,12 +3499,12 @@ A scant few years after his death the Schism War commenced, and House Bjornaer r
 
 See the Introduction for details on revealing the legend of Hérisson. Bjornaer followers may remember more about Hérisson and receive a +1 bonus to their roll; members of Clan Arelie, who are the memory of their House (see *Houses of Hermes: Mystery Cults*, House Bjornaer) receive a +3 bonus instead.
 
-#### **Known by All**
+#### Known by All
 
 - Hérisson of Bjornaer was a magus in the ninth and tenth centuries
 - Hérisson built a magical Garden overflowing with vis, the location of which has never been found.
 
-#### **Widely Known**
+#### Widely Known
 
 - Hérisson was the founder (in name at least) of the Harmonist movement within House Bjornaer.
 - Hérisson's heartbeast was a hedgehog.
@@ -3514,12 +3514,12 @@ to grow practically unlimited amounts of vis, but he was never taken seriously i
 
 • Hérisson was killed in a Wizard's War by a member of his own house.
 
-#### **Uncommon Knowledge**
+#### Uncommon Knowledge
 
 - Hérisson was slain by Gypaetus of Bjornaer
 - Hérisson argued with his House and his Primus, and was accused of revealing House secrets to House Diedne.
 
-#### **Lost Secrets**
+#### Lost Secrets
 
 - Hérisson may have been a descendant of Myanar.
 - Some believe his spirit still lives in his garden.
@@ -3529,14 +3529,14 @@ desire to attempt to live in harmony with mundane populations rather than resent
 
 The legend of Hérisson's Garden has entered into the mythology of the Order; supposedly this is where the magus conducted his research into the production of vis. His most devoted followers have searched for the garden ever since his death, but it has never been found. Some claim he referred to the garden as a metaphor, a mental image invoking the primal peace of Eden. Others insist it is a real place, although they have yet to prove such an assertion.
 
-#### **A Descendant of Myanar?**
+#### A Descendant of Myanar?
 
 Some of the stories around Hérisson suggest that he possessed Mystery Virtues typical of those found in House Merinita, specifically the Nature Mysteries. Certainly, those magi who find his garden will encounter sentient plants, such as those created by the Awakening Nature Mystery Virtue (*Houses of Hermes: Mystery Cults*, page 104). It may be that Hérisson was descended from one of the followers of Myanar who fled House Merinita for House Bjornaer when Quendalon became Primus. Magi who discover this, and are aware of the Nature Mysteries, might wonder whether he actually escaped death entirely through the Guardian of Nature Mystery, whereby a magus transforms himself into a *genius loci*. His death at the hands of Gypaetus could have been a carefully constructed deceit to absent the magus from the Order and allow him to dwell in peace. If this hypothesis
 
 
 is true, then he may haunt the location of his garden as its guardian spirit. Furthermore, if Hérisson was a member of an esoteric Mystery Cult within House Bjornaer, then his descendants may well continue that tradition in secret.
 
-#### **The Sept of Hérisson**
+#### The Sept of Hérisson
 
 Hérisson's Hermetic descendants of Clan Arelie still name their sept after their notable founder, despite having a more recent common ancestor. The eldest member and Mystagogue of the sept is Tasso Agricola, a master of Terram magic. His filia Erica is a prominent figure in Hermetic politics, preaching the necessity of co-existence with mundanes and the church. The other members of the sept are equally committed to the Harmonist stance.
 
@@ -3553,7 +3553,7 @@ Vis is normally a static thing, such as that found in the corpses of magical cre
 
 The foundation of any vis-growing enterprise using Hermetic Viresculture is the Stirps. This is the first individual that both contains usable vis and is capable of reproduction, and is the founder of a given cultivar. The Stirps is usually a living being, but Hérisson successfully created a Stirps from a tiny fire elemental, since fire is an element that naturally spreads. The Story portion of this chapter culminates in the characters discovering several Stirpes created by Hérisson, but anyone who develops a score in Hermetic Viresculture can make her own.
 
-### **Vitalizing Vis**
+### Vitalizing Vis
 
 Creating a Stirps is a laboratory activity called Vitalization, which is akin to creating an invested device. Essential to the enterprise is the raw material, which must have a Magic Might of 0 or more, and have the inherent capacity for self-replication. Dead animals or parts of plants cannot form the basis of a cultivar. The offspring produced by these 'raw materials' need not themselves be magical: the youngsters born to an Animal of Virtue are often not Animals of Virtue themselves, and most seeds of magical plants grow up into normal plants of their kind.
 
@@ -3575,7 +3575,7 @@ towards the successful completion of the Stirps equal to the amount by which his
 
 A Vitalized Stirps has the potential to reliably produce offspring that contain vis, but must first be Invigorated (see later). Before it is Invigorated, the offspring of a Stirps are no different from how they would be if the parent had not been Vitalized. Many things with a Magic Might are immortal, but if a Stirps is not, before it dies of old age, an uninvigorated Stirps will produce one offspring that is also an uninvigorated Stirps. Vitalization has another immediate consequence; the vis that is normally available in the being's body once it is dead can be transferred (**ArM5**, page 94) into another receptacle without harm, although it ceases to be a Stirps. For example, a magus could Vitalize a Raven of Virtue (*Realms of Power: Magic*, page 62); and at the cost of a pawn of Vim vis, could extract the two pawns of Intellego it contains without harm. If the Raven was killed later, its corpse would contain no vis.
 
-### **Stirpes from Lesser Enchantment Vis**
+### Stirpes from Lesser Enchantment Vis
 
 Hérisson's second breakthrough was to integrate inherently magical types of
 
@@ -3593,7 +3593,7 @@ vis into his virescultural theory. Lesser Enchantment Vis (see Insert) that is f
 
 Hermetic Viresculture is currently incapable of creating Lesser Enchantment Vis, it is only capable of allowing it to self-propagate; thus it is necessary for a magus to first find an example of this rare type of vis. Hérisson was working on a breakthrough to create Lesser Enchantment Vis when he died, and had assembled a large collection of Spell-Like Vis and Enriched Things of Virtue (see *Realms of Power: Magic*, page 124) as part of his research.
 
-#### **Invigorating a Stirps**
+#### Invigorating a Stirps
 
 Before the Stirps can be used to grow vis, it must be Invigorated. This infuses it with the ability to produce many copies of itself. Invigoration requires a single season of laboratory work, during which time the magus generates an Invigoration Total. The Form used in the Invigoration Total must match that of the Might of the Stirps, or the Form of the Lesser Enchantment, but bears a Vim requisite. For every ten points (or fraction) of the Invigoration Total, the Stirps has one breeding season that will yield vis. Each litter or crop produced from a Stirps contains a number of pawns of vis equal to one fifth (or fraction) of its Magic Might or Level of Effect (for Lesser Enchantment vis). This vis is of the same Form as that within its parent.
 
@@ -3619,7 +3619,7 @@ Magic can be used to cause the animal or plant to reproduce out of season; howev
 
 Once a magus has an Invigorated Stirps, he can harvest pawns of vis from it every time it breeds; the fruit of an Invigorated Stirps every breeding season is a mixture of normal vis and Stirpes. All Stirpes born to a Stirps are naturally Vitalized but uninvigorated. If the parent was Lesser Enchantment Vis, then so are any Stirps offspring. A pawn of Stirps vis can be distinguished from normal vis through an Intellego Vim spell that is powerful enough to determine the Art of a pawn of vis; Stirpes appear as particularly intense examples of their kind.
 
-#### **Caring for Vis**
+#### Caring for Vis
 
 The Invigorated Stirps must be cared for like a normal example of its kind until it reaches its usual reproductive season. It is essential that the Invigorated Stirps is kept in a magical Aura: either rooted in one (if a plant) or housed in one (if an animal). An Invigorated animal develops a mighty appetite even if it is normally immune to hunger, and that food must be produced in a magical Aura as well. Furthermore, an animal Stirps requires a mate of the same species that has been reared on the same food, although the mate can be a wholly mundane animal otherwise.
 
@@ -3669,13 +3669,13 @@ Harvesting vis from a magical aura can potentially reduce the strength of that a
 
 Cultivating one's own vis is a source of stories in its own right.
 
-#### **A Dangerous Tithe**
+#### A Dangerous Tithe
 
 The church is entitled to a tenth of whatever God gives increase, in order to support the clergy and perform charitable works, and in theory this includes vis. If the local priest becomes aware that the covenant is engaged in agricultural pursuits — and why wouldn't he, since it is so labor-intensive? — he will demand his due. The priest employs a reeve to ensure that the characters do not try to cheat him by skimming off the choicest grains first — after all, they are known to be unworthy of trust. This puts the PCs in an awkward position: not only are they
 
 being asked to give up their vis; that vis itself has magical properties that they may not want anyone (let alone the church) to get their hands upon.
 
-#### **Like Nothing I've Ever Tasted**
+#### Like Nothing I've Ever Tasted
 
 A peasant steals food from a field cultivating Lesser Enchantment Vis, or poaches livestock containing the same. Upon consuming the food, the culprit benefits (perhaps permanently) from whatever effect the vis produced, at the cost of suffering Warping from the continued mystical effect. The PCs need to track down the thief, before he tells others of the remarkable food and they all come looking to eat the valuable Stirpes.
 
@@ -3702,7 +3702,7 @@ The adventure presented here has the following structure:
 
 Prior to beginning the search for Hérisson's garden and the secret of Hermetic Viresculture, the storyguide should set the scene by having the characters come across a few magical plants, in the form of occasional pawns of vis (perhaps Spell-Like Vis or Lesser Enchantment Vis). Some of these might be incidental to stories, others might be the focus of them; some example stories are given in this section. All these stories should occur within the same region, as they are all escapees from Hérisson's research before he established his garden. These stories should be mixed in with other stories completely unrelated to magical plant life; but when the characters first hear of Hérisson's research, they should be able to think back and realize that they have been encountering clues all along. Hérisson's sigil was spines and thorns, and vis that is a product of his magic should bear such features; he was fond of working with brambles, thistles, teasels, and the like, and his magical versions of these plants are even more spiky than normal.
 
-#### **A Wreath of Pale Flowers**
+#### A Wreath of Pale Flowers
 
 The daughter of an important noble has fallen ill, and the best physicians in the area have failed to even diagnose the
 
@@ -3711,7 +3711,7 @@ illness. The player characters may hear of the girl's plight and be moved to hel
 
 A further twist is that the girl's father is the cause of his daughter's illness; he planted the rose himself in a local town a few years ago to rid himself of some troublesome opponents by causing a 'plague'. Once the plant had done its job he had it felled; but was unaware that one seed had managed to make its way into his daughter's garden. So far, no-one has linked the mysterious plague to the Basilisk Rose. The character's must contend with the noble's back-fired attempt to poison his enemies; plus there is the issue of the mysterious stranger who gave him the plant in the first place. Was it a demon wanting to tempt the noble to murder? Was it a magus, who had his own rivalry with the townsfolk? Or was it a faerie intending to gain vitality from being the girl's gallant rescuer?
 
-#### **A Gruit Local Custom**
+#### A Gruit Local Custom
 
 Every year there is a contest between two households in a local village for the maker of the best beer. This village should be one that the character's covenant has regular commerce with, perhaps as a source of income. The Marianne Sisters brew a delicately-flavored ale best loved by the womenfolk. Lorris Taverner makes a heavy beer with acorns and bog-myrtle that is the favorite of the men. The two drinks are famed throughout the region, but the rivalry between the two brewers raises strong passions. Both keep their recipes a secret, which will intrigue the characters when they realize that both beers have a faint taint of magic. The elder of the Marianne sisters has the Touched by Magic Virtue (*City & Guild*, page 71) and uses hyssop grown in a Magic aura as gruit (herbs used to give ale flavor). Lorris has no innate magical ability, but he has a magical oak tree — one of Hérisson's creations. The acorns that flavor his beer contain at least one pawn of Imaginem vis (more in a good year), and can be distinguished from the others by the spines on the acorn's cup.
 
@@ -3741,7 +3741,7 @@ Tasso is dedicated to farming magics and practices which will increase crop yiel
 
 tigation — Hérisson's Hermetic descendants, and those of his slayer.
 
-#### **Hérisson's Descendants**
+#### Hérisson's Descendants
 
 Tasso Agricola is the eldest member of the Sept of Hérisson, and is three generations removed from his ancestor. Tasso is a friendly magus who is often found working in the fields around his covenant. He'll be happy to discuss his illustrious ancestor, and recount the rest of his legend as well as his legacy to House Bjornaer in the form of the Harmonist movement. He is aware of Hérisson's research, and has a few volumes of
 
@@ -3779,7 +3779,7 @@ Mundane **Qualities:** Accomplished Flyer, Aggressive, Ambush Predator, Large Cl
 
 **Abilities:** Awareness 4 (prey), Athletics 5 (flying), Brawl 5 (claws), Hunt 4 (prey), Stealth 5+2 (from sky), Survival 3 (mountains)
 
-#### **Powers:**
+#### Powers:
 
 *Winter's Queen*, 1–6 points, Init –Might cost, variable form: Variña can duplicate any spell involving snow, ice, or cold with a level less than or equal to 30. this costs her 1 Might point per magnitude of the spell. Focus Power (5 mastery points to increase maximum level)
 
@@ -3794,7 +3794,7 @@ his laboratory texts, although they are non-sequential and encoded. Tasso himsel
 
 Richard Strabo (see later) has cultured Tasso as a friend with gifts of agricultural spells and enchantments, and the guileless Tasso has never questioned his friendship. It will not be long before Richard discovers the character's interest in Hérisson.
 
-#### **Variña's Tomb**
+#### Variña's Tomb
 
 Research will reveal that Gypaetus died in 1035, leaving just one filia, Variña. She built a sanctum high in the Pyrenees (or another suitable mountain range), a lone tower perched precariously on a mountainside. Variña trained no apprentice herself, and Gypaetus's line was extirpated when she entered Final Twilight. If the characters can discover the location of Variña's tower they might decide to investigate it to see if it contains any of Hérisson's notes. Locating Variña's tower could be a story in its own right, or it else the Redcaps could simply have records of it. The tower itself is placed in a complex series of regiones, cunningly built to exploit the layers of reality and place each story of the tower in a different regio layer. The tower is haunted by Variña herself, now a Snowy Owl of Virtue of substantial power, who has nested on the tower roof.
 
@@ -3806,7 +3806,7 @@ rior wall exactly. The tower is deserted, containing only trash. The second laye
 
 Unfortunately, the Great Beast that was once Variña has used parchment from the tower to line her nest, and many of Variña's texts have been destroyed. The remaining library can be as sparse or rich as the storyguide desires, but should be concentrated in the Art of Auram. That which can be rescued from the nest must be sorted and restored, but what remains of Hérisson's notes contain no information that can benefit research into Viresculture. However, the notes do refer to Hérisson's sanctum; a fabulous garden that he compares to Paradise. According to the diary entries, the garden is to serve as his new laboratory once he has arranged for the transport of all his laboratory equipment.
 
-#### **The Garden's Location**
+#### The Garden's Location
 
 The notes found in Variña's tower are quite explicit about the location of
 
@@ -3919,7 +3919,7 @@ By the time the characters have returned from Variña's tower, he has identified
 
 A possible tactic of Richard's is to assail the covenant by a veritable invasion of swiftly-growing ivy while the magus himself takes the form of a single strand that goes questing through the possessions of the magi to uncover the location of Hérisson's garden. Depending on how successful the characters are at foiling his plans, Richard might have to set up several schemes to try to find out what he needs. At the very least he can follow them when they leave, and once he realizes where they are heading (he is aware of the covenant of Caerfloron and its magi) he will rush on ahead to reach there first.
 
-#### **Caerfloron**
+#### Caerfloron
 
 Caerfloron is the covenant closest to the site of Hérisson's Garden, and this is no coincidence. The covenant was founded by Caerfloron magus Ex Miscellanea, who still lives there with his four filii: Radix, Surculus, Folium, and Fructus. All five magi share a common passion for the Art of Herbam. The covenant of Caerfloron is a *hortus conclusus* (a walled garden) with each of the magi occupying a separate hut joined to the high walls. They have kept themselves isolated from the Order and its politics, preferring to simply live under its protection and use their right to secrecy to its fullest. They live in a Magic Aura of 3, and have a weak *Aegis of the Hearth* of level 20.
 
@@ -4056,7 +4056,7 @@ Don't forget that within the garden, the Penetration and Magic Resistance of the
 
 rather than antagonists, but the storyguide can make them more of a challenge by making them Summer characters (providing 240 more experience points) and/or increasing their Magic Might by 5 to 10 points, with a similar increase in Magical Qualities.
 
-#### **The Battle of the Trees**
+#### The Battle of the Trees
 
 It is not possible to explore Hérisson's Garden properly without first settling the conflict between the three tribes of magical plants. The plants essential for recreating his research — both as sources of Insight and Laboratory Texts (see later) — belong to all three tribes, and the characters need help from all three leaders. The arrival of the characters in the garden stirs the Curtilagium and Hortulus into direct conflict, with the Curtilagium resenting the presence of predatory humans in the garden, and the Hortulus keen to make friends with them. Both sides covertly observe the characters for a while, looking for evidence of their intentions. This observation will probably go unnoticed, although characters with Magic Sensitivity may spot the presence of creatures with a Magic Might among the general magic of the garden as a whole. Be careful not to present the tribes merely as monsters to be killed, although some of them may take that role. They may initially prove a nuisance, but magi can probably deal with them easily. Settling the internecine battle between the tribes is essential for the characters to exploit the Garden's secrets and the leaders of the tribe are each guard the knowledge of where to find a third of its lore. Finding the Mistletoe of Herbam Vis (see later) early helps the character get a feel for the plants and the tension between the tribes.
 
@@ -4088,7 +4088,7 @@ Magic **Qualities and Inferiorities:**  Greater Power (*Creeping Chasm*), Greate
 
 **Abilities:** Brawl 4 (branch), Intrigue 1 (woodland politics), Leadership 2 (trees), Mastery of Rally the Wooden Troops 4 (fruit trees)
 
-#### **Powers:**
+#### Powers:
 
 *Rally the Wooden Troops*, 2 points, Init –5, Herbam: Animates trees and plants in the immediate vicinity allowing them to walk. In the peculiar aura of Hérisson's garden, they are also granted a Cunning score of 0. Up to 10 Groups of Herbam can be affected, which is equal to 10,000 herbs (Size –6), 100 bushes (Size 0), 10 small trees (Size +3), or one 25' tall tree (Size +6). This power can be triggered multiple times in a single round, equal to the plant's Mastery Ability. The Might cost must be paid each time. Malus can only affect the Curtilagium plants with this power. ReHe 35 (Base 5, +1 Touch, +2 Sun, +2 Group, +1 Size): Greater Power (35 levels, –2 Might cost, Multicast mastery power)
 
@@ -4121,13 +4121,13 @@ Plant-life suffers the same warping effects as do people (**ArM5**, page 197) an
 
 who possess certain Mystery Virtues. This is to represent the fact that these are the products of successful discoveries, and therefore stretch the parameters of standard Hermetic magic.
 
-#### **Magical Enchantments**
+#### Magical Enchantments
 
 Hérisson turned numerous living plants into magical items once he discovered the trick of preparing a living plant for the enchantment process. He discovered that this process stopped the plant from aging, and all his early examples were sterile also, until he stabilized the discovery that was the cornerstone of his research — the Traveling Thistle (see later).
 
 All these plants have spikes or thorns, a product of Hérisson's sigil.
 
-#### **Bloodthorn**
+#### Bloodthorn
 
 Creo Corpus 15 Pen 0, charged item R: Touch, D: Moon, T: Ind
 
@@ -4135,7 +4135,7 @@ Each sloe (that is, fruit) of this blackthorn bush provides a +6 to Wound Recove
 
 (Base 3, +1 Touch, +3 Moon)
 
-#### **Fruitful Medlar**
+#### Fruitful Medlar
 
 Creo Herbam 9
 
@@ -4147,7 +4147,7 @@ kind, in the proper season. It was created as a Lesser Enchantment.
 
 (Base 1, +2 Sun, +1 Part, +1 size; +1 2/day, +3 environmental trigger)
 
-#### **False Mandrake**
+#### False Mandrake
 
 This Invested Item is a white bryony plant that was Prepared for Enchantment with 4 pawns of vis (a small wooden object), and invested with this effect:
 
@@ -4161,7 +4161,7 @@ Anyone touching the False Mandrake causes it to issue an ear-splitting scream th
 
 (Base 5, +2 Voice, +2 Group; +2 3/day)
 
-#### **Traveling Thistle**
+#### Traveling Thistle
 
 Creo Vim 14
 
@@ -4174,7 +4174,7 @@ This thistle has a faint taint of magic, and the plants that grow from its seed
 
 (Base 3, +2 Sun, +1 to allow property to be inherited; +1 2/day, +3 environmental trigger)
 
-#### **Creeping Buttercup**
+#### Creeping Buttercup
 
 Rego Vim 20
 
@@ -4186,11 +4186,11 @@ A yellow-flowered plant that grows close to the ground. This plant contains a si
 
 (Base 10, +1 Part, +1 special effect)
 
-#### **Everlasting Orpine**
+#### Everlasting Orpine
 
 This tall plant — an orpine, or 'livelong' — has a red stem and a crown of pinkish-red flowers, and has been Prepared for Enchantment with 6 pawns of Vim vis (a Medium wooden object). It is still living, but since it was infused with vis it stopped growing and became sterile. This plant offers an Insight worth 2 Breakthrough points (see later).
 
-#### **Ever-Flowering Bramble**
+#### Ever-Flowering Bramble
 
 Creo Herbam 33
 
@@ -4204,7 +4204,7 @@ This blackberry seed grows into a plant, flowers, produces fruit, sets seed and 
 
 
 
-#### **Hazel of Many Tools**
+#### Hazel of Many Tools
 
 Rego Herbam 5 Pen 0, charged item R: Per, D: Mom, T: Ind
 
@@ -4212,7 +4212,7 @@ The straight branches growing from this hazel stump are suggestive of all sorts 
 
 (Base 5 — see Covenants, page 51)
 
-### **Stirpes**
+### Stirpes
 
 Numerous examples of Hérisson's successes in Hermetic Viresculture grow in his garden. All are Stirpes with an exhausted invigoration, meaning that they only produce a single magical offspring each generation, and it too is a Stirps.
 
@@ -4236,11 +4236,11 @@ violet flowers contains a pawn of Creo vis.
 
 **Silverweed:** This creeping buttercup-like plant has leaves made of real silver, which contain a pawn of Terram vis.
 
-### **Lesser Enchantment Vis**
+### Lesser Enchantment Vis
 
 All these types of Lesser Enchantment Vis were made into Stirpes by Hérisson's Hermetic Viresculture. However, they have exhausted their invigoration, and now only produce a single Stirpes each generation. Characters must duplicate Hérisson's Minor Breakthrough before they can be Invigorated again.
 
-#### **Daisy of Intellego Vis**
+#### Daisy of Intellego Vis
 
 Intellego Herbam 40 Pen 16, 3/day R: Touch, D: Conc, T: Ind
 
@@ -4248,7 +4248,7 @@ Anyone touching a plant with this large white and yellow flower can converse wit
 
 (Base 15, +1 Touch, +1 Conc; +5 maintains concentration, +2 3/day, +8 Penetration 16)
 
-#### **Mistletoe Sprig of Herbam Vis**
+#### Mistletoe Sprig of Herbam Vis
 
 See *Realms of Power: Magic*, page 121. Stinking Hellebore of Rego Vis Rego Corpus 25
 
@@ -4258,7 +4258,7 @@ Anyone who touches the fleshy green flowers of this stinking hellebore is paraly
 
 (Base 5,+1 Touch, +1 Diam; +10 unlimited uses)
 
-#### **Honeysuckle of Mentem Vis**
+#### Honeysuckle of Mentem Vis
 
 Rego Mentem 24 Pen 0, constant effect
 
@@ -4267,7 +4267,7 @@ A vine covered in hooked yellow flowers with a strong scent. This plant's fragra
 
 (Base 4, +2 Sun, +2 Scent; +1 2/day, +3 environmental trigger)
 
-#### **Fennel of Herbam Vis**
+#### Fennel of Herbam Vis
 
 Rego (Creo) Ignem (Herbam) 24 Pen 0, constant effect R: Per, D: Sun, T: Ind
 
@@ -4275,11 +4275,11 @@ A tall spike rising from a fleshy bulb, bearing a cloud of tiny yellow flowers. 
 
 (Base 4, +2 Sun, +2 requisites; +1 2/ day, +3 environmental trigger)
 
-#### **Enriched Herbs of Virtue**
+#### Enriched Herbs of Virtue
 
 See *Realms of Power: Magic*, page 124 for more details on Enriching Objects of Virtue. Hérisson preserved each plant prior to Enrichment, and they do not begin to expire until used. Three examples of these herbs are given below.
 
-#### **Henbane of Virtue**
+#### Henbane of Virtue
 
 A tall herb with sticky hairy leaves and a fetid odor, Henbane is extremely poisonous, and contains a pawn of Perdo vis. It is Enriched by taking a single seed capsule and seeping it in the venom of a scorpion and the crushed skulls of three owls, exposing the mixture to the night sky whenever Saturn is in ascendance. After a season, the seedpod must be swallowed. This grants the Lesser Immunity to Poison Virtue, but also strikes a random sense organ or limb completely numb, inflicting one of the following Flaws (roll a simple die): (1–2)
 
@@ -4289,15 +4289,15 @@ The Wild Teasel and the Valerian are enemies. They grow in profusion on opposite
 
 Afflicted Tongue; (3–4) Poor Eyesight; (5–6) Poor Hearing; (7–8) Missing Hand; (9–10) Lame. The effects of the Virtue and Flaw wear off after a year. Three Enriched capsules can be found nestled next to the stem of a Henbane of Virtue.
 
-#### **Wild Teasel of Virtue**
+#### Wild Teasel of Virtue
 
 The wild teasel has a tall stem with a distinctive burr the size of an egg. The sticky juice of this plant contains two pawns of Corpus vis, but if it is instead fed to a pregnant dog, and the milk-teeth of her litter are ground up and added to wine, the drinker becomes especially war-like; gaining the Puissant Brawl, Tough, and Berserk Virtues, but also the Minor Personality Flaw of Wrathful. These Virtues and Flaw last for one year, or until the affected character tastes the juice of the valerian plant.
 
-### **Valerian of Virtue**
+### Valerian of Virtue
 
 A low-growing herb with paired lance-head shaped leaves and clusters of pale pink flowers on a stem. The greenish juice extracted from the root is a powerful medicine, and in the Valerian of Virtue the root has two pawns of Creo vis. The root can be Enriched by being sliced with a silver knife on a night when Venus is in the sky, bathed in horse urine every Friday, then ground between two pieces of amber. Enriched Valerian Juice grants Rapid Convalescence, Enduring Constitution, and Reserves of Strength Virtues, but also the Code of Honor Flaw. These Virtues and Flaw last for one year, or until the affected character tastes the milk of the teasel.
 
-#### **Magical Plants**
+#### Magical Plants
 
 There are a number of magical plants in the garden that do not fall into one of the above categories. Some of these, such as the chiefs of the three tribes, and Dodder (see nearby insert), are animate plants with Intelligence and a Might
 
@@ -4357,7 +4357,7 @@ found in the garden, which let off a pungent aroma and are prone to spontaneous 
 
 These are just a few suggestions for ways to use Hérisson's Garden in your own saga.
 
-#### **The Garden as a Source of Breakthrough**
+#### The Garden as a Source of Breakthrough
 
 The garden's principal use is as the raw source material to recreate Hérisson's research into Hermetic Viresculture. Hérisson had taken the route of Original Research (*Houses of Hermes: True Lineages*, page 26) to develop both a Major Breakthrough and a Minor Breakthrough in Hermetic magic. These required 45 and 30 Breakthrough points respectively, which were gained through experimentation when inventing spells and enchantments. However, a magus (or group of magi) recreating his work need not pursue Original Research himself, since Hérisson's inventions still exist in his garden. Instead, these inventions may be studied as a source of Insight (*Ancient Magic*, page 8, or *Hedge Magic*, page 14) and then used to recreate the enchantment, earning Breakthrough points equal to the magnitude of the effect created.
 
@@ -4388,7 +4388,7 @@ Containing as it does over fifty superlative and/or unique plant species, the ga
 
 A magus who has recreated Hérisson's research can use the examples of Stirpes found within as realia of Hermetic Viresculture, with a Quality of 4, and can study them four times in total.
 
-#### **The Garden as an Hermetic Laboratory**
+#### The Garden as an Hermetic Laboratory
 
 Hérisson's Garden is a fully-functioning Hermetic laboratory, albeit an unusual one. Unsurprisingly, the laboratory is highly specialized in the Art of Herbam, and gets an additional bonus to this Art due to the Herbam-aligned Magic aura of 6. To use the laboratory it must be adapted to the character's own style of working (see Taking Over a Laboratory, *Covenants*, page 118). Hérisson did not provide any living quarters or furniture for himself, preferring to live in his laboratory in heartbeast
 
@@ -4487,20 +4487,20 @@ At the conclusion of the Schism War, House Tremere hoped to trans-
 
 ### What the Order Remembers of Hermanus
 
-### **Known by All**
+### Known by All
 
 - Hermanus' Final Twilight removed an entire portion of the covenant of Coeris.
 - Hermanus was a Schism War veteran who oversaw the creation of defenses to protect the resources of House Tremere.
 - Hermanus is famous for his ability to marshal such a great proportion of the resources of House Tremere to support this goal for decades.
 - Hermanus discovered evidence of a group of Diedne sympathizers within House Tremere, This cabal was responsible for his demise and the disappearance of his laboratory.\*
 
-#### **Widely Known**
+#### Widely Known
 
 • At the end of his life Hermanus enchanted his laboratory with the ability to move, thereby allowing him to explore the world without leaving the safety of his heavilywarded laboratory, and then he left Coeris and House Tremere behind forever.\*
 
 • Hermanus continued his efforts to bolster the defenses of Coeris for an additional twenty-eight years after the vexillation of the Adamant Rook was disbanded. During this time he clashed more and more often with the primus and other senior magi of the House. He endeavored to become primus in order to further his goals regarding the defense of Coeris.
 
-#### **Uncommon Knowledge**
+#### Uncommon Knowledge
 
 - A vexillation was formed by the Tremere to search for Hermanus and his laboratory. After four years this vexillation concluded that neither could be located by any method known to the Tremere.
 - Hermanus became a great expert in Intellego by the end of his life, but the primary reason that he was selected to lead the push to protect the House's treasures was because of his leadership ability. Most of the greatest creations of the Adamant Rook Vexillation were created by groups of magi working together.
@@ -4508,7 +4508,7 @@ At the conclusion of the Schism War, House Tremere hoped to trans-
 - As Hermanus aged he became more and more cautious and fearful. He saw ways for House Tremere to be attacked in every event and action. At the end of his life Hermanus took to sending out an enchanted human-sized doll to search for vis without exposing himself to the dangers that he felt lurked outside of his well-defended laboratory.
 - Hermanus met his end trying to acquire vis from a town in the Provençal Tribunal that had been besieged by giant bats. All written records of this town aside have been destroyed by someone or something that wants to keep it secret.\*
 
-### **Lost Secrets**
+### Lost Secrets
 
 - Amarantha of Tremere was one of the magi who searched for evidence of Hermanus after his passing. She continued her investigation after the vexillation had submitted its conclusions and dissolved. Amarantha disappeared in 1110 and no trace of her was ever found.
 - \* False information
@@ -4703,7 +4703,7 @@ Dead (21+)
 
 **Abilities:** Athletics 2 (climbing), Carouse 2 (drinking songs), Dead Language (ancient Greek or Egyptian) 5 (nautical terms), Leadership 3 (sailors), Profession Fisherman 4 (net repair), Profession Sailor 3 (warships), Single Weapon 3 (short sword), Thrown Weapon 3 (javelin)
 
-#### **Powers:**
+#### Powers:
 
 *Eidolon*, 0 points, Init –1, Imaginem: The spirit creates an illusory image of its former self. This image moves and speaks as directed by the spirit. The spirit does not have the awareness to refrain from creating this form. Rather the form is created anew every morning and exists until the spirit meets a temporary demise in battle with the other ghosts or until it is recreated the following morning. (See *Realms of Power: Magic* page 102 for more information.)
 
@@ -4773,7 +4773,7 @@ When the magic holding the mast and mannequin is broken, all of the water within
 
 if they take no steps to counter the rush of water. If the player characters are not submerged — such as characters protected by the ring of aquatic freedom, described later — the storyguide is encouraged to have the laboratory structure materialize in a way that will not crush the characters. The stirred-up sediment in the water blocks all vision for a few minutes until it settles. When the water clears the characters see the laboratory structure that has been in the Twilight Void since 1098.
 
-#### **A Less Conspicuously Convenient Return**
+#### A Less Conspicuously Convenient Return
 
 As presented, once the player characters find the mannequin, the laboratory structure will, more or less directly, fall into their laps.
 
@@ -4795,19 +4795,19 @@ be able to make a deal to procure or borrow them for an appropriate price.
 
 (Base 20, +2 Sun, +1 size alteration, requisite free)
 
-#### **Cloak of Fins and Scales**
+#### Cloak of Fins and Scales
 
 MuCo(An) 35 R: Touch, D: Sun, T: Ind
 
 The caster hangs a small cape of fish scales on the back of the target and the target transforms into a naturally occurring fish of the same approximate size as the original target. The target may choose to change back to human form at any time, but doing so ends the spell. Fish and other naturally aquatic creatures do not suffer any penalties due to pressure.
 
-#### **Form of the Aquatic Predator**
+#### Form of the Aquatic Predator
 
 MuCo(An) 35 R: Per, D: Sun, T: Ind
 
 The caster hangs a small cape of Shark scales on his back and transforms into a large shark of size +2 as described in the accompanying sidebar. The caster may choose to change back to human form at any time but doing so ends the spell. Fish and other naturally aquatic creatures do not suffer any penalties due to pressure.
 
-#### **Shape of the Siren**
+#### Shape of the Siren
 
 MuCo(An) 40 R: Per, D: Sun, T: Part
 
@@ -4817,7 +4817,7 @@ The caster's body from the hips down is transformed into the tail of a large fis
 
 The included spells offer the possibility of transforming characters into fish. The mechanical descriptions of a human-sized fish and a large shark are provided for use with these spells.
 
-#### **A Large Fish**
+#### A Large Fish
 
 **Characteristics:** Cun –3, Per –2, Pre –5, Com –6, Str 0, Sta +4, Dex 0, Qik –2
 
@@ -4853,7 +4853,7 @@ The included spells offer the possibility of transforming characters into fish. 
 
 If a group of large fish is attacked, the members of the group receive the Ferocity Virtue. The Ferocity Virtue grants the large fish a Confidence Score of 1 and 3 Confidence Points to spend. Large fish attacked while alone do not gain this benefit.
 
-### **A Large Shark**
+### A Large Shark
 
 **Characteristics:** Cun –3, Per –2, Pre –5, Com –6, Str +4, Sta +4, Dex +1, Qik –3
 
@@ -4890,7 +4890,7 @@ While in this form, the caster can move at full speed underwater and does not su
 
 (Base 20, +2 Sun, +1 Part, +1 complexity, requisite free)
 
-#### **Breeze from Within**
+#### Breeze from Within
 
 CrAu 20
 
@@ -4900,7 +4900,7 @@ A very minor breeze is generated in the nose of the target, allowing him access 
 
 (Base 1, +1 Touch, +2 Sun, +4 magnitudes, wholly divorced from natural context)
 
-#### **Eyes of the Fish**
+#### Eyes of the Fish
 
 MuCo 5
 
@@ -4910,11 +4910,11 @@ The target gains the eyes of a fish, which allow him or her to see clearly while
 
 (Base 2, +1 Touch, +2 Sun, requisite free)
 
-### **Ring of Aquatic Freedom**
+### Ring of Aquatic Freedom
 
 The Ring of Aquatic Freedom is a lesser enchanted device with the following power instilled in it:
 
-#### **Beyond Reach of the Sea**
+#### Beyond Reach of the Sea
 
 ReAq 34
 
@@ -4982,7 +4982,7 @@ Hermanus and the Adamant Rook argued among themselves about the wisdom of using 
 
 *Ward Against Water Circular Ward Against Demons* (level 40 cast with 37 Penetration) *Circular Ward Against Faerie Spirits* (level 40 cast with 35 Penetration)
 
-#### **Ward Against Water**
+#### Ward Against Water
 
 ReAq 20 R: Touch, D: Ring, T: Circle
 
@@ -4990,11 +4990,11 @@ No water may enter or leave the protected circle. Characters who are wearing wet
 
 (Base 5, +1 Touch, +2 Ring)
 
-#### **Circular Ward Against Demons**
+#### Circular Ward Against Demons
 
 See **ArM5** page 162 or the similar spell Circular Ward Against Faerie Spirits, later.
 
-#### **Circular Ward Against Faerie Spirits**
+#### Circular Ward Against Faerie Spirits
 
 ReVi Gen
 
@@ -5006,15 +5006,15 @@ All creatures with Faerie Might equal to or less than the level of the spell are
 
 The door on the north side of the hallway is just less than two paces tall, leaving room for the rings that are inscribed above it to be reached by a person of normal height. Providing that the structure has not been moved, this door leads out to the sea floor. If this door is opened characters see that water forms a wall and does not pass into the room from the exterior. A similarly-sized door lies on the inside wall of the hallway at the hall's southernmost extent. The remaining two doors are located at the ends of the hallway. These two doors are flush with the exterior wall and extend from floor to ceiling in order to allow a magus to trace the inscribed circles when casting a spell. The doors connecting the hallway to the other rooms within the complex are locked. Hanging on the north door is a Locksmith's Will sentinel. Sitting atop a locked chest upon a table in front of the door to the exterior is the Statue of Conjured Assistants, and within this chest is a silver ring into which 2 pawns of Vim vis have been transferred. If one of the locked doors or the locked chest is unlocked by some manner other than by use of a key that fits the lock, the spirits Ferox and Fidelius will be summoned to see to the defense of the laboratory.
 
-#### **Locksmith's Will**
+#### Locksmith's Will
 
 The Locksmith's Will is a lead horseshoe that has been opened with six pawns of vis. This item's capacity is filled with the two enchantments: *Lock Improperly Opened* and *Herald of Imperative*.
 
-#### **Herald of Imperative**
+#### Herald of Imperative
 
 See "The Laboratory of Hermanus and Surrounding Structures", earlier.
 
-### **Lock Improperly Opened**
+### Lock Improperly Opened
 
 InTe 29 Constant effect R: Touch, D: Sun, T: Room
 
@@ -5024,7 +5024,7 @@ This enchantment triggers the *Herald of Imperative* when a lock in the target r
 
 (Effect: Base 4, +1 Touch, +2 Sun, +2 Room; Modifications, +1 level 2 uses per day, +3 levels environmental trigger)
 
-#### **Statue of Conjured Assistants**
+#### Statue of Conjured Assistants
 
 The Statue of Conjured Assistants is a small marble statue of a man. The statue is approximately the size of a person's hand. This statue closely re-
 
@@ -5070,7 +5070,7 @@ Ferox and Fidelius first move to the receiving room to retrieve the Staves of Wo
 
 Ferox and Fidelius will not sacrifice themselves for the protection of the laboratory. If they can avoid destruction only by fleeing or surrendering they will do so. If it becomes clear that there are magi who mean to destroy them they leave the structure and head to Coeris, traveling cross-country in order to alert House Tremere. This takes them a season, including finding the covenant, attracting attention from outside the Aegis of the Hearth, and spending time convincing the inhabitants of their good will.
 
-#### **Animated Mannequin**
+#### Animated Mannequin
 
 Here are the combat statistics for a mannequin animated by either Ferox or Fidelius
 
@@ -5088,7 +5088,7 @@ Here are the combat statistics for a mannequin animated by either Ferox or Fidel
 
 sembles one of the two statues in the Sanctum.
 
-#### **Summon the Stony Servants**
+#### Summon the Stony Servants
 
 ReTe 52
 
@@ -5106,11 +5106,11 @@ This room was used to create and copy documents for the vexillation and continue
 
 The handle on the door leading from the scriptorium to the store room is a Handle of Ill Will. Also, tied to the underside of one of the room's desks is the Net of Patient Thieves justiciar. If a character who wishes ill fortune to House Tremere touches the door handle, the device triggers the Net of Patient Thieves justiciar and all the people within the room are levitated just off the floor until the next dawn or dusk.
 
-### **Handle of Ill Will**
+### Handle of Ill Will
 
 The Handle of Ill Will is a door handle opened with ten pawns of vis. It is enchanted with the two effects: *Test of Motive* and *Herald of Imperative,* filling nine pawns of the item's ten pawn capacity.
 
-#### **Test of Motive**
+#### Test of Motive
 
 InMe 60
 
@@ -5122,11 +5122,11 @@ This enchantment is triggered whenever the handle is touched. Test of motive tri
 
 (Effect: Base 15, +1 Touch; Modifications, +10 levels unlimited uses per day, +30 levels +60 Penetration)
 
-### **Net of Patient Thieves**
+### Net of Patient Thieves
 
 The Net of Patient Thieves is a tiny bronze net that has been enchanted as a charged device. This item has 11 charges in it. Within Coeris, these items are typically hidden within a room so those affected by the enchantment are, hopefully, unable to find it.
 
-#### **Elevation of the Interloper**
+#### Elevation of the Interloper
 
 ReCo 65
 
@@ -5143,7 +5143,7 @@ All people in the target room are levitated a few inches away from all floors an
 
 The first thing that characters will notice when looking at this room is that the room is filled with smoke. The main contents of the room are great amounts of laboratory equipment, packed into shelves that line the interior wall of the room. Along the outside wall of the room, the metal bands are inset into the wall and volumes of seawater adhere along the outer edge of the floor and ceiling. Mixed in with the laboratory equipment there are two human- sized wooden mannequins. The mannequins are dressed in chain hauberks and are carrying polearms, crossbows and bolts. The mannequins have several features on their faces (eyes, nose, lips, eyebrows) that are actually separate pieces of wood, stuck into the head of the mannequins by the use of small dowels. In the case that the mannequins from the spare laboratory have been destroyed by the players and Ferox and Fidelius are still in possession of the Staves of Wooden Soldiers, the spirits are likely to grab arcane connections from these two mannequins and use them to further hinder the player characters. The polearms bear the symbol of House Tremere on their headpieces. Also on the shelves in this room are two enchanted devices: the Censer of the Unseen sentinel, and the Pebble of the Stone Prison justiciar.
 
-#### **Censer of the Unseen**
+#### Censer of the Unseen
 
 The Censer of the Unseen is an incense censer crafted of rock crystal; this item was opened with eight pawns of vis. It is enchanted with *Room of Pleasant Incense*, *Ascertaining the Absence of Images* and *Herald of Imperative*. There is one pawn of free capacity in this item.
 
@@ -5158,7 +5158,7 @@ A pleasant-smelling smoke constantly pours from the censer, filling the room. Th
 
 (Effect: Base 1, +1 Touch, +2 Sun, +1 complexity; Modifications, +1 level 2 uses per day, +3 levels environmental trigger)
 
-#### **Ascertaining the Absence of Images**
+#### Ascertaining the Absence of Images
 
 InIm 34
 
@@ -5170,11 +5170,11 @@ The enchantment determines if there is an area within the room that is not fille
 
 (Effect: Base 4 as InAu, InCo, and InHe, +1 Touch, +2 Room, +2 Sun, +1 complexity; Modifications +1 level 2 uses per day, +3 levels environmental trigger)
 
-#### **Pebble of the Stone Prison**
+#### Pebble of the Stone Prison
 
 The Pebble of the Stone Prison is a highly polished river pebble created as a lesser enchanted device.
 
-#### **Box of Stone**
+#### Box of Stone
 
 CrTe 16
 
@@ -5192,11 +5192,11 @@ This stone box is self-supporting and will not collapse under its own staggering
 
 This room contains chairs, tables, and cabinets. The door on the north side of the room is inscribed with the sanctum symbol. This room was once a meeting room for the Adamant Rook Vexillation. After the dissolution of the vexillation, Hermanus used the room as a private place to meet with other magi without having to allow them into his sanctum or his laboratory. On the inner wall of the room, there is a door-sized area of stonework constructed differently from the rest of the laboratory complex where the original door to the laboratory was located. Sitting on the table in the center of this room are two enchanted devices: the Ear of Truth and The Box of Vines. Leaning against the inner wall of the room are two Staves of Wooden Soldiers, and these two staves have been fitted with arcane connections to the two mannequins located in the spare laboratory (see later). It is likely that Ferox and Fidelius will have procured these devices before the party arrives in the room. If someone within the room tells a lie, the *Chamber of Thorns* effect activates, filling the room with created plant matter. If either of the spirits happens to be in the room at the same time as the player characters, Ferox or Fidelius is likely to purposely tell a lie themselves in order to set off the trap.
 
-#### **Ear of Truth**
+#### Ear of Truth
 
 The Ear of Truth is a copper bowl opened with 10 pawns of vis as an invested device. The item's ten pawns of capacity have been filled with the two effects *Alarm of Dissemblance* and *Herald of Imperative*.
 
-#### **Alarm of Dissemblance**
+#### Alarm of Dissemblance
 
 InMe 55
 
@@ -5215,11 +5215,11 @@ within the room. Naturally, the limit of the infernal prevents this from being e
 
 (Effect: Base 10, +1 Diameter, +2 Room; Modifications, +17 levels 34 Penetration, +10 levels unlimited uses per day, +3 environmental trigger)
 
-#### **Box of Vines**
+#### Box of Vines
 
 The Box of Vines is a carved wooden box the size of loaf of bread. It is a lesser enchanted device enchanted with the effect *Chamber of Thorns*.
 
-#### **Chamber of Thorns**
+#### Chamber of Thorns
 
 CrHe 16
 
@@ -5231,7 +5231,7 @@ The room where this enchantment is triggered is filled with woody, thorny bushes
 
 (Effect: Base 1, +1 Touch, +2 Sun, +2 Group, +1 unnatural; Modifications, +1 level 2 activations per day)
 
-#### **Staves of the Wooden Soldiers**
+#### Staves of the Wooden Soldiers
 
 Throughout Coeris there are many human-sized wooden mannequins. These mannequins are dressed in armor and carry weapons. Several of the wooden features on each mannequin, such as eyes and hair and fingernails, are detachable. At any given time, one detachable object from each mannequin is stored with the Staves of the Wooden Soldiers to function as an arcane connection to the mannequin. The particular feature of each mannequin held with the staves is switched regularly to keep the arcane connection from decaying. Note that, as the arcane connections loaded into the staves in this room have been in the Twilight Void, they have not decayed, as no time has passed for them.
 
@@ -5240,7 +5240,7 @@ The Staves of Wooden Soldiers are used to animate and control these mannequins t
 
 Each Staff of the Wooden Soldiers is an invested device, created from a thick hazel wood staff with an eye of crafted silver mounted on the top. On each staff there is a small chamber near the top where an arcane connection to one of the wooden dolls can be inserted. The two staves located in the receiving room contain arcane connections to the mannequins located in the spare laboratory. The staff located in Hermanus' lab contains a connection to the remains of the mannequin that Hermanus used to explore the sea floor. The staves were opened with 14 pawns of vis. Each is enchanted with four powers. These powers fill up all of the staves' 14-pawn capacity.
 
-#### **Pretense of Humanity**
+#### Pretense of Humanity
 
 MuIm 19
 
@@ -5250,7 +5250,7 @@ The target mannequin changes in appearance to resemble a human the same size as 
 
 (Effect: Base 1, +4 Arcane connection, +1 Concentration; Modifications, +5 levels item maintains concentration, +4 levels 12 uses per day)
 
-#### **Animate Mannequin**
+#### Animate Mannequin
 
 ReHe 34
 
@@ -5264,7 +5264,7 @@ laboratory complex) with any blow that has a damage value of 10 or more (19 or m
 
 (Effect: Base 3, +4 Arcane connection, +1 Concentration, +1 complexity; Modifications, +5 levels item maintains concentration, +4 levels 12 uses per day)
 
-#### **View from the Mannequin**
+#### View from the Mannequin
 
 InIm 34
 
@@ -5276,7 +5276,7 @@ The target is based on Room but is more complex as it allows the staff's holder 
 
 (Effect: Base 1, +4 Arcane connection, +1 Concentration, +3 Special target based on Room, and one grade higher; Modifications, +5 levels item maintains concentration, + 4 levels 12 uses per day)
 
-#### **Ears of the Mannequin**
+#### Ears of the Mannequin
 
 InIm 34
 
@@ -5292,11 +5292,11 @@ The target is based on Room but is more complex as it allows the staff's holder 
 
 While the Adamant Rook Vexillation existed, this laboratory was the personal laboratory of Hermanus. After the vexillation's dissolution Hermanus abandoned this room and claimed the former vexillation laboratory for his own. Sitting on the table in the center of this room is an Hourglass of Airy Trespass, and a Prison of Insubstantial Spirits. If a Creature or spirit with might associated with realm of magic enters this room, the *Insubstantial Prison* effect activates, trapping creatures with a Magic Might of 30 or less within the room. In addition, there are two human-sized wooden mannequins. The mannequins are dressed in full chain and carrying polearms (the headpieces of the polearms are stamped with the symbol of House Tremere), crossbows, and bolts. The mannequins have several carved features on their faces (eyes, nose, lips, eyebrows) that are actually separate pieces of wood with small dowels on them that have been inserted into matching holes on the head of the mannequin. Both of the mannequins in this room are missing their right ear. The ears of the mannequins are located in the staves of wooden soldiers in the receiving room. It should be noted that Ferox and Fidelius would be trapped if they were to enter this room without first removing either the Hourglass of Airy Trespass or the Prison of Audacious Spirits.
 
-### **Hourglass of Airy Trespass**
+### Hourglass of Airy Trespass
 
 The Hourglass of Airy Trespass is a carved rock crystal and limestone figure of an hourglass opened with eleven pawns of vis. This capacity is completely filled with the two enchantments: *Sense the Airy Trespass* and *Herald of Imperative*.
 
-#### **Sense the Airy Trespass**
+#### Sense the Airy Trespass
 
 InVi 75
 
@@ -5306,11 +5306,11 @@ This enchantment detects the presence of any entities that have a Magic Might of
 
 (Effect: Base 30 +1 Touch, +2 Room, +2 Sun; Modifications, +1 level 2 uses per day. +3 levels environmental trigger, +16 levels 32 Penetration)
 
-#### **Prison of Audacious Spirits**
+#### Prison of Audacious Spirits
 
 A silver candlestick holder enchanted as a charged device. The Prison of Audacious spirits in the spare laboratory has 7 charges in it.
 
-#### **Insubstantial Prison**
+#### Insubstantial Prison
 
 ReVi 71
 
@@ -5334,11 +5334,11 @@ If the room is cleared of wood, characters are able to explore Hermanus's sanctu
 
 This room has two sentinels and a justiciar in it. If anyone in the room either draws a metal weapon that does not bear the symbol of House Tremere, or touches the carpet while believing that House Tremere would not approve of their plans, the Turtle of Welcome Reflection will activate, and change the room's human occupants into turtles.
 
-#### **Ward against Foreign Steel**
+#### Ward against Foreign Steel
 
 The Ward against Foreign Steel is a piece of black marble carved into the shape of an apple. This stone apple has been opened with eight pawns of vis. The entire eight pawns of the item's capacity have been filled by the two enchantments: *React to Naked Blades* and *Herald of Imperative*.
 
-#### **React to Naked Blades**
+#### React to Naked Blades
 
 InTe(Im) 45
 
@@ -5352,11 +5352,11 @@ This effect triggers the *Herald of Imperative* enchantment (see "The Laboratory
 
 
 
-#### **Carpet of Loyalty**
+#### Carpet of Loyalty
 
 The Carpet of Loyalty is an embroidered square rug approximately 2 paces in length and width. The embroidery shows Tremere and Guernicus, and there are silver wires strung through the border of the rug. The carpet has been opened with nine pawns of vis, and its capacity has been filled with two effects: *Interrogation of Interlopers* (see later) and *Herald of Imperative* (see "The Laboratory of Hermanus and Surrounding Structures" earlier).
 
-#### **Interrogation of Interlopers**
+#### Interrogation of Interlopers
 
 InMe 60
 
@@ -5368,11 +5368,11 @@ The *Interrogation of Interlopers* is triggered whenever the carpet is touched b
 
 (Effect: Base 15, +1 Touch; Modifications, +10 levels unlimited uses per day, +30 levels +60 Penetration)
 
-### **Turtle of Welcome Reflection**
+### Turtle of Welcome Reflection
 
 The Turtle of Welcome Reflection is a jet figurine of a turtle that has been enchanted as a charged device. The Turtle of Welcome Reflection that is in the sanctum has 11 charges.
 
-#### **Armoring the Intruder**
+#### Armoring the Intruder
 
 MuCo(An) 60
 
@@ -5384,11 +5384,11 @@ Humans and other creatures that are subject to Corpus spells within the target r
 
 (Effect: Base 10, +1 Touch, +2 Sun +2 Room; Modifications, +25 levels 50 Penetration)
 
-### **Oracle-Countering Tapestry**
+### Oracle-Countering Tapestry
 
 The Oracle-Countering Tapestry was created to protect the sentinels and justiciars of Coeris. Several replicas of the original were created from laboratory notes. These are often placed in the same room as justiciars that immobilize victims to hide the trapping enchanted devices and thereby prevent their dismantling or destruction. The Oracle-Countering Tapestry is a lesser enchanted device enchanted with the following power:
 
-#### **Masking the Magical Chamber**
+#### Masking the Magical Chamber
 
 PeVi 45
 
@@ -5400,11 +5400,11 @@ This effect prevents the detection of magic effects by Hermetic Intellego Vim ma
 
 (Effect: Base 16 per *Masking the Odor of Magic,* ArM 5 page 160, +1 Touch, +2 Sun, +2 Room; Modifications, +1 level 2 activations per day, +3 levels environmental trigger)
 
-#### **Charm of the Herbam Padlock**
+#### Charm of the Herbam Padlock
 
 This is an item originally created to protect the vaults of Coeris by making the actual vis, items, and other valuables difficult to access by intruders. Hermanus used the item on his sanctum prior to beginning his activities on the night of his final spell. The charm is a small silver ring opened with six pawns of vis and enchanted with the following two effects that completely fill the item's capacity.
 
-### **Chamber of Heartwood**
+### Chamber of Heartwood
 
 CrHe 29
 
@@ -5416,7 +5416,7 @@ The effect is triggered by touching the door of a room with the charm. A single 
 
 (Effect: Base 3, +1 Touch, +2 Sun, +2 size, +1 complexity; Modifications, +1 level 2 uses per day +3 levels environmental trigger)
 
-#### **Insubstantial Wooden Foundation**
+#### Insubstantial Wooden Foundation
 
 ReHe 24
 
@@ -5453,26 +5453,26 @@ The rings surrounding the laboratory have the following spells cast on them:
 
 With reference to the rules in *Covenants* Chapter Nine, the laboratory has +1 size, +6 refinement and the Virtues Greater Feature (workbench) Lesser Feature (Ceiling), Greater Expansion, Highly Organized and Superior Lighting (Orb of Obedient Sunlight). When the laboratory was functioning it had the following characteristics +3 general quality, +4 upkeep, +5 aesthetics, and the following four specializations: +6 item creation, +1 texts, +1 Intellego, and +1 Imaginem.
 
-#### **Staff of the Wooden Soldiers**
+#### Staff of the Wooden Soldiers
 
 See the entry for this item in the Receiving Room section, earlier.
 
-#### **Tapestry of Confident Possession**
+#### Tapestry of Confident Possession
 
 The Tapestry of Confident Possession is a sentinel item. It is a large tapestry bedecked with small silver ornaments that covers approximately one third of the laboratory's circular walls. The tapestry is hung in such a manner that anyone passing through the door into the room, or accessing many of the cabinets and books in the room will have to move it in order to do so. This item has been enchanted as an invested device, and opened with 16 pawns of vis. It has two effects invested in it: *Assurance of Ownership* and *Herald of Imperative*. These two effects fill 10 of the Tapestry's 16 pawns of capacity.
 
-#### **Assurance of Ownership**
+#### Assurance of Ownership
 
 InMe 65 Penetration 50 R: Touch, D: Mom, T: Room
 
 
 (Effect: Base 15, +1 Touch, +2 Room; Modifications, +10 levels unlimited uses per day, +25 levels Penetration 50)
 
-#### **Cross of the Preempted Conflict**
+#### Cross of the Preempted Conflict
 
 The Cross of the Preempted Conflict is a small metal cross which has been enchanted as a charged magical device. It is enchanted with 13 charges of the following effect:
 
-#### **Beneficent Gift of Loyalty**
+#### Beneficent Gift of Loyalty
 
 ReMe 65 Penetration +40 R: Touch, D: Sun, T: Room
 
@@ -5484,11 +5484,11 @@ material to be removed from the laboratory complex.
 
 (Effect: Base 20, +1 Touch, +2 Room, +2 Sun; Modifications, +20 levels 40 Penetration)
 
-### **Butterfly's Gaze**
+### Butterfly's Gaze
 
 The Butterfly's Gaze is a silver butterfly with ivory inlays. The figure is approximately six inches long and hangs upon a wall of the laboratory. The Butterfly's Gaze has been opened with 15 pawns of vis and is invested with the following two enchantments:
 
-### **Gaze of Maker's Mark**
+### Gaze of Maker's Mark
 
 InVi 49
 
@@ -5500,7 +5500,7 @@ This enchantment detects if any magic in the room bears the sigil of Hermanus, t
 
 (Effect: Base 5, +1 Touch, +2 Sun, +2 Room +3 magnitudes determine sigil; Modifications, +1 level 2x day, + 3 levels environmental trigger)
 
-#### **Counter Intruding Magics**
+#### Counter Intruding Magics
 
 PeVi 63
 
@@ -5522,11 +5522,11 @@ If Ferox and Fidelius are able to enter the laboratory of Hermanus proper (room 
 
 (Effect: Base 35, +3 special range based on Voice +1 magnitude; Modifications, +10 levels unlimited uses day, +3 levels linked trigger)
 
-#### **Wolf's Gaze**
+#### Wolf's Gaze
 
 The Wolf's Gaze is a silver wolf's head pendant approximately six inches long, which hangs upon a wall of the laboratory. It is an invested device opened with six pawns of vis, and five of these six pawns have been filled with the following two enchantments:
 
-#### **Awareness of Fire**
+#### Awareness of Fire
 
 InIg 14
 
@@ -5538,7 +5538,7 @@ This power detects any fires in the room. When a fire is detected, *Protection o
 
 (Effect: Base 1, +1 Touch, +2 Sun, +2 Room; Modifications, +1 level 2 activations per day, + 3 levels environmental trigger)
 
-#### **Protection of Cool and Dark**
+#### Protection of Cool and Dark
 
 PeIg 28
 
@@ -5548,11 +5548,11 @@ R: Touch D: Momentary T: Room Extinguishes all fires in the room that do +5 dama
 
 (Effect: Base 4, +1 Touch, +2 Room; Modifications, +10 levels unlimited uses, +3 linked trigger)
 
-#### **Orb of Obedient Sunlight**
+#### Orb of Obedient Sunlight
 
 The Orb of Obedient Sunlight is a gold-colored wooden sphere hung from a hook on the brass wires that crisscross the ceiling. The orb is a lesser enchanted device with the following power:
 
-### **Obedient Sunlight**
+### Obedient Sunlight
 
 CrIg 20
 
@@ -5568,13 +5568,13 @@ sufficient to illuminate the laboratory. Hermanus used this item as the source o
 
 (Effect: Base 4, +1 Concentration; Modifications, +10 levels unlimited uses per day, +5 levels item maintains concentration)
 
-### **Helm of Unravelling**
+### Helm of Unravelling
 
 The Helm of Unravelling is a steel helmet opened with 12 pawns of vis. The Helms, like other examples of the device at Coeris, were created in an attempt to provide tools that would allow Coeris' grogs to disrupt the magical abilities of opponents. Their existence causes some unease among magi who have not yet learned to trust House Tremere's auxiliaries.
 
 These helms are not frequently worn by grogs because the enchantment *Sight of Forming Spells* is powerful enough to cause warping on the wearer. While seldom used, the helms are almost always carried by the grogs who are most trusted for their judgement; these are not necessarily the best leaders or most skilled warriors. The helms are enchanted with the following two powers:
 
-#### **Sight of Forming Spells**
+#### Sight of Forming Spells
 
 InVi 60
 
@@ -5584,7 +5584,7 @@ The wearer of the helm sees spells, powers, and effects that are with his or her
 
 (Effect: Base 5, +1 Touch, +2 Sun, + 4 Vision; Modifications, +1 level 2 uses per day, + 3 levels environmental trigger, +16 levels +32 Penetration)
 
-#### **Shout of Unravelling**
+#### Shout of Unravelling
 
 PeVi 60
 
@@ -5596,13 +5596,13 @@ The targeted spell, power or effect is dispelled if its level can be doubled on 
 
 (Effect: Base 30, +2 Voice; Modifications, +4 levels twelve uses per day, +16 levels 32 Penetration)
 
-#### **Enchantments on the Laboratory Itself**
+#### Enchantments on the Laboratory Itself
 
 Hermanus opened and enchanted the laboratory after the Vexillation of the Adamant Rook had been disbanded and he took the laboratory over for himself. The walls of the room, its highest capacity component, were opened by Hermanus using 20 pawns of vis. The laboratory's enchantments fill 15 pawns of the laboratory's 20 pawn capacity.
 
 
 
-#### **Foreboding of Stones**
+#### Foreboding of Stones
 
 InTe 19
 
@@ -5614,7 +5614,7 @@ The laboratory room detects the approach of any solid object that is likely to h
 
 (Effect: Base 2, +2 Sun, +3 Hearing; Modifications, +1 level 2 uses per day +3 levels environmental trigger)
 
-#### **Skin of the Sapphire Tortoise**
+#### Skin of the Sapphire Tortoise
 
 MuTe(He) 35
 
@@ -5626,7 +5626,7 @@ The walls, floor, or ceiling of the laboratory room become as hard as the hardes
 
 (Effect: Base 5, +1 Diameter, +2 Room, +1 requisite; Modifications, +10 levels unlimited uses)
 
-#### **Protection of the Mason's Vision**
+#### Protection of the Mason's Vision
 
 ReTe(He) 28
 
@@ -5638,7 +5638,7 @@ Any portion of the laboratory room's structure that is removed or misplaced is m
 
 (Effect: Base 3, +3 special based on room +1, +1 Herbam requisite; Modifications, +10 levels unlimited uses, +3 levels environmental trigger)
 
-#### **Invisible Eye Uncovered**
+#### Invisible Eye Uncovered
 
 InVi(Im) 45
 
@@ -5650,11 +5650,11 @@ Any magical means used to spy into this room is revealed as a flickering image w
 
 (Effect: Base 16 per *The Invisible Eye Revealed,* **ArM5** page 157, +2 Sun +2 Room, +1 requisite; Modifications, +1 level 2 activations per day, +3 levels environmental trigger)
 
-#### **Riches Contained in the Laboratory of Hermanus**
+#### Riches Contained in the Laboratory of Hermanus
 
 In addition to the enchanted devices in the laboratory and the laboratory itself, there are 6 pawns of Rego vis, 18 pawns of Mentem vis, and 8 pawns of Vim vis. There is also a large collection of laboratory texts. The laboratory contains detailed texts for all of the enchantments on the laboratory itself, as well as all of the enchanted devices within it. There are also laboratory texts describing the creation of all of the sentinels and justiciars detailed in this chapter. Finally, there are laboratory texts for the Ring Duration Circle Target wards active in the laboratory. The spell *Circular Ward Against Magical Spirits* is included in this collection and is described here.
 
-### **Circular Ward Against Magical Spirits**
+### Circular Ward Against Magical Spirits
 
 ReVi Gen
 
@@ -5665,7 +5665,7 @@ All creatures with Magical Might equal to or less than the level of the spell ar
 (Base Spell)
 
 
-#### **Cargo of Angel's Wings**
+#### Cargo of Angel's Wings
 
 ReTe(He) 45
 
@@ -5746,14 +5746,14 @@ Thomae gave the impression that his castle was created by a team of skilled assi
 
 Thomae was active in the Order relatively recently, so many of the details about him are more easily recalled than those of the other magi in this book. Players whose characters have some reason to be particularly interested in his works or legal case may be granted a +3 bonus on Intelligence + Order of Hermes Lore rolls, when seeking the following recollections about him.
 
-#### **Known to All**
+#### Known to All
 
 - Thomae was a magus of House Tytalus, active late last century.
 - He built a flying castle.
 - He suffered legal trouble.
 - He vanished about 20 years ago.
 
-#### **Widely Known**
+#### Widely Known
 
 - Thomae was young, for a magus, when he disappeared, and many suspect he is still alive, abusing the natives in some distant part of Africa or Asia.
 - Thomae was disinterested in poli-
@@ -5766,7 +5766,7 @@ tics–his obsession was flight.
 - Thomae traveled widely in his quest to find vis to pay for his castle, spending much time in the Holy Land and Africa.
 - Thomae settled his tribunal case by agreeing not to fly his castle in civilized areas, but there was some question regarding his later compliance.
 
-#### **Uncommon Knowledge**
+#### Uncommon Knowledge
 
 - During his Tribunal case, Thomae noted that he did not build all of his magical items himself; many were purchased.
 - Thomae's castle included safety equipment for his servants, at remarkable personal expense, which made them loyal to him.
@@ -5774,12 +5774,12 @@ tics–his obsession was flight.
 - Thomae claimed to be a Hermetic Architect, one of the Order's least secret mystogogic societies.
 - The castle was examined by the Quaesitores during his legal troubles, but because it was considered his sanctum, even his fellow Architects did not visit it.
 
-### **Lost Secrets**
+### Lost Secrets
 
 - There's something wrong with the timeline of Thomae's life: he seems to fit more in than is possible. This probably means he lied about what he was doing, and when.
 - Thomae was probably not a Hermetic Architect, but he claimed to be one.
 
-### **Hermetic Architects Only (Ease factor 12)**
+### Hermetic Architects Only (Ease factor 12)
 
 • Many of the effects he claimed as integral to the castle could not have been possible, unless he made a breakthrough in Hermetic Architecture.
 
@@ -5788,7 +5788,7 @@ decide: story suggestions relating to the true source of the disk are given at t
 
 The disk is made of a single, flat circle of stone (hard stone, 4). It is 300 paces across, and slightly less than a pace thick (size 7). It lies beneath and supports the bronze sheet that forms the courtyard of the castle. Thomae's great and simple ploy was to not design this as masterpiece of Hermetic Architecture, or even as an invested device. The disk is simply one of the largest lesser enchanted devices in the history of the Order. The strange absences in his biography can be explained as the time taken to set up a laboratory of sufficient size and secrecy to satisfy the Verditius he hired. He also needed to find the resources to pay for one season of that magus's time and discretion. The disk, like all lesser enchanted devices, took only one season to produce.
 
-#### **The Flight Disk**
+#### The Flight Disk
 
 ReTe Level 33
 
@@ -5812,7 +5812,7 @@ Boundary effects are not, by their nature, mobile. This means that, for example,
 
 castle would also be left behind as the castle moved. This lack of effective wards for huge, moving objects was a known risk. Thomae believed few creatures would attack a magical flying castle filled with offensive magical items and well-trained soldiers.
 
-#### **The Control Chain**
+#### The Control Chain
 
 A steel chain, ending in a bulb of metal, is secured to the center of the flight disk. The length of this chain rises through the High Tower to the magus's laboratory. By touching this chain, and speaking an appropriate Latin command, the bulb on the chain's end glows with various colors and intensities of light. These lights control the disc. This allowed Thomae to steer the disc from many of the rooms in the High Tower, as doors in the tube allow access to the chain.
 
@@ -5834,7 +5834,7 @@ Effect: Base 1; Modifications +2 Sun, +2 complexity (caster control of color), +
 
 Thomae's corpse is scattered about the wreckage of the castle. He died violently, and was not buried with religious rites. This means his ghost is contactable and likely deranged.
 
-#### **Laboratory Notes**
+#### Laboratory Notes
 
 Thomae's lab was destroyed in the crash, but his most prized books were preserved in their magical storage chests. These codices contain lab notes for making:
 
@@ -5857,7 +5857,7 @@ extend his Touch range, and wield as a whip in battle.
 - **• Medallions** allowing flight, invisibility, safe falling, magical attack or espionage effects. These items are of great use to magi interested in flight, but are also useful for mundane agents involved in sabotage, assassi-
 
 
-#### **Training Bell**
+#### Training Bell
 
 These smaller bells, with less powerful effects than the falling bells described in the previous section, were used for training, festivities, and missions. Most servants in the castle were taught simple tricks on training days, like leaping from the courtyard to the top of a tower then down again, so that if they were required to leap from the castle to the ground below they would have confidence in the spell. Some others were trained in flight, which has many advantages during sieges.
 
@@ -5873,7 +5873,7 @@ The spell allows the user to fly, at a brisk walking pace, for the rest of the d
 
 Effect: Base 10, +1 Touch, +2 Sun, Modifications +10 constant use.
 
-#### **Thomae's Tender**
+#### Thomae's Tender
 
 The tender is a floating metal platform that can be used to lift supplies up to the castle. A tender, in this sense, is a smaller vessel used to supply or shuttle crew to a larger one. The tender moves faster than the castle does, so it is possible for it to scout ahead of the castle, or catch up if delayed while loading supplies.
 
@@ -5894,7 +5894,7 @@ This effect allows the tender to fly and carry as much cargo as can be piled upo
 
 Effect: Base 3, +1 Touch, +2 Sun, +2 size, +2 affects metal; Modifications +4 constant use.
 
-#### **Covenant Goods**
+#### Covenant Goods
 
 The castle contained a magician's laboratory, private library, and sufficient supplies for his servants to live luxuriously. Many of Thomae's possessions were destroyed in the crash or by the elements afterward. His materials will not equip the multiple laboratories of most covenants, but may provide useful pieces of enchanted laboratory equipment, a collection of valuable books, or sufficient mundane wealth to purchase useful supplies for the covenant. Storyguides might use magical items from other scenarios in this book as treasures belonging to Thomae.
 
@@ -5902,7 +5902,7 @@ The castle contained a magician's laboratory, private library, and sufficient su
 
 An incubation method for griffons' eggs is not immediately apparent to Hermetic magi, and they may be forced to complete a story to discover a successful one. This may be as simple as consulting a great library and doing a favor for the covenant that controls it. Some of the most powerful of Bjornaer magi are able, if rumor is to be believed, to take the shape of griffons, and if one of them might be consulted, perhaps she would be able to suggest an answer. Some Jerbiton covenants train magical animals, and one of the magi at Valnastium is said to have potent magic items which aid in the training of griffons. It is unknown, though, whether she has any experience in hatching their eggs, and it may be untenable for player characters to reach so remote a covenant quickly. It is not even known whether the eggs die if not kept in the right environment, or simply refuse to develop until their mystical climate is satisfactory.
 
-### **How Much is Bronze Worth?**
+### How Much is Bronze Worth?
 
 The wrecked castle is made of enormous amounts of bronze. Thomae chose bronze because a superficial layer of corrosion stops bronze deteriorating further, unlike iron or steel. Bronze can be sold for between 200 and 300 Mythic pounds per ton, but if reworked into high-class brassware (a term which includes bronze, in Mythic Europe) it can sell for as much as 1,500 Mythic pounds per ton. Characters wanting to sell the bronze will encounter problems of weight, remoteness and market flooding, rather than scarcity.
 
@@ -5910,15 +5910,15 @@ The wrecked castle is made of enormous amounts of bronze. Thomae chose bronze be
 
 The griffons whose range overlaps the crash site could provide many treasures to creative players.
 
-#### **The Nest of Gold**
+#### The Nest of Gold
 
 The nest of gold is worth a fortune, but to a skilled enchanter, it is even more valuable as a focus for enchantment. It adds +7 to enchantments which favor the defense of home, or the protection of treasures. To be used as a focus for enchantment, the nest—contains pounds of gold, griffon feathers, and the woods of exotic trees—must be moved into a laboratory without damaging its basic structure. Careful manual handling, skilled goldsmithing to solder the pieces together, or magic is required to keep the nest intact until it can be stabilized and enchanted. An intact nest may also be required for incubated griffon eggs to hatch.
 
-#### **Eggs of Agate**
+#### Eggs of Agate
 
 Griffons' eggs are perfect agates the size of ostrich eggs. Agates are semiprecious stones that may be used for a variety of purposes. Ancient writers note that an agate placed in the mouth prevents thirst. Sorcerers have, since Roman times, used agates in the control of rivers and storms. Agate is linked to Auram magic (+3), protection from storms (+5), and protection from venom (+7).
 
-#### **Baby Griffons**
+#### Baby Griffons
 
 The eggs may be permitted to hatch, providing baby griffons for the covenant to train, leaving eggshells to be
 
@@ -5990,7 +5990,7 @@ Andros takes two rounds to activate the device, because his prayer contains many
 
 Thomae's three shield grogs had medallions with slightly different effects. This one was designed to allow covenfolk to be trained in emergency descent. It has a flight power with unlimited uses and long duration. The flight is slower, but far longer than the other medallions. It has been coupled with an invisibility effect to allow spying, and which can be used by groups if they pass the medallion among themselves. It also has a safety effect, which allows controlled falling. This was also used for training covenfolk in flight.
 
-#### **Aerial Dancer**
+#### Aerial Dancer
 
 ReCo 35
 
@@ -6010,7 +6010,7 @@ The other medallions provide flight for two minutes, but at the speed of a runni
 
 (Base 15, +1 Touch, +1 Diameter; Modifications +10 unlimited uses per day.)
 
-#### **Failure to Fall**
+#### Failure to Fall
 
 ReCo 25
 
@@ -6022,7 +6022,7 @@ This power gently lowers a falling person toward the ground for two minutes. The
 
 (Effect: Base 5, +1 Touch, +1 Diameter; Modifications +10 unlimited uses per day.)
 
-#### **Veil of Invisibility**
+#### Veil of Invisibility
 
 PeIm 25
 
@@ -6036,7 +6036,7 @@ As the Hermetic spell of the same name (**ArM5**, page 146). This power makes th
 
 (Effect: Base 4, +1 Touch, +2 Sun, +1 moving; Modifications +5 24 uses/day)
 
-#### **Whispering Winds**
+#### Whispering Winds
 
 ReAu 15
 
@@ -6104,7 +6104,7 @@ Wound Penalties\*: –1 (1–8), –3 (9–16), –5 (17–24), Incapacitated (2
 
 **Abilities:** Area Lore 4 (local), Athletics 4 (flight), Awareness 4 (animals), Brawl 4 (suffocate), Hunt 2 (animals), Penetration 6 (Chill Touch power).
 
-#### **Powers:**
+#### Powers:
 
 *Chill Touch*, 0 points, Init +5, Ignem: The freezing touch of the snowstorm elemental inflicts +10 damage, which is Soaked without benefit from metal armor.
 
@@ -6123,7 +6123,7 @@ The elemental blizzard is designed as a foe for parties of characters traveling 
 
 ventionally purchase en route. This makes travel to Santa Lucia slow. Storyguides may complicate this journey to provide time in the spotlight for characters whose specializations have yet to be used in this story. She may, for example, provide combat opportunities or environmental puzzles.
 
-#### **Combat**
+#### Combat
 
 There are many varieties of monster suited to this journey. Isolated mountain areas provide excellent opportunities to use monsters that cannot realistically be placed in agricultural areas or cities. This scenario, for example, uses griffons, which are large and prey on livestock, and would so disrupt medieval agriculture as to damage the setting. In Mythic Europe, the Avar invasions in the sixth century are sometimes recorded as being caused by a plague of griffons that forced the Avars to flee their homeland, streaming west. The monsters suggested in the nearby inserts use the icy conditions of the mountains as a weapon. Storyguides should include these as suits the pace of the story and the interests of the player group.
 
@@ -6204,7 +6204,7 @@ Storyguides may use the environmental puzzles for difficulties involving cartage
 - Cutting and laying aside hay for the herds.
 - Slaughtering and preserving beasts not suitable for feeding through the winter.
 
-### **The Folk Stories of Santa Lucia**
+### The Folk Stories of Santa Lucia
 
 The older generation of Santa Lucia served a magus with a flying castle. They say the castle was destroyed by "birdcats". Their leader, the wizard Thomae, ensured that if his castle was destroyed his servants would be able to fly, briefly. The older Santa Lucians used this ability to escape into the eye of the sun, so that the monsters could not follow them.
 
@@ -6240,7 +6240,7 @@ Slaying the faeries is relatively easy, given their low Might. Storyguides may w
 
 **Personality Traits:** Loyal to the castle +5
 
-#### **Combat:**
+#### Combat:
 
 *Bite (small teeth):* Init +2, Attack +10, Defense +9, Damage +1
 
@@ -6250,7 +6250,7 @@ Slaying the faeries is relatively easy, given their low Might. Storyguides may w
 
 **Pretenses:** Athletics 5 (distance running), Awareness 6 (keeping watch), Brawl 5 (bite), Hunt 6 (track by scent)
 
-#### **Powers:**
+#### Powers:
 
 *Fearful Flaming Eyes*: 2 points, Init –2, Corpus: Completely paralyzes a human who makes eye contact with the faerie.
 
@@ -6306,7 +6306,7 @@ Griffons lair in inaccessible places, so characters need guidance to find the ne
 
 Griffons have dimorphic genders, at least in the region where the castle crashed. That is, male and female griffons are so different in their form that they require separate statistics.
 
-### **Female Griffons**
+### Female Griffons
 
 Female hatchlings may be found in the lair of the griffons, or hatched from intact eggs, at the discretion of the storyguide. Griffon hatchlings are the size of a human, but much of that mass is taken up by their wings, which are disproportionately large when compared to the wings of mundane birds.
 
@@ -6314,7 +6314,7 @@ Juvenile griffons may be added to those faced during the combat section of this 
 
 Adult female griffons are strongly territorial, so only one should appear in any scenario.
 
-#### **Male Griffons**
+#### Male Griffons
 
 Male griffons combine eagle and lion attributes in a way similar to the female, with the following exceptions. Male griffons lack wings. They also have more
 
@@ -6544,7 +6544,7 @@ countryside seeking gold. Once they find an area with sufficient gold, they buil
 
 Adult male griffons are strongly territorial, so only one should appear in any scenario.
 
-#### **Griffon Alternatives**
+#### Griffon Alternatives
 
 Griffons have been selected as opponents for this adventure because of their close tie to the concept of the defended home. Storyguides may, however, prefer an alternative antagonist. Some suggestions follow.
 
@@ -6556,7 +6556,7 @@ monic nobleman. Storyguides may mix this hook with that of the griffons, providi
 
 • The castle attracted a flock of magical moths, which flew through the side of the disk so that they could cluster about the light inside. These ethereal moths may be tricked out of the workings of the castle by setting the control chain's orb to black, and then providing an alternative mystical light source. Simple CrIm or CrIg spells, with Ring durations, can be used to trick the creatures into abandoning the control mechanism.
 
-#### **Ties To Earlier Books**
+#### Ties To Earlier Books
 
 Griffons can be used to enrich some of the story seeds presented in previous works. They may be used in many seeds that simply require a formidable monster, but they are particularly suited in three cases, where ancient Greek folklore nominates them as the correct creature to guard the items that player characters are seeking.
 
@@ -6616,7 +6616,7 @@ What Thomae was hiding is best tailored to the interests of individual troupes, 
 - Who or what was Thomae's "Verditius collaborator" and where can they or it be found?
 - Where is Thomae's ghost?
 
-#### **Verditius Assistance**
+#### Verditius Assistance
 
 Thomae built the castle with the assistance of a Verditius magus, who has not come forward for the credit. This surprising modesty is because the Verditus magus has kept the secret laboratory Thomae created to allow the construction of this device. He or s does not want the Order to know this for a reason. Suggested reasons include:
 
@@ -6627,13 +6627,13 @@ Thomae built the castle with the assistance of a Verditius magus, who has not co
 
 • The lab has steadily churned out flying squares for the last twenty years. The squares clip together into a vast platform that could be used for a flying city.
 
-#### **Faerie Dealings**
+#### Faerie Dealings
 
 There are two great limitations in Thomae's biography: time and cost. He could have dealt with both of these by constructing the castle and his ancillary items in Arcadia. If Thomae died in Arcadia, but did not notice, the being that returned to the world could have been a powerful faerie. This would explain why he left no ghost, and why his castle was attacked by creatures that are the perfect folkloric destroyers for Thomae's story. Thomae's wanderings to the mountainous reaches of distant tribunals may have been his subconscious attempt to complete the script in his glamor.
 
 It seems remarkable that Thomae was able to bring such a large object from Faerie to the real world. The faeries trade wishes for vitality, so Thomae must have poured enormous amounts of vitality into Faerie, or at least promised to. A creature arriving to collect the vitality, or remove the castle for non-payment, provides a story hook. It could be a dark and cruel faerie, asking for the blood of the dead from the war which Thomae promised he would ignite, or it may be a Queen of Sylphs, demanding the tears of ten thousand babies, that are this century's rent for her flying throne.
 
-#### **Found Object**
+#### Found Object
 
 Thomae was a vain and obsessed man, so it is possible that he did not
 

@@ -20,7 +20,7 @@
 
 **Second Round Playtesters:** Angus MacDonald, Brian Watson, Wendell "BSP" Joyner, Sarah MacDonald; Eric Menge, Ann Sasahara, Scott Benfield, Lynn Reed-Kendall, Chris Day; Nicholas Peterson, Jennifer McPherson, Michael Pisarsky, Kristi Pisarsky; Erik Tyrrell; Carlo Veltri, Chad Vincent, greg Palechek, Greg Rothwell
 
-#### **Author Bios**
+#### Author Bios
 
 **Timothy Ferguson** is a librarian on the Gold Coast, in Australia. He is up to his eyeballs in wedding plans, so he doesn't have time to write his biography. He'd like to dedicate this book to his family, and to his soon-to-be in-laws, and to Linda.
 
@@ -535,7 +535,7 @@ The Normandy Tribunal is home to over a hundred magi, but its expanding mundane 
 
 Normandy's rules regarding the provisioning of vis are collectively known as the Perthean Compact, after Pertheus, the magus who was responsible for drafting the first version of these Code rulings after the Schism War. The defeat of House Diedne left the vis coffers of many covenants severely depleted, and everyone sought to claim the resources left behind by the defeated House. The strife that resulted from the clash between Houses Tytalus and Flambeau (see History, above) left the Tribunal willing to accept a system that fairly distributed a dwindling resource and reduced quarrels over vis ownership. The Perthean Compact revolves around the ruling that all vis sources, whether they are exclusive access in perpetuity or a fixed term lease, belong to covenants, not to individuals. It categorizes vis sources into four types: seisins, legacies, tropaea, and luctationes.
 
-## **Normandy Tribunal Ruling: Seisins**
+## Normandy Tribunal Ruling: Seisins
 
 The Tribunal of 1025 ruled that a vis source that is within a day's return march of an established covenant of the Normandy Tribunal is considered to belong to that covenant automatically; such a source is called a seisin. A seisin recognized by the Tribunal grants its owners exclusive right of harvest.
 
@@ -579,7 +579,7 @@ source is a seisin of that covenant. This ruling superseded previous entries int
 
 Nearly every covenant in the Tribunal has a specialist called a *cursor*, or "runner," usually a highly athletic grog, whose sole purpose is to prove to the Quaesitores in a trial run that their vis source is within this range. Cursors are prized members of any covenant, and some trade them like cattle. As a general rule, assume that a fit man can cover a number of miles in a day equal to 10 + (2 x Athletics) cross country. Through untamed wilderness, the distance can be reduced by five miles per day (or perhaps more), whereas well-traveled roads might add five miles per day.
 
-## **Normandy Tribunal Ruling: Legacies**
+## Normandy Tribunal Ruling: Legacies
 
 The Tribunal of 1025 ruled that a vis source which is too distant to be declared a seisin can be made a legacy of the discoverer by a vote of the Tribunal. A legacy lease issued by the Tribunal offers a covenant exclusive rights to harvest from the source, but the terms of the lease last only seven years. The Tribunal of 1032 instituted the need for holders of a legacy lease to acquire renewal of that lease from the Tribunal every seven years at the Tribunal meeting; if the Tribunal votes against the renewal of the lease, the Tribunal takes possession of the legacy and it becomes a tropaeum instead (see below).
 
@@ -611,19 +611,19 @@ The player's magi secure an interim lease on a vis source, but do not gain a sin
 
 a day's march of the vis source (thus making it their seisin). This is how most new covenants are founded (see below for more details).
 
-## **Normandy Tribunal Ruling: Tropaeum**
+## Normandy Tribunal Ruling: Tropaeum
 
 The Tribunal of 1032 ruled that the known vis sources that were not seisins of a covenant or currently held under a legacy lease were tropaea (singular tropaeum, meaning "trophy") and owned in common by the Tribunal as a whole. Tropaea are to be distributed among the members of the Tribunal on seven-year leases by being won in the Tourney. A vis source becomes a tropaeum, and thus the property of the Tribunal, if it does not qualify as a seisin, and a petition for a legacy lease has been rejected by the Tribunal. Only vis sources that require minimal effort to harvest are eligible to become tropaea; vis sources that require effort or skill to harvest are declared luctationes (see below) instead.
 
 Tropaeum leases, like legacy leases, last from one Tribunal meeting to the next, and the holder of the lease has the same rights of exclusive harvest as the holders of legacy leases. However, a covenant that wishes to establish itself within a day's march of a tropaeum must seek the approval of the Tribunal before it does so, and if they win the vote the tropaeum becomes a seisin of the new covenant.
 
-## **Normandy Tribunal Ruling: Luctatio**
+## Normandy Tribunal Ruling: Luctatio
 
 The Tribunal of 1039 ruled that a vis source owned by the Tribunal that relies heavily on the abilities or skill of the harvester becomes a luctatio ("contest") rather than a tropaeum. The list of all luctationes owned by the Tribunal is a matter of public record and a copy is kept at Confluensis, although the method of obtaining the vis need not be detailed. Any magus can attempt to harvest this vis if he is prepared for the effort or danger that it poses, although succeeding in a luctatio does not confer any rights over that vis source in subsequent years. Like tropaea, the Tribunal's permission must be sought before establishing a covenant in close proximity to a luctatio, but it is usually marginally easier to do so.
 
 Luctationes do not cost Build Points to acquire because they do not belong to a single covenant. If a covenant does have exclusive access to a luctatio for some reason, then it is costed as a vis source with the Contested Resource Hook.
 
-## **Normandy Tribunal Ruling: Interim Leases and Plundering**
+## Normandy Tribunal Ruling: Interim Leases and Plundering
 
 The Tribunal of 1025 determined the procedure for establishing a seisin or legacy. Upon finding a vis source, the discoverer must report its location to a Quaesitor, who grants an interim lease on the vis until it can be officially declared at the next Tribunal meeting. An interim lease does not hold the same legal weight as a full lease; specifically it does not guarantee exclusivity due to the difficulty of determining which lease was granted first, and who has the stronger claim. Should another covenant discover the same vis source, it may also obtain an interim lease. Multiple leaseholders must settle the matter privately until a final ruling can be made at Tribunal.
 
@@ -658,7 +658,7 @@ Due to the scarcity of vis in the Normandy Tribunal, storyguides may wish to lim
 
 Alternatively, a new covenant can be created with one or more legacies or tropaea, vis sources that will probably pass from its hands at the next Tribunal meeting. These are bought as normal vis sources, accompanied by the Vis Lease Hook (see below).
 
-## **Minor Resources Hook: Vis Lease**
+## Minor Resources Hook: Vis Lease
 
 One of the covenant's vis sources is a legacy or a tropaeum rather than a seisin. When the lease expires, the covenant must campaign at the Tribunal to retain the lease on a legacy; or else compete in the Tourney to win the right to harvest a tropaeum. If taken for a legacy, this Hook presupposes that there is a reason why the vis source is not a tropaeum (for example, it might be newly discovered). This Hook can be taken more than once, affecting a different vis source each time.
 
@@ -674,7 +674,7 @@ Players who wish to give their magus this Hermetic Virtue should consider the Pe
 
 could be a seisin of the covenant, with and internal agreement between the magi of that covenant that the vis belongs to the character, for whatever reason. Alternatively, the vis might derive from a source outside the Normandy Tribunal, and thus not be subject to the Perthean Compact. Combined with the Dark Secret Flaw, the Virtue could be as a result of plundering an undisclosed source, with serious consequences should this be discovered.
 
-## **Normandy Tribunal Ruling: The Library of the Tribunal**
+## Normandy Tribunal Ruling: The Library of the Tribunal
 
 The Tribunal of 1081 ruled that the books owned in common by the Tribunal are available as prizes at the Tourney. Winning a book in the tournament grants exclusive access to that tome for a total of seven years; at which point it is returned to the Tribunal's store. The book store is maintained at Confluensis, and a list of the books and their
 
@@ -736,7 +736,7 @@ completed or partially completed books, vis, enchanted items, and laboratory sup
 
 Later rulings clarified that livestock and covenfolk were not afforded any especial immunity, but clearly apprentices, familiars, and magical beasts were. Further, a maga conducting a raid cannot damage the physical buildings of the covenant itself, and must not break the Code in any fashion during the course of a raid, such as putting the life of another magus in danger. The raiding maga must challenge any accompanying magi to certamen; should she lose then she must abandon her raid. If she wins, then her opponent must retreat to a distance of at least a mile, and cannot return until the sun rises. Junior magi are often assigned the duty of accompanying supplies to the covenant; this prevents the raiding party from scrying ahead and restricts the use of area-affecting magic that might inadvertently affect the escorting magus.
 
-#### **Cross-Border Disputes**
+#### Cross-Border Disputes
 
 Raiders from Rhine and Iberian covenants have both successfully conducted raids on Normandy covenants in the past, since when in Normandy they are under the jurisdiction of the Normandy Peripheral Code (Houses of Hermes: True Lineages, page 56). All that the Normandy Tribunal can do in recourse to such cross-border raids is to judge foreign magi extremely harshly if they break the Code during one of these raids, hoping that it will be a deterrent to others. Such raids have been rare up to now, and it is not considered an important issue to the Tribunal as a whole; however, those magi who live within striking distance of another Tribunal disagree.
 
@@ -753,7 +753,7 @@ The Tribunal of 1200 determined that the agents of the covenant closest to a tow
 
 *The Order and Towns* (Code of Hermes Ability summa; Quality 8, Level 4) was written by the Quaesitor Fluvius, in 1208, and is regarded in the Normandy Tribunal as the preeminent authority on mundane interactions allowed under the Code. The Tribunal rulings below are discussed in his book, along with a number of hypothetical case studies. It was partly an attempt to resolve issues that arose during the French annexation of the English lands in Northern France.
 
-## **Normandy Tribunal Ruling: Urban Covenants**
+## Normandy Tribunal Ruling: Urban Covenants
 
 The Tribunal of 1207 determined that a covenant may be sited in a town (see *Covenants*, page 11), and the normal interaction of covenant members with the townsfolk does not thereby cause ruin to other members of the Order of Hermes.
 
@@ -761,7 +761,7 @@ Further, the Tribunal of 1207 determined that a covenant may be granted a town c
 
 Many towns are governed by officials either elected or appointed under their charter (see *City and Guild*, page 13). The Tribunal of 1207 also deemed it acceptable for eligible members of a covenant to vote or hold office in a town. Whatever the town charter might state, a magus, however, is not eligible as under the Code of Hermes he cannot swear an oath of fealty to mundane authorities.
 
-#### **A Covenant Charter**
+#### A Covenant Charter
 
 Charters are granted to towns by lords. It could be a good idea for a covenant to have a grant of charter as the document formally limits the powers of mundane authorities over the covenant. A feudal lord could
 
@@ -769,7 +769,7 @@ Charters are granted to towns by lords. It could be a good idea for a covenant t
 
 make any demands he likes of a covenant without a charter, and being forced to refuse such demands may create problems for the magi. Of course, if the lord doesn't actually know of the covenant's existence (for example, it is hidden in a regio) this is not a problem.
 
-# **Implications of the Rulings on the Town Senex and Urban Covenants**
+# Implications of the Rulings on the Town Senex and Urban Covenants
 
 The senex ruling has sometimes been used to determine the ownership of unclaimed, urban vis sources when competing claims are presented simultaneously, although runners are also used for determining vis source ownership. One reason that runners are not used to determine the senex is that an attempt to resolve the original situation with runners was vetoed, with veiled threats of Wizard War, by the powerful magi of the island covenant of Fudarus. In addition, as the sound of the town's bells only carry a certain distance, a covenant can only claim senex rights in a town that is near. Of course, magic and the geography of the region could affect the distance sound can travel.
 
@@ -783,7 +783,7 @@ The Normandy Tribunal's interpretation of the parts of the Code that concern med
 
 It is vital for magi using this legal separation that their masks never identify magi, either a single covenant or unnamed members of the Order, as their sponsors. If they do so, they cease to provide protection from charges of meddling with the mundanes. Masks provide no protection from charges of depriving other magi of their power, so they cannot legally be used against the senex of a town. This traditional interpretation, which protects magi stringently and mundanes only when they strike at the Order, may be the result of centuries of Tytalan policy.
 
-## **Normandy Tribunal Ruling: Mundane Interference**
+## Normandy Tribunal Ruling: Mundane Interference
 
 There have been no specific rulings, which sets the Tribunal's policy regarding the use of agencies and masks on unstable ground. Magi who are new to the Tribunal may witness events that would be considered violations of the Code of Hermes in other Tribunals, and even by a strict interpretation of Normandy's Peripheral Code. However, there are numerous precedents that give a defendant legal standing when testing whether ruin was actually caused by his actions, and the Tribunal rarely convicts in situations where damage to a Hermetic magus cannot be unequivocally demonstrated.
 
@@ -796,7 +796,7 @@ This spell allows the caster to precisely determine the distance and direction f
 (Base 3, +1 Conc, +3 Hearing)
 
 
-#### **Further Excerpts from the Normandy Peripheral Code**
+#### Further Excerpts from the Normandy Peripheral Code
 
 871 (The inaugural meeting of the Tribunal of the West Franks.): Present are the covenants of Confluensis, Pagus, Baiocassium, Bibracte, and Sinapis (the covenants of Fudarus and Branugurix both attend the Britannian Tribunal meeting).
 
@@ -855,7 +855,7 @@ least four pawns per year, if there are fewer than four magi). Even given the sc
 
 The player covenant begins as a vassal of another covenant. They will probably eventually want to win their independence from their liege covenant; the trick is doing this without making any enemies (see Breaking Free, below). The terms of the Oath of Fealty should be clearly recorded: each contains one or more duties of service for the vassal covenant to perform, and one or more duties of protection owed by the liege covenant.
 
-#### **Typical Duties of Service**
+#### Typical Duties of Service
 
 - At every Tribunal, one quarter/one half/all the vassal magi must surrender their sigils as free proxies to a representative of the liege covenant;
 - At every Tribunal, all the vassal magi must vote as directed by a representative of the liege covenant for one/ three/five of the votes;
@@ -873,7 +873,7 @@ Depending on the terms of the Oath of Fealty, the vassal and liege could acquire
 
 For descriptions of these Boons and Hooks, see ArM5, Chapter 6, and Covenants, Chapter 2.
 
-#### **Breaking Free**
+#### Breaking Free
 
 To gain independence from a liege, a vassal covenant must either wait for its liege to default on the oath of fealty, or deliberately break it themselves, since either party can cancel the oath following a successful prosecution.
 
@@ -881,7 +881,7 @@ Example: A liege supports a vote at Tribunal that is detrimental to its vassal. 
 
 Example: A vassal wishing to free itself from infeudation refuses one of its duties of service, leaving itself open to an accusation of a Low Crime. To cancel the oath of fealty, the vassal must allow itself to be convicted and pay the fine handed down by the Quaesitores. If the liege does not wish to lose the vassal, it may decide not to prosecute the case, but this would cause it to lose face. It might instead be able to persuade the Tribunal to hand down a particularly harsh fine on its defaulting vassal, making the payment of the service the preferable course of action.
 
-#### **Typical Duties of Protection**
+#### Typical Duties of Protection
 
 - The liege must not support any action at Tribunal that is to the detriment of their vassal;
 - The liege must support any action at Tribunal that is to the benefit of their
@@ -944,7 +944,7 @@ choose to sponsor a new covenant, often consisting of the former apprentices of 
 
 The liege-vassal lines of covenants are the mainstay of the Normandy Tribunal's politics and demography. The liege covenant exerts feudal control over its vassals through oaths of fealty, and five great lines dominate the politics of the Normandy Tribunal through these oaths: Fudarus, Confluensis, Florum, Oleron, and Montverte. Two further lineages are now extinct: one — dominated by House Diedne — was extinguished during the Schism War, and the line of Sinapis was abolished soon after by the departure of House Flambeau from the Tribunal (see History, above).
 
-#### **Oaths of Fealty**
+#### Oaths of Fealty
 
 When sponsoring a vassal covenant, the liege covenant demands an oath of fealty from its vassal. Each liege covenant has a single oath sworn to by all of its vassals, which details the rights and responsibilities of the vassal to the liege and vice versa. These terms vary from liege to liege, but the basic provisions are that the vas-
 
@@ -1039,7 +1039,7 @@ must involve magical skill, is something of an exercise in diplomacy.
 
 The traditional events that are held each Tribunal are the hastiludium — a "mounted" melee fought with "spears" of magic — the certamen tournament, the joust, the great melee in which the magi with grogs try to rush their opponent team's "castles," and the House Flambeau favorite, the dimicatio.
 
-#### **Winning the Tourney**
+#### Winning the Tourney
 
 All competitors in the Tourney are graded according to the success they achieve. These points are tallied by the tournament hosts, and the Redcaps also keep tallies to ensure fairness. A team receives a starting tally equal to the number of members of their covenant, on the assumption larger covenants require greater resources. This also puts members of a coenobium and visiting teams at a disadvantage, for they are given a starting tally of one each. Further points to the tally are earned by competing in the various tournament events.
 
@@ -1069,7 +1069,7 @@ The seventh position is known as the
 
 Tradition and the rules demand there must always be an even number of teams in the tournament. The Redcaps will go to some lengths to attract visiting teams to ensure that this is so, and all teams must have registered. The hosting covenant's choice must also be declared by the summer solstice of the year preceding the event, by a Redcap-delivered message to Confluensis.
 
-#### **The Hastiludium**
+#### The Hastiludium
 
 The hastiludium begins with three members of two teams facing each other across the field, one member balanced or sitting on an object: wooden hurdles, pigs, iron cauldrons, washtubs, or other objects suiting their personal magics. Each team must choose an item as a "mount" that can be found in any peasant village, and which is no longer than a broom or wider than a beer barrel.
 
@@ -1077,25 +1077,25 @@ The two teams face each other across a field 120 paces long by 40 paces wide. Ea
 
 Each team tries to force the other magus off his "mount" using magic, and propel their own "mount" over their opponents' start line. Parma Magica may not be extended over the mounts, but both sides may freely cast magic on either mount. Inevitably, many magi are seriously injured, but tradition states that the magus responsible for the inadvertent injury must provide the vis for the healing. The winning team is the one to first get their mount and magi rider over their opponents' start line. Any magus who touches the floor is out of the contest, and the "mount" must pass over the central line of the playing area, so simply using magic to appear on the other side is not allowable. Each team plays a randomly drawn opponent in a knockout series of heats, until the final determines the winner.
 
-#### **The Certamen Tournament**
+#### The Certamen Tournament
 
 The certamen tournament works as a knockout certamen competition. Random lots are drawn for who fights whom. The older magus chooses the Technique, the younger the Form. A single champion may be freely chosen for each round by the team, allowing strategy in selection.
 
-#### **The Joust**
+#### The Joust
 
 The joust is a traditional contest of knightly warfare. Two magi, each armed and mounted, face off against one another in a field and charge together, each aiming to unhorse his opponent before he himself falls. The winner is the magus who prevails in a best of three match, and proceeds to compete against a new opponent. Some magi ride mundane horses, while others use magic to create or enhance their mounts. For example, one magus rides a giant dog familiar, another uses a flying mount, another has a mount of shadowy nothingness, and so on. The use of magic is permitted, but only to affect one's own person, mount, or weapons. The joust is the Tourney's most dangerous event — it is sometimes even deadly — and is taken very seriously by the magi. Teams compete in a knockout tournament to establish a winner, with one single magi elected as champion to participate on behalf of their team.
 
-#### **The Melee**
+#### The Melee
 
 The melee is an unusual event, in that grogs or companions are the contestants. On foot, and using only blunt weapons (damage is fatigue unless botched) they struggle for mastery of a mock battlefield. Each team creates a "castle" with a Ring/ Circle Creo Imaginem spell, spacing them equally around the field. Three grog or companion champions for each team attempt to charge across the field, and "capture" their opponent's castle by breaking that team's spell, damaging the ring drawn on the floor in the dust. The last team with a surviving "castle" is the winner. No magic may be employed, and owing to the importance of cursors (see Normandy Tribunal Ruling: Seisins), rapid running and attempted grappling is much more common than violence. Fast grogs often try to slide past the defenders and bring down the spell, while the defenders try to block or grapple them down. Physical combat is allowable, but teams whose grogs seriously injure an opponent's grog forfeit the contest, receive no points, and are heavily fined in vis. This is a recent addition to the Tourney, and unpopular with conservative magi who detest a non-magical event being allowed.
 
-#### **The Dimicatio**
+#### The Dimicatio
 
 The dimicatio is an event common at House Flambeau events. It is unrelated to standard certamen. Each side selects a single champion to participate. The competitors try to cast real spells at one another using the forceless casting option, which is deliberately casting spells with penetration at zero. Each magus uses a fast-cast defense (ArM5, page 83) to try to block the opposing spell. The first magus whose spell reaches his opponent's Parma is the winner.
 
 Needless to say, this contest carries substantial dangers (though perhaps no greater than those a mundane knight faces when jousting with a blunted lance). Aimed spells that bypass Magic Resistance are strictly forbidden. The contest is always conducted under tightly controlled conditions in front of a referee and many spectators. The referee uses an Intellego Vim spell such as Sight of the Active Magics to determine the winner. If a magus' spell actually penetrates his opponent's Parma Magica, this is taken as foul play and he is likely to be immediately charged with a Hermetic crime. The rules of the contest permit any spell that directly targets one's opponent – and the higher the level of the spell, the harder it is to defend against. Ball of Abysmal Flame is a real crowd pleaser. Some magi prefer to limit themselves to non-lethal spells in case some mishap causes their spell to penetrate their opponent's Parma Magica.
 
-## **The Hosting Covenant's Choice**
+## The Hosting Covenant's Choice
 
 The Hosting Covenant's Choice varies each time. It must be a true test of magical ability, but beyond that may take any form.
 
@@ -1109,7 +1109,7 @@ The 21st position, the Siege of Alms, is a consolation prize. Around 24 teams us
 
 Any covenant achieving one of the named ranks in the Tourney has an appropriate Hermetic Reputation of level 2 for the next seven years.
 
-#### **Tourney Prizes**
+#### Tourney Prizes
 
 Prizes are selected immediately after the results are announced, in strict rank order. In order to avoid the winning teams selecting all the choice prizes, each team is initially allowed to choose at most one single tropaeum or lump sum of vis of one Art, plus one single book or item. These selections proceed in rank order, until every team has taken something. Those teams with prize pawns yet unspent then get to pick again, in rank order, until all teams have taken their allocation of prizes. They are held until the next Tourney. Failure to return a prize invariably results in charges being brought and disqualification from the next tournament.
 
@@ -1190,7 +1190,7 @@ The eastern part of the duchy is somewhat softer, drier, and more affluent than 
 
 The northern coast, adjacent to the sand and mud flats around Mont St. Michel at the Normandy border (see Chapter 5: Normandy), is low lying and often marshy.
 
-#### **Mount Dol**
+#### Mount Dol
 
 Mount Dol, a granite outcrop, dominates the area although only 210 feet in height. It was a sacred place to the Gallic druids. Branugurix, domus magna of House Diedne, was here, concealed in a regio (see Chapter 3: Hermetic Culture, Hermetic Landscape). Most Christians keep away from the mount. They tell a story that St. Michael fought the Devil here, casting him down with such strength that the indentation made by the impact and the scars left by his claws are clearly visible on the north side of the mount. Close
 
@@ -1212,17 +1212,17 @@ by is the cleft made by the saint's sword and into which he thrust his opponent.
 
 The small town of Dol stands on a cliff on the southern edge of the marsh. Construction of a fortified cathedral dedicated to St. Samson is in progress here. South of Dol is the menhir of Champ-Dolent (Field of Pain), 30 feet high with a roughly square base and tapering towards a point; it marks the place where the final battle of the Schism War took place.
 
-#### **St. Malo**
+#### St. Malo
 
 The coast from the western edge of the marshes to St. Brieuc Bay is rugged, rocky, and inhospitable. High cliffs shelter a few small beaches. St. Malo is a small port on the eastern side of the point where the flooded valley of the River Rance flows into the sea. It is close to the settlement of Aleth, where the Welsh St. Maclou converted the local Gauls in the sixth century. The town was extended toward the sea and fortified to defy Viking invasions. When its Church of St. Vincent became the seat of a bishop in 1144, the new town at the point adopted the name of St. Malo, while Aleth took on a dedication to St. Servan.
 
 At the base of the first rocky promontory west of the mouth of the Rance is a cave inhabited by a siren. She guards a natural bridge between the cliffs and Décollé Point but no one has yet discovered why she protects the point. Along the coast, overlooking the estuary of the River Arguenon, are the Singing Stones. Imaginem vis may be harvested here from the metallic sound produced when the pile of rocks is struck in the right way using a stone of the same sort.
 
-## **Dinan and the River Rance**
+## Dinan and the River Rance
 
 Dinan, at the southern end of the River Rance, is a small port. A crusading knight erected the Basilica of St. Savior here in the 12th century, to fulfill a vow made concerning his safe return from the Holy Land. The building exhibits elements of eastern architecture otherwise unknown in this part of the world. A short distance upriver, at Léhon, is a castle and the Benedictine monastery of St. Magloire, which was founded in 850 by King Nominoé. The original building was badly damaged by Vikings but was rebuilt soon afterward, and has recently been extended by Geoffroy of Corseul in the new style. About five miles to the west is Corseul itself, site of a Roman settlement, where stand the remains of a temple of Mars. The site has a Magic aura of 3. All that is visible are the walls of a round building of thin Roman bricks, reaching higher than the surrounding treetops. Inside the walls, if one can penetrate the regio boundary, the building is intact and has a Magic aura of level 6.
 
-#### **Lamballe and St. Brieuc**
+#### Lamballe and St. Brieuc
 
 Following the river inland leads deep into the forested hills of Hunaudaye, were streams run in deep ravines and granite boulders lie scattered among the trees. The only trade route through the forest runs between Rennes and St. Brieuc, passing through the town of Lamballe. Lamballe is the seat of the Baron of Penthièvre and has a church to Our Lady and the Priory of Marmoutier. St. Brieuc lies close to the coast on a plateau cut by the rivers Gouet and Gouëdic. It is a small port with a weekly market and two annual fairs. It contains St. Stephen's Cathedral and St. Broch's fountain, beside which the saint lived. Once a week, when leaving the cathedral on a Sunday after attending Mass, a character may dip his right hand into the fountain and devoutly make the sign of the cross to gain a Blessing that gives a temporary change to a Personality Trait by one step, to a maximum of +3 or –3. The trait affected by a negative step is that most likely to lead to sin, and that affected by a positive step is the trait most likely to lead to goodness. The blessing lasts until sunset. (See *Realms of Power: The Divine*, page 51.)
 
@@ -1230,14 +1230,14 @@ Following the river inland leads deep into the forested hills of Hunaudaye, were
 
 In the center of the region is Rennes, a small city noted for its resistance to Normandy and currently the capital of the duchy. Inside the walls lies a church dedicated to St. Peter, founded in the sixth century on the foundations of a Romano-Gallic temple, and the Abbey of St. Mélaine. The town is sited on the River Vilaine, which flows southwest between red stone hills. Along the valley is the village of Pléchâtel, close to which are some well hidden caves with a low-level Magic aura and an ancient oak tree, which yields vis in the form of a few unusually large acorns. Further long the narrow valley, the village of Langon stands on terraces on the hillside. It has a church dedicated to St. Peter and a chapel to St. Agatha. The structure of the chapel incorporates walls of what was in former times a Romano-Gallic temple to Venus. The group of standing stones on the moorland close by is related to the temple site. It comprises some 30 standing stones known as the Young Ladies. The local legend is that the young women preferred dancing on the moor to attending vespers and so were turned to stone by God. But the origin of the stones is ancient, being associated with the fate of the women who served at the temple.
 
-#### **Fougères**
+#### Fougères
 
 The town of Fougères lies northeast of Rennes to the extreme east, at what was for so long the border between Brittany and France. A strong castle stands on a spit of land beside the winding River Nançon, be-
 
 
 tween two towering rock faces and overlooked by the town that clings to the steep slopes above it. It is the home of the local baron. It was one of these, Raoul II, who led a band of rebellious Breton nobles against the takeover by Henry II of England. His castle was demolished in the three-month siege that brought the opposition to an end, but Raoul survived and started rebuilding at once. A chapel in the town contains a statue of Our Lady nursing the infant Jesus; some mothers who pray here receive miraculous help. The forest surrounding the town contains an unusually large number of megaliths,
 
-#### **Faeries' Rock**
+#### Faeries' Rock
 
 even for Brittany.
 
@@ -1247,18 +1247,18 @@ Southeast of Rennes, in the forest and half way to the Normandy border, is Faeri
 
 To the west of Rennes and the Vilaine lies the extensive, mysterious, and dangerous Forest of Brocéliande. Most of the forest has a Faerie aura of level 2 and there are places where it is considerably higher. A small monastery has been established at Paimpont, within the forest, to counter the other influences at work here, but they are making little headway.
 
-#### **The Fountain of Youth and the Stone of Merlin**
+#### The Fountain of Youth and the Stone of Merlin
 
 In the heart of the forest is the Fountain of Youth, a natural spring ringed with stones. Washing one's face in the water of the spring itself can make the skin of an elderly person appear less marked and wrinkled for a few hours, but as yet no one in the Order has discovered how to prolong or otherwise take advantage of this property, which is a faerie glamor effect. Here the wizard Merlin came seeking solitude, but he met the fairy Viviane, known as the Lady of the Lake, and fell in love with her. Before long she tired of him and, to put an end to his attentions, she put him into a deep sleep. Many believe he is still there, asleep, under the nearby pair of rock slabs called the Stone of Merlin. It is said that if you let fall a drop of water from the fountain onto the Stone of Merlin, the water changes to vapor and the air becomes thick with shadows and the rumbling of thunder. This is probably the first step in the ritual necessary to gain access to the Faerie regio where Merlin may be sleeping still. The glade containing fountain and stones has a Faerie aura of level 5. A magus on the Path of Aging may drink from this fountain in the second quest (see *Guardians of the Forests: The Rhine Tribunal*, page 38).
 
 
-## **Lake Comper and the Joyous Garden**
+## Lake Comper and the Joyous Garden
 
 Not far away, in the depths of the forest, is Viviane's home, Lake Comper. This is where Merlin conjured for her the Joyous Garden and the Crystal Castle filled with faerie knights, ladies, and maids. Legend tells that she raised Sir Lancelot here. It is probable that Viviane still lives there, within the Faerie regio that hides her estate. Research has indicated that it may be possible to find and enter this regio during the night before Midsummer's Day. However, considering Viviane's past treatment of suitors and powerful magicians, senior magi might run the risk of being detained by her, and a character with Curse of Venus is heading for trouble. The lake itself provides up to 5 pawns of Aquam vis in normal years, but in years of drought a local priest journeys here and dips a cross into the water to bring rain, which will prevent any vis being harvested that season.
 
 Around four miles south of Comper, near the village of Beignon, is the Bridge of Secrets where it is said that Sir Lancelot and Queen Guinevere first kissed. The consequences of this betrayal suggest that there may be Perdo vis available here on the anniversary of the event, if the right way to harvest it can be discovered.
 
-## **Barenton and the Valley of No Return**
+## Barenton and the Valley of No Return
 
 The Fountain of Barenton is about four miles west southwest of the Fountain of Youth. Stories say that water from the fountain, if splashed on a stone here known as Merlin's Step, summons wild storms and a ferocious knight clad in black armor. The fountain was sacred to the druids and is a source of Vim vis, treated as a tropaeum.
 
@@ -1332,19 +1332,19 @@ Size (human form): 0
 **Appearance**: A hunchbacked manikin about three feet tall with cat's claws on its hands and goat's hooves for feet.
 
 
-#### **Bréhat and the Seven Isles**
+#### Bréhat and the Seven Isles
 
 The two Bréhat Isles lie off the easternmost point. They have a Magic aura of level 4. They are each about a mile along and across, though the outline of both is very indented, and where they are closest to each other, the gap is very small. They enjoy an unusually mild climate and little rain. There are cliffs of pink rock on the northern, more rugged isle, lower shores of pink and gray sand and shingle along the east, and all around waters changing through many shades of blue and green around pink rocks that are only exposed at low tide. At the furthest extremity from the mainland is a deep chasm in the cliff. Once a year, a maiden may toss a pebble down here. If it lands directly in the water without touching either side of the chasm, she will be married within the year, otherwise she must wait for a husband as many years as the stone bounced. There is Intellego vis in the thrift plants that cling to the side of the cleft here and up to 5 pawns a year may be gathered, but to take more than 3 ruins the predictions for several years to follow.
 
 The Seven Isles is an archipelago off the east side of Trégastel Head, toward the western end of this stretch of coast. It is far enough from the mainland to be disturbed only by seabirds that nest on the high cliffs, and seals that live on the rocks below. The clear waters are home to feathery weeds and many colorful sessile creatures, which typically yield 6 pawns of Herbam vis and 5 of Animal vis each year, plus eels, crabs, lobsters, and crayfish. The archipelago has a Magic aura: one isle with level 4, one with 3, two with 2 and three with 1.
 
-#### **Mainland Armor and Argoat**
+#### Mainland Armor and Argoat
 
 About half way along this north-facing stretch of coast is Tréguier, set on terraces along the sides of the River Jaudy and River Guindy, with its Church of St. Tugdual. Further on, the coast turns to form the northern-most part of Brittany, as a series of massive rocky headlands divided by deep clefts. A dolmen lies on the largest of the islands close to this stretch of coast. The rocks there are blue rather than pink because a giant dragged the whole isle here from southwest Wales long ago.
 
 The Dolmen of Kerguntuil, believed to be a petrified giant, stands on a hilltop overlooking a west-facing stretch of the Trégastel headland. A Diedne covenant named after the giant was founded here in 920 and was obliterated in 1007 (See Chapter 3: Hermetic Culture, Past, and Present Covenants of the Normandy Tribunal). The members of Kerguntuil were particularly interested in the many Breton tales about giants, and many of their covenfolk were larger-than-average humans. It is rumored that a Quaesitor suggested to the Templars that they build along this coast to cleanse the region of the diabolic taint of the Diedne. They constructed a round chapel at Lanleff in the 11th century and, in the 12th, built Brélévenez Church at Lannion, a small town on the River Léguer. Quellen Marsh, covering 55 acres, lies behind dunes to the north of the Léguer estuary.
 
-#### **Yaudet**
+#### Yaudet
 
 Local people report that, on the south side of the estuary, at a rounded hilltop overlooking the sea called Yaudet, they have sometimes caught sight of strangely dressed men and women. The hummocks and ditches mark the site of a Romano-Gallic settlement and locals occasionally stumble into a regio there. A little further round the coast, at Plestin-les Grèves, are the remains of a Romano-Gallic bathhouse. There is a more reliable entrance to the Yaudet regio there, in the alcove where, according to the inscription on the wall, a statue of Teutates, or Mars, once stood.
 
@@ -1423,11 +1423,11 @@ Long-Winded, Sharp Ears, Reckless
 
 **Abilities:** Athletics 3 (distance running), Awareness 3 (keeping watch), Brawl 3 (bite), Hunt 4 (track by scent)
 
-#### **Natural Weapons:**
+#### Natural Weapons:
 
 The weapon statistics for a dog's bite are Init 0, Atk +3, Def +1, Dam +1.
 
-#### **Powers:**
+#### Powers:
 
 *Fearsome Bark*: 1 point, Init 2, Animal or Mentem; as the spell *Panic of the Trembling Heart* but with Range Voice.
 
@@ -1506,7 +1506,7 @@ Fudarus currently has two vassals, one of which is also found in Brittany. This 
 
 #### It is a matter of chance which Primus is informed of the presence of visitors, and therefore which Primus sets the challenge of passage. Challenges are assigned according to the abilities of the magus requesting entrance; to be set a task that is too easy is a subtle insult of the kind appreciated by Tytali, and indicates the type of reception the visitor is likely to receive. Conversely, a difficult challenge is a compliment, and a visitor who fails the challenge but comports himself well in meeting it may still be invited into Fudarus.
 
-#### **Bulliste's Challenges**
+#### Bulliste's Challenges
 
 Buliste's challenges are most often of a philosophical or overtly magical bent:
 
@@ -1515,7 +1515,7 @@ Buliste's challenges are most often of a philosophical or overtly magical bent:
 - Cast an unknown ritual spell from a casting tablet without falling unconscious;
 - Open the main gate of Fudarus without moving a muscle.
 
-#### **Harpax's Challenges**
+#### Harpax's Challenges
 
 Harpax's challenges are usually of the physical kind:
 
@@ -1532,7 +1532,7 @@ For the last twenty-five years, Harpax and Buliste have been the only magi who l
 
 A covenant sponsored or favored by Fudarus may receive a "gift" of some of its grogs. The Lesser Malediction that they suffer with regards to blindness to certain colors can be an annoyance, but anyone who knows their weakness (such as Fudarus itself) can exploit it to lethal effect.
 
-## **Prima Buliste of House Tytalus**
+## Prima Buliste of House Tytalus
 
 **Age**: 84 (Apparent age mid-60s) **Personality Traits**:
 
@@ -1542,7 +1542,7 @@ Buliste filia Bulcis was Prima of House Tytalus for twenty years before she suff
 
 Buliste is a woman apparently in her sixties, of regal mien and corpulent yet not obese physique. She wears rich clothes of violet satin and white Breton lace. She has very expressive features, and the most obvious of several Twilight scars is that her kindness and her anger are both palpable — one gentle, the other painful.
 
-## **Primus Harpax of House Tytalus**
+## Primus Harpax of House Tytalus
 
 **Age**: 70 (Apparent age early 50s) **Personality Traits**:
 
@@ -1560,7 +1560,7 @@ Fudarus owns two magical items that are of particular note, for as well as contr
 
 The Rod of the Primus is used to control the physical environment of the covenant. It has a number of powers that are all tied to making any particular room a pleasant or uncomfortable place to be in. What is more insidious is that the rod can cause these effects to trigger at the presence of a particular person, so that every room that someone enters is freezing cold or plunged into darkness. The rod is owned currently by Primus Harpax.
 
-## **Control Environment of Fudarus**
+## Control Environment of Fudarus
 
 Variable Technique, Form, and Level Pen: 0, unlimited uses per day R: Touch, D: Conc, T: Structure
 
@@ -1578,7 +1578,7 @@ The rod has six similar enchantments that use the same spell parameters, but hav
 
 The Circlet of the Primus commands the spiritual servants of the covenant. Although they can rarely be detected, every room has several invisible spirits within it that perform the simple, menial tasks of the covenant. The servants normally perform whatever task to which they were last set, and the wearer of the circlet is the only individual who can change the commands of a spirit. Prima Buliste currently wears the circlet.
 
-#### **Control Spirit**
+#### Control Spirit
 
 Rego Vim 55 Pen: 20, unlimited uses per day R: Arc, D: Conc, T: Ind.
 
@@ -1616,7 +1616,7 @@ Seeking membership of the Cabal of the Leaden Cart (see Sagas: Plots of House Ty
 
 #### The Lion and the Lily
 
-#### **Adanos Lutorum of House Tytalus**
+#### Adanos Lutorum of House Tytalus
 
 **Age**: 57 (Apparent age 41) **Personality Traits**: Humorless +2, Unswerving +3, Loyal to Harpax +3
 
@@ -1625,7 +1625,7 @@ Adanos bears the blood of an earth spirit, and has a strong affinity for soil, s
 
 a crushing blow once she is exhausted.
 
-#### **Kybella of House Tytalus**
+#### Kybella of House Tytalus
 
 **Age**: 68 (Apparent age 48) **Personality Traits**: Loyal to Buliste +3, Suspicious +1
 
@@ -1689,7 +1689,7 @@ In the sixth century, Gradlon was King of Cornouaille and his court was based in
 
 their eastern end, and is the only sizable settlement for miles around. It grew up in Roman times where seven roads meet, and was named Vorgium. Further east is Bulat-Pestivien, where there are healing springs, and Burthulet, a desolate place said to be so frigid in winter that a demon died of cold there.
 
-## **Corong and Toul Goulic Gorges**
+## Corong and Toul Goulic Gorges
 
 At the Corong Gorge, a river disappears beneath a mass of rocks and flows out lower down in a series of cascades. Toul Goulic Gorge, where another river disappears beneath tumbled rocks, lies further east. Each is home to a temperamental genius loci (see *Realms of Power: Magic*). The pair has been locked in a feud for so long that neither knows why it started. The river owned by the one with the upper hand flows above ground. Both would be glad to end the fight and would reward anyone who can accomplish this without either appearing to back down.
 
@@ -1701,19 +1701,19 @@ Inland, this region comprises low, forested plateaus broken by numerous rivers t
 
 The most striking coastal feature is the almost land-locked Gulf of Morbihan, fringed with mud and salt marsh and scattered with a great many small, low islands. It is about 12 miles across and reaches nine miles inland. Peter Abélard, the renowned philosopher and theologian, retreated to St-Gildas-de-Rhuys, a monastery founded by St. Gildas in the sixth century and situated on the southern arm protecting the Gulf of Morbihan. He found it a wild place beset by dangerous animals, the language strange and horrible, and the monastic community unruly (see insert in Chapter 7: Ile de France, Abélard and Héloïse).
 
-#### **Tumiac Tumulus**
+#### Tumiac Tumulus
 
 The decisive battle between Julius Caesar's troops and the strongest tribe of Gauls, the Veniti, took place to the southeast of this stretch of coast. Over two hundred Gallic sailing vessels and some great Roman galleys met as Caesar looked on from his vantage point on the Tumiac Tumulus, on the arm of land round the southern side of the gulf. It is highly likely that interesting artifacts still lie on the ocean bed.
 
-#### **Gavrinis Tumulus**
+#### Gavrinis Tumulus
 
 A more interesting tumulus is that named Gavrinis, on an islet not far from the mouth of the gulf. It is a small hill about 20 feet in height made of stones piled over a covered passageway that leads to a chamber. Both passage and chamber are roofed with huge slabs standing on large supporting stones decorated with carvings of serpentine spirals, cup shapes, and rings. The chamber is constructed of eight huge slabs of a dark, fine-grained rock not native to the area. It has an evil reputation, with rumors circulating of dark magic practiced in here in the past, but it has a Faerie aura of level 3 and under the right circumstances acts as a gateway to a dark Faerie realm. On the isle of Er Lanic, just to the south of Gavrinis, stand stones in the shape of a figure eight, one circle of which is submerged at high tide; a Magic aura of level 5 covers the immediate area.
 
-#### **Rhuys' Megaliths**
+#### Rhuys' Megaliths
 
 Toward the end of the Rhuys peninsula, the arm of land that forms the west side of the Gulf of Morbihan, at Locmariaquer, is an outstanding assemblage of ancient stone monuments. The greatest of them, originally over 60 feet in height, stands broken in two. The stones, known locally as the Merchants' Table, are decorated with carvings of crooks and one ox, so the place is likely associated with ancient animal magic. Also in this vicinity, Er-Grah, Mané-er Hroech, Mané-Lud and Mané-Rethaul, Kerlud, and Flat Stones are other dolmens of immense dressed stones, many carved. Most take the form of a covered passage leading to a large chamber and were probably the homes of giants.
 
-#### **Quiberon**
+#### Quiberon
 
 An elongated island, Quiberon, which is separated from the mainland only at high tide, has dunes on the north end, a stretch of rocks, cliffs, caves, and reefs where the sea pounds savagely along the oceanward western side, and wide, gently curving sand beaches on the sheltered eastern side. A stone called Roh-en-Aod, situated at the north end of the western cliffs, has five cup-shaped indents, which, if tapped with hammers at night by women, will ensure favorable winds for their husbands' boats. Auram vis can be obtained here, but only by females. Almost half way along the eastern side of Quiberon stand 22 menhirs in rows.
 
@@ -1721,7 +1721,7 @@ An elongated island, Quiberon, which is separated from the mainland only at high
 
 Two menhirs stand on a gorse-clad moor towards the north of Belle-ile, one of pale granite and one of darker schist. They are named Jean and Jeanne, and are the petrified forms of a young, betrothed couple who could not wait until they were wed. A suitable Hermetic ritual could free them from the enchantment. Once returned to flesh, the pair are keen to join the covenant since the world they knew is long gone. The woman is pregnant and her child is due three months after the petrification ends. The child is Gifted and has a close affinity with Terram magic.
 
-#### **Belle-ile**
+#### Belle-ile
 
 The largest Breton island, Belle-ile, is five miles out to sea from Quiberon. It is a schist plateau cut deeply by fast-flowing streams that end in creeks or small beaches, and is frequently swept by strong winds and rain from the west. Trees only grow in sheltered spots. On the southwest coast at Port-Goulphar, in the clear waters in a deep, sheltered chasm, brightly colored algae collects on the rocks; this is an unusual form of Herbam vis. A little further along the coast, at rocks called the Needles, the turbulent waves generate a great deal of foam that is a source of Aquam vis.
 
@@ -1817,7 +1817,7 @@ Korrigan, faerie creatures, but their wickedness corrupted them and today they a
 
 The largest urban settlement, Vannes, stands on the River Marle, close to where it flows into the Gulf of Morbihan. It was Nominoé's capital of the kingdom of Brittany in the ninth century. The cathedral in Vannes is dedicated to St. Peter. Inland are the Lanvaux Moors, a crescent of largely bare, hard, flaking rock dotted with megaliths. The town of Ploëmel lies beyond the inland side of these rocky hills. It was founded by St. Arthmael, who defeated a dragon here, and to whom the main church is dedicated. Northeast of Ploëmel is the petrified Giant of Kerderf and an isolated pillar named for St Cado, which women wishing to conceive a child rub their bodies against. It is a source of Creo vis, and possibly also a link to a form of magic that can overcome the sterility brought on by longevity rituals. The pillar would be of interest as a source of insight into fertility cult practice (see *Ancient Magic*, page 54).
 
-## **The Statues of Josselin and Castennac**
+## The Statues of Josselin and Castennac
 
 The castle of Josselin is to the west, on the banks of the River Oust. A wooden statue of the Virgin Mary was once discovered near Josselin, in a bramble bush. One day, a scruffy beggar woman came to the village asking for water, but the local women drove her off, sending their dogs to chase her away. At once, their cruel shouts turned to dog-like howls. It was Our Lady in disguise, who had come to test their charity and found it lacking. Every year, at the feast of Pentecost, the local women must beg forgiveness in front of the wooden statue or else the curse will return.
 
@@ -2134,7 +2134,7 @@ its magi live in considerable luxury.
 
 There are five elder magi who constitute the inner council. Traditionally, and currently, it is dominated by magi of Houses Flambeau and Tremere. The number and composition of the junior magi is left for the storyguide to determine, but it is suggested that they number between four and six; the covenant is especially suited to magi of Houses Tremere, Flambeau, Bonisagus, Verditius, and Jerbiton. There is likely a resident Redcap.
 
-#### **Geirlaug of House Flambeau**
+#### Geirlaug of House Flambeau
 
 Age: 150? (Apparent age mid-60s) Personality Traits:
 
@@ -2148,7 +2148,7 @@ Geirlaug does not attend council in person; instead she appears in a great mirro
 
 of Oleron, resulting from an ancient insult hurled by its former leader many decades ago, and an antipathy towards the other lieges. The covenant's dealings and enemies reflect these prejudices.
 
-#### **Thormod of House Flambeau**
+#### Thormod of House Flambeau
 
 Age: 87 (Apparent age 48) Personality Traits: Scheming +2, Tidy +2, Emotional –3
 
@@ -2156,7 +2156,7 @@ Thormod, filius Geirlaug, is in many ways the complete opposite of his mater. He
 
 Unlike the other council members, Thormod appears to be utterly untroubled by the erratic behaviour of Geirlaug, and demonstrates absolute confidence in her leadership. If anyone knows her true state of mind, then it is her filius. But if he does know, he's certainly not saying anything.
 
-#### **Eduardus of House Tytalus**
+#### Eduardus of House Tytalus
 
 Age: 67 (Apparent age 43) Personality Traits (persona of Edward):
 
@@ -2191,7 +2191,7 @@ The inner council of Montverte has cultivated an alliance with the pirate magi o
 
 **Reputations:** Tourney Champion 4 (Hermetic), Overbearing and Violent 2 (Local)
 
-#### **Combat:**
+#### Combat:
 
 *Mace and heater shield (mounted)*: Init –2, Attack +15, Defense +13, Damage +10 *Mace and heater shield (on foot)*: Init –2, Attack +12, Defense +10, Damage +10
 
@@ -2213,7 +2213,7 @@ The inner council of Montverte has cultivated an alliance with the pirate magi o
 
 **Encumbrance:** 2 (4)
 
-#### **Spells Known:**
+#### Spells Known:
 
 *Piercing Lance of Bone* (CrAn 20/+25), Mastery 2 (Penetration, Fast Casting) *Soothe Pains of the Beast* (CrAn 20/+23) *The Wizard's Mount* (CrAn 20/+24), Mastery 1 (Multiple Casting)
 
@@ -2255,7 +2255,7 @@ he is indistinguishable from the real Eduardus, about whom very little is known.
 
 Eduardus is one of the few members of the purple Fideli, backing Buliste as the true Prima of House Tytalus. He is a proponent of the Hippian school of thought (see *Houses of Hermes: Societates*).
 
-#### **Runild of House Tremere**
+#### Runild of House Tremere
 
 Age: 64 (Apparent age 43) Personality Traits: Oblivious to Mundanes +3, Catlike +2, Inquisitive +1
 
@@ -2299,7 +2299,7 @@ Chinon, on the banks of the River Vienne, was a favorite residence of Count Henr
 
 aries lies the Forest of Chinon. It was at Chinon that Henry died in 1189, and John, his son, married Isabelle of Angoulême here in 1200. The Treaty of Chinon, signed in 1214, gave the city to Philip II.
 
-#### **Tavant**
+#### Tavant
 
 Six miles upstream, at Tavant, vivid paintings of astonishingly life-like figures decorate the inside of a small church. Christ in Majesty adorns the ceiling of the apse, but the paintings in the crypt are less obviously religious. The people depicted to either side of the crypt entrance hold lilies. The church is also decorated with fine carving, including griffins, sirens, a monster with two bodies, and a tree with a serpent. This building is all that remains of what was once the powerful covenant of Sinapis. Founded in 855, it spawned several vassals including Aedes Salii, Lapis Crudus, and Rothomagus (See Chapter 3: Hermetic Culture, Past and Present Covenants of the Normandy Tribunal). Following the conflict between House Tytalus and House Flambeau, it was abandoned in 1063 as its members left for Provençal and Iberia. Ignorant of its past, a parish that was too poor to build a stone church took advantage of the existing structure. The residual Magic aura can only reassert itself when the Dominion aura is at its weakest.
 
@@ -2330,11 +2330,11 @@ Southwest of Tours, on the banks of the River Indre and around the village of Az
 
 ## Famous Men of Tours
 
-#### **Saint Martin**
+#### Saint Martin
 
 For details of this saint, see *Realms of Power: The Divine*, pages 79 and 90. In 371, Martin was living as a hermit near Poitiers but was tricked into visiting Tours. As he neared the city, he heard the shouts of a great crowd assembled to welcome him as their new bishop. He did not want this honor so hid, but a flock of geese honked so loudly that he was quickly found. He then accepted the role and served as bishop for 26 years, although he chose to live simply in a monastery by the city gate, at Marmoutier, during this time.
 
-#### **Gregory of Tours**
+#### Gregory of Tours
 
 In 563, Gregory was miraculously cured when praying at St. Martin's tomb. He stayed in the city and became the bishop there in 573. He wrote books on history and theology including:
 
@@ -2346,7 +2346,7 @@ In 563, Gregory was miraculously cured when praying at St. Martin's tomb. He sta
 
 *On the Courses of the Stars:* Tractatus, Artes Liberales (Astronomy) (Quality 6); Tractatus, Church Lore (Quality 12). A commentary on the psalms with details of how to use the position of the stars to determine the time when the night office should be sung.
 
-#### **Alcuin of York**
+#### Alcuin of York
 
 When he retired from his post as adviser on education at the court of Charlemagne in 769, Alcuin became abbot at St. Martin's Abbey in Tours. There he established a school teaching Artes Liberales and developed a highly productive scriptorium, which still flourishes.
 
@@ -2357,19 +2357,19 @@ About six miles northwest of Tours, deep in the forest, is the Faeries' Cave, a 
 
 A fortified monastery was built here in the 9th century for the relics of St. Florent, and a town grew up around it. It was fought over by the counts of Blois and Anjou and, perhaps in memory of the conflict, tournaments are held here during the last week in July. The castle has been damaged and rebuilt repeatedly, most recently following conquest of the town by Philip II in 1203.
 
-#### **Gennes**
+#### Gennes
 
 Downstream of Samur, at Gennes, is a Roman amphitheatre. There is a small Magic regio close beside this, where several nymphs live in a Gallo-Roman shrine. They will happily talk to visitors about the water cult that gave them honor in Roman times, and may give gifts of Aquam vis to those who amuse, honor, or serve them. However, male visitors might have trouble leaving the regio since the attractive and attentive nymphs are very persuasive and loathe to part with male company.
 
-#### **Dolmen of Bagneux**
+#### Dolmen of Bagneux
 
 The forests covering the hills around the town hide many menhirs and dolmens. The Dolmen of Bagneux, the largest in the region, is a chamber 66 feet long and 23 feet wide, formed by 16 vertical slabs supporting a roof of four flat rocks, with one central rock pillar. This has a low Magic aura, as do many of the other megaliths that are far enough away from Dominion influence.
 
-#### **Fontevraud**
+#### Fontevraud
 
 Upstream, at Candes-St-Martin, a chapel marks where the saint died. It has its porch on the north side, towards the river where pilgrims arrive. South of here is the Abbey of Fontevraud, where the Plantagenêt family tombs are. It was founded in 1100 by an ascetic hermit who lived in the woods and gathered about him both men and women. He insisted that the foundation should continue to house both sexes and be under the rule of an abbess. The post is usually held by a member of an Angevin noble family. The abbess guides six communities that live close together but independently, for priests, lay brothers, contemplative nuns, lepers, invalids, and lay sisters. Eleanor of Aquitaine spent the last ten years of her life here and was buried here in 1204.
 
-#### **Doué-la-Fontaine**
+#### Doué-la-Fontaine
 
 Southwest of Samur, at Doué-la-Fontaine, is an exposure of rock that contains Creo vis and has the power to preserve flesh. During the Merovingian dynasty, thousands of stone sarcophagi were carved out here, but the properties of the stone have been forgotten. To the south, at Le Puy-Notre-Dame, is a church much larger than needed for the local population, but which is a stopping point on the pilgrim route to Santiago de Compostela. It houses the Girdle of the Virgin, an aid in childbirth, brought here from Jerusalem not long ago. This relic has a Faith score of 1.
 
@@ -2400,7 +2400,7 @@ The most extensive of the Vendée marshes covers over 80 square miles. The coven
 
 The coast to the south of the pine-forested dunes, which hold the sea back from the marsh, is rocky and rugged. A demon is trapped in a cave, well below sea level, in the cleft at the far end of one of the rocky promontories. As the waves break and the sea surges up the cleft, his frustrated wailing can be heard and, at high tide when the wind blows strongly, he bellows loudly and shows his anger by sending great explosions of spray up over the cliffs. Longer ago than anyone living here can recall, the sea surged over the low-lying land. The desperate people prayed and St. Hilary came to their aid. He found that a demon was causing the floods, captured him, and drove him down beneath the waves.
 
-#### **Noirmoutier**
+#### Noirmoutier
 
 The island of Noirmoutier lies off the coast just south of the Loire estuary. It is low lying and marshy in the center, while the southern part is elongated toward the mainland. A dangerous current limits crossings at this point. The isle has a Magic aura of level 3. A sheltered beach on the northwest coast, where the aura rises to 5, was sacred to Gallic druidesses and still has a reputation that keeps most people away. A covenant on this island would benefit from the wealth of seafood available and could gather and sell salt from the marshes.
 
@@ -2581,7 +2581,7 @@ This covenant's traditions are a curious mixture of historical chivalry and cont
 
 The covenant is ruled by a faerie queen, her magus consort, and his council of advisers, which includes most of the covenant's magi. The inhabitants of the covenant are a mixture of humans and faeries, gathered together from a multitude of cultures and times. Faeries have been spiriting people away to the Apple Isle for thousands of years. Human abductees, faerie versions of these humans, and the descendants of these humans, mix under the distorting influence of the ascending queens, maintaining an eclectic, colorful culture.
 
-## **The Queen's Champion and the Challenges**
+## The Queen's Champion and the Challenges
 
 The consort of the faerie queen, who embodies the realm, rules the Apple Mile. The right to act as consort is won by defeating the previous champion in a contest of arms at the entrance to the regio on Midsummer's Day. The challenger drives an axe into one of the apple trees that surround the site, a desecration of which the faerie queen is immediately aware. The champion must confront the challenger before sunset on the following day, or the link between the mortal realm and the Apple Mile will fail, a detail known only to magi within the covenant and a handful of outsiders.
 
@@ -2594,7 +2594,7 @@ The defeated consort and his emeritus queen generally continue to live in the Ap
 
 opportunity to travel the mortal world, visiting major faerie courts and Merinita covenants. Some defeated consorts allow their Magic Resistance to fail at an appropriate time, so that they can recall the life they are believed to have led with their new daughter.
 
-## **Spreading Stories and Creating Heroes**
+## Spreading Stories and Creating Heroes
 
 The Stone Couches, described above, are like kilns used to craft faeries that duplicate folk heroes. The creation of new tumuli is one of the powers of the Faerie Queen of Oleron, so Stone Couches are not known to be found elsewhere. The power of the faerie that the Couch creates is strongly tied to the Reputation of the original folk hero among the common people of the lands touching the Atlantic.
 
@@ -2617,7 +2617,7 @@ Now that the childlike Oberon is permanently active, a second Oberon is growing 
 
 tery of Becoming detailed in *Houses of Hermes: Mystery Cults*.
 
-#### **Looking for Other Exits**
+#### Looking for Other Exits
 
 Magi from this covenant worry that their link to the mortal world might be severed by failing to meet a challenger. Those skilled in Arcadian travel often explore the roads leading from the covenant, or voyage on the covenant's sea, hoping to find links either to the mortal world or to Arcadia. None of these voyagers has yet been successful.
 
@@ -2625,7 +2625,7 @@ Magi from this covenant worry that their link to the mortal world might be sever
 
 The covenant's magi embrace its culture of romantic feudalism, so they are more interested in warfare than is usual for members of House Merinita. They also have an ideal of the obligations required of nobility, so they patronize their common people to an unusual degree. The three magi most likely to interact with outsiders are described below.
 
-#### **Caprican of Merinita**
+#### Caprican of Merinita
 
 Age: 92 (Apparent age 55) Personality Traits: Loves Wife and Family +4, Proud +3, Suspicious of Tytalus Magi +2
 
@@ -2639,7 +2639,7 @@ Caprican's dislike of Tytalus magi has been fruitful in recent years. Fudarus is
 
 Caprican has Strong Faun Blood, and his magic is focused on controlling the emotions of people and animals. He is an active member the Keepers of a Thousand Tales, but his role is controversial. He does not share that group's focus on Arabic stories. Some members of the group, who are aware of the Stone Couches, see them as directly opposed to the group's goal of making sure that stories live on in Arcadia. The see the Couches as fixing stories to a single place, and a single version.
 
-#### **Amelie of Merinita**
+#### Amelie of Merinita
 
 Age: 33 (Apparent age 33) Personality Traits: Curious +3, Meddlesome +2
 
@@ -2647,7 +2647,7 @@ Amelie is the maga most likely to act as spokeswoman for the covenant, and to tr
 
 Amelie is not a particularly skilled negotiator, but she knows this and so she is willing to allow deals to fail, or to ask potential partners to make their case to Caprican. She uses her role as spokesperson and negotiator for her covenant as an excuse to travel and visit interesting places and people. Her magic is focused on the art of Aquam, and she is particularly skilled at creating unnatural liquids.
 
-#### **Quintinus of Verditius**
+#### Quintinus of Verditius
 
 Age: 40 (Apparent age 35) Personality Traits: Self-effacing +2, Enthusiastic +2
 
@@ -2706,7 +2706,7 @@ Nidi has been subtly reinforced so that the Tytalus magi involved in any serious
 
 The magi of this covenant are from Houses whose members traditionally favor living in wilderness. They see themselves as pioneers of a new future for magi, and as trailblazers into new, urban territories. They are aware that Micropedus is near the end of his life, so they wish to recruit more covenant members.
 
-## **Regulus of Merinita: The Bee King**
+## Regulus of Merinita: The Bee King
 
 Age: 72 (Apparent age 21) Personality Traits:
 
@@ -2718,7 +2718,7 @@ Regulus has blond hair, amber eyes, and golden skin. He smells pleasantly of can
 
 Bee Kings are extremely rare. Some Merinita believe they are created when a young woman accidentally swallows a drone from a faerie hive. Such creatures are the steeds of the tiny knights who serve a queen of the diminutive sprites. Her court progresses through Mythic Europe, and so Bee Kings appear, rarely, in many kingdoms.
 
-#### **Luna: A Noble Rat**
+#### Luna: A Noble Rat
 
 Age: 26 (Apparent age 26)
 
@@ -2768,7 +2768,7 @@ Nidi thinks of itself as inhabiting agricultural space, but seen from another pe
 
 Luna's strongest Art is Animal, although her studies have not been as focused as those of other magi. She has learned the Arts she requires to study certain tricks she finds useful. She has mastered a spell that allows her to tunnel through stone or wood while in rat shape. Her combat spells are poor, but she has retained her original tradition's ability to call and command animals, so she can defend herself with hordes of rats.
 
-## **Micropedus of Bjornaer: The Starling**
+## Micropedus of Bjornaer: The Starling
 
 Age: 93 (Apparent age 60) Personality Traits: Determined +3, Fidgety +1
 
@@ -2827,7 +2827,7 @@ In the 1180s, a freeman named Durand started a movement specifically to eradicat
 
 Two of the magi of Atsingani are detailed below. It is a small covenant, but it may possibly count one or two additional magi among its members, should you so wish.
 
-#### **Viviana of House Ex Miscellanea**
+#### Viviana of House Ex Miscellanea
 
 Age: 54 (Apparent age 41) Personality Traits:
 
@@ -2839,7 +2839,7 @@ Thoughtful +1
 
 Viviana, the spiritual leader and guide of the covenant, is a fading beauty of Mediterranean descent. She is the filia of the eldest founding maga of Atsingani, Aureliana, and is a soothsayer and healer from the same Byzantine tradition. She owns a grand wagon of faerie origin, which is the covenant's most valued possession. The interior of the wagon is far larger than it appears from outside and is opulently decorated; it has room for a laboratory as well as a bedchamber, and it provides fresh supplies of clothing and linens for its owner that are never exhausted. The wagon has an unnaturally smooth ride; its contents are thus undisturbed by what would normally be jolting travel along uneven roads.
 
-#### **Jacques of House Flambeau**
+#### Jacques of House Flambeau
 
 Age: 44 (Apparent age 39) Personality Traits: Disciplined +2,
 
@@ -3062,7 +3062,7 @@ Pen: 20, 24 uses/day
 
 The target is riddled with stabbing pains. (Base 4, +2 Voice, +1 Conc; +10 for Penetration Total of 20, +5 24 uses per day)
 
-#### **Hobble the Foul-Mouthed Wretch**
+#### Hobble the Foul-Mouthed Wretch
 
 PeCo 40
 
@@ -3074,7 +3074,7 @@ The target is lamed for the duration of the spell.
 
 (Base 5, +2 Voice, +2 Sun; +10 for Penetration Total of 20, +5 24 uses per day)
 
-#### **Spells Known:**
+#### Spells Known:
 
 *Agony of the Beast* (PeAn 15/+19) *Arm of the Infant* (MuCo 20/+24) *Aura of Rightful Authority* (ReMe 20/+31) *Bane of the Decrepit Body* (PeCo 25/+40) *Circle of Beast Warding* (ReCo 5/+28) *Cripple the Howling Wolf* (PeAn 25/+23) *Disguise of the New Visage* (MuCo 15/+24) *Gift of Frog's Legs* (ReCo 15/+32) *Loss of But a Moment's Memory* (PeMe 15/+25) *Panic of the Trembling Heart* (CrMe 15/+28) *Posing the Silent Question* (InMe 20/+21) *Prison of Flames* (MuIg 20/+14) *Stench of Twenty Corpses* (CrAu 10/+19) *The Irresistible Pressgang* (CrMe 40/+28) *The Twisted Spine* (MuCo 25/+24) *The Wound that Weeps* (PeCo 15/+26) *Trust of Childlike Faith* (PeMe 10/+35)
 
@@ -3142,15 +3142,15 @@ Magi of House Jerbiton believe that magic tempts them to waste their lives, and 
 
 ventative by engrossing the young. Old magi need less protection from the temptation to do laboratory work, because senior magi receive less additional power for every season of a diminishing lifetime. Young magi are at the greatest risk of disappearing into a laboratory for a few decades, emerging with skills that are in no way novel, viewed historically. Sending senior apprentices, or young magi, to a vibrant city provides them with enough experience of a properly lived life that they can resist the addiction to laboratory fumes that so many other magi seem to develop. Further detail on the House's philosophies and goals may be found in *Houses of Hermes: Societates.*
 
-#### **Political Neutrality**
+#### Political Neutrality
 
 Conventio Eboris owes no feudal dues, and seeks none. The advantage of their lifestyle, which precludes Hermetic study, is that they do not want most of the resources over which other magi feud. This makes them wealthy, because even their modest vis income provides a surplus for trade. The House of the Ivory Carvers is increasingly a neutral site for negotiations between covenants in conflict. Mathieus' neutrality aside, magical warfare under the nose of the King of France and bishop of St. Denis is a crime that few magi would be foolish enough to engage in.
 
-#### **The Intinerarium**
+#### The Intinerarium
 
 It was traditional, before the fall of Constantinople, for Jerbiton magi to send their apprentices there for a few seasons, so that they could develop the rudiments of taste and polish their manners. After Constantinople fell, this tourism needed a new focus. In most years, it travels from Paris through the Alps to Valnastium, then down into Italy. Conventio Eboris serves as host for the initial stage. The young, rich almost-magi are expected to get into trouble, and to do the stupid things that are forbidden the dignity of a magus. Mathieus ensures that his guests remain on the right side of the line between foolish and asinine, or finds ways of hiding their mistakes. Under Hermetic law, the masters of the apprentices remain responsible for their behavior, so some accompany their charges. Mathieus is handsomely repaid for his hospitality in favors and social contacts.
 
-#### **Revels**
+#### Revels
 
 Mathieus attracts magi from other houses to his home with celebrations that eulogize great magi. These celebrations are feasts and games played through the Parisian night. Some magi have noted that if Mathieus designs an interesting entertainment, his revel might eulogize an obscure magus from hundreds of years ago. At least one of the magi he has eulogized never existed at all.
 
@@ -3158,7 +3158,7 @@ Mathieus always claims to eulogize real individuals, for real accomplishments. H
 
 Mathieus collects items for his revels from all over Europe. He often sends letters offering payment for strange items to young magi about whom he has heard amusing stories. This is a way of inviting them into his circle of acquaintances.
 
-#### **Assisting the Quaesitores**
+#### Assisting the Quaesitores
 
 Mathieus is the Warden of Paris. That is, members of House Jerbiton accept that he has dedicated himself to its preservation, and usually inform him of their activities. Local Jerbiton magi are expected to give him some assistance if he requests it, when Paris is endangered. Mathieus is also a convenient injured party for the Quaesitores.
 
@@ -3166,7 +3166,7 @@ That is, Mathieus is willing to assist the Quaesitores by claiming that the acti
 
 Mathieus is not a hoplite, but is willing to enforce the Code in Paris. His skill with illusions, experience in urban spellcasting, knowledge of the resources available within Paris, and band of young allies make him a formidable opponent for a covenant of young player characters. His political connections make him a dangerous opponent in extended conflicts.
 
-#### **Intelligence Services**
+#### Intelligence Services
 
 Marcus of Paris, Mathieus' chief servant, is a Redcap who can be hired to provide information about life in Paris to other covenants. He haggles the details of each contract, so they can be as simple as a weekly letter, or as complicated as the recovery of private documents. Marcus sometimes passes work on to the younger magi of the covenant. When nobles disperse back to their regional seats of power, he hires the servants of local magi to keep him informed of their activities, on behalf of his clients.
 
@@ -3206,7 +3206,7 @@ This covenant is dependant on a single magus, who is elderly and has no survivin
 
 sees as a counterbalance to Venetian influence on the pope. He also dislikes and distrusts the many covenants in the Roman Tribunal that have chapter houses in Venice.
 
-#### **Sweated Shillings**
+#### Sweated Shillings
 
 **Young Magi:** Usually Fun-loving +1 and slightly manic in their attempt to fit a whole lifetime into a year.
 
@@ -3233,7 +3233,7 @@ The Lendit fair is held annually in the month of October, in fields just outside
 
 In the sixth century, Clodoald, a grandson of the great Merovingian king Clovis, fled to this spot by the banks of the River Seine, six miles downstream from Paris. His father, Clodomir, had perished in battle and his brothers had been murdered. To avoid the same fate, he cut off his hair; something the Merovingian kings never did, since their locks granted them mystical powers. The young man took refuge in the small settlement of Nogent and founded a monastery there, becoming its abbot. He died in 560 and was buried here; his tomb soon became a site of pilgrimage and the town was named after him. St. Cloud now belongs to the bishops of Paris.
 
-#### **The Bridge of St. Cloud**
+#### The Bridge of St. Cloud
 
 A centuries-old wooden bridge crosses the River Seine at St. Cloud. It has been patched up several times, and bears a tall wooden tower at each end. This is the place at which Clodoald tore off his hair, symbol of his kingly blood, and swam the river. A legend relates that any king who sets foot on the bridge will be struck down dead. No one knows if this is true, although, mindful of this curse, French rulers take care to always cross the river here in a boat. Even a faerie king may be subject to this fate. The bridge has a Magic aura of 2.
 
@@ -3258,7 +3258,7 @@ Chartres prospers from and is largely dependent on its fairs for pilgrims. On ea
 
 About 30 miles south of Paris, on the left bank of the Seine, is the forest of Fontainebleau. This is a rocky and diverse wilderness, about 20 miles across in each direction, consisting broadly of parallel sandstone ridges interspersed with limestone — a dry landscape of hillocks, ancient druidic groves, and small gorges. The majority is a woodland rich in game, but it is not thickly forested; occasional hunts are held, and there are a few hunting lodges. Apart from these, the only settlement of note is a tiny hermitage, although it is rumored that Parisian criminals often come here to hide. The wettest part of the forest resembles a moorland dotted with ponds and crevices. Another part is barren and desert-like in appearance, with strangely shaped boulders scattered all around, several of which seem to resemble animals, or even people.
 
-#### **The Fountain of Fair Waters**
+#### The Fountain of Fair Waters
 
 In the middle of the forest of Fontainebleau is a Faerie regio, at the center of which is a spring named Fontaine-Belle-Eau, from which the forest takes its name. It has a Faerie aura of 6. A beautiful nymph, whom the ancients believed to be an embodiment of the goddess Diana, dwells by the waters and is accompanied by a placid white stag. All kinds of tame forest creatures, often boars, may be found within her domain. Seldom does a person stumble into the regio, but keen-nosed hunting hounds occasionally find it by accident. Any dogs (and their owners) who act with humility may be tolerated, or even rewarded, but those who persist with their hunt will likely be cursed, and may never return. This may explain the anthropomorphic shapes of the boulders in the nearby forest, which may be harvested for Animal and Corpus vis.
 
@@ -3295,13 +3295,13 @@ Lapis Crudus has been separated from the rest of the world for nearly eight deca
 
 Lapis Crudus has three magi, two of whom are detailed below. All are ancient, and all are unusually specialized due to the restricted resources they have had access to for the last eighty years. Each magus has accrued one Warping Point a year for the last eighty years of entrapment from the aura alone, and more from their Longevity Rituals. The opening of the regio might be just in time to rescue them from a descent into Final Twilight. Somnifer's filius, a magus by the name of Languidus, has been representing the covenant's interests at Tribunal for the past decade, but has refused formal membership of the covenant. Lapis Crudus has not participated in the Tourney since its sealing-off, and all its legacies are deemed to have lapsed.
 
-#### **Somnifer of Merinita**
+#### Somnifer of Merinita
 
 Age: 113 (Apparent age 30) Personality Traits: Sleepy +5, Thoughtful +2, Attentive –2
 
 A master of magic pertaining to dreams, Somnifer kept the rest of the covenant appraised of the outside world during their captivity thanks to his ability to cast his mind forth in spiritual form and enter the dreams of those he encounters. He managed to find his apprentice through his dreams, and entice him to Lapis Crudus to receive training through the enchanted mirror. Somnifer has difficulty distinguishing dreams from reality, thanks to his Warping, and it is often difficult to determine whether he is awake, or just sleepwalking.
 
-#### **Mnemon of Tytalus**
+#### Mnemon of Tytalus
 
 Age: 97 (Apparent age 60) Personality Traits: Impatient +3, Sly +2, Apparently Trustworthy +1
 
@@ -3504,13 +3504,13 @@ Around the factory are a series of tenements, which take up several city blocks.
 
 The covenant pretends to be a suburb inhabited by a group of families who have resided here since the area was agricultural. All of the property is owned by the old farming family, and so it is never sold or rented to outsiders. The oldest families share a secret magical power that has proven lucrative to their Hermetic masters.
 
-## **The False Leader: Piet de Spinnen**
+## The False Leader: Piet de Spinnen
 
 Piet de Spinnen is actually Petrus, the mundane son of Calvinus of Jerbiton, described below. He was born in Valnastium, and like many young Alpine men, served as a mercenary in Italy. He was modestly successful, and became wealthy and famous enough to develop such strong rivals that he faked his own death and returned to Valnastium. The House needed to provide an heir to Arne de Spinnen, who was childless. Petrus was trained by an old Redcap for the role.
 
 Many of the leading de Spinnens have been people who owe their lives and success to the House. Arne, who was also not who he seemed to be, accepted this "bastard of his youth" as his heir. Piet's bastardry is a convenient form of dismissal by aristocratic rivals, and explains Piet's deep interest in the works of the Church. Petrus is the willing spokesman of the covenant, and is very pleased with how his life has turned out. He has several children, two of whom have been sent to the new university in Paris. They spent a year there and then secretly went to Valnastium for further training as servants of the House.
 
-#### **The Spinnen**
+#### The Spinnen
 
 Characters with Spinnen blood are all members of a family founded soon after the arrival of Christianity in Belgium. Knowing that the old ways were ending, the ancestral oak of a fair maiden summoned a series of faerie and mystical princes as potential husbands. She declined them all, and then the oak explained that its thousand years were done, and that the best way to preserve her family was to wed Spin Head, the last and
 
@@ -3531,7 +3531,7 @@ The membership of the covenant is fluid. It generally has between four and six m
 
 ing it as a base for exploring sites for a House Guernicus covenant should the Lotharingian Separation occur. The four members currently in residence are described below.
 
-#### **Rhesus of Verditus**
+#### Rhesus of Verditus
 
 Age: 85 (Apparent age 54) Personality Traits:
 
@@ -3539,7 +3539,7 @@ Proud +3, Dependable +2, Stubborn +1
 
 Rhesus of Verditus is the leader of the covenant, among the magi. He is a clean-shaven, muscled man who appears to be in his fifties. Rhesus is interested principally in the magical uses of flax. Rhesus came to Florum, from the Roman Tribunal, in part because of the professional jealousy that infects members of his House, and in part because he is a weaver and was interested in the spider-kin. He supports the Lotharingian ideal because he finds Normandy's culture, where he needs to keep defending resources that in any other tribunal would simply be his, to be tiresome.
 
-#### **Calvinus of Jerbiton**
+#### Calvinus of Jerbiton
 
 Age: 59 (Apparent age 45) Personality Traits:
 
@@ -3551,7 +3551,7 @@ Calvinus is a middle-aged magus with the Gentle Gift. He is believed, in Ghent, 
 
 Calvinus, like many Jerbiton, is trained in urban magic. He is skilled at illusions, spying on the covenant's mundane rivals, and arranging criminal actions. He had a (fictional) wife in Italy, and his supposed daughter, after being raised by her (equally fictional) maternal grandparents, has recently arrived in Ghent. Calvinus' apprentice, named Sophia, is charming but as bookish as he is, which makes some of her cousins worry that she might never marry.
 
-#### **Alroy of Flambeau**
+#### Alroy of Flambeau
 
 Age: 82 (Apparent age 60) Personality Traits:
 
@@ -3561,7 +3561,7 @@ The Norman tradition of fighting for resources requires most covenants to have a
 
 Alroy is at a difficult stage of life for a Flambeau magus. He has lived far longer than he expected to, and has killed most of the things he considered frightening when he was younger. Raising an apprentice and fighting Tytalus magi are challenges that he hopes will rekindle the fire in his spirit. Alroy is a creature of passionate enthusiasms attempting to throw off a veteran's ennui.
 
-#### **Prunellie of Merinita**
+#### Prunellie of Merinita
 
 Age: 104 (Apparent age 61) Personality Traits:
 
@@ -3614,11 +3614,11 @@ the remains of a temple to Mars and the ruins of an ancient Roman forum. In the 
 
 In stark contrast to the cultured civilization of Reims, there is a hilly forest wilderness that begins immediately to its south, extending southwards for 15 miles as far as the valley of the River Marne, and which is 25 miles across. Trees densely cover a limestone plateau with a crazed and uneven geography, featuring tiny lakes, underground rivers, and chasms. This makes these woods, unlike the Forest of Cuise, somewhat unsuitable for hunting — not that hunting is a pursuit that would interest the archbishops of Reims anyway. As a result, all sorts of wild beasts roam with relative impunity. The Montagne de Reims is home to several peculiar sites and sources of vis.
 
-#### **The Grove of St. Lie**
+#### The Grove of St. Lie
 
 Atop a ridge on the northern edge of the forest, with a commanding view of Reims and the surrounding plain, is an ancient Gaulish burial mound surrounded by a grove of oaks. This tranquil place has a tiny chapel dedicated to St. Lie, a fifth-century hermit-saint. The pale flowers that grow on the mound may be harvested for a few pawns of Creo vis; this constitutes a tropaeum.
 
-#### **The Faux de Verzy**
+#### The Faux de Verzy
 
 In the eastern reaches of the forest is a sinister grove of deformed, twisted, and stunted black beeches. This place, which has a Faerie aura of 4, is shunned by the
 
@@ -3628,11 +3628,11 @@ In the year 636, a small congregation in the chapel of Boulogne was visited by a
 
 nearby peasants. According to some of the wilder tales, villagers who stray here are often taken captive by a dark dwarf-like folk. When they return, they are scarred with some deformity and sullenly refuse to speak about their ordeal.
 
-#### **Nanteuil**
+#### Nanteuil
 
 Near to the center of the forest is a remote vale where the Knights Templar have founded a priory. This is a decidedly odd place to house such an establishment, for it is very difficult to reach, and doesn't seem to lead anywhere. It is recorded in the writings of the magus Norlanus that he once visited the site and found it to be a regio, possibly of Divine origin. Leaving the priory as a guest, he writes that he found himself in a completely different, lighter version of the forest. Others claim, however, that Norlanus merely experienced a potent Twilight episode.
 
-#### **Hautvillers Abbey**
+#### Hautvillers Abbey
 
 Not far from the north bank of the River Marne is Hautvillers, founded in 660 by St. Nivard. There is a large abbey church in a secluded and idyllic spot, surrounded by vineyards. This monastery is now a branch of the Reims school, and some of the most magnificently decorated manuscripts to be found anywhere are produced here. A few miles upstream is the ancient Gaulish town of Ay, a diminutive community of vintners with a royal residence that is infrequently visited by the Kings of France.
 
@@ -3655,7 +3655,7 @@ and his subjects have already started construction on a much larger cathedral ch
 
 For about a dozen miles downstream of Amiens, the River Somme meanders so slowly that its valley becomes a swamp of peat bogs and water meadows. The shallowness of the waterway limits river traffic and the swampland is thus sparsely populated, apart from a few hamlets of peat-cutters and hunters.
 
-#### **The Blue Springs of the Somme**
+#### The Blue Springs of the Somme
 
 On the edges of the swamplands of the Somme are scattered a number of enchanted pools, some of them alongside poorly traveled roads. Revolving shafts of blue light seem to emerge from within these springs; if you look closely (which is not advisable) you may even spy wealth-laden carriages and other treasures slowly spinning around beneath the waters. Mischievous water sprites are believed to dwell here and steal anything that falls into or becomes trapped by the pools, and waylay travelers with their enchantments. On the other hand, a toddler or babe who slips into one of the springs will be blessed with beautiful blue eyes, and gifts willingly given to the waters may be rewarded. The pools have Faerie auras of differing strengths, up to 3.
 
@@ -3726,7 +3726,7 @@ The covenant currently consists of only two magi, both Donatores, although, as a
 
 Eulogius, one of the founders of the Donatores, runs the covenant; he is assisted by his youngest filius Henri, who stays mostly out of a sense of duty to his tradition, taking it upon himself to preserve the covenant's library and lore for future generations.
 
-## **Eulogius of House Ex Miscellanea**
+## Eulogius of House Ex Miscellanea
 
 Age: 130? (Apparent age 104) Personality Traits:
 
@@ -3876,7 +3876,7 @@ Cunfin also plays host to a number of unusual magi: Grail seekers. Celeres' aims
 
 Few published works on the subject of King Arthur and the Grail exist in 1220, but that has not stopped Celeres from assembling a formidable body of texts. The books fall into several categories, of which the major works are described here in detail.
 
-#### **Folk Tales**
+#### Folk Tales
 
 Many of these books are written by Celeres himself, recording the numerous stories he has encountered on his travels. They contain the original stories in their native languages, translations into Latin, and commentary on the works in Latin.
 
@@ -3890,7 +3890,7 @@ Description: Numerous Welsh tales tied in some way to King Arthur. These include
 
 Minor Works: *The Book of Taliesin, The Life of St. Efflam, The Life of St. Illtud*
 
-#### **British Histories**
+#### British Histories
 
 These books are primarily historical accounts that include occasional mention of Arthur. All are written in Latin.
 
@@ -3912,7 +3912,7 @@ Description: This book greatly expands upon the work of Nennius, focusing on Art
 
 Minor Works: *Annals of Wales, Concerning the Ruin of Britain, The Life of Merlin*
 
-#### **Romances**
+#### Romances
 
 These books are almost all written in French and represent a new development in the Arthur cycle. Instead of histories or folk tales, these are long-form poems that celebrate chivalrous virtues and use the story of Arthur and his knights as instructional devices. These works are Celeres' favorites.
 
@@ -3946,7 +3946,7 @@ Minor Works: *Roman de Brut, Perceval Continuations, Perlesvaus*
 
 ## Magi
 
-#### **Eloi, Follower of Jerbiton**
+#### Eloi, Follower of Jerbiton
 
 **Age:** 62 (Apparent age: 52) **Personality Traits:** 
 
@@ -3960,7 +3960,7 @@ Although he is not a member, he has close contacts with the Priory of St. Nerius
 
 #### The Lion and the Lily
 
-#### **Angelus of Ex Miscellanea**
+#### Angelus of Ex Miscellanea
 
 **Age**: 97 (Apparent age 75) **Personality Traits**:
 
@@ -4039,7 +4039,7 @@ Although he would never admit it, Hervé would not be where he is today without 
 
 While he has never had the academic mind that his father wished for him, he has proven a shrewd judge of character and a capable negotiator. Hervé has found his calling among the merchants of France, deftly maneuvering his way through trade fairs and always emerging with a substantial profit. While he has taken over as head of the temporary Mercer House at the Champagne fairs, his father has still not given him the acknowledgment he desires. As a result, while Renaud wanders the countryside of France, reveling in his debauchery, Hervé has set his sights on even higher positions within House Mercere.
 
-## **Artorius filius Celeres, Follower of Bonisagus**
+## Artorius filius Celeres, Follower of Bonisagus
 
 **Age:** 33 (Apparent age 33) **Personality Traits:** 
 
@@ -4049,7 +4049,7 @@ Regal +2
 
 A newly Gauntleted magus, Artorius was brought to Cunfin as an orphan at the age of sixteen by Eloi, who intended to make the boy his apprentice and train him as his own successor. Celeres, however, proclaimed that he found himself in need of a "squire" and exercised his right to take Eloi's apprentice as his own. When Artorius passed his Gauntlet (a process Celeres refers to as his "knighting"), his parens gave him the name of legendary king of Britain. Artorius' future plans are unknown.
 
-#### **Évrard de Tours, Redcap**
+#### Évrard de Tours, Redcap
 
 **Age:** 87 (Apparent age 49) **Personality Traits:**  Stubborn +2, Grumpy +2
 
@@ -4110,7 +4110,7 @@ Furthermore, although the monks seem to be in no doubt that the relics, which ar
 
 The only true wilderness of any size in Burgundy is known as the Morvan; its name, of Celtic origin, means "Black Mountain." This basalt massif is somewhat higher than the surrounding lands, an upland that is frequently wreathed in rain, snow, or mist, and where the rivers are prone to becoming suddenly turbulent and engorged. Much of the Morvan is forested with oaks, hornbeams, and beeches, with some conifers on the higher slopes amid the rocky escarpments. This rolling, impoverished land is sparsely populated, with no fertile fields or vineyards. The few errant peasants who eke out an existence here are mostly shunned by those who dwell in more-civilized parts. Magi here know of several vis sources amidst the Morvan, most of them contested due to the presence of the dark faeries that lurk by the lakes and streams and in the forests.
 
-#### **Bibracte**
+#### Bibracte
 
 Mont Beauvray, in the southern Morvan not far from Autun, is the site of the ancient Gallic city of Bibracte, where in 52 BC the Gallic chieftain and king of the Arveni Vercingetorix led the local tribes against the Romans. In the following winter, Caesar began writing his *Commentaries on the Gallic Wars* here. Its name derives from the double line of wooden and stone ramparts surrounding the hilltop. Bibracte subsequently fell into decline as Autun rose to prominence, and was abandoned.
 
@@ -4123,7 +4123,7 @@ cations, and established a cult worshiping Vercingetorix. Many in the Tribunal c
 
 A short distance to the northeast of the Morvan and a half-dozen miles to the south of the abbey of Fontenay lies the peak of Mont Auxois, 1300 feet high. Here lie the remains of Alesia, a Gallo-Roman oppidum (a fortified hilltop settlement). It is the site of the famous Roman siege where Caesar won a final victory over Vercingetorix, who was forced to surrender (he was subsequently taken to Rome in chains and strangled years later). Amid the abandoned ruins on the hilltop are bronze-working forges, and a subterranean temple to a Gallic mother goddess, Matres. The place retains a Magic aura and might make a suitable site for a covenant, despite being haunted by the shades of pagan dead.
 
-#### **The Fountain of St. Reina**
+#### The Fountain of St. Reina
 
 On the southwestern edge of the hilltop, a Divine aura prevails. St. Reina, a young Christian woman, was beheaded for refusing to wed Olibrius, the Roman governor of Alesia, and a fountain miraculously sprang forth from the spot of her martyrdom. The waters were held to have curative powers and attracted pilgrims for a time, although the place gradually became forgotten and was abandoned in later centuries. The old fountain may be found, shrouded by trees next to the ruins of a Merovingian chapel dedicated to the saint.
 
@@ -4139,7 +4139,7 @@ The Cathedral of St. Lazarus is at the city's southern end, housing the relics o
 
 Langres, a walled hilltop town and the northern gateway of Burgundy, takes its name from the Gallic tribe the Lingones, for it was their capital. The Romans fortified it as Andemantunum; at its peak it was at the intersection of twelve Roman roads. In more recent times, Langres has been ruled by its influential bishops. One of the earliest bishops was the martyr St. Didier — during his brave defense of the town against barbarian invaders, he was beheaded, yet he picked up his head and left on horseback. A chapel was founded on the spot where he later died.
 
-#### **The Cave of Sabinus**
+#### The Cave of Sabinus
 
 In 70 AD, a chieftain of the Lingones, Sabinus, seized on the Roman weakness after the death of the emperor Nero and led a rebellion in Langres. Sadly for him, the rebellion ended in failure, and so the warlord fled the city and took refuge in this secluded cave about ten miles to the south of the city. The cave is adjacent to a forest spring — which is the source of the River Marne — and is home to a powerful genius loci (a spirit of nature). Sabinus bargained with the spirit for its protection, and thus was able to hide away in the cave for nine years, after which time the spirit became tired of his company and he was discovered. Sabinus was taken away to Rome for execution, but the cave and spirit still remain. Aquam vis may be harvested from the spring with the spirit's permission; the site is, however, considered a luctatio by the Tribunal, since the genius loci is notoriously difficult to please.
 
@@ -4369,7 +4369,7 @@ Tusks (gore): Init +0, Attack +12, Defense +10, Damage +7
 
 **Abilities:** Animal Handling 5 (boar), Area Lore: Normandy Tribunal 5 (forest), Athletics 5 (running), Awareness 3 (trespassers), Brawl 9 (gore), Carouse 3 (lament), Dead Language: Latin 3 (hunting terms), Dead Language: Gaulish 5 (druidic terms), Etiquette 1 (courtly), Faerie Lore 5 (worship), Folk Ken 3 (hunters), Great Weapon 7 (boar spear), Hunt 10 (hunters), Leadership 5 (faeries), Living Language: Breton 3 (hunting terms), Organization Lore: Order of Hermes 2 (House Diedne), Ride 5 (hunting), Stealth 7 (forest), Survival 10 (forest), Swim 3 (swamp)
 
-#### **Powers:**
+#### Powers:
 
 *Voice of the Woods*, 0 points, constant, Animal (Herbam or Mentem): The Boar King can converse with any woodland creature or plant. They will also obey any order he issues to the best of their abilities.
 
@@ -4398,11 +4398,11 @@ The philosophy of Queen Skuld is purely a philosophy of power. She believes that
 
 
 
-#### **Cult Members**
+#### Cult Members
 
 Exactly which magi in the Tribunal are in the cult is a matter left to the discretion of the troupe. There are unlikely to be more than half a dozen current members, and all members should have a relatively good Ignem Art score, which may favor Flambeau, so that they could survive the first Quest to the burning ships (see below). Members of Montverte who can claim descendant from the covenant's Scandinavian founders might be particularly interested in the cult.
 
-#### **Mystery Scripts**
+#### Mystery Scripts
 
 The cult currently has Initiation Scripts that grant the following Virtues:
 
@@ -4420,7 +4420,7 @@ The cult currently has Initiation Scripts that grant the following Virtues:
 
 **Major Hermetic Flaw, Deficient Technique (Creo):** see ArM5, page 53.
 
-#### **The Ships of Flame**
+#### The Ships of Flame
 
 These three perpetually burning Viking longships, mortuaries to dead Viking warlords, are each located in a different small Magical regio of aura 6 on the river Seine. Each regio can only be entered by drifting
 
@@ -4444,7 +4444,7 @@ Mystery Cults are Hermetic traditions that incorporate secret modifications to H
 
 A group of monasteries on the Normandy coast are raided by Vikings, and as the covenant is nearby the magi are asked to perform (or assist in) an investigation. There are also a number of merchant ships missing in the area. As it is more than two hundred years since the age of the Viking raids, it will be obvious to the characters that there must be some kind of trick or magical explanation behind such an anachronistic assault. Investigation might reveal that Hermetic magic has contributed to the raids, but any Hermetic sigils appear to be shrouded (see ArM5, page 159). In fact, the assault is the work of the Children of Odin, and the spell *Nordic Triumph* has been used to produce the effect. Mounting these attacks was a Mystery Initiation Quest, and the investigators may discover the responsible cult member. Alternatively, if a player character magus is a Child of Odin, he may in fact be the responsible cult member.
 
-#### **Nordic Triumph**
+#### Nordic Triumph
 
 MuMe(He)(Te) Level 65 R: Touch, D: Moon, T: Structure, Ritual
 
@@ -4458,7 +4458,7 @@ Each Viking longship burns fiercely and inflicts fire damage (+20 each round) on
 
 Cult Initiates must (as their first Quest) find their way, unaided, onto the deck of one of the longships and recover an axe from a fallen Viking warrior, but Queen Skuld is the only long-term resident in the regiones. She has constructed her Laboratory on the deck of one longship. Other cult members sometimes travel to her burning ship, but the difficulty of timing visits means that Skuld usually communicates via *Haunt of the Living Ghost*.
 
-#### **The Order of Odin**
+#### The Order of Odin
 
 The Children of Odin Mystery Cult is *not* the Order of Odin. It is a Mystery Cult that claims to have discovered the secrets of some of the magic of the Order of Odin. However, the cult may be wrong in this claim. If, in your saga, the cult is in fact an authentic heir to the Order of Odin, then you might like to add to the cult's repertoire some of the rune magic powers described in Ancient Magic (page 133). Alternatively, during the course of your saga, a researcher in the cult may manage to integrate rune magic with Hermetic theory. Either option could increase the power of the cult considerably. On the other hand, if the Mystery Cult is
 
@@ -4586,7 +4586,7 @@ It is worth noting that most nobles are aware of the existence of the Order of H
 
 Not all magi who decide to have a close relationship with a mundane lord will actually live within his home.
 
-#### **Manors**
+#### Manors
 
 No matter where you go in the Tribunal, you will not be too far from the residence of a local knight. The knightly class resides largely in manor houses (manoir, in French), many of which are fortified as a result of the warfare of the last few decades. Often surmounting a low motte, or mound, the manor is enclosed by a wooden or stone wall. The manor itself is usually stone and timbered for support, with a thatched roof.
 
@@ -4638,7 +4638,7 @@ Paris is a city swelled to enormous proportions, with a population rivaling some
 
 Anything that harms Paris harms many of the magi in this Tribunal, who depend on it for exotic supplies. The covenant of Eboris, deeply versed as its members are in the undercurrents of Parisian life, may be able to send up a cry for help if something monstrous threatens the city. How can magi, hindered as they are by the Dominion, defend it? There are many potential foes that might harm Paris.
 
-#### **Threats to Paris**
+#### Threats to Paris
 
 A story or arc of stories might focus on attempts to save the city from any of the following:
 
@@ -4649,7 +4649,7 @@ A story or arc of stories might focus on attempts to save the city from any of t
 - Invasion, either by a rebellious duke or by the king of another country.
 - Civil unrest between the rising mercantile class and the nobility, or between the French and immigrants.
 
-#### **The Royal Court**
+#### The Royal Court
 
 The largest of the cities, Paris, has housed the court of the King of France for the last few decades. Prior to this the court wandered the royal demesnes, but the French king is so rich and powerful that he can have his retainers supplied with food and luxuries all year round, without needing to visit the Crown lands where much of his wealth is produced. The great nobles of France, and some from as far away as Italy and Germany, have settled in the capital. This provides them with unusually close access to the wealth and power of the king, which threatens magi who oppose them.
 
@@ -4660,7 +4660,7 @@ less notice than usual, but that reprisal, if provoked, is far stiffer than ordi
 
 These tendencies toward looser control and sterner enforcement become stronger as the court continues to centralize power. The favor of the king, lavished on those who stay close to him, is too significant for the great lords to ignore. The vassals of the great lords become increasingly independent, and are bought back into line with progressively blunter methods by their absentee rulers. Characters might support either side in such a war, or simply suffer by living near the site of conflict.
 
-#### **Moral Hazard**
+#### Moral Hazard
 
 The court of France is a moral hazard for magi, because it is a place where those mundanes powerful enough to tempt magi to break the Code congregate. Most of the senior nobility of France know that the Order exists. Some, particularly those with relatives who are members of House Jerbiton, have a rough idea of the extent of action permitted under the Code. As mundane incursion continues, covenants will become more desperate, while noblemen will become more powerful. The Quaesitores fear that some of their more-interventionist sodales may be tempted into active alliance with the French crown, or with a rebellious vassal.
 
@@ -4674,7 +4674,7 @@ The French church has become enormously wealthy in recent times. The conversion 
 
 Each of the subsections below mentions the use of disposable agents, called "masks," by magi. These are mundane agents who act on behalf of a covenant. If the magi wish to keep their involvement in a plan secret, they need only hide or kill this middleman. Agents are usually motivated by money, ideology, coercion, or the desire for excitement. The agents presented here can be used in the complex system given in *Houses of Hermes: Societates*, but Troupes preferring a simpler system should instead allow characters to use Intrigue rolls to demonstrate the effectiveness of the agents a character can control. For further information on the use of masks, see Chapter 3: Hermetic Culture.
 
-#### **Masks for Parisian Stories**
+#### Masks for Parisian Stories
 
 Many covenants find it useful to have agents of influence within Paris. These can come from many backgrounds, because the immigrant community of Paris is so large that virtually any fictional background is supportable. The oldest covenants have French masks with legitimate ties to Parisian society. As a rough guide, the following covenants have extensive influence in the listed areas of Parisian society:
 
@@ -4705,7 +4705,7 @@ To the larger covenants of the Normandy Tribunal, and to covenants in other Trib
 
 Hermetic culture, particularly as practiced in Normandy, favors the strong over the weak. As the pressure on covenants increases, the weaker will become the prey of the stronger. Young covenants that falter will become the vassals of older, more-secure covenants. The cost of being a vassal will likewise increase. Ways of diminishing the pressure will appeal to many magi, and will find support at Tribunal meetings.
 
-#### **Vassalage**
+#### Vassalage
 
 Vassalage is a system in which the weak pay the strong for protection, either from a known
 
@@ -4715,7 +4715,7 @@ ers, sections of Parisian society would attack each other. The presence of the r
 
 These disruptions, usually provoked by Tytalus magi, are now illegal because Eboris is the senex of Paris. This grants its members the right to pursue the sponsors of masks if those sponsors can be determined. Masks defend sponsors from charges of meddling with the mundanes, not of charges of depriving magi of their resources and power. Similar proxy battles still occur in other major cities and less-overt conflict in Paris remains common.
 
-## **Masks for Observing and Controlling Nobles**
+## Masks for Observing and Controlling Nobles
 
 A covenant's agent requires proximity either to the noble's person, or to the noble's activities.
 
@@ -4735,7 +4735,7 @@ Common types of masks include:
 
 **Procurers:** Those who provide the means of vice for the noble. These include mistresses, but any noble with a Weakness flaw can be easily exploited.
 
-#### **Masks Within the Church**
+#### Masks Within the Church
 
 Members of the Order find masks within the Church particularly useful, because for most people the Church acts as the mediator of the one realm to which Hermetic magic is clearly inferior. House Jerbiton currently has many agents in the Church, but comparatively few in France. The House has usually focused its attention on the Greek east and the papal court in Italy, so the rapid and recent rise of the French Church has created many powerful churchmen and women who are suitable as masks or allies, but are not controlled by any House.
 
@@ -4744,11 +4744,11 @@ It is difficult for covenants to secure as masks those French churchmen who have
 
 aggressor or from those paid the fees of vassalage. This sort of protection racket becomes even more significant when the mundane environment is increasingly hostile. As the Dominion spreads, covenants who are able to fulfill the protective function of lieges will be able to charge more for their services. Other lieges will fail, leaving their vassals at the mercy of the mundanes or in the difficult position of needing to seek a new liege. Covenants may even seek lieges from outside the Tribunal, splitting it apart.
 
-#### **Colonialism**
+#### Colonialism
 
 Normandy's magical areas are under assault, but its most powerful covenants are still wealthy, effective, and bellicose. A coalition could form, dedicated to colonizing an area with fewer mundanes and covenants. Denmark or West Africa might lure a colonial party, but it is possible that vis-rich Tribunals might also be targeted.
 
-#### **Cracking of Old Wards**
+#### Cracking of Old Wards
 
 As magic fails across Normandy, ancient wards will fade away. These might have been placed during the Schism War to hold back the magical allies of the druids, or during the Corruption of House Tytalus to deprive them of demonic assistance. Sites that have contained powerful, subdued magical creatures for centuries are likely to have weak auras and be prime sites for colonization by spring covenants. Wards may fail individually as the Dominion rises in an affected area, or could crack in clusters as regional events cause the Dominion to spike upward briefly, then fade back to its usual level. The martyrdom of saints often has this effect, for example.
 
@@ -4784,7 +4784,7 @@ gist lineage have become obsessed with the Ankeu, the spirit of Death that haunt
 
 Needless to say, if this cabal is actually successful in its goal, Death won't take too kindly to being tamed.
 
-## **Cabal of the Crushed Viper**
+## Cabal of the Crushed Viper
 
 This is the most recently formed of the cabals active in the Normandy Tribunal, although most of its members are from the Stonehenge Tribunal. The goal of the cabal is to hinder the promulgation of the chivalric ideal, both in England and in France. The Welsh magus who instigated this cabal did so out of spite against William Marshal, a prominent English nobleman renowned at tourney, who led many attacks against the Welsh. The cabal holds as its central tenet that the romantic image of the knight is unhealthy to the social development of the people. Honor and justice are crutches for the morally inept. Like all cabals, they work covertly, but since this group skirts so close to contravening the Code of Hermes, they are especially cautious. Those members who are involved in mundane politics (such as "Pellinore," below) do so without magic and without revealing the existence of the Order. This might not be a valid defense if their actions are brought to Tribunal, but so far no one has raised a case against them.
 
@@ -4883,7 +4883,7 @@ The covenant's major buildings were constructed with a mixture of magical and mu
 
 Any skilled stonemason can tell that the flowers are single pieces of unnaturally shaped rock. The buildings they support seem, superficially, to be made of dressed granite blocks. The stone is similar to that produced by the quarries that provided the stone for Mont Saint Michel. Some buildings were produced with human labor, while others appear to be dressed stone simply because it suited the aesthetic preferences of the magi who created them.
 
-## **The Great Hall and Guests' Quarters**
+## The Great Hall and Guests' Quarters
 
 Most of the covenant's buildings stand on an enormous stone sculpture that resembles, with remarkable attention to detail, one of the sundew plants native to the marshes. It has five broad pads that mirror the insect-capturing pads of the sundew, although one of these pads is insufficiently unfurled to be useful as anything other than a tethering point for boats. Each of the open pads is surrounded by a ring of stone globes that connect to the pad with covered walkways that look, from the air, like the sticky threads of a sundew. The pads are connected by walkways that take the form of stems leading to a central nexus. At the center is a spike of stone six stories high. The magi have recently begun engraving the spire with scenes from the history of their covenant in a way that is deliberately reminiscent of Trajan's column. At the top of the spike is a watch post.
 
@@ -4891,11 +4891,11 @@ The largest and westernmost pad supports the Great Hall. Its lower floor provide
 
 A cluster of eighteen houses surrounds the Great Hall. These houses are of various degrees of luxuriousness, the finest of which are used by the covenant's visitors and senior staff. These houses have supporting columns descending to the swampy earth below, but it is obvious that these were added after the sundew was originally created.
 
-#### **Pad of Gatherers**
+#### Pad of Gatherers
 
 Proceeding clockwise from the Great Hall, the closest pad houses covenfolk who are involved in the covenant's food production. The covenant's diet is rich in seafood and chestnuts. A mill, a granary, a brewery, and a bakery are also on this pad.
 
-#### **Pad of Crafters**
+#### Pad of Crafters
 
 The next pad, which is slightly larger, is home to the covenant's tradesmen. The currents underneath this pad are dependably tidal, and with careful timing they can be used to dispose of the waste of industry. The folk here are cunning ceramicists and gather many varieties of clay from obscure
 
@@ -4903,19 +4903,19 @@ The next pad, which is slightly larger, is home to the covenant's tradesmen. The
 
 locations in the swamp. The covenant also produces a great deal of paper, made from papyrus reeds. These plants were introduced to the area and were magically propagated by Quaesitors who found temporary paper records convenient.
 
-#### **Pad of Parades**
+#### Pad of Parades
 
 This is an open area used for public events, sports, and Aegis rituals. In addition, the Pad of Parades frequently hosts Tribunal Meetings. When lacking more significant use, it is left to flax driers, rope makers, and other artisans who require large, clear spaces.
 
-#### **Furled Pad**
+#### Furled Pad
 
 This pad seems unformed, or perhaps curled around an enormous fly. It is not sufficiently wide to be used for residences. Instead, the pad and the stem that leads to it are used for mooring points for the covenant's boats and ships.
 
-#### **Bell Flower**
+#### Bell Flower
 
 To the west of the Sundew are eight buildings that serve as the residences of the magi. Each is two stories high, and the group rests on the petals of a marvelous, bellshaped flower. Its center is open to the water, so its petals form a ring about an ornamental lake. Rising from the center of the lake are three massive stone stamens, which support a stone disc that is technically the covenant's council chamber. As access without flight is impractical, it is rarely used.
 
-#### **Library Tower**
+#### Library Tower
 
 South of the Bell Flower is the Library Tower. It is square, three stories high, and rises directly from the ground. It is the oldest structure in the covenant, and it was created with a ritual that was not designed for this location. Its lowest floor is not used because it is always partially flooded and is filling with silt. The next floor is effectively the covenant's council chamber. It is linked to the Bell Flower with a graceful bridge. The highest floor contains the covenant's library and magical storeroom. The roof is used by sentries, for ceremonies, and very occasionally to light signal fires. A Mercere Portal between Confluensis and Dragon's Rest is also here.
 
@@ -4982,7 +4982,7 @@ Since the time of Tasgillia, the Traitor has borne a magical key as her symbol o
 
 The magi of Confluensis have been selected by the Ruling Council of House Guernicus for their commitment to Hermetic Law and their ability to maintain the peace in this fractious and difficult Tribunal.
 
-## **Proctor, Follower of Guernicus**
+## Proctor, Follower of Guernicus
 
 **Age:** 93 (Apparent age 60) **Personality Traits:**  Ruthless +3, Strict +2, Distrustful +2
 
@@ -4994,7 +4994,7 @@ Proctor is an older magus, who wears a white beard but has no mustache. His favo
 
 His talisman is a fool's cap bell. It is a palm-sized sphere of brass that has a metal ball within it, so that it chimes when he walks. Proctor carries his talisman in his pocket. He does not discuss its origin with people he distrusts, and so many members of the Tribunal think he carries it to remind himself not to act foolishly. He believes it to be one of the bells worn by Richard the Devil when serving his penance in Rome. It is enchanted with effects that defend against Infernal influence.
 
-## **Aristarcus, Follower of Guernicus**
+## Aristarcus, Follower of Guernicus
 
 **Age:** 52 (Apparent age early 30s) **Personality Traits:** 
 
@@ -5004,7 +5004,7 @@ Aristarcus filius Proctor is a legal-minded magus who most often argues cases be
 
 Aristarcus still appears to be in his early thirties, because of a powerful longevity potion. His hair is blond, and he wears it waistlong, which is unusual among mundanes. This choice, mixed with his strong views on mundane non-interference, have caused some to conjecture that he is of noble, perhaps Merovingian, blood. Wise magi do not mention this speculation to him, because he sees it as an accusation of bias. Such accusations are one of the few things that can rouse him to anger. He wears clothes that are considered fashionable among the nobility of Paris, provided fashion does not become too ridiculous. His familiar is a swan, his talisman a sword.
 
-## **Cavillor, Follower of Guernicus**
+## Cavillor, Follower of Guernicus
 
 **Age:** 43 (Apparent age 35) **Personality Traits:**  Energetic +3, Optimistic +2,
 
@@ -5014,7 +5014,7 @@ Cavillor is a younger magus of Transitionalist leanings, originally from the Rom
 
 Cavillor is a clean-shaven young man, with gray eyes and black hair. His skin has a dark tone, which he explains through reference to his family's partly Arabic heritage. His clothing is plain and generally brown. He is married, and wears a ring that entirely lacks magical powers. His talisman is a sixounce block of iron that was a Carolingian exemplar for standard marketplace weights. He has no familiar.
 
-## **Valerian, Follower of Guernicus**
+## Valerian, Follower of Guernicus
 
 **Age:** 78 (Apparent age 45) **Personality Traits:**  Indifferent +3, Deliberate +2, Reliable +2
 
@@ -5029,7 +5029,7 @@ Valerian is surprisingly popular with the covenfolk, possibly because he does no
 
 includes the homes of the covenfolk, and they are grateful for his help even if he is not overly warm.
 
-#### **Jerome, Follower of Jerbiton**
+#### Jerome, Follower of Jerbiton
 
 **Age:** 87 (Apparent age 50) **Personality Traits:** 
 
@@ -5049,7 +5049,7 @@ Jerome takes pains to not dress like a nobleman. He looks much like a member of 
 
 Eloi, Jerome's fillius, is a politically important member of the Covenant of Cunfin (see Chapter 9: Champagne, Cunfin).
 
-## **Augustina of Tytalus, the Traitor**
+## Augustina of Tytalus, the Traitor
 
 **Age:** 46 (Apparent age 36) **Personality Traits:** 
 
@@ -5505,30 +5505,30 @@ Example: A character from Normandy with French 5 (Norman) speaks to fellow Norma
 
 Lists of suggested medieval names suitable for characters from the Normandy Tribunal are given below, for French, Breton, and Flemish. Many French names can also be used for Breton.
 
-#### **Male Names (French)**
+#### Male Names (French)
 
 Adam, Aimon, Alain, Alenard, André, Anseau, Artaut, Aubert, Aubry, Baudouin, Bernard, Bertran, Charles, Colin, Denis, Didier, Dreux, Durand, Enguerrand, Érard, Estienne, Étienne, Eudes, Eustache, Évrard, Fiebras, François, Frédéric, Foucaud, Gautier, Gerard, Gervais, Geoffroy, Gilles, Gobert, Godefroi, Guignes, Guillaume, Guillot, Guy, Henri, Hervé, Hugues, Jacques, Jean, Jehan, Josselin, Josserand, Julien, Louis, Martin, Mathieu, Marcel, Maurice, Michiel, Naimes, Nicolas, Olivier, Orthon, Perrin, Philippe, Philippot, Pierre, Ponce, Raoul, Raymond, Renaud, Renier, Renouart, Regnault, Richard, Robert, Robin, Roger, Roland, Simon, Tancred, Thibaut, Thierry, Thomas, Vilain, Vincent, Yves.
 
-#### **Female Names (French)**
+#### Female Names (French)
 
 Adeline, Agnes, Agnesot, Alison, Ame-
 
 
 line, Amelot, Anne, Aude, Blanche, Catherine, Chrestienne, Clarisse, Collette, Denise, Denisette, Dorian, Edine, Emmelot, Florence, Genevote, Gervaise, Guillemette, Guillette, Guiote, Honnorée, Ide, Isabelle, Jaqueline, Jaquette, Jehanne, Jehannette, Joie, Juliote, Loyse, Lutisse, Mahault, Margot, Marguerite, Marie, Marion, Martine, Mathilde, Mesot, Mirabelle, Nicole, Odette, Oudine, Pasquette, Pernelle, Perrette, Perotte, Philippote, Plantée, Poubelle, Rixenda, Serena, Sybille, Symonne, Typhainne, Ysabeau, Ysabel, Ysabelet.
 
-#### **Male Names (Breton)**
+#### Male Names (Breton)
 
 Adiuni, Alan, Arthur, Belado, Benabic, Bertho, Britou, Budnouen, Corentin, Conbriti, Disideri, Deniel, Erwan, Felix, Gaël, Gallmau, Guillouic, Guiomarch, Gwenaël, Gwenneg, Gwilherm, Heranal, Huon, Iocilin, Lagu, Loïc, Maël, Maonirn, Mihael, Padrig, Paol, Per, Pierrick, Rioc, Roparzh, Turtouald, Winoc, Yann.
 
-#### **Female Names (Breton)**
+#### Female Names (Breton)
 
 Agace, Annick, Armelle, Beatrice, Beladore, Berthildis, Drilego, Franseza, Gaëlle, Gwenaëlle, Heranneun, Ivone, Katarin, Katell, Maëlle, Maëlys, Mari, Melita, Nolwenn, Oanez, Prostlon, Rimoet, Rozenn, Yuone.
 
-#### **Male Names (Flemish)**
+#### Male Names (Flemish)
 
 Abelkijn, Alard, Albertus, Amilius, Andreas, Arend, Arnulphus, Baldwin, Bartholomeus, Bernart, Bertoldus, Clais, Conrad, Daniel, Dodo, Elias, Engelbert, Eustacius, Everart, Florens, Frederik, Gerart, Gerrit, Ghyse, Gilis, Godefroy, Goesin, Hanne, Henric, Herman, Hugh, Jacob, Jan, Johannes, Kerstiaen, Klaas, Laurens, Lubertus, Lucas, Ludolf, Martin, Mattheus, Michiel, Nicolaus, Olyer, Otto, Pauels, Philips, Pieter, Reiner, Robert, Rodolf, Rutger, Segher, Sois, Stephen, Symon, Thieman, Thomas, Volkard, Wellin, Wilhelmus, Willem, Wouter, Ysebrand.
 
-#### **Female Names (Flemish)**
+#### Female Names (Flemish)
 
 Aghete, Agnes, Alene, Alijt, Alisa, Annen, Aue, Auesote, Bela, Bata, Beatrix, Berta, Clemense, Elisabeth, Ermgart, Flore, Gele, Gertruid, Grieta, Haedwien, Heile, Helwigis, Hildegard, Iseburg, Johanna, Jute, Katrine, Kristine, Ligardis, Lisebette, Machteld, Marie, Matilde, Mabelie, Margareta, Mette, Nannen, Pernele, Reynildis, Sara, Siburg, Sophia, Sybillie, Tetta, Thedwi, Ude, Weindelmode, Yde, Ysabella.
 

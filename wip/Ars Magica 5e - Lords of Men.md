@@ -20,7 +20,7 @@
 
 **Second Round Playtesters:** Donna Giltrap, Malcolm Harbrow, Aaron Hicks, Richard Love; Angus MacDonald, Wendell BSP Joyner, Brian Watson, Mark Pasqual, Sally Hutchinson, Sarah MacDonald; Nicholas Peterson, Jennafyr Peterson, Kristi Pisarsky, Dan Byrne; Mark Shirley, Camo Coffey, Andrew Walton
 
-#### **Author Bios**
+#### Author Bios
 
 **Timothy Ferguson** works as a librarian on the Gold Coast. His family are theoretically descended from Fergus Mac Erc, first King of Scots, and one of the Kings Olaf of Sweden and some Chinese guys who may have been priests or worked in a temple or something. He lives with his wife and some cats, who have not disclosed their genealogy.
 
@@ -451,7 +451,7 @@ Realms still need their armies, for virtually all have recently been burned by w
 
 And at the edges of society, the nobles know, a mysterious Order of magicians lurks. The wizards are forbidden to meddle, it's said, but rumor states that little stops them. Are the wizards potential allies, or alreadyactive enemies? Is magic a threat, or an opportunity? The 13th century is a difficult time to be a nobleman, as challenges, as well as chances for glory, abound.
 
-#### **Noble Characters for Many Styles of Saga**
+#### Noble Characters for Many Styles of Saga
 
 This book provides resources for sagas of varying styles, whether realistic, high fantasy, political, or otherwise in orientation.
 
@@ -550,7 +550,7 @@ Bastards are particularly useful to medieval magnates, because they do not autom
 
 To simulate the randomness of age at death in Mythic Europe, which allows paths of inheritance to take unexpected turns, Storyguides may wish to secretly calculate the death age of non-player characters. Assume that any child has a 25% chance of dying of natural causes before adulthood is reached. For characters who are already adults, or children who survive, assume a death age of 6 simple dice + 20 years. In times of widespread war, flip a coin so that half of all adult men die by violence 10 years before the six dice indicate they should. For less-intense wars, instead use a die and grade the odds to suit the lethality of the conflict. Storyguides should note that these rules are harsher than the standard aging rules.
 
-#### **A Random Method of Life**
+#### A Random Method of Life
 
 If a character is waiting to inherit, check for the birth of new heirs. For each person between the character and inheritance, assess if they are likely to have a legitimate child in this year. Then roll a die for each, assuming that on average half of them do have a child. Check each child for random age of death.
 
@@ -564,7 +564,7 @@ The player characters also have a second lead to the identity of the heir's enem
 
 no incentive to overthrow their legitimate brother, and are dependent on his goodwill for advancement. Bastard sons, if trained as knights, are sometimes not fostered away, which allows them to grow more familiar with the estate than legitimate children. Bastard daughters are useful for making strong alliances with minor vassals or merchants, as marriage to a lesser noble or commoner does not dishonor them.
 
-#### **Designing a Family**
+#### Designing a Family
 
 Players wishing to generate a family for their characters may freely select any reasonable number of living siblings that they wish, and may select which are bastards. For a random number of legitimate siblings, roll two dice of different colors and halve each result. One die represents the number of male children surviving to adulthood, the other the number of female. Zeros represent no surviving children of that gender. For birth order, assign each child a number and roll randomly until all have a place. Distribute the births of all characters so that they lie within a 12-year span. Male characters older than 21 and female characters older than 18 are almost certainly married or committed to the religious life.
 
@@ -587,7 +587,7 @@ The subtraction of the birth number of the legitimate sons models the way that f
 
 Disloyal sons may remain in the service of their fathers for a long time, waiting for an opportunity to assert their independence. Sons who are not implacably disloyal may become loyal over time as their older brothers die, tying their interests closer to the head of the family's. On the other hand, many nobles feel that heirs are more likely to be disloyal than younger sons, since they have so much to gain by the deaths of their fathers; if this is the case in your campaign, troupes should shuffle these scores between sons to create interesting supporting characters for their stories. A family may be as detailed as the player and troupe prefer. Many troupes liketo keep extended families vague, so that new characters can be added as stories require.
 
-#### **Inheritance**
+#### Inheritance
 
 In many areas of Mythic Europe, the lands of a father are divided between his sons at death. In those that are influenced by Norman culture, this is seen only as a way of dividing the family's estate into a patch of squabbling petty knights, and so all land goes to the nominated heir. If no heir is nominated, this is the eldest, or the strongest as selected by the dead father's liege. This method keeps the family estate together, but gives younger sons motive to oppose the head of their family in war.
 
@@ -598,7 +598,7 @@ time only.
 
 If there is no male heir, the lands of families in many areas are divided between the daughters of the last lord. This prevents his sons-in-law from going to war, and provides lands to the Church through daughters who have taken the veil. This is one factor that prevents nobles having contiguous territories. The average noble family fails to provide a male heir every fourth generation, so this churning of lands is common.
 
-#### **Marriage and Dowries**
+#### Marriage and Dowries
 
 A player may select the degree of affection in the character's marriage in consultation with the troupe. Arranged matrimony is common for nobles, but many of these become loving marriages. Adultery is considered immoral, but is relatively common among noblemen of high status. The Church has recently ruled that a marriage requires, at minimum, only a spoken intent to marry and a dowry, although it prefers the addition of a priest and two witnesses.
 
@@ -726,18 +726,18 @@ For Intrigue rolls to uncover information or allies, they must first exist. A ch
 
 A character using the Intrigue ability in this way must entertain other gossips, hire spies, bribe servants, and threaten people. For Ease factors higher than 6, this takes (3 x Ease) days and costs at least (Ease / 3) pounds. Elaborate plans may cost far more, at the Troupe's discretion.
 
-#### **Ease Factor 3**
+#### Ease Factor 3
 
 - The stated reason for publicly declared enmity between the target and other nobles.
 - The target's well-known vices (Reputation 3 or more).
 
-#### **Ease Factor 6**
+#### Ease Factor 6
 
 - The reason behind public friction between the target and other nobles.
 - The target's lesser vices (Reputation 1 or more).
 - The intriguer spreads a rumor, to reduce one of the target's Reputations by 1, but the target knows the intriguer is responsible and can gain the Reputation back with appropriate public actions.
 
-#### **Ease Factor 9**
+#### Ease Factor 9
 
 - The reason behind private hostility between the target and other nobles.
 - Small, private vices known to the target's servants.
@@ -745,7 +745,7 @@ A character using the Intrigue ability in this way must entertain other gossips,
 - The lesser vices of a relative or friend of the target (Reputation 1 or more). The intriguer does not choose which relative or friend is vulnerable.
 - The intriguer spreads a rumor to create a negative Reputation of 1. The target, or the target's friends, may determine the identity of the perpetrator with an Intelligence + Intrigue roll higher than the intriguer's, and may combat the Reputation with appropriate public actions.
 
-#### **Ease Factor 12**
+#### Ease Factor 12
 
 - The reason behind minor disagreements between the target and other nobles.
 - What is required to push the private hostility of one of the target's enemies into public enmity.
@@ -753,7 +753,7 @@ A character using the Intrigue ability in this way must entertain other gossips,
 - Small, private vices of one of the target's friends. The intriguer does not choose which relative or friend is vulnerable.
 - The intriguer forges evidence of a tawdry nature that creates a negative Reputation of 2. The target, or the target's friends, may determine the identity of the perpetrator with an Intelligence + Intrigue roll higher than the intriguer's. The character may shed the Reputation with appropriate public actions and, if the target can find evidence, the intriguer may gain a poor Reputation instead.
 
-#### **Ease Factor 15**
+#### Ease Factor 15
 
 • The details of an old grudge, or an old enmity, that has lain forgotten for many years.
 
@@ -762,7 +762,7 @@ A character using the Intrigue ability in this way must entertain other gossips,
 - Information that will cause one of the target's friends or relatives to feel wronged by him.
 - The intriguer forges evidence of a crime, which will cause the character severe trouble. The target, or the target's friends, may determine the identity of the perpetrator with an Intelligence + Intrigue roll higher than the intriguer's. If they can find evidence, the intriguer will face legal reprisal. The target may demonstrate innocence through a story event.
 
-#### **Ease Factor 18**
+#### Ease Factor 18
 
 - Information about the crimes of the target's ancestors, which rile a descendant of their victim against the target.
 - What is required to push a defeated enemy of the target back into action.
@@ -773,7 +773,7 @@ A character using the Intrigue ability in this way must entertain other gossips,
 
 plified way, have vassals fulfilling parallel roles. The exact title for a role varies widely. Characters designed as officers need the Temporal Influence Virtue.
 
-#### **Admiral**
+#### Admiral
 
 In many courts, a permanent force of dedicated warships is a novel idea. Traditionally, kings have simply hired or requisitioned the ships required for warfare. When a king does have a personal fleet, it is maintained by an officer. This officer serves as an aide to whichever nobleman is given charge of a particular campaign in which the fleet is engaged. The term "admiral" is an Arabic one, and is not yet widely used.
 
@@ -781,39 +781,39 @@ Lesser noblemen usually have boats, but rarely use them for naval warfare. The m
 
 A character who holds the office of admiral can find, provision, crew, and command vessels of war. Their number is commensurate with the power of the character's liege. An admiral is also able to command men who make their livelihood from warships and trading, through a mixture of charm and force.
 
-#### **Butler**
+#### Butler
 
 Nominally the king's wine steward, the butler is responsible for the feeding of the court. This requires a tremendous amount of money, and the butler is also the officer charged with overseeing those parts of the royal demesne set aside to produce food for the court. A direct parallel of this role is found in lesser courts. A butler, then, commands vast wealth on behalf of the lord, and has the right to nominate prices for things that the court requires, effectively controlling a taxing power used against towns.
 
-#### **Chancellor**
+#### Chancellor
 
 The chancellor is, technically, the master of the king's correspondence. Effectively, this makes the chancellor the king's chief ad-
 
 
 visor on foreign relations and the state of the Church. It is a lucrative and powerful role, because it controls the vacant Church lands within the gift of the king. This role is almost always held by a priest, and in lesser courts it is sometimes combined with the role of personal confessor to the nobleman. It is an unusual chancellor who does not have private agents and criminals at his disposal.
 
-#### **Chamberlain**
+#### Chamberlain
 
 The chamberlain is responsible for the king's chamber, which in a fuller sense means that he is responsible for wherever the king is staying, much of the king's retinue, and the king's personal possessions. Chamberlains lack the raw power of some of the other officers, but are highly influential, having access to the king far exceeding that of any of the other officers. In many small noble holdings, the lord's wife acts as his chamberlain.
 
-#### **Constable**
+#### Constable
 
 This term has split in different realms to mean different things. In Britain, it is used indiscriminately for anyone who holds a royal office, so that the castellan of a royal castle may be called its constable. In France, it has a similar wide variety of meanings, but often refers to the leader of the French army, whom English people would call its marshal. The Constable of France is permitted to countermand the orders of the king in battle.
 
-#### **Counselor**
+#### Counselor
 
 It is the duty of all vassals to attend their lord when summoned, and give him advice. This duty is described more fully in a later section. It is recognized, however, that certain persons give more-useful advice than others, and so it is convenient to have them on hand for the lord's select councils. These people assist the lord in governing his territory. If a person is a member of this group, he is called a counselor. This office is often gained with one of the other offices of the royal household, but there are some counselors who are not part of the royal household. Women of political inclination are often members of the councils of their relatives.
 
 
-#### **Justiciar**
+#### Justiciar
 
 The king's primary officer for the enforcement of the law is his justiciar. The enforcement of the law is a lucrative business for most kings, and in many kingdoms this office has proven too mighty for the king to easily control its holders. This has led to the king resuming the title, and creating lesser posts that serve as his aides in selected parts of the realm. The title of justiciar is usually given to the person acting as regent for a king who is a minor or insane. This is sometimes the mother of a child-king, if she is known for her political acumen and she either has the support of most of the nobility or she is considered a useful compromise between rival groups.
 
-#### **Marshal**
+#### Marshal
 
 The marshal is the leader of the king's bodyguard, and by extension, in time of war the leader of the royal army in the field. Marshals also have the responsibility to raise and provision the army. There are marshals in lesser courts, although their role as leader of the army is weaker. The position of marshal rose to prominence in England during the reigns of King John, who was averse to personal supervision of his army in the field, and his infant heir.
 
-#### **Sheriff / Bailie / Sénéchal**
+#### Sheriff / Bailie / Sénéchal
 
 These offices have similar roles.
 
@@ -835,11 +835,11 @@ The most extreme case of amercement occurs when a felon — that is, someone who
 
 By whatever name, these roles are attractive to covenants. A proxy nobleman acting as sheriff provides an income for the covenant with effective legal impunity in temporal affairs. The Quaesitores consider it likely a breach of the Code to outbid other nobles for this role. However, through skilled diplomacy, overt bribery, and occasional threats, it has been possible for covenants to have a great deal of influence over the selection and activities of sheriffs.
 
-#### **Steward**
+#### Steward
 
 The king's steward is responsible for all of the parts of the court that are not explicitly the responsibility of others. Such a nebulous and useful role is found in every lesser court, although it tends to combine with the roles of butler, chancellor, and chamberlain. The steward, as controller of the king's household, is the leader of the king's household army, but his subordinate the marshal actually leads it in battle. Stewardship is often vested in women, such as the mothers of infant lords, or the wives of lords.
 
-#### **Treasurer**
+#### Treasurer
 
 The treasurer of a king is the guardian of the lord's wealth. The exact role the treasurer plays varies by location. He may have a strong legal role, overseeing the collection of rights, or may have a far more limited role, as the master of the castle where the king keeps much of his minted money. The treasury of a kingdom tends to be highly defensible, because loss of the treasury makes it difficult for a king to raise mercenary armies, or keep his feudal retainers in the field longer than their obligated days. Many kings have several treasuries; they may assign separate treasurers to each, or have them supervised by a single officer.
 
@@ -866,11 +866,11 @@ A lord's vassals are theoretically his chief lieutenants. Flaws in the feudal sy
 
 Some kings try to minimize the role of their vassals in the politics of the kingdom. A land governed by royal officers, without a hereditary caste of landowners, would be more stable and provide greater revenue to its ruler, they assert. These attempts usually end badly. Regardless of its efficiency, the noble class exists, and when the king is weak, it has the financial and military power to crush the commoners raised as opponents by earlier, stronger kings.
 
-#### **Vassalage Allows Nobles to Express a Common Interest**
+#### Vassalage Allows Nobles to Express a Common Interest
 
 Initially, in most kingdoms vassalage was voluntary. The great landholders of the kingdom came together and elected their kings. They did this so that a central figure of authority could lead them in war and settle their disputes. This method of select-
 
-#### **Coroner**
+#### Coroner
 
 Much as the sheriffs are a curb on the power of the earls, so the coroners are a curb on the power of the sheriffs. The coroner acts as an inspector who binds people for trial and deals with petty cases summarily, depriving the sheriff of some of his revenue. Each shire elects four knights for a period to serve as its coroners. Towns also have coroners, sufficient in number to deal with the royal business of the town. In areas like the Marches, where the judicial rights of the crown have been delegated, coroners are often appointed by the nobleman directly.
 
@@ -880,7 +880,7 @@ The coroner also acts as the king's representative, collecting rights that would
 
 The coroners are also the collectors of murdrum. This is the fine levied on a community where a person has been secretly killed, if the members of the community cannot prove the body to be English (or Welsh or Irish, for coroners in the invaded parts of those countries), as opposed to Norman. The fine is high, up to 30 pounds per body, so many towns buy exemption from the law of murdrum through royal charter. They have too many merchants, pilgrims, and sailors visiting them and dying anonymously to leave this to chance.
 
-#### **Forest Warden**
+#### Forest Warden
 
 The forests of England are all of the areas that have been declared sole hunting preserves of the king. "Forest," in this sense, is a specialized legal term. There are forests that are not wooded, and most woods are not forest. The forest is administered by the forest warden, who has a deputy for each major forest, also called a warden. These roles are noble, but their servants — the rangers and surveyors — are not.
 
@@ -890,15 +890,15 @@ The lands of the office are supposed to provide wages for the warden's retainers
 
 ing kings is failing, though. The current king of England was still a baby when loyalists defeated the army of the barons, who had offered the throne of England to the crown prince of France, forcing them to accept primogeniture on the English throne. Philip Augustus, the current king of France, has not forced the nobles of his kingdom to appoint his son co-king, as Phillip's father did just before dying. Again, primogeniture has been accepted as the proper way for the crown to pass to the next generation.
 
-#### **Vassalage Allows for Huge Transactions**
+#### Vassalage Allows for Huge Transactions
 
 Vassalage allows a noble to pay a supporter with land, while not losing some of the rights associated with that land. When the Normans invaded England and William divided its lands between his retainers, he was paying them the fee expected for their service. Mustering an army and conquering territory is best rewarded with land. This encourages the supporters of a noble to excel themselves in future conflicts.
 
-#### **Vassalage is a Form of Truce**
+#### Vassalage is a Form of Truce
 
 A feudal bond places two powerful men in a relationship to each other. It is considered heinous for either to threaten the other, at least in theory. Either could still cause the other harm, but it would do such damage to the Reputation of the aggressor as to make future political activity difficult. The lord and his vassal, although they have conflicting interests, agree not to directly assail each other.
 
-#### **Vassalage Limits Genocidal Warfare**
+#### Vassalage Limits Genocidal Warfare
 
 If a noble invades a neighboring lord, it is rarely possible to carry the war to the extinction of the neighbor's family. The nobility of Europe are too tightly connected by marriage. If an invader kills a sufficient number of heirs to most pieces of land, eventually one or more senior nobles will claim to be the closest relation still alive. This noble will then challenge for the land, particularly if this series of wars has weakened the aggressor. A way around this is to kill the neighbor and then select a claimant from his extended family from whom to accept vassalage. Most significant families have some disaffected cousins suitable for this purpose.
 
@@ -927,7 +927,7 @@ A vassal is required to provide warriors for a number of days per year that vari
 
 
 
-#### **Scutage**
+#### Scutage
 
 Some nobles send money when war is declared, instead of knights. This fine for non-attendance, called scutage, serves the interest of the landholder if he lacks military inclination, and serves the interest of the liege, who can then hire mercenaries or pay his army to remain in the field after its annual service is complete. Many greater nobles are instructed to muster a portion of their forces and give scutage for the rest if a war is likely to be protracted by sieges. They may also be offered a bulk discount on their scutage.
 
@@ -993,7 +993,7 @@ Powerful magnates prefer to have a bloc of territory that is friendly to their c
 
 Players may model the power their character has through affinity in two ways. First, the affinity may be treated as a bonus to the character's Leadership score. This is described in the Affinity Leadership section, later, and in the Raising an Army section of Chapter Eight: Massed Combat. Alternatively, key members of the affinity may be designed as agents, using the section on Control Through Emotional Bonds, also later. Characters within an affinity are usually either great nobles or ecclesiastical landholders. Some lords manage to have towns within their affinities, but this is unusual as most towns value their independence from local interference.
 
-#### **Secular Allies**
+#### Secular Allies
 
 An ally often has similar resources to the magnate. Alliances remain lucrative because the resources of allies cost little, and making neighbors allies allows characters focus their attention, money, and time elsewhere.
 
@@ -1001,7 +1001,7 @@ Public alliances prevent unnecessary wars by making it clear that, should a part
 
 Alliances may be secret. This is common in those cases where a nobleman is being bribed by his liege's neighbor to rebel, or to simply not send his full support in wartime. Detailed charters are still written in these cases and carried between the conspirators by messengers.
 
-#### **Church Allies**
+#### Church Allies
 
 A powerful churchman has all of the resources of a secular ally, coupled with his
 
@@ -1068,7 +1068,7 @@ Affinity leadership may be used, for example, in rolls that:
 
 Not all troupes find these rules convenient for the stories they wish to tell. Each troupe should discuss this element of the rules and determine the degree to which they will be guided by the suggestions given here.
 
-#### **Agents**
+#### Agents
 
 Directly controlled subordinates are referred to as agents in these rules (though not
 
@@ -1112,7 +1112,7 @@ Flaw. The agent has a Story Flaw, like Blackmail or Dark Secret, that represents
 
 Duke Simon owns the benefice for the cathedral in his main town. That means he can exclude the bishop from its use. The bishop, Benedict, feels grateful to Simon that his ascension went smoothly (Thankful +1) and is willing to aid Simon using his political influence, but he is a faithful man and will not do things he finds abhorrent.
 
-#### **Acquiring Agents**
+#### Acquiring Agents
 
 Some characters have agents at character creation due to Virtues they have selected. These include Social Contacts, Mercenary Captain, Close Family Ties, or Landed Noble. Each of these virtues grants 12 points to spend on the accompanying Agent Recruitment Table for thematically appropriate agents. Each agent must cost at least 1 point, and have a Bond of +1 or more.
 
@@ -1134,7 +1134,7 @@ The principal must first impress the potential agent, so that the potential agen
 
 <sup>\*</sup> Must take underlings, see below.
 
-#### **Modifiers**
+#### Modifiers
 
 | Circumstance                                             | Modifier | Examples                                                                                                                  |
 |----------------------------------------------------------|----------|---------------------------------------------------------------------------------------------------------------------------|
@@ -1144,7 +1144,7 @@ The principal must first impress the potential agent, so that the potential agen
 
 <sup>\*</sup> Agent hates principal, which inflicts the Difficult Underlings Flaw for this agent only.
 
-#### **Resources**
+#### Resources
 
 | Resource                                         | Modifier | Examples                                                                                    |
 |--------------------------------------------------|----------|---------------------------------------------------------------------------------------------|
@@ -1173,7 +1173,7 @@ selections from this list
 | Perform a Hard task (Ease<br>Factor 12 or less).                  | 6                              | Steal a ring from a lady's finger,<br>unnoticed.                                      |
 | Perform an Impressive Task<br>(Ease Factor 18 or less).           | 9                              | Arrange a fatal accident for the<br>prince.                                           |
 
-#### **Persuasion Roll Modifiers**
+#### Persuasion Roll Modifiers
 
 | Timeframe                                                         |          | Modifier                                |
 |-------------------------------------------------------------------|----------|-----------------------------------------|
@@ -1208,7 +1208,7 @@ An impressed agent-to-be must then be drawn into the principal's sphere of influ
 
 The initial resistance of an agent is determined using the Agent Recruitment Table. When assessing the cost of an agent, select only those resources that the agent will use in play in the service of the principal. The Virtues and Flaws of agents do not need to balance each other. A character's resistance is reduced by 1 in exchange for a number of Agency experience points equal to their current resistance. The agent comes into the service of the principal when his or her resistance reaches 0. A new agent has a Bond score of 0.
 
-#### **Using Agents**
+#### Using Agents
 
 Characters use their agents by setting tasks. An agent must have the resources and Abilities to complete the task, and a Bond score of at least +1. The player then makes the following roll, to see if the agent attempts to perform the task:
 
@@ -1224,7 +1224,7 @@ Agents may also be asked for assistance: that is, they may be asked to expend th
 
 to the task and have sufficient free time. A character with a Minor Flaw that consumes his time, or requires him to drop out of public sight, is unable to assist his principal in one quarter of those cases where his services are desirable. A character with a Major Flaw is unavailable half the time.
 
-#### **Maintaining Agents**
+#### Maintaining Agents
 
 Valuable agents are often the source of stories. Characters may seek to aid agents who are in legal or financial trouble. If an agent dies, the principal may seek to recover any resources loaned to the agent, and may wish to ensure that the agent has left no written record of their dealings. The strength of the bond that agents have to the principal may wane due to life events, and need reinforcement.
 
@@ -1246,7 +1246,7 @@ A Reputation is also of benefit in the early stages of a knight's career. It all
 
 This section extends the Reputation Table on page 19 of ArM5, providing a fourth style of Reputation to accompany Local, Hermetic, and Ecclesiastic. Noble Reputation allows members of the landed class to know about each other. For the purpose of these Reputations, the landed class contains every man or woman who holds land, who holds a significant office from a major nobleman, who acts as a major landholder on behalf of the Church, or who may inherit any of these states. There are some obvious overlaps between these types of Reputation, and troupes using these rules should allow characters' players to alter their scores to suit their history in play.
 
-#### **Prudhomme**
+#### Prudhomme
 
 The prize reputation for a male noble in Mythic Europe is that of prudhomme. A prudhomme is a man considered to have been tested and found sound by other members of his class. A man is a prudhomme if he is noble of blood, handsome, demonstrates prowess, and is of suitable character. The prowess required and the character desired are those considered correct for the work of mounted medieval warriors. In some courts Christian ethics may appeal, but to be a
 
@@ -1258,7 +1258,7 @@ Many covenants receive unwanted children, and raise them as custodes. One of the
 
 prudhomme to other knights, a man must be willing to do what is necessary to win war. A prudhomme makes war using means that the Church abhors as foul, and he does it well, and with delight.
 
-#### **Improving Noble Reputation**
+#### Improving Noble Reputation
 
 A character first develops a reputation by entering feudal life. The character does this by being born into a noble family, or by becoming the vassal of a landed person. This gives the character a Noble Reputation of 1, with boring content like "son of Lord Corvinius" or "vassal of the Count of Champagne." A character may gain a higher Reputation for doing anything so interesting that it is discussed widely by his or her peers. Being a Crusader touched by a miracle before an army of witnesses, or being caught lead-
 
@@ -1282,7 +1282,7 @@ Significant events may lead to greater Reputation:
 
 There is very little a knight can do to decrease his Reputation. A knight who runs like a child during battle, or who is unable to rescue his paramour from danger, is still interesting enough to be gossiped about; it is merely the content of the Reputation that changes. Characters may use the techniques described on page 167 of the ArM5 core rulebook to modify noble Reputations.
 
-#### **The Advantages of Reputation**
+#### The Advantages of Reputation
 
 A character's Reputation allows the other members of the noble class to judge his interests and intentions. This lets them accommodate him in their plans. A character of strong Reputation need do nothing, but still affects the calculations of personal interest of his neighbors. A fierce Reputation is a potent envoy. Changes in the Reputation of significant characters can sway the fate of thrones, by making key nobles appear unwilling to fight, ill-prepared for war, or arrogant about their skill as a commander of troops.
 
@@ -1296,7 +1296,7 @@ A character's Reputation allows the other members of the noble class to judge hi
 | 12          | Rival kingdom                     |
 |             |                                   |
 
-#### **Status modifiers – select only one**
+#### Status modifiers – select only one
 
 | Modifier | Circumstance                                                           |
 |----------|------------------------------------------------------------------------|
@@ -1306,14 +1306,14 @@ A character's Reputation allows the other members of the noble class to judge hi
 | –3       | A landholder of status superior to the character making the roll.      |
 | –6       | A vassal of the character making the roll.                             |
 
-#### **Miscellaneous modifiers – select all appropriate**
+#### Miscellaneous modifiers – select all appropriate
 
 | Modifier | Circumstance                                                          |
 |----------|-----------------------------------------------------------------------|
 | +3       | A widow who does not hold in her own right, or an heir of a<br>noble. |
 | +6       | An acknowledged lover or bastard.                                     |
 
-#### **Reputation is Utterly Vital**
+#### Reputation is Utterly Vital
 
 It can be difficult for modern players, who are used to board games and computer games, to understand how significant Reputation is to Mythic European nobles. The Reputation of a rival tells a character what a noble wants, what resources he has, and, crucially, what he is willing to do if provoked. Most significant decisions during the outbreak of war are not made based on detailed consultation with powerful individuals; communication is too poor. They are based on an estimate of what others will do in response to a situation, and to a character's actions.
 
@@ -1348,7 +1348,7 @@ Dressing as a man is not usually a successful strategy for the extended term, th
 
 Women can gain control of land in six ways: during absence, through inheritance, via political success, through conquest, in a widow's portion, or as a steward.
 
-#### **Absence**
+#### Absence
 
 Landholding is intimately tied, in most of Mythic Europe, to providing military service. The male head of most families must be available to fight in campaigns, some of which last for months, or in civil wars, which can sputter along for years. Many nobles leave their wives as their deputies. The value of an educated wife to the military preparedness of her husband has overcome many of
 
@@ -1371,7 +1371,7 @@ The role that women play in the command of troops varies between the societies o
 
 Many noblewomen maintain networks of agents completely separate from the households of their husbands. A wife may take over her husband's network if he dies or is on campaign. This role, as correspondent and diplomat, is expected of the wives of nobility. A woman who does not socialize is considered a poor supporter of her husband's efforts.
 
-#### **Inheritance**
+#### Inheritance
 
 Lands inherited by women are a recognized feature of feudal life. In most kingdoms land goes to sons before daughters, but daughters are given preference over more-distant male relations, like uncles and cousins. Some areas grant all of the land to the eldest son, and the daughter receives it intact if there are no sons. In others, when a paternal line extinguishes in this way, the land is divided between all of the remaining sisters, or their husbands. In a few areas women are permitted to inherit directly, either because the land of a family is divided between all of the siblings who are not already members of the Church, or because the lord is permitted to nominate his heirs and so may choose his daughters.
 
@@ -1382,15 +1382,15 @@ ous domain for one of her younger sons.
 
 Land that a girl's father has added to his ancestral territories may be made available as dowry. Dowries are used, in much of Europe, as a sort of inheritance before the death of the father. Rules for the design of dowries are given in the Family section, earlier.
 
-#### **Political Success**
+#### Political Success
 
 It is rare for anyone, male or female, to be granted land for purely political favors, but it occasionally occurs as a result of stories. A common way for a woman to be granted land is to become the mistress of a powerful nobleman and bear his child. If the woman has suitable abilities, she may be made the child's guardian until he is of age to join his father's household.
 
-#### **Conquest**
+#### Conquest
 
 Some women claim land through invasion, allowing their retinue of knights to settle conquered areas as vassals. This requires loyal retainers and either a friendly monarch or a formidable reputation, as a mercenary captain or disloyal male vassal might try to swear fealty for the land himself. Such women rarely enter combat themselves, but since they are the leaders of their armies, it would be insubordinate to gainsay them if they wished it.
 
-#### **Widow's Portion and Stewardship**
+#### Widow's Portion and Stewardship
 
 In most areas a widow is permitted to retain the use of a portion of her husband's lands for her own use after his death. As a rule of thumb, assume a widow can keep
 
@@ -1404,7 +1404,7 @@ A key to female landholding is the comparative longevity of women in wartime. Pl
 
 In most areas there are folktales about particular women who, at some past time, acted in the role of knight. How characters react to contemporary women who attempt the same course varies by culture and by the status of the particular woman. In the Order of Hermes, the philosophy of Plato coupled with the scarcity of The Gift has led to a position of equity. Plato advocated the training of women for all the duties of the state including administration and warfare. Very few women seek military success, but sufficient do for the role to be accepted, to some degree, in most areas. The following examples may guide the generation of background for female nobles who seek military roles.
 
-## **Dressing as a Man: Margaret of Beverley**
+## Dressing as a Man: Margaret of Beverley
 
 Margaret of Beverly was born in the Holy Land: her parents were English pilgrims who commenced their journey while her mother was pregnant. After reaching adulthood and seeing to the education of her younger brother, Margaret decided to revisit Jerusalem. Through terrible luck, she was present when Jerusalem fell to Saladin in 1187.
 
@@ -1414,19 +1414,19 @@ After peace was concluded she sailed
 
 for England with the English army, departing from Acre. Her other travels, to Rome and Santiago, were almost as adventurous as this first trip. Historically, after her journeys she sought out her younger brother, who had become a monk, and he led her to the contemplative life. She joined a nunnery at Laon, in France, and may live there still in 1220.
 
-## **Eleanor of Aquitaine: Inheritance**
+## Eleanor of Aquitaine: Inheritance
 
 Eleanor attended the Second Crusade with her husband, and was attended by a guard of female knights dressed as Amazons and mounted on white horses. Eleanor's right to lead her troops, as overlord of Aquitaine, was incontestable. The queens of several of the other leaders followed her example. Her behavior was considered scandalous, and led to the Papal Bull forbidding women from taking the cross in the Third Crusade.
 
-## **Sikelgaita of Sicily: Conquest**
+## Sikelgaita of Sicily: Conquest
 
 A princess of the Lombards, then the wife of the Duke of Apulia and Sicily, Sikelgaita is recorded as having participated in her husband's battles dressed as a knight, and as charging enemies with a spear. In her husband's wars against the Byzantine Empire, she rallied some troops that had fled a battle, sending them back into the fray at the Battle of Dyrrachium. The Norman conquests in Byzantium were lost after the war turned against her family.
 
-## **Petronilla of Leicester: Absence**
+## Petronilla of Leicester: Absence
 
 Petronilla is recorded as having armed herself as a knight and fought in battles during the reign of Henry II, perhaps due to the absence of her husband. A namesake was active during the wars of John against his barons, and purchased the right to select her own husband. This Petronilla used John's desperation for money to haggle the relatively good price of 4000 marks. The latter Petronilla has only been dead eight years.
 
-## **Matilda of Tuscany: Political Success**
+## Matilda of Tuscany: Political Success
 
 Matilda's parents were allies of the pope, and open rebels against his rival the emperor. Matilda was trained in warfare from an early age. Her tutor was later the commander of her forces and stated he had trained her in lance, pike, axe, and sword. Matilda is widely believed to have ridden into battle from her teenage years.
 
@@ -1465,7 +1465,7 @@ A squire may take the Gentleman, Knight, or Landed Noble Virtues. Players should
 
 A knight is a professional mounted warrior. This role can theoretically be conveyed by any knight to anyone, but in many areas use of this right has become a crime, so that a knight exercising it must pay a fine to his overlord. This is because many overlords charge a fee in exchange for creating knights, and a knight who, for example, dubs his squire or son, must make good the revenue the lord has lost.
 
-#### **Bacheler Knight**
+#### Bacheler Knight
 
 Most lords have a personal guard of knights, called a mesnie in French, whose members are called bachelers ("bachelors"). Bacheler knights are vassals of their lord, but they are usually held in greater trust than other vassals. They are led by a senior knight called a carissimus. These knights are often supported with coin and kind rather than land. In other lands there are house knights with identical roles, although the terminology differs.
 
@@ -1473,7 +1473,7 @@ A bacheler knight has the Virtues Knight and Protection, and the Oath of Fealty 
 
 Some extremely wealthy knights use this title. They are bachelers because they are of the household of their lord, so they fulfill the role of his companions and bodyguards. Their lord, however, is so wealthy he provides manors for his bachelers, which they rent out or leave to the administration of stewards. These rich bachelers are Landed Nobles.
 
-#### **Knight Banneret**
+#### Knight Banneret
 
 Most knights who lead sergeants and infantry into battle use a small flag to indicate their location. Knights who lead other knights into battle often use a larger flag, with a more-pointed shape. If the leader of such a force has no greater title, he is referred to as a banneret. A knight may claim this rank simply by arriving at a battle with a force of ten knights all clad in his livery and willing to kill as instructed.
 
@@ -1483,7 +1483,7 @@ In some areas, it is felt that the right to lead men in battle under your own ba
 
 ## A Consideration of Virtues and Flaws
 
-## **Oath of Fealty (Major Story Flaw)**
+## Oath of Fealty (Major Story Flaw)
 
 In many areas, a lord holds his land from a superior, in exchange for a mix of services and payments. This is represented by the Oath of Fealty Flaw (ArM5, page 56). This is a Major Story Flaw. For most non-player characters and many PCs this suffices, but troupes may wish to modify this slightly for several reasons.
 
@@ -1491,15 +1491,15 @@ Some nobles hold land simply through descent from people who have held it since 
 
 Troupes are encouraged to permit knights who have taken oaths to a lord, but whose oaths lack consequences in play. These insignificant oaths are not treated as Flaws, so they cannot be balanced against Virtues. Troupes may choose to allow insignificant oaths because otherwise knights cannot begin with many of the Story Flaws that suit the chivalric genre, like Black Sheep, Dark Secret, Enemies, Higher Purpose, Heir, True Love, or Vow. Player character knights are more interesting if they can have a range of Story Flaws.
 
-#### **Knightly Demands (Major Story Flaw)**
+#### Knightly Demands (Major Story Flaw)
 
 As an alternative to all of this tinkering with detail, troupes may simply state that all knights have a Major Story Flaw, called Knightly Demands, that allows the Storyguide to drag them into any plot related to the kind of things knights do in medieval ballads. This flaw works best for high fantasy, highly mobile sagas, because it includes quests, military service, romances, feuds, rescuing damosels, aiding kinfolk, and chasing monsters. This flaw replaces Oath of Fealty entirely.
 
-#### **Knight (Minor Virtue)**
+#### Knight (Minor Virtue)
 
 Some few women serve as knights in Mythic Europe. These women are discussed in greater depth at the end of Chapter Two: Politics.
 
-#### **Landed Noble (Major Virtue)**
+#### Landed Noble (Major Virtue)
 
 A lord of the manor is the least senior style of landed noble. In England about half of the male manorial lords are knights. The rest are termed "gentry" or "squires" and could be knighted if they wished, but prefer to avoid it since there is a tax attached to the office. A lord of the manor has the Virtue Landed Noble. Knight and Protection are common Virtues, but are not required.
 
@@ -1511,7 +1511,7 @@ A lord of the manor without Virtue or Flaw has a second manor, for which he owes
 
 A typical Wealthy Landed Noble holds, on average, five manors and lives at the richest, or the one to which he has the greatest sentimental attachment. These lands provide the lord with the service of four knights, other than himself, 5 serjants, and 50 villeins. If fighting in the same county, the lord may double the number of villeins who are required to assist him. The lord may spend money to swell the ranks of his personal army, and usually pays scutage for himself or sends a knight in his stead. He has three seasons of free time per year, and 20 pounds per year to spend as he wishes. His additional income comes from fertile land, active assarting in previous generations, or perhaps the lack of a knight-service on one of his manors.
 
-#### **Great Noble (Two Major Virtues)**
+#### Great Noble (Two Major Virtues)
 
 This Virtue is used to represent the resources of a character of the rank of greater baron or higher. It should be treated as:
 
@@ -1542,11 +1542,11 @@ In.England,.earl.the.basic.title.for.a.major.landholder..The.term."earl".comes.f
 
 A.count.or.earl.has.the.Great.Noble.Virtue,. while. a. countess. (which. is. the. correct. term.for.the.wife.of.an.earl,.or.a.female.earl). has.Gentlewoman.if.she.does.not.hold.the. land.in.her.own.right..A.count.has.a.yearly. expenditure.of.at.least.1000.pounds..The.average. count. might. be. required. to. bring. 50. knights.to.battle,.along.with.their.sergeants. and. 500. infantry.. Large. vassal. armies. are,. however,.worthless.for.sieges,.because.sieges. usually.last.longer.than.the.period.of.service. required.of.vassals.each.year..Their.muster.is. often.commuted.to.cash.payment,.to.allow. the. king. or. count. to. hire. mercenaries.. An. average.count.has.100.pounds.to.spend.on. trivialities.per.year,.and.a.wealthy.one.250. pounds.
 
-## **viscount (vice-coMes, viscoMte)**
+## viscount (vice-coMes, viscoMte)
 
 A. viscount. was,. initially,. a. deputy. to. a. count.. In. 1220,. the. term. viscomte. is. used. in.France.for.lesser.counts..Its.Latin.form.is. used.in.England.for.sheriffs,.who.are.officers. of.the.king.
 
-#### **Count palatine and MarcHer Lord**
+#### Count palatine and MarcHer Lord
 
 A.count.palatine.is.a.count.who.has.been. given.extra.powers.to.deal.with.a.difficult.border..In.England.there.are.several.counties.palatine:.Durham,.which.is.near.the.Scots.border,. and.Chester,.on.the.Welsh.border,.are.both.still. points.of.strength..Ely.and.Kent.were.points. of. resistance. after. the. Conquest,. where. local. churchmen. were. given. additional. powers. to. subdue.the.population..This.role.is.intertwined. with.the.role.of.marcher.lord.
 
@@ -1607,7 +1607,7 @@ Many of the senior German nobles are sometimes referred to with the title fürst
 
 This title is used for any member of the nobility lacking a superior title. As such, it is used in much the same way lord is for the English gentry.
 
-#### **Freiherr**
+#### Freiherr
 
 A freiherr is a nobleman with an allodial holding. It is sometimes translated as baron in English, and most freiherren are approximately equivalent in power to a minor count. An allod in the Holy Roman Empire can, however, vary in scale from the equivalent of a single manor up to territory similar in scope to a county. The title freiherr is, therefore, not really indicative of the power of the holder.
 
@@ -1615,7 +1615,7 @@ A freiherr is a nobleman with an allodial holding. It is sometimes translated as
 
 This is a general term for cavalry soldiers. The German ritter plays the same role as the French chevalier or the English knight.
 
-#### **Ministeriales (Ministers)**
+#### Ministeriales (Ministers)
 
 Some German knights are not free men. These knights are called ministeriales, and initially served militarily in exchange for their upkeep. Over time the role of ministeriales has broadened, so that some provide other services to a lord. The reichsministeriales, for example, assist many of the legal and administrative functions within the empire. Over time, families of the ministeriales are being absorbed into the hereditary class of knights.
 
@@ -1623,7 +1623,7 @@ Some German knights are not free men. These knights are called ministeriales, an
 
 The role of a graf is similar to the role of a count. The term is modified to create many related titles in the German system. These include examples like buggraf (burgrave), which means the keeper of a castle or fortified town, or landgraf, which is a graf with a larger area of administrative responsibility than usual. A burgrave ranks as a viscount, slightly below the graf. A landgraf ranks slightly above a count.
 
-#### **Markgraf (Marchio, Margrave)**
+#### Markgraf (Marchio, Margrave)
 
 This relatively rare title is a remnant of imperial expansion. A margrave was, initially, a count who has been granted fuller legal powers, in order to deal with a difficult border. This title is found in places like Brandenberg, Moravia, and Verona, which are held by the descendants of such margraves. Some of the other marches have become powerful, and so have shed this title. Styria and Austria, for example, were originally marches but are now duchies. Others have been dissolved into smaller units once they are settled, like the Breton March in France. The most-powerful margraves have the wealth and power of dukes, and in time swap one title for the other.
 
@@ -1684,11 +1684,11 @@ ballero or send a surrogate on campaign. The tax exemptions and the title of cab
 
 Players designing caballeros can either take the Knight Minor Social Status Virtue, or just use gear that belongs to the covenant. Caballeros are required to fight as dictated by local customs or the fuero of their town (which may be used as a Major Story Flaw, or ignored with troupe approval).
 
-#### **Caballero Villano**
+#### Caballero Villano
 
 Within the general body of mounted warriors are further distinctions. A caballero villano is a knight who is closely tied to a particular town. To maintain this status and its useful tax exemptions, a caballero must live in a town and be ready to muster to its defense, or fulfill the campaign requirements of the local militia. Residency, in many areas, requires the caballero to not leave the town during the autumn or winter, so that he will be ready to campaign in the spring. It also requires that the caballero's wife and children live in the town, so that he will not flee when the frontier is breached by invaders. This style of Wealthy Knight is tied to the town by his Dependents rather than his honor, although troupes may permit players to select Knightly Duties instead.
 
-#### **Caballero Hidalgo (or Fidalgo)**
+#### Caballero Hidalgo (or Fidalgo)
 
 An hidalgo is an ancestral caballero, often defined as one whose grandfathers were hidalgos. That is, he is a caballero whose family will support him in matters of honor. Lack of money is a matter of honor in Iberia, because a poor caballero can lose his status. Hidalgos are a little like the lords of the manor in the English system, in that they are considered qualitatively superior to the average knight, but they are not necessarily required to have grants of land. In some fueros it is assumed that the hidalgos will provide heavy cavalry and the villanos light cavalry, but this is not universal. Hidalgos have the Knight Virtue and either Gentleman or Landed Noble.
 
@@ -1924,7 +1924,7 @@ Over the centuries, a few covenants have been destroyed by overt acts of God. Th
 
 of the forces that could have shaped Mythic Europe for these reasons, and troupes may mix these influences as suits the stories they wish to tell.
 
-#### **God Has A Plan**
+#### God Has A Plan
 
 The will of God is difficult to successfully describe for Mythic Europeans. Some saints, supported by miracles, believe that the poor should be succored at the expense of the rich and that peace is desirable in all circumstances. These gentle souls may be contrasted with the many churchmen who suggest that good kings are instruments of the Divine will, and even wicked kings deserve their due by customary law, because they are the scourges of God.
 
@@ -1932,7 +1932,7 @@ Many Hermetic magi have personal beliefs concerning the will of God that oppose 
 
 Such magi note that the Divine seems to prefer the Order to do much as it does. But even so, the parameters of the Divine's plan for the Order are unclear. Thus, many magi are cautious when their affairs cross those of agents of the highest Realm, because they are unsure what God will allow.
 
-#### **Mythic Europe is Made for Sin**
+#### Mythic Europe is Made for Sin
 
 The current social structure of Mythic Europe tempts the powerful. Europe's military caste engages in indecisive wars, causing great suffering. Noblemen believe, falsely, that they can reduce this suffering by having larger armies so they can conduct shorter and more successful wars. This tempts them further, to levy unjust taxes and commit atrocities, to speed the conduct of the war. Powerful demons would oppose any character who tried to reform the social system of Europe, if in doing so these reformers alleviated the suffering of the poor, or removed the militant ruling caste.
 
@@ -1941,13 +1941,13 @@ The current social structure of Mythic Europe tempts the powerful. Europe's mili
 
 Many magi think that an easy way to create wealth is to manipulate the harvests of the towns under their control. This strategy is simple and can be pursued inconspicuously if spells with long Ranges or broad Targets are used. In this story seed, a covenant that creates bountiful crops angers famine demons, who flock from across the country to assault the covenant's servants and supplies. The characters are aided by a mysterious figure, which they later discover to be a demon of avarice. He is hoping that the small town, made wealthy, will develop a strong merchant class where he can more easily claim souls that suit his personal preference.
 
-#### **Faeries Inadvertently Defend the Status Quo**
+#### Faeries Inadvertently Defend the Status Quo
 
 Fairies force humans to play out stories, but lack the creativity to design new tales. This means that faeries are effectively reservoirs for conservative social roles. So, although it is unlikely that great faeries would rise up to combat magi who interfere with the course of European civilization, faeries nevertheless slow social change in Mythic Europe in thousands of little interactions every day, reinforcing social boundaries.
 
 Some magi conjecture that in the depths of Arcadia, beyond even the deep realms that great magical voyagers have struggled to reach, there are powerful faeries that no longer need to manifest themselves. These ancient beings, and their narratives, are soothed and fed by the daily cycles of everyday life. Some magi caution that if the way people in Mythic Europe live is radically transformed, these creatures will be required to come to Earth, to redefine and replenish themselves.
 
-#### **Magi Helped Design Feudalism**
+#### Magi Helped Design Feudalism
 
 Feudalism may exist in part because magi find it a convenient way to hobble the power of the nobility. Feudalism distributes power, diluting it into antagonistic blocs. This makes it easy for magi to inconspicuously favor one side in mundane affairs. For example, a series of bountiful harvests that allow a particular warlord to hire mercenaries and attack his rival may allow magi to assassinate one of their enemies without any crime, sin, or evidence. Perpetually impoverished and dedicated to petty feuds of honor, the nobility of Mythic Europe are easy prey and willing dupes for clever magi.
 
@@ -1995,7 +1995,7 @@ Gambling is common in Mythic Europe. Though playing cards are as yet unknown, ma
 
 Some medieval pets seem unusual to a modern reader, but were widely kept even by monks and nuns. Game statistics are given for some of these animals here. These animals may be trained by their owners. The animals' Qualities are described here in terms of the rules given in *Houses of Hermes: Mystery Cults*, page 40 but necessary skill modifiers are summarized here for ease of reference. These statistics are for mundane versions of these animals, but may be used as templates for Magical Animal Companions.
 
-#### **Magpie**
+#### Magpie
 
 **Characteristics:** Cun 0, Per +2, Pre –2, Com +1, Str –8, Sta 0, Dex +3, Qik +5
 
@@ -2017,7 +2017,7 @@ Dodge: Init +4, Attack n/a, Defense +9, Damage n/a
 
 **Abilities:** Athletics 3 (flying), Awareness 4 (predators), Brawl 4 (dodge), Music 3 (mimicry), Stealth 4 (hiding), Survival 3 (foraging)
 
-#### **Monkey**
+#### Monkey
 
 **Characteristics:** Cun +2, Per 0, Pre –3, Com –3, Str –6, Sta 0, Dex +2, Qik +3
 
@@ -2039,7 +2039,7 @@ Dodge: Init +4, Attack n/a, Defense +9, Damage n/a
 
 **Abilities:** Athletics 3 (climbing), Awareness 4 (food), Brawl 4 (dodge), Stealth 4 (hiding), Survival 3 (foraging)
 
-#### **Squirrel**
+#### Squirrel
 
 **Characteristics:** Cun +1, Per 0, Pre –3, Com –5, Str –12, Sta +1, Dex +3, Qik +5
 
@@ -2096,7 +2096,7 @@ A visiting noble lady introduces a new dance to the court, and causes a sensatio
 
 common, and a host who does not put on a feast for a guest will soon gain a Reputation for being inhospitable. It is also customary in many manors for the lord to provide a public feast on certain holidays or special occasions.
 
-#### **Preparing the Feast**
+#### Preparing the Feast
 
 The noble feast is prepared as any other meal is, in the kitchen and bakehouse, which are usually detached structures built outside the hall to lessen the ever-present risk of fire. The kitchen often possesses cellars for the purpose of storing hanging meat. Cooking is performed on spits over an open fire, the spit turned by a small boy shielded from the heat by a screen of wet rushes. A metal dripping tray is placed below the meat to catch the fats and juices, and it is not uncommon for several large fires to be kept each with its own spit laden with cooking game and poultry. Stone ovens are heated by fires lit within within them, and then, when the flames have burned down to embers, the ovens are swept clean and are used for baking, with bread, pies, and pastries placed inside and allowed to cook as the oven cools. Adjustable cranes (a curved pole or metal rod) support cauldrons dangling over fires, in which sauces, stews, and boiled foods are prepared, the temperature being adjusted by raising or lowering the cauldron. The kitchen staff carries wood-handled metal ripping forks called
 
@@ -2107,7 +2107,7 @@ One fine morning, on the Feast of St. John, the whole household is in great exci
 
 flesh hooks for tasting the stew and checking if the meat is properly cooked. Work in a kitchen is extremely hot. Smoke and fumes exit through a louver of latticed boards set into the roof. Once ready, the food is placed in bowls of red or gray earthenware that is finished with a greenish lead glaze and sometimes decorated with simple patterns and carried to the hall to be served. With some castles having a staff of up to three hundred servants, officials, and others with the customary right to take certain meals in the lord's hall, the kitchens are continuously busy and the cooks are extremely important members of the household.
 
-#### **The Noble Diet**
+#### The Noble Diet
 
 Meat and fish served at feasts has usually been preserved by smoking, pickling, or salting, though par-boiling removes much of the salt before cooking in the case of roasts. Spices can be extremely expensive, especially if imported over long distances, but are used for their flavoring. However, because of the great price, they are used in small quantities and so much of the food tastes quite bland. No root vegetables are eaten, and it is considered unhealthy to eat fruit raw. (Fruit is, however, often served stewed or in preserves.) Even so, the noble household can draw upon a varied range of foodstuffs, all prepared with seasonal berries, vegetables,
 
@@ -2121,7 +2121,7 @@ While cooks frequently mix sweet and savory flavors in the same dish, the genera
 
 Plainer food was served to the staff and less-important guests, but was still offered in large quantities. Other foods one might expect to grace a noble's table include game, be it boar or venison; doves from the cote; figs, olives, and oranges where available; small songbirds and larger fowl such as goose, duck, and peacock; and dishes of pickles or preserves served with bread. The finest, nearwhite wheat bread was served at the lord's table, with those lower down the social order eating inferior bread made from barley or rye.
 
-## **Seating the Guests, and Good Manners**
+## Seating the Guests, and Good Manners
 
 Within the hall itself, benches against either wall have trestles set up in front of them, so the staff sit with their backs to the walls.
 
@@ -2140,11 +2140,11 @@ Each Christmas time it is traditional for six leading tenants and six of the poo
 
 about the host, and restraint in eating are always appreciated, and gluttons and the crass are noted for their base behavior. At the lower tables, less emphasis is placed on manners, and good cheer and companionship as reflected in the Ability Carouse are more important than gracious manners governed by the Ability Etiquette.
 
-#### **Time to Eat**
+#### Time to Eat
 
 Feasts are an exception to the usual meal pattern. In most noble households breakfast is taken soon after dawn, with dinner served at some point between the hours of nine and eleven in the morning, although in warm climes it comes later, towards noon. Supper is usually served at six in the evening. A feast generally takes place in the very late hours of the night, with noble households often sitting down long after the sun has set, and eating and drinking until the early hours. With multiple courses and entertainers performing throughout, the feast takes many hours to conclude, and it is not uncommon for guests to fall asleep or succumb to drink and be placed on the hall floor. A few feasts break this pattern, mainly those held on religious holidays like Christmas and Easter. These feasts are held in the daytime, often with a number of tenants and even villeins traditionally invited by right to dine in their lord's hall. Such largesse was not, however, without its price, for many holdings require a fee — a chicken, several eggs, or greater amounts in line with the peasants' wealth to be given for the lord's festivities, whether or not a reciprocal invitation to dine is extended. Likewise, lords are often required to pay annual fees in the form of food and animals to their lieges to support their own feasts, and certain feasts, such as those that mark a noble wedding, are also occasions for special taxation.
 
-#### **The Host**
+#### The Host
 
 A feast can be a rowdy and exciting occasion, or a simple and dignified one, depending on the desires of the host. While guests may bring gifts, the host dictates the customs, and in some instances chooses a theme, for the feast; very popular at the moment in England are Arthurian-themed feasts.
 
@@ -2184,7 +2184,7 @@ Lymers, heavy-jowled beasts related to the modern bloodhound, are dogs bred for 
 
 The hunting dog statistics presented here are based upon the rules in *Houses of Hermes: Mystery Cults*, page 38, but can be used fully without that book.
 
-#### **Lymer**
+#### Lymer
 
 **Characteristics:** Cun 0, Per +3, Pre –3, Com 0, Str -4, Sta +1, Dex +2, Qik +2
 
@@ -2196,7 +2196,7 @@ The hunting dog statistics presented here are based upon the rules in *Houses of
 
 **Personality Traits:** Obedient +3, Placid +1
 
-#### **Combat:**
+#### Combat:
 
 *Bite:* Init +2, Attack +9, Defense +7, Damage –3
 
@@ -2210,7 +2210,7 @@ The hunting dog statistics presented here are based upon the rules in *Houses of
 
 **Abilities:** Athletics 3 (running), Awareness 4 (deer), Brawl 3 (bite), Hunt 4 (deer), Stealth 4 (stalking)
 
-#### **Alaunt**
+#### Alaunt
 
 **Characteristics:** Cun +1, Per +1, Pre –2, Com –4, Str +2, Sta +1, Dex 0, Qik 0
 
@@ -2242,7 +2242,7 @@ The hunting dog statistics presented here are based upon the rules in *Houses of
 
 **Abilities:** Athletics 3 (running), Awareness 3 (deer), Brawl 5 (bite), Hunt 4 (boar)
 
-#### **Greyhound**
+#### Greyhound
 
 **Characteristics:** Cun 0, Per +1, Pre –2, Com –4, Str –4, Sta 0, Dex +1, Qik +5
 
@@ -2266,7 +2266,7 @@ The hunting dog statistics presented here are based upon the rules in *Houses of
 
 **Abilities:** Athletics 3 (running), Awareness 3 (deer), Brawl 3 (bite), Hunt 4 (deer)
 
-#### **Running Dog**
+#### Running Dog
 
 **Characteristics:** Cun 0, Per +3, Pre –2, Com –4, Str –4, Sta +1, Dex 0, Qik +4
 
@@ -2280,7 +2280,7 @@ The Pack leader has Com –3, Leadership 5.
 
 **Personality Traits:** Cooperative +3, Loyal +3
 
-#### **Combat:**
+#### Combat:
 
 *Bite:* Init +4, Attack +7, Defense +9, Damage –3
 
@@ -2294,7 +2294,7 @@ The Pack leader has Com –3, Leadership 5.
 
 **Abilities:** Athletics 3 (running), Awareness 3 (deer), Brawl 3 (bite), Hunt 4 (deer)
 
-#### **Mastiff**
+#### Mastiff
 
 **Characteristics:** Cun +1, Per +1, Pre –4, Com –4, Str +1, Sta +2, Dex +1, Qik +1
 
@@ -2326,7 +2326,7 @@ The Pack leader has Com –3, Leadership 5.
 
 limited to Northern Europe. The Irish provide the shaggy-coated wolfhound, which performs a similar role. The greyhound has unparalleled speed, but a poor sense of scent, and must be unleashed within sight of the prey or it will soon lose its quarry. Alaunts (Great Danes) are powerful animals that are generally brought forward for the final kill, held on leashes till the last stages of the chase. They are fighting animals, fresh and ready for the dangerous task of holding the quarry until the huntsmen can administer the killing blow. The best are white with black patches, and because of their vicious temperaments they are frequently kept muzzled. Where greyhounds or wolfhounds are not available, the lower-status alaunt performs the same role. Mastiffs are shaggy, powerful dogs, slower than a greyhound but bred for viciousness and strength, used when facing dangerous prey such as boar or bear. Mastiffs can be formidable opponents even to a man. They are kept as guard dogs or to protect flocks, are common throughout society, and are sometimes employed in the hunt instead of more expensive greyhounds. Harriers are small dogs used to chase hares, and employed in bow and stable hunting. Finally, bird dogs are trained for hawking. The best come from Iberia, and they are sometimes called espagnols or spaniels. Exceptional kennels may also use pairs of leashed leopards, but this is very rare even in Mythic Europe and only the very wealthiest can afford this extravagance. There are, of course, many other breeds of medieval dogs, from the lady's lap dog to exotic animals from Scandinavia or the East, and a considerable trade exists, with animals being bred and imported from afar by ship. Any noble could be interested in acquiring a high-status or unusual hound for his kennels, and many regional varieties exist of each of these hounds.
 
-#### **Hounds and Aging**
+#### Hounds and Aging
 
 There is generally no need to keep track of the births and deaths of individual hounds. However, in the case of favorite dogs, trained animals, and other hounds important to the saga it may be desirable to keep track of their individual age and health. Medieval hounds can expect to live up to fourteen years, but some exceptional animals may live longer.
 
@@ -2354,7 +2354,7 @@ year as with a human. Every four years the aging modifier increases by one. Kenn
 
 Hunting with hounds is by far the most prestigious version of the sport, and is widely engaged in all across Mythic Europe, being from Iberia to Novgorod part of noble culture. While minor regional variations exist, the general format is known and accepted by anyone with a score in the Ability Etiquette.
 
-#### **The Quest**
+#### The Quest
 
 A formal hunt begins an hour or so before dawn when the first glimmer of light shows. The huntsmen set out in different directions on foot with leashed lymers to seek out suitable prey, in a process known as the quest. The huntsmen will have gathered the night before for a feast to discuss
 
@@ -2365,19 +2365,19 @@ Recently, game has been diminishing in a noble's forest. Last night two gamekeep
 
 and determine the nature of the hunt's prey, and then stayed overnight as guests of the host. The huntsmens' job is to locate a suitable example of the chosen beast, in perfect condition, that will give good sport. Huntsmen each make Perception + (the lymer's or huntsman's Hunt Ability, whichever is lower) rolls against Ease Factor 9, to track an appropriate beast to its lair. After locating potentially suitable prey the huntsman does not approach, but instead tests Presence + Animal Handling against Ease Factor 9 to keep the lymer quiet. He then circles the prey collecting droppings and examining marks. The huntsman makes an Intelligence + Hunt roll against Ease Factor 9 to establish the quarry's age and condition, and whether the beast is suitable, and then returns swiftly to be back in time for the hunt breakfast.
 
-#### **The Assembly**
+#### The Assembly
 
 When the huntsmen return the guests have risen, and as dawn breaks and breakfast is served at a meal called the assembly, the huntsmen make their respective cases for the suitability for the day's hunt of the prey they have found. The huntsmen pass around the table animal feces they have collected for the guests to inspect as they eat. These are examined with a test of Perception +Hunt against Ease Factor 12, with success telling a great deal about the age, health, and size of the animals. Based upon this the prey for the day's sport is selected. The successful huntsman is praised and rewarded, and the guests hurry outside to mount.
 
-#### **The Relay**
+#### The Relay
 
 After the assembly, the lymers are taken back out — their role is now to ensure that the quarry has not left the immediate vicinity, and to act as spotters for the hunt. Now the huntsmen (a role admirably performed by grogs) take the running dogs, alaunts, greyhounds, and mastiffs out to positions arranged in consultation between the noble hunters and the huntsmen. They are positioned in pairs (called couples) or two-couples (four dogs) on leashes in carefully selected positions based upon the predicted flight of the prey. Area Lore is essential to understand the lay of the land, and the Ability Hunting to predict the pursued animal's erratic path correctly. If positioned poorly, the main pack of running dogs may corner the prey some miles from the specialist hounds used in the last stages of the kill, which may lead to the exhausted dogs being injured or killed when the pursued animal is finally cornered. If the dogs are positioned well, fresh pairs are available all along the route the animal takes, to supplement the pack as tired dogs drop back, and the greyhounds and alaunts are positioned. The process of positioning these dogs is called the relay.
 
-#### **The Finding**
+#### The Finding
 
 Now the main pack of hounds and the noble hunters move off, riding to the quarry's position as identified by the lymers. This is a good chance for the nobles to gossip and swap stories of former hunts, display their manners and fine hunting knowledge.
 
-#### **The Chase**
+#### The Chase
 
 As the animal hears the hunters approach it flees, the hounds give cry, and the chase begins. The chase is a severe test of the hunters' Ride Ability, with good horsemanship vital. Some are thrown by obstacles, some simply fail to keep up and become lost, while others choose to fall back and accompany the ladies. The hounds are subject to the hunters' commands, and tests of the Animal Handling Ability are required to keep them on the trail, rather than pursuing other prey or becoming distracted. (An animal that leads the hunt astray from its desired prey is called a "rascal.") Unexpected hazards may befall the hunters, and the chase may lead them into adventure as they charge across the countryside in single-minded pursuit.
 
@@ -2392,7 +2392,7 @@ As well as accumulating long term fatigue, the hunters test to see whether they 
 
 If the Evasion Total is higher, the prey has won that round; if the Pursuit Total is higher, the hounds have won. On a tie, neither side wins. If the prey wins four rounds (which need not be successive), it has escaped. Similarly, if darkness falls before the prey is cornered (very unlikely), the prey escapes. If the hounds win four rounds (which, again, need not be successive), they have cornered the prey, ready for the kill.
 
-#### **The Kill**
+#### The Kill
 
 The hunters dismount now, and close in on foot to kill the prey. The host normally makes the kill with a sword, though he may
 
@@ -2400,7 +2400,7 @@ The hunters dismount now, and close in on foot to kill the prey. The host normal
 
 grant this honor to one of his guests if he wishes, and with dangerous creatures like bear or boar the hunters may all approach, or even call upon the huntsmen to assist with spears if the situation is severe enough. This is best resolved as a melee combat, but as the prey is typically fatigued it is normally over swiftly.
 
-#### **The Unmaking and Curee**
+#### The Unmaking and Curee
 
 Once the animal is slain it is butchered, which is known as the unmaking, and the dogs rewarded with offal and blood – the curee. There is a formal set of customs to this, represented by the Hunt Ability, and the hunters perform the task of skinning and cutting up the beast, while the huntsmen then carry it back to the larder. The hunters return home for the hunt feast, hopefully satisfied with a good day's sport, but if the animal was run to ground too quickly then the whole process may be continued with another quarry selected from the report at that morning's assembly.
 
@@ -2416,13 +2416,13 @@ The hunters now ride slowly forward, flushing out the game. Every animal in the 
 
 Assuming the hunted animal is native to the environment through which it is being pursued, it stands a good chance of escape. This is reflected in a Terrain Bonus of +6 added to the prey's Evasion Total. This can be reduced in two ways: through the relay, and through the actions of the hunters. These actions can turn the Terrain Bonus into a penalty in a sufficiently long hunt.
 
-#### **The Relay**
+#### The Relay
 
 Every round, any character who participated in establishing the relay must make a stress roll of Intelligence + Hunt + 6 against an Ease Factor equal to the Evasion Total. If at least one roll succeeds, that character chose to station fresh dogs in an appropriate place, and new hounds join the pack in the next round, reducing the hounds' Fatigue penalty to zero.
 
 On a successful roll, the same character may make a stress roll of Intelligence + Area Lore against an Ease Factor equal to the Evasion Total. If this also succeeds, the prey's Terrain Bonus is reduced by 1 for the rest of the hunt. The planning of the relay can only reduce the Terrain Bonus by 1 point per round.
 
-#### **The Hunters**
+#### The Hunters
 
 Every round, any hunter who is still with the pack may make a Perception + Area Lore stress roll against an Ease Factor equal to the prey's Evasion Total in the current round. If any of these rolls succeed, the Terrain Bonus is reduced by 1 for the rest of the hunt.
 
@@ -2479,7 +2479,7 @@ Horses are, as noted, distinguished by their role rather than their breed. Horse
 
 The following templates describe the types of horse most commonly found in Mythic Europe.
 
-#### **Noble Warhorse (Destrier)**
+#### Noble Warhorse (Destrier)
 
 **Characteristics:** Cun –2, Per +1, Pre +1, Com –4, Str +6, Sta +3, Dex +1, Qik 0
 
@@ -2507,7 +2507,7 @@ The following templates describe the types of horse most commonly found in Mythi
 
 Destriers are the highest-status horses in Mythic Europe. Often from Spain, these fine animals may stand fifteen hands (sixty inches) high, and are superb warhorses. Extremely rare, they can command prices from 50 to 140 pounds, and for an exceptional horse far more. A disproportionate number are aligned with the Magic, Faerie, Divine, or Infernal realm in some way, and these often possess Might and powers appropriate to that realm. The best tournament horses are destriers. Only major nobility and the extremely wealthy are ever likely to possess such a fine animal, unless found through a story, granted as a gift, or won as a prize in a tournament. Owning such a beast is worth at least a single experience point in Reputation: Prudhomme.
 
-## **Warhorse (Courser or Rouncey)**
+## Warhorse (Courser or Rouncey)
 
 **Characteristics:** Cun –2, Per 0, Pre 0, Com –4, Str +4, Sta +3, Dex +1, Qik 0
 
@@ -2540,7 +2540,7 @@ Coursers are the most common combat-trained warhorses of the era. Like most hors
 
 
 
-## **Riding Horse (Palfrey or Jennet)**
+## Riding Horse (Palfrey or Jennet)
 
 **Characteristics:** Cun –2, Per –1, Pre 0, Com –4, Str +4, Sta +3, Dex +1, Qik +1
 
@@ -2570,7 +2570,7 @@ Palfreys are the standard riding horse favored for general usage, capable of bei
 
 side-saddle is not a feature of etiquette in this period, simply something forced upon ladies in some circumstances. Riding astride a horse is entirely normal and provokes no unfavorable comment.) A palfrey or jennet stands a little over fourteen hands, and can be purchased for around two pounds.
 
-#### **Draught Horse (Hackney)**
+#### Draught Horse (Hackney)
 
 **Characteristics:** Cun –3, Per –1, Pre 0, Com –4, Str +6, Sta +4, Dex +1, Qik –2
 
@@ -2590,7 +2590,7 @@ side-saddle is not a feature of etiquette in this period, simply something force
 
 The hackney is a large horse of up to sixteen hands used for general riding, and as a workhorse. With the new horse collar, and teamed either one in front of the other or in parallel pairs, they are half again as efficient as a similar number of oxen. Hackneys are slow and ponderous beasts not suited for combat or hunting, but they can be ridden for long journeys, or by those not bothered about appearances or speed. Primarily they are used for farm work. A pair of hackneys can be bought for as little as a pound, but no noble would ever be seen riding such a beast. A hackney with a horse collar can easily pull a heavily laden cart, which might otherwise require two oxen.
 
-## **Working Pony (Fell or Icelandic)**
+## Working Pony (Fell or Icelandic)
 
 **Characteristics:** Cun –2, Per +1, Pre 0, Com –4, Str +2, Sta +3, Dex +2, Qik 0
 
@@ -2623,7 +2623,7 @@ As well as being differentiated by type, horses are differentiated by country of
 
 Horses are extremely important and valuable, so their care can be come an important consideration in the saga.
 
-#### **Horses and Aging**
+#### Horses and Aging
 
 If the stables rules are being used (see Running an Establishment, later) there is no need to keep track of the births and deaths of individual horses, though a shoddy stable
 
@@ -2669,7 +2669,7 @@ While certain birds are ascribed by tradition and etiquette to certain social cl
 
 after the first.
 
-#### **Birds and Aging**
+#### Birds and Aging
 
 If the mews rules (see Running an Establishment, later) are being used it is not
 
@@ -2716,7 +2716,7 @@ less specifically trained to hunt that particular type of prey. An untrained gos
 
 do not attack prey larger than Size –2 un-
 
-#### **Gyrfalcon (Falco)**
+#### Gyrfalcon (Falco)
 
 **Gyrfalcon:** These statistics are for a gyrfalcon, the largest and most prized of falcons. Its wingspan can exceed four feet. It has a short, hooked beak and dark eyes. Its plumage may be white, grey, or dark brown and has a banded pattern. The gyrfalcon is among the swiftest of birds and hunts on the wing, overtaking its prey in
 
@@ -2826,13 +2826,13 @@ A stress roll of Intelligence + Animal Handling against Ease Factor 9, or Intell
 
 
 
-#### **Master of Kennels**
+#### Master of Kennels
 
 *Social Status, Minor*
 
 The character manages the kennels for a noble patron, and is responsible for the training, breeding, and health of the animals. He has an appropriate staff under him, depending on the size of the kennels, and often possesses the privilege of riding with the hunt. He may be considered an intimate and important member of the noble household, despite his common birth, and be treated with commensurate respect. He is also expected to organize the huntsmen — that is, the dog handlers — and train servants or locals to perform that role. He should possess the Ability Profession Master of Kennels, which governs the care of the dogs, treatment of their diseases, and acquisition and breeding of hounds. The Ability Animal Handling is used for the training of the animals. A master of kennels receives 50 extra experience points at character generation to spend on the abilities Animal Handling, Etiquette, Hunt, Latin, Profession Master of Kennels, and Ride, and may take Martial Abilities freely.
 
-#### **Falconer**
+#### Falconer
 
 *Social Status, Minor*
 
@@ -2840,7 +2840,7 @@ The character trains hawks and falcons for a noble patron, and is responsible fo
 
 A falconer receives 50 extra experience points at character generation to spend on the Abilities Animal Handling, Area Lore, Etiquette, Hunt, Latin, Profession Falconer, and Ride. Many falconers are also Educated.
 
-#### **Marshal**
+#### Marshal
 
 *Social Status, Minor*
 
@@ -2977,7 +2977,7 @@ months the circuit is active and a tournament can usually be found every two wee
 
 France is the tournament heartland, home to the largest events, and knights from all across Mythic Europe journey there to compete. But tournaments can also be found anywhere that European knights and nobles are found, including the Holy Land. Tournaments in England and the Levant, which are often relatively small, are most often sited near towns, while the continent favors locations on the borders between neighboring nobles, where it is common for both to sponsor the event.
 
-#### **Patronage**
+#### Patronage
 
 Tournaments need wealthy patrons who give over their land, time, and fortune to stage these events, often against pressure from both Church and state. Even in France, the tournament can be seen as a challenge to royal authority. Participants in the tournament risk excommunication, and those who die at such events are often denied Christian burial.
 
@@ -2985,7 +2985,7 @@ But such considerations are not enough to stop patrons from holding tournaments.
 
 In 1220, tournaments in England are more rare than on the continent. For much of the previous century, hard on the heels of a civil war, tournaments had been banned by King Henry II. It was not until 1194 that King Richard allowed the events to take place, though he controlled them by granting royal charters. Even in the reign of Henry III tournaments are sometimes viewed as challenges to royal authority. The draw of the tournament is such that patrons are often willing to hold unlicensed events.
 
-#### **Costs**
+#### Costs
 
 Holding a tournament is a costly business. Messengers are employed to attract participants; while criers draw knights to the tourney, envoys take written invitations to select dignitaries. And in the meantime, the tournament site needs preparation, with carpenters and laborers building stands to allow wealthy observers a comfortable view of events. Patrons also engage artists, chroniclers, or poets to record their events for posterity, commissioning artworks to portray their tournaments in the best and most exciting light. And since tournaments attract powerful individuals, grand receptions, feasts, and fitting entertainments must be provided. A degree of opulence is both expected and provided.
 
@@ -3004,11 +3004,11 @@ es are never less than superior quality works (see *City & Guild*, page 69). It 
 
 As a rule of thumb, a patron should spend ten Mythic Pounds per point of his Prudhomme Reputation to hold a tournament. Anything less is seen as not befitting his station.
 
-#### **Team Sponsors**
+#### Team Sponsors
 
 Some sponsors pay substantial retainers to companies of knights to fight under their banner. The sponsor is responsible for replacing lost horses, arming his men, and ensuring that all their needs are paid for. Henry the Young King, son of Henry II of England, took five hundred knights to the tourney at Lagny-sur-Marne in November 1179 at a cost of over two hundred pounds per day. Most nobles can expect to pay four Mythic Pounds per season per knight retained for tourney.
 
-#### **The Tournament Site**
+#### The Tournament Site
 
 A tournament site stretches over acres of land marked out by landmarks such as roads
 
@@ -3024,7 +3024,7 @@ Stands are often built close to the lists to afford the best view of the knights
 
 *Recets* are safe havens, clearly marked out within the melee fields. No fighting is allowed within these *recets,* and knights that have succumbed to their enemies make their way back to either the *recets* or the lists.
 
-#### **Lodgings**
+#### Lodgings
 
 Knights arriving at tournament are divided into two teams, according to national or local allegiances, and two sets of lodgings are provided. Where the tournament is held outside a town lodgings are provided both "within" and "without" the town walls, a naming convention that also applies to open encampments. The lodgings are considered *recets*, out of bounds for the melee.
 
@@ -3034,7 +3034,7 @@ Prices of goods and lodging within towns hosting tournaments are often very high
 
 A nearby magus is secretly sponsoring a team of knights active in the local tourney circuit. Other knights in the area ask the covenant for aid against the seemingly unbeatable team. But what does the Code say about this? Has the Hermetic sponsor exposed a weakness the covenant can use against him?
 
-#### **Tournament as Fair**
+#### Tournament as Fair
 
 The tournament is very much like a fair, with crowds that must be fed, watered, and entertained. Local armorers, horse merchants, and other traders ensure they have wares for knights who lose mounts and equipment. Carpenters and laborers gain work building and taking down the lists and stands. In most cases these journeymen supply their labor in return for being allowed to retain the materials bought by the patron. Chirurgeons turn a brisk trade as they patch up wounded knights after each round of contests.
 
@@ -3050,7 +3050,7 @@ While the rules of tourney are clear, they are not always obeyed. Knights may be
 
 underhand tactic is to ride to the lists prior to *estor* but not join the melee until later, when the fighting has taken its toll on the other participants. The heralds acting as adjudicators are not above purchase, and may be paid to look the other way, allowing such knights free rein.
 
-#### **Ransom**
+#### Ransom
 
 The aim of the melee is to force surrender, or *fiance,* and thereby secure a ransom, usually the knight's horse, his armor, or even his weapons. Great sums of money can also be extracted, and the wealthy should expect to be held to account if they lose at tournament.
 
@@ -3058,7 +3058,7 @@ Payment of ransom is a matter of honor. Those who do not make good their promise
 
 It is reasonable to take both horse and armor from a wealthy knight, either horse or armor from a knight of average means, and perhaps weapons from a poor knight. Service cannot be demanded as a ransom, nor can oaths of loyalty.
 
-#### **Companies of Men**
+#### Companies of Men
 
 An independent knight makes an easy target, so most knights entering the tournament do so within the protection of a company. Companies can be of any size, and ride out wearing common colors and under a single banner so as to be identified. They also cry out chants and war cries both at the *estor* and through the melee. Companies engage as trained groups of usually no more than ten individuals (or six if using the core combat rules), with larger companies breaking into smaller groups.
 
@@ -3078,7 +3078,7 @@ Both the Divine and Infernal can also
 
 be found at tournaments. The devout invoke patron saints and ask for protection on the field and success against their enemies. The unwary or unscrupulous may enter into bargains with diabolic forces to assure victory, wealth, and acclaim.
 
-#### **Story Seed: The Craftsman**
+#### Story Seed: The Craftsman
 
 A local Verditius complains to a Quaesitor that a magus from a neighboring Tribunal is flouting the Code by crossing the border and selling enchanted devices to knights at local tournaments. What is the legal situation? Does the foreign magus know where his devices are being sold? And is the Quaesitor simply becoming a pawn in a vendetta between the two magi?
 
@@ -3092,7 +3092,7 @@ The full range of special maneuvers described in Chapter Nine: Optional Combat R
 
 The vespers, or *commencailles,* are an important showcase for individual talent and another source of ransoms for the victors. These contests can take several forms but are most often single combat, either jousting or fencing.
 
-#### **Jousting**
+#### Jousting
 
 At the call to charge, two opposing knights, both mounted and armed with lances, attempt to unhorse the other. Each charge comprises a single combat round, and each knight has enough time between charges to take up a new lance or shield. Botches may result in the breaking of equipment or injury to either horse or rider. Use the shock
 
@@ -3119,7 +3119,7 @@ of the charge rules (see Chapter Nine: Optional Combat Rules, Option: Shock of t
 
 The rules of the joust may change between venues. The simplest sees the winner declared if he knocks his opponent from his horse. In some cases, if both riders remain in their saddles after a set number of passes, judges may declare a winner, perhaps by a count of broken lances or by which knight took the lightest hit. In others venues the
 
-#### **Fencing**
+#### Fencing
 
 Contests between two knights on foot are usually fought in a roped-off ring. As with the joust, the rules often vary from meet to meet. Some restrict the choice of weapons, others allow new weapons to be taken up in mid-fight. The aim always remains clear: to force one's opponent to offer *fiance*.
 
@@ -3133,7 +3133,7 @@ As a set of random encounters, characters in the melee make a stress roll on the
 
 Opponents encountered on the field are likely to pick up minor injuries the longer the melee goes on. At each event past the first assume that the opponent(s) have picked up a new short-term light wound. So if the characters attempt a third event, their opponents normally have two short-term light wounds.
 
-#### **High Ambition**
+#### High Ambition
 
 For characters wanting to influence the overall outcome of the melee, the troupe should devise one or more story events based on how the player characters want to influence the battle. Examples might include hunting down the most senior knight in the opposing army, defending a set position, or sweeping through the field targeting stray knights.
 
@@ -3157,7 +3157,7 @@ As described in Chapter Two: Politics, a noble character seeks to improve his st
 - Extracting ransom from a stronger opponent earns 2 experience points.
 - Being awarded a prize at tournament earns 2 experience points.
 
-#### **Company Reputations**
+#### Company Reputations
 
 Deeds done while under the banner of a company also feed that company's Reputation. Companies have a Reputation named after its leader or chant, which applies only within the tournament circuit.
 
@@ -3167,7 +3167,7 @@ To gain the benefit of a company Reputation, a knight must travel under the colo
 
 An elderly knight is looking for a way to see his colors ride onto the field of tourney once more and one of the grogs is surprisingly willing to help. Armed in the old knight's armor, riding his horse, and carrying his sword, lance, and shield, the grog finds himself invincible in the melee. He has claimed ransom after ransom and not lost a single contest. But the assembled knights are suspicious and claim witchcraft is afoot. Can the magi extract their increasingly determined grog from the tournament and free him from the old knight's curse?
 
-#### **Patronage**
+#### Patronage
 
 Those hosting tournaments gain experience points towards their Prudhomme Reputation. If multiple patrons work together to host tournaments in any given season, all experience points are divided equally between them.
 
@@ -3215,7 +3215,7 @@ The value of a prize should be in keeping with the Reputation of its beneficiary
 
 **Ars Magica** has two compatible systems for measuring wealth: a simple system for troupes who do not like to spend too much time considering money, and a system based on tracking the approximate values of goods and services in Mythic Pounds.
 
-#### **The Simple System, From the Core Rulebook**
+#### The Simple System, From the Core Rulebook
 
 In the simple system a character's level of wealth is an effect of social status, modified by Virtues and Flaws like Wealthy or Poor. In Mythic Europe, a knight who holds at least a single manor has the Social Status Virtue Landed Noble, for example. A character with an area of land so large that it requires infeudation to be run effectively has the Social Status Virtue Great Noble. In this system a character is wealthy or poor compared only to other people of the same social class; a wealthy peasant is less rich than a poor king.
 
@@ -3225,7 +3225,7 @@ In the simple system, fiefs increase in value only as a reward for stories. This
 
 Many people in Mythic Europe believe that the bounty of all land is arises — or fails to — through the grace God. This, to them, explains why the croplands of tyrants produce only lean harvests, and why during periods of anarchy, starvation is so widespread. Conversely, the reign of wise and just kings is rewarded with bountiful crops. This idea is not generally used **Ars Magica** but it provides a rationale for troupes who wish to reward characters for completing great tasks by improving the value of their land.
 
-## **The Mythic Pound System, From Covenants**
+## The Mythic Pound System, From Covenants
 
 In this system, published initially in *Covenants,* players keep records using Mythic Pounds. These are units of account based on the value of a pound of silver (rather than coins that the characters spend). The prices of goods and services are estimated so troupes have approximate figures from which to work. Each Mythic Pound can be divided into 20 shillings or 240 pence. Actual coins that characters can spend are almost always silver pennies. In brief, a manor's traditional sources of income equal 20 pounds, and a knight's expenses are a similar amount. If a covenant has a manor and does not owe knight-service on it, then it is a lesser income source.
 
@@ -3320,7 +3320,7 @@ The most profitable way of using cropland in much of Europe is to stop cropping 
 
 Even given the potential for profit, few manors have been changed over from cropping to sheep, because characters in Mythic Europe do not know how long the current boom in the price of wool will continue. Thus, few nobles are willing to take the drastic step of pulling down their villages on the chance it will be sustained.
 
-#### **Greater Fiefs**
+#### Greater Fiefs
 
 The lands of greater nobles, the surplus they produce, and the number of soldiers they are expected to provide are detailed in Chapter Three: A Comparison of Titles.
 
@@ -3328,7 +3328,7 @@ The lands of greater nobles, the surplus they produce, and the number of soldier
 
 A messuage is a small, enclosed piece of land around a house. The capital messuage of an estate is the messuage belonging to the lord. It contains his hall, the outbuildings described in the sections that follow, and curtilage. Many of the structures below are placed in the messuage to increase their security. They contain valuable items, like food and equipment, and proximity to the residence implies that the lord and his personal servants can confront raiders or thieves. In Mythic Europe many workers sleep in their workplaces, providing extra security, but this is less pronounced in manors, particularly those that have bovaters.
 
-#### **Hall**
+#### Hall
 
 The chief building in a manor is the hall. This is the residence of the lord, if he lives at the manor, or of his appointed deputy, called a bailiff, if the lord does not. Many lords with multiple manors travel between them in a great circuit, exhausting the surplus food collected from the rents of their tenants at each in turn. The bailiff is expected to keep the residence in good order, and to be able to vacate the best lodging when the lord or his steward arrives. Bailiffs and their staff are dealt with in considerable detail in Chapter Seven: The Peasantry. Halls vary considerably in size, construction, and opulence, depending on the value of the manor and the degree to which the lord uses it.
 
@@ -3357,7 +3357,7 @@ The average manorial hall is rectangular, between 60 and 75 feet long, and 30 to
 
 The space within the hall is usually divided into two sections. The great hall, which gives the building its name and function, is the area where the personal servants of the lord eat and, often, sleep. It usually contains a hearth that provides warmth and may be used for cooking, but it is also common for manors to have kitchens separate from the hall. Hearths are usually set on the long axis of the hall, about one-third of the distance from one of the shorter walls. The great hall takes up approximately three-quarters of the space in a basic manorial long house. The remaining space is separated off as a chamber for the lord.
 
-#### **Animal Sheds**
+#### Animal Sheds
 
 Many types of animals are kept within the messuage. Chickens and geese are raised for the table. Dairy cows may be milked here, to provide butter. Sheep are often herded into a pen in the messuage before lambing and shearing.
 
@@ -3369,11 +3369,11 @@ A stable is a building where horses and other animals are cared for, and their e
 
 Some messuages contain a pen for impounded animals called a pinfold. Animals that stray are the property of the lord, but in some manors it is possible for a tenant to have his animal returned in exchange for a fine.
 
-#### **Barns**
+#### Barns
 
 A barn is a work-building. It is often split into two levels, and the upper level used to store hay, grain, flour, or other produce away from rodents. The barn might be used as the threshing floor in a manor. When threshing is complete, it is often used as a dry space to perform wet-weather work, like mending equipment. Many of the manor's lesser servants sleep in the barn, which is warm and has comfortable straw within it. Ignoble characters offered impromptu hospitality are often lodged in a barn.
 
-#### **Curtilage**
+#### Curtilage
 
 Curtilage is unroofed land enclosed within the messuage's wall. Lords use this space for a variety of purposes: some have orchards in their curtilage, while others hold court in these yards. The curtilage of a manor may be over an acre, even in small manors.
 
@@ -3381,21 +3381,21 @@ Curtilage is unroofed land enclosed within the messuage's wall. Lords use this s
 
 Some manors' curtilage is surrounded by a moat used to pen animals and exclude predators. It is not usually designed as a defensive feature.
 
-#### **Fishponds**
+#### Fishponds
 
 Fishponds are a feature of large messuages that have a stream as one border of their curtilage, but that are far from river or sea fisheries. Fish serve an important role in the medieval diet, as the Church requires abstinence from meat on Fridays, during fasts, and on certain feast days. A person keeping all of the required days is forbidden flesh, but permitted fish, on 175 days a year, although this degree of self-denial is found only in monasteries and among the poor. A manor cannot entirely fulfill its need for fish from fishponds, so salted and smoked fish are eaten on most fish days, with fresh fish drawn from the ponds on special occasions. In manors where there are fishponds, unsupervised fishing is sometimes forbidden.
 
-#### **Granary**
+#### Granary
 
 This is a building where threshed grain is stored, prior to milling into flour, and where flour is kept. Some granaries are raised on steedles, which are small pillars, to prevent rodent infestation. Others have steedles within the building that hold up a false floor.
 
 Granaries are prime targets for raiders. The theft of grain allows an enemy army to remain in the field longer. Burning a granary causes famine, destroys the grain reserved for use as seed, and ruins the place where grain is stored to keep it free of mold and rodents.
 
-#### **Kitchen**
+#### Kitchen
 
 The kitchen of the messuage, and its bakery if its bread is not supplied by the communal bakery of a village, is often a separate building from the hall. This reduces the risk of fire spreading from the kitchen to the hall. The kitchen is one of the busiest parts of a manor because its workers do not cease to labor when the sun sets, or during winter.
 
-#### **Stackyard**
+#### Stackyard
 
 A stackyard is where harvested grain is kept until it is threshed. It is located within the messuage to prevent theft. The way grain is stacked varies across Europe, but a common idea is that one cartload makes one stack. The wider a stack, the less tall it needs to be, but a conventional size is twelve feet in diameter, sloping inward to twelve feet high. After stacking a net is placed over the grain and, in some places, weighted with a heavy stone. Over the next week the stack settles, and during this time wooden props are used to encourage the stack to retain a stable shape.
 
@@ -3421,7 +3421,7 @@ hire a laborer to do the actual work. Finally, the land may be unfarmed; that is
 
 The main land types in the heavily farmed sections of Mythic Europe are arable, meadow, pasture, and waste.
 
-#### **Arable**
+#### Arable
 
 The most precious land is the arable, which is used to grow grain and legumes. After the harvest, this land reverts to common use, and is used as a supplement to dedicated grazing land. In 1220, an increasing amount of land is being drawn from meadow into arable land, but a few nobles have noticed that
 
@@ -3433,11 +3433,11 @@ Yield on farms is poor. The average winter grain crop is sown at two bushels an 
 
 A bushel measures volume, not weight, so the amount of food it represents varies between grains, but for wheat a bushel weighs roughly sixty pounds, and is made into seventy pounds of bread.
 
-#### **Meadow**
+#### Meadow
 
 Meadow is used for growing grass. This is harvested and stored as hay, to provide stock feed when the weather turns cold. No manor has as much hay as it would like. Hay supply determines the maximum size of a herd after winter, so a community with more hay could increase the size of its herds. Unless additional land is bought into meadow through improvement or by not cropping arable land, herds cannot increase in size. Haymaking is, therefore, an obvious form of magical economic interference.
 
-#### **Pasture**
+#### Pasture
 
 Sheep are the primary grazing animals raised in Europe. A piece of land over which the right to graze sheep has been granted is called a foldcourse. As a rule of thumb, land that is heavily wooded can support fewer grazing animals than land that is lightly wooded, and marshy areas can support the highest numbers of sheep per acre. This is because sheep can pick through land too stony or soggy for the plow, seeking food.
 
@@ -3462,13 +3462,13 @@ Villeins do about a quarter of the work required to plow, sow, and reap the deme
 
 The lord's demesne is the most fertile land in the manor. His right to demand that all of the livestock of his tenants be grazed on the stubble of his crops also means it is the best fertilized. It is not, however, the most productive: that land belongs to the free tenants. Many of the ways that free peasants increase their yield are highly labor intensive. A lord does not keep sufficient famuli, or hire enough day laborers, to de-stone and weed his demesne in the way that free tenants do, because for him, the additional cost of this labor is less than the additional yield from grain. Free peasants lose nothing but time to these processes, and so undertake them more readily.
 
-#### **Market Fair**
+#### Market Fair
 
 A market fair is useful to both the lord and his tenants. It provides them with the opportunity to exchange their agricultural surplus for manufactured goods. It does, however, provide slightly less money than if the lord ships his grain to the city himself. Cartage is one of the many duties owed by villeins. This means that market fairs are more common where roads are poor, river transport is unavailable, or travelers are insecure due to banditry. Markets are almost always held on the demesne of the lord, so the manure of animals penned for sale falls on his ground.
 
 Most towns with the right to hold a fair do so twice a year. More frequent fairs are common in richer towns, but the frequency of the fair is in large part due to the agricultural cycle, so more frequent fairs serve little purpose in small communities. Fairs are described in greater detail in *City & Guild*.
 
-#### **Mills**
+#### Mills
 
 On certain manors, milling is one of the lord's greatest sources of income, exceeding the value of the crops grown on the
 
@@ -3486,7 +3486,7 @@ Mills on smaller manors do not have sufficient business to support the miller, a
 
 Millers sometimes rent mills. They pay for them with their labor and either with a proportion of the grain milled (a fee called the multure), with the grain from land they farm in addition to their mill work, or with fish. Rents of fish for water mills are surprisingly common and large. Some millers provide thousands of eels a year, or a similar value of salmon, for the right to their mills.
 
-#### **Baking**
+#### Baking
 
 Peasants are often required to use the lord's bakery. The bakers take a proportion of all the bread baked. Bakers sometimes rent the bakeries from the lords, paying a fixed fee for the monopoly of the manor's bread.
 
@@ -3532,17 +3532,17 @@ The warden also charges nobles who have made illegal clearances in the king's
 
 forest. This is so unpopular that in the time of King John, the common people of Devon and Cornwall paid the king 2,200 marks and 20 palfreys, and 5,000 marks, respectively, to have their land "desforested." That is, they had all the land, in the whole of their counties, legally reclassified as woodland rather than royal forest, so that no fine would be due for clearances.
 
-#### **Parks and Lodges**
+#### Parks and Lodges
 
 Lords often reserve a portion of the wasteland around a manor for their own pleasure. This land is harvested for wood and other useful resources, but is also used as a game reserve. The use of these areas is covered in greater detail in Chapter Five: Leisure, Hunting.
 
-#### **Warrens**
+#### Warrens
 
 On a less-regal level, the right to trap small game is also held by the lord, and called the right of warren. Much as a lord can raise doves and leave them to feast on the crops of his tenants, so similarly is he entitled to raise as many small game animals as he likes and let them feed on the lands of his tenants. Poaching is, therefore, one of the most popular crimes in Mythic Europe. In some areas lords have banned the ownership of small dogs that can be used to chase hares down their burrows. There are records of arable land being abandoned because it has been destroyed by a lord's rabbits.
 
 The laws protecting warren extend to pests like foxes, which cannot be killed without the lord's permission, regardless of the damage they are causing. Magical monsters, including potential familiars and vis sources, may also belong to the lord under the right of warren.
 
-#### **Mineral Rights**
+#### Mineral Rights
 
 Certain mineral rights are reserved by the king, and major mining operations rapidly evolve into towns. Rights to minor resources are significant on a manorial level. On the principle that the lord owns everything, and has the right to charge for the use of anything, any valuable thing beneath the ground might attract a fee for use. In Mythic Europe a character who finds a gold nugget, or even a gold mine, doesn't own it; just because the lord doesn't know that it exists doesn't mean he doesn't own it. Useful mined resources include slate, quarried stone, flint, potter's clay, fuller's earth, and clay dyes.
 
@@ -3550,11 +3550,11 @@ Certain mineral rights are reserved by the king, and major mining operations rap
 
 A serf leading a typical life regularly pays fines to his lord. Fines are not, in this case, the result of a criminal act, but are instead a monetary compensation paid to the lord in exchange for him waiving one of his rights. Lords have so many rights, and they are so burdensome to administer, that it has become easier in most places for these breaches and resolutions to become monetary payments.
 
-#### **Entering the Manor**
+#### Entering the Manor
 
 A peasant pays a fee to the lord for entering the manor by taking possession of a piece of land. This fee may be varied if the land is poor, to be assarted, or the villein has some skill sought by the lord.
 
-## **Heriot, Mortuary, and Laity Objects**
+## Heriot, Mortuary, and Laity Objects
 
 The heriot is a death duty owed when the head of a household dies. The heriot is the peasant's best beast in many places, but far heavier penalties are found in others. In some locales even free men pay the heriot. On some manors the death of a wife also triggers a heriot, and on others a man owes a heriot for every hide he had. On some manors a heriot is just under half of the man's goods, including many of his best beasts, anything he possessed made of metal, all of the wool and sides of bacon he had, and the things his widow will no longer need, such as his tools and clothes. In exceptional cases the heriot is but a token, purely symbolic of the fact that everything the serf owned is the lord's anyway. On one manor, for example, the heriot is the best copper pan from the house.
 
@@ -3568,7 +3568,7 @@ Most lords believe that serfs cannot make wills. Serfs do not own anything; ever
 
 Death duties strike poor widows particularly hard. In addition to the death of her husband, the widow generally loses her working animals, or next-best assets, as well. This means she is short both of human and animal labor. Given that her home is rented with labor, the loss of a husband quickly becomes the loss of a home. Fortunate widows remarry, or fall into the lower subclasses of serfdom. Those less fortunate become vagrants.
 
-#### **Tallage**
+#### Tallage
 
 Lords have a right called tallage, which they exercise sparingly, but may legally employ whenever they wish. By this right a lord may, at any time, and for any reason, tally an amount of money from the manor and his villeins are required under law to supply it to him, with each villein responsible for an amount proportional to his land holding in the manor. The tallage may be as high as the lord wishes, up to and including the sale of everything his villeins own, the repossession of their land, and the sale of their service and progeny to another lord. Tallage does not apply to free men, because the things that they own are theirs, not the lord's, so he may not demand them.
 
@@ -3616,7 +3616,7 @@ Most of the court's work involves disputes between serfs, or between serfs and t
 
 court. Other villeins deliberately hold disputes until the coming of the court and then demand that their claims be checked against the court roll. There is a small fine for this, perhaps a couple of pence, which is doubled if the court roll is found to not support the villein's argument. Similarly, a man may pay a fine to demand that the court hear his case when the case could instead be summarily dealt with by one of the lesser officers. The court's ruling becomes binding, is added to the manorial roll, and the villein pays about a shilling for the court's time and trouble, or two shillings if the case went against him.
 
-#### **Disputes Based on Weights and Measures**
+#### Disputes Based on Weights and Measures
 
 There are no standard measures in any kingdom of Mythic Europe. This means that a character required to pay a pound of flour to his lord may be giving slightly more or less flour than an equivalent peasant with an equivalent debt in a neighboring lordship. Medieval people work around this lack in two ways: they use natural measures, and they haggle.
 
@@ -3630,25 +3630,25 @@ There are a wide variety of fines levied on peasants. Fines vary between manors,
 
 ## Story Seeds
 
-#### **Tiny Eggs**
+#### Tiny Eggs
 
 Faeries often play with natural measures as a way of causing tension in human communities. As an example, a popular natural measure is the egg. Many peasants have a number of eggs incorporated in their dues. If a faerie makes every egg laid on a manor the size of a thimble, it causes tension in the community. Either the lord accepts a reduced income, or the lord's servants try to take more from the peasants, who themselves already have less, as a way of maintaining his income. This sort of trickery often leads to accusations of witchcraft, so magi may feel the need to resolve these kinds of situations.
 
-#### **Weight in Gold**
+#### Weight in Gold
 
 A mercenary captain has saved a monastery from raiders, but the abbot foolishly agreed to pay the mercenary his weight in gold in exchange. The local baron has demanded that he be present for the weighing, as an arbiter, and that he be permitted to bring his entire court, as it will amuse them. The baron has done this because he hates the abbot, and the procession of the lord's court will delay the weighing for a month. The mercenary has retired to a nearby town to stuff himself with sweet luxuries before the official weighing.
 
 The abbot is praying for a miracle, because Daniel was able to fix a weigh-in with the help of God. In case there is no miracle, the abbot would like the help of the magi. He has heard that magically created food does not nourish. He'd like the magi to make sure that his rival eats nothing but magically created food for the rest of the month. That should save the abbot a tidy sum, which he'll divide with the magi. If the captain actually loses weight, the priest will pay them a bonus.
 
-#### **Warped Consors**
+#### Warped Consors
 
 An Autumn covenant in a neighboring Tribunal has fallen and its covenfolk, who are in some cases highly Warped, have spread into neighboring towns. This has led to strife with the local nobility and church. For example, a village that has the right to take one handful of salt from every pan boiled has become far richer, at the local lord's expense, by convincing a man Warped with a hand five times normal size to settle locally. Although none of the Warped consors have magical powers, and although they are no longer strictly the business of the Order of Hermes, the sum of their actions has disadvantaged a large proportion of the region's magnates.
 
-#### **Seizure**
+#### Seizure
 
 The goods of a felon automatically become the possession of his lord. A felon who flees or is put to death leaves his land vacant. A new landholder pays the lord a fee to enter the land, and so death is particularly lucrative for lords, but the death penalty is restricted to the greater nobility in many areas. Some buy the right to kill felons from their kings.
 
-## **Sex Taxes: Merchet, Leywrite, Childwrite, and Fines for Celibacy**
+## Sex Taxes: Merchet, Leywrite, Childwrite, and Fines for Celibacy
 
 It is legally forbidden for the serfs of different lords to marry. To secure the permission of the lord, each serf pays a fine called merchet. Merchets are higher if the woman is receiving a large dowry, because the lord's permission gives the bridegroom a greater benefit. The merchet is also larger if the bride is moving into the manor of her husband's lord.
 
@@ -3675,7 +3675,7 @@ Peasants who sidestep the issue of merchet by simply not marrying face an even s
 
 Fines cannot be avoided by celibacy. On many manors, a fine is paid annually by every serf, of marriageable age, who has been unmarried for more than a year. Some serfs bargain with their lords to receive a bulk rate for a lifetime without marriage. On other manors, men are regularly fined for choosing not to marry the widows appointed to them by their lords. When the daughter of free peasants sells herself into serfdom, it is often on the condition that she will not be forced to marry. Serfs and free men who die without children cannot, generally, will their property to their nephews. It automatically belongs to their lord.
 
-#### **Fines for Being Fined**
+#### Fines for Being Fined
 
 It is illegal for a peasant to waste the things his lord owns. The lord owns everything that the peasant owns. Therefore, if the peasant is fined somewhere outside the manorial court, like the ecclesiastical court
 
@@ -3726,7 +3726,7 @@ Parish churches are not the grand structures of arching stone found in the citie
 
 ## Story Seeds
 
-#### **Brotherhood of the Black Mask**
+#### Brotherhood of the Black Mask
 
 In England the problem of rectors is felt more intensely than in any other part of Europe. While King John was excommunicate, many livings fell vacant, and when he swore fealty to the pope, many of these were filled with Vatican functionaries who never visited England. Many others were filled with priests who did come to their livings, but did not understand English customs and were considered severe in their interpretation of their rights.
 
@@ -3734,7 +3734,7 @@ Roughly parallel to the game period, a minor nobleman whose church is given away
 
 Player characters who attempt to track down the leaders of the Brotherhood face several obstacles. The Brotherhood is more a social movement than an organization, so it has no ultimate leader. Its members often keep what they steal, but many of the brothers have emptied the tithe barns of the local churches and given the food stored there to the peasantry, so they are very popular with the common people. Many Brotherhood attacks are staged by great nobles, seeking revenge on priests they dislike. If there is a coordinating hand behind the best-planned of the attacks, it is likely one of the king's inner circle, who is deliberately spreading disorder for political ends.
 
-#### **Swift Assarting**
+#### Swift Assarting
 
 It is possible to assart land far faster than normal by hiring a large workforce and then dismissing them afterward. When a lord does this, it leads to many problems. Petty crime rates rise while the outsiders are in the manor, particularly as their work comes to an end. The workers know they will move on soon and are unlikely to be caught in petty theft. Some groups go further than this, and stage burglaries after their work is done, or become brigands.
 
@@ -3802,11 +3802,11 @@ and are therefore allods.
 
 The Church is the greatest landholder in Mythic Europe, and individual priests may hold land as if they were noblemen, on behalf of the Church. Some Church land is allodial, because successive groups of monks following the Benedictine model have sought places in the wilderness to settle as monasteries, and peasant land-holdings have grown up around these sites. In England and Normandy this is considered legally impossible because all land is held from the king. There are two main types of non-allodial Church land, which are described in the following sections.
 
-#### **alMs land**
+#### alMs land
 
 Alms land is land given to the Church for its use, in perpetuity. It is still held from a major noble. The Church may farm the land or offer it to vassals. Other rights, like the right to take tolls, to require knight service, or to take a portion of the fi nes from local courts, stay with the nobleman. This means that the Church is required to have a small standing army and fi ght on both sides of many wars, simply to render service for its lands.
 
-#### **charities**
+#### charities
 
 Charities are lands given to the Church in exchange for particular services. The most popular service connected to a charity is the
 
@@ -3907,7 +3907,7 @@ As noted in the Chapter Six: Manorial Fiefs, the status of peasants increases as
 
 Many tradesmen are members of the famuli, or hold small crofts of land surrounding their homes and owe little or no villein service. Millers, blacksmiths, and reeves are examples of men who live more richly than most villeins, but have little land and so owe only minor villein service. The most unusual such trademen are the ministeriales found in some of the German duchies. These villeins are knights who pay for their keep with military service. In areas within the Norman sphere of influence it is considered wrong to knight serfs without freeing them first.
 
-#### **Offices for Villeins**
+#### Offices for Villeins
 
 The least desirable, and yet most lucrative, of the official positions on a manor is that of reeve. The reeve is responsible for the direct oversight of the daily work of the villeins of the manor. He is also responsible for making sure each villein does his days of work, or is reported to the bailiff for failing to. The reeve is usually appointed annually on Michaelmas (29 September, just after harvest) although some reeves are re-appointed each year for decades.
 
@@ -3932,7 +3932,7 @@ It is the corruption of reeves that makes the searching annual audits, which pre
 
 The stories of the famuli are similar to the stories about servants in many other genres. Theirs is the "below stairs" view of the world of the nobility or magi. Servants know their masters intimately and even if they like their masters, they recognize their weaknesses and human foibles. Stories set among the servants can allow a change of pace from the heroic stories which involve magi.
 
-#### **Cleaning Up**
+#### Cleaning Up
 
 The famuli are the hidden characters who clean up the stage between the episodes in the lives of the magi. If a horde of faeries attacks the covenant, it is the famuli who tidy up afterwards by rebuilding damaged walls, washing the blood off the courtyard, carting away the bits the magi don't want for experiments, and finding ways to bury them. This style of story works best for covenants with magi who deal with immediate crises and then retire swiftly to their laboratories.
 
@@ -4008,11 +4008,11 @@ Players used to computer games may feel that lowering taxes should make peasants
 
 Military household servants — the mesnie — are an exception to the idea that loyalty is not expected of servants. As knights, they are expected to be loyal to their lord, provided their lord maintains their standard of living and dignity. The loyalty of the mesnie may be tracked using the system given in *Covenants*, page 38, or simply assumed to be strong while times are good and less good during difficulty. Characters may take Virtues and Flaws to change the loyalty of their underlings.
 
-#### **Community Loyalty**
+#### Community Loyalty
 
 Magi can prevent their rich peasants from becoming restive by offering them a deal better than that provided by the nearest town's royal charter. These peasants do not become loyal to the magi, who likely remain strangers because of The Gift. They may, however, be loyal to the community that the magi create and govern, or to the community's figurehead if they know him personally. Many peasants support covenants simply from self-interest. When magi attempt to develop communities with very high living standards, this creates resistance from nearby nobles and Churchmen, which provides opportunities for stories.
 
-#### **Flight and Rebellion**
+#### Flight and Rebellion
 
 The loyalty mechanic given in *Covenants*, beginning on page 36, is suited to organizations of magi, perhaps with the occasional nobleman as their peer or servant, who are somewhat distant from the rest of the world. The *Covenants* rules are suitable for the large households of senior nobles, but they don't work as well when modeling the relationships of lesser nobles to their agricultural peasants. Noblemen lack the means or ability to provide many of the factors that make covenants loyal, and further lack the capacity for magical retribution. To their benefit, however, they also lack The Gift's social penalties.
 
@@ -4020,7 +4020,7 @@ A peasant flees the land when it seems he has better prospects elsewhere. This c
 
 Peasants rebel when they feel they have no other choice. Rebellions are rare, because they tend to end badly, with the rebel leaders put to death. This occurs despite laws that prevent lesser nobles from usurping the mortal justice of the king. Short of armed rebellion, some peasants choose — as a group — to refuse to labor. Such villeins can be evicted and replaced, but this is expensive for their lord, and this inconvenience sometimes leads to a change in his policies.
 
-#### **Nothing Grows for the Wicked**
+#### Nothing Grows for the Wicked
 
 Players may prefer a more folkloristic approach to peasant loyalty. In many ballads, the reign of a good king is marked by God with fertile harvests, while the reign of a bad king is blighted with famine. Similarly, if the player characters are virtuous and successful, then God raises the standard of living of the peasants in the covenant's area of influence. The peasants notice this and attribute it to the magi. This generates community loyalty.
 
@@ -4207,7 +4207,7 @@ Manumission, the freeing of serfs by lords, is favored by the teaching of the Ch
 
 #### Lords of Men
 
-#### **Manumission by Lay Lords**
+#### Manumission by Lay Lords
 
 The process by which lay lords give manumissions varies between kingdoms. In France, for example, a lord may only free a serf if the lord's feudal superiors, up to the king himself, give him license to do so. In England, this is not the case; a lord personally owns the service of his serfs and may do as he wishes with them.
 
@@ -4417,7 +4417,7 @@ The total number of combat groups (see later) in the army is important and shoul
 
 Armies are drawn from three main sources. The core of a noble's army comes from his household and vassals. This is supplemented with mercenaries. Lords who are the masters of a region may also gain additional forces from their allies.
 
-#### **Vassals**
+#### Vassals
 
 The size and composition of the forces a lord can raise varies across Mythic Europe, but the table below shows the average number of standard combat groups (each consisting of five fully equipped men) that can be raised in strongly feudal areas.
 
@@ -4433,11 +4433,11 @@ Note that the cavalry element of these forces can be renewed during the course o
 
 The command of vassal armies is hindered by traditions, such as how long the force is to remain in the field, or how far from home it can travel. Many lords allow their vassals to pay a fee, called scutage, instead of mustering. This allows the lord to hire mercenaries who are more expensive but allow greater strategic flexibility.
 
-#### **Allies**
+#### Allies
 
 A character who has an ally or agent due to a Virtue or story event may claim the forces of that ally or agent, with the approval of the troupe.
 
-#### **Affinity**
+#### Affinity
 
 A character who acts as the leader of a region may use his personal authority and charisma to draw lesser nobles into his force. These allies expect to be treated well after victory, and their political demands may then become story hooks. The character's success in drawing other nobles to his banner is represented by multiplying his core vassal forces (before scutage or mercenaries are considered) by some proportion. The result generally provides additional troops to support his own.
 
@@ -4448,13 +4448,13 @@ The Church has issued two proclamations directly concerning the waging of war. T
 
 Breaking either the Pax Dei or the Treuga Dei is considered an unchristian act, as is the execution of prisoners. Captains fearful for their souls, and those who ask for the blessings of saints, do well to obey these articles of war, but easier paths are often more attractive.
 
-#### **Chevauchee**
+#### Chevauchee
 
 The chevauchee is a tactic used to weaken the resolve of a population and to provoke an army into confrontation. Enemy territory is ravaged, crops are burned, and the people are driven from their land to the relative safety of towns and castles. The chevauchee not only secures territory and supplies for the ravaging army but also denies them to the enemy. Even defending armies may leave destruction in their wake as they spoil crops and poison wells in order to deny the enemy. This tactic is used across Mythic Europe and the Levant.
 
 Land put to chevauchee is subject to disease and famine, with farmland spoiled and livestock and population alike slaughtered. Those returning to such an area suffer a –2 Living Conditions modifier (in addition to any existing modifiers) to their next Aging roll. In extreme cases some areas may develop a Malevolent Infernal aura (see *Realms of Power: The Infernal*, pages 11 and 15).
 
-#### **Mercenary Budget**
+#### Mercenary Budget
 
 Living on the very edge of solvency is an expectation of the noble lifestyle. Fortunately, nobles see hiring mercenaries as an appropriate way to express wealth, and so mercenaries can be hired from the money usually spent on the luxuries of life like fine meals and entertainment. This does not low-
 
@@ -4578,7 +4578,7 @@ Storyguides should designate specific features on the battlefield (a chapel, a s
 
 of hills, a bridge, etc.). These provide the settings for battlefield events. The supernatural auras present should also be considered. Infernal auras, for instance, have damaging and insidious effects that cause wounds to open more easily or promote maltreatment of prisoners (see *Realms of Power: The Infernal*, page 10).
 
-#### **Using Magic to Seize Advantage**
+#### Using Magic to Seize Advantage
 
 Magic aids in seizing territorial advantage, such as by misdirecting enemy troops in a fog, redirecting a stream to make a forced march easier, or even altering the rise and fall of the battlefield itself. Add the highest magnitude of any spell used to affect the terrain, or the deployment of troops, to the friendly side's Deployment Total.
 
@@ -4631,7 +4631,7 @@ Event Bonus of at least 2 in order to reach the Battle Ease Factor of 9.
 
 The troupe is assumed to have the initiative (replacing the initiative roll) on starting a battlefield event, but may surrender the initiative for that event to gain a +1 bonus to the Event Total. Unless otherwise stated, each battlefield event lasts five combat rounds.
 
-#### **Maneuver**
+#### Maneuver
 
 The Maneuver describes the kind of action the characters must undertake during the battlefield event.
 
@@ -4645,7 +4645,7 @@ The Maneuver describes the kind of action the characters must undertake during t
 
 **Heroic Gesture (+4):** This is a daring feat of foolhardy bravery. If the leading character dies during a Heroic Gesture, the event is won and the player should describe how that death secures victory. The event is lost if any other player character is killed. The storyguide should set additional win conditions to ensure the leading character has a chance to make it out alive.
 
-#### **Size**
+#### Size
 
 The Size of a battlefield event describes the number of combat groups the characters must defeat before they can win the event.
 
@@ -4661,7 +4661,7 @@ The Weight of Numbers modifier modifies the size of the combat groups involved i
 
 **I Stand Alone (+4):** A single character steps forward to meet the enemy, or undertakes the challenge singlehandedly, against overwhelming odds, typically a full-strength combat group.
 
-#### **Enemy**
+#### Enemy
 
 The Enemy of a battlefield event describes the kind of opponents the characters must face.
 
@@ -4675,7 +4675,7 @@ The Enemy of a battlefield event describes the kind of opponents the characters 
 
 **Baggage (+4):** Attacking the baggage may swing the battle either way. It can stave off defeat by drawing troops or can seal victory by crushing morale. Characters choosing this Enemy option gain 1 experience point towards a bad Reputation. The baggage is normally guarded by inexpensive troops.
 
-#### **Wounds and Attrition**
+#### Wounds and Attrition
 
 At the end of each battlefield event, the defeated side loses a number of combat groups equal to the event's Size characteristic multiplied by the winning side's Weight of Numbers bonus (if positive), representing the efforts of the winning side elsewhere
 
@@ -4686,9 +4686,9 @@ Player characters may attempt to rally a failing army. An additional story event
 
 The Morale rules in Chapter Nine: Optional Combat Rules can also be applied during battlefield events as the combatant groups take damage. Rolls made during the event affect only the group or groups involved.
 
-#### **Example Battlefield Events**
+#### Example Battlefield Events
 
-#### **Skirmish**
+#### Skirmish
 
 Event Bonus +0
 
@@ -4696,7 +4696,7 @@ Event Bonus +0
 
 (+0 Defend, +0 Lesser, +0 Inexpensive)
 
-#### **Hold the Line**
+#### Hold the Line
 
 Event Bonus +2
 
@@ -4706,7 +4706,7 @@ The character must receive the enemy charge and hold the line. The enemy group e
 
 (+0 Defend, +1 Even, +1 Standard)
 
-#### **Rescue**
+#### Rescue
 
 Event Bonus +5
 
@@ -4718,7 +4718,7 @@ One of the character's knights is thrown from his horse and rolls into the river
 
 (+2 Run the Gauntlet, +0 Lesser, +3 Special)
 
-#### **Loose**
+#### Loose
 
 Event Bonus +5
 
@@ -4728,7 +4728,7 @@ The enemy cavalry round for a charge. The character's archer group must loose ar
 
 (+1 Attack, +2 Outnumbered, +2 Expensive)
 
-#### **On All Sides**
+#### On All Sides
 
 Event Bonus +5
 
@@ -4738,7 +4738,7 @@ The character and his combat group become separated from their unit and the enem
 
 (+0 Defend, +3 Overwhelmed, +2 Expensive)
 
-#### **Ransom**
+#### Ransom
 
 Event Bonus +6
 
@@ -4748,7 +4748,7 @@ The enemy captain is separated from his own formation. A single Expensive enemy 
 
 (+3 Take, +0 Lesser, +3 Special)
 
-#### **Feint**
+#### Feint
 
 Event Bonus +7
 
@@ -4758,7 +4758,7 @@ The character must take a small force and offer the enemy flank a target. He mus
 
 (+2 Run the Gauntlet, +3 Overwhelmed, +2 Expensive)
 
-#### **Seize the Colors**
+#### Seize the Colors
 
 Event Bonus +8
 
@@ -4768,7 +4768,7 @@ The enemy continually rally to their standard. If that can be taken, morale will
 
 (+3 Take, +2 Outnumbered, +3 Special)
 
-#### **A "Heroic" Maneuver**
+#### A "Heroic" Maneuver
 
 Event Bonus +9
 
@@ -4784,7 +4784,7 @@ make a Discipline roll (Ease Factor 9) to prevent their flank from being pulled 
 
 (+2 Run the Gauntlet, +3 Overwhelmed, +4 Baggage)
 
-#### **Alone Against the Many**
+#### Alone Against the Many
 
 Event Bonus +11
 
@@ -4821,7 +4821,7 @@ Groups of knights, serjeants, and infantry are treated as trained groups, while 
 |          | Knife                               | +1   | +5  | +6  | +4  | +2   | +0             |
 | Baggage  | Bludgeon                            | –2   | +5  | +1  | +5  | +3   | +0             |
 
-#### **Mercenary Troops**
+#### Mercenary Troops
 
 The table above lists the statistics for standard units of each type, but throughout the **Ars Magica** period there are also specialist troops from Welsh longbowmen to Flemish pikemen to Genoese crossbowmen. Their combat statistics may vary from those above and these soldiers are highly sought after as mercenaries. And of course, as this is Mythic Europe, there is always the potential for strange and supernatural units to be deployed by the ambitious or the unwary.
 
@@ -4851,11 +4851,11 @@ Castles are described in detail in *Covenants*. A limited version of that materi
 
 The battlefield is a loud and confusing place. The potential targets of a magus's spells clash and intermix with his allies, constantly obscuring his view. A magus engaged in a battle must make a Concentration roll against an. Ease Factor of12 to cast spells. A magus who is not yet engaged or is standing off observing the melee must make an a Concentration roll against an Ease Factor of 9 in order to cast spells. A battle is always a stressful situation.
 
-#### **Target: Group**
+#### Target: Group
 
 The Hermetic Group target represents a continuous recognizable group of up to ten individuals. This target is rarely useful in a battle. Although these rules describe combat groups as being of a set size, they are never so simply arranged on the battlefield, almost always instead presenting as a united mass with other troops. However, if a unit of any kind can be separated from the army then a spell using the Group target, with one magnitude spent to increase the size of of the target (to 100 individuals), then a spell can be cast to affect all combat groups within that unit.
 
-#### **Target: Boundary**
+#### Target: Boundary
 
 The standard Boundary target covers an area roughly circular with a diameter of 100 paces. It must also be marked out by a well-defined natural or man-made boundary. This is rarely enough to encompass a complete battlefield and nor is the battlefield likely to conveniently marked out. Boosting the spell level by one magnitude increases the diameter to around 300 paces.
 
@@ -4873,7 +4873,7 @@ Castles serve three functions. A castle acts as a refuge from military forces, s
 
 A brigade of knights, supported by a castle, can travel about twenty miles in a day. This means they have the ability to raid targets up to ten miles away and return to their barracks before nightfall. All people who live within that radius, or have interests there, rapidly become aware of the existence of the castle. The temporal and spiritual authorities of an area cannot ignore any castle.
 
-#### **Free Choices**
+#### Free Choices
 
 A character with the Landed Noble or Great Noble Virtue may select any of these options to describe his stronghold without spending extra money annually.
 
@@ -4893,11 +4893,11 @@ Towers allow their inhabitants to see approaching forces from a greater distance
 
 A small tower cannot act as a staging area for large military groups, and alarms minor landholders only.
 
-#### **Minor Castles**
+#### Minor Castles
 
 Minor castles may be selected by characters who are Landed or Great Nobles. Characters who maintain these castles must pay two pounds per year, out of the money that they are described as being able to spend frivolously in Chapter Two: Politics, to maintain their fortifications. They may also wish to hire extra guards, at the rate of one pound per man per year for mediocre servants.
 
-#### **Shell Keep**
+#### Shell Keep
 
 The shell keep is a modification of the motte-and-bailey castle. A motte is an artificial mound of earth, between ten and one hundred feet tall, on which a wooden tower is built. This tower overlooks and defends a courtyard that is surrounded by a ditch, embankment, and wooden palisade. This courtyard is called the bailey. Some noblemen still build motte-and-bailey castles in 1220.
 
@@ -4908,7 +4908,7 @@ A shell keep is a stone wall, usually two stories high, that replaces the wooden
 
 The wooden palisade around the bailey is also replaced, by a thick stone wall about ten feet high. This has a crenelated walk. Entry to the castle now lies through the lowest story of a square tower, two stories high.
 
-#### **Tower Keep**
+#### Tower Keep
 
 Most tower keeps were built during the 12th century and are, generally, four stories high and square or rectangular. Entry is via an external stairway to the second floor. The keep is usually topped with crenelated battlements. Newer keeps may be polygonal or, most recently, round, in profile.
 
@@ -4916,7 +4916,7 @@ As an example of size, the two largest keeps of each type in Britain are Pembrok
 
 The great tower of the castle is surrounded by a courtyard, which contains wooden or stone buildings of no tactical value. The courtyard's wall is made of thick stone, and is about ten feet high. It is topped with a crenellated walk. A small tower, two stories high, defends the gate.
 
-#### **Curtain Walls and Mural Towers**
+#### Curtain Walls and Mural Towers
 
 Great castles are only held by Great Nobles or their officers. Players who select these castles must pay additional expenses to maintain their fortifications. A castle costs five pounds a year to maintain, and the character must also to hire additional infantry as guards. Many castles have land attached to them to help defray this enormous cost.
 
@@ -4930,7 +4930,7 @@ the inside face, so that if they are captured, they do not provide the enemy wit
 
 A castle may have as many mural towers as suits the troupe. Framlingham has 13 towers, including two for its gate, while others built at the same time are rectangular baileys with a fat tower at each corner and two at the gate. There are two disadvantages to having a dozen towers: they are expensive to build, maintain, and garrison, and they declare to all nearby nobles that their owner intends to rule the county someday. Every extra tower makes a castle more difficult to ignore.
 
-#### **Keep Alternatives for Castles with Curtain Walls**
+#### Keep Alternatives for Castles with Curtain Walls
 
 The defenses of curtain walls are so formidable that the role of the keep changes in response to them. The keep is still able to assist in the defense of the walls, and can act as a place of refuge if the walls are lost, but many castle builders diminish these roles, and find alternatives to the tower or shell keep for fortifications that have curtain walls.
 
@@ -4940,7 +4940,7 @@ A courtyard castle focuses on the defense of the bailey, forgoing a keep entirel
 
 A gatehouse keep is a large building, usually three stories high, that serves as gatehouse and keep for the castle. Its lowest level is given over to storage and the entry to the bailey. The middle level is used for living space, equipment for the drawbridge and portcullis, and murder holes. The lord and his family dwell on the uppermost level.
 
-#### **Barbican and Moat**
+#### Barbican and Moat
 
 A barbican, for game purposes, is a series of works that limit the access to the gate-
 
@@ -4958,7 +4958,7 @@ A barbican and moat are included in the cost of a castle with curtain walls. A s
 
 A castle is described by three main characteristics: Garrison, Defenses, and Supplies. Each characteristic has a measure of quality and an interval. Intervals vary from "day" to "year," and the lowest interval pertaining to a given castle determines how often key siege events are played out when the castle is besieged.
 
-#### **Garrison**
+#### Garrison
 
 The castle Garrison is measured in combat groups, usually a combination of infantry and levies, though larger castles also include knights, serjeants, and archers.
 
@@ -4971,7 +4971,7 @@ The castle Garrison is measured in combat groups, usually a combination of infan
 
 The garrison units should be described as for field warfare. The defending garrison may also include siege engines (see Siege Engines).
 
-#### **Defenses**
+#### Defenses
 
 Defenses describes both castle walls and other specific defensive engineering, earthworks, or moats. Their quality is measured using the grades presented in *City & Guild*, page 67. In this case quality represents the age, upkeep, and extent of the defenses as well as their inherent construction quality.
 
@@ -4996,7 +4996,7 @@ The castle's size, along with its Defense Bonus, determines how many damage leve
 
 The castle's Defense Bonus is multiplied by the damage level modifier from the above table to determine the castle's damage levels. The walls of a fortified city (taking the curtain walls great castle choice) each have 4 x 4 = 16 damage levels, while the walls of a tower keep have 3 x 3 = 9 damage levels.
 
-#### **Supplies**
+#### Supplies
 
 Supplies include the food, water, and raw materials stored inside the castle, and the ability of the castle to resupply itself. Castles are almost never completely cut off as a besieging army is rarely large enough to encircle what is often difficult and porous terrain.
 
@@ -5015,7 +5015,7 @@ A siege begins with the arrival of the attacking army in the area of the castle.
 
 Characters under siege suffer from a –2 Living Conditions modifier each year in which at least one season is spent under siege.
 
-#### **Stockade**
+#### Stockade
 
 Well-defended castles can rarely be taken without heavy losses. In those cases, it is preferable to starve the garrison into surrender. And with so many people and so little space, even if getting enough food isn't a problem then getting rid of the waste often is.
 
@@ -5059,7 +5059,7 @@ The besieging army is proactive and chooses how it will attack the castle. There
 
 <sup>\*</sup> As these engines are essentially static, the Defense is not rolled but is instead an Ease Factor.
 
-#### **Notes**
+#### Notes
 
 **Ballista:** Reloading a ballista is a two-round Extended Action (as per the combat actions in Chapter Eight, Optional Combat Rules) that takes the full crew.
 
@@ -5071,13 +5071,13 @@ tics by sallying out, counter-mining, or even launching an artillery assault of 
 
 Unlike battles where victory can easily be decided, sieges have a natural lifespan and the castle garrison can not remain unsupported indefinitely. The rules for stockade as described above run alongside any military efforts.
 
-#### **Troop Deployment**
+#### Troop Deployment
 
 In a siege, each army may nominate any number of its units as miners, artillery, or soldiers. Artillery units and soldiers are as standard but miners are generally drawn from the levies. It is important to track these units as certain attacks can only be made if the army has units of the appropriate type.
 
 Starting with the besieging army, followed by the castle garrison, both sides assign their units among the four castle walls. For simplicity it is suggested that these deployments remain unchanged throughout the siege, but some troupes may wish to redeploy ahead of each event. Any wall that is undefended by the garrison may, if the besieging army deploys men to that wall, provoke an undefended escalade (see Escalade, below).
 
-#### **Undermining**
+#### Undermining
 
 If the besieging army has at least one unit of miners, an attempt can be made to undermine the castle walls. A single wall is targeted in each undermining attempt.
 
@@ -5098,19 +5098,19 @@ A powerful noble begins taking trees from a nearby magical forest to construct s
 
 ## New Abilities
 
-#### **Profession Sapper**
+#### Profession Sapper
 
 The planning and execution of tunneling operations to undermine castle walls is governed by the Ability Profession Sapper. It includes the siting of mines, the coordination of laborers, and the eventual firing of the tunnels. It also covers counter-mining activities, which are used to defend against the sapper's art. This Ability may not be used untrained, though characters with Profession Miner may conduct mining operations with three botch dice.
 
 **Specialities**: specific types of wall. (General)
 
-#### **Profession Siege Engineer**
+#### Profession Siege Engineer
 
 The Ability Profession Siege Engineer describes the ability to design and construct siege engines, as well as the understanding of defensive engineering. Most siege engineers oversee construction rather than construct the devices themselves. Siege engineers are in high demand from wealthy clients needing defenses against siege, and from armies needing to breach those defenses.
 
 **Specialities**: ballistae, mangonels, trebuchets, siege towers, castle walls. (Academic)
 
-#### **Siege Weapon**
+#### Siege Weapon
 
 The Siege Weapon ability governs the operation of siege weapons, either individually for small engines, or as the leader of a crew for larger engines.
 
@@ -5122,7 +5122,7 @@ A successful mine attack reduces the castle's Defense Quality by one step. A bot
 
 Storyguides may wish to develop these events further. It is common for the castle to counter-mine the enemy miners and collapse the tunnels themselves, before their enemies have chance to affect the castle walls. And on occasion, miners from both sides end up fighting for control over tunnels.
 
-#### **Artillery**
+#### Artillery
 
 Artillery can be employed against the castle walls if the besieging army includes at least one mangonel or trebuchet. These attacks are based on the damaged goods rules found in *City & Guild*, page 77. Siege engines attack in groups of up to five engines and a successful hit inflicts a number of damage levels equal to the size of the group. Each group makes a single attack roll during each artillery event. Multiple walls may be targeted in a given artillery event, provided the attacking force has enough engines to do so.
 
@@ -5134,7 +5134,7 @@ An attack is successful if the Artillery Attack exceeds the Castle Defense.
 
 When a wall has been reduced to zero damage levels, the castle no longer benefits from its Defense Bonus at that wall.
 
-#### **Escalade**
+#### Escalade
 
 The most direct way of assaulting a castle is the escalade, in which the attacking army scales the castle walls using wooden towers, ladders, and ropes.
 
@@ -5168,13 +5168,13 @@ The. battlefield. events. rules. presented. earlier.in.this.chapter.should.be.us
 
 If.the.attacking.army.wins.a.battle.against. a.shoddy.wall.they.breach.the.castle,.which. then. becomes. the. backdrop. for. a. standard. battle.using.the.battle.rules.presented.earlier. in.this.chapter.
 
-#### **counterattack**
+#### counterattack
 
 As. a. response. to. any. besieging. action,. or.as.an.action.during.stockade,.the.garrison. may. send. out. troops. to. attack. the. enemy. directly.. These. actions. have. a. Battle. Ease. Factor. of. 9.. Neither. Territorial. Advantage. nor.Weight.of.Numbers.apply..The.sallying. force.must.leave.the.castle,.reach.their.tar-
 
 ### Example Siege Events
 
-#### **scale the ladders**
+#### scale the ladders
 
 Event.Bonus.+7
 
@@ -5184,7 +5184,7 @@ The. character. must. scale. the. ladders. while. the. defenders. assault. him. 
 
 (+2. Run. the. Gauntlet,. +3. Overwhelmed,.+2.Standard)
 
-#### **open the gates**
+#### open the gates
 
 Event.Bonus.+8
 
@@ -5194,7 +5194,7 @@ Inside.the.castle.(such.as.in.the.wake. of.the.Scale.the.Ladders.event.described
 
 (+2. Run. the. Gauntlet,. +4. I. Stand. Alone,.+2.Expensive)
 
-#### **take t he Marshal**
+#### take t he Marshal
 
 Event.Bonus.+9
 
@@ -5224,7 +5224,7 @@ Depending on its location, its importance, and the needs of the wider campaign, 
 
 On finding themselves besieged by a determined Milanese force, the magi of Castro Selvaggio worked together to create a number of spells and rituals to help them outlast their attackers. The following laboratory texts survived the sacking of the castle. It is not known precisely how the castle fell, but suspicion quickly fell upon the covenant's Milanese rivals.
 
-#### **Conjuration of Bread**
+#### Conjuration of Bread
 
 CrHe 35
 
@@ -5234,7 +5234,7 @@ This ritual creates enough bread to support a moderately sized covenant for a se
 
 (Base 3, +1 Touch, +2 Group, +5 size)
 
-#### **Raise the Veronese Flag**
+#### Raise the Veronese Flag
 
 CrIm 30
 
@@ -5244,7 +5244,7 @@ This spell creates the illusion of ten Veronese men-at-arms manning the castle w
 
 (Base 2, +2 Voice, +2 Sun, +2 Group, +2 movement and complexity)
 
-#### **Raise the Siege**
+#### Raise the Siege
 
 ReMe 30
 
@@ -5254,7 +5254,7 @@ Given an arcane connection to the besieging commander, this spell suggests a pes
 
 (Base 5, +4 Arc, +1 Sun)
 
-#### **Seal the Breach**
+#### Seal the Breach
 
 CrTe 20
 
@@ -5287,7 +5287,7 @@ The basics of initiative are explained in ArM5, pages 171–172.
 
 The storyguide should call for Initiative rolls whenever she wants to start using combat rounds. Any action that doesn't require a weapon, including spellcasting, has a weapon initiative modifier of 0.
 
-#### **When to Roll Initiative**
+#### When to Roll Initiative
 
 When combat begins (or when the storyguide wants to start tracking events using combat rounds), roll for Initiative for each character present. Even characters who don't want to get involved in the battle should roll Initiative and act only on their turn.
 
@@ -5303,11 +5303,11 @@ agrees a character can reasonably do in about six seconds. Attacking is an actio
 
 A character can only perform an action on his turn in the combat sequence.
 
-#### **Not Everything is an Action**
+#### Not Everything is an Action
 
 Since an action is something a character does on his turn, not every die roll a player makes corresponds to an action. Generally, rolls required by the storyguide (as opposed to initiated by the player) don't count as actions. There is no limit to how many die rolls a player can make in one round, because die rolls are not necessarily actions.
 
-#### **Examples of Actions**
+#### Examples of Actions
 
 It would be impossible to list every possible action, but some common examples include:
 
@@ -5322,7 +5322,7 @@ It would be impossible to list every possible action, but some common examples i
 - Pick up an item off the ground
 - Open or close (and bar) a door or window
 
-#### **Reactions**
+#### Reactions
 
 A common situation in combat arises when a character must immediately respond to some external event, such as making a Defense roll to avoid an enemy's attack or a
 
@@ -5340,7 +5340,7 @@ Some examples of reactions include:
 - Concentration rolls to maintain a spell (see ArM5, page 82).
 - Ride rolls to avoid falling off a horse.
 
-#### **Extended Actions**
+#### Extended Actions
 
 Sometimes, characters want to do something that takes an entire six-second combat round or longer. These are extended actions. The differences between an action and an extended action are:
 
@@ -5368,7 +5368,7 @@ Examples of extended actions include:
 - String a bow
 - Cast a ritual spell (which may take hundreds of combat rounds!)
 
-#### **Option: Fast Actions**
+#### Option: Fast Actions
 
 Some things a character might want to do, such as drawing a dagger or shouting a warning, take considerably less than a sixsecond combat round to complete. Under this optional rule, such activities are called fast actions. (If you prefer not to use this option, then the storyguide should make ad hoc decisions about whether a character can do more than one thing in a round.)
 
@@ -5409,7 +5409,7 @@ change the character's order in the combat sequence in future turns.
 
 **Example:** *A tavern confrontation between Paul the turb warrior and two ruffians, Alan and Bruce, comes to blows. Paul's player rolls well on Initiative, getting a 10. Alan's Initiative Total is 8 and Bruce's is 7. Paul gets to go first, but is not sure whether one ruffian, or both, will attack him. He only wants to hit the ones who swing at him, so he delays. Alan goes next, but isn't sure about taking on someone as tough as Paul, so he also delays, waiting for Bruce to make the first move. Bruce is more hot-headed, and attacks. Paul withstands the attack. Now all the characters who delayed their actions have a chance to respond, in descending order of Initiative Totals. Paul has the higher Initiative Total of the two characters who delayed, so he has the first choice to respond. He attacks Bruce and lands a hefty blow. Then Alan, who also delayed his action, gets to respond. He attacks Paul and misses. The first round of combat ends. On the next round, Paul's Initiative Total is still 10 and he still goes first. Combat proceeds according to the normal sequence (from highest to lowest Initiative Totals) unless someone decides to delay again.*
 
-#### **Option: Interrupting Actions**
+#### Option: Interrupting Actions
 
 The combat sequence of **Ars Magica Fifth Edition** can sometimes give the illusion that a character performs his action on his turn, then freezes like a statue while all the other characters take their own turns. The turn-based combat sequence is an important convenience that makes battles playable, but it should not be taken too literally. From the characters' point of view, action on the battlefield is fast, chaotic, and continuous.
 
@@ -5439,7 +5439,7 @@ Note that it's only possible to interrupt an extended action in the round it is 
 
 *move to cut off his retreat. The storyguide asks them both to roll Action Priority Totals using Quickness + Athletics – Encumbrance. Marla's player rolls well and gets a 16; the intruder only gets 11. Marla dashes ahead of the intruder and makes it to the door before him. The intruder's action was spent running for the door, even though he was beaten there, so the first round of combat ends. It's round two, and Marla's turn.*
 
-#### **Option: Fast Casting as Interruption**
+#### Option: Fast Casting as Interruption
 
 If you like, you can use a variant of the interrupting actions rule, presented earlier, to replace the normal Ease Factor for a Fast Casting speed roll (see ArM5, page 83). Use the normal Fast-Casting procedure (that is, the magus does *not* need to have delayed his action) but use the interrupted opponent's Action Priority Total as the Ease Factor of the Fast Casting speed roll.
 
@@ -5480,7 +5480,7 @@ Difficult terrain significantly slows a character's movement. For simplicity, al
 
 The following examples cover some common situations and can be used as a guide for other terrain types. Note that some terrain, like ice, can be both difficult and hazardous.
 
-#### **Difficult Terrain**
+#### Difficult Terrain
 
 Movement speed halved (round up), extra botch die.
 
@@ -5491,7 +5491,7 @@ Movement speed halved (round up), extra botch die.
 - Snow (knee-deep or deeper)
 - Water (knee-deep or deeper)
 
-#### **Hazards**
+#### Hazards
 
 Extra botch die (or dice), botch potentially more serious.
 
@@ -5503,7 +5503,7 @@ Extra botch die (or dice), botch potentially more serious.
 - Ship or wagon, moving
 - Battlefield littered with bodies, broken weapons, etc.
 
-#### **Obstacles**
+#### Obstacles
 
 Requires special action to move across.
 
@@ -5544,7 +5544,7 @@ Similarly, a character becomes engaged in missile combat whenever he makes an At
 
 Engagement is a game-mechanical artifact, like the sequential nature of a combat round. Like the sequential combat round, engagement should not be interpreted too literally. A character engaged in combat is not rooted to the spot as if by a spell. Rather, he is fighting for his life and whenever he tries to move away, his opponent tries to block him or head him off. These maneuvers and counter-maneuvers are represented by the disengagement roll.
 
-#### **Effects of Being Engaged**
+#### Effects of Being Engaged
 
 A character (or group) engaged in melee combat is busy fighting and can't move away from his (or their) opponent without disengaging first.
 
@@ -5562,17 +5562,17 @@ According to the rules in ArM5, defenders are always effective; an opponent cann
 
 The defenders as interceptors option (see Option: Defenders and Interceptors, later in this chapter,) is an alternative to the standard defender rule. This option requires the defender to win an opposed die roll to stop incoming attackers.
 
-#### **Option: No Engagement for Missile Combat**
+#### Option: No Engagement for Missile Combat
 
 The basic rules for engagement and disengagement apply to both melee and missile combat. In missile combat, a character engages an opponent by "keeping him covered."
 
 As an optional rule, you may use the engagement rules for melee combat only.
 
-#### **Option: No Missiles While Engaged in Melee**
+#### Option: No Missiles While Engaged in Melee
 
 As an optional rule, you may disallow characters engaged in melee from making missile attacks.
 
-#### **Option: Defenders as Interceptors**
+#### Option: Defenders as Interceptors
 
 The defender rules (see ArM5, page 173) are simple to use, but they can sometimes lead to strange results when few are defending against many. A single defender can hold off one attacker, or twenty, with equal effectiveness. This optional (but more complex) rule is for troupes who dislike that implication of the standard rule. It uses the mechanics of the interrupting actions option (see Option: Interruption Actions, earlier in this chapter) but can be used even if the troupe doesn't want to allow interrupting actions in other contexts.
 
@@ -5597,7 +5597,7 @@ A defender can only protect one other character, and only as long as that charac
 
 Rules for disengaging from combat may be found on page 173 of ArM5. In the context of missile combat, it is useful to think of disengaging as "taking cover."
 
-#### **Attempting to Disengage**
+#### Attempting to Disengage
 
 Disengaging is a reaction, not an action. A character must disengage whenever he attempts a move action while engaged.
 
@@ -5611,7 +5611,7 @@ If a character fails to disengage and tries again the following round, he gains 
 
 If a character moves along a path that brings him within melee or missile range of an opponent who has a delayed action, that opponent can attack him. (See Option: Interrupting Actions, earlier in this chapter. If you are not using that option, opponents can attack the character automatically if they have delayed their actions.) The moving character becomes engaged at that time, but may immediately attempt to disengage and continue his movement.
 
-#### **Automatic Disengagement**
+#### Automatic Disengagement
 
 A character automatically ceases to be engaged in combat when any of the following happens:
 
@@ -5621,7 +5621,7 @@ A character automatically ceases to be engaged in combat when any of the followi
 - The opposing side runs out of ammunition. This may not be immediately obvious to the character, but his next attempt to disengage will automatically succeed.
 - The character (or group) moves beyond the extreme range of all opponents' weapons.
 
-#### **Option: Reckless Disengagement**
+#### Option: Reckless Disengagement
 
 The requirement that a character disengage from combat assumes that a character's self-preservation impulse always prevents him from turning his back on an opponent in the midst of mortal combat. As an option, the storyguide can allow characters to disregard self-preservation and simply move
 
@@ -5637,7 +5637,7 @@ Attacking and defending are the fundamental activities of combat. This section c
 
 Attacking, whether in melee or missile combat, is an action.
 
-#### **Charging on Foot**
+#### Charging on Foot
 
 Charging is an action that lets a character move and make a melee attack in the same round. The movement must come before the attack. It is also possible to charge and attack with a hand-hurled weapon such as a javelin or throwing axe, but not with a bow, sling, or crossbow.
 
@@ -5665,7 +5665,7 @@ This may not seem to save much space, but note that it covers all possible weapo
 
 See Mounted Combat, later in this chapter, for rules covering charging on horseback.
 
-#### **Option: Interrupting a Charge**
+#### Option: Interrupting a Charge
 
 If you are using the interrupting actions option (see Option: Interruption Actions, earlier in this chapter), a character who is charging on foot uses his Combat Ability as the relevant Ability in his Action Priority Total. The character who is interrupting should use Athletics if he's trying to move out of the way of the charge, or a Combat Ability if he's trying to attack the charging character. One may interrupt a charge using either missile or melee weapons.
 
@@ -5673,7 +5673,7 @@ If you are not using the interrupting actions rule, you can still use this optio
 
 
 
-#### **Option: Ready Missiles**
+#### Option: Ready Missiles
 
 This optional rule works with the fast actions option (see Option: Fast Actions, earlier in this chapter). A character armed with any type of bow or crossbow, but not with a sling or hand-thrown weapon, who has the weapon drawn and an arrow or bolt on the string, is considered to have a missile "ready." He can shoot as a fast action instead of an ordinary action. He may then perform another action in the same round, even, in the case of a bow, shooting a second arrow.
 
@@ -5681,7 +5681,7 @@ An archer can pull an arrow from his quiver, aim, and shoot, all in a single act
 
 A crossbowman loads his weapon as part of the extended action of spanning it, so always begins the next round with the weapon ready. A common tactic for crossbowmen is to span the weapon behind a pavise (a large, free-standing shield) or other cover, pop up, shoot, and quickly duck back behind the cover to span the weapon again. (An archer could use the same tactic, at the cost of halving his rate of fire). The only way the crossbowman would be exposed to enemy missiles is if an enemy had delayed an action, then attacked in response to the crossbowman leaving cover. Needless to say, characters with experience fighting crossbowmen do exactly that.
 
-#### **Option: Constriction Attacks**
+#### Option: Constriction Attacks
 
 Medieval bestiaries speak of dragons strangling elephants with their tails or coils. Other fantastic beasts, such as the kraken, are also capable of constriction attacks.
 
@@ -5694,15 +5694,15 @@ As long as a grappling creature maintains the grapple, its opponent is considere
 
 Defending against an attack (that is, generating a Defense Total) is a reaction, not an action. A character who comes under attack nearly always gets a Defense roll, even if he doesn't see the attack coming (though he would suffer major penalties to his Defense Total in that case). There is no limit to the number of Defense rolls a player may make for his character in one round.
 
-#### **Defense when Unarmed**
+#### Defense when Unarmed
 
 Completely unarmed characters use the Defense Total based on their Brawl Ability. Characters equipped with a shield, but no weapon, use the Defense Total based on their Single Weapon Ability.
 
-#### **Helpless Characters**
+#### Helpless Characters
 
 The only time a character doesn't get a Defense roll is when he's totally helpless — unconscious, securely bound to a chair, magically paralyzed like a statue, and so on. In these cases, if any opponent should be so ignoble as to attack the character, treat his Defense Total as –10 (note that this Defense Total is a fixed number; there is no die roll).
 
-#### **Option: Diceless Defense**
+#### Option: Diceless Defense
 
 To make combat flow quicker and reduce the amount of arithmetic involved, you can replace the stress die in characters' Defense Totals with a constant value of 6. That is, characters don't roll Defense; Defense simply becomes something akin to an Ease Factor for the Attack roll.
 
@@ -5714,7 +5714,7 @@ weak combatants, because the weaker fighters normally rely on luck in order to w
 
 The storyguide should feel free to apply this option selectively, for example, only to non-player characters instead of player characters, or only to "cannon fodder" opponents and not to the main villains of the saga.
 
-#### **Option: No Defense for Missile Weapons**
+#### Option: No Defense for Missile Weapons
 
 All weapons in the missile weapon table have a Defense modifier of 0, but a character with a bow or sling in hand uses the Combat Ability for that weapon when rolling a Defense Total.
 
@@ -5722,7 +5722,7 @@ This raises the question of whether skill at archery (for example) necessarily m
 
 If that's a problem in your saga, you can simply rule that missile weapons and their relevant Abilities cannot be used to generate a Defense Total. A character holding a bow, crossbow, sling, knife, or stone uses the Brawl Ability for defense. A character holding a javelin or throwing axe, which are usable in melee, uses the Single Weapon Ability (and the appropriate weapon's Defense modifier) for defense.
 
-#### **Option: Evasion**
+#### Option: Evasion
 
 The combat rules don't draw a distinction between avoiding an attack by blocking it as opposed to nimbly dodging out of the way. Both forms of defense are covered by the Defense score. This optional rule separates defense based on blocking and parrying from defense based on dodging; the latter is covered by a new combat score called Evasion.
 
@@ -5751,7 +5751,7 @@ Whenever an Incapacitating Wound is dealt, the player should immediately make a 
 
 Of course, a character who avoids the loss of a limb from the injury itself may face losing it through surgical intervention if the wound worsens (see *Art & Academe*, page 62).
 
-#### **Option: Mitigating Deadly Wounds**
+#### Option: Mitigating Deadly Wounds
 
 Bad things can happen to characters in combat — especially to grogs. Death is often one unlucky die roll away. Defense botches are particularly deadly (see ArM5, page 171). If there is a fair amount of combat in your saga, you may find the risk of losing a beloved character (or despised villain) is greater than your troupe wants to accept.
 
@@ -5768,7 +5768,7 @@ As a rule of thumb, an Incapacitating Wound can be reduced to a Heavy Wound plus
 
 Appropriate Flaws to apply with this option include:
 
-#### **Minor Flaws**
+#### Minor Flaws
 
 - Afflicted Tongue
 - Disfigured
@@ -5780,7 +5780,7 @@ Appropriate Flaws to apply with this option include:
 - Missing Hand
 - Palsied Hands
 
-#### **Major Flaws**
+#### Major Flaws
 
 - Blind
 - Crippled
@@ -5851,7 +5851,7 @@ Horses have four gaits, each of which has a different movement rate.
 | Canter     | 20            | 25          | 30 | 35          | 45          | 50 |
 | Gallop     | 30            | 40          | 50 | 60          | 70          | 80 |
 
-#### **Effects of Mounted Movement**
+#### Effects of Mounted Movement
 
 A horse's gait affects a rider's ability to shoot missiles from horseback, the amount of damage taken for falling off the horse, the Ease Factor for the Dexterity + Ride roll needed to carry out extended actions, and, optionally, his Defense score against ranged attacks.
 
@@ -5868,7 +5868,7 @@ A horse must make a Fatigue test every round it moves at a gallop.
 
 Like a foot charge, a mounted charge can't cross difficult terrain and still get the Attack bonus. However, a rider can move normally (i.e., without charging) and exert on Attack.
 
-#### **Option: Shock of the Charge**
+#### Option: Shock of the Charge
 
 The impact of a half-ton of horse and rider charging furiously at a speed over twenty miles an hour is nigh irresistible on the battlefield. With this optional rule, any time a mounted charge hits a target smaller than the horse, that target may be knocked prone by the terrific force of the blow, in addition to any wounds caused by the blow itself.
 
@@ -5883,7 +5883,7 @@ A rider with a cantled saddle, as used in tournaments or warfare, gains a +3 bon
 **Resist Charge While on Foot: Str + Size + Combat Ability + stress die vs. Damage Total (before Soak) + Size of attacker's horse**
 
 
-#### **Shooting Missiles from Horseback**
+#### Shooting Missiles from Horseback
 
 Knights and sergeants from England or France rarely attempt to shoot bows or throw javelins from horseback, but elsewhere in Mythic Europe, mounted archers — Moors, Byzantine *kataphraktoi*, Hungarian *szekeley*, Levantine turcopoles, and Mongols — are commonplace. In Iberia in the early Middle Ages, both Moorish and Christian cavalry armed themselves with javelins. Mounted crossbowmen also appeared in historical Europe, but weren't common until the late 14th century.
 
@@ -5891,7 +5891,7 @@ Missile cavalry can be effective, but even the most skilled horse archers are le
 
 Characters with missile weapons get the normal situational Defense bonuses for mounted combat (i.e., equal to their Ride skill, or +3, whichever is less) due to their mobility. The Attack bonus for mounted combat does not apply to missile attacks.
 
-#### **Actions Taken by Horses**
+#### Actions Taken by Horses
 
 A trained warhorse can attack opponents in melee. The horse does not roll Initiative on its own; it acts on the rider's turn. (The rider decides whether he, or his horse, completes its action first.) If the rider dismounts or is forcibly removed from the saddle, the horse begins acting independently. The player or storyguide should roll Initiative for it at that point.
 
@@ -5908,7 +5908,7 @@ With his height advantage and (usually) heavy armor, a mounted warrior enjoys a 
 
 Knights and nobles throughout Mythic Europe consider it ignoble and disgraceful to attack an opponent's horse. Doing so in a tournament certainly harms a noble's Reputation; it also deprives him of a valuable prize. In all-out warfare, on the other hand, Reputation and booty frequently take second place to survival. The commoners who make up the vast majority of infantry have no illusions of chivalry, and do not hesitate to attack the horse first and the rider second.
 
-#### **Wounding Horses**
+#### Wounding Horses
 
 A horse has a relatively low Defense score, at least compared to a knight or trained serjeant. Warriors rarely outfit their horses with heavy armor (the scale armor– clad horses of Byzantine *kataphraktoi* are the exception that proves the rule), though armored horses became more common in the late middle ages of historical Europe. With only moderate Defense and Soak scores, a horse is often a much easier target than the knight who rides it.
 
@@ -5924,7 +5924,7 @@ the rider's attacks.
 - **Heavy Wound:** The horse rears or stumbles; the rider must make a Dexterity + Ride roll vs. Ease Factor 9 or fall from the saddle. The horse stops moving immediately and cannot charge or move faster than a trot. This aborts a charge, if one was in progress. Furthermore, the horse may panic; the rider must make a Presence + Ride roll vs. Ease Factor 9 to control it. A horse that sustains a Heavy Wound is usually euthanized after the battle.
 - **Incapacitating or Fatal Wound:** The horse falls instantly; the rider is in peril of falling with it. See Being Pinned Under a Horse, later in this chapter.
 
-#### **Controlling a Panicked Horse**
+#### Controlling a Panicked Horse
 
 Horses untrained for battle panic whenever they are engaged in melee. Any horse panics when it suffers a Medium or Heavy Wound, or when faced with terrors such as magic on the battlefield or a fell being of supernatural power (at the storyguide's discretion).
 
@@ -5941,7 +5941,7 @@ A panicked horse usually attempts to disengage from combat and gallop to safety,
 
 Except in the case of a mounted charge, the rider of a panicked horse can't attack or take any action except to try to regain control, or leap out of the saddle. He may also voluntarily fall off the horse as a reaction, but takes damage as usual from the fall.
 
-#### **Option: Defensive Bonus for Moving Horses**
+#### Option: Defensive Bonus for Moving Horses
 
 Because horses are so swift, the storyguide may wish to make them a bit harder to hit with missiles when they are moving. The Mounted Movement Rates table lists an optional defensive bonus based on the horse's gait. If you are using the evasion optional rule, this bonus applies to the Evasion score of both horse and rider. Otherwise, it applies to their Defense scores against missile attacks.
 
@@ -5949,7 +5949,7 @@ Because horses are so swift, the storyguide may wish to make them a bit harder t
 
 Mounting or dismounting a horse in the usual way is an action, but does not require a die roll.
 
-#### **Leaping from the Saddle**
+#### Leaping from the Saddle
 
 A character may attempt to leap from the saddle as a reaction if his horse panics, falls, or is slain.
 
@@ -5960,7 +5960,7 @@ If the roll fails the character remains in the saddle, possibly falling along wi
 
 If you are using the fast actions optional rule, you may allow characters to leap from the saddle voluntarily as a fast action. Failure in this case means the character lands badly; this is the same as falling from the saddle (see Falling from Horseback, later in this chapter). A botch indicates some mishap such as an especially bad fall (extra damage), or falling with the rider's foot still caught in the stirrup.
 
-#### **Option: Vaulting Into the Saddle**
+#### Option: Vaulting Into the Saddle
 
 If you are using the fast actions optional rule, you may allow characters vault into the saddle as a fast action. If the rider did not move before vaulting into the saddle, he may then ride in the same round. If the attempt fails, the character remains standing behind his horse.
 
@@ -5972,7 +5972,7 @@ When a character falls from horseback, he takes falling damage (see ArM5, page 1
 
 Any time a rider falls from his horse, he lands prone. Standing up is an action.
 
-#### **Being Pinned Under a Horse**
+#### Being Pinned Under a Horse
 
 If a horse is Incapacitated, killed, or knocked prone or unconscious, the rider risks having the horse fall on top of him.
 
@@ -6056,7 +6056,7 @@ The table below gives the longest range in paces at which a given level of conce
 
 
 
-#### **Fighting Indoors and in Narrow Spaces**
+#### Fighting Indoors and in Narrow Spaces
 
 Normally, up to six opponents can surround and attack a single defender (see the group combat rules on ArM5, page 172; the maximum size for a group is six and a group may attack a single character). Walls and similar obstacles can reduce this number.
 
@@ -6093,7 +6093,7 @@ tack as usual, by subtracting the target's Soak score from the Damage Total. Con
 
 The Bruise Table shows the penalties for each category of Bruise, and its recovery statistics. The most severe categories of Bruises leave regular wounds behind after the character recovers from the Bruise itself.
 
-#### **Recovering from Bruises**
+#### Recovering from Bruises
 
 A character can recover from Bruises in a relatively short time. The character must be at rest in order to recover.
 
@@ -6219,15 +6219,15 @@ These optional rules moderately weaken the effectiveness of groups while making 
 
 Effective group tactics require both discipline and morale. In battle, both of these are tested.
 
-#### **Discipline**
+#### Discipline
 
 A Discipline roll is required whenever a group is tempted to break formation, either because they are executing a tricky maneuver or because the enemy seems vulnerable (tempting the group's members to pursue them). Making a Discipline roll is a reaction, not an action. If a Discipline roll fails, the group temporarily becomes disordered (see Disordered Groups, later in this chapter).
 
-#### **Group Discipline: leader's Presence + leader's Leadership + stress die**
+#### Group Discipline: leader's Presence + leader's Leadership + stress die
 
 If everyone in the group has a positive Loyal Personality Trait, the group gains an additional bonus equal to the lowest Loyal score among the members.
 
-#### **Example Discipline Ease Factors**
+#### Example Discipline Ease Factors
 
 | Event                                                | Ease Factor |
 |------------------------------------------------------|-------------|
@@ -6238,7 +6238,7 @@ If everyone in the group has a positive Loyal Personality Trait, the group gains
 | Group disengages                                     | 9           |
 | Group changes between<br>melee and missile<br>combat | 6           |
 
-#### **Morale**
+#### Morale
 
 All groups need to make Morale rolls when bad things happen on the battlefield. Morale rolls are reactions, not actions. A
 
@@ -6247,7 +6247,7 @@ All groups need to make Morale rolls when bad things happen on the battlefield. 
 
 If everyone in the group has a positive Brave Personality Trait, the group gains a bonus to the Morale roll equal to the lowest Brave score in the group.
 
-#### **Example Morale Ease Factors**
+#### Example Morale Ease Factors
 
 | Event                                                                     | Ease Factor |
 |---------------------------------------------------------------------------|-------------|
@@ -6258,7 +6258,7 @@ If everyone in the group has a positive Brave Personality Trait, the group gains
 | All members of the group<br>reach Wound Penalty of<br>−3 or worse         | 9           |
 | The vanguard or leader<br>killed, Incapacitated, or<br>disabled by magic  | 9           |
 
-#### **Disordered Groups**
+#### Disordered Groups
 
 A group that fails a Discipline or Morale check becomes disordered. This is a bad state of affairs that leaves the group vulnerable in combat.
 
@@ -6272,13 +6272,13 @@ tacks (round up) can hit, and the others automatically miss. That is, instead of
 
 If a group that is disordered fails a Morale check (but not a Discipline check), it becomes routed.
 
-#### **Routed Groups**
+#### Routed Groups
 
 A routed group has lost its will to fight and attempts to disengage from all opponents and flee to safety. Once disengaged from the enemy, it's not uncommon for the members of a routed group to scatter.
 
 A group can become routed if it is already disordered and then fails a Morale check.
 
-#### **Rallying a Group**
+#### Rallying a Group
 
 If a group becomes disordered or routed, the leader may attempt to rally it as an action. Rallying improves a routed group to being merely disordered, or restores a disordered group to normal status.
 
@@ -6297,17 +6297,17 @@ The Ease Factor to rally a group depends on whether the group is engaged in comb
 | Group has sustained<br>casualties             | +1 to Ease<br>Factor |
 | Group has sustained 50%<br>casualties or more | +3 to Ease<br>Factor |
 
-#### **Groups With No Leader**
+#### Groups With No Leader
 
 Ordinarily, a group that loses its vanguard or leader splits into individuals (see ArM5, page 173). Under these optional rules, a group that loses its vanguard or leader can still fight, though it is likely to become disordered.
 
 A group with no vanguard can't attack, but uses the Defense score of its best member. The leader of a group can designate a new vanguard in the middle of battle, as a fast action. If successful, this takes effect immediately, and the group's future rolls are based on the new vanguard's statistics. The leader can automatically choose a new vanguard (no roll required) if the group spends a round without attacking or defending.
 
-#### **Replace a Vanguard in Combat: leader's Presence + leader's Leadership + stress die vs. Ease Factor 9**
+#### Replace a Vanguard in Combat: leader's Presence + leader's Leadership + stress die vs. Ease Factor 9
 
 A group with no leader automatically fails any Morale or Discipline check. A new leader can assume command automatically if the group spends a round without fighting (i.e., without making any Attack or Defense rolls). Alternatively, a member of the group may assume command in combat as a fast action.
 
-#### **Assume Leadership in Combat: Presence + Leadership + stress die vs. Ease Factor 9**
+#### Assume Leadership in Combat: Presence + Leadership + stress die vs. Ease Factor 9
 
 If more than one character succeeds at this roll in the same round, the one with the highest total becomes the leader.
 
@@ -6435,7 +6435,7 @@ Check for weapon breakage whenever the attacker's melee Attack Total exactly equ
 
 To determine whose weapon might break, roll Strengh + Weapon Ability + a simple die for each character. Whoever rolls lower must then roll to see if his weapon breaks. If the defender must roll for breakage, he may choose to roll for either his weapon or his shield. This roll for weapon breakage is similar to a stress check for equipment (see *City & Guild*, page 77), but the Ease Factor is lower because weapons are generally designed to withstand combat use.
 
-#### **Weapon Breakage: stress die + Weapon Ability vs. Ease Factor 9**
+#### Weapon Breakage: stress die + Weapon Ability vs. Ease Factor 9
 
 If the check fails, the item loses a damage level. Most weapons and shields have two damage levels. They break when the last damage level is lost (but function normally until then). Some weapons, notably spears and lances, are particularly fragile, and have only one damage level.
 
@@ -6498,12 +6498,12 @@ The **Ars Magica Fifth Edition** rulebook provides the statistics for several ge
 
 The following categories expand and supersede those described on page 176 of ArM5. Note that the statistics for these armor materials are fully compatible with those in ArM5. These new categories simply cover a broader variety of historical armor materials.
 
-#### **Inexpensive Materials**
+#### Inexpensive Materials
 
 - Padded armor is usually made of woolen or linen fabric quilted into dense layers. Other forms include heavy felt, suede, or leather stuffed with horsehair, and thick furs such as bearskin. •
 - Boiled leather is very tough, but stiff. Also use these statistics for similar, semiresilient materials like rawhide, or even faerie armor made of tree bark. •
 
-#### **Standard Materials**
+#### Standard Materials
 
 Reinforced armor is leather or padded material strengthened by many small, hard plates or rings. These reinforcements are usually metal, but horn, bone, •
 
@@ -6538,7 +6538,7 @@ and whalebone are sometimes used.
 - Rigid scale includes any sort of non-metallic scale or lamellar armor. Armor of boiled-leather scales is worn throughout Mythic Europe; horn and whalebone are sometimes used as well. •
 - Metal scale includes all kinds of metal lamellar. Brigandine is essentially a lateperiod type of metal scale. •
 
-#### **Expensive Materials**
+#### Expensive Materials
 
 Mail is the term characters in Mythic Europe would use for chain mail. Mail shirts and hauberks are available in the •
 
@@ -6549,7 +6549,7 @@ Mail is the term characters in Mythic Europe would use for chain mail. Mail shir
 
 Add together the Protection and Load of the body armor, helmet, and any surcoat worn. Retain fractions until the end of the calculation and then round up to the next whole number.
 
-#### **Body Armors**
+#### Body Armors
 
 |                |      | Cuirass/Jerkin<br>Haubergeon |      |      | Hauberk | Full* |      |      |
 |----------------|------|------------------------------|------|------|---------|-------|------|------|
@@ -6565,7 +6565,7 @@ Add together the Protection and Load of the body armor, helmet, and any surcoat 
 
 <sup>\*</sup> Greaves are already included in the full armor listed; don't add them again.
 
-#### **Surcoats and Greaves**
+#### Surcoats and Greaves
 
 | Surcoat and Greaves     | Prot | Load | Cost        |
 |-------------------------|------|------|-------------|
@@ -6577,7 +6577,7 @@ Add together the Protection and Load of the body armor, helmet, and any surcoat 
 
 <sup>\*</sup> Greaves and jambes are already included in the full armor listed; don't add them again.
 
-#### **Helmets**
+#### Helmets
 
 | Helmet       | Prot | Load | Perception Penalty | Cost                           |
 |--------------|------|------|--------------------|--------------------------------|

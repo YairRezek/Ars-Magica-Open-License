@@ -18,7 +18,7 @@ First Round Playtesters: Jason Fryer, Matt Dyson, Emily Dyson, Donna Giltrap, Ma
 
 Second Round Playtesters: Mark Barltrop, Mark Lawford, David Staveley, Simon Turner; Chris Jensen Romer, David Curtin, Kevin Sides, Lloyd Graney, Pete Hiley, Ben Hayes, Luke Price; Donna Giltrap, Malcolm Harbrow, Aaron Hicks, Richard Love; Angus MacDonald, Sarah MacDonald, Brian Watson, Quetta Watson, Wendell "BSP" Joyner, Dan Shul; Matt Ryan, Alexis Kristan Heinz, Daniel Ilut, Robert W.B. Llwyd; Mark Shirley, Camo Coffey, Andrew Walton; Neil Taylor, Sheila Thomas
 
-### **AUTHOR BIOS**
+### AUTHOR BIOS
 
 Erik Dahl still lives in Davis, California with his clever wife who, despite clearly having The Gift (Gentle, no doubt), nonetheless inexplicably has never learned the Art of Magic. He would like to dedicate his work on this book to five kind and generous hosts who recently opened their doors to him: Lisa and Christopher Jensen-Romer, Neil and Angela Taylor, and Kevin Sides; to three traveling companions whose presence made his trip three times better: Matt Ryan, Mark Shirley, and Sheila Thomas; and to all of the delightful folk who attended Grand Tribunal 2007 with him on a magical autumn weekend in Cheltenham. Salvete, sodales!
 
@@ -366,7 +366,7 @@ From a pragmatic perspective, what is important in determining the reaction of t
 
 Magi can determine whether a character has the Gift by using an Intellego Vim spell (see insert, for example). In addition, a hedge wizard with hedge Arts scores can be detected with Hermetic Intellego Vim effects as a target with an effective residual magnitude of his highest Art / 5 (see ArM5. page 158). A Gifted hedge wizard with Supernatural Ability Scores can also be detected with similar Hermetic Intellego Vim effects as a target with an effective residual magnitude equal to his highest Supernatural Ability Score. Of course, other Vim effects (or similar hedge Arts) might disguise The Gift or falsely create the impression that a character has The Gift.
 
-### **CERTAMEN**
+### CERTAMEN
 
 No hedge wizard knows how to engage in certamen; certamen is unique to the Order of Hermes. A hedge wizard can only learn certamen if his Hermetic Arts are Opened. If a hedge wizard without Hermetic Arts does accept a certamen challenge, he cannot cause his phantasm to manifest; so, he cannot participate. From a legal standpoint, this is equivalent to a victory to the Hermetic magus due to a lack of concentration in the opponent.
 
@@ -411,7 +411,7 @@ These are common rules for hedge magic, although some of the hedge traditions de
 
 Some hedge traditions are practiced exclusively by Gifted characters, while others include unGifted members. Traditions dominated by Gifted characters are probably geographically isolated (or peripheral to Mythic Europe), small, new, or somehow hidden from the Order of Hermes; otherwise they would have surely been assimilated or eliminated centuries ago. On the other hand, traditions dominated by unGifted characters may be quite widespread, because, as mentioned above, only those hedge wizards with The Gift are usually considered proper wizards by the Order.
 
-### **OPENING THE GIFT**
+### OPENING THE GIFT
 
 A Gifted hedge wizard has to undergo a ritual, similar to the Hermetic Opening of the Arts, before he can fully utilize the powers of his hedge tradition. The particulars of the ritual are unique to the hedge tradition, but the following general rules apply. In these rules, the hedge wizard whose Gift is being Opened is referred to as the apprentice, and the hedge wizard who is Opening the apprentice's Gift is referred to as the master. Obviously, particular hedge traditions may use different titles for these roles.
 
@@ -703,17 +703,17 @@ teaching, usually through initiations or a type of Opening the Gift if the chara
 
 When you're developing your character you should decide how he developed the powers necessary for his tradition. Was he born with power or did he learn? If he learned powers via initiations, he may have Flaws that were inflicted as ordeals. If he was born with power, how did his tradition find him? If he learned, why did his master teacher him? Of course, an individual character may have some inherited powers and some learned powers, and the chapters of this book offer some suggestions (and restrictions) as to how and why characters might become members of each hedge tradition.
 
-### **DURING CHARACTER GENERATION**
+### DURING CHARACTER GENERATION
 
 If your character is a Gifted companion, once his Gift has been Opened he will have access to some (or all) of the tradition's powers, and you may spend experience points on the Arts or Ability scores associated with these during character generation. The individual chapter descriptions specify for each tradition what Arts or Abilities Gifted characters may access, and from what age and under what conditions this access begins.
 
 If your character is an unGifted hedge wizard, you may only spend experience points on those Supernatural Abilities and/ or hedge Arts for which he has the corresponding Virtues, some may be inherited, and others may be taught to him during the years covered by character generation. For example, if your character is an unGifted folk witch, you may only purchase a score in the Flight Supernatural Ability if she has the Minor Supernatural Virtue Flight.
 
-### **DURING PLAY**
+### DURING PLAY
 
 During play, a hedge wizard character may learn Abilities and Arts in the normal ways (unless his tradition places additional social restrictions on how its supernatural powers may be learned and improved). Normally this means that your character may improve his existing Supernatural Abilities and Arts, but may not learn new ones unless he somehow acquires Virtues that enable him to do so (typically via some kind of initiation; see below). Gifted companion characters usually still have the same broad access that they did during character generation, although existing scores in Arts and Abilities may make things difficult for them.
 
-### **I**NITIATIONS
+### INITIATIONS
 
 Some hedge traditions teach a few of their powers through Initiation rites. These are similar to the Initiation rites of Hermetic Mystery Cults, full rules for these are printed in Houses of Hermes: Mystery Cults and The Mysteries Revised Edition.
 
@@ -865,7 +865,7 @@ The possible effects of such activity by hedge researchers are too numerous to l
 
 # Chapter Two
 
-# **Clementalists**
+# Clementalists
 
 The scholars who study the world of Mythic Europe discovered long ago that everything in the physical universe is made up of four distinct building blocks of creation, called elements. These elements combine to varying degrees to form the matter and energy that make up physical reality, and are typically characterized as air, fire, earth, and water. A stone is primarily made up of earth, a flame is mostly fire, and a human being is made up of more or less equal parts of all four elements combined together. Many supernatural beings are also strongly associated with one of the four elements.
 
@@ -1128,7 +1128,7 @@ The effects of these Traits on the character's personality never cancel each oth
 
 any of these Traits gain a score of +10 or more, the player no longer has control over the character's actions in any circumstances to which the storyguide decides that the Trait applies — the character has essentially gone mad. Like an elemental set loose without constraints, the character will likely bring about his own end eventually, and probably cause a great deal of destruction in the process.
 
-# **Clementalist** Porms
+# Clementalist Porms
 
 Each of the Forms can potentially affect elementals and other supernatural beings associated with the four elements, the four humors of the body, and animals or other natural phenomena, depending upon the type of Elementalist Techniques with which they are combined. More information about elementals can be found in Realms of Power: Magic, pages 132-139, and the study of medicine and philosophiae is covered in more detail in Art & Academe.
 
@@ -1302,7 +1302,7 @@ An elemental philosopher can affect the motion of natural materials with the app
 
 The elemental philosopher can also give commands to animals of a temperament appropriate to the element used, just like an elemental theurgist does with elemental beings, as long as his Controlling Total exceeds both the Size and Might of the animal on the Summoning chart. (See Elementalist Forms, earlier in this chapter, for some examples of animal temperaments for each element.)
 
-### **THEURGICAL**
+### THEURGICAL
 
 The elemental theurgist can affect supernatural creatures with Might of the Form appropriate to the element used, assuming he can equal or exceed the being's Might on his Controlling roll. If he succeeds, the target must carry out a single command to the best of its ability. This can also be used to banish an elemental permanently. If it is held within a container, the elemental may leave while it is about this task, but must immediately return once the command has been fulfilled. According to legend, the earliest elemental theurgists
 
@@ -1342,7 +1342,7 @@ The elementalist can sense natural materials associated with a Form, even recogn
 
 surrounding area, or understand the thoughts and memories of an animal with a melancholic temperament by touching it.
 
-### **THEURGICAL**
+### THEURGICAL
 
 The elementalist can sense beings with Might associated with the appropriate element in the general region. He can tell the approximate distance and direction to the target, and he can mentally communicate with it by touching it or the container in which it is held. If the being is intelligent, the two of them can converse for as long as the elementalist maintains concentration. If it is not intelligent, the elementalist can perceive past events as the being saw them, or as experienced by the raw materials that the creature animates.
 
@@ -1560,7 +1560,7 @@ Book Four, Theological Sciences, contains 11 tractatus on Theology (Islam) with 
 
 "The Comprehensive Epistle" is a summa on Philosophiae (metaphysics) Level 4, Quality 9, and if read in conjunction with one of the other four books, it serves as a summa for Philosophical Refining of Level 2, Quality 8. The character must have access to both texts during the season of study, and "The Comprehensive Epistle" provides no additional benefit if read in conjunction with additional books beyond the first.
 
-### **C**HARACTERS
+### CHARACTERS
 
 Some unGifted Brethren are born with the Virtue Elemental Philosophiae, but these characters are rare. The average Gifted member has no knowledge of the Brethren or their magic before reading the Epistles. For each year the Brethren are engaged in studies, they receive 30 experience points to spend on Arcane and Academic Abilities. All Brethren have some knowledge of Organization Lore: Brethren of Purity. Junior Brethren concentrate their studies on Academic Abilities, especially Artes Liberales, Philosophiae, and Theology. The eclectic nature of the Brethren's teachings means that members may study Theology of all religions. Members of the Brethren also study Arcane Abilities, especially (Realm) Lore, but these topics are never publicly discussed, and they carefully hide any books on these subjects. Brethren also encourage their members to study other languages, especially Hebrew, Persian, Greek, and Latin.
 
@@ -1627,7 +1627,7 @@ a,
 The Supplicant must travel to the tomb of Ibn Sina in the Persian city of Hamadan, where he spends a season fasting during daylight hours, meditating, and praying. The character must abstain from sinning for an entire season. At the end of the season, the player makes a Stamina roll against an Ease Factor of 9. The Ease Factor is modified by any Personality Traits that would encourage or discourage righteous behavior. If the roll is not successful, the character may remain for an additional season. Once the character spends a season behaving righteously, he returns to the sponsor for a season of instruction. At the end of that season, the character acquires a score of 1 in Premonitions and the Flaw Visions. This Script always fails if the Supplicant does not have the requisite scores of 5 or more in Medicine, Artes Liberales, Arabic, Philosophiae, and Theology (Islam).
 
 
-# **Uritings of Ibn Sina**
+# Uritings of Ibn Sina
 
 Ibn Sina was a prolific author and encouraged his students to follow his example of synthesizing previous works and adding his own knowledge to the subjects of Medicine, Artes Liberales, Philosophiae, and Theology (Islam). Ibn Sina's most famous work, Al-Qanun fil-Tibb, is a survey of the entire body of medical learning from the writing of the Ancients to contemporary Muslim sources. Most Western scholars regard the five books of the Canon of Medicine, as it is known in the West, as the authority on the subject.
 
@@ -1637,7 +1637,7 @@ Ibn Sina also wrote the *Kitab ash-Shifa* (Book of Healing), which is not as wel
 
 Kitab ash-Shifa, Summa Level 4, Quality 9, Artes Liberales and Summa Level 5, Quality 9, for each of the four Elementalist Arts (Elementalist Air, Elementalist Earth, Elementalist Fire, and Elementalist Water). The sections on Elemental Abilities are incomprehensible to anyone who does not possess the Virtues Medicinal Divining, Medicinal Summoning, or Elemental Medicine.
 
-### **C**HARACTERS
+### CHARACTERS
 
 The vast majority of Tulab Ibn Sina members are not born with the appropriate Virtues, but acquire Elemental Medicine, Summoning, Divining, and one of the four Elemental Arts when the Tulab Ibn Sina determine they are worthy of Initiation. The training period for Tulab Ibn Sina is relatively short but intense. In a five-year period, the student gains 150 experience points to spend on Academic and Arcane Abilities. Tulab Ibn Sina focus on the following Abilities: Artes Liberales, Organization Lore: Students of Avicenna, Medicine, Philosophiae, Theology (Islam), and Chirurgy. All members of the tradition are skilled in Arabic and Medicine, and a student with a score lower than 4 in either is rare.
 
@@ -1966,7 +1966,7 @@ Ease Factor: 18
 
 Curse of Reduction: The curse reduces the character in Size. Every month the character loses a Size level. This continues until either the curse object is destroyed, the Arcane Connection expires, or another magical effect returns the character to his original Size. When the effect ends, the character returns to his original Size at the rate of 1 Size level every hour. If the character reaches a Size of –18 he does not reduce further in Size, but he does not return to his original Size until the effect ends.
 
-### **Dowsing**
+### Dowsing
 
 Characteristic: Perception
 
@@ -1976,7 +1976,7 @@ Method: Fetish or Potion.
 
 See ArM5, page 64. This ability is important for folk witches as it allows them to find vis.
 
-### **FLIGHT**
+### FLIGHT
 
 Characteristic: Stamina Form: Auram
 
@@ -2253,7 +2253,7 @@ cal effect," but an additional magnitude of effect will identify the potion as b
 
 her Healing Ability Lab Total for this activity, which means that a folk witch's Longevity Ritual is likely to be considerably less potent than a magus'. Also remember that a folk witch can only generate a Lab Text if she is literate, so she may not be able to easily repeat the ritual when it fails. A folk witch cannot create a Longevity Ritual for another character.
 
-# **Pamiliars**
+# Pamiliars
 
 A folk witch can bind an animal to herself as a familiar. This is a laboratory activity and takes one season. In order to bind an animal, her Animal Ken Lab Total must exceed the Binding Total:
 
@@ -2287,7 +2287,7 @@ The folk witch can use her Animal Ken Ability to enter a trance-like state that 
 
 Folk witches do not know how to form the bonds that a hermetic magus does to his familiar, nor can they invest additional powers in the familiar bond.
 
-# **Carping**
+# Carping
 
 A folk witch gains Warping points via the usual methods, including exposure to strong (non-Magical) auras and powerful or constant mystical effects. She also gains Warping points when she botches using her Supernatural Abilities. Whenever she gains enough Warping points to increase her Warping Score by 1, she experiences a painful and disturbing event known as the Witch Moon. This occurs immediately *after* her Warping Score increases, so at her first Witch Moon the folk witch will have just acquired a Warping Score of 1 (unless she somehow acquires a large number of Warping points that increase her Warping Score to a higher level).
 
@@ -2319,7 +2319,7 @@ New Mystical Virtue: The folk witch gains a Minor Virtue.
 
 New Ability: The folk witch gains a new Supernatural Ability, with an Ability score of 1.
 
-### **BAD EXPERIENCES**
+### BAD EXPERIENCES
 
 Lost Knowledge: She loses 2 experience points in a Supernatural Ability or in Folk Witch Magic Theory for every Warping Point gained during the Witch Moon. This cannot reduce the score below 0.
 
@@ -2333,7 +2333,7 @@ A coven is also the equivalent of a Hermetic covenant, although the folk witches
 
 Many folk witches are unGifted, and although such witches are usually less powerful than their Gifted sisters, they're able to more easily interact with each other and the mundane world. A coven might have several unGifted members living in villages, bartering their supernatural prowess for food and wood, who support a Gifted sister living in a remote cave.
 
-# **Coven Initiations**
+# Coven Initiations
 
 Folk witches use these initiations:
 
@@ -2591,7 +2591,7 @@ Appearance: Matilda is an attractive wom-
 
 an who lives at the vineyard where her extended family works. Due to her Gift, she is somewhat shunned by the other peasants (although they are not unpleasant to her), and she sleeps in a loft above the dog kennels with her husband and baby son. Her husband is a laborer at the vineyard and he spends as little time as possible with Matilda, whom he fears. The loft is actually quite spacious, and Matilda has built her kitchen in it. Matilda earns her keep by helping to look after the dogs, and she also helps to sort grapes during the harvest. Most of the peasants who work the surrounding lands know that she is a healer, and even the reeve sometimes turns to her for assistance. The monks who own the vineyard seldom visit, although they do live nearby, and do not know of Matilda's powers. With her Shapeshifter Ability she can turn into a dog.
 
-# **Cliza**
+# Cliza
 
 Characteristics: Int +1, Per +2 (1), Pre +2 (1), Com -1, Str +1, Sta -1, Dex 0, Qik -2 (1)
 
@@ -3167,7 +3167,7 @@ If, in a single battle, a character suffers Warping Points that exceed the chara
 
 External Soul also confers the benefit of Unaging on the character. A character with the External Soul Virtue suffers Warping of 1 point per year because of the continuing mystical effect; see ArM5, page 168. The process of extracting a character's soul is irreversible.
 
-#### **G**IVE
+#### GIVE
 
 Major, Supernatural
 
@@ -3199,7 +3199,7 @@ Minor, Supernatural
 
 This Virtue gives the character the Form of Curse. The Form advances as an Art. It is described more fully later in this chapter and is useless unless the character also possesses a Technique from this chapter.
 
-### **F**ETCH
+### FETCH
 
 Minor, Supernatural
 
@@ -3314,13 +3314,13 @@ TAKE
 
 This Technique allows a gruagach to remove something from a target. A Take spell might eliminate an aspect of a target or merely acquire a component of it. This Art covers nearly every Hermetic Technique. It can allow a person to recover from hostile magic, and it can acquire information about a target. Take spells can also remove a character's Virtues and reduce his Abilities.
 
-### **FORMS**
+### FORMS
 
 BLESSING
 
 This Form grants the gruagach the ability to confer Virtues, grant bonuses to Abilities, and improve the Characteristics of other characters. In all instances, the gruagach must balance the benefit with a specific prohibition on the target's actions, which if violated causes the benefit to disappear. The more powerful the benefit granted, the more difficult the spell. Take Blessing spells allow the character to nullify certain Virtues or Abilities a character possesses. This Form cannot affect some Virtues — Social Statuses and Divine, Infernal, Hermetic, and Faerie Virtues, for example. Virtues that affect the accumulation of experience points, give access to specific Abilities, or grant physical objects may not be affected.
 
-#### **Curse**
+#### Curse
 
 This Form allows the gruagach to inflict Flaws on a target or to reduce his Characteristics and Abilities. All Give Curse spells must contain a condition that, if the target fulfills it, removes the curse. Take Curse spells allow the caster to remove her own curses or the lingering effects of magic, hexes, or other spells cast upon an individual.
 
@@ -3399,7 +3399,7 @@ Gruagach Technique + Gruagach Form + Intelligence + Pictish Language + Aura Modi
 
 Gruagachan can learn spells from teachers and invent them exactly as their Hermetic counterparts do (see ArM5, page 95).
 
-### **ENCHANTING TATTOOS**
+### ENCHANTING TATTOOS
 
 Gruagachan may enchant tattoos that impart magical effects on their bearer. The gruagach uses the same rules as those for Hermetic magi to create a Lesser Enchantment. See ArM5, page 96. The gruagach substitutes his Pictish Language score for Magic Theory in determining her Lab Total. A gruagach may not create invested devices or charged items.
 
@@ -3599,7 +3599,7 @@ Accelerated Expiry: Defense against Mentem effects.
 
 Confounding Magics: Defense against Corpus or Mentem effects.
 
-#### **Curse**
+#### Curse
 
 Immovable Object: Defense against Mentem or Corpus effects.
 
@@ -4203,7 +4203,7 @@ Troll Virtue: The gruagach acquires a Virtue that would be appropriate for a tro
 
 Increased Knowledge: The gruagach acquires Experience Points in a pre-existing Art equivalent to the character's Warping Score + simple die.
 
-### **BAD EXPERIENCES**
+### BAD EXPERIENCES
 
 Gruagach Magic Flaw: The gruagach acquires the gruagach equivalent of Blatant Cift, Deficient Technique, Necessary Condition, Painful Magic, Restriction, Rigid Magic, Careless Sorcerer, Deficient Form, Deleterious Circumstances, Disorientating Magic, Incompatible Arts, Warped Magic, Weak Magic, or Weird Magic.
 
@@ -4459,7 +4459,7 @@ Although the blood of the giants powers the magic of the trollsynir, overuse of 
 
 The Initiation Scripts for the trollsynir are similar to those of the gruagachan, except they are less concerned with having justice done and focus more on performing heroic deeds, such as defeating creatures of power. In addition, trollsynir refer to their fetches as "fylgjur" (singular: fylgja).
 
-### **CHARACTERS**
+### CHARACTERS
 
 There is no formal apprenticeship for trollsynir. Because trollsynir usually maintain close ties with their families, they continue learning from each other throughout their lives. There is no stigma attached to an adult trollson learning from another.
 
@@ -4536,7 +4536,7 @@ Gruagachan have very flexible Formulaic magic. The same difficulties described b
 
 Suggested Breakthrough Points: 30
 
-### **INTEGRATION EFFECTS**
+### INTEGRATION EFFECTS
 
 A Hermetic magus who successfully Integrates this aspect of gruagach magic could create a new Spell Mastery Ability of Flexible Formulaic Magic, which allows any magus to gain the benefits of the Virtue Flexible Formulaic Mastery. A magus with Spell Mastery in Flexible Formulaic Magic is able to vary one parameter of a Formulaic spell (Range, Duration, or Target) as long as the final level of the spell is within a number of levels equal to the magus' Mastery Score.
 
@@ -4787,7 +4787,7 @@ Major, Supernatural
 
 This Virtue gives the character the Technique of Succurro. It is a Difficult Art that advances as an Ability. It is described more fully later and is useless unless the character also possesses one of the Forms in this chapter.
 
-#### **TUEOR**
+#### TUEOR
 
 Major, Supernatural
 
@@ -4805,7 +4805,7 @@ Minor, Supernatural
 
 The player must choose one realm when this Virtue is selected for the character. The character gains the ability to call upon the powers of that realm to minimize or overcome the negative effects associated with using his Magic-aligned abilities in hostile auras (Divine or Infernal). The mechanics for using this Virtue are described fully later, under Magic of the Learned Magicians: Mitigation of Realm Interaction Effects.
 
-### **FORTUNAM**
+### FORTUNAM
 
 Minor, Supernatural
 
@@ -4930,7 +4930,7 @@ Charm magic violates the Hermetic limit of Arcane Connection. Fortunam charms es
 
 The learned magicians possess three Techniques and three Forms, as described below. Every charm or amulet requires the learned magician to have knowledge of at least one of each. The character must possess knowledge of the applicable Technique and Form, which is represented by a score of at least 0 in the applicable Art. An unGifted character who does not possess a Virtue for a particular Art may not utilize the guidelines listed here regardless of his knowledge of other Techniques or Forms.
 
-### **TECHNIQUES**
+### TECHNIQUES
 
 Tueor (Tu) "I Guard/Protect"
 Pronounced: "too-AY-or"
@@ -4957,7 +4957,7 @@ always harmful to the target. Vulnero charms closely resemble Perdo magic. Both 
 
 All verbal magics that learned magicians perform are referred to as charms, but when the charms are malicious in nature and harm the target , as the Vulnero Technique does, they are often referred to as curses.
 
-### **FORMS**
+### FORMS
 
 FORTUNAM (FA) "LUCK"
 Pronounced: "for-TOON-nam"
@@ -5087,7 +5087,7 @@ the charm must be placed somewhere near the main entrance to the relevant locati
 
 Magicians may create an amulet or charta with a Duration of Season. The effect of the device lasts until the next solstice or equinox. To determine the level of effect of the amulet or charta, the Season Duration adds +3 magnitudes to the level of the effect.
 
-### **AMULET AND CHARTA EFFECTS**
+### AMULET AND CHARTA EFFECTS
 
 The bearer of an amulet or charta has no control over when a charge is expended. As soon as an amulet is donned or affixed to an appropriate location, one charge is expended and the effect lasts according to the Duration set by the creator. When that Duration is complete, the next charge is expended. If an amulet is not in physical contact with an appropriate target, no charge is expended. In contrast, a charta's charge is expended as soon as it is created, even if the charta is not in the possession of its ultimate recipient. Chartae are only useful if the recipient receives them at the moment of completion.
 
@@ -5218,7 +5218,7 @@ Art: Salutem
 
 The following are the spell guidelines and sample spells for learned magicians.
 
-## **Fortunam**
+## Fortunam
 
 Fortunam charms affect a character's luck. Tueor Fortunam charms protect the character from bad luck, and Succurro Fortunam charms give the character good luck. Vulnero Fortunam charms — or curses — eliminate any good luck the character may have and cause him to become unlucky. Because luck can encompass not just what a character does, but what is done to or near a character, Fortunam charms have special considerations regarding Magic Resistance.
 
@@ -5717,7 +5717,7 @@ Level 20: Destroy one of a person's major senses. It heals as a Heavy Wound.
 
 Level 20: Inflict a major disease.
 
-### **VULNERO SALUTEM**
+### VULNERO SALUTEM
 
 Curse of Coughing Fits VuSa Level 10
 
@@ -5769,7 +5769,7 @@ Banditry in the forests near the characters' covenant is on the rise. The ill-or
 
 The learned magicians are exposed to several hazards through the use of their magic. Magicians call upon the powers of the realms in which they cast their charms, and sometimes those powers take exception to the entreaties. When this occurs, a learned magician can temporarily lose his ability to cast charms, and sometimes those powers abduct the learned magician, forcing him to spend a period of time in their realm.
 
-### **BOTCHES**
+### BOTCHES
 
 Botches by magicians cause similar problems as they do for Hermetic magi, and the general guidelines one would use for Hermetic spells are applicable here. Botches involving Fortunam charms often cause the intended target the opposite luck the learned magician intended or inflict bad luck on the caster. Salutem charms can cause the caster to suffer from disease, injury, or other forms of ill health, and might cause the opposite of the intended effect. Magicam charms that result in a botch usually weaken or shorten the duration of a caster's charms for a period commensurate with the severity of the botch, but they may also remove a Supernatural Virtue from or inflict a Supernatural Flaw on the intended target for a limited period.
 
@@ -5799,7 +5799,7 @@ Punishments include acquiring the Susceptibility to (Realm) Power, Warped Magic,
 
 The Susceptibility to (Realm) Power is always tied to the realm in which the learned magician suffered his botch. If the botch occurred in a Magic realm, however, the learned magician suffers from Warped Magic or Weird Magic. The Deleterious Circumstances Flaw always limits the character's ability to casts charms in the realm in which the botch occurred, and the entity of Plagued by Supernatural Entity is likewise tied to the realm in which the botch occurred. If the learned magician undergoes multiple interventions in different realms, he can acquire additional Flaws specific to those other realms, also. In theory, the learned magician could develop Flaws or Virtues for all four realms.
 
-### **ABDUCTION**
+### ABDUCTION
 
 Once the learned magician's Warping Score reaches 7, the entity takes more-direct action. This action continues over a number of seasons equal to the result of a stress die. Faerie and Infernal entities take the character to a regio associated with their realm, and prevent him from leaving for the duration. This is not normally a pleasant experience,
 
@@ -5811,7 +5811,7 @@ Although the magicians who comprise the Mathematici are tied to the University o
 
 Learned magicians are not likely to pose a significant challenge to Hermetic magi alone. However, the Mathematici do not tend to act alone. They often use their services to curry favor with powerful nobles, and, because of their position as teachers or classmates to many members of the educated classes, they often have extensive contacts within mundane circles of power.
 
-# **Mistory of the Mathematici**
+# Mistory of the Mathematici
 
 Most within the Order of Hermes believe that the magic practiced by the learned magicians is descended from the cartouche
 
@@ -6249,7 +6249,7 @@ Sleepwalkers, like magicians with a *bamr*, require props and are likely to arri
 
 The following Virtues are not required of nightwalkers, but individual nightwalkers often have them.
 
-### **G**HOST
+### GHOST
 
 Nightwalkers whose bodies die while their phantasticum is absent are usually forced to wander the world as ghosts until their destined hour of death. In at least one tradition of nightwalker, every member becomes one of the unquiet dead unless preventative measures are taken with their corpses. These spirits become very similar to the dead that the nightwalkers battle, and retain many of their abilities from life, including the ability to take corporeal form. Further material concerning ghostly player characters is included in *Realms of Power: Magic*.
 
@@ -6301,7 +6301,7 @@ cludes those abilities found in all groups who
 
 The magical power that defines these hedge traditions, called ekstasis or "straying," allows a magician to send forth his spirit while unconscious. Straying is more common in people who are loosely linked to human society: outcasts, children, the mentally ill, the incorrectly baptized, and the painfully shy. It is a power that arises without training, and has no corresponding Ability, because characters do not become better at straying over time through practice.
 
-# **Ekstasis**
+# Ekstasis
 
 The range of actions that characters can perform while their spirits stray varies
 
@@ -6413,7 +6413,7 @@ The body of the hedge magician reflects
 
 the damage suffered by the animal phantasticum, as well. If the phantasticum is more durable than a human is, the damage reflected to the body is never fatal until it is fatal for the phantasticum. Similarly, if the phantasticum is far weaker than a human is, death of the phantasticum kills the body, and small injuries magnify until they are equivalently injurious. A cat phantasticum that suffers a Heavy Wound of a three-inch-long cut along its belly, may be reflected by a human Heavy Wound of a cut from the hips to the throat on the body.
 
-### **DROWSINESS**
+### DROWSINESS
 
 The presence of a hostile phantasticum, either material or immaterial, causes drowsiness. A character without Magic Resistance, who is not in spirit form, wishing to stay awake when facing a phantasticum must make a Concentration + Stamina roll against an Ease Factor of 3. If the character is already asleep, the effect makes it almost impossible to awaken him. Certain murderous nightwalkers enter the house of an enemy immaterially at night, use their drowsiness to keep their enemy asleep, and strangle them.
 
@@ -6599,7 +6599,7 @@ Players are encouraged to use the groups below as material for designing novel t
 
 The benandanti ("good walkers") are found in Northern Italy, and serve as a model for similar groups throughout Europe. In many militias, battles are fought by men and processions are completed by women, but benandanti of either sex may participate in either activity.
 
-## **Fennel**
+## Fennel
 
 Fennel is a potently magical herb. It can be used as an insect repellent, and it repels the tiny demons responsible for disease. Some people place fennel over their doors and windows, or in their keyholes, to keep witches out of their houses. This is particularly common on Midsummer Night.
 
@@ -6614,7 +6614,7 @@ Some recruits depart immediately for their first battle or procession, drawn alo
 
 By following the recruiter to battle, the new nightwalker is promising to do battle for a period of time. Sometimes this is as little as seven years, but many continue to battle for the good of their village their entire lives.
 
-### **BATTLES**
+### BATTLES
 
 The benandanti are called to battle on the Thursdays of the Ember Days — four seasonal fasts observed by the western Church. The battles are always on Thursdays. They occur in the first week of March; following Pentecost; following the Feast of the Exultation of the Cross (September 14); and following the Feast of Saint Lucia (December 13, the winter solstice).
 
@@ -6964,7 +6964,7 @@ Vitkir characters may take as many as ten Flaws to balance ten Virtues, and ther
 
 The vitkir have these new or revised virtues available to them:
 
-#### **DEFT RUNE**
+#### DEFT RUNE
 
 Minor, Supernatural
 
@@ -7504,7 +7504,7 @@ Accepting a gift places the recipient under certain obligations in Norse society
 
 Gebo is not associated with any particular Form, but with any physical object given as a gift. It can also be used to target someone in the vitkir's debt, through that sense of obligation created by the vitkir's generosity. In this case, it might be considered a Mentem effect.
 
-# **Fehu Guidelines**
+# Fehu Guidelines
 
 General: The target receives a bonus or penalty equal to the magnitude of this effect to Ability rolls that support the target gaining wealth: working, gambling, investing, or treasure-hunting.
 

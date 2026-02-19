@@ -20,7 +20,7 @@
 
 **Second Round Playtesters:** Pelle Kofod, Christian Rosenkjaer Andersen, Rasmus Strandgaard Soerensen; Eirik Bull, Helge Rager Furuseth, Karl Trygve Kalleberg; Donna Giltrap, Malcolm Harbrow, Aaron Hicks; Nick Brown, Bob Harrison, Guillaume Lacalmontie, Dwight Marsh, Patrick M. Murphy, Valerie Nix; Alexis Kristan Heinz, Daniel Ilut, Robert W.B. Llwyd, Matt Ryan, Roland Ryan
 
-#### **Author Biographies**
+#### Author Biographies
 
 **Timothy Ferguson** is a librarian from the Gold Coast in Australia, who dedicates his writing to his wife Linda. He'd like to mention *Final Boss*, by MC Frontalot, as being important in the writing of "The Queen of Gold and Glass."
 
@@ -539,11 +539,11 @@ However, as enlightened as the council sounds, its prime communal concern is ext
 
 There are more potential hedge wizard characters than can be accommodated in this chapter, but some sample ideas along with some specific goals are presented here. Each of these hedge wizards, and each of those not listed that you might introduce, brings their own resources and creates yet more at Geoffroi's request. You can assume one average-quality tractatus on Magic, Faerie, or Infernal Lore for each practitioner at court. You can also assume that astrological inceptions and philosophical formulae will be developed at a rate of one or two each year. Some hedge wizards have the power to enrich objects of virtue, and you can assume a new enriched object once per year. Other enchantments may take longer, so assume 10 levels of enchantments per year. Specific examples are provided at the end of this chapter.
 
-#### **Learned Magician**
+#### Learned Magician
 
 Ádhamh Brathair (EWE BRO-hur) is a learned magician from Hibernia with the lofty aim of developing a unified theory of magic built on sound philosophical principles. He applies himself to researching the magic of his fellow wizards and to the breakthroughs needed for his new grand theory.
 
-#### **Goetic Sorcerer**
+#### Goetic Sorcerer
 
 Desperate to escape a dark fate, Dominici Viterbo tries to hide himself within the council. But he cannot outrun the de-
 
@@ -598,23 +598,23 @@ mons of his past and they soon find him. In teaching others, perhaps he can make
 
 Hannelore, a student of the Maleficia, brings her own infernal magic to the council seeking protection from Hermetic enemies that she made in the past. Wanting a direct route to influence, she looks to supplant Ysabeau in Geoffroi's affections.
 
-#### **Itinerant Sahir**
+#### Itinerant Sahir
 
 Jabir Al-Qazwini is an Arabic magus who has traveled from afar in search of the "council of the wise" promised to him by a powerful spirit of the sands. Believing he has found it, he stays to learn but seems oblivious to Geoffroi's decline and the growing power of the council.
 
-#### **Disguised Faerie**
+#### Disguised Faerie
 
 A faerie in the guise of a wise woman, taking the name Dorothy Anning, using pretenses and powers in place of magical ability, infiltrates the council to learn how the world of men uses its power for the betterment of others.
 
-#### **Failed Apprentice**
+#### Failed Apprentice
 
 Denied his rightful place within the Order, Carles Peregrinus, a failed Hermetic apprentice, finds new friends in Geoffroi's growing council, a council he intends to dominate with his strong *Entrancement* power.
 
-#### **The Elementalist**
+#### The Elementalist
 
 Edwin Locke views meeting practitioners of other traditions with academic interest. He is the most likely candidate to approach other wizards and attract them to Geoffroi's court.
 
-#### **Additional Concepts**
+#### Additional Concepts
 
 Others touched by magic, but less powerful than those above and unlikely to have a place within the council, may include:
 
@@ -716,7 +716,7 @@ Storyguides should not feel obliged to run all of the stories suggested in this 
 
 The following events represent Geoffroi's growing interest in and connection with the supernatural.
 
-#### **The Library**
+#### The Library
 
 The first stage in Geoffroi's growing interest is to accumulate books discussing, and artifacts from, the four realms. He approaches the covenant in order to buy books or copies of books to stock a growing library. In particular, he is intent on acquiring books of spells, believing that all he need do to cast them himself is to learn them. The following events can be used to show Geoffroi's acquisitions:
 
@@ -729,7 +729,7 @@ The first stage in Geoffroi's growing interest is to accumulate books discussing
 
 At the end of this first period of Geoffroi's interest, he has started a collection of grimoires, bestiaries, and strange and unusual objects. This collection could be studied as individual books or as realia (*Covenants*, page 102) by enterprising magi.
 
-#### **The Hunt**
+#### The Hunt
 
 The hunt is a key leisure activity for the nobility, so it is an obvious choice when Geoffroi looks to bring magic to his court.
 
@@ -745,7 +745,7 @@ He casts around for news of beasts of virtue or of legend, and then offers a bou
 
 At the end of this series of encounters, the magi should be under no illusion that Geoffroi is taking his interest a little too seriously for comfort. While not yet dangerous to the covenant, he is becoming a nuisance.
 
-#### **The Tournament**
+#### The Tournament
 
 The tournament is where a noble can truly show off his wealth, popularity, and influence. As an entrant, the noble can take to the field at the head of a large retinue and team of knights fighting under his colors. But as a sponsor and patron of the tourney, he can dictate the terms of the event, decide upon winners and losers, and demonstrate his largesse by awarding sumptuous prizes. For this purpose, Geoffroi commissions a number of prizes from the covenant magi. He asks for an enchanted sword, a golden cup of grandeur, a horse of virtue fit for riding, and a magical hawk, though he is also open to suggestions for alternatives. He also inquires about magically enhanced entertainments, so that he may present the most unusual and surprising feast to his guests. He is willing to pay handsomely for any assistance.
 
@@ -768,7 +768,7 @@ But being seen to help Geoffroi in this manner may prompt his rivals to ask the 
 
 Storyguides may find the material presented in *Lords of Men* (page 64) useful if the covenant chooses to become involved in the tournament.
 
-#### **The Council of Wizards**
+#### The Council of Wizards
 
 Geoffroi finally assembles a council of wizards within his court. Some are destined to be transient, passing through after performing some service for the noble, but others remain to enjoy his ongoing patronage. The council has the potential to pose significant problems to the covenant in its own right, so the covenant gains the Rival External Relations Hook (*Covenants*, page 22).
 
@@ -796,7 +796,7 @@ Locke has been created as an un-Gifted Mythic Companion and may take four more V
 
 **Reputations:** Tutor at York Cathedral School (among academics) 2, Elementalist of Repute (among elementalist societies) 1
 
-#### **Combat:**
+#### Combat:
 
 *Dodge*: Init *+*0, Attack N/A, Defense +0, Damage N/A
 
@@ -832,7 +832,7 @@ He views the chance to meet other practitioners of magic as an intellectual chal
 
 • With word of this council of wizards having reached neighboring counties, the covenant finds itself the subject of a Quaesitorial investigation into the support they have been showing this mundane noble and his court wizards. But the Quaesitor, and the magi she brings with her, seem to be taking the opportunity to settle old scores against the covenant.
 
-#### **Stolen Resources**
+#### Stolen Resources
 
 Feeling secure under Geoffroi's patronage, the council of wizards starts to exert its influence. The following events may be employed to represent their growing audacity.
 
@@ -840,7 +840,7 @@ Feeling secure under Geoffroi's patronage, the council of wizards starts to exer
 - Emboldened by Geoffroi's support, the council of wizards decrees that any supernatural auras, beasts of virtue, or Gifted children found within Geoffroi's lands belong to them, and them alone. This comes just as one of the covenant's magi hears about a child exhibiting signs of The Gift. A contest over the child would bring the covenant and Geoffroi's court wizards into open conflict.
 - A delegation from a nearby covenant arrives to remonstrate over the actions of Geoffroi and his band of wizards. It appears that their own vis sources have been raided and, given Geoffroi's apparent connection to the player covenant, they are being held responsible. The other covenant wants reparation for their loss and Geoffroi brought to account.
 
-#### **The Theft of Parma**
+#### The Theft of Parma
 
 In a move that is bound to endanger both the covenant and Geoffroi's council of wizards, one of the wizards in Geoffroi's court conceives of a plan to learn the Parma Magica. Can the hedge wizards abduct a magus of the Order and force him to teach the Parma Magica? Does this constitute the will of the council, or are there rogue elements present?
 
@@ -854,7 +854,7 @@ The prospect of the Parma falling into the hands of hedge wizards is a significa
 
 As a wealthy noble, Geoffroi need only spend one season each year overseeing his estates. But when even this is interrupted by his magical studies and the company of his court wizards his people begin to suffer.
 
-#### **Fines and Taxes**
+#### Fines and Taxes
 
 Geoffroi begins to tax his people hard in order to fund his growing interest in the supernatural, particularly by levying frequent and costly tallage. This causes hardship across the region, as those buying, selling, or moving goods are forced to pay exorbitant tolls and taxes.
 
@@ -862,7 +862,7 @@ Geoffroi begins to tax his people hard in order to fund his growing interest in 
 - A diversionary tale suited to grogs and companions sees them investigating the theft of crops or other goods from the villages under the covenant's protection. The evidence leads back to one of Geoffroi's estates, where the new tax collector is extracting more from the starving locals than they can possibly pay.
 - Others have been driven to outright banditry and, having successfully captured a Redcap messenger, the bandit leader is enjoying her own taste of magic with the Redcap's enchanted devices. Tales of a bandit leader wielding powerful spells may at first lead the covenant to Geoffroi's court. But once the truth is discovered, how long can the stolen devices help the bandit avoid capture before the magi close in on her?
 
-#### **A Poor Ruler**
+#### A Poor Ruler
 
 It is not just the covenant that suffers the expanding effect of Geoffroi's excesses. His neighbors suffer the same rise in banditry
 
@@ -874,11 +874,11 @@ and theft originating in Geoffroi's lands. This can be represented by the follow
 - The covenant is mistaken for being part of Geoffroi's magical court, and is held responsible for leading him astray. Agitators are stirring up the local population and directing their anger toward the covenant. Is someone taking advantage of the situation simply to cause trouble for the covenant? If so, what are the magi being distracted from?
 - A large number of serfs, including simple day workers, farmers, and families, turn up at the covenant asking to serve them as their own lord has treated them too harshly. But Geoffroi's steward Claude arrives soon after with a host of armed men and demands that the serfs be returned to his master's lands. He promises that only the ringleaders will be punished.
 
-#### **The Expulsion of Claude**
+#### The Expulsion of Claude
 
 Blind to the virtues of his loyal steward, Geoffroi expels Claude from his court and replaces him with a steward gifted in the magical arts, perhaps the elementalist Edwin Locke (detailed earlier). Claude returns to Normandy and retires to a monastery, but he takes with him knowledge of the magicians at Geoffroi's court that the magi might find useful. In particular, he has learned enough to collect Arcane Connections from them, some of which are still active. He intends to keep his own counsel on matters, but he could be persuaded to part with the connections if he thought it was in Geoffroi's interest.
 
-#### **The Peasants' Revolt**
+#### The Peasants' Revolt
 
 The growing anger within Geoffroi's estates starts to spill over into neighboring lands, including those belonging to the covenant. The peasant classes look upon the harsh taxation and the unwillingness of the other nobles to rein in this errant baron, and the seeds of revolt are sown.
 
@@ -1006,13 +1006,13 @@ Many of the hedge wizards you may want to introduce use distinct spells, devices
 
 Those knowledgeable in Artes Liberales, Philosophiae, and Medicine are able to exploit their knowledge to produce a range of effects that, to the uneducated, appear supernatural, although they are not magical in origin. The following effects use the rules presented in Chapter 5 of *Art & Academe*. If you are not using *Art & Academe*, you can ignore much of the design detail in the formulae below and just concentrate on the effects.
 
-#### **Astrological Inceptions**
+#### Astrological Inceptions
 
 The following are astrological inceptions, or insights gained through observation of the stars and calculations based on the bodies of the zodiac. They provide information, usually reliable though occasionally flawed. The effects are not magical. You can assume that the astrologer already knows how to create each inception, and spends a season in creating one or more copies on request. Once created, a copy can be completed with the casting of horoscopes for the intended target(s).
 
 The use of N and NA in the inceptions below allows the astrologer to fill in the names of the targets upon casting the horoscopes and learning what the inception has to tell.
 
-#### **Has N Betrayed the Confidence of NA?**
+#### Has N Betrayed the Confidence of NA?
 
 **Inception Level 5**
 
@@ -1024,7 +1024,7 @@ If Geoffroi is given reason to suspect that Ysabeau has betrayed his confidence,
 
 (Base 4, +1 past)
 
-#### **Is N the Father of NA?**
+#### Is N the Father of NA?
 
 **Inception Level 5**
 
@@ -1034,13 +1034,13 @@ Given Geoffroi's suspicions concerning François, he will have an astrologer det
 
 The identity of François' father is a current persistent quality of François, so this inception does not look into the past, but rather queries the present state of the boy.
 
-#### **Alchemical Reagents**
+#### Alchemical Reagents
 
 (Base 5)
 
 Reagents have the power to transform base substances in a range of ways, but most often to express an inherent property and improve the substance.
 
-### **Glass of Uncommon Purity**
+### Glass of Uncommon Purity
 
 **Reagent Level 20**
 
@@ -1059,11 +1059,11 @@ Formed into decanters and drinking glasses, the resulting glassware provides a h
 
 (Base 10, +2 Substantial)
 
-#### **Pharmaceutical Theriacs**
+#### Pharmaceutical Theriacs
 
 Theriacs are medicinal compounds designed to treat or alleviate specific ailments.
 
-#### **Compress of Tormentil**
+#### Compress of Tormentil
 
 **Theriac Level 15 Potency:** Mild
 
@@ -1071,7 +1071,7 @@ Over the course of a week, this bandage infused with tormentil and comfrey compl
 
 (Base 10, +1 Mild)
 
-#### **Tincture of Vitality**
+#### Tincture of Vitality
 
 **Theriac Level 15**
 
@@ -1093,11 +1093,11 @@ Importantly, the craftsman's work is affected by the standard realm interaction 
 
 Within these limitations, here are some examples of wondrous items that Geoffroi may commission.
 
-#### **A Most Noble Ring**
+#### A Most Noble Ring
 
 Created for Geoffroi by a master goldsmith with Divinely influenced power, this ring subtly enhances Geoffroi's bearing and appearance. He comes across as more forceful and fair than other men, thanks to the effect described below.
 
-#### **Aura of Enobled Presence**
+#### Aura of Enobled Presence
 
 **MuIm 10**
 
@@ -1112,13 +1112,13 @@ The craftsman requires a Workshop Total (see *City & Guild*, page 65) of 15 or g
 
 Required Craft Total: 1 season (28), 2 seasons (21), 3 seasons (19), 4 seasons (18)
 
-#### **A Blade of Virtue**
+#### A Blade of Virtue
 
 This excellent quality long sword has a +2 bonus to both attack and defend. But it has also been enchanted by a magical craftsman with the following effect, granting a further +1 to both attack and defend when wielded by its intended owner.
 
 The blade is enchanted for a specific individual, likely to be the knight who wins one of Geoffroi's tournaments, and takes a number of seasons to complete. If the raw materials for the blade are first treated as per the alchemical steel described in *Art & Academe*, page 76, the sword naturally gains a further +2 bonus to damage. Truly a prize worth winning.
 
-#### **The Rarefied Blade**
+#### The Rarefied Blade
 
 **MuTe 15**
 
@@ -1140,7 +1140,7 @@ Required Craft Total: 1 season (30), 2 seasons (23), 3 seasons (20), 4 seasons (
 
 In many ways the closest of the hedge magic traditions to Hermetic magi, learned magicians study their own arts, design their own spells, and create their own forms of enchanted devices. The following amulet and chartae effects use the rules presented in Chapter 5 of *Hedge Magic: Revised Edition*.
 
-#### **Amulets and Chartae**
+#### Amulets and Chartae
 
 Amulets are the equivalent of charged devices commonly created by Hermetic magi. They take a season to create and can only be used by a single subject, specified at the time the device is created. They can contain any effect and they have a number of charges determined by the learned magician's lab total.
 
@@ -1148,7 +1148,7 @@ Chartae are simple single-use devices,
 
 usually in the form of text transcribed onto a medium such as parchment, paper, or vellum. As with amulets, chartae are created for a given individual, but they are easier to make. The learned magician must spend a full day casting a horoscope for the charta's beneficiary, plus one hour for each magnitude of the desired effect. Amulets and chartae are both restricted to operating at Touch range.
 
-#### **Grant Fortune At the Tourney (Single Weapon)**
+#### Grant Fortune At the Tourney (Single Weapon)
 
 **TuFa Level 20**
 
@@ -1160,7 +1160,7 @@ The amulet must be worn for the full season. If it has multiple charges (determi
 
 **(Base 5, +0 Touch, +3 Season)**
 
-#### **An Arrow So True Has Never Been Struck**
+#### An Arrow So True Has Never Been Struck
 
 **SuFa Level 15**
 
@@ -1215,7 +1215,7 @@ The name Giraud Le Cornu is Norman French and may need to be modified to fit you
 
 Titles for nobles for all regions of Mythic Europe, including non-Norman regions, are discussed in the supplement *Lords of Men*, pages 30-36.
 
-#### **Lady Éloise Le Cornu**
+#### Lady Éloise Le Cornu
 
 **Age:** 27
 
@@ -1272,7 +1272,7 @@ She may find herself in the position of negotiating with the magi while her husb
 
 If the saga runs for several years, Lady Éloise eventually loses her Headstrong Personality Trait as she grows accustomed to authority, and instead begins to assert her own ideas without excessive force: she gains Innovative +1.
 
-#### **Brother Henri Raoullin**
+#### Brother Henri Raoullin
 
 **Age:** 46
 
@@ -1280,7 +1280,7 @@ If the saga runs for several years, Lady Éloise eventually loses her Headstrong
 
 Brother Henri is Baron Le Cornu's chaplain and confessor. He has some legal training, and also serves as the baron's legal advisor and clerk. Brother Henri chooses his words carefully before he speaks, and he has a knack for quoting appropriate biblical proverbs. He tends to have a moderating influence on the baron. However, he is a willing assistant in the baron's intrigues. He wants to learn as much as he can about the magi: first, to be sure they are not diabolists or heretics; and second, to verify they are not using their powers to mistreat good Christian folk. Brother Henri may approach the covenant under a white flag to try to defuse hostilities, and his hand should be evident in any settlement terms the baron offers.
 
-#### **Artur Le Cornu**
+#### Artur Le Cornu
 
 **Age:** 31
 
@@ -1288,7 +1288,7 @@ Brother Henri is Baron Le Cornu's chaplain and confessor. He has some legal trai
 
 Giraud's younger brother Artur is cut from the same cloth as his brother, but is physically stronger and intellectually a bit weaker. Artur is a vassal knight to Giraud. He has come to approve of his brother's choice to betray their father for the good of the realm, but doubts his own ability to make a similar choice. Artur lacks his brother's ability to read and write, and is less skilled in intrigue and courtly graces, but he is also less prone to be swayed by his own passions. If he takes over the barony due to his brother's untimely death, he quickly learns the art of intrigue and becomes nearly as formidable as his predecessor. He is more likely than his brother to seek the help of hedge wizards against the magi, and less inclined to listen to Brother Raoullin.
 
-#### **Bertrand Gallain**
+#### Bertrand Gallain
 
 **Age:** 26
 
@@ -1515,7 +1515,7 @@ The Gift causes any secular court to develop a strong bias against magi who are 
 
 A description of the secular courts of Mythic Europe can be found in *Lords of Men*, pages 80–82, and of Church courts in *The* Church, pages 35–36.
 
-#### **Questions of Jurisdiction**
+#### Questions of Jurisdiction
 
 The first question that needs to be resolved is which court has the authority to hear the case. In historical Europe, a baron would typically have his own court of law that hears minor cases, such as trespassing and petty theft. If members of the covenant trespass on the baron's lands, the baron both brings the suit and hears the case. The idea of a party in a case also presiding as judge seems crazy to a modern reader, but modern ideas of justice do not prevail in Mythic Europe.
 
@@ -1530,7 +1530,7 @@ Anything involving the ownership of land, economic privileges (such as monopolie
 
 There is a third option: the magi can try to have their case heard in a Church court. Canon courts automatically have jurisdiction if the accused is a member of the clergy, and usually preside over civil cases when the issue involves inheritance or a breach of contract. In parts of historical Europe, someone accused of a crime could claim benefit of clergy — the right to be tried in a canon court rather than a secular court — if he could prove he could read Latin.
 
-#### **Arguing the Case**
+#### Arguing the Case
 
 Courts in Mythic Europe operate rather differently from modern courts. The idea that the accused is presumed innocent until proven guilty would be foreign to a judge in Mythic Europe. Similarly, the accused has no right protecting him from self-incrimination. The court pays a great deal of attention to testimony, and is less concerned with physical evidence. In a secular court, the judge is often a noble with little or no education. If any lawyers
 
@@ -1549,7 +1549,7 @@ On the other hand, a troupe that is so inclined can spin quite a few stories aro
 
 parish church. The Church keeps track of baptisms, marriages, and deaths (including, very often, those of covenfolk and grogs). Many churches also record major events that occur in the parish. The parish records therefore are very likely to mention the covenant. Persuading the priest to open those records to the covenant for use in its legal defense may require a story.
 
-#### **The Value of Vis**
+#### The Value of Vis
 
 Sooner or later, Baron Le Cornu may accuse the magi of stealing vis from his land. This is a novel and controversial claim that has potentially far-reaching effects for the covenant and the entire Order. The outcome depends in part on the physical form the vis takes.
 
@@ -1557,11 +1557,11 @@ If the vis appears in the form of something intrinsically valuable, such as a la
 
 If the vis is contained in a form of minimal value, such as flowers, beeswax, or most natural substances, the burden falls on the baron to prove that it was valuable. Unless the baron can call on a magus to testify, he cannot prove that. The court therefore rules that the characters committed trespassing, not theft. However, the baron makes an argument that if the covenant ever steals the same or similar item again, that the theft should serve as *de facto* proof that the item is indeed valuable. The court agrees with this argument, and treats any future cases of stealing vis from the baron's land as serious burglaries.
 
-#### **Settling Out of Court**
+#### Settling Out of Court
 
 It is possible that the baron's case against the covenant is very strong: for example, if one of the characters actually committed a crime in front of witnesses. In that case, he sends an emissary to the covenant, offering to settle the case out of court. Of course, he requests fair compensation for whatever harm has been done to himself or his vassals. He also makes additional demands. See Negotiated Settlements, later, for some of the things the baron requests as part of a settlement.
 
-#### **Verdicts Regarding the Covenant's Land Ownership**
+#### Verdicts Regarding the Covenant's Land Ownership
 
 If the covenant enjoys the Autocephalous Boon (from *Covenants*, page 20), then the covenant has documentary evidence of its independence, and the baron and the count automatically lose the case. Otherwise, the covenant must either settle the case by recognizing that the count owns the land and negotiating a charter with him, or it must argue its case in royal court. The good news is that if the covenant manages to win the case, it acquires the Autocephalous Boon as a result of the verdict.
 
@@ -1584,7 +1584,7 @@ Oaths of fealty are banned because they include a pledge of personal service. Pr
 
 The players may think of trying to set up a companion as a kind of figurehead. The baron could make that companion a knight, then accept him as a vassal. That trick works for some covenants, but unfortunately it won't fool Baron Le Cornu. It's the magi and their magical powers he worries about, and he won't be satisfied until he feels the magi themselves are under control.
 
-#### **Relocation**
+#### Relocation
 
 Another way to resolve the conflict with the baron is to move the covenant. It's an extreme solution, and it means the baron wins, but it can actually be a
 
@@ -1631,7 +1631,7 @@ Most of these privileges are things that covenants typically act as though they 
 
 A few of the terms Baron Le Cornu demands are novel, in the sense that similar arrangements between magi and mundaes have not been described in previous **Ars Magica Fifth Edition** supplements. If the characters agree to these terms, they are breaking new ground in Hermetic law as it concerns mundane relations. Some members of the Order of Hermes disapprove of the precedent they are setting.
 
-#### **Vis Ownership**
+#### Vis Ownership
 
 The Tribunals described in **ArM5** supplements decide the ownership of disputed vis sources solely among magi, without regard to the mundane owner of the land where the vis source is found. Baron Le Cornu asserts that vis from his land is his, to dispose as he sees fit.
 
@@ -1648,11 +1648,11 @@ There are a number of legal questions that might be debated at Tribunal:
 - By alerting the baron to the value of the vis source, did the covenant inconvenience or put at risk the resources of other covenants in the Tribunal?
 - Given the implications of the agreement for all the magi in the Tribunal, did the covenant have the authority to sign it? Should it require ratification by the Tribunal, and will the Tribunal ratify it?
 
-#### **Court Wizards?**
+#### Court Wizards?
 
 Another question is whether the magi, in making some kind of settlement with the baron, have gone too far toward becoming court wizards. An accusation might be made at Tribunal. It may or may not be justified by the facts: some magi are cynical enough to hurl a frivolous claim at a political rival, just to cause trouble and tarnish his reputation.
 
-#### **Mundane Courts and Magi**
+#### Mundane Courts and Magi
 
 The biggest legal and political issue is the extent to which magi are allowed and required to submit to mundane authority. This is intentionally left vague in **Ars Magica Fifth Edition**, so your troupe can decide for itself how closely integrated or how well isolated the Order of Hermes is with respect to mundane society.
 
@@ -1883,7 +1883,7 @@ Papal legates represent the pope, the head of the Church. Speaking to a legate i
 
 The status of legates within the Church is trivial information for characters to discover. Any character with an Ability Score in Church Lore knows what a legate is. To specifically know of Father Joseph as a legate, make a roll on the Reputation Ease Factor Table (**ArM5**, page 19). Remember that, when encountered, Father Joseph will freely volunteer this information anyway.
 
-#### **Letters of Authority**
+#### Letters of Authority
 
 As a legatus missus, Father Joseph carries a set of letters that detail his legal powers. The intention is that Father Joseph presents these letters to religious, Hermetic, or secular authorities to establish his status as a papal legate. His letters explain that he is a papal legate sent as an
 
@@ -1899,7 +1899,7 @@ On the other hand, a bishop might hinder Father Joseph if he strongly believes t
 
 ## Relic Powers
 
-#### **Faithful Wisdom**
+#### Faithful Wisdom
 
 1 point, Init +3, Mentem
 
@@ -1913,25 +1913,25 @@ This blessing lasts for the special duration of Season.
 
 If, in your saga, you require Father Joseph to have a greater Magic Resistance, you can increase the power of the finger bone relic. Increasing the Faith Score of the relic to 2 or 3 increases the father's total Magic Resistance to 35 or 45, and the relic may also manifest additional powers. *Life of the Ascetic* and *Rebuke of the Scholar* are additional example powers and *Realms of Power: The Divine Revised Edition* (page 88) contains more examples of relic powers. Even if you do not need to increase the power of Father Joseph's relic, you might like to swap the *Faithful Wisdom* power for another one.
 
-#### **Life of the Ascetic**
+#### Life of the Ascetic
 
 5 points, Init +3, Corpus **R:** Touch, **D:** Sun, **T:** Individual
 
 The blessed character is freed from his need to eat or drink for the duration of the effect. The character will still become hungry and thirsty, but he will not suffer loss of Fatigue, take Wounds, or die because of this deprivation.
 
-#### **Rebuke of the Scholar**
+#### Rebuke of the Scholar
 
 1 Point, Init +10, Corpus **R:** Voice, **D:** Sun, **T:** Individual
 
 The cursed character is struck with a bad case of stammering, and he is unable to form a coherent sentence. If he is a spell caster, the cursed character must take the appropriate penalty for casting spells without words. Although he cannot form the appropriate words for spell casting, the caster can still make noise with his voice; if he does so, the range of Voice Range spells is unaffected by this curse.
 
-#### **Authentication of Papal Documents**
+#### Authentication of Papal Documents
 
 The papacy has not managed to establish a robust system for authenticating papal letters. Father Joseph's letters *do* carry papal seals, but such seals can be forged, though there are harsh penalties for doing so. This is why Father Joseph also relies on a chain of introductions from diocese to diocese.
 
 If required, Hermetic magic can determine that the father's letters of authority really do come from the papal curia this is a part of the history of the vellum that the letters are written on (see InAn guidelines: **ArM5**, page 117). The pope has probably not personally written the letters — a scribe in the curia would have performed this task for him.
 
-#### **Loss of Letters**
+#### Loss of Letters
 
 The letters themselves are only a record of the pope's confirmation of these powers to Father Joseph. Physically possessing the letters does not grant Father Joseph any special powers. This applies both to his legal powers and the *Commanding Aura* Supernatural power. So, if Father Joseph's letters are lost, stolen, or destroyed, he does not technically lose his authority, nor does a thief acquire the father's powers by merely possessing his letters or copies.
 
@@ -1952,17 +1952,17 @@ Where he is able to, the father attempts to discover the locations of more coven
 
 Ultimately, Father Joseph would like his ideas presented at a Tribunal meeting, but he is more than willing to let sympathetic magi speak for him at such a gathering.
 
-## **Story Seed: Miracle of the Magi**
+## Story Seed: Miracle of the Magi
 
 The covenant magi are seen casting spells by the local clergy. The dean writes to the papal curia describing the miraculous events and asking for guidance. Eventually the dean's letter is passed to Father Joseph, who recognizes the presence of Hermetic magi. He comes to the deanery to meet with the dean and track down the magi.
 
-## **Story Seed: Host of the Church**
+## Story Seed: Host of the Church
 
 The magi of the covenant, who are sympathetic to the Church, agree to let Father Joseph stay as a guest for several seasons. Christian magi from all over the Tribunal come to hear Father Joseph preach about the Church's position on magic, and his message of brotherhood between the Church and the Order. The visiting magi are generally well-behaved, but the magi of the covenant need to find accommodation for all the pilgrims and their retinues.
 
 After a few seasons, a band of pagan magi arrive. The pagans are argumentative, hostile, and insult both the pilgrim magi and Father Joseph. The father is not alarmed by this, but many of the pilgrim magi are aggrieved, and several malicious certamen matches are waged. Unless someone acts to calm the situation, Wizard's War may be declared (or maybe even murder committed).
 
-#### **Story Seed: Pilgrimage**
+#### Story Seed: Pilgrimage
 
 One (or more) of the covenant magi accompanies Father Joseph as he travels about the Tribunal. During the journey, the magus has ample opportunity to discuss the father's vision for the future of the Order. If given the choice, Father Joseph chooses for his traveling companion a magus who is actually *against* his proposal (though obviously not a magus who is uncontrollably homicidal toward Christians). The father hopes to convert his companion, through calm argumentation and example, during the course of the pilgrimage. From Father Joseph's point of view, there is little point in traveling with an already converted magus!
 
@@ -1970,7 +1970,7 @@ The magus may be accused of reveal-
 
 ing the location of hidden covenants to Father Joseph — although it is not clear that this is in any way a Hermetic crime. The magus may also need to defend Father Joseph from pagan magi, either via certamen or even more aggressive attacks.
 
-#### **Story Seed: The Address**
+#### Story Seed: The Address
 
 Father Joseph travels to the Tribunal and wants to address the meeting. He wishes to propose a formal treaty between the Order and the Church, and open negotiations for the formulation of a religious Rule for the Order. The covenant magi may be supporters of Father Joseph, in which case they need to argue for Father Joseph's right to speak to the assembled magi — in most Tribunals, it is customary to allow only magi to address the formal Tribunal meeting. If Father Joseph is denied permission to participate in the Tribunal, perhaps one of the covenant magi addresses the Tribunal in his stead. If the covenant magi are opposed to Father Joseph, then they might try to prevent him from speaking or they might address the Tribunal in reply.
 
@@ -1991,7 +1991,7 @@ among the leaders of the Societas. Father Joseph is content to let the magi of t
 
 The Societas of the Mystical Christ uses the old Roman Christian emblem (the superimposed Greek letters *chi* and *rho*), followed by the astrological sign for mercury as its symbol.
 
-## **Story Seed: Christ Underground**
+## Story Seed: Christ Underground
 
 If the Tribunal is dominated by pagan (or other anti-papal) magi, Father Joseph's proposals are met with strong resistance. In this case, the members of the Societas of the Mystical Christ need to be very secretive and cautious — they run the risk of concerted Wizard's War from the dominant Tribunal pagans. Of course, such a repressive environment is something that the very early Church also experienced, and the challenge of preaching to a bastion of paganism is welcomed by Father Joseph.
 
@@ -2009,7 +2009,7 @@ Father Joseph mobilizes the few members of the Societas within the Tribunal to s
 
 The covenant magi may be local members of the Societas of the Mystical Christ who must hide the father, and carefully transfer him to new safe locations. Alternatively, the magi might be members of the Societas in a neighboring, less pagan-dominated Tribunal. In this case, they are called upon to provide support to their brothers across the Tribunal border. Finally, the magi could be hoplites or Quaesitors of the Tribunal asked to hunt down and eliminate Father Joseph and his disruptive supporters.
 
-#### **Story Seed: The Good News**
+#### Story Seed: The Good News
 
 Magi who are known to be pious Christians are sometimes recruited by the Societas of the Mystical Christ, rather than directly by Father Joseph. The Societas tries to research potential recruits, to determine by their writings and deeds whether they will be sympathetic to the new vision for a religious Order of Hermes.
 
@@ -2027,17 +2027,17 @@ position in the community to a monastery.
 
 As far as most magi are concerned, the wealth of the benefice is convenient, but if magi really want wealth, they can just create it with Creo Terram effects. However, a well-defined relationship with their community would simplify mundane relationships. Having a similar status to a monastery (and being supported in this by the Church) would also allow a covenant to convincingly deny aid to local nobles seeking magical assistance.
 
-#### **Story Seed: First Rights**
+#### Story Seed: First Rights
 
 The pope directs the bishop of the local diocese to grant several benefices to the covenant. This counts as a Typical Income Source for the covenant. However, the bishop removes benefices from a chapter of canons in order to grant them to the magi.
 
 The canons are outraged, and are determined that their income must be returned. Of course, the bishop was aware that his actions would annoy the canons. The canons are from the second most powerful church in the diocese (after the bishop's cathedral), and he is concerned that the canons have become too powerful and wealthy. The magi of the covenant make a powerful ally (and gain wealth) if they assist in suppressing the canons. However, the canons make for bitter enemies. On the other hand, if the magi refuse to take the benefices, they make an enemy of the bishop.
 
-#### **Story Seed: Care of Souls**
+#### Story Seed: Care of Souls
 
 The covenant magi are granted a benefice. They must now find a priest to pay to perform mass in the parish church (from which the benefice is collected). Once he is established, the priest occasionally turns to the magi for help with the needs of the congregation — perhaps the magi can help cure diseased farm animals, or help find a lost child, or determine who is lying in an argument between merchants.
 
-#### **Story Seed: The Tithe**
+#### Story Seed: The Tithe
 
 The covenant magi, or their agents, must travel throughout their parish once a year to assess the crop yield of each field. The tithe is one-tenth of the yield. Usually, this task is performed by the parish clerk, but the magi might use the opportunity to search for vis sources within the parish. Negotiating a tithe that included naturally occurring vis among the wheat or other produce would be an efficient way for the covenant to increase their vis stocks.
 
@@ -2047,14 +2047,14 @@ Synods are regional meetings of clergy. They are essentially the clerical versio
 
 As a legate, Father Joseph has the authority to call special synods if he needs to, and he can invite whomever he chooses. However, he prefers to encourage the regional clergy to invite magi to more routine synods. This is because Father Joseph wants to create a real, long-lasting relationship between magi and the Church, rather than something that requires his ongoing personal intervention.
 
-## **Story Seed: Slanderous Accusations**
+## Story Seed: Slanderous Accusations
 
 In 1215, the papacy decreed that slander was a canon crime. The local bishop believes that magic is not evil. However, he has learned that a number of priests in his diocese have been preaching that magic and magi are the tools of the devil. The bishop decides to call all his clergy to a synod to clarify his position on magic, and to clarify the papacy's position on slander. He invites the magi of the covenant to attend the synod to help demonstrate that they are not evil.
 
 
 The dean of the rural priests located near the covenant has fallen into a heresy (perhaps he is a Cathar), and a number of his priests have followed him. The covenant's representatives are invited to attend a synod called by the dean, and they recognize the dominance of this heresy in the theological discussions. The covenant must choose whether to report this heresy to the bishop or let the heretics continue. If the magi report the heresy, they might be called upon to help rehabilitate (or suppress) the dean and his followers. If the magi ignore the problem, they might also be accused of heresy when the bishop (or archbishop) eventually discovers it.
 
-## **Story Seed: Opulent Council Chambers**
+## Story Seed: Opulent Council Chambers
 
 The covenant invites the local bishop to send a representative to their yearly council meeting. The bishop's representative (a deacon) is a severe ascetic, and he is concerned at the ostentatious and extravagant wealth displayed in the council chambers. The deacon complains to the bishop about the wealth of the covenant, and the bishops writes the magi, asking them to explain their sources of income. The bishop might be merely curious (and perhaps fishing for gifts) or he might follow the ascetic concerns of his deacon.
 
@@ -2068,11 +2068,11 @@ Of course, magi who assist the bishop's court could be accused of acting as cour
 
 are *not* Hermetic crimes. Of course, Father Joseph will not embark upon this stage of his plan until he is fairly confident that his Hermetic allies will be able to successfully push his agenda at Tribunal. Even a defeat over this point at Tribunal might not be a disaster; a second-best outcome may result in the creation of a Tribunal precedent that acting as an ally to the bishop's court is a lesser Hermetic crime, punished by a relatively low vis fine.
 
-## **Story Seed: Authentic Miracles**
+## Story Seed: Authentic Miracles
 
 Reports of a holy man, living in a small village within the diocese, reach the bishop's court. It is said that the holy man heals lepers who pray and fast with him. The bishop asks the magi to report on whether the holy man is a conduit for miracles, a charlatan, or possibly some sort of wizard (hedge or otherwise).
 
-#### **Story Seed: Possession**
+#### Story Seed: Possession
 
 The summer is unusually hot, dry, and still. In the town square, the foul stench of the tanneries swarms and tumbles, and outside the cathedral the cobbles are stained with dark blood. The thick blood was spilled when a family of Jews was murdered on the cathedral steps during the warm, starry twilight of the previous Sunday. No one in the town seems to know who is responsible for the murders, and the bishop fears that some of the townsfolk are possessed by a murderous demon. Anxious to prevent a wild pogrom, the bishop asks the magi to investigate and deliver the town from the demons.
 
@@ -2080,7 +2080,7 @@ The summer is unusually hot, dry, and still. In the town square, the foul stench
 
 Obviously, Father Joseph's long-term plan for the Order does not tolerate the presence of infidels and pagans. Father Joseph tries to convert such characters, and convince them to submit to baptism — however, he only tries to do so by theological debate. Father Joseph is not stupid, and he is aware that threatening or forcing magi to convert is likely to be counterproductive. He also does not want to become distracted by converting individual magi; his target is the entire Order.
 
-#### **Story Seed: The River Jordan**
+#### Story Seed: The River Jordan
 
 Following the model of John the Baptist at the Jordan River, Father Joseph sets up a mission at a covenant on the banks of the Danube. He offers to baptize any magus who wishes to convert in the living waters of the river.
 
@@ -2104,7 +2104,7 @@ The papacy and Father Joseph do not care how the Grand Master is selected, how l
 
 Once the Grand Master has been chosen, an agreed version of the Peripheral Code is disseminated and supported by the Church as the canon rules for the new Order. The papacy expects the new Order to continue to administer itself, almost without change, through its own institutions such as Tribunals and Houses, in much the same way that the mundane religious orders govern themselves. Eventually, the papacy may try to encourage the new Order to become more monastic (segregation of magi and magae, a prayer routine, elimination of violence as a legal tool, etc.), but this is a battle the Church is content to leave to future generations.
 
-## **Story Seed: Order and Anti-Order**
+## Story Seed: Order and Anti-Order
 
 The Rome and Normandy Tribunals both proclaim rival Grand Masters. The magi of the Order are split between supporting the two rivals, and as respected magi, the player characters are approached by Father Joseph to broker a compromise between the two factions. The papacy can clearly resolve the issue by acknowledging one of the Grand Masters — however, the papacy does not know which faction has the most support. Alternatively, one of the player characters may be named as one of the opposing Grand Masters.
 
@@ -2203,7 +2203,7 @@ The cathedral described here is written in a generic enough manner that it can b
 
 
 
-### **Deacon Adam**
+### Deacon Adam
 
 **Age**: 51
 
@@ -2219,7 +2219,7 @@ Geoffrey is the most senior of the archdeacons within Bishop Orris' diocese, and
 
 Adam is the devoted secretary of Bishop Orris. In fact, he is much more than simply an appointments clerk: he is both chamberlain and steward to the bishop's personal household, and also acts as the bishop's manservant. He is jealous of his position at Orris' side, and loathe to permit anyone else to get as close; consequently, he is overworked and almost always exhausted.
 
-#### **Father Peter**
+#### Father Peter
 
 **Age**: 67
 
@@ -2269,7 +2269,7 @@ Note that both of the bishop's Supernatural Abilities are aligned to the Divine 
 
 
 
-#### **Brother Theodoric**
+#### Brother Theodoric
 
 **Age**: 42
 
@@ -2291,7 +2291,7 @@ As described in *The Church* (pages 48–51), churches can be described using th
 
 **Resources**: Divine Aura 5, rising to 6 in the Lady Chapel. Books: *The Bible* (Summa on Theology, Level 10, Quality 3; Summa on Organization Lore: Church, Level 3, Quality 3), *Parish Register* (Summa on Area Lore: Diocese, Level 3, Quality 5), *The Missal* (Tractatus on Organization Lore: Church, Quality 7; Tractatus on Music, Quality 7), *Breviary* (Tractatus on Organization Lore: Church, Quality 8), *Sentences* by Peter the Lombard (4 Tractatus on Theology, Quality 9), *The Decretum* by Gratian (Summa on Civil & Canon Law, Level 5, Quality 11), *Sic et Non* by Peter Abelard (Summa on Theology, Level 5, Quality 13), 8 other Tractatus on Theology, Civil & Canon Lore, and Organization Lore: Church (Quality 7). Relics: Hand of St. John (see later), Rib of St. Martin (see later), Fragment of the True Cross (Faith score 1), 3 other minor relics (Faith score 1). Specialists: provost of canons (Theology 5), chief chorister (Holy Music 8), 4 Cantores (Ceremony 5), 3 canons (Organization Lore: Church 5), archdeacon (Civil & Canon Law 7), 2 notaries (Profession: Scribe 5), exorcist (Divine Lore 6), deacon (Profession: Steward 5), 4 doorwardens (Brawl 5), 8 acolytes used as clerks, scribes, messengers, and distributors of alms (Organization Lore: Church 4). Vis Sources: 3 pawns Creo vis (tears on the statue of St. John the Apostle), 5 pawns Imaginem vis (echoes in the cathedral following Easter Mass), 2 pawns Vim (water washed off the chancel steps). (502 Build Points)
 
-#### **The Hand of St. John the Apostle**
+#### The Hand of St. John the Apostle
 
 Evangelist and prolific writer, St. John was called 'The Beloved Disciple', and Jesus made him the guardian of the Blessed Virgin. He was the brother of St. James the Greater, and the two were known as the Sons of Thunder. St. John died at Ephesus. The Hand of St. John is one of Christendom's most significant relics, as it is the hand that penned the fourth Gospel, three Epistles, and the Book of Revelation. The Hand has a Faith score of 4, giving it 4 Faith Points and a Divine Might of 40. It also has two Powers.
 
@@ -2299,7 +2299,7 @@ Evangelist and prolific writer, St. John was called 'The Beloved Disciple', and 
 
 *Curse of Drowning*, 2 points, Init +8, Aquam. The target of this curse begins to vomit forth sea water, and starts to drown. The relic's wielder must continue to concentrate, and can end the effect at any time. While it persists, the target must make Deprivation rolls (**ArM5**, page 180–181) every 30 seconds, and can take no other action. Once the effect is ended by the wielder, if the target is still alive but took any wounds from drowning, then these become Long Term Fatigue levels instead.
 
-#### **The Rib of St. Martin of Tours**
+#### The Rib of St. Martin of Tours
 
 The patron of beggars, horsemen, and soldiers, St. Martin of Tours is a popular saint in France and Italy. His Rib has a Faith score of 2, giving it 2 Faith Points and a Divine Might of 20. It also allows the holder to activate the saintly power *Grant of Serenity (Realms of Power: The Divine Revised Edition,* page 88).
 
@@ -2312,7 +2312,7 @@ In general, Bishop Orris is suspicious of magic, since he has encountered sorcer
 
 If the storyguide is interested in using Bishop Orris as an antagonist, but feels that the character does not quite fit within his saga, there are a number of options as to how his character can be changed. Note that several of the options in this section could be combined.
 
-#### **Not a Bishop**
+#### Not a Bishop
 
 As an antagonist, Orris' story revolves around his desire to protect those for whom he is responsible against the threat that he perceives the characters to pose. If the saga does not have a suitable bishopric nearby for Bishop Orris to head, it is not essential that he is a bishop for this story. Naturally, some elements will have to be altered to match his changed status. The least disruptive change is to make Orris an abbot: an equivalent ecclesiastic rank, but head of a cloistered community rather than a member of the secular clergy.
 
@@ -2326,7 +2326,7 @@ Bishop Orris is aware of the abilities of the Holy Tradition, and is in awe of t
 
 Brother Theodoric can lead a ceremony of the four Cantores and receive a +24 bonus to miraculous effects (from the total of the Cantores' Presence + Holy Music). With the full chapter of nine canons present and performing a ceremony without a leader, the total bonus is +46 (+25 group bonus, –9 participants, +30 from total of the Cantores' and canons' Presence + Holy Music). If they use the Invocation Method rather than Holy Music, the bonus from the Cantores' Communication + Invocation is +14 for a led group and +16 for an unled group.
 
-#### **Other Motives**
+#### Other Motives
 
 As written, Bishop Orris is motivated by his episcopal duty as a shepherd to protect his flock against the wolves of the Order. However, his methods can remain the same while his motives change. He may not be deluded by his powers at all, but instead desire the downfall of the characters for different reasons. He may resent the apparent power that they have, or desire possession of a resource (such as a source of income) that they have claimed, and so he plots their destruction for his own gain.
 
@@ -2334,7 +2334,7 @@ If Bishop Orris is motivated by selfishness, he is less likely to receive assist
 
 Taking alternative motivations to the extreme, Bishop Orris could be corrupt, morally or supernaturally, and desire the characters' demise out of sheer malice. Perhaps the magi have had a beneficial effect on the local community, and this is too much for a corrupt Bishop Orris to stomach. This variant should be carefully considered; the cliché of a corrupt churchman can be easily overused, and the ethical dilemmas of this story are lost if the characters are right and the bishop is wrong. Furthermore, in Mythic Europe, it is less likely that a truly corrupt man would attain an episcopal rank — not with the active interest of angels, saints, and holy men looking out for the church.
 
-#### **A More Powerful Bishop Orris**
+#### A More Powerful Bishop Orris
 
 Bishop Orris is already reasonably powerful, not because of what he is, but rather who he is. If the storyguide believes that he would not pose a sufficient challenge to her players' characters, there are a few ways in which he can be enhanced. Making him an archbishop or cardinal would invest him with a personal Magic Resistance
 
@@ -2347,7 +2347,7 @@ of the actions of the characters and able to
 
 plan appropriate responses.
 
-#### **A Weaker Bishop Orris**
+#### A Weaker Bishop Orris
 
 It is not necessary to change the bishop's character to make him a weaker opponent for the player characters: just make him less ardent in his pursuit of them. A bishop is a busy man with many demands on his time, and even if he genuinely believes the characters to be a threat, he can afford to move against them slowly unless they retaliate.
 
@@ -2364,7 +2364,7 @@ The yearly visitation probably is of little interest to magi. It may be that the
 If the accused is intimately connected to the characters, play through the summons. The summoner is a sub-deacon of the diocese who is paid by the accused, not the court, for issuing the summons. He justifies this by reasoning that if he didn't do this job, the accused would be ignorant of the charges against him and be found guilty *in absentia*. The charge he levies is appropriate to the income of the character — basically, how much he thinks he can get away with. Summoners have a disreputable job that attracts accusations of trivial summons purely to extort a fee. Perhaps this summoner is in
 
 
-#### **The Arrival**
+#### The Arrival
 
 The bishop's entourage arrives in midafternoon, and the whole parish attends to see him. It is rare to see the bishop, and there is a festival air. A feast has been arranged for the visitors, paid for out of parish revenues, and it is as lavish as the parish can afford. Bishop Orris is accompanied by his secretary, four acolytes, and four guards hired from his cathedral city, for a total of ten people. If the region has a reputation for being lawless, there may be more guards: they are responsible for protecting not only the clergymen, but also the alms and wages they carry with them. A player can make an Intelligence + Organization Lore: Church simple roll. If he succeeds against an Ease Factor of 9, the character is aware that this is an unusually small retinue; two or three times this number is permitted, and can be a great drain on the resources of the parish.
 
@@ -2393,7 +2393,7 @@ for the visitors, the parish priest, and one or two local figures such as the re
 
 It is possible that a magus or companion from the covenant will be invited to sit at the bishop's table, although this is only likely if the characters have a substantial presence in the parish, and are considered well-known or important enough to dine with the bishop. Thanks to The Gift, it is unlikely that a magus has a sufficiently good reputation to receive such an invitation, but if he does (or has The Gentle Gift), then the encounter between the magus and the bishop that precipitates the rest of the antagonism occurs over supper (see later).
 
-#### **The Bishop's Court**
+#### The Bishop's Court
 
 On the day after his arrival, the bishop holds court within the parish church. However irregular the summons or the charges, the accused would be wise to attend the bishop's court and defend himself.
 
@@ -2428,7 +2428,7 @@ In all, it is possible for Bishop Orris to detect the character's magic, and mis
 
 When it comes to the accusation of sorcery, the accused is brought forward and the charges against him described. As explained in the nearby insert, magic is not a crime *per se* in Mythic Europe; the legal accusation brought before the canon court is that the magic was effected by exhorting pagan entities, and thus idolatrous. The charges may be entirely falsified or entirely true, depending on the specific situation chosen by the storyguide, but the accusation is based on hearsay rather than tangible evidence.
 
-#### **Compurgation**
+#### Compurgation
 
 If the accused is indeed a practitioner of magic, or currently under the influence of a spell, then the bishop may detect this thanks to his Magic Sensitivity (see insert). If the bishop detects the presence of magic, then he blanches as the defendant is brought before him. Pulling himself together, he delivers an impassioned speech to the crowd about the seriousness of the case and the dangers of sorcery to one's eternal soul. Nevertheless, he is bound by his own sense of justice, and cannot convict on hearsay alone.
 
@@ -2436,7 +2436,7 @@ The bishop resorts to compurgation to settle the case. He asks for witnesses to 
 
 If insufficient witnesses attest to the character of the accused, then Bishop Orris convicts him of the crime. Depending on the seriousness of the case, he might demand a public penance (typically, wearing a white sheet before the congregation) or a fine. If magic was deemed to have been used to commit a major crime, then the defendant might be turned over to the mundane authorities for another trial.
 
-#### **Orris' Dilemma**
+#### Orris' Dilemma
 
 Ultimately, the outcome of the case does not matter to the furtherance of the plot; the purpose of this story is to allow the bishop to be exposed to the magical nature of a magus and to detect the stench of Hell on him. If this did not happen as a direct result of the trial, then another excuse for the bishop to come across a player magus should arise, even if it is just a chance meeting on the road or at an inn. If the covenant maintains a chapel, then the bishop's visitation could legitimately include the covenant to ensure that it is being well maintained — and the covenant's Magic aura is very easy to detect if it is not entirely enclosed in an *Aegis of the Hearth*. Alternatively, the bishop might receive testimony from a priest who has witnessed a spell being cast, or even heard confession from a grog or servant of the covenant who admits to having done the bidding of witches and sorcerers. In these circumstances, the bishop is sure to investigate further before deciding on a course of action.
 
@@ -2458,7 +2458,7 @@ All Dominion auras within his diocese take on a Wise temper (*Realms of Power: T
 
 The effect is subtle, but any storyguide characters whom the magi meet within the diocese become more suspicious of their motives, and less likely to exhibit blind trust. Longstanding vendors may reconsider the wisdom of trading with wizards, and allies might start asking for greater assurances from them. The player characters and their covenfolk are not themselves affected by this temper unless they reside within a Dominion aura.
 
-#### **A Prudent Populace**
+#### A Prudent Populace
 
 Magi are used to people distrusting them, but when everyone becomes more cautious around strangers and less naïve toward covenfolk, then it is possible that the grogs will notice. The locals also become more curious; they are actively interested in the covenant's business, and less likely to simply ignore the presence of the covenant in their vicinity.
 
@@ -2478,7 +2478,7 @@ Finally, the curse could be the result of a curse from a powerful hedge wizard o
 
 (or whoever normally keeps track of its finances) notices that the covenant has had a slight but steady increase in expenditure. The locals are less likely to offer credit to the covenant, and seem to have become shrewder at bargaining; whereas before the covenant was able to make a good deal, its agents now need to work harder to make the same exchanges that they did before. Characters who have regular dealings with locals can make Perception + Folk Ken simple rolls. If they beat an Ease Factor of 6, they are aware that something has changed in the attitude locally, but beating an Ease Factor of 9 is necessary to pinpoint it. An Intelligence + Divine Lore roll against an Ease Factor of 6 reveals that the temper of the Dominion aura is the most likely cause of this effect.
 
-#### **Burning Bridges**
+#### Burning Bridges
 
 The Wise temper is not simply turned against the characters; it affects all aspects of life in the diocese. All across the land, the common people start to act with zeal and prudence, allowing practicality to overcome tradition. For example, the freemen of a town commission a bridge to cross the river, rather than walking several miles to the existing one. In doing so, they attract the attention of a demon builder (such as Architectus, see *Realms of Power: The Infernal*, page 66). Three times, they manage to outwit the demon. Shamed, the demon seeks revenge by framing them for diabolism and ensuring that the characters see the "evidence." Since the town's new bridge is an edifice apparently built by evil magic, the covenant might seek to destroy it, but this only confirms what the bishop has been saying about them.
 
@@ -2494,7 +2494,7 @@ After the agents report back, Bishop Orris is in possession of a vast amount of 
 
 A third source of information for Bishop Orris may be available, depending upon the saga's assumption as to the amount of knowledge the Church has about the Order of Hermes. If, as *The Church* suggests, the pope has sent a legate to represent the pope at Tribunal meetings, Bishop Orris corresponds with that legate to try to discover if he has learned anything pertinent to the characters under the bishop's scrutiny. Again, how much the bishop learns through this route is highly saga-dependent.
 
-#### **Blocking the Bishop's Sources of Information**
+#### Blocking the Bishop's Sources of Information
 
 Of course, the characters have opportunities to discover that someone is asking questions about them. These opportunities should be lightly scattered through other unrelated stories without drawing too much attention to them, so that the characters only gradually realize that someone is systematically investigating them.
 
@@ -2519,7 +2519,7 @@ The result of this concerted campaign against sorcery in general, and the magi o
 
 With the Black Friars in the region, the changes in local attitude become much more blatant than they were under the Wise temper alone. The covenfolk are liable to hear rumors about their masters — and possibly themselves — when they interact with locals. Once the characters have become aware of the reputation, they may attempt to discover its source, and come across the Dominicans preaching in a village near the covenant. What happens if the characters take direct action against the friars is covered in a later section.
 
-#### **Blame the Witch**
+#### Blame the Witch
 
 One consequence — perhaps the main consequence — of the negative Reputations imposed by the Friars Preacher is that the characters get blamed for every misfortune that strikes the diocese. This leads to any number of stories, until the characters realize that they are the target of an unusual number of rumors, and decide to find the source.
 
@@ -2546,7 +2546,7 @@ they are stealing vitality from it.
 
 • A rival covenant capitalizes on the player magi's bad Reputation. Within the diocese, a church has been built on an ancient vis source. The rival magi cause the church to collapse, allowing them to claim the vis from the source. Naturally, the players' covenant is blamed.
 
-#### **Attracting Unwanted Attention**
+#### Attracting Unwanted Attention
 
 A Quaesitor passing through the area hears of the Reputation that the characters have acquired, and begins an investigation. If the accusations against the characters are specific, then this might appear to be a clear case of meddling with mundanes. The Quaesitor might even find enough evidence to bring a case at Tribunal.
 
@@ -2587,7 +2587,7 @@ Blessed are they that do his commandments, that they may have right to the tree 
 
 If Bishop Orris has not managed to encourage his opponents to seek penance and be forgiven by God for their magic, he turns to more direct means of coercion. Before he embarks on this more extreme road, he preaches a sermon before a packed congregation, picking an important holy day if possible, such as St. John's Mass (December 27th). He implores the magi to submit to the earthly representatives of God and surrender themselves to His mercy. Those magi who are known by name are specifically commanded to seek the forgiveness of God by burning their books, breaking their staves, and setting aside their magic (it is a commonly held belief that a magus needs a staff to perform magic; see *Lords of Men*, page 41). The bishop ensures that a written copy of this sermon is delivered to the covenant. He waits a week for any response.
 
-#### **Excommunication**
+#### Excommunication
 
 If the covenant ignores or refuses the demands of the bishop, then he follows through on his threat. Up until now, the bishop has turned the populace against the characters, and the covenant might be of the opinion that this is as much as he can do. They are about to be proved wrong.
 
@@ -2595,7 +2595,7 @@ Bishop Orris lays the ultimate spiritual sanction upon the magi: excommunication
 
 At this point, the loyalty of the covenfolk must be seriously considered. Excommunication is a dreadful curse to any God-fearing person. An excommunicant is denied benefit from any sacrament other than penance, and should he die, Hell is almost a certainty. Unless the covenfolk and turb are exceptionally loyal, or the characters take extraordinary measures to prevent it, the covenant will be emptied as its inhabitants flee the taint of anathema.
 
-#### **The Church Knights**
+#### The Church Knights
 
 Having employed his most powerful spiritual weapon, the bishop turns to the most powerful earthly force he has at his disposal — the Church Knights. There are several orders of the Church Militant that Bishop Orris could call upon; which one he uses depends on the saga's location. In Iberia, his allies are the Order of Santiago. In Eastern Europe, it is the Teutonic Order, who operate out of Hungary. Nearly everywhere else in Mythic Europe, the Knights Templar are
 
@@ -2641,7 +2641,7 @@ the most appropriate order. All of the militant orders are charged by the pope t
 
 tation of the Templars will prove sufficient to force compliance, he is also aware that he must be prepared to follow through on his threat and condone military action against the covenant. force; in addition to the commander, there are at least five other knights, plus a dozen or more brother sergeants. The exact size of the force should be tailored to the perceived forces of the covenant, prior to any desertions thanks to the excommunication. The Church Knights have at least as many brother sergeants as there were grogs in the turb, and a number of brother knights equal to the number of companions. *The Church* contains the statistics for brother sergeants and brother knights (pages 126–127); otherwise, use the templates in **Ars Magica Fifth Edition**. The Church Knights are the same as the Knight companion template (**ArM5**, page 23), and fight as a trained group with the commander as leader, who has a Leadership Ability of 5. The brother sergeants have the Standard Soldier grog template (**ArM5**, page 22), except for the leader of each trained group of five men, who is a Grizzled Veteran (**ArM5**, page 21). It is highly likely that each knight has a relic with a Faith of at least 1.
 
-#### **Against the Covenant**
+#### Against the Covenant
 
 Once the Church Knights have arrived in the region, they march on the covenant immediately. The characters may be forewarned if they have spies in the town, but apart from that, they are likely to be unprepared. The Church Knights are experienced in war, particularly in sieges, and if the covenant is well-defended, they stockade it while preparing an escalade. Rules for mass warfare and sieges can be found in *Lords of Men* (pages 109–116). Assume that the commander of the knights is an experienced tactician with direct experience in the Holy Land, and that he has a team of siege engineers who can undermine the covenant's fortress.
 
@@ -2657,7 +2657,7 @@ In ecclesiastical circles, Bishop Orris is well-regarded. He is the second son o
 
 Locally, he is a popular bishop, at least in part because he is a local himself. The previous incumbent spoke the local language very poorly, and had a reputation for being standoffish. Orris, on the other hand, is well-known for his sense of justice. More than once, he has personally intervened to mediate a dispute between prominent locals, and he is a champion of the poor and weak against the rich and powerful. The city folk in particular are full of admiration for how he faces down local lords who attempt to exert their authority over the free men of the city.
 
-#### **The Bishop's Mistaken Identity**
+#### The Bishop's Mistaken Identity
 
 It is tempting for the player characters to assume that Bishop Orris is crooked; after all, they are the good guys, and he is their antagonist — so he must have some angle, mustn't he? Storyguides wanting to exploit this assumption can employ stories involving the bishop's own Story Flaw. Somewhere in the diocese, the bishop has a near-identical double. This individual is a local scoundrel by the name of Turstan, who has proven a source of minor vexation to the bishop. Orris has not yet worked out he has a doppelgänger, but he does hear occasional stories and sightings of him from his parishioners that do not match his own movements. This Story Flaw is due come into full force over the course of this story.
 
@@ -2667,13 +2667,13 @@ If the characters follow Turstan for a few days, believing him to be the bishop,
 
 However, Turstan is not just a con man with a coincidental resemblance to the bishop (although this is what he will claim if confronted). He is intimately connected to the bishop's curse, and his exact nature depends on what the storyguide has decided is the reason for that malediction (see earlier). The scoundrel could be a diabolist in disguise, who has used his infernal magic to undermine the bishop's good works by taking his form. Turstan could be his faerie tormentor, who occasionally visits the city to see how his victim is faring. Alternatively, the double could be an angel, waiting for the characters to confront it so it can reveal the curse and set them on the journey to remove it.
 
-#### **Discovering the Bishop's Curse**
+#### Discovering the Bishop's Curse
 
 A thorough investigation of Orris' past reveals that he has faced both evil and magic before, and reacted the same way each time. Potential sources of information are monks who shared their novitiate with Orris; penitent parishioners who have meddled with petty magics; former victims of possession revealed by the bishop; or even the ghost of a witch who was slain by a lord after being convicted of murder by sorcery in Orris' court. The characters can gather evidence of Orris witnessing true evil, as well as clear uses of magic — some of which were magic used for evil. These cases point toward the bishop's malediction, that magic appears as evil to him. This might spur the characters to discover the source of that curse.
 
 To characters inclined toward resolving this story peacefully, discovering the nature of the bishop's curse is crucial. In this, they may be guided by an angel or saint, who could push them gently toward Father Peter, who knows the bishop better than anyone. There is also the matter of Turstan, the bishop's double, who knows more about the curse than is first apparent. The means of removing the curse is dependent on its origin (see earlier), but could depend on the characters undergoing a pilgrimage or similar quest (for guidance on running a pilgrimage, see *The Church*, pages 15–19).
 
-#### **Besmirching the Bishop's Reputation**
+#### Besmirching the Bishop's Reputation
 
 Bishop Orris is the source of all the characters' woes, and were he to lose standing in the eyes of the cathedral chapter and with his archbishop, then his accusations would hold less force, his allies might desert him, and he might even be removed from office.
 
@@ -2706,7 +2706,7 @@ There are not many magi who would voluntarily submit themselves to such humiliat
 
 If the characters are unwilling to prove their intentions are true, then the bishop will have nothing more to say to them. It may be possible to convince the bishop that magic is not evil; in which case the story might be successfully resolved — see Full Disclosure, later.
 
-#### **Prosecution by the Order**
+#### Prosecution by the Order
 
 If the characters submit to the bishop, they may be in for a rocky time within the Order of Hermes. A local magus known for his dislike of the Church might accuse them of endangering their sodales, since their actions could encourage the Church to bully more magi into submission. If the characters actually forswear their magic, then they might be deemed to have left
 
@@ -2802,7 +2802,7 @@ In fact, much of Galerius' austerity arises from unresolved feelings about his
 
 **Reputations:** Aggressive Investigator 3 (Hermetic)
 
-#### **Combat:**
+#### Combat:
 
 *Dodge*: Init 0, Attack n/a, Defense +2, Damage n/a
 
@@ -2926,7 +2926,7 @@ Galerius' investigation may begin in response to a complaint by one of the coven
 
 The following are some suggestions for what attracted Galerius' attention.
 
-#### **Plausible Basis**
+#### Plausible Basis
 
 If the player magi have made a mistake in either not paying enough attention to the Code, or thinking they can get away with breaking it, Galerius is a good way to show that the Order does enforce its law. It may seem to the players that they're facing an especially tough and dangerous Quaesitor, but in fact, Galerius' over-reaching makes it easier to defend against his accusations. If they can expose his bias and his ethical lapses, they stand a good chance of having the charges reduced or dismissed.
 
@@ -2944,7 +2944,7 @@ ence where none exist. The punishment for knowingly dealing with demons is alway
 
 crisis in Galerius' mind. In Holger Rosmer's case, the reckless behavior indirectly resulted in the death of a magus, so it was easy for the Tribunal to see things Galerius' way. In the player characters' case, the potential harm their actions might hypothetically cause can easily become more important, in Galerius' mind, than the actual repercussions of those actions. Any reasonable Tribunal is reluctant to set the precedent of issuing harsh punishments for what *might have* happened, so Galerius is very likely to lose the case unless he can prove real harm was done. His emotions get in the way of his judgment and he can easily become impassioned about a case that has no real merit. This makes him into a paper tiger, but it can still make for a good story. Consider this approach if your troupe has little experience with legal stories. Galerius' fearsome reputation and his aggressive pursuit of the case make the threat seem serious, but the actual danger to the magi is much less than it appears. Experienced troupes might see the weakness in Galerius' case early on, but there remains the risk of the magi losing Reputation and respect if convicted, which should be enough to motivate them to mount a good defense.
 
-#### **Mistaken and Fabricated Accusations**
+#### Mistaken and Fabricated Accusations
 
 The characters need not have actually committed any infraction at all. The magi might simply have been in the wrong place at the wrong time. If some Hermetic crime is committed near the covenant, the player characters are natural suspects, even if the actual perpetrator was a neighbor or passer-by. It's also possible that the magi were framed. These kinds of accusations make good stories because the characters have a clear path to proving their innocence: solve the crime themselves and present their evidence, either to Galerius or in a dramatic courtroom revelation.
 
@@ -2997,7 +2997,7 @@ Galerius makes extensive use of the spell, *Disguise of the Transformed Image*. 
 
 
 
-#### **Invisibility**
+#### Invisibility
 
 Galerius' Talisman has the power to make him invisible. Since it can only be used a few times a day, he usually reserves it for getting out of a tight spot, such as slipping away when he thinks he's being shadowed. If a tempting opportunity arises, such as the chance to follow a major suspect, he might give in to that temptation. Simply walking around while invisible is widely considered a form of scrying, though some Tribunals are less strict about it than others. Using invisibility to knowingly follow a magus is indisputably scrying.
 
@@ -3068,7 +3068,7 @@ Galerius considers himself an upstanding Quaesitor. He believes the broad invest
 
 Galerius, therefore, stops short of breaking hard and fast rules, such as the wellestablished rule that magi or their servants cannot be subjected to Intellego Mentem spells without the magi's permission.
 
-#### **Broadening the Investigation**
+#### Broadening the Investigation
 
 It is quite possible that Galerius will discover evidence of suspicious activity that is unrelated to his official case during his investigations. He can't resist the urge to follow up on any signs of wrongdoing that might endanger the Order. Galerius can jump from suspicion to suspicion for quite a while. He believes everybody is guilty of something.
 
@@ -3268,11 +3268,11 @@ experience points in a positive Hermetic Reputation, such as Reliable or Upstand
 
 Galerius does his best to bring the case against the magi to trial. Because Tribunal meetings are typically held every seven years, it could be years before the characters' actual trial. The procedure by which Tribunals hear cases is described in *Houses of Hermes: True Lineages*, pages 56–59.
 
-#### **Choosing the Principals**
+#### Choosing the Principals
 
 The Tribunal must first determine who will argue the case. The defense principal is the accused. The prosecuting principal is usually the magus who filed the initial complaint. If the accuser declines to argue the case, the duty falls to a Quaesitor. If there is an accuser, Galerius arranges for him to choose not to present the case so he can prosecute the characters personally. If Galerius investigated the case on his own initiative, he acts as the prosecutor by tradition.
 
-#### **Private Hearing**
+#### Private Hearing
 
 A Hermetic trial begins with a private hearing between the defendant, his or her accuser, and the presiding Quaesitor of the Tribunal. The hearing serves two functions: to determine whether the charges have any merit, and to vet the evidence. Unlike a modern trial, all the facts of the case are decided at this private hearing, before the public trial takes place. The dramatic climax of the story will most likely occur during this scene.
 
@@ -3306,7 +3306,7 @@ If the characters are completely innocent, this fact comes out during the eviden
 
 After all the evidence has been presented and argued, the presiding Quaesitor can recommend that the case not proceed. If the characters are really innocent, even Galerius can see the truth, and he agrees, rather than face the disgrace of having his whole investigation discredited in public.
 
-#### **Counter-Claim and Settlement**
+#### Counter-Claim and Settlement
 
 If the private hearing went as expected, the characters have grounds for a countercharge of scrying against Galerius. They may have prepared and published that counter-charge ahead of time, in which case they proceed to a separate private hearing for their claim. If they haven't filed a complaint against Galerius yet, for procedural reasons they must wait for the following Tribunal.
 
@@ -3326,7 +3326,7 @@ before his authority is reinstated. He may be permanently transferred to a diffe
 
 The blow to Galerius' prestige also costs him the support and friendship of Ingrid. Whatever her personal feelings about the trial, House Tremere strongly discourages her from associating with a Quaesitor who has fallen into disfavor.
 
-#### **Arguments and Penalty**
+#### Arguments and Penalty
 
 If, after the evidence hearing, Galerius still has his credibility intact and some facts on his side, the case proceeds to the public hearing, where the principals debate how the Peripheral Code should be applied, given the facts of the case. The facts are written into the Tribunal's official records at the start of this phase of the trial.
 
@@ -3361,7 +3361,7 @@ This antagonist relies on several Infernal powers for her to be effective, and t
 
 Hannelore's actions are described as being directed at a player character, but she could instead target a prominent storyguide character whom the characters are motivated to rescue from her clutches. Other variations on Hannelore include:
 
-#### **Different Motivations**
+#### Different Motivations
 
 As written, this story is about love perverted by the Infernal into a twisted mockery of what it should be. However, other motivations can be put into play with very little work if there is no suitable player character as a love interest for Hannelore. The two principle alternatives are avarice and envy. Should Hannelore be driven by avarice, she has witnessed a magus' use of power (or heard rumors of an event), and seeks that power for herself. She does not wish to be with the character forever, but instead to be trained by him. Of course, lacking The Gift, this is impossible, and her rage drives the rest of the story. If envy is her motivation, then Hannelore is consumed by the need to possess magical power, and if the magus will not share his magic, then he must be forced to relinquish
 
@@ -3441,57 +3441,57 @@ or a Warping point.
 
 With her best Power (Diablerie), she can expect a maximum Casting Total of around 53 + stress die (assuming an Infernal aura of 2, 2 Confidence points, 4 pawns of vis prava, and the sacrifice of a black goat). With a coven of 3 assistants, she can increase this by an additional +15.
 
-#### **A Crown of Twelve Stars on Her Head**
+#### A Crown of Twelve Stars on Her Head
 
-#### **Incantation/Psychomachia, Level 40 R:** Voice, **D:** Moon, **T:** Ind
+#### Incantation/Psychomachia, Level 40 R: Voice, D: Moon, T: Ind
 
 This maleficium forces the target to follow the caster's commands for the duration. Hannelore must be perceivable by the target: he must be able to see her, hear her voice, or smell her perfume, or else the effect ends immediately. She generally employs this effect after she has her victim under her control with another maleficium, using a ceremony with vis and a sacrifice to get the Casting Total she needs.
 
 (Base 15, +2 Voice, +3 Moon)
 
-#### **A Ghost on the Wind I Shall Become/No Door Can Stop Me**
+#### A Ghost on the Wind I Shall Become/No Door Can Stop Me
 
-#### **Incantation/Diablerie, Level 45 R:** Per, **D:** Sun, **T:** Ind
+#### Incantation/Diablerie, Level 45 R: Per, D: Sun, T: Ind
 
 Hannelore gains the Nightwalker Major Virtue (*Hedge Magic Revised Edition*, page 104) until sunrise. Briefly, this permits her spirit to leave her prone body and fare forth in immaterial form, traveling at great speed. She can switch between corporeal and immaterial form by taking three rounds to do so, and while immaterial, she may also become invisible at will. When corporeal, she can pick up objects that she could normally carry, and these become immaterial when she does. When her spirit is near humans, they become drowsy; and if already asleep, become impossible to wake up. In spirit form, she is affected by spells that affect ghosts or spirits, but she has no Might, and thus cannot be stopped by wards or laid to rest. She cannot enter the Dominion in this form.
 
 (Base 35, +2 Sun)
 
-#### **And the Devil Shall Take Care of His Own**
+#### And the Devil Shall Take Care of His Own
 
-#### **Incantation/Diablerie, Level 40 R:** Per, **D:** Forsaken, **T:** Ind Grants the caster a Magic Resistance
+#### Incantation/Diablerie, Level 40 R: Per, D: Forsaken, T: Ind Grants the caster a Magic Resistance
 
 of 25. This does not stack with other
 
 sources of Magic Resistance. (Base effect, +4 Forsaken)
 
-#### **Black Wings, Eye-Piercing Beak**
+#### Black Wings, Eye-Piercing Beak
 
-#### **Incantation/Diablerie, Level 35 R:** Per, **D:** Forsaken, **T:** Ind
+#### Incantation/Diablerie, Level 35 R: Per, D: Forsaken, T: Ind
 
 This maleficium grants the caster a False Power that duplicates the Skinchanger Virtue, allowing Hannelore to adopt the form of a crow. Her focal item for this Virtue is a fetish made from the wings of the bird she sacrificed to cast this maleficium.
 
 (Base 15, +4 Forsaken)
 
-#### **Blood and Body of the Beast**
+#### Blood and Body of the Beast
 
-#### **Incantation/Diablerie, Level 35 R:** Touch, **D:** Mom, **T:** Ind
+#### Incantation/Diablerie, Level 35 R: Touch, D: Mom, T: Ind
 
 This maleficium requires a short ritual that is a mockery of the Eucharist. It converts a pawn of vis into vis prava (see *Realms of Power: The Infernal*, page 19). In the hands of a diabolist such as Hannelore, vis prava is more potent than regular vis, and adds +5 to the casting total per pawn used, rather than +2.
 
 (Base 30, +1 Touch)
 
-## **Break Not, Bend Not, Burn Not/Thy Powers Desert**
+## Break Not, Bend Not, Burn Not/Thy Powers Desert
 
-#### **Incantation/Diablerie, Level 25 R:** Touch, **D:** Sun, **T:** Ind
+#### Incantation/Diablerie, Level 25 R: Touch, D: Sun, T: Ind
 
 Any single object touched gains a Magic Resistance of 15 for the duration of this maleficium. This does not stack with other sources of Magic Resistance. The object cannot be a living creature, and it can be no larger than a base Individual of the appropriate Form.
 
 (Base effect, +1 Touch, +2 Sun)
 
-#### **Clothed in the Dragon's Scales**
+#### Clothed in the Dragon's Scales
 
-#### **Incantation/Diablerie, Level 50 R:** Per, **D:** Moon, **T:** Ind
+#### Incantation/Diablerie, Level 50 R: Per, D: Moon, T: Ind
 
 This maleficium grants the caster a False Power that duplicates the Greater
 
@@ -3501,7 +3501,7 @@ Immunity Virtue. Like *She Who Bears the Mark Shall Be Unharmed* (see later), Ha
 
 (Base 35, +3 Moon)
 
-#### **Her Iniquities Shall Be Hidden From His Eyes**
+#### Her Iniquities Shall Be Hidden From His Eyes
 
 **Incantation/Psychomachia, Level 25 R:** Eye, **D:** Moon, **T:** Ind
 
@@ -3509,7 +3509,7 @@ For the duration of the maleficium, the target's senses are twisted so that they
 
 (Level 5, +1 Eye, +3 Moon)
 
-### **Mother Lilith, Queen of Desire/Stroke his Staff, Stoke the Fire**
+### Mother Lilith, Queen of Desire/Stroke his Staff, Stoke the Fire
 
 **Incantation/Psychomachia, Level 25 R:** Eye, **D:** Sun, **T:** Ind
 
@@ -3517,7 +3517,7 @@ The victim of this maleficium is consumed with lust. While the caster cannot dir
 
 (Base 10, +1 Eye, +2 Sun)
 
-#### **Pact of the Chalice of Blood**
+#### Pact of the Chalice of Blood
 
 **Incantation/Diablerie, Level 25 R:** Voice, **D:** Moon, **T:** Ind
 
@@ -3525,7 +3525,7 @@ This maleficium solemnizes a pact made with an intelligent creature with Inferna
 
 (Base 4, +2 Voice, +3 Moon)
 
-#### **She Who Bears the Mark Shall Be Unharmed**
+#### She Who Bears the Mark Shall Be Unharmed
 
 **Incantation/Diablerie, Level 35 R:** Per, **D:** Forsaken, **T:** Ind
 
@@ -3533,13 +3533,13 @@ This maleficium grants the caster a False Power that duplicates the Lesser Immun
 
 (Base 15, +4 Forsaken)
 
-#### **The Scorched Heart of a Man Obsessed**
+#### The Scorched Heart of a Man Obsessed
 
 **Incantation/Malediction, Level 35 R:** Eye, **D:** Moon, **T:** Ind The cursed individual becomes Obsessed with Hannelore, as per the Personality Flaw. When she is in his presence, he can do nothing except attend her needs; and when she is absent, they are frequently distracted by thoughts of her. His judgment cannot be trusted when it comes to Hannelore. This power is often employed after Hannelore has already bewitched her victim with her other powers.
 
 (Base 15, +1 Eye, +3 Moon)
 
-#### **The Wrath of Woman Scorches the Valor of Man**
+#### The Wrath of Woman Scorches the Valor of Man
 
 **Incantation/Malediction, Level 35 R:** Voice, **D:** Sun, **T:** Ind
 
@@ -3547,7 +3547,7 @@ The victim of this curse develops an overwhelming Fear (as per the Flaw) of wome
 
 (Base 15, +2 Voice, +2 Sun)
 
-#### **Thy Health Shall Shrivel Like Straw in a Flame**
+#### Thy Health Shall Shrivel Like Straw in a Flame
 
 **Incantation /Malediction, Level 30 R:** Eye, **D:** Sun, **T:** Ind
 
@@ -3555,7 +3555,7 @@ This curse reduces the victim's Stamina by 2 points, to no less than –1. The v
 
 (Level 5, +1 Eye, +2 Sun, +1 for extra point of reduction, +1 to reduce to decrease minimum)
 
-#### **Trampled Under Death's Pale Hooves**
+#### Trampled Under Death's Pale Hooves
 
 **Incantation/Malediction, Level 30 R:** Eye, **D:** Sun, **T:** Ind
 
@@ -3567,23 +3567,23 @@ The victim of this terrible curse suffers –6 to all rolls involving the Ride A
 
 it to her. Avarice and envy drive similar stories; the main difference is that an avaricious Hannelore is angry with the character for not giving her magic, while the envious Hannelore wants to take the character's magic from him (or her, of course).
 
-#### **A Male Hannelore**
+#### A Male Hannelore
 
 This variant requires few changes to the story as written, except refocusing it onto a female player character. The male Hannelore could possibly have some martial abilities as a baron's son, but this is not necessary. If appropriate to the troupe, a male Hannelore could pursue a male player character, or the female Hannelore pursue a female player character, but this would require a few changes, since same-sex relationships are perforce secret in Mythic Europe. Baron Hugo's reaction might be very different, seeking no clemency for a son or daughter engaging in acts the Baron perceives as a heinous and shameful sin.
 
 This option could also work with a different motivation for a male Hannelore (see earlier).
 
-#### **Hannelore Pursues a Companion Character**
+#### Hannelore Pursues a Companion Character
 
 Hannelore is particularly potent against characters with no Magic Resistance, because she needs to take no special measures to gather Arcane Connections, and her maleficia become a lot more effective. Her initial gambit — to woo her love and entrap him, keeping him besotted by her power — will probably prove successful, and the other characters may have to mount a rescue of their comrade. Of course, her victim resists such a rescue with all his might, at least until her maleficia wear off. She can subsequently throw curses at him with an Arcane Range, using Arcane Connections gathered while he was her prisoner (she would never achieve the requisite Penetration to use such spells on a Hermetic lover). If the companion character dwells within an *Aegis of the Hearth*, she may need to watch the covenant in crow form until he leaves its protection.
 
-#### **A Weaker Hannelore**
+#### A Weaker Hannelore
 
 Hannelore is not that powerful against Hermetic foes, and probably does not need to be weakened that much for a younger or less experienced troupe unless it has few or no magi. Her principal strength is to know the limits of her powers, and how to use them to best effect. A lot of her strength comes from her demonic patron; she had five years of teaching in the maleficia, which contributes most of her knowledge here.
 
 Taking away one or two of her Powers would reduce her efficacy greatly, although it is recommended that she retains the Diablerie Power, since much of the story revolves around its usage. It has been assumed that Hannelore has access to a good supply of Infernal vis, which she corrupts with a maleficium to make it even more potent. Without this vis, her Casting Total drops dramatically and her powers are limited substantially.
 
-#### **A More Powerful Hannelore**
+#### A More Powerful Hannelore
 
 For a more experienced troupe, Hannelore can be made more powerful in a number of ways. First, she should take control over a coven of infernalists early in her career, giving her a Ceremony bonus to most of her maleficia. This allows her to achieve better Casting Totals for her Infernal Blessings, and higher Penetration totals for her curses against Hermetic enemies.
 
@@ -3627,11 +3627,11 @@ initial story with Hannelore depends very
 
 much on the character's reaction.
 
-#### **A Love Affair**
+#### A Love Affair
 
 If the player desires a romantic engagement or family life for his character, then he may welcome Hannelore's advances. There is much drama in a love pursued through adversity, and a love affair should be actively encouraged. It is necessary for such a relationship to remain in secret: Baron Hugo would certainly not approve (see later), and it is possible that the character's covenant might not look too kindly on their *sodalis* either — a dalliance with a noblewoman could bring the wrath of her father against the Order, in contravention of the Oath of Hermes. This could lead to further stories.
 
-#### **A Lukewarm Response**
+#### A Lukewarm Response
 
 The character chosen by Hannelore may remain unswayed by her attentions. This makes little difference to the plot, since the action revolves around Hannelore's attempts to win the love of a man who is beyond her reach anyway. However, if the storyguide wishes to involve the magus in a few more preparatory stories before moving on to the main action, it might be that a faerie seeks to bring the star-crossed lovers together through its meddling. Taking the role of a hideous creature, it kidnaps Hannelore, and
 
@@ -3671,7 +3671,7 @@ Note that Hannelore has one more Flaw point than Virtues at this age. If she had
 
 sends a ransom demand to her reluctant swain, reasoning that if her beau is motivated into rescuing her from the clutches of a monster, then love might blossom (it works like that in stories, after all!).
 
-#### **Rejection**
+#### Rejection
 
 If the character rejects Hannelore out of hand, things end as badly as if the character had strung her along and then rejected her. See Ending the Affair, later.
 
@@ -3679,13 +3679,13 @@ If the character rejects Hannelore out of hand, things end as badly as if the ch
 
 Although Hannelore might be an enjoyable dalliance for the character, the affair is not destined to last. There are a number of things that could drive a wedge between Hannelore and her lover, and these should be presented as challenges to the relationship. However, it is not necessary for the story for the affair between Hannelore and the character to end, and it is best left to the character to decide the course of the affair for himself.
 
-#### **Ending the Affair**
+#### Ending the Affair
 
 Hannelore is very demanding. She has grown up on a diet of courtly romances, and expects to be wooed. This is likely to prove to be a nuisance to a magus, whose studies and laboratory activities will be interrupted by her visits and the amount of time she expects to spend with her love. There isn't a lot of time in the life of many magi for being an attentive lover.
 
 It is possible therefore that the magus targeted by her obsession eventually spurns her. She will not take the first refusal seriously, and will pester the magus in person and through correspondence. If he holds firm, she turns petulant, and might seek some petty revenge against him, such as attempting blackmail (if she has any leverage), or persuading some noble's son to defend her honor. Such threats should be a minor nuisance to the magus, and easily dealt with. Hannelore seems to acquiesce to the situation, leaving him in peace.
 
-#### **Forced Apart**
+#### Forced Apart
 
 A major impediment to the relationship is Baron Hugo. He loves his daughter dearly, and certainly does not approve of her chosen. He has doubtless heard some unsavory stories about the magus, and has a low opinion of him as being suitable for his darling daughter (Hugo has none of his daughter's immunity to the effects of The Gift). He intends to find an attentive and wholesome groom for his daughter, one who could strengthen his ties to important people. When he discovers that Hannelore has been pursuing a magus, he does his best to break them up. There is further pressure on the relationship — most magi have no recognized social status, and yet Hannelore is the daughter of a nobleman. If the affair became public, it might sour any relationships that the covenant has with mundane society, since those who cross social boundaries are treated with suspicion.
 
@@ -3744,7 +3744,7 @@ Hannelore waits until the character is alone before visiting him. She uses her m
 
 The actions of the character determine what happens next.
 
-#### **The Magus Rejects Hannelore**
+#### The Magus Rejects Hannelore
 
 If the magus recoils in horror, rejects her, or reacts in a violent manner, Hannelore screams in rage, but tries to escape rather than attack, delaying if she can so she can dissolve her corporeal form once more (this takes three rounds). If she has the opportunity, she tries to acquire an Arcane Connection, such as a favored piece of clothing or even a handful of hair, which becomes immaterial when she changes form.
 
@@ -3755,7 +3755,7 @@ If her maleficium works, she is able to control the character through lust. She 
 
 If the character was lured to Baron Hugo's house alone, then he could be a slave to Hannelore's desires indefinitely — or at least until his sodales become sufficiently suspicious of his prolonged absence to investigate his whereabouts. Hannelore renews her maleficia as necessary to keep her captive under her power, and may try more powerful versions of the Psychomachia Infernal Power to control her love. Perhaps it is a botched attempt at one of these spells that allows him to finally break free.
 
-#### **The Magus Plays Along**
+#### The Magus Plays Along
 
 Rather than recoiling from Hannelore, the character may instead decide to play along with her in an attempt to get more information. She cheerfully relates how she has murdered the suitors chosen by her father, through curses or through nighttime visitations like this, all in the name of her love. She admits to fantasies about killing her father, since he is trying so hard to drive their love apart.
 
@@ -3862,7 +3862,7 @@ When everyone is inside, she bars the doors and sets fire to the building. She h
 Hannelore herself is standing outside the building, watching it burn. She has protected herself from fire using *Clothed in the Dragon's Scales*, and may well cavort within the flames and taunt her opponents as they attempt to get out. If anyone manages to escape, she is ready with a knife to dispatch them, although she may have called in some of her allies, demonic and otherwise (as earlier), if the characters are competent in a fight. She would dearly love to personally put a knife in the hearts of her father and her betraying lover,
 
 
-#### **Escaping a Burning Building**
+#### Escaping a Burning Building
 
 Fire is a primal fear, and being trapped inside a burning building with a group of panicking people is one of the surest ways of dying. The first peril is the smoke, inhalation of which imposes Deprivation rolls (**ArM5**, page 180). At first, these rolls are made every 30 seconds (5 combat rounds), but as the smoke thickens, the frequency increases to every round. A wet cloth in front of the face adds +3 to all Deprivation rolls against smoke inhalation.
 
@@ -3884,7 +3884,7 @@ Since Hannelore has barred the doors from the outside, characters need to force 
 
 The characters should not forget about Baron Hugo. He is also inside the tavern, and if they save his life, they might further cement their alliance with this influential nobleman, or repair a damaged relationship.
 
-#### **Timeline of the Fire**
+#### Timeline of the Fire
 
 A typical timeline of the encounter at the tavern is given nearby. Remember that if the characters do smell smoke, it might take them several rounds to discover that the building is on fire. If it is during the day, the rolls to notice the smoke are increased by +3 because the cooking fire masks the smell of the tavern burning. If characters are asleep, the Ease Factor for their rolls to notice the smoke is increased by +9.
 
@@ -4189,13 +4189,13 @@ In the first stage of the cult's development, the demon Abaissier finds at least
 
 Fabrico, at this stage, is spreading prophecies of the coming of the Antichrist and the end of the world. These prophets are not Abaissier's charismatic cult leaders: they are a separate class of dupes. Their bleak message does, however, make people more receptive to Abaissier's solution to the problems of the world.
 
-## **Story Seed: A Traitor, an Ambush, and an Easy Win**
+## Story Seed: A Traitor, an Ambush, and an Easy Win
 
 A local bandit group causes the player characters difficulty, by targeting merchants or Redcaps. One of the senior members of the group approaches the player characters. He claims that he has been visited by an angel, and told to separate himself from sinners. After he aids the characters to ambush his erstwhile companions, he leaves to become a preacher and to expiate his sins. He may return in later story seeds, as a follower of the flagellant cult.
 
 ### Antagonists
 
-#### **Story Seed: Demonic Attack**
+#### Story Seed: Demonic Attack
 
 Abaissier enjoys the evil spread by his little cults, and is unwilling at first to allow them to draw the attention of the Church. When one of his charismatic leaders begins proselytizing for the cult, Abaissier destroys that cult cell. If the player characters or members of the Church notice this, they may assume that the flagellants are on the side of the angels, since they have been assailed by the forces of Hell. Members of the cell who survive, particularly if they are given positions of trust as such obviously pious people, will be contacted later by Abaissier through other servants to use them as agents.
 
@@ -4205,7 +4205,7 @@ Once Abaissier's preachers are recruited, he needs communities to become vulnera
 
 At this stage of the cult's development, more public flagellants become active, across a broader area. These are not harmed by the plague, and their eloquence attracts followers. At this stage, followers are not asked to whip themselves, but instead to pray, fast, and perform other acts that are entirely within the doctrine of the Church. Some of these gatherings, made up of pious people doing pious things, create temporary Dominion auras.
 
-#### **Crop Failure**
+#### Crop Failure
 
 In some areas, crops periodically fail for a few cycles for purely natural reasons, and Abaissier's preachers simply take advantage of this. In others, where a crop has already failed, Abaissier takes advantage of this opportunity by sending mundane raiders, commanding small demons to rot seed corn, and encouraging arsonists.
 
@@ -4243,7 +4243,7 @@ thusiastic +6.
 
 **Abilities:** Awareness 4 (foes), Brawl 6 (feet)
 
-#### **Powers:**
+#### Powers:
 
 *Coagulation*, 3 point, Init –1, Corpus: This allows the demon to manufacture a solid body from the ambient, unformed matter of the universe. See Appearance for details.
 
@@ -4255,15 +4255,15 @@ thusiastic +6.
 
 mundane wealth. They can track down local sources of harm and prevent them from making the situation worse. At this early stage, the magi are unlikely to connect the problems to Abaissier.
 
-#### **Plague**
+#### Plague
 
 Large cities are more difficult to attack with crop failure, but the cult's development, at this point, is aided by the schemes of a third demon, Bufonia. She teaches her minions to make poisonous concoctions, and pour them into wells in major cities. Her human servants can make a number of different mixtures, which cause a variety of sicknesses, but for this plague, the ingredient required for each potion is a human heart, preferably from someone who has died of the plague.
 
-#### **Ruining Reputations**
+#### Ruining Reputations
 
 In other areas, the demons strike at the reputations of the community's leaders. They publicize venal sins and falsify evidence of terrible crimes. The demons do this through mortal puppets, whom they can kill or ignore (breaking the connection between demon and puppet) to cover their tracks. Player characters may take advantage of this to tear down local rivals.
 
-#### **Story Seed: Protecting Crops**
+#### Story Seed: Protecting Crops
 
 The player characters may be able to survive the crop failure by shipping in supplies and leaving the mundanes to fend for themselves. They may instead choose to save their local community. The magi may feed nearby towns magically, or by using
 
@@ -4279,7 +4279,7 @@ For those using the disease rules on pages 47–50 of *Art and Academe*, Bufonia
 
 
 
-#### **Story Seed: Plague And Rumor**
+#### Story Seed: Plague And Rumor
 
 Player characters who find the people poisoning the wells, and prevent them delivering further doses, allow the plague to burn out at its own pace. They may also be hired to investigate the source of rumors. If potentates who have been smeared send followers to attack those they imagine responsible, the player characters may want to mediate.
 
@@ -4291,7 +4291,7 @@ Religious processions are not unusual in Mythic Europe, but flagellant processio
 
 If the processions are opposed, the participants become furious. They begin to believe that worldly powers are corrupt and working against them. If they are not opposed, the processions gain popularity. Local churchmen, worried by the processions, oppose them with processions of their own, dedicated to local saints.
 
-## **Story Seed: Counter-Demonstrations**
+## Story Seed: Counter-Demonstrations
 
 The counter-demonstrations that local priests arrange are targets for Infernal influence. Player characters can protect these processions. At this stage, the Infer*Malicia*
 
@@ -4358,15 +4358,15 @@ To create individuals who have been possessed, take any suitable grog or compani
 
 Once the processional movement has started, Abaissier spreads the ideas behind the cult. He does this by inspiring waking dreams and visitations, encouraging bards, and having followers speak with pilgrims. Redcaps notice this strange proliferation of information, with its many points of origin, and are alarmed by it. They discuss it with friendly covenants, but have no firm idea what is causing it.
 
-#### **Fabrico and Abaissier Clash**
+#### Fabrico and Abaissier Clash
 
 Fabrico notices the flagellant movement at this time, and claims parts of it. His followers clash with those who follow Abaissier. In limited areas, groups of flagellants fight in the streets. Player characters can limit the damage this causes. Eventually the two demons fight, and one overpowers the other, making him a vassal. The battle between two powerful demons may be reported by seers, particularly those claiming that disaster looms.
 
-#### **Uniforms**
+#### Uniforms
 
 At this time, Abaissier's flagellants in the areas near the covenant begin wearing uniforms. These are undyed robes of wool or cotton, with a red mark on the breast. Characters can track the source of these. They are a charitable donation from a nobleman. He has been visited by an angel. It commanded him to distribute these clothes as alms, in penance for a disproportionately terrible crime he committed. Tracking the shipments the nobleman has sent allows the player characters to identify the gathering points for many of the local flagellant cells.
 
-## **Story Seed: Attacking the Local Leaders**
+## Story Seed: Attacking the Local Leaders
 
 If the characters know who the leaders of the local movement are, they can reduce its influence. They may do this with assassination, imprisonment, spiritual disputation, smear campaigns, or removal of resources. Alternatively, the player characters can give the names of the leaders to others. Moderate churchmen can separate the leaders from their followers, and hold them incommunicado. Nobles who have been ridiculed by flagellant leaders take more direct measures.
 
@@ -4374,22 +4374,22 @@ If the characters know who the leaders of the local movement are, they can reduc
 
 Once the two demons are collaborating on the flagellant movement, it becomes increasingly popular. Processions lasting 33.5 days, one day for each year in Jesus' life, begin to occur. False miracles are performed, and news of them spreads. Processions can have a thousand participants, of both genders and all ages. Many people who do not participate in the processions nonetheless support the movement.
 
-#### **Flagellant Songs**
+#### Flagellant Songs
 
 Flagellant songs, a sort of call and response chant to which people whip themselves, are invented. The idea develops that whenever Christ is mentioned in the songs, the pilgrims must abase themselves, by flinging themselves to the ground. In practice, this means that, at the mention of the name of Christ, the pilgrims cover themselves in dirt, blood, and animal droppings.
 
-#### **Story Seed: Silencing Songs**
+#### Story Seed: Silencing Songs
 
 Companion and grog characters can help slow the spread of this movement by disrupting the spread of the flagellant songs. Player characters may compose highly amusing ballads, which bards prefer to learn and carry to perform in other places. This requires a stress die + Communication + any appropriate Ability roll against an Ease Factor of 15. They may
 
 
 Magi who realize the importance of the songs may equip their servants with magic items that remove the songs from memories. The Quaesitores keeps a few of these items, to tidy up after magi have interfered with mundanes. The Redcaps also have similar items, used in rescues and for espionage. Player characters can negotiate for the loan of these items, although the Quaesitores need more convincing than the Redcaps.
 
-#### **The Problem of Superabundant Suffering**
+#### The Problem of Superabundant Suffering
 
 Minor sins become common in the processions. People become proud of their filthy, bloody uniforms. They neglect their attendance at Sunday services. They believe that their sins are forgiven due to their suffering, and that the superabundance of their suffering is saving the world. This suggests to some of them that, provided they continue their flagellation, they can commit other crimes with moral impunity.
 
-## **Story Seed: Preventing Sins by Nobles**
+## Story Seed: Preventing Sins by Nobles
 
 A flagellant noble estimates his own suffering to have such high value that, now he has beaten himself bloody for a week, he is perfectly justified in seizing a nearby widow and her lands by rape and forced marriage. The player characters may intervene to gain the widow as a noble ally. The attacker's personal guards are also flagellants, and similarly believe that they have suffered so much that they can do all kinds of depraved things without threatening their place in Heaven. This includes using peasants as human shields, and exhuming the corpses of babies to cause terror in their enemies.
 
@@ -4401,13 +4401,13 @@ Some other flagellant nobles might, however, become valuable allies to the coven
 
 At this stage of their plan, the collaborating demons begin to use the processions themselves as vehicles of sin.
 
-#### **Plague Carried By Processions**
+#### Plague Carried By Processions
 
 Fabrico makes false relics that emit the evil airs that cause disease, but also ensures that the flagellants have access to an antidote, so that they do not fall ill. Lengthy flagellant pilgrimages leave sickness and death in their wake. The incubation period of the plague is long enough that the flagellants can claim that their presence held off the plague until they left. False visions keep the flagellants fervent. False miracles and bogus relics make spreading their word, and Fabrico's plague, easier.
 
 At this point, the processions still have support from some sections of the Church. Most of the Church, however, knows that something has gone wrong with the flagellant movement. Counterprocessions become popular, but these suffer disruption by supporters of the flagellants, and by the demons who nip at the heels of all processions. The belief among flagellants that you can sabotage a traditional procession, and then make it good with God through flagellation, becomes widespread.
 
-## **Story Seed: Plague-bearing Processions**
+## Story Seed: Plague-bearing Processions
 
 The player characters may oppose the processions, if they notice that they are tainted,. In some areas, city authorities discern that, far from dispelling plague, flagellant processions seem to herald its arrival. If the player characters can spread the word of this, towns begin to close their gates to the processions.
 
@@ -4419,11 +4419,11 @@ In some other areas, pious people, aided by their saints, resist the flagellants
 
 Abaissier knows that God will eventually destroy its cult. The demon decides to do as much harm as it can, pushing its followers into open heresy. Abaissier lets Fabrico do whatever he likes, knowing that this makes its patsy more visible.
 
-#### **Replacement of Sacraments**
+#### Replacement of Sacraments
 
 Many flagellants now believe that their activities replace sacraments. This allows them to work off sins, and to forgive the sins of others. This gravely exacerbates the problem of people thinking that they can perform sins, and then flagellate themselves pure again. Once people begin believing that flagellants can transfer their virtue voluntarily to others, this causes even greater trouble. Wealthy sinners offer money to the flagellants in exchange for their forgiveness, a transaction that counts as the sin of simony.
 
-#### **Story Seed: Simony**
+#### Story Seed: Simony
 
 Player characters can reduce the harm done by the many people who believe they found a loophole in the laws of morality. Simony affects merchants, who have more coin than most other classes of society.
 
@@ -4434,17 +4434,17 @@ the night. A group of grogs can determine who it is before he targets merchants 
 
 Another merchant begins mixing adulterants into the bread he sells in the market. This is pretty common practice, but some adulterants, like ergot-infected wheat and chalk, cause sickness. As people sicken, the characters notice that all the victims have bought food at a particular place. Characters with criminal connections can discover the merchant by seeking out the sources of his adulterated flour. As the merchant has fallen more deeply under the influence of the flagellant cult, his demand for adulterants has risen to such an extent that local criminals know his Reputation as a bulk buyer.
 
-#### **Claiming Miracles**
+#### Claiming Miracles
 
 The leaders of the cult start publicly performing miracles. This cannot occur in towns, where the Dominion is too strong, and cannot be regular, because the demons have only so much Might to spread among their followers. As the Church, nobility, and magi attack the flagellants, some of these leaders are removed, and the fewer there are, the more regularly each can perform miraculous feats.
 
-## **Story Seed: Attacking False Prophets**
+## Story Seed: Attacking False Prophets
 
 Characters who conclude that all of these prophets are being powered by a single demon may decide to strike at several simultaneously. This is an excellent strategy, because although the most powerful demons can move swiftly from place to place, they simply can't be everywhere, in their full power, at the same time. Individual magi may attack individual false prophets, or the magi can form a network of alliances, and send their allies against some of the others. Unless the characters take intricate precautions, a large alliance is likely to be perceived by a minor demon, allowing the targets to prepare.
 
 The greater their success, the weaker the flagellant cult is in the characters' region. If the cult is shattered in the region around the covenant, this region becomes a centre of resistance to the flagellant movement. It is a staging area for crusaders, but does not suffer invasion, during the later phases of the scheme. If the covenant has co-ordinated the destruction of the cult in this area, it can use the influence this grants it to protect a few covenants in areas that the crusaders invade.
 
-#### **Blood–Soaked Rags**
+#### Blood–Soaked Rags
 
 Many flagellants are, by this stage, heretics, but Fabrico spreads the heresy more widely. He uses his powers to make false miracles, and spreads the idea that rags soaked in the blood of flagellants are relics. Many of the users of these relics are women, and they are generally activated by wiping the blood into the user's eyes.
 
@@ -4452,17 +4452,17 @@ Many of those who have performed this ritual believe they have developed a Divin
 
 The blood on the rags may also be poisoned, which further spreads plague. In some flagellant groups, Bufonia exhorts followers to make these relics. She gives them a special "holy oil" to sprinkle over the rags, and then encourages her victims to protect their communities by throwing the rags into wells and storing them in granaries.
 
-#### **Story Seed: Manufactory of Bloodied Rags**
+#### Story Seed: Manufactory of Bloodied Rags
 
 Grogs and companion-level characters can patrol towns, removing these infected cloths, and investigate who is planting them. Arranging groups of locals to covertly watch neighborhoods and drive away rag-spreaders is an effective countermeasure to this strategy of the cult.
 
 In the local area, the player characters may uncover and destroy a secret manufactory for these cloths. It is an abandoned building where flagellants take turns whipping themselves while seated on a floor covered in filthy bed sheets. Another acolyte cuts the sheets into palm sized pieces at the end of each day. These are then taken away, and sprinkled with "holy oil." The rags are smuggled to supporters in nearby towns for distribution. If the player characters attack this site, bodiless demons possess the acolytes, assisting them in combat, and then animating their bodies after death.
 
-#### **Letter From an Angel**
+#### Letter From an Angel
 
 Some groups of flagellants begin to read a letter, said to be delivered by an angel, before each procession. The letter is a false relic. It makes it easy for the procession to find passage around obstacles. It also contains unclear and symbolic passages. Fabrico uses these to direct his followers, by placing these marks and signs in the places they come to, signaling that they should destroy, occupy, or venerate a thing.
 
-## **Story Seed: Forging Notes From God**
+## Story Seed: Forging Notes From God
 
 Player characters who discover what is written in the angelic letter can use these signs to confuse the flagellants and frustrate their leaders. Even those who have been personally visited by angels cannot countermand a letter written by God himself and delivered by his messenger. In some groups, the contents of the letters change occasionally, to give new directions once earlier goals have been achieved. Magi can take advantage of this by composing new instructions. Forgers require an original letter to copy and the materials to be included in the copy. They must make an Intelligence + Finesse roll or a Dexterity + Craft roll against an Ease Factor of 9.
 
@@ -4472,13 +4472,13 @@ The leader of a flagellant group is likely to obey the instructions, but will ob
 
 them more zealously if they are in a tone similar to those he has already received: they must stoke his Pride. This meddling certainly bring the magi to the attention of Fabrico. He may not report their meddling to Abaissier, if he thinks they are useful allies against his master.
 
-#### **Back From the Dead**
+#### Back From the Dead
 
 Abaissier and Fabrico craft complicated visions in which some of the leaders of their groups die, but are then restored to life by praying to, and through the power of, their angels. These are simply complicated waking dreams, but the servants do not realize it, particularly once they are told they have been resurrected for a special purpose, because they are so close to the heart of God. Only one leader in each geographic area is given this treatment: the demons would prefer each thought himself uniquely blessed, or at least the first to be so blessed.
 
 Characters who believe they have been returned from the dead are told they are saints, and may ordain priests, outside of the Church hierarchy. At the point where false priests are being ordained, all support for those groups of flagellants within the Church is destroyed. The Church rapidly decides to eliminate them, with armed force if necessary.
 
-#### **Story Seed: Removing the Saints of Flagellation**
+#### Story Seed: Removing the Saints of Flagellation
 
 When the false saints begin to create false priests, it is obvious to anyone with the tiniest understanding of the Church that reprisal is inevitable. Player characters who become aware of the false ordinations know that desperate action may be required. Individual false saints can be detained or killed, which shifts the Church's focus to other areas.
 
@@ -4496,7 +4496,7 @@ Some flagellant groups oppose the false saints. This group of flagellants retain
 
 Some nobles who are already on poor terms with the Church side with the false saints. Other nobles are able both to follow the flagellants (and so ignore many of the Church's decrees), while retaining some link to the Church by making war on the nobles who shelter the false saints. Similarly, parts of the Order support the "loyal" flagellants.
 
-#### **Story Seed: Discrediting Loyal Flagellant Groups**
+#### Story Seed: Discrediting Loyal Flagellant Groups
 
 Player characters can disrupt the rest of the cult by finding proof that the opposition to the false saints is a strategic pose. They can do this in several ways:
 
@@ -4512,7 +4512,7 @@ the demons that they are saints. If captured and put to the question by churchme
 
 The demonic collaborators can revive the cult by finding the remnants of destroyed cells. The devotees are told that they have passed a test from God, and that their suffering has brought them close to the heart of God. From these groups the demons, either collaboratively or singly, seek to create new secret societies, beginning the entire cycle again. This may also lead to further feuding between the two demons, when Abaissier discovers some of Fabrico's cults.
 
-#### **Story Seed: Cult Revival**
+#### Story Seed: Cult Revival
 
 If the player characters detect these groups, they can deal with them personally, or report them to the Church If they deal with them personally, the characters discover leads which allow the demons to be confronted. If they report the cells, then the Church eliminates them, and the player characters develop stronger ties with the local Church. The demons may treat the player characters as enemies, avoid risking resources near them in future, or both.
 
@@ -4521,13 +4521,13 @@ If the player characters detect these groups, they can deal with them personally
 
 The following story ideas can be used at any stage in the development of the flagellant cult.
 
-#### **Attacking the Pious**
+#### Attacking the Pious
 
 There are many pious monks, even saints, who are flagellants. Once the player characters have shown themselves to be enemies of the flagellant cult, Abaissier attempts to trick the player characters into attacking the truly pious. Player characters can tell truly pious flagellants by their other actions, and by their attitude toward flagellation. Flagellation used moderately, voluntarily or as prescribed by a bishop, and which is treated as a punishment or used as a way of focusing the attention, rather than a way of earning merit with God, is permitted. Penances that are done *instead of* atonement are not permitted.
 
 If the player characters avoid the snares of the demons, the pious allies they create may be useful. Some can dispute with the leaders of the flagellants. Others can teach common flagellants their errors, and draw them back to the Church, or even into monastic life.
 
-#### **Angering Rival Demons**
+#### Angering Rival Demons
 
 Widespread movements like this wash over and destroy the plots of other demons. This has bought Abaissier potent enemies. If the storyguide wishes to make the cult more difficult to defeat, these can be suborned by Abaissier, much like Fabrico, and made into fractious lieutenants.
 
@@ -4862,7 +4862,7 @@ The prior is one of three kinds of man. One, he's a sincere man inspired by a mi
 
 Priors act in the abbot's stead, performing any tasks deemed necessary. They handle interaction with outside officials, supervision of monks, operations of the abbey, and any other activities directed by the abbot. This prior might be friendly and genial, brusque and perfunctory, or distant and calculating. He may be the loyal gatekeeper or the scheming manipulator, but he performs his duties as prior with excellence.
 
-#### **Story Seed: The Traitor Within, The Traitor Without**
+#### Story Seed: The Traitor Within, The Traitor Without
 
 The dragon cannot change its shape, although it can squeeze and contort his shape to fit through doorways, and so several of the monks know their new abbot is an unnatural creature. It's also true dragons are widely considered symbols of evil in most of Europe. Despite both Rasa's miraculous transformation and the epiphany that saved their home and lives through the previous abbot's sacrifice, a member of the abbey decides there is no way the creature truly changed its nature. After a monk discovers the abbot is a dragon, he decides the beast must be in league with Hell — after all, it ate the saintly abbot — and runs to the magi for help. This churchman might bring along extensive descriptions, Arcane Connections, or even (possibly incorrect) details of the dragon's plans. He might remain with the covenant, assisting with further planning and operations or acting as the constant reminder of the threat lying unresolved within the abbey. Or the monk might return to the abbey, playing the part of a double agent and inside man, feeding them more information and lying in wait for the magi to attack and finish the dragon's rule.
 
@@ -5012,7 +5012,7 @@ Spells that affect faeries are less interesting to her than others, because she 
 
 If the suggested frequency or number of encounters does not suit a saga, its players should, of course, alter the Queen's plan.
 
-#### **Preliminary Encounters and Necessary Symbols**
+#### Preliminary Encounters and Necessary Symbols
 
 Before the Queen of Gold and Glass can usefully provoke the magi, she must complete two tasks.
 
@@ -5022,7 +5022,7 @@ First, the Queen must mark the magi as her protagonists, by a story event. She d
 
 Faeries in **Ars Magica** are not like the monsters in most roleplaying games. They are living story elements. This has effects that new players need to be aware of.
 
-#### **Faeries Cannot Think Like People**
+#### Faeries Cannot Think Like People
 
 It's important to remember that the Queen needs to do certain things, even if they are ill advised, because she is not a human being. In the same way that a banshee must predict the death of her descendants rather than prevent it, or a brownie given a suit of clothes must pick them up and leave the house they were offered in, the Queen must perform her role. She has no more choice than a rock has about whether to fall.
 
@@ -5039,7 +5039,7 @@ Players, and their characters, are meant to notice that the Queen does not act l
 
 Players are meant to enjoy this, and, during these stories, add elements of their own that suit her theme. Players suggesting that a key taken from a faerie should, in this story, fit any lock, or that their foes should die in a shower of coins, should be rewarded for their insight. Groups that prefer a more historically realistic style of **Ars Magica** can instead reward players who note and use other tropes from period stories with dispensers of labors.
 
-#### **Faerie Powers**
+#### Faerie Powers
 
 When calculating the cost of Faerie Powers, Hermetic magic is used as a guide, but many levels differ, as noted in *Realms of Power: Faerie*. These differences come from three main sources.
 
@@ -5053,7 +5053,7 @@ Highly cognizant faeries — those who know that they are spirits that require h
 
 
 
-#### **Attribute Duplication**
+#### Attribute Duplication
 
 *Several Major Virtues (Supernatural)*
 
@@ -5061,7 +5061,7 @@ This miscellaneous package of Virtues allows the Queen to use the non-Hermetic p
 
 This Virtue package is not suited for player character faeries.
 
-#### **Supernaturally Fragile**
+#### Supernaturally Fragile
 
 *Major Flaw (Supernatural)*
 
@@ -5169,7 +5169,7 @@ nounce a single word of their choice. She has faerie treasure and valuable infor
 - A faerie offers the characters hospitality, taking binding oaths she will not harm them while they remain in her home. She offers a safe bed, food, and wine. Afterward, she takes their bathwater to her mistress. She also takes the shaven stubble from the cheeks of the magi, if she can. The hostess is content that she, personally, does the characters no harm.
 - A fisherman reports someone acting strangely downstream from the covenants, casting nets but freeing any fish captured. This is a simple country lad, sent by a faerie to cast his nets in the waters for a year, and bring back what is drawn up. So far, the net isn't catching anything, according to the human pawn. Magi examining the net carefully will, however, find that it is capturing human hair that is leaving the covenant as part of the refuse that is poured into the river.
 
-#### **Careful Selection of Minions**
+#### Careful Selection of Minions
 
 The Queen calibrates her challenges to suit the power of the magi. Sometimes her estimations are wrong, but generally her weaker minions face younger magi or mundanes, and her more powerful servants are reserved for senior magi. Characters who discover that many of the events in their lives have been orchestrated by a single antagonist may conclude that either their foe is becoming more powerful over time, or that the foe is deliberately not using overwhelming force during their encounters.
 
@@ -5183,7 +5183,7 @@ The challenges here are presented in alphabetic order by Art, but storyguides sh
 
 The Queen of Gold and Glass does not challenge the magi to use Vim or Imaginem spells. As a spirit she is a mistress of Vim magic already, and does not want her minions to have powerful spells to cast against spirits such as herself. Faerie glamour and Imaginem are, in some sense, related. She is not familiar with the subtler uses of this Art, so she sees no reason to challenge the player characters in Imaginem. The examples given below are simply suggestions: the storyguide should tailor the challenges to fit her troupe's magi.
 
-#### **The Frame of Gold**
+#### The Frame of Gold
 
 After each challenge is overcome, the characters may discover what appears to be a piece of gilt picture frame. Intellego Vim spells can determine that it is made of faerie glamor, but does not include useable vis. When placed between two mirrors, the completed frame becomes a corridor that leads to the Land of Gold and Glass. In this form it is a complete faerie, and contains 8 pawns of Rego vis. If the players lose or destroy a piece, that doesn't matter; the Queen arranges for a replacement if she wants the characters to visit her realm. Storyguides wishing to stretch this story further may make quests for the pieces of the frame into separate stories. Instead of finding the frame pieces at the end of each of the Queen's stories, the player characters instead discover clues that assist them to find each piece.
 
@@ -5192,7 +5192,7 @@ The frame is not a mortal object. It is a Threshold Guardian, a faerie creature 
 
 the frame, as parts of a faerie, can sense their surroundings, communicate with each other, move when they are not being watched, and subtly manipulate their surroundings. Each piece can also alter the dreams of any person lacking Magic Resistance who verbally identifies herself as the piece's owner. The pieces also trick their owners into proximity, so that they can be bought together.
 
-#### **Animal: The Plague of Animals**
+#### Animal: The Plague of Animals
 
 A plague of small creatures, unnatural to the area about the covenant, is loosed by the Queen's Hazy Servants (described near the end of the chapter). The animals are destructive to the area's agriculture, so they must be dealt with. Some of these animals, marked by a different color, contain a small amount of vis. Other versions of the creatures are gigantic in size, and ferocious, even if their species is generally docile. These huge variants do not contain vis.
 
@@ -5210,7 +5210,7 @@ ies. Natural animals can cross the *Aegis of the Hearth* and infest the covenant
 
 Deep in the guts of one of the larger versions of the creatures, the player characters might discover a chunk of what appears to be gilt picture frame.
 
-#### **Aquam: Unprecedented Flood**
+#### Aquam: Unprecedented Flood
 
 The Queen's servants cause a flood by placing mirrors in the bottom of a major river, and allowing its waters to flow through reflective surfaces in a small town near the covenant. Characters can stem the tide by smashing the reflective surfaces, although some are difficult to approach due to the force of the water surging from them. Even after the characters stem the flow of new water, the remaining floodwaters need to be dealt with, as the damage they cause to buildings and crops increases the longer the land remains saturated.
 
@@ -5218,7 +5218,7 @@ The Queen's powers can't easily penetrate the *Aegis of the Hearth*, so the rivu
 
 After the flood subsides, the characters may find a piece of gilt-edged frame in the body of a huge sturgeon, lying at the high point of the flood.
 
-#### **Auram: Sickening Vapors**
+#### Auram: Sickening Vapors
 
 The people of a village near the covenant begin to sicken. After an investiga-
 
@@ -5231,7 +5231,7 @@ In this story, the Smoothfaces wish to keep the Gifted child. They think the chi
 
 Smoothfaces are best created by taking another character, which the smoothface is pretending to be, and altering it slightly. Add 10 Might, the Virtues and Flaws below (or add Infiltrator if appropriate), Personality traits, Powers, and Vis. So, as an example, the Basic Soldier from **ArM5,** page 22, becomes:
 
-#### **Basic Soldier Smoothface**
+#### Basic Soldier Smoothface
 
 Smoothfaces can be player characters. The example given here needs higher Characteristics and six Minor Flaws to balance. Its player might also consider the Damaging Effect power.
 
@@ -5273,7 +5273,7 @@ tion, the player characters determine that sickening air is being released by a 
 
 The player characters can treat those who have become ill. Magi can create breezes that disperse the cloud of sickening air that has formed over the village, and sweep the fumes out of the village's recesses. The magi can remove the threat caused by the well permanently either by making covers for it so that its surface is never struck by light, by casting a spell that has a similar effect, by removing a piece of gilt frame that is buried in the sediment at the bottom of the well, or by lowering an intact mirror into the well.
 
-#### **Corpus: People are Corpus, Too**
+#### Corpus: People are Corpus, Too
 
 For this challenge, the Queen doesn't need magic: she just needs money. Her servants hire bands of pirates, rogues, and thieves to terrorize the roads and ports around the covenant. Afterward the Queen is likely to be disappointed. Corpus magic doesn't work the way she thinks it does: magi don't need to use it to fight people just because people are of the form of Corpus.
 
@@ -5283,7 +5283,7 @@ After defeating a particularly skilled and well-supplied band of cutthroats, the
 
 
 
-#### **Herbam: Stolen Child**
+#### Herbam: Stolen Child
 
 The Queen sets this challenge in a forest in the hope it will force the player characters to do interesting things with the wood that surrounds them. One of her servants, the Distinguished Herald, kidnaps a Gifted child, and gives it to a troop of smoothface faeries as a gift. The servant then spends some time among mortals gossiping the news that a baby has been stolen by the faeries, and that the child could do a minor magical trick. This trick could be anything — poke his finger through stones, float in the air, change the color of his eyes when he burps — so long as it marks the baby as Gifted and sparks the interest of the magi, when their companions, hearing the tale, bring it to their attention.
 
@@ -5291,11 +5291,11 @@ Although the smoothface faeries are weaker than the Queen, and are enemies for t
 
 If the characters return the baby home, they find a piece of gilded frame in the baby's crib.
 
-#### **Ignem: The Ice Wyrm**
+#### Ignem: The Ice Wyrm
 
 The Queen's servants capture an icy wyrm and transport it, using mirrors, to a secluded spot near the covenant. The creature causes the surrounding seven miles to gradually freeze, forcing the characters to seek it out. Fire magic is the most efficacious defense against the wyrm and the environmental difficulties its presence creates. A piece of gilded frame is hidden in its small hoard of shiny treasures.
 
-#### **Mentem: The Obvious Liar**
+#### Mentem: The Obvious Liar
 
 The Queen sends a servant to hire an actor, who appears at the covenant pretending to be a merchant seeking his lost son. The man he is pretending to be is actually dead: he was killed by one of the Queen's Distinguished Servants. The actor's tale of woe recounts his son vanishing while at a
 
@@ -5356,7 +5356,7 @@ The player characters eventually see through the actor's ruse. If they capture h
 
 The piece of gilt frame for this story is being held by the nearest church as a deodand. A deodand is any object that has killed a person, which is sold and the money raised either given to the person's family or kept by the church, depending on the scrupulousness of the local clergy. The local priest believes the frame was used to bludgeon a missing pilgrim to death.
 
-#### **Terram: We Did This Already!**
+#### Terram: We Did This Already!
 
 The Queen is not truly capable of original though, which is demonstrated here. She uses exactly the same challenge as for the Herbam story, but uses faeries who dwell in a mine as her dupes. This replication may tip off the player characters that the two stories have been directed by an external force.
 
@@ -5367,13 +5367,13 @@ The Queen does not mind if her tricks are detected, once she has the symbolic ob
 
 The Queen gives the characters the pieces of frame so that her manipulations are clearly identified. After the second piece is found, it should be clear to the player characters that the two stories are connected in some way.
 
-#### **Noticing That Stories Match Their Skills**
+#### Noticing That Stories Match Their Skills
 
 Other victims of the Queen's schemes may cross paths with the player characters. During one of the current schemes, "The Obvious Liar", the Queen's servants introduce the characters to one of her other victims. Meeting other victims, and hearing their stories of repeated challenges that test their developing skills, gives a hint as to the motive of their persecutor.
 
 Skilled questioning of another of the Queen's victims (Communication + any appropriate Ability against an Ease factor of 15) reminds the character of the event in which his symbolic object was taken. This allows player characters to search their memories, and make appropriate rolls to recall their own first encounter.
 
-#### **Detecting the Queen's Agents**
+#### Detecting the Queen's Agents
 
 The Queen's servants are often marked with the symbol of the mirror. Mirrors are
 
@@ -5409,7 +5409,7 @@ The knockers know a great deal about the Queen. Even if the player characters at
 
 **Pretenses**: Athletics 2 (digging), Awareness 2 (hazards underground), Bargain 5 (with mortals), Brawl 6 (fist), Craft (smith) 5 (weapons), Great Weapon 5 (pick, as pole arm)
 
-#### **Powers:**
+#### Powers:
 
 *Guide*, 3 points, Init –3, Mentem. R: Voice, D: Conc, T: Group. Subtly influences the person toward a certain course of action. The knockers use this power to reward good miners, by urging safety or drawing them to ore, and to punish evil miners, by getting them lost in tunnels or leading them into mortal danger. Costs 30 spell levels (Base 5, +2 Voice, +1 Conc, +2 Group)
 
@@ -5419,13 +5419,13 @@ The knockers know a great deal about the Queen. Even if the player characters at
 
 rare and valuable in Mythic Europe, and so highly noticeable. The style of mirror the Queen is thematically linked to, glass backed in gold, has not been manufactured since Roman times, save by Hermetic magi. That aside, gold attracts attention. These rare mirrors are so distinctive that all Awareness rolls concerning them are +3 easier than usual.
 
-#### **Searching for Previous Victims**
+#### Searching for Previous Victims
 
 Once the player characters have noticed that they are being manipulated, and that the symbol of their tormentor is a mirror, they may seek answers in the history of the Order. An Intelligence + Order of Hermes Lore roll against an Ease Factor of 15 recalls or finds an account by a Bonisagus who died centuries ago. She records a previous attempt by the "Queen of Gold and Glass" to make "a faerie like unto a magus, skilled in our Arts, who would be her courtier." If the storyguide wishes, this roll also gives a reference to a rare book describing the Queen's powers and weaknesses. Gaining access to this book, which through bad luck is far away at a reclusive covenant, allows a connected but thematically unrelated story.
 
 An Intelligence + Faerie Lore roll about faeries associated with mirrors also grants information:
 
-#### **Result Information**
+#### Result Information
 
 - 12+ Gives the title of the Queen and notes that her servants can travel through mirrors.
 - 15+ As above, and that her servants are reflections of real people, epitomes of human cultural roles.
@@ -5440,7 +5440,7 @@ The most likely resolutions are that the player characters fight the Queen, or t
 
 The Queen has many subjects, and they rally to her defense.
 
-#### **The Distinguished**
+#### The Distinguished
 
 The Queen has played this game before, creating a class of servants who are faerie approximations of the epitome of a human social role. She has only one of each of these servants. Distinguished characters
 
@@ -5449,7 +5449,7 @@ have a score of 9 in Pretenses (faerie abilities) suited to their role. They hav
 
 The Queen of Gold and Glass is loath to allow the loss of one of these creatures, but uses them if it forces the player characters to cast interesting spells. Many of her Distinguished Servants have External Vis sources, which means they are unlikely to be permanently destroyed if magi defeat them in battle. The Queen is also willing to ransom her Distinguished Servants, much as a mortal monarch would be. If the Queen of Gold and Glass has, at the storyguide's discretion, a ready replacement for one of her Distinguished Servants, she is entirely unsentimental about its destruction.
 
-#### **The Undistinguished**
+#### The Undistinguished
 
 Although the Queen of Gold and Glass has only a single Distinguished Servant for each of the roles in her court, she has many other servants that can fill related roles. These faeries are also being molded into human functions, but they are incomplete. The Queen is far more willing to lose one of her Undistinguished Warriors than her Distinguished Knight.
 
@@ -5457,7 +5457,7 @@ Undistinguished characters have a Pretense of 6 in skills of primary importance 
 
 Each Undistinguished Servant is still being created, and so is incomplete. Parts of its body are missing or transparent. Each does, however, have a perfectly rendered human face. Every Undistinguished Faerie has a symbolic object, which contains vis, wedged in its head. None can smash a mirror, or attack a person carrying one.
 
-#### **The Hazy Servants**
+#### The Hazy Servants
 
 The Hazy Servants are faeries that the Queen of Gold and Glass has never molded to suit a role. They flit about the edges of her court, taking on supplementary roles as required by her whims, and by the deeds of nearby humans. In their natural shape they look a little like humans seen in the distance, blurred by smoke or fog. Hazy faeries may snap into a shape if a more powerful creature pays them sufficient attention.
 
@@ -5508,7 +5508,7 @@ This is the Queen's champion and, if the player characters attack her realm, her
 
 uniquely among the Queen's servants, can smash mirrors, although they appear to die when they do this. Hazy faeries cannot abide bright, clear light, and flee from it.
 
-#### **The Shadowy Minions**
+#### The Shadowy Minions
 
 The Queen's Shadowy Minions are little more than afterthoughts or plans, given life by her glamor and the fear of humans. Shadows lack substance, and cannot touch objects or attack people. They can, however, acts as spies. Their appearance can frighten people into altering their behavior, dogs into barking, and horses into bolting. Shadowy Minions have a Might of 1, and no powers.
 
@@ -5516,15 +5516,15 @@ The Queen's Shadowy Minions are little more than afterthoughts or plans, given l
 
 The Queen may be convinced to cease her meddling in several non-violent ways.
 
-#### **Too Boring to Manipulate**
+#### Too Boring to Manipulate
 
 Perhaps the least satisfactory ending, and yet one which players can most easily engineer, is for the characters to steadfastly refuse to take the bait. The Queen leaves the player characters alone if it becomes clear to her that they want to spend their entire lives hiding in their laboratories. She does not want a servant who is a recluse.
 
-#### **Too Clever to Manipulate**
+#### Too Clever to Manipulate
 
 Characters are considered too clever to victimize if they discover the Queen's involvement in stories, and strike back. In addition to her challenges for the player characters, the Queen ceaselessly plays similar games with other mortals, to mold her various minions. Player characters who intervene repeatedly in these games can force the Queen to come to terms with them.
 
-#### **Too Dangerous to Manipulate**
+#### Too Dangerous to Manipulate
 
 If the characters develop the ability to destroy powerful faeries, and the Queen knows about it through her spies, she ar-
 
@@ -5564,7 +5564,7 @@ Each Undistinguished Warrior has one of: *Bow*: Init 0, Attack +12, Defense +10,
 
 **Pretenses:** Area Lore 6 (the kingdom), Awareness 6 (enemies), Brawl 6 (mortals), Faerie Speech 6 (taunts), Single Weapon or Bow 6 (as weapon).
 
-#### **Powers:**
+#### Powers:
 
 *Damaging Effect:* 2 points: Init –6, Terram (supernaturally sharp), 2 intricacy points spent on cost. Tiny slivers of glass that break off and stay in wounds. Costs 15 spell levels (Base 5 +1 Part +1 Diameter. This Base is lower than usual in Hermetic magic.)
 
@@ -5582,7 +5582,7 @@ ranges a final confrontation through the Distinguished Ambassador. During this t
 
 It's far easier for magi to openly enter the *Aegis* of her new victims and take an appropriate object than for her to wait for her new victims to leave on expedition. The player characters need to leave a common mirror in the place of the stolen object, so she is linked to the beginning of this new iteration of the story. When explaining this, the Queen describes how she captured the symbolic objects of the player characters.
 
-#### **Too Involved in Other Realms to Manipulate**
+#### Too Involved in Other Realms to Manipulate
 
 Characters who regularly have the aid of angels or demons are too unpredictable for the Queen to victimize. Also, their be-
 
@@ -5597,14 +5597,14 @@ The duplicates not only reflect the appearance and magical abilities of the magi
 
 havior is impossible for her followers to duplicate. The Queen allows groups involved in diabolism to sink into their own mire, after ordering the pieces of frame they have collected to escape or withdraw into Deep Faerie. She continues to watch groups aided by the Divine, because piety is far from universal, particularly over generations, but she does not victimize them until the hand of the Lord is a little less ready to meddle.
 
-#### **Too Interesting to Manipulate**
+#### Too Interesting to Manipulate
 
 A group of magi that engages in some other, truly epic, endeavor will attract the interest of powerful faeries. If enough of these can be drawn to the spectacle of the lives of the player character magi, the Queen of Gold and Glass ceases to meddle so as not to disappoint the teaming masses of other observers.
 
 
 Characters capable of raiding the Kingdom of Gold and Glass are permitted to, using the frame scattered about during earlier stories. If the characters are wildly destructive, the Queen is more careful about provoking them in future.
 
-#### **Too Useful To Manipulate**
+#### Too Useful To Manipulate
 
 A group that realizes what is going on is able to offer alternative terms to the Queen. A Merinita magus who is undergoing the Mystery of Becoming would be a perfect alternative for her, but why would such a magus agree? Could he become a power behind her throne, or redefine her role? A less extreme solution is to let the Queen's minions to serve and observe the magi, as allies.
 
@@ -5616,11 +5616,11 @@ If the Queen succeeds in making her faerie magi, she uses them as pawns in futur
 
 The problem with the faerie magi the Queen creates is that they are surprisingly accurate. They cast spells exactly like magi do. They wear precisely the right symbols for magi to wear. They sound just like magi sound. It's very difficult, even for magi, to swiftly discover that her duplicates are not real members of the Order of Hermes. Of course, casting Intellego Vim on them would reveal the deception in a moment, but casting Intellego Vim on another magus is a violation of the Code, and would not be done without good reason. The Queen's duplicates are good enough copies that they do not give a good reason.
 
-#### **Story Seed: Firebrand Tytalus**
+#### Story Seed: Firebrand Tytalus
 
 A young Tytalus magus begins a campaign against a local king. He forces the king, and his subjects, to use their skills and talents to the utmost, challenging them to grow through adversity. This is a breach of the Code, but the Tytalus ambushes and humiliates the Guernicus sent to investigate. The young Tytalus is actually a duplicate: the Queen wants to design a new steward, so she uses her pawn to force the mortal administering the kingdom to stretch his talents to the utmost.
 
-#### **Story Seed: Blood of the Glass**
+#### Story Seed: Blood of the Glass
 
 A woman comes to the covenant demanding a baby bond (or whatever the local equivalent is) for her child, who was fathered by one of the magi. The magi have no knowledge of this, but her child has very strong Faerie Blood of a new type. He has the ability to create a broad array of imperishable Arcane Connections, much as the Queen can. The child is obviously important as a source of guaranteed Insight for Original Research, but his skill also has use in Wizard's Marches. Do the characters make the child's talents public?
 
@@ -5700,7 +5700,7 @@ Loathsome Appearance, Slippery, Venomous
 
 **Abilities:** Area Lore: Local 6 (vis sources), Area Lore: Regional 4 (vis sources), Area Lore: Magic Realm 5 (Animal boundaries), Awareness 3 (prey), Brawl 6 (fangs), Hunt 4 (vis), Leadership 4 (brood), Local Language 5 (common dialect), Magic Lore 5+2 (Magic Realm), Magic Sensitivity 5 (vis), Organization Lore: Order of Hermes 2 (covenants), Stealth 4 (stalking prey), Survival 2 (grassy areas), Swim 4 (rivers)
 
-#### **Powers:**
+#### Powers:
 
 *Constriction* (non-magical): The Waimie can only constrict a victim whose Size is less than her own. Constriction is based on the grappling rules (see "Non-Lethal Combat," **ArM5**, page 174). As long as the Waimie maintains the grapple, her opponent is considered deprived of air (see **ArM5**, page 180). The victim must make a Stamina check every five rounds, or suffer the normal effects of deprivation. Once the Waimie has successfully grappled an opponent (and begun constricting), on subsequent rounds she can continue constricting and still attack with her bite. These attacks may be directed at the grappled victim, or at another opponent.
 
@@ -5710,7 +5710,7 @@ Loathsome Appearance, Slippery, Venomous
 
 
 
-#### **A Weaker Waimie**
+#### A Weaker Waimie
 
 This is easy — simply use one of the Waimie's brood to represent her mother. Slow the development of the brood so that they take two or more years to increase in Size and Might.
 
@@ -5751,7 +5751,7 @@ The Waimie brooks no challenges to her position at the head of the brood. She de
 
 If the player characters do not adopt an immediately hostile approach to the Waimie's offspring, they may find that one of her elder daughters seeks freedom from her mother's tyranny. She needs a sufficiently powerful Magic aura to prevent Acclimation, so that she can grow to her full size. She also needs a suitable mate; a creature reasonably serpentine or draconic. If the characters can help her with these requirements, they secure the alliance of the Waimie's daughter against her mother. Whether she can be trusted once the characters have fulfilled their part of the bargain remains to be seen.
 
-#### **A Stronger Waimie**
+#### A Stronger Waimie
 
 The Waimie herself is pretty strong already, but she can be made more of a challenge by giving her greater resources and removing some of her restrictions. She could easily find a use for a group of human servants, perhaps using a power similar to the Entrancement Ability to maintain control over them. These servants form the Cult of the Serpent, and their prime purpose is to gather information and vis for their Scaly Queen. Such a cult is headed by a charismatic leader, a hedge wizard with The Gentle Gift and a selection of serpent-related powers. He has Magical Blood of the serpent, and is somehow related to the Waimie's brood.
 
@@ -5806,7 +5806,7 @@ None of these stories are true, but one of them contains a hint of truth concern
 
 An obvious tack is to follow one of the serpents back home. The smaller a serpent is, the harder she is to follow; conversely, the bigger serpents can be easily spotted. Whatever size they are, they avoid inhabited regions and use rivers or the sea wherever possible to travel home. They are reasonably inattentive and not possessed of a great deal of wisdom, so as long as the characters do not draw too much attention to themselves, the offspring will not notice she is being followed.
 
-#### **The Lair**
+#### The Lair
 
 The Waimie's lair is described in more detail in a later section. Its location should be chosen to suit the needs of the saga; but the following characteristics should be taken into consideration:
 
@@ -5865,13 +5865,13 @@ regio with a Magic aura of 10. If the regio is entered (a task with an Ease Fact
 
 Here, the Waimie's lair is an insula enclosed within an Animal Boundary of level 4. This means that the effective Magic aura is 14, or 18 for any Animal-related effects, including the Waimie's Magic Resistance and Penetration totals. There are also four additional botch dice for any magical activity. It is like the cave in the mundane realm, but vastly bigger. Rather than just one mound, the insula is filled with hundreds of them, each one inscribed with a spiral groove in the malachite. Each mound is a different size; some are just a few feet across, whereas others are the size of hills. On some of these the spiral is clockwise, on others it is anticlockwise, and many of them interlink with each other and interlock with neighboring symbols. From a high enough vantage point, the spirals appear to be some sort of map or possibly writing in a foreign, curlicue alphabet. What's more, the landscape is in a state of subtle, constant change; it is too slow to be seen in action, but there is a definite redesign of the mounds and spirals as they change in size and shape. It resembles nothing else than a nest of snakes all writhing against each other, sinuous and languid.
 
-#### **Inhabitants of the Lair**
+#### Inhabitants of the Lair
 
 The Waimie is the most obvious inhabitant of this insula, her vast bulk stretched out among the malachite. The cave is sufficiently vast that she may not be spotted at first, and she uses surprise to her advantage. She resents intrusion into her hiding place, and it will be difficult to resolve this encounter without bloodshed. For a more difficult challenge she may be accompanied by one or more of her mid-sized offspring (years six to eight). Keep track of the number of wounds she suffers during the fight; in the magically charged atmosphere of her lair, the blood falling from each wound quickens into a living serpent who joins the fight in defense of her mother. A Light Wound results in a one-year-old offspring, a Medium Wound in a three-year-old serpent, and a Heavy or Incapacitating Wound in a fiveyear-old. These children of her blood do not spawn their own offspring if wounded.
 
 Even with the Waimie dead, the lair may not be empty. The insula is big enough for one of her offspring to hide here and eventually grow big enough to pose a challenge to the characters. Also, the boundary of this insula is permeable to occasional visitors from elsewhere in the Magic Realm; serpents and dragons seem particularly drawn here. The storyguide should populate the hidden reaches of this vast cage with any creatures she chooses.
 
-#### **The Serpent Map**
+#### The Serpent Map
 
 The strange landscape of the Waimie's lair is in actual fact both a map and a text.
 
@@ -5905,7 +5905,7 @@ The existence of the Serpent Map is known to a few other creatures in the Magic 
 
 If the roll succeeds, then the character may trace the location of the place found from any known aura in the mundane world.
 
-#### **Exits to Other Insulae**
+#### Exits to Other Insulae
 
 Like most regions of the Magic Realm, the Waimie's insula is connected to others through either boundaries or vestiges. The storyguide should determine the exact destinations for these features, and what perils and experiences face the characters when using them. The following are only examples of the sorts of features that characters might find:
 
@@ -5923,7 +5923,7 @@ Killing the Waimie frees her offspring from her tyrannical rule. The younger off
 
 
 
-#### **Hatchlings**
+#### Hatchlings
 
 **Magic Might:** 0 (Animal)
 
@@ -5951,7 +5951,7 @@ Killing the Waimie frees her offspring from her tyrannical rule. The younger off
 
 This serpent is about three feet long and about one inch in diameter at her fattest point. Serpents of this size were born this year. Because of their tiny size, hatchlings receive a +3 bonus to any rolls involving hiding.
 
-#### **One Year Old**
+#### One Year Old
 
 **Magic Might:** 5 (Animal)
 
@@ -5981,7 +5981,7 @@ This serpent is about three feet long and about one inch in diameter at her fatt
 
 This serpent is over six and a half feet long and about three inches in diameter at her fattest point. This makes her the size of a particularly large adder. Yearlings have very different Magical Qualities than hatchlings; many features have been exchanged for others.
 
-#### **Two Years Old**
+#### Two Years Old
 
 **Magic Might:** 10 (Animal)
 
@@ -6009,7 +6009,7 @@ This serpent is over six and a half feet long and about three inches in diameter
 
 This serpent is about 13 feet long, and has a diameter of about six inches at her widest.
 
-#### **Three Years Old**
+#### Three Years Old
 
 **Magic Might:** 15 (Animal)
 
@@ -6043,7 +6043,7 @@ This serpent is about 21 feet long and has a maximum diameter of nine inches. Sh
 
 ## The Waimie's Brood, cont'd
 
-#### **Four Years Old**
+#### Four Years Old
 
 **Magic Might:** 20 (Animal)
 
@@ -6055,7 +6055,7 @@ This serpent is about 21 feet long and has a maximum diameter of nine inches. Sh
 
 **Magical Qualities and Inferiorities**: Gigantic x 3, Greater Power x 2 (The Envenomed Gift); Improved Attack (Fangs), Improved Defense (Fangs), Improved Powers x 2, Improved Soak, Minor Virtue (Great Quickness), Minor Virtue (Improved Characteristics), Minor Virtue (Magic Sensitivity), Minor Virtue (Tough); Temporary Might; Restricted Power (must bite to use The Envenomed Gift)
 
-#### **Combat:**
+#### Combat:
 
 *Fangs*: Init +3, Attack +10, Defense +7, Damage +7
 
@@ -6073,7 +6073,7 @@ This serpent is about 21 feet long and has a maximum diameter of nine inches. Sh
 
 This serpent is about 33 feet long and has a maximum diameter of 16 inches. She is now capable of swallowing whole characters of Size –2 or smaller.
 
-#### **Five Years Old**
+#### Five Years Old
 
 **Magic Might:** 25 (Animal)
 
@@ -6085,7 +6085,7 @@ This serpent is about 33 feet long and has a maximum diameter of 16 inches. She 
 
 **Magical Qualities and Inferiorities**: Gigantic x 4, Greater Power (Two Heads Are Better Than One), Greater Power x 2 (The Envenomed Gift); Improved Attack (Fangs), Improved Defense (Fangs), Improved Powers x 3, Improved Soak, Minor Virtue (Great Quickness), Minor Virtue (Improved Characteristics), Minor Virtue (Magic Sensitivity), Minor Virtue (Tough); Temporary Might; Minor Flaw (Clumsy), Minor Flaw (Poor Eyesight), Restricted Power (must bite to use The Envenomed Gift)
 
-#### **Combat:**
+#### Combat:
 
 *Fangs*: Init +2, Attack +11, Defense +7, Damage +9
 
@@ -6103,7 +6103,7 @@ This serpent is about 33 feet long and has a maximum diameter of 16 inches. She 
 
 This serpent is about 42 feet long and has a maximum diameter of 20 inches. She is now capable of swallowing whole characters of Size –1 or smaller. The creature's vast size makes her ungainly.
 
-#### **Six Years Old**
+#### Six Years Old
 
 **Magic Might:** 30 (Animal)
 
@@ -6115,7 +6115,7 @@ This serpent is about 42 feet long and has a maximum diameter of 20 inches. She 
 
 **Magical Qualities and Inferiorities**: Gigantic x 5, Greater Power (Two Heads Are Better Than One), Greater Power x 2 (The Envenomed Gift); Gift of Speech, Improved Attack (Fangs) x 2, Improved Defense (Fangs), Improved Powers x 3, Improved Soak x 2, Minor Virtue (Great Quickness), Minor Virtue (Improved Characteristics), Minor Virtue (Magic Sensitivity), Minor Virtue (Tough); Temporary Might; Minor Flaw (Afflicted Tongue), Minor Flaw (Clumsy), Minor Flaw (Poor Eyesight), Restricted Power (must bite to use The Envenomed Gift)
 
-#### **Combat:**
+#### Combat:
 
 *Fangs*: Init +1, Attack +13, Defense +6, Damage +11
 
@@ -6136,7 +6136,7 @@ This serpent is over 53 feet long and has a maximum diameter of two and a quarte
 
 ## The Waimie's Brood, cont'd
 
-#### **Seven Years Old**
+#### Seven Years Old
 
 **Magic Might:** 35 (Animal)
 
@@ -6148,7 +6148,7 @@ This serpent is over 53 feet long and has a maximum diameter of two and a quarte
 
 **Magical Qualities and Inferiorities**: Gigantic x 6, Greater Power (Two Heads Are Better Than One), Greater Power x 2 (The Envenomed Gift); Gift of Speech, Improved Attack (Fangs) x 2, Improved Defense (Fangs) x 2, Improved Powers x 3, Improved Soak x 3, Minor Virtue (Great Quickness), Minor Virtue (Improved Characteristics), Minor Virtue (Magic Sensitivity), Minor Virtue (Tough); Temporary Might; Minor Flaw (Afflicted Tongue), Minor Flaw (Clumsy), Minor Flaw (Poor Eyesight), Restricted Power (must bite to use The Envenomed Gift)
 
-#### **Combat:**
+#### Combat:
 
 *Fangs*: Init 0, Attack +14, Defense +8, Damage +13
 
@@ -6166,7 +6166,7 @@ This serpent is over 53 feet long and has a maximum diameter of two and a quarte
 
 This serpent is about 67 feet long and has a maximum diameter of three feet. She is now capable of swallowing whole characters of Size +1 or smaller.
 
-#### **Eight Years Old**
+#### Eight Years Old
 
 **Magic Might:** 40 (Animal)
 
@@ -6178,7 +6178,7 @@ This serpent is about 67 feet long and has a maximum diameter of three feet. She
 
 **Magical Qualities and Inferiorities**: Gigantic x 7, Greater Power (Two Heads Are Better Than One), Greater Power x 2 (The Envenomed Gift); Gift of Speech, Improved Attack (Fangs) x 2, Improved Defense (Fangs) x 2, Improved Powers x 3, Improved Soak x 4, Minor Virtue (Great Quickness), Minor Virtue (Improved Characteristics), Minor Virtue (Magic Sensitivity), Minor Virtue (Tough), Personal Power x2 (Scion of the World Serpent); Temporary Might; Minor Flaw (Afflicted Tongue), Minor Flaw (Clumsy), Minor Flaw (Poor Eyesight), Reduced Fatigue, Restricted Power (must bite to use The Envenomed Gift)
 
-#### **Combat:**
+#### Combat:
 
 *Fangs*: Init –1, Attack +14, Defense +7, Damage +15
 
@@ -6196,7 +6196,7 @@ This serpent is about 67 feet long and has a maximum diameter of three feet. She
 
 This serpent is about 84 feet long with a maximum diameter of three and a half feet. She is capable of swallowing whole characters Size +2 or smaller. Brood this size and up tire easily carrying their bulk, so have one less Fatigue level than normal.
 
-#### **Nine Years Old**
+#### Nine Years Old
 
 **Magic Might:** 45 (Animal)
 
@@ -6208,7 +6208,7 @@ This serpent is about 84 feet long with a maximum diameter of three and a half f
 
 **Magical Qualities and Inferiorities**: Gigantic x 8, Greater Power (Two Heads Are Better Than One), Greater Power x 2 (The Envenomed Gift); Gift of Speech, Improved Attack (Fangs) x 3, Improved Defense (Fangs) x 3, Improved Powers x 3, Improved Soak x 4, Minor Virtue (Great Quickness), Minor Virtue (Improved Characteristics), Minor Virtue (Magic Sensitivity), Minor Virtue (Tough), Personal Power (Scion of the World Serpent); Temporary Might; Minor Flaw (Afflicted Tongue), Minor Flaw (Clumsy), Minor Flaw (Poor Eyesight), Reduced Fatigue, Restricted Power (must bite to use The Envenomed Gift)
 
-#### **Combat:**
+#### Combat:
 
 *Fangs*: Init –2, Attack +16, Defense +8, Damage +17
 

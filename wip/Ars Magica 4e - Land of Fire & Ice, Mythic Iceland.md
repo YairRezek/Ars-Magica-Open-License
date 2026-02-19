@@ -882,7 +882,7 @@ Among the Christian Norse, the words troll and giant have become interchangeable
 
 Unconscious **Body levels:** OK, 0, 0, 0, –1, –3, –5, Incapacitated
 
-#### **Powers:**
+#### Powers:
 
 *Shapeshift*: All trolls can change shapes as if they had the Shapeshift Talent at level 5 (with an Intelligence of –3 and a Speak Jotunn of 5, this gives them a +7 to shapeshift rolls). Each shapechange costs 1 Magic Might, but reverting to trollform costs them no Might.
 
@@ -924,7 +924,7 @@ The largest giant clan is the Clan of Hrym, the leader of the Frost giants. To t
 
 **Body levels:** OK, 0, 0, 0, 0, –1, –1, –1, –3, –3, –5, Incapacitated
 
-#### **Powers:**
+#### Powers:
 
 *Boulders*: The rocks that a giant throws are large boulders and any hit will kill most human-sized targets. Depending in the surface the boulder lands on, the boulder may roll, skip, sink or shatter. The storyguide should determine what happens to the boulder after it lands. Attacks missing by 3 or less should be considered grazing blows, which do "only" +15 damage.
 
@@ -1416,7 +1416,7 @@ A galdraman cannot use vis to boost the conjuring roll or extend Ranges, Duratio
 
 The conjuring formula is calculated as follows:
 
-#### **Stress die + Com + Sing + Galdor Wisdom + [Song Talent] + Aura**
+#### Stress die + Com + Sing + Galdor Wisdom + [Song Talent] + Aura
 
 If the roll is greater than the level of the spell, then the spirit is summoned and attempts to create the desired effect. Concentration duration effects are maintained while the galdraman continues to sing. In ideal conditions, with no distractions, a trained galdraman can keep a song going for many hours.
 
@@ -1609,7 +1609,7 @@ For example: Bard Dumbson's primary magical talents are, Jotunn Affinity with Fr
 
 A trollson may learn a new Exceptional Talent by spending a season or more communing with the Jotunn spirits. The trollson generates a learning total based on:
 
-#### **Stress die + Intelligence + Trollskap Wisdom**
+#### Stress die + Intelligence + Trollskap Wisdom
 
 Auras have no affect on this total.
 
@@ -1718,7 +1718,7 @@ The blood of a major giant clan runs strong in your veins and you can call upon 
 
 You must first decide what effect you wish to create and utter an invocation to your ancestors and the primal forces of nature. You can only create effects that are appropriate to the Jotunn. The effect is limited in the same way as a Hermetic spontaneous spell. You then make the following roll:
 
-#### **Stress Die + Communication + Jotunn Affinity + Speak Jotunn + Potency + Aura**
+#### Stress Die + Communication + Jotunn Affinity + Speak Jotunn + Potency + Aura
 
 If the roll is equal to or greater than the level of the equivalent Hermetic spell, then the effect occurs. You must ask the jotunn spirits to aid you, but no gestures are required. This magic only requires a single round to invoke.
 
@@ -1742,7 +1742,7 @@ This virtue grants an exceptional Talent called Gift, beginning at level 1. Gift
 
 Formula:
 
-#### **Stress die + Int + Gift + Magical Language\ + Potency**
+#### Stress die + Int + Gift + Magical Language\ + Potency
 
 \*Speak Jotunn or Scribe Runes
 
@@ -1853,7 +1853,7 @@ Svonhverfing means "twisting the sight" and it is the art of illusion. This virt
 
 The Svonhverfing casting roll is:
 
-#### **Stress die + Intelligence + Svonhverfing + Magical Language\ + Potency + Aura.**
+#### Stress die + Intelligence + Svonhverfing + Magical Language\ + Potency + Aura.
 
 \*Speak Jotunn or Scribe Runes
 
@@ -1908,7 +1908,7 @@ Shapeshift allow a magician to alter his own form. Transform allows the magician
 
 Casting Total:
 
-#### **Stress die + Int + Talent + Magical Language\ + Potency + Aura**
+#### Stress die + Int + Talent + Magical Language\ + Potency + Aura
 
 \*Speak Jotunn or Scribe Runes
 
@@ -2322,7 +2322,7 @@ Secret Vis Source Vis Obligation
 
 **Body levels:** OK, 0, 0, 0, –1, –1, –1, –3, –3, –5, –5, Banished
 
-#### **Powers:**
+#### Powers:
 
 *Movement*, 1 point: The Serpent can transport itself to any point within the Mundane, Magic or Faerie Realms.
 
@@ -2354,7 +2354,7 @@ The following timeline gives suggestions for the timings of the story chapters. 
 
 
 
-#### **1220: Blood of Innocence (Spider in the Ice)**
+#### 1220: Blood of Innocence (Spider in the Ice)
 
 **Hook:** The characters are dispatched to help Iain Scot, an old ally of their covenant.
 
@@ -2362,7 +2362,7 @@ The following timeline gives suggestions for the timings of the story chapters. 
 
 **Resolution:** The characters kill the diabolist. Brighde is possessed by Hetep, and then by Victor to imprison the demon. The characters are invited to join the Covenant of Vindolanda and make Iceland their base.
 
-#### **1221: Thord's Feast (Fire and Song)**
+#### 1221: Thord's Feast (Fire and Song)
 
 **Hook:** The characters are accused of sorcery by a local storbaendur, and are taken to the district's *spring thing*.
 
@@ -2370,7 +2370,7 @@ The following timeline gives suggestions for the timings of the story chapters. 
 
 **Resolution:** By removing the curse, the characters find their place in Icelandic society. They also learn that someone has a serious grudge against a dragon.
 
-#### **1222: Meeting the Dragon (Fire and Song)**
+#### 1222: Meeting the Dragon (Fire and Song)
 
 **Hook:** The characters are invited to the meeting of Icelandic magicians at Eldborg.
 
@@ -2378,7 +2378,7 @@ The following timeline gives suggestions for the timings of the story chapters. 
 
 **Resolution:** The player characters must appease Pan Caudarax. By doing this they also earn the right to gather vis at certain sites.
 
-#### **1223: Feast of Thanks (Fire and Song)**
+#### 1223: Feast of Thanks (Fire and Song)
 
 **Hook:** Bard Snaefellsass invites the characters to a feast to thank them for dealing with Pan Caudarax.
 
@@ -2386,7 +2386,7 @@ The following timeline gives suggestions for the timings of the story chapters. 
 
 **Resolution:** Some allies may have been made, and some enemies defused.
 
-#### **1230–1: The Glittering Plains (Fire and Song)**
+#### 1230–1: The Glittering Plains (Fire and Song)
 
 **Hook:** The dragon eggs are near hatching, and Einar Gamlisson makes another attempt to destroy them.
 
@@ -2394,7 +2394,7 @@ The following timeline gives suggestions for the timings of the story chapters. 
 
 **Resolution:** The characters have the opportunity to resolve the feud between Einar and Pan Caudarax either through diplomacy or violence. They may also discover the Obsidian Temple.
 
-#### **1240: Brighde's Gauntlet (Spider in the Ice)**
+#### 1240: Brighde's Gauntlet (Spider in the Ice)
 
 **Hook:** Brighde's Gauntlet involves tricking the demon Hetep into revealing the location of Damhan-allaidh's body.
 
@@ -2402,7 +2402,7 @@ The following timeline gives suggestions for the timings of the story chapters. 
 
 **Resolution:** If all goes to plan, Hetep tricks Brighde and escapes in Damhan-allaidh's body. Meanwhile Victor is forced to sacrifice himself to save Brighde.
 
-#### **1256: The Spider Through the Mist (Spider in the Ice)**
+#### 1256: The Spider Through the Mist (Spider in the Ice)
 
 **Hook:** Hetep/Damhan-allaidh break through the Kerlingarfjoll Valley and into the Obsidian Temple.
 
@@ -2410,7 +2410,7 @@ The following timeline gives suggestions for the timings of the story chapters. 
 
 **Resolution:** Either Hetep succeeds and Damhan-allaidh guards the Obsidian Temple, or Hetep is thwarted and the magi are victorious.
 
-#### **1260: Into the Gateway (Spider in the Ice)**
+#### 1260: Into the Gateway (Spider in the Ice)
 
 **Hook:** The magi complete Ealasaid's work on the Obsidian Gateway ritual
 
@@ -2742,23 +2742,23 @@ a) This Charter shall govern the affairs of the Covenant Vindolanda and violatio
 
 b) On joining Vindolanda members agree to use all property currently owned or later gained, solely for the good of the covenant.
 
-#### **Article I: Disceptatorship**
+#### Article I: Disceptatorship
 
 - a) The Disceptator is the Leader of the Covenant and is elected from and by the membership. The Disceptator serves from the time of his election until his death or final twilight.
 - b) The Disceptator breaks any ties in votes called by the Council of magi.
 - c) The Disceptator can delegate any of his powers and responsibilities to another willing member and can withdraw them at any time.
 
-#### **Article II: The Council**
+#### Article II: The Council
 
 - a) The Council of Vindolanda is defined as the full membership of the Covenant. Seasonal Council meetings shall be held around the solstices and equinoxes.
 - b) The Disceptator may also call emergency council meetings between these times.
 
-#### **Article III: Duties of Membership**
+#### Article III: Duties of Membership
 
 - a) All members are required to perform at least seven seasons of covenant work in every tribunal period, for which they receive no allotment of vis. Further work is rewarded upon completion by the allotment of the three pawns of vis per season of activity.
 - b) Covenant work is determined by successful Petition to the Council and is rewarded, if required, upon completion.
 
-#### **Article IV: General Provisions**
+#### Article IV: General Provisions
 
 a) Any magus expelled from the Covenant loses all rights and privileges immediately and must vacate the Covenant within one day.
 
@@ -2972,7 +2972,7 @@ The rack in the laundry room uses a Perdo Aquam effect to dry clothes. The air i
 
 #### Spells
 
-#### Grimoire of the Hidden, **by Timon, follower of Tremere**
+#### Grimoire of the Hidden, by Timon, follower of Tremere
 
 *Eyes of the Gnome (InTe 30)*
 
@@ -3000,7 +3000,7 @@ maintaining its shape. The pressure of the Rego effect fuses any cracks together
 
 This effect carves out a huge underground structure to the caster's design. The spell will change the surrounding earth or stone into solid granite, providing a great deal of support. However, unlike *Conjure the Mystic Tower*, the spell depends greatly on the caster's architectural skill. Elaborate designs may require an Intelligence + Architecture roll to ensure their longterm stability. The internal facing may be in whatever stone is desired, including the highest quality marbles and even complex mosaics. The caster must have a complete design before him as he casts the spell.
 
-#### Grimoire of the Hearth, **by Notatus, filius of Bonisagus**
+#### Grimoire of the Hearth, by Notatus, filius of Bonisagus
 
 The grimoire contains one *Aegis of the Hearth* spell, written at level 20. The work includes notes on its design and how it can be incorporated into Hermetic Theory. The book has been rebound with additional notes on how to design a similar ritual specifically for underground structures: a T: Str version, operating 5 levels higher than its spell level.
 
@@ -3083,7 +3083,7 @@ The peak of Glyder Fawr lies north of the Welsh mountain Yy Wydda (Snowdon), abo
 
 **Body levels:** OK, 0, 0, –1, –1, –3, –5, Incapacitated, Banished
 
-#### **Powers:**
+#### Powers:
 
 *Weight of a Thousand Hells*, CrMe 25, 1 point: As the hermetic spell (see **ArM4,** page 145)
 
@@ -3107,7 +3107,7 @@ The peak of Glyder Fawr lies north of the Welsh mountain Yy Wydda (Snowdon), abo
 
 **Personality Traits:** Curious +2, Greedy +1, Vicious +3
 
-#### **Powers:**
+#### Powers:
 
 *Swarm*, 0 points: Each rat swarm contains about a hundred individuals. When attacked by a swarm of rats the victim will be bitten on any exposed flesh. Anyone wearing full armor, including helm and gauntlets will be relatively safe. Those wearing loose clothing will be most at risk. The SG must rule on the degree of protection afforded each player and consult the table below.
 
@@ -4250,7 +4250,7 @@ If the total does not equal or exceed the difficulty then the full base time is 
 
 \* Setna's long battle against Hetep's corruption has left him increasingly weakened. **Personality Traits:** Wise +6, Patient +3, Suffers Fools Gladly –3
 
-#### **Powers:**
+#### Powers:
 
 *Words of Power* varies: Setna can cast any spell effect the storyguide feels appropriate, at up to half his current might. If these effect would require vis then Setna must spend 1 might point per magnitude of the effect. Setna does not need to spend might generating effects that do not require vis.
 
@@ -4343,7 +4343,7 @@ When she was of marriageable age fate had Iain meet her in the market square. Th
 
 **Important Abilities:** Alchemy 3 (transformations), Artes Liberales 3 (logic), Awareness 2 (markets), Bargain 3 (wool), Brawl 1 (Punch), Concentration 3 (reading), Etiquette 2 (merchant), Legend Lore 1 (myths), Magic Sensitivity 2 (vis), Medicine 1 (salves), Philosophiae 5 (spellcasting), Scribe Greek 1 (copying), Speak Gaelic 2 (trading), Scribe Latin 2 (original), Speak French 4 (trading), Speak German 2 (trading), Speak Greek 2 (trading), Speak Latin 4 (church), Speak Norse 2 (western), Speak Saxon (trading) 3, Single Weapon 3 (longsword)
 
-#### **Magical Equipment:**
+#### Magical Equipment:
 
 *Armor:* Half Chain, enchanted to be light (load –0.5) and increase protection by +2
 
@@ -4463,7 +4463,7 @@ Everything that Victor does will be colored by his desire to destroy The Spider.
 
 **Fatigue levels:** OK 0, –3, –5, Unconscious **Body levels:** OK 0, –3, –5, Incapacitated, Banished
 
-#### **Powers:**
+#### Powers:
 
 *Sunder the Magician's Spirit*, PeVi 50, 10 points: On a successful attack roll Hetep can reach into a magician's spirit and maim his gift. Magic resistance applies, with Vim adding to magi's Parma total. No known Hermetic technique is capable of restoring this injury while Hetep exists on the mortal realm. Otherwise only Hetep himself can restore it, usually in return for a cardinal pact.
 
@@ -4569,7 +4569,7 @@ Shield +6 +6 +10 +6 +7 **Soak:** 12 (with magical cloak)
 
 **Galdraman Songs:** Yfel-galdor (curse songs) 7, Mal-galdor (speech songs) 5, Hug-galdor (mind songs) 2, Sig-galdor (victory songs) 2, Lim-galdor (healing songs) 3, Biarg-galdor (birth songs) 10, Orlog-galdor (fatesongs) 11, Ol-galdor (warding songs) 5, Brun-galdor (weather songs) 3
 
-#### **Magical Equipment:**
+#### Magical Equipment:
 
 *Blue Cloak:* Enchanted with Warding Songs, the robe provides a +20 magic resistance and a +10 Soak.
 
@@ -4613,15 +4613,15 @@ tinguished looking man, apparently in his late fifties, with straight black hair
 
 \*\* If weakness behind left ear known.
 
-#### **Powers:**
+#### Powers:
 
 *Fiery Breath*, CrIg 50, 5 Magic Points: This gout of fire can blanket an area 10 paces wide by 30 paces long. Although intensely hot the breath has little force, and cover of any sort can block it.
 
-#### **Spellcasting Ability:**
+#### Spellcasting Ability:
 
 Caudarax has the ability to cast a range of spells as if he had the following Arts: Cr 20, Re 10, An 20, Im 10.
 
-#### **Magical Items:**
+#### Magical Items:
 
 *Dragon Amulet*, CrVi 40: Caudarax wears a white marble amulet around his chest, held in place by a harness of finely wrought golden chains. This amulet will, once per day, provide the vis required to make one healing spell have Instant duration. The spell needs to be designed to work with the amulet and so the amulet needs to be successfully investigated before the spell can be designed.
 
@@ -4709,7 +4709,7 @@ Shield +3 +6 +8 +4 +5
 
 **Galdraman Songs:** Biarg-galdor 4, Lim-galdor 3, Ol-galdor 5, Brun-galdor 4,
 
-#### **Magical Equipment:**
+#### Magical Equipment:
 
 *Bracelet of Magic Resistance:* Bracelet gives the wearer a magic resistance of +15.
 

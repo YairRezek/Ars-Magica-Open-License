@@ -29,7 +29,7 @@ Christian N. St. Pierre
 
 Phil Jenkins, Thomas Nowell, Peter Hiley, Lloyd Graney; André Neergaard, Helge Rager Furuseth, Karl Trygve Kalleberg, Ola Hulbak, Håvard Futsæter; Pelle Kofod; Jeff Bassett, Paul Grosser, Patrick M. Murphy, Rick Shafer
 
-#### **Author Bios**
+#### Author Bios
 
 **Christian Rosenkjaer Andersen** is an engineer living in Denmark. This is his fifth contribution to the **Ars Magica** line, but he is unlikely to quit his day job. His part in this book is dedicated to his continually supportive wife, and his rapidly growing son and daughter. There is still time to mold them into being gamers.
 
@@ -542,7 +542,7 @@ The rules for ceremonial magic apply. All Incantations for the Brotherhood of Ze
 
 Incantations found in *On Isometric Figures* are as follows.
 
-## **Behold The Presence Of The Symbol**
+## Behold The Presence Of The Symbol
 
 Incantation/Diablerie, Level 55 **R:** Touch, **D:** Forsaken, **T:** Structure
 
@@ -552,7 +552,7 @@ When the bound spirit touches or presides within the structure, the two Mights m
 
 (Base 15, +1 Touch, +4 Forsaken, Structure +3)
 
-## **Forge The Lord Of The Structure**
+## Forge The Lord Of The Structure
 
 Incantation/Diablerie, Level 60 **R:** Eye, **D:** Forsaken, **T:** Ind
 
@@ -560,7 +560,7 @@ Imbues an Infernal Spirit with the power Lord of the Structure; see DuPurin's Gh
 
 (Base 35, Eye +1, Forsaken +4)
 
-#### **Desperations Of True Reverence**
+#### Desperations Of True Reverence
 
 Incantation/Diablerie, Level 60 **R:** Touch, **D:** Forsaken, **T:** Ind
 
@@ -568,7 +568,7 @@ This incantation allows the spirit of a structure to grant bonuses to the people
 
 (Base 35, Touch +1, Forsaken +4)
 
-#### **My Symbol Shall Come Unto Me**
+#### My Symbol Shall Come Unto Me
 
 Incantation/Effusion, Level 70 **R:** Eye, **D:** Forsaken, **T:** Ind
 
@@ -620,7 +620,7 @@ Giuseppe is being groomed for corruption. During Stories I and II, Giuseppe is s
 
 Between stories he gains 10 experience points per season, and he spends a total of 2 seasons with his mentor. The apprenticeship will end four years after this story begins. The events of these stories will have a strong influence on whether Giuseppe ever formally joins the Brotherhood.
 
-#### **Beneath Me, Folly Of Thetis!**
+#### Beneath Me, Folly Of Thetis!
 
 Incantation/Effusion, Level 55
 
@@ -657,11 +657,11 @@ mains of Ombres L'assomption's resources. While it is not absolutely clear that 
 
 As the Brotherhood is based on a group of stonemasons, its members all have some ability in that craft or profession. Most members also have some training in a bow skill, due to the founder's love of archery. Use The Specialist (**ArM5**, page 21) or The Tough Guy (**ArM5**, page 22) for general laborers, and The Rogue or The Witch (**ArM5**, page 23) for Plinth characters. As these characters have Major Virtues and Flaws, they must be companions, rather than grogs.
 
-#### **Stylobate**
+#### Stylobate
 
 Usually in their mid-20's and past apprenticeship, with the appropriate Craft at level 3 or higher. They have a copy of *On Isometric Figures* and might be trained in Bows. They have embraced a sinful personality trait and have at least 1 point of Infernal Warping. They have the Virtues of Incantation (Major, Unholy Method) and Diablerie (Major, Unholy Power) or Effusion (Major, Unholy Power).
 
-#### **Plinth**
+#### Plinth
 
 Age a Stylobate-classed member 10-20 years. Increase the Infernal Warping by 1 point per five years aged. Add Leadership (work teams), Guile, and Area Lore Abilities. Incantation and the Unholy Power should also be increased substantially.
 
@@ -672,7 +672,7 @@ If the characters are working with him, Dium tells them that Ombres was dedicate
 
 Dium blames the fall on his pater's quest to find "mystical currents." Within these currents was a device called the Grass Crown. Dium is not sure what these "currents" are, but he does know that the Grass Crown is magical in nature. When Titus came to suspect that demons were also seeking the Grass Crown, he planned an escape route from the covenant. Dium was able to use that route to escape, and is sure that he will be able to lead the characters into the regio by following it back again.
 
-## **General Knowledge about Ombres**
+## General Knowledge about Ombres
 
 Ombres L'assomption should be located near a town, and the troupe's covenant. It was a poor covenant that struggled to make it from one year to the next. The player characters or their parens might have heard about the Sphere being presented at Tribunal some 70 years ago; they may even have been in attendance. Also, it is common knowledge that Ombres L'assomption simply vanished shortly after the Sphere became public.
 
@@ -680,7 +680,7 @@ Characters may know about the covenant; roll Intelligence + Organization Lore: O
 
 
 
-#### **Ease Factor Information**
+#### Ease Factor Information
 
 - 9 The covenant is rumored to have been harassed by demons.
 - 12 This covenant had incurred numerous debts in its initial construction. It was founded with the lofty intent of integrating of Magic, Divine, and Faerie powers, and led by three middle-aged magi: Sequnda of Merinita, Caeso of Bonisagus, and Titus of Jerbiton. 15 In its final years, its magi were said to have focused their studies on works that referenced
@@ -701,7 +701,7 @@ The local authorities consider the land ruined and lost.
 
 The 53-year life of this covenant was plagued with small scale Infernal attacks, and it fell in a demonic assault. Today, the covenant is a battlefield of the Infernal, with a few Magic spirits hiding within the ruins. The Infernal struggles that carry on are effectively eternal, as the three factions
 
-#### On Isometric Figures **(Cultists of Zenodorus)**
+#### On Isometric Figures (Cultists of Zenodorus)
 
 Zenodorus wrote the treatise *On Isometric Figures,* which contained deeper, mystical secrets that eventually developed into a Greek cult of architects. Thorough students of history may find hints that the cult of Mithras actively sought the destruction of the "Zenodorus philosophy," which was accused of plotting to disrupt the activities of the gods. The corrupted forms of the volume available in 1220 are summae of level 5 and quality 18 in Ceremony, Incantation, Diablerie, and Effusion.
 
@@ -710,7 +710,7 @@ Zenodorus wrote the treatise *On Isometric Figures,* which contained deeper, mys
 
 The area around the covenant has an Infernal aura of 1 by night, but this is overridden by the natural Magic aura of 1 during the day. The covenant itself is within a level 3 Infernal regio, in a Perfidious aura.
 
-#### **The Perfidious Aura**
+#### The Perfidious Aura
 
 The Infernal auras near Ombres are Perfidious auras, as described in *Realms of Power: the Infernal*, pages 15–17. In addition to the standard modifications to supernatural powers (**ArM5**, page 183), the aura has the following effects.
 
@@ -724,13 +724,13 @@ Any character who fails a roll modified
 
 by Confidence within the aura is struck by the mind-numbing contempt of Hell, immediately losing all remaining Confidence Points, and is stunned for one round per 2 points lost.
 
-## **Denizens of Ombres L'assomption**
+## Denizens of Ombres L'assomption
 
 All demons in Ombres take on a solid form at sunset, if they have the Might to do so. Any Infernal beings destroyed in Ombres L'assomption are reborn on the night of the next new moon, until Nero realizes that the map has been taken away.
 
 Note that some characters still possess a Social Virtue or Flaw, even though they are ghosts. This remains, as that character plays to that aspect of their personality when coagulated into their physical form.
 
-## **Entering the Lands of Ombres L'assomption**
+## Entering the Lands of Ombres L'assomption
 
 No animals live here. Plant life appears to be struggling with the first signs of blight. There is an eery, chilling sense of quiet through the landscape at night. The outer lands of Ombres L'assomption were vast, with a Magic aura of 1 stretching a full 3 miles from its center. During the day, the Magic aura overcomes the Infernal aura, but when the Infernal aura rises to 2 at night, it takes over.
 
@@ -747,7 +747,7 @@ Dium leads the players to the northern barn on the property, which is dry rotted
 
 If desired, the storyguide may run encounters in this area. A pack of DuPurin's Black Dogs might launch a hit-and-run strike. Once the attack is complete, the dogs retreat back to DuPurin's base camp to report on the strengths and weaknesses of the invaders. Second, Father Carth may visit the group and attempt to possess a grog or companion. Carth hopes to persuade the party to 'put down' DuPurin's dogs, and DuPurin himself.
 
-#### **Retracing Dium's Escape**
+#### Retracing Dium's Escape
 
 When Dium fled the covenant, his pater gave him a scroll case sealed with wax telling him that it contained important information about the fate of the covenant. Fearing that it would condemn him to hell, but too frightened to destroy it, Dium buried it under the floor of the barn. Now, after a life of service to God, and driven by his visions, Dium is ready to read the message. The scroll reads as follows.
 
@@ -771,7 +771,7 @@ If the characters follow the passage without Dium, it is blocked after a couple 
 
 If Dium is killed during the approach to the covenant, his ghost guides the characters into the regio before passing on.
 
-## **The Ruins of Ombres L'assomption**
+## The Ruins of Ombres L'assomption
 
 Ombres L'assomption's ruins are a place of conflict, an Infernal regio with a Perfidious aura of 3 (see earlier for details of the effects of the aura). There are few, if any, treasures remaining within the covenant, as it has been picked clean by the demons. There are, however, two vis sources, which are tainted by the Infernal as long as the aura remains. Originally, the covenant had a Magic aura of 3, which will suppress the Infernal aura if the latter aura is weakened.
 
@@ -894,7 +894,7 @@ Note that although their physical form is water-like in nature, it cannot diffus
 
 **Abilities:** Brawl 5 (grappling), Great Weapon 5 (Flail), Local Language 5 (insults)
 
-#### **Powers:**
+#### Powers:
 
 *Black Dog Lord,* 0 points, Init constant, Animal: This power derives from those ghosts who have taken an oath to follow Du-Purin. DuPurin understands the Black Dogs' barks, growls, and body language, and they understand his commands. The Black Dogs obey DuPurin's commands without question.
 
@@ -1012,7 +1012,7 @@ Outside the library sit three fountains. Each fountain weighs roughly 2250 pound
 
 **Fountain 3**: Represents the merging of Divine and Magic. The Chaldean Oracles pass fruits of wisdom around a round table. Eating from the two largest bowls is are rulers and gods of pre- and early Roman times, such as Seleucus and the goddess Diana. The two largest bowls of fruit on the table are the sections of the map.
 
-#### **A Series of Avaricious Events**
+#### A Series of Avaricious Events
 
 Investigating the fountains alerts the Lemures, and they examine them once again. If the characters found nothing, the Lemures still do not know what they are looking for, but if the characters removed even a single wedge, the demons start looking for anything similar.The Lemures make an Intelligence + Awareness stress roll against an Ease Factor of 18 once each night to find one sphere wedge. Each success lowers the Ease Factor by 3. The Lemure carries the wedge it found to its nest to protect it.
 
@@ -1078,7 +1078,7 @@ Once all six wedges of the sphere have been collected, the troupe has half of th
 
 They do know that the sphere and the lodestone will, somehow, allow them to retrieve the Grass Crown, and once they know that the characters have the sphere, they start making plans to contact them. This contact opens Story II.
 
-## **The Sphere of Caelus' Octahedron**
+## The Sphere of Caelus' Octahedron
 
 Titus of Jerbiton created this device after acquiring a lodestone of Caelus' Octahedron, to find a way into the regio.
 
@@ -1169,7 +1169,7 @@ The wielder of the sphere can cast effects on the item to which the Arcane Conne
 
 (Base 3, +4 Arc, +1 Conc, +1 requisite; +10 unlimited uses, +5 item maintains concentration)
 
-#### **What to Do with the Ruins?**
+#### What to Do with the Ruins?
 
 Once the sphere is removed, Nero loses interest in the covenant, and recalls the demons. The Infernal aura and regio remain, but diminish at a rate of 1 point per year, and thus are quickly overridden by the natural Magic aura.
 
@@ -1218,7 +1218,7 @@ This cult is clearly closely related to surviving Mithraic cults in the Order of
 
 The Sphere can show the characters the route into the second level of the regio without any trouble, but cannot them guide them to the Itius and the Grass Crown. While the characters may be able to use magic to find it, the easiest way is to rely on the revenants' information. There are three ways to get this.
 
-#### **Plan 1: The Rite of Admission**
+#### Plan 1: The Rite of Admission
 
 One or more characters may decide to join the cult of Mithras. This gains the Pater's full trust and cooperation. Any characters interested in doing so must demonstrate that they are not in league with the Infernal. A character who slays a demon and destroys the vis before the Pater within the upper temple of the Mithraeum gains enough of the Pater's trust to proceed to the Initiation Rite for the title of Corax.
 
@@ -1243,15 +1243,15 @@ If the characters are only interested
 
 in finding the Itius, they may not feel that spending a season to join a cult of undead pagans is a wise use of time. However, if they decide to make long-term use of the regio later, it may be a worthwhile investment.
 
-#### **Plan 2: Stealth Mission**
+#### Plan 2: Stealth Mission
 
 The characters can follow the three Corax who travel off to maintain the Itius. Those who chose to do so may even go so far as to board the boat being rowed by the Corax. As long as the Coraxs' tasks are not impeded in any way, they are oblivious to outsiders. Keep in mind that these beings do not require food, water, or rest, and that the boat is completely without provisions.
 
-#### **Plan 3: Forcing Compliance**
+#### Plan 3: Forcing Compliance
 
 Intellego or Rego Mentem effects can be used to trick or force the Pater into revealing the location of the Itius. If the Pater realizes what is going on, he considers the caster to be in league with the demons, and orders the revenants to harass them as long as they remain within the regio.
 
-#### **Revenant Grades**
+#### Revenant Grades
 
 The Mithraists left behind followers to maintain the Itius. They served devotedly within the regio, and when they died there, the magic of the place brought them back as revenants. Even in death, their degrees of initiation into the mysteries of Mithras shape them and determine their powers. The Pater is a unique individual whose ghost retains its awareness and free will. The Leos serve as the keepers of the temple, both defending it and maintaining its feasting rites. The Corax preserve and repair the Itius. Note that these beings have not created a 'society' within this regio. Each Revenant now endlessly repeats the most fundamental service that it provided in life, and if they are prevented from doing so, they strike out violently.
 
@@ -1389,11 +1389,11 @@ The characters break this stalemate. They have been followed by three Spirits of
 
 The number of demons should be chosen to present a challenge, but not a deathtrap. As many manes as larvae, and as many of each as there are player characters, is a good place to start. The ship could hold 170 oarsmen, but over a thousand years most have passed on.
 
-#### **Above Deck**
+#### Above Deck
 
 A handful of manes oarsmen are the power behind the craft. There are many empty seats, as most of the manes have either found peace and ascended, or have succumbed to rage and have become Infernal larvae.
 
-#### **Below Deck**
+#### Below Deck
 
 The Larvae are oarsmen who have fallen to the Infernal. These Infernal Spirits wander the hold, seeking some way to get the Crown.
 
@@ -1581,7 +1581,7 @@ The colossus is hollow, with ten internal levels that serve as both structural s
 
 **Abilities:** Brawl 2 (dodge), Infernal Lore 5 (undead), Latin 5 (curses), Magic Lore 3 (magical traditions), Stealth 5 (sneak).
 
-#### **Powers:**
+#### Powers:
 
 *Coagulation*, 1 point, Init –1, Corpus. See Lemures, earlier.
 
@@ -1909,7 +1909,7 @@ the morning sun shines directly down the passageway and hits the bench-like pede
 
 gio can also be spotted and entered by Hermetic magic and other supernatural powers. The Ease Factor for a Perception + Second Sight roll to see the boundary is 6.
 
-#### **The Hall of Revenants Regio**
+#### The Hall of Revenants Regio
 
 The next regio level is another long passageway leading to another small room of three alcoves. Unlike the regio level below, this passageway has archways on both walls. The archways are blocked by stacked stones that rise almost to the top of the archway, leaving a foot-high space that serves as a window. The archway immediately to the characters' left is open, and the stones that used to block it are scattered around the archway. Past the opening is an oval chamber, in the center of which lie three dead warriors and two butchered revenants. The warriors are Crispus' shield grogs. There is no evidence of Crispus or his other grogs.
 
@@ -2002,7 +2002,7 @@ At this point in the adventures, Uallachán is researching Templeport's church r
 
 allow a caster to view the boundary, and the Ease Factor for a Perception + Second Sight roll is 6. The boundary also becomes visible if human blood is poured into the shallow depression in the middle of the pedestal. To those who can see it, the boundary looks like a wall of fog that replaces the far alcove's back wall. Stepping through this fog leads to the next level.
 
-#### **The Chamber of Sacrifices Regio**
+#### The Chamber of Sacrifices Regio
 
 Stepping into the next level, with an Infernal aura of 3, the characters see a large chamber lined with rough-cut square blocks of black obsidian stone. The chamber runs 30 paces deep and 15 paces wide, with a 20-foot high ceiling. A heavy iron chandelier hangs from the ceiling, unlit candles sitting in their sockets. At the far end of the room, beneath the hanging chandelier, is a pit, 10 feet in diameter and 30 feet deep. Shallow alcoves are cut along the wall. The chamber's fetid air makes breathing difficult. Penalize all physical activity rolls by –1 and include an extra botch die. An angry buzzing of flies fills the room, although no actual fly can be found, penalizing all auditory Awareness rolls by –3. When the mound was an active pagan site, victims would be sacrificed here, their blood collected to fill the pit sitting at the end of the room.
 
@@ -2057,7 +2057,7 @@ Tadhg's Characteristics and Size have been modified due to his age. His low Inte
 
 its opponents and preparing for the best time to strike. The upper reaches of the room are likely lost in shadow. When the time is right, when the intruders seem the most vulnerable, it materializes perched on an upper shelf. It screeches once or twice, using its *Whose Ears have heard heard the Master's Call* power, and after deafening one or two targets plunges through the air and attacks.
 
-## **The Obsidian Throne Room Regio**
+## The Obsidian Throne Room Regio
 
 The final regio is a chamber shaped like the one before, a large room with alcoves along either wall. A stone dais sits in the back of the room, a threetiered square of masonry that stands ten feet tall. Two staircases are cut into the dais and lead to a black obsidian throne that sits at the top; the throne's high back and thick arms loom angrily over the room. The near wall, the one behind the characters as they emerge from the regio boundary, holds the same ten basrelief sculptures of demons, monsters, and warriors that the previous regio's wall held, in reverse order. The throne room has an Infernal aura of 4.
 
@@ -2221,7 +2221,7 @@ As a three-headed creature, the Aillén Trechenn can make three beak attacks in 
 
 Three characters from story one have to be advanced five years, each receiving 75 experience points. The magi may or may not meet any of the three, depending on circumstances, but you should keep track of these characters' experience points and abilities. Even if not met in story two, the three play important roles in story three.
 
-#### **Tadhg McGovern**
+#### Tadhg McGovern
 
 Tadhg makes the biggest change due to age, leaving his childhood and entering adolescence. Remove the –1 penalty from his Size and Characteristics. Tadhg has been training as a knight, although he has yet to earn his spurs and gain the title. Change his character sheet as follows.
 
@@ -2241,7 +2241,7 @@ Tadhg makes the biggest change due to age, leaving his childhood and entering ad
 
 **Changed Abilities:** Ride 2 (in pursuit), Second Sight 3 (regio boundaries), Single Weapon 3 (long sword), Thrown Weapon 2 (javelin)
 
-#### **Father Pádraig**
+#### Father Pádraig
 
 The abbot continues overseeing his flock and running his monastery. While he listens to Uallachán's dialogues about the old gods and the old ways, he treats it as entertaining dinner conversation. Adjust his character sheet as follows.
 
@@ -2255,7 +2255,7 @@ The abbot continues overseeing his flock and running his monastery. While he lis
 
 **Changed Abilities:** Area Lore: Briefne 4 (15) (Ecclesiastical properties), Awareness 2 (lost cows), Folk Ken 4 (local barons), Profession: Scribe 5 (copying gospels)
 
-#### **Father Uallachán**
+#### Father Uallachán
 
 The priest continues to explore the bog, search the old records, and, in secret, practice his dark arts. He does not do this near the church, instead favoring the bog where his powers seem more impressive. Adjust his character sheet as follows.
 
@@ -2282,13 +2282,13 @@ Tower complete, the Red Knights prepare for war. The Hibernian Tribunal, like ma
 
 When the first waves of false Tullyhunco warriors raid Tullyhaw, the principle storyguide characters act. Hustling to the scriptorium, Pádraig pens a letter to the same magi who helped five years ago. "Our need is great," he writes, "evil is come again from the old bog." His swiftest messenger departs for the covenant. Tadhg, 17 years old and a squire in service to his uncle, does not think the raiders are from Tullyhunco, and thinks powerful magic is disguising their true identity. Uallachán also suspects something, and tells Pádraig that he is crossing the swamp to talk to The McTiernan. Once alone in the bog, the cleric looks for the Basalt Tower.
 
-#### **The Basalt Tower**
+#### The Basalt Tower
 
 The Basalt Tower has three powers, all enacted with a single triggering mechanism. It is a small replica of a tower carved from a single stone, and submerging the replica in a pool of human blood causes it to create an Infernal regio with an Infernal aura of 5, and a large tower within the regio. All powers remain in effect for as long as the miniature tower stays in the pool of blood.
 
 The following powers happen sequentially starting from the first, and include powers that may not be available for your player characters.
 
-#### **Debauchery/Diablerie** 85
+#### Debauchery/Diablerie 85
 
 Pen 0, 1/day **R:** Touch, **D:** Forsaken, **T:** Boundary
 
@@ -2395,7 +2395,7 @@ These suggestions, combined with Father Pádraig's letter or Tadhg's arrival, in
 
 The war has not yet spread to the surrounding territory and is currently contained in the areas surrounding the bog: northwest into Tullyhaw and southeast into Tullyhunco. The Red Knights' raids have not yet reached Templeport. If the magi enter the areas already attacked, they see the aftermath of the Red Knights' raids. Unburied victims lay in charred villages, trampled wheat fields line the roads, and the wind carries the stench of burnt flesh. Refugees wander the roads, people who have left their homes and are retreating to the forests. Scoundrels prowl the highways, armed looters looking for easy gains.
 
-## **Hard Men and Cruel Mistresses**
+## Hard Men and Cruel Mistresses
 
 On the way to Templeport the characters meet a group of warriors and their camp women, desperadoes drawn to the Red Knights' banner. The warriors are soldiers (**ArM5**, page 22) and reek of sour wine and sweat. The women are noncombatant prostitutes, runaways, and thieves. While the soldiers are ready to fight, this is not necessarily a combat encounter, and rather shows the lasciviousness and moral depravity of those heeding the Red Knights' call.
 
@@ -2403,7 +2403,7 @@ The group is not large, a dozen at most. They attack only if they have numerical
 
 If the player characters join the mercenaries, probably through the subterfuge of pretending to be mercenaries themselves, the group walks to the bog and camps on its edge. Within a day or two, one of the Red Knights' seneschals arrives and leads the party to an old oak tree that serves as the mound's mundane boundary marker (see later).
 
-#### **A Beacon in the Night**
+#### A Beacon in the Night
 
 The monastery at Templeport is a haven for refugees. Unlike five years ago, the gate to the monastery is closed. Watchers from the stone tower see the magi as they approach, and call down to the men guarding the gate. A sentry from atop the wall asks who the magi are, and if satisfied that they are not raiders lets them in (an unGifted character should do the talking). The church grounds are crowded; Domnach Mór is lined with huddled survivors, either shivering in terror or unconscious from fatigue. Children and women squat outside huts, their faces and clothes streaked with soot and blood. A small team of monks tend to the sufferers.
 
@@ -2441,7 +2441,7 @@ As the characters head to the mound, they find that it is not where they left it
 
 of Pádraig and Uallachán at Templeport, any of which serves as an adequate Arcane Connection to the owner. Fiona has one of her father's favorite daggers, which she took to protect herself and which serves as an Arcane Connection to The McTiernan.
 
-#### **The Mound Revisited**
+#### The Mound Revisited
 
 Deep in the midst of the bog is an ancient, dead oak tree. New recruits are led to this spot and then wait until sunrise or sunset for the mound's regio boundary to appear, behaving as it did five years ago. The bog and the mound's first regio have Infernal auras of 1. Once the regio is seen it is easy to walk onto the mound. The entrance and interior have not changed at all, and if the magi wish they can explore those areas. They are either empty or full of revenants, depending on the events of five years ago. The important change is atop the mound.
 
@@ -2449,7 +2449,7 @@ Hidden by sedge and brown cato-nine tales lies a viscous pool of dark red blood.
 
 Two willow trees stand atop the mound, and their lower branches form an arch. This arch is the boundary that lead to the first level of the Basalt Tower regiones. If the magi do not know the ritual that allows entrance — standing under the arch and saying "Burn in Hell" in Latin ("Adolebit in Inferno!") they must search for the regio opening with spells or Second Sight (Perception + Second Sight + stress roll against an Ease Factor of 13). If the characters lack these spells or equivalent enchanted devices, they must wait for a mercenary group and watch them make the sign to enter. The group is either a raiding party returning with captives, or new recruits being lead by a knowledgeable knight. One or the other type of group will show up within a few hours, but the mound is not unguarded. Waiting characters are harried by Hell Hounds, savage beasts who emerge from the fog to tear into the party (with the same stats as before).
 
-#### **The Basalt Tower Regio**
+#### The Basalt Tower Regio
 
 A square black tower sits in the center of the created regio, which has an Infernal aura of 5. Four stories high and built of black stone, the Basalt Tower looms over the surrounding bog. Iron gates lead to the ground floor's great hall, a large chamber dominated by the blazing hearth set in the far wall. Several long, wooden tables hold platters of nuts and meat, and goblets of honeyed mead. A dozen warriors and their disreputable retainers sit at the tables, sweating profusely from the blazing hearth's heat. Depending on how the characters present themselves at the entrance, the warriors may not attack, perhaps taking them for new mercenary recruits. The characters could literally say nothing and walk through the hall to the far spiral staircase. No one will accost them.
 
@@ -2466,7 +2466,7 @@ The third floor is the Red Knights' bedroom. Mangy animal hides, both familiar a
 The fourth and highest floor is a large, single chamber, which the Red Knights use as their war room. A large oak table sits in the center of the space, cluttered with severed McGovern and McTiernan heads. Lord Varrf stands at the table, admiring his handiwork. He turns and asks the characters who they are, and however they reply suggests that they don't meddle with his plans. His mission is to collect heads for Crom Dubh, and if the characters don't leave the room he will happily remove their heads from their necks. If the characters attack him, which seems likely, he only stands his ground if there is a chance of winning the battle. Like all demons Varrf is a coward at heart and will retreat to Hell rather than die for Crom Dubh.
 
 
-#### **The Prison Regio**
+#### The Prison Regio
 
 The upper most level of the regiones is a prison, with an Infernal aura of 6, which is accessed from the Red Knights' chamber on the third floor. The prison's regio entrance lies against the wall, between a hung hyena hide and a wildebeest pelt. To those without Second Sight or Hermetic spells, the black stone wall looks like any other in the tower. Those who can see the regio boundary see a swirling vortex of murky black. Stepping through the vortex takes a character from the bedroom and into the regio. Another way of seeing the boundary is to stand next to the wall and say the same phrase that made the first Basalt Tower regio boundary shimmer into view: "Adolebit in Inferno!"
 
@@ -2609,7 +2609,7 @@ The wedding is scheduled in a week or so, depending on how much time your player
 
 Depending on how the magi are reeled into this story, they may visit The McGovern or The McTiernan before attending the wedding. For better storytelling purposes, they should arrive a few days before the wedding. It takes almost a day to travel from either of the baron's homes to the new church.
 
-#### **The McGovern Castle**
+#### The McGovern Castle
 
 The McGovern lives in a typical baronial castle, a stone fortification holding servants, craftsmen, his personal family, and a dozen household knights. The castle does not have an aura of any type. When the magi arrive The Mc-Govern is preparing his departure for the wedding. It is a prestigious affair, to which all of his kin have been invited, and the preparations are time consuming. During the day The McGovern can be found in his solar, impatiently pacing back and forth while his wife, Imag, sits by the window embroidering.
 
@@ -2621,7 +2621,7 @@ A low-level Intellego Mentem spell (base 5) reveals that The McGovern's mental f
 
 The McGovern is sick of agreeing and then disagreeing to the marriage, and has decided to go regardless. He'll either marry his son to the McTiernan girl, or start a fight with his hereditary enemy, deciding when he gets there.
 
-#### **The McTiernan Castle**
+#### The McTiernan Castle
 
 Similar in construction to the Mc-Govern's castle, The McTiernan's castle sits in Tullyhunco. Fiona leads the player characters to her father's solar, where her aging father sits in contemplation. Weaker than his Tullyhaw counterpoint, Hugh McTiernan is more easily controlled by Father Pádraig's Entrancement power. Sitting with his wife Caoimhe (pronounced KEY-VA), his fourth wife and Fiona's step-mother, The McTiernan welcomes visitors and thanks them for attending. His household should be ready to leave in a few days.
 
@@ -2634,7 +2634,7 @@ Hugh has been influenced just as Gillisa McGovern has been, and the same spells 
 
 they leave, Hugh becomes angry. He insists on traveling to the new church, wearing his armor instead of packing it, and confronting Father Pádraig directly.
 
-#### **The New Church**
+#### The New Church
 
 Called "Domnach Nau" in Irish, the new church sits atop the mound, its stone walls gleaming white in the morning sun. The bog is gone, replaced by a large, grassy field, the fecund result of draining the former marshland. Built like many western churches, the church has two large rooms, the nave for the laity and the sanctuary for the clergy. An ornate wooden partition, called a rood screen, separates the sanctuary from the nave. The nave does not have pews, an addition that starts to appear in Mythic Europe later in the century. A porch sits outside the nave, useful for open-air events and informal congregational gatherings. The building runs west to east, porch-navesanctuary, with the main doors in the west end and the sanctuary facing east.
 
@@ -2652,7 +2652,7 @@ If Pádraig is not caught, he and Uallachán congratulate the happy couple and p
 
 The diabolists' plans diverge on the eve of Tadhg and Fiona's wedding. Pádraig spends the evening contemplating the morning's sermon and his revealing his desire to incorporate Crom Dubh into the area's worship. Uallachán plans to include more than just the Dark One's name, and hopes to return his dark master to earth. Finally, he thinks, his time has come.
 
-#### **The Night Before**
+#### The Night Before
 
 The clerics encourage the attendants to feast, and have provided ample food and drink. The hired musicians and poets sing the old songs, the same ones they have been playing at the barons' castles. The player characters may find the subject matter odd and comment on it. The locals shrug and say that Pádraig has been encouraging such music for a few years. Most enjoy the musical revival and tap their feet in accompaniment. No one takes the subject matter seriously.
 
@@ -2675,7 +2675,7 @@ The characters from the previous adventures age another five years, each receivi
 
 **Abilities:** Leadership 2 (household staff), Intrigue 3 (local noble politics)
 
-#### **Tadhg McGovern**
+#### Tadhg McGovern
 
 Tadhg becomes a knight in his father's retinue. Make the following adjustments to his character sheet.
 
@@ -2691,7 +2691,7 @@ Tadhg becomes a knight in his father's retinue. Make the following adjustments t
 
 **Abilities:** Ride 3 (in pursuit), Single Weapon 4 (long sword)
 
-#### **Father Pádraig**
+#### Father Pádraig
 
 Having undergone an Infernal Initiation, Pádraig has a new Virtue and a new Flaw. Adjust his character sheet as follows: **Characteristics:** Int +2, Per 0, Pre +2, Com
 
@@ -2713,7 +2713,7 @@ Having undergone an Infernal Initiation, Pádraig has a new Virtue and a new Fla
 
 Entrancement allows Pádraig to convince the nobles to marry their heirs. Since this is a False Power, Pádraig does not know it is aligned to the Infernal, and instead thinks it is derived from the Magic realm. It is not, and characters with Sense Holiness/Unholiness may be able to sense this power's Infernal taint.
 
-#### **Fiona McTiernan**
+#### Fiona McTiernan
 
 Stepping from childhood into adolescence, Fiona becomes a leading figure in the McTiernan household. Make the following adjustments to Her character sheet: **Characteristics:** Int +3, Per –1, Pre +1, Com +2, Str –1, Sta +2, Dex –2, Qik –1
 
@@ -2731,7 +2731,7 @@ Stepping from childhood into adolescence, Fiona becomes a leading figure in the 
 
 **Soak:** +2
 
-#### **Father Uallachán**
+#### Father Uallachán
 
 If the player characters "rescued" Uallachán from the Basalt Tower, they interrupted his Infernal Initiation and he does not receive the Major Virtue: Infernal Blessing. If the player characters did not enter the Basalt Tower, or failed to remove Uallachán from the prison regio, he finished his Infernal Initiation and has the Virtue. In either case, Uallachán spends the last five years practicing his Summoning and Commanding powers. Adjust his character sheet as follows:
 
@@ -2751,7 +2751,7 @@ If the player characters "rescued" Uallachán from the Basalt Tower, they interr
 
 **Abilities:** Commanding 12 (Furies), Penetration 4 (Summoning), Summoning 15 (9) (False Gods)
 
-#### **Favored Maleficia:**
+#### Favored Maleficia:
 
 *The Perfidious Dagger* (Incantation/Psychomachia 30/+14): This maleficium makes the target attack someone chosen by the caster. Uallachán will use this maleficium to make grogs attack their magi.
 
@@ -2768,7 +2768,7 @@ acters. Commanded to kill his target, the Red Knight fights to the death. Uallac
 
 The Red Knight may be too powerful for the group. In this case, the demon kills its target and, fulfilling its order, leaves the mundane realm. Following tomorrow's Mass, Uallachán promises to hold a funeral instead of a wedding.
 
-#### **The Morning**
+#### The Morning
 
 If the wedding is still on, Father Pádraig and Father Uallachán are in the church readying the Mass that proceeds the marriage ceremony. If Pádraig has been apprehended and the wedding is off, Uallachán invites his guests to the Mass. The barons and 200 guests crowd the nave. The officiating priest, Pádraig or Uallachán, asks Tadhg and Fiona to join him in the sanctuary. Those in the sanctuary are separated from the nave by the rood screen. Only the first few ranks of the congregation can hear the ceremony, which is spoken in Latin. Most of the guests, even the barons, aren't paying close attention to the clerics.
 
@@ -2826,21 +2826,21 @@ Make Uallachán's Summoning roll when he tries to summon Crom Dubh. He has almos
 
 It is unlikely that the magi have an army with them, but they may have found a way to clandestinely join the king of Briefne's army. Mass combat is handled as a series of vignettes, each focusing on a smaller combat that includes the player characters. If the characters can win three such events, they win the battle. Each event lasts for five combat rounds. *Lords of Men* has detailed rules to develop other events than the three described. *Lords of Men* also has combat statistics for standard combat groups (page 108).
 
-#### **Event One: Attacking the Line**
+#### Event One: Attacking the Line
 
 Crom Dubh rides in the center of his army, so the magi have to penetrate ranks of warriors to reach him. Mounted knights ride in the front, a typical medieval tactic, offering a solid line of gleaming mail and burnished swords. The magi must defeat two trained groups of five mounted knights to succeed, meaning they have broken through the line and stand in a wild, chaotic melee. Failure means that the magi can't push through, and must try again at a different point in the line; repeat this event with a slightly different sized force.
 
-## **Event Two: Awash among the Infantry**
+## Event Two: Awash among the Infantry
 
 Having bashed through the front, the characters stand surrounded by footmen. Three groups of five untrained infantry charge with poleaxes. The magi must rout them within five rounds, by slaying more than half of them (8 menat-arms), or through magical effects. Taking longer brings more infantry to bear. Failure means that the characters are pushed away from the army's center and must deal with the mounted knights again; repeat Event One.
 
-## **Event Three: Take the General's Head**
+## Event Three: Take the General's Head
 
 Their success takes the magi to the very heart of the army, and the group stands before Crom Dubh. The False God is mounted on a huge destrier, accompanied by a trained group of five mounted knights, who act as the Dark One's defender. So defended, the Dark One creates pits beneath the magi's warriors' feet, dropping them into the ground and disrupting their group. Once the magi's party is in disarray the group of knights disperses, each knight picking an individual target. The Dark One saves the magi for himself, and will not spare them for anything. This event can take as many rounds as necessary.
 
 If the characters gain the upper hand, Crom Dubh assumes his spiritual form (this takes one combat round) and retreats to the mound. If he can; the magi might be too strong for him and kill him quickly. In both cases, the Dark One's army is defeated and a general rout ensues.
 
-#### **Below Ground**
+#### Below Ground
 
 The magi may want to defeat the Dark One below ground, in his throne room under the mound. Attacking immediately after Crom Dubh returns to the mundane realm is easiest. If the magi linger and let Crom Dubh assemble an army, he uses the church as his headquarters and keeps his troops in the surrounding field. While his troops are on campaign, he periodically returns to his throne room to plot and scheme, changing into his spiritual form to quickly make the journey from the battlefield to his headquarters. The magi may lie in ambush, waiting for his return.
 
@@ -2981,7 +2981,7 @@ Before these stories are run the storyguide needs to fit them into the saga.
 
 This sequence of stories deliberately does not use specific locations; it can take place in almost any Tribunal with minor adaptation. The non-magi have names that have versions in most European languages, and can easily be adapted. The storyguide should decides on three locations fairly close to the player magi's covenant, ideally places that the characters know of in advance.
 
-#### **The Town**
+#### The Town
 
 The first story takes place in a small town experiencing rapid growth, henceforth referred to as the Town. It is not the closest settlement to the covenant, nor the place where the bulk of their income or supplies is generated, nor their main vis source, nor the location of a chapter house or an important ally or contact. Instead, it should be a place where the magi could have future plans for expansion, business, or a network of informers, where servants or specialists can be recruited, or a frequent stopping point on travel routes. The covenant might have secondary business interests here, which deepens their involvement in ways that are discussed later.
 
@@ -2989,7 +2989,7 @@ The Town has already seen a significant migration from rural areas. It is a coas
 
 The important feature is that the town is rapidly expanding due to a recent unexpected improvement in circumstances, which was caused by interfering magi. The town could be placed inland with only minor adaptation.
 
-#### **The City**
+#### The City
 
 The second location is a large town or a city, henceforth referred to as the City. This is where the archdeacon normally resides, and it has a large church housing the chapter of canons, which is referred to as the Urban Church. The
 
@@ -3002,7 +3002,7 @@ When a holy mystic called Diludicus was the only member with True Faith, the tra
 
 Urban Church's crypt holds the base of operations for Fabianus and his holy mystics. Distance from the player covenant is only limited by the need to be within the same diocese. The City may very well have more churches than the archdeacon's. However this sequence of stories does not involve the bishop of the diocese, and therefore the City should not hold his cathedral. The player magi need no prior connections to this place.
 
-#### **The Neighboring Covenant**
+#### The Neighboring Covenant
 
 The third location is the Neighboring Covenant, which can have any existing relationship with the player covenant, or none. This is the covenant of Arctura and Decarius, but further details of this covenant and other magi are not presented in this material, since it depends heavily on the saga setting. The saga may even already have two magi in dispute to take the roles intended for Arctura and Decarius. In either case one or more of these magi have previously meddled in minor affairs in the Town, leading to raised eyebrows but no legal action. The Neighboring Covenant does not play a major role in the stories, so it should be easy to use an existing covenant in the role.
 
@@ -3052,7 +3052,7 @@ Eutropia of Guernicus, a junior Quaesitor, arrives as planned, with a single gro
 
 The players may roll Int + Organization Lore: Order of Hermes when the magi first hear the names of the magi involved in these stories. Consult the table below to see what they know. Apply a +1 to +3 bonus for taking the time to research books and records, or correspond with appropriate sodales.
 
-#### **Ease Factor Information**
+#### Ease Factor Information
 
 6 Fabianus ex Miscellanea is known to be a magus dealing in incomprehensible magic, a hedge wizard, living an unremarkable life within the Order. Arctura is a Flambeau and Decarius is a Tremere from the Neighboring Covenant, and the two have been at odds for many years.
 
@@ -3062,19 +3062,19 @@ The players may roll Int + Organization Lore: Order of Hermes when the magi firs
 
 The fire in the Town appears unnatural, and Fabianus informs the archdeacon of the Neighboring Covenant's interference prior to the crisis. The archdeacon, in turn, complains to the Order and asks that they investigate the possible meddling.
 
-#### **A Quaesitorial Investigation**
+#### A Quaesitorial Investigation
 
 The default assumption is that House Guernicus assigns the junior Quaesitor Eutropia to look into the matter, and ask the player covenant to assist with their superior local knowledge. The magi are not suspects, but this is a delicate matter and helping to get to the bottom of it will defuse future accusations that political enemies might raise. The main task is to determine whether the disastrous events are completely natural, or show signs of supernatural interference. Eutropia is intended to provide abilities that the player magi lack, rather than taking the lead in the investigation. Given the nature of the investigation, she has been designed as an expert in examining supernatural effects and residues. If the player magi are fully competent in this area, instead use the basic Guernicus template in **ArM5**, page 26 for a more generally skilled Quaesitor. If the player characters are completely lacking in social skills, Eutropia could be redesigned to fill that role, although it would be harder to explain why she, in particular, was sent.
 
 Magi who are active in politics and follow the workings of the Order know in advance that the archdeacon is behind the complaint. The Quaesitores give the player characters notice before Eutropia arrives, and the schedule for the story has the player magi arrive in the Town between two and four months after the fire. On the other hand they may be very proactive and events may unfurl more quickly after the crisis, especially if the Town is a location in active use by the magi. The base magnitudes needed to sense magical effects may need adjustment if the schedule is very different from that envisaged.
 
-#### **Personal Motivations**
+#### Personal Motivations
 
 Not all sagas have the same interpretation of the Order's cohesiveness and the Quaesitores' impartiality, in which case there may be no request for aid from House Guernicus, and perhaps not even a formal investigation. In this case, the storyguide should give the player magi personal reasons to get involved. Story and Personality Flaws are a good starting point, such as Mentor, Feud, Fostered Apprentice, or Tormenting Master. Another magus — likely from the Neighboring Covenant or the old and powerful covenant in the saga most likely to receive the archdeacon's complaints — may ask the player magi to look into the matter of the fire in the Town. Covenant Hooks are another good entry point.
 
 If the Town happened to be a resource for vis, provisions, or income, player magi should feel even more motivated to act. They hear of the disaster early on and are likely to investigate without being asked. It is recommended they hear of the archdeacon's concerns about Hermetic interference, relating to the recent de-silting of the harbor as well as the fire. However, forcing the players onto the defensive in this way is easily overdone. The focus here is on having the player magi proactively involve themselves in the matter, to give them an opportunity to gain resources and contacts if they work for it.
 
-## **A Quaesitor Among Player Magi**
+## A Quaesitor Among Player Magi
 
 If the player magi include a Quaesitor the simplest approach is to make this an official mission. Eutropia may be assigned to assist if her specialist skills would be useful, but she need not appear at all.
 
@@ -3159,17 +3159,17 @@ against an Ease Factor of 12 reveal more information, opinions, and witness acco
 
 references to previous visits give a bonus.
 
-#### **Pious and Successful Group**
+#### Pious and Successful Group
 
 The pious individuals are almost all trained craftsmen, merchants, or other providers of professional services. Spirits are high among them, and they attribute it all to the grace of God. The turning point for their crisis was the visit from the archdeacon, and the lucky breaks they had following that with finding the resources unharmed by the fire. They humbly but readily tell stories about success of their fellow pious townsfolk, but are reluctant to talk about the responsibility of specific people for the fire, or about those who are not doing so well.
 
-#### **Sinful and Unsuccessful Group**
+#### Sinful and Unsuccessful Group
 
 Most of the sinful group is made up of seedier and suspicious-looking inhabitants working in taverns and brothels, or engaged in criminal activities. It also encompasses some of the dirtier and heavier crafts, especially those involving forges, kilns, or other fires. This includes bakers, potters, blacksmiths, and coincidentally a lot of unskilled workers employed as night watchmen by the guild. Reluctantly, they admit to not being avid churchgoers, and that they also did not attend the special service held while the archdeacon visited. The blacksmiths all accuse each other of responsibility for the fire, behind their neighbors' backs. Some lay the blame on the night watchmen or the flawed fire response. A few people truly believe they have been cursed and hint that the visiting clergymen may have been praying to the wrong god. They all refuse to elaborate upon the matter if asked directly.
 
 If both groups are questioned and the specific facts of success and misfortune analyzed, it seems the sinners have suffered no higher frequency of bad luck than could be expected. A series of unfortunate events simply resulted in a situation all but impossible to turn around. However, the pious group shows skill at rebuilding beyond what anyone, including themselves, expect, and seem to have unnaturally good luck. In addition to this, they help each other, so that even the least skilled person eventually turns his misfortune around.
 
-#### **The Town Council**
+#### The Town Council
 
 The council consists of the most influential and wealthy craft, service and trade masters leading their respective groups in the guild (see insert nearby). They are busy leading the rebuilding effort for their own business as well as planning the Town's regrowth. They are harder to get access to than most other townsfolk, but the potential for bringing in new trade is a great incentive, and a clever cover story wins their time. The merchants, builders, and clothiers are part of the pious group, and their leaders
 
@@ -3191,7 +3191,7 @@ tell similar stories. However the smiths are at a low point, as the fire destroy
 
 The church itself is at least a century old and by no means impressive, but it is well kept. With the recent growth of the Town it is rapidly becoming too small. The lack of space further reduces the least pious inhabitants' inclination to attend sermons. Otherwise, it is as churches should be, with a minor relic beneath the altar, creating a Dominion aura of 4 inside.
 
-#### **The Priest**
+#### The Priest
 
 The church in Town is run by the middle-aged priest Father Charles, a fair-minded, educated, and perceptive individual. He was asked in person by Archdeacon Petrus a few years ago to keep an eye on any unusual events, and to report directly to the archdeaconry should any happen. This did not seem at all odd to him, as the archdeacon is a senior cleric watching over his flock. When the harbor was suddenly found to be deeper than usual his suspicions were raised. After looking into the matter superficially and with no special skills — he found no evidence of supernatural interference, and raised no alarm, although he did inform the archdeacon of this. He was also asked to keep a spare room to accommodate various clerics needing to rest a few days during a journey or to stay and study with him.
 
@@ -3216,7 +3216,7 @@ Warfare or bandits are a bit different, as this crisis is obviously not due to i
 
 an unknown hand describing, almost to the word, the conversation between Eutropia and the senior Quaesitor who gave her this task. It features neither sender's name nor a seal, but the recipient is the Archdeacon Petrus. The letter is over one month old, and so no longer viable as an Arcane Connection.
 
-#### **A Traitor in the Order?**
+#### A Traitor in the Order?
 
 If the letter is discovered, Eutropia is alarmed, since this information was known to only those two magi of House Guernicus, and there are only three other magi who could reasonably have found out. She was inside the Neighboring Covenant in a secluded building watched by her grog while conducting her investigation, and speaking with the three magi Arctura, Decarius, and Fabianus when her superior arrived unannounced. She stepped into a separate room and only someone invisible or who scryed on the room could have heard the conversation. This is illegal under the Code of Hermes, and the Quaesitores are especially opposed to scrying on their organization. Furthermore, keeping the archdeacon so well informed of Hermetic matters is no trivial matter either, as there is a great risk of further complaints from the church whenever magic is or could be the cause of anything believed to be unnatural. Eutropia urges caution, since this unknown informer may intercept messages and relay information to the archdeacon. She would rather discreetly gather evidence and positively identify the traitor before going public. Charging in and questioning under *Frosty Breath of the Spoken Lie* is ill-advised as not only does it risk antagonizing the three suspects, it may tip off the traitor if they do not question him first.
 
@@ -3480,13 +3480,13 @@ If the investigation of the crypt drew unwanted attention, or caused material da
 
 A single specific person as well as some general personnel are briefly described here, with only their key statistics listed. The clergy live on the church grounds, and their business occasionally takes them away from the site. The wardens, on the other hand, all live off site, and can be spoken to elsewhere, with fewer prying eyes and a less detrimental aura.
 
-#### **Julius the Illuminator**
+#### Julius the Illuminator
 
 Player characters coming to the church asking questions about books are sent Julius' way. He is a jolly dwarf of a clergyman employed as scribe and illuminator for the church. His Personality Traits are Happy +3, Pious +2, Naive +2. If the storyguide uses the clue with a drop of blood from the book on Parma Magica, the Arcane Connection leads to him. He happily prattles on and on to learned visitors about books on academic or church-related subjects, and if asked indirectly about 'special books' he counters by asking them to be more specific. If the player characters ever mention Hermetic or "magic" books, or something similar, Julius gladly tells them that he has no current such projects but that the books he finished were all taken by the canon Raphael, who handles the books for the downstairs library. Julius has never been there but he knows that the entrance is down though the crypt. He does not mention Hugo casually, but this information is revealed after a successful Com + appropriate social Ability roll against an Ease Factor of 12. Mentem magic may reveal all his secret knowledge: Julius has illuminated the Parma Magica book, as well as the non-Hermetic books on holy Methods, Powers, and Abilities (see the library description found later). However, he cannot distinguish between them as they are all simply 'special books' to him. In his eyes, Hugo is some kind of holy mystic, and he suspects that the same is true of several of the canons. He sees this as nothing
 
 sinister, only very interesting and best kept from outsiders.
 
-#### **Churchwardens**
+#### Churchwardens
 
 These men are employed by the church to keep order and prevent intruders and thieves. They are hired for their brawn rather than any other qualities, and they are quite loyal to the church as an employer but not terribly pious.
 
@@ -3515,7 +3515,7 @@ anus and the archdeacon continue to monitor any supernatural meddling in the Tow
 
 Fabianus inherited books on Divine, supernatural subjects from his pater, and has collected some Hermetic books for use by the Servants of God. As primers are found in plenty his procurement of them over the course of a decade has not raised suspicions. The library is supplemented by books on academic and church related subjects, copied from the church's library. Their known vis sources includes a holy spring yielding 20 pawns of Divine Creo vis annually. As they have little use for vis, a significant amount has been stockpiled. The exact amount of vis income and in stock should to be adjusted to match your saga's vis economy. Apart from this, the church provides food, lodgings, workforce, protection, and even covers other expenses as well, enabling the Servants of God to exist as a group of holy mystics, or perhaps as a covenant later on if Fabianus' plans unfurl. The mystics earn these privileges by doing service as canons, mostly special missions as in the Town during the first events of this sequence of stories.
 
-#### **Church Books:**
+#### Church Books:
 
 *The Bible:* Summa, Theology (Level 10, Quality 3); Summa, Organization Lore: Church (Level 3, Quality 3).
 
@@ -3557,7 +3557,7 @@ Fabianus inherited books on Divine, supernatural subjects from his pater, and ha
 
 *Miraculous Magic:* Tractatus, Holy Magic (Quality 12)
 
-#### **Hermetic books:**
+#### Hermetic books:
 
 *Hermes' Parma Magica:* Summa, Parma Magica (Level 3, Quality 12), although their copy is most likely kept in the Town; see earlier.
 
@@ -3671,7 +3671,7 @@ Edward is in practice currently being trained by the holy mystics. Formally and 
 
 Edward has been told to volunteer no information, but to answer questions honestly if asked directly. He thinks of himself as Hugo's apprentice in the Order of Hermes; if asked about the name Fabianus he says that it sounds familiar, but he cannot remember from where. Mentem magic can recover his memory of the name on the door in the crypt. However, Edward only agrees to lower his Parma if faced by a Quaesitor in good standing. If directly asked, he shows characters the crypt under the Urban Church where he is trained. He will agree to go with characters to face a Quaesitor, and is happy to submit to Hermetic justice. He does not know that his knowledge of the Parma Magica is unusual and possibly illegal, but he does know that his Holy Magic is different from standard Hermetic magic, and that he is to play a role in converting the Order.
 
-#### **New Flaw: Church Upbringing**
+#### New Flaw: Church Upbringing
 
 This Minor Personality Flaw covers children schooled by the Church and mostly raised by clerics as well, a fate befalling some orphans, bastards, Gifted children, and other misfits. The Church may act out of charity or a wealthy individual may have paid to discreetly get a difficult child out of the way. This secluded upbringing leaves the character less knowledgeable about the rest of society, which he finds unstructured, uncouth, and confusing. The player must spend 25 experience points from the normal budget on Artes Liberales, Latin, Music, Organization Lore: Church, or Theology. Unless the character has a Virtue that permits it, no other experience points may be spent on Academic Abilities.
 
@@ -3682,11 +3682,11 @@ Fabianus' actions have been highly unwise, and he is guilty of two major Hermeti
 
 His crimes are brought before Tribunal where mystics' petition to join the Order is also treated. Since Fabianus' plans have moved to a new level he has no reason to stay in hiding and wants to work publicly to garner support for the Servants of God and himself. The appropriate penalty for his crimes is probably less than a March, so Fabianus feels confident that he can appear safely. If anyone does attack him, they find themselves the subjects of a new investigation.
 
-#### **Scrying**
+#### Scrying
 
 The punishment for scrying needs to fit the damage done or the actual intent, unless magical secrets were uncovered, which is always treated seriously. Fabianus argues that he accidentally overheard a conversation between magi, and stopped scrying upon realizing this. If the magi in question had not been Quaesitors, Fabianus might have expected a light fine, but scrying on Quaesitors is not something House Guernicus lets slide easily. They are unlikely to call for a March, unless the events of the stories suggest it, but a steep fine in vis or services is likely.
 
-#### **Spreading Parma Magica**
+#### Spreading Parma Magica
 
 The gravity of spreading the secret of Parma Magica, mentioned in brief on **ArM5**  page 66, requires enforcing the Join or Die policy on the student as well as Marching the magus teaching it. However this only refers to outsiders! Fabianus argues that he never had any intentions of disseminating the Order's secrets to outsiders. He taught it prematurely to his apprentice, because he saw a need for it and as protest against the usual practice. His apprentice would eventually become fully accepted magus
 
@@ -3695,11 +3695,11 @@ and no harm would be done. He assures the Tribunal that had any risk appeared �
 
 There is no doubt that Fabianus taught Parma Magica to someone who had not sworn the Code, so in this case there is clearly space to call for a March. However, the person in question was Fabianus's apprentice, so things are not so clear-cut. While some magi would demand severe punishment, others would want to see this made into standard practice, both for the safety of the apprentice, and to enable other tutors to work effectively. Most magi would not see this as automatically requiring a March, many might look for a lighter punishment, and some might hope to change the Peripheral Code by acquitting him altogether.
 
-#### **Voting**
+#### Voting
 
 The opinions of player magi may vary and whether their votes turn the tide depends on the specific saga. Arctura, as mentioned in her character description, votes to support Fabianus and she does her best to guide the hands of magi she normally associates with. Decarius, on the other hand, is opposed, not so much to the matter of scrying but to Fabianus' grand plans as a whole.
 
-#### **Wizard's War**
+#### Wizard's War
 
 If Fabianus is not found guilty, his opponents have the option of declaring massive and coordinated Wizard's Wars on him. In fact, this is an option before the Tribunal or even as a replacement for legal measures. Fabianus is too weak to fight any serious opposition, although his Guardian Angel poses a threat. While the archdeacon is powerless to prevent this, he does offer
 
@@ -3778,7 +3778,7 @@ Fabianus' pater was originally an insignificant magus ex Miscellanea from anothe
 
 als are considered for membership of the Order. These usually find a member of the Lineage of Pralix for a short time of formal apprenticeship, which is used to Open their Arts, and teach them about the Order. As the mystics are not Gifted, they can be refused membership. Most other magi don't see any argument for accepting unGifted hedge wizards of any kind, and if the Order suddenly does, a veritable flood of useless mystics thinning the ranks of true magi is an acute risk. If their petition to join is rejected, Fabianus asks they be at least acknowledged as a group of interest and offered some degree of protection. Magi sympathetic to his cause see a use for them and would rather have them protected by the Code. If nothing else works, Fabianus claims they are integral resources needed for his magical projects, and any harm done to them is deprivation of magic. However, this runs the risk that the Tribunal will decide to execute them as punishment for his crimes.
 
-#### **A Holy Societas**
+#### A Holy Societas
 
 If the mystics join or otherwise closely associate with the Order, the archdeacon is pleased, even if they are required to stop working for him directly. Indeed, he grants them the necessary permission to do so. As he sees it, his most trusted people have ties to the Order and can work from the inside. His goals are not to destroy or rule magi, but rather nudge them toward harmonizing with and embracing God and the Dominion. He hopes that eventually the mysterious taint of The Gift will disappear and that magi will accepted by society, with piety taking precedence over selfishness and sin. This he leaves to the holy mystics to further from the inside, in fact he backs off and only raises complaints about gross miscon-
 
@@ -3812,7 +3812,7 @@ If the mystics join or otherwise closely associate with the Order, the archdeaco
 
 **Abilities:** Awareness 6 (alertness), Concentration 5 (angelic powers), Infernal Lore 3 (demons), Dominion Lore 3 (angels), Penetration 5 (holy light), Single Weapon 6 (longsword)
 
-#### **Powers:**
+#### Powers:
 
 *Guardian Angel,* 5 points, Init +0, Vim: Zurfiel can grant Soak +5 and Magic Resistance 15 to a pious person in his charge, mimicking the Virtue of the same name in **ArM5**, page 43. While doing this, Zurfiel gains a limited access to the target's thoughts.
 
@@ -3902,7 +3902,7 @@ However the player magi were involved in these stories, life as they know it has
 
 Some sagas may view Fabianus' actions, particularly with the Parma Magica, much more seriously than assumed by the line in general. Whether or not harm was done or even intended the secrets of Parma Magica might be protected almost fanatically, and for this reason Fabianus and Edward the Apprentice may be Marched and killed. In this case his other transgressions and indiscretions are relevant. The archdeacon is deeply angered by such actions, and Fabianus may have supporters within the Order who come to see him as a martyr. Indeed, he may **be** a martyr, and become a minor saint. The consequences of such actions can drive many future stories.
 
-#### **Sanctuary for Fabianus**
+#### Sanctuary for Fabianus
 
 As mentioned earlier Fabianus, flees in the face of certain death and heads for the Urban Church in the City to ask for sanctuary. Should he make it, this is granted to him by Archdeacon Petrus. Although this does not in any way prevent magi from entering the church grounds and killing him or hauling him off, it should certainly act as a deterrent to such rash behavior. Apart from anything else, it is not obvious that a declaration of Wizard's March grants immunity from the clauses of the Code prohibiting interference with the mundanes, and an assault on a church certainly qualifies as that. From here, Fabianus tries, by correspondence with the Quaesitors, to reach a compromise, one that the Order can't and won't grant him by way of the letter of the Code, no matter how compelling his arguments may be. The archdeacon supports him in trying to reach a diplomatic solution, but he does not intend to make major trouble over it, not unless his church or his clergymen are harmed. If threats are obvious, the church employs professional guards from the City, or a group from a militant order (**The Church**, page 126) "just happens" to pay the archdeacon a visit. The archdeacon does not want things to escalate, and there are limits to how much he is willing to risk for Fabianus. If things look bad, he is willing to help Fabianus escape and relocate by use of stealth, and if such an attempt is foiled by magi but Fabianus is not caught, his last resort is to send the renegade magus off with an armed escort.
 
@@ -3950,7 +3950,7 @@ The visitor is clearly a noblewoman, and as she comes closer Area Lore rolls may
 
 **What is known about** 
 
-#### **Lady Gracia St. Daune?**
+#### Lady Gracia St. Daune?
 
 An Intelligence + Area Lore: County of Toulouse test (or similar ability; Gossip and similar Virtues or Flaws provide a +3 bonus) reveals information that is already known to people at the covenant about Gracia St Daune and her husband from talking to visitors, and while traveling.
 
@@ -3990,23 +3990,23 @@ Lady Gracia remains extremely calm and poised as she tells her story, but she is
 
 A Perception + Folk Ken stress roll against an Ease Factor of 12 (because Gracia is capable of lying if need be) reveals that she is telling what she believes to be the truth, but is holding something back. A few questions the magi might ask follow. Lady Gracia answers forthrightly any question she thinks will help her get the magi involved in protecting her. It is impossible to cover all possible questions, and the storyguide should provide other answers as required based on what Gracia knows.
 
-#### **Q. You say your husband came to you. Did he come alone and act normally?**
+#### Q. You say your husband came to you. Did he come alone and act normally?
 
 **A**. He came in suddenly, just after she had retired. The maidservant Eloise saw him, and he dismissed her from the chamber, saying he wished to be with his wife. It was definitely him, in every respect; only his accent seemed slightly odd, but she put this down to him having been in Rome so long. He even addressed her by a secret pet name that no one else ever uses, or to the best of her knowledge knows, and made remarks which no one else could have known (and she blushes) about things that had transpired in their bedchamber in the past!
 
-#### **Q. How was he dressed when he came in?**
+#### Q. How was he dressed when he came in?
 
 **A**. He was wearing the same clothes he departed in, but with his armor on. He took off the armor and lay down his sword, and she moved it from where he balanced it against the bed, as it could have easily fallen and injured someone. It is uncharacteristic of him to be careless like that, though. The sword was no dream; it felt heavy and perfectly solid, and so did her husband when they coupled.
 
-#### **Q. Did anything seem wrong about him?**
+#### Q. Did anything seem wrong about him?
 
 **A.** He seemed cheerful, but was in a hurry to bed her. He was more urgent, insistent and not as gentle as normal; she put it down to the long period they had been apart. She recalls only one thing that was slightly odd; he was wearing a strong musk perfume, sweet and not unpleasant, indeed quite seductive. He told her he purchased it in Rome.
 
-#### **Q. When did he leave?**
+#### Q. When did he leave?
 
 **A.** He got up at some point in the night, and never returned. Eloise saw him going out to the courtyard, but the soldiers on watch did not see him leave, and no one in the town mentioned seeing him, nor was his horse ever stabled.
 
-#### **Q. Who are the three people you mentioned who asked you who the father was?**
+#### Q. Who are the three people you mentioned who asked you who the father was?
 
 The maiden who asked about the father was a young woman who had married that day whom she met while out hunting, and to whom she gave a purse of silver. The bride and groom were not from Montcuq, and Gracia was heavily pregnant at the time. The girl seemed to be not very bright, and asked Gracia who the father was. This should have upset her, but she was confused as to why anyone would ask the question, as she keeps remembering a dream she had where the Comte was delighted by news of her pregnancy before he set off. Her mother-in-law, Bonita St. Daune, lives in Carcassonne. She came to throw Gracia out of the castle, having apparently received a letter saying that she was pregnant. A furious row followed, with Gracia insisting the child was her husband's and conceived before he set off, and Bonita furiously arguing with her. However just before the evening meal (taken just after sunset, if anyone asks), she calmed down, seemed embarrassed and apologized profusely. Finally, while out hawking one day she met Father Tomas, a town priest, who questioned her at length about how she could be pregnant when her husband was away so long. Gracia states she responded indignantly, and accused him of listening to Cathar gossip, before riding back to town. He has not raised the matter since.
 
@@ -4014,7 +4014,7 @@ The maiden who asked about the father was a young woman who had married that day
 
 **A.** Back at the castle with his nurse. It is not safe to take such a tiny infant on a journey, after all.
 
-#### **Q. How do you know so much about the Order of Hermes?**
+#### Q. How do you know so much about the Order of Hermes?
 
 **A.** As a young girl she met Valgravian of Jerbiton many times, a scholar from the covenant of Bellaquin. He was a good friend of her father, who is sadly no longer with us, having died a decade or more ago. She has not seen Valgravian since. (Lady Gracia's father was a wealthy wine merchant, of no noble status. She avoids revealing this, lying if need be and dodging questions concerning him, but if pressed hard she admits that he was a companion of the magi of Bellaquin (a local covenant). She avoids the topic of her mother almost completely, apart from to say she died
 
@@ -4026,7 +4026,7 @@ The main thing Lady Gracia is holding back is that she has come to doubt her own
 
 The lady in question, Alcetta, is a notorious gossip, who if tracked down simply states that she was astonished by Lady Gracia's effrontery in passing off her bastard as her husband's son, and when she made a few subtle digs the woman seemed utterly shameless, right up until the moment when she goaded her bluntly and asked who the father was, at which point she seemed to be struck with guilt and rushed off. Alcetta lives to gossip, and will certainly gossip about any mysterious strangers who come asking her questions.
 
-#### **Eloise, The Maidservant**
+#### Eloise, The Maidservant
 
 Eloise is rather diffident and shy, and very discreet. She will confirm what Lady Gracia has said only if Gracia tells her to. She is utterly terrified of magicians, and nervous around men. The Gift renders her petrified, shaking and stammering. She strongly disapproves of Lady Gracia coming here, but does what she is told, and may be persuaded by older female characters to answer questions, although she knows no more than Lady Gracia. However, she did see the Comte (or his ghost — she is still not convinced he is alive) come in and order her downstairs on the fateful night, and she does recall the peculiar musky smell of his perfume. She therefore sees no problem with the baby.
 
@@ -4048,7 +4048,7 @@ Once the source of the magic is detected the characters are likely to ask where 
 
 Just after entering Montcuq (Dominion aura 3) the characters encounter a wedding procession leaving town. There is a festive air, and the streets are filled with happy and loud people accompanying the bride who is sitting on an ass. They largely ignore strangers, and go out of their way to avoid Gifted ones, but it is possible that some of the guests can be persuaded to explain that they are off to the wedding to be held in a nearby village, "because by the bishop's edict no weddings may be celebrated in Montcuq!" If the characters decide to confirm this at Cahors, the bishop has no knowledge of the proclamation.
 
-#### **The Church**
+#### The Church
 
 Father Tomas can be found near the church, and has little to add to Gracia's account. After the birth of her son he went to the castle to arrange the baptism of the infant, and to politely inquire as to how she came to be pregnant while her husband was so long away. He is embarrassed that he asked, and can no longer remember why he thought it was unusual. He can't remember exactly how long ago the Comte left, but he is absolutely certain that there was nothing suspicious about the birth, though if the characters can assure him he was right in the first place his suspicions return, and he finds it odd he stopped being concerned. As he is rarely in the market building at noon, the keep at sunset, or passing through the town gates, once his suspicions are raised he starts to make discreet inquiries, and starts to realize that something is terribly wrong in Montcuq.
 
@@ -4065,11 +4065,11 @@ In this region the term Comte, literally Count, is used for any nobleman of stan
 
 did bell, which is rung during weddings. Galafre has not got round to removing it yet, but he has cast a spell to silence it.
 
-#### **The Market Building**
+#### The Market Building
 
 Before the gates of the castle stands the market square, a large space now partially filled in with permanent stalls and a large area of cattle pens. One section in the center has a brick floor and a red brick upper story supported on brick columns, and at ground level is open to the street on all sides. The covered market is used for cheese and dairy transactions, and the upper rooms by the local guilds, who each have it for one day of the week, excluding weekends when it is used for town business. The consuls of Montcuq, twelve elected leading citizens who represent the town's interests by advising the Comte, meet here once a month to drink wine and bemoan their lack of real influence in local government. The door to the room is locked, and a locked chest within the room contains the consul's seal and various town charters. The room also contains a wooden statue of the Comte — this is actually a Glamour, a physical illusion (see *Houses of Hermes: Mystery Cults*, page 101), and within the Glamour is concealed a small crown of knotted cherry tree boughs, an enchanted item made by Galafre.
 
-#### **The Castle**
+#### The Castle
 
 The castle consists of a single stone tower on a rise at the east end of town. A low (three paces high) stone wall surrounds the stables, great hall, bakehouse, and garrison quarters; the gatehouse opens directly on to the town marketplace. The gate stands open during the day, and servants constantly move in and out of the gate, being exposed to the effects of another enchanted Trencavel shield like those over
 
@@ -4088,7 +4088,7 @@ All of the servants eat with various family members, prominent townsfolk and var
 
 The shields are the source of the musky smell, as Galafre's sigil manifests every time the item's effect is activated by someone entering the gatehouse. It affects only the gate room itself, under the arch.
 
-#### **The Scandal Forgotten**
+#### The Scandal Forgotten
 
 PeMe 30
 
@@ -4124,7 +4124,7 @@ Sir Vital is a troubadour who often entertains at the castle, and is frequently 
 
 At noon each day, when the effect is triggered, the room has a faint musky smell, which might be traced to the statue.
 
-#### **Infidelity Ignored**
+#### Infidelity Ignored
 
 PeMe 28
 
@@ -4212,7 +4212,7 @@ Soon stones and other objects were flying around at all times of day and night,
 
 **Personality Traits:** Lecherous +6, Overconfident +3, Irresponsible +2
 
-#### **Combat:**
+#### Combat:
 
 *Dodge:* Init: +0, Attack –, Defense +0, Damage –
 
@@ -4236,7 +4236,7 @@ Soon stones and other objects were flying around at all times of day and night,
 
 **Appearance:** Sir Galafre is a handsome young man who can change his appearance by magic, and his equipment and his clothing by Glamours, and does so whenever he needs to evade pursuit.
 
-#### **Spells Known:**
+#### Spells Known:
 
 *Physician's Eye* (InCo 5) +17f *The Inexorable Search* (InCo 20) +17 *Eyes of the Cat* (MuCo(An) 5) +12 *Rise of the Feathery Body (*ReCo10) +17 *Gift of the Frog's Legs* (ReCo 15) +17 *Phantasm of the Human Form* (CrIm 25) +31 *Aura of Ennobled Presence* (MuIm 10) +21 *Disguise of the Transformed Image* (MuIm 15) +31 *Image Phantom* (MuIm 20) +31 *Removal of the Conspicuous Sigil* (PeIm 20) +28 *Silence of the Smothered Sound* (PeIm 20) +28 *Veil of Invisibility* (PeIm 20) +28 *Image from the Wizard Torn* (Re(In)Im 30) +31 *Sight of the Transparent Motive* (InMe 10) +28 *Perception of the Conflicting Motives* (InMe 15) +28 *Posing the Silent Question* (InMe 20) +28 *Trust of Childlike Faith* (PeMe 10) +33 *Calm the Motion of the Heart* (PeMe 15) +33 *The Call to Slumber* (ReMe 10) +28 *Confusion of the Numbed Will* (ReMe 15) +28 *Loss of But a Moment's Memory* (PeMe 15) +33 *Posing the Silent Question* (InMe 20) +28
 
@@ -4245,7 +4245,7 @@ and one evening just three days ago Jacobella arrived and was shown to her room,
 
 If the magi do not think of it, Jacobella can raise the possibility that the boy is Gifted, and this could be the first manifestations of his Gift, in episodes called 'turbulences' by the Order (see *Apprentices*, page 12).
 
-#### **Questioning Jacobella**
+#### Questioning Jacobella
 
 Questioning Jacobella is an obvious first line of inquiry, but she actually knows little more than she has told. She can detail a few specific incidents she saw with her own eyes, like Valentin rising in to the air, and the shower of pebbles that seemed to fall through the roof and bombard her. She lacks Second Sight, so saw nothing, but she notes that events seem to occur equally during the day and at night, though at night they may be slightly more violent.
 
@@ -4332,7 +4332,7 @@ Hork is a hobgoblin, a noisy spirit that afflicts a family. His resentment towar
 
 **Personality Traits:** Wrathful +6, Meddlesome +3, Incoherent +3.
 
-#### **Combat:**
+#### Combat:
 
 *Dodge*: Init: –3, Attack –, Defense +2, Damage –
 
@@ -4459,7 +4459,7 @@ Valentin demands this as justice for his father being shot dead from the walls b
 
 Valentin orders the castle filled with brushwood and fired, hoping to collapse the walls and raze it, and the engineers are ordered to complete the undermining, and to break structural points to ensure that the castle collapses. Valentin's attitude toward the magi will depend on his previous relations with them; he is extremely polite, but he is disinclined to listen to anyone's advice. He has plans, and those plans require him to move fast. Strangely, once his demands for justice for his father have subsided he loses all interest in the question of where his mother and father actually are, and immediately returns to Montcuq to assume his title as Comte. Something is clearly wrong, and it is possible that the characters realize he is under the influence of Vital's *Guide* power, and break it by magic.
 
-#### **Talking to Valentin's Troops**
+#### Talking to Valentin's Troops
 
 If the characters spend some time talking to Valentin's troops they soon learn that the troops idolize him, and that his reputation is much greater than seems to be justified by his abilities as demonstrated up to the moment of his heroic leap. He has been a remarkably successful tournament knight, and is a brave young man, but somehow he is ranked in his mens' eyes with Alexander, Roland, and other great captains of history. Indeed the stories about him that are being repeated by troubadours seem out of all proportion to his actual deeds. (This is because Sir Vital has established them among the troubadours over many years.) A test of Communication + Folk Ken against an Ease Factor of 12 reveals that many of them have heard that Sir Valentin is not the son of Comte Rogier, but was actually begotten upon his mother by the king's father, and may well be the rightful heir to the kingdom. Several of them, on a result of 15, admit that they would support his claim to the throne, and on an 18 state boldly they should march on the capital and put him on the throne! On a 21, however, the story changes, and it is the former count of Toulouse who is said to be Valentin's real father. This new story has yet to take firm hold, but after his heroics at Lolmie it rapidly will.
 
@@ -4512,7 +4512,7 @@ The meeting between the king and Count Raimond is scheduled to take place at Sau
 
 Even if his father has been found, Valentin is quite unable to break free of the evil influence of Sir Vital's *Guide* power, no matter how much he protests he will. In this case, Sir Rogier remains comte, but Valentin is still present and taking an important role as the son of the host of the peace negotiations.
 
-#### **The First Day**
+#### The First Day
 
 On the first day, Sir Vital cannot approach Sauzet. The reason is simple; etiquette demands that the church bell is rung repeatedly to announce the arrival of the king, and each of the other ranking nobles. (Vital's *Sovereign Ward* prevents him entering an area where church bells can be heard.)
 
@@ -4540,7 +4540,7 @@ The terrain is rough, and the walls of the valley riddled with great caves, whil
 
 Afterward the situation is confused, but what appears to happen to a mundane observer is that Count Raimond notches an arrow and lets fly at the deer. The king turns his horse, and watches the deer, while Alphonse rides straight at it drawing his sword. Raimond's arrow perhaps glances off the deer, and appears to strike the king full in the face, yet miraculously he is unharmed. Then
 
-## **But My Setting Has No Cliffs?**
+## But My Setting Has No Cliffs?
 
 It is important that Valentin perform some reckless and successful act of valor; the details do not matter. The aim of this scene is to establish that Valentin has all the makings of a hero, but equally many flaws and poor judgement. While he appears consumed with rage at his father's death, he is in fact exuberant at being finally free to pursue his ambitions. The characters may attempt to temper his youthful passion, but it should become clear something is badly wrong. Valentin is required by his story to betray his family and friends, and the characters have taken on the role of friends by assisting his mother on two occasions.
 
@@ -4575,7 +4575,7 @@ The issue is really, should the magi intervene? If Vital is stymied, he will mak
 
 The major characters from the first part of the story are collected here for convenience. Some of them are repeated in later parts, but altered by the ravages of age and blessings of experience, so be careful not to refer to the wrong section.
 
-#### **Lady Gracia St. Daune**
+#### Lady Gracia St. Daune
 
 **Characteristics:** Int +2, Per 0, Pre +2, Com +2, Str 0, Sta –1, Dex +1, Qik 0
 
@@ -4607,15 +4607,15 @@ The major characters from the first part of the story are collected here for con
 
 **Appearance:** Despite her elfin features, the blonde hair of a queen, and a beautiful face, the most striking thing about the lady is her violet eyes. Other women can not but help be slightly annoyed and put out by her, even if they do not admit their jealousy of her. Men, however, find her utterly charming.
 
-## **Lady Gracia St. Daune, aged 29 (appears 22) (part 2)**
+## Lady Gracia St. Daune, aged 29 (appears 22) (part 2)
 
 **Abilities:** Area Lore: County of Toulouse 4 (Nobles), Artes Liberales 3 (music), Athletics 2 (grace), Bargain 2 (favours), Brawl 1 (rough dances), Carouse 1 (staying sober), Charm 3 (subjects), Civil and Canon Law 2 (family law), Concentration 2 (resisting effects), Etiquette 4 (at court), Faerie Lore (curses) 1, Folk Ken 3 (servants), French 3 (noble), Guile 2 (lying to her maids), Hunt 3 (falconry), Intrigue 3 (Trencavel schemes), Latin 3 (Church), Leadership 4 (Castle Montcuq), Magic Lore 1 (legends), Music 1 (singing sad songs), Occitan 5 (poetry), Organization Lore: Church 2 (pro-Cathar churchmen), Organization Lore: Order of Hermes 2 (covenants), Organization Lore: Trencavel Domains 3 (dynastic claims), Philosophiae 1 (natural philosophy), Ride 3 (gracefully), Stealth 1 (slipping silently across rooms)
 
-## **Lady Gracia St. Daune, aged 43 (appears 22) (part 3)**
+## Lady Gracia St. Daune, aged 43 (appears 22) (part 3)
 
 **Abilities:** Area Lore: County of Toulouse 5 (Nobles), Artes Liberales 3 (music), Athletics 2 (grace), Awareness 2 (faeries), Bargain 3 (favours), Brawl 1 (rough dances), Carouse 2 (staying sober), Charm 4 (subjects), Chirurgy 1 (sword wounds), Civil and Canon Law 2 (family law), Concentration 2 (resisting effects), Etiquette 5 (at court), Faerie Lore (curses) 4, Folk Ken 4 (servants), French 4 (noble), Guile 3 (lying to her maids), Hunt 3 (falconry), Intrigue 4 (Trencavel schemes), Latin 3 (Church), Leadership 4 (Castle Montcuq), Magic Lore 2 (legends), Music 3 (singing sad songs), Occitan 5 (poetry), Organization Lore: Church 2 (pro-Cathar churchmen), Organization Lore: Order of Hermes 2 (covenants), Organization Lore: Trencavel Domains 3 (dynastic claims), Philosophiae 1 (natural philosophy), Ride 4 (gracefully), Stealth 1 (slipping silently across rooms)
 
-## **Jacobella the Redcap, aged 30 (Part 2)**
+## Jacobella the Redcap, aged 30 (Part 2)
 
 **Characteristics:** Int 0, Per +1, Pre +1, Com +1, Str 0, Sta 0, Dex +1, Qik 0
 
@@ -4659,13 +4659,13 @@ bunal 1 (passes), Area Lore: Iberian Tribunal 1 (nobles), Area Lore: Normandy Tr
 
 **Appearance: A** very petite, fragile, boyish woman who could easily pass for a teenage boy, and often does. She never takes off her distinctive red cap, even when asleep, and dresses in men's clothes when on the road, but likes colorful dresses (if she can acquire them) to wear at covenants.
 
-#### **Jacobella, Aged 44 (Part 3)**
+#### Jacobella, Aged 44 (Part 3)
 
 As above, but abilities improved as follows
 
 **Abilities:** Area Lore: Greater Alps Tribunal 2 (passes), Area Lore: Iberian Tribunal, Area Lore: Normandy Tribunal 2 (personalities), Area Lore: Provence Tribunal 2 (geography), Area Lore: Tribunal of Rome 2 (geography), Art of Memory 1 (Latin messages), Artes Liberales 3 (music), Awareness 2 (alertness), Bargain 3 (vis deals), Bows 2 (short bow), Brawl 1 (dodge), Carouse 1 (gambling), Catalan 3 (Barcelona), Charm 1 (being witty), Code of Hermes 2 (mundane relations), Enchanting Music 2 (boosting morale), Etiquette 2 (Hermetic), French 4 (slang), German 3 (Alps), Intrigue 1 (Hermetic politics), Italian 5 (songs), Latin 4 (Hermetic usage), Music 3 (sing), Occitan 5 (Toulouse), Organization Lore: Order of Hermes 3 (covenants), Ride 2 (speed), Single Weapon 3 (short sword), Spanish 3 (Aragon), Survival 1 (camping), Thrown Weapon 1 (stone)
 
-## **Valentin St Daune, Aged Seven (Part 2)**
+## Valentin St Daune, Aged Seven (Part 2)
 
 **Characteristics:** Int –3, Per –6, Pre –1, Com –2, Str –3, Sta –3, Dex –3, Qik –4
 
@@ -4677,7 +4677,7 @@ As above, but abilities improved as follows
 
 **Personality Traits:** Amiable +3, Leader +2, Stubborn +1
 
-#### **Combat:**
+#### Combat:
 
 *Dodge:* Init: –4, Attack –, Defense +1, Damage –
 
@@ -4699,7 +4699,7 @@ As above, but abilities improved as follows
 
 **Appearance**: A very handsome young boy with blonde curly hair and striking violet eyes.
 
-## **Valentin Saint Daune, Aged 22 (Part 3)**
+## Valentin Saint Daune, Aged 22 (Part 3)
 
 **Characteristics:** Int +1, Per –2, Pre +3, Com +2, Str +1, Sta +1, Dex +1, Qik 0
 
@@ -4711,7 +4711,7 @@ As above, but abilities improved as follows
 
 **Personality Traits:** Determined +3, Stubborn +2, Likable +1
 
-#### **Combat:**
+#### Combat:
 
 *Broadsword:* Init: +0, Attack +16, Defense +15, Damage +7
 
@@ -4743,7 +4743,7 @@ shield, partial chain.
 
 ### Dramatis Personae (Cont'd)
 
-## **Sir Vital, Faerie Troubadour (Parts 1 and 3)**
+## Sir Vital, Faerie Troubadour (Parts 1 and 3)
 
 **Characteristics**: Int +1, Per +1, Pre +2, Com +2, Str 0, Sta 0, Dex +1, Qik +1
 
@@ -4751,7 +4751,7 @@ shield, partial chain.
 
 **Virtues and Flaws:** External Vis Source, Improved Might +15, Improved Might +15; Faerie Instructor, Faerie Sight, Faerie Speech, Highly Cognizant, Humanoid Faerie, Improved Characteristics, Infiltrator, Warrior; Ambitious, Pagan, Sovereign Ward: church bells; Prohibition (Never love a mortal woman).
 
-#### **Combat:**
+#### Combat:
 
 *Dodge:* Init: –2, Attack –, Defense +5, Damage –
 
@@ -4773,7 +4773,7 @@ Bows 2 (short bow), Brawl 3 (dodge), Carouse 1 (getting people drunk), Charm 4 (
 
 **"Borrowed abilities":** Area Lore: Local Region 5 (nobles), Craft: Armor 4 (chainmail), Legerdemain (cutpurse) 4, Profession Washerwoman 6 (bedlinen), Ride 5 (escapes)
 
-#### **Powers:**
+#### Powers:
 
 *Guide*, 3 points, Init –2, Mentem. Subtly influences the target's actions for up to one day, acting in a similar manner to the Common Sense Virtue but encouraging the victim to serve the faerie's agenda, though there is no compulsion to follow the 'advice'. (See *Realms of Power: Faerie* 59 for details). (30 levels)
 
@@ -4820,31 +4820,31 @@ His appearance is always that of the human body that he takes over, but as he ag
 
 The statistics of Damhan-Allaidh are not provided here, but are left to the storyguide. A direct conflict with Damhan-Allaidh at full strength is outside the scope of this chapter. However, some notes regarding the sort of magic that he might possess from each of the magical traditions he has learned are provided below
 
-#### **Powers as a Spirit**
+#### Powers as a Spirit
 
 Damhan-Allaidh's spirit form has a Magic Might of 40, aligned to Corpus. His principal power is that of Possession. The spirit of Damhan-Allaidh also possesses an External Soul. This Virtue normally protects a person from dying **(***Hedge Magic Revised Edition*, page 56), but it also prevents the dissipation of a spirit. Atorcoppe cannot be destroyed by reducing his Magic Might score to zero. If this happens he instead acquires a Minor Magic Inferiority in return for restoring his Might score to 1. His Might then slowly regenerates back to its former level.
 
 *Possession*, variable points, Init –(Might cost), Mentem: To initiate this power, Damhan-Allaidh must spend 4 Might points and successfully Penetrate any Magic Resistance of the target. If successful, the spirit of Damhan-Allaidh takes up residence within a being. When Damhan-Allaidh is in direct control then the power can be detected with appropriate magic, and his spirit might be seen by characters with Second Sight; but at other times there is nothing to detect except a spell residue (**ArM5**, page 158). The inhabited body is not protected by Damhan-Allaidh's Magic Resistance, but neither is it stopped by magical wards unless the spirit is in direct control. Damhan-Allaidh can control his host's actions by spending Might points. For each attempt, roll a die for Damhan-Allaidh and add the number of Might points he is spending (minimum 1). If the host resists the control, the Ease Factor is equal to applicable Personality Traits and bonuses for Virtues such as Strong-Willed, plus a bonus equal to the nature of the attempted action (use the same modifiers for Entrancement, **ArM5** page 65). If the host does not resist, then the Ease Factor is 0. If Damhan-Allaidh's roll is successful, then the host performs the desired action. While possessing a host, Damhan-Allaidh can use any of his own powers and regenerate Might, but cannot access the powers or spells of the host. He can also talk directly into the mind of his host without spending Might points. He can end the possession at any time, And it also ends if he runs out of Might points. ReMe 40 (Base 15, +1 Touch, +2 Sun, +1 constant, +1 flexibility of control). Greater Power (40 levels)
 
-#### **Pictish Necromancy**
+#### Pictish Necromancy
 
 Sluag was the Keeper of Death's Kingdom in Pictish mythology. His priests were able to communicate with and summon the shades of the dead. In principle this worked like Canaanite Necromancy (*Ancient Magic* Chapter 3), but also involved other aspects of manipulating souls, including the mystery of the External Soul and the means by which an individual can extend his life by becoming first a spirit and then a human again.
 
 Using Pictish necromancy, Damhan-Allaidh employed his most fearful weapon against Pralix: the *sluagh*. Named for their lord, this host of the unquiet spirits of the slaughtered Picts could literally scare people to death.
 
-#### **Brythonic Elementalism**
+#### Brythonic Elementalism
 
 The witches of Strathclyde taught a form of elementalism that summoned and controlled the natural elements, allowing them to command the weather, keep vermin out of the crops, and gather scattered livestock. Elementalism is described in Chapter Two of *Hedge Magic Revised Edition*.
 
 Using elementalism, Damhan-Allaidh can summon swarms of spiders, command magical beasts such as the monstrous spiders, control the weather, cause earthquakes and avalanches, and flood rivers.
 
-#### **Scottish Druidism**
+#### Scottish Druidism
 
 The druids who accompanied the Scots upon their invasion from Ireland practiced a brand of magic very similar to that of the gruagachan (*Hedge Magic Revised Edition* Chapter Four).
 
 Using druidic magic, Damhan-Allaidh can give people Virtues and Flaws, shapeshift himself and others (typically choosing the shape of a spider, or a swarm of spiders); scry at a distance; create illusions; and summon prophetic visions.
 
-#### **Saxon Rune Magic**
+#### Saxon Rune Magic
 
 The Saxon rune-magicians were the same as the vitkir found in Scandinavia (*Hedge Magic Revised Edition*, Chapter Seven), except that they had nine extra runes at their disposal. All Saxon rune magicians were exterminated by Pralix's Ordo Miscellanea following the defeat of Damhan-Allaidh.
 
@@ -4899,7 +4899,7 @@ Unbeknown to the player characters, Rufus has a vision (from his Flaw of the sam
 
 **Personality Traits:** Jealous of The Gift +5, Impulsive +2, Loyal to Atorcoppe +1
 
-#### **Combat:**
+#### Combat:
 
 *Short sword & Buckler:* Init –2, Attack +11, Defense +6, Damage +6
 
@@ -4917,7 +4917,7 @@ Unbeknown to the player characters, Rufus has a vision (from his Flaw of the sam
 
 **Equipment:** Partial heavy leather armor, short sword, short bow, buckler, enchantments listed below, traveling pack, narrow-bladed dagger
 
-#### **Enchantments carried:**
+#### Enchantments carried:
 
 *Mantle of Mundane Mien,* MuIm 12; Pen 0, 3/day: This short cape allows the wearer to change her appearance, voice and smell. Galera usually takes the form of an unassuming and wholly unremarkable man or woman in plain clothing (Base 3, +1 Touch, +1 Conc; +5 item maintains concentration, +2 3/day)
 
@@ -4946,7 +4946,7 @@ Galera expresses concern for Rufus's safety, but player characters succeeding a 
 
 While she is with the player characters, Galera attempts to gather Arcane Connections to them. She only does this if opportunities present themselves; she will not jeopardize her task to succeed here. For example, if a magus is wounded she offers her skills as a chirurgeon and then keeps a blood-soaked rag. She might steal clothes from the laundry while at the covenant, or even purchase a lesser enchantment from them with vis. She only succeeds in this if the player characters are careless.
 
-#### **Uncovering Galera's Plan**
+#### Uncovering Galera's Plan
 
 In truth, Galera knows exactly where Rufus is, murdered by her own hand in a secret hideout several days' journey from the covenant. She hopes that his ghost might desire to give up the item to people he trusts, such as the player characters. Her plan is to accompany them to the hideout, sticking close to them so that when they find the claw she can get her hands on it.
 
@@ -4993,13 +4993,13 @@ it, they can speed their search and bypass some of the distractions and false le
 
 Failing magical means, the characters must resort to tried and tested mundane methods for tracking someone down. This task may be delegated to grogs and companions, or else might involve the player magi taking a direct hand.
 
-#### **Searching the Room**
+#### Searching the Room
 
 It is unlikely that anything in the room in which Rufus stayed while at the covenant still retains an active Arcane Connection to him; indeed it may have been reused since his departure. A careful search of the room and a successful Perception + Awareness roll against an Ease Factor of 12, reveals signs of concealment a wobbly flagstone or a loose brick in the wall. The claw is about six inches long and deeply curved. It has the texture of polished horn and is a glossy black in color. It is attached to a leather thong to be worn as a necklace. It is over 400 years old and an expired Arcane Connection; magical investigation can reveal little more. Despite the fact he has carried it for several years, like his ancestors, the claw has not become an Arcane Connection to Rufus, which is curious but not unlikely.
 
 Finding the claw will not help the characters find Rufus. If they surmise that Rufus hid it, they may suspect him of wrongdoing. This just gives the characters more reason to find him. If the characters find the claw at this stage and share this discovery with Galera, go straight to Galera's Gambit (later). If she manages to secure the claw Galera exits this part of the story since she now has no need to track Rufus down. She'll find some pretense to leave the search party and won't be seen again. The player characters might still want to find Rufus, out of concern or suspicion.
 
-#### **Encounters on the Road**
+#### Encounters on the Road
 
 Assuming that the characters are not able to trace Rufus with magic, they have to retrace Rufus's steps physically. It can be assumed that he used roads and stayed in towns and wayside inns on the route to the next covenant. Depending on the locations of the two covenants (the characters' and their neighbors'), there may be multiple routes available; Rufus took the quickest route, but this might vary according to season, something a character with an appropriate Area Lore will know. An Intelligence + Area Lore roll against an Ease Factor of 9 allows a character to pick the opti-
 
@@ -5033,7 +5033,7 @@ After following a mixture of genuine and false leads, the characters eventually 
 
 Tracking down the robbers shouldn't be too hard. Occasionally, men whom the villagers suspect of being part of this robber band come into the village in search of ale or supplies. The villagers do not inform on the ruffians unless it appears that the player characters are capable of defeating them; they don't want to have to deal with any retribution once the characters have moved on. The villagers suspect that they are camped out at a shepherd's hut which overlooks the road to the east.
 
-#### **Cob's Band**
+#### Cob's Band
 
 The robbers, lead by a ruffian called Cob, have been hired by Galera in order to lead the characters to the hideout. She used her enchanted sleeve to take the appearance of a man in all dealings with Cob and his men. She never supplied them with a name; but she paid them handsomely for every traveler they brought to an abandoned fort deep in the woods. These captives — irrelevant except for maintaining the presence of the kidnappers — were eaten by the monstrous spiders who occupy the fort (see A Web-Shrouded Ruin, later).
 
@@ -5051,7 +5051,7 @@ If the player characters fail to get an-
 
 swers from the ruffians, then they might have to have the gaps filled in by the villagers. A shepherd in the village has seen them in the past heading south with a captive and a search in the area reveals the ruined fort after a few days' searching.
 
-#### **The Trail to the Lair**
+#### The Trail to the Lair
 
 The trail to the lair enters a tangled woodland filled with thick undergrowth. The canopy is thick and little light filters down to the forest floor. There are no game trails and few birds, a fact noted as unnatural by anyone succeeding in an Intelligence + Hunt roll against an Ease Factor of 9. All the game has been eaten by the monstrous spiders that guard the lair and the characters may come across the corpse of an unfortunate animal sucked dry of its vital fluids.
 
@@ -5059,7 +5059,7 @@ The trail to the lair enters a tangled woodland filled with thick undergrowth. T
 
 The ruined fort has been the hideout for Galera and Atorcoppe. Galera brought Rufus here and tortured him, when he failed to give up the location of his claw necklace she ritually murdered him and Atorcoppe tortured his ghost. Still Rufus held out on them, but he has been broken by his ordeal and his spirit is much diminished. At no time did Galera reveal who she was; she and her fiancée had never met in person, and she used her disguise (nearly) all the time.
 
-#### **A Web-Shrouded Ruin**
+#### A Web-Shrouded Ruin
 
 Atorcoppe and Galera made their lair in a forgotten ruin in a particularly dark part of the forest, where there is a Magic aura of 3. The entire aura has much deeper shadows than would be expected given the light sources; even during bright daylight, the trees around the fort provide heavy concealment (equivalent to a moonless night, *Lords of*  *Men* page 130). Sources of light do not seem to penetrate deep into the darkness and improve visibility only slightly within one to five paces, depending on the brightness of the light.
 
@@ -5078,7 +5078,7 @@ group. Their first attack is a grapple, trying to incapacitate as many opponents
 
 In the fight against the spiders, Galera employs her enchanted bow to precisely place arrows to help out hardpressed characters (its Penetration is sufficiently high to damage the spiders). While she knows this place and what it conceals, she desires to be seen helping the characters in order to allay suspicion. If the player characters were lead here by a captive ruffian, he is equally targeted by the spiders.
 
-#### **Beneath the Ruin**
+#### Beneath the Ruin
 
 The keep is little more than a shell swathed in spiders' webs. None of its exterior walls are complete and all internal structures are entirely absent. There is a set of stone stairs leading down from what was the kitchen into the cellar, notable because the stairs are relatively free from the sheets of cobwebs that shroud the rest of the fort. The keep used natural caves beneath the hill to store food and keep it cool; these pas-
 
@@ -5102,7 +5102,7 @@ The keep is little more than a shell swathed in spiders' webs. None of its exter
 
 \* Essential Trait
 
-#### **Combat:**
+#### Combat:
 
 *Bite:* Init –2, Attack +13, Defense +7, Damage +8
 
@@ -5151,7 +5151,7 @@ Even if a character does fall, the thick cobweb sheets slow his descent into the
 
 As mentioned before, there may be more monstrous spiders in this chamber; they tend to wait until characters are entrapped in the sticky threads or mid way crossing the spidersilk bridge before showing themselves. Note that spiders' webs are only barely flammable and cannot be easily set on fire. Flames inflicting +10 damage or more are needed to do the job. Furthermore, most of these webs are natural creations of the spiders rather than created using their *Arachne's Child* power.
 
-#### **A Redcap's Ghost**
+#### A Redcap's Ghost
 
 On the far side of the ravine is just one passageway, which leads into a web-lined chamber. Hanging by its ankle on a thread of spider silk is the desiccated corpse of Rufus. The body shows clear signs of being heavily beaten and cut and is covered in countless spider bites, many of them surrounded by black tissue. Close inspection also reveals he has been stabbed in the heart with a narrow blade. The desiccation is not natural, but was caused by the feeding of many spiders; this has also preserved the corpse.
 
@@ -5182,7 +5182,7 @@ it could be disastrous, she says, to do so before finding out what it is. If the
 
 If the characters have no reason to distrust Galera, there is every chance she escapes with the claw.
 
-#### **The Traitor's Fate**
+#### The Traitor's Fate
 
 The storyguide should make every reasonable effort to allow Galera to escape from the player characters, with or without the claw. She may not have magical abilities of her own, but she understands Hermetic magic and its capabilities. She is careful not to leave behind Arcane Connections, for example, and knows that she cannot be targeted if she cannot be sensed.
 
@@ -5205,11 +5205,11 @@ The proposed gap of five years can be lengthened if necessary, but should not be
 
 There are some questions that the player characters may be interested in answering. First and foremost, what is this claw that was of sufficient importance to drive one Redcap to murder another? Rufus's vision concerning the claw proved true; things did indeed go very badly for him. Rufus's ghost can name his torturer as "Atorcoppe" and he may have also heard the name "Damhan-Allaidh" in the ruined fort. Galera, if she was captured, can provide similar information.
 
-#### **Giaro's Claw**
+#### Giaro's Claw
 
 The first order of business should be to find out more about Rufus's heirloom. His ghost, if available, knows its history. It belonged to his ancestor Giaro, who was one of the first Redcaps and a boon companion of Pralix. He was her aide-de-camp during her war with Damhan-Allaidh, and the claw was wrested from the corpse of Damhan-Allaidh after Pralix had slain him. As far as he knows, it has no special properties.
 
-#### **Damhan-Allaidh**
+#### Damhan-Allaidh
 
 All apprentices are taught the basic history of Damhan-Allaidh, as recounted in **ArM5**, page 10. To learn more, characters may have to consult specialists, or research among annals of the history of the Order of Hermes. A detailed history of Damhan-Allaidh, such as that that can be revealed through a dedicated search, is provided as an appendix.
 
@@ -5217,7 +5217,7 @@ All apprentices are taught the basic history of Damhan-Allaidh, as recounted in 
 
 The actions of Atorcoppe and Galera depend upon their level of success in the first part of the story. The options below are arranged in order of decreasing advantage to Atorcoppe's plans.
 
-### **The Fate of Giaro's Claw**
+### The Fate of Giaro's Claw
 
 **Atorcoppe is now in possession of Giaro's Claw**
 
@@ -5227,19 +5227,19 @@ After receiving the Claw from Galera, Atorcoppe destroys it himself, completing 
 
 When the characters destroy the Claw, Atorcoppe's age-old Initiation attempt fails. This has much the same effect as the previous outcome, except that Atorcoppe accepts a penalty for the failure: one in every eight magical effects he attempts (determined randomly) fails.
 
-#### **Giaro's Claw still exists**
+#### Giaro's Claw still exists
 
 Until he can destroy it himself or ar-
 
 range for it to be destroyed, Atorcoppe cannot proceed with his plans. He makes further attempts to discover the Claw's current location and regain it or destroy it, with or without Galera's help.
 
-#### **The Fate of Galera**
+#### The Fate of Galera
 
 **Galera escaped from the player characters**
 
 If he is reborn, Damhan-Allaidh honors his promise to Galera and guides her through the rite of Odin's Sacrifice (*Hedge Magic Revised Edition*, page 124), which endows her with The Gift. He spends some time tutoring her in magic. However, she has outlived her usefulness and he soon grows bored of her. Damhan-Allaidh has one more task for her (see The Tangled Web).
 
-#### **Galera was killed**
+#### Galera was killed
 
 Galera's role in Story Two is taken by another servant of Damhan-Allaidh. This individual is a Gifted non-Hermetic wizard who has good reason to hate the Order of Hermes. He may come from a tradition that has been traditionally persecuted by the Order, or perhaps the ha-
 
@@ -5254,7 +5254,7 @@ All spider bites are notoriously slow to heal and those suffering a wound from t
 
 tred has more recent basis. The Order is known for policing magically-capable folk in some areas, and family members could have fallen beneath its wrath. It is even possible that the player characters took a leading role in this story, which could take place any time before, or soon after, the first story. This hedge wizard is accompanied by Simon, whom he is intending to make his apprentice, although he has not yet Opened his Gift.
 
-#### **Galera was captured and imprisoned**
+#### Galera was captured and imprisoned
 
 Under magical interrogation, Galera reveals that Giaro's Claw is Atorcoppe's external soul and that even a scratch on it will dissipate him forever. This is truly what she believes; Atorcoppe told her this just in case this very scenario came about. Atorcoppe makes no attempt to rescue her unless the Claw was not destroyed and there is a real chance that she will be able to get it for him. If the claw is gone, then he has no need to save her, since he is already in possession of Simon. The second story should be adapted as in the case where Galera was killed.
 
@@ -5324,7 +5324,7 @@ roll to resist the venom of all bites received in the same round, but increase t
 
 • Swarms can combine to form larger swarms. Two swarms combine to increase Size by 1. Five swarms increase Size by 2. Ten swarms increase Size by 3. As well as increasing venom potency due to the increase in Size, add 2 points of Strength and subtract 1 point of Quickness for each point of Size and adjust wound ranges accordingly.
 
-#### **Spider Swarm**
+#### Spider Swarm
 
 **Characteristics**: Cun –1, Per –2, Pre –5, Com –6, Str +2, Sta 0, Dex +2, Qik +4
 
@@ -5363,7 +5363,7 @@ Inspired by the myth of Pandora, Galera designed the containers for her spider s
 
 these are a consequence or requirement of any magic the player covenant uses to enchant the crops; otherwise it is a case of simple curiosity. In any case, the boys can relate that the villagers were about to start plowing. Clearly it is important to get to the village before the feet of the oxen and the action of the plow break open the delicate jars. Depending on the player characters' actions and the wishes of the storyguide, there are two outcomes from this scene: the characters arrive in time, or the characters arrive too late.
 
-## **Option One: Averting the Plague**
+## Option One: Averting the Plague
 
 When the characters arrive in the village, most of the villagers are out in the fields for plowing, preparing the ground for next year's crops. Those who are not guiding the team of oxen are removing rocks, raking down the tops of the furrows, restoring plot markers, and so on; plowing is an event in which nearly the whole village gets involved.
 
@@ -5371,7 +5371,7 @@ The fragile Jars of Galera are half-buried in the soil and are clearly intended 
 
 This scene could consist of carefully excavating the Jars from the field or else driving off the spiders once some have broken. Carelessness could easily cause the former to become the latter.
 
-## **Option Two: Village of the Dead**
+## Option Two: Village of the Dead
 
 If the storyguide wishes, the player characters may arrive in the village too late to avert disaster. This may also happen if they decide not to visit the home village of the boys immediately despite the obvious danger to its inhabitants. They may instead be drawn to the village upon hearing about it from a visitor, or investigate when their supplies fail to arrive and hunger threatens.
 
@@ -5392,7 +5392,7 @@ The circumstances dictate the accusations leveled at the player characters. Than
 
 At worst, the magi may need to fight their way free or face summary judgment. At best Lord Abel "asks" them to accompany him back to his court for a formal inquiry. If the characters submit to a judicial investigation, they are escorted back to Lord Abel's seat of power. Nothing is decided immediately; the lord is keen to gather witnesses and hear evidence, especially if he knows that magi are involved. He may not be well-inclined toward the characters, but he is not going to anger the Order of Hermes by not following proper procedure. He may even know that the Order has its own judges, and be planning to contact a Quaesitor. If the characters go peacefully and are known to Lord Abel they are left at liberty. If they are strangers and no one can swear to arraign them at court, then they are unlikely to be offered parole.
 
-#### **A Battle in the Village**
+#### A Battle in the Village
 
  If the characters provoke a fight, the lord's men enter combat to protect their liege. His protectors consist of one or more knights (use the Companion Template from **ArM5**, page 22); the exact number depends on the importance of the lord. A landed knight may be attended by one or two knights banneret; a baron may have four or more. These are supplemented by men-at-arms (use the Grog Template for the Standard Soldier from **ArM5**, page 21). Either side may take advantage of the setting during this battle; there are plenty of places in which to hide or provide cover amongst the huts and livestock sheds.
 
@@ -5402,7 +5402,7 @@ Lord Abel's men are ordered to bring the player characters in alive if possible;
 
 The involvement of Lord Abel means that the characters are all but certain to visit his castle.
 
-#### **Galera Under Lock and Key**
+#### Galera Under Lock and Key
 
 Unfortunately for Galera, she has run afoul of her own schemes. She herself has been arrested by Lord Abel's men. She had stayed briefly in the targeted village whilst placing the Jars and was traveling back to her local base of operations when she was accused by one of Lord Abel's subjects. If there is a local troublemaker who has caused problems for the characters in the past then this is an excellent accuser of Galera, and her crime should be chosen to match the circumstances. Most likely she is guilty of some petty act of revenge against a real or imagined slight, which, exacerbated by her Gift, led to a hue and cry and her capture. Typical acts include: burning a crop; emptying a well; or inflict-
 
@@ -5425,7 +5425,7 @@ Galera languishes in a cell, biding her time. She lost her magical shoe in the s
 
 If the characters attempt to gain access to Galera once they discover where she is, see Galera's End, later.
 
-#### **Formal Inquiries**
+#### Formal Inquiries
 
 Lord Abel hears Galera's case first and then that of the player characters. In most parts of Mythic Europe, a lord re-
 
@@ -5449,7 +5449,7 @@ Whether the characters win or lose the case, they should receive experience poin
 
 Whether it happens at Lord Abel's Castle or at her local hideout, the player characters get to have a showdown with the renegade Redcap. Wherever she is faced, Galera fights vigorously to avoid capture but in the face of overwhelming odds she surrenders in order to plead for the safety of her son, Simon. In doing this she is playing directly into the hands of Damhan-Allaidh. Bear in mind she may still be wounded from whatever punishment Lord Abel meted out. She pauses only to collect her belongings, and retrieve her shoes from the gaoler who stole them.
 
-#### **At the Castle**
+#### At the Castle
 
 The player characters probably cannot easily get access to Galera without magic. Asking Lord Abel for permission to speak with her, given that she is a suspected witch, is a good way to enhance their own suspicious reputations with Lord Abel and may damage their own case. If they are really determined, a forceful group of magi could abduct or murder Galera from Lord Abel's custody, and this can be allowed without doing damage to the following story, as long as the characters later encounter Simon. However, such actions should not be free from repercussions, not least with the Order for interfering with a local noble.
 
@@ -5471,7 +5471,7 @@ The victory conditions for the court should be decided before the debate begins,
 
 her disposal (see nearby insert for her updated character sheet). She can use the *Innocuous Blade* to destroy a lock or bar on a gaol cell and the *Oil for the Eager Wick* and *Prometheus's Gift* to start a fire as a distraction. If you prefer you can have her escape, and face the characters at her hideout instead.
 
-#### **At the Hideout**
+#### At the Hideout
 
 If the player characters do not interfere with Galera while she is in Lord Abel's custody, they may trace her back to her local hideout once Lord Abel has finished with them. They may have had other characters watching her on their behalf when she departed from Lord Abel's castle, otherwise they have to track her the hard way. This should not be made too onerous a task: Galera is rushing in order to avoid capture by the characters and is not taking all due care to remain undetected. Her biggest concern — and her major vulnerability is her desire to protect her son, and in her care for him she has become reckless.
 
@@ -5517,7 +5517,7 @@ Her Compulsion to steal magic items has been lost now that she has magic of her 
 - Her magical bow is best used for crippling the vanguard, or, if she thinks it will Penetrate, hampering a magus's spellcasting by crippling an arm or eye. If characters close to melee combat, she'll discard it in favor of the *Staff of Puissant Parries*.
 - Simon has been ordered to hide in the root cellar but to reveal himself once the fighting stops. Galera has told him to throw himself on the mercy of the Order if she is killed and to state clearly that he is kin to Mercere the Founder.
 
-#### **Surrender**
+#### Surrender
 
 Galera does not fight to the death; she knows that she is no match for even one magus. She is under no illusions as to her fate should she surrender, but she believes she has a bargaining chit. She has spent time with Damhan-Allaidh and claims to have important information on his plans for revenge. She'll offer this in return for safety for herself and her son. Galera is stalling; she believes that Damhan-Allaidh will stage a rescue for her and she hopes to keep herself and Simon alive long enough to give him the chance. Over time — assuming she has it — she'll realize that she has been abandoned and turn coat one more time. She may even attempt to argue that her actions were intended all along to gather information about the enemy, but this is clearly a lie given her deeds.
 
@@ -5580,7 +5580,7 @@ There are several ways in which the player characters can get involved. In the f
 
 The assassin is a spider-giant hybrid called an inspiderwiht. Although naturally twenty feet tall, an inspiderwiht can shrink itself to the size of a mouse, and subtracts its Size from all stealth rolls. Furthermore, they are capable of perfect silence, which grants another +6 bonus. It is therefore likely that the inspiderwiht is able to successfully creep up on the characters. It has orders to only kill those on the list of names it has been given, and constantly mutters that list of names over and over once battle is enjoined. Once it locates someone on its list using the *Know the Name* power, it attacks with great ferocity. Note that due to Magic Resistance, it is unlikely to identify magi as its targets, although if it hears another character use a name on its list it switches targets immediately. Characters should be in battle with it long enough to hear it recite the full list a few times, and note the inclusion of 'Simon son of Galera' amongst the names.
 
-#### **Reunion with Simon**
+#### Reunion with Simon
 
 Hopefully, the player characters realize that Simon is in danger. There could be more of these monsters out there, and they clearly want him dead for a reason. This should be sufficient impetus to contact Simon's master or travel to his covenant. They will learn, either in a return letter or from Simon himself, that Simon has been beset by bad dreams harking back to the time he was with his mother. He has questions for the player characters about the ruined fort in which they found Rufus: he can describe it perfectly despite not remembering ever being there. He was about five years old at the time of the first story, and staying alone at one of the many houses rented by his mother.
 
@@ -5622,7 +5622,7 @@ rocks while water cascades over the top is physically demanding, requiring a Str
 
 **Reputations:** Son of a Marched Redcap 1 (Hermetic)
 
-#### **Combat:**
+#### Combat:
 
 *Dodging:* Init 0, Attack n/a, Defense +2 Damage n/a
 
@@ -5653,7 +5653,7 @@ to the roll. A character pulling or pushing another can also add +3 to the stuck
 
 In addition to these natural hazards, there may be some denizens of the longabandoned mines and subterranean tunnels that do not appreciate the intrusion into their home. Examples of such creatures include an elemental that has rarefied from an untapped seam of silver or the ghosts of a trapped mine team.
 
-#### **Galera's Hidey-Hole**
+#### Galera's Hidey-Hole
 
 Simon eventually spots a side tunnel leading from the stream, situated about ten feet from the water's surface. This would be easy to miss: it is only because Simon somehow knew it was there that he managed to find it. After a few twists and turns the tunnel leads to a small chamber, clearly a natural cave that has been enlarged and had the floor leveled. A niche holds the remnants of a straw mattress, and an escritoire (traveler's writing desk) sits on the floor. This contains an inkstone, some scraps of parchment, and other materials used by scribes. There is a crude box containing the decade-old remains of
 
@@ -5737,11 +5737,11 @@ The monument consists of eight stones arranged in an ellipse whose long axis run
 
 Despite appearances, the stone monument is not deserted. There are inspiderwihten here, enough to pose a significant challenge to the player characters. They lurk in minute form, hidden in various places including in the hollow before the tumulus.
 
-#### **Inside the Tumulus**
+#### Inside the Tumulus
 
 The tumulus looks like a likely place to explore. The mound is twenty paces long and stands five paces high, but the subterranean entrance adds another two paces to the interior height. The door is formed from two upright stones with a third slab as a lintel, and it is filled with earth. Beyond the blocked doorway, a narrow and cramped passage takes a crooked path to the center of the hill, which contains a single chamber. There is a central bier that is surrounded by sealed jars, moldering piles of coins and trinkets, and age-old armor and weapons. The bier bears what at first glance is a body, but is actually a recumbent statue made of a glassy red stone. Close inspection reveals that the face of the statue is marred, almost as if the original face had been clumsily removed and another carved in its place. There is also a small hole above the heart, and within is a stone arrowhead, although the shaft of the arrow has long since rotted away.
 
-#### **The Ritual Begins**
+#### The Ritual Begins
 
 If the characters explore the tumulus, "Simon" elects to remain outside "to keep out of the way." As the moon rises, Damhan-Allaidh begins a Pictish chant to Sluag, god of the dead. He has a curved knife in hand – provided by one of the inspiderwihten – and he is making shallow cuts on his bared chest. If any characters have remained outside, they are engaged by the inspiderwihten who emerge from hiding. As the sounds draw the remaining characters out of the tumulus, they see Simon, clearly possessed, about to plunge the knife into his chest, and yet struggling against his own actions. This struggle lasts long enough for the player characters to fight their way to him. He is exhausted by his internal struggle, and looks at the char-
 
@@ -5780,19 +5780,19 @@ both: decapitating Simon and stabbing him in the heart. This will have the desir
 
 heart is necessary to kill Damhan-Allaidh.
 
-#### **The Characters Fail**
+#### The Characters Fail
 
 The characters fail to stop Damhan-Allaidh if he manages to cut out Simon's intact heart from his own body. The player characters will be treated to a show of light and sound as the mystical forces align and Damhan-Allaidh returns to the world. There is a cry like several voices shouting at once, and a shimmering curtain of shifting light and shadow descends from the heavens and funnels into the gaping wound in Simon's chest. The heart in his hand crystallizes into a translucent heartshaped red stone containing the remnants of Damhan-Allaidh's Magic Might in the form of 8 pawns of Corpus vis. His Magic Might is now zero, and he has lost the External Soul Virtue: damaging the stone heart will no longer harm him.
 
 Damhan-Allaidh is now fully incarnate as a mortal sorcerer Opened to the Hermetic Arts, as well as possessing the powers of a puissant magician of four other traditions of magic. His first concern is escape. His Hermetic Arts are underdeveloped, but he has other powers upon which to draw. While any remaining inspiderwihten occupy the player characters he flees. A typical escape scenario has him grant himself the shape of a swarm of spiders and scatter in all directions; he might first curse his opponents with druidic magic, enhance his speed of movement with rune spells, or create an earthquake with elementalism.
 
-#### **The Characters Kill Simon**
+#### The Characters Kill Simon
 
 Characters who kill Simon by decapitation or some other means that leaves his heart intact do not manage to kill Damhan-Allaidh. He is greatly inconvenienced by the death of his vessel, but he can recover from this. He hopes that the characters fail to recognize the significance of Simon's heart. Certainly, it will appear as if Simon committed a great act of sacrifice to prevent Damhan-Allaidh from returning to the world, and this should accord his corpse a measure of respect.
 
 Damhan-Allaidh must still arrange for the heart to be removed intact from Simon's corpse, and then repeat his earlier Initiation to migrate his external soul into another Gifted person's heart. He probably will not choose a member of the Order of Hermes second time around, and will be a lot more cautious with his approach, having tasted failure so close to his triumph. It may be many years before he returns to the flesh and recommences his plans to destroy the Order.
 
-## **The Characters Kill Damhan-Allaidh**
+## The Characters Kill Damhan-Allaidh
 
 If the characters damage or destroy Simon's heart then Damhan-Allaidh is destroyed. A character specifically targeting Simon's heart in combat must state he is doing so, and inflict a Heavy Wound on him with a piercing weapon. In general a spell that is not specifically designed to damage the heart, or not deployed in a manner that would do so, will not accidentally cause this sort of damage. Destroying Simon's body after death also destroys Damhan-Allaidh's spirit. It is possible to destroy Damhan-Allaidh's external soul without killing Simon: the merest scratch on his heart is enough. However, such an operation must be conducted with the utmost delicacy, and magical healing via a Creo Corpus ritual spell is pretty much essential to avoid Simon suffering long-term consequences of such medieval heart surgery, such as the Enfeebled Flaw.
 
@@ -5821,7 +5821,7 @@ He quested in the far north to obtain a piece of the unbreakable chain made by t
 
 It was only at the very end when his devotion to Pralix faltered. Once the enemy was defeated and Pralix revealed her plans for the Ordo Miscellanea, Giaro felt that he could not in good conscience be part of a group that opposed the Order of Hermes and with regret he abandoned her in Britain and returned to the continent with his father. He did not see her again, even following the formation of House Ex Miscellanea.
 
-#### **First Contact**
+#### First Contact
 
 Damhan-Allaidh and the Order of Hermes became aware of each other at about the same time. The Order first heard of Damhan-Allaidh from Diedne the Founder, who had adopted into her House wizards who had fled his brutal regime. Magi of the Order had ventured into Britain, but the aldormen they encountered demanded that they swore oaths of fealty to them and to Damhan-Allaidh. Furthermore, they would be required to sell their services to local kings and noblemen, something forbidden by the Code of Hermes.
 
@@ -5831,7 +5831,7 @@ The first confrontation began in Brittany, when a magus of House Tytalus aggrava
 
 Damhan-Allaidh was declared an enemy of the Order by the Tribunal of 799 following the slaughter of the four magi at Carnac. Pralix *filia* Tytalus arrived at Wearmouth in the Kingdom of Northumbria in 803 with seven magi and a half-hundred of grogs. At the time, the Kingdom of Northumbria covered most of southern Scotland and northern England, and was believed to be the seat of Damhan-Allaidh's power.
 
-#### **The Massacre in Bowland Forest**
+#### The Massacre in Bowland Forest
 
 The Hermetic army first clashed with Damhan-Allaidh's forces in the following year in the Forest of Bowland.
 
@@ -5847,11 +5847,11 @@ severed rather than following Ignes's advice to ask for more volunteers from the
 
 During this period, Pralix visited Ireland in order to gain recruits to the cause against Damhan-Allaidh. Here she met with Diedne on the shores of Loch Cuan in 806. Diedne refused to allow her to enlist Irish magicians; she was insistent that any druids must join the Order of Hermes or else die. Diedne was further incensed when Pralix laughed at her and called her stupid and petty. The two magae fought an illegal Wizard's War there and then, but both survived the encounter (although a local monastery did not) and neither brought charges against the other at Tribunal. It is notable that after the war with Damhan-Allaidh, Diedne was one of the most vocal detractors of Pralix and insisted that she be Marched for her crimes. Despite this encounter at Loch Cuan, Pralix still returned to Britain with a cadre of Irish druids who were prepared to oppose their Scottish counterparts.
 
-#### **The Battle of Hunnum**
+#### The Battle of Hunnum
 
 In 807, Pralix decided her army was ready. She tracked Damhan-Allaidh down using shape-shifted scouts and flying witches, then met him in battle on the Roman Wall, at an abandoned fort called Hunnum. Rather than being alone as she had hoped, Damhan-Allaidh was accompanied by several magicians, a force of Northumbrian soldiers, and two giants. It seemed that he had been warned of Pralix's approach. The Battle of Hunnum ended in another defeat for Pralix, but this time her retreat was orderly and her casualties manageable. She withdrew to a camp to the north called Loch Leglean, and regrouped. Damhadh-Duidas ventured that their opponent had seers at his command who could see the future; Ignes Nefastus considered a spy amongst them to be the more likely option, and his aspersion on the loyalty of Damhadh-Duidas was not missed.
 
-#### **The Battle of the Wounded Glen**
+#### The Battle of the Wounded Glen
 
 At Loch Leglean, Pralix gathered her council to discuss tactics. She proposed teaching the Gifted members of their army the Parma Magica; it was the only way to gain an advantage over the enemy. Ignes Nefastus vehemently disagreed, and accused her of wanting to betray the Order's secrets. The two had an almighty row that nearly came to blows, although Giaro managed to avert actual violence.
 
@@ -5879,11 +5879,11 @@ Damhan-Allaidh's wizards harried the hedge wizards with magical traps and ambush
 
 A few battles stand out in this period; their names are part of Hermetic legend. With the notable exception of the Night of the Sluagh, these battles ended inconclusively. Damhan-Allaidh himself was never seen and no great victories were won.
 
-#### **The Battle on the Irthing**
+#### The Battle on the Irthing
 
 Late in 807 as Pralix and her band were traveling from Loch Leglean back to Wales, they were ambushed as they crossed the River Irthing in Cumbria. The waters of the river suddenly swelled, and a crashing wave of water swept several magicians away. Their drowned bodies were later recovered, with marks like hands around their throats. The wizard conjuring the flood was soon identified and torn apart by wild animals commanded by beast masters. From the other direction came shape-shifted gruagachan, who were countered by a summoning from Damhan-Duidas. Pralix herself took on hideous spider-giant hybrids that climbed down from the trees, by hurling massive boulders she rent from the fabric of the Roman Wall which overlooked the battle site. The attackers were eventually driven off with no more casualties on Pralix's side.
 
-#### **The Siege of Goole**
+#### The Siege of Goole
 
 In June of 808 a group of Pralix's magicians sailed into the estuary of the River Humber. At the small port of Goole they encountered a blockade across the river, which was manned by a rune magician called Centwine. This single wizard managed to hold up the magicians for three days by harrying them with his magic. The ship was somehow stuck onto the blockade, unable to retreat or break through. The sea swelled violently and landing boats were swept away. The ship's inhabitants were struck with a raging thirst, and the river water retreated from their lowered buckets.
 
@@ -5900,7 +5900,7 @@ was now 774, and the Saxons had extended their kingdom of Northumbria from the F
 
 All of their food turned to maggots and beetles. Even the locals of Goole joined in by hurling flaming rags and sticky tar at the beleaguered ship. At the end of the three days, Centwine was joined by his allies, and the boat was boarded and the occupants killed.
 
-#### **The Battle of the Awful Hand**
+#### The Battle of the Awful Hand
 
 In September 808 an elementalist raised the Grey Man of the Merrick, the genius loci of the mountain range known as The Awful Hand (because of its five spurs) in Galloway. He lay in ambush for Pralix and her warband, but the ambush
 
@@ -5920,11 +5920,11 @@ In September 808 an elementalist raised the Grey Man of the Merrick, the genius 
 
 was spotted and battle joined. The tide turned in Pralix's favor when the mountain spirit realized it was being used as a weapon in a petty human battle, and abandoned the field of war.
 
-#### **The Battle of Clennell Street**
+#### The Battle of Clennell Street
 
 In 809 Pralix fought the war on two fronts, with herself in command of one force in the south and Damhadh-Duidas commanding the other in the north. In May, Giaro was running messages between the two forces when he came across an expeditionary force of druids and giants quite by chance in Redesdale (on the current Anglo-Scottish border). They were clearly trying to outflank Pralix's forces by taking a shortcut. Realizing that he had no time to warn Pralix, Giaro went amongst the wild border clans of Redesdale, famous for their banditry and lawlessness. He convinced them through subterfuge and bravado to stage an ambush against the interlopers and successfully drove them back, killing two giants in the process. Redesdale men still find favor in the turbs of magi who know their history.
 
-#### **The Night of the Sluagh**
+#### The Night of the Sluagh
 
 On All Hallow's Eve 809, Pralix's forces were delayed in Loch Leglean by bad weather. They should have set out for Wales a month earlier, but the snow was blocking all passes through the Southern Uplands. As the moon set, there was an unearthly howl, and a truly dreadful host fell upon Loch Leglean. It was the *sluagh*, a vast horde of angry ghosts raised by dark magics from the kingdom of Sluag (the Pictish god of death). They swarmed over the camp, killing indiscriminately. Less than a dozen magicians were killed that night, but it was still the greatest single loss suffered by Pralix's army since she taught them the Parma Magica. Many more were left insane, gibbering at the horrors they had seen and unable to sleep for the rest of their lives.
 
@@ -5947,7 +5947,7 @@ Some claim that the vengeful Damhadh-Duidas betrayed the location of Pralix's wi
 
 As the sun dropped, Pictish priests began to summon the *sluagh*, while multiarmed giants hurled rocks and a ramheaded serpent dragon plowed through the ranks of warriors. In response, Pralix's wizards summoned a massive ball of fire as bright as the sun, driving the ghosts back into the night. Her elementalists summoned whirlwinds of fire and earth elementals who dragged the giants under the ground. Beast masters led phalanxes of bears, wolves and stags against the dragon. Pralix herself was in the midst of battle, sword in one hand and spear in the other, as she fought her way through to Damhan-Allaidh's redoubt. She had prepared for the moment that she would face him. The mage-smiths amongst her people had made her an unbreakable magic chain, forged from obscure ingredients and strange magics collected over several years. Upon facing Damhan-Allaidh at last, she shackled herself to her opponent with the chain, ensuring that the conflict could only end with one of their deaths. Hermetic magic prevailed against Damhan-Allaidh's spellcraft and the wizard was finally slain.
 
-#### **Repercussions**
+#### Repercussions
 
 After the Battle of the False Sun (as it became known), Damhan-Allaidh's body was laid out for cremation but it disappeared overnight and the guards set over the pyre were killed in a gruesome manner. No amount of divination revealed what had happened to it. Convinced that Damhan-Allaidh's magical allies were to blame, Pralix had her magicians scouring every inch of Britain for everyone who had supported Damhan-Allaidh. Each one was brought to her and their secrets ripped from their minds before they were put them to death. During this action every single member of the Saxon tradition of rune magic was exterminated, and the Scottish druids were diminished so badly that they guttered and faded a generation later. Despite this, Pralix never discovered what had happened to Damhan-Allaidh's body.
 
@@ -5976,7 +5976,7 @@ also a rune governing speed.
 
 As a target, Ac represents thunder and lightning. Combined with Algiz, for example, a rune script can prevent a character from being hit by lightning. It can also represent those things struck by lightning.
 
-#### **Sample Ac Rune Spells**
+#### Sample Ac Rune Spells
 
 **(The runemaster) Brings Thor's Hammer on the Head of this Man**
 
@@ -6004,7 +6004,7 @@ within 10 paces of the target. The lightning strike must Penetrate Magic Resista
 
 As a target, Æsc can be used to represent a wall, shield, or other defensive structure.
 
-#### **Sample Æsc Rune Spells**
+#### Sample Æsc Rune Spells
 
 **(The runemaster) Shields Her Son's Ship**
 
@@ -6059,7 +6059,7 @@ As a target, Yr stands for any thrown object, or any missile shot from a bow or 
 **Level 20**: Prevent a major memory from being recalled by the target.
 
 
-#### **Sample Yr Rune Spells**
+#### Sample Yr Rune Spells
 
 **I, (the runemaster), Emulate Egil's Arrow Feat**
 
@@ -6083,7 +6083,7 @@ Ear is the rune of dust, oblivion, darkness, and concealment. It can be used to 
 
 As a target, Ear can affect graves, gravegoods, and corpses, as well as darkness.
 
-#### **Sample Ear Rune Spells**
+#### Sample Ear Rune Spells
 
 **I, (the runemaster), Erode the Smith's Work**
 
@@ -6136,7 +6136,7 @@ As a target, Gar represents any object
 
 given as a sacrifice. It can also be used to target someone to whom the vitki owes a debt; in this case it might be considered a Mentem effect. It can also be used to represent blood.
 
-#### **Sample Gar Rune Spells**
+#### Sample Gar Rune Spells
 
 **(The runemaster) Sacrifices Power for Pain**
 
@@ -6150,7 +6150,7 @@ Calc is the rune of remembrance. Its shape represents a chalice used to toast he
 
 As a target, Calc can represent any repository of knowledge, including memories, books, poems, and gravestones.
 
-#### **Sample Calc Rune Spells**
+#### Sample Calc Rune Spells
 
 **(The runemaster) Commemorates the Dead**
 
@@ -6212,15 +6212,15 @@ As a target Cweorth can represent something that has never been used before.
 
 
 
-#### **Sample Cweorth Rune Spells**
+#### Sample Cweorth Rune Spells
 
-#### **I, (the runemaster), Exchange Elfin Grace for Troll Thews**
+#### I, (the runemaster), Exchange Elfin Grace for Troll Thews
 
 Cweorth General, Method I
 
 The caster's Presence drops by an amount equal to the magnitude of the rune spell, and his Strength grows by the same amount. In appearance he becomes more troll-like.
 
-#### **I, (the runemaster), Assume Freyja's Falcon Cloak**
+#### I, (the runemaster), Assume Freyja's Falcon Cloak
 
 Cweorth 20, Method I
 
@@ -6232,9 +6232,9 @@ Stan is the rune of solidity and weight represented by stone. Poetically called 
 
 As a target, Stan represents stone or objects made of stone; more generally it can be used for any obstacle such as a door or wall.
 
-#### **Sample Stan Rune Spells**
+#### Sample Stan Rune Spells
 
-#### **(The runemaster) Relieves the Weight of the Byrnie**
+#### (The runemaster) Relieves the Weight of the Byrnie
 
 Stan (Othila) 10, Method II
 
@@ -6246,9 +6246,9 @@ The rune of monstrosity. It has mastery over creatures that induce disgust and f
 
 As a target, Ior represents any vermin or poison.
 
-#### **Sample Ior Rune Spells**
+#### Sample Ior Rune Spells
 
-#### **I, (the runemaster), Summon Death by Two Million Legs**
+#### I, (the runemaster), Summon Death by Two Million Legs
 
 Ior 15, Method I
 

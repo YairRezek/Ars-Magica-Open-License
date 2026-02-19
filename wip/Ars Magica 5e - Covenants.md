@@ -93,7 +93,7 @@ Maintain a history or logbook of the covenant, written from the perspective of t
 
 This is a summary of the existing rules for covenant creation (see ArM5, page 70), with some minor additions. Starting from the baseline below, choose a power level, and once you have a basic concept, proceed to select Boons and Hooks, and buy Resources.
 
-### **Baseline**
+### Baseline
 
 The base for covenant creation is a stone building with enough room to accommodate the magi and covenfolk. It is located in a level 3 magic aura in a place somewhat removed from mundane society, and has basic defenses. The base covenant has no magical resources. It has sufficient mundane resources for day-today upkeep, with a single Typical source of income. For every magus, there is one standard laboratory, and approximately one grog and two other covenfolk, such as servants, laborers, teamsters, and craftsmen. The craftsmen are of common types, such as blacksmiths or carpenters. Apart from possibly a bookbinder and illuminator, there are no exotic specialists. The covenant has a Living Conditions modifier of +1 for magi and 0 for everybody else.
 
@@ -101,11 +101,11 @@ The base for covenant creation is a stone building with enough room to accommoda
 
 **Power Level Build Points**
 
-### **Power Level**
+### Power Level
 
 The first choice is the level of power within the covenant that is accessible to the player character magi. This depends on what sort of saga the players want; it is suggested that novice players start with a medium or low power level. See the Power Levels Table for details about the four possible power levels: low, medium, high, and legendary.
 
-### **Boons and Hooks**
+### Boons and Hooks
 
 **Maximum Level of Lab Text / Effect in Enchanted Device**
 
@@ -117,39 +117,39 @@ Boons are things that make the covenant better, whereas Hooks are features of th
 
 **Covenant**
 
-### **Resources**
+### Resources
 
 The chosen power level grants a number of Build Points, which are used to buy resources. The costs are:
 
-#### **Enchanted Items**
+#### Enchanted Items
 
 2 per five levels of effects •
 
-#### **Laboratories**
+#### Laboratories
 
 - Extra labs: 50 each •
 - Non-standard lab: Size x 20; Major Virtue: 20; Minor Virtue: 10 •
 
-#### **Laboratory Texts**
+#### Laboratory Texts
 
 1 per five levels •
 
-#### **Library**
+#### Library
 
 - Art Summae: Level + Quality (Level limit: 20; Quality limit: 11 + (20 – level), or 22, whichever is lower) •
 - Ability Summae: 3 x Level + Quality (Level limit: 8; Quality limit: 11 + 3 x (8 – level), or 22, whichever is lower) •
 - Tractatus: Quality (Quality limit: 11) •
 
-### **Money**
+### Money
 
 Stocks: 1 per 10 pounds •
 
-### **Specialists**
+### Specialists
 
 - Teacher: Communication + Teaching + Highest Ability Score (Score limit: by age) •
 - Other: Highest Ability Score (Score limit: by age) •
 
-### **Vis**
+### Vis
 
 - Sources: 5 per pawn of vis per year •
 - Stocks: 1 per 5 pawns of vis •
@@ -198,7 +198,7 @@ Boons and Hooks are gained and lost during play. The Boons and Hooks of the cove
 
 This cluster of Boons and Hooks reflects the physical location of the covenant. Troupes that desire a covenant only as a place where their characters can rehabilitate between arduous quests should select sparingly in this section. Players wanting to focus their stories around the daily lives of their characters, on the other hand, are encouraged to select many Minor Site Hooks.
 
-### **Major Site Boons**
+### Major Site Boons
 
 **Aura**: The aura of a limited area of the covenant increases by one point. It is only worth taking this if the aura of the whole covenant is already 5, as this then allows the covenfolk to live and work mostly outside the level 6 (or higher) aura, and thus avoid Warping. The magical space is likely delineated in some way: for example, one covenant has an irremovable monolith at the center of its
 
@@ -217,17 +217,17 @@ magical space. The stone is not native to the area, and has been carved in elabo
 
 This section contains a few notes for new troupes, to help them avoid making poor choices in their early games.
 
-### **Optimal Killing Power**
+### Optimal Killing Power
 
 Players familiar with other roleplaying games are sometimes tempted to select the Boons that give their characters the greatest power, or capacity to kill. It is easy to juggle the possible combinations of Boons and Hooks to create covenants powerful enough to massacre thousands. Troupes should select those combinations only if they are interested in stories about the consequences of unbridled power. **Ars Magica** offers a richer palette of stories than this.
 
 Rather than optimizing a covenant's battle strength, troupes should select those Boons and Hooksthat favor the sorts of stories the troupe enjoys. Young magi are already very powerful. The Storyguide isn't going to assault the player characters with waves of increasingly powerful monsters unless that's what the players want. Players more familiar with games in which the characters kill and loot should consider what their characters wanted to do after they became rich and powerful.
 
-### **"Castle on the Hill by the Faerie Wood"**
+### "Castle on the Hill by the Faerie Wood"
 
 A lot of **Ars Magica**'s flavor is lost if the players select a generic covenant like the prototypical castle on a hill by a faerie wood. The broad array of options this chapter provides, and its many examples, encourage players to experiment. While new players may be most comfortable with sagas set in a bland, tidy Middle Ages, this chapter encourages troupes with a little more experience to explore the intricacy and foreignness of Mythic Europe. Telling stories in Mythic Europe should be like a trip to a foreign country: to enjoy it fully, you need to embrace and take pleasure in how different it is.
 
-### **Defensive Selections**
+### Defensive Selections
 
 Players should not select Boons in an attempt to stop the storyguide running certain sorts of story. Rather, the Boons and Hooks the troupe chooses should be a positive statement about the sorts of stories a troupe *wants* to tell. The players and storyguide should agree on the sorts of stories they want to tell before starting the saga. Disagreements among the troupe about desirable types of stories should obviously be discussed before *any* decisions are made about the covenant.
 
@@ -259,7 +259,7 @@ Settlements in regiones with dilated or contracted time are rare, but known. The
 
 The covenant with the largest dilation is a tiny chapter house in the mountains, where each day is a real-world month. The Criamon magus who lives within it believes calamitous times are near, and wishes to see the future of the Order, acting as a living repository of its history. The greatest contraction occurs in a covenant that House Tytalus founded during the Schism War to allow its younger magi to become hardened. This covenant also has only a single magus, who serves for a year of the local time, which is oneseventh of a normal year. Its population has lived for dozens of generations since the Schism, and their culture has become baroque and self-referential.
 
-### **Minor Site Boons**
+### Minor Site Boons
 
 **Aura:** The magic aura of the covenant increases by one point. The players may take this Boon up to seven times, for a covenant in any magic aura up to ten. All the covenfolk must live within the aura.
 
@@ -294,7 +294,7 @@ and no native who departs survives the melancholy.
 
 The Covenant of Valnastium, a mountain valley, is a place of such beauty now. The magi of Jerbiton, however, claim that this was not always the case. They say that given the choice of the faerie bower Rosegarten or Valnastium, Jerbiton chose the uglier valley. Had he chosen the beauty of the Rosegarten, he would have been content with its splendors. Valnastium was made beautiful with his own devices and desires, and so exceeds the ephemeral beauty of Arcadia.
 
-### **Major Site Hooks**
+### Major Site Hooks
 
 **Constantly Mobile:** This covenant moves constantly. For example, the Covenant of Crisp Winds lives on a flotilla of ships, which follows a route around the Mediterranean to collect vis and trade goods at auspicious times. If the covenant were to cease moving, it would lose its income.
 
@@ -328,7 +328,7 @@ A convoluted Wizard's War once arose from such a regio. Knowing it to be full of
 
 **Urban:** The covenant is in a city. The vast majority of the inhabitants are not part of the covenant, and the covenant does not rule the city.
 
-### **Minor Site Hooks**
+### Minor Site Hooks
 
 **Corrupt Area:** A section of the covenant has an Infernal aura, probably because of a terrible sin committed there. This acts as a seed for the corruption of the covenant, unless the characters discover the nature of the event and put things right. This Hook may be Unknown.
 
@@ -399,7 +399,7 @@ Many Spring covenants in cities lack a Magical aura, and should take the Missing
 
 Most covenants are fortified sites, but the degree of fortification varies. Some covenants do not have the resources to build the sort of fortress they would like. Other covenants do not feel threatened by mundane armies, and so choose not to hem themselves into cold, cramped fortresses. Many covenants fortified long ago, and have chosen not to upgrade their defenses as new ideas and techniques in castle construction have developed. The way a covenant fortifies communicates, to observers, how the magi intend to act.
 
-### **Free Choices**
+### Free Choices
 
 Several of the Free Choices in this section require the Castle Hook. This is because they lack the power to withstand determined military assault, yet pose sufficient threat to local noblemen that they cannot ignore the structure.
 
@@ -454,7 +454,7 @@ less comfortable to live in than manor houses. The magi probably have a hall in 
 
 A tower cannot hold off a determined force of soldiers. A traditional method of killing the inhabitants of a tower is to stack wood about it, then set the wood on fire, smoking the defenders to death. A tower cannot act as a staging area for large military groups, and alarms minor landholders only, so it does not count as a castle.
 
-### **Major Fortifications Boons**
+### Major Fortifications Boons
 
 The following Boons provide detailed alternatives to the standard fortification described by the Castle Hook.
 
@@ -513,7 +513,7 @@ A Magical Fortress requires the Castle Hook if a powerful noble is likely to bec
 
 These sites appear all but unnatural to surrounding noblemen, and evoke fear, distrust, and envy. They assure the viewer that the lords of the castle expect war with forces of such power that only a king could rally them. They also express the capacity to pour out wealth as if it were of no consequence. Just as no nobleman may ignore a nearby castle, no king may ignore a concentric castle in private hands. To build such a place, without permission, is a declaration of independence that assails the legitimacy of the monarch.
 
-### **Minor Fortifications Boons**
+### Minor Fortifications Boons
 
 **Artillery:** The covenant has siege weapons, like catapults and ballistae, mounted on elevated points. These dissuade besiegers, and, in some cases, protect against attacks from the sea. When the covenant expects little trouble, many of their siege engines are disassembled and held in the covenant's basements, out of the weather.
 
@@ -563,7 +563,7 @@ The tower keep is surrounded by a courtyard, which contains wooden or stone buil
 
 **Writ of Crenellation:** Someone with the authority to do so has given the covenant, or one of its servants, the right to fortify their home. The Quaesitores, who are concerned about the propriety of dealing with major nobles, may want to know how it was procured.
 
-### **Minor Fortifications Hooks**
+### Minor Fortifications Hooks
 
 **Crumbling:** Many mundane castles are in disrepair. Their function is to defend places in times of strife, and when their owners believe an extended period of peace has arrived, they do not perform necessary maintenance. Some castles are simply badly made.: For example, there are many motte and bailey castles which have had their wooden motte tower replaced with a stone one. As these compact the artificial mound upon which they sit, they develop enormous cracks, and eventually fall to pieces. Crumbling is a useful Hook for saga with Gothic themes.
 
@@ -580,11 +580,11 @@ The Boons and Hooks in this section influence the covenant's wealth. They are to
 
 Troupes should carefully consider the source of the covenant's wealth. It determines the occupations of many of the covenfolk, influences the structure of the covenant's community, and provides inspiration for many stories. The covenant's source of wealth, and the many details which follow naturally from its selection, provide a counterweight, in many sagas, to the fantastical elements provided by other Boons and Hooks.
 
-### **Major Resources Boon**
+### Major Resources Boon
 
 **Wealth:** The covenant is fabulously wealthy. One existing Typical source of income is upgraded to Legendary, providing enough money for the most sumptuous of quarters and the purchase of the most expensive materials and equipment. The fortunate magi of such covenants can live in kingly luxury, as can the covenfolk.
 
-### **Minor Resources Boons**
+### Minor Resources Boons
 
 **Hidden Resources:** The covenant has 250 Build Points of resources that are not immediately available to the player characters. These might actually be lost within the covenant, or represent sections of the library that are only open to more highly-ranked magi. This Boon may be taken multiple times.
 
@@ -596,7 +596,7 @@ Troupes should carefully consider the source of the covenant's wealth. It determ
 
 **Wealth :** The covenant is wealthy, even by the standards of other magi and the nobility. One existing Typical source of income is upgraded to Greater, providing enough money for the magi and covenfolk to live very comfortably, with a large surplus for spending on luxuries.
 
-### **Major Resources Hooks**
+### Major Resources Hooks
 
 **Indebted:** The covenant owes a vast sum that appears to be beyond its ability to repay. The yearly interest due on the debt alone amounts to about three quarters of the covenant's entire income, crippling its resources. If the debt repayments lapse, a powerful creditor will doubtless come calling.
 
@@ -606,7 +606,7 @@ Troupes should carefully consider the source of the covenant's wealth. It determ
 
 **Poverty:** The covenant has no sources of income at all and no mundane resources to speak of. Even providing daily food requires stories. Note that this will set the tone of at least the beginning of the saga.
 
-### **Minor Resources Hooks**
+### Minor Resources Hooks
 
 **Contested Resource:** Access to one of the covenant's accessible resources is contested with someone, or something, else. Thus, getting the resource requires a story. As a rule, one story means that the resource is available for five years. The resource in question should be of sufficient importance that the magi will want to bother with the story.
 
@@ -664,7 +664,7 @@ The following Boons and Hooks modify the inhabitants of the covenant. These rule
 
 A background character who fulfills several roles, and could be purchased with any of several Boons, needs only to be purchased once. For example, if the covenant employs a tame nobleman to fool mundane people into believing that the covenant is simply his estate, they not need pay for him a second time if he also acts as a drill instructor for the grogs. He does not need to be paid for as a teacher with Build Points, either.
 
-### **Residents Free Choices**
+### Residents Free Choices
 
 **Hunters or Sailors:** The covenant's people live by hunting, fishing, or some other profession that gives them useful skills for certain types of limited military action. These people need payment, a penny per day, for their service, unless the covenant has reached some other arrangement with them.
 
@@ -689,7 +689,7 @@ A crossbow takes (5 – Strength) minutes to reload. A crossbowman using a claw 
 
 peasant warriors is that they are never paid wages: a certain amount of military service is expected of them as part of their rent.
 
-### **Major Residents Boons**
+### Major Residents Boons
 
 **Heavy Cavalry:** Covenants that command heavy cavalry have a banner of knights in their service. Major noblemen often claim exclusive right to elevate others to, and sustain them in, the role of knighthood. A covenant maintaining a banner of knights is ignoring the privileges of these nobles. It also threatens war.
 
@@ -701,7 +701,7 @@ A covenant is the Greek Isles, described in the book *The Places I've Been — Y
 
 **Tame Nobleman:** The covenant rules a large enough territory that it can survive on the feudal rents of its vassals. It is illegal for magi to enter into feudal contracts, so the covenant has a generally willing servant who is the official ruler. This degree of integration with the feudal system worries some Quaesitores, but stays just inside the Code.
 
-### **Minor Residents Boons**
+### Minor Residents Boons
 
 **Cavalry:** The covenant has a small number of horsemen. They are not paid in money, but the upkeep of the men and their equipment is expensive, particularly in southern climes, where oats are not plentiful. The presence of horsemen, able to raid at a distance from the castle, always concerns its neighbors.
 
@@ -741,7 +741,7 @@ researcher, or wily political strategist who assists younger magi with their per
 
 They receive a penny each per day, even if they are not required to fight. Between battles, they may be used as guards and servants. Most use standard weapons, but their officers have expensive ones. They also have standard armor.
 
-### **Major Residents Hooks**
+### Major Residents Hooks
 
 **Chapter House:** The covenant owns and controls a second, smaller site, far from the covenant's main holding. The site is so valuable that a small, dependent covenant, called a chapter house, has been founded there. Chapter houses tend to agitate for independence from their motherhouses, but deft handling allows them to act as efficient harvesters of material that rivals would otherwise claim.
 
@@ -761,7 +761,7 @@ House Jerbiton runs several of these schools. Jerbiton apprentices are usually G
 
 **Superiors:** The player characters can be given orders by the ranking members of the covenant, which they must obey.
 
-### **Minor Residents Hooks**
+### Minor Residents Hooks
 
 **Alienable Land:** The covenant allows its people to own farmland, homes, and shops, rather than renting them. This allows industry to develop more quickly, as residents have a reason to improve their dwellings and land. This also allows covenfolk to mortgage their land, to secure the money required to start or expand their businesses. Stories arise when the land is sold, or lost, to creditors who come from outside the covenant. These heirs are unused to the covenant's customs, and might seek the aid of a higher authority to recover property they consider theirs by right. Many covenants, for example, allow female heirs to inherit far better portions than outsiders might expect, or local laws might allow.
 
@@ -818,7 +818,7 @@ The covenant's location is important if a troupe wants to use historical materia
 
 Within each Tribunal, covenants develop rivalries. These can be based on differences of philosophy, such as those between House Jerbiton and House Merinita on the expansion of towns into the forest, on professional rivalry, or even on simple greed and fear.
 
-### **Major External Relations Boons**
+### Major External Relations Boons
 
 **Autocephalous**: Some areas of Europe are not ruled by any nobleman, or are ruled by smallholding nobles who have never bent the knee to an outsider. This Boon suits covenants in any place where they can, without question, claim the right to live without an overlord. A covenant with the Isolated Boon need not take this one.
 
@@ -835,7 +835,7 @@ Within each Tribunal, covenants develop rivalries. These can be based on differe
 
 **Powerful Ally:** The covenant is supported, covertly, by a powerful figure whose personal agenda, although separate, is not uncomfortable to the covenant. The ally might be a faerie queen, a powerful creature, a nobleman, a young covenant, or even a prince of the church. This alliance will fail if the magi act in ways their supporter finds noxious, or fail to provide support in return.
 
-### **Minor External Relations Boons**
+### Minor External Relations Boons
 
 **Benefice**: The covenant owns the land on which the local church stands, the church building itself, and the cottage in which the priest lives. This means the covenant can, if it wishes, refuse to allow a given individual to use the church. The assignment of benefices is a matter of some controversy, since bishops reserve the right to appoint priests to congregations, while the landowners reserve the right to refuse access to their buildings to unsuitable priests.
 
@@ -854,7 +854,7 @@ Marco, a Redcap many caution not to trust, claims to have visited a covenant who
 
 **Ungoverned:** Some parts of Europe have been in a state of anarchy so long that no one can be said to rule them. Covenants in these areas need only deal with minor, neighboring nobles, each of whom has many rivals.
 
-### **Major External Relations Hooks**
+### Major External Relations Hooks
 
 **Beholden:** The covenant owes favors to someone or something, possibly another covenant, or possibly a mundane lord, bishop, or mystical creature. The external party can give the covenant orders, although the covenant gets to decide on the best way to carry them out.
 
@@ -880,7 +880,7 @@ Marco, a Redcap many caution not to trust, claims to have visited a covenant who
 
 **War Zone**: The covenant lies between two powerful noble holdings that are at war. Each side requires the magi to join it. Failure to assist, on either side, may lead to reprisal because the warlord considers the covenant in league with his enemy. This Hook may be Unknown.
 
-### **Minor External Relations Hooks**
+### Minor External Relations Hooks
 
 **Ancestral Error**: One of the magi who founded the covenant made a grave error that harmed many people, or willingly performed a deeply sinful act. The covenant must eventually face the consequences of this mistake. This Hook may be Unknown.
 
@@ -918,7 +918,7 @@ Marco, a Redcap many caution not to trust, claims to have visited a covenant who
 
 A circle twenty miles across, as a rough estimate, is the area that the mounted warriors from a castle can impose its lord's will. The circle is distorted by geography, political considerations, and mystical influence, but the twenty miles around a covenant are its home ground. The majority of the covenant's food, income, and emergencies are generated within this radius, and these Boons and Hooks describe its contents.
 
-### **Major Surroundings Boons**
+### Major Surroundings Boons
 
 **Defensive Environment**: Magical forces confound invaders in this area. In one part of Ireland, for example, the fog rises from the ground to befuddle harassing bandits and warn locals of trespassers. Some forests twist their trails so that tax collectors become lost. There are islands defended by winds, or circles of storms. These natural forces tend to be worthless again saints.
 
@@ -934,7 +934,7 @@ makes the surrounding people particularly pious, and wealthier than normal. This
 
 **Mystical Allies:** A large mystical creature is the friend and occasional benefactor of the covenant. Alternatively, a group of smaller animals assists the covenant.
 
-### **Minor Surroundings Boons**
+### Minor Surroundings Boons
 
 **Chase:** A chase is an area of royal forest, or other forest that once belonged to a major nobleman, that has been granted to the covenant for its use. The intended function of the chase is the breeding and capture of game animals, like deer, and the chase probably includes hides and runs, to aid in hunting. The covenant, in turn, usually allows its servants use of the chase. Poaching is typically forbidden, as is tree felling, but the magi may vary this as suits them, to reward exceptional service. Most peasants collect firewood in the chase, harvest wild nuts and berries, and run small groups of pigs.
 
@@ -948,7 +948,7 @@ There are many stories of knights finding faerie courts while chasing deer, but 
 
 A covenant in England has many Jews among its covenfolk. They find the covenant a liberating community. The magi do not prohibit them from owning land, do not prevent them from entering trades, and do not force them to wear a white clothing patch. The covenant's friendliness toward Jews must be kept secret, however, because the King of England has owned all Jews in his kingdom, and all of their property, since the *Laws of Edward the Confessor* were drafted in the 12th century. The laws allow a rich man to have Jews if he buys a special license, but the covenant has so many of the king's chattels in its employ that it would not be able to give him the required money without raising the ire of the Quaesitores.
 
-### **Major Surroundings Hooks**
+### Major Surroundings Hooks
 
 **City:** The covenant lies near a city. This is very convenient for purchasing material, but can lead to problems for political reasons. Most cities desire to dominate their hinterland, but noblemen usually control the area around cities and are jealous of their prerogatives. A city is a rich source of revenue, so if these noblemen are sufficiently powerful, they wish to control the city themselves. This Hook places the covenant in the zone where the city and its neighbors play out their disputes.
 
@@ -1043,7 +1043,7 @@ held by few men against many.
 
 Each covenant situation described below is a package of Boons and Hooks that balance. Troupes wanting to move quickly through the covenant generation process should select the one that suits their needs most closely and tailor it with additions from the lists above.
 
-### **Autumn Power**
+### Autumn Power
 
 This strong, Autumn covenant is based on the manorial model. The covenant's strength brings problems in the form of rivals, political involvement, and hierarchy.
 
@@ -1055,7 +1055,7 @@ This strong, Autumn covenant is based on the manorial model. The covenant's stre
 
 **Boons**: Artillery (Minor), Aura (Minor), Curtain Walls and Mural Towers: Hall Keep (Major), Edifice x2 (Minor), Prestige (Minor), Tame Nobleman (Major), Powerful Ally (Minor), Wealth: Agriculture (Minor), Writ of Crenellation (Minor)
 
-### **Devoted**
+### Devoted
 
 This covenant has devoted itself to attempting to reach the Lunar Sphere not, they insist, breaching it. Archimagus Theoderic, who is affable and encouraging, governs this covenant. His mater, the Archimaga Diana, was the last to attempt to reach the Sphere, but she was blasted into tiny fragments of glass during a laboratory accident on this site. Some other covenants, predominantly from Houses Bonisagus and Merinita, give these magi support.
 
@@ -1065,7 +1065,7 @@ This covenant has devoted itself to attempting to reach the Lunar Sphere not, th
 
 **Boons**: Dedicated Covenant (Major), Fallen Temple: Diana (Minor), Famous Resident (Minor), Felicitous Tribunal (Minor), Seclusion (Minor), Wealth: Marble Quarry (Minor)
 
-### **Ecclesiastical**
+### Ecclesiastical
 
 This covenant, sponsored by House Jerbiton, has close ties to the Church. It has agreed to monitor a site that was once used by diabolists, but this has aroused the ire of the demon whom the diabolists served.
 
@@ -1073,7 +1073,7 @@ This covenant, sponsored by House Jerbiton, has close ties to the Church. It has
 
 **Boons**: Powerful Ally (Major), School (Major), Vivid Environment (Minor), Wealth: Bankers to the Local Bishop (Minor)
 
-### **Expedition**
+### Expedition
 
 This covenant has been created to discover the diamond mines of Solomon. Its members endure hardship, but have hopes for fame and fortune. They follow a map that has been used before, by two expeditions which did not return.
 
@@ -1083,7 +1083,7 @@ This covenant has been created to discover the diamond mines of Solomon. Its mem
 
 **Hooks**: Erratically Mobile (Minor), Missing Expedition x2 (Minor) **Boons**: Powerful AllyMajor)
 
-### **Hermetic Market**
+### Hermetic Market
 
 This covenant lies at the center of Europe, and holds Ceremonies of Welcome each year, which allow apprentices to become magi. Many magi use these gatherings to trade and gossip, and the covenant charges a small fee for setting up a stall. It also controls surrounding businesses that provide food, accommodation, and alcohol. Its servants act as tailors, saddlers, and blacksmiths, to repair the equipment of travelers.
 
@@ -1093,7 +1093,7 @@ The covenant's Unnatural Law refers to powerful truth magic that affects the pla
 
 **Boons**: Curtain Walls and Mural Towers: Courtyard Castle (Major), Minority (Minor), Road (Major), Outbuildings — Fairground (Minor), Unnatural Law: Truth Magic (Minor)
 
-### **Military Camp**
+### Military Camp
 
 This covenant has militarized to fight faeries in its vicinity. Its buildup of force has worried its neighbors, who have seeded it with spies, and one mundane noble has begun to develop a coalition against it.
 
@@ -1101,7 +1101,7 @@ This covenant has militarized to fight faeries in its vicinity. Its buildup of f
 
 **Boons**: Artillery (Minor), Local Ally: Moat Monster (Minor), Curtain Wall and Mural Towers: Circular Keep (Major), Magical Heavy Cavalry (Major x2)
 
-### **Mundane Lord**
+### Mundane Lord
 
 The covenant has become master of a coastal holding. It is closely tied to the mundane nobility and may soon come to the attention of the Quaesitores.
 
@@ -1111,7 +1111,7 @@ The covenant has become master of a coastal holding. It is closely tied to the m
 
 **Boons:** Local Ally: Selkie King (Minor), Powerful Ally: Duke (Major), Tame Nobleman (Major), Criminals: Smugglers (Minor)
 
-### **Quaesitorial Agents**
+### Quaesitorial Agents
 
 The covenant comprises a Hoplite (see *Houses of Hermes: True Lineages,* page 70) and a team of non-magical agents, sent forth by the Quaesitores to deal with situations that the Order would like maximum capacity to deny. Agents are given enormous sums of money and magical equipment to allow them to complete their tasks. This saga's stories end with decisive, violent confrontations between the player characters and villains. As the plot of each story develops, the player characters destroy expensive equipment and ruin distant, picturesque locations with fulsome application of devastating magic.
 
@@ -1119,7 +1119,7 @@ The covenant comprises a Hoplite (see *Houses of Hermes: True Lineages,* page 70
 
 **Hooks**: Beholden: Quaesitores (Major), Constantly Mobile (Major), Hangout: Venetian Villa (Minor)
 
-### **Powerful Location**
+### Powerful Location
 
 The covenant is located in a place of great magical power. In many ways this is helpful, but it brings its own problems. The covenfolk, for example, must live within the place's potent aura, so almost all suffer from Warping.
 
@@ -1127,7 +1127,7 @@ The covenant is located in a place of great magical power. In many ways this is 
 
 **Boons**: Aura x5 (Minor)
 
-### **Roman Survival**
+### Roman Survival
 
 This covenant is a pocket of the Empire that faded from the world before it fell. Its citizens live in a small, self-supporting town ruled from a villa on the highest hill. The magi now live there, with the current ruler as their autocrat. The residents worship the Old Gods, and accept the magi as priests. The Roman character of the area, and its hidden nature, has led to its designation as a place for Hermetic ceremonies.
 
@@ -1137,7 +1137,7 @@ This covenant is a pocket of the Empire that faded from the world before it fell
 
 **Boons:** Edifices x2 (Minor: Aqueduct and irrigation system, Stadium), Loyal Covenfolk (Minor), Strong community (Minor), Regio (Major), Vast Aura (Minor)
 
-### **Spring in the Woods**
+### Spring in the Woods
 
 This young covenant has been founded deep in the woods to escape the attention of the Church, nobility, and senior covenants of the Tribunal. It has managed to develop good relations with the Court of the Bees, but has, at the same time, aroused the ire of the minor faerie that used to raid the beehives. This faerie has found a way past the Aegis and now lives in the covenant, causing minor trouble.
 
@@ -1147,7 +1147,7 @@ This young covenant has been founded deep in the woods to escape the attention o
 
 **Boons**: Hidden Ways (Minor), Local Ally (Minor), Unnatural Law (Minor), Useful Curse (Minor)
 
-### **Struggling**
+### Struggling
 
 The covenant has few resources, and some enemies, and has to work hard just to survive. Stories are likely to concern very mundane issues, such as food supplies, at least until the poverty crisis is resolved.
 
@@ -1155,7 +1155,7 @@ The covenant has few resources, and some enemies, and has to work hard just to s
 
 **Boons**: Aura x2 (Minor), Regio (Minor), Seclusion (Minor)
 
-### **Summertime (and the living is easy, relatively speaking)**
+### Summertime (and the living is easy, relatively speaking)
 
 This is a classic Summer covenant. Set amidst cropland and supported by serfs, it has a castle it can't quite explain and a few faeries it has annoyed, but no major problems, when the saga begins.
 
@@ -1163,7 +1163,7 @@ This is a classic Summer covenant. Set amidst cropland and supported by serfs, i
 
 **Free:** Criminals , Faux Feudalism **Boons**: Curtain Walls and Mural Towers: Octagonal Keep (Major), Informants (Minor)
 
-### **Swashbuckling**
+### Swashbuckling
 
 This covenant is based on a ship that seeks adventure — or at least distraction and riches — for the magi who own it.
 
@@ -1179,7 +1179,7 @@ This covenant is based on a ship that seeks adventure — or at least distractio
 
 The Half Shell (Minor), Hidden Ways: Sea Routes Only Traversable by Magic (Major), Strong Community: Crew and Wives Ashore (Minor), Wealthy: Trade and Piracy (Minor)
 
-### **Traveling Covenant**
+### Traveling Covenant
 
 This covenant does not have a stationary site. It moves on a circuit to harvest its resources, or keep its trade contacts vibrant.
 
@@ -1187,7 +1187,7 @@ This covenant does not have a stationary site. It moves on a circuit to harvest 
 
 **Boons**: Informants (Minor), Local Ally x6 (Minor), Wealth: Trade Fleet (Minor)
 
-### **Urban**
+### Urban
 
 The covenant is hidden in a regio in
 
@@ -1199,7 +1199,7 @@ a city. While this makes reaching a market easy, it brings its own problems.
 
 **Boons:** Edifice: Palatial House (Minor), Regio (Major), Unnatural Law (Minor), Wealthy: Stationers (Minor)
 
-### **Winter Ruins**
+### Winter Ruins
 
 The covenant is a fallen one and its magi have been assigned by their parentes, or the Tribunal, to rebuild it. They are the only magi present, but some of the servants of the previous magi remain, as does a powerful creature, either a deranged familiar or the beast that slew their final — admittedly Twilight-ridden and possibly demented — predecessor.
 
@@ -1211,7 +1211,7 @@ If, alternately, a magus has survived to welcome these new magi, the group shoul
 
 **Boons:** Aura x2 (Minor), Edifice x2 (Minor), Hidden Resources x3 (Minor)
 
-### **Worshipful**
+### Worshipful
 
 This covenant has been built in a regio where the inhabitants worship a
 
@@ -1233,7 +1233,7 @@ The state of the conflict results in the season being fixed at harvest. While th
 
 Entries in **bold** are particularly suited to low fantasy campaigns. Entries in *italics* are particularly suited to high fantasy campaigns.
 
-#### **BOONS**
+#### BOONS
 
 Artillery: Buildings, Minor, requires Castle
 
@@ -1535,15 +1535,15 @@ A good charter is unambiguous in its details — and some are meticulous pieces 
 
 A covenant's charter usually consists of a number of sections, each of which is detailed below.
 
-### **The Oath of Covenant**
+### The Oath of Covenant
 
 This is the text of the oath sworn by a magus when he joins the covenant. It serves as a pledge of loyalty, a declaration of support, and a dedication to the goals and furtherance of the members of the covenant. Like most oaths, it is not always followed to the letter, and interpretations of it may vary wildly. However, the spirit of an oath is usually clear, and typically taken seriously.
 
-### **Membership**
+### Membership
 
 The charter should contain a list of all magi who are members of the covenant, and their seals or signatures should be affixed to it to indicate that they agree to the contents of the charter. The requirements for membership should be clearly indicated in the charter; typical strictures state that the applicant must be a member of the Order and must be accepted by a vote of the council. There may be different levels of membership — full members, associate members, etc. — each with different privileges and obligations. Some covenants (usually Summer or Autumn covenants) require a period of servitude either before or after admittance to the covenant, during which time the applicant may not have full access to the privileges of a full member (such as voting, books, or vis).
 
-### **Method of Governance**
+### Method of Governance
 
 The next section of the charter clearly describes how the covenant is governed. It should unambiguously lay out the leadership (if there is one), offices and their duties, and the procedures for holding council meetings, both regular and extraordinary. The system by which the covenant makes decisions is described here, including all details and criteria for holding a legal meeting and ensuring that a legal decision is made. Finally, this section should describe the method by which the charter may be altered, should the need arise.
 
@@ -1577,21 +1577,21 @@ Not all decisions have to be made by vote. More unusual covenants may demand tha
 
 ## Examples of Vote-Taking
 
-### **Example Criteria for a Legal Meeting**
+### Example Criteria for a Legal Meeting
 
 - A quorum of a particular proportion of the magi must be present. •
 - The leader must be present. •
 - A certain number of officers must be present. •
 - A certain number of votes must be present. •
 
-#### **Example Methods of Casting Votes**
+#### Example Methods of Casting Votes
 
 - A show of hands •
 - A show of sigils, which may be deputized for magi who do not wish to attend •
 - A ballot (tokens placed into boxes or jars) •
 - Any of the above, but any member also has the option of demanding a secret ballot •
 
-#### **Example Methods of Vote Allocation**
+#### Example Methods of Vote Allocation
 
 - Every magus gets one vote. •
 - Every magus gets a number of votes dependent on her status. •
@@ -1599,7 +1599,7 @@ Not all decisions have to be made by vote. More unusual covenants may demand tha
 - Each officer gets an extra vote when the issue covers her purview. •
 - Each officer gets the casting vote when the issue covers her purview. •
 
-#### **Example Methods of Adjudicating a Result**
+#### Example Methods of Adjudicating a Result
 
 Majority by Vote: Votes for ("aye" votes) and against ("nay" votes) the •
 
@@ -1611,7 +1611,7 @@ issue in question are counted. If the ayes exceed the nays the motion is carried
 - Unanimity by Magus: All magi present need to vote aye to carry the motion. •
 - Unanimity by Member: All members of the council need to vote aye to carry the motion. •
 
-### **Example Types of Voting**
+### Example Types of Voting
 
 - All issues use the same adjudication method. •
 - Some issues require more relaxed or more stringent adjudication methods than others. •
@@ -1619,13 +1619,13 @@ issue in question are counted. If the ayes exceed the nays the motion is carried
 
 the status quo, or even result in certamen between the opposing sides.
 
-### **Covenant Resources**
+### Covenant Resources
 
 The resources of the covenant need to be clearly laid out in the charter, to distinguish that which is owned by the covenant from that owned by individual members of the covenant. This section tends to concentrate on resources important to magi rather than to people in general, and so might list the title of every book, the location of every vis source, the powers of every magical item, all in great detail, and then neglect to mention the physical buildings of the covenant, the land it owns, or the businesses it runs. The detail is very much dependent on the focus of the magi who wrote the charter, and those who have added to it over the years. It also depends on what resources are going to be granted (or denied) to members in the next section.
 
 Broadly, the resources of a covenant may include some or all of the following: Hermetic books, mundane books, Lab Texts, vis stores, vis sources, magical items, laboratories and their equipment, silver and other valuable goods, sources of income, companions, soldiers, servants, livestock, buildings, land, chattels (the contents of the buildings), food and drink, good relationships with outsiders, and favors and boons owed to the covenant.
 
-### **Member Rights**
+### Member Rights
 
 This section details the apportioning of the covenant's resources among its members. The most basic rights of members are those of food, drink, and shelter; most covenants also assume that a laboratory is a basic right. Charters might not necessarily include these basic rights
 
@@ -1655,13 +1655,13 @@ Hierarchical covenants may restrict the rights of certain of its members, so tha
 
 Covenants usually seek to improve themselves, and there may be a provision in the charter to reward members who perform work on the covenant's behalf. This work might include copying of tomes for exchange, making magical items (with the covenant's vis); or even taking on dangerous adventures such as bargaining with the local faerie king. The charter may stipulate a standard reward for particular tasks, or set aside a share from the yearly income of resources to pay those who perform covenant work.
 
-### **Member Obligations**
+### Member Obligations
 
 The most basic form of obligation required by covenants is the safeguarding of the covenant's resources, the harvesting of vis sources, and the collection of mundane income. These duties may be devolved to covenfolk, but usually the magi of the covenant are responsible for ensuring that these are done. In older covenants it is common for the weight of the obligations to fall upon the shoulders of the younger magi, leaving their elders the luxury of more time to themselves.
 
 Some covenants may have other obligations that must be performed at certain intervals, due to past events in its history or the threat of future misfortune. The charter should detail how such obligations are parceled out between its members, and whether the council can force a member to perform any *ad hoc* obligations (for example, adventures) that crop up.
 
-### **Censure**
+### Censure
 
 Failure to meet the obligations owed according to the charter generally results in some form of censure. Few covenants reserve the right to censure a magus for his actions in general; only breaking the charter is a punishable offence. However, it is not unknown for covenants to have clauses in the Oath of Covenant that exhort a member to act in a responsible manner, so the interpretation of "breaking the charter" can be nebulous at best.
 
@@ -1693,7 +1693,7 @@ until a magus comes back into line with the charter. The covenant can withhold a
 
 this counts as "depriving or attempting to deprive a magus from his magical power," and is in breach of the Oath of Hermes. This is why a covenant should be very careful to detail precisely what resources belong to it, and what belongs to individual members. Most commonly, the right of access to the library, and to shares of vis and money, are withheld until reparation is made. Denying a magus access to his laboratory is on shaky legal ground. Most Tribunals assume that a laboratory is provisioned from each magus's share of the monetary wealth of a covenant, and therefore constitutes personal property. However, it is worth reading the small print in the charter! Some covenants go as far to consider even the basic items of food, drink, and shelter as privileges, and reserve the right to deny recalcitrant members the most fundamental requirements for living at the covenant as a way of controlling its members.
 
-### **The Official Seal**
+### The Official Seal
 
 Depending upon the traditions of the local Tribunal, it may be necessary to have a charter approved by the Quaesitores. Where it exists, this ratification is obligatory, to ensure that the charter does not contain any clauses contrary to the laws of the Order, whether intentional or accidental. In the more organized (or, "civilized") Tribunals, the chief Quaesitor may keep a copy of the charter, and make it part of the Peripheral Code of that Tribunal. This has obvious advantages if one of the members breaks the charter, they can be charged with a Low Crime to force them back into line. However, it also means that other magi know by which laws a covenant has chosen to govern itself, and can use this information to its own advantage.
 
@@ -1705,7 +1705,7 @@ No Quaesitor can dictate the contents of a charter, no matter how unusual, unles
 
 The Prevailing Loyalty score is calculated based on factors including the average "Loyal to Covenant" Personality Trait of the covenant's servants, specialists, and soldiers; the social penalty of The Gift of the covenant's magi; and the individual actions of the magi. It is expressed as a positive or negative number on the same general scale as Personality Traits.
 
-### **Prevailing Loyalty and Individual Loyalty**
+### Prevailing Loyalty and Individual Loyalty
 
 The "Loyal to Covenant" Personality Trait of any individual within the covenant (such as a grog) can vary by up to three points either way from the average Prevailing Loyalty of the covenant, although in general a player character may choose any Loyal to Covenant value he wishes. However, if this score is dramatically different from that of the covenant, taking a Personality Flaw to account for this difference is appropriate.
 
@@ -1724,7 +1724,7 @@ case basis, but tend to follow the trend set by the Prevailing Loyalty.
 
 To calculate a covenant's Prevailing Loyalty, first calculate the Base Loyalty, determined by summing the Gift Modifiers of the covenant's magi (see the nearby table) and dividing by the total number of magi.
 
-#### **Base Loyalty: Total of Gift Modifiers / Number of Magi**
+#### Base Loyalty: Total of Gift Modifiers / Number of Magi
 
 Make a note of this Base Loyalty, for if the membership of the covenant changes, adjustments must be made to Base Loyalty without affecting any later loyalty points modifications due to player actions.
 
@@ -1744,11 +1744,11 @@ impacts their attitude, but likewise, soldiers given brand-new weapons and armor
 
 If only some of the covenfolk are affected by any of these modifiers, then reduce the modifier accordingly. For example, if the modifiers affect a third of the covenant, then reduce the effect on Prevailing Loyalty to one third. If conditions are dramatically different for different groups, the Divided Loyalty Hook is appropriate.
 
-### **Green Covenants**
+### Green Covenants
 
 In a newly established covenant, or one with newly recruited covenfolk, it is unlikely that any of the covenfolk will have a "Loyal to Covenant" Trait greater than zero, and it will often be lower. This is a harsh, but not unreasonable, fact of life. The mundane people recruited by the magi have no experience with Gifted characters, and to begin with have both suspicion and mistrust for their new employers (see ArM5, page 75). Over time, these feelings disappear as the covenfolk grow familiar to the covenant's magi through regular contact (see Familiarity, below).
 
-### **Established Covenants**
+### Established Covenants
 
 Not all covenants have newly recruited covenfolk; many have existed long enough for the employees of the magi to become used to the feelings of distrust that result from The Gift. Some covenants have lasted so long that several genera-
 
@@ -1772,7 +1772,7 @@ An established covenant usually has sufficient loyalty points through Familiarit
 
 Unfortunately for magi, there are a number of ways loyalty points can be lost. The actions of the magi are the most serious determinants of faithfulness overall, but any event that adversely affects the covenant is likely to be blamed on them, and result in a dip in Prevailing Loyalty. The following sections and the accompanying table describe five categories of Loyalty Point loss: attitude, punishments, wounds, local events, and reputations.
 
-### **Attitude**
+### Attitude
 
 Most covenfolk expect the magi at their covenant to be standoffish and haughty, just as commoners who live and work in more mundane settings expect their employers and the nobility
 
@@ -1800,13 +1800,13 @@ Note that as an established covenant, Semita Errabunda's covenfolk have familiar
 
 ## Situational Modifiers to Loyalty
 
-### **Living Conditions** Covenfolk have a –2 Aging modifier for living conditions –20 Covenfolk have a –1 Aging modifier for living conditions –10 Covenfolk have no Aging modifier for living conditions 0 Covenfolk have a +1 Aging modifier for living conditions +10 Covenfolk have a +2 Aging modifier for living conditions +20
+### Living Conditions Covenfolk have a –2 Aging modifier for living conditions –20 Covenfolk have a –1 Aging modifier for living conditions –10 Covenfolk have no Aging modifier for living conditions 0 Covenfolk have a +1 Aging modifier for living conditions +10 Covenfolk have a +2 Aging modifier for living conditions +20
 
-### **Equipment** Covenfolk have only Inexpensive equipment –10 Covenfolk have Standard equipment 0
+### Equipment Covenfolk have only Inexpensive equipment –10 Covenfolk have Standard equipment 0
 
 Covenfolk have Standard equipment and one piece each +10 of Expensive equipment Covenfolk have access to any equipment (within reason) +20 that they need
 
-### **Money**
+### Money
 
 | Covenant grants no salary                                     | –20 |
 |---------------------------------------------------------------|-----|
@@ -1818,7 +1818,7 @@ Covenfolk have Standard equipment and one piece each +10 of Expensive equipment 
 | until death) (cumulative with bonuses from high wages)        |     |
 |                                                               |     |
 
-### **Specialists**
+### Specialists
 
 | Turb Captain | + (Prs + Leadership)              |
 |--------------|-----------------------------------|
@@ -1851,13 +1851,13 @@ to behave. This general attitude on the part of a covenant's magi does not cause
 
 cruel acts performed out of sheer malice on a regular basis.
 
-### **Punishment**
+### Punishment
 
 Punishments which are not physical in nature have little effect on dependability (save where they are evidence of a magus's Attitude, as above), and appropriate punishment inflicted by a turb captain, steward, or chamberlain has no effect either. However, if a magus orders that a resident of the covenant should be punished, then a penalty is applied according to the table. In a covenant with a positive Prevailing Loyalty score, punishment must be unjust to incur a penalty; in other cases, the attitude of the covenfolk is affected whether the punishment is justified or not. The penalty to loyalty points is modified by any Reputation that the victim has: If dearly loved, add the Reputation to the penalty; if they are known to be insolent or disliked by many, then the penalty is reduced by the character's Reputation instead.
 
 **Table Entries:** A *minor humiliation* is short-lived and of little consequence, such as a slap in the face.A magical humiliation that is not witnessed by others is also treated as minor. *Public humiliation* — being dressed down in front of the whole turb, for example, or afflicted with ass's ears for Sun duration — has a larger effect. *Restraint*  combines humiliation with physical deprivation — a day in the stocks, for example, or a week on half rations. Direct *infliction of pain* that results in no actual damage has an even more severe Loyalty Poing effect, but *brutal punishment* that inflicts prolonged or extensive pain and wounds its victim as well is judged even more harshly. Worst of all for morale are instances where the magus responsible for the punishment also clearly enjoys inflicting it.
 
-### **Wounds**
+### Wounds
 
 Any wound dealt directly to one of the covenfolk by a magus causes a Loyalty Point penalty, whether or not it was accidental. This penalty compounds a punishment penalty if the magus himself administers it. If the wound is inflicted by magic, it is treated as one category more severe.
 
@@ -1865,7 +1865,7 @@ Grogs are expected to be injured in the defense of the covenant, and the circums
 
 The death of a well-liked member of the covenant can be a more serious blow to morale whether accidental, deliberate, magical, or not. Further, any positive Reputation possessed by a deceased character adds to the loyalty point penalty.
 
-### **Local Events**
+### Local Events
 
 Magi are frequently blamed for events outside of their control. When crops fail, a winter is exceptionally cruel, or the king declares war, then morale drops. In times of epidemic disease or famine, bonds of devotion may be severed entirely. These penalties do not disappear when the local event resolves itself, unless the magi had something to do with that resolution (see below). If these events last for years loyalty points continue to erode, although not necessarily at the same rate.
 
@@ -1880,7 +1880,7 @@ Should the covenant recruit more covenfolk, the effects of Familiarity will be r
 
 number of deaths due to a local catastrophe such as an uprising, a landslide, or the like. *Prolonged hardship* is caused by a succession of low-yield harvests or harsh winters, which gradually kill off the weak, the sick, and the old. *Widespread hardship* is both prolonged and large in scale, such as when a whole region suffers severe famine or drought. Many people may die, but this occurs over a long period of time and in a process of gradual erosion, rather than all at once. In contrast, a *devastating event* is one where many locals die within a short time span. A lethal plague or war is likely to cause this most severe dip in Prevailing Loyalty.
 
-### **Reputation**
+### Reputation
 
 When a covenant develops a bad Reputation and the covenfolk are aware of it, they may reconsider their employment. The covenant loses five Loyalty Loints for every point of each such Reputation.
 
@@ -1892,33 +1892,33 @@ ist bonus (18), gives a net total of –1 loyalty points, which yields a Prevail
 
 What would happen if they recruited a new magus with the Blatant Gift instead of all those new covenfolk? In that case, the Base Loyalty would be recalculated to –(225 + 105) / 7 = –47. The covenant would retain its accumulated 38 loyalty points from familiarity, and 18 from specialists, so they would have a total of nine loyalty points, translating to a Prevailing Loyalty score of one. The addition of this new magus would shake the resolve of the covenfolk, but not so much that they would start to display disloyalty.
 
-### **Familiarity**
+### Familiarity
 
 Covenfolk gradually grow used to the magi with whom they live; more specifically, they grow to ignore the social penalty of The Gift. This only applies to the magi of the home covenant; "foreign" Gifted individuals suffer the usual suspicion and distrust. Over longer periods of time, covenfolk are born into the covenant and grow up familiar with their magi. For every year that a covenant exists it gains two loyalty points. The maximum number of loyalty points that can be gained from familiarity is the quantity necessary to offset the covenant's negative Base Loyalty (that is, the penalty arising from the Gifts of the covenant's magi).
 
-### **Altruism**
+### Altruism
 
 Direct acts of altruism towards covenfolk increase their devotion. These need to be performed personally by the magi — ordering a companion to heal a grog will not help! However, personally assisting with the healing of a wound causes a Loyalty Point gain equal to the equivalent penalty if the magus had inflicted the wound in the first place. Conspicuous use of magic in such altruistic acts increases the bonus to the next level. Similarly, a magus who suffers a wound on behalf of a mundane earns loyalty points equal to those that would have been lost had the mundane sustained the wound. Acts that directly benefit covenfolk in other ways also increase loyalty points, by an amount determined by the storyguide using roughly the same scale.
 
-### **Rewards**
+### Rewards
 
 Covenants who provide rewards for their covenfolk increase their allegiance. A one-off celebration after a notable event earns one Loyalty Point; a regular cycle of feast-days, with at least four major events each year, also grants one point a year, but costs the covenant wealth (see Chapter 5: Wealth, Expenditure).
 
-### **Local Events**
+### Local Events
 
 Prevailing Loyalty is not affected if the covenant prospers unless this is clearly due to the direct action of the magi, such as casting ritual spells on the crops, publicly intervening in a war, or curing a plague. In such cases, calculate the penalty that would have been imposed if these events had occurred and grant it as a bonus to loyalty points instead. (This may, of course, simply cancel out the effects of a penalty that arose when the events occurred in the first place.)
 
-### **Reputation**
+### Reputation
 
 If a covenant gains a good Reputation in the local area, and the covenfolk get to hear about it or otherwise benefit from it, then five loyalty points are gained for every point of the Reputation.
 
-### **Loyalty and Mentem Magic**
+### Loyalty and Mentem Magic
 
 Magi can increase the reliability of their covenfolk directly with Mentem spells. There are three main methods: Creo Mentem can instill feelings of devotion in those who have no opinion of the magi; Rego Mentem can cause disloyal covenfolk to become loyal; and Rego Mentem can also force covenfolk to obey, whatever their emotions.
 
 While individuals can be affected with relative ease in the short term, for these spells to affect Prevailing Loyalty they must be powerful and regularly used, and such severe measures mean Warping.
 
-### **Loyalty Versus Discipline**
+### Loyalty Versus Discipline
 
 Some covenants implement stiff regimes of discipline and do not concern themselves with loyalty. A rigorous program of punishment is likely to cause
 
@@ -1986,7 +1986,7 @@ play, including an isolated tower, a manor and farm, a grand castle, and a magic
 
 The sample covenfolk in this section make their home in a physically small covenant at some remove from its mundane neighbors.
 
-### **Spying Maid**
+### Spying Maid
 
 **Characteristics:** Int +2, Per +2, Pre 0, Com +1, Str –1, Sta –1, Dex +1, Qik +1
 
@@ -2015,7 +2015,7 @@ The sample covenfolk in this section make their home in a physically small coven
 
 **Customization Notes:** This maid is not all she seems — while an attentive and effective servant in a magus's chambers, she is also a perceptive spy, reporting back to another magus in the covenant. Small Frame can be swapped for Obese (Size 0) if you re-figure her Wound Penalties. Keen Hearing, Light Touch, and Puissant Awareness are good alternatives to Keen Vision. This character can be used as a maid without being a spy — perhaps by replacing Dutybound with another Flaw such as Continence or Temperate, or changing the area of her Weakness — but her two Personality Flaws should not overlap. Abilities can be swapped freely, so long as 50 XP are left in Artes Liberales and Latin.
 
-### **Scribe**
+### Scribe
 
 **Characteristics:** Int +3, Per +1, Pre –2, Com 0, Str –2, Sta +1, Dex +3, Qik –1
 
@@ -2075,7 +2075,7 @@ These covenfolk inhabit a larger covenant enmeshed — to a greater or lesser ex
 
 Other manor-based characters might include an ale-wife, charcoal-burner, or weaver (all based on the Craftsman template); swine-herds or farmers (based on the Peasant), or a steward or reeve (based on either the Lord of the Manor or — for a skilled non-fighter — on the Lady).
 
-### **Lord of the Manor**
+### Lord of the Manor
 
 **Characteristics:** Int +1, Per 0, Pre +2, Com +2, Str +1, Sta 0, Dex –1, Qik 0
 
@@ -2119,7 +2119,7 @@ Other manor-based characters might include an ale-wife, charcoal-burner, or weav
 
 **Customization Notes:** This lord is presumed to be the spouse of a landholding wife who is a companion player character. He is primarily a figurehead to hold the covenant's manor, a ruler rather than a warrior, there to govern the grogs outside the turb, and to lead and manage the village. Piercing Gaze is a good replacement for Inspirational. His Fear and Weakness can be changed to other subjects, or replaced by Reckless or Overconfident. Warrior must remain both for the XP (all spent on Single Weapon) and to permit his Martial Abilities.
 
-### **Lady of the Manor**
+### Lady of the Manor
 
 **Characteristics:** Int +2, Per +1, Pre +2, Com +1, Str –1, Sta –1, Dex +1, Qik 0
 
@@ -2151,7 +2151,7 @@ Other manor-based characters might include an ale-wife, charcoal-burner, or weav
 
 **Customization Notes:** The lady is designed as spouse to a player character companion Lord of the Manor; she could be expanded into a companion herself by elevating her Pride to a Major Flaw and adding a few other Flaws and Virtues to accompany them. Her abilities can be shuffled, but she must retain exactly 50 XP in Academic Abilities from her Privileged Upbringing — but no more unless she gains the Educated Virtue. As a companion she'd also have a Confidence Score and Points.
 
-### **Blacksmith**
+### Blacksmith
 
 **Characteristics:** Int 0, Per 0, Pre +2, Com –1, Str +2, Sta +2, Dex +2, Qik –1
 
@@ -2187,7 +2187,7 @@ Other manor-based characters might include an ale-wife, charcoal-burner, or weav
 
 **Customization Notes:** The blacksmith reflects a folk-tradition of iron-working as a mystical ability, with a sacrifice of power (one eye) in return for a special affinity for iron, and the Sight. He can also be used as a model for other physically strong craftsmen or farmers, replacing Second Sight and Missing Eye with other choices, and shuffling Abilities.
 
-### **Craftsman or Craftswoman**
+### Craftsman or Craftswoman
 
 **Characteristics:** Int 0, Per +1, Pre –1, Com 0, Str 0, Sta +2, Dex +2, Qik +1
 
@@ -2223,7 +2223,7 @@ Guile 4 (fast talk), Village Lore 2 (local customs)
 
 **Customization Notes:** The craftsman or craftswoman (either applies equally) template can be applied to many figures in a village, from the ale-wife to weaver.
 
-### **Farming Peasant**
+### Farming Peasant
 
 **Characteristics:** Int –1, Per +1, Pre –1, Com –1, Str +3, Sta +3, Dex 0, Qik –2
 
@@ -2265,7 +2265,7 @@ Guile 4 (fast talk), Village Lore 2 (local customs)
 
 These covenfolk live at a great fortification that's the envy — or nightmare of every noble for miles and miles. Such a covenant might profitably employ a book-binder, cook, percamenarius (parchment-maker), and silver-smith — these can be based on the craftsman template above. The castle is also very likely to have a castellan or steward, which can be based on the lord of the manor or lady of the manor templates. The templates below describe additional covenfolk that might be found at a grand castle.
 
-### **Chaplain**
+### Chaplain
 
 **Characteristics:** Int +2, Per 0, Pre +2, Com +3, Str –2, Sta 0, Dex –1, Qik –1 (1)
 
@@ -2309,7 +2309,7 @@ These covenfolk live at a great fortification that's the envy — or nightmare o
 
 for Student of the Divine, and move XP from Music to Dominion Lore. Other Virtues and Flaws can easily be fitted in, although Priest is needed to define his role.
 
-### **Minstrel**
+### Minstrel
 
 **Characteristics:** Int +1, Per +1, Pre 0, Com +3, Str –1, Sta 0, Dex +1, Qik –1
 
@@ -2342,7 +2342,7 @@ for Student of the Divine, and move XP from Music to Dominion Lore. Other Virtue
 ### Covenants
 
 
-### **Washer-woman**
+### Washer-woman
 
 **Characteristics:** Int +1, Per +1 (1), Pre 0, Com 0, Str 0, Sta 0, Dex –3 (2), Qik 0
 
@@ -2380,7 +2380,7 @@ for Student of the Divine, and move XP from Music to Dominion Lore. Other Virtue
 
 Upbringing, which brings her Latin and Order of Hermes Lore.
 
-### **Weapons Instructor**
+### Weapons Instructor
 
 **Characteristics:** Int 0, Per 0, Pre 0, Com +2, Str +2, Sta 0, Dex +1, Qik 0
 
@@ -2438,7 +2438,7 @@ Defense +6, Damage +4 **Soak:** +0 (unarmored); +6 (partial chain mail)
 
 These covenfolk dwell in a highly magical environment. This may be a magical regio, an underground labyrinth, a flying castle in the clouds, or anything else that takes the fancy of the troupe — but it is sustained and fed largely by magic rather than mundane efforts. The three templates that follow — the artist, glass-blower, and lore-master —are correspondingly less "practical" than some others in previous sections.
 
-### **Artist**
+### Artist
 
 **Characteristics:** Int +1, Per +2, Pre –1, Com 0, Str 0, Sta +1, Dex +2, Qik 0
 
@@ -2468,7 +2468,7 @@ These covenfolk dwell in a highly magical environment. This may be a magical reg
 
 **Customization Notes:** Change Craft: Painter to Craft: Sculptor, Potter, or Weaver to create an artist in a different medium, or substitute Music for a composer. Magi may find it useful for the artist to learn realm-based Lore Abilities so she can depict scenes from the realms.
 
-### **Glass-blower**
+### Glass-blower
 
 **Characteristics:** Int –1, Per +2, Pre –2, Com –2, Str +2, Sta +2, Dex +4, Qik –1
 
@@ -2502,7 +2502,7 @@ Defense +6, Damage +8 *Axe (mounted):* Init +0, Attack +15, Defense
 
 **Customization Notes:** In 1220 it was still very difficult to manufacture pure clear glass. The process is almost alchemical, and Faerie Blood provides a rationale for a glass-maker who *can* make it. Making clear glass by magic is an expensive alternative, requiring Creo rituals (and vis); Perdo cannot be used to remove "just" the impurities, as it is in the nature of Perdo to make things more flawed than the ideal. Only Creo can move matter towards an ideal. This glass-blower's Craft skill can be changed freely, and the Offensive and Oversensitive Flaws easily changed. The Dwarf Blood Virtue is not, strictly speaking, *necessary,* but provides a good story reason for a martial craftsman. Swapping Custos for Warrior or Privileged Background provides more XP while still allowing Martial Abilities.
 
-### **Lore-master**
+### Lore-master
 
 Characteristics: Int +2, Per +1, Pre 0, Com +1, Str 0, Sta +1, Dex +1, Qik 0
 
@@ -2563,7 +2563,7 @@ Note that even oft-overlooked specialist characters purchased with Build Points 
 
 The templates that follow provide two examples of covenfolk who can serve as entertaining player characters, veritable founts of story material, or both.
 
-### **Baker**
+### Baker
 
 **Characteristics:** Int +2, Per +1, Pre +1, Com 0, Str +1, Sta 0, Dex 0, Qik +1
 
@@ -2595,7 +2595,7 @@ The templates that follow provide two examples of covenfolk who can serve as ent
 
 **Customization Notes:** This returned changeling — who bakes bread and cakes faerie-style, to the bemusement of his fellows in the covenant.— can have his Virtues and Flaws swapped freely. If dropping his Faerie Upbringing, however, move the related XP to another Ability.
 
-### **Spouse with a Secret (Skinchanger)**
+### Spouse with a Secret (Skinchanger)
 
 **Characteristics:** Int 0, Per +1, Pre +1, Com 0, Str 0, Sta +1, Dex 0, Qik +1
 
@@ -2628,7 +2628,7 @@ The templates that follow provide two examples of covenfolk who can serve as ent
 
 **Encumbrance:** 0 (0)
 
-### **RAVEN FORM**
+### RAVEN FORM
 
 **Characteristics:** Int 0,\* Per +1, Pre -1, Com 0, Str –6, Sta –2, Dex +1, Qik +3
 
@@ -2636,7 +2636,7 @@ The templates that follow provide two examples of covenfolk who can serve as ent
 
 **Size:** –3
 
-### **Combat:**
+### Combat:
 
 *Beak:* Init +3, Attack +6, Defense +7, Damage –4
 
@@ -2707,7 +2707,7 @@ People also have an advantage over spells and devices when it comes to flexibili
 
 A few spells and new spell level guidelines follow, describing just a few work-saving options commonly employed by magi of the Order of Hermes. There are additional crafting spells in Chapter 7: Library, for example, to turn hide into parchment.
 
-### **New Guidelines**
+### New Guidelines
 
 **Creo Animal Guidelines**
 
@@ -2730,11 +2730,11 @@ Level 3: Treat and process items made of animal products.
 
 *For greater complexity add one or two magnitudes. (Increased complexity usually also increases the Ease Factor of the mundane craft, and so increases the Finesse roll Ease Factor.)*
 
-#### **Creo Herbam Guidelines**
+#### Creo Herbam Guidelines
 
 Level 2: Preserve a dead plant from decay.
 
-#### **Rego Herbam Guidelines**
+#### Rego Herbam Guidelines
 
 Level 3: Manipulate items made of plant products.
 
@@ -2744,15 +2744,15 @@ Level 5: Treat and process items made of plant products.
 
 *For greater complexity add one or two magnitudes (e.g., Base 15 might be used to weave thread into a tunic).*
 
-### **Rego Terram Guidelines**
+### Rego Terram Guidelines
 
 Level 2: Shape and form dirt, as if a craftsman had worked it.
 
 *Add one magnitude for stone or glass, two for metal of gemstones. Add one or two magnitudes according to complexity.*
 
-### **New Spells**
+### New Spells
 
-### **A Spell to Milk Cattle**
+### A Spell to Milk Cattle
 
 ReAn 15
 
@@ -2764,7 +2764,7 @@ Milking cattle is normally Simple (3) if the cattle are accustomed to the proces
 
 (Base 3, +1 Touch, +1 Conc, +2 Group)
 
-### **The Gentle Herd**
+### The Gentle Herd
 
 ReAn 20
 
@@ -2774,7 +2774,7 @@ A group of animals are rendered calm and placid, even while unusual events occur
 
 (Base 4, +1 Touch, +1 Conc, +2 Group)
 
-#### **The Carpenter's Keen Eye**
+#### The Carpenter's Keen Eye
 
 InHe 15
 
@@ -2784,7 +2784,7 @@ The magus learns whether wood is suitable for use in carpentry, with an indicati
 
 (Base 3, +2 Voice, +2 Group)
 
-### **A Spell to Kill Weeds**
+### A Spell to Kill Weeds
 
 PeHe 20
 
@@ -2794,7 +2794,7 @@ The magus touches a weed, and it and all similar plants within a 15-pace range �
 
 (Base 5, +1 Touch, +2 Group)
 
-### **The Mystical Carpenter**
+### The Mystical Carpenter
 
 ReHe 25
 
@@ -2808,7 +2808,7 @@ If the magus chooses inappropriate wood (such as green, unseasoned wood), the sp
 
 (Base 5, +1 Touch, +2 Group, +1 flexibility)
 
-#### **The Invisible Glass-worker**
+#### The Invisible Glass-worker
 
 ReTe 4
 
@@ -2820,7 +2820,7 @@ Note that in the thirteenth century, most glass is not particularly clear — ma
 
 (Base 2, +1 Glass, +1 Touch)
 
-### **The Spell of Wrought Iron**
+### The Spell of Wrought Iron
 
 ReTe 15
 
@@ -2830,7 +2830,7 @@ The spell transforms raw pig-iron from a furnace into plain bars of wrought iron
 
 (Base 2, +2 Metal, +1 Touch, +2 Group)
 
-### **The Phantom Blacksmith**
+### The Phantom Blacksmith
 
 ReTe 20
 
@@ -3335,7 +3335,7 @@ Just about all sources of income require a number of people to run them. For exa
 
 Some covenants may plausibly consume some of their own produce; for example, a covenant with a large fishing fleet may keep back a small proportion of the catch for itself. For the purposes of bookkeeping, however, it is simpler to disregard this consumption, since the cost-savings of the covenant producing some of its own supplies are offset by the loss of income due to having less to sell. Anything which is *only* consumed by the covenant (such as a small herd of livestock, or a handful of locally crafted wares) does not count as a separate source of income, but is instead catered for by the rules on cost-saving, below.
 
-### **Agriculture**
+### Agriculture
 
 Farming is the staple activity of most peasants, and so it is a logical (if somewhat unglamorous) source of income for a covenant. Such a covenant's territory contains at least one village of peasants, who labor in the covenant's lands in exchange for tenancy on their own, making the covenant similar to most feudal overlords. Only a few crops are produced in quantity, with the surplus being traded for other foods and goods. Rarer (and more profitable) farms specialize in the production of agricultural luxuries, for example, vineyards, silk farms (sericulture is the art of growing silkworms on mulberry plants), and kermes plantations (insects found on some Mediterranean oak trees, used to make dye).
 
@@ -3345,7 +3345,7 @@ Farming is the staple activity of most peasants, and so it is a logical (if some
 
 **Magical Options:** Creo Animal to make silk; Herbam to nurture crops (for example, *The Bountiful Feast*); Auram to ensure favorable weather.
 
-#### **Examples**
+#### Examples
 
 Lesser: Two or three Scottish hamlets, with rye and field crops.
 
@@ -3355,7 +3355,7 @@ Greater: An estate of several famed Burgundian vineyards.
 
 Legendary: A silk-farming monopoly in Constantinople.
 
-### **Charity**
+### Charity
 
 Some few covenants are lucky enough to benefit from the charity of others, receiving a regular monetary gratuity. The donor might be an individual, such as a noble, a merchant, or a wealthy widow (if a player character, she should have the Wealthy Virtue); or an institution, such as a gild, another covenant, or the Church. The reasons for such generosity might be simple gratitude or altruism; alternatively, the donor might expect some form of protection or favors, or anticipate some future benefit from his or its "investment."
 
@@ -3369,7 +3369,7 @@ Some few covenants are lucky enough to benefit from the charity of others, recei
 
 **Magical Options:** Mentem magics in the form of charms or potions to make a potential donor feel more generously inclined.
 
-### **Examples**
+### Examples
 
 Lesser: The charitable income of a monastery.
 
@@ -3379,7 +3379,7 @@ Greater: The sponsorship of the king of France.
 
 Legendary: The income of the Pope.
 
-### **Crime**
+### Crime
 
 Some magi, living at the edges of mundane society and lacking a legitimate source of wealth, find themselves falling into criminal habits, in which their supernatural talents may be highly useful. In wild or lawless areas, options relying on the simple application or threat of force may be feasible. These include banditry, racketeering (demanding protection money), and piracy. Subtler possibilities include blackmail, smuggling, forgery, fencing, espionage, and assassination. It should be noted that several of the other sources of income listed in this section, if undertaken without a right or permission, may be considered criminal. Under these circumstances, hunting is poaching, toll-gathering is theft, and moneylending is usury.
 
@@ -3389,7 +3389,7 @@ Some magi, living at the edges of mundane society and lacking a legitimate sourc
 
 **Magical Options:** Imaginem spells for disguise (for example, *Disguise of the Transformed Image*); Mentem for deception; even minor magics can cause fear or give the impression of a significant threat.
 
-#### **Examples**
+#### Examples
 
 Lesser: A gang of highway bandits. Typical: An organized crime network in a large city.
 
@@ -3397,7 +3397,7 @@ Greater: The pirate fleet of the Rhine covenant of Waddenzee.
 
 Legendary: Robin Hood, with demonic assistance.
 
-### **Fishing**
+### Fishing
 
 It is possible to make a living harvesting from seas and rivers, instead of the land. This requires ready access to a river, or (preferably) a lake or sea, and one or
 
@@ -3424,7 +3424,7 @@ more crewed vessels, replete with nets. Fish supplements the diet of many folk, 
 
 **Magical Options:** Enchanted boats, nets, sails, or oars; Rego Auram, Rego Aquam, or Rego Animal to control the winds, the waves, and the catch, respectively.
 
-### **Examples**
+### Examples
 
 Lesser: A dozen fishing boats in a lakeside village, employing 40 people.
 
@@ -3432,7 +3432,7 @@ Typical: A sizeable fishing fleet in a port town.
 
 Greater: A large Basque whale fishery.
 
-### **Forestry**
+### Forestry
 
 Many covenants have woodland nearby, in which skilled foresters can make a living. Timber can be cut, providing wood for construction, shipbuilding, and fuel. Alternatively, some creatures, including the bear, fox, ermine, sable, and hare, may be hunted for their fur. A third possibility is to hunt wild animals such as deer and boar, or foraging pigs, for their meat, although this is not usually a viable source of income — such game is usually destined to grace the tables of local lords, not for sale at the local market, since hunting is a privilege which noblemen like to reserve for themselves. Magi might also hunt for vis or supernatural beasts,
 
@@ -3446,7 +3446,7 @@ although this is not (usually) a source of mundane wealth. Some forests have rel
 
 **Magical Options:** Ritual Herbam magics to enhance the productivity of a forest; enchanted bows or spears to assist huntsmen; Rego Animal to summon or control hunted creatures.
 
-#### **Examples**
+#### Examples
 
 Lesser: Several miles of woodland, worked by three dozen woodcutters.
 
@@ -3456,7 +3456,7 @@ Greater: Sable and ermine from a Russian forest estate, employing a hundred trap
 
 Legendary: Sole preserve of the royal New Forest, in England.
 
-### **Hospitality**
+### Hospitality
 
 A decent living can be made by providing food, drink, and shelter (and possibly other, more specialized facilities or comforts) to wealthy travelers. Inns and taverns, with their related breweries and butcheries, are an obvious choice, but hospitals, farriers, and brothels also do good business. Such enterprises are usually located in towns and cities, along trade or pilgrimage routes, or at sites of religious significance or natural beauty. Unless the covenant happens to be located in such a place, a hospitable business may therefore need to be placed some distance away.
 
@@ -3466,7 +3466,7 @@ A decent living can be made by providing food, drink, and shelter (and possibly 
 
 **Magical Options:** Mentem magics to bolster the spirits of visitors and loosen their purses; magically enhanced beverages or food.
 
-### **Examples**
+### Examples
 
 Lesser: A large town tavern. Typical: A luxurious Parisian brothel.
 
@@ -3474,7 +3474,7 @@ Greater: The Bierhaus brewery and inn in Bamberg, Franconia.
 
 Legendary: The great hospital of St. John, in Jerusalem.
 
-### **Livestock**
+### Livestock
 
 Farmland owned by the covenant might be devoted mainly to animal pasture, instead of crops, and income gained from the sale of livestock, hides, or wool. Just as with arable farming, this is not the most glamorous source of income, and usually requires at least a small holding of peasants to tend the herds. A few covenants are known to breed sheep and calves in order to produce parchment and vellum.
 
@@ -3484,7 +3484,7 @@ Farmland owned by the covenant might be devoted mainly to animal pasture, instea
 
 **Magical Options:** Creo Animal to make cloth, hides, or parchment, or enhance fertility; Rego Animal to control herds; Herbam to nurture crops for grazing.
 
-#### **Examples**
+#### Examples
 
 Lesser: A village or two of Alpine goat-herders.
 
@@ -3495,7 +3495,7 @@ Greater: One of the wealthiest East Anglian wool estates.
 
 Legendary: A famed Andalusian stud farm, breeding warhorses for princes and dukes.
 
-### **Manufacturing**
+### Manufacturing
 
 With a retinue of skilled craftsmen, a covenant lacking in natural resources can nevertheless provide for itself by manufacturing and selling goods. Buyers might include merchants, the nobility, the Church, or other covenants. The covenant could produce simple household manufactures, such as tools, cloth, or leather goods. More exotic possibilities, which would likely be traded further afield, include war materials (weapons, armor, siege equipment, and so on), luxury clothing, furniture, or ships. A handful of covenants are known for their manufacture of parchments, inks, glassware, and other laboratory exotica, which can be readily traded with other covenants.
 
@@ -3505,7 +3505,7 @@ With a retinue of skilled craftsmen, a covenant lacking in natural resources can
 
 **Magical Options:** Magical tools, machines, or containers to help craftsmen with their trade; spells to purify or enhance either raw materials or the end product.
 
-### **Examples**
+### Examples
 
 Lesser: A few dozen town craftsmen. Typical: A busy shipyard in a port city.
 
@@ -3513,7 +3513,7 @@ Greater: A famed swordsmithing workshop in Toledo, Castile.
 
 Legendary: A Venetian glassblowing monopoly.
 
-### **Mining**
+### Mining
 
 In the right location, a covenant may be able to hew its riches from the earth. Covenants have been known to be placed atop mines, extracting either metal ores (iron, tin, lead, copper), salt, or coal. More rarely, a lucky covenant may even be located near a source of silver, gold, or gemstones. Some other covenants are built near quarries, and export ashlar
 
@@ -3537,7 +3537,7 @@ A copy of this spell resides at the Great Library of Durenmar, but it is infamou
 
 **Magical Options:** Enchanted tools to accelerate quarrying or mining; a fake mine where Creo Terram is used to create metal or stone from scratch (or Muto Terram employed to transform it from base rock).
 
-#### **Examples**
+#### Examples
 
 Lesser: An unremarkable coal mine. Typical: A large sandstone quarry.
 
@@ -3545,7 +3545,7 @@ Greater: The salt mines of Wieliczka, in Poland.
 
 Legendary: The Penteli marble quarries, near Athens.
 
-### **Money**
+### Money
 
 For those who already find themselves with a surplus of cash, it is possible to profit in a number of ways, including moneylending, banking, moneychanging, or pawnbroking. Since the Church regards usury (the charging of interest) as sin, moneylending is mostly undertaken by Jews, although some other moneylenders and moneychangers employ various tricks to hide their interest, such as demanding repayment in a more valuable currency. In the 13th century, banking is in its infancy, only existing to any extent in the urban centers of northern Italy.
 
@@ -3555,7 +3555,7 @@ For those who already find themselves with a surplus of cash, it is possible to 
 
 **Magical Options:** Creo Terram to create coins from scratch; Muto Terram or Muto Imaginem to change the denomination of coins or their appearance; Mentem magics to influence customers.
 
-### **Examples**
+### Examples
 
 Lesser: The main pawnbroker in a sizable town.
 
@@ -3565,7 +3565,7 @@ Greater: A Mercer House specializing in moneylending.
 
 Legendary: The Genoese bank of Leccacorvo.
 
-### **Service**
+### Service
 
 Although it is difficult to make a good living out of unskilled labor, since peasants are cheap to hire, covenants may be able to profit by hiring out their skilled covenfolk or companions, be they apothecaries, architects, artists, fortune-tellers, merchants, minstrels, or ship's captains. One or two individuals by themselves are unlikely to provide a sizable income, unless prodigiously talented; dozens of skilled workers may be needed. Such skilled service is likely to prove most profitable where there are rich people willing to pay for it, such as in a large city, or in the lands of a wealthy nobleman. Some covenants have even been known to hire out their turb as a band of mercenaries, although this stretches at the edges of the Code.
 
@@ -3575,7 +3575,7 @@ Although it is difficult to make a good living out of unskilled labor, since pea
 
 **Magical Options:** Any items which help the covenfolk in their work, such as enchanted musical instruments; Mentem magics to ensure their loyalty and return.
 
-#### **Examples**
+#### Examples
 
 Lesser: A wandering troupe of a dozen minstrels, modestly famed.
 
@@ -3601,7 +3601,7 @@ Greater: A Greek navy of several dozen ships, with expert crew, for hire.
 
 Legendary: Several hundred elite Ghulam bodyguards.
 
-### **Toll-Gathering**
+### Toll-Gathering
 
 Those who find themselves in a strategically important location, such as by a bridge, ford, ferry, mountain pass, city gate, or waystation, usually seek to profit from it, by imposing a toll on passing travelers and merchants. To do this legitimately requires either that one owns the facility in question, or has permission from the feudal overlord to collect tolls, although this is a privilege that the greater nobility like to reserve for themselves. In places where it is possible to easily bypass the toll station (such as on a road), it must be patrolled, and all toll stations require a certain measure of force, so that non-payers can be refused entry.
 
@@ -3620,7 +3620,7 @@ Greater: A toll station in the Rhine gorge or an Alpine pass.
 
 Legendary: Customs duties at Venice or Constantinople.
 
-### **Trade**
+### Trade
 
 A covenant lacking resources can make money by transporting things from where they are cheaply available to where they are expensive. Some merchants travel great distances with precious items, while others prefer to follow short routes many times per year. Some covenants provide other services to traders, like warehouse space, repair facilities and lighterage, in exchange for fees.
 
@@ -3632,7 +3632,7 @@ House Mercere is involved in many trading enterprises and is usually interested 
 
 **Magical Options:** Items or spells to preserve goods or transport them safely and quickly, such as faster or more durable wagons or ships; Muto magics to change the size or amount of goods for storage or sale.
 
-#### **Examples**
+#### Examples
 
 Lesser: A local merchant with a dozen carts, or a small ship that trades locally.
 
@@ -3649,7 +3649,7 @@ Legendary: In Northern Europe, an annual fleet to Acre in the Levant, that retur
 
 
 
-### **Wizardry**
+### Wizardry
 
 Some covenants take the straightforward approach of trying to profit directly from their magical talents. Magical items, potions, the casting of spells disguised as charms or fortune-telling, and so on, may be offered to wealthy nobles for the right price. This needs to be undertaken with considerable discretion, in order to avoid mundane meddlement and attracting unwanted attention to the Order of Hermes. An alternative possibility is to sell items of Hermetic value, such as books, lab texts, vis, items, longevity rituals, and even seasons of service to other covenants or magi. Although vis is the far more usual Hermetic currency, rich covenants and magi may sometimes be willing to pay in cash, or with other mundane wealth — even a single pawn of vis may be worth a dozen or more pounds to the right buyer. This avoids the problems of selling to mundanes, but it is rather demeaning to hawk away one's magics for mere silver.
 
@@ -3659,7 +3659,7 @@ Some covenants take the straightforward approach of trying to profit directly fr
 
 **Magical Options:** This *is* the magical option!
 
-#### **Examples**
+#### Examples
 
 Lesser: Occasional minor charms or potions sold to the local nobility.
 
@@ -3771,21 +3771,21 @@ The regular expenditure of the covenant can be divided into the following catego
 
 provided it has a moderate amount of cost saving.
 
-### **Buildings**
+### Buildings
 
 The covenant's buildings need to be properly maintained, decorated, and furnished to prevent them from falling into disrepair. For example, damaged roofing and stonework has to be patched up, old furniture needs to be replaced, and there are often plenty of minor repair jobs for a carpenter to do.
 
-#### **Buildings Cost: 1 pound for every 10 points of inhabitants**
+#### Buildings Cost: 1 pound for every 10 points of inhabitants
 
 Add two pounds for any relevant Minor Fortifications Boon, and five pounds for any relevant Major Fortifications Boon (see Chapter 2: Boons and Hooks, Fortification). Only Boons that add to the size, magnificence, or quantity of the covenant's buildings or fortifications count.
 
-### **Consumables**
+### Consumables
 
 There are a whole host of minor tools, equipment, and consumables that are necessary for the smooth running of a covenant, which need to be replenished and repaired, including candles, carts, clothing, fuel, kitchen utensils, barrels, brooms, and so on. Special materials required for books and laboratories are accounted for separately.
 
-#### **Consumables Cost: 2 pounds for every 10 points of inhabitants**
+#### Consumables Cost: 2 pounds for every 10 points of inhabitants
 
-### **Inflation**
+### Inflation
 
 Most covenants have a gradually corrosive effect on their local economy (see the Magical Improvement section above) and the magi would be wise to be careful how they spend their money, to avoid inflating the prices of the things they need to buy.
 
@@ -3794,23 +3794,23 @@ The effects of inflation can be crudely modeled by simply adding a flat cost in 
 
 it may increase by several pounds. Also, it is suggested that inflation not increase during a year in which the covenant's expenditure drops (for example, as a result of new cost saving measures).
 
-### **Laboratories**
+### Laboratories
 
 Unsurprisingly, magi are willing to spend a significant portion of their money on their own laboratories. To maintain a laboratory at its existing level requires a steady supply of replacement equipment (especially glassware) and precious ingredients, as well as more basic items, such as fuel for heating and candles for lighting. The cost for each laboratory depends on its Upkeep score (see Chapter 9: Laboratory). For example, a standard laboratory (with an Upkeep of 0) costs one pound per year of typical use.
 
-### **Laboratories Cost: 1 pound per 10 points of laboratories**
+### Laboratories Cost: 1 pound per 10 points of laboratories
 
-### **Provisions**
+### Provisions
 
 With many dozens of mouths to feed, one of the covenant's major items of expenditure — often the largest of all — is the purchase of foodstuffs. A typical covenant consumes grains, meat, fish, vegetables, cheese, spices, salt, ale, and wines, and needs fodder for its horses.
 
-#### **Provisions Cost: 5 pounds for every 10 points of inhabitants**
+#### Provisions Cost: 5 pounds for every 10 points of inhabitants
 
-### **Tithes**
+### Tithes
 
 Some covenants need to regularly pay off their masters, just like many folk in medieval Europe. Such yearly payments might take the form of a tithe to another covenant, taxes to a feudal overlord or the Church, or debt repayments.
 
-### **Wages**
+### Wages
 
 Covenfolk are not usually paid a daily wage; they instead receive food and lodging in return for their service. Nevertheless, it is common for them to be given a modest weekly or monthly stipend so that they may occasionally buy things for themselves. For example, a grog in a typical Spring covenant might
 
@@ -3835,17 +3835,17 @@ get one penny per week, enough to buy a dozen mugs of ale. Although magi do not 
 
 You may adjust these wage costs as appropriate for your covenant, but bear in mind that the more you pay them, the happier the covenfolk will be (and viceversa). The standard wage costs listed here make no adjustment to Loyalty; if you increase (or reduce) them, you may gain the benefits (or penalties) to Loyalty outlined in Chapter 4: Governance, Prevailing Loyalty.
 
-#### **Wages Cost: 2 pounds for every 10 points of inhabitants**
+#### Wages Cost: 2 pounds for every 10 points of inhabitants
 
 The formula equates to one penny per point of inhabitants, per week. Add one pound per each penny that is paid daily to any professional soldiers in the covenant's service. For example, for the Veteran Fighters and Crossbowmen Boons, add one or nine pounds per soldier, respectively.
 
-### **Weapons and Armor**
+### Weapons and Armor
 
 Almost all covenants have a turb of warriors, who are outfitted with weaponry and armor, and some have an additional store of weapons, or even an arsenal. This equipment needs to be regularly cleaned, repaired, and (every so often) replaced. However, for a small turb with modest outfitting, this cost is likely to amount to only a couple of pounds per year.
 
 **Weapons and Armor Cost: 1 pound for every 320 points of weapons and armor**
 
-### **Writing Materials**
+### Writing Materials
 
 Writing is a costly business, since parchment and inks are expensive. As a rule of thumb, one pound provides enough materials to write four books, without embellishment. Typically, a magus uses such a quantity in one year. For example, two seasons of lab work (in which a lab text is produced), one season of book writing, plus diaries, accounts, records, letters, and so on, would amount to this much. Writing costs can be reduced for magi who are absent from the covenant or undertake little lab work or scribing, however. Specialist craftsmen (scribes, binders, and illuminators) allow better quality books to be produced, but add to the production costs (see Chapter 7: Library). Precious materials used for resonant bonuses on books are more expensive still, but are counted as sundry expenses (see below), on a case-by-case basis.
 
@@ -3855,11 +3855,11 @@ Writing is a costly business, since parchment and inks are expensive. As a rule 
 
 There are three main ways in which a covenant may be able to reduce its expenditures (apart from scrimping or laying off staff): by employing laborers, by employing craftsmen, and by utilizing magical items (or Ritual spells) which substitute for the work of one or more covenfolk . The benefits of adding laborers and craftsmen are threefold: Firstly, there is a modest net saving in overall expenditure. Secondly, by producing more of its food and wares locally, the covenant becomes more resistant to crises caused by any interruptions to its outside supplies. Lastly, by adding more points of inhabitants, the cost saving limits (as detailed below) increase in real terms, allowing the covenant to exploit economies of scale. For example, adding laborers actually allows the covenant to potentially make greater use of its existing craftsmen, who find themselves with more work to do, such as creating and repairing the tools used by the laborers.
 
-### **Laborers**
+### Laborers
 
 Each laborer working for the covenant reduces expenditure on Provisions by one pound. (In addition, as detailed above, every five laborers also make one teamster redundant, indirectly saving one pound.) The maximum amount of money that can be saved by laborers is half of the Provisions total. A covenant with craftsmen producing foodstuffs can also save even more money on Provisions, as described below, up to the entire annual Provisions expenditure if there are enough different types of sufficiently skilled craftsmen.
 
-### **Craftsmen**
+### Craftsmen
 
 Craftsmen employed by the covenant come in two types. Common craftsmen, such as blacksmiths, leatherworkers, and brewers, are those found in almost every village of any size in Mythic Europe, and are relatively easy to come by. Rare craftsmen, such as glassblowers, goldsmiths, and percamenarii, have a much more specialized trade and are encountered less frequently. They are harder to find and recruit, but are consequently more highly valued by a covenant.
 
@@ -3875,7 +3875,7 @@ Craftsmen may save money in various categories of expenditure, as detailed
 
 in the insert. For each category, there is a limit to the amount of savings that can be achieved with each particular craft. For example, a typical covenant with 100 points of inhabitants spends 20 pounds per year on Consumables, before cost saving. At most 20% of this (four pounds) can be saved in any one craft. Thus, no matter how many blacksmiths the covenant has (or how skilled they are), the maximum that can be saved by blacksmithing alone is four pounds. However, the covenant could (potentially) save its entire spending on Consumables by employing at least five different relevant types of craftsmen. In some cases, you may wish to make common-sense adjustments to the cost-saving limits. For example, if only a handful of your grogs carry bows, the cost-saving limit for a bowyer should be much less than 50% of the Weapons and Armor expenditure.
 
-### **Magic**
+### Magic
 
 Magic can also be employed to save money; many of the options here are similar to those for magically improved income, except that product of the magic is consumed instead of traded for profit. For example, the fertility of the covenant's own lands may be improved, or the magi might magically create tools or lab equipment instead of purchasing them. See Chapter 4: Covenfolk, Magical Alternatives to Covenfolk for examples of relevant magical devices and spells. A magical item might reduce the Consumables costs, for example, an oven which requires no fuel. Alternatively, it might save on labor, for example, a broom that sweeps by itself. In the former case, one or more pounds is saved directly; in the latter case, you can achieve the same results with fewer covenfolk (thus saving money indirectly). The minimum required numbers of servants and teamsters may thus be reduced.
 
@@ -3889,23 +3889,23 @@ Magical items can also perform the work of laborers and craftsmen, and may be tr
 - Extra buildings and fortifications: 2 pounds per each relevant Minor Fortifications Boon; 5 pounds per each relevant major Fortifications Boon •
 - Paid soldiers: 1 pound per penny paid daily •
 
-#### **Inflation**
+#### Inflation
 
 Starts at 0; increases by an average of 1 pound per 100 pounds of expenditure per year •
 
-#### **Laboratories**
+#### Laboratories
 
 1 pound per 10 points of laboratories •
 
-#### **Weapons and Armor**
+#### Weapons and Armor
 
 1 pound per 320 points of weapons and armor •
 
-#### **Writing Materials**
+#### Writing Materials
 
 1 pound per magus, scribe, bookbinder, or illuminator •
 
-#### **Cost Saving**
+#### Cost Saving
 
 - Laborers: For each, subtract 1 pound •
 - Craftsmen (common): For each, subtract 1 + (Ability / 2) pounds (rounding down) •
@@ -3914,7 +3914,7 @@ Starts at 0; increases by an average of 1 pound per 100 pounds of expenditure pe
 - Ritual spells: For each magnitude of effect, subtract 5 pounds •
 - Cost Saving limits: For laborers, 50% of the Provisions total; for craftsmen, either 50% or 20% of each total per relevant craft (see above insert) •
 
-### **Tithes and Sundry Expenses**
+### Tithes and Sundry Expenses
 
 Per specific amounts •
 
@@ -3992,7 +3992,7 @@ The fixed yearly expenditure is thus 90 pounds per year. In a typical year, Semi
 
 as creating a barnful of grain, they are somewhat rarely employed, since most magi value the necessary vis at more than five pounds per pawn. At the storyguide's discretion, non-ritual Rego craft spells, if cast repeatedly over an extended period, may save money as per magic items.
 
-### **Emergency Savings**
+### Emergency Savings
 
 Sometimes a covenant will find itself out of money (or credit), with its expenditure exceeding its income. If it cannot suddenly increase its cashflow, it will need to reduce its outgoings. There are a number of possibilities, which are a good source of stories. As detailed in the Points of Inhabitants insert above, the more privileged members of the covenant may voluntarily dispense with some of their perks and luxuries. (The points per magus or companion may be reduced to less than five or three points each, respectively, and the cost saving limit on Provisions from laborers may be increased from 50%, as the covenfolk rely more on their own produce.) Alternatively, the wages may be cut, but the covenfolk's Prevailing Loyalty will suffer. Some of the covenfolk could be laid off, turning them into disgruntled vagabonds, possibly with an axe to grind against their former employers. As explained above, there is a minimum number of servants and teamsters needed to keep the covenant running smoothly. If you have fewer than these minimums, it will adversely affect the functioning of the covenant — the storyguide should determine the appropriate story consequences, such as overworked staff, or magi having to forage or cook for themselves! In more severe cases of shortage or emergency, the magi might neglect entire categories of expenditure, allowing the buildings, laboratories, or weapons to go unmaintained, or letting the covenfolk starve, which will likely cause severe Loyalty Point penalties.
 
@@ -4004,29 +4004,29 @@ Depending on the events of each year, there are numerous items of irregular expe
 
 It is almost impossible to put a fixed monetary price on a pawn of vis. Magi prize vis, their currency of choice, far more highly than silver. Most consider that mundane things should be bought with silver, and magical things with vis, and that is indeed usually what happens. There are many wealthy covenants that would not even consider selling a pawn of vis for less than a hundred pounds, since vis can be employed effectively in various magical wealth-creation schemes. Yet at the same time, plenty of covenants would not be able to spare more than a few pounds to actually *buy* vis, since their silver is needed to run their covenants. For this reason, the trading of vis for silver is rarely undertaken, although it is not unheard of, especially amongst House Mercere, who have a more practical sense of the relative worth of vis and silver (see *Houses of Hermes: True Lineages*, page 87). In the cases where vis is sold for silver, the price varies wildly between a couple of pounds to a hundred or more pounds per pawn, depending on such factors as geographical location, the particular Art of the vis, the wealth and whims of local covenants and magi, and the availability of vis relative to other Hermetic commodities in your saga. Having said that, a base guideline of roughly ten pounds per pawn is a reasonable rule of thumb for a typical saga.
 
-### **Books**
+### Books
 
 Knowledge is always a wise investment, and some covenants have amassed a large collection of mundane books. Merchants who trade in rare tomes frequently find that covenants are a lucrative port of call. See Chapter 7: Library, Prices for Books.
 
 When producing their own Hermetic books, magi like to use resonant materials to decorate and enhance them (see Chapter 7: Library, Resonances). Although the costs vary considerably depending on the exact nature of the materials used, a good rule of thumb is that these precious materials cost one pound per book.
 
-### **Hermetic Commodities**
+### Hermetic Commodities
 
 Items for trade amongst magi of the Order (Hermetic books, items, Longevity Rituals, and the like) are almost always priced in vis, not silver. Nevertheless, cash may exceptionally be accepted as payment, especially if offered in very large quantities, or if the seller is poor.
 
-### **Hospitality**
+### Hospitality
 
 The visits of Redcaps can be rather costly. It is customary that each visiting Redcap is paid 30 silver pennies (an eighth of a pound) for her services. The total cost of a Redcap's stay often rises to three or four times this amount, however, once he has been suitably wined and dined by the covenant. Months or seasons of accommodation for visiting noblemen or magi may be even more expensive. A covenant may decide to throw an occasional festival or regularly observe feast days, which involves greater consumption of food and drink, but which boosts the morale of the covenfolk, adding loyalty points (see Chapter 4: Governance, Increasing Prevailing Loyalty).
 
-### **Labor**
+### Labor
 
 Sometimes, there is a temporary need to hire extra hands, for example, for a construction project, as mercenaries, or to crew a ship. Fortunately, most labor is cheap, although skilled labor is somewhat less so.
 
-### **Laboratory Construction**
+### Laboratory Construction
 
 The materials needed to outfit a laboratory (starting with an unfurnished chamber) cost one pound per two points of the laboratory. Thus, a standard laboratory with an Upkeep of 0 costs five pounds to build from scratch. If upgrading a lab (see Chapter 9: Laboratories) results in an increase to Upkeep, the cost is one pound for every two points by which it increases.
 
-### **Magi**
+### Magi
 
 The whims of magi and their need for silver are hard to predict. They may suddenly demand large amounts of "petty cash" from the autocrat to finance current pet projects or schemes. Modest amounts of such spending are already handled by the yearly expenditure on "wages," but the costs for major purchases, such as
 
@@ -4036,23 +4036,23 @@ The whims of magi and their need for silver are hard to predict. They may sudden
 
 a warhorse, a set of luxury furniture, a golden casket, and suchlike, should be added separately.
 
-### **The Pound of Enumerus**
+### The Pound of Enumerus
 
 A reknowned Jerbiton magus by the name of Enumerus once wrote a lengthy treatise on the economics of a covenant, a copy of which now resides in the Great Library of Durenmar. In the course of his research he came to a curious discovery: no matter how precisely he reckoned the books of his covenant, he could never fully account for all of its outgoings. After many years of trying, he eventually gave up, concluding that it was simply impossible for a mortal man to account for all such expenditure — there would always be some petty costs he had neglected, amounting to at least a pound. Since then, this phenomenon (and amount) of undocumented covenant spending has become widely known as the Pound of Enumerus.
 
 Every year, therefore, you should add one pound onto the sundry expenses. (Note that if the covenant is somehow cursed, or suffers from incompetent or crooked management, the Pound of Enumerus might amount to significantly more than one pound!)
 
-### **Property**
+### Property
 
 For the covenant to expand, it may wish to purchase or construct new property, or acquire extra land. A covenant is often judged, on first appearances at least, by the magnificence of its buildings and surroundings. These usually constitute very large items of expenditure, needing to be saved for and planned some years in advance. As a rule of thumb, roughly one virgate of arable land (a twentieth of a square mile) is needed for each farmhand laborer at the covenant.
 
 If building a property, you may simply assume that the costs of the raw materials and labor are equivalent to the price of a pre-existing building. In this case, it takes one year per floor (or ten feet of height) to build. This rate can be doubled by paying 50% more. As a rule of thumb, new buildings designed for covenfolk can be assigned a cost equal to the number of points of inhabitants they are to house. For example, in a Spring covenant, a hut to house a servant costs one pound, whereas the house of a magus costs five pounds.
 
-### **Training**
+### Training
 
 Although most covenants train their covenfolk and grogs themselves (which costs nothing), rich covenants may decide to pay outsiders for this purpose. If so, assume that a skilled individual costs half as much to recruit for teaching as to employ for work (see the price list).
 
-### **Travel**
+### Travel
 
 Magi are known to go on expeditions from time to time! Travel and accommodation for a group of magi and their grogs can be quite costly, especially for an extended period. This may involve passage on a ship, accommodation in inns, or the hire of a coach and horses. If such a party is traveling rough, however, then you need not account for their expenses (in this case they fall under the purview of the existing Provisions and Consumables costs). A season or more of rough travel might merit a penalty to the Living Conditions modifier for the characters involved, for that year.
 
@@ -4062,7 +4062,7 @@ Magi are known to go on expeditions from time to time! Travel and accommodation 
 
 This list is a rough guide to the prices of various items of sundry expenses. Exact prices may vary considerably by region and circumstances. For the sake of simplicity, prices are quoted in whole Mythic Pounds.
 
-#### **Quality and Size Multipliers**
+#### Quality and Size Multipliers
 
 | Shoddy / Small<br>x 0.5       |
 |-------------------------------|
@@ -4073,7 +4073,7 @@ This list is a rough guide to the prices of various items of sundry expenses. Ex
 
 Apply these quality and size multipliers to prices where appropriate. For example, a handsome riding horse (Excellent) costs considerably more than a filthy nag (Shoddy), a Standard house might be made of timber whereas a Superior dwelling is built of stone (although note that a Standard castle is built of stone), a diamond counts as an Excellent gem, a goat counts as a Large sheep, and so on. Note that both quality and size multipliers can apply, for example, something that is both Huge and of Excellent quality has a total multiplier of 25.
 
-#### **Animals**
+#### Animals
 
 | 20 sheep, 8 hunting dogs, 4 cows, 2 oxen,  |
 |--------------------------------------------|
@@ -4083,7 +4083,7 @@ Apply these quality and size multipliers to prices where appropriate. For exampl
 | Riding horse<br>2 pounds                   |
 | Warhorse<br>16 pounds                      |
 
-#### **Books**
+#### Books
 
 |      |        |         | One standard book (non-Hermetic)       |
 |------|--------|---------|----------------------------------------|
@@ -4092,7 +4092,7 @@ Apply these quality and size multipliers to prices where appropriate. For exampl
 | four | books, | without | embellishment                          |
 |      |        |         | 1 pound                                |
 
-#### **Buildings**
+#### Buildings
 
 | House<br>1 pound      |
 |-----------------------|
@@ -4110,15 +4110,15 @@ Apply these quality and size multipliers to prices where appropriate. For exampl
 
 *Buildings designed for covenant inhabitants cost a number of pounds equal to the number of points of inhabitants they are able to house.*
 
-#### **Hermetic Items**
+#### Hermetic Items
 
 One year of maintenance of a standard laboratory (with average use). . 1 pound Outfitting a standard laboratory from scratch. . . 5 pounds
 
 *Laboratories cost 1 pound per 2 points to outfit from scratch, and 1 pound per 10 points to maintain for a year of average use. Other Hermetic items are usually paid for with vis, not silver. See Chapter 7: Library, Prices for Books for suggested prices of Hermetic books.*
 
-#### **Hospitality**
+#### Hospitality
 
-#### **Labor**
+#### Labor
 
 | Purchase of a half-dozen slaves 1 pound  |
 |------------------------------------------|
@@ -4132,7 +4132,7 @@ One year of maintenance of a standard laboratory (with average use). . 1 pound O
 | year<br>5 pounds                         |
 |                                          |
 
-#### **Land**
+#### Land
 
 | One virgate of arable land, or two virgates |  |
 |---------------------------------------------|--|
@@ -4140,7 +4140,7 @@ One year of maintenance of a standard laboratory (with average use). . 1 pound O
 
 *One virgate (or yardland) is equal to about 30 acres (although the exact size varies by region),*  *which is sufficient land to support one peasant family reasonably comfortably. A square mile is about 20 virgates. Purchase prices of land vary widely; a typical price is between 20 and 50 times its gross annual income.*
 
-#### **Precious Materials**
+#### Precious Materials
 
 | Ten blocks of dressed building stone  |
 |---------------------------------------|
@@ -4155,11 +4155,11 @@ One year of maintenance of a standard laboratory (with average use). . 1 pound O
 
 *1 pound typically buys enough precious materials to add a resonant bonus to one book.*
 
-#### **Travel**
+#### Travel
 
 Rent of a wagon and horses for a season1 pound
 
-#### **Weapons and Armor**
+#### Weapons and Armor
 
 | 16 sets of Inexpensive armor, 4 sets of    |
 |--------------------------------------------|
@@ -4422,7 +4422,7 @@ For a day after the vis is collected, the water from the stream (and any beer br
 
 ## St. Swithin's Soupbowl
 
-### **by Matt Sprengeler**
+### by Matt Sprengeler
 
 The tale of St. Swithin's burial is known by churchmen throughout Christendom. The holy scholar wished to be laid to rest in a modest grave, but when he died, well-meaning folk instead interred him in a splendid tomb within Winchester cathedral. A downpour struck, and it rained for forty days and forty nights until the saint's body was moved to a more humble resting place. Even now, the people of Winchester say that rain on St. Swithin's Day (July 15) is a portent of more rain to come.
 
@@ -4430,7 +4430,7 @@ So it is with the lonely stone column called St. Swithin's Soupbowl. As tall as 
 
 ### The Water of the Waterless Valley
 
-### **by Ulrich Willmünder**
+### by Ulrich Willmünder
 
 High up in the mountains lies an unusually fertile vale called the Waterless Valley. While it does rain or snow there occasionally, there is no brook and no pond that holds water, and no glacier ends here, melting its ice, to water the valley. Even though the valley reaches up to more than 9.000 feet, access from the main valley to the south is relatively easy, and, despite the lack of water, it is used to graze goats.
 
@@ -4442,7 +4442,7 @@ In fact, the valley is covered with a network of very small streams, all hidden 
 
 ## The Lightning-Bringer
 
-### **by Gary N. Mengle and Sean Mitchell**
+### by Gary N. Mengle and Sean Mitchell
 
 A cunningly wrought device once rested on the top floor of the tallest tower of an ancient covenant — the Lightning-Bringer. Invented almost a century ago by a Tremere Archimagus, it was his greatest achievement. The Lightning-Bringer consists of a number of copper spheres of varying diameters, connected by thin, spiral rods of gold to several dozen glass vessels. The whole device is highly magical even when not in operation.
 
@@ -4452,7 +4452,7 @@ The entire mechanism must be continuously maintained, as many of its components 
 
 ## The Peak of Storms
 
-### **by Paul Tevis**
+### by Paul Tevis
 
 The Peak of Storms is never visible, as the top of the mountain is always hidden by clouds. In winter, a cold wind blows down its slopes, threatening to freeze an unwary traveler solid. During the spring and summer, thunderstorms form around the mountain. On Midsummer's Day, a great storm cloud takes shape over the peak, and at noon a tremendous thunderclap splits the air. It is said that any child born that day in the valley below will have the power to speak with the four winds.
 
@@ -4462,7 +4462,7 @@ If the peak is reached, the climber finds an ancient and charred tree. Each Mids
 
 ### The Reed Melody
 
-### **by Oscar Diez Martínez**
+### by Oscar Diez Martínez
 
 Maria was a beautiful young woman who lived in a nearby village. She had
 
@@ -4482,7 +4482,7 @@ In each year in which a man is hanged from the Hangman's Oak for his crimes, the
 
 ## Lovers' Violets
 
-### **by Nick Simmonds**
+### by Nick Simmonds
 
 There is a hill between the covenant and the nearest town, known to be a favorite spot for lovers to hold midsummer trysts; it is within walking distance but far enough for discretion. The hill is also under a Faerie aura, which may have something to do with its bawdy reputation. During the spring and summer, a magus could hardly swing a familiar without striking a shepherd, dairy maid, noble's son, or bar lass *in flagrante delicto*.
 
@@ -4494,7 +4494,7 @@ If transplanted to covenant grounds, these violets bloom each year provided they
 
 ## The Hangman's Oak
 
-### **by Ulrich Willmünder**
+### by Ulrich Willmünder
 
 A couple of decades ago, the smith of a village was found guilty of murdering both his wife and a wandering monk who was a witness to her murder. An enraged mob of villagers caught up with the fleeing smith and hanged him to death on the strongest oak near the village, the very same oak under which the smith had disposed of the corpses of his victims. Ever since then the oak has been known as the Hangman's Oak, even though the village was then so small that it had hardly ever seen any crime.
 
@@ -4628,7 +4628,7 @@ Playing the rebec on a regular basis is a time-consuming activity that cannot be
 
 ## The Sound of Silence
 
-### **by Ulrich Willmünder**
+### by Ulrich Willmünder
 
 The mountains are well known for their extensive caves. Many of these caves have Faerie auras, and some of these caves are known to the peasants of the area as echo caves. One cave to the south side of the mountains is famed for the delay of its echoes — the cave actually repeats a whole sentence back to the caller, sometimes repeating it for hours.
 
@@ -4656,7 +4656,7 @@ However, hers was not the gaze of rejection and enmity but of hope and compassio
 
 ## A Monk's Head
 
-### **by Ulrich Willmünder**
+### by Ulrich Willmünder
 
 Brother Paul of Bolzano was a pious canon of the Augustinian order. When he died horribly at the hands of diabolists, everyone who knew him assumed him to be a saint and martyr. But Brother Paul had not always been the friendly and pious monk everyone remembered. In his youth he had been a petty thief and had only joined the order to evade persecution. He had found his true calling in his service to God, but the sins of his youth remained to be repented.
 
@@ -4676,7 +4676,7 @@ On their way back, however, on the 25th of January, the day of the celebration o
 
 ## Aetites
 
-### **by Arseny Kuznetsov**
+### by Arseny Kuznetsov
 
 Mentioned in Pliny's *Natural Histories*, these rare stones can be found in eagles' nests. Also called eagle-stones, they look like yellowish pebbles, approximately an inch in diameter. If one is shaken carefully, a quiet rattling can be heard — it is made by a smaller pebble, held inside the larger one, not unlike a nut in a shell.
 
@@ -4692,7 +4692,7 @@ When collecting aetites, one must be careful not to chase off the eagles occupyi
 
 ## The Cave of the Nameless Goblin
 
-### **by Paul Tevis**
+### by Paul Tevis
 
 The underground world is the home of the goblins, faeries who live in perpetual darkness and whose subtle magics have made them masters of the shaping of stone. Long ago, one noble house rose up against the goblin king. The rebellion was put down, and although many of the traitors were executed, the leader's life was spared, because he was a cousin to the king. As punishment for his crime, he was stripped of his name, transformed into a stalactite, and hung from the ceiling of an isolated cave. The king decreed that his punishment would end when a stalagmite grew up to meet him.
 
@@ -4702,7 +4702,7 @@ The stalagmite grows upward at a rate of a hand's-breadth per season, but it is 
 
 ## The Rock Shepherd
 
-### **by Oscar Diez Martínez**
+### by Oscar Diez Martínez
 
 There is an entrance to a huge underground cavern on the shore of a small river. This cavern is filled with stalagmites and stalactites in strange and marvelous shapes that remind one of a garden.
 
@@ -4718,7 +4718,7 @@ The rock (which will not travel far away since the current is not strong enough 
 
 ### The Auberge
 
-### **by John Scott**
+### by John Scott
 
 On an island mid-river the ruins of a Roman villa stand. Only a few stones remain, including one on either side of a doorway. Walking through those stones at dawn, from outside to in, allows anyone to pass into the level 1 Magical regio.
 
@@ -4743,7 +4743,7 @@ When the visitors eventually leave, they are presented with knapsacks of food. T
 
 ## The Cave of Magic
 
-### **by Paul Tevis**
+### by Paul Tevis
 
 Legends tell of hollow hills, where faeries dwell and plot. Some of these mounds are gateways to Arcadia, while other barrows hold the bodies of ancient warriors and their restless spirits. The hollow hills are not to be entered lightly, and tales of hidden treasures have drawn more than one unlucky soul to his doom.
 
@@ -4753,7 +4753,7 @@ The floor at the center of the room is inscribed with an ancient circle and mark
 
 ## Housework Is A Bad Idea
 
-### **by Sheila Thomas**
+### by Sheila Thomas
 
 A spider's web in a dark corner of the covenant library has been gathering dust for twenty years or more. No spider has used it since it was newly spun. It happens that this point is adjacent to, or in line with, a laboratory where vis distillation goes on periodically, or else it is close to the place where the magi store the covenant's vis supply. Over the years, the dust in the vicinity has absorbed something of the surroundings and has collected on the web so that the dusty web, when first discovered, contains Vim vis.
 
@@ -4801,7 +4801,7 @@ Wax is a wonderful medium for Hermetic note-taking. Once a wax slate is fitted t
 
 ## Writing Materials
 
-### **Ink and Paint**
+### Ink and Paint
 
 Hermetic magi use two different methods of making **ink**. The older method creates inks that coat the surface of the parchment, like paint. The newer method, known from the third century but only dominant in the last hundred years, uses tannins that soak into the parchment and stain it. Technically this isn't ink at all — it's a dye. Hermetic magi use both types when writing books, because the newer type cannot produce colors.
 
@@ -4843,7 +4843,7 @@ Tannins are mildly toxic substances found in plants. Oak galls, the finest sourc
 
 gall is harvested and then soaked in wine or vinegar to extract the tannins. The finest galls come from Aleppo in the Levant Tribunal. Other tannin sources used by magi include hawthorn twigs, and some poisonous mushrooms. These are stewed in wine, mixed with copperas, then dyed with a little soot, since the reaction that blackens the ink on the page takes a couple of days.
 
-### **Writing Equipment**
+### Writing Equipment
 
 Most Hermetic pens are made from the flight feathers of geese. Up to five feathers can be taken from each wing of a goose to be converted into pens. The barbs of the feather may be removed for easier writing, if the user desires, but often only the first few inches are removed, where the scribe wishes to grip the pen. These feathers are plunged into hot sand to dry the membrane that surrounds the barrel of the feather so that it can scraped away. They are then heated in sand again, to firm the barrels.
 
@@ -4955,7 +4955,7 @@ A summae's level may not exceed half its author's score in an Art at the time of
 
 A tractatus can only be read once for benefit.
 
-### **Extended Rules**
+### Extended Rules
 
 **Maximum Summa Quality:** Author's Communication + 3 +1 for skilled scribe +1 for skilled binder + 1 for skilled illuminator + 3 (or less) due to mystical resonance + bonuses due to Virtues + bonus for writing to level less than half of Art score + 3 for non-magical subjects.
 
@@ -5033,7 +5033,7 @@ Some covenants permit departing apprentices to make copies of minor works from t
 
 An **opus** is, literally, any work by an author. An opus's type defines the style of book it is. The core rules detail summae and tractatus, which are expanded below.
 
-### **Casting Tablets**
+### Casting Tablets
 
 A **casting tablet** contains a simple series of instructions for casting a particular spell. Magi who have not learned the spell's intricacies through laboratory research may use a casting tablet instead. Casting from tablets is dangerous, because the magus is calling on power that he cannot control accurately. Casting from
 
@@ -5057,7 +5057,7 @@ When casting from a tablet, a magus determines his casting total according to th
 
 **Casting Total: Stamina + Form + Technique + Aura + stress die (modified by Virtues, Flaws and requisites)**
 
-### **Casting Total – Spell Level Result**
+### Casting Total – Spell Level Result
 
 0 or more Spell cast, lose one
 
@@ -5073,7 +5073,7 @@ Fatigue level.
 
 Magi can only author casting tablets for spells they have mastered, although magi can copy tablets written by others. A character spending a season as an author or copyist may create laboratory texts and/or tablets from the same pool of levels. Many options concerning casting, like range or vis use, are foreclosed by the author while writing the casting tablet. Casting tablets do not aid magi to learn spells the way laboratory texts do. Casting tablets purchased at covenant creation cost two Build Points per five levels of spells.
 
-### **Other Opus Types**
+### Other Opus Types
 
 **Commentaries** are books about other books. A student may not study a commentary until he has studied the summa to which it relates for at least a season. Commentaries are written in the same way as tractatus, and purchased in the same way during covenant creation, but have a +1 quality bonus which does not affect their Build Point cost.
 
@@ -5135,7 +5135,7 @@ Many magi search for the remains of other ancient libraries. The libraries of Tr
 
 The earliest Hermetic libraries followed models provided by mundane society. Many Hermetic collections, however, were larger and more diverse than any mundane equivalent. The rise of the book trade in the 13th century, however, has given birth to mundane libraries that are similar in size to the larger Hermetic collections. These libraries look similar to the Hermetic collections they postdate because they face similar problems with similar resources. Furthermore, some transmission of Hermetic methods of librarianship has occurred, possibly to the Church and nobility through interaction with House Jerbiton.
 
-### **Small Covenant Libraries**
+### Small Covenant Libraries
 
 Small covenant libraries are similar to those of small monasteries. Such libraries usually contain only sufficient books for each magus to have something instructive to read. The library is shelved in a common room, for example the council chamber, or is stored in a book closet.
 
@@ -5151,7 +5151,7 @@ A book alcove is created by building a small room or corridor lined with shelves
 
 The books in small libraries are usually fundamental or intermediate works in the subjects covered. The owners of small libraries are usually keen to expand their collections by trade, purchase, or less scrupulous methods of acquisition. Small libraries often have many more books on mundane subjects than magical ones.
 
-### **Medium Covenant Libraries**
+### Medium Covenant Libraries
 
 The libraries of Summer covenants are similar to those of minor nobility. The library has its own room, which is well-ventilated but warm. The room has a series of niches around the walls, each containing books on a particular subject. These niches may have doors, which might lock, or might depend instead on the room being locked. The room is kept warm by fires, magic, or hypocausts. The center of the room is sometimes a scriptorium or bindery. Some covenants, alternately, use the center of the room for their councils, or to keep mementos of their battles. Mundane theft is deterred by several methods, including locking the room, chaining the books to the shelves, placing curses over the doorways, and keeping a staff member permanently busy in the room.
 
@@ -5167,7 +5167,7 @@ lection. These key holdings are rarely the result of trade. Many are the opuses 
 
 The covenant pays a person to care for the library. Her tasks include dusting, airing the books, and making minor repairs. This person may have a second responsibility that accompanies her role as librarian, but as the collection increases in size, it holds less of her attention. Larger Summer libraries may have several staff, in multiple roles: bookbinder, copyist, illuminator, tanner, and apothecary.
 
-### **Large Covenant Libraries**
+### Large Covenant Libraries
 
 The libraries of powerful Summer, many Autumn, and some Winter covenants are similar to those of cathedral schools or universities. Libraries that follow this model have the following characteristics, but some large libraries remain similar to those of Summer covenants. The library is physically divided into smaller collections, by topic. These collections may share a single building, but more commonly are distributed around the covenant, close to the sancta of their most frequent users. The library has a central office, which stores the library's catalog.
 
@@ -5177,7 +5177,7 @@ The collection appears disjointed because it serves many roles. The library is a
 
 Libraries of this size have many staff. They perform all of the functions of the staff of smaller libraries, but the complexity of their collection requires an extra set of duties involving finding and retrieving materials for those who request them. To do this, they catalog and shelve the library's collection with a degree of precision not found elsewhere.
 
-### **Unique Hermetic Collections**
+### Unique Hermetic Collections
 
 Many of the domus magnae have excellent libraries, focused on areas that fascinate their Houses. The greatest collection of magical lore in Europe is housed at Durenmar in the Rhine Tribunal. It contains copies of most of the books written by Bonisagus magi, and many written by magi of other Houses. The Library of Valnastium holds a vast collection concerning mundane arts, sciences, and theology. The Library of Harco contains a useful melange of facts from across Europe, which assists House Mercere's commercial efforts. Many older covenants have libraries which, in their own particular fields, surpass all other collections.
 
@@ -5195,7 +5195,7 @@ A covenant's librarian might seek particular texts to add to a Hermetic library 
 
 Magic is rarely used in book selection, although some of the spells described in later sections can assist a magus to peruse a library and find the works he would like copies of.
 
-### **Standard Texts**
+### Standard Texts
 
 For nine of the Arts, there is a basic text that, over time, has come to be accepted as the preferred primer for a magus seeking the competence necessary to train an apprentice. These texts, called the Roots of the Arts, are widely and cheaply available. A Redcap can arrange the delivery of any of these texts, for a very small consideration.
 
@@ -5233,7 +5233,7 @@ Certain magi consider the root and branch symbolism employed in the advertising 
 
 The Order of Hermes supports a vibrant book trade through two main branches: sale of finished books, and scribal hospitality. Books are sold through the Redcap system, supplemented by exchanges that occur at Tribunal meetings. The use of magic to support the Redcap network is considered more fully in *Houses of Hermes: True Lineages,* page 101. Scribal hospitality occurs when a magus is allowed to copy from the library of a covenant to which he does not belong. Hospitality is usually offered in exchange for a payment or service.
 
-### **The Sale of Hermetic Books**
+### The Sale of Hermetic Books
 
 Many Hermetic books are sold through exchanges of letters, carried by Redcaps. Some Redcaps provide other ancillary services to the book trade. Some assess goods for sale on behalf of distant clients, or act as neutral parties between a pair of interested vendors. A few act as procurers, finding desired materials for a small fee. House Mercere's covenants also sometimes act as scribal centers. There are four main methods of postal sale.
 
@@ -5252,29 +5252,29 @@ No matter the method of sale, books are often sold at Tribunal. Many of these sa
 
 Many Hermetic books are sold under a condition called the Cow and Calf Oath. This refers to a ruling from the Hibernia Tribunal that has not been ratified by the Grand Tribunal. It is an agreement that the purchaser of a book will not sell, or freely give, copies of that book without the seller's permission. Some magi approve of the Cow and Calf Oath, while others despise it. The prices given below, aside from those for mundane books, assume the characters have sworn the Oath. Prices may be far higher for books that will rival their parents and reduce the income of the original covenant.
 
-### **Mundane Books**
+### Mundane Books
 
 The mundane book market is a cash market. Any magus with a spare pound can have any standard text from a stationer in a large city. Less common books still cost a pound, but it takes season for the stationer to arrange for a copy to be produced and delivered. Cheaper versions, unbound and written on paper, are also available, for half a pound. Commissioning books takes longer for covenants remarkably distant from civilization, or poorly served by the Redcaps.
 
-### **Books Concerning the Arts and Arcane Abilities**
+### Books Concerning the Arts and Arcane Abilities
 
 The Hermetic book trade is essentially a barter market. Most covenants can create so much mortal money that it isn't valuable enough for them to use as a medium of exchange for rare items. This makes pricing books an art, subject to a lot of haggling. The value of the book for sale, and of the things that might be traded for it, can be disturbed by events. A second magus might offer a similar book at any time, lowering the first book's value. A covenant might decide it has too much vis for one Art, and seek to trade it for others. This lowers the value of all vis of that Art, which would make a book's seller ask for more.
 
-### **Least Expensive Books**
+### Least Expensive Books
 
 The cheapest books available are damaged and discarded surplus books from major libraries. Inexpensive Hermetic books are not systematically produced for sale. Any established covenant could theoretically make them, but no established covenant needs them. There are few buyers for cheap books, and no covenant wastes the effort of creating a book on something that might not sell for years. Characters wanting damaged and discarded books can often arrange for them to be added to other trades as sweeteners. A covenant wanting to purchase damaged summae with vis can usually find a seller for about a pawn of vis per book, but could arrange other services instead. It is unusual for a seller to have a pile of damaged tractatus to sell for a pawn of vis, but after a library flood or some similar calamity, a buyer might get somewhere between three and nine to the pawn, depending on the degree of damage.
 
-### **Vain Books**
+### Vain Books
 
 Books of the second-lowest level of quality exist because their authors chose to publish them despite their comparative lack of worth. Such authors are usually proud of their books, and some give them as gifts to their friends and allies. Characters can usually purchase vain summae for half their level in pawns of vis, less if the author is particularly susceptible to flattery. Vain tractatus cost about a pawn each.
 
 Characters attempting to acquire a vanity book from someone other than its author often find that they must pay for it as if it were sound. The amount of labor and material involved in copying a book does not change simply because the buyer insists on a poor title, and the time taken to copy the poor book could instead be used to copy a good one for another buyer.
 
-### **Sound Books**
+### Sound Books
 
 Books of the level of quality that make up most Hermetic libraries are the most difficult to price. There are many possible sellers, so buyers have some opportunity to compare prices and force competition. Generally, the lowest prices can be found at covenants that have staff permanently copying books. These charge a number of pawns of vis equal to the book's level, if the purchaser is willing to wait a season for the copy to be produced. A surcharge of up to 20% is added if there is a spare copy available for the impatient. Sound tractatus cost around two pawns to order, or three for the impatient, but trade of equivalent, sound tractus remains very common.
 
-### **Excellent Books**
+### Excellent Books
 
 Most books of the highest quality cannot be purchased. Covenants receive them as gifts in exchange for exceptional service, and almost always under the conditions of the Cow and Calf Oath, that the book will never be copied without the permission of the originating covenant, or magus.
 
@@ -5286,11 +5286,11 @@ House Tremere is eager to sell, or buy, copies of excellent books. A difficulty 
 
 This brief grimoire is intended for magi acting as scribe-artisans or librarians within their covenants. There are a handful of Hermetic scribe-artisans, found predominantly in House Verditius, and most have copies of these spells, which they share readily. The scribe-artisans of House Verditius also frequently sell small magic items that incorporate many of these low-level spells. The usual form for enchantment is a leather stamp, used to place the library's mark of ownership on the leather covers of books.
 
-### **To Make Materials**
+### To Make Materials
 
 Players using these spells should remember that when using Finesse and the Art of Rego to replace skill at mundane crafts, the target scores representing levels of quality of goods increase by at least 3 points.
 
-### **Hide to Parchment**
+### Hide to Parchment
 
 ReAn 10
 
@@ -5310,7 +5310,7 @@ This spell confirms the quality of a container of ink, dye, or paint, verifying 
 
 (Base 3, +1 Touch, +1 Part)
 
-#### **The Plunder of Twenty Geese**
+#### The Plunder of Twenty Geese
 
 MuAn 15
 
@@ -5322,7 +5322,7 @@ This spell transforms up to 100 feathers, usually gained by plucking a chicken, 
 
 (Base 1, +1 Touch, +2 Sun, +2 Group, +1 size, +1 optional requisite)
 
-#### **The Apple That Etches**
+#### The Apple That Etches
 
 CrHe 20
 
@@ -5332,7 +5332,7 @@ This spell creates 100,000 oak galls. Magi, even in inhospitable climates, can u
 
 (Base 1, +1 Touch, +2 Group, +4 size)
 
-#### **Swift Knives, Invisible**
+#### Swift Knives, Invisible
 
 PeAn 40
 
@@ -5344,9 +5344,9 @@ This spell reduces an animal to its components. A dead sheep, for example, becom
 
 (Base 30, +1 Eye, +1 destruction of alimentary contents, +0 cosmetic requisite)
 
-### **To Aid or Replace Scribes**
+### To Aid or Replace Scribes
 
-#### **The Welcome Addition of False Sunlight**
+#### The Welcome Addition of False Sunlight
 
 CrIg 15
 
@@ -5356,7 +5356,7 @@ This spell creates a steady, cool, smokeless light that does not flicker. Varian
 
 (Base 4, +1 Touch, +2 Ring)
 
-#### **The Scribe's Touch**
+#### The Scribe's Touch
 
 PeAn 3
 
@@ -5366,7 +5366,7 @@ This spell trims the magus's quill with the flick of a finger.
 
 (Base 2, +1 Touch)
 
-### **Autodictation**
+### Autodictation
 
 ReTe 15
 
@@ -5374,7 +5374,7 @@ R: Voice, D: Ring, T: Ind
 
 This spell allows the magus to write by talking. Before casting this spell, the magus prepares a metal stylus and series of wax boards, which are inscribed as the magus speaks. At the end of each day's declamation, the wax boards go to
 
-### **Scribal Hospitality**
+### Scribal Hospitality
 
 Many Hermetic covenants allow visitors to stay for a time, and study or copy works from their library, usually in exchange for payment. Hermetic magi call this scribal hospitality. Hermetic study tends to be strongly affected by astrological factors, so most guests measure their stays in seasons. The facilities available to guests vary, depending on the wealth of the host covenant and their desire to pay for luxurious quarters.
 
@@ -5396,7 +5396,7 @@ notaries, who make temporary copies. These are then sent to scribes. This spell 
 
 (Base 1, +2 metal, +2 Voice, +2 Ring)
 
-#### **Thoughts Distinctly Burned**
+#### Thoughts Distinctly Burned
 
 ReAq10
 
@@ -5406,9 +5406,9 @@ This spell controls ink so that it makes patterns on the pages that correspond t
 
 (Base 1, +2 Voice, +2 Ring, +1 to allow many colors of ink)
 
-### **To Aid or Replace Illuminators**
+### To Aid or Replace Illuminators
 
-#### **The First Furrow Guides the Second**
+#### The First Furrow Guides the Second
 
 CrIm 25
 
@@ -5420,7 +5420,7 @@ This spell lays the image of a book's page over the top of a blank sheet, so tha
 
 (Base 1, +1 changes as pages turn, +2 Voice, +2 Sun, +2 Group, +1 requisite)
 
-### **Ink of Noblest Metals**
+### Ink of Noblest Metals
 
 MuTe 20
 
@@ -5432,9 +5432,9 @@ This spell transforms gold into a liquid that is applied as ink. When the spell 
 
 (Base 3, +2 metal, +2 Voice, +1 Dia)
 
-### **To Aid or Replace Bookbinders**
+### To Aid or Replace Bookbinders
 
-### **Creating an Empty Book From a Filled One**
+### Creating an Empty Book From a Filled One
 
 PeAn 3
 
@@ -5446,7 +5446,7 @@ An Intelligence + Finesse roll determines the skill with which the previous writ
 
 (Base 2, +1 Touch)
 
-#### **Binding the Mundane Codex**
+#### Binding the Mundane Codex
 
 ReAn 5
 
@@ -5458,7 +5458,7 @@ This spell binds up to 1,000 prepared bifolds into books. Usually these bifolds 
 
 (Base 1, +1 Touch, +2 Group, +1 size)
 
-### **Binding the Hermetic Codex**
+### Binding the Hermetic Codex
 
 ReAn 20
 
@@ -5492,7 +5492,7 @@ Covenants with visitors' suites need to balance the cost of enchanting a second 
 
 Accession is the process of preparing books for use by readers, so that they become part of the library. Two processes that comprise accession: the physical preparation of the book and the classification of the book. In Hermetic libraries, physical preparation is performed first. Sometimes, when a book is scribed for sale to a library, much of its shelf preparation is performed before its transfer, since shelf-readied books are more durable, and so travel better.
 
-### **Shelf-Readying**
+### Shelf-Readying
 
 Shelf-readying consists of a series of steps, many of which can be performed in any order.
 
@@ -5506,7 +5506,7 @@ A **voucher** is a slip of parchment, usually kept within the book, that remains
 
 **Chaining** is the practice of securing the book to an iron rail that runs along the top of a series of lecterns in the library. Chaining is a security measure. The chain is often attached by a flap to the upper corner of the front cover furthest from the spine. In this position, it is less likely to tangle with adjoining chains.
 
-### **Catalog as Proxy**
+### Catalog as Proxy
 
 A library's catalog — the list of books the library contains — acts as an arcane connection to the library, and allows a magus to cast spells upon the whole collection. It is a connection to each book the library contains, and to all of the books collectively. Individual books are not connected to the library of which they are part once they are removed from the library building; they are connected to the catalog instead. This provides the library with an added layer of security against magical attack and botched spells. Many libraries keep multiple copies of their catalog, since they are sometimes destroyed in lieu of the library by botched spells. Only the most recently scribed
 
@@ -5520,11 +5520,11 @@ The ritual that binds libraries to their catalog was invented during the second 
 
 Hermetic libraries serve two main purposes, study and research. They allow students to develop their abilities, and allow researchers to uncover answers to questions.
 
-### **Study**
+### Study
 
 The rules assume that a student is reading in optimal conditions. A magus working in poor conditions suffers a quality penalty of up to –6, at the storyguide's discretion. Conversely, magi gain no mechanical advantage from using magic to control the environment of their reading rooms — they are assumed to have well-lit, warm rooms. Smokeless lights, floating books, and magically-refilled inkwells make their work more comfortable than that of their mundane equivalents, but doesn't allow them to gain additional mechanical advantage. Certain magi go so far as to demand Spartan writing areas, since they find the rigor of it prevents them from being distracted.
 
-### **Research**
+### Research
 
 A magus seeking a fact in a library makes an Intelligence + Ability roll, with a bonus modified by the library's holdings. Sample library bonuses are as follows.
 
@@ -5548,7 +5548,7 @@ item. For example, a library lit using a lamp made from the skull of Chiron, the
 
 Books are removed from Hermetic libraries because they are no longer useful to the magi. Some books become so damaged through use and age that they are retired. Other books are no longer interesting, because the needs of the magi have changed since the books were acquired. When one of the magi living in a covenant dies, the items which favor their Arts are sometimes no longer needed, and so are traded away to provide materials which suit the current magi. When all magi who are interested in a given tractatus are finished reading it, it is often traded away. When a particular project is finished, the materials required for it are no longer needed. For example, primers used to round out the Arts of a magus determined to train an apprentice are often sold away after the magus completes his studies, although sometimes they are kept and passed on to the apprentice.
 
-### **Disposal**
+### Disposal
 
 Books are disposed of in several ways. Those that are still useful to magi, but simply no longer desired by the inhabitants of a particular covenant, are sold using one of the methods described in the acquisition section. Those that are physically robust, but cannot be sold, can have their text removed so that they can be reused. These blanked books are called palimpsests. Books that have suffered serious damage are stripped for their materials. The final, ignominious end of many magical texts is the gelatin pot, where they are boiled down to make magicallyresonant glue and ink-binding agents.
 
@@ -5574,7 +5574,7 @@ Much of the magic used in libraries supports the work of the librarians, rather 
 
 Players using these spells are reminded that when using Finesse and the Art of Rego to replace skill at mundane crafts, the target scores representing levels of quality of goods increase by at least 3 points.
 
-### **Repair Cracks and Tears**
+### Repair Cracks and Tears
 
 CrAn 20
 
@@ -5584,7 +5584,7 @@ This spell allows a magus to heal cracks and tears in the parchment and leather 
 
 (Base 5 [one hide], +2 treated animal product [parchment] +1 Touch)
 
-#### **A Useful Inculcator of Comments** ReHe 4
+#### A Useful Inculcator of Comments ReHe 4
 
 R: Touch, D: Mom, T: Ind
 
@@ -5598,7 +5598,7 @@ not effective for this purpose in newer works. That's because the oak-gall "ink"
 
 (Base 3, +1 Touch)
 
-### **A Simple Test for the Completeness of Books**
+### A Simple Test for the Completeness of Books
 
 InAn 15
 
@@ -5610,7 +5610,7 @@ This spell allows the magus to check the physical condition and history of a boo
 
 (Base 5, +1 Touch, +1 requisite)
 
-#### **Books that Scream in Pain**
+#### Books that Scream in Pain
 
 InAn 25
 
@@ -5622,7 +5622,7 @@ This spell allows the magus to check every book in a room for a physical or hist
 
 (Base 5, +1 Touch, +1 requisite, +2 room)
 
-#### **Fatal Register**
+#### Fatal Register
 
 MuAn 20
 
@@ -5634,7 +5634,7 @@ This spell changes the book's register, its bookmark ribbon, into a venomous ser
 
 (Base 5, +1 Dia, +2 requisites)
 
-### **The Avariciousness of the Ptolemies**
+### The Avariciousness of the Ptolemies
 
 ReAn 4
 
@@ -5644,7 +5644,7 @@ This ward makes it impossible for those lacking Magic Resistance to remove a boo
 
 (Base 1, +1 Touch, + 2 Ring)
 
-#### **Reorder the Contents of the Armarius**
+#### Reorder the Contents of the Armarius
 
 ReAn 10
 
@@ -5656,7 +5656,7 @@ This spell places books in a book chest or closet into a sequence. Sample sequen
 
 (Base 1, +1 Touch, +2 Room, +1 requisite, +1 versatility)
 
-### **A Simple Charm for the Recovery of Misfiled Books**
+### A Simple Charm for the Recovery of Misfiled Books
 
 ReAn 10
 
@@ -5666,7 +5666,7 @@ This spell makes a misplaced book fly swiftly to rest on its lectern, in an open
 
 (Base 1, +4 Arc, +1 Conc)
 
-### **The Demand of the Frustrated Scholar Soothed**
+### The Demand of the Frustrated Scholar Soothed
 
 ReAn Level 40
 
@@ -5676,7 +5676,7 @@ This spell makes a book that is within 500 paces materialize by the hand of the 
 
 (Base 20 [movement up to 500 feet, using ReCo guidelines], +4 Arc)
 
-### **Determine the Location of the Absent Volume**
+### Determine the Location of the Absent Volume
 
 InAn 25
 
@@ -5688,7 +5688,7 @@ This spell allows the caster to determine the location of a missing book by havi
 
 (Based on *The Inexorable Search*, +1 requisite)
 
-### **The Weightless Transportation of Books**
+### The Weightless Transportation of Books
 
 PeAn 25
 
@@ -5698,7 +5698,7 @@ This spell makes the books within a chest almost weightless. This allows library
 
 (Base 4, +1 Touch, +2 Sun, +2 Group)
 
-### **Chamber of Summer Breezes**
+### Chamber of Summer Breezes
 
 CrAu 10
 
@@ -5748,7 +5748,7 @@ While all of
 
 Many magi believe that the Creator, or similar, placed a layer of occluded meaning under the phenomena of the real world, and that magic works by tapping into this hidden series of connections. In the same way that rubies can affect blood because they are linked mystically, many mundane things are linked mystically to other phenomena by their nature. These links are more overt in magical objects, so rubies which naturally contain Corpus vis are simply expressing a link that all rubies have. Magi can collect objects to study these links, have unusual experiences, or watch them in action.
 
-### **Significatos**
+### Significatos
 
 **Significatos** are magically occurring phenomena that illuminate truth. The significato most familiar to Hermetic magi is lab study using vis. Magi may generate
 
@@ -5759,7 +5759,7 @@ There are sites of mystical significance scattered across Europe which magi use 
 These sites are rarer in 1220 that during the founding era, because covenants tend to harvest them, taking vis in lieu of mystical understanding. Houses Merinita and Bjornaer protect some of these sites, claiming them for their own covenants, and wandering Trianomans defend them politically. The number of pawns of vis that the site can substitute for depends on the site, but is always more than the number of pawns it yields as a harvest. Some such sites produce special insights, rather than experience points.
 
 
-### **Realia**
+### Realia
 
 Some covenants collect **realia**: mundane objects, or magical examples of usually-mundane things, so that magi can study them. Realia have several uses.
 
@@ -5781,11 +5781,11 @@ A realia collection can be studied as many times as it has levels of quality. If
 
 The book is the cheapest, most convenient way for magi to distribute text to students. Other alternatives are sometimes favored because the creator has a magical affinity that suits a different material, or because the material chosen is highly resonant with the text.
 
-### **Alternatives to Books**
+### Alternatives to Books
 
 There are so many alternatives to parchment that comprehensive notes cannot be given for all of them. Alternatives to parchment are treated, for study purposes, as if they were books. A mirror that displays writing, for example, is treated as if it were a book. Their quality scores vary on the same scale, although most works using alternative materials contain highly resonant substances, allow the magus to act as a scribe-artisan, or both.
 
-### **Great Works**
+### Great Works
 
 Great works are learning experiences created as an alternative to reading a book. If considered solely for their educational value, their construction is too expensive to justify compared to copying books. Great Works are, however, beautiful structures that embody the values of their creators, so they also serve commemorative and aesthetic functions.
 
@@ -5846,7 +5846,7 @@ This spell has an alternate name, *Tytalus's Prison*, which comes from a story, 
 
 (Base 3 [move "away"], +1 Touch, +2 Ring)
 
-#### **Ward Against Flame**
+#### Ward Against Flame
 
 ReIg 15
 
@@ -5858,7 +5858,7 @@ This spell sometimes encloses an entire laboratory, but is of limited usefulness
 
 (Base 4, +1 Touch, +2 Ring)
 
-#### **Ward Against Mundane Intrusions** Rego Ignem 35
+#### Ward Against Mundane Intrusions Rego Ignem 35
 
 Req: Corpus, Animal, Aquam, Herbam
 
@@ -5979,7 +5979,7 @@ Hermetic lab work is time-consuming and demanding, and it inevitably takes its t
 
 The standard lab routine assumes that a magus works in the lab for ten hours a day, six days a week. On work days, this leaves precious little time — only a couple of hours — for other activities, apart from eating and sleeping. On his rest day, a magus might engage in the writing of letters or diaries, socializing, attending to household tasks, engaging in noble pastimes such as hunting, worshiping (if he is religious), or simply relaxing or meditating. Occasionally, important lab tasks that cannot be interrupted require a magus to skip one or more rest days, so that he will have about ten rest days in total in a typical season. Up to ten work days can be missed in a season (in any order) without penalty, provided that the lost time is made up by working on rest days. However, a magus who is absent from his lab for more than ten days in a season suffers the penalties to his Lab Total given in ArM5, page 103.
 
-### **Non-Standard Laboratory Routines**
+### Non-Standard Laboratory Routines
 
 Some magi work longer hours than normal, or at odd times of the day or night, as well as sacrificing rest days, in an effort to make their seasons in the lab more productive. While this does provide some benefit (a small bonus to that season's Lab Total), there are also a host of disadvantages. For example, tiredness due to overwork may make a magus more prone to accidents, and there may be adverse effects on his health. Staying in the lab for too long can also cause Warping.
 
@@ -6054,7 +6054,7 @@ The vast majority of magi have only one laboratory. The expense and effort of ma
 
 Nevertheless, some elderly and rich magi do maintain second laboratories. This might be to cater to several conflicting preferences, because the magus regularly travels to some remote location, or out of sheer vanity. It is somewhat common for covenants to maintain some additional labs, either for communal work, for guests, or for the extraction of vis from some remote magical aura. It should also be noted that a laboratory must occupy a single chamber. Installing lab equipment onto two separate floors of a tower, for example, counts as two separate labs.
 
-### **Size**
+### Size
 
 Size specifies broadly how much floor space is provided by the physical structure of the laboratory. The larger the laboratory is, the more benefits (Virtues) it can accommodate. Thus, each point of Size adds to the maximum permitted sum of Virtue points minus Flaw points (see Virtues and Flaws, below).
 
@@ -6093,7 +6093,7 @@ Secondly, it looks slightly ridiculous if a chamber is far larger than it needs 
 
 A lab cannot be smaller than Size –3. However, there is no upper limit; for each additional 500 square feet beyond 1500, add a further +1 to Size.
 
-### **Refinement**
+### Refinement
 
 Refinement is a measure of the expertise and time taken to assemble the contents of the lab efficaciously. The more experienced a maga is, the more efficiently she can make use of the available space. Just like Size, therefore, each point of Refinement adds to the maximum permitted number of Virtue points minus Flaw points (see Virtues and Flaws, below). Highly-refined labs can thus either be smaller than normal, without needing to suffer Flaws, or permit more points of Virtues than would otherwise be possible.
 
@@ -6111,11 +6111,11 @@ by one, the net Safety increase is either one point (if the new occupied Size is
 
 For example, Darius (when he has a Magic Theory of 4) spends a season to increase the Refinement of his standard laboratory (with all Characteristics equal to zero, and no Virtues or Flaws) to +1. This causes the occupied Size to drop to –1 and the Safety to increase to +1. There is now free space for one Minor Virtue. If, in the next season, he installs such a Virtue, the occupied Size returns to 0, and the Safety stays at +1. Later on, he has an extension to the chamber constructed, increasing its Size to +1 (0) and allowing space for one more Minor Virtue. When he spends a further season to install such a Virtue, the occupied Size increases to +1 and the Safety thus drops to 0. Later still (when Darius has increased his Magic Theory to 5) he spends a further season to increase the Refinement to +2. This causes the occupied Size to drop to 0 and the Safety to increase to +2. When he spends another season to install his third Minor Virtue, the occupied Size returns to +1, and the Safety drops to +1.
 
-### **General Quality**
+### General Quality
 
 General Quality is simply an overall measure of the effectiveness of the lab in all areas. General Quality adds to all Lab Totals. This bonus (or penalty, if the General Quality is negative) applies in addition to any other Lab Total adjustments (such as from Specializations). This Characteristic has no effect on teaching or the scribing of texts.
 
-### **Upkeep**
+### Upkeep
 
 Upkeep specifies the monetary cost of building and maintaining the lab. For example, a lab with priceless ingredients may have a better General Quality, but it is also more expensive to maintain. A lab with an Upkeep of zero costs five pounds to build and one pound per typical year of use to maintain. See Chapter 5: Wealth and Poverty, Expenditure for the costs of labs with other Upkeep scores.
 
@@ -6131,7 +6131,7 @@ rary financial crisis, and can only afford to spend one pound per year on Darius
 
 If a new Virtue or Flaw (or its removal) results in an increase to Upkeep, then the difference between the old and new build costs (which are one pound per two points of the lab; see Chapter 5: Wealth and Poverty) must be paid. For example, raising a lab's Upkeep from +2 to +4 (an increase of 70 points) costs 35 pounds. Thereafter, maintenance is paid at the new, higher rate. However, if the Upkeep score should drop, there is no refund.
 
-### **Safety**
+### Safety
 
 The higher the Safety, the lower the risk of lab accidents, and vice versa. The Safety score is subtracted from the number of botch dice on all lab activities. (Thus, a negative Safety results in *more* botch dice.) Labs with a zero or better Safety are fairly trustworthy places — there is only a significant danger of an accident with certain categories of lab activities (those requiring a stress roll, such as when using experimentation, or when studying from vis). Labs with a negative Safety, however, are deemed unsafe. With an unsafe lab, there is always the risk of an accident, no matter what type of lab work is undertaken. While some magi are prepared to accept the risk of a slightly negative Safety, such as –1 or –2, only reckless magi are prepared to work repeatedly in a highly unsafe lab.
 
@@ -6139,19 +6139,19 @@ For each season of work in an unsafe lab, roll a simple die. (This extra roll is
 
 For example, Helvius spends a season to invent a spell (something that would normally be safe, and not require a roll) in his laboratory, which has a Safety of –2. Helvius's player rolls a simple die, getting a one, which is less than or equal to two, so there is a chance of suffering a lab botch. He then rolls for botch with two botch dice (the base number of none for this activity, plus two for the Safety score). One of the dice comes up zero, for a lab accident. Helvius' player groans at his misfortune and makes a roll on the Disaster chart. He rolls a five; with Helvius' Perception of 0, and the risk modifier of +2, the result is 7, indicating a threat to the entire covenant! The storyguide decides it is time for the dragon who slumbers beneath his lab to begin stirring.
 
-### **Warping**
+### Warping
 
 A laboratory with a zero Warping score produces consistent and predictable results (at least, it does if it isn't unsafe and the magus using it doesn't engage in experimentation). A lab with a positive Warping score, however, sometimes yields altered or unintended results. For each season of lab work, roll a simple die. If the result is less than or equal to the Warping score, then the product of that season's work (be it an item, spell, or something else) suffers Warping. Warping on lab work is not the same as for characters; instead refer to the Experimentation: Extraordinary Results chart (see ArM5, page 109). If the outcome of the simple die was odd, roll once for a side effect. If the outcome was even, roll once for a modified effect. The specifics of the effect should be chosen by the storyguide as appropriate for the cause(s) of the Warping. For example, an item enchanted in an invisible lab might be found to be invisible itself, once it is finished and removed from the lab.
 
 A lab with a positive Warping score should also be assigned one or more Personality Traits, with a total score or scores equal to the Warping score. For example, a lab with a Warping score of +1, due to faerie ingredients, might gain the Personality Trait Whimsical +1. These Personality Traits tend to color the experience of the lab's owner and any other residents or guests, and are suggestive of suitable Warping effects, both for Warping on lab work, and on any character Warping suffered by the inhabitant(s). At the storyguide's discretion, a Personality Trait may be added to a Lab Total for an effect that matches it closely, or subtracted from a Lab Total for an opposite effect.
 
-### **Health**
+### Health
 
 The environment of a laboratory might be either beneficial or detrimental to the health of its owner. A lab with a positive Health score might be especially snug, comfortable, or clean, whereas a lab with a negative Health might be drafty, awkward to get around, or bear a foul stench. The Health score adds to any Wound Recovery rolls for inhabitants of the lab. Also, half of the Health score (rounded down) adds to the Living Conditions modifier (used for Aging rolls) for inhabitants, provided that they spend at least half of the year there. In this way, the Living Conditions modifier of a lab (or sanctum) might differ from that of the covenant as a whole.
 
 For example, the lab of Igor Rastvan has a Health of +2, giving +1 to the Living Conditions modifier. His covenant of Roznov has a base Living Conditions modifier of +2 for magi, therefore, his total Living Conditions modifier is +3.
 
-### **Aesthetics**
+### Aesthetics
 
 Aesthetics is a measure of the impressiveness, splendor, and luxury of the laboratory. While this is mostly a question of personal comfort and preferences, the aesthetic quality of a lab may affect the prestige enjoyed by its owner, influencing her standing amongst her peers. The Aesthetics score suggests the typical impression the lab makes on visitors, and whether or not it is favorable. For every point of Aesthetics, either positive or negative, the owner gains five experience points in an appropriate Reputation. These points might not all be gained immediately, especially if few people visit the laboratory. Sooner or later, however, rumors will spread , even if they are based mostly on speculation, especially among the covenfolk.
 
@@ -6249,7 +6249,7 @@ Just as for characters, Virtues for labs reflect some kind of merit, improvement
 
 Most laboratory Virtues and Flaws can only be taken once — those few that can be taken multiple times are marked with asterisks in the list below. Two of these Virtues in particular, Feature and Magic Item, come in a multitude of types and are described in more detail later. The storyguide may always adjust the benefits of particular Virtues and Flaws as she sees fit, and is encouraged to devise new ones in consultation with the players.
 
-### **Virtues**
+### Virtues
 
 A laboratory has free space for one or more new Virtues if its current points of Virtues minus points of Flaws is less than the Size + Refinement, and thus the occupied Size is less than the overall Size statistic. If there are sufficient points of free space, a Virtue can be taken without a corresponding Flaw. Otherwise, one or more Flaws must be taken simultaneously to balance it. A magus who wishes to install a Virtue (Minor or Major) into a standard laboratory thus has four choices: either first spend a season to increase the Refinement to +1 (requiring a Magic Theory of 4), accept a Flaw to balance the Virtue, somehow increase the physical space of the existing lab, or move into a bigger lab. Free Virtues have no point cost and are thus not restricted in this way.
 
@@ -6257,7 +6257,7 @@ Virtues are not simply chosen and gained automatically — there may be a cost i
 
 Sometimes, a magus might wish to remove Virtues. This is not always possible, since some Virtues are due to fundamental properties of the lab (such as its physical location) that can not readily be changed. Where it is possible, a Minor or Major Virtue can only be removed during a season or more of work to improve the laboratory (either by increasing the Refinement, or installing a different Virtue). For example, a magus can remove an existing Lesser Feature and replace it with a new one, in one season. Where it is possible to remove a Free Virtue, it can usually be done in a day or so.
 
-### **Flaws**
+### Flaws
 
 Flaws may be chosen, arise due to general neglect, or be selected to free up points of space to balance a new Virtue. There is no limit on their number and they take effect immediately. In the event of a lack of funds, you may also be forced to take a Flaw resulting in a lower Upkeep (see the Upkeep section, above).
 
@@ -6267,13 +6267,13 @@ Just as for Virtues, some Flaws can later be removed, whereas others are due to 
 
 These Virtues and Flaws are due to the physical structure and basic arrangement of the laboratory, and its location. Gaining or losing them usually entails some kind of construction project on or within the lab, or on the immediate surroundings.
 
-### **Major Structure Virtues**
+### Major Structure Virtues
 
 **Greater Feature\***: The lab prominently features a unique and extensive structure that aids certain types of lab work — see the list of possible Features below. *+2 Aesthetics; 3 points on appropriate Specialization(s).*
 
 **Natural Environment**: A swathe of natural scenery, such as forest, desert, or a river, is located in the lab, or the lab is built in or around it. *+2 Aesthetics; 3 points among Specializations in Cr, An, Aq, Au, He, Ig, or Te, depending upon terrain type.*
 
-### **Minor Structure Virtues**
+### Minor Structure Virtues
 
 **Auspicious Shape**: The lab or its building is formed into a magically beneficial shape, such as a hexagon or pentagram. A circle or square does not count. *+1 Aesthetics; +1 Vi.*
 
@@ -6307,7 +6307,7 @@ Features below. *+1 Aesthetics; 1 point on an appropriate Specialization.*
 
 **Well Insulated**: The lab is especially well shielded from the outside world, due to an extra partition wall or a layer of thick curtains, perhaps. Little noise or disturbance emerges from within, making it suitable for a sensitive location such as a city. *+1 Safety, +1 Aesthetics.*
 
-### **Free Structure Virtues**
+### Free Structure Virtues
 
 **Dedicated Building**: The lab (and probably the living quarters of the owner) is in its own building, shared with no one else. There are likely to be fewer distractions. *+1 Upkeep, +1 Aesthetics; +1 Re.*
 
@@ -6327,7 +6327,7 @@ Features below. *+1 Aesthetics; 1 point on an appropriate Specialization.*
 
 **Studio**: An ornate room just outside the lab proper is set aside for the sole purpose of displaying and showing off the owner's most prized possessions to guests. Verditius magi commonly build studios in order to display the items they have crafted to potential customers (see *Houses of Hermes: Mystery Cults*). The studio takes up more of the sanctum space, but not usually of the laboratory chamber itself. *+1 to +3 Aesthetics, depending on the number and magnificence of items displayed.*
 
-### **Free Structure Flaws**
+### Free Structure Flaws
 
 **Deformed**: Part of the structure has subsided or is otherwise warped. For example, one wall has partially collapsed into rubble, and has to be propped up. *–1 Safety, –1 Aesthetics; +1 Mu or Pe.*
 
@@ -6357,7 +6357,7 @@ less than eight feet, or thrice if the magus has to stoop (in which case also ta
 
 **Vulnerable**: The lab is lacking even basic defenses, and is easily broken or stumbled into. For example, it is on the ground floor and has no door. *–1 Aesthetics.*
 
-### **Minor Structure Flaws**
+### Minor Structure Flaws
 
 **Awkward Shape**: The lab's chamber is a difficult shape, for example, it is long and thin, or is partitioned in two. *–2 Safety, –1 Aesthetics.*
 
@@ -6374,7 +6374,7 @@ less than eight feet, or thrice if the magus has to stoop (in which case also ta
 **Poorly Insulated**: The lab is poorly shielded from the outside world, perhaps due to thin walls or ceilings. It is easy to hear what is going on inside, and noise from the lab is likely to be a nuisance to nearby people or adjacent floors. *–1 Safety, –1 Aesthetics.*
 
 
-### **Major Structure Flaws**
+### Major Structure Flaws
 
 **Greater Focus**: An existing Greater Feature is the overwhelming focus of the lab, enhancing the Feature, but making activities that do not involve its use more difficult. *–2 General Quality; 4 points among Specializations provided by the Feature.*
 
@@ -6384,13 +6384,13 @@ less than eight feet, or thrice if the magus has to stoop (in which case also ta
 
 These Virtues and Flaws are due to the quality and quantity of the mundane materials and equipment that are in the lab, as well as any other inhabitants of the lab. Gaining or losing these Virtues and Flaws thus usually entails the purchase or acquisition of things to put in the lab, or the lack of (or defects in) such things.
 
-### **Major Outfittings Virtues**
+### Major Outfittings Virtues
 
 **Greater Expansion**: The extent of the lab is greatly increased, with at least double the usual amount of equipment. This allows it to have more areas and equipment dedicated to specialized tasks. *+2 General Quality, +4 Upkeep, +1 Aesthetics; 2 points on any Specialization(s).*
 
 **Palatial**: The lab is lavishly and magnificently outfitted, with the very best of comforts and decoration. *+1 General Quality, +3 Upkeep, +2 Health, +4 Aesthetics; +2 Teaching, 1 point on any other Specialization.*
 
-### **Minor Outfittings Virtues**
+### Minor Outfittings Virtues
 
 **Excessive Heating**: The lab is kept far more warm than is necessary, and has the necessary facilities for it. For example, it has a half-dozen fireplaces. *+2 Upkeep, –1 Safety; +2 Ig.*
 
@@ -6417,7 +6417,7 @@ These Virtues and Flaws are due to the quality and quantity of the mundane mater
 
 **Superior Lighting**: The lab is very well lit, so that things are easy to find, and books are easy to read, without eye-strain. *+1 Upkeep, +1 Aesthetics; +1 Texts, +1 Im.*
 
-### **Free Outfittings Virtues**
+### Free Outfittings Virtues
 
 **Assistant\***: A Gifted assistant (such as an Hermetic apprentice) helps out in the lab, affording a bonus to lab work. *+(assistant's Intelligence + Magic Theory) General Quality. (This is simply a restatement of the existing bonus given in ArM5, page 103.)*
 
@@ -6439,7 +6439,7 @@ These Virtues and Flaws are due to the quality and quantity of the mundane mater
 
 **Superior Tools**: The lab's tools were produced by master craftsmen. If the tools were made at the covenant, the craftsman should have a Craft Ability of 6 or more, but do not increase Upkeep. *+1 Upkeep, +1 Safety; +1 Items.*
 
-### **Free Outfittings Flaws**
+### Free Outfittings Flaws
 
 **Basic**: The lab setup is incomplete, and not all the necessary equipment has been installed. This Flaw is acquired after the first season of lab construction (see The Standard Hermetic Laboratory, above). It is removed after the second season of work completes the lab. *–3 General Quality.*
 
@@ -6473,7 +6473,7 @@ These Virtues and Flaws are due to the quality and quantity of the mundane mater
 
 **Wrecked**: The lab is very heavily damaged, for example as the result of a major lab accident. It takes two seasons to repair the damage completely and eliminate this Flaw. (After one season, it may be replaced by the Damaged Flaw.) *–5 General Quality, –2 Safety, –2 Aesthetics.*
 
-### **Minor Outfittings Flaws**
+### Minor Outfittings Flaws
 
 **Defective Heating**: The lab has an inadequate or missing heating mechanism, and is rather too cold for comfort in the winter months. *–1 General Quality, –1 Upkeep, –1 Health, –1 Aesthetics.*
 
@@ -6483,7 +6483,7 @@ These Virtues and Flaws are due to the quality and quantity of the mundane mater
 
 **Undecorated**: The lab has very spartan decoration, or the decoration is completely lacking, making the place rather uninspiring and unwelcoming. *–1 Upkeep, –1 Aesthetics; subtract one point from any Specializations with a score of 2 or more.*
 
-### **Major Outfittings Flaws**
+### Major Outfittings Flaws
 
 **Elementary**: This is a cut-down version of a Hermetic laboratory, with an extremely limited selection of lab equipment installed, so that only one category of lab activity (see the list of possible activity Specializations above) is possible at all. The type of activity is determined at the time of construction, and is fixed thereafter. Still, such a limited lab is cheaper to maintain and takes only one season to build completely. It might be suitable for an extremely confined space, such as in a small cave, or in a wagon. Some covenants build elementary labs in powerful auras for the purposes of vis extraction. *–2 General Quality, –3 Upkeep.*
 
@@ -6498,13 +6498,13 @@ These Virtues and Flaws are due to supernatural effects, creatures, or items. Th
 
 Sometimes a maga finds herself in the situation of moving into a lab that was previously owned or used by someone else. If such a lab has a Refinement score of zero or less, or if the lab has a positive Refinement but was designed for transient use (as the spare labs at Durenmar are, for example), then the new owner may simply move in and begin work straight away. In this case, there is no need to change the lab's statistics. If a lab is unique and has a positive Refinement score, however, then the new owner will find it unfamiliar and must undertake a season of rearrangement (and possibly exploration) before it can be used. This counts as a season spent to increase the Refinement, with a chance to gain the Highly Organized and Spotless Virtues or the Hidden Defect Flaw (as detailed above), except that the resulting Refinement score of the lab is equal to its old Refinement, or the new owner's Magic Theory – 3, whichever is lower. If the new Refinement score is lower, the lab may now have more points of Virtues minus points of Flaws than is permitted. In this case, one or more Virtues are lost — the lab was sufficiently advanced or exotic that the new owner was unable to incorporate all of its improvements into her method. Finally, the storyguide should secretly make a Perception + Magic Theory roll against an Ease Factor of three times the lab's original Refinement for the maga. If the roll fails, the Predecessor Flaw is gained, as the lab retains some foibles of the previous owner. If the roll botches, the Hidden Defect Flaw is gained in addition.
 
-### **Major Supernatural Virtues**
+### Major Supernatural Virtues
 
 **Greater Guardian**: A powerful supernatural creature (Might 20 or higher), which is not the familiar of the owner, resides in the lab and acts as its protector, being well-disposed to the owner. Woe betide any who should intrude. *+(creature's Intelligence) Safety, +1 Warping, +1 Aesthetics; 3 points on appropriate Art specialization(s).*
 
 **Greater Horde**: A large community of resident minor supernatural creatures are at the owner's command. They are intelligent enough to serve a protective function and assist with simple lab tasks. *+2 General Quality, +1 Upkeep, +(creature's Intelligence) Safety, +2 Aesthetics; 2 points on Rego or other appropriate Art specialization(s).*
 
-### **Minor Supernatural Virtues**
+### Minor Supernatural Virtues
 
 **Familiar**: The owner of the lab has a familiar, and the familiar lives in the lab. Perhaps it even helps with lab work. This Virtue assumes that the familiar takes up a non-trivial amount of space. If not, this can be instead taken as a Free Virtue. *+(familiar's Intelligence + Magic Theory) General Quality, +(Golden Cord) Safety. (This is simply a restatement of the existing bonuses given in the Laboratory chapter of ArM5.)*
 
@@ -6516,7 +6516,7 @@ Sometimes a maga finds herself in the situation of moving into a lab that was pr
 
 **Vis Source\***: A naturally occurring source of vis is located in the lab. *–1 Safety, +1 Warping; 2 points on the appropriate Art Specialization.*
 
-### **Free Supernatural Virtues**
+### Free Supernatural Virtues
 
 **Airborne**: The lab flies upon the winds or clouds, and rarely lands. Needless to say, only very powerful magics are able to permanently levitate an entire building, or erect a lab upon a cloud. This Virtue is often combined with the Unstable Flaw, since flying is a tricky business. *+1 Upkeep, –2 Safety, +2 Warping, +1 Health, +4 Aesthetics; +1 Experimentation, +4 Au.*
 
@@ -6566,7 +6566,7 @@ Heating (but without the space and Upkeep cost).
 
 **Site of Legend**: Stories are told about this lab, and legends are associated with it. *Any adjustments to Characteristics and Specializations as appropriate.*
 
-### **Minor Supernatural Flaws**
+### Minor Supernatural Flaws
 
 **Abyss**: The lab contains some kind of magical void, such as a bottomless well. This may be made into a Void Feature (purchased as usual). *–2 Safety; +2 Pe.*
 
@@ -6606,7 +6606,7 @@ Relocating a lab to a new room (possibly in a different covenant altogether) is 
 
 **Underwater**: The lab is filled with water, instead of air, presenting certain logistical difficulties with breathing and moving promptly and precisely from one point to another. Some categories of lab work (for example, working with texts, Auram, or Ignem) may be impossible. *+2 Safety, +1 Warping, –2 Aesthetics; +1 Experimentation, +4 Aq.*
 
-### **Minor Supernatural Flaws**
+### Minor Supernatural Flaws
 
 **Lesser Illusion\***: One of the apparent merits of the lab is but an illusion. Take one Minor Virtue immediately (there is no time cost) to balance this Flaw, but note that it is illusory and its effects are negated completely. For example, the lab may appear to be hung with fine tapestries which do not really exist. In this case, take the Superior Decoration Virtue, but
 
@@ -6617,7 +6617,7 @@ do not apply its modifications to the lab's statistics. *+1 Warping, +1 Aestheti
 
 **Living**: The lab's structure is in some way alive. For example, it is inside a faerie tree, or in the belly of a slumbering beast. *–2 Safety, +2 Warping; 3 points on appropriate Art Specialization(s).*
 
-### **Major Supernatural Flaws**
+### Major Supernatural Flaws
 
 **Greater Illusion\***: One of the major parts or aspects of the lab is but an illusion. Take one Major Virtue immediately (there is no time cost) to balance this Flaw, but note that it is illusory and its effects are negated completely. For example, the lab may appear to be twice as large as it really is. In this case, take the Greater Expansion Virtue, but do not apply its modifications to the lab's statistics. *+2 Warping, +2 Aesthetics; +2 Im.*
 
@@ -6717,15 +6717,15 @@ Specific effects for each item should be created normally according to the Labor
 
 This item is a wooden lectern with enough space on its top for a Lab Text, as well as an inkhorn, a small knife, and several quills. The stand moves around to follow the magus so that he is never far from his Lab Text. He only need turn to consult his text or make further notes. The Bookstand adds two points to a Specialization in Texts. ReHe 15 (Base 10, +1 Conc), item maintains concentration (final level 20)
 
-### **The Crown of Hermes**
+### The Crown of Hermes
 
 The powerful creator of this artifact, an elaborate, jewel-encrusted golden crown, has been lost to living memory. Although invested with other effects, such as *Aura of Rightful Authority*, the crown's most powerful property is that it enables its wearer to enter a kind of trance and thus create an imaginary laboratory in his mind. With seasons of meditation whilst wearing the crown, the wearer can undertake some kinds of lab work (or even lab improvement). When the crown is removed and later put back on, the wearer recalls his imaginary lab in the last state that he left it. Wearing the crown for the first time will inflict one Warping point, since it is a powerful mystical effect. Every year of use will also inflict a Warping point, due to being continuously under the influence of the effect. The imaginary lab may be treated as a standard one, except that it has the Mental Construct Flaw (see above). Cr(In, Mu, Re)Me 50 (Base 35, +1 Touch, +2 Sun)
 
-#### **The Prodigious Plant Pot**
+#### The Prodigious Plant Pot
 
 This object is a large and sturdy clay pot. If filled with loam, a seed or seedling placed in it grows rapidly into a mature plant over the course of a full day. The Plant Pot adds +1 to a lab's Experimentation Specialization and +2 to its Herbam Specialization. CrHe 30 (Base 15, +1 Touch, +2 Sun)
 
-### **The Tireless Servant**
+### The Tireless Servant
 
 This is an automaton of sorts, a skeleton which has been animated and may be controlled quite precisely with a limited set of verbal commands. It can be instructed to hold or fetch objects, and perform simple operations, such as lifting and stirring, independently. The Tireless Servant adds +1 to a lab's General Quality, and +1 to its Safety. ReCo 25 (Base 10, +1 Conc, +2 complexity), item maintains concentration, unlimited uses per day (final level 40)
 
@@ -6739,7 +6739,7 @@ Second, if the effect does not resemble a Laboratory Virtue or Flaw, then the fi
 
 Characteristic by one point (20 levels) and one Specialization by three points (30 levels). Also, items or enchantments with powerful effects, influencing the whole of the lab, may (unintentionally) increase the Warping Characteristic, at the discretion of the storyguide.
 
-### **Common Laboratory Items**
+### Common Laboratory Items
 
 A number of common magic items for the lab take on the role of mundane equipment, and do a better job of it. Items that provide light may negate the need for candles and lanterns, and grant the Magical Lighting Virtue. Items that provide heat may negate the need for fireplaces and fuel, and grant the Magical Heating Virtue. A set of magically enchanted tools may grant the Superior Tools Virtue. Containers with magical effects to purify mixtures may add to the General Quality, or give a Specialization in Vis Extraction. Magical decorations, such as tapestries or paintings that show moving pictures, may add to Aesthetics, or give a Specialization in Imaginem. A levi-
 
@@ -6757,7 +6757,7 @@ This spell is designed for a magus to cast upon himself at the start of a day's 
 
 (Base 10, +2 Sun)
 
-### **The Laboratory of Bonisagus**
+### The Laboratory of Bonisagus
 
 Creo Terram 45
 
@@ -6775,7 +6775,7 @@ Specializations: Items 2, Vis Extraction 2, Creo 1
 
 (Base 5, +1 Touch, +2 Group, +5 complexity)
 
-### **Gleam of the Freshly-Polished Glass**
+### Gleam of the Freshly-Polished Glass
 
 Perdo Terram 25
 
@@ -6785,7 +6785,7 @@ This spell maintains the equipment and tools of a lab in a constant state of imm
 
 (Base 3, +1 Touch, +3 Moon, +2 Room)
 
-### **The Ambulatory Laboratory**
+### The Ambulatory Laboratory
 
 Rego Terram 30 R: Touch, D: Mom, T: Room
 
@@ -6821,7 +6821,7 @@ ily granting the Specimens Virtue) to add one to the Imaginem Specialization, if
 
 A number of example Hermetic laboratories are listed below, illustrating how the rules in this chapter may be used to construct unique and widely varied labs. In the list of Virtues and Flaws for each lab, those with the same cost are separated by commas, whereas different cost categories are separated by semicolons, thusly: Major Virtues; Minor Virtues; Free Virtues; Free Flaws; Minor Flaws; Major Flaws. It should also be noted that for some labs with a large number of Virtues and Flaws, points are granted on more than the allowed number of Specializations, therefore some Specializations are dropped.
 
-### **Carolus Furax**
+### Carolus Furax
 
 The sanctum of Carolus Furax of House Tytalus, one of the junior magi at the covenant of Semita Errabunda, is a rather rickety-looking wooden house. Carolus in fact prefers it to look rundown, to avoid unwanted attention to those stolen items he has carefully hidden away inside. Carolus has not invested any time into improving his lab, thus it differs only slightly from a standard laboratory.
 
@@ -6829,7 +6829,7 @@ The sanctum of Carolus Furax of House Tytalus, one of the junior magi at the cov
 
 **Characteristics**: Size 0, Refinement 0, General Quality –1, Upkeep 0, Safety –1, Warping 0, Health 0, Aesthetics 0 **Specializations**: Perdo 2, Rego 1
 
-### **Darius**
+### Darius
 
 Darius, follower of Flambeau, the senior magus of the covenant of Semita Errabunda, has erected his laboratory in the sizable basement underneath his unobtrusive house, which he has gradually expanded over the years. This oppressive room is totally lightless, still, and silent (although Darius can navigate it without difficulty). There is a stale smell in the air. This is a place of dread and rumor for the other inhabitants of Semita Errabunda, for no one but Darius knows what it contains, although many have speculated.
 
@@ -6841,7 +6841,7 @@ Darius, follower of Flambeau, the senior magus of the covenant of Semita Errabun
 
 **Personality Traits**: Dread +1
 
-### **Ierimyra**
+### Ierimyra
 
 The laboratory of Ierimyra at the former covenant of Calebais was ruined some time ago and has been abandoned for many years, although it is still haunted by her ghost. The square stone room is a little unstable, with cracks in the walls and floor, and it is strewn with the wreckage of lab equipment. The remains of a collection of animals rot in rusty iron cages along one wall. In warrens nearby live a number of hrools, intelligent ferret-like creatures, who still protect the lab. Needless to say, this lab would need some significant repairs before being safe to work in.
 
@@ -6853,7 +6853,7 @@ The laboratory of Ierimyra at the former covenant of Calebais was ruined some ti
 
 **Personality Traits**: Haunting Presence +2
 
-### **The Tower of Bonisagus**
+### The Tower of Bonisagus
 
 These four labs, two each in the fourth and fifth floors of the Tower of Bonisagus (more commonly known as the Great Library) at the famed covenant of Durenmar, are designed for visitors to the library to invent spells with the aid of its Lab Texts. Each lab is rather small, being only 350 square feet, and a large magical vine winds inside the tower and smothers the interior walls. The tower is enchanted to prevent all forms of natural decay to the books inside.
 
@@ -6863,7 +6863,7 @@ These four labs, two each in the fourth and fifth floors of the Tower of Bonisag
 
 **Specializations**: Texts 2, Vis Extraction 1, Intellego 3, Auram 1, Herbam 1, Imaginem 1
 
-### **Ricardus Caespuus**
+### Ricardus Caespuus
 
 The laboratory of Ricardus Caespuus of House Bonisagus at the covenant of Durenmar is a large glass house located in a scenic and secluded spot. This elaborate building is crammed full of plants, which Ricardus cultivates as a unique method of vis extraction which he has developed. The lab is also home to the Prodigious Plant Pot (see above), which he made.
 
@@ -6873,7 +6873,7 @@ The laboratory of Ricardus Caespuus of House Bonisagus at the covenant of Durenm
 
 **Specializations**: Experimentation 2, Vis Extraction 1, Rego 1, Herbam 8
 
-### **Igor Rastvan**
+### Igor Rastvan
 
 Igor Rastvan, an archmagus of House Ex Miscellanea and ruler of the Rhine covenant of Roznov, is famed (amongst other things) for his magnificent laboratory, one of the best in the Order of Hermes. It is housed in a great hall occupying one entire end of Roznov Castle, up the side of Mount Radhost. Its high vaulted ceiling is hung with tapestries, and it is maintained with thousands of candles and multiple fireplaces. One end of the lab, its focus, consists of a great altar to the god Radegast. The building costs a small fortune to maintain.
 
@@ -6892,7 +6892,7 @@ Safety +1, Warping +1, Health +2, Aesthetics +15
 
 **Personality Traits**: Domineering +1
 
-### **The Sphinx**
+### The Sphinx
 
 This laboratory has been erected by magi from a covenant near the Pyramids in Egypt, out in the open desert near the great Sphinx, in an effort to study that legendary monument. The lab has no building as such; the equipment is merely arranged on a number of tables in the open air, with a few tents and windbreaks to protect against the worst of the blowing sands. The quality and comfort of the lab both suffer due to this exposure, but it gains the benefit of a strong aura and a number of Specializations due to its mystical location.
 
@@ -6904,7 +6904,7 @@ This laboratory has been erected by magi from a covenant near the Pyramids in Eg
 
 **Personality Traits**: Enigmatic +2
 
-### **Helvius Pertinax**
+### Helvius Pertinax
 
 Helvius Pertinax of House Tremere, a rather paranoid magus specializing in ice magics, resides in a spacious underground cavern by an underground lake. The lake water is prone to rising unpredictably, which is due (unbeknownst to Helvius) to the fact that a dragon makes its lair some distance underneath the cave. Helvius has yet to fill the cave out to its maximum extent; there is space for four more points of Virtues. He currently uses spells to provide light to the cave (this adds one to the lab's Warping, but does not add to its Specializations). Unfortunately, the cave is not the healthiest (or safest) of environments, but that does not deter Helvius.
 
@@ -6916,7 +6916,7 @@ Helvius Pertinax of House Tremere, a rather paranoid magus specializing in ice m
 
 **Personality Traits**: Eerie Light +1, Uncomfortable Silence +1
 
-### **Lutisse**
+### Lutisse
 
 Lutisse of House Ex Miscellanea resides in a crude treehouse at the edge of a faerie forest. The dwelling is shrouded by a faerie glamour and protected by a poisonous faerie spider that Lutisse has befriended, but is also infested by its cobwebs. Lutisse is very slight (Size –1) and the Characteristics are therefore listed without any penalty for the Diminutive Flaw.
 

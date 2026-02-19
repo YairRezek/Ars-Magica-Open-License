@@ -70,7 +70,7 @@ Level 7 of the regio is changes its appearance from time to time. It always look
 
 The regio has never been known to connect to a point outside Mythic Europe, but it has connected to many different places within. It normally seems to stay connected to one place for about a month; the shortest recorded connection was a week, and the longest almost a season. There seems to be no pattern to its wandering.
 
-#### **COVENANT STATISTICS**
+#### COVENANT STATISTICS
 
 **Aura:** Magic 5
 
@@ -1125,7 +1125,7 @@ Makes the target's body supple and stretchy for Sun duration, providing a +3 bon
 
 (Base 2, Touch +1, Sun +2, free requisite)
 
-#### **STICKINESS OF THE LIZARD'S TOES**
+#### STICKINESS OF THE LIZARD'S TOES
 
 MuCo(An) 5
 
@@ -1357,7 +1357,7 @@ that an unaided victim will die soon after incapacitation.
 
 Touch of Shattering - PeTe 5: ("Fist of Shattering", reduced to Touch range). The appropriate Form for the target is a casting requisite.
 
-#### **OBLITERATION OF THE TRAVELER'S BARRIER**
+#### OBLITERATION OF THE TRAVELER'S BARRIER
 
 PeTe(He) 20
 
@@ -1367,7 +1367,7 @@ Using the Faerie "Road" range carries the spell beyond the range of the caster's
 
 (Base 5, +2 Road, +1 size) (cf Obliteration of the Metallic Barrier)
 
-#### **GRASP THE DISTANT SLINGSTONE**
+#### GRASP THE DISTANT SLINGSTONE
 
 ReTe 10
 
@@ -1628,7 +1628,7 @@ In play, the curse manifests itself as the opposite of the Minor General Virtue:
 
 \*\*Cats have excellent night vision.
 
-#### **Powers:**
+#### Powers:
 
 *Everywhere at Once*, 0 points, Init: Qik-1, Animal
 
@@ -1683,7 +1683,7 @@ He enjoys patrolling and specializes in hunting down vermin but he feels his pri
 
 While not afraid of the magi, he does not find them congenial company so tends to keep out of their way. Where the covenfolk are concerned, he seems to be able to predict what they are going to do, since they often find him in the way, underfoot, in the basket, on the table, or where-ever else is inconvenient. Of course, from Virgil's point of view, he is just keeping a very close eye on them. It is as well for him that he remains popular with many, and tolerated by almost all the rest.
 
-#### **Notes**
+#### Notes
 
 - 1. The Magical Animal Virtue include the No Hands Flaw and also Mute; that is, the character cannot use human speech but is able to communicate like any other animal of its species.
 - 2. Virgil is a Summer Season character and thus has 360 experience points to spend.

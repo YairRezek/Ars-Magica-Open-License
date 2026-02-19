@@ -21,7 +21,7 @@ Menges, Christian N. St. Pierre
 
 **Second Round Playtesters:** Donna Giltrap, Malcolm Harbrow, Aaron Hicks, Richard Love; Helge Rager Furuseth, Ola Hulbak, Karl Trygve Kalleberg, André Neergaard; Pelle Kofod, Christian Rosenkjaer Andersen; Dan Ilut, John Illingworth, Robert Brown Llwyd, August Ryan, Matt Ryan
 
-#### **Author Biographies**
+#### Author Biographies
 
 **Timothy Ferguson** is a librarian who lives in Gold Coast, Australia. He'd like to dedicate this book to his wife and children. He would also like to thank the other authors for stepping in and finishing the book during a period of personal crisis. Finally, he'd like to recommend Egyptology: The Missing Millennium by Okasha El Daly, which was of great assistance in his sections.
 
@@ -472,17 +472,17 @@ Ancient religious practices focused on another aspect of endlessness: immortalit
 
 This book reflects 13th century Egyptian folklore, and deliberately includes some features that contradict modern knowledge of ancient Egypt.
 
-#### **Legible Scripts**
+#### Legible Scripts
 
 The most learned of Copts can read hieroglyphics, because hieroglyphics are just another way of writing an ancient form of the Coptic language called Demotic. In the real world, this is partially true: some later hieroglyphic inscriptions are in a Coptic language. In period it was believed that the oldest and wisest Copts could freely translate the writings of the ancients. This makes some of them great healers, oracles, and magicians since they can read the spells encoded by ancient priests, while others can read the language but pursue the will of the Divine instead.
 
 Key hieroglyphs denoting warnings and curses are taught at the Seekers' Guild (see Chapter 4: Tombs) by rote rather than as a language, and the gist of a text can be understood with an Intelligence + Profession: Seeker stress roll against an Ease Factor related to the age and complexity of the text (common curses are Ease Factor 6, typical texts are Ease Factor 9). A botch indicates a tragic misunderstanding of the content.
 
-#### **Tomb Traps**
+#### Tomb Traps
 
 Hundreds of books were written for medieval, Egyptian treasure hunters. Books that described realistic tombs were not as popular as those that claimed to provide the secret methods of disarming intricate traps and pacifying guardian spirits. The more exaggerated a book's claims, the more comprehensive it was seen to be, and so the more popular it was. In the setting, tombs are filled with bizarre traps, strange creatures and logic puzzles, because people in the thirteenth century believed they were. It was a way of explaining why the omnipresent treasures had not been taken already.
 
-# **Ancient Egyptian Magic Was Relatively Weak**
+# Ancient Egyptian Magic Was Relatively Weak
 
 Hermetic magic is far more offensively powerful than the Biblical account of Egyptian magic. There are a handful of magicians who were stronger than the Pharaonic magicians described in the Bible, but they were not tomb builders. The priest-magicians excelled at healing magic and commanding spirits.
 
@@ -559,7 +559,7 @@ The following languages are spoken in this region. **Most characters should take
 
 **Amharic (Agaw, Amhara, Tigray) Arabic (Masri, Khaliji, Maghrebi) Beja (no dialects) Coptic (Boharic, Sahidic) Nubian (Alwa, Dongolawi, Kenzi, Mahasi) Oromigna Romaic Greek (Nubian) Tamazight (Siwi) Tigrinya (Dahlak) Various tribal tongues of the Mythic Aithiopians**
 
-#### **Languages of Egypt**
+#### Languages of Egypt
 
 Arabic is the principle tongue of Egypt, in the local dialect of Masri, or Egyptian Arabic. The Maghrebi dialect is used by travelers from North Africa, and the Khaliji dialect is used in the Arabian Peninsula. Arabic has its own script which is shared between all dialects.
 
@@ -600,13 +600,13 @@ Familiarity with Masri Arabic is common in Nobatia, which trades extensively wit
 
 Religious documents are mostly written Nubian Greek, a dialect considered barbaric by most native Greek speakers. The indigenous clergy use Greek for the liturgy as well, although the numerous Egyptian clergymen and monks use the Sahidic dialect of Coptic.
 
-#### **Languages of Ethiopia**
+#### Languages of Ethiopia
 
 The three highland kingdoms of Ethiopia speak Amharic, descended from the language of the Ge'ez with a Semitic base. Agaw, Amhara, and Tigray are the dialects of the Agaw and Shewa, Bet Amhara, and parts of Medri Bahri along the escarpment, respectively. Tigrinya is spoken by the lowlands people of Medri Bahri, with a distinct dialect in the Dahlak Archipelago. The Oromigna language is a Nubian-derived language also used in the southern sultanates of Ethiopia and the pagan tribes toward the Torrid Zone. Amharic, Tigrinya, and Oromigna are all written using the Ge'ez script (see later).
 
 Khaliji Arabic (the dialect spoken in Arabia) is spoken by merchants in Medri Bahri, who trade extensively in the Red Sea, Yemen, and throughout the southern sultanates of Adal, Ifat, Hadiya, and Dewaro. It uses the standard Arabic script.
 
-#### **Other Languages**
+#### Other Languages
 
 Beja, spoken by the Blemmyae, is the only extant descendent of Meroitic (see later). The Blemmyae have no written form of their language, and therefore cannot translate the script on Kushitic monuments.
 
@@ -623,7 +623,7 @@ The slaves captured from the southern regions of Nubia speak a number of differe
 | Demotic and Coptic                    | –2 |
 | any two Aithiopean languages          | –2 |
 
-#### **Dead Languages**
+#### Dead Languages
 
 **Ancient Egyptian Demotic Meroitic Ge'ez**
 
@@ -684,7 +684,7 @@ Egypt is a center of travel and trade. This chapter assists players in designing
 
 Of all the Muslim-ruled nations described in Ars Magica supplements, in Egypt, religion matters the least. It is still an important part of every individual's life, but the constraints on non-Muslims are laxest in this country. The Muslims of Egypt also have a less restrictive interpretation of their faith than either the communities closer to Mecca, or the west African dynasties.
 
-#### **Some Virtues of A Good Muslim**
+#### Some Virtues of A Good Muslim
 
 Islam has five key activities, referred to as Pillars, which demonstrate the submission of the worshiper to the will of Allah.
 
@@ -714,7 +714,7 @@ Egypt, but a group who claim to be Sabeans, and therefore People of the Book, ha
 
 Dhimmis are allowed to remain provided they are usefully contributing to society. Their duties and proscriptions are reflected in the Dhimmi Flaw, which is a Minor General Flaw. Characters from Europe might use Outsider instead. In Egypt, many of the prohibitions are softened by custom.
 
-#### **Dhimmis must not:**
+#### Dhimmis must not:
 
 - avoid paying the annual tax on dhimmis. A notable exception to this are the dhimmis who live in Alexandria, who by ancient agreement pay no tax beyond a small annual contribution to the poor.
 - hold offices of government. A Muslim may, however, hire a Christian to do the actual work of his office. A Muslim noble given the role of port inspector, for example, may pay a Christian to inspect cargoes and collect the money owed, on his behalf.
@@ -738,11 +738,11 @@ Dhimmis are allowed to remain provided they are usefully contributing to society
 
 Dhimmis, as people officially outside of polite society, have opportunities to make money in professions forbidden to upperclass Muslims.
 
-#### **Merchants Who Deal With Ifranj**
+#### Merchants Who Deal With Ifranj
 
 International trade is seen as slightly unsavory, and some Muslims leave it to the dhimmis, who have the language skills and lack of morals required to flourish in it. Christian and Jewish merchants form enclaves in many of the coastal cities of Egypt, but they are particularly prevalent in Alexandria, as its residents pay fewer taxes than even Muslims in Cairo. Trade to Christian Europe is common. Sicily, in particular, is a major market for African goods. Players with merchant characters may find the *City and Guild* supplement useful.
 
-#### **Moneylenders**
+#### Moneylenders
 
 Muslims are prohibited from lending each other money for interest, but are not prohibited from paying interest to those whom they owe. Christians and Jews act as usurers in Egypt. Moneylenders are thought badly of, much like in Europe, and the people paying them are seen as their victims. A slight difference to European practice is
 
@@ -757,7 +757,7 @@ Troupes may veto any use of these connections which spoils the tension and pace 
 
 that some Muslims feel that it is fine to lend money to Christians or Jews, who are basically damned anyway. This means its legal, although tawdry, for a Muslim to lend money to another Muslim provided that there is a dhimmi in the middle, soaking up the sin for the Muslims on either side.
 
-#### **Bootleggers**
+#### Bootleggers
 
 Muslims are forbidden to make, transport, drink or sell alcohol, but many drink it regularly. All Christians are meant to know a priest, and all priests require wine for their sacramental functions. Many Muslims have a Christian contact who is their supplier. Most wine is imported, but some is made in Egypt. Virtually all of it comes from Christian monasteries.
 
@@ -779,11 +779,11 @@ A noble drunkard needs a doctor of high standing to pronounce his actions due to
 
 Egyptian characters speak in a more formal way than equivalent European characters. This makes them distinctive, and can lead to enjoyable roleplaying.
 
-#### **Dignity**
+#### Dignity
 
 Maintaining the dignity of those to whom a character speaks is of great importance in Egyptian culture. Politeness requires a certain formality, even between friends and family members. If a character is unsure of the station and situation of the person to whom they are speaking, the honorific *sidi* for a man, or *lella* for a woman, can be used. It implies higher political status, greater wealth, being older, or being wiser. This politeness is only required in private or formal settings; people in the street are surprisingly rude to each other given the formality of conversation. Calling faeries or demons *sidi* is dangerous, because it accords them a commanding status.
 
-#### **Direct Requests**
+#### Direct Requests
 
 A character must meet any reasonable request made of him. To fail to do so is a disgrace both to himself, and to the person who embarrassed him by making the request. To avoid this, two methods are used. Many requests are carefully worded as opinions or suggestions. Other requests are carried as news or gossip by an intermediary. The Egyptian view of what constitutes a reasonable request is broader than the European view. Crucially it includes requests for information. A character asked about something important loses face if he cannot answer, as does whoever asked such an impertinent question.
 
@@ -791,7 +791,7 @@ A character must meet any reasonable request made of him. To fail to do so is a 
 
 Although being Gifted is not, of itself, shameful, it makes people distrust magi. This makes it easy for magi to develop negative Reputations, which are shameful.
 
-## **The Future**
+## The Future
 
 Respect to God is demonstrated by the use of the phrase "if God wills it" when speaking about intended actions. By using this phrase, the character is signaling his acceptance of his unalterable fate. Some people think that curses are more easily laid on those who boast foolishly. This is represented as a +6 bonus on Hex rolls, to destroy the circumstance discussed, by any character who envies the speaker. A character using the protective phrase nullifies this bonus.
 
@@ -810,7 +810,7 @@ The home is the center of social life. Even major religious rituals, like circum
 
 In Egypt it is considered wrong to be known a disreputable person. A person who is disreputable reflects badly on the trustworthiness of his family members. A family with a shameful member can repudiate him, to restore the family's good name. Banishment from the family is considered a terrible thing in Egyptian culture, so this is a last resort for a flagrant abuser of the family's name. Egyptians are used to the idea that people make mistakes, and then need to publicly atone for their shamefulness.
 
-#### **Reputations and Shame**
+#### Reputations and Shame
 
 If a character has a negative Local Reputation, the usual method of removing it is to deliberately do contrary things, so that a rival Reputation is formed. Once the competing Reputation equals the undesired Reputation, new experience gained in the second Reputation can instead be used to buy down the first
 
@@ -831,7 +831,7 @@ Beyond its social role, in mediating shame, the Haj also grants religious insigh
 
 Wealthy or educated characters must reinforce their place in society by commanding those with less status. Characters socialize within their own class. If your character has an education, or wealth, he must not do physical labor. The country is full of slaves, or people who can be employed for virtually nothing. To fail to employ people is to fail one's community.
 
-# **Dress Appropriately For Your Wealth**
+# Dress Appropriately For Your Wealth
 
 Male dress in Egypt is usually simple. Loose trousers meet the standards of modesty required by Islam, but to wear only trousers is a symbol of poverty or menial work, so other garments are added. A long,
 
@@ -846,7 +846,7 @@ Clothes are a useful way to express social distinction. The clothing of rich peo
 
 Strict sexual segregation gives female characters useful opportunities when gathering information or exploring the homes of non-player characters. Women often socialize at the baths or while performing chores, either in their homes or on their rooftops. They are expected to exchange useful information with each other; failure to gossip is odd, and probably rude.
 
-#### **Haram**
+#### Haram
 
 It is forbidden (Arabic: *haram*) to breach the privacy of the women of a house. Their quarters are called "haram." (The term harem, and the use of the word to refer to the people who live in the harem, occurs after 1220 and is Turkish.) The haram's residents include all of the women of the household, such as relatives, children, wives, concubines and servants. Political rivalry between the women of a household appears in many folktales.
 
@@ -907,7 +907,7 @@ has been cut off. Hippopotamuses walk backwards when breaking into fields to fea
 
 In the thirteenth century hyenas (Arabic *dhubba*) are found throughout the Levant, North Africa, Iraq, Persia, and lands beyond. These striped hyenas can be trained and tamed like dogs, even to the extent of becoming part of a dog pack if raised with hounds. Although not sacred to the ancient Egyptians, hyenas were used in hunting desert game. Some greater African specimens (Size +1) may be significantly larger than the standard sized versions detailed here and their Middle Eastern cousins (also Size –1). These fell beasts are often ridden by *jinn* or witches. The hyena is also a common animal form for *ghul* to assume.
 
-#### **Hyena of Virtue (Crocotta)**
+#### Hyena of Virtue (Crocotta)
 
 The Hyena of Virtue, known as the *crocotta* or *kynolykos* (Greek: "dog-wolf"), hails from Ethiopia and is believed to be the product of a hyena and a lion. These spotted hyenas are larger (at least Size +1), appear to shift sexes readily (as per the Sex Shift Virtue) and are comparatively much stronger and faster (Strength +4, Quickness +3, and Tough Hide Quality) than their mundane cousins. Add the Improved Characteristics Virtue, the Tough Virtue and the Tainted by Evil Flaw. They are also both more violent (add the Aggressive Quality and increase their Brawl score to 5) and less cowardly (replace Cowardly with Fierce +3 Personality Trait). Unlike their lesser cousins, the *crocotta* has real Intelligence (Int +2) and a laughing humanlike cackle with improved powers of mimicry (equivalent to speaking Arabic 3) that they use to trick human prey.All crocotta possess the Greater Immunity: Steel Virtue and many have the ability to enthrall their victims as per the Entrancement Ability. Some *crocotta* can strike dogs dumb if their shadow falls across them, and can paralyse any creature they look at thrice.
 
@@ -927,7 +927,7 @@ A stone found in the body of a Hyena of
 
 **Personality Traits:** Bad Tempered +3, Territorial +2
 
-#### **Combat:**
+#### Combat:
 
 *Bite:* Init –4, Attack +10, Defense +4, Damage +13
 
@@ -941,7 +941,7 @@ A stone found in the body of a Hyena of
 
 **Abilities:** Awareness 3 (interlopers), Athletics 4 (running), Brawl 5 (tusks), Survival 3 (rivers), Swim 4 (rivers)
 
-#### **Powers**:
+#### Powers:
 
 *Overrun* (non magical): This effect only applies if the creature has charged into combat, exerting itself for this attack. If the attack is successful, the opponent must make a Dexterity + Athletics stress roll against an Ease Factor equal to (Damage Total (before soak) + hippopotamus's Size – opponent's Size). If the roll fails, the opponent lands on the ground a number of feet away equal to the hippotamus's Size, taking falling damage in the process. He must spend his next action regaining his feet, although the creature normally follows up with a trample. Prone characters cannot parry, but must use Brawl to defend themselves.
 
@@ -1051,7 +1051,7 @@ The mongoose, or ichneumon, is the bane of all snakes. Egyptians encourage them 
 
 There is a type of mongoose called the *enhydrus*, which reserves its ferocity for crocodiles. It waits until the mighty creature falls asleep with its mouth open, and then crawls inside and starts to eat the crocodile from the inside outwards.
 
-#### **Characteristics:** Cun 0, Per +1, Pre +1, Com –4, Str +12, Sta +3, Dex 0, Qik –3
+#### Characteristics: Cun 0, Per +1, Pre +1, Com –4, Str +12, Sta +3, Dex 0, Qik –3
 
 **Size:** +5
 
@@ -1099,7 +1099,7 @@ Elephants have excellent hearing and vibration sense through the trunk, gaining 
 
 *Old Man of the Forest*: As elephants age, they become exceptionally wise, sages on all knowledge under the sun. Tribesmen say that such elephants are also able to make themselves invisible whenever they wish. They develop a human-level of reasoning and become Magic Animals. The Old Man of the Forest should be treated as an elephant except as detailed below:
 
-### **The Old Man of the Forest**
+### The Old Man of the Forest
 
 **Magic Might:** 11 (Animal)
 
@@ -1216,7 +1216,7 @@ When attacking an elephant, the serpent attempts to lasso its victim's legs in a
 
 **Appearance:** The striped hyena has a comparatively massive torso with shortened hind legs, causing their back to slope down. Their short muzzles are borne by a large head and long thick immobile neck.
 
-## **New Quality**
+## New Quality
 
 **Crushing Jaws:** This quality reflects situations in which, although the animal is not particularly strong compared to humans, the muscles with which they bite down are tremendously powerful. The muscles which open its mouth are comparatively weak. A human may hold closed the animal's jaws with a successful Grapple. This Quality adds +3 Damage to any bite attack.
 
@@ -1248,7 +1248,7 @@ When attacking an elephant, the serpent attempts to lasso its victim's legs in a
 
 **Appearance:** A fierce monkey with a doglike face. They are olive brown, the males have a silvery-gray cape and mane of longer hair.
 
-#### **Monkey Varieties**
+#### Monkey Varieties
 
 The statistics given above reflect the hamadryas, also known as a cynocephalus or 'dog head'. It is the most aggressive of African monkeys. Other monkeys found throughout the region can be simulated with the following adjustments:
 
@@ -1324,7 +1324,7 @@ when it initiates a grapple (and constriction) by throwing the thick coils of it
 
 **Natural Weapons:** The weapon statistics for the snake's bite are Init 0, Atk +3, Def +1, Dam +1.
 
-#### **Powers:**
+#### Powers:
 
 *Constriction* (non-magical): The serpent can only use this attack on a victim of Size +5 or less. Constriction is based on the grappling rules (see Non-Lethal Combat, **ArM5**, page 174). As long as the serpent maintains the grapple, its opponent is considered deprived of air (see **ArM5**, page 180). The victim must make a Stamina check every five rounds, or suffer the normal effects of deprivation. Once the serpent has successfully grappled an opponent (and begun constricting), on subsequent rounds it can continue constricting and still attack with its bite. These attacks may be directed at the grappled victim (in which case the Grapple Strength adds to the Attack Total), or at another opponent. The serpent can usually only constrict a single creature at a time.
 
@@ -1367,32 +1367,32 @@ The families of Gourneh often infiltrate legitimate expeditions to tombs, seekin
 
 Since every place has a treasure, every Egyptian knows there's gold to be had near treasure hunters.
 
-#### **Conman**
+#### Conman
 
 A rich man seeks out the covenant for aid. A poor man of his acquaintance came to him with a handful of small gold amulets. The poor man told the rich one that he had uncovered a treasure, but needed money to purchase supplies and hire laborers to excavate it. The rich man gave the poor one a great deal of money, in exchange for half the treasure. The poor man has since disappeared.
 
 The rich man is too embarrassed to go to the authorities, and asks the player characters to return his stolen money. The rich man has social status, and might make a useful ally, pawn, or front man, if aided.
 
-## **The Destructive Jest**
+## The Destructive Jest
 
 An enemy of the player characters has forged an ancient document which says a treasure is hidden under the covenant. Gangs of people try to sneak into the covenant to dig in the cellars. Neighbors begin tunneling under the buildings. Mobs form and try to storm the gates. Random people strike the walls of the covenant with picks as they walk past, in the hopes of striking a hollow in which gold lies. This particular trick has been used many times, and is famous in the country's ruling class, so its difficult to work out who is responsible for it. Perhaps the player characters can seek out the forger?
 
-#### **Government Agent**
+#### Government Agent
 
 When digging for treasure, a government agent must be present. These clerks are not themselves always adventurers. In this story seed, a clerk who is unpopular with a nobleman is assigned to the characters when they visit a tomb known to be dangerous. Can they keep the terrified, unskilled man safe while they navigate the horrors of the tomb?
 
-#### **Monastery or Mosque**
+#### Monastery or Mosque
 
 The characters have found an ancient scroll, which describes the location of a temple which they have not seen listed anywhere else. This increases the odds that it has not been disturbed. Like many temples, however, this one has been built over by either a monastery or a mosque. If the player characters approach the modern keepers of the site, either
 
 - they are welcomed, because the supernatural beings of the temple are still occasionally troublesome, and the modern inhabitants would like them destroyed.
 - they are banned from the site, and the player characters must find ways to sneak into the area, tunnel from neighboring buildings, or discredit the current keeper of the site, so that a more malleable one replaces him.
 
-#### **Naqeeb Al-Matalibeen (The Chairman of the Matalibeen)**
+#### Naqeeb Al-Matalibeen (The Chairman of the Matalibeen)
 
 The chairman of the Seekers Guild is elected by its members, subject to the approval of the emir. The player characters, if famous adventurers, are useful allies for any candidate for the role. Although elections are generally civil, sometimes the candidates attempt to thin the field with assassination. The members of the guild have access to strange poisons, ancient magic items, and can use their training in trap disarmament to construct devices that deal death. A player character who becomes chairman has access to all of the resources of the guild, provided he can keep the emir ignorant of his activities. A player character covenant that secretly rules the Guild of Adventurers is a potential saga seed.
 
-#### **Roman Notes**
+#### Roman Notes
 
 It is believed by many Egyptians that the Romans hid treasures before their armies withdrew from Egypt. They expected to return, retake the country, and recover their treasures, so they took detailed notes about the locations of their caches. They also carried away many Coptic, Greek and Chaldean books concerning the location of treasures. The Romans stored these books in the safest place they could imagine: the cathedral of Constantinople.
 
@@ -1400,7 +1400,7 @@ In 1204, this building was sacked by crusaders. Most of the Arabs who know this 
 
 Characters using magic to make gold might be imagined the keepers of the stolen Roman books. This attracts great support from the peasant and merchant class, but offends noblemen.
 
-#### **The Treasure of Qarun**
+#### The Treasure of Qarun
 
 Qarun was a wealthy man from Moses's time. He was so rich that he built a treasure house, which was so magnificent that he required a train of powerful slaves just to carry its keys. God, finding the pride of the man repulsive, pushed the treasure house deep into the sands. It has never been rediscovered.
 
@@ -1446,13 +1446,13 @@ The serdab also contains a doorway (a *stele*) to Duat, the afterlife which cont
 
 In early tombs the stele is unadorned. In slightly later tombs the name of the person appears on the stele, perhaps to prevent ghosts using each other's stelae to steal grave goods. Over time the decoration became more complicated. Late stelae include the name and biography of the dead person, and hints for them about how to live in the afterlife. These hints sometimes include spells, or, at least, incantations that the creatures of the Field of Reeds accept as binding them to act in certain ways.
 
-#### **Statues**
+#### Statues
 
 Egyptian ghosts in the mundane world prefer to be incarnate. While material they
 
 Some creatures guard an entire graveyard, not a specific tomb. Characters are less likely to meet these beings than the guardians of the particular tomb they are attempting to enter. The use of powerful magic in the graveyard may draw them to the entrance of the tomb in which the player characters are active, to ambush the characters as they emerge.
 
-#### **Canocephalus Decapitators**
+#### Canocephalus Decapitators
 
 These are the spirits which dissuade most people from tomb robbing. Decapitators are more active at night, and often appear in pairs.
 
@@ -1474,7 +1474,7 @@ Traditional Ward (Removal of the medallions – see accompanying story hook).
 
 **Reputations:** Homicidally Territorial 5 (General)
 
-#### **Combat\:**
+#### Combat\:
 
 *2 knives\*\*:* Init +5, Attack +11, Defense +8, Damage +12\*\*\*
 
@@ -1494,7 +1494,7 @@ ness 5 (intruders), Brawl 5 (knives), Hunt 5 (in graveyards)
 
 \*See *Realms of Power: Faerie* or just use equivalent Abilities.
 
-#### **Powers:**
+#### Powers:
 
 *Chilling Howl:* 4 points, Init +1, Corpus: Completely paralyses characters who hear the creature's war cry. Some report the cry sounds like the howl of a wolf, others that it sounds like the mocking laughter of the hyena, others that it sounds like the chitter of a setbeast. (Base 5, +2 Voice, +2 Sun, +2 Group)
 
@@ -1512,11 +1512,11 @@ ness 5 (intruders), Brawl 5 (knives), Hunt 5 (in graveyards)
 
 **Appearance:** This is a medieval interpretation of seals showing the god Anubis. Imagine a fit warrior, with the head of a jackal and a savage expression, surrounded by the corpses of his decapitated enemies.
 
-#### **Story Seed: Medallion Removal**
+#### Story Seed: Medallion Removal
 
 Many of the statues in each graveyard have medallions around their necks. Each medallion shows one of these creatures surrounded by bound and decapitated victims. Seals with the same design are also found on tomb doors, and other architectural features. The absence of these seals almost entirely prevents attack by the decapitators, while skulking around at night in graveyards is substantially more dangerous near these medallions. A character wanting to rob a tomb may visit the graveyard during the day, when the decapitators are less active, and try to remove or deface these medallions, without the humans who watch over the graveyard discovering their vandalism.
 
-#### **Great Guardian of the Tombs**
+#### Great Guardian of the Tombs
 
 Each of the great Egyptian necropolises has a protective spirit, which is extremely powerful but rarely intervenes. Magi using spells in the graveyard might draw a guardian from its sleep. The most powerful is the guardian for Gizeh, called the Father of Dread. This great effigy of Harmarchis, Horus at Dawn, is called the Sphinx by Greek scholars. The statue faces the opposite direction to that reported by Herodotus, but no-one recalls when it changed position, or why. Between the statue's forepaws is a small Divine aura, which appeared when Mary laid the infant Christ in the shadows here, as they rested. It may be this Divine aura which has locked the Father of Dread in place. It no longer grants predictions to the common person, or moves to give warnings of grave worldly events, but it has found a subtle way to continue protecting the tombs.
 
@@ -1562,7 +1562,7 @@ The Father of Dread is not designed as a player character.
 
 **Appearance:** The Father of Dread used to act in the world by possessing the great statue that guards the tombs at Giza; an immense statue of a lion with the head of a human complete with headdress. It has a less weather-worn appearance in Faerie. It also has a ceremonial beard, which has been lost from the mundane statue.
 
-# **The** Mut**: The Enemies From The West**
+# The Mut: The Enemies From The West
 
 The ghosts of the Ancient Egyptians differ a little from those of modern Europeans.
 
@@ -1602,7 +1602,7 @@ The ghosts of the Ancient Egyptians differ a little from those of modern Europea
 
 **Abilities:** Brawl 6 (club) or Great Weapon 6 (large rural implement) or Single Weapon 5 (spear) and Thrown weapon 3 (throwing stick – treat as a stone)), Area Lore: grave site 4 (stories about the dead), Athletics 4 (running), Awareness 4 (living things), Profession: varies 6 (varies),
 
-#### **Powers:**
+#### Powers:
 
 *Cause Mastitis,* 2 points, Init –3, Corpus: Prevents mothers from generating milk for their babies.
 
@@ -1622,7 +1622,7 @@ The mut are believed to be spirits unable to pass on, stuck in the world due to 
 
 Some sorcerers used the mut to attack their enemies. As an example, tying the hair of a victim to the hair of a dead man and then both to the body of a hawk could cause nightmares, possession and insanity. The dead hawk makes this working difficult to dispel using Egyptian incantations, as it is a sign of Horus, the warrior god of light and goodness. The ancient spell to dismiss a mut to the Afterlife is called *The Making of an Akh*, which forces the mut to the Magic Realm. It is odd for a banishing spell, in that, given sufficient time, a past mut could return to his family as an akh, and aid them.
 
-#### **Mut Story Seeds**
+#### Mut Story Seeds
 
 An archmage unwilling to travel far from his concerns in Italy offers to pay anyone who can capture a mut for him. If the player characters lack the ability to create spells or item which can capture a mut, he may be persuaded to lend them a mirror which can capture ghosts. He has a theory that the Faerie and Magic realms had not separated when the mut were made, which is why they seem so faerie-like in some respects. How can the player characters make sure they capture a mut, and not a more recent ghost, or faerie impostor?
 
@@ -1785,7 +1785,7 @@ The excoriation is the magical part of the curse, describing the penalty that wi
 
 ## Examples
 
-## **Ka of a Tomb Robber.**
+## Ka of a Tomb Robber.
 
 A reworking of the Rogue (**ArM5** page 23).
 
@@ -1801,7 +1801,7 @@ A reworking of the Rogue (**ArM5** page 23).
 
 **Magical Qualities:** Increased Damage x2, Improved Powers, Lesser Powers x2, Personal Powers
 
-#### **Combat:**
+#### Combat:
 
 *Fist:* Init +4, Attack +7, Defense +7, Damage +5\*
 
@@ -1813,7 +1813,7 @@ A reworking of the Rogue (**ArM5** page 23).
 
 **Abilities:** As per **ArM5**, page 23. Includes Legerdemain 5 (picking pockets) and Stealth 5 (being quiet).
 
-#### **Powers:**
+#### Powers:
 
 *Possess statue*, 0 points, Init +3, Terram: Allows the ghost to take a statue of itself as a body. ReTe 25. Personal Power (25 levels, –3 Might cost, +2 Init from Improved Powers)
 
@@ -1841,7 +1841,7 @@ After the thief's death, the tomb's owner humiliated him further by carving a di
 
 **Wound Penalties**: –1 (1), –3 (2), –5 (3), Incapacitated (4), Dead (5+)
 
-# **Animated Statue of a Minor Palace Guard**
+# Animated Statue of a Minor Palace Guard
 
 A reworking of the Grizzled Veteran (**ArM5** page 21). The ghost remains in constant possession of the statue.
 
@@ -1857,7 +1857,7 @@ A reworking of the Grizzled Veteran (**ArM5** page 21). The ghost remains in con
 
 **Personality Traits:** Defend the Tomb +3, Loyal +3, Cheeky +2, Brave +1.
 
-#### **Combat:**
+#### Combat:
 
 *Axe\* and Large Shield:* Init +1\*\*, Attack +17\*\*, Defense +14, Damage +12\*\*.
 
@@ -1873,7 +1873,7 @@ A reworking of the Grizzled Veteran (**ArM5** page 21). The ghost remains in con
 
 **Abilities:** As per **ArM5**, page 21. Adjust unsuitable entries, like Order of Hermes Lore.
 
-#### **Powers:**
+#### Powers:
 
 *Possess statue*, 0 points, Init 0, Terram: ReTe30. Personal Powers x2 (30 levels, –3 Might cost, +1 Init)
 
@@ -1906,7 +1906,7 @@ Metal Statue: ReTe 30 (Base 3, +2 Sun, +2 affect metal, +1 constant effect, +2 i
 
 case they can be resolved using the narrative rules described earlier. The base Ease Factor for bypassing a magical trap is equal to (6 + the magnitude of its effect). Example talismans are provided later.
 
-#### **Wards**
+#### Wards
 
 The most popular wards in Egypt are those that hide tombs from sight, or subtly nudge people away from them. As with many other Egyptian talismans, these wards usually have a method of temporary deactivation. These methods are a popular subject for books by treasure hunters. The formula is generally that to find a ruin, you must stand at a specified place, perhaps at a specified time, and do a specified thing. So, "Be standing on this particular rock at dawn, while wearing a headdress of red feathers" is possible. Egyptian Wards are more likely to have Penetration Totals than other talismans, as they are often directed against spiritual beings.
 
@@ -1924,7 +1924,7 @@ Egyptian graves have many varieties of defender. Some are the guardians of cemet
 
 Muslim writers in period saw the ka as a ghostly double of the body. In play, this means that characters encounter particularly resilient, well-resourced, and dangerous ghosts who have easy access to the Magic Realm, quite unlike the specters, apparitions, or shades of the West. Ka look slightly different from medieval European ghosts: they are transparent but fully colored, with increasing opacity as their Might increases.
 
-## **Quick Ghost Conversion Notes**
+## Quick Ghost Conversion Notes
 
 Take a mortal character, such as a grog or companion described in **ArM5**.
 
@@ -1951,7 +1951,7 @@ Add any new power you like. Base it on Hermetic spells, and assume it costs 1 te
 
 Add vis, usually Mentem, equal to the Might score divided by 5.
 
-#### **Quick Animated Statue Conversion Notes**
+#### Quick Animated Statue Conversion Notes
 
 Take a mortal character, like a grog or companion described in **ArM5**.
 
@@ -1989,7 +1989,7 @@ Al-jazari, what Hermetic magi would call automatons, can also be generated using
 
 The ghosts of Egyptian royalty differ from each other due to the different origins and life experiences of, and death rituals performed on each ghost.
 
-#### **Blood Virtues**
+#### Blood Virtues
 
 Many different families ruled Egypt over the centuries, and these had various
 
@@ -2004,7 +2004,7 @@ Scions of pharaohs most often had a Sympathy Trait of Royalty. Other dynasties h
 
 relationships with the Realms expressed in their blood. The commonest story is that the Faerie god to which the dynasty was dedicated invested the body of the pharaoh while he conceived his heir, which grants the child the Blood of the Old Gods Virtue. Anyone descended from a pharaoh who was not, at that time, filled with the spirit of a Faerie god instead gained a Minor version of the Virtue. The last dynasty of all, the Ptolomies, constructed their own god instead, named Serapis, who was a supernatural ally but not an ancestor.
 
-#### **Powers of the Pharaoh in Life**
+#### Powers of the Pharaoh in Life
 
 A pharaoh whose rule was just by Egyptian standards kept the world in balance so that the floods came, food was plentiful, and people lived well. A pharaoh might make people richer or poorer simply by ruling that it should be so. All pharaohs were thought able to command spirits, but in many cases this was power at one remove: the pharaoh asked his divine patron to punish the spirit if it did not obey.
 
@@ -2012,7 +2012,7 @@ As wealthy men of great influence, many pharaohs were able to fulfill Mystery qu
 
 The death rituals offered to Egyptians varied over time, and with social status. The death rituals and coffin texts were of greater length for people with greater wealth and status. This allows their ghosts to undergo Transformation after death (*Realms of Power: Magic* page 52), which allows greater Might and a wider variety of powers. Tombs were occasionally stocked with vis for the very purpose of feeding Transformation.
 
-#### **The Akh**
+#### The Akh
 
 The Akh is the final stage in the spiritual development of the most powerful of the Egyptian dead, formed from the fusion of the ba, ka, and khu. The akh is a Daimon, described in more detail in *The Mysteries: Revised Edition* (pages 82–86). In brief, a Daimon is an indestructible spiritual being that interacts with the world by projecting an Aspect into it. Although the Aspect may change or die, the Daimon it embodies remains unharmed, and, for the most part, unchanged. Aspects are self-sustaining and do not require food or prayer to survive. Becoming an akh can take centuries. Imhotep, the inventor of architecture and medicine, is thought to have taken two thousand years to complete the process, but this is not typical: the greater the final Magic Might, the longer it takes. Once the transformation to akh has been achieved there is no further need for a tomb to be maintained, although some akhu enjoy the access between worlds that it offers.
 
@@ -2026,7 +2026,7 @@ Akhu may be created using the rules for Magic Spirits given in *Realms of Power:
 
 There are two tombs, in particular, that Hermetic wizards wish to find. They are arguably the first and last of the distinctive, Egyptian kind.
 
-# **The Tomb of Imhotep, probably at Saqqara**
+# The Tomb of Imhotep, probably at Saqqara
 
 Imhotep was a priest of Thoth, who lived in the reign of Djoser, the first king to have a pyramid. Imhotep himself is said to have invented architecture, but what this means is that he developed many of the features now common in architecture, to allow such a large building to be constructed. The column and lintel, for example, are based on his designs. His healers were trained
 
@@ -2070,7 +2070,7 @@ he manifests with hooked invisibly on his belt
 
 **Abilities:** Ancient Egyptian 5 (orders), Arabic 5 (to common people), Area Lore: Egypt 3 (Delta region), Artes Liberales 3 (hieroglyphs), Athletics 3 (noble sports), Awareness 5 (names), Bargain 3 (criminals), Bow 3 (short bow), Brawl 3 (defensive), Carouse 3 (noblemen), Charm 5+2 (common people), Coptic 5 (to priests), Dominion Lore 3 (Coptic), Etiquette 3 (religious), Faerie Lore 5 (Egyptian deities), Folk Ken 4 (Egyptians), Guile 5 (people who think he is a priest), Infernal Lore 3 (Egyptian), Intrigue 5 (noblemen), Leadership 5+2 (commoners), Legerdemain 3 (forgery), Magic Lore 5 (Daimons), Penetration 5 (Animal), Profession: kingship 5 (ceremonies), Ride 3 (charioteering), Single Weapon 5 (Mace), Stealth 3 (burglary), Swim 2 (pretending to need to breathe).
 
-#### **Powers:**
+#### Powers:
 
 *Aid of the Gods,* 5 points, Init –3, Animal: Creates a swarm of mice, under Sethos's complete control. Base 15, +2 Sun, +2 Group (60 000 mice), +1 control (as a Rego requisite), +2 mice can become immaterial to ignore barriers (as Muto Mentem Requisites)
 
@@ -2105,7 +2105,7 @@ A tomb may become a significant part of a saga containing an important presence 
 
 these aliases will yield clues to the tomb. Others dispute this identification.
 
-# **The Tomb of Marcus Antonius, probably near Alexandria**
+# The Tomb of Marcus Antonius, probably near Alexandria
 
 The final queen of Egypt was Cleopatra. Players are likely only familiar with the Roman accounts of this ruler. Mythic Egyptians believe these were lies spread by her political and military foes. Their own tales suggest she was a just and wise ruler, that she held salons for the wisest men in her country and was acknowledged their peer in debates, and that she wrote a book of alchemy which collated much of the wisdom of her predecessors, and included her own contributions to the art of medicine. Her body was stolen, and placed in her tomb, but none can find it.
 
@@ -2141,7 +2141,7 @@ Each tomb can have up to 10 points of Hooks, which can be used to purchase Boons
 
 Tombs may have the following resources. Unless stated otherwise, the costs can be found in Chapter 6 of **Ars Magica Fifth Edition.**
 
-#### **Curses**
+#### Curses
 
 Curses are a special variety of enchantment created by lector priests. Most tombs have at least one curse, and some may have many multi-clause maledictions that promise a number of horrible fates to anyone who defiles the tomb. These were created using magical craftwork described in Chapter 5.
 
@@ -2153,7 +2153,7 @@ Some excoriations cannot be duplicated with Hermetic Magic, and these should ins
 
 Several methods were used to keep people away from tombs.
 
-#### **Nothing But Sky and Sand**
+#### Nothing But Sky and Sand
 
 Pen 0, constant effect Muto Imaginem 39 R: Touch, D: Sun, T: Str
 
@@ -2161,7 +2161,7 @@ The structure targeted by this effect appears to be a sand-dune in all respects.
 
 (Base 5, +1 Touch, +2 Sun, +3 Structure; +3 environmental trigger, +1 2/day)
 
-#### **Turn the Interloper**
+#### Turn the Interloper
 
 Pen 0, unlimited/day Rego Corpus 30
 
@@ -2169,7 +2169,7 @@ Anyone triggering this effect is spun 180 degrees so that she faces in the oppos
 
 (Base 10, +2 Voice; +10 unlimited uses per day)
 
-# **A Sovereign Ward Against Robbers**
+# A Sovereign Ward Against Robbers
 
 Pen 0, constant effect Rego Corpus 49
 
@@ -2184,7 +2184,7 @@ Not all curses are actually effective. It costs no Build Points to have a dire c
 
 A curse costs two Build Points for every five levels of effects.
 
-# **Enchanted Items (Talismans and Wards)**
+# Enchanted Items (Talismans and Wards)
 
 Enchantments other than curses found in tombs usually take the form of talismans or wards. These cost two Build Points for every five levels of effects. Note that anything left in a strong Magic aura will accrue Warping; the aura may have faded since, but the enchantments remain Warped.
 
@@ -2194,41 +2194,41 @@ Although magical traps may be designed as if they were Hermetic effects to get a
 
 above the surface, and begin to drown. (Base 30, +1 Touch, +2 Room)
 
-#### **He Shall Have No Successors**
+#### He Shall Have No Successors
 
 PeCo 35; 1/day, Pen 0; R: Touch, D: Special, T: Room: Those affected have their organs of generation destroyed, leaving them incapable of sexual intercourse or procreation. Other interpretations of this curse could drive off apprentices or proteges as a Lesser Malediction. (Base 20, +1 Touch, +2 Room)
 
-#### **He Shall Meet Death by a Disease that No Doctor can Diagnose**
+#### He Shall Meet Death by a Disease that No Doctor can Diagnose
 
 PeCo 35; 1/day, Pen 0; R: Touch, D: Mom, T: Room: This curse strikes the victims with a major disease (inflicting a Disease Penalty of –5). Mundane medicine cannot help with Disease Recovery rolls; only magical aid is effective. (Base 20, +1 Touch, +2 Room)
 
-# **He Shall Not Reach his Home, nor Embrace his Children**
+# He Shall Not Reach his Home, nor Embrace his Children
 
 CrMe 25; 1/day, Pen 0; R: Touch, D: Special, T: Room: This Lesser Malediction is the equivalent of the No Sense of Direction Flaw, guaranteeing that those afflicted will get lost. In the desert, this can be a death sentence. (Base 10, +1 Touch, +2 Room)
 
-# **I Shall Cast the Fear of Myself into Him**
+# I Shall Cast the Fear of Myself into Him
 
 CrMe 25; 1/day, Pen 0; R: Touch, D: Sun, T: Room: All those affected are filled with an overwhelming dread of the tomb itself or the deceased occupant, and must flee immediately from its vicinity. (Base 4, +1 Touch, +2 Sun, +2 Roo m)
 
-# **I Shall Wring his Neck Like a Bird**
+# I Shall Wring his Neck Like a Bird
 
 PeCo 55; 1/day, Pen 0; R: Touch, D: Sun, T: Room: Everyone afflicted by the curse feels spectral hands crushing their throat and cutting off their air. Everyone immediately starts to choke. Use the rules for deprivation of air (**ArM5**, page 180) until the curse is canceled or everyone is dead. An unaffected person can attempt a surgical intervention, making a hole further down the neck allowing the character to breathe. This requires a Dexterity + Chirurgy stress roll against an Ease Factor of 9, and inflicts the Mute Flaw whether it succeeds or fails. If the surgical intervention roll is botched, the patient dies. If a person can escape from the affected room and make a successful Deprivation roll, then the curse is broken. (Base 30, +1 Touch, +2 Sun, +2 Room)
 
-# **The Hollow Promise of a Swift Death**
+# The Hollow Promise of a Swift Death
 
 CrVi 9; constant effect, Pen 0; R: Per, D: Sun, T: Ind: This is not a curse, instead it is an enchantment made to look like a dire curse to magical detection. This effect appears to be a curse of 30th level to any magical detection, although it can be designed at other levels; every magnitude higher or lower of the base effect appears to be a spell of two magnitudes higher or lower, respectively (Base 3 (taint something with magic), +2 Sun; +3 environmental trigger, +1 2/day)
 
-#### **A Crocodile Shall Be Against Him in Water, a Snake on Land**
+#### A Crocodile Shall Be Against Him in Water, a Snake on Land
 
 The following are examples of real curses found in Egyptian tombs. Levels of effects are included here for the purposes of breaking the curses, as well as determining Build Points.
 
 ReAn 45; 1/day, Pen 0; R: Touch, D: Special, T: Room: This Greater Malediction causes the afflicted to be dogged by a crocodile or a venomous snake until the curse is broken. If he spends more than one night in a location close to water, a large crocodile arrives there. If he spends more than one night in a location far from water, a venomous snake turns up. Apart from the manner of its arrival, the creature acts as a normal member of its kind. If the creature is killed, another will arrive. (Base 30, +1 Touch, +2 Room)
 
-# **He Shall Be Destroyed by Sekhmet**
+# He Shall Be Destroyed by Sekhmet
 
 CrIg 25; 1/day, Pen 0; R: Touch, D: Mom, T: Room: The targets of this curse are targeted by arrows of fire, much like those of the goddess Sekhmet. Each afflicted individual is automatically hit, and suffers +15 damage (Base 10, +1 Touch, +2 Room)
 
-# **He Shall Capsize and Drown at Sea**
+# He Shall Capsize and Drown at Sea
 
 ReAq 45; 1/day, Pen 0; R: Touch, D: Special, T: Room: This Greater Malediction causes any boat on which the afflicted set foot to sink. Furthermore, whenever they are in more than a foot's depth of water, they are unable to keep their heads
 
@@ -2240,11 +2240,11 @@ Tombs rarely contain actual books, although some might have a stash of ancient s
 
 The subject of these texts is often a history of the deceased, represented by an Area Lore or Organization Lore depending on the occupant. However, ancient priests often provided their kings with spells that they would need in the next life, and so there may be details of Magic Lore or relevant Supernatural Abilities.
 
-## **Specialists**
+## Specialists
 
 A Temple Priest of Dedun or an Undying One who lives in a tomb may have altar priests or adherents of the cult at their beck and call. These cost build points just like any other specialist. However, a tomb can have more unusual inhabitants, such as walking cadavers as tomb guardians, or the ghosts of long-dead viziers who offer advice from beyond the grave. If these characters are not intended to be player characters, then they should be purchased as specialists. Tomb guardians usually cost Build Points equal to their highest Martial Ability or Brawl, as applicable. Ghosts can be specialists or teachers, and cost Build Points appropriately.
 
-#### **Traps**
+#### Traps
 
 A tomb is often built with a variety of traps intended to guard the contents against interlopers and robbers. A tomb may also
 
@@ -2252,7 +2252,7 @@ A tomb is often built with a variety of traps intended to guard the contents aga
 
 tration, +10 unlimited uses)
 
-## **Apedemak's Strength**
+## Apedemak's Strength
 
 Muto (Rego) Terram 40 (16 Build Points) Pen 0, unlimited uses per day R: Per, D: Conc, T: Ind
 
@@ -2264,7 +2264,7 @@ The guideline used is based on the making the target statue into highly unnatura
 
 (Base 5, +1 Conc, +1 affect stone, +1 size, +1 requisite; +5 maintains concen-
 
-### **The Destroying Uraeus**
+### The Destroying Uraeus
 
 Creo Ignem 20 (8 Build Points) Pen 0, 24/day
 
@@ -2274,7 +2274,7 @@ This statue of a rearing cobra spews a jet of fire on anyone passing in front of
 
 (Base 5, +2 Voice; +5 24/day)
 
-# **On The Presentation of Face of Lost Companions**
+# On The Presentation of Face of Lost Companions
 
 Creo (Intellego) Imaginem 15 (6 Build Points)
 
@@ -2288,7 +2288,7 @@ More sinister enchantments might instead enslave the trapped person's ghost as a
 
 (Base 2, +1 Touch, +1 Conc, +1 legible words and moving image, +1 requisite to perceive the face; +5 maintain concentration)
 
-#### **On Lowering the Waters**
+#### On Lowering the Waters
 
 Rego Aquam 28 (12 Build Points) Pen 16, 1/day
 
@@ -2302,19 +2302,19 @@ Many tombs contain magical water which acts as a living thing, straining to drow
 
 More, or less, dangerous versions of any of these traps are described in treasure seeker manuals. In each trap listed here, an example of how it may be overcome is described, but characters can easily come up with their own.
 
-#### **Labyrinth**
+#### Labyrinth
 
 Build Cost 4
 
 The tomb contains a confusing maze of branching tunnels, empty rooms, and identical passages. Retracing one's steps is easy (Intelligence + Concentration against an Ease Factor of 6), but takes three times as long as the time taken to penetrate the labyrinth.
 
-#### **Prison Room**
+#### Prison Room
 
 Build Cost 7
 
 A chamber with no other exits, often containing treasures or inscriptions. Upon entering, there is a delay as the mechanism engages, and characters have a chance to hear the workings on a Perception + Awareness roll against an Ease Factor of 6. If noone succeeds this roll, the door drops, sealing the characters in. The door is far too heavy to lift by mundane means. Needless to say, any treasures are painted wood and inscriptions nonsensical (or taunting).
 
-#### **Rock Fall**
+#### Rock Fall
 
 Build Cost 9
 
@@ -2336,31 +2336,31 @@ For smaller rockfalls, a rule of thumb is +1 damage per 10 pounds of rocks.
 
 This damage may be increased, by making the falling objects more dangerous than rocks (spiked metal balls, for example) or decreased, by making the falling objects softer (sand, the bones of earlier treasure hunters, the bodies of the characters left to guard the horses.)
 
-#### **Medicinal Powders**
+#### Medicinal Powders
 
 Build Cost 12
 
 The ancient Egyptians were well versed in alchemical and medicinal powders and pastes. This trap consists of an exceptionally finely powdered poison in a room or corridor sealed by a door. The movement of air caused by opening the door swirls the dust into the air, and the movement of the characters creates drafts that spread it further. The touch of this powder sears the skin and inflicts a disfiguring Medium Wound unless a Stamina roll against an Ease Factor of 9 is successful. Other powders could inflict different wounds, inflict Fatigue levels through choking or vomiting, inflict temporary blindness or paralysis, or even be highly flammable.
 
-#### **Projectiles**
+#### Projectiles
 
 Build cost varies
 
 If a character triggers a projectile trap, and does not escape it via player character actions in that combat round, then calculate Damage as (Stress die + Weapon Damage Modifier from page 177 of the core rules), which the character may soak. A character may be targeted by multiple projectiles (roll for each projectile and add the results) or by machines which throw with astonishing force (+1 to +5 damage, by human Strength equivalence). Many projectiles are poisoned (See page 180 in **ArM5**).
 
-### **Head Wires**
+### Head Wires
 
 Build Cost: 15
 
 Thin wires strung across a passageway at neck height. These are generally very difficult to see (Perception + Awareness against an Ease Factor of 15), and inflict +9 damage on anyone walking into them; most armor does not provide its Protection against this damage. Head wires are particularly dangerous when combined with other traps: for example, an easilyspotted pit which must be jumped over, with head wires strung on the other side so that the victim jumps into them. In this situation, the damage is increased to +18, and this combination trap has a Build Cost of 21
 
-#### **Dead Drop**
+#### Dead Drop
 
 Build Cost 18
 
 A character has a chance to spot the trigger, a slightly less-worn paving stone; this requires a Perception + Awareness roll against an Ease Factor of 12. Failure opens a gaping hole beneath the unfortunate's feet onto a ten pace drop to a stone surface (+30 damage).
 
-## **Pits**
+## Pits
 
 Build cost varies
 
@@ -2390,7 +2390,7 @@ Traps can be avoided in a number of different ways: spotting the pressure plate 
 | Very hard to avoid<br>(Ease Factor 15) | +9                      |
 |                                        |                         |
 
-#### **Vis**
+#### Vis
 
 In an undisturbed tomb, vis might have been left with other grave goods, for the deceased to use in the next world; this is especially true if the honored dead was a magician in life. Vis is useful for an akh, since it can ameliorate the penalty for high Might scores on Study Totals for Transformation. Vis as a grave good should be paid for as a vis stock if the tomb subsequently becomes the home of a character.
 
@@ -2407,7 +2407,7 @@ The tomb of the most famous of Egypt's queens, Cleopatra VII Thea Philopator, wh
 
 and are believed to have been buried with her. In reality, everyone has been looking in the wrong place; Cleopatra was interred, not in a pyramid, but in a walled compound at Taposiris Magna, an isolated bay west of Alexandria and far from any trade routes. An enchantment keeps the tomb from being discovered by the casual visitor (see later). There are only a handful of individuals who know of its location; one is a *jinniyya* called Nahrou, whose Magic Might protected her from the concealing enchantment.
 
-#### **The Garden**
+#### The Garden
 
 Fifteen foot high walls enclose an opulent temple to Isis. An impressive pylon gate is the only entrance; it is decorated with images of Isis, along with cows, cats, lionesses, vultures, and hippopotamuses, representing the Egyptian goddesses. Within the walls is a lush garden of both edible and medicinal herbs.
 
@@ -2417,7 +2417,7 @@ Dates and bananas grow in the garden along with smaller amounts of other fruits;
 
 Traps, regardless of their type, impose their effects last in the combat round. All characters therefore have the opportunity to react to the trap, as described earlier. Some traps do not cause damage in the same round they trigger: for example a room that begins to fill with water may give the characters several minutes in which to find ways of saving themselves, as the water level rises.
 
-#### **Perception Checks and Traps**
+#### Perception Checks and Traps
 
 A Perception + Awareness roll may allow a character to be aware that a trap is in place without triggering it. This allows the character multiple combat rounds in which to overcome the trap. For example, if the character becomes aware that there is a crossbow behind a tapestry, she can take as much time as she likes coming up with ways to prevent it hurting anyone. It also allows magi to use formulaic or ritual magic to disable the trap.
 
@@ -2425,7 +2425,7 @@ The Ease Factor for spotting a trigger
 
 to avoid the trap is modified by the lighting conditions. The Ease Factors for Awareness rolls presented here assume torches and lanterns. Characters able to supply perfect lighting conditions (such as through a spell) decrease the Ease Factor by 3; those using a single flame such as a candle should add 3 to the Ease Factor. Characters foolish enough to risk tombs in near darkness — such as from a distant light or open door — have a +6 increase to such Ease Factors.
 
-#### **Evading Traps**
+#### Evading Traps
 
 Characters using the optional Combat rules in the *Lords of Men* supplement may prefer to use the Evasion Combat Statistic, described on page 125, to determine if characters dodge attacks from traps. To do this, assume the trap's Attack total is stress die + Intelligence of the trap setter + Profession of the trap setter. Traps that involve weapon-like components also add the Attack modifier of a similar weapon.
 
@@ -2437,13 +2437,13 @@ The pool in the center of the temple complex is the entrance to a Faerie regio o
 
 Anyone intending to remain here for any time might seek a permanent solution to the annual inundation by venomous snakes; however, the regio can only easily be accessed on that one night every year. At other times, a Regio Sight roll against an Ease Factor of 23 is required (**ArM5**, page 189). What is inside the regio is left for the storyguide to develop.
 
-#### **The Temple**
+#### The Temple
 
 The temple stands opposite the entrance across a lush garden. Its roof is supported by columns carved to resemble handmaidens. There are four different faces represented on these statues, each one repeated many times. Inside, the temple walls are covered with inscriptions in Koine Greek and Ancient Egyptian detailing spells of midwifery and healing. Some of these inscriptions can be studied as texts on the Arts of Learned Magicians; they are not precisely the same Arts, and the Quality given is that available to a 13th century magician. The temple contains two mighty statues of the lioness-headed goddess Sekhmet, bows drawn. If the name of Cleopatra is not intoned the statues shoot upon anyone in the temple, loosing a fiery arrow each per round.
 
 Four handmaidens, all dedicated priestesses of Isis, sacrificed their lives to guard Cleopatra in the afterlife. Their ghosts haunt the temple, and their faces adorn its statues. Each one was a powerful sorceress in life and retains some of this power after death. One is skilled in spells of healing, another in lifeshriveling and destructive magic. The third has the power of transmutation and transformation; the last is expert with spells of enchantment and control.
 
-#### **The Tomb**
+#### The Tomb
 
 The underground tomb is reached through an inclined passage entered through the temple. The first section levels off so that it its ceiling is level with the ground; this region is trapped with a soporific poison (see later). The turn in the corridor is also trapped, but this pit is only triggered on the way out (again, see later). The tomb, directly underneath the statue of Isis in the temple above, is blocked by a door sealed with a curse. Inside, Cleopatra's body lies draped with a fine net made of pure gold. This is inside a painted wooden coffin carved to resemble the great queen, which in turn is inside a golden sarcophagus, which is itself within a stone sepulcher. The body is surrounded by the statues of four goddesses, with the heads of a vulture, a lioness, a crocodile, and an asp.
 
@@ -2452,7 +2452,7 @@ There is a hidden entrance on the rear wall of the tomb that leads to a short co
 
 sury of Ptolomaic Egypt, buried with its last pharaoh. This wealth represents a legendary source of income, over ten thousand Mythic Pounds worth of gold, gemstones, and ivory. This chamber is trapped, potentially burying this fabulous wealth under tons of sand just after the characters get a view of it.
 
-#### **Details of Cleopatra's Tomb**
+#### Details of Cleopatra's Tomb
 
 **Magic aura**: 6
 
@@ -2464,13 +2464,13 @@ sury of Ptolomaic Egypt, buried with its last pharaoh. This wealth represents a 
 
 484 Build Points total
 
-#### **Curses**:
+#### Curses:
 
 *Those Romans who who shall seek to disturb my rest and defame my name, they shall be inflicted by boils. They shall sicken and medicine will give them no succor. They shall have no issue*. A combination curse with three excoriations. It is triggered by anyone speaking Latin in the burial chamber. The curse of boils leaves its victims hideous but causes no actual harm (PeCo 20 effect; Pen 0, 1/day; Base 5, +1 Touch, +2 Room); The sickening effect is a Lesser Malediction equivalent to the Fragile Constitution Flaw (PeCo 25); the curse of barrenness is the same as that mentioned earlier (PeCo 35) (32 Build Points)
 
 *As for anyone who shall break this seal, I shall cast the fear of myself into him.* See earlier for details. This curse is written on a clay seal on the queen's treasure chamber (6 Build Points)
 
-#### **Enchantments**:
+#### Enchantments:
 
 *The Shrouded Oasis*: The walls of the compound of Cleopatra's tomb are enchanted with a ward identical to *The Shrouded Glen* (**ArM5**, page 152). Anyone researching a breakthrough in the enchantment of Hermetic Ritual effects can derive insight from this enchantment. This effect has a zero Penetration, so it is only good for repelling mundane treasure hunters. Non Hermetic effect (50 levels) (Ease Factor 19, 20 Build Points)
 
@@ -2478,7 +2478,7 @@ Two *Statues of Sekhmet* (enchantment as per *Destroying Uraeuses*, earlier) (Ea
 
 *The Djet*: This twenty-foot-tall statue of the god Osiris is made of thirty individual pieces of green stone that cunningly fit together. If burning incense is placed within its hand, it will answer one question posed by the operator. The statue will only ever answer one question from each individual, and the questioner must be personally curious about the answer — it will not answer a question posed on behalf of another. Its knowledge seems unrivaled, but it only actually knows the answer if it is known to someone who is dead (this excludes all questions about the future), answering randomly if it does not know the answer. The statue is currently disassembled and scattered throughout the complex and it takes a certain amount of skill to fit it back together; furthermore, one piece is missing, and its whereabouts unknown. Instructions on its use are helpfully inscribed — in hieroglyphs — on the statue itself. Non Hermetic effect (100 levels) (40 Build Points)
 
-#### **Traps**:
+#### Traps:
 
 A section of the corridor is closed off by two heavy stone doors. When opened, there is a faint floral smell, and dust can be seen whirling in eddies in the shafts of sunlight let in from above. Within moments, the pharmaceutical powder reaches critical levels, and everyone still within the room must make a Stamina roll against an Ease Factor of 9 or collapse into unconsciousness. The amount by which the roll was failed determines the number of minutes the character is unconscious. A horde of mongooses swarms through the ground level holes, and start to consume the bodies of the fallen; they are immune to the poison. The swarm initially a Light Wound to each person; this is increased in severity one step every two minutes. (Ease Factor 9, 12 Build Points)
 
@@ -2511,15 +2511,15 @@ Coptic monks keep libraries of secret, ancient knowledge. The most famous near C
 
 The term "hieroglyphs," meaning "sacred carvings," is from Plutarch, is Greek and is, to Egyptians, sacrilegious. Locals call this script a variety of names, such as The Pen of Copts, The Pen of the Temples, The Pen of Talismans, The Pen of South Arabia, The Pen of Priests, and The Pen of Hermes.
 
-#### **Collections of Magic Items**
+#### Collections of Magic Items
 
 Although they do not practice spellcasting, Coptic monks have access to many powerful magical items. Some of these are found when churches are established on older sites. Others are donated to the Church by believers. The churchmen are faithful and pacifistic, but they have seen pogroms before and always have a few tricks ready for self-defense.
 
-#### **Coptic Alchemists**
+#### Coptic Alchemists
 
 It's debatable whether the most studious of Coptic monks or the personal alchemists of the sultan are the most skilled in the world. Each side claims the other is superior, citing the thousands of books of magic to which their theoretical rivals have access. Hermetic magi interested in Alchemy may compare the Copts to the Learned Magicians of Europe, who have access to a single, excellent book of Egyptian alchemical formulae.
 
-#### **Learning Coptic**
+#### Learning Coptic
 
 Non-Coptic characters wishing to learn spoken Coptic can do so easily: there are many Copts who are happy to teach their language to outsiders. Characters do not even need to travel to Egypt to do this: Copts can be found in many of the trading ports around the Mediterranean, and on pilgrimage in the Holy Land. Some of the monks have also produced grammars to help Arabic speakers to understand their language. Characters wishing to learn how to read hieroglyphs must seek out a skilled, likely ancient, Coptic monk and convince him to take sufficient time to act as a tutor.
 
@@ -2544,13 +2544,13 @@ Common people, who did not have monumental tombs, had no expectation of becoming
 
 
 
-#### **Reading the Books of Ritual**
+#### Reading the Books of Ritual
 
 A Hermetic magus who reads this type of Egyptian ritual is likely unable to perform it. A character already trained in the correct Faerie Methods can use the text to create a Hermetic equivalent. Rules for this are found in *Realms of Power: Faerie* (page 121). Characters with books of Ancient Egyptian rites may need to seek the favor of powerful Merinita magi, as those best able to convert the works.
 
 Most of these spells are designed to be used with the Ceremony Supernatural Ability. If this is the case, the Ceremony must be performed exactly as described. This may require a Communication + Leadership roll against a target of 3 + 1 per required follower. It may also involve lengthy preparations to create ritual purity. Common forms
 
-#### **Wisdom From Ignorance (Minor Virtue)**
+#### Wisdom From Ignorance (Minor Virtue)
 
 One school of Sufis found in Egypt is particularly interested in calligraphy, and the aesthetics of the enigma. By this, they mean that pondering texts which have been structured as meaningful, but which the viewer cannot read, can be used as a form of meditation which brings enlightenment. They are able to use books as sources of training provided they are *unable* to read the language they are written in.
 
@@ -2589,23 +2589,23 @@ There are several other reasons for rite failure. The mystical landscape may hav
 
 The most powerful Faerie Wizards are always Gifted. Egyptian accounts of lector priests do not mention a social effect similar to that caused by The Gift. Stories which contain the followers of dark gods do, however, describe them in ways which are similar to the descriptions of Blatantly Gifted magi. There might be several reasons for the apparent Gentle Giftedness of ancient priests.
 
-## **Faeries Stripped of Volition**
+## Faeries Stripped of Volition
 
 Some faeries perform tricks on demand, even if the person making the demand is not rewarding them either with magical force or emotionally-charged attention. Faeries so narrowly constrained by their roles that they are little more than machines are known to the Order, but they are thought of as the weakest creatures from their realm. The Egyptians may have found a way to completely strip their faerie gods of personal volition, so that a "priest" was anyone mouthing the right noises in the right robe. If this is true, some of these volitionless faeries are still stuck in their statues, unable to desire to flee.
 
-#### **Engineered Heightened Emotional States in Priests**
+#### Engineered Heightened Emotional States in Priests
 
 If a person offers the right type of attention in a heightened emotional state, faeries might reward him with a mystical effect, regardless of his lack of magical power. These sorts of ecstatic cults were known to, but considered uncivilized by, the Egyptians. Some of the darkest magic that they forbade, which called up the things from beyond Duat that were inimical to all life, was conducted this way. Such creatures may be dark faeries, but may be Infernal demons. If this is true, then anyone doing the abhorrent things in these books may be able to call up dark beings, regardless of magical talent.
 
-#### **A Source for the Gentle Gift**
+#### A Source for the Gentle Gift
 
 All the pharaonic priesthoods seem to have Gently Gifted members. It's possible that the Gentle Gift was granted to pharaonic priests by a Mystery Initiation. Characters who can find the ghosts of priests, or the Initiation site, may be able to self-Initiate. Houses like Jerbiton and Mercere that value Gently Gifted members may support the scheme. If the Gentle Gift becomes readily available in the saga, the troupe may consider offering a new Virtue to any player characters who have already selected that Virtue.
 
-## **A Caste of Servants**
+## A Caste of Servants
 
 The true wizards may have cast magic from a distance, and used mortal proxies. If this is true, the symbols of office for these proxies are magic items that allow magi to cast spells from a distance, perhaps at less than Arcane Connection range.
 
-#### **Mystery Initiations**
+#### Mystery Initiations
 
 Priests may have developed individual powers as Virtues earned via Ordeal. The scripts of these Ordeals may be known to faeries, retrieved from the dead, or found in ancient inscriptions.
 
@@ -2621,7 +2621,7 @@ The ancient Egyptians recognized a mystical force flowing through all things. He
 
 changed between the between the recording of the rite and the present. Spells which accurately and precisely foretold the future were nullified by the Silencing of the Oracles. The Egyptians themselves said that some of their spells no longer worked because their gods, though long-lived, could weaken and die with age, making their rituals void. The rubric (ceremony of performance) in some spells is not written in detail because the priests observed purity at all times, and so did not need to be told what that entailed. Faeries interested in the role and able to complete the bargain it contains may simply not notice the caster, or be nearby.
 
-# **Troupes Not Using** Realms of Power: Faerie
+# Troupes Not Using Realms of Power: Faerie
 
 Troupes not using the Faerie Rite rules could instead use the Hermetic system, under the following rules.
 
@@ -2655,7 +2655,7 @@ These are being treated as casting tablets, for those troupes who use the *Coven
 
 Transitionary magic items are not actually enchanted at all. They are a way for Faerie-aligned magicians, like those described in this section, to create items similar to those available to Magically-aligned talisman makers. A transitory magic item is an object which has supernatural properties, but only for a single use, and, in many cases, for a particular user designated at the moment of the item's creation. The two most common forms of this in Ancient Egypt were temporary amulets, and liquid which affected the drinker.
 
-#### **Temporary Amulets**
+#### Temporary Amulets
 
 A temporary amulet is not actually enchanted – rather it is an object on which a spell with the Until Duration has been cast. This Duration, only available to Faerie Magicians, allows an effect to continue indefinitely until a condition is met. In this case, the spell continues Until the amulet has been worn and discarded. Unworn amulets are often found in tombs. Some of the more skilled grave robbers can compare their contents and inscriptions to temporary amulets previously used, and determine their likely effect. Unlike modern items with Until durations, Egyptian talismans do not lose their power when their creator dies: this may be because many are created by faeries on behalf of mortals, or are mocked up by faeries slightly before their modern discoverers arrive.
 
@@ -2665,7 +2665,7 @@ Many temporary talismans contain un-
 
 clean things, in the belief that this will scare spirits away. Pieces of preserved dog, various types of dung, and menstrual blood are used to keep away faeries with Ward flaws. The demons of the underworld live backward to normal people, and have mouths in their anuses and anuses in their faces. Honey, which is sweet to the living, is bitter to them, and can be used to scare them away. They are also repelled by garlic, the name of which sounds similar to the word "harm" in ancient Coptic, and the similarity of individual cloves to monstrous teeth threatens them.
 
-## **The Statues Just Hold Faeries, They Are Not Enchanted**
+## The Statues Just Hold Faeries, They Are Not Enchanted
 
 Merinitia magi argue that the statue is, of itself, not magical. Consider a typical magical statue of this type: a cippus of Horus. When water is poured on this statue, and collected as it trickles off, it becomes a powerful medicine. From the perspective of a Hermetic Faerie Magus, the statue of Horus isn't really a magic item: it's a clever way of making an open offer to nearby faeries.
 
@@ -2674,13 +2674,13 @@ The bargain works like this: if the faerie transforms the water into a powerful 
 Although the priests creating the statues often gave them cosmetic powers using Faerie Rites, a statues might be completely mundane. The humans coming to pour water over it have a narrative in their minds which the faeries can read and respond to.If the narrative dies out, a faerie which wanted to rekindle it might use its powers to send dreams, or make the statue talk.
 
 
-#### **Seals**
+#### Seals
 
 Seals are a form of temporary magic item. They either maintain a spell, by being the focus of an Until Duration (that, like Egyptian talismans, does not end at the deal of the caster), or they act as wards. Egyptian seals of this type are remarkably similar to Watching Wards. A spell is contained inside, and maintained by, a ritual cast upon the seal. When a precondition named at the casting of the ritual is met, the spell is cast. In most cases, this is the breaking of the seal, but sometimes touching, moving, or illuminating a seal is sufficient to trigger its effect.
 
 Touch played an important part in sealing. Some Egyptian wizards carried ivory staves with hands on the ends, to allow them to touch things more conveniently. In some cults, these devices were talismans, in others a new way of extending the Touch range, and in yet others, a symbolic hand for the Faerie god, so that it did not have to leave its temple to touch things and manifest its powers.
 
-#### **Temporary Potions**
+#### Temporary Potions
 
 Most temporary potions were made by pouring either water or beer over a statue which housed a faerie, in the belief that magic would infuse the fluid. The most powerful objects for this purpose were specially-designed statues of the god Horus, which are called cippuses. Each statue provided a single effect. Other gods could similarly assist their followers, and different gods, with different spheres of divine influence, provided a range of effects.
 
@@ -2690,13 +2690,13 @@ Some magicians preferred to paint or carve the words into a bowl, and then pour 
 
 Egyptian spellcasters thought that magic radiated from the spoken word, and therefore was, for a time, powerfully concentrated in the tongue. They developed odd little techniques which might aid magi, if incorporated into Hermetic theory. These tricks are described in rare texts, which a character must journey to find.
 
-## **The Drawing of Maat**
+## The Drawing of Maat
 
 Some priesthoods, aware of how touchy their gods were, found a way to protect themselves. It involves drawing a skilled portrait of the Goddess of Truth on the tongue. This prevents the character from lying, but it also prevents the character saying false words. A faerie god weaker than Maat, who was considered to embody one of the foundational principles of the universe, was required to play along, and take no offence, if the magician mispronounced words.
 
 A character able to discover how the Mystery of Maat was performed can create a little possessing faerie that sits in the mind of the magus while he casts spells. The faerie checks his words for mispronunciations and corrects them, so that so that botches are less likely. Being possessed by a tiny faerie may, however, have personality altering effects.
 
-#### **Saliva and Breath Ranges**
+#### Saliva and Breath Ranges
 
 When heka is spoken, magic is created, and flows through and over the tongue. This makes anything in contact with the tongue powerfully magical. Egyptian wizards could cast spells more easily if they spat or breathed upon the target than if they touched them. Treat this as equivalent to Personal range, but without circumventing Magic resistance as Personal spells do. This was less powerful than it initially appears, because people were aware of this and so shielded themselves. Even in Mythic Europe it's believed that saliva and breath can carry curses (because some faeries can use shared fluid or breath to create Arcane connections).It would, however, make some Spontaneous Hermetic spells markedly easier. There is no record of the magicians bottling their breath or saliva to delay the activation of spells.
 
@@ -2704,7 +2704,7 @@ When heka is spoken, magic is created, and flows through and over the tongue. Th
 
 Classical authors mention that the Egyptians had a strange art, not recorded elsewhere, of bringing the statues in their temples to life, and of using the statues to create transitory magic items. To secular magi, this entails convincing a faerie to enter into a statue and stay there, performing various tasks. In exchange it is fed vitality by the effect it has on the lives of the people it affects, and through their worship. Technically, the statues are not magical at all: they are just matter the faerie spirit has sheathed itself in.
 
-## **Statue Consecration Mystery**
+## Statue Consecration Mystery
 
 The lectors performing this task often had no theoretical framework for their actions. Those in larger temples often followed a detailed series of written instructions. Those in smaller sects were guided by a highly cognizant faerie, repeating steps taken by priests in the larger temples. The method of consecration is currently lost to humans, but could be found if a temple li-
 
@@ -2728,11 +2728,11 @@ Hermetic magi, who doubt faeries have consistent roles, suggest that in this cas
 
 actually choreographies for rituals which aid the character making the Communication roll. Performing the ritual in a temple with a Faerie aura, or while miraculous things are occurring due to faerie rites read by other priests, also aids the roll.
 
-#### **Intermediary Statues**
+#### Intermediary Statues
 
 Some of these priests also consecrated temple statues for themselves. The ghost of the priest is bound to, and may animate, the statue after death. In exchange for offerings from supplicants, it agrees to take prayers to the gods in their homes. Other servants, like guards and spies, might have similarly been honoured with statues to anchor their ghosts while in this world.
 
-# **Where Did All the Magical Statues Go?**
+# Where Did All the Magical Statues Go?
 
 Two great events destroyed many of the active statues, leaving only those locked in tombs and lost monuments intact. The first of these was the Roman invasion in 30 BC. The Romans knew they could banish these gods merely by smashing their statues, and so they destroyed as many as they could. Player characters menaced by a faerie god can similarly seek out and deface its image. The second occurred in 2 AD, when Christ and his family fled to Egypt to avoid the purge of Herod. Some writings say that when he entered the country, there was a great shaking of the earth, and all of the statues fell down and were destroyed. The veracity of these accounts is questionable, as some statues, like the Father of Dread, clearly survived. It may be that only those statues currently inhabited by faerie gods were destroyed.
 
@@ -2742,11 +2742,11 @@ Some of the statues may simply have been used up. Making statues move causes wea
 
 Certain types of ancient amulets are considered particularly promising by Hermetic researchers.
 
-#### **Ib Scarab**
+#### Ib Scarab
 
 These amulets do not act at Touch range, despite being worn. The Ib Scarab was designed to allow the dead person to lie undetectably to the gods at the final judgment. From a mystical perspective, it replaces the heart, and so can create effects at Personal Range. If the Ib Scarab is lost, it acts as an Arcane Connection to the owner.
 
-#### **Seals With Royal Names**
+#### Seals With Royal Names
 
 The name of a god, which includes dead pharaohs, is a sort of emanation of their power. This is why, after a palace coup, it was important to destroy all of the inscriptions of the name of the ousted rival. These royal names have a little Magic Resistance, perhaps as high as 5 points. Some people carry these royal names because they think curses may be deflected if they catch the name in their area of effect. The royal name grants the wearers no resistance, but may accidentally protect them while protecting itself.
 
@@ -2772,7 +2772,7 @@ Egyptian stories cite rare examples where a magician of this sort went through w
 
 The most common magicians were priests who served small, local spirits, and had a role similar to that now played in Christian Europe by the village witch or blacksmith. These priests were not necessarily Gifted, and had little power. This is the only form of Ancient Egyptian magic that still thrives in 1220, although it has changed name and form, and aligned itself with Islam. Faerie-aided Murabits may claim to venerate the bones of inspiring mortals, but they are really the servants of faeries with strong local stories.
 
-# **The Treasures of Ancient Local Priests**
+# The Treasures of Ancient Local Priests
 
 Troupes with earlier supplements might design these remnants in several ways. The simplest have Virtues like Faerie Friend. Some of these priests of local gods could be designed as Faerie Doctors (*Realms of Power: Faeri*e, page 118). If designed as Faerie wizards, they specialize in Weal Rites (*Realms of Power: Faerie*, page 129). If they are designed as Faerie Bargainers, they specialize in Bonding (*Realms of Power: Faerie*, page 132). The grave goods of ancient Murabits can serve as goals for Mystery Quests. The ghosts of dead local priests can act as mystagogues, often fading away once they have prevented the extinction of their priesthood.
 
@@ -2788,7 +2788,7 @@ Troupes with earlier supplements might design these remnants in several ways. Th
 
 to have stood still for three days, stuck like a boat on a sandbank, so that none could sleep and the crops withered. Such miracles are beyond the scope of any save the Divine, so they cannot have occurred.Either faerie gods pretended they could occur, because the fear of the populace is so delicious, or they conspired with the magician to cause people to either experience the events through glamor, or to remember that they occurred.
 
-#### **The Writings of Those Who Threatened the Gods**
+#### The Writings of Those Who Threatened the Gods
 
 The writings that can be recovered from these magicians come in three types. The first are detailed scripts, like those which have been left by by lectors, but which Enchant rather than Evoke. Groups not using *Realms of Power: Faerie* should use the rules in the earlier insert. The troupe should model a spell which gives the final effect, not the control of the faerie providing that effect. The second type of writings are merely detailed scripts for the threat, to attract the faerie's attention. These grant a bonus to the casting total of a particular Rite. The final variety are texts which Initiate characters in Mysteries. These provide Virtues which improve their capacity to enchant faeries. These may include Special Circumstances, Puissant Enchantment or Magical Focus.
 
@@ -2800,13 +2800,13 @@ The writings of these crafters have also
 
 been recovered. These books can used and understood by those who speak Coptic. One book of Egyptian magic, describing this group's work, has been circulated in Europe, and created the Learned Magician tradition (see *Hedge Magic: Revised Edition*).
 
-#### **Relationship to Learned Magic**
+#### Relationship to Learned Magic
 
 Ancient Egyptian craft magic, at its simplest, focused on the creation of three types of objects: amulets, talismans, and curses. An amulet protected the wearer, a talisman made life easier for the wearer, and a curse hurt something else. This is very similar to the Learned Magic tradition, which has three Techniques, for protection, assistance, and harm. The Learned Magic tradition has Luck, Magic, and Health forms. These can be used to simulate a wide variety of Ancient Egyptian effects, but individual priesthoods may have had other forms or techniques. Learned magic can be boosted by aid from spirits from the Four Realms. In Egypt, the ready access to powerful faeries and magical spirits may have made this easier. Learned Magic has a limited series of Ranges, Target and Durations: Egyptian magic does not have these limitations. Learned Magic also has Difficult Arts: this was not the case for Egyptian Magicans, and is a relic of the origin of the Learned Magic tradition: a single book intended to be studied as part of a wider corpus.
 
 Troupes using the Learned Magician rules to create Egyptian spells should assume that the Egyptians had very high casting and laboratory totals, reflecting their generations of accumulated learning, and access to potent lab texts.
 
-## **Grave Weapons**
+## Grave Weapons
 
 Egyptian demons and ghosts were thought, in some sense, to resemble birds. People were buried with weapons that were used to snare birds, to allow them to fight off demons on their trip through the underworld. The most common of these weapons is a throwing stick with an effect similar to *Faerie's Eternal Oblivion* upon it. Others had nets, which have ReVi effects which immobilize the demons, allowing their victims to flee, or stab the defenseless enemy.
 
@@ -2814,7 +2814,7 @@ Egyptian demons and ghosts were thought, in some sense, to resemble birds. Peopl
 
 Troupes not using *Hedge Magic: Revised Edition* should just design amulets as Hermetic items.
 
-#### **Color**
+#### Color
 
 The color of amulets is significant in Egyptian magic. The color of magic is black, but green is also widely used, presumably because it attracts faeries. The color blue is used for invoking gods, due to its heavenly associations. Yellow, orange, and some shades of red are all the same color to an Egyptian magician, and they are excellent for fire magic.
 
@@ -2826,7 +2826,7 @@ The priests of Egypt, who drew their power from the Faerie Realm, also used to t
 
 
 
-#### **Shape**
+#### Shape
 
 Many amulets were made in one of a limited variety of shapes. The most popular is a representation, in precious metal, of the linen bags used to make temporary talismans. Many other charms portray a thing from which the wearer borrows a Virtue or other quality while the item is worn. Most charms have the symbol of the Wedjat eye upon them. Thoth, the Lord of Amulets, is often evoked in inscriptions on the sides of amulets.
 
@@ -2838,7 +2838,7 @@ Outside the system of religious service, Egyptian tales, and funereal goods, rev
 
 This group of wizards was considerably scarcer, and more powerful, than the Keepers of the Books.They were religious, but used their status with powerful faeries to bully lesser Magical spirits into obeying their commands. Their magic was similar to that of spirit masters, and they are an ancestral tradition to the sihr, the modern wizards of Egypt, described in *The Cradle and the Crescent,* a Hermetic variant of whom are found in *Houses of Hermes: Societates.*
 
-## **Contained Spirits**
+## Contained Spirits
 
 The most durable of the treasures left by the commanders of spirits are creatures trapped in mystical containers. These creatures, who may be either faeries or magical creatures, can communicate with whomever holds their container. A bargain struck with these beings is binding, but only the specific words, not the intent, need to be adhered to. Most trapped creatures are found in tombs, but in Ancient times most were buried in religious precincts. It was thought that the gods would watch over the prisoners and prevent their escape.
 
@@ -2846,11 +2846,11 @@ Some creatures, who are grateful for rescue and like their rescuers, forgo oppor
 
 Most rescued creatures resent their loss of freedom, first to their container, and then to the human they must serve, however briefly, before they are liberated. If the captured being is a faerie, some magi suggest, it is best to just give the creature its freedom immediately and unconditionally. This is a gift, and many faeries are required, by their nature, to give a gift in exchange. Their gift must be worth as much as to the human, from the faerie's odd perspective, as its freedom. Although the player character has little control over what gift is given, or what trouble accepting it may cause, the character does not need to deal with a truculent faerie. A character similarly liberating a magical creature should expect no reward, and unconditional freedom does not prevent the being attacking its benefactor.
 
-# **Insight and Ordeals Suited to Hermetic Magi**
+# Insight and Ordeals Suited to Hermetic Magi
 
 This tradition, which used the Magic Realm as its main source of mystical power, is the most directly suited to Hermetic adaption. The writings of Egyptian magicians of this type are valuable as sources of research Insight and new Mystery initiations, but are also treasured by the Sahir, who wish to learn them, and the Coptic monks, who want to stop them falling into undeserving hands.
 
-#### **A Note on True Names**
+#### A Note on True Names
 
 Many kinds of spirit magic are made easier if the caster knows the true name of the target. Ancient Egyptians were very casual about True Names. In many tombs, a list of the Ka names of the owner, and all his servants, can be found. The owners had these rolls made because it was considered undignified to wander about the Fields of Turquoise calling out for your table-steward as if he was a lost dog. If you had his true name (also called a ka name or a ren), he answered a summons immediately, and you wouldn't get any of the millions of other men called "Moses."
 
@@ -2865,7 +2865,7 @@ All authorities agree that the most powerful magicians described in Ancient Egyp
 
 The most surprising feature of Egypt, for travelers from outside the region, is that its largest cities are so young. Three of the four largest cities, Cairo, Damietta, and Qus, have only had their current size and prominence for a handful of decades. Egypt may be an old land on an eternal river, but its society is in constant flux. This is reflected in cities that have ancient landmarks surrounded by new suburbs, and where the local nobleman may have spent his teenage years as a street thief or mercenary.
 
-#### **A Note on Auras in Egypt**
+#### A Note on Auras in Egypt
 
 The Dominion aura of the holiest places and pilgrimage sites might reach as high as 10, but generally places of worship have a Dominion aura of 4, the cemeteries and homes of the People of the Book have an aura of 3, the places of work of monotheists have an aura of 2, and land from which the call to prayer can be heard has an aura of 1.
 
@@ -2928,11 +2928,11 @@ Most professional Egyptian soldiers have seen naphtha bombs, and so do not panic
 
 Rare specialists can create more potent effects than those listed above. The finest alchemists in Egypt, excepting perhaps those who serve the household of the sultan, are, however, Christian monks. They have little interest in experimenting with better grenade designs.
 
-#### **Making Naphtha With Magic**
+#### Making Naphtha With Magic
 
 Naphtha can be created with Creo Aquam spells, and is a processed natural liquid. This gives Creo Aquam spells a Base level of 3, and the Base Individual target is a pool one foot across and six inches deep, regardless of the viscosity of the naphtha. This is about one and a half gallons. naphtha created outside a container ignites immediately, due to contact with air.
 
-#### **Fustat**
+#### Fustat
 
 Fustat was the capital of Egypt until its destruction in 1168. Prior to 1168, Shawar, the vizier of Egypt, had kept the country's Syrian and Christian neighbors at bay by playing them against each other. In 1168 Amalric of Jerusalem invaded. Sawar or-
 
@@ -2947,15 +2947,15 @@ The people of Fustat, one of the largest and most prosperous cities in Mythic Af
 
 Under the reign of Saladin and his immediate successors Fustat and Cairo were encircled by a single defensive wall.This is still under construction by innumerable Christian slaves, preferably from the Eastern Empire, because Byzantines are attributed with unparalleled skill as builders by the Egyptians. Although the single wall has made Fustat part of the capital, the ruined city has never been systematically rebuilt. It is a part of town where noxious trades are carried on, and waste is dumped.
 
-#### **The Maristans**
+#### The Maristans
 
 The Cairo Hospital, supported by the Sultan, is one of the finest in the world. It is a center not only for medical treatment, but for research and teaching. Students travel from across the world to serve in the hospital. The building itself was originally a royal palace, and was given to the sick as an act of charity. The palace opposite was then turned into a women's hospital. Finally, a third building was constructed, for the treatment of the insane.
 
-#### **Mosque of Ibn Tulun**
+#### Mosque of Ibn Tulun
 
 This is the oldest mosque in Cairo, and one of the finest. It was originally built as a personal mosque by Ibn Tulun, the governor of Egypt, and adjoined his palace. His capital city, called Al-Qatta'i, has been completely demolished, with only this building left standing as successive capitals have grown about the site. It was constructed with treasure found by Ibn Tulun, reported to be over four tons of gold, on a single excavation. This mosque is reserved for the free use of students and travelers from the Maghreb, and supported by a subsidy from the sultan.
 
-#### **The Nilometer**
+#### The Nilometer
 
 A nilometer is a device to measure the height of the floodwaters of the Nile. The nilometer at Cairo is, in a legal sense, the official one, but many people keep their own nilometers as well. A suspiciously large number of old Coptic monks keep nilometers, and those who believe they retain some of the magic of the Ancient Egyptians consider these ritual objects. The monks gently mock this superstition.
 
@@ -2965,17 +2965,17 @@ The Cairo nilometer is a white, octagonal marble column kept in a square well ne
 
 As one of the most effective hospitals in the world, these buildings are a great place for player characters to recuperate after traumatic events. The hospitals cure the sick, but also have bath-houses, an excellent library, and free lectures where the interested, including recuperating patients, can develop their Medicine skill. Alchemists, paid for by the sultan, dispense basic cures, and can refer patients to more specialized care.
 
-#### **Perfect Ingredient**
+#### Perfect Ingredient
 
 A plague has broken out in Egypt. The characters discover that it was last seen three hundred years ago, and that a particular scholar cured it somehow. An account by one of his students is found in the library of the Maristan, It says that a peculiar talisman was used to seal the illness into the pit where the final victims were laid. It also gives accidental clues to the location of the pit. The head of the Maristan, on becoming aware of this, sends an expedition.
 
 The pit has been opened by grave robbers, who have carried off the talismans as spoils. While they own the distinctive talismans, they will not become ill, but can carry the sickness to others. The Maristan and the Guild of Seekers combine to track down these men, examine the talismans and find a way of replicating them. Each requires a rare ingredient, which the player characters are encouraged to fetch. A rival group has discovered the Maristan's plan, and wishes to harvest as much of the ingredient as they can, then destroy the source, so that their stores are of incalculable value.
 
-#### **The Magical Air**
+#### The Magical Air
 
 In Barcelona, previously normal people have begun developing the Magical Air Flaw. This is causing great strife, and some churchmen who have noticed the similarity between this affliction and the Gifted are blaming the Order. A local member of House Criamon has suggested that the Air is caused by an environmental contaminant, but how to find or treat it is beyond his knowledge. The Tribunal decides to try as many strategies as possible, and sends a delegation to the Maristan, to see if a similar problem occurs in their records.
 
-#### **The Returnee**
+#### The Returnee
 
 A young woman in the Maristan for the mentally unwell has begun making ridiculous claims, which would be ignored if they were not in an archaic form of Latin. A Coptic monk suggests that the only time he has heard similar phrases was from a particular scholar, who is a member of the Order of Hermes.The girl claims to be Lucia of the line of Trianoma, returned from Twilight. The girl's parents swear this is not true, that she is the daughter of their bodies and they have raised her since her birth. How then does she know the Parma Magica?
 
@@ -2988,7 +2988,7 @@ If full water is not reached, the sultan's almost-magical ability to pay for thi
 
 The House is a school, said to be in the grounds of the citadel, that prepares agents for the sultan's service. The House does not appear to take many students, perhaps as few as twelve at a time, and it is unclear what its students learn. It is known that the finest smith in Egypt is trained in the House, then retained as a teacher for his successor. An alchemist seems to be trained similarly, although his claim to being the greatest might be contested by some of the Coptic monks. Various diplomats and, if rumors are true, assassins have been trained by the House. Some have theorized that the curriculum of the House changes, depending on the problems the sultan's advisers can foresee, and the skill of the agents who have already been trained.
 
-#### **Teacher of the House (Mystery Initiation Path)**
+#### Teacher of the House (Mystery Initiation Path)
 
 The House is, effectively, a machine to allow intense teaching. It houses excellent teachers, but more than this, it trains specialists in other skills how to teach them. It even provides Initiations that grant Virtues to aid teaching. The Initiation Scripts for teachers of the House require a mystagogue who has a new Ability called Lore of the House, which is an Organization Lore for the Cult. Beyond its ritual use, the Lore of the House includes information about its history, students, missions, and resources.
 
@@ -3004,13 +3004,13 @@ This ritual has script bonus of +7 (Special place and Time (+3), Quest (+3), Los
 
 Some suggest that leaders of the House have undergone, or at least know scripts for, further Initiations, designed for the priesthood from which they descend.
 
-# **Child of the House (Major General Virtue)**
+# Child of the House (Major General Virtue)
 
 A child raised by the House is able to study four seasons a year, under some of the finest teachers in Europe, until becoming an active agent.During advanced character creation, in the Later Life stage, the character may spend 30 experience points per year, and may spend these points on any Ability that does not require a Supernatural Virtue.
 
 Children of the House are fanatically loyal to the sultan, although they are able to hide this when necessary.Some suggest that this is because they are not loyal to the sultan, but merely to the House itself. To represent this, Children of the House are required to take the Code of Honor Major Flaw.
 
-# **Agent of the Sultan (Major General Virtue)**
+# Agent of the Sultan (Major General Virtue)
 
 An Agent of the Sultan has whatever resources the Sultan's advisors deem necessary. Provided work is not necessary to maintain a cover identity, this allows them to train constantly between assignments, for a total of three seasons per year. Agents in Cairo may continue to access the facilities at the House, if the sultan's advisors consider this the best use of the House's resources. This Virtue is, in a sense, an equivalent of the Wealthy Virtue.
 
@@ -3022,33 +3022,33 @@ An Agent of the Sultan may not leave the sultan's service. A character who has, 
 
 The mastabas and pyramids of the Gizeh plateau are of little interest to most Egyptians, because it is thought particularly dangerous, even for a necropolis. It is rumored haunted, particularly at night. Its greatest guardian is the Lady of the Tombs. This seems, on the basis of limited accounts collected by Alexander of Jerbiton, to be a potent faerie once worshipped as Isis, that has slowly changed its role as its story has evolved. She seems to be able to call all of the other faeries in the area, and, most terribly, to rouse a faerie variant of the Father of Dread.
 
-#### **Pyramidions**
+#### Pyramidions
 
 Of the three main pyramids here, only one has its capstone (called a pyramidion). The other two have, with great difficulty, been stolen and hidden. Pyramidions are powerful tethers, so they create Magical auras, but they are small enough that a spell or a cart can carry them. Who needs a mobile aura, and what have they been using it for over the last few hundred years?
 
-#### **Aristotle**
+#### Aristotle
 
 The tomb of Aristotle is a pilgrimage site for scholars from across the remnants of Alexander's Empire. His philosophy lies at the root of much of Western philosophy, theology and magic theory. The strange thing is that only about one third of Aristotle's known works are available in Mythic Europe. Aristotle divided his writings into the exoteric, which were meant for publication, and the esoteric, which were personal musings, lecture notes and private correspondence. The third available seem to be mostly esoterica.
 
 There's a chance that copies of the missing books, particularly those polished for publication, were buried with Aristotle. If a complete set is recovered these books provide a better understanding of how the world works, and provide a great deal of Insight over a wide range of projects. They also revolutionize many Abilities, rescaling them. All readers gain a +3 bonus on all Artes Liberales rolls, and others depending on what Aristotle wrote about. Incomplete sets also provide Insight, and act as books of very high level in their appropriate Abilities. The temptation to dig into the side of his pyramid is strong. Fear of the defenses has, however, proven stronger.
 
-#### **Where is Alexander?**
+#### Where is Alexander?
 
 The biggest pyramid in Egypt, according to most of the guides talking to those seeing the ruins, was designed for Alexander the Great, but he was never placed inside. According to ancient Egyptian custom, whoever buried pharaoh was the next pharaoh, so Ptolemy stole Alexander's corpse, and buried it in secret. For a long time, people though he was in a particular sarcophagus, but this was a diversion, and really belonged to the final king of the dynasty before the Ptolemies. Hermetic magi actually know Alexander was buried in Memphis, and then Alexandria, and even have some idea of where. None of the local faeries care, and so treasure hunters keep coming back to Cairo with coins, amulets and papyri that hint they come from Alexander's tomb.
 
-#### **Herodotus: Three Pyramids**
+#### Herodotus: Three Pyramids
 
 Herodotus and Manetho, two historians widely read in Egypt, have a different set of inhabitants for each of the pyramids. The large pyramid belonged to King Cheops, who closed the temples, and forced everyone in Egypt to aid in its building for ten years, and when he ran short of money prostituted his daughter to finish the project. His brother, Chephren, likewise kept the temples closed and oppressed the people. The third king, Cheops's son Mykerinos, gave just rulings, reopened the temples, and allowed the people to go back tho their professions. Since Egypt had been cursed to 150 years of suffering, he was opposing the will of the gods, who killed his only child and cut his life short. He responded to the message he had only six years to live with a concerted attempt to develop magical items which slowed time. Some suggest he was successful, and his magical lamps create a room-sized Faerie regio in which time travels more slowly. The location of his lamps is, however, unknown.
 
-## **The Isle of Gold at Gizeh**
+## The Isle of Gold at Gizeh
 
 The throne of the pharaoh who abused Moses was sunk deep into the Nile by God. It is still there, and becomes visible in famine years when the Nile is low. Strangely, no one has ever attempted to recover it.
 
-#### **Sand of Hermes**
+#### Sand of Hermes
 
 It is widely reported by pilgrims that the sand of the plateau, if carried as a talisman, increases Intelligence. This effect may be due to the presence of faeries which use the Grant Virtue Power to grant Improved Characteristics to some of the scholars who come to the tombs. These faeries withdraw their gift if the characters cease to study the ruins. Characters with unfortunate personal weaknesses can be manipulated by this into spending their lives looking at one confected tomb after another, discovering ultimately meaningless things while feeding the faeries' need for attention.
 
-#### **The Crocodiles of Gizeh**
+#### The Crocodiles of Gizeh
 
 At the highest point of Gizeh are statues of marble crocodiles. These keep real crocodiles out of their line of sight, protecting the river for three miles in each direction. Some say they were created by the Third Hermes himself. They have never been assessed in a laboratory by Hermetic magi, so their exact function is unknown.
 
@@ -3060,17 +3060,17 @@ There are many stories about *Abu 'l-Ahwa*, "the Father of Dread." The Greeks ca
 
 The city of Alexander has fallen far from its days as the center of learning for Mythic Africa, and yet some fragments of its time of prominence remain.
 
-#### **Foreign People**
+#### Foreign People
 
 If the player characters want to mount an expedition into the east, Alexandria may be a convenient starting point. Alexandria is still relatively open to outsiders, not merely pilgrims from Iberia and North Africa, but also traders from France and Italy. This means it is one of the easier places to reach where magi may hire servants who speak eastern languages, and can give information about traveling there.
 
-#### **Library**
+#### Library
 
 The Library of Alexander has been burned by so many people that the stories conflict, but many local stories agree on one point: part of the library has survived. Local Egyptians remember Queen Cleopatra not, in the Roman tradition, as a seductress who used her wealth and body to enslave men, but as a scholar and alchemist who, when the kingdom was threatened, took wise precautions. Many think that her grave, which has never been found, may give clues to the location of a secret repository of books from the Library of Alexandria.
 
 Others say that the land the library was founded upon slid into the sea. The Egyptian habit of writing by carving in stone means that if any of the walls remain intact, magi with suitable spells might salvage their teachings from the depths.
 
-#### **Lighthouse Mirror**
+#### Lighthouse Mirror
 
 The Lighthouse (or Pharos) is one of the remaining wonders of the world. It has suffered repeated damage and reconstruction, so its tower is now abbreviated, and capped with a mosque. Some magi claim that there is a powerful aura on the whole island on which the Lighthouse rests, while say that they have tested this claim, and no aura was discernible.
 
@@ -3084,7 +3084,7 @@ The mirror went missing some time ago. A Byzantine spy spread rumors of treasure
 - A powerful magus in the early stages of planning an Alexandrian covenant has been distracted by the Christians feuding in Damietta, and wants to remain there for the time being. He pays the player characters to live on the island for a year, and discover the reason for the inconsistent reports concerning its aura.
 - The side of the Lighthouse has an inscription to the memory of the architect, which only became visible centuries after his death. The inscription originally flattered the king who sponsored the Lighthouse's construction, but the masons carved this into a thin layer of lime plaster, which in time cracked away, revealing the final inscription underneath. Another sheet of lime plaster has fallen away, and was concealing a detailed prediction concerning future events in the Order. Is it a hoax? If it is genuine, are there any other messages hidden on the building? Can whoever wrote them be trusted?
 
-#### **The Mystery of the Oil**
+#### The Mystery of the Oil
 
 Pilgrims who visit Alexandria often remark on a strange habit of the people of this city: they are as active at night as during the day. This perhaps stems from the port: cargoes are unloaded unceasingly, night and day. Workers need food and other supplies at night, so traders seeking their custom stay open very late. Their suppliers in turn stay open late, until the whole city has a vibrant culture which never stops, and indeed barely slows down. No one has noticed that this doesn't make economic sense.
 
@@ -3092,23 +3092,23 @@ The reason other ports don't operate around the clock is that oil, for lamps, is
 
 There is no satisfactory explanation for the cheap oil in Alexandria. If Alexandria was on the other side of the Mediterranean, the Quaesitores would be checking for Hermetic magi making oil using Creo magic. If Alexandria is settled by a covenant, the Quaesitores ask for this matter to be thoroughly investigated, and if unsatisfied with the answers, send a team of Quaesitores and hoplites, as a clear message that the remit of Hermetic law now extends to North Africa.
 
-#### **Tourism**
+#### Tourism
 
 Wealthy people of classical education come from across the world to wander the ruins of Alexandria, a copy of Diodorus or Arrian in one hand and a helpful guide tugging the other. The Jerbiton rite of passage known as the Itinerarium, which is a form of extended holiday to places of great artistic significance, does not generally come this far south, but a suitably skilled Jerbiton might lead a band of apprentices here. The players can either act as guards for the apprentices, or rescuers when unexpected obstacles arise.
 
 
 
-#### **Saladin's Citadel**
+#### Saladin's Citadel
 
 As part of his project to encircle Old and New Cairo in a defensive wall, Saladin created a central strong point, the citadel. The citadel is incomplete in 1220, but it has been the center of government for decades, and as construction continues the bureaucracy of Egypt keeps centralizing in this complex.
 
 The citadel contains the sultan's living quarters. Among his innumerable treasures is the library. The last great census of the library occurred in the time of the previous, Fatimid, dynasty. It contained 600,000 books, 18,000 specifically on magic, astrology and alchemy.
 
-#### **Tombs of Qarafah**
+#### Tombs of Qarafah
 
 This cemetery is filled with the tombs of relatives of the Prophet, and his companions. It fills a large area, and includes four great congregational mosques, with many smaller mosques and theological colleges. The poor, scholars and travelers are welcome to stay in the smaller mosques. The sultan pays for the upkeep of these places, and the living costs of many of the inhabitants. This costs him a couple of thousand dinars a month, and is considered a marvel by pilgrims. Magi might be either scholars, if they are staying here, or travelers if they are passing through, and so can live here, supported by the generosity of the sultan, if they wish.
 
-## **The Gizeh Necropolis**
+## The Gizeh Necropolis
 
 The Gizeh Necropolis lies about a day's travel south of Cairo and contains three great pyramids, and a colossal statue of a lion with the head of a man. The contents of these structures has been the matter of some debate. Travelers report many strange local beliefs. Some say that Aristotle is under one of the Pyramids, and that the largest was prepared for Alexander, but that he was buried in secret instead. Some say they were built by a pharaoh to save the wisdom of his people from the Flood of Noah. Others say that, much like the impossible number of tombs found elsewhere, the buildings were miraculously created by Allah, or a false god, like Hermes. Saladin's son attempted to demolish the pyramid closest to the great statue, and it shows damage to this day. He was following the most widely
 
@@ -3166,7 +3166,7 @@ Al-Kamil could see no way to retake Damietta. The city had fallen without damage
 
 There are many little side stories from the history of the Fifth Crusade that offer story seeds for troupes.
 
-#### **Breaking the Chain**
+#### Breaking the Chain
 
 The approaches to Damietta are protected by water, and a stout chain, strung across the Nile, prevented troops landing on the firmer ground behind the city. The chain ran from the city walls, across the navigable channel of the river, to a small tower on an island. Destroying this chain took a month. Two groups of people are absolutely certain that they destroyed the chain.
 
@@ -3180,7 +3180,7 @@ The odd thing is that some of the leaders of the crusade believe that both stori
 
 Is this a miracle, hidden by Divine power, or the machinations of two powerful faeries, contesting for the vitality of the crusaders?
 
-#### **The Defeat of the Kurds**
+#### The Defeat of the Kurds
 
 The Christians were able to destroy the first Egyptian army due to infighting.The Sultan heard rumors that the general of his largest contingent of warriors, the Kurds, was preparing a coup against him. With a great deal of dramatic flair, the sultan burst into the tent where the conspirators were meeting, and at the precise moment they all had their hands on a copy of the Qur'an making oaths to depose him. Taking them all prisoner, he returned to Cairo, to consolidate his position, in case conspirators were also active there. His army scattered when they woke, as their leader was gone and his general was a prisoner.
 
@@ -3188,7 +3188,7 @@ Is the conspiracy to overthrow the sultan a mundane plot? It might have been gen
 
 
 
-#### **Damietta in January 1220**
+#### Damietta in January 1220
 
 The Christians were able to keep their rivalries in check while there were no spoils from the the war. Now that Damietta and much of the surrounding land has been conquered, the leaders have fallen out completely. John of Brienne assumed that Damietta was to be part of the Kingdom of Jerusalem, but Pelagius has said this is not the case, although he has not said to whom it should belong. Somehow, Pelagius has also offended both crusading orders, so they now support John of Brienne.
 
@@ -3202,17 +3202,17 @@ Merchants from Egypt meet their equiva-
 
 ## Story Seeds from the Fifth Crusade (Cont'd)
 
-#### **Pulling it All Down**
+#### Pulling it All Down
 
 In real world history, the Egyptians decided that the loss of Damietta could never again be permitted. To prevent this they pulled Damietta down, and replaced it with a new city, also called Damietta. The new site, a mile and a half away, was better defended by both by expensive fortifications and by its geography. As Damietta's buildings are pulled down, to provide building material for the new city, treasures and secrets are revealed. Ghosts are disturbed, and the hidden cesspits of the servants of the Infernal are exposed.
 
 The selection of the new site, if carefully manipulated by magi, might include ancient tombs, with Magic auras, creating lacunae in the city's Dominion.
 
-#### **Pelagius's Destiny**
+#### Pelagius's Destiny
 
 Pelagius was lifted to the leadership in part because, in Damietta, a prophecy was found which predicted his victory. The prophecy is written in an ancient book, in Arabic, but no one is sure who wrote it, or how it came to be found by a crusader. If the characters can find a clearer version of *Pelagius's Destiny,* as the book has come to be called, they can trade it to either side for valuable concessions. Alternatively, they can use the material it contains to manipulate events themselves.
 
-#### **What Happens Next?**
+#### What Happens Next?
 
 In the real world, the Fifth Crusade failed. This might not happen in Mythic Africa, so here are some key events to hang stories on. The player characters may alter the flow of these event at any time, sometimes with quite subtle manipulation.
 
@@ -3228,43 +3228,43 @@ This goes spectacularly wrong. The Teutonic Knights set fire to most of the supp
 
 As it is the second city of Egypt, there are many stories which may begin in Qus.
 
-#### **Akhmim**
+#### Akhmim
 
 Pilgrims traveling south to Qus usually pass through a city called Akhmim, which is likely to be of interest to Hermetic magi. Arabic writers say that wizards live in a temple there, and are served by moving statues, or perhaps moving reliefs on the walls. The travelers' reports say that the statues fulfill the desires of the magicians, and yet these magicians have no political power. They do not, for example, politically dominate the town surrounding their temple.
 
 There are many theories as to why these wizards have not taken control of the surrounding area. Some magi, who note that the town is named for a god who in classical times was seen as equivalent to Pan, suggest their magic is weak outside the Faerie aura of the temple. Some Christians call them worshippers of Asmodeus, and say they are kept down by the imminent wrath of God. Some Muslims counter that they serve a Divine being, and avoid contact with the outside world for pious reasons.
 
-## **Escort**
+## Escort
 
 A redcap or magus wanting to explore Ethiopia or Arabia asks for an escort to Qus. The character wants to contact the merchants who come here. She hopes to learn the language of the distant country in which she is interested, and learn the dangers on the route she must travel.
 
-#### **Keepers of the Roads**
+#### Keepers of the Roads
 
 In emergencies merchants leave their goods by the sides of the road. These are guarded by faeries, who enforce the boundaries of the road, and the moral boundary concerning theft. These creatures do not need to attack their victims; they can simply disorientate them and hide the road, so that the thief dies of exposure or thirst. Characters may be asked to find the bodies of lost merchants, for burial, or to save a merchant who has angered a keeper by theft, but had the good fortune not to die of thirst.
 
-## **Luxor**
+## Luxor
 
 Qus is the closest large settlement to the ancient capital at Thebes, its necropolis, and the temples of Luxor and Karnak. The tombs near Thebes are rock-cut, and likely include those for rulers directly following the odd period under the heretical, monotheistic Pharaohs of the lost city of Armarna.
 
-## **Qift**
+## Qift
 
 The town of Qift is full of Coptic Christians who have been impoverished by the failure of their rebellion. Magi seeking grogs, companions who speak Coptic, and people influential with the Coptic clergy may seek hirelings in Qift.
 
-#### **Smuggling**
+#### Smuggling
 
 The Qusian authorities stringently enforce taxes on merchants, but smuggling is difficult because the narrowness of the Nile Valley acts as a choke point for travel. Magi or their servants, able to travel through the desert, can make a great deal of money smuggling. Shipping goods to the gold miners at Wadi Allaq, and carrying away untaxed gold in return, might be particularly lucrative.
 
 ## Story Seeds Near 'Aydhab
 
-## **Infernal Site?**
+## Infernal Site?
 
 Sultans no longer charge pilgrims to cross Egypt, but the previous dynasty, the Fatimids did. Everyone entering Egypt via 'Aydhab owed a fine of seven and a half dinars. Those who did not pay were hung by the testicles. The names of offenders were then sent on to Qus, and some other places, where, if they were found without proof of payment, the tax agents would do something which medieval travelers refer only to as "worse." The House of Torturers retains an Infernal aura, and minor demons, which encourage locals to rob or murder pilgrims, dwell there.
 
-## **Pearls**
+## Pearls
 
 Characters wanting to make money in this region in an entirely legal way might seek out the nearby islands Surrounding them are seabeds which teem with a silver bivalve. Its flesh tastes like sea turtle, its shells are mother of pearl, and pearls are often found in the brief pearling season, in June each year. Pearls are recovered by divers, but every ton of shellfish gives only approximately four pearls. Some divers pass out as they surface, and these seem to sate the creatures who guard the pearls. If magi make diving safer, these creatures may cease slumbering.
 
-#### **Bujat**
+#### Bujat
 
 Sailing from Jiddah back to ' Aydhab is dangerous, as winds blow people south into the lands of the Bujat, called the Blemmyae by the Romans. According to some travelers, the Bujat rent camels to people and lead them north, but under-supply each caravan. The Bujat then claim the goods and possessions of the people who die of hunger and thirst on the trip.
 
@@ -3273,7 +3273,7 @@ The al-Bujat originally lived around Philae, and were Isis worshippers. They fou
 
 lents from Yemen, Ethiopia, and beyond in Qus. Many complain that in Qus the taxes are levied unfairly. Common complaints are: that goods are assessed for annual taxes, even if they have not been owned for a year; that the assessors do not take into account the minimum possessions and tools of trade which should be exempt; and that the assessors check for smuggling by piercing the bags of good with sharpened sticks. On the other hand, merchants in this area feel extremely safe: a merchant whose camels become ill will often drop loads of pepper, cinnamon or other spices on the roadside, and return in the expectation that these riches will have been left untouched by other passersby.
 
-#### **Aydhab**
+#### Aydhab
 
 'Aydhab, on the Red Sea, has existed as a seedy port for pirates and smugglers for centuries. It has recently become very wealthy, because it is the port by which pilgrims leave Egypt for Jiddah. Travel narratives advise pilgrims to stay in trusted groups here, perhaps with others from the same town or region, for the locals are more like beasts than men, and will rob and murder pilgrims if there is money in it.
 
@@ -3293,15 +3293,15 @@ Most Egyptians live along the length of the Nile, and depend for their livelihoo
 
 Cane sugar is a new crop in Egypt, still found in relatively few areas. If Mythic history follows actual history, it will rapidly expand to be one of the main crops in certain areas of southern Egypt. The rulers of Egypt like growing sugar because, although it needs land which has long been fallow, requires tremendous amounts of water, and is a pain to press for its juice, it is avidly sought by European merchants. Europeans are strangely addicted to sugar, and treat it like a spice. They pay enormous amounts of money for what is, when you have the finances to overcome the setup costs, a relatively easy crop to grow.
 
-#### **Peasant Revolt**
+#### Peasant Revolt
 
 Sugar requires far fewer workers to maintain than wheat or barley. In some areas, nobles who are residents of the capital and have no emotional connection to their territories have demanded the people grow as much sugar as is possible, at the expense of other crops. This creates widespread unemployment, and may even create famine if several nobles in a region all try this simultaneously, counting on their profits to buy wheat from their neighbors. When a horde of starving peasants threaten the interests of the magi, can they deflect their ire?
 
-#### **A Wheel for the Verditius**
+#### A Wheel for the Verditius
 
 Sugar cane is crushed with waterwheels, and a Verditus magus has become interested in their mechanisms. He lives in Greater Alps, and has sent a messenger by redcap, asking the player characters to carefully disassemble the most efficient wheel they can find, and ship it to him. Can the player characters procure such a wheel without disturbing the mundanes, pull it apart without breaking it, and ship it away? Would it be easier just to find the finest maker of waterwheels in Egypt, and send him to the Alps? Do the player characters accompany the shipment through Italy? How do they cope with the nobles attracted by the rumors of a Saracen siege engine?
 
-#### **The Source of the Cane**
+#### The Source of the Cane
 
 Sugar cane appears very suddenly in Egypt, and there are rumors it was given to the first farmers by supernatural powers. Did a demon of gluttony first offer the canes to humans? Are there really faeries that can possess the bodies of children who eat sugar, and make them run madcap?
 
@@ -3316,7 +3316,7 @@ Note that in this system, the nobles move and the farmers have no legal connecti
 
 The calendar of Egypt differs from that of Europe, but for convenience, modern months are used here as approximations:
 
-#### **September**
+#### September
 
 Quince, winter grapes and dates are picked. Citrus begins to be harvested.
 
@@ -3324,29 +3324,29 @@ Balsam is teared out.
 
 Irrigation canals opened. Loan seed is distributed.
 
-#### **October**
+#### October
 
 Rice harvested. Trefoil and turnips are planted. Mytle and nenuphar pressed for oil. The Nile reaches its height.
 
-#### **November**
+#### November
 
 Wallflower, violet, narcissus and horseradish are harvested.
 
 Water is drained from flax fields, seeds are sown.
 
-#### **December**
+#### December
 
 Sugar cane in its second year is harvested and pressed. Other crops harvested include narcissus, carrots, citrus, green broad beans, and white leeks.
 
 Trefoil is sown.
 
-## **January**
+## January
 
 Young sugar cane is harvested. Trees are transplanted.
 
 Waterwheels for pressing cane are set up. Fields are weeded and plowed. Irrigation dykes are breached.
 
-#### **February**
+#### February
 
 Almonds, grapes, lotus fruit, and turnips are harvested.
 
@@ -3354,7 +3354,7 @@ Fields are plowed again, twice more by preference.
 
 Summer crops are planted.
 
-#### **March**
+#### March
 
 Broad beans, lentils and flax are purchased.
 
@@ -3364,17 +3364,17 @@ Summer crops cultivated.
 
 Sugar cane is planted in a field that has been left fallow for years.
 
-#### **April**
+#### April
 
 Broad beans, barley, cereals, cucumbers and roses are harvested.
 
 Flax seeds threshed.
 
-#### **May**
+#### May
 
 Balsam, sesame and rice sown. Crops threshed.
 
-#### **June**
+#### June
 
 Figs, peaches, pears, prunes, mulberries, dates and sour grapes harvested.
 
@@ -3384,11 +3384,11 @@ Flax is soaked. Indigo is planted, and harvested after one hundred days.
 
 Honey is gathered.
 
-#### **July**
+#### July
 
 Flax is drained and dried.
 
-#### **August**
+#### August
 
 Unripe dates are harvested.
 
@@ -3396,11 +3396,11 @@ Summary: Common Crops Along the Nile
 
 Agriculture along the Nile benefits from Egypt's role as a nexus of trade. Crops from all corners of the globe travel here, and are rapidly adopted.
 
-#### **Summer Crops**
+#### Summer Crops
 
 Cabbage, caraway, cotton, cumin, eggplant, green beans, indigo, lettuce, melons, nile sesame, onion, radishes, sesame, sugar cane, taro, and turnips.
 
-#### **Winter Crops**
+#### Winter Crops
 
 Barley, broad beans, chickpeas, flax, garlic, grass peas, lentils, lupine, onions, trefoil, and wheat.
 
@@ -3417,19 +3417,19 @@ The region is called the *bled es-Sudan,* Land of the Blacks, by the Arabs. Geog
 
 The upper reaches of the Nile River have been occupied since the time of ancient Egypt, although little is known of this time. There were a series of kingdoms, one centered around Ballana (near Pakhoras) and another further upriver at Kerma. These smaller kingdoms were conquered and absorbed into a single state under one emperor, under the name of Kush.
 
-#### **The Empire of Kush**
+#### The Empire of Kush
 
 Roman Egypt's southern neighbor, the Empire of Kush was ruled by monarchs called *qores,* the descendants of a line of Nubian pharaohs of Egypt long after their reign ended in Egypt itself. The Kushite people were descended from Cush son of Ham son of Noah, and Kush gained its independence from Egypt a thousand years before the birth of Christ. The capital of the Kushite Empire was originally Napata, close to the fourth cataract, but Emperor Aspelta moved his palace to Meroë in 591 BC, partly to escape from the controlling influence of the priesthood. The priests were the arbiters of *ma'at*, a concept of righteousness and order. *Ma'at* determined the laws of the empire, and through *ma'at* they elected the king and made him a god. Yet, if the priests decided that the emperor had defied *ma'at*, they could issue an order that he commit suicide. Such was their power at least through most of the empire's existence — that the emperor would obey.
 
 Despite the move to Meroë, most emperors were still little more than puppets of the priests, who still had custody of the generations of deceased royalty, interred at the necropoli near their stronghold at Napata. Around 300 BC the Emperor Arqamani finally broke free from theocratic dominance and had all the Napatan priests slaughtered. The capital of the empire was formally moved to Meroë, and a new royal cemetery was built to house the royal dead, free from priestly control. Henceforth the emperors ruled in fact, not just in name, but, without a royal priesthood, were no longer accorded the divine status of their forebears.
 
-#### **The Collapse of Kush**
+#### The Collapse of Kush
 
 Weakened by war with Roman Egypt and Axum, and wracked by internal rebellion, Kush eventually faded into obscurity. The Roman Emperor Diocletian employed a desert people called the Nobatae to defend the southern frontier of his empire against the Blemmyae of the Red Sea hills in 297. The Nobatae settled in the lush riverine valleys of the Nile and established petty kingdoms that treated with Rome.
 
 There was a brief renaissance of Kush in the fifth century when Blemmyae tribesmen captured Meroë and attempted to revive the empire, but this was crushed by the Kingdom of Axum from the south and by the Nobatae in the north. The Nobatae extracted a succession of oaths of submission from the defeated Blemmyae. Eventually, three kingdoms emerged along the Nile: Nobatia in Lower Nubia; and Makuria and Alodia in Upper Nubia. Upper Nubia was conquered by Axum (see Chapter 8: Ethiopia) in the early sixth century, and was its vassal state for nearly a century.
 
-#### **The Conversion of Nubia**
+#### The Conversion of Nubia
 
 In 540, two missions were sent from Constantinople to bring the word of Christ to Nubia: one representing the orthodox or Melkite party under the patronage of Emperor Justinian, the other sent by the Empress Theodora and representing the Monophysite theology, despite it being declared heretical by the Council of Chalcedon some hundred years earlier. Theodora was able to have the Melkites delayed in Egypt, and Julian, the leader of the Monophysite mission, spent two years in Nubia and achieved some success. His successor was Longinus, who did not manage to re-
 
@@ -3443,7 +3443,7 @@ Following the Arab conquest of Egypt, the formerly dominant Melkite Church was c
 
 Especially profitable relations existed during the Fatimid Caliphate in Egypt (969 – 1171), which relied heavily on the Nubians for economic and military support. Part of this success derived from the discovery of gold in the Red Sea hills, which led to a flourishing of Nubian culture in all three kingdoms, and the establishment of ports to trade the new-found wealth across the sea.
 
-## **Salah ed-Din**
+## Salah ed-Din
 
 Upon the downfall of the Fatimids in 1171, the new Ayyubid ruler Salah ed-Din immediately sent his brother Shams ed-Dawla Turan Shah to invade Nubia, to cut off any reprisals in support of Fatimid allies. Nobatia in particular suffered massive destruction, and the city of Premnis was occupied for several years. It is reported that an Ayyubid emissary visited Makuria to see if it was worth conquering, but he reported that the land was too poor, and the Ayyubids withdrew from Nubia and have not returned. This emissary was clearly lying, for Makuria was then and still is at the zenith of its prosperity, nevertheless, his word was considered good, and the Arabs soon retreated north.
 
@@ -3458,13 +3458,13 @@ is the arrival in the area of Bedouin nomads from both Egypt and Arabia. These t
 
 Nubians are a black-skinned people, with wavy black hair; curly hair is considered to be a sign of slave-stock. They tend to be taller than the average European or Arab. Nubians wear light trousers and loose smock-like garments made of cotton; they often have clothes that are brightly dyed in contrasting colors in geometric shapes that are worn to church or on festival days. Important citizens wear a short tunic stiffened with reeds or ivory so that it flares out sharply at the waist; they may wear several layers of these garments, each of a different length and color. Men and women wear gold and copper jewelry: bangles on the wrist and ankle, and hoops around the neck. Strings of beads made from ostrich eggshell, glass, cowrie shells, and wood are common, as are finger rings carved from stone, sometimes with a decorated bezel. Parasols and walking sticks are common, the latter even among the young and hale. Hair is often arranged into elaborate coiffures in both sexes: plaited into rows of tresses or held into topknots by long-tined ivory combs.
 
-#### **Warriors and the Army**
+#### Warriors and the Army
 
 Nubia is famous for its archers; the Arabs know them as "pupil-smiters" and "archers of the eyes" because of their accuracy. Nubian warriors use not only the self bow (which is also used for hunting), but also a complex compound bow with a bone core. Nubians also use expensive iron arrowheads that can punch through thick armor. Melee weapons include spears (both short and long), and short swords. Nubian swords typically have just one sharpened edge. Shields and armor are made of thick oxhide molded and decorated into patterns of raised bosses and ribbed surfaces; most commonly a breastplate and leather skirt suffices, sometimes with vambraces and greaves. Cavalry is an important component of the army, mounted on either lightbodied horses or war camels.
 
 The army is under the command of *exarchs*, each in control of either a division of the royal guard or a frontier garrison. As well as this permanent army, there is also a levy in times of war. Makuria also maintains a small navy on the Nile under the command of two *nauarchs*; the navy's prime purpose is water transport of troops and supplies, although they are trained in ship-to-ship combat.
 
-#### **Attitudes toward the Dead**
+#### Attitudes toward the Dead
 
 Nubians are deeply superstitious about the dead. They attach no elaborate ceremonies to funerals, although by no means do they skimp on the formal burial according to Church doctrine. Covering the face of the dead with a mask or plate is important, to stop death from infecting those who see the corpse. It is unusual for the family or friends of the deceased to attend a funeral, leaving the process to a priest and hired
 
@@ -3486,7 +3486,7 @@ pallbearers. Graves are marked purely to show their location, not to identify th
 
 Alodians take this superstitious dread one stage further. They do not even speak of a deceased individual by name, and prefer not to even refer to their deeds. The kingdom has a mortuary society that deals with all aspects of death on the people's behalf, but this irrevocably renders them social pariahs.
 
-## **Names**
+## Names
 
 Nubian names are generally simple, consisting of a given name and perhaps a patronymic (e.g. Abraam son of Kosma) or toponymic (e.g. Dawud of Dongola). Women tend to use a marital name (e.g. Eionngoka wife of Abraam).
 
@@ -3508,7 +3508,7 @@ A crazed old man has been making clay amulets with the chi-pi-theta cryptogram f
 
 Nubia is overwhelmingly Christian; in fact it is illegal for a subject of either the Makurian or Alodian crown to convert to or profess any other faith.
 
-#### **Christianity**
+#### Christianity
 
 The original evangelism of Nubia was undertaken by rival missionaries; as a result, Nobatia and Alodia were principally Monophysite Christians and Makuria was mostly Melkite. As the power of the Byzantine Melkite Church declined in Egypt, the Monophysite Church became dominant in Nubia, and Makuria was converted.
 
@@ -3531,7 +3531,7 @@ Reasons of this sort of relationship include:
 - The slave may have sold himself into slavery (or been sold by his parents) in order to avert some terrible fate.
 - These characters should take the Favored Slave Flaw.
 
-#### **An Enslaved Character**
+#### An Enslaved Character
 
 Players wishing to run stories involving their character's status as a slave should design him or her with the Chattel Slave Flaw. As a Major Story Flaw, this is not suitable for grog characters; individuals with this Flaw take center stage in stories to do with the circumstances of their slavery, and that is not a role given to grogs.
 
@@ -3545,21 +3545,21 @@ Some examples of how being a slave could generate stories include:
 - You are a favored slave who attracts the jealousy of your fellows;
 - Your master's enemies are trying to get at him through you.
 
-#### **A Free Aithiopian Character**
+#### A Free Aithiopian Character
 
 Not all Mythic Aithiopians are slaves, but their appearance immediately sets them apart from the rest of the populace. Free Aithiopians should take either the Outsider or Outcast Social Status Flaw in any saga set outside of the Slavelands. Outcast is suitable for a character who has adopted local customs but is still clearly exotic; whereas Outsider is appropriate for characters who overtly keep to their traditional tribal ways - for example, a character newly arrived from further south. The physical appearance of an Aithiopian character automatically marks him as a slave in any Arab nation, especially Egypt, but without an accompanying Story Flaw this misunderstanding can usually be sorted out.
 
 A free Aithiopian character may have a Story Flaw related to his presence in Nubia. Dependents or a True Love might have been sold into slavery and he is striving to retrieve them. A character with Close Family Ties could strive to keep his clan from the hands of slavers. The character may be a former slave, and now has his previous owner as an Enemy; or he may be conducting a Feud with the slaver who captured him in the first place.
 
-#### **A Slave Owner Character**
+#### A Slave Owner Character
 
 Unlike European slave owners (such as in the Rhine Tribunal), in Egypt and Nubia it is not necessary for owners of slaves to have a Virtue to represent this; anyone may have a number of slaves suitable to their wealth and status. A Christian slave owner in a Christian kingdom has a Local Reputation at a score of 1, representing the social disapproval that this practice engenders.
 
-#### **A Slaver Character**
+#### A Slaver Character
 
 Characters who are slavers should take the Merchant Social Status Virtue if they are mostly involved in the transport of slaves, or the Mercenary Captain Social Status Virtue if they are captors. Either type of character is likely to be Well-Traveled. Being a slaver lends itself to stories of exploration in an exotic and hostile land, although the ethical dimension of the slave trade should not be glossed over.
 
-## **A Campaigner against Slavery**
+## A Campaigner against Slavery
 
 A character may be sufficiently opposed to the slave trade to attempt to stop it. Such a character is likely to have the Driven Personality Flaw if he is determined to follow this ambitious course, and appropriate social influence (perhaps through the Temporal Influence or Social Contacts Virtues) would prove very useful. The character could well have the Enemies Flaw to represent the activities of those who oppose him.
 
@@ -3569,13 +3569,13 @@ To be successful in abolishing slavery, the Baqt would have to be re-negotiated 
 
 Note that these Flaws are different from those in *Guardians of the Forests* (page 102), reflecting a different cultural attitude toward slaves.
 
-## **Favored Slave**
+## Favored Slave
 
 *Minor Social Status Flaw*
 
 You are a slave who has a privileged existence compared to most of your kind. As a possession of your master, you are beholden to his or her will completely, and are only likely to earn your freedom through some exceptional act of service, if ever. Disobedience, on the other hand, can earn you severe punishment. You have no belongings of consequence, except that which is given to you by your master. You probably will never need to worry about where your next meal is coming from, and will be housed in decent accommodation, although this in no way compensates for your status.
 
-#### **Chattel Slave**
+#### Chattel Slave
 
 *Major Story and Social Status Flaw* You are a slave, and as such have the effects of the Minor Social Status Flaw above; however, you have no special status among your caste and this will be the cause of stories. You should decide upon the source of your tension with your owner when you take this Flaw. Examples are given in a nearby insert. You must also explain how you are able to have regular contact with the other player characters. A likely explanation for this is that you are on loan from your master who is a friend of the other characters, but other explanations may result from the relationship between yourself and your master. Note that this Flaw is suitable for escaped slaves who are being actively pursued; those who have truly escaped their master's influence should be treated like free Aithiopians (and probably have the Outcast Flaw instead).
 
@@ -3585,11 +3585,11 @@ Monasticism is a minor part of the Nubian Coptic Church. Most monasteries were f
 
 The archangel Michael is extremely popular throughout the Nubian Church, and figures prominently in invocations, inscriptions, and dedications. A cryptogram of the Greek letters chi-pi-theta is common, based on numerology: this cryptogram represents 689, the numerical equivalent of Michael's name in Greek.
 
-#### **Islam**
+#### Islam
 
 Under the Baqt, freedom of Nubia from conversion to Islam was guaranteed. With the coming of the Ayyubids, the Baqt has less force, and the city of Pakhoras (see later) now has a mosque, principally for use by Egyptian traders. The Bedouin tribes who threaten the eastern borders, plus the settled Banu al-Kanz (see later) are Muslim; there is also an enclave of Arabs in the city of Soba. Should these populations continue to grow, Islam may become a real presence in Nubia.
 
-#### **Paganism**
+#### Paganism
 
 The ancient Kushitic religion still persists in isolated pockets of Nubia, although paganism is not tolerated by the Nubian Church. The Kushites believed that before creation, the world was covered in water. Then a mound of earth rose out of the water, on top of which Atum the first god was born. From this vantage point — Dju Wa'ab in Makuria (see later) — Atum created the world.
 
@@ -3612,11 +3612,11 @@ Also styled "The Lord of the Mountain," the eparch of Nobatia has supplanted its
 
 The emblem of the eparch's office is a distinctive double-horned headdress worn at all formal occasions; his agents throughout the kingdom bear this symbol embossed on an iron badge.
 
-#### **Transport**
+#### Transport
 
 The suitability of the Nile for transport of goods and people varies along its length. While downstream travel is always possible by boat, upstream movement is more limited. Boats under sail cannot travel upstream between Dongola to Abu Hamad, where the north-east course of the river is directly against the prevailing south-westerly wind. The cataracts are passable under sail only during high water. Owing to these problems, land transport by camel and donkey is an important alternative.
 
-#### **The Slave Trade**
+#### The Slave Trade
 
 The principle export of all the Nubian kingdoms is slaves. The source of their slaves is a vast expanse of pasture land to the south and west of Alodia, where there are plenty of peaceful pastoralist societies with no central organization. This region is called the Slavelands by Nubians. The slavers trek many hundreds of miles to procure slaves and their cattle, and then transport them north to Egypt. Details of these populations can be found later in this chapter.
 
@@ -3680,7 +3680,7 @@ within a Faerie regio with an aura of 5. The entrance to this regio can be divin
 
 Menarti is a small island at the foot of the second cataract; the name means "island of Mei," Mei being a name for Saint Michael who is patron, along with Saint Cosmas, of the small monastery on the island. Menarti is the limit of the upriver navigation from Egypt; south from here is the Batn al-Hajar (see earlier) which is impassable by boat.
 
-#### **Takoa**
+#### Takoa
 
 A small town on the southernmost tip of Menarti, Takoa is a customs post on the frontier between Lower and Upper Nubia. No foreign merchant is permitted to pass through Takoa; all cargoes must be surrendered to the officials at Takoa, from where they are delivered to the eparch.
 
@@ -3728,7 +3728,7 @@ Since the middle of the 12th century the kings of Makuria and Alodia have been b
 
 As a preparatory measure, the smaller fortresses are often manned by a minimal garrison, and lie mostly deserted. More than one has been covertly taken over by bandits; sometimes more sinister forces can be found in residence.
 
-# **Story Seed: Freedom Fortress**
+# Story Seed: Freedom Fortress
 
 The characters stop for succor at a fortress, but the small garrison are actually escaped slaves masquerading as soldiers. They are desperate to keep their secret, and if it becomes apparent that the characters are aware of their true nature, some of the slaves may wish to make sure the characters never leave. They are warned by another faction within the runaways who do not countenance their murder. This latter group might wish to escape with the characters, or else use them to gain control of the fortress. The characters could use the situation to gain useful allies.
 
@@ -3746,7 +3746,7 @@ Abu Hamad is a tent-city at the end of the mighty bend that encompasses much of 
 
 Abu Hamad is the only Muslim settlement in Makuria, and is a thorn in the side of the Christian kingdom. The armies of the local *domestikoi* and those of the *megalobasilikos* have tried to dislodge Abu Hamad, but to no avail; the city just reforms from an influx of nomads. The last attempt was five years ago; all the tents were uprooted and burnt, and the population dispersed. That night, the *megalobasilikos* received a nocturnal visitor in his bedchamber, and since then has refused permission to any of his subordinates to repeat the attempt. There is clearly some sinister force at work at the nexus of Abu Hamad; Makurian spies have noticed that one set of tents at the heart of the camp are not affected by the usual ebb and flow of tents, but are a permanent fixture. They have never been able to penetrate this complex, and are ignorant of its inhabitants.
 
-#### **The Ja'alin**
+#### The Ja'alin
 
 The Ja'alin are the tribe of Bedouins who occupy the region between Abu Hamad and Berber on both sides of the Nile. They have established a dozen or so tiny principalities called *meks*, each founded by one of the princes exiled with Hamad. Each principality now consists of around a hundred families of humans and twenty or so *jinn*. Each prince has an unGifted *sahir* of Hamad's line as a vizier, who also mediates between the *jinn* and the humans. The *jinni* are mostly allied to the Faerie Realm, and like their human neighbors are Muslim.
 
@@ -3764,11 +3764,11 @@ Due to the uncertain allegiance of Atbara, Berber is considered the last Makuria
 
 
 
-# **Story Seed: The Soul Exchange**
+# Story Seed: The Soul Exchange
 
 Seeking a rare or expensive item, the characters travel to a fortress that has a reputation for being a center of trade, particularly for the black market. They find it to be a den of every vice imaginable. The inhabitants of the fortress are actually ghosts, trapped here by the demon that caused their deaths. Each is promised that if they can win a soul for Hell then they can go free; but in fact the demon simply consumes the ghost's essence and traps the spirit of his victim instead. The only way to truly free the ghosts is to slay the demon who haunts the caverns beneath the fort.
 
-#### **Kallama**
+#### Kallama
 
 A town has sprung up around Makuria's smallest cathedral at Kallama, its sole purpose to serve the needs of the bishop and the monastery attached to the bishopric.
 
@@ -3784,15 +3784,15 @@ The tents at the center of Abu Hamad are the opulent habitation of a powerful Gi
 
 'Izz el-Afram Hamad makes an ideal recurring villain for a saga. He is powerful enough (politically and magically) for him to be outside the reach of newly created characters but can still cause them substantial grief; as they increase in power so does he, and they will need powerful allies to deal with him. A sample progression of stories follows; such a story arc should be augmented with other clashes with the Ja'alin and other minions of the Master of Abu Hamad. It is up to the storyguide as to the nature of the pacts Hamad has made with the *jinni*, and the realm to which they belong.
 
-#### **Story Seed: The Magical Basket**
+#### Story Seed: The Magical Basket
 
 A merchant friend of the characters is being ruined by a business rival, who seems to have an endless supply of the product in which they both trade. The rival has come into possession of a magical reed basket that creates the product in question, apparently permanently without the use of vis. When investigating the origin of the basket, the trail leads them to Abu Hamad. 'Izz el-Afram Hamad has engineered this situation so that he can meet and assess the characters, and determine whether they pose a threat to him. If they confront Hamad they will find him charming, inquisitive, and sinister in equal measure; he insists that they keep the basket in compensation for the trouble he has caused. The basket works through a bound *jinn*, who is transporting the goods from another place rather than creating them. The *jinn* has a power that makes the basket seem to be a standard enchantment to Hermetic Investigation, similar to a *Shell of False Determination*.
 
-#### **Story Seed: Attempted Regicide**
+#### Story Seed: Attempted Regicide
 
 As they have met Hamad and survived, the Great King of Makuria takes an interest in the characters - Hamad makes sure of this through his contacts. The characters are summoned to Dongola for an audience, and asked to bring along the magical basket. In Dongola, they run afoul of court politics, amply stirred by Hamad's agents. When they finally get into the king's presence, the secondary (and true) purpose of the basket becomes obvious, as a fearsome *jinn* emerges and attacks the king. Even if they are able to defeat it, the characters may be accused of endangering the Great King's life, and lose any status or favor they may have accrued.
 
-# **Story Seed: The Demons of Sawakin**
+# Story Seed: The Demons of Sawakin
 
 The characters learn that 'Izz el-Afram Hamad seeks to control the *jinni* of Sawakin (see later), creatures deemed too dangerous by Solomon himself. If successful, this could grant him immeasurable power, sufficient to smash any *Aegis of the Hearth* and bring defeat even to Hermetic magi. They must race to the Coral City and foil his plans in an almighty showdown of Hermetic versus Solomonic magic.
 
@@ -3842,11 +3842,11 @@ In their glory days, the monuments of the ancients found throughout Egypt and Nu
 
 An ancient capital is a natural site for stories.
 
-#### **The Blind God's Eyes**
+#### The Blind God's Eyes
 
 For centuries treasure hunters have scoured Napata in vain for traces of the fabulous wealth of the Kushitic priesthoods. Legends have it that the missing statues of the gods show the way. Buried under the sand, the priests' last act was to wipe away the paint from the statues' eyes, reverting them from vessels of the gods back into mere carved stone. One of the statues was recently uncovered by the wind. The daughter of a traveling merchant who stopped here for water innocently colored in the eyes of the statue with kohl while she waited for her father. Unaware of anything untoward, they moved on. However, the faerie that once inhabited the statue has been drawn back in; and now it moves, slowly yet inexorably, toward its destination. It is just a shame that there is a town in the way.
 
-# **The Hawk That Thought It Was A God**
+# The Hawk That Thought It Was A God
 
 A desert hawk circles Dju Wa'ab, crying forlornly. Every day precisely at noon it lands on a temple roof. This is a faerie animal with the merest scrap of Faerie Might, but it remembers the days when it was an emissary of Mandulis, the Kushite sun god. When the characters happen to be close to the temple at midday, it briefly mistakes them for the priests of ancient times, and brings them the last message from Mandulis: "Where the Sun touches the Sea and the waves are stilled, there will you find Anhur's Spear." What can this prophecy mean?
 
@@ -3894,22 +3894,22 @@ The region of Darfur is distant from the Nile valley and yet still firmly under 
 
 Darfur buildings are made from a distinctive red-colored brick, and built as truncated cones rather than rectangular structures. They have flat tops made of mud brick. These buildings can be immense: fifty paces diameter at the base, narrowing to twenty five paces at the summit, which can be six paces high. The Tajuwa live communally in these homes, several families sharing a single roof.
 
-#### **Uri**
+#### Uri
 
 Uri is the royal palace of the chief of the Tajuwa, who owes vassalage to the Makurian throne. Uri is an important emporium of long-distance trade at the crossroads of the *Darb al-Arba'in*, the road for Arab slavers from Asyut in Egypt south into the Slavelands, and the *Tarik al-Sudan*, the savannah route across the Great Desert to the west (see *Between Sand and Sea: Mythic Africa*.)
 
-### **'Ayn Farah**
+### 'Ayn Farah
 
 At 'Ayn Farah is a red-brick monastery and church staffed by Egyptian Coptics. 'Ayn Farah was established for the conversion of the slaves; all slaves passing on the Darb al-Arba'in are technically offered baptism, although the slavers rarely pause here for the monks to preach. Rather, the monks have taken to standing on the walls of the monastery and yelling out their proselytizing message of Christ's salvation to the slaves as they trudge northwards. More often than not, the slaves cannot even understand the words of the monks; while they make every effort to learn the myriad languages of the Slavelands, their opportunities to practice those languages are limited.
 
-#### **Fasher**
+#### Fasher
 
 Fasher is the principle starting point for those making expeditions into the Slavelands. This oasis consists of few permanent buildings, but is instead a camp for slavers, caravan guards, camel and cattle drovers,
 
 
 and the like. There is a thriving rope-making industry here. Slaves captured further south are kept in pens, much like the livestock that is often captured with them.
 
-#### **Samna**
+#### Samna
 
 A town built of the distinctive red bricks of the Tajuwa, Samna is the location of one of Makuria's only mosques, built to service the religious needs of the Arabic slave traders.
 
@@ -3951,11 +3951,11 @@ The easternmost and most arid of Alodia's nine kingdoms, Atbai is also the poore
 
 The northern border of Atbai is contested with the Blemmyae; the king of Atbai has had to compromise with what territory he feels he can afford to defend, and has left the rest of the villages to the mercy of the Blemmyae.
 
-#### **Goz Regeb**
+#### Goz Regeb
 
 Atbai's only town of substantial size, and the seat of a bishop. Goz Regeb's cathedral is decidedly modest by Alodian standards.
 
-#### **Taflin**
+#### Taflin
 
 A fertile area amidst the arid land of Atbai, Atbaik nomads bring their flocks to Taflin during the rainy season, and there is a month-long festival as stock is traded and marriages arranged. Ball games are discouraged, in deference to the Dihi (see insert).
 
@@ -3963,7 +3963,7 @@ A fertile area amidst the arid land of Atbai, Atbaik nomads bring their flocks t
 
 Unlike the other subkingdoms of Alodia, the Bayuda is not centered around a single city, but instead consists of innumerable small villages scattered through the sandy desert and into the Gilif Hills. These "highlanders" are an unusual people: each village appears to have its own language, which is entirely unrelated to any of its neighbors or to Nubian. Any outsider attempting to learn the language of the highlanders discovers that they all speak the same language, but due to a magical curse, cannot understand another native Bayudan speaking this language. They have no trouble understanding a non-Bayudan speaking this language, regardless of from which village he learned it.
 
-#### **Gilif Hills**
+#### Gilif Hills
 
 Consisting of deep ravines between jagged crags, the Gilif Hills are an unforgiving landscape that is reportedly the haunt of leopard spirits. It is true that the region is home to an uncommon number of leopards, and some of them may have supernatural powers. For the statistics of the Gilif leopards, use the statistics for the lion (*The Book of Mundane Beasts*), but reduce Size to +1; this also subtracts 2 from Strength and adds 1 to Quickness.
 
@@ -3971,7 +3971,7 @@ Consisting of deep ravines between jagged crags, the Gilif Hills are an unforgiv
 
 The kingdom of Butana lies in a privileged position, protected by Keraba to the north and Soba to the south. It is the main agricultural region of Alodia, well-watered by the tributaries of both the Nile and the Atbara rivers. The capital of Butana is Naqa. The Butanans have a reputation for hard work and are amply assisted by the alchemists of Soba, who rely on Naqan glass for many of their activities.
 
-#### **Naqa**
+#### Naqa
 
 Naqa is an ancient city of the same era as Meroë, and at the center of the Butana district. It sits on the Awateib, a seasonal river or *wadi*, at the point where many lesser wadis feed down from the Butana plateau; the Wadi Awateib flows west to the Nile, about thirty miles away. Naqa is an important trading city on the way to Ethiopia, and many of the slaves procured from the southern lands have Naqa as their first taste of civilization before being sent north, ultimately to Egypt.
 
@@ -3984,7 +3984,7 @@ glass. Particularly clean and pure sand around the Wadi Awateib results in a cle
 
 The most southerly of Alodia's nine kingdoms, Gezira lies between the White and the Blue Niles. Gezira is the least Nubian of the Alodian kingdoms, sharing blood with Ethiopians and Aithiopes. Gezira has a reputation for rebellion; they are the most recent kingdom to be added to Alodia, and do not have the wealth of the other nations. Many Gezirans see their vassalage to Alodia as a conquest rather than a mutually-beneficial agreement. The army of Alodia's great king has a substantial presence in Gezira in an attempt to keep the peace, but their presence may actually provoke more riots than are prevented.
 
-#### **Sennar**
+#### Sennar
 
 The capital of Gezira is home to a ruling dynasty who are descended from both Nubian and Megabaran stock (see Chapter 9: Mythic Aithiopians). Among the Gezirans, men and women have equal status, and the monarch of Gezira is as often a queen as it is a king. A quarter of Gezira's army consists of warrior women, who are quartered at Sennar.
 
@@ -4002,7 +4002,7 @@ Kassala's business is the dead. The city has more dead inhabitants than living o
 
 The mortician's work rarely involves embalming; most Alodian dead are wrapped in simple shrouds and given a clay or metal mask. The shrouds and bandages of the deceased are often inscribed with protective texts which have significance in folk magic as well as religion. For extra cost, the flesh can be removed from the bones before burial. This latter practice has several purposes; it is supposed to speed the soul's journey to redemption, ward against the formation of ghosts, and prevent sorcerers from exploiting the dead.
 
-# **The Mortuary Society of Kassala**
+# The Mortuary Society of Kassala
 
 The Mortuary Society of Kassala is responsible for caring for the Alodian dead. Due to the taboos in Nubian (and especially Alodian) society (see earlier), members of the society are shunned by normal folk as unlucky, but also respected for their courage in performing an undesirable task. They are required by law to wear unpatterned smocks of white linen tied with a black sash so that they may be recognized; most also wear a black fezlike hat and carry a glass bell. All members carry a pouch filled with a special powder which can ward off the dead.
 
@@ -4020,7 +4020,7 @@ The upper echelons of the Mortuary Society are aware of the Cult of Dedun; indee
 
 Following the downfall of the Empire of Kush, the center of power — formerly at Meroë — moved gradually upstream. For a while, Keraba (ruled from el-Hobagi) was preeminent, before Soba became dominant in the sixth century and Keraba became a sub-kingdom in vassalage to Alodia. The kingdom is now ruled from Sufra.
 
-#### **El-Hobagi**
+#### El-Hobagi
 
 The huge tumulus at el-Hobagi is one of the last burials of a pagan king in Alodia; once Soba became the dominant kingdom, they spread their own Christian faith to all vassals. The tumulus is surrounded by other high-status tombs, and accompanied by a temple to the ram-headed creator god Atum, which is in a remarkable state of repair given its age. The Faerie aura of 3 at the temple suggests that the building is still used for worship of the Kushitic gods, although no one has ever been witnessed entering the temple.
 
@@ -4038,7 +4038,7 @@ The people of Meroë have a reputation for having a superior attitude born from
 
 A Kassalan exorcist is a speciallytrained individual who deals with the dead who have not accepted their final place. These characters have the Wise One Social Status Virtue and the Kassalan Exorcism and Second Sight Virtues. They are trained in Penetration, Magic Lore, and Organization Lore: Mortuary Society. Exorcists tend to concentrate on low level, high Penetration effects, and often work in concert to destroy powerful ghosts. A rare few possess the Corpse Magic Virtue, but use it exclusively to lay to rest the unquiet dead and to foil the schemes of necromancers. Others are Learned Magicians (*Hedge Magic Revised Edition*, Chapter 5) specializing in the Magicam Art.
 
-#### **New Virtue: Kassalan Exorcism**
+#### New Virtue: Kassalan Exorcism
 
 *Minor, Supernatural*
 
@@ -4046,14 +4046,14 @@ You are capable of performing minor exorcism spells through your knowledge of th
 
 To cast a spell you must expend a Fatigue level, whether the spell succeeds or fails. You must also spend at least 5 minutes preparing the spell, during which time you need unbroken concentration and expend one handful of Kassalan Dust. The spell is designed exactly like a Hermetic spell; if affecting a ghost you must be able to sense your target. Your Casting Total is equal to (Stamina + Organization Lore: Mortuary Society + Aura modifier + stress die) / 2. Penetration is calculated in the normal fashion: Casting Total – Spell Level + Penetration modifiers. Kassalan Exorcism is aligned to the Magic Realm.
 
-#### **Kassalan Dust**
+#### Kassalan Dust
 
 Made by the Mortuary Society of Kassala, this dust has powdered gold as its main component, with myrrh and other spices making up the rest. Twenty handfuls contain about a Mythic Pound's worth of gold dust. Kassalan Dust is necessary for Kassalan Exorcism, but grants no bonus. A handful also adds +3 to uses of the Corpse Magic Supernatural Ability to command a corpse to return to its grave or prevent it from being affected by Corpse Magic. Multiple handfuls provide no additional effect. Kassalan Dust has a Shape & Material bonus of +3 against the dead. The recipe is known to anyone with Organization Lore: Mortuary Society.
 
 
 their ancient heritage. The city is ruled by a king, or *qore*, and his mother, or *kentake*. Alodian rule has long rankled the royalty of Meroë, and they have been involved in several failed coups and civil actions against Soba. The royal family are widely believed to be pagan worshipers of Apedemek: they still use the lion as their royal symbol; sit on a lion throne; and keep lions as pets.
 
-#### **Begarawiyah**
+#### Begarawiyah
 
 The royal necropolis just outside Meroë is the most extensive of Kush's three principle necropoli (the other two being Kurru and Nuri, see earlier). Begarawiyah is the haunt of Alodia's most powerful devotees of Dedun; as a result some of the pyramids are occupied, and may have a higher Magic aura than the surrounding necropolis, aligned to the dead.
 
@@ -4082,7 +4082,7 @@ The Undying One has had several lifetimes in which to amass power and further hi
 
 Artanyeszame might easily become the enemy of a group of characters, if they cross him or interfere with his plans. He could equally become the mentor of any group willing to assist him, although any alliance is likely to be temporary in nature. Compared to a Hermetic magus he is not a powerful sorcerer, but his magic is versatile, and he is cunning in its use. He also has the resources of his tomb to call upon, and the chapter of the Cult of Dedun of which he is the head. The power of this latter resource should not be underestimated; Artanyeszame has agents spread far and wide along the Nile, carefully chosen for their tasks based on their skills or contacts.
 
-## **Story Seeds**
+## Story Seeds
 
 The characters come into possession of a hand made of green stone. This is the missing part of the Djet in Cleopatra's Tomb, although they have no way of knowing this. Artanyeszame discovers that they have the hand (for example, through an agent who snoops through their belongings), and realizes that the Djet can tell him where to find the Book of Thoth. All he has to do is trick the characters into thinking they want to find Cleopatra's tomb.
 
@@ -4201,7 +4201,7 @@ Artanyeszame casts his charms in the same way as Hermetic Formulaic spells (usin
 
 When Artanyeszame became an Undying One, his court of the dead bought him a Magic Might of 16.
 
-#### **The Pyramid of Arrakkamani**
+#### The Pyramid of Arrakkamani
 
 Artanyeszame has claimed the pyramid of King Arrakkamani as his home. He keeps his court of the dead in a chamber within the pyramid; they are posed as if it were a royal court, paying obeisance to a central throne — which is where Artanyeszame himself sits when brooding upon various schemes. He has a court strength of 181 distributed between four dozen corpses, including Arrakkamani and his mother Weteriken.
 
@@ -4213,11 +4213,11 @@ Artanyeszame has befriended three *bouda* (hyena skinchangers, see Chapter 8: Et
 
 **Resources**: Curses (18 Build Points). Enchantments(52 Build Points). Library: *Inscription on Petitioning the Dead* (summa on Corpse Magic, Level 8, Quality 6), Initiation Script for Corpse Magic (Script Bonus +15) (45 Build Points). Specialists: Two altar priests (Magic Lore 5), four grave guardians (Single Weapon 4), ghost of Queen Weteriken, a powerful necromancer (Communication 1, Corpse Magic 10, Teaching 4), three *bouda* (Hex 5) (56 Build Points). Traps (55 Build Points). Vis Sources: 2 pawns of Vim per year (paint flecks from magical texts), 4 pawns of Corpus per year (bodies robbed by hyenas), 1 pawn of Ignem per year (glass exposed to dawn sun on rising of Sirius) (35 Build Points) 259 Build Points overall.
 
-#### **Curse:**
+#### Curse:
 
 *Those that enter my tomb in their impurity shall have their flesh decay and their bones perish*: This curse is written in Meroitic on the entrance to the tomb. This Greater Malediction inflicts the Enfeebled Major Flaw on anyone who succumbs. Artanyeszame's Magic Might makes him immune to the curse, and he has devised a rite of purification that protect his servants. (PeCo 45; Pen 0, 1/day; Base 30, +1 Touch, +2 Room; 18 Build Points)
 
-#### **Enchantments**:
+#### Enchantments:
 
 *Shroud of Sands*: A cloak made of disks of sandstone joined in rows by twine. The wearer can move up to ten thousand cubic paces of sand, enough to bury the pyramid hiding it from view, or to excavate the tunnel to the burial chamber beneath. The sand moves slowly, and can only be used offensively against immobile opponents. ReTe 25 (Base 1, +2 Voice, +1 Conc, +1 Part, +3 Size; +5 24 uses/day) (Ease Factor 11, 10 Build Points)
 
@@ -4225,7 +4225,7 @@ Artanyeszame has befriended three *bouda* (hyena skinchangers, see Chapter 8: Et
 
 *Sovereign Ward Against Wandering Shadows*: No spirit with a Might of 25 or less can enter or leave the pyramid of Arrakkamani if this effect Penetrates its Magic Resistance. This effect has trapped Queen Weteriken, who claims to have enchanted it herself into its walls. Artanyeszame gained his Might score inside the pyramid, and is immune to its effects. ReMe 57 (Base effect (25), +0 Touch, +0 Sun, +3 Structure; +1 2/day, +3 environmental trigger, +13 Pen 26) (Ease Factor 24, 24 Build Points)
 
-#### **Traps**:
+#### Traps:
 
 The steps leading down to the burial chamber recede, creating a steep, smooth ramp. The 20 pace slide down to a hard surface results in +30 damage if the characters slide all the way to the bottom. A character might be able to grip onto the sides of the ramp and arrest the fall with a Strength + Athletics – Encumbrance roll (Ease Factor 9, 15 Build Points)
 
@@ -4241,7 +4241,7 @@ Blue Nile a short distance upstream from its confluence with the White Nile. The
 
 Soba is famous for its alchemists, renowned for the wonders they can achieve through their craft. The city is filled with examples of their efforts. Street corners bear poles that shed light at night that rival the moon in brightness. Its streets are uncommonly smooth and pleasant for wheeled vehicles; although some Soban vehicles may not touch the ground at all but hover just above it. Extensive use is made of the streams, occasionally canalized; barges of stone float miraculously on water bringing grain and timber into the city. There are fountains in which the water flows upwards against its natural tendencies, gardens of stone statues which are tethered to the ground to prevent them from floating away and bridges of transparent metal. The city even smells sweet due to the properties of the tiles used in its roofs.
 
-#### **The Alchemists of Soba**
+#### The Alchemists of Soba
 
 Soba is rampant in wonders, and most of these are a product of its alchemists. Most are employees of the Ministry of Works, which maintains and improves the
 
@@ -4261,13 +4261,13 @@ Some Soban alchemists are able to turn the natural world on its head, making sto
 
 It is believed by some that Soban Alchemy is the last remnants of the magic that constructed the monuments of Egypt and Kush in ancient times.
 
-#### **New Virtue: Soban Alchemy**
+#### New Virtue: Soban Alchemy
 
 *Major, Supernatural*
 
 Taking this Virtue grants the Supernatural Ability of Soban Alchemy at a score of 1. Soban Alchemy is usually aligned to the Magic realm.
 
-#### **New Ability: Soban Alchemy**
+#### New Ability: Soban Alchemy
 
 This Supernatural Ability allows the character to create a substance called Sovereign Reagent. Every Soban Alchemist with this power has a different recipe for his Sovereign Reagent, and it can take many forms — a powder, a waxy stone, an incense, a liquid, and so on. She can only use Sovereign Reagent she has made herself. Each dose of Sovereign Reagent costs the equivalent of a Mythic Pound of ingredients, or else a pawn of Muto vis. An alchemist can make a maximum number of doses in a season equal to twice his Profession: Apothecary Ability; during this season he can carry on his usual business but can only gain Exposure experience points in either Soban Alchemy, Philosophiae, or Profession: Apothecary. He may not be able to afford his maximum number of doses per season.
 
@@ -4283,7 +4283,7 @@ Sovereign Reagent alters one natural property of inanimate matter, while leaving
 
 To use Soban Alchemy, one or more doses of Sovereign Reagent must be applied to the object to be affected. A single dose can affect one cubic foot of solid matter, one cubic pace of fluid matter, or ten cubic paces of ephemeral matter (such as fire or air). Multiple doses can be applied to affect more matter. After applying the reagent, generate a Casting Total from Intelligence + Soban Alchemy + Aura modifier + stress die against an Ease Factor determined by the type of change desired:
 
-#### **Ease Factor Property affected**
+#### Ease Factor Property affected
 
 - 9 redness/blueness/etc., saltiness/sweetness/etc., texture, symmetry.
 - 12 pungency, fragrance/fetor, tendency to float/sink, sharpness, elasticity, flexibility, moistness/dampness.
@@ -4296,7 +4296,7 @@ Matter affected by Soban Alchemy becomes a magical medium for the Duration, and 
 
 **Specialties**: a certain type of matter, a given property
 
-#### **New Virtue: Alchemist of Soba**
+#### New Virtue: Alchemist of Soba
 
 *Minor, Social Status*
 
@@ -4372,7 +4372,7 @@ The Blemmyae have not been converted to Christianity or Islam despite attempts t
 Ababdah is a Blemmyae miner who has made his tribe rich through his discovery of seams of gold. He is often shadowed by one of his younger cousins, because his family are aware of his propensity to get turned around in the sand dunes and unable to find his way home. In human society, Ababdah would most likely have the Magical Covenfolk Social Status Virtue.
 
 
-#### **Blemmyae Characters**
+#### Blemmyae Characters
 
 Blemmyae have faces on their chests, lacking heads and necks. The shoulders of blemmyae are spaced wide apart, leaving their faces larger than those of a normal human. Their hearing is poor, since their ears are positioned beneath their arms. Blemmyae women do not have breasts and do not suckle their children, but give them goat or camel milk instead. Blemmyae have hairless bodies, and wear no clothes on the upper part of their body. Fortunately for them, their bodies are naturally resistant to damage. Blemmyae who wish to wear armor must devise some means to permit themselves to see; this normally requires them to wear rigid armor like boiled leather or plate-and-mail with eye holes or a visor. They cannot use large shields effectively. Blemmyae warriors tend to be mounted skirmishers armed with slings rather than front-line fighters.
 
@@ -4389,7 +4389,7 @@ Numerous treaties between the Blemmyan and Makurian kings have established the l
 
 Over the last half-century, the Blemmyae and Makurians have found a common enemy in the Ja'alin, who have stolen territory from both kingdoms.
 
-#### **Badi**
+#### Badi
 
 Badi has been abandoned by honest merchants, and has become a fetid pit of lawlessness and debauchery. The only ships that regularly dock at Badi's extensive quays are pirate ships that prey on merchants navigating the Red Sea. It is said that anything can be sourced from Badi; for things that cannot be bought, unscrupulous men can be hired to procure it to order.
 
@@ -4399,7 +4399,7 @@ The Blemmyae of the Red Sea Hills keep overland travelers from Badi, for their o
 
 The characters encounter an escaped Aithiops slave who has run away from Taqasi. Her command of Nubian is poor, but she is seeking someone to free her grandmother from the king's control. The slave begs the characters for help. The slave's 'grandmother' is a magical lion held at Taqasi; she is the lion-equivalent of a sorceress and has several powers including the ability to take human form. The king of Meroë discovered her secret, and holds her cub hostage to her good behavior. Not all the pet lions are friendly with the lioness, since she has The Gift and they distrust her because of it; some might betray her attempts to escape to the king. If they succeed in freeing her and her son, she might permit her cub to become a familiar or animal companion of one of the characters.
 
-## **Sawakin**
+## Sawakin
 
 Known to Ptolemy as the Port of Good Hope (Limen Evangelis); the Blemmyae know better: both *Sawakin* and the Beja name of the port *U Suk* mean "prisons." When King Solomon had finished with his jinn servants, some of the most troublesome were banished here. As far as anyone knows, the jinn are still inmates of a magical jail of unknown location.
 
@@ -4409,7 +4409,7 @@ Sawakin occupies a circular island at the end of a long inlet. It is a fantastic
 
 There are 111 jinn buried beneath Sawakin in prisons of coral, all of them inimical to man. They vary in Might; most are petty annoyances that Solomon did not feel comfortable releasing back into the wild. There are a few that are truly terrifying, and one is rumored to be Ashmodai, Prince of Temptation and one of the ten most powerful demons save Satan himself (*Realms of Power: the Infernal*, page 27).
 
-#### **Story Seed: Black Coral**
+#### Story Seed: Black Coral
 
 Whether or not Ashmodai is imprisoned under Sawakin is unknown, but what is certain is that there are any number of jinni who claim to be him. A recent earthquake opened a crack in the coral in the basement of a warehouse, and an Infernal jinn was able to communicate with a laborer sent to clear up the rubble. This menial is now the leader of a cult devoted to the worship of "Ashmodai."
 
@@ -4429,7 +4429,7 @@ The struggle between priests and kings is often symbolized by the uraeus (the sy
 
 The priesthood of Kush contained Canaanite necromancers (*Ancient Magic*, Chapter Two), some of whom had arrived here with Tribe of Dan, and others who had settled here after Saul's purge of the Israelite priesthood in Canaan. Characters pursuing this mystery seeking insight may receive clues leading to Kush. By taking possession of the royal dead, the Kushite priests were able to control their living relatives, through the threat of wracking their spirits after death.
 
-#### **Monsters in the Sea**
+#### Monsters in the Sea
 
 The Red Sea is home to all manner of immense creatures and monsters. These occasionally chase shoals of fish up from the depths, and in their attempts to escape the fish beach themselves in large numbers or else leap clear out of the water into boats. The monsters come in a variety of shapes: colossal fish such as sea-eels, sharks, and whales; tremendous turtles; and frightening horrors such as massive sea-centipedes and worms.
 
@@ -4482,12 +4482,12 @@ could still exist, since the very concept of dealing with the dead is abhorrent.
 
 The Cult of Dedun is a Mystery Cult. It is highly secretive in nature, and divided into informal districts who worship at a particular grave site under the leadership of a temple priest. The temple priests meet once every few years to discuss stratagem. While ostensibly a religion, most of the members beyond the rank of adherent see the cult as a route to magical power rather than a form of worship, and its Mysteries are aligned to the Magic realm rather than that of Faerie. This is not to say that there are no believers — indeed, some priests become fanatical in their devotion to Dedun — but they do not delude themselves as to the true nature of the cult: it is a way of achieving life eternal. In the past, immortality might have been offered posthumously by the cult through becoming an akh (see Chapter 4), but corruption by the Red has lead to a cult that reveres bodily immortality through dominance of their decayed flesh.
 
-#### **Adherent**
+#### Adherent
 
 Adherents are the typical members of the cult. They come from all walks of life, but seek the restoration of the temporal power of the Cult of Dedun. Some families have been loyal adherents for centuries, and bring trustworthy sons and daughters for Initiation when they come of age. Others are wooed by the promise of power by friends and colleagues who have achieved the rank of altar priest. Others still may come to the cult through their curiosity regarding the graves of ancient Kush, or research into the extension of life or necromancy. The only requirements of them are to attend ceremonies of worship to Dedun, which are held at night in the local temple, usually four times a year. Members of the same congregation usually show each other preferential treatment in their daily lives, relying on the cult's Prohibition (gained upon Initiation to the rank of adherent) to maintain secrecy. Occasionally, a temple priest may ask an adherent for assistance, which they freely give.
 
 
-#### **Altar Priest**
+#### Altar Priest
 
 The altar priests are the deputy members of the cult; they assist the Temple Priest in his sacred duties to Dedun, and are responsible for maintaining the temple and keeping discipline among the adherents. Should an adherent become a liability to the secrecy of the cult, it is the job of the altar priests to silence him permanently. Each temple may have one or more altar priests, but there are
 
@@ -4513,7 +4513,7 @@ rarely more than four, except in particularly large congregations. Altar priests
 
 Only those with magical powers can benefit from the ranks above adherent. Having proved their loyalty to the cult, altar priests are released from their Prohibition, replacing it with a Vow; this allows them to recruit new adherents.
 
-#### **Temple Priest**
+#### Temple Priest
 
 There is only one temple priest per district. He is responsible for leading a congregation in the worship of Dedun, and usually has one or more altar priests to assist him. To be considered for this rank, a character must have an Organization Lore: Cult of Dedun of at least 3, and knowledge of Meroitic at 4 or more.
 
@@ -4540,7 +4540,7 @@ A temple priest's court is rated according to its strength. This strength comes 
 
 A temple priest receives no immediate benefit from her court's strength, apart from as a symbol of rank among her fellow priests. However, the court's strength is vital for obtaining and maintaining her power in the final Mystery of the cult.
 
-#### **The Undying Ones**
+#### The Undying Ones
 
 The rank of Undying One can only be attempted once the character's Organization Lore: Cult of Dedun has reached a score of 5. Furthermore, the sum of the character's Warping Score and Decrepitude Score must equal or exceed 7. The details of this Initiation Script are available at just one known location, hidden among the writings on the monuments at Meroë, a site patrolled by the Kassalan Mortuary Society (see earlier) that opposes the Cult of Dedun. The Initiate must sneak or force her way into the tomb and translate the ancient writing to find the Initiation Script. There is no known copy; obtaining the Script is the first stage of self-Initiation.
 
@@ -4575,7 +4575,7 @@ You have a number of points equal to her new Might score to spend on Magic Quali
 
 **Script Details**: The Initiation Script of Meroë requires that the character act as her own Mystagogue, and that she has undergone the previous initiation of temple priest and possesses the Ordeal Flaw of Enfeebled. The Script therefore only works for those who have The Gift. No variants are known that do not have these requirements. Finding the Script in the first place fulfills a minor quest (+1). The Initiation Script requires a year-long ritual, demanding that the character spends every waking hour chanting. Each organ and limb is blessed in turn: magically removed, cleansed, and replaced as part of the rite without harming the Initiate. Throughout this year, the character gains experience points for exposure only, and cannot miss a single day without having to start again (+4). This rite requires copious amounts of expensive incense (+1), and the burning of a pawn of vis every new moon (+1). As part of the cleansing process, the character suffers the Ordeal of losing The Gift (+9).
 
-#### **Losing The Gift**
+#### Losing The Gift
 
 Undergoing this Initiation causes the character to lose her Gift. While this does not affect any magic that she already possesses, her ability to increase her magical power is curtailed. This has the following effects:
 
@@ -4585,7 +4585,7 @@ Undergoing this Initiation causes the character to lose her Gift. While this doe
 - She loses all Hermetic Virtues and Flaws (these may only be possessed by Gifted characters).
 - She cannot use certain Abilities that require The Gift, such as Parma Magica.
 
-# **Common Powers of the Undying Ones**
+# Common Powers of the Undying Ones
 
 *Lord of the Swarm*, 1 point, Init Qik – 1, Corpus: The Undying One can convert his body to a swarm of non-venomous vermin: scarab beetles, locusts, or similar. His consciousness resides in the swarm, not the individual, and he is unable to split the swarm. The swarm is treated as a single creature of Size +1. The swarms ignores defenders and can attack whomever it desires, although it is restricted to just one opponent per round at this Size. The swarm can crawl inside armor, and defenders do not benefit from its Protection. Swarms are hard to destroy: they have a natural immunity to regular weapons, and unless dealt a Fatal wound, a swarm can disengage and reform at full strength after a number of rounds equal to its largest Wound penalty. The character can end this effect whenever he desires. The natural weapons of an insect swarm have the following statistics: Init +4, Attack +2, Defense –6, Damage +1. MuCo(An) 30 (Base 10, +2 Sun, +2 complexity) Greater Power (30 levels, –2 Might cost, +2 Init)
 
@@ -4608,7 +4608,7 @@ often Learned Magicians, but they may have instead or in addition any other magi
 
 This Virtue gives the character the Supernatural Ability of Corpse Magic, at a score of 1
 
-# **New Supernatural Ability: Corpse Magic**
+# New Supernatural Ability: Corpse Magic
 
 The character can use Corpse Magic to temporarily revive a corpse. The target of this Supernatural Ability cannot have received any burial rites from a Divinely-sanctioned religion, and the corpse must be relatively intact, having as a minimum a spine, a skull, and more than half of its long bones. There need not be any flesh remaining. It takes fifteen minutes to chant the spells sufficiently to awaken the dead.
 
@@ -4618,7 +4618,7 @@ The character can use Corpse Magic to temporarily revive a corpse. The target of
 
 Compare the result to the following Ease Factors to determine success:
 
-#### **Ease Factor Outcome**
+#### Ease Factor Outcome
 
 - 9 Speak to the dead. The corpse is not compelled to answer truthfully or directly, although it may do so anyway.
 - 12 Speak to the dead and compel it to speak truly.Protect a corpse from being affected by further Corpse
@@ -4639,15 +4639,15 @@ Walking corpses typically have a Magic Might of 9 (see *Realms of Power: Magic*,
 
 A cult of undying sorcerers is an excellent source of stories.
 
-#### **Theft of the Dead**
+#### Theft of the Dead
 
 A vis source of the characters is being raided by an adherent of the Cult of Dedun. He is clearly not taking it for himself, but due to his Prohibition he will not tell the characters for whom he is working or lead the characters to his temple if he suspects they are watching. Forcing him to do so triggers the Prohibition. This might be the characters' first introduction to the Cult of Dedun.
 
-### **Help from the Black**
+### Help from the Black
 
 Soon after clashing with the Cult of Dedun, the characters are approached by a potential ally. She has been fighting against the corruptive influence of the cult, and in secret is a knowing servant of the Black. She asks the characters for help freeing her friend who has been captured by an Undying One. Her friend is secretly an akh(see Chapter 4) who could be another important ally for the player characters against the cult.
 
-# **If You Can't Beat Them, Join Them**
+# If You Can't Beat Them, Join Them
 
 The characters' ally joins the Cult of Dedun in secret. She deludes herself into thinking she is working to bring them down from within, but in truth she has been seduced by the promise of immortality. She guides the characters against her rivals within the cult, hoping that they will retrieve information on the whereabouts of the crucial Initiation Script for transformation into a Magic Human herself.
 
@@ -4670,7 +4670,7 @@ Despite this heritage in classic mythology, Ethiopia's remote location, its isol
 
 Emerging from antiquity, the kingdom of Axum flourished and expanded as Rome declined. The difficult terrain of the Egyptian deserts and mountains of Kush separated the nations, and Axum blossomed throughout the Horn of Africa and Yemen. While geography deterred warfare, it wasn't enough to prevent trade, and merchants brought goods to and from the Roman empire, the Persian empire of Ctesiphon, the lands of southern Arabia, and beyond. When the kingdom of Kush collapsed,the negus of Axum sent armies north, crushing the Blemmyae in Meroë. Hungry for more, Axumite forces crossed the Red Sea and in 525 AD Emperor Kaleb's generals conquered the Jewish city-states of South Arabia. Axum expanded to include 21stcentury Ethiopia and Eritrea, portions of Sudan's southeastern mountains, and southern Arabia from Najran to the southeast Yemeni coast. The emperor's influence dominated the most of the Red Sea's southern shores, from Adulis to Zeila and through the Bab-al-Mandab straight to the Erythean Sea. For 250 years, the Axumite Emperors minted gold, silver, and even copper coins. The emperor in Constantinople traded correspondence with them, and the priests of their church attended synods in Greece and the Levant. As barbarians rampaged across what remained of the western Roman empire, Axum stood shining in the south.
 
-#### **The Conversion of Axum**
+#### The Conversion of Axum
 
 Some claim a eunuch of Queen Candace or the Apostle Matthew first brought Christianity to Ethiopia, but no local stories exist about these figures and regional tradition credits two brothers from Tyre for Axum's conversion in the 4th century. Traveling through the Red Sea with their uncle, Meropius, only Edesius and Frumentius survived when a violent mob massacred the crew after the ship put to shore for supplies. The pagan raiders sold them as slaves to the Axumite court, where they tutored the young Prince Ezana in Latin and Greek. As Emperor Elle Amida lay on his deathbed, he emancipated them, permitting the brothers to return to
 
@@ -4682,7 +4682,7 @@ Once Ezana took his rightful place as emperor, the brothers finally decided to r
 
 Years later, a group of nine saints arrived in Axum, following the Council of Chalcedon in 451 AD. Known as Abba Aftse, Abba Alef, Abba Aragawi, Abba Garima, Abba Guba, Abba Liqanos, Abba Pantelewon, Abba Sehma, and Abba Yem'ata, they preached a form of Christianity known as Monophysitism. This philosophy denied any difference between the human and the divine aspects of Christ, and while Christians in Nubia and Egypt followed it, the Council of Chalcedon declared it heretical. Following the Rule of Saint Pachomius, these saints established monasteries throughout Axum, which both became the foundation for a strong monastic lifestyle and served to further spread Christianity into the heart of Axum. Abba Aftse created a monastery at Yeha, which ultimately failed. Abba Aragawi created the important monastery of Debre Damo and Abbas Liqanos and Pantelewon established Pantelewon Monastery in Axum, both in Bet Amhara. Abba Garima built the Abba Garima Monastery north of Adwa, and Abba Alef built the northernmost monastery at Bi'isa on the south bank of the Mareb River, both in Medri Bahri. Legend tells that the spring near Abba Garima Monastery began flowing when the Abba spat upon the stones, and its waters supposedly grant long life.
 
-#### **The Fall of Axum**
+#### The Fall of Axum
 
 A pair of events greatly contributed to the fall of the Axum Empire. The rise of Islam created a difficult situation along the Red Sea coast as the converted population became more hostile to anyone who was not Muslim. Axum lost contact with Constantinople after Egypt was conquered and the sultan of Cairo imposed many restrictions. The sultan forbade the Patriarch of Alexandria to appoint a new abuna to the
 
@@ -4690,7 +4690,7 @@ A pair of events greatly contributed to the fall of the Axum Empire. The rise of
 
 When Queen Cassiopeia claimed she and her daughter were more beautiful than all of Poseidon's nereids, the god responded by unleashing the dragon Ceto, and directing it to devastate the country's coasts and ports.Even after Perseus defeated it, Jewish tales of the Leviathan kept it vital and active, harassing local traffic to gather the benefits of sailors' fear and superstition. It still hunts the waters of the Red Sea and the Eastern Mediterranean, flying between the two as whimsy strikes it.
 
-#### **The Dragon Ceto**
+#### The Dragon Ceto
 
 **Faerie Might:** 45 (Aq)
 
@@ -4702,7 +4702,7 @@ When Queen Cassiopeia claimed she and her daughter were more beautiful than all 
 
 **Reputations:** Ravenous destroyer of the coasts 3 (Greece), Massive Sea Serpent 2 (local)
 
-#### **Combat:**
+#### Combat:
 
 *Claws:* Init –1, Attack +11, Defense +10, Damage +24 *Fangs:* Init –10, Attack +14, Defense –5 Damage +22
 
@@ -4712,7 +4712,7 @@ When Queen Cassiopeia claimed she and her daughter were more beautiful than all 
 
 **Pretenses:** Area Lore: Red Sea Coasts 3 (Ports), Awareness 3 (prey), Brawl 7 (crushing), Faerie Speech 5 (sounding intimidating), Folk Ken 1 (human prey), Hunt 4 (people), Stealth 3 (stalking prey)
 
-#### **Powers:**
+#### Powers:
 
 *Corrosive Odor*, 5 points, constant, Auram: Ceto constantly emits a corrosive, terrible odor, doing +5 Damage to anyone within one pace of it. MuAu 25 (Base 5, +1 Part, +2 Sun,+1 Constant): Lesser Power (25 levels)
 
@@ -4728,7 +4728,7 @@ When Queen Cassiopeia claimed she and her daughter were more beautiful than all 
 
 **Design Note:** Ceto is not appropriate as a player character.
 
-# **Story Seed: The Great Sea Serpent**
+# Story Seed: The Great Sea Serpent
 
 Ceto now enjoys its role as the leviathan, a breaker of ships and terror of the seas. It trails and attacks those vessels that fail to make the proper superstitious sacrifices. It is careful not to destroy too many craft, doing so near shore, and preferring merchants over fishermen, because survivors who reach shore are more likely to carry its tale far and wide.
 
@@ -4790,13 +4790,13 @@ etables, and supplementing their crops with hunting and livestock, such as cattl
 
 There are a few ethnic divisions in the country, generally represented by dialects of language (Agaw, Amhara, Tigray, Tigrinya). However, Ethiopians really only consider these differences in situations when no outside threat or enemy is present to unite them. In most cases, Ethiopians consider all Ethiopians equally.
 
-#### **Appearance and Clothing**
+#### Appearance and Clothing
 
 Ethiopian dress depends on the local climate; what suits the warmth of the lowlands is often impractical in the highlands. People in the lowlands prefer loose fitting cotton, linen, or, in the case of wealthier individuals, silk tunics with long wraps. Lowlanders favor a cloth called shemma, made by weaving long colorful strips with shiny threads into patterns that are then sewn together. Shawls are also very popular. Sandals are the most common footwear, and men prefer round, brimless flat-topped caps. While highlanders like this style of cap, their clothing is more often made from wool, animal skin, and fur, with fewer wraps. The highland terrain demands that boots replace sandals. Cloaks of wool or fur, and heavy vests are common, especially in mountain communities. Men wear trousers beneath their tunics and often carry long, thin sticks. They use these as a canes, walking sticks, or simply hang their arms from them while traveling.
 
 Facial hair is uncommon among Ethiopian men, although one sees an occasional mustache and goatee, or a simple mustache, and almost all keep their hair short. Full beards are extremely rare. Women keep their hair long, either in free locks or small braids. Ethiopian facial features tend to blend aspects of African, Mediterranean, and South Arabian ethnicities, with a range of lighter to dark complexions.
 
-## **Month Julian Start Leap Year Start**
+## Month Julian Start Leap Year Start
 
 *The Ethiopian Calendar and Dates*
 
@@ -4817,18 +4817,18 @@ The calendar has slightly offset dates, with the new year beginning on August 30
 | Nehase   | July 27      | July 26   |
 | Pagume   | August 26    | August 25 |
 
-#### **Cuisine**
+#### Cuisine
 
 Ethiopians abstain from pork and shellfish; both the Christian and Falasha Jewish communities follow dietary restrictions forbidding these foods. Traditional dishes combine various meats and vegetables as a thick
 
 
 stew called *wat*. People serve *wat* on pieces of *injera*, a sourdough flatbread made from fermented *teff* flour. Instead of plates, people use slabs of *injera* to serve food, and only use their right hand when touching food. Clean water can be an issue, and popular beverages include *katikala*, distilled from millet, *tela*, a local beer, and *tej*, a honey wine similar to mead. Although it is known in the highland kingdoms of Agaw and Shewa, coffee is uncommon elsewhere in the empire. A few small Sufi sects near Harar praise the drink for its restorative properties. Warriors in Agaw and Shewa grind raw coffee beans, which they call *bunn*, into a paste with lard or butter and roll them into balls, which they eat while on the march.
 
-#### **Polygamy**
+#### Polygamy
 
 The Coptic Church regularly urges the abuna to preach against polygamy in Ethiopia; it is a frequent topic in the letters sent from the patriarch of Alexandria. A minority of Ethiopians practice a form of polygamy where a man may have many wives. Neither the Christian or Falasha Jewish communities discriminate against this polygamy, and proponents claim their lifestyle is justified by scripture in the Old Testament. Regardless, any polygamist is responsible for the survival and well-being of all the children he fathers. In the Islamic sultanates, polygamy exists by virtue of historical precedent, but it is far less common. For characters who maintain a larger, polygamous family, you might use the Close Family Ties flaw.
 
-#### **Calendar**
+#### Calendar
 
 The calendar used in Ethiopia differs substantially from the Julian calendar used in Mythic Europe. Each month has only 30 days, and there are five or six days considered to be a special sort of thirteenth month, known as epagomenal or intercalary days, which complete the year. The sixth intercalary day occurs every four years. This cycle of years culminating in the extra intercalary day is named after the Evangelists, starting with John. After John, comes Mark, then Matthew, and Luke is associated with the leap year. The months mirror the Coptic calendar, beginning on the same days, but are named in Ge'ez. The Ethiopian Church uses a slightly different date for the birth of
 
@@ -4838,7 +4838,7 @@ In Ethiopia, many believe some blacksmiths, whose trade is hereditary, are folk 
 
 Shapeshifting bouda are detailed in *Between Sand and Sea* . However, Ethiopian bouda might be faeries who inspire such behavior to harvest vitality, or weak tempter demons who seek to corrupt good Christians and spread sin.
 
-## **Bouda Hyena-spirit**
+## Bouda Hyena-spirit
 
 **Faerie Might:** 10 (Me)
 
@@ -4903,21 +4903,21 @@ The church in Kulubi becomes a pilgrimage destination as people arrive for the s
 
 Pilgrims attend mass at Axum's Church of Maryam Tsion. Many of the devout continue to the carved stone churches in Roha, completing a symbolic pilgrimage to Jerusalem.
 
-#### **Warriors and the Army**
+#### Warriors and the Army
 
 Military units in each kingdom follow the ancient Axum tradition and divide their forces between cavalry and infantry. Typical infantrymen wield swords and spears while using shields. The 8-foot-long spears are balanced for both melee combat and short-range thrown attacks of about twenty-five paces. The spear is so ubiquitous in the Ethiopian military that the Amharic word for 'spear' and 'war' is the same. Cavalry wears heavy chain mail, but most infantry and some lighter cavalry wear the equivalent of quilted armor. Local taxes are used to feed the dedicated soldiers of a local lord, but even some professional soldiers are required to keep farms.
 
 Quickly raised local militias often have nothing more than a protective shield and a dagger or spear.
 
-#### **Lowlands and Highlands**
+#### Lowlands and Highlands
 
 Ethiopian culture is strongly divided between the highlands and the lowlands of the Red Sea coast. The highlands of the Ethiopian plateau enjoy a wide range of temperatures, but also include many dry and alpine regions, where overland travel can be quite challenging and finding fresh water is difficult. Lowlanders, by contrast, maintain a lifestyle dependent on the sea and primarily use the Tigray dialect. The temperatures in the lowlands regularly reach 32 degrees Centigrade throughout the year. Both regions raid one another for livestock, and regular feuds over the use of arable land for farming or grazing create localized tensions and distrust.
 
-### **Christianity and Judaism**
+### Christianity and Judaism
 
 Calling themselves Beta Israel, "the children of Israel," the Falasha Jews remain culturally distinct, keeping marriage within their communities and maintaining Jewish practices. Concentrated in the Falasha province in Agaw and Gojjam, as well as in Bet Amhara, they peacefully coexist with the surrounding Christian majority. Gudit once reigned as queen over the region, and these notoriously fierce warriors rampaged through Ethiopia as her army. However, the last 100 years of Zagwe rulership seems to have erased any resentment and many loyally serve the Emperor. Christians live alongside the Falasha in their towns, where they help with burials since the Falasha have taboos regarding the handling of corpses. While unusual, being a Jew in Ethiopia does not qualify the character for the Outsider flaw unless the character is also a blacksmith, due to superstitions associated with blacksmiths and the evil spirits known as bouda.
 
-#### **The Legacy of Sheba**
+#### The Legacy of Sheba
 
 The ancient pedigree of the Ethiopian people is a book known as the *Kebra Negast* (The Glory of the Kings), written in the scholarly language of Ge'ez. This 117-chapter chronicle details the story of how Solomon seduced an Ethiopian queen of Sheba called Makkeda, who then conceived a son, Menelik, and returned home with Solomon's ring. Later, Solomon's son returned, proving his birthright with the ring, and then enjoyed an extended stay with the king. After insisting he must return to his kingdom, Menelik asked Solomon for a tassel of the tapestry used to cover the Ark of the Covenant. Solomon felt he could not send Menelik back to Ethiopia alone, and asked for the firstborn sons of all the tribes to accompany Menelik, led by the son of the high priest, Azariah. Upset about the perceived exile, the sons stole the Ark of the Covenant, which miraculously spirited Menelik's party home before Solomon could assemble a pursuit. Once back in the Ethiopian highlands, Menelik and these sons established a new Zion, believing the Ark to be a gift from God. Succeeding to the throne, he utilized the great power of the relic, marching on enemies and repel-
 
@@ -4930,7 +4930,7 @@ This saga holds a special place in the hearts of the Ethiopian nobility, particu
 
 Ethiopia is Christian, with an important Jewish community and a few Muslims. Jews live in the Falasha region of Bet Amhara and the Gojjam region of Agaw, and some Muslims live in both Bet Amhara and Medri Bahri. However, large populations of Muslims inhabit the southern tributary states. No accepted pagan populations exist within the country.
 
-#### **Christianity**
+#### Christianity
 
 Three tenets distinguish Ethiopian Christianity. First and foremost, it is a monophysite religion, like that practiced in Nubia and the Coptic Church. Ethiopians believe the divine and human natures of Christ are inextricably intertwined; his human nature was "dissolved like a drop of honey in the sea." Second, an Ethiopian Christian appeals to a hierarchy of angels and saints known as "the Kidusan," as well as to God, when praying. This group conveys the prayers of the faithful to God and carries out the Divine Will. Third, it is the representation of the Ark of the Covenant, the tabot, that is consecrated and holy, not the church structure. Each tabot, dedicated to a particular patron saint, rests in an inner sanctum accessible only to the priests. These priests pray on behalf of the community and carry the tabot through the town on religious holidays. Additionally, the Ethiopian Church uses Ge'ez as its liturgical language, not Latin, but this is more of a cultural than philosophical difference.
 
@@ -4938,7 +4938,7 @@ Several odd traditions govern Ethiopian church buildings, dictating even the for
 
 This sacred forest carries the faithfuls' prayers into Heaven. In communities with these forests, the Divine aura is concentrated within the forest area, resulting in an aura one lower in the areas outside the forest, even if the church is in the middle of town. A particularly lush forest means a stronger Divine aura, usually one higher than standard (See *Realms of Power: Divine Revised*, page 10). Additionally, a church's tabot is consecrated and it almost never contains relics, but rather replicas of the stone tablets carried by Moses. The tabot serves as the focus for the aura and maintains it, even when taken out of the forest, for as long as it was in the aura.
 
-## **Church Structure**
+## Church Structure
 
 Appointed by the head of the Coptic Church, the patriarch of Alexandria in Egypt, the abuna leads the Ethiopian Church. The abuna serves for life, and an Egyptian has historically fulfilled the office. These priests arrive in Axum, certain they have been exiled, and often unable to speak the local languages of Amharic or Ge'ez. The abuna appoints bishops, who then appoint local priests and some of the debterah (singular: debtera), or lay deacons.
 
@@ -4948,18 +4948,18 @@ Twice a year, a messenger arrives from the north, bearing letters from the patri
 
 If your saga follows history, ibn Laqlaq finally overcomes his opposition in 1235 and becomes Cyril III, head of the Coptic Church. Fortunately, Abuna Yeshaq seems in good health after arriving in 1210. However, historically, the abuna dies in 1225, and Giyorgis II replaces him in 1235, serving until 1284, when the future saint, Takle Haymanot, becomes abuna at the age of 69.
 
-#### **Islam**
+#### Islam
 
 While Christianity remains the dominant religion, Islam has a long and storied past in Ethiopia. In 1220, almost all Muslims in the empire live in the southern sultanates or the Dahlak archipelago. However, two notable exceptions exist. One ancient community thrives in Negash, in Medri Bahr, and another enclave maintains the mosque in the Bet Amhara port of Zeila, just beyond the straits of the Bab-al-Mandab. The Zeila settlement was founded in 613, when the Prophet's daughter Ruqayyah bint Muhammad, her husband Uthman ibn Affan, and thirteen other Muslim travelers fled persecution by the Christian king, Quresh.
 
-#### **Story Seed: The Trees Listen**
+#### Story Seed: The Trees Listen
 
 Can the Divine aura be transplanted with the trees? When magi discover the nature of Divine auras in Ethiopian church forests, they may be tempted to transplant whole stands of trees to other locations, essentially bringing the aura someplace else. What is the nature of items carved from this wood, and what are the consequences of transporting portions of the forest beyond Ethiopia? Could it be used to instantly create a Divine aura someplace else, or craft items for imprisoning demons or stunting another magus' magical ability? If it works with a Divine aura, could a similar effect be created for other Realms, presuming such wondrous trees could be found?
 
 
 Emperor Armah granted the exiles imperial hospitality until they returned to the Islamic community in Medina in 622. Those who remained in Ethiopia built the mosque in Zeila and then settled in Negash.
 
-#### **Paganism**
+#### Paganism
 
 Before Saint Frumentius, Ethiopians venerated Astar, the sun god, his son Mahrem, and Mahrem's many children. This pantheon was also worshiped in southern Arabia during antiquity. The shrines and temples to these gods in Ethiopia were converted or destroyed during the last half of the Axum Empire, following its conversion to Christianity. Other than slaves captured from beyond its borders, active pagan communities do not exist in Ethiopia. However, aggressive tribes live beyond the Takkaze river, and beyond the Kingdom of Damot, to the south. They raid border towns for captives, goods, and livestock. Enslaved pagans live in squalor, treated like animals and considered enemies of the Church and the empire. Standing decrees in Agaw and Shewa make killing pagans a legal activity, and the Church makes no attempt to convert the tribes.
 
@@ -4969,11 +4969,11 @@ The Ethiopian economy is still primarily agrarian. While farmers grow crops like
 
 Rich in raw goods, Ethiopians use routes to the north and west to trade with Nubia. Some trade occurs with ports throughout the Red Sea, but the sultanates of Asir and Yemen fail to discourage piracy against Ethiopian merchants, making ventures risky and dangerous. Animal skins, exotic spices, even elephants and ivory, captured from the lowlands or the southern borders, are exported from Ethiopia. A brisk slave trade operates as well, stealing away pagan tribe members and selling them to Nubian merchants and Muslim slave markets in Harar or the Dahlak Archipelago. Some wealthier Ethiopians keep a few slaves, who work mines or fields. Gold is found in the mountainous southwest and west, as well as in a few places along the escarpment dividing the highlands and lowlands. The salt flats of the Great Rift Valley provide a source for the mineral, making caravans out of the Great Desert unnecessary. Salt remains valuable enough that parts of Ethiopia accept it as currency.
 
-#### **Transport**
+#### Transport
 
 Ethiopia's mountainous highlands, with their steep slopes and sheer cliffs, make overland journeys quite challenging. Crossing rivers often adds leagues of distance and days of travel time due to the lack of easy fords and absence of reliable bridges. River travel also suffers, since good quality landing sites are uncommon. Most people use horses, camels, and donkeys, all of which live in Ethiopia and adequately manage the terrain. Travelers prefer to use the Red Sea whenever appropriate, as travel up and down the coast is faster and less dangerous than traveling cross-country.
 
-#### **Regional Wildlife**
+#### Regional Wildlife
 
 Many of Ethiopia's animals are novel sights for European travelers in Africa for the first time. Troupes of five to 250 baboons roam the countryside, and can be quite terrifying when angry. Hyena packs of four to twenty animals are also common. Larger animals, like elephants and elephant-eating serpents, gazelles, hippopotamuses, leopards, lions, many varieties of antelope, rhinoceroses and zebras all thrive in the country. In the southern regions, one can find other strange beasts, like the long-necked giraffe, or large bats, such as the flying fox. The painted dogs, noted for their distinctive coloration, and the odd, scaly pangolin live in the northern lands, near the Semien mountains. Traders take both hides and live animals for sale in
 
@@ -5028,7 +5028,7 @@ The rare spices of both frankincense and myrrh are collected in small quantities
 
 The flying serpents, or jaculi, that live in these trees in Mythic Arabia (See *The Cradle and the Crescent,* pages 116–118) are not found in Ethiopia, leading some to believe the trees there might be the result of direct cultivation. However, if someone brought the trees from Yemen or even the isle of Soqotra (See *Rival Magic*, page 110) to Ethiopia, why don't they or their descendants tend them now? Is there a difference in the potency, and is it possible that Yemeni merchants might sabotage Ethiopian sources to secure their own?
 
-# **Story Seed: The Devil's in the Trees**
+# Story Seed: The Devil's in the Trees
 
 A lesser false god demon has managed to either cultivate several stands of myrrh trees or transplant them near the covenant. It then proceeds to reveal the stands to multiple groups of villagers, merchants, local nobles, and covenfolk, hoping to incite not only greed, but possibly murder. If the magi become involved, the demon is sure to attempt to infiltrate the covenant's grogs or covenfolk, so that it can work itself closer to corrupting the more powerful magi.
 
@@ -5053,18 +5053,18 @@ In Ethiopia, noble titles are inherited first by any surviving brothers, then pa
 
 Four provinces comprise the kingdom of Medri Bahri. Upper and Lower Bur stretch along the coast, Eritrea lies to the north, and Tigre occupies the central region. The population lives primarily as farmers and fishermen in a land covered in mangrove forests. Medri Bahri has a hot, humid climate, and occupies the majority of Ethiopia's lowlands. However, it also stretches up, into the highlands; the Takkaze River serves as its southern border. The bahri negus rules from Debarwa, on the highlands, and is considered the second most powerful man in Ethiopia, after the emperor.
 
-#### **Adulis**
+#### Adulis
 
 The Yemen sultanate sacked this port in the eighth century, when it occupied the Dahlak archipelago in response to pirate attacks. The once-rich trading center never really recovered. It is still the home of the
 
 
 bishop and the governor, who maintains a standing military force there.
 
-#### **Bab-al-Mandab**
+#### Bab-al-Mandab
 
 This strait separates Medri Bahri and the rest of Ethiopia from Yemen. It is controlled by the Muslim navies of Yemen, who are friendly with the sultanate of Adal. Passing beyond it requires a story, the same as passing through the straits of Gibraltar.
 
-#### **Danakil Desert**
+#### Danakil Desert
 
 Dividing Medri Bahri from Bet Amhara, this broken landscape of heat-scorched salt flats occupying southern side of the Bab-al-Mandab strait marks the southeastern boundary of the kingdom. Similar to salt mines in the Great Desert, far to the west, small communities subsist by hacking large slabs of salt from the ground. Long camel caravans carry this "white gold" to markets in Adulis, Debar-
 
@@ -5089,23 +5089,23 @@ Depending on their other capabilities, a *debtera* may make an interesting grog 
 
 wa, and Zeila. A fiery and capricious ifrit jinn occupies an active volcano in a depression within the desert. This cone of black basalt is known as Erta Ale, or "Smoking Mountain." A lake of molten rock bubbles within its deep, pit-like caldera, periodically spitting a clump of burning debris or overflowing the volcano's rim. The mountain sports a bare, shallow slope, and almost nothing grows nearby. However, for magi considering a location to pursue the volcano magic suggested in *Hermetic Projects*, this is an ideal site.
 
-#### **Debarwa**
+#### Debarwa
 
 Home of the bahri negus, Debarwa lies about twenty miles from the edge of the plateau dividing the highlands and lowlands, nestled along the banks of the Mereb river. As the capital of both Tigre and all of the Medri Bahri, it controls rich mines of copper, gold, and iron all along the escarpment. Boasting a population of 6,000, many of the trade routes from the coast to the highlands pass through Debarwa and it holds a large market every Saturday. All of this combines to make the bahri negus very rich, and able to maintain a strong army of very well-equipped soldiers. Bouda faeries prowl its roads and wild forests, urging anyone they find to lustful or murderous excess. This activity makes hyenas particularly feared and hated. The bahri negus places a bounty on live hyenas, trying to capture the faeries, but he fails to realize this will likely be ineffective.
 
-#### **Story Seed: On a Wing**
+#### Story Seed: On a Wing
 
 Covenants which become more involved in mundane elements of Ethiopia might find great profits to be made either by building bridges or providing magical ways to circumvent the natural obstacles of travel, such as items which allow short periods of flight. However, both have the potential to draw in jealous rivals either attempting to take over a bridge and charge a toll, or ambush a covenant's agent to steal an enchanted device. In both cases, the magi must decide what sort of response and involvement is best not only to resolve the situation, but to maintain the status of the covenant in the local area as word of their expeditious construction or travel methods becomes better known.
 
-#### **Massawa**
+#### Massawa
 
 After an expedition from Yemen sacked Adulis in the eighth century, Massawa grew important as a trade port. Fifteen leagues northwest of Adulis, Massawa is built across two islands and along the shore. The Muslim Sheikh Hanafi rules here, swearing allegiance to the bahri negus. The influx of merchants makes the sheikh rich, wealth he has used to build a mosque on the larger island out of carved white coral blocks, and to sponsor Muslim missionaries to travel into the heart of Ethiopia.Sheikh Hanafi invited numerous shipbuilders from Yemen and Hijaz, who now help expand his merchant fleet. All of the sheikh's captains have instructions to carry any pilgrims bound for Mecca for free.
 
-#### **Negash**
+#### Negash
 
 This modest hamlet of Christians and Muslims lies on the trade road from Axum to Zeila. About thirty leagues east southeast of the former imperial capital, the village
 
-#### **Story Seed: Serpents of Unknown Provenance**
+#### Story Seed: Serpents of Unknown Provenance
 
 The symbol of the Order of Hermes includes snakes, and an ambitious magus might seek out an elephant-eating serpent to bind as a familiar, believing it the embodiment of magic. These great creatures may possess a more ancient legacy, as the degenerate sacred snakes of the pharaohs, corrupted since their escape from the Muslim purge of the old faith of Egypt. More fantastic sagas might make the elephant-eating serpents the spawn of Jormungandr, spreading its influence to distant shores as prelude to something terrible. Or are the enormous beasts descendants of the serpent of the Bible, revealing the potential proximity of the Garden of Eden?
 
@@ -5119,7 +5119,7 @@ Rich and fertile, the highlands of the kingdom of Bet Amhara serve as the breadb
 
 This region is the very heartland of Ethiopia, the core of the lost Axum Empire, a bastion of the Christian faith beyond the Mediterranean.
 
-#### **Amba Geshen**
+#### Amba Geshen
 
 Difficult access, wild cedars, and a natural spring pool make this roughly cross-shaped hilltop an obvious choice for fortifications. Amba Geshen served as fortress and treasury during the Axumite Empire, and as the prison-in-exile for imperial heirs after the third Zagwe emperor. However, Emperor Lalibela has abolished this practice and consecrated a church with the promise that no more sons of Zagwe would be sent to wait for the emperor's death. Named Egzyabeher Ab, or "God the Father," the church stands on the southern edge of the summit. Once again made into a fortified treasury, Amba Geshen's numerous long, narrow halls act as housing for the guards and storage.
 
@@ -5160,7 +5160,7 @@ The Imperial court is called **the makwanet**. It includes:
 
 **Tsehafi Tezaz — "**Minister of the Pen." This official guards the emperor's great seal, records the details of all important appointments, and publishes all laws and treaties.
 
-#### **Debre Damo**
+#### Debre Damo
 
 Founded by Abuna Aragawi, one of the legendary Nine Saints, the monastery of Debre Damo stands atop a mountain plateau once claimed by a serpent cult. Its cut-stone church holds a large collection of illuminated manuscripts, and intricate carvings on the beams and ceiling tell the story of the abuna's miraculous ascent to site. Tradition holds that the Archangel Gabriel watched over Aragawi, fiery sword at the ready, as a giant serpent looped its coils around the abuna and carried him up the sheer cliff.Paintings in the church record how it deposited the Saint upon a large stone and departed, never seen again. Its cult converted to Christianity under the abuna's tutelage. Anyone entering the monastery now kisses the stone in gratitude for a safe arrival.
 
@@ -5170,17 +5170,17 @@ Visitors must climb a thick rope of braided leather nearly 80 feet long to reach
 
 proximately 100 monks safe from attackers for over 700 years. The broad, flat summit contains an Axumite style church that curiously lacks a forest, nearly two dozen shared homes and their gardens, a pen for several cattle and rabbits, and a half-dozen carved stone cisterns. The whole community enjoys a Dominion aura of 3.
 
-#### **Istifanos Monastery**
+#### Istifanos Monastery
 
 Built along the western shore of Lake Hayq in southeastern Amhara, generations of Emperors used this monastery as an archive of their correspondence, documents, and land grants. Tradition states that the large, deep body of water is the result of an encounter between a haughty young princess and a pregnant woman she wronged. This terrible insult so angered God that his wrath caused the lake to rise up from nothing, drowning the princess and her retinue. Where the pregnant woman was sitting and the village behind her became an island, now marked with a small shrine and a Divine aura of 4. The lake itself hosts large, bony catfish and hippopotamuses. The surrounding shoreline supports citrus fruits, like lemons and oranges. A large, empty stone palace overlooks the lake on the shore opposite the monastery. Built by a forgotten Axumite Emperor, the structure remains unoccupied and its stones unscavenged. It has a Magic aura of 3 and the ghost of a melancholy Axumite princess haunts it. Nearby, a small Muslim village lives off the bounty of the lake.
 
-#### **Roha**
+#### Roha
 
 At first glance, only a modest village occupies this rocky, dry area; nothing seems to distinguish it as the birthplace of the current emperor, Lalibela. However, sunken beneath the surface lies the spiritual jewel of the Ethiopian empire and the legacy of its ruler, the eleven hypogeum churches of Roha. Small clusters of mud-brick and red stone homes, belonging to the town's residents, surround the tunnels leading down to these absolutely gorgeous houses of worship. Each building is carved from a single piece of stone, and this religious complex represents a symbolic pilgrimage to Jerusalem and the River Jordan.
 
 The churches occupy three sites. To the north of the channel named the river Jordan stand Bet Denagel (House of Virgins), Bet Golgotha Mikael (House of Golgotha Mikael), Bet Maryam (House of Mary), Bet Maskal (House of the Cross), and Bet Medhani Alem(House of the Savior of the World). South of the river lie Bet Abba Libanos (House of Abbot Libanos), Bet Amanuel (House of Emmanuel), Bet Gabriel Raphael (House of Gabriel Raphael), Bet Lehem (House of Holy Bread), and Bet Qeddus Mercoreus (House of St. Mercoreos). The eleventh church, Bet Giorgys (House of St. George), is isolated from the others, but connected by a system of trenches. The whole complex has a Dominion aura of 7.
 
-#### **Yeha**
+#### Yeha
 
 Considered a sacred site even before the arrival of the Nine Saints, Yeha occupies the fertile and lush plain of an easily defended mountain vale. The only remaining testament to its former glory is a crumbling temple on a high outcropping. Fading graffiti indicate that the structure may have been used as a church or monastery before the roof collapsed, and a few of the internal walls as well as several large, square pillars bear Sabatean engravings. A ruined shrine sits at the base of a natural stone staircase and three rock-cut tombs sink into a bare slope south of the main structure. This temple is a third of a mile from any other
 
@@ -5192,7 +5192,7 @@ structure, at the heart of a Magic aura of 3.
 
 About two hundred people live in the nearby village, including a Falasha blacksmith, a potter, and a weaver.
 
-#### **Zeila**
+#### Zeila
 
 Built from carved blocks of polished, white coral, the walled port of Zeila serves as a rich and bustling hub of trade between Ethiopia, Yemen, and the world beyond the Red Sea. The governor maintains a strong and well-equipped army, while entertaining shifting alliances with the sultan of Adal to the south and the ras of Amhara to the east. A growing Muslim population calls Zeila home, and its mosque was built by companions of the Prophet, and has a Divine aura of 5. Wealthy merchants urge the governor to favor the sultan over the emperor, in order to ease travel through the Bab-al-Mandab strait and increase their own power.
 
@@ -5208,13 +5208,13 @@ At the nearby quarry, long and wide trenches lay in the raw rock face, as if som
 
 place to set stories.
 
-# **Saga Seed: A Temple in Africa**
+# Saga Seed: A Temple in Africa
 
 When Lalibela returned from Jerusalem in 1187, he brought with him a small group of Knights Templar who were in Cairo at the time. The knights sought to establish a second region from which to organize attacks on their enemies in the Levant and retake the recently conquered Holy City of Jerusalem. As part of their plans, they fought for Lalibela against his brother, Kedus Harme, winning the emperor's trust.
 
 These knights are a secret ally of the Emperor, attempting to build a cadre of like-minded knights in his cavalry, learning the extent of Lalibela's temporal powers and now maneuvering to gain as much influence as possible. Their discovery of a Hermetic covenant in Ethiopia may lead them to press for some form of alliance with the magi, to attempt to destroy the potential rival, or to subtly manipulate the covenant's activities toward the Templars' goals, but the direction of such a saga all depends on the sort of Templar Order the storyguide wishes to portray, be it Divine, Infernal, or mundane.
 
-#### **Saga Seed: The Angel's Share**
+#### Saga Seed: The Angel's Share
 
 If the Templars are in Ethiopia, then one very strong reason for their continued presence is a desire to claim the Ark of the Covenant in exchange for their actions and services. With the Ark of the Covenant in their possession, they would easily be able to return to France and provide their Order with the spiritual authority to establish themselves not only as an organization independent of the pope, but perhaps even justify the establishment of a nation governed by the Templars. By sending and receiving correspondence through the twice-annual letters sent by the patriarch of Alexandria, before his death in 1216, they have some idea of the events which have been transpiring in Provence. A single missive sent in 1219 alerted them to the presence of the Fifth Crusade in Damietta, and underlined the
 
@@ -5226,17 +5226,17 @@ However, the Templars who arrived in 1187 are approaching their late fifties and
 
 Depending on their relationship with the covenant, the Templars may attempt to trick the magi into stealing the Ark for them, enlist their support in forcibly acquiring it, or engineer a double-cross where the magi create a situation enabling the knights to steal the Ark. In these cases, the Templars and magi might engage in a long, overland chase toward the Crusaders in Damietta. Should the Ark reach the army, it is possible their attempt to take Cairo in July of 1221 will not fail. Or, if the magi wish to foil the Templars without resorting to bloodshed, they may replace the Ark with a replica in an elaborate heist of their own.
 
-# **Story Seed: How Many Angels Dance**
+# Story Seed: How Many Angels Dance
 
 It is said that angels helped Lalibela to build the churches at Roha, and they may still reside in the niches and at the gateways, watching over the faithful who come to pray at this holy complex. An angel might potentially appear to someone praying for guidance at an altar. Additionally, one can never be certain about the nature of a person approaching one within the church complex of Roha. These angels watch for those with great Faith or potential, and sometimes take human form to ask them for favors, to direct the completion of tasks. These endeavors might be as simple as ensuring a pious but occasionally senile anchorite is brought enough food to survive an illness, or be as involved as the recovery of people and items captured by a pagan raid. While angels may not know the greater scope of the activities they request, due to their lack of access to the secret knowledge of God, one can be certain there is a greater purpose at work.
 
 If you are considering the Templar theft of the Ark of the Covenant, then the angels might help guide the magi to either support or thwart the knights. God tacitly approved the first theft of the Ark, when it left Jerusalem, and might do the same in this situation, feeling the Ark better suits His plans if it is elsewhere. Alternatively, the Ark might be needed in Ethiopia, and the characters might be the ones God needs to ensure it remains. The angels of Roha's churches are perfectly suited and thematically appropriate to deliver this message.
 
-## **Story Seed: For the Love of...**
+## Story Seed: For the Love of...
 
 One of the angels of Roha has fallen in love with one of the mortals who attends the churches, despite the impossibility of such an event. The other angels fear the mistake of the nephilim will be committed again. However, the angels won't act directly against either the errant angel or the object of its affections. Instead, they try to influence the characters to escort the individual far away, perhaps even on a dangerous mission into Egypt or across the Great Desert. If they become desperate, perhaps one of the angels may attempt to convince one of the grogs to kill the mortal. Is it possible that the whole situation is a test for the characters, and not the angel?
 
-#### **A Framework for Pilgrimage Stories: Roha as Jerusalem**
+#### A Framework for Pilgrimage Stories: Roha as Jerusalem
 
 Designed to represent the spiritual journey to Jerusalem now denied to Ethiopians following the capture of the Holy City by Saladin, Roha encompasses the major sites one might visit when traveling to the navel of the world. By spending a season navigating the tunnels and paths, praying at each church, fasting, evading and defeating the challenges set by demons clothed in possessed locals (and thus protected from the Divine auras) or Bouda faeries calling down temptation from the rims of the hypogeums, an individual can complete a pilgrimage story as described in *The Church*, pages 16–19.
 
@@ -5260,11 +5260,11 @@ Additionally, students of Hermetic Architecture may wish to study the ruins when
 
 its heritage to the heady days of the Axum Empire. The emperor even raised a monument detailing the difficult challenge required to bring Agaw into the empire. While the current negusa negast was born in the Lasta kingdom's town of Roha, the hills and rich valleys of Agaw forged the Zagwe dynasty. Emperor Lalibela's cousin, Na'akueto La'ab, is the ras of Gojjam, and while he is not yet the negus of Agaw, he is next in line to become the negusa negast. This alone makes him the true power in Agaw.
 
-## **Lake Tana**
+## Lake Tana
 
 At fifty-two miles long and forty miles wide, Lake Tana is larger than any lake in Mythic Europe. Three rivers feed into it: the Gumara, the Lesser Abbay, and the Reb. It is more than 40 feet deep in most places, and settlements occupy sixteen of its islands. Seven islands host small fishing villages, and nine islands support monasteries built in either the round timber or rectangular Axumite style of cut stone. The largest island, Dek, is ten miles across, with three villages and two churches. The holy island of Daga lies just to the southeast of Dek; its monks forbid women and livestock from visiting. Tradition states that the island of Tana Qirqos, near the mouth of the Gumara river, once housed the Ark of the Covenant, before it was moved to the Church of Maryam Tsion in Axum. Ruins on Tana Qirqos reveal that a large temple once existed there. Those with Judaic Lore who study the site for a season find it corresponds to the proportions of Solomon's temple as described in the Torah. The whole island has a Divine aura of 4.
 
-#### **The Blue Nile**
+#### The Blue Nile
 
 Carving a sharp channel through the Semiens Mountains, the Blue Nile peels away the rich sediments and brings fertile prosperity to the Egyptian plains. Called the River Abbay by the locals, the waters of Lake Tana spill down the waterfall known as Tis Abbay ("Smoking Waters") and begin the long journey to the land of the pharaohs. Few places exist to easily cross from the eastern to the
 
@@ -5277,7 +5277,7 @@ Three lesser domains comprise the larger kingdom of Shewa. Shewa proper lies in 
 
 A cluster of very old communities serves as the core of the negus' power in Shewa. These towns are perched atop a set of northto-south mountain ridges measuring roughly five leagues long. This series of plateaus and rocky hilltops rises 3500 to 4000 feet above the Rift valley and drops into the Awash river.
 
-#### **Asbari**
+#### Asbari
 
 Built on a wide, rocky spur on the eastern edge of a high plateau cliff, Asbari often suffers from pagan raids. Homes and work-
 
@@ -5287,11 +5287,11 @@ Unfortunately for the crusaders of Europe, Ethiopia is not the home of the fable
 
 shops surround the large walled church that overlooks the town from a small hill and also acts as a defensive redoubt in times of need. The eastern and northern church walls serve as part of the town's boundary walls, and the cemetery's field of hundreds of rockcut tombs covers the northern slope. At the western edge of the community, a straight wall two paces high and two paces thick blocks access from the rest of the plateau. A winding, half-mile route leads from this wall to the town gate. The hillsides along this path, both above and below it, have been made into productive terrace farms, three terraces deep. These terraces exist in a Magic aura of 2, and grow various Plants of Virtue.
 
-#### **Masal**
+#### Masal
 
 Known for their quality pottery and razor-sharp obsidian tools and arrowheads, the people of Masal occupy three very close hilltops. Their community lies between their neighbors, with Asbari to the north, and Nora to the south. Each settlement maintains a central church and a population of about five hundred people, nestled behind a protective wall. Near each town is a vast, ancient, rock-cut cemetery with countless tombs. Many sport Axumite decorations but, strangely, nothing indicates the name or heritage of the occupants. A single, massive obelisk covered with carved medallions containing stars of Solomon bears vague Ge'ez inscriptions suggesting a royal tomb. The monolith actually indicates an entrance into a set of caverns leading deep into the earth. These caves have a Magic aura of 3 and some of them show signs of former habitation.
 
-#### **Nora**
+#### Nora
 
 Nora is a city of walls, densely populated and situated on a rocky outcrop. About 3,500 people live here, including the negus of Shewa. However, the negus spends much of his time abroad, hunting pagans and raiders. The town elders and church priests cooperated to create the ascending patchwork of living areas, small gardens and walled courtyards. Built from large stone blocks, the city wall follows the contour of the mountain, especially where the slope is nearly vertical. The streets follow the walls from the main gates back to the city center, climbing the outcropping in stages. Some streets even have walls running along both sides. Several 30-foot tall circular towers stand along the inner perimeter of the city, allowing defenders to easily guard the whole route. Inside, ornamental tiles line the causeways and most of the structures are closely packed rectangular buildings. The primary church has a small forest, only about 10 feet deep, and 20 feet tall, but very lush and verdant. Surrounded by 15-foot tall walls which protect a rectangular, Axumite-era building, it has a Dominion aura of 3. Nearby, but outside the city, a burial mound of raw stone contains hundreds of carved tombs.
 
@@ -5353,7 +5353,7 @@ Found along the coast of the Red Sea, the Icthyophagi ("fish eaters") live deep 
 
 Icthyophagi do not form families, instead they all live together and raise their children communally. They are famous for their resistance to pain.
 
-#### **Chelonophagi**
+#### Chelonophagi
 
 Some Icthyophagi live on the coastal islands of the Red Sea, and these have learned instead to feed on turtles. The islands are low-lying and numerous; the outer islands break the waves leaving the inner ones calm and idyllic. None of the islands have any soil or fresh water. During the day, immense turtles — some the size of a boat — bask in the sun at the surface of the sea. The Chelonophagi ("turtle eaters") swim up to the sleeping giants and turn them onto their backs, then swim them back to shore. They are baked belly-upwards in the sun then eaten; the upper shells are used as skiffs for when the Chelonophagi make their trips to the mainland to find fresh water.
 
@@ -5377,7 +5377,7 @@ A Rhizophagus is a prize item at an Egyptian slave market; not only are they fam
 
 **Intrinsic Virtue & Flaw**: Herbalism (*Art & Academe*, page 55); Noncombatant. For those without *Art & Academe*, the Herbalism Virtue grants access to a special Ability called Herbalism. This Ability duplicates the uses of the Medicine Ability without requiring academic knowledge of anatomy and physiology but rather relying on erroneous yet effective folk beliefs about disease and their remedies.
 
-#### **Story Seed: Tribal Medicine**
+#### Story Seed: Tribal Medicine
 
 A king's daughter has fallen ill, victim to a disease that has proven resistant to all cures. The characters are tasked, either by request or in hope of claiming the offered reward, to find a cure. Rumors speak of a Rhizophagus healer with remarkable powers
 
@@ -5393,7 +5393,7 @@ Icthyophagi characters are suited to sagas set by the coast. They tend to have h
 
 **Intrinsic Virtue & Flaw**: Enduring Constitution; Weakness (drinking water)
 
-#### **Story Seed: Coastal Raiders**
+#### Story Seed: Coastal Raiders
 
 A tribe of Icthyophagi have tamed one of the mighty sea-eels of the Red Sea, and are using it to raid merchant ships. This is unusual behavior for the peaceful Icthyophagi, and characters might be interested in who is really directing the tribe.
 
@@ -5406,7 +5406,7 @@ Hylophagi are in general considered not worth the effort of importing from the S
 
 Characters who hear about the immense village-trees of the Hylophagi may see an opportunity for an unusual covenant. They may travel into the Slavelands in search of a seed (which can be subjected to magically-accelerated growth), or else a fully-grown tree which can be moved with *Free the Striding Tree* (**ArM5**, page 139), or similar magic. A village tree has the approximate interior dimensions of a *Mystic Tower.* Employing Hylophagi as covenfolk is a good idea since they have expert knowledge of how to care for a village-tree.
 
-# **Story Seed: The Far-Away Tree**
+# Story Seed: The Far-Away Tree
 
 A tribe of Hylophagi dwell within a magically-awakened village-tree. Initially content with wandering through the Hylophagi territory, the tribe has now set its eyes on the lush Nile Valley. The juggernaut of living wood is virtually unstoppable by mundane means: its rubbery bark and fibrous wood makes it immune to most weapons, and it can stomp flat houses and armies with equal ease. Add to this a village of Hylophagi living among its branches armed with clubs and thrown rocks, and it is no wonder that the locals turn to the player magi for help. If they lack the capacity for direct assault, the characters should determine why the village has suddenly set its eyes northward — could it have something to do with the tribe's new witch-doctor?
 
@@ -5450,7 +5450,7 @@ To the south of Ethiopia stretches a great country rich in pastures, but it is w
 
 \*The Acridophagus curse causes them to start making Aging rolls at 15, when the louse infestation begins.
 
-#### **Story Seed: Famine of Ages**
+#### Story Seed: Famine of Ages
 
 A group of Acridophagi travel into the Nile Valley to try find someone who can help them, but are are treated with contempt. Maybe the characters will help them instead? Many years ago, a sorcerer bound a famine demon into an Acridophagus child, inking spells of binding onto his skin. In return for this terrible fate, he was treated like a king and kept safe from harm. When he eventually was to die of old age, the winged lice would each take a piece of the demon away with it, destroying it for ever. However, the tribe now believe that the sorcerer they employed may have been corrupt, and harbor the terrible suspicion that upon the man's imminent death, the demon will be multiplied and carried to the ends of the earth. Undoing this evil might involve finding the original sorcerer (undoubtedly now very powerful), or it could be as simple as killing the demonic vessel.
 
@@ -5460,7 +5460,7 @@ A Cynamolgus has a strong connection to his pack of dogs, who treat him as their
 
 **Intrinsic Virtue & Flaw**: Puissant Animal Handling; Compulsion (protect his pack)
 
-# **Story Seed: The Gamekeeper Turned Poacher**
+# Story Seed: The Gamekeeper Turned Poacher
 
 The district around a covenant is sorely troubled by a *bouda*, and it is suggested that a Cynamolgus might be the best solution to this elusive creature even a magus cannot kill what he cannot find. The characters are asked to track one down; there are rumors of a wanderer divorced from his homeland nearby. The price he asks is steep, and once he has completed his task, the characters may discover that he is more trouble than the *bouda* ever was.
 
@@ -5483,7 +5483,7 @@ The women hold power in the bands, and are afforded great respect, and no man wi
 
 When the rains come, the Megabari graze their stock and feed on their blood and milk, which they allow to seethe together for a while. However, as the pasture withers, the Megabari retreat into the marshy places and fight with one another for the scant grassland. Such wars begin with the throwing of stones; once injuries ensue they continue with bows and arrows, which leads to many casualties in mere moments, so good archers are they. The fighting is usually terminated by the women, who rush into the fray to protect their sons.
 
-#### **The Carnivorous Bull**
+#### The Carnivorous Bull
 
 The carnivorous bull originates in the land of the Megabari, but is occasionally brought back by Nubians who capture a Megabari tribe as slaves and take their livestock as spoils. Some believe that Megabari
 
@@ -5493,7 +5493,7 @@ The carnivorous bull originates in the land of the Megabari, but is occasionally
 
 **Intrinsic Virtue & Flaw (Women)**: Temporal Influence; Sensitive (to disrespect)
 
-# **Story Seed: The Man-Eating Cow**
+# Story Seed: The Man-Eating Cow
 
 All through Nubia cattle are dying mysteriously. Often they simply disappear, but occasionally skin or bloodless bodies are discovered; magic is suspected, and the characters may come under suspicion. All these cows have their origin in Megabari lands; stolen spoils that contain carnivorous bulls that now infest Makurian herds.
 
@@ -5558,15 +5558,15 @@ The second potential role for a covenant set in these lands is political; a cove
 
 The covenant sites described in this chapter do not, officially, contain covenants in 1220. No magi are described, but characters whom magi might recruit, and resources that they might find, are given in detail, to make it as easy as possible for storyguides to turn them into full covenants, or for troupes to found their own homes, if desired.
 
-#### **To Scour the Past**
+#### To Scour the Past
 
 For troupes hoping to loot through tombs and seize the magic they believe simply waits to be claimed, it may be best to have no other covenants in the region. If, as the saga progresses, the troupe decides that they would like to introduce Hermetic politics, then magi can arrive to found covenants at one or more of the other sites described here.
 
-#### **To Break the Rules**
+#### To Break the Rules
 
 The Fifth Crusade made landfall in Damietta in 1218, and is preparing for an attack on Cairo. An actively crusader covenant may decide to establish itself in the Nile region in order to dodge the Order's rules on interference with the mundanes, believing their presence in a land without Tribunal membership frees them from the potential charge of "endangering the Order through my actions," or "bringing ruin upon my sodales." Without Hermetic neighbors, without regional residents, they might believe there is no one to accuse them and no place to bring charges, and at first this might well be true. However, their actions may force other covenants in the Roman or Levant Tribunals to send magi to establish a presence in the area. Covenants may have other reasons for seeking the Hermetic frontier. To a covenant tired of political maneuvering or bitter about the limitations of established tradition in a Peripheral Code, the idea of establishing an unsupervised covenant may seem very attractive.
 
-#### **To Redraw the Map**
+#### To Redraw the Map
 
 A new covenant wishing to join and expand an existing Tribunal must be known to either local members of House Mercere, or members of the Tribunal the magi wish to join, and who must be able to contact the covenant in good time **(***Houses of Hermes: True Lineages*, page 49). The covenant must also meet any specific requirements for membership dictated by the Tribunal's Peripheral Code.
 
@@ -5574,7 +5574,7 @@ Inter-tribunal disputes, such as border
 
 definitions, must be settled at Grand Tribunal (**ArM5**, page 14). However, as of 1220, no precedent has been established regarding contested tribunal boundaries. One obvious reason for contesting a Tribunal boundary is to increase access to vis sources. For more vis-starved Tribunals, the opportunity to claim a large region as part of the Tribunal means wider legal access to a desperately desired resource. For politically divided Tribunals, the addition of new covenants might upset the status quo, shifting the balance of power on voting matters.
 
-#### **To Build the Nile Tribunal**
+#### To Build the Nile Tribunal
 
 Perhaps the most politically ambitious goal is the creation of a Nile Tribunal. A Tribunal must have at least twelve magi from at least four covenants, and at least one Quaesitor to preside at Tribunal meetings.
 
@@ -5655,19 +5655,19 @@ The khadim are the special guard of the Sheikhs. They are drawn from the zaggala
 
 Other notable inhabitants include the old wise women who help maintain the homes and keep the village's stories or the firekeeper, an old man chosen to monitor not only the primary gate, but tend a small fire kept there for the whole of the village to light their household hearths.
 
-## **Companions**
+## Companions
 
 Potential companions at Siwa Oasis include a Folk Witch or a Berber treasure hunter.
 
-#### **Aznag ag Tannan**
+#### Aznag ag Tannan
 
 A renowned and capable Berber treasure hunter, Aznag specializes in surviving the rigors of traveling in the desert, locating ruins amidst the sands and returning to civilization with the trinkets and objects men desire. He's a canny and slick operator who works hard to never reveal the secrets of his methods.
 
-# **Story Seed: Sometime Lords of Siwa**
+# Story Seed: Sometime Lords of Siwa
 
 Bedouin raiders occasionally attack the oasis, raiding the fields in an attempt to capture women, livestock, goods, and supplies. Should the magi arrive while a particularly vicious attack is underway, the elders of Siwa might be willing to enter into an agreement with the wizards, in exchange for the recovery of their kinfolk and a promise of future protection. This desert tribe is different, however. The raiders entered into their own bargain with a sahir, or perhaps even a corrupting and bloodthirsty demon. Saving the people of Siwa means finding them before the tribesmen's patron claims them for its own appetites. The adventure's antagonist need not fight to the death, but instead might become a thorn in the side of the future covenant.
 
-# **Story Seed: Locating Laboratories**
+# Story Seed: Locating Laboratories
 
 Potential laboratory sites might require liberation before the magi can establish them for research. Old ghosts, desert spirits, or bound jinn could all linger in spaces once used by pagan hierophants or Gifted sahir. Unquiet entities, they require some service before they
 
@@ -5675,11 +5675,11 @@ Potential laboratory sites might require liberation before the magi can establis
 
 accept a new custodian, like the recovery of a lost idol or the restoration of an ancient rite. While some wizards could resort to force to destroy the spirits and claim the space, there could be many reasons why the sites are better with their magical occupants left unharmed, such as laboratory augmentations, potential guardians, or laboratory assistance.
 
-# **Story Seed: A Turb From Without**
+# Story Seed: A Turb From Without
 
 If the magi wish to avoid dealing with the repercussions associated with the inevitable deaths of the Zaggalah while serving as grogs, then the wizards may seek to recruit from the Zenata Berber tribesmen who range around the oasis. These rough men desire goods, wives, and excitement, and they are very familiar with the kind of grim and dangerous lifestyle which is associated with living by the sword. Securing the services of their host means keeping them paid, but also occupied. If left bored and underutilized, they are likely to take to raiding passing caravans or travelers, which could very quickly draw unwanted attention from the sultan in Cairo. Stories associated with turb are more probably associated with the consequences of their more reckless members getting into trouble due to inactivity.
 
-#### **Story Seed: Filling the Coffers**
+#### Story Seed: Filling the Coffers
 
 Fortunately, identifying and harvesting several of the Siwa Oasis vis sources only requires interacting with the town elders, to learn the folkloric traditions and legends of the different places associated with strange happenings. Unfortunately, magi tend to have problems interacting with people socially, and even those who enjoy the Gentle Gift must earn the stories from the town sheikhs through magical interrogation, social interaction, or good-natured bartering. This process might involve acquiring luxury goods from Cairo and Alexandria, proving the magi have truly accepted the Siwan customs and culture, or resorting to Mentem trickery. Alternatively, the wizards may choose to discover these sites on their own, spending seasons traveling from place to place and experimenting with each one, or interrogating local spirits and ghosts to uncover the methods associated with collecting the specific pawns of vis. This process has the added benefit of making the magi more familiar with the oasis, but doesn't have the same potential to strengthen their relationship with the Siwan elders.
 
@@ -5701,11 +5701,11 @@ For the major form of this Hook, there are five or more sites requiring protecti
 
 the Berbers requires an initial show of force, a promise of regular spoils, and delivery of that promise. A careless covenant might find themselves with a reputation as the kept wizards of a bloodthirsty tribe, rather than the allies of capable desert nomads.
 
-#### **Specialists and Other Covenfolk**
+#### Specialists and Other Covenfolk
 
 Siwa Oasis operates as a sort of cross between a Manor and Farm, and a Grand Castle (see *Covenants*, pages 45–46), in that it maintains many date palm orchards throughout the oasis but the village itself is a fortified structure capable of withstanding serious onslaughts. However, the nature of the community means there are few craftsmen available, and its close-knit culture means outsiders remain generally unwelcome. When a need arises for hard goods the people cannot make themselves or barter for with passing caravans, they send a merchant to Cairo or Alexandria to acquire the item.
 
-#### **Specialists**
+#### Specialists
 
 While there are craftsmen in the village, the magi would need to recruit true specialists from elsewhere. The community's herdsmen maintain several flocks of 20 to 30 goats and modest stables of camels. Feel free to adjust these numbers as desired by the troupe.
 
@@ -5729,7 +5729,7 @@ While there are craftsmen in the village, the magi would need to recruit true sp
 
 **Reputations**: Merciless Warrior 4 (Deserts of Egypt and Libya), Finder of Lost Treasures 3 (Berber Tribes), Hard but Fair 3 (Siwa Oasis)
 
-#### **Combat**:
+#### Combat:
 
 *Dodge*: Init +1, Attack n/a, Defense +6, Damage n/a
 
@@ -5760,7 +5760,7 @@ While there are craftsmen in the village, the magi would need to recruit true sp
 Aznag likes eating well, riding hard, and living well, and he's realized the best way to enjoy that lifestyle is to take it from others with the least amount of danger to himself. This usually means looting old ruins and graves, acting as a guide, or the occasional spot of banditry. He has a group of seven cousins who look to him as a leader, and he acts as a captain to their group.
 
 
-#### **Servants**
+#### Servants
 
 The rest of the Siwan villagers maintain the fields and the daily operations of the village. Even children as young as seven help with gardens and date palm orchards.
 
@@ -5768,7 +5768,7 @@ The rest of the Siwan villagers maintain the fields and the daily operations of 
 
 The zaggalah commonly maintained same-sex partnerships among their number. This behavior did not prevent them from marrying wives and the Siwa community openly accepted their relationships as unremarkable. This greater level of intimacy adds complications when using the zaggalah as grogs. This is not simply because the wider world usually reacts poorly to such devotion between men, but because casualties gain significant poignancy, potentially driving a zaggal to despondent, self-destructive behavior; dangerous attempts to rescue or aid others in combat against impossible odds or in acts of great bravery; or simply result in horrible depression, as they grieve their fallen love.
 
-# **Story Seed: The Turb From Within**
+# Story Seed: The Turb From Within
 
 The zaggalah are the most familiar with outsiders, often dealing with those who seek to trade with the oasis or purchase supplies from them. They understand prosperity and what it can bring. Additionally, these are adventurous young men, who might be persuaded by fantastic stories and the promise of excitement, and who might be easier to deal with, given the wizards have likely just made an arrangement with their town elders. Negotiating with them, offering to support them on an occasional retributive attack, or presenting the opportunity to see the wider region and return flush with wealth might be enough. However, such negotiation is certain to require a proof of not only the magical prowess of the magi, but a demonstration of the magi's sincere consideration for the zaggalah. In the harsh environment of the Great Desert, trust is nearly as important as water.
 
@@ -5776,11 +5776,11 @@ The zaggalah are the most familiar with outsiders, often dealing with those who 
 
 Everything in this section is subject to change once the magi set up a covenant here.
 
-#### **Income and Supplies**
+#### Income and Supplies
 
 Relatively poor, Siwa Oasis acquires manufactured supplies from the proceeds of seasonal palm date sales in Cairo and Alexandria. It lacks the manpower to render salt from the lakes, and salt often arrives via caravans, reducing the need for local salt production.
 
-## **Life at Siwa Oasis**
+## Life at Siwa Oasis
 
 The insular culture of Siwa Oasis is fairly simple. The people grow dates, some olives and wheat, keep small herds of goats and camels, trade with passing caravans, and live their lives. They brew a drink from the heart of date palms, called lagbi, which is intoxicating when it ferments.
 
@@ -5790,7 +5790,7 @@ The men shave their heads and the women wear elaborate silver jewelry while keep
 
 Siwa Oasis has four potential sites for laboratories and infrastructure, and a functioning covenant requires at least two. These consist of Siwa Village, and any one of the following: the main oracle temple at Aghurmi, the lesser temples at Abu Sharef in the east, and the lesser temple at Bilad al-Rum in the west.
 
-#### **Environment**
+#### Environment
 
 The oasis itself is a large depression, some 50 miles long, and about 5.5 miles
 
@@ -5799,11 +5799,11 @@ of date palms, springs, and light foliage. The fortified settlement of Siwa is n
 
 patchwork of desert terrain and rich swaths
 
-#### **Main Structures**
+#### Main Structures
 
 Built in 1203, the walled village of Siwa is called "Shali" by its inhabitants. The main oracle temple at Aghurmi is about 3 miles to the east of the main settlement. The lesser temple at Abu Sharef is 28 miles to the east, on the far shore of the Al-Zayat salt lake, in an abandoned and crumbling village. Abu Sharef is generally considered the easternmost edge of the oasis community's territory. On the western edge of the depression, 13.5 miles from Shali, are the crypts, quarries, and the temple at Bilad al-Rum.
 
-#### **Outlying Buildings**
+#### Outlying Buildings
 
 There are numerous small structures scattered throughout the depression. These are usually mud brick houses consisting of one or two rooms in various states of disrepair.
 
@@ -5811,7 +5811,7 @@ There are numerous small structures scattered throughout the depression. These a
 
 The remote oasis does not really have external relations before the magi arrive, but particular entanglements are particularly likely.
 
-#### **The Sultan Al-Kalil**
+#### The Sultan Al-Kalil
 
 The sultan of Egypt considers Siwa Oasis to be a part of his realm, but does not feel the resources necessary to exact taxes from it would be worth the time or manpower spent bringing the population into submission. The establishment of a cov-
 
@@ -5819,7 +5819,7 @@ The sultan of Egypt considers Siwa Oasis to be a part of his realm, but does not
 
 enant might change that assessment, but he currently has his hands full with the Fifth Crusade in Damietta. To the people of Siwa Oasis, he is just another distant ruler with no more authority than the sultan in Marrakesh.
 
-#### **Nomadic Tribesmen**
+#### Nomadic Tribesmen
 
 Siwa Oasis occasionally deals with raids and harassment from Berber and Bedouin tribes looking for loot or supplies. This diminished with the construction of the walled village, and would probably stop completely should word spread about magi in residence. However, if Siwa becomes obviously prosperous and wealthy, its success would draw the attention of greedy opportunists.
 
@@ -5827,7 +5827,7 @@ Siwa Oasis occasionally deals with raids and harassment from Berber and Bedouin 
 
 The following resources are available to a covenant on this site.
 
-#### **Income Sources**
+#### Income Sources
 
 Siwa Oasis derives part of its income from the date palm harvest, which is then sold to caravans passing through the oasis or in market at Cairo or Alexandria. This provides 20 Mythic Pounds per year.
 
@@ -5879,7 +5879,7 @@ Area Lore: Egypt 3 (oases), Area Lore: North Africa 3 (trade routes), Athletics 
 
 Gwafa's interactions with those unable to speak Tamazight are difficult. He thinks he's quite funny, however, and just because someone doesn't speak his language doesn't mean they won't appreciate his sense of humor. He still tells jokes when assisting as a guide, even if no one else understands them, and finds other people's frustration entertaining.
 
-#### **Vis Sources**
+#### Vis Sources
 
 There are four vis sites immediately available to Siwa Oasis:
 
@@ -5899,7 +5899,7 @@ There are four vis sites immediately available to Siwa Oasis:
 
 Either 6 Aquam or 6 Ignem 30 points
 
-#### **Alexander's Camp**
+#### Alexander's Camp
 
 *4 pawns of Herbam per year*
 
@@ -5919,7 +5919,7 @@ Raised by Ptolemy as compensation for preventing Alexander's body from being int
 
 This source costs 30 Build Points.
 
-#### **Crypts of Jabal al-Mawta**
+#### Crypts of Jabal al-Mawta
 
 *5 pawns of Corpus per year* Carved into the rocky hillside, "The Hill
 
@@ -5935,7 +5935,7 @@ this source ceases to exist. The Berber tribesmen like to look here for undiscov
 
 to loot. There is a Magic aura of 2 here. This source costs 25 Build Points.
 
-#### **Spring of the Sun**
+#### Spring of the Sun
 
 *6 pawns of either Aquam or Ignem per year*
 
@@ -5957,11 +5957,11 @@ This Hook might be unknown to the members of the covenant.
 
 Siwa Oasis lends itself naturally to several kinds of story.
 
-#### **Covenant Themes**
+#### Covenant Themes
 
 Siwa Oasis provides an excellent location to pursue stories of exploration, delving into the secrets of the deserts, the native traditions, and the lost ruins. Its remote location reduces its exposure to the mundane aspects of the region, allowing stories to easily focus on fantastic elements, or to provide a distant safe haven, where the magi can regroup and plan when political interaction with the caliphate and the crusaders interferes with their machinations. However, this remote location also allows for themes of scarcity and survival; what initially felt like comfortable solitude can quickly become dangerous isolation as human opportunists or supernatural predators decide the covenant looks like easy prey.
 
-#### **The Crusaders Come Calling**
+#### The Crusaders Come Calling
 
 In your saga, the Fifth Crusade may not be willing to remain ensconced in Damietta until 1221. To open an additional front against Sultan Al-Kamil and to better reinforce their power base, they send a contingent to Siwa Oasis in order to gain another local source of supplies.
 
@@ -5975,7 +5975,7 @@ Additionally, defeated armies were often sold *en masse* into slavery; the lot t
 
 mundane army, and dealing with the consequences, or a greater arc as the magi struggle to defend the covenant and secure its future against a pious and dedicated force.
 
-#### **Trade Routes**
+#### Trade Routes
 
 Siwa Oasis lies on the borders of two ancient regions likely to be rich in adventure potential. To the west stretches the Great Desert and the remnants of the Garamantians and the ruins of Libya. These sites are discussed in *Between Sand and Sea*. Additionally, caravans from the Great Desert pass through Siwa on their way to Cairo, bringing the slave and salt trade to the magi's very doorstep. In a sense, the adventure comes to the covenant on the backs of camels.
 
@@ -6131,26 +6131,26 @@ The inhabitants of Ikhmindi are an eclectic mix of people from all over Africa, 
 
 Potential companions for Ikhmindi include nomadic tribal leaders, local folk witches, regional inspectors (the equivalent of minor nobility or senior bureaucrats), or even a caravan leader. Those seeking more fantastic companions might find a local Jinn, or Beast of Virtue. Such a creature might find living inside Ikhmindi difficult, however.
 
-## **Tapara**
+## Tapara
 
 Tapara is an enterprising Nobatian man who alternates between leading and guiding caravans, making a decent living for his family, which lives safely within Ikhmindi. He's avoided becoming a slaver directly, but has trafficked in slaves before. He runs caravan ventures that tend to keep him from Ikhmindi in spring and autumn, and often spends the hot summer planning and preparing. He relishes the cooler winter months, which he prefers to spend with his wife and children, doing as little preparation for the spring as possible.
 
-## **Grogs**
+## Grogs
 
 The potential grogs of Ikhmindi are much like the covenfolk, eclectic and diverse, as they are also drawn from some liberated slaves and many locals. However, they all share a common desire to keep Ikhmindi secure.
 
-# **Specialists and Other Covenfolk**
+# Specialists and Other Covenfolk
 
 Few specialists and no teachers are available at Ikhmindi. A religious hermit might be convinced to act as an instructor for a group he found worthy. Specialists might also receive training at either Faras or Qasr Ibrim, about 50 miles downstream.
 
-#### **Specialists**
+#### Specialists
 
 Specialists useful at Ikhmindi might include a basketweaver, fishermen, herdsmen, potters, and a smith. There is nearby grazing sufficient to maintain a few small flocks of goats or camels. The huts near the riverbank provide space for several fishermen to operate.
 
 
 Potters could assist with construction, ensuring strong fired-clay bricks are used to build and maintain the tightly packed structures.
 
-#### **Servants**
+#### Servants
 
 The residents of Ikhmindi form the workforce responsible for feeding, maintaining, and operating the community. Within the walls, this population consists mainly of the women, children, and elderly. Young boys often assist the fishermen, either on their boats or with maintenance tasks at the riverside storage huts. Men who do not serve as grogs work the few sparse fields along tributary streams together, in order to be safer.
 
@@ -6158,11 +6158,11 @@ The residents of Ikhmindi form the workforce responsible for feeding, maintainin
 
 There are few resources available at Ikhmindi.
 
-#### **Income and Supplies**
+#### Income and Supplies
 
 Modest farming, fishing, and livestock resources provide for Ikhmindi's subsistence, but a covenant would probably rely on Tapara's caravan operations or other visiting caravans to acquire more exotic or expensive materials. Limited manufactured goods are carefully maintained. There is a strong tradition of utilizing everything available, down to burning dried dung as a fuel source when necessary.
 
-#### **Life at Ikhmindi**
+#### Life at Ikhmindi
 
 The community is stoically pleasant, cognizant of their remote and simple existence but also aware they are living during increasingly dangerous times. They remain here because, while it is a challenging lifestyle, it is effectively free of outside governance.
 
@@ -6170,21 +6170,21 @@ The community is stoically pleasant, cognizant of their remote and simple existe
 
 Ikhmindi is a self-contained community; nearly everything associated with the community lies within the walls of the primary structure. The walls are ten feet thick and there are two watch towers in each side, as well as one at each corner of the roughly square structure. There are two land gates, one overlooked by a watch tower on the northeastern wall, and the other the same on the southwestern wall. Inside, buildings are relatively small and tightly packed, with "streets" truthfully no more than alleyways five feet across. A full 15 feet of open space surrounds the central church building, and residents often gather there to meet or talk. Rooftop spaces are used as well, providing a cooler area to sleep. Livestock sleep inside the walls, in two stable buildings near the front gate.
 
-#### **Environment**
+#### Environment
 
 While above the Nile riverbanks and nestled in the drier surrounding hillsides, Ikhmindi exists in that sliver of terrain where the climate transitions from verdant land to harsh desert. It is often hot and dry, but the moisture of the nearby Nile allows for some irrigation. On rare occasions in winter, the ravines and hillsides are swathed in fleeting cloaks of pre-dawn fog which quickly burn away with the rising sun.
 
-#### **Main Structures**
+#### Main Structures
 
 Ikhmindi itself consists of a fortress 360 feet by 300 feet, with two gates. The main portal faces the trail from the southwest, leading to the caravan route. A smaller, northeastern entry is called the Fishermen's Gate, and leads to the narrow path down to the tributary ravine and the collection of fishing huts. A southwestern gate adjoins the courtyard of the second church. The eastern side of the community is built right up to the edge of the cliff, which drops 15 paces down to the sandy area along the river. When the Nile floods each year, these lower structures are submerged, and anyone living there moves up to join the rest of the community.
 
 The largest structures inside Ikhmindi are the two churches. About a hundred buildings packed inside the walls. Each building is big enough to hold a family, although only about half are occupied.
 
-### **Laboratories**
+### Laboratories
 
 Up to three laboratories with attached living spaces may be established in the two well-built, cut-stone churches and the central church's small catacombs. If desired, this could be made into six laboratories, but these labs would lack any attached living space.
 
-#### **Outlying Buildings**
+#### Outlying Buildings
 
 The huts near the river's shore are part of the community, but other than the boats, nets, and simple tools, there is nothing of significant value here.
 
@@ -6192,11 +6192,11 @@ The huts near the river's shore are part of the community, but other than the bo
 
 The covenant of Ikhmindi exists in a tumultuous and harsh region. Its relationships are tenuous or hostile.
 
-#### **The Eparch of Nobatia**
+#### The Eparch of Nobatia
 
 The eparch resides in the closest settlement of any significance, Premnis, called Qasr Ibrim by its former Egyptian occupiers, some 50 miles downstream. He escaped the occupation of the area by the Abbasid forces and returned to Premnis to resume his role when the garrison departed. He remains the main authority of the region, although embattled by the encroaching Bedouin tribes. The eparch's involvement in covenant operations might be pivotal in a saga focused on forging a Tribunal, but nonexistent in one where the magi seek out lost Egyptian and Nubian treasures.
 
-#### **Nomadic Tribesmen**
+#### Nomadic Tribesmen
 
 The area is home to nomadic raiders, but Ikhmindi, while a possible target, is not an obvious one. Thus, the level of interference can be adjusted to suit the desires of the troupe.
 
@@ -6204,19 +6204,19 @@ The area is home to nomadic raiders, but Ikhmindi, while a possible target, is n
 
 *Story Seeds*
 
-## **Story Seed: Any Port...**
+## Story Seed: Any Port...
 
 Following a terrible storm, the magi arrive in Adulis to find the potential covenant site devastated. Fishing boats are partially buried on the beach or submerged, the pier is demolished, homes are badly damaged. Only the lighthouse seems barely touched. Perhaps a greedy merchant or an overzealous missionary hopes to finish the destruction of the village to facilitate some new construction. In order to survive and perhaps have a chance to pay their taxes, the community elders are willing to negotiate an arrangement with the newly arrived Hermetic magi. In exchange for magical assistance and repair, the residents serve as their covenfolk. Their sailors act as grogs, and the lighthouse is ceded for sanctums. Rumors claim the structure is unstable, and the magi must decide if they will perpetuate the charade or find a legal way to secure their rights to the town from the governor of Adulis.
 
-#### **Story Seed: Free at Last**
+#### Story Seed: Free at Last
 
 Both Adulis and the nearby sultanate of Dahlek host large slave markets, fed with slaves from the distant southwestern lands, the Great Desert, and even with prisoners taken in the Levant. A group of European crusaders captured in Egypt might find themselves for sale in these distant ports. Acquiring the group requires a bidding war with a wealthy merchant who wishes to teach the crusaders a lesson by forcing them to work on the mosques being built to the north, in Massawa. Should the magi publicly outspend the merchant, they draw the attention of the bishop of Adulis, who then wonders why the covenant doesn't donate more either in tithe or through charity. If they decide to surreptitiously rescue the crusaders from their construction service, the magi need to deal with the Divine aura surrounding the mosque construction, and possibly devout guards who monitor its progress. When freed, some or all of these crusaders gratefully offer to join the covenant.
 
-# **Story Seed: Shipwreck of a Different Color**
+# Story Seed: Shipwreck of a Different Color
 
 The dawn brings another vessel limping into the covenant's docks. This tattered hulk might carry crusaders from an unfortunate skirmish in Egypt, pursued to the Red Sea before they fled in a stolen fishing boat. However, their pursuers aren't far behind, and intend on settling accounts with blood. The ship may be crewed by willing faerie sailors, wishing to reenact stories of survival, rescue and service, for the right bargain. Or the passengers might possibly be the remnants of a Catholic or Orthodox expedition, seeking to reestablish communications between the abuna and the Mediterranean Christian communities. While the messenger or envoy might be dying, his message is undamaged and his retinue of hired guards now find themselves far from home and without an employer.
 
-#### **Story Seed: Vis from Beyond**
+#### Story Seed: Vis from Beyond
 
 Long ago, a devout Christian and member of the village saved it from a visitation of the faerie dragon Ceto, though it cost the martyr her life. Her bones now lie among the fire coral vis source, perfectly preserved and untouched by the sea, unlike other objects occasionally pulled from the waves. The woman is venerated as a local saint, though unrecognized by the Ethiopian church, and the bones possess a Faith point. So long as they lie in the coral, no vis may be gathered. Even if they are removed, the vis does not appear immediately and the individual who recovered the bones begins to experience dreams and visions. The woman's spirit promises to reveal the secret of the vis sites and the methods for harvesting them once her remains are delivered to the bishop in Adulis, but can the magi manage this task without drawing more attention to the covenant?
 
@@ -6224,13 +6224,13 @@ Long ago, a devout Christian and member of the village saved it from a visitatio
 
 The following resources could be exploited by a covenant.
 
-#### **Income Sources**
+#### Income Sources
 
 Ikhmindi has no real local sources of income other than fees and barter from acting as an occasional caravanserai. Since caravans only pass through the area during the spring and late autumn, there are limited opportunities for profit and many potential complications associated with a large group of armed men camping on the covenant's doorstep or accessing its well.
 
 The covenant could try to supplement this with its own caravans.
 
-#### **Vis Sources**
+#### Vis Sources
 
 The vis sources around Ikhmindi are threatened by treasure hunters who might unwittingly damage a site's vis generation capability by looting a location or vandalizing the structure.
 
@@ -6244,7 +6244,7 @@ Black Sandbar of the Nile
 
 Temple Kiosk of Qertassi 7 Imaginem vis per Year 35 points
 
-#### **Abandoned Copper Mine**
+#### Abandoned Copper Mine
 
 *4 pawns of Rego per Year; 3 pawns of Terram per Year* This small warren of tunnels was carved from a hillside along the Wadi Allaqi caravan route, about 25 leagues to the east of Ikhmindi. A small but exquisite statue of Hathor watches just inside the entrance, but the hieroglyphic seal at its base has been defaced. The entire complex is no more than 300 linear feet of mine. The vis gathers in small nuggets of pure copper ore or any mining implements left leaning against the open seam of metal. The whole system enjoys a Magic aura of 3, but permanently ceases
 
@@ -6252,7 +6252,7 @@ Temple Kiosk of Qertassi 7 Imaginem vis per Year 35 points
 
 generating vis if anyone removes the statue. This source costs 35 Build Points.
 
-#### **Black Sandbar of the Nile**
+#### Black Sandbar of the Nile
 
 *4 pawns of Creo twice per Year*
 
@@ -6260,7 +6260,7 @@ When the Nile floodwaters begin to surge in June, and when they begin to recede 
 
 This source costs 40 Build Points.
 
-## **Temple Kiosk of Qertassi**
+## Temple Kiosk of Qertassi
 
 *7 pawns of Imaginem per Year*
 
@@ -6272,7 +6272,7 @@ This source costs 35 Build Points.
 
 For the covenant established at Ikhmindi, a number of themes present themselves for incorporation into a usual Ars Magica saga. These themes include survival in a harsh environment, exploration of a strange land for treasure-filled tomes, discovery of lost ancient magics, triumph in the face of Bedouin adversity, and the hope of forging a great covenant legacy.
 
-## **The Bedouin Storm**
+## The Bedouin Storm
 
 Two different and aggressive Bedouin tribes have decided to demand surrender and tribute from Ikhmindi. They know of the properties of the covenant's well, and want not only a cut of caravan camping fees, but information when weak caravans are in the area to plunder.
 
@@ -6281,7 +6281,7 @@ What might begin as a small demand for free water or a meal can escalate to trib
 A single tribe might be bought off or scared away without the ever increasing demands, but these two tribes are also competing for their own dominance of the local area, and so neither is willing to accept less than submission from Ikhmindi.
 
 
-#### **Lost Tombs and Treasures**
+#### Lost Tombs and Treasures
 
 Many temples, tombs, and ruins exist along the shores and hills bordering the Nile river. An entire saga could be devoted to unlocking the secrets and valuables lost to antiquity. In this type of saga, magi established at Ikhmindi worry less about the mundane requirements of daily survival, either through secured resources or magical assistance, and focus on uncovering, unsealing, and plundering the hidden caches of the pharaohs. Their primary foes will consist of tomb guardians, resident spirits, and the magical beasts bound as sentries. They may form rivalries with devout mundane groups or with other Hermetic magi living as eremites or participating in regular expeditions from Mythic Europe.
 
@@ -6426,7 +6426,7 @@ For instance, the six pawns of animal vis produced by magical bees in Iberia req
 
 For the Major form of this Hook, four vis sites are linked by the same associated condition. If potential damage to a site is permanent, it counts as two sites. This Hook may be Unknown. The vis sites thus linked must be purchased separately during covenant creation.
 
-#### **Unwitting Defenders (Major/Minor Resources Boon)**:
+#### Unwitting Defenders (Major/Minor Resources Boon):
 
 The covenant's location is such that most mundane defensive duties are performed by an entity which is unaware of the covenant's existence. The covenant likely pays some small tax for this protection. There is no formal agreement, and the defensive force cannot withstand a serious invading or attacking force, but it does prevent bandits, pirates, or other opportunistic groups from harassing the covenant. The covenant cannot directly guide, lead, or otherwise influence this defending force without revealing its existence, at which time a story should determine if this Boon shifts to become a Local Ally (or Powerful Ally, in the case of the Major Boon) or a Rival/Unsafe Hook.
 
@@ -6436,23 +6436,23 @@ For the Major form of this Boon, the covenant is protected by a force that can w
 
 The village has an existing population, who form the obvious initial source for covenfolk.
 
-#### **Companions**
+#### Companions
 
 Suitable companions for Adulis include caravan leaders, merchant captains, local equivalents of knights or minor nobles looking to advance their station, jinn, or other supernatural creatures who made the trip from Mythic Europe.
 
-#### **Zerezghi Senai**
+#### Zerezghi Senai
 
 A native ship captain from a long line of captains, Zerezghi would love nothing more than to break past the Bab-el-Mandeb and see the sights his grandfather told him of in tales his father assured him were no lies. His sailing vessel is quick and well-kept, and he knows the ports of the Red Sea well.
 
-#### **Grogs**
+#### Grogs
 
 Grogs could be recruited from the rougher elements of the fishing crews, brought from Mythic Europe, or hired from the local area. Any force larger than twenty draws the attention of the local authorities.
 
-# **Specialists and Other Covenfolk**
+# Specialists and Other Covenfolk
 
 Specialists and teachers can easily be found, due to the size of the town and the proximity of other communities within the Red Sea region.
 
-#### **Teachers**
+#### Teachers
 
 Instructors for Amharic, Arabic, and Ge'ez, as well as Artes Liberales, are easily located within Adulis. Other teachers might be easily brought from nearby ports.
 
@@ -6463,15 +6463,15 @@ A covenant would have little trouble finding specialists. The autocrat might be 
 
 The potential covenant site is a village, and thus already has structures and inhabitants. Some of the structures are ripe for conversion into part of a covenant.
 
-#### **Environment**
+#### Environment
 
 A dry but coastal environment, the site does not offer easy living, but it is certainly not an extreme hardship. Compared to other environments further north or across the Red Sea, it is pleasantly temperate, somewhat dry, but not dangerously so.
 
-#### **Laboratories**
+#### Laboratories
 
 The lighthouse of the village could potentially house four laboratories and sanctums. It is built of rough stones mortared together. If all the laboratories are occupied, there is no mundane lighthouse in operation. When needed, magic could be used to provide the illumination, but any laboratory activity suffers a –5 penalty, unless the magus is Blind, due to the distraction. A story or project might be completed by the magi, allowing the lighthouse to still function, while maintaining comfortable brightness within the laboratory.
 
-#### **Associated Properties**
+#### Associated Properties
 
 The islands that support the pearl and myrrh resin resources are neither inhabited, nor claimed by anyone. A covenant could harvest them surreptitiously, but in the long term establishing formal ownership would be wise.
 
@@ -6480,11 +6480,11 @@ The islands that support the pearl and myrrh resin resources are neither inhabit
 
 If the magi stay hidden, they may avoid most external relations. However, being close to a town, discovery brings entanglements.
 
-#### **Sultanate of Dahlek**
+#### Sultanate of Dahlek
 
 Should the covenant become known to the sultan of Dahlek, he seeks to control the magi, or blackmail them into an arrangement where they assist with an attempt to seize control of Adulis. He has long coveted the elephants that roam the shores south of the town, but cannot support the animals on his island. If the characters learn of this desire, they may be able to purchase regular safe passage through Bab-el-Mandeb with delivery of an animal and regular loads of fodder.
 
-#### **Governor of Adulis**
+#### Governor of Adulis
 
 The governor of Adulis is strongly influenced by the bishop who is based in the large Byzantine church located in the northern quarter of town. The bishop does not like the idea of wizards in his town, and may convince the governor to attack. If a way can be found to discredit the bishop or replace him with someone more tolerant of the magi, the governor could accept the presence of the magi in return for a promise to assist the town in times of dire need and regular donations as a sign of their generosity and pious natures. This might bring its own complications, should any other members of the Order of Hermes visit and learn of such an arrangement.
 
@@ -6492,11 +6492,11 @@ The governor of Adulis is strongly influenced by the bishop who is based in the 
 
 The following resources are available in the area.
 
-## **Income Sources**
+## Income Sources
 
 There are two Typical Quality sources, each resulting in 100 Mythic Pounds of profit. The first is a grove of myrrh trees, hidden on the slopes of a nearby island. These trees are bled to produce the high-quality resin so valued in other lands. The second is a pearl fishery, hidden in a cove of a different island.
 
-#### **Vis Sources**
+#### Vis Sources
 
 There are three vis sites immediately available.
 
@@ -6512,7 +6512,7 @@ There are three vis sites immediately available.
 
 3 Perdo per Solstice 30 points
 
-#### **Fire Coral Beds**
+#### Fire Coral Beds
 
 *6 pawns of Vim per Year*
 
@@ -6520,7 +6520,7 @@ Growing on the northeast rim of Ceto's Well, a ridge of ruby-red fire coral gene
 
 This source costs 30 Build Points.
 
-#### **Magical School of Fish**
+#### Magical School of Fish
 
 *6 pawns of Animal per Year*
 
@@ -6529,7 +6529,7 @@ A large school of yellowtail tang fish live in and around the fire coral beds, e
 
 the Linked Vis Site Hook for more details. This source costs 30 Build Points.
 
-#### **Storm Flotsam**
+#### Storm Flotsam
 
 *6 pawns of Perdo per Year*
 
@@ -6541,7 +6541,7 @@ This source costs 30 Build Points.
 
 A covenant on this site would have themes of discovery and exploration. Survival is less of an issue, but Christian magi might experience some hardship due to the removed nature of the site, finding it difficult to acquire books. On the other hand, Muslim magi might better manage the distance from Mythic Europe by being able to easily access the Levant and Mythic Arabia. Adulis shines best when it serves a purpose specific to the magi living there.
 
-#### **Pushing the Frontiers**
+#### Pushing the Frontiers
 
 A covenant established in Adulis allows for the most flexibility of options for a saga wanting to explore a variety of regions, as there is easy access to Egypt, Ethiopia, the Levant Tribunal, and Mythic Arabia. Slightly more removed, but still nearby, are the southeastern Great Desert, and Nubia. For sagas truly wishing to push the frontier, there are merchants in Yemen, just beyond the Bab-el-Mandeb, who know the routes to the islands of Soqotra and the wonders of that realm. All this requires is a firm conviction, a steady resolve, and ship to sail.With the promise of riches, there are plenty of vessels in Adulis willing to take the chance, especially if they have a secret weapon on board.
 

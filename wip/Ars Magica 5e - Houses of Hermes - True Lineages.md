@@ -409,7 +409,7 @@ Only the best material is used. Unimaginative or routine Lab Texts are passed ov
 
 Besides the dissemination of research, the Colentes Arcanorum have two bureaucratic functions. The first is the ability to rescind individual research commands made by the Primus. Any maga Bonisagi who has been instructed by the Primus to undertake specific research may request the Colentes to relieve her of this duty. If a majority of the Colentes agree, she may ignore the Primus's directive. More importantly, they have the power to change the Primus of the House. They may decide that the House would be better served by a new Primus and can demand the current Primus to abdicate his position. Cause must be presented for such an unprecedented act by a magus Bonisagi of at least the *cannophori* rank. After hearing the charges, the Colentes must unanimously agree to force the Primus's resignation. They then select his replacement, determining the new Primus by majority vote. This has never happened in the history of House Bonisagus. Both of these functions occur during the Colloquium Delectorum (see below).
 
-#### **SUBMITTED TEXTS**
+#### SUBMITTED TEXTS
 
 A Colens Arcanorum receives from 15 to 30 submitted Lab Texts and tractatus during their seven year term, averaging about 4 submissions a year. These submissions are usually translations of an author's original Lab Text or copies of her tractatus; they are rarely the original text. Lab Texts must be translated from the author's shorthand. The Colens are primarily interested in original research, and look for Lab Texts that include experimentation. Well-written tractatus are also sought, but a Colens would rather include a Lab Text over a tractatus. New spells and magic items are certainly interesting, but the emphasis is on knowledge that pushes the boundaries of Hermetic magic.
 
@@ -442,7 +442,7 @@ The Tenentes also seek information concerning mundanes exploring arcane mysterie
 
 The Tenentes Occultorum meet at the end of their term of service at the Colloquium Delectorum. The group combines their notes of the House's magi and troublesome individuals and institutions. These notes are compiled and sent to Durenmar, along with the Colentes Arcanorum's folio. The Tenentes then relinquish their duties and head back to their covenant, either the one they have been recently stationed in or their original home.
 
-#### **TABULA GEOGRAPHICA MAGICA**
+#### TABULA GEOGRAPHICA MAGICA
 
 Even more fascinating than their directory of magi Bonisagi is the Tabula Geographica Magica, the Gazetteer of Magic, a catalogue of magical sites and regiones discovered in their area. This information is gathered from magi Trianomae, who seek out ancient and powerful sites, and from the Seekers, those dedicated exclusively to this pursuit. At each Colloquium the Tenentes add to the Gazetteer, including newly discovered sites and more information on sites already found. Some of these sites are sources of vis, but the primary intent in gathering this information is to provide a better knowledge of Europe and her magical secrets. The Gazetteer is brought from Durenmar to the location of the Colloquium by a magus Trianomae or a trusted Redcap, and is returned there once the Tenentes finish their updates.
 
@@ -508,7 +508,7 @@ Internally, the Primus is responsible for steering the course of the House, dire
 
 **Notes:** Glaucon is a Seeker who specializes in scouring mountainous areas looking for ancient Mercurian temples. Casting spells is painful for Glaucon, and he believes that finding an older source of magic will help him understand the excruciating nature of his Gift. Glaucon shuns other magi of his House, hoping to avoid the regular responsibilities of magi Trianomae. The Tenentes Occultorum are annoyed at Glaucon because he is reluctant to reveal the specific locations of his travels, particular the location of his secret vis source.
 
-### **NEW INTELLEGO MENTEM SPELL**
+### NEW INTELLEGO MENTEM SPELL
 
 **REVEAL THE LINGERING SPIRIT**
 
@@ -604,7 +604,7 @@ Each branch of the House presents a specific gauntlet for the apprentice. Magi B
 
 Magi Trianomae send their apprentices on a solo journey for their gauntlet. Once an apprentice has finished his Hermetic training to the satisfaction of his parens, he is sent to another magus Trianomae, traveling to a distant covenant by himself. This journey ideally takes two seasons to complete, and proves that the apprentice can survive the challenges of solo travel. Once at his destination, the apprentice is proclaimed a magus and chooses a name for himself. Those who fail return to their parens, shamefaced and defeated, and must attempt the same gauntlet at a later date. There have been apprentices who have never returned from being sent off.
 
-### **ANOTHER MAGUS'S APPRENTICE**
+### ANOTHER MAGUS'S APPRENTICE
 
 Unique among the Lineages, magi of House Bonisagus may take another Hermetic magus's apprentice. Reminiscent of Mercere's initial promise to give his future apprentices to Bonisagus, this practice was adopted during meetings of the First Tribunal to grant the magi of House Bonisagus the right to take others' apprentices. This was in appreciation for both Bonisagus's theoretical work, as well as Trianoma's political maneuverings that constructed the Order. Both magi had spent considerable effort on others, and the other Founders thought giving them the right to take apprentices was ample compensation.
 
@@ -624,7 +624,7 @@ Magi who abuse this privilege may find themselves charged with a low crime depen
 
 Magi Bonisagi of rank have an easier time finding an apprentice than their colleagues. See the House Acclaim section in the House Utilities section.
 
-#### **MULTIPLE APPRENTICES**
+#### MULTIPLE APPRENTICES
 
 There is nothing to say that a Hermetic magus can not have more than one apprentice at a time. Legally, a parens is required to spent a season a year teaching his apprentice. The Arts can only be taught one on one, so a magus could have four apprentices at the most and still abide by the rulings of the Peripheral Code. Of course, such a magus will have no time for his own research. This is the main reason why most magi Bonisagi only have one apprentice at a time.
 
@@ -632,7 +632,7 @@ Some magi Bonisagi will have more than one apprentice at a time. Because of thei
 
 
 
-#### **FOSTERING**
+#### FOSTERING
 
 A successful maga Bonisagi needs to be highly trained. She will need scores in several Abilities besides Magic Theory to realize her true potential. Profession: Scribe is necessary for the copious amounts of writing and copy she will do, and a high Latin score is required to read and write books. Teaching is also a valuable Ability and most magi Bonisagi have a score in this as well. Since there are so many important skills, the House has developed a system of **fosterage** to help train apprentices. This practice has proved more useful than finding mundane academic scholars interested in working with Gifted students.
 
@@ -665,7 +665,7 @@ Preferring their privacy, individual magi Bonisagi rarely meet. While they may b
 
 Bonisagi magi receive infrequent visits from magi Trianomae, who are curious about the magi's research. The whole House benefits knowing the subject of each magus's research, so few magi Bonisagi refuse these minor interruptions. Submitting folios to the Colentes Arcanorum increases a maga's rank, and the safest way to ensure the deliver of folio submission is to placing it in the care of a magus Trianomae.
 
-#### **TYPES OF MAGI BONISAGI**
+#### TYPES OF MAGI BONISAGI
 
 There are three overall types of magi Bonisagi. These are not official distinctions within the House, but are merely paths that many magi Bonisagi follow. A **traditionalist** constantly works to refine Magic Theory, thinking this was Bonisagus's primary motivation. He pushes against the limits of Hermetic magic, searching for ways to break through many of the lesser limits that still inhibit Bonisagus's system. A **dabbler** is a magus who enjoys playing with Hermetic magic, using the system to build odd spells and quirky enchanted items. He researches magic for creative combinations of Ranges, Durations, and Targets, enjoying the symmetry of the categories created by his founder. A **harmonizer** believes that every type of magic can be integrated into Bonisagus's theory. She enjoys bending other supernatural abilities to Bonisagus's rule.
 
@@ -676,7 +676,7 @@ A magus Trianomae visits the characters' covenant seeking assistance. He says he
 
 original research as well. Your storyguide will be the ultimate arbitrator, deciding if your specialization applies to your research. These new specializations are only permissible for magi Bonisagi characters.
 
-#### **WORKING TOGETHER**
+#### WORKING TOGETHER
 
 Magi Bonisagi are not as interested in working together in the lab as other magi generally think. The main bone of contention is that a magus would much rather be the primary researcher than the assistant, since the primary researcher gains all the notoriety of the research and the assistant only gains exposure experience and minor House recognition. After the *daduchos* House rank, no magi Bonisagi wants to be considered an "assistant" any longer. Bonisagus is remembered for Magic Theory and Parma Magica, not for assisting Tremere in inventing certamen. While magi Bonisagi don't mind sharing finished Lab Texts and tractatus, they are hesitant to commit to another's research in a perceived subservient role.
 
@@ -697,7 +697,7 @@ Many followers of Trianoma lead itinerant lives, exhibiting the same wanderlust 
 
 Magi Trianomae have left Mythic Europe, seeking distant wizards and their magical knowledge, all in an effort to expand the model of a peaceful community of wizards. They serve as Hermetic emissaries, carrying the ideals of the Order to the farthest corners of the world, and have undertaken expeditions to Mythic Cathay, India and Africa. By 1220, no emissaries have reported any degree of success, either through failed efforts or by not returning at all.
 
-#### **THE POLITICS OF TRIANOMA**
+#### THE POLITICS OF TRIANOMA
 
 Magi Trianomae are expected to continue the political agenda of their founder. Not all do; some use their training to advance their own careers and ambitions. Those that do adhere to the founder's plan follow these major political concerns.
 
@@ -711,7 +711,7 @@ Magi Trianomae are expected to continue the political agenda of their founder. N
 
 **Keep the Houses bickering.** Trianoma learned early on that a certain amount of squabbling is good for the Order. It keeps the members engaged with each other, even if that engagement seems harsh at times. Squabbles also prevent two or more Houses from permanently joining, which would upset the balance of the Order.
 
-#### **THE CIPHER OF TRIANOMA**
+#### THE CIPHER OF TRIANOMA
 
 During the early days of the Order, Trianoma found it very useful to send messages to her filii written in code, so that if these notes were intercepted they would not prematurely reveal any of her political plans. The easiest way to do this was to teach her filii her personal shorthand, the abbreviations she used when creating Lab Texts. This tradition continues with magi Trianomae
 
@@ -800,21 +800,21 @@ Once the Colentes have decided on the exact material to be included in a folio, 
 
 
 
-#### **WRITING FOLIOS**
+#### WRITING FOLIOS
 
 It takes a season to create a folio. The Colentes Arcanorum's combined Magic Theory scores are the maximum total of Lab Text magnitudes and tractatus Qualities that can be included in a single volume. For example, if the 5 Colentes have a Magic Theory score of 7 each (including their Puissant Magic Theory Ability), the folio can have a total of 35 magnitudes of Lab Texts or tractatus Qualities.
 
-#### **Folios: Colentes combined Magic Theory = Sum of Lab Text magnitudes and/or tractatus Qualities**
+#### Folios: Colentes combined Magic Theory = Sum of Lab Text magnitudes and/or tractatus Qualities
 
 Once the total number of allowable items has been determined, individual texts are copied to the folio. The regular rules for copying Lab Texts and tractatus apply. Lab Texts are always submitted to the Colentes with the author's abbreviations and shortcuts omitted, so that they are written understandably. An individual Colens may either copy Lab Texts or tractatus. A Colens may copy 12 magnitudes of Lab Texts per point in Profession: Scribe into a folio. A Colens copying tractatus may copy them carefully or quickly, depending on the number of tractatus included. Since quick copying reduces the tractatus' Quality by one, this is rarely done.
 
 The Colentes Arcanorum receive Exposure experience for the season spent creating the folio, which can be placed in Magic Theory or Profession: Scribe.
 
-#### **EXAMPLE FOLIO**
+#### EXAMPLE FOLIO
 
 Five Colentes have decided which items will go into a folio. Their combined Magic Theory score is 35. Their final choices are a tractatus on Herbam Quality 8, a tractatus on Magic Lore Quality 10, a Lab Text for *Stone Tell of the Mind that Sits* (magnitude 6), a Lab Text for *Ball of Abysmal Flame* (magnitude 7), and a Lab Text for *Veil of Invisibility* (magnitude 4). The Lab Texts were chosen because the inventing magi used experimentation, and each spell has a beneficial side-affect. One of the Colens has a Profession: Scribe score high enough to copy all of the Lab Texts into the folio herself, and two other Colentes can copy the tractatus. The remaining two stay to assist their colleagues.
 
-#### **READING FOLIOS**
+#### READING FOLIOS
 
 Essentially, a folio is nothing more than a collection of Lab Texts and tractatus, and the same rules used to read those materials still apply. Having a folio provides you with a handful of choices for your personal study. Each
 
@@ -827,7 +827,7 @@ individual Lab Text or tractatus must be read for an entire season, just as if i
 
 The Colentes Arcanorum include biographical data on the author as well as brief accounts of their opinion of the text. Once you have finished a particular item included in a folio, you receive one experience point in Order of Hermes Lore.
 
-#### **COPYING FOLIOS**
+#### COPYING FOLIOS
 
 Folios are combined copies of Lab Texts and tractatus, organized and edited by the Colentes. Once combined, they are easier to copy than their individual parts. Copying a folio is very much like copying a summa, and can be done carefully or quickly. If a scribe is copying a folio carefully, he accumulates points equal to 6 + his Profession: Scribe score in a season. Once his accumulated points equal the combined Magic Theory score of the Colentes Arcanorum who created the folio, the folio is copied. If he copies the folio quickly, he gains 18 + 3 times his Profession: Scribe score in accumulated points per season. Quickly copying a folio will reduce the Quality of every included tractatus by 1 and delete the additional Order of Hermes Lore experience points. It will not affect the Lab Texts.
 
@@ -842,11 +842,11 @@ Whenever a character magus Trianomae seeks to influence a non-player character, 
 
 **Interrogate a non-player character: Communication + Intrigue vs. variable Ease Factor**
 
-#### **Intrigue**
+#### Intrigue
 
-#### **Ease**
+#### Ease
 
-#### **Factor Situation**
+#### Factor Situation
 
 - 6+ Accurately ascertain someone's overt political goal; make a person continue a political course they are currently following
 - 9+ Determine a person's political allies; arouse suspicion in a person; delay a person's current course of action; make a person agree to meet with a rival
@@ -858,9 +858,9 @@ Politics is rarely a static arena, and sometimes a magus Trianomae character mus
 
 elect to use her Guile Ability instead of her Intrigue Ability. Success is determined by the situation and the amount by which the victor's total exceeds the loser's.
 
-#### **Victor**
+#### Victor
 
-#### **wins by Result**
+#### wins by Result
 
 - 3+ Determine if the person is a possible ally or antagonist; encourage a person to continue a course of action
 - 6+ Rattle a person's composure; force a minor secret to be divulged; influence opponent to a new course of action
@@ -872,7 +872,7 @@ Intrigue contests are not rapid events, and the course of an exchange may contin
 
 For example, Glaucon Trianomae visits the covenant of Semita Errabunda and dines with Moratamis of House Guernicus. Moratamis suspects that Glaucon snatched the golden rabbit, one of the covenant's vis sources. Glaucon hopes to allay Moratamis's suspicions by suggesting that someone else abducted the rabbit. As the meal ends, the storyguide asks both players to make an Intrigue roll. She determines that Glaucon needs to roll a 6+ advantage to succeed in changing Moratamis's mind. Glaucon's Presence (0) + Intrigue (4) is 4 and Moratamis's Communication (+1) + Intrigue (3) is 4: an even match. Unfortunately for Glaucon, their stress die rolls also match, and he fails in his attempt to change the Quaesitor's mind. Moratamis suggests they continue the subject at the next Tribunal.
 
-#### **FOLK KEN AND GUILE**
+#### FOLK KEN AND GUILE
 
 Social skills can be used to complement roleplaying rather an as a substitute for it. Whenever a player character interacts with an important non-player character the storyguide may make a secret Per + Folk Ken roll. From this roll the storyguide should give the player appropriate commentary on the subject's behavior. A roll of 6+ allows for basic insights, the subject's general character. A roll of
 
@@ -888,32 +888,32 @@ Folk Ken and Intrigue are complementary. The former allows the character to judg
 
 Over the years House Bonisagus has included many members with particular Virtues and Flaws. Since the House can select other magi's apprentices, youths who exhibit these powers are often adopted into the House. However, this does not mean that Bonisagi are the sole recipients of these boons. Virtues and Flaws marked with an asterisk depend on the structure of House Bonisagus, and so are exclusive to the House. Others are not.
 
-### **MINOR HERMETIC VIRTUES**
+### MINOR HERMETIC VIRTUES
 
 **Colens Arcanorum\*:** You are a member of one of the inner circles of House Bonisagus, the Collectors of Secrets. You begin the game with the House Bonisagus rank *cannophori.* During your seven year tenure you will receive Lab Texts and tractatus from other magi Bonisagi, which you may keep. At the end of your service you must attend the Colloquium Delectorum and decide which of these submitted text will be included in a folio. You must also contribute to the folio's construction. This Virtue is
 
 
 **Tenens Occultorum\***: You are a member of one of the inner circles of House Bonisagus, the Tenders of Secret Knowledge. You have been chosen by the Primus to occupy one of the four Tenentes Occultorum positions. Your exact position is depending on your experience, judged by the numbers of seasons since your gauntlet. If you are a younger magus you will be the Spring Tenens. Certain responsibilities accompany this Virtue.
 
-#### **MINOR SUPERNATURAL VIRTUE**
+#### MINOR SUPERNATURAL VIRTUE
 
 **Figurine Magic.** You have been taught the art of Figurine Magic, which allows you to construct small wax or wood figurines of power, whose benefits may assist you or others. You may either be a Gifted magus or a non-Gifted practitioner. Taking this Virtue confers the Ability Figurine Magic 1. See the optional example in the Example Discoveries section for more information.
 
-### **MINOR GENERAL VIRTUE**
+### MINOR GENERAL VIRTUE
 
 **Linguist.** You are extremely proficient learning new languages. All Study Totals for any Language are increased by a quarter, as any experience points you put into any language at character generation. Both Living and Dead languages are augmented with this Virtue.
 
-#### **MINOR HERMETIC FLAW**
+#### MINOR HERMETIC FLAW
 
 **Stockade Parma Magica:** Because of your restricted understanding of Parma Magica, you cannot suppress your Parma once it is erected. Any friendly spell or magical affect must penetrate your Parma Magica to affect you, just as if it were a hostile spell.
 
-#### **MINOR PERSONALITY FLAW**
+#### MINOR PERSONALITY FLAW
 
 **Seeker:** You are a self-proclaimed member of the Seekers, a loose organization of competitive magi searching for ancient magic and arcane artifacts. Much of your life is spent in pursuit of these items. Your interests may occasionally clash with other interests of your House.
 
 
 
-### **MINOR STORY FLAW**
+### MINOR STORY FLAW
 
 **Fostered Apprentice\*:** You were fostered as an apprentice, briefly serving another magus in his laboratory. You have a lasting relationship with this magus, similar to the relationship you have with your parens. You also have a connection to another magi Bonisagi that you trained with. Either of these people may ask favors of you, which you feel obligated to perform.
 
@@ -925,7 +925,7 @@ Of all the Hermetic Houses, House Bonisagus is the most compelled to augment the
 
 A magus may begin original research at any time in his career. Some wait, increasing their knowledge of the Arts to bolster their Lab Total, while others begin as soon as they leave apprenticeship. There are no minimum Art or Ability requirements for undertaking original research and the process is the same whether the magus is a wizened archmagus or a fresh-eyed youth. Bear in mind that you will eventually teach others any Breakthrough you have achieved, either through individual instruction or written tractatus, so a high Language or Teach Ability may be useful.
 
-#### **BREAKTHROUGHS**
+#### BREAKTHROUGHS
 
 By undertaking original research you are attempting to achieve some goal that has not been reached previously by Hermetic magic. These achievements are called **Breakthroughs** and there are three types: Minor, Major, and Hermetic.
 
@@ -942,18 +942,18 @@ A **Hermetic Breakthrough** is a new Arcane Ability or the breaking of a Lesser 
 
 It is important to discuss your idea and the specific Breakthrough you are attempting with your troupe. Does the group want a Lesser Limit broken, for example, or will a teachable Hermetic Virtue upset the nature of the game? If the Limit of Creation is broken, then magi will be creating permanent items out of thin air, without the necessity for vis, which could undermine many of the storyguide's upcoming stories.
 
-### **SEEKING THE UNKNOWN**
+### SEEKING THE UNKNOWN
 
 Once you have determined what sort of Breakthrough you would like to accomplish, you must invent something Hermetically that somehow incorporates your idea. This can be a spell or a magical enchantment, either a lesser enchantment or a charged item. Detail the effect fully, as per the normal rules found in the Laboratory chapter of **Ars Magica** Fifth Edition. Since you are searching for clues aimed at surpassing regular Hermetic theories, you must experiment, using the rules found in the Arcane Experimentation section of the Laboratory chapter, including choosing a risk modifier for your experiment and rolling on the Extraordinary Results Chart.
 
 For your original research to be fruitful you must roll the Discovery result on the Extraordinary Results Chart. Fortune plays a large roll in the research process. However, you can hedge your bet with original research in a way that you can not with regular experimentation. Instead of calculating your risk modifier into your Lab Total during the season, you use that modifier to adjust
 
 
-#### **Risk Modifier: +1 per 5 points of Magic Theory or fraction thereof, up to +3**
+#### Risk Modifier: +1 per 5 points of Magic Theory or fraction thereof, up to +3
 
 Consult the Extraordinary Results Chart and add or subtract the risk modifier from a stress die roll. You must do one or the other, but this gives you a slight choice in your result. You do not have to use the whole modifier. If you choose a +3 risk modifier, for example, and it is more advantageous to use a +2 modifier, you may. If you roll a 0 on the stress die you must still check for a botch, rolling an additional botch die for each level of risk modifier you chose.
 
-#### **Breakthrough: roll Discovery on the Extraordinary Results Chart during a season of Arcane Experimentation**
+#### Breakthrough: roll Discovery on the Extraordinary Results Chart during a season of Arcane Experimentation
 
 **Risk Modifier: Do not add risk modifier into Lab Total. Add or Subtract risk modifier from the stress die rolled on the Extraordinary Results Chart**
 
@@ -968,7 +968,7 @@ If you do achieve a Discovery during your experimentation then the original rese
 
 Each spell or magical enchantment can only lead to one discovery. You may continually invent the same spell or enchantment experiment until a discovery is rolled, even if the experiment was a success. Thus, you may accumulate many usable versions of the same spell in process of your research. However, once a specific experiment yields a Discovery, you may no longer explore that spell or magical enchantment for further discoveries.
 
-### **STABILIZING THE UNKNOWN**
+### STABILIZING THE UNKNOWN
 
 After you have achieved your Discovery, you must stabilize that process through exact repetition. You must repeat the experimentation, continuing for the same number of seasons and using the exact Lab Total and risk modifier that you used to find your Discovery. If you used vis during your process you must repeat the amount used. You must roll again on the Extraordinary Results Chart, and you must modify your roll in the same direction as you did to make the Discovery. This means that if you added your risk modifier to your roll your must add it again; if you subtracted your risk modifier from your roll you must subtract it this second time.
 
@@ -980,11 +980,11 @@ Original research is the process of accumulating stabilized discoveries until a 
 
 As a side affect to this stabilization process, you receive Warping Points from your attempts to understand this new magic. The number of Warping Points gained is the magnitude of the effect — a simple die. If you gain more than 2 Warping Points you must roll to avoid Wizard's Twilight, as explained in the Wizard's Twilight section of **Ars Magica** 5th Edition's Hermetic Magic chapter (page 88). You can obviously mitigate the chance of gaining Warping Points by experimenting with lower magnitude effects. However, this lengthens your original research process, since it is your accumulated effect magnitudes that ultimately add up to your Breakthrough. Experimenting with higher magnitude spells hastens you toward your Breakthrough and increases your risk of Wizard's Twilight.
 
-#### **Warping Points gained: the Magnitude of the Stabilized Discovery minus a simple die**
+#### Warping Points gained: the Magnitude of the Stabilized Discovery minus a simple die
 
 You receive Warping Points whether you succeed or fail at stabilizing your discovery. If your stabilization attempt fails, you may spend another season and try it again. You may continue to stabilize your discovery until you succeed, providing you spend consecutive seasons until you succeed and you do not suffer some dire event along the way.
 
-### **SURPASSING THE LIMITS**
+### SURPASSING THE LIMITS
 
 Once the accumulated points of your stabilized discoveries reach a certain number, you succeed and invent a Breakthrough. A rough rule of thumb is 30 points are needed for a Minor Breakthrough, 45 for a Major and 60 for a true Hermetic Breakthrough. This is only a guide, however, and your storyguide will set the exact number of magnitudes necessary for your Breakthrough.
 
@@ -998,7 +998,7 @@ or punish players. The intent of the original research rules is that Breakthroug
 
 Original research is long and arduous and does not have to be done during consecutive seasons. You may work at a Breakthrough for a while and then stop, returning to it when you are reinvigorated or better learned in the Arts. Each individual experiment must be worked through to completion, and if a Discovery occurs you must proceed directly into the stabilization phase. You may certainly take breaks between experiments.
 
-#### **MULTIPLE LABORATORY TEXTS**
+#### MULTIPLE LABORATORY TEXTS
 
 There is nothing in the original research process that stops multiple magi from working together on a Breakthrough. Some small hindrances present themselves; the magi must be willing to share and each must be able to read the wizardly script of the others' Laboratory Texts (see the Translating Laboratory Texts section of the Hermetic Magic chapter in **Ars Magica** 5th Edition, page 102). Rather, it is usually personality conflicts, selfishness, and self-centeredness that keep magi from working together on Breakthroughs. Even in House Bonisagus, which has an atypically high level of intra-House cooperation, magi are reluctant to share original research notes.
 
@@ -1007,7 +1007,7 @@ Bear in mind that cooperation is not the only way to gain someone's stabilized L
 If you are lucky enough to have another maga's Laboratory Texts, and they concern the same Breakthrough you are exploring, you may incorporate them into the accumulated points necessary for your research. You must successfully break the author's code and spend a season reading the Laboratory Texts and following the experiment, requiring a Hermetic laboratory. You accumulate points equal to your Lab Total in the Arts concerned. Once your points equal the level of the Lab Text's described experiment, you may add the magnitude of the effect to your total points. In effect, each researcher has a total accumulation of points. The Breakthrough will not happen until a single practitioner amasses enough points to reach its target number. Thus, if two or more magi are researching the same Breakthrough, the first to reach the target number makes the actual Breakthrough.
 
 
-#### **BREAKTHROUGHS IN PLAY**
+#### BREAKTHROUGHS IN PLAY
 
 Once you have accumulated enough points from your original research, you complete your task and invent a Breakthrough. If you have created a Minor Breakthrough, it is instantly usable and understandable by Hermetic magi. You may incorporate it into your next invented spell or magical enchantment, and this is the usual path of transmission to your fellow magi. For example, magus Tillitus invents a new Range 'Horizon'. He then invents a spell using Horizon as the Range and offers the Laboratory Texts of this spell to the Order. Those reading the Laboratory Texts both learn the spell and understand the new Range at the same time. They can then use this new Range in exactly the same way they can use any spell Range.
 
@@ -1017,7 +1017,7 @@ Learning a Major Breakthrough is similar to learning a supernatural ability, wit
 
 A Hermetic Breakthrough is a legendary event and its transmission depends on the nature of the Breakthrough. If it is an Arcane Ability, like the Parma Magica, then it must be taught just like any regular ability. If the Breakthrough exceeds one of the Hermetic limits of magi, then it must be taught like a Major Breakthrough, either through personal instruction or a written tractatus.
 
-#### **HERMETIC INTEGRATION**
+#### HERMETIC INTEGRATION
 
 Ultimately, a magus researcher wants to completely integrate his Breakthrough into Hermetic theory. A perfect system of magic would let every practitioner perform every type of magical act without any necessary Virtues
 
@@ -1058,7 +1058,7 @@ A magus may know a number of folds equal to his Parma Magica score. The first fo
 
 basic encompassing of another. Additional folds must be taught by a teacher, who may a teach a single fold to a number of students equal to her Teach Ability. She may always teach a single student a single fold even if she has no score in Teach. Magi Bonisagi would willingly teach these Parma folds, some even declining offers of compensation.
 
-### **PARMA MAGICA FOLDS**
+### PARMA MAGICA FOLDS
 
 Many of these new defenses alter the magus' Parma Magica score. Some reduce it, usually by half, while others augment it or diminish it by a specific amount. To determine the magic resistance of a magus using these new folds, always change the original Parma Magica (rounding down) before multiplying it by 5 and adding specific Form bonuses. Despite subtraction and division, a reduced Parma Magica can never fall below 0. A magus always receives his Form bonus against magical attacks.
 
@@ -1086,7 +1086,7 @@ The Order has long sought a means of protecting its mundane members from magic. 
 
 A Parmula is a lesser enchanted device that will provide the wearer with a magic resistance of 30. To make a Parmula a magus must spend an entire season in the laboratory, instilling the magic within an appropriate vessel, typically a silver brooch or other jewelry. Its base level of effect is Rego Vim 30. Its effect requires constant use, which adds two magnitudes and four levels to the final level of effect, for an total effective level of 44. As with all lesser enchanted items, it must be constructed in a single season; the creator's Rego Vim lab total must double the level of the effect. The magus receives a +4 from the Shape and Material Bonuses Table for instilling the effect within a piece of jewelry. It costs five pawns of Rego or Vim vis to enchant a Parmula. Once completed, the Parmula offers Magic Resistance of 30. Possessing a Lab Text describing the creation of a Parmula would be helpful for the inventing magus.
 
-#### **Parmulae: Lesser Enchanted Device that provides a magic resistance of 30. Total level of effect is 44.**
+#### Parmulae: Lesser Enchanted Device that provides a magic resistance of 30. Total level of effect is 44.
 
 This sounds too good to be true, and it is. A Parmula only lasts a year before its protective magic dissipates, and experimentation hasn't been able to alter this temporal limit. Secondly, a more powerful device has not yet been invented; the original research provides for only this level of magic resistance from a Parmula. These limitations have not been adequately accounted for, and seem an anomaly of the process. A Parmula would be considered a Minor Breakthrough. They are based on the Rego Vim work done by Notatus, the first Primus of House Bonisagus, and his Major Breakthrough, *The Aegis of the Hearth.* Changing their length of duration or the level of magic resistance would require a Major Breakthrough.
 
@@ -1160,7 +1160,7 @@ Meyer, Marvin W., ed. *The Ancient Mysteries.* San Francisco: Harper & Row, 1987
 
 Tweet, Jonathan. *The Order of Hermes.* Lion Rampant, 1990.
 
-### Realm-Aligned Spell Interaction Table **Realm-Aligned Spell Aura Type Magic Faerie Infernal** Magic no bonus + (1/2 aura) – aura Divine – (3 x aura) – (4 x aura) – (5 x aura) Faerie + (1/2 aura) no bonus – aura Infernal – aura – (2 x aura) no bonus
+### Realm-Aligned Spell Interaction Table Realm-Aligned Spell Aura Type Magic Faerie Infernal Magic no bonus + (1/2 aura) – aura Divine – (3 x aura) – (4 x aura) – (5 x aura) Faerie + (1/2 aura) no bonus – aura Infernal – aura – (2 x aura) no bonus
 
 *34*
 
@@ -1579,7 +1579,7 @@ A detailed discussion on each of these potential offenses is given below. If the
 
 All other offenses are low crimes. The magus can still be Marched if they refuse to abide by the Tribunal ruling made against them, as this is a high crime. Thus, if a magus fails to agree to the punishment, he faces a March.
 
-### **DEPRIVATION OF MAGICAL POWER**
+### DEPRIVATION OF MAGICAL POWER
 
 **"I will not deprive nor attempt to deprive a member of their magical power."**
 
@@ -1589,7 +1589,7 @@ Any physical injury that restricts the ability to speak, gesture or general mobi
 
 Beyond this, a covenant's mundane resources, including personnel, are also protected to a degree as these are required for study. However, attacks on mundane assets are normally brought as low crimes (see below).
 
-### **SLAYING**
+### SLAYING
 
 **"I will not slay, nor attempt to slay a member of the Order, except in a properly declared Wizard War."**
 
@@ -1627,7 +1627,7 @@ Gravis of House Flambeau was charged with slaying Talus of House Merinita. Gravi
 Dominicus of House Jerbiton was charged with the slaying of Gravis of House Flambeau. Dominicus claimed forfeit immunity applied. Gravis had thrown a *Ball of Abyssal Flame* at him after a council discussion had become 'heated'. Witnesses testified that Gravis had made the first attack, with only verbal provocation. Although his Parma was penetrated, Dominicus was barely injured and replied with *Clenching Hand of the Crushed Heart*, instantly slaying Gravis. A member of Dominicus's covenant claimed that
 
 
-### **WIZARD WAR**
+### WIZARD WAR
 
 Tribunal.
 
@@ -1656,7 +1656,7 @@ Hernis refused to cooperate with the Tribunal and so they had only one course av
 
 Dominicus of House Jerbiton was charged with seeking retribution after an amicus of his was slain in a Wizard War, by declaring Wizard War on the victor. Dominicus claimed the charge was invalid, as it sought retribution for his own Wizard War and the Code protected him from such charges. The Presiding Quaesitor pointed out that founder Flambeau proposed this provision of the Code for the express purpose of seeking vengeance; therefore the defense was sound. On this advice, the Tribunal acquitted him.
 
-#### **ABIDE BY TRIBUNAL DECISIONS**
+#### ABIDE BY TRIBUNAL DECISIONS
 
 **"I will abide by the decisions made by fair vote at Tribunal."**
 
@@ -1690,7 +1690,7 @@ Regional Tribunals can revise or reverse their own rulings at they please. Howev
 
 All rulings should is some way relate back to a provision of the Oath. In essence all rulings should simply clarify, expand or embellish the Oath. By these Tribunal rulings the Peripheral Code is formed (see page 54).
 
-#### **VOTING RIGHTS**
+#### VOTING RIGHTS
 
 **"I will have one vote at Tribunal and I will use it prudently. I will respect as equal the votes of all others at Tribunal."**
 
@@ -1746,9 +1746,9 @@ Even in strict Tribunals, corruption can still happen. Allies tend to vote for a
 
 A magus can always choose to abstain if he wishes and magi are free to trade votes as they please outside of criminal cases.
 
-#### **ENDANGERMENT**
+#### ENDANGERMENT
 
-#### **"I will not endanger the Order through my actions."**
+#### "I will not endanger the Order through my actions."
 
 This is the most fundamental provision. Any act which risks the peace and security of other magi can be used to justify a charge. This provision is generally held as the most important, thus it can in extreme cases be used to justify contradicting another provision. However, this judgment is normally made only by a Tribunal, with the Presiding Quaesitor vetoing any abuse of the principle.
 
@@ -1758,7 +1758,7 @@ A defendant might claim the endangerment was trivial or only personal. The prose
 
 Intention on behalf of the defendant is important in mitigation, as is any negligence or recklessness. If convicted, the penalty will take account of both the culpability of the defendant and the degree of endangerment.
 
-#### **MUNDANE INTERFERENCE**
+#### MUNDANE INTERFERENCE
 
 **"I will not interfere with the affairs of mundanes and thereby bring ruin upon my sodales"**
 
@@ -1772,7 +1772,7 @@ Conflict may arise directly between a magus and a particular noble or clergyman.
 
 Over this provision there is much debate both within the Order and House Guernicus. In some Tribunals it is virtually ignored, and on this issue much of the Traditionalist/Transitionalist disagreement occurs. The Transitionalists argue that provision is already effectively unenforceable; it should be recast to suit the times. A new provision could be enforced, the abuses punished and the benign activities legalized. In the current situation both are ignored. Traditionalists disagree, of course.
 
-#### **DEALS WITH DEVILS**
+#### DEALS WITH DEVILS
 
 **"I will not deal with devils, lest I imperil my soul and the souls of my sodales as well."**
 
@@ -1794,7 +1794,7 @@ Many magi are of the opinion that all demons are a danger to the Order, reasonin
 
 Rudophus of Durenmar, through his actions, had attracted the attention of a major demon. Although he attempted for over a decade to kill this demon, he was unsuccessful. The demon began systematic attacks against the Redcaps of the Tribunal. The senior Mercere brought a case against Rudophus for endangering the Order. The Tribunal convicted Rudophus and he was commanded to provide House Mercere with some magical means of protecting themselves from the depredations of demons.
 
-#### **MOLESTING THE FAY**
+#### MOLESTING THE FAY
 
 **"I will not molest the fay, least their vengeance catch my sodales as well."**
 
@@ -1809,7 +1809,7 @@ The term 'molest' suggests that the conflict would have to be provoked by the de
 
 Guardinia of Merinita accused Berenguer of Tytalus molesting the fay. Berenguer claimed in his defense that the faeries had stolen his apprentice, and therefore he had every right to take steps to return the child to his care. The Tribunal upheld Berenguer's defense, but the Praeco admonished him for being heavy-handed in his rescue.
 
-### **SCRYING**
+### SCRYING
 
 **"I will not use magic to scry upon members of the Order of Hermes, nor shall I use it to peer into their affairs."**
 
@@ -1821,7 +1821,7 @@ Magi are unlikely to bring a successful case for being spotted while invisible o
 
 When using scrying spells in mundane society cautious magi usually cast without Penetration (see Forceless Casting insert). In this way even if a magus is accidentally caught within a target, his privacy is usually protected. However, this is not absolutely safe. Redcaps have no magic resistance and they enjoy the full protection of the Code. In fact, the privacy of Redcaps is particularly sensitive as they often know a great many secrets of other magi. If a Redcap is caught by a scrying spell, the Tribunal will presume intent and the caster would need to convince them otherwise. If there was no intent, but secrets were revealed, damages will be awarded. If there was no intent or secrets revealed the case is trivial.
 
-#### **APPRENTICES**
+#### APPRENTICES
 
 **"I will train apprentices who will swear to this Code, and should any of them turn against the Order and my sodales I will be the first to strike them. No apprentice of mine shall be called magus until he or she first swears to uphold this Code."**
 
@@ -1851,7 +1851,7 @@ After swearing the Hermetic Oath, the wizard can be legally taught Parma and thi
 
 As membership of House Ex Miscellanea has no required standard, such magi normally end up there. House Ex Miscellanea will readily accept wizards who cannot learn Hermetic magic.
 
-### **DUTY OF THE PARENS**
+### DUTY OF THE PARENS
 
 **". . . should any of them turn against the Order and my sodales I will be the first to strike them."**
 
@@ -1859,7 +1859,7 @@ The Oath demands the parens be the first to attack an outcast magus. If the pare
 
 The exact inheritance chain is actually the province of regional Tribunals. Many allow covenants to inherit the estate. However, it is rare that the inheritor strikes down the outcast. This leaves them liable to prosecution. The slayer can charge the inheritor with failing in their lawful duty and settle the case by acquiring the inheritance rights. In 1220 this convention is so established that no one normally bothers with any legal formality. The inheritor also inherits any debts the outcast had. So if the Presiding Quaesitor awarded the outcast's victim damages, the inheritor must pay from the inherited estate.
 
-### **BONISAGUS RIGHTS AND DUTIES**
+### BONISAGUS RIGHTS AND DUTIES
 
 **"I shall further the knowledge of the Order and share with my sodales all that I find in my search for wisdom and power."**
 
@@ -1884,13 +1884,13 @@ In the seven years since the last Tribunal, Helvennia of Bonisagus had exercised
 
 Helvennia claimed another apprentice in the following year. On the night of the following new moon seven declarations of Wizard War were delivered to her. Despite attempts at arbitration, none of the seven agreed to withdrawn their declaration. Helvennia fled into hiding but was found and slain with the aid of her new apprentice.
 
-### **CASTING OUT**
+### CASTING OUT
 
 **"I request that should I break this Oath, I be cast out of the Order. If I am cast out, I ask my sodales to find me and slay me that my life may not continue in degradation and infamy."**
 
 If taken literally, all convictions should lead to a Wizard's March. In practice the Presiding Quaesitor normally offers the magus a lesser punishment. However, if the magus refuses this offer the magus is cast out.
 
-### **ENEMIES AND ALLIES**
+### ENEMIES AND ALLIES
 
 **"The enemies of the Order are my enemies. The friends of the Order are my friends. The allies of the Order are my allies. Let us work as one and grow strong."**
 
@@ -1902,7 +1902,7 @@ A prosecution can be made for attacks against the friends and allies of individu
 
 The Hermetic Oath is clarified, embellished and expanded by Tribunal rulings. These rulings are collectively known as the Peripheral Code. There are two types of Tribunal ruling, case and proposed. Case rulings result from convictions or acquittals in criminal cases. Proposal rulings are simply proposed for debate and the Tribunal decides to agree to it or not.
 
-#### **CASE RULINGS**
+#### CASE RULINGS
 
 Previous case rulings are often used by the prosecution or defense. If a Tribunal voted to convict a magus in similar circumstances they will be inclined to convict again. The prosecution will try to highlight the similarities and the defense the differences. If the defense can find a case of an acquittal the same arguments will run in reverse. Most local Tribunals hold their own rulings as superior to other local Tribunals. In fact it might be a blunder to use a ruling from a rival Tribunal, as parochial magi may be less inclined to vote the same way.
 
@@ -1932,7 +1932,7 @@ If a challenge is mutually accepted no Tribunal appeal is possible.
 
 legal principle; many of these are taken to the Grand Tribunal.
 
-### **PROPOSAL RULINGS**
+### PROPOSAL RULINGS
 
 A magus can simply propose that the Tribunal pass a new ruling. A traditionalist would insist that all rulings need to be based on some part of the Oath. Tribunals should only clarify, expand and embellish the Code, not create wholly novel provisions.
 
@@ -1942,7 +1942,7 @@ If a Tribunal rules in favor of a proposal, prosecutions or proposals on the sam
 
 The rulings of the First and Grand Tribunal are seen as authoritative in all Tribunals. For example, the First Tribunal made rulings on sancta, apprentices, the power of the Quaesitores and certamen. These rulings and their interpretation are standard throughout the Order.
 
-#### **THE DETAIL**
+#### THE DETAIL
 
 It would be neither practical nor desirable to detail all of the Peripheral Code. Storyguides are free to create any Tribunal ruling they desire. However, unless the
 
@@ -1961,7 +1961,7 @@ Sooner or later player character magi will need to prosecute or defend a case. T
 
 ### Preparing a Case
 
-### **DETERMINING THE PRINCIPLES**
+### DETERMINING THE PRINCIPLES
 
 Each case must have a prosecution and defense principle. In cases where there is a living victim, they become the prosecution principle. If the victim has been slain the case may be brought by anyone, although a relation is preferred. If more than one magus volunteers within three months of the Tribunal, the principle is determined by order of precedence. In descending order these are: parens, filius, amicus, covenant sodales and then any other magus. Candidates at the same level of relation take precedence by seniority.
 
@@ -1971,13 +1971,13 @@ Quaesitors prefer to remain impartial, but if no one volunteers to be prosecutio
 
 The accused automatically begins as the defense principle.
 
-#### **DETERMINING THE TRIBUNAL**
+#### DETERMINING THE TRIBUNAL
 
 A case is normally heard in the Tribunal where the actions that led to the charge took place. If the location is in a border region and the defendant is a resident on one side, the case should be brought there. If the location is in a border region and only the prosecutor is a resident of either, the case should be brought to the prosecutor's Tribunal. In all other situations, the case should be brought to the defendant's Tribunal.
 
 A magus is required to declare his name and residential Tribunal to any Hermetic magus who asks. If a magus refuses to give his name and Tribunal, a Quaesitor can be asked to investigate their identity. If a principle and witnesses need to travel to another Tribunal the principle must bear the expense. However, a principle can claim back these costs from his counterpart if they win.
 
-### **PUBLISHING A CASE**
+### PUBLISHING A CASE
 
 The prosecuting principle must make reasonable effort to inform the defendant, the Presiding Quaesitor and the Praeco, what charges are to be brought, including a detailed list of the allegations. This should be done no later than three months prior to the Tribunal. Redcaps are normally contracted to deliver these notices. They also witness that they were delivered in time or that reasonable effort was made to deliver them. This is called publishing.
 
@@ -2001,7 +2001,7 @@ order to give the defense time to prepare and find an advocate if they wish (see
 
 If a case is properly published and the defendant fails to attend, a Guernicus advocate will act as his defense principle. Although the advocate will do his best, he is obviously at a disadvantage.
 
-### **TRANSFERRING A CASE**
+### TRANSFERRING A CASE
 
 Both the prosecution and defense principle can transfer their case to another, who is then responsible for it. Experienced advocates can make a great deal of difference to the outcome. A successful prosecution can net substantial fines, a third of which go to the prosecution principle. A victim may sweeten this pot with his own resources in order to attract the best candidates. Defense advocates normally set a flat fee for their service, paid in advance.
 
@@ -2010,7 +2010,7 @@ The most demanding task of a principle is to contact their respective witnesses 
 
 ### Presenting a Case
 
-### **PRIVATE HEARING**
+### PRIVATE HEARING
 
 At Tribunal the defense and the prosecution principles must give a fair summary of their case in private before the Presiding Quaesitor. At this point either side may dispute points of fact brought by the other. The Quaesitor may decide to delay the case to the next Tribunal in order to conduct a full investigation. If the truth of the matter can be resolved quickly, the Quaesitor will rule on the disputed facts at the initial hearing.
 
@@ -2020,7 +2020,7 @@ At this initial hearing the Presiding Quaesitor will give his opinion on the mer
 
 Defendants without a strong defense are best advised to accept the offer, as saving the Tribunal's time counts in their favor. The Presiding Quaesitor cannot offer a summary judgment unless both the defense and prosecution principle agree to it. This is true even for low crimes.
 
-#### **PUBLIC HEARING**
+#### PUBLIC HEARING
 
 The majority of cases will not get to this stage. They are either settled either out of court or at the private hearing. The Tribunal should only hear cases that are truly serious or highly contentious.
 
@@ -2082,16 +2082,16 @@ Hermetic justice seeks to compensate and avenge the victim. The penalty depends 
 
 Hermetic penalties are split into three types: damages, fines and punishments.
 
-### **DAMAGES**
+### DAMAGES
 
 Damages are paid directly to the victim (or his heirs). This includes any costs incurred in bringing the case. In the case of a Wizard's March, the Presiding Quaesitor will normally grant the victim one quarter of the outcast's estate. If there is more than one victim, the Presiding Quaesitor will split the share amongst them.
 
-### **FINES**
+### FINES
 
 Fines are paid to compensate the Tribunal and the prosecution for the time and effort spent pursuing the case; one third is given to the prosecutor, two-thirds to the Tribunal coffers. Tribunal coffers are kept by the Praeco and accounted for by the senior Mercere. In the case of a March, the prosecutor receives one fourth of the outcast's estate (if the victim was also the prosecutor he receives one half in total). By Grand Tribunal ruling the
 
 
-#### **PUNISHMENTS**
+#### PUNISHMENTS
 
 Punishments are purely retributive. They are of course redundant in the case of a March.
 
@@ -2132,29 +2132,29 @@ Some Tribunals have specially constructed wards that the defendant stands within
 Punishments are set in a hierarchy to accord with the seriousness of the conviction. In order of increasing severity:
 
 
-#### **SEASONS OF SERVICE**
+#### SEASONS OF SERVICE
 
 These are normally performed for the benefit of Mercere or Guernicus magi in pursuit of their Tribunal duties. Tasks are assigned according to the convicted magus's abilities. If a service requires vis, it is provided. The Presiding Quaesitor normally splits the seasons in the favor of Mercere magi.
 
 Service to Mercere often involves enacting longevity rituals and investing devices. It is up to the senior Mercere to determine the details. In the past some magi have been assigned to work as Redcaps. Service to Guernicus often involves copying Tribunal records. Sometimes a convicted magus is asked to investigate potential breaches of the law himself. Involving a magus in the upholding of Hermetic law is often seen as an excellent opportunity to restore a magus's character.
 
-### **INVESTING ITEMS**
+### INVESTING ITEMS
 
 The magus is instructed to invest items with particular effects and deliver them to particular members of House Mercere or Guernicus. The details of the invested effects are negotiated between the convicted magus and the Presiding Quaesitor or senior Mercere.
 
-#### **LOSS OF AN APPRENTICE**
+#### LOSS OF AN APPRENTICE
 
 The convicted magus must surrender their apprentice immediately. Theoretically the apprentice can then be claimed by anyone. In practice the prosecuting principle has first claim. If the prosecuting principle does not wish to, the Quaesitor will call for candidates. Ideally the Presiding Quaesitor will place an apprentice with a magus from the same House as their former master (particularly if they have been initiated into a mystery). If multiple suitable candidates step forward, certamen contests decide the matter.
 
 If the apprentice is not already present at Tribunal the new master needs to take possession within the season.
 
-#### **BANISHMENT FROM TRIBUNAL**
+#### BANISHMENT FROM TRIBUNAL
 
 Tribunals' geographical boundaries are vague, but the magus should avoid areas generally agreed to belong to a particular Tribunal. If a magus has personal vis sources within these areas, he needs to contract others to harvest them. The magus is required to find another residential Tribunal.
 
 
 
-#### **LOSS OF FAMILIAR**
+#### LOSS OF FAMILIAR
 
 To many magi, a familiar is the closest relationship they will ever have. Separation for a familiar is analogous to separation from a wife or child. The emotional impact of this punishment should not be underestimated.
 
@@ -2164,7 +2164,7 @@ Alternatively the process can be achieved in a season of lab activity. To verify
 
 After the cords have been cut, both magus and former familiar find each other's presence too much to bear. A familiar normally flees into the wilderness and avoids all future contact with magi. The former familiar cannot normally be rebound.
 
-#### **DEATH OF FAMILIAR**
+#### DEATH OF FAMILIAR
 
 The convicted magus's familiar must be killed. The horror of seeing your familiar's execution cannot adequately be expressed in words. Some magi have decided to accept a March rather than submit to this; this is seen as an honorable choice. They would rather take their chances as an outcast than meekly give their familiar up to the butcher's knife.
 
@@ -2270,7 +2270,7 @@ Quaesitors perform a number of functions at Tribunal. The most important is the 
 
 These roles are discussed in detail below.
 
-### **THE PRESIDING QUAESITOR**
+### THE PRESIDING QUAESITOR
 
 After the close of each Tribunal meeting, the local Quaesitors meet to decide who will be the Presiding Quaesitor for the following period; the decision is made by vote. Being a Presiding Quaesitor also gives a seat on the outer tier of the Magvillus Council. For ambitious Quaesitors, this can be a path to advancement.
 
@@ -2292,7 +2292,7 @@ The Presiding Quaesitor also sets all punishments for breaches of the law that d
 
 At the Grand Tribunal the Guernicus Primus acts as the Presiding Quaesitor. However, the Guernicus Primus can only exercise his veto if the majority of the Primi agree. In this way the Order is protected from mob rule. The requirement for the concurrence of the Primi ensures that House Guernicus cannot acquire power by corruptly applying the veto.
 
-### **ENDORSING TESTIMONY**
+### ENDORSING TESTIMONY
 
 Evidence in Hermetic law is usually in the form of testimony. If the testifying magus requests it, a Quaesitor will use magic to verify that the testimony is truthful. To give such testimony the witness must dispel his Parma and any other spell or item effect. The Quaesitor then checks for any magical effects that might manipulate the Quaesitor's magic.
 
@@ -2501,7 +2501,7 @@ Intensive Quaesitorial training and techniques gives a chance to spot the tell-t
 
 This new mastery ability is only applicable to enhanced sense spells. With this ability an altered, hidden or even a destroyed magical trace, may be sensed. The storyguide should make the following roll on the player's behalf:
 
-#### **Perception + Penetration + Stress die**
+#### Perception + Penetration + Stress die
 
 The Ease Factor to detect the use of deceptive magic is 6 + the magnitude of the Might of the creature responsible for the effect or 6 + the magnitude of a Hermetic spell.
 
@@ -2522,7 +2522,7 @@ The usual method of investigation involves identifying where the illegal magic m
 
 As well as giving a unique quirk to the spell's operation, the wizard's sigil gives a unique signature to a spell trace. When investigated by an appropriate Intellego Vim spell, this unique mark is revealed. To a Vision spell, the sigil will be expressed as a unique pattern, to a Touch spell the sigil will be expressed as a unique shape, texture and temperature and so on. In order to recognize a previously encountered sigil, the Quaesitor should make a Perception + Awareness roll with a difficulty set by the storyguide. However, the Creo Mentem spell, *By His Works* (see below) can be used to double-check any recollection against a sigil currently present.
 
-#### **SHROUD MAGIC**
+#### SHROUD MAGIC
 
 Unfortunately, it is a fairly easy to thwart sigil identification by using *Shroud Magic*. If a magic expires under the influence of *Shroud Magic* the resulting trace shows a false sigil. No known Hermetic technique can divine the true sigil in this case.
 
@@ -2530,7 +2530,7 @@ However, a single invention of *Shroud Magic* can only change the sigil into a f
 
 However, a magus can attempt to mimic another magus's sigil with a *Shroud Magic* spell. As the spell is designed the magus establishes an Ease Factor using the following formula:
 
-#### **Intelligence + Finesse + Stress die**
+#### Intelligence + Finesse + Stress die
 
 The inventor must have carefully studied the sigil he wishes to copy. Working from unaided memory gives a –3 penalty. Using a Creo Mentem effect to aid recollection
 
@@ -2549,7 +2549,7 @@ applies no penalty. If the inventor has an example of the sigil to hand, this gi
 
 This Ease Factor is then embedded within the spell; it is not re-rolled at each casting. Working from memory an observer is unlikely to notice any error in the sigil. However, if *By His Works* is used the Ease Factor is tested against an observer's:
 
-#### **Perception + Awareness + Stress die**
+#### Perception + Awareness + Stress die
 
 This test is made in addition to any Acute Sense test that may also apply.
 
@@ -2567,7 +2567,7 @@ This spell needs to be cast on a current Arcane Connection to a human (or human 
 
 (Base 10, +1 Touch, +1 Conc)
 
-#### **SIGHT OF THE MOLTING MAGUS**
+#### SIGHT OF THE MOLTING MAGUS
 
 **R:** Per, **D:** Conc, **T:** Vision, **Level 25**
 
@@ -2575,7 +2575,7 @@ This spell allows the caster to spot Corpus material (hair, blood, etc.) within 
 
 (Base 4, +1 Conc, +4 Vision)
 
-#### **INTELLEGO IMAGINEM SPELLS**
+#### INTELLEGO IMAGINEM SPELLS
 
 **THE DISCERNING EYE**
 
@@ -2585,7 +2585,7 @@ An enhanced version of *Discern the Images of Truth and Falsehood*. You can tell
 
 (Base, +2 Sun, +1 Enhanced Effect)
 
-#### **CREO MENTEM GUIDELINES**
+#### CREO MENTEM GUIDELINES
 
 **Level 4:** Restore a memory of a brief event to a fresh state, as long as a fragment of it remains. The affected mem-
 
@@ -2597,9 +2597,9 @@ ory can be no more extensive than a short conversation (two or three rounds).
 
 **Level 10:** Restore a memory of a day's events to a fresh state, as long as a fragment of it remains. Events are remembered as if they had occurred only an hour before.
 
-### **CREO MENTEM SPELLS**
+### CREO MENTEM SPELLS
 
-#### **BY HIS WORKS**
+#### BY HIS WORKS
 
 **R:** Per, **D:** Conc, **T:** Ind, **Level 5**
 
@@ -2607,7 +2607,7 @@ Refreshes a specific memory within the mind of the caster; as long as some fragm
 
 (Base 4, +1 Conc)
 
-#### **THE GOOD WITNESS**
+#### THE GOOD WITNESS
 
 **R:** Touch, **D:** Sun, **T:** Ind, **Level 25**
 
@@ -2615,9 +2615,9 @@ Refreshes a day's memory within the mind of the subject; as long as some fragmen
 
 (Base 10, +1 Touch, +2 Sun)
 
-### **INTELLEGO MENTEM SPELLS**
+### INTELLEGO MENTEM SPELLS
 
-#### **EAR OF TRUTH**
+#### EAR OF TRUTH
 
 **R:** Per, **D:** Conc, **T:** Hearing, **Level 30**
 
@@ -2625,9 +2625,9 @@ The caster can tell if he is hearing the truth or not. If a speaker's Magic Resi
 
 (Base 10, +1 Conc, +3 Hearing)
 
-### **REGO MENTEM SPELLS**
+### REGO MENTEM SPELLS
 
-#### **TRUST ME**
+#### TRUST ME
 
 **R:** Eye, **D:** Sun, **T:** Ind, **Level 20**
 
@@ -2637,7 +2637,7 @@ The spell is as powerful as *Aura of Rightful Authority*, but more subtle. The s
 
 (Base 5, +1 Eye, +2 Sun)
 
-#### **THE PENITENT'S CONFESSION**
+#### THE PENITENT'S CONFESSION
 
 **R:** Eye, **D:** Conc, **T:** Ind, **Level 30**
 
@@ -2647,7 +2647,7 @@ This effect qualifies as scrying and causes warping, so very few magi will volun
 
 (Base 20, +1 Eye, +1 Conc)
 
-#### **AURA OF INCONSEQUENCE**
+#### AURA OF INCONSEQUENCE
 
 **R:** Touch, **D:** Sun, **T:** Spec, **Level 25**
 
@@ -2662,7 +2662,7 @@ panions often cast this spell on themselves to avoid compromising mundane invest
 
 (Base 3, +1 Touch, +2 Sun, +3 Spec)
 
-### **INTELLEGO TERRAM GUIDELINES**
+### INTELLEGO TERRAM GUIDELINES
 
 **Level 30:** Commune with a natural rock. Speak with a metal object.
 
@@ -2670,7 +2670,7 @@ panions often cast this spell on themselves to avoid compromising mundane invest
 
 **Level 40:** Commune with a metal object (for example, a knife).
 
-### **INTELLEGO TERRAM SPELLS**
+### INTELLEGO TERRAM SPELLS
 
 **TELL OF THE FORGED**
 
@@ -2708,13 +2708,13 @@ As *Dream of the Mind that Sits*, but can be used on even metal objects. The coo
 
 (Base 40, +1 Touch, +2 Sun, +1 Creo effect)
 
-### **CREO VIM GUIDELINES**
+### CREO VIM GUIDELINES
 
 **Gen:** Refreshes all spell traces within the target that are less then the magnitude of the guideline –1, in negative magnitude.
 
 **Level 10:** Detect any active magic and any trace of positive magnitude.
 
-#### **CREO VIM SPELLS**
+#### CREO VIM SPELLS
 
 **RESTORE THE FADED THREADS**
 
@@ -2726,7 +2726,7 @@ Versions of this spell also exist for all standard Targets. Diameter duration is
 
 (Base, +1 Touch, +1 Dia)
 
-#### **INTELLEGO VIM GUIDELINES**
+#### INTELLEGO VIM GUIDELINES
 
 In general, separate spells are needed to analyze effects from each of the four Realms of power. Quaesitors normally learn the spells to detect and analyze magical effects, but the other spells are known. Spells could be invented to detect Infernal traces, but there would be no point.
 
@@ -2736,9 +2736,9 @@ In general, separate spells are needed to analyze effects from each of the four 
 
 
 
-### **INTELLEGO VIM SPELLS**
+### INTELLEGO VIM SPELLS
 
-#### **BITTER TASTE OF BETRAYAL**
+#### BITTER TASTE OF BETRAYAL
 
 **R:** Per, **D:** Sun, **T:** Taste, **Level 15**
 
@@ -2746,7 +2746,7 @@ If the caster comes under the affect of any active magic he will experience a bi
 
 (Base 5, +2 Sun)
 
-#### **IMPRESSION OF THE FADED SIGIL**
+#### IMPRESSION OF THE FADED SIGIL
 
 **R:** Per, **D:** Mom, **T:** Touch, **Level 30**
 
@@ -2756,7 +2756,7 @@ This spell is commonly mastered and combined with Quaesitorial training gives a 
 
 (Base 10, +1 Touch, +3 Details)
 
-#### **ODOR OF LINGERING MAGIC**
+#### ODOR OF LINGERING MAGIC
 
 **R:** Per, **D:** Conc, **T:** Smell, **Level 30**
 
@@ -2766,14 +2766,14 @@ Increasing the magnitude of this basic design allows negative magnitude traces t
 
 (Base 15, +1 Conc, +2 Vision)
 
-#### **SIGHT OF THE SIGIL**
+#### SIGHT OF THE SIGIL
 
 **R:** Per, **D:** Conc, **T:** Vision, **Level 50**
 
 Used by the most experienced Quaesitors, this spell allows the magus to spot active magic or traces of positive magnitude. In the case of Hermetic effects, this spell gives the Technique and Form, the rough details of the effect and the casting sigil of wizard responsible. It can also detect if a Hermetic effect was generated by a spell or invested device. If the effect was non-Hermetic, similar
 
 
-### **PERDO VIM GUIDELINES**
+### PERDO VIM GUIDELINES
 
 This combination can be used to make spell traces harder to detect by aging the trace. However, a spell to magically age a trace will leave its own fresh trace; this is generally counterproductive. However, if cast with *Shroud Magic* it can still prove useful. So far, no way has been found of designing a spell that leaves no trace.
 
@@ -2785,9 +2785,9 @@ This combination can be used to make spell traces harder to detect by aging the 
 
 **Gen:** Dispel a specific type of enchantment with a level less than twice the guideline level used + a stress die (no botch). To qualify the spell needs to specify a particular Hermetic Form or a specific type of enchantment, such as Talismans, Familiars or Longevity Rituals. More general enchantments do not qualify. Spell must be a ritual.
 
-#### **PERDO VIM SPELLS**
+#### PERDO VIM SPELLS
 
-#### **CIRCLE OF CLARITY**
+#### CIRCLE OF CLARITY
 
 **R:** Touch, **D:** Mom, **T:** Circle, **Level Gen**
 
@@ -2795,7 +2795,7 @@ This spell will dispel any active Vim effect within the circle whose Casting Tot
 
 (Base, +1 Touch)
 
-#### **CUTTING THE CORDS**
+#### CUTTING THE CORDS
 
 **R:** Touch, **D:** Mom, **T:** Ind, **Level Gen,** Ritual
 
@@ -2815,7 +2815,7 @@ It is practically impossible for an individual to cast the more powerful rituals
 
 The Casting Total for these rituals is:
 
-#### **Sta + [Sum of Ability Scores] + Aura Modifier + Die Roll**
+#### Sta + [Sum of Ability Scores] + Aura Modifier + Die Roll
 
 This roll is made by the ritual leader. If the Ease Factor is not met, the effect fails. However, the slow, methodical method of casting is quite safe. Unless stressed or disrupted there are no botch die.
 
@@ -2832,7 +2832,7 @@ As can be imagined these rituals are not cast casually, and in fact some have ne
 
 It should be noted that there is no proof these rituals work at all.
 
-#### **CURSE OF THOTH**
+#### CURSE OF THOTH
 
 **PeVi, R:** Arc, **D:** Year, **T:** Spec
 
@@ -2840,7 +2840,7 @@ This spell curses another magical group with misfortune. The final act of castin
 
 **Ease Factor:** 78
 
-#### **CURSE OF MARS**
+#### CURSE OF MARS
 
 **ReMe, R:** Arc, **D:** Year, **T:** Spec
 
@@ -2848,7 +2848,7 @@ This spell curses a nation to internal strife. The final act of casting involves
 
 **Ease Factor:** 78
 
-#### **CALL FOR JUSTICE**
+#### CALL FOR JUSTICE
 
 **ReVi, R:** Arc, **D:** Mom, **T:** Ind
 
@@ -2878,7 +2878,7 @@ Unlike the greater rituals these see occasional use, although the costs are stil
 
 All these rituals take five minutes for each point of Ease Factor to cast. Those below are only a selection; there may be more at the storyguide's discretion.
 
-#### **WISDOM OF ATHENA**
+#### WISDOM OF ATHENA
 
 **CrMe, R:** Per, **D:** Sun, **T:** Ind
 
@@ -2886,7 +2886,7 @@ Allows the ritual leader a +5 bonus to all Folk Ken, Intrigue and Awareness test
 
 **Ease Factor:** 12
 
-#### **SIGHT OF ALATHEIA**
+#### SIGHT OF ALATHEIA
 
 **InVi, R:** Per, **D:** Sun, **T:** Vision
 
@@ -2895,7 +2895,7 @@ Gives ritual leader the equivalent of the Second Sight ability with a score of 5
 
 **Ease Factor:** 12
 
-#### **VEIL ALL EYES**
+#### VEIL ALL EYES
 
 **ReMe (An), R:** Touch, **D:** Moon, **T:** Spec
 
@@ -2903,7 +2903,7 @@ Allows the ritual participants to pass unnoticed. A beneficiary will be ignored 
 
 **Ease Factor:** 18
 
-#### **THE OATH OF TRUTH**
+#### THE OATH OF TRUTH
 
 **PeCo, R:** Voice, **D:** Spec, **T:** Ind
 
@@ -2911,7 +2911,7 @@ This ritual can only be cast on a willing subject. At the end of the ritual, the
 
 **Ease Factor:** 18
 
-### **THE WILL OF ALATHEIA**
+### THE WILL OF ALATHEIA
 
 **PeCo, R:** Voice, **D:** Spec, **T:** Ind
 
@@ -3062,7 +3062,7 @@ There are also political reasons for encouraging Redcaps to remain at a covenant
 
 Even better is to encourage a Redcap to join your covenant, for then his loyalty is to you as well as his House. Most Redcaps prefer this arrangement to living at a Mercer House, as it usually means they don't have to pay their keep and it makes them feel more a part of the Order as a whole. About half of the Redcaps in a given Tribunal usually belong to covenants, and thus do not have to worry as much about how much silver they collect on their rounds. For them, service is a duty and a privilege, not their livelihood.
 
-#### **SOCIETAS MERCERIS: FOLLOWERS OF BELIN**
+#### SOCIETAS MERCERIS: FOLLOWERS OF BELIN
 
 Belin was one of Mercere's most devoted followers, and the last apprentice he ever taught. Her stories have been told so many times throughout the House that she has almost been elevated to a legend herself. It is said that she never shirked her duty, always got her messages through, and constantly put the interests of the Order ahead of her own. Her reputation is so well known that even magi from different Houses might say of a disloyal custos, "he's no Belin."
 
@@ -3168,7 +3168,7 @@ Because Redcaps so often deal in vis and are essentially Hermetic bankers, a Mer
 
 As Tribunals are one of the few places where large groups of magi gather regularly, the mood is often that of a medieval fair, and Redcaps frequently bring a lot of vis to loan and exchange. Other magi bring goods of their own to sell, such as magic devices, arcane materials, and books. Redcaps interested in the mercantile aspects of the House can find good business at Tribunal, and even though they do not usually vote during the proceedings, these opportunities before and after the event are more than enough reason for them to attend.
 
-#### **SOCIETAS MERCERIS: THE PAWNBROKERS**
+#### SOCIETAS MERCERIS: THE PAWNBROKERS
 
 The years that followed the Schism War were a new age of Hermetic prosperity, and many Merceres seized upon the commercial opportunities in Ireland and the British Isles. An Italian Redcap named Venafro began seeking out vis in the wild lands left empty by the passing of the Diedne. He had a fondness for the game of chess, which he had learned to play in his birthplace in central Italy, and had fashioned a game piece out of bone and ivory to use as his sigil. When gathering vis using magic items he had commissioned for the purpose, it was his habit to move each unit into one of these pawns, so that he could easily count how much his collection was worth, and he marked each one with a symbol representing its associated Art.
 
@@ -3213,7 +3213,7 @@ Fines assigned as punishment at Tribunal are officially divided between the pros
 
 While terribly frowned upon by the Order and the House, brave Redcaps with few scruples sometimes seize damages and fines using subterfuge and stealth. They reason that once a Tribunal has sentenced magi to pay a fine or hand over damages, that property no longer belongs to them. Charges can be brought against magi who fail to pay what they owe by the next Tribunal, but some Redcaps prefer not to wait, and this is often to their advantage. In highly-regulated Tribunals that strictly punish even the lowest of crimes, such cunning practices would probably not succeed, but on the edges of the Order where only obvious breaches of the Code receive official notice, there are many gray areas, as the following excerpts from the Peripheral Code demonstrate.
 
-#### **A.A 1290 (A.D. 1151), Transylvanian Tribunal**
+#### A.A 1290 (A.D. 1151), Transylvanian Tribunal
 
 *Maga Dorisa of Ex Miscellanea charged Constantine of Mercere, a Redcap, with sneaking into her sanctum and taking twelve pawns of Rego vis, thus depriving her of her magical power.* 
 
@@ -3223,7 +3223,7 @@ While terribly frowned upon by the Order and the House, brave Redcaps with few s
 
 *After deliberation, the presiding Quaesitor determined that Constantine was due twelve pawns and twelve pawns had been paid,* *regardless of the customary value of the two kinds of vis. The Redcap had risked his life by entering her sanctum, but since that was not in itself illegal and no law had been broken, the charges were dismissed.*
 
-#### **A.A. 1308 (A.D 1179), Thebes Tribunal**
+#### A.A. 1308 (A.D 1179), Thebes Tribunal
 
 *Bartholomew of Mercere was charged with two counts of depriving the Magus Errantus of Criamon of his magical power. Errantus and other witnesses described a confrontation with the Redcap, where Bartholomew had entered the covenant's council room and wrenched a magical staff from Errantus's hands, ruining a magical ring the magus had been drawing. During the struggle, Bartholomew kicked Errantus hard enough to knock him down, breaking two of the magus's ribs and causing him to be unable to perform magic for the rest of the season. The Redcap then took the staff and fled the scene.*
 
@@ -3238,7 +3238,7 @@ When a magus is ordered to pay vis or a magic item as damages, custodial Redcaps
 
 Custodial Redcaps also collect payment on loans, gather vis from property on lien, and pay interest to those who have invested in the House. Sometimes, in the course of these activities, they will find that it is necessary to convince magi to make good on their debts. They are not supposed to intimidate or threaten those who cannot pay, but instead try to make other arrangements, at worst bringing charges against them at Tribunal for breach of contract. Nonetheless, some Redcaps do practice less dignified means of collection when resources are scarce. Depending on the degree to which the law is enforced in the Tribunal, custodial Redcaps might get away with convincing magi using magic that causes pain or irritation, blackmail, or seriously injuring or even killing their companions and grogs. Obviously, such brutish Redcaps have very poor reputations among their sodales.
 
-#### **SOCIETAS MERCERIS: THE BLOODCAPS**
+#### SOCIETAS MERCERIS: THE BLOODCAPS
 
 Legend tells that in the vast wilderness between cities, on battlegrounds and sites of massacres, in old Roman forts and ruined peel towers, wicked and violent faeries have lived for centuries. They are drawn to the sites of great slaughter and death, usually on borders where great wars have been fought, such as that region found between England and Scotland. These creatures are described as old, broad-shouldered, and very strong, with long protruding teeth, skinny arms and hands, and great talons like an eagle's claws on each of their fingers.
 
@@ -3285,7 +3285,7 @@ ly quality about them, perhaps because of their familiarity with magic or their 
 
 A few of these Redcaps are adopted into the Order for the sole purpose of encouraging their unique talents. They do not carry messages, trade vis, or protect the Order, but instead spend their apprenticeship developing their art to levels of phenomenal virtuosity. By arrangement, some of these heralds of the age are invited to join House Jerbiton after swearing the Oath, where they are encouraged to practice their art as "Larta magi." Not all of them pass through House Mercere, but it is less controversial than Houses adopting unGifted followers directly, and it may be possible for Redcaps to join other Houses in the same way.
 
-#### **SOCIETAS MERCERIS: THE GOLIARDS**
+#### SOCIETAS MERCERIS: THE GOLIARDS
 
 Golias was a famous Redcap in the tenth century, a former clerk who joined the House when he lost his post at a monastery in northern France. He didn't have much love for the Order, but he enjoyed wine and women, and wrote lurid poetry and wicked songs about them that were so good that many think he was supernaturally inspired. He also liked to wander, especially in his later years, a vocation that fit perfectly with his job in House Mercere. Fudarus (the domus magna of House Tytalus) was one of his many patrons, and he spent a lot of his free time there, for the magi enjoyed his company and encouraged his ribald talents. In fact, he was a semi-permanent resident when the corruption of House Tytalus came to light, just before the end of the millennium. He was charged with diabolism along with the other magi and cast out of the Order, and all known copies of his works were burned.
 
@@ -3363,7 +3363,7 @@ About half of all Mercere magi still practice Mercurian magic like their ancesto
 
 ways of casting the same spell in different situations. Priamitus learned many of these spell mastery abilities from Mercere, and his followers developed others. They include: Adaptive Casting, Ceremonial Casting, Disguised Casting, Lab Mastery, Learn from Mistakes, and Stalwart Casting. These are described fully in the Appendix (Laboratory, Mastered Spell Special Abilities).
 
-### **SOCIETAS MERCERIS: THE CULT OF HEROES**
+### SOCIETAS MERCERIS: THE CULT OF HEROES
 
 The Cult of Mercury includes magi from many different Houses, and is usually found wherever magi practice Mercurian rituals. Within it, or perhaps beside it, there are other smaller groups with similar beliefs and practices, and one of these groups is primarily made up of members of House Mercere. They are known as the Cult of Heroes, and according to them, the great heroes of antiquity still walk the earth. Heracles, Arthur, Beowulf, Gilgamesh they say these legendary figures and others like them were descended from the gods, and the Cult of Heroes believes that they can be born again.
 
@@ -3466,42 +3466,42 @@ Any time magi earn a level in a spell mastery ability, they may choose from thes
 
 Characters who take Mastered Spells during character creation and who have access to these abilities during apprenticeship may spend their mastery points on them if they wish.
 
-#### **ADAPTIVE CASTING**
+#### ADAPTIVE CASTING
 
 (Cult of Mercury)
 
 This special ability may only be taken for General spells. You may use your mastery score and all the special
 
 
-### **MERCURIAN MAGI**
+### MERCURIAN MAGI
 
 Adaptive Casting Ceremonial Casting Disguised Casting Lab Mastery Learn From Mistakes Stalwart Casting
 
-#### **MUTANTES**
+#### MUTANTES
 
 Boosted Casting Harnessed Casting Tethered Casting
 
 abilities associated with this spell whenever you cast the same spell at a different level.
 
-#### **BOOSTED CASTING**
+#### BOOSTED CASTING
 
 (Mutantes)
 
 When casting this spell, you may use vis to increase the Range, Duration, or Target by one magnitude for each pawn spent. You may not boost the Duration to Year or the Target to Boundary unless the spell is already a Ritual.
 
-#### **CEREMONIAL CASTING**
+#### CEREMONIAL CASTING
 
 (Cult of Mercury)
 
 You may use ceremonial methods when casting this spell, increasing the casting time and adding your Artes Liberales and Philosophiae to your total. This cannot be taken for Ritual spells, which always require ceremonial casting.
 
-#### **DISGUISED CASTING**
+#### DISGUISED CASTING
 
 (Cult of Mercury)
 
 When casting this spell, you may suppress or alter your sigil, to hide your identity or make the spell appear to have been cast by someone else. Since this actually changes your sigil, it is impossible for others to recognize you from it, though magi might be able to recognize that a fake sigil is not genuine. When you mimic the sigil of another magus, you may add your Spell Mastery score to the roll that determines how difficult it is to recognize.
 
-#### **HARNESSED CASTING**
+#### HARNESSED CASTING
 
 (Mutantes)
 
@@ -3509,25 +3509,25 @@ When casting this spell, you may suppress or alter your sigil, to hide your iden
 
 You may end the effects of this spell at will, simply by concentrating on it. For timing and concentration purposes, treat this as if you were casting the spell. If you are distracted and fail your Concentration roll, you may try again in another round.
 
-#### **LAB MASTERY**
+#### LAB MASTERY
 
 (Cult of Mercury)
 
 You understand the theory of this spell so perfectly that you may add your spell mastery score to your Lab Total when designing effects that are similar to it (see Similar Spells, **Ars Magica** 5th Edition page 101). This is in addition to the standard similar spell bonus.
 
-#### **LEARN FROM MISTAKES**
+#### LEARN FROM MISTAKES
 
 (Cult of Mercury)
 
 The first time in a session that you botch a roll for this spell or fail it by exactly one point, you gain five experience points towards mastery of this spell. The roll must come up naturally in the course of the story.
 
-#### **STALWART CASTING**
+#### STALWART CASTING
 
 (Cult of Mercury)
 
 This spell is less exhausting for you. If it is a Ritual, you lose normal Fatigue instead of long-term Fatigue when casting it, and half as many Fatigue levels, rounded up (but always at least one). If it is formulaic, you never lose Fatigue levels because of a low casting total, even if the spell doesn't succeed.
 
-#### **TETHERED CASTING**
+#### TETHERED CASTING
 
 (Mutantes)
 
@@ -3577,7 +3577,7 @@ Note that the Mutantum Magic Virtue allows a character to learn, cast and invent
 
 These spells are primarily used by the Milvi Antiquiti (see their society description in House Mercere, Mutantes).
 
-#### **CREO ANIMAL MUTANTUM SPELLS**
+#### CREO ANIMAL MUTANTUM SPELLS
 
 **TWINNING THE TOME**
 
@@ -3592,9 +3592,9 @@ requisite to determine the shape and size of the pages, and a Terram requisite t
 
 (Base 5, +1 Touch, +2 Group, +5 intricacy, +1 requisites; Boosted)
 
-#### **MUTO ANIMAL MUTANTUM SPELLS**
+#### MUTO ANIMAL MUTANTUM SPELLS
 
-#### **THE TRANSFORMED FOLIO**
+#### THE TRANSFORMED FOLIO
 
 **R:** Touch, **D:** Year, **T:** Group, **Level 35,** Ritual
 
@@ -3602,9 +3602,9 @@ This changes all the pages of a book into those of a different book for the dura
 
 (Base 1, +1 Touch, +4 Year, +5 intricacy; Boosted, Harnessed)
 
-### **PERDO ANIMAL MUTANTUM SPELLS**
+### PERDO ANIMAL MUTANTUM SPELLS
 
-#### **HUNTER'S LETHAL ARROW**
+#### HUNTER'S LETHAL ARROW
 
 **R:** Touch, **D:** Diam, **T:** Ind, **Level 40**
 
@@ -3612,9 +3612,9 @@ This spell causes an animal to suffer a fatal wound, just as if it had been pier
 
 (Base 30, +1 Touch, +1 Diam; Tethered)
 
-#### **MUTO CORPUS MUTANTUM SPELLS**
+#### MUTO CORPUS MUTANTUM SPELLS
 
-#### **SHAPE OF THE ANCIENT KITE**
+#### SHAPE OF THE ANCIENT KITE
 
 **R:** Touch, **D:** Moon, **T:** Ind, **Level 40**
 
@@ -3624,9 +3624,9 @@ You transform the target into a hawk, kite, or other small raptor, and any books
 
 (Base 20, +1 Touch, +3 Moon; Harnessed, Tethered)
 
-#### **REGO CORPUS MUTANTUM SPELLS**
+#### REGO CORPUS MUTANTUM SPELLS
 
-#### **THE TIRELESS FLIGHT**
+#### THE TIRELESS FLIGHT
 
 **R:** Touch, **D:** Conc, **T:** Ind, **Level 20**
 
@@ -3636,9 +3636,9 @@ The spell is tethered so that the target can control the effect, allowing her to
 
 (Base 10, +1 Touch, +3 Moon; Boosted, Harnessed, Tethered)
 
-#### **INTELLEGO TERRAM MUTANTUM SPELLS**
+#### INTELLEGO TERRAM MUTANTUM SPELLS
 
-#### **SENSE THE TRUE PATH**
+#### SENSE THE TRUE PATH
 
 **R:** Arc, **D:** Conc, **T:** Ind, **Level 15**
 
@@ -3654,15 +3654,15 @@ The spell is tethered, so that it may be controlled by another, and boosted so t
 
 These spells are associated with the Cult of Heroes, and are rarely found outside of that society.
 
-### **CREO CORPUS SPELLS**
+### CREO CORPUS SPELLS
 
-#### **(PHYSICAL CHARACTERISTIC) OF THE FOLLOWERS R:** Touch, **D:** Mom, **T:** Ind, **Level 35,** Ritual
+#### (PHYSICAL CHARACTERISTIC) OF THE FOLLOWERS R: Touch, D: Mom, T: Ind, Level 35, Ritual
 
 There are four variations of this lesser version of *(Physical Characteristic) of the Heroes* (CrCo60), which permanently increase a physical Characteristic (Strength, Stamina, Dexterity or Quickness) by one, but to no more than 0. During these minor rituals, followers of the Cult of Heroes are purified and anointed with oil, and have their innate weaknesses magically removed, making them truer to their ideal forms, to prepare them for the other, greater rituals.
 
 (Base 30, +1 Touch)
 
-#### **(PHYSICAL CHARACTERISTIC) OF THE HEROES**
+#### (PHYSICAL CHARACTERISTIC) OF THE HEROES
 
 **R:** Touch, **D:** Mom, **T:** Ind, **Level 60,** Ritual
 
@@ -3670,14 +3670,14 @@ Each of the four variations of this ritual permanently increases one of the subj
 
 (Base 55, +1 Touch)
 
-#### **CREO MENTEM SPELLS**
+#### CREO MENTEM SPELLS
 
-#### **(MENTAL CHARACTERISTIC) OF THE FOLLOWERS R:** Touch, **D:** Mom, **T:** Ind, **Level 35,** Ritual
+#### (MENTAL CHARACTERISTIC) OF THE FOLLOWERS R: Touch, D: Mom, T: Ind, Level 35, Ritual
 
 There are four variations of this lesser version of *(Mental Characteristic) of the Heroes* (CrMe60), which permanently increase a mental Characteristic (Intelligence, Perception, Presence or Communication) by one, but to no more than 0. During these minor rituals, followers of the Cult of Heroes are purified and anointed with oil, and have their innate weaknesses magically removed, making them truer to their ideal forms, to prepare them for the other, greater rituals.
 
 
-### **(MENTAL CHARACTERISTIC) OF THE HEROES (CRME60)**
+### (MENTAL CHARACTERISTIC) OF THE HEROES (CRME60)
 
 **R:** Touch, **D:** Mom, **T:** Ind, **Level 60,** Ritual
 
@@ -3685,9 +3685,9 @@ Each of the four variations of this ritual permanently increases one of the subj
 
 (Base 55, +1 Touch)
 
-### **CREO VIM SPELLS**
+### CREO VIM SPELLS
 
-#### **MERCURY'S BLESSING**
+#### MERCURY'S BLESSING
 
 **R:** Touch, **D:** Year, **T:** Ind, **Level 25,** Ritual
 
@@ -3699,7 +3699,7 @@ This ritual imbues the target with a kind of supernatural aura, similar to Might
 
 These new Virtues and Flaws are most often found in characters belonging to House Mercere, but most are not exclusive to that House.
 
-#### **BLOOD OF HEROES**
+#### BLOOD OF HEROES
 
 You are descended from a great hero of legend or a powerfully supernatural being. You do not have The Gift, and taking this Virtue means that you are a Mythic Companion.
 
@@ -3721,25 +3721,25 @@ This sort of character is very rare, and much more powerful than other unGifted 
 
 Like The Gift, Blood of Heroes is a free Virtue. It is not possible to have both Blood of Heroes and The Gift; magi can gain access to Heroic Virtues and Flaws by taking Mythic Blood. Also like The Gift, Blood of Heroes is not available to grogs; this Virtue makes a character too important to be a grog.
 
-### **HEROIC**
+### HEROIC
 
 Only "Heroic" characters can take Heroic Virtues and Flaws. These are characters with the Blood of Heroes virtue or the Legacy flaw, or magi with Mythic Blood. Other story circumstances such as Latent Magic Ability might warrant taking them, at the storyguide's discretion.
 
 ### Virtues
 
-#### **BOOSTED MAGIC**
+#### BOOSTED MAGIC
 
 *Minor, Hermetic*
 
 By spending a pawn of vis when casting formulaic spells you may "boost" the Range, Duration, or Target of the effect by one magnitude. You can do this multiple times for the same spell. For example, boosting Range from Touch to Sight and Target from Individual to Group would cost you four pawns of vis. This has no effect on spontaneous or Ritual spells, though you can still use vis to boost your Penetration as normal. Note that while magi with Mutantum Magic (see below) can invent spells that allow this, they cannot boost spells that were not designed to do so without taking this Virtue.
 
-### **CHARMED LIFE**
+### CHARMED LIFE
 
 *Major, Heroic*
 
 Fortune smiles upon you, often protecting you from the random consequences of adventure. You have the Luck virtue, and whenever you roll a 0 on a stress die in dangerous or deadly circumstances, you may spend a Confidence point to reroll it rather than checking for a botch. This should be applied in chaotic circumstances, not calculated efforts, since luck must play a factor to make use of this virtue — for example, charging into a rain of arrows or diving off a sheer cliff are appropriate actions, but not forging a letter or following a set of tracks.
 
-#### **FAERIE BLOOD**
+#### FAERIE BLOOD
 
 *Minor, General*
 
@@ -3781,13 +3781,13 @@ take a Flaw to represent that fact. This faerie lineage is rare in humans, and p
 
 You can understand and speak any language as long as you are communicating directly with someone else who is fluent in that language. Others who hear your words and who understand that language can understand what you are saying. You cannot carry on a conversation in multiple languages, but you can act as a translator for two or more people who do not have this virtue.
 
-### **GREAT BEARER**
+### GREAT BEARER
 
 *Minor, Heroic*
 
 You can carry twice as much on your back before you become weighted down, as long as you have time to arrange yourself and your equipment properly. Divide your Burden by two before calculating your Encumbrance. You can also travel twice as far before you become fatigued by a journey.
 
-#### **HARNESSED MAGIC**
+#### HARNESSED MAGIC
 
 *Minor, Hermetic*
 
@@ -3795,7 +3795,7 @@ You have great control over your spells. You are able to cancel any of your spel
 
 The drawback is that when you die, all of your spells and magic items sputter out.
 
-#### **HEROES' BIRTHRIGHT**
+#### HEROES' BIRTHRIGHT
 
 *Minor, Heroic*
 
@@ -3806,7 +3806,7 @@ You have a special magical power which you can invoke and cancel at will, or whi
 
 virtue can be taken more than once to indicate a more powerful birthright, and is compatible with Mythic Blood, though none of your accumulated powers can have effects greater than Level 30.
 
-#### **INVISIBLE TO MAGIC**
+#### INVISIBLE TO MAGIC
 
 *Major, Heroic*
 
@@ -3814,7 +3814,7 @@ By concentrating, you can cause yourself to become temporarily invisible to magi
 
 You must make a Stamina + Concentration roll for each spell every round during which you would be affected, against an Ease Factor of 3 + (3 x the magnitude of the spell). For example, avoiding *The Wound That Weeps* (PeCo15) would require a total of at least 12, while *Weight of a Thousand Hells* (CrMe25) would need 18 or more. If you have magic resistance, first check that the spell can "see" you, and then resolve Penetration as normal. Attempting to perform other actions while invisible to magic requires additional Concentration rolls, but you do not need to know where spells are coming from to make yourself invisible to them.
 
-#### **LONE REDCAP**
+#### LONE REDCAP
 
 *Minor, Status*
 
@@ -3822,13 +3822,13 @@ You are a Redcap who does not maintain ties to a Mercer House, and thus do not r
 
 You must still devote two seasons each year carrying messages and performing other services for the Order, for if you do not there is the possibility you will be declared Orbus and thrown out of your House. This work pays enough for you to live on if you do not belong to a covenant, unless you take the Poor flaw and must work a third season as well. If you take the Wealthy virtue, you can maintain your position with only a single season of effort each year.
 
-### **MAGIC ITEMS**
+### MAGIC ITEMS
 
 *Minor, General*
 
 You begin with 25 more starting levels of magic items than you would otherwise, and the rate at which your items are improved is increased by one level per year. This is probably because of your exceptional devotion to the House, or because you have inherited a number of items from other Redcaps. You must be a Redcap to take this virtue, and you may take it more than once, though no single effect in any of your items can be greater than Level 30.
 
-#### **MESSENGER'S MEMORY**
+#### MESSENGER'S MEMORY
 
 *Minor, Heroic*
 
@@ -3842,7 +3842,7 @@ You can remember, word for word, any short messages you have heard or read in th
 
 You are descended from the Mutantum lineage, and can thus invent formulaic spells and magic items that take advantage of Boosting, Harnessing and Tethering (see Mutantum Magic, under Magic, above). You may also take the Tamed Magic virtue, and half of your starting spells may be "tamed" versions of common spells. Most characters with Mutantum Magic belong to House Mercere and consider themselves Mutantes, and all of them must be descended by blood from the Founder or one of his ancestors.
 
-### **MYTHIC (CHARACTERISTIC)**
+### MYTHIC (CHARACTERISTIC)
 
 *Minor, Heroic*
 
@@ -3858,14 +3858,14 @@ Here are some specialty suggestions for each Characteristic.
 
 *Dexterity:* nimble fingers, legendary aim, relentless attacker *Quickness:* lightning-fast defense, sudden strikes, short-distance runner
 
-#### **MYTHIC MIMICRY**
+#### MYTHIC MIMICRY
 
 *Major, Heroic*
 
 This Virtues grants all the abilities of *Messenger's Memory* (see above), but in addition you are so accomplished at memorizing and reciting messages that you can recall accounts of any length, and perfectly recreate the voice or handwriting of the author, so much that it is indistinguishable from the original. Once you have heard or read something from a person, you can easily mimic their voice or writing style, creating perfect imitations if you are so inclined. With a season of effort you can even
 
 
-#### **SURE TRAVELER**
+#### SURE TRAVELER
 
 *Minor, Heroic*
 
@@ -3873,19 +3873,19 @@ As long as you have traveled the route before, you never become lost on a journe
 
 prehend the contents to do this accurately.
 
-#### **TAMED MAGIC**
+#### TAMED MAGIC
 
 *Major, Hermetic*
 
 You have the equivalent of both Harnessed Magic and Tethered Magic, but do not suffer the inherent flaws of those Virtues. That is, you can also use the principles of Mutantum Magic to change any of your spontaneous or formulaic spells or effects of magic items that you activate, but your spells and effects are not arcane connections to you and do not sputter out when you die. This virtue may only be taken by characters who also begin with Mutantum Magic (see above).
 
-#### **TETHERED MAGIC**
+#### TETHERED MAGIC
 
 *Minor, Hermetic*
 
 You can pass control of your non-Ritual spells to others, just as if they were the caster, "tethering" the magic to them for the spell's duration. You may also tether a spell to an object, which can then transfer the spell to an appropriate target when it comes into range. This can even be done whenever you activate an effect in a magic item. However, a side effect of this sort of magic is that all of your spells and the effects of any magic items you activate are arcane connections to you.
 
-#### **VIS SENSITIVITY**
+#### VIS SENSITIVITY
 
 *Major, Heroic*
 
@@ -3916,19 +3916,19 @@ You are unusually sensitive to raw vis, and can tell whether or not an object co
 
 ### Flaws
 
-### **BOUND MAGIC**
+### BOUND MAGIC
 
 Minor, Hermetic
 
 When you die, all of your spells end abruptly and any magic items that you created cease to function. This suggests that you could have a natural aptitude for Mutantum Magic, or you might take it with Tamed Magic to represent an imperfect understanding of your talent. You cannot take this with Harnessed Magic (**Ars Magica** 5th Edition, page 43), as it already includes this effect.
 
-#### **FETTERED MAGIC**
+#### FETTERED MAGIC
 
 *Minor, Hermetic*
 
 All of your spells and the effects of any magic items you activate are arcane connections to you. This suggests that you may have a natural aptitude for Mutantum Magic, or you might take it with Tamed Magic to represent an imperfect understanding of your talent. You cannot take this with Tethered Magic, as it already includes this effect.
 
-### **HERMETIC PATRON**
+### HERMETIC PATRON
 
 *Minor, Story*
 
@@ -3938,7 +3938,7 @@ You are watched over by an older magus or a more established Redcap, who conside
 
 You may take this Flaw with a large group of magi as your patrons, though the more numerous your benefactors, the more you will be expected to do for them.
 
-### **HEROIC PERSONALITY**
+### HEROIC PERSONALITY
 
 *Minor, Heroic*
 
@@ -3948,26 +3948,26 @@ You may take Personality traits of up to +5 or –5, and have a Confidence score
 
 respond to a situation in a certain way, based on these heroic traits. Thus, you should choose Personality traits that reflect your heroic behavior, to give the storyguide ideas for passions that motivate your character. **Note:** If you take this Flaw, the storyguide *can* occasionally tell you what your character does. If you are not happy with this potential loss of control, do not play a character with heroic blood.
 
-#### **ILLEGITIMATE LINEAGE**
+#### ILLEGITIMATE LINEAGE
 
 *Minor, Hermetic*
 
 You were raised in House Mercere, but are not descended by blood from Mercere or one of his heirs, and so are not considered a "true Mercere." Because of this, Redcaps do not follow or admire you as they do other magi, and Gifted Merceres think of you as inferior to them. You have a poor reputation (Illegitimate) within the House at level 2, and you receive no special benefits for belonging to House Mercere, such as interest-free loans, magic item contracts, or vis exchanges at no charge. Your parens probably has a poor reputation as well. Only through exemplary service to the Order and taking legitimate apprentices born to Redcaps or other magi descended from the Founder will you be forgiven for your heritage.
 
-#### **LEGACY**
+#### LEGACY
 
 *Minor, Story*
 
 You are descended from a legendary magus or Redcap of old, or have such potential that it is assumed you will rise to similar greatness. Because of this, you are accorded great respect by magi of your House who care about such things, the equivalent of Hermetic Prestige. You may also take Heroic Virtues and Flaws if they are appropriate to your lineage. However, you are also expected to live up to your reputation by performing great deeds, and you are given much more difficult tasks than your peers. As a Redcap, you will not simply be asked to carry messages, for your assigned duties will involve greater danger and much more effort.
 
-#### **PAGAN**
+#### PAGAN
 
 *Major, Story*
 
 You do not follow the teachings of the Church, and have never been baptized. This tends to upset those in authority in Mythic Europe and frighten common people
 
 
-#### **TRAGIC (CHARACTERISTIC)**
+#### TRAGIC (CHARACTERISTIC)
 
 *Minor, Heroic*
 
@@ -3985,7 +3985,7 @@ You must take a specialty for one of your negative Characteristics, similar to a
 
 *Dexterity:* easily unbalanced, all thumbs, bad aim *Quickness:* often surprised, lumbering run, easy target
 
-#### **USURER**
+#### USURER
 
 *Minor, Status*
 
@@ -4013,13 +4013,13 @@ The square in the center of the symbol represents a flagstone. This is reminds t
 Members of House Tremere assume that the world is chaotic and dangerous. They strive to control events and prepare for inevitable, future battles. They cultivate influence and acquire resources to respond to emerging crises. They settle internal arguments with non-fatal duels. Tremere magi are pragmatic, dutiful and courageous.
 
 
-#### **WOLVES**
+#### WOLVES
 
 Tremere thinking, art and literature praise the ethos of the wolf pack. Wolves are gentle with each other and savage to their enemies. They serve their families, particularly the dominant pair, and aid in the raising of their lair mates' cubs. The Dacians, from the word *daoi* meaning "wolves", ruled Transylvania before the Romans came, and went to war behind wolf-headed dragon ban-
 
 ### Symbols
 
-#### **MARS INCISED WITH A SQUARE**
+#### MARS INCISED WITH A SQUARE
 
 Members of House Tremere accept the inevitability of war, but no longer hunger for it. Tremere conceived of his House as an army, but his military adventures failed, and then the House suffered terribly during the Schism War. Modern Tremere accept the use of force where necessary, but prize cunning more than their ancestors. Many see the House's mark as a reminder that war is inevitable
 
@@ -4051,7 +4051,7 @@ ners. Tremere's familiar was a white wolf, of a pack sacred to Hermes. Familiars
 
 Odd rumors circulate concerning the House's link to wolves. Some say that Tremere magi know the ritual of Mount Lycaeon, which turns men into wolves for nine years, and use it upon rebellious Housemates to adjust their attitude. Some claim that werewolves serve the House, others that the House's servants are equipped with items that change their shapes. Many believe the white wolves of the forest are Tremere spies and saboteurs.
 
-### **BUTTERFLY AND TWO-PRONGED FORK**
+### BUTTERFLY AND TWO-PRONGED FORK
 
 These two, ancestral symbols are sometimes seen on items significant to the House. The Aita priesthood from which the House descends had the butterfly as its mark. During its period as servants of Pluto, the God of the Underworld and hidden wealth, its symbol was a twopronged pitchfork. Items with these marks are rarely used publicly.
 
@@ -4064,13 +4064,13 @@ The pitchfork motif has one noticeable effect on Tremere magi. Many see two as a
 
 tices, make two copies of letters and so on. This attitude explains why certamen duelists may disallow the first Art that their rival offers, but not the second. Tremere magi call a magus's preferred certamen arts his "tines".
 
-### **UNIFORM ROBES**
+### UNIFORM ROBES
 
 The formal robes of Tremere magi are dyed with the residue left after vis is extracted from the Waters of Forgetfulness. The Waters are harvested in the funeral cavern at the heart of Coeris, the domus magna of House Tremere. To members of the House, their uniform appearance at Tribunal is a sign of kinship and solidarity. The dye also reminds Tremere magi that the House will care for them until they, too, rest in the cavern.
 
 The dye is self-mordanting, and changes color with time. It is initially blue-black, but deepens in shade as it ages. After about twenty years, the garment is a deep, true black. It fades to charcoal gray after a further thirty. The House dyes spare cloth each year, so that a magus requiring a new robe may request one of suitably venerable hue.
 
-#### **MOTTO**
+#### MOTTO
 
 The House motto, — "The Will conquers all" — is rarely used. The Sundering demonstrated that it isn't true and quoting Tremere offends other magi pointlessly. He said several things that they resent, and the Quaesitorial motto opposes House Tremere's. Many Tremere magi favor classical aphorisms, particularly from Xenophon. A quote from King Lycurgus of Sparta serves a moral touchstone: "Obedience is of the highest benefit."
 
@@ -4219,7 +4219,7 @@ Young magi trained in the other Tribunals usually spend at least a few years in 
 
 ### Political Priorities
 
-### **BLOCK VOTING**
+### BLOCK VOTING
 
 Tremere magi vote in blocks at Tribunal meetings. This allows their leaders to negotiate with other politically powerful magi from a position of strength. It also allows them to coordinate their position in criminal trials. The free proxy of votes to the House's Tribune, their speaker at Tribunal, sidesteps the rulings that prevent magi buying and selling votes on criminal matters.
 
@@ -4229,19 +4229,19 @@ The main tactics that Tremere magi use to reform the Peripheral Code are:
 - Requesting that rulings be reviewed, when circumstances have changed. The Tremere, for example, question the assumption, found in older rulings, that the property of all magi in a covenant is held communally by the covenant. They question what a legitimate dispute, settled by certamen, is.
 - Defining terms in a favorable way. An example occurred when the House argued that giving sanctuary to a faerie prince involved in a civil war, even if it did lead to his rivals to attacking another covenant, was interference, certainly, but not molestation.
 
-### **TRANSITIONALISM**
+### TRANSITIONALISM
 
 House Tremere advocates changes to the Code that would permit Tribunals to compel magi to assist the Order. Contributions to research covenants, embassies to foreign magical groups and expeditions to distant lands are currently voluntary. Miserly covenants often refuse to assist, knowing that House Bonisagus will share any useful information with them. House Tremere favors a common purse to pay for these things. They also believe that the Order should be able to compel material assistance from every covenant during war.
 
-#### **SECULARIZATION OF PUBLIC LIFE**
+#### SECULARIZATION OF PUBLIC LIFE
 
 With the possible exception of the Divine, the Tremere believe that gods are swindlers who deserve no role in the deliberations of magi. This is not a major point in the Order during the Thirteenth Century. Many Tremere magi refuse to swear oaths to Hermes, which offends some of their sodales.
 
-### **BORDER AWARENESS**
+### BORDER AWARENESS
 
 House Tremere is interested in the abilities of the mystical groups beyond the Order's influence. These groups could be a source of useful ideas, or might threaten the Order, so assessing their abilities is prudent. House Tremere currently focuses on the abilities of Islamic wizards.
 
-#### **STORING UP MATERIEL**
+#### STORING UP MATERIEL
 
 Tremere magi constantly seek to strengthen and enrich the House. The House claims many vis sites and sources of mundane wealth, and spares a portion of all
 
@@ -4254,7 +4254,7 @@ Hospitality is the gift of somewhere safe to rest, goods required for a journey 
 
 that it collects, against future strife. Tremere magi avoid wasting the House's resources, which makes their lives less luxurious than those of their sodales. Tremere magi use the treasures of the House, during peacetime, to fund projects that bring in greater wealth, or that make minor conflicts less likely.
 
-#### **CONTACTS WITH OUTSIDERS**
+#### CONTACTS WITH OUTSIDERS
 
 House Tremere interacts frequently with the groups protected from harm by the Code. The Tremere would prefer an open détente with the faeries, church and nobility of Europe, explaining the Order's aims, their prohibitions against molestation, and the services which magi are permitted to provide in exchange for land or other favors.
 
@@ -4268,7 +4268,7 @@ The Primus, theoretically, governs with the counsel of all magi who possess thei
 
 In exchange for their subordination, all members of the House expect aid. The degree of aid varies, depending on how senior the magus is, whether their project is personal or for the House, and how wealthy the House is in their area. Aid often takes the form of loans of vis, money, books or magic items.
 
-#### **THE ROLE OF YOUNG MAGI**
+#### THE ROLE OF YOUNG MAGI
 
 It seems strange to young magi from other Houses that Tremere magi voluntarily give so much of their time to the schemes of their superiors. Young Tremere magi understand that the House's cohesiveness is their greatest source of strength. They serve their elders, and, in turn, their elders nurture them. Tremere magi learn how to acquire and wield power by aiding those who have and do.
 
@@ -4308,7 +4308,7 @@ Assume a young magus may have one form of aid at a time and that it takes a comp
 
 The House cannot provide every item on this list at demand. Its ships and horses, for example, provide logistical support in times of crisis, so they center their peacetime activities on the House covenants that act as mustering points. Distant Tremere magi may find it difficult to access them. The House's supply of magic items is not limitless and new items are not created for young magi. Senior members of the House have preferential call on its logistical reserves.
 
-### **THE ROLE OF SKILLED MAGI**
+### THE ROLE OF SKILLED MAGI
 
 A magus who has served the House well for a period of years, and come to the attention of the experienced magi, is trusted with tasks of greater importance and risk. These magi are respected members of their covenants and have significant influence, in their surrounding area, with lesser noblemen and the leaders of small church establishments. They spend more time in the service of the House than the youngest magi, but their masters try to balance the demand that they serve the House now with their need to serve it better in future.
 
@@ -4340,7 +4340,7 @@ A magus at this level of skill can have two types of support from the list above
 
 more support than this, particularly the assistance of young magi.
 
-#### **THE ROLE OF EXPERIENCED MAGI**
+#### THE ROLE OF EXPERIENCED MAGI
 
 An experienced magus is one trusted to act, with little supervision, in the interests of the House. If he lives outside the House covenants, he is likely to be the House's representative in a broad geographical area. He deals with problems as they emerge, and although he works within the House's strategy, he enjoys great freedom concerning his methods of completing tasks. An experienced magus is one who has come into his power, and is expected to lead members of the House less powerful than he.
 
@@ -4391,7 +4391,7 @@ task. This can include the assistance of magi specialized in dealing with partic
 
 A magus of this level does not need to pay back the money or vis he spends, but does need to show a consistent pattern of success that justifies his expenditures. A magus who uses a slot to acquire a gift from the House can regain the slot by returning items of equal worth, or by waiting until his superiors deem him to have served off the gift.
 
-### **THE ROLE OF THE EXARCHS**
+### THE ROLE OF THE EXARCHS
 
 The exarchs are senior Tremere placed in command of the House's operations in one or more Tribunals. There are currently six exarchs. One supervises each of the Rhine and Roman Tribunals. Another oversees the Theban and Levant tribunals, although in time the Levant may become a unique exarchate, as its exarch has granted the tribune broad powers beyond his role as advocate. Provencal and Iberia share an exarch. The exarchate based in Stonehenge Tribunal controls the three British Tribunals and Normandy. Transylvania, Novgorod and the Greater Alps comprise the final exarchate. This exarch's role includes traveling as a spokeswoman for the Prima, since her exarchate includes tribunals where the House is either ubiquitously powerful or all but absent.
 
@@ -4433,7 +4433,7 @@ The battle banner of each exarch is an enchanted, wolfish dragonhead, carried on
 
 Some vexillations never disband, because they have tasks that they cannot finish. These vexillations encourage young Tremere magi to become worthy inheritors of the task. There are many continuing vexillations, and many invite members from outside the House.
 
-#### **ABYSSAL BEARER VEXILLATION**
+#### ABYSSAL BEARER VEXILLATION
 
 *Task: To ensure no Tremere magus is left unburied. Beyond the emotional appeal of doing the correct thing for deceased relatives, the House does not want ghosts of its magi to fall into enemy hands.*
 
@@ -4441,7 +4441,7 @@ Members of this vexillation have the ultimate responsibility for ensuring the sa
 
 Leader: Since the First Primus, Albanus, was one of Tremere's coffin-bearers and was his oldest student, the leader of this vexillation is the descendant, eldest by eldest, from the Founder. She is a young maga in a spring covenant, who finds her responsibilities arduous.
 
-#### **BURNING ACORN VEXILLATION**
+#### BURNING ACORN VEXILLATION
 
 *Task: To discover the whereabouts of the leaders of House Diedne. Arguably, this is the least successful of the continuing vexillations, but they don't let that worry them.*
 
@@ -4451,7 +4451,7 @@ This vexillation has developed a breed of partiallyfae horse that does not react
 
 This vexillation is currently governed by Umno, the previous Primus of the House, which grants it prestige.
 
-### **COLD IRON VEXILLATION**
+### COLD IRON VEXILLATION
 
 *Task: To settle disputes with faeries to the advantage of the House.*
 
@@ -4459,7 +4459,7 @@ Each member of this vexillation has faerie blood, is a competent soldier, and a 
 
 This vexillation is always led by a masked figure called the Epicurean. Presumably the mask has changed wearers over time, but in Arcadia, the Epicurean is, in a very real sense, a continuing entity.
 
-#### **BROKEN MIRRORS VEXILLATION**
+#### BROKEN MIRRORS VEXILLATION
 
 *Task: To investigate suspicion of diabolism, treason against the House, or cowardice in battle.*
 
@@ -4467,7 +4467,7 @@ The Broken Mirror Vexillation was founded by Albanus, the First Primus, to ensur
 
 Leadership: This vexillation is usually controlled by whichever member of House Tremere has been accepted as a Quaesitor.
 
-#### **THE ROLE OF THE PRIMUS AND LEGATUS**
+#### THE ROLE OF THE PRIMUS AND LEGATUS
 
 The Primus rules the House from Coeris, a covenant in the Transylvanian Alps. The current Prima, Poena, has governed the House since her predecessor retired at the Deccenial held two years ago. Poena has channeled resources into a series of research projects, some of which require purpose-built facilities. Staff for these new covenants are drawn from across the House, but new Tremere magi, or those who rise suddenly in status, are likely to be ordered to assist a research covenant. Poena particularly favors research that reduces the battlefield advantages of the Islamic wizards of the Levant.
 
@@ -4557,13 +4557,13 @@ Tremere magi are trained to be useful to the House. Virtually every magus is com
 
 Magi of Tremere usually desire to be excellent duelists, which means they specialize in four arts. This is because the other party in a duel can veto their rival's first choice of form or technique. Tremere was skilled in Rego, particularly with Mentem, and his descendants commonly select these two Arts. Rego Mentem spells lack direct offensive power, so many Tremere magi choose secondary arts that aid magical violence. In the current House, Muto is slightly more popular than the other techniques, and Terram, Animal, Corpus and Imaginem are all popular forms.
 
-### **THE ART OF REGO**
+### THE ART OF REGO
 
 Rego specialists have to work with materials that are already present at casting, so they may lack the offensive power of Perdo or Creo specialists. Some develop a broad knowledge of the Forms and use spontaneous spells in precise, creative ways. Other Tremere magi carry objects that are affected by aggressive formulaic spells. Others develop their understanding of the forms of Terram or Herbam, on the basis that wood and stone are ubiquitous.
 
 In Wizard's War members of House Tremere gain two advantages from their preference for the art of Rego. Their warding spells are excellent, which allows them to create secure spaces to recuperate, store supplies, and muster forces. Many can use Leap of Homecoming and, in moments of desperation, the far riskier Seven League Stride. This allows members of the House to retreat or deploy with extraordinary speed, while maintaining the cohesion of their combat units. Each of these advantages permits the Tremere magi to remain soldiers, fighting together under doctrine, instead of a force of scattered warriors.
 
-#### **THE ART OF MENTEM**
+#### THE ART OF MENTEM
 
 Tremere magi are skilled at exploiting necromancy to acquire information about their enemies. They question the dead, but also use them as spies and scouts. In limited circumstances, ghosts are effective magical infantry.
 
@@ -4584,7 +4584,7 @@ Young magi are also encouraged to find remains, which summon ghosts away from th
 
 Tremere magi have noted that there are many types of ghost. The commonest, those linked to the magical realm, are tied to the world either by unfinished business, or by a burden of sin. Many ghosts in Transylvania can construct permanent, solid forms. These are indistinguishable from the dark faeries of Western Europe. Why certain ways of dying create faeries, while others create ghosts, is not clear to Tremere magi. They are interested in sponsoring research into the question. Tremere magi are forbidden to summon the ghosts of the damned, because it breaches the Code. Many Tremere consider saints to be particularly powerful ghosts, but summoning saints does not work.
 
-### **LEGIONARY**
+### LEGIONARY
 
 This ghost is typical of the fallen legionaries summoned in Western Europe. Many vanish after their first victory in combat, but a small portion feel they have a duty to defend Rome, and undertake moonlit pilgrimages to the Eternal City, dissolving into the Dominion at their quest's end.
 
@@ -4631,7 +4631,7 @@ This ghost is typical of the fallen legionaries summoned in Western Europe. Many
 
 **Appearance:** Varies: usually a fit young man clad in ancient armor, but occasionally, a skeletal or decaying corpse clad in rusted armor and tattered clothing.
 
-#### **CATAPHRACT**
+#### CATAPHRACT
 
 Cataphracts are the mounted warriors of the Eastern Empire. They are found in the West in a handful of places, left behind after Justinian's imperial adventure in the Sixth Century. Cataphracts found in the West are particularly useful to the House. Their unfinished business is often the rebuilding of the Empire: a task that the Tremere do not oppose. The House recruits ghostly cataphracts where it can, and directs the remainder over the border into the Theban Tribunal, where they harass the Latin invaders. The statistics here are for a young cataphract, with basic training but little combat experience.
 
@@ -4676,7 +4676,7 @@ Cataphracts are the mounted warriors of the Eastern Empire. They are found in th
 
 **Vis:** 2 pawns Mentem, engagement ring or keepsake. **Appearance:** An impressive warrior, obscured by his armor. Sometimes the armor contains an ethereal skeleton. Sometimes it is empty.
 
-#### **WILI**
+#### WILI
 
 These dark faeries are the ghosts of maidens who died on their wedding day. They are often found in graveyards, singly or in groups, where they attempt to convince young men to kiss them. A pack of wili can drain the life breath from a young man in a few minutes. The House uses wili as assassins. Most wili want to be reunited with their betrothed, but this is usually impossible. Destroying their lover dispels some. Most can be exorcised.
 
@@ -4719,7 +4719,7 @@ When a man kisses a wili, his mind becomes clouded. He knows the wili is a ghost
 
 **Vis:** 2 pawns Mentem, engagement ring or keepsake. **Appearance:** A beautiful, if sad, girl in a flowing white dress, mourning at a fresh grave site.
 
-#### **MORO**
+#### MORO
 
 Moro are vampires created when parents murder their children by exposure. They can take the shape of butterflies, and drink blood, but the loss is negligible. They can drain life itself, a power to which children are particularly vulnerable. Most moro want revenge on their parents, which the Tremere think it only just to give them.
 
@@ -4764,7 +4764,7 @@ Incapacitated (14-17)
 
 or a death's head moth.
 
-### **ANIMALS**
+### ANIMALS
 
 The Founder Tremere was interested in Animal magic because he was unable to precisely control animals with his political skills, or the muscles of his followers. Tremere magi use mundane animals to extend their senses, carry supplies, collect arcane connections and perform sabotage. The House's Doctrine prefers small, swift carnivores. The House used raptors and wolves extensively during the Schism, and prefers dogs and rats in cities.
 
@@ -4775,7 +4775,7 @@ House Tremere lacks a detailed doctrine for magical mounts. It's not possible to
 
 Tremere magi often trap and study the magical animals they encounter, adding them to the House's resources. If a covenant has a population of interesting animals, perhaps as a vis source, a young Tremere magus may be sent to determine their usefulness. If they prove valuable, the magus will want to procure live samples for his superiors. The House might also secure breeding pairs, to start new colonies of the animals at a House Covenant.
 
-### **COMMON WHITE WOLVES**
+### COMMON WHITE WOLVES
 
 There are several types of magical wolf that serve the House in its packs but this type, descended from Tremere's familiar, are the most common.
 
@@ -4831,7 +4831,7 @@ looks amused.
 
 White wolves are far larger than normal wolves, and are extremely intelligent. Over the centuries, their human allies have assisted the wolves to modify their pack lands. These reserves about the Tremere House covenants are more confusing than natural forest, and often contain game runs, pits, and enchanted items that the wolves can activate.
 
-### **SHADOW OWLS AND FIRE HAWKS**
+### SHADOW OWLS AND FIRE HAWKS
 
 Shadow Owls and Fire Hawks are small raptors, sharing many mechanical attributes.
 
@@ -4869,7 +4869,7 @@ Incapacitated (10-15)
 
 *Straight chase,* 1 point, Animal: After this power is activated, a shadow owl can fly through solid objects, for the next few minutes, as if it was a ghost. Shadow owls cannot strike through objects, like armor, because they need to be solid to harm their target. Owls pursue game through forests using this power. The House uses these owls to collect arcane connections, as they can carry game, or small items, in ghostly form.
 
-#### **Fire kite powers:**
+#### Fire kite powers:
 
 *Kindle,* 1 point, +5 Init. Ignem: Fire kites can ignite flammable objects by touch. They light small brushfires to flush, and sometimes cook, insects. They usually grasp a stick or clump of grass, ignite it, and then drop it while swooping over a target area. A kite using the Kindle power that strikes a foe does +9 damage (including the talon damage given above). The House uses these animals as saboteurs.
 
@@ -4881,7 +4881,7 @@ The House has found uses for a variety of small raptors. Shadow owls are useful 
 
 The most popular large raptor in House Tremere is the griffin vulture, found along the Adriatic coast. These creatures, which follow griffins and feed on their scraps, can see tremendous distances and are magically sensitive. Their cooperative hunting pattern, searching for dead lambs by scouring the countryside in a comb formation, makes them perfect intelligence gatherers.
 
-#### **ETHEREAL FISHERMAN SPIDERS**
+#### ETHEREAL FISHERMAN SPIDERS
 
 Ethereal fishermen are social spiders: arachnids that work communally to construct traps. They consume the spirits of their victims, which are generally insects. To breed the ethereal fishermen need to take on additional mass, and then distribute their eggs. They do this by trapping persistent spirits, preferably human ghosts.
 
@@ -4929,7 +4929,7 @@ Members of House Tremere value Abilities that allow them to serve in times of cr
 
 Tremere magi expect to carry their own gear, so they prefer small magical items, crafted out of expensive materials. Many members of the House believe that Tremere invented the wand as a more manageable version of the staff. Tremere magi like rings, for their portability and because they can be comfortably worn while sleeping. Pouches that allow a magus to carry a campaign's worth of food on his belt and flasks that draw water from nearby clouds are popular. Sacks that reduce the bulkiness of bedding and camping gear are valuable.
 
-### **MATERIALS**
+### MATERIALS
 
 Minor magical items from the Transylvanian covenants are often amber, rhodocrosite or opal. Major magic items are comprised of the full range of materials found in other Hermetic manufactures, but lesser items favor these cheaper alternatives. Amber and rhodocrosite are semiprecious gems for enchantment cost calculation; opal is precious.
 
@@ -4947,11 +4947,11 @@ Younger magi are often the most convenient members of the House to assign to pro
 
 There are many roles, common in other Houses, that Tremere magi rarely perform. Tremere magi cannot have magical focuses other than certamen, so they hire magi from other Houses to provide specialized services. Major spell research is sponsored with the aid of Magi from House Bonisagus. The House contracts Verditus magi to construct many of its magic items, providing them with lodgings in the Covenant of Lycaneon, which maintains the House's amber supplies.
 
-#### **ARCHITECTS**
+#### ARCHITECTS
 
 Initially the House's combat engineers, these Terram specialists now have a primarily economic role. The House's architects supervise House Tremere's fortifications, tunnels and mines. They also, surreptitiously, maintain roads and bridges in Transylvania, and are the source of several bridges said to have been built overnight by the Devil.
 
-#### **ARTIFICERS**
+#### ARTIFICERS
 
 Artificers manufacture the ritual objects of the House, both magical and mundane. If a new dragon banner is required, it is fitting a Tremere magus make it. Artificers make the reliquaries of other Tremere magi. If the table around which the Council meets needs repair, an artificer performs it. Artificers also dye the cloaks, and often craft the sigils, of Tremere magi. Artificers create the magic items that the House does not want discussed with outsiders.
 
@@ -4959,21 +4959,21 @@ Artificers do not have techniques that are novel: they are less skilled than Ver
 
 
 
-#### **ASSESSOR**
+#### ASSESSOR
 
 Assessors have a variety of urban roles: diplomat, merchant or spy. The cadre of Assessors maintains a series of identities that a member can wear using suitable illusions. All have the Gentle Gift. Assessors are, in part, the source of the folktale in Transylvania about vampires who work as merchants, traveling between cities, returning after years under the pretense that they are their own sons.
 
-### **DISPUTANTS**
+### DISPUTANTS
 
 Disputants specialize in Certamen. They are less common than magi of other Houses expect. The House trains a few, who act as its representatives in vital matters, but prefers that most of its magi focus on other tasks. Disputants, as a group, also have an unfortunate reputation for egomania.
 
 Some disputants claim that with sufficient mastery of certamen, they learn to mimic the magical focus of the Founder Tremere. They believe Tremere, hounded through his apprenticeship by his parens and brother, was skilled at defensive fast-casting when assailed with magic.
 
-#### **MASTER OF AUXILIARIES**
+#### MASTER OF AUXILIARIES
 
 A handful of Tremere magi train to lead mundane soldiers, whom the House calls auxiliaries. Magi in this role master small, incapacitating spells which they multicast. When masses of mundanes are intermingled, single strike spells make little difference and killing your own troops is with area-effect spells is gauche, if sometimes necessary. Over the course of a battle, small multicasts allow aimed fire at masses of troops. Spells that create and then control animals are fashionable in this role, as the animals persist after they strike, and are intelligent enough to seek fresh targets.
 
-### **NAUARCHOS**
+### NAUARCHOS
 
 House Tremere maintains a fleet of ships, which is particularly active in the Adriatic and Black Seas. The fleet is a method of transporting materiel in times of crisis, so most of its ships are cargo vessels. The fleet engages in commerce during peace. The fleet's warships guard the cargo vessels, and dissuade piracy. They aren't dependable platforms for magical combat.
 
@@ -4988,7 +4988,7 @@ Magi seek mounts for the new force. Companions, who are easier to replace if rip
 
 small fleet actions or arranged shore bombardments, and doctrine on the use of ships may emerge if the House's influence in the Eastern Mediterranean improves.
 
-### **PHYSICIANS**
+### PHYSICIANS
 
 Members of this branch of the House are skilled healers and crafters of longevity potions. They specialize in medical spells that do not require vis but are still superior to mundane medicine; examples include anesthesia, bone setting and arrow extraction. Tremere magi trust the skill and loyalty of their physicians but, since they are usually corporeal necromancers, find their sigils, reputations and experiments disturbing. These unsettling figures assess
 
@@ -4997,11 +4997,11 @@ potential Tremere apprentices before their mystical potential is tested.
 
 Most Tremere magi feel that corporeal necromancers suffer unusually poor luck, and wonder if the work of Guorna is cursed. They are more likely to slip into diabolism than other members of the House, and are watched carefully by their superiors and the Quaesitores.
 
-### **SCOUTS**
+### SCOUTS
 
 These magi, descended from the Schism scouts, are trained to move through potentially hostile territory, collect information, and return home. They are used, during peace, to assess situations where only fragmentary information is available. For example, if the House was seeking a missing redcap they would, initially, send a scout. Scouts are also the house's explorers. Some scouts track and capture magical animals.
 
-### **SIGNALERS**
+### SIGNALERS
 
 These magi are descended from a small corps of tricksters who, during the Schism, fed false information to House Diedne's human supporters, created bogus targets, hid Tremere scouts, and confused enemy signals. In the modern house, the signalers are the magicians who speed communication, although most dabble in the tricks of their illusionist ancestors. Of all branches of the House, Signalers seem to be most cheerful.
 
@@ -5009,7 +5009,7 @@ These magi are descended from a small corps of tricksters who, during the Schism
 
 A character encountering another duelist may roll on the following table to determine information about their potential foe:
 
-#### **die + Reputation**
+#### die + Reputation
 
 - 3 Scandalous breaches of etiquette
 - 6 School
@@ -5017,7 +5017,7 @@ A character encountering another duelist may roll on the following table to dete
 - 12 Favored victory spells
 - 15 Famous victories
 
-#### **Modifiers:**
+#### Modifiers:
 
 Members of the same school +1
 
@@ -5057,7 +5057,7 @@ At the start of each certamen, each combatant chooses if they are going to duel 
 
 Magi are raised in their masters' schools. Magi not trained in certamen during apprenticeship become a member of a school by studying with a skilled member of the school for a season. Most schools are vague groups of magi who duel in a similar way, but some schools, at the troupe's discretion, have political hierarchies.
 
-### **GLADIATOR**
+### GLADIATOR
 
 The School of the Swordsman is the style of the Founder Tremere, reflected in the basic rules. It is a balanced, simple style, for which many teachers are available. Rumors persist that there are a series of secret techniques for this school, allowing dedicated Followers to can spend vis to greater effect than other magi. The Tremere treat these rumors as an attack on their integrity — if other magi lost faith in the certamen system, it would disadvantage the House. The shared illusions of the
 
@@ -5066,29 +5066,29 @@ The School of the Swordsman is the style of the Founder Tremere, reflected in th
 
 School of the Swordsman tend to be humaniform and are heavily influenced by the sigil of the magus.
 
-#### **ANDABATUS**
+#### ANDABATUS
 
 Followers of Blind Fighting school use savage, chaotic attacks to finish duels quickly, while accepting strikes to themselves. The andabatus adds a bonus to his Attack Total of up to twice his Finesse score, but also accepts an equal penalty to his Defense Total. Fighting in the style of the andabata allows a magus to accept a bonus to their Attack Total up to their Finesse score, but the penalty is twice the bonus. The shared illusion of the certamen churns and loses focus when an andabatus fights, because their technique is instinctual, imprecise and assumes the opponent will strike them.
 
-#### **BESTIARIUS**
+#### BESTIARIUS
 
 Employed only by members of House Bjornaer, the techniques of the School of Beasts allows them to use their Heartbeast score instead of their Finesse score during duels in the Muto form, or involving their own bodies. In Muto Corpus or Muto Animal duels, they can add twice their Heartbeast score to their Resistance Total. Bjornaers who dabble in the Bestiarus technique add their Heartbeast score to their Resistance.
 
-#### **BONE-BITING**
+#### BONE-BITING
 
 This technique is based on the magical practices of certain Irish bards, and was brought to the Order by magi of House Diedne. It allows a magus to injure himself to resist fatigue, or increase the strength of his next attack. The dedicated followers of this technique died in the Schism. Those fighting in this style cause themselves a Body level of damage, and either ignore the loss of the next two fatigue levels, or add ten points to their next Attack Total. Traditionally the magus bites through the tip of the left thumb, to the bone.
 
 In 1220, the few magi who practice this technique bite their tongues instead. Accidental tongue biting occasionally occurs during certamen, so this does not look like an overtly druidical practice. It is very difficult for these magi to surreptitiously do more than one Body level of damage to themselves, because it is reflected in the shared illusion, with elements of blood and fire.
 
-### **CHARON**
+### CHARON
 
 A trick, rather than a school, named for the Ferryman on the River Styx, a magus fighting in the style of Charon may cast two spells on an opponent at the end of certamen. They do this by casting a spell silently and without gestures during an earlier round of the certamen (Intelligence + Concentration of 15+), then maintaining it until the round they believe will be the final one, declared before the Attack Roll (Intelligence + Concentration of 12+ each round). If they are correct, this spell travels along the arcane connection provided by the certamen duel, along with whatever spell they cast in the round after the certamen is complete. Using this trick is likely a breach of the Peripheral Code, but it has only appeared recently, and so no Tribunal has considered it. Rumors suggest that there is a School of Charon whose members can cast many spells on those they defeat in certamen.
 
-#### **ESSEDARIUS**
+#### ESSEDARIUS
 
 The Charioteer techniques are flashy and intimidating. They subdue foes psychologically. After a successful attack, the essedarius may choose to do no damage and instead create the impression of a powerful and dreadful attack that failed, but by the barest chance. The intention is to frighten the foe into surrender, which may occur if they fail a Brave check of 3 + 2 per Fatigue level the essedarius has declined to take during this certamen. Magi fighting in this style can force a similar Brave check, but the target is 3 + 2 per fatigue level forgone in this round of combat.
 
-#### **GLADIATRIX**
+#### GLADIATRIX
 
 The School of the Swordswoman uses a chessboard as a setting for the duel. The phantoms rise from the squares of the board and slaughter each other. The pieces do not always correspond to those of either mundane or Tremere chess. The matches are spectacular to watch, and give insights into the mental iconography of each player.
 
@@ -5113,36 +5113,36 @@ Those fighting in the style of the Gladiatrix can create the visual effect of ba
 
 Some members of this school believe that they can develop a complicated form of team certamen, in which a magus plays each piece. They have yet to demonstrate this technique at Decennial. It is possible to play chess with Folk Dancers as pieces. The Dance of the White and Red Kings, where two sides fight for the heart of a princess, translates easily to the ritual, with the average score of the dancers on side acting as if it were a Vis bonus during each round.
 
-### **HOPLOMACHUS**
+### HOPLOMACHUS
 
 This style, named for warriors armored in impersonation of the Greek hoplites, sacrifices many advantages for increased defensiveness. A hoplomachus cannot win initiative contests except against another hoplomachus. Each round the hoplomachus reduces their Attack Total by up to their Finesse score, then increases their Defense Total by up to twice that penalty. In a round where the hoplomachus declines to attack at all, their Defense total gains a bonus of three times their Finesse score. Other magi fighting in the style of the hoplomachus, may decline to attack during a round, and gain a bonus to their Defense Total equal to twice their Finesse score. The half of the shared illusion controlled by the hoplomachus tends be slow, but annoyingly persistent, and resistant to damage.
 
-#### **LAQUERIUS**
+#### LAQUERIUS
 
 Magi of the School of the Noose gradually bind the ritual working of their opponent, making it inert and ineffective. In any round the laquerius can take a Defense Total penalty equal to or less than their Finesse score. If they land a blow that round, they may choose to inflict no damage and instead reduce their opponent's Defense total for the rest of the duel by the Defense Penalty. This penalty is visible in the shared illusion as a tether marked by the sigil of the laquerius. Magi fighting in the style of the laquetores inflict Defense penalties in the same way, but the penalty lasts only a single round.
 
 
 
 
-#### **PROVOCATOR**
+#### PROVOCATOR
 
 Members of the School of Challengers sacrifice fleetness for protection. A provocator may accept a penalty on their Initiative Total that is equal or less than their Finesse score, but in all future rounds their Resistance Total attracts a bonus equal to the penalty. Many provocators develop strong Parma Magicae and do not attempt to win Initiative contests. Others may only fight effectively in the style of the provocator if they have initiative in the duel. They lose the initiative in the following round, but their Resistance Total rises by their Finesse score. In the round that follows, they regain the initiative. The shared illusions contributed by provocators tend to be annoying — but that may reflect the personalities of the members of this school, which is a little more social and organized than the others. They delight in dodging blows by a whisker and flippant duel conversation.
 
-### **PUMILIUS**
+### PUMILIUS
 
 Use of the techniques of the School of the (Amusing) Dwarfs is considered offensive by some Tremere magi. This style has been active for over two centuries, however, and many Tremere magi believe that, in some more dignified way, its core movement is acceptable in polite society. The provocatores find it humorous, for example.
 
 The Pumilius declines to do damage after a successful attack, and instead projects a humorous image into the shared illusion. If their opponent fails an Intelligence + Concentration roll (target 12+ modified by personality traits) they are so amused that they lose the chance to either attack or defend in the next round. The amused magus chooses which opportunity is lost. The target of the Concentration roll can be made up to 3 points higher if the disciple of the School of Pumilius researches an enemy to discover what they find funny. The contribution by the members of the Pumilius school to the shared illusion usually demonstrates their lack of concern for the outcome of the duel. Magi fighting in this style can project an image into the illusion as well, but it is less vibrant and active, so it is less distracting. The roll is 9+, modified by personality traits.
 
-#### **RETIARIUS**
+#### RETIARIUS
 
 The retiarius attempts to strike swiftly, and evade damage. Dedicated practitioners of the School of the Fisherman may add a bonus of equal to or less than their Finesse score to their Initiative roll. They must subtract twice that number of points from their Attack Advantage in the next three rounds. A reitarius who does not have the initiative can claim it by landing a blow and declining to do damage. A magus fighting in the style of the retiarii may force a fresh initiative roll by landing a blow and declining to do damage. The illusory presences of retarii are swift, flickering things that dance away from blows, and return with feathery attacks that wear the opponent down over several rounds.
 
-#### **SAGGITARIUS**
+#### SAGGITARIUS
 
 Many Tremere magi do not accept the saggitarius technique as legitimate. It probably lacks dedicated followers. A Merinita magus who desired to humiliate a rival from House Tremere introduced it to the Order. When using the saggitarius technique, the magus may add up to triple their Finesse to their Attack Total, subtracting the same amount from their Defense total. Regardless of the outcome of their rolls, they can never do more than one Fatigue level of damage. It creates a tiny attack based on the duelist's sigil that is extremely effective for winning duels to the first blow — but very little else. Many Tremere magi refuse to use the Technique of the Archer, and challenge its legitimacy in legal contexts.
 
-#### **SCISSOR**
+#### SCISSOR
 
 The School of Carvers uses cripplingly deep attacks. The scissor may choose not to attack in a round, then, in the following round, they attack as normal, but if successful they use the following damage formula:
 
@@ -5150,7 +5150,7 @@ The School of Carvers uses cripplingly deep attacks. The scissor may choose not 
 
 A magus fighting in the style of the scissores skips an attack, and then if their next attack is successful, they use the formula above, dividing instead by 4.
 
-### **VELITUS**
+### VELITUS
 
 The Style of the Spear is based on wearing down an enemy's magical resistance during the early rounds of the combat. A velitus who lands a blow and declines to do damage reduces their foe's Resistance total by one half of the velitus's Finesse score, rounded down. A velitus can damage a foe's ritual working so badly that it acts as a channel for hostile magic — their Resistance Total can become negative. A magus fighting in the velitus style may decline to do damage and instead reduce their opponent's resistance by Finesse divided by 3, rounded down, to a minimum Resistance of zero. The effect of a success-
 
@@ -5160,7 +5160,7 @@ ful spear attack on the shared illusion varies with the sigil of the duelist and
 
 ## New Spells
 
-### **CREO ANIMAL SPELLS**
+### CREO ANIMAL SPELLS
 
 **VENOMOUS VELITES**
 
@@ -5172,7 +5172,7 @@ Creates a swarm of a hundred poisonous scorpions. The Rego requisite allows the 
 
 (Base 5, +3 Sight, +2 Sun, +1 Group, +1 extra effect from requisite.)
 
-#### **INTELLEGO ANIMAL SPELLS**
+#### INTELLEGO ANIMAL SPELLS
 
 **TO SEE AS OTHERS SEE**
 
@@ -5184,7 +5184,7 @@ This spell allows a magus to read the thoughts of an animal, and give it directi
 
 (Base 5, +4 Arcane Connection, +2 Sun, +1 Group, +1 extra effect from requisite.)
 
-#### **REGO ANIMAL**
+#### REGO ANIMAL
 
 **THE UNFAITHFUL FAVOR**
 
@@ -5202,7 +5202,7 @@ This spell commands a silk handkerchief to strangle an enemy for whom the magus 
 
 (Base 1, +4 Arcane, +2 Sun, +1 Commands in addition to transport)
 
-### **REGO AQUAM SPELLS**
+### REGO AQUAM SPELLS
 
 **EXACTLY TO SCALE**
 
@@ -5216,7 +5216,7 @@ The magus requires an Intelligence + Finesse roll of 9+ for the diagram to be le
 
 (Base 3, +1 Touch, +2 for highly unnatural control)
 
-#### **CREO IMAGINEM SPELLS**
+#### CREO IMAGINEM SPELLS
 
 **TO MARK WITH UMBRAGE**
 
@@ -5235,7 +5235,7 @@ This version of the spell is able to mark up to a thousand individuals, in group
 
 (Base 1, Range +4, Duration +2, Group +3, Size+2)
 
-#### **MUTO MENTEM SPELLS**
+#### MUTO MENTEM SPELLS
 
 **FALSE PROPHECY**
 
@@ -5273,7 +5273,7 @@ This spell makes the metal accouterments for an army of ghosts, up to 10,000 str
 
 (Base 25, +1 Touch, +3 Moon, +2 Group, +3 size)
 
-### **REGO MENTEM SPELLS**
+### REGO MENTEM SPELLS
 
 **VOICES FROM HOLLOW SPACES**
 
@@ -5298,7 +5298,7 @@ This spell allows the magus to give the ghost complex, unbreakable instructions,
 
 (Base effect: 20, +1 Eye, +3 Moon)
 
-#### **CALL THE FALLEN EAGLES FROM THE MIST**
+#### CALL THE FALLEN EAGLES FROM THE MIST
 
 **R:** Touch, **D:** Moon, **T:** Group, **Level 65,** Ritual
 
@@ -5306,9 +5306,9 @@ A spell used on ancient battlefields to call up the pagan dead. This spell grant
 
 (Base 15, +1 Touch, +3 Moon, +2 Group, +3 size: up to 10,000 ghosts, + 1 summon and control)
 
-### **CREO TERRAM SPELLS**
+### CREO TERRAM SPELLS
 
-#### **A SIMPLE METHOD FOR RAPID VALLATION**
+#### A SIMPLE METHOD FOR RAPID VALLATION
 
 **R:** Voice, **D:** Sun, **T:** Ind, **Level 35**
 
@@ -5318,9 +5318,9 @@ This spell makes a wall of granite up to 500 paces wide, 5 paces high, and 1 pac
 
 (Base 3, +2 Voice, +2 Sun, +4 size)
 
-#### **INTELLEGO TERRAM SPELLS**
+#### INTELLEGO TERRAM SPELLS
 
-#### **LOVE'S UNFAITHFUL WITNESS**
+#### LOVE'S UNFAITHFUL WITNESS
 
 **R:** Touch, **D:** Conc, **T:** Ind, **Level** 35
 
@@ -5328,9 +5328,9 @@ This spell is used to question jewelry about its wearer's activities. The sympat
 
 (Base 25, +1 Touch, +1 Conc)
 
-### **MUTO TERRAM SPELLS**
+### MUTO TERRAM SPELLS
 
-#### **A WINDOW OF SINGULAR DIRECTION**
+#### A WINDOW OF SINGULAR DIRECTION
 
 **R:** Touch, **D:** Ring, **T:** Ind, **Level 10**
 
@@ -5340,7 +5340,7 @@ This spell, created by the Architects of Tremere, makes a circle of wall transpa
 
 ### New Virtues
 
-### **DHAMPIR**
+### DHAMPIR
 
 *Major, Supernatural*
 
@@ -5367,7 +5367,7 @@ A troupe of a dozen or more folk dancers, who all make Dexterity + Carouse rolls
 
 If creating a folk dancer, negotiate three dances with the rest of the Troupe.
 
-### **SAMOVILY BLOOD**
+### SAMOVILY BLOOD
 
 *Minor, Supernatural*
 
@@ -5390,7 +5390,7 @@ Characters with samovily blood gain the usual bonuses for Faerie Blood, and one 
 - +1 on all Presence rolls for characters that find young, blonde women attractive.
 - +2 on all activities undertaken underwater.
 
-### **MYTHIC BLOOD (ZMEY)**
+### MYTHIC BLOOD (ZMEY)
 
 *Major, Hermetic*
 
@@ -5404,7 +5404,7 @@ A human who eats the heart of a zmey gains many of its powers, including superna
 
 Descent from a zmey grants a Minor Magical Focus with Storms, and the Minor Personality Flaw tends to be one of Lecherous, Meddler, or Proud. The granted power may be invisibility (as *Veil of Invisibility* (ArM5 page 146), but with Personal Range and no Penetration, castable without words or gestures), the ability to fly on the wind (as *Wings of the Soaring Wind* (ArM5 page 126), requires words and gestures), or the ability to turn into a dog or bear (like *Shape of the Woodland Prowler* (ArM5 page 131), but with Personal Range, and requiring only a gesture).
 
-### **LEADWORKER**
+### LEADWORKER
 
 *Minor, Hermetic*
 
@@ -5412,7 +5412,7 @@ Leadworking is a skill descended from the style of necromancy practiced by the A
 
 Much of the original power of the tradition has been lost in the move to Hermetic magic, but two useful powers remain to the leadworkers. They may create arcane connections to the restless dead, and to those animals and spirits able to recognize their own names. They may also make *kolossoi* that contain fixed arcane connections, taken from the bodies of their victims, without spending vis or study time. Success in both activities is automatic.
 
-#### **Penetration bonus table additions:**
+#### Penetration bonus table additions:
 
 Katadesmos tablet, inscribed with the name of a victim (+2)
 
@@ -5420,7 +5420,7 @@ A Kolossos is a representation, like any other (+2)
 
 A Kolossos constructed with a sympathetic connection from the body of the victim imbedded in it (+3)
 
-#### **HARENARIUS**
+#### HARENARIUS
 
 *Minor, Hermetic*
 
@@ -5428,7 +5428,7 @@ A "Person of the Sand" is one of the very few magi able to master two Certamen S
 
 A Harenarius may choose to fight as a member of one of his schools at the commencement of certamen, or may choose to fight as a generalist, as other magi do. Harenarii begin with a Reputation 2, as a master duelist, with Tremere magi. They are more likely to be sought out by Magi seeking Certamen instructors than other Tremere magi. Harenarii pioneer the majority of new Certamen schools and tricks.
 
-#### **NYKTOPHYLAX**
+#### NYKTOPHYLAX
 
 *Minor, Hermetic*
 

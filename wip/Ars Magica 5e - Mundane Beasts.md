@@ -25,7 +25,7 @@ Exceptional beasts may also take individual Virtues or Flaws that set them apart
 
 Qualities are features of the animal that affect its capabilities. See Houses of Hermes: Mystery Cults (pages 40-43) for a list of Qualities and their effects.
 
-# **New Virtues** for Beasts
+# New Virtues for Beasts
 
 Ferocity (minor, beasts only): Like a magus or companion character, you have Confidence points. Unlike a human character, you may use your Confidence Points only in situations where your natural animal ferocity is triggered, such as when defending your den or fighting a natural enemy. Describe a situation that activates your Confidence score, and take three points for you to use when those circumstances are met.
 
@@ -64,7 +64,7 @@ Appearance, Slippery, Venomous **Personality Traits:** Hostile +2 **Reputations:
 
 **Abilities:** Awareness 2 (prey), Brawl 2 (fangs), Hunt 4 (rodents), Stealth 4 (stalking prey), Survival 3 (grassy areas)
 
-#### **Powers:**
+#### Powers:
 
  *Venomous Bite,* 0 Points, Init 0. When the adder attacks, compare its Attack Advantage to the victim's armor Protection (not his Soak). If the adder's advantage is higher, the victim suffers the effects of adder venom as listed in the Poison Table on p. 180 of ArM5, regardless of whether the bite inflicts an actual wound. The storyguide may adjust the required Attack Advantage for special circumstances: for instance, high boots might offer an effective Protection +3 against the adder's special attack even though they don't protect against normal attacks.
 

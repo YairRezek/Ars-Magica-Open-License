@@ -655,7 +655,7 @@ It was the Metropolitan's responsibility to circulate the doctrinal rulings issu
 
 The Metropolitan was, however, chosen by the Patriarch. The Russian bishops would gather in conclave and select three candidates from among the black clergy, whose names would be forwarded to the Patriarch for final selection. The Metropolitans and the majority of senior black clergy were almost always Greek rather than Russian.
 
-### **Metropolitans of the 13th Century**
+### Metropolitans of the 13th Century
 
 Nikifor II 1185-1208 Matfey 1209-1224 Kirill I 1224-1234
 
@@ -2411,7 +2411,7 @@ Dex +1, Qik +3 **Gender:** Most are female
 
 \* When in a blossoming field a Polevik regenerates damage at a rate of 1 Body level per round, possibly more at the height of the spring growing season.
 
-### **Powers**
+### Powers
 
 *Faerie Powers:* Bless 8, Control Element: Herbam 5, Control Fertility 16, Curse 8, Healing 4
 
@@ -2439,7 +2439,7 @@ Dex +1, Qik +2 **Gender:** Either
 
 \* A Vodyanoi recovers one Fatigue level and one Body level per round when in contact with its home water.
 
-### **Powers**
+### Powers
 
 *Faerie Powers:* Control Person 4, Control Element: Aquam 10, Curse 10, Fear 5, Glamour 5, Infatuation 5, Shapechange to Animal 5
 
@@ -2505,7 +2505,7 @@ Dvorovoi can appear as small gnarled men or women, often with striking disfigure
 
 \* A Rusalka is always attached to either a body of water or a small part of a wood (perhaps just a single tree), and recovers one Fatigue level and one Body level per round when in contact with its home.
 
-### **Powers**
+### Powers
 
 *Faerie Powers:* Control Element: Aquam or Herbam 7, Control Fertility 5, Curse 6, Fear 3, Infatuation 4
 
@@ -2720,7 +2720,7 @@ Soak: +9 **Fatigue:** +5
 
 \* Strukis recovers two Body and Fatigue levels per round when immersed in water
 
-### **Powers**
+### Powers
 
 *Faerie Powers:* Bless 10, Brew Faerie Potions 5, Change Size 6, Communication with Humans 10, Control Animals 6, Control Person 10, Control Element: Aquam 10, Curse 10, Enchant Objects 5, Glamour 10, Prophecy 10, Shapechange to Human 5
 
@@ -2952,7 +2952,7 @@ Dex –1, Qik –2 **Gender:** Either
 
 \* Any giant or ogre in contact with its natural terrain regains one Fatigue level and one Body level per round, even if slain.
 
-### **Powers**
+### Powers
 
 *Faerie Powers:* Communicate with Animals/Plants 6, Control Element: Terram 8, Fear 8, Shapechange to Object 6
 
@@ -3004,7 +3004,7 @@ The Infernal Might of a vampire, however, can rise and fall gradually, depending
 
 *The Iron Grasp,* MuCo 15, 2 points: Increases the strength of the vampire's grip (including its Strength, Strangle Attack, and Strangle Damage) by +3.
 
-### **Weaknesses**
+### Weaknesses
 
 *Natural Sunlight:* Any Vampire exposed to natural sunlight loses 3 Infernal Might points per round. When all Infernal Might points are lost it loses one Body level per round until it collapses into dust.
 
@@ -3947,7 +3947,7 @@ Concentration (Lab work) 4, Faerie Lore (Slavic) 4, Finesse (Vim) 3, Hermes Lore
 
 The last four spells listed in Malincka's statistic insert are the fruits of three decades of spell design effort. These are only the most recent versions of her relatively *successful* spells. Malincka usually experiments in her struggle to get away from Hermetic methods, and has had several spectacular failures.
 
-### **Charge the Magical Circle (CrVi 25)**
+### Charge the Magical Circle (CrVi 25)
 
 R: Touch , D: Sun, T: Circle, Ritual
 
@@ -3957,7 +3957,7 @@ The blend of techniques used in this spell has not been fully successful by any 
 
 Malincka has concluded that a successful aura-generating technique is of no use without proper control, which is apparently impossible unless mundanes are integrated into the spell.
 
-### **Air of Friendly Magic (MuVi 30)**
+### Air of Friendly Magic (MuVi 30)
 
 R: Per, D: Sun, T: Group/Room, Ritual
 
@@ -3967,7 +3967,7 @@ This spell uses a blend of Volkhv and Hermetic techniques to change small areas 
 
 As with *Charge the Magical Circle,* the Volkhv and Hermetic techniques did not mesh smoothly in this spell, and it is always cast with three extra botch dice. In addition, any spell cast within the converted aura has two extra botch dice. Furthermore, the spell does not achieve a very clean change. Though a magical aura does develop, so that any magus receives a full spellcasting bonus, the aura is faerie tainted. Many reliable spells display fay characteristics, and botches almost inevitably cause bizarre faerie manifestations.
 
-### **Read the Magic Sphere (InVi 35)**
+### Read the Magic Sphere (InVi 35)
 
 R: Per, D: Conc, T: Ind
 
@@ -3994,7 +3994,7 @@ Of all the Hermetic magi at Thousand
 
 source? (15+), Was there another aura here previously? (15+) How long ago? (18+) Of what kind? (18+), and Of what strength? (21+). At the storyguide's discretion exceptionally high perception rolls (24+) may reveal further information if any is available.
 
-### **Plumb the Magical Scent (InVi[Me] 20)**
+### Plumb the Magical Scent (InVi[Me] 20)
 
 R: Per, D: Mom, T: Group
 
@@ -4111,7 +4111,7 @@ Lelya is Rehamchi's daughter. As she was brought up among Hermetic magi her gras
 
 This is the latest version of Nastassia's personal heart-beast altering spell.
 
-### Echo of the Firebird **MuCo[AnAuIg]40)**
+### Echo of the Firebird MuCo[AnAuIg]40)
 
 R: Per, D: Sun, T: Ind
 
@@ -4435,7 +4435,7 @@ tion she is exceptionally hard to hurt, as she offers no vulnerable spot to her 
 
 **Arts:** Stolitzya's final Art scores are listed only for resistance purposes. She no longer casts magic by Hermetic means. Cr 24, In 29, Mu 37, Pe 26, Re 29, An 34, Aq 30, Au 16, Co 33, He 24, Ig 6, Im 13, Me 19, Te 26, Vi 31
 
-### **Powers**
+### Powers
 
 *Man into Sprat,* MuCo35, 1 point: Turns any one man at a range up to Far into a fish of about size –3. Penetration is 30.
 
@@ -6015,7 +6015,7 @@ A field spirit worshipped in Livonia, his Volkhvy demonstrate strong Cyclic Magi
 | Rugio Boba         |                                                         | last sheaf of rye at harvest harvest, crops |                                | Herbam, Corpus               |
 | Pergrukius         |                                                         | field spirit                                | flowers, growing things        | Herbam, Corpus               |
 
-### **Notes**
+### Notes
 
 All of the gods listed here are worshipped over large areas. The table does not include the host of local gods, clan patrons, craft patrons, field spirits, faerie lords, territorial gods (mountains, rivers, forests, and so on), nor the various beast lords.
 
@@ -6098,7 +6098,7 @@ Tawals Earth +5, Sun –5 at harvest +3 stubble
 | Majas Kungs | Earth +3, Heal +3, Sun –3, Weather –4, pigeons +3 | various local +3           | pigeons, pottery, beer             |
 | Gabija      | Sun +3, Animal –3                                 | varioius local +3          | fires, hearths, domestic craftwork |
 
-### **Lithuania**
+### Lithuania
 
 | Deity    | Volkhv Bonuses/Penalties*                                            | Festivals (and Bonuses)   | Sacred Items**          |
 |----------|----------------------------------------------------------------------|---------------------------|-------------------------|
@@ -6113,7 +6113,7 @@ Tawals Earth +5, Sun –5 at harvest +3 stubble
 | Picollos | Earth +4, Sun –4, badger +3                                          | spring and autumn +3      | caves, badgers          |
 | Potrimpo | Weather +2, Earth +2, Sun –5, pike +4                                | at the spring thaw +3     | pike, river, streams    |
 
-### **Minor Baltic Regions and Tribes**
+### Minor Baltic Regions and Tribes
 
 | Deity      | Volkhv Bonuses/Penalties*                            | Festivals (and Bonuses)        | Sacred Items**                  |
 |------------|------------------------------------------------------|--------------------------------|---------------------------------|
@@ -6129,7 +6129,7 @@ Tawals Earth +5, Sun –5 at harvest +3 stubble
 | Rugio Boba | Earth +5, Sun –5                                     | at harvest +3                  | rye                             |
 | Pergrukius | Earth +5, Sun –5                                     | planting and harvesting +3     | flowers                         |
 
-### **Notes**
+### Notes
 
 <sup>\*</sup> The bonuses listed apply to Volkhvy Disciplines, save that there is no general bonus for Shapeshifting. Instead, specific animals are listed. Bonuses apply for shifing into the forms listed. Abbreviations used are:
 
@@ -6232,13 +6232,13 @@ Leonty (ley-on-toy) Luka (looh-kah) Maksim (MAHK-zihm) Matfey (MAHT-fay) Mikhail
 
 Neofit (nee-ov-yit) Nikifor (nick-EE-fvor) Nikita (nick-EE-tah) Nikolay (nick-O-lay) Oleg (Oh-lehg) Pavel (PAH-vehl) Pimen (PEE-mehn) Piotr/Petra (PEE-ot-ra) Porfiry (poh-fi-rey) Roman (roh-mahn) Rostislav (roh-TIZZ-lav) Ryurik (ROOH-RIK) Semyaka/Semen (Zem-Yen) Sevastion (Zehv-ahz-chon) Simeon (Zim-ay-ohn) Stefan (zTEHF-ahn) Sudislav (zood-iz-lav) Svyatopolk (zVYAT-op-ohlk) Sviatoslav (zVYAT-oz-lav) Timofey (CHIM-oh-fay) Tremsin (tREHM-shin) Varlaam (VAH-lahm) Vasilko (was-ill-kho) Vasily (was-ill-yi) Vladimir (vLAHD-im-yir) Vsevolod (zSEHV-oh-lohd) Yakov (YAHK-OHV) Yan (YAHN) Yaropolk (YAH-roh-polhk) Yaroslav/Iaroslav (YAH-rohs-lav) Yury/Iurii (YOO-RHEE)
 
-### **Russian: Female**
+### Russian: Female
 
 Afrosinia (ahf-roh-ZIN-yah) Agafia (ah-GAHF-yah) Aleksandra (ah-less-and-raa) Anna (AH-NAH) Eugenia (yoo-jheen-yah) Ekaterina (ech-aht-REEN-yah) Elizaveta (ehl-eez-ahv-ET-yah) Evdokia (ehf-dohk-yah) Evfrosynya (ehf-roh-ZIN-ya) Fanya (fahn-yah) Florya (flohr-yah) Galina (Guy-een-yah) Greta (greht-yah) Iuliania (yule-yahn-yah) Katya (catch-yah) Klara (KLAH-rah) Ksenia (zeen-yah) Lelya (lehl-yah)
 
 Lidiia (lidj-yah) Ludmila (lood-MEE-yah) Marfa (MAH-FAH) Margarita (mah-REECH-yah) Marta (MAH-TAH) Marya (mah-REE-yah) Milda (MILL-DAH) Nadezhda (nah-DEZ-dah) Natalya (nah-TAHL-yah) Nastassja/Nastassia (naz-TAAS-yah) Nikola (ni-KOH-lah) Nina (NEEN-YAH) Oletschka (OH-letch-kah) Olga (OHL-GAH) Polina (po-LEEN-yah) Praskovaya (praz-cohv-A-yah) Raisa (rye-zah) Rogneda (rogh-NAY-ja) Sophia/Sofia (SOF-YAH) Svetlana (svet-LAH-nah) Tatiana (tat-YAHN-yah) Vera (VEH-RAH) Yelena/Helena (yell-ANE-yah) Zinaida (zin-YADE-yah)
 
-### **Russian: Surnames**
+### Russian: Surnames
 
 To keep things manageable, we have used the simplest possible conventions for surnames. "Son of," is indicated by taking the father's name, and adding "ovitch" or "ovich." For example, Fyodor's father was Ivan, he is therefore Fyodor Ivanovich. "Daughter of," is indicated by taking the father's name and adding "ovna." For example, Marya's father was Ivan, she is therefore Marya Ivanovna.
 
@@ -6246,17 +6246,17 @@ To keep things manageable, we have used the simplest possible conventions for su
 
 Royal family identity is indicated by taking the ancestor's name and adding "ivichi," "avichi," or "ichi." For example, if a family traces its descent from Oleg, it identifies itself as the Olgavichi; if it traced its descent from Rostislav it would be the Rostislavichi.
 
-### **Polish: Male** Adam (AH-DAM)
+### Polish: Male Adam (AH-DAM)
 
 Anthony (an-THONE-ee) Bartek/Bartos (BAH-thek) Bezprym (BETH-prem) Boleslaw (BOY-ez-lor) Cerny (SEN-yi) Daniel (DAHN-ell) Danko (DAHN-co) Franek (FRAHN-ek) Franciszek (FRAHN-CHISS-ek) Henryk/Henry (en-RIK) Jan/Janek/Janik (YAN-EK) Jas (YAHS) Jerzy (YER-ZEE) Joseph/Josef/Jozef (YO-SEF) Jur/Jurek (YOOR-EK) Kapiec (KAP-CHECK) Kaska (KAS-KHA) Kazimierz (kas-sim-EER) Komel (koh-mehl) Konrad (cohn-rad) Kozka (coz-kah) Leszek (lez-ek) Maciej (maj-ech) Michael (mick-ell) Mieszko (MEEZ-KO) Mishek (MEESH-EK) Odon (OH-DOHN) Pietrek (pYET-rick) Piotrowin (pYOT-roh-whin) Przemysl (pREM-EESH-ul) Pshegon (SHAY-GOHN) Roch (rosh) Siemowit (shem-oh-wick) Stanislaw (shtan-ish-law) Stas (stahz) Sylwester (sill-VEST-er) Swietopelk (sWYET-oh-pelk) Tomasz (tohm-ASH) Wacek (WAH-CHECK) Wladek (LAH-DECK) Wladyslaw (lad-is-law) Wojciech (wo-chee-eck)
 
 Wojtek (woch-eck) Zbigniew (zBIG-nee-you) Ziemomysl (zeem-om-EESH-ul)
 
-### **Polish: Female**
+### Polish: Female
 
 Adelajda (ad-eel-AJ-ah) Agnes (ahg-nez) Albina (al-been-ah) Anna/Anya (AH-NAH) Babitko (bah-bit-ko) Balbina (bahl-been-ah) Basia (baz-yah) Benigna (ben-een-yah) Bialka (bee-alk-yah) Borna (bohn-yah) Cecilia (Sess-eel-yah) Dorota/Dorotea (Dohr-oh-tah) Elzbieta (else-bYET-ah) Eudoksja (yoo-dosh-ka) Eufemia (oo-feem-yah) Florka (Floh-kah) Frania (fran-yah) Gryfina (grif-een-yah) Grylowna (grill-ow-nyah) Hanka/Hanna (HAN-YAH) Helcia (HELL-SHA) Helena (yel-ane-yah) Jadwiga (yad-wee-gah) Joanna (YO-ahn-yah) Judyta (yoo-dee-tah) Julka (YOOL-KAH) Kalina (hal-een-yah) Karolcza (kah-rohl-cha) Kasia (KAZ-YAH) Katya (CATCH-AH) Krystyna (krish-teen-yah) Kunegunda (coon-eh-goon-dah) Lucia/Lucja (loosh-yah) Ludmila (lood-mee-yah) Magdusia (mahg-doosh-ya) Majka (magh-yah) Marya/Marysia (mah-REE-yah) Matylda (mah-TILLD-yah) Merecka (meh-RECK-yah) Natalcia (nat-ALSH-yah) Nina (NEE-NAH) Regelinda (rej-ell-IND-yah) Repica (rep-eech-yah) Rosalie (rose-ah-lee) Rycheza (rich-ez-yah) Ryksa (rish-kah) Teofila (tay-O-fee-yah) Yanielka (yan-yell-ka)
 
-### **Polish: Surnames**
+### Polish: Surnames
 
 Chrebnik (shreb-nik) Ciak (shee-yahk) Ciezki (chez-kee)
 
@@ -6264,7 +6264,7 @@ Zofia (zof-ee-yah)
 
 Geslikowzki (guess-lee-cow-ski) Gicewicz (gich-eh-wicks) Glinski (glin-ski) Gruszczynski (groosh-zin-ski) Karnkowski (carn-cow-ski) Klimowicz (clim-oh-wicks) Ladowicz (lad-oh-wicks) Makuszynski (mac-oo-zin-ski) Markowska (mah-cows-kah) Mickewicz (mik-you-wicks) Morawski (mor-aw-ski) Nitechka (neet-etch-kah) Parzych (pah-zeech) Pietriewicz (peet-ree-wicks) Sekowski (sek-ow-ski) Skica (skeek-ah) Strozik (sTROH-zeek) Suchecki (soo-check-ee) Swierszcz (swee-uhr-ch) Swiezbinksi (sweez-bin-ski) Szymanek (zim-an-ek) Szczepanowicz (shep-an-oh-wicks) Wlodkowski (lod-cow-ski) Wolanin (vol-ahn-in) Zimniewica (zim-nee-wick-ah)
 
-### **Mongol: Male**
+### Mongol: Male
 
 Achu (ah-COO) Alghui (ahl-wee) Aljai-Timur (ahl-YIE-TEE-moor) Arghun (ah-hoon) Arik-Buka (ah-RIHK-BOO-kah) Bai (BY) Baichu (BY-KOO) Baidu (BY-DO) Barak (bah-RAK) Batu (bah-TOO) Bayan (BAY-an) Bektair (bek-tare) Belgutai (bel-GOO-tie) Berke (ber-KAY) Bodonchar (BO-don-car) Bogurchi (BO-gur-chi) Borak (BO-rak) Buru (BU-ru) Buyiruk (BOY-eer-ook) Chagatei (SHA-gat-I) Chapar (SHA-par) Chila'un (SHEEL-a'oon) Chomagan (SHOM-ag-an) Daritai (DAR-it-I) Devlet-Berdi (DEV-let-BER-di) Edigu (EH-di-goo) Elbek (ELL-bek) Erke (ER-kay) Erlik (ER-lick) Esen-Buga (EH-zen-BOO-gah)
 
@@ -6278,7 +6278,7 @@ Togan (TOE-gan) Toghudar (TOE-good-ar) Toguchar (TOE-gooch-ar) Toktamish (TOK-ta
 
 Tuwa (TOO-wa) Uljeitu (OOL-je-too) Uzbeg (OOZ-beg) Yesugai (YEZ-oo-guy)
 
-### **Mongol: Female**
+### Mongol: Female
 
 Very few names of Mongol women are known. Though they had considerable rights under Mongol law, they did not become shamans, ride in the armies, or usually wield power. Four exceptions are Berta (BEER-ta), Ogul-Gaimish (OH-gull-GAY-mish), Turakina (TOOR-ak-een-ah), and Yulun (YOO-lun). These queens and princesses of the royal clan held power as regents during the periods when there was no Great Khan.
 
@@ -6286,7 +6286,7 @@ Ghazan (GHA-zan) Ghazna (GHAZ-nar)
 
 # Glossary Glossary
 
-### **Old Russian Words and Terms**
+### Old Russian Words and Terms
 
 *Baba Yaga (BAH-bah YAHgah):* goddess of death *bannik (BAHN-neek):* sprite inhabiting a bath house *Beilbog (byah-WOH-book):* white goddess *bogatyri (boh-GAHT-ree):* "valiant knights," supernatural heroes *boyar (boh-YAHR):* an aristocrat *byliny (bee-yin-yih):* epic songs or poems (also "staryiny") *cheliad/cheliadin (che-YAHD/che-YAHD-i):* slave/slaves *Chernobog (char-NOH-book):* black god *chiliarch (hil-ee-yahk):* leader of a thousand men *dan (DAHN):* tax or tribute *Dazhdbog (DAHZHd-book):* sun god of creative energy *desiatsky (dess-EE-AHT-cee):* leader of ten men *Devana (deh-VAH-nah):* goddess of the hunt *Dogoda (doh-GOH-da):* minor deity, father of gentle winds *domawiczka (doh-mah-VEETCH-kah):* a female domovoi (house spirit) *domovoi (doh-moh-VOY-yeh):* benevolent house spirit
 
@@ -6418,7 +6418,7 @@ cerer *Volos (VOH-lohs):* god of poetry and commerce
 
 *zakup (zah-KHOOP):* indentured labourer, a debtor *zemlia (zhem-yah):* land, nation/state *Zhar-Ptitsa (zah-TEETS-yah):* the Fire Bird *Zorya (ZOHR-YAH):* the fates, three celestial goddesses *Zorya Vrechernyaya (ZOHR-YAH VREK-AHN-YAY-yah):* goddess of dusk
 
-### **Old Polish Words and Terms**
+### Old Polish Words and Terms
 
 *Auskelis (or-SKEL-iz):* goddess of the evening star *Datan (dat-tahn):* a field god *Dievs/Diverik (she-YEHZ):* sky god *Dziewona (jeh-VOH-nah):* goddess of the hunt *dziwozony (jeh-VOHZ-nee):* evil creatures *dziad (jeh-YAHD):* wandering troubador/tale-teller *Gabija (ga-BEE-ha):* goddess of the hearth *grod (GROHD):* tribal stronghold *gzeladz niewolna (ZEL-ahz-NEE-voy-nya):* serfs (criminals, debtors, prisoners) *Jods (HODZ):* god of destruction and wrongdoing *Juras Mate (oor-ahs MAH-TAY):* god of the sea *Kalvaitis (HAL-vay-YEET-is):* god of blacksmiths *kasztelan (CATS-A-yan):* prince's deputy at a grod *knez/kniaz/ksiaze (NEEZ/NEEahz/SEE-az):* prince *kurhany (cour-ahn-yee):* burial mound *Lawkapatim (LOV-cah-pat-ihm):* a field god *Lytuvnis (Lich-UHV-nihz):* god of rain *Mehnesis (meh-NEH-ziz):* moon god *Majas Kungs (mah-has hunz):* god of the home *mara (mah-rah):* evil spirit *majduszka (nahj-DOOSH-kya):* seeress, someone with second
 
@@ -6428,7 +6428,7 @@ trict
 
 *opole (op-OHL-yeh):* clan territory, group of villages, dis*poludnica (poh-wood-NEETsah):* revenant spirit, a haunt *przywileyj (ZHEE-wehl-yeh):* princely charter *Saule (zaul-AY):* sun goddess *rod (ROHD):* clans, together composing a tribe, also kin or kinsfolk *starosta/starszyna (sstah-ROHStah/sstah-ryhn-yah):* chief of a rod *strachy (strah-chee):* evil night spirits *Svaixtix (sVAYX-ticks):* god of the pole star, light, and art *szlachta (zlah-ta):* gentry *Tawals (ta-vahlss):* a field spirit *topielce (toh-pee-el-chee):* evil water spirit, soul of a drowned person *upiory (OO-pee-or-ee):* vampire *voyt (VOY-TAY):* village headman *wiara (VEE-yah-rah):* faith *wiec (VEE-ek):* convocation of free tribesmen (a governing council) *wili (VEE-lee):* fairy, wild spirit *Zemlja (zem-UHL-yah):* goddess
 
-### **Miscellaneous Old Baltic Words**
+### Miscellaneous Old Baltic Words
 
 *zlotys (Zlo-TEES):* polish currency (also "grosz") *znachor (naa-cor):* a pagan priest (Russian Volkhv)
 
@@ -6436,7 +6436,7 @@ of the dead
 
 *Andai (AHN-DIE):* god of war, Lithuania *Antrimpas (ahn-THRIM-pahs):* god of streams, Prussia *Gerovit (hair-oh-veek):* god of fortitude *Giraitis (heer-ate-ihz):* god of the forest, Lithuania *Meidein (may-deen):* goddess of the forest, Lithuania *Menuo (mehn-woh):* god of the moon, Lithuania *Nenadey (nehn-ah-day):* god of ill fortune, Lithuania *Pergrukius (peh-grook-yus):* a field god, Livonia *Picollos (pee-CO-loss):* god of the underworld, Lithuania *Porevit (pour-A-veek):* a god of the Isle of Rugen *Potrimpo (poh-thrim-poh):* god of *Puskaitis (puss-kayt-ihz):* god of the underworld, Prussia *Radegost (rah-DAY-gozz):* god of the Pomeranians *Rugevit (roo-GAY-veek):* a god of the Isle of Rugen *Rugio Boba (roo-he-oh Boh-bah):* a harvest god, Prussia *Svantovit (swaan-toe-week):* a sun god, Isle of Rugen/Arkona *Telyavel (tail-yahv-eel):* goddess of the dead, Lithuania *Triglav (THREEG-yahv):* god of cosmic balance, Stettin/Brandenburg *Zemepatis (jhem-eh-PAH-tiv):* god of the home, Lithuania
 
-### **Mongol Words and Terms**
+### Mongol Words and Terms
 
 *arban (AH-ban):* troop of ten, with an elected leader *bahadur (ba-ha-door):* knight, leader of a jagun, or trooper
 
@@ -6449,7 +6449,7 @@ in the kashik *Il-Khan (eel-caan):* Mongol ruler of Persia, subordinate to the G
 rivers and springs, Lithuania
 
 
-### **Note Codes**
+### Note Codes
 
 - \* Recommended
 - \*\* Highly recommended
@@ -6459,11 +6459,11 @@ rivers and springs, Lithuania
 - O Outdated
 - R Contains only one or two relevant chapters
 
-### **The Slavs**
+### The Slavs
 
 *The World of the Ancient Slavs,* by Zdenek Vana. Orbis, 1983.
 
-### **Russia**
+### Russia
 
 *Kievan Russia: Volume II of A History of Russia,* by George Vernadsky. Yale University Press, 1948. (\*/O/C)
 
@@ -6473,7 +6473,7 @@ rivers and springs, Lithuania
 
 *A History of the Russian Church to 1448,* by John Fennell. Longman, 1995.
 
-### **Poland**
+### Poland
 
 *The Cambridge History of Poland, Volume I: From the Origins to Sobieski,* edited by W. F. Reddaway, J.H. Penson, O. Halecki, and R. Dyboski. Cambridge University Press, 1950. (\*/O)
 
@@ -6497,13 +6497,13 @@ rivers and springs, Lithuania
 
 *The Baltic Crusade,* by William Urban, Northern Illinois University Press, 1975.
 
-### **Mongols**
+### Mongols
 
 *The Devil's Horsemen: The Mongol Invasions of Europe,* by James Chambers. Weidenfeld & Nicholson, 1979. (\*\*)
 
 *The Mongol Empire,* by Peter Brent. Book Club Associates, 1976. (\*/C)
 
-### **Paganism**
+### Paganism
 
 *A History of Pagan Europe,* by Prudence Jones and Nigel Pennick. Routledge, 1995. (\*/R)
 
@@ -6515,7 +6515,7 @@ rivers and springs, Lithuania
 
 *Russian Folk Belief,* by Linda J. Ivanits. M. E. Sharpe, Inc. 1989. (\*/A/C)
 
-### **Folklore**
+### Folklore
 
 *A World Remembered: Tales and Lore of the Polish Land,* collected and compiled by Marion Moore Coleman. Cherry Hill Books, 1965.
 
@@ -6556,7 +6556,7 @@ crusade, corruption of 47-49 crusade, ideal of 38 crusade, Livonian 41 crusade, 
 
 Dates are from beginning of rule (r) to end of rule (e) or death (d). [K] indicates a prince who died at Kalka, [M] indicates a prince who died in the Mongol invasion. For any period where there is no ruling prince noted it is safe to assume that the relevant throne was in contention. Where possible each succesive ruler is identified according to his relation to his predecessor.
 
-### **13th Century Russian Rulers**
+### 13th Century Russian Rulers
 
 *Suzdalia (The Grand Principality)* Vsevolod III (r)1176-(d)1212 (son) Konstantin (r)1212-(d)1218 (brother) Yury (r)1218-(d)1238 [M] (brother) Yaroslav (r)1238-(d)1246 (brother) Svyatoslav (r)1247-(e)1248 (nephew) Andrey Yaroslavich (r)1249-(e)1252 (brother) Aleksandr Yaroslavich
 
@@ -6644,7 +6644,7 @@ their rights and tried to resist Mongol taxation.
 
 (brother) Grand Prince Yaroslav Yaroslavovich (r)1263-(d)1271 (brother) Grand Prince Vasily Yaroslavich (r)1271-(d)1277 (nephew) Grand Prince Dmitry Aleksandrovich (r)1277-(d)1294 (brother) Grand Prince Andrey Aleksandrovich (r)1294-(d)1304
 
-### **13th Century Polish Rulers**
+### 13th Century Polish Rulers
 
 Polish territories kept changing in size and number. From one generation to the next rulers seldom held the same borders, so that it becomes impossible (and false) to establish a single line of rulers of, say, Mazovia or Silesia. The lists below start from the basis of five general areas: Krakow (seat of the Grand Duke), Sandomierz, Mazovia-Kujavia, Great Poland (Wielkpolska), and Silesia. Within each of these territories periods of fragmentation are identified [F]; the families that result from fragmentation are identified by the territories that they ruled.
 
@@ -6698,7 +6698,7 @@ In the next generation splits in three:
 - Olesnica family
 - Wladyslaw (Archbishop of Salzburg) no descendants
 
-### **13th Century Rulers of the Golden Hoard**
+### 13th Century Rulers of the Golden Hoard
 
 Batu (r)1242-(d)1256 (nephew) Sartak (r)1256-(d)1257 (uncle) Berke (r)1257-(d)1266 (great-nephew) Mangu-Temur (r)1267-(d)1280 1280-1299 Mongol civil war in Russia between:
 
@@ -6707,11 +6707,11 @@ Batu (r)1242-(d)1256 (nephew) Sartak (r)1256-(d)1257 (uncle) Berke (r)1257-(d)12
 - (cousin) Toktu (r)1291-(d)1312, who finally reunified the horde
 - (a cousin) Nogai (r)1280-(d)1299
 
-### **13th Century Rulers of Lithuania**
+### 13th Century Rulers of Lithuania
 
 Mindaugus (r)1219-(d)1263 Treniota (r)1263-(d)1264 Vaisvilkas (r)1264-(d)1267 Traidenis (r)1270-(d)1282 Pukuveras (r)1282-(d)1292 Vytenis (r)1293-(d)1315
 
-### **Masters Of The Teutonic Knights**
+### Masters Of The Teutonic Knights
 
 *Master (Knight Commander) Of Prussia* Herman von Salza (r)1215-(d)1230 (also Grand Master of the Order) Hermann von Balk (r)1230-(d)1239 Heinrich von Weide (r)1239-(d)1244 Popp von Osternach (r)1244-(d)1246 Dietrich von Gruningen (r)1246-(d)1259 Hartmut von Grunbach (r)1259-(d)1261 Helmeric von Rechberg (r)1262-(d)1263 Johann von Wegleben (r/d) 1263 Ludwig vonBaldersheim (r)1263-(d)1269 Dietrich von Gattersleben (r)1271-(d)1273 Conrad von Thierberg (r)1273-(e)1279 Conrad von Feuchtwanger (r)1279-(d)1280 (Also Master of Livonia) Mangold von Sternberg (r)1280-(d)1283 (Also Master of Livonia) Conrad von Thierberg (r)1283-(d)1288 Meinhard von Querfurt (r)1288-(d)1289 Conrad von Babenberg (r/d) 1299 Luder von Schippen (r)1299-(d)1300 Master (Knight-Commander) Of Livonia Wenno (r)1204-(d)1209 (Captain of the Knights of the Sword) Folkwin (r)1209-(e)1237 (Captain of the Knights of the Sword) Amalgamation with the Teutonic Knights Hermann von Balk (r)1237-(d)1239 Dietrich von Gruningen (r)1238-(e)1242 Henrich von Heiburg (r)1243-(d)1244 Dietrich von Gruningen (r)1244-(d)1246 Andreas von Stierland (r)12480-(d)1253 Anno von Sangershausen (r)1253-(d)1256
 

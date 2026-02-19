@@ -28,7 +28,7 @@
 
 **Third Round Playtesters:** Jason Brennan, Justin Brennan, Elisha Campbell, Robert Major; Leon Bullock, Peter Ryan, Chris Barrett; Christoph Safferling, Jan Sprenger
 
-#### **Author Biographies**
+#### Author Biographies
 
 **Niall Christie** is (still) a medieval Islam historian who lives in Vancouver, Canada. He likes books, history (no surprise there), roleplaying, tyranids, singing, and tormenting his students with antiquated pop-culture references that they don't get. Niall would like to thank his co-authors and the line editor for all their help, and in particular for picking up the magic lamp that he dropped; and also Guy Le Strange and Muhammad ibn Jubayr, invaluable guides through the desert. He would like to dedicate his portion of this book to three people: to Matt Ryan, for setting this genie free; to Angus MacDonald, for much sheik, rattle, and roll; and to Steph van Willigenburg, for being his Water of Life.
 
@@ -853,43 +853,43 @@ The Muslim world is home to many who follow a number of other faiths, including 
 
 This is not the first supplement to deal with topics Middle Eastern, and players may find it helpful to consult other **Ars Magica** supplements when running sagas that make use of the material contained herein. This section lists the supplements that contain significant content pertaining to the Middle East.
 
-#### **Realms of Power: The Divine**
+#### Realms of Power: The Divine
 
 This is the most important supplement in this regard, containing information on both the mundane and supernatural characteristics of the three major monotheistic faiths, all of which have their origins in the greater Middle Eastern region, either the Holy Land, within the Tribunal of the Levant, or Arabia, far beyond its borders, and all of which have members who live in the area covered by this supplement. The rules presented on character creation are also of particular use, especially for generating Muslim and Jewish characters from the Middle East.
 
-#### **Realms of Power: The Infernal**
+#### Realms of Power: The Infernal
 
 This book also provides much information that will be useful for Middle Eastern sagas. In addition, it contains some background information on the Jinn (page 26) and includes rules that may be used to create infernally corrupted Jinn. It also gives information on the Mazzikim, a group of demons that include some infernal Jinn in their ranks (page 73), and describes a demoness who masquerades as a jinniyya (Aqrab the Conjuror, pages 58-59). A Zoroastrian demon, Naonhaithya, is also detailed (pages 73-74). In addition, it details a Middle Eastern Infernal tradition, the Mulhidun (pages 136-137), who are found principally in the Jazira.
 
-#### **Realms of Power: Magic**
+#### Realms of Power: Magic
 
 This book contains rules that may be used to create Magical Jinn, including some commentary on these creatures (pages 106-107 in particular).
 
-#### **Realms of Power: Faerie**
+#### Realms of Power: Faerie
 
 This book contains information that may be used to create Faerie Jinn and those who deal with them. It also contains examples of Middle Eastern faeries, Lamashtu (page 64-65) and the Ghula (page 72); describes how to create characters with Ghula Blood (page 106); and provides various suggestions for incorporating elements from Middle Eastern folk tales into **Ars Magica** sagas.
 
-#### **The Mysteries Revised Edition**
+#### The Mysteries Revised Edition
 
 This book includes a number of mysteries that draw on the magical traditions of the Middle East. These include Hermetic Alchemy (pages 39-46) and Hermetic Astrology (pages 47-57), and a journey to the east could form an appropriate part of an Initiation Script for both the Order of the Green Cockerel and the Magoi of the Star. By the same token, the Legion of Mithras (pages 118- 22), should it ever decide to explore its possible links to ancient Zoroastrianism, could require Initiates to travel to Persia to investigate as an Initiation Quest.
 
-# **Houses of Hermes: Mystery Cults**
+# Houses of Hermes: Mystery Cults
 
 This book includes brief information on the Keepers of Tales, a Merinita subtradition originating in the Middle East (pages 81-82). It also presents the Criamon Path of Walking Backwards, which was inspired by Sufi mysticism, along with information on its founder, the Primus Abdkypris (pages 56 and 70-73).
 
-#### **Houses of Hermes: Societates**
+#### Houses of Hermes: Societates
 
 The description of the Hermetic sahirs in *Houses of Hermes: Societates*, while concerning itself with an Iberian tradition of Islamic magi, also includes information on the Jinn, including a sample character, Wahhab (pages 133-136).
 
-#### **Ancient Magic**
+#### Ancient Magic
 
 This book describes some of the magical secrets that might be found in the region covered by this book, including the language of Adam, ancient Babylon, the Garden of Eden and Cain (pages 10-29); a source of Grigori magic on Mount Ararat (pages 70-73) and the Altars of Alexander the Great (page 125). Information on some of the naming conventions used in the Middle East may also be found (page 46). On more on names, see also Appendix A in this book.
 
-#### **Hedge Magic Revised Edition**
+#### Hedge Magic Revised Edition
 
 This book describes two traditions of Islamic elementalists, the *Ikhwan al-Safa'*  and the *Tulab ibn Sina* (pages 28-32). Middle Eastern counterparts to Folk Witches (pages 33-53), Learned Magicians (see pages 79-99) and Mythic Alchemists (page 100) are possible with only minor modifications to fit an Islamic setting. Characters descended from nomadic shamans of the northern steppe tribes or deep deserts of Arabia may be represented by the rules for Nightwalkers (pages 102-118).
 
-#### **Rival Magic**
+#### Rival Magic
 
 This book gives details about Soqotra, an island in the Gulf of Aden south of Yemen ruled by non-Hermetic sorcerers and their magical tree spirit companions. This book also details the Amazons and their magical tradition descended from Trianoma's sister Veia — the warrior women are based on an island in the Sea of Khazars (the Caspian Sea) but hunting parties may have ranged into Khwarazm or further. Both groups may be potential allies or enemies in sagas set in the Mythic Middle East.
 
@@ -900,7 +900,7 @@ book," and are permitted to live in Muslim lands as long as they accept the stat
 
 Islam is both a religion and a social contract, and so the law humans should use to regulate their lives is contained in its teachings. There are a number of sources Muslims use for this law, which is called in Arabic *al-shari'a* (ash-sha-REE-'a).
 
-#### **Crime and Punishment**
+#### Crime and Punishment
 
 The shari'a divides crimes into three main categories:
 
@@ -912,7 +912,7 @@ Some other crimes also incur severe penalties. For example, apostasy is punished
 
 Magic is permitted in Islam, as long as it is used for good purposes. Use of magic for evil purposes, on the other hand, is punishable by beheading. Thus, while Dominion auras generated by Muslims affect magic as normal, the attitude of the Muslim inhabitants of these auras toward practitioners of magic is likely to be more nuanced. In particular, an accusation of use of evil magic is likely to be subject to the same legal processes as any other alleged crime.
 
-#### **The Pillars of Islam**
+#### The Pillars of Islam
 
 The Muslim life is encapsulated in five basic duties, known as *arkan al-islam* (ar-KEHN-ul-is-LEHM), or the pillars of Islam. These are as follows:
 
@@ -942,7 +942,7 @@ ninth month of the Muslim year and the month when Muhammad first began to receiv
 
 Each pillar has associated mechanical effects, detailed further in *Realms of Power: The Divine*, pages 106-108.
 
-#### **Mosques**
+#### Mosques
 
 Mosques serve several purposes, for in addition to prayer one finds other activities taking place in them, including public orations, readings of the *Qur'an*, Sufi rituals, and religious festivals.
 
@@ -962,11 +962,11 @@ Founding a Hermetic covenant in the potentially hostile lands of the Mythic Midd
 
 Similar to founding a new covenant, but relying on the tradition begun in the Greater Alps and prevalent in the Rhine, this option is perhaps more attainable for a starting troupe. Sponsorship by one of the established Greater Alps covenants, one of the domus magna, or perhaps the highly resourced and expansionistic Fengheld covenant of the Rhine would be a prerequisite. This scenario trades off some of the danger and isolation by sacrificing freedom — having the young magi beholden to the politics and agendas of senior magi and the wider Order in what is an unstable and charged region. The chapter house may act as an offensive bridgehead, an embassy to the Order of Suleiman, a trading post, an original research base, a translation school or a combination of these ideas. For an existing European saga, this option provides an introduction to the Mythic Middle East and the potential for long-term play without requiring too much initial commitment or research on the part of the storyguide or players. This scenario is dependent on some form of constant link between the Hermetic colony and the motherhouse such as a Mercere Portal, although such a gateway creates a large security liability should the covenant's defenses be breached.
 
-#### **Itinerant Covenants**
+#### Itinerant Covenants
 
 This choice reflects a group of mobile magi and provides almost unlimited choice of adventures and the opportunity to fully explore the material contained in this book. The lack of a permanent settlement may create issues for Hermetic magi heavily interested in laboratory work, and both mundane and supernatural security issues come to the fore. This scenario may work best for a more low-magic style saga where the stories are predominantly companion-based or require magi with more diplomacy than magical firepower. The covenant may be posing as simple merchants, acting as an advanced reconnaissance party for the Order, or pursuing another explicit magical goal that requires travel through the Mythic Middle East. The Itineris Serica covenant (see sidebar in Chapter 9: On the Silk Road) details a suggestion for a Seeker covenant dedicated to discovering the mythical land of Serica, at the end of the fabled Silk Route.
 
-#### **Joining a House of Wisdom**
+#### Joining a House of Wisdom
 
 Perhaps the most complex and provocative of Hermetic-based scenarios, in this option a small group of magi join an existing *bayt al-hikma* ("House of Wisdom," pl. *buyut*) of agreeable sahirs. As the Houses of Wisdom are places of teaching as well as gathering places for unGifted sahirs, Gifted magi may be welcome as fellow scholars if they agree to respect their culture and laws of their hosts. Such an inter-Order community creates numerous tensions and conflicts, although it is possible that the group may be able to cooperate and prosper despite the considerable external pressures and initial differences. Magical techniques may be compared and traded, although teaching the Parma Magica to an outsider would spark a violent Wizard's War and March against the traitors unless the sahirs agreed to join one of the Societates or Mystery Cults of the Order first.
 
@@ -991,15 +991,15 @@ See Chapter 4: The Jinn for more details on the jinn and their lands.
 
 The requirements on a member of the Order of Suleiman are less strict than those of the Order of Hermes, requiring only the demonstration of some form of summoning power. However, although the Code may permit joining the Order of Suleiman, any Hermetic magi undertaking a second oath may be viewed with extreme suspicion. Likewise, although non-Hermetic sahirs may find sponsorship into House Ex Miscellanea, they will face opposition from hostile Hermetic elements such as House Flambeau and even their lost cousins, the Hermetic sahirs of Iberia. Thus despite being able to achieve internal harmony, such a group of mixed magi may find itself ostracized by both Orders, facing powerful enemies on two separate fronts.
 
-#### **The Hermetic Crusades**
+#### The Hermetic Crusades
 
 The conflict between medieval Christendom and Islam is not completely confined to the Levant and Egypt. Hermetic magi have become aware of the Order of Suleiman through the supernatural actions of individual Syrian sahirs in battles between the invading Franks and the local forces of Salah al-Din. Seeking to trace back this threat to its source, more aggressive Hermetic magi may seek to penetrate behind the battle lines to combat their perceived enemies on their home turf. Others may seek out the legendary armies of Prester John said to dwell far to the east, or search for allies among the encroaching Mongol horde. Even now, a major war against the Order of Hermes may be brewing.
 
-#### **The Followers of the Circle Return**
+#### The Followers of the Circle Return
 
 Although isolated from their eastern brethren since the early tenth century, the Hermetic sahirs of Iberia have not forgotten their origins, even if their knowledge of Solomonic Magic has long since faded beneath the protection of the Code of Hermes. Younger Iberian sahirs opposed to the reconquest of their lands by the northern Christian principalities may seek out their lost eastern brethren for support or magical weapons to use in the war to defend Andalusia from the vengeful scions of Alfonso the Battler and Flambeau the Founder. The successful involvement of the Order of Suleiman in the Iberian conflict would have wide-reaching consequences for the relationship between the two Orders, potentially precluding any attempts at peace for decades to come.
 
-#### **An Hermetic Embassy?**
+#### An Hermetic Embassy?
 
 In 1220, a new danger breaks in the east — the latest in a wave of nomadic hordes from the mysterious steppes. Led by the mysterious figure known as Genghis Khan, the Mongols first begin their assault on eastern Islam but reports of their savagery begin to filter back to western Mythic Europe. Despite their differences, the Order of Hermes and the Solomonic magi may see the threat of the encroaching Mongols as great enough to force an alliance, at least temporarily. Such enforced cooperation and intermingling may have profound effects on the culture, magic and future of the two great supernatural organizations of Mythic Europe. Will such an uneasy truce last long enough to stave off the nomad threat?
 
@@ -1011,7 +1011,7 @@ As the majority of sahirs lack The Gift and are less interested in laboratory ac
 
 See "The Middle East in **Ars Magica**" insert later and Chapter 3: The Order of Suleiman for further resources for playing a fully non-Hermetic Saga.
 
-#### **Thus spoke Zarathustra ...**
+#### Thus spoke Zarathustra ...
 
 The descendants of the Zoroastrian priests that once dominated Persian politics and magic are now a scattered handful of wizards in danger of extinction. Zoroastrian magi form a small mystery cult of holy magi within the Order of Hermes and a handful of sahirs still quietly follow the ancient Mazdean faith. Isolated villages of faithful cling to their customs amidst persecution and distrust within the wider medieval Caliphate. A disparate collective of Zoroastrian wizards from different backgrounds and across Mythic Europe may attempt to unite their shattered faith by establishing a community under their combined protective magic (see Chapter
 
@@ -1019,7 +1019,7 @@ The descendants of the Zoroastrian priests that once dominated Persian politics 
 
 5: Mythic Zoroastrianism for details on non-Hermetic mobed wizards and their faith). Will they establish a new homeland for their people to shelter from the forces of Ahriman or be tempted to establish a base from which to re-carve the former greatness of their pre-Islamic empire?
 
-#### **Holy Knives of Alamut**
+#### Holy Knives of Alamut
 
 The Nizari sect of assassins has one goal in mind: the institution of an Isma'ili state through the elimination of the Shi'a and Sunni rulers. They show remarkable adaptability in the pursuit of this goal, employing whatever tools come to hand: religious zealots willing to die for their masters, their own peculiar brand of magic, diplomacy at the point of a knife, and perhaps even the Order of Hermes. To the Nizaris, the Order of Suleiman is part of the problem and, much as they have helped the Crusaders against the occupying forces of Jerusalem, they might be prepared to help Hermetic magi against their sahir enemies. If this means that the Nizaris first have to convince the Order that it has sahir enemies, the sect is not beyond manufacturing situations to persuade them of this. If the Order still seems reluctant, the Nizaris might attempt to directly coerce individuals by kidnapping and extortion; of course, this might drive the Order towards allying with the sahirs against a Nizari threat. One thing is sure: with the Nizaris involved, blood will be spilled (see Chapter 8: Mythic Persia for more details on the medieval Nizari assassins).
 
@@ -1031,7 +1031,7 @@ Mythic Middle Eastern characters, be they rural or urban in origin, are generate
 
 ## Virtues
 
-#### **Educated (Islamic)**
+#### Educated (Islamic)
 
 *Minor, General*
 
@@ -1039,7 +1039,7 @@ The character has been educated in a mosque or *Qur'an* school. The 50 experienc
 
 ## Flaws
 
-#### **Dhimmi**
+#### Dhimmi
 
 *Minor, General*
 
@@ -1049,13 +1049,13 @@ must abide by certain social restrictions (described earlier), in return for whi
 
 ## New Abilities
 
-#### **Islamic Law\**
+#### Islamic Law\
 
 *Academic*
 
 This is the Muslim version of Civil & Canon Law. The major sources of Islamic Law are the *Qur'an* and the *Sunna*. **Specialties:** any one of the sources of Islamic Law, particular topics, customs of a particular area.
 
-#### **Theology: Islam\**
+#### Theology: Islam\
 
 *Academic*
 
@@ -1207,27 +1207,27 @@ When they had finished their founding document, the former viziers humbly presen
 
 Many sahirs have attempted to learn what became of the members of the First Council, for completeness or inspiration. Most of what survives them is stories and legends.
 
-#### **Al-Khayzuran**
+#### Al-Khayzuran
 
 Al-Khayzuran died, but her memory haunted the building that had once been Harun's palace. A strong feminine presence is often recognized by sahirs sensitive to spirits in her chamber, and many claim to have been visited by her in dreams. Some speculate that the many tales about her brought a powerful faerie to live in her place, a queen who visits sleeping travelers and grants them power in exchange for stories.
 
-#### **Yahya ibn Khalid**
+#### Yahya ibn Khalid
 
 Yahya the Barmakid was forever disgraced by his son's actions at court, though he lived long enough to see the foundation of the Suhhar. It is said he had a collection of permanent Arcane Connections to the other members of the First Council, though no one knows what became of it when he died. It may have been on his person and buried with him in Baghdad, or he may have hidden it in his house or even his cell. The prison still stands in the city, though it has long since been abandoned and has an evil reputation.
 
-#### **Jabir ibn Hayyan**
+#### Jabir ibn Hayyan
 
 Jabir went to Kufa, where he wrote many books on the Solomonic arts. He was said to have become friends with Christopher Coronus, magus and ambassador from the Order of Hermes and the court of Charlemagne, though few details about him survive. Christopher corresponded extensively with Tremere the Founder, he was especially interested in using magic to produce visual art, and he once threatened to slay Jabir in a duel but later said this had been a misunderstanding. It is probable from their conversations that early magi and sahirs heard the first accounts of each others' organizations. Legends say that Jabir had a crisis of faith later in life, and that he sacrificed all of his magic just before he died for the right to walk in paradise. This story is controversial, as it suggests that Jabir believed he could not both be a faithful Muslim and practice magic, an idea that has been hotly debated among sahirs ever since.
 
-#### **Muhammad al-Fazari**
+#### Muhammad al-Fazari
 
 Muhammad stayed on as the court astrologer for the rest of his life, and also wrote several exceptional books concerning his fields of expertise. He is said to have drawn a series of prophetic pictures before he died that predicted many future events, including the separation of the Iberian sahirs and Baghdad's invasion by Mongols. He had no children, though he taught many followers, including the great Muhammad ibn Musa al-Khwarizmi, who is generally regarded as one of the most talented astrologers that the Suhhar has ever produced. While many believe that al-Fazari did not die and instead transformed himself into a spirit like his father, no one has yet demonstrated publicly that they are able to summon him.
 
-#### **Bakhtyshu**
+#### Bakhtyshu
 
 Bakhtyshu was the caliph's personal physician, and also helped his son Jabril ibn Bakhtyshu establish himself with the court, setting him up as Ja'far's assistant. Jabril weathered the fall of the Barmakids from the caliph's grace (some say by betraying his master's plans to his enemies), but the stories also tell that Jabril ensured the other members of the First Council were praised and admired by the caliph, perhaps saving them from intrigues that would otherwise have doomed the Suhhar. Jabril had a large family and many children, and his descendants carried the magic of Solomon to the famous House of Healing in Gundeshapur. Some have even suggested that one of Jabril's sons returned with Dawud al-Kharita to the far east, and there established a line of Christian magician-kings who would eventually produce the legendary figure known as Prester John.
 
-#### **Al-Zill Habib and Al-Hajjaj**
+#### Al-Zill Habib and Al-Hajjaj
 
 Both Al-Zill and Al-Hajjaj remained in Baghdad for many years of teaching, but sometime in the mid-800s they suddenly left without warning, instructing their followers not to come after them. This came just after a visit from one of the caliph's advisers, the Sufi mystic Fozail-e Iyaz, and sahirs have often wondered what passed between them, and if their departure was due to his interference. It was said the two sahirs traveled the length of the entire world together, from the Pillars of Hercules to the mountains of the Far East, and there are many stories of those who came upon them and shared a meal with them, always a young man dressed all in white and his companion hooded and wrapped in black. It is even said that the two of them still live, and that they appear no different in the year 1220 than they must have looked four hundred years ago.
 
@@ -1268,27 +1268,27 @@ The reluctant verdict among the majority of surviving sahirs was that the invade
 
 The five great families of Solomonic sahirs descend from the five members of the First Council who formed the Suhhar Sulayman, some by blood but most by association. Each has become specialized in one type of magic, and tends to come from a particular region.
 
-#### **Ashab al-Sakhr "Followers of the Stone"**
+#### Ashab al-Sakhr "Followers of the Stone"
 
 *Ashab al-Sakhr* (ass-HAWB us-SAKHR) is a family of specialists in Solomonic Alchemy who descend from Jabir ibn Hayyan, the only Gifted member of the First Council. They are affiliated with the city of Damascus, the former capital city of the Umayyad wazirs and now the center of the sahirs' counter-Crusade against the invading magi and soldiers. Besides being very unfriendly to Europeans, it is common for Followers of the Stone to be especially pious, and non-Muslims are almost unheard of among them. It is perhaps the most "noble" sahir family; its members value personal honor very highly, and especially favor arms and armor. Many of them choose to fight with steel instead of magic — or with steel augmented with magic.
 
-#### **Ashab al-Najm "Followers of the Star"**
+#### Ashab al-Najm "Followers of the Star"
 
 In the early days of the Suhhar, Solomonic Astrology was especially favored by a small group of Zoroastrians who converted to Islam and came to Baghdad to study magic from Al-Khwarizmi, the famous student of Al-Fazari. They later established a small academy in Nasibin in the north, and other houses entirely devoted to their art in many Persian cities as well. *Ashab al-Najm* (ass-HAWB un-NAJM) is perhaps the most widespread family of sahirs, and also the most arcane; they tend to dress and look like wizards or, at the very least, wise scholars. A common belief in the family is that it is important for them to encourage the majestic reputation of magicians, even while using magic to serve others, lest the people cease to value it.
 
-#### **Ashab al-Yad "Followers of the Hand"**
+#### Ashab al-Yad "Followers of the Hand"
 
 The first sahirs who specialized in Solomonic Physic were all members of the Bakhtyshu family, and took their magic with them to Gundeshapur, in Persia. There they established a famous academy known as the House of Healing. Most of the first physician sahirs were Nestorian Christians, though Muslims, Jews, and pagans have also joined their family, and their reputation has always been somewhat poor because of their ready acceptance of outsiders. This means the *Ashab al-Yad* (ass-HAWB ul-YAD) family is seen to have something of a sinister aspect within the Suhhar they are perceived as sahirs who heal but who also harm — and so no one is ever quite sure exactly how a Follower of the Hand will respond to a given situation.
 
-#### **Ashab al-Qalb "Followers of the Heart"**
+#### Ashab al-Qalb "Followers of the Heart"
 
 Though the *Ashab al-Qalb* (ass-HAWB ul-QALB) family was technically established by Al-Zill Habib, his followers generally regard Al-Khayzuran as the family's matriarch and role model, especially since so little is known about the "beloved shadow" who taught them. Since Al-Zill disappeared, the civic focus of Solomonic Storytelling has remained in Baghdad, still known as the city of a thousand tales, and the grand vizier elected to lead the Suhhar has most often been a Follower of the Heart. They are usually very political sahirs, interacting with supernatural creatures like faeries and magical beings more often than other sahirs, and only rarely have The Gift. Women are much more common in this family; the sahira-to-sahir ratio is almost one-to-one.
 
-#### **Ashab al-Nahr "Followers of the River"**
+#### Ashab al-Nahr "Followers of the River"
 
 Solomonic Travel was often marginalized as a lesser art by early sahirs, as few of them understood the power of other realms and worlds: not just Faerie and the Magic Realm, but also places of Divine and Infernal power, and even the realms of dreams and death. Two generations after Al-Hajjaj, a Nabatean traveler named Ibn Wahshiyya deciphered many secrets about these places from the writings of the ancient Egyptians, and singlehandedly revitalized the Art. There is a great academy in Cairo devoted to the study of these mysteries, and it is still considered the locus of the *Ashab al-Nahr* (ass-HAWB ul-NAHR) family's magic. Ibn Wahshiyya and Al-Hajjaj both had reputations for intense passion and, ultimately, madness, and their followers are usually eccentric as well.
 
-#### **Ashab al-Halqa "Followers of the Circle"**
+#### Ashab al-Halqa "Followers of the Circle"
 
 There are also many sahirs who consider themselves specialized in no particular art, or who focus on their summoning art rather than the Solomonic arts. Before they left the Suhhar, many of the sahirs of Cordoba called themselves *Ashab al-Halqa* (ass-HAWB ul-HAL-qa), referring to the outside edge of the pentacle that forms the Seal of Solomon. This term is still used to describe unaligned sahirs, or those who claim to belong to none of the great families. Most Gifted sahirs and self-taught summoners meet these criteria, preferring to remain apart from the yearly gatherings, where they must be represented by viziers from the other families.
 
@@ -1349,27 +1349,27 @@ The Suhhar requires that sahirs only give or sell "magic things" that they have 
 
 There are many stories centered around the Majlis al-Sulayman, for sagas focused on sahirs or magi.
 
-#### **A New Grand Vizier**
+#### A New Grand Vizier
 
 Kha'trazh appears to be in his fifties, though he has lived almost a hundred years. Many think he is likely to die soon, which will cause great deliberation at the next Majlis as the assembled sahirs try to choose an appropriate replacement. When this happens between gatherings, the Asalat usually choose the vizier who represents the original bayt al-hikma (now called the Dar al-Hikma, see Chapter 7: Mesopotamia, Baghdad) to serve in the interim, but the sahir who currently holds that position is very controversial and unlikely to retain the position after the vote. Campaigning for the position will likely proceed in earnest as soon as Kha'trazh dies.
 
-#### **A Test of Arms**
+#### A Test of Arms
 
 The Followers of the Stone typically decide their Asala with a test of arms, and a vengeful sahir who opposes Kha'trazh might challenge his family's leader to try to take the position.
 
-#### **The Sixth Asalat**
+#### The Sixth Asalat
 
 A group of sahirs who do not belong to the five families insist they receive representation among the Asalat, and demand a sixth Asala. Sahirs who belong to this movement might use a six-pointed star as their symbol.
 
-#### **The Sahir-Magus**
+#### The Sahir-Magus
 
 A magus who can summon spirits could easily gain membership in the Suhhar Sulayman, and perhaps speak on behalf of his sodales in the Order of Hermes. This might make Kha'trazh's policy of avoiding immediate conflict with the Order of Hermes unfeasible, and to resolve the situation he might quietly encourage other sahirs to challenge this sahir-magus to a duel.
 
-#### **The Sahirs of Iberia**
+#### The Sahirs of Iberia
 
 An Iberian sahir comes to Majlis, representing a community of sahirs that do not belong to the Order of Hermes. He reminds them that another Crusade threatens the followers of Islam — the Reconquista — and begs them to consider restoring their alliance.
 
-#### **The Vizier's Opposition**
+#### The Vizier's Opposition
 
 Kha'trazh expels a popular sahir accused of betraying the Suhhar. This is a rallying point for the leader of the grand vizier's opposition, who promises to restore the disgraced sahir if his supporters will vote for him.
 
@@ -1426,11 +1426,11 @@ Some of these Virtues refer to Accelerated Supernatural Abilities. These are lik
 
 There are many Hermetic Virtues and Flaws that might be appropriate for sahirs to take as Supernatural Virtues or Flaws, as long as they improve or limit Solomonic magic to the same degree. Storyguides are encouraged to adapt these as they see fit.
 
-#### **New and Modified Virtues**
+#### New and Modified Virtues
 
 The following Virtues are appropriate to sahir characters.
 
-#### **Invocation of Names of Power**
+#### Invocation of Names of Power
 
 *Major, Supernatural*
 
@@ -1446,7 +1446,7 @@ Botching a Name of Power roll, or a spell affected by a Name of Power, usually a
 
 The yatus (see Persia, Chapter 8) introduced this Virtue into the Suhhar Sulayman, and they usually call upon the names of the ancient Mesopotamian gods (see Mythic Mesopotamia, Chapter 7).
 
-#### **Sahir**
+#### Sahir
 
 *Free, Social Status*
 
@@ -1456,43 +1456,43 @@ If the character does not actually possess the power to summon a spirit, he shou
 
 This Virtue should be taken along with another Social Status Virtue or Flaw, to describe the character's status among non-sahirs.
 
-#### **Sihr**
+#### Sihr
 
 *Major, Supernatural*
 
 This Virtue gives the character an initial score of 0 in the Accelerated Supernatural Ability of (Solomonic) Sihr.
 
-#### **Solomonic Alchemy**
+#### Solomonic Alchemy
 
 *Major, Supernatural*
 
 The character gains an Accelerated Supernatural Ability, Solomonic Alchemy, with an initial score of 0.
 
-#### **Solomonic Astrology**
+#### Solomonic Astrology
 
 *Major, Supernatural*
 
 Taking this Virtue gives the character the Accelerated Supernatural Ability of Solomonic Astrology with an initial score of 0.
 
-#### **Solomonic Physic**
+#### Solomonic Physic
 
 *Major, Supernatural*
 
 Taking this Virtue gives the character the Accelerated Supernatural Ability of Solomonic Physic with an initial score of 0.
 
-#### **Solomonic Storytelling**
+#### Solomonic Storytelling
 
 *Major, Supernatural*
 
 Taking this Virtue gives the character the Accelerated Supernatural Ability Solomonic Storytelling with an initial score of 0.
 
-#### **Solomonic Travel**
+#### Solomonic Travel
 
 *Major, Supernatural*
 
 The character gains an initial score of 0 in the Accelerated Supernatural Ability of Solomonic Travel.
 
-#### **Vizier**
+#### Vizier
 
 *Minor, Social Status*
 
@@ -1500,7 +1500,7 @@ The character has been elected as representative for a community of sahirs. This
 
 Only characters with the Sahir Virtue may take this Virtue.
 
-#### **Yatu Magic**
+#### Yatu Magic
 
 *Minor, Supernatural*
 
@@ -1509,23 +1509,23 @@ The sahir's heritage comes from the yatus of Persia (see Mazandaran, Chapter 8).
 
 Faerie auras, and his magical effects can be treated as either Magic or Faerie powers, depending upon which gives him the most favorable (or least unfavorable) aura bonus. He does not gain Warping Points from living in either type of aura.
 
-#### **New and Modified Flaws**
+#### New and Modified Flaws
 
 These Flaws are also designed especially for sahir characters.
 
-#### **Bound Spells**
+#### Bound Spells
 
 *Major, Supernatural*
 
 All of the sahir's spells are bound to a specific spirit when they are invented, the spirit that was present in the laboratory to power the effect. Unlike other sahirs, the character cannot cast his spells through any spirit he summons, but must use the spirit to which the spell is bound. The sahir may easily reinvent a spell in one season that he has learned to cast with another spirit, since he effectively possesses a lab text for that spell.
 
-#### **Patron**
+#### Patron
 
 *Minor or Major, Story*
 
 The character serves an important figure in the Mythic Middle East, such as the caliph, a wealthy emir, an ancient jinni, or a powerful sahir. This person will periodically instruct the character to act on his behalf — the more powerful the patron, the more onerous or frequent the duties that will be required of the character. As a Minor Flaw, the character has the patron's ear, and may influence him and his requests. Also, the patron will generally grant a favor or boon to the character whenever he does something that is asked of him. As a Major Flaw, the character has little choice in the matter and must do whatever his patron asks, or suffer grave consequences. Rewards are not to be expected.
 
-#### **(Realm) Spirit Companion**
+#### (Realm) Spirit Companion
 
 *Minor, Story*
 
@@ -1545,19 +1545,19 @@ Designing sahirs is slightly different from making magi, as the majority of sahi
 
 There are four summoning powers published in other **Ars Magica** supplements that may be used with Solomonic magic, since all can target spirits and originate from the Art of Solomon. These are listed in order of rarity in the Middle East, from most to least, with their variations are summarized as follows. To help distinguish them, different versions of Summoning often have a parenthetical in front of the name, suggesting their particular focus.
 
-#### **(Spirit) Summoning**
+#### (Spirit) Summoning
 
 This Art summons any incorporeal spirit, generally one associated with the same realm as this Art, though Infernal spirits are also common. If the summoning is successful, the spirit is bound until released by the summoner. (Spirit) Summoning is always tainted with the Infernal, and thus Infernal versions are most common, but there are also Faerie and Magic versions. (*Realms of Power: The Infernal*, pages 114-115)
 
-# **(Theurgical) Summoning, or (Elemental) Summoning**
+# (Theurgical) Summoning, or (Elemental) Summoning
 
 Some of this magical tradition's followers summon spirits associated with the elemental forms (Aquam, Auram, Ignem, or Terram). The spirit can come from any realm, and is typically held within a container until released. The power is most commonly Magic, though other realms are possible. It is relatively common in Persia and Asia Minor. *(Hedge Magic Revised Edition*, pages 23-24)
 
-# **(Exotic) Sihr, or (Jinni) Summoning**
+# (Exotic) Sihr, or (Jinni) Summoning
 
 Like Solomonic Sihr, this Iberian version of the Art can summon and bind a jinni, if the sahir can overpower it with his Summoning Total. It is not very common in the Mythic Middle East, since its Solomonic counterpart is so widespread. (*Houses of Hermes: Societates*, pages 135-136)
 
-## **(Realm) Summoning, or (Faerie) Summoning**
+## (Realm) Summoning, or (Faerie) Summoning
 
 This is a rare Summoning variant targeting creatures from a single realm, and so can potentially summon Divine, Faerie, Magic, or Infernal spirits. Currently the only known version summons faeries (*Realms of Power: Faerie*, pages 131-132), and is found among the yatus of Persia and occasional travelers from Europe, though there are also rumors of a far eastern version aligned to the Divine.
 
@@ -1567,7 +1567,7 @@ incomes rather than depending on a covenant, the Wealthy Virtue and Poor Flaw ha
 
 Gifted sahirs should occupy the same status as magi. With the troupe's approval, unGifted sahirs may be Mythic Companions, with twice as many points of Virtues as Flaws and a free Minor Virtue, and taking the place of a magus character. Un-Gifted sahirs can also be played as regular companions with the normal amount of Virtues and Flaws.
 
-#### **Virtues and Flaws**
+#### Virtues and Flaws
 
 Every sahir accepted into the Suhhar Sulayman takes the Free Sahir Social Status Virtue. Unless he takes the Dark Secret Flaw, he should have the Sihr Virtue or another Virtue or Virtues that allow him to summon spirits. For example, a Kurdish group of sorcerers called the Mulhidun in northern Persia (see *Realms of Power: The Infernal*, pages 136-137) have (Spirit) Summoning, and many of them have joined the Suhhar*.* There are also two societies of elemental wizards found throughout the region, called the Brethren of Purity and the Students of Avicenna (see *Hedge Magic Revised Edition*, pages 28–32), and a few of them might have a special elementalist summoning art (Theurgical Summoning) and one or more Elementalist Abilities (e.g., Elementalist Fire) that can be used in conjunction to summon an elemental spirit.
 
@@ -1581,7 +1581,7 @@ Like other characters unaffiliated with a Hermetic covenant, sahirs must spend t
 
 Some sahirs have a long-term mutually beneficial arrangement with a minor spirit, which is best represented by the (Realm) Spirit Companion Flaw. It is not uncommon for young sahirs to have abused or angered spirits before they joined the Suhhar, giving them the Plagued by Spirit or Supernatural Nuisance Flaws.
 
-#### **Experience**
+#### Experience
 
 Sahirs receive starting experience like normal companions. They begin character creation with Native Language at 5 and 45 experience points to spend on their first five years. Then, in later life, most sahirs receive 15 experience points per year of their starting age (those with the Wealthy Virtue receive 20 and those with the Poor Flaw receive 10).
 
@@ -1610,17 +1610,17 @@ Sahirs can also purchase Solomonic spells during character creation, recorded li
 
 Spells are extremely valuable to sahirs, and a starting character should always invest in a minimum of 120 spell levels, or his magic will be severely limited.
 
-#### **Spirits**
+#### Spirits
 
 Spirits are essential for a sahir — without them he cannot cast any spells — and so a good sahir will collect Arcane Connections to appropriate spirits, or learn summoning spells he can use for the same purpose. Also, since the sahir's magic is basically channeled through the spirit he summons, the spirit's nature and personality alters the sahir's magic in subtle ways (in much the same way that spells cast by a Hermetic magus show evidence of his casting sigil). Thus, the unique qualities of the spirit a sahir calls have significant influence on his magic.
 
 A starting sahir should choose one spirit that he can summon to be the focus of most of his magic, and assume that he has an Arcane Connection to it. He should also note something about its personality and powers in order to describe a cosmetic effect that accompanies his magic whenever he involves that spirit. If he has spent any of his experience points on summoning spells, he may choose a spirit for each one. Unless he has a Virtue like Ghostly Warder or a Flaw like Magical Spirit Companion, he cannot assume that any of these spirits will do him any favors without being paid for their services or being compelled by his magic.
 
-#### **Laboratory Activities**
+#### Laboratory Activities
 
 Players can trade 10 experience points during character creation to have their sahirs spend a season in the laboratory instead of studying, but only as many times per year as the character has free seasons. In this season, the character may perform any seasonal summoning activity described under Solomonic Magic. Assume that the character has access to half the maximum amount of vis as he can spend on the activity, and that he is working in an aura with no bonus or penalty. For activities that affect a spirit during character creation, such as the khadim bond or a greater binding, the sahir must have an appropriate Virtue or Flaw that gives him a willing spirit companion.
 
-#### **Aging and Warping**
+#### Aging and Warping
 
 Characters 35 years or older need to make an Aging roll for each year. Note that knowledge of Solomonic Alchemy and Solomonic Physic can influence the character's Aging rolls (see The Solomonic Art, Magical Defenses, later in this chapter). A typical sahir also gains 2 Warping Points each year after he starts studying and practicing Solomonic magic.
 
@@ -1767,7 +1767,7 @@ Whenever a sahir summons a spirit, either using a summoning spell or his summoni
 
 Some summoning arts allow the sahir to summon a spirit even if his total does not exceed the target's Might Score; a negative Summoning Strength means the sahir is less able to direct his magic through that particular spirit, and thus gives him a penalty to his casting total.
 
-#### **Summoning Strength: Summoning Total – spirit's Might Score**
+#### Summoning Strength: Summoning Total – spirit's Might Score
 
 Casting a formulaic spell requires that the sahir's player make a stress roll, to which is added his Presence, his score in the Solomonic art associated with the effect, his Summoning Strength, and his aura modifier. If the sahir performs the effect using an Ability, add his Ability score to the total.
 
@@ -1799,7 +1799,7 @@ Finally, unless the sahir has The Gift, the highest level of formulaic or ritual
 
 When sahirs botch their casting rolls, they receive one Warping Point for each 0 on the botch dice. If this gives them two or more Warping Points, they must check for additional bad effects (see Warping and Corruption, later in this chapter).
 
-#### **Vis (Taqa)**
+#### Vis (Taqa)
 
 Sahirs use a great deal of vis, and they tend to describe it in unique terms, such as "the claw from the black beast Ashmael" or "magic incense made by Istvaan al-Makki." The general term they use is *taqa* (TAWqa), which is also a unit of measurement. For example, a sahir might say he has four taqa in a red stone, warm to the touch; or a single taqa in the pelt of a holy lamb, innocent and pure. One taqa is functionally equivalent to one Hermetic pawn.
 
@@ -1821,7 +1821,7 @@ Most seasonal activities use a standardized total — called a "lab total" for c
 
 score in the Solomonic art associated with the effect, his score in the mundane Ability associated with the lab activity, and his Summoning Strength with the spirit that is assisting him that season. He also receives his aura modifier for performing magic.
 
-#### **Lab Total:**
+#### Lab Total:
 
 **Intelligence + appropriate Solomonic art + appropriate Ability + Summoning Strength + aura**
 
@@ -1831,7 +1831,7 @@ As with spells, unless the sahir has The Gift, all of his effects are limited by
 
 **Lab Effect Level Limit (unGifted): spirit's Might Score**
 
-#### **A Solomonic Laboratory**
+#### A Solomonic Laboratory
 
 Like Hermetic labs, a sahir's work space must be a room protected from the elements with at least 500 cubic paces of space. It requires equipment appropriate to the sahir's fields of expertise and proper organization of materials; this takes a person with an academic and arcane background a single season to set up, after which it may be used with a –3 penalty to all activities.
 
@@ -1845,7 +1845,7 @@ Not counting time spent away from the lab for sleep and weekly religious observa
 
 Sahirs can perform more than one lab activity in a season. Add together the effect levels required for all of the activities, and use the lowest lab total among them. As long as this is great enough to equal or exceed the sum of all effect levels, any number of activities may be performed at once. For those activities where progress is measured by how much the sahir's lab total exceeds the effect level, divide the excess among all activities, rounding down any fractions.
 
-#### **Vis Manipulation**
+#### Vis Manipulation
 
 A sahir with Solomonic Alchemy can extract vis from a supernatural aura as a seasonal activity, concentrating the power of the realm into a specific object. This produces a number of pawns of what magi call Vim vis, equal to one-tenth his Solomonic Alchemy + Philosophiae Lab Total.
 
@@ -1870,7 +1870,7 @@ Sahirs have a limit on the number of pawns of vis they can use on any seasonal a
 
 **Vis Limit: score in associated Solomonic art**
 
-#### **Arcane Connections**
+#### Arcane Connections
 
 Like Hermetic magi, sahirs can fix Arcane Connections, making them permanent. This costs them a pawn of Vim vis, and requires a score of at least 1 in Solomonic Astrology (because of the vis limit). When performing multiple activities in one season, this activity is considered a Level 5 effect.
 
@@ -1928,7 +1928,7 @@ When the wielder activates a greater binding with a ritual effect, the bound spi
 
 A binding is an Arcane Connection to the bound spirit, and the spirit knows the triggering actions to activate the device. For sahirs, investigating enchantments is often as simple as summoning the spirit and asking what it can do.
 
-#### **Seeking and Scouring**
+#### Seeking and Scouring
 
 A sahir can locate new spirits to summon as a seasonal lab activity. This requires knowledge of Solomonic Storytelling, an applicable Area Lore Ability, an Arcane Connection to the area he is searching, and a pawn of form-appropriate vis. The sahir casts a kind of magical net over the area that finds and holds an appropriate spirit. Then, he may either invite the spirit to visit him in his laboratory, which is called seeking, or force the spirit to come to him, which is called scouring. The maximum value of the spirit's Might Score is equal to the sahir's Solomonic Storytelling + Area Lore Lab Total when seeking, or half the that total when scouring.
 
@@ -1940,7 +1940,7 @@ Either activity brings a spirit applicable to the sahir's summoning art by the e
 
 The sahir cannot decide what spirit comes, as the magic targets the area, not individual spirits. This means that the spirit summoned by this activity is essentially up to the storyguide to describe. See the various *Realms of Power* books for powers a summoned spirit might have, and what spirits with different Might Scores look like. In the Mythic Middle East, jinn are common, as are elemental spirits. Infernal spirits are also especially likely (though since it is a form of magical detection, they are never forced to answer a scouring), and Divine spirits are generally unlikely. Ultimately, the storyguide should choose a spirit for the sahir that will enhance the story the players are telling.
 
-#### **Warding**
+#### Warding
 
 A sahir can enchant an area or object with the power to repel spirits appropriate to his summoning art. The sahir devotes a season to preparing the effect, and then draws a mystic circle on the ground or on an object and ceremonially imbues it with magic by spending a pawn of Vim vis. (The vis and the formula for the ward may be taken from the laboratory and used once to enchant a circle drawn in an outside location, as long as both the sahir and the spirit through which he casts it participated in the lab activity.)
 
@@ -1948,11 +1948,11 @@ Any spirits normally targeted by the sahir's summoning art cannot touch the pers
 
 Creating a ward is a Solomonic Travel + (Realm) Lore activity, of the realm affiliated with the sahir's summoning art, and his lab total determines the maximum Might Score the ward can affect.
 
-#### **Maximum Might Score Warded: Solomonic Travel + (Realm) Lore Lab Total**
+#### Maximum Might Score Warded: Solomonic Travel + (Realm) Lore Lab Total
 
 Solomonic wards must penetrate the Magic Resistance of any spirits affected by them. Calculate the sahir's Penetration Total based on the Might of the spirit powering the effect, minus the level of the ward. As with spells, the sahir cannot improve the spirit's Penetration bonus with Arcane Connections, though a supernatural aura at the site of the ward can modify the effect's Penetration Total.
 
-#### **Servant Spirits (**Khuddam**)**
+#### Servant Spirits (Khuddam)
 
 An intelligent spirit that agrees to serve a sahir and assist him with his magic may be enchanted with special properties that help the sahir whenever he casts spells through that spirit. This spirit is called a *khadim* (fem., *khadima;* pl., *khuddam*), meaning "servant," and the enchantment is called "the khadim bond." These terms are thought to derive from the name Al-Khidr, the spirit who served Al-Hajjaj of the First Council among others, and thus "servant" does not have a derogatory or submissive connotation in this context.
 
@@ -1968,7 +1968,7 @@ From then on, whenever the sahir summons and casts spells through that spirit, h
 
 **Enchanting a Khadim: highest Solomonic art + (Realm) Lore Lab Total, equal to spirit's Might Score**
 
-#### Al-Iksir **(The Elixir of Life)**
+#### Al-Iksir (The Elixir of Life)
 
 The secret of Al-Iksir was said to have been brought to the original council by Al-Hajjaj, who received it from Al-Khidr. The sahir summons a spirit into a liquid concocted from vis and other materials and then consumes it, taking properties of the spirit into himself. This frees the spirit and purifies the sahir, giving him a taste of immortality in exchange for experiencing Warping and other effects. The process is intensely personal, and while a sahir can invent his own formula based on another sahir's laboratory text, he cannot make one for anyone but himself.
 
@@ -1977,7 +1977,7 @@ Al-Iksir is a Medicine activity, using any of the traditional Solomonic arts: So
 
 telling nourishes the soul, and Solomonic Travel exposes the sahir to favorable otherworldly environments.
 
-#### **Al-Iksir: highest Solomonic art + Medicine Lab Total**
+#### Al-Iksir: highest Solomonic art + Medicine Lab Total
 
 The process takes a season of effort, and costs a number of form-appropriate pawns of vis equal to the sahir's (Lab Total / 5). This gives him the same number of Al-Iksir Points to spend on the following beneficial effects:
 
@@ -1991,11 +1991,11 @@ Characteristic by 1, though not above the character's starting score.
 
 After the potion is consumed, the sahir must also spend the same number of Al-Iksir Points on the following negative effects:
 
-#### **Al-Iksir Points:** 1
+#### Al-Iksir Points: 1
 
 **Negative Effects:** Gain two Warping Points and check for Fatra Bayna (see Warping and Corruption); Lose memories and associated knowledge, removing a simple die's worth of experience points, usually starting with childhood.
 
-#### **Al-Iksir Points:** 2
+#### Al-Iksir Points: 2
 
 **Negative Effects:** Gain an eccentric Personality Trait at +3, or increase this Trait by 1 if the sahir already has one, which becomes an obsession at +6 and madness at +10.
 
@@ -2007,7 +2007,7 @@ The spirit's Might Score is also temporarily reduced by the number of Al-Iksir P
 
 Once a sahir takes the potion, he begins to age as an adult, even if he is not yet 35 years of age. For this reason, most sahirs wait until they reach old age before concocting Al-Iksir, preferring to experience its dramatic changes much later in life. Note also that sahirs have no way to remove Decrepitude Points, which will continue to accumulate as they gain Aging Points, and which will still eventually lead them to aging crises and death.
 
-#### **Initiating the Arts**
+#### Initiating the Arts
 
 It is a relatively simple process for a Gifted teacher to pass on the Solomonic arts to another student with The Gift. The teacher, a spirit summoned by the teacher, and the student with a summoning art spend a season together in a Solomonic lab, and the teacher performs a powerful ritual that opens all five Solomonic arts. This is a Magic Lore activity that is also associated with Solomonic Travel, but since it has been fully integrated into Solomonic magic, it does not require that the teacher possess that art.
 
@@ -2092,7 +2092,7 @@ Gain a +1 cumulative bonus to all social interactions (leading, teaching and bar
 
 Corruption Points have the following effects, also chosen by the storyguide:
 
-#### **Corruption Points:** 1
+#### Corruption Points: 1
 
 **Effects:** Make an immediate Aging roll, adding the sahir's Warping Score to the total;
 
@@ -2100,7 +2100,7 @@ Suffer a Heavy wound;
 
 Gain a bad Reputation among spirits from the appropriate realm at 2, or increase this Reputation by 1 if the sahir already has one.
 
-#### **Corruption Points:** 3
+#### Corruption Points: 3
 
 **Effects:** Gain a –1 penalty to all social interactions, which is cumulative with the effects of The Gift and similar Flaws; Gain a Minor Flaw appropriate to the experience, or lose a Minor Virtue.
 
@@ -2108,13 +2108,13 @@ Other sahirs and spirits who are familiar with the sahir can usually tell, upon 
 
 ## New Hermetic Virtues
 
-#### **Scientates Suleimanis**
+#### Scientates Suleimanis
 
 *Major, Hermetic (Hermetic Breakthrough)*
 
 This breakthrough Virtue allows a magus to invent and cast spells that use any of the non-Ritual Solomonic guidelines, using Rego with a Form appropriate to the target. This is similar to craft magic, where magi produce goods through magic labor. For example, a magus with this Virtue could use ReTe to duplicate the alchemical process by which a gem's quality is enhanced, or ReCo to encourage the body to recover fatigue more quickly.
 
-#### **Hermetic Realm Initiation**
+#### Hermetic Realm Initiation
 
 *Major, Hermetic (Hermetic Breakthrough)*
 
@@ -2126,17 +2126,17 @@ There is always the possibility that peaceful voices will prevail, and that magi
 
 # New Solomonic Virtues
 
-#### **Spontaneous Solomonic Spells**
+#### Spontaneous Solomonic Spells
 
 *Major, Supernatural (Major Breakthrough)* The sahir possessing this Breakthrough Virtue can cast formulaic spells spontaneously, the same way as magi do. To do this he must either lose a Fatigue level and divide his Casting Total by 2, or not roll the stress die and divide his Casting Total by 5.
 
-#### **Independent Solomonic Magic**
+#### Independent Solomonic Magic
 
 *Major, Supernatural (Solomonic Breakthrough)*
 
 The sahir can cast and maintain Solomonic spells without channeling them through a spirit. This does not add his Summoning Strength to his Casting Total, and uses his Penetration Total instead of the spirit's. If he is unGifted, his independent spells and effects cast this way have no maximum level.
 
-#### **Hermetic True Names**
+#### Hermetic True Names
 
 *Minor Breakthrough*
 
@@ -2145,32 +2145,32 @@ Experimenting with True Names and Solomonic summoning spells has led the magus t
 
 be taught or written into a lab text for others to invent.
 
-#### **Scientates Suleimanis**
+#### Scientates Suleimanis
 
 *Hermetic Breakthrough*
 
 By studying the Solomonic arts and the Abilities associated with them, the magus gains Insight into the way Solomonic magic allows sahirs to duplicate natural effects associated with science, emotions, and the supernatural realms. The magus then invents experimental Rego spells that produce similar effects. Once the breakthrough is achieved and the associated Virtue distributed, magi will be able to duplicate any Solomonic formulaic spell, including those overcoming the Limit of Energy.
 
-#### **Hermetic Realm Initiation**
+#### Hermetic Realm Initiation
 
 *Hermetic Breakthrough*
 
 After undergoing the initiation himself, instead of gaining a Solomonic art, the magus gains Insight into the Solomonic initiation process. This might produce a spell to warp another person with magic, or a ritual to open him to a Virtue possessed by the caster. This research eventually leads to a breakthrough with which the magus may initiate others into new Supernatural or Hermetic Virtues without the secrecy and lore of a Mystery Cult. Soon powerful magi may even learn to teach Hermetic magic to the unGifted, by initiating them into each Art.
 
-#### **Solomonic Devices**
+#### Solomonic Devices
 
 *Minor Breakthrough*
 
 The sahir must study enchanted items made with Hermetic magic, which gives him Insight towards bindings made with similar effects. Through experimentation, he learns to build devices that do not require a spirit, but maintain concentration on their own. This discovery likely leads to a great wealth of invested items throughout the Mythic Middle East and beyond, as sahirs would be free to create items with lasting effects without having to bind spirits to them.
 
 
-#### **Spontaneous Solomonic Spells**
+#### Spontaneous Solomonic Spells
 
 *Major Breakthrough*
 
 Sahirs would greatly benefit from the ability to cast spells they have not memorized. Studying Magic Theory provides Insight into this practice, perhaps yielding formulaic spells for which the sahir can change the parameters as he casts them. The Major Virtue this project produces would allow sahirs to cast spontaneous spells in the same way as magi, dividing their Casting Total by 2 or by 5. Because sahirs would need less time in their laboratories inventing new spells, this discovery could lessen the importance of buyut alhikma throughout the Suhhar, as more sahirs might prefer seeking out more spirits or other adventuring activities during their free seasons to learning new spells.
 
-#### **Independent Solomonic Magic**
+#### Independent Solomonic Magic
 
 *Solomonic Breakthrough*
 
@@ -2191,7 +2191,7 @@ Sahirs use Sihr to summon jinn, and to provide mystic force behind the bargain t
 
 Sihr is said to originate from the legendary Art of Solomon, and is sometimes referred to as Solomonic Sihr, or (Solomonic) Summoning. It is very similar to the Sihr that is still practiced in Iberia, though the two traditions split almost two hundred years ago. Solomonic Sihr is slightly more compatible with Solomonic magic, though sahirs can use either version.
 
-#### **Discerning Jinn**
+#### Discerning Jinn
 
 Before a jinni is summoned, the sahir should study it to determine its strength. If the sahir can see spirits (with Second Sight, for example), then he can directly observe the jinni in its native habitat, and it takes him just a single round to make the necessary assessment. Without magical help, the sahir must use his knowledge of the local area to gather sufficient information about the spirit who dwells there; the player should make an Intelligence + (Area) Lore roll against an Ease Factor of 6 to discover the Form that the jinni takes and its likely powers. It takes about an hour for the sahir to make this assessment.
 
@@ -2199,7 +2199,7 @@ Once this preliminary research has been performed, the sahir can attempt to disc
 
 **Discern Might: Intelligence + (Realm) Lore + stress die against Ease Factor of 9**
 
-#### **Summoning Jinn**
+#### Summoning Jinn
 
 Once discerned, the sahir may summon the jinni and attempt to bind it into service. This summons requires the jinni to be within range of the sahir's voice, or else he needs an Arcane Connection. The summons takes at least 15 minutes to perform, during which the sahir chants words of command, makes prescribed gestures, and draws symbols on the ground.
 
@@ -2219,7 +2219,7 @@ A failed summons has no effect, though the sahir can try again at the cost of a 
 
 The sahir can spend extra time on a summons; each additional 15 minutes causes him to lose a long-term Fatigue level and adds another botch die to the Summoning roll, but provides a +5 bonus to his Penetration Total. He can also spend vis, each pawn of the appropriate form giving him a +2 bonus to his Summoning Total, or a +1 bonus for each pawn of any other type.
 
-#### **Bargaining with the Jinni**
+#### Bargaining with the Jinni
 
 After the jinni arrives, the sahir must bargain with it to gain its services. The power of Sihr ensures that the jinni cannot depart or attack until a bargain is struck or they have agreed no bargain can be achieved. A sahir who refuses to bargain releases the jinni from making a pact. "Bargain" may be misleading; a skilled sahir can obtain the services of a weak jinni without offering anything in return. The arrangement is magically enforced: the jinni cannot break the terms unless the sahir reneges first, and most jinn will obey the spirit of the agreement if treated well. A sahir can attempt to strike a bargain with
 
@@ -2229,7 +2229,7 @@ any jinn, not just those he has summoned — for example, renegotiation followin
 
 **Bargaining Total: Communication + Bargain + Summoning Strength + stress die**
 
-#### **Ease Factor: 18 + bargaining modifiers**
+#### Ease Factor: 18 + bargaining modifiers
 
 | Situation                                  | Modifier |
 |--------------------------------------------|----------|
@@ -2272,15 +2272,15 @@ A failed Bargaining Total results in a failure to make a bargain, and the jinni 
 
 The description of Solomonic Sihr assumes that the power is aligned to the Magic realm, which is its most common form. However, versions of Sihr aligned to other realms have the following mechanical changes:
 
-#### **Faerie Sihr**
+#### Faerie Sihr
 
 The sahir adds the value of his highest good Reputation to his Bargaining Total, subtracts his highest bad Reputation, and does not apply any other negative Reputations to his Bargaining modifier. The storyguide rules whether a particular Reputation is good or bad. (Sympathy Traits and Faerie Rank also apply to this roll, if you are using the rules from *Realms of Power: Faerie*.)
 
-#### **Divine Sihr**
+#### Divine Sihr
 
 Though the sahir has no foreign aura penalties to his Summoning Total, he cannot offer vis, which always increases the Ease Factor of the Bargaining Total by twice the magnitude of the jinni's Might Score.
 
-#### **Infernal Sihr**
+#### Infernal Sihr
 
 Failure on the Bargaining Total does not automatically permit the jinni to depart, and the sahir can hold it prisoner and continue to try and coerce it for as long as he likes, though each subsequent attempt costs him a Fatigue level. The storyguide should lower the Bargaining Total Ease Factor the longer the jinni is held captive: –1 after a day, –2 after a season, and –3 after a year.
 
@@ -2288,11 +2288,11 @@ Failure on the Bargaining Total does not automatically permit the jinni to depar
 
 The supernatural realm to which the jinni is aligned can greatly influence the duty that it sets the sahir. Infernal jinn typically demand sinful duties, while faerie jinn want human attention, and magic jinn desire power and wealth. (See Chapter 4: Jinn, for more details.)
 
-#### **Small Duties**
+#### Small Duties
 
 These include cleansing or protecting the jinni's home, guarding a human family to which the jinni has become attached, retrieving stolen wealth, writing a poem in praise of the jinn, providing rare commodities such as frankincense or rubies, or obtaining vis from a particular source.
 
-#### **Heavy Duties**
+#### Heavy Duties
 
 These include fighting wizards who seek to enslave jinn, freeing slaves from captivity, playing a jest on an important local figure, delivering the heart of an enemy, traveling to a supernatural realm where the jinni cannot go, or procuring a unique item such as a book written in Solomon's own hand.
 
@@ -2306,11 +2306,11 @@ Any vis offered by the sahir during the summoning is part of the terms of the ba
 
 In the same way magi receive supernatural bonuses from their Form scores, sahirs have an innate form of "magical defense" from their Solomonic arts. Divide the sahir's score in each art by 5 to determine his Magical Defense Bonus, and see later for the specific applications of each art.
 
-#### **Solomonic Alchemy**
+#### Solomonic Alchemy
 
 From regular exposure to magic, the sahir's body is rarefied, making him stronger, better able to endure hardship, and more resistant to physical dangers. Add his bonus to Soak, subtract it from Aging rolls (this is cumulative with Solomonic Physic), and add it to Strength when calculating what he can carry without penalty.
 
-#### **Solomonic Astrology**
+#### Solomonic Astrology
 
 Because of his heightened understanding of the heavenly signs and what they predict about the future, the sahir is more aware of events before they happen, and thus he is less likely to be surprised. Add his bonus to all of his Initiative rolls, and to his Perception rolls associated with alertness or with intuition. This also positively influences his experimentation in the laboratory.
 
@@ -2318,21 +2318,21 @@ may offer vis of a different type than the jinni's form, but it is less compelli
 
 Note that sahirs with The Gift typically suffer a penalty to all social interactions, which affects this total. (Unlike the Parma Magica, Magic Resistance does not protect supernatural beings against the negative aura of those with The Gift, though some magical beings are immune to the effects.)
 
-#### **Solomonic Physic**
+#### Solomonic Physic
 
 The sahir with knowledge of Solomonic Physic is generally healthier. Add his bonus to his Recovery rolls and subtract it from Aging rolls (this is cumulative with Solomonic Alchemy). In addition, he becomes less noticeable: add his bonus to rolls that involve being stealthy or unobtrusive, including his Defense when he is not attacking.
 
-#### **Solomonic Storytelling**
+#### Solomonic Storytelling
 
 The sahir's presence is enhanced, giving him the bonus to rolls for non-magical social activities (cumulative with the bonus from Fatra Bayna) and increasing his Leadership score when commanding spirits or managing a laboratory. Also, he is more resistant to powers that target emotions; add his bonus to any rolls involving his Personality Traits.
 
-#### **Solomonic Travel**
+#### Solomonic Travel
 
 Exposure to the supernatural allows the sahir to add his bonus to otherworldly navigation rolls, and add or subtract it from his Fatra Bayna Avoidance rolls. He may also add this bonus to Stamina rolls to avoid fatigue, and to his Concentration and Finesse rolls when controlling his magic or resisting supernatural influences.
 
 A sahir can only bind a limited number of jinn in service to him at a time, equal to his Leadership score plus one — even a sahir with no Leadership score can command at least one jinni.
 
-#### **Maximum Number of Bound Jinn: Leadership + 1**
+#### Maximum Number of Bound Jinn: Leadership + 1
 
 Solomonic Sihr is the most common summoning art in the Mythic Middle East. It is usually aligned with the Magic realm, though there are Divine, Faerie, and Infernal versions, each with slight functional differences (see the Non-Magic Sihr sidebar).
 
@@ -2358,11 +2358,11 @@ provided by an apothecary, and many sahirs make their living collecting and sell
 
 See *Art and Academe* for more examples of alchemical effects.
 
-#### **Solomonic Alchemy Spell Formulas**
+#### Solomonic Alchemy Spell Formulas
 
 The spells given here are specially designed for Solomonic Alchemy.
 
-#### **Sanctuary in the sand**
+#### Sanctuary in the sand
 
 Solomonic Alchemy Level 5 Alteration: Minor
 
@@ -2370,7 +2370,7 @@ This spell instantly purifies the area immediately surrounding the sahir (10 cub
 
 (Base 3, +1 Minor, +1 size)
 
-#### **[Spirit]'s oasis**
+#### [Spirit]'s oasis
 
 Solomonic Alchemy Level 5 Alteration: Slight, Ritual
 
@@ -2380,7 +2380,7 @@ The sahir mixes a pawn of vis and a cubic pace of sand, and changes it into a po
 
 (Base 5)
 
-#### **Cracks in the earth, [Spirit] weakens the ground**
+#### Cracks in the earth, [Spirit] weakens the ground
 
 Solomonic Alchemy Level 10 Alteration: Substantial
 
@@ -2388,7 +2388,7 @@ With this spell, the sahir diminishes the cold, cohesive property of earth, caus
 
 (Base 4, +2 Substantial)
 
-#### **Summon forth the purest flame, to set alight those who oppose us**
+#### Summon forth the purest flame, to set alight those who oppose us
 
 Solomonic Alchemy Level 15
 
@@ -2398,7 +2398,7 @@ The sahir takes a barely inflammable object like a damp cloth or a piece of wood
 
 (Base 4, +3 Major)
 
-#### **The wind is my armor, my armor is the wind**
+#### The wind is my armor, my armor is the wind
 
 Solomonic Alchemy Level 15 Alteration: Slight, Ritual When preparing for a long journey, the sahir casts this spell upon his mail hauberk. This costs three pawns of vis and transforms the heavy, worked metal into light, spun threads of cloth for the duration of the effect. The sahir typically instructs his spirit to drop the effect just before he goes into battle, which also frees the spirit to focus on other spells while the sahir is fighting.
 
@@ -2431,7 +2431,7 @@ enters battle, he sends forth his guardian angel to touch the armor of one of hi
 
 (Base 10, +1 size)
 
-#### **Bear me upon breath of stone**
+#### Bear me upon breath of stone
 
 Solomonic Alchemy Level 20 Alteration: Minor, Ritual
 
@@ -2441,7 +2441,7 @@ The sahir lights a bonfire that produces a great deal of smoke, and after he sac
 
 (Base 15, +1 Minor)
 
-#### **What Jabir found inside the rock**
+#### What Jabir found inside the rock
 
 Solomonic Alchemy Level 20 Alteration: Major
 
@@ -2451,7 +2451,7 @@ Sahirs are not supposed to trade "magic things" to people who do not belong to t
 
 (Base 5, +3 Major)
 
-#### **Rain of heavenly fire**
+#### Rain of heavenly fire
 
 Solomonic Alchemy Level 30 Alteration: Substantial, Ritual
 
@@ -2461,7 +2461,7 @@ Members of the Suhhar can usually recognize this spell by the way it leaves behi
 
 (Base 5, +2 Substantial, +3 size)
 
-#### **The vigilant guardian**
+#### The vigilant guardian
 
 Solomonic Alchemy Level 30 Alteration: Major, Ritual
 
@@ -2469,7 +2469,7 @@ With this spell, the sahir animates a stone statue of up to 10 cubic feet in siz
 
 (Base 10, +3 Major, +1 size)
 
-#### **The wondrous box of Al-Fazari**
+#### The wondrous box of Al-Fazari
 
 Solomonic Alchemy Level 35 Alteration: Minor, Ritual
 
@@ -2498,11 +2498,11 @@ When used with Artes Liberales to disguise or augment his casting, the sahir mus
 
 *Art & Academe* has more examples of astrological effects that sahirs can duplicate.
 
-#### **Solomonic Astrology Spell Formulas**
+#### Solomonic Astrology Spell Formulas
 
 The spells given here are specially designed for Solomonic Astrology.
 
-#### **The blessed day, the apt day**
+#### The blessed day, the apt day
 
 Solomonic Astrology General Detail: Basic, Ritual
 
@@ -2540,7 +2540,7 @@ ous, however, the preparation of this spell is considered to be exceptionally wi
 
 (Base effect, +1 Basic, +2 immediate future)
 
-#### **The picture of [Target]**
+#### The picture of [Target]
 
 Solomonic Astrology Level 5 Detail: Binary, Ritual
 
@@ -2550,7 +2550,7 @@ When the duration of the effect ends, the Arcane Connection immediately fades. U
 
 (Base 5)
 
-#### **What is the state of [Target]'s health?**
+#### What is the state of [Target]'s health?
 
 Solomonic Astrology Level 5
 
@@ -2562,7 +2562,7 @@ If the target has Magic Resistance, this effect must Penetrate to provide an ans
 
 (Base 3, +2 Brief)
 
-#### **Is [Target] a spirit?**
+#### Is [Target] a spirit?
 
 Solomonic Astrology Level 10 Detail: Brief
 
@@ -2572,7 +2572,7 @@ a spirit or not, and if so, what type of spirit and approximately how powerful i
 
 (Base 4, +2 Brief)
 
-#### **Where is [Target] at this moment?**
+#### Where is [Target] at this moment?
 
 Solomonic Astrology Level 10 Detail: Brief
 
@@ -2580,7 +2580,7 @@ The sahir concentrates upon his question (and perhaps draws a horoscope for the 
 
 (Base 4, +2 Brief)
 
-#### **What are the words that surround [Target]?**
+#### What are the words that surround [Target]?
 
 Solomonic Astrology Level 15 Detail: Thorough, Ritual
 
@@ -2588,7 +2588,7 @@ The sahir concentrates upon his target, and for as long as his spirit keeps the 
 
 (Base 4, +3 Thorough)
 
-#### **Hearing the heart's speech**
+#### Hearing the heart's speech
 
 Solomonic Astrology Level 20
 
@@ -2600,7 +2600,7 @@ There is a fairly common version of this spell invented by a sahir named Dawud a
 
 (Base 5, +3 Thorough)
 
-#### **What do [Target]'s enemies intend?**
+#### What do [Target]'s enemies intend?
 
 Solomonic Astrology Level 25 Detail: Brief, Ritual
 
@@ -2608,7 +2608,7 @@ This ritual spell costs five pawns of vis and gives the sahir a premonition abou
 
 (Base 15, +2 Brief)
 
-#### **When and where was [Target] born?**
+#### When and where was [Target] born?
 
 Solomonic Astrology Level 25
 
@@ -2717,11 +2717,11 @@ When disguising or supplementing his magic with Medicine, the sahir must adminis
 
 Additional examples of medicinal effects that sahirs can duplicate with magic may be found in *Art and Academe*.
 
-#### **Solomonic Physic Spell Formulas**
+#### Solomonic Physic Spell Formulas
 
 The spells given here are specially designed for Solomonic Physic.
 
-#### **Balm of the barmakids**
+#### Balm of the barmakids
 
 Solomonic Physic General Potency: Mild
 
@@ -2729,7 +2729,7 @@ The target receives a bonus (or penalty) to his next Recovery roll for a Light W
 
 (Base effect, +1 Mild)
 
-#### **Strings of the sanguine heart**
+#### Strings of the sanguine heart
 
 Solomonic Physic General Potency: Moderate, Ritual
 
@@ -2739,7 +2739,7 @@ When casting this spell while incorporating principles of Medicine, the sahir ty
 
 (Base effect, +2 Moderate)
 
-#### **Rend his flesh and tear his organs**
+#### Rend his flesh and tear his organs
 
 Solomonic Physic General
 
@@ -2751,7 +2751,7 @@ If cast as a ritual spell, the effect can be held dormant by the spirit and rele
 
 (Base effect, +2 Moderate)
 
-#### **[Spirit] sits on the fever's edge**
+#### [Spirit] sits on the fever's edge
 
 Solomonic Physic General Potency: Strong
 
@@ -2761,7 +2761,7 @@ Magos al-Laqis al-Abyad al-Sakhr causes his patient to briefly feel completely a
 
 (Base effect, +3 Strong)
 
-#### **Insight of the ancient jinn**
+#### Insight of the ancient jinn
 
 Solomonic Physic, General Potency: Weak, Ritual
 
@@ -2771,7 +2771,7 @@ ily increases by a number of points equal to (the magnitude of this effect – 3
 
 (Base effect)
 
-#### **The hollowing curse**
+#### The hollowing curse
 
 Solomonic Physic, General Potency: Mighty, Ritual
 
@@ -2781,7 +2781,7 @@ It is said that the Ashab al-Yad prefer not to murder their enemies (all sahirs 
 
 (Base effect, +4 Mighty)
 
-#### **Siphoning the warrior's bile**
+#### Siphoning the warrior's bile
 
 Solomonic Physic Level 15 Potency: Moderate, Ritual
 
@@ -2799,7 +2799,7 @@ Many sahirs cast this on themselves as a ritual spell, instructing the spirit to
 
 (Base 5, +4 Mighty)
 
-#### **Close the red wounds of war**
+#### Close the red wounds of war
 
 Solomonic Physic Level 30
 
@@ -2811,7 +2811,7 @@ Because it is a ritual spell, for as long as the spirit maintains the effect, th
 
 (Base 10, +4 Mighty)
 
-#### **Jabril's blessing**
+#### Jabril's blessing
 
 Solomonic Physic Level 40 Potency: Mighty, Ritual
 
@@ -2843,11 +2843,11 @@ the circumstances; Ease Factor 3 might be appropriate for a group relaxing aroun
 
 Some Storytelling ritual spells produce what might be called "mental species." These affect the mind directly, creating illusions of perception that are solid and in all senses real for anyone who does not resist them. An illusion of flames is not actually hot, and an illusory ceiling does not actually keep out the weather, but the illusion masks outward signs so that those affected simply do not perceive them. A guest in an illusory house might become suspicious when he still has a chill after sitting by the fire, or when he feels rain falling despite the thick roof above him.
 
-#### **Solomonic Storytelling Spell Formulas**
+#### Solomonic Storytelling Spell Formulas
 
 The spells given here are specially designed for Solomonic Storytelling.
 
-#### **The tongue has no bone, yet it crushes**
+#### The tongue has no bone, yet it crushes
 
 Solomonic Storytelling Level 5 Allure: Emotional
 
@@ -2855,7 +2855,7 @@ The sahir casts this naranj at his audience, causing those affected to feel prof
 
 (Base 4, +1 Emotional)
 
-#### **Wrathful breath of the desert wind**
+#### Wrathful breath of the desert wind
 
 Solomonic Storytelling Level 5 Allure: Simple, Ritual
 
@@ -2863,7 +2863,7 @@ The target's image is changed to appear as a skeleton, with all of his flesh rem
 
 (Base 5)
 
-#### **Move along, move along**
+#### Move along, move along
 
 Solomonic Storytelling Level 10
 
@@ -2873,7 +2873,7 @@ With this naranj, the sahir convinces a weak-minded audience to obey an innocuou
 
 (Base 3, +3 Ease Factor)
 
-#### **[Spirit], his arms wide**
+#### [Spirit], his arms wide
 
 Solomonic Storytelling Level 10 Allure: Simple
 
@@ -2934,7 +2934,7 @@ Some of the Nizari Isma'ili are rumored to plot assassinations using this spell,
 
 (Base 4, +2 Ease Factor)
 
-#### **Make their eyelids heavy and their heads to fall**
+#### Make their eyelids heavy and their heads to fall
 
 Solomonic Storytelling Level 15 Allure: Supernatural
 
@@ -2944,7 +2944,7 @@ To add his Area Lore to his total, the sahir usually tells a familiar story in a
 
 (Base 4, +3 Supernatural)
 
-#### **Peal of familiar voices**
+#### Peal of familiar voices
 
 Solomonic Storytelling Level 15 Allure: Emotional
 
@@ -2952,7 +2952,7 @@ The sahir's audience is inspired with a feeling of loyalty and cooperative enthu
 
 (Base 4, +1 Emotional, +2 Ease Factor)
 
-#### **A light distraction**
+#### A light distraction
 
 Solomonic Storytelling Level 20 Allure: Supernatural, Ritual
 
@@ -2960,7 +2960,7 @@ This spell causes the sahir's image to explode in a blinding flash of flame and 
 
 (Base 5, +3 Supernatural)
 
-#### **You will not remember me when I am gone**
+#### You will not remember me when I am gone
 
 Solomonic Storytelling Level 20 Allure: Unsuspecting
 
@@ -2968,7 +2968,7 @@ Through his performance, the sahir causes his audience to remember a completely 
 
 (Base 10, +2 Unsuspecting)
 
-#### **Sow the seeds for a crop of betrayers**
+#### Sow the seeds for a crop of betrayers
 
 Solomonic Storytelling Level 25 Allure: Unsuspecting
 
@@ -2978,7 +2978,7 @@ If they are prevented from fulfilling their orders, the desire to comply will fa
 
 (Base 10, +2 Unsuspecting, +1 Ease Factor)
 
-#### **[Spirit]'s cave**
+#### [Spirit]'s cave
 
 Solomonic Storytelling Level 30 Allure: Unsuspecting, Ritual
 
@@ -3002,11 +3002,11 @@ These effects have one parameter, Delay, which determines how long the sahir mus
 
 The sahir can perform a mystic ceremony to augment his Casting Total, or to disguise his casting. This requires him to have a (Realm) Lore score of at least 3 (of the realm appropriate to the effect), consume special materials appropriate to the realm (e.g., candles, incense, offerings, sacrifices, etc.), and he must describe the effect upon the target with pictures or words. For example, a divine ceremony might require the burning of white candles and sweet incense while chanting appropriate passages of the *Qur'an* and inscribing them on the target.
 
-#### **Solomonic Travel Spell Formulas**
+#### Solomonic Travel Spell Formulas
 
 The spells given here are specially designed for Solomonic Travel.
 
-#### **[Spirit] brings the curse of Bayna**
+#### [Spirit] brings the curse of Bayna
 
 Solomonic Travel General
 
@@ -3016,7 +3016,7 @@ This effect causes an individual target that the sahir touches to immediately ga
 
 (Base effect, +3 Immediate, +1 additional Warping Point)
 
-#### **The hush of solitude**
+#### The hush of solitude
 
 Solomonic Travel General Delay: Immediate
 
@@ -3069,7 +3069,7 @@ Level 50, it can cancel another effect of up to Level 80. The sahir must mark th
 
 (Base effect, +3 Immediate)
 
-#### **Through the gray haze**
+#### Through the gray haze
 
 Solomonic Travel General
 
@@ -3081,7 +3081,7 @@ While this naranj works on boundaries aligned with any realm, the sahir may only
 
 (Base effect, +2 Sun)
 
-#### **To the highest mountains of Qaf**
+#### To the highest mountains of Qaf
 
 Solomonic Travel General
 
@@ -3091,7 +3091,7 @@ When cast from within a supernatural aura, this spell opens a passage into the F
 
 (Base effect)
 
-#### **Warm as the life of day**
+#### Warm as the life of day
 
 Solomonic Travel General Delay: Immediate
 
@@ -3102,7 +3102,7 @@ This naranj may be used to restore Might Points to the spirit through which it i
 
 target's Might, not the spirit's own power. (Base effect, +3 Immediate)
 
-#### **We will meet again as the seasons turn**
+#### We will meet again as the seasons turn
 
 Solomonic Travel General Delay: Season, Ritual
 
@@ -3110,7 +3110,7 @@ From within a supernatural aura, the sahir draws the outline of a portal that wi
 
 (Base effect)
 
-#### **Sight of many lifetimes**
+#### Sight of many lifetimes
 
 Solomonic Travel Level 25 Delay: Immediate
 
@@ -3118,7 +3118,7 @@ The target touched by the sahir is briefly exposed to the harsh, timeless powers
 
 (Base 10, +3 Immediate)
 
-#### **The magical minaret**
+#### The magical minaret
 
 Solomonic Travel Level 30 Delay: Immediate, Ritual
 
@@ -3131,7 +3131,7 @@ As this is a ritual spell, the sahir can open and close the window by concentrat
 
 (Base 15, +3 Immediate)
 
-#### **By the light of the ominous moon**
+#### By the light of the ominous moon
 
 Solomonic Travel Level 30 Delay: Moon, Ritual
 
@@ -3141,7 +3141,7 @@ Sahirs generally circumvent the delay by casting the spell during a full moon.
 
 (Base 25, +1 Moon)
 
-#### **The oubliette** al-wazir
+#### The oubliette al-wazir
 
 Solomonic Travel Level 45 Delay: Immediate, Ritual
 
@@ -3229,7 +3229,7 @@ Af'aa ("Snake"), Arnab ("Hare"), Baghl ("Mule"), Fa'r ("Mouse"), Feel ("Elephant
 
 Finally, many Faerie jinn have names that seem almost human but have an unreal or dissonant quality to them, for example: Anees al-Galees, Jerjees, Kabikaj, Kharrat, Khyron, Qumqam, Singam, Sakr, Zamzam, Zarmabaha. Troupes are encouraged to generate these latter names by changing some of the letters of Arabic, Aramaic, Turkish or Persian names at random.
 
-## **Story Seed: The List of Suleiman**
+## Story Seed: The List of Suleiman
 
 King Suleiman was granted dominion over all jinn by God and many sahirs believe that the Art of Sihr is directly descended from his powers. Legends speak of a codex written by the prophet containing the True Names of all jinn, a priceless treasure for any summoner. The list can reputedly update and edit itself magically as jinn are born and die.
 
@@ -3251,7 +3251,7 @@ This lesser jinni has been created as an example starting magus-level character 
 
 Jumayl may be found in any major city in the region or even the ports of the Levant, but he favors the bustling markets around the fortress of al-Mushaqqar in Bahrayn (see Chapter 6: Mythic Arabia), where well-paid work and cheap alcohol can be easily found.
 
-#### **Jumayl**
+#### Jumayl
 
 **Faerie Might:** 15 (Vim)
 
@@ -3277,7 +3277,7 @@ Jumayl may be found in any major city in the region or even the ports of the Lev
 
 **Pretenses:** Animal Handling 3 (camels), Athletics 3 (running), Mythic Middle East Lore 4 (trade routes), Awareness 3 (alertness), Brawl 3 (dagger), Bows 5 (short bow), Carouse 2 (power drinking), Faerie Speech 5, al-Mushaqqar Lore 2 (drinking establishments), Faerie Lore 3 (jinn), Folk Ken 4 (mercenaries), Leadership 4 (battle), Ride 3 (camels), Second Sight 3 (jinn), Single Weapon 7 (long sword), Survival 2 (deserts), Theology: Islam 1 (jinn), Wilderness Sense 3 (find water).
 
-#### **Powers:**
+#### Powers:
 
 *Cuirass of the Zephyr,* 1 point, Init +3, Auram; *as Circling Winds of Protection*  with Duration of Recitation / Qira'a (as long as Jumayl keeps reciting verses of the *Qur'an* — equivalent to Concentration).
 
@@ -3314,7 +3314,7 @@ Most of these Faerie-aligned jinn share the following Virtues and Flaws in addit
 
 Beloved by his master, a young Bedouin sahir named Salih al-Kamil, this jinni takes the form of an exceptional Arabian stallion renowned for his racing ability. His magical travel powers and lack of fatigue allow him to cheat during the dust and confusion of longer desert races. This gives his master great status and pride, feeding his need for Vitality, but is also the source of continual harassment from horse breeders wishing to mate their mares in the hope of producing talented offspring. As they are unaware of the Faerie nature of the horse, such suitors do not realize that time out at stud deprives his master of his magical aid and that such unions will always be unsuccessful in producing foals.
 
-#### **Bali' al-Ard**
+#### Bali' al-Ard
 
 **Faerie Might:** 5 (Animal)
 
@@ -3395,7 +3395,7 @@ So popular has this motif become in Arab folklore that a particular type of Faer
 
 **Reputations:** Terrifyingly magical +3 **Pretenses:** Penetration 6, Theology: Islam 1 (jinn)
 
-#### **Powers:**
+#### Powers:
 
 *Binding Oath*, 5 points, Init –19, Vim; Voice, Penetration +15; Upon "releasing" the apparently captive 'afrit from its prison, the rescuer can bargain for a set three wishes or a length of conditional service depending on the personality of the individual Faerie jinni, provided he agrees to destroy the cucurbite and permanently release the jinni from captivity. 50 levels, Ritual Power, 5 Intricacy points spent on reduced cost.
 
@@ -3424,7 +3424,7 @@ Examples of Faerie jinn with details of some of the Virtues, Flaws and powers me
 
 Faerie jinni counterparts to many European faeries exist within the Mythic Middle East and can be adapted for use in a saga set in the Mythic Middle East, see the Faerie Bestiary of *Realms of Power: Faeries*, pages 70–83, for further details.
 
-#### **Pre-Islamic Jinn**
+#### Pre-Islamic Jinn
 
 Long ago during al-Jahiliyya, the pre-Islamic times of the past, Faerie jinn claiming Jewish and Christian beliefs were common. Even in the days before the Great Deluge, the jinn are purported to have followed the original monotheistic religion of Adam. Such jinn would be also considered Faerie rather than Magic in alignment, but are seemingly rare in the thirteenth century.
 
@@ -3449,7 +3449,7 @@ The creature 'Abd al-Qininna reflects a reasonably powerful version of this moti
 
 Although bottles are the commonest form for the cucurbite prop, similar Faerie jinni prisons have been described that manifest as brass rings, bowls, or most famously as a battered lamp. The creature portrayed in the Aladdin story would be more powerful than the one described here, perhaps with a Might of 50 or more and extra magical powers. An intermediate example with a Faerie Might of only 20 would simulate the "Slave of the Ring" in the Tale of Aladdin or one of the lesser jinni initially called upon by Suleiman to fetch the throne of Balqis, Queen of Sheba.
 
-#### **Three Wishes?**
+#### Three Wishes?
 
 Many captive Faerie jinn are compelled by their story to bargain or create a contract with their rescuer. Typically, such jinn offer three wishes, within their power, using their Binding Oath Ritual Power. The price of the compact is usually the promise of release from further imprisonment once service has been rendered. Breaking the contract inflicts a Major Flaw. Depending on how carefully the party promising release has couched the terms of the contract, this Flaw may either allow the 'afrit to angrily depart, cursing its arrogant rescuer with a poor reputation (Faerie Antipathy, Major) or to remain and torment the foolish knave until driven off (Plagued by Supernatural Entity).
 
@@ -3463,7 +3463,7 @@ Unlike their Faerie and Infernal cousins, Magic jinn are not automatically susce
 
 The great Daimon of the Empty Quarter, Al-Khalil, mentioned in Chapter 6: Mythic Arabia, the jinni at the base of the Whirlpool of Uballa (Chapter 7: Mythic Mesopotamia) or the feared ruler of the Taklimakan (Chapter 9: On the Silk Road) would all be appropriate to design as powerful Magic jinn.
 
-# **Creating Magic Jinn by Example: Baghl and Ighraq al-Siq**
+# Creating Magic Jinn by Example: Baghl and Ighraq al-Siq
 
 **Baghl,** see insert earlier, has been created by using the lesser flame jinni Wahhab from *Houses of Hermes: Societates,*  page 135, as a starting point, changing his Form alignment to Terram but retaining his resistance to flames. He is an example of a lesser earth jinni that might be pressed into service by a more mature sahir as a khadim, and is not designed as a starting character. Alternatively, he could be a potential patron for a Spirit Votary if he could be coaxed out of his cave, but would need to add the Grant: Spiritual Pact Ritual Power, which may require trading additional Inferiorities (see *Realms of Power: Magic*, pages 88–89, for details of Spirit Votaries). As a spirit of a place, the physical location haunted by this jinni acts as an Arcane Connection that provides a +1 bonus to the Penetration Multiplier; more potent Arcane Connections can only be obtained from the jinni if he takes corporeal form.
 
@@ -3502,7 +3502,7 @@ Unlike most Magical spirits of similar magnitude, Ighraq al-Siq does not possess
 
 **Personality Traits:** Reclusive +5, Immutable +3, Proud +2
 
-#### **Combat:**
+#### Combat:
 
 *Maul (warhammer):* Init –1, Attack +11, Defense +3, Damage +15
 
@@ -3512,7 +3512,7 @@ Unlike most Magical spirits of similar magnitude, Ighraq al-Siq does not possess
 
 **Abilities:** Arabic 5 (stone), Athletics 3 (climbing), Great Weapon 4 (maul), Profession: Miner 3 (gemstones), Second Sight 4 (jinn), Theology: Islam 3 (jinn).
 
-#### **Powers:**
+#### Powers:
 
 *Flesh to Stone,* 2 points, Init –4, Terram; Baghl can change any human he touches into stone until sunrise or until the morning call to prayer (Base 20, +1 Touch, +2 Sun; 3 Mastery points spent on reducing Might cost).
 
@@ -3534,7 +3534,7 @@ Unlike most Magical spirits of similar magnitude, Ighraq al-Siq does not possess
 
 This wild desert storm spirit, or buran, once plagued the small village of Yenghissar along the route to Khashgar, bringing devastation to the crops and herd animals every seven years. It is now bound by an Infernally-aligned sahir using the Goetic Art of Binding (see *Realms of Power: The Infernal*, page 117). A speechless, destructive force of fury incarnate, it rages to be released and constantly strives to create elemental havoc around the thoughtless sahir who has trapped it within his ancestral sword.
 
-#### **The Buran**
+#### The Buran
 
 **Infernal Might:** 25 (Auram) **Order: Aerial Powers (Buran)**
 
@@ -3562,7 +3562,7 @@ This wild desert storm spirit, or buran, once plagued the small village of Yengh
 
 \* Represents level of understanding as the spirit is Mute.
 
-#### **Powers:**
+#### Powers:
 
 *Delusion of the Desert,* 1 or 5 points, Init +3, Imaginem: This evil spirit can create illusions of a lost traveler's companions or a welcoming oasis, only to launch itself in fury at an unsuspecting victim. Alternatively it can create images of itself as a humanoid sandstorm with glowing fiery eyes in order to terrify its victims prior to their deaths. A minor illusion which affects an Individual amount of material (such as the demon itself) costs one point; a larger illusion which fills a room costs five points. These visions always have a flaw, however (they smell wrong, can only be seen by one target, etc.).
 
@@ -3582,7 +3582,7 @@ powers common to most demons and is an insubstantial spirit, unable to affect th
 
 Those storm spirits aligned to the Magic realm may have very similar characteristics, although they lack the Recalcitrance power and the brutal malevolence of their demonic cousins. Similar spirits aligned to other elemental Forms can be represented with modifications to these statistics.
 
-#### **Story Seed: The Corruption of the West**
+#### Story Seed: The Corruption of the West
 
 European demons of Christian origin are becoming increasingly common in the Levant since the advent of the Crusades, but have yet to penetrate past the borders of Outremer. Apart from a handful of Jewish demons and Infernal entities from ancient Persian mythology, the vast majority of Infernal creatures in the Mythic Middle East are in fact Infernal jinn and thus susceptible to Sihr, as commonly practiced by the Order of Suleiman.
 
@@ -3609,7 +3609,7 @@ Infernal jinni counterparts to the following demons found in Realms of Power: th
 
 Aside from their appearance and the modifications noted earlier, these jinn can be represented by the same statistics as their European cousins. Further details on demons are given in *Realms of Power: The Infernal*.
 
-## **The Dangers of Distinction: Dark Faerie or Infernal?**
+## The Dangers of Distinction: Dark Faerie or Infernal?
 
 The distinction between dark Faerie jinn and truly Infernal jinn can be difficult, as both types of creatures are commonly referred to as shaitan ("demon") by the common folk of medieval Islam and are depicted as such in the various stories. Many Infernal jinn, including perhaps Iblis himself, were once dark Faeries and many Infernal jinn have dark Faerie counterparts who draw vitality from stories arising out of the activities usually ascribed to demons.
 
@@ -3681,7 +3681,7 @@ Ghulas are not designed as player characters. The version represented here diffe
 
 **Abilities:** Arabic 5 (deception), Brawl 6 (claws), Charm 4 (trust), Stealth 4 (urban areas), Theology: Islam 1 (jinn). Other Abilities depend on the individual ghul
 
-#### **Powers:**
+#### Powers:
 
 *Berserker Rage*, 1 point, Init 0, Mentem: The demon can grant anyone (usually itself or its animal companions) the Berserk Virtue, which persists until the target calms down.
 
@@ -3699,13 +3699,13 @@ Unlike members of dark Faeriealigned jinn tribes, this ghul is a true ''terrestr
 
 Exceptional individuals exhibit additional magical abilities over rock and flesh (as *Crafter/Master of Earth* and/or *Crafter/Master of Flesh*), illusions, possession, or they have learned some of the magic of humans (Dowsing, Hex, Malefica, or otherwise represented by the equivalent of a *Duplicate the Magi's (Technique)* power). The most dangerous and feared ghul are those who have gained power over other jinn by learning one of the summoning Arts — Sihr, the Arts Fabulosa, or more commonly, the Goetic Arts of Commanding or of Spirit Summoning.
 
-#### **The Varied Guises of Iblis**
+#### The Varied Guises of Iblis
 
 At the troupe's option, different versions of Iblis may exist simultaneously in a saga. In the guise of lesser faeries claiming his name, the character Iblis appears in a number of minor roles in the folklore of the Islamic lands. In some stories he may be the Islamic Devil or embody a great duke of the Deluders, while in other tales he is a powerful dark faerie monarch or a faerie opponent posing as a lesser demon.
 
 One such tale is that of "The Old Woman and the Devil", where a very fallible Iblis is challenged by an old woman to show who is the craftier. The old woman tricks a merchant and his wife, but later undoes the harm she has caused, thus proving that "the devil is no match for an old woman." This lesser Faerie Iblis can only destroy or create strife in the stories, but never undo evil or perform good deeds.
 
-#### **Story Seed: The Dark Sufis**
+#### Story Seed: The Dark Sufis
 
 You may wish to introduce into your saga a misguided Sufi tradition, made up of individuals who respect Iblis for his refusal to bow down to Adam, assuming that it was his love for Allah that motivated his decision not to bow to anyone but his God. Such heretical mystics could comprise a Misguided Infernal Tradition of unwitting diabolists similar to the Luciferans. The mystical powers of such Infernal Sufis could be reflected by the Favoured Abilities: Incantation, Effusion, Phantasm and Ceremony. (See *Realms of Power: The Infernal*, pages 127–131). Posing as a holy man, a Dark Sufi may contact a Criamon character, seeking to lead the magus into corruption.
 
@@ -3719,7 +3719,7 @@ Most people are not aware of their qareen; the following creature is appropriate
 
 nesses (see later).
 
-#### **Powers:**
+#### Powers:
 
 *Apparition*, 1 point, Init 0, Imaginem; Qareen may assume an illusory form that only their companion can perceive. To the victims, the form appears to be a real person in all respects.
 
@@ -3756,7 +3756,7 @@ Some qareen have additional powers — the qareen that accompanied the ancient A
 
 A qareen is left powerless if its victim makes a concerted positive effort to throw off the malevolent jinni's influence. This requires the spending of a point of Faith (perhaps a point of Faith acquired by repenting of the sins committed while influenced by the qareen). Confidence alone is not enough to shake off the influence of the companion shaitan, unlike the Jewish shedim*.* In effect a qareen is a special form of Infernal or Faerie genius loci with a locus linked to its assigned human companion allowing it to travel the world.
 
-#### **Wizards and Qareen**
+#### Wizards and Qareen
 
 Islamic sahirs are keenly aware of qareen and many have the ability to perceive the true form of their accompanying tempter, either through Second Sight or their other magic. Most qareen accompanying wizards are malevolent, reflected by the Flaws detailed earlier. As jinn*,* they can be coerced with magic, bargained with and even imprisoned using the appropriate supernatural powers, but at the sahir's own risk. See Chapter 3: The Order of Suleiman for further details on sahirs and their potential to form magical khadim bonds with qareen that allow them to boost their
 
@@ -3764,7 +3764,7 @@ Islamic sahirs are keenly aware of qareen and many have the ability to perceive 
 
 Rarely, an exceptionally pious character may be able to convince her dark Faerie qareen to accept the error of his ways and appear to submit to Islam. As all Faerie-aligned jinn, even Faerie members of the predominantly corrupt jinni tribes such as Shaitan, have been granted free choice, this is a potential long-term story option. Such benevolent qareen become the equivalent of highly cognizant Faerie guardians. Being pious jinn rather than true Divine spirits, their power is aligned to the Faerie Realm and not the Divine Realm, although they may be mistaken for guardian angels by the unwise. Infernal qareen, as they are true demons, do not have free choice and so cannot be redeemed.
 
-#### **Submitted Qareen**
+#### Submitted Qareen
 
 *Major Supernatural Virtue*
 
@@ -3793,7 +3793,7 @@ To pronounce the Bismillah correctly requires a poetic grasp of the language of 
 
 Devout Muslims are instructed to utter this phrase before entering locales where jinn are believed to live such as ruins, lavatories, cemeteries, deserts, and caves, but only those with the required fluency in Arabic and a decent grasp of Islamic theology can actually benefit from this magical protection.
 
-#### **Other Folk Traditions That Ward against Jinn**
+#### Other Folk Traditions That Ward against Jinn
 
 Arab folklore abounds with additional folk remedies for jinni curses and powers. Many lesser jinn are affected by the Minor Flaw Vulnerable to Folk Tradition (see later) or suffer from the Vulnerable Magic (mu'addhin's call) Major Flaw, their magic expiring at sunrise with the crow of a cockerel or with the morning call to prayer from the minaret of the local mosque. Muslim characters may use either the appropriate Realm Lore or their Theology: Islam score to try to dispel the malign effects of such jinni enchantments. Magic jinn are not so severely affected, but a properly worded invocation of the Qur'an can grant some protection against their powers.
 
@@ -3803,7 +3803,7 @@ The *Ayat al-Qursi* or "Throne Verse" (255th verse) of *al-Baqarah* (2nd sura) a
 
 Each sura takes a considerable amount of time to recite and requires the individual to have memorized and the recall the specific verses using their Art of Memory or Theology: Islam score (see *The Mysteries: Revised Edition*, pages 25–26). Characters with an Arabic score of 6 or greater gain a +2 to their roll.
 
-#### **Jinn and Other Expressions of the Divine**
+#### Jinn and Other Expressions of the Divine
 
 Due to their strong cultural allegiances, all Faerie and Infernal jinn are vulnerable to other strong expressions of the Islamic faith. No such jinn can use their powers to affect a *hajji*, a Muslim who has completed the pilgrimage to Mecca within the last year (see Chapter 1: Introduction and Saga).
 
@@ -3828,7 +3828,7 @@ Whole cities of jinn, such as Amerabad, the City of Amber, are found within its 
 These claims are all true, but false all the same. Where there are jinn*,* there is Jinnistan.
 
 
-#### **The Mountains of Qaf**
+#### The Mountains of Qaf
 
 Muslim folklore describes this chain of peaks encircling the known lands, forming a barrier between the lands of the humans and the supernatural homes of the jinn. Impassable, foreboding, and purportedly emerald green in color, mundane geographers have attempted to place this mythical site variously in the Caucasus, the Pamir, the Paropamisadae and even the distant Urals or the Atlas Mountains of North Africa.
 
@@ -3836,7 +3836,7 @@ Classical scholars equate this range with the legendary Mount Imeon or the Cauca
 
 Perhaps the Qaf are not one mountain chain but are the Essential mountain range, the embodiment of the concept of mountains within the Magic Realm, past which lie whole different worlds. Alternatively, they may be the Faerie Realm's distillation of all the tales of impassable mountains told since antiquity.
 
-#### **Al-Khadar**
+#### Al-Khadar
 
 Outside the circle of the known world, past the pale blue waters that line the coast of Persia and beyond the trade waters of the Erythraean Sea, lies the great ocean of Al-Khadar ("the Green"), a magical and metaphorical barrier breached only by jinn, adventurers, sorcerers, and Islamic saints. Few claim to have traveled to its distant shores or floating islands laden with human-headed trees and intelligent apes. Those who claim to have returned report their ordeals in allegory and lies, such as in the travels of Sinbad the Sailor.
 
@@ -3856,7 +3856,7 @@ The paragraphs later describe some optional jinni varieties of the Faerie Blood 
 
 Further information on Faerie Blood, Faerie Legacy and Faerie Sympathies can be found in *Realms of Power: Faerie,* Chapter 5: Touches of Faerie.
 
-#### **'Afrit Blood**
+#### 'Afrit Blood
 
 The 'afrit are ranked among the more powerful of the jinn and many have monstrous oversized appearance and a cruel nature. Although not necessarily evil, they are often indifferent to humans or consider them inferior.
 
@@ -3870,7 +3870,7 @@ The 'afrit are ranked among the more powerful of the jinn and many have monstrou
 
 **Appearance:** Tall or large in girth, often horned, reddish complexion
 
-#### **Ghula Blood**
+#### Ghula Blood
 
 The ghulas are rapacious wasteland faeries of the Arab world. Sexual encounters between human men and female Faerie ghulas (see earlier) result in either another ghula (if the child is a girl) or ghul-blooded humans (if a boy is born). The sons of ghulas can then go on to produce either girls or boys with ghul blood. This variety of faerie blood could also represent other violent faerie ancestors. Those with ghul blood are nearly always sinister-looking, born with teeth and unusually aware of their surroundings.
 
@@ -3918,11 +3918,11 @@ Player character jinn created with a Might Score are susceptible to summoning, d
 
 This section includes several Virtues and Flaws first detailed in *Realms of Power: Faerie* that are appropriate for Faerie jinn and characters with strong jinni heritage
 
-#### **New and Modified Virtues**
+#### New and Modified Virtues
 
 These virtues are appropriate for Faerie jinn characters.
 
-#### **External Vis**
+#### External Vis
 
 *Minor or Major Virtue, Supernatural*
 
@@ -3932,7 +3932,7 @@ When selected as a Major Virtue, the prop provides its bearer with any one Minor
 
 As an example, a faerie warrior with a Might of 20 uses his sword as his spiritual anchor. A character that defeats the warrior finds that the sword contains 4 pawns of vis, but also finds that the sword has no Encumbrance and grants a human wielder a +2 bonus on the Single Weapon Ability. The bonus comes from the faerie's Grant Puissance power. If the human keeps the weapon, then eventually the faerie can generate a fresh body, and seek out the wielder and challenge him to a duel.
 
-#### **Faerie Sight**
+#### Faerie Sight
 
 *Minor Virtue, Supernatural*
 
@@ -3946,7 +3946,7 @@ This Virtue, which works constantly at no cost to the faerie, is used in conjunc
 - to read each other's glamour to guide their interactions, instead of using Faerie Lore.
 - • See mundane things hidden by glamour (Ease Factor = 3 + (Might of Faerie causing the glamour – Might of the faerie attempting to see through the glamour)/5)
 
-#### **Faerie Speech**
+#### Faerie Speech
 
 *Minor Virtue, Supernatural*
 
@@ -3956,7 +3956,7 @@ This effect occurs whenever the faerie speaks and costs no Might. It is not magi
 
 Faerie Speech is frequently given to characters designed as NPCs. Characters designed for possible use by players have this Virtue more rarely, to free up a Virtue slot, but it is still appropriate for a wide variety of faeries.
 
-#### **Reputation as Confidence**
+#### Reputation as Confidence
 
 *Minor Virtue, Supernatural*
 
@@ -3968,13 +3968,13 @@ Highly Cognizant faeries may be aware of the link between their Reputation and t
 
 These flaws are designed by Ferie jinn characters.
 
-#### **Intangible Flesh**
+#### Intangible Flesh
 
 *Major Flaw, Supernatural*
 
 The character is immaterial, and cannot physically influence the world. Characters with this Flaw should consider the Eidolon and Loosely Material powers.
 
-#### **Traditional Ward**
+#### Traditional Ward
 
 *Minor Flaw, Supernatural*
 
@@ -3984,19 +3984,19 @@ This may appear to humans as if the ward is burning the faerie. The damage to th
 
 If a faerie receives an Incapacitating wound from an item that is a Traditional Ward, then in addition to the usual effects of Incapacitating wounds (**ArM5**, page 178–179) the faerie cannot spend any further Might points. It can still activate powers with a zero cost. If the character has constant-effect powers with a nonzero cost, they expire at the next sunrise or sunset and cannot be reactivated until the character is no longer Incapacitated. The character may heal at a human rate, or may remove the injury with an appropriate story event.
 
-#### **Monstrous Appearance**
+#### Monstrous Appearance
 
 *Major Flaw, General*
 
 Something about the character looks strange and frightening to others, giving the character a –6 penalty in all social situations where its appearance is a factor.
 
-#### **Sovereign Ward**
+#### Sovereign Ward
 
 *Major Flaw, Supernatural*
 
 If a taboo is selected as a Major Flaw the faerie may not harm a person or thing that is defended by the ward. "Harm" is defined very broadly in the faerie's glamor. A faerie that is vulnerable to religious symbols, for example, can not work around the symbol by putting mundane poison in the food of the wearer, or burning his house down around him. The person is completely safe from the faerie. The faerie must attempt to flee the ward, and its body is destroyed instantly by the ward's touch.
 
-#### **Vulnerable to Folk Tradition (Islamic)**
+#### Vulnerable to Folk Tradition (Islamic)
 
 *Minor Flaw, Hermetic or Supernatural*
 
@@ -4031,7 +4031,7 @@ that followed this time was one of despair for the Mazdean faithful. Persecuted,
 
 The Zoroastrians regained their strength under the Sasanids, and came into conflict with the powerful Roman Empire and the Mercurian priests. During this period, the Mazdeans and their priesthood were in furious conflict in the western provinces with the Mercurians of the Roman Empire. Mobeds marched with Persian armies in Syria and Palestine, calling down angels and spirits, and giving their generals prophecies and visions of the future. These conflicts, however, were peripheral to the true struggle of the mobeds, which was principally a war against the followers of Ahriman, the Mazdean Devil.
 
-#### **Zoroastrians under Islam**
+#### Zoroastrians under Islam
 
 The rise of Islam in early seventh century spelled the end of the Zoroastrian dominance of Persia. Large numbers of Mazdeans converted to Islam after the defeat of the Sasanid Empire by the Islamic armies. This conquest is known among Mazdeans as "the ruin and devastation that came from the Arabs."
 
@@ -4055,7 +4055,7 @@ Zoroastrianism is one of the least well-known world religions; translations of i
 
 Zoroastrianism is also a living faith, undergoing internal debates about its own origins. The history of Zoroaster, the religion he founded and the nations that adopted that faith as their state religion is open to debate and interpretation. This chapter seeks to be respectful to this venerable living faith and its adherents. This is also a gaming resource, so the most "mythic" of the various legends, histories and interpretations are more often than not used as authoritative.
 
-#### **A Note on Names**
+#### A Note on Names
 
 Zoroastrian names have at least four differing versions: the old Avestan, Middle Persian, Parsi (the Persian spoken in the 13th century), and Latinized names. This chapter uses the Avestan names more often than not, but the Parsi names are given in parentheses where appropriate. Some figures, such as Zoroaster, have their Latinized names only. "Zoroastrian" is used interchangeably with "Mazdean".
 
@@ -4106,7 +4106,7 @@ such as Christianity, Islam, and Judaism. His worshipers benefit from the Domini
 
 There are a multitude of divine beings in the Mazdean celestial hierarchy. Most of the angels and even the Ameshaspand (Amesha Spentas) spend a great deal of time both in the celestial Divine Realm and the material world. Ameshaspand, yazdan and Mazdean angels possess the same traits as the angels described in *Realms of Power: The Divine*, Chapter Two.
 
-#### **Ameshaspand**
+#### Ameshaspand
 
 These are seven personifications of aspects of Ohrmazd, called Ameshaspand ("Holy Immortals"), who represent the highest principles of goodness. The Ameshaspand care for and protect creation. Each is a pathway to reaching Ohrmazd and personifies ideal Zoroastrian qualities.
 
@@ -4167,7 +4167,7 @@ Many yazdan personify natural phenomena or abstract ideas, such as the moon, sta
 
 Many of the faithful and their communities have their own yazdan, who are venerated in the same way that Christians venerate saints. Yazdan can be invoked like a saint (see *Realms of Power: The Divine*, page 87), although they cannot be threatened. To invoke a yazata, the invoker must be ritually pure (having undergone the Nahn purification rite, see Rites and Practices, later).
 
-#### **Frohar**
+#### Frohar
 
 The frohar (both singular and plural; *fravashi*) are the perfect divine spirits of every created thing. For humans, they are guardian angels, although everything, plant, animal, element, even other divine spirits, have a frohar — only demons and beings from other Realms do not have one. The title of frohar is granted by Mazdeans to angelic beings of several different types — the Choirs of the Potentates, Authorities, and Angels. Frohar guide the souls of the dead to the afterlife. They help the sun, moon, stars, and sky move, assist women to give birth, and bestow health upon the faithful. The longest Yasht of the *Avesta* (the Mazdean Bible) is devoted to the frohar.
 
@@ -4177,17 +4177,17 @@ I came to a place and saw the souls of generous people, who walked adorned and w
 
 *— Arda Viraz Namag,* Chapter 12
 
-#### **Reaching Heaven**
+#### Reaching Heaven
 
 Upon death, the human soul (*urvan*) remains with the body for three days. On the fourth, the soul is led by its frohar to the Chinvat Bridge ("the Bridge of the Separator"), which spans a great abyss. Heaven waits on the other side. At the bridge, each person's soul is judged by Rashnu; also guarding the bridge are the yazdan Mithra and Sraosha. If the record of the person's soul balances in favor of good thoughts, words and deeds, then the soul crosses without difficulty to heaven.
 
 If the reverse is true, the bridge narrows to a knife's edge, and the soul is sliced into ribbons as it falls into the abyss of hell.
 
-#### **Limbo**
+#### Limbo
 
 Mazdeans whose life's words, thoughts, and deeds are equal parts good and bad are sent to *hamestagna* (*hamestakan*, "limbo"). Here the soul experiences no torment or torture, only discomfort.
 
-#### **Resurrection and Judgement**
+#### Resurrection and Judgement
 
 The blessed souls in heaven wait for the birth and triumph of the final and true Saoshyant ("World Savior"). At his appearance, all the dead, righteous and damned, will rise from on the spot where they died; their bodies will be surrendered from the seas and ground, their bones reformed from the earth, hair from plants, blood from water, and life from fire.
 
@@ -4245,7 +4245,7 @@ conscious decision to deny God and be evil. Because he is not omniscient or omni
 
 The daevas and all Mazdean demons have the same traits as those in Chapter Four of *Realms of Power: The Infernal*. The daevas are exceptionally powerful demons, with high Infernal Might scores and ranks.
 
-#### **The Daevas**
+#### The Daevas
 
 Created by Ahriman in mockery of the Ameshaspand, the daevas are the unholy arch-demons of evil who oppose and contrast with the Holy Immortals. Together, they are known as the *Druj*, "the Lie". All that is foul and corrupt, vile and harmful is personified by a daeva. Not merely to do with nature or physical corruption, the daevas are also responsible for the darker emotions such as hate and envy.
 
@@ -4259,11 +4259,11 @@ In a Mithraeum in Mythic Europe, a Hermetic magus of the Cult of Mithras, perhap
 
 What would happen if a Hermetic Mithraist discovers the still-living religion of Ohrmazd, and how will they react upon learning the Mazdeans believe Mithras to be a divine spirit?
 
-#### **Demons**
+#### Demons
 
 There are 45 named demons in the Mazdean scriptures, all of whom oppose the yazdan and Ohrmazd. The demons assault the faithful, plot, seduce and destroy, kill and torment, and seek at every moment to cause evil. Zoroastrian demons share the characteristics of demons as described in Chapter 4 of *Realms of Power: The Infernal.* 
 
-#### **Hell**
+#### Hell
 
 And I saw the blackest hell, dangerous, fearful, terrible, holding much pain, full of evil, foul-smelling. Then I thought that it seemed like a pit, to whose bottom a thousand spears would not reach; and if all the firewood which is in the world were placed on the fire in the most evilsmelling, darkest hell, it would never give out fragrance. Again, as close as eye to ear, and as many as the hairs on a horse's mane, so close and many in number are the souls of the wicked therein. Yet they see not, and hear no sound from one another. Each one thinks: 'I am alone.' And they suffer gloom and darkness and stench and fearfulness and torment and punishment of diverse kinds …
 
@@ -4304,11 +4304,11 @@ The recitation of prayers is a major element of all Mazdean rites. There are hun
 
 The sacred cord of the Mazdeans (called a *kusti*) is a long woven cord, tied three times around the waist. The cord is central to many of the rituals and symbols of the faith, representing the connection between heaven and earth. All practicing Mazdeans have a *kusti*.
 
-#### **Videvdat**
+#### Videvdat
 
 A major liturgical service of the mobeds, the Videvdat is performed in the fire temple by qualified priests. It takes place between midnight and dawn, with recitations from the Yasna, the Visparad, and the Videvdat (see Mazdean Scriptures, later) to invoke divine spirits and ward off demons. Offerings are made to Ohrmazd and the Ameshaspand to coincide with sunrise.
 
-#### **Purity Rites**
+#### Purity Rites
 
 The ritual link between purity and impurity symbolizes each Mazdean's personal participation in the cosmic war against evil. The purification ritual practices and symbolic gestures of Mazdeanism symbolize this struggle on a daily basis.
 
@@ -4316,7 +4316,7 @@ There are three categories of purification rituals. The most important is the Ba
 
 All of the purification rituals (excluding padyab and the daily rituals) drive away any possessing spirit, infernal or otherwise and cancel any non-permanent, non-Divine supernatural effects.
 
-#### **Bareshnum**
+#### Bareshnum
 
 This rite is required for all candidates for the priesthood, but its function is to regain and maintain ritual purity. It also aids the soul's journey to heaven, and is often performed when someone is about to die.
 
@@ -4326,26 +4326,26 @@ The ritual does not work if any of the ingredients used are contaminated during 
 
 In addition to the purifying effect described earlier, the subject of this ritual also gains a Faith Point, although he only gains it once (the first time), even if the rite is performed again on subsequent occasions.
 
-#### **Padyab**
+#### Padyab
 
 A simple ablution ritual performed several times a day: in the morning after rising, after answering calls of nature, before taking meals, and before saying prayers. The rite consists of a short prayer formula, the washing of the face and exposed parts of the body (generally hands and feet), and the untying and re-tying of the sacred cord.
 
-#### **Nahn**
+#### Nahn
 
 A sacred bath purification requiring the services of a mobed, it can be conducted either at home or in a fire temple. It is only performed during the day, and
 
 
 is observed during the Navjote ceremony, marriage, forty days after childbirth, and on any one day during the Farvardegan holiday marking the end of the Mazdean year. The ceremony involves chewing a sacred pomegranate leaf, drinking a few drops of consecrated bull urine, reciting of the Repentance Prayer, applying unconsecrated bull urine (*gomes*) over the body from the head down, performing the sacred bath, and dressing in a new set of clothes. A longer, more complex purification ritual similar to this is administered to those who are particularly impure — this is called the Si-Shuy Nahn.
 
-#### **Riman**
+#### Riman
 
 This purification ritual requires two attendants (one of whom must be a priest), and is only performed on those who have come into contact with corpses in the course of ministering to the dead. It involves chewing pomegranate leaves, drinking consecrated bull urine, and ritually washing. The two attendants must also purify themselves. If the subject is a woman, she performs the ritual behind a partition.
 
-#### **Daily Rites**
+#### Daily Rites
 
 When a Mazdean comes into contact with substances considered impure, he or she is rendered ritually impure. Impure substances include hair, skin, nails, blood, saliva, urine, feces, semen, and menstrual blood when they leave or are separated from the body. Carrion, rotting flesh, or plant matter, and foul-smelling air are also considered impure. There are thus specific rituals to be performed when cutting hair and nails, sneezing and yawning, urinating and excreting, as well as after sex (the act of which is not impure or sinful in itself, although the resulting excretions are). There are purification acts for purifying utensils, tools, furniture, and rooms.
 
-#### **The Yasna**
+#### The Yasna
 
 The Yasna ("sacrifice") is the most important ritual for Mazdeans, and is performed daily each morning by priests in the fire temple. Performing the Yasna is considered a key weapon in the struggle against evil. This ritual is a priestly function and requires no witnesses or lay participants.
 
@@ -4355,23 +4355,23 @@ During the ceremony, Ohrmazd and his angels are reverently invoked, and the 72 c
 
 Once the ritual is complete, the Dominion Aura around the holy fire increases by three points (but not beyond eight), decreasing by one point every five paces from the fire until returning to normal; this effect lasts for only an hour. The priests who perform the ritual and attendant worshipers gain a Faith Point. Worshipers in a state of sin do not get this benefit, and if any of the priests are impure during the ritual, there is no benefit.
 
-## **Birth, Initiation, Marriage, and Burial**
+## Birth, Initiation, Marriage, and Burial
 
 There are four ceremonies that coincide with significant times in a Mazdean's life. There are prayers, purification rituals and devotions coinciding with birth, initiation of a child into the community, marriage, and, finally, burial.
 
-#### **Birth**
+#### Birth
 
 Before birth, at the fifth and seventh months, a sacred lamp is lit to ward off demons that may seek to harm unborn babies. Forty days after the birth of the child, the mother is given a purifying bath (the Nahn). A child is taken to the fire temple on his or her first birthday and has ashes from the sacred fire applied to his or her forehead.
 
 The lamps lit in this ceremony increase the Dominion aura in the room the lamp is in, by one point (up to a maximum rating of 3; there is no effect if there is no base Dominion aura, or if the Dominion is already at level 3 or higher).
 
-#### **Initiation**
+#### Initiation
 
 This ritual, called the *Navjote*, makes a child, aged 12 to 15, responsible for honoring Mazdean religious observances. The child receives his or her sacred cord (*kusti*) and sacred white shirt (*sedra*), takes purifying baths, and makes the declaration of the articles of faith (*fravarane*): "I profess myself a Mazdean, a follower of Zoroaster, opposing the demons, accepting the doctrine of Ahura, one who praises the beneficent immortals, who worships the beneficent immortals. I accredit all good things, those that are indeed the best, to Ohrmazd the good."
 
 A character who undergoes the Navjote receives a Faith Point, which can be used as normal. It is lost if the character performs a significant sin. Additionally, the rites performed in this ceremony have the effect of rendering the child's name unusable as a True Name for supernatural activities, in the same way that baptism does.
 
-#### **Marriage**
+#### Marriage
 
 The ceremony of marriage is an important religious occasion, involving the bride and groom taking purifying baths, with the ceremony itself happening just after sunset. A procession of priests, officials, the bridegroom, and his family (and sometimes musicians) enters the bride's home; the bridegroom stays outside, where his head is marked in red. After this, he enters and sits before the priest. The bride enters some time later and sits next to the bridegroom, with a cloth hanging between them. Prayers are said, vows are exchanged, and benedictions are made. A sacred fire and candle are present throughout. At the end of the ceremony, there is typically a feast.
 
@@ -4382,7 +4382,7 @@ The marriage ceremony grants both bride and groom a Faith Point that may be used
 
 **Festival:** *Maidhyoi-shema*
 
-## **The Thirty Days**
+## The Thirty Days
 
 |     |                    |                           | Purpose: Midsummer                          |
 |-----|--------------------|---------------------------|---------------------------------------------|
@@ -4420,7 +4420,7 @@ The marriage ceremony grants both bride and groom a Faith Point that may be used
 |     |                    |                           | Related<br>Creation: Fire                   |
 |     |                    |                           |                                             |
 
-#### **Holy Festivals**
+#### Holy Festivals
 
 Although each day is holy, there are seven special holy festivals in the Zoroastrian calendar, dedicated to each Ameshaspand. Each festival goes for five days. The seventh festival, known as No Roz ("New Day") is the greatest holy festival of the Mazdean calendar, prefiguring the final "New Day" of eternal bliss. Note that the festival dates, although associated with seasons, have drifted significantly from their original dates. The dates are given in Imperial (S) and Ancient (F).
 
@@ -4432,7 +4432,7 @@ Although each day is holy, there are seven special holy festivals in the Zoroast
 
 **Dates:** 26 Feb. – 2 Mar. (S), 27 – 31 Mar. (F)
 
-#### **The Twelve Months (in 1220)**
+#### The Twelve Months (in 1220)
 
 **Dates:** 27 Jan. 1220 (S), 26 Feb. 1220 (F)
 
@@ -4461,7 +4461,7 @@ When used in alchemical and herbal potions and brews, haoma grants a +3 bonus fo
 
 Consumed without mystical preparation, but properly fermented, haoma has mild hallucinogenic effects (temporarily granting the Visions Flaw), increases arousal, and increases strength (character gain a +1 bonus to acts of strength). The effects last between one and three hours.
 
-#### **Burial**
+#### Burial
 
 The ceremonies of death and burial are the most difficult, especially for those Mazdeans in Muslim lands, where they are forced to comply with local laws and customs. Traditionally, the corpse is ritually washed and dressed. A dog is presented, so it gazes at the corpse, both to ensure the person is really dead, and to ward off evil spirits (this ritual is called *sagdid*, "dogsight"). The Ahuna Vairya prayer is recited by priests, and then the body is taken to the funerary tower (*dakhma*, "Tower of Silence"), a massive tower-like building exposed to the sun and flesh-eating birds. The bones of the dead are left to dry, and then thrown into a deep well filled with lime and phosphorus.
 
@@ -4481,27 +4481,27 @@ During the five days of the holy festivals, the Dominion Aura radiating from the
 
 Zoroastrianism emphasizes its oral traditions and all priests learn the scriptures by heart. The words of Zoroaster were written down over his lifetime to form the *Avesta*. There are many books making up the *Avesta*, many of which have been lost, destroyed or pillaged following the Muslim conquest of the Sasanid Empire. While some fire temples may possess copies of parts — even large parts — the chief role of the priesthood is to act as living scriptures, memorizing every word and prayer.
 
-#### **Avesta**
+#### Avesta
 
 The *Avesta* contains the hymns, formulas, laws and stories of the Mazdean faith. There are two main parts to the *Avesta*. The *Avesta* is also written in multiple languages, Avestan and "Gathic," a liturgical language for prayers. The Ability Dead Language: Avestan grants knowledge in both. There are translations into Parsi (and other languages, like Latin, Arabic, and Greek), although they are not considered holy.
 
-#### **The Yasna**
+#### The Yasna
 
 The *Yasna* is the chief liturgy of the Mazdeans. "Yasna" literally means "sacrifice", and includes confessions, rituals, prayers, exhortations, praise, and worship of Ohrmazd. The *Yasna* is formed from six *Gathas* (hymns), and has a total of 72 chapters. Five of the six Gathas are considered to be the direct word of Zoroaster himself. The sixth was written by his disciples. (Summa, Theology: Zoroastrian, Quality 4, Level 9.)
 
-#### **The Visparad**
+#### The Visparad
 
 The shorter liturgy, the *Visparad* ("to all the lords") is 23 chapters of invocations, praise, and hymns to Ohrmazd, the yazdan, and the other powerful divine beings, and also includes the seasonal festivals (*gahambars*). (Summa, Dominion Lore, Quality 3, Level 4.)
 
-#### **The Videvdat**
+#### The Videvdat
 
 The *Videvdat* (*Vendidad*, "law abjuring demons") has 22 sections containing the religious, civil, criminal, and purification laws of Mazdeanism. It also details the life of Zoroaster and the origins of medicine (medicine by knife, herbs, and sacred rites). (Summa, Theology: Zoroastrian, Quality 6, Level 6.)
 
-#### **The Khordeh Avesta**
+#### The Khordeh Avesta
 
 Often combined with the *Yasht* (see later), the *Khordeh Avesta* ("Little Avesta") is for use by priests and lay folk in private devotion. It is a summary of the *Avesta*, containing prayers, invocations, and blessings. (Tractatus, Theology: Zoroastrian, Quality 6)
 
-#### **The Yasht**
+#### The Yasht
 
 The *Yasht* ("worship") is a collection of 22 hymns and prayers invoking yazdan and angels. Each prayer invokes only a single being, such as Ohrmazd, each of the Ameshaspand, and the sun, moon, stars, Mithra, and Sroasha respectively. (Tractatus, Theology: Zoroastrian, Quality 6)
 
@@ -4518,7 +4518,7 @@ A mobed character may take the Senior Clergy Major Social Status Virtue (see *Th
 
 Mazdeans typically do not take Virtues or Flaws that would make them a monk or nun. To Mazdeans, the world is a wonderful place to be lived in and enjoyed. The fight against evil takes place in society, so being cloistered away and practicing an ascetic lifestyle of deprivation is not in keeping with their faith. There is also no tradition of wandering holy men or women in orthodox Mazdeanism (precluding analogs of Virtues or Flaws such as Mendicant Friar).
 
-## **New Ability: Dead Language (Avestan)**
+## New Ability: Dead Language (Avestan)
 
 Avestan is the holy liturgical language of the Zoroastrian Holy Scriptures, used by Zoroaster himself. No longer spoken or written outside of the fire temples, the language is now used purely for sacred hymns and prayers. This ability allows your character to read and write texts in Avestan, and to understand the words of prayers spoken in Avestan.
 
@@ -4526,7 +4526,7 @@ To write this language (written from right to left), your character must have a 
 
 **Specialties**: Liturgies, scripture, oral tradition, alphabets, myths. (Academic)
 
-#### **New Virtue: Magian Lineage**
+#### New Virtue: Magian Lineage
 
 *Minor or Major, General*
 
@@ -4539,7 +4539,7 @@ tribe of Magians, the original priestly caste of Persia. Many mobeds possess thi
 
 **Major:** In addition to the benefits of the Minor Virtue, your character has an affinity with the ancient prophetic and other mystical arts of your ancestors. The player must choose three Arcane or Supernatural Abilities which the character need not start play with, and which cannot be True Names. These Abilities are considered connected, so that whenever your character successfully studies one of these Abilities (that is, gains at least one experience point from study), he or she gains an additional experience point in each of the other two.
 
-#### **New Virtue: Mazdean Priest**
+#### New Virtue: Mazdean Priest
 
 *Minor, Social* 
 
@@ -4553,7 +4553,7 @@ If you are Poor, it likely reflects the poor station of Mazdeans in the communit
 
 Your character may take Academic Abilities at character generation. You must take the Minor Personality Flaw Vow (**ArM5**, page 60) to reflect your constant state of ritual purity, and dedication to your community. This Virtue is only available to male characters.
 
-## **New Virtue: Knowledge of True Names**
+## New Virtue: Knowledge of True Names
 
 *Minor or Major Supernatural* 
 
@@ -4626,7 +4626,7 @@ A great number of Mystery powers are available to mobeds, although it is extreme
 
 Mobeds experience the Divine Ascent in place of generic Warping or Twilight, with Divine Form the most common kind of Ascent.
 
-#### **Mazdean Hedge Magic**
+#### Mazdean Hedge Magic
 
 The mobeds are known for their strong alchemical lore; the *Videvdat,* for example, focuses on alchemy and medicine. Mobeds may take the Mythic Alchemy and Mythic Herbalism Virtues (see *Hedge Magic Revised Edition*, pages 81–82) without the need for any further background explanation, and these Virtues are often associated with the Divine Realm, rather than Magic. However, it is not unusual for a mobed to have supernatural powers derived from both realms.
 
@@ -4638,13 +4638,13 @@ The Holy Powers taught by the mobed tradition are spectacular and majestic, comm
 
 spirits to perform tasks for them and give them aid.
 
-#### **Casting Score:**
+#### Casting Score:
 
 **Communication + Invocation + Holy Power + modifiers + aura + die roll**
 
 If this total is less than the target Level, the effect doesn't happen, but there might be other effects instead, in the form of supernatural retribution. This is called a Tragedy of Hubris. It might manifest as a curse, a loss of ability, fatigue, a physical injury, or even a Flaw. It is also a great opportunity for an appropriate story event. This tragedy usually lasts only until the character has somehow atoned or made amends for his presumptuous actions, though the effects are sometimes permanent, depending on the severity of the transgression.
 
-#### **Minor Tragedy (–1 to –10)**
+#### Minor Tragedy (–1 to –10)
 
 - • A Method, Power or other Supernatural Ability is halved
 - • Gain a Minor Flaw, e.g., Lesser Malediction, Fear, Poor Memory, Simple-Minded
@@ -4652,7 +4652,7 @@ If this total is less than the target Level, the effect doesn't happen, but ther
 - • Receive three extra botch dice on all rolls
 - • Gain a Warping point
 
-#### **Major Tragedy (–11 to –20)**
+#### Major Tragedy (–11 to –20)
 
 - • A Method, Power or other Supernatural Ability is lost
 - • Gain a Major Flaw, e.g., Greater Malediction, Blind, or Enfeebled
@@ -4660,7 +4660,7 @@ If this total is less than the target Level, the effect doesn't happen, but ther
 - • Permanently suffer a minor tragedy
 - • Gain a Decrepitude point
 
-#### **Ultimate Tragedy (–21 or more)**
+#### Ultimate Tragedy (–21 or more)
 
 - • All Supernatural Abilities are lost
 - • Character possessed by a supernatural creature
@@ -4668,7 +4668,7 @@ If this total is less than the target Level, the effect doesn't happen, but ther
 - • Permanently suffer a major tragedy
 - • A terrible plague, war, or famine affects the entire region
 
-#### **Invocation**
+#### Invocation
 
 By addressing God and the servants of the Divine, commanding them by their names, and entreating them for aid, your
 
@@ -4676,7 +4676,7 @@ By addressing God and the servants of the Divine, commanding them by their names
 
 character can cause holy effects to manifest. This might be because God's servants hear your character's pleas and intervene, or because your character's understanding of God's word is such that he can wield God's power using God's voice. This typically relies on Communication, and requires that the character invest Confidence in the effect.
 
-#### **Adjuration**
+#### Adjuration
 
 Adjuration is the Power to summon, control and banish supernatural creatures of all kinds, including dispelling their powers and compelling their cooperation. Through Adjuration, God asserts his ultimate authority over creation and both the natural and supernatural worlds. Adjuration is also the witnessing of oaths and truths, by forcing otherworldly beings to recognize God's authority and obey him. The target might cry out in pain and wonder when affected, or speak in a different voice that represents its true nature for the effect's duration. Invocation is used to compel creatures to act, often forcing them to use their powers on the holy character's behalf.
 
@@ -4710,25 +4710,25 @@ bonuses as magic vis. The consequences of profaning holy vis, or using it for di
 
 
 
-#### **Adjuration**
+#### Adjuration
 
 *Major, Supernatural* 
 
 This Virtue allows the character to command and control supernatural beings, and he begins with the Supernatural Ability Adjuration 1.
 
-#### **Dream Interpretation**
+#### Dream Interpretation
 
 *Major, Supernatural*
 
 The character can understand and interpret the secret meaning of dreams. This Virtue gives the Supernatural Ability Dream Interpretation 1, which may be used in place of Meditation to activate Holy Powers and also allows him to interpret dreams of a general nature. Mobeds may take Dream Interpretation, although it is not an Ability favored by their tradition. It may, however, be Initiated into as a Mystery Virtue.
 
-#### **Invocation**
+#### Invocation
 
 *Major, Supernatural* 
 
 This Virtue gives the character Invocation 1, a Supernatural Ability which
 
-#### **Wonders**
+#### Wonders
 
 Those who ask properly will receive God's gifts, for God provides for the faithful in need. God also summons storms, fire, winds, and other powerful natural forces. These wonders are created at the holy character's command, and even controlled by him to some extent, although God always keeps His hand upon His miracles. Such things may appear at times to listen to another voice, and act in ways that the holy character does not anticipate.
 
@@ -4767,7 +4767,7 @@ Create a living, docile bird, fish, lizard, or amphibian. (Invocation)
 
 allows him use the Holy Method of Invocation and to roll a stress die for miraculous effects.
 
-#### **Wonders**
+#### Wonders
 
 *Major, Supernatural* 
 
@@ -4777,11 +4777,11 @@ The character begins with the Supernatural Ability Wonders 1, which allows him t
 
 These abilities can be taken by characters of the mobed tradition.
 
-#### **Adjuration\**
+#### Adjuration\
 
 The character is skilled in controlling and banishing supernatural creatures and their powers (see Miraculous Effects, later). Specialties: type of creatures (angels, demons, ghosts, faeries), causing a specific effect. (Supernatural)
 
-#### **Dream Interpretation\**
+#### Dream Interpretation\
 
 In the Mazdean tradition, Ohrmazd and His servants regularly send messages and prophecies through dreams: Zoroaster received visions and guidance from the Wise Lord on many occasions. Dream interpretation helps mobeds translate the confusing symbolism in dreams to make clear their deeper meaning.
 
@@ -4805,7 +4805,7 @@ Most who possess the Dream Interpretation Ability have specific rituals that the
 
 **Specialties**: Any appropriate Holy Power, own dreams or the dreams of others, dreams had under specific circumstances (Supernatural)
 
-#### **Invocation\**
+#### Invocation\
 
 Using holy words, phrases and prayers, the character can invoke Ohrmazd's power. He must either cry out his prayer in a loud voice, or somehow inscribe his prayer in writing. This adds the character's Communication to your roll, and requires that he spend a point of Confidence (or Faith) to bring the effect into being.
 
@@ -4814,7 +4814,7 @@ You may also roll a stress die instead of a simple die when calling a holy effec
 **Specialties**: using holy names, in writing, affecting a particular kind of target. (Supernatural)
 
 
-#### **Wonders\**
+#### Wonders\
 
 The character can cause living creatures, non-living objects, and forces of nature to manifest through God's power (see Miraculous Effects, later). **Specialties**: causing a specific effect, a particular kind of material, in specific circumstances. (Supernatural)
 
@@ -4828,7 +4828,7 @@ To perform group powers, mobeds use the Ceremony Ability (see *Realms of Power: 
 
 The mobeds have several unique mysteries that are holy in nature (that is, they can only be initiated by a character with Holy Powers or True Faith). Many allow mobeds to wield mystical powers.
 
-#### **Blessing of [Ameshaspand] (Minor Mystery Virtue)**
+#### Blessing of [Ameshaspand] (Minor Mystery Virtue)
 
 The mobed with this holy mystery gets a +3 bonus to Casting Scores for holy powers used in the area covered by a specific Ameshaspand (see list). There is a different version of this virtue for each Ameshaspand.
 
@@ -4852,15 +4852,15 @@ The mobed with this holy mystery gets a +3 bonus to Casting Scores for holy powe
 
 **Equivalent Form(s):** Corpus, Mentem
 
-#### **Mazdean Alchemy (Minor Mystery Virtue)**
+#### Mazdean Alchemy (Minor Mystery Virtue)
 
 Through Mazdean Alchemy, a mobed may distill vis from a Divine Aura. Distilling divine vis takes a season before the vis is extracted. The character uses as his Lab Total his Intelligence + Invocation + Wonders + Holy Magic + modifiers. Modifiers include the aura, bonuses from Lab assistants and so on. The Lab Total is divided by 10, as per Hermetic vis extraction.
 
-#### **Mazdean Astrology (Major Mystery Virtue)**
+#### Mazdean Astrology (Major Mystery Virtue)
 
 This Mystery allows the character to use his knowledge of the heavens to determine the most effective time to pay or use holy powers. The mobed may also use new astrological durations.
 
-#### **Celestial Durations**
+#### Celestial Durations
 
 No duration may be longer than a year. Failing the calculation roll causes the effect to fail. Botching a calculation roll causes the effect to botch.
 
@@ -4880,7 +4880,7 @@ Mobeds believe that welfare and adversity on Earth originates through the seven 
 
 
 
-#### **Invocation Wonders Level 50**
+#### Invocation Wonders Level 50
 
 R: Per, D: Mom, T: Ind, Ritual
 
@@ -4900,17 +4900,17 @@ the duration correctly, succeed in a roll of Intelligence + Artes Liberales + di
 
 Astrological minutes, hours, and days are equal in length to normal units of time, but have no fixed starting point, so that the effect lasts a fixed length of time, rather than until a fixed point. Astrological signs are, similarly, one-twelfth of a year each.
 
-#### **Celestial Blessing for Holy Spell Casting**
+#### Celestial Blessing for Holy Spell Casting
 
 The mobed may determine the most favorable hour for performing holy magic, holy powers or use other divine abilities. By aligning his practices to the beneficial powers of the stars, he may gain a bonus of +1 to +5. The player must decide on the activity and bonus desired before rolling, and succeed in a roll of Intelligence + Artes Liberales (Astrology) + simple die against an Ease Factor of (desired bonus x 4). If successful, the mobed determines an hour during that day (selected by the storyguide) in which the activity will benefit from the desired bonus. If the mobed does not perform the chosen activity in that hour, there is no benefit. A mobed may perform this calculation multiple times for a single day, but each hour may have no more than one bonus. A failed roll indicates that the mobed can find no more bonuses for that day.
 
-#### **Righteousness of the Wise (Minor Mystery Virtue)**
+#### Righteousness of the Wise (Minor Mystery Virtue)
 
 Mobeds believe that Spenta Mainyu revealed these secrets (and others) directly to Zoroaster before taking him to Ohrmazd. For many mobeds, the attribute of wisdom is the highest nature of God.
 
 This Mystery Virtue grants the mobed access to unique Ranges, Durations, and Targets that are compatible with Holy Powers (see insert).
 
-#### **Saoshyant's Elixir (Major Mystery Virtue)**
+#### Saoshyant's Elixir (Major Mystery Virtue)
 
 The ritual of Saoshyant's Elixir (*Realms of Power: The Divine*, page 117) is the Zoroastrian route to immortality. The ceremo-
 
@@ -4920,11 +4920,11 @@ The ritual of Saoshyant's Elixir (*Realms of Power: The Divine*, page 117) is th
 
 The spell will last as long as a specific sacred fire burns in a specific fire temple (the fire and temple must be determined at the time of casting the spell). Fire is equivalent to Moon.
 
-#### **New Range: Ground**
+#### New Range: Ground
 
 The target can be affected so long as he/it is touching the same ground that the caster is standing upon. The caster need not be able to see the target. Rivers, mountains and other significant obstacles (although not roads or walls) act as boundaries to this range. Furthermore, the ground must be natural earth. Artificial ground, like floorboards or cobble stones, puts a target out of this Range. Ground is equivalent to Arcane Connection.
 
-#### **New Target: Community**
+#### New Target: Community
 
 Affects everyone living in the same community. A community is defined as a group of people living in the same locality, or who form a distinct segment of society (such as Jews, beggars, or Christians, but can also include plants or animals). Community is equivalent to Boundary.
 
@@ -4935,25 +4935,25 @@ There have been several long-lived mobeds: the high priests Vishtana, Tansar, an
 
 ny itself is a sacred and holy purification rite. Gaining this Mystery Virtue grants you knowledge of the ritual, which can be performed with the Holy Method and Power, Invocation and Wonders. Like the ritual in *Realms of Power: The Divine*, the level of this holy rite is 50.
 
-#### **Gifts of Gayomart (Major Mystery Virtue)**
+#### Gifts of Gayomart (Major Mystery Virtue)
 
 Gayomart ("Primeval Man") was the Zoroastrian Adam or "first man," and is seen as the embodiment of human perfection. This Holy Mystery opens the human body and soul to the Light of God, making those characters with True Faith even more holy and sacred.
 
 A character must possess True Faith to initiate this mystery. The mystery grants the character additional powers as his True Faith score increases (see "Embodying the Light," *Realms of Power: The Divine*, page 61).
 
-#### **Asha (Truth): True Faith 1**
+#### Asha (Truth): True Faith 1
 
 The character cannot be lied to or purposefully deceived. In his presence, no one may speak or communicate a direct lie. This power has a Penetration equal to his True Faith score, and may be increased by +5 for each Faith point spent. If this power Penetrates, even demons and faeries cannot deceive him.
 
-#### **Vohu Manah (Good Mind): True Faith 4**
+#### Vohu Manah (Good Mind): True Faith 4
 
 Through Vohu Mana, the mobed personifies wisdom and the true path to God. He gains a Commanding Aura (*Realms of Power: The Divine*, page 42), which grants a bonus to his soak equal to twice his True Faith score, and a commanding aura (equivalent to Aura of Rightful Authority with Voice range). (The normal Commanding Aura also grants Magic Resistance, but True Faith grants that anyway.)
 
-#### **Hauvatat (Wholeness): True Faith 6**
+#### Hauvatat (Wholeness): True Faith 6
 
 The mobed's physical body becomes immune to putrefaction, change, disease and all forms of material corruption and decay. Subtract double the character's True Faith score from Aging Rolls. He more easily resists magical attempts to alter the shape of his body, inflict harm upon him or give him diseases or wounds. He gains an additional bonus to Soak and Recovery rolls equal to his True Faith Score x3 (giving a total bonus to Soak totals of True Faith x5, with the bonus from Vohu Manah). Furthermore, he no longer scars or blemishes, as his body slowly returns to its perfect natural state. Incapacitating wounds no longer leave permanent marks upon him, and given enough time (years) he can re-grow lost limbs and other body parts.
 
-#### **Ameratat (Immortality): True Faith 8**
+#### Ameratat (Immortality): True Faith 8
 
 So long as the mobed maintain the maxims of Zoroaster and Ohrmazd, remains in a state of purity and truthfulness, observes the taboos and behaves with good thoughts, good words and good deeds, he will never die, and gain Warping Points instead of Decrepitude points. Mechanically this requires that the character have a Faith Point gained from a purity ritual at all times. His body slowly ages, although he can more easily resist its effects through the gift of Hauvatat. While this virtue means the character effectively will never die, he can still be killed by massive damage.
 
@@ -4961,7 +4961,7 @@ So long as the mobed maintain the maxims of Zoroaster and Ohrmazd, remains in a 
 
 Mobeds can initiate unGifted practitioners into their mysteries. The rules for this are laid out in *Hedge Magic Revised Edition*, page 13.
 
-#### **Mobed Initiation Scripts**
+#### Mobed Initiation Scripts
 
 Mobeds use their Mobed Lore for initiation totals. The mystagogue is typically another initiated mobed or dastur. It is possible for mobeds to self-initiate if they have a script but no mystagogue, although most mobeds seek out a mystagogue from another community.
 
@@ -4969,7 +4969,7 @@ The scripts used by mobeds to Initiate their various powers typically emphasize 
 
 While there are many written Initiation Scripts, Mazdeanism places great value on the oral tradition; many of the living Initiations are oral Scripts.
 
-#### **Initiation into Mythic Alchemy**
+#### Initiation into Mythic Alchemy
 
 **Initiation Ease Factor**: 21
 
@@ -4977,7 +4977,7 @@ While there are many written Initiation Scripts, Mazdeanism places great value o
 
 The initiate must light one of the grand ceremonial fires of the Mazdean faith, known as the atesh adaran , in honor of the first 27 yazdan, and Ameratat. This typically takes a season to properly prepare and perform, and takes significant expenditure. The initiate must remain in a state of ritual purity throughout the process.
 
-#### **Initiation into Mythic Herbalism**
+#### Initiation into Mythic Herbalism
 
 **Initiation Ease Factor**: 21
 
@@ -4990,7 +4990,7 @@ Major Flaw: Enfeebled, +1 Sympathetic Bonus)
 
 The intitiate must must hunt down and destroy a powerful disease-causing Infernal spirit, while affected by the illness that the spirit causes. The illness must inflict the equivalent of the Enfeebled Major Flaw. This shows that he is capable of personally overcoming terrible sickness mystically and physically. Apart from the illness, the initiate must remain in a state of ritual purity throughout the initiation.
 
-#### **Initiation into Dream Interpretation**
+#### Initiation into Dream Interpretation
 
 **Initiation Ease Factor**: 21
 
@@ -5036,7 +5036,7 @@ The inhabitants of Arabia consist of a mixture of settled townsfolk, many of who
 
 **Personality Traits:** Angry +2, Vicious +3, Merciless +2; Bloodthirsty (Strength) +3\*
 
-#### **Combat:**
+#### Combat:
 
 *Clawing Wind:* Init +8, Attack +12, Defense +8, Damage +6\*
 
@@ -5048,7 +5048,7 @@ The inhabitants of Arabia consist of a mixture of settled townsfolk, many of who
 
 **Abilities:** Arabic 5 (abuse), Athletics 2 (sprint), Awareness 2 (potential victims), Bargain 1 (magical bargains), Brawl 5 (clawing wind), Desert Lore 3 (trade routes), Folk Ken 1 (wizards), Hunt 3 (tracking), Penetration 3 (Corpus), Second Sight 4 (invisible things), Survival 3 (deserts), Theology: Islam 1 (Jinn), Wilderness Sense 3 (deserts)
 
-#### **Powers:**
+#### Powers:
 
 *Donning the Corporeal Veil,* 0 points, Init +1, Terram: The zawba'a can assume material form (Size +1, as described later) to allow it to attack its opponents physically. (Greater Power; see *Realms of Power: Magic*, page 102)
 
@@ -5064,7 +5064,7 @@ The zawba'a is a bloodthirsty jinni of the Arabian deserts, which takes delight 
 
 Some experienced sahirs are able to bargain with zawba'a and bind them as servants using the khadim bond (see Chapter 3: The Order of Suleiman). Such sahirs often use these desert jinn as a form of travel — the sight of a powerful sorcerer being carried across the landscape by a whirling sandstorm instead of a mundane mount strikes respect into even the most powerful of mundane rulers!
 
-#### **Story Seed: Death by Zawba'a?**
+#### Story Seed: Death by Zawba'a?
 
 The characters are called in to investigate a murder. The victim was found flayed to death in his chamber, which was covered in a fine layer of sand. Investigating, the characters uncover a plot by a shadowy cabal of sahirs from a minor Islamic sect who have learned to bind the zawba'a, deadly jinn whirlwinds, to their service. The sahirs use them as weapons against their political enemies, unleashing them on unsuspecting victims. Is this what happened here, and if so, who was responsible?
 
@@ -5139,7 +5139,7 @@ Some of the more powerful 'ashira are Magic jinn, genii loci manifestations of A
 
 The nature of such old deities may vary and multiple entities bearing the same name can be found within miles of each other, but with widely different realm alignment and power. The benevolent version of Wadd venerated by a tribe from northern Najd may be an aloof Magic jinni, while the vengeful Infernal incarnation of the same deity feared by tribes in Uman may be a False God trying to subvert the nomads away from their faith. Others may be Faerie jinn woven out of the stories told by the Bedouin at their night fires about such fantastic natural locations. The weakest may be no more powerful than a minor elemental jinn with a Might score of less than 10, whereas the spirits of larger and more isolated landmarks may have Might scores approaching 50.
 
-## **Story Seed: The Stone Lovers**
+## Story Seed: The Stone Lovers
 
 A group of magi or sahirs wishing to settle a pair of uniquely shaped rock outcrops in a remote Magic aura inadvertently offend the local Bedouin tribe, who consider the stones 'ashiras and thus part of their tribe. Their legends tell of two giants, Aja and Salma, banished lovers who dwelt for five hundred years at the site, slowly transforming into the vaguely human-shaped stone sentinels of today. The tribe fears that the wizards will awaken the spirits of the ossified giants or draw the attention of the dark Faerie and Infernal jinn that haunt the outcrops at night.
 
@@ -5149,13 +5149,13 @@ tribes from the ancient times are believed to live on in Bedouin memory as clans
 
 Regardless of whether he is human or jinn, Muslim or pagan, a member of a Bedouin clan owes absolute loyalty to his clan first, his family second.
 
-#### **Bedouin Wizards**
+#### Bedouin Wizards
 
 A disproportionately large number of Bedouin possess supernatural ability when compared to the town dwellers in the settled parts of Arabia. It has been noted that Bedouin sahirs are more often Gifted than their fellows in other areas of the Mythic Middle East. Such sahirs typically specialize in either Solomonic Storytelling or Solomonic Travel, although some Bedouin sahirs disdain the more specific techniques and concentrate on summoning and bargaining with jinn exclusively. These sahirs are usually accompanied by their favorite falcon or saluqi, which is actually a Faerie jinn servant bound by a khadim bond (see Chapter 3: The Order of Suleiman for further details on sahirs).
 
 All tribes include at least one sahir, often supported by female hedge magicians known as *hakima* ("wise women") or *kahina*  ("soothsayers") that resemble Folk Witches aligned to the Faerie Realm, or male *shai'ir*, poets resembling the ancient artists of pre-Islamic times. The unGifted hedge witches typically lack the Cursing and Flight powers and have the Animal Healing and Entrancement Virtues instead. Details of Folk Witches can be found in *Hedge Magic*, pages 33–53, although some of the ideas for Faerie Doctors presented in *Realms of Power: Faerie*, pages 117–118, may be equally appropriate. Details on Arabian poets are given in the sidebar on Arab Poetry later.
 
-#### **Brothers of the Tribe**
+#### Brothers of the Tribe
 
 Knowledge of muru'a is treated like a non-Hermetic Mystery Cult Organization Lore that can be learned like any other Ability. It is used to initiate various Faerie-aligned Supernatural Virtues of value to a desert nomad using the rules found in *The Mysteries: Revised Edition*, pages 8–20, with the tribe's hakima acting as Mystagogue. The following Virtues can be initiated and are commonly possessed by exceptional Bedouin: Animal Ken, Art of Memory, Arcadian Travel, Cursing, Death Prophecy, Dowsing, Enchanting
 
@@ -5171,19 +5171,19 @@ The authority on falconry is an unnamed Arabic text by the falconer Moamyn, equi
 
 See *Lords of Men*, Chapter 5: Leisure, for further details on hawking and *Realms of Power: Magic*, page 86, for training animals using magic.
 
-#### **Saqr**
+#### Saqr
 
 Similar to its European cousin the gyrfalcon, detailed in *The Book of Mundane Beasts*, *Realms of Power,* page 142, or *Lords of Men,* page 59, the bird most commonly used by Arabian falconers is the saqr*.*  Known for its endurance rather than its speed, the saqr has the following modifications: add the Tireless Quality and the Long-Winded Virtue. Exceptional saqr*,*  especially prized by the nomad sheikhs, possess the Puissant Hunt Virtue and the Imposing Appearance x2 Quality.
 
-#### **Shahin**
+#### Shahin
 
 These smaller hawks are equivalent to the peregrine falcons of Europe. These Size –4 raptors are the fastest falcons but have much less endurance. They excel in catching smaller birds on the wing, but are less suited for desert hawking. Increase the basic falcon's Quickness by 1 but subtract 2 from Strength, change to Ambush Predator, add Stealth 3 (ambush prey), decrease to Flight 3 (climbing flight) and modify their combat statistics accordingly.
 
-#### **Anqa**
+#### Anqa
 
 The Arabian phoenix, or anqa, is very similar to the rukh detailed in Chapter 9: On the Silk Road — its coloration consists of bright red, orange and gold. Like an Eagle of Virtue, as the anqa ages its feathers grow dim and it flies to its aerie above the Mountains of Qaf. There, immolating itself in flame, it is reborn as a single black egg. Hermetic magi observing this process over a season can treat the experience as a significatos, gaining experience in the Arts of Animal, Ignem, or Vim.
 
-## **Story Seed: The Seven Falcons of Lukman**
+## Story Seed: The Seven Falcons of Lukman
 
 Legend tells of the longevity of Lukman. One day, the son of 'Ad heard a voice calling to him and discovered a nest with two falcon fledglings. Choosing the stronger, he brought it up as his boon companion. The falcon lived for a full 80 years and the falconer aged not a day. When it died, he returned to the nest to discover another fledgling, which lived another 80 years. Once again, Lukman retained his youth. He repeated this another five times, growing sadder with the passing of each successive hawk. The seventh falcon he named Lubad, "the accumulation of all times," and when it passed, the weight of five centuries crashed down on Lukman and he finally died.
 
@@ -5225,15 +5225,15 @@ The region of Bahrayn, consisting of both the eastern coastal territories of Ara
 
 Fierce and cunning fighters, the Jews of Tayma' and Khaybar are able rapidly to muster armies at times of need. Anyone who could harness their strength would hence be able to assemble a formidable fighting force at very short notice. They could therefore be useful allies if the characters suddenly find themselves facing an enemy army (such as the classic necromancer with his undead horde). However, traditional Judaism takes a dim view of magic and its practitioners, so the characters may have to go to considerable lengths to convince the Jewish elders of the region that their cause is just.
 
-#### **The Fate of the Black Stone**
+#### The Fate of the Black Stone
 
 What did happen to the Black Stone during its sojourn in Bahrayn? Why was it broken? The characters find information (perhaps revealed by a Qarmatian) indicating that during its absence the stone was stolen from the Qarmatians by a renegade sahirs who wished to use it to power a ritual of unknown nature. Eventually, at considerable cost in lives, the Qarmatians were able to slay the sorcerer and recover the stone, but by the time that they did, it had been broken into seven pieces. Now the supposedly dead sorcerer has been seen abroad once more, and the descendants of the survivors of the original battle against him are gradually being murdered. The characters may be asked to protect one of the descendants, to hunt down the sorcerer, or to discover the purpose of the ritual.
 
-#### **The Ghosts of Hajar**
+#### The Ghosts of Hajar
 
 A mother in Hajar misplaces her child, who becomes lost outside at night in the city. The local community of sahirs suspect the ghosts are responsible but, being unable to control the spirits of the dead, directly seek outside assistance. Can the characters find the child before the ghostly soldiers do? This story could also become the basis for a longer saga arc involving laying the ghosts to rest and freeing Hajar and the surrounding regions from their curse.
 
-#### **The Valuable Quarter**
+#### The Valuable Quarter
 
 Due to the ease in which travelers can seemingly enter the Twilight Void and the Magic Realm, this area is sometimes known as *Rub' al-Ghali*, the Valuable Quarter, among local sahirs and the few Hermetic magi who have learned of its existence. Potentially vast resources of vis and magic from the Magic Realm are within the grasp of even the most inexperienced wizard, but unfortunately for the hopeful, returning to the mundane world does not appear to be as easy as leaving. Would-be explorers would be advised to secure some sure means of return or risk becoming lost in the eerie landscape for many lifetimes, perhaps even forever. Those who return often come back irrevocably changed and Warped — instances of mundane characters returning initiated into Sihr and one or more of the Solomonic Arts are not unheard of, but these unconventionally initiated sahirs are never fully trusted by their fellows.
 
@@ -5294,27 +5294,27 @@ The city is ruled by a governor known as the Grand Sharif (sha-REEF), a descende
 
 ## Story Seeds for the Holy Cities
 
-#### **The Lava Flows of Medina**
+#### The Lava Flows of Medina
 
 The lava flows around Medina cooled and hardened centuries ago, but occasional earthquakes open cracks in them, allowing fresh lava to flow out. The characters learn that the earthquakes are not a natural phenomenon, but are instead the results of experiments by forces hostile to Medina who is attempting to reliquify the lava flows all around the city. Will they be able to stop them before they achieve this and drown the holy city in molten lava?
 
-#### **The Lost Lords of Mecca**
+#### The Lost Lords of Mecca
 
 The Jurhumites are an ancient tribe of jann*-*blooded Bedouin who once ruled Mecca and areas of the Hijaz. They rejected Islam and appeared to be defeated by the early armies but now live on within old tales about the pre-Islamic tribes of Arabia. The whole tribe now consists of Faerie jann*,* although a few jinn*-*blooded sahirs are secretly considered adopted members of their clan. They are best represented as dark Faerie Jinn and play roles in stories about crises of faith or dishonor and tend to have more elemental magic (specifically Auram and Terram powers) at their disposal than their usual Faerie cousins (see Chapter 4: The Jinn). As former inhabitants of Mecca, Jurhumites are potential guides for non-Muslims attempting to infiltrate the holy cities for subterfuge or war, being privy to secret ways into the closed areas.
 
 The Jurhumite sahir might seek out Hermetic magi to aid them in their feud against the current regime. Are the Jurhumites behind the change in the lava flows around Medina, or are they merely being used as scapegoats by a opportunistic group of renegade sahir?
 
-#### **The Restoring Waters of Zamzam**
+#### The Restoring Waters of Zamzam
 
 On the night after the end of Ramadan, the Divine aura in the Well of Zamzam at Meca's Haram mosque dips slightly and the water in the well can be harvested by moonlight as an unusual form of Extraordinary Aquam Vis. Each mouthful of water is able to restore all of a character's lost Fatigue Levels through an unknown ritual level non-Hermetic effect. Hermetic magi may be tempted to obtain such a remarkable substance, whether for personal use or as a potential source of Insight into overcoming the Hermetic Limit of Energy.
 
-#### **The Marid of the Well**
+#### The Marid of the Well
 
 Unknown to most of the pilgrims, the eponymous Zamzam — an ancient Magic marid *—* lies trapped in a suppressed Magic regio at the base of the Well of Zamzam at Mecca's Haram mosque, its powers overcome by the overwhelming Divine aura. The spirit's remaining magical power preserves the well's amazingly pure water but it has come to resent its imprisonment by the Dominion.
 
 Ancient beyond belief, the Zamzam marid may also have knowledge of the past useful to the characters that cannot be gained from any other source, but how can one discreetly communicate with such an entity within the most holy shrine of Islam? If freed, what would its actions be and how would the Muslim authorities react to such desecration of the ancient spring?
 
-#### **The Mosque of the Jinn**
+#### The Mosque of the Jinn
 
 A magus of House Merinita hires the characters to conduct an investigation into the Mosque of the Jinn at Mecca, demanding that they provide an extensive report on its denizens and visitors in the hope of understanding how and why such Faerie creatures seemingly ape the worship of the Dominion without producing a Divine aura.
 
@@ -5323,7 +5323,7 @@ The normally hospitable Jinn become considerably less enthusiastic when it becom
 
 (r. 1201–1220). If your saga follows history, in 1220, Qatada, along with many other members of his family, is killed when his son al-Hasan carries out a massacre to ensure his succession. However, the Ayyubid sultan of Yemen, al-Mas'ud Yusuf, steps in to quell the chaos and imposes military rule. The Grand Sharifs only regain control after the sultan's death in 1229.
 
-#### **The Haram Mosque and the Ka'ba**
+#### The Haram Mosque and the Ka'ba
 
 The Haram Mosque is the most sacred of mosques, the building that holds the Ka'ba, the shrine built by Adam under the guidance of angels, and subsequently rebuilt by Abraham and his son Ishmael. It takes the form of a rectangular courtyard, around which are highly-decorated open halls supported by multiple rows of columns. Off the northwest hall is the Dar al-Nadwa (DAHR un-NAD-wa), a building constructed around a second hall, where consultation is carried out between religious scholars and the Grand Sharif. Off the southwest hall is a building used by scholars of the Maliki legal school. The mosque has twenty gates and seven minarets. The Dominion aura here is overwhelming, with a score of 10. Muslim characters may invoke baraka here to request any of the Saint Powers listed in *Realms of Power: The Divine*, pages 88–89; if required, the site counts as having Divine Might of 100.
 
@@ -5335,7 +5335,7 @@ Muslims in the Ka'ba usually seek to pray at the place where the Prophet used to
 
 Within the courtyard of the Haram mosque also lies the marble domed Well of Zamzam, about 20 yards east of the Ka'ba. Revealed to Ibrahim's wife Hajar when she was searching for water for her thirsty son Ishmael, the well is older than the first buildings of Mecca. The waters are clean and pure but although they are drunk by many Muslim pilgrims as part of their devotion, they do not usually have any supernatural properties.
 
-#### **Al-Ma'la Cemetery and the Mosque of the Jinn**
+#### Al-Ma'la Cemetery and the Mosque of the Jinn
 
 Say (O Muhammad): It is revealed unto me that a company of the Jinn gave ear, and they said: Lo! We have heard a marvelous Qur'an,
 
@@ -5369,7 +5369,7 @@ to take up too much space in the mosque. A few humans also attend prayers at the
 
 About 60 miles to the southeast of Mecca, built on the mountain slopes, lies the town of Ta'if. Before the rise of Islam, Ta'if was the site of a major idol to the Arabian goddess al-Lat, goddess of fertility and patron of shepherds and caravan travelers, but after the Muslim conquest of the city in 631 this idol was destroyed. Ta'if is well-known for its orchards, and it supplies fruit to many other towns of the region, including Mecca.
 
-#### **The Cult of the Daughters of Allah**
+#### The Cult of the Daughters of Allah
 
 **Al-Lat** was one of three major goddesses worshiped in the local area, the other two being **al-Manat**, goddess of fortune and destiny, whose cult was based at a place called al-Qudayd, at an unknown location about ten miles from Medina, and **al-'Uzza**, goddess of strength and the planet Venus, who was worshiped at a sanctuary on the outskirts of Mecca. These three goddesses were known as the "Daughters of Allah." Even before the rise of Islam, Allah was worshiped by the pagans as a supreme creator god, and these Daughters are connected with a story known as that of the "Satanic Verses," which by 1220 has been circulating for centuries among Muslim scholars.
 
@@ -5385,13 +5385,13 @@ Poetry and storytelling remain an integral part of Arab life in the 13th century
 
 A fabled example is the irascible satirist, Abu Nuwas, a poet sponsored at the legendary court of Harun al-Raschid, who passed into the myth and legend of Golden Baghdad as a Faerie creature of Elysium, living within the tales of *The Thousand and One Nights*.
 
-# **Story Seed: Poets and Qareen**
+# Story Seed: Poets and Qareen
 
 *'Abqari*, contemporary poets blessed with an artistic qareen*,* can be created using the rules for Legendary Artists or Maestro Mythic Companions (see *Art & Academe*, pages 133–135). The qareen of such characters are best reflected by the Faerie Friend, Magical (Being) Companion, or Impious Friend Minor Flaws, depending on the Realm affiliation of the artist. Many 'abqari possess Enchanting Poetry and the Muse Minor Supernatural Virtues (*Houses of Hermes: Societates,* page 56). Some of these poets are granted such power over words that they may mimic the Folk Witch power of Cursing or the Gruagach Arts of Give, Blessing, and Curse, reflecting their ability to lampoon and satirize opponents into misfortune through their verse (see *Hedge Magic Revised Edition* for details of these non-Hermetic powers).
 
 Journeying to 'Aqbar may compose part of an Initiation Script for a member of the Merinita "Keepers of Tales" Mystery Cult, or be of interest to Jerbiton magi or artistic Redcaps passionate about the stories and legends of *The Thousand and One Nights*.
 
-## **Story Seed: The Poetry Festival at 'Ukaz**
+## Story Seed: The Poetry Festival at 'Ukaz
 
 Once a year the small oasis town of 'Ukaz, situated halfway between Mecca and Medina, holds a poetry competition, a tradition dating back to ancient times. The seven great poems known as the *Mu'allaqat* ("the Suspended Odes") that now grace the walls of the Ka'ba had their origin in this fair. Today, the winner's prize varies from year to year as the sponsorship of the fair passes from one tribe of jinn to another. The prize is always something of great value — one year, the jinn may reward a winner with the secret path to 'Abqar, another year they may bestow kinship with their tribe for eternity, and yet another they may offer the service of one of their younger jinn as an unconditional servant. Depending on the prize, magi and sahirs may be drawn to the festival, hoping to gain something otherwise impossible to acquire — something vital to their plans. Competition is always fierce, but the poetry is always breathtakingly beautiful.
 
@@ -5436,7 +5436,7 @@ Suleiman heard from the hoopoe (a brightly-colored bird fond of traveling widely
 
 Suleiman, in the meantime, asked his court if anyone could bring the queen's throne before she arrived. A jinni boasted that it could obtain it before Suleiman rose from his seat, but "one who had knowledge of the Book" promised to bring it in the blink of an eye. The throne thus procured, it was disguised to test whether Balqis was a recipient of divine guidance. When she entered Suleiman's throne room she remarked on how much the throne resembled her own, but then when she entered a hall paved with glass she mistook it for a lake, drawing up her skirts and baring her legs. When her folly was revealed, she recognized that her worship of the sun was also incorrect and acknowledged God as the only deity.
 
-#### **Story Seed: King Suleiman and the Queen of Sheba**
+#### Story Seed: King Suleiman and the Queen of Sheba
 
 Remains of Sheba's sun worship might still be present in Ma'rib or other sites across the Middle East — the actual deities that the people of Sheba worshiped might be in reality either powerful Faerie entities, who crave worship from humans and plot to achieve this, or demons who represent themselves as a heavenly trinity, seeking to turn people away from worship of the True God. Was the magic of the mukkaribs a variant of the more common summoning arts — instead of calling jinn, could it command and control celestial entities and Astra Planeta Daimons in a way similar to the Theurgical Mysteries?
 
@@ -5484,7 +5484,7 @@ In addition, what became of Suleiman and the Queen of Sheba? According to tradit
 
 The nisnas is found in the forests of Yemen and Hadramawt, though its origin seems to be in Hadramawt specifically. It is a wild, inoffensive creature, but the people of Hadramawt find its flesh sweet, so they hunt it for food. Nisnases can speak, and tales are told of some who begged for mercy before they were slain.
 
-## **Story Seed: An Escaped Nisnas**
+## Story Seed: An Escaped Nisnas
 
 The characters come across a nisnas that has escaped from its captors. It begs them to help it get away. This is likely to raise a moral or emotional dilemma for some characters. According to most religious teachings, only humans have souls. Yet this creature seems literally half-human; so does it have a soul? Even if not, will the characters willingly refuse aid to a creature that is begging for them to help it escape from being eaten?
 
@@ -5526,13 +5526,13 @@ Syrenii use the base statistics for Adders listed in *The Book of Mundane Beasts
 
 
 
-#### **The Trees That Cry Blood**
+#### The Trees That Cry Blood
 
 In the seaside hills of Hadramawt is a grove of five ancient mogar trees that seem to grow directly from the rock, resisting even the thrashings of the seasonal monsoons of the Erythraean Sea. The resin produced from these trees, when harvested during a violent storm, yields unusually pure frankincense tears that each contain a single pawn of dedicated Rego Terram vis each tree produces several pawns of vis per harvest. The timing of the harvest storms is complex, but well-known to the local inhabitants, who are terrified of the particularly large and aggressive population of syrenii nestled among the branches of the grove. Harvesting the vis is no easy undertaking, as the serpents seem immune to the usual storax smoke and standard wards appear to have little effect.
 
 Even if successfully harvested, the existence of the trees becomes readily known to another magical group, whether they be rival Hermetic explorers, local hedge wizards or sahirs representing the Order of Suleiman. Perhaps renegade members of the Olibanum tribe of the normally isolationist Soqotrans are interested in the unusual resin produced (see *Rival Magic* for details on these non-Hermetic wizards). Continued supernatural disturbance and intense magical activity or botches in the grove may awaken the trees, providing another obstacle to harvesting as the animated bushes gain the ability to actively resist interlopers with their spiny arms. Are the tears of the trees worth the price in blood?
 
-#### **Discovering the Lost City**
+#### Discovering the Lost City
 
 There are a number of ways that characters might come across this lost city. They might come across a map indicating its location; they might be approached by a descendent of one of the survivors of the destruction who wishes to recover something from the city; or they might come across it purely by accident, finding a tunnel into the earth or even reaching it after falling victim to a patch of dry quicksand.
 
@@ -5540,7 +5540,7 @@ However they find it, visitors to the city find it intact in a great cavern unde
 
 The discovery of the ancient city may draw the attention of the remaining Giants of 'Ad, itinerant stonesmiths renown for their building skills. Will the giants look favorably upon the discoverers or will they try and prevent the city from disclosing its ancient secrets and treasures?
 
-#### **The Witches of Nizwa**
+#### The Witches of Nizwa
 
 Perhaps the witches of Nizwa are a movement of Infernalists or Faerie wizards who become the arch-enemies of the characters. Banished Soqotran witches may have formed a secret community in exile, or the group may be agents of the Olibanum King trying to discredit and destabilize the Order of Suleiman (see *Rival Magic,* pages 110–141). The group may even be the last remnant of a tradition of sorceresses privy to the astral magic of ancient Sheba.
 
@@ -5580,7 +5580,7 @@ However, Nizwa also has a darker side, reputed to be the home of witches and sor
 
 Descendants of Great 'Ad, the giants of southern Arabia are colossal magical creatures from pre-Islamic times. Descended from Noah's third son, they have dwelled within magic regiones deep within the deserts of Oman since the loss of their greatest creation, the fabled City of a Thousand Pillars. Unlike many magical creatures, the 'Adites are not immortal and weaken if they spend too much time outside strong desert Magic auras.
 
-#### **Giant of 'Ad**
+#### Giant of 'Ad
 
 **Magic Might:** 20 (Corpus)
 
@@ -5756,7 +5756,7 @@ Following the demise of their mother, the eleven types of monsters were pressed 
 
 **Abilities:** Arabic 1 (Maslawi), Athletics 4 (over sand), Awareness 3 (interlopers), Babylonian 5 (orders), Brawl 5 (sting), Bows 5 (longbow), Hunt 2 (thieves), Leadership 3 (scorpionmen), Local Area Lore 1 (hiding places), Penetration 3 (*Venom* power), Stealth 3 (ruins)
 
-#### **Powers:**
+#### Powers:
 
 *Venom*, 0 points, Init n/a, Corpus: the sting of the scorpion-man's tail contains a potent venom. Characters struck must make a Stamina roll against an Ease Factor of 9 or take a Heavy Wound. The sting is treated as a weapon, so this power has no Initiative score. PeCo 20 (base 15, +1 Touch) Lesser Power (20 levels, –4 Might cost, +10 experience in Penetration)
 
@@ -5793,7 +5793,7 @@ The gods appropriated the girtablullu as guardians of monuments and sacred place
 
 **Reputations:** Violent against Foreigners 2 (Local)
 
-#### **Combat:**
+#### Combat:
 
 *Bite\**: Init –1, Attack +18, Defense +9, Damage +9
 
@@ -5809,7 +5809,7 @@ The gods appropriated the girtablullu as guardians of monuments and sacred place
 
 **Abilities:** Arabic 4 (Maslawi), Assyria Lore 4 (magical places), Awareness 3 (invaders), Babylonian 5 (Assyrian), Brawl 6+2 (bite), Concentration 3 (*Eye of the Serpent*), Hunt 4 (interlopers), Infernal Lore 3 (local demons), Intrigue 3 (politics), Faerie Lore 2 (servants of deities), Magic Lore 4 (local spirits), Mesopotamia Lore 4 (Old Babylonia), Penetration 4 (*Voice of Regal Authority*), Second Sight 4 (spirits)
 
-#### **Powers:**
+#### Powers:
 
 *Assessing Gaze*, 1 point, Init –10, Corpus: The mushhushshu can determine which of a group of humans poses it the greatest threat. This usually reveals who is the most competent warrior, but can also detect the presence (although not strength) of magic. InCo(Vi) 25 (Base 5, +1 Eye, +2 Group, +1 requisite) Lesser Power (25 levels, –4 Might cost and +1 Init from Improved Powers)
 
@@ -5846,7 +5846,7 @@ The Persian tale of Khusraw and Shirin is best known in the version by the poet 
 
 ## Story Seeds for Samarra and Baghdad
 
-#### **A Samarran Covenant**
+#### A Samarran Covenant
 
 While parts of the city of Samarra are holy sites, it is a sprawling complex of buildings covering a wide area, and it may be that parts of it hide Magic auras and devices left behind from the activities of sorcerers at the courts of the caliphs. Thus it could be an attractive place to set up a covenant, particularly as even though the buildings are ruined, the underlying structures (wells, irrigation canals, etc.) remain largely intact. The major question is how the current mundane population of the city would react to a bunch of foreign wizards setting up home nearby.
 
@@ -5864,7 +5864,7 @@ or hospices, for them by the caliphs. The caliphs have also been building or res
 
 Every summer, many of the streets and most of the open land on the south side of Baghdad fills with stalls and tents in an enormous fair. This event is well-attended by merchants and travelers from all over the Mythic Middle East, and typically lasts most of the season. It is said that all manner of goods and services may be found at this event, including unique items and entertainments brought by strange men from fantastic lands. Visitors are cautioned to maintain a clear idea of what they seek before they go exploring, for there are said to be many vendors who appear only when their wares are especially desired, or who lure unwary travelers into their tents where they disappear forever. The summer bazaar is the site of the yearly meeting of the Suhhar Sulayman (Chapter 3: Order of Suleiman: The Majlis al-Suleiman).
 
-#### **The Dar al-Hikma**
+#### The Dar al-Hikma
 
 More Solomonic sahirs live in Baghdad than anywhere else in the world — easily a thousand of them. The city is home to no less than eight buyut al-hikma, including the great academy that sahirs call Dar al-Hikma, which was originally established by the First Council in Baghdad, north of the palace and halfway between the Bab al-Sham and the Bab al-Khurasan. This large building currently houses nearly a hundred young and old sahirs living and studying together, and is overseen by Niya al-Waziriyya al-Jabr Satefa al-Inshai al-Qasri al-Qalb. It is known to have an exceptional astrological observatory, with perhaps the finest astrolabe ever constructed to date, and the architecture is as grand as that of the Bab al-Dhahab Palace and Mosque.
 
@@ -5872,7 +5872,7 @@ The Dar al-Hikma typically chooses its leader, and thus the representative for M
 
 from the Magic Realm and to summon multiple spirits at once. For this reason, she was chosen by the other sahirs to lead the bayt, despite her relative youth and the fact that she has The Gift. She will probably become Asala of the Ashab al-Qalb once her predecessor dies. She is said to believe that the Suhhar has stagnated, and that Gifted sahirs (in both senses) are its best hope to avoid extinction. This is a controversial position, as less than ten percent of the Suhhar have The Gift and Gifted sahirs are not generally admired.
 
-#### **Golden Baghdad**
+#### Golden Baghdad
 
 As noted previously, Baghdad enjoyed its time of greatest prosperity during the reign of the caliph Harun al-Rashid, and this period has left its mark on the city. Scattered across Baghdad are numerous places where it is possible to cross into a Faerie version of the city. Here the roofs are covered with gold, the streets are paved with marble and the tales of the *Arabian Nights* are re-enacted, with or without the participation of visitors. Here it is possible to receive a visit at night from the caliph Harun al-Rashid, his vizier Ja'far the Barmakid, and his executioner, Masrur the eunuch, who frequently venture out in disguise to observe the behavior of the city's inhabitants, rewarding the good and punishing the bad. Here one might find oneself eavesdropping on Sinbad the Sailor as he recounts his adventures to Sinbad the Porter. One might even travel beyond the walls of the city, going fishing with Judar the fisherman, seeking the ring of Solo-
 
@@ -5899,11 +5899,11 @@ Al-Mada'in is a small but densely-populated town to the southeast of Baghdad. In
 
 Downriver from al-Mada'in are three Nestorian Christian monasteries (*adyar* (ad-YAHR), sing. *dayr*) that are unknowingly interconnected. They each have their own unique features and are described as follows.
 
-#### **Dayr al-'Aqul**
+#### Dayr al-'Aqul
 
 Located on the banks of the Tigris, the monastery of Dayr al-'Aqul is surrounded by a fairly large town of the same name, which includes a major mosque. Here the monks levy a toll from river traffic, which they share with the townsfolk, making it a major source of income for the town as a whole. However, recently the monks have noticed that rapid changes are taking place in the river's banks, with the result that the river is gradually drawing away to the west, which means that they may soon be cut off from the source of their livelihood. All attempts to prevent these changes have failed, and both the monks and the townsfolk suspect that some supernatural force may be involved. They have been unable thus far to identify their enemy, but some suspect that the monks of the monastery of Dayr Qunna may in fact be foul sorcerers seeking the destruction of Dayr al-'Aqul.
 
-#### **Dayr Qunna**
+#### Dayr Qunna
 
 A mile to the east lies the monastery of Dayr Qunna, which is a large building with walls that are so strong and high that the monastery resembles a fortress. This is perhaps not entirely surprising, as the building is not actually a monastery but a bayt al-
 
@@ -5911,7 +5911,7 @@ A mile to the east lies the monastery of Dayr Qunna, which is a large building w
 
 hikma inhabited by members of the Suhhar Sulayman and their followers, posted here to keep an eye on the caliphs and posing as Nestorian monks in the meantime.
 
-#### **Dayr Hizqil**
+#### Dayr Hizqil
 
 20 miles south of Dayr al-'Aqul is the town of al-Nu'maniyya, within which is the monastery of Dayr Hizqil. Here the monks maintain a madhouse, caring for those who have been afflicted with insanity. To work in such a place requires a strong mental and physical constitution, and the monks are mostly down-to-earth, brawny types who are well-capable of manhandling their charges if need be.
 
@@ -5964,7 +5964,7 @@ Storyguides may wish to draw out the suspense by having any companions of the de
 
 South of Babylon lies the Great Swamp, a marshy area that stretches between the two rivers until they join further south. Despite a noxious atmosphere and frequent plagues of insects, the swamp is dotted with villages and towns inhabited by determined souls who have managed to drain small patches of land and grow crops on them. Navigation through the swamp is primarily achieved using shallow-drafted boats. The inhabitants of these swamps are pagan followers of the old religion, although in the absence of a formal priesthood they have but fragments of their faith left to them. One tale they do know, and have faithfully recited for generations, is the Epic of Gilgamesh (see previous page).
 
-#### **The Ruins of Uruk**
+#### The Ruins of Uruk
 
 In the center of the Great Swamp rise the ruins of a mighty stepped ziggurat, all that remains of a great temple to the goddess Ishtar. Local people stay clear of the site, since some of those who visited it have never returned. The temple has a Faerie aura of 2. In addition, explorers who break through a rubble-strewn doorway (actually a Faerie Guardian) find themselves inadvertently passing through an entrance to the Faerie Realm of Elysium. The Threshold Strength here is 33, but those who visit the temple and cross the doorway automatically accumulate the requisite number of Threshold Points (major border (12) + trod (the doorway, aura 5) + any temporal thresholds + any personal thresholds + any shortfall made up by the Guardian's Spirit Away Faerie Power). See *Realms of Power: Faerie*, pages 18–21.
 
@@ -5994,17 +5994,17 @@ The city of Hilla occupies both sides of the Euphrates River, though its greater
 
 # Story Seeds for the Great Swamp
 
-#### **The Whirlpool at Ubulla**
+#### The Whirlpool at Ubulla
 
 The jinni at Ubulla is imprisoned on the riverbed, but not slain. The characters get word of a group of sorcerers who are planning to free the creature and use it as a weapon with which to impose their will on the caliph. Should they try to prevent this directly, or should they try to warn the caliph, all the time knowing that the sorcerers back in Ubulla are gradually getting closer to achieving their goal?
 
-#### **The Thief of Basra**
+#### The Thief of Basra
 
 The characters catch someone stealing books on arcane lore from the library at Basra. The thief is taken to the minaret, and there his guilt is confirmed and he is sentenced to have his hand cut off. However, before the punishment is carried out, the thief tells the characters that he was only conducting the theft at the command of a sorcerer who is holding his family hostage. He begs them to gain proof of this so that his crime will be pardoned, as well as to rescue his family and keep them from harm. If the characters agree to help, the local chief *qadi* ((QAW-dee), "judge") gives them a week to obtain the proof required.
 
 Of course, it may be that the thief is in fact lying, and there is no sorcerer or family, in which case the characters return from their wild goose chase only to discover that the thief has escaped and they are now responsible for tracking him down again. This may be a tricky task if the thief also has supernatural powers.
 
-#### **Nimrod's Furnace**
+#### Nimrod's Furnace
 
 [Abraham] said: Worship ye then instead of Allah that which cannot profit you at all, nor harm you?
 
@@ -6022,7 +6022,7 @@ And We rescued him and Lot (and brought them) to the land which We have blessed 
 
 The furnace was originally dedicated to the powers of Hell, and was home to a fiery demon. However, direct intervention from God on Abraham's behalf made it into a holy object and trapped the demon inside to quell the flames. Now, a cabal of corrupted individuals seek to light the fires of Nimrod's Furnace once more, a feat that can only be achieved by weakening of the faith of Kutha's inhabitants, followed by profaning the testament to Abraham's miracle by burning holy men to death within it.
 
-#### **The Scholars of Hilla**
+#### The Scholars of Hilla
 
 The characters are contacted by a powerful but physically disabled Shi'i sahirs, who asks them to travel to Hilla on his behalf and seek the wisdom of a scholar named Muhammad ibn Muhammad, who makes his home there, providing the characters with a list of questions that they must ask him. However, it quickly becomes clear that there are three scholars with this name in the town, all of whom have wildly varying responses to the questions, and also that relations between these scholars are intensely hostile due to their theological differences. The characters will have to spend a considerable amount of time, and no small amount of tact and diplomatic energy, to gather all three scholars' answers without upsetting any of them (by clearly associating with either of his rivals) and causing them to become uncooperative.
 
@@ -6034,7 +6034,7 @@ held fast by great iron chains. Hilla contains a shrine where it is said that th
 
 Ighraq al-Siq ("the drowning flood of the gorge") is an ancient pagan spirit of the Tigris, now confined to a gorge on the lower or Lesser Zab, a tributary of the Tigris (also called Majnun, "the mad river") from its impetuous currents. Once able to range freely along the length of the river, he is currently confined to a specific stretch in the lower reaches known as the Siq al-Majnun, or sometimes just "the Jinni's Gorge". He is responsible for the paroxysmal Spring flooding through this narrow canyon. This immediate canyon area has a Magic Aura of 6.
 
-#### **Ighraq al-Siq**
+#### Ighraq al-Siq
 
 **Magic Might:** 40
 
@@ -6094,7 +6094,7 @@ and amor are also created with this power. He cannot become fatigued. This body 
 
 **Appearance:** Ighraq al-Siq appears as a thin giant with blue-green complexion and straggly green-black hair like water weeds. He carries a large spear and is clad in a vest of watersmoothed stones. Once manifested, this humanoid form can disperse into his preferred elemental form, a floodwave carrying a hail of stones that can travel upriver or downriver along a watercourse as a marauding torrent. The effect of a *Deluge of Rushing and Dashing* when invoked within the narrow confines of the gorge is particularly devastating.
 
-#### **Story Seed: Jinni Blocks**
+#### Story Seed: Jinni Blocks
 
 Since ancient times the spirit Ighraq al-Siq has been trapped inside a Jinni Block — a type of unusual tower tomb placed at the entrances to the ruins of some lost cities. The process may be similar to the Goetic Art of Binding, but an unknown effect triggered by intrusion into the Majnun canyon area releases Ighraq al-Siq from his imprisonment and compels him to drive off intruders. While trapped within the block, Ighraq al-Siq is essentially unable to affect his surroundings in any way and cannot be detected by magic, as he becomes part of the native stone. The stone block is granted the jinni's Magic Resistance, but can still be eroded and broken by the elements and other nonmagical attacks.
 
@@ -6127,11 +6127,11 @@ The city of Barqa'id is avoided by travelers, for it is populated almost entirel
 
 ## Story Seeds for Kufa and the Jazira
 
-#### **The House of Ibn Muljam**
+#### The House of Ibn Muljam
 
 As indicated in Chapter 2, 'Ali was killed by a political opponent with a poisoned sword. His killer, named 'Abd al-Rahman ibn Muljam, was subsequently executed. However, his sword was taken away by associates and buried in a house where he secretly stayed while he was in Kufa, in which it has subsequently spread an Infernal taint while also becoming an object binding 'Abd al-Rahman's ghost to the site. Since then the house has changed hands many times; because of the uncomfortable feeling there, and the many household accidents that occur, it has been labeled as cursed, although the locals do not know why. The house finally passes into the hands of a friend of the characters who has enough insight to realize that there are supernatural forces at work, and he contacts them to ask for their help in discovering and removing the cause of the troubles. However, by the time the characters reach Kufa the spirit has become strong enough to possess their friend. Can they remove the taint and defeat the ghost without harming him?
 
-#### **Tensions in Mosul**
+#### Tensions in Mosul
 
 The people of Mosul follow a righteous path, doing pious works. You will meet none of them but has a cheerful countenance and a soft word. They are generous to strangers, receiving them kindly, and using justness in all their dealings with them.
 
@@ -6139,11 +6139,11 @@ The people of Mosul follow a righteous path, doing pious works. You will meet no
 
 The characters are contacted by a magus or sahir who recently traveled to Mosul. The wizard in question, having read the travelogue of Ibn Jubayr, decided to investigate and see if the legendary kindness of the people of the city had a supernatural cause. However, his magical experiments in the city have gone awry, and he has inadvertently set the people against each other, so that civil war is brewing. The wizard has the Blatant Gift, impeding his ability to defuse the tension, so he asks the characters to come and act as mediators between the hostile factions while also helping him to cancel the effects of his magical meddling.
 
-#### **Against the City of Thieves**
+#### Against the City of Thieves
 
 The characters are victims of a raid conducted by the people of Barqa'id, and their victory over the thieves is witnessed by the inhabitants of a local village, who offer them succor. When they arrive at the village they find themselves welcomed like heroes, and it quickly becomes evident that the people are expecting them to destroy Barqa'id and rid them of their oppressors. How will the characters respond to these expectations?
 
-#### **The Battle for Nasibin**
+#### The Battle for Nasibin
 
 Nasibin is actually the site of an invisible battle for souls between an angel and a demon, of which the outward manifestations are the roses and the scorpions. So far, the battle between the two has reached only a stalemate, but either party might decide to try and enlist the aid of the characters. If the characters are taken in by the appeals of the demon, either succumbing to promises of rewards or mistaking the disguised demon for an angel, they may unwittingly find themselves aiding the cause of Hell.
 
@@ -6154,7 +6154,7 @@ on the road to Nasibin. As a result of its ever-worsening reputation, and the co
 
 An important center of Nestorian Christian scholarship and the seat of a bishop, the city of Nasibin is home to a mixed population of Christians and Muslims. It is famous for its gardens, said to be 40,000 in number and blessed with unusually large and fragrant white roses, but also for its scorpions, which deliver a particularly venomous sting and fill the city in great numbers.
 
-#### **The Astrologers of Nasibin**
+#### The Astrologers of Nasibin
 
 For most of the history of the Suhhar Sulayman, Nasibin was home to a great bayt al-hikma known as the House of the Heavens, the seat of the great family of Solomonic astrologers called the Ashab al-Najm. This was a series of five large buildings carved from white stone and placed around a central building that housed an observatory with an astrolabe, with a great procession of statues in the courtyard between them fashioned to represent each of the ancient Babylonian figures associated with the planets and zodiacal constellations.
 
@@ -6210,13 +6210,13 @@ Crossing the River Sanjah, a tributary of the Euphrates, is an exceptionally wel
 
 ## More Story Seeds for the Jazira
 
-#### **The Death of Tenik**
+#### The Death of Tenik
 
 In ancient times there were two chieftains named Tigran and Vasdes. Tigran ruled a village on the site of Amid, while Vasdes ruled another village nearby. One night, Tigran raided the village of Vasdes and took the latter's wife, Tenik, hostage. The following night, the night of the spring equinox, Vasdes led his troops out to rescue his wife and take revenge on Tigran, but Tenik, who wished to prevent further bloodshed, threw herself between the two warbands in an attempt to halt the fighting, meeting an accidental death under her husband's already-swinging club. Horrified, both men called a halt to the conflict and resolved their differences.
 
 The Faeries at Amid seek to re-enact the conflict of Tigran and Vasdes, but they are unable to bring it to its final resolution due to human ignorance of the story. In the meantime, their army, the Faerie manifestation of the warband of Vasdes, has grown as Amid has grown, with the result that it continues to be a threat to the city. The characters learn of the story from a Faerie that lives nearby and realize that the conflict may be brought to an end if someone takes the role of Tenik and falls under Vasdes' axe. Yet how may this be achieved without someone having to die?
 
-#### **The Dead of Siffin**
+#### The Dead of Siffin
 
 The identity of one of the corpses buried at Siffin causes concern for the characters.
 
@@ -6226,7 +6226,7 @@ Alternatively, maybe the cause for concern is a corpse that, from a distance, re
 
 Of course, with both storylines the characters will need to find ways to observe the corpse in question more closely, to ensure that they are not merely seeing a coincidental resemblance. This can probably be achieved using magic either to gain a closer view of the body or to mark the grave so that they may disinter the corpse. Of course, if they do the latter, they will have to ensure that they are unobserved by people who might object to them disturbing the site.
 
-#### **The Heat Is On**
+#### The Heat Is On
 
 This is a town with no beauty about it. It has no shade to mitigate its feverish heat, and its climate follows from its name (*harran*, "hot"). Its water bears no acquaintance with freshness, and its squares and outskirts never cease to burn from the heat of its midday sun. No noontime place of rest will you find there, and you will breathe no air that is not heavy. Thrown into the naked waste, it has been founded in the midst of the wilderness and, without the brightness of a city, its shoulders have been stripped of the clothing of verdure.
 
@@ -6234,11 +6234,11 @@ This is a town with no beauty about it. It has no shade to mitigate its feverish
 
 Why is Harran so unusually hot? The characters discover that the growing heat in the town is the work of remnants of the Sabian magi, who hope that by making the city inhospitable they may drive away the population, leaving it an empty site that they may excavate for ancient treasures of their tradition and in which they may resurrect their cult. This desire to reclaim the site may find sympathetic ears among the characters, since Hermetic magi often have mixed feelings about similar mundane encroachment on magical sites. The magi may be tempted to aid the Sabians in their efforts, or they may seek to arrange some sort of compromise that allows them to practice their magic while leaving the local populace undisturbed.
 
-#### **The Holy Mandylion**
+#### The Holy Mandylion
 
 The Image of Edessa (as the Holy Mandylion is called by the West) is now in possession of Otto de la Roche, the crusader Duke of Athens, not only one of the most powerful mundanes in the Theban Tribunal, but now virtually invincible thanks to this powerful relic. For his persecution of the orthodox clergy, the pope has recently excommunicated de la Roche (see *The Sundered Eagle*, Chapter 5: Athens, and 9: Relics of Constantinople). The characters are somehow motivated to return the relic to Edessa; perhaps they are hired by an Armenian nobleman (or magus), or else it is necessary to defeat a great evil that threatens Edessa.
 
-#### **The Missing Talisman**
+#### The Missing Talisman
 
 The characters are approached by representatives of the villages around the Sanjah Bridge. The talisman has been stolen, and the bridge is starting to crumble at a supernaturally fast rate. The local villagers depend on the bridge to allow them to transport crops to market. Can the characters track down the thief? Even if they do, can they restore the talisman's magical effect before the bridge collapses completely?
 
@@ -6249,7 +6249,7 @@ arch over 200 paces long, made from huge blocks of dressed stone. This was const
 
 Arzanjani brass-smithshave a magical talent that allows them to manipulate brass by hand, enabling them to produce exceptional pieces of work. This is represented by the Minor Supernatural Virtue Lesser Power (*Realms of Power: Magic*, page 45), which is gained through guild Initiation. The Initiation Script to gain this power always includes the Minor Personality Flaw Vow (guild loyalty). Mechanics for Initiation can be found in *The Mysteries Revised Edition*, pages 8–16. Organization Lore: Arzanjani Brass-Smiths' Guild may be used in place of (Mystery Cult) Lore in this instance.
 
-#### **Crafter of Brass**
+#### Crafter of Brass
 
 1 Fatigue level, Init equal to (Qik – 6), Terram
 
@@ -6261,7 +6261,7 @@ ReTe 15 (base 4, +1 Touch, +1 Conc, +1 for intricacy): Lesser Power (15 levels, 
 
 A character may begin the game with this Virtue, in which case she should also take the Vow Flaw and a score of 1 in Organization Lore: Arzanjani Brasscrafters' Guild. She should also consider taking Flaws that represent the experiences of her Initiation.
 
-## **Story Seed: To Learn the Craft**
+## Story Seed: To Learn the Craft
 
 A magus of House Verditius is intrigued to learn about the powers of Arzanjani brass-smiths and sends the characters to find out more. He particularly encourages one of the characters (perhaps a filius) to learn the Mystery, so that they may later examine its similarities to aspects of Verditius Magic. However, in order to achieve this the characters will have to persuade the elders of the Arzanjani BrassSmiths' Guild to initiate one of them, including convincing them that their secret will not be shared with the world at large.
 
@@ -6313,11 +6313,11 @@ The most important city in Arran is Baylaqan, which stands in a river valley sup
 
 The secluded tower at Lake Urmiya could be a good site for a new covenant. Alternatively, it also provides a great excuse for an old-fashioned dungeon crawl, should the players feel nostalgic for the early days of roleplaying. In both cases, given that the sorcerer clearly bred the hybrid dog-fish found in the lake, it is more than likely that the tower and the tunnels below it house all sorts of hybrid monstrosities that may oppose or welcome the characters, depending on the needs of your saga.
 
-#### **Dim Skies and Rotten Fruit**
+#### Dim Skies and Rotten Fruit
 
 An unheard-of thing happens: the skies above Maragha become cloudy. At the same time, the melon crop fails suddenly, going rancid overnight. The player characters are asked to investigate, and they soon discover that the town has fallen out of favor with the supernatural entity that up until now ensured its prosperity. The question is, what act by the populace has earned the creature's enmity, and how may it be appeased?
 
-#### **To Build a Mosque**
+#### To Build a Mosque
 
 Some of the people of Barvan would like to see a major mosque built in the city, both to provide a gathering point for the people and to improve the town's reputation, but the governor is not of particularly pious inclination and would rather spend his money on worldly pleasures. In addition, the most logical way to build such a mosque would be through the expansion of one of the existing mosques, but the townsfolk cannot agree on which mosque to expand. The characters are prevailed upon to act as external mediators both with the governor and between the leaders in the various mosques. Can they come up with a solution that will please everyone?
 
@@ -6461,7 +6461,7 @@ A pairika is the Persian term for the Aerial Powers (*Realms of Power: The Infer
 
 \* Essential Trait
 
-#### **Combat:**
+#### Combat:
 
 *Swarm bite:* Init +10, Attack +7\*, Defense n/a, Damage +10
 
@@ -6473,7 +6473,7 @@ A pairika is the Persian term for the Aerial Powers (*Realms of Power: The Infer
 
 **Abilities:** Athletics 3 (flying), Awareness 3 (corpses), Brawl 3 (biting), Magic Sensitivity 3 (wizards)
 
-#### **Powers:**
+#### Powers:
 
 *Donning the Corporeal Veil*, 0 points, Init +9, Animal: Allows the nasu to take material form, which it can dismiss at any time. Nasu usually only leave the material world when there are no more corpses on which to feed. Cr(Re)An 25 (base 5, +1 Touch, +2 Sun, +1 requisite) Greater Power (25 levels, –3 Might cost, +2 Init)
 
@@ -6591,7 +6591,7 @@ All Ghuzz tribesmen have the Large Virtue, except for those in whom the blood of
 
 have the Rebellious Personality Flaw.
 
-#### **New Virtue: Greater Power (Command The Masses)**
+#### New Virtue: Greater Power (Command The Masses)
 
 Major, Supernatural
 
@@ -6599,7 +6599,7 @@ This new Virtue grants the Command the Masses power that is described later. The
 
 *Command the Masses*, no cost, Init Qik – 2, Mentem: The Ghuzz can issue an order, and a standard Group of men are strongly inclined to obey this order. In battle, this secures total leadership, and the Ghuzz need not spend his turn forming a trained group or changing their actions. ReMe 30 (Base 5, +2 Voice, +1 Diam, +2 Group) Greater Power (30 levels, –3 Might/Fatigue cost, +1 Init)
 
-#### **New Flaw: Rebellious**
+#### New Flaw: Rebellious
 
 Major or Minor, Personality
 
@@ -6631,7 +6631,7 @@ Hindijan is the port of Arranjan on the lower reaches of the Tab River. Many fru
 
 Near to Darabgerd is a hill where rock salt of seven colors is occasionally dug out. This salt is of interest to sahirs for it is Dedicated Vis (*Realms of Power: Magic*, page 122), exceptionally suited to the summoning of jinn, who find it particularly pleasing. Each pawn of this vis gives the same bonus as two pawns of normal vis when summoning jinn (but not other types of spirit). Princes like to keep control of the salt mines and use the salt of seven colors to court sahirs, or reward them.
 
-#### **Story Seed: Summoner's Salts**
+#### Story Seed: Summoner's Salts
 
 A sahir is gifted with a princely sum of salt of seven colors, either as an inducement or a reward for a trivial task. This allows him to summon and bargain with much more powerful jinn than he ever could before, and his benefactor hints that he can get much more. Unfortunately, the salt provided to the sahir is tainted to be highly addictive, and the jinni summoned keeps demanding more and more. This is fine while the benefactor keeps supplying the salt, but he eventually starts to ask for bigger and bigger favors. The sahir comes to the characters (or perhaps is one of the characters) in need of solutions: how to escape from the powerful jinni he has summoned, and how to uncover the nefarious plot of his "benefactor."
 
@@ -6658,7 +6658,7 @@ The island of Kish is the principal port
 
 so, since the previous port of Siraf further west around the coast was destroyed by an earthquake that lasted seven days.
 
-#### **Abarkavan**
+#### Abarkavan
 
 The Long Island is home to pirates and raiders, and is the bane of the emir of Kish who prefers that the traders coming to his port are unmolested. Kish's lucrative pearl fishery banks are also close to Abarkavan, and divers risk encounters with the pirates whenever they collect their harvest. The pirates have among their number an elementalist (*Hedge Magic Revised Edition*, Chapter 2) who plays havoc with the wind and waves.
 
@@ -6678,13 +6678,13 @@ fortune it grants is proportional to its size, but the Kajarani are careful not 
 
 The fourth king to rule the world, according to the *Shahnameh*, Jamshid made his capital at Istakhr, which then was called Takht-e Jamshed. He was a mighty sorcerer who had control over all the jinn of the world, and invented armor and weapons, weaving and dyeing, masonry, making wine, and navigation and ship-building. He was endowed with the royal *farr*, a shining light that indicated the blessing of Ahura Mazda. However, he grew to boast of his accomplishments, and the farr abandoned him. Without the farr, Zahhak (see later) was able to make war on him, and Jamshid was brutally murdered by the demonic tyrant.
 
-#### **The Jaam-e Jam**
+#### The Jaam-e Jam
 
 The Cup of Jamshid is a silver cup ringed seven times with gold and gems. For it to work, it must be filled with an elixir of immortality. This can be any liquid that grants long life, such as al-Iksir (see Chapter 3: Order of Suleiman) or a Hermetic Longevity Ritual in an appropriate form. This liquid must be invented afresh each time it is made, and brewed specifically for the user of the cup; this permits use of the device for one season. Once used in the cup, the elixir loses its magical properties. When activated, the cup allows the bearer to see any place in the world, similar to *Summoning the Distant Image*, but without the need for an Arcane Connection to the place scried. The user needs to merely mention the name of the place to be viewed, and an image appears in the cup. The Jaam-e Jam can also give visions of the heavens, which doubles the wielder's Artes Liberales for astrological calculations, and doubles Solomonic Astrology for magical workings.
 
 The Cup of Jamshid was used by the ancient Persian dynasties right up to the Muslim invasion. It was never taken by the Arab rulers and remained hidden in Istakhr until rediscovered by a sahir several years ago.
 
-#### **Story Seed: The Spying Sahir**
+#### Story Seed: The Spying Sahir
 
 The sahir in possession of the Cup of Jamshid has been using it for petty purposes — spying on his neighbors and rivals, which may include the characters. In the midst of his nosy scrying, he stumbles upon a noted member of the community doing something unconscionable, such as binding a sentient being, sacrificing to the devil, or something similar. There is no way he can reveal what he has seen without revealing how, and so he must manipulate the characters through his secret knowledge of them, making them uncover the nefarious deeds of the eminent citizen.
 
@@ -6731,11 +6731,11 @@ The two most famous weavers are Dadvand and Yarankush. Dadvand is a manufacturer
 
 Yarankush is known for making carpets which protect their owner. He specializes in rugs that let out a loud noise when they are stepped on by anyone other than their owner, and in these days of secret murder such carpets are a boon to any powerful man. Unknown to all, Yarankush is a member of the Isma'ili assassin sect (see later), and in the design of the carpet he hides a secret warning so that they know not to step on it. Since advertising that one has a Yarankush rug defeats the point of having one, this has not affected Yarankush's sales.
 
-#### **Dadvand's Steed of the Air**
+#### Dadvand's Steed of the Air
 
 Twice per day, this heavy woolen carpet can lift off the ground and transport its owner, and everything he is carrying, through the air as fast as a horse can run. ReAn 15 (Base 1, +1 Conc, +2 very unnatural motion, +1 carry person on carpet, +1 speed; +5 maintains concentration). Ease Factor to make: 16
 
-#### **Yarankush's Murderers' Chagrin**
+#### Yarankush's Murderers' Chagrin
 
 Twice per day, the owner can activate the warning function of this carpet. As long as he remains in contact with the carpet (sleeping or sitting on it, for example), any other individual touching the carpet causes it to emit a loud sound for a round; each carpet produces a different noise. CrIm 3 (Base 1, +1 Touch, +1 Size). Ease Factor to make: 14
 
@@ -6762,7 +6762,7 @@ This is the seat of the semi-independent province of Kurdistan, which was create
 
 jar for his nephew. Kirmanshah boasts a great mosque and a sumptuous palace. About a day's march east of Kirmanshah are the sculptures of Bustam, carved into the black rock of the mountainside. These depict King Darius receiving tribute from his subject kings, and the much later sculptures of King Khursaw Parviz and Queen Shirin, whose story is well known — Shirin was loved by the sculptor Farhad, who killed himself in despair for his love of her.
 
-#### **Kanguvar**
+#### Kanguvar
 
 Kanguvar, called Kasr-al Lusus, the Robber's Castle, by the Arabs, lies near to the road heading east from Kirmanshah; it is so named because of the larcenous activities of its inhabitants. Travelers are well-advised to count their fingers and toes after passing through Kanguvar.
 
@@ -6814,7 +6814,7 @@ A rich town that makes its living from silk and perfume, Ramhurmuz also boasts a
 There is an alchemist who claims to be able to turn base metals into gold who lives in Ahwaz. He needs a few magical ingredients to effect this change, and promises to share his yield with characters if they help him get the supplies he needs. Key among these ingredients is the wood collected by the gryphons that live in the Zagros mountains for their nests. However, he intends to abandon his helpers to the mercy of the gryphons, so as to safeguard his secret recipe.
 
 
-#### **District of the Zutt**
+#### District of the Zutt
 
 The Zutt are a tribe that dwells to the southeast of Ramhurmuz, close to the border with Fars. They are a seminomadic people who claim to originate from beyond Al-Sind, and they travel in wagons richly painted with vibrant designs. The Zutt themselves favor flamboyant colors in their dress, utilizing delicate silks and heavily-dyed linen. The Zutt have a reputation for larceny, and the Khuzistani are usually hostile to them when they arrive in town to trade. Zutt women are known for being powerful Folk Witches (*Hedge Magic Revised Edition*, Chapter 3).
 
@@ -6951,7 +6951,7 @@ One of the reasons it might have failed to repel the Ghuzz is a breach in the wa
 
 \* This is an Essential Trait; see *Realms of Power: Magic*, page 54.
 
-#### **Combat:**
+#### Combat:
 
 *Bite*: Init +5, Attack +11, Defense +12, Damage +1
 
@@ -6965,7 +6965,7 @@ One of the reasons it might have failed to repel the Ghuzz is a breach in the wa
 
 **Abilities:** Athletics 6+2 (running), Awareness 3 (gazelle), Brawl 5 (bite), Dasht-i Kavir Lore 2 (oases), Hunt 4 (gazelle), Survival 3 (semi-desert)
 
-#### **Powers:**
+#### Powers:
 
 *Swiftness of Thought*, 1 point, Init +4, Animal: A Hyrcanian tiger can naturally move at incredible speeds, but by spending a Might point it moves an extra 500 paces for a single round. ReAn 20 (Base 20, by analogy with ReCo) Personal Power (20 levels, –1 Might cost)
 
@@ -7036,14 +7036,14 @@ man's-land where outlaws find shelter and there are no permanent villages except
 
 This salt desert is found to the north of Persia's central plateau. It is about 500 miles west to east, and about 200 miles north to south. Although the center of the desert receives virtually no rainfall, there are marshes, wadis, and steppe-like regions within the Dasht-i Kavir, and in the west a great salt lake. Unlike the Dasht-i Lut (see later), the Dasht-i Kavir is home to many birds, such as the ubiquitous sand grouse and the impressively large bustard, as well as the fabled Persian gazelle and the Hyrcanian tigers who hunt it.
 
-#### **Garmah**
+#### Garmah
 
 In the center of the Dasht-i Kavir, halfway between Isfahan and Tabas, is one of the three oases of the Great Des-
 
 
 ert. It consists of three hamlets camped around a small fort, some palm trees, and pasture where cattle can forage. The emir of the fort is charged with keeping the desert routes clear for merchants and other travelers.
 
-#### **Naband**
+#### Naband
 
 The middle of the three oases of the Dasht-i Kavir, Naband sits between Kirman and Quhistan. Despite possessing a guard house, the domed water tanks of
 
@@ -7096,13 +7096,13 @@ Naband are notorious hiding places for desert raiders.
 
 The "emptiness desert" is approximately 300 miles along its northwest-to-southeast axis and 200 miles wide. The eastern part of the Dasht-i Lut is a low plateau of salt flats. The southeast is principally sandy. Unlike the Dasht-i Kavir, animal and plant life is much more scarce in the southern desert.
 
-#### **Gandom Beriyan**
+#### Gandom Beriyan
 
 The central portion of the Dasht-i Lut is called Gandom Beriyan ("the toasted wheat"). It is a volcanic wasteland covered in black lava. It is the most treacherous of terrains, riddled with ravines and sinkholes, and blasted by a terrifically strong wind. The Gandom Beriyan is the hottest place in Persia, and is completely devoid of animal or plant life.
 
 The Gandom Beriyan is, however, the home of the most malicious and evil of the jinn tribes, since an Infernal aura of 4 covers this area. The aura is corrupted with a Debauched aura of exhaustion (*Realms of Power: The Infernal*, page 14) that prevents anyone from spending Confidence points while here. At the heart of the Gandom Beriyan is the entrance to a Tartaran regio with an Aura of 7 where the air itself burns, and the rock is molten. One of the most powerful corrupt jinn in Persia lurks in this regio.
 
-#### **Sanij**
+#### Sanij
 
 The southernmost oasis of the Great Desert, Sanij links Kirman with Seistan. The Balu tribesmen (see Kirman, earlier) know this valley oasis well, and are a constant threat to the sizable population that lives here.
 
@@ -7140,11 +7140,11 @@ Rostam is the legendary hero of the Persian race. He was a giant so big his moth
 
 The legend of Rostam can be integrated into a saga in a number of ways, and some ideas are given later. So famous is it that any Persian character is likely to know the story of Rostam without an appropriate Ability roll, but precise details should be left to those with an appropriate Area Lore.
 
-#### **Mythic Blood: Rostam**
+#### Mythic Blood: Rostam
 
 A magus who hails from the line of Rostam has great physical prowess. He can grant himself a +3 bonus to any one type of physical action that is a specialty of the Athletics, Ride, or Swim Abilities (e.g., climbing, running, riding at speed, diving, swimming long distances, etc.). Each time this power is used, a different physical action can be selected; the bonus lasts for two minutes, and the power cannot be used again until the previous bonus's duration has expired (ReCo 25: base 10, +1 Diam, +2 flexibility). The Minor Magical Focus that accompanies this bloodline is Damaging Supernatural Creatures, and the Personality Flaw is Reckless (born mostly from stubbornness rather than heroism). It is likely that the character has either the Large or the Giant Blood Virtue.
 
-#### **Rostam's Tiger Skin and Mace**
+#### Rostam's Tiger Skin and Mace
 
 Rostam's Tiger Skin was worn over his armor, and he used it as a blanket when adventuring. It grants a Soak bonus of +5 that is cumulative with any other armor, and it has a Load of 1. It makes its possessor a very deep sleeper; the character can always recover Long Term Fatigue levels from a night's sleep, even if it is on hard ground or unpleasantly cold. However, a Stamina roll against an Ease Factor of 9 is required to rouse the character from sleep at all, and when woken the character has a –1 penalty to all actions until the sun rises. These effects can be thrown off by spending a Confidence point. The tiger skin is currently in the possession of the emir of Ghur.
 
@@ -7195,7 +7195,7 @@ A disease that is particularly common in Khurasan thanks to the malign influence
 
 A cure used by the Ghuzz is to bury the afflicted limb in hot sand from dawn until dusk. The worm then migrates from the limb and into the sand. The problem with this cure is that sometimes the rishtah survives in the sand and can grow to be five feet long (and some report even bigger ones). The Ghuzz call such a worm the *olghoi khorkhoi*, and report that it has been known to attack travelers and livestock with its fiery venom.
 
-#### **Olghoi Khorkhoi**
+#### Olghoi Khorkhoi
 
 **Magic Might:** 14 (Animal)
 
@@ -7225,7 +7225,7 @@ Qik +1
 
 **Abilities:** Brawl 4 (bludgeon), Desert Lore 2 (trails), Stealth 4+2 (under sand), Thrown Weapon 4 (fiery venom)
 
-#### **Powers:**
+#### Powers:
 
 *Spit Fire*, 1 point, Init +3, Ignem: The olghoi khorkhoi can spit fiery venom up to 15 paces. It must succeed in a Thrown Weapons Attack to do so, receiving a –2 penalty if the target is 6–10 paces away, and a –4 penalty if it is greater than 10 paces away. The fiery venom can only be parried if the target has a shield; otherwise it must be dodged with a Brawl Defense Total. If it hits, the venom inflicts +30 damage. The creature cannot use this power between June and November (Restricted Power Flaw). CrIg 35 (Base 25, +2 Voice) Greater Power (35 levels, –3 Might cost, +6 Init (from *Fiery Touch* power and Improved Powers))
 
@@ -7275,7 +7275,7 @@ All along the road between Nishapur and Mashhad are imprints on the rocky road w
 
 the turquoise and malachite that makes its way into the Middle East and Europe originates from mines near Nishapur.
 
-#### **Mihr**
+#### Mihr
 
 This unprepossessing village on the road to Nishapur is the home to one of the three Royal Fires of Zoroastrianism (see Mount Kavarvand, earlier, for more information on the Royal Fires). The ruins of a fire temple hide the entrance to a terrestrial Divine regio of aura 8. Within, the fire temple is intact, and inside it burns Adur Burzen-Mihr, the holy flame. This fire is specifically tied to farmers and craftsmen, just as the other two fires are tied to royalty and the priesthood. A tool left in the regio for a year will be purified by the holy flame, and henceforth grant a +4 bonus to any Craft or Profession Ability rolls made using it. This bonus lasts for a number of years equal to the Theology: Mazdean Ability of its owner. Only the owner of the tool can benefit from this bonus; should another even touch the tool, it loses its purity forever.
 
@@ -7328,7 +7328,7 @@ A rich yet unfortified city in the east of the Ghur district, Bamiyan was recent
 
 The summer capital of the Ghurids, Firuzkuh means "turquoise mountain" in the local dialect due to the preponderance of that mineral, along with silver, in the surrounding hills. Firuzkuh was a retreat used by the Shansabani to keep their wicked activities hidden. Many of their political enemies were brought in secret to Firuzkuh, and drowned in the Hari river. Some claim that Firuzkuh was the center of devil-worship by the Shansabani. The palace is now empty, although the ghosts of the family's victims still stalk its halls.
 
-#### **The Minaret**
+#### The Minaret
 
 Located on a bend in the Hari River, the Minaret of Firuzkuh stands over 200 feet high, and is made of baked bricks. It is intricately decorated with glazed tiles bearing alternating bands of Qur'anic verses, geometric patterns, and calligraphy in multiple scripts. The verses from the *Qur'an* are taken from the *surat Maryam*, which relate to Mary, the mother of Jesus. The minaret has been under assault from the jinn of the Hari, and just recently the mosque to which the minaret was attached was destroyed in a flash flood. The minaret stands firm against their attacks, for it is powerfully warded against supernatural creatures. Sahirs have spend long years trying to figure out the means by which it is protected, but the minaret's secrets have so far eluded them, other than to determine it is of Divine origin.
 
@@ -7367,7 +7367,7 @@ that give the sect its notoriety and political pressure. The first initiated ran
 
 The Nizaris are organized into *jaziras* ("islands"), each representing a geographical territory, and under the control of a hujja. The da'is within each jazira are responsible for preaching the doctrines of the sect and spreading the Isma'ili faith. Each hujja reports directly to the dai'd-duat, who is the head of the sect and grand master of Alamut. Members of the sect commonly refer to each other as *rafiq*, "comrade."
 
-#### **The Da'wa**
+#### The Da'wa
 
 The *da'wa* (mission) is the philosophy and organization of the Nizaris. A core doctrine is that of *taqiyya*, the concealment of one's beliefs in the face of danger. Islam stresses the importance of truth and honesty, and yet taqiyya allows the Isma'ilis to deny their adherence to its precepts and live in secret among others. It permits them to use subterfuges and disguises without betraying their faith in God.
 
@@ -7385,25 +7385,25 @@ The current dai'd-duat of the Nizari Isma'ilis is Jalal al-Din Hasan, who succee
 
 ## New Nizari Virtues
 
-#### **New Virtue: Fida'i**
+#### New Virtue: Fida'i
 
 *Social Status, Minor*
 
 The character is an assassin of the Nizari Isma'ilis. A fida'i is a devout member of the sect who is prepared to die on its orders, and as such he should consider taking either the Oath of Fealty or Dutybound Flaw. When not on a mission, a fida'i wears white, with a red girdle, cap, or boots. He has been trained in precise placement of daggers and blades, as well as disguise. Fida'i may take Martial Abilities at character creation. He can expect to become a lasiq if he proves his loyalty to the sect.
 
-#### **New Virtue: Lasiq**
+#### New Virtue: Lasiq
 
 *Social Status, Major*
 
 The character is an experienced assassin of the Nizari Isma'ilis, having successfully completed seven murders at the orders of his grand master, and commands a small band of up to six fida'is. Lasiq may take Martial Abilities at character creation.
 
-#### **New Virtue: Mustajib**
+#### New Virtue: Mustajib
 
 *Social Status, Free*
 
 This Virtue is the Nizari equivalent of the Sahir Virtue. The character has been initiated into the magical traditions of the Nizaris, and must take Solomonic Sihr as his Summoning Power. If a mustajib has The Gift, he has been Opened to all of the Solomonic Arts; if he is unGifted, then the Solomonic Arts must be bought as Virtues or else be Initiated after character creation. Un-Gifted characters should also take the Necessary Condition and Prohibition Flaws to represent Initiation by the Nizaris. Mustajib may take Academic and Arcane Abilities at character creation. Most mustajibs started their careers as fida'is, and typically have this Virtue (or the Lasiq Virtue) to represent their social status among non-magical folk. However, if he joined the sect later in life he may choose different Social Status Virtue.
 
-#### **New Virtue: Trained Assassin**
+#### New Virtue: Trained Assassin
 
 *General, Minor*
 
@@ -7413,7 +7413,7 @@ This Virtue is only available to characters with one of the three Social Status 
 
 Two example Initiation Scripts are given here. Nizaris are almost always Initiated into Solomonic Storytelling in preference to other Solomonic Arts.
 
-#### **Initiation of Solomonic Sihr and the Rank of Mustajib**
+#### Initiation of Solomonic Sihr and the Rank of Mustajib
 
 **Ease Factor**: 21 **Script Bonus**: +18
 
@@ -7423,7 +7423,7 @@ When he returns to the mundane world with the vision of paradise still filling h
 
 The ritual that Opens the Arts of a Gifted Nizari has similar elements to this Initiation, although it does not impose any Flaws.
 
-#### **Initiation of Solomonic Storytelling**
+#### Initiation of Solomonic Storytelling
 
 **Ease Factor**: 21 **Script Bonus**: +15
 
@@ -7446,7 +7446,7 @@ Jalal al-Din to be the imam-qa'im.
 
 In addition to Daylam, Quhistan, and Qumis (mentioned earlier), the Nizaris have significant hidden communities in the south of the Zagros Mountains in Fars (including the fortress of Shardiz), and scattered cells in most of the important cities in the Mythic Middle East. The Syrian Assassins have their base at Masyaf in the Holy Land, with a further stronghold near Aleppo.
 
-#### **Alamut**
+#### Alamut
 
 Alamut was built by one of the kings of Daylam; he was out hunting one day and his eagle alighted on a rock. He immediately saw the strategic potential of the site, and built a castle there that he called *aluh-amut*, which in the Daylami language means "the eagle's lesson." Since then, Alamut has become more than just a castle; it is a fortified village in Rudbar, the valley of the Shahrud.
 
@@ -7482,25 +7482,25 @@ south of the Aral Sea and forming a bar-
 
 rier between wild nomad steppes to the north beyond the Jaxartes and the urban settlements of the south across the Oxus. A third lesser river, the Zeravshan ("the golden"), courses past the great cities of Samarkand and Bukhara only to choke into dust in the deserts before reaching one of the inland seas.
 
-#### **The Oxus**
+#### The Oxus
 
 Mistakenly associated with the Hebrew Gihon, one of the four rivers that flows into Eden, the great waterway known as the Jahyun to the Arabs, the Amu Darya to the Turks, and the Oxus to the classical Greeks has always been considered one of the frontiers of the classical world. Locals of the high Pamir village of Qarabolaq claim it is birthed from the eerie Lake Zorkul nearby, but the classic geographers claim it begins its journey as it melts from a great ice cave beneath a glacier high up in the fabled Wakhan corridor.
 
 The original bed of the Oxus runs westward across the desert for six days march before reaching the shores of the distant Bahr Khazar (Caspian Sea) near the fishing town of Khalkhal. This former stretch of the river is devoid of magical spirits as they have all been bound into the structures and canals near Gurganj, but nevertheless retains a fading Magic aura of 2 along its dusty length. On cool nights, when the constellation of Aquarius is ascending, small clear pools of water can be found along the dry bed and can be harvested for Aquam vis.
 
-#### **The Jaxartes**
+#### The Jaxartes
 
 Also known as the Sayhun or the Nahr-ash-Shash ("the river of Shash"), the Jaxartes forms from numerous mountain streams in the valley of Farghana, flowing through this province past the homeland deserts of the Ghuzz Turks via many channels into the northeastern part of the Buhayrah Khwarazm (Aral Sea). More so than its greater sibling to the south, the Jaxartes forms the true border between Iran and Turan, Persian and Turk, civilized agrarian and barbaric nomad.
 
 ## Story Seeds for The Great Rivers
 
-#### **A River Runs Through It**
+#### A River Runs Through It
 
 *The Cradle & The Crescent*
 
 In winter, both the lower Oxus and the Jaxartes freeze over, allowing merchant caravans (and lately nomad armies) to cross with ease. The cause of this phenomenon is an ongoing struggle between the Faerie and Magic jinn that claim dominance of the lands on either side of the great rivers. In winter, the local Faerie spirits hold sway and the rivers freeze over, allowing nomads and their stories to cross between the steppe and settled lands, engendering conflict and vitality for the faeries to feed off. In summer, the ancient Magic spirits resume their dominance, allowing the waters to flow in their natural course and providing irrigation to the towns of their lower reaches.
 
-#### **Spirits of the Oxus Delta**
+#### Spirits of the Oxus Delta
 
 Once a single mighty Magic Spirit, the clash of cultures along its lower banks has split the great spirit into a multitude of lesser entities as the river splits into numerous waterways and canals as it approaches the Aral Sea. Just short of this lake, the river is prevented from following its natural course by the great dykes of Gurganj, solid structures magically reinforced with captive jinn enslaved by the ancient sahirs of pre-Islamic times. The sequence of dams that disrupt the natural course of the river allow irrigation of the rich province via many canals.
 
@@ -7508,11 +7508,11 @@ Faerie, Infernal, and Magic (perhaps even Divine) lesser river spirits can be fo
 
 One such lesser captive Magic spirit, Ahurani or Anahit, represents the vestige of a pre-Zoroastrian fertility spirit, or yazata, adopted by the Sogdians, now yoked to supply the harvests of the Khwarazmshah. The greater Faerie nobles known locally as Old Jahyun and the Son of the Oxus are known to be the most capricious and most powerful, although a clever magus or sahir may be able to bargain with one at the expense of the other.
 
-#### **The Jaxartes River Spirit**
+#### The Jaxartes River Spirit
 
 Unlike the Oxus, the Jaxartes is dominated by a single Faerie entity that involves itself in stories of nomad incursions. The ancient Jaxartes spirit feeds on the fear of the urban oasis dwellers of the rapacious barbarians of the steppes, orchestrating an invasion every few centuries by summoning a Faerie host with a new name through the gateway to Arcadia that lies just outside of Talas. See "The Endless Nomad Cycle" Story Seed later.
 
-#### **The Sea of Khazar**
+#### The Sea of Khazar
 
 The Bahr Khazar (Khazar or Caspian Sea) forms the northwestern boundary of Transoxiana. Beyond its expanse to the northwest once ruled the mythical Khazars, a powerful kingdom of nomads that converted to Judaism in the ninth and tenth centuries. This lost kingdom held back the Islamic expansion in the ninth century, only to fade back into the steppes from where it arose. Stories about their far realm continue filter all the way back into Mythic Europe, even to the court of the popes.
 
@@ -7530,19 +7530,19 @@ At the beginning of a canonical **Ars Magica** saga set at the start of 1220, Ge
 
 Throughout 1220, the Mongol armies, reinforced by Turkish recruits and deserters, ravage along the Jaxartes all the way to Khojend in Farghana, destroying the oasis towns of Signak, Jand, Yanikent and Banakat. By the end of autumn 1220, when the horde settles down along the Vaksh River, the Khan's armies have captured the twin capitals of the shah's realm, Samarkand and Gurganj, and chased the Sultan himself across Khurasan to his death on the shore of the Caspian Sea. Within another year, the Mongol juggernaut has penetrated into Persia, sacked Balkh, Merv, Nishapur, and Herat, and routed the Sultan's son Jalal al-Din across the Indus, while the two great generals, Jebe and Subadei, have commenced their great raid into Russia. Abandoned and never resettled, the original sites of the sacked cities may become home to similar Infernal auras, tarnished with the Personality Trait of Wrath. Such places attract lesser demons of destruction, dark faeries, ghul, and malevolent jinn to the Mongol wake and add to the human misery.
 
-## **Saga Seeds: Of Mongols and Magi ...**
+## Saga Seeds: Of Mongols and Magi ...
 
 Exactly how these events affect your Saga depends on the role the main characters intend to play within the region. For natives of Transoxiana, the Mongol invasion is devastating, resulting in a large loss of life and culture, but it can be used as a stimulus for introducing existing Hermetic characters to the Mythic Middle East. The massive tumult in the area may provide rich backgrounds for the introduction of wandering Mythic Middle Eastern companion characters into Western-based Sagas, similar to the diaspora following the fall of Constantinople to the Latins in 1204. Conventional Hermetic characters or their companions traveling in the area may become caught up in one of the sieges or escape from the sacking of a town and be forced to cooperate with native characters in order to escape back to Christendom, bearing news of the "hurricane from the east" to the disbelieving Order. Trianoma magi seeking to assess the Order of Suleiman may become embroiled in the fight against the Mongol juggernaut. Tytalan magi may be attracted to the conflict engendered, whereas House Tremere's reconnaissance may lead them to become involved in assessing the degree of threat posed by the invaders. Both Jerbiton magi and Redcaps may have links through trade or travel and be drawn into stories involving their mundane connections or family. Necromancers within the Order may be attracted to the sites of the massacres at Otrar, Bukhara, and other Transoxanian cities and be willing to risk their souls amidst the Infernal ruins.
 
 A saga set primarily in the Mythic Middle East could be focused on rebuilding amidst the ruins of Khwarazmshah's state under the foreign yoke of the Mongol Empire. The breakdown of mundane power structures and the scattering of local wizards could tempt Seekers and young Hermetic magi to mount expeditions to explore and perhaps settle in covenants within the fractured polities of the former lands of Alexander's great empire. Stories may run with the usual Spring covenant founding aim but could involve the complexities of dealing with both the foreign mundane civilians and unusual magical natives of the area while interacting with the Mongol aristocracy and the accompanying bureaucracy.
 
-#### **The Aral Sea**
+#### The Aral Sea
 
 Also known as the Lake of Khwarazm, this shallow and reedy lake is known for its excellent fishing in the southern part, although it is not considered navigable.
 
 In the southeastern corner of the sea lies a small island, called Jabal Jaghrahaz, that has a Magic Aura of 4. The water surrounding the island is perpetually frozen — local folk swear it must be the dwelling of powerful water jinn, the marid Jaghrahaz, but none are brave enough to venture across the frozen water to investigate the small hill that the island contains.
 
-#### **Kyzylkum Desert**
+#### Kyzylkum Desert
 
 The "red sands" lie between the two great rivers, forming the southeastern border of the estuarine province of Khwarazm and the northwestern border of Sogdiana. Despite tracts of crescent-shaped dunes, much wildlife can be found at its less arid
 
@@ -7557,17 +7557,17 @@ Once known as Bactriana and more recently referred to as Tokharistan, the lands 
 
 Despite being conquered by successive waves of nomads — the Sakas, the Kushans, the Sassanids, the Hepthaelites, and most recently the Arab forces — the hinterland of the region retains many of its classical monuments and links to the Faerie powers of Greek myth. Outside of the Theban Tribunal, it contains more classical Greek structures than anywhere else in the Mythic Middle East.
 
-#### **Balkh**
+#### Balkh
 
 For a long time, the large and ancient city of Balkh was the home of Zoroastrianism, since Zoroaster was born here and is buried within its walls. At the time of the Islamic invasion of Persia, Balkh provided a refuge to the Persian emperor Yezdgird, but in the current era it has thoroughly embraced Islam. The Greek name for Balkh was Bactra, and gave its name to the whole region of Bactria.
 
-#### **The Ruins at Ai Khanoum**
+#### The Ruins at Ai Khanoum
 
 Once an important center for Hellenism in the centuries before Christ, these eastern ruins lie at the confluence of the Jahyun and its tributary, the Nahr Dirgham. Originally founded by Alexander the Great as Alexandria on the Oxus, it was later developed into the important Seleucid city of Eucratidia.
 
 Partial remains of several structures, including a gymnasium, a theater almost the size of the great structure at Epidauros, and several temples to pagan Greek gods, most notably Zeus and Dionysius, give the area an overall Magic aura of 4. The gymnasium is the best preserved building and lies within a level 7 Magic aura, centered upon a pillar engraved with a dedication to both Hermes and Hercules.
 
-#### **Sogdian Rock**
+#### Sogdian Rock
 
 This landmark marks the site of an ancient battle between the forces of Alexander and the rebellious satrap of Sogdia, Oxyartes of Balkh, father of the legendary beauty Roxane. It can only be accessed by little-known mountain paths and its exact location is known to only a handful of local tribesmen. The ancient spirits of the 30 men who fell during the ascent continue to haunt the site but bear no love for the successors of their Persian adversaries.
 
@@ -7577,17 +7577,17 @@ Since ancient times a land of merchants and middlemen, Sogdiana remains a place 
 
 ## Bactria Story Seeds
 
-#### **Naw Bahar**
+#### Naw Bahar
 
 A fire temple by the name of Naw Bahar in one of Balkh's suburbs was built in the Sassanian days as a rival to the Ka'ba of Mecca. Its walls are adorned with precious stones, and brocaded curtains are hung everywhere. The walls and floor emit a sweet smell of perfume from centuries of application of unguents. The main building is surmounted by a great cupola 375 feet high, and around this central building there are 360 chambers to host the mobeds.
 
 Although no longer active as a temple it retains a Divine aura of 5. Naw Bahar remains unmolested by time or treasure seekers, and its floors are clean of detritus and vermin. Those intrepid enough to go inside — and few are — report that a fire burns at the center of the temple, although no one is ever seen within. The inside of the temple leads to a Terrestrial Divine regio that shelters a small Zoroastrian community within the higher levels.
 
-#### **Altars of Alexander**
+#### Altars of Alexander
 
 Of further interest to Hermetic Seekers, an altar of Alexander is hidden within one of the temples at the outskirts of the city. As detailed in *Ancient Magic*, page 125, the altars of Alexander have powerful mystical connections to each other, and link to over 70 different sites. A magus, casting a spell using the Arcane Connection Range while touching such an altar, is considered to have an Arcane Connection with a +4 Penetration multiplier to the other shrines, cities, or temples so connected. This site may either provide an entry point into the Mythic Middle East for Seekers investigating other sites or a potential lifeline back to Europe for Hermetic colonists deep within enemy territory.
 
-#### **A Covenant on the Rock?**
+#### A Covenant on the Rock?
 
 Sogdian Rock is a superb natural fortress, riddled with natural caves and carved cisterns capable of holding large reserves of food and water in case of siege. The site is enveloped by a Magic aura of strength 3, although higher auras may exist within the deeper caves. Although isolated, it is a potential base for Hermetic magi wishing to explore the mysteries of the Mythic Middle East.
 
@@ -7597,7 +7597,7 @@ Sogdian Rock is a superb natural fortress, riddled with natural caves and carved
 
 The two-humped Bactrian camel predominates throughout the wider Mythic Middle East and differs slightly from its cousin, the single humped dromedary, which is more common in North Africa, Egypt, Arabia and the Levant (see Chapter 6: Mythic Arabia for details on dromedaries). Wild camels are rare, although wild Bactrian camels can be found in the far eastern reaches.
 
-#### **Bactrian Camel**
+#### Bactrian Camel
 
 **Characteristics:** Cun –2, Per –1, Pre –4, Com –5, Str +3, Sta +4, Dex –1, Qik –2
 
@@ -7647,7 +7647,7 @@ Rare Bjornaer magi who are born in the southeastern peripheries of Mythic Europe
 
 the heartland of the Manichean heresy, it remains a mixture of mercantile religious communities, counting Sunni Muslims, Nestorian Christians, and Jews among its transient population.
 
-#### **Samarkand**
+#### Samarkand
 
 "Everything I have heard about Marakanda is true, except that it is more beautiful than I ever imagined."
 
@@ -7659,7 +7659,7 @@ To the east of the old city of Marakanda lies Shahr-i-Zindah ("tomb of the livin
 
 If your Saga follows history, in spring of 1220 the armies of Genghis Khan besiege the town. Despite recent fortification, the city falls to the nomad hordes after only five days. The surrendering garrison is executed in batches with ruthless efficiency. The population are moved out of the city to facilitate the sacking and divided up like the unfortunates of Bukhara (see the insert "Genghis Khan and the Fall of Transoxiana" earlier).
 
-#### **Bukhara**
+#### Bukhara
 
 A trading center since ancient times, Bukhara lies on the Zeravshan River downstream of Samarkand in the middle of the Kyzylkum Desert. In the ninth and tenth centuries it was the center of
 
@@ -7687,31 +7687,31 @@ Such a caravan may become an interesting cover for a covenant of peregrinatory H
 
 ## Story Seeds for Bukhara and Otrar
 
-#### **The Sheikhs Beneath the Well**
+#### The Sheikhs Beneath the Well
 
 The Po-i-Kalyan mosque's well lies beneath an octagonal platform nearby. If uncovered, explorers can climb down the dry shaft to the base, which contains a pile of loosely stacked skulls within a small Magic aura of strength 3. Each skull acts as an Arcane Connection to the sheikh it once belonged to and can be used to summon the restless spirit of that particular holy man. Beneath the base of the minaret itself lies the grave of an imam ritually slain by the tower's builder, Arslan Khan.
 
-#### **The Lost Books of Bukhara**
+#### The Lost Books of Bukhara
 
 After the Mongols raze Bukhara in early 1220, several rumors circulate as to the fate of the various book collections and libraries. Much poetry is written lamenting the loss of this great collection of scholarly works, comparing it to the burning of the Great Library of Alexandria. Such tales, woven over the years by gifted poets and the Merinita magi of the Keepers of Tales Mystery Cult, attract faeries to the story. Eventually, the collective lamentation may provide enough vitality to reproduce a Faerie replica of the library. Access to such a place would be greatly sought after by mundane, Hermetic and sahir scholars searching for lost secrets and classical knowledge.
 
 The faeries associated with the library take the form of rare books, appearing unexpectedly in market stalls run by eccentric merchants or being found serendipitously in the disused sections of old mundane libraries. The books themselves are Faerie creatures and act as Threshold Guardians — by reading the Faerie text and wishing to rediscover the lost library, the readers find themselves in Arcadia. Such stories are always tinged with tragedy and sadness, for a reader may visit the library but once and leave with only a small token of his travel and memories to spread the legend of the Lost Library further within the hearts of scholars throughout Mythic Europe. Such loss and longing provides further vitality to the faeries of the library, as its story weaves into similar tales and creates a lasting motif through the centuries.
 
-#### **Job's Spring**
+#### Job's Spring
 
 At the edge of Bukhara's farmers' market lies a small mausoleum, the Chashma-Ayyub, recently built over a small strength 3 Faerie aura containing a small spring. Unlike other mausoleums, no one is buried within its walls. Local folklore describes it as the place where Job struck his staff to the ground and called forth water, but perhaps the legend just represents the adoption of an older pagan tradition. Visited annually by one of the sahirs of the local bayt al-hikma who sponsored the recent construction, the resident Faerie jinn can be bargained with for the faerie-tainted Terram and Aquam vis produced by re-enacting the ancient story within its walls. When the local sahir goes missing, who is to blame — angered jinn or a jealous rival seeking to usurp the vis source?
 
-#### **Uqana, the Ghostly Ambassador**
+#### Uqana, the Ghostly Ambassador
 
 The ambassador of the first embassy to the Khwarazmshah was Uqana, a Muslim merchant trusted with a personal message of friendship from the great Khan. His execution at the hands of a fellow Muslim has resulted in a restless spirit, trapped as an apparition after death (see *Realms of Power: Magic*, page 115, for details of this class of ghost). Although the great Khan has avenged his murder, Uqana is unable to rest, as his spirit feels he failed in his duty to deliver his message. Convincing the traumatized ghost to depart to his proper rest will be difficult, given the wake of destruction that the Mongols have left since their affront at Otrar. If compelled by magical means, Uqana may provide valuable information about the intentions and plans of the Mongol leaders. Attempting such magical coercion or lying convincingly to gain the former ambassador's trust may have grave consequences within the Infernal aura that encompasses his haunt.
 
 The minaret itself contains a Divine aura of 7. By climbing the spiral staircase just prior to dawn, a devout Muslim can access a small Terrestrial divine regio of strength 8 that appears as a round chamber above the rotunda section.
 
-#### **Kasri Orifon**
+#### Kasri Orifon
 
 A small village just east of Bukhara, this site is known for the "wishing tree." The dead trunk of an ancient mulberry tree forms a twisted arch in the main square. Barren women crawl beneath its trunk in the hope of becoming with child. The tree is home to a Faerie jinn with powers over fertility passing beneath the wood of the arch leads to a small strength 2 Faerie regio just large enough for an adult human to enter.
 
-#### **Otrar**
+#### Otrar
 
 In 1218, a Mongol ambassador arrived at the head of a richly laden caravan in this town on the eastern bank of the Jaxartes, carrying a message to the Khwarazmshah. Governor Inalchuq, a cousin of the Khwarazmshah, imprisoned and executed the entire caravan of 450 men, including the ambassador, on the basis that he believed they were spies or perhaps merely out of greed for their valuable wares. The execution of ambassadors was considered a grave insult to the Mongol leader — one underlined by the subsequent humiliation of the Mongols sent in a second embassy. Through this gross insult from a minor official, the Mongol horde descended with devastating effect on the Mawara'n-Nahr.
 
@@ -7728,7 +7728,7 @@ A province of canals and gardens, Khwarazm is the agricultural heart of Transoxi
 
 The elephant was considered a prize war animal by the Persian armies of antiquity. Small numbers are still found throughout the eastern reaches in the possession of nobles or the Khwarazm military, the former as curiosities and the latter as part of shock troops. Elephants are legendary opponents of dragons and fearlessly attack serpents at any opportunity, but are deathly afraid of the squeal of a sow or boar and will flee this sound unless restrained.
 
-#### **Asian Elephant**
+#### Asian Elephant
 
 **Characteristics:** Cun 0, Per +1, Pre –4, Com –5, Str +10, Sta +3, Dex 0, Qik –2
 
@@ -7770,7 +7770,7 @@ Elephants have excellent hearing and vibration sense through the trunk, gaining 
 
 *War Elephant:* Add the Aggressive and Pack Animal Qualities. Change to Brawl 5 (stomp) and improve the elephant's Stomp attack: Init –2, Attack +6, Defense +3, Damage +13. Persian war elephants are usually clad in the equivalent of leather or metal scale (add Protection of 3 or more to Soak) and carry a platform known as a howdah which can accommodate up to six soldiers armed with javelins, polearms or bows. They can be trained to fight as part of a Trained Group with their squad of accompanying soldiers under the direction of their mahout or driver.
 
-# **Story Seed: Elephants of Alexander**
+# Story Seed: Elephants of Alexander
 
 The ghosts of ancient war elephants can be summoned at the battle sites of antiquity throughout Arabia, Persia, and Transoxiana, using their bones to call them back to unearthly service. Such sites are of particular interest to House Tremere, who seek to expand the versatility and power of their ghostly forces.
 
@@ -7782,7 +7782,7 @@ Faerie war elephants from the land of Hind, as used in the armies of Alexander t
 
 The valley at the headwaters of the Jaxartes has been known for its excellent horses since antiquity. According to legend, the horses of Farghana are offspring of mundane horses and either mountain river dragons or other seemingly divine steeds that visited the wild steppe herds in the past. Such "Heavenly Horses" appear similar to the Arabian-descended horses of the European nobility but are slightly larger. These Faerie animals are particularly sought after by magi and Gifted sahirs due to their suitability as mounts for Gifted magicians, and local tales tell of representatives from Serica traveling vast distances to procure even one of these amazing mounts.
 
-#### **Heavenly Horse**
+#### Heavenly Horse
 
 **Faerie Might:** 5 (Animal)
 
@@ -7806,7 +7806,7 @@ Qik +3 **Size:** +2
 
 **Pretenses:** Athletics 4 (long-distance running), Awareness 3 (noises), Brawl 2 (hooves), Swim 4 (rivers).
 
-#### **Powers:**
+#### Powers:
 
 *Heavenly Hooves,* 2 points, Constant, Animal: This power allows the animal to move at its maximum speed, unimpeded by poor terrain, achieving up to 30 miles per day. It may even do this across open water or chasms without needing to slow its pace. ReAn 25 (Base 10, Sun +2, +1 Constant): Personal Power, 25 levels.
 
@@ -7820,7 +7820,7 @@ Like all horses, a Heavenly Horse gets a +3 to all rolls involving running or ju
 
 furs from the lands of the Bulghars to the north. Khwarazm is particularly known for its Turkish slaves, however, and is the center of the slave trade in Transoxiana. Young nomads are bought or stolen from the steppes, given an Islamic education, and then dispatched to the far corners of the Islamic Empire.
 
-#### **Gurganj**
+#### Gurganj
 
 A leading town along the trade routes, the town of Gurganj or Al-Jurjaniyah has shifted its site on the western bank of the river over the years to accommodate the vagaries of the floodwaters of the Oxus and the vengeance of the native river spirits.
 
@@ -7828,7 +7828,7 @@ If your saga follows history, the Mon-
 
 gols besiege Gurganj in 1220, breaking the massive dyke in frustration after five months and unleashing the pent-up waters of the Oxus. Once again, the city falls to the onrushing waters and the great river resumes its flow into the Caspian Sea, releasing the enslaved magical spirits upon their former Khwarazmian captors (see the sidebar on Spirits of the Oxus Delta, earlier). All that will remain after the Mongols march away from the town are sundry corpses and the ruined walls that sketch the outline of the oncegreat city.
 
-#### **Kath**
+#### Kath
 
 Former capital of Khwarazm and original home of the native Khwarazmshah dynasty, this once-magnificent city on the eastern bank of the Oxus has suffered repeated flooding throughout its history, washing it into secondary rank.
 
@@ -7842,7 +7842,7 @@ To the northeast of Sogdiana lie the open plains of the vast valley of Farghana,
 
 Framed at the mouth of the Farghana valley, this small trade town is built near the ruins of Alexandria Eschate: the furthest settlement established by Alexander the Great in his campaign of conquests. Another Altar of Alexander lies hidden beneath the city or within the adjacent ruins (see Ruins at Ai Khanoum earlier for details).
 
-#### **Osh**
+#### Osh
 
 Located just downstream from the source of the Jaxartes in the Pamir mountains, Osh is the easternmost settlement in the Farghana valley and the northernmost town of the Islamic Caliphate, making it the end of certainty and the starting point for stories of exploration past the map's edge.
 
@@ -7856,17 +7856,17 @@ The tallest brick minaret of the Mythic Middle East, this structure rises to ove
 
 Fabled for its rubies, sapphires, and other jewels, this mountainous region rises upwards into the Caucasus Indicus south of a great northern loop of the Oxus, transected by its main tributary, the Nahr Dirgham (Badakhshan or Kokchka River). Known in antiquity as Balascia, classical geographers place it on the north face of the southeastern slopes of legendary Mount Imeon. Now free from the demonic yoke of the Shansabani of Maiyan to the south, it is one of the borderlands of the ancient world known to the traders who traverse it from northwest to southeast.
 
-#### **Wakhan**
+#### Wakhan
 
 This narrow territory follows the Oxus River from lower Badakhshan back to its mythical source. It is inhabited by reclusive pastoralists known as the Vakhi who speak an almost unintelligible dialect of Parsi (–3 penalty to Ability score). Since
 
 ## Badakhshan Story Seeds
 
-#### **The Faerie Road to Serica**
+#### The Faerie Road to Serica
 
 Unlike the lower reaches, the whole upper valley of the Oxus past its junction with the Badakhshan River is covered by a extremely lengthy but narrow Faerie aura bounded by the sharp mountain crest lines to the north and south. Beginning with a weak aura of only 2 at the outskirts of Ai Khanoum, the aura increases gradually as a traveler climbs further east. At the level of the Wakhan Valley proper, the aura has reached a strength of 6 and the Warping it induces is partly responsible for the taciturn nature of the nomads (Reclusive Minor Flaw). Multiple Faerie regiones can be accessed from the path, depending on the traveler's mood, goals, and particular Faerie Sympathies (see *Realms of Power: Faerie* for further details). Some of these regiones lead only to blind canyons and certain death, while others contain whole lost kingdoms and cities built on the shores of a great encroaching desert. The most sought-after paths provide portals into the various worlds of Faerie. Those leading to Arcadia are commonest although a solitary traveler is more likely to be drawn into Eudokia to resolve the crisis that has led them to flee beyond the bounds of Hermetic knowledge.
 
-#### **Itineris Serica**
+#### Itineris Serica
 
 Cartophilius of Mercere has always been regarded as eccentric, even among Mercere magi. His father, Geographicus, was one of the founders of a similar traveling covenant, so it is perhaps unsurprising he has proposed forming another mobile gathering of magi at the recent Normandy Tribunal meeting. The covenant's mundane cover as a merchant caravan is nothing new, but his intent to seek funding as a dedicated research covenant surprised even the archmagi who knew his parens.
 
@@ -7886,7 +7886,7 @@ Pliny's description of *sapphiros* flecked with gold is believed by many Hermeti
 
 At the Troupe's discretion, only blue gems from beyond the bounds of Mythic Europe may provide the proper "sapphire" bonuses — a potential story idea is that such blue stones may have to be discovered in dreams, Faerie, the Magic realm or as the result of looting dragon hoards. Details of Sapphires of Virtue are given in *Realms of Power: Magic*, page 127.
 
-#### **Story Seed: Untouched Stone**
+#### Story Seed: Untouched Stone
 
 A senior magus seeks the characters' help with a delicate problem. His attempts to stabilize his new longevity potion require a blue stone the same size as the magus himself as a component, but the cerulean he is using is inadequate for the task. Citing Pliny as an authority, he has determined that he requires the classical *sapphiros.* The stone must be freshly born, at least human-sized, and remain untouched by human hands. Magical manipulation is out, as the resonance will be destroyed if the rock is affected by magic prior to the ritual.
 
@@ -7965,19 +7965,19 @@ Although a magnificent creature, a ruq (or roc) is not a Beast of Virtue and is 
 
 ## Ruq Story Seeds
 
-#### **The Ruq's Nest**
+#### The Ruq's Nest
 
 Faerie ruq also exist, typically acting as Threshold Guardians involving the Path of Chance and stories within Arcadia. Characters attempting to flee the bird's approach may suffer grievous wounds, while those snatched up by the great raptors find themselves cast into strange stories in distant lands, much like the legendary Sinbad the Sailor. Stories tell of whole valleys within regiones beneath their nests lined with diamonds as large as a man's fist, populated by giant-sized Faerie sheep and goats. Successful adventurers who escape to mundane lands may claim such gemstones as the prize for their courage — different gems contain differently-flavored vis according to their nature, although such vis is always Faerie tainted.
 
 The Faerie versions differ only in that they possess the *Spirit Away* Power and replace the (Cloud) Regio Network with the Faerie Speech Virtue, which allows them to fulfill their role as catalysts of high adventure.
 
-#### **Janaindar, the City Above the Clouds**
+#### Janaindar, the City Above the Clouds
 
 Local nomad legends speak of a lost city built at the edge of the Magic Realm, seen rising above the clouds atop a great mountain peak on a clear day and all but inaccessible except by magic, or being carried to its aerie by one of the great ruq. The stories say its alien inhabitants claim descent from an ancient magical race that once ruled over the earth, although they appear human in guise.
 
 Is this a lost Nephilim settlement? The true location of Hyperborea in Turkistan? An ancient and reclusive covenant of elder magi? The descendents of a rival magical tradition founded by Trianoma's sister, Viea? The last refuge of the Zoroastrian mobeds? A potential site for a high-fantasy Hermetic covenant above the clouds? The last sanctum of the Diedne?
 
-#### **Turris Lapidae, the Stone Tower**
+#### Turris Lapidae, the Stone Tower
 
 Ptolemy's *Geography* mentions the small mountain kingdom of Sarikol as the stopping point for caravans heading eastwards towards the fabled Sera Metropolis, the capital of the Seres. Some say the overlooking fort marks the halfway point between Europe and the lands of the East, others claim it is a town half in the mundane world, half in the Faerie Realm that provides a gateway into Arcadia. Descriptions stem from the merchant traveler, Maes Titanos, although his report is considered suspect by Ptolemy's source, the pre-Hermetic wizard Marinus of Tyre who regards the figure of Titanos as a fabrication, Faerie, or an infernalist.
 
@@ -7987,7 +7987,7 @@ In the Mythic world, this sizable town marks the extent of classical travel to t
 
 Travelers' tales tell of fantastical creatures found just beyond the eastern peaks. After the mountains comes the desert, studded by prosperous oasis towns and ruins of lost civilizations. Searing heat, cruel winds, and malicious demons populate these stories, and all contribute to luring travelers from their caravans into lingering deaths from starvation and hunger.
 
-#### **Khashgar**
+#### Khashgar
 
 Of all the legendary cities associated with the eastern journey, Khashgar is perhaps the most widely known in the 13th century. Routes from north and south converge on this mythical oasis city before branching around the dreaded Taklimakan desert on their way eastward to the Land of Silk. Scholars debate its origin and exact location but all agree its streets teem with humans, jinn*,* and other Eastern faeries mixing shoulder to shoulder with angels, demons, and non-Hermetic sorcerers.
 
@@ -8008,7 +8008,7 @@ Some Merinita claim to have visited the Khashgar market in traveling through Arc
 
 Ignoring the scholars and their musings, life and commerce goes on in Khashgar.
 
-#### **The Taklimakan**
+#### The Taklimakan
 
 This magical desert is a place of death — its name translates as "those who go in, never come out." A pair of geographically shifting auras of constant strength 7 (one Infernal, one Magical) swirl and intertwine across the sands as opposing storms. The two spiral-shaped auras constantly envelope and then reveal ancient Faerie regios, which either contain the ruins of long-deserted cities or thriving oases populated by jinn from before the coming of Islam.
 
@@ -8024,11 +8024,11 @@ The ruins of an old nomad fortress lie near the old town of Talas. Just outside 
 
 Even at its height, the Eastern Roman Empire reached only the fringes of the vast ocean of grassland that stretches the breadth of the continent of Asia, from the Sea of Azov and the great gulf of grass forming the Hungarian plain in the west to the Ordos, and extending to the limitless horizon in the east. Herodotus refers to the littoral of this grass lake as Scythia but speaks of its endless and timeless nature — no continuous landscape feature encountered by Hermetic magi is on the same scale.
 
-#### **Tashkent**
+#### Tashkent
 
 The Turkish "City of Stone," once the greatest Arab town beyond the Jaxartes, was laid to waste by the vengeful Mongol hordes in 1219, although the Khwarazmshah had already sacked much of it in 1214. Like other towns in the area, it was a city of canals, famous for its vineyards. It formed a trade center between the latter-day Sogdians and their nomadic Turkic neighbors until the recent Mongol incursion. It is already beginning to be resettled and recover its trade position under Mongol lordship and marks the frontier between civilization and the barbarian wilderness.
 
-#### **Talas**
+#### Talas
 
 In July 751 the Muslim armies led by Ziya ben Salih met a strange expeditionary force from beyond the eastern steppes. Although less significant than the Battle of Poitiers in 732 in the west, this confrontation marked the easternmost expansion of the Arab armies.
 
@@ -8185,7 +8185,7 @@ Note that these hedge wizards differ somewhat from the original shamans presente
 
 Great Sky." Like the original spirit of the Hercynian Forest (see *Guardians of the Forest*, Chapter 3: The Forest, pages 30–40) in the far west, the Great Tengri of the Steppe is a powerful supernatural entity that draws its power from the Magic realm. To Hermetic understanding, this primal spirit is similar to a Kosmokrator of the Steppe and the Sky, an Elder Daimon that governs the vast grass sea of the Mythic Steppe.
 
-#### **Lesser Steppe Spirits**
+#### Lesser Steppe Spirits
 
 **Magic Might:** 30-45 (Auram, Terram, or rarely Aquam or Herbam).
 
@@ -8207,19 +8207,19 @@ steppe is too small to maintain its control over the steppe, or else it borders 
 
 ## Mythic Mongols Story Seeds
 
-#### **Dark Angels of Punishment**
+#### Dark Angels of Punishment
 
 The possibility of an Infernal Mongol horde may appeal to some troupes. Perhaps the nomad leader and his generals are the mortal incarnations of powerful Angels of Punishment, demons of the Order of Avengers of Evil posing as Divine retribution (*Realms of Power: The Infernal*, pages 39–40). The accompanying shamans may be Infernally-aligned human summoners or even fully-fledged diabolists, but the majority of the horde may still be composed of mundane nomads. Instead of an Angel of Punishment, Genghis Khan may be a startling incarnation of the new Zahhak, possessed by the ancient demonic foe of Persia, Azi Dahak (see Chapter 8: Mythic Persia).
 
 For more high-fantasy Sagas with a strong Infernal theme, the horde may contain true demons of destruction and other Infernal creatures. This latter option is recommended only for high-powered troupes who are willing to explore a heavily Infernal-themed Saga.
 
-#### **Spawn of Gog and Magog**
+#### Spawn of Gog and Magog
 
 Another alternative is that the Mongol horde has ridden out of Arcadia, the latest incarnation of a recurring story that manifests the fears of nomad brutality and avarice held by the agrarian settlers along the steppe frontier since ancient times. From the biblical hordes of Gog and Magog, then Goths, then the Huns and the Avars, the recent Magyars, and now the Mongols, such cyclic dark Faerie incursions are repeated throughout the history of the region.
 
 In this scenario, Genghis Khan may be the latest role played by a dark Faerie Monarch, with his generals and officials represented by the other powerful court faeries (see *Realms of Power: Faerie*, pages 80–83). The rank and file of the Mongol horde may contain variants of lesser Faerie Knights, Faerie-touched humans, and mundane human nomads. In a high-fantasy saga, the horse archers of the horde may be led by Faerie centaurs, or contain whole troops of such faeries rather than the mundane Mongol Trooper detailed earlier. The shamans and tributary magicians accompanying the horde would be represented by Faerie Wizards skilled in the Artes Fabulosa, or perhaps true Faeries with powers that can equal, and in some cases exceed, Hermetic magic.
 
-#### **Prester John, I Presume?**
+#### Prester John, I Presume?
 
 A more positive take on the Faerie horde may involve the nomads as the soldiers of Prester John, the Christian King of the East, born out of the legends of the Crusades. The exact source of the legend is unclear, but may relate to corrupted rumors of Sultan Sanjar's defeat in 1141 by the forces of the Qara Khitai at the Qatwan steppes near Samarkand. This far eastern confederation of nomad tribes contained several Nestorian Christian elements under the rule of a mysterious nomad dynasty. Regardless of the legend's origins, the story is popular throughout Mythic Europe, perhaps even popular enough to have drawn a troupe of powerful Faeries
 
@@ -8232,7 +8232,7 @@ The exact nature of Genghis Khan and his Mongol hordes is best left to individua
 
 ## Steppe Spirit Story Seeds
 
-#### **The Ride of the Shaman**
+#### The Ride of the Shaman
 
 Led by visions of an unending sea of grass beneath the clearest of blue skies, one of the characters wanders out into the steppe alone. After surviving a harrowing night of severe exposure on the Steppe, the character successfully achieves communion with the Steppe spirit and is ordained a shaman of the Great Tengri.
 
@@ -8240,7 +8240,7 @@ The Ordeal inflicts an effect similar to a premature gain in enough Aging Points
 
 In return, the character gains the equivalent of the Nightwalker Virtue, and the ability to enter *ekstasis* and generate a spirit body referred to as a *phantasticum* in return for the Pagan Flaw — the great spirit, while tolerant, demands its messengers respect its divinity (see *Hedge Magic Revised Edition*, pages 103–119, for examples of Nightwalker traditions capable of spirit traveling).
 
-#### **The Founder's Final Work**
+#### The Founder's Final Work
 
 Aloof, distant, and uncaring, the Great Tengri would seem to present no current threat to the western based Order. Unlike the fractured remnants of the Hercynian Forest Spirit, Mercurian rituals have not weakened this primal magical force, and it is yet untouched by the settlement of the mundane and the miracles of the Dominion. Its lands are largely untamed, except at its fringes where the lesser steppe touches on urbanized cultures. Quiet and alien, it remains as powerful as ever, a vast reservoir of magical power waiting to be studied and unlocked by a Hermetic magus dedicated to completing the final work of Hercynius filius Bonisagus, the integration of Merinita's original nature magic into Hermetic theory.
 
@@ -8248,11 +8248,11 @@ Aloof, distant, and uncaring, the Great Tengri would seem to present no current 
 
 styling themselves as the legions of the lost Christian monarch. Although posing as Divine agents, such creatures may best be presented as Faeries playing a pious role. They feed off the Vitality released by the powerful emotions created by the effect of their arrival on the Islamic Caliphate, and the consequences the news of its devastation has on the embattled Crusaders and the rest of Christian Europe.
 
-#### **The Vengeance of God**
+#### The Vengeance of God
 
 A final interpretation of the Mongols is as a Divine host of punishment, although this is the most difficult to realize within the historical framework. Reconciling the massacres of the Transoxanian towns may be problematic, but even within the Dominion, the manipulations of demons and the Infernal attempt to divert the righteous into temptation and sin. The Crusades of the Levant provide a precedent for the paradox of holy war. Of all the scenarios this may be the most challenging to Hermetic magi, as the power of the Divine is the only force that can trump the otherwise unassailable in-game position of the Order of Hermes as the most powerful magic in Mythic Europe. In a Divine horde saga, the Mongol shamans may be holy companions following a monotheistic vision of the Great Tengri. Their holy powers are duly feared by the sahirs and hedge magicians of the Mythic Middle East.
 
-#### **The Lost Line of The Aquila**
+#### The Lost Line of The Aquila
 
 The fate of the second apprentice of Hercynius is unknown. His name is conjecture, although most tales refer to him simply as The Aquila. Traveling eastwards in search of untouched wilderness, he was last seen entering the littoral steppes north of the Crimea in the late 11th century.
 
@@ -8267,7 +8267,7 @@ More Mythic variants based loosely in historical fact include casting the Mongol
 
 Alternatively, Genghis Khan himself may be invested as a Spirit Votary of the Great Tengri spirit of the Mythic Steppe, having bargained with the sky spirit on the slopes of the sacred Mongolian mountain of Burkhan Khaldun (see earlier for details on this Kosmokrator*-*level Magic Spirit). This version of Genghis Khan may be able to call upon elemental Magic powers staggering enough to require the fractured Order of Hermes to unite against his campaign or risk annihilation. Rules for Spirit Votaries are detailed in *Realms of Power: Magic,* pages 88–89.
 
-#### **Magus-level Shamans?**
+#### Magus-level Shamans?
 
 Troupes with access to *Hedge Magic Revised Edition* may wish to consider using magus-level shamans in their sagas, either as worthy non-Hermetic adversaries or perhaps even as potential recruits to the Order via House Criamon or Ex-Miscellanea. In either of the historically rooted scenarios detailed earlier, a powerful shaman might best be represented as Gifted Companion or Mythic Companion variants of Nightwalkers, able to travel by phantasticum (spirit-body), similar to the Magyar Taltos. Such Magic-aligned nomad magicians may have access to the Goetic Art of Summoning, the Major Virtue Mythic Herbalism and perhaps some minor powers (Flight, Healing, Premonitions, Skinchanger) commonly attributed to the Folk Witches found in other parts of Mythic Europe (see *Hedge Magic Revised Edition*, pages 33–54, for details of Folk Witches, and pages 103–119, for examples of Nightwalker traditions capable of spirit traveling).
 

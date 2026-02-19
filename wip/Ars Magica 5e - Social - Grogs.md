@@ -18,7 +18,7 @@
 
 **SECOND ROUND PLAYTESTERS:** Leon Bullock, Peter Ryan, Chris Barrett; Christoph Safferling, Jan Sprenger; Sheila Thomas
 
-### **AUTHOR BIOGRAPHIES**
+### AUTHOR BIOGRAPHIES
 
 **Christian Rosenkjaer Andersen** works in the business of consultant engineering with HVAC systems. He lives near Aarhus in Denmark with his patient wife, silly cat, and fantastic little boy — to all of whom his work is dedicated. He is well into his second decade of gaming, but new to the world of writing.
 
@@ -346,7 +346,7 @@ Some of Beorhtric's wisdom can be found in the following pages. If you wish to i
 
 There are various origin stories for the term "grog," which seems to be a word coined by the Order of Hermes. The most commonly held opinion is that it has its origins at Arae Flaviae, the first multi-House covenant. At this covenant, the men and women who accompanied the magi when they journeyed from home were called *viri gregis* (meaning "men of the band," singular *vir gregis*). This became corrupted, so the story goes, by a hard-of-hearing captain and the non-Latin speaking covenfolk into "grog." The term was spread around the Order through the *liber gregis* (see insert). Other terms entered the Hermetic vernacular at the same time: turb, custos, and consors.
 
-### **TURB**
+### TURB
 
 The *turb* is a term used to refer to the fighting force of a covenant, the sum total of its warriors. Some put the origin of the word with the same captain that gave the Order "grog," who shortened the Latin *contubernium* (meaning a squad of eight legionaries who shared a tent and cooking fire). The word has become conflated with *turba*, meaning "mob;" and this has become the word most commonly used in the modern Order of Hermes to describe its soldiers.
 
@@ -354,20 +354,20 @@ The *turb* is a term used to refer to the fighting force of a covenant, the sum 
 
 The word *grex* (plural *greges*), meaning "troop" or "company" (whence vir gregis is derived) is occasionally used in a contemptuous manner by magi, since it also means "herd" or "flock." Nevertheless, it is still used to describe the group of grogs that accompany magi on expeditions; it thereby has a meaning similar to unit or squad. A grex typically numbers up to six individuals, and a turb might be composed of several greges as permanent units who work well together, or each grex might be assembled anew, according to the demands of the task ahead of it.
 
-### **CUSTOS**
+### CUSTOS
 
 A *custos* ("watchman" or "keeper," plural *custodes*) is a favored grog, usually one with skills that set him apart from his fellows, but a custos can also distinguish himself with great deeds or uncommon displays of loyalty. Custodes are often set apart from the rest of the covenfolk and awarded the privileges of a higher social rank, such as a better provision of food and wine, a few pence more each month in wages, or other minor benefits. In some covenants, grogs can be raised to the rank of custos at the whim of the magi, while others have a formal procedure for promotions. Custodes are usually equated to specialists when building a covenant (**ArM5**, page 71) and determining its finances (*Covenants*, page 63).
 
 
-### **COVENFOLK**
+### COVENFOLK
 
 The servants, specialists, and soldiers who live in a Hermetic covenant; generally synonymous with "grogs." The singular forms of "covenman" and "covenmaid" are rarely used.
 
-### **CONSORS**
+### CONSORS
 
 A *consors* (plural *consortes*) is literally a companion to the magi. From the very earliest days of the Order, magi have associated themselves with mundanes who have similar interests or background, or complementary skills. A consors is a Companion character, and beyond the scope of this book.
 
-### **AUTOCRAT**
+### AUTOCRAT
 
 The autocrat is a mundane whom some covenants appoint to oversee the smooth running of the covenant. He or she is usually the most important of all the covenfolk, bar the magi themselves; the covenant of Arae Flaviae even permitted their autocrat to attend meetings of the wizards' council.
 
@@ -400,7 +400,7 @@ The serving folk have grown sick of the airs and graces put on by the personal s
 
 The player characters could be the targeted servant and her friends, the saboteurs, or the characters trying to resolve the situation, such as the chamberlain and the turb captain.
 
-### **PERSONAL SERVANTS**
+### PERSONAL SERVANTS
 
 Many covenants assign a personal servant to every magus. Each magus may have preferences for the type of food he is served, when and how his sanctum is cleaned, how his clothes
 
@@ -441,7 +441,7 @@ Of course, not all covenants have an unbroken series of rolls, and not all past 
 
 The rolls may also contain longlost secrets about the covenant, as chamberlains occasionally use the rolls as a personal diary as well as an accounts book. They are of potential interest to an enemy, since the rolls might have all sorts of details about the covenant that could be exploited, such as a record of the building of secret passages, locations of vis sources, and special requirements of the magi. It is quite possible that the magi are totally unaware of the existence of the covenant rolls, and may be horrified at the level of detail innocently added by chamberlains over the years.
 
-## **STORY SEED: UNDERCOVER ACCOUNTS**
+## STORY SEED: UNDERCOVER ACCOUNTS
 
 The covenant rolls go missing, and the chamberlain places the player characters in charge of finding them again. This must be done without the magi discovering what they are doing, since the rolls contain all sorts of embarrassing observations about the magi made by the former (or current) chamberlain, and perhaps even secrets about the covenant itself. The location of the missing rolls could be innocent (the parchment-maker has scraped them clean, not realizing their importance) or potentially damaging (an enemy agent has taken them).
 
@@ -467,13 +467,13 @@ and repair broken metal items. However, if he makes unique items for the magi, o
 
 Many of the personal servants of the magi (see earlier) would also fall into the specialist role, if they did not apply their talents specifically in the service of a single magus. Nevertheless, a personal servant might command the same salary, food, and accommodation privileges as a specialist, and cost the same in terms of covenant finances (*Covenants*, page 63).
 
-### **AGENTS**
+### AGENTS
 
 Agents are specialists who, rather than working within the covenant itself or in its immediate vicinity, are to be found further afield. An agent could be as simple as a merchant or craftsman maintaining a business in a nearby city. However, most agents have been carefully placed to maximize their use to the covenant, as sources of information or remote assistance. A cautious covenant might have agents in the local bishop's palace, among the staff of an important nobleman, or even in a rival covenant. The steward (see later) is usually responsible for coordinating the agency of a covenant, although covenants with large agencies often employ a factor to manage their agents. The factor is usually placed under the direct command of the steward.
 
 Agents still need to be bought with covenant build points like any other specialist, but they need not be included in the covenfolk roster when it comes to determining finances. Their salary is subsumed into the general budget of the covenant, unless the covenant maintains an unusual number of agents. Rules for recruiting and using agents are to be found in *Houses of Hermes: Societates*, pages 140–144.
 
-### **THE STEWARD**
+### THE STEWARD
 
 The steward is an appointed officer of the covenant charged with seeing to the needs of the specialists. This role differs from that of the chamberlain in that the steward is not normally in charge of the specialists, but he is ultimately responsible for ensuring that
 
@@ -486,7 +486,7 @@ A good steward ameliorates the effects that The Gift has on the covenant's speci
 
 Those who perform military service, either as conscripts or as volunteers, are usually trained so that they can serve in certain military units, rather than given an overall education in many different weapons and Martial Abilities. The most common troop types in Mythic Europe are described in this insert.
 
-### **INFANTRY**
+### INFANTRY
 
 **Archers**: The English longbowman is a comparatively new troop type and still used principally in a defensive configuration. Archer units armed with short bows are occasionally used in warfare, but the short bow is considered principally a hunting weapon. The Saracens have employed archer units since the first Crusades, and Western armies are beginning to copy them.
 
@@ -502,7 +502,7 @@ Those who perform military service, either as conscripts or as volunteers, are u
 
 **Skirmishers**: Light infantry armed with javelins, slings, short swords, or spears, and sometimes light shields. Skirmisher units are lightly armored to provide battlefield mobility, and are usually used to harry the enemy from the flanks or defend the heavy infantry.
 
-### **CAVALRY**
+### CAVALRY
 
 **Heavy Cavalry**: The preeminent military force in the 13th century, knights are employed as shock troops at the beginning of combat. Lances are used for the initial charge, and the knights then switch to long swords, maces, or mace-and-chain. Chain mail is almost ubiquitous. Further from the heartland of Mythic Europe, conscripted heavy cavalry troops are employed in the Byzantine armies (the famed *kataphractoi*), and by the Bulgarians, Lithuanians, and Russians.
 
@@ -526,11 +526,11 @@ Due to the restrictions of the Code
 
 of Hermes, magi are not permitted to provide feudal service to local lords in terms of manpower; and yet it cannot have escaped the attention of the local nobility that the "scholars" on the hill have a standing army. They might interpret this as a threat or an opportunity to fulfill their own feudal obligations to their liege without risking their own men in a war. Indeed, some covenants may even hire out their soldiers to the nobility as a source of income. Every saga needs to consider the attitude of the mundane powers toward magi employing soldiers; some ideas for this interaction can be found in *Lords of Men*.
 
-### **THE TURB CAPTAIN**
+### THE TURB CAPTAIN
 
 The turb captain is the leader of all the soldiers at a covenant. Only covenants with very unusual organization structures do not have a single leader for all their warriors, since an army cannot be effectively lead by a committee. Of the three executive officers of a covenant (chamberlain, steward, and captain), the turb captain is the most likely to be a companion character. Even though the captain may be too skilled with his weapon to fight in a trained group with his men, his leadership and tactical knowledge are invaluable. A turb captain is provisioned as a specialist at least, and may be treated as a companion character even if he is designed as a grog, in recognition of his importance to the covenant.
 
-### **UNIT SERGEANTS**
+### UNIT SERGEANTS
 
 The captain often selects sergeants to command smaller units of the turb. This is particularly important if the soldiers consist of specialized troops, such as cavalry, archers, or infantry. In these cases, one sergeant is placed
 
@@ -554,13 +554,13 @@ The characters being trained gain experience only at the end of the season; ther
 
 in charge of each unit of troops. Sergeants are usually selected based on their demonstrated loyalty and dedication to the covenant, in addition to having the Leadership Ability. Sergeants are rewarded by being treated as specialists with respect to wages, food, and accommodation.
 
-### **THE DRILL SERGEANT**
+### THE DRILL SERGEANT
 
 In addition to unit sergeants, most covenants also have a drill sergeant, whose principal role is to train the grogs to fight as a trained group. This involves providing a season of teaching in a Martial Ability (usually Single Weapon) over the course of each year. The drill sergeant is also responsible for maintaining order in the turb, and administering punishments as warranted. He may be responsible for inflicting punishment on other covenfolk, such as servants, specialists, or even apprentices. Drill sergeants follow a more regular duty pattern than most other soldiers (see "Duty," later); their duty watches are through the day when they can train the off-duty soldiers. A drill sergeant is only asked to be on duty during the night to fill in a gap in the schedule.
 
 Most drill sergeants are older grogs, those who have substantial experience in battle. Their prime Abilities other than Martial Abilities are Leadership and, particularly, Teaching. Leadership is useful to accelerate the group's training (see insert) and to maintain discipline. Drill sergeants benefit from good Communication, and their Martial Abilities need to be higher than those of the soldiers they are teaching. Like other sergeants, the drill sergeant is accounted as a specialist, although he remains under the command of the turb captain.
 
-### **OTHER MILITARY RANKS**
+### OTHER MILITARY RANKS
 
 Medium-sized turbs do not usually need any other ranks beyond the captain and his sergeants, at least with respect to organization. However, covenants often reward their particularly loyal or heroic soldiers with an intermediate rank between the common soldiers and the sergeants, roughly equivalent to corporal. The name used varies from covenant to covenant; the *liber gregis* suggests "decurio" or "decurion," the leader of 10 men in the Roman army. This rank is represented by the Custos Social Status Virtue. The Custos is usually offered a double ration of wine or ale each day, and an improved pension when he retires from the covenant's service; in addition, custodes are often promoted to sergeant before their military career ends. Large turbs usually require a rigid hierarchy to maintain discipline; see "Military Hierarchy," later.
 
@@ -577,7 +577,7 @@ tant determiner of the mood and feel of a covenant, and the troupe should put a 
 
 A hierarchical organization of a covenant's grogs is perhaps the most commonly found. It is the least work for the magi, as they have a small number of officials reporting to them, who then marshal their subordinates to complete the tasks at hand. The two most significant hierarchical models adopted are those of the noble household and the military.
 
-### **A NOBLE HOUSEHOLD**
+### A NOBLE HOUSEHOLD
 
 Covenants who employ a large number of servants and specialists often adopt an organizational structure that mimics that of the noble household. This is a natural model to adopt, since examples of how well it functions can be found throughout Mythic Europe. However, the level of complexity is only really needed if the covenant is a large one, or is masquerading as a lord of the manor. At its most basic level this organization approximates the norm for covenants perhaps due to the influence of the *liber gregis* — since the three chief officials in a noble household are the steward, the chamberlain, and the marshal.
 
@@ -617,7 +617,7 @@ A grog character has recently been promoted to a higher rank, and he is still fi
 
 of a noble household is given in *Lords of Men*.
 
-### **MILITARY HIERARCHY**
+### MILITARY HIERARCHY
 
 Rather than dividing the covenfolk by role, a covenant can take a more military approach. In this organizational system, the covenfolk are divided into squads, each of which consists of soldiers and their auxiliary staff. An army in Mythic Europe is largely free of intermediate ranks. The marshal is in charge of his lord's household troops, including the knights and men-at-arms. If his lord goes to war, the marshal takes charge of the menat-arms, while the lord commands the knights; otherwise, he leads the knights himself (in lieu of the tenantin-chief, thus the later rank "lieutenant") and appoints a captain to command the men-at-arms.
 
@@ -631,7 +631,7 @@ Another method of organizing grogs is by nation. A nation of grogs consists of s
 
 Nation-level organizations are common in covenants where magi are relatively independent of each other. Each nation might be dedicated to the service of a single magus, or led by a companion instead. Members of nations often have a Loyalty Personality Trait specific to the nation as well as to the covenant.
 
-### **FAMILY GROUPS**
+### FAMILY GROUPS
 
 The most natural nations form around familial bonds. Old covenants, in particular, have covenfolk who were born in the covenant and have served the magi all their lives. These families can stretch back generations, each one tracing its ancestry back to one of the original servants of the covenant, or even one of the magi. Alternatively, a covenant might, at its foundation, have incorporated folk from the local area who were already strongly divided along family lines. It is usual for a woman to join her husband's family when they marry, but this is not always the case: in Irish clan structures, for example, the man may join the woman's family.
 
@@ -639,7 +639,7 @@ Family-based nations usually have a clear leader, who is often the eldest living
 
 *Exempli gratia: When founded, a covenant employed four brothers, who all went on to have prodigiously-sized families. Three of these families still persist (the fourth has since perished), called Rufus, Flavus, and Fuscus, since the families tend to be red-headed, blond, and brown-haired, respectively.*
 
-### **ETHNIC GROUPS**
+### ETHNIC GROUPS
 
 The student bodies of some universities in Mythic Europe are divided into nations, with each nation responsible for the conduct and protection of each of its members (*Art & Academe*, page 94). These nations are usually loose geographical groups; the closest ethnic groups are well represented,
 
@@ -657,7 +657,7 @@ whereas more distant students are lumped into much wider categories. Some covena
 
 *Exempli gratia: A covenant in the Holy Land might have been founded as a joint venture between Hermetic magi and non-Hermetic wizards. It therefore has two nations: Occidens, consisting of the Western covenfolk who accompanied the Hermetic magi; and al-Mashriq, consisting of the Arabic covenfolk who serve their eastern masters.*
 
-### **DIVIDED BY LOCATION**
+### DIVIDED BY LOCATION
 
 Nations may also form where a covenant is split over several geographically separated sites, or has deliberate spatial separation of its turb. There may be some separation of function in these nations; the nation that lives offshore probably has more sailors and fishermen than the nation that occupies the nearby hills, but both nations need their own specialists, soldiers, and servants.
 
@@ -679,7 +679,7 @@ There is also a tendency for grogs to self-organize. If there are a lot of craft
 
 Note that the division of grogs into guilds does not necessarily mean literal guilds; that is, a political unit that can arrange simultaneous withdrawal of services in order to coerce better conditions for their masters. However, the Guild Covenant Hook (*Covenants*, page 19) can be bought if this situation is desirable.
 
-### **PROFESSIONAL GUILDS**
+### PROFESSIONAL GUILDS
 
 Clearly a good model for covenant organization is the craft guilds, service guilds, and merchant guilds that are becoming more widespread in Mythic Europe in the 13th century. Once confined to big cities, guilds can now be found almost anywhere, at least in the West, and they regulate the quality of the goods produced by their members. A guild consists of all craftsmen that use the same or a group of closely allied Craft or Profession Abilities. However, at a covenant, a guild might exist for each Martial Ability, or perhaps even for select groups of Arcane or Supernatural Abilities. The guild provides incomes for the destitute and disabled, pays for the funeral services of deceased members, holds its own religious ceremonies, and sometimes even provides schooling for their members' children.
 
@@ -705,7 +705,7 @@ of physical and mental trials set by the magi, and for as long as anyone can rem
 *Exempli gratia: A large covenant has seven guilds named after their patron saints. The Guild of St. Peter consists of the bakers, cobblers, and masons of the covenant; the Guild of St. Luke consists of the glassmakers, physicians, and bookbinders; and the Guild of St. Matthew contains the personal guards of the magi, their servants, and the senior staff. The Guild of St. James supports the cavalry, laborers, and tanners; the Guild of St. Michael contains the soldiers, sailors, and merchants; and the Guild of St. George contains the archers, armorers, and farmers. Finally, the Guild of St. Andrew cares for the fishermen and all the unmarried women (once they marry, they join their husband's guild; if they are widowed, they return to St. Andrew's patronage).*
 
 
-### **MONASTERY**
+### MONASTERY
 
 A monastery is designed along a guild structure. Unlike the clear hierarchy of the noble household, the abbot of a monastery designates officials
 
@@ -734,7 +734,7 @@ Any sort of social structure can lead to rivalries among the covenfolk. One nati
 
 In addition to tension between groups of covenfolk, there can also be tension between prominent individuals. If the covenfolk are split into families, there may be a longstanding feud between the leaders of two families; or there could be a power struggle within the turb over who deserves to be captain, once the present incumbent has retired. A common rivalry occurs between the steward and the chamberlain over precedence; many stewards believe that they should be the superior of the chamberlain. The turb captain need not be excluded from such rivalries; it is common for the captain to think himself more important than either, and he uses the armed men under his control to enforce this point.
 
-## **MINOR RESIDENTS HOOK: WARRING COVENFOLK**
+## MINOR RESIDENTS HOOK: WARRING COVENFOLK
 
 The covenfolk are divided into at least two factions, who cannot see eye-to-eye, and this rivalry has gone beyond petty annoyances to a situation where it can occasionally interrupt the smooth running of the covenant. The magi are either unwilling or unable to resolve whatever started the conflict, although their attempts might also lead to stories. This is not the same as either the Divided Loyalty or Rebellious Covenfolk Hooks (*Covenants*, page 19); the different factions of covenfolk can be equally loyal (or disloyal!) to the magi.
 
@@ -742,7 +742,7 @@ The covenfolk are divided into at least two factions, who cannot see eye-to-eye,
 
 It is sometimes necessary to know what patrols certain members of the turb are assigned to at any one time. The following charts should help; randomly determine what patrol (night or day) and watch (first to fourth) a character is in, then cross-reference the time to determine the type of duty. You may instead wish to divide all soldiers into watches ahead of time, so that when an event occurs, you can randomly determine which of the watches is on duty, letting you know which grogs have to deal with that event first.
 
-### **SINGLE DUTY**
+### SINGLE DUTY
 
 The grogs are divided into four watches. The day and night patrols vary as to when they take their off-duty and free shifts. One-quarter of the covenant's fighting force is combat ready at any time, and another three-eighths can be mobilized quickly; the rest are asleep.
 
@@ -757,7 +757,7 @@ The grogs are divided into four watches. The day and night patrols vary as to wh
 | Afternoon | Free / Off                  | Free / Off                  | Duty                        | Free / Off                  |
 | Foredusk  | Free / Off                  | Free / Off                  | Free / Off                  | Duty                        |
 
-### **DOUBLE DUTY**
+### DOUBLE DUTY
 
 The grogs are divided into two double-watches; as before, the day and night patrols have different assignments when not on duty. One half of the covenant's grogs is combat ready, and another quarter can quickly support them; the remaining quarter is asleep.
 
@@ -787,11 +787,11 @@ A patrol may be split further into different areas of the covenant, so that each
 
 The turb captain is responsible for keeping track of the duties and patrols, but a sergeant usually issues orders and assignments to the men. The grog's mess hall usually has a peg board, letting a grog know where and when, and with whom, he is on duty. Each column on the board indicates a different patrol, and a grog finds his mark on the side of the board and reads across to discover what patrol he's been assigned.
 
-### **THE WATCHES**
+### THE WATCHES
 
 The *liber gregis* sets out the expected pattern of sentry duty, both on expedition and while stationed at the covenant, and the system it adopts is broadly based on the Roman model. The 24 hours of the day are divided into eight watches of three hours each: four day watches and four night watches.
 
-### **WATCH COMMENCES** Eventide, 1st night watch 6 pm Nighttide, 2nd night watch 9 pm Midnight, 3rd night watch Midnight Foredawn, 4th night watch 3 am Morntide, 1st day watch 6 am Forenoon, 2nd day watch 9 am Afternoon, 3rd day watch Noon Foredusk, 4th day watch 3 pm
+### WATCH COMMENCES Eventide, 1st night watch 6 pm Nighttide, 2nd night watch 9 pm Midnight, 3rd night watch Midnight Foredawn, 4th night watch 3 am Morntide, 1st day watch 6 am Forenoon, 2nd day watch 9 am Afternoon, 3rd day watch Noon Foredusk, 4th day watch 3 pm
 
 Times of watches are approximate, based on the height of the sun during the day, and the rising of the moon or stars at night. On overcast nights, watch durations are even more approximate, and are usually estimated from the time it takes for a log the diameter of a man's arm to burn: approximately one hour. During the day, the sergeant on watch is responsible for determining shift changes; at night, this is left to the grogs on duty.
 
@@ -820,7 +820,7 @@ to all actions for a number of rounds equal to (6 – Stamina).
 
 > **TIME TO RECOVER FROM BEING WOKEN UP: 6 – Stamina rounds**
 
-### **DOUBLE DUTY**
+### DOUBLE DUTY
 
 Double duty is ordered when trouble is expected; grogs work longer shifts, and more of them are active at a time. When on double duty, the turb is divided into two duties, and a grog is on watch for two watches, with two watches off-duty. As before, sleep is permitted after two active duties. If possible, it is arranged so that half of each duty is asleep and half is resting. So, if four grogs are on sentry duty, two take the first duty while one sleeps and the other is off-duty. After two watches, the duties switch; one of those who has just been on duty sleeps, while the other remains awake. In this pattern, there are always threequarters of the grogs awake at any one time, and half of them are alert, armed, and ready for trouble.
 
@@ -828,7 +828,7 @@ Double duty is tiring, and cannot be maintained for extended periods. At dusk, m
 
 **DOUBLE DUTY FATIGUE ROLLS: Stamina + simple die versus Ease Factor 3 + number of double duties**
 
-### **DUTIES FOR SPECIALISTS AND SERVANTS**
+### DUTIES FOR SPECIALISTS AND SERVANTS
 
 The working day of most specialists in the covenant is from forenoon until eventide (approximately 8 a.m. to 8 p.m.). If they are entitled to food provided by the covenant, they eat after the soldiers at dawn and dusk, and with them at noon. Other than that, they toil under their own recognizance, or under the command of their workshop master or the steward.
 
@@ -863,11 +863,11 @@ A grog's life might seem a hard one, but he is recompensed with food, accommodat
 
 good behavior, initiative, and uncommon bravery. A maga who commends a grog to the turb captain, steward, or chamberlain does not usually concern herself with the nature of the reward, and rarely bestows it herself. Instead, the official himself determines an appropriate remuneration, and announces the reward in front of the rest of the turb. However, magi do not always recognize the importance to turb discipline of maintaining a chain of command, and sometimes hand out *ad hoc* rewards.
 
-### **IMPROVED RATIONS**
+### IMPROVED RATIONS
 
 The fare of a grog is usually pretty plain, so a simple and effective way of rewarding a grog for a well-done job is to give him a one-off or temporary elevation in his provender. Typical improvements in rations include a private cellar of salt, wastel bread (the best bread available), fresh meat, or a double ration of wine or ale. This improvement in rations might last a day, a month, a season, or a year, depending on the magnitude of the rewarded behavior. A grog spending a year on improved rations receives a –1 improvement to his Living Conditions Modifier when making aging rolls. A grog receiving one of the other rewards listed here often also receives improved rations as well.
 
-### **PAY AND A HALF**
+### PAY AND A HALF
 
 Monetary rewards to grogs are not that useful; they have little opportunity to spend hard coin. Nevertheless, grogs sometimes hoard what coin they can with a particular purpose in mind: perhaps a favor for his love, or a superior weapon. Pay and a Half can last for a season or more, or it might be permanent.
 
@@ -875,7 +875,7 @@ Monetary rewards to grogs are not that useful; they have little opportunity to s
 
 Covenants often gather superior arms and armor, either scavenged from the battlefield, received as gifts, or left behind by former companions or grogs. They might also acquire tools of superior quality from former covenfolk or from outside the covenant. This equipment is often given out as rewards. This is a little backhanded, since the covenant is rewarding a grog by making him more efficient at what they pay him to do, but most grogs do not complain. This equipment might be Expensive rather than Standard cost, or it might be particularly wellcrafted and provide actual bonuses (see *City & Guild*, pages 67–71). In rare circumstances, a grog might be granted a lesser enchantment or even an invested item, although this usually requires great heroism to provoke such a gift. All gifts are permanent, but a grog who is demoted as a punishment must usually surrender any such equipment in addition to any other punishment.
 
-### **PROMOTION IN RANK**
+### PROMOTION IN RANK
 
 The highest reward offered by most covenants is a promotion. A standard grog can be promoted to custos, and a custos may be promoted to sergeant, or the equivalent for servants and specialists. They may even aspire to be captain, chamberlain, or steward one day. Increased rank has several privileges — better food, better accommodation, better pay, and often a better pension.
 
@@ -889,15 +889,15 @@ Punishment, if inflicted in an appropriate manner for clear reasons, does not us
 
 The punishments of the *liber gregis* are listed later, in order of severity. The crimes for which they are inflicted have been purposefully omitted; every covenant places different importance on infractions, and it is impossible to generalize. Most covenants do not have a definitive list of crimes and their associated punishments (although some do); those with access to the *liber gregis* assigns punitive action based on the type of crime and its severity.
 
-### **CASTIGATION**
+### CASTIGATION
 
 This is the lowest level of punishment, consisting of a single blow to the face, hand, or thigh with a rod. The drill sergeant usually carries such a rod specifically for this purpose (traditionally made from the virile organ of a bull), and the punishment is usually applied immediately.
 
-### **RELEGATION TO INFERIOR DUTIES**
+### RELEGATION TO INFERIOR DUTIES
 
 Every covenant has duties that are considered to be the most unpleasant of all; these are usually drawn by lot, but are occasionally assigned as punishment. Typically, emptying the latrine pits is the worst of all jobs, but at a covenant, worse jobs can doubtless be found — feeding Master Hygwald's familiar, removing the rotting corpses from Master Lucas's laboratory, or accompanying Master Orsinio on a mission to the Black Bog of Doom.
 
-### **REDUCTION OF RATIONS**
+### REDUCTION OF RATIONS
 
 Grogs usually receive basic but nutritious fare of good grain, occa-
 
@@ -905,23 +905,23 @@ Grogs usually receive basic but nutritious fare of good grain, occa-
 
 sional meat or fish, and a daily ration of ale or wine. The threat of being reduced to barley (rather than wheat), having the meat ration removed, and/ or the ale exchanged for small beer (or worse, milk!) for a month is a good incentive to avoid bad behavior. A character who spends one or more season a year on reduced rations suffers a +1 penalty to his Living Conditions Modifier; if he is on reduced rations for three or four seasons, the penalty is +2.
 
-### **FLOGGING**
+### FLOGGING
 
 This punishment usually takes place in front of the entire covenant; the offender takes one, five, or ten blows to the back from a strap. 1, 2, or 3 Light Wounds are inflicted by this punishment, and the offender takes 1, 3, or 5 long term Fatigue levels as well.
 
-### **REDUCTION IN RANK**
+### REDUCTION IN RANK
 
 Rank has its privileges: the wages are higher, the ration of food is better, and the accommodation is superior. Furthermore, rank has implications for one's pension once one is too old to serve the covenant (see later). Reduction in rank is permanent; all grogs have the capacity to re-earn the rank they once held, but a captain will be reluctant to promote someone who has lost his rank through punishment.
 
-### **WHIPPING**
+### WHIPPING
 
 Much more brutal than simple flogging, miscreants are sentenced to a number of lashes (usually a multiple of 10), made with either the long whip or the short whip, with the latter being the more severe punishment. 10 lashes inflicts a Light Wound, 30 lashes a Medium Wound, and 50 lashes a Heavy Wound. If the short whip is used, 2 wounds of each type are inflicted. The punished grog is permitted just one week to recover from his lashes (just one day if ten or fewer are inflicted); if he cannot work after this time has elapsed (which is likely if he received more than ten lashes), then his pay is docked for the time he takes to recover.
 
-### **DISMISSAL**
+### DISMISSAL
 
 Being dismissed from the service of a covenant is a step rarely taken lightly. Covenants value their privacy, and dismissing a grog from a steady job is likely to leave that individual harboring a great deal of resentment that could be used against the covenant. Of course, magi have ways of securing silence, from simple threats and sham curses, to more direct magical measures, such as mutilation of the tongue and modification of the memory.
 
-### **FUSTUARIUM**
+### FUSTUARIUM
 
 The most extreme punishment suggested by the *liber gregis* is for the malefactor to be beaten to death with clubs or stones. This form of justice is often meted out by the rest of the turb, who wear blindfolds. This is so that the character who inflicts the death blow cannot be identified, absolving him from any personal responsibility, and instead leaving the whole group accountable for the death sentence. Very few covenants actually have the legal right to order the death of their men, so this group responsibility can be important if the death becomes known in the wider community. However, since many grogs are misfits or outcasts, their death often goes unnoticed and unremarked. Beorhtric writes that he has only ever heard of this punishment being applied once, and never ordered it himself.
 
@@ -939,13 +939,13 @@ Because of a general reluctance to bring outsiders into the closed community of 
 
 
 
-### **RETIREMENT**
+### RETIREMENT
 
 As a grog gets old, and decrepitude sinks its inescapable claws into him, there might come a time when the troop decides to retire him. Old grogs are valued by magi because they are usually exceptionally competent and less likely to react badly to The Gift, and yet as a character ages, he may be inclined toward lighter duties. The decision to retire often comes suddenly, after a serious aging crisis that leaves the character crippled or weakened.
 
 Assuming that a covenant cares for its retired members, the grog is still counted as a member of the covenant as far as its finances go. Some covenants move retired grogs to a secondary location where they can live out their final years in peace, but others prefer to keep them around to act as babysitters, sources of information or training, and perhaps to still ply a trade if it does not impose strenuous demands.
 
-### **PENSIONS**
+### PENSIONS
 
 A grog's pension is one of the enticements that keeps a grog at the covenant. Few professions allow their members to continue to draw a wage after their working life has ended, but ever since Rome, this has been the prerogative of the professional soldier, and many covenants have extended this right to all of their grogs. Pensions are usually half to threequarters of their former pay. Covenants occasionally charge rent for the accommodation of their retired members (and thus avoid having to pay them any pension), but still provide food free of charge.
 
@@ -975,11 +975,11 @@ Grog stories are an excellent way to introduce features of medieval life to a tr
 
 ### Story Seeds: Showcasing
 
-### **INNOCENT OR GUILTY?**
+### INNOCENT OR GUILTY?
 
 A grog is accused of a crime by a freeman. He could be innocent but framed, or he could be inadvertently guilty — while soldiers might not think twice about killing those who molest their masters, this is still a crime. The grog is ordered to attend court to answer for his crimes, and should probably consult a lawyer. He must then cope with the intricacies of Mythic Europe's legal system, which is often less about proving guilt or innocence, and more about testing the justice of a law. Depending on the saga's location and the nature of the crime, trial by ordeal might be ordered.
 
-### **A NOBLE HUNT**
+### A NOBLE HUNT
 
 A noble friend of the magi invites them on a hunt, and they bring their grogs along for the event. Hunting in Mythic Europe is a popular past time filled with ritual and tradition. Hunts are organized by the nobility, but the common man takes part, as trackers, huntsmen, and so forth. Of course, when the hounds pick up the scent of the Great White Stag, the hunt can become a lot more interesting …
 
@@ -999,11 +999,11 @@ In addition to using grogs to set up a future story, they can also be used to ad
 
 ### Story Seeds: Routine Duties
 
-### **LOST SHEEP**
+### LOST SHEEP
 
 The grogs sent to gather vis are confronted by a horde of angry peasants. It seems that the last couple of times that the grogs have passed this way, sheep have gone missing immediately after; this time the villagers have been expecting the strangers, and have lain in wait for them. It seems that, on each visit to the vis source, the grogs disturb some sort of supernatural creature, which goes on a rampage right after they have left the region.
 
-### **STOLEN VIS**
+### STOLEN VIS
 
 The grogs have traveled a great distance to gather the vis from a distant source, only to discover that it has already been harvested. There are signs that the perpetrators of the theft might still be in the area, so the loyal grogs are tempted to investigate rather than return empty handed.
 
@@ -1019,11 +1019,11 @@ Light relief stories need not be comical, but comedy can play an important role 
 
 ### Story Seeds: Staging
 
-### **FLASHBACK**
+### FLASHBACK
 
 The magi have been plagued by a major foe, such as a dragon, and after several incidents decide to do something about it. They need to know where the dragon lives, which might occasion an (Area) Lore roll from one of the grogs who grew up in the region. Instead of simply telling the players that information, the storyguide instead runs a short "flashback" story to a time before the grog joined the covenant. He was exploring the woods with some of his boyhood friends (some of the other grogs) when one of them fell into a sinkhole. It becomes clear over the course of this story that this was the entrance to the dragon's lair, although the grogs saw no evidence of the beast at the time. Not only do the magi get the information they need, but they can also plan their approach using the grogs' personal experience of the region. The grogs may have even accidentally discovered the dragon's weakness, although they didn't recognize it as such at the time.
 
-### **FORESHADOWING**
+### FORESHADOWING
 
 The grogs are tasked with finding someone in the local town who can make gold jewelry. While they search for such an individual, they come across an old woman who is worried because her grandson has gone missing. This event is entirely tangential to finding a goldsmith, but the grandson is an important seed for a later story; by introducing him to the characters now, they are more likely to get involved in the later story.
 
@@ -1031,11 +1031,11 @@ of consequences. Light relief should not be part of a continuing story, or deliv
 
 ### Story Seeds: Light Relief
 
-### **A FAERIE TRICK**
+### A FAERIE TRICK
 
 A faerie decides to play a trick on a village, and everyone wakes up one morning looking like Simon the Basket-Weaver. While they struggle with the confusion this brings, several enterprising villagers decide to perform petty acts of mischief and revenge on one another, since this is a day without consequence — no one can be sure who did what. The grogs might be passing through and be affected by the curse, or they might be left to try to disentangle who is responsible for stealing their goods.
 
-### **OVERINDULGENCE**
+### OVERINDULGENCE
 
 The grogs attend a May Day celebration at the local village, which involves a great deal of food and drink. When they wake up, they are stranded far from the village, and someone has stolen their clothes. They must find their way back to the covenant, and avoid being seen by the village priest who is calling everyone to church.
 
@@ -1064,11 +1064,11 @@ A grog story revolving around the covenant's actions in a battle is a good way o
 
 ### Story Seeds: History
 
-### **LONG LIVE THE KING?**
+### LONG LIVE THE KING?
 
 In 1223, King Louis VIII is crowned King of France. He had formerly been crowned King of England after he invaded on the death of King John; after eighteen months of fighting he was driven out, and the Treaty of Lambeth forced him to agree that he was never a legitimate king of England. Understandably, Louis VIII was unpopular in English circles, and throughout his reign he harassed Angevin territories in France, fought with the Count of Champagne, arranged the excommunication of the Count of Toulouse and declared a crusade against the southern barons. He dies in 1226, apparently of dysentery. There is a lot of potential to get grogs bound up in the short reign of this king. If the covenant is pro-French then they might receive word of plots against the crown. An anti-French covenant might be conspirators in (or instigators of) these plots. All this could occur without the knowledge of the magi.
 
-### **THE FIFTH CRUSADE**
+### THE FIFTH CRUSADE
 
 The Fifth Crusade is in full swing in 1220. As an opening to a saga, this Crusade presents a dramatic backdrop to life as a grog. The two-year siege of Damietta has just ended, and the crusaders are now fighting over secular and religious authority in the port. Francis of Assisi arrived late last year, and has been preaching to the sultan; it is thought that he is now visiting Palestine but his whereabouts are unknown. The Crusade is about to march on Cairo. The players could begin with grog characters who are men-at-arms in the crusading force. They could meet up with the magi after a few battles; perhaps they are trying to smuggle ancient artifacts from the Egyptian tombs before the crusaders arrive, or maybe the magi are providing support to the crusaders.
 
@@ -1095,7 +1095,7 @@ A grog's father arrives at the covenant and asks for help. His father is a freem
 
 There are seven genres that lend themselves well to grog stories: Action/Adventure, Comedy, Creature Feature, Drama, Exploration, Horror, and Mystery. However, one should note that these broad genres are not mutually exclusive, and a story can always switch genres midway through to help keep the players on their toes.
 
-### **ACTION/ADVENTURE**
+### ACTION/ADVENTURE
 
 This is the type of story with which most grogs feel at home. Action/Adventures usually feature combat quite heavily, but this should not be all they contain. Chases, physical challenges, and a well-chosen "bad guy" who employs unusual tactics all add to the fun. Stories based around disasters can also make good grog stories. Action stories are usually heavy on the doing and light on the thinking; don't get too bound up in complex plots.
 
@@ -1105,7 +1105,7 @@ Examples include:
 - Grogs track down a villainous lord who tortured and killed their captain in a previous story. The magi were unable to punish him because of the Code, but they might provide surreptitious help to the vengeful grogs.
 - A fire in a town spreads quickly. The grogs must do their best to preserve their favorite establishments, and help those trapped in burning houses. But who started the fire, and how?
 
-### **COMEDY**
+### COMEDY
 
 Comedy has an incidental role in many stories, but it can also be an intentional element. Humor can be very individual and idiosyncratic, and a storyguide has a duty toward his players to pitch a comedic story appropriately so that it is enjoyed equally by the players and the storyguide. Not everyone appreciates the sophomoric character of slapstick or toilet humor, whereas others have difficulty with subtly crafted irony.
 
@@ -1122,7 +1122,7 @@ Examples include:
 
 caprices of the "king for a day."
 
-### **CREATURE FEATURE**
+### CREATURE FEATURE
 
 Usually a subgenre of Action/Adventure, this type of story focuses on a specific opponent. The set-up of the story is usually specifically geared to give the antagonist the most advantages possible.
 
@@ -1139,7 +1139,7 @@ them all.
 
 • A hedge witch has taken a particular dislike to one of the grogs — for real or imagined reasons. Whenever he leaves the covenant he risks being harried by her, so he decides to drum up a few friends and sort her out. However, she is well-protected. She uses the local animals as her eyes and ears, and has trapped the land around her home with mundane and magical traps. She may have ensorcelled one or more warriors to act as a bodyguard, or have more overtly supernatural assistance.
 
-### **DRAMA**
+### DRAMA
 
 Situations fraught with tension rather than action are the hallmark of a good dramatic story, and the cutand-thrust of politics can be every bit as exciting as battle for the right grog. Drama-based stories usually need a good plot to hold them together, since the players don't have so many combats to distract them.
 
@@ -1152,7 +1152,7 @@ denigrated minority), leaving the grogs to struggle with their own prejudices, a
 
 • A grog meets and falls in love with an unattainable individual. Perhaps she is the daughter of a noblemen, and he just a stable boy. Or maybe he is a magus, and she is a soldier. The grog must contend with the possibility that his beloved has ulterior motives for returning his affections. This drama could span several months or years until the two finally resolve their starcrossed love.
 
-### **EXPLORATION**
+### EXPLORATION
 
 These stories feature new experiences or take place in exotic locales, and may be combined with action or with drama.
 
@@ -1162,7 +1162,7 @@ Examples include:
 - The grogs are shipwrecked on a mysterious island, and the magi are nowhere to be found. The secret to escaping from this regio must be somewhere on the island, but can they find it alone?
 - The grogs are required to deliver a magical item to the king of the monkeys. When they step across the borders of his land, they find themselves transformed into monkeys themselves. To complete their mission, they must foil a plot of the monkeys' enemies, the serpent people.
 
-### **HORROR**
+### HORROR
 
 **Ars Magica Fifth Edition** is a good setting for horror stories. Mythic Europe is rich in suitable opponents — ghosts, demons, werewolves, vampires — and abounds with suitably creepy locations, such as haunted forests, abandoned castles, and fog-shrouded moors. In addition to maintaining the atmosphere, the storyguide should build tension through inconclusive encounters until the final confrontation. Horror stories make extensive use of Personality Traits (particularly the Brave Trait), and madness can be represented by the temporary imposition of Personality Traits at high values that govern the character's reactions to certain stimuli. Stories that are all about fighting a monster rather than running from it are creature features, rather than horror.
 
@@ -1194,7 +1194,7 @@ Example include:
 - The grog characters are ambushed on their way to a nearby town.
 - The grog characters are tricked into getting involved by a cunning priest.
 
-### **WHERE ARE THE MAGI?**
+### WHERE ARE THE MAGI?
 
 An important question to ask when planning a grog adventure is why the magi or companions aren't getting involved. Some types of story are of more intrinsic interest to magi, or involve the Story Flaws of the "main cast," but conventional stories in **Ars Magica Fifth Edition** are not intended to feature grogs exclusively. The storyguide sometimes needs to provide some pretext as to why the magi and companions are unavailable for these stories.
 
@@ -1224,7 +1224,7 @@ out the issue. This might end in tragedy for the grogs if they are outmatched ag
 
 The middle of any story should have a gradual increase in tension or action, or both, as the characters build toward the climax that happens in the finale. The three basic ways of building tension in the middle phase of a story are antagonists, clues, and obstacles.
 
-### **ANTAGONISTS**
+### ANTAGONISTS
 
 Most stories have an antagonist, which may be an event, a person or creature, or a place. It is the source of most of the significant obstacles that the grogs will face, and many stories revolve around overcoming or defeating the antagonist. This need not be the case for all stories: the antagonist might be so vast that it must simply be weathered rather than defeated, or so
 
@@ -1242,13 +1242,13 @@ a quarter of even the bravest grogs in the band are likely to stay and fight if 
 
 Locations can also be antagonists, if they are the source of the character's obstacles. A challenging environment such as a desert or an ice floe can be as deadly as a dragon even for hardy adventurer-types. Alternatively finding a long-lost Roman fort, or the location of a mythical island, can provide challenges for all sorts of grog characters.
 
-### **CLUES**
+### CLUES
 
 With all-grog groups, there is no need to worry about magi plucking answers from another's mind, or bringing other varieties of "plot-solving" magics to bear. Instead, a grog group is going to be far more reliant on their Characteristics and Abilities to pick up on clues, and this stresses the importance of a varied group of characters for grog-only adventures (see "Picking Your Team," Chapter 4).
 
 A good piece of advice that applies particularly to mystery stories, but also to stories in general — make sure that there are *at least* three ways in which the characters can obtain any vital piece of information. It is too easy to stump players if they miss a clue, and with two back-ups, the chances are good that they will not miss it altogether. Make sure there are plenty of different ways of getting the information. It is too easy to allow Awareness to become a "Find Clue" Ability. Perception can be combined with other Abilities equally easily: with Folk Ken to spot lies; with Living Language to pick up the traces of an odd accent; and with Ride to spot which horse has been lathered from a long ride. Information can be gained directly from storyguide characters by using various Social Abilities, from the character's own learning, or from hunches supplied by Supernatural Abilities such as Premonitions.
 
-### **OBSTACLES**
+### OBSTACLES
 
 Clues advance a plot, whereas obstacles hinder it. This catch-all category consists of all the barriers that the characters must overcome. These might be literal obstacles in the form of a mountain to be scaled, a river to be crossed, or a fortress to be breached, or metaphorical barriers such as earning the trust of the village, or finding the right person to bribe. In general, obstacles should become greater challenges to the characters as the story approaches its climax.
 
@@ -1256,15 +1256,15 @@ Clues advance a plot, whereas obstacles hinder it. This catch-all category consi
 
 Stories can end in one of two ways: a happy ending or a disastrous ending — the original meanings of comedy and tragedy, respectively. Some stories are specifically intended to end well or end poorly, regardless of the actions of the grog characters. This may seem harsh, but if used sparingly, it reinforces the idea that grogs are support characters, rather than the main cast.
 
-### **THE SHOWDOWN**
+### THE SHOWDOWN
 
 The final showdown is what all the preceding parts of the story have been leading to. In many situations, this is where they finally confront their antagonist despite his best efforts to avoid them, and they must now overcome him to win the day. A cunning antagonist chooses the location for the final showdown, and ensures that everything is in his favor; wise characters attempt to do the same. The result is usually a compromise between both sides' favored location, and allows the storyguide to tune the final showdown according to how well that characters have performed until that point. For example, if they have failed to uncover the dragon's weak spot, then they might be given the upper hand in picking the location of the finale, allowing them to prepare the ground with traps and snares that even the score somewhat.
 
-### **MAGUS EX MACHINA**
+### MAGUS EX MACHINA
 
 Sometimes, a story will end with the magi sweeping in and saving the day. This might have been the point of the adventure — the grogs do all the hard work setting up the finale to give the magi the best chance of success — or it may be entirely accidental or unexpected. This sort of end is a manner by which a happy ending can be almost guaranteed, regardless of how poorly the grog characters have done, but it also robs them of a sense of achievement, and so should be used rarely, unless the players really enjoy being the ones to ride to the rescue when all seemed lost.
 
-### **ROCKS FALL, EVERYONE DIES**
+### ROCKS FALL, EVERYONE DIES
 
 An extreme form of tragedy, in this resolution, all the grogs die at the end of the adventure. Perhaps they have been sent up against a hopelessly powerful opponent, or maybe it was always a suicide mission. When the grogs fail to return, the magi and companions may be sufficiently motivated to investigate themselves.
 
@@ -1274,7 +1274,7 @@ This end to an adventure generates
 
 a lot of pathos, and can be a shocking and unexpected end to a story. It is certainly not a tactic that should be overused, and it is a brave storyguide who uses it against a group of favored grogs. However, this ending is an excellent way to enforce the idea that the life of a grog can be brutal and short.
 
-### **REWARDS**
+### REWARDS
 
 Grogs earn experience points at the same rate as any other character, but rarely benefit from other rewards of stories such as vis, hidden knowledge, or magical items. A slap on the back and a "well done" from a magus is little reward for putting one's life on the line, and the storyguide should consider other less traditional forms of reward. For a start, grogs who are successful gradually come to be recognized as dependable, competent, and even heroic, both at the covenant and further afield. When a mission is successfully completed, a grog character should earn experience points in a Reputation (**ArM5**, page 167) that represents the recognition of a task well done by the magi. This Reputation should serve as a reflection of the status of the character within the covenfolk, and may translate directly into better quarters, higher wages or pension, or a position of responsibility. As the score in this Reputation rises, the character becomes a local celebrity, as grogs gossip about his deeds to non-covenfolk. Related to fame and fortune gained through Reputation are less tangible rewards, such as the grace and favor of important locals or supernatural entities. A grog character might be able to call in favors, receive one-off mentoring, or develop an agency among the wider world (*Houses of Hermes: Societates*, page 140).
 
@@ -1749,7 +1749,7 @@ The Area Lore Ability is used for all sorts of navigation rolls, and is essentia
 
 Grogs are often used as messengers for the magi. They may be sent as couriers to other covenants if the matter is urgent and a redcap is not due for a while. They may be sent ahead of a troop to inform their destination of their imminent arrival, or to arrange accommodation in a foreign town. Grogs might also be sent back home: to impart vital information to the covenant, to ask for reinforcements, or to carry wounded comrades out of harm's way.
 
-### **TRAVEL SPEEDS**
+### TRAVEL SPEEDS
 
 The table that follows indicates the best speeds (in miles per day) achievable with different modes of transport. Note that these are the best speeds: poor roads, severe weather, and frequent stops can substantially reduce these times. Furthermore, these are average best speed, since the presence of an inn or hospice might encourage characters to stop early for the day, or push on for a couple of hours more. Characters on foot, on horseback, or traveling by coach can fatigue themselves to travel further in a day; the horses are also fatigued by the same amount as their riders. Groups travel as fast as the slowest individual in the group.
 
@@ -1803,11 +1803,11 @@ One of the biggest obstacles that magi face is their difficulty in communicating
 
 Bribery is an excellent way to loosen the tongue of a recalcitrant peasant; this can be overt (jingling a pouch of coins in front of the peasant's face) or more subtle (offering to buy him a few jars of ale, or buying some of his craft, no matter how awful it might be). When providing a bribe, one should keep in mind that only townsfolk have any great use for coinage — in much of rural Mythic Europe, barter is the main form of commerce. This being said, there is a subtle art in offering the right amount of bribe. If one offers too little, the local will be offended. If one offers too much, the local might become doubly suspicious, or even mark the character as a rube or future mugging victim. As a guide, a day laborer earns about one Mythic Penny per day, and needs the equivalent of a Mythic Pound every year to feed himself and his family. A professional earns two to five times as much, depending on trade and ability. However, most mundanes in Mythic Europe live within their means, and savings are a foreign concept associated with avaricious behavior. A bribe equivalent to a day's pay grants a Minor equipment bonus (see earlier), whereas a bribe equivalent to a week's pay grants a Major equipment bonus.
 
-### **GAINING INFORMATION**
+### GAINING INFORMATION
 
 The local populace often has information that is needed for the successful completion of a mission. The troop could spend weeks scouring the hills in search of the lair of a dragon and still not find it, while a few words with a yokel could provide them with the information they need in minutes. Locals are often suspicious of strangers; this is particularly true in rural areas where most individuals never leave the village they were born in, and less true in cities, where new folk come in every day. An average Communication + Folk Ken roll is usually sufficient to get an individual to talk, but increase the Ease Factor by the local's Suspicious Personality Trait.
 
-### **NEGOTIATION**
+### NEGOTIATION
 
 Grogs are often required to make purchases for their master, since The Gift results in vendors hiking their prices as soon as the magus approaches their shop or booth. Purchases made with currency can normally only be made in a town or city; some example prices can be found on page 144 of *City & Guild*.
 
@@ -1831,13 +1831,13 @@ Now that the storyguide knows how much the seller will accept, she can either as
 
 
 
-### **PURCHASING SUPPLIES FOR TRAVEL**
+### PURCHASING SUPPLIES FOR TRAVEL
 
 A perennial problem with extended travel is the lack of fresh provender. A village is an excellent opportunity to restock with long-life ingredients, and also to buy fresh produce that will last the next few days of travel. Eggs, vegetables (particularly leeks and onions), bread, butter, and grain are the most commonly purchased goods; meat is less readily available, but a village might be persuaded to part with its precious supplies of bacon and fresh meat for the right price. Villagers are more reluctant to sell produce in the winter and spring, when food is at a premium, and more likely to do so in the autumn.
 
 Be aware that there is a limit to the amount of excess food that a village has. They likely have obligations to provide fresh produce for their lord, and so must reserve the greater part of their harvest for him. They have little use for coin in the short term, since neither they nor their lord can eat money. Towns are a better prospect for resupplying; here, there is a food service industry specifically tailored to the production of food for sale. With respect to prices, in a town, a loaf of bread costs about half a Mythic Penny, a chicken can be bought for about a Mythic Penny, as can a pound of cheese, two dozen eggs, ten salted herring, or a gallon of best ale. Broadly speaking, it costs a Mythic Penny to feed a grog for a day, if you are buying rather than growing his food.
 
-### **ARRANGING ACCOMMODATION**
+### ARRANGING ACCOMMODATION
 
 While inns and church-run hospices are found between major cities and along trade routes (see *City & Guild*, page 81), more isolated regions are devoid of such institutions, and travelers have to rely on the hospitality of peasants. At the very least, basic Christian charity usually allows a group of travelers to seek shelter in a barn, grainstore, or chapel, and a few pennies might buy them a hot meal.
 
@@ -1853,7 +1853,7 @@ To arrange a place to stay, make a Communication + Folk Ken roll, using the Ease
 | Byre          | 6              |
 | Shared Bed    | 9              |
 
-### **TRANSLATION**
+### TRANSLATION
 
 It is not uncommon for magi to join a covenant in a region where they do not speak the vernacular language. This may be as simple as having difficulty with the local dialect, or as complete as no understanding at all. Magi rarely find time in their busy schedules to learn new languages — anyone important can speak Latin anyway, and grogs can always
 
@@ -1928,7 +1928,7 @@ These optional rules somewhat weaken the effectiveness of groups, but they make 
 
 Effective group tactics require both discipline and morale. In battle, both of these will be tested.
 
-### **DISCIPLINE**
+### DISCIPLINE
 
 A Discipline roll is required whenever the group is tempted to break formation, either because the group is executing a tricky maneuver or because the enemy seems vulnerable (tempting the group's members to pursue them). Discipline rolls do not take an action to make. If a Discipline roll fails, the group temporarily becomes Disordered.
 
@@ -1950,11 +1950,11 @@ Example discipline Ease Factors are given below:
 
 **EXAMPLE EVENTS:** Enemy routs; Or, group Disengages.
 
-### **MORALE**
+### MORALE
 
 All groups need to make morale rolls when bad things happen to them on the battlefield. Morale rolls do not take an action to make. A group that fails a morale check becomes Disordered. If the group is already Disordered and then fails a Morale check, it routs.
 
-#### **GROUP MORALE: stress die + Leader's Pre + Leader's Leadership**
+#### GROUP MORALE: stress die + Leader's Pre + Leader's Leadership
 
 If everyone in the group has a positive Brave personality score, the group gains a bonus to the Morale roll equal to the lowest Brave score in the group.
 
@@ -1968,7 +1968,7 @@ Example morale Ease Factors are given below:
 
 **EXAMPLE EVENTS:** Charged by obviously superior force; Or, ambushed or attacked from rear; Or, all members of group reach Wound Penalty of –3 or worse; Or, the vanguard or leader killed, Incapacitated, or disabled by magic.
 
-### **DISORDERED GROUPS**
+### DISORDERED GROUPS
 
 A group that fails a Discipline or Morale check becomes Disordered. This is a bad state of affairs that leaves the group vulnerable in combat.
 
@@ -1976,20 +1976,20 @@ A group that fails a Discipline or Morale check becomes Disordered. This is a ba
 - An untrained group that is Disordered can't attack effectively: only half its attacks (round up) can hit, and the others automatically miss. That is, instead of inflicting damage once per member of the group, it only inflicts damage half that many times (round up).
 - If a group that is Disordered fails a Morale check (but not a Discipline check), it becomes Routed.
 
-### **ROUTED GROUPS**
+### ROUTED GROUPS
 
 A routed group has lost its will to fight and attempts to Disengage from all opponents and flee to safety. Once Disengaged from the enemy, it's not uncommon for the members of a routed group to scatter.
 
 A group can become Routed if it is already Disordered and then fails a Morale check.
 
-### **RALLYING A GROUP**
+### RALLYING A GROUP
 
 If a group becomes Disordered or Routed, the leader may attempt to
 
 
 rally it as an action. Rallying improves a routed group to being merely Disordered, or restores a Disordered group to normal status.
 
-#### **RALLY A GROUP: Presence + Leadership + stress Die**
+#### RALLY A GROUP: Presence + Leadership + stress Die
 
 The Ease Factor to rally a group depends on whether the group is Engaged in combat, and how many casualties it has taken. A casualty is a member of the group who has a Medium or worse wound, or is unconscious or unable to fight due to magical effects.
 
@@ -2015,7 +2015,7 @@ Example Ease Factors to rally a group are given below:
 
 **EASE FACTOR:** +3 to Ease Factor **EXAMPLE EVENT:** Group has sustained 50% casualties or more.
 
-### **GROUPS WITH NO LEADER**
+### GROUPS WITH NO LEADER
 
 Ordinarily, a group that loses its vanguard or leader splits into individuals (see **ArM5**, page 173). Under these optional rules, a group that loses its vanguard or leader can still fight, though it is likely to become Disordered.
 
@@ -2023,7 +2023,7 @@ A group with no vanguard can't
 
 attack, but uses the Defense score of its best member. The leader of a group can designate a new vanguard in the middle of battle. If successful, this takes effect immediately, and the group's future rolls are based on the new vanguard's statistics. The leader can automatically choose a new vanguard (no roll required) if the group spends a round without attacking or defending.
 
-#### **REPLACE A VANGUARD IN COMBAT: Leader's Presence + Leadership vs. Ease Factor 9**
+#### REPLACE A VANGUARD IN COMBAT: Leader's Presence + Leadership vs. Ease Factor 9
 
 A group with no leader automatically fails any future Morale or Discipline checks. A new leader can assume command automatically if the group spends a round without fighting (making no Attack or Defense rolls). Alternatively, a member of the group may assume command in combat; if successful, this takes effect immediately.
 
@@ -2043,7 +2043,7 @@ Wounds taken in combat can pose a major impediment to continuing an expedition. 
 
 A character with a –1 or –2 Wound Penalty can perform sentry duty, but cannot usually partake in most off-duty activities such as pitching camp. He cannot take double duties on watch without having to make a woundworsening roll. A character with a more severe Wound Penalty cannot even perform sentry duty without putting pressure on his ailing body.
 
-### **FIRST AID**
+### FIRST AID
 
 First aid can prevent a wound from worsening for a short period of time, allowing the patient to get to a place of safety for the proper healing of his wounds. When tending a patient's wounds, a chirurgeon can make a First Aid roll against the Improvement Ease Factor of his patient's most serious wound on the Wound Recovery Table (**ArM5**, page 179). If this is success-
 
@@ -2052,7 +2052,7 @@ ful, the patient is treated as one category higher with respect to Activity Whil
 
 > **FIRST AID ROLL: Dexterity + Chirurgy + Recovery Modifiers (see Art & Academe, page 54) + Magical Aid + stress die vs Improvement Ease Factor**
 
-### **MAGICAL FIRST AID**
+### MAGICAL FIRST AID
 
 The 10th level Creo Corpus spell *Bind Wound* (**ArM5**, page 129) prevents any wound from worsening while in effect, and can be a life saver in many situations. Even low-level Creo Corpus spells can grant a modest, longterm bonus to Wound Recovery rolls, which includes those to avoid wounds worsening. Covenants commonly create an enchantment with one of these spells as a constant effect, at least to get the vanguard back on his feet. *Endurance of the Berserkers* (ReCo 15) negates all Wound and Fatigue penalties for a short time, but the average human can only be affected by this spell twice before it ceases to have an effect (**ArM5**, page 134).
 
@@ -2078,7 +2078,7 @@ ally sufficient time for the body to be buried in consecrated ground.
 
 Grogs usually show a strong desire to carry their fallen comrade home. Tradition dictates that a body is buried in the same parish as his birth, but some covenants maintain their own graveyard for more far-flung members of their community. The inability to recover a body, or to return it home, is a painful thing, and grogs leave behind a fallen comrade with great reluctance. A magus suggesting that a body be abandoned is likely to provoke feelings of rebellion, and can result in the loss of Prevailing Loyalty (see *Covenants*, page 40). If the body must be left behind, it is important that it is buried whole, not burnt or dismembered, and the grave must be marked. The grogs may express a desire to return for the body at a later date, to ensure that it receives the correct burial rites. Curiously, the same reverence is usually shown for the dead even if an individual was disliked in life.
 
-### **REMEMBRANCE**
+### REMEMBRANCE
 
 Grogs often institute some communal ritual to revere their deceased comrades. The *liber gregis* suggests that this is permitted, even encouraged by the magi. A roll of the fallen, displayed in a prominent place and ceremonially inscribed with the names of deceased grogs, is a good way to achieve this. Even if the grogs cannot actually read the honor roll, they know which names correspond to their particular friends, and know that they will not be themselves forgotten when death comes for them. The *liber*  *gregis* also suggests that, once a year, on All Souls' Day (November 1), the magi lead a ceremony remembering the fallen, and pleads that covenants find the money to add the grog's name to the obituary of a local monastery, so that prayers will be said to speed his time in purgatory.
 
@@ -2115,15 +2115,15 @@ pen — most characters will not go out of their way to make their life worse, b
 
 An important distinction to make is that changing circumstances need not actually generate Flaws, even if there is a Flaw that describes the situation the character is now in. Only if the change in circumstance has an effect on the game, becomes a story seed, or alters how the character is roleplayed should this actually be treated as a Flaw. For example, a character who loses a hand to gangrene always gains the Missing Hand Flaw, because having only one hand always has a mechanical effect on the game. However, a character who gets married does not always gain the Dependents Flaw. Only if the player is interested in having adventures based on his character's wife and children should he acquire the Flaw. The storyguide should be careful not to allow a grog character to gain a Story Flaw, unless it is temporary in nature or the character is destined for transformation into a more central role in the saga (see Transformation, later).
 
-#### **GAINING FLAWS THROUGH MISHAPS**
+#### GAINING FLAWS THROUGH MISHAPS
 
 The easiest way to gain a Flaw is through misfortune. Most often, General Flaws are gained through mishap, particularly those that affect the body. Occasionally, chirurgeons have to amputate limbs to save a patient's life (*Art & Academe*, page 62), and in the heat of battle, horrific injuries occur with startling regularity (*Art & Academe*, pages 43–44; *Lords of Men*, page 125). Furthermore, many of the diseases that abound in Mythic Europe can result in permanent injuries such as blindness, deafness, and palsy.
 
-#### **GAINING FLAWS THROUGH ACTIONS**
+#### GAINING FLAWS THROUGH ACTIONS
 
 Character actions can easily lead to changes in social status (see insert earlier), with characters becoming branded criminals or outlaws. With the approval of the storyguide, a character can gain Story Flaws by starting a feud, becoming indebted to a powerful individual, or acquiring an animal companion, although grogs are usually prohibited from gaining Story Flaws during the game, much as they are off limits during character creation. Offending a faerie is a good way of gaining a Malediction or disfigurement.
 
-### **GAINING FLAWS THROUGH MAGIC**
+### GAINING FLAWS THROUGH MAGIC
 
 There are some hedge wizard traditions that can impose Flaws on an individual in the form of curses: for example, the Malediction Power of infernalists (*Realms of Power: The Infernal*, page 109) or the Grant Power of faerie wizards (*Realms of Power: Faerie*, page 127). These are often used offensively against enemies, but are usually limited in duration.
 
@@ -2137,7 +2137,7 @@ If a Virtue is gained that affects the way in which a character gains experience
 
 
 
-#### **GAINING VIRTUES THROUGH MAGIC**
+#### GAINING VIRTUES THROUGH MAGIC
 
 There are an assortment of supernatural methods through which a character can gain new Virtues, although many of these methods grant the Virtue on a temporary basis, such as a gruagach's spells (*Hedge Magic Revised Edition*, page 65), an Object of Virtue (*Realms of Power: Magic*, page 124), or faerie wizardry (*Realms of Power: Faerie*, page 127).
 
@@ -2145,13 +2145,13 @@ However, there are some ways that a Virtue can be granted permanently, through t
 
 Finally, severe Warping can result in Virtue acquisition. Typically, the Virtues gained from Warping reflect the source of the supernatural power that caused it.
 
-#### **GAINING VIRTUES THROUGH INITIATION**
+#### GAINING VIRTUES THROUGH INITIATION
 
 Initiation is a mystical process through which a character acquires Virtues through the rituals of a mystery cult (see Chapter 2 of *The Mysteries Revised Edition* for more details) or traditions of hedge magic (*Hedge Magic Revised Edition*, page 12). The character must develop a score in the Organization Lore of the cult or tradition in question before even being considered for Initiation. The Initiation process itself is balanced internally, requiring the character to pay for her new virtue in ordeals, quests, sacrifices, and study. It is perhaps most common for grog characters to be Initiated into the Ceremony Ability (see any of the *Realm of Power* books for their specific variants) to enhance the supernatural powers of a companion or magusequivalent character.
 
 Initiation can occur "off-stage" for grogs, but it is unusual for non-magical individuals to partake in a mystery cult or secret society to the degree of achieving Initiation. Joining a hedge magic tradition is perhaps more likely, but also more difficult since they tend to be wary of those associated with the Order of Hermes.
 
-#### **GAINING VIRTUES THROUGH ACTIONS**
+#### GAINING VIRTUES THROUGH ACTIONS
 
 Sometimes a character's actions through the course of a story results in him acquiring the effects of a Virtue. Typically, Virtues gained in this way reflect social interaction with storyguide characters. For example, a character can gain the effects of the Social Contacts Virtue by recruiting an agent, or the Protection Virtue by making a friend with influence, assuming that these are not just passing associations. The troupe should be cautious about a grog gaining a Major Virtue, unless the character is destined for transformation into a more important role (see later).
 
@@ -2173,19 +2173,19 @@ Those events which result in the investiture of a character with temporal or spi
 
 *Exempli gratia: The storyguide has planned a long series of adventures that will shape the saga to come for many years, but what it really needs is for the covenant to have a tame nobleman. However, the saga has been going for a few years now, and the players already have companion characters. The storyguide has a quiet word with Elaine, the creator of Sir Edwin, who is a grog character despite his noble birth. With Elaine's agreement, she designs a story where Sir Edwin is able to restore his family fortunes by proving the malfeasance of a neighboring baron. Sir Edwin is awarded the deposed baron's fief, and becomes a Landed Noble and a companion character. The new Flaws and Virtues he acquires are all related to the lands and feuds he has inherited.*
 
-### **METAMORPHOSIS**
+### METAMORPHOSIS
 
 The process of metamorphosis is a magical change which overcomes a character and permanently changes him into something else. This power can conceivably come from any of the realms of power, but is probably controlled by non-human inhabitants of that realm rather than by human artifice. Metamorphosis often results in the acquisition of Supernatural Virtues and Flaws from the appropriate realm. Metamorphosis can easily just happen to a character, rather than be specifically sought out or quested for. However, the goal of some secret societies is to effect a metamorphosis of their leader into a supernatural being.
 
 *Exempli gratia: The Queen of Winter was an antagonist that the storyguide had intended to be an ongoing foe for the characters, but through the lucky guesses of the player characters, they managed to pierce the faerie's disguise and slay her in the first encounter. One of the covenant's grogs delivered the killing blow, and the storyguide decides that the Queen lays on him her death-curse. Over the next few months, the grog undergoes some odd transformations, each of which forms the focus of a story. By the shortest day of the year, Winter has a new faerie King under the control of the storyguide. After the story arc is complete, she decides that the covenant can reverse the transformation of the grog, but the experience leaves him permanently altered, and he is better off re-envisioned as a faerietouched companion character.*
 
-### **INITIATION**
+### INITIATION
 
 Initiation can simply add Virtues to a character, but initiation into a mystery cult can also be a means to transform a character. A grog can easily remain a grog character as a member of a cult — they can play a support role just as well inside a secret society as they can anywhere else — but seeking to join such a cult displays a level of dedication or selfimportance that is more suited to a companion character. The cult can provide a means to upgrade the character's importance in a saga. Of all the methods presented here, initiation is perhaps the most likely to produce a Mythic Companion, which is a magus-equivalent character. Some Mystery Cults have as their ultimate goal some form of magical alteration of a character; this is more of a metamorphosis transformation than an Initiation as such.
 
 *Exempli gratia: A morbid grog who has been a grave-robber under a necromancer for years seeks initiation into the Disciples of the Worm, a Hermetic mystery cult. The standard initiatory path is designed for magi, but the storyguide has determined that the cult also accepts mundanes. As part of his initiation, the grog becomes bound to the ghost of an Old One (whatever that is), and discovers that he has a host of new abilities, many of them supernatural.*
 
-### **PILGRIMAGE**
+### PILGRIMAGE
 
 Pilgrimage can be a life-changing event. Characters embark on a pilgrimage for all sorts of reasons — not all of them matters of piety — but those who return are usually changed in some manner. Going on pilgrimage can be a good pretext for a planned change in character, whether the journey (physical and spiritual) is played out in stories or occurs behind the scenes. For more information on pilgrimage, see *The Church,* pages 15–19.
 
@@ -2239,7 +2239,7 @@ The numbers in the nearby table indicate the number of Aging Points and the numb
 
 
 
-### **APPLYING CRISES**
+### APPLYING CRISES
 
 It is up to the storyguide as to whether the character suffers the crises listed on the table; in particular, she might be inclined to ignore crises for newly created characters, since Decrepitude can quickly cripple a character.
 
@@ -2247,7 +2247,7 @@ The Aging Points listed on the Aging Chart only apply if the character suffers n
 
 *Exempli gratia: If the storyguide requires Paul to account for crises, he experiences one for his decade of average aging. He therefore has a Decrepitude of 1, and 5 Aging Points, along with an additional 3 Aging Points (half of the 5, he would have gained without crises, rounded up), for a total of 8 Aging Points. Had he experienced harsh aging, then he would have suffered two crises, granting him*  *a Decrepitude 2 and 15 Aging Points, plus an additional 2 (one-third of 6), for a total of 17.* 
 
-#### **EFFECTS OF AGING ON CHARACTERISTICS**
+#### EFFECTS OF AGING ON CHARACTERISTICS
 
 All Aging Points must be applied to the Characteristics of the character in the usual fashion. The Aging Table (**ArM5**, page 170) is designed to affect certain Characteristics in favor of others. Just under half of all Aging Points gained (excluding those from crises) are applied to any Characteristic (that is, a roll of 10–12 on the Aging Table). Of the remaining Aging Points, approximately half are gained in Quickness or Stamina, 30 percent in Perception or Presence, 15 percent in Strength or Dexterity, and the remainder in Intelligence and Communication. Players should bear these distributions in mind when applying Aging Points to a character.
 
@@ -2255,35 +2255,35 @@ All Aging Points must be applied to the Characteristics of the character in the 
 
 The five childhood packages from **Ars Magica Fifth Edition** (page 31) are presented here in the same format as the training packages for ease of reference; along with two new ones — Covenant-bred and Feral Childhoods. These packages can only be taken for the first five years of life.
 
-### **ATHLETIC CHILDHOOD**
+### ATHLETIC CHILDHOOD
 
 **FIVE YEARS:** +15 Athletics, +15 Brawl, +75 Native Language, +15 Swim
 
-### **COVENANT-BRED CHILDHOOD**
+### COVENANT-BRED CHILDHOOD
 
 This childhood is only available to characters with the Covenant Upbringing Personality Flaw.
 
 **FIVE YEARS:** +5 Athletics, +15 Area Lore: Covenant, +5 Folk Ken, +15 Latin, +75 Native Language, +5 Organization Lore: Order of Hermes
 
-### **EXPLORING CHILDHOOD**
+### EXPLORING CHILDHOOD
 
 **FIVE YEARS:** +15 Area Lore, +5 Athletics, +5 Awareness, +75 Native Language, +5 Stealth, +15 Survival
 
-### **FERAL CHILDHOOD**
+### FERAL CHILDHOOD
 
 This childhood is only available to characters with the Feral Upbringing Flaw.
 
 **FIVE YEARS:** +5 Animal Handling, +15 Area Lore, +15 Athletics, +15 Awareness, +15 Brawl, +15 Hunt, +5 Stealth, +30 Survival, +5 Swim
 
-### **MISCHIEVOUS CHILDHOOD**
+### MISCHIEVOUS CHILDHOOD
 
 **FIVE YEARS**: +15 Brawl, +15 Guile, +75 Native Language, +15 Stealth
 
-### **SOCIAL CHILDHOOD**
+### SOCIAL CHILDHOOD
 
 **FIVE YEARS:** +15 Charm, +15 Folk Ken, +15 Guile, +75 Native Language
 
-### **TRAVELING CHILDHOOD**
+### TRAVELING CHILDHOOD
 
 **FIVE YEARS:** +5 Area Lore: Area A, +5 Area Lore: Area B, +15 Folk Ken, +5 Living Language, +75 Native Language, +15 Survival
 
@@ -2332,7 +2332,7 @@ Remember that a starting character cannot have more than 75 experience points (a
 
 To round the character off, you may need to add one or two more years of age, and distribute the resulting experience points to bring some Abilities up to the next score. If the character has any Supernatural Abilities, this method should be used to pay for those Abilities, but remember that the character starts with 5 free experience points in any Supernatural Ability.
 
-### **GROG BACKGROUNDS**
+### GROG BACKGROUNDS
 
 Soldiers — particularly soldiers of fortune like grogs — are rarely born into a military family. Even grogs born to the covenant might have trained in other skills before taking up the sword. When building a grog with training packages, you are encouraged to give them a few years in labor, craft, or professional trades to represent what they did before they became a warrior. It is also a way of generating a simple but interesting back story: if a character spent the first eight years of his post-childhood life as a Farmer, and then five years as a Woodsman before taking five years as a Soldier, what circumstances lead him to abandon his farm at the age of 13 and take up residence in the woods? Did he become a bandit? Perhaps he was a forester?
 
@@ -2340,7 +2340,7 @@ Soldiers — particularly soldiers of fortune like grogs — are rarely born int
 
 These packages represent trades or professions to which a character might belong. They provide the key skills of that trade.
 
-### **ADVOCATE (ACADEMIC OR NONE)**
+### ADVOCATE (ACADEMIC OR NONE)
 
 An advocate has studied law, either at a university or through private tutors or a cathedral school. If the character has the Jurist Virtue (*Art & Academe*, page 91), then he need not have a Virtue permitting Academic Abilities, since this Virtue permits taking the key Abilities as a layman. If he has attended university, then he should take at least five years of Student and have a Virtue which grants extra experience in Academic Abilities. Characters in England need Common Law rather than Civil and Canon Law.
 
@@ -2348,7 +2348,7 @@ An advocate has studied law, either at a university or through private tutors or
 
 **THREE YEARS:** +30 Civil and Canon Law, +5 Leadership, +5 Artes Liberales, +5 Latin
 
-### **ANIMAL TRAINER**
+### ANIMAL TRAINER
 
 The five-year package is suitable for a professional animal handler, such as a master of hounds or an ostler, and the Profession can vary accordingly. The three-year package is for those who have regular contact with animals but not as their principle job.
 
@@ -2356,13 +2356,13 @@ Five Years: +30 Animal Handling, +30 Profession: Animal Trainer, +15 Ride
 
 **THREE YEARS:** +30 Animal Handling, +15 Ride
 
-### **APOTHECARY**
+### APOTHECARY
 
 **FIVE YEARS:** +15 (Area) Lore, +20 Chirurgy, +40 Profession: Apothecary
 
 **THREE YEARS:** +5 (Area) Lore, +10 Chirurgy, +30 Profession: Apothecary
 
-### **ARCHER (MARTIAL)**
+### ARCHER (MARTIAL)
 
 **FIVE YEARS:** +20 Awareness, +40 Bows, +15 Concentration
 
@@ -2375,27 +2375,27 @@ Suitable for priests, friars, and nuns who have had some training within the chu
 
 **THREE YEARS:** +5 Artes Liberales, +20 Organization Lore: Church, +20 Civil & Canon Law
 
-### **CONMAN**
+### CONMAN
 
 **FIVE YEARS:** +15 Charm, +30 Guile, +30 Intrigue
 
 **THREE YEARS:** +15 Charm, +15 Guile, +15 Intrigue
 
-### **COURTIER**
+### COURTIER
 
 **FIVE YEARS:** +15 Charm, +30 Etiquette, +15 Folk Ken, +15 Intrigue **THREE YEARS:** +5 Charm, +30 Etiquette, +5 Folk Ken, +5 Intrigue
 
-### **CRAFTSMAN**
+### CRAFTSMAN
 
 An apprenticeship in a craft typically takes eight years, at the end of which time the character should have a primary Craft Ability of 3 (see *City & Guild*, page 42). It is assumed that each craftsman learns more than a single Craft Ability during a typical apprenticeship, and picks up several related trades. Journeymen should take a Trader package to account for the other Abilities he will need, and Masters will need the Trainer package.
 
-# **FIVE YEARS:** +10 Bargain, +25 Craft:
+# FIVE YEARS: +10 Bargain, +25 Craft:
 
 Type A, +15 Craft: Type B, +15 Organization Lore: Guild, +10 Folk Ken
 
 **THREE YEARS:** +10 Bargain, +15 Craft: Type A, +10 Craft: Type B, +5 Organization Lore: Guild, +5 Folk Ken
 
-### **CULTIST (ARCANE)**
+### CULTIST (ARCANE)
 
 A cultist has spent years worshiping an evil force in secret. If the character has the Ceremony Virtue, he can apply some of his experience points in Infernal Lore to that Ability instead. This package might also represent a pagan (in which case substitute Faerie Lore for Infernal Lore), or a devotee of a mystery cult (substitute Organization Lore: Cult and Magic Lore for Infernal Lore).
 
@@ -2403,19 +2403,19 @@ A cultist has spent years worshiping an evil force in secret. If the character h
 
 **THREE YEARS:** +15 Guile, +30 Infernal Lore
 
-### **CUNNING MAN (ARCANE)**
+### CUNNING MAN (ARCANE)
 
 Knows the local legends and the ways of the fae.
 
 **THREE YEARS:** +10 (Area) Lore, +5 Bargain, +30 Faerie Lore
 
-### **CUTTER**
+### CUTTER
 
 A cutter is trained in patching up the wounded and administering first aid; alternatively, he could be an empiricus, a traveling surgeon.
 
 **THREE YEARS:** +40 Chirurgy, +5 Folk Ken
 
-### **FAILED APPRENTICE**
+### FAILED APPRENTICE
 
 The character must have the Failed Apprentice Virtue to take this package, which permits her to take Arcane and Academic Abilities. She probably has several years of Student to account for her Academic Abilities. It is assumed that she has no Art scores; either she has not been Opened to the Arts, or else her ability to work Hermetic magic has been destroyed.
 
@@ -2423,23 +2423,23 @@ The character must have the Failed Apprentice Virtue to take this package, which
 
 **THREE YEARS:** +5 Concentration, +10 Latin, +20 Magic Theory, +5 Organization Lore: Order of Hermes, +5 Penetration
 
-### **FARMER**
+### FARMER
 
 **FIVE YEARS:** +15 Animal Handling, +15 Area Lore, +5 Folk Ken, +40 Profession: Farmer
 
 **THREE YEARS:** +10 Animal Handling, +5 Folk Ken, +30 Profession: Farmer
 
-### **FISHERMAN**
+### FISHERMAN
 
 **FIVE YEARS:** +15 Area Lore, +30 Profession: Fisherman, +15 Survival, +15 Swim
 
 **THREE YEARS:** +5 Area Lore, +20 Profession: Fisherman, +5 Survival, +15 Swim
 
-### **FOOTPAD**
+### FOOTPAD
 
 **FIVE YEARS:** +15 Athletics, +15 Guile, +15 Legerdemain, +30 Stealth **THREE YEARS:** +5 Athletics, +5 Guile, +15 Legerdemain, +20 Stealth
 
-### **HARLOT**
+### HARLOT
 
 Carouse is most appropriate for an alehouse strumpet or street-corner
 
@@ -2449,23 +2449,23 @@ working girl, whereas Etiquette is more suited to a courtesan or mistress. They 
 
 **FIVE YEARS:** +30 Charm, +30 Carouse or Etiquette, +15 Organization Lore **THREE YEARS:** +20 Charm, +20 Carouse or Etiquette, +5 Organization Lore
 
-### **HERBWIFE**
+### HERBWIFE
 
 **FIVE YEARS:** +10 (Area) Lore, +30 Chirurgy, +5 Folk Ken, +30 Profession: Apothecary
 
 **THREEYEARS:** +5 (Area) Lore, +30 Chirurgy, +10 Profession: Apothecary
 
-### **JAVELINER (MARTIAL)**
+### JAVELINER (MARTIAL)
 
 This package can also be used for troops trained in the sling.
 
 **FIVE YEARS:** +20 Athletics, +15 Awareness, +40 Thrown Weapon **THREE YEARS:** +10 Athletics, +5 Awareness, +30 Thrown Weapon
 
-### **LABORER**
+### LABORER
 
 **FIVE YEARS:** +20 Athletics, +15 Brawl, +40 Profession: Laborer **THREE YEARS:** +10 Athletics, +5 Brawl, +30 Profession: Laborer
 
-### **LAY BROTHER**
+### LAY BROTHER
 
 A lay brother works at a monastery, but has not taken Holy Orders. This package is also suitable for novices preparing for ordination. In the latter case, some years of Student are appropriate. The Profession Ability could be Scribe, Gardener, Brewer, or any other suitable trade.
 
@@ -2473,39 +2473,39 @@ A lay brother works at a monastery, but has not taken Holy Orders. This package 
 
 **THREE YEARS:** +30 Organization Lore: Church, +15 Profession (see earlier)
 
-### **MAGICIAN (ARCANE)**
+### MAGICIAN (ARCANE)
 
 Suitable for characters with Supernatural Abilities, although the scores in these Abilities are purchased with extra years, as detailed earlier. The wizard can also buy Enriched Objects of Virtue by sacrificing 5 experience points per object (see *Realms of Power: Magic*, page 124).
 
 **FIVE YEARS:** +15 Concentration, +30 Magic Lore, +30 Penetration **THREE YEARS:** +15 Concentration, +15 Magic Lore, +15 Penetration
 
-### **MINSTREL**
+### MINSTREL
 
 **FIVE YEARS:** +15 Carouse, +5 Charm, +5 Folk Ken, +50 Music **THREE YEARS:** +15 Carouse, +30 Music
 
-### **MYSTIC (ARCANE)**
+### MYSTIC (ARCANE)
 
 This hermit spends his days in contemplation of the Divine, but the same package could be used for a different Realm of Power.
 
 **FIVE YEARS:** +20 Concentration, +5 Organization Lore: Church, +30 Dominion Lore, +20 Survival **THREE YEARS:** +10 Concentration, +20 Dominion Lore, +15 Survival
 
-### **NATURAL PHILOSOPHER (ACADEMIC)**
+### NATURAL PHILOSOPHER (ACADEMIC)
 
 A natural philosopher seeks to uncover the wonders of the natural world through his studies. The focus of a natural philosopher could equally be Artes Liberales or Medicine. For rules on formulae, see *Art & Academe*, Chapter 5.
 
 **FIVE YEARS:** +40 Philosophiae, 7 formulae **THREE YEARS:** +30 Philosophiae, 3 formulae
 
-### **PIKEMAN (MARTIAL)**
+### PIKEMAN (MARTIAL)
 
 **FIVE YEARS:** +20 Athletics, +15 Awareness, +40 Great Weapon **THREE YEARS:** +10 Athletics, +5 Awareness, +30 Great Weapon
 
-### **PHYSICIAN (ACADEMIC)**
+### PHYSICIAN (ACADEMIC)
 
 A physician is assumed to have attended school or university to study Medicine, and so such a character should take at least five years of Student and have a Virtue that grants extra experience in Academic Abilities. Many physicians never learn Chirurgy; for those who do, take the Cutter package.
 
 **FIVE YEARS:** +15 Folk Ken, +40 Medicine, +20 Profession: Apothecary **THREE YEARS:** +5 Folk Ken, +30 Medicine, +10 Profession: Apothecary
 
-### **PUBLIC OFFICIAL**
+### PUBLIC OFFICIAL
 
 Suitable for reeves, mayors, and so forth, but also priests who take an active role in local politics, and members of a craft guild.
 
@@ -2519,37 +2519,37 @@ Suitable for reeves, mayors, and so forth, but also priests who take an active r
 
 **FIVE YEARS:** +15 Area Lore: Area A, +10 Area Lore: Area B, +30 Profession: Sailor, +5 Survival, +15 Swim **THREE YEARS:** +5 Area Lore, +20 Profession: Sailor, +5 Survival, +15 Swim
 
-### **SCOUT**
+### SCOUT
 
 **FIVE YEARS:** +15 Area Lore, +30 Awareness, +30 Stealth **THREE YEARS:** +15 Area Lore, +15 Awareness, +15 Stealth
 
-### **SCRIBE (ACADEMIC)**
+### SCRIBE (ACADEMIC)
 
 You may replace Latin with any Living or Dead Language that the scribe might be using.
 
 **FIVE YEARS:** +20 Artes Liberales, +15 Latin, +40 Profession: Scribe **THREE YEARS:** +10 Artes Liberales, +10 Latin, +25 Profession: Scribe
 
-### **SENTRY (MARTIAL)**
+### SENTRY (MARTIAL)
 
 **FIVE YEARS:** +30 Awareness, +15 Concentration, +30 Single Weapon **THREE YEARS:** +20 Awareness, +5 Concentration, +20 Single Weapon
 
-### **SERVANT**
+### SERVANT
 
 **FIVE YEARS:** +15 Folk Ken, +20 (Organization) Lore, +40 Profession: Servant
 
 **THREE YEARS:** +10 Folk Ken, +5 (Organization) Lore, +30 Profession: Servant
 
-### **SOLDIER (MARTIAL)**
+### SOLDIER (MARTIAL)
 
 **FIVE YEARS:** +15 Athletics, +20 Brawl, +40 Single Weapon
 
 **THREE YEARS:** +5 Athletics, +10 Brawl, +30 Single Weapon
 
-### **STORYTELLER**
+### STORYTELLER
 
 **FIVE YEARS:** +15 Guile, +5 Carouse, +5 Folk Ken, +50 Profession: Storyteller **THREE YEARS:** +15 Guile, +30 Profession: Storyteller
 
-### **STUDENT (ACADEMIC)**
+### STUDENT (ACADEMIC)
 
 This package assumes that the character has received academic teaching at a parish school, cathedral school, or monastic school, or from a private tutor. Characters who have attended a university receive additional experience points from their Social Status Virtues (see *Art & Academe*, pages 90–92). Characters attending a parish school can only take the threeyear package, since these schools only teach Artes Liberales and Latin.
 
@@ -2561,17 +2561,17 @@ This package assumes that the character has received academic teaching at a pari
 
 **THREE YEARS (PARISH SCHOOL):** +15 Artes Liberales, +30 Latin
 
-### **TEACHER (ACADEMIC)**
+### TEACHER (ACADEMIC)
 
 The Teacher package covers the academic life. The character receives experience points in whatever language he is speaking when he teaches, which is usually Latin.
 
 **FIVE YEARS:** +15 Artes Liberales, +5 Folk Ken, +15 Language, +40 Teaching
 
-### **TINKER**
+### TINKER
 
 **FIVE YEARS:** +15 Area Lore: Area A, +15 Area Lore: Area B, +15 Bargain, +15 Craft, +15 Survival **THREE YEARS:** +15 Area Lore, +15 Craft, +15 Survival
 
-### **THEOLOGIAN (ACADEMIC)**
+### THEOLOGIAN (ACADEMIC)
 
 Not necessarily a priest, a theologian is assumed to have attended school or university to study Theology, and so should take at least five years of
 
@@ -2584,17 +2584,17 @@ Student or have a Virtue which grants extra experience in Academic Abilities.
 
 **THREE YEARS:** +5 Civil & Canon Law, +5 Organization Lore: Church, +5 Latin, +30 Theology
 
-### **TRADER**
+### TRADER
 
 This package can be used for any individual who makes a living from a profession rather than a craft, by changing the Profession Ability to something more appropriate.
 
 **FIVE YEARS:** +30 Bargain, +15 Folk Ken, +30 Profession: Merchant **THREE YEARS:** +20 Bargain, +5 Folk Ken, +20 Profession: Merchant
 
-### **TUMBLER**
+### TUMBLER
 
 **FIVE YEARS:** +50 Athletics, +10 Carouse, +15 Legerdemain **THREE YEARS:** +30 Athletics, +5 Carouse, +10 Legerdemain
 
-### **WOODSMAN**
+### WOODSMAN
 
 **FIVE YEARS:** +15 Area Lore, +30 Hunt, +15 Stealth, +15 Survival
 
@@ -2603,27 +2603,27 @@ This package can be used for any individual who makes a living from a profession
 
 These packages represent suites of background skills acquired throughout a person's life rather than specifically learned for a trade. Characters usually take these packages only once or twice.
 
-### **ATHLETE**
+### ATHLETE
 
 **THREE YEARS:** +30 Athletics, +5 Brawl, +5 Ride, +5 Swim
 
-### **BRAWLER**
+### BRAWLER
 
 This package is also good for a character taught the basics of self-defense.
 
 **THREE YEARS:** +15 Athletics, +30 Brawl
 
-### **CHARMER**
+### CHARMER
 
 **THREE YEARS:** +30 Charm, +5 Folk Ken, +5 Guile, +5 Intrigue
 
-### **COVENFOLK**
+### COVENFOLK
 
 Characters who have not had exposure to Latin must redistribute the experience points in that language to the other Abilities of this package.
 
 **THREE YEARS:** +5 Area Lore, +20 Area Lore: Covenant, +15 Latin, +5 Organization Lore: Order of Hermes
 
-### **FORAGER**
+### FORAGER
 
 Someone used to relying on the land to supplement his diet would employ this package.
 
@@ -2679,29 +2679,29 @@ Further examples include:
 
 **THREE YEARS:** +15 Area Lore, +15 Hunt, +15 Survival
 
-### **LEADER**
+### LEADER
 
 This is suitable for anyone in a position of authority.
 
 **THREE YEARS:** +10 Folk Ken, +5 Charm, +30 Leadership
 
-### **LOCAL**
+### LOCAL
 
 A villager or townsman who has good local knowledge of the area and its institutions can claim this package.
 
 **THREE YEARS:** +15 Area Lore, +15 Folk Ken, +15 Organization Lore
 
-### **RIDER**
+### RIDER
 
 **THREE YEARS:** +15 Animal Handling, +30 Ride
 
-### **TRAINER**
+### TRAINER
 
 This package is suitable for drill sergeants, master craftsmen, and so forth.
 
 **THREE YEARS:** +5 Folk Ken, +5 Language, +5 Leadership, +30 Teaching
 
-### **WASTREL**
+### WASTREL
 
 Someone who has wasted years of his life in taverns gambling and drinking would acquire these skills.
 
@@ -2718,13 +2718,13 @@ This chapter contains a collection of new Virtues and Flaws that are especially 
 
 These new Virtues are available to any character, but may be particularly useful for grogs.
 
-### **ALMOGAVAR**
+### ALMOGAVAR
 
 *Free, Social Status*
 
 The character is a member of a band of mercenaries and raiders, living a life of adventure according to a code of honor and discipline. He shares a bond of solidarity with his fellows, and they can depend on each other's loyalty. He has Standard Armaments, and may take Martial Abilities. He may choose to be the Adalil at no additional cost, getting an increase in both authority and responsibility. He is supported by his unit, and may not take the Poor Flaw or Wealthy Virtue.
 
-### **ALMOGATEN**
+### ALMOGATEN
 
 *Minor, Social Status*
 
@@ -2734,25 +2734,25 @@ band of Almogavars, chosen by his fellows for his skill and experience. He comma
 
 Similar to the Mercenary Captain Virtue, you may choose Wealthy or Poor to represent the fortunes of the almogaten and his soldiers. If he is Poor, he leads only a half-dozen men and he has hit hard times lately. Some of his men only have Inexpensive Armaments, but his main concern is finding the next meal. If he is Wealthy, he leads a company of two dozen men, and can afford to upgrade their armaments. The band might own several horses, and perhaps some herd animals.
 
-### **CRAFT GUILD TRAINING**
+### CRAFT GUILD TRAINING
 
 *Minor, General*
 
 This character has received above-average training during his apprenticeship, from a craft master or professional guild. Like Warrior and Educated, this virtue gives a bonus of 50 experience points. These must be spent on any Craft or Profession Abilities, Bargain, or Organization Lore: Guild.
 
-### **DOMESTIC ANIMAL**
+### DOMESTIC ANIMAL
 
 *Minor, Social Status, animals only*
 
 The character is an animal who is the property of a covenant or character, and is supplied with food and shelter. He is expected to serve his master in return for this provender, as a mount, beast of burden, hunter, or so forth.
 
-### **FEROCITY**
+### FEROCITY
 
 *Minor, General, animals only*
 
 Like companion and magus characters, this character has Confidence points. However, these Confidence points may only be used in situations where its natural animal ferocity is triggered, such as when defending its den or fighting a natural enemy. Describe a situation which activates the Confidence for its species, and take 3 Confidence points and a Confidence Score of 1 to use when those circumstances are met.
 
-### **FORGETTABLE FACE**
+### FORGETTABLE FACE
 
 *Minor, General*
 
@@ -2760,13 +2760,13 @@ Never will this character be the one noticed or picked out of a crowd. Moments a
 
 
 
-### **HERMETIC EXPERIENCE**
+### HERMETIC EXPERIENCE
 
 *Minor, General*
 
 The character has experience with the magi of the Order of Hermes. Maybe he is currently employed by a covenant, once served in the retinue of a magus, or has had other dealings or disputes with them. In any case, you have an additional 50 experience points to spend on Order of Hermes Lore, Magic Lore, or Latin. You cannot spend other experience points on Magic Lore or Latin unless the character has another Virtue or Flaw permitting this. This Virtue may be taken by any grog or covenfolk, or those who have had an exceptionally close relationship with the Order of Hermes.
 
-### **JACK-OF-ALL-TRADES**
+### JACK-OF-ALL-TRADES
 
 *Minor, General*
 
@@ -2805,32 +2805,32 @@ he is normally able to take Abilities of that type. Characters without this Virt
 
 The character manages the kennels for a noble patron, and is responsible for the training, breeding, and health of the animals. He employs additional staff appropriate to the size of the kennels. He is a commoner, yet treated with considerable respect by the household. If he has the privilege of riding with the hunt, then he may well be a skilled bowman. He is expected to organize the houndsmen, that is the dog handlers, as well as instructing servants or locals to perform that role. The Master of Kennels may learn Martial Abilities, and has 50 additional experience points at character generation to spend on the Abilities Animal Handling, Etiquette, Hunt, Latin, an appropriate Profession Ability (such as Feuterer or Farrier), and Ride. (Paraphrased from *Lords of Men.*)
 
-### **MILD AGING**
+### MILD AGING
 
 *Minor, General*
 
 The character's aging rolls benefit from a +1 bonus to the Living Conditions Modifier, in addition to whatever his social standing normally offers him (**ArM5**, page 170). Furthermore, he receives a +3 bonus to rolls to survive an aging crisis. He may be dedicated to living a healthy life, or else have been blessed by some supernatural being.
 
-### **MINOR ENCHANTMENTS**
+### MINOR ENCHANTMENTS
 
 *Minor, Supernatural*
 
 The character has one or more items in his possession that have magical powers. These should be designed as Hermetic enchantments, and the total levels of powers in all the items, after adjustment for uses per day and so forth, must be 25 or less. The character may have this Virtue more than once: add the total levels together, but no single power can be greater than 30th level. If he loses the item or it is destroyed, then it is gone for good.
 
-### **MYTHIC FARRIER**
+### MYTHIC FARRIER
 
 *Minor, Supernatural*
 
 The character may use the Touched by (Realm) Virtue (*City & Guild*, page 71), to a limited extent. He may craft horseshoes with magical effects, using Hermetic guidelines for a single Hermetic Form, chosen at character creation. Animal is a popular choice. The powers of the horseshoes can only affect the horse itself, or its immediate environment. A Terram effect, for instance, to make the ground which the horse touches stable is permissible, but an Auram power to change the weather isn't. To calculate the Craft Total, add the controlling characteristic to the Craft: Farrier Ability. As this field of work requires wit as well as deftness of hand, either Intelligence or Dexterity may be used; this is a permanent choice which must be made at character creation. This ability is most likely aligned with the Magical or Faerie Realm, but an Infernal farrier is a possibility. You may take this Virtue twice, but no more. Taking the Virtue a second time adds either a second Form to use while enchanting, or allows the character to use it with another Ability, but not both. For variations on this Virtue, simply rename it Mythic (Professional), and replace Craft: Farrier with another Craft Ability. Retain the limit of a single Ability and a single Hermetic Form.
 
-### **PACK LEADER / NATURAL LEADER**
+### PACK LEADER / NATURAL LEADER
 
 *Minor, General*
 
 The character is a dominant individual with a demeanor that encourag-
 
 
-### **TURB TRAINED**
+### TURB TRAINED
 
 (Minor, Social Status)
 
@@ -2840,7 +2840,7 @@ This character has grown up at the covenant, been trained to fight in the turb, 
 
 Most of these Flaws are Minor Flaws suitable for grog characters.
 
-### **BOUND TO (ROLE) ROLE**
+### BOUND TO (ROLE) ROLE
 
 *Minor, Supernatural*
 
@@ -2858,7 +2858,7 @@ This Flaw may originate from any of the Supernatural Realms: a magical origin mi
 
 This Flaw may only be taken by grogs and is suitable for the *Warping to a Pattern* Minor Site Hook presented in *Covenants*, page 11.
 
-### **BROKEN VESSEL**
+### BROKEN VESSEL
 
 *Minor, Supernatural*
 
@@ -2900,7 +2900,7 @@ ence points from that Ability or an Art involved in the Power or Spell. If the r
 
 Characters may only take this Flaw if they have at least one Supernatural Ability or Art normally improved through experience points.
 
-### **CARELESS WITH (ABILITY)**
+### CARELESS WITH (ABILITY)
 
 *Minor, General*
 
@@ -2909,37 +2909,37 @@ The character is particularly reckless when it comes to a particular Ability, ch
 
 treated as a botch. She may need to roll extra botch dice depending on the circumstances, but she always suffer the effects of at least a single botch. This Flaw may be taken more than once; each time, it applies to a different Ability.
 
-### **COMPANION ANIMAL**
+### COMPANION ANIMAL
 
 *Minor, Social Status, animals only*
 
 The character is the Animal Companion of another character (either a player character or a storyguide character) and therefore has little control over his own life. He is largely dependent on his master for food and shelter, and has an additional Personality Trait of "Loyal to Master" which represents this bond. Among people who know his master, the character is treated better than he would be, perhaps as that person's pet or bodyguard. Others most likely treat him as a brute or a dumb beast.
 
-### **COMPULSIVE LYING**
+### COMPULSIVE LYING
 
 *Minor or Major, Personality*
 
 Telling the truth is really hard for this character. This does not apply in situations where the answer is evident and any lie would be transparent; he does not claim that the sky is green under normal conditions. However, when he cannot be immediately caught out, he finds it hard to avoid embellishing stories, or simply making them up. Perhaps he wants to make himself look good, perhaps he wants to downplay his own part in a conflict, or perhaps he just loves the power of confusing people. As a Minor Flaw, this is just a tendency, and the character can make himself tell the truth if it really matters. If taken as a Major Flaw, the character cannot resist embellishing a story, no matter what the circumstances. At best, he might manage to keep the alterations minor.
 
-### **CRAVING FOR TRAVEL**
+### CRAVING FOR TRAVEL
 
 *Minor, General*
 
 The character suffers from feelings of loneliness, boredom, and depression if he does not expose himself to new experiences. He can stave off the boredom for a while, but if he remain in one place for more than a season, he suffers a –1 penalty to all rolls and totals until he experiences a change in scene. This penalty rises to –3 after a year of boredom. This character is probably the first to volunteer for a mission beyond the covenant gates, and may even spend part of each year in a different location such as the nearby wood. This Flaw might seem to make the character unsuitable for life at a covenant, so you should decide what it is at the covenant that means he keeps coming back. Perhaps it is the love of his life, the camaraderie, or perhaps just the feeling that he fits in here.
 
-### **CURSE OF SLANDER**
+### CURSE OF SLANDER
 
 *Minor, General or Supernatural*
 
 Wherever he stays, unpleasant rumors and ill-favored stories about this character begin to spread within a short time. This can be due to bad luck, or it could be something supernatural, like a curse. The slander is centered on one specific section of mundane society — the nobility, the church, guilds, peasants — and it seriously hampers his working life. After staying one season in an area, he gains a bad Reputation at level 1, usually a Local Reputation. He gains one point toward raising the Reputation in each further season, or more if he is involved in disturbing or strange events. Truly remarkable deeds can halt the increase for one season, but they will be forgotten come next season. At a covenant, people are used to strange things and deviant behavior. The Reputation is gained and increases in intervals of years rather than seasons, giving the poor victim more time before he becomes completely shunned. If the character leaves an area, the Reputation stops increasing, and may even fall, at the troupe's discretion.
 
-### **CURSED GUILE**
+### CURSED GUILE
 
 *Minor, Supernatural*
 
 This is the Flaw for "the boy who cried wolf," and probably results from Infernal influence. The character has three extra botch dice when using Guile. More importantly, the character is rarely believed, even when he is being honest. He must make a Communication + Guile roll against an Ease Factor of 9 in order to be believed when he tells the truth at important moments. For example, if the character is returning from a scouting mission, and you fail his Guile roll when he reports back, the maga may assume that he has been deficient in his duties; perhaps she thinks that he never went scouting at all, but instead went to the nearest town to entertain himself. This character may prefer the company of animals to that of people, as they do not respond to subterfuge.
 
-### **A DEAL WITH THE DEVIL**
+### A DEAL WITH THE DEVIL
 
 *Major, Story*
 
@@ -2949,19 +2949,19 @@ The character has sold his soul to the devil and now find himself destined to in
 
 of the duplicitous nature of the infernal. Note that the character can, in fact, repent and get out of the deal by God's grace, but the repentance must be genuine, and the forces of Hell will try to stop it, thus generating stories that way.
 
-### **DEVOTED PARENT/CHILD**
+### DEVOTED PARENT/CHILD
 
 *Minor, General*
 
 The character is extremely attached to a parent or child. Where he goes, she goes also. Separation of more than a day will cause anxiety, and will give a –1 penalty to all rolls due to stress.
 
-### **THE FALLING EVIL**
+### THE FALLING EVIL
 
 *Major, General*
 
 The character occasionally suffers convulsions and blackouts. Convulsions occur randomly and infrequently; for any given event, the storyguide should secretly roll a stress die, and if the result is 9 or more then a convulsion will occur at some point during that event, as chosen by the storyguide. This spasm causes random movements and hallucinations, leaving the character temporarily Incapacitated. She collapses to the ground and twitches, and you can make a Stamina roll against an Ease Factor of 9 every round; success means that the convulsion ends, although the character is reduced to the Dazed Fatigue level following a fit. The Falling Evil is usually caused by possession by demons (*Art & Academe*, page 48), but that form of the illness is usually temporary in nature. The character does not seem to have a disease, and cannot naturally recover from this affliction. It may be that it stems from a different source. In Ancient Greece and Rome, it was called the "divine illness," as it was believed that the gods spoke to those who had such fits.
 
-### **FLASHBACKS**
+### FLASHBACKS
 
 *Minor, General*
 
@@ -2975,7 +2975,7 @@ ers, or other important people, and might have social repercussions. On a botch,
 
 For magi, this Flaw should not involve flashbacks to Twilight episodes, spell botches or laboratory disasters. Since most of these situations won't get worse by applying a penalty to the rest of the scene, it won't be enough of a Flaw. But magi can be affected by combat, house fires, or cave-ins just as much as other character types.
 
-### **FISH OUT OF WATER (TERRAIN)**
+### FISH OUT OF WATER (TERRAIN)
 
 *Minor, General*
 
@@ -2985,25 +2985,25 @@ Appropriate areas may be Cities & Towns, Villages, Rivers, The Sea, Mountains, W
 
 This Flaw may only be taken once, because taking it more than once makes it less serious, rather than more.
 
-### **FOREIGN UPBRINGING**
+### FOREIGN UPBRINGING
 
 *Minor, Personality*
 
 This Flaw is somewhat similar to Covenant Upbringing, but means that the character is a foreigner and comes from a remote or isolated corner of Mythic Europe. He appears and sound nothing like the locals, has odd customs, habits, and religion (although he need not be pagan), and is quite confused by local society. However, he is not an Outsider, and has been accepted — for the most part. His Native Language is one foreign to the saga, and he needs to learn another language in order to communicate with the rest of the turb. The maximum scores for locality-dependent Abilities like Language, Area Lore, or Organization Lore, as well as some social Abilities, are half (round up) that which his age normally allows.
 
-### **GULLIBLE**
+### GULLIBLE
 
 *Minor, Personality*
 
 There is one born every minute and it is this character! He is an easy victim of ruses, stories and teasing lies. People lying to him get a bonus to their Guile rolls of +1 to +3. Depending on how bright or sharp-witted he is, he might not fall for obvious lies, denials of things that are evident or common knowledge. However, he most likely falls for lies that are even remotely plausible, and if he has no idea whether or not something is true, he is almost certain to believe it. This could, for instance, be whether or not there are mischievous faeries under the bridge. If you really want the character to not fall for something, make an Intelligence + Folk Ken Stress roll against an Ease Factor equal to the Communication + Guile roll of the person telling the tall tale. Recommended modifiers to the Ease Factor are +0 for obvious lies (ones that someone without the Flaw would certainly not believe), +6 for outlandish tales and +9 for things which could be true, or lies told by someone in authority, or who has expert knowledge of the subject at hand.
 
-### **HALLUCINATIONS**
+### HALLUCINATIONS
 
 *Minor, General*
 
 The character is afflicted by vivid hallucinations which seem to be true visions, but rather than coming from a higher power, they are figments of her imagination and fantasy. She finds these visions particularly troublesome, and seeks meaning in them where there is none to be had. Coincidence might mean that some part of her hallucinations comes to pass, which only furthers her belief that there is meaning within them. If the character also has the Visions Flaw, then some of her visions are true, but most of them are meaningless jumbles of nonsense generated from within her mind.
 
-#### **IMAGINED FOLK TRADITION VULNERABILITY**
+#### IMAGINED FOLK TRADITION VULNERABILITY
 
 *Minor, Personality*
 
@@ -3013,31 +3013,31 @@ Although this flaw closely resembles a Delusion, Imagined Folk Tradition Vulnera
 
 this way. Without such knowledge, his behavior is based on what he *thinks* such wards might be.
 
-### **INDEPENDENT CRAFTSMAN**
+### INDEPENDENT CRAFTSMAN
 
 *Minor, General*
 
 This character has his own way of working and doesn't like other people getting in his way. This character always treats his Leadership and Craft or Profession Abilities as three levels lower when working with others on a given task. For Craftsmen, this means that whether he is working as an assistant or working with assistants his Craft Ability has a penalty of –3. This affects the number of assistants he can employ in the workshop and the benefit that he provides when working as an assistant.
 
-### **JINXED**
+### JINXED
 
 *Minor, General*
 
 The character is a magnet for any bad luck. He is not personally the cause of the bad luck, and so need not roll any extra botch dice or suffer any penalty to die rolls. However, whenever chance determines who will be affected by misfortune, the odds are biased against him to be the one affected. For example, if it has been determined that a rope used for climbing will break, it is more likely to do so when the jinxed character makes the climb. If determining when the bandits will attack the camp at night, it is more likely to happen right at the moment when the character is relieving himself. If the storyguide is rolling dice to determine the target of a random event, a jinxed character should be affected half of the time, and his comrades between them the other half. His bad luck does not tend to spill over onto others; in fact, other characters may prefer to keep him around to deflect any bad luck from themselves.
 
-### **LINGERING INJURY**
+### LINGERING INJURY
 
 *Minor, General*
 
 The character suffers from an old injury that won't heal properly, resulting in a –1 penalty to all rolls involving physical activity. If he botches a physical action, he aggravates the injury and the penalty becomes –3 (recovery from aggravation is as for a Light Wound). This condition worsens with age, so multiply whatever the penalty is by 1 + (Decrepitude Score).
 
-### **MAGICAL FASCINATION**
+### MAGICAL FASCINATION
 
 *Minor, Personality*
 
 This character is intensely interested in supernatural and magical phenomena, to the exclusion of all other motivations. It is as if his life is hollow and drab without these experiences. He will involve himself in any supernatural investigation, social encounter, or confrontation. He must try and find out as much as he can about it, and he is curious and has busy hands, definitely trying to take souvenirs. To represent the scraps of knowledge he has, he is allowed to have a score of 1 (but no more) in either Magic or Faerie Lore at character creation. But most of the time, he is filling in the blanks himself and making it up as he goes along, enthusiastically.
 
-### **MANIFEST SIN**
+### MANIFEST SIN
 
 *Minor, Supernatural*
 
@@ -3051,7 +3051,7 @@ While his spirit is tainted and the manifestation will always be with him, he ma
 
 This Flaw originates from either the Divine or the Infernal Realm, as a mark of punishment, penitence, or temptation.
 
-### **MASTER OF NONE**
+### MASTER OF NONE
 
 *Minor, General*
 
@@ -3060,7 +3060,7 @@ Either by choice or circumstance, this character never seems to be able to stick
 Experience points gained through other virtues, such as Secondary Insight, are unaffected and may be applied normally.
 
 
-### **NECESSARY (REALM) AURA FOR (ABILITY)**
+### NECESSARY (REALM) AURA FOR (ABILITY)
 
 *Minor, Supernatural*
 
@@ -3070,7 +3070,7 @@ When applied to Craft or Profession Abilities, this Flaw also reduces the charac
 
 Troupes should think carefully about how a character would be limited by taking Magic (which covers most covenants) or Dominion (which covers most other human settlements) aura. If the character would not be limited, the Flaw should not be allowed.
 
-### **NIGHT TERRORS**
+### NIGHT TERRORS
 
 *Minor, General*
 
@@ -3080,13 +3080,13 @@ Suffering from terrors means that the character wakes up often and in a panic du
 
 This Flaw normally makes seasonal Laboratory work impossible, and so is not suitable for magi.
 
-### **PACK MENTALITY**
+### PACK MENTALITY
 
 *Minor, Personality*
 
 The character is a follower, not a leader. He rarely takes the initiative, but is usually happy to follow the direction of a forthright and decisive person. If he finds a leader, he tends to stick with him.
 
-### **PAGAN**
+### PAGAN
 
 *Major, Story*
 
@@ -3097,37 +3097,37 @@ to have a pagan character; only if he refuses to deny his pagan nature does this
 
 Grogs may not take Major Story Flaws. This Virtue is repeated here to aid the design of companions. It is not compulsory for time-lost characters (see Chapter 7, Grog Templates), but suits many. A fuller description appears in *Houses of Hermes: True Lineages*, page 109.
 
-### **POOR LIVING CONDITIONS**
+### POOR LIVING CONDITIONS
 
 *Minor, General*
 
 Either because of this character's own poor living conditions, or those of people he is in frequent contact with, he is more susceptible to the rigors of daily life. The character has an additional –1 Living Conditions Modifier. This is cumulative with the character's base Living Conditions Modifier, as per **ArM5**, page 170.
 
-### **PRIMITIVE EQUIPMENT**
+### PRIMITIVE EQUIPMENT
 
 *Minor, General*
 
 The character is capable of using only the simplest tools and equipment. Perhaps her training was incomplete, or she has been affected by some sort of curse, or maybe she originates from a less technologically-capable society and refuses to adapt. She is restricted to Inexpensive weapons and armor only, regardless of what is made available to her. If forced by order or necessity to use other equipment, her Burden is one point higher when she uses anything other than Inexpensive weapons, and one point higher when she uses anything other than Inexpensive armor. She suffers a –1 penalty to Attack and Defense if using inappropriate weapons, and a –1 penalty to Initiative and Protection if using inappropriate armor. If the character works as a laborer or craftsman, she uses simple tools and primitive procedures. Unless working with simple tasks, the base Craft Value (see *City & Guild*, page 67) is raised by 1–3 at the storyguide's discretion, based on complexity. Further, her workshop may not be improved with regards to Innovation (*City & Guild*, page 65). Other Profession Abilities dependent on tools and equipment suffer a similar penalty for complex tasks. You should only take this Flaw if the character belongs to a profession that relies heavily on equipment, such as a smith, mason, or soldier.
 
-### **RAISED IN THE GUTTER**
+### RAISED IN THE GUTTER
 
 *Minor, General*
 
 This character was raised on the margins of society. She is able to use her social abilities normally with those of the lower and middle classes, but doesn't know how to act among her "betters." When using Charm or Guile, it is obvious that she's from the bad part of town, and this makes convincing people to do what she wants harder (–3 on rolls). She can use Etiquette normally if she's holding her social place (which means staying silent and doing exactly what she's told) but suffers a –3 penalty if she tries to go beyond this.
 
-### **(REALM) STIGMATIC**
+### (REALM) STIGMATIC
 
 *Minor, Supernatural*
 
 The character occasionally manifests physical phenomena in the presence of supernatural powers. Pick one of the four Realms of Power; whenever he enters an aura of strength 4 or more aligned to that realm, or is affected by a power greater than fourth magnitude (20th level) from that realm, he suffers from the stigmata. Every individual suffers from stigmata differently, but the most common variants are dark marks appearing on the skin, blood issuing from orifices, spontaneous eruption of wounds, minor twisting of the limbs, or the acquisition of minor animal features. Whenever they manifest, the character loses a Long-Term Fatigue level that he cannot recover while he remains under the influence of that Realm. When he recovers the Fatigue level, the stigmata fades. If he ever takes a Warping point from exposure to his sensitive Realm, his stigmata erupt so violently that he takes a Light Wound as well as Fatigue, and the stigmata remain until he recovers from this wound.
 
-### **RESTRICTED LEARNING**
+### RESTRICTED LEARNING
 
 *Minor, General*
 
 The character is incapable of learning new things without assistance. Pick five Abilities at character creation; you can only apply experience points to these Abilities. The character cannot learn any new Abilities on her own; she must receive experience points from Teaching or Training to develop a new Ability or to improve one that is not part of the initial five. Furthermore, she cannot use an Ability with no score, even if it can normally be used untrained. Any Supernatural Abilities from Virtues she possesses are added to the list of Abilities to which she can apply experience points. All mundane animals are required to take this Flaw.
 
-### **ROLLING STONE**
+### ROLLING STONE
 
 *Minor, General*
 
@@ -3141,7 +3141,7 @@ The character's family was cursed by faeries; his mother tripped over a hare whi
 
 Most savants will be like the tragic fool whose precocious skill with horses has gone forever unnoticed, but some may have more esoteric talents. If the favored Ability requires a Virtue, such as Academic or Martial Abilities, then he must have that Virtue as normal; a mathematical savant would need Educated to learn Artes Liberales. Magi may well desire the company of certain specialists: a Jerbiton maga would appreciate an artistic savant, for example. Similarly, a Failed Apprentice may have been left stricken with savantism when his Gift abandoned him, but he retained remarkable clarity on the Code of Hermes, becoming a valued clerk to a Quaesitor.
 
-### **SLEEP DISORDER**
+### SLEEP DISORDER
 
 *Minor, General*
 
@@ -3149,7 +3149,7 @@ More often than not, this character is unable to sleep soundly during the night.
 
 Regardless of whether he manages to stay awake, the following night you must make a stress roll (no botch) against an Ease Factor of 6 to see if the character sleeps well. Every night he has slept poorly, he loses a Long Term Fatigue Level. Continue this until he sleeps soundly for a whole night. Once he has lost 3 Long Term Fatigue Levels, he automatically sleeps through the night, due to sheer exhaustion. This Flaw is not compatible with the Night Terrors Flaw.
 
-### **STUCK IN HIS WAYS**
+### STUCK IN HIS WAYS
 
 *Minor, General*
 
@@ -3157,7 +3157,7 @@ Having come from a covenant, this character knows how things must be done to bes
 
 This Flaw can also be applied to organizations other than covenants, such as abbeys, universities, guilds, or churches.
 
-### **SUSCEPTIBLE TO WARPING**
+### SUSCEPTIBLE TO WARPING
 
 *Minor, Supernatural*
 
@@ -3168,7 +3168,7 @@ In any year in which the character gains a Warping Point from any Realm or any s
 
 These additional points do not contribute to Wizard's Twilight or to other events caused by the acquisition of Warping Points as they accrete slowly over the course of the year.
 
-### **UNCERTAIN FAITH**
+### UNCERTAIN FAITH
 
 *Minor, General*
 
@@ -3180,31 +3180,31 @@ Supernatural Abilities originating from the Divine, including Methods and Powers
 
 
 
-### **UNCONTROLLABLE STRENGTH**
+### UNCONTROLLABLE STRENGTH
 
 *Minor, General*
 
 This character doesn't know his own strength, and at times he has trouble controlling it. This Flaw may not be taken if the character's Strength is below 0. Whenever he handles delicate or fragile objects, whenever care must be taken to knock somebody out gently, and so on, he risks overdoing it, severely. The character must make a stress roll against an Ease Factor of 6 to avoid using too much power and causing damage of some kind. In addition to this, any Strength Stress Roll uses one extra botch die.
 
-### **UNINSPIRATIONAL**
+### UNINSPIRATIONAL
 
 *Minor, General*
 
 This character is bland, boring, and simple, with almost no chance of ever getting noticed or enticing anyone. His Presence and Communication may not be greater than 0. Any use of Abilities like Leadership, Charm, Intrigue, Etiquette or similar — as well as Personality Rolls — to stir or impress people suffers a –3 penalty.
 
-### **UNLUCKY**
+### UNLUCKY
 
 *Minor, General*
 
 The character is exceptionally unlucky, and is frequently dealt a bad hand by the forces of chance. He gets a –1 to –3 penalty (at storyguide's discretion) on rolls in situations based on luck rather than skill or talent, depending on how much luck is involved. It would be wise for him not to take part in games of chance.
 
-### **UNSPECIALIZED**
+### UNSPECIALIZED
 
 *Minor, General*
 
 The character does not have any specialties for any of her Abilities.
 
-### **VIATICARUS**
+### VIATICARUS
 
 *Minor, Supernatural*
 
@@ -3214,13 +3214,13 @@ He has difficulty crossing thresholds where unquiet spirits are not welcome; if 
 
 If the character's status is known in the community in which he lives, he should take the Outcast Social Status Flaw.
 
-### **WARPED BY MAGIC**
+### WARPED BY MAGIC
 
 *Minor, Supernatural*
 
 The character's adventures have exposed him to powerful magical forces that have left a mark on him. He has five Warping Points and a Warping Score of 1, including a Minor Flaw (which is not balanced by a Virtue) that somehow reflects the source of the Warping. His encounters allow you to spend experience points on Magic Lore during character creation. A magus may take this flaw to represent Warping gained before his apprenticeship. With the permission of the troupe, this Flaw may be modified to represent Warping from other Realms.
 
-### **WEAK PERSONALITY**
+### WEAK PERSONALITY
 
 *Minor, Personality*
 
@@ -3230,7 +3230,7 @@ This character doesn't feel strongly for or against anything and lacks the uniqu
 
 ally be seen in a positive light since he never disagrees strongly.
 
-### **WORTHLESS ABILITIES**
+### WORTHLESS ABILITIES
 
 *Minor, General* A time-lost character (see Chapter 7: Grog Templates) must have about 30 experience points that have been rendered valueless by her shift in time. For example, she may have Area Lore of 3 for a city that no longer exists, or her Etiquette score may have been rendered useless by changing social structures. Troupes may permit companions to purchase this Flaw multiple times.
 
@@ -3273,13 +3273,13 @@ These advisors may be seen as the start of a courtier tradition within the Order
 
 The following notes provide help on creating an Advisor character.
 
-### **AGE AND CHARACTERISTICS**
+### AGE AND CHARACTERISTICS
 
 The Custos Virtue grants access to Arcane Abilities (see later), which means that the Advisor must have lived at a covenant long enough to have demonstrated his ability and worth. He is educated and so must be old enough to have learned at least Latin and Artes Liberales. In later years his master or masters are likely to develop a Longevity Ritual for him, so he can reach a considerable age, with Ability scores to match.
 
 The Advisor is inclined to the mental Characteristics, not the physical ones. By assigning –1 to each of the four physical Characteristics, scores of +3, +2, +1, and +1 are available to assign to the mental Characteristics. Intelligence should be the highest Characteristic, and +2 could be applied to Perception for a more-watchful Advisor, or Communication for a messenger, herald, or ambassador.
 
-### **SUGGESTED VIRTUES AND FLAWS**
+### SUGGESTED VIRTUES AND FLAWS
 
 Virtues and Flaws for Advisors are: Custos; Educated, Puissant Order of Hermes Lore; Ability Block (Martial), Small Frame, Susceptible to Warping\*
 
@@ -3294,18 +3294,18 @@ The Advisor is not physically inclined. He has no aptitude for martial pursuits 
 
 While the Virtues are almost essential to the Advisor, the Flaws are much more open and you should choose those that fit your own Advisor. He may be Tainted with Evil, explaining why he needs the security of the covenant. Or his many years of academic work may have given him Weak Characteristics.
 
-### **SUGGESTED ABILITIES**
+### SUGGESTED ABILITIES
 
 Lacking in martial prowess, the Advisor relies upon his fastidious memory to show his value to his masters. The main abilities of note are the Art of Memory Ability (as presented in *The Mysteries Revised Edition*, page 25), used to recall details that his master may find useful at a later date, and Order of Hermes Lore. This latter Ability allows the Advisor to advise his master as to the names of magi he is about to meet, remind him of dealings with other covenants that he is about to encounter at Tribunal, and to steer him the right way in protocol. This is supplemented by a growing knowledge of the Code of Hermes, likely gained through the experience of keeping his master out of trouble.
 
 
-### **TRAINING PACKAGES**
+### TRAINING PACKAGES
 
 Appropriate training packages are: Charmer, Covenfolk, Courtier, Cunning Man, Failed Apprentice\*
 
 \* Experience points against Penetration can instead be invested in the various Realm Lore Abilities that the Advisor picks up over time.
 
-### **SAMPLE ABILITY SCORES**
+### SAMPLE ABILITY SCORES
 
 The following abilities represent a typical Advisor at three points in his career:
 
@@ -3319,15 +3319,15 @@ tics), Art of Memory 5 (scenes),
 
 The following story seeds use the Advisor as a hook into situations that the magi and their companions must resolve.
 
-### **POISONED**
+### POISONED
 
 The Tribunal meets and the Advisor lies dying, poisoned by a non-Hermetic potion seemingly resistant to the simple healing spells. Some of the magi race to find a cure for the poison while keeping the Advisor's condition secret from their enemies. The others must conduct Tribunal business and discover the would-be assassin, all without the one man they have come to rely on.
 
-### **AN UNEXPECTED ADVISOR**
+### AN UNEXPECTED ADVISOR
 
 Nobody is entirely sure how long he has been at the covenant, who his parents were, or how he came to know so much, but the reserved and confident young man was right. Investigating the young man's reasoning and examining his information proves it: that trouble with the Church *was* stirred up by a Tytalus known to the covenant. How had this young man spotted what is now so obvious when all the magi of the covenant failed? What are they going to do with their unexpected benefactor? And what are they going to do about the Tytalus? Their new Advisor may have an idea …
 
-### **ESPIONAGE**
+### ESPIONAGE
 
 The Advisor has gone missing. He was not seen to leave, and both his chamber and office have been magically cleansed of any Arcane Connections to him.
 
@@ -3337,7 +3337,7 @@ Artes Liberales 3 (rhetoric), Awareness 2 (alertness), Charm 4 (first impression
 
 The Ability scores earlier take into account the extra experience points granted by the Educated Virtue.
 
-#### **PERSONALITY TRAITS & REPUTATION**
+#### PERSONALITY TRAITS & REPUTATION
 
 The ideal Advisor is Loyal above all else, and must be Dependable. His third trait is more open to choice: he could be Analytical, a Perfectionist, or be gifted with a Wry Humor.
 
@@ -3382,13 +3382,13 @@ accept payment in vis, which they use to barter for enchanted items and longevit
 
 These story seeds can bring Almogavars into the saga.
 
-### **ALTERING THE BARGAIN**
+### ALTERING THE BARGAIN
 
 Embarking on a dangerous expedition, the magi decide to hire some extra protection. They meet an Almogaten named Jabier, who has experience dealing with magi and knows the area well. However, he has ulterior motives and desires wizardly assistance against his enemies. Hiring or bribing a magus isn't an option. He shudders to imagine what price a wizard would charge, and most of all, he doesn't want the magi to know what he's up to. Instead, he plans to manipulate the magi into accomplishing his goals and convince them that it was their idea all along, and expects to be paid for his assistance. The original objective of the magi will need to be tailored for your troupe, but it is no coincidence that it will cause them to cross paths with Jabier's enemies. He spreads rumors to attract the attention of magi (these may be true or false), concerning something the magi desire or desperately need. Also, since they are being manipulated by someone who is uninformed as to the finer points of the Code of Hermes, there is the risk they may wind up violating their Oath by interfering with mundanes.
 
 In the end, Jabier might doublecross the magi, attempt a charming explanation, or convincingly lie and keep his secret. If Jabier and company continue in employment, the magi have gained an elite unit of professional soldiers that are brave and loyal. However, their first loyalty is to one another, and they continue to have their own secret intrigues and occasionally get the magi involved in their adventures.
 
-### **THE STRANGE SOLDIERS**
+### THE STRANGE SOLDIERS
 
 The covenant employs a company of Almogavars that is an odd band of outcasts and outsiders. One is a Berber who deserted the Almohade army; their big bruiser is Jewish; and their stoic leader is secretly a woman. One veteran soldier named Carlos is stranger than the rest, for he unknowingly possesses The Gift. His fellows have known him many years, and don't think he is any stranger than they are. They just think he is just socially awkward with new people, and are amused by his difficulty with animals. But they recognize his ability to sense danger and perceive hidden threats, a trait for which they praise him, and attribute to wisdom and experience.
 
@@ -3409,23 +3409,23 @@ of skill and discipline willing to work with magi. The culture and code of the A
 
 Almogavar characters must take the Social Status Virtue of Almogavar, and may select Virtues and Flaws as normal. Their regular outfit is as described, but players may equip their characters as they choose with Standard Armaments. The combination of sheepskin leather and the open-faced iron helmet grants a Protection of 1, with a Load of 1. They typically carry a short sword, and occasionally a small round shield. The azcona is used as a short spear on foot or while mounted, or is thrown as a javelin. Use combat scores for how the weapon is being used.
 
-### **SUGGESTED VIRTUES AND FLAWS**
+### SUGGESTED VIRTUES AND FLAWS
 
 Almogavars emphasizes courage, fortitude, and cleverness. Suggested Virtues include Enduring Constitution, Reserves of Strength, Tough, Warrior, an Affinity with Single Weapon or Thrown Weapon, and Puissant Single Weapon or Thrown Weapon.
 
 Several Personality Flaws can be used to reflect the life of an Almogavar. Dutybound could represent their code of honor and discipline, Proud a sense of individual dignity, or what others see as Reckless could be the bravery that comes from having stared death in the face. As mercenaries are often looked down upon, they might be Oversensitive to insults. Almogavars are also known for being Generous to the poor and Compassionate for the oppressed. General Flaws can represent injuries from past battles, such as Disfigured, Missing Ear, Missing Eye, Missing Hand, and Lingering Injury.
 
-### **SUGGESTED ABILITIES**
+### SUGGESTED ABILITIES
 
 For Martial Abilities, Almogavars focus on Single Weapon and Thrown Weapon. Hunting and Survival are important, and their basic socialization revolves around Carouse, Folk Ken, and Leadership.
 
 They also acquire the Ability of Profession: Soldier, as do other mercenaries and members of a paid military. As with other Profession Abilities, this is a catch-all for knowing for how to do one's job. For a soldier, this includes things such as packing gear, pacing a march, making camp, and performing the duties of their office.
 
-### **TRAINING PACKAGES**
+### TRAINING PACKAGES
 
 Suggested Childhood Training Packages include Athletic, Mischievous, and Traveling Childhood. For Career Training Packages, suggestions include Javeliner, Soldier, Woodsman, and the Non-Career Training Package of Forager. It is wise to round the character out with other useful Abilities as well.
 
-### **SAMPLE ABILITY SCORES**
+### SAMPLE ABILITY SCORES
 
 **YOUNG RECRUIT (AGE 18):** Area Lore 2 (ambush sites), Athletics 3 (hiking), Awareness 2 (ambushes), Brawl 4 (getting away), Carouse 1 (singing), Folk Ken 1 (warriors), Guile 1 (excuses), Hunt 1 (birds), Native Language 5 (cursing), Single Weapon 4 (azcona), Stealth 1 (camouflage), Survival 1 (semi-desert), Thrown Weapon 4 (azcona)
 
@@ -3482,21 +3482,21 @@ For instance, Animal Ken is a very popular Supernatural Virtue for an Animal Tra
 
 The following suggestions cover the most important points to bear in mind when creating an Animal Trainer.
 
-### **SUGGESTED ABILITIES**
+### SUGGESTED ABILITIES
 
 Obviously, every Animal Trainer character should have a good Animal Handling score. Animal Ken is the exception rather than the rule — however, since you will likely want to play an exceptional character, this is not unexpected in an Animal Trainer grog.
 
 Other useful Abilities include Ride, for a horseman; Leadership, for a master of kennels; Bargain, if the Animal Trainer is also involved in the buying and selling of beasts of burden; Survival, if he is spending his days up on the moors with his sheep; and Hunt, if he is a falconer. You should also select a Profession Ability related to his specific trade, such as Profession: Feuterer (master of hounds), and so forth. The obvious exception to this is if your Animal Trainer is entirely self-taught, such as the forest girl who talks with unicorns. Folk Ken should be considered for any grog dealing with other people, but many Animal Trainers lead quite a reclusive lifestyle. Craft Abilities can be useful in some situations: the farrier practices Craft Blacksmith (horseshoes), and the teamster probably has Craft Cartwright (repairing wheels).
 
-### **TRAINING PACKAGES**
+### TRAINING PACKAGES
 
 Appropriate training packages are: Animal Trainer (obviously!), Farmer, Magician (if she deals with magical animals), Rider, Woodsman.
 
-#### **SAMPLE ANIMAL TRAINER CHARACTERS**
+#### SAMPLE ANIMAL TRAINER CHARACTERS
 
 These various characters represent Animal Trainers at different ages, of different social strata, and who work with different animals.
 
-### **Madoc, Age 15 Young Shepherd**
+### Madoc, Age 15 Young Shepherd
 
 Madoc despairs of his lonely existence up in the hills, but has cried wolf once too often and has been shunned by his village as a liar and a thief; the covenant offers comfort, security, and above all, other people. If only the farrier would believe him when he says he never set the best horse in the stables to bolt.
 
@@ -3504,7 +3504,7 @@ Madoc despairs of his lonely existence up in the hills, but has cried wolf once 
 
 **ABILITIES:** Animal Handling 4+2 (sheep), Area Lore: Bangor 2 (animals), Area Lore: Gwynedd 2 (pastures), Athletics 2 (climbing), Awareness 2 (animals), Bargain 1 (food), Folk Ken 2 (employers), Guile 2 (excuses), Ride 1 (carefully), Stealth 2 (towns), Survival 3 (hills), Welsh 5 (wheedling)
 
-### **Alyse, Age 25 Adult Gryphon Trainer**
+### Alyse, Age 25 Adult Gryphon Trainer
 
 Raised by faeries, Alyse has lived and worked with gryphons since she was very young. She cannot understand why that ignorant wizard is so astonished by the creatures whenever he meets them.
 
@@ -3512,7 +3512,7 @@ Raised by faeries, Alyse has lived and worked with gryphons since she was very y
 
 **ABILITIES:** Animal Handling 5 (gryphons), Animal Ken 4 (gryphons), Area Lore: Black Forest 3 (gryphons), Athletics 2 (falling), Awareness 3 (above), Brawl 2 (grapple), Faerie Lore 3 (gryphons), Folk Ken 2 (magi), German 5 (animals), Magic Lore 4 (gryphons), Ride 4 (gryphons), Stealth 1 (forest), Survival 3 (forest), Swim 1 (strong currents)
 
-### **William, Age 35 Veteran Kennel Master**
+### William, Age 35 Veteran Kennel Master
 
 Why do these wretched custodes expect him to drill alongside them at sword and shield when they clearly dislike and distrust him so? William's bones are starting to stiffen, and he agrees with his old dogs about learning new tricks.
 
@@ -3536,15 +3536,15 @@ A character may be an Animal Trainer out of necessity rather than in a professio
 
 As well as being a potentially valuable member of a turb, an Animal Trainer can be the catalyst for many interesting stories, especially if magical animals are involved.
 
-### **THE EYES OF A HAWK**
+### THE EYES OF A HAWK
 
 A maga is departing the covenant and sees a haggard young man gazing intently at a bird of prey circling overhead, which in turn is gazing intently at her. What does each see in the other that holds their attention so firmly? Jack Faulkner served an important knight in the region — until one of his kites suddenly attacked the knight's daughter and blinded her. Accused of carelessness and assault, Jack was flogged and dismissed from the knight's service. Jack has wandered aimless and penniless since; he has recently strayed near the covenant. The kite he has spotted is a strikingly beautiful specimen of its species; it is a Hawk of Virtue, who recognizes the maga for her Gift. Did it have a reason to attack the girl? Could she be a changeling? Or could the bird have a secret, sinister purpose? Kites are well known as thieves and tricksters. In neither case could the proud knight admit Jack Faulkner back into his service, not after having punished him so publicly.
 
-### **THE HORSE WHISPERER**
+### THE HORSE WHISPERER
 
 Lydie is a young girl who talks to horses. She prefers their company to humans, because folk are rude and cruel to her — even her own family, who deem her wicked and corrupt. This drew the attention of a magus who then bought her from her parents (they were only too glad to be rid of the witching child) to train as his apprentice. She has studied with him for three years now, but still resists all attempts to be Opened to the Arts. In his arrogance, he refuses to believe that Lydie may not possess The Gift — all the signs are true. Except, of course, that animals do not shun her as they do him. Unfortunately, she has Animal Ken, but no touch of The Gift at all.
 
-### **A WOLF IN SHEEP'S CLOTHING**
+### A WOLF IN SHEEP'S CLOTHING
 
 The covenant keeps a flock of sheep, for meat and cheese; its sheep share the hills with other villagers' flocks, and this has served everyone well enough for years. But something is wrong. The other shepherds are losing sheep to some night predator, while the covenant's flock is left untouched – and everyone is blaming young Madoc. Of course, the boy is innocent, but nobody believes him. The true culprit is one of his rams: a magical animal that turns into a wolf at night, and goes hunting. He does not kill and eat the sheep of his own flock, because they are family.
 
@@ -3571,18 +3571,18 @@ Here are outlined suggestions, recommendations, and tips for creation of a Bodyg
 
 The following story seeds could involve a Bodyguard Maidservant.
 
-### **THE SWITCH**
+### THE SWITCH
 
 During an extended journey, the magi and retainers come across a merchant with a caravan of substantial size, followed by the unavoidable pilgrims and beggars. Deciding to combine safety in numbers with a little comfort, the magi accept the invitation of the merchant. During the night, a young girl sneaks into the midst of the characters. She claims she is the daughter of a nobleman being held captive, but that she managed to sneak out for a short time. If they don't wish to help her escape the merchant, she slips away, or is a very quiet captive. If helped, she reveals that she is really a servant who changed places with her mistress, so she could escape.
 
 But the mistress obviously failed to get safely away and obtain help, so now the servant is in trouble. As the mistress is the daughter of a robber baron, a rival to the caravan master, great rewards could be had. Meanwhile, the caravan master is going to pieces over losing his captive, because holding her as hostage was the only thing keeping local bandits from attacking, since they refer to the robber baron. Now the characters must keep the servant girl safe and unnoticed so she can help them find the baron's daughter, while at the same time being under attack by local bandits.
 
-### **THE UNKNOWN ASSASSIN**
+### THE UNKNOWN ASSASSIN
 
 A magus cannot for any reason call off a meeting he has with an important nobleman or clergyman, not even when he knows one of his rivals has hired a highly qualified assassin. Nervous to the point of paranoia, he and his female bodyguard – who is disguised as a scribe – attend the meetings. Meanwhile, specialists and discreet magi from his covenant try to get to the bottom of the case. Who wants the magus dead? Who is the assassin, and how will he make the hit? The entire time, the magus and the bodyguard sit at the edges of their chairs, eyes darting around to each and every face or corner in the room, as discreetly as it can be done.
 
 
-### **SUGGESTED VIRTUES AND FLAWS**
+### SUGGESTED VIRTUES AND FLAWS
 
 The following Virtues may apply to a Bodyguard Maidservant character: Keen Vision, Sharp Ears, Lightning Reflexes, Puissant Awareness, Puissant Guile, Forgettable Face\*
 
@@ -3592,21 +3592,21 @@ The Bodyguard Maidservant may suffer from some of these Flaws: Small Frame, Over
 
 \* See Chapter 6, New Virtues and Flaws
 
-### **SOCIAL STATUS**
+### SOCIAL STATUS
 
 Covenfolk is recommended, and although the single magus you work for might hold you in high regard, appointing you to Custos is detrimental to you staying incognito. The same goes for most other Social Status Virtues.
 
-### **SUGGESTED ABILITIES**
+### SUGGESTED ABILITIES
 
 Appropriate Abilities are: Awareness, Athletics, Guile, Legerdemain, Brawl, Profession (various)
 
-### **TRAINING PACKAGES**
+### TRAINING PACKAGES
 
 Training packages include: Social, Exploring, or Mischievous Childhood. Courtier, Conman, Harlot, Tumbler, or Servant. Charmer or Covenfolk, combined depending on the concept.
 
 
 
-### **SAMPLE ABILITY SCORES**
+### SAMPLE ABILITY SCORES
 
 **YOUNG BODYGUARD (AGE 15):** Athletics 3 (dodging), Awareness 4 (alertness), Brawl 3 (dagger), Folk Ken 2 (magi), Guile 3 (10) (identity change), Native Language 5 (being subservient), Profession: Maidservant 3 (tidying up)
 
@@ -3645,7 +3645,7 @@ The role in the turb is closely related to the Tough Guy. He doesn't have the po
 
 Use the following notes for creating a Bull character.
 
-### **SUGGESTED VIRTUES AND FLAWS**
+### SUGGESTED VIRTUES AND FLAWS
 
 The Bull has his problems, but he may enjoy some of these Virtues: Large, Tough, Rapid Convalescence, Reserves of Strength, Enduring Constitution, Warrior, Turb Trained\*
 
@@ -3653,21 +3653,21 @@ The following Flaws may prove applicable to a Bull character: Clumsy, Carefree, 
 
 \* See Chapter 6, New Virtues and Flaws
 
-### **SOCIAL STATUS**
+### SOCIAL STATUS
 
 Covenfolk or Turb Trained seem appropriate, although Wanderer or Branded Criminal could do. Outcast or Outlaw could be an answer to why he has joined the covenant. He is unlikely to be in a position of authority, so Custos, Mercenary Captain, Outlaw Leader, or Knight are inappropriate choices.
 
 Note that unless the Social Status chosen allows you to take Martial Abilities, you must take a Virtue for this (e.g., Warrior).
 
-### **SUGGESTED ABILITIES**
+### SUGGESTED ABILITIES
 
 Abilities include: Brawl, Single Weapon, Great Weapon, Athletics
 
-### **SUGGESTED TRAINING PACKAGES**
+### SUGGESTED TRAINING PACKAGES
 
 Training packages include: Athletic, Covenant-bred, or Exploring Childhood. Footpad, Laborer, Sentry, or Soldier. Brawler, Covenfolk, or Local.
 
-### **SAMPLE ABILITY SCORES**
+### SAMPLE ABILITY SCORES
 
 **YOUNG MAN (AGE 20):** Athletics 3 (climb), Brawl 4 (wrestling), Carouse 4 (merrymaking), Great Weapon 5 (poleaxe), Latin 4 (Hermetic), Native Language 5 (rhyming insults), Ride (trotting) 2
 
@@ -3677,7 +3677,7 @@ Training packages include: Athletic, Covenant-bred, or Exploring Childhood. Foot
 
 The Bull is particularly prone to blundering into stories.
 
-### **SUCH BAD LUCK ALMOST SEEMS UNNATURAL**
+### SUCH BAD LUCK ALMOST SEEMS UNNATURAL
 
 During a Tribunal, the Bull is unwittingly entrusted with a delicate and valuable object owned by a magus from another covenant. Naturally, it ends up damaged, which stirs up a lot of commotion. The offended magus not only demands restitution, but also severe punishment of the grog, and holds one of the magi responsible.
 
@@ -3685,11 +3685,11 @@ The speed with which this case starts to build does seem suspicious to the magi.
 
 Furthermore, the grog leader of the visiting magi demands satisfaction by combat, and his turb stoop to all-time lows concerning cheating and sabotage. Scuffles are bound to occur, but the duel ought to be stopped. Can the clever magi or their retinue solve the affair and stop it? The offended magus becomes angry and reckless once his plot starts to fall apart. He might resort to certamen right there, and in the end might also challenge the opposition to Wizard's War if he is humiliated or pushed sufficiently.
 
-### **THE NEW RECRUIT**
+### THE NEW RECRUIT
 
 A magus who recently joined the covenant brought along some of his own servants, among them the Bull. A few of the other magi along with their retinue currently have him out on a mission to a highly magical forest, which is part diplomatic outreach to the magical spirits of the place, and part vis hunt. At first, he seemed fine, a solid fighter, and quickly became popular among the turb, bringing laughter to the ranks. But just minutes into the delicate situation with the magical beings of the forest, temptation sets in everywhere he looks. He is bound to get too nosy at some point. The rest of the turb try to keep him from getting in trouble, but it becomes more difficult at every new encounter. Potential conflicts arise, which must be dealt with. Touchy-feely diplomacy seems to have gone out the window, however, and kicking the encounter up a notch is more to the liking of at least one of the magi. And power seems to be a language understood by the spirits. The next obstacles come once the Bull starts pilfering things to take home as souvenirs …
 
-### **WHIPPING INTO SHAPE**
+### WHIPPING INTO SHAPE
 
 A young man who until recently worked as a laborer at the covenant has been promoted to fighting grog. He has been in training for a short time, and shows great potential, or at least great strength and toughness. The grog leaders decide to bring him along on a mission to whip him into shape, since a routine matter of checking up on some loose threads from a previous event in a nearby village needs seeing to. But the grog not only lacks the discipline of most other grogs, he also has a knack of getting into, not trouble as such, but interesting situations. What could possibly go wrong here?
 
@@ -3736,7 +3736,7 @@ The Confessor is also well-placed to act on behalf of the magi in matters concer
 
 The following notes will help with the creation of a Confessor.
 
-### **AGE AND CHARACTERISTICS**
+### AGE AND CHARACTERISTICS
 
 The Confessor may be anyone from an inexperienced young priest, through a mature monk, to an elderly imam. But he tends to have high Intelligence, Communication, and Presence characteristics. There is an opportunity to build long relationships between a younger Confessor and the magi of the covenant, and see those relationships grow throughout the saga. The character can be used by the storyguide to confront characters with their actions, and help the players explore their consequences.
 
@@ -3750,11 +3750,11 @@ The first ten days of the Jewish month of Tishri are spent seeking reconciliatio
 
 Followers of Islam may serve their penance by fasting for a period, but the act of seeking forgiveness from God or protection from sin is called *Istighfar*. This is founded on the idea that God alone knows the deeds and thoughts of the supplicant. *Istighfar* is always partnered with *Tauba*, or repentance, and no prayer for forgiveness or protection can be heartfelt without true repentance.
 
-### **SECULAR CONFESSION**
+### SECULAR CONFESSION
 
 The Confessor, as presented here, is a religious figure who steers the character away from a path of sin. But as neither Islam nor Judaism provide for anyone to intercede between the individual and their God, the Confessor role is instead a secular confidante or trusted advisor. The nature of the relationship may mean that a religious figure is still appropriate, but with no implied doctrine present.
 
-### **SUGGESTED VIRTUES AND FLAWS**
+### SUGGESTED VIRTUES AND FLAWS
 
 The following lists of Virtues and Flaws are appropriate for various religious leaders who might be cast in the role of Confessor.
 
@@ -3768,7 +3768,7 @@ The following lists of Virtues and Flaws are appropriate for various religious l
 
 \*\* See *Realms of Power: The Divine Revised Edition*
 
-### **SUGGESTED ABILITIES**
+### SUGGESTED ABILITIES
 
 Aside from knowledge of Latin, the Artes Liberales, the Church, and Theology, the Confessor relies upon
 
@@ -3776,35 +3776,35 @@ Aside from knowledge of Latin, the Artes Liberales, the Church, and Theology, th
 
 The following story seeds start with the Confessor and his relationship to the magi and their covenant but provide challenges that the magi must face and resolve.
 
-### **STRANGE PENANCE**
+### STRANGE PENANCE
 
 An elderly Tytalus staying at the covenant suddenly falls into Twilight. Although he recovers, he has seen that his end is near, and calls for a confessor to hear his many and numerous sins. Uncertain what penance to give so old and so powerful a man, the inexperienced Confessor seeks the advice of the magi of the covenant, careful not to divulge the nature (or quantity) of the old man's sins.
 
-### **A SOURCE OF GOSSIP**
+### A SOURCE OF GOSSIP
 
 The new Confessor hears the confessions of the covenfolk, including the magi, in an antechamber off the main hall. But what's discussed soon turns to gossip. Who or what has been eavesdropping on these private moments, and what have they learned that the princeps doesn't want revealed?
 
-### **FALSE CONFESSION**
+### FALSE CONFESSION
 
 The covenant is involved in a conflict that leads to a death. Soon after, the Confessor receives a visit from the maga involved, looking for absolution. The Confessor hears her confession and instructs her to undertake a pilgrimage in penance for her sin. But it soon becomes apparent that the maga is making no preparations to leave. On challenging her, the maga denies any knowledge of the confession or the resulting penance. Has something affected her mind? Was it really her who sought confession? If not, what manner of creature could breach the Aegis? And perhaps more importantly, now that the Confessor has approached the maga, will she now confess her sin and see her soul cleansed of its taint?
 
-### **BROKEN CONFIDENCES**
+### BROKEN CONFIDENCES
 
 The Confessor, after a lifetime of hearing the sins, squabbles, and sorrows of his parish, is abducted by demons, or faeries in the role of demons, each one intent on taking a sin from the Confessor's memory and seeing it played out a thousandfold. As the beasts sweep across the land, they take the Confessor with them to feed their plague of evil. Villages and towns descend into anarchy under the influence of the demons inspired by the Confessor. As the magi follow their friend and confidante, they come face-to-face with their own sins, and must now explain their actions, once thought forgiven.
 
-### **THE MANUAL OF CONFESSION**
+### THE MANUAL OF CONFESSION
 
 A popular and influential magus, rumored to wield holy magic, comes to the covenant looking for material to help him with a tractatus he is writing. The book is a penitentiary, or a manual of confession, designed to help penitent and confessor alike to correctly identify their sins and the appropriate penance to be undertaken. While mundane manuals of confession derive penances for an individual based on the four humors, the seven sins, and the seven virtues, the magus is attempting to add the fifteen Hermetic Arts. Are the magi happy to have this magus poking around their sins, penances, and studies? What happens if his notes fall into the wrong hands? Come to that, as the magus visited a rival covenant the previous season, how can the magi get a look at his notes themselves?
 
 his Folk Ken for gaining an intuition of what troubles his flock, Leadership to maintain his position as a pillar of the community, and various Lores for his village, the covenant, and the local area to keep abreast of all the current events.
 
-### **TRAINING PACKAGES**
+### TRAINING PACKAGES
 
 The following training packages help to describe a typical Christian priest: Student (parish school), Churchman; Covenfolk, Local, Leader, Public Official.
 
 The Student training package is required to give the Confessor knowledge of Latin, key to his other Academic Abilities, but is generally not used more than once. The Covenfolk, Local, and Leader packages provide knowledge of and a connection to the Confessor's parish. The Churchman package is the core package and should be taken at least once out of every three packages taken for this character.
 
-### **SAMPLE ABILITY SCORES**
+### SAMPLE ABILITY SCORES
 
 The following Ability scores have been generated based on the suggested training packages earlier after taking a Mischievous Childhood package to describe the Confessor's ill-spent younger years. The Abilities are appropriate for a Christian priest in the role of Confessor, but Islamic or Jewish characters will have a different focus, in addition to the extra 50 experience points they receive from their Educated Virtues.
 
@@ -3814,7 +3814,7 @@ The following Ability scores have been generated based on the suggested training
 
 **ABILITIES AT AGE 55:** Area Lore: Village 4 (personalities), Artes Liberales 3 (rhetoric), Brawl 2 (Fist), Charm 5 (first impressions), Civil and Canon Law 4 (local laws), Folk Ken 5 (magi), Guile 3 (keeping confessional secrets), Latin 5 (church ceremonies), Leadership 5 (inspiration), Living Language 5 (local dialect), Order of Hermes Lore 3 (practices), Organization Lore: Church 6 (own diocese), Organization Lore: Covenant 4 (personalities), Stealth 3 (hide), Theology 6 (biblical knowledge)
 
-### **PERSONALITY TRAITS**
+### PERSONALITY TRAITS
 
 If the Confessor has taken the new Uncertain Faith Flaw, he has a Personality Trait of the same name with a score of at least 1. As for other traits, he is likely to be a Good Listener, which helps further define his role in the saga. A third trait says more about the Confessor as a person, who may be Compassionate, Duty-Bound, or Strict.
 
@@ -3856,7 +3856,7 @@ A Corpse-Thief may even be skilled in petty magical practices himself. He may ha
 
 It takes a special sort of person to be a Corpse-Thief. Even the most inveterate, hard-bitten criminal generally shows respect for the dead. Furthermore, the knowledge of forbidden things hints at a dark past. A Corpse-Thief could have been the child of a witch or warlock, but showed no talent for sorcery at an early age, and so was put to work in a useful trade to support his parent. Alternatively, the Corpse-Thief could have been an initiate of a diabolic cult, who practiced his trade at the bidding of his infernally tainted masters. The indoctrination that accompanies either of these backgrounds sets a twisted sense of morality that allows the character to do the horrible things that he does.
 
-### **THE VIATICARUS**
+### THE VIATICARUS
 
 Another path to such a questionable career is rooted in a superstition of the age: occasionally a person is given the Last Rites because he is near death, but then recovers. This is an exceptionally rare occurrence; indeed, the sacrament of Extreme Unction is supposed to guarantee death. Nevertheless, in Mythic Europe there are forces that can bring people back from the brink of death, not least of which is Hermetic magic. Far from being considered a second chance at life, such a circumstance is considered to generate a living corpse: neither truly alive nor properly dead. The *viaticarus* ("one prepared for the journey") is legally separated from society, and theologically separated from the Church. He is denied further sacraments; this is the point behind the Last Rites. He cannot attend church, get married, or enter Holy Orders.
 
@@ -3871,7 +3871,7 @@ It is perhaps no surprise if one of these "living corpses" takes on a morally re
 
 Players may use the following notes in the creation of corpse-thieves.
 
-### **SUGGESTED VIRTUES AND FLAWS**
+### SUGGESTED VIRTUES AND FLAWS
 
 A Corpse-Thief probably lurks on the fringes of society, so Social Status Virtues such as Wise One or Wanderer are appropriate, as is the Outcast Social Status Flaw. Essential to this character is an understanding of esoteric lore, and he needs a Virtue which grants the capacity to take Arcane Abilities at character creation, such as Arcane Lore. Magic Sensitivity proves very useful to a character such as this, and Social Contacts allows him to have a wide client base among the hedge witches of the region. He also benefits from Virtues that permit him to gain his raw ingredients more easily, such as Puissant Stealth and Light Touch. He may have the Minor Enchantments\* Virtue to represent some of the magic he has acquired from his clients.
 
@@ -3883,25 +3883,25 @@ The Tainted with Evil Flaw is highly appropriate, as is the Viaticarus Flaw\*. T
 
 The following suggestions give some ideas for stories involving Corpse-Thieves.
 
-### **THE CAT'S-PAW**
+### THE CAT'S-PAW
 
 A player maga involved in a feud with a non-Hermetic wizard becomes the target of the Corpse-Thief's attention when he is commissioned to make a poppet of the player character. Having studied his target for a while, he decides to infiltrate the covenant as a day laborer or new servant, but through diligence or sheer good luck, he is caught in the act of retrieving his arcane connection. The temptation to kill the Corpse-Thief immediately is likely to be great, but more could be learned if he is captured and questioned. With the right incentive, the Corpse-Thief will sell out his employer, and perhaps be able to supply a poppet of her that he made as insurance.
 
 This story works equally well with a magus opponent who has declared, or is about to declare, Wizard's War against a player magus.
 
-### **POACHER TURNED GAMEKEEPER**
+### POACHER TURNED GAMEKEEPER
 
 A Corpse-Thief who works for the covenant has a good professional knowledge of the local hedge wizards, and perhaps knows some of them personally. He may even be aware of their powers and weaknesses. When the magi hear of a particularly troublesome non-Hermetic wizard, they come to the Corpse-Thief for information. He can give them a list of names who it might be, and where they each can be found. The magi may be surprised — dismayed, even! — by how many minor magical practitioners live in the region right under their noses. Why are there so many, what are they up to, and how did they remain unnoticed for so long?
 
-### **SUGGESTED ABILITIES**
+### SUGGESTED ABILITIES
 
 A Corpse-Thief needs the same Abilities that a regular thief benefits from: Stealth, Awareness, Athletics, and Legerdemain. Knowing what to steal is covered by Magic Lore and Penetration; the latter is also useful for any magical abilities the character possesses. In the preparation of material for sale, the Profession: Apothecary and the Craft: Poppets Abilities are also highly useful. Area Lore and Organization Lore are important Abilities in developing a client base from which to earn a living.
 
-### **TRAINING PACKAGES**
+### TRAINING PACKAGES
 
 Training packages include: Footpad, Apothecary, Magician, Craftsman, Cultist, Local.
 
-### **SAMPLE ABILITY SCORES**
+### SAMPLE ABILITY SCORES
 
 This character must be able to take Arcane Abilities at character creation.
 
@@ -3936,7 +3936,7 @@ Craftsmen may be particularly important in covenants home to one or more Verditi
 
 The following notes will help with the creation of a Craftsman.
 
-### **AGE AND CHARACTERISTICS**
+### AGE AND CHARACTERISTICS
 
 More than other types of grog, there's a reason to advance the Craftsman from his young apprenticeship years through to being a master craftsman in his own right, with apprentices of his own. The growth of the Craftsman mirrors the growth of the magi and the covenant, and the handing of the workshop from the master to the younger journeyman marks the passage of time in the saga. An apprentice should start around age 15 and progress to journeyman by age 30. In another 15 years, he is likely to be a master craftsman at the top of his game, and will hang up his tools by the age of 60.
 
@@ -3944,7 +3944,7 @@ Characteristics should suit his craft, so Strength for a blacksmith, and Dexteri
 
 
 
-### **SUGGESTED VIRTUES AND FLAWS**
+### SUGGESTED VIRTUES AND FLAWS
 
 A covenant blacksmith is likely to have a different set of Virtues and Flaws at the beginning of his career to those at the end.
 
@@ -3958,19 +3958,19 @@ The life of a Craftsman can often be a grind, either confined to a workshop all 
 
 \* See Chapter 6, New Virtues and Flaws \*\* See *City & Guild*, page 53
 
-### **SUGGESTED ABILITIES**
+### SUGGESTED ABILITIES
 
 A Craftsman learns his trade from his years as an apprentice through to his position and rank as a master. Those in the outside world, especially those who live in towns and cities, may find themselves becoming more involved with the respective guilds for their profession or craft, but those who live and work in a covenant are less likely to develop in this way. They are more likely to be one of a handful of craftsmen looking after the needs of the covenant, their fortunes tied to those of their masters.
 
 One skill that a covenant-trained Craftsman may develop that others won't is Finesse. While an Arcane Ability, Finesse governs the use and control of enchanted items. These are specifically useful for Rego Craft Magic (*Covenants*, page 49).
 
-### **TRAINING PACKAGES**
+### TRAINING PACKAGES
 
 The following packages support a covenant-based Craftsman: Covenfolk, Craftsman, Local, Trader, Trainer
 
 It is also likely that the Craftsman will pick up some knowledge of supernatural creatures, such as faeries curious about his work. Experience points from the earlier packages can be used to improve (Realm) Lore Abilities.
 
-### **SAMPLE ABILITY SCORES**
+### SAMPLE ABILITY SCORES
 
 The sample Abilities listed later include Finesse. Any character can learn Finesse in the normal run of play if he is given the chance. Characters may gain Finesse at character creation if they have an appropriate Virtue granting access to the Ability, such as Custos.
 
@@ -3980,7 +3980,7 @@ The sample Abilities listed later include Finesse. Any character can learn Fines
 
 **ABILITIES AT AGE 45:** Awareness 3 (alertness), Bargain 4 (goods), Craft: Blacksmith 7 (fine work), Brawl 4 (Fist), Carouse 3 (stories), Charm 2 (first impressions), Chirurgy 3 (burns), Faerie Lore 2 (fire sprites), Finesse 3 (enchanted items), Guile 2 (tall stories), Latin 3 (hermetic usage), Leadership 4 (craftsmen), Living Language 5, Organization Lore: Covenant 4 (names), Single Weapon 4 (hammer), Stealth 2 (sneak), Survival 2 (camping out), Teaching (blacksmith) 3
 
-### **THE WORKSHOP**
+### THE WORKSHOP
 
 A Craftsman without a workshop cannot conduct his business. It is assumed that all Craftsmen have a basic workshop equipped with tools and supplied with materials sufficient to support his trade. What actually defines the workshop varies according to the craft. For instance, a blacksmith needs a forge to contain the intense heat he works with, a tinker needs a handcart on which to carry his simple tools and wares, while a thatcher has little more
 
@@ -4004,13 +4004,13 @@ As a rule of thumb, if you don't want to track grog Labor Points, you can assume
 
 Beyond adding to the Craftsman's Craft Ability for the purpose of producing quality goods, the workshop is something that can be handed on to the next generation and as such becomes a part of the covenant.
 
-### **ASSISTANTS**
+### ASSISTANTS
 
 A Craftsman may employ a number of assistants equal to his Leadership score, though he may always employ one apprentice regardless of his Leadership score. As well as helping in the workshop, these assistants may be the source of new grogs to replace the old over time, and may initiate stories of their own.
 
 Each assistant adds half his Craft Ability score to the Craftsman's Workshop Total. If using multiple assistants, their Craft Scores should first be totalled and then divided by two.
 
-#### **PERSONALITY TRAITS & REPUTATION**
+#### PERSONALITY TRAITS & REPUTATION
 
 A Craftsman supported by a covenant will doubtless be Hard-Working, but while some may be Kindly or Generous, others might be Strict or Miserly. The Craftsman should have one Personality Trait that determines his outlook on his work and another that shapes his relationship with his apprentices. A third trait can be se-
 
@@ -4028,42 +4028,42 @@ Craftsman companions are less likely to be tied to the covenant and may usually 
 
 The following story seeds have a Craftsman at their heart, but they present challenges that magi and companions may face.
 
-### **THE APPRENTICE**
+### THE APPRENTICE
 
 A Craftsman approaches the covenant with something to sell: an apprentice. He considers the boy to be useless to him, but a wise woman told him that there was a touch of the magical about him. He wants five pounds for the boy to cover his lost earnings and his trouble. The apprentice doesn't have The Gift, but it is quickly apparent to the magi that his talents are linked to the Magic Realm, and that the covenant is the only place in which he will reach his potential.
 
-#### **NEITHER APPRENTICE NOR MASTER**
+#### NEITHER APPRENTICE NOR MASTER
 
 A new blacksmith comes to the covenant looking for work. The examples he shows are of the highest quality and he works far faster than the covenant's current blacksmith. With the magi keen to craft everbetter items and expend less on the upkeep of their covenant, do they accept this new blacksmith? And if they do, how can the displaced grog prove that the newcomer's smithy skills aren't all they appear? (See *Realms of Power: The Infernal*, page 87 for specifics on the Corrupted Abilities Flaw.)
 
-### **THE WORKSHOP**
+### THE WORKSHOP
 
 On venturing out to collect vis from a prime site on behalf of the magi, the grogs find that a blacksmith has built a small forge directly over the source of their Ignem vis. The forge is somewhat makeshift and hasn't been there for long. The blacksmith refuses to move on, claiming that this magical place is the only thing that helps him feed his family, and he is willing to defend himself if things get rough. Do the grogs deal with the issue and claim the vis or do they go back to their masters? Can the magi identify the blacksmith's supernatural Flaw, and do they offer him a solution that suits everybody?
 
-### **A NEW GENERATION**
+### A NEW GENERATION
 
 An aging covenant Craftsman, ailments weighing him down with each passing year, regrets never having taken an apprentice. These feelings are mirrored by one of the covenant magi. While the Craftsman and a few friends venture outside the covenant to find a youngster with an aptitude for his craft, the magus sets out to find a Gifted child. After false hope given by faeries, does the Craftsman finally find his apprentice? And can the magus overcome Infernal deception to rescue the Gifted child? The stories of both the magus and the Craftsman are mirrored in their searches, but perhaps the resolution lies in the same place.
 
-### **A GIFTED APPRENTICE**
+### A GIFTED APPRENTICE
 
 The problem with covenants is that the strange often goes unnoticed. One of the magi searches the local area for signs of a Gifted child that he can take under his wing and train in the Hermetic Arts. He learns of a craftsman who suspects the abilities of his own apprentice, but this craftsman is worried that, should wizards hear tell of this, the youth will be taken away and subjected to unbearable hardship and unconscionable danger. The trail leads back to the covenant itself. Why has the craftsman really kept this from his masters? Does the magus take the Gifted apprentice? How do the craftsman and the other covenfolk react to this?
 
-### **THE KNOWLEDGEABLE THATCHER**
+### THE KNOWLEDGEABLE THATCHER
 
 A humble thatcher approaches the magi with the aim of discussing and learning magic. The man is not Gifted and is not even educated, but he has been touched by magic. The thatcher explains that, while he is a simple craftsman, he is able to weave magic into the straw he uses. But he has ambitions greater than mere corn-dollies; he wants to enchant the thatch that is his daily trade, something that so far eludes him. Can the magi undertake research to help the man expand his power, or are there other Learned Magicians better suited? And where can they be found?
 
 
-### **THE SUPERNATURAL CRAFTSMAN**
+### THE SUPERNATURAL CRAFTSMAN
 
 A companion Craftsman has access to the Touched by (Realm) Major Supernatural Virtue, which in turn allows him to craft Wondrous Items (as per the rules in *City & Guild*, page 70). These enchanted items are more limited in scope than Hermetic enchantments, but they allow the companion to develop his own career and reputation as a craftsman of note. And as the character is unGifted, he or she may be more easily accepted in society, opening up opportunities not available to magi.
 
-### **CRAFTSMAN AS ARTIST**
+### CRAFTSMAN AS ARTIST
 
 Chapter 8 of the *Art & Academe* supplement provides rules for artists in Mythic Europe. Production Artists use their Craft Abilities, such as Craft: Stone Mason, Craft: Glazier, and Craft: Silversmith to produce works of art that have a value far beyond that of a mundane example of a craftsman's work.
 
 This path opens up a whole new avenue for the Companion Craftsman, one which can take him into the richest and most volatile levels of society. It also opens up new rules for the creation of art and the acquisition of new benefits.
 
-### **SUGGESTED VIRTUES AND FLAWS**
+### SUGGESTED VIRTUES AND FLAWS
 
 Guild Craftsmen will want to look at the guild-related virtues and flaws in *City & Guild*, chapter 3. Those looking for a Supernatural Craftsmen should take the Touched by (Realm) Virtue presented in *City & Guild*, chapter 4. Production Artists are discussed in *Art & Academe*, chapter 8, and this includes new Virtues for the Maestro Mythic Companion character.
 
@@ -4099,17 +4099,17 @@ treated as the niece of a woman from the previous generation of adoptees, gainin
 
 The following notes will assist in the creation of characters who worked previously as prostitutes.
 
-### **SUGGESTED VIRTUES AND FLAWS**
+### SUGGESTED VIRTUES AND FLAWS
 
 Characters who have worked as prostitutes, and seek employment with covenants, usually come from the lower classes of Mythic European society. Women of higher social standing tend to act as mistresses to a single powerful lord, and are supported by his arrangements, or by their own families. Choose Social Status Virtues appropriately.
 
 Many of the other Virtues and Flaws appropriate for characters working in the sex trade — Gossip, Protection, Social Contacts are lost before play begins, when the character leaves her hometown. Players should only select Virtues and Flaws that the character will use in play.
 
-### **SUGGESTED ABILITIES**
+### SUGGESTED ABILITIES
 
 Most prostitutes are from the lower classes of urban areas, and have Abilities suiting this background. There are so many prostitutes, however, that characters from a wide variety of backgrounds, with a broad array of skills, are possible.
 
-### **TRAINING PACKAGES**
+### TRAINING PACKAGES
 
 If an Ex-Prostitute joins a nunnery, she may be a Lay Sister. If she has traveled to a different town, she might pick up any career: Laborer, Craftswoman, and Servant are the most common, but
 
@@ -4117,7 +4117,7 @@ If an Ex-Prostitute joins a nunnery, she may be a Lay Sister. If she has travele
 
 Ex-Prostitutes can stir up many kinds of stories.
 
-### **A TROUBLESOME FOUNDATION**
+### A TROUBLESOME FOUNDATION
 
 The magi learn from local farmers that a noblewoman has sent surveyors to a site near the covenant. Their companions investigate, and meet the architect. He has been commissioned to design a nunnery. Few covenants want religious establishments nearby, so they send a party to investigate the noblewoman, and see if she can be convinced to halt or move her foundation.
 
@@ -4125,13 +4125,13 @@ The noblewoman is elderly and wishes to retire from the world, leaving her lands
 
 The characters can alter her plans in several ways. The simplest is to offer her financial assistance in exchange for selecting a distant site. This would allow her to create a larger nunnery, and aid more fallen women. Player characters might, instead, recruit the noblewoman as an administrator, and her fallen women as covenfolk. If handled carefully, this could earn the covenant the gratitude of the nobleman, whose revenues would not be diminished by land grants, while still appearing as an act of charity, and so gaining the approval of the Church.
 
-### **THE WRATH OF THE LUSTY**
+### THE WRATH OF THE LUSTY
 
 Recidivism in ex-prostitutes has many causes, but one is that there are demons of lust who prefer they resume their role as snares for the souls of men. A covenant full of contrite women may attract the attention of many Tempters (see *Realms of Power: The Infernal*, page 42). Rules for designing succubus and incubi, a type of demon that often hides among sex workers, are found on page 55, with an example on page 52. They may also attract the attention of a more powerful sexual demon, who seeks to harm the covenant by acting as mistress to a local nobleman and seeding hatred against the magi.
 
 The magi may be able to protect their covenfolk, but the women have a second patron Penitent prostitutes are guarded by Saint Mary Magdalene. Mary uses many of the tricks of medieval saints, like sending visions and nightmares, but is also particularly interventionist, and may cause shackles to fail, wounds to close, and faithful people to be mystically transported to safety.
 
-### **A CONSTERNATION OF FAERIES**
+### A CONSTERNATION OF FAERIES
 
 Fairies are attracted to people who are moving from one life stage to another, and this includes penitents. The possibility of repeated recidivism, where women cross and recross the boundary of what is socially acceptable, is attractive to some types of faeries. A community of penitent prostitutes may draw in sexual faeries like satyrs, who, unable to cross the *Aegis*, trouble nearby villages. Centaurs, representing the division between the bestial and cerebral natures of men, may be attracted to the community to redefine their roles into fully anthropomorphic shapes.
 
@@ -4178,13 +4178,13 @@ A Failed Apprentice may find himself busy in copying and preparing texts, assist
 
 The following notes will help with the creation of a Failed Apprentice.
 
-### **AGE AND CHARACTERISTICS**
+### AGE AND CHARACTERISTICS
 
 Apprentices can be taken at any age, though magi work hard to find them in their youth, when they can be molded into the image of a magus. A Failed Apprentice joining the covenant upon losing his Gift will probably be younger than 25, while one who has traveled before finding his place will be older.
 
 The Failed Apprentice is normally intelligent, so as to take the mental rigors of a learned life, and hardy to withstand the toll of working magic, so Intelligence and Stamina should be his primary characteristics. Positive Perception or Dexterity will also benefit him, depending on what Supernatural Abilities remain.
 
-### **SUGGESTED VIRTUES AND FLAWS**
+### SUGGESTED VIRTUES AND FLAWS
 
 The Failed Apprentice has a number of Virtues and Flaws that reflect his magical past, and perhaps hint at a magical future.
 
@@ -4194,15 +4194,15 @@ Failed Apprentice; Latent Magical Ability, Magic Sensitivity; Broken Vessel\*, M
 
 The Failed Apprentice Social Status Virtue is apt and gives the character access to both Academic and Arcane abilities. Latent Magical Ability and Magic Sensitivity are the remnants of the apprentice's Gift. The Flaws also represent these remnants, with the Missing Eye a lasting physical reminder, Offensive to Animals echoing the effect his Gift once had, and Broken Vessel a continuing threat of his magical powers slipping away from him. Alternatively, a Personality Flaw representing his continued bad feelings about the events that stripped his Gift from him would be entirely appropriate in place of a physical defect.
 
-### **SUGGESTED ABILITIES**
+### SUGGESTED ABILITIES
 
 A Failed Apprentice would have been tutored in academic and arcane knowledge until his Gift deserted him. Beyond that, he can take and improve any Abilities that his background suggests.
 
-### **TRAINING PACKAGES**
+### TRAINING PACKAGES
 
 Training packages include: Covenfolk, Failed Apprentice, Magician, Natural Philosopher, Teacher
 
-### **SAMPLE ABILITY SCORES**
+### SAMPLE ABILITY SCORES
 
 The Ability scores later do not take account of the Broken Vessel Flaw, nor do they account for any time spent learning the Arts from former masters. The scores have been arrived at using the standard grog creation guidelines.
 
@@ -4214,23 +4214,23 @@ The Ability scores later do not take account of the Broken Vessel Flaw, nor do t
 
 The following story seeds originate with the Failed Apprentice and he certainly appears as a prominent character, but they are designed with magus and companion characters in mind.
 
-### **A GIFT RETURNED BROKEN**
+### A GIFT RETURNED BROKEN
 
 A magus Bonisagi has fostered his apprentice out to another magus, just as House Bonisagus tradition dictates. But the apprentice suddenly returns to the covenant with a letter from the fostering magus. It seems a magical experiment has robbed the boy of his Gift. What does the magus do now? Can he force compensation for the loss? How can he replace the apprentice? And what becomes of the young student with so much stolen from him?
 
-### **A NEW TRADITION**
+### A NEW TRADITION
 
 A wizard from a hedge magic tradition searching for an apprentice of his own hears tell of a student damaged by his association with the Order. He offers to take the boy and teach him in his own way. But there's one problem: the wizard is under threat from an antagonistic Flambeau, and if the boy goes with the wizard, his life is at risk too.
 
-### **A SECOND CHANCE**
+### A SECOND CHANCE
 
 A faerie fortune teller accosts the failed apprentice while at market and offers a chance to wield magic again. But three tasks are laid out, which the apprentice must complete. The first is to rescue the "pining heart of the unforgotten woman." The second is to "capture the tears of the resolute man." And the third is to "reunite the distant lovers, in marriage, before three moons are done." If these three tasks can be accomplished, then the apprentice will know magic again. The fortune teller offers little advice, except that the woman will be found in a castle, in Acre, far across the sea. And one last thing: the fortune teller gives the apprentice a golden ring, with the assurance that "by this ring will she know you."
 
-### **THE SEED**
+### THE SEED
 
 An ancient magus, known to have visions and premonitions, tells the covenant that a powerful Gift may soon be born to the covenant. Deciphering his visions, the magi discern that the bookish Failed Apprentice is to be the father, and the mother is to be the somewhat robust cook, widow to the former turb captain. Can the magi bring these two together? Is love even within the power of the magi? Or will they need expert faerie assistance?
 
-### **A MUNDANE MASTER**
+### A MUNDANE MASTER
 
 The old Failed Apprentice, finally tired of life at the covenant, leaves. Having taken minor orders and calling himself a clerk, he finds a position as an advisor on supernatural matters to a nearby noble. But then the old man sends word to his former covenant that the noble is a potential threat to them. How does the covenant investigate? And has the old man's disloyalty already been discovered?
 
@@ -4240,7 +4240,7 @@ nal Lore 3 (curses), Latin 3 (Hermetic usage), Living Language 5 (storytelling),
 
 At the age of 45, the Failed Apprentice has also researched five Formulae, as described in *Art & Academe*, and gained one Enriched object of virtue as described in *Realms of Power: Magic*.
 
-### **PERSONALITY TRAITS**
+### PERSONALITY TRAITS
 
 A Failed Apprentice may be Angry, Bitter, or Resentful over whatever took his Gift from him. The experience may have made him either Pessimistic or Resolute in the face of new challenges. But in either case, he may approach life with a new Worldly-Wise aspect.
 
@@ -4273,11 +4273,11 @@ Flaws might include: Curse of Slander\*, Imagined Folk Tradition Vulnerability\*
 
 \* See Chapter 6, New Virtues and Flaws
 
-### **SOCIAL STATUS**
+### SOCIAL STATUS
 
 Craftsman seems the logical choice, although Wanderer or Outcast is appropriate for a newcomer or a troubled individual, or Covenfolk for a long-term employee.
 
-### **SUGGESTED ABILITIES**
+### SUGGESTED ABILITIES
 
 Suggested abilities are: Animal Handling, Craft: Farrier, Craft: Blacksmith, Bargain.
 
@@ -4293,7 +4293,7 @@ Training packages include: Athletic or Social Childhood. Craftsman, Farmer, or p
 
 The Craftsman package should use Craft: Farrier for Craft Type A, and Animal Handling or Craft: Blacksmith for Craft B.
 
-### **SAMPLE ABILITY SCORES**
+### SAMPLE ABILITY SCORES
 
 These suggested Abilities can be used for any Farrier.
 
@@ -4307,15 +4307,15 @@ These suggested Abilities can be used for any Farrier.
 
 These story seeds feature a Farrier as a central character.
 
-### **TIPPING THE SCALES**
+### TIPPING THE SCALES
 
 The covenant's scouts report that an ongoing, armed conflict is not only escalating, but the enemy is getting the upper hand. The turb is losing the battle due to the swiftness and responsiveness of the enemy's cavalry. Rumor has it that an excellent farrier moved to the neighboring village just last year, but strange things are said about him. Whether or not he is evil incarnate, he is said to possess almost supernatural abilities. The magi want to enlist his help, voluntarily or not. But he is not so easily coerced, and further study reveals that he is in fact in the employment of the enemy. Thus, his recruitment becomes doubly important; not only can he improve the covenant's cavalry, his services will also be denied to the enemy. But beware, as he is easily spooked and may bolt and all but disappear. Retracing his past steps shows that he moves yearly, and always ends up with a poor reputation. Do the magi really want such a troublemaker in their midst?
 
-### **PLAYING THE PART**
+### PLAYING THE PART
 
 In the course of an adventure, a group of magi and their retinue come across a somewhat strange noble court, in the middle of the wilderness. The archetypical courtiers and retainers found there, as well as the flawless castle, quickly reveal out the fay. But it is too late, the characters are already caught up in a faerie story of court intrigue, romance and tragic dueling. Regrettably, the court is inhabited by dark faeries, who are sore losers indeed. Some of the lower-ranking fay even stoop to cheating, a thing immediately punished by the lord, but the setbacks to the player characters' situation remain. Eventually, one of the court servants turns out to be a faerie-touched human, serving as stable master. He has been held prisoner, but tolerated it, while learning from the faerie smith. But now he is fed up, and wants to leave. He offers to help the characters to steal the fastest faerie horses, and hamper the lord's hunting party. However, the ensuing hunt is tricky, since the dark forest is still to a certain degree controlled by the faerie lord.
 
-#### **A PAWN SAVED IS A PAWN OWNED**
+#### A PAWN SAVED IS A PAWN OWNED
 
 A maga is tasked with setting up a Mercer house at her covenant, in order to secure the best possible mounts for the Redcaps. The orders are clear, the task is rushed along, but the resources are lagging. The covenant lacks a great deal of the resources due to other pressing matters or vis shortages. However, the covenant has a Mythic Farrier in its service, and the maga sees great opportunities. Significantly, a lot of what she thought she needed magic and vis for can be done by this simple craftsman. Can he be convinced to do with his skills what might have needed Hermetic magic?
 
@@ -4342,11 +4342,11 @@ In Mythic Europe, only those from a moderately wealthy background have the optio
 
 A Jack-of-All-Trades character can end up embroiled in just about any kind of story.
 
-### **THE PERILS OF OVER-RELIANCE**
+### THE PERILS OF OVER-RELIANCE
 
 A covenant has a contested vis source whose method of collection changes every year; for example, a magical sphinx poses a different challenge every year. The Jackof-All-Trades can usually be relied upon to gather the vis, since he can meet most challenges. However, the grog fails to return from one of his regular trips from the covenant, and the covenant has a dilemma. If they go ahead with the yearly task, they have a higher probability of failure, and may well be too late to save their valuable grog from whatever peril he has found himself in. However, if they devote resources to his rescue, they might allow others to capitalize on their failure. And what predicament is the grog in anyway? Perhaps he has been imprisoned by the covenant's enemy in an attempt to weaken them or extract information. Or maybe it is simply an accident.
 
-#### **A PROBLEM SHARED IS A PROBLEM INHERITED**
+#### A PROBLEM SHARED IS A PROBLEM INHERITED
 
 The player characters first come across a jinxed grog as he struggles with a wagon that has broken an axle and is blocking the road. The quickest way to get by is to assist the flustered individual to reload his cargo and help repair his employer's wagon. However, the spilled load has angered a local faerie perhaps it was a consignment of iron horseshoes for the local town — and the faerie is incapable of distinguishing the responsible individual (the grog) from those who help him (the player characters). Throughout the course of their shared misfortune, the grog proves himself to be resourceful, and since he is probably going to be out of a job anyway (he's frightfully late with this cargo), he asks if there is perhaps a job for him with the player characters.
 
@@ -4360,22 +4360,22 @@ Despite mundane society having little use for a character who cannot manage to m
 
 What follows are notes to help create Jack-of-All-Trades characters.
 
-### **SUGGESTED VIRTUES AND FLAWS**
+### SUGGESTED VIRTUES AND FLAWS
 
 First, decide why the character has been unable to stay in one place; this could be due to any of the following Flaws: Craving for Travel\*, Jinxed\*, Lesser Malediction, Unlucky\*, Social Handicap, or Tainted with Evil. The character should have at least one, and possibly two Virtues, allowing him to take Academic, Arcane, or Martial Abilities, and is likely to have extra experience points from Virtues such as Privileged Upbringing or Well-Traveled. The character probably does not have Puissant (Ability), Affinity with (Ability), or any other Virtue that indicates a particular focus, but the Jack-of-All-Trades\* Virtue is highly appropriate. A character like this could be totally Carefree about his lack of focus and direction, or he could be depressed and Pessimistic instead. The Master of None\* and Careless with Ability\* Flaws represent a character who is mediocre at a lot of things, but highly unspecialized.
 
 \* See Chapter 6, New Virtues and Flaws.
 
-### **SUGGESTED ABILITIES**
+### SUGGESTED ABILITIES
 
 Just about any Ability suits this character concept, and he is likely possessed of a number of Abilities that are unusual ones for grogs to have, such as Etiquette or Artes Liberales. It is likely that he is a soldier at base, which would enhance his usefulness in a turb by being able to turn his hand to anything, in addition to being able to fight as part of the trained group.
 
 
-### **TRAINING PACKAGES**
+### TRAINING PACKAGES
 
 The character is likely to have taken several three-year packages, representing flitting from job to job in the course of his career. Just about any package is possible. He probably has spent the most time in professions providing Martial Abilities.
 
-### **SAMPLE ABILITY SCORES**
+### SAMPLE ABILITY SCORES
 
 This character must be able to take Martial Abilities at character creation.
 
@@ -4407,7 +4407,7 @@ Eventually, the Misguided Mystic can get into trouble when others discover her p
 
 These are suggestions for the creation of Misguided Mystic characters.
 
-### **SUGGESTED VIRTUES AND FLAWS**
+### SUGGESTED VIRTUES AND FLAWS
 
 This character is likely to have the Wise One Social Status, unless she has kept her "powers" a secret. The Misguided Mystic could have actual oracular powers in the form of Supernatural Virtues, of which the following are particularly appropriate: Dowsing, Magic Sensitivity, Premonitions, Second Sight, and Sense Holiness & Unholiness. When taking one of these Virtues, the player should decide to which Realm of Power the Ability is aligned and describe why. Aligning to the Divine Realm is perhaps the most useful, but this would require the character to be pious, at least. Aligning to a Realm of Power could result in the (Realm) Stigmatic\* Flaw. A character with more than one Supernatural Virtue need not align them all to the same realm.
 
@@ -4415,15 +4415,15 @@ Rather than any actual power, the grog might instead have a Latent Magic Ability
 
 A Misguided Mystic might be confused as to what her visions are telling her. She might have both Magic Sensitivity and Sense Holiness & Unholiness, but be unable to tell them apart, or have both the Visions and Hallucinations\* Flaws. Characters afflicted with the Falling Evil\* are commonly believed to be touched by a supernatural power when they have a fit, although this Flaw is not available to grog characters. A Misguided Mystic may have other Personality Flaws that hint at mental instability: Compulsion, Fear, Obsessed, or Weakness. All Virtues and Flaws marked with an asterisk are described in this book.
 
-### **SUGGESTED ABILITIES**
+### SUGGESTED ABILITIES
 
 This character can probably take Arcane Abilities at character creation, and usually has a decent score in a particular (Realm) Lore. Leadership is a useful Ability for expounding one's prophecies to the masses, as is Folk Ken. The character does not need Guile unless she is deliberately deceiving her audience. Apart from these Abilities, and any Supernatural Abilities she might have, the Misguided Mystic has Abilities appropriate to the career she followed before her visions started. It is wise to pick Abilities that make the character of sufficient use to the magi for her to be employed by them.
 
-### **TRAINING PACKAGES**
+### TRAINING PACKAGES
 
 Training packages for Misguided Mystics include: Local, Cunning Man, Conman, Mystic, Storyteller.
 
-### **SAMPLE ABILITY SCORES**
+### SAMPLE ABILITY SCORES
 
 This character must be able to take Arcane Abilities at character creation. No Supernatural Abilities have been included; increase her age to get sufficient experience points.
 
@@ -4443,11 +4443,11 @@ The Misguided Mystic can be made into a companion character by putting her in to
 
 A character who regularly misinterprets genuine signs of the supernatural is likely to complicate many stories, even when she doesn't cause them.
 
-### **LET IT BURN**
+### LET IT BURN
 
 The player characters are passing through a town one day, and they witness a woman being placed into the stocks. If they ask about her, they'll be told she has been spouting nonsense about the town burning down. If the characters need help in paying attention to this event, then she might shriek out a random piece of "prophecy" that strikes a particular chord with one of the magi. Sure enough, later that day the town starts to burn, and the characters might become involved in saving it. However, the fire was set by the woman's grown son, who has been secretly fulfilling her prophecies so that she does not seem to be a fool. He may have gone too far this time; the townsfolk who have lost their homes are clamoring for the woman to be tried as a witch. Should the characters step in to save her, then she will have no place in the town following her rescue, and her skills could prove useful at the covenant.
 
-### **CRY WOLF**
+### CRY WOLF
 
 After a while, the magi grow used to the misguided mystic's frequent and inaccurate predictions of doom. However, she suddenly acquires an infallible sense of the future, correctly predicting that the cook will spoil the dinner, that the chambermaid's cat will be found in the chimney of the great hall, and that the seamstress is having an affair with the doorward. The magi might be interested in her new-found prophetic ability; could it be the stars, or the influence of faeries or worse, demons — or something else? While they are investigating, she predicts that the covenant will burn, and an unspecified magus will perish in the blaze. Can this prediction be thwarted by discovering the source of the oracular knowledge?
 
@@ -4472,11 +4472,11 @@ The Murderer works hard to make himself useful in the covenant, taking on every 
 
 These notes will help in creating a Murderer character.
 
-### **AGE AND CHARACTERISTICS**
+### AGE AND CHARACTERISTICS
 
 A man may be driven to murder at any age, and *any* man may be driven to it. Because of this, there is no particular age or set of characteristics that define him. However, a man looking to extend his sanctuary will find a way to make himself useful around the covenant, probably taking on any menial tasks that present themselves. So he'll probably have a high Dexterity so that he's good with his hands, and at least a positive Strength and Stamina, representing his determination to work hard.
 
-### **SUGGESTED VIRTUES AND FLAWS**
+### SUGGESTED VIRTUES AND FLAWS
 
 While the Murderer has found a place for himself within the covenant, he is still damned for the crimes that drove him there, and a reputation has followed him. The Virtues and Flaws that follow are appropriate for a Murderer working as a jack-of-all-trades at the covenant: Covenfolk, Good Teacher, Puissant Brawl, Tough; Manifest Sin\*, Infamous, Master of None\*
 
@@ -4484,23 +4484,23 @@ While the Murderer has found a place for himself within the covenant, he is stil
 
 A Murderer character is sure to cause trouble wherever he goes.
 
-### **SANCTUARY**
+### SANCTUARY
 
 A local knight comes to the covenant looking for a man fleeing justice for a murder. The man has been spotted and the knight demands that he is handed over. The Murderer, who by this time has become a useful and popular member of the covenfolk, pleads for sanctuary. The magi and their deputies must balance external politics against the opinion of their own people.
 
-### **VENGEANCE**
+### VENGEANCE
 
 After all these long years, a sin thought forgotten is revisited upon the covenant. The victim's son comes looking for the man who did him such wrong. And he brings allies. The allies he rides with are rivals to the covenant, looking to use the situation to force a minor victory over the covenant. Do the magi turn the killer over to his accuser, or risk further political problems at the hands of their enemies?
 
-### **THE MIND OF A KILLER**
+### THE MIND OF A KILLER
 
 A magus has reached a plateau in his study of the Art of Mentem, or the knowledge of Philosophiae. To push his work onwards, he has decided he needs to examine a damaged mind, and he has heard of a murderer given sanctuary in a nearby covenant. Can the magus gain access to the murderer? And how does the season of study affect both the magus and his subject?
 
-### **PLAUSIBLE DENIABILITY**
+### PLAUSIBLE DENIABILITY
 
 A guild master in the nearby town seems to know too much about the magical crafting of the covenant's magus of House Verditius and is bringing unwanted attention to the covenant. As fortune would have it, there is a man living in the covenant who has the dark streak necessary for the job. The magus' venditor has planned the hit, and the Murderer must carry it out. But have the magi really ordered this, or is there something else influencing the venditor?
 
-### **REPENTANCE**
+### REPENTANCE
 
 The Murderer contracts a disease that rapidly delivers him at death's door. With so little time left to him, the unrepentant killer must now find a way to cleanse his soul. With all the power at their disposal, will the magi help him? If all the ministrations of the Church cannot save the man, can they attract the attention of a higher power?
 
@@ -4510,17 +4510,17 @@ The Murderer contracts a disease that rapidly delivers him at death's door. With
 
 This suggests a character with a dark crime in his past, not made for a martial life, but who nonetheless knows how to take care of himself.
 
-### **SUGGESTED ABILITIES**
+### SUGGESTED ABILITIES
 
 A killer on the run may come from any background, but a grog is most often of a lowly status. As such, he may have any Abilities his Virtues allow, but his reputation and confinement to the covenant may limit the Abilities he can advance. In later years, he makes a good teacher, passing on his numerous skills to a younger generation.
 
-### **TRAINING PACKAGES**
+### TRAINING PACKAGES
 
 The following packages are appropriate for hard-working covenfolk with particular trade: Brawler, Covenfolk, Craftsman, Laborer, Local, Servant, Tinker.
 
 However, the Murderer, with his Master-Of-None Flaw, must apply his experience points to a different Ability each season of the year. This means that the packages must be adjusted so that they each put experience into four different Abilities rather than the more usual three.
 
-### **SAMPLE ABILITY SCORES**
+### SAMPLE ABILITY SCORES
 
 The Abilities listed later are appropriate for a menial jack-of-all-trades trying to prove his value to the covenant any way he can.
 
@@ -4530,7 +4530,7 @@ The Abilities listed later are appropriate for a menial jack-of-all-trades tryin
 
 **ABILITIES AT AGE 60:** Animal Handling 3 (sheep), Athletics 2 (running), Awareness 2 (alertness), Bargain 3 (food), Brawl 5 (bludgeon), Carouse 4 (staying sober), Charm 2 (first impressions), Climb 2 (hills), Concentration 2, Craft: Cooperage 3 (oak barrels), Craft: Furniture Maker 3 (chairs), Craft: Masonry 4 (repairs), Craft: Woodworking 3 (treating wood), Fishing 3 (rivers), Folk Ken 4 (peasants), Guile 4 (concealing his past), Hunt 2 (rabbits), Intrigue 2 (people interested in him), Living Language 5, Organization Lore: Covenant 2 (jobs that need doing), Profession: Brewer 4 (saving materials), Profession: Farmer 4 (harvest), Profession: Laborer 4 (digging), Profession: Tinker 4 (tin), Stealth 2 (hiding), Survival 2 (on the road), Swim 2 (rivers), Teaching 4 (Carpentry)
 
-#### **PERSONALITY TRAITS & REPUTATIONS**
+#### PERSONALITY TRAITS & REPUTATIONS
 
 The Murderer may be conflicted, feeling Guilty and Unrepentant in equal measure, but a character fleeing his crime to the safety of a covenant is likely to have overcome his guilt and be more Self-Preserving. He may be Brave, but not the extent that he will face up to his crimes.
 
@@ -4557,19 +4557,19 @@ The new apprentice's parents benefit most covenants. New covenants gain at least
 
 Parents of a Gifted Child are generally involved in stories surrounding their child.
 
-### **HIDE AND SEEK**
+### HIDE AND SEEK
 
 Someone out in the populace is spreading the word about the evils of the Order of Hermes. The words "child sacrifice" and "murder" are used. He is building a following of torch-wielding peasants, and it is only a matter of time before he turns on the covenant. There is also a rumor that the peasants have captured a young mage. The magi and companions are too obvious to try a rescue. The magus' mundane parent and the other grogs must try their best.
 
-### **THE BAD MASTER**
+### THE BAD MASTER
 
 Characters hear the story of a pair of distraught parents. Their child had been stolen by what sounds like a fellow magus. Upon hearing the magus' name, however, the characters know that the magus is infamous for misusing his apprentices by teaching them little, and using them as virtual lab slaves. Rescue may be a relatively easy task, if there is a Bonisagus in the covenant. However, on hearing the intentions of the characters to keep the child after rescue, the parents insist on coming along to stay close to the child. Also, the characters have made a powerful enemy of the magus.
 
-### **THE PEDDLER'S GIFT**
+### THE PEDDLER'S GIFT
 
 Working as a purchase agent for the covenant, the peddler-grog can deal in all sorts of interesting trinkets, and would be particularly interested in magical goods. With his own money, the peddler buys a gift for his child from a mysterious man, thinking the Gifted child would be happy with such a gift from the once-impoverished father. However, the gift is in fact a device from an enemy, designed to annoy, scry, or even put the covenant in danger. Instead of attacking a magus as intended, the poor apprentice suffers the magical device's effects. If the peddler does not have a Gifted child, then normal business transactions could land the device in the covenant's hands, although full magi may be a little more wary.
 
-### **THE LOST PARENT**
+### THE LOST PARENT
 
 A character has just run his Gauntlet. While he undertook his challenge, his parent was sent with a group of grogs to a neighboring covenant, with a delivery of books to trade for vis. The grogs never returned, however. The magi of the covenant send the newly Gauntleted magi to investigate.
 
@@ -4592,7 +4592,7 @@ When a magus or a covenant falls, the loss is not only one to the Order but is m
 
 The following notes will assist in the creation of a Parent of a Gifted Child character.
 
-### **SUGGESTED ABILITIES**
+### SUGGESTED ABILITIES
 
 The parents of a child with The Gift can come from a wide variety of backgrounds. They are just as likely to be an annoyance to the covenant as a boon, but will most likely have skills and attributes that can be set up or packed up easily for a life of travel. As such, the Craft and Profession abilities have been left open for customization.
 
@@ -4626,11 +4626,11 @@ As a group of grogs now stripped of their covenant, any of the other archetypes 
 
 Many understand the routines and needs of magi, others may have supernatural Virtues or Flaws that make them useful to magical scholars, and some may have mundane connections within other covenants, and be able to bring information with them.
 
-### **AGE AND CHARACTERISTICS**
+### AGE AND CHARACTERISTICS
 
 Refugees can clearly be of any age and have a range of characteristics. The example used here is for a Librarian already well-practiced in his profession.
 
-### **SUGGESTED VIRTUES AND FLAWS**
+### SUGGESTED VIRTUES AND FLAWS
 
 Virtues and Flaws might include: Custos (granting Academic Abilities), Magic Items\*, Puissant Profession: Librarian; Stuck in his Ways\*, Ability Block (Martial), Covenant Upbringing
 
@@ -4638,7 +4638,7 @@ Virtues and Flaws might include: Custos (granting Academic Abilities), Magic Ite
 
 The example refugee whom we're following is a Librarian, a valued and trusted role, so the position of Custos is appropriate, as is Puissant Profession: Librarian. His service may also have awarded him an enchanted item, covered by the Magic Items Virtue. As for Flaws, coming to a new covenant may take some adjustment, so he has the new Stuck in his Ways Flaw. He is completed by a Martial Ability Block, due to years of doing little beyond his academia during his Covenant Upbringing.
 
-### **SUGGESTED ABILITIES**
+### SUGGESTED ABILITIES
 
 Grogs coming from another covenant are well trained and practiced in their given trades. The following abilities are typical of a specialist Librarian coming from a covenant background.
 
@@ -4647,13 +4647,13 @@ As his career progresses, he develops other skills related to the texts he manag
 Importantly, as he spends longer at his new covenant, he learns more about the people, ways, and traditions of his new home.
 
 
-### **TRAINING PACKAGES**
+### TRAINING PACKAGES
 
 Training packages include: Covenfolk, Craftsman\*, Leader, Trainer
 
 \* The experience points against the various Craft Abilities should be assigned to the Bookbinder, Librarian, and Scribe Professions.
 
-### **SAMPLE ABILITY SCORES**
+### SAMPLE ABILITY SCORES
 
 **ABILITIES AT AGE 30:** Artes Liberales 4 (grammar), Profession: Bookbinder 2 (academic), Charm 2 (first impressions), Civil and Canon Law 2 (laws and customs of a specific area), Concentration 2 (reading), Etiquette 3 (Hermetic), Folk Ken 3 (magi), Intrigue 2 (rumormongering), Latin 5 (Hermetic usage), Leadership 1 (junior librarians), Living Language 5 (expansive vocabulary), Order of Hermes Lore 3 (personalities), Organization Lore: Former Covenant 3 (resources), Philosophiae 2 (natural philosophy), Profession: Librarian 4 (ensuring order), Profession: Scribe 3 (copying)
 
@@ -4665,19 +4665,19 @@ Training packages include: Covenfolk, Craftsman\*, Leader, Trainer
 
 This particular option has enormous potential for story. Covenfolk provide obvious witnesses to the events that befell a magus or a covenant, and their testimony could be troublesome to the guilty. The knowledge they bring with them also provides seeds into numerous treasure-hunting opportunities, as new vis sources, auras, and regiones are disclosed. And the prescient among the grogs may take such books and devices as they can before finally abandoning their home.
 
-### **INFLUX**
+### INFLUX
 
 A handful of refugees arrives at the covenant offering service and asking to be taken in. They are the covenfolk of a nearby covenant, almost forgotten by the Order and home to an elderly magus and his loyal filia. The refugees tell how a magus arrived and killed their masters before claiming their tower, their village, and all within it. These covenfolk are the ones who ran. There are others still back at the covenant, forced to do their new master's bidding. Is this violent magus a threat to the covenant? Who is he and under what grounds has he taken this small covenant? More importantly from the refugees' point of view, can they stay or will they be turned out?
 
-### **AN UNNATURAL DIVIDE**
+### AN UNNATURAL DIVIDE
 
 Ever since the refugees arrived at the covenant all those years ago, the community has been on the brink of division. Over the years, the covenfolk have split into those who live in the Upper Village and those who live in the Lower Village. And when a girl from the Upper Village is murdered, the magi must find the killer before revenge is taken against the Lower Villagers.
 
-### **THE ENCROACHING WINTER**
+### THE ENCROACHING WINTER
 
 The dissolution of the covenant draws close. The signs are there; the covenant's enemies are circling, no apprentices have been taken in years, and vis sites have fallen to nobles as they build their estates. The magi seem not to have noticed the growing weight of troubles, but there are those who have lived through this before, many years ago. Only they can rouse the magi from their complacency and make them learn the mistakes of a former generation, and only they can save the covenant.
 
-### **A COVENANT WITH NO MAGUS**
+### A COVENANT WITH NO MAGUS
 
 When the last magus of a winter covenant dies, the covenfolk agree to continue operating the covenant as though nothing has changed. The covenant, after all, has mundane sources of income, enough land being farmed to feed the covenfolk, and more. The books in the library describe where the vis sites are and how the vis can be harvested, so a faux trade in vis is started with the visiting Redcaps, and secretaries to the old dead magus maintain his correspondences. And so the great deception begins. But what happens when the Order finds out?
 
@@ -4685,7 +4685,7 @@ When the last magus of a winter covenant dies, the covenfolk agree to continue o
 
 pressions), Civil and Canon Law 3 (laws and customs of a specific area), Concentration 4 (reading), Etiquette 3 (Hermetic), Folk Ken 3 (magi), Greek 3 (academic usage), Hebrew 4 (mystic texts), Intrigue 3 (rumormongering), Latin 5 (Hermetic usage), Leadership 4 (junior librarians), Living Language 5 (expansive vocabulary), Order of Hermes Lore 3 (personalities), Organization Lore: Current Covenant 5 (customs), Organization Lore: Former Covenant 3 (resources), Philosophiae 4 (natural philosophy), Profession: Bookbinder 4 (academic), Profession: Librarian 5 (ensuring order), Profession: Scribe 4 (copying)
 
-### **PERSONALITY TRAITS**
+### PERSONALITY TRAITS
 
 Refugees who have been forced to leave a failed or destroyed covenant may retain a Loyal to Former Covenant Personality Trait, which comes into play when dealing with connections to their former covenant, such as other covenfolk, magi, or apprentices. This loyalty may work against the character, as there may be a perception of bias which his new colleagues may resent.
 
@@ -4713,7 +4713,7 @@ The definition of a role-bound grog is one who can serve no purpose other than t
 
 For this reason, grogs like this tend to play fleeting roles in stories, but they are open to all and may be played during stories closer to the covenant or involving their particular role.
 
-### **ALTERNATIVES**
+### ALTERNATIVES
 
 These strange warped creatures, gone beyond human and now made something "other," can be found performing a number of roles, not just the role of ferryman.
 
@@ -4725,13 +4725,13 @@ Such characters are always too limited to be played as companions and so take th
 
 There are a number of special considerations in creating these characters.
 
-### **AGE AND CHARACTERISTICS**
+### AGE AND CHARACTERISTICS
 
 Role-bound characters can be of any age and there is story potential both in the younger and older age ranges. Younger characters may experience the event that binds them to their role during play, gaining the Flaw that defines them (see later) as a story event, while older characters may have been at the covenant for a long time with seemingly nobody now questioning their origin or purpose.
 
 The Role-bound Ferryman discussed in this section has a poor Communication, probably through years of near solitude, but high Stamina from his long service out on the marsh in all weather. Others unfortunate enough to be bound to their role may have higher Dexterity, as befits a dedicated craftsman.
 
-### **SUGGESTED VIRTUES AND FLAWS**
+### SUGGESTED VIRTUES AND FLAWS
 
 The ferryman is bound to his role, unable to change beyond its confines. But though he is defined by his role, he has other gifts. His unearthly demeanor is represented by the Piercing Gaze Virtue, but his true gifts are the Premonitions of harm that threaten the covenant, and his Second Sight with which he scans the horizon looking for ghostly visitations. His chief Flaw is Bound to Ferryman Role and because few know of or understand this supernatural curse, he is also Judged Unfairly. Perhaps through the same effect, he has lost much of his ability to communicate, represented by the Poor Communication Flaw.
 
@@ -4739,11 +4739,11 @@ This gives the ferryman the following Virtues and Flaws: Covenfolk; Piercing Gaz
 
 \* See Chapter 6: New Virtues and Flaws
 
-### **SUGGESTED ABILITIES**
+### SUGGESTED ABILITIES
 
 The usual rules regarding limits on starting Ability scores and childhood experience apply to these characters, just as for other grogs. In addition, role-bound grogs must have a Profession or Craft Ability that defines them. Martial or other abilities may be substituted with the troupe's agreement.
 
-### **TRAINING PACKAGES**
+### TRAINING PACKAGES
 
 The ferryman most likely has had an athletic childhood spent out on the marshes, so this package is used as the base. Abilities are then bought to suit the character. Once play starts, the Role-bound Ferryman uses the following Training Packages with alterations based on his situation and Abilities:
 
@@ -4757,7 +4757,7 @@ The ferryman most likely has had an athletic childhood spent out on the marshes,
 
 **THREE YEARS (SCOUT):** +15 (Area) Lore, +15 Awareness, +15 Stealth
 
-### **SAMPLE ABILITY SCORES**
+### SAMPLE ABILITY SCORES
 
 **ABILITIES AT AGE 35:** Area Lore: The Marsh 5 (waterways), Athletics 3 (balance), Awareness 3 (searching), Brawl 3 (Dodge), Craft: Boatbuilder 3 (repairs), English 5 (regional dialect), Folk Ken 3 (peasants), Magic Lore 3 (creatures), Order of Hermes Lore 1 (personalities), Organization Lore: Covenant 3 (personalities), Organization Lore: Smugglers 3 (personalities), Premonitions 3 (threats to the covenant), Profession: Ferryman 4 (marsh ferries), Second Sight 3 (illusory disguises), Stealth 3 (sailing
 
@@ -4770,7 +4770,7 @@ quietly), Survival 2 (marshland), Swim 3 (marshy water)
 
 Excess experience points that do not reach a higher Ability score have been redistributed in the sample Abilities earlier to ensure that all have been spent with no remainders. In addition, the ferryman has acquired an enriched Item of Virtue by his 65th year, granted by virtue of the Magician training package.
 
-### **PERSONALITY TRAITS**
+### PERSONALITY TRAITS
 
 Unless affected by other effects, characters bound to their role possess and express Personality Traits just as other grogs, but years of being restricted to one role, often unable to live a normal natural life, may take its toll on their personality. They may be resentful or resigned, bitter or accepting, searching for release or loyal to their covenant.
 
@@ -4780,15 +4780,15 @@ The Role-bound Ferryman discussed earlier has the following Personality Traits: 
 
 In many ways, the Role-Bound grog *is* a story seed.
 
-### **A DANGER TO THE COVENANT**
+### A DANGER TO THE COVENANT
 
 A man has gone missing. He was last seen trying to reach the covenant, asking the ferryman for passage, but he never arrived. The covenant has always taken the ferryman for granted, never asking who he is or why he does what he does. But what has the ferryman done with the man and why?
 
-### **THE EXPERIMENT**
+### THE EXPERIMENT
 
 The covenant awakes one morning to find something unheard of in living memory: the ferryman is not at his post. Not only that, but his boat is gone too. A magus of House Verditius, who visited the covenant some seasons before, has stolen the ferryman away. He recognized that the ferryman is bound to his role, and bound to his boat. The magus has taken him in order to experiment upon him, to find the secret of binding devices to the living, or binding a living mind into a device. Can the covenant find their man before the Verditius experiments tear him from his boat?
 
-#### **WHAT SORROWS HAVE BOUND THIS MAN?**
+#### WHAT SORROWS HAVE BOUND THIS MAN?
 
 Nobody has ever asked what binds the ferryman to his ferry, not really. Magi have wondered what magical force sustains him in all weathers, unchanging and unflinching. But nobody has ever wondered at the tragedy that turned him into the creature he is. Until now. An old text, written by a monk describing his journey through the region, has been found in a nearby church that tells of a man whose wife became lost and disappeared out on the marsh. The text describes how he waits for her to return. The text was written centuries ago, but the man it describes seems to be the ferryman. Do the magi search the text for clues? Do they find the ferryman's wife and set him free from his curse?
 
@@ -4817,13 +4817,13 @@ The Street Thug probably doesn't live at the covenant, even if that covenant is 
 
 The following notes provide some suggestions for creating Street Thugs.
 
-### **AGE AND CHARACTERISTICS**
+### AGE AND CHARACTERISTICS
 
 The Street Thug is really designed to either live fast and be hanged young, or to be a little more cagey and survive to run the joint. As well as making Aging Rolls for the Street Thug, storyguides may also want to decide whether the Street Thug has been caught in the act of committing a crime or targeted by his enemies, and whether there is a need for action from the magi to save him.
 
 Regardless of this, life on the streets takes a heavy toll. The Poor Living Conditions Flaw (see Chapter 6, New Virtues and Flaws), on top of the base –2 Living Conditions Modifier for living in a town, means that the Street Thug can expect to have a Decrepitude Score of 2 and Characteristics totaling –5, rather than the starting 7, by the age of 50. An aging Crisis is only a few years away, most likely a Minor Illness as per the Crisis Table on **ArM5**, page 170.
 
-### **SUGGESTED VIRTUES AND FLAWS**
+### SUGGESTED VIRTUES AND FLAWS
 
 Grogs can't take the Outlaw Leader Minor Social Status Flaw, but as a petty criminal, the Branded Criminal Social Status Flaw is appropriate for the Street Thug character. It sets him out as recognizably unsavory, and gives him access to Martial Abilities from the outset. However, the Street Thug is a brawler used to bludgeoning his opponents with whatever comes to hand amid the filth of the alleyway. Years of violence have toughened him up, hence the Tough Virtue to provide that extra Soak bonus. The last Virtue is Social Contacts, representing the contacts he's made on both sides of law and order across the city.
 
@@ -4835,7 +4835,7 @@ The following Virtues and Flaws represent a typical Street Thug: Branded Crimina
 
 Puissant Brawl and Tough can easily be exchanged for other Minor Virtues, such as Berserk for a more overtly dangerous fighter, and Large or Enduring Constitution.
 
-### **SUGGESTED ABILITIES**
+### SUGGESTED ABILITIES
 
 The Street Thug seeks experience in anything that helps him get through another day on the street. This is likely to be Brawl, Guile, Area Lore, and for intimidation, Leadership. Brawl is the Street Thug's combat Ability of choice as people in cities are rarely armed and even more rarely armored. He is also
 
@@ -4844,13 +4844,13 @@ backed up by a gang and will almost always be in a trained combat group when wit
 
 As the Street Thug grows older, he gains more authority over his gang, learning more about its activities and members, represented by his growing Leadership and Gang Lore Abilities.
 
-### **TRAINING PACKAGES**
+### TRAINING PACKAGES
 
 Training packages for Street Thugs include: Brawler, Footpad\*, Leader, Local, Soldier, Wastrel.
 
 \* The experience points against Legerdemain in this package are more likely spent against Thrown Weapon
 
-### **SAMPLE ABILITY SCORES**
+### SAMPLE ABILITY SCORES
 
 **ABILITIES AT AGE 20:** Area Lore 3 (geography), Athletics 2 (running), Awareness 3 (alertness), Brawl 4 (fist), Carouse 3 (power drinking), Charm 1 (being witty), Climb 1 (walls), Disguise 2 (townsfolk), Folk Ken 1 (townsfolk), Guile 1 (lying to authority), Leadership 1 (intimidation), Living Language 5 (slang), Single Weapon 3 (hatchet), Stealth 2 (streets), Thrown Weapon 3 (throwing knife)
 
@@ -4862,19 +4862,19 @@ Training packages for Street Thugs include: Brawler, Footpad\*, Leader, Local, S
 
 The story seeds that follow use the city streets as a backdrop, and the Street Thug himself either as part of the lead-in or as a tool to be used in the in the story resolution.
 
-### **BLOOD ON THE STREETS**
+### BLOOD ON THE STREETS
 
 The streets are running with blood, the city watch just look the other way, and someone at the top is getting very rich. They say that there's magic at work and that's why nobody can touch these people. Well, magic you have. Now all you need is someone who knows the streets and can find out where the money's going. Then it can start coming to you.
 
-### **THE DEVIL MAKES WORK FOR IDLE HANDS**
+### THE DEVIL MAKES WORK FOR IDLE HANDS
 
 The Street Thug has a price on his head and is forced to lie low while the tempers cool and memories fade. The trouble is, he's hiding out in the covenant. It doesn't take long for his presence to become disruptive. The magi need to find a job for him to do. It's either that or turn him into a tree for the next month. But as it happens, the magi have heard that a tax collector of ill repute is arriving in town in the next week, and the taxes he's collected will be stored in the sheriff's keep. There might be a way to keep the Street Thug occupied and make a little money after all.
 
-### **THE TAKEOVER**
+### THE TAKEOVER
 
 The magi receive an interesting offer from the leader of a group of street thugs. He knows that the magi provide a little backup to his rival gang leader, but he can cut them in for bigger stakes if they'll support him over their current associates. But this new face is harboring an Infernal secret, and the offer is a temptation to betrayal. The wheels are already in motion. Can the magi root out the demons before they take hold in the city, and can they stop the violence before it spins out of control?
 
-#### **PERSONALITY TRAITS & REPUTATION**
+#### PERSONALITY TRAITS & REPUTATION
 
 The Street Thug has three Personality Traits. Rather than having true bravery, the Street Thug is Aggressive, an important distinction. And he is also Ruthless, prepared to commit crime, to hurt and harm others, and to betray those in his way. He'll very rarely find himself as the vanguard in any combat group; while he's aggressive enough to start the fight, he's also ruthless enough to make sure other people get hurt first.
 
@@ -4925,7 +4925,7 @@ These notes will help you create a Time-lost Witness character.
 
 The following story seeds use people from particular places and times, but can be easily adapted to refuges from other fallen civilizations or historical eras.
 
-### **THE MADWOMAN WITH THE PAPYRUS**
+### THE MADWOMAN WITH THE PAPYRUS
 
 A churchman contacts a redcap whom he knows collects rare books. On being invested in his office, the churchman took a tour of the facilities in his care. One is a home for demoniacs — people afflicted in the mind by the forces of evil. Within this refuge, he found a woman who speaks only gibberish, but seems lucid. The curate for the facility told the churchman that the demoniac was found wandering the roads, and had in her possession a curious scroll, filled with strange pictures.
 
@@ -4935,7 +4935,7 @@ Characters who use magic to speak with the demoniac discover that her name is Sa
 
 Sacmis is interesting to the player characters for several reasons. Magi engrossed by history would love to interview her. Seekers would like her aid to determine the locations of the great libraries of the ancient world, and as a translator for the text of the ancients. A handful of the spells held by House Bonisagus are from the period, but how the verbal components are incanted is not clear. Members of House Merinita value her scroll, because it contains the final copy of many ancient stories about magicians. One of these is the "Tale of the Shipwrecked Sailor," which is the origin myth of the sorcerers of the island of Soqotra.
 
-### **AN ACCIDENTAL INVASION**
+### AN ACCIDENTAL INVASION
 
 Alarming reports have reached the town of an army that has fortified a mountain pass slightly to the northwest. The invaders have made no demands, and beyond levying a toll on passing merchants, they appear to be doing little. Noblemen and magi skilled in military matters are likely to guess, correctly, that the invaders have formed a defensive position, and are sending scouts into the nearby territory. This force is acting like the beach-head for an invader, and so the region prepares for war.
 
@@ -4945,21 +4945,21 @@ Magi may immediately assume this is a Hermetic plot. Only members of the Order h
 
 
 
-### **SUGGESTED VIRTUES AND FLAWS**
+### SUGGESTED VIRTUES AND FLAWS
 
 Time-lost characters can come from any era, and so can have a wide variety of Abilities, Virtues, and Flaws. As examples, this section uses Roman legionaries lost in a faerie wood, who re-emerge in 1220. These grogs require the Warrior Virtue, and must take the Worthless Abilities Flaw.
 
-### **SUGGESTED ABILITIES**
+### SUGGESTED ABILITIES
 
 Time-lost Witnesses may come
 
 from any background, and therefore may have any Ability. They are usually selected for abduction and return because their memories or skills will create interesting stories, so unusual skill sets are common among these characters.
 
-### **TRAINING PACKAGES**
+### TRAINING PACKAGES
 
 Time-lost characters may come from any social group, and so their careers following their return may follow any path.
 
-### **SAMPLE ABILITY SCORES**
+### SAMPLE ABILITY SCORES
 
 Using Roman legionaries as examples, this set of Abilities requires the Warrior Virtue:
 
@@ -4973,7 +4973,7 @@ The Roman commander, noticing a sudden change in landforms, has encamped his eig
 
 Player characters can most easily intervene in this scenario by capturing and then negotiating with one of the Roman scouts. The Roman commander, if convinced the empire is gone, may wish to use his force to conquer a significant town, to supply his army and act as the kernel of a new empire. He may seek out the Emperor of Nicaea, to offer the swords of his men to the leader of the modern Romans. He may accept the Order as the heir to the legacy of Rome, and enter service.
 
-### **CONFUSED FAERIES**
+### CONFUSED FAERIES
 
 Faeries love games involving social roles. The return of a character central to a great tragedy can allow them to play interesting games. In 1120, William Adelin, the only legitimate son of Henry I of England, vanished during a shipwreck. He was considered dead and, after his death, the realm fell into anarchy as his cousin and sister fought for dominance. Following this turbulence, a line of sacramentallycrowned kings continued until the incumbent king.
 
@@ -5011,7 +5011,7 @@ fish, serpents (including lizards), and vermin (insects, spiders, mice, and so f
 
 There are several inherent problems with playing an animal grog that are not represented by Virtues and Flaws. This places the animal grog at a distinct disadvantage compared to human characters, which is only offset by the novelty of playing an animal rather than a human.
 
-### **PHYSICAL FORM**
+### PHYSICAL FORM
 
 Most animals lack grasping hands, and even those that have them (such as monkeys and birds) lack the fine control and opposable thumbs of humans. This bars them from many simple tasks, and precludes the use of weapons or tools.
 
@@ -5021,21 +5021,21 @@ There are some advantages to having an animal's body. Most have a covering of fu
 
 Animals get involved in stories without realizing it, but can have a significant impact on events.
 
-### **A CALM-TEMPERED ROUNCEY**
+### A CALM-TEMPERED ROUNCEY
 
 A magus at the covenant is a great traveler, and he has heard of a distant covenant that breeds horses that are immune to the effects of The Gift. The player characters set out to acquire such a beast, and perhaps negotiate the purchase of more than one. Naturally, the breeder of these horses sets a high price for them — more than the characters were prepared for — but he suggests a way in which they could earn a discount. Every year, he must round up the magical stallion that is the sire of his foals; if they assist him with this difficult task, then he will reduce his normal price for one of his three-year-old mares.
 
-### **THE ANIMAL COLLECTOR**
+### THE ANIMAL COLLECTOR
 
 A covenant that has an exotic animal among its grogs comes to the notice of one of the king's agents. He is collecting animals on the king's behalf for a menagerie, and seeks to acquire the creature owned by the characters. If the magi want to hang on to their grog, they must find some way to dissuade the king's man without directly interfering with mundane politics. Certainly, if the man does not return from his mission, the king will send further agents accompanied by armed men to discover what has happened.
 
-#### **CUNNING RATHER THAN INTELLIGENCE**
+#### CUNNING RATHER THAN INTELLIGENCE
 
 Animals do not have Intelligence, and are therefore bereft of the ability to reason. They are incapable of logical thought, or of drawing conclusions from evidence. For example, a dog that sees a hare dash into a thicket either chases in after it, or waits at the point its quarry entered the bush. It does not think to go around to the other side of the bush to the point where the hare might leave.
 
 The Cunning characteristic possessed by beasts means that they act largely through estimation (also called instinct), and are ruled by their Personality Traits. However, they still possess the other components of a mind — cognition, common sense, memory, and imagination. See *Art & Academe*, page 31, for more details on these inner wits. However, animals are severely limited by their comparative difficulty in learning new things; this is represented by the Restricted Learning Flaw (see Chapter 6, New Virtues and Flaws), which all animal grogs must take.
 
-### **LACK OF LANGUAGE ABILITIES**
+### LACK OF LANGUAGE ABILITIES
 
 Animal characters cannot speak, but they can understand any languages they know. However, unlike human characters, they do not receive an automatic Native Language Ability. When earning experience points in a human Language, an animal always has a Source Quality of (4 + Cunning), meaning that they tend to learn more slowly than humans. Furthermore, if an animal has a negative Cunning score, it must reduce any human Language Score by a similar amount, to a minimum of 0. Thus a creature with Cunning –1 that knows French 1 can only understand a handful of words at most. Creatures with a positive Cunning receive no bonus to understanding language.
 
@@ -5061,7 +5061,7 @@ Playing a character without an intellect can pose a significant challenge. As a 
 
 Character creation of an animal grog is different in several respects from that of human characters. The reader is directed to *Houses of Hermes: Mystery Cults*, pages 38–43, for more information on this.
 
-### **CHARACTERISTICS AND SIZE**
+### CHARACTERISTICS AND SIZE
 
 An animal grog has the Size of her animal form, which is normally a creature between Size –3 and Size +2. The Large Virtue or Small Frame Flaw can make the character an usually large or small specimen of her kind, and adjusts the normal Size of the creature by one point in the applicable direction.
 
@@ -5071,7 +5071,7 @@ Animal characters receive the same number of points to spend on Characteristics 
 
 After Characteristic points have been decided, add twice the character's Size to her Strength, and subtract the character's Size from her Quickness.
 
-### **SUGGESTED VIRTUES AND FLAWS**
+### SUGGESTED VIRTUES AND FLAWS
 
 Animal grogs suffer from the effects of the No Hands and Mute Flaws, but these are intrinsic to the character concept, and do not count toward the character's normal allotment of Flaws, nor do they provide points with which to buy Virtues.
 
@@ -5085,7 +5085,7 @@ Flaws: Clumsy, Companion Animal\*, Fragile Constitution, Fear, Noncombatant, Noc
 
 Animal grogs cannot take Virtues and Flaws that involve interaction with human society. An animal grog with the Animal Ken Virtue can use it to communicate with unrelated animal species, and, at the option of the troupe, with humans as well. This Supernatural Ability substitutes for a Language Ability, but can never be higher than the creature's native animal Language Ability.
 
-### **SUGGESTED ABILITIES**
+### SUGGESTED ABILITIES
 
 An animal grog receives 120 experience points for his pre-adult life; this leaves him at the starting age shown in the table earlier (under Aging). The character also receives a single Animal Language at a score of 2. This implies that some infant animals are particularly fast learners, which is true; by the time they reach adulthood, they have a fair complement of Abilities. Note that birds need no Ability to be able to fly, but could benefit from Athletics to perform unusual maneuvers. Likewise, all fish can swim, but may need to roll on their Swim Ability to escape predators or chase prey.
 
@@ -5093,11 +5093,11 @@ An animal grog subsequently gains the usual number of experience points per year
 
 Animal grogs typically possess the following Abilities: Area Lore, Athletics, Awareness, Brawl, Hunt, Leadership (for pack or herd leaders), Music (for songbirds), Stealth, Survival, Swim.
 
-### **TRAINING PACKAGES**
+### TRAINING PACKAGES
 
 Training packages are inapplicable for animal grogs, because of their restricted Ability sets.
 
-### **SAMPLE ABILITY SCORES**
+### SAMPLE ABILITY SCORES
 
 **DOG, 1 YEAR OLD:** Athletics 3 (chasing), Awareness 3 (scent), Brawl 3 (biting), Dog 2 (dominance), Hunt 3 (rabbits)
 

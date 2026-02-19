@@ -187,7 +187,7 @@ The story also contains many loose ends that the characters may choose to tie up
 
 Here are some notes about the characters in this adventure, briefly summarized with a page reference to help you remember their roles, explain their relationships to each other, and locate them quickly. Refer back to this list whenever you need to find information about a character in the story.
 
-### **CHAPTER ONE**
+### CHAPTER ONE
 
 11 Ash, Redcap Respects magi and the Order, dislikes being taken for granted 16 young woman Father killed, lover injured, pregnant, held by faerie curse 16 murdered man Killed by satyrs in the forest while protecting daughter
 
@@ -205,7 +205,7 @@ Here are some notes about the characters in this adventure, briefly summarized w
 
 29 dryad Controls the Veil, lonely, can only leave the fountain in spirit unless freed
 
-#### **CHAPTER TWO**
+#### CHAPTER TWO
 
 42 Dargaud, ghost UnGifted Redcap, sneaky, throws rocks, freed when he understands what happened
 
@@ -235,7 +235,7 @@ Here are some notes about the characters in this adventure, briefly summarized w
 
 76 Uderzus, ghost Tests the characters, magical lance, freed by answers to his questions
 
-#### **CHAPTER THREE**
+#### CHAPTER THREE
 
 82 Hedwig, abbess Authoritative, dignified, has a letter from Sister Larine 83 Palona, advocate Nun, divides life into good and evil, aids Sister Hedwig 84 Alice, visionary Saintly nun, has Faith and holy visions, aids Sister Hedwig 84 Malores, mute Faerie nun, mute, worships the moon at night 85 Nadaline, cook Larine's closest friend, doesn't answer questions, hard worker
 
@@ -496,7 +496,7 @@ If the characters are easygoing and friendly, they will be offered wine and frui
 
 The aura here is Faerie 3.
 
-#### **THE SATYRS**
+#### THE SATYRS
 
 These satyrs spend much of their days hunting, chasing down faerie stags for sport, engaging in contests to see who can put
 
@@ -560,7 +560,7 @@ The eldest satyr, who will introduce himself as Boch, will quietly make the char
 
 He will admit that she is here if they ask after her, but explains that she is "needed," and that she is their "wife." He can tell the story of how they captured her and what happened during the conflict, and may explain what he can remember about the arrangement with the dryad, mentioned below, if the characters negotiate. If they insist on seeing her, he will take them to her, but cautions that the others are extremely protective of her, and that in any case she cannot leave, for she "belongs with us now."
 
-#### **BACKGROUND: SATYR HOLLOW**
+#### BACKGROUND: SATYR HOLLOW
 
 These half-men, half-beasts have captured the young woman and set her up as sort of a communal wife. She has shelter that they built for her further along the valley, where she lives apart from them. They visit her when they are feeling lonely, and otherwise see that she is comfortable by bringing her food and drink and warm bedding. At first she did not go willingly into this arrangement, and the fauns were forced to harm both her protector and another who tried to stop them. She has since come to appreciate the influence she has over the creatures, though, for they listen to her and do what she asks, and she is free from the arduous responsibilities that were often imposed upon her at home. This seems to her the perfect place to bear and raise her baby, which will probably be at least part satyr because of the nature of the place.
 
@@ -588,7 +588,7 @@ If the characters arrive at night, only one man is hunched over the embers of th
 
 This is a much flashier tent than most knights would use in the field, but Sir Gilbert is a flashy knight. Or rather, knight-errant; Sir Gilbert owes no allegiance to an overlord, but also has no land. He does have a horse and arms, and so he is doing his best to make a name for himself as a hero. His current project is to slay the dragon which he has heard lives atop the hill, but so far he has been unable to penetrate the enchantment surrounding it. When the characters meet him, they have the chance to gain valuable information and assistance, but if they prefer a fight they will have little to show for it.
 
-### **SIR GILBERT**
+### SIR GILBERT
 
 Like most knights, Sir Gilbert is well-trained and well-armed. He wears chain mail, carries a sword and shield, and will mount his horse and charge with a lance if he gets the opportunity. In many ways he is a gentle and kind man, though still bold and brash, and his servants are particularly loyal for this reason. He is afraid of nothing, even wizards, and so fear will not temper his attitude towards unusual strangers. He will find The Gift distasteful in close quarters, however, and will deal with magi as little as possible.
 
@@ -602,7 +602,7 @@ IV. Saint Augustus was an abbot known for finding lost relics, and he may lend h
 
 Sir Gilbert is careful to show deference to God, despite his bravery. Each week he returns to the abbey to confess his sins and hear Mass, and he sets aside time every night to pray and give thanks for his blessings. This sort of behavior may grate on wizards' nerves, but as he believes himself tolerant of their eccentricities, he will be very offended if they do not show him similar courtesy. Insulting his faith or the Church is one of the few ways characters can make him angry enough to attack them.
 
-#### **LUC**
+#### LUC
 
 Luc is Sir Gilbert's personal and spiritual guide, an old friend of his family who has taken it upon himself to protect the knight from the intangible dangers of the world. He has much academic and arcane knowledge that he has learned from study and experience, and he doesn't have a great deal of pragmatism. Luc speaks four languages passably well, including Latin, but he is not as comfortable talking as he is listening, a quirk left over from living in silence as a hermit for seven years.
 
@@ -688,7 +688,7 @@ Luc will intensely distrust characters with The Gift. If Sir Gilbert seems too f
 
 If questioned about his personal interest in the ruins of Calebais, he will speak of secrets to be found "in the hill," secrets about which he admits he knows nothing. If he begins to trust the characters, he will tell them about a story he heard of an evil spirit that lived under the hill, who plotted against the king. He would like to guide Sir Gilbert to fight and defeat such a base enemy.
 
-### **PAUL**
+### PAUL
 
 In many ways, Paul is a perfect squire for a great knight: he is diligent, clever, and knows how to mimic the behavior of his master. However, he is also young and inexperienced, and likely to break into conversation at inappropriate times. He can be rather awkward with social graces. He will probably never become a knight; his aptitudes are much more directed towards being a man of the cloth. Paul also admires Luc, whom he serves nearly as much as Sir Gilbert. Fighting doesn't really appeal to him, though; he will only fight to protect his lord.
 
@@ -753,7 +753,7 @@ Long spear: Init -2, Attack +7, Defense +9, Damage +7 Crossbow: Init -5, Attack 
 
 
 
-#### **SIR GILBERT'S MEN**
+#### SIR GILBERT'S MEN
 
 These are trained foresters and huntsmen, but they will be very afraid of characters with The Gift. They will express their fear through tense anger and hostility, but they will not strike a blow without Sir Gilbert's or Luc's command. They are armed with spears or crossbows and wear leather armor. When fighting together, they will form a double rank and fire on alternate rounds, but raise their spears to meet a charge.
 
@@ -765,7 +765,7 @@ While Sir Gilbert speaks, Luc will remain at his side, intent that the kind-hear
 
 Sir Gilbert will openly reveal his purpose and tell what he has learned if he judges the characters to be good people; that is, if they are respectful and courteous, have obvious gentlefolk among them, appear wealthy, or seem like honorable allies. He will reluctantly agree to work with magi so long as they promise to leave the dragon to him, and may invite non-magi to accompany him on his expedition if Luc doesn't object too strongly.
 
-### **BACKGROUND: SIR GILBERT'S CAMP**
+### BACKGROUND: SIR GILBERT'S CAMP
 
 Through diligent prayer and two weeks' worth of experience within the forest, Sir Gilbert has learned valuable information about the Veil. He will share it in pleasant company over a meal
 
@@ -789,21 +789,21 @@ At the edge of the southern slope of the hill, just outside of the regio, is a s
 
 ## The Marker Inscription
 
-#### **INTRATE IN HANC SILVAM FASCINATUM NON**
+#### INTRATE IN HANC SILVAM FASCINATUM NON
 
 *(in-TRAH-tay in honk SEAL-vahm FAH-skeen-AH-toom nohn)* "Enter not this enchanted forest."
 
-#### **NISI VOS SCITIS QUOS DUCES SEQUOR PRIMUM ULTIMUSQUAE ET RESPONSUM AENIGMAE SUI**
+#### NISI VOS SCITIS QUOS DUCES SEQUOR PRIMUM ULTIMUSQUAE ET RESPONSUM AENIGMAE SUI
 
 *(NEE-see vohs SKEE-tees kwohs DOO-kays SAY-kwor PREEmoom OOL-tee-MOOS-kwy ET ray-SPOHN-soom eye-NEEG-my SOO-ee)*
 
 "Unless ye know which guides to follow, first and last, and the answer to their riddle."
 
-#### **SI OPTATIS NOS ALLOQUOR MANETE IN LOCO HOC UNUS DE NOBIS PERVENIAM MOX**
+#### SI OPTATIS NOS ALLOQUOR MANETE IN LOCO HOC UNUS DE NOBIS PERVENIAM MOX
 
 *(see ope-TAY-tees nohs ah-LOH-kwor mah-NAY-tay in LOHkoh hock OO-noos day NO-bees pair-VAY-nee-ahm moks)* "If ye wish to speak with us, wait here; one of us will be with you shortly."
 
-#### **SI ESTIS SODALES SALVETE AD CALEBAIS**
+#### SI ESTIS SODALES SALVETE AD CALEBAIS
 
 *(see AYST-ess so-DAHL-ees sahl-WAY-tay odd CAH-lay-BAH-ees)* "If ye be our friends, be welcome to Calebais"
 
@@ -811,7 +811,7 @@ and looks like an ancient artifact of a bygone age. At the top is carved a broke
 
 If characters wait beside the marker, one of the guides will eventually approach and beckon them into the regio (see The Veil, below).
 
-#### **BACKGROUND: THE MARKER**
+#### BACKGROUND: THE MARKER
 
 When the covenant was active, those who were not welcome and became lost in the regio would eventually be hunted down. Before the Sundering, those who waited at the marker would be perceived through a magic mirror (see page 48), and someone would be sent to show them the way through. The newer effect that Mormulus added to his Veil, preventing Intellego Imaginem magic, made the mirror cease to function, so no one in the covenant will see the characters' approach. The marker is not in any way magical, except that the mirror has a fixed arcane connection to it.
 
@@ -844,7 +844,7 @@ If all the guides have been followed in the right order, the image of the beauti
 
 The answer to her riddle is a crown (and you might congratulate whoever solves it with a Confidence Point). If the characters guess correctly, no matter how many tries it takes them, she will descend the cliff on a hidden path, and extend her ghostly hand to lead them through the pass to the ruins of Calebais. The trail cannot be seen no matter how hard the characters try, because of the illusion, but if they follow her carefully they will reach the top without mishap.
 
-#### **THE DRYAD**
+#### THE DRYAD
 
 The dryad is bound to Calebais by a bargain she made with Mormulus, whereby she has promised to serve as guide and bearer of the Veil, and the wizard agreed to see that she and her forest were protected from harm. Because of this, she remains bound to the covenant and cannot leave, and, over the years, she has become very lonely. She will welcome guests merrily, and thoroughly enjoy the time she has with them as they try to guess the riddle before she leads them up the pass. It is not their conversation or their appearance that she enjoys, but rather their company; she desires the feeling of having people nearby.
 
@@ -955,7 +955,7 @@ In any case, characters should not be able to force their way through the riddle
 
 As a last resort, if the characters wait long enough, a group of Hrools will pass by, led by an ermine Hrool wearing a diadem. They are returning foragers, bearing wood and game. They do not know the secret of the riddle, but wearing a diadem allows the leader to see through the illusions, and thus pass directly through to the covenant. The characters may follow them or try to take the diadem. It will be obvious to anyone who wears this crown that they can see the forest in a new, different way (and feel free to rub it in, after the story is over, that the answer to the riddle was literally right before their eyes).
 
-#### **BACKGROUND: THE VEIL**
+#### BACKGROUND: THE VEIL
 
 Mormulus did not wish to remove all contact with the outside world, but he did wish to prevent people from accidentally stumbling upon the covenant. Thus, the Veil was not originally intended to keep everyone out of Calebais, only to present a challenge for those determined to get in. Because of the powers of the Bell, those who wore diadems could sense whenever someone set foot on the hill, and thus would have plenty of time to prepare while visitors were delayed by the riddle. If they won through and were still not useful to the covenant, their memory would be modified and they would be released back into the wood. In the face of a concentrated attack, the dryad would be instructed not to let anyone through, and the invaders would be waited out or hunted down.
 
@@ -1303,25 +1303,25 @@ The dryad leads the characters up a steep trail, which crests the hill and passe
 
 
 
-#### **A WARNING**
+#### A WARNING
 
 Sitting directly in front of these stairs is a two-foot high, four foot square, roughly hewn stone slab (sloped up away from the stairs), onto which is carved the following message signed by Ornath, follower of Guernicus, Quaesitor.
 
 ## The Warning
 
-#### **OMITTETE HAS RUINAS EXSECRABILIS**
+#### OMITTETE HAS RUINAS EXSECRABILIS
 
 *(oh-MEET-tay-tay HOSS roo-EEN-ahs eck-SEHK-rah-BEEL-ees)* "Let these cursed ruins be."
 
-#### **ET MANDATE MANEM AD SUAM FATUM PROPRIAM**
+#### ET MANDATE MANEM AD SUAM FATUM PROPRIAM
 
 *(et MAHN-dah-tay MAH-name odd SOO-ahm FAHT-oom PROH-pree-ahm)* "And leave the dead to their well-earned fate."
 
-#### **BACKGROUND: A WARNING**
+#### BACKGROUND: A WARNING
 
 After investigating what had become of Calebais, and convincing his fellow Quaesitors that some diabolical curse had affected the covenant in his absence, Ornath left this marker in the hope that it would dissuade people from entering. He feared that others might aid the ghosts, or free them from their torment, and he preferred that they suffer here as long as possible.
 
-#### **THE DRAGON**
+#### THE DRAGON
 
 When the characters first look down the deep well (180 feet total), they see an eerie, muted, yellow light at the bottom, shining up from a strange, coiling design in silhouette. If they look more carefully, have them make a Perception + Awareness roll. On a 9+, characters see that there is water at the bottom; at 12+ they recognize the coiling design as serpent-like; 15+ lets them see bubbles coming out of the water from the mouth of the creature; and at 18+ they can see that it is probably a statue. You may want to roll the dice for the players and let them know privately what they see. This is about the right time to start building a sense of mystery about the ruins, so keeping the players unsure of what is happening is a good idea. If any characters botch, they suffer a powerful sense of vertigo from staring into the long drop and may even lose their balance; roll Dexterity + Athletics - Encumbrance and use the severity of the botch to
 
@@ -1340,13 +1340,13 @@ There isn't much to see through the darkness while falling, though characters wh
 
 
 
-#### **BACKGROUND: THE DRAGON**
+#### BACKGROUND: THE DRAGON
 
 At the bottom of the well, now completely submerged, is a stone statue of a dragon. Flooding in the lower levels has made it completely inaccessible, and it sits beneath about 40 feet of water. The statue was carved for three reasons: 1) since the covenant design was based on a dragon burrow, the statue gives honor to the connection; 2) the powerful magical light that shines from its eyes once helped light the well from the bottom up; 3) the air magically emanating from the dragon's mouth provided fresh air to the lower tunnels.
 
 If Sir Gilbert sees the dragon statue for what it is, he will be greatly disappointed and may become so despondent that he cannot continue.
 
-### **OUTER BARRACKS AND STABLE**
+### OUTER BARRACKS AND STABLE
 
 Parts of the two craggy outcroppings of rock that give the hill its name have been dug out, with cave entrances on the covenant side, shielded from sun and view from above by large overhangs. Characters probably won't notice these if they are focused on the entrance and the warning that stands before it.
 
@@ -1354,7 +1354,7 @@ The southeastern cave is one large room, covered in dust, with many overturned b
 
 The cave to the southwest has been partially blocked with a barricade made of all manner of large, heavy pieces of rock and wooden beams. The large entryway is not difficult to clear if the characters are willing to spend the time, but doing so will earn them the attention and resentment of Dargaud, a ghostly young redcap who haunts this area.
 
-#### **DARGAUD**
+#### DARGAUD
 
 From the moment the characters step into the covenant environs, Dargaud will be watching them through the chinks in his painstakingly-fashioned screen. He will not interfere with them, and in fact they will probably have no idea he is there unless they disturb his barricade. Doing so will enrage him, and he will dog their steps to learn who they are and what they are doing from that moment on. If he sees a good shot, he will throw a rock at them, but not so that it is obvious it was him. He still has the exuberance of youth, and enjoys a good challenge, but he is essentially capricious and spiteful.
 
@@ -1414,7 +1414,7 @@ Characters with Second Sight may be able to see through all sorts of illusions a
 
 About thirty feet down, another tunnel branches off to the west. This leads to the base of Two Crag Hill, ending in a covered exit hatch masked by grasses and bushes on the other side of the forest, though still within the Veil. The ladder also continues down about a hundred feet, where it encounters the waterline, and continues far below that into the lower levels, though Dargaud's corpse is lodged in the way at a place where the shaft narrows a little, wearing a diadem. If the characters can travel underwater and want to move the body aside, feel free to invent what they discover at the bottom of the escape tunnel, as the flooded parts of the covenant are not part of this story.
 
-#### **STAIRWAY AND BRIDGE**
+#### STAIRWAY AND BRIDGE
 
 Behind the slab with Ornath's warning at the main entrance, a stairway winds thirty feet down the side of the well. As the characters descend the stairs, they can see a line of arrow slits across the shaft from them. Perceptive characters might see the figure of a man in the archer's room beyond, and characters with
 
@@ -1425,7 +1425,7 @@ Premonitions might get the feeling they are being watched. This is Paulo, the gh
 
 At the bottom of the stairway, a dilapidated footbridge spans the well, scorched black in places, patched and reinforced with bones, vines and branches. It will creak and bow ominously when anyone crosses it. For each character, roll a simple die + Burden + (Size x 3). If two or more characters cross at the same time, add their rolls together. If the result is 12+, the bridge breaks and those on it fall into the central shaft, 125 feet from the water (see Falling into the Well, above).
 
-#### **ENTRANCE ROOM**
+#### ENTRANCE ROOM
 
 A rubble-strewn entrance room lies beyond the crumbling bridge, on the other side of the ornate heavy doors, reinforced but left ajar. In its center sits a small, green marble fountain, four feet in diameter, now dry. Its centerpiece is a life-sized female statue pouring water from a basin. You may make a Perception + Awareness roll for each of the characters; on a 6+ they notice a
 
@@ -1495,7 +1495,7 @@ ed to the boom and some of the Hrools may even set up an ambush at the bottom of
 
 The ghost of Paulo is on this level, continuing the guard duties that occupied him in life. By the time the characters reach the entrance hall, unless they are extraordinarily sneaky, he has seen them and has hidden in the corridor leading to the common staircase. It has not occurred to him that the characters are intruders, though he thinks they might oppose his master, Crenvalus, so he watches them from a distance. He will retreat if they move to take the common staircase, or follow them if they take the wizards' stairs.
 
-#### **PAULO**
+#### PAULO
 
 Paulo is a warrior grog, extremely strong but passive. Presently, he wanders about, mournful and sad, lamenting in monosyllabic grunts the end of his days as the strongest grog of the covenant, when he proudly served his master Crenvalus. Paulo mumbles a lot but also screams sometimes; he has seemingly forgotten how
 
@@ -1519,13 +1519,13 @@ If the characters find a way to damage the statue significantly (such as droppin
 
 If Paulo can do one last good deed for the covenant, something that protects it or the magi from terrible evil or desecration, he will pass on to the next world. One moment he will be there, proud and smiling for the first time since he died, and the next moment he will fade away into the shadows, but his ghostly hammer will remain.
 
-### **STORAGE ROOM**
+### STORAGE ROOM
 
 Adjoining the entrance room is the equipment room with the large, iron double doors. At one time it contained much of the equipment the magi and grogs used on their journeys. These doors are now barricaded from within and require spells or an impressive feat of strength to open. A Strength + Athletics roll of 21+ will break through; if multiple people push, add each character's Strength and use the highest Athletics score. Running shoves will add twice as much to the roll but may cause injury — subtract Soak from the total contribution and take any remainder as damage.
 
 Two skeletons and a pile of chests and equipment are propped against the other side of the door, barricading it from within. Most of the armor, extra weapons, rope, oils, tents, tools, and dried food supplies are either damaged by fire or deteriorated with age, though if searched there is a good chance that a fairly common, mundane piece of equipment can be found. It will by no means be in perfect condition, however.
 
-### **ARCHERS' ROOM**
+### ARCHERS' ROOM
 
 A short set of stairs leads ten feet up to a small archery chamber, with arrow slits facing the stairs on the other side. It is now in partial ruins, with gouges in the walls, and is empty. Paulo often stands here in the shadows, guarding the entrance, and if characters manage to enter invisibly and quietly enough to slip by his watch, he will be brooding by the arrow slits, gloomy and insubstantial.
 
@@ -1533,17 +1533,17 @@ A short set of stairs leads ten feet up to a small archery chamber, with arrow s
 
 The next level is where most of the grogs lived, serving as a bulwark against any mundane attack upon the covenant. Their barracks and meeting room are located here, as are several private rooms for their leaders. The ghost of Josephine, a grog of some distinction, may be found on this level.
 
-#### **MEETING ROOM**
+#### MEETING ROOM
 
 A large balcony overlooks the well from the meeting room, and characters falling from the upper level or the top may very well land here. A huge pile of rubble, rotting wood, ruined tapestries, and rusted metal lies in one corner. This is the lair of a family of rats, each two feet long with gleaming red eyes. When anyone enters the meeting room, a soft scuttling sound will fill the air as the few rats in this room retreat into their tunnels in the pile of rubble. They will wait there until they are alone again. The rats fight only when cornered, and their bites will not infect the characters with disease unless the players need a challenge.
 
-#### **PRIVATE ROOMS**
+#### PRIVATE ROOMS
 
 Two of the companions' rooms still contain their personal belongings, but whatever can be found in the way of clothing and equipment is in a very sorry state; everything is in ruins.
 
 The first room (closest to the stairs) is empty, but the ghost of Josephine, one of the covenant's *custodes*, haunts the middle room. She is crying, lying on an imaginary bed with her arm hanging over her eyes. Her sobs are interspersed with lamentations about her son, Gemaric.
 
-#### **JOSEPHINE**
+#### JOSEPHINE
 
 Josephine will only speak to other warriors, and will be very frightened if a character with higher than grog status attempts to speak with her. She will vanish if she is threatened by any nongrogs. She is very suspicious and believes that everyone lies to her. She can be boring and repetitive, but she is also easily angered if ignored.
 
@@ -1602,7 +1602,7 @@ The last room, like the storeroom upstairs, is locked and barricaded from the in
 
 If Paulo watches the group enter his room, he will be sorely tempted to attack, as their behavior may cause him to realize that they are not guests. He will wait to see if they find his treasures, and then ambush them when they leave.
 
-### **BARRACKS**
+### BARRACKS
 
 The remains of bunks sag inside each of the alcoves (four in each), and wooden chests are strewn in pieces across the floor. There are piles of rubble along the wall, but the center of the floor is mostly clear. The remains of more than ten human skeletons, still wearing armor and bearing rusty weapons, can be found amid the refuse. Cheap jewelry and silver may be found if the characters search carefully. Crude sexual pictures are drawn on the wall in the alcove near the large staircase, and broken chamber pots lie where they rolled into the main room.
 
@@ -1614,13 +1614,13 @@ Here were located the kitchen, banquet hall, storage rooms, and greeting hall fo
 
 When the characters enter this level (and maybe before), they will hear David's shouts coming from the Greeting Hall.
 
-#### **GREETING HALL**
+#### GREETING HALL
 
 The ghost of David paces up and down the room, shouting at the walls with uncontained rage. There are stone benches built into all the walls, a rotted wooden table and some chairs running down the middle, and a five-foot-wide magical mirror hangs on the wall opposite the door. At one time, this heavy looking glass showed the surroundings of the stone pylon that stands at the entrance to the Veil of Mormulus, and the captain of the guard
 
 would use it to watch for visitors to Calebais who waited at the pylon for a guide. Because of Mormulus's spell, however, the mirror stopped functioning, and dark clouds roll across its image. If taken outside of the Veil, it will work once again, but it will still show only the pylon and its surroundings.
 
-#### **DAVID**
+#### DAVID
 
 David spent the Sundering trying to regain control of the grogs, but they had divided into factions long before then, each favoring different magi who promised rewards in return for their support. The covenant developed into a disparate group of armed
 
@@ -1648,7 +1648,7 @@ Long Sword and Kite Shield: Init +2, +9, +12, +18
 
 **Abilities:** Athletics 4 (stairs), Awareness 4 (alertness), Brawl 3 (dodging), Carouse 1, Folk Ken 2 (magi), Latin 4 (receiving orders), Leadership 5 (small groups), Local Area Lore 4 (directions), Local Language 5 (giving orders), Single Weapon 4 (long sword)
 
-#### **Powers:**
+#### Powers:
 
 *Command Warrior*, 3 points, +0, Mentem: Forces up to a Group of trained warriors to perform an action he commands that falls within their normal duties, unless resisted with a Loyal roll of 9+.
 
@@ -1732,7 +1732,7 @@ David hates the wizard Crenvalus. He doesn't remember being murdered by him, but
 
 If any of the characters wear a diadem, David will react badly, demanding to know who gave them the authority to wear it. He can be bluffed, but it had better be a good story, backed up with some facts about the covenant.
 
-#### **BANQUET HALL**
+#### BANQUET HALL
 
 The ceiling near the fireplace is only nine feet high, but it slopes upwards. Where the walls are parallel, the ceiling is 25 feet high. Against the far wall is a set of stairs leading up to a musicians' loft, fifteen feet above the floor. The stone bowls and containers that litter the room are broken shards, mostly empty, and the remains of many rusted and worthless swords and axes are also strewn about. The fireplace vents out into the well. Nothing remains of the furniture that once filled this area. In the middle of the room sits a gilded dragon's head, carved of stone and about ten feet long, clutching a broken crown in its mouth. It is covered with moss, lies on its side, and has a small statue of a Hrool placed on its snout.
 
@@ -1746,11 +1746,11 @@ This is probably the first time the characters have encountered the Hrools. Besi
 
 
 
-#### **BACKGROUND: THE BANQUET HALL**
+#### BACKGROUND: THE BANQUET HALL
 
 The dragon's head fell from above, where the ceiling dips down, from a huge stone relief of a dragon that once looked down upon the room. The body is gilded too, and even though it is partly covered with moss, its striking image is undiminished. If the players don't seem to be noticing the symbolism of a broken dragon in a broken covenant biting a broken crown, you may want to casually mention it to them.
 
-### **KITCHEN**
+### KITCHEN
 
 This once busy kitchen is now in ruins, though some heavy stone tables are still standing. The remains of bones, kitchen tools, platters and other refuse are found throughout. A large basin magically transports water from a source far below. The fireplaces vent out into the well, and the balcony was once used to gather baskets lowered from the outside. Because of its positioning, characters falling from first setting foot on the bridge are more likely to land here than any of the other balconies.
 
@@ -1772,17 +1772,17 @@ changes itself along with its wielder, the stone will remain part of Gemaric if 
 
 
 
-#### **WOOD SHOP**
+#### WOOD SHOP
 
 Piles of rubble cover the floors about three or four feet high, especially near the walls. Old rusted carpentry tools can be found throughout, as well as numerous pieces of wood and shavings.
 
 Hiding here is Gemaric, a child in the form of a small rock about two feet wide. When the characters enter this room, the rock will shift a bit, but characters will decide that it merely settled. If they look closely, Perception + Awareness rolls of 9+ reveal that it is not dusty, unlike everything else in the covenant. If they come within three feet of it, it jumps up a foot or so, quickly uncurls four little spindly legs, and attempts to run out the door. The rock has Quickness +5, so it will be difficult for the characters to catch. It darts out the door, sprints down the hall, and dives into another room to hide itself among the rubble. If characters begin searching among the rocks of subsequent rooms, Gemaric remains as still as he can, but Perception + Awareness rolls of 15+ notice him quivering. Gemaric will run again only if touched. Then, he will run until he cannot run anymore, and if sorely pressed he may accidentally slip into the well or lead the characters to Igack (see below). For a time, however, he will try to lose his pursuers in a merry chase through private rooms and the wood shop.
 
-#### **SMALL STORAGE ROOM**
+#### SMALL STORAGE ROOM
 
 This room belongs to Igack, a small fire drake who was once Pitsdim's familiar. When his master died he was devastated, but he did not waste away because Pitsdim continued to visit him regularly. The mystic cords that connected them were severed, though, leaving Igack aimless and more simple-minded than he once was. Now, he hunts down rats and several Hrools each month to stay alive (he enjoys terrorizing the ones in the garden, below), but otherwise he rarely leaves this level of the covenant.
 
-#### **IGACK**
+#### IGACK
 
 Igack is frightened, lonely, and prone to treating intruders to the same fiery greeting that his master employs. He may even consider his breath affectionate, since it has never affected Pitsdim, who encouraged him to breathe at anyone who approached. In general, Igack is a trusting, friendly, and simple-minded creature. He can speak Latin if encouraged, but his pronunciation is abysmal and he only understands basic concepts.
 
@@ -1827,19 +1827,19 @@ Bite and claw: Init +2, Attack +7, Defense +8, Damage +6
 
 
 
-#### **SMITHY**
+#### SMITHY
 
 The forges where the weapons and much of the wizards' lab equipment was forged and blown can be found here. Some unfinished examples of the smiths' work are strewn about on the floor: sword handles, glass bowls, iron forceps, and wire cages.
 
-### **LARGE STORAGE ROOM**
+### LARGE STORAGE ROOM
 
 Two large stone bins along the wall hold sand and ingots of bronze and iron. Small chests that have obviously been forced open sit beside them. A tall pile of rotted wood planks lies in the middle of the room and broken shelves line all the walls. A series of locked chests (Dexterity + Legerdemain roll of 12+ to open) hold sundry components for spells and magical research such as stork feathers, boar hair, lye, mercury, and salt. They are in very poor condition.
 
-#### **FOUR PRIVATE CHAMBERS**
+#### FOUR PRIVATE CHAMBERS
 
 At one time, something obviously occupied these rooms, but now they are full of rubble, rubbish, and a few rats that have escaped Igack for the time being.
 
-### **LEATHER AND CLOTH SHOP**
+### LEATHER AND CLOTH SHOP
 
 This room looks like someone took pleasure in reducing every smooth surface found in it into a mass of rubbish. The room is completely full of rubble, and even the ceiling has been broken up; therefore, there is no light here. Perhaps some of the old crafters' equipment could be found after much digging, but it is difficult even to walk through this chamber, let alone dig it up. Perceptive characters (Perception + Awareness roll of 9+) notice many old leather pelts mixed in with the rubble and a few rotted rolls of cloth.
 
@@ -1847,13 +1847,13 @@ This room looks like someone took pleasure in reducing every smooth surface foun
 
 On the fifth level lies the garden of the covenant and more rooms used by the *custodes*, including a common room where they gathered together. Many Hrools may be found on this level, as well as the ghost of the autocrat, Ferdina.
 
-#### **COMMON ROOM**
+#### COMMON ROOM
 
 At one time, this room was very comfortably furnished, but now most of its luxuries have deteriorated. Some rickety chairs and tables still stand, and a large keg that smells of vinegar (it was once wine) rests on a stand in the east corner. The two rooms connected to it are relatively clear of rubbish, but are empty except for some piles of rotting wood and rubble strewn about.
 
 Ferdina, the autocrat, spends most of her days sulking here. She frequently imagines that she is again offering advice to Larine, the librarian, or sharing jokes with Parcimides the scribe, or keeping an eye on Dargaud, or deep in conversation about the parameters of magical theory with Erechtheus. To her, these old friends are quite real, and a person outside the chamber might hear voices other than hers as she talks.
 
-#### **FERDINA**
+#### FERDINA
 
 Ferdina was the autocrat of Calebais, a term that older covenants use to describe the person responsible for the covenant's mundane activities: keeping track of money, entertaining guests, supervising the staff, and so on. She was a marvel of organization and at any time could recite innumerable details about the financial status of the covenant. During the Sundering, she tried desperately to stop the fighting, but she found to her horror that the authority the wizards had given her was taken away as soon as they felt they had no more need for her. Pitsdim casually slew her because he found it annoying when she ordered him to stop burning the books in the library. She does not remember this and is still trying to regain control over the covenant so she can stop the fighting.
 
@@ -1907,7 +1907,7 @@ If the characters encounter Ferdina outside of the common room, it will most lik
 
 than in the higher, because her authority in the grogs' territory was always fairly tenuous. In particular, she tries to avoid David if she can.
 
-#### **THE GARDEN**
+#### THE GARDEN
 
 The covenant's garden has fared well. It has fared so well, in fact, that it is now overrun with plants. The bright light emanating from the ceiling continues to work, and clear water still trickles in off the walls. Vines and branches tumble out of the large window and hang down the side of the well. A few chirping birds can even be found here.
 
@@ -1928,7 +1928,7 @@ Also within the garden are various marble garden benches and a marble table with
 
 A concealed door hides a staircase down to Drininkeana's lab. To find it, characters must search thoroughly and make a Perception + Awareness roll against an Ease Factor of 9, or search halfheartedly and make a roll against an Ease Factor of 15. Even when found, the door is hard to open because there are no handholds on this side. It is made of stone, so a spontaneous Rego Terram spell will open it, or characters may clear away the vines and branches and pry it open.
 
-### **STORAGE ROOM**
+### STORAGE ROOM
 
 This room was thoroughly burned, and nothing is left but ashes that have long since compacted into spongy dirt.
 
@@ -1938,7 +1938,7 @@ The sixth level is where three of the magi had laboratories and private chambers
 
 The floors on this level are cracked and jagged in places, perhaps showing through to the destruction on the level below, and the northern stairwell is filled with dirt. The seventh level was buried under tons of rubble as the rock that made up its ceilings collapsed during the events of the Sundering, and while this level still seems relatively unharmed, some sign of the underlying devastation may still show through, and it would be relatively easy for characters to widen cracks in the ground or even fall through if they are not careful. The magic that keeps the floors from collapsing is not strong enough to withstand concentrated effort.
 
-#### **GUARD ROOM**
+#### GUARD ROOM
 
 The alcove in the hallway between the two main stairways is empty except for a stone bench that runs the length of the chamber, built into the wall, and a large bell one foot high fastened to the ceiling. A chain hangs down from the bell's tongue,
 
@@ -1946,7 +1946,7 @@ The alcove in the hallway between the two main stairways is empty except for a s
 
 and pulling the chain rings it. In the days of old, this alcove served as a guard post — the bell has a distinctive gong-like ring to it that can be heard up and down the well, and it may cause some of the ghosts to investigate, as it was common practice to ring the bell in case of an emergency, such as when someone fell into the well. Most of the ghosts will assume it means another attack, and those who do not like conflict will hide in their rooms, while others (like David or Pitsdim) might come running.
 
-#### **DRININKEANA'S LABORATORY**
+#### DRININKEANA'S LABORATORY
 
 Drininkeana was quite skilled with plants and other forms of life and was the most knowledgeable wizard at Calebais in matters concerning growing things. She spent much of her time in the forests surrounding the covenant and it is because of her influence that it is such a haven of diverse herbs and plant life. She also took charge of the gardens on the floor above, and even had a private staircase leading up to it from her lab. The entrance to the gardens is concealed by a stone door that can be barred from the inside and is nearly flush with the outside wall.
 
@@ -1954,7 +1954,7 @@ A large bronze door stands at the entrance to her quarters, marked with the sanc
 
 Three massive guardians live in the ground beneath Drininkeana's lab. If anyone steps inside, from either the entrance or the stair, one of them quickly bursts forth from the ground and crushes the intruder, and attracts the attention of the other two. Only if all three of these guardians are engaged in combat or destroyed can characters enter safely. The Hrools avoid the lab for fear of the guardians, so the moss goes unharvested. If any of the ghosts are friendly to the characters, they will warn them about these creatures, which they call Undertakers.
 
-### **THE UNDERTAKERS**
+### THE UNDERTAKERS
 
 An Undertaker is a kind of earth elemental that moves beneath the ground like an octopus swimming in water, but can hear when someone steps upon the earth above. These creatures are
 
@@ -2005,14 +2005,14 @@ Against the northeast wall sits a large, beautiful bed frame made of unstained c
 On the northwest side of this room is a pair of huge bronze doors, almost taking up the entire wall. They are inscribed with various symbols (an Intelligence + Magic Lore roll of 12+ reveals that they probably mean "danger"). The doors have two huge handles, but have been welded shut, though a spontaneous Perdo Terram spell could loosen the seal. Behind the doors are row after row of two foot deep shelves, each with hundreds of gleaming, fragile, translucent crystal plants and flowers in small vases. The beautiful "sculptures" are all perfect replicas of their respective species. If one of the plants is held for a few seconds in a living person's hand, it suddenly turns into a real plant. (If it was being held anywhere but by the stem, for instance by a leaf, it might break and fall to the ground.) The flowers and plants are exquisite specimens, and their colors still gleam brightly, as if they were picked less than a minute ago. If undamaged, they return to crystal form once released.
 
 
-### **BACKGROUND: DRININKEANA'S LABORATORY**
+### BACKGROUND: DRININKEANA'S LABORATORY
 
 Drininkeana chose to deal with the Sundering by locking herself in her sanctum, relying on her undertakers to protect her and the moss to provide for her needs. She had a strong Parma Magica, and yet someone snuck into her room and slew her. The assassin was probably motivated by the stash of vis she kept under her bed — more than forty pawns' worth, now gone. No one knows who was responsible for her death.
 
 Her crystal plants were a gift from a powerful magus for whom she did a great favor. Drininkeana had a study requirement Flaw, and this exquisitely crafted set of lesser devices allowed her to increase her understanding of Herbam to master levels without needing to leave the covenant. She valued these so highly that she gave more thought to protecting them than herself; when the fighting began, she sealed the doors and cast a *Watching Ward* to alert her if they were tampered with. Alas, these preparations did her little good, since no one else cared about her great treasure, and they have been left undisturbed since her death.
 
 
-#### **MORMULUS'S LABORATORY**
+#### MORMULUS'S LABORATORY
 
 A heavy curtain hangs in tatters before the entrance to Mormulus's laboratory, embroidered with a version of the symbol for a wizard's sanctum. Beyond is a web of confusing images, part of an elaborate trap Mormulus had set during the Sundering to keep himself safe from the fighting. His entire laboratory is an invested device designed to create an illusory landscape, which changes according to his whim. This enchantment backfired when a grog wandered into his realm while Mormulus was sleeping and became disoriented, violently swinging his weapon about, and killing Mormulus with a lucky hit.
 
@@ -2020,7 +2020,7 @@ Somewhere among these illusions, as an integral part of them, you should introdu
 
 # Mormulus, Magister of Illusion
 
-### **Magic Might:** 60 (Mentem)
+### Magic Might: 60 (Mentem)
 
 **Characteristics:** Int +2, Per -2, Pre +3, Com +3, Str 0, Sta +1,
 
@@ -2042,7 +2042,7 @@ Dodge: Init -3, Attack +0, Defense -3, Damage +0
 
 **Arts:** Cr 30, In 25, Mu 15, Pe 30, Re 12, An 5, Aq 9, Au 5, Co 30, He 12, Ig 5, Im 40, Me 20, Te 5, Vi 40
 
-#### **Powers:**
+#### Powers:
 
 *Ghostly Image,* 0 points, constant, Imaginem: When he wishes to remain hidden, Mormulus cannot be perceived, even by other ghosts. When he does manifest, he may appear as any humanlike figure he can imagine, and seem as solid as he likes.
 
@@ -2091,7 +2091,7 @@ This part of the story can take as long as you like; if the players don't seem t
 
 
 
-#### **MORMULUS**
+#### MORMULUS
 
 Mormulus was an energetic, youthful magus in life, and his vibrant energy has carried over to his ghostly existence. He rarely questions himself and takes joy in watching the unraveling of the illusionary world about him. If questioned about the reality of the images in his room, he will laugh and say, "But all of life is an illusion, don't you know that?" The new images and scenes that the characters bring in with them will delight him; if he can, he will try to manipulate the illusions to keep the characters in his chambers as long as possible. He won't answer questions about the Bell or the covenant.
 
@@ -2109,13 +2109,13 @@ Go through each idea for a landscape in turn, but have them fade smoothly from o
 
 The floor is pitted and cracked from the great damage to the level below, but this will never be visible as it is always incorporated into the illusion. Characters may be able to feel their way around different objects; they will not affect the environment of the room directly, though they may also play a part in the illusion. If the characters close their eyes and crawl about the floor, they may be able to feel out these items, but even then it will be difficult, because the wizard's spells also affect the sensation of touch.
 
-#### **IERIMYRA'S LABORATORY**
+#### IERIMYRA'S LABORATORY
 
 These rooms were owned by the wizard Ierimyra, and her ghost still lives within them. They are also inhabited by Hrools — lots of Hrools. Two huge wooden doors that once stood at the entrance to her sanctum now lie on the ground before it, partially covered with rubble and refuse. Beyond, characters will probably encounter Ierimyra's ghost pacing between her living quarters and her laboratory, as she regularly does.
 
 
 
-#### **IERIMYRA**
+#### IERIMYRA
 
 One of the other wizards, Eonus, destroyed Ierimyra's mind during the Sundering, but she survived, tended by her Hrools. A few years later, however, raiding satyrs made it past her guards and killed her. She does not quite realize that she is dead. She is still driven by a powerful need to protect the Hrools, for she is dimly aware that they are in great danger at Calebais. However, it is almost impossible to get her to recognize that the Hrools are safe, even if taken elsewhere, because she cannot leave. Without the Hrools, she be overcome with grief, though perhaps if the characters return after several years with a few older Hrools she will see that they are secure and will be comforted.
 
@@ -2271,7 +2271,7 @@ Play this floor by ear. Or, if you wish, you can instead leave this level clear 
 
 The eighth level is the location of the wizard's council room, its antechamber, and the covenant's formerly large library. It also hides the entrance to the covenant's treasure vault and many of the answers to the questions that surround what happened at Calebais.
 
-#### **LIBRARY**
+#### LIBRARY
 
 The library is a large chamber with two lines of pillars giving the twenty foot high room a grand feeling. The upper parts of the walls have gilded carvings on them, depicting the potential of education. The north wall shows a maga standing proudly before a bearded, bare-chested giant sitting on a throne. The east wall shows a magus finding an enchanted clearing in a jungle-like faerie forest. The west wall depicts a maga with hand outstretched standing before a vast panorama of gold gilded stars. The south wall pictures a magus leading a sea of people up a mountain.
 
@@ -2286,15 +2286,15 @@ All the books in the library have been burned. It looks as if some madman had a 
 
 Etched in careful letters across this panorama are the following words.
 
-#### **CRENVALUS VISUS TUTUS FALSUS ERAT**
+#### CRENVALUS VISUS TUTUS FALSUS ERAT
 
 *(krane-WAH-loos WEE-soos TOO-toos FAHL-soos ay-ROT)* "Crenvalus, your vision was wrong."
 
-#### **HABUIT SUPERBIAM NIMIAM**
+#### HABUIT SUPERBIAM NIMIAM
 
 *(hah-BOO-eet soo-PAIR-bee-ahm NEE-mee-ahm)* "You had too much pride."
 
-#### **POSSEMUS LABORARE SIMUL UNA**
+#### POSSEMUS LABORARE SIMUL UNA
 
 *(Poh-SAY-moos LAY-bore-AH-ray SEE-mool OO-nah)* "We could have worked together."
 
@@ -2302,17 +2302,17 @@ but to study books requires that they be essentially complete, and these books c
 
 There are six semi-private study alcoves built into niches along the walls. They are almost separate rooms that once had wooden screens blocking them off from the rest of the library. Some had simple lab equipment within. However, like the rest of the library, these alcoves are now useless.
 
-### **ANTECHAMBER**
+### ANTECHAMBER
 
 The antechamber to the council room has stone benches built into the wall opposite the well, and its floor is covered with a complicated mosaic of colored tiles, detailing a golden dragon flying out of grim, dark hole in the hollow of a mountain. There is no rubble in this room and only a few decaying tapestries litter the floor where they fell from their hooks.
 
-#### **COUNCIL ROOM**
+#### COUNCIL ROOM
 
 The council room has a long, crafted stone table running down the middle of it. Around it are twelve chairs of different kinds, all of them large and ornately carved. Bright lights shine from above on each of the chairs, causing the dust in the air to sparkle and lending the room an air of majesty. The chamber is in fairly good shape, and some heavily tattered tapestries still hang on the walls. The only one on which a design may be deciphered has a map of the region around Calebais, but much of the detail has worn away.
 
 Standing on the table is Pitsdim, the mad wizard, though the characters may not recognize him unless they have encountered him elsewhere. He is casting relatively minor fire spells (probably *Pilums of Fire*) towards the ceiling, and will be delighted to see that he has visitors.
 
-#### **PITSDIM**
+#### PITSDIM
 
 Pitsdim caused great damage within the covenant before he was slain by Crenvalus. He was one of the main perpetrators of the violence that brought the covenant down, and all the other ghosts hate him. He still wanders the covenant in the same frame of mind he had during the Sundering, best described as "Burn! Burn! Ha ha! Hee hee! Burn!" The characters may hear snatches of his maniacal laughter from below them as they explore the upper levels. He also hates Crenvalus, and when he is not lighting fires and giggling loudly, he mumbles to himself about the evil wizard's plan to destroy the covenant.
 
@@ -2404,7 +2404,7 @@ David will be very uncomfortable in this room, and will become very angry if any
 
 The door leads to the inner chamber and the tunnel that leads to the vault.
 
-#### **BACKGROUND: THE COUNCIL CHAMBER**
+#### BACKGROUND: THE COUNCIL CHAMBER
 
 The bell that hangs here is not the Bell of Ibyn, but merely a bell that was used to call magi to council meetings. It sounds toneless
 
@@ -2432,11 +2432,11 @@ Crenvalus wrote this letter in a terrifying fit of remorse, and killed himself i
 
 The laboratory here has no contact with the rest of the covenant except through its balcony, so it is unlikely that characters will wind up here unless they have descended the well, either on purpose or by accident. The balcony is ornately carved with a basrelief of a great eagle in flight on the wall above, and some gleams of gold remain from the gilt. Characters may be able to see this balcony from the upper floors.
 
-#### **VENTUS GURGES'S LABORATORY**
+#### VENTUS GURGES'S LABORATORY
 
 This area was the home and workplace of Ventus Gurges, a powerful magus who specialized in Auram and Aquam. A huge tapestry of a cloud, woven with silver thread against a black background, which is still largely intact, dominates the antechamber. It is more than twenty feet long and eight feet high, and bolts of lightning run from the cloud to the bottom of the tapestry. On the balcony is the emaciated corpse of Althea, Ventus Gurges's assistant, and her ghost haunts this level. The characters will probably meet her almost immediately, because she will not wait long to approach guests to her master's lab.
 
-#### **ALTHEA**
+#### ALTHEA
 
 Althea starved to death after her master died in the Sundering, because his laboratory has no physical connection to the rest of the covenant, and her broken leg prevented her from climbing out. She was struck by falling rocks during a massive earthquake that shook the covenant, and pinned down. She could only get free by permanently damaging her leg. She has always been physically weak, emaciated, and cowardly. She is only a laboratory assistant, not an apprentice, and had no magic. She remains spiteful to magi, for she believes their petty squabbles and lack of involvement in the day-to-day affairs of the covenant caused the Sundering. Sometimes she sits on the balcony and pours out her bitter sorrows in fits of loud weeping.
 
@@ -2506,33 +2506,33 @@ The characters will not necessarily leave here with the Bell of Ibyn. Defeating 
 
 Furthermore, the final battles should press the characters so hard and cause so many casualties that they seriously consider retreating. Both the nearby village and the faerie forest can act as safe havens where the characters can rest and regain their strength for another assault. If they insist on pressing onward, no matter what the cost, you and the players must be prepared for characters to die in the attempt. For such a royal treasure, a high price must be paid or it will lose its value. Only the most brave and clever of players should have a chance at complete success.
 
-### **THE INNER CHAMBER**
+### THE INNER CHAMBER
 
 When the characters push through the magic door from the council room, they will emerge into pitch darkness (this section of the covenant is not magically lit). Once they make light, they will see a rough-hewn cave sloping down, with a wall made of smooth stone at the far end, obviously blocking the passage. Near the wall is a skeleton in rotted wizard's clothing, still
 
 ## The Message
 
-#### **REVERTITE AD MUNDUM VESTRUM PROPRIUM**
+#### REVERTITE AD MUNDUM VESTRUM PROPRIUM
 
 *(ray-VAIR-tee-TAY odd MOON-doom VAY-stroom PROHpree-oom)*
 
 "Return to your own world."
 
-#### **HIC SEPULCRUM CALEBASIS EST**
+#### HIC SEPULCRUM CALEBASIS EST
 
 *(heek say-POOL-kroom KAH-lay-BAHS-ees est)* "This is the tomb of Calebais."
 
-#### **SOMNUM INCOLAE INQUIETATE NON**
+#### SOMNUM INCOLAE INQUIETATE NON
 
 *(SOHM-noom in-KOH-lie in-KWEE-ay-TAH-tay nohn)* "Do not disturb the inhabitants' slumber."
 
-#### **PERMANEBO IN LOCLO HOC PROTEGAMQUAE RELIQUAS MERSERICORES EORES SEMPER**
+#### PERMANEBO IN LOCLO HOC PROTEGAMQUAE RELIQUAS MERSERICORES EORES SEMPER
 
 *(PAIR-mah-NAY-boh in LOH-koh hock proh-TAY-GAHMkwai RAY-lee-KWAHS mare-SAIR-ee-KOH-rays ay-OH-rahs SAME-pair)*
 
 "I shall always remain here to protect their pitiful remains."
 
-#### **IGNOSCETE NOBIS INSIPIENTIAM SUAM**
+#### IGNOSCETE NOBIS INSIPIENTIAM SUAM
 
 *(EE-gnoh-SKAY-tay NOH-bees een-SEE-pee-AYN-tee-um SOO-ahm)*
 
@@ -2542,7 +2542,7 @@ There are numerous ways to break through the ten-foot thick wall, including enli
 
 Characters who explore the corners of the chamber may find the burned and dried husk of a dead fox (Crenvalus's familiar), the crumbled remains of several wooden shelves, a scribe's table, and a decaying stack of vellum that contains ancient and unreadable covenant records. The writing on these documents is faded and indecipherable, but its volume suggests it predates the Sundering by several years.
 
-#### **BACKGROUND: THE INNER CHAMBER**
+#### BACKGROUND: THE INNER CHAMBER
 
 This area is where Crenvalus lived out his last hours, and his corpse lies without dignity on the floor. Since he couldn't catch the crafty mage, Pitsdim killed Crenvalus's familiar instead. Mad with rage and thirsty for vengeance, Crenvalus collapsed the entire seventh level, crushing Pitsdim but causing incredible damage to the rest of the covenant, flooding the lower levels and killing many of the remaining magi and their servants. Overcome with guilt, Crenvalus organized a mass grave for those of the fallen who could be recovered. David helped him carry their bodies to the burial chambers below, and then he sealed the tunnel with a solid wall of stone. Then, here in the simple chamber once used for covenant records, he composed his final message before taking his own life.
 
@@ -2565,7 +2565,7 @@ David stood loyally by his side through all this, and after seeing the wizard fa
 
 Soon, Crenvalus came to understand the intricacies of his new form, though he lost much of his wisdom and became driven instead by paranoia, and he eventually pushed his incorporeal form through the great wall he had created to join the other ghosts in the chambers below. Having seen the devastation and ruin he has wrought, he will not choose to leave the treasure chambers now, but instead remains with his *sodales*, guarding their precious Bell against those who would steal it.
 
-### **THE TUNNEL**
+### THE TUNNEL
 
 Once they discover a way past the wall, the characters will find a tunnel fashioned into a ramp that spirals down into the darkness. The walls are very rough-hewn and uneven, as if they were dug out with a huge scoop, and the ramp descends forty feet, making four complete revolutions.
 
@@ -2573,7 +2573,7 @@ Thoughtful characters (Intelligence + Awareness of 15 or more) will realize that
 
 If Paulo is still with the characters, you may want to remind them of his unpredictable tendencies by having him yell and begin causing trouble again. Characters should have a chance to remember his violent temper and the power of his war hammer before they proceed down the tunnel.
 
-#### **PERILOUS SUN**
+#### PERILOUS SUN
 
 Halfway down the ramp is a stylized picture of the sun with three clouds surrounding it etched into the ceiling. Have players make a Perception + Awareness roll of 9+, but roll a separate die yourself. If any players succeed when you roll a 0, tell them that they see the symbol of Calebais instead (a broken crown with three flames), until they examine the picture more closely. This extra roll may throw off players who have come to rely on Perception rolls.
 
@@ -2581,7 +2581,7 @@ As the first character walks past this motif, a thunderbolt flies from its cente
 
 Only the first character to pass the trap is struck, since it only activates once every twenty rounds, but if anyone says "Corona fracta est" (coh-ROH-nah FROCK-tah est, "The crown is broken") while standing beneath the picture, or in fact any sentence in Latin that contains the words for "broken" and "crown," the trap will be disarmed for several minutes.
 
-#### **PERILOUS WATER**
+#### PERILOUS WATER
 
 Just after the corridor turns again, it will be evident that water is seeping in through cracks in the wall and trickling down the ramp. The rest of the journey is very tricky, because the wet rock is very slick. All characters should make Dexterity + Athletics - Encumbrance rolls against an Ease Factor of 12 to avoid sliding down the ramp (remember to take into account Virtues like Perfect Balance and Troupe Upbringing). Falling characters can catch themselves by succeeding on a subsequent Dexterity + Athletics roll against an Ease Factor of 9, but otherwise they tumble all the way to the bottom and suffer +16 damage.
 
@@ -2597,7 +2597,7 @@ Characters caught in the deluge will be dashed against the stone floor and knock
 
 in. The caverns will fill almost completely with water, but characters who are able to stay afloat (ditching heavy armor) can eventually work their way out. Retrieving the spoils of the treasure vault at this point will be extremely difficult without powerful Rego magic and either the ability to breathe underwater or some way to drain the area fast enough to keep ahead of the flood.
 
-### **TREASURE CHAMBER**
+### TREASURE CHAMBER
 
 A great deal of treasure was stored in this room at one time, but almost all of it has rotted away under the still waters. Characters will feel the ground slide about beneath their feet as they wander about. If they start digging through the muck, they will find an assortment of ruined goods: pieces of furniture, metal rods, lengths of chain, carved chess pieces, tattered tapestries, rusted arms and armor, and more. Feel free to reward tenacity by slipping in exotic objects that might be useful in a lab or lead to other stories.
 
@@ -2605,13 +2605,13 @@ Three large chests sit spaced across the far wall, their lids clearing the surfa
 
 Whenever any of the chests are opened, a pair of magical hands similar to those in the spell *Hands of the Grasping Earth* (ReMuTe15) — will emerge from the ground in front of the chest and grab the ankles of the closest person within five feet. They require a Strength roll against an Ease Factor of 12 to break free, though the water will cause them to deteriorate over time, reducing the Ease Factor by 3 each round. At the same time, two arms of a similar consistency emerge from the wall and begin to pummel the immobilized character with one-two punches (combat totals: Init +0, Attack +7, Defense +4, Damage +8). Each set has +25 Soak and no magic resistance, but hacking weapons do double damage against them. If not otherwise dealt with, they vanish at sunrise or sunset. Fortunately, the grasping hands will probably prevent unconscious characters from drowning, but unfortunately they are not easy to escape, especially while being punched in the face.
 
-#### **CORRIDOR AND PITFALLS**
+#### CORRIDOR AND PITFALLS
 
 At the north side of the cavern is a corridor twenty feet long leading into the second cavern. In the middle of this corridor is a pit, the effect of which has been somewhat altered now that the area has been submerged in water. It is ten feet across and twenty feet deep, with spikes at the bottom, and an illusion of floor covering it. Characters cannot see this illusion because of the water, and if they step into the pit, they will not sink quickly enough to damage themselves, though they could drown if they are wearing heavy armor. They will need to make Strength + Swim - Burden rolls against an Ease Factor of 6 to make their way back to the surface.
 
 When characters come within ten feet of the pit, have them make a Perception + Awareness roll. A large boulder with accompanying noise will appear behind them, as if it rolled in from somewhere in the other room, and any characters who did not botch their roll will see it coming towards them. This boulder is an illusion, intended to make intruders run towards the pit, but since it was not designed to account for water on the ground, something about it will look and sound odd to characters with a roll of 6 or better. Those with 12 or more on the roll, or anyone who stops to take a close look at it, will perceive exactly what is wrong with it and see through the illusion.
 
-#### **GRANORDA**
+#### GRANORDA
 
 Granorda loves mortal men and all of the decadent pleasures of life, even in death. Yet despite her specialty in necromancy and her hedonistic interests, she is generally an honest, open woman interested in justice and the survival of all that is pure and beautiful in the world. Underneath her brash exterior she is a caring, compassionate soul who is genuinely concerned for the well being of others.
 
@@ -2635,7 +2635,7 @@ Now, Granorda is also obsessed with her death and her physical remains. She is i
 
 and thanks, and soon go to her eternal rest. However, even if she had been their "leader," the other magi will certainly object to this, and they will fight twice as hard to prevent the characters from taking the Bell without their consent.
 
-### **CRENVALUS**
+### CRENVALUS
 
 Crenvalus has a distinct dislike of not being in control of a situation, and in life he took great pleasure in manipulating the actions of other people. It was his constant efforts to take charge of the covenant and his repeated squabbles with Ornath that precipitated the Sundering, and his ill-planned vengeance that made him finally realize he was also unfit to rule. Yet when he realized that death was not the end for him, he found he could not bear the thought of anyone else ruling Calebais, or else he decided he really wanted to continue after all, and acted to ensure that no one would ever disturb the covenant again.
 
@@ -2653,7 +2653,7 @@ When the characters arrive, Crenvalus will decide that Larine betrayed them. Dur
 
 If asked about the skeleton in the portal, Crenvalus will try to remain calm and explain that there was an accident; a companion was helping him carry bodies of the fallen to a mass grave, he will say, and became trapped in the doorway. He could not help him because he was already dead by then. He will then quickly change the subject. If David has come with the characters, there will be no time for talk, as a battle will begin immediately once David sees him and begins using his command powers. If confronted and killed by his hand, both Crenvalus and David will be laid to rest, free to go to wherever their spirits ultimately belong.
 
-### **UDERZUS**
+### UDERZUS
 
 Hot-tempered and cynical, when Uderzus first meets the characters, he will probably size them up and ask, "Well, what are you waiting for? Don't you know how to loot a treasure trove?" He likes people who are able to accomplish things, and will scorn those who fail. He may indirectly warn the characters that they face more danger here than they think, but after that he will simply wait and watch to see how they deal with it.
 
@@ -2694,7 +2694,7 @@ Dodge: Init -2, Attack +0, Defense -2, Damage +0
 
 *Ghostly Vis,* 1 or more points (special), -2, by spell: Granorda can permanently expend her Magic Might as vis, with each point equivalent to one pawn.
 
-#### **Spells Known:**
+#### Spells Known:
 
 *Charm Against Putrefaction* (CrCo10/+49)
 
@@ -2718,7 +2718,7 @@ Dodge: Init -2, Attack +0, Defense -2, Damage +0
 
 death, but is suspicious of Crenvalus's "accident." Secondly, while he knows that Pitsdim caused the most damage to the covenant, he wonders why the other magi (especially Granorda and Crenvalus) did not settle their differences to deal with their common enemy. Finally, he believes that Crenvalus did something terrible to the covenant, some great and disastrous spell, but does not know what it was, because it happened after he and Granorda died and Crenvalus will not speak of it.
 
-### **BURIAL CHAMBER**
+### BURIAL CHAMBER
 
 This chamber contains 22 different corpses hidden beneath the water, five of which are incomplete (only arms, heads, or the like). Characters wading into the room will invariably run
 
@@ -2770,7 +2770,7 @@ Dodge: Init +2, Attack +2, Defense +5, Damage +1 Staff: Init +2, Attack +4, Defe
 
 *Possession*, 3 points, +2, Mentem: Crenvalus can take over a living body as if it were his own. Each round, the victim may make an Intellegence roll to resist, adding an appropriate Personality trait (e.g. Rebellious). On a 12+, Crenvalus is driven out. On a 9+, the two wills are in conflict and neither may act. Otherwise, Crenvalus may use the body as he wishes, including casting his spells in the physical realm.
 
-#### **Spells Known:**
+#### Spells Known:
 
 *Tossing the Brawling Brute* (ReCo10/+70): Throws a person 15 feet in the air or 25 feet in any direction, causing falling damage if a solid object intervenes (Base 4, +2 Voice).
 
@@ -2908,7 +2908,7 @@ are tattered and decayed.
 
 If the players are doing badly, Granorda might end her spell, intending to speak sharply to the characters after properly chastising them. Uderzus might also intervene, driving Crenvalus back with his lance and casting *Wind of Mundane Silence*, berating the characters for allowing things to reach this point. If he is overpowered, Crenvalus will go completely mad, and charge out of the room shouting "Larine has brought our doom; let us bury this covenant and our pitiful dead forever!" He will race out of the vaults, intending to make his way to the surface and shake the entire covenant to pieces, but he will settle for the tunnel. If the characters don't stop him, he will cause another earthquake that could collapse the treasure chambers, and will certainly release the deluge described above.
 
-#### **BELL CHAMBER**
+#### BELL CHAMBER
 
 The third chamber, assuming the caverns haven't been destroyed or flooded, is filled with three feet of water. In the center is the Bell of Ibyn, the legendary device described in Crenvalus's letter, which provided a magical warning system for the covenant of Calebais worthy of the wizards who founded it. There is also a small chest beside the Bell, completely submerged, in which may be found three more diadems (see page 78).
 
@@ -3014,7 +3014,7 @@ When the abbess arrives, she will brusquely ask the characters their business, a
 
 sisters try to avoid staring at them. If the characters ask about Sister Larine, the nuns will look surprised and say very sorrowfully that she has died. They will answer no other questions, silently shaking their head and politely returning to work. If the characters force them to talk, or speak sharply to them, the nuns will grow very agitated and try to avoid them, and word will spread throughout the convent of the uncouth strangers.
 
-### **SISTER HEDWIG**
+### SISTER HEDWIG
 
 An aristocrat from birth, Hedwig now enjoys a position of respect similar to a baroness. Within the convent, she is indisputably in charge, making all decisions that affect their relationship with the outside world: entertaining visitors, expelling unwanted members, overseeing repairs and new construction, and so on. Her authority does not bother the other nuns, at least the more spiritually advanced among them, as it means that they need not bother with such matters, and can concentrate on bettering themselves. She is generally a good leader, but very used to getting her own way.
 
@@ -3074,7 +3074,7 @@ If they stay, Sister Hedwig will secretly arrange several tests for the characte
 
 **Roleplaying Tips:** No matter what anyone else says, react to it as badly as you can, and let your thoughts show clearly on your face. Stare people in the eye, as that's the best way to see into their hearts, but look away disdainfully if they stare back. Remember that even though you are vile and constantly suspicious, you're also a nun.
 
-#### **SISTER PALONA**
+#### SISTER PALONA
 
 Sister Palona finds meaning in life by strictly separating the divine from the diabolical. Everything in the world must be either from God or from the devil, and she is intent to determine which side the characters favor, as that is how she interprets the duties that Sister Hedwig has assigned her. She is very sharp, and will report everything she finds to the abbess, who is wise enough to extract the truth from Palona's polar views. Though arduous and difficult, Sister Hedwig finds her extremely valuable as she is well-versed in law and an excellent orator.
 
@@ -3084,7 +3084,7 @@ When she was young, Palona fled her home and inheritance with a lover, intending
 
 
 
-#### **SISTER ALICE**
+#### SISTER ALICE
 
 Alice is a poet of sorts, deeply immersed in the ascetic mysticism that the Cistercian order supports and encourages. Local theological scholars may have read her verses concerning emotional imagery of heaven, or descriptions of dreams she has had of Christ motioning to the wound in his side. She frequently has divine visions which have led to her increased commitment to holy pursuits and peace of mind. She will not take much notice of the characters unless they have something of spiritual significance to say, but her first impressions of them will be accurate and deep, and Sister Hedwig will greatly value her insights. If the characters have truly helped others in the past, Alice will recognize this and suggest that the abbess aid them in return.
 
@@ -3110,7 +3110,7 @@ Joyous +1
 
 them this in her own terms: "If you wish to touch me with your will, you must first bring your heart closer to God. You are twelve great steps removed from the edge of my sphere; you have turned your back on Him and pursued His shadow upon the earth before you; yet the distance is not so much that you cannot make your way back with His help, if only you would turn your gaze to the light."
 
-#### **SISTER MALORES**
+#### SISTER MALORES
 
 This beautiful young woman is actually a faerie who once lived in the wild areas tamed by the sisters. The Dominion makes her slow-witted, and she was found unconscious by local villagers and brought to the nunnery. With nowhere else to go, Malores eventually became a nun herself, but from what she understands of theology, she worries that she cannot go to heaven when she dies as she does not have an immortal soul. Occasionally, she acts in strange ways and has been severely punished in the past for leaving the dormitory to pray beneath the full moon. Sister Palona says of her "She is corrected by word of mouth without result; she is urged by blows but there is no improvement."
 
@@ -3137,7 +3137,7 @@ eyes or a slight point to her ears.
 
 can. She cannot speak within the divine aura, but if she spends a month in a magical or faerie place, she will regain her voice.
 
-#### **SISITER NADALINE**
+#### SISITER NADALINE
 
 Nadaline was Sister Larine's closest friend, for they were very close all of her life at the convent. Nadaline was given to the convent soon after Larine joined, and they latched on to each other. There are many things about Larine that puzzled Nadaline, in particular her love of the sound of the church bell. Once she said that "the bell could hear her devotion," but did not elaborate. Nadaline refuses to answer questions about her past or Larine's, and becomes very angry if pressed about it, because she knows very little and misses her very much. She works hard and obeys her superiors. She generally dislikes the sisters who come from noble descent, as she feels they are incapable of hard work. She does not allow criticism in her kitchen, though in other places she is more meek and retiring.
 
@@ -3395,15 +3395,15 @@ Note that familiars have many similarities to *animula*, as they are also intell
 
 Since *animulae* can have human characteristics, Abilities, Virtues and Flaws, and other attributes, it is possible to play one as a character, as long as your troupe approves. They are probably best suited to companions, as this emphasizes their uniqueness, though like Ierimyra an Animal-oriented magus might choose to awaken a *turba* of animal grogs, despite the difficulties they would have interacting with others. If you intend to play such characters, design them as normal, and assume any natural advantages you gain due to size or rarity are compensated by the increased difficulties you will face avoiding and interacting with others, and with finding other magical animals like yourself. Here follows several Virtues and Flaws appropriate for an awakened animal character, including the *Animula* Status Flaw.
 
-#### **MAJOR STATUS FLAW (REQUIRED)**
+#### MAJOR STATUS FLAW (REQUIRED)
 
 **Animula:** You are an animal that has been granted magical intelligence by a benevolent magus. Few people at your covenant treat you with respect, and you are usually considered a lesser person, in many ways a natural slave or servant. Outside the covenant, you frighten people so terribly that they probably attack you on sight. This flaw essentially encompasses three minor flaws: Judged Unfairly, Feral Upbringing, and Social Handicap, all of which you possess, though their penalties vary depending and are magnified when you are among humans or normal animals of your species. You age as an animal, not a human, so you may begin making aging rolls much earlier in life. Finally, you have Magic Might equal to 10 – your Size (add your Size if it is negative), and if killed your corpse could contain a number of pawns of vis equal to your Magic Might divided by 5, of an Art appropriate to your form.
 
-#### **MAJOR GENERAL VIRTUES**
+#### MAJOR GENERAL VIRTUES
 
 **Greater Powers:** You were imbued with great powers by the wizard who awakened you. Take up to 60 spell levels in magical effects, or spend 10 of these levels to reduce the cost of one of your powers by 1 point, though not below 0. You may take this Virtue more than once.
 
-### **MINOR GENERAL VIRTUES**
+### MINOR GENERAL VIRTUES
 
 **Ferocity:** Like companion and magus characters, you have Confidence points, even though you are only a grog. However, your Confidence points may be used only in situations where your natural animal ferocity is triggered, such as when defending your den or fighting a natural enemy. Describe a situation that activates your Confidence, and take three points for you to use when those circumstances are met.
 
