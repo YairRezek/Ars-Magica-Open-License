@@ -27,6 +27,7 @@ You can straight open a markdown in google docs, word, (modern) notepad - or use
 <br/>
 **Note:** *The excellent folks at redcap.org also have a project to provide these materials to the public on their wiki. However the project seems to have slow progress as of late, and at a less complete stage than this (redcap team is welcome to grab anything here to help of course).
 https://www.redcap.org/page/Ars_Magica_Open_Content_Conversion_Tracker*
+EDIT: YR7 of that project is now helping with this and the plan is to convert from Markdown to Mediawiki for redcap.org once files are polished up a bit more.
 <br/>
 <br/>
 <br/>
