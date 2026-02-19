@@ -1,16 +1,18 @@
 # Ars Magica Definitive Edition
 
+*Open License Markdown version by OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License*
+
+*Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
 
 
-### Step into a Medieval World of Magic & Myth
+
+## Step into a Medieval World of Magic & Myth
 
 In Ars Magica, the superstitions of the common folk are all true. Faeries drink milk left on doorsteps, demons roam the countryside, and wizards wield magic beyond the ken of mortals.
 
 Step into this magical medieval world as a powerful magus of the Order of Hermes, as their talented companion, or as a loyal grog who protects them.
 
 The Definitive Edition of the award-winning Ars Magica RPG is the ultimate roleplaying experience. It's a heavily expanded version of the Fifth Edition core rulebook.
-
-
 
 
 ## Credits
@@ -91,7 +93,7 @@ ISBN: 978-1-58978-251-8
 Made of FSC®-certified paper that was responsibly sourced.
 
 
-# Memorials
+## Memorials
 
 
 Spanning nearly 40 years, Ars Magica is an intergenerational game that has sparked long-lasting communities across the globe. Our crowdfunding campaign comments were filled with memories of loved ones gone to Final Twilight, for whom Ars
@@ -196,7 +198,7 @@ Magica was a signifiant part of their lives. Here we pay tribute to the memory o
 
 **RICHARD B. WHITE**
 
-# Preface
+## Preface
 
 There's so much to love about Ars Magica, and it's gratifying to see it find an enduring place in the hearts of so many gamers. Mark Rein•Hagen and I put everything we had into this game, and it shows.
 
@@ -227,18 +229,18 @@ I even love the title. "Ars Magica" is an unfortunate title for a game that no o
 And I love that you now have this amazing edition in your hands. Enjoy!
 
 Jonathan Tweet
- Ars Magica Co-Creator
- December 2024
+Ars Magica Co-Creator
+December 2024
 
 
-# Table of Illustrations
+## Table of Illustrations
 
 | Dave Allsop       538         John Cobb       210, 415         Christian Bravery       52         Liz Danforth       31, 33, 115, 265         Thomas Denmark       153-154, 200, 222         Jaume Fabregat       445, 446, 447, 448, 449, 457, 458, 463, | DOMINIC REARDON       106, 237, 278, 410         J. SCOTT REEVES       79, 436, 491         ADAM REX       89, 246         JOHN SCOTELLO       114, 231, 517         PAM SHANTEAU       234         DOUG SHULER       1-2, 4, 26, 39, 59-60, 155-156, 201-202,                                                                 |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 466, 473, 474, 480, 491  ERIC HOTZ                                                                                                                                                                                                                        | 247-248, 299-300, 312, 373-374, 380, 423-424, 513  MARK "JOCK" SIMPSON 286, 321, 330, 529  CHRISTIAN St. PIERRE 174, 204, 289, 302, 313, 328, 350, 358, 364, 396, 417, 516  GREY THORNBERRY 5, 10, 22, 37, 38, 39, 40, 41, 42, 43, 58, 88, 97, 108, 112, 127, 129, 133, 142, 144, 149, 160, 177, 216, 229, 250, 261, 269, 338, |
 | ENEKO MENICA 493-494  EMILIA NEPHEW 427, 429, 431, 433, 434, 435, 446, 457, 461, 464, 465, 467, 468, 469, 470, 471, 472, 485, 486, 487, 492  JOSEPHINE NEPHEW 92, 443, 452, 453, 455, 456                                                                 | 347, 348, 351, 362, 377, 403, 419, 489, 498, 507, 522, 525  BRYON WACKWITZ 62  MICHAEL WEAVER 158, 170, 180, 187  KATHERINE WYMAN 430, 432, 459  UNSIGNED 70, 295, 306, 329, 336, 340, 356                                                                                                                                     |
 
-## Public Domain Artworks
+### Public Domain Artworks
 
 |                                                  |                                                              |
 | ------------------------------------------------ | ------------------------------------------------------------ |
@@ -259,26 +261,25 @@ Jonathan Tweet
 | Various Sources                                  | 135, 159, 186, 257, 298, 316, 324, 361, 398                  |
 
 
+## Table of Contents
 
-# Table of Contents
-
-| ii  | Credits                         | 423 | CHAPTER 13: Bestiary                        |
-|-----|---------------------------------|-----|---------------------------------------------|
-| iv  | Memorials                       | 493 |                                             |
-| V   | Preface                         |     | Mythic Europe                               |
-| vi  | Table of Illustrations          | 495 | Chapter 14: Mythic Europe                   |
-| 1   | Chapter 1:<br>Introduction      | 515 | CHAPTER 15:<br>STORIES                      |
-| 9   | Chapter 2: Order of Hermes      | 523 | CHAPTER 16:<br>SAGAS                        |
-| 25  | CHAPTER 3:<br>CHARACTERS        | 535 | Appendix A:<br>Editor's Note                |
-| 59  | Chapter 4:<br>Virtues & Flaws   | 536 | APPENDIX B: ARS MAGICA                      |
-| 155 | CHAPTER 5:<br>ABILITIES         | 527 | OPEN LICENSE                                |
-| 173 | CHAPTER 6: COVENANTS            | 33/ | APPENDIX C:<br>FOURTH EDITION<br>CONVERSION |
-| 201 | Chapter 7: Hermetic Magic       | 539 | Appendix D: Reference Guide                 |
-| 247 | Chapter 8:<br>Laboratory        | 553 | APPENDIX E:<br>SPELL INDEX                  |
-| 299 | CHAPTER 9:<br>Spells            | 557 | Appendix F: Bestiary Index                  |
-| 373 | Chapter 10:<br>Long-Term Events | 558 | Appendix G:<br>Traditional Index            |
-| 393 | CHAPTER 11:                     | 569 | Appendix H:<br>Character Sheet              |
-| 409 | OBSTACLES CHAPTER 12: REALMS    | 573 | APPENDIX I: FIFTH EDITION LINE              |
+| ii   | Credits                         | 423  | CHAPTER 13: Bestiary                        |
+| ---- | ------------------------------- | ---- | ------------------------------------------- |
+| iv   | Memorials                       | 493  |                                             |
+| V    | Preface                         |      | Mythic Europe                               |
+| vi   | Table of Illustrations          | 495  | Chapter 14: Mythic Europe                   |
+| 1    | Chapter 1: Introduction         | 515  | CHAPTER 15:  STORIES                        |
+| 9    | Chapter 2: Order of Hermes      | 523  | CHAPTER 16: SAGAS                           |
+| 25   | CHAPTER 3: CHARACTERS           | 535  | Appendix A: Editor's Note                   |
+| 59   | Chapter 4:<br>Virtues & Flaws   | 536  | APPENDIX B: ARS MAGICA                      |
+| 155  | CHAPTER 5:<br>ABILITIES         | 527  | OPEN LICENSE                                |
+| 173  | CHAPTER 6: COVENANTS            | 33/  | APPENDIX C:<br>FOURTH EDITION<br>CONVERSION |
+| 201  | Chapter 7: Hermetic Magic       | 539  | Appendix D: Reference Guide                 |
+| 247  | Chapter 8:<br>Laboratory        | 553  | APPENDIX E:<br>SPELL INDEX                  |
+| 299  | CHAPTER 9:<br>Spells            | 557  | Appendix F: Bestiary Index                  |
+| 373  | Chapter 10:<br>Long-Term Events | 558  | Appendix G:<br>Traditional Index            |
+| 393  | CHAPTER 11:                     | 569  | Appendix H:<br>Character Sheet              |
+| 409  | OBSTACLES CHAPTER 12: REALMS    | 573  | APPENDIX I: FIFTH EDITION LINE              |
 
 
 
@@ -8839,7 +8840,7 @@ Specialties: as appropriate to the craft. (General)
 
 Crafter's Healing\*: When using this Ability, each wound can only be treated once, regardless of its severity. Make a Presence + Crafter's Healing + stress die roll against an Ease Factor equal to the Improvement Ease Factor determined by the
 
-# Corpse Magic Case Pactor Outcome
+# Corpse Magic Ease Factor Outcome
 
 - 9 Speak to the dead. The corpse is not compelled to answer truthfully or directly, although it may do so anyway.
 - Protect a corpse from being affected by further Corpse Magic. Any attempt to do so has the Ease Factor increased by the Corpse Magic score of the character.
@@ -9352,7 +9353,7 @@ There are over a dozen magi in the covenant, and the oldest four form a ruling c
 
 Autumnus has another, much smaller, covenant in a different Tribunal under its protection. Young magi are often given the job of going to help this covenant, which is occasionally awkward, as they are younger than the older magi at the other place. However, having solid contacts in another Tribunal is politically extremely useful, as another strong Autumn covenant is a major rival. The origins of the rivalry are embroidered whenever they are told, but basically the Tribunal isn't big enough for two covenants of this power; they found themselves constantly stepping on each other's toes. The struggle has stayed within the Code so far, but if one side starts to clearly lose, it may not stay there.
 
-## Cinter
+## Winter
 
 Winter covenants are in decline, and on their way to oblivion. They are normally filled with old and peculiar magi, with little interest in recruiting new blood. However, sometimes new recruits are brought in, and the covenant moves round to Spring once more.
 
@@ -9360,7 +9361,7 @@ Pulling a Winter covenant through to Spring is a good saga concept for players w
 
 Experienced players might also want to play the old magi in a Winter covenant, concentrating on their own interests as the covenant slowly crumbles around them.
 
-## Diems
+## Hiems
 
 Hiems is a Winter covenant. It is of medium power (page 178), and Winter Ruins (page 178). The covenant now has only six magi, whereas once it had over a dozen, and the number of covenfolk has shrunk by an even greater factor. As a result, the complex of caves, tunnels, and towers covering most of a magical forest is largely uninhabited. The routes between the residences of the remaining magi and the central facilities (library, council room, kitchens) are well-maintained, but there are other areas that no-one has entered for years.
 
@@ -9410,7 +9411,7 @@ Hooks: Contested Resource (Minor), Poverty (Major)
 
 > Boons: Aura (Minor) x2, Regio (Minor), Seclusion (Minor)
 
-## Trban
+## Urban
 
 The covenant is hidden in a regio in a city. While this makes reaching a market easy, it brings its own problems. Tolosa Paratge, in the Provençal Tribunal, is an example of such a covenant (Faith & Flame, page 38).
 
@@ -9429,7 +9430,7 @@ Boons: Aura (Minor) x2, Edifice (Minor) x2,
 Hidden Resources (Minor) x3
 
 
-# Qustomized Quenant Qreation
+# Customized Covenant Creation
 
 
 he covenant should be created by the whole troupe, working together. The first step is to create a solid covenant concept, before picking the
@@ -9759,7 +9760,7 @@ The 'Loyal to Covenant' Personality Trait of any individual within the covenant 
 
 To calculate Prevailing Loyalty, calculate the total modifier for each magus in the covenant as given in the nearby table, then divide by the number of magi in the covenant.
 
-## $B{\text{ASE}} \ L{\text{OYALTY}} = \\ total \ of \ Gift \ modifiers / number \ of \ magi$
+## LOYALTY = total of Gift modifiers number of magi ???
 
 Make a note of this Base Loyalty, for if the membership of the covenant changes, adjustments will need to be made to Base Loyalty without affecting any later modifications in loyalty due to player actions. The total **loyalty points** are
 
@@ -9842,12 +9843,11 @@ One Mythic Pound is equivalent to a pound of silver, the annual income of a typi
 | 12     | Deliberate Cruelty  | Brutal Punishment                          | Incapacitating     | Widespread hardship |
 | 15     | Heinous Malfeasance | Brutal Punishment clearly enjoyed by magus | Death              | Devastating event   |
 
-# 
 
-## Covenant Pinances
+## Covenant Finances
 
 
-ovenants almost always need some source of mundane wealth to obtain things like food and clothing. Even those that are entirely self-sufficient have a
+Covenants almost always need some source of mundane wealth to obtain things like food and clothing. Even those that are entirely self-sufficient have a
 
 source of mundane wealth — it just provides food and clothing directly. It is entirely possible to play the game while leaving these matters entirely in the background, but this section is for troupes that want a bit more detail in the finances of the covenant, so that they can tell stories about increasing its wealth, or about dealing with threats to its mundane income. The *Covenants* supplement has a lot more detail on this topic, and *City and Guild* provides more general rules and background for craft and trading that covenants could also use to make money.
 
@@ -10067,7 +10067,7 @@ WAGES COST:
 
 (This is equivalent to one penny per point of inhabitants, per week.) Add 1 pound per each penny that is paid daily to any professional soldiers in the covenant's service.
 
-## Ceapons and Armor
+## Weapons and Armor
 
 Almost all covenants have a turb of warriors, who are outfitted with weaponry and armor, and some have an additional store of weapons, or even an arsenal. This equipment needs to be regularly cleaned, repaired, and (every so often) replaced. However for a small turb with modest outfitting, this cost is likely to amount to only a couple of pounds per year.
 
@@ -11321,7 +11321,7 @@ Too powerful: The spell does more than it should and thereby causes problems.
 
 Wrong target: Pick a new one at random.
 
-## Carping
+## Warping
 
 Warping affects everyone, not just Hermetic magi, so it is described in the Long Term Events chapter, page 389. Note that magi gain one Warping Point for every zero on the botch dice when they botch a spell.
 
@@ -11589,7 +11589,7 @@ ysteries are paths to greater magical power requiring sacrifices beyond the time
 
 mysteries, and four of the Houses are Mystery Cults — organizations that teach a mystery. Extensive details on the mysteries of the Hermetic Houses are given in Houses of Hermes: Mystery Cults, while The Mysteries Revised Edition gives extensive information on other mysteries found within the Order of Hermes. This section provides information about the outermost laver of the House mysteries, and one of the deeper mysteries for each House. Player characters in the Mystery Cult Houses are Initiated into the Outer Mystery as apprentices, but must seek Initiation into deeper mysteries in play. Rules for Mystery Initiation are given in the Long-Term Events chapter, on page 387.
 
-## Bjornaer — The Neartbeast
+## Bjornaer — The Heartbeast
 
 Bjornaer magi can take the form of a single mundane creature. This is usually an animal or bird, but it can be a plant. The heartbeast is always a living thing, and usually a noble creature. No known magus has had an earthworm heartbeast, for example. A maga's heartbeast displays a central aspect of her nature, so that her personality, even in human form, will resemble that of the creature. Initiates of the Bjornaer mystery gain the Ability Heartbeast. This Ability cannot be gained by any character who has not been Initiated into the mystery. For Initiates of the Outer Mystery, the Heartbeast Ability is only used when something tries to stop the magus changing forms. In that case, a roll of Stamina + Heartbeast against an Ease Factor set by the storyguide allows the character to change anyway.
 
@@ -11737,7 +11737,7 @@ Temporary charms may only be used once, as they always include unique properties
 
 These Mysteries deal with illusions and images, including aspects of the physical world that faeries can see but most humans cannot. These include unusual durations for Faerie Magic spells that can last nearly forever.
 
-## Mustery Cult: The Pollowers of Pendule
+## Mystery Cult: The Followers of Pendule
 
 Pendule is regarded as something of a legend within the Order; no one knows how much of his tale is true and how much is fanciful. According to the stories, the Provençal wizard was discovered by Flambeau and refused when given the choice to "join or die." He was powerful enough to evade the fiery Founder and his followers who sought to destroy him, and many comedic tales depicting Pendule as a trickster defeating the mighty and blustery Flambeau with wit and illusions have become part of Hermetic lore.
 
@@ -11821,7 +11821,7 @@ A Verditius naturally reinforces Verditius Runes as part of the enchantment proc
 
 Verditius magi need casting tools to cast Formulaic or Ritual spells. They make these themselves, in a form that appeals to them, and it only takes an hour or so to make a new one. However, if they lose or cannot reach their tools, they cannot cast their Formulaic spells. Spontaneous spells do not require casting tools, although Flaws hampering Spontaneous magic are very common among the Verditius.
 
-## Dubris
+## Hubris
 
 A magus's first Initiation into an Inner Mystery of House Verditius is always accompanied by an Ordeal that gives him the minor Flaw: Hubris. Every Verditius magus who seeks knowledge of the Inner Mysteries is plagued by this psychological shortcoming, the growth of exaggerated self-esteem. The magus realizes the worldly benefits he can reap from his magical creations, and his prideful image of himself blossoms. At first this is just a slight personality shift, but as the Verditius magus profits from his magical craft, his hubris grows. This trait, which beleaguered the founder, is inherent in the magic of the Inner Mysteries. In game terms, characters receive the Minor Personality Flaw: Hubris and the corresponding Personality Trait: Hubris 1.
 
@@ -11954,7 +11954,7 @@ Embitterment is a Major Supernatural Ability that allows the speaker to make a l
 
 To embitter a target, the player states the exact specifications of how the target will act against the intended victim. He then rolls the character's Communication + Embitterment + a stress die and compares it to a variable Ease Factor, which depends on the level of aggression he wishes to instill, and the level of loyalty possessed between the target and the former ally. Since this is a Supernatural Ability, the roll always uses a stress die. The Embitterment power of the Nemthengacha is a Magic power for purposes of determining its interaction with the other realms of power; it seems likely that an Infernal version also exists.
 
-## $E{\text{MBITTERMENT}} \; Roll: \\ Communication + Embitterment + Stress \; Die \\$
+## Roll: Communication + Embitterment + Stress Die
 
 Consult the following chart to determine the Ease Factor.
 
@@ -12816,7 +12816,7 @@ Few apprentices purposefully gain Hermetic Flaws. A player can always select a H
 The two most common ways characters gain Hermetic Flaws are through learning Hermetic Virtues, and as a consequence of game play. As mentioned previously, it is easier to learn a Hermetic Virtue from a teacher if that teacher includes a Hermetic Flaw in the process. Hermetic magi do not fully understand why this is so, but like Mystery Cult Initiations, tainting the learning process with an incurred liability makes instruction easier. The second way characters gain Hermetic Flaws is through play. Uncontrolled Temporary Twilight episodes are a frequent cause, bestowing Hermetic Flaws on an apprentice in the same way they grant Hermetic Flaws to a magus (page 230). Gaining a Hermetic Deficiency Flaw during the opening of the Arts is another path to receiving a new Flaw during play. Some Supernatural creatures have the power to grant Minor and Major Flaws, and while these aren't always Hermetic, they can be. These Flaws are not necessarily permanent and many are temporary inconveniences. Realms of Power: Madic and Realms of Power: Faerie have details and example creatures.
 
 
-# Pleshing Out Your Apprentice
+# Fleshing Out Your Apprentice
 
 The basic benefit that an apprentice provides you is the addition of his Intelligence and Magic Theory scores to your Lab Totals (see page 264). If all you want is a lab assistant, you only need to keep track of your apprentice's Intelligence and Magic Theory scores, and after fifteen years, your apprentice becomes a full magus and leaves your service.
 
@@ -13018,7 +13018,7 @@ If your stabilization season succeeds, you gain one breakthrough point per magni
 
 As a side affect to this stabilization process, you receive Warping Points from your attempts to understand this new magic. The number of Warping Points gained is the magnitude of the effect minus a simple die. If you gain 2 or more Warping Points you must roll to avoid Wizard's Twilight (page 228). You can obviously mitigate the chance of gaining Warping Points by experimenting with lower magnitude effects. However, this lengthens your original research process, since it is your accumulated effect magnitudes that ultimately add up to your Breakthrough. Experimenting with higher magnitude spells hastens you toward your Breakthrough and increases your risk of Wizard's Twilight.
 
-# $\begin{array}{c} W{\text{ARPING}} \ P{\text{OINTS}} \ G{\text{AINED}}; \\ The \ \text{magnitude} \ of \ the \ Stabilized \ Discovery} \\ \text{-} \ a \ \text{simple} \ die \end{array}$
+# The magnitude of the Stabilized Discovery ???
 
 You receive Warping Points whether you succeed or fail at stabilizing your discovery. If your stabilization attempt fails, you may spend another season and try it again. You may continue to stabilize your discovery until you succeed, providing you spend consecutive seasons until you succeed and you do not suffer some dire event along the way.
 
@@ -13399,7 +13399,7 @@ For example, Darius (when he has a Magic Theory of 4) spends a season to increas
 
 General Quality is simply an overall measure of the effectiveness of the lab in all areas. General Quality adds to all Lab Totals. This bonus (or penalty, if the General Quality is negative) applies in addition to any other Lab Total adjustments (such as from Specializations). This Characteristic has no effect on teaching (except for teaching spells, which uses a Lab Total) or the scribing of texts.
 
-## Opkeep
+## Upkeep
 
 Upkeep specifies the monetary cost of building and maintaining the lab. For example, a lab with priceless ingredients may have a better General Quality, but it is also more expensive to maintain. A lab with an Upkeep of 0 costs 5 pounds to build and 1 pound per typical year of use to maintain. See Chapter 6: Covenants for the costs of labs with other Upkeep scores.
 
@@ -13545,7 +13545,7 @@ Minor Virtue, and two seasons to gain a Major Virtue. This time is occupied with
 
 Sometimes, the magus might wish to lose Virtues. This is not always possible, since some Virtues are due to fundamental properties of the lab (such as its physical location) which cannot readily be changed. Where it is possible, a Minor or Major Virtue can only be removed during a season or more of work to improve the laboratory (either by increasing the Refinement, or installing a different Virtue). For example, the magus can remove an existing Lesser Feature and replace it with a new one, in one season. Where it is possible to remove a Free Virtue, it can usually be done in a day or so.
 
-## Plaws
+## Flaws
 
 Flaws may be chosen either due to choice or to general neglect, or because you need to free up points of space to balance a new Virtue. There is no limit on their number and they take effect immediately. In the event of a lack of funds, you may also be forced to take a Flaw resulting in a lower Upkeep (see the Upkeep section, above).
 
@@ -13608,7 +13608,7 @@ No Stores: The lab has nowhere to store supplies, and so it cannot withstand any
 
 Greater Focus: An existing Greater Feature is the overwhelming focus of the lab, enhancing the Feature, but making activities that do not involve its use more difficult. –2 General Quality, 4 points among Specializations provided by the Feature.
 
-## Outfittings Virtues and Plaws
+## Outfittings Virtues and Flaws
 
 These Virtues and Flaws are due to the quality and quantity of the mundane materials and equipment that are in the lab, as well as any other inhabitants of the lab. Gaining or losing these Virtues and Flaws thus usually entails the purchase or acquisition of things to put in the lab, or the lack of (or defects in) such things.
 
@@ -14056,7 +14056,7 @@ Hermetic magic is capable of summoning spirits. Such magic brings the spirit ins
 If the target spirit is in Mythic Europe, a Formulaic (or Spontaneous) spell is sufficient. If the spirit is in another realm, such as the Magic Realm, Arcadia, Purgatory, or Hell, the spell must be a Ritual. (The Limit of the Divine, and possibly the Limit of the Lunar Sphere, puts Heaven out of reach.) Regiones count as part of Mythic Europe for these purposes, and it is important to note that a lot of spirits, including demons, spend most of their time in Mythic Europe.
 
 
-# Gase Pactors for Creating and Crafting Objects
+# Ease Factors for Creating and Crafting Objects
 
 The Ease Factors in the table below include the +3 adjustment for magic use, and assume that a mundane craftsman could complete the work in no more than a day. City and Guild contains more extensive rules for mundane craft (Chapter 4), and Art and Academe contains more rules for art (Chapter 8), which can be used to set more precise Ease Factors if the troupe desires. If you are using Workshop Totals from City and Guild, generate the equivalent Finesse Ease Factor by adding 3 to the Workshop Total, and then any modifiers for extra time required.
 
@@ -20319,7 +20319,7 @@ However, keeping track of the Warping Scores of every table in the covenant is u
 
 Creatures with a Might score are absolutely immune to warping. They are already fully part of one of the supernatural realms.
 
-\* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \*
+
 
 ## Gaining Warping Points
 
@@ -20381,7 +20381,7 @@ When a character botches the roll to invoke a supernatural effect (for example, 
 
 
 
-#### Warping Points and Constant Effects DESIGNED FOR/CAST NOT DESIGNED BY SUBJECT FOR OR CAST BY SUBJECT BRIEF EFFECT. 0 0 Low Power BRIEF EFFECT. 0 HIGH POWER CONSTANT Effect. 1/vear 1/vear Low Power CONSTANT 1 when cast, EFFECT, + 1/year 1/vear HIGH POWER + 1/season
+Warping Points and Constant Effects DESIGNED FOR/CAST NOT DESIGNED BY SUBJECT FOR OR CAST BY SUBJECT BRIEF EFFECT. 0 0 Low Power BRIEF EFFECT. 0 HIGH POWER CONSTANT Effect. 1/vear 1/vear Low Power CONSTANT 1 when cast, EFFECT, + 1/year 1/vear HIGH POWER + 1/season
 
 ## Effects of Warping
 
@@ -23970,7 +23970,7 @@ Vis: 3 pawns of Imaginem, as an immaterial echo Appearance: An echo. This spirit
 
 This spirit of an echo lurks in caves or ravines. Its name literally means "dwarf voice" in German, and these spirits have been known to mislead lost humans by "playing" with them. The spirit certainly has no intent to harm; it doesn't even understand what harm is.
 
-## Creatures of Paerie
+## Creatures of Faerie
 
 
 aeries are essentially bound to stories, and their roles in those stories. They are made up of stray matter held together with mystical rules.
@@ -24353,7 +24353,7 @@ Vis: None: the wolf is an extension of the valkyrie. Appearance: A wolf the size
 These minor goddesses of the Norse pantheon are no longer worshiped in Mythic Europe, but have been encountered by magi in Elysium, and in their ancient places of power in Scandinavia. Their name means "Chooser of the Slain", because they are believed to choose who lives and dies during battle, and which spirits are worthy of transformation into einherjar, spiritual warriors awaiting Ragnarok. They also act as serving maids in Valhalla. Many have names that evoke the tumult of battle. They ride through the sky, invisibly, on wolves.
 
 
-# if it wishes.
+if it wishes.
 
 ## Great Lezi Variants
 
@@ -25249,7 +25249,7 @@ Abilities: Awareness 10 (the uneducated), Charm 10 (pupils), Brawl 10 (fist), Le
 
 — Our'an 2:97
 
-#### Powers.
+#### Powers
 
 Enlighten, variable, Init +0, Mentem: Gabriel can implant any Knowledge into the mind of another, at a cost of 1 Might for every experience point implanted. He may not give any character knowledge that takes their Ability score over 15.
 
@@ -25553,13 +25553,15 @@ Of course, there is nothing to stop you from allowing the player magi in your sa
 ## Pieces of History
 
 
-he following sections cover the Mythic European setting, concentrating on the more historical, or historically legendary, aspects. The Realms
-
-and Bestiary chapters provide some more ideas on the purely fantastic aspects of the setting. This is not a history text. It is generalized to the point that nothing in this section was exactly true of any part of medieval Europe, and there are some places where the generalizations didn't apply at all. If you want more specific and accurate history for a particular area, there are several Tribunal books available for **Ars Magica** 5th Edition.
+The following sections cover the Mythic European setting, concentrating on the more historical, or historically legendary, aspects. The Realms and Bestiary chapters provide some more ideas on the purely fantastic aspects of the setting. This is not a history text. It is generalized to the point that nothing in this section was exactly true of any part of medieval Europe, and there are some places where the generalizations didn't apply at all. If you want more specific and accurate history for a particular area, there are several Tribunal books available for **Ars Magica** 5th Edition.
 
 Further, this is not a narrative history of medieval Europe. Such things are easily available in encyclopedias, if you want to read them. However, the sorts of details that are useful for adding historical flavor to a role-playing game are not the sorts of details that are necessarily easy to find.
 
 The information given in this section is most accurate for 1220, the 'official' date for **Ars Magica**. Using it will give your saga the feel of something happening between about 1000 and 1400, which is likely to be good enough to most troupes.
+
+> ### Beyond Western Europe
+>
+> The information in this chapter is focused on Western Europe — the region ruled by Christians who recognised the Pope as the head of the Church on Earth. This is a diverse area already, but there is a lot more to Mythic Europe, and supplements have covered it in more detail. Realms of Power: The Divine Revised Edition includes more information on Christianity, and also on Islam and Judaism. Against the Dark and The Sundered Eagle offer information about Eastern Europe, and the Orthodox Church. The Cradle and the Crescent covers the Middle East, while Between Sand & Sea and Lands of the Nile cover North Africa, as far south as Ethiopia.
 
 ## The Church
 
@@ -25573,36 +25575,24 @@ Much more information about the Church is available in *The Church*.
 
 There is one God, eternal and unchanging, who created the world from nothing and sustains it from moment to moment. This God is three persons, the Father, Son, and Holy Spirit. The Son became a human being as Jesus Christ, an event called the Incarnation, which is considered the most important event in history. Jesus Christ died on the cross, the Crucifixion, and by his death paid the penalty for all the sins committed by human beings. On the third day, he rose from the dead, in the Resurrection, and forty days later he ascended to heaven.
 
-## Beyond Western Europe
-
-The information in this chapter is focused on Western Europe — the region ruled by Christians who recognised the Pope as the head of the Church on Earth. This is a diverse area already, but there is a lot more to Mythic Europe, and supplements have covered it in more detail. Realms of Power: The Divine Revised Edition includes more information on Christianity, and also on Islam and Judaism. Against the Dark and The Sundered Eagle offer information about Eastern Europe, and the Orthodox Church. The Cradle and the Crescent covers the Middle East, while Between Sand & Sea and Lands of the Nile cover North Africa, as far south as Ethiopia.
-
-# them in the Garden of Eden. There, they were tempted by Satan and sinned, and this Original Sin
-
-tempted by Satan and sinned, and this Original Sin tainted all of their descendants. Where once all of nature had served humankind, now it turned against them. Human beings in Original Sin can do nothing truly good, because
-
-
-
-
-## Magic and Sin
-
-One question that is not decided by the core rules of **Ars Magica** is whether magic is sinful in itself. It is clear that it can be used for sinful purposes, and lends itself well to all seven deadly sins, but it can also be used for good ends. If magic is inherently sinful, casting a spell is sinful no matter what the purpose.
-
-The choice you make here affects the possible relationships between the magi and the Divine. If magic is inherently sinful, saints and angels will always encourage magi to abandon it. This creates a strong tension, and so works best if interactions with the Church are rare. It does not mean that the Divine is always hostile, as the world is full of sinners, and magic, in itself, is not necessarily a particularly serious sin.
-
-If magic is not inherently sinful, magic could have close, and good, relations with the Church, saints, and angels, with occasional concerns over sins the magicommitted using magic. In this case, giving up magic, whether temporarily or permanently, is a suitable penance in itself, giving up a sin can never be a penance, because it is required anyway.
-
-
-
-## Game Use: Doctrine
-
-The deadly sins and theological virtues make excellent Personality Traits for medieval-themed characters. Beyond that, the issues covered by this section are rarely likely to come into play in sagas, which is probably as it should be.
-
-stain, and fits a person to receive God's grace, which grants the ability to do good.
+In the beginning, God created two humans, Adam and Eve, and placed them in the Garden of Eden. There, they were tempted by Satan and sinned, and this Original Sin tainted all of their descendants. Where once all of nature had served humankind, now it turned against them. Human beings in Original Sin can do nothing truly good, because their motives are always 
+tainted. Baptism washes away that stain, and fits a person to receive God's grace, which grants the ability to do good.
 
 Good acts are those which accord with God's will, and tend to His glory, while evil acts are those which do not. The seven deadly sins are the basic roots of almost all sins committed by human beings, and the Church warns against them in particular. They are Avarice, Envy, Greed, Lust, Pride, Sloth, and Wrath. On the other side, there are the three theological virtues: Faith, Hope, and Love, and the greatest of these is Love.
 
 All humans have an immortal soul, created at some point before birth. (In 1220, theologians still disagree about when.) After death, the soul is judged by God. Those who die perfect, having done penance for all their sins, pass directly into heaven. Those who die penitent, but not yet perfect, pass to purgatory, where they do penance after death for all those sins remaining. Those who die impenitent are condemned to hell for eternity.
+
+> ### Magic and Sin
+>
+> One question that is not decided by the core rules of **Ars Magica** is whether magic is sinful in itself. It is clear that it can be used for sinful purposes, and lends itself well to all seven deadly sins, but it can also be used for good ends. If magic is inherently sinful, casting a spell is sinful no matter what the purpose.
+>
+> The choice you make here affects the possible relationships between the magi and the Divine. If magic is inherently sinful, saints and angels will always encourage magi to abandon it. This creates a strong tension, and so works best if interactions with the Church are rare. It does not mean that the Divine is always hostile, as the world is full of sinners, and magic, in itself, is not necessarily a particularly serious sin.
+>
+> If magic is not inherently sinful, magic could have close, and good, relations with the Church, saints, and angels, with occasional concerns over sins the magicommitted using magic. In this case, giving up magic, whether temporarily or permanently, is a suitable penance in itself, giving up a sin can never be a penance, because it is required anyway.
+
+> ### Game Use: Doctrine
+>
+> The deadly sins and theological virtues make excellent Personality Traits for medieval-themed characters. Beyond that, the issues covered by this section are rarely likely to come into play in sagas, which is probably as it should be.
 
 ## Sacraments
 
@@ -26931,7 +26921,7 @@ Must Penetrate Magic Resistance. Granted by Divine realm.
 
 ## Non-Combat Damage
 
-## heat and Corrosion
+## Heat and Corrosion
 
 | COVERED AREA           | DAMAGE BONUS |
 |------------------------|--------------|
@@ -27907,7 +27897,7 @@ Stress die (no botch) + age/10 (round up)
 
 ## Seasonal Activities
 
-#### Advancement Tables p164 p49
+#### Advancement Tables
 
 |       | ART |                        | ABILITY |             |
 |-------|-----|------------------------|---------|-------------|
@@ -27937,7 +27927,7 @@ Stress die (no botch) + age/10 (round up)
 
 **To raise to:** The number of experience points required to raise a score by one point to that number.
 
-#### Writing Books p165 p379
+#### Writing Books
 
 **SUMMA SOURCE QUALITY**: Author's Communication + 6 + bonus
 
