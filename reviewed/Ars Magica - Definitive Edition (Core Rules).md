@@ -48,6 +48,7 @@ Open License Markdown version by OriginalMadman, https://github.com/OriginalMadm
 
 Some identified issues present in source PDF (latest release as per march 2026). Note that a few more than these were fixed on the fly (unfortunately didn't start listing them until later in the process):
 - p16: House Tremere voting sigil reference to p314 likely should be p224 (fixed)
+- p76: Early in first column "The character many learn..." should of course be "The character may learn". (fixed)
 - p263: Casting Tablets" section is weird have the table within the text (fixed)
 - p275: Extraordinary results section looks a bit jumbled in source (cuts from investigating an enchanted item by experimentation straight into overall results w/o heading, David Chart: "The heading got taken into the insert, and not replaced in the main text.", flow problem is fixed in the markdown)
 - p325: Creo Auram Guidelines: Bottom bullet points are indented under Level 25 (fixed)
@@ -2690,7 +2691,7 @@ Faerie doctors often accompany their oath to not take sides in conflicts between
 
 #### Faerie Doctors as Mythic Companions
 
-Players wishing to play a magus-level faerie doctor should take the following Virtues and Flaws
+Players wishing to play a magus-level faerie doctor should take the following Virtues and Flaws:
 
 **Required Virtues:**<br>
 All Faerie Doctors must have the following Virtues:
@@ -3536,8 +3537,7 @@ You may not take The Gift or True Faith, Hermetic Virtues or Flaws, Methods or P
 
 #### Book Learner
 *Minor, General*<br>
-You have a talent for comprehending the writings of others. When studying from books, treat them as if they were three Quality levels higher than
-they actually are.
+You have a talent for comprehending the writings of others. When studying from books, treat them as if they were three Quality levels higher than they actually are.
 
 #### Boosted Magic
 *Minor, Hermetic*<br>
@@ -3675,13 +3675,13 @@ The character has a demon as a parent, and was conceived for a specific task by 
 
 She has up to 30 levels of Infernal Powers that may be invoked by spending Might Points. Design the effects using Hermetic spell guidelines, or the maleficia guidelines (see Realms of Power: The Infernal, Chapter 10: The Maleficia), taking into account the Powers of the demon parent. The Might cost for each Power is equal to its magnitude divided by two, rounded down (but always at least one point). These may be constant effects designed in the usual fashion (Sun duration, two uses per day, and an Environmental Trigger, see page 257), her Might Pool is always reduced by the cost of such a Power, and she cannot turn these Powers off. The Initiative total of each Power is the character's Quickness.
 
-She may be unaware of her true heritage, in which case she probably has either the Delusion or Manufactured Ignorance Flaw to explain her remarkable capabilities. She has the close attention of Hell, and thus should offset this Virtue with a Story Flaw to reflect that attention, such as, Tragic Life. The character many learn Infernal Lore during character creation without needing to take the Arcane Lore Minor Virtue.
+She may be unaware of her true heritage, in which case she probably has either the Delusion or Manufactured Ignorance Flaw to explain her remarkable capabilities. She has the close attention of Hell, and thus should offset this Virtue with a Story Flaw to reflect that attention, such as, Tragic Life. The character may learn Infernal Lore during character creation without needing to take the Arcane Lore Minor Virtue.
 
-She is attended at nearly all times by a minor demon, which tends to remain in spiritual form, watching over her; if necessary, it protects her on behalf of her creator/parent. This demon is a ruach, who can use its Misfortune \* Demonic Powers. He gains an Power to blight her enemies. If she is unaware of her demonic heritage, she either considers herself exceedingly lucky, or believes the attending demon to be a Magical or Divine spirit. However, this attendant demon means that her demonic parent can always find her, and is kept apprised of what she is up to.
+She is attended at nearly all times by a minor demon, which tends to remain in spiritual form, watching over her; if necessary, it protects her on behalf of her creator/parent. This demon is a ruach, who can use its Misfortune Power to blight her enemies. If she is unaware of her demonic heritage, she either considers herself exceedingly lucky, or believes the attending demon to be a Magical or Divine spirit. However, this attendant demon means that her demonic parent can always find her, and is kept apprised of what she is up to.
 
 A Demonic Blooded character's life span is short — roughly half that of a pure-blooded human. Her effective age (which applies as if it were her real age when creating a Longevity Ritual and when making rolls on the Aging Table) increases two years for every year that passes, and you must make two aging rolls each year once her effective age reaches 35. There is no way to halt or slow this other than Longevity Rituals, if she can convince someone to make one for her. However, she does not show the effects of aging; any Aging Points acquired do not get applied to her Characteristics, although they do still count as experience points towards Decrepitude.
 
-You cannot take the Infernal Blessings Virtue described in Realms of Power: The Infernal; the Demonic Powers Virtue replaces that Virtue for the demon-blooded. You may not take any Virtue that affiliates her with a realm other than the Infernal. Also, you cannot take the Unaging Virtue or the Age Quickly Flaw. She may not have children, and so cannot have Dependents of this sort.
+You cannot take the Infernal Blessings Virtue described in *Realms of Power: The Infernal*; the Demonic Powers Virtue replaces that Virtue for the demon-blooded. You may not take any Virtue that affiliates her with a realm other than the Infernal. Also, you cannot take the Unaging Virtue or the Age Quickly Flaw. She may not have children, and so cannot have Dependents of this sort.
 
 #### Demonic Might
 *Minor, Supernatural*<br>
@@ -3689,7 +3689,7 @@ You may only take this Virtue if your character has the Demonic Blood Virtue. He
 
 #### Demonic Powers
 *Minor, Supernatural*<br>
-Only a character with the Demonic Blood Virtue may have extra 20 levels of Infernal Powers in addition to the levels granted by Demonic Blood. You may also take this Virtue more than once, though it can account for no more than half of the character's total Virtues.
+Only a character with the Demonic Blood Virtue may have Demonic Powers. He gains an extra 20 levels of Infernal Powers in addition to the levels granted by Demonic Blood. You may also take this Virtue more than once, though it can account for no more than half of the character’s total Virtues.
 
 #### Devil Child
 *Free, Mythic Companion*<br>
@@ -3697,7 +3697,7 @@ This Virtue has no cost, and can only be taken for a Mythic Companion who has be
 
 #### Diedne Magic
 *Major, Hermetic*<br>
-Your magic lineage and traditions are from the druids and the vanquished former house of Diedne, making you especially skilled with Spontaneous magic. When you cast a Spontaneous spell without expending Fatigue. you may choose to divide by 5 or by 2. If you choose to divide by 5, you need not roll a stress die, and cannot botch, just as normal. If you choose to divide by 2, you must roll a stress die, and may botch.
+Your magic lineage and traditions are from the druids and the vanquished former house of Diedne, making you especially skilled with Spontaneous magic. When you cast a Spontaneous spell without expending Fatigue, you may choose to divide by 5 or by 2. If you choose to divide by 5, you need not roll a stress die, and cannot botch, just as normal. If you choose to divide by 2, you must roll a stress die, and may botch.
 
 When you expend Fatigue on casting a spontaneous spell, the lowest applicable Art is doubled before the whole total is divided by two. You still roll a stress die, and may botch.
 
@@ -4285,7 +4285,7 @@ This character has the supernatural ability to destroy a group of leather object
 
 #### Leper Magus
 *Major, Hermetic*<br>
-This Virtue describes the mystic legacy passed on from Tytalus to Hariste's line through the vector of leprosy. This Virtue can only be bought if the character also has the Leprosy Flaw, and is only available to magi trained in House Tytalus. It allows him to draw upon the strength of his body to increase the power of his magic, granting the Life Boost Minor Virtue. He can also draw even deeper into this power if he desires, mortifying his diseaseridden flesh to produce vis to power his own spells. The vis generated in this way can only be used by the magus himself. in spellcasting or laboratory activities (but not study), and cannot be stored in any way in fact, it never leaves his body. By accepting a Light Wound, the magus can infuse a single magical working with three pawns of vis, of any Technique or Form. A Medium Wound supplies six pawns, a Heavy Wound nine pawns, an Incapacitating Wound 12 pawns, and a Deadly Wound (killing the magus) 15 pawns. Any vis that is produced beyond the magus's capacity to use in the current magical activity is lost, as is any vis surplus to the requirements of the activity to which this power is applied. Leprotic wounds open on the magus's body as he calls upon this power, but not quickly enough to affect the Casting Total of a non-Ritual spell affected by this power. All Lab Totals suffer the wound penalty as normal, as do the Casting Totals of spells that take more than one round to cast (such as Ritual spells). The character makes no Recovery rolls for this wound until the magical activity that the vis is being used for is complete (i.e., at the end of the casting of the spell, or the end of a season for lab work). While this means that the wound cannot get better, it also means that it does not risk worsening. Since the power is expressed from the pain of this wound, magic used to negate that pain also negates the benefits of this Virtue. A wound taken in this fashion must heal completely before the power may be used again, and any character using this power more than three times a year must make an extra Aging roll in winter.
+This Virtue describes the mystic legacy passed on from Tytalus to Hariste's line through the vector of leprosy. This Virtue can only be bought if the character also has the Leprosy Flaw, and is only available to magi trained in House Tytalus. It allows him to draw upon the strength of his body to increase the power of his magic, granting the Life Boost Minor Virtue. He can also draw even deeper into this power if he desires, mortifying his disease-ridden flesh to produce vis to power his own spells. The vis generated in this way can only be used by the magus himself, in spellcasting or laboratory activities (but not study), and cannot be stored in any way — in fact, it never leaves his body. By accepting a Light Wound, the magus can infuse a single magical working with three pawns of vis, of any Technique or Form. A Medium Wound supplies six pawns, a Heavy Wound nine pawns, an Incapacitating Wound 12 pawns, and a Deadly Wound (killing the magus) 15 pawns. Any vis that is produced beyond the magus's capacity to use in the current magical activity is lost, as is any vis surplus to the requirements of the activity to which this power is applied. Leprotic wounds open on the magus's body as he calls upon this power, but not quickly enough to affect the Casting Total of a non-Ritual spell affected by this power. All Lab Totals suffer the wound penalty as normal, as do the Casting Totals of spells that take more than one round to cast (such as Ritual spells). The character makes no Recovery rolls for this wound until the magical activity that the vis is being used for is complete (i.e., at the end of the casting of the spell, or the end of a season for lab work). While this means that the wound cannot get better, it also means that it does not risk worsening. Since the power is expressed from the pain of this wound, magic used to negate that pain also negates the benefits of this Virtue. A wound taken in this fashion must heal completely before the power may be used again, and any character using this power more than three times a year must make an extra Aging roll in winter.
 
 #### Lesser Benediction
 *Minor, Supernatural*<br>
@@ -5781,7 +5781,7 @@ The character is no longer able to survive in the mundane world, and sickens if 
 
 #### Bound to (Role) Role
 *Minor, Supernatural*<br>
-This character is physically bonded to some form of device, whether through a mystic event. long years of exposure and warping, or the ministrations of an experimental magus. The degree of the bonding is for the troupe to define, but the bonding may be physical, such as a locksmith whose fingers are picks, files, and keys, or mystical, such as a watchman who is confined to his watch tower as though contained by an unbreakable ward.
+This character is physically bonded to some form of device, whether through a mystic event, long years of exposure and warping, or the ministrations of an experimental magus. The degree of the bonding is for the troupe to define, but the bonding may be physical, such as a locksmith whose fingers are picks, files, and keys, or mystical, such as a watchman who is confined to his watch tower as though contained by an unbreakable ward.
 
 The manner of this bonding determines the kind of life that the character may live. A watchman unable to leave his tower may make it his home, while a coachman who has become part of his coach cannot survive for long once separated from it.
 
@@ -6138,7 +6138,7 @@ One of the character's Supernatural Virtues is associated with the Infernal real
 
 It is quite possible that the character does not know that his Power is false. Once he does, he may find himself in a moral dilemma. Most people consider it a sin to use Powers associated with the Infernal realm for any reason, and would label him an infernalist if they discovered the nature of his Power. Yet his Power is also associated with another realm, making it more difficult to recognize it as Infernal, and leaving it unclear whether the Power is inherently evil or simply tainted by association. Perhaps the character believes it is not wrong for him to use his Powers, so long as he does not pursue evil ends with them.
 
-Once the character recognizes that the Power has an unholy aspect, he may choose to treat it as an Infernal Power at any time, using the Infernal Power column of the realm interaction chart and thus giving him a bonus in Infernal auras. This may also grant him other benefits: like other infernalists he can boost his casting total with sacrifices, and use an Infernal Ceremony to include others in the activation. as described in Realms of Power: The Infernal, page 91. However, doing this removes any illusions about the Power's realm — even magical and faerie Powers can recognize that it is Infernal.
+Once the character recognizes that the Power has an unholy aspect, he may choose to treat it as an Infernal Power at any time, using the Infernal Power column of the realm interaction chart and thus giving him a bonus in Infernal auras. This may also grant him other benefits: like other infernalists he can boost his casting total with sacrifices, and use an Infernal Ceremony to include others in the activation, as described in Realms of Power: The Infernal, page 91. However, doing this removes any illusions about the Power's realm — even magical and faerie Powers can recognize that it is Infernal.
 
 If the character realizes his Power is corrupted, he may decide to seek help from the Divine. Sincere repentance and participation in a form of ceremonial absolution allow the character to lose this Flaw, though this also takes away the Virtue it modifies. This is a heavy penance, but it is the only way to exorcise the evil influence of the Infernal realm, and of course there are far greater rewards in Heaven.
 
