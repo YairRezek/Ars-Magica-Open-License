@@ -48,10 +48,14 @@ Open License Markdown version by OriginalMadman, https://github.com/OriginalMadm
 
 Some identified issues present in source PDF (latest release as per march 2026). Note that a few more than these were fixed on the fly (unfortunately didn't start listing them until later in the process):
 - p16: House Tremere voting sigil reference to p314 likely should be p224 (fixed)
+- p31-43: Mixed use of both semicolon and comma under Virtues and Flaws throughout all Character Templates (not fixed)
 - p76: Early in first column "The character many learn..." should of course be "The character may learn". (fixed)
 - p263: Casting Tablets" section is weird have the table within the text (fixed)
 - p275: Extraordinary results section looks a bit jumbled in source (cuts from investigating an enchanted item by experimentation straight into overall results w/o heading, David Chart: "The heading got taken into the insert, and not replaced in the main text.", flow problem is fixed in the markdown)
 - p325: Creo Auram Guidelines: Bottom bullet points are indented under Level 25 (fixed)
+- p372: Circular Ward Against Demons grammar: "equal to or less than or equal to the level" (fixed)
+- p544: Repeated word: "1 pawn of vis per per spell magnitude" (fixed)
+- p546: Spelling error: "accomodate" (fixed)
 - Inconsistent use of "unravelling" (British spelling) and "unraveling" (American spelling). Three of each throughout the book (not fixed, but we probably should due to linkage)
 
 Found Index Issues (p558-568):
@@ -1050,11 +1054,7 @@ Finally, Spell Mastery Abilities are only available to Hermetic magi, and are de
 
 Personality Traits are a short description of important features of your character's personality. For major characters, such as magi and companions, they are normally nothing more than an aide memoire, and a reason to think about the character's personality during character creation, although there are a few specific rules that require Personality Trait rolls.
 
-For grogs, they are more significant. As grogs are often shared between players, or at least played rarely (see Troupe-Style Roleplaying on [page 528](#troupe-style-roleplaying)), the numbers attached to Personality Traits can be used as a concrete guide to playing the character. They can be positive or negative, and normally range between +3 and -3, although there are exceptions. A Minor Personality Flaw (see later) would normally be matched by a Personality Trait of +3 or -3, while a Major Personality Flaw, which a grog would not normally have, would justify a Personality Trait of +6 or -6. 'Loyal' is a particularly important Trait, as it reflects the grog's attachment to the covenant, while 'Brave' is just as important for warrior grogs. A third Trait should be something distinctive about that grog. You may decide to roll a grog's Personality Traits when you are unsure how he would react, or you may treat the numbers simply as a guide to roleplaying. If you do roll them, add nothing but the Personality Trait, and roll a stress die. Suggested Ease Factors are found on the table
-
-#### Changing Personality Traits
-
-Personality Traits can only be changed by the player who controls the character, and only between game sessions. However, they can be changed freely, possibly to reflect a series of exceptional rolls, or to reflect life events. For example, a cowardly grog who stands his ground and kills an impressive monster might well become braver.
+For grogs, they are more significant. As grogs are often shared between players, or at least played rarely (see Troupe-Style Roleplaying on [page 528](#troupe-style-roleplaying)), the numbers attached to Personality Traits can be used as a concrete guide to playing the character. They can be positive or negative, and normally range between +3 and -3, although there are exceptions. A Minor Personality Flaw (see later) would normally be matched by a Personality Trait of +3 or -3, while a Major Personality Flaw, which a grog would not normally have, would justify a Personality Trait of +6 or -6. 'Loyal' is a particularly important Trait, as it reflects the grog's attachment to the covenant, while 'Brave' is just as important for warrior grogs. A third Trait should be something distinctive about that grog. You may decide to roll a grog's Personality Traits when you are unsure how he would react, or you may treat the numbers simply as a guide to roleplaying. If you do roll them, add nothing but the Personality Trait, and roll a stress die. Suggested Ease Factors are found on the table.
 
 #### Personality Rolls
 
@@ -1065,6 +1065,10 @@ Personality Traits can only be changed by the player who controls the character,
 | 6           | Scary.<br>Facing down an apparently equal enemy.  | Average loyalty.<br>Standing by the covenant when it is threatened. | Average people do this about half the time. |
 | 9           | Very scary.<br>Facing down a clearly superior enemy. | Loyal.<br>Resisting a large bribe and offer of protection. | Average people usually don't do this, and even notable people often fail. |
 | 12          | Extremely scary.<br>Facing down a dragon. | Very Loyal.<br>Staying loyal to the covenant under torture. | Average people almost always fail Even people noted for the Trait do this rarely. |
+
+#### Changing Personality Traits
+
+Personality Traits can only be changed by the player who controls the character, and only between game sessions. However, they can be changed freely, possibly to reflect a series of exceptional rolls, or to reflect life events. For example, a cowardly grog who stands his ground and kills an impressive monster might well become braver.
 
 ### Reputations
 
@@ -1136,7 +1140,7 @@ Each template is presented in the same format, described below.
 
 **Warping Score:** The character's Warping Score, with the number of excess Warping Points in parentheses. Warping Points measure a character's exposure to magic, and have bad effects if you gain too many. See Warping, on [page 389](#warping-2), for more details.
 
-Confidence Score: The character's Confidence Score, with the number of Confidence Points in parentheses. Grogs don't have Confidence, so this line is omitted.
+**Confidence Score:** The character's Confidence Score, with the number of Confidence Points in parentheses. Grogs don't have Confidence, so this line is omitted.
 
 **Virtues and Flaws:** All the character's Virtues and Flaws. These are all described in the Virtues and Flaws chapter, starting on [page 61](#chapter-4-virtues-and-flaws). The first Virtue listed is The Gift, if the character has it. The next is the character's Social Class. Then comes all other Major Virtues, Minor Virtues, Major Flaws, and Minor Flaws, each arranged alphabetically.
 
@@ -1162,7 +1166,7 @@ Confidence Score: The character's Confidence Score, with the number of Confidenc
 
 **Encumbrance**: The character's Encumbrance, with the character's Burden in parentheses. The rules for Encumbrance are on [page 403](#encumbrance).
 
-Spells Known: A list of all the Hermetic spells the character knows. Obviously, this is omitted for non-magi. The spells are in the format: Spell Name (TeFo X/+Y) where TeFo is the Technique and Form of the spell, X is the spell level, and Y is the magus's Casting Total with the spell. If the magus has a mastery score in the spell, this is listed as Mastery Z, outside the parentheses, with the Mastery abilities listed (see the Magic chapter, [page 225](#spell-mastery)). If the Casting Total is higher than the spell level, the magus can cast it easily. If it's significantly lower, he might have problems. The spells are described in the Spells chapter, from [page 301](#chapter-9-spells).
+**Spells Known:** A list of all the Hermetic spells the character knows. Obviously, this is omitted for non-magi. The spells are in the format: Spell Name (TeFo X/+Y) where TeFo is the Technique and Form of the spell, X is the spell level, and Y is the magus's Casting Total with the spell. If the magus has a mastery score in the spell, this is listed as Mastery Z, outside the parentheses, with the Mastery abilities listed (see the Magic chapter, [page 225](#spell-mastery)). If the Casting Total is higher than the spell level, the magus can cast it easily. If it's significantly lower, he might have problems. The spells are described in the Spells chapter, from [page 301](#chapter-9-spells).
 
 **Customization Notes:** Some notes on the character, and what can easily be changed if you want to customize it.
 
@@ -1174,25 +1178,27 @@ These templates are intended for use as grogs. You could expand one into a compa
 
 Characteristics: Int -2, Per -1, Pre -1, Com -1, Str +3, Sta +2, Dex +2, Qik +1
 
-Age: 15 (15) Decrepitude: 0 Warping Score: 0 (0)
+Age: 15 (15)
 
-Virtues and Flaws: Covenfolk, Berserk, Large, Short
+Decrepitude: 0
 
-Attention Span, Wrathful (Minor)
+Warping Score: 0 (0)
+
+Virtues and Flaws: Covenfolk, Berserk, Large, Short Attention Span, Wrathful (Minor)
 
 Personality Traits: Angry +3, Brave +3, Loyal +1
 
 Reputations: None
 
-Combat: Pole Axe: Init +2, Attack +13, Defense +7,
+Combat: 
+- Pole Axe: Init +2, Attack +13, Defense +7, Damage +14
+- Kick: Init +0, Attack +6, Defense +4, Damage +6
 
-Damage +14
+Soak: +9 (Stamina, full metal scale armor)
 
-Kick: Init +0, Attack +6, Defense +4, Damage +6 Soak: +9 (Stamina, full metal scale armor) Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
+Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
 
-Wound Penalties: -1 (1-6), -3 (7-12), -5 (13-18),
-
-Incapacitated (19–24)
+Wound Penalties: -1 (1-6), -3 (7-12), -5 (13-18), Incapacitated (19–24)
 
 Abilities: Area Lore 1 (streams), Athletics 2 (running), Awareness 3 (attackers), Brawl 3 (kicking), Guile 1 (apologizing), Great Weapons 5 (pole axe), Native Language 5 (insults), Single Weapon 1 (heater shield), Survival 3 (hills)
 
@@ -1220,17 +1226,15 @@ Personality Traits: Loyal +3, Cheeky +2, Brave +1
 
 Reputations: None
 
-Combat: Axe & Heater Shield: Init –1, Attack +15,
-
-Defense +14, Damage +6
-
-Kick: Init –3, Attack +6, Defense +5, Damage +3
+Combat: 
+- Axe & Heater Shield: Init –1, Attack +15, Defense +14, Damage +6
+- Kick: Init –3, Attack +6, Defense +5, Damage +3
 
 Soak: +8 (full metal scale armor)
 
-Fatigue Levels: OK, 0, -1, -3, -5, Unconscious Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15),
+Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
 
-Incapacitated (16–20)
+Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16–20)
 
 Abilities: Area A Lore 4 (monsters), Area B Lore 2 (monsters), Awareness 5 (in combat), Bows 5 (longbow), Brawl 3 (kicking), Carouse 3 (with fighting friends), Folk Ken 1 (magi), Great Weapon 5 (pole axe), Guile 2 (getting extra rations), Leadership 3 (in combat), Living Language 5 (military talk), Order of Hermes Lore 3 (grogs), Single Weapon 8 (heater shield), Stealth 3 (when armored), Survival 1 (when in a group), Thrown Weapon 4 (knife)
 
@@ -1238,15 +1242,17 @@ Equipment: Axe, Heater Shield, Full Metal Scale Armor, pack containing gear to c
 
 Encumbrance: 4 (4)
 
-Customization Notes: The Grizzled Veteran has been around the covenant for years, but has never reached a formal position of leadership, because he has a tendency to talk back to the magi. On the other hand, he makes a good informal leader of the grogs. Age hasn't really slowed him down yet, but it is about to, and the years have already reduced his Presence and Communication to -1 each. He could take another two Flaws and a corresponding
-
-number of Virtues if desired, and his Ability scores can be moved around. The high set should probably be kept in combat, but he could specialize in a different sort of combat (you would have to recalculate Combat Totals), and the secondary abilities can be moved around at will.
+Customization Notes: The Grizzled Veteran has been around the covenant for years, but has never reached a formal position of leadership, because he has a tendency to talk back to the magi. On the other hand, he makes a good informal leader of the grogs. Age hasn't really slowed him down yet, but it is about to, and the years have already reduced his Presence and Communication to -1 each. He could take another two Flaws and a corresponding number of Virtues if desired, and his Ability scores can be moved around. The high set should probably be kept in combat, but he could specialize in a different sort of combat (you would have to recalculate Combat Totals), and the secondary abilities can be moved around at will.
 
 #### The Hunter
 
 Characteristics: Int 0, Per +3, Pre -2, Com -2, Str 0, Sta +1, Dex +2, Qik +2
 
-Size: 0 Age: 20 (20) Decrepitude: 0
+Size: 0
+
+Age: 20 (20)
+
+Decrepitude: 0
 
 Warping Score: 0 (0)
 
@@ -1254,7 +1260,8 @@ Virtues and Flaws: Covenfolk, Warrior, Pessimistic Personality Traits: Brave +3,
 
 Reputations: None
 
-Combat: Short Bow: Init –1, Attack +9, Defense +6, Damage +6
+Combat:
+- Short Bow: Init –1, Attack +9, Defense +6, Damage +6
 
 Soak: +3 (partial leather armor, Stamina)
 
@@ -1274,15 +1281,29 @@ Customization Notes: The hunter is extremely useful in the wilderness, and can g
 
 Characteristics: Int –1, Per 0, Pre –1, Com –4, Str +2, Sta +2, Dex +3, Qik +2
 
-Size: 0 Age: 19 (19) Decrepitude: 0 Warping Score: 0 (0)
+Size: 0
+
+Age: 19 (19)
+
+Decrepitude: 0
+
+Warping Score: 0 (0)
 
 Virtues and Flaws: Covenfolk, Affinity with Single Weapon, Puissant Ability (Single Weapon), Warrior, Afflicted Tongue (stammer), Obsessed (improving Single Weapon ability), Poor Communication
 
-Personality Traits: Brave +3, Loyal +2, Quiet +1 Reputations: None
+Personality Traits: Brave +3, Loyal +2, Quiet +1 
 
-Combat: Axe & Heater Shield: Init +1, Attack +17, Defense +15, Damage +8 Fist: Init 0, Attack +8, Defense +7, Damage +2 Soak: +9 (full metal scale armor)
+Reputations: None
 
-Fatigue Levels: OK, 0, -1, -3, -5, Unconscious Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20)
+Combat:
+- Axe & Heater Shield: Init +1, Attack +17, Defense +15, Damage +8
+- Fist: Init 0, Attack +8, Defense +7, Damage +2
+
+Soak: +9 (full metal scale armor)
+
+Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
+
+Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20)
 
 Abilities: Area Lore 3 (warriors), Athletics 3 (running), Awareness 4 (in combat), Bargain 2 (weapons), Bows 1 (2) (short bow), Brawl 5 (dodging), Carouse 1 (drinking), Living Language 5 (talking about fighting), Single Weapon 7+2 (Heater Shield)
 
@@ -1296,17 +1317,26 @@ Customization Notes: The Specialist can easily focus on a different Ability, alt
 
 Characteristics: Int -1, Per 0, Pre 0, Com 0, Str +1, Sta +1, Dex +2, Qik +2
 
-Size: 0 Age: 25 (25) Decrepitude: 0
+Size: 0
+
+Age: 25 (25)
+
+Decrepitude: 0
 
 Warping Score: 0 (0)
 
-Virtues and Flaws: Covenfolk, Warrior, Weakness Personality Traits: Brave +3, Loyal +2, Garrulous +1 Reputations: None
+Virtues and Flaws: Covenfolk, Warrior, Weakness
 
-Combat: Axe & Heater Shield: Init +0, Attack +12, Defense +11, Damage +7
+Personality Traits: Brave +3, Loyal +2, Garrulous +1
 
-Fist: Init –1, Attack +7, Defense +7, Damage +1
+Reputations: None
+
+Combat:
+- Axe & Heater Shield: Init +0, Attack +12, Defense +11, Damage +7
+- Fist: Init –1, Attack +7, Defense +7, Damage +1
 
 Soak: +8 (full metal scale armor)
+
 Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
 
 Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20)
@@ -1323,25 +1353,29 @@ Customization Notes: The standard soldier's Weakness can be chosen freely, and h
 
 Characteristics: Int -1, Per 0, Pre +1, Com -1, Str +1, Sta +3, Dex 0, Qik +1
 
-Size: +1 Age: 19 (19) Decrepitude: 0 Warping Score: 0 (0)
+Size: +1
+
+Age: 19 (19)
+
+Decrepitude: 0
+
+Warping Score: 0 (0)
 
 Virtues and Flaws: Covenfolk, Large, Tough, Warrior, No Sense of Direction, Overconfident (thinks he can't really be hurt), Weakness (drinking)
 
-Personality Traits: Brave +3, Loyal +2,
+Personality Traits: Brave +3, Loyal +2, Overconfident +3
 
-Overconfident +3 Reputations: None
+Reputations: None
 
-Combat: Axe & Heater Shield: Init -1, Attack +10,
+Combat:
+- Axe & Heater Shield: Init -1, Attack +10, Defense +10, Damage +7
+- Fist: Init -2, Attack +3, Defense +4, Damage +1
 
-Defense +10, Damage +7
-
-Fist: Init -2, Attack +3, Defense +4, Damage +1 Soak: +13 (full metal scale armor + Tough)
+Soak: +13 (full metal scale armor + Tough)
 
 Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
 
-Wound Penalties: -1 (1-6), -3 (7-12), -5 (13-18),
-
-Incapacitated (19-24)
+Wound Penalties: -1 (1-6), -3 (7-12), -5 (13-18), Incapacitated (19-24)
 
 Abilities: Area Lore 2 (brewers), Athletics 1 (running), Awareness 3 (in combat), Bows 1 (shortbow), Brawl 3 (grappling), Carouse 4 (drinking), Charm 3 (when drunk), Folk Ken 1 (magi), Great Weapon 3 (pole axe), Guile 1 (lying to magi), Living Language 5 (talking about fighting), Music 1 (drinking songs), Single Weapon 5 (heater shield), Survival 1 (on rivers), Thrown Weapon 2 (axe)
 
@@ -1353,25 +1387,30 @@ Customization Notes: The Tough Guy works well as a defender for a magus, because
 
 ### Companion Templates
 
-These templates are for central, but nonmagus, characters.
+These templates are for central, but non-magus, characters.
 
 #### The Female Scholar
 
 Characteristics: Int +5, Per +1, Pre +1, Com +2, Str -1, Sta -1, Dex 0, Qik +1
 
-Size: 0 Age: 20 (20) Decrepitude: 0 Warping Score: 0 (0)
+Size: 0
+
+Age: 20 (20)
+
+Decrepitude: 0
+
+Warping Score: 0 (0)
 
 Confidence Score: 1 (3)
 
 Virtues and Flaws: Clerk, Apt Student, Book Learner, Good Teacher, Great Intelligence (x2), Improved Characteristics, Black Sheep, Driven (Major) (prove herself a greater scholar than any man); Social Handicap (outspoken advocate of the abilities of women)
 
-Personality Traits: Scholarly +3, Independent +1,
-
-Trusting –2
+Personality Traits: Scholarly +3, Independent +1, Trusting –2
 
 Reputations: Selfish shrew 2 (local)
 
-Combat: Dodging: Init +1, Atk n/a, Def +1, Dam n/a
+Combat:
+- Dodging: Init +1, Atk n/a, Def +1, Dam n/a
 
 Soak: -1 (Stamina)
 
@@ -1393,9 +1432,13 @@ Characteristics: Int 0, Per 0, Pre +1, Com +1, Str +1, Sta +1, Dex +2, Qik +2
 
 Size: 0
 
-Age: 25 (25) Decrepitude: 0
+Age: 25 (25)
 
-Warping Score: 0 (0) Confidence Score: 1 (3)
+Decrepitude: 0
+
+Warping Score: 0 (0)
+
+Confidence Score: 1 (3)
 
 Virtues and Flaws: Knight, Wealthy, Improved Characteristics, Puissant Single Weapon, Relic, Oath of Fealty, Proud (Major), Overconfident (Minor)
 
@@ -1403,23 +1446,22 @@ Personality Traits: Brave +3, Overconfident +3, Proud +6
 
 Reputations: None.
 
-Combat: Long sword and heater shield (mounted): Init +2, Atk +17, Def +17, Dam +7
-
-Long sword and beater shield (on foot): Init +2, Atk +14, Def +14, Dam +7
-
-Great sword (mounted): Init +2, Atk +16, Def +13, Dam +10
-
-Great sword (on foot): Init +2, Atk +13, Def +10, Dam +10
-
-Fist: Init +0, Atk +5, Def +5, Dam +1
+Combat: 
+- Long sword and heater shield (mounted): Init +2, Atk +17, Def +17, Dam +7
+- Long sword and beater shield (on foot): Init +2, Atk +14, Def +14, Dam +7
+- Great sword (mounted): Init +2, Atk +16, Def +13, Dam +10
+- Great sword (on foot): Init +2, Atk +13, Def +10, Dam +10
+- Fist: Init +0, Atk +5, Def +5, Dam +1
 
 Soak: +10 (chain mail, Stamina)
 
-Fatigue Levels: OK, 0, -1, -3, -5, Unconscious Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20)
+Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
+
+Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20)
 
 Abilities: Animal Handling 2 (falconry), Area Lore 3 (nobles), Athletics 2 (running), Awareness 3 (battle), Brawl 2 (punching), Chirurgy 1 (sword wounds), Etiquette (noble) 3, Great Weapon 5 (great sword), Hunt 2 (deer), Intrigue 1 (noble courts), Leadership 4 (soldiers), Music 1 (singing), Native Language 5 (giving orders), Ride 5 (in combat), Single Weapon 5+2 (heater shield), Survival 1 (forests)
 
-**Equipment:** Full chain mail, long sword, heater shield, great sword
+Equipment: Full chain mail, long sword, heater shield, great sword
 
 Encumbrance: 2 (3)
 
@@ -1430,24 +1472,29 @@ Customization Notes: The Knight's Wealthy Virtue gives him a lot of experience p
 Characteristics: Int +1, Per +2, Pre +1, Com +2, Str 0, Sta 0, Dex -1, Qik 0
 
 Size: 0
+
 Age: 33 (33)
+
 Decrepitude: 0
+
 Warping Score: 0 (0)
+
 Confidence Score: 1 (3)
 
-Virtues and Flaws: Priest; Inspirational, Lesser Immunity (lightning), Relic, Sense Holiness and Unholiness, Social Contacts (minor clergy), Student of the Divine, Well-Traveled; Compassionate (Major), Plagued by Angel;
-
-Clumsy, Vow of Celibacy
+Virtues and Flaws: Priest; Inspirational, Lesser Immunity (lightning), Relic, Sense Holiness and Unholiness, Social Contacts (minor clergy), Student of the Divine, Well-Traveled; Compassionate (Major), Plagued by Angel; Clumsy, Vow of Celibacy
 
 Personality Traits: Compassionate +3, Pious +3, Loyal +2
 
 Reputations: None
 
-Combat: Dodging: Init +0, Atk n/a, Def +2, Dam n/a
+Combat:
+- Dodging: Init +0, Atk n/a, Def +2, Dam n/a
 
 Soak: +0 (Stamina)
 
-Fatigue Levels: OK, 0, -1, -3, -5, Unconscious Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20)
+Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
+
+Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20)
 
 Abilities: Area Lore 5 (churches), Artes Liberales 2 (rhetoric), Brawl 1 (dodging), Charm 5 (parishioners), Church Lore 3 (local diocese), Civil and Canon Law 1 (regulations for the clergy), Dominion Lore 3+2 (angels), Etiquette 3 (Church), Folk Ken 6 (people he knows very well), Intrigue 1 (parishes), Latin 4 (the Bible), Leadership 3 (preaching), Living Language 5 (preaching), Sense Holiness and Unholiness 4 (angels), Theology 2 (angelology)
 
@@ -1461,7 +1508,15 @@ Customization Notes: The Priest could take another two Minor Flaws and correspon
 
 Characteristics: Int 0, Per +1, Pre 0, Com +1, Str -1, Sta 0, Dex +4, Qik +4
 
-Size: 0 Age: 20 (20) Decrepitude: 0 Warping Score: 0 (0) Confidence Score: 1 (3)
+Size: 0
+
+Age: 20 (20)
+
+Decrepitude: 0
+
+Warping Score: 0 (0)
+
+Confidence Score: 1 (3)
 
 Virtues and Flaws: Wanderer, Great Dexterity, Great Quickness, Improved Characteristics (x2), Light Touch, Perfect Balance, Puissant Legerdemain, Puissant Stealth, Avaricious (Major), Dark Secret, Compulsion, Night Terrors
 
@@ -1469,17 +1524,18 @@ Personality Traits: Avaricious +6, Daring +2, Sociable +2
 
 Reputations: None
 
-Combat: Fist: Init +4, Atk +7, Def +7, Dam -1
+Combat:
+- Fist: Init +4, Atk +7, Def +7, Dam -1
 
 Soak: 0 (Stamina)
 
-Fatigue Levels: OK, 0, -1, -3, -5, Unconscious Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15),
+Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
 
-Incapacitated (16–20)
+Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16–20)
 
 Abilities: Area Lore 1 (rich people's homes), Athletics 3 (climbing), Awareness 3 (noticing whether he is observed), Brawl 3 (getting away), Charm 2 (people who think he's exciting), Folk Ken 1 (people in authority), Guile 1 (when caught red-handed), Legerdemain 5+2 (picking pockets), Native Language 5 (being polite), Stealth 5+2 (being quiet)
 
-**Equipment**: Clothes, secret stash of money that he never spends.
+Equipment: Clothes, secret stash of money that he never spends.
 
 Encumbrance: 0 (0)
 
@@ -1489,36 +1545,32 @@ Customization Notes: The Rogue's Dark Secret can be almost anything, but is most
 
 Characteristics: Int +2, Per +2, Pre +1, Com +1, Str -1, Sta 0, Dex +2, Qik 0
 
-Size: 0 Age: 30 (30) Decrepitude: 0 Warping Score: 0 (0) Confidence Score: 1 (3)
+Size: 0
 
-Virtues and Flaws: Wise One, Educated, Improved Characteristics, Premonitions, Second Sight, Student of Magic, Wilderness Sense, Compassionate (Major),
+Age: 30 (30)
 
-Enemies, Nocturnal
+Decrepitude: 0
+
+Warping Score: 0 (0)
+
+Confidence Score: 1 (3)
+
+Virtues and Flaws: Wise One, Educated, Improved Characteristics, Premonitions, Second Sight, Student of Magic, Wilderness Sense, Compassionate (Major), Enemies, Nocturnal
 
 Personality Traits: Compassionate +3, Sociable -1, Trusting -2
 
 Reputations: None
 
-Combat: Dodging: Init +0, Atk n/a, Def +0, Dam n/a
+Combat:
+- Dodging: Init +0, Atk n/a, Def +0, Dam n/a
 
-Def +0, Dam n/a **Soak**: +0 (Stamina)
+Soak: +0 (Stamina)
 
 Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
 
 Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20)
 
-Abilities: Area Lore 3 (medicinal herbs), Artes
-Liberales 1 (astronomy), Athletics 1 (climbing),
-Awareness 1 (animals), Charm 3 (peasants),
-Chirurgy 4 (farm accidents), Divine Lore 1 (relics),
-Faerie Lore 2 (curses), Folk Ken 3 (peasants),
-Guile 3 (clergy), Infernal Lore 1 (diabolists),
-Latin 4 (medical terms), Magic Lore 3+2
-(regiones), Medicine 5 (accidental poisonings),
-Native Language 5 (choosing words carefully),
-Premonitions 3 (threats to others), Second Sight 3
-(ghosts), Survival 3 (near farmland), Wilderness
-Sense 3 (weather)
+Abilities: Area Lore 3 (medicinal herbs), Artes Liberales 1 (astronomy), Athletics 1 (climbing), Awareness 1 (animals), Charm 3 (peasants), Chirurgy 4 (farm accidents), Divine Lore 1 (relics), Faerie Lore 2 (curses), Folk Ken 3 (peasants), Guile 3 (clergy), Infernal Lore 1 (diabolists), Latin 4 (medical terms), Magic Lore 3+2 (regiones), Medicine 5 (accidental poisonings), Native Language 5 (choosing words carefully), Premonitions 3 (threats to others), Second Sight 3 (ghosts), Survival 3 (near farmland), Wilderness Sense 3 (weather)
 
 Equipment: Old but sturdy clothes.
 
@@ -1536,82 +1588,79 @@ Characteristics: Int +3, Per 0, Pre 0, Com –1, Str 0, Sta +1, Dex 0, Qik +1
 
 Size: 0
 
-Age: 25 (25) Decrepitude: 0
+Age: 25 (25)
 
-Warping Score: 0 (0) Confidence Score: 1 (3)
+Decrepitude: 0
 
-Virtues and Flaws: The Gift, Hermetic Magus, Ways of the Forest; Heartbeast\*, Inoffensive to Animals, Quiet
+Warping Score: 0 (0)
 
-Magic (x2), Subtle Magic; Blatant Gift, Tormenting Master; Deficient Form (Ignem)
+Confidence Score: 1 (3)
+
+Virtues and Flaws: The Gift, Hermetic Magus, Ways of the Forest; Heartbeast\*, Inoffensive to Animals, Quiet Magic (x2), Subtle Magic; Blatant Gift, Tormenting Master; Deficient Form (Ignem)
 
 Personality Traits: Brave +2, Status-seeking +2, Obedient +1
 
 Reputations: None.
 
-Combat: Dodging: Init +1, Attack n/a, Defense +4, Damage n/a
+Combat:
+- Dodging: Init +1, Attack n/a, Defense +4, Damage n/a
 
 Soak: +1
 
-Fatigue Levels: OK, 0, -1, -3, -5, Unconscious Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20)
+Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
 
-Abilities: Area Lore 1 (forests), Artes Liberales 1 (grammar), Athletics 2 (endurance), Awareness 2 (people), Brawl 2 (dodge), Finesse 1 (targeting), Folk Ken 1 (hunters), Guile 1 (pretending to know less than you do), Heartbeast 2 (changing into a wolf), Hunt 2 (small animals), Latin 4 (Hermetic terms), Living Language 5 (talking about the wilderness), Magic Theory 3 (Animal), Parma Magica 1 (Animal), Penetration 1 (Muto), Order of Hermes Lore 1 (Bjornaer), Second Area Lore 1 (forests), Survival 3
+Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20)
+
+Abilities: Area Lore 1 (forests), Artes Liberales 1 (grammar), Athletics 2 (endurance), Awareness 2 (people), Brawl 2 (dodge), Finesse 1 (targeting), Folk Ken 1 (hunters), Guile 1 (pretending to know less than you do), Heartbeast 2 (changing into a wolf), Hunt 2 (small animals), Latin 4 (Hermetic terms), Living Language 5 (talking about the wilderness), Magic Theory 3 (Animal), Parma Magica 1 (Animal), Penetration 1 (Muto), Order of Hermes Lore 1 (Bjornaer), Second Area Lore 1 (forests), Survival 3 (forests)
 
 Arts: Cr 0, In 1, Mu 10, Pe 3, Re 1, An 8, Aq 0, Au 0, Co 8, He 0, Ig 0, Im 0, Me 0, Te 0, Vi 0
 
-Twilight Scars: None Equipment: Wizardly robes.
+Twilight Scars: None
 
-Encumbrance: 0 (0) Spells Known:
+Equipment: Wizardly robes.
 
-(forests)
+Encumbrance: 0 (0)
 
-Transformation of the
+Spells Known:
+- Transformation of the Ravenous Beast to the Torpid Toad (MuAn 25/+19)
+- Agony of the Beast (PeAn 15/+12)
+- Circle of Beast Warding (ReAn 5/+10)
+- Viper's Gaze (ReAn 15/+10)
+- Eyes of the Cat (MuCo(An) 5/+19)
+- Gift of the Bear's Fortitude (MuCo 25/+19)
+- The Wound that Weeps (PeCo 15/+12)
+- Lifting the Dangling Puppet (ReCo 15/+10)
 
-Ravenous Beast to the Torpid Toad (MuAn 25/+19)
-
-Agony of the Beast (PeAn 15/+12)
-
-Circle of Beast Warding (ReAn 5/+10)
-
-Viper's Gaze (ReAn 15/+10)
-
-Eyes of the Cat (MuCo(An) 5/+19)
-
-Gift of the Bear's Fortitude (MuCo 25/+19)
-
-The Wound that Weeps (PeCo 15/+12)
-
-Lifting the Dangling Puppet (ReCo 15/+10)
-
-Customization Notes: The Bjornaer is much more comfortable with animals than with people, and may think of him or herself as just as much animal as
-
-human. The combination of Blatant Gift and Inoffensive to Animals means that she gets along better with animals than with people. Ways of the Forest should be changed to a terrain appropriate to the actual heartbeast; a wolf is assumed for the example. Both Major Flaws can be changed freely, and while Deficient Form (Ignem) is very common in House Bjornaer, there is no particular reason for your character to have it. Note that Quiet and Subtle Magic allow the magus to cast in his heartbeast form without any penalty.
+Customization Notes: The Bjornaer is much more comfortable with animals than with people, and may think of him or herself as just as much animal as human. The combination of Blatant Gift and Inoffensive to Animals means that she gets along better with animals than with people. Ways of the Forest should be changed to a terrain appropriate to the actual heartbeast; a wolf is assumed for the example. Both Major Flaws can be changed freely, and while Deficient Form (Ignem) is very common in House Bjornaer, there is no particular reason for your character to have it. Note that Quiet and Subtle Magic allow the magus to cast in his heartbeast form without any penalty.
 
 #### Bonisagus
 
-Characteristics: Int +5, Per 0, Pre 0, Com +1, Str 0,
-
-Sta 0, Dex 0, Qik 0
+Characteristics: Int +5, Per 0, Pre 0, Com +1, Str 0, Sta 0, Dex 0, Qik 0
 
 Size: 0
 
-Age: 25 (25) Decrepitude: 0
+Age: 25 (25)
 
-Warping Score: 0 (0) Confidence Score: 1 (3)
+Decrepitude: 0
 
-Virtues and Flaws: The Gift;
-Hermetic Magus: Affinity with
+Warping Score: 0 (0)
 
-Auram, Affinity with Creo, Book Learner, Free Study, Great Intelligence (x2),
+Confidence Score: 1 (3)
 
-Inventive Genius, Puissant Magic Theory\*, Secondary Insight; Favors, Painful Magic; Driven (Minor), Weak Enchanter
+Virtues and Flaws: The Gift; Hermetic Magus; Affinity with Auram, Affinity with Creo, Book Learner, Free Study, Great Intelligence (x2), Inventive Genius, Puissant Magic Theory\*, Secondary Insight; Favors, Painful Magic; Driven (Minor), Weak Enchanter
 
-Personality Traits: Brave –1, Driven +3, Studious +2 Reputations: None.
+Personality Traits: Brave –1, Driven +3, Studious +2
 
-Combat: Dodging: Init +0, Attack n/a, Defense +0, Damage n/a
+Reputations: None.
+
+Combat:
+- Dodging: Init +0, Attack n/a, Defense +0, Damage n/a
 
 Soak: 0
 
-Fatigue Levels: OK, 0, -1, -3, -5, Unconscious Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20)
+Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
+
+Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20)
 
 Abilities: Artes Liberales 1 (logic), Awareness 2 (when working), Charm 2 (equals), Concentration 3 (spell casting), Folk Ken 2 (magi), Latin 4 (Hermetic technical terms), Magic Lore 1 (non-Hermetic magic), Magic Theory 4+2 (Creo), Native Language 5 (educated talk), Order of Hermes Lore 2 (great discoveries), Parma Magica 1 (Mentem), Penetration 1 (Auram), Teaching 3 (Hermetic Arts)
 
@@ -1622,68 +1671,77 @@ Twilight Scars: None
 Equipment: Wizardly robes. Encumbrance: 0 (0)
 
 Spells Known:
-
-Charge of the Angry Winds (CrAu 15/+24) Clouds of Rain and Thunder (CrAu 25/+24)
-
-Clouds of Summer Snow (CrAu 25/+24)
-
-The Incantation of Lightning (CrAu 35/+24)
-
-Purification of the Festering Wounds (CrCo 20/+16)
+- Charge of the Angry Winds (CrAu 15/+24)
+- Clouds of Rain and Thunder (CrAu 25/+24)
+- Clouds of Summer Snow (CrAu 25/+24)
+- The Incantation of Lightning (CrAu 35/+24)
+- Purification of the Festering Wounds (CrCo 20/+16)
 
 Customization Notes: The Bonisagus is most likely Driven to make some great discovery in magic. He or she is a so-called 'lab rat', a magus happier in his laboratory than in the outside world. However, the favors he owes and his drive to discover are likely to push him out. Similarly, enchanted items are very useful to him, but he is bad at making them for himself. That also tends to drive him into stories. This concept is built around the Virtues and the Driven Flaw; the other Flaws can be changed easily. He can also take two additional Minor Flaws, or make Driven Major, and take two additional Minor Virtues to balance them. Similarly, the Arts in which the character has an Affinity can be changed, but that also requires changing the spells he knows.
 
 #### Criamon
 
-Characteristics: Int +3, Per 0 Pre +2, Com -3, Str 0, Sta + 2, Dex 0, Qik + 1
+Characteristics: Int +3, Per 0, Pre +2, Com -3, Str 0, Sta + 2, Dex 0, Qik + 1
 
 Size: 0
 
-Age: 25 (25) Decrepitude: 0
+Age: 25 (25)
 
-Warping Score: 0 (0) Confidence Score: 1 (3)
+Decrepitude: 0
 
-Virtues and Flaws: The Gift, Hermetic Magus; Flexible Formulaic Magic, The Enigma\*,
+Warping Score: 0 (0)
 
-Magic Sensitivity, Puissant Enigmatic Wisdom, Side Effect, Study Bonus, Magic Addiction, Twilight Prone; Incomprehensible
+Confidence Score: 1 (3)
+
+Virtues and Flaws: The Gift, Hermetic Magus; Flexible Formulaic Magic, The Enigma\*, Magic Sensitivity, Puissant Enigmatic Wisdom, Side Effect, Study Bonus, Magic Addiction, Twilight Prone; Incomprehensible
 
 Personality Traits: Enthusiastic +3, Friendly +2, Practical -3
 
 Reputations: None.
 
-Combat: Dodging: Init +1, Attack n/a, Defense +1, Damage n/a
+Combat:
+- Dodging: Init +1, Attack n/a, Defense +1, Damage n/a
 
 Soak: +2
 
-Fatigue Levels: OK, 0, -1, -3, -5, Unconscious Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16–20)
+Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
+
+Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16–20)
 
 Abilities: Artes Liberales 1 (rhetoric), Charm 5 (educated people), Concentration 3 (spell casting), Enigmatic Wisdom 3+2 (riddles), Folk Ken 1 (educated people), Latin 4 (Enigmatic terms), Magic Sensitivity 2 (auras), Magic Theory 3 (Vim), Native Language 5 (long words), Order of Hermes Lore 1 (mysteries), Parma Magica 1
 
-Arts: Cr 4, In 6, Mu 4, Pe 4, Re 4, An 0, Ag 0,
+Arts: Cr 4, In 6, Mu 4, Pe 4, Re 4, An 0, Ag 0, Au 0, Co 0, He 0, Ig 0, Im 2, Me 1, Te 0, Vi 10
 
-Au 0, Co 0, He 0, Ig 0, Im 2, Me 1, Te 0, Vi 10 Twilight Scars: None (yet) Equipment: Wizardly robes.
+Twilight Scars: None (yet)
+
+Equipment: Wizardly robes.
 
 Encumbrance: 0 (0)
 
 Spells Known:
-
-Phantom of the Talking Head (CrIm 10/+8) Aura of Ennobled Presence (MuIm 10/+8) Piercing the Faerie Veil (InVi 20/+18) Piercing the Magical Veil (InVi 20/+18) (see Piercing the Faerie Veil)
-
-Unraveling the Fabric of Imaginem (PeVi 20/+16) Wind of Mundane Silence (PeVi 20/+16)
-
-Circular Ward Against Demons (ReVi 20/+16)
+- Phantom of the Talking Head (CrIm 10/+8)
+- Aura of Ennobled Presence (MuIm 10/+8)
+- Piercing the Faerie Veil (InVi 20/+18)
+- Piercing the Magical Veil (InVi 20/+18) (see Piercing the Faerie Veil)
+- Unraveling the Fabric of Imaginem (PeVi 20/+16)
+- Wind of Mundane Silence (PeVi 20/+16)
+- Circular Ward Against Demons (ReVi 20/+16)
 
 Customization Notes: The Criamon does not have her maximum allowance of Flaws, so could take an additional Major Flaw or three Minor Flaws, with corresponding Virtues, if desired. Her Charm and Folk Ken scores could be moved into other Abilities available in the first five years of life (see the Detailed Character Creation rules, page 43), possibly also moving her good Presence score as well.
 
 #### Ex Miscellanea
 
-Characteristics: Int +3, Per -Pre -1, Com 0, Str +4, Sta +4, Dex -2, Qik -2
+Characteristics: Int +3, Per -1, Pre -1, Com 0, Str +4, Sta +4, Dex -2, Qik -2
 
-Size: +2 Age: 25 (25)
+Size: +2
+
+Age: 25 (25)
 
 Decrepitude: 0
 
-Warping Score: 0 (0) Confidence Score: 1 (3)
+Warping Score: 0 (0)
+
+Confidence Score: 1 (3)
 
 Virtues and Flaws: The Gift, Hermetic Magus; Giant Blood\* Major Magical Focus (stone), Affinity with Terram\*, Enduring Magic, Improved Characteristics, Puissant Terram, Tough, Generous (Major), Necessary Condition (touching stone)\*, Plagued by Supernatural Entity, Deficient Auram
 
@@ -1691,23 +1749,34 @@ Personality Traits: Generous +6, Patient +3, Trusting +2, Vengeful +2
 
 Reputations: None.
 
-Combat: Dodging: Init -2, Attack n/a, Defense +1, Damage n/a
-
-Grappling: Init –2, Attack +2, Defense +2, Damage n/a
+Combat:
+- Dodging: Init -2, Attack n/a, Defense +1, Damage n/a
+- Grappling: Init –2, Attack +2, Defense +2, Damage n/a
 
 Soak: +7
 
-Fatigue Levels: OK, 0, -1, -3, -5, Unconscious Wound Penalties: -1 (1-7), -3 (8-14), -5 (15-21), Incapacitated (22–28)
+Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
+
+Wound Penalties: -1 (1-7), -3 (8-14), -5 (15-21), Incapacitated (22–28)
 
 Abilities: Area Lore 3 (mountain trails), Artes Liberales 1 (astronomy), Brawl 3 (grappling), Concentration 3 (spellcasting), Finesse 2 (Terram), Latin 4 (Hermetic usage), Magic Theory 3 (Terram), Native Language 5 (being polite), Parma Magica 1 (Ignem), Penetration 2 (Terram), Survival 3 (mountains)
 
 Arts: Cr 8, In 0, Mu 4, Pe 3, Re 5; An 0, Aq 0, Au 0, Co 1, He 0, Ig 0, Im 0, Me 0, Te 12+3, Vi 0
 
-Twilight Scars: None Equipment: Wizardly robes.
+Twilight Scars: None
 
-Encumbrance: 0 (0) Spells Known:
+Equipment: Wizardly robes.
 
-Wall of Protecting Stone (CrTe 25/+35) The Crystal Dart (Mu(Re)Te 10/+27) Rock of Viscid Clay (MuTe 15/+27) Earth that Breaks No More (MuTe 20/+27) Obliteration of the Metallic Barrier (Pe(Re)Te 20/+22) The Earth's Carbuncle (Re(Mu)Te 15/+27) Hands of the Grasping Earth (Re(Mu)Te 15/+23)
+Encumbrance: 0 (0)
+
+Spells Known:
+- Wall of Protecting Stone (CrTe 25/+35)
+- The Crystal Dart (Mu(Re)Te 10/+27)
+- Rock of Viscid Clay (MuTe 15/+27)
+- Earth that Breaks No More (MuTe 20/+27)
+- Obliteration of the Metallic Barrier (Pe(Re)Te 20/+22)
+- The Earth's Carbuncle (Re(Mu)Te 15/+27)
+- Hands of the Grasping Earth (Re(Mu)Te 15/+23)
 
 Customization Notes: This Ex Miscellanea tradition grants the Virtues Giant Blood and Affinity with Terram, and the Flaw Necessary Condition: Touching Stone. The stone in question can be a piece of stone worn on a belt, for example, but it must be at least the size of the magus's hand (the magus has big hands). The magus doesn't have his full allowance of Flaws, so you can take another Major Flaw, or three more Minor, and corresponding Virtues.
 
@@ -1732,8 +1801,7 @@ Personality Traits: Brave +3, Wrathful +6, Thoughtful –2
 Reputations: None.
 
 Combat:
-
-Dodging: Init +1, Attack n/a, Defense +4, Damage n/a
+- Dodging: Init +1, Attack n/a, Defense +4, Damage n/a
 
 Soak: +2
 
@@ -1752,24 +1820,29 @@ Equipment: Wizardly robes, smelling slightly of smoke.
 Encumbrance: 0 (0)
 
 Spells Known: 
-
-Palm of Flame (CrIg 5/+41)
-Pilum of Fire (CrIg 20/+41)
-Arc of Fiery Ribbons (CrIg 25/+41)
-Ball of Abysmal Flame (CrIg 35/+41)
-Circle of Encompassing Flame (CrIg 35/+41)
+- Palm of Flame (CrIg 5/+41)
+- Pilum of Fire (CrIg 20/+41)
+- Arc of Fiery Ribbons (CrIg 25/+41)
+- Ball of Abysmal Flame (CrIg 35/+41)
+- Circle of Encompassing Flame (CrIg 35/+41)
 
 Customization Notes: The Flambeau is very much a one-trick pony. He can throw fire at opponents extremely effectively. His focused Arts and Magical Focus mean that he has some Penetration even for powerful spells. However, he is much weaker if he tries to do anything else. Wrathful and Enemies can be swapped out for other Flaws with no trouble, to break the stereotype a bit, as can his Greater Immunity. He can take another Minor Flaw, and balancing Minor Virtue.
 
 #### Guernicus
 
-Characteristics: Int +3, Per + Pre +1, Com 0, Str 0, Sta 0, Dex –2, Qik 0
+Characteristics: Int +3, Per +4, Pre +1, Com 0, Str 0, Sta 0, Dex –2, Qik 0
 
-Size: 0 Age: 25 (25) Decrepitude: 0 Warping Score: 0 (0)
+Size: 0
 
-Confidence Score: 1 (3) Virtues and Flaws: The Gift,
+Age: 25 (25)
 
-Hermetic Magus; Affinity with Intellego, Clear Thinker, Great Perception, Hermetic Prestige\*, Improved Characteristics, Puissant Intellego, Side Effect (lying is hard), Curse of Venus, Restriction (no magic for Sun duration after lying)
+Decrepitude: 0
+
+Warping Score: 0 (0)
+
+Confidence Score: 1 (3)
+
+Virtues and Flaws: The Gift, Hermetic Magus; Affinity with Intellego, Clear Thinker, Great Perception, Hermetic Prestige\*, Improved Characteristics, Puissant Intellego, Side Effect (lying is hard), Curse of Venus, Restriction (no magic for Sun duration after lying)
 
 Personality Traits: Honest +3, Fair +2, Nervous around the opposite sex +2
 
@@ -1779,49 +1852,52 @@ Combat: Dodging: Init +0, Attack n/a, Defense +2, Damage n/a
 
 Soak: +0
 
-Fatigue Levels: OK, 0, -1, -3, -5, Unconscious Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20)
+Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
+
+Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20)
 
 Abilities: Artes Liberales 1 (logic), Awareness 3 (clues), Brawl 1 (dodging), Charm 2 (people you suspect), Code of Hermes 3 (the local Tribunal), Concentration 1 (observing people or places), Folk Ken 4 (liars), Guile 2 (concealing investigations), Latin 4 (Hermetic terms), Magic Theory 3 (Intellego), Native Language 5 (questions), Order of Hermes Lore 1 (legal cases), Parma Magica 1
 
 Arts: Cr 0, In 12+3 (5), Mu 0, Pe 2, Re 0; An 0, Aq 0, Au 0, Co 5, He 0, Ig 0, Im 6, Me 6, Te 0, Vi 0
 
-Twilight Scars: None Equipment: Wizardly robes.
+Twilight Scars: None
 
-Encumbrance: 0 (0) Spells Known:
+Equipment: Wizardly robes.
 
-Physician's Eye (InCo 5/+20) Eyes of the Eagle (InIm 25/+21)
+Encumbrance: 0 (0)
 
-Summoning the Distant Image (InIm 25/+21) Invisibility of the Standing Wizard (PeIm 15/+8)
-
-Frosty Breath of the Stoken Lie (InMe 20/ +21)
-
-Peering Into the Mortal Mind (InMe 30/+21)
+Spells Known:
+- Physician's Eye (InCo 5/+20)
+- Eyes of the Eagle (InIm 25/+21)
+- Summoning the Distant Image (InIm 25/+21)
+- Invisibility of the Standing Wizard (PeIm 15/+8)
+- Frosty Breath of the Spoken Lie (InMe 20/ +21)
+- Peering Into the Mortal Mind (InMe 30/+21)
 
 Customization Notes: If the Guernicus lies (says something she believes to be untrue as if it were true), she cannot use any magic until the sun next rises or sets. Anyone who wants to tell a lie in her presence soon after she casts a spell (within two minutes or so) must make a relevant Personality Trait check against an Ease Factor equal to the magnitude of the spell cast. If the check fails, he cannot bring himself to lie, although he can remain silent. The Guernicus could take four more points of Flaws, and corresponding Virtues.
 
 #### Jerbiton
 
-Characteristics: Int +3, Per + Pre +1, Com +1, Str 0, Sta 0, Dex +1, Qik 0
+Characteristics: Int +3, Per +1, Pre +1, Com +1, Str 0, Sta 0, Dex +1, Qik 0
 
-Size: 0 Age: 25 (25)
+Size: 0
+
+Age: 25 (25)
 
 Decrepitude: 0
 
-Warping Score: 0 (0) Confidence Score: 1 (3)
+Warping Score: 0 (0)
 
-Virtues and Flaws: The Gift,
+Confidence Score: 1 (3)
 
-Hermetic Magus, Gentle Gift, Free Expression, Improved Characteristics,
-
-Privileged Upbringing,
-Puissant Music\*, Venus's Blessing, Deficient
-Technique (Perdo), Necessary Condition (singing); Susceptibility to Infernal Power
+Virtues and Flaws: The Gift, Hermetic Magus, Gentle Gift, Free Expression, Improved Characteristics, Privileged Upbringing, Puissant Music\*, Venus's Blessing, Deficient Technique (Perdo), Necessary Condition (singing); Susceptibility to Infernal Power
 
 Personality Traits: Friendly +3, Brave +2, Studious +1
 
 Reputations: None.
 
-Combat: Dodging: Init +0, Attack n/a, Defense +0, Damage n/a
+Combat:
+- Dodging: Init +0, Attack n/a, Defense +0, Damage n/a
 
 Soak: +0
 
@@ -1829,19 +1905,27 @@ Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
 
 Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20)
 
-Abilities: Artes Liberales 1 (music), Carouse 2 (maintaining dignity), Charm 3 (the opposite sex), Code of Hermes 1 (dealing with mundanes). Etiquette 2 (nobility), Folk Ken 2 (nobles), Guile 2 (fast excuses), Latin 5 (musical terms), Magic Theory 3 (Imaginem), Music 4+2 (singing) Native Language 5 (noble style), Order of Hermes
+Abilities: Artes Liberales 1 (music), Carouse 2 (maintaining dignity), Charm 3 (the opposite sex), Code of Hermes 1 (dealing with mundanes). Etiquette 2 (nobility), Folk Ken 2 (nobles), Guile 2 (fast excuses), Latin 5 (musical terms), Magic Theory 3 (Imaginem), Music 4+2 (singing) Native Language 5 (noble style), Order of Hermes Lore 2 (Jerbiton), Parma Magica 1 (Mentem)
 
-Lore 2 (Jerbiton), Parma Magica 1 (Mentem) Arts: Cr 6, In 1, Mu 6, Pe 1, Re 6; An 0, Aq 0, Au 0, Co 5, He 0, Ig 0, Im 10, Me 0, Te 0, Vi 0
+Arts: Cr 6, In 1, Mu 6, Pe 1, Re 6; An 0, Aq 0, Au 0, Co 5, He 0, Ig 0, Im 10, Me 0, Te 0, Vi 0
 
-Twilight Scars: None Equipment: Wizardly robes.
+Twilight Scars: None
+
+Equipment: Wizardly robes.
 
 Encumbrance: 0 (0)
 
 Spells Known:
-
-Phantasm of the Talking Head (CrIm 10/+16) Phantasm of the Human Form (CrIm 25/+16) Discern Own Illusions (InIm 15/+11) Taste of the Spices and Herbs (MuIm 5/+16) Aura of Ennobled Presence (MuIm 10/+16) Notes of a Delightful Sound (MuIm 10/+16) Disguise of the Transformed Image (MuIm 15/+16) Illusion of Cool Flames (PeIm 10/+6)
-
-Illusion of the Shifted Image (ReIm 10/+16) Wizard's Sidestep (ReIm 10/+16)
+- Phantasm of the Talking Head (CrIm 10/+16)
+- Phantasm of the Human Form (CrIm 25/+16)
+- Discern Own Illusions (InIm 15/+11)
+- Taste of the Spices and Herbs (MuIm 5/+16)
+- Aura of Ennobled Presence (MuIm 10/+16)
+- Notes of a Delightful Sound (MuIm 10/+16)
+- Disguise of the Transformed Image (MuIm 15/+16)
+- Illusion of Cool Flames (PeIm 10/+6)
+- Illusion of the Shifted Image (ReIm 10/+16)
+- Wizard's Sidestep (ReIm 10/+16)
 
 Customization Notes: The Jerbiton took Puissant Music as his free House-related Virtue. He is designed as a social creature who sees himself as an artist in music and magic. He can take up to three points more of Flaws, with the corresponding Virtues. Note that he has the Gentle Gift, and thus can interact with mundanes without any penalty.
 
@@ -1850,40 +1934,48 @@ Customization Notes: The Jerbiton took Puissant Music as his free House-related 
 Characteristics: Int +2, Per 0 Pre 0, Com -1, Str 0, Sta +2, Dex +1, Qik +1
 
 Size: 0
+
 Age: 25 (25)
+
 Decrepitude: 0
+
 Warping Score: 0 (0)
+
 Confidence Score: 1 (3)
 
 Virtues and Flaws: The Gift.
 
-Hermetic Magus; Major Magical Focus (Weather); Affinity with Auram, Cyclic Magic (Positive) — Day, Puissant Auram, Puissant Creo\*, Special Circumstances (during a storm); Ambitious (Major), Difficult Longevity Ritual; Cyclic Magic
-
-(Negative) — Night
+Hermetic Magus; Major Magical Focus (Weather); Affinity with Auram, Cyclic Magic (Positive) — Day, Puissant Auram, Puissant Creo\*, Special Circumstances (during a storm); Ambitious (Major), Difficult Longevity Ritual; Cyclic Magic (Negative) — Night
 
 Personality Traits: Ambitious +6, Wanderer +3, Brave +2
 
 Reputations: None.
 
-Combat: Dodging: Init +1, Attack n/a, Defense +1, Damage n/a
+Combat:
+- Dodging: Init +1, Attack n/a, Defense +1, Damage n/a
 
 Soak: +2
 
-Fatigue Levels: OK, 0, -1, -3, -5, Unconscious Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20)
+Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
+
+Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20)
 
 Abilities: Area Lore 3 (routes between settlements), Artes Liberales 1 (astronomy), Athletics 1 (hiking), Awareness 1 (weather signs), Hunt 2 (small game), Latin 4 (Hermetic terms), Magic Theory 3 (Auram), Native Language 5 (talking to travelers), Parma Magica 1 (Ignem), Penetration 2 (Auram), Stealth 3 (in woodland), Survival 4 (in bad weather)
 
 Arts: Cr 6+3, In 4, Mu 4, Pe 3, Re 5; An 0, Aq 0, Au 12+3, Co 2, He 0, Ig 0, Im 0, Me 2, Te 0, Vi 0
 
-Twilight Scars: None Equipment: Wizardly robes.
+Twilight Scars: None
 
-Encumbrance: 0 (0) Spells Known:
+Equipment: Wizardly robes.
 
-Jupiter's Resounding Blow (CrAu 10/+26) Clouds of Rain and Thunder (CrAu 25/+35)
+Encumbrance: 0 (0)
 
-Clouds of Summer Snow (CrAu 25/+35)
-
-Pull of the Skybound Winds (CrAu 30/+26) Wings of the Soaring Wind (Cr(Re)Au 30/+27)
+Spells Known:
+- Jupiter's Resounding Blow (CrAu 10/+26)
+- Clouds of Rain and Thunder (CrAu 25/+35)
+- Clouds of Summer Snow (CrAu 25/+35)
+- Pull of the Skybound Winds (CrAu 30/+26)
+- Wings of the Soaring Wind (Cr(Re)Au 30/+27)
 
 Customization Notes: The Mercere can take another three points of Flaws and as many points of Virtues. He is quite capable of traveling alone, and probably prefers to do so. By moving scores from Hunt and Stealth into social Abilities such as Charm, he can be made more likely to travel with a group.
 
@@ -1893,28 +1985,28 @@ Characteristics: Int +3, Per +1 Pre +1, Com +2, Str -1, Sta -1, Dex -1, Qik -1
 
 Size: 0
 
-Age: 25 (25) Decrepitude: 0
+Age: 25 (25)
 
-Warping Score: 0 (0) Confidence Score: 1 (3)
+Decrepitude: 0
 
-Virtues and Flaws: The Gift; Hermetic Magus; Strong Faerie
+Warping Score: 0 (0)
 
-Blood (Undine); Deft Imaginem, Faerie Magic\*, Free Study, Puissant Imaginem, Student of Faerie; Chaotic Magic, Plagued by
+Confidence Score: 1 (3)
 
-Faerie, Faerie Upbringing
+Virtues and Flaws: The Gift; Hermetic Magus; Strong Faerie Blood (Undine); Deft Imaginem, Faerie Magic\*, Free Study, Puissant Imaginem, Student of Faerie; Chaotic Magic, Plagued by Faerie, Faerie Upbringing
 
-Personality Traits: Mercurial +3, Honest –2,
+Personality Traits: Mercurial +3, Honest –2, Reliable –3
 
-Reliable –3
 Reputations: None.
 
-Combat: Dodging: Init –1, Attack n/a, Defense –1, Damage n/a
+Combat:
+- Dodging: Init –1, Attack n/a, Defense –1, Damage n/a
 
 Soak: -1
 
-Fatigue Levels: OK, 0, -1, -3, -5, Unconscious Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15),
+Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
 
-Incapacitated (16–20)
+Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16–20)
 
 Abilities: Artes Liberales 1 (rhetoric), Charm 2 (gaining trust), Faerie Lore 3+2 (water fay), Faerie Magic 1 (illusions), Folk Ken 2 (what people will believe), Guile 5 (sustained lies), Latin 4 (Hermetic terms), Magic Theory 3 (Imaginem), Native Language 5 (faeries), Penetration 2 (Mentem), Parma Magica 1 (Mentem)
 
@@ -1924,21 +2016,16 @@ Twilight Scars: None
 
 Equipment: Wizardly robes.
 
-Encumbrance: 0 (0) Spells Known:
+Encumbrance: 0 (0)
 
-Phantasmal Animal (CrIm 20/+17)
-
-Phantasm of the Human Form (CrIm 25/+17)
-
-Image Phantom (MuIm 20/+17)
-
-Veil of Invisibility (PeIm 20/+14)
-
-Wizard's Sidestep (ReIm 10/+17)
-
-Panic of the Trembling Heart (CrMe 15/+9)
-
-The Call to Slumber (ReMe 10/+9)
+Spells Known:
+- Phantasmal Animal (CrIm 20/+17)
+- Phantasm of the Human Form (CrIm 25/+17)
+- Image Phantom (MuIm 20/+17)
+- Veil of Invisibility (PeIm 20/+14)
+- Wizard's Sidestep (ReIm 10/+17)
+- Panic of the Trembling Heart (CrMe 15/+9)
+- The Call to Slumber (ReMe 10/+9)
 
 Customization Notes: The Merinita can take another three points of Flaws and as many Virtues. The type of Strong Faerie Blood can also be changed easily. They might look younger than 25, due to the influence of Strong Faerie Blood, but need not.
 
@@ -1948,37 +2035,30 @@ Characteristics: Int +3, Per -2, Pre 0, Com 0, Str 0, Sta +2, Dex 0, Qik +1
 
 Size: 0
 
-Age: 25 (25) Decrepitude: 0
+Age: 25 (25)
+
+Decrepitude: 0
 
 Warping Score: 0(0)
 
 Confidence Score: 1(3)
 
-Virtues and Flaws:
-
-The Gift; Hermetic Magus;
-
-Elemental Magic, Book Learner,
-
-Cautious Sorcerer, Latent Magical Ability, Minor Magical Focus(certamen)\*, Skilled Parens, Ambitious (Major), Weak Magic Resistance,
-
-Susceptibility to Divine Power
+Virtues and Flaws: The Gift; Hermetic Magus; Elemental Magic, Book Learner, Cautious Sorcerer, Latent Magical Ability, Minor Magical Focus(certamen)\*, Skilled Parens, Ambitious (Major), Weak Magic Resistance, Susceptibility to Divine Power
 
 Personality Traits: Ambitious +6, Authoritarian +3, Respectful +3, Brave +2
 
 Reputations: None.
 
-Combat: Dodging: Init +1, Attack n/a, Defense +1,
+Combat:
+- Dodging: Init +1, Attack n/a, Defense +1,
 
 Damage n/a
 
 Soak: +2
 
-**Fatigue** Levels: OK, 0, -1, -3, -5, Unconscious
+Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
 
-Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15),
-
-Incapacitated (16–20)
+Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16–20)
 
 Abilities: Artes Liberales 1 (arithmetic), Charm 2 (magi), Code of Hermes 1 (certamen law), Etiquette 2 (Hermetic), Finesse 2 (Terram), Folk Ken 3 (magi), Guile 2 (lying to underlings), Intrigue 2 (Hermetic politics), Latin 4 (Hermetic terms), Leadership 3 (running institutions), Magic Theory 3 (Creo), Native Language 5 (giving orders), Order of Hermes Lore 2 (Tremere), Parma Magica 1 (Mentem), Penetration 3 (Ignem)
 
@@ -1988,23 +2068,17 @@ Twilight Scars: None
 
 Equipment: Wizardly robes.
 
-Encumbrance: 0 (0) Spells Known:
+Encumbrance: 0 (0)
 
-Circling Winds of Protection (Cr(Re)Au 20/+16)
-
-Rain of Stones (MuAu(Te) 20/+16)
-
-Pilum of Fire (CrIg 20/+16)
-
-Soothe the Raging Flames (PeIg 20/+16)
-
-Seal the Earth (CrTe 15/+16)
-
-The Miner's Keen Eye (InTe 20/+16)
-
-Earth that Breaks No More (MuTe 20/+16)
-
-Pit of the Gaping Earth (PeTe 15/+16)
+Spells Known:
+- Circling Winds of Protection (Cr(Re)Au 20/+16)
+- Rain of Stones (MuAu(Te) 20/+16)
+- Pilum of Fire (CrIg 20/+16)
+- Soothe the Raging Flames (PeIg 20/+16)
+- Seal the Earth (CrTe 15/+16)
+- The Miner's Keen Eye (InTe 20/+16)
+- Earth that Breaks No More (MuTe 20/+16)
+- Pit of the Gaping Earth (PeTe 15/+16)
 
 Customization Notes: The Tremere can take three more points of Flaws, and a similar number of Virtues. At the moment, he is a social and political creature, but the score in one of those Abilities could be moved into a Martial Ability to make him more of a fighter. Elemental Magic makes it difficult to move Art scores around. Initially, he was assigned scores of Aq 3, Au 6, Ig 6, and Te 6.
 
@@ -2024,26 +2098,20 @@ Warping Score: 0 (0)
 
 Confidence Score: 2 (5)
 
-Virtues and Flaws: The Gift, Hermetic Magus, Life-Linked
+Virtues and Flaws: The Gift, Hermetic Magus, Life-Linked Spontaneous Magic, Great Intelligence, Improved Characteristics, Life Boost, Piercing Gaze, Self-Confident\*; Painful Magic, Tormenting Master, Weak Parens
 
-Spontaneous Magic, Great Intelligence, Improved Characteristics,
-
-Life Boost, Piercing Gaze, Self-Confident\*;
-Painful Magic, Tormenting Master, Weak Parens
-
-Personality Traits: Argumentative +3, Brave +2,
-
-Trusting –2
+Personality Traits: Argumentative +3, Brave +2, Trusting –2
 
 Reputations: None.
 
-Combat: Dodging: Init +1, Attack n/a, Defense +4, Damage n/a
+Combat:
+- Dodging: Init +1, Attack n/a, Defense +4, Damage n/a
 
 Soak: +2
 
-Fatigue Levels: OK, 0, -1, -3, -5, Unconscious Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15),
+Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
 
-Incapacitated (16–20)
+Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16–20)
 
 Abilities: Artes Liberales 1 (logic), Awareness 2 (ambushes), Bargain 2 (luxuries), Brawl 3 (grappling), Concentration 2 (spellcasting), Guile 2 (spur of the moment), Intrigue 2 (conspiracies), Latin 4 (Hermetic terms), Leadership 2 (long-time followers), Magic Theory 3 (Mentem), Native Language 5 (arguing), Parma Magica 1 (Mentem)
 
@@ -2056,13 +2124,12 @@ Equipment: Wizardly robes.
 Encumbrance: 0 (0)
 
 Spells Known:
-
-Pains of the Perpetual Worry (CrMe 20/+16)
-Posing the Silent Question (InMe 20/+16)
-Trust of Childlike Faith (PeMe 10/+11)
-Aura of Rightful Authority (ReMe 20+16)
-
-Aura of Rightful Authority (ReMe 20+16) Scent of Peaceful Slumber (ReMe 20/+16)
+- Pains of the Perpetual Worry (CrMe 20/+16)
+- Posing the Silent Question (InMe 20/+16)
+- Trust of Childlike Faith (PeMe 10/+11)
+- Aura of Rightful Authority (ReMe 20+16)
+- Aura of Rightful Authority (ReMe 20+16)
+- Scent of Peaceful Slumber (ReMe 20/+16)
 
 Customization Notes: The Tytalus can take up to three more points of Flaws, and a similar number of Virtues.
 
@@ -2080,33 +2147,20 @@ Warping Score: 0 (0)
 
 Confidence Score: 1 (3)
 
-Virtues and Flaws: The Gift. Hermetic Magus, Affinity with
-
-Craft (metalsmith), Affinity with Craft
-
-(stonemason), Affinity with Terram,
-
-Faerie Blood (Dwarf), Puissant Craft (metalsmith), Puissant Craft (stonemason), Puissant Terram,
-
-Verditius Magic\*; Dwarf, Weak Spontaneous
-
-Magic; Difficult Spontaneous Magic
+Virtues and Flaws: The Gift; Hermetic Magus, Affinity with Craft (metalsmith), Affinity with Craft (stonemason), Affinity with Terram, Faerie Blood (Dwarf), Puissant Craft (metalsmith), Puissant Craft (stonemason), Puissant Terram, Verditius Magic\*; Dwarf, Weak Spontaneous Magic; Difficult Spontaneous Magic
 
 Personality Traits: Disciplined +3, Perfectionist +3, Spontaneous –2
 
 Reputations: None.
 
-Combat: Dodging: Init +0, Attack n/a, Defense +0,
+Combat:
+- Dodging: Init +0, Attack n/a, Defense +0, Damage n/a
 
-Damage n/a
-
-**Soak**: +1
+Soak: +1
 
 Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
 
-Wound Penalties: -1(1-3), -3(4-6), -5(7-9),
-
-Incapacitated (10–12)
+Wound Penalties: -1(1-3), -3(4-6), -5(7-9), Incapacitated (10–12)
 
 Abilities: Artes Liberales 1 (geometry), Awareness 3 (flaws in stone and metal work), Athletics 2 (endurance), Craft (metalsmith) 5+3 (iron), Craft (stonemason) 4+3 (decorations), Faerie Lore 2 (dwarfs), Latin 4 (Hermetic terms), Magic Theory 3 (Terram), Native Language 5 (talking about metal and stone), Parma Magica 1 (Terram), Philosophiae 1 (natural philosophy)
 
@@ -2119,20 +2173,13 @@ Equipment: Wizardly robes.
 Encumbrance: 0 (0)
 
 Spells Known:
-
-Seal the Earth (CrTe 15/+23)
-
-Touch of Midas (CrTe 20/+25)
-
-Wall of Protecting Stone (CrTe 25/+23)
-
-*The Crystal Dart* (Mu(Re)Te 10/+21)
-
-Edge of the Razor (MuTe 20/+21)
-
-Pit of the Gaping Earth (PeTe 15/+19)
-
-Hands of the Grasping Earth (Re(Mu)Te 15/+21)
+- Seal the Earth (CrTe 15/+23)
+- Touch of Midas (CrTe 20/+25)
+- Wall of Protecting Stone (CrTe 25/+23)
+- The Crystal Dart (Mu(Re)Te 10/+21)
+- Edge of the Razor (MuTe 20/+21)
+- Pit of the Gaping Earth (PeTe 15/+19)
+- Hands of the Grasping Earth (Re(Mu)Te 15/+21)
 
 Customization Notes: The Verditius can take another three Minor Flaws, or one Major, and balancing Virtues. In addition, her Craft Abilities can be changed for different crafts without changing the concept much. Finally, not everyone descended from dwarfs is as small as they are, so that Flaw could be swapped for others without affecting the character on a fundamental level.
 
@@ -3001,9 +3048,7 @@ When creating your own Story Flaws, bear in mind that they should always depend 
 
 Minor Story Flaws are much the same as Major Story Flaws, except that the character gets some solid benefit from the situation as well as being dragged into stories at inopportune moments.
 
-Note that, when you take a Story Flaw, you are promising the rest of the
-
-troupe that you will play in those stories. Your character may not like the events that the Story Flaw leads to, but you should choose one that will lead to stories you want to play.
+Note that, when you take a Story Flaw, you are promising the rest of the troupe that you will play in those stories. Your character may not like the events that the Story Flaw leads to, but you should choose one that will lead to stories you want to play.
 
 ### Personality & Story Flaws
 
@@ -3976,9 +4021,7 @@ You are capable of instilling great dread through your appearance. This can work
 
 Everyone witnessing you displaying your Frightful Presence must make an immediate Brave Personality roll against an Ease Factor of 3. Add your Presence to the Ease Factor, ignoring any negative sign (for example, a Presence of +3 or –3 makes the Ease Factor 6). A failure means that they either attempt to flee your immediate vicinity, or else are cowed before your glory.
 
-If the targets remain within your presence (because they are awed or because they are trapped), they can reattempt the Brave roll every two minutes. Once a person
-
-has been affected by the Frightful Presence and recovered from its effects, he cannot be affected again; although you will acquire an appropriate Reputation (such as Fearsome or Awesome) at a score of 2 among those you have affected, which will color your dealings with them.
+If the targets remain within your presence (because they are awed or because they are trapped), they can reattempt the Brave roll every two minutes. Once a person has been affected by the Frightful Presence and recovered from its effects, he cannot be affected again; although you will acquire an appropriate Reputation (such as Fearsome or Awesome) at a score of 2 among those you have affected, which will color your dealings with them.
 
 This effect has a Penetration Total of 0.
 
@@ -7783,9 +7826,7 @@ By sensing passions, the character can often recognize incorporeal spirits. You 
 
 In addition, this Ability allows the character to Sense Holiness and Unholiness in a limited fashion, much like the Sense Holiness and Unholiness Ability. She can tell that something is either holy or unholy, but she cannot distinguish between the two. She feels the emotional presence associated with the Divine or the Infernal, but cannot pinpoint its supernatural origin. Thus, she might mistake a demon with a fair shape for an angel, or a fearsome-looking angel for a demon. By identifying the target's primary emotions or desires, however, you can usually get a good idea of which realm the target is associated with, assuming the character can penetrate its Magic Resistance.
 
-Sense Passions is either a false power (see the False Power Flaw), or is associated with the Infernal. This means that it always appears infernal to divine or infernal detection. The presence of Infernal taint allows the Sense Holiness and
-
-Unholiness aspect to work. If the troupe allows Divine powers to be false, this may be the false version of Sense Holiness and Unholiness. *Specialties*: auras, emotions, Personality Traits, in a general area. (Supernatural)
+Sense Passions is either a false power (see the False Power Flaw), or is associated with the Infernal. This means that it always appears infernal to divine or infernal detection. The presence of Infernal taint allows the Sense Holiness and Unholiness aspect to work. If the troupe allows Divine powers to be false, this may be the false version of Sense Holiness and Unholiness. *Specialties*: auras, emotions, Personality Traits, in a general area. (Supernatural)
 
 #### Shapeshifter\*
 You may change your shape into that of a mundane animal from the size of a robin (-10) to that of a bear (+2). This requires a few seconds' (one round's) concentration, and a roll of Stamina + Shapeshifter against an Ease Factor of 9. Changing back to human form requires the same concentration, and the same roll. You have a limited repertoire of shapes, one for every point you have in the Shapeshift ability. Every time you raise the Ability by one point, you may choose a new shape.<br>
@@ -8499,9 +8540,7 @@ Number of Teamsters required: 1 for every 10 points of (all inhabitants, excludi
 | Typical use (average of about 2 seasons per year)  | x1   |
 | Heavy use (average of 3 seasons or more per year ) | x1.5 |
 
-Take the total of the points for all the laboratories in the covenant. For an Upkeep score of between –5 (the lowest possible) and +5, the number of points per laboratory is as specified in the above table. For example, a standard laboratory (Upkeep 0) equates to 10 points. Beyond +5, the number of extra points gained per level of Upkeep increase is equal to the new Upkeep score times ten. For example, increasing the Upkeep from +5 to +6 increases the number of points by 60 (+6 multiplied by ten), taking it from 150 to 210. Thus, for a laboratory with an Upkeep of +2 or greater, the number of points is equal to ten times the number of experience points needed to buy an Art score with the same
-
-value as the Upkeep, as specified in the Advancement Table, page 375. For example, a lab with an Upkeep of +15 equates to 1200 points, ten times the cost of an Art score of 15 (120 experience points). There is no upper limit on an Upkeep score, except the covenant's ability to pay for it!
+Take the total of the points for all the laboratories in the covenant. For an Upkeep score of between –5 (the lowest possible) and +5, the number of points per laboratory is as specified in the above table. For example, a standard laboratory (Upkeep 0) equates to 10 points. Beyond +5, the number of extra points gained per level of Upkeep increase is equal to the new Upkeep score times ten. For example, increasing the Upkeep from +5 to +6 increases the number of points by 60 (+6 multiplied by ten), taking it from 150 to 210. Thus, for a laboratory with an Upkeep of +2 or greater, the number of points is equal to ten times the number of experience points needed to buy an Art score with the same value as the Upkeep, as specified in the Advancement Table, page 375. For example, a lab with an Upkeep of +15 equates to 1200 points, ten times the cost of an Art score of 15 (120 experience points). There is no upper limit on an Upkeep score, except the covenant's ability to pay for it!
 
 #### Points of Weapons and Armor
 
@@ -9233,7 +9272,7 @@ If the concentration roll fails, the spell fails. If the spell casting roll invo
 
 | Situation                         | Ease Factor    |
 | --------------------------------- | -------------- |
-| Still Still                       | Trivial (0)    |
+| Still                             | Trivial (0)    |
 | Walking                           | Simple (3)     |
 | Running                           | Average (9)    |
 | Dodging                           | Hard (12)      |
@@ -9253,7 +9292,7 @@ There are some things it is possible to do while maintaining a spell, but imposs
 | Conversation                            | Very Hard (15)                                                                                |
 | Casting another spell                   | Very Hard (15)                                                                                |
 | Maintaining another spell               | Hard (12), +3 for each spell beyond the second                                                |
-| Injured                                 | 3 times wound penalty<br>to Concentration rolls<br>(this is instead of the<br>normal penalty) |
+| Injured                                 | 3 times wound penalty to Concentration rolls<br>(this is instead of the normal penalty) |
 
 For a continuing situation, such as injury or maintaining another spell, you must make a concentration roll every two minutes (Diameter duration). If you are undistracted, you can maintain concentration for fifteen minutes for every point you have in the Concentration Ability.
 
@@ -11242,7 +11281,7 @@ If your stabilization season succeeds, you gain one breakthrough point per magni
 
 **SUCCESSFUL STABILIZATION SEASON: Magnitudes of Stabilized Discovery = Breakthrough Points**
 
-As a side affect to this stabilization process, you receive Warping Points from your attempts to understand this new magic. The number of Warping Points gained is the magnitude of the effect minus a simple die. If you gain 2 or more Warping Points you must roll to avoid Wizard's Twilight (page 228). You can obviously mitigate the chance of gaining Warping Points by experimenting with lower magnitude effects. However, this lengthens your original research process, since it is your accumulated effect magnitudes that ultimately add up to your Breakthrough. Experimenting with higher magnitude spells hastens you toward your Breakthrough and increases your risk of Wizard's Twilight.
+As a side effect to this stabilization process, you receive Warping Points from your attempts to understand this new magic. The number of Warping Points gained is the magnitude of the effect minus a simple die. If you gain 2 or more Warping Points you must roll to avoid Wizard's Twilight (page 228). You can obviously mitigate the chance of gaining Warping Points by experimenting with lower magnitude effects. However, this lengthens your original research process, since it is your accumulated effect magnitudes that ultimately add up to your Breakthrough. Experimenting with higher magnitude spells hastens you toward your Breakthrough and increases your risk of Wizard's Twilight.
 
 **WARPING POINTS GAINED: The magnitude of the Stabilized Discovery – a simple die**
 
@@ -11723,7 +11762,7 @@ If you find that the laboratory has more than the allowed number of Specializati
 > 
 > **Imaginem:** The lab may be extravagantly decorated, or even partly illusory. Equally, it may give the impression of having some other specialization, since this lab may not be all it seems.
 > 
-> **Mentem:** Such a lab is often puzzling and elaborate, and may feature esoteric toys or ornate
+> **Mentem:** Such a lab is often puzzling and elaborate, and may feature esoteric toys or ornate mirrors.
 > 
 > **Terram:** The lab is often subterranean, and is usually solidly built, with an earthy or mineral smell. Many samples of metals, gems, or crystals may be present.
 > 
@@ -11765,7 +11804,7 @@ Flaws may be chosen either due to choice or to general neglect, or because you n
 
 Just as for Virtues, some Flaws can later be removed, whereas others are due to fundamental properties of the lab, and cannot be altered. If removing a Minor or Major Flaw, the magus needs to have sufficient free points of space, since the occupied Size will increase. Where it is possible, removing a Free Flaw usually takes one season (unless otherwise stated), removing a Minor Flaw also takes one season, and removing a Major Flaw takes two seasons. This time is occupied with repairing or restoring the faulty component, but it can be combined with a season spent improving the Refinement. For example, a lab might start out with Size -1, Refinement 0, and the Cramped Flaw. With a Magic Theory of 4, one season of work will suffice both to increase the Refinement to +1 and to lose the Cramped Flaw.
 
-### Structure Virtues and Flams
+### Structure Virtues and Flaws
 
 These Virtues and Flaws are due to the physical structure and basic arrangement of the laboratory, and its location. Gaining or losing them usually entails some kind of construction project on or within the lab, or on the immediate surrounds.
 
@@ -11871,7 +11910,7 @@ These Virtues and Flaws are due to the quality and quantity of the mundane mater
 
 **Elementary:** This is a cut-down version of a Hermetic laboratory, with an extremely limited selection of lab equipment installed, so that only one category of lab activity (see the list of possible activity Specializations earlier on page ) is possible at all. The type of activity is determined at the time of construction, and is fixed thereafter. Still, such a limited lab is cheaper to maintain and takes only one season to build completely. It might be suitable for an extremely confined space, such as in a small cave, or in a wagon. Some covenants build elementary labs in powerful auras for the purposes of vis extraction. –2 General Quality, –3 Upkeep.
 
-### Supernatural Virtues and Plaws
+### Supernatural Virtues and Flaws
 
 These Virtues and Flaws are due to supernatural effects, creatures, or items. The means of gaining or losing these Virtues and Flaws varies widely — most cannot be gained by some straightforward effort on the part of a magus. Some, such as gaining a supernatural guardian, may require a story or a Hermetic breakthrough. Others, such as the presence of a vis source in the lab, or a Hermetic predecessor, are generally choices for the storyguide to make, rather than the player. In the latter case, the player might not be aware of these Virtues and Flaws (and thus the complete statistics of the lab).
 
@@ -11959,7 +11998,7 @@ Below are listed some example Features, together with the possible Specializatio
 
 **Mechanism:** Any kind of large mechanical device, consisting of many moving parts such as cogs and wheels, used for the basic automation of one or more tasks. Specializations: Vis Extraction, Re.
 
-**Mirror:** A grand and ornamental silvered mirror, or other reflective surface. Specializations: In. Im. Me.
+**Mirror:** A grand and ornamental silvered mirror, or other reflective surface. Specializations: In, Im, Me.
 
 **Monolith:** A huge slab of primal rock, possibly carved with mystical symbols. Specializations: Te, Vi.
 
@@ -12545,7 +12584,7 @@ Botches with InAn normally result in false information.
 #### LEVEL 5
 
 ##### Image of the Beast
-R: Arc D: Mom, T: Ind<br>
+R: Arc, D: Mom, T: Ind<br>
 Gives you a hazy mental image of an animal you have an Arcane Connection to. Wounds caused by an animal are an Arcane Connection to that animal with a lifetime of a few hours. This spell can thus be used to find out what was responsible for an attack. All spells cast by Chavin of Tytalus can be recognized because they promote or advocate war or violence. In his version of this spell, the claws and teeth of the beast appear more dangerous.<br> 
 (Base 1, +4 Arcane Connection)
 
@@ -15957,7 +15996,7 @@ Aegis of the Hearth was created by Notatus, the first Primus of House Bonisagus.
 
 ##### Circular Ward against Demons
 R: Touch, D: Ring, T: Circle<br>
-All creatures with Infernal Might equal to or less than or equal to the level of the spell are unable to enter the circle or harm those within it. If you cast the spell again, the stronger ring dispels the weaker, regardless of the order of casting. Some magi cast this spell before going to sleep at night. At night, from certain angles, the ring may be seen as a silver-hued dome.<br>
+All creatures with Infernal Might equal to or less than the level of the spell are unable to enter the circle or harm those within it. If you cast the spell again, the stronger ring dispels the weaker, regardless of the order of casting. Some magi cast this spell before going to sleep at night. At night, from certain angles, the ring may be seen as a silver-hued dome.<br>
 (Base spell)
 
 ##### Maintaining the Demanding Spell
@@ -17820,9 +17859,7 @@ Creature statistics are very similar to human statistics. The main differences a
 
 ## Creature Might
 
-Supernatural creatures have one of Divine Might, Infernal Might, Magic Might, and Faerie Might, depending on the realm to which they
-
-belong. Might Score is very important, as it provides Magic Resistance, fuels the creature's powers, and determines the Penetration of those powers. The higher the Might Score, the more powerful the creature.
+Supernatural creatures have one of Divine Might, Infernal Might, Magic Might, and Faerie Might, depending on the realm to which they belong. Might Score is very important, as it provides Magic Resistance, fuels the creature's powers, and determines the Penetration of those powers. The higher the Might Score, the more powerful the creature.
 
 All powers have a Might cost, although sometimes it is zero. A creature that hasn't used any powers recently has a Might Pool equal to its Might Score. To use a power, it spends the appropriate number of points from the Might Pool. If the Might Pool doesn't have enough points in to use a power, the creature cannot use that power.
 
@@ -22312,9 +22349,7 @@ Strictly speaking, that remains true: Atlas did not hire me as Line Editor for t
 
 When John Nephew approached me three years ago about preparing the manuscript for a definitive edition of the game, it did not take me long to decide that I wanted to do it. While I thought ten years ago, and still think now, that I am the wrong person to create a new edition of Ars Magica, I can claim to be the right person to bring together rules and background scattered across the forty and more books of the Ars Magica Fifth Edition line to create a definitive version of the core rules for that edition. The result is the book that you hold in your hands (or view on your screen, if you have the digital version).
 
-As well as collecting rules, such as those for Mystery Initiation and integrating non-Hermetic magic, that could not be included in the original core rule book because they had not yet been
-
-written, it was also a chance to include clarifications and expansions that had been added over the years.
+As well as collecting rules, such as those for Mystery Initiation and integrating non-Hermetic magic, that could not be included in the original core rule book because they had not yet been written, it was also a chance to include clarifications and expansions that had been added over the years.
 
 I also took the opportunity to gather errata from the online Ars Magica community, to correct errors that people had noticed over the last twenty years, and clarify things that had proved less transparent than I had hoped when originally publishing them.
 
@@ -22848,9 +22883,7 @@ Die The Weapon Defense Modifier.
 
 Dfn: The Weapon Defense Modifier. Dam: The Weapon Damage Modifier.
 
-Str: The minimum strength score needed to use the weapon. The minimum strength requirements
-
-for a weapon and a shield must be met separately.
+Str: The minimum strength score needed to use the weapon. The minimum strength requirements for a weapon and a shield must be met separately.
 
 Load: The contribution that the weapon makes to Encumbrance (p20/p403).
 
@@ -22880,7 +22913,7 @@ If you already know the spell …
 
 #### Ritual Spellcasting Sequence
 
-If you spend 15 min and 1 pawn of vis per per spell magnitude …
+If you spend 15 min and 1 pawn of vis per spell magnitude …
 
 1. Determine your Ritual Casting Total, by rolling and adding your Casting Score, Artes Liberales, and Philosophiae.
     - a. Always use a stress die.
@@ -23086,7 +23119,7 @@ BASE PART: Same as Individual
 
 BASE GROUP: Mass of ten standard Individuals
 
-BASE ROOM: Large enough to accomodate 100 standard Individuals
+BASE ROOM: Large enough to accommodate 100 standard Individuals
 
 BASE STRUCTURE: Ten base Rooms
 
