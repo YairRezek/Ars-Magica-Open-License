@@ -47,16 +47,26 @@ Open License Markdown version by OriginalMadman, https://github.com/OriginalMadm
 ### Identified Issues From Source PDF Release
 
 Some identified issues present in source PDF (latest release as per march 2026). Note that a few more than these were fixed on the fly (unfortunately didn't start listing them until later in the process):
+- Ocasionally missing punctuation at section ends, in tables, lists (some fixed).
+- Style inconsistency with hyphenation: Long-Term/Long Term/longterm (partly fixed); as well as Brother-Knight, Long-Winded, Simple-Minded and likely some more (none fixed).
+- Inconsistent use of "unravelling" (British spelling) and "unraveling" (American spelling). Three of each throughout the book (not fixed, but we probably should due to linkage)
+- Often inconsistent use of punctuation in lists (only occasionally fixed).
 - p16: House Tremere voting sigil reference to p314 likely should be p224 (fixed)
 - p31-43: Mixed use of both semicolon and comma under Virtues and Flaws throughout all Character Templates (not fixed)
 - p76: Early in first column "The character many learn..." should of course be "The character may learn". (fixed)
+- p236: Weird trailing colon at "Script Bonus: +15:" (fixed)
 - p263: Casting Tablets" section is weird have the table within the text (fixed)
 - p275: Extraordinary results section looks a bit jumbled in source (cuts from investigating an enchanted item by experimentation straight into overall results w/o heading, David Chart: "The heading got taken into the insert, and not replaced in the main text.", flow problem is fixed in the markdown)
+- p279: "Having deciding" should be "Having decided" (fixed)
+- p279: "your must add" should be "you must add" (fixed)
+- p296: Extra "an" in 2nd paragraph Regio: "...there is an another regio level" (fixed)
 - p325: Creo Auram Guidelines: Bottom bullet points are indented under Level 25 (fixed)
 - p372: Circular Ward Against Demons grammar: "equal to or less than or equal to the level" (fixed)
+- p401: Extra "is" in "Fist: This is includes..." (fixed)
+- p524: Extra "a" in "...enforce a myriad rules" (fixed)
+- p528: Fast Saga grammar garble: "Virtues and Flaws that affect only a character's starting scores are much less important, and should probably be made reclassified or made more effective if they are to be balanced." (not fixed)
 - p544: Repeated word: "1 pawn of vis per per spell magnitude" (fixed)
 - p546: Spelling error: "accomodate" (fixed)
-- Inconsistent use of "unravelling" (British spelling) and "unraveling" (American spelling). Three of each throughout the book (not fixed, but we probably should due to linkage)
 
 Found Index Issues (p558-568):
 - Arcane Lore listed as Ability instead of Virtue in Index (fixed)
@@ -363,7 +373,13 @@ There are also a number of differences. None of these features are unique to **A
 
 First, the available character types are not equal in power. Hermetic magi are more powerful than other possible player characters, far more powerful in many cases. Power does not necessarily correspond to how interesting a character is to play, and The Gift that allows magi to work magic also causes them problems in most social situations.
 
-Second, most players have more than one character. This is called troupe-style roleplaying, and is discussed in detail in the Sagas chapter. The role of storyguide may also pass around the group, or troupe, and player characters are divided between central characters (magi and companions) and supporting cast (grogs). A player would normally only play one central character at a time, but might play several grogs at once. This Europe, apart from all the mythic power around the place, the rule system works well for a magic-centered campaign in any fantasy setting. The Mythic Europe, Stories, and Sagas chapters discuss ways to run the game, and provide hints to help you do whatever you want with it.
+Second, most players have more than one character. This is called troupe-style roleplaying, and is discussed in detail in the Sagas chapter. The role of storyguide may also pass around the group, or troupe, and player characters are divided between central characters (magi and companions) and supporting cast (grogs). A player would normally only play one central character at a time, but might play several grogs at once. This means that every player can have one of the powerful characters, but that those characters need not all be involved in every story.
+
+Third, the game is normally centered around the place where the characters live, called a covenant, rather than around a wandering group of adventurers. This opens up a whole set of new story possibilities, and the covenant is as much a character in the game as any of the human beings.
+
+Finally, characters in Ars Magica improve over years of game time, and most sagas cover at least a few years of game time. Adventures are occasional interruption in their lives, not everyday activities, and consequences that come years down the road can still have an impact on an ongoing series of connected stories, called a saga. Characters gain experience depending on how many seasons they have lived, not how many adventures they have been on. In many sagas, families grow, children grow up, and characters die of old age. Ars Magica's rules provide plenty of support for the ways that characters can study, learn, and improve over time.
+
+Ars Magica is particularly well-suited to long running sagas, but it can also be played as a one-off, one-session game, or a mini-series of connected stories. Similarly, though the official setting is very similar to historical medieval Europe, apart from all the mythic power around the place, the rule system works well for a magic-centered campaign in any fantasy setting. The Mythic Europe, Stories, and Sagas chapters discuss ways to run the game, and provide hints to help you do whatever you want with it.
 
 In the last analysis, Ars Magica is a game. If you have fun with it, you are doing it right.
 
@@ -461,7 +477,7 @@ Stress dice are rolled when a character is under stress, and thus might succeed 
 
 For a stress roll, roll a ten-sided die. One and zero have special meanings, but the other numbers count for their value, as normal. On a roll of one, roll again and double the number rolled. If the reroll is also a one, roll again and quadruple. On second and subsequent rolls, a zero counts as ten. If a player rolled ten consecutive ones, the number rolled on the eleventh throw would be multiplied by 1024. Stress die totals in the hundreds are likely to happen a handful of times in a long-running saga.
 
-On the first roll, zero counts as zero, and you must normally roll for a botch. Roll a number of tensided dice determined by the situation, called the botch dice, and if any of them show a zero, you have botched. If you roll no zeroes on the botch dice, the die roll is simply a zero.
+On the first roll, zero counts as zero, and you must normally roll for a botch. Roll a number of ten-sided dice determined by the situation, called the botch dice, and if any of them show a zero, you have botched. If you roll no zeroes on the botch dice, the die roll is simply a zero.
 
 Some stress rolls cannot botch. In that case, a zero on the initial roll is simply a roll of zero. Similarly, if a character has qualities that reduce the number of applicable botch dice to zero, the stress roll cannot botch.
 
@@ -1794,7 +1810,7 @@ Warping Score: 0 (0)
 
 Confidence Score: 1 (3)
 
-Virtues and Flaws: The Gift; Hermetic Magus; Greater Immunity (Fire), Major Magical Focus (Flames); Affinity with Creo, Affinity with Ignem, Life Boost, Puissant Ignem*; Enemies, Necessary Condition (must clap his hands), Wrathful (Major)
+Virtues and Flaws: The Gift; Hermetic Magus; Greater Immunity (Fire), Major Magical Focus (Flames); Affinity with Creo, Affinity with Ignem, Life Boost, Puissant Ignem\*; Enemies, Necessary Condition (must clap his hands), Wrathful (Major)
 
 Personality Traits: Brave +3, Wrathful +6, Thoughtful –2
 
@@ -2527,7 +2543,11 @@ Your character may start with any equipment or possessions she might reasonably 
 >
 > Age: 87 (64), Hermetic age 62 yrs past Gauntlet.
 >
-> Decrepitude: 0(2) Warping Score: 6 (19) Confidence Score: 1 (3)
+> Decrepitude: 0(2) 
+> 
+> Warping Score: 6 (19) 
+> 
+> Confidence Score: 1 (3)
 >
 > Virtues and Flaws: The Gift; Hermetic Magus; Puissant Art Perdo) (free Virtue), Flawless Magic, Affinity with Perdo, Enduring Constitution, Fast Caster, Hermetic Prestige, Premonitions, Second Sight, Strong-Willed; Blatant Gift, Driven (Hunt Enemies of the Order), Enemies (Renounced Magus and his Lackeys); Disfigured (Facial Burns)
 >
@@ -2543,9 +2563,9 @@ Your character may start with any equipment or possessions she might reasonably 
 >
 > Soak: +0
 >
-> Fatigue Levels: OK, 0, 0, -2, -4, Unconscious Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20) (\* accumulated wound penalties
->
-> reduce by 1 for Enduring Constitution)
+> Fatigue Levels: OK, 0, 0, -2, -4, Unconscious 
+> 
+> Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20) (\* accumulated wound penalties reduce by 1 for Enduring Constitution)
 >
 > Abilities: Artes Liberales 4 (Grammar), Athletics 2 (Running), Awareness 3 (Alertness), Bargain 2 (Books), Bavaria Lore 2 (Geography), Brawl 3 (Punching), Chirurgy 2 (Bind Wounds), Civil and Canon Law 1 (Local Customs), Code of Hermes 3 (Wizards' Marches), Concentration 3 (Spells), Dominion Lore 2 (Divine Creatures), Etiquette 2 (Merchants), Faerie Lore 2 (Faerie Forests), Finesse 4 (Precision), Folk Ken 2 (Peasants), German 5 (Merchant Slang), Great Weapon 4 (Long Spear), Guile 3 (Fast talk), Hunt 2 (Tracking), Infernal Lore 2 (Demons), Intrigue 3 (Plotting), Latin 4 (Hermetic), Leadership 3 (Intimidation), (Local Area) Lore 3 (Personalities), Magic Lore 2 (Creatures), Magic Theory 5 (Inventing Spells), Order of Hermes Lore 4 (Criminals), Parma Magica 5 (Corpus), Penetration 6 (Perdo), Philosophiae 2 (Moral Philosophy), Premonitions 3 (Enemy Magi), Profession - Scribe 2 (Speed), Second Sight 3 (Invisibility), Stealth 2 (Shadowing), Survival 2 (Forests), Swim 2 (Rough Water)
 >
@@ -2558,114 +2578,34 @@ Your character may start with any equipment or possessions she might reasonably 
 > Encumbrance: 0(2)
 >
 > Spells Known:
->
-> Cripple the Howling Wolf (PeAn 25/+27\*).
->
-> Mastery 1 (Fast Casting)
->
-> Parching Wind (PeAq 20/+28\*), Mastery 1 (Penetration)
->
-> Curse of the Desert (PeAg 25/+29\*),
->
-> Mastery 2 (Penetration, Magic Resistance)
->
-> The Chirurgeon's Healing Touch (CrCo 20/+32),
->
-> Mastery 1 (Penetration)
->
-> Whispers through the Black Gate (InCo (Me) 15/+13),
->
-> Mastery 1 (Quiet Casting)
->
-> The Inexorable Search (InCo 20/+22),
->
-> Mastery 1 (Penetration)
->
-> Gift of the Bear's Fortitude (MuCo 25/+20),
->
-> Mastery 1 (Fast Casting)
->
-> Dust to Dust (PeCo 15/+37\*), Mastery 1 (Penetration)
->
-> The Wound that Weeps (PeCo 15/+37\*),
->
-> Mastery 1 (Penetration)
->
-> Incantation of the Milky Eyes (PeCo 30/+37\*),
->
-> Mastery 1 (Penetration)
->
-> Twist of the Tongue (PeCo 30/+37\*),
->
-> Mastery 1 (Fast Casting)
->
-> Clenching Grasp of the Crushed Heart (PeCo 40/+38\*).
->
-> Mastery 2 (Penetration, Magic Resistance)
->
-> Endurance of the Berserkers (ReCo 15/+25),
->
-> Mastery 1 (Fast Casting)
->
-> Lifting the Dangling Puppet (ReCo 15/+25),
->
-> Mastery 1 (Penetration)
->
-> Seven-League Stride (ReCo 30/+25),
->
-> Mastery 1 (Fast Casting)
->
-> The Leap of Homecoming (ReCo 35/+25),
->
-> Mastery 1 (Fast Casting)
->
-> The Great Rot (PeHe 25/+28\*),
->
-> Mastery 1 (Fast Casting)
->
-> Winter's Icy Touch (PeIg 10/+28),
->
-> Mastery 1 (Penetration)
->
-> Soothe the Raging Flames (PeIg 20/+28),
->
-> Mastery 1 (Fast Casting)
->
-> Ward Against Heat and Flames (ReIg 25/+16),
->
-> Mastery 1 (Fast Casting)
->
-> Veil of Invisibility (PeIm 20/+28),
->
-> Mastery 2 (Quiet Casting x 2)
->
-> Tip of the Tongue (PeMe 5/+29),
->
-> Mastery 2 (Fast Casting, Magic Resistance)
->
-> Calm the Motion of the Heart (PeMe 15/+28),
->
-> Mastery 1 (Quiet Casting)
->
-> Loss of But a Moment's Memory (PeMe 15/+30\*),
->
-> Mastery 3 (Quiet Casting x 2, Still Casting)
->
-> Blessing of Childlike Bliss (PeMe 25/+30)
->
-> Mastery 3 (Quiet Casting x 2, Still Casting)
->
-> Rusted Decay of Ten-Score Years (PeTe 20\*, Target
->
-> increased to Group/+28\*), Mastery 1 (Fast Casting)
->
-> Demon's Eternal Oblivion (PeVi 30/+30\*).
->
-> Mastery 1 (Fast Casting)
->
-> Wind of Mundane Silence (PeVi 30/+30),
->
-> Mastery 1 (Magic Resistance)
+> - Cripple the Howling Wolf (PeAn 25/+27\*), Mastery 1 (Fast Casting)
+> - Parching Wind (PeAq 20/+28\*), Mastery 1 (Penetration)
+> - Curse of the Desert (PeAg 25/+29\*), Mastery 2 (Penetration, Magic Resistance)
+> - The Chirurgeon's Healing Touch (CrCo 20/+32), Mastery 1 (Penetration)
+> - Whispers through the Black Gate (InCo (Me) 15/+13), Mastery 1 (Quiet Casting)
+> - The Inexorable Search (InCo 20/+22), Mastery 1 (Penetration)
+> - Gift of the Bear's Fortitude (MuCo 25/+20), Mastery 1 (Fast Casting)
+> - Dust to Dust (PeCo 15/+37\*), Mastery 1 (Penetration)
+> - The Wound that Weeps (PeCo 15/+37\*), Mastery 1 (Penetration)
+> - Incantation of the Milky Eyes (PeCo 30/+37\*), Mastery 1 (Penetration)
+> - Twist of the Tongue (PeCo 30/+37\*), Mastery 1 (Fast Casting)
+> - Clenching Grasp of the Crushed Heart (PeCo 40/+38\*), Mastery 2 (Penetration, Magic Resistance)
+> - Endurance of the Berserkers (ReCo 15/+25), Mastery 1 (Fast Casting)
+> - Lifting the Dangling Puppet (ReCo 15/+25), Mastery 1 (Penetration)
+> - Seven-League Stride (ReCo 30/+25), Mastery 1 (Fast Casting)
+> - The Leap of Homecoming (ReCo 35/+25), Mastery 1 (Fast Casting)
+> - The Great Rot (PeHe 25/+28\*), Mastery 1 (Fast Casting)
+> - Winter's Icy Touch (PeIg 10/+28), Mastery 1 (Penetration)
+> - Soothe the Raging Flames (PeIg 20/+28), Mastery 1 (Fast Casting)
+> - Ward Against Heat and Flames (ReIg 25/+16), Mastery 1 (Fast Casting)
+> - Veil of Invisibility (PeIm 20/+28), Mastery 2 (Quiet Casting x 2)
+> - Tip of the Tongue (PeMe 5/+29), Mastery 2 (Fast Casting, Magic Resistance)
+> - Calm the Motion of the Heart (PeMe 15/+28), Mastery 1 (Quiet Casting)
+> - Loss of But a Moment's Memory (PeMe 15/+30\*), Mastery 3 (Quiet Casting x 2, Still Casting)
+> - Blessing of Childlike Bliss (PeMe 25/+30), Mastery 3 (Quiet Casting x 2, Still Casting)
+> - Rusted Decay of Ten-Score Years (PeTe 20\*, Target increased to Group/+28\*), Mastery 1 (Fast Casting)
+> - Demon's Eternal Oblivion (PeVi 30/+30\*), Mastery 1 (Fast Casting)
+> - Wind of Mundane Silence (PeVi 30/+30), Mastery 1 (Magic Resistance)
 >
 > \* If Darius is holding his Talisman, he has a + 4 bonus to cast spells which "Destroy things at a distance". This should be added to these spells if he is holding it.
 >
@@ -6722,7 +6662,7 @@ You are bad at learning new things. Subtract 3 from all Advancement Totals deriv
 
 #### Primitive Equipment
 *Minor, General*<br>
-The character is capable of using only the simplest tools and equipment. Perhaps her training was incomplete, or she has been affected by some sort of curse, or maybe she originates from a less technologically capable society and refuses to adapt. She is restricted to Inexpensive weapons and armor only, regardless of what is made available to her. If forced by order or necessity to use other equipment, her Burden is one point higher when she uses anything other than Inexpensive weapons, and one point higher when she uses anything other than Inexpensive armor. She suffers a -1 penalty to Attack and Defense if using inappropriate weapons, and a -1penalty to Initiative and Protection if using inappropriate armor. If the character works as a laborer or craftsman, she uses simple tools and primitive procedures. Unless working with simple tasks, the base Craft Value (see City & Guild, page 67) is raised by 1-3 at the storyguide's discretion, based on complexity. Further, her workshop may not be improved with regards to Innovation (City & Guild, page 65). Other Profession Abilities dependent on tools and equipment suffer a similar penalty for complex tasks. You should only take this Flaw if the character belongs to a profession that relies heavily on equipment, such as a smith, mason, or soldier.
+The character is capable of using only the simplest tools and equipment. Perhaps her training was incomplete, or she has been affected by some sort of curse, or maybe she originates from a less technologically capable society and refuses to adapt. She is restricted to Inexpensive weapons and armor only, regardless of what is made available to her. If forced by order or necessity to use other equipment, her Burden is one point higher when she uses anything other than Inexpensive weapons, and one point higher when she uses anything other than Inexpensive armor. She suffers a -1 penalty to Attack and Defense if using inappropriate weapons, and a -1 penalty to Initiative and Protection if using inappropriate armor. If the character works as a laborer or craftsman, she uses simple tools and primitive procedures. Unless working with simple tasks, the base Craft Value (see City & Guild, page 67) is raised by 1-3 at the storyguide's discretion, based on complexity. Further, her workshop may not be improved with regards to Innovation (City & Guild, page 65). Other Profession Abilities dependent on tools and equipment suffer a similar penalty for complex tasks. You should only take this Flaw if the character belongs to a profession that relies heavily on equipment, such as a smith, mason, or soldier.
 
 #### Primogeniture Lineage
 *Minor, Story and Hermetic*<br>
@@ -9220,7 +9160,7 @@ The vis used in a Ritual spell must match either the Technique or the Form of th
 
 The magnitude of Ritual spells, and the need to incorporate many elements, means that a stress die is always rolled, which normally creates the possibility of a botch. However, if the maga has mastered the spell, there are no botch dice in a calm situation, as for Formulaic spells.
 
-See the table to determine whether the spell succeeds or not, and how many Fatigue levels are lost. Fatigue levels lost to Ritual Magic are longterm Fatigue levels, which can only be regained by a good night's sleep (see page 404). If the maga does not have enough Fatigue levels remaining, she takes wounds as well. If she would have taken one more Fatigue level, the wound is minor, if two more, medium, if three more, heavy, and if four more, incapacitating. For example, consider a maga with two remaining Fatigue levels who is casting a level 30 Ritual spell. She generates a casting total of 22, 8 less than the spell level. The spell is cast, but the maga loses her remaining two Fatigue levels, falling unconscious, and then takes a Light wound.
+See the table to determine whether the spell succeeds or not, and how many Fatigue levels are lost. Fatigue levels lost to Ritual Magic are Long Term Fatigue levels, which can only be regained by a good night's sleep (see page 404). If the maga does not have enough Fatigue levels remaining, she takes wounds as well. If she would have taken one more Fatigue level, the wound is minor, if two more, medium, if three more, heavy, and if four more, incapacitating. For example, consider a maga with two remaining Fatigue levels who is casting a level 30 Ritual spell. She generates a casting total of 22, 8 less than the spell level. The spell is cast, but the maga loses her remaining two Fatigue levels, falling unconscious, and then takes a Light wound.
 
 
 | Casting Total — Spell Level | Spell Cast? | Fatigue Levels Lost |
@@ -9954,7 +9894,7 @@ Loss of concentration, however, does not necessarily mean that certamen is over 
 >
 > **Moratamis:** Initiative: +1 (Qik –1 + Finesse 2), Attack: +10 (Rego: Rego 8 + Pre +2) or +2 (Terram: Terram 0 + Pre +2), Defense +11 (Rego: Rego 8 + Per +3) or +3 (Terram: Terram 0 + Per +3), Weakening +5 (Int +2 + Penetration 3), Resistance +6 (Sta +1 + Parma Magica 5)
 >
-> **Carolus:** Initiative: +2 (Oik 0 + Finesse 2), Attack +6 (Rego: Rego 7 + Pre -1) or +5 (Terram: Terram 6 + Pre -1), Defense +6 (Rego: Rego 7 + Per -1) or +5 (Terram: Terram 6 + Per -1), Weakening +3 (Int +2 + Penetration 1), Resistance +4 (Sta +1 + Parma Magica 3)
+> **Carolus:** Initiative: +2 (Qik 0 + Finesse 2), Attack +6 (Rego: Rego 7 + Pre -1) or +5 (Terram: Terram 6 + Pre -1), Defense +6 (Rego: Rego 7 + Per -1) or +5 (Terram: Terram 6 + Per -1), Weakening +3 (Int +2 + Penetration 1), Resistance +4 (Sta +1 + Parma Magica 3)
 >
 > The phantasms for the contest are the stones of the floor under their feet, which try to rise up and engulf them.
 >
@@ -9978,7 +9918,7 @@ Loss of concentration, however, does not necessarily mean that certamen is over 
 
 ## Mysteries
 
-Mysteries are paths to greater magical power requiring sacrifices beyond the time for study. Many magi within the Order of Hermes pursue mysteries, and four of the Houses are Mystery Cults — organizations that teach a mystery. Extensive details on the mysteries of the Hermetic Houses are given in Houses of Hermes: Mystery Cults, while The Mysteries Revised Edition gives extensive information on other mysteries found within the Order of Hermes. This section provides information about the outermost laver of the House mysteries, and one of the deeper mysteries for each House. Player characters in the Mystery Cult Houses are Initiated into the Outer Mystery as apprentices, but must seek Initiation into deeper mysteries in play. Rules for Mystery Initiation are given in the Long-Term Events chapter, on page 387.
+Mysteries are paths to greater magical power requiring sacrifices beyond the time for study. Many magi within the Order of Hermes pursue mysteries, and four of the Houses are Mystery Cults — organizations that teach a mystery. Extensive details on the mysteries of the Hermetic Houses are given in Houses of Hermes: Mystery Cults, while The Mysteries Revised Edition gives extensive information on other mysteries found within the Order of Hermes. This section provides information about the outermost layer of the House mysteries, and one of the deeper mysteries for each House. Player characters in the Mystery Cult Houses are Initiated into the Outer Mystery as apprentices, but must seek Initiation into deeper mysteries in play. Rules for Mystery Initiation are given in the Long-Term Events chapter, on page 387.
 
 ### Bjornaer — The Heartbeast
 
@@ -10051,7 +9991,7 @@ Initiates of this station are bound by the lifestyle of the House (Vow) and find
 
 **Ease Factor:** 21, as Major Virtue (Minor Potency in an aspect of Corpus, may use Enigmatic Wisdom in lieu of Medicine and Chirurgy.)
 
-**Script Bonus:** +15:
+**Script Bonus:** +15
 
 **Script Details:** Major Ordeal, constructed of three minor flaws (Vow – to not pollute the body and use it aptly, Deleterious Circumstances – while ill, Disfigured – stigmata) +9, Sympathetic Bonus (a complete year cycle as a plant, or similar) +3, Special time and place (Symbolic rebirth) +3.
 
@@ -11265,7 +11205,7 @@ Consult the Extraordinary Results Chart as normal to determine the effect on you
 
 You are hoping for a Discovery. If you do not roll a Discovery, your spell or item is still affected by the Extraordinary Results Chart. Most likely you will end up with a slightly odd Hermetic effect. If your original research involved a spell and that spell is flawed or difficult to cast, you may reinvent the spell using the rules found in the Arcane Experimentation section. If your research involved an item and that item is flawed, you may attempt to reinvent that item, but all vis used in the initial experiment is lost.
 
-If your spell or enchanted item research takes more than a single season to complete you must continue to roll on the Extraordinary Results Chart for each season. Having deciding how you will use your Risk Modifier in a previous season, you must continue to use it in the same manner for consecutive seasons. If you subtracted 1 from your initial roll on the Extraordinary Results Chart in your first season, for example, you must subtract 1 from every additional roll on the Extraordinary Results Chart in additional seasons until the item or spell is completed. You may accrue odd and weird results as your research progresses, but may continue to experiment providing you don't receive a Complete Failure or Disaster result.
+If your spell or enchanted item research takes more than a single season to complete you must continue to roll on the Extraordinary Results Chart for each season. Having decided how you will use your Risk Modifier in a previous season, you must continue to use it in the same manner for consecutive seasons. If you subtracted 1 from your initial roll on the Extraordinary Results Chart in your first season, for example, you must subtract 1 from every additional roll on the Extraordinary Results Chart in additional seasons until the item or spell is completed. You may accrue odd and weird results as your research progresses, but may continue to experiment providing you don't receive a Complete Failure or Disaster result.
 
 If you do achieve a Discovery during your experimentation then the original research was a success. Ignore the Discovery sub-chart of the Extraordinary Results Chart; that chart applies to those not investigating the deeper mystery of Hermetic magic, instead discovering something more intimate about their personal connection to magic and the Arts. You, however, have found that elusive element of magic that you started your original research searching for. Now you must stabilize that experimental process to better understand your discovery.
 
@@ -11273,7 +11213,7 @@ Each spell or magical enchantment can only lead to one discovery. You may repeat
 
 #### Stabilizing The Unknown
 
-After you have achieved your Discovery, you must stabilize that process through exact repetition. You must repeat the experimentation, continuing for the same number of seasons and using the exact Lab Total and risk modifier that you used to find your Discovery. If you used vis during your process you must repeat the amount used. You must roll again on the Extraordinary Results Chart, and you must modify your roll in the same direction as you did to make the Discovery. This means that if you added your risk modifier to your roll your must add it again, if you subtracted your risk modifier from your roll you must subtract it this second time.
+After you have achieved your Discovery, you must stabilize that process through exact repetition. You must repeat the experimentation, continuing for the same number of seasons and using the exact Lab Total and risk modifier that you used to find your Discovery. If you used vis during your process you must repeat the amount used. You must roll again on the Extraordinary Results Chart, and you must modify your roll in the same direction as you did to make the Discovery. This means that if you added your risk modifier to your roll you must add it again, if you subtracted your risk modifier from your roll you must subtract it this second time.
 
 During the stabilization season you do not need to roll a Discovery to succeed. As long as you do not roll a harmful effect (Disaster, No Benefit, Complete Failure) you stabilize your discovery. Ignore any beneficial result you might roll. If you do roll a harmful effect your stabilization process fails, although you may try again in a subsequent season.
 
@@ -11934,7 +11874,7 @@ These Virtues and Flaws are due to supernatural effects, creatures, or items. Th
 
 **Magic Item\*:** A magic item is installed in the lab. It might be self-made, donated, purchased, or perhaps some kind of artifact which was found in the lab. If the item is very large, taking up a significant amount of space in the lab, then it should be treated as a Minor Virtue instead of a Free Virtue. This may grant Virtues or Flaws, alter Characteristics, or add to Specializations (see the guidelines later).
 
-**Regio\*:** The interior of the lab is in a regio, and there is an another regio level, which the owner can navigate easily. If there are further regio levels, this Virtue may be taken more than once. +3 Size, +1 Warping.
+**Regio\*:** The interior of the lab is in a regio, and there is another regio level, which the owner can navigate easily. If there are further regio levels, this Virtue may be taken more than once. +3 Size, +1 Warping.
 
 #### Flaws (Free)
 
@@ -16388,8 +16328,8 @@ In order to learn a supernatural ability, the student must reach a score of at l
 
 If the student has had the Hermetic Arts opened (see page 206), he must subtract 15 or the sum of all his Art scores, whichever is higher, from the Source Quality.
 
-*For example, a character bas Shapeshifter 3, Dowsing 4, and The Gift. He wants to learn Animal Ken. He must find a character who is willing to teach it to him, despite his Gift, and who can manage a Source Quality of at least 12. If the character has also been opened to the Hermetic Arts, but still has scores of 0 in all of them, he needs to find a teacher who can manage a Source Quality of 27 (15 for the Arts, +3 for Enchanting Music, +4 for Dowsing, +5 for the number of experience points he needs to gain). This is effectively impossible.
-*
+*For example, a character has Shapeshifter 3, Dowsing 4, and The Gift. He wants to learn Animal Ken. He must find a character who is willing to teach it to him, despite his Gift, and who can manage a Source Quality of at least 12. If the character has also been opened to the Hermetic Arts, but still has scores of 0 in all of them, he needs to find a teacher who can manage a Source Quality of 27 (15 for the Arts, +3 for Enchanting Music, +4 for Dowsing, +5 for the number of experience points he needs to gain). This is effectively impossible.*
+
 Mystery Cults can often avoid the penalty due to prior mystical abilities through their Initiation rituals.
 
 ## Training Creatures
@@ -17038,7 +16978,7 @@ Armor is important — it helps prevent characters from sustaining grievous woun
 
 #### Materials
 
-Quilted cloth, a thin laver of leather, or layers of leather-strap-wrapped fur or cloth is the most basic of armor. Using very thick leather, or hardening leather by wax impregnation or baking, makes a better material for deflecting crushing damage. Using further reinforcements to the leather through the application of studs, rings, or other metal pieces strengthens it against slashes and cuts. Breaking the leather up into a flexible array of scales allows the use of thicker pieces of leather. Replacing the leather scales with small overlapping metal plates again increases protection while retaining flexibility, although metal weighs slightly more. At the top of 1220 technology lies chain mail, a suit of flexible metal made of links of chain.
+Quilted cloth, a thin layer of leather, or layers of leather-strap-wrapped fur or cloth is the most basic of armor. Using very thick leather, or hardening leather by wax impregnation or baking, makes a better material for deflecting crushing damage. Using further reinforcements to the leather through the application of studs, rings, or other metal pieces strengthens it against slashes and cuts. Breaking the leather up into a flexible array of scales allows the use of thicker pieces of leather. Replacing the leather scales with small overlapping metal plates again increases protection while retaining flexibility, although metal weighs slightly more. At the top of 1220 technology lies chain mail, a suit of flexible metal made of links of chain.
 
 #### Outfittings
 
@@ -17135,7 +17075,7 @@ Partial armor covers the vital areas only, and generally consists of a hauberk (
 
 **Dodge:** Simply getting out of the way of opponents, without trying to do damage.
 
-**Fist:** This is includes any unarmed attacks made with the hands
+**Fist:** This includes any unarmed attacks made with the hands
 
 **Kick:** Unarmed attacks made with the feet are more powerful, but less accurate. Characters may kick standing opponents but most often this attack is used against prone enemies.
 
@@ -17921,7 +17861,7 @@ The format for a creature is very similar to the format for a character, and use
 
 **Soak:** The creature's Soak score.
 
-**Fatigue Levels:** A listing of the creature's Fatigue levels and penalties, which represent how tired the creature is. A notation of 0/0 indicates that the creature has two Fatigue levels that impose no penalty, -1/-1/-1 indicates three Fatigue levels that impose a -1penalty. The penalty from Fatigue is always the penalty imposed by the least-tired remaining level, so a creature with three -1 Fatigue levels has a Fatigue penalty of -1 from when it loses its last 0 Fatigue level until it loses the third –1 Fatigue level. Fatigue is described on page 403. Not all creatures can tire.
+**Fatigue Levels:** A listing of the creature's Fatigue levels and penalties, which represent how tired the creature is. A notation of 0/0 indicates that the creature has two Fatigue levels that impose no penalty, -1/-1/-1 indicates three Fatigue levels that impose a -1 penalty. The penalty from Fatigue is always the penalty imposed by the least-tired remaining level, so a creature with three -1 Fatigue levels has a Fatigue penalty of -1 from when it loses its last 0 Fatigue level until it loses the third –1 Fatigue level. Fatigue is described on page 403. Not all creatures can tire.
 
 **Wound Penalties:** Shows the penalties for wounds of varying severity, with the number of points of damage required to inflict a wound of that severity shown in brackets. Not all creatures can be wounded.
 
@@ -18008,7 +17948,9 @@ Virtues and Flaws: Lightning Reflexes, Infamous
 
 Qualities: Ambush Predator, Loathsome Appearance, Slippery, Venomous
 
-Personality Traits: Hostile +2 Reputations: Venomous (local) 4
+Personality Traits: Hostile +2 
+
+Reputations: Venomous (local) 4
 
 Combat:
 
@@ -18048,11 +17990,17 @@ Virtues and Flaws: Ferocity (when injured), Improved Characteristics (x2), Tough
 
 Qualities: Aggressive, Extra Natural Weapons (claws), Fast Runner, Grapple, Hardy, Imposing Appearance, Large Claws, Pursuit Predator, Tough Hide
 
-Personality Traits: Brave +3, Slothful +3, Aggressive +2 Reputations: Ferocious (local) 2
+Personality Traits: Brave +3, Slothful +3, Aggressive +2 
+
+Reputations: Ferocious (local) 2
 
 Combat:
 
-Claws: Init 0, Attack +13, Defense +9, Damage +10 Teeth: Init 0, Attack +11, Defense +7, Damage +7 Grapple: Init 0, Attack +7, Defense +5, Damage n/a
+Claws: Init 0, Attack +13, Defense +9, Damage +10
+
+Teeth: Init 0, Attack +11, Defense +7, Damage +7
+
+Grapple: Init 0, Attack +7, Defense +5, Damage n/a
 
 Soak: +10
 
@@ -18062,9 +18010,7 @@ Wound Penalties: -1 (1-7), -3 (8-14), -5 (15-21), Incapacitated (22-28), Dead (2
 
 Abilities: Athletics 3 (sprinting), Awareness 3 (prey), Brawl 5 (claws), Hunt 4 (deer), Survival 5 (foraging), Swim 3 (against the current)
 
-Natural Weapons:
-
-Large Claws: Init 0, Atk +5, Def +3, Dam +4; Teeth: Init 0, Atk +3, Def +1, Dam +1. The bear's tough hide and thick fur combine to give it a Protection of +3.
+Natural Weapons: Large Claws: Init 0, Atk +5, Def +3, Dam +4; Teeth: Init 0, Atk +3, Def +1, Dam +1. The bear's tough hide and thick fur combine to give it a Protection of +3.
 
 Appearance: The bear is a large, shaggy beast that weighs up to fifty stone (700 pounds) and stands over seven feet tall on its hind legs. Its coat may be light brown or yellowish in color to black; most often, it is medium brown. The bear has large claws and makes a bellowing roar.
 
@@ -18090,7 +18036,9 @@ Qualities: Aggressive, Hardy, Herd Animal, Tireless,
 
 Tough Hide
 
-Personality Traits: Brave +4, Angry +3 Reputations: Ill-tempered (local) 2
+Personality Traits: Brave +4, Angry +3
+
+Reputations: Ill-tempered (local) 2
 
 Combat:
 
@@ -18129,7 +18077,9 @@ Virtues and Flaws: Affinity with Brawl, Ferocity (charging), Tough, Oversensitiv
 
 Qualities: Aggressive, Domesticated, Tough Hide
 
-Personality Traits: Aggressive +2 Reputations: Strong 4 (local)
+Personality Traits: Aggressive +2
+
+Reputations: Strong 4 (local)
 
 Combat:
 
@@ -18287,7 +18237,9 @@ Virtues and Flaws: Ferocity (when ridden in battle), Improved Characteristics, L
 
 Qualities: Domesticated, Fast Runner, Herd Animal, Imposing Appearance, Tireless
 
-Personality Traits: Loyal +2, Brave +1 Reputations: Aggressive (local) 1
+Personality Traits: Loyal +2, Brave +1
+
+Reputations: Aggressive (local) 1
 
 Combat:
 
@@ -18325,7 +18277,9 @@ Virtues and Flaws: Improved Characteristics, Long-Winded, Sharp Ears, Reckless
 
 Qualities: Domesticated, Keen Sense of Smell, Pack Animal, Pursuit Predator, Vocal
 
-Personality Traits: Loyal +3, Reckless +3, Brave +2 Reputations: Loyal 2 (local)
+Personality Traits: Loyal +3, Reckless +3, Brave +2
+
+Reputations: Loyal 2 (local)
 
 Combat:
 
@@ -18403,7 +18357,9 @@ Virtues and Flaws: Higher Purpose (protect the herd), Improved Characteristics
 
 Qualities: Defensive Fighter, Extra Natural Weapons, Fast Runner, Good Jumper, Large Antlers, Sharp Ears
 
-Personality Traits: Brave +1 Reputations: Noble (local) 2
+Personality Traits: Brave +1
+
+Reputations: Noble (local) 2
 
 Combat:
 
@@ -18441,7 +18397,9 @@ Virtues and Flaws: Improved Characteristics (x2), Ferocity (when hungry), Long-W
 
 Qualities: Aggressive, Hardy, Keen Sense of Smell, Pack Animal/Pack Leader, Pursuit Predator, Sharp Ears, Thick Fur, Vocal
 
-Personality Traits: Brave +3, Cowardly +3 Reputations: Bloodthirsty (local) 4
+Personality Traits: Brave +3, Cowardly +3
+
+Reputations: Bloodthirsty (local) 4
 
 Combat:
 
@@ -19925,7 +19883,7 @@ Human Form: 1 point, Init 0, Corpus: The dragon can assume the form of a human b
 
 Instill Loyalty, 5 points, Init 0, Mentem: Stellatus can make any individual whom he can see totally loyal. This does not remove free will, but the victim is completely loyal to the dragon, and this loyalty lasts as long as Stellatus is alive.
 
-Fiery Breath, 1 point, Init +5, Ignem: Stellatus can breathe fire. The fire extends in a cone from his mouth, out to a distance of 20 paces, where it is 20 paces across. The fire has an intensity of +15. Dodging it is a Oik + Athletics roll against an Ease Factor of 9. A failure means that the character is engulfed in the flames, taking +45 damage, a success by 3 points or less means that a limb is covered, for +30 damage, a success by 4 to 6 points (that is, success against Ease Factor 12) means that the character is only brushed by the flames, for +15 damage, while success by 7 points or more (that is, success against Ease Factor 15) means that the character dodges out of the fire entirely.
+Fiery Breath, 1 point, Init +5, Ignem: Stellatus can breathe fire. The fire extends in a cone from his mouth, out to a distance of 20 paces, where it is 20 paces across. The fire has an intensity of +15. Dodging it is a Qik + Athletics roll against an Ease Factor of 9. A failure means that the character is engulfed in the flames, taking +45 damage, a success by 3 points or less means that a limb is covered, for +30 damage, a success by 4 to 6 points (that is, success against Ease Factor 12) means that the character is only brushed by the flames, for +15 damage, while success by 7 points or more (that is, success against Ease Factor 15) means that the character dodges out of the fire entirely.
 
 Master of Fire, 1 or more Might Points, Init 0, Ignem: Stellatus can control fire. He can duplicate any Hermetic Rego Ignem spell of fourth magnitude or less at the cost of 1 Might point. For every additional Might point he spends, the level of the spell increases by one magnitude.
 
@@ -20105,7 +20063,7 @@ These faeries are often encountered outside courts, on lonely roads, and guardin
 
 Faerie Might: 10 (Auram)
 
-Characteristics: Int +1, Per 0, Pre +3/-3, Com 0, Str 0, Sta 0, Dex 0, Oik 0
+Characteristics: Int +1, Per 0, Pre +3/-3, Com 0, Str 0, Sta 0, Dex 0, Qik 0
 
 Size: 0
 
@@ -20151,7 +20109,9 @@ Size: -2 Age: n/a (40)
 
 Virtues and Flaws: Narrowly Cognizant
 
-Personality Traits: Convivial +3, Generous +2, Careful –2 Reputations: None
+Personality Traits: Convivial +3, Generous +2, Careful –2
+
+Reputations: None
 
 Combat:
 
@@ -20185,7 +20145,7 @@ The Gift makes Mateos feel that the Gifted individual is a killjoy opposed to pa
 
 Faerie Might: 15 (Vim)
 
-Characteristics: Int -1, Per +2, Pre 0, Com 0, Str +2, Sta +0, Dex +2, Oik +3
+Characteristics: Int -1, Per +2, Pre 0, Com 0, Str +2, Sta +0, Dex +2, Qik +3
 
 Age: appears 25 Confidence: 1 (3)
 
@@ -20407,7 +20367,7 @@ Gigantic fauns are found in the Basque country in Iberia. Once they were much li
 
 Faerie Might: 50 (Aquam)
 
-Characteristics: Int +2, Per +1, Pre +4, Com +1, Str 0, Sta 0, Dex 0, Oik 0
+Characteristics: Int +2, Per +1, Pre +4, Com +1, Str 0, Sta 0, Dex 0, Qik 0
 
 Age: n/a (40)
 
@@ -20547,7 +20507,7 @@ Confidence is an aspect of free will, representing the ability of demons to put 
 
 #### Demons, Auras and Regiones
 
-Infernal creatures recover spent power more quickly in Infernal auras and regiones. Might Pool usually refreshes at a constant rate such that that all Might would be restored in a day; i.e. Infernal Might / 24 points per hour. In an Infernal aura, it refreshes at a faster rate:
+Infernal creatures recover spent power more quickly in Infernal auras and regiones. Might Pool usually refreshes at a constant rate such that all Might would be restored in a day; i.e. Infernal Might / 24 points per hour. In an Infernal aura, it refreshes at a faster rate:
 
 **NUMBER OF HOURS TO RESTORE ALL MIGHT: 24 - (2 x Infernal Aura)**
 
@@ -20817,7 +20777,9 @@ Size: +2
 
 Virtues and Flaws: Puissant Great Weapon, Poor Eyesight, Simple-Minded
 
-Personality Traits: Untamable +5, Intimidating +3 Reputations: Champion of Hell 1 (Infernal)
+Personality Traits: Untamable +5, Intimidating +3
+
+Reputations: Champion of Hell 1 (Infernal)
 
 Combat:
 
@@ -22075,7 +22037,7 @@ The troupe must simply decide whether the magi can change history. The assumptio
 
 ### The Order of Hermes
 
-The Order of Hermes might seem to be very well defined in the books, but in fact a very important question is left vague, for individual troupes to determine. How organized is the Order in practice? In theory, Tribunals, Quaesitors, Redcaps, and the Peripheral Code tie everything together and enforce a myriad rules. In your saga, that might be the case in practice as well, so that player characters who break the Code face punishment, unless they take careful steps to hide their infractions. Individual covenants might have to register with the Tribunal or be forcibly removed, and all new magi might be recorded in a central register.
+The Order of Hermes might seem to be very well defined in the books, but in fact a very important question is left vague, for individual troupes to determine. How organized is the Order in practice? In theory, Tribunals, Quaesitors, Redcaps, and the Peripheral Code tie everything together and enforce myriad rules. In your saga, that might be the case in practice as well, so that player characters who break the Code face punishment, unless they take careful steps to hide their infractions. Individual covenants might have to register with the Tribunal or be forcibly removed, and all new magi might be recorded in a central register.
 
 At the other extreme, Tribunals might be primarily social events, where the Code is only actually enforced if someone has made enemies of virtually every other magus in the area. Magi a century old might frequently appear and announce that they have been members of the Order for decades, and Redcaps might be supported by individual covenants who need messengers, rather than by the Order.
 
@@ -22171,7 +22133,9 @@ In a medium saga it is quite likely that companions and grogs will die of old ag
 
 ### Fast Saga
 
-In a fast saga, more than one year passes per game session, on average. In a fast saga, magi rapidly become powerful, and a magus who starts the saga fresh from his gauntlet can expect to die of natural causes before the end. Companions may be played only a handful of times before they die of In fast sagas, the emphasis is very much on the magi, particularly once they have become powerful. Virtues and Flaws that affect only a character's starting scores are much less important, and should probably be made reclassified or made more effective if they are to be balanced.
+In a fast saga, more than one year passes per game session, on average. In a fast saga, magi rapidly become powerful, and a magus who starts the saga fresh from his gauntlet can expect to die of natural causes before the end. Companions may be played only a handful of times before they die of old age.
+
+In fast sagas, the emphasis is very much on the magi, particularly once they have become powerful. Virtues and Flaws that affect only a character's starting scores are much less important, and should probably be made reclassified or made more effective if they are to be balanced.
 
 Fast sagas are good for players who want to play epic magi who create magical effects which influence the whole of Europe, but they are not a good way to start a saga. In a fast saga, characters change radically almost before you know it, so a slightly slower start is a good way to get to know them. If some members of the troupe are new to Ars Magica, it would be rather difficult for them to manage five or more seasons of study between every game session.
 
@@ -22787,7 +22751,7 @@ BELOW STABLE EASE FACTOR: Wound becomes one level worse
 
 Characters recover from all their wounds at the same time. Thus, a character with three Light and one Medium Wounds would make three Recovery rolls every week until the Light Wounds heal, and one every month until the Medium Wound became a Light Wound, at which point he would start making rolls every week for that wound.
 
-### Missile Weapoin Statistics
+### Missile Weapon Statistics
 
 | Weapon | Ability | Init | Atk | Def | Dam | Range | Str | Load | Cost |
 |--------|---------|------|-----|-----|-----|-------|-----|------|------|
@@ -22801,23 +22765,15 @@ Characters recover from all their wounds at the same time. Thus, a character wit
 
 \* Requires two free bands to load and fire.
 
-Ability: The Weapon Ability needed to use this weapon.
-
-Init: The Weapon Initiative Modifier.
-
-Atk: The Weapon Attack Modifier.
-
-Dfn: The Weapon Defense Modifier.
-
-Dam: The Weapon Damage Modifier.
-
-Range: The range increment for the weapon, in paces.
-
-Str. The minimum strength score needed to use the weapon. The minimum strength requirements for a weapon and a shield must be met separately
-
-Load: The contribution that the weapon makes to Encumbrance (p20/p403). For bows and the sling, this includes the load of appropriate ammunition.
-
-Cost: A general indication of the cost of the weapon. More expensive weapons are better.
+**Ability:** The Weapon Ability needed to use this weapon.<br>
+**Init:** The Weapon Initiative Modifier.<br>
+**Atk:** The Weapon Attack Modifier.<br>
+**Dfn:** The Weapon Defense Modifier.<br>
+**Dam:** The Weapon Damage Modifier.<br>
+**Range:** The range increment for the weapon, in paces.<br>
+**Str:** The minimum strength score needed to use the weapon. The minimum strength requirements for a weapon and a shield must be met separately.<br>
+**Load:** The contribution that the weapon makes to Encumbrance (p20/p403). For bows and the sling, this includes the load of appropriate ammunition.<br>
+**Cost:** A general indication of the cost of the weapon. More expensive weapons are better.
 
 ### Armor Table
 
@@ -22830,11 +22786,9 @@ Cost: A general indication of the cost of the weapon. More expensive weapons are
 | Metal Scale | 4 | 4 | 7 | 7 | Std. |
 | Chain Mail | 6 | 4 | 9 | 6 | Exp. |
 
-Prot: Protection is the bonus the armor grants to the character's Soak score.
-
-Load: The amount the armor adds to the character's Burden.
-
-Cost: A general indication of the expense of the armor. More expensive armor is better.
+**Prot:** Protection is the bonus the armor grants to the character's Soak score.<br>
+**Load:** The amount the armor adds to the character's Burden.<br>
+**Cost:** A general indication of the expense of the armor. More expensive armor is better.
 
 ### Melee Weapon Statistics
 
@@ -22873,21 +22827,14 @@ Cost: A general indication of the expense of the armor. More expensive armor is 
 \*\* Includes spiked clubs, military hammers, and other bashing weapons<br>
 \*\*\* Includes the lance, if used dismounted.
 
-Ability: The Weapon Ability needed to use this weapon.
-
-Init: The Weapon Initiative Modifier.
-
-Atk: The Weapon Attack Modifier.
-
-Die The Weapon Defense Modifier.
-
-Dfn: The Weapon Defense Modifier. Dam: The Weapon Damage Modifier.
-
-Str: The minimum strength score needed to use the weapon. The minimum strength requirements for a weapon and a shield must be met separately.
-
-Load: The contribution that the weapon makes to Encumbrance (p20/p403).
-
-Cost: A general indication of the cost of the weapon. More expensive weapons are better.
+**Ability:** The Weapon Ability needed to use this weapon.<br>
+**Init:** The Weapon Initiative Modifier.<br>
+**Atk:** The Weapon Attack Modifier.<br>
+**Dfn:** The Weapon Defense Modifier.<br>
+**Dam:** The Weapon Damage Modifier.<br>
+**Str:** The minimum strength score needed to use the weapon. The minimum strength requirements for a weapon and a shield must be met separately.<br>
+**Load:** The contribution that the weapon makes to Encumbrance (p20/p403).<br>
+**Cost:** A general indication of the cost of the weapon. More expensive weapons are better.
 
 ## Magic Rules
 
