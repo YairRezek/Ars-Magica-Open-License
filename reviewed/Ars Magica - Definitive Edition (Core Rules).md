@@ -63,6 +63,7 @@ Some identified issues present in source PDF (latest release as per march 2026).
 - p279: "your must add" should be "you must add" (fixed)
 - p296: Extra "an" in 2nd paragraph Regio: "...there is an another regio level" (fixed)
 - p325: Creo Auram Guidelines: Bottom bullet points are indented under Level 25 (fixed)
+- p339: Creo Herbam Spells: "LEVEL 20" heading is missing before "Bridge of Wood" (fixed) - Thanks Jason Tondro.
 - p372: Circular Ward Against Demons grammar: "equal to or less than or equal to the level" (fixed)
 - p401: Extra "is" in "Fist: This is includes..." (fixed)
 - p524: Extra "a" in "...enforce a myriad rules" (fixed)
@@ -13894,6 +13895,8 @@ Grows 10 paces of vine from a moderate quantity of wood, or from fertile soil. T
 R: Voice, D: Sun, T: Group<br>
 Causes strong, woody vines to grow rapidly from fertile earth. The vines cover a circle 2 paces across and reach 6 feet high. Anything caught within them is immobilized. To avoid the vines, the target must make a Quickness — Encumbrance stress roll against an Ease Factor of 9. To break out requires a Strength stress roll against an Ease Factor of 12 (allowed once a round). Someone not trapped can cut a trapped person free in two rounds, assuming proper tools. The vines weaken and wither to dust at sunrise or sunset.<br>
 (Base 1, +2 Voice, +2 Sun, +2 Group)
+
+#### LEVEL 20
 
 ##### Bridge of Wood
 R: Touch, D: Sun, T: Ind<br>
